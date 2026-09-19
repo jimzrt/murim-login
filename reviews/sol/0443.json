@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Mu Song, who had been dragged all the way to Hubei Province under the guise of compulsory volunteer work, trembled with emotion.",
+      "defect": "“Under the guise” adds an element of deception absent from the source and weakens the oxymoronic joke that his contribution of talent was compulsory.",
+      "id": "F01",
+      "rationale": "강제적인 재능기부 directly describes a coerced donation of talent, not coercion concealed behind a pretext.",
+      "replacement": "Mu Song, who had been forced into volunteering his talents all the way to Hubei Province, trembled with emotion.",
+      "severity": "minor",
+      "source": "강제적인 재능기부로 호북성까지 오게 된 무송은 감격으로 몸을 부르르 떨었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He stared at the suddenly empty harbor with a deeply furrowed brow, then called over one of his trusted subordinates.",
+      "defect": "The draft reduces Mu Song’s right-hand man to merely a trusted subordinate, losing the subordinate’s specific status in the hierarchy.",
+      "id": "F02",
+      "rationale": "오른팔 격인 explicitly identifies the subordinate as the equivalent of Mu Song’s right arm.",
+      "replacement": "He stared at the suddenly empty harbor with a deeply furrowed brow, then called over his right-hand man.",
+      "severity": "major",
+      "source": "미간을 좁힌 채 순식간에 텅 빈 항구를 바라보던 그가 오른팔 격인 수하를 불렀다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "At last, Jeok Cheongang—the Fire Pokémon who had escaped the water—wore a bright smile across his face.",
+      "defect": "The draft replaces the Pokémon type-matchup joke with a literal escape from water, omitting the gaming concept expressed by 상성.",
+      "id": "F03",
+      "rationale": "상성 refers to compatibility or matchup, making Jeok Cheongang’s problem a Fire Pokémon’s unfavorable type matchup rather than merely his physical location on water.",
+      "replacement": "At last, Jeok Cheongang—the Fire Pokémon finally free of his type disadvantage—wore a bright smile across his face.",
+      "severity": "minor",
+      "source": "드디어 상성 지역에서 벗어난 불 포켓몬, 적천강의 만면에 환한 웃음이 서렸다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Ahem? State clearly? For what purpose?”",
+      "defect": "Jeok Cheongang is mocking the official’s imperious speech endings, but the draft instead repeats pieces of the official’s factual question and loses the register-based intimidation.",
+      "id": "F04",
+      "rationale": "하거라 and 못할까 echo the official’s condescending commands and rhetorical demand; Jeok Cheongang is pointedly repeating that register back to him.",
+      "replacement": "“Ahem? ‘Answer me’? ‘Why don’t you tell me’?”",
+      "severity": "major",
+      "source": "“어허? 하거라? 못할까?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The spearpoints of the government troops surrounding us trembled.",
+      "defect": "The official’s own startled reaction is omitted.",
+      "id": "F05",
+      "rationale": "관리는 물론이고 explicitly includes the official alongside the trembling spearpoints.",
+      "replacement": "The official flinched, and the spearpoints of the government troops surrounding us trembled as well.",
+      "severity": "minor",
+      "source": "관리는 물론이고 우리를 둘러싼 관군들의 창끝이 움찔 떨렸다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Judging by your robes, you are a sixth-rank judicial official.",
+      "defect": "The draft omits the secondary grade within the sixth rank and generalizes the specific office of 이문 into an unspecified judicial position.",
+      "id": "F06",
+      "rationale": "종육품 specifies the secondary sixth rank, while 이문 is the official’s particular judicial title.",
+      "replacement": "Judging by your robes, you are a Judicial Inquirer of the secondary sixth rank.",
+      "severity": "major",
+      "source": "관복을 보아하니 종육품 이문(理問)이시구려."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Oh, by the way. Do you know someone here whose personal name is Hongcheon?”",
+      "defect": "The draft misreads 이 가 as “here,” erasing the person’s surname and changing his identity.",
+      "id": "F07",
+      "rationale": "이 가 means a person of the Yi family, while 홍천 is his given name.",
+      "replacement": "“Oh, by the way. Do you know a man surnamed Yi whose given name is Hongcheon?”",
+      "severity": "critical",
+      "source": "“아, 그건 그렇고 이 가에 홍천이라는 함자를 쓰시는 분을 알고 계시오?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“With a heart as vast as the sea, this insignificant one can only be grateful!”",
+      "defect": "The draft omits the official’s surname, Son, replacing his self-identification with a generic deferential expression.",
+      "id": "F08",
+      "rationale": "이 손 모 identifies the speaker as a certain man surnamed Son; it is not merely a humble first-person pronoun.",
+      "replacement": "“This man Son can only be deeply grateful for your heart as vast as the sea!”",
+      "severity": "major",
+      "source": "“대해와도 같은 마음씨에 이 손 모, 감읍할 따름입니다!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "If he could say something like that with such confidence, he must have sown quite a few seeds.",
+      "defect": "The literal seed metaphor is ambiguous in English and can suggest fathering children rather than cultivating useful relationships.",
+      "id": "F09",
+      "rationale": "뿌려 놓은 씨앗 metaphorically refers to the political and personal connections Jin Wikyung has established.",
+      "replacement": "If he could say something like that with such confidence, he must have cultivated quite a few connections.",
+      "severity": "minor",
+      "source": "이렇게까지 말할 정도면 뿌려 놓은 씨앗이 상당한 모양이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Written in cloud-like calligraphy across the pure-white silk martial robes they wore were three words:",
+      "defect": "“Three words” is an unsupported addition and is also inconsistent with the two-word English rendering that follows.",
+      "id": "F10",
+      "rationale": "The source only says that the following name was written on the robes; it gives no word or character count.",
+      "replacement": "Written in cloud-like calligraphy across the pure-white silk martial robes they wore was:",
+      "severity": "minor",
+      "source": "그들이 걸친 새하얀 비단 무복에는 구름 같은 글씨체로 이렇게 쓰여 있었다."
+    }
+  ],
+  "summary": "One critical identity error, several meaningful omissions of hierarchy, register, and characterization, and localized terminology and wording issues.",
+  "version": 1
+}
