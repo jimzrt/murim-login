@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 498
-- Next chapter: 499
-- Current block: 495–499 (4/5)
-- Latest translation: `translations/0498.md`
-- Latest summary: `summaries/beats/0498.md`
-- Safe profiles through: chapter 498
+- Last completed: 499
+- Next chapter: 500
+- Current block: 495–499 (5/5)
+- Latest translation: `translations/0499.md`
+- Latest summary: `summaries/beats/0499.md`
+- Safe profiles through: chapter 499
 
 ## Current Block
 
-- Jin Taekyung awakens after Mungyeong's poisoned training and learns that he completed the Fake Murim Martial Artist Quest, earned EXP and points, greatly increased his Poison Resistance, sharpened his Qi Sense, and gained a clue to enlightenment. A Follow-up Quest, Fake Murim Martial Artist—Stage 2, is created, though its objective depends on Mungyeong's future plans; Taekyung still cannot remember how he evaded the Slaughter Saint's final sword stroke.
-- A signal announces a visitor, and the Jin Family of Taiyuan arrives with more than fifty Jin Dragon Squad martial artists, all at least First Rate. Wipeng formally greets the Third Young Master, Jang Taebo accompanies the group at Jin Wikyung's special request, and Hyuk Mujin returns claiming to have completed guard duty while Taekyung suspects he was sleeping.
+- At Jin Wikyung's camp beside Dongting Lake, Wipeng reports that Lee Seowol's Mount Heng Sword Sect has been rebuilt and is growing rapidly under her leadership, with Cheol Mubaek out of seclusion and helping its affairs. Jin Mukyung has remained secluded in the training hall for more than a year after losing to Cheongpung, eating only fasting pills while pursuing a breakthrough. Jin Wikyung reveals that he established Ironcraft Hall to bring Jang Taebo back into service, but Jang refuses until Taekyung produces one of several legendary materials; Taekyung immediately provides an imugi's claw, completing the Sudden Quest and causing the Jin Family of Taiyuan to recruit Jang as Master of Ironcraft Hall.
 
 ## Open Questions
 
