@@ -1490,3 +1490,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 융중산 | **Mount Longzhong** | Mountain associated with Zhuge Kongming's seclusion. |
 | 와룡객 | **Crouching Dragon Guest** | Epithet of Zhuge Feng. |
 | 제갈풍 | **Zhuge Feng** | Current Family Head of the Zhuge Clan. |
+| 해사방 | **Sea Serpent Society** | Hubei association formed by fishermen and boatmen; it was annihilated at Red Cliffs. |
+| 적벽 | **Red Cliffs** | Site where the Sea Serpent Society's leaders and core members were killed. |
+| 동정어옹 | **Dongting Fisherman** | Publicly condemned the Yangtze River Channel League and disappeared three days before this chapter. |
+| 황 대협 | **Great Hero Hwang** | Great Hero of Donghu Stronghold whom Zhuge Feng distinguishes from other Stronghold Lords. |

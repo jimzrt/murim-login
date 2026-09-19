@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“What? That Thunderbolt Saber King bastard was there? And you even fought?”",
+      "defect": "The added subject “you” makes Zhuge Feng the person who fought, whereas Jeok Cheongang is incredulously realizing that he himself fought the Thunderbolt Saber King.",
+      "id": "F01",
+      "rationale": "The preceding account explicitly says Jeok Cheongang fought Great Hero Peng and got a bloody nose; the omitted Korean subject must therefore refer to Jeok and Peng, not Zhuge Feng.",
+      "replacement": "“What? That Thunderbolt Saber King bastard was there too? We even fought?”",
+      "severity": "critical",
+      "source": "“뭐? 그 자리에 벽력도왕 그놈도 있었나? 심지어 싸우기까지 했어?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the same time, his palm strike, backed by tremendous force, slammed into the nearest bookshelf.",
+      "defect": "The translation omits the explicit quantity 만근, reducing a quantified description of the strike’s force to a generic intensifier.",
+      "id": "F02",
+      "rationale": "만근 거력 specifically describes force equivalent to ten thousand geun; preserving the quantity conveys the stated scale of the blow.",
+      "replacement": "At the same time, his palm strike, carrying the tremendous force of ten thousand geun, slammed into the nearest bookshelf.",
+      "severity": "major",
+      "source": "동시에 만근 거력이 실린 일장이 가장 가까이에 있는 책장을 후려쳤다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Enough. Is that really necessary?”\n\nJeok Cheongang, who had been looking around the library, interrupted him.",
+      "defect": "The speech and its framing action are reversed, making the interruption read as though it occurs after the line rather than through it.",
+      "id": "F03",
+      "rationale": "The source establishes Jeok Cheongang’s action before presenting the words with which he interrupts Zhuge Gyun.",
+      "replacement": "Jeok Cheongang, who had been looking around the library, interrupted him.\n\n“Enough. Is that really necessary?”",
+      "severity": "minor",
+      "source": "서고를 둘러보던 적천강이 제갈균의 말을 끊었다.\n\n“됐다. 그렇게까지 할 필요가 있겠느냐?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Oh, sibu-leol.*",
+      "defect": "The draft substitutes the separately established transliteration of 시부럴 for the different profanity 시벌, obscuring the meaning of an otherwise directly translatable reaction.",
+      "id": "F04",
+      "rationale": "시벌 is a minced pronunciation of strong Korean profanity and should retain its blunt force rather than be replaced with an inapplicable romanized term.",
+      "replacement": "*Oh, fuck.*",
+      "severity": "minor",
+      "source": "오메, 시벌."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“My apologies. Cough. I’m sorry I couldn’t come out to greet you in advance. There have been an unusual number of matters requiring my attention lately. Cough.”",
+      "defect": "The draft turns the opening 이거 참 into an added apology, redundantly apologizing twice and losing Zhuge Feng’s mild introductory exclamation.",
+      "id": "F05",
+      "rationale": "이거 참 is an exclamation such as “Well, now,” while the actual apology begins with 미리 마중 나가지 못해 죄송합니다.",
+      "replacement": "“Well, now. Cough. I’m sorry I couldn’t come out to greet you in advance. There have been an unusual number of matters requiring my attention lately. Cough.”",
+      "severity": "minor",
+      "source": "“이거 참, 콜록. 미리 마중 나가지 못해 죄송합니다. 근래 들어 유난히 신경 써야 할 일이 많은지라. 콜록.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Mu Song tried to leave, saying that he had to go to the Yangtze River Channel League’s Hubei strongholds, but he had no choice but to stop after Zhuge Feng said one thing.",
+      "defect": "The draft changes Mu Song’s destination from a stronghold to multiple Hubei strongholds.",
+      "id": "F06",
+      "rationale": "장강수로채 is singular in this context and does not state that Mu Song planned to visit several strongholds.",
+      "replacement": "Mu Song tried to leave, saying that he had to go to a Yangtze River Channel League stronghold in Hubei, but he had no choice but to stop after Zhuge Feng said one thing.",
+      "severity": "major",
+      "source": "무송은 호북성 장강수로채에 가야 한다며 자리를 뜨려고 했지만, 제갈풍의 한마디에 떼었던 발걸음을 멈출 수밖에 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Forty-five ship owners who had sworn loyalty to him and more than a thousand members of the Sea Serpent Society attended.",
+      "defect": "The draft changes a count of approximately one thousand Society members into more than one thousand.",
+      "id": "F07",
+      "rationale": "일천을 헤아리는 means numbering around one thousand; it does not establish that the attendance exceeded one thousand.",
+      "replacement": "Forty-five shipowners who had sworn loyalty to him and roughly a thousand members of the Sea Serpent Society attended.",
+      "severity": "major",
+      "source": "방주에게 충성을 맹세한 마흔다섯 명의 선주와 일천을 헤아리는 해사방도가 참석하여 자정이 넘도록 술잔을 기울이고 적벽(赤壁)의 강물에 수십 척의 놀잇배를 띄웠어."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Of course not. The Great Hero Hwang of Donghu Stronghold whom I know is not such a foolish man. He is different from the other foolish and violent Stronghold Lords.”",
+      "defect": "The present-tense denial obscures the deliberate shift into past tense, which signals that Zhuge Feng did not suspect the League initially but may suspect it now.",
+      "id": "F08",
+      "rationale": "아니었지 is explicitly past tense and sets up the following statement that this was Zhuge Feng’s view only until the Dongting Fisherman disappeared.",
+      "replacement": "“Of course I didn’t. The Great Hero Hwang of Donghu Stronghold whom I know is not such a foolish man. He is different from the other foolish and violent Stronghold Lords.”",
+      "severity": "major",
+      "source": "“당연히 아니었지. 내가 아는 동정채의 황 대협은 그렇게 우매한 사람이 아니니까. 다른 우매하고 난폭한 채주들과는 다른 인물이지.”"
+    }
+  ],
+  "summary": "The draft contains one subject reversal and several meaningful losses involving quantity, chronology, destination, and register.",
+  "version": 1
+}

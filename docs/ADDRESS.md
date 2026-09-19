@@ -759,3 +759,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진위경 | 관리 | influential martial artist to government official | you | formal, controlled, and quietly authoritative | Jin Wikyung identifies the official's rank, demands that he withdraw his troops, and directs him to apologize. |
 | 제갈균 | 적천강 | junior martial artist to legendary senior | Senior | formal-deferential | Gyun addresses Jeok as 노 선배님 during his introduction. |
 | 적천강 | 제갈균 | legendary elder to Zhuge Clan Lesser Family Head | you / bastard | blunt and insulting | Jeok questions Gyun about Gonghu and mocks his manners. |
+| 제갈균 | 제갈풍 | son_to_father_and_lesser_family_head_to_family_head | Family Head | formal-deferential | Gyun calls out to Zhuge Feng as Family Head when the library appears empty. |
+| 적천강 | 제갈풍 | senior_martial_artist_to_old_acquaintance | you / ill-mannered brat | blunt, familiar, and teasing | Jeok treats Zhuge Feng as the younger acquaintance he remembers from childhood. |
+| 제갈풍 | 적천강 | younger_old_acquaintance_to_legendary_senior | Senior | respectful but relaxed | Zhuge Feng recalls Jeok's earlier visit and addresses him as an old senior. |
+| 제갈풍 | 무송 | family_head_to_stronghold_lord | Ship-Fire Boy Mu Song | calm, formal, and pointed | Zhuge Feng stops Mu Song from leaving by saying the coming information concerns him. |
+| 무송 | 제갈풍 | stronghold_lord_to_orthodox_family_head | Great Hero Zhuge | formal and concerned | Mu Song addresses Zhuge Feng after realizing why he was asked to remain. |
