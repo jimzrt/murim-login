@@ -1660,3 +1660,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 송학 | **Songhak** | Fifth Sect Leader of the Fire Gate Clan. |
 | 구진천 | **Gu Jincheon** | Ninth Sect Leader of the Fire Gate Clan. |
 | 귀염권 | **Ghost Flame Fist** | Sobriquet of Songhak. |
+| 궁예 | **Gung Ye** | Korean ruler invoked in Taekyung's mind-reading joke. |
