@@ -32,7 +32,7 @@ A short while later, Namgung Ryong set down the bamboo slips he had been careful
 
 “I invited you here as a guest, yet I have treated you poorly. You have my apology.”
 
-“No, it’s fine. You may have been busy.”
+“No, it’s fine. You must be busy.”
 
 “I also owe you an apology for my son’s discourtesy.”
 
@@ -90,7 +90,7 @@ A dark shadow passed over Namgung Ryong’s face.
 
 “It’s all right. People that age grow up by beating each other black and blue. But why did you call me here…?”
 
-This man was definitely more of a doting fool than he looked.
+This man was definitely a more doting father than he looked.
 
 Momentarily at a loss after my swift interruption, Namgung Ryong finally spoke.
 
@@ -116,7 +116,7 @@ My relaxed posture stiffened on its own. I ran a hand over the beard that had gr
 
 Namgung Ryong sighed.
 
-“My father must have been deeply resentful of that defeat. For several years afterward, he devoted himself to secluded training, stewing over it.”
+“My father must have taken that defeat very hard. For several years afterward, he devoted himself to secluded training, gritting his teeth and waiting for another chance.”
 
 Defeat always cut deep.
 
@@ -126,7 +126,7 @@ And if the person in question was one of the greatest masters in the world—som
 
 This would be a fight between Supreme Peak masters. Its intensity went without saying, and if things went too far, blood could easily be spilled.
 
-If they had planned to calmly exchange a few moves, laugh good-naturedly, and withdraw, Namgung Ryong would have had no reason to bring this up.
+If they planned to exchange a few moves, laugh good-naturedly, and walk away, Namgung Ryong would have had no reason to bring this up.
 
 The problem was…
 
@@ -148,15 +148,15 @@ Namgung Ryong stared at me.
 
 “I can make a rough guess.”
 
-The Fire King and the Sword King. Both were giants who ruled over the martial world.
+The Fire King and the Sword King. Both were giants who stood at the pinnacle of the martial world.
 
-If the worst happened, the aftermath would be like a meteor crashing into the shore of a quiet lake.
+If the worst happened, the aftermath would be like a meteor crashing into a tranquil lake.
 
 “Then you shouldn’t have brought us to the Nangong Family.”
 
 “That…”
 
-“I know. You had no choice. But if even the Family Head can’t persuade his father, what could I possibly do?”
+“I know. You had no choice. But if even you can’t persuade your father, what could I possibly do?”
 
 I shook my head. Whatever else I said here would be pointless.
 
@@ -208,7 +208,7 @@ Namgung Ok stared at my hand pressing down on his sword hilt.
 
 Pat, pat.
 
-I patted the shoulder of the man who had gone rigid as a stone statue, then approached the wide-eyed maidservant.
+I patted the shoulder of the man who had gone rigid as a statue, then approached the wide-eyed maidservant.
 
 “Excuse me.”
 
@@ -220,7 +220,7 @@ I patted the shoulder of the man who had gone rigid as a stone statue, then appr
 
 “No particular reason.”
 
-I glanced at the clear sky and continued.
+I glanced at the clear sky.
 
 “I thought I’d get some air.”
 
@@ -230,7 +230,7 @@ I shook off the maidservant, who insisted on accompanying me, and began climbing
 
 It was the height of spring. The mountain was green, and the sky was blue.
 
-I walked past drifting scraps of cloud and birds chattering from the branches. After some time, I entered a broad clearing and suddenly stopped.
+I walked beneath drifting scraps of cloud and birds chattering from the branches. After some time, I entered a broad clearing and stopped.
 
 “You can come out now.”
 
@@ -238,7 +238,7 @@ Nothing changed. Leaves rippled in the breeze, sparrows chirped as they ceaseles
 
 Yet an incongruous presence towered amid the natural scenery.
 
-Then a voice wormed its way into my ears.
+Then a voice reached my ears.
 
 “Not bad. Not bad at all.”
 
@@ -260,9 +260,9 @@ The Azure Sky Sword King Nangong Cheon—the Grand Family Head of the Nangong Fa
 
 I scratched the back of my head and grinned. It was embarrassing to have him cut straight to the point, but it also made things easier.
 
-“Did I make it a little… too obvious?”
+“Was I… that obvious?”
 
-I had first noticed his presence in the Family Head’s pavilion.
+I had first noticed his presence in the Family Head’s Hall.
 
 Namgung Ryong had failed to sense him, but I had not. The Azure Sky Sword King was the reason I had come up the mountain under the pretense of getting some fresh air.
 
@@ -290,7 +290,7 @@ I took a deep breath. Then, without hesitation, I dropped to the ground and pros
 
 Clatter!
 
-The chains collided, spewing a cacophonous rattle.
+The chains struck one another with a deafening rattle.
 
 “What are you doing?”
 
@@ -310,9 +310,9 @@ But judging by the prickling at the back of my head, as if a blade were stabbing
 
 He had spent twenty years training for today’s duel.
 
-And now some young brat who looked young enough to be his grandson had suddenly appeared and asked him to cancel it. On top of that, I was telling him I could not explain why.
+And now some young brat barely old enough to be his grandson had appeared out of nowhere and asked him to cancel it. Worse, I was telling him I could not explain why.
 
-But the die had already been cast. Pressing my face into the fresh earth, I spoke again.
+But the die had already been cast. I pressed my forehead into the fresh earth and repeated myself.
 
 “I’m sorry. But I cannot tell you the reason.”
 
@@ -344,7 +344,7 @@ Clumps of dirt fell from me as I rose. The Azure Sky Sword King’s voice was as
 
 “I waited twenty years.”
 
-“Then please wait one more year.”
+“Then please wait one more.”
 
 I continued calmly.
 
@@ -352,7 +352,7 @@ I continued calmly.
 
 “A victory like that…?”
 
-The Azure Sky Sword King muttered the words under his breath and let out a hollow laugh.
+The Azure Sky Sword King muttered the words and let out a hollow laugh.
 
 “Great Hero Jeok trained his Disciple well.”
 
@@ -408,7 +408,7 @@ Craaack! Clang!
 
 I tore apart the steel shackles that had bound my limbs for more than a year as easily as sheets of paper.
 
-The instant the chains and iron balls fell to the ground—
+The instant the chains and iron balls struck the ground—
 
 Whoosh!
 
