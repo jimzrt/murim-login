@@ -1661,3 +1661,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 구진천 | **Gu Jincheon** | Ninth Sect Leader of the Fire Gate Clan. |
 | 귀염권 | **Ghost Flame Fist** | Sobriquet of Songhak. |
 | 궁예 | **Gung Ye** | Korean ruler invoked in Taekyung's mind-reading joke. |
+| 비도 | **throwing blade** | Mungyeong throws one past Taekyung's neck. |
+| 암기 | **hidden weapon** | Term used in Mungyeong's promise not to throw one. |
+| 노 | **oar** | Mungyeong uses an oar to strike Taekyung. |
+| 선미 | **stern** | The rear of the swift ship. |
+| 화기 | **fire qi** | The fire nature imparted to internal energy by the Fire Gate Divine Technique. |
+| 답보 | **stagnation** | Taekyung's current lack of progress in martial arts. |

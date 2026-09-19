@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "# Chapter 509",
+      "defect": "The opening System notification sound is omitted.",
+      "id": "F01",
+      "rationale": "The source explicitly opens with the notification chime, paralleling the later System alert.",
+      "replacement": "# Chapter 509\n\nDing.",
+      "severity": "minor",
+      "source": "띠링."
+    },
+    {
+      "confidence": 0.96,
+      "current": "To exaggerate a little, if I poured all the blood I had shed over the past seven days and nights into a tub, every mosquito in Hubei Province could gather for a feast.",
+      "defect": "“Blood I had shed” suggests ordinary bleeding and loses the continued reference to the bloody fluid he excreted during the training.",
+      "id": "F02",
+      "rationale": "쏟아 낸 핏물 continues the preceding 피똥 joke and refers to the bloody fluid that came out of his body, not blood shed through an injury.",
+      "replacement": "To exaggerate a little, if all the bloody liquid I’d passed over the past seven days and nights were collected in a tub, every mosquito in Hubei Province could gather for a feast.",
+      "severity": "major",
+      "source": "과장 좀 보태서, 지난 칠주야 동안 내가 쏟아 낸 핏물을 통에 담으면 호북성에 존재하는 모든 모기 새끼들이 모여 잔치를 벌일 수 있을 거다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I turned my head at the sound of the wind. A throwing blade shot past like a streak of light, grazing my neck by a hair before slicing through the river behind me.",
+      "defect": "“Grazing my neck” indicates physical contact, while the blade narrowly passes his neck without an injury being described.",
+      "id": "F03",
+      "rationale": "아슬아슬하게 목을 스쳐 지나가 describes a near miss past his neck; the source does not say the blade struck or cut him.",
+      "replacement": "I turned my head at the sound of the wind. A throwing blade shot past like a streak of light, missing my neck by a hair before slicing through the river behind me.",
+      "severity": "critical",
+      "source": "바람 소리와 함께 고개를 틀자, 빛살처럼 쏘아진 비도(飛刀) 한 자루가 아슬아슬하게 목을 스쳐 지나가 등 뒤의 강물을 갈랐다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "In a moment so brief it could not even be called an instant, I covered a dozen or more yards and landed on the stern of the swift ship—",
+      "defect": "십여 장 is more than ten jang—over one hundred feet—not a dozen or more yards. The draft reduces the distance to roughly one-third of the source quantity.",
+      "id": "F04",
+      "rationale": "A jang is approximately ten feet; 십여 장 therefore denotes somewhat more than one hundred feet.",
+      "replacement": "In a moment so brief it could not even be called an instant, I covered over a hundred feet and landed on the stern of the swift ship—",
+      "severity": "critical",
+      "source": "촌각이라고 할 수도 없을 만큼 짧은 순간에 십여 장의 거리를 지워 낸 나는 쾌조선의 선미(船尾)에 착륙……."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I would have been less embarrassed if his voice had contained pity or mockery.",
+      "defect": "한심함 means disdain or contempt for someone’s pathetic inadequacy, not pity.",
+      "id": "F05",
+      "rationale": "The humiliation comes from Mungyeong’s flat acceptance of Taekyung’s low level rather than overt contempt; rendering 한심함 as pity changes that contrast.",
+      "replacement": "I would have been less embarrassed if his voice had contained disdain or mockery.",
+      "severity": "minor",
+      "source": "차라리 한심함과 비웃음이 담겨 있었다면 덜 부끄러웠을 거다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*You still have five hundred gigabytes of porn—no, room left to fill. There’s no reason to buy another external hard drive when you still have capacity.*",
+      "defect": "“You still have five hundred gigabytes of porn” says the porn is already present, contradicting the analogy that five hundred gigabytes of unused capacity remain.",
+      "id": "F06",
+      "rationale": "The joke rests on Taekyung momentarily describing the remaining capacity as another five hundred gigabytes of porn before correcting himself to space he can still fill.",
+      "replacement": "*You still have another five hundred gigabytes of porn—no, another five hundred gigabytes left to fill. There’s no reason to buy another external hard drive when you still have capacity.*",
+      "severity": "major",
+      "source": "너에게는 아직 500기가의 야동, 아니 더 채워 넣을 수 있는 부분이 있다고. 용량이 남았는데도 새로운 외장 하드를 추가 구입할 필요는 없다고 말이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Keep your eyes straight. Before I gouge them out.”",
+      "defect": "“Keep your eyes straight” is not idiomatic English and does not naturally convey Mungyeong warning Taekyung about the adoring look he is giving him.",
+      "id": "F07",
+      "rationale": "눈 똑바로 떠라 is a hostile warning to control his gaze; the replacement preserves the blunt threat without the Korean-syntax calque.",
+      "replacement": "“Watch where you’re looking before I gouge your eyes out.”",
+      "severity": "minor",
+      "source": "“눈 똑바로 떠라. 파 버리기 전에.”"
+    }
+  ],
+  "summary": "Two scene facts are altered, and several omissions or wording choices weaken the source’s bodily humor, emotional register, and hard-drive analogy.",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "More than two hundred years ago, the Fifth Sect Leader of our sect destroyed the Five Poisons Sect of Nanman.",
+      "defect": "The identified Sect Leader contradicts the record quoted earlier in the same chapter, where Gu Jincheon, the Ninth Sect Leader, states that he destroyed the Five Poisons Sect.",
+      "id": "C01",
+      "rationale": "Using “Ninth Sect Leader” restores internal continuity with Gu Jincheon’s explicit account and preserves the historical basis for the Nanman Beast Palace’s goodwill toward the Fire Gate Clan.",
+      "replacement": "More than two hundred years ago, the Ninth Sect Leader of our sect destroyed the Five Poisons Sect of Nanman.",
+      "severity": "minor",
+      "source": "Chapter 507, Jeok Cheongang explaining the Fire Gate Clan’s connection to the Nanman Beast Palace"
+    }
+  ],
+  "summary": "The packet is coherent in voice, terminology, formatting, hooks, and active state, with one explicit lineage contradiction in Chapter 507.",
+  "version": 1
+}

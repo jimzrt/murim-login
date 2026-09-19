@@ -1,6 +1,6 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 508
+- **Safe through:** Chapter 509
 - **Aliases:** Killing Ghost
 - **Role:** Mungyeong is the legendary physician known as the former Divine Physician and Slaughter Saint, a Returned to Youth Supreme Peak master and the greatest assassin in history who passed the Divine Physician title to his Disciple.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
