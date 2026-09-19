@@ -1527,3 +1527,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사륜차 | **Four-Wheeled Cart** | Zhuge Wuhou's former vehicle and one of the Zhuge Clan's claimed sacred treasures. |
 | 병법이십사편 | **Twenty-Four Chapters on the Art of War** | Zhuge Wuhou's compilation of military insights. |
 | 백우선 | **White Feather Fan** | Zhuge Wuhou's former fan and one of the Zhuge Clan's claimed sacred treasures. |
+| 익양루 | **Yiyang Tower** | Scenic tower overlooking Dongting Lake. |
