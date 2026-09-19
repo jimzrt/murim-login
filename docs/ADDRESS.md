@@ -757,3 +757,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 관리 | legendary martial master to government official | you | blunt and mocking | Jeok Cheongang repeatedly echoes the official's formal phrasing while challenging his authority. |
 | 관리 | 진위경 | government official to influential martial artist | you | formal, then deferential | The official asks Jin Wikyung's identity before bowing and apologizing after learning of his connection to Yi Hongcheon. |
 | 진위경 | 관리 | influential martial artist to government official | you | formal, controlled, and quietly authoritative | Jin Wikyung identifies the official's rank, demands that he withdraw his troops, and directs him to apologize. |
+| 제갈균 | 적천강 | junior martial artist to legendary senior | Senior | formal-deferential | Gyun addresses Jeok as 노 선배님 during his introduction. |
+| 적천강 | 제갈균 | legendary elder to Zhuge Clan Lesser Family Head | you / bastard | blunt and insulting | Jeok questions Gyun about Gonghu and mocks his manners. |
