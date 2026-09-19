@@ -10,13 +10,13 @@ Jongni Chu’s eyes curved like half-moons at the loaded question.
 
 My next words came out calm enough to surprise even me.
 
-“Who are you? You.”
+“Who are you?”
 
 “Shouldn’t you catch that friend behind you first?”
 
 Jongni Chu was right. I caught Cheongpung by the arm as he crumpled.
 
-There was a little bleeding from the shallow cut across his chest, but it was nowhere near enough to bring down a master of Cheongpung’s caliber.
+A little blood seeped from the shallow cut across his chest, but the wound was nowhere near serious enough to bring down a master of Cheongpung’s caliber.
 
 “What did you do to him?”
 
@@ -88,7 +88,7 @@ Jongni Chu deliberately widened his eyes.
 
 “I don’t give a damn about that.”
 
-“Thank you. Thanks to you, I’ll be able to win easily and make my name known throughout the world.”
+“Thank you. Now I can win with ease and make my name known throughout the world.”
 
 “Cut the crap. Drop the lousy acting and tell me what you really think.”
 
@@ -102,7 +102,7 @@ Jongni Chu paused, then grinned.
 
 “So what’s your answer?”
 
-“I did want to fight you at least once.”
+“I have wanted to fight you at least once.”
 
 The judge, who had been listening to us, cut in with a grim expression.
 
@@ -242,7 +242,7 @@ I enunciated each word clearly.
 
 Jeok Cheongang nodded.
 
-“Go in peace. I’ll avenge you, so don’t worry about what comes after.”
+“Die in peace. I’ll avenge you, so don’t worry about what comes after.”
 
 “Seriously? You call that comforting?”
 
@@ -274,13 +274,13 @@ When I first came to the Murim, I had relied entirely on the former. But as time
 
 The Murim had too many variables to judge anyone by Level alone.
 
-*Show me something. Even a little. Show me what you really are.*
+*Show me something. Anything. Show me what you really are.*
 
 Swoooosh!
 
 Once Qi Sense reached the eighth stage, I could focus it entirely on a single person.
 
-A blue line visible only to me shot forward without hesitation and reached Jongni Chu.
+A blue line visible only to me shot forward and reached Jongni Chu.
 
 No—just as I thought it had reached him—
 
@@ -320,13 +320,13 @@ As befitted a Supreme Peak master, he had been able to control his qi freely. Th
 
 *But even Jeok Cheongang couldn’t repel the Skill.*
 
-And now an unknown force had rejected the Skill. I had never heard of anything like it.
+Yet now an unknown force had rejected it. I had never heard of anything like that.
 
-The more I saw Jongni Chu violate common sense, the more one word floated through my mind.
+The more Jongni Chu defied common sense, the more one phrase floated through my mind.
 
 *Demonic martial arts.*
 
-Martial arts that defied reason.
+Martial arts that defied the natural order.
 
 My suspicion hardened into certainty. At last, I understood the meaning behind the question Jeok Cheongang had asked him earlier.
 
@@ -342,13 +342,13 @@ Sssrk.
 
 The rusted sword slowly rose and pointed between my eyebrows.
 
-A humming voice followed, utterly at odds with the suffocating edge of his sword.
+A lilting, almost singsong voice followed, utterly at odds with the suffocatingly sharp aura.
 
 “Come. Let’s have some fun.”
 
 I raised White Flame and answered.
 
-“Yeah. Let’s have a brutal good time.”
+“Yeah. Let’s make it brutal.”
 
 Fwoosh!
 
@@ -362,7 +362,7 @@ Jeok Cheongang used Seizing an Object Through Empty Space to pull Cheongpung tow
 
 The judge’s announcement was already meaningless.
 
-We were already charging toward each other.
+We were charging toward each other.
 
 Swoooosh!
 
