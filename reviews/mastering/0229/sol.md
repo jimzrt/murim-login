@@ -4,7 +4,7 @@
 
 “Yes.”
 
-“So you finally decided?”
+“So this is what you’ve decided?”
 
 When I nodded, an indescribably complicated look crossed Jin Wikyung’s face. Joy, disappointment, pride….
 
@@ -16,17 +16,17 @@ After a long silence, he bowed deeply to Jeok Cheongang.
 
 “…….”
 
-*When did I say that? He asked you to take good care of me. I don’t remember him saying I was lacking.*
+*When did he say that? He asked you to take good care of me. I don’t remember him saying I was lacking.*
 
 But there was no reasoning with Jeok Cheongang.
 
 He composed his twitching lips and spoke again.
 
-“Daylight has broken, so I intend to leave at once.”
+“Day has broken, so I intend to leave at once.”
 
 “What? You mean today?”
 
-“Obviously. Once a man makes up his mind, he must act without hesitation.”
+“Of course. Once a man makes up his mind, he should act without hesitation.”
 
 Jin Wikyung’s expression grew even gloomier. He looked back and forth between Jeok Cheongang and me, his face clouded over, then let out a deep sigh.
 
@@ -68,7 +68,7 @@ I quickly grabbed Jin Wikyung’s hand.
 
 Why go out of my way to suffer when I had money? If I could travel comfortably, that was all that mattered.
 
-I had already left behind a soft bed and logged in. I didn’t want to take things that far.
+I had already left a soft bed behind to log in. I had no desire to take things that far.
 
 And besides….
 
@@ -124,9 +124,9 @@ An iron sword cleaved through the air with a heavy rush.
 
 Once, then again, every motion flawless down to the last inch.
 
-How long had it been since he had begun each day with ten thousand strikes?
+How long had it been since he had begun starting each day with ten thousand strikes?
 
-The young man gripping the sword’s hilt did not know.
+The young man gripping the sword did not know.
 
 He was inside a cave where no light could enter, and he had long since lost all sense of time.
 
@@ -144,7 +144,7 @@ The young man silently swung his sword.
 
 It was a brutal physical regimen that had to be completed with raw strength and stamina alone, without using any internal energy.
 
-An ordinary martial artist would have collapsed from exhaustion long ago.
+Most martial artists would have collapsed from exhaustion long ago.
 
 But this young man, Jin Mukyung, was different.
 
@@ -180,7 +180,7 @@ Before he knew it, Jin Mukyung was remembering the day he had first met Cheongpu
 
 *He’s strong.*
 
-That was his first thought upon seeing the boy.
+That had been his first thought.
 
 Cheongpung had a clear, boyish face and an unremarkable build, with a single iron sword hanging carelessly from his waist. His demeanor and posture could not have looked more careless, yet Mukyung had known at once.
 
@@ -194,7 +194,7 @@ Swish! Swish-swish!
 
 Every ripple in his heart revealed itself through his sword.
 
-His stable stance collapsed, and his movements—once as precise as if measured with a ruler—became disordered.
+His stable stance collapsed, and his once ruler-straight movements fell apart.
 
 One hundred extra strikes. Two hundred. Three hundred….
 
@@ -234,7 +234,7 @@ He had allowed himself to be swept up in his emotions and failed to notice Taeky
 
 Jin Mukyung’s eyes trembled faintly.
 
-He was astonished that Taekyung had seen straight through his condition despite the iron door between them and the distance of more than ten jang.
+An iron door and more than ten jang separated them, yet Taekyung had seen straight through him.
 
 *This guy… Has he improved again already?*
 
@@ -256,7 +256,7 @@ In the past, he would have rushed out of the training hall at once, bowed until 
 
 But he had restrained himself.
 
-More than anyone, he knew that this was a process he had to understand for himself.
+More than anyone, he knew this was something he had to overcome on his own.
 
 *But why would he teach that boy…? No. There are more than enough reasons.*
 
@@ -292,7 +292,7 @@ Taekyung’s calm voice continued.
 
 “The Star-Array Grand Banquet.”
 
-“The Star-Array Grand Banquet.”
+“The Star-Array Grand Banquet….”
 
 Jin Mukyung repeated the words like a groan.
 
@@ -318,7 +318,7 @@ His footsteps gradually receded, then vanished altogether.
 
 Silence settled over the training hall.
 
-Jin Mukyung stared blankly at the iron door beyond which the other’s presence had vanished.
+Jin Mukyung stared at the iron door beyond which his brother’s presence had disappeared.
 
 *The Star-Array Grand Banquet.*
 
@@ -364,13 +364,11 @@ Hyuk Mujin, Cheongpung, and Wolhwa.
 
 And they weren’t alone.
 
-Over the shoulders of the three who had approached me first, I could see the others as well.
-
-Lee Seowol, awkwardly waving one hand, and the Three Plum Blossom Elites, standing there with expressions that seemed to say they had no idea where they were or who they were.
+Beyond the three who approached me first, I spotted Lee Seowol waving awkwardly and the Three Plum Blossom Elites standing around with expressions that seemed to ask where they were and what they were doing there.
 
 “How did you all know to come?”
 
-Wolhwa smiled sweetly.
+Wolhwa smiled.
 
 “Because we’re the Lower District Sect.”
 
@@ -390,7 +388,7 @@ I followed her pointing finger and found Hyuk Mujin proudly holding out a heavy 
 
 I had hoped to leave as quietly as possible, but nothing ever went according to plan.
 
-The moment I accepted the travel bag with a sigh, Cheongpung grabbed me by the collar and clung to me.
+The moment I accepted the travel bag with a sigh, Cheongpung grabbed my sleeve and clung to me.
 
 “Benefactor! I want to go with you! I want to become Grandpa Jeok’s Disciple!”
 
@@ -420,7 +418,7 @@ Baek Museong burst into hearty laughter at my reaction.
 
 *Now that’s mental fortitude.*
 
-I even felt a little respect for him.
+I almost felt respect for him.
 
 After finishing my conversation with Baek Museong, I turned my head.
 
@@ -454,9 +452,9 @@ I tightened my grip and whispered in his ear.
 
 “Good. Keep it that way for the rest of your life.”
 
-When I released his hand, Chulwoo sucked in a breath and hurriedly backed away.
+When I released him, Chulwoo sucked in a sharp breath and scurried backward.
 
-Watching him, Eunhyang, the youngest of the Three Plum Blossom Elites, could only marvel.
+Watching him, Eunhyang, the youngest of the Three Plum Blossom Elites, clicked her tongue in wonder.
 
 “……I never knew there was someone stronger than Senior Brother Chul. The world truly is vast.”
 
@@ -496,7 +494,7 @@ After squirming in discomfort, I finally managed to speak.
 
 “Yes. Go ahead.”
 
-I looked at Lee Seowol’s slightly lowered eyelids and brought out the words I had prepared.
+I looked at Lee Seowol’s lowered eyes and delivered the farewell I had prepared.
 
 “May peace prevail throughout your household.”
 
@@ -512,7 +510,7 @@ I smiled in satisfaction and was about to study Lee Seowol’s reaction when a s
 
 A short old man appeared in the distance.
 
-With Jin Wikyung and Wipeng flanking him, he seized me by the nape before I had a chance to say anything.
+Flanked by Jin Wikyung and Wipeng, he strode up and seized me by the nape before I could protest.
 
 “We have a long road ahead. Hurry up and follow me.”
 
@@ -526,4 +524,4 @@ Everyone’s faces rapidly receded into the distance.
 
 Jin Wikyung waved a handkerchief, his eyes red, and shouted, “My youngest! Come back safe and sound!”
 
-*……That only makes me more nervous!*
+*……Why would you say it like that? Now I’m even more nervous!*
