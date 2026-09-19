@@ -1500,3 +1500,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑죽조간 | **Black Bamboo Fishing Rod** | The Dongting Fisherman's unique signature weapon, found broken. |
 | 현공진인 | **Perfected Being Hyeongong** | Veteran Wudang Daoist master and the current Sect Leader's Junior Brother. |
 | 화왕질리언 | **Fire King Zilean** | Pun combining Jeok Cheongang's Fire King title with Zilean for the waxing joke. |
+| 대천성신장 | **Great Heavenly Star Divine Palm** | Zhuge Clan palm technique used to block Tianling Falls. |
+| 월미도 디스코 팡팡 | **Wolmido Disco Pang Pang** | Korean amusement-park ride used as a motion comparison. |

@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 447
-- Next chapter: 448
-- Current block: 445–449 (3/5)
-- Latest translation: `translations/0447.md`
-- Latest summary: `summaries/beats/0447.md`
-- Safe profiles through: chapter 447
+- Last completed: 448
+- Next chapter: 449
+- Current block: 445–449 (4/5)
+- Latest translation: `translations/0448.md`
+- Latest summary: `summaries/beats/0448.md`
+- Safe profiles through: chapter 448
 
 ## Current Block
 
-- Taekyung's group travels toward Donghu Stronghold aboard four fast ships with elite Zhuge Clan and Wudang disciples, including the Supreme Peak master Perfected Being Hyeongong. The ships reach Tianling Falls, a massive whirlpool guarding the route, and Taekyung learns that Mu Song has crossed it only three or four times and that Zhuge Feng deliberately concealed this. As the fast ship enters the whirlpool, Mu Song orders everyone to hold on and Tianling Falls slams into the vessel.
+- Taekyung, Jeok Cheongang, Cheongpung, Zhuge Feng, Hyeongong, and the other passengers combine their techniques to save four fast ships from the abnormally violent Tianling Falls. After surviving the crossing, they reach Donghu Stronghold, receive no response to their signal, and discover a corpse emerging from the fog and aquatic plants.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Why does Mungyeong continue accompanying Taekyung's group despite being unable to explain the impulse?
 - What confidential matter is Jin Wikyung withholding?
 - What are the terms of the Peace Guild–Wizard Guild agreement, and what evidence is contained in Lee Jungryong's holographic recorder?
-- Who destroyed the Sea Serpent Society, caused the disappearances of the Yangtze River Channel League strongholds and Dongting Fisherman, and what happened inside Donghu Stronghold?
+- Who destroyed the Sea Serpent Society, caused the disappearances of the Yangtze River Channel League strongholds and Dongting Fisherman, and what happened inside Donghu Stronghold, whose signal went unanswered and where a corpse surfaced?
 
 ## Exceptional Decision
 

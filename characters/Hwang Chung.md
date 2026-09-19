@@ -1,6 +1,6 @@
 # Hwang Chung (황충)
 
-- **Safe through:** Chapter 446
+- **Safe through:** Chapter 448
 - **Aliases:** Yangtze One Saber
 - **Role:** Hwang Chung is the Lord of Donghu Stronghold, a moderate-faction elder of the Yangtze River Channel League, and the Seafaring King's sworn brother.
 - **Personality:** Calm, clever, and supportive of the orthodox faction during the Great Faction War.

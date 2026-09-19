@@ -769,3 +769,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 현공진인 | 제갈풍 | senior Wudang master to Zhuge Clan Family Head | Family Head Zhuge | formal-respectful | Uses 제갈가주 while discussing the fast ship and the route. |
 | 제갈풍 | 현공진인 | Zhuge Clan Family Head to senior Wudang master | Perfected Being Hyeongong | formal-deferential | Addresses Hyeongong with marked respect and calls his presence a great reinforcement. |
 | 궁기방 | 무송 | martial companion to Stronghold Lord | Senior Mu Song | pleading-deferential | Begins pleading for Mu Song to save them from Tianling Falls. |
+| 진위경 | 무송 | Alliance inspector to Stronghold Lord | Stronghold Lord | formal and cautionary | Uses 채주 while warning Mu Song that the group did not come to spill blood. |
