@@ -720,3 +720,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 매직 존슨 | allied Hunter to allied Grand Mage | Johnson | familiar and teasing | Jin repeatedly addresses Magic Johnson by his surname. |
 | 매직 존슨 | 진태경 | allied Grand Mage to allied Hunter | Jin | familiar and jocular | Johnson addresses Jin directly while discussing the Skeleton King's transformation. |
 | 스켈레톤 킹 | 진태경 | ally and insulting rival | vile human | mock-grandiose and insulting | The Skeleton King repeatedly calls Jin 간악한 인간. |
+| 진태경 | 존슨 | Allied Hunter to Grand Mage | Johnson | polite and familiar | Jin repeatedly addresses Magic Johnson directly while requesting explanations and permission to visit the site. |
+| 진태경 | 스켈레톤 킹 | Cooperating companions and antagonistic allies | bastard | blunt, profane, and informal | Jin uses insults and threats while forcing the Skeleton King into the extradimensional pocket. |
+| 스켈레톤 킹 | 진태경 | Cooperating companions and antagonistic allies | vile human | grandiose and insulting | The Skeleton King consistently addresses Jin with his self-important insult. |

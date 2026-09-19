@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "I clenched my teeth and asked the Skeleton King again.",
+      "defect": "The draft changes Jin’s physical action from biting down on his lip to clenching his teeth.",
+      "id": "F01",
+      "rationale": "입술을 깨물다 specifically means to bite one’s lip, not clench one’s teeth.",
+      "replacement": "I bit down hard on my lip and asked the Skeleton King again.",
+      "severity": "critical",
+      "source": "입술을 질끈 깨문 나는 스켈레톤 킹을 향해 재차 물었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "that grateful human",
+      "defect": "The direction of gratitude is reversed: the Skeleton King is grateful to Johnson, rather than describing Johnson as grateful.",
+      "id": "F02",
+      "rationale": "고마운 인간 denotes someone for whom the speaker feels gratitude, consistent with Johnson having created the Skeleton King’s human appearance.",
+      "replacement": "that human I’m grateful to",
+      "severity": "major",
+      "source": "저 고마운 인간"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I was able to determine the magic circle’s purpose because this body is undead.",
+      "defect": "“Determine” overstates the Skeleton King’s certainty immediately after he explicitly calls his conclusion a personal inference that he cannot guarantee.",
+      "id": "F03",
+      "rationale": "The source explains why he was able to infer the circle’s purpose, not why he could establish it conclusively.",
+      "replacement": "I could guess what the magic circle was for only because I’m undead.",
+      "severity": "major",
+      "source": "마법진의 용도는 이 몸이 언데드라 가능했던 일이었고."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Beyond the relatively dark wreckage of the collapsed buildings, a familiar face was walking toward me.",
+      "defect": "The draft omits the action of the approaching person making his way through a collapsed building and instead folds the collapsed buildings into the static setting.",
+      "id": "F04",
+      "rationale": "무너진 건물을 헤치며 describes Go Jun actively navigating through the collapsed structure as he approaches.",
+      "replacement": "Beyond the relatively dark ruins, a familiar figure was making his way through a collapsed building toward me.",
+      "severity": "critical",
+      "source": "비교적 어두운 폐허 너머, 익숙한 얼굴이 무너진 건물을 헤치며 걸어오고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Though concealed beneath a human exterior, the curves of the skeleton hidden inside are exquisite.",
+      "defect": "“Human exterior” sanitizes the deliberately grotesque reference to human skin or hide, weakening the Skeleton King’s undead perspective and the joke.",
+      "id": "F05",
+      "rationale": "거죽 refers concretely to an outer skin or hide, contrasting it with the skeleton beneath.",
+      "replacement": "Though covered in human skin, the curves of the skeleton beneath it are exquisite.",
+      "severity": "major",
+      "source": "비록 인간의 거죽에 가려져 있지만, 그 안에 숨겨진 골격의 곡선이 끝내줘."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Now that I think about it, I suppose the task can be done at a leisurely pace.",
+      "defect": "The draft translates 작업 literally as an unspecified task, losing the colloquial meaning of hitting on or making a move on the woman.",
+      "id": "F06",
+      "rationale": "작업을 걸다 is a colloquial expression for attempting to pick someone up; that meaning drives the surrounding joke.",
+      "replacement": "Come to think of it, I suppose I can take my time making a move on her.",
+      "severity": "major",
+      "source": "생각해 보니까 작업은 천천히 걸어도 될 것 같다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Johnson told me a few days ago that there is a club nearby with an excellent selection of attractive people.",
+      "defect": "The draft explicitly explains the euphemism and turns the club’s patrons into an impersonal “selection,” flattening the setup for the gay-bar joke.",
+      "id": "F07",
+      "rationale": "물 좋은 is an intentionally indirect colloquial description of a venue with attractive patrons; the translation should preserve that euphemistic ambiguity.",
+      "replacement": "Johnson told me a few days ago that there’s a club nearby with a great crowd.",
+      "severity": "major",
+      "source": "며칠 전에 존슨한테 들었는데 근처에 물 좋은 클럽이 있다더군."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The voice was colder and more rigid than ever before.\n\nI slowly turned around.",
+      "defect": "“Rigid” is not a natural description of a voice, and splitting the sentence loses the immediate connection between hearing it and turning around.",
+      "id": "F08",
+      "rationale": "딱딱한 describes the voice as hard or stern, while the connective 에 ties Jin’s reaction directly to hearing it.",
+      "replacement": "At the sound of the voice—harder and colder than ever before—I slowly turned around.",
+      "severity": "minor",
+      "source": "어느 때보다 딱딱하고 냉기가 흐르는 목소리에, 나는 천천히 돌아섰다."
+    }
+  ],
+  "summary": "Several actionable fidelity and register issues, including altered physical actions, reversed gratitude, overstated certainty, and two flattened euphemisms.",
+  "version": 1
+}
