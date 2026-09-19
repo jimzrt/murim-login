@@ -1588,3 +1588,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 생사부 | **Book of Life and Death** | Yama's register of life and death. |
 | 살귀 | **Killing Ghost** | Mungyeong's earlier sobriquet before he became the Slaughter Saint. |
 | 가짜 무림인 | **Fake Murim Martial Artist** | Title of the sudden Quest accepted by Taekyung. |
+| 제갈 | **Zhuge** | Surname used for Sir Zhuge. |
+| 제갈소평 | **Zhuge Sopyeong** | Named son and budding martial artist whose autograph Taekyung signs. |
+| 창우 | **Changwoo** | Named budding talent who receives Taekyung's autograph. |
+| 진수 | **Jinsu** | Named budding talent who receives Taekyung's autograph. |
