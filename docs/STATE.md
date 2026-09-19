@@ -1,18 +1,15 @@
 # Translation State
 
-- Last completed: 512
-- Next chapter: 513
-- Current block: 510–514 (3/5)
-- Latest translation: `translations/0512.md`
-- Latest summary: `summaries/beats/0512.md`
-- Safe profiles through: chapter 512
+- Last completed: 513
+- Next chapter: 514
+- Current block: 510–514 (4/5)
+- Latest translation: `translations/0513.md`
+- Latest summary: `summaries/beats/0513.md`
+- Safe profiles through: chapter 513
 
 ## Current Block
 
-- Jeok Cheongang unexpectedly appears after disembarking from the swift ship because of seasickness, carrying spiced beef that Taekyung eats. The sharks and the distant swift ship disappear while they talk.
-- Taekyung admits that using the sharks to replenish his internal energy and chase the swift ship had become meaningless. He decides to follow by his own strength instead, while Jeok approves and leaves ahead toward Henan.
-- Jeok explains that the Fire Gate Clan's martial arts have a particularly violent flow and that it took him years to calm his own. He acknowledges Taekyung's exceptional martial talent and the advantage of having the Fire King and Slaughter Saint as advisors.
-- A proclamation from Mount Song announces the New Murim Alliance. Shaolin, Huashan, the Nine Sects and One Gang, and the Five Great Families begin joining, while the Murim debates the threat posed by demonic and heterodox practitioners and the Outer Lands; ten days pass amid the spreading upheaval.
+- In Xixia, Henan, a merchant recognizes a young martial artist as the unnamed Young Sect Leader of the Black Dragon Demon Gate and sells him a famed sword for twenty silver nyang, supposedly after deducting the merchant's life. Blood Cudgel Do Sangho challenges and insults the young leader, who provokes him in return; when Blood Cudgel threatens to take revenge, an eight-foot subordinate crushes his head with a massive two-section staff. As the crowd scatters, monks from Shaolin Temple approach.
 
 ## Open Questions
 
@@ -28,7 +25,7 @@
 - Render 소뢰음사 as Small Thunderclap Temple, 광풍사 as Mad Wind Society, 포달랍궁 as Potala Palace, 오독문 as Five Poisons Sect, 독곡 as Poison Valley, 천축 as India, and 갠지스강 as Ganges River.
 - Render 파사국 as Persia, 회교도 as Muslims, 영웅건 as hero headband, 대막 as great desert, 귀염권 as Ghost Flame Fist, and 장성 as Great Wall.
 - Retain sa-eo for 사어, shark for 상어, Old Master for 노야, this old man/I for 노부, Shark Water-Ski Team for 수상스키단, and swift ship for 쾌조선.
-- Render 신 무림맹 as New Murim Alliance, 하후검가 as Hahou Sword Family, and 사마외도 as demonic and heterodox arts.
+- Render 신 무림맹 as New Murim Alliance, 하후검가 as Hahou Sword Family, 사마외도 as demonic and heterodox arts, 흑룡마문 as Black Dragon Demon Gate, 소문주 as Young Sect Leader, 혈곤 as Blood Cudgel, and 도상호 as Do Sangho.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

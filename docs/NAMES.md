@@ -1673,3 +1673,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 수상스키단 | **Shark Water-Ski Team** | Taekyung's joking name for the trained sharks traveling behind him. |
 | 잡으리 양식 | **Catch-'Em Fish Farm** | Taekyung's joking alternate name for the Shark Water-Ski Team. |
 | 하후검가 | **Hahou Sword Family** | Great family discussed as a possible participant in the war and New Murim Alliance. |
+| 흑룡마문 | **Black Dragon Demon Gate** | Unorthodox faction from Gansu. |
+| 혈곤 | **Blood Cudgel** | Sobriquet of Do Sangho. |
+| 도상호 | **Do Sangho** | Blood Cudgel's personal name. |

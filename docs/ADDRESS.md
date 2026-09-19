@@ -835,3 +835,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진위경 | 문경 | Jin Family Lesser Family Head to medical apprentice | you | formal-polite | Asks whether Jin Taekyung will arrive soon. |
 | 현공진인 | 현천진인 | younger Wudang brother to Sect Leader Senior Brother | Sect Leader Senior Brother | formal and respectful | Hyeongong uses 장문 사형 when answering Hyeoncheon. |
 | 이대 제자 | 현천진인 | Wudang second-generation disciple to Sect Leader | Sect Leader | urgent and deferential | The unnamed second-generation disciple urgently calls out 장문인 before reporting the Killing Ghost's remains. |
+| 소문주 | 혈곤 | Young Sect Leader addressing a hostile Peak master | Blood Cudgel | Informal and contemptuous | Calls him 혈곤 while offering silver in exchange for his submission. |
+| 도상호 | 소문주 | Blood Cudgel addressing the Black Dragon Demon Gate Young Sect Leader | Boy | Rude and informal | Addresses him as 아해야 before challenging him. |
