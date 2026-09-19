@@ -44,7 +44,7 @@ The Blood Lord answered casually.
 
 “Old Master!”
 
-I was startled and hurried to support Jeok Cheongang. His face had gone pale, and a stream of red blood ran down his chin.
+Startled, I hurriedly caught Jeok Cheongang. His face had gone deathly pale, and red blood streamed down his chin.
 
 *This is bad.*
 
@@ -66,9 +66,9 @@ But it was far too soon to breathe a sigh of relief.
 
 The Blood Lord stepped forward with a delighted expression.
 
-“This was more entertaining than I expected. No, to be honest, it was even frightening. I never imagined things would reach this point.”
+“That was more entertaining than I expected. No, if I’m being honest, it even gave me chills. I never imagined you’d push me this far.”
 
-“You smell like shit. Shut your mouth.”
+“Your breath reeks of shit. Shut your mouth.”
 
 I rose to my feet and tightened my grip on White Flame, which I had set down for a moment.
 
@@ -110,7 +110,7 @@ The path I had experienced myself, the path countless others had walked—Cheong
 
 *Of all times, why now?*
 
-It was a growing pain every martial artist and Hunter had to experience, but for the genius standing before me, the timing was unbearably late.
+It was a growing pain every martial artist and Hunter had to experience. But for the genius beside me, it had come far too late.
 
 The Blood Lord read the realization on my face and grinned.
 
@@ -122,9 +122,9 @@ There was no doubt.
 
 This was because of Cheongpung’s duel with Jongni Chu.
 
-Jongni Chu was the one who had planted the seed of fear in Cheongpung. And that seed had sprouted after meeting another powerful figure—the Blood Lord.
+Jongni Chu was the one who had planted the seed of fear in him. That seed had encountered another overwhelming master—the Blood Lord—and finally sprouted.
 
-“Exactly. I have no idea where that fellow came from, but he did quite a job. He drew the attention of the orthodox factions and even neatly disposed of the Sword Saint’s Disciple. Ha-ha!”
+“Exactly. I have no idea where that fellow came from, but he did good work. He drew the attention of the orthodox factions and even disposed of the Sword Saint’s Disciple for me. Ha-ha!”
 
 My mouth felt gritty, as though I were chewing sand.
 
@@ -272,7 +272,7 @@ His playful voice continued.
 
 “It was quite a spectacle. Corpses piled into mountains, blood flowing like a river… Watching you take Jin Baekyang’s life was especially memorable. Wasn’t that when they started calling you the Sleeping Dragon of Shanxi?”
 
-“What are you talking about…”
+“What the hell are you talking about…?”
 
 “Jin Baekyang, the Blade of Flowers. What a useless bastard. At first, he acted as though he would tear out his own liver and gallbladder for us, but as he grew older, he must have developed some pathetic doubts. Ruined the entire job. What incompetent fool recruited such a half-assed bastard? Tsk, tsk.”
 
@@ -280,7 +280,7 @@ I stared blankly at the Blood Lord as he clicked his tongue.
 
 Every word coming from his mouth sounded hollow and alien.
 
-“Oh, what about that Third Rate sect called the Mount Heng Sword Sect? Is it still around? I did hear from one of my subordinates that one of its Sect Leader’s sons had been killed. I lost interest after Eight Spring Gorge, so I haven’t paid much attention.”
+“Oh, is that third-rate sect called the Mount Heng Sword Sect still around? I heard from one of my subordinates that one of the Sect Leader’s sons was killed. I lost interest after Eight Spring Gorge, so I haven’t paid much attention.”
 
 “……!”
 
@@ -300,13 +300,13 @@ The bastard standing before me was the one who had started that war.
 
 The Blood Lord saw my expression and roared with laughter.
 
-“Why the long face? Things worked out smoothly thanks to me. The Jin Family of Taiyuan is the foremost family in Shanxi. You became the Fire King’s Disciple and even seized victory at the Star-Array Grand Banquet. Shouldn’t you thank me?”
+“Why the long face? Everything worked out for you thanks to me. The Jin Family of Taiyuan became the foremost family in Shanxi, and you became the Fire King’s Disciple and even won the Star-Array Grand Banquet. Shouldn’t you be thanking me?”
 
 I did not answer.
 
 One thought filled my mind.
 
-*How many people died again?*
+*How many people died?*
 
 I didn’t know.
 
@@ -322,9 +322,9 @@ The war had barely ended before the same history repeated itself.
 
 *And he expects me to thank him.*
 
-I licked my dry, cracked lips. My grip around the spear shaft tightened on its own.
+I licked my dry, cracked lips. My grip tightened around the spear shaft.
 
-An unknown strength filled my exhausted body.
+A strange strength filled my exhausted body.
 
 A stat that did not appear in the System window.
 
@@ -336,7 +336,7 @@ Anger.
 
 “That bullshit about once being coincidence and twice being a connection.”
 
-I took a deep breath. Without it, I felt as though fireballs might pour from my mouth.
+I drew a deep breath. Without it, I felt as though fire might pour from my mouth.
 
 “You and I are different. Let’s skip all that and go straight to destiny.”
 
@@ -374,7 +374,7 @@ The young man—Cheongpung—went flying. He struggled to turn himself over.
 
 It hurt.
 
-He wanted to collapse.
+He wanted to stay down.
 
 His entire body screamed in pain, and a deep despair weighed upon him.
 
@@ -396,7 +396,7 @@ Cheongpung blinked and realized that the tiny blood vessels in his eyes had burs
 
 *I’ve already broken bones for the first time, and I’ve lost so much blood.*
 
-Thinking about his condition made his breathing quicken without him realizing it.
+The thought of his own condition made his breathing quicken.
 
 As he lay sprawled on the ground, gasping for breath, a chilling sound pierced his ears.
 
@@ -420,7 +420,7 @@ Thud! Thud! Thud!
 
 *Bam-bam-bam! Crash!*
 
-His nose collapsed. His ankle broke, and his shoulder was wrenched out of place.
+His nose broke. His ankle snapped, and his shoulder twisted out of place.
 
 Once. Three times. Ten times…
 
@@ -474,7 +474,7 @@ But then he saw Jin Taekyung lying behind him, and the trembling slowly subsided
 
 “What a pair of lunatics…”
 
-The Blood Lord let out an incredulous, hollow laugh and swung the spear.
+The Blood Lord let out an incredulous laugh and swung the spear.
 
 *Slash!*
 
@@ -500,7 +500,7 @@ His voice held genuine curiosity.
 
 As his consciousness faded, Cheongpung opened his mouth. A strained voice escaped him.
 
-“Because… I think I’d regret it for the rest of my life if I backed down.”
+“Because… I thought I’d regret it for the rest of my life if I backed down.”
 
 “That’s your reason? A cowardly bastard like you refuses to retreat for such a pathetic reason?”
 
@@ -518,7 +518,7 @@ The Blood Lord’s face twisted viciously.
 
 Cheongpung had smiled.
 
-He had smiled while standing before him.
+He had dared to smile in front of him.
 
 It was impossible.
 
