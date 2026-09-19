@@ -1545,3 +1545,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 운철 | **meteorite iron** | Material whose strength is used as a comparison for the black-wood fishing rod. |
 | 초인 | **superhuman** | A being who has surpassed ordinary human limits. |
 | 장강수로채 | **Yangtze River Channel League** | River-bandit organization whose dead Taekyung recalls during the duel. |
+| 호북성 | **Hubei Province** | Province where the chapter’s Dark Heaven incidents occurred. |

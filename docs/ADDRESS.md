@@ -791,3 +791,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 젊은 도사 | 중년인 | Wudang_searcher_to_Zhuge_searcher | Great Hero | formal-polite | The young Daoist politely asks whether the left-cliff search has been completed. |
 | 제갈풍 | 문경 | old acquaintance to revealed legendary assassin | Slaughter Saint | excited and respectful | Zhuge Feng identifies Mungyeong by his established sobriquet after recognizing his identity. |
 | 진태경 | 동정어옹 | hostile interrogator confronting a suspected perpetrator | you | blunt informal and abusive | Taekyung addresses the Dongting Fisherman without honorifics and calls him a sibu-leol bastard. |
+| 궁기방 | 사공 | passenger to ferryboatman | Boatman | direct and formal-polite | Addresses the old boatman as 사공 while challenging his refusal to sail. |
+| 사공 | 진태경 | ferryboatman to honored martial guest | Great Hero | fearful and deferential | Repeatedly addresses Taekyung as 대협 while explaining the storm and the boat’s limits. |
