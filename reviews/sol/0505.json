@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang noticed me staring and stopped walking.\n\n“Why? Why are you looking again?”",
+      "defect": "The draft omits that Jeok Cheongang mutters quietly and expands his terse question by explicitly adding the act of looking.",
+      "id": "F01",
+      "rationale": "작게 중얼거렸다 specifies a quiet mutter, while 왜, 왜 또 is a clipped “Why? Why again?” without the added question about looking.",
+      "replacement": "Jeok Cheongang noticed me staring, stopped walking, and muttered under his breath.\n\n“Why? Why again?”",
+      "severity": "minor",
+      "source": "그런 내 시선을 눈치챈 적천강이 걷다 말고 작게 중얼거렸다.\n\n“왜, 왜 또.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Jeok Cheongang glared at me before suddenly licking his lips.",
+      "defect": "The physical action is changed from smacking his lips to licking them.",
+      "id": "F02",
+      "rationale": "입맛을 다시다 denotes smacking one’s lips here; “licking his lips” introduces a different gesture and connotation.",
+      "replacement": "Jeok Cheongang glared at me, then suddenly smacked his lips.",
+      "severity": "minor",
+      "source": "나를 향해 눈을 부라리던 적천강이 문득 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If it hadn’t been for your wise and perceptive grandfather’s judgment, from—”",
+      "defect": "The misplaced “from” makes the reply ungrammatical and obscures that Jeok is identifying the point from which he overheard the conversation.",
+      "id": "F03",
+      "rationale": "부터 follows the quoted phrase and means that Jeok heard everything starting from those words.",
+      "replacement": "“Starting with, ‘If it hadn’t been for your wise and perceptive grandfather’s judgment.’”",
+      "severity": "minor",
+      "source": "“지혜롭고 현명하신 조부님의 판단이 아니었다면, 부터.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "And Jeok Cheongang’s hair, redder still than the setting sun, gleamed as he grinned at me.",
+      "defect": "The comparison is changed from the reddened western mountains to the setting sun, and “gleamed” is added without source support.",
+      "id": "F04",
+      "rationale": "서산 refers back to the western mountains in the preceding sentence; the source describes the color of his hair but does not say it gleams.",
+      "replacement": "And Jeok Cheongang, his hair redder than the western mountains, grinned at me.",
+      "severity": "minor",
+      "source": "그리고 서산보다 붉게 물든 머리카락을 한 적천강이 나를 향해 씩 웃어 보였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I wanted to meet him at least once before he left.”\n\nAt his Senior Brother’s regretful mutter, Hyeongong answered.\n\n“It could not be helped. It was not as if you sent me in your place because you did not wish to meet him.”",
+      "defect": "The singular pronouns narrow Hyeoncheon’s regret to one unnamed man, although he is discussing everyone who departed and immediately specifies both the Two Dragons and Senior Jeok.",
+      "id": "F05",
+      "rationale": "The omitted Korean object is supplied by 모두 떠났다고 and the following reference to the Two Dragons and Jeok Cheongang, making the group plural.",
+      "replacement": "“I wanted to meet them at least once before they left.”\n\nAt his Senior Brother’s regretful mutter, Hyeongong answered.\n\n“It could not be helped. It was not as if you sent me in your place because you did not wish to meet them.”",
+      "severity": "major",
+      "source": "“떠나기 전 꼭 한번 만나고 싶었거늘.”\n\n안타까움이 담긴 사형의 뇌까림에 현공진인이 대답했다.\n\n“어쩔 수 없는 일이지요. 장문 사형께서도 만나기 싫어 저를 대신 보내신 게 아니니.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hyeongong recognized the familiar face and narrowed his brow.",
+      "defect": "“Narrowed his brow” is not natural English for the facial action.",
+      "id": "F06",
+      "rationale": "미간을 좁히다 describes drawing the brows together; “furrowed his brow” is the natural English expression.",
+      "replacement": "Hyeongong recognized the familiar face and furrowed his brow.",
+      "severity": "minor",
+      "source": "익숙한 얼굴을 발견한 현공진인이 미간을 좁혔다."
+    }
+  ],
+  "summary": "One major group-reference error and several localized action, imagery, and wording defects.",
+  "version": 1
+}
