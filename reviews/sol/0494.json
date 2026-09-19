@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Fortunately, no one had seen me leave. He should be somewhere else by now…",
+      "defect": "The draft reverses the omitted subject. Taekyung is relieved because Mungyeong was not visible among the others, not because nobody saw Taekyung leave. This causal mistake obscures the realization that Mungyeong may already be elsewhere setting an ambush.",
+      "id": "F01",
+      "rationale": "보이지 않았으니 refers to Mungyeong being absent from the group, as established by the preceding concern about attracting his notice and the following thought, “다른 곳?”",
+      "replacement": "Fortunately, Mungyeong was nowhere among the others, so he must be somewhere else by now…",
+      "severity": "critical",
+      "source": "다행히 사람들 사이에 보이지 않았으니 지금쯤 다른 곳에 있을……."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Don’t say it so loudly, you lunatic! What if Mungyeong hears you?”",
+      "defect": "The draft turns Taekyung’s unspoken internal reaction into dialogue, adding a spoken action absent from the source.",
+      "id": "F02",
+      "rationale": "The source places this outside quotation marks as Taekyung’s internal narration immediately after Cheongpung’s spoken question.",
+      "replacement": "*Don’t say it so loudly, you lunatic. What if Mungyeong hears you?*",
+      "severity": "major",
+      "source": "크게 말하지 마, 미친놈아. 문경이 들으면 어쩌려고."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The enormous bones revealed between them were so cleanly exposed that it almost seemed wrong for them to be left like that.",
+      "defect": "The draft changes astonishment at the impossibly clean butchering into concern that leaving the bones exposed is somehow improper.",
+      "id": "F03",
+      "rationale": "이래도 되는 건가 싶을 정도로 expresses disbelief at how extraordinarily clean the exposed bones are, not disapproval of their being left exposed.",
+      "replacement": "The enormous bones revealed between the chunks were so clean that it hardly seemed possible.",
+      "severity": "minor",
+      "source": "그 사이로 모습을 드러내는 거대한 뼈는 이래도 되는 건가 싶을 정도로 깔끔했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Can I ask the Lesser Family Head that directly?”",
+      "defect": "The draft omits 그대로, weakening the joke that Hyuk Mujin is asking permission to repeat Gung Gibang’s insulting question word for word.",
+      "id": "F04",
+      "rationale": "그거 그대로 specifically means asking him exactly what was just said, which motivates Gung Gibang’s immediate refusal and Hyuk Mujin’s betrayal.",
+      "replacement": "“Can I ask the Lesser Family Head that exact question?”",
+      "severity": "minor",
+      "source": "“그거 그대로 소가주님께 여쭤봐도 됩니까?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It had been forty years since Mungyeong left the martial world.",
+      "defect": "The standalone setting term 무림 does not use the binding established rendering “Murim.”",
+      "id": "F05",
+      "rationale": "The exact glossary establishes 무림 as “Murim”; this is the setting itself rather than a generic reference to martial artists.",
+      "replacement": "It had been forty years since Mungyeong left Murim.",
+      "severity": "minor",
+      "source": "무림을 떠난 지 어언 사십 년."
+    },
+    {
+      "confidence": 0.94,
+      "current": "If you cannot notice even this much, you might as well put a knife in your mouth and die.",
+      "defect": "“Put a knife in your mouth” is an unnatural literal collocation that blunts Mungyeong’s dry threat.",
+      "id": "F06",
+      "rationale": "입에 칼을 물고 retains the image of holding a blade in one’s mouth; “bite down on a blade” conveys it in natural, blunt English.",
+      "replacement": "If you can’t notice even this much, you might as well bite down on a blade and die.",
+      "severity": "minor",
+      "source": "이 정도도 알아채지 못하면 입에 칼을 물고 죽어야지."
+    }
+  ],
+  "summary": "One critical subject reversal disrupts the setup for Mungyeong’s ambush. Additional findings correct a spoken-versus-internal line, altered physical detail, an omitted pragmatic cue, binding terminology, and localized unnatural wording.",
+  "version": 1
+}

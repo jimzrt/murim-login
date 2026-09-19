@@ -1,0 +1,51 @@
+{
+  "chapter": 494,
+  "draft_sha256": "9325e23372e5b365ab0e3899ef1c848e25665472a580f9bed73700482d7616db",
+  "finding_count": 6,
+  "major_or_critical_count": 2,
+  "packet_sha256": "eeed82615a65af81056e38faffa637d9e8d1630df6c14c91707cb95e70e8e968",
+  "qa_sha256": "99eabe97dde2ea8ab216ab3b0b8326bf9419ed4f7b319b06bd37b8bf9ddf3573",
+  "report_sha256": "3ebae4ae73de41f0c35a2ef91c857375c9e20522aabc9d89b22581265cd11987",
+  "usage": {
+    "billing_type": "subscription",
+    "cache_read_tokens": 0,
+    "cache_write_tokens": 0,
+    "cost_reported": 0.186604,
+    "cost_usd": 0.186604,
+    "elapsed_seconds": 105.514,
+    "event_log": "/Users/james/dev/murim-login-new/.work/0494/omp/review.jsonl",
+    "exact": true,
+    "fallback_used": false,
+    "input_bytes": 58899,
+    "input_tokens": 21346,
+    "model": "gpt-5.6-sol",
+    "models": {
+      "openai-codex/gpt-5.6-sol": {
+        "billing_type": "subscription",
+        "cache_read_tokens": 0,
+        "cache_write_tokens": 0,
+        "cost_usd": 0.186604,
+        "input_tokens": 21346,
+        "model": "gpt-5.6-sol",
+        "output_tokens": 5061,
+        "provider": "openai-codex",
+        "reasoning_tokens": 3960,
+        "requests": 1,
+        "total_tokens": 26407
+      }
+    },
+    "output_bytes": 4542,
+    "output_tokens": 5061,
+    "packet_token_estimate": 14725,
+    "provider": "openai-codex",
+    "reasoning_tokens": 3960,
+    "requested_model": "openai-codex/gpt-5.6-sol:medium",
+    "requests": 1,
+    "stop_reasons": [
+      "stop"
+    ],
+    "total_tokens": 26407,
+    "usage_source": "omp_provider_reported"
+  },
+  "version": 2
+}

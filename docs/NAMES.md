@@ -1602,3 +1602,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무량수불 | **Infinite Life Buddha** | Buddhist invocation used by Taekyung. |
 | 이룡 | **Two Dragons** | Collective ranking beneath the Ten Kings in Murim gossip. |
 | 무극태을검 | **Martial Extremity Grand Unity Sword** | Cheongpung's sword technique used to cut through the imugi corpse. |
+| 칠보추혼산 | **Seven-Step Soul-Chasing Powder** | Named extreme poison used in Mungyeong's training test. |
+| 강력한 칠보추혼산 | **Potent Seven-Step Soul-Chasing Powder** | Strengthened System form of Seven-Step Soul-Chasing Powder. |
+| 심각한 복통 | **Severe Stomachache** | Temporary System status abnormality caused by the poison. |

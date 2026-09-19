@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If I didn’t want to get beaten to death, I’d make up things that never happened and tell you.",
+      "defect": "The conditional is logically inverted: inventing information would increase the speaker’s risk of being beaten rather than prevent it.",
+      "id": "C01",
+      "rationale": "The replacement restores the intended sarcastic logic without changing the exchange’s voice or timing.",
+      "replacement": "If I wanted to get beaten to death, I’d make up things that never happened and tell you.",
+      "severity": "minor",
+      "source": "Chapter 490, Taekyung questioning a guard about Jeok Cheongang"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Water God Dragon’s spirit has departed, but its enormous corpse is being dismantled and distributed under Taekyung’s direction.",
+      "defect": "The packet shows the corpse being dismantled and preliminary shares being negotiated, but no completed or ongoing distribution. Recording distribution as current fact advances the state beyond Chapter 494.",
+      "id": "C02",
+      "rationale": "This preserves the completed events while preventing the checkpoint state from introducing an unsupported development.",
+      "replacement": "The Water God Dragon’s spirit has departed, but its enormous corpse is being dismantled under Taekyung’s direction; distribution has not yet been completed.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity bullet for the Water God Dragon’s corpse"
+    },
+    {
+      "confidence": 0.96,
+      "current": "For all that time—long enough for the mountains and rivers to change four times—he had lived as a medical apprentice.",
+      "defect": "Calling Mungyeong a medical apprentice conflicts with the established Divine Physician identity and with the immediately following account of independently examining and treating thousands of patients.",
+      "id": "C03",
+      "rationale": "“Physician” maintains the established role and fits the medical experience described in the next sentence.",
+      "replacement": "For all that time—long enough for the mountains and rivers to change four times—he had lived as a physician.",
+      "severity": "major",
+      "source": "Chapter 494, Mungyeong reflecting on his forty years away from Murim"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Of course, along with cool water, it contained a deadly poison called Seven-Step Soul-Chasing Powder—an extreme poison that killed its victim before they could take seven steps.",
+      "defect": "The narration names the poison as Seven-Step Soul-Chasing Powder, but the immediately following System panel identifies this dose as Potent Seven-Step Soul-Chasing Powder, the distinct established term used in the checkpoint state.",
+      "id": "C04",
+      "rationale": "Using the full established name keeps the narration, System notification, summary, and durable state consistent.",
+      "replacement": "Of course, along with cool water, it contained a deadly poison called Potent Seven-Step Soul-Chasing Powder—an extreme poison that killed its victim before they could take seven steps.",
+      "severity": "minor",
+      "source": "Chapter 494, Mungyeong’s poisoned waterskin"
+    },
+    {
+      "confidence": 0.95,
+      "current": "> - Status abnormality: **Severe Stomachache**!\n> - Status abnormalities will return to normal once you have fully recovered, but decreased abilities cannot be restored!",
+      "defect": "The System switches from the established term “Status condition,” used in Chapter 490, to “Status abnormality” for the same category of effect.",
+      "id": "C05",
+      "rationale": "Consistent System vocabulary prevents an incidental label change from implying a different mechanic.",
+      "replacement": "> - Status condition: **Severe Stomachache**!\n> - Status conditions will return to normal once you have fully recovered, but decreased abilities cannot be restored!",
+      "severity": "minor",
+      "source": "Chapter 494, System panel after detoxification"
+    }
+  ],
+  "summary": "Five actionable issues: one inverted joke, one premature continuity claim, one identity/role drift, and two System terminology inconsistencies.",
+  "version": 1
+}
