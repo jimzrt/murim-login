@@ -4,13 +4,13 @@
 
 At the judge’s shout, tens of thousands of spectators rose to their feet as one.
 
-As Jin Taekyung came down from the dueling platform beneath a storm of cheers and applause, the eyes of the man watching him were sunk deep in thought.
+As Jin Taekyung descended from the dueling platform beneath a storm of cheers and applause, the man watching him narrowed his eyes in thought.
 
 *What a strange fellow.*
 
-The Dog-Beating Staff Technique was the Beggars’ Sect’s greatest secret art, one that could only be taught to someone who had become the Successor Beggar.
+The Dog-Beating Staff Technique was the Beggars’ Sect’s greatest secret art, taught only to the chosen Successor Beggar.
 
-Despite its comical name, its power and the subtlety of its forms ranked among the top ten martial arts in the world.
+Despite its comical name, its power and the ingenuity of its forms ranked among the top ten martial arts under heaven.
 
 And yet Jin Taekyung had countered it far too easily without using any particularly notable martial art.
 
@@ -22,7 +22,7 @@ He had even seemed to deliberately take attacks he could have avoided. No, that 
 
 At first, Jongni Chu wondered if Taekyung was some kind of oddball who enjoyed pain, but judging by the agonized faces he made each time, apparently not.
 
-Besides, what kind of lunatic would take the Dog-Beating Staff Technique head-on just to raise his Toughness?
+Besides, what kind of lunatic would take the Dog-Beating Staff Technique head-on just to toughen himself up?
 
 *Whatever the reason, he’s interesting.*
 
@@ -36,11 +36,11 @@ With that final thought, Jongni Chu, the Always-Victorious Sword, turned away an
 
 Several pairs of eyes followed him.
 
-A merchant with a generous belly, a hunched old man, a Third Rate martial artist and a wandering martial artist dressed in cheap martial-arts uniforms…
+A merchant with a generous belly, a hunched old man, a third-rate martial artist and a wandering martial artist dressed in cheap martial uniforms…
 
 All of them had ordinary faces one might see anywhere.
 
-Yet whenever their lips moved, Sound Transmission passed between them—a technique only Peak masters could use.
+Yet whenever their lips moved, Sound Transmissions passed between them—a technique only Peak masters could use.
 
 —Your orders, Pavilion Master.
 
@@ -52,11 +52,11 @@ Yet whenever their lips moved, Sound Transmission passed between them—a techni
 
 —…Understood.
 
-—Four and Five, keep an eye on Jin Taekyung and Cheongpung. If he approaches again, report it immediately.
+—Four and Five, keep watch on Jin Taekyung and Cheongpung. If he approaches them again, report it immediately.
 
 —Yes, sir.
 
-—Then I wish you all good martial fortune.
+—Then I wish you all good fortune.
 
 The brief conversation ended without another reply. The ordinary-looking figures continued walking as though nothing had happened and disappeared into the crowd.
 
@@ -72,13 +72,13 @@ Before he had taken ten steps, the middle-aged beggar had become a genial-lookin
 
 Tap. Tap.
 
-A wooden prosthetic leg made of ebony, hard as steel, struck the stone pavement.
+A prosthetic leg made of ebony, said to be as hard as steel, struck the stone pavement.
 
 *Jongni Chu, the Always-Victorious Sword.*
 
 The old man, Song Ho, the Thousand-Faced Fox, repeated the name in his mind.
 
-Before he was the Pavilion Master of the Hidden Shadow Pavilion, he was also an intelligence operative and a master of disguise.
+Before he was the Pavilion Master of the Hidden Shadow Pavilion, he was an intelligence operative and a master of disguise.
 
 He never forgot a face he had seen even once, and the smallest habit or the structure of a person’s bones was enough for him to recognize them. Even disguise techniques could not deceive his eyes.
 
@@ -104,13 +104,13 @@ So did the voice of one man, deep and dark as a bottomless abyss.
 
 *Thousand-Faced Fox Song Ho. You’re quite large for a fox. Shall I start by tearing off a leg?*
 
-Song Ho shuddered all over, endured the pain, and started walking again.
+Song Ho shuddered, endured the pain, and started walking again.
 
 That past was long gone. Not even its dregs remained. He had to focus instead on the far more tangible present.
 
 *Jongni Chu… who are you? And what are you plotting?*
 
-He had already finished making every possible preparation. Even so, the unease lingering in his chest kept shaking him.
+Every preparation had already been made. Even so, the unease lingering in his chest continued to gnaw at him.
 
 *Am I getting old? Or has the peace simply lasted too long?*
 
@@ -144,15 +144,15 @@ Creak.
 
 “Captain. Captain.”
 
-The voice boring into my ear shattered my thoughts. Cheongpung and the illusory Sword Energy he had conjured vanished as if washed away.
+The voice at my ear shattered my concentration. Cheongpung and the illusory Sword Energy he had conjured vanished without a trace.
 
-When I lifted my eyelids, I saw Hyuk Mujin poking his head through the crack in the door.
+I opened my eyes and found Hyuk Mujin poking his head through the crack in the door.
 
 “Hehe. I’m here.”
 
 I stared at him for a moment before speaking.
 
-“What are you doing here?”
+“Why?”
 
 “I came to keep you company in case you were lonely.”
 
@@ -164,7 +164,7 @@ I stared at him for a moment before speaking.
 
 I let out a deep sigh and pulled a leg off the chair.
 
-“Get down on your stomach, you despicable bastard.”
+“Get down, you wicked bastard.”
 
 “W-Why are you doing this?”
 
@@ -172,9 +172,9 @@ I let out a deep sigh and pulled a leg off the chair.
 
 “Gasp! You were training?”
 
-“Then do you see people sitting cross-legged and falling asleep?”
+“Do you think people sit cross-legged to take a nap?”
 
-Mujin glanced around nervously before speaking hesitantly.
+Mujin watched me warily before answering in a hesitant voice.
 
 “I heard that when you were young, you tried to practice Horse Stance while sitting in a chair.”
 
@@ -182,19 +182,19 @@ Mujin glanced around nervously before speaking hesitantly.
 
 “What? Am I not even allowed to talk back?”
 
-What the hell? Had this guy gone crazy?
+What the hell? Had this bastard gone crazy?
 
 I stared at Hyuk Mujin in disbelief. In the past, he would have thrown his hands over his head at once. Now he merely flinched before puffing out his chest.
 
-“What are you doing?”
+“What do you think you’re doing?”
 
 “Now that the subject has come up, I believe I’ve made no small contribution while serving you, Captain.”
 
 “So?”
 
-“Treat me accordingly.”
+“I’d like to be treated accordingly.”
 
-“What kind of treatment? The four mandatory insurances? Workers’ comp if you get hurt from now on?”[^1]
+“What kind of treatment? The four mandatory insurances? Workers’ comp whenever you get hurt?”[^1]
 
 “I don’t know what the four mandatory insurances or workers’ comp are, but if you keep treating me like this, I’ll quit and take over the textile shop.”
 
@@ -204,15 +204,13 @@ I thought it over, then nodded.
 
 “Pardon?”
 
-“Good work. No—thank you for your hard work, Mr. Mujin. May your textile shop prosper from here on out.”
+“Thanks for all your hard work. No, thank you for your service, Mr. Mujin. I wish your textile shop every success.”
 
 “Wait. Wait a moment.”
 
-“Oh, right. I don’t know about the other locations, but prepare to close the main branch in Shanxi Province.”
+“Oh, right. I can’t speak for the other locations, but you should prepare to close the main shop in Shanxi Province.”
 
-Grab!
-
-Hyuk Mujin wrapped his arms around my calf and spoke with an imploring look in his eyes.
+Mujin grabbed my calf with both arms and gazed up at me imploringly.
 
 “I misspoke.”
 
@@ -220,15 +218,15 @@ Hyuk Mujin wrapped his arms around my calf and spoke with an imploring look in h
 
 “Yes. Please hit me once on the back of the head.”
 
-“Didn’t you ask me to treat you accordingly?”
+“Weren’t you asking to be treated according to your contributions?”
 
-“No. I’ve become a man who can’t live even a day without your blows.”
+“No. I’ve become a man who can’t survive a single day without one of your beatings.”
 
 “…”
 
-Had he gone insane?
+Was he insane?
 
-I shook my head and lightly tapped him on the forehead.
+I shook my head and flicked him lightly on the forehead.
 
 “Enough nonsense. Get to the point. Why are you here?”
 
@@ -242,15 +240,15 @@ When I glared at him, Mujin’s voice grew even smaller.
 
 “My opponent hasn’t even been decided yet. Don’t you know today is the last day of the semifinals?”
 
-The sun was beginning to set, so Jongni Chu and Cheongpung’s duel would start soon.
+The sun was beginning to set. Jongni Chu and Cheongpung’s duel would begin soon.
 
 The winner would face me in the final, and barring some enormous upset, Cheongpung was certain to win.
 
-Mujin shrugged at my words.
+Mujin shrugged.
 
 “I know. I stopped by anyway.”
 
-“What a silly guy. Use this time to train, you idiot.”
+“What a ridiculous bastard. Go train instead of wasting your time here.”
 
 That was what I said, but something stirred warmly in a corner of my heart. Come to think of it, Mujin had been through a lot while following me around.
 
@@ -262,9 +260,9 @@ I was resolving to treat him better from now on when Mujin asked,
 
 “Young Hero Cheongpung will win, right?”
 
-“Of course he will… Wait. How do you know that?”
+“Of course he will… Wait. How do you know it’s him?”
 
-“Even if no one else does, I need to know. With that ridiculous epithet, Invincible Divine Sword, his name being Kang Pung, and the fact that he used the Zaha Divine Technique in his last duel, how could I not?”
+“Even if no one else knows, I should. He has that ridiculous epithet, Invincible Divine Sword, he calls himself Kang Pung, and he even used the Zaha Divine Technique in his last duel. How could I not know?”
 
 “You’re smarter than I thought.”
 
@@ -276,7 +274,7 @@ He had a point. The Zaha Divine Technique was distinctive enough for people to d
 
 “Isn’t it obvious?”
 
-“It has to be certain. Absolutely!”
+“He has to win. Absolutely!”
 
 What was with that greedy look in his eyes?
 
@@ -284,7 +282,7 @@ The moment I nodded uneasily—
 
 “Waaaaah!”
 
-A roar echoed from not far away.
+A roar echoed from somewhere nearby.
 
 I picked up White Flame, the spear resting beside me, and rose to my feet.
 
@@ -292,9 +290,9 @@ I picked up White Flame, the spear resting beside me, and rose to my feet.
 
 This was clearly a fight between an egg and a rock.
 
-But watching how the egg collided with the rock, and how the rock shattered the egg, would be a great help in the final duel.
+But seeing how the egg struck the rock—and how the rock shattered the egg—would be a great help in the final duel.
 
-“What are you doing? Aren’t you getting up?”
+“What are you doing? Get up.”
 
 “Yes, sir.”
 
@@ -304,11 +302,11 @@ But watching how the egg collided with the rock, and how the rock shattered the 
 
 “I bet one silver nyang on you! Pull off the upset!”
 
-“Hahaha! You bet on the Life-Sustaining Sword instead of the Invincible Divine Sword? There’s no bigger sucker!”
+“Hahaha! You bet on the Life-Sustaining Sword instead of the Invincible Divine Sword? What a sucker!”
 
 Jongni Chu was climbing onto the dueling platform amid blazing torches and peals of boisterous laughter when he suddenly stopped.
 
-It was because of the gazes looking down at him from the seats of honor.
+Countless gazes were looking down at him from the seats of honor.
 
 No fewer than three of the Supreme Peak masters known as the Ten Kings were present. He could also see the leaders of the Nine Sects and One Gang and the Five Great Families, as well as Song Ho, the Thousand-Faced Fox, watching quietly from the very back with gleaming eyes.
 
@@ -318,7 +316,7 @@ His pause lasted only an instant. At the judge’s words, Jongni Chu trudged ont
 
 Ssshing!
 
-The sudden action made the surrounding crowd fall silent for an instant, but quiet snickers soon broke out.
+The abrupt motion silenced the crowd for a moment. Then quiet laughter broke out.
 
 The hilt was so caked with dirt that its pattern could not be made out, while the blade was covered in reddish rust.
 
@@ -326,23 +324,23 @@ Martial artists ordinarily cherished their weapons as they did their own lives, 
 
 “What the hell is that?”
 
-“I thought something serious was happening. Gave me quite a start.”
+“I thought something serious was about to happen. Gave me quite a scare.”
 
 “That’s why they call him the Life-Sustaining Sword. What did you expect?”
 
-Ignoring the laughter behind him, Jongni Chu scrutinized the rusty blade and clicked his tongue.
+Ignoring the laughter around him, Jongni Chu carefully examined the rusty blade and clicked his tongue.
 
-“I can’t use this for now.”
+“I won’t be able to use this right away.”
 
 Just then, Cheongpung, who had been enthusiastically waving to the crowd, held out his own sword.
 
 “Want to borrow mine? Ah, would you care to use mine?”
 
-“No. You should use that.”
+“No. You’ll need it yourself.”
 
-“I’m fine, though…”
+“I’m fine…”
 
-“You’re fine? Then what will you use?”
+“You’re fine? Then what will you do?”
 
 “It doesn’t matter. We’re friends.”
 
