@@ -40,7 +40,7 @@ His gaze and voice were warm.
 
 At last, a faint smile touched Cheongpung’s lips as he struggled for breath.
 
-Watching that, the Blood Lord let out a hollow laugh.
+The Blood Lord watched them and let out an incredulous laugh.
 
 “Would you look at these two…”
 
@@ -54,7 +54,7 @@ Crack.
 
 “Ghk!”
 
-With the sound of bones twisting out of place, a gush of blood burst from between Cheongpung’s lips.
+Bones shifted out of place, and blood gushed from Cheongpung’s lips.
 
 As Cheongpung groaned in pain and lost consciousness, Jongni Chu’s quiet voice reached the Blood Lord’s ears.
 
@@ -62,13 +62,13 @@ As Cheongpung groaned in pain and lost consciousness, Jongni Chu’s quiet voice
 
 Seeing the smile vanish from Jongni Chu’s face made the Blood Lord feel considerably better.
 
-He grinned and opened his mouth.
+He grinned.
 
 “So now you can finally see me.”
 
 “I saw you from the beginning. I merely lost you while chasing your retreating back.”
 
-The Blood Lord frowned as he listened.
+The Blood Lord frowned.
 
 “Was that you? The fearless bastard who interfered with me?”
 
@@ -80,9 +80,9 @@ As Jongni Chu calmly answered, the Blood Lord slowly looked him up and down.
 
 Jongni Chu had intervened just as the Blood Lord was about to finish off Dharma King Hong Dao. The rapidly approaching presence had forced him to turn away before he could deliver the final blow.
 
-*From what I sensed then, his aura was at least beyond the Ten Kings.*
+*From what I sensed then, his aura surpassed even the Ten Kings.*
 
-Even the Blood Lord would be in trouble if he were held back inside the Murim Alliance. After withdrawing and leaving the dying Hong Dao behind, that bastard had continued chasing him for quite some time.
+Even the Blood Lord would be in trouble if someone held him back inside the Murim Alliance. After leaving the dying Hong Dao behind and withdrawing, he had been pursued for quite some time.
 
 *He nearly caught me.*
 
@@ -126,7 +126,7 @@ The Blood Lord clenched his teeth as the thought surfaced.
 
 No.
 
-That was impossible. How dare he think of *that person* while looking at some worthless orthodox-faction stray?
+That was impossible. How could some worthless orthodox-faction stray make him think of *that person*?
 
 *It can’t be. All I have to do is cut down a bastard like him in one stroke.*
 
@@ -140,7 +140,7 @@ The Blood Lord slowly licked his parched lips.
 
 “You… Who the hell are you?”
 
-Dark Heaven’s information network stretched wide and ran deep throughout the land. Yet it had failed to uncover the identity of one person: Jongni Chu.
+Dark Heaven’s information network stretched far and wide across the land. Yet there was one man whose identity it had failed to uncover: Jongni Chu.
 
 A mysterious figure whose face and origins were entirely unknown.
 
@@ -162,15 +162,15 @@ With that, Jongni Chu drew the sword shoved carelessly through his belt. As the 
 
 “You’ll stop me? With that thing that barely qualifies as a sword?”
 
-“Well, it still seems more useful than one might think.”
+“Well, it still seems more useful than you think.”
 
-“Have you ever cut anyone with that sword?”
+“Have you ever cut anyone down with that sword?”
 
 “Countless people. They aren’t memories I take much pride in.”
 
 “Don’t compare me to some pack of nobodies. Who was the last person you cut down? A bandit no better than a slash-and-burn farmer? Or perhaps…”
 
-At that moment, a low voice slipped from Jongni Chu’s lips.
+A low voice slipped from Jongni Chu’s lips.
 
 “The Heaven-Poison Demon Lord.”
 
@@ -188,7 +188,7 @@ That was the Heaven-Poison Demon Lord.
 
 But even he had been unable to escape the fate of a mere martial artist.
 
-One day, after his evil reputation had grown darker with every passing day, he encountered a certain person. The Heaven-Poison Demon Lord met his death that day, and the one who killed him gained a new name.
+One day, as his infamy grew with each passing hour, he encountered a certain man. The Heaven-Poison Demon Lord died that day, and the man who killed him gained a new name.
 
 “The Sword Saint…!”
 
@@ -196,7 +196,7 @@ The Blood Lord trembled as though struck by lightning.
 
 Sword Saint Mae Jonghak.
 
-That name had briefly crossed his mind when he tried to guess Jongni Chu’s identity. But he had soon shaken his head.
+The name had briefly crossed his mind when he first tried to guess Jongni Chu’s identity. He had dismissed it almost immediately.
 
 It was impossible.
 
@@ -204,7 +204,7 @@ It could not be allowed to be true.
 
 A strained voice finally escaped his lips.
 
-“You… How could you…?”
+“You… How can you…?”
 
 Jongni Chu—or rather, Sword Saint Mae Jonghak—ran his fingers along the blade as he answered.
 
@@ -226,7 +226,7 @@ For a man already prepared in every way, a higher enlightenment had arrived.
 
 And so Sword Saint Mae Jonghak had entered the world and traveled throughout the land under the name Jongni Chu.
 
-He was already a figure from the distant past. No one suspected that Mae Jonghak had returned to the body of a twenty-year-old.
+He was a figure from the distant past. No one suspected that the young man in his early twenties was Mae Jonghak.
 
 Not even Dark Heaven, whose web stretched across the land.
 
@@ -262,7 +262,7 @@ The next thought was drowned beneath a surge of blood and pain. His mouth droppe
 
 “Gaaaaah!”
 
-But it was not over yet.
+But it was not over.
 
 As the Blood Lord staggered backward, screaming, a cold voice pursued him.
 
@@ -288,7 +288,7 @@ Unmistakably different.
 
 If the Thirty-Six Plum Blossom Swords Cheongpung had used earlier were a supreme technique, what Mae Jonghak now displayed was a divine feat beyond martial arts.
 
-That very divine technique was boring into the vital points throughout the Blood Lord’s body.
+And that divine feat was closing in on every vital point in the Blood Lord’s body.
 
 *I can’t stop this.*
 
@@ -326,7 +326,7 @@ It was regrettable that he had failed to kill the Fire King, but…
 
 As long as he lived, there would always be another chance.
 
-He glared at Jin Taekyung with a resentful gaze. Even as he vomited clots of blood, Taekyung was smiling.
+He glared venomously at Jin Taekyung. Taekyung was still smiling even as he coughed up clots of blood.
 
 “Just you wait. I’ll kill you with my own hands.”
 
@@ -336,7 +336,7 @@ He glared at Jin Taekyung with a resentful gaze. Even as he vomited clots of blo
 
 The Blood Lord’s lips curled upward.
 
-Mae Jonghak, who sensed what he intended, stiffened and sent Sword Energy flying with a rigid expression.
+Mae Jonghak sensed something and stiffened, unleashing another burst of Sword Energy.
 
 “Stop!”
 
@@ -358,4 +358,4 @@ A black radiance, ominous even to behold, swallowed his entire body.
 
 Then it vanished without a trace, taking the Blood Lord with it.
 
-As though it had never existed in the first place.
+As though neither had ever existed.
