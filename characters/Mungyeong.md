@@ -1,8 +1,8 @@
 # Mungyeong (문경)
 
-- **Safe through:** Chapter 436
+- **Safe through:** Chapter 437
 - **Aliases:** None
-- **Role:** Mungyeong is the legendary physician known as the Divine Physician and former Slaughter Saint, and he has sworn never to kill again.
+- **Role:** Mungyeong is the legendary physician known as the former Divine Physician and Slaughter Saint, having passed the Divine Physician title to his Disciple.
 - **Personality:** Compassionate, resolute, resourceful, and calm under extreme pressure.
 - **Voice:** His Mungyeong persona is timid, deferential, and cheerful, while his Slaughter Saint voice is dry, impassive, and blunt.
 - **Relationships:** Dong Feng is his Disciple, while Jeok Cheongang, Jin Taekyung, Cheongpung, and the two Sect Leaders know his Slaughter Saint identity.

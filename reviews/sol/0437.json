@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "You seemed to have something important to discuss with Great Hero Jin Wikyung.",
+      "defect": "The omitted subject is Taekyung’s Master, whose conversation with Jin Wikyung explains why he is unlikely to come looking for Taekyung. The draft instead makes Taekyung the participant in that conversation.",
+      "id": "F01",
+      "rationale": "This directly follows Taekyung’s appeal about his Master and supplies Mungyeong’s reason for saying that the Master will not come looking for him.",
+      "replacement": "Your Master seemed to have something important to discuss with Great Hero Jin Wikyung.",
+      "severity": "critical",
+      "source": "진위경 대협과 긴히 나눌 이야기가 있으신 것 같던데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I forgot the passage of time entirely as I was cut and struck countless times. Then, all of a sudden, a strange sensation came over me.",
+      "defect": "The draft makes both actions passive: Taekyung is cut and struck. In the source, he is cut while repeatedly swinging his own weapon in return.",
+      "id": "F02",
+      "rationale": "베이고 is passive, but 휘두르다 is Taekyung’s own active counterattack.",
+      "replacement": "I lost all sense of time as I was cut countless times and kept swinging back. Then, all of a sudden, a strange sensation came over me.",
+      "severity": "critical",
+      "source": "시간이 흐르는 것도 잊은 채 수도 없이 베이고 휘두르다 보니, 갑자기 묘한 감각이 찾아오더군요."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I pressed my advantage and aggressively pushed Mungyeong, who had been rendered speechless.",
+      "defect": "The English can mean that Taekyung physically pushes Mungyeong. The source describes him verbally pressing the momentary advantage.",
+      "id": "F03",
+      "rationale": "밀어붙였다 is figurative here and introduces Taekyung’s continued argument, not physical contact.",
+      "replacement": "Seizing the advantage, I pressed Mungyeong hard while he was momentarily at a loss for words.",
+      "severity": "major",
+      "source": "나는 여세를 몰아 순간 말문이 막힌 문경을 거세게 밀어붙였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Help me…”\n\nAt that moment, something sharp poked me right in the Mingmen acupoint at the small of my back.\n\n“Take ca—re on your way.”\n\n“What?”\n\n“I said, take care on your way. I have something to discuss with this friend for a moment.”",
+      "defect": "The correction loses both parts of the joke: Taekyung turns his plea to be saved into a near-sounding instruction, and that instruction specifically tells the guards to keep watch rather than merely offering a farewell.",
+      "id": "F04",
+      "rationale": "살려 means “save me,” while 살펴 가세요 tells the guards to remain observant; “save—stay” preserves the interrupted correction and its practical meaning.",
+      "replacement": "“Save me…”\n\nAt that moment, something sharp poked me right in the Mingmen acupoint at the small of my back.\n\n“Save—stay alert as you go.”\n\n“What?”\n\n“I said, stay alert as you go. I need to discuss something with this fellow for a moment.”",
+      "severity": "major",
+      "source": "“살려…….”\n\n그 순간, 뾰족한 무언가가 등허리의 명문혈을 쿡 찔렀다.\n\n“살려, 펴 가세요.”\n\n“예?”\n\n“살펴 가시라고. 잠깐 이 친구랑 나눌 이야기가 있어서.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“From everyone else’s perspective, I imagine we’d be about even. Why don’t you conduct a survey among all of Murim using messenger pigeons and find out who’s stranger?”\n\n“Men?”",
+      "defect": "The draft removes the disrespectful noun 놈 from Taekyung’s line, leaving Mungyeong’s offended repetition as the nonsensical “Men?” and obscuring why Taekyung immediately apologizes.",
+      "id": "F05",
+      "rationale": "놈 is a disrespectful way for Taekyung to classify Mungyeong; Mungyeong repeats it as a warning about the breach of hierarchy.",
+      "replacement": "“From everyone else’s perspective, I’d say we’re no different. Send a messenger-pigeon survey to all of Murim and ask which one of us is the bigger freak.”\n\n“Freak?”",
+      "severity": "major",
+      "source": "“남들이 보기에는 피차일반일 것 같은데요. 전 무림을 대상으로 전서구 설문 조사 돌려보세요. 누가 더 이상한 놈인지.”\n\n“놈?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*That’s right, fucker. I said I saw him. What are you going to do about it?*",
+      "defect": "The draft turns Taekyung’s general expletive into the directly addressed insult “fucker,” intensifying his hostility toward Mungyeong.",
+      "id": "F06",
+      "rationale": "시벌 is an expletive here, not a noun used to address Mungyeong.",
+      "replacement": "*Fuck, I’m the one who saw him. What are you going to do about it?*",
+      "severity": "minor",
+      "source": "그래, 시벌. 내가 봤다는데 어쩔 거야."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It was Lü Yan.”\n\n“I know about stomach cancer and lung cancer, but… are you sick somewhere?”",
+      "defect": "Using only the Chinese-standard romanization conceals the Korean sound association that prompts Taekyung’s response about cancer, making the exchange appear random.",
+      "id": "F07",
+      "rationale": "여암 is read Yeo-am in Korean, while 위암 and 폐암 are stomach cancer and lung cancer; the shared 암 supplies the joke.",
+      "replacement": "“It was Lü Yan.”[^1]\n\n“I know about stomach cancer and lung cancer, but… are you sick somewhere?”\n\n[^1]: The Korean reading of Lü Yan’s name, *Yeo-am*, ends in *am*, the Korean word for “cancer”—hence Taekyung’s misunderstanding.",
+      "severity": "minor",
+      "source": "“여암(呂岩)이다.”\n\n“위암이나 폐암은 아는데요. 혹시 어디 아프세요?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I don’t care. Do whatever you want. Kill me, spare me, bring me back from the dead—whatever.”",
+      "defect": "The generic paraphrase preserves resurrection but removes the specific pop-culture reference that supplies the line’s escalating absurdity.",
+      "id": "F08",
+      "rationale": "예토전생 is the named resurrection technique Impure World Reincarnation, not an ordinary expression for bringing someone back from the dead.",
+      "replacement": "“I don’t care. Do whatever you want. Kill me, spare me, use Impure World Reincarnation[^2] on me—whatever.”\n\n[^2]: Impure World Reincarnation is a resurrection technique from *Naruto*.",
+      "severity": "minor",
+      "source": "“몰라. 알아서 해. 죽이든 살리든 예토전생을 시키든 마음대로 해.”"
+    }
+  ],
+  "summary": "The draft contains two critical subject/action reversals, several losses of hierarchy and pragmatic meaning, and two untranslated cultural jokes.",
+  "version": 1
+}
