@@ -36,13 +36,13 @@ But the Willow-Cloud Divine Dragon was an experienced Peak master. As though he 
 
 Cheongpung twisted away from the sword with a playful cry.
 
-The Sword Energy raked and split the air in every direction like the claws of a wild beast. The loose hem of his robe caught in its path was shredded into tatters and scattered through the air.
+Sword Energy raked and split the air in every direction like a wild beast’s claws. The loose hem of his robe caught in its path and was shredded into tatters.
 
 Screams and gasps rose from the crowd.
 
 “Eek!”
 
-“Gasp!”
+“Ah!”
 
 But I could see clearly. Cheongpung didn’t have so much as a scratch on him, and a smile played across his lips.
 
@@ -56,15 +56,15 @@ The Willow-Cloud Divine Dragon answered reflexively, his face blank with bewilde
 
 And who could blame him? Anyone would have reacted the same way. *What was that? How did that bastard dodge?* His mind had to be overflowing with questions.
 
-“The sword path is really interesting. Have you perhaps not learned the Taiji Wisdom Sword?”
+“That sword path is fascinating. Haven’t you learned the Taiji Wisdom Sword?”
 
-“Why would you ask that…?”
+“Why do you ask…?”
 
 “I’ve always wanted to see it. My grandfa—no, someone I know praised it several times. He said it was an excellent martial art.”
 
-The Taiji Wisdom Sword was Wudang’s greatest secret art, famous enough that even I had heard of it a few times.
+The Taiji Wisdom Sword was Wudang’s greatest supreme technique, famous enough that even I had heard of it.
 
-Cheongpung had spoken with pure intentions, but to anyone unfamiliar with his personality, his words were unbearably rude.
+Cheongpung had spoken with the purest intentions, but to anyone unfamiliar with his personality, his words were unbearably rude.
 
 The Willow-Cloud Divine Dragon standing before him was no exception.
 
@@ -88,37 +88,37 @@ The essence of Wudang’s martial arts was about to unfold in his hands.
 
 The moment he finished speaking, the Willow-Cloud Divine Dragon vanished like a phantom.
 
-The next moment, blue Sword Energy rippled through the air and aimed at Cheongpung’s upper body.
+Blue Sword Energy surged toward Cheongpung’s upper body.
 
 That was when Cheongpung’s sword, which had remained sheathed throughout the duel, finally appeared.
 
 *Screeeech—boom!*
 
-Sword Energy collided with Sword Energy. It was only a single clash, but who held the advantage was obvious.
+Sword Energy collided with Sword Energy. It was only a single clash, but the difference between them was obvious.
 
 The Willow-Cloud Divine Dragon skidded back a full zhang, his eyes wide. Blood flowed from his torn hand.
 
-“W-What is this?”
+“W-What…?”
 
-“Can I go this time?”
+“Is it my turn now?”
 
 With that question, Cheongpung’s figure scattered like an illusion.
 
-The Dark Fragrance Drift of Huashan. It was the exact movement I had grown sick of watching during my duels with him in the past.
+Huashan’s Dark Fragrance Drift. It was the same movement technique I had grown sick of seeing during our duel a year ago.
 
-A year had passed, and his Dark Fragrance Drift had become even more secretive and faster.
+Since then, his Dark Fragrance Drift had become even more elusive and far faster.
 
 *Swish!*
 
 A faint violet aura gathered around the tip of the sword sweeping toward the crown of the Willow-Cloud Divine Dragon’s head.
 
-He avoided attacks as much as possible, and only used Sword Energy at the exact moment of striking.
+Cheongpung evaded whenever possible and used Sword Energy only at the instant he attacked.
 
-It was proof that he was reducing unnecessary expenditure of internal energy while controlling his own power perfectly.
+It proved that he was minimizing unnecessary internal-energy consumption while controlling his qi with perfect precision.
 
-“Gah!”
+“Hah!”
 
-The Willow-Cloud Divine Dragon, startled, hurriedly knocked his sword upward. But this time, things were different from before. The Pine-Pattern Ancient Sword slid along Cheongpung’s blade and changed direction.
+The startled Willow-Cloud Divine Dragon hurriedly knocked his sword upward. But this time was different. The Pine-Pattern Ancient Sword flowed along Cheongpung’s blade and redirected it.
 
 Softness overcoming hardness.
 
@@ -144,7 +144,7 @@ The Pine-Pattern Ancient Sword wavered in midair, and Cheongpung’s blade immed
 
 Cheongpung abruptly withdrew his sword and sank into thought. Then he smiled brightly.
 
-In contrast, the Willow-Cloud Divine Dragon stared at him in utter shock.
+The Willow-Cloud Divine Dragon, on the other hand, stared at him in horror.
 
 So did every martial artist watching the duel.
 
@@ -158,7 +158,7 @@ Wudang had built its martial arts upon the principle of softness overcoming hard
 
 The shock was immense.
 
-*Cheongpung is one move ahead of the Willow-Cloud Divine Dragon. No, at least two moves ahead.*
+*Cheongpung is one level ahead of the Willow-Cloud Divine Dragon. No, at least two.*
 
 There was no way the Willow-Cloud Divine Dragon, who was facing him directly, hadn’t realized it.
 
@@ -168,7 +168,7 @@ There was no way the Willow-Cloud Divine Dragon, who was facing him directly, ha
 
 “……”
 
-*Easy, my ass. You crazy bastard.*
+*Easy, my ass, you lunatic.*
 
 More importantly, was that really something a person could do?
 
@@ -182,7 +182,7 @@ Then he suddenly charged.
 
 Blue Sword Energy blazed more brightly than ever. He had clearly gathered every last bit of his internal energy into that one strike.
 
-The blade approached as though it would split Cheongpung’s chest open at any moment. Just as the spectators began screaming at the sight of Cheongpung standing there blankly—
+The blade hurtled toward Cheongpung as if it would split his chest open. The spectators screamed at the sight of Cheongpung simply standing there—
 
 *Swish-swish-swish-swish!*
 
@@ -194,7 +194,7 @@ That single movement told me exactly which martial art he was using.
 
 It was supremely fast and smooth.
 
-For a moment, it seemed as though the scent of plum blossoms brushed the tip of my nose. The violet Sword Energy of the Zaha Divine Technique burst like flower buds and bloomed into thirty-six plum blossoms.
+For a moment, I could almost smell plum blossoms. The violet Sword Energy of the Zaha Divine Technique burst into bud, blooming into thirty-six plum blossoms.
 
 The next instant, the Willow-Cloud Divine Dragon’s Pine-Pattern Ancient Sword stopped dead in front of Cheongpung’s chest.
 
@@ -208,7 +208,7 @@ The Willow-Cloud Divine Dragon stared at his cherished sword, and a weak voice s
 
 Cheongpung jumped and stammered.
 
-“Ah, I’m not.”
+“N-No, I’m not.”
 
 “Well, I suppose it hardly matters.”
 
@@ -244,7 +244,7 @@ The higher you climbed, the more of the landscape you could see. The same was tr
 
 *He’s incredible. It’s almost impossible to believe that all of this comes from natural talent.*
 
-His martial prowess was astonishing, but his talent was even more so.
+His martial prowess was astonishing, but it was nothing compared to his talent.
 
 Watching him, even I could almost believe he was a System user.
 
@@ -256,19 +256,19 @@ Cheongpung muttered with a slightly downcast expression.
 
 “Grandpa always told me I did well…”
 
-“That’s your problem.”
+“That’s between you and him.”
 
-It was then that I deliberately answered him curtly.
+I had deliberately answered him curtly when a voice suddenly popped up from somewhere.
 
 “Wow, that was a great duel, friend!”
 
-At the sudden voice that seemed to leap out of nowhere, Cheongpung turned around with a brightened expression.
+Cheongpung’s face lit up as he turned.
 
 “Jongni Chu!”
 
 “Oh! You remember me, friend!”
 
-“Of course I remember you. Of course I do—uh, yeah, of course!”
+“Of course I remember you, sir. I mean—of course I do!”
 
 “……”
 
@@ -284,7 +284,7 @@ I silently watched Jongni Chu and Cheongpung embrace and laugh together. Then a 
 
 “Aren’t you each other’s next opponents?”
 
-The two of them stared blankly at each other, then both gasped.
+They stared blankly at each other, then gasped.
 
 “T-That’s right!”
 
@@ -312,7 +312,7 @@ Whatever else one might say about him, the bastard’s luck was phenomenal.
 
 Cheongpung wasn’t someone who could be defeated through luck. Perhaps they knew that too, because they exchanged a few words with regretful expressions.
 
-“Sorry. I’ll go easy on you. No, wait—sorry, pal. I’ll go easy on you.”
+“I’ll go easy on you. No, I mean…I’ll go easy on you, friend.”
 
 “If you would, I’d be grateful. Please do.”
 
@@ -324,7 +324,7 @@ I shook my head.
 
 “A prior engagement? But Benefactor, you don’t have any friends.”
 
-“What? Did you have any friends besides me?”
+“What? You have friends besides me?”
 
 “……”
 
