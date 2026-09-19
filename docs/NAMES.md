@@ -1514,3 +1514,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사검 | **Snake Sword** | Crooked-bladed weapon resembling a snake. |
 | 외공 | **external arts** | Martial arts focused on extreme bodily training. |
 | 흑목조간 | **black-wood fishing rod** | The Dongting Fisherman's distinctive weapon; the broken rod is his only known trace. |
+| 조양 | **Zaoyang** | Ferry landing in Hubei where the party leaves the Yangtze. |
+| 청협방 | **Qingxia Hall** | Unofficial Hubei social club formed by influential families' children. |
+| 청협방탄무인단 | **Qingxia Bulletproof Martial Artist Corps** | Taekyung's joking imagined name for Qingxia Hall's performers. |

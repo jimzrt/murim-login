@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Most of them were Third Rate or barely below First Rate swordsmen.",
+      "defect": "The draft collapses the explicitly stated Second and Third Rate ranks into an unclear range and suggests that some are nearly First Rate.",
+      "id": "F01",
+      "rationale": "이, 삼류 explicitly identifies them as Second or Third Rate, while 일류에도 못 미치는 states that they do not reach First Rate.",
+      "replacement": "Most were Second or Third Rate swordsmen who fell short of First Rate.",
+      "severity": "major",
+      "source": "대부분은 일류에도 못 미치는 이, 삼류 칼잡이들이고"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Zhuge Clan was one of the great Murim families that divided control of Hubei Province with Wudang.",
+      "defect": "The draft calls both parties “great Murim families,” incorrectly categorizing Wudang as a family and replacing the source's broader description of the Zhuge Clan as a prestigious major faction.",
+      "id": "F02",
+      "rationale": "명문 대파 means a prestigious major faction or power, not specifically a great family, and Wudang is a sect.",
+      "replacement": "The Zhuge Clan was a prestigious major faction that divided control of Hubei Province with Wudang.",
+      "severity": "major",
+      "source": "제갈세가는 무당파와 함께 호북성을 양분하는 명문 대파."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I swear on my life, once this is over, I’m never coming back to the Yangtze. Not ever. Every day is complete shit.”\n\n“…Are you picking a fight with me?”\n\n“No. I mean, it really is shit.”\n\n“That’s true. It feels like shit, but you’re right. You’re right, but it still feels like shit.”\n\n“Haah. This really feels like shit.”\n\n“…I get it, so shut up.”",
+      "defect": "Rendering every use of 거지 같다 solely as “shit” erases the literal reference to living like a beggar, so Gung Gibang's offended response no longer has a discernible cause.",
+      "id": "F03",
+      "rationale": "거지 같다 idiomatically means miserable or shitty but literally invokes a beggar; the repetition deliberately provokes the Beggars’ Sect member and must preserve both senses.",
+      "replacement": "“I swear on my life, once this is over, I’m never coming back to the Yangtze. Not ever. Every day feels like living as a goddamn beggar.”\n\n“…Are you picking a fight with me?”\n\n“No. Honestly, doesn’t it feel like we’re living as beggars?”\n\n“That’s true. It feels shitty to hear it, but you’re right. You’re right, but it still feels shitty.”\n\n“Damn, I really do feel like a beggar.”\n\n“…I get it, so shut up.”",
+      "severity": "major",
+      "source": "“이 자리에서 맹세하는데, 이번 일만 마무리되면 장강에는 두 번 다시 안 올 겁니다. 하루하루가 거지 같아요.”\n\n“……너 지금 나한테 시비 거는 거냐?”\n\n“아니, 솔직히 거지 같긴 하잖아요.”\n\n“그건 그래. 기분이 더러운데 맞는 말이야. 맞는 말인데 기분이 더러워.”\n\n“하, 기분 진짜 거지 같네.”\n\n“……알겠으니까 그만해라.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The K-pop craze that had begun in Korea must have spread beyond the world and reached the Murim as well.",
+      "defect": "The draft omits the follow-up parody name and the speculation that the martial artists have come to perform at an event.",
+      "id": "F04",
+      "rationale": "청협방탄무인단 is a deliberate parody of Bangtan Sonyeondan, following the K-pop comparison, and the second sentence extends the idol-group joke.",
+      "replacement": "The K-pop craze that had begun in Korea must have spread beyond the world and reached the Murim as well.\n\nQingxia Bulletproof Martial Artist Corps. Maybe they had come to perform at some event under a name like that.",
+      "severity": "minor",
+      "source": "청협방탄무인단. 뭐 그런 이름으로 행사 뛰러 온 건 아닐까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The commoners fighting tooth and nail for a single silver nyang were bitter and pitiful.",
+      "defect": "The draft makes the commoners themselves “bitter,” implying their emotional state, whereas the source describes Taekyung's reaction to seeing their desperate struggle as bitter and sympathetic.",
+      "id": "F05",
+      "rationale": "씁쓸하면서도 짠했다 expresses the narrator's mixed bitterness and sympathy toward the sight, not bitterness felt by the commoners.",
+      "replacement": "The sight of the commoners fighting tooth and nail for a single silver nyang left a bitter taste in my mouth and made me feel sorry for them.",
+      "severity": "major",
+      "source": "은자 하나를 갖기 위해 아귀다툼을 벌이는 양민들의 모습은 씁쓸하면서도 짠했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Wow! Ten silver coins!”",
+      "defect": "The draft changes the established rendering of 은자 from “silver nyang” to the generic “silver coins” within the same scene.",
+      "id": "F06",
+      "rationale": "은자 is established as “silver nyang” and is rendered that way throughout the immediately preceding passage.",
+      "replacement": "“Wow! Ten silver nyang!”",
+      "severity": "minor",
+      "source": "“와! 은자가 열 개!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Not the ones you just picked up—the big ones over there, with lots of filling.",
+      "defect": "The draft invents abundant filling; the source asks for the larger, more generous portion without specifying what makes up the quantity.",
+      "id": "F07",
+      "rationale": "크고 양 많은 describes something large and plentiful, not specifically something containing more filling.",
+      "replacement": "Not the ones you just picked up—the big ones over there, and make it a generous serving.",
+      "severity": "minor",
+      "source": "방금 집어 든 그거 말고, 저쪽에 크고 양 많은 걸로요."
+    }
+  ],
+  "summary": "Several meaningful fidelity issues remain, chiefly an altered martial hierarchy, a lost beggar-related exchange, and an omitted K-pop wordplay beat.",
+  "version": 1
+}

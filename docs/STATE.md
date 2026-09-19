@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 451
-- Next chapter: 452
-- Current block: 450–454 (2/5)
-- Latest translation: `translations/0451.md`
-- Latest summary: `summaries/beats/0451.md`
-- Safe profiles through: chapter 451
+- Last completed: 452
+- Next chapter: 453
+- Current block: 450–454 (3/5)
+- Latest translation: `translations/0452.md`
+- Latest summary: `summaries/beats/0452.md`
+- Safe profiles through: chapter 452
 
 ## Current Block
 
-- Mungyeong privately analyzes the Donghu Stronghold corpses and determines that at least two, possibly three, Supreme Peak masters attacked using Force or an equally sharp weapon, with at least one wielding an unusual crooked blade and external arts capable of crushing bodies and collapsing buildings. The evidence points to the missing Dongting Fisherman as the leading suspect for the Dark Heaven massacre, though his motive remains unknown.
+- Taekyung's party escapes Tianling Falls and reaches Zaoyang, where they must continue by land toward the Zhuge Clan on Mount Longzhong. At the ferry landing they encounter Qingxia Hall, an influential social club formed by the children of powerful Hubei families, whose lavish procession scatters silver nyang among the commoners. While Taekyung condemns the spectacle, Gung Gibang and Hyuk Mujin rush to collect the money, and Cheongpung abandons the group to buy sweets, jeonbyeong, and dumplings, prompting Taekyung's furious outburst.
 
 ## Open Questions
 
@@ -25,7 +25,7 @@
 - Render 살귀 as killer demon and 일급 낭인 as First Rate wandering martial artist.
 - Render 시부럴 as “sibu-leol,” 시벌좌 as “Lord Fuck,” and 시부럴좌 as “Lord Sibu-leol.”
 - Preserve the Skeleton King's grandiose, mock-offended voice and Taekyung's dry, profane humor.
-- Keep Peace Guild, guild house, Inventory, Magic Johnson, established martial-arts terminology, black magic, poison human, World Hunter Association, Wizard Guild, Sea Serpent Society, Red Cliffs, and Dongting Fisherman unchanged; render 현공진인 as “Perfected Being Hyeongong” and 화왕질리언 as “Fire King Zilean.”
+- Keep Peace Guild, guild house, Inventory, Magic Johnson, established martial-arts terminology, black magic, poison human, World Hunter Association, Wizard Guild, Sea Serpent Society, Red Cliffs, and Dongting Fisherman unchanged; render 현공진인 as “Perfected Being Hyeongong,” 화왕질리언 as “Fire King Zilean,” 청협방 as “Qingxia Hall,” and 조양 as “Zaoyang.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
