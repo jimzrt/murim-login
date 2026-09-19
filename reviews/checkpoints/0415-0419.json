@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Though he had not suffered a single wound, he felt as if he had been cut by a blade.",
+      "defect": "This contradicts Chapter 417, where Jin's spear cuts Lee Jungryong and draws blood.",
+      "id": "C01",
+      "rationale": "The revision preserves the intended contrast between Lee's limited physical injury and his sudden sense of danger without erasing the wound already established on-page.",
+      "replacement": "Though he had suffered only a slight wound, he felt as if he had been cut by a blade.",
+      "severity": "major",
+      "source": "Chapter 419, opening confrontation"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Can the three Hunters stop the city's Gate transformation?",
+      "defect": "The question is stale after Jin kills both Wu Heixing and Lee Jungryong; only Jin remains to confront the Arch Lich.",
+      "id": "C02",
+      "rationale": "Active state must reflect the end-of-packet situation rather than the three-person strike force that entered the city.",
+      "replacement": "Can Jin Taekyung stop the city's Gate transformation?",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“These fucking bastards are more interested in the back of my head than the Arch Lich. That’s what I’m certain of.”",
+      "defect": "“Interested in the back of my head” is an unnatural Korean-idiom calque and disagrees with the natural rendering used when the line is reprised in Chapter 417.",
+      "id": "C03",
+      "rationale": "The replacement preserves the betrayal metaphor, reads naturally in Jin's voice, and makes the chapter-boundary reprise consistent.",
+      "replacement": "“These fucking bastards are more interested in stabbing me in the back than fighting the Arch Lich. That’s what I’m certain of.”",
+      "severity": "minor",
+      "source": "Chapter 416, final paragraph"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Rather… certainty.”\n\n“Certainty?”\n\n“Yes.”\n\nThe corners of my mouth rose before I could stop them. I threw out the one thing I had pressed down and held back time and time again.\n\n“I’m certain these fucking bastards are more interested in stabbing me in the back than fighting the Arch Lich. Something like that.”",
+      "defect": "The reprise is malformed and drifts from the exchange at the end of Chapter 416. “Rather… certainty” is not idiomatic dialogue, and “Something like that” weakens what the narration presents as an unequivocal accusation.",
+      "id": "C04",
+      "rationale": "This restores natural English and makes the overlapping material match the preceding chapter without changing Jin's meaning or tone.",
+      "replacement": "“If anything, I’m certain.”\n\n“Certain?”\n\n“Yes.”\n\nThe corners of my mouth rose before I could stop them. I threw out the one thing I had pressed down and held back time and time again.\n\n“These fucking bastards are more interested in stabbing me in the back than fighting the Arch Lich. That’s what I’m certain of.”",
+      "severity": "minor",
+      "source": "Chapter 417, opening reprise"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Pfft! You stupid peninsula bangzi!”",
+      "defect": "The untranslated slur “bangzi” is opaque to an English reader and has neither an established ledger rendering nor a footnote.",
+      "id": "C05",
+      "rationale": "The natural English insult preserves Wu's contempt and the specifically anti-Korean target without introducing unexplained terminology.",
+      "replacement": "“Pfft! You stupid Korean bastard!”",
+      "severity": "minor",
+      "source": "Chapter 417, Wu Heixing's insult"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Sometimes, whenever I took someone's life, whenever I met the desperate voices and eyes of enemies begging for their lives, I found myself wondering.",
+      "defect": "Chapter 418 switches systematically to straight apostrophes even though the surrounding reading copies use curly apostrophes.",
+      "id": "C06",
+      "rationale": "The apostrophes in Chapter 418 should be normalized throughout to match the packet's required curly typography; this is the first uniquely identifiable occurrence.",
+      "replacement": "Sometimes, whenever I took someone’s life, whenever I met the desperate voices and eyes of enemies begging for their lives, I found myself wondering.",
+      "severity": "minor",
+      "source": "Chapter 418, opening sentence and recurring chapter-wide typography"
+    },
+    {
+      "confidence": 1.0,
+      "current": "「……!」",
+      "defect": "The line retains non-English corner brackets and a repeated-dot ellipsis instead of the required English quotation marks and ellipsis character.",
+      "id": "C07",
+      "rationale": "This restores the packet's established speech typography without changing the reaction.",
+      "replacement": "“…!”",
+      "severity": "minor",
+      "source": "Chapter 418, Wu Heixing's silent reaction"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Do you really have time to say things like that in a situation like this?”",
+      "defect": "The dialogue uses repeated fullwidth dots rather than the required single ellipsis character, a formatting drift also seen in several reactions across Chapters 417–419.",
+      "id": "C08",
+      "rationale": "Normalizing these ellipses preserves the pauses while complying with the reading-copy punctuation standard.",
+      "replacement": "“…Do you really have time to say things like that in a situation like this?”",
+      "severity": "minor",
+      "source": "Chapter 419, Great Cataclysm flashback"
+    }
+  ],
+  "summary": "The packet is coherent overall, but it contains two substantive continuity defects: Lee is described as unwounded despite being injured in the preceding fight, and the active state's open question still refers to three Hunters after Wu and Lee have died. The chapter-boundary reprise between 416 and 417 also drifts in wording, while Chapter 418 introduces systematic typography inconsistencies.",
+  "version": 1
+}
