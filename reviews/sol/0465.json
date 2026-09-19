@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The streak of light barely grazed the vital acupoints throughout my body before piercing and smashing through the solid cave floor.",
+      "defect": "“Barely grazed” indicates physical contact, but the attack narrowly passed the vital points without touching him, as the following paragraph explicitly confirms.",
+      "id": "F01",
+      "rationale": "아슬아슬하게 스쳐 지나간 means it passed dangerously close, not that it grazed him.",
+      "replacement": "The streak of light swept within a hair’s breadth of the vital acupoints throughout my body before piercing and smashing through the solid cave floor.",
+      "severity": "critical",
+      "source": "전신의 요혈을 아슬아슬하게 스쳐 지나간 빛줄기가 단단한 동굴 바닥을 꿰뚫고 부수었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It had been left with clear teeth marks where something had bitten into it.",
+      "defect": "The draft changes the implied agent from “someone” to “something,” weakening the clue that a person bit the fish.",
+      "id": "F02",
+      "rationale": "누군가 explicitly means “someone.”",
+      "replacement": "Clear teeth marks from where someone had bitten into it remained on its body.",
+      "severity": "minor",
+      "source": "누군가가 물어뜯은 선명한 이빨 자국을 몸에 남긴 채."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Red blood stained the wrinkles around his mouth. Shining scales clung to his face.",
+      "defect": "The scales are specifically stuck around his wrinkled mouth, not somewhere unspecified on his face.",
+      "id": "F03",
+      "rationale": "입가 locates both the blood and scales at the corners or surrounding area of his mouth, directly supporting the realization that he ate the fish.",
+      "replacement": "Red blood and glinting scales clung to the wrinkles around his mouth.",
+      "severity": "minor",
+      "source": "주름진 입가에 묻은 붉은 핏물과 반짝이는 비늘."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And before even the shock wave could fully spread, the Dongting Fisherman’s body shot toward me, leaving behind a pale afterimage.",
+      "defect": "The draft allows the shock wave to begin spreading, whereas the source says he moved before its aftermath even began.",
+      "id": "F04",
+      "rationale": "시작되기도 전에 means “before it even began,” emphasizing the immediacy of his charge.",
+      "replacement": "And before the shock wave could even begin to spread, the Dongting Fisherman’s body shot toward me, leaving behind a pale afterimage.",
+      "severity": "minor",
+      "source": "그리고 그 여파가 시작되기도 전에, 동정어옹의 신형은 희끗한 잔상을 남기며 나를 향해 쏘아지고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "White Flame’s spearhead, carrying heat hot enough to burn through anything, and the Heavenly Silkworm Thread, writhing like a living creature while holding several *jiazi* of internal energy, tore through space.",
+      "defect": "“Hot enough to burn through anything” adds an absolute destructive capability absent from the source.",
+      "id": "F05",
+      "rationale": "초고온의 열기 means extreme or ultra-high heat; it does not claim that the spear can burn through anything.",
+      "replacement": "White Flame’s spearhead, charged with extreme heat, and the Heavenly Silkworm Thread, writhing like a living creature while holding several *jiazi* of internal energy, tore through space.",
+      "severity": "minor",
+      "source": "초고온의 열기가 실린 백염의 창날과 살아 있는 생물처럼 꿈틀거리는 천잠사가 수 갑자의 공력을 머금고 공간을 갈랐다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "They had done it because they wanted to.",
+      "defect": "The draft changes killings committed according to need or expedience into killings motivated by simple desire.",
+      "id": "F06",
+      "rationale": "필요에 의해 denotes need, necessity, or expedience—not merely wanting to kill.",
+      "replacement": "They had done it because it served their purposes.",
+      "severity": "major",
+      "source": "그들의 살인은 살아남기 위해서가 아니라 필요에 의해 자행되었다는 점이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Dongting Fisherman, whose form had been broken so easily, let out a strange scream and swung the black-wood fishing rod again.",
+      "defect": "“Whose form had been broken” is ambiguous and can suggest that his body or posture was broken; the source says his martial form was countered.",
+      "id": "F07",
+      "rationale": "초식을 파훼 당한 means that his form or technique was defeated or countered.",
+      "replacement": "The Dongting Fisherman, whose form had been countered so easily, let out a strange scream and swung the black-wood fishing rod again.",
+      "severity": "minor",
+      "source": "너무도 쉽게 초식을 파훼 당한 동정어옹이 괴성을 내지르며 재차 흑목조간을 휘둘렀다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "But I moved half a beat faster.",
+      "defect": "The generic “moved” omits the specific footwork that launches Taekyung forward and produces the following explosive impact.",
+      "id": "F08",
+      "rationale": "발을 굴렀다 describes driving or stamping his foot against the ground, not merely moving.",
+      "replacement": "But I kicked off the ground half a beat faster.",
+      "severity": "minor",
+      "source": "공격에 실패한 동정어옹은 황급히 천잠사의 방향을 틀어 내 전신을 휘감으려 했지만, 나는 그보다 반 박자 빠르게 발을 굴렀다."
+    }
+  ],
+  "summary": "One contact reversal and several localized fidelity and action-mechanics defects.",
+  "version": 1
+}
