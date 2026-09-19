@@ -803,3 +803,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 문경 | 수신룡 | physician_to_dying_spirit_beast | you | guarded and curious | Mungyeong asks whether the Water God Dragon knows him. |
 | 송 군관 | 홍란 | military_commander_to_singing_courtesan | Young Lady | flattering and flirtatious | Officer Song approaches Honglan and attempts to court her. |
 | 홍란 | 송 군관 | singing_courtesan_to_military_commander | Officer Song | sweet, deferential, and manipulative | Honglan uses the respectful title while enthralling him and issuing her first command. |
+| 곽봉출 | 문경 | elderly patient to treating medical apprentice | medical apprentice, sir | deferential and rustic | Gwak repeatedly addresses Mungyeong with respectful medical-apprentice honorifics. |
+| 문경 | 곽봉출 | medical apprentice to elderly patient | Elder | calm, polite, and firmly instructive | Mungyeong uses 노인장 while examining, calming, and directing Gwak. |

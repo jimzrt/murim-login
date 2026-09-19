@@ -1566,3 +1566,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대라신선 | **Great Firmament Immortal** | Legendary immortal invoked by Mungyeong as unable to stop the dragon's death. |
 | 꽃뱀 | **flower snake** | Slang for a woman who seduces men and exploits them; retain the explanatory footnote. |
 | 송 군관 | **Officer Song** | Commander of the military ship who is enthralled by Honglan. |
+| 곽봉출 | **Gwak Bongchul** | Elderly boatman from Wuhan and Dongting Lake. |
+| 백추 | **Baekchu** | Boat maker or boat type associated with vessels sold around Wuhan. |

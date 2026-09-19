@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 479
-- Next chapter: 480
-- Current block: 475–479 (5/5)
-- Latest translation: `translations/0479.md`
-- Latest summary: `summaries/beats/0479.md`
-- Safe profiles through: chapter 479
+- Last completed: 480
+- Next chapter: 481
+- Current block: 480–484 (1/5)
+- Latest translation: `translations/0480.md`
+- Latest summary: `summaries/beats/0480.md`
+- Safe profiles through: chapter 480
 
 ## Current Block
 
-- The Memory Fragment ends, and the Water God Dragon regains its reason long enough to thank Taekyung and his companions. Taekyung realizes that Honglan corrupted the benevolent imugi and identifies the silver hairpin in his hair as hers. The dragon gives him its purified Origin Essence before dying peacefully, and Taekyung closes its eyes.
-- Taekyung tells the confused Jeok Cheongang that they should go catch a flower snake, meaning Honglan. On a military ship, Honglan seduces Officer Song, admits that she used the Dongting Lake imugi to kill many people, and reveals that the imugi's death pleases her. She enthralls Officer Song and orders him to change the ship's destination.
+- Mungyeong treats Gwak Bongchul, an elderly boatman who was unconscious for two days after witnessing the Dongting Lake spirit's rampage. As Gwak's memories return, he recalls the thunder, roar, and massive being that appeared over the lake, along with the deaths and destruction that followed.
+- Mungyeong calms Gwak with his internal energy and orders him to erase everything he saw, heard, and experienced. He instructs Gwak to accept a cover story in which he was summoned to Dongting Lake with government troops, collapsed from illness, and saw neither passengers nor the lake spirit. Mungyeong warns that the Hubei City Lord may silence him to prevent panic, then advises him to sell his boat and remain quiet before sending him away with a decoction.
 
 ## Open Questions
 
