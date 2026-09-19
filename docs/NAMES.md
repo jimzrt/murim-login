@@ -1415,3 +1415,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 죽음에서 돌아온 자 | **One Who Returned from Death** | Quest title. |
 | 꺽정 | **Kkeokjeong** | Jin's injured ally, addressed as Uncle Kkeokjeong. |
 | 바실리스크 | **Basilisk** | Mythical monster whose gaze inflicts petrification. |
+| 중단전 | **Middle Dantian** | Martial energy center opened by Jin during the battle. |
+| 단중혈 | **Tanzhong acupoint** | Acupoint identified with the Middle Dantian. |
+| 소닉 바스터 | **Sonic Buster** | The Arch Lich's compressed-wind spell. |
+| 그레이트 본 월 | **Great Bone Wall** | The Arch Lich's highest-level bone barrier. |
