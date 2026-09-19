@@ -1558,3 +1558,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 홍건 | **Red Turbans** | Historical red-turbaned bandits described as widespread raiders. |
 | 천마 신교 | **Heavenly Demon Divine Cult** | Full name of the demonic sect associated with the Heavenly Demon. |
 | 십이경맥 | **Twelve Regular Meridians** | The twelve regular meridians traversed by Jeok Cheongang's Scorching Yang Qi. |
+| 우에하라 | **Uehara** | A woman recalled by Taekyung in a comedic expression of gratitude; no further identity is established. |

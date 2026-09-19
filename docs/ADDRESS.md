@@ -798,3 +798,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 수신룡 | hostile martial artist to monster | you, sibu-leol eel bastard | blunt, insulting, and fearless | Taekyung directly insults the emerged Water God Dragon before attacking it. |
 | 청풍 | 제갈풍 | young_martial_artist_to_family_head | Great Hero Zhuge Feng | cheerful and polite | Cheongpung addresses Zhuge Feng as 제갈풍 대협, but deliberately mispronounces the name once as 제갈퐁 for comic effect. |
 | 제갈풍 | 청풍 | family_head_to_younger_martial_artist | you | familiar and polite | Zhuge Feng uses 자네 while instructing Cheongpung and responding to his advice. |
+| 진호 | 태경 | Older male friend addressing a younger male friend in a close hyung relationship | Taekyung | Informal and familiar | Jin-ho addresses Taekyung as 태경아 in recalled advice; Taekyung refers to him as Jin-ho hyung. |
