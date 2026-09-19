@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "—Just as you were.",
+      "defect": "The English is an unnatural fragment and frames the resemblance as belonging only to the past, while the dragon is recognizing that Taekyung remains exactly as seen.",
+      "id": "F01",
+      "rationale": "그대로군 expresses recognition that someone or something is unchanged or exactly as previously seen.",
+      "replacement": "—You’re exactly the same.",
+      "severity": "minor",
+      "source": "- 그대로군."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The body that had once held strength harder and more immense than any other slowly crumbled, then fell onto the waters of Dongting Lake.",
+      "defect": "“Strength harder” is not a valid English collocation, and “slowly crumbled” suggests disintegration rather than the body giving way and collapsing.",
+      "id": "F02",
+      "rationale": "단단하고 강대한 conveys formidable toughness and power, while 허물어지고 describes the body collapsing or giving way.",
+      "replacement": "The body that had once held unparalleled resilience and power gave way, then fell onto the waters of Dongting Lake.",
+      "severity": "minor",
+      "source": "한때 누구보다 단단하고 강대한 힘을 품었던 동체가 허물어지고, 이내 동정호의 강물 위로 쓰러진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "This enlightened being had regained its senses moments before death.",
+      "defect": "“Enlightened” incorrectly implies that the Water God Dragon attained the enlightenment it explicitly failed to achieve. 영험한 describes it as mystical or spiritually potent.",
+      "id": "F03",
+      "rationale": "The distinction matters because the chapter later states that enlightenment never came to the Water God Dragon.",
+      "replacement": "This mystical being had regained its senses moments before death.",
+      "severity": "major",
+      "source": "죽음을 코앞에 두고 정신을 차린 이 영험한 존재는 수수께끼를 풀 수 있는 중요한 열쇠니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The people who realized that a divine being had been born swam through the currents in joy.",
+      "defect": "백성 refers to the Water God Dragon’s aquatic subjects, not human people swimming underwater.",
+      "id": "F04",
+      "rationale": "The surrounding passage identifies the gathering as underwater creatures, and the same creatures are governed as the Water God Dragon’s subjects.",
+      "replacement": "The subjects who sensed the birth of a divine being swam joyfully through the currents.",
+      "severity": "major",
+      "source": "신령스러운 존재의 탄생을 알아차린 백성들이 기뻐하며 물살을 가르며 헤엄친다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Silver scales sprouted across its once-small, soft pink body, and a pair of whiskers began to grow impressively long beneath its snout.",
+      "defect": "The draft adds a specific pair of whiskers, but the source gives no number.",
+      "id": "F05",
+      "rationale": "수염 is uncounted here; adding “a pair” introduces an unsupported physical quantity.",
+      "replacement": "Silver scales sprouted across its once-small, soft pink body, and imposing whiskers grew quite long beneath its snout.",
+      "severity": "minor",
+      "source": "작고 부드럽던 분홍색 몸통에는 은빛 비늘이 돋아났고, 콧잔등 아래에는 위엄이 서린 수염이 제법 길게 자라났다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—You say humans have appeared? But no one has visited that place for the past several decades.",
+      "defect": "The draft changes a singular human into multiple humans, obscuring the setup for the lone intruder subsequently revealed.",
+      "id": "F06",
+      "rationale": "인간이 is singular in context, and the following narration consistently refers to one uninvited visitor.",
+      "replacement": "—You say a human has appeared? But no one has visited that place for the past several decades.",
+      "severity": "major",
+      "source": "- 인간이 나타났다는 말인가? 하지만 그곳은 지난 수십 년간 아무도 찾지 않았던 곳인데."
+    },
+    {
+      "confidence": 1.0,
+      "current": "One of its eyes slowly turned red.",
+      "defect": "The draft reverses the stated quantity by making only one eye turn red when the source explicitly says both eyes did.",
+      "id": "F07",
+      "rationale": "한 쌍의 눈동자 means a pair of eyes; the corruption affects both, not only one.",
+      "replacement": "Both its eyes slowly turned red.",
+      "severity": "critical",
+      "source": "서서히 붉게 물드는 한 쌍의 눈동자."
+    }
+  ],
+  "summary": "Seven actionable findings: one reversed quantity, three characterization or subject errors, one singular/plural error, and two localized wording defects.",
+  "version": 1
+}

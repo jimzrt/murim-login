@@ -1,9 +1,9 @@
 # Honglan (홍란)
 
-- **Safe through:** Chapter 467
+- **Safe through:** Chapter 478
 - **Aliases:** None
 - **Role:** Honglan is a Lower District Sect courtesan who uses a stage name while serving as Ju Wongong's singing courtesan.
 - **Personality:** Discreet about her real identity and professionally alluring.
 - **Voice:** Clear, pure, and alluring, with humble formal speech toward honored guests.
-- **Relationships:** Honglan is kept at Ju Wongong's side as a singing courtesan, belongs to the Lower District Sect, lost her clan and parents overnight as a child, can respond to Taekyung through Sound Transmission, and is the sole surviving eyewitness to the Dongting Lake attack who knows several possible locations of the Dongting Fisherman's hidden refuges.
+- **Relationships:** Honglan is kept at Ju Wongong's side as a singing courtesan, belongs to the Lower District Sect, lost her clan and parents overnight as a child, can respond to Taekyung through Sound Transmission, is the sole surviving eyewitness to the Dongting Lake attack who knows several possible locations of the Dongting Fisherman's hidden refuges, and appears in the Water God Dragon's memory at the Gate or rift that caused its corruption; her role there is unresolved.
 - **Sources:** Korean source and accepted translation, Chapter 454
