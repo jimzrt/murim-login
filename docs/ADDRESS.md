@@ -837,3 +837,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 이대 제자 | 현천진인 | Wudang second-generation disciple to Sect Leader | Sect Leader | urgent and deferential | The unnamed second-generation disciple urgently calls out 장문인 before reporting the Killing Ghost's remains. |
 | 소문주 | 혈곤 | Young Sect Leader addressing a hostile Peak master | Blood Cudgel | Informal and contemptuous | Calls him 혈곤 while offering silver in exchange for his submission. |
 | 도상호 | 소문주 | Blood Cudgel addressing the Black Dragon Demon Gate Young Sect Leader | Boy | Rude and informal | Addresses him as 아해야 before challenging him. |
+| 사마표 | 정호 | Black Dragon Demon Gate Young Sect Leader addressing a Shaolin Master | Master Jung Ho | Polite and ingratiating | Uses 정호대사 and 대사 while flattering Jung Ho and negotiating responsibility for the killing. |
+| 정호 | 사마표 | Shaolin martial monk addressing the Black Dragon Demon Gate Young Sect Leader | Benefactor | Formal and admonitory | Uses 시주 while questioning Sama Pyo and demanding accountability. |
+| 거한 | 사마표 | Subordinate addressing the Black Dragon Demon Gate Young Sect Leader | Young Sect Leader | Crude and deferential | Uses 소문주 in short, childlike replies. |
+| 사마표 | 거한 | Young Sect Leader addressing his giant subordinate | This fellow | Informal and patronizing | Refers to him as 이 녀석 while assigning him responsibility for Do Sangho's death. |
