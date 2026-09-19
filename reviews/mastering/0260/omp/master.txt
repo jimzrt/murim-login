@@ -12,7 +12,7 @@ Someone was slapping him hard across the face. It was his first time being slapp
 
 *Ah. So this is why people don’t like being slapped.*
 
-With that small insight, Cheongpung opened his mouth.
+With that small realization, Cheongpung opened his mouth.
 
 “Excuse me.”
 
@@ -84,7 +84,7 @@ Cheongpung shook his head without realizing it.
 
 “What do you mean…?”
 
-Hyuk Mujin continued with an incredulous expression.
+Hyuk Mujin stared at him in disbelief.
 
 “You suffered at his hands yourself, and you still don’t understand? The shock must have been so great that you can’t remember, but you nearly died at his hands.”
 
@@ -118,19 +118,19 @@ Only after confirming that no one was paying attention to them did he lower his 
 
 He was an assassin who had murdered the Abbot of Shaolin Temple and fled. Simply being acquainted with Jongni Chu could be enough to earn Cheongpung a brutal beating.
 
-Even if he was the disciple the Sword Saint had raised like his own flesh and blood, people would still glare at him.
+Even as the disciple the Sword Saint had raised like his own flesh and blood, Cheongpung would still face the condemnation of the world.
 
-“Never mention him out loud again. Do you understand?”
+“Never say that aloud again. Do you understand?”
 
 “But…”
 
-Cheongpung was about to say something, but he closed his mouth at the look in Hyuk Mujin’s eyes.
+Cheongpung was about to protest, but the look in Hyuk Mujin’s eyes silenced him.
 
 “He’s a demonic fiend. I don’t know what kind of underhanded trick he used to win your favor, but it was all a disguise meant to help him assassinate Master Hong Dao.”
 
-“Are you certain? Did anyone see him kill him?”
+“Are you certain? Did anyone see him do it?”
 
-“All the circumstances point to it. The pursuit party formed to capture him and the thousands of heroes who gathered to save Shaolin have finished preparing to depart.”
+“All the circumstances point to him. The pursuit party formed to capture him and the thousands of heroes gathered to save Shaolin are already prepared to depart.”
 
 “Shaolin…”
 
@@ -146,7 +146,7 @@ He did not deliberate for long.
 
 “What?”
 
-By the time Hyuk Mujin asked back with a dazed expression, Cheongpung had already shot far into the distance.
+By the time Hyuk Mujin asked in a daze, Cheongpung had already shot far into the distance.
 
 His feet carried him toward Mount Song.
 
@@ -162,7 +162,7 @@ But the place that should have been green and lovely was stained with blood and 
 
 Slash! Shhhhhhk!
 
-Blood spurted from every direction whenever a flash of sword light gleamed.
+Blood sprayed through the air with every flash of sword light.
 
 In broad daylight on the peaceful day of Baekjung,[^1] hundreds of masked men had appeared without warning and begun slaughtering people with emotionless eyes.
 
@@ -176,7 +176,7 @@ The masked men were all exceptional masters and difficult enough to fight on the
 
 “Kraaagh!”
 
-No one had expected anything like this to happen today.
+No one could have anticipated such a day.
 
 Who would dare invade the grounds of Shaolin Temple, here in the very heart of the Central Plains? Who would dare attack the Mount Tai and Northern Dipper of the Murim?
 
@@ -206,13 +206,13 @@ However…
 
 The hundreds of masked men did not stop.
 
-They possessed neither agitation nor hesitation. They merely muttered as though possessed by ghosts and swung their swords.
+Not one of them showed the slightest agitation or hesitation. They simply muttered as though possessed and swung their swords.
 
 Slash. Slash. Slash.
 
 The old monk’s expression hardened at the sight.
 
-*How ruthless…*
+*How monstrous…*
 
 Even when their limbs were severed and their intestines spilled out, they did not so much as twitch an eyebrow.
 
@@ -220,9 +220,9 @@ They slaughtered without feeling pain or fear, then dropped like puppets with th
 
 *These things aren’t human. They’re Fiends incarnate.*
 
-If even an old monk who had fought his way through the Great Faction War felt that way, how much worse must it have been for everyone else?
+If even the old monk, who had fought his way through the Great Faction War, felt that way, how much worse must it be for everyone else?
 
-The more experienced middle-aged martial monks were struggling valiantly, but the young monks witnessing such carnage for the first time trembled with fear.
+The more experienced middle-aged martial monks fought desperately, but the younger monks witnessing such carnage for the first time trembled with fear.
 
 Yet they did not retreat.
 
@@ -232,9 +232,9 @@ Perhaps it was the sense of duty that came with being disciples of Buddhism stan
 
 The old monk lamented inwardly.
 
-During the last Great Faction War, Shaolin had been at the forefront more than anyone and shed more blood than anyone.
+During the last Great Faction War, Shaolin had stood at the forefront and shed more blood than any other sect.
 
-It had been a noble sacrifice that saved the Murim, but Shaolin had lost many elders and much martial knowledge. And the sacrifices of that era had returned today as tragedy.
+It had been a noble sacrifice that saved the Murim, but Shaolin had lost many elders and much of its martial heritage. Now the sacrifices of that era had returned as today’s tragedy.
 
 *Of all times, this had to happen while my Senior Brother, the Abbot, was away!*
 
@@ -264,31 +264,31 @@ Two voices pierced Hongcheon’s ears.
 
 Two men slowly entered the temple grounds. As soon as they appeared, the masked men lowered their swords and withdrew in perfect unison.
 
-“Was it you bastards?”
+“So it was you bastards?”
 
 At Hongcheon’s snarled question, the red-bearded old man picked his nose and answered.
 
-“That’s right. This old man right here.”
+“That’s right. It was me.”
 
 “You’re the vile demonic fiends of Tianshan.”
 
 “The demonic fiends of Tianshan? Well, that’s half right and half wrong. But I’ll let it pass.”
 
-Hongcheon paused.
+Hongcheon faltered.
 
 “You’re not from the Demonic Cult?”
 
-“What does that matter? All you need to know is that I’m the one who’ll grab your shiny pate and rip it off.”
+“What does that matter? All you need to know is that I’m the man who’s going to grab that shiny head of yours and tear it off.”
 
-The old man with the air of a great scholar answered with a quiet smile.
+The other old man, who had the bearing of a great scholar, smiled mildly.
 
-“Flame Tiger, are you going to handle him?”
+“Flame Tiger, are you planning to handle him yourself?”
 
-“Naturally. Now that I’ve seen the Hundred-Step Divine Fist, I can’t just let it go.”
+“Naturally. Now that I’ve seen the Hundred-Step Divine Fist, I can’t just let this pass.”
 
 “I keep telling you to rein in that temper of yours.”
 
-“I’ll think about it later. Right now, I want to kill that bald monk more than I care about my temper.”
+“I’ll think about it later. Right now, I’m more interested in killing that damned monk.”
 
 Hongcheon stared at the two old men in turn, his eyes wide.
 
@@ -298,7 +298,7 @@ The immense auras radiating from the two old men, who could not have seemed more
 
 “Could you two be…?”
 
-Flame Tiger gave a ferocious laugh and nodded.
+Flame Tiger grinned savagely and nodded.
 
 “You’re only realizing it now? You must still be a youngster. All those damned monks of the Beom generation have been dead for ages… Are you the Dharma King’s youngest Junior Brother?”
 
@@ -342,9 +342,9 @@ Flame Tiger fondly reminisced about that horrific past, then shook his head.
 
 Han Su watched Flame Tiger with a faint smile before abruptly bringing his palms together toward Hongcheon.
 
-“Ah, come to think of it, I’d forgotten for a moment. Please accept my condolences.”
+“Ah, come to think of it, I had forgotten something. Please accept my deepest condolences.”
 
-Hongcheon, who had stiffened at the appearance of the two old monsters, sensed something ominous and asked:
+Hongcheon, who had gone rigid at the appearance of the two old monsters, sensed something ominous.
 
 “Condolences? What are you talking about?”
 
@@ -352,7 +352,7 @@ Hongcheon, who had stiffened at the appearance of the two old monsters, sensed s
 
 “……!”
 
-Shock struck him, making the world before his eyes seem to go dim.
+The shock made the world before Hongcheon’s eyes go dark.
 
 His Senior Brother, who should have been at the Murim Alliance, was dead?
 
@@ -360,41 +360,41 @@ That was impossible.
 
 “Nonsense!”
 
-Han Su gave a short laugh as he looked at the shaken Hongcheon.
+Han Su let out a quiet laugh at the sight of the shaken Hongcheon.
 
-“Whether it’s true or not is for you to decide. And…”
+“Whether you believe it is up to you. And…”
 
 Flame Tiger continued in a heated voice.
 
-“All the monks here, including you, will die. That’s our judgment.”
+“Every monk here, including you, is going to die. That’s our decision.”
 
 Rustle.
 
-As if they had sensed their leader’s aura, the masked men took a step forward with emotionless eyes.
+As though sensing their leaders’ intent, the masked men took a step forward, their eyes devoid of emotion.
 
-A deadly edge rising from hundreds of sword blades filled Shaolin Temple.
+The deadly sharpness rising from hundreds of sword blades filled Shaolin Temple.
 
 Hongcheon’s eyelids trembled at the sight.
 
 *Senior Brother… Is it true?*
 
-But the trembling soon subsided, and light returned to his eyes.
+But the trembling soon subsided, and a resolute light entered his eyes.
 
 The old monk, who had devoted eighty years to martial arts, clenched his fists.
 
-“I never thought I’d have to face the Yin-Yang Twin Freaks at the same time. Come, you damned old monsters.”
+“I never thought I would face the Yin-Yang Twin Freaks together. Come, you damned old monsters.”
 
 “Wahahaha! You’ve got quite a foul mouth for a monk. I like that you’re still so full of youthful vigor.”
 
 Flame Tiger burst into hearty laughter and stepped forward.
 
-“Unfortunately, one old man is enough for you. Han Su has a more pressing matter to attend to.”
+“Unfortunately, this old man alone is more than enough for you. Han Su has more urgent business elsewhere.”
 
 “Very urgent business.”
 
 Han Su smiled faintly and continued.
 
-“So will you step aside? I have to go to the Face-Wall Cave.”
+“So would you step aside? I need to visit the Face-Wall Cave.”
 
 The Face-Wall Cave.
 
@@ -406,18 +406,18 @@ And…
 
 *The Green Jade Buddha Staff.*
 
-At last realizing the enemies’ objective, Hongcheon let out a lion’s roar.
+At last realizing the enemy’s objective, Hongcheon unleashed a lion’s roar.
 
-“Stop them by whatever means necessary!”
+“Stop them by any means necessary!”
 
 “Stop us? That won’t be enough.”
 
 The Yin-Yang Twin Freaks flicked their hands, dark smiles spreading across their faces.
 
-As though they had returned to the days of fifty years ago, horrifying killing intent surged from their entire bodies.
+As though they had returned to the days of fifty years ago, horrifying killing intent erupted from their bodies.
 
 “Kill them all.”
 
-Fwoooooosh!
+Shrieeeek!
 
 [^1]: Baekjung is a traditional Korean Buddhist observance held on the fifteenth day of the seventh lunar month.
