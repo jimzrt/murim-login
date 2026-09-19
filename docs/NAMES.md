@@ -1531,3 +1531,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 칠삼이 | **Chil-Sam** | Person named in a mourner's cry for Chil-Sam's father. |
 | 무릉도원 | **Wuling Peach Blossom Spring** | Classical image of an idyllic utopia where immortals are said to live. |
 | 수공 | **water arts** | Water-based martial arts; the Dongting Fisherman's specialty. |
+| 은영귀 | **Hidden Shadow Ghost** | Local name for an unseen killer targeting boatmen on Dongting Lake. |
