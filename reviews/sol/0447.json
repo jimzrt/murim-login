@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Silence hung over the fast ships as they cut rapidly through the current.",
+      "defect": "The draft changes the immediate setting from the single fast ship carrying the narrator to all four ships.",
+      "id": "F01",
+      "rationale": "The source uses the singular 쾌조선에는; the fleet of four is introduced separately afterward.",
+      "replacement": "Silence hung over the fast ship as it cut rapidly through the current.",
+      "severity": "major",
+      "source": "빠르게 물살을 가르며 나아가는 쾌조선에는 침묵만이 감돌았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Disciples from the two prestigious sects dividing Hubei Province filled the four fast ships.",
+      "defect": "Calling both powers sects misclassifies the Zhuge Clan.",
+      "id": "F02",
+      "rationale": "The two powers are the Zhuge Clan and Wudang; 대파 functions broadly here and does not make the Zhuge Clan a sect.",
+      "replacement": "Disciples from the two prestigious great factions that divided Hubei Province filled the four fast ships.",
+      "severity": "major",
+      "source": "호북성을 양분하는 두 명문 대파의 제자들이 네 척의 쾌조선을 가득 채웠다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "His position within Wudang and his standing in Murim were in no way inferior to Zhuge Feng’s.",
+      "defect": "The generic word “standing” loses the explicit Murim generational seniority expressed by 배분.",
+      "id": "F03",
+      "rationale": "배분 denotes rank by martial lineage and generation, which explains why Zhuge Feng treats Hyeongong as a senior.",
+      "replacement": "His position within Wudang and his generational seniority in Murim were in no way inferior to Zhuge Feng’s.",
+      "severity": "major",
+      "source": "그리고 그가 무당파 내에서 차지하는 위치나 무림의 배분은 결코 제갈풍에 뒤떨어지지 않았다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "At Jeok Cheongang’s words, I muttered in disbelief.",
+      "defect": "The draft omits the narrator’s comic characterization of Jeok Cheongang as Murim’s Bodhidharma and an ancient veteran.",
+      "id": "F04",
+      "rationale": "The omitted appositive preserves both the Bodhidharma reference and the 고인물 joke about Jeok Cheongang’s extreme age and experience.",
+      "replacement": "At the words of Jeok Cheongang—Murim’s own Bodhidharma and the ultimate old-timer—I muttered in disbelief.",
+      "severity": "major",
+      "source": "무림의 달마대사 고인물, 적천강의 말에 어이가 없어진 내가 중얼거렸다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Since we’re on the subject, how old are you, exactly?”\n\n“Old?”\n\nJeok Cheongang usually took any mention of his age as synonymous with asking someone to kill him. I awkwardly changed the word.\n\n“…Then, how many years have you lived?”\n\n“How many years?”",
+      "defect": "The first question directly calls him old, while the source uses one highly respectful term for age and then switches to another; the narration also broadens his reaction from being called old to any mention of age.",
+      "id": "F05",
+      "rationale": "춘추 and 연세 are both deferential age terms. Preserving Taekyung’s escalating politeness is necessary for the punchline when he finally addresses Jeok Cheongang like a child.",
+      "replacement": "“Since we’re on the subject, may I ask your venerable age?”\n\n“My venerable age?”\n\nEven under ordinary circumstances, Jeok Cheongang treated being called old as synonymous with asking him to kill you. I awkwardly tried another term.\n\n“…Then, how many years have you lived, sir?”\n\n“How many years?”",
+      "severity": "major",
+      "source": "“이렇게 된 김에 여쭤보는 건데, 춘추가 정확히 얼마나 되시는 겁니까?”\n\n“춘추?”\n\n평소에도 늙었다는 소리를 죽여 달라는 것과 동의어로 받아들이는 적천강이다. 나는 떨떠름하게 단어를 고쳤다.\n\n“……그럼, 연세?”\n\n“연세?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "And beyond it, a violent whirlpool twisting like a blade.",
+      "defect": "The draft reverses the whirlpool’s spatial relationship to the narrow passage.",
+      "id": "F06",
+      "rationale": "그 앞에서 places the whirlpool in front of the narrow stretch, not beyond it.",
+      "replacement": "And directly in front of it, a violent whirlpool twisting like a blade.",
+      "severity": "critical",
+      "source": "그리고 그 앞에서 칼날처럼 회오리치는 거센 와류(渦流)가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“We have not heard from him in a long time. Let us consider him dead.”",
+      "defect": "The draft omits 다시, losing the continuity detail that contact with their father was restored and then lost again.",
+      "id": "F07",
+      "rationale": "다시 explicitly marks a renewed loss of contact rather than one uninterrupted absence.",
+      "replacement": "“We lost contact with him again a long time ago. Let us consider him dead.”",
+      "severity": "major",
+      "source": "“다시 소식이 끊긴 지 오래됐다. 그냥 죽은 셈 치자꾸나.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And while he was at it, he had even killed off his father, who was alive and well because he had dumped his family duties and run away.",
+      "defect": "The syntax makes abandoning the family duties the reason their father is alive and well, rather than the reason Jin Wikyung declares his living father dead.",
+      "id": "F08",
+      "rationale": "The source’s causal link is that Jin Wikyung writes his father off because he fled after foisting the family duties on him.",
+      "replacement": "And while he was at it, he had declared our perfectly alive father dead just because the man had dumped the family responsibilities on him and run away.",
+      "severity": "major",
+      "source": "그 와중에 가문 짬 때리고 도망쳤다고 멀쩡히 살아 있는 아버지까지 죽여 버리는 클라스."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Oh, shit. He’s serious.”",
+      "defect": "Taekyung is confirming that Mu Song’s claim is true, not commenting on Mu Song’s sincerity or demeanor.",
+      "id": "F09",
+      "rationale": "진짜네 is a realization that it truly is too late to stop, directly validating the preceding statement.",
+      "replacement": "“Oh, fuck. He’s right.”",
+      "severity": "major",
+      "source": "“어, 시발 진짜네.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "He was right.\n\nViolently, fucking right.",
+      "defect": "The second sentence is unnatural English and does not convey the wordplay between 맞는 meaning “correct” and 처맞는 meaning “getting beaten.”",
+      "id": "F10",
+      "rationale": "The replacement preserves the abrupt repetition and converts the Korean homonym joke into natural English without changing Taekyung’s hostility.",
+      "replacement": "He had a point.\n\nA fucking punchable one.",
+      "severity": "minor",
+      "source": "맞는 말이다. 존나 처맞는 말."
+    }
+  ],
+  "summary": "Actionable fidelity issues include altered scope and spatial relations, lost hierarchy and register, an omitted characterization joke, and changed causal and continuity details.",
+  "version": 1
+}

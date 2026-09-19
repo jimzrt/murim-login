@@ -1498,3 +1498,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 장강일도 | **Yangtze One Saber** | Hwang Chung's sobriquet. |
 | 천령폭 | **Tianling Falls** | Dangerous waterway leading to Donghu Stronghold. |
 | 흑죽조간 | **Black Bamboo Fishing Rod** | The Dongting Fisherman's unique signature weapon, found broken. |
+| 현공진인 | **Perfected Being Hyeongong** | Veteran Wudang Daoist master and the current Sect Leader's Junior Brother. |
+| 화왕질리언 | **Fire King Zilean** | Pun combining Jeok Cheongang's Fire King title with Zilean for the waxing joke. |
