@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 460
-- Next chapter: 461
-- Current block: 460–464 (1/5)
-- Latest translation: `translations/0460.md`
-- Latest summary: `summaries/beats/0460.md`
-- Safe profiles through: chapter 460
+- Last completed: 461
+- Next chapter: 462
+- Current block: 460–464 (2/5)
+- Latest translation: `translations/0461.md`
+- Latest summary: `summaries/beats/0461.md`
+- Safe profiles through: chapter 461
 
 ## Current Block
 
-- Taekyung, Cheongpung, Hyuk Mujin, Gung Gibang, and Honglan set out on a sturdy ferryboat guided by Dongting Lake's most skilled boatman toward the Dongting Fisherman's hidden refuge. A local boatman calls the unseen killer of boatmen the Hidden Shadow Ghost, strengthening suspicion that the Dongting Fisherman or opportunistic raiders caused the recent deaths.
-- Taekyung tries to leave Hyuk Mujin, Gung Gibang, and Honglan behind to prevent further casualties, but all three insist on joining him. Honglan admits that she is still recovering and cannot fight, reveals that she lost her clan and parents overnight as a child, and gives Taekyung a final blessing after arranging his hair with a silver hairpin.
+- Taekyung, Cheongpung, Gung Gibang, Hyuk Mujin, and an old boatman reach the first of five locations identified as a possible Dongting Fisherman refuge by using palm force and the Eighteen Dragon-Subduing Palms to propel the ferryboat through violent currents and destroy blocking reefs. They begin searching the cliffs, river, and surrounding area, while Taekyung decides to investigate underwater despite lacking water arts. The Water Rescue Worker Title activates, granting him webbing, gills, improved underwater movement and vision, and air from water; his Fire Gate Clan martial arts suffer a twenty-percent underwater power reduction.
 
 ## Open Questions
 
 - What are the origin and purpose of the symbols shared by the Arch Lich's magic circle and Dark Heaven's formations?
 - Who destroyed Donghu Stronghold and the related Yangtze River Channel League strongholds, why was no Moving Formation trace left, and was the destruction a diversion?
-- What is the Dongting Fisherman's exact role in Dark Heaven and the Hubei atrocities, and is he the Hidden Shadow Ghost responsible for the boatmen's deaths?
+- What is the Dongting Fisherman's exact role in Dark Heaven and the Hubei atrocities, is he the Hidden Shadow Ghost, and which of the five suspected sites contains his refuge?
 - Is the killer demon attacking Wudang connected to Dark Heaven?
 - What evidence is contained in Lee Jungryong's holographic recorder, and what are the terms of the Peace Guild–Wizard Guild agreement?
 
