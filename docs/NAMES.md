@@ -1555,3 +1555,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 시 서펜트 | **Sea Serpent** | Modern top-tier marine monster resembling, but distinct from, the emerged Water God Dragon. |
 | 몬스터 대백과 | **Monster Encyclopedia** | Modern reference work documenting high-level monsters. |
 | 타락한 영물 | **Corrupted Spirit Beast** | System Quest title targeting the Mutated Water God Dragon. |
+| 홍건 | **Red Turbans** | Historical red-turbaned bandits described as widespread raiders. |
+| 천마 신교 | **Heavenly Demon Divine Cult** | Full name of the demonic sect associated with the Heavenly Demon. |
+| 십이경맥 | **Twelve Regular Meridians** | The twelve regular meridians traversed by Jeok Cheongang's Scorching Yang Qi. |
