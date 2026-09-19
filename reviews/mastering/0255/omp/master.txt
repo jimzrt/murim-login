@@ -120,7 +120,7 @@ Jongni Chu casually flicked the blood from his sword.
 
 Judging by Cheongpung’s expression, that was exactly what he had done.
 
-Jongni Chu gave a short, incredulous laugh.
+Jongni Chu let out an incredulous laugh.
 
 “Unbelievable. How have you survived this long with so little sense? I heard you were a Disciple of Huashan.”
 
@@ -166,7 +166,7 @@ At the time, those words had meant little to him. Huashan had been peaceful, and
 
 But his curiosity about the outside world had grown with each passing day, until he finally left without his grandfather’s knowledge.
 
-And then…
+And now…
 
 *Ah. So this was what he meant.*
 
@@ -182,7 +182,7 @@ Ssshing.
 
 With a sound that set his hair on end, a pure white blade slid from its sheath.
 
-At the same time, the internal energy coiled in his dantian rose like a cloud, covering his acupoints and spreading in billowing waves.
+At the same time, the internal energy coiled within his dantian rose like a cloud, surging through his acupoints before billowing outward.
 
 Tzzzzzz!
 
@@ -254,7 +254,7 @@ This time, he had seen it clearly.
 
 He had seen Jongni Chu deflect every last strand of Sword Energy.
 
-The dozens of Sword Energy attacks capable of piercing steel had been countered by none other than his rusted sword.
+His rusted sword alone had faced dozens of blasts capable of piercing steel.
 
 Not a trace of Sword Energy coated the blade, yet it had swept every attack aside, redirecting them as naturally and effortlessly as flowing water.
 
@@ -288,7 +288,7 @@ Sword Saint Mae Jonghak had deeply loved the grandson who shared none of his blo
 
 Just as beautiful flowers bloomed from good soil, Cheongpung had grown into a lovable child.
 
-*This old man is at fault. I shouldn’t have done that…*
+*This is your grandfather’s fault. I should never have let it happen…*
 
 Having grown up surrounded by boundless love, he had learned only how to love.
 
@@ -332,7 +332,7 @@ Just as the rusted blade was about to pierce Cheongpung’s throat—
 
 Swoooosh! Boom!
 
-A terrifying sound split the air, followed by a boom loud enough to leave his ears ringing.
+A terrifying shriek tore through the air, followed by a blast loud enough to leave their ears ringing.
 
 Jongni Chu twisted his sword at the last instant and blocked the attack. At the sight of the translucent spearhead, he grinned.
 
@@ -340,6 +340,6 @@ Jongni Chu twisted his sword at the last instant and blocked the attack. At the 
 
 “He’s not a friend. He’s my Benefactor. But…”
 
-Jin Taekyung spat out a wad of phlegm and continued,
+Jin Taekyung spat out a wad of phlegm.
 
 “What the fuck are you?”
