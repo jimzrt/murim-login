@@ -4,7 +4,7 @@ Smoke streamed from the old man’s seven orifices.
 
 It was Scorching Yang Qi, so dense it was visible to the naked eye, endlessly coiling around his small frame as it circulated through him.
 
-And then, soon after—
+Then—
 
 Sssssss.
 
@@ -12,7 +12,7 @@ Five rings rose one after another above the crown of the cross-legged old man.
 
 Some were blue and red, others black and white.
 
-When the final yellow ring took shape, a vivid ring in the five colors of the five directions was complete.
+When the final yellow ring took shape, the five rings shone vividly in the colors of the five directions.
 
 Five Qi Returning to Origin.
 
@@ -32,7 +32,7 @@ A young man dressed in rags strode inside as though he owned the place and looke
 
 “It wasn’t the Olympics or whatever you called it. It was Five Qi Returning to Origin.”
 
-“What does it matter? As long as you got the meaning across.”
+“What does it matter? You knew what I meant.”
 
 Jeok Cheongang silently regarded the young man, Jin Taekyung.
 
@@ -50,7 +50,7 @@ Jin Taekyung stretched before continuing.
 
 “The banquet’s been canceled.”
 
-“The banquet was canceled? What does that mean?”
+“The banquet was canceled? What do you mean?”
 
 “Well, apparently the Azure Sky Sword King entered seclusion.”
 
@@ -82,7 +82,7 @@ Jin Taekyung stopped twisting his overgrown beard around one finger.
 
 Jeok Cheongang stared in silence as Jin Taekyung nodded vigorously.
 
-“W-why?”
+“W-what?”
 
 “Nothing.”
 
@@ -104,7 +104,7 @@ But the silence did not last long. Jin Taekyung glanced at the old man, gauging 
 
 “This whole thing worked out okay, right?”
 
-“There is nothing to call ‘working out.’ The date has merely been postponed for a little while.”
+“There is nothing to call ‘working out.’ The date has merely been postponed.”
 
 “But we bought some time.”
 
@@ -122,7 +122,7 @@ They were true. Had the duel taken place, he would have paid a heavy price regar
 
 The Azure Sky Sword King was an opponent he would have to face with everything he had.
 
-If Jeok Cheongang suffered an Internal Injury in a fierce duel against him, the essence, qi, and spirit he had barely managed to bring into balance would collapse.
+If Jeok Cheongang suffered an internal injury during their fierce duel, the essence, qi, and spirit he had barely managed to bring into balance would collapse.
 
 “Old Master?”
 
@@ -130,7 +130,7 @@ Jeok Cheongang raised his head from his thoughts. Jin Taekyung was looking at hi
 
 “Why did you call me?”
 
-“No reason. Do I need permission even to call you once?”
+“No reason. Do I need permission just to call you?”
 
 “What a tiresome brat.”
 
@@ -146,7 +146,7 @@ He let out a quiet chuckle and rose from his seat.
 
 The Star-Array Grand Banquet.
 
-Even now, the most renowned masters of Murim would be gathering in Henan one after another.
+Even now, the most renowned masters in all of Murim would be converging on Henan.
 
 Having let all four seasons pass them by, the two of them had taken quite a detour.
 
@@ -174,9 +174,9 @@ The old man watched until the young man’s back had receded into the distance, 
 
 “……That brat. Going and doing something I never told him to.”
 
-His seasoned gray eyes swept toward a small mountain in the distance.
+His seasoned gray eyes drifted toward a small mountain in the distance.
 
-A faint cloud of dust was dispersing above the ridge covered in blue-green light.
+A faint cloud of dust was dispersing above its blue-green ridge.
 
 * * *
 
@@ -186,7 +186,7 @@ The Azure Sky Sword King, Nangong Cheon, stood motionless as the mountain wind w
 
 “Who was that boy?”
 
-Namgung Ryong, the Family Head of the Nangong Family, was standing quietly behind the Azure Sky Sword King. He answered,
+Namgung Ryong, Family Head of the Nangong Family, stood quietly behind him.
 
 “His name is Jin Taekyung of the Jin Family of Taiyuan in Shanxi.”
 
@@ -194,7 +194,7 @@ Namgung Ryong, the Family Head of the Nangong Family, was standing quietly behin
 
 “Yes.”
 
-“So a Hidden Dragon was crouching in the borderlands.”
+“So a Hidden Dragon was crouching out in the provinces.”
 
 “And the Fire King took that very Hidden Dragon under his wing.”
 
@@ -202,17 +202,17 @@ Namgung Ryong, the Family Head of the Nangong Family, was standing quietly behin
 
 The Azure Sky Sword King shook his head.
 
-“The Fire King is the dragon pearl. It wasn’t that he took the Hidden Dragon into his embrace. He became the dragon pearl himself.”
+“The Fire King is the dragon pearl. He did not take the Hidden Dragon into his embrace. He made himself the dragon pearl.”
 
 “……!”
 
 Namgung Ryong could not hide his astonishment. Though father and son had never been close, he knew what kind of man his father was.
 
-One of the things he knew was that his father was a man of few words who was exceedingly stingy with his judgments of others.
+He was a man of few words and exceedingly miserly in his praise of others.
 
 Yet the words *Hidden Dragon* had come from his lips.
 
-He had even said that the Fire King, Jeok Cheongang, whose name shook all under heaven, had become the dragon pearl himself.
+He had even said that the Fire King, Jeok Cheongang, whose name shook all under heaven, had made himself the dragon pearl.
 
 *The man who never once praised even his own grandson…*
 
@@ -258,15 +258,15 @@ The Emperor’s Sword Form was the beginning and end of the dozens of secret art
 
 In the family’s entire history, only the founding Family Head had ever achieved Great Completion of the Emperor’s Sword Form.
 
-True to his greatness as a martial artist, the Azure Sky Sword King had become the first in roughly a century to reach nine-tenths mastery of the Emperor’s Sword Form.
+True to his greatness as a martial artist, the Azure Sky Sword King had become the first person in roughly a century to reach nine-tenths mastery of it.
 
 “Congratulations, is it?”
 
 But the Azure Sky Sword King’s expression remained calm. No—he even looked hollow.
 
-“Then let me ask you one thing. Can you withstand three moves of the Emperor’s Sword Form this old man unleashes?”
+“Then let me ask you one thing. Could you withstand three moves of the Emperor’s Sword Form unleashed by me?”
 
-“How could I possibly dare… Surely?”
+“How could I possibly… Surely?”
 
 The Azure Sky Sword King quietly nodded.
 
@@ -286,7 +286,7 @@ Even Namgung Ryong, who rarely lost his composure, spoke with a trembling voice.
 
 The Azure Sky Sword King raised his head and stared into the dark night sky.
 
-For many long years, from the moment he first entered the world, he had lived under the name Nangong. He had carried the two characters *Azure Sky* in his heart and learned a sword that resembled the azure heavens.
+For many long years, from the moment he first entered the martial world, he had lived under the name Nangong. He had carried the two characters for *Azure Sky* in his heart and learned a sword that resembled the azure heavens.
 
 But today, he had met a dragon soaring into the sky.
 
@@ -300,7 +300,7 @@ Then six-tenths.
 
 And yet…
 
-“Three moves. That’s it, right? Thanks for going easy on me.”
+*“Three moves. That’s it, right? Thanks for going easy on me.”*
 
 The young man had slung the iron balls over his shoulder and left.
 
@@ -368,7 +368,7 @@ Feeding and arming more than three hundred able-bodied men was no small task.
 
 “Who knows? We sent them out a shichen ago, but there hasn’t been any word.”
 
-“Ugh. Trying to run a bandit operation with idiots like these is hard on the body. Hard on the body.”
+“Ugh. Trying to run a bandit gang with idiots like these is exhausting. Damn exhausting.”
 
 The next instant, Heuk Jongpil froze mid-grumble.
 
