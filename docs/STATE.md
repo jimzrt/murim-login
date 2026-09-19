@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 433
-- Next chapter: 434
-- Current block: 430–434 (4/5)
-- Latest translation: `translations/0433.md`
-- Latest summary: `summaries/beats/0433.md`
-- Safe profiles through: chapter 433
+- Last completed: 434
+- Next chapter: 435
+- Current block: 430–434 (5/5)
+- Latest translation: `translations/0434.md`
+- Latest summary: `summaries/beats/0434.md`
+- Safe profiles through: chapter 434
 
 ## Current Block
 
-- Twenty days after the Small Cataclysm, international Hunters and rescue workers continue rebuilding Sichuan Province while Chairman Shao Yang's faction publicly purges Wu Xueming and the Crown Prince Party. Jin Taekyung secretly joins the rescue effort, saves the last survivor in one area, and is accidentally exposed during a live CCTV broadcast after denying his identity, turning the broadcast disaster into a sensational scoop with ratings exceeding thirty percent. An aircraft formation arrives to take him back to Korea.
+- Jin reunites with his mother, Hayeon, and his allies before departing China. Chairman Shao Yang confirms that Jin's fifty-trillion bounty is being processed and reveals that Xiao Shen is his grandson, while Faye Chen, Felix, Magic Johnson, and the others offer their farewells. Jin boards the aircraft with his family and companions, then uses Login to depart toward the other world awaiting him.
 
 ## Open Questions
 
@@ -17,7 +17,6 @@
 - What connection links the two worlds, the battle phenomena, and the junk capsule?
 - How will Magic Johnson respond to what he now knows about Jin and the magic circle?
 - How will Ares Guild's leadership vacuum affect its Hunters and influence?
-- When and under what circumstances will Jin return to Murim?
 
 ## Exceptional Decision
 
