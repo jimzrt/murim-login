@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 446
-- Next chapter: 447
-- Current block: 445–449 (2/5)
-- Latest translation: `translations/0446.md`
-- Latest summary: `summaries/beats/0446.md`
-- Safe profiles through: chapter 446
+- Last completed: 447
+- Next chapter: 448
+- Current block: 445–449 (3/5)
+- Latest translation: `translations/0447.md`
+- Latest summary: `summaries/beats/0447.md`
+- Safe profiles through: chapter 447
 
 ## Current Block
 
-- Jin Taekyung accepts the System Quest Another Chaos after recognizing that Jin Wikyung is investigating Hubei as an inspector for the new Murim Alliance. He questions Zhuge Feng's circumstantial case against the Yangtze River Channel League, but learns that Dangyang Stronghold and Honghu Stronghold vanished after the Sea Serpent Society's destruction, while Donghu Stronghold remains inaccessible beyond Tianling Falls. Zhuge Feng identifies Hwang Chung, the Yangtze One Saber and Donghu Stronghold Lord, as the League's only suspected master capable of killing the Dongting Fisherman, though he admits there is no proof. The discovery of the Dongting Fisherman's broken Black Bamboo Fishing Rod strengthens the suspicion, and Zhuge Feng orders Mu Song to guide the group through Tianling Falls to Donghu Stronghold so they can see what happened for themselves.
+- Taekyung's group travels toward Donghu Stronghold aboard four fast ships with elite Zhuge Clan and Wudang disciples, including the Supreme Peak master Perfected Being Hyeongong. The ships reach Tianling Falls, a massive whirlpool guarding the route, and Taekyung learns that Mu Song has crossed it only three or four times and that Zhuge Feng deliberately concealed this. As the fast ship enters the whirlpool, Mu Song orders everyone to hold on and Tianling Falls slams into the vessel.
 
 ## Open Questions
 
@@ -25,7 +25,7 @@
 - Render 시부럴 as “sibu-leol,” 시벌좌 as “Lord Fuck,” and 시부럴좌 as “Lord Sibu-leol.”
 - Preserve the Skeleton King's grandiose, mock-offended voice and Taekyung's dry, profane humor.
 - Render 최 팀장님 as “Team Leader Choi,” 진태경 씨 as “Mr. Jin Taekyung,” 막내야 as “my youngest,” 노야 as “Old Master,” and 노 선배님 as “Senior.”
-- Keep Peace Guild, guild house, Inventory, Magic Johnson, established martial-arts terminology, black magic, poison human, World Hunter Association, Wizard Guild, Sea Serpent Society, Red Cliffs, and Dongting Fisherman unchanged.
+- Keep Peace Guild, guild house, Inventory, Magic Johnson, established martial-arts terminology, black magic, poison human, World Hunter Association, Wizard Guild, Sea Serpent Society, Red Cliffs, and Dongting Fisherman unchanged; render 현공진인 as “Perfected Being Hyeongong” and 화왕질리언 as “Fire King Zilean.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
