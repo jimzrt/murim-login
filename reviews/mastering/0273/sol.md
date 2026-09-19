@@ -4,13 +4,13 @@
 
 “Good morning!”
 
-I felt like a mob boss. Every time I took a step, rookie Guild members bowed ninety degrees and greeted me from every direction.
+I felt like a mob boss. Everywhere I went, rookie Guild members bent ninety degrees at the waist to greet me.
 
 They were fresh out of training camp, still wet behind the ears. In terms of years on the job, I was certainly their senior by a wide margin.
 
-*This industry does take seniority and junior status pretty seriously.*
+*This industry does take seniority pretty seriously.*
 
-The problem was that some of the rookie Guild members were late-blooming Hunters older than me.
+The problem was that some of the rookies were late-blooming Hunters older than me.
 
 “It’s an honor to meet you!”
 
@@ -42,7 +42,7 @@ He was definitely different. Unlike the other rookies, he wasn’t nervous or ob
 
 In my experience, guys like him fell into one of two categories.
 
-Either they had absolutely nothing to back up their pride, or they were confident in their own abilities.
+Either they had nothing to back up their pride, or they were confident in their own abilities.
 
 The guy in front of me belonged to the latter.
 
@@ -56,7 +56,7 @@ The guy in front of me belonged to the latter.
 
 What an interesting guy.
 
-He had no hesitation about gilding his own face. He was the type who would always make sure he got his share wherever he went.
+He had no qualms about singing his own praises. He seemed like the type who would always make sure he got his share.
 
 When I stared at him, Kim Jinsoo gave me an easygoing smile.
 
@@ -72,7 +72,7 @@ When I stared at him, Kim Jinsoo gave me an easygoing smile.
 
 He hadn’t listened to a word I said.
 
-The deafening noise echoed through the hallway, and the office door at the far end slowly opened.
+Their booming voices echoed down the hallway, and the office door at the far end slid open.
 
 A crisp white dress shirt and neatly pressed black slacks. There was only one Hunter in our Guild who came to work dressed like that.
 
@@ -80,7 +80,7 @@ A crisp white dress shirt and neatly pressed black slacks. There was only one Hu
 
 “Too lively, if you ask me.”
 
-Like a scene from a commercial, Team Leader Choi held a coffee cup and jerked his chin toward the office.
+Holding a coffee cup like an actor in a commercial, Team Leader Choi gestured into his office with his chin.
 
 “Come in and have some coffee. Let’s calm things down.”
 
@@ -122,7 +122,7 @@ They ranged from major domestic dailies to foreign newspapers filled with writin
 
 “You actually read all of these?”
 
-“I read them to keep track of overseas developments and collect industry information. It’s nothing special. Knowing around five languages is enough to read them.”
+“I use them to keep track of overseas developments and gather information about the industry. It’s nothing special. Knowing five or so languages is enough.”
 
 “…”
 
@@ -166,7 +166,7 @@ Team Leader Choi continued smoothly.
 
 I’d tested the waters just in case, but he hadn’t taken the bait.
 
-As he watched me silently smack my lips, Team Leader Choi smiled.
+Team Leader Choi smiled as he watched me smack my lips in disappointment.
 
 “However, I’ll consider it favorably if you do me one favor.”
 
@@ -198,7 +198,7 @@ There was a reason people said a lower-rank Hunter with ten years of experience 
 
 Team Leader Choi checked the time and continued.
 
-“Wouldn’t it be a good idea? The rookie Guild members are hoping that Mr. Jin Taekyung will teach them, too. Most of them applied to our Guild because of you.”
+“Wouldn’t it be a good idea? The rookies are hoping you’ll teach them, too. Most of them applied to our Guild because of you.”
 
 “I appreciate the flattery, but…”
 
@@ -206,7 +206,7 @@ I scratched the back of my head.
 
 Dark Heaven had revealed its fangs in Murim, and Jeok Cheongang was still unconscious.
 
-Even if I spent thirty days in the modern world, only three hours would pass in Murim. I had time to spare, but with A-rank Gates to clear, teaching a bunch of greenhorns wasn’t exactly the most rewarding use of it.
+Even if I spent thirty days in the modern world, only three hours would pass in Murim. I had time to spare, but when I could be clearing A-rank Gates, teaching a bunch of greenhorns wasn’t exactly an appealing use of it.
 
 If I was going to spend that time on something else, I’d be a hundred times better off with my family.
 
@@ -220,7 +220,7 @@ If I was going to spend that time on something else, I’d be a hundred times be
 
 A sinister smile curled Team Leader Choi’s lips.
 
-“I’ll be counting on you with our rookie Guild members.”
+“I’ll be counting on you to look after our rookies.”
 
 “What?”
 
@@ -291,7 +291,7 @@ Both were too good to pass up…
 
 “Hold the line!”
 
-“What are the damage dealers doing? Damage dealers!”
+“Damage dealers, what are you doing?”
 
 The shrill screams drew my attention back to the chaos below.
 
@@ -309,7 +309,7 @@ I’d warned them several times before the raid began, but they were still makin
 
 The moment I thought it, the shield wall collapsed amid a chorus of screams.
 
-A gap opened in an instant. One of the most agile-looking Lycanthropes charged through with a characteristic roar.
+A gap opened in an instant. One particularly agile Lycanthrope charged through with its signature howl.
 
 Its bright yellow predator’s eyes fixed on the healers sheltering behind the shield wall.
 
@@ -317,7 +317,7 @@ Its bright yellow predator’s eyes fixed on the healers sheltering behind the s
 
 —Awoooooo!
 
-To me, it sounded no different from a dog barking, but these rookie Hunters, who were only beginning their second raid, were terrified.
+It sounded like nothing more than dogs barking to me, but the rookies, who were only on their second raid, were terrified.
 
 “Aaaah!”
 
@@ -325,11 +325,11 @@ To me, it sounded no different from a dog barking, but these rookie Hunters, who
 
 The mage and healer’s screams shook the dark forest.
 
-*It’s already noisy enough. Those screams are going to draw another twenty or so over here.*
+*It was already noisy enough. Those screams will draw another twenty over here.*
 
-I memorized the faces of the two people who had screamed.
+I made sure to remember the two screamers.
 
-*From now on, their nickname is the Pied Pipers.*
+From now on, their nickname would be the Pied Pipers.
 
 “Senior! Senior Jin Taekyung!”
 
@@ -341,7 +341,7 @@ The front line had already collapsed, and the rookies had nothing behind them bu
 
 The Lycanthropes closed in triumphantly, tightening their encirclement.
 
-*How did the monsters end up being better at forming ranks than they are?*
+*How are the monsters better at holding formation than they are?*
 
 I rubbed the sleep from the corner of my eye and answered.
 
@@ -363,17 +363,17 @@ I rubbed the sleep from the corner of my eye and answered.
 
 “By the way, what should I have for dinner—galbi or boiled duck?”
 
-“Hey, you fucking bastard!”
+“You fucking bastard!”
 
-It was the balding rookie from that morning. The admiring light that had shone as brightly as his crown was gone, replaced by a gaze full of fury.
+It was the balding rookie from that morning. The admiration that had once shone even brighter than his scalp was gone, replaced by pure fury.
 
-“Get down here, you young bastard…”
+“Get down here, you little bastard—”
 
 Thud!
 
 A tank came flying in from somewhere and crashed into him, sending them both sailing into the distance.
 
-The momentum had effectively shifted to the monsters. I was wondering whether it was time to step in when—
+Victory had all but gone to the monsters. I was wondering whether it was time to step in when—
 
 Shhk!
 
@@ -405,7 +405,7 @@ Whoooosh!
 
 “Thank you, Senior!”
 
-Kim Jinsoo grinned and bowed. Behind him, I saw three people with their heads pressed into the ground.
+Kim Jinsoo grinned and bowed. Behind him were three people bent over with their heads down.
 
 Two were the Pied Pipers, and the other was the balding rookie.
 
@@ -425,7 +425,7 @@ I was grinding my teeth inwardly when the phone in my pocket began to vibrate.
 
 **Designer-Brand Junkie**
 
-What was this? Had we developed telepathy?
+What was this? Had he read my mind?
 
 Still baffled, I answered the call. Team Leader Choi’s urgent voice struck my ear.
 
