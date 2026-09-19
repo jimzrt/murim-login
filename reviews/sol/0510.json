@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*That’s right. There’s no way all of us misheard him at once.*",
+      "defect": "The negation reverses the joke. The bandits conclude that all of them must have collectively heard wrong, not that collective mishearing is impossible.",
+      "id": "F01",
+      "rationale": "단체로 귀가 잘못된 게 틀림없어 explicitly means that their ears must all have been wrong together.",
+      "replacement": "*That’s right. All our ears must have malfunctioned at once.*",
+      "severity": "critical",
+      "source": "‘그거 맞다. 단체로 귀가 잘못된 게 틀림없어.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "indulged in wine, women, and pleasure at the pleasure houses",
+      "defect": "잡기 contributes gambling or assorted games of chance; the draft omits that detail and instead repeats “pleasure.”",
+      "id": "F02",
+      "rationale": "주색잡기 conventionally enumerates drinking, women, and gambling or games of chance.",
+      "replacement": "indulged in wine, women, and gambling at pleasure houses",
+      "severity": "minor",
+      "source": "기루에서 주색잡기를 즐길 때"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Not long ago, he had also been forced to send Hwang Chung, who was like a blood relative to him, to his death.",
+      "defect": "The draft gives Mu Song agency in sending Hwang Chung to his death and makes the death explicit. The source euphemistically says Mu Song had to let him go or bid him farewell.",
+      "id": "F03",
+      "rationale": "떠나보내야 했다 denotes having to let someone go or see them off; it does not say Mu Song dispatched Hwang Chung to his death. The draft also omits the established sobriquet 장강일도.",
+      "replacement": "Not long ago, he had also had to say goodbye to Hwang Chung, the Yangtze One Saber, who had been like family to him.",
+      "severity": "critical",
+      "source": "얼마 전에는 친혈육 같았던 장강일도 황충을 떠나보내야 했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "He had decided to take Jin Taekyung’s group as far as Henan because their gratitude and grudges had to be repaid.",
+      "defect": "“Their” misattributes the moral debt to Jin Taekyung’s group. 그 refers back to Hwang Chung: Mu Song intends to settle what he owes Hwang Chung by escorting the group.",
+      "id": "F04",
+      "rationale": "그에 대한 points to the previously mentioned Hwang Chung, while 은원 refers to Mu Song’s debt of gratitude and grievance toward him.",
+      "replacement": "Believing he had to settle what he owed Hwang Chung, he had agreed to take Jin Taekyung’s group as far as Henan.",
+      "severity": "major",
+      "source": "그에 대한 은원(恩怨)은 갚아야 한다는 생각으로 진태경 일행을 하남까지 데려다주기로 했는데"
+    },
+    {
+      "confidence": 0.99,
+      "current": "more than a hundred feet ahead",
+      "defect": "The distance is reduced by roughly an order of magnitude. 백여 장 is over one hundred jang, or more than approximately one thousand feet, not one hundred feet.",
+      "id": "F05",
+      "rationale": "One jang is roughly ten to eleven feet; 백여 장 therefore exceeds about one thousand feet.",
+      "replacement": "more than a thousand feet ahead",
+      "severity": "major",
+      "source": "백여 장 앞에서 앞서가고 있는 또 다른 쾌조선에서"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The senior river bandit was one of the few river bandits who had personally witnessed Mungyeong’s true identity.",
+      "defect": "“True identity” overstates what the bandit learned. He witnessed Mungyeong reveal his concealed nature and power, but does not know that Mungyeong is the Slaughter Saint or former Divine Physician.",
+      "id": "F06",
+      "rationale": "In context, 문경의 정체 refers to the hidden power that exposed him as an extraordinary old master, not his still-secret historical identity.",
+      "replacement": "The senior river bandit was one of the few who had personally witnessed Mungyeong reveal his true power.",
+      "severity": "major",
+      "source": "고참 수적은 문경의 정체를 직접 목격한 몇 안 되는 수적 중 하나였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“……You mean I have to do all that alone?”",
+      "defect": "Mungyeong’s pointed question, “Don’t you want to?”, is omitted. Without it, Mu Song’s sarcastic claim that this was his lifelong wish lacks its immediate prompt and loses the intimidation dynamic.",
+      "id": "F07",
+      "rationale": "싫으십니까? is a direct, politely phrased challenge that forces Mu Song to reverse himself and profess enthusiasm.",
+      "replacement": "“……You mean I have to do all that alone?”\n\n“Does that displease you?”",
+      "severity": "major",
+      "source": "“……나 혼자 그걸 다하란 말이냐?”\n\n“싫으십니까?”\n\n무송이 얼굴을 굳히며 대답했다.\n\n“내 일생의 소원이었다. 너무 좋아.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "- Use **circulate your qi** to replenish your internal energy.",
+      "defect": "The established verbal rendering has been inserted as a noun after “Use,” producing ungrammatical English.",
+      "id": "F08",
+      "rationale": "운기조식으로 instructs Taekyung to replenish his internal energy by circulating his qi; the binding glossary prefers the verbal phrase “circulate one’s qi.”",
+      "replacement": "- **Circulate your qi** to replenish your internal energy.",
+      "severity": "minor",
+      "source": "[운기조식]으로 공력을 보충하십시오."
+    }
+  ],
+  "summary": "Several actionable fidelity issues: one reversed negation, one altered death/agency detail, a misattributed moral debt, a substantially reduced distance, an overstatement of Mungyeong’s revealed identity, and an omitted line of dialogue. Minor issues include omitted gambling and malformed System terminology.",
+  "version": 1
+}
