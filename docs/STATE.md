@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 430
-- Next chapter: 431
-- Current block: 430–434 (1/5)
-- Latest translation: `translations/0430.md`
-- Latest summary: `summaries/beats/0430.md`
-- Safe profiles through: chapter 430
+- Last completed: 431
+- Next chapter: 432
+- Current block: 430–434 (2/5)
+- Latest translation: `translations/0431.md`
+- Latest summary: `summaries/beats/0431.md`
+- Safe profiles through: chapter 431
 
 ## Current Block
 
-- Jin discovers that the magic-circle fragments Magic Johnson received from the Arch Lich's base contain the same patterns and symbols as the Moving Formation he saw in Murim. The Skeleton King infers that the circle absorbed life force to accumulate mana, but cannot decipher its symbols. Jin visits the inactive circle at the ruined city, senses only the lingering traces of countless deaths, and receives no answer from the System. As Jin reflects on the connection between the two worlds and the capsule that began his journey, Go Jun appears in the ruins and confronts him.
+- Jin confronts Go Jun in the ruins and admits that he killed Lee Jungryong and Wu Heixing. After overpowering Go Jun, exposing three hidden Hunters, and severely mutilating him, Jin leaves him alive and demands that the conflict end with Lee Jungryong. Go Jun gives a faint nod, and Jin heals him with potions before Magic Johnson reveals himself and says they have much to discuss.
 
 ## Open Questions
 
 - What do the shared patterns and symbols represent, and why did the Arch Lich possess a circle matching the Moving Formation?
 - What connection links the two worlds, the battle phenomena, and the junk capsule?
-- Why has Go Jun come to the ruins, and what does he intend to do about Jin?
+- What will Magic Johnson do after learning the truth about the confrontation and Jin's killings?
 - What final punishment will be imposed on Wu Heixing's father and the Crown Prince Party leadership?
 - How will the Skeleton King's human identity and Stone-King name be formalized in the human world?
 
