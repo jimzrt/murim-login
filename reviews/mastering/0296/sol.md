@@ -32,7 +32,7 @@ Skeleton Warlord was his new name.
 
 It was astonishing. Everything around him had changed. He did not know why, but the mana flowing through the Black Forest had grown denser, and immense power surged through his body despite it being nothing more than bones.
 
-To him, newly reborn as something else, a mere handful of humans was utterly insignificant.
+To him, newly reborn as something greater, a mere handful of humans was utterly insignificant.
 
 *There aren’t many of them, and they’re all terrified.*
 
@@ -44,7 +44,7 @@ Now that he was already one of the dead, the humans’ terror was nothing but am
 
 He was now the master of the Black Forest and commander of the dead.
 
-The larger groups of humans they brought would soon become his soldiers. Once he commanded thousands, tens of thousands of the dead…
+The larger groups of humans they brought back would soon become his soldiers. Once he commanded thousands, tens of thousands of the dead…
 
 The Black Forest would no longer be enough for him.
 
@@ -68,7 +68,7 @@ Was he perhaps a monster in human form?
 
 He knew nothing of the System applied to Jin Taekyung, much less the function of the Unified Language Pack.
 
-He simply wanted to turn that one—who seemed useful enough for a human—into one of the dead and take him as a subordinate.
+He simply wanted to turn that human—who seemed useful enough—into one of the dead and take him as a subordinate.
 
 —F. O. O. L. I. S. H. H. U. M. A. N.
 
@@ -146,7 +146,7 @@ One Annihilation was the only—and strongest—skill I possessed. It used inter
 
 Unlike the first time, my rising martial arts realm now allowed me to control how much force I put into it. But the aftermath was still devastating.
 
-*One Annihilation is as dangerous as it is destructive. I won’t survive long if I keep thinking in terms of all or nothing.*
+*One Annihilation is as dangerous as it is destructive. I won’t survive long if I keep treating every fight as all or nothing.*
 
 The best choice was to achieve the greatest result with the least amount of power.
 
@@ -160,7 +160,7 @@ A narrow path. Hundreds of monsters packed together without a single gap.
 
 It was practically a stage built for One Annihilation.
 
-I had exhausted my full strength and fallen into the **Exhaustion** status, but there was a contingency for every action.
+Using my full strength had left me with **Exhaustion**, but every action needed a contingency.
 
 Beep.
 
@@ -174,15 +174,15 @@ Beep.
 >
 > Gained Points!
 >
-> All status abnormalities have been recovered!
+> All status abnormalities have been cleared!
 
 The notification I had been waiting for sounded, and a refreshing sensation swept through my entire body.
 
 Whoooosh.
 
-The dantian that had been emptied by the aftermath of One Annihilation filled once more, and strength returned to my trembling limbs.
+My dantian, emptied by One Annihilation, filled once more, and strength returned to my trembling limbs.
 
-Only then did my whitened vision clear, allowing me to see the results of One Annihilation.
+Only then did my whitewashed vision clear, allowing me to see the results.
 
 “Wow…”
 
@@ -232,9 +232,9 @@ Beep.
 
 Damn. The EXP really was stingy.
 
-I grumbled as I turned my head to search for the next monster.
+I grumbled as I turned to search for the next monster.
 
-Then my eyes flew open, and a warm feeling spread through one corner of my chest.
+Then my eyes flew open, and warmth spread through my chest.
 
 “Oh. Ohhh. Could that be…!”
 
@@ -268,7 +268,7 @@ Feigning disappointment, I raised the spearhead.
 
 —Y. E. S. That. Is. Right. It. Is. I.
 
-The Skeleton Warlord opened its eyes wide and continued.
+The green flames in the Skeleton Warlord’s eyes flared as he continued.
 
 —Master. Of. The. Black. Forest. Commander. Who. Leads. The. Dead. This. Body. Is. The. Warlord.
 
@@ -388,7 +388,7 @@ Just as I was about to grab the Warlord’s jaw, which kept jerking up and down 
 
 “What the hell are you talking about? EXP isn’t an item…”
 
-I stopped speaking.
+I stopped.
 
 A thought had flashed through my mind.
 
