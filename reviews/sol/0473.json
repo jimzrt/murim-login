@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "If you erase that thing, I’ll report you directly to the Cultural Heritage Administration. I’m looking at a minimum of twenty-five years in prison with no chance of parole.",
+      "defect": "The prison sentence is assigned to Jin-ho rather than Taekyung. The Korean means Taekyung would face at least twenty-five years without parole if Jin-ho reported him.",
+      "id": "F01",
+      "rationale": "The omitted subject of 본다 is the person Jin-ho is threatening—Taekyung—not Jin-ho himself.",
+      "replacement": "If you erase that thing, I’ll report you directly to the Cultural Heritage Administration. You’re looking at a minimum of twenty-five years in prison with no chance of parole.",
+      "severity": "critical",
+      "source": "너 그거 지우면 내가 직접 문화재청에 신고 넣을 거야. 최소 가석방 없는 징역 25년 본다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the same time as I spoke the command, the hilt of a sharp short sword appeared in my hand.",
+      "defect": "The draft adds that Taekyung spoke the command aloud. The source presents it as an italicized internal command and does not say he vocalized it.",
+      "id": "F02",
+      "rationale": "명령어와 동시에 means the weapon appears simultaneously with the command; it does not specify speech, while the source’s thought formatting indicates an internal invocation.",
+      "replacement": "The instant I gave the command, the hilt of a sharp short sword appeared in my hand.",
+      "severity": "critical",
+      "source": "‘인벤토리 오픈. 소환.’\n\n스윽, 탁.\n\n명령어와 동시에 예리한 소검의 검자루가 손아귀에 잡혔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Scorching Yang Qi carried by the spearhead had melted one of its pupils.",
+      "defect": "눈동자 here refers to the creature’s eye, not merely its pupil. A pupil cannot literally melt, and the following text establishes that the dragon has only one eye remaining.",
+      "id": "F03",
+      "rationale": "The injury destroys one eye, leaving the other as its 하나밖에 남지 않은 눈동자; 동공 is used later when the source specifically means the pupil.",
+      "replacement": "The Scorching Yang Qi carried by the spearhead had melted one of its eyes.",
+      "severity": "major",
+      "source": "창날에 실린 열양지기에 의해 놈의 한쪽 눈동자가 녹아내렸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "But looking back now, those words were without question the greatest saying in the history of Korea.",
+      "defect": "“In the history of Korea” broadens 대한민국 건국 이래, which specifically means since the founding of Korea.",
+      "id": "F04",
+      "rationale": "The source gives a defined starting point—the country’s founding—rather than all Korean history.",
+      "replacement": "But looking back now, those words were without question the greatest saying since the founding of Korea.",
+      "severity": "minor",
+      "source": "당시에는 한 대 칠 뻔했는데, 이제 와서 생각해 보니 대한민국 건국 이래 최고의 명언이 따로 없다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "While I hesitated, a spear of light twisted like a rope and taking the shape of a spearhead flew toward my face.",
+      "defect": "The mixed finite and participial construction—“twisted” and “taking”—is ungrammatical and obscures that the strands are twisted together into a spearhead shape.",
+      "id": "F05",
+      "rationale": "The replacement preserves both linked physical details in 동아줄처럼 꼬여 and 창날과도 같은 형태를 취한 while restoring natural English syntax.",
+      "replacement": "While I hesitated, a spear of light, twisted together like a rope into the shape of a spearhead, flew toward my face.",
+      "severity": "minor",
+      "source": "위기감 때문이었을까. 내가 멈칫한 사이, 동아줄처럼 꼬여 창날과도 같은 형태를 취한 빛의 창이 얼굴을 향해 날아들었다."
+    }
+  ],
+  "summary": "One critical subject reversal, one altered action, one anatomical mistranslation, and two localized wording defects.",
+  "version": 1
+}

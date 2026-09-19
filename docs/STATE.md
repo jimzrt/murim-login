@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 472
-- Next chapter: 473
-- Current block: 470–474 (3/5)
-- Latest translation: `translations/0472.md`
-- Latest summary: `summaries/beats/0472.md`
-- Safe profiles through: chapter 472
+- Last completed: 473
+- Next chapter: 474
+- Current block: 470–474 (4/5)
+- Latest translation: `translations/0473.md`
+- Latest summary: `summaries/beats/0473.md`
+- Safe profiles through: chapter 473
 
 ## Current Block
 
-- The Mutated Water God Dragon suffers a devastating eye injury and thrashes violently, while Zhuge Feng regains his composure and accepts Cheongpung's instruction to remain under cover. Zhuge Feng chooses to protect the others rather than risk his life in a battle outside his role, reflecting that the peace of more than fifty years has ended and a new age of chaos has begun.
-- Mungyeong attacks the dragon's enormous tail with Force but cannot sever it in one stroke because of its immense thickness and toughness, then redirects its momentum with Four Ounces Deflecting a Thousand Catties. He and Jeok Cheongang recognize that the dragon can wield an energy neither properly classified as Force nor Sword Energy, and Mungyeong infers that its whiskers and body caused the destruction at Donghu Stronghold and the death of Yangtze One Saber.
-- Jeok Cheongang withstands the dragon's tail without moving and emerges unharmed as its dark-blue blood falls around him. Cheongpung returns to the battlefield, where he and Mungyeong see an unidentified figure hanging from the dragon's head and tearing out its whiskers barehanded while shouting insults about its bald appearance.
+- Taekyung drives White Flame into the Mutated Water God Dragon's eye, melting it without reaching deep enough to kill the creature. The resulting pain triggers the dragon's Berserk Status, increasing all its abilities while clouding its combat judgment, and it begins violently smashing its head and tail against the cliffs and river.
+- Taekyung remains lodged in the dragon's eye, summons a short sword, and repeatedly cuts and stabs it with Scorching Yang Qi. When the dragon attacks him with its whiskers, Taekyung is wounded and forced into a contest of strength against a spear-shaped bundle of whiskers, whose energy exceeds Peak Sword Energy but not Force. He discovers that his superhuman Strength can tear the whiskers out by their roots, retrieves White Flame, emerges from the ruined eye, and begins ripping out more whiskers.
 
 ## Open Questions
 
@@ -23,10 +22,11 @@
 
 ## Exceptional Decision
 
-- Render 악물 as evil beast and distinguish the dragon's anomalous energy from Force and Sword Energy.
-- Preserve Mungyeong's dry Slaughter Saint voice, Jeok Cheongang's gruff teasing, and Cheongpung's innocent but increasingly profane voice.
-- Retain Cheongpung's deliberate Zhuge Pong misnaming as a comic address gag.
-- Continue rendering 수염 as whiskers, 기암괴석 as bizarre boulder, and preserve jang and geun measurements.
+- Render 광폭화 as Berserk and preserve the System Status distinction.
+- Render 활어회 as live-fish sashimi and 세꼬시 as bone-in sashimi with an explanatory footnote.
+- Preserve Taekyung's profane, improvisational combat humor and Jin-ho's deliberately absurd USB-related saying.
+- Continue rendering 수염 as whiskers and distinguish the dragon's anomalous qi from Force and Sword Energy.
+- Retain jang and geun measurements.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
