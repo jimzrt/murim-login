@@ -1575,3 +1575,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 남천마후 | **Southern Heaven Demon Empress** | Title Honglan uses when revealing her identity. |
 | 군선 | **military vessel** | Vessel carrying the Hubei government troops and sailors. |
 | 호북성부 | **Hubei provincial government** | Provincial government administration in Hubei. |
+| 묘족 | **Miao people** | Ethnic group the Escort Bureau expects to encounter near Yunnan. |

@@ -809,3 +809,12 @@ Overrides generic relationship prose in character profiles for this pair.
 | 송 의원 | 향아 | senior physician to junior medical apprentice | Hyang | familiar, admonishing, and paternal | Song questions Hyang about the rumor, orders her to answer, and later comforts her. |
 | 적천강 | 궁기방 | overwhelming_elder_to_younger_martial_artist | you | blunt and threatening | Jeok Cheongang rebukes Gung Gibang for speaking informally and orders him to lie down. |
 | 진태경 | 홍란 | pursuer_to_hostile_opponent | you fucking bitch | profane and threatening | Taekyung demands Honglan's location and threatens her while she speaks through Song Ho. |
+| 남천마후 | 진태경 | hostile_supernatural_opponent_to_young_martial_artist | Young Great Hero / Child | lighthearted and taunting | Addresses Taekyung while refusing to explain the Gate. |
+| 진태경 | 남천마후 | young_martial_artist_to_hostile_demon_empress | you | hostile and determined | Promises that the Southern Heaven Demon Empress will die when they meet again. |
+| 적천강 | 남천마후 | legendary_martial_master_to_hostile_demon_empress | you bitch | blunt and threatening | Threatens to punish her and Lord of Heaven. |
+| 남천마후 | 적천강 | hostile_demon_empress_to_legendary_martial_master | Fire King Jeok / you | flattering and mocking | Addresses Jeok Cheongang as the Fire King while praising Lord of Heaven. |
+| 문경 | 남천마후 | legendary_assassin_to_hostile_demon_empress | you | polite and grave | Warns her to stop the killing. |
+| 진위경 | 남천마후 | family_head_to_hostile_demon_empress | you | formal and defiant | Swears that she cannot touch Taekyung. |
+| 궁기방 | 진위경 | martial_companion_to_family_head | Great Hero Jin | familiar and polite | Asks Jin Wikyung not to exclude the Beggars' Sect from the defense. |
+| 궁기방 | 남천마후 | beggars_sect_successor_to_hostile_demon_empress | young lady / you | joking and threatening | Threatens to smash her face with his club. |
+| 남천마후 | 여 표사 | passenger_to_female_escort | you | flirtatious and amused | Compliments the female escort and asks how long remains until Yunnan. |
