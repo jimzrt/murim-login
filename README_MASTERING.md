@@ -1,52 +1,122 @@
-# Two-Model Mastering Overlay
+# Mastering Queue and Overlay
 
-This overlay is a lagging queue after a chapter is accepted and committed.
-`python tools/run_next.py` stops at the accept commit. `python tools/run_next_mastering.py`
-runs the two-model overlay on the oldest unpromoted accepted chapter, promotes
-the verified copy into `translations/`, and commits `Master Chapter N`. The
-pre-master English remains at `reviews/mastering/<chapter>/baseline.md`.
+Mastering is a separate, lagging FIFO queue after a chapter has been accepted and committed. It is not part of the ordinary translation transaction.
 
-Manual overlay commands still work for reruns and retrospective chapters:
+The normal commands are:
+
+```bash
+python tools/run_next.py
+python tools/run_next_mastering.py
+```
+
+`run_next.py` processes exactly one chapter through acceptance, creates `Accept Chapter N`, registers the commit, and stops at `COMMITTED`. `run_next_mastering.py` selects the oldest `COMMITTED` chapter that is not yet promoted, runs the mastering overlay, promotes the verified copy into `translations/`, creates `Master Chapter N`, registers it, and stops at `MASTERED_COMMITTED`.
+
+The pre-master accepted copy remains at `reviews/mastering/NNNN/baseline.md`.
+
+## Overlay stages
 
 ```text
 accepted translation
-      ↓
-GPT-5.6 Sol full master edit
-      ↓
+       ↓
+mastering editor
+       ↓
 paragraph-aware deterministic diff
-      ↓
-DeepSeek V4.1 Flash adjudicates every changed hunk
-      ↓
-SOL / BASE / REPAIR per hunk
-      ↓
-assembled final chapter
-      ↓
-existing deterministic QA
-      ↓
-promote into translations/ (automatic after verify on `run`)
+       ↓
+meaning adjudicator: SOL / BASE / REPAIR per changed hunk
+       ↓
+assembled candidate
+       ↓
+deterministic QA
+       ↓
+independent fidelity gate
+       ↓
+bounded fidelity repair rounds, when required
+       ↓
+final QA and verification
+       ↓
+promote into translations/ and register MASTERED_COMMITTED
 ```
 
-There are exactly **two LLM calls per chapter**. DeepSeek writes a replacement only for a `REPAIR` decision; there is no third model or second Sol call.
+The overlay has three model roles, not two:
 
-## Files added by this overlay
+1. **Mastering editor** — performs the full-copy fluency edit.
+2. **Adjudicator** — evaluates each changed hunk and chooses `SOL`, `BASE`, or `REPAIR`; the current configured model is Luna `:high` with a SOL-default meaning veto.
+3. **Fidelity gate** — independently checks the assembled chapter against the Korean source and accepted baseline; the current configured model is GPT-4.1 Mini.
 
-```text
-MASTERING_EDITORIAL.md
-MASTERING_ADJUDICATOR.md
-docs/mastering.json
-tools/mastering.py
-tests/test_mastering.py
-README_MASTERING.md
+The fidelity gate may produce bounded automatic repairs. Invalid gate JSON is treated as a failed round. If verification still fails, the controller can re-adjudicate once and remaster once according to `docs/mastering.json`. It stays on the same chapter and never skips ahead.
+
+## Current configuration
+
+Primary selectors live in `docs/mastering.json`:
+
+```json
+{
+  "models": {
+    "master": "openai-codex/gpt-5.6-sol:medium",
+    "adjudicator": "openai-codex/gpt-5.6-luna:high",
+    "quality_gate": "openrouter/openai/gpt-4.1-mini"
+  },
+  "quality_gate_max_rounds": 3,
+  "qa_retry_readjudicate": 1,
+  "qa_retry_remaster": 1,
+  "run_until_mastering_retries": 2,
+  "run_until_mastering_retry_delay_seconds": 30
+}
 ```
 
-Runtime artifacts go under:
+The actual file also configures packet limits, timeouts, OMP configuration files, context lookback, safe-profile injection, and fidelity confidence thresholds. Change model identifiers only when your local OMP configuration requires different names.
+
+Sol is requested through the configured OMP chain. The adjudicator and fidelity gate use their configured OMP/provider paths; inspect `.omp/*.yml` and `docs/mastering.json` for local routing.
+
+## Manual commands
+
+The controller-integrated queue is preferred, but the lower-level mastering CLI remains useful for inspection, reruns, and retrospective work:
+
+```bash
+python tools/mastering.py doctor
+python tools/mastering.py status 1-10
+python tools/mastering.py report 1-10
+python tools/mastering.py run 1-10
+```
+
+`doctor` checks installation and model configuration without making a paid model call. `run` performs the complete lower-level mastering workflow and promotes verified results. Individual stages can be run separately:
+
+```bash
+python tools/mastering.py master 1
+python tools/mastering.py adjudicate 1
+python tools/mastering.py assemble 1
+python tools/mastering.py qa 1
+```
+
+Individual stage commands do not replace `translations/` until a verified `run` or explicit `promote` is performed. Use `--force` only on paid model stages when deliberately paying for a rerun:
+
+```bash
+python tools/mastering.py adjudicate 1 --force
+```
+
+Manual promotion of an already-verified chapter remains available:
+
+```bash
+python tools/mastering.py promote 1 --confirm REPLACE_TRANSLATIONS
+```
+
+For a bounded queue run through a target chapter, use:
+
+```bash
+python tools/run_until_mastering.py 58
+```
+
+It retries the same chapter according to the configured limits and stops when retries are exhausted. It does not skip failed chapters.
+
+## Runtime artifacts
+
+Mastering artifacts are stored under:
 
 ```text
 reviews/mastering/0001/
     baseline.md               # immutable accepted-English snapshot
-source/0001.txt               # Korean original (private checkout; hashed in state.json)
     master-packet.md
-    sol.md
+    sol.md                    # editor output
     sol-qa.json
     diff.json
     diff.md
@@ -58,78 +128,66 @@ source/0001.txt               # Korean original (private checkout; hashed in sta
     omp/
 ```
 
-The accepted `translations/0001.md` is replaced when `run` reaches a verified final (or when you call `promote` on an already-verified chapter).
+The Korean source is snapshotted and hashed during the transaction; it is not copied into the normal public reading output. The accepted `translations/0001.md` is replaced only after mastering verification succeeds. The baseline remains available for regression comparison.
 
-## Install
+The mastering commit may contain only the chapter translation, its mastering review tree, and its metrics file. It must not include `.work/`, caches, unrelated chapters, or an unverified draft.
 
-Extract/copy the overlay into the **root of your existing `murim-login-new` repository**, preserving directories.
+## Retrospective context safety
 
-Then run:
+Do not feed present-day `docs/CONTEXT.json` blindly into an old chapter: it may contain future plot facts.
 
-```bash
-python tools/mastering.py doctor
+The mastering packet uses:
+
+* exact glossary rows matched to the current Korean source;
+* the latest summary whose end chapter is strictly earlier than the chapter being mastered;
+* tails of up to two prior chapters;
+* a mastered final from a prior chapter when it has already been verified, otherwise its accepted translation;
+* compact identity, voice, and relationship fields only from profiles safe strictly before the chapter being mastered.
+
+Archived chapter-by-chapter profile continuity is not injected. Set `include_safe_profiles` to `false` in `docs/mastering.json` to disable profile injection entirely.
+
+## Diff and adjudication semantics
+
+The diff is paragraph-aware. A hunk can contain one or several adjacent paragraphs when the editor restructures them.
+
+The adjudicator receives:
+
+* the complete Korean source with line numbers;
+* the complete accepted baseline English with paragraph labels;
+* the complete editor output with paragraph labels;
+* exact glossary rows and project fidelity rules;
+* numbered changed hunks containing the exact BASE/SOL prose, paragraph references, and Korean citations;
+* terminology-risk annotations when a preferred baseline term disappears.
+
+Each hunk must resolve to exactly one of:
+
+* `SOL` — keep the mastering editor's edit;
+* `BASE` — revert to the accepted baseline;
+* `REPAIR` — neither version is satisfactory; use a narrowly bounded replacement.
+
+The default policy is to preserve the baseline when the editor changes meaning, terminology, formatting, or source-specific texture. Sol is kept when the improvement is concrete and faithful.
+
+After assembly, deterministic QA is followed by the separate whole-chapter fidelity gate. The gate receives the Korean source and accepted baseline so it can detect both newly introduced mistranslations and regressions. High-confidence minor findings and major/critical findings may be repaired automatically within the configured round limit. Unresolved major or critical findings block promotion.
+
+## Safety and state transitions
+
+At the start of mastering, the controller snapshots and hashes the Korean source and accepted English. Later stages abort if either live file changes. After promotion, the live translation must match the promoted final.
+
+The authoritative state is the primary workflow transaction:
+
+```text
+COMMITTED
+    ↓ workflow master / mastering overlay
+MASTERED
+    ↓ Master Chapter N commit and registration
+MASTERED_COMMITTED
 ```
 
-`doctor` checks the installation and model configuration but makes no paid model call.
+`python tools/workflow.py status N` reports the exact next action. Do not edit transaction JSON or manually advance hashes. `run_next_mastering.py` uses the mastering lock; translation uses the separate run lock, and Git commits wait for `.work/commit.lock`.
 
-Primary mastering selectors live in `docs/mastering.json`. Sol is requested on
-the OpenAI Codex subscription first; OMP falls back through Cursor Sol to paid
-OpenRouter Sol using the chains in `.omp/config.yml`. The adjudicator is Luna
-`:high` (Codex first) with a SOL-default meaning veto; the fidelity gate is
-GPT-4.1 Mini.
+## Inspecting results
 
-```json
-{
-  "models": {
-    "master": "openai-codex/gpt-5.6-sol:medium",
-    "adjudicator": "openai-codex/gpt-5.6-luna:high",
-    "quality_gate": "openrouter/openai/gpt-4.1-mini"
-  }
-}
-```
-
-Change only these strings if your local OMP naming differs.
-
-## Ten-chapter test
-
-Run the complete pipeline on chapters 1–10:
-
-```bash
-python tools/mastering.py run 1-10
-```
-
-The workflow is resumable. Paid stages that already have valid output are skipped. If chapter 6 fails, fix the problem and run the same command again; chapters/stages already completed will not be charged again.
-
-You can also run stages separately:
-
-```bash
-python tools/mastering.py master 1
-python tools/mastering.py adjudicate 1
-python tools/mastering.py assemble 1
-python tools/mastering.py qa 1
-```
-
-Use `--force` only on `master` or `adjudicate` when you deliberately want to pay for a rerun:
-
-```bash
-python tools/mastering.py adjudicate 1 --force
-```
-
-## Inspect the test
-
-Status:
-
-```bash
-python tools/mastering.py status 1-10
-```
-
-Cost and decision report:
-
-```bash
-python tools/mastering.py report 1-10
-```
-
-For each chapter, the most useful files to read are:
+Useful files for a chapter include:
 
 ```text
 reviews/mastering/0001/baseline.md
@@ -138,103 +196,20 @@ reviews/mastering/0001/diff.md
 reviews/mastering/0001/adjudication.json
 reviews/mastering/0001/final.md
 reviews/mastering/0001/qa.json
+reviews/metrics/0001.json
 ```
 
-The report records actual OMP/provider-reported costs for Sol and DeepSeek separately, plus how many hunks were kept as SOL, reverted to BASE, or repaired.
-
-## Retrospective context safety
-
-Do **not** feed present-day `docs/CONTEXT.json` blindly into old chapters. It can contain future plot facts.
-
-This overlay instead uses:
-
-- exact glossary rows matched to the current Korean source;
-- the latest summary whose end chapter is strictly earlier than the chapter being mastered;
-- tails of up to two prior chapters; when a prior chapter has already reached VERIFIED in this mastering run, its mastered final is preferred, otherwise the accepted translation is used;
-- compact identity/voice/relationship fields from character profiles only when
-  their `Safe through: Chapter N` marker is strictly earlier than the chapter
-  being mastered; archived chapter-by-chapter continuity is not injected.
-
-For chapters 1–10, current character profiles will therefore usually be excluded, which is intentional. This prevents later character knowledge from contaminating early-chapter edits.
-
-You can disable profile injection entirely in `docs/mastering.json`:
-
-```json
-"include_safe_profiles": false
-```
-
-## Diff/adjudication semantics
-
-The diff is paragraph-aware. A hunk can contain one or several adjacent paragraphs when Sol restructures them.
-
-DeepSeek receives:
-
-- complete Korean source (once, with line numbers);
-- complete baseline English (once, with `P#` paragraph labels);
-- complete Sol English (once, with `P#` paragraph labels);
-- exact glossary rows;
-- project fidelity rules;
-- numbered changed hunks containing the exact changed BASE/SOL prose, paragraph references, and Korean line citations;
-- terminology-risk annotations when a preferred baseline term disappears from Sol's hunk.
-
-After assembly, deterministic QA is followed by a bounded whole-chapter fidelity gate. The gate receives both the Korean source and the accepted baseline, so it can catch regressions as well as new mistranslations. Major/critical findings and high-confidence minor findings are repaired automatically and checked again; unresolved major/critical findings block promotion.
-
-Changed prose is repeated in each hunk for reliable direct comparison. Both complete numbered chapters remain available for neighboring context and for judging adjacent hunks that split or restructure one baseline sentence as assembled prose.
-
-It must return exactly one of:
-
-- `SOL` — keep Sol's edit;
-- `BASE` — revert that hunk to the accepted baseline;
-- `REPAIR` — neither version is satisfactory; DeepSeek supplies a narrowly bounded replacement.
-
-The adjudicator prompt is neutral when both versions are faithful: it keeps Sol
-only when the improvement is concrete, while preserving the accepted baseline's
-established terminology, formatting, and source-specific texture.
-
-## Safety against accidental overwrites
-
-At the start of mastering a chapter, the script snapshots and hashes the Korean source and accepted English. Later stages abort if either live file changes during the transaction. After promotion, the live translation must keep matching the promoted copy.
-
-`python tools/mastering.py run N`, `python tools/workflow.py master N`, and
-`run_next_mastering.py` all promote automatically once mastering QA passes.
-Individual stage commands (`master`, `adjudicate`, `assemble`, `qa`) do not
-touch `translations/` until you run `run` or `promote`.
-
-Manual promotion of an already-verified chapter still works:
+Use the project cost report for provider-reported usage and workload metrics:
 
 ```bash
-python tools/mastering.py promote 1-10 --confirm REPLACE_TRANSLATIONS
+python tools/cost_report.py --chapter 1
+python tools/cost_report.py --chapter 1 --json
 ```
 
-Promotion only accepts chapters whose final deterministic QA passed. The original baseline remains in `reviews/mastering/<chapter>/baseline.md`.
+For a frozen comparison without promotion, use:
 
-If verify still fails after the fidelity repair loop, `run` / `run_next_mastering.py`
-escalate in order and stay on that chapter:
+```bash
+python tools/mastering_ab.py 1
+```
 
-1. fidelity auto-repairs (`quality_gate_max_rounds`); invalid gate JSON is treated as
-   a failed round and retried, then as `QA_FAILED`
-2. re-adjudicate once (`qa_retry_readjudicate`, default 1)
-3. remaster once (`qa_retry_remaster`, default 1)
-
-It does not skip ahead to another chapter. Exhausted retries raise and leave the
-chapter at `QA_FAILED` for inspection.
-
-`python tools/run_until_mastering.py N` resumes failed chapters up to
-`run_until_mastering_retries` times with `run_until_mastering_retry_delay_seconds`
-between attempts (`--retries` / `--retry-delay` override). Only after those are
-exhausted does it stop the until-run.
-
-## Recommended evaluation after chapters 1–10
-
-The important numbers are:
-
-- total Sol cost;
-- total DeepSeek cost;
-- Sol hunks proposed;
-- percentage kept as `SOL`;
-- percentage reverted to `BASE`;
-- percentage repaired;
-- QA/terminology warnings;
-- your reading preference for `final.md` versus `baseline.md`.
-
-A healthy result should show that DeepSeek mostly accepts Sol, while selectively rejecting concrete fidelity/terminology regressions. If it reverts large amounts of harmless prose editing, the adjudicator prompt is too conservative. If it accepts known terminology or semantic regressions, it is too permissive.
+The report separates editor, adjudicator, and fidelity-gate work where provider metrics are available, and records hunk decisions as `SOL`, `BASE`, or `REPAIR`.
