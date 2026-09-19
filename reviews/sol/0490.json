@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "- All Status conditions have been restored!",
+      "defect": "The English says the abnormal conditions themselves were restored, reversing the intended consequence that Taekyung recovered from them.",
+      "id": "F01",
+      "rationale": "The notice confirms successful detoxification and recovery from every abnormal status, not the restoration of those statuses.",
+      "replacement": "- All Status conditions have been cleared!",
+      "severity": "critical",
+      "source": "모든 상태 이상이 회복되었습니다!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "My opponent wasn’t some ordinary martial artist.",
+      "defect": "Calling Mungyeong Taekyung’s “opponent” incorrectly frames their relationship as adversarial when 상대 here simply refers to the person he is dealing with.",
+      "id": "F02",
+      "rationale": "Mungyeong is evaluating and teaching Taekyung, not opposing him in a contest or battle.",
+      "replacement": "The man I was dealing with wasn’t some ordinary martial artist.",
+      "severity": "minor",
+      "source": "상대는 그저 그런 무림인이 아니라, 천하에서도 손꼽히는 초절정 고수인 살성이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But this was basically the crime of being irritating.",
+      "defect": "“The crime of being irritating” is unnatural and misses 괘씸죄’s sense of being punished arbitrarily for displeasing or offending someone.",
+      "id": "F03",
+      "rationale": "The following sentence explains that Taekyung must suffer until Mungyeong personally approves of him, making the subjective-displeasure sense essential.",
+      "replacement": "But this was basically the crime of getting on someone’s bad side.",
+      "severity": "minor",
+      "source": "하지만 이건, 죄목으로 따지자면 괘씸죄와 비슷하다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "At this point, he had clearly decided to hide himself properly.",
+      "defect": "“Hide himself properly” is an unnatural literal rendering and does not convey Jeok Cheongang’s firm determination to remain hidden.",
+      "id": "F04",
+      "rationale": "단단히 작정하다 emphasizes a firm, deliberate decision rather than the manner or competence with which he hid.",
+      "replacement": "At this point, he had clearly made up his mind to stay hidden.",
+      "severity": "minor",
+      "source": "이 정도면 단단히 작정하고 숨은 것이 틀림없다."
+    },
+    {
+      "confidence": 0.83,
+      "current": "*Thunk!*",
+      "defect": "The single heavy impact sound does not preserve the source’s repeated soft puffing or puncturing sound that signals the second concealed poison trap.",
+      "id": "F05",
+      "rationale": "푸푹 is repeated and soft rather than a single dull impact; preserving that ambiguity suits either a powder discharge or a concealed puncturing mechanism without adding an explanation.",
+      "replacement": "*Phut-phut!*",
+      "severity": "minor",
+      "source": "푸푹!"
+    }
+  ],
+  "summary": "One reversed System consequence and several localized meaning or prose issues.",
+  "version": 1
+}
