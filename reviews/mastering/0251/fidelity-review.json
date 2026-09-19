@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "But he had also learned his family’s secret arts and was an exceptional martial artist in his own right.",
+      "defect": "Missing glossary term 'One God' (일신) for the phrase '일신에 지닌 무공'.",
+      "id": "F01",
+      "rationale": "The source emphasizes the level of martial prowess via the term '일신' meaning 'One God', an established glossary term to highlight status, which is omitted here.",
+      "replacement": "But he had also learned his family’s secret arts and was an exceptional One God martial artist in his own right.",
+      "severity": "minor",
+      "source": "line 17"
+    },
+    {
+      "confidence": 0.8,
+      "current": "There was no need to confirm it with the Qi Sense Skill. At this point, it would have been stranger if I still hadn’t figured it out.",
+      "defect": "Missing glossary term capitalization 'Acquired' for 습득 in the skill context.",
+      "id": "F02",
+      "rationale": "The glossary key 습득 is specified as 'Acquired' indicating the skill nature, which is missing in the current English.",
+      "replacement": "There was no need to confirm it with the Qi Sense Skill Acquired. At this point, it would have been stranger if I still hadn’t figured it out.",
+      "severity": "minor",
+      "source": "line 137"
+    },
+    {
+      "confidence": 0.6,
+      "current": "Yes. Right after Benefactor left with Grandpa Jeok.",
+      "defect": "Misses referring to '귀가 어두운 주인장' as 'nearly deaf proprietor' or similar for euphemistic clarity.",
+      "id": "F03",
+      "rationale": "Original Korean specifies the proprietor's hearing issue, which is a minor characterization detail missing here.",
+      "replacement": "Yes. Right after Benefactor left with Grandpa Jeok, the nearly deaf proprietor.",
+      "severity": "minor",
+      "source": "line 173"
+    },
+    {
+      "confidence": 0.9,
+      "current": "I would have bet my right hand and my entire fortune that they had already found him out. I was even willing to double down.",
+      "defect": "Missing metaphorical phrase equivalent to '거기에 묻고 더블로 갈 용의도 있다' literally about 'burying my right hand and going double'.",
+      "id": "F05",
+      "rationale": "The original phrase carries a more vivid betting metaphor expressing confidence, which is diluted in the current rendition.",
+      "replacement": "I would have bet my right hand and my entire fortune—and I was willing to bet double—to prove they had already found him out.",
+      "severity": "minor",
+      "source": "line 227"
+    }
+  ],
+  "summary": "Faithful and accurate translation of Chapter 251 with minor terminology omissions.",
+  "version": 1
+}

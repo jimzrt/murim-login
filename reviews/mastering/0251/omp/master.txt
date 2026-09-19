@@ -86,7 +86,7 @@ After clearing his throat several times, he spoke in a low baritone.
 
 But how should I put it? The voice was painfully forced.
 
-“Why? No—I mean, what is it?”
+“What do you want? No—I mean, what business do you have with me?”
 
 “I have something I’d like to ask.”
 
@@ -128,7 +128,7 @@ Realizing his mistake, the Invincible Divine Sword frantically waved his hands. 
 
 “K-Kang Pung.”
 
-*What kind of Pung?*
+*Kang what?*
 
 What a talent for names.
 
@@ -174,7 +174,7 @@ Other than the ancient, nearly deaf proprietor, there wasn’t another customer 
 
 “Still, I’m surprised you managed to escape.”
 
-“My Martial Nephews tried to stop me, so I used a little force. They probably wouldn’t have woken up for three days. I ran away while they were out. Hehe.”
+“My Martial Nephews tried to stop me, so I used a little force. They probably didn’t wake up for three days. I ran away while they were unconscious. Hehe.”
 
 “…”
 
@@ -184,17 +184,17 @@ Still, only someone like Cheongpung could have pulled that off.
 
 Baek Museong might be known as Huashan’s Lone Crane and one of the Three Plum Blossom Elites, but Cheongpung was a true genius on an entirely different level.
 
-Even a Third Rate sword technique like the Three-Talent Sword Technique became a Peak martial art when performed by him.
+Even the Three-Talent Sword Technique, the sort of sword technique practiced by third-rate martial artists, became a Peak martial art in his hands.
 
 From what I had seen, no one could match the depth of his understanding or the speed at which he learned martial arts.
 
-*If there were another genius like him, it would probably be Jin Mukyung.*
+*If there’s another genius like him, it would have to be Jin Mukyung.*
 
 Lost in thought, I listened to Cheongpung’s excited account of his travels through the martial world.
 
-I had expected as much, and sure enough, he hadn’t done a damn bit of martial arts training. His stories were all about roaming around, goofing off, and eating to his heart’s content.
+I had expected as much, and sure enough, he had barely trained at all. Every story was about roaming around, having fun, and eating to his heart’s content.
 
-“I ate dumplings in Sichuan, but they were spicy!”
+“I ate dumplings in Sichuan, and they were spicy!”
 
 “Ah, yes. How astonishing.”
 
@@ -222,21 +222,21 @@ By the time he started talking about dumplings in Hunan Province, I couldn’t t
 
 I would have bet my right hand and my entire fortune that they had already found him out. I was even willing to double down.
 
-*No wonder there were so many Huashan disciples near the dueling platform earlier.*
+*No wonder there were so many Huashan disciples near the dueling platform.*
 
 The Star-Array Grand Banquet was open to martial artists from across the world, so there were no real restrictions against hiding one’s identity.
 
 But Huashan was one of the Nine Sects and One Gang. There was no question its disciples had noticed Cheongpung long ago.
 
-And yet they were merely watching him from a distance.
+And yet they were content to watch him from a distance…
 
-*At this point, this is basically a group hidden-camera prank.*
+*At this point, it’s basically a group prank.*
 
 They could make a whole movie out of it and call it *The Cheongpung Show*.
 
 I clicked my tongue inwardly as I watched Cheongpung enjoying himself. Then a thought occurred to me.
 
-“Then I guess we’ll meet later?”
+“Then I guess we’ll meet later.”
 
 The smile on Cheongpung’s face widened.
 
@@ -256,9 +256,9 @@ Cheongpung and Jin Mukyung were two of the reasons I had decided to participate 
 
 “Be honest.”
 
-I leaned back against the old chair.
+I leaned back in the old chair.
 
-Amid the creaking sounds, Cheongpung was silent for a moment. Then he suddenly tapped the scabbard hanging from his waist.
+Cheongpung was silent for a moment amid the chair’s creaking. Then he tapped the scabbard at his waist.
 
 “Grandpa used to say that martial artists should speak with their weapons.”
 
@@ -270,7 +270,7 @@ I let out a quiet laugh and rose from my seat.
 
 “Where are you going, Benefactor?”
 
-“To prepare for the finals. We’ll finish our conversation there. With our respective martial arts, of course.”
+“To prepare for the finals. We’ll finish this conversation there—with our martial arts.”
 
 “The finals…”
 
@@ -316,7 +316,7 @@ By sheer coincidence, he was pointing at the sign of the very inn Cheongpung and
 
 Cheongpung, who had already pulled his bamboo hat low over his face, abruptly joined in with his awkwardly altered voice.
 
-“They’re incredibly delicious. No, I mean, delicious they are.”
+“They’re incredibly delicious. No—I mean, they are delicious.”
 
 Jongni Chu turned toward Cheongpung.
 
@@ -356,7 +356,7 @@ I offered him some serious advice.
 
 “Not everyone who likes dumplings is a good person.”
 
-“Oh, I should have told him to dip them in only a little soy sauce.”
+“Oh, I should’ve told him to use only a little soy sauce.”
 
 “…”
 
@@ -370,7 +370,7 @@ Jongni Chu never entered the inn.
 
 His steps didn’t stop even after he passed it.
 
-How long had he walked through the dark alleys tangled together like a maze? At last, in a place containing nothing but a few rats and filth, Jongni Chu stopped.
+He walked through the maze of dark alleys until, at last, he stopped in a place inhabited only by rats and filth.
 
 A quiet voice slipped from his lips.
 
@@ -382,7 +382,7 @@ The moment he finished speaking, the silent alley erupted into motion.
 
 Three streaks of light shot toward Jongni Chu’s vital points.
 
-At the same time, a small masked figure shot into the air. His steps as he ran along the wall were swift and stealthy as the wind.
+At the same time, a small masked figure soared into the air. His steps were swift and silent as the wind as he raced along the wall.
 
 His movement technique was exceptional, and his concealment technique surpassed even that. Just as the masked man gathered his strength to leap—
 
@@ -410,13 +410,13 @@ Never had those words felt so real. He realized that only one path remained to h
 
 The face of the superior he had loyally served for decades—the Thousand-Faced Fox—flashed before his eyes.
 
-Just as Shadow Killer—the Hidden Shadow Pavilion’s finest agent, whose name had since been forgotten—was about to bite down on the poison pellet hidden in his tooth—
+Shadow Killer, the finest agent of the now-forgotten Hidden Shadow Pavilion, prepared to bite down on the poison pellet hidden in his tooth.
 
 “As expected of the Hidden Shadow Pavilion. Not a moment’s hesitation. But…”
 
-*Tap, tap.*
+*Thud-thud-thud.*
 
-Lightning-fast fingers struck Shadow Killer’s entire body. A low voice burrowed into his ears as his body stiffened.
+Lightning-fast fingers struck points all across Shadow Killer’s body. As he went rigid, a low voice burrowed into his ear.
 
 “You should have known who you were following.”
 

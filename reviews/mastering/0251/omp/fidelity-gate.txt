@@ -1,0 +1,55 @@
+{
+  "summary": "Faithful and accurate translation of Chapter 251 with minor terminology omissions.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "line 17",
+      "current": "But he had also learned his family’s secret arts and was an exceptional martial artist in his own right.",
+      "defect": "Missing glossary term 'One God' (일신) for the phrase '일신에 지닌 무공'.",
+      "replacement": "But he had also learned his family’s secret arts and was an exceptional One God martial artist in his own right.",
+      "rationale": "The source emphasizes the level of martial prowess via the term '일신' meaning 'One God', an established glossary term to highlight status, which is omitted here.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "line 137",
+      "current": "There was no need to confirm it with the Qi Sense Skill. At this point, it would have been stranger if I still hadn’t figured it out.",
+      "defect": "Missing glossary term capitalization 'Acquired' for 습득 in the skill context.",
+      "replacement": "There was no need to confirm it with the Qi Sense Skill Acquired. At this point, it would have been stranger if I still hadn’t figured it out.",
+      "rationale": "The glossary key 습득 is specified as 'Acquired' indicating the skill nature, which is missing in the current English.",
+      "confidence": 0.8
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "line 173",
+      "current": "Yes. Right after Benefactor left with Grandpa Jeok.",
+      "defect": "Misses referring to '귀가 어두운 주인장' as 'nearly deaf proprietor' or similar for euphemistic clarity.",
+      "replacement": "Yes. Right after Benefactor left with Grandpa Jeok, the nearly deaf proprietor.",
+      "rationale": "Original Korean specifies the proprietor's hearing issue, which is a minor characterization detail missing here.",
+      "confidence": 0.6
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "lines 215-216",
+      "current": "\"So what are you going to do now?\" \"About what?\"",
+      "defect": "Missing use of glossary term 'Invincible Divine Sword' as a direct subject in line 219 which is omitted from the question.",
+      "replacement": "\"So what are you going to do now?\" \"About what?\" \"The Invincible Divine Sword. Are you going to keep this up?\"",
+      "rationale": "The Korean explicitly uses the alias '무적신검' to frame the question, which is absent here, losing clarity.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "line 227",
+      "current": "I would have bet my right hand and my entire fortune that they had already found him out. I was even willing to double down.",
+      "defect": "Missing metaphorical phrase equivalent to '거기에 묻고 더블로 갈 용의도 있다' literally about 'burying my right hand and going double'.",
+      "replacement": "I would have bet my right hand and my entire fortune—and I was willing to bet double—to prove they had already found him out.",
+      "rationale": "The original phrase carries a more vivid betting metaphor expressing confidence, which is diluted in the current rendition.",
+      "confidence": 0.9
+    }
+  ]
+}
