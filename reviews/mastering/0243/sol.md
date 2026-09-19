@@ -4,7 +4,7 @@ Hyuk Mujin had been living a dream day after day. Every now and then, he even pi
 
 *Mujin, are you really allowed to be this happy? This isn’t a dream, is it?*
 
-He had every reason to feel that way.
+He had every reason to wonder.
 
 Just over ten years ago, he had been nothing more than a boy who admired martial artists.
 
@@ -16,7 +16,7 @@ His working hours were long and tedious, and his martial arts had stagnated.
 
 And when the person he saw most often was the drunken, good-for-nothing Third Young Master, anyone short of the Buddha himself was bound to take a bleak view of the world.
 
-*“I held it in and held it in, then finally threw one punch.”*
+*I held it in and held it in, then finally let him have it.*
 
 The day he drove his fist into the Third Young Master’s jaw, Hyuk Mujin’s life changed.
 
@@ -84,7 +84,7 @@ At the words that came from his mouth, Hyuk Mujin’s hands and feet went numb.
 
 That voice was unmistakably familiar. How had he failed to recognize it at once?
 
-No wonder the back of his head had been itching strangely…
+No wonder the back of his head had been itching…
 
 *Where did it all go wrong?*
 
@@ -160,11 +160,11 @@ I gave the Jin Dragon Squad members pointing their swords at me an amiable smile
 
 “Vice Squad Leader, are you all right?”
 
-“Where did this beggar bastard come from, spouting nonsense?”
+“Where did this filthy beggar come from, spouting nonsense?”
 
 At his subordinates’ response, Hyuk Mujin nodded with a stricken expression.
 
-“Not a beggar bastard. He’s the Third Young Master.”
+“He’s not a filthy beggar. He’s the Third Young Master.”
 
 “Pardon?”
 
@@ -282,7 +282,7 @@ The Sword Saint and Cheongpung… At this point, shouldn’t I start wondering w
 
 “It’s still doing better than our family.”
 
-“Why? Didn’t they wipe out the mounted bandits in the north and continue to prosper? That sounds like they’re doing pretty well to me.”
+“Why? Didn’t we wipe out the mounted bandits in the north? Aren’t we on a roll? From where I’m standing, the family seems to be doing pretty well.”
 
 Jin Wikyung shook his head gloomily.
 
@@ -302,7 +302,7 @@ I felt no familial affection for him, much less any desire to see him.
 
 *If I see him, I see him. If not, whatever.*
 
-Instead, I was far more concerned about Jin Mukyung, whom I’d traded snarls with every chance we got.
+I was far more concerned about Jin Mukyung, whom I’d traded snarls with every chance we got.
 
 “Come to think of it, where’s Second Hyung? Did he go somewhere?”
 
@@ -336,19 +336,19 @@ For all that time, he had not taken a single step out of the dark training hall.
 
 I didn’t need to hear his answer. Jin Mukyung’s absence told me everything.
 
-Jin Wikyung continued in a low voice.
+Jin Wikyung continued quietly.
 
 “He said he wouldn’t leave until he achieved Great Completion. He asked me to tell you that.”
 
 Great Completion…
 
-To Jin Mukyung, the Star-Array Grand Banquet was a fruit he could reach simply by stretching out his hand.
+To Jin Mukyung, the Star-Array Grand Banquet was a fruit within easy reach.
 
 He was already one of the foremost young prodigies in the Central Plains. If he entered, he could prove his martial arts and win even greater fame.
 
 But Jin Mukyung had chosen his martial arts over that sweet fruit.
 
-*He’s an incredible guy.*
+*He’s an incredible bastard.*
 
 While everyone else reached for the fruit and scrambled up the tree, Jin Mukyung had turned his back on it and devoted himself to training.
 
@@ -358,7 +358,7 @@ A tree laden with fruit.
 
 *Yeah. That’s a true martial artist.*
 
-I respected his choice. I didn’t know what lay at the end of the path Jin Mukyung had chosen, but I believed its direction was more correct than anyone else’s.
+I respected his choice. I didn’t know what awaited Jin Mukyung at the end of the path he had chosen, but I knew he was headed in the right direction.
 
 That was enough.
 
