@@ -1,6 +1,6 @@
 # Zhuge Feng (제갈풍)
 
-- **Safe through:** Chapter 500
+- **Safe through:** Chapter 501
 - **Aliases:** Crouching Dragon Guest
 - **Role:** Zhuge Feng is the current Family Head of the Zhuge Clan and father of its Lesser Family Head, Zhuge Gyun.
 - **Personality:** Analytical, disarmingly casual, eccentric, and inventive; he treats comfort and time as principles while delivering grave intelligence with unsettling directness.
