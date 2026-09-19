@@ -10,7 +10,7 @@ He had taken such meticulous care of them that they gleamed even in the darkness
 
 Thud!
 
-Won Myunghoon flew several meters before slamming his back into a tree and coughing.
+Won Myunghoon flew several meters before slamming back-first into a tree and coughing violently.
 
 The teeth left in his mouth tumbled out with the blood. When he finally raised his head, his face was twisted in shock.
 
@@ -80,7 +80,7 @@ While Won Myunghoon and I exchanged those few words, the Star Guild members char
 
 “What?”
 
-The moment Won Myunghoon questioned me, Butler Kim—who had been massaging his lower back—drove his long staff into the ground.
+The moment Won Myunghoon questioned me, Butler Kim—who had been massaging his lower back—planted his long staff against the ground.
 
 It was a light movement. Yet the power flowing from the tip of his staff shook the earth.
 
@@ -92,13 +92,13 @@ Rumble!
 
 The primeval forest convulsed.
 
-Cracks split the solid ground. Dirt and rocks shot into the air, exposing the trunks of trees that had sunk their roots deep into the earth. Flocks of nameless birds took flight.
+Cracks split the solid ground. Dirt and rocks erupted into the air, exposing the roots of deeply rooted trees. Flocks of nameless birds took flight.
 
 —Screeeech!
 
 They were the only ones able to escape the earthquake.
 
-Unfortunately for the Star Guild members, they had no wings. The cracked and shattered ground surged up like triangular waves and swallowed them whole.
+Unfortunately for the Star Guild members, they had no wings. The cracked and shattered ground surged like jagged waves and swallowed them whole.
 
 “Everyone, get out of the—urk!”
 
@@ -122,7 +122,7 @@ Well, except for one person.
 
 “An A-Rank mage…!”
 
-A-Rank Hunters were rare, but A-Rank mages and healers were rarer still. The Star Guild members had probably never expected Butler Kim—who always kept his hands folded behind his back and laughed amiably—to be an A-Rank mage.
+A-Rank Hunters were rare, but mages and healers were rarer still among them. They probably never imagined that Butler Kim—the amiable old man who always stood with his hands behind his back—was an A-Rank mage.
 
 I grinned at the trembling Won Myunghoon.
 
@@ -168,7 +168,7 @@ Even with me standing right in front of him, he didn’t move. I addressed him a
 
 After a moment’s hesitation, Won Myunghoon spoke.
 
-“Because it’s better than dying.”
+“It’s better than dying.”
 
 “Better than dying… Yeah, that’s true.”
 
@@ -186,7 +186,7 @@ An unknowable light swirled within those twin pupils, dark as the abyss.
 
 Fear of the future awaiting him. Anxiety over death.
 
-And then…
+And…
 
 Thump!
 
@@ -196,7 +196,7 @@ Thump!
 
 “Just once. Give me one last chance. Killing someone like me will only leave a bad taste in your mouth.”
 
-“It’ll leave a bad taste, but you won’t be punished. If you’re threatened with murder in a Gate, self-defense is recognized. You know that too.”
+“It might leave a bad taste, but I won’t be punished for it. Self-defense applies when someone threatens to kill you inside a Gate. You know that as well as I do.”
 
 “B-But still.”
 
@@ -206,7 +206,7 @@ Won Myunghoon swallowed hard.
 
 *Murderer.*
 
-The word rolling around on the tip of my tongue left a foul taste.
+The word tasted bitter on my tongue.
 
 I looked down at Won Myunghoon, kneeling before me and begging for his life in a servile voice, then spoke.
 
@@ -288,15 +288,15 @@ I answered calmly.
 
 “I know that perfectly well.”
 
-How many people had I killed by now? Dozens? No, a hundred?
+How many people had I killed by now? Dozens? Maybe a hundred?
 
-The world I had lived in had never been forgiving. In Gates, I had to kill monsters. In the Murim, I had to kill people.
+The worlds I had lived in had never been forgiving. Inside Gates, I had to kill monsters. In Murim, I had to kill people.
 
 I was no lofty junzi. I was a Hunter and a martial artist with a family and people I had to protect. If surviving and becoming stronger meant getting blood on my hands, I would do it willingly.
 
 To me, there was little difference between a monster and Won Myunghoon.
 
-*Because he’s an enemy.*
+*He was an enemy.*
 
 Whoever the enemy might be, if they could someday bring harm to me or my people, the right thing to do was eliminate the threat at its source.
 
@@ -310,13 +310,13 @@ That brief exchange must have been enough for him to understand what kind of per
 
 He regarded me with a grave look, then gave a small nod.
 
-“Urgh. P-Please, spare me…”
+“Urgh. P-Please…spare me…”
 
 “Spare you?”
 
 I looked down at the groaning Won Myunghoon.
 
-He had once been the idol I looked up to as a child—the man who shone brighter than anyone among countless stars.
+He had once been the idol I looked up to as a child, a man who had shone brighter than any of the countless stars around him.
 
 But now I would seal those old memories inside a time capsule and bury them deep underground.
 
@@ -346,13 +346,13 @@ The System announced the enemy’s death.
 
 “Let’s go.”
 
-Butler Kim nodded as he watched me with a strange look in his eyes.
+Butler Kim nodded, regarding me with an unreadable look.
 
 “We have more baggage to take with us now.”
 
 He waved his staff, and the Star Guild members buried beneath the earth floated gently into the air.
 
-As I watched magical ropes being summoned and binding them tightly together like strings of dried fish, I suddenly spoke.
+As I watched conjured ropes bind them tightly together like strings of dried fish, something occurred to me.
 
 “Wait a moment, Butler Kim.”
 
@@ -368,7 +368,7 @@ For some reason, he had been bound tightly to a tree. And I recognized his face.
 
 * * *
 
-Most of the reporters who had flocked to cover the joint raid by the Peace Guild and the Star Guild—or rather, Jin Taekyung and Won Myunghoon’s raid—had left long ago.
+Most of the reporters who had flocked there to cover the joint raid between the Peace Guild and the Star Guild—or rather, the raid led by Jin Taekyung and Won Myunghoon—had left long ago.
 
 But there were always exceptions. One was a young man in thick, horn-rimmed glasses, eating ramen.
 
@@ -376,11 +376,11 @@ But there were always exceptions. One was a young man in thick, horn-rimmed glas
 
 His colleague snickered and picked up a piece of instant kimchi.
 
-“You’ve only been here two months, and you already have plenty to say.”
+“You’ve only been here two months, and you’re already full of complaints.”
 
 “Come on, Senior. You haven’t been here that long either.”
 
-“Hey. Back in my day, I kept my mouth shut and worked. If they told me to stay, I stayed. If they told me to do something, I did it.”
+“Hey. Back in my day, I kept my mouth shut and did what I was told. If they told me to stay, I stayed. If they told me to tear someone apart in print, I did it.”
 
 “But isn’t this a bit much? How can they make us wait around for days just to cover one Hunter?”
 
@@ -410,7 +410,7 @@ Seeing groups of other junior reporters in the same miserable situation eating n
 
 “Yeah. There’s plenty to do around here. The local businesses just rip you off.”
 
-“Then maybe one game of billiards…”
+“Then maybe one game…”
 
 Tempted by his Senior’s offer, the young reporter had just begun to rise when—
 
@@ -426,9 +426,9 @@ The mana that had lain as still as the surface of a lake began to swirl, and urg
 
 “The cameras! Get them over here, now!”
 
-The area fell into chaos in an instant. The reporters who had been idly passing the time shot to their feet and crowded in front of the Gate.
+The area descended into chaos. The reporters who had been idly passing the time shot to their feet and crowded in front of the Gate.
 
-The young reporter and his Senior were no exception. They claimed a spot at the front faster than anyone else, their minds reeling.
+The young reporter and his Senior were no exception. They secured a place at the front faster than anyone else and frantically began preparing.
 
 “What’s going on? Why are they coming out already?”
 
@@ -436,7 +436,7 @@ The young reporter and his Senior were no exception. They claimed a spot at the 
 
 Cameras began rolling, and flashes burst without pause.
 
-The reporters had sensed that something had happened, and their prediction proved exactly right.
+The reporters sensed that something had happened, and their instincts proved exactly right.
 
 Whoosh!
 
