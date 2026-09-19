@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Mungyeong silently gazed at the tall grass and flowers growing thickly around the cave—and the wild animals that had gathered there before suddenly speaking.",
+      "defect": "The closing modifier grammatically suggests that the wild animals gathered before speaking, briefly obscuring Mungyeong as the speaker.",
+      "id": "C01",
+      "rationale": "The replacement preserves the sequence and contemplative pause while attaching the act of speaking unambiguously to Mungyeong.",
+      "replacement": "After silently gazing at the tall grass and flowers growing thickly around the cave and at the wild animals gathered there, Mungyeong suddenly spoke.",
+      "severity": "minor",
+      "source": "Chapter 504, outside Jeok Cheongang’s cave"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Jin Wikyung’s martial arts were in no way inferior, but even his appearance alone made him little different from a human weapon.",
+      "defect": "The comparative “inferior” has no stated point of comparison, leaving the sentence incomplete and weakening Zhuge Feng’s assessment.",
+      "id": "C02",
+      "rationale": "This completes the thought naturally without changing the point that both Jin Wikyung’s martial prowess and imposing appearance make him threatening.",
+      "replacement": "Jin Wikyung’s martial arts were formidable enough, but even his appearance alone made him little different from a human weapon.",
+      "severity": "minor",
+      "source": "Chapter 504, Zhuge Feng assessing Jin Wikyung"
+    }
+  ],
+  "summary": "Continuity, terminology, hooks, formatting, and spoiler boundaries remain consistent. Two minor prose constructions create avoidable ambiguity.",
+  "version": 1
+}

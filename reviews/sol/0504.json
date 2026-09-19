@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Looks like it wasn’t meddling for nothing.”",
+      "defect": "The phrasing is an unnatural literalism that obscures Mungyeong’s conclusion that his intervention was not needless.",
+      "id": "F01",
+      "rationale": "괜한 qualifies the meddling as needless or unwarranted, while 모양이군 marks Mungyeong’s understated realization.",
+      "replacement": "“Seems I wasn’t meddling for nothing after all.”",
+      "severity": "minor",
+      "source": "괜한 오지랖은 아니었던 모양이군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Mungyeong’s low murmur carried a complicated mixture of emotions.",
+      "defect": "The draft transfers the emotions from Mungyeong’s eyes to his voice, removing the source’s visible characterization.",
+      "id": "F02",
+      "rationale": "The source explicitly locates the mixed emotions in 문경의 눈빛, while 낮게 뇌까리는 only describes how he speaks.",
+      "replacement": "A complicated mixture of emotions swirled in Mungyeong’s eyes as he murmured under his breath.",
+      "severity": "major",
+      "source": "낮게 뇌까리는 문경의 눈빛에는 복잡한 감정이 뒤섞여 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Soon afterward, he slowly turned around and stepped out into the cramped world beyond the cave.",
+      "defect": "The modifier is attached to the outside world, making the world beyond the cave cramped instead of the cave itself.",
+      "id": "F03",
+      "rationale": "비좁은 modifies 동굴; Mungyeong leaves the narrow cave and enters the outside world.",
+      "replacement": "Soon afterward, he slowly turned and stepped out of the cramped cave into the world beyond.",
+      "severity": "major",
+      "source": "이내 천천히 돌아선 그는 비좁은 동굴 밖 세상으로 발을 내디뎠다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The stranger’s eyes had sunk so deeply that the fawn nearly swallowed its cry, instinctively about to wake its mother.",
+      "defect": "“Eyes had sunk” suggests a physical feature rather than the deeply subdued, grave gaze described by the source.",
+      "id": "F04",
+      "rationale": "눈빛이 깊게 가라앉다 describes a grave or deeply subdued expression, not sunken eyes.",
+      "replacement": "The stranger’s gaze was so profoundly somber that the fawn, which had instinctively been about to wake its mother, swallowed its cry.",
+      "severity": "minor",
+      "source": "낯선 이방인의 눈빛은 깊게 가라앉아 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Did you say the Hyuk Family Textile Shop? Should we send ten thousand Beggars’ Sect disciples over there to take a shit each?”",
+      "defect": "The draft reduces the threatened number of Beggars’ Sect disciples from one hundred thousand to ten thousand.",
+      "id": "F05",
+      "rationale": "십만 is 100,000, not 10,000; the exaggerated quantity is also central to the threat’s humor.",
+      "replacement": "“Did you say the Hyuk Family Textile Shop? Should we send a hundred thousand Beggars’ Sect disciples over there to take a shit each?”",
+      "severity": "critical",
+      "source": "십만 개방도가 찾아가서 똥 한 번씩 싸질러 줘?"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Well, it was something I heard in the Family Head’s residence when I was thirteen.”",
+      "defect": "The draft changes the Family Head’s hall into his residence.",
+      "id": "F06",
+      "rationale": "가주 전 refers to the Family Head’s hall, not generically to his private residence.",
+      "replacement": "“Well, it was something I heard in the Family Head’s hall when I was thirteen.”",
+      "severity": "minor",
+      "source": "그게 그러니까, 본인이 열세 살 때 가주 전에서 들었던 이야기였소."
+    },
+    {
+      "confidence": 1.0,
+      "current": "And was he not the absolute superior who held the priceless Water God Dragon’s corpse in both hands?",
+      "defect": "“Absolute superior” misreads 갑 as a rank or hierarchy. The source means Jin Wikyung has overwhelming bargaining leverage because he controls the valuable corpse.",
+      "id": "F07",
+      "rationale": "절대 갑 colloquially means the party with absolute leverage or power in a transaction; the corpse is the explicit reason for that advantage.",
+      "replacement": "Besides, with the priceless Water God Dragon’s corpse in his hands, was he not the one holding all the cards?",
+      "severity": "major",
+      "source": "게다가 무가지보(無價之寶)이라 할 수 있는 수신룡의 사체를 양손에 틀어쥔 절대 갑이 아닌가."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“That’s right. No one could have expected the Demon Cult’s elite Black Wind Corps, a thousand men strong, marching across Anhui, to be annihilated by a single person. Not even my grandfather.”",
+      "defect": "The established organization name is rendered as “Demon Cult” instead of “Demonic Cult.”",
+      "id": "F08",
+      "rationale": "마교 has the binding established rendering “Demonic Cult.”",
+      "replacement": "“That’s right. No one could have expected the Demonic Cult’s elite Black Wind Corps, a thousand men strong, marching across Anhui, to be annihilated by a single person. Not even my grandfather.”",
+      "severity": "minor",
+      "source": "맞소. 안휘성을 가로지르던 마교의 정예, 흑풍단(黑風團) 일천 명이 단 한 사람의 손에 의해 전멸할 줄은 그 누구도 예상치 못했소. 심지어는 내 조부께서도 마찬가지셨지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "On the day Mount Jiuhua was engulfed in flames, an unknown old man living in obscurity became known as the Fire King, while the Demon Cult lost an elite strike force that had accumulated countless achievements since the beginning of the Great Faction War.",
+      "defect": "The second occurrence of the established organization name is also rendered as “Demon Cult.”",
+      "id": "F09",
+      "rationale": "마교 has the binding established rendering “Demonic Cult.”",
+      "replacement": "On the day Mount Jiuhua was engulfed in flames, an unknown old man living in obscurity became known as the Fire King, while the Demonic Cult lost an elite strike force that had accumulated countless achievements since the beginning of the Great Faction War.",
+      "severity": "minor",
+      "source": "구화산이 화마에 휩싸인 그 날, 초야에 묻혀 살아가던 이름 모를 노인은 화왕(火王)이라 불리게 되었고 마교는 정마대전의 개전(開戰)이래 숱한 전공을 쌓아올린 정예 타격대를 잃었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He remembered a record concerning a one-person sect from our family’s documents written more than a hundred years ago.",
+      "defect": "The draft says the documents themselves were written more than a century ago, while the source says they recorded events from more than a century ago.",
+      "id": "F10",
+      "rationale": "백여 년 전의 일이 적힌 modifies the events recorded in the documents, not the date when the documents were written.",
+      "replacement": "He remembered a record about a one-person sect in our family’s archives, one describing events from more than a hundred years ago.",
+      "severity": "minor",
+      "source": "자그마치 백여 년 전의 일이 적힌 본가의 문헌에서, 어느 일인 문파에 관한 기록을 떠올리신 것도 마찬가지였지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Heh heh. It was a bold gamble, but it ultimately succeeded. Was it not a stratagem worthy of Zhuge Wuhou himself?”\n\nA weighty voice sank into Zhuge Feng’s ear as he casually slapped his family ancestor across the face.",
+      "defect": "The dialogue removes Zhuge Feng’s boast that the stratagem rivaled or surpassed Zhuge Wuhou’s, leaving the following literalized slap narration disconnected and nonsensical in English.",
+      "id": "F11",
+      "rationale": "제갈무후 뺨치는 means rivaling or outdoing Zhuge Wuhou and literally invokes striking his cheek; the narration deliberately extends that idiom into a joke about Zhuge Feng insulting his own ancestor.",
+      "replacement": "“Heh heh. It was a bold gamble, but it worked. It was a stratagem that would put even Zhuge Wuhou to shame, wouldn’t you say?”\n\nAs Zhuge Feng casually put his own clan’s ancestor to shame, a deep voice reached his ear.",
+      "severity": "major",
+      "source": "“후후, 과감한 모험이었지만 결국 성공했지. 실로 제갈무후 뺨치는 계책 아니오?”\n\n아무렇지 않게 가문 선조의 뺨을 후려치는 제갈풍의 귓가에, 묵직하게 가라앉은 누군가의 목소리가 파고들었다."
+    }
+  ],
+  "summary": "One critical quantity error, several altered physical or character details, a lost wordplay mechanism, and two established-terminology errors.",
+  "version": 1
+}

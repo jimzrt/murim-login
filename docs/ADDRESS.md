@@ -832,3 +832,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혁무진 | 문경 | traveling_companion_to_traveling_companion | Mungyeong | casual-familiar | Mujin recognizes Mungyeong while reacting to Taekyung's dismantling work. |
 | 진위경 | 장태보 | Lesser_Family_Head_to_elder_smith | Old Master Jang | respectful and formal | Wikyung thanks Jang for coming. |
 | 장태보 | 진위경 | elder_smith_to_Lesser_Family_Head | Lesser Family Head | respectful and deferential | Jang speaks with formal respect to Wikyung. |
+| 진위경 | 문경 | Jin Family Lesser Family Head to medical apprentice | you | formal-polite | Asks whether Jin Taekyung will arrive soon. |
