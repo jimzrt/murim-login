@@ -1494,3 +1494,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 적벽 | **Red Cliffs** | Site where the Sea Serpent Society's leaders and core members were killed. |
 | 동정어옹 | **Dongting Fisherman** | Publicly condemned the Yangtze River Channel League and disappeared three days before this chapter. |
 | 황 대협 | **Great Hero Hwang** | Great Hero of Donghu Stronghold whom Zhuge Feng distinguishes from other Stronghold Lords. |
+| 황충 | **Hwang Chung** | Lord of Donghu Stronghold, the Seafaring King's sworn brother, and the Yangtze One Saber. |
+| 장강일도 | **Yangtze One Saber** | Hwang Chung's sobriquet. |
+| 천령폭 | **Tianling Falls** | Dangerous waterway leading to Donghu Stronghold. |
+| 흑죽조간 | **Black Bamboo Fishing Rod** | The Dongting Fisherman's unique signature weapon, found broken. |

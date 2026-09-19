@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“I can state this with certainty: I do not believe the Yangtze River Channel League is the culprit in this matter. But every circumstance points toward your League.”",
+      "defect": "The draft turns Zhuge Feng’s lack of certainty into an affirmative belief that the League is not responsible, reversing his stated position.",
+      "id": "F01",
+      "rationale": "확신하지 않네 means he is not convinced or certain that the League is responsible, not that he believes it is innocent.",
+      "replacement": "“I can say this much with certainty: I am not convinced that the Yangtze River Channel League is behind this. But all the circumstantial evidence points to your League.”",
+      "severity": "critical",
+      "source": "단언컨대, 나는 장강수로맹이 이번 일의 흉수라고 확신하지 않네. 하지만 모든 정황이 귀 맹을 가리키고 있어."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The Dongting Fisherman and the late Sea Serpent Society Head were close friends. Enraged by his friend’s death, he publicly condemned your League and set sail across Tianling Falls.”\n\nZhuge Feng suddenly rose and began to walk leisurely.\n\nHe clicked his tongue softly at the fallen bookshelves, then continued speaking as he rummaged through the piles of books stacked high around him.\n\n“The very same Tianling Falls where we sank dozens of ships over the past month.”\n\n“But did you know this?",
+      "defect": "The draft moves Zhuge Feng’s reference to the dozens of sunken ships until after he stands and rummages through the books, changing the source’s action and dialogue sequence.",
+      "id": "F02",
+      "rationale": "In the source, Zhuge Feng finishes describing Tianling Falls and the sunken ships before he rises and searches through the books.",
+      "replacement": "“The Dongting Fisherman and the late Sea Serpent Society Head were close friends. Enraged by his friend’s death, he publicly condemned your League, launched a boat, and crossed Tianling Falls—the very same Tianling Falls where we sank dozens of ships over the past month or so.”\n\nZhuge Feng suddenly rose and began to walk leisurely.\n\nHe clicked his tongue softly at the fallen bookshelves, then continued speaking as he rummaged through the piles of books stacked high around him.\n\n“But did you know this?",
+      "severity": "critical",
+      "source": "동정어옹은 고인이 된 해사방주와 막역한 사이였네. 친우의 죽음에 격분하며 공개적으로 귀 맹을 지탄했고, 배를 띄워 천령폭을 넘었지. 지난 달포 동안 우리가 수십 척의 선박을 수장시킨 바로 그 천령폭 말일세.\n\n돌연 자리를 털고 일어난 제갈풍이 느긋하게 걸음을 옮겼다.\n\n무너진 책장을 보며 작게 혀를 찬 그가 높이 쌓인 책 무더기 사이를 뒤지며 말을 이었다.\n\n“하지만 그거 알고 있나?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“According to what Old Master—or rather, my Master—told me before, the Dongting Fisherman was a Supreme Peak master who belonged to neither the orthodox nor the demonic factions.”",
+      "defect": "“Old Master” makes Taekyung’s aborted 노 respectful and removes the comic register shift of catching himself before referring to his Master as an old man. The line also overstates 사 as the demonic faction rather than the unorthodox faction.",
+      "id": "F03",
+      "rationale": "The interrupted 노 followed by 아니 스승님 is a self-correction in address, while 정사 denotes the orthodox and unorthodox sides collectively.",
+      "replacement": "“According to what I once heard from the old—no, from my Master, the Dongting Fisherman was a Supreme Peak master who belonged to neither the orthodox nor unorthodox factions.”",
+      "severity": "major",
+      "source": "제가 예전에 노, 아니 스승님께 들은 바에 의하면 동정어옹은 정사 어디에서 속하지 않은 초절정 고수라고 알고 있습니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "It was unusual enough that he had never belonged to either the orthodox or demonic factions and had never left the area around Dongting Lake for his entire life.",
+      "defect": "The draft again conflates the unorthodox faction with the specifically demonic faction, changing the Dongting Fisherman’s stated political affiliation.",
+      "id": "F04",
+      "rationale": "정사 contrasts the orthodox and unorthodox camps; it does not identify the latter specifically as the Demonic Path.",
+      "replacement": "It was unusual enough that he had never belonged to either the orthodox or unorthodox factions and had never left the area around Dongting Lake in his entire life.",
+      "severity": "major",
+      "source": "정사 어디에도 몸담지 않은 채 일평생 동정호 인근을 벗어나지 않았다는 것도 특이하지만, 항상 지니고 다니는 한 자루의 낚싯대로 펼치는 고강한 무공은 무림에서도 유명했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Donghu Stronghold. He headed for the home of Donghu Stronghold, whose Stronghold Lord is the Yangtze One Saber, Great Hero Hwang Chung, whom I mentioned earlier. And he never appeared again.”",
+      "defect": "“The home of Donghu Stronghold” is an unnatural and ambiguous rendering of 본거지, which means the stronghold’s headquarters or main base.",
+      "id": "F05",
+      "rationale": "본거지 identifies the organization’s principal base, not a home belonging to the stronghold.",
+      "replacement": "“Donghu Stronghold. He headed for its headquarters, where the Yangtze One Saber, Great Hero Hwang Chung, serves as Stronghold Lord. And he never appeared again.”",
+      "severity": "minor",
+      "source": "동정채. 앞서 언급한 장강일도 황충 대협이 채주로 있는 동정채의 본거지로 향하셨지. 그리고 두 번 다시 모습을 드러내지 않았네."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Yangtze One Saber Hwang Chung.”",
+      "defect": "The unlisted name is romanized without explaining that Hwang Chung is the Korean reading of Huang Zhong, obscuring the immediately following Romance of the Three Kingdoms joke for English readers.",
+      "id": "F06",
+      "rationale": "The source deliberately gives the new character the same written name as the famous Three Kingdoms general, and Taekyung explicitly reacts to that coincidence.",
+      "replacement": "“Yangtze One Saber Hwang Chung.[^1]”\n\n[^1]: Hwang Chung is the Korean reading of Huang Zhong, a general from *Romance of the Three Kingdoms*.",
+      "severity": "minor",
+      "source": "장강일도(長江一刀) 황충."
+    }
+  ],
+  "summary": "Two scene-level fidelity errors alter Zhuge Feng’s stated certainty and the timing of his actions. Additional issues weaken Taekyung’s self-correction, conflate unorthodox factions with the Demonic Path, and obscure a historical name joke.",
+  "version": 1
+}
