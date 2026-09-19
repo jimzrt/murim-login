@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "I clenched my teeth and increased my speed.",
+      "defect": "The draft changes Taekyung biting his lip into clenching his teeth.",
+      "id": "F01",
+      "rationale": "입술을 질끈 깨문 explicitly describes biting down on his lip, not clenching his teeth.",
+      "replacement": "I bit down hard on my lip and increased my speed.",
+      "severity": "critical",
+      "source": "입술을 질끈 깨문 나는 속도를 더욱 높였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“They’re just not here. There are survivors somewhere much farther away than this. I know it.”",
+      "defect": "The draft turns Taekyung’s claim that the survivors are merely not visible into the stronger claim that they are not present.",
+      "id": "F02",
+      "rationale": "보이지 않을 뿐이야 means they merely cannot be seen; it does not itself assert their complete absence from the present area.",
+      "replacement": "“We just can’t see them. There are survivors somewhere much farther away than this. I know it.”",
+      "severity": "major",
+      "source": "“보이지 않을 뿐이야. 이곳보다 훨씬 더 먼 어딘가에 생존자가 있어. 분명히.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "They were making a desperate effort, but their numbers were woefully inadequate compared to the number of people who needed to be rescued.",
+      "defect": "The draft makes the rescuers’ head count inadequate, while the source says their desperate effort and available response are insufficient for the number of lives at risk.",
+      "id": "F03",
+      "rationale": "The implied subject of 턱없이 부족하다 is the preceding 필사적인 노력, not specifically the rescuers’ numerical strength.",
+      "replacement": "They were making a desperate effort, but it was woefully inadequate for the number of people who needed rescuing.",
+      "severity": "minor",
+      "source": "그들로서는 필사적인 노력이겠지만, 구해야 하는 인명의 숫자에 비해서는 턱없이 부족하다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No one answered. There were only rigid faces and the sound of our pace quickening.",
+      "defect": "The draft adds the sound of their acceleration, which the source does not mention.",
+      "id": "F04",
+      "rationale": "더욱 빨라진 속도 refers directly to their increased speed, not to a sound produced by it.",
+      "replacement": "No one answered. There were only rigid faces and an even faster pace.",
+      "severity": "minor",
+      "source": "대답은 없었다. 딱딱하게 굳은 얼굴들과 더욱 빨라진 속도만이 있을 뿐."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Shock and anger spread rapidly. Curses poured down from every side, accompanied by hostile, killing-intent-filled gazes.",
+      "defect": "The phrasing is unnatural and weakens the established term 살기 by splitting it into an awkward compound modified by the added adjective “hostile.”",
+      "id": "F05",
+      "rationale": "온갖 means all manner of, while 살기 어린 시선들 naturally means gazes filled or brimming with killing intent.",
+      "replacement": "Shock and anger spread rapidly. All manner of curses poured in from every side, along with gazes brimming with killing intent.",
+      "severity": "minor",
+      "source": "충격과 분노가 빠르게 전염된다. 사방에서 쏟아지는 온갖 욕설과 살기 어린 시선들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As I watched the time limit shrink by the second, I pushed all my internal energy and senses to their peak and ran across Dongting Lake, vast as an open sea.",
+      "defect": "The draft omits the deliberate repetition that emphasizes Taekyung’s prolonged, desperate search.",
+      "id": "F06",
+      "rationale": "달리고, 또 달렸다 explicitly repeats the action: he ran and kept running.",
+      "replacement": "As I watched the time limit shrink by the second, I pushed all my internal energy and senses to their peak and ran and ran across Dongting Lake, vast as an open sea.",
+      "severity": "minor",
+      "source": "시시각각 줄어드는 제한 시간을 바라보며 모든 공력과 감각을 최고조로 끌어올린 채 망망대해와도 같은 동정호를 달리고, 또 달렸다."
+    }
+  ],
+  "summary": "One altered physical action and several localized fidelity, register, and emphasis issues.",
+  "version": 1
+}

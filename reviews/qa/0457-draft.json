@@ -1,0 +1,39 @@
+{
+  "chapter": 457,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.18,
+    "source_characters": 5643,
+    "source_paragraphs": 178,
+    "translation_characters": 12299,
+    "translation_paragraphs": 168
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무림",
+        "preferred": "Murim"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "살기",
+        "preferred": "killing intent"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
