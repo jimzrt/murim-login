@@ -1672,3 +1672,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흰철갑상어 | **white sturgeon** | The shark-like fish left with the fisherman. |
 | 수상스키단 | **Shark Water-Ski Team** | Taekyung's joking name for the trained sharks traveling behind him. |
 | 잡으리 양식 | **Catch-'Em Fish Farm** | Taekyung's joking alternate name for the Shark Water-Ski Team. |
+| 하후검가 | **Hahou Sword Family** | Great family discussed as a possible participant in the war and New Murim Alliance. |
