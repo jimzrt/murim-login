@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The instant the Arch Lich faced the enormous fire dragon that burst from the spearhead, it realized.",
+      "defect": "“Realized” is left without an object or complement, producing unnatural and incomplete English.",
+      "id": "F01",
+      "rationale": "The Korean uses 깨달았다 to introduce the realization expressed by the following thought; English requires a natural complement here.",
+      "replacement": "The instant the Arch Lich faced the enormous fire dragon that burst from the spearhead, it realized the truth.",
+      "severity": "minor",
+      "source": "창날로부터 뛰쳐나온 거대한 화룡을 마주한 그 순간, 아크 리치는 깨달았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The fire dragon, blazing with hellfire, opened its jaws toward the Arch Lich, which had gone rigid without even feeling the pain.",
+      "defect": "The draft says the Arch Lich did not feel the pain, while the source says it had forgotten or become oblivious to the pain as it froze.",
+      "id": "F02",
+      "rationale": "고통도 잊은 채 describes pain being forgotten amid the shock, not an absence of sensation.",
+      "replacement": "The fire dragon, blazing with hellfire, opened its jaws at the Arch Lich, which had frozen in place, oblivious even to the pain.",
+      "severity": "major",
+      "source": "고통도 잊은 채 굳어 버린 아크 리치를 향해, 겁화로 타오르는 화룡이 아가리를 벌렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Arch Lich opened its red eye-lights wide and reached out, but no voice came from it, and the fire dragon swallowed the Gate—almost as large as itself—whole.",
+      "defect": "“Almost as large” changes the stated relative size of the Gate.",
+      "id": "F03",
+      "rationale": "제 몸만 한 means the Gate was as large as the fire dragon's body, not slightly smaller.",
+      "replacement": "The Arch Lich opened its red eye-lights wide and reached out, but no voice came from it, and the fire dragon swallowed the Gate—as large as itself—whole.",
+      "severity": "critical",
+      "source": "아크 리치는 붉은 안광을 부릅뜨며 손을 뻗었지만, 음성은 흘러나오지 않았고 화룡은 제 몸만 한 게이트를 그대로 집어삼켰다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Quit babbling, you dead bastard. Say, ‘Asmodeus is a fucking asshole.’”",
+      "defect": "The draft calls the Arch Lich already dead, whereas Jin mocks it for being about to die; it also drops the tentative challenge in 해 봐.",
+      "id": "F04",
+      "rationale": "곧 뒈질 explicitly marks imminent death, and 해 봐 means “try saying,” which sets up the Skeleton King mistakenly accepting the challenge.",
+      "replacement": "“Big talk from a bastard who’s about to croak. Try saying, ‘Asmodeus is a fucking son of a bitch.’”",
+      "severity": "critical",
+      "source": "“곧 뒈질 새끼가 헛소리는. 아스모데우스 개새끼 해 봐.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Countless System messages appeared before his eyes.",
+      "defect": "The draft omits that the sheer number of messages obscures Jin Taekyung’s vision.",
+      "id": "F05",
+      "rationale": "눈 앞을 가리는 conveys that the messages cover or block his view, not merely that they appear.",
+      "replacement": "Countless System messages obscured his vision.",
+      "severity": "minor",
+      "source": "눈 앞을 가리는 수많은 시스템 메시지들."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Skeleton King muttered the words quietly to itself. Then, as it began to move Jin Taekyung to a safe and comfortable place, it remembered one thing it had forgotten.",
+      "defect": "The draft makes the muttering potentially audible, while the source explicitly places it in the Skeleton King’s mind.",
+      "id": "F06",
+      "rationale": "마음속으로 explicitly means the words are spoken inwardly.",
+      "replacement": "The Skeleton King murmured inwardly. Then, as it began to move Jin Taekyung to a safe and comfortable place, it remembered something it had forgotten.",
+      "severity": "minor",
+      "source": "마음속으로 작게 중얼거린 스켈레톤 킹은, 진태경을 안전하고 편안한 자리로 옮기려다가 잊고 있던 한 가지를 떠올렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—“Hmm. This must be it.”",
+      "defect": "The categorical statement loses the casual uncertainty conveyed by 뭐.",
+      "id": "F07",
+      "rationale": "맞겠지, 뭐 is a hesitant, self-reassuring conclusion rather than a firm assertion.",
+      "replacement": "—“Hmm. I guess this is it.”",
+      "severity": "minor",
+      "source": "- 으음. 맞겠지, 뭐."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As it immediately headed toward Jin Taekyung, who lay collapsed on the ground, it did not know that at the moment Jin Taekyung lost consciousness after exhausting all his strength, something like black mist had entered the wind scattering in the distance.",
+      "defect": "The draft turns the entity into “black mist” rather than black energy resembling mist, obscuring the mechanism and its continuity with the following references to black energy.",
+      "id": "F08",
+      "rationale": "안개와도 같은 modifies 검은 기운: the substance is black energy, and mist describes its appearance.",
+      "replacement": "As it immediately headed toward Jin Taekyung, who lay collapsed on the ground, it did not know that the moment Jin Taekyung lost consciousness after exhausting all his strength, mist-like black energy had mingled with the wind scattering in the distance.",
+      "severity": "major",
+      "source": "모든 힘을 소진한 진태경이 의식을 잃은 순간, 저 멀리 흩어지는 바람 사이로 안개와도 같은 검은 기운이 섞여 들어갔다는 것을."
+    },
+    {
+      "confidence": 1.0,
+      "current": "One of the mages wiped the blood from her face with a bewildered expression.\n\nThe face of a comrade who had been smiling at her only moments ago had disappeared.",
+      "defect": "The draft invents a female gender for the mage even though the source leaves the character’s gender unspecified.",
+      "id": "F09",
+      "rationale": "The Korean provides no gendered pronoun or other information identifying the mage as female, while 서로를 향해 indicates that the two had been smiling at each other.",
+      "replacement": "One of the mages wiped the blood from their face with a bewildered expression.\n\nThe face of a comrade who had been smiling back at them only moments ago had disappeared.",
+      "severity": "critical",
+      "source": "마법사 중 하나가 어리둥절한 얼굴로 얼굴에 묻은 피를 닦았다.\n\n조금 전까지만 하더라도 서로를 향해 웃고 있던 동료의 얼굴이 사라져 있었다."
+    }
+  ],
+  "summary": "The draft contains three scene-fact changes involving size, imminent death, and an invented character gender, along with several localized fidelity and voice issues.",
+  "version": 1
+}
