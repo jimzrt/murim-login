@@ -1,6 +1,6 @@
 # Mu Song (무송)
 
-- **Safe through:** Chapter 436
+- **Safe through:** Chapter 438
 - **Aliases:** Ship-Fire Boy
 - **Role:** Lord of Water Dragon Stronghold, a Peak master and the Seafaring King's second martial Disciple who controls major Yangtze river traffic in Sichuan and belongs to the Yangtze River Channel League's moderate faction.
 - **Personality:** Ambitious, domineering, impatient with interruptions, and capable of pragmatic cooperation when circumstances demand it.
