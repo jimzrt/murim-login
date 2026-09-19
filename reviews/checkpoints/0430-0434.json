@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Three unconscious black shadows fell from the air in the distance, accompanied by faint impacts.",
+      "defect": "The three Hunters are called unconscious here, but Chapter 432 establishes that they remained conscious while paralyzed and watched Jin mutilate Go Jun.",
+      "id": "C01",
+      "rationale": "Removing “unconscious” preserves the action while making their condition consistent with the next chapter.",
+      "replacement": "Three black shadows fell from the air in the distance, accompanied by faint impacts.",
+      "severity": "major",
+      "source": "Chapter 431, Go Jun confrontation after Jin fires Finger Qi at the concealed Hunters"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Shao Yang. Shao Shen. Shao, Shao?*\n\nI had dismissed it because Xiao was a common Chinese surname, like Kim or Park in Korea, but now that I thought about it, their faces looked strangely similar, too.",
+      "defect": "The internal thought changes established “Xiao Shen” to “Shao Shen,” while the following sentence uses “Xiao.” The inconsistent romanization violates the terminology decision and makes the shared-surname realization incoherent on the page.",
+      "id": "C02",
+      "rationale": "This retains both binding English names and makes Jin’s delayed realization understandable despite their differing established romanizations.",
+      "replacement": "*Shao Yang. Xiao Shen. Shao… Xiao?*\n\nTheir surnames sounded almost identical, but I had dismissed it because Xiao was as common in China as Kim or Park was in Korea. Now that I thought about it, their faces looked strangely similar, too.",
+      "severity": "major",
+      "source": "Chapter 434, revelation that Chairman Shao Yang is Xiao Shen’s grandfather"
+    },
+    {
+      "confidence": 0.97,
+      "current": "\"Jin is using Ares Guild's leadership vacuum and Peace Guild's expected growth to encourage defections without openly declaring war.\",",
+      "defect": "The active state omits the durable fact that Go Jun survived, was grievously mutilated, and received Jin’s explicit demand that Ares Guild’s retaliation end with Lee Jungryong.",
+      "id": "C03",
+      "rationale": "Go Jun’s survival and the ultimatum are consequential unresolved continuity, already recognized in the checkpoint continuity section, and should persist in active state.",
+      "replacement": "\"Jin is using Ares Guild's leadership vacuum and Peace Guild's expected growth to encourage defections without openly declaring war.\",\n    \"Go Jun remains alive after Jin grievously mutilated him; Jin deliberately spared him and demanded that Ares Guild's retaliation end with Lee Jungryong.\",",
+      "severity": "major",
+      "source": "Durable state, active_continuity after the Ares Guild strategy entry"
+    },
+    {
+      "confidence": 0.96,
+      "current": "\"How will Magic Johnson respond to what he now knows about Jin and the magic circle?\",",
+      "defect": "This treats Magic Johnson’s response as unresolved even though Chapter 432 already shows him accepting Jin’s account of the killings, affirming their friendship, and agreeing to help him.",
+      "id": "C04",
+      "rationale": "Jin’s knowledge of the circle remains concealed, but Magic Johnson’s response to the disclosed killings has already been resolved.",
+      "replacement": "\"Will Jin eventually tell Magic Johnson where he saw the matching patterns and symbols?\",",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Countless people from different countries, speaking different languages and holding different nationalities, filled the ruins.",
+      "defect": "People do not naturally “hold” nationalities in contemporary English, and the phrasing is repetitive.",
+      "id": "C05",
+      "rationale": "The replacement preserves the international composition of the relief effort in cleaner commercial prose.",
+      "replacement": "Countless people of different nationalities, speaking different languages, filled the ruins.",
+      "severity": "minor",
+      "source": "Chapter 433, opening restoration broadcast"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The young reporter’s furious voice, raised in neglect of his duty as a journalist, was abruptly cut off by someone.",
+      "defect": "“Raised in neglect of his duty” is an unnatural, formal calque that clashes with the brisk narration.",
+      "id": "C06",
+      "rationale": "This preserves his lapse in professionalism and the abrupt interruption while restoring natural narrative rhythm.",
+      "replacement": "The young reporter had forgotten all journalistic restraint, his voice rising in fury—until someone abruptly cut him off.",
+      "severity": "minor",
+      "source": "Chapter 433, immediately before Jin interrupts the live report"
+    }
+  ],
+  "summary": "The reading copies largely maintain the established voice, terminology, uncertainty around the magic circle, and required formatting. Actionable issues are one cross-chapter continuity contradiction, one name-rendering inconsistency that disrupts a reveal, two durable-state defects, and two awkward English constructions.",
+  "version": 1
+}

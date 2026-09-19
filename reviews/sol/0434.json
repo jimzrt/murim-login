@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The compensation for the month-long war was such an astronomical sum that anything I earned from it could be treated as pocket change.",
+      "defect": "The comparison is reversed. The fifty-trillion bounty is the astronomical sum, while his separate compensation for the month-long war is what would look like pocket change beside it.",
+      "id": "F01",
+      "rationale": "The subject of 천문학적인 금액 is the bounty established in the preceding sentence, and 전쟁으로 얻게 될 보수 is explicitly the lesser amount.",
+      "replacement": "The bounty was so astronomical that the compensation I would receive for the month-long war would look like pocket change by comparison.",
+      "severity": "critical",
+      "source": "깜빡 잊고 있던 사실이었지만, 아크 리치의 목에 걸린 현상금은 무려 50조였다.\n\n한 달가량 이어진 전쟁으로 얻게 될 보수는 거스름돈 취급해도 될 만큼 천문학적인 금액."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Shao Yang. Xiao Shen. Xiao, Xiao?*",
+      "defect": "The two relatives are given visibly different surnames even though the reveal depends on their surnames being identical.",
+      "id": "F02",
+      "rationale": "Both names use 샤오, and Taekyung recognizes the shared surname immediately before learning that Shao Shen is Chairman Shao Yang’s grandson.",
+      "replacement": "*Shao Yang. Shao Shen. Shao, Shao?*",
+      "severity": "critical",
+      "source": "‘샤오 양, 샤오 쉔. 샤오, 샤오?’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Magic Johnson, who had watched the entire scene, clicked his tongue.",
+      "defect": "The physical action and its implication are reversed. Clicking one’s tongue suggests disapproval, whereas 입맛을 다셨다 means he smacked his lips, matching his attraction to Felix.",
+      "id": "F03",
+      "rationale": "The lip-smacking directly sets up his next line, “Charming,” and the ensuing exchange about his tastes.",
+      "replacement": "Magic Johnson, who had watched the entire scene, smacked his lips.",
+      "severity": "critical",
+      "source": "이 모든 광경을 지켜보던 매직 존슨이 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I have shown you respect. It shall never happen again, so consider it an honor to be remembered by your descendants. Until next time.”",
+      "defect": "The descendants are assigned the wrong role. Felix says Taekyung should regard the event as an honor for generations to come, not that Taekyung will be remembered by his descendants.",
+      "id": "F04",
+      "rationale": "대대손손 modifies how long the honor should be cherished; it does not say the descendants will remember Taekyung himself.",
+      "replacement": "“I have shown you respect. It shall never happen again, so let your family treasure the honor for generations to come. Until next time.”",
+      "severity": "critical",
+      "source": "「경의를 표한 것이다. 두 번 다시 없을 일이니 대대손손 영광으로 여기도록. 그럼 다음에 보도록 하지.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*The Case of My Acquaintance’s Younger Brother in China Turning Out to Be the Chinese Chairman’s Grandson.*",
+      "defect": "The title changes the relationship. 아는 동생 is a younger friend or junior Taekyung knows, not the younger brother of an acquaintance.",
+      "id": "F05",
+      "rationale": "Shao Shen himself is the younger acquaintance whom Taekyung met in China.",
+      "replacement": "*The Younger Friend I Made in China Turned Out to Be the Chinese Chairman’s Grandson.*",
+      "severity": "major",
+      "source": "이거 무슨 소설인가. ‘중국에서 만난 아는 동생이 중국 주석 손자였던 건에 대하여.’ 제목도 비현실적이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "For the first time, I felt as though I had returned to my place.",
+      "defect": "비로소 means “finally,” not “for the first time.” The current wording incorrectly implies that Taekyung has never previously felt at home with these people.",
+      "id": "F06",
+      "rationale": "The beat marks his return to a familiar sense of belonging after the ordeal, not the first occurrence of that feeling.",
+      "replacement": "It finally felt like I was back where I belonged.",
+      "severity": "major",
+      "source": "한 대 쥐어박으려다가 피식 실소가 터져 나왔다. 비로소 내 자리로 돌아온 것 같아서였다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Keep your chin up. I’ll ask Mr. Johnson to take a look next time.”",
+      "defect": "The translation makes the euphemistic request more explicit by implying a physical or medical examination. The source only says Choi will ask Johnson for help.",
+      "id": "F07",
+      "rationale": "잘 부탁해 보겠습니다 preserves the indirect comic euphemism and does not specify that Johnson will examine anything.",
+      "replacement": "“Keep your chin up. I’ll ask Mr. Johnson nicely next time.”",
+      "severity": "major",
+      "source": "“힘내십시오. 다음에 미스터 존슨에게 잘 부탁해 보겠습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It does not stand? I am an eunuch?”",
+      "defect": "The questions weaken the Skeleton King’s anguished assertions, and “an eunuch” is ungrammatical. The source uses the established euphemism 서다 and an emphatic lament.",
+      "id": "F08",
+      "rationale": "The source presents both clauses as despairing realizations rather than requests for confirmation.",
+      "replacement": "“It won’t stand… I’m a eunuch…”",
+      "severity": "major",
+      "source": "“서지 않는다니, 내가 고자라니…….”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "They say China is too large to be called a small nation, yet too narrow-minded to be called a Great Nation, but this old man was something else.",
+      "defect": "The rendering drops the 소국–대국–중국 wordplay and replaces 롸끈하시다, which praises the Chairman’s bold generosity, with the vague phrase “something else.”",
+      "id": "F09",
+      "rationale": "중국 literally supplies the joke’s middle term, while 롸끈하시다 is a playful pronunciation conveying that the Chairman is impressively freehanded.",
+      "replacement": "They say China is the Middle Kingdom because it’s too large to be a small nation and too narrow-minded to be a Great Nation, but this old man was damn generous.",
+      "severity": "major",
+      "source": "소국이라 하기에는 너무 크고, 대국이라 하기에는 속이 너무 좁아서 중국이라더니 이 할배는 아주 롸끈하시다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was the first thing Team Leader Choi said after stepping off the aircraft.",
+      "defect": "The draft omits that Team Leader Choi was the first person to disembark.",
+      "id": "F10",
+      "rationale": "가장 먼저 내린 explicitly establishes his order of disembarkation, separately from 처음으로 건넨 말.",
+      "replacement": "That was the first thing Team Leader Choi, the first to step off the aircraft, said to me.",
+      "severity": "minor",
+      "source": "항공기에서 가장 먼저 내린 최 팀장이 처음으로 건넨 말이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Please give me some warning before you turn on me.”",
+      "defect": "The current line loses the turn-signal and cutting-in metaphor that carries the joke.",
+      "id": "F11",
+      "rationale": "깜빡이 좀 켜고 들어오다 humorously likens Choi’s abrupt tonal swerve to a driver cutting into traffic without signaling.",
+      "replacement": "“Please use your turn signal before cutting in like that.”",
+      "severity": "minor",
+      "source": "“제발 깜빡이 좀 켜고 들어옵시다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“That brat was the one who insulted me the most, right?”",
+      "defect": "“Insulted me” suggests direct insults addressed to Taekyung, while 욕 제일 많이 했다 means Hayeon badmouthed or talked the most trash about him with the others.",
+      "id": "F12",
+      "rationale": "Choi’s answer confirms that Hayeon was egging their mother on in Taekyung’s absence rather than confronting him directly.",
+      "replacement": "“That brat badmouthed me the most, right?”",
+      "severity": "minor",
+      "source": "“저 녀석이 제 욕 제일 많이 했죠?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "A country’s size must be proportional to the size of its liver.",
+      "defect": "The literal “size of its liver” is opaque and unnatural in English, obscuring the Korean idiom connecting a large liver with audacity or gall.",
+      "id": "F13",
+      "rationale": "간이 크다 describes extraordinary nerve or brazenness; 국토 면적 supplies the parallel measure of physical size.",
+      "replacement": "A country’s landmass must be proportional to its people’s nerve.",
+      "severity": "minor",
+      "source": "국토 면적과 간의 크기가 비례하는 것이 틀림없다."
+    }
+  ],
+  "summary": "Multiple actionable fidelity errors alter a quantity comparison, the family-name reveal, physical actions, kinship, and several jokes or pragmatic cues.",
+  "version": 1
+}
