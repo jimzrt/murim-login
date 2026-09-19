@@ -1607,3 +1607,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 심각한 복통 | **Severe Stomachache** | Temporary System status abnormality caused by the poison. |
 | 아나스타샤 | **Anastasia** | Name invoked in Taekyung's exclamation. |
 | 김전일 | **Kindaichi** | Reference to the fictional detective. |
+| 취팔선권 | **Drunken Eight Immortals Fist** | Martial art that Cheongpung begins imitating after seeing it. |
