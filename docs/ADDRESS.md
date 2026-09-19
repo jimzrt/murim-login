@@ -715,3 +715,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | handler_to_patient_and_client | Mr. Jin | polite and deferential | Choi maintains a respectful professional register while relaying medical and political information. |
 | 샤오 양 | 진태경 | senior_political_leader_to_hero_and_guest | Mr. Jin | formal and directive | Shao addresses Jin as 진 선생 while briefing him before the press conference. |
 | 진태경 | 엄마 | son_to_mother | Mom | casual and startled | Jin cries out to his mother as she charges at him during the hospital visit. |
+| 진태경 | 샤오 쉔 | senior ally to junior subordinate | Shen | casual and commanding | Jin calls Xiao Shen 쉔아 while ordering him to deal with the Daspatch reporter. |
+| 샤오 쉔 | 진태경 | junior subordinate to respected senior ally | hyung | deferential and energetic | Xiao Shen addresses Jin as 형님. |
+| 진태경 | 매직 존슨 | allied Hunter to allied Grand Mage | Johnson | familiar and teasing | Jin repeatedly addresses Magic Johnson by his surname. |
+| 매직 존슨 | 진태경 | allied Grand Mage to allied Hunter | Jin | familiar and jocular | Johnson addresses Jin directly while discussing the Skeleton King's transformation. |
+| 스켈레톤 킹 | 진태경 | ally and insulting rival | vile human | mock-grandiose and insulting | The Skeleton King repeatedly calls Jin 간악한 인간. |

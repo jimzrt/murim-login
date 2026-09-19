@@ -1447,3 +1447,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중국 청년 소식지 | **China Youth News** | Chinese youth publication. |
 | 유엔 안전 보장 이사회 | **United Nations Security Council** | International body whose leaders and spokesperson address the victory. |
 | 종석 | **Jongseok** | The elder whom Jin jokingly calls Grandpa Jongseok. |
+| 다스패치 | **Daspatch** | News outlet whose reporter published the article about Jin's lifelong single status. |
+| 스톤-킹 | **Stone-King** | The Skeleton King's self-chosen human-world name. |
+| 쓰촨 | **Sichuan** | Variant spelling used for the region associated with the pattern Jin recognizes. |
+| 조지아주 애틀랜타 | **Atlanta, Georgia** | Claimed birthplace in the Skeleton King's proposed human identity. |
+| 카카오페이지 | **KakaoPage** | Web-fiction platform mentioned by Jin. |
