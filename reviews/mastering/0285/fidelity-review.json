@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "That settles the principal, so consult your Guild’s leadership about the remaining compound interest.",
+      "defect": "The term 'compound interest' introduces financial jargon not present in the Korean source, which only alludes to 'remaining interest' more generally; this is an added implication.",
+      "id": "F01",
+      "rationale": "Korean 원금 (principal) and 복리 이자 (compound interest) should be translated without extra financial connotations, preserving original intent.",
+      "replacement": "That settles the principal, so consult your Guild's leadership about the remaining interest.",
+      "severity": "minor",
+      "source": "Line 3"
+    },
+    {
+      "confidence": 1.0,
+      "current": "potential to grow without end",
+      "defect": "The Korean 잠룡 means 'Hidden Dragon' as a nickname; referring to it as an epithet is accurate, but 'potential to grow without end' adds interpretative expansion beyond the source.",
+      "id": "F03",
+      "rationale": "Preserves cultural nickname without added metaphorical commentary.",
+      "replacement": "potential, just like my epithet, the Hidden Dragon.",
+      "severity": "minor",
+      "source": "Line 67"
+    }
+  ],
+  "summary": "Faithful to source with minor terminology deviations.",
+  "version": 1
+}

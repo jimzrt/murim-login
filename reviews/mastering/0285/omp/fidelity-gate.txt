@@ -1,0 +1,65 @@
+{
+  "summary": "Faithful to source with minor terminology deviations.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 3",
+      "current": "That settles the principal, so consult your Guild’s leadership about the remaining compound interest.",
+      "defect": "The term 'compound interest' introduces financial jargon not present in the Korean source, which only alludes to 'remaining interest' more generally; this is an added implication.",
+      "replacement": "That settles the principal, so consult your Guild's leadership about the remaining interest.",
+      "rationale": "Korean 원금 (principal) and 복리 이자 (compound interest) should be translated without extra financial connotations, preserving original intent.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 45",
+      "current": "the mountain lord’s honor would hit the ground",
+      "defect": "Literal translation 'hit the ground' is an embellishment not in Korean; more faithful is 'would be ruined' or 'fall to the ground'.",
+      "replacement": "the mountain lord’s honor would be ruined",
+      "rationale": "Korean ‘땅에 떨어지고’ literally means 'fall to the ground', a Korean idiom for ruin or disgrace; the current phrasing is a slight embellishment changing idiomatic force.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 67",
+      "current": "potential to grow without end",
+      "defect": "The Korean 잠룡 means 'Hidden Dragon' as a nickname; referring to it as an epithet is accurate, but 'potential to grow without end' adds interpretative expansion beyond the source.",
+      "replacement": "potential, just like my epithet, the Hidden Dragon.",
+      "rationale": "Preserves cultural nickname without added metaphorical commentary.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 153 and 157",
+      "current": "\"Someone answered almost before it had begun ringing.\" and \"Team Leader Choi. The man himself.\"",
+      "defect": "The Korean source uses a conversational direct call-and-response format; current phrasing is somewhat close but reorganizes and condenses speech, losing some natural flow.",
+      "replacement": "Someone answered before the phone had even begun to ring. —Yes. This is Choi Minwoo.",
+      "rationale": "Preserving direct call and response closer mirrors Korean conversational style without rephrasing. The current is acceptable but slightly less faithful in form.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Line 193",
+      "current": "\"Treat him just enough, then dump him somewhere.\"",
+      "defect": "‘dump him somewhere’ adds a harshness not explicitly in the Korean; ‘somewhere out of sight’ or ‘put him away somewhere’ might be more precise.",
+      "replacement": "\"Treat him just enough, then put him somewhere out of sight.\"",
+      "rationale": "Maintains original implication without added harsh crudity.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "General terminology",
+      "current": "Absent glossary terms: Reward, Divine Physician, Human Butcher, Jintae, Song-i, the “tail”, Wuhan, romanized 'myeongdong' instead of established 'Myeongdong'",
+      "defect": "Multiple glossary entries from Korean were not used or footnoted as expected, reducing terminology consistency and potentially confusing readers.",
+      "replacement": "Use glossary terms 'Reward', 'Divine Physician', 'Human Butcher', 'Jintae', 'Song-i', 'the “tail”', 'Wuhan' consistently; replace 'myeongdong' romanization with 'Myeongdong' per accepted English usage and glossary.",
+      "rationale": "Adhering strictly to glossary terms ensures consistency and fidelity to project terminology standards.",
+      "confidence": 1.0
+    }
+  ]
+}

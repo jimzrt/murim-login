@@ -24,13 +24,13 @@ Once Lee Jungryong’s presence, which I could still sense in the distance, disa
 
 The moment I released the tension I’d held on to until the very end, all the strength drained from my body.
 
-I was tired. My clash with Lee Jungryong had left me with a slight Internal Injury, but the mental exhaustion was even worse.
+I was tired. My clash with Lee Jungryong had left me with a minor internal injury, but the mental exhaustion was even worse.
 
 *I really caused one hell of a mess today.*
 
-Today, I had made an S-rank Hunter recognized throughout the world and a colossal Guild my enemies.
+Today, I had made enemies of an internationally renowned S-rank Hunter and one of the world’s largest Guilds.
 
-It had been a precarious tightrope walk with a sheer, bottomless cliff as the stage.
+It had been a precarious tightrope walk over a sheer cliff.
 
 Lee Jungryong and I had met in the middle of that tightrope, and in the end, he had been the one to back down.
 
@@ -38,7 +38,7 @@ Lee Jungryong and I had met in the middle of that tightrope, and in the end, he 
 
 People with a lot to lose were bound to fear danger.
 
-If the tiger known as Lee Jungryong—or the tiger known as Ares Guild—were to fall, the mountain lord’s[^1] honor would hit the ground, and its carcass would become an excellent meal for the animals of the forest—in other words, its competitors.
+If the tiger that was Lee Jungryong and Ares Guild fell, the mountain lord’s[^1] honor would come crashing down, and its carcass would become a feast for the animals of the forest—in other words, its competitors.
 
 *Of course, the cleanest solution would’ve been Silencing the Witnesses, but…*
 
@@ -50,7 +50,7 @@ I wiped the blood from the corner of my mouth and thought.
 
 *Three steps.*
 
-Today, I had taken three steps back against Lee Jungryong.
+Today, Lee Jungryong had forced me back three steps.
 
 But today’s three steps would soon become two, and before long, two would become one.
 
@@ -68,7 +68,7 @@ Revenge for Im Kkeokjeong wasn’t the only thing I had gained from this inciden
 
 If we had been frightened into backing down when the Black Hunters first attacked, the Peace Guild would have remained just another mid-sized Guild. But because we had fought back, we had won both revenge and compensation. What came next would depend on Team Leader Choi.
 
-*He’ll handle it well.*
+*He’ll handle it.*
 
 A conversation I’d had with Team Leader Choi several hours earlier suddenly came to mind.
 
@@ -80,7 +80,7 @@ A conversation I’d had with Team Leader Choi several hours earlier suddenly ca
 
 “I can’t promise I’m not.”
 
-Song Song had called me crazy after hearing that, while Butler Kim had only stared at me in silence.
+Song Song had called me crazy, while Butler Kim had merely stared at me in silence.
 
 But Team Leader Choi had reacted differently.
 
@@ -102,7 +102,7 @@ What he said went far beyond anything I’d expected.
 
 “Are you really sure about this?”
 
-“I intend to make the Peace Guild the greatest Guild in the world. If we back down when one of our Guild members has been attacked, we can never become the best in the world.”
+“I intend to make the Peace Guild the greatest Guild in the world. If we back down after one of our Guild members is attacked, we’ll never reach the top.”
 
 “Then you really want me to…”
 
@@ -114,7 +114,7 @@ Team Leader Choi’s final words still seemed to echo vividly in my ears.
 
 I had repaid the boundless trust he’d placed in me.
 
-I had given Park Jihoon more than Im Kkeokjeong had suffered, and I had tacitly secured apologies and compensation from enemies no one could dare approach.
+I had inflicted even more on Park Jihoon than he had inflicted on Im Kkeokjeong, and I had secured tacit promises of apologies and compensation from enemies others wouldn’t dare challenge.
 
 *The greatest Guild in the world, huh?*
 
@@ -162,7 +162,7 @@ That was Lee Jungryong in Park Tae Seop’s eyes—a man he never wanted to face
 
 *So he’s human after all.*
 
-But the strange impression Park Tae Seop had felt vanished without a trace the moment they emerged from the long corridor and entered the hall.
+But that strange sense of wonder vanished without a trace the moment they emerged from the long corridor and entered the hall.
 
 “Welcome.”
 
@@ -182,7 +182,7 @@ He looked past the middle-aged man and spotted roughly a hundred Myeongdong Guil
 
 The middle-aged man answered in a dry voice.
 
-“We merely put them to sleep with sleep magic. For now.”
+“We merely put them to sleep with magic. For now.”
 
 *For now.*
 
@@ -206,7 +206,7 @@ An icy chill crept up Park Tae Seop’s spine.
 
 “Guild Master Park.”
 
-There was a blade hidden in Lee Jungryong’s gentle voice. It was as though venom dripped from the viper’s tongue every time it moved.
+A blade lay hidden within Lee Jungryong’s gentle voice. It was as though venom dripped from the viper’s tongue with every word.
 
 “Was it about twenty years ago? One day, you came to me and dropped to your knees without warning.”
 
@@ -220,7 +220,7 @@ Park Tae Seop clenched his teeth.
 
 How could he possibly forget? Nearly twenty years had passed, but the desperation he’d felt then remained etched into his bones.
 
-A string of massive business failures, debts totaling an enormous sum, and the looks people gave him as though they were staring at a failure…
+A string of failed business ventures. A staggering mountain of debt. The way people looked at him as though he were a failure…
 
 To Park Tae Seop, it had been a living hell worse than the Great Cataclysm.
 
@@ -228,7 +228,7 @@ After being turned away by countless acquaintances, he had finally sought out Le
 
 Lee Jungryong had gazed down at the kneeling Park Tae Seop and asked him a single question.
 
-*If I help you, what can you do for me?*
+*If I help you, what will you do for me?*
 
 Park Tae Seop had answered without hesitation.
 
@@ -276,7 +276,7 @@ Inside the descending elevator, Team Leader Seok spoke.
 
 “Who? Ah, Park Tae Seop.”
 
-“Yes. His expression looked rather uneasy.”
+“Yes. The look on his face made me uneasy.”
 
 “That man’s every thought shows on his face. He was obedient enough for the first few years, but once he got warm and well-fed, he began entertaining other ideas.”
 
@@ -326,7 +326,7 @@ It was certainly efficient, but if an unforeseen variable appeared, the entire p
 
 Lee Jungryong rubbed his tingling wrist.
 
-For a moment, he had felt tremendous heat and power radiating from the young man. It was far too strong to dismiss as some fresh-faced brat’s cute little display.
+For a moment, he had felt tremendous heat and power from the brat. It had been far too strong to dismiss as a mere trick from some green youngster.
 
 *He knew how to control mana properly. Where could a man who was only an F-rank Hunter until recently have learned…?*
 
@@ -342,7 +342,7 @@ Team Leader Seok had always been reliable. He was a born fighting prodigy and th
 
 But a question suddenly occurred to Lee Jungryong.
 
-Was Team Leader Seok really superior to Jin Taekyung?
+Could Team Leader Seok really defeat Jin Taekyung?
 
 “Team Leader Seok. No, Go Jun.”
 
@@ -354,7 +354,7 @@ Team Leader Seok understood the meaning immediately. If he had lacked even that 
 
 “Hmm. It’s nothing. I entertained an absurd thought for a moment.”
 
-Lee Jungryong clicked his tongue softly and walked out through the main entrance.
+Lee Jungryong clicked his tongue softly and walked through the main entrance.
 
 Five men and women were waiting outside the building, dressed in robes covered with elaborate patterns and carrying staffs.
 
@@ -384,9 +384,9 @@ They would remain there and maintain the illusion until the entire aftermath had
 
 Lee Jungryong glanced at Park Jihoon, who was being carried on the back of a Hunter from his security team, and casually tossed out an order.
 
-“Treat him just enough, then dump him somewhere.”
+“Treat him just enough to keep him alive, then dump him somewhere.”
 
-If he died, so be it. Even if he recovered, he would not be able to properly use even half of the skill he currently possessed.
+If he died, so be it. Even if he recovered, he would never again be able to display half his current strength.
 
 Lee Jungryong had no interest in collecting spent batteries. He already had countless others. All he had to do was replace this one.
 
@@ -394,9 +394,9 @@ Lee Jungryong had no interest in collecting spent batteries. He already had coun
 
 Through Park Jihoon, Lee Jungryong had confirmed the extent of Jin Taekyung’s ruthlessness.
 
-Once blood had been drawn, he should have killed him. If Lee Jungryong himself had been in that position, he would have done so without fail.
+Once blood had been spilled, he should have killed him. Lee Jungryong would certainly have done so.
 
-*You couldn’t take that one step.*
+*You couldn’t take that final step.*
 
 What did it matter if he cut off both arms and carved the man’s body to pieces? As long as his enemy still drew breath, it wasn’t complete revenge.
 
