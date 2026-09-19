@@ -805,3 +805,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 홍란 | 송 군관 | singing_courtesan_to_military_commander | Officer Song | sweet, deferential, and manipulative | Honglan uses the respectful title while enthralling him and issuing her first command. |
 | 곽봉출 | 문경 | elderly patient to treating medical apprentice | medical apprentice, sir | deferential and rustic | Gwak repeatedly addresses Mungyeong with respectful medical-apprentice honorifics. |
 | 문경 | 곽봉출 | medical apprentice to elderly patient | Elder | calm, polite, and firmly instructive | Mungyeong uses 노인장 while examining, calming, and directing Gwak. |
+| 향아 | 송 의원 | junior medical apprentice to senior physician | Physician Song | formal-polite and deferential | Hyang asks Song for his opinion and answers him respectfully. |
+| 송 의원 | 향아 | senior physician to junior medical apprentice | Hyang | familiar, admonishing, and paternal | Song questions Hyang about the rumor, orders her to answer, and later comforts her. |
