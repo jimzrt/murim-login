@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“What the hell are you talking about? Peng Dojin! Peng Dojin! The one who fought you to a standstill at the Star-Array Grand Banquet!”",
+      "defect": "“Fought you to a standstill” implies that their duel ended without a victor, contradicting both 접전, which means a close contest, and the immediately following clarification that Peng Dojin surrendered.",
+      "id": "F01",
+      "rationale": "The Thunderbolt Saber King inflates his grandson’s performance by calling it a close fight; he does not claim that Peng Dojin fought Taekyung to a draw.",
+      "replacement": "“What the hell are you talking about? Peng Dojin! Peng Dojin! The one who gave you a close fight at the Star-Array Grand Banquet!”",
+      "severity": "critical",
+      "source": "“무슨 개소리냐! 팽도진, 팽도진 말이다! 성라대연 때 네 녀석과 접전을 펼쳤던!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Peng boy, that remains true even after you grow old, so don’t get your hopes up. No matter how hard you try, you won’t Return to Youth like your grandfather. You’ll do nothing but grow old and die.”",
+      "defect": "The draft makes Peng Cheolhu the subject and implies that his grandfather Returned to Youth. Jeok Cheongang is still discussing Peng Dojin: the grandson will remain vulnerable even when older and, like his grandfather Peng Cheolhu, will fail to Return to Youth.",
+      "id": "F02",
+      "rationale": "The omitted subject is Peng Dojin, while 제 할아비 refers to Peng Dojin’s grandfather, Peng Cheolhu. The joke insults both generations without asserting that Peng Cheolhu’s own grandfather achieved rejuvenation.",
+      "replacement": "“Peng boy, it’ll still be the same when he gets older, so don’t get your hopes up. No matter how hard he tries, he’ll just end up like his grandfather—unable to Return to Youth, growing old and dying.”",
+      "severity": "critical",
+      "source": "“팽가야. 그건 나이 들어도 마찬가지니까 너무 기대는 하지 말거라. 아무리 해 봤자 제 할아비처럼 반로환동도 못하고 늙어 죽기밖에 더하겠느냐.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Organize the related matters and relay them. So Pyeong, Hwangso, and Jang Il-pal are to submit their reports within fifteen minutes.”",
+      "defect": "The reporting deadline is halved. 한 식경 is approximately half an hour, whereas fifteen minutes corresponds to 일각.",
+      "id": "F03",
+      "rationale": "The source specifies one sikgyeong—the time required to eat a meal—not one quarter of a shichen.",
+      "replacement": "“Organize the related matters and relay them. Have So Pyeong, Hwangso, and Jang Il-pal submit their reports within half an hour.”",
+      "severity": "critical",
+      "source": "“관련 안건 정리해서 옮겨. 소평, 황소, 장일팔은 한 식경 안으로 보고 올리도록.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The title of Thousand-Faced Fox was not something Song Ho had won at a card table.",
+      "defect": "The draft substitutes Song Ho’s epithet for the source’s administrative office. Taekyung is praising his competence as Chief of the Hidden Shadow Pavilion, not explaining how he earned the name Thousand-Faced Fox.",
+      "id": "F04",
+      "rationale": "은영각주 is the established office “Chief of the Hidden Shadow Pavilion”; 천면호리 is the separate epithet “Thousand-Faced Fox.”",
+      "replacement": "The post of Chief of the Hidden Shadow Pavilion was not something Song Ho had won at a card table.",
+      "severity": "major",
+      "source": "역시 은영각주라는 직함은 고스톱으로 딴 게 아니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*What the hell is that supposed to mean?*",
+      "defect": "The generic reaction omits the source’s crude, literal punchline contrasting words with a fart.",
+      "id": "F05",
+      "rationale": "The source deliberately uses the comic expression 말이야 방구야 rather than merely saying Mae Jonghak’s remark makes no sense.",
+      "replacement": "*Was that supposed to be words or a fart?*",
+      "severity": "minor",
+      "source": "저게 말이야 방구야."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Just as the Thunderbolt Saber King and the Azure Sky Sword King fell silent, unable even to get angry at Mae Jonghak’s completely unmalicious words, one of the largest and tallest pavilions I had seen in the Murim Alliance came into view.",
+      "defect": "“One of the largest and tallest” weakens the source’s superlative: this is the single largest and tallest pavilion Taekyung has seen in the Murim Alliance.",
+      "id": "F06",
+      "rationale": "가장 크고 높게 솟은 identifies the building as the largest and tallest encountered so far, not merely a member of that group.",
+      "replacement": "Just as the Thunderbolt Saber King and the Azure Sky Sword King fell silent, unable even to get angry at Mae Jonghak’s completely unmalicious words, the largest and tallest pavilion I had seen in the Murim Alliance came into view.",
+      "severity": "minor",
+      "source": "벽력도왕과 창천검왕. 두 사람이 한 치의 악의도 담겨 있지 않은 매종학의 말에 화도 못 내고 입을 다문 그때, 지금껏 무림맹에서 본 것 중 가장 크고 높게 솟은 전각 하나가 모습을 드러냈다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Something unfamiliar had been drawn in black ink.",
+      "defect": "“Unfamiliar” describes Taekyung’s recognition of the image, while 정체불명 deliberately says that the depicted thing’s identity is unknown.",
+      "id": "F07",
+      "rationale": "The source withholds the creature’s identity; the following sentence separately establishes that its appearance is unfamiliar to some and familiar to others.",
+      "replacement": "Something unidentifiable had been drawn in black ink.",
+      "severity": "minor",
+      "source": "검은 먹으로 그려진 정체불명의 무언가."
+    }
+  ],
+  "summary": "Three factual errors alter a duel’s outcome, the subject and logic of a Returned to Youth insult, and a reporting deadline. The draft also misidentifies Song Ho’s office and loses two localized source details.",
+  "version": 1
+}
