@@ -1891,3 +1891,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 발왕산 | **Mount Balwang** | Mountain near Pyeongchang and the site of the Monster Wave broadcast. |
 | 로댕 | **Rodin** | Sculptor referenced in Jin's joke about the shattered statue. |
 | 몬스터 재난 | **Monster Disaster** | App used to check the confirmed casualty list. |
+| 코드 레드 | **Code Red** | A designation authorizing lethal force against the target. |
+| 멀티 샷 | **Multi Shot** | The Security Team Leader's ten-arrow attack. |
+| 바인딩 | **Binding** | A restraining spell used by the mage unit. |
+| 타워 실드 | **Tower Shield** | Large defensive shields used by the tanks. |
