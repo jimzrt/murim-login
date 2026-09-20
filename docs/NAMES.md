@@ -1720,3 +1720,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 홍적 | **Hong Jeok** | The Fist King, an old martial artist from Guangxi who appears at the Murim Alliance. |
 | 모용영휘 | **Murong Yeonghwi** | A blood relative of the Murong Family regarded as an overwhelmingly powerful young prodigy. |
 | 복마전 | **demon-slaying battleground** | A possible description for Sichuan if Dark Heaven attacks it. |
+| 공동파 | **Kongtong Sect** | Sect belonging to the Nine Sects and One Gang. |
+| 귀주 | **Guizhou** | Region whose Murim representatives send a delegate. |
+| 복건 | **Fujian** | Region referenced in the title First Beauty of Fujian. |
+| 복건제일미 | **First Beauty of Fujian** | Honorific for the twelve-year-old daughter discussed by the visiting elder. |
+| 중원상회 | **Central Plains Commerce** | Trading company that seeks Taekyung and bribes Hyuk Mujin. |
+| 보이차 | **pu'er tea** | Tea served during the visitors' meetings. |
+| 미미보 | **Mimi Step** | Snake-inspired footwork technique created by Cheongpung. |
