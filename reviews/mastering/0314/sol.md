@@ -130,7 +130,7 @@ His lips were smiling, but his eyes were not.
 
 There was something in Baek Museong’s gaze that had nothing to do with martial arts.
 
-The aura—or perhaps the dignity—that belonged to him as a person.
+An innate force of character—or perhaps dignity.
 
 That seemed to be part of the reason Hyuk Sopyung could only grind his teeth without daring to answer.
 
@@ -158,7 +158,7 @@ At a time like this, when the Murim needed to unite just to stand a chance, star
 
 I already had bad blood with the Zhongnan Sect.
 
-As Three Hands of Zhongnan—and as the Roaring Fury Swordsman.
+With the Three Hands of Zhongnan and the Roaring Fury Swordsman.
 
 *Old Master thoroughly thrashed him and sent him packing a year ago.*
 
@@ -176,7 +176,7 @@ Especially not while Jeok Cheongang was unconscious.
 
 *Good job. This is how you become an adult.*
 
-It was such a calm response that I wanted to praise myself.
+My response had been so calm and mature that I wanted to praise myself.
 
 But Hyuk Sopyung, the Zhongnan One Dragon, disagreed.
 
@@ -216,7 +216,7 @@ Hiss—grab!
 
 Hyuk Sopyung hurriedly altered his sword’s path, but I caught him by the wrist.
 
-The Extreme Yang qi concentrated in my hand made a sizzling sound as his flesh burned.
+The Extreme Yang qi concentrated in my hand sizzled as it burned his flesh.
 
 “Gaaah!”
 
@@ -278,7 +278,7 @@ Hyuk Sopyung’s bloodshot eyes widened, and his body began to tremble.
 
 “The Fire Gate Clan…!”
 
-“Disciples! There are two of them!”
+“Two members! That’s all!”
 
 “Sleeping Dragon of Shanxi—you’re Jin Taekyung!”
 
@@ -292,7 +292,7 @@ After watching his expression for a moment, I grinned and gave his crumpled coll
 
 “……”
 
-“Strange. No answer. Maybe you’ll be able to hear me after about ten slaps.”
+“That’s strange. No answer. Maybe you’ll be able to hear me after another ten slaps.”
 
 I slowly raised my palm.
 
@@ -314,7 +314,7 @@ After glaring one last time at me, Baek Museong, and the middle-aged martial art
 
 Just as he was about to leave, Baek Museong spoke.
 
-“I’m reminded of a boy I met at a Huashan–Zhongnan gathering ten years ago.”
+“You remind me of a boy I met at the Huashan–Zhongnan gathering ten years ago.”
 
 “……!”
 
@@ -324,11 +324,11 @@ Hyuk Sopyung froze at Baek Museong’s calm voice. Then he left the private anne
 
 Hyuk Sopyung’s presence receded into the distance.
 
-At the same time, someone began creeping toward us.
+At the same time, I heard someone else creeping closer.
 
 “Come out.”
 
-At my words, someone sucked in a startled breath.
+Someone sucked in a startled breath.
 
 A moment later, Cheongpung poked his head out, his cheeks puffed up like a squirrel’s.
 
