@@ -1,0 +1,146 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The closer one gets to one's destination, the more difficult things become. It was human instinct.",
+      "defect": "The draft omits the explicit several-fold increase expressed by 몇 배로 and turns the single causal observation into an unnatural fragment.",
+      "id": "F01",
+      "rationale": "몇 배로 means several times or many times harder, not merely more difficult.",
+      "replacement": "It was human nature for things to feel several times harder the closer one got to one's destination.",
+      "severity": "minor",
+      "source": "목적지가 가까워질수록 몇 배로 힘들어지는 것은 인간의 본능이고,"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The river poured out along with the water plants clinging to my bloated body.",
+      "defect": "The draft makes the river itself pour out of him; the source describes river water and the plants cascading off his swollen body.",
+      "id": "F02",
+      "rationale": "강물과 함께 modifies the plants falling away with the river water; it does not mean the river itself pours out.",
+      "replacement": "River water and the plants clinging to my bloated body came pouring off me.",
+      "severity": "minor",
+      "source": "퉁퉁 불어 있던 몸뚱어리에 달라붙어 있던 수초(水草)가 강물과 함께 쏟아져 내린다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Exhausted, I blinked. The crowd gathered like a bank of clouds at the distant ferry landing, along with several familiar faces, was rapidly drawing closer.",
+      "defect": "The sentence has broken subject-verb agreement and awkwardly treats the familiar faces as something separate from the crowd.",
+      "id": "F03",
+      "rationale": "The source presents a distant crowd containing several recognizable faces as Taekyung approaches the landing.",
+      "replacement": "Exhausted, I blinked. The crowd gathered like a bank of clouds at the distant ferry landing was rapidly drawing closer, and I could make out several familiar faces among them.",
+      "severity": "minor",
+      "source": "나는 기진맥진한 채 눈을 깜빡였다. 저 멀리 나루터에 구름처럼 모여든 군중과, 몇몇 익숙한 얼굴들이 빠르게 가까워지고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Wikyung, who was practically in tears.",
+      "defect": "The draft substantially softens Jin Wikyung's reaction from nearly wailing or sobbing aloud to merely having tears in his eyes.",
+      "id": "F04",
+      "rationale": "통곡 denotes loud, unrestrained weeping, making this a stronger emotional and comic beat than being in tears.",
+      "replacement": "Jin Wikyung, who was practically bawling his eyes out.",
+      "severity": "major",
+      "source": "거의 통곡하는 중인 진위경."
+    },
+    {
+      "confidence": 0.95,
+      "current": "It wasn't a flame. It was closer to someone's pupil.",
+      "defect": "The anatomical singular “pupil” gives the wrong image; the source compares the red light to someone's eye or eyes.",
+      "id": "F05",
+      "rationale": "눈동자 here evokes an watching eye, reinforced immediately by 안광 staring at him, rather than a disembodied pupil.",
+      "replacement": "It wasn't a flame. It looked more like the glow of someone's eyes.",
+      "severity": "minor",
+      "source": "불꽃이 아니다. 그것은 차라리 누군가의 눈동자에 가까웠다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“It has been about forty years… No, wait. Could you please listen to me, Benefactor?”",
+      "defect": "The draft drops 족히, which stresses that it has been a full forty years or more and sharpens Jung Ho's bewildered correction.",
+      "id": "F06",
+      "rationale": "족히 expresses a minimum or ample amount, not a neutral approximation.",
+      "replacement": "“A good forty years, at least… No, wait. Could you please listen to me, Benefactor?”",
+      "severity": "minor",
+      "source": "족히 사십 년 정도…… 아니, 잠깐 제 말을 들어 주시겠습니까. 시주."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“…I am the Master of the Discipline Hall at Shaolin.”",
+      "defect": "The established office title is not used.",
+      "id": "F07",
+      "rationale": "계율원주 is bindingly established as “Discipline Hall Master.”",
+      "replacement": "“…I am Shaolin's Discipline Hall Master.”",
+      "severity": "minor",
+      "source": "……소림에서 계율원주를 맡고 있지요."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He clearly wanted to give me a piece of his mind, but was holding back because I had received his help.",
+      "defect": "The beneficiary of the prior help is reversed. Jung Ho is restraining himself because he has received help, not because Taekyung received help from him.",
+      "id": "F08",
+      "rationale": "The omitted subject of 받은 is Jung Ho, whose expression and restraint are being described throughout the sentence.",
+      "replacement": "He clearly wanted to give me a piece of his mind, but was holding back because he owed me for the help he'd received.",
+      "severity": "major",
+      "source": "마음 같아선 한소리 하고 싶은데, 그래도 받은 도움이 있어서 참는다는 기색이 역력했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*But why was the Master of Shaolin's Discipline Hall beside me the moment I opened my eyes?*",
+      "defect": "The narration again fails to use the established office title.",
+      "id": "F09",
+      "rationale": "계율원주 is bindingly established as “Discipline Hall Master.”",
+      "replacement": "*But why was Shaolin's Discipline Hall Master beside me the moment I opened my eyes?*",
+      "severity": "minor",
+      "source": "‘그런데 왜 눈 뜨자마자 소림사 계율원주가 옆에 있지.’"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“I told you to brush your teeth before bed. You damn beggar, your mouth is practically a swamp. A fucking swamp.”",
+      "defect": "The draft adds a second strong profanity absent from the repeated punch line, intensifying the register and weakening the source's blunt repetition.",
+      "id": "F10",
+      "rationale": "The profanity belongs to 거지 새끼 and Taekyung's overall delivery; the final 늪이야, 늪 is emphatic repetition rather than a separate explicit 좆/씨발-level curse.",
+      "replacement": "“I told you to brush your teeth before bed. You damn beggar, your mouth is a swamp. A goddamn swamp.”",
+      "severity": "minor",
+      "source": "“내가 이 닦고 자랬지. 이 거지 새끼는 아가리가 아주 그냥 늪이야, 늪.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Because of these idiots, I had even dreamed—a kind of dream I usually didn't have. And it had been an unpleasant nightmare at that.",
+      "defect": "The draft changes the point from Taekyung rarely dreaming at all to this being an unusual kind of dream.",
+      "id": "F11",
+      "rationale": "평소에는 잘 꾸지도 않는 modifies 꿈 generally: he normally seldom dreams.",
+      "replacement": "Because of these idiots, I'd even had a dream when I hardly ever dreamed at all—and an incredibly unsettling nightmare at that.",
+      "severity": "minor",
+      "source": "이놈들 때문에 평소에는 잘 꾸지도 않는 꿈까지 꿨다. 그것도 찝찝하기 짝이 없는 악몽을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No wonder I had wondered why I could sense two presences.",
+      "defect": "The doubled “wonder” is unnatural and blurs the source's realization that the visitor explains the second presence.",
+      "id": "F12",
+      "rationale": "어쩐지 marks a present realization—“so that was why”—followed by his earlier question about the two presences.",
+      "replacement": "That explained it. I'd been wondering why I could sense two presences.",
+      "severity": "minor",
+      "source": "어쩐지. 느껴지는 기척이 왜 두 개인가 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A rough voice emerged from between the lips of a striking monk I had never seen before.",
+      "defect": "“Striking” can mean attractive or merely notable and fails to convey 인상파, which describes the scarred monk as fierce or intimidating-looking.",
+      "id": "F13",
+      "rationale": "In context, 인상파 refers to his formidable, intimidating appearance, not aesthetic attractiveness.",
+      "replacement": "A rough voice came from the lips of the fierce-looking monk I had never seen before.",
+      "severity": "major",
+      "source": "난생처음 보는 인상파 승려의 입술 사이로 거친 목소리가 흘러나왔다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Fortunately. Though the heavens have grown dim, the Morning Star that rose in the north seems to have grown even brighter.”",
+      "defect": "“Fortunately” is an unnatural sentence fragment and does not function as Unnamed's expression of relief or gladness.",
+      "id": "F14",
+      "rationale": "다행입니다 is a personal expression of relief—“I am glad” or “What a relief”—while the following sentence contrasts the dim heavens with the brighter Morning Star.",
+      "replacement": "“I am glad. Though the heavens have grown dim, the Morning Star that rose in the north seems to shine even brighter.”",
+      "severity": "minor",
+      "source": "“다행입니다. 비록 하늘을 흐려졌으나, 북쪽에서 떠오른 신성(新聲)은 더욱 밝아진 듯하군요.”"
+    }
+  ],
+  "summary": "Two meaningful subject/register defects, several localized fidelity issues, and terminology/natural-English corrections.",
+  "version": 1
+}

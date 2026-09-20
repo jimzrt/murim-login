@@ -1,16 +1,17 @@
 # Translation State
 
-- Last completed: 515
-- Next chapter: 516
-- Current block: 515–519 (1/5)
-- Latest translation: `translations/0515.md`
-- Latest summary: `summaries/beats/0515.md`
-- Safe profiles through: chapter 515
+- Last completed: 516
+- Next chapter: 517
+- Current block: 515–519 (2/5)
+- Latest translation: `translations/0516.md`
+- Latest summary: `summaries/beats/0516.md`
+- Safe profiles through: chapter 516
 
 ## Current Block
 
-- At the ferry landing, Sama Pyo watches the Jin Family of Taiyuan's arrival draw cheers from the crowd. He and Jung Ho exchange guarded words until the unidentified conical-hatted monk reveals that he is Jung Ho's young Martial Uncle, orders Sama Pyo to return the stolen sword, and warns that Henan will tolerate no disturbances before departing.
-- While traveling toward the ferry landing, Jung Ho and Unnamed discuss the Black Dragon Demon Gate's history and influence. Unnamed recalls Hong Dao's death, his three months of treatment and training in Repentance Cave, the enlightenment he gained, and his resolve to carry on his Master's will. At the ferry landing, he hears a familiar desperate voice and recognizes the northern Morning Star as having arrived.
+- Jin Taekyung nearly drowns after ten days of exhausting travel toward Henan, but Jeok Cheongang rescues him and reunites him with the waiting group. Taekyung completes Stage 2 of Fake Murim Practitioner, achieves the rare achievement Single Reed Crossing the River, improves his internal-energy control and attributes, gains 50 bonus points and a large amount of EXP, and levels up.
+- After falling asleep, Taekyung experiences a nightmare in which he is forced into a swamp toward a familiar-feeling red gaze and is strangled by a gigantic snake before a radiant light dispels the darkness. He awakens in a Shaolin room with Cheongpung, Gung Gibang, Hyuk Mujin, and Jung Ho, and learns that Mimi has grown dramatically.
+- Jung Ho reveals himself as Shaolin's Discipline Hall Master and is recognized by Taekyung as Park Jung Ho, a former Garam Middle School classmate. Jung Ho then introduces his Martial Uncle, whose scarred appearance and rough voice conceal Unnamed, who greets Taekyung with a cryptic reference to the Morning Star.
 
 ## Open Questions
 
@@ -18,7 +19,7 @@
 - What is the Lord of Heaven's identity, and how is he connected to the dangerous force Taekyung associates with his original world?
 - Where is the Southern Heaven Demon Empress ultimately headed, and what does she intend to do in Yunnan?
 - Will the Nanman Beast Palace, North Sea Ice Palace, Yangtze River Channel League, and Green Forest Alliance support, ignore, or oppose the New Murim Alliance?
-- Who is the rightful owner of the sword Sama Pyo was ordered to return?
+- What is the source of the familiar red gaze and oppressive presence Taekyung encountered in his nightmare?
 
 ## Exceptional Decision
 

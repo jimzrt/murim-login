@@ -1,0 +1,47 @@
+{
+  "chapter": 516,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.161,
+    "source_characters": 6065,
+    "source_paragraphs": 207,
+    "translation_characters": 13104,
+    "translation_paragraphs": 201
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대사",
+        "preferred": "Master for a senior Buddhist monk"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "계인",
+        "preferred": "Buddhist precept seals"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진맥",
+        "preferred": "take one's pulse"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
