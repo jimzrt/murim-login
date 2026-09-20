@@ -38,7 +38,7 @@ I had finished handing out the food and was about to leave the underground priso
 
 “And if you have something to ask, am I obligated to answer?”
 
-But the Heavenly Power Demon, seized by an inexplicable desperation, refused to back down. Wearing scraps of what might once have been called clothing, he opened his mouth with a gleam in his eyes.
+But the Heavenly Power Demon, seized by some inexplicable desperation, refused to back down. Clad in scraps of cloth that might once have been called clothing, he looked at me with gleaming eyes.
 
 “The Divine Cult. What has become of the Divine Cult?”
 
@@ -52,7 +52,7 @@ The different names used by the two sides had confused me for a moment.
 
 To most Murim warriors, myself included, it was *your* Demonic Cult. But to members of the Demonic Cult, it could only be *our* Divine Cult.
 
-Especially for the Heavenly Power Demon standing before me. Wasn’t he a fiend whose notoriety had once been considerable even among the Demonic Cult’s members?
+And the Heavenly Power Demon before me had been notorious even among the Demonic Cult’s fiends.
 
 “What, have you been locked up so long that you’re feeling homesick?”
 
@@ -76,13 +76,13 @@ The Heavenly Power Demon stared at me as if he couldn’t understand.
 
 “My dantian may be ruined, but these old ears still work.”
 
-“You’re quite spry for a man old enough to have one foot in the grave. How much do you know?”
+“You’re awfully sharp for a man with one foot in the grave. How much do you know?”
 
 “Only that the Fire King is here to have his injuries treated.”
 
 “Hmm.”
 
-He was a rather perceptive old man.
+He was a perceptive old man.
 
 Cheongpung had mentioned Jeok Cheongang’s name several times, but never loudly enough for the other prisoners to hear. Even if the Heavenly Power Demon had overheard him, it would have been difficult to infer the circumstances from those conversations alone.
 
@@ -94,7 +94,7 @@ I found myself growing slightly interested in the old man before me.
 
 “But why are you so curious about news of the Demonic Cult? You’ve been imprisoned for ages.”
 
-“It has been more than forty years.”
+“It has been nearly forty years now.”
 
 “The Great Faction War was already over by then. Don’t you have a general idea of what happened?”
 
@@ -116,7 +116,7 @@ Despite my curt response, I was secretly surprised.
 
 From the bits and pieces I had picked up, the Demonic Cult had immensely powerful fiends known as the Ten Elders or the Seven Elders or something like that.
 
-I had assumed he wasn’t an ordinary fiend after seeing him piss all over the Kunlun Sect’s signboard. But I had never imagined that the shabby old man waiting to die in an underground prison had once been an Elder of the Demonic Cult.
+I had assumed he wasn’t an ordinary fiend from the moment I heard he had pissed on the Kunlun Sect’s signboard. But I had never imagined that the shabby old man waiting to die in an underground prison had once been an Elder of the Demonic Cult.
 
 “You knew nothing about this old man, I suppose.”
 
@@ -132,9 +132,9 @@ As the Heavenly Power Demon let out a hollow, self-mocking laugh, I leaned again
 
 “I don’t know. Something about this feels off.”
 
-“This old man has already passed his ninetieth year. Both body and spirit are exhausted. This is the final request of an old man who has already been given his day to die.”
+“This old man is past ninety, and both body and spirit are exhausted. This is the final request of an old man whose days are already numbered.”
 
-“The request of a fiend who committed all kinds of atrocities, you mean.”
+“The request of a fiend who committed every atrocity imaginable, you mean.”
 
 “Atrocities…”
 
@@ -142,7 +142,7 @@ The Heavenly Power Demon continued in a clear voice.
 
 “I will gladly pay for the lives I have taken. But what, exactly, makes something demonic? The Divine Cult and your people opposed each other for many years, each standing by its own convictions. We merely lost the struggle in which we staked our fate. That is all.”
 
-The Heavenly Power Demon continued in a clear voice, almost lamenting.
+His voice took on a note of lament.
 
 “Can that alone determine who was right and who was wrong? The world back then was like a powder keg that could explode at any moment. Had your side crossed Gansu and Qinghai first and reached the Divine Cult, you would have slaughtered our followers beneath the paltry excuses of serving the greater good and rooting out evil at its source.”
 
@@ -180,11 +180,11 @@ Would the Roaring Fury Swordsman and the Taeeul Merciless Sword have spared ordi
 
 For a moment, those two men overlapped with the Heavenly Power Demon in my mind.
 
-Who was white, and who was black? Was there something unknown hidden in the history that had already passed?
+Who was white, and who was black? Was there something buried in the history that had passed?
 
 *Damn it. I don’t know.*
 
-I bit my lip hard and pulled my back away from the cold wall.
+I bit my lip and pushed myself away from the cold wall.
 
 “There’s no point telling me any of that.”
 
@@ -206,7 +206,7 @@ And with a possible connection between the Demonic Cult and Dark Heaven now unde
 
 The Central Plains was not called the center of the world for nothing.
 
-Unlike the orthodox Murim, which had recovered a considerable portion of its losses by absorbing the region’s abundant resources, goods, and population like a sponge, the Demonic Cult had been forced into the Tianshan Mountains while bearing the full weight of its tremendous losses.
+The orthodox Murim had absorbed the region’s abundant resources, goods, and population like a sponge, recovering much of what it had lost. The Demonic Cult, by contrast, had been forced to bear the full weight of its tremendous losses as it retreated into the Tianshan Mountains.
 
 “……Of course. It was a war in which the Divine Cult mobilized its full strength.”
 
@@ -224,19 +224,19 @@ He muttered under his breath, a self-mocking smile touching his lips.
 
 I nodded as if it were obvious.
 
-“I don’t know much about the Qilian Three Fiends, but I know the Yin-Yang Twin Ghosts.”
+“I don’t know the Qilian Three Fiends, but I know the Yin-Yang Twin Ghosts.”
 
 “How can someone who has never even heard this old man’s title know of the Yin-Yang Twin Ghosts?”
 
-“Well, you see…”
+“Well…”
 
-I scratched the back of my head and continued.
+I scratched the back of my head.
 
 “I tend to remember the title of anyone I’ve fought. Especially masters of that caliber.”
 
 “……W-what? You fought the Yin-Yang Twin Ghosts?”
 
-“Technically, I only fought one of them—the Yang Ghost. Our Old Master—no, Master—killed the Yang Ghost. The Yin Ghost was killed by some crazy bastard and followed his friend to the afterlife. Anyway, do these fucking bastards think Henan is Gotham City…?”
+“Technically, I only fought one of them—the Yang Ghost. Our Old Master—no, my master—killed the Yang Ghost. The Yin Ghost was killed by some crazy bastard and followed his friend into the afterlife. Seriously, do these fucking bastards think Henan is Gotham City or something…?”
 
 “……!”
 
@@ -254,11 +254,11 @@ The only outsider he ever spoke to was Old Man Gung.
 
 *Not that the old man is the type to explain things out of kindness.*
 
-Not unless he considered severing tendons a form of kindness.
+He might kindly sever someone’s tendons, though.
 
 After a moment’s thought, I decided to tell him the truth.
 
-The Heavenly Power Demon had no chance of leaving the underground prison before his death anyway.
+The Heavenly Power Demon would never leave the underground prison before he died anyway.
 
 Besides, Dark Heaven’s existence had once been top secret, but word was already spreading among the major sects. Telling him would cause no harm.
 
@@ -288,7 +288,7 @@ Hurried footsteps approached, and a familiar face appeared.
 
 “B’factor! B’factor! Try this too! It’s delish!”
 
-“What’s with all the ‘B’factors’? Are you looking for the police chief who lives in Namcheon-dong?”
+“Why do you keep going ‘b’factor, b’factor’? Are you looking for Chief Seo from Namcheon-dong?”
 
 “B’factor!”
 
@@ -296,7 +296,7 @@ Hurried footsteps approached, and a familiar face appeared.
 
 “It’s weally delish!”
 
-Cheongpung had stuffed both cheeks full of snacks, and he was still carrying an armful of food wrapped in paper.
+Cheongpung had stuffed both cheeks full of snacks, yet he still carried an armful of food wrapped in paper.
 
 I pulled out a nicely roasted duck leg and was about to sink my teeth into it when I remembered the man I had momentarily forgotten and held it out to him.
 
