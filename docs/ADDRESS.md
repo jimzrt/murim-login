@@ -859,3 +859,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 황보악 | 백우 | longtime_friends_and_fellow_Ten_Dragons_and_Phoenixes_members | you | familiar and argumentative | Hwangbo challenges Baek's submission to Taekyung's reputation. |
 | 주화란 | 황보악 | Young_Bureau_Head_to_Ten_Dragons_and_Phoenixes_member | Young Hero Hwangbo | formal-polite | Hwaran politely asks whether something is wrong. |
 | 황보악 | 주화란 | admirer_to_Young_Bureau_Head | Young Lady Ju | formal-polite and deferential | Hwangbo addresses Hwaran while concealing his irritation. |
+| 궁기방 | 황보악 | fellow_Ten_Dragons_and_Phoenixes_member | you | familiar-polite | Gung Gibang uses 자네 when asking Hwangbo what he is doing outside Gowolru. |
+| 황보악 | 진태경 | fellow_Ten_Dragons_and_Phoenixes_member | you; damned bastard | angry-insulting | Hwangbo reacts to Taekyung's barefoot-running joke with 이 빌어먹을 놈. |

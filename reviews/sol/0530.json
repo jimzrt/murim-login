@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "So that was what he meant.\n\nWhen he said something serious might happen, he had meant something genuinely serious.",
+      "defect": "The draft omits Taekyung’s profane reversal of his earlier affection, weakening both his voice and the punchline.",
+      "id": "F01",
+      "rationale": "기특하긴 시벌 explicitly repudiates Taekyung’s thought that Hyuk Mujin was being endearing, with strong profanity, before continuing the 큰일 wordplay.",
+      "replacement": "Endearing, my ass.\n\nWhen he said something serious might happen, he’d meant a real emergency.",
+      "severity": "major",
+      "source": "기특하긴 시벌.\n\n큰일 날 것 같다고 한 게 진짜 큰일 말하는 거였네."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Gung Gibang and I were momentarily left speechless. Hyuk Mujin wiped cold sweat from his brow and hurried to the front.",
+      "defect": "The draft adds a wiping action absent from the source.",
+      "id": "F02",
+      "rationale": "식은땀을 흘리며 means he was sweating; it does not say that he wiped his brow.",
+      "replacement": "Gung Gibang and I were momentarily left speechless. Breaking out in a cold sweat, Hyuk Mujin hurried ahead.",
+      "severity": "minor",
+      "source": "순간 할 말을 잃어버린 나와 궁기방의 모습에, 혁무진이 식은땀을 흘리며 앞장서서 걸음을 옮겼다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Then I’ll go first. Urrrrgh! I’m coming!”",
+      "defect": "The final cry is changed into an unrelated declaration. 응가 is childish language for poop, sustaining the bowel-emergency joke.",
+      "id": "F03",
+      "rationale": "응가아아앗 is an elongated, childish cry about defecation, not “I’m coming.”",
+      "replacement": "“Urgh. Then I’m going on ahead. Poooooop!”",
+      "severity": "major",
+      "source": "“으흣. 그럼 저 먼저 갑니다. 응가아아앗!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Pfft. I should’ve seen that bastard Hyuk’s face.”",
+      "defect": "The draft reverses the subject and object: Gung Gibang says Hyuk should have witnessed this scene, not that Gung should have seen Hyuk’s face.",
+      "id": "F04",
+      "rationale": "혁가 놈이 is the understood subject of 봤어야 했는데, while 이 광경 is what he should have seen.",
+      "replacement": "“Pfft. That bastard Hyuk should’ve seen this.”",
+      "severity": "critical",
+      "source": "“푸흐흐. 이 광경을 혁가 놈을 봤어야 했는데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How dare he! How dare that bastard tear me limb from limb……!”",
+      "defect": "The direction of the threat is reversed. Hwangbo Ak is calling the attacker a bastard he will tear apart, not saying that the attacker intends to tear him apart.",
+      "id": "F05",
+      "rationale": "찢어 죽일 놈 is Hwangbo Ak’s threatening insult toward the other person: a bastard he wants to tear apart and kill.",
+      "replacement": "“How dare you… You bastard! I’ll tear you apart……!”",
+      "severity": "critical",
+      "source": "“감히, 감히 이 찢어 죽일 놈이……!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Its tremendous power and speed were obvious from the sound alone. Even if he had been fully alert, dodging it would have been difficult. Since he had been distracted for a moment, the result was obvious.",
+      "defect": "The draft narrows the uncertain ability to withstand or handle the attack into difficulty specifically dodging it.",
+      "id": "F06",
+      "rationale": "정신을 똑바로 차려도 될까 말까 does not specify dodging; it says that even with his full attention, successfully dealing with the attack would have been uncertain.",
+      "replacement": "Its tremendous power and speed were obvious from the sound of it cutting through the air alone. Even fully alert, he would have been hard-pressed to handle it. After letting himself get distracted, the outcome was obvious.",
+      "severity": "major",
+      "source": "파공성만으로도 느껴지는 엄청난 힘과 속도. 정신을 똑바로 차려도 될까 말까인데, 잠시 한눈을 팔았으니 결과는 뻔했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I clicked my tongue bitterly and glanced around.",
+      "defect": "The physical action is changed from smacking or wetting one’s lips to clicking one’s tongue.",
+      "id": "F07",
+      "rationale": "입맛을 다시다 describes moving or smacking the lips, here with a bitter emotional nuance; it is not 혀를 차다, clicking the tongue.",
+      "replacement": "I smacked my lips bitterly and glanced around.",
+      "severity": "minor",
+      "source": "쓰게 입맛을 다신 나는 문득 주위를 둘러보았다."
+    }
+  ],
+  "summary": "Two critical reversals alter who should have witnessed the scene and who threatens to tear whom apart. The draft also omits a profane punchline, mistranslates Hyuk Mujin’s childish exclamation, and introduces smaller action and combat-mechanism inaccuracies.",
+  "version": 1
+}
