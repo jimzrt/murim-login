@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Right now, you’re looking at Balwangsan, located near Pyeongchang in Gangwon Province, where the Monster Wave occurred.",
+      "defect": "“Balwangsan” retains the Korean mountain suffix as unexplained romanization instead of rendering the place name naturally in English.",
+      "id": "F01",
+      "rationale": "The suffix 산 means “mountain”; “Mount Balwang” preserves the proper name without the redundant or unexplained Korean suffix.",
+      "replacement": "“Right now, you’re looking at Mount Balwang, near Pyeongchang in Gangwon Province, where the Monster Wave occurred.",
+      "severity": "minor",
+      "source": "지금 보고 계신 곳은, 몬스터 웨이브가 발생한 강원도 평창 인근의 발왕산(發王山)입니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Unlike his usual calm and serious tone, the man—who was off-camera—was visibly agitated.",
+      "defect": "The anchor cannot be “visibly” agitated when the source explicitly notes that he is not visible; his agitation is conveyed through his voice.",
+      "id": "F02",
+      "rationale": "화면에 보이지 않는 explicitly says he is not onscreen, while the surrounding passage identifies his voice as the perceptible cue.",
+      "replacement": "Unlike his usual calm, serious delivery, the unseen anchor sounded highly agitated.",
+      "severity": "minor",
+      "source": "침착하고 진중하던 평소와는 달리, 화면에 보이지 않는 그는 잔뜩 격앙되어 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Once I decide to kill him—once I decide I’m going to kill that bastard—",
+      "defect": "The draft makes killing Jin Taekyung a future or hypothetical decision, but Go Jun says that he has already resolved to kill him.",
+      "id": "F03",
+      "rationale": "마음먹은 이상 means “now that/given that I have made up my mind,” establishing an existing resolve rather than a condition he may satisfy later.",
+      "replacement": "Now that I—now that I’ve decided to kill that bastard—",
+      "severity": "major",
+      "source": "내가, 내가 놈을 죽이기로 마음먹은 이상."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I’ll kill him without letting anyone realize what happened, using the same method I used on my Master.",
+      "defect": "The added words “I used on my Master” turn the comparison into an explicit confession that Go Jun personally killed Lee Jungryong. The source identifies only the same manner or method as in his Master’s case and does not assign Go Jun that action.",
+      "id": "F04",
+      "rationale": "스승님 때와 같은 방식으로 means “in the same way as in Master’s case.” It does not contain an agent equivalent to “I used,” so the draft changes responsibility for a major past event.",
+      "replacement": "I’ll kill him without anyone realizing what happened—the same way Master was killed.",
+      "severity": "critical",
+      "source": "누구도 눈치챌 수 없게, 스승님 때와 같은 방식으로 놈을 죽일 거다."
+    }
+  ],
+  "summary": "One critical agency change falsely makes Go Jun confess to killing Lee Jungryong, alongside one meaningful change to his stated resolve and two localized terminology or wording defects.",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # Hwa-jong (화종)
 
-- **Safe through:** Chapter 586
+- **Safe through:** Chapter 587
 - **Aliases:** Butler Kim
 - **Role:** Hwa-jong was Choi Minwoo's loyal butler and personal escort who sacrificed his life to restrain Behemoth and died after Jin Taekyung killed it.
 - **Personality:** Loyal, vigilant, and uncompromising toward perceived threats to Choi Minwoo.
