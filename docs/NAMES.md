@@ -1875,3 +1875,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 화종 | **Hwa-jong** | Butler Kim's personal name. |
 | 김호중 | **Kim Ho-jung** | Ares Guild security-team member assigned by Go Jun to Busan. |
 | 김소혜 | **Kim Sohye** | Female Hunter in Pyeongchang who recognizes Choi Minwoo from a news photograph. |
+| 베히모스 | **Behemoth** | Mythical monster emerging from the Pyeongchang Gate. |
+| 베헤모스 | **Behemos** | Alternate spelling of Behemoth used in the chapter. |

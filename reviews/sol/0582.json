@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "More than two hundred yetis fled while screaming like they were being tortured.",
+      "defect": "The draft adds torture imagery absent from the source, which only compares the yetis’ cries to screams.",
+      "id": "F01",
+      "rationale": "비명과도 같은 means “like screams”; it does not imply that the yetis sounded as though they were being tortured.",
+      "replacement": "More than two hundred yetis fled, their cries sounding like screams.",
+      "severity": "minor",
+      "source": "비명과도 같은 울음소리를 내지르며 도망치는 이백여 마리의 예티들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Twenty pairs of eyes.",
+      "defect": "The approximate quantity is made exact, despite the group comprising Choi Minwoo, Kim Hwajong, and twenty other Hunters.",
+      "id": "F02",
+      "rationale": "이십여 means approximately or somewhat more than twenty, not exactly twenty.",
+      "replacement": "Twenty-odd pairs of eyes.",
+      "severity": "minor",
+      "source": "이십여 쌍의 눈동자."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“You’re here.”",
+      "defect": "The draft loses the realization conveyed by 군요 and changes the retrospective recognition into a plain statement about the present.",
+      "id": "F03",
+      "rationale": "계셨군요 expresses Kim Hwajong’s deferential realization that the person from his memories was present in Choi Minwoo.",
+      "replacement": "“So you were here.”",
+      "severity": "minor",
+      "source": "“여기 계셨군요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“W-We’re all going to die!”",
+      "defect": "A wordless cry of terror is replaced with an explicit prediction that everyone will die.",
+      "id": "F04",
+      "rationale": "The Korean contains only frightened vocalizations and supplies no statement about dying.",
+      "replacement": "“A-Aaaah!”",
+      "severity": "major",
+      "source": "“으아, 으아아!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "If they were lucky enough to escape the monster before them, they would become Behemoth’s next targets.",
+      "defect": "The draft makes the fleeing group and Behemoth’s subsequent targets the same people, obscuring the causal warning that if the Hunters flee, the civilians below will be targeted.",
+      "id": "F05",
+      "rationale": "그들이 refers to the Hunters considering whether they can confront or escape Behemoth, while 저들이 points back to the more than one thousand civilians scattering below.",
+      "replacement": "If the Hunters escaped the monster before them through sheer luck, those people would become Behemoth’s next targets.",
+      "severity": "critical",
+      "source": "만약 그들이 천운으로 눈앞의 괴수를 피해 도망친다면, 베히모스의 다음 표적은 저들이 될 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was ready to trample and chew up the humans approaching it while emitting an unpleasant light.",
+      "defect": "The English attaches the emitted light to Behemoth rather than to the approaching humans and also omits that Behemoth intends to swallow them.",
+      "id": "F06",
+      "rationale": "불쾌한 빛을 뿜어내며 modifies the humans approaching Behemoth; 짓밟고, 씹어 삼킬 explicitly means to trample, chew, and swallow them.",
+      "replacement": "It was ready to trample, chew, and swallow the humans approaching it while radiating that irritating light.",
+      "severity": "critical",
+      "source": "불쾌한 빛을 뿜어내며 자신을 향해 다가오는 인간들을 짓밟고, 씹어 삼킬 준비가 되어 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "—Oh. You. Hu. Mans.",
+      "defect": "The draft mistranslates the monster’s command to come as a fragmented address beginning with “Oh, you,” removing the summons entirely.",
+      "id": "F07",
+      "rationale": "오너라 is an imperative meaning “come,” followed by 인간들이여, a vocative address to the humans.",
+      "replacement": "—Come. Hu. Mans.",
+      "severity": "critical",
+      "source": "- 오. 너. 라. 인. 간. 들. 이. 여."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It’s over here.”",
+      "defect": "The English can only naturally mean that something is located nearby, rather than that the fighting in this area is finished.",
+      "id": "F08",
+      "rationale": "여긴 끝났습니다 states that this location has been cleared and the work here is over.",
+      "replacement": "“We’re done here.”",
+      "severity": "minor",
+      "source": "“여긴 끝났습니다.”"
+    }
+  ],
+  "summary": "Several action, subject, quantity, and dialogue errors require correction.",
+  "version": 1
+}

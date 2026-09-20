@@ -974,3 +974,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 고세원 | 1팀장 | security-team commander to Team One leader | Team Leader of Team One | curt and demanding | Demands the report be repeated after hearing that Team One has nine members. |
 | 20대 여자 헌터 | 팀장 | female Hunter to freelance team leader | Team Leader | casual-polite | She repeatedly addresses the unnamed team leader as 팀장님 while discussing Choi Minwoo. |
 | 팀장 | 팀원 | freelance team leader to subordinate team member | asshole/punk | insulting-casual | The Team Leader addresses the subordinate with 새꺄 and 인마 while joking and complaining over drinks. |
+| 최민우 | 스켈레톤 킹 | commander_to_undead_ally | you | casual and encouraging | After the Merman cleanup, Choi tells Skeleton King that it worked hard. |
