@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 566
-- Next chapter: 567
-- Current block: 565–569 (2/5)
-- Latest translation: `translations/0566.md`
-- Latest summary: `summaries/beats/0566.md`
-- Safe profiles through: chapter 566
+- Last completed: 567
+- Next chapter: 568
+- Current block: 565–569 (3/5)
+- Latest translation: `translations/0567.md`
+- Latest summary: `summaries/beats/0567.md`
+- Safe profiles through: chapter 567
 
 ## Current Block
 
-- Taekyung learns that the Ares Guild figure cooperating with Team Leader Choi is Song Cheonwoo, a former third-ranked Korean Hunter, Great Cataclysm veteran, former Hunter training-center head, and longtime European regional branch director. Song was once Lee Jungryong's friend and rival, but Lee exiled him to Europe after winning their power struggle; after Lee's death, Song returned to Korea and began maneuvering for a final bid against Go Jun's succession.
-- Choi reveals that Song followed Cheon Taemin since before Choi was born and knows where Choi's maternal grandfather is hiding. Taekyung realizes that Song may be the link to the vanished Cheon Taemin.
-- After Go Se-won reports Song's activities, Go Jun orders him to kill Song, his children, grandchildren, and daughters-in-law, then calls Song senile.
+- Go Jun orders Go Se-won to seize Song Cheonwoo's family as leverage. Thirty Ares Guild A-rank security personnel teleport to London under disguises; two die in the assault, while Song's family is captured alive and the mansion is occupied under a false security detail.
+- Go Jun plans to lure Song Cheonwoo to a meeting under the pretext of celebrating the Lunar New Year. Go Se-won carries out the order despite growing moral revulsion and receives a substantial envelope afterward, leaving his loyalty unreadable.
+- Taekyung practices linking forms into a combat sequence, incorporating the martial insights he has gained and imagining himself fighting scores of human or monster enemies. Someone applauds from behind him after he finishes.
 
 ## Open Questions
 
@@ -19,15 +19,15 @@
 - What will Taekyung's party find in Nanman, and what does the Southern Heaven Demon Empress intend there?
 - What process created Jang Sam's mutant form, whether Dark Heaven's mutants can absorb human energy, and whether it relates to the Mutated Gate?
 - What will result from the duel between Jeok Cheongang and Nangong Cheon, and why did Ju Hwaran and Sama Pyo's political engagement end?
-- Where is Cheon Taemin, why has he remained hidden, and what will happen after Song Cheonwoo's faction moves against Go Jun?
+- How will Song Cheonwoo respond to the capture of his family, and who is applauding Taekyung?
 
 ## Exceptional Decision
 
 - Render 건량 as dry rations, 광서 as Guangxi, 대별산 as Mount Daebyeol, 만리행 as Ten-Thousand-Li Journey, and 고잉메리호 as Going Merry.
 - Render 반 시진 as half a shichen and retain Nanman, Nanman Beast Palace, Fire Dragon Pavilion, Great Hero, and Young Lady Ju.
 - Render 남만행 as Journey to Nanman, 남만을 못 가 as Can't Go to Nanman, 면구 as disguise mask, 역용술 as disguise technique, 각주님 as Pavilion Master, 로그아웃 as Logout, and 동기화 as Synchronization.
-- Render 일기당천 as One Against a Thousand, 거인의 포효 as Giant's Roar, 타락한 엔트 as Corrupted Ent, 붉은 눈 as Red Eye, 치코리타 as Chikorita, 대마도사 as Grand Mage, 순간이동 as Teleportation, 텔레포트 as Teleport, 변이 게이트 as Mutated Gate, and 몬스터 웨이브 as Monster Wave.
-- Render 모하비 사막 as Mojave Desert, 애리조나주 as Arizona, 대의 as greater cause, 순수혈통 as pureblood, 국부 as Founding Father, 위저드(Wizard) 길드 as Wizard Guild, 조셉 바이든 as Joseph Biden, 펠릭스 왕자 as Prince Felix, 곽한구 as Gwak Hangu, 역곡 as Yeokgok, 오크의 황무지 as Orc Wasteland, 오크 로드 as Orc Lord, 국회의사당 as National Assembly, 고세원 as Go Se-won, 경호팀장 as Head of Security, A구역 as Section A, 신성불가침 as sacrosanct, 바티칸 as Vatican, 영구 임대 as permanent lease, 혈안 as bloodshot, 매직 존슨 as Magic Johnson, 썩코춘 as Sseokkochoon, 길드 하우스 as Guild House, 자이언트 맨티스 as Giant Mantis, 파이어 레인 as Fire Rain, 파트라슈 as Patrache, 송천우 as Song Cheonwoo, 유럽 총괄 지사장 as head of the European regional branch, 조손 as grandparent and grandchild, and 외조부님 and 외할아버지 as maternal grandfather.
+- Render 일기당천 as One Against a Thousand, 거인의 포효 as Giant's Roar, 투로 as combat sequence, 타락한 엔트 as Corrupted Ent, 붉은 눈 as Red Eye, 치코리타 as Chikorita, 대마도사 as Grand Mage, 순간이동 as Teleportation, 텔레포트 as Teleport, 변이 게이트 as Mutated Gate, and 몬스터 웨이브 as Monster Wave.
+- Render 현혹 마법 as enchantment magic, 장거리 텔레포트 마법진 as long-distance Teleportation magic circle, and retain Magic for 마법 when used generically.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
