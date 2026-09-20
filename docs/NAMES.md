@@ -1852,3 +1852,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 해운대 | **Haeundae** | Busan district containing Siren's Black River and its beach. |
 | 포천 | **Pocheon** | Location of the recent Mutated Gate reported on the radio. |
 | 경기도 | **Gyeonggi Province** | Province where Pocheon is located. |
+| 광안대교 | **Gwangan Bridge** | Busan suspension bridge central to Taekyung's childhood memory and the current disaster. |
+| 민희 | **Minhee** | Approximately nine-year-old girl rescued from the Mermen near Gwangan Bridge. |
