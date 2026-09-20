@@ -1777,3 +1777,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 정기 | **vital essence** | Energy the Wudang Sect Leader says the monster absorbs from victims. |
 | 변이체 | **mutant** | Taekyung's classification for the monster. |
 | 시취 | **corpse stench** | The odor Taekyung recognizes from the covered body. |
+| 도산검림 | **a mountain of sabers and a forest of swords** | Idiom describing the lethal life of martial artists. |
+| 영물 | **spiritual creature** | Known non-human creature contrasted with unheard-of monsters. |
+| 공자후 아크바르 | **Confucius Akbar** | Taekyung's joke about Confucian scholars protesting supernatural powers. |
+| 전도 | **complete map of the realm** | Mae Jonghak's map marking terrain, place names, and sect locations. |
