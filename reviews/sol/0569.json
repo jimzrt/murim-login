@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "His first son, whom he had seen for the first time after turning forty, and the second child who would be born in a few months were already so precious that he could not bear even the thought of harm coming to them.",
+      "defect": "The draft misreads the idiomatic 아들을 보다 as literally seeing his son, implying that Go Se-won did not meet him until after turning forty. The source says he had his first son after turning forty.",
+      "id": "F01",
+      "rationale": "In this context, 마흔이 넘어 처음으로 본 아들 means the first son he had after the age of forty, not a son he first encountered at that age.",
+      "replacement": "His first son, born after he turned forty, and his second child, due in a few months, were already unimaginably precious to him.",
+      "severity": "critical",
+      "source": "마흔이 넘어 처음으로 본 아들도, 몇 달 후 태어날 둘째는 벌써부터 눈에 넣어도 아프지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "You’d gain nothing and lose everything.",
+      "defect": "“Lose everything” adds total ruin. The source says there would be no benefit and only loss, without claiming that Song Cheonwoo would lose everything.",
+      "id": "F02",
+      "rationale": "실만 있을 겁니다 describes exclusively negative consequences, not the loss of everything Song possesses.",
+      "replacement": "You’d gain nothing and only stand to lose.",
+      "severity": "major",
+      "source": "득은 없고, 실만 있을 겁니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I looked at him with a gaze colder than the snow piled atop the Sejong Station building in Antarctica.",
+      "defect": "The official proper name of the Antarctic research facility is incomplete.",
+      "id": "F03",
+      "rationale": "남극 세종 기지 refers to King Sejong Station, the established English name of South Korea’s Antarctic research station.",
+      "replacement": "I looked at him with a gaze colder than the snow piled atop the King Sejong Station building in Antarctica.",
+      "severity": "minor",
+      "source": "나는 남극 세종 기지 건물 위에 쌓인 눈보다 차가운 시선으로 놈을 바라보았다."
+    }
+  ],
+  "summary": "One altered family-history fact, one overstated threat, and one incomplete proper name.",
+  "version": 1
+}
