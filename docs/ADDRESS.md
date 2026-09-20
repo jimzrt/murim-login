@@ -944,3 +944,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 킹 | trusted ally and subordinate | you; bastard | informal and profane | Taekyung speaks bluntly while acknowledging the Skeleton King's growing reliability. |
 | 스켈레톤 킹 | 진태경 | trusted human companion and superior | vile human | mock-formal and theatrical | The Skeleton King's recurring melodramatic address. |
 | 송천우 | 석고준 | adversary; captor of Song's children | you | shocked and confrontational | Song reacts directly to Go Jun's admission that he took the children. |
+| 고세원 | 송천우 | Ares security-team leader to Ares regional branch director | Director | formal-polite but threatening | Go Se-won repeatedly addresses Song as 지사장님 while escorting him out. |
+| 송천우 | 고세원 | Ares regional branch director to security-team leader | Go Se-won | informal and confrontational | Song directly calls Go Se-won by name while challenging his knowledge of Go Jun's plans. |
+| 팀원 | 고세원 | security-team subordinate to security-team leader | Team Leader | alarmed formal address | A security-team member calls out to Go Se-won when Song grabs him. |
