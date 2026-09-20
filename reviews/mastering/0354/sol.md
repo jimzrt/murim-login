@@ -88,13 +88,13 @@ The internal energy carried by the blade tore through flesh and bone, reducing h
 
 Thud. Crash!
 
-The bead that rolled from the dead man’s mouth was drawn into someone’s hand.
+The bead rolled from the dead man’s mouth, then flew into someone’s hand.
 
 An old man studied it with wizened gray eyes and muttered, “These bastards… They’re carrying artifacts.”
 
 An ordinary martial artist would have assumed the bead was a poison-warding pearl.
 
-But the old man, Tang Jinhu, was a direct descendant of the Sichuan Tang Clan and a veteran of the Great Faction War. He instinctively realized that this bead was something different from a poison-warding pearl.
+But the old man, Tang Jinhu, was a direct descendant of the Sichuan Tang Clan and a veteran of the Great Faction War. Instinct told him that this bead was something else.
 
 *What is this?*
 
@@ -110,7 +110,7 @@ The greater problem was…
 
 On top of that, they wore leather armor that ordinary swords and blades could not pierce.
 
-Tang Jinhu finally understood why the Tang Clan drum had sounded.
+Only now did Tang Jinhu understand why the Tang War Drum had sounded.
 
 At this rate, the bloodbath would be even more horrific than the one in the Gyeongwol Year.
 
@@ -122,7 +122,7 @@ Tang Jinhu crushed the bead in his hand and thrust out both arms, his face brimm
 
 The silver threads wound around his wrists drank in his internal energy and snapped taut.
 
-The next instant, a dazzling white flash filled the battlefield.
+The next instant, dazzling white flashes filled the battlefield.
 
 Screeeech—thud-thud-thud!
 
@@ -146,7 +146,7 @@ Tang Jinhu felled more than ten black-clad men with a single move, then released
 
 Tang Jinhu was a Supreme Peak master who had retired more than a decade ago, as well as the head of the Council of Elders.
 
-The sight of veteran masters joining the battlefield one after another at precisely that moment brought color back to the faces of the Tang Clan martial artists who had begun to falter.
+The sight of veteran masters joining the battlefield one after another brought color back to the faces of the faltering Tang Clan martial artists.
 
 “G-Grandfather!”
 
@@ -188,13 +188,13 @@ The black-clad men swung their weapons while crying out to the Lord of Heaven as
 
 Each time they blocked swords and hidden weapons with their armor and pressed onward through the poison smoke, blood sprayed and corpses piled up.
 
-In the vacant eyes of a Tang Clan martial artist whose breath had stopped, red flames that had sprung up somewhere flickered. The hot fire and acrid smoke drove away the poison mist and consumed the fallen corpses.
+Red flames sprang up and flickered in the empty eyes of a dead Tang Clan martial artist. The scorching fire and acrid smoke drove away the poison mist and consumed the fallen bodies.
 
 Tang Jinhu roared, his voice raw enough to spit blood.
 
 “No! You bastards! How dare you—how dare you lay hands on my own flesh and blood!”
 
-Even the mighty forces of the Demonic Cult had suffered more than a thousand casualties to overcome the Tang Clan.
+Even the mighty forces of the Demonic Cult had suffered nearly a thousand casualties to overcome the Tang Clan.
 
 How could a mere three hundred enemies wreak such horrific devastation?
 
@@ -210,7 +210,7 @@ They had not reached the exalted Supreme Peak realm as Tang Jinhu had, but every
 
 Yet whenever they cut down one enemy, five more charged in. When they cut down those five, ten more rushed forward.
 
-Among those ten black-clad men who charged forward without regard for their lives, a Peak master was hiding.
+And among every ten black-clad men who threw themselves into battle without regard for their lives, a Peak master lay hidden.
 
 Slash. Crash!
 
@@ -294,15 +294,15 @@ Only then did he realize that First Fiend’s two younger brothers, who had alwa
 
 *…Emei and Qingcheng.*
 
-The carnage of corpses and blood had not been limited to the Tang Clan.
+This sea of corpses and blood could not be limited to the Tang Clan.
 
 The Sichuan Tang Clan, Emei, and Qingcheng.
 
-He could feel the people’s screams and deaths.
+He could almost feel their people screaming and dying.
 
 Today, the three factions that ruled Sichuan would fight for their very survival.
 
-Inside the hellscape those men had painted.
+All within the hellscape their enemies had painted.
 
 “Even after all these years… You truly are a Fiend.”
 
@@ -358,13 +358,11 @@ A headless body toppled like a rotten log.
 
 Considering the fame the man had enjoyed in life, it was a pitifully meaningless death.
 
-“Were they called the Tang Clan’s Ten Wonders? They’re more capable than I expected.”
+“Were they called the Tang Clan’s Ten Wonders? They were more capable than I expected.”
 
-A few steps from the corpse, a middle-aged man wiped the blood spattered across his face and continued.
+A few steps from the corpse, a middle-aged man wiped the blood from his face and continued.
 
 “Of course, we’ll have to call them something else now. Let me see… Yes. The Tang Clan’s Three Skills[^1] seems appropriate.”
-
-“…”
 
 Tang Sadok stared at the middle-aged man through blurred eyes.
 
