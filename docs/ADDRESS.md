@@ -930,3 +930,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | ally_to_ally | wicked human | mock-grandiose | Uses 간악한 인간이여 while telling Taekyung to deal with the Gate quickly. |
 | 진태경 | 스켈레톤 킹 | ally_to_ally | you | insulting-casual | Threatens to smash the Skeleton King's smartphone if he does not follow. |
 | 곽한구 | 진태경 | Ares_branch_leader_to_outside_rescuer | Mr. Jin Taekyung | formal-polite | Uses 진태경 씨 while acknowledging Taekyung's request and asking him to wait. |
+| 석고준 | 고세원 | Ares Vice Guild Master to Head of Security | you | curt and informal | Go Jun tells Go Se-won that he is later than usual when Se-won enters the wrecked office. |
