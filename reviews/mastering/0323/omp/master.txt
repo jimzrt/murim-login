@@ -10,7 +10,7 @@ Shuaaaak!
 
 A dazzling streak of light filled my vision. The strike was impossibly fast and precise.
 
-The blue qi crystallized around the blade and scattered a brilliant radiance. I already knew another name for that light.
+Blue qi condensed around the blade, scattering brilliant light. I already knew another name for that light.
 
 *Sword Force.*
 
@@ -70,7 +70,7 @@ Hwangbo Eom shouted, his eyes bloodshot.
 
 “That…”
 
-Hwangbo Eom’s eyes stiffened as they swept across the room.
+Hwangbo Eom stiffened, his gaze sweeping across the room.
 
 Fortunately, his strike had been aimed precisely at me, so no one else had been injured. Even so, every face around us showed shock and fury.
 
@@ -82,11 +82,11 @@ Hwangbo Eom’s hand trembled around the sword hilt. His conflicted gaze swept o
 
 “Disciples of the Zhongnan Sect, heed my command.”
 
-“Y-yes, Martial Uncle!”
+“Y-yes!”
 
 The thirty members of the Taeeul Sword Unit, frozen like statues by the sudden turn of events, jolted back to their senses.
 
-They hurriedly cupped their hands, and Hwangbo Eom’s command fell over their heads.
+They hurriedly cupped their hands, and Hwangbo Eom’s command fell over their bowed heads.
 
 “Seal the entrances immediately. No one is to leave this place.”
 
@@ -112,13 +112,13 @@ He stared at Hwangbo Eom with an indescribably complicated look in his eyes.
 
 “What did you say?”
 
-“The way you’re acting right now, Senior Martial Uncle… Isn’t this beneath a disciple of the Great Zhongnan Sect?”
+“The way you’re acting right now, Senior Martial Uncle… This is beneath a disciple of the Great Zhongnan Sect.”
 
 “Shut your mouth!”
 
 Kraaash!
 
-Another gale swept through the room, and Hyuk Sopyung’s body slid backward.
+Another gale swept through the room, pushing Hyuk Sopyung backward.
 
 But his gaze did not waver.
 
@@ -150,7 +150,7 @@ Thud! Thud! Thud!
 
 “Disciple Hyuk Sopyung obeys the Sect Leader’s Command Token!”
 
-His cry sounded as if he were vomiting blood. Blood streamed down his split forehead.
+The cry sounded as though it had been wrenched from him with blood. A crimson stream ran down his split forehead.
 
 Hyuk Sopyung rose with a blank expression, as if he felt no pain at all, and blocked the entrance to the teahouse. The thirty members of the Taeeul Sword Unit followed suit.
 
@@ -196,7 +196,7 @@ Hwangbo Eom’s words left me momentarily dazed.
 
 My tangled thoughts vanished in an instant. Only one remained.
 
-“Sorry, but can I ask everyone for one favor?”
+“Sorry, but I need to ask everyone a favor.”
 
 I could feel their gazes even without looking.
 
@@ -242,7 +242,7 @@ They were blindingly fast and destructive. Even a glancing blow would split fles
 
 *I can’t dodge this. There’s no way.*
 
-*At least, it would have been true if I were the me from a year ago.*
+*Or there wouldn’t have been a year ago.*
 
 The saying *wipe your eyes and look again* came to mind—a phrase for progress so astonishing that you had to rub your eyes and take another look.
 
@@ -272,7 +272,7 @@ The old fisherman’s wrinkled face filled with shock.
 
 I did not answer.
 
-I bent my knees and lowered my waist. The spear in my hand curved smoothly like a dragon’s tail.
+I bent my knees and lowered my body. The spear in my hand curved smoothly like a dragon’s tail.
 
 *Fire Dragon’s Single Tail.*
 
@@ -326,7 +326,7 @@ Extreme Yang qi coiled around the tip of my spear.
 
 The tea spilled across the floor during Hwangbo Eom’s earlier rampage had long since evaporated. The jade-colored tea set glowed red-hot, as if it were back inside the kiln where it had been fired.
 
-Sensing that something was wrong, Hwangbo Eom shouted like a thunderbolt.
+Sensing the danger, Hwangbo Eom roared like thunder.
 
 “You bastard!”
 
