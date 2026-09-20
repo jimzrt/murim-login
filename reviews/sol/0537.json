@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Your teacup is empty.”",
+      "defect": "The possessive changes whose cup is empty. Hwangbo Gun’s cup is later explicitly described as not even half empty, so this creates a physical contradiction and makes Mae Jonghak’s indirect dismissal too explicit.",
+      "id": "F01",
+      "rationale": "The Korean does not specify “your,” and the later description confirms that the empty cup cannot be Hwangbo Gun’s.",
+      "replacement": "“The teacup is empty.”",
+      "severity": "critical",
+      "source": "“찻잔이 비었군.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“He held a secret meeting before the Family Head of the Hwangbo Family requested this private audience.”",
+      "defect": "The draft assigns the secret meeting to Hwangbo Gun. The omitted subject is the people dissatisfied with the appointments; the next line explains that they then incited Hwangbo Gun instead of confronting Mae Jonghak themselves.",
+      "id": "F02",
+      "rationale": "The preceding plural subject, 불만을 품은 이들, remains active, while the following sentence distinguishes those conspirators from Hwangbo Gun.",
+      "replacement": "“Before the Family Head of the Hwangbo Family requested this private audience, they held a secret meeting.”",
+      "severity": "critical",
+      "source": "“황보세가주가 독대를 청하기 전 은밀히 회동을 가졌더군요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Both sent their letters earlier than expected, but the distance…”",
+      "defect": "The draft reverses the direction of the letters, claiming both palaces sent them despite the immediately preceding statement that no replies have arrived.",
+      "id": "F03",
+      "rationale": "Song Ho is explaining that the Alliance dispatched its letters early, but replies are delayed because both destinations are distant.",
+      "replacement": "“We sent letters to both earlier than planned, but given the distance…”",
+      "severity": "critical",
+      "source": "“두 곳 모두 예정보다 일찍 서신을 보냈습니다만, 아무래도 거리가 있다 보니…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The middle-aged man clenched his lips before speaking. He was Hwangbo Gun, the Family Head of the Hwangbo Family.",
+      "defect": "The physical action is altered: Hwangbo Gun bites down on his lip rather than merely pressing his lips together.",
+      "id": "F04",
+      "rationale": "깨문 denotes biting, and 질끈 emphasizes the force of the action.",
+      "replacement": "Biting down hard on his lip, the middle-aged man—Hwangbo Gun, Family Head of the Hwangbo Family—spoke.",
+      "severity": "minor",
+      "source": "입술을 질끈 깨문 중년인, 황보세가의 가주 황보군이 입을 열었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Mae Jonghak lifted his teacup with a clear laugh that made his age seem irrelevant.",
+      "defect": "The draft turns a facial expression into audible laughter, and “clear laugh” is unnatural English.",
+      "id": "F05",
+      "rationale": "웃음을 지으며 describes wearing a smile here; 나이가 무색할 만큼 indicates its youthful quality.",
+      "replacement": "Mae Jonghak lifted his teacup with a bright, guileless smile that belied his age.",
+      "severity": "minor",
+      "source": "매종학은 나이가 무색할 만큼 맑은 웃음을 지으며 찻잔을 들었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The anger in Hwangbo Gun’s voice abruptly sank.",
+      "defect": "The sentence is an unnatural literal collocation and obscures that his voice abruptly drops into a colder, lower register.",
+      "id": "F06",
+      "rationale": "목소리가 가라앉았다 describes the voice lowering or becoming subdued, not anger itself sinking.",
+      "replacement": "Hwangbo Gun’s anger-laced voice abruptly dropped.",
+      "severity": "minor",
+      "source": "분노가 담겨 있던 황보군의 목소리가 순간 착 가라앉았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Where was an office like pavilion master in the Murim Alliance an ordinary position?",
+      "defect": "The rhetorical sentence closely follows Korean syntax and is not natural English.",
+      "id": "F07",
+      "rationale": "The replacement preserves Hwangbo Gun’s emphatic rhetorical point without the Korean word order.",
+      "replacement": "Pavilion master was no ordinary position in the Murim Alliance.",
+      "severity": "minor",
+      "source": "무림맹의 각주가 어디 보통 자리인가."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*His inner resolve is straight and firm.*",
+      "defect": "“Resolve is straight” is an unnatural English collocation and weakens the judgment that Mae Jonghak is both principled and steadfast.",
+      "id": "F08",
+      "rationale": "곧고 conveys moral uprightness, while 단단하다 conveys firmness or strength of conviction.",
+      "replacement": "*His principles are upright, and his resolve is firm.*",
+      "severity": "minor",
+      "source": "‘내면의 심지도 곧고, 단단하다.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Yes, Alliance Leader.”",
+      "defect": "The generic acknowledgment loses the formal, deferential acceptance of an order.",
+      "id": "F09",
+      "rationale": "존명 is a respectful formula meaning that the speaker will obey the command.",
+      "replacement": "“As you command.”",
+      "severity": "minor",
+      "source": "“존명.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*What the hell kind of situation is this?*",
+      "defect": "The draft adds profanity absent from the Korean, intensifying Taekyung’s reaction.",
+      "id": "F10",
+      "rationale": "The source is baffled and colloquial but contains no profanity.",
+      "replacement": "*What kind of situation is this supposed to be?*",
+      "severity": "minor",
+      "source": "뭐 하는 시츄에이션이야, 이게."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Damn, I was going to have roast duck tonight.”",
+      "defect": "“Damn” converts a sigh into profanity and makes the complaint stronger than the source.",
+      "id": "F11",
+      "rationale": "하 is an exasperated sigh here, not an oath.",
+      "replacement": "“Ugh, I was going to have roast duck tonight.”",
+      "severity": "minor",
+      "source": "“하, 오늘 오리 구이 먹으려고 했는데.”"
+    }
+  ],
+  "summary": "Three scene-fact errors alter objects or subjects, including who held the secret meeting and who sent the unanswered letters. Several localized issues weaken physical detail, hierarchy, register, or natural English.",
+  "version": 1
+}

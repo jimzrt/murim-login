@@ -873,3 +873,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진위경 | 청풍 | Jin Family Lesser Family Head to young martial companion | Young Hero Cheongpung | formal-polite | Uses 청 소협 while summoning Cheongpung to the Alliance Leader's Hall. |
 | 청풍 | 매종학 | grandson to grandfather | Grandpa | casual-familiar | Repeatedly calls Mae Jonghak 할아버지 while mistaking the Alliance Leader's summons as a family visit. |
 | 진태경 | 매종학 | younger ally to newly installed Alliance Leader | Alliance Leader | formal and deferential | Uses 맹주님 while formally greeting Mae Jonghak as the Alliance Leader. |
+| 황보군 | 매종학 | old_battlefield_comrade_to_current_alliance_leader | Great Hero Mae; Alliance Leader | formal-deferential | Hwangbo Gun begins with Great Hero Mae, then switches to the formal Alliance Leader. |
+| 매종학 | 황보군 | old_battlefield_comrade_to_family_head | you | casual-familiar | Mae uses 자네 while addressing Hwangbo Gun. |
