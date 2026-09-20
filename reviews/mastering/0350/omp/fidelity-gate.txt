@@ -1,0 +1,35 @@
+{
+  "summary": "Faithful translation with minor terminology misses.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Throughout Chapter 350",
+      "current": "Heavenly Power Demon",
+      "defect": "The preferred glossary term 'Martial God' for 무신 is absent in the entire chapter, although the character 천력마 is translated as Heavenly Power Demon, which is correct and referenced; however, the general glossary term 무신 is missing and might be absent where it should appear per glossary.",
+      "replacement": "Verify whether 'Martial God' (무신) should appear and replace the absent term where relevant.",
+      "rationale": "The fidelity automation noted missing preferred terms for 무신; if the chapter context requires it, this should be corrected.",
+      "confidence": 0.8
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Throughout Chapter 350",
+      "current": "Great Hero",
+      "defect": "The preferred glossary term 대협 has variants 'Great Hero or Sir depending tone', but appears only as 'Great Hero' consistently, missing alternative phrasing that might be required by tone shifts.",
+      "replacement": "Ensure nuanced tone shifts for 대협; consider 'Sir' where tone demands.",
+      "rationale": "Glossary preference flagged absence in terminology for 대협.",
+      "confidence": 0.7
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Paras 163 and 196",
+      "current": "Beggars' Sect and Beggars' Sect disciple",
+      "defect": "Preferred glossary terms '개방' and '개방도' ('Beggars' Sect' and 'Beggars' Sect disciple') flagged as missing; the text uses these terms properly by meaning but may lack explicit glossary-approved phrase consistency in every appearance.",
+      "replacement": "Check all instances of 개방 and 개방도 to ensure they match glossary exactly as 'Beggars' Sect' and 'Beggars' Sect disciple'.",
+      "rationale": "Deterministic QA flagged missing preferred terms.",
+      "confidence": 0.9
+    }
+  ]
+}

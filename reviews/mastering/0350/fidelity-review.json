@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.7,
+      "current": "Great Hero",
+      "defect": "The preferred glossary term 대협 has variants 'Great Hero or Sir depending tone', but appears only as 'Great Hero' consistently, missing alternative phrasing that might be required by tone shifts.",
+      "id": "F02",
+      "rationale": "Glossary preference flagged absence in terminology for 대협.",
+      "replacement": "Ensure nuanced tone shifts for 대협; consider 'Sir' where tone demands.",
+      "severity": "minor",
+      "source": "Throughout Chapter 350"
+    }
+  ],
+  "summary": "Faithful translation with minor terminology misses.",
+  "version": 1
+}

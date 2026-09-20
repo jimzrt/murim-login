@@ -10,7 +10,7 @@ Clank. Screeeech.
 
 I opened the rusted bars and strode into a cell filled with filth and stagnant water.
 
-An old man bound to a torture rack greeted me with a sly grin.
+An old man bound to a torture rack greeted me with a toothy grin.
 
 “You’ve come?”
 
@@ -58,7 +58,7 @@ He had caught the scent of oil beneath the prison’s stench.
 
 “Liar! That aroma is unmistakably Jiannan Chun!”
 
-“…With a sense of smell like that, you’re on the level of a drug-sniffing dog.”
+“…With a nose like that, you could work as a drug-sniffing dog.”
 
 “Hand it over! Now!”
 
@@ -78,7 +78,7 @@ Clank.
 
 “……”
 
-“You must have had a hard time waiting. By the way, why is it so cold in here? Your sleeping arrangements must be terribly uncomfortable. Should I ask the Tang Clan to lay down an animal-hide blanket for you?”
+“Waiting must’ve been hard. Why is it so cold in here, anyway? You must be terribly uncomfortable when you sleep. Should I ask the Tang Clan to lay down a fur blanket for you?”
 
 “……”
 
@@ -96,11 +96,11 @@ I took out a sheet of grease-stained paper and unfolded it.
 
 A whole duck, coated in spices and roasted to perfection, revealed itself in all its plump glory. As a bonus, its mouthwatering aroma was strong enough to drive away the stench of the cell.
 
-“What is this? It’s roast duck made by a former imperial chef. I tried some myself, and the duck is definitely tender. The flavor is very consistent too.”
+“What do we have here? Roast duck prepared by a former imperial chef. I tried some myself, and the meat’s definitely tender. The flavor is impressively well-balanced too.”
 
 “……”
 
-“And roast duck calls for liquor. Jiannan Chun, the famous liquor of Sichuan! Liquor and meat suit a Great Hero like the Heavenly Power Demon, don’t they?”
+“And you can’t have roast duck without liquor. Jiannan Chun, one of Sichuan’s finest! Meat and liquor are only fitting for a great hero like the Heavenly Power Demon, don’t you think?”
 
 “……”
 
@@ -122,7 +122,7 @@ But the Heavenly Power Demon had refused every offer and comfort I provided. No 
 
 At that moment, the Heavenly Power Demon finally spoke without opening his eyes. It was the first time I’d heard his voice in three whole days, and it had grown terribly hoarse.
 
-“Do so.”
+“Tell them.”
 
 “What?”
 
@@ -130,15 +130,15 @@ At that moment, the Heavenly Power Demon finally spoke without opening his eyes.
 
 He had spent more than forty years imprisoned in the underground prison. Faced with his serene detachment, like some enlightened monk, I clicked my tongue.
 
-“Good grief. You really don’t make things easy. Is it really so difficult to tell me only what you know about Dark Heaven?”
+“Good grief. You really don’t listen, do you? Is it so difficult to tell me what you know about Dark Heaven?”
 
 “I have said all there is to say. Kill this old man or torture him. Do as you please.”
 
-“No, what kind of old man is this?”
+“What kind of stubborn old man are you?”
 
 But the Heavenly Power Demon had already sealed his lips again. He probably wouldn’t open them a second time.
 
-“…What a stubborn old man.”
+“…Stubborn old bastard.”
 
 I heaved a sigh deep enough to sink the earth, placed the liquor and roast duck within his reach, and turned away.
 
@@ -158,25 +158,27 @@ The problem was that he refused to say a word about it.
 
 *But he definitely knew about Dark Heaven long ago.*
 
-I hadn’t heard it directly from the Heavenly Power Demon, but it was already as good as established fact.
+I hadn’t heard him admit it himself, but it was already as good as established fact.
 
 The real question was how he knew about Dark Heaven, and how much he knew.
 
 I slowly retraced the conversation I’d had with the Heavenly Power Demon three days ago.
 
-After putting the brain that had earned me seventh-tier school grades through its paces, I arrived at only one plausible conclusion.
+After putting the brain that had earned me Grade 7 school marks into overdrive, I arrived at a single plausible conclusion.
 
 *Dark Heaven and the Demonic Cult are deeply connected.*
 
 No. They might even be one and the same.
 
-The Heavenly Power Demon had once been an Elder of the Demonic Cult. Even after spending forty years imprisoned and tortured in the underground prison, he had never lost his loyalty to the Cult. His silence was proof enough.
+The Heavenly Power Demon had once been an Elder of the Demonic Cult. Even after forty years of imprisonment and torture, he had never lost his loyalty to the Cult.
+
+His silence was proof enough.
 
 *If Dark Heaven were an enemy of the Demonic Cult, he would’ve talked by now.*
 
 Then what the hell was Dark Heaven? Some splinter faction that had broken away from the Demonic Cult? Or another organization created within the Demonic Cult itself?
 
-*A branch of Shincheonji called Sick Shincheonji. Something like that.*
+*Like a Shincheonji branch called Sick-cheonji. Something like that.*
 
 Whatever they were, one thing was certain: the bastards were a plague.
 
@@ -204,7 +206,7 @@ The mountain of food piled in Cheongpung’s arms left me speechless. I was star
 
 “Hehe.”
 
-“Don’t smile. I’ll get attached.”
+“Don’t smile. I might get attached.”
 
 I answered gruffly and accepted the letter Cheongpung held out.
 
@@ -252,7 +254,7 @@ The individual fighting ability of the government troops couldn’t compare to t
 
 “…Of course not. Did you think thousands of men would all travel together?”
 
-It wasn’t difficult to imagine the government troops gathered in groups of three or five according to their assigned formations, stopping and searching people.
+It wasn’t hard to picture the government troops conducting inspections and searches in small groups according to their assigned formations.
 
 > The government troops are gradually expanding their search area and advancing toward Qingcheng and Emei.
 >
@@ -274,7 +276,7 @@ I glanced at the treatment room, whose door remained firmly shut, then casually 
 
 “Sho mush!”
 
-“…Finish what’s in your mouth. I’ll take care of the rest.”
+“…Finish what’s already in your mouth. I’ll just look for myself.”
 
 * * *
 
@@ -286,7 +288,7 @@ What could an eight-year-old beggar brat who hadn’t eaten in four days have kn
 
 Clutching his empty stomach, he had gone to the Chengdu branch and become a Beggars’ Sect disciple that very day.
 
-“They only gave me half a dumpling, too. Just thinking about it still makes my teeth grind. Goddamn it.”
+“They only gave me half a dumpling, too. Just thinking about it still makes me grind my teeth. Goddamn bastards.”
 
 The beggars listening to Jang Il yawned quietly. They’d already heard the story dozens of times.
 
@@ -296,7 +298,7 @@ More than ten years had passed, but Jang Il’s anger had yet to subside.
 
 As the story showed signs of dragging on, the three one-knot Disciples exchanged glances.
 
-“Oh! My stomach suddenly hurts!”
+“Oh! My stomach!”
 
 “Gasp! Mine too!”
 
@@ -310,11 +312,11 @@ Jang Il shouted, but the three beggars had already bolted.
 
 That was when a group of men caught Jang Il’s eye.
 
-Uniform clothing and weapons. Their lack of military discipline was an added bonus. The sight was familiar enough that Jang Il muttered,
+Matching clothes and weapons, plus the slovenly air of men without discipline. It was a familiar sight.
 
 “Government troops.”
 
-These days, government troops were more common than neighborhood stray dogs.
+Lately, government troops had become more common than neighborhood dogs.
 
 Normally, they slacked off so thoroughly that no one ever saw them, but now that the high and mighty had stepped in, they seemed to be scrambling to at least put on a show.
 
@@ -340,11 +342,11 @@ The military officer smiled along with the smug Jang Il.
 
 “But there are no villages nearby, and hardly anyone passes through here. Why are you alone?”
 
-“Don’t ask. The branch leader kept nagging me, so I brought a few men out for some fresh air. Things have been pretty noisy lately with all this talk of a murderer and whatnot.”
+“Don’t get me started. The branch leader kept nagging me, so I brought a few men out to get some fresh air. Things have been a real mess lately with all this talk about a murderer.”
 
 “I see.”
 
-“Well then, take care…”
+“Well, good luck with—”
 
 Jang Il never finished.
 
@@ -354,11 +356,11 @@ Shnk!
 
 *…Huh?*
 
-Cough.
-
 Jang Il stared blankly at the sword buried in his chest and coughed up blood.
 
-Why? How?
+Why?
+
+What for?
 
 The questions never escaped his lips. His knees buckled as he stared at the officer through clouding eyes.
 
