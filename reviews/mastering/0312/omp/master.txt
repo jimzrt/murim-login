@@ -28,7 +28,7 @@ I glanced at Heavenly Axe’s corpse as a caravan porter dragged it away, then c
 
 The Seongun Escort Bureau, once run by the Woo family, had changed its sign to the Jin Family Escort Bureau and was thriving. I’d heard it already had more than five branches.
 
-Shaanxi and Shanxi shared a border, so the Jin Family Escort Bureau and the Yongbong Escort Bureau would probably cross paths someday.
+Shaanxi and Shanxi shared a border, so the Jin Family Escort Bureau and the Yongbong Escort Bureau were bound to cross paths someday.
 
 “You know about the Jin Family Escort Bureau. If you ever run into them, please treat them well. Fellow business owners should help each other out, just like today.”
 
@@ -40,7 +40,7 @@ Shaanxi and Shanxi shared a border, so the Jin Family Escort Bureau and the Yong
 
 *Huh? We were competitors?*
 
-I blinked and asked again.
+I blinked.
 
 “Is that true?”
 
@@ -108,7 +108,7 @@ I was forcing out an awkward cough when Ju Hwaran poked her head past my shoulde
 
 I had lowered my voice as much as I could, but the Bermuda Triangle still overheard me. They erupted like wildfire.
 
-“Captain! Are you ashamed of us?”
+“Squad Leader! Are you ashamed of us?”
 
 “Am I embarrassing?”
 
@@ -196,7 +196,7 @@ We had left Henan only a few days after the Star-Array Grand Banquet ended.
 
 Unlike Cheongpung and Gung Gibang, Hyuk Mujin was an unknown newcomer who had operated only in Shanxi Province.
 
-The fact that she knew both his name and his sobriquet so precisely meant that Ju Hwaran was even more meticulous and clever than I had expected.
+The fact that she knew both his name and his sobriquet meant Ju Hwaran was even more meticulous and intelligent than I had expected.
 
 *Dagger Hidden Flower. A flower hiding a dagger.*
 
@@ -260,9 +260,9 @@ I smiled at the bewildered Ju Hwaran, glanced at the fierce-eyed young escort, a
 
 He was the source of the gaze I’d felt this entire time.
 
-Thanks to him, the back of my head had prickled the entire time I was speaking with Ju Hwaran.
+The back of my head had prickled the whole time I was talking to Ju Hwaran.
 
-*But why has that bastard been glaring at me like that? Did I somehow become his sworn enemy?*
+*But why has that bastard been glaring at me like that? Did I kill his sworn brother or something?*
 
 Apparently, I wasn’t the only one who had noticed his hostile gaze. Cheongpung followed close behind me and whispered.
 
@@ -270,7 +270,7 @@ Apparently, I wasn’t the only one who had noticed his hostile gaze. Cheongpung
 
 “Yeah. I don’t know why he’s acting like that, but he’s being incredibly obvious.”
 
-“Right? Maybe he’s interested in Benefactor.”
+“Right? Maybe he’s interested in you.”
 
 “……”
 
@@ -284,7 +284,7 @@ The four figures shot away like the wind. As Ju Hwaran watched their backs reced
 
 “Ah, Uncle Heo.”
 
-Heo Jun had finished binding the bandits and dealing with the aftermath. He followed Ju Hwaran’s gaze and turned his head.
+Having finished binding the bandits and dealing with the aftermath, Heo Jun followed Ju Hwaran’s gaze.
 
 “Jin Taekyung, the Sleeping Dragon of Shanxi. He truly is an extraordinary young man. The others are no different.”
 
@@ -296,13 +296,13 @@ It had been an overwhelming sight. Watching him had sent a thrill through her, b
 
 *If only I had strength like that.*
 
-If she had, the Yongbong Escort Bureau would never have ended up in its current state.
+Then the Yongbong Escort Bureau would never have fallen so far.
 
 Ju Hwaran swallowed the words on the tip of her tongue and spoke. This time, she sent them through Sound Transmission, carrying them on her internal energy.
 
-—Uncle Heo. Keep an eye on Escort Captain Song.
+—Uncle Heo. Keep an eye on Captain Song.
 
-Heo Jun was seasoned enough to be the Chief Escort. Without revealing anything on his face, he brought up another subject and replied through Sound Transmission.
+Heo Jun was a seasoned Chief Escort. Without betraying any reaction, he raised another subject aloud while replying through Sound Transmission.
 
 —Hwaran. Are you suggesting…?
 
@@ -312,11 +312,11 @@ The leak of confidential information about the Thousand-Year Snow Ginseng. The a
 
 Ju Hwaran intended to cut out the betrayal that had taken root deep within the bureau.
 
-*Especially the last thing Young Hero Jin said.*
+*Especially after what Young Hero Jin said before he left.*
 
 He had said that even without him, the worst would never have happened.
 
-That meant there was a master within the Yongbong Escort Bureau capable of easily defeating Heavenly Axe and handling the enemies.
+That meant someone within the Yongbong Escort Bureau was strong enough to defeat Heavenly Axe with ease and deal with the other enemies.
 
 *And…… that look in his eyes.*
 
@@ -328,7 +328,7 @@ And his eyes had held a faint trace of surprise.
 
 *There’s definitely something going on.*
 
-Ju Hwaran suddenly thought back over the past two years—the countless failures she had endured while leading the Escort Bureau before she had even turned twenty.
+Ju Hwaran found herself looking back on the past two years—the countless failures she had endured while leading the Escort Bureau from an age not yet twenty.
 
 What if those failures had come from trusting people too easily? What if someone had betrayed her?
 
@@ -336,7 +336,7 @@ What was she supposed to do then?
 
 *Whoooosh.*
 
-As the cold wind whipped around her, Ju Hwaran stood there for a long time.
+Ju Hwaran stood there for a long time, facing the bitter wind.
 
 * * *
 
@@ -348,11 +348,11 @@ He brought to mind a proud, solitary crane, and the Captain of the Guards standi
 
 *Who is he? I’ve never seen him before.*
 
-Xi’an Tower was, as its name suggested, one of Xi’an’s foremost pleasure houses.
+Xi’an Tower was, as its name suggested, Xi’an’s foremost pleasure house.
 
 Staying there required not only money, but also the status to match. As a result, its guests tended to be the same familiar faces.
 
-*But he’s a young man who came alone, without a carriage or servants……*
+*A young man who came alone, without a carriage or servants……*
 
 Under normal circumstances, he would have been turned away without a second thought.
 
@@ -366,7 +366,7 @@ The young man smiled sheepishly and rubbed his cheek.
 
 The Captain of the Guards’ eyes widened.
 
-*That’s……!*
+*Those are……!*
 
 Pale crimson blossoms had been embroidered on the young man’s snow-white sleeve.
 
@@ -376,7 +376,7 @@ A stammer slipped from between the guard captain’s lips.
 
 “M-May I ask your honored name?”
 
-“I’m a Daoist named Baek Museong.”
+“My surname is Baek, and my given name is Museong. I’m a Daoist.”
 
 “H-Huashan’s Lone Crane!”
 
