@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Attack Magic and debuffs covered the space overhead, while spears, arrows, and other weapons fired with all their strength rained down like a sudden shower.",
+      "defect": "The weapons are made the agents exerting their own strength; the source says they were launched with full force.",
+      "id": "F01",
+      "rationale": "온 힘을 실어 쏘아 보낸 describes the force with which the weapons were fired, not strength possessed or exerted by the weapons themselves.",
+      "replacement": "Attack Magic and debuffs covered the space overhead, while spears, arrows, and other weapons launched with full force rained down like a sudden shower.",
+      "severity": "minor",
+      "source": "공격 마법과 디버프가 머리 위를 덮고, 온 힘을 실어 쏘아 보낸 창과 화살 따위가 소나기처럼 퍼부어졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As I moved, scorching heat erupted from the blade of White Flame’s spear, slashing diagonally downward and setting everything around me ablaze.",
+      "defect": "White Flame is itself the spear, but the possessive construction makes the blade belong to a separate spear owned by White Flame.",
+      "id": "F02",
+      "rationale": "백염의 창날 means the spearhead of the weapon named White Flame.",
+      "replacement": "As I moved, scorching heat erupted from White Flame’s spearhead as I slashed diagonally downward, setting everything around me ablaze.",
+      "severity": "minor",
+      "source": "걸음과 동시에 비스듬히 내리그은 백염(白炎)의 창날로부터 초고온의 열기가 터져 나와 사방을 불태웠다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“You should’ve shot more gently. Then I would’ve hit you less.”",
+      "defect": "The draft changes reduced pain into fewer blows.",
+      "id": "F03",
+      "rationale": "덜 아프게 means less painfully, not fewer times.",
+      "replacement": "“You should’ve shot more gently. Then I would’ve made it hurt less.”",
+      "severity": "minor",
+      "source": "살살 쐈어야지. 그럼 덜 아프게 때려 줄 텐데."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Yet the Hunters in the lobby, who had become enemies after struggling with their consciences, continued rushing at me without rest.",
+      "defect": "The draft specifies a moral struggle with conscience, while the source only says they turned against him after wavering or internal conflict.",
+      "id": "F04",
+      "rationale": "갈등 does not establish that their hesitation was specifically a matter of conscience; that added motive changes their characterization.",
+      "replacement": "Yet the Hunters in the lobby, who had turned against me after wavering, continued rushing at me without rest.",
+      "severity": "major",
+      "source": "하지만 갈등 끝에 적으로 돌변한 로비의 헌터들은 쉬지 않고 달려들었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Tap—swish-swish-swish!\n\nI caught an arrow flying toward my throat and scattered it back toward the place it had come from.",
+      "defect": "A single arrow cannot naturally be “scattered”; the source says he snatched it and sent it back toward its origin.",
+      "id": "F05",
+      "rationale": "흩뿌렸다 conveys forcefully casting or spraying it back; with one arrow, “flung” preserves the action without the draft’s number mismatch.",
+      "replacement": "Tap—swish-swish-swish!\n\nI snatched an arrow flying toward my throat and flung it back the way it had come.",
+      "severity": "minor",
+      "source": "탁, 쉬쉬쉭!\n\n목을 노리고 날아드는 화살을 잡아채어 왔던 곳으로 흩뿌렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "An A-rank mage I had once seen on television opened his mouth with a murderous look in his eyes.",
+      "defect": "The established concept 살기 is generalized to a murderous look, losing the explicit presence of killing intent.",
+      "id": "F06",
+      "rationale": "살기 어린 눈빛 explicitly describes eyes filled with killing intent, matching the binding terminology.",
+      "replacement": "An A-rank mage I had once seen on television spoke, killing intent burning in his eyes.",
+      "severity": "minor",
+      "source": "아마도 마법사들을 이끄는 팀장이었던가. 과거 TV에서 보았던 A급 마법사가 살기 어린 눈빛으로 입을 열었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "In that sense, the man now lying unconscious with his eyes rolled back had suffered an injury that left him utterly unfit to continue pretending to be a mage, even if he survived.",
+      "defect": "“Pretending to be a mage” implies that he was an impostor. The source says his injury has ended his ability to function as a mage.",
+      "id": "F07",
+      "rationale": "마법사 행세하기에는 영 글렀다 idiomatically means he can no longer operate or live as a mage, not that his prior status was fraudulent.",
+      "replacement": "In that sense, even if the man now lying unconscious with his eyes rolled back survived, his days as a mage were over.",
+      "severity": "major",
+      "source": "그런 의미에서, 지금 눈을 까뒤집고 쓰러진 이놈은 살아남는다 해도 마법사 행세하기에는 영 글렀다고 볼 수 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Don’t block my way again. There won’t be a second warning.”",
+      "defect": "The draft adds an unmentioned warning and recasts the threat as warning escalation. Jin is saying there will be no second instance of the mercy he has just shown.",
+      "id": "F08",
+      "rationale": "두 번은 없다 literally and contextually means there will be no second time; “warning” is an unsupported addition that weakens the lethal implication.",
+      "replacement": "“Don’t ever stand in my way again. There won’t be a second time.”",
+      "severity": "major",
+      "source": "다시는 막아서지 마. 두 번은 없다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Then I poured three jiazi of internal energy into my body, kicked off the ground, and shot upward.",
+      "defect": "The draft adds his body as the destination of the internal energy, whereas the source describes powering the leap.",
+      "id": "F09",
+      "rationale": "공력을 실어 modifies the powered action of kicking off and rising; it does not state that he pours the energy into his body.",
+      "replacement": "Then, channeling three jiazi of internal energy, I kicked off the ground and shot upward.",
+      "severity": "minor",
+      "source": "그리고 삼 갑자의 공력을 실어, 지면을 박차고 솟구쳤다."
+    }
+  ],
+  "summary": "Several localized fidelity defects alter the force of attacks, Jin Taekyung’s threat, the Hunters’ motivation, and the mage’s permanent injury.",
+  "version": 1
+}
