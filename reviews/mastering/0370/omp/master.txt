@@ -4,7 +4,7 @@ The Sichuan Tang Clan had always been famous for its reclusive ways.
 
 Even prominent figures could not easily pass through its gates. Fearing that daughters who married out might reveal the clan’s martial arts and secrets, the Tangs instead brought in sons-in-law and had them take the Tang surname.
 
-The gates of the Sichuan Tang Clan, which had endured for hundreds of years in this manner, had been thrown wide open only seven days ago.
+The gates of the Sichuan Tang Clan, which had endured for centuries in this manner, had been thrown wide open only seven days ago.
 
 “Over there! Get that pillar straight!”
 
@@ -18,7 +18,7 @@ Farther away, dozens of Buddhist nuns had gathered to chant prayers.
 
 “May I have no other thought at the end of this life, with Amitabha alone beside me, my heart forever bound to the light from the white curl between his brows…”
 
-The monks, their heads shaved close and their eyes filled with spiritual energy, were nuns of Emei Sect.
+With their heads shaved close and their eyes bright with resolve, they were unmistakably nuns of Emei Sect.
 
 Before them, countless wooden coffins burned amid roaring flames.
 
@@ -40,13 +40,13 @@ A short while later, martial artists with swords at their waists approached in a
 
 Among them were Daoists of Qingcheng Sect, disciples from small and mid-sized sects, and beggars streaked with grime.
 
-A group of physicians came running along behind them.
+A group of physicians hurried along behind them.
 
 “The patient suddenly started vomiting blood? Weren’t they stable?”
 
-“If I knew that, would I be here right now? The patient clearly suffered serious internal injuries, but I can’t make sense of these symptoms…”
+“If I knew what was wrong, would I be running around like this? They clearly suffered severe internal injuries, but I can’t make sense of the symptoms…”
 
-“Spread out and bring the Divine Physician! Quickly!”
+“Spread out and find the Divine Physician! Quickly!”
 
 Emei nuns, Qingcheng Daoists, Beggars’ Sect beggars, and martial artists dispatched from sects both great and small. Alongside them were ordinary people—carpenters, stonemasons, physicians, and more.
 
@@ -74,7 +74,7 @@ Hyuk Mujin snorted, then deliberately wriggled like an earthworm.
 
 Unlike Gung Gibang, he was wrapped in bandages from head to toe, making him look like a mummy.
 
-“You have to get hurt this badly before people say, ‘Ah, this kid must have had a rough time.’ You understand?”
+“You have to get hurt this badly before people think, ‘Ah, that poor bastard’s really been through hell.’ Understand?”
 
 “……!”
 
@@ -160,7 +160,7 @@ Hiss!
 
 “But why is Young Hero Cheongpung here? He was barely injured.”
 
-“Didn’t you hear that loud crash outside earlier? They say Young Hero Cheongpung went out to help and ended up destroying a pavilion.”
+“Didn’t you hear that crash outside earlier? Apparently, Young Hero Cheongpung went out to help and destroyed a pavilion.”
 
 “……Oh.”
 
@@ -234,9 +234,9 @@ Just then, a strangled shout erupted from beyond the tightly closed door.
 
 “Ghk! You damn snake!”
 
-The three men’s gazes collided in midair.
+The three men’s gazes met in midair.
 
-At the same time, several voices calling one person’s name rang out all the way outside the pavilion.
+Then several voices, each calling the same person by a different name, rang out loudly enough to shake the entire pavilion.
 
 “Benefactor!”
 
@@ -248,7 +248,7 @@ The shout sent the people working outside into an uproar.
 
 “Did you hear that?”
 
-“Could he have woken up?”
+“Has he finally awakened?”
 
 “Tell the Sect Leader! Hurry!”
 
@@ -304,7 +304,7 @@ Gung Gibang helpfully elaborated.
 
 “……?”
 
-Who the hell were the Three Fiends, and who were the Seven Fairies? Kim Seonja was the name of my high school student-affairs teacher…
+Who the hell was the Third Fiend? And who were the Seven Fairies? Kim Seonja was the name of my high school student-affairs teacher…
 
 *These lunatics.*
 
@@ -312,7 +312,7 @@ My relief at surviving the underground prison lasted only a moment. A headache c
 
 I had clearly told them to stay put at the Divine Physician’s residence, but apparently they hadn’t been able to resist crawling out and fighting to the death.
 
-Thank goodness they had survived. What would have happened if they had died?
+Thank goodness they had survived. What would I have done if they’d gotten themselves killed?
 
 “Were you two that desperate to die? What kind of trouble did you cause this time?”
 
@@ -332,7 +332,7 @@ The three of us—everyone except Cheongpung—exchanged bewildered looks.
 
 The first answer came from Gung Gibang. The second came from Hyuk Mujin.
 
-They were both talking nonsense, so I deliberately frowned.
+They were both talking nonsense, so I frowned.
 
 “What are you talking about? I did?”
 
@@ -360,7 +360,7 @@ Instead of answering, Cheongpung threw open the enormous window.
 
 As if in a trance, I slowly walked toward the window.
 
-A warm spring breeze brushed across my face. An oddly quiet atmosphere greeted me as I leaned my head out beyond the window.
+A warm spring breeze brushed my face. Outside, the air was strangely quiet as I leaned through the window.
 
 “Ah.”
 
@@ -372,9 +372,9 @@ Nuns, Daoists, craftsmen who appeared to be carpenters, and physicians dressed i
 
 *Awe.*
 
-The next moment, they paid their respects as though they had made an agreement beforehand.
+The next moment, as though acting on a signal, they paid their respects.
 
-Some formed a fist-and-palm salute. Some bowed their heads slightly. Others prostrated themselves and bowed deeply.
+Some offered a fist-and-palm salute. Some bowed their heads. Others dropped to the ground and prostrated themselves.
 
 Then a vast chorus rose as one.
 
