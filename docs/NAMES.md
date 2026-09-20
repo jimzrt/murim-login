@@ -1845,3 +1845,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 홍 이사 | **Director Hong** | Ares Guild elder-generation director and informant concerning Song Cheonwoo's meeting. |
 | 킹 퓨리 | **King Fury** | The Skeleton King's fabricated superhero-style identity. |
 | 세종 기지 | **King Sejong Station** | South Korean Antarctic research station referenced in the Skeleton King's disguise joke. |
+| 이동석 | **Lee Dongseok** | Young Hunter using a changed face and assumed identity while carrying out a dangerous mission. |
+| 신아영 | **Shin Ayoung** | Pocheon resident whose radio comment describes the Mutated Gate near her home. |
+| 세이렌의 검은 강 | **Siren's Black River** | C-rank Gate located in Haeundae. |
+| 부산 | **Busan** | City where the Haeundae Gate crisis occurs. |
+| 해운대 | **Haeundae** | Busan district containing Siren's Black River and its beach. |
+| 포천 | **Pocheon** | Location of the recent Mutated Gate reported on the radio. |
+| 경기도 | **Gyeonggi Province** | Province where Pocheon is located. |

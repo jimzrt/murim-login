@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“You know what I mean. Raiding in a dangerous time like this isn’t easy.”\n\nAs he turned the wheel, the Team Leader continued.",
+      "defect": "The draft omits the entire explanation that rising magic power readings have strengthened monsters and increased Mutated Gate incidents from once or twice a year to roughly once every three days.",
+      "id": "F01",
+      "rationale": "The omitted passage supplies the causal mechanism and a concrete change in incident frequency that establishes the severity of the current crisis.",
+      "replacement": "“You know what I mean. Raiding in a dangerous time like this isn’t easy.”\n\nAs magic power readings rose, monsters grew stronger, and Mutated Gates that once appeared only once or twice a year were now occurring roughly once every three days and making the nine o’clock news headlines.\n\nAs he turned the wheel, the Team Leader continued.",
+      "severity": "major",
+      "source": "마력 수치 증가에 따라 몬스터는 강력해졌고, 일 년에 두어 번 터질까 말까 했던 변이 게이트는 이제 사흘에 한 번꼴로 나타나 아홉 시 뉴스의 헤드라이트를 장식한다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Team Leader blinked in bewilderment. Then the young man, Lee Dongseok, added in a perfectly level voice:",
+      "defect": "“Perfectly level voice” invents a vocal quality, while 칼같이 describes Lee Dongseok’s immediate, decisive response.",
+      "id": "F02",
+      "rationale": "The source characterizes the speed and decisiveness of his answer, not the pitch or emotional level of his voice.",
+      "replacement": "The Team Leader blinked in bewilderment. Lee Dongseok had answered without a moment’s hesitation, and now he added:",
+      "severity": "minor",
+      "source": "팀장이 얼떨떨하게 눈을 깜빡이던 그때. 칼같이 대답한 남자, 이동석이 한 마디를 툭 던졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Team Leader was taken aback now that the young man had responded that way. Especially by Lee Dongseok’s eyes, which gleamed with a firm resolve worthy of the word *conviction*.",
+      "defect": "The draft replaces the explicit characterization of 사명감, a sense of duty or mission, with the broader and less specific “conviction.”",
+      "id": "F03",
+      "rationale": "The source deliberately frames Dongseok’s resolve as duty-driven, supporting the later revelation that he is carrying out an assigned mission.",
+      "replacement": "The Team Leader was taken aback by the young man’s response—especially by Lee Dongseok’s eyes, which shone with such steadfast resolve that *sense of duty* seemed the only phrase for it.",
+      "severity": "minor",
+      "source": "막상 상대방이 이렇게 나오니 당황스럽다. 특히 사명감이라는 단어가 어울릴 만큼 굳센 의지로 빛나는 이동석의 눈동자가 그랬다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—The increase in magic power readings has become a serious problem not only domestically but overseas as well. It has been recognized that, compared to the rest of the world, our country has responded the fastest and suffered the fewest casualties.",
+      "defect": "피해 means overall damage or losses, but “casualties” narrows the claim specifically to injured or dead people.",
+      "id": "F04",
+      "rationale": "The source makes a broad comparison of damage, not a casualty-only comparison.",
+      "replacement": "—The rise in magic power readings has become a serious problem not only at home but overseas as well. Our country has been recognized as responding faster and suffering less damage than any other country in the world.",
+      "severity": "minor",
+      "source": "요즘 국내는 물론이고 해외에서 마력 수치 상승이 심각한 문제인데, 전 세계를 통틀어 우리나라가 가장 대응이 신속하고 피해가 미비한 것으로 인정받았습니다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "—Oh, no…… So you’re the one who lives in that neighborhood. What do we do?",
+      "defect": "“You’re the one” implies a previously identified or sought-after resident, while “What do we do?” turns a sympathetic exclamation into a literal request for action.",
+      "id": "F05",
+      "rationale": "The Korean expresses dismay and sympathy that the commenter happens to live in the affected neighborhood; it neither identifies her as a particular known person nor asks for a plan.",
+      "replacement": "—Oh, no…… You live in that very neighborhood? That’s awful.",
+      "severity": "minor",
+      "source": "아이고…… 하필이면 그 동네 사시는 분이었구나. 어떡해."
+    }
+  ],
+  "summary": "One major omission removes the explanation and frequency of the escalating Gate crisis; four localized passages alter pragmatic cues, characterization, or the scope of reported damage.",
+  "version": 1
+}
