@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The Fire Dragon Pavilion is formally established under Jin Taekyung and Cheongpung.",
+      "defect": "This incorrectly places both Jin Taekyung and Cheongpung over the Fire Dragon Pavilion, contradicting the reading copies and continuity section, which assign Taekyung to the Fire Dragon Pavilion and Cheongpung to the Azure Dragon Pavilion.",
+      "id": "C01",
+      "rationale": "The replacement preserves the distinct leadership assignments established in Chapters 545–546.",
+      "replacement": "The Fire Dragon Pavilion is formally established under Jin Taekyung, while Cheongpung takes charge of the Azure Dragon Pavilion.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot opening"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*The Two Halls, Three Divisions, Five Pavilions, Five Gardens, and Ten Squads—Nine Squads in the characters.*",
+      "defect": "The trailing phrase is corrupted and internally contradicts the immediately preceding reference to Ten Squads, making the sentence unreadable.",
+      "id": "C02",
+      "rationale": "Removing the malformed fragment restores a complete, coherent hierarchy statement without changing any named organization or quantity.",
+      "replacement": "*The Two Halls, Three Divisions, Five Pavilions, Five Gardens, and Ten Squads.*",
+      "severity": "major",
+      "source": "Chapter 546, description of the Murim Alliance hierarchy"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The unfamiliar faces belonged to masters whose names and sobriquets I had heard but never met.",
+      "defect": "The relative clause grammatically says Taekyung had never met the masters’ names and sobriquets rather than the masters themselves.",
+      "id": "C03",
+      "rationale": "The replacement fixes the faulty coordination while preserving Taekyung’s meaning and narrative voice.",
+      "replacement": "The unfamiliar faces belonged to masters whose names and sobriquets I had heard, but whom I had never met.",
+      "severity": "minor",
+      "source": "Chapter 546, Taekyung surveying the conference attendees"
+    }
+  ],
+  "summary": "The packet is broadly coherent in voice, terminology, formatting, and continuity. Three actionable defects remain: the summary assigns Cheongpung to the wrong pavilion, Chapter 546 contains a corrupted hierarchy fragment, and one Chapter 546 sentence has a broken relative-clause construction.",
+  "version": 1
+}

@@ -1781,3 +1781,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 영물 | **spiritual creature** | Known non-human creature contrasted with unheard-of monsters. |
 | 공자후 아크바르 | **Confucius Akbar** | Taekyung's joke about Confucian scholars protesting supernatural powers. |
 | 전도 | **complete map of the realm** | Mae Jonghak's map marking terrain, place names, and sect locations. |
+| 건량 | **dry rations** | Compact travel food discussed for the Nanman journey. |
+| 광서 | **Guangxi** | Region bordering Nanman. |
+| 대별산 | **Mount Daebyeol** | Secondary meeting point for the departing party. |
+| 독물 | **venomous beasts** | Venomous creatures associated with the Nanman Beast Palace. |
+| 독충 | **venomous insects** | Dangerous insects inhabiting Nanman's jungles. |
+| 만리행 | **Ten-Thousand-Li Journey** | The Escort King's legendary journey across the realm. |
+| 고잉메리호 | **Going Merry** | Ship from Taekyung's sailing metaphor. |
+| 정략혼 | **political marriage** | The former engagement between Ju Hwaran and Sama Pyo. |
