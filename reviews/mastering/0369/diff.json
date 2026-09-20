@@ -1,0 +1,1897 @@
+{
+  "baseline_blocks": 137,
+  "baseline_sha256": "a640674725fb56f675c694f762d86cc416c2b7910eabd0fa5a6bb3460b87c1a1",
+  "global_terminology_alerts": [
+    {
+      "korean": "아미파",
+      "preferred": "Emei Sect"
+    }
+  ],
+  "hunk_count": 102,
+  "hunks": [
+    {
+      "baseline": "“Search every inch of the place. If you half-ass it like you do your martial arts practice, you’ll catch hell.”",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "“Search every inch of the place. If you half-ass it like you do your martial arts training, you’ll catch hell.”",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, come on, Senior Brother. Anyone listening would think that was actually true. You really say anything in front of the kids.”",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "“Oh, come on, Senior Brother. Anyone listening would think that was actually true. You really will say anything in front of the kids.”",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re always wandering around pleasure houses… Do I need to beat you senseless right here before you come to your senses?”",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "“You spend every waking hour running around pleasure houses… Do I need to beat you senseless right here before you come to your senses?”",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even after his Senior Brother’s scolding, the young man’s frown did not lift.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "Even after his Senior Brother’s scolding, Hwangso’s scowl refused to budge.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His name was Hwangso, a first-generation disciple of the Gongdao Sect, a martial sect in Sichuan. He had been called out for this mission along with around thirty second- and third-generation disciples.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "He was a first-generation disciple of the Gongdao Sect, a martial sect based in Sichuan. He had been drafted for this mission along with some thirty second- and third-generation disciples.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "황소",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hwangso"
+        }
+      ]
+    },
+    {
+      "baseline": "*Damn it. What the hell have I been putting up with for five days?*",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "*Damn it. Five days of this bullshit.*",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Born to a fairly prosperous merchant family, he had grown up wanting for nothing.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "Born into a fairly prosperous merchant family, he had grown up wanting for nothing.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was already irritated enough that his father had forced him onto the path of a martial artist—a path that had never been part of his plans—simply because he wanted to establish ties with the Murim. But five days of sleeping rough in the wind and dust had been more than enough to grind away the last scrap of patience he had left.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "23",
+      "sol": "It was irritating enough that his father had forced him onto the path of a martial artist—a path that had never been part of his plans—simply because he wanted connections in the Murim. Five days of sleeping rough in the wind and dust had worn away what little patience Hwangso had left.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Whew. They say the new courtesan at Tengwang Pavilion is an absolute beauty…*",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "25",
+      "sol": "*Whew. I heard the new courtesan at Tengwang Pavilion is an absolute beauty…*",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as Hwangso’s thoughts began racing toward his favorite pleasure house—",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "27",
+      "sol": "Just as Hwangso’s thoughts raced toward his favorite pleasure house—",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You brat! After I said all that, you’re still letting your mind wander?”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "29",
+      "sol": "“You brat! After everything I just said, you’re still letting your mind wander?”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Startled by his Senior Brother’s sudden, tiger-like roar, Hwangso trudged away.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "33",
+      "sol": "Startled by his Senior Brother’s sudden, tiger-like roar, Hwangso trudged off.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His Senior Brother clicked his tongue at the sight, as if he found him hopeless.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "35",
+      "sol": "His Senior Brother clicked his tongue at the sight.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you don’t want to die a senseless death, keep your wits about you. You do understand what kind of situation we’re in.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "37",
+      "sol": "“If you don’t want to die a senseless death, keep your wits about you. Surely you understand what kind of situation we’re in.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You know what I mean. That Third Fiend or whatever. The bastard ran off ages ago, and we’re searching for him in all the wrong places.”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "43",
+      "sol": "“You know what I mean. That Third Fiend or whatever. The bastard ran off ages ago, and we’re searching for him in completely the wrong place.”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Hwangso’s sullen reply, his Senior Brother’s face stiffened.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "45",
+      "sol": "His Senior Brother’s face stiffened at Hwangso’s sullen reply.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Watch your words. Since the Great Faction War, the martial world of Sichuan has never united like this to form a net over heaven and earth. There is a reason for everything.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "47",
+      "sol": "“Watch your words. Not since the Great Faction War has the Sichuan Murim united to cast a net over heaven and earth like this. Everything happens for a reason.”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hwangso had heard the reason for the net over heaven and earth so many times that his ears were practically bleeding.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "51",
+      "sol": "Hwangso had heard why the net over heaven and earth had been cast so many times that his ears hurt.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dark Heaven or whatever they were called had invaded and turned the Tang Clan, Qingcheng, and Emei into ruins.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "53",
+      "sol": "Dark Heaven or whatever they were called had invaded and laid waste to the Tang Clan, Qingcheng, and Emei.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the head of the attack had been a peerless fiend who had slain the Poison King and the Heaven-Shaking Venerable Nun single-handedly. The Qilian Three Fiends, old monsters from two generations ago, and hundreds of Fiends had split into three groups and stained the three sects representing Sichuan in blood.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "55",
+      "sol": "At the head of the attack had been a peerless fiend who had slain the Poison King and the Heaven-Shaking Venerable Nun single-handedly. The Qilian Three Fiends, old monsters from two generations ago, and hundreds of Fiends had split into three groups and stained Sichuan’s three foremost sects with blood.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And everyone in Sichuan, Hwangso included, knew how that day—soon being called the Three-Gate Bloodbath—had ended.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "57",
+      "sol": "And everyone in Sichuan, Hwangso included, knew how that day—now being called the Three-Gate Bloodbath—had ended.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“In the end, they were defeated right in front of everyone, weren’t they? Every fiend who could be called a leader was killed except for one, and the rest of the foot soldiers scattered and ran away. Isn’t it over?”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "59",
+      "sol": "“They defeated them for all to see, didn’t they? Every fiend who could be called a leader was killed except for one, and the rest of the foot soldiers scattered and ran. Isn’t it over?”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……Whew.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "61",
+      "sol": "“…Whew.”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His Senior Brother moved his lips as if he were about to say something, then answered with a sigh instead.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "63",
+      "sol": "His Senior Brother’s lips moved as if he were about to reply, but he merely sighed.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The unknown master who suddenly appeared and saved Qingcheng Sect. The countless Beggars’ Sect disciples and nearby martial sects who rushed to Emei’s aid when it was in danger. And…*",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "67",
+      "sol": "*The unknown master who suddenly appeared and saved Qingcheng Sect. The countless Beggars’ Sect disciples and members of nearby martial sects who rushed to Emei’s aid. And…*",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If not for *them*, who had saved the Sichuan Tang Clan from annihilation, the three illustrious sects with their long histories would have vanished from the Murim five days ago.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "69",
+      "sol": "If not for *them*, the ones who had saved the Sichuan Tang Clan from annihilation, three illustrious sects with centuries of history would have vanished from the Murim five days ago.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Three-Gate Bloodbath had been a large-scale assault carried out with such thoroughness and suddenness that it had sent a tremendous shock through the entire orthodox martial world.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "71",
+      "sol": "The Three-Gate Bloodbath had been a large-scale assault conducted with such ruthless precision and suddenness that it had shaken the entire orthodox martial world.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But for a martial artist’s thoughts to be this shallow… Even if he only joined because circumstances forced him to…*",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "73",
+      "sol": "*And this brat calls himself a martial artist with such shallow thinking. Even if he did join only because circumstances forced him to…*",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the sight of his Senior Brother shaking his head, Hwangso bristled.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "75",
+      "sol": "Hwangso bristled when his Senior Brother shook his head.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Enough. Pick around ten men and search beyond that hill.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "79",
+      "sol": "“Enough. Pick ten men or so and search beyond that hill.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The area assigned to our sect must be searched a hundred times, a thousand times if necessary. I’ll search the nearby grass myself, so do as you’re told without another word.”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "83",
+      "sol": "“The area assigned to our sect must be searched a hundred times—a thousand, if necessary. I’ll search the nearby undergrowth myself, so stop complaining and do as you’re told.”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His Senior Brother cut him off decisively. Hwangso clamped his mouth shut.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "85",
+      "sol": "His Senior Brother cut him off so firmly that Hwangso clamped his mouth shut.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’ll have to talk to Father and get back home as soon as possible. No, seriously, why would the fiend who fled Emei show up here?*",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "87",
+      "sol": "*I need to talk to Father and get back home as soon as possible. Seriously, why would the fiend who fled Emei show up here?*",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The net over heaven and earth, in which thousands of people had been deployed, had lived up to its name.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "89",
+      "sol": "Thousands of people had been mobilized for the net over heaven and earth, and it had lived up to its name.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Most of Dark Heaven’s remnants who had fled after the Three-Gate Bloodbath had already been hunted down or captured.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "91",
+      "sol": "Most of Dark Heaven’s remnants who had fled after their defeat in the Three-Gate Bloodbath had already been hunted down or captured.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only the Third Fiend, the youngest of the Qilian Three Fiends who had attacked Emei, remained. The area assigned to the Gongdao Sect was near Chengdu, practically the center of Sichuan.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "93",
+      "sol": "Only the Third Fiend—the youngest of the Qilian Three Fiends who had attacked Emei—remained. The area assigned to the Gongdao Sect lay near Chengdu, practically the heart of Sichuan.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I hear the fiend isn’t in good shape, either. Why would he walk straight into the tiger’s den instead of choosing somewhere sensible like Tibet or Yunnan?*",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "95",
+      "sol": "*I heard the fiend isn’t in good shape, either. Why would he walk straight into the tiger’s jaws when he could head somewhere sensible like Tibet or Yunnan?*",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how true it was that it was darkest beneath the lamp, there was no reason for a fiend branded as an enemy of the Murim to break through such a dense net over heaven and earth and head for Chengdu.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "99",
+      "sol": "It might be darkest beneath the lamp, but there was still no reason for a fiend branded an enemy of the Murim to break through such a dense net over heaven and earth and head toward Chengdu.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If there were even the slightest chance of that, why would I be here? The Qingcheng Daoists would have been guarding the place.*",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "101",
+      "sol": "*If there were even the slightest chance of that, why would I be here? The Qingcheng Daoists would be guarding this place.*",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This was all because his Senior Brother was so rigid that he was practically suffocating.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "103",
+      "sol": "This was all because his Senior Brother was so rigid that it went beyond stubbornness and became downright suffocating.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Muttering a quiet curse under his breath, Hwangso crooked a finger at the third-generation disciples standing around blankly.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "105",
+      "sol": "Muttering a quiet curse, Hwangso crooked a finger at the third-generation disciples standing around blankly.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You there, the big-nosed one. Yes, you, all the way to the big-eared one over there. Ten of you. Follow me.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "107",
+      "sol": "“You there, the big-nosed one. Yes, you. Everyone from you to that big-eared fellow over there. Ten of you—follow me.”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What else could he do? When they told him to dig, he had to dig.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "109",
+      "sol": "What else could he do? Orders were orders.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But as Hwangso left to search, with his Senior Brother’s contemptuous gaze boring into his back, his head was filled with nothing but idle thoughts.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "111",
+      "sol": "But as Hwangso set off with his Senior Brother’s contemptuous gaze boring into his back, his head was filled with idle thoughts.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Just wait. The second this is over, I’m going straight to Tengwang Pavilion and having myself one hell of a time.*",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "113",
+      "sol": "*Just wait. The second this is over, I’m heading straight to Tengwang Pavilion and having the time of my life.*",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With his mind somewhere else, there was no chance of the search being carried out properly.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "115",
+      "sol": "With his mind elsewhere, there was no chance of him conducting the search properly.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The third-generation disciples glanced at Hwangso for cues as they lazily looked over their surroundings. Not one of them noticed the faint traces of blood clinging to the leaves during their sloppy search.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "117",
+      "sol": "The third-generation disciples watched Hwangso for cues and lazily scanned their surroundings. During that sloppy search, not one of them noticed the faint traces of blood on the leaves.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Good thing they’re all idiots. At this rate, I don’t need to worry at all.*",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "125",
+      "sol": "*Thank goodness they’re all idiots. At this rate, I have nothing to worry about.*",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Third Fiend let out a sigh of relief and extended one foot.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "127",
+      "sol": "The Third Fiend let out a sigh of relief and pushed off.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His body shot forward, skimming over the leaves.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "131",
+      "sol": "His body shot forward over the leaves.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A master of considerable skill might have noticed him if one had been nearby, but judging by the level of everyone he had seen so far, there was no chance of that.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "133",
+      "sol": "A master of considerable skill might have detected him if one were nearby, but judging by the level of everyone he had encountered so far, there was no chance of that.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The thrill of having fooled the orthodox faction so completely lasted only a moment before anger and killing intent surged from somewhere deep in the Third Fiend’s chest.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "137",
+      "sol": "The thrill of having completely deceived the orthodox faction lasted only a moment. Anger and killing intent surged from deep within the Third Fiend’s chest.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If it weren’t for those bastards…!*",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "139",
+      "sol": "*If it hadn’t been for those fucking bastards…!*",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Five days ago, everything had gone smoothly when he led his subordinates in the attack.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "141",
+      "sol": "Five days ago, the attack had begun well enough.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The death of the Sect Leader, the Heaven-Shaking Venerable Nun, and the Elders had left a tremendous gap in Emei’s forces, and the Dark Heaven martial artists under the Third Fiend’s command had driven straight into it like a massive harpoon.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "143",
+      "sol": "The deaths of the Sect Leader, the Heaven-Shaking Venerable Nun, and the Elders had left a tremendous gap in Emei’s forces. The Dark Heaven martial artists under the Third Fiend’s command had driven into that gap like a massive harpoon.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, just as the brutal battle overflowing with blood and death was underway, *they* appeared.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "145",
+      "sol": "Then, amid the brutal battle overflowing with blood and death, *they* appeared.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single filthy beggar.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "153",
+      "sol": "One filthy beggar.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And a middle-aged nun who appeared to be a disciple of Emei Sect.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "169",
+      "sol": "And even a middle-aged nun who appeared to be an Emei disciple.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "아미파",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Emei Sect"
+        }
+      ]
+    },
+    {
+      "baseline": "Even the Third Fiend had been dumbfounded by such a fearless entrance at first.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "173",
+      "sol": "At first, even the Third Fiend had been dumbfounded by their fearless entrance.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What? Worthless pieces of trash, lower than dogs? This filthy beggar wants to die? Just wait. This old man will tear your limbs off and—*",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "177",
+      "sol": "*What? Worthless pieces of trash, lower than dogs? Does this filthy beggar have a death wish? Just wait. This old man will tear you limb from limb and—*",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Third Fiend had approached with a contemptuous snort, but he was forced to swallow the rest of his words.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "179",
+      "sol": "The Third Fiend approached with a contemptuous snort, only to swallow the rest of his words.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Behind the fearless young beggar, countless more filthy beggars were rushing forward.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "181",
+      "sol": "Behind the fearless young beggar, more filthy beggars than he could count were rushing forward.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a wave of beggars!",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "185",
+      "sol": "A veritable wave of beggars!",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That response had come far too quickly for the Third Fiend.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "193",
+      "sol": "The response had come far too quickly for the Third Fiend.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not even half a day had passed, yet more than a thousand Beggars’ Sect disciples—not dozens or a hundred—had gathered and come to Emei’s aid.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "195",
+      "sol": "Not even half a day had passed, yet more than a thousand Beggars’ Sect disciples—not dozens, not even a hundred—had assembled and rushed to Emei’s aid.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The Successor Beggar commands you! Beat those bastards lower than dogs to death like dogs!*",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "197",
+      "sol": "*The Successor Beggar commands you! Beat those dogshit bastards to death like dogs!*",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An Emei nun charged them from the front without regard for her life, while countless Beggars’ Sect disciples surged in without end from behind.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "207",
+      "sol": "An Emei nun charged them head-on without regard for her life, while countless Beggars’ Sect disciples surged in endlessly from behind.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Third Fiend and the black-clad men under his command fought like mad, cutting down enemy after enemy, but the tide of battle had already begun to turn against them.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "209",
+      "sol": "The Third Fiend and the black-clad men under his command fought like mad, cutting down enemy after enemy, but the tide of battle had already turned against them.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a human-wave assault terrifying enough to make the mind go blank.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "219",
+      "sol": "The sheer force of their human-wave assault was horrifying.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If one beggar was cut down, two did not rush forward in his place. Five or ten did.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "221",
+      "sol": "Cut down one beggar, and two did not rush forward in his place. Five or ten did.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P94",
+      "baseline_range": [
+        94,
+        94
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "221",
+      "sol": "And if they dredged up every last ounce of strength and cut those down as well?",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And if he dredged up every last ounce of strength and cut them down too? There was no need to worry about what came next. A club flying in from somewhere would smash his balls while an iron staff cracked the back of his skull.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "223",
+      "sol": "There was no need to worry about what came next. A club flying in from somewhere would smash their balls while an iron staff cracked the backs of their skulls.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like a body slowly soaked through by drizzle, the black-clad men collapsed one after another as cold corpses.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "235",
+      "sol": "",
+      "sol_paragraphs": "after P98",
+      "sol_range": [
+        98,
+        98
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the Third Fiend, who should have turned the tide of battle, had no time to look after his subordinates.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "239",
+      "sol": "As surely as clothes soaked through in a drizzle, the black-clad men fell one after another and became cold corpses. Even the Third Fiend, who should have turned the tide of battle, had no time to look after his subordinates.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Seven Fairies, Emei Sect’s finest masters, used a combined formation to bind the Third Fiend’s feet.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "243",
+      "sol": "The Seven Fairies, Emei’s foremost martial artists, used their combined formation to tie down the Third Fiend.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        },
+        {
+          "korean": "아미파",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Emei Sect"
+        }
+      ]
+    },
+    {
+      "baseline": "Even when seriously wounded, they never retreated. They attacked as if their lives meant nothing, and the Third Fiend gradually grew exhausted from the mounting fatigue and anxiety.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "245",
+      "sol": "Even when grievously wounded, they refused to retreat. They attacked with complete disregard for their lives, and mounting fatigue and frustration gradually wore the Third Fiend down.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Third Fiend’s face twisted violently as he recalled what had happened five days earlier.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "247",
+      "sol": "His face twisted as he recalled what had happened five days earlier.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "악귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Fiend"
+        },
+        {
+          "korean": "마두",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "The arrival of Extinction Divine Nun had shocked not only the Third Fiend but also the disciples of Emei.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "251",
+      "sol": "The arrival of Extinction Divine Nun shocked not only the Third Fiend but even the disciples of Emei.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thirty years ago, at the age of one hundred, she had withdrawn from worldly affairs. She was the Heaven-Shaking Venerable Nun’s only Senior Aunt, and everyone believed she had since died.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "253",
+      "sol": "Thirty years ago, at the age of one hundred, she was said to have passed from this world. She was the Heaven-Shaking Venerable Nun’s only Senior Aunt, and everyone believed her long dead.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With another Supreme Peak master suddenly appearing, the Third Fiend chose to flee without a moment’s hesitation. The black-clad men under his command scattered and ran after their superior.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "255",
+      "sol": "When another Supreme Peak master suddenly appeared, the Third Fiend chose to flee without a moment’s hesitation. The black-clad men under his command scattered and ran after their superior.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had been a clear defeat.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "257",
+      "sol": "It had been an undeniable defeat.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And yet, the Third Fiend had survived to the very end.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "259",
+      "sol": "Yet the Third Fiend had survived to the bitter end.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He disguised himself with a mask made of human skin and a disguise technique, then found the weakest point in the net over heaven and earth and made his way here.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "261",
+      "sol": "He had concealed himself with a human-skin mask and a disguise technique, found the weakest point in the net over heaven and earth, and made his way here.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To this nameless cliff, untouched by anyone’s feet.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "263",
+      "sol": "To this nameless cliff where no one had set foot.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the cliff rapidly drew closer, the Third Fiend suppressed the emotions welling up inside him.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "267",
+      "sol": "As he sped toward the cliff, the Third Fiend struggled to suppress the emotions welling up inside him.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only now had the grief and anger of losing his only blood relatives reached him all at once.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "269",
+      "sol": "Only now did the grief and fury of losing his only blood relatives strike him all at once.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do not feel too aggrieved. Though I must retreat for now, this youngest brother will surely avenge you, my elder brothers.”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "271",
+      "sol": "“Do not mourn too bitterly. Though I must retreat for now, this youngest brother will avenge you without fail, my elder brothers.”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Third Fiend had just made a firm vow of revenge and reached a hand toward the cliff when—",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "273",
+      "sol": "The Third Fiend had just sworn his vengeance and reached toward the cliff when—",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Slice!",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "275",
+      "sol": "Shhk!",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Third Fiend’s eyes flew wide.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "277",
+      "sol": "His eyes flew wide.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "악귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Fiend"
+        },
+        {
+          "korean": "마두",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "Along with a sensation as hot as a burn, his wrist dropped away.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "279",
+      "sol": "A searing sensation, like a burn, blazed through him as his hand fell away at the wrist.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was agony he had not felt in a very long time. A beat later, a scream burst from his cracked lips.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "281",
+      "sol": "It was agony unlike anything he had felt in a very long time. A beat later, a scream burst from his cracked lips.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, a chill ran down his spine.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "285",
+      "sol": "At the same time, a chill raced down his spine.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He pressed his acupoints like lightning to stop the bleeding, then jerked his head up.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "287",
+      "sol": "He struck his acupoints like lightning to stop the bleeding, then jerked his head up.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Where there had been nothing but a solid cliff moments ago stood a painfully familiar face.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "289",
+      "sol": "Where part of the solid cliff face had stood only moments before, there was now an all-too-familiar face.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But First Fiend’s response was calm.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "295",
+      "sol": "First Fiend merely stared back at him.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So it seems. Your disguise technique was so poor that I suspected as much.”",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "297",
+      "sol": "“So it is you. Your disguise technique was so pathetic, I had my suspicions.”",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "299",
+      "sol": "“…!”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, First Fiend’s hideous face rippled like a wave. His hunched back straightened, while his arms and legs grew long and slender.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "303",
+      "sol": "At that moment, First Fiend’s hideous face rippled like a wave. His hunched back straightened, and his arms and legs grew long and slender.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the place of the ugly old man now stood a handsome boy.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "305",
+      "sol": "In place of the ugly old man stood a handsome boy.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the Third Fiend’s shout, a faint smile passed across the boy’s impassive face—the face of the Slaughter Saint.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "305",
+      "sol": "At the Third Fiend’s shout, a faint smile crossed the boy’s impassive face—the face of the Slaughter Saint.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A faint smile passed across the boy’s impassive face—the face of the Slaughter Saint.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "305",
+      "sol": "A faint smile crossed the boy’s impassive face—the face of the Slaughter Saint.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 137,
+  "sol_sha256": "4da5cda55e0a0c84310d5de2377d062f9923589c6e88bfedba04817be9871dd1",
+  "version": 1
+}

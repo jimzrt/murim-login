@@ -10,7 +10,7 @@
 
 Even after his Senior Brother’s scolding, Hwangso’s scowl refused to budge.
 
-His name was Hwangso, a first-generation disciple of the Gongdao Sect, a martial sect in Sichuan. He had been called out for this mission along with around thirty second- and third-generation disciples.
+He was a first-generation disciple of the Gongdao Sect, a martial sect based in Sichuan. He had been drafted for this mission along with some thirty second- and third-generation disciples.
 
 *Damn it. Five days of this bullshit.*
 
@@ -30,7 +30,7 @@ Just as Hwangso’s thoughts raced toward his favorite pleasure house—
 
 Startled by his Senior Brother’s sudden, tiger-like roar, Hwangso trudged off.
 
-His Senior Brother clicked his tongue at the sight, as if he found him hopeless.
+His Senior Brother clicked his tongue at the sight.
 
 “If you don’t want to die a senseless death, keep your wits about you. Surely you understand what kind of situation we’re in.”
 
@@ -62,11 +62,11 @@ His Senior Brother’s lips moved as if he were about to reply, but he merely si
 
 Whatever he said would go in one ear and out the other. His Junior Brother had no interest in learning how much luck and sacrifice had gone into their victory.
 
-*The unknown master who suddenly appeared and saved Qingcheng Sect. The countless Beggars’ Sect disciples and nearby martial sects who rushed to Emei’s aid when it was in danger. And…*
+*The unknown master who suddenly appeared and saved Qingcheng Sect. The countless Beggars’ Sect disciples and members of nearby martial sects who rushed to Emei’s aid. And…*
 
-If not for *them*, who had saved the Sichuan Tang Clan from annihilation, the three illustrious sects with their long histories would have vanished from the Murim five days ago.
+If not for *them*, the ones who had saved the Sichuan Tang Clan from annihilation, three illustrious sects with centuries of history would have vanished from the Murim five days ago.
 
-The Three-Gate Bloodbath had been a large-scale assault carried out with such thoroughness and suddenness that it had sent a tremendous shock through the entire orthodox martial world.
+The Three-Gate Bloodbath had been a large-scale assault conducted with such ruthless precision and suddenness that it had shaken the entire orthodox martial world.
 
 *And this brat calls himself a martial artist with such shallow thinking. Even if he did join only because circumstances forced him to…*
 
@@ -96,7 +96,7 @@ Hwangso’s complaint was not entirely unreasonable.
 
 It might be darkest beneath the lamp, but there was still no reason for a fiend branded an enemy of the Murim to break through such a dense net over heaven and earth and head toward Chengdu.
 
-*If there were even the slightest chance of that, why would I be here? The Qingcheng Daoists would have been guarding the place.*
+*If there were even the slightest chance of that, why would I be here? The Qingcheng Daoists would be guarding this place.*
 
 This was all because his Senior Brother was so rigid that it went beyond stubbornness and became downright suffocating.
 
@@ -104,11 +104,11 @@ Muttering a quiet curse, Hwangso crooked a finger at the third-generation discip
 
 “You there, the big-nosed one. Yes, you. Everyone from you to that big-eared fellow over there. Ten of you—follow me.”
 
-What else could he do? When they told him to dig, he had to dig.
+What else could he do? Orders were orders.
 
-But as Hwangso left to search, with his Senior Brother’s contemptuous gaze boring into his back, his head was filled with nothing but idle thoughts.
+But as Hwangso set off with his Senior Brother’s contemptuous gaze boring into his back, his head was filled with idle thoughts.
 
-*Just wait. The second this is over, I’m going straight to Tengwang Pavilion and having myself one hell of a time.*
+*Just wait. The second this is over, I’m heading straight to Tengwang Pavilion and having the time of my life.*
 
 With his mind elsewhere, there was no chance of him conducting the search properly.
 
@@ -118,11 +118,11 @@ The third-generation disciples watched Hwangso for cues and lazily scanned their
 
 *Thank goodness they’re all idiots. At this rate, I have nothing to worry about.*
 
-The Third Fiend let out a sigh of relief and extended one foot.
+The Third Fiend let out a sigh of relief and pushed off.
 
 Sssshk.
 
-His body shot forward, skimming over the leaves.
+His body shot forward over the leaves.
 
 A master of considerable skill might have detected him if one were nearby, but judging by the level of everyone he had encountered so far, there was no chance of that.
 
@@ -132,9 +132,9 @@ The thrill of having completely deceived the orthodox faction lasted only a mome
 
 *If it hadn’t been for those fucking bastards…!*
 
-Five days ago, everything had gone smoothly when he led his subordinates in the attack.
+Five days ago, the attack had begun well enough.
 
-The death of the Sect Leader, the Heaven-Shaking Venerable Nun, and the Elders had left a tremendous gap in Emei’s forces, and the Dark Heaven martial artists under the Third Fiend’s command had driven straight into it like a massive harpoon.
+The deaths of the Sect Leader, the Heaven-Shaking Venerable Nun, and the Elders had left a tremendous gap in Emei’s forces. The Dark Heaven martial artists under the Third Fiend’s command had driven into that gap like a massive harpoon.
 
 Then, amid the brutal battle overflowing with blood and death, *they* appeared.
 
@@ -148,7 +148,7 @@ A young man whose name seemed to be either Right Arm or Little Toe—it was hard
 
 *Senior Sister! I’m here!*
 
-And a middle-aged nun who appeared to be a disciple of Emei Sect.
+And even a middle-aged nun who appeared to be an Emei disciple.
 
 At first, even the Third Fiend had been dumbfounded by their fearless entrance.
 
@@ -174,7 +174,7 @@ Not even half a day had passed, yet more than a thousand Beggars’ Sect discipl
 
 An Emei nun charged them head-on without regard for her life, while countless Beggars’ Sect disciples surged in endlessly from behind.
 
-The Third Fiend and the black-clad men under his command fought like mad, cutting down enemy after enemy, but the tide of battle had already begun to turn against them.
+The Third Fiend and the black-clad men under his command fought like mad, cutting down enemy after enemy, but the tide of battle had already turned against them.
 
 *Brothers of the Beggars’ Sect! Never retreat!*
 
@@ -186,29 +186,29 @@ The sheer force of their human-wave assault was horrifying.
 
 Cut down one beggar, and two did not rush forward in his place. Five or ten did.
 
-And if he dredged up every last ounce of strength and cut them down too? There was no need to worry about what came next. A club flying in from somewhere would smash his balls while an iron staff cracked the back of his skull.
+And if they dredged up every last ounce of strength and cut those down as well?
+
+There was no need to worry about what came next. A club flying in from somewhere would smash their balls while an iron staff cracked the backs of their skulls.
 
 The dead had no future.
 
 *Guh…!*
 
-Like a body slowly soaked through by drizzle, the black-clad men collapsed one after another as cold corpses.
-
-Even the Third Fiend, who should have turned the tide of battle, had no time to look after his subordinates.
+As surely as clothes soaked through in a drizzle, the black-clad men fell one after another and became cold corpses. Even the Third Fiend, who should have turned the tide of battle, had no time to look after his subordinates.
 
 *Form the Demon-Subduing Dragon-Taming Formation!*
 
-The Seven Fairies, Emei Sect’s finest masters, used a combined formation to bind the Third Fiend’s feet.
+The Seven Fairies, Emei’s foremost martial artists, used their combined formation to tie down the Third Fiend.
 
-Even when seriously wounded, they never retreated. They attacked as if their lives meant nothing, and the Third Fiend gradually grew exhausted from the mounting fatigue and anxiety.
+Even when grievously wounded, they refused to retreat. They attacked with complete disregard for their lives, and mounting fatigue and frustration gradually wore the Third Fiend down.
 
-The Third Fiend’s face twisted violently as he recalled what had happened five days earlier.
+His face twisted as he recalled what had happened five days earlier.
 
 *And then Extinction Divine Nun appeared. That damned old monster brought it all to an end.*
 
 The arrival of Extinction Divine Nun shocked not only the Third Fiend but even the disciples of Emei.
 
-Thirty years ago, at the age of one hundred, she had withdrawn from worldly affairs. She was the Heaven-Shaking Venerable Nun’s only Senior Aunt, and everyone believed she had since died.
+Thirty years ago, at the age of one hundred, she was said to have passed from this world. She was the Heaven-Shaking Venerable Nun’s only Senior Aunt, and everyone believed her long dead.
 
 When another Supreme Peak master suddenly appeared, the Third Fiend chose to flee without a moment’s hesitation. The black-clad men under his command scattered and ran after their superior.
 
@@ -222,11 +222,11 @@ To this nameless cliff where no one had set foot.
 
 “At last… Guh!”
 
-As the cliff rapidly drew closer, the Third Fiend suppressed the emotions welling up inside him.
+As he sped toward the cliff, the Third Fiend struggled to suppress the emotions welling up inside him.
 
 Only now did the grief and fury of losing his only blood relatives strike him all at once.
 
-“Do not feel too aggrieved. Though I must retreat for now, this youngest brother will surely avenge you, my elder brothers.”
+“Do not mourn too bitterly. Though I must retreat for now, this youngest brother will avenge you without fail, my elder brothers.”
 
 The Third Fiend had just sworn his vengeance and reached toward the cliff when—
 
@@ -236,13 +236,13 @@ His eyes flew wide.
 
 A searing sensation, like a burn, blazed through him as his hand fell away at the wrist.
 
-It was agony he had not felt in a very long time. A beat later, a scream burst from his cracked lips.
+It was agony unlike anything he had felt in a very long time. A beat later, a scream burst from his cracked lips.
 
 “Kyaaaaargh!”
 
 At the same time, a chill raced down his spine.
 
-He pressed his acupoints like lightning to stop the bleeding, then jerked his head up.
+He struck his acupoints like lightning to stop the bleeding, then jerked his head up.
 
 Where part of the solid cliff face had stood only moments before, there was now an all-too-familiar face.
 
@@ -250,9 +250,9 @@ Where part of the solid cliff face had stood only moments before, there was now 
 
 The Third Fiend’s cry held both delight and shock.
 
-But First Fiend’s response was calm.
+First Fiend merely stared back at him.
 
-“So it seems. Your disguise technique was so poor that I suspected as much.”
+“So it is you. Your disguise technique was so pathetic, I had my suspicions.”
 
 “…!”
 
@@ -260,7 +260,7 @@ Crack. Crackle.
 
 At that moment, First Fiend’s hideous face rippled like a wave. His hunched back straightened, and his arms and legs grew long and slender.
 
-In the place of the ugly old man now stood a handsome boy.
+In place of the ugly old man stood a handsome boy.
 
 “Who the hell are you?”
 
