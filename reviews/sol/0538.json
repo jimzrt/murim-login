@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Party Involved*: Ah, Mimi…",
+      "defect": "The censored username abbreviates Tang Sadok’s name; it does not mean “Party Involved.” The current rendering obscures the speaker’s identity and the joke.",
+      "id": "F01",
+      "rationale": "당사* follows the same partially censored name pattern as 적천* and 청* and refers to Tang Sadok, Mimi’s original owner.",
+      "replacement": "Tang Sa*: Ah, Mimi…",
+      "severity": "major",
+      "source": "당사* : 아, 미미야……."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Fine, I understand, you red-faced bastard.”\n\n“What did you say? Why, you filthy bastard…”",
+      "defect": "“Red-faced” invents a physical description absent from the insult, while “filthy bastard” substantially softens the answering 개호로 잡놈. This weakens the profane escalation that makes the exchange absurd.",
+      "id": "F02",
+      "rationale": "시뻘놈 is a vulgar deformation of a strong insult, not a reference to facial color, and 개호로 잡놈 is markedly stronger than “filthy bastard.”",
+      "replacement": "“Fine. Got it, you fucker.”\n\n“What was that? You goddamn son of a bitch…”",
+      "severity": "minor",
+      "source": "“그래, 알았다. 이 시뻘놈아.”\n\n“뭐라? 이런 개호로 잡놈을 봤나…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Tony Tony Chopper—no, Mungyeong. Become my companion!”",
+      "defect": "The draft completes “Chopper,” but the source cuts Taekyung off at 쵸 before he corrects himself. Completing the name changes the timing of the self-interruption joke.",
+      "id": "F03",
+      "rationale": "The comma immediately after 쵸 marks an intentionally aborted name rather than the complete Chopper reference.",
+      "replacement": "“Tony Tony Cho—no, Mungyeong. Become my companion!”",
+      "severity": "minor",
+      "source": "“토니토니 쵸, 아니 문경. 내 동료가 돼라!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I asked Hyuk Mujin, who had his eyes opened wide in astonishment.",
+      "defect": "“Had his eyes opened wide” is an unnatural passive construction and can imply that someone else opened his eyes.",
+      "id": "F04",
+      "rationale": "눈을 동그랗게 뜬 describes Hyuk Mujin widening his own eyes in surprise.",
+      "replacement": "I asked Hyuk Mujin, whose eyes were wide with surprise.",
+      "severity": "minor",
+      "source": "나는 눈을 동그랗게 뜬 혁무진에게 물었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Mungyeong watched him with a deeply sunken gaze.",
+      "defect": "“A deeply sunken gaze” is not natural English and suggests physically sunken eyes rather than Mungyeong’s subdued, weighty expression.",
+      "id": "F05",
+      "rationale": "깊게 가라앉은 describes the settled, subdued quality of his gaze, not the physical position of his eyes.",
+      "replacement": "Mungyeong regarded him with a deep, somber gaze.",
+      "severity": "minor",
+      "source": "문경은 깊게 가라앉은 눈빛으로 응시했다."
+    }
+  ],
+  "summary": "One mistranslated censored username, altered profanity, and several localized fidelity or natural-English issues.",
+  "version": 1
+}

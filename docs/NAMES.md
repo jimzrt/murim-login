@@ -1742,3 +1742,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이룡각 | **Two Dragons Pavilion** | Named pavilion whose masters are identified as Taekyung and Cheongpung at the chapter's close. |
 | 언화평 | **Yan Hwapyeong** | Personal name of the Fist King and last descendant of the Jinzhou Yan Family. |
 | 황보군 | **Hwangbo Gun** | Family Head of the Hwangbo Family and father of its Lesser Family Head. |
+| 집법당 | **Enforcement Hall** | Murim Alliance disciplinary organization. |
+| 베지터 | **Vegeta** | Reference in the joking name Planet Vegeta. |
