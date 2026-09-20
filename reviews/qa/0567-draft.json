@@ -1,0 +1,88 @@
+{
+  "chapter": 567,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.287,
+    "source_characters": 6006,
+    "source_paragraphs": 174,
+    "translation_characters": 13738,
+    "translation_paragraphs": 178
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "1"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대리",
+        "preferred": "Assistant Manager"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전하",
+        "preferred": "His Highness"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "아귀",
+        "preferred": "A-Gwi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마도",
+        "preferred": "Demonic Path"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "그분",
+        "preferred": "that person"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "상호",
+        "romanization": "sangho"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}
