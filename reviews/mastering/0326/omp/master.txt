@@ -34,7 +34,7 @@ I had been quietly listening to the Beggars’ Sect disciple and Lower District 
 
 The middle-aged Lower District Sect member, clearly a veteran of the banking trade, hastily crossed out the character for six and changed it to seven.
 
-As I watched them work, I suddenly picked up one of the bamboo slips that had been set aside.
+As I watched them work, I picked up one of the bamboo slips that had been set aside.
 
 “What’s this?”
 
@@ -64,7 +64,7 @@ As I marveled at the sum, the Lower District Sect member spoke up.
 
 A long, slender finger poked my forearm. It belonged to Wolhwa, who had been standing behind me this entire time, giving off a strange fragrance.
 
-“We brought every piece of information that seemed even slightly suspicious. When we compared everyone’s records, quite a few turned out not to have been Zhongnan’s doing. Young Lady Ju, the Young Bureau Head, would know that well.”
+“We brought every piece of information that seemed even slightly suspicious. Once we compared everyone’s records, quite a few turned out not to have been Zhongnan’s doing. Young Lady Ju, the Young Bureau Head, should remember this one.”
 
 “Oh, really?”
 
@@ -74,7 +74,7 @@ Ju Hwaran was already examining the bamboo slip. After quickly scanning its cont
 
 Under everyone’s gaze, Chief Escort Heo Jun cleared his throat before answering.
 
-“That’s correct. I personally took charge of the escort, and Chief Escort Song here accompanied me. Unfortunately, several misfortunes happened at once, and we failed to meet the deadline. In the end, we had to pay a contractual penalty of one thousand silver nyang.”
+“That’s correct. I personally took charge of the escort, and Escort Captain Song here accompanied me. Unfortunately, several misfortunes struck at once, and we failed to meet the deadline. In the end, we had to pay a contractual penalty of one thousand silver nyang.”
 
 His face was filled with shame.
 
@@ -88,11 +88,11 @@ Nor did I miss Song Ilseom, standing far away with his back against the wall as 
 
 “No. Let’s move on.”
 
-“All right, then. We’ll set this one aside separately.”
+“All right, then. We’ll set this one aside.”
 
 At that moment, someone’s hand blocked Wolhwa’s pale, slender fingers as they reached for the bamboo slip.
 
-It was not a woman’s hand, but the rough hand of a martial artist.
+It was not a delicate woman’s hand, but the rough hand of a martial artist.
 
 Its owner was Ju Hwaran.
 
@@ -196,7 +196,7 @@ Just as I had lost my former teammates, Ju Hwaran had lost people precious to he
 
 “Do you have anything else to say, Great Hero Hwangbo of the Great Zhongnan Sect?”
 
-His tightly clenched fist trembled. Hwangbo Eom closed his eyes instead of answering.
+Her tightly clenched fist trembled. Hwangbo Eom closed his eyes instead of answering.
 
 Hyuk Sopyung stepped forward and gave Ju Hwaran a martial salute on his behalf.
 
@@ -220,7 +220,7 @@ As the old saying goes, a crayfish sides with a crab, and an arm bends inward.[^
 
 I had killed too many enemies to count, but Hwangbo Eom was not merely one martial artist.
 
-The name Taeeul Merciless Sword represented the Zhongnan Sect, and on a personal level, he was also the Sect Leader’s Senior Brother.
+The name Taeeul Merciless Sword represented the Zhongnan Sect, and on a personal level, he was also the Sect Leader’s senior martial brother.
 
 *I could eliminate him if I wanted to… but what comes after that is the problem.*
 
@@ -242,7 +242,7 @@ The important thing was that he was still alive—and by the time he recovered, 
 
 Hwangbo Eom had made two critical mistakes. The first was drawing his sword. The second was ordering the Taeeul Sword Unit to seal off the pavilion.
 
-Drawing his sword was one thing, but the second mistake had been fatal.
+Drawing his sword was one thing, but the second mistake had been disastrous.
 
 *Because it dragged not only the Beggars’ Sect and the Lower District Sect into this, but Huashan as well.*
 
@@ -250,7 +250,7 @@ The Zhongnan Sect’s position would become even more precarious because of this
 
 The final number written on the bamboo slip after all the calculations were complete proved it.
 
-“For the material and human losses suffered by our bureau, along with the enormous contractual penalty we would have owed your sect if this escort mission had failed… the total comes to four hundred thousand silver nyang. The Zhongnan Sect’s finances should be able to handle that much, shouldn’t they?”
+“For the material losses and loss of life suffered by our bureau, along with the enormous contractual penalty we would have owed your sect if this escort mission had failed… the total comes to four hundred thousand silver nyang. The Zhongnan Sect’s finances should be able to handle that much, shouldn’t they?”
 
 Ju Hwaran’s voice was calm, but the same could not be said of the people listening to her.
 
@@ -282,7 +282,7 @@ I was briefly rendered speechless by the astronomical amount when a gentle voice
 
 *What was that? I feel like I just heard something awfully strange.*
 
-It was just as I was giving Wolhwa a suspicious look that Ju Hwaran’s powerful voice rang out.
+As I gave Wolhwa a suspicious look, Ju Hwaran’s firm voice rang out.
 
 “Great Hero Hwangbo, please stamp your handprint yourself as proof.”
 
@@ -290,7 +290,7 @@ We had already reached the final stage.
 
 Hwangbo Eom was visibly furious, but he had no options left.
 
-As though he intended to curse every person in the room until the day he died, he took each of them in one by one with his eyes. Then he pressed his bloodied palm to the bamboo slip as a seal.
+As though he intended to curse every person in the room until the day he died, he glared at them one by one. Then he pressed his bloodied palm to the bamboo slip as a seal.
 
 “Is that enough now?”
 
@@ -298,7 +298,7 @@ As though he intended to curse every person in the room until the day he died, h
 
 Ju Hwaran then gave a deep martial salute.
 
-“I will not see you out. Return safely to your main compound. I hope we never have cause to meet again.”
+“I will not see you out. Return safely to your sect. I hope we never have cause to meet again.”
 
 “You…!”
 
@@ -338,7 +338,7 @@ Might Makes Right. The strong devour the weak.
 
 The ground beneath my feet was the Murim, and I was a martial artist standing upon it. Hwangbo Eom, who had lived as a martial artist for eighty years, understood the meaning of my words better than anyone.
 
-“The Murim. You said the Murim.”
+“The Murim… You said the Murim.”
 
 His mutter sounded almost like a sigh. A brief, hollow laugh escaped him, and his face turned utterly cold.
 
@@ -366,7 +366,7 @@ I did not know what consequences today’s events would bring in the future. But
 
 Pest control. That was all.
 
-Just as I reached that conclusion with a lightened heart, another thought suddenly crossed my mind.
+Just as I reached that conclusion with a lightened heart, another thought crossed my mind.
 
 *Oh, right.*
 
@@ -374,11 +374,11 @@ There was still one left. A pest I absolutely had to catch.
 
 A remarkable pest, too—the kind that had swapped Thousand-Year Snow Ginseng for Hundred-Year-Old Snow Ginseng.
 
-And I had not been the one who drew the sword to exterminate it.
+And I was not the one who had drawn a sword to exterminate it.
 
 Shing.
 
-A supple flexible sword slid into view. Dagger Hidden Flower Ju Hwaran’s deep-red lips parted, and a toneless voice flowed from them.
+A slender flexible sword slid into view. Dagger Hidden Flower Ju Hwaran’s deep-red lips parted, and a toneless voice flowed from them.
 
 “Now there is only one last matter left. Isn’t that right?”
 

@@ -1,0 +1,103 @@
+{
+  "chapter": 326,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.336,
+    "source_characters": 6712,
+    "source_paragraphs": 192,
+    "translation_characters": 15681,
+    "translation_paragraphs": 195
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사형",
+        "preferred": "Senior Brother"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일섬",
+        "preferred": "One Annihilation"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "개방",
+        "preferred": "Beggars' Sect"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전광석화",
+        "preferred": "Quick Attack"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전광",
+        "preferred": "Quick Attack"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "리치",
+        "preferred": "Lich"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "개방도",
+        "preferred": "Beggars' Sect disciple"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소평",
+        "preferred": "So Pyeong"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "낙천",
+        "romanization": "nakcheon"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

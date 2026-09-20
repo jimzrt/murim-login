@@ -32,13 +32,13 @@ I had been quietly listening to the Beggars’ Sect disciple and Lower District 
 
 “……Yes.”
 
-The middle-aged Lower District Sect member, clearly a veteran of the banking trade, hastily crossed out the character for six and changed it to seven.
+The middle-aged Lower District Sect member, clearly seasoned in financial dealings, hastily crossed out the character for six and changed it to seven.
 
 As I watched them work, I suddenly picked up one of the bamboo slips that had been set aside.
 
 “What’s this?”
 
-“Ah, that happened on the sixth day of the fifth month last year…”
+“Ah, that was something that happened on the sixth day of the fifth month last year…”
 
 “Skip the date. How much were the damages?”
 
@@ -50,9 +50,9 @@ The Lower District Sect member quickly corrected himself when he saw my expressi
 
 “One thousand nyang.”
 
-“One thousand nyang? They really helped themselves, didn’t they? Is there anything they didn’t have a hand in?”
+“One thousand nyang? They really bled us dry. There isn’t a single place they didn’t stick their noses into.”
 
-Two silver nyang was enough to cover a family of four’s living expenses for a month. The gap between rich and poor might have been severe, but one thousand silver nyang was enough for an ordinary commoner’s family to live in luxury for three generations.
+Two silver nyang was enough to cover a family of four’s living expenses for a month. Income inequality might have been severe, but one thousand silver nyang was enough for an ordinary commoner’s family to live in luxury for three generations.
 
 As I marveled at the sum, the Lower District Sect member spoke up.
 
@@ -106,7 +106,7 @@ Its owner was Ju Hwaran.
 
 “……Huh?”
 
-Everyone stared at her in confusion, but Ju Hwaran paid them no attention. She picked up the bamboo slip and held it out to the Lower District Sect member calculating the damages.
+While everyone stared at her in confusion, Ju Hwaran paid them no attention. She picked up the bamboo slip and smoothly handed it to the Lower District Sect member who was calculating the damages.
 
 “Add this one, too.”
 
@@ -126,9 +126,9 @@ With just a few strokes, Ju Hwaran added the hefty sum of one thousand silver ny
 
 “This one, too. And that one. Oh, hand me the one over in the corner. Yes, that one.”
 
-Ju Hwaran examined the bamboo slips and checked the amounts with lightning speed. Every time she did, the damages multiplied like rabbits.
+Ju Hwaran examined the bamboo slips and checked the amounts with lightning speed. Every time she did, the damages multiplied like a litter of rabbits.
 
-The calculations in her head were precise, and her swindling was audacious.
+The calculations taking place in her head were precise, and her fraud was audacious.
 
 “This part seems suspicious, too.”
 
@@ -154,9 +154,9 @@ Ju Hwaran shook her head.
 
 “……”
 
-*She went and doubled it. Talk about bold.*
+*She called it and doubled the amount. Talk about bold.*
 
-Hwangbo Eom, who had already half resigned himself to his fate, cried out in a blood-choked voice.
+Hwangbo Eom, who had already given up halfway, cried out in a blood-choked voice.
 
 “I-I’ve never seen a pair of highway robbers like you!”
 
@@ -164,7 +164,7 @@ Hwangbo Eom, who had already half resigned himself to his fate, cried out in a b
 
 Hwangbo Eom seemed intent on eating food set out for the dead starting tonight.
 
-I was just about to begin preparing his funeral rites when—
+I was just about to start preparing the funeral rites when—
 
 “Did you just call us highway robbers?”
 
@@ -174,17 +174,17 @@ Ju Hwaran stared at Hwangbo Eom with an icy expression I had never seen on her b
 
 “How dare you…”
 
-“If every one of these facts is brought to light, will the disciples of the Zhongnan Sect still be able to show their faces in public?”
+“If every one of these facts is revealed in full, will the disciples of the Zhongnan Sect still be able to show their faces in public?”
 
-Ju Hwaran had been forced to lead the Yongbong Escort Bureau before she had even turned twenty, after her father collapsed from qi deviation.
+Ju Hwaran had been forced to lead the Yongbong Escort Bureau at an age barely shy of twenty, after her father collapsed from qi deviation.
 
-She had lost so much to the Zhongnan Sect’s schemes, and her grief for those she had been forced to send off had sunk deep into her heart.
+She had lost so much because of the Zhongnan Sect’s schemes, and the grief of those she had been forced to send off had sunk deep into her heart.
 
 “Escort Captain Seok Domin, escorts Gil Wangjun, Hong Seokjeong, and Noh Dusam, and caravan porter Seok Sam…”
 
-She recited the names of people I did not know in a trembling voice, then glared at Hwangbo Eom with tear-filled eyes.
+She recited the names of people whose identities I did not know in a trembling voice, then glared at Hwangbo Eom with tear-filled eyes.
 
-“Thirty-three people in all lost their lives during this escort mission. Every one of them was family to the Yongbong Escort Bureau. Even when the bureau’s finances deteriorated so badly that we could no longer pay them properly, they stayed with us until the very end.”
+“Thirty-three in total. These are the people who lost their lives on this escort mission. Every one of them was family to the Yongbong Escort Bureau. Even when the bureau’s finances deteriorated so badly that we could no longer pay them properly, they stayed with us until the very end.”
 
 They had not shared blood, but they had been like family.
 
@@ -206,7 +206,7 @@ Hyuk Sopyung stepped forward and gave Ju Hwaran a martial salute on his behalf.
 
 At her blade-sharp reply, Hyuk Sopyung sighed.
 
-“That goes without saying. I will immediately report this to my Master and the other Elders, who are still unaware of what happened.”
+“Of course not. I will immediately report this to my Master and the other Elders, who are still unaware of what happened.”
 
 “I sincerely hope they were unaware.”
 
@@ -254,7 +254,7 @@ The final number written on the bamboo slip after all the calculations were comp
 
 Ju Hwaran’s voice was calm, but the same could not be said of the people listening to her.
 
-Gung Gibang dropped the bamboo staff he had been holding in shock, while Wolhwa marveled at the sum and whispered to me.
+Gung Gibang dropped the bamboo staff he had been holding in shock, while Wolhwa clicked her tongue and whispered to me.
 
 “Young Lady Ju—no, the Young Bureau Head of the Yongbong Escort Bureau—is something else, isn’t she?”
 
@@ -264,7 +264,7 @@ Gung Gibang dropped the bamboo staff he had been holding in shock, while Wolhwa 
 
 “……Huh.”
 
-“Young Master, you just don’t know enough about it. If they paid that much all at once, they’d have to tear out half of the Zhongnan Sect’s foundations.”
+“Young Master, you just don’t know enough about it. If they paid that much all at once, half the Zhongnan Sect’s foundations would have to be torn out.”
 
 In modern terms, would that be several trillion won? Thinking of it that way made the sum feel more tangible.
 
@@ -340,7 +340,7 @@ The ground beneath my feet was the Murim, and I was a martial artist standing up
 
 “The Murim. You said the Murim.”
 
-His mutter sounded almost like a sigh. A brief, hollow laugh escaped him, and his face turned utterly cold.
+His mutter sounded almost like a sigh. After a brief, hollow laugh, his face became utterly cold.
 
 “We’ll meet again. We will!”
 
@@ -354,7 +354,7 @@ Hwangbo Eom turned away, radiating cold fury, and shook off the disciples’ han
 
 Though staggering from his serious injuries, Hwangbo Eom forced himself to walk away. Hyuk Sopyung bowed his head heavily before departing, while the Zhongnan disciples hurried after him.
 
-As I watched their retreating backs, one word suddenly came to mind.
+As I watched their backs, one word suddenly came to mind.
 
 *Gratitude and grudges.*[^2]
 
