@@ -1738,3 +1738,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 학우 | **Hak Woo** | Kunlun Sect top young prodigy known as the Kunlun Cloud Dragon; Taekyung addresses him as Hak. |
 | 일기천룡 | **One-Ride Heavenly Dragon** | Sama Pyo's title for Murong Yeonghwi. |
 | 태산 | **Taishan** | Sama Pyo's giant subordinate. |
+| 매 | **Mae** | Name used in the address Great Hero Mae before Jin Wikyung corrects himself to Alliance Leader. |
