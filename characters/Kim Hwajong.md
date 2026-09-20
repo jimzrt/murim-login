@@ -1,8 +1,8 @@
 # Kim Hwajong (김화종)
 
-- **Safe through:** Chapter 577
+- **Safe through:** Chapter 578
 - **Aliases:** Butler Kim
-- **Role:** Level 80 mage known as Butler Kim; former Class 3 instructor at the Hunter Training Center; arrives at the confrontation between Im Chunsoo and Jin Taekyung
+- **Role:** Kim Hwajong is a Level 80 mage known as Butler Kim and Choi Minwoo's loyal butler and personal escort.
 - **Personality:** Gentle and composed
 - **Voice:** Gentle and measured
 - **Relationships:** Former instructor of Im Chunsoo, who remains terrified of and obedient to him; addresses Im Chunsoo familiarly as Chunsoo
