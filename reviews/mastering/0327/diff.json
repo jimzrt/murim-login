@@ -1,0 +1,2790 @@
+{
+  "baseline_blocks": 224,
+  "baseline_sha256": "a0a6342aa80521d005bda7c74b45b9182c585b075523a766530ff2ebd5e7a40b",
+  "global_terminology_alerts": [],
+  "hunk_count": 150,
+  "hunks": [
+    {
+      "baseline": "Ju Hwaran was beautiful with her sword hanging loosely at her side. She was also cold.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "Ju Hwaran stood with her sword lowered at her side, beautiful and cold.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An aura as sharp as frost rose around her and focused on one person.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "A frost-sharp aura surged around her, directed at one person.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Following Ju Hwaran’s gaze, everyone turned their heads. He stood at the end of it.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "",
+      "sol_paragraphs": "after P5",
+      "sol_range": [
+        5,
+        5
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "주화란",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ju Hwaran"
+        },
+        {
+          "korean": "화란",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hwaran"
+        }
+      ]
+    },
+    {
+      "baseline": "He was a man who looked to be in his early thirties. His features were fairly handsome, but his fiercely arched eyebrows were a flaw.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "Everyone followed Ju Hwaran’s gaze. At its end stood a man who appeared to be in his early thirties. He was fairly handsome, save for the fierce upward slant of his eyebrows.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Song Ilseom’s lips twisted, a chilly voice slipped out.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "Song Ilseom’s lips twisted, and a chilly voice emerged.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Are you calling me?”",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "“Were you calling me?”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The people still inside the pavilion fell into exactly two groups.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "The people still inside the pavilion fell into two groups.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The outsiders, who were confused because they did not know who Song Ilseom was, and the escorts of the Yongbong Escort Bureau, whose faces had gone rigid.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "23",
+      "sol": "The outsiders, who had no idea who Song Ilseom was, looked confused. The escorts of the Yongbong Escort Bureau had gone rigid.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chief Escort Heo Jun was the first to step forward. A faint trace of anger showed on his face.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "25",
+      "sol": "Chief Escort Heo Jun was the first to step forward, faint anger showing on his face.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re standing before the Young Bureau Head. Can’t you show proper respect?”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "27",
+      "sol": "“You stand before the Young Bureau Head. Show some respect.”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then let me ask you something. Why is the Chief Escort who insists that I show proper respect calling the Young Bureau Head by her name in front of everyone?”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "33",
+      "sol": "“Then let me dare to ask you this: why does the Chief Escort lecturing me about respect call the Young Bureau Head by her name in front of everyone?”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You don’t need to answer. I don’t care what you call the Young Bureau Head. Just don’t demand that I show you respect.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "“You needn’t answer. I don’t care what you call the Young Bureau Head. Just don’t demand courtesy from me.”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His tone and behavior were obnoxious, but Song Ilseom did not seem to be wrong.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "His tone and behavior were obnoxious, but Song Ilseom did have a point.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I stared at Heo Jun, who had been rendered speechless, Wolhwa whispered to me.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "41",
+      "sol": "As I watched Heo Jun struggle for words, Wolhwa whispered to me.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The young and handsome one, obviously. I already know who Chief Escort Heo is.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "“The young, handsome one, obviously. I already know who Chief Escort Heo is.”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s nice that you think so highly of me, but what could a Branch Leader who has been in her post for less than half a year possibly know? If he were a disciple of a famous major sect, maybe. But knowing every ordinary escort captain is beyond even me.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "51",
+      "sol": "“It’s nice that you think so highly of me, but what could a Branch Leader who’s been at her post for less than half a year possibly know? A disciple from a famous major sect would be one thing, but even I can’t keep track of every ordinary escort.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“An ordinary escort captain… Do you know who he is?”",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "53",
+      "sol": "“An ordinary escort… Do you know who he is?”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hmm. I know that one of the Dragon-Phoenix Three Escorts is a young escort captain with a nasty temper. That’s about it.”",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "55",
+      "sol": "“Hmm. I know that one of the Dragon-Phoenix Three Escorts is young and has a nasty temper. That’s about it.”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P27",
+      "baseline_range": [
+        27,
+        27
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "55",
+      "sol": "Song Ilseom. Position: escort captain.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Song Ilseom. His position was escort captain. That was about all I knew of him, too.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "57",
+      "sol": "That was about all I knew of him too.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "송일",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Song Il"
+        },
+        {
+          "korean": "표사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "escort"
+        },
+        {
+          "korean": "송일섬",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Song Ilseom"
+        }
+      ]
+    },
+    {
+      "baseline": "*He’s a considerable master. Stronger than the Ten Dragons and Phoenixes.*",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "63",
+      "sol": "*He’s quite a master. Stronger than the Ten Dragons and Phoenixes.*",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If there was one thing I had learned from moving between the Murim and the modern world, it was that Level was not an absolute measure.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "65",
+      "sol": "If there was one thing I had learned from going back and forth between the Murim and the modern world, it was that Level was never an absolute measure.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some people were useless despite having high Levels, while others were much stronger than those above them despite having lower Levels.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "67",
+      "sol": "Some people had high Levels but were utterly useless, while others were stronger than people above their Level.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Song Ilseom was the real thing. I could tell just by watching his stride and the minute movements of his hands. He was a swordsman with extensive real-combat experience and exceptional martial arts.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "69",
+      "sol": "Song Ilseom was the real deal. I could tell just from his gait and the minute movements of his hands. He was a swordsman with extensive combat experience and exceptional martial arts.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if he was not a disciple of a famous major sect, someone of his ability should have become known throughout the Murim long ago.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "73",
+      "sol": "He might not be a disciple of some prestigious sect, but with that much skill, his name should have spread through the Murim long ago.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A needle in a bag was bound to poke through eventually.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "75",
+      "sol": "The saying about a needle in a bag existed for a reason. Exceptional talent was bound to reveal itself eventually.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The needle had deliberately hidden itself, so thoroughly that even the people of the Yongbong Escort Bureau who had spent years with him had no idea how strong he truly was.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "81",
+      "sol": "The needle had deliberately kept itself hidden—and done such a thorough job that even the people of the Yongbong Escort Bureau, who had spent years with him, had no idea how strong he truly was.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A thought suddenly crossed my mind. I could not be certain yet, but he was clearly someone I needed to watch carefully.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "85",
+      "sol": "A thought suddenly crossed my mind. I could not be certain yet, but this was clearly someone I needed to watch carefully.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’d like to step in right now.*",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "87",
+      "sol": "*I’d like to step in right now, but…*",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But this was a knot Ju Hwaran had to untangle herself.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "89",
+      "sol": "This was a knot Ju Hwaran had to untangle herself.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "While I finished making all the preparations necessary to act at any moment, Heo Jun—who had hesitated for a brief instant—began pressing Song Ilseom even more fiercely.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "91",
+      "sol": "While I finished preparing to intervene at any moment, Heo Jun recovered from his hesitation and pressed Song Ilseom even harder.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Captain Song. No, Song Ilseom! Stop spouting nonsense and confess everything already!”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "93",
+      "sol": "“Captain Song. No, Song Ilseom! Enough nonsense. Confess everything!”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s not too late. If you admit your crimes and tell us where the Thousand-Year Snow Ginseng is, even now…”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "101",
+      "sol": "“It isn’t too late. If you admit your crimes now and tell us where the Thousand-Year Snow Ginseng is…”",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Song Ilseom’s answer, Heo Jun stared at him with eyes that had gone flat and cold.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "105",
+      "sol": "At Song Ilseom’s answer, Heo Jun stared at him with cold, sunken eyes.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Are you really going to play it this way?”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "107",
+      "sol": "“Is this really how you intend to play it?”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“I was giving you one last chance for old times’ sake… but I suppose it can’t be helped.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "111",
+      "sol": "“I gave you one last chance for old times’ sake… but I suppose it can’t be helped.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Heo Jun raised his hand, more than twenty escorts spread out around Song Ilseom, blocking his escape in every direction.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "113",
+      "sol": "Heo Jun raised his hand. More than twenty escorts spread out around Song Ilseom, sealing off every escape route.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The two middle-aged escort captains presumed to be the other members of the Dragon-Phoenix Three Escorts surrounded Song Ilseom together with Heo Jun, forming a triangle.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "115",
+      "sol": "The two middle-aged escort captains who appeared to be the other members of the Dragon-Phoenix Three Escorts joined Heo Jun in surrounding Song Ilseom from three sides.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The atmosphere was stretched taut as a bowstring.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "117",
+      "sol": "The atmosphere pulled taut as a bowstring.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was when Ju Hwaran, who had remained silent until then, suddenly spoke.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "119",
+      "sol": "That was when Ju Hwaran, silent until now, abruptly spoke.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“All of you, step back.”",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "121",
+      "sol": "“Everyone, stand back.”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hwaran, he’s not going to confess willingly. We should subdue him first and then—”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "123",
+      "sol": "“Hwaran, he won’t confess willingly. We should subdue him first, then—”",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Her wrist turned, and the flat of her snake-curved flexible sword struck one of the bamboo slips piled on the table, sending it flying toward Song Ilseom.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "129",
+      "sol": "Her wrist turned. The flat of her flexible sword, curving like a snake, struck one of the bamboo slips piled on the table and sent it flying toward Song Ilseom.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There are quite a few interesting records here.”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "133",
+      "sol": "“We found quite a few interesting records.”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After checking what was written on the bamboo slip, Song Ilseom muttered.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "135",
+      "sol": "Song Ilseom checked what was written on the bamboo slip and muttered.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. They’re records of the escort missions you were responsible for over the past two years.”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "139",
+      "sol": "“That’s right. Records of the escort missions you were responsible for over the past two years.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’ve gathered only the failures.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "141",
+      "sol": "“You’ve collected only the failures.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why do you think the Lower District Sect and the Beggars’ Sect collected this information?”",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "143",
+      "sol": "“Why do you think the Lower District Sect and the Beggars’ Sect gathered this information?”",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You must have thought they were connected to the Zhongnan Sect.”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "145",
+      "sol": "“They must have suspected a connection to the Zhongnan Sect.”",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Captain Song was responsible for fifteen escort missions over the past two years. Ten of them failed, and each time, our Yongbong Escort Bureau had to pay a substantial contractual penalty.”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "147",
+      "sol": "“You were responsible for fifteen escort missions over the past two years. Ten of them failed, and every failure forced the Yongbong Escort Bureau to pay a substantial contractual penalty.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ten failures out of fifteen. His success rate was less than half.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "149",
+      "sol": "Ten failures out of fifteen. His success rate was below fifty percent.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that point, even his parents would have suspected him—not just the Beggars’ Sect or the Lower District Sect.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "151",
+      "sol": "At that point, even Song Ilseom’s parents would have suspected him, never mind the Beggars’ Sect or the Lower District Sect.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ju Hwaran continued in a calm voice.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "153",
+      "sol": "Ju Hwaran continued calmly.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s not all. Looking at the escort missions in which you participated as an assistant escort captain, there are many things that seem suspicious.”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "155",
+      "sol": "“That isn’t all. The missions on which you served as assistant escort captain contain a remarkable number of suspicious details.”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I did my best every time, but I failed. That is the only answer I can give the Young Bureau Head.”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "157",
+      "sol": "“I did my best every time, but we failed. That is the only answer I can give you, Young Bureau Head.”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Once again, her flexible sword swung. More than twenty bamboo slips swept up in the sword wind, cut through the air, and fell at Song Ilseom’s feet.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "163",
+      "sol": "The flexible sword swept out again. More than twenty bamboo slips caught in its sword wind, sailed through the air, and scattered at Song Ilseom’s feet.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He clicked his tongue, leaned his sword beside him, and began picking up the bamboo slips to read them.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "167",
+      "sol": "Clicking his tongue, he propped his sword beside him and began picking up the bamboo slips one by one to read.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chief Escort Heo Jun looked ready to charge at the traitor then and there, but at a glance from Ju Hwaran, he had no choice but to let his sword droop.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "171",
+      "sol": "Chief Escort Heo Jun looked ready to charge the traitor then and there, but a glance from Ju Hwaran forced him to lower his sword.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wait was not a long one.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "173",
+      "sol": "They did not have to wait long.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After muttering those words and setting down the final bamboo slip, Song Ilseom raised his fierce-looking eyebrows.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "177",
+      "sol": "Song Ilseom set down the final bamboo slip and arched his fierce eyebrows.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How did you figure it out?”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "179",
+      "sol": "“How did you know?”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You did it cleverly. Cleverly enough that someone could close their eyes and dismiss it as a mistake.”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "181",
+      "sol": "“You were clever. Clever enough that each incident could be dismissed as a simple mistake.”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s a shame.”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "185",
+      "sol": "“That is truly unfortunate.”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Though not a single drop of blood passes between us, I thought of you as family.”",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "189",
+      "sol": "“Though not a single drop of blood connects us, I thought of you as family.”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Family. What soft talk. Time changes even mountains and rivers, so how much more does it change people?”",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "191",
+      "sol": "“Family? What weak-minded nonsense. Time changes even mountains and rivers. How could people be any different?”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At some point, Song Ilseom had gone from formal politeness to openly talking down to her. Yet somehow, every change had come as naturally as flowing water.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "193",
+      "sol": "At some point, Song Ilseom had gone from formal courtesy to openly talking down to her. Yet somehow, the change felt as natural as flowing water.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He asked in a carefree voice, like a man who had just taken off a constricting set of clothes.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "195",
+      "sol": "Like a man finally shedding a stifling set of clothes, he asked with an air of relief, “So what will you do now?”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So what are you going to do now?”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "197",
+      "sol": "",
+      "sol_paragraphs": "after P97",
+      "sol_range": [
+        97,
+        97
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Children resemble their parents. Can you really do it, as Junzi Sword’s bloodline?”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "201",
+      "sol": "“Children resemble their parents. But can the daughter of Junzi Sword truly do it?”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It is something I have to do, and I will do it.”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "205",
+      "sol": "“It must be done, and I will do it.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Her flexible sword, charged with internal energy, rose stiffly into the air. Ju Hwaran’s hardened face was reflected in the transparent blade.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "209",
+      "sol": "Internal energy surged through the flexible sword, straightening the blade until it stood rigid. Ju Hwaran’s hardened face shone in its translucent surface.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A low voice slipped between her lips.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "211",
+      "sol": "Her voice came low.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No matter who I am facing.”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "213",
+      "sol": "“No matter who it may be.”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though she had only just entered the Peak realm, Ju Hwaran was still a Peak master. The subtlety of speed was woven into both her sword arts and her movement technique.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "219",
+      "sol": "Ju Hwaran might have only just entered the Peak realm, but she was still a Peak master. The essence of speed permeated both her sword arts and her movement technique.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The flexible sword shot forward like a ray of light and pierced its target exactly.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "223",
+      "sol": "The flexible sword streaked through the air like a ray of light and pierced its target precisely.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A wet sound rang out as it pierced flesh. Blood spurted into the air, followed by a scream from a single man.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "225",
+      "sol": "Steel punched through flesh. Blood sprayed into the air, and a man screamed.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ju Hwaran’s eyelids trembled as she watched the man kneel, spraying blood.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "229",
+      "sol": "Ju Hwaran’s eyelids trembled as she watched him sink to his knees, scattering blood.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The voice that followed was a question aimed at one person.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "231",
+      "sol": "What followed was a question for one man.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A condemnation directed at the man she had never once doubted.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "233",
+      "sol": "A condemnation of the person she had never once doubted.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The pale, bloodless face of Chief Escort Heo Jun was revealed.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "245",
+      "sol": "Chief Escort Heo Jun’s face was deathly pale.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun’s hair stood on end, and a chill ran down his spine. But by the time he registered the faint sound of something cutting through the air, it was already too late.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "251",
+      "sol": "Heo Jun’s hair stood on end, and a chill raced down his spine. But by the time he registered the faint whistle cutting through the air, it was already too late.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The blade that pierced through flesh was cold as ice. The pain that followed was hot as fire.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "255",
+      "sol": "The blade piercing his flesh was cold as ice. The pain that followed burned like fire.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even then, only one thought continued to circle through his bleached-white mind.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "259",
+      "sol": "Even then, only one thought circled through his blank, bleached-white mind.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Things have gone wrong.*",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "261",
+      "sol": "*It’s all gone wrong.*",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Although the situation had been overturned by the unexpected arrival of Jin Taekyung, it had not been a bad turn of events for him.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "263",
+      "sol": "The unexpected appearance of Jin Taekyung had overturned the entire situation, but that had not necessarily been bad for Heo Jun.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Over the past two years, he had secretly skimmed off wealth worth several thousand silver nyang, sometimes by pretending to make small mistakes and sometimes by making bolder ones.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "265",
+      "sol": "Over the past two years, he had secretly skimmed off several thousand silver nyang by disguising his thefts as mistakes—sometimes small, sometimes audacious.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had already amassed a tremendous fortune. If the Yongbong Escort Bureau prospered because of this incident, his authority as Chief Escort would rise even higher.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "267",
+      "sol": "He had already amassed an enormous fortune. If this incident led to the Yongbong Escort Bureau’s revival, his authority as Chief Escort would only grow.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "On top of that, he could avoid the guilt of betraying the people he trusted.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "269",
+      "sol": "Best of all, he could escape the guilt of betraying those who trusted him.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It would have been the best of both worlds.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "271",
+      "sol": "Two birds with one stone.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If he cut Song Ilseom’s throat, everything would be over.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "277",
+      "sol": "All he had needed to do was cut Song Ilseom’s throat.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The man would die as a traitor who had betrayed the Yongbong Escort Bureau and colluded with the Zhongnan Sect, and the matter could be quietly wrapped up without any further trouble.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "279",
+      "sol": "Song Ilseom would have died branded as a traitor who had betrayed the Yongbong Escort Bureau and colluded with the Zhongnan Sect. The whole matter could have ended quietly, without any further trouble.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I even hid my identity so thoroughly from the Zhongnan Sect, just in case. How did they figure it out?*",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "281",
+      "sol": "*I hid my identity even from the Zhongnan Sect in case something like this happened. How did she find out?*",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then, a shock greater than the pain itself hardened Heo Jun in place.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "285",
+      "sol": "And shock even greater than the pain froze Heo Jun where he knelt.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A low voice pierced his ears.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "287",
+      "sol": "A low voice entered his ears.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He knew the owner of that voice. He could not have failed to recognize it.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "293",
+      "sol": "He knew that voice. How could he not?",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It belonged to the girl he had watched over since she was a baby.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "295",
+      "sol": "It belonged to the girl he had watched over since she was a newborn.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She had been his sworn brother’s treasured jewel, the one and only niece he had once regarded as more his own child than his biological children.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "297",
+      "sol": "She had been his sworn brother’s treasured jewel, his only niece, and once, Heo Jun had loved her more dearly than his own children.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun slowly raised his head and met the eyes of Ju Hwaran looking down at him.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "305",
+      "sol": "Heo Jun slowly raised his head and met Ju Hwaran’s downward gaze.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Her voice had been calm, but her eyes trembled with emotion. Seeing that, an emotion he had temporarily forgotten rose to the surface.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "307",
+      "sol": "Unlike her calm voice, her eyes trembled with emotion. At the sight of them, a feeling he had momentarily forgotten reared its head.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I can live.*",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "311",
+      "sol": "*I can survive.*",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun immediately recognized the turmoil in Ju Hwaran’s eyes.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "313",
+      "sol": "Heo Jun recognized the turmoil in Ju Hwaran’s eyes at once.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She was caught between affection and betrayal. That was the only avenue of escape he had left.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "315",
+      "sol": "She was torn between affection and betrayal. That was his only remaining escape.",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Please spare me. I’m begging you!”",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "321",
+      "sol": "“Spare me. Please, I’m begging you!”",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun cried out desperately. He did not care about the horrified looks of the escorts or anyone else watching their trusted superior betray them.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "323",
+      "sol": "Heo Jun cried out desperately, heedless of the stunned escorts or the other people watching a trusted superior expose his betrayal.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His dignity? The contempt of others?",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "325",
+      "sol": "His dignity? Their contempt?",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The dead could not feel any of it.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "327",
+      "sol": "A dead man could feel neither.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun groaned in pain. Ju Hwaran’s flexible sword had pierced straight through his right shoulder, and the hand gripping the hilt was trembling slightly.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "333",
+      "sol": "Heo Jun groaned in pain. Ju Hwaran’s flexible sword had passed straight through his right shoulder, and the hand gripping its hilt trembled faintly.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then make an excuse. Tell me why you did it. Tell me why you had no choice.”",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "335",
+      "sol": "“Then at least make an excuse. Tell me why you did it. Why you had no other choice.”",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If making excuses could have increased his chances of survival by even a little, Heo Jun would have already begun listing every excuse he could think of.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "337",
+      "sol": "If excuses would have raised his chances of survival even slightly, Heo Jun would already have offered every one he could invent.",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But he knew Ju Hwaran’s personality well. The fact that she had swung her sword meant she was already certain. A halfhearted excuse would only hasten his death.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "339",
+      "sol": "But he knew Ju Hwaran too well. The fact that she had swung her sword meant she was already certain. A clumsy excuse now would only hasten his death.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had to beg unconditionally and work his way into her heart.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "341",
+      "sol": "He had to beg without reservation and appeal subtly to her emotions.",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It was all the fault of this foolish uncle. I have nothing else to say.”",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "343",
+      "sol": "“It was all this foolish uncle’s fault. I have nothing else to say.”",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun lowered his head and reddened his eyes.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "345",
+      "sol": "Heo Jun let his head droop and reddened his eyes.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The effect was immediate. He felt the strength in the sword weaken and continued speaking.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "347",
+      "sol": "The effect was immediate. He felt the strength behind her sword weaken and continued.",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "“It’s shameful, but I once accepted a bribe. Then, after Hyung suddenly collapsed, the Zhongnan Sect approached me using that as leverage, and I… I was afraid I would be cast out. I didn’t want to leave the Escort Bureau I had devoted my entire life to, and I believed the Zhongnan Sect’s promise that they wouldn’t hurt you.”",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "349",
+      "sol": "“I am ashamed to admit that I once accepted a bribe. Then, after my hyung suddenly collapsed, the Zhongnan Sect used it as leverage to approach me, and I… I was afraid I would be cast out. I didn’t want to leave the Escort Bureau I had devoted my entire life to, and I trusted the Zhongnan Sect when they promised they wouldn’t hurt you.”",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I intended to agree only once—just once—but by then I had already stepped into a swamp I could never escape.”",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "353",
+      "sol": "“I intended to cooperate only once—just once—but by then, I had already stepped into a swamp I could never escape.”",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Contrary to his words, there was only one truth in Heo Jun’s entire speech.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "359",
+      "sol": "Despite his claim, Heo Jun’s entire story contained only one truth.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had been the one who approached the Zhongnan Sect while concealing his identity immediately after Junzi Sword collapsed, and that secret relationship had continued for two years.",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "363",
+      "sol": "He had been the one to approach the Zhongnan Sect after Junzi Sword collapsed, concealing his identity as he did so. Their secret relationship had continued for two years.",
+      "sol_paragraphs": "P178",
+      "sol_range": [
+        177,
+        178
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I just have to get through this moment. Just this moment!*",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "365",
+      "sol": "*I only have to get through this moment. Just this moment!*",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tears streamed down his face. They contained no remorse—only his fear of death and his desperate wish to survive.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "367",
+      "sol": "Tears streamed down his face. They held no remorse—only terror of death and a desperate desire to survive.",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At his desperate plea, the people watching shook their heads from side to side. More than a few escorts turned away, unable to bear the sight.",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "371",
+      "sol": "The onlookers shook their heads at his desperate plea. More than a few escorts turned away, unable to bear the sight.",
+      "sol_paragraphs": "P182",
+      "sol_range": [
+        181,
+        182
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Ju Hwaran was different.",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "373",
+      "sol": "Ju Hwaran did not.",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She stared at Heo Jun with her lips pressed tightly together before suddenly speaking.",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "375",
+      "sol": "",
+      "sol_paragraphs": "after P183",
+      "sol_range": [
+        183,
+        183
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "허준",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heo Jun"
+        },
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        },
+        {
+          "korean": "준이",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jun"
+        }
+      ]
+    },
+    {
+      "baseline": "“How did you steal the Thousand-Year Snow Ginseng? I never let it out of my sight, not even for a moment.”",
+      "baseline_paragraphs": "P186",
+      "baseline_range": [
+        185,
+        186
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "377",
+      "sol": "She stared at Heo Jun, biting her lip, then abruptly asked, “How did you steal the Thousand-Year Snow Ginseng? I never let it out of my sight for even a moment.”",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…I mixed a mind-clouding drug into the food. Everyone was exhausted, so a small amount was enough.”",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "383",
+      "sol": "“…I mixed a mind-clouding drug into the food. Everyone was exhausted, so a small dose was enough.”",
+      "sol_paragraphs": "P187",
+      "sol_range": [
+        186,
+        187
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The drug was a narcotic that clouded the mind and induced sleep, and its effects were reliable.",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "385",
+      "sol": "The mind-clouding drug was a narcotic that clouded the mind and induced sleep. Its effects had been undeniable.",
+      "sol_paragraphs": "P188",
+      "sol_range": [
+        187,
+        188
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even Ju Hwaran, a Peak master, had fallen into a deep sleep, believing it was merely the result of the journey’s exhaustion.",
+      "baseline_paragraphs": "P191",
+      "baseline_range": [
+        190,
+        191
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "387",
+      "sol": "Even Ju Hwaran, a Peak master, had fallen into a deep sleep, mistaking the drug’s effects for the exhaustion of the journey.",
+      "sol_paragraphs": "P189",
+      "sol_range": [
+        188,
+        189
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I had to be careful not to make a sound even when leaving. That man—no, Captain Song—was still awake until dawn even after taking the drug.”",
+      "baseline_paragraphs": "P193",
+      "baseline_range": [
+        192,
+        193
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "391",
+      "sol": "“I had to conceal my presence even as I left. That bastard—no, Captain Song—remained awake until dawn despite taking the drug.”",
+      "sol_paragraphs": "P191",
+      "sol_range": [
+        190,
+        191
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Song Ilseom, who had been standing against the wall with his arms crossed, muttered expressionlessly.",
+      "baseline_paragraphs": "P194",
+      "baseline_range": [
+        193,
+        194
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "393",
+      "sol": "Song Ilseom, leaning against the wall with his arms folded, muttered expressionlessly.",
+      "sol_paragraphs": "P192",
+      "sol_range": [
+        191,
+        192
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So that was a mind-clouding drug. No wonder I felt so tired that day. Next time, use something better. Though I don’t know whether you’ll have a next time.”",
+      "baseline_paragraphs": "P195",
+      "baseline_range": [
+        194,
+        195
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "395",
+      "sol": "“So that was a mind-clouding drug. No wonder I felt unusually tired that day. Use something better next time—assuming you have a next time.”",
+      "sol_paragraphs": "P193",
+      "sol_range": [
+        192,
+        193
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun barely managed to swallow the curse that rose to his lips and looked at Ju Hwaran.",
+      "baseline_paragraphs": "P197",
+      "baseline_range": [
+        196,
+        197
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "399",
+      "sol": "Heo Jun barely swallowed the curse rising to his lips and looked at Ju Hwaran.",
+      "sol_paragraphs": "P195",
+      "sol_range": [
+        194,
+        195
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hwangbo Eom, that old man, threatened me. He said that if I didn’t switch the Thousand-Year Snow Ginseng, he would kill me and my family and wipe out the Yongbong Escort Bureau. I only wanted to protect everyone!”",
+      "baseline_paragraphs": "P198",
+      "baseline_range": [
+        197,
+        198
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "401",
+      "sol": "“Hwangbo Eom, that old man, threatened me. He said that unless I switched the Thousand-Year Snow Ginseng, he would kill me and my family and wipe out the Yongbong Escort Bureau. I only wanted to protect everyone!”",
+      "sol_paragraphs": "P196",
+      "sol_range": [
+        195,
+        196
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re right. I once went to Hyung’s sickbed, crying as I confessed everything. But… but I couldn’t undo the mistake.”",
+      "baseline_paragraphs": "P200",
+      "baseline_range": [
+        199,
+        200
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "405",
+      "sol": "“You’re right. I even went to my hyung’s sickbed once and confessed everything in tears. But… but I couldn’t undo my mistake.”",
+      "sol_paragraphs": "P198",
+      "sol_range": [
+        197,
+        198
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the mention of her father, Ju Hwaran’s eyes trembled—but only for an instant.",
+      "baseline_paragraphs": "P202",
+      "baseline_range": [
+        201,
+        202
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "409",
+      "sol": "Ju Hwaran’s eyes trembled at the mention of her father, but only for an instant.",
+      "sol_paragraphs": "P200",
+      "sol_range": [
+        199,
+        200
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She soon shook her head slightly.",
+      "baseline_paragraphs": "P203",
+      "baseline_range": [
+        202,
+        203
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "411",
+      "sol": "Then she gave a small shake of her head.",
+      "sol_paragraphs": "P201",
+      "sol_range": [
+        200,
+        201
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“My father used to tell me that every choice comes with responsibility. Although he failed to make the family business he inherited prosper, he never once regretted his choices.”",
+      "baseline_paragraphs": "P206",
+      "baseline_range": [
+        205,
+        206
+      ],
+      "hunk_id": "H136",
+      "korean_lines": "417",
+      "sol": "“My father often told me that every choice carries responsibility. Though he failed to make the family business he inherited prosper, he never once regretted the choices he made.”",
+      "sol_paragraphs": "P204",
+      "sol_range": [
+        203,
+        204
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun suddenly realized that the conflict and wavering he had seen in Ju Hwaran’s eyes were gradually disappearing.",
+      "baseline_paragraphs": "P207",
+      "baseline_range": [
+        206,
+        207
+      ],
+      "hunk_id": "H137",
+      "korean_lines": "419",
+      "sol": "Heo Jun suddenly realized that the conflict and uncertainty he had seen in Ju Hwaran’s eyes were fading.",
+      "sol_paragraphs": "P205",
+      "sol_range": [
+        204,
+        205
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Could it be?*",
+      "baseline_paragraphs": "P208",
+      "baseline_range": [
+        207,
+        208
+      ],
+      "hunk_id": "H138",
+      "korean_lines": "421",
+      "sol": "*It can’t be.*",
+      "sol_paragraphs": "P206",
+      "sol_range": [
+        205,
+        206
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P208",
+      "baseline_range": [
+        208,
+        208
+      ],
+      "hunk_id": "H139",
+      "korean_lines": "421",
+      "sol": "No.",
+      "sol_paragraphs": "P207",
+      "sol_range": [
+        206,
+        207
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. It could not be.",
+      "baseline_paragraphs": "P209",
+      "baseline_range": [
+        208,
+        209
+      ],
+      "hunk_id": "H140",
+      "korean_lines": "423",
+      "sol": "It could not be.",
+      "sol_paragraphs": "P208",
+      "sol_range": [
+        207,
+        208
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Give me one chance! Just one last chance! I’m your father’s one and only sworn younger brother, and your uncle, aren’t I? Hwaran, for the sake of the bond we’ve shared, please!”",
+      "baseline_paragraphs": "P213",
+      "baseline_range": [
+        212,
+        213
+      ],
+      "hunk_id": "H141",
+      "korean_lines": "425",
+      "sol": "“Give me one more chance! Just one last chance! I’m your father’s only sworn younger brother. I’m your uncle! Hwaran, please—for the sake of the bond we’ve shared!”",
+      "sol_paragraphs": "P212",
+      "sol_range": [
+        211,
+        212
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The bond we’ve shared, you say?”",
+      "baseline_paragraphs": "P214",
+      "baseline_range": [
+        213,
+        214
+      ],
+      "hunk_id": "H142",
+      "korean_lines": "425",
+      "sol": "“Our bond, you say?”",
+      "sol_paragraphs": "P213",
+      "sol_range": [
+        212,
+        213
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. I shared both good and bad with Hyung for thirty years. If your father were here—if it were him—he wouldn’t take my life this easily!”",
+      "baseline_paragraphs": "P215",
+      "baseline_range": [
+        214,
+        215
+      ],
+      "hunk_id": "H143",
+      "korean_lines": "425",
+      "sol": "“Yes! I shared thirty years of hardship and joy with my hyung. If your father were here—if it were him—he would not take my life so easily!”",
+      "sol_paragraphs": "P214",
+      "sol_range": [
+        213,
+        214
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Uncle Heo. No, Chief Escort Heo Jun.”",
+      "baseline_paragraphs": "P216",
+      "baseline_range": [
+        215,
+        216
+      ],
+      "hunk_id": "H144",
+      "korean_lines": "425",
+      "sol": "“Uncle Heo. No—Chief Escort Heo Jun.”",
+      "sol_paragraphs": "P215",
+      "sol_range": [
+        214,
+        215
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heo Jun, who had been repeatedly smashing his head against the floor, lifted his head in a daze.",
+      "baseline_paragraphs": "P217",
+      "baseline_range": [
+        216,
+        217
+      ],
+      "hunk_id": "H145",
+      "korean_lines": "425",
+      "sol": "Heo Jun stopped pounding his head against the floor and looked up blankly.",
+      "sol_paragraphs": "P216",
+      "sol_range": [
+        215,
+        216
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The eyes of his niece were there.",
+      "baseline_paragraphs": "P218",
+      "baseline_range": [
+        217,
+        218
+      ],
+      "hunk_id": "H146",
+      "korean_lines": "425",
+      "sol": "His niece’s eyes met his.",
+      "sol_paragraphs": "P217",
+      "sol_range": [
+        216,
+        217
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were eyes he had never seen before—cold eyes with not a trace of hesitation left in them.",
+      "baseline_paragraphs": "P219",
+      "baseline_range": [
+        218,
+        219
+      ],
+      "hunk_id": "H147",
+      "korean_lines": "425",
+      "sol": "They were eyes he had never seen before—cold and utterly devoid of hesitation.",
+      "sol_paragraphs": "P218",
+      "sol_range": [
+        217,
+        218
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A low voice continued toward the frozen Heo Jun.",
+      "baseline_paragraphs": "P221",
+      "baseline_range": [
+        220,
+        221
+      ],
+      "hunk_id": "H148",
+      "korean_lines": "425",
+      "sol": "Her low voice continued toward the frozen Heo Jun.",
+      "sol_paragraphs": "P220",
+      "sol_range": [
+        219,
+        220
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And in the next moment, silver sword light filled Heo Jun’s vision.",
+      "baseline_paragraphs": "P223",
+      "baseline_range": [
+        222,
+        223
+      ],
+      "hunk_id": "H149",
+      "korean_lines": "425",
+      "sol": "The next instant, silver sword light filled Heo Jun’s vision.",
+      "sol_paragraphs": "P222",
+      "sol_range": [
+        221,
+        222
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Swish! Rip!",
+      "baseline_paragraphs": "P224",
+      "baseline_range": [
+        223,
+        224
+      ],
+      "hunk_id": "H150",
+      "korean_lines": "425",
+      "sol": "Swish! Slice!",
+      "sol_paragraphs": "P223",
+      "sol_range": [
+        222,
+        223
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 223,
+  "sol_sha256": "29e84e49ae778faa98235f66a1b0f556243394df35c5c1f6ab6c89e8de8e4675",
+  "version": 1
+}

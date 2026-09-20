@@ -12,9 +12,9 @@ Everyone followed Ju Hwaran’s gaze. At its end stood a man who appeared to be 
 
 Song Ilseom’s lips twisted, and a chilly voice emerged.
 
-“Are you calling me?”
+“Were you calling me?”
 
-The people still inside the pavilion fell into exactly two groups.
+The people still inside the pavilion fell into two groups.
 
 The outsiders, who had no idea who Song Ilseom was, looked confused. The escorts of the Yongbong Escort Bureau had gone rigid.
 
@@ -96,11 +96,11 @@ While I finished preparing to intervene at any moment, Heo Jun recovered from hi
 
 “I know nothing about it.”
 
-“It’s not too late. If you admit your crimes and tell us where the Thousand-Year Snow Ginseng is, even now…”
+“It isn’t too late. If you admit your crimes now and tell us where the Thousand-Year Snow Ginseng is…”
 
 “I said I don’t know.”
 
-At Song Ilseom’s answer, Heo Jun stared at him with eyes that had gone flat and cold.
+At Song Ilseom’s answer, Heo Jun stared at him with cold, sunken eyes.
 
 “Is this really how you intend to play it?”
 
@@ -128,7 +128,7 @@ Her wrist turned. The flat of her flexible sword, curving like a snake, struck o
 
 “What is this?”
 
-“There are quite a few interesting records here.”
+“We found quite a few interesting records.”
 
 Song Ilseom checked what was written on the bamboo slip and muttered.
 
@@ -152,7 +152,7 @@ Ju Hwaran continued calmly.
 
 “That isn’t all. The missions on which you served as assistant escort captain contain a remarkable number of suspicious details.”
 
-“I did my best every time, but I failed. That is the only answer I can give the Young Bureau Head.”
+“I did my best every time, but we failed. That is the only answer I can give you, Young Bureau Head.”
 
 “That isn’t enough.”
 
@@ -166,7 +166,7 @@ Clicking his tongue, he propped his sword beside him and began picking up the ba
 
 “That bastard…”
 
-Chief Escort Heo Jun looked ready to charge at the traitor then and there, but at a glance from Ju Hwaran, he had no choice but to let his sword droop.
+Chief Escort Heo Jun looked ready to charge the traitor then and there, but a glance from Ju Hwaran forced him to lower his sword.
 
 They did not have to wait long.
 
@@ -198,11 +198,11 @@ Like a man finally shedding a stifling set of clothes, he asked with an air of r
 
 Ju Hwaran answered coldly.
 
-“It is something I have to do, and I will do it.”
+“It must be done, and I will do it.”
 
 Hissssss!
 
-Her flexible sword, charged with internal energy, rose stiffly into the air. Ju Hwaran’s hardened face was reflected in the transparent blade.
+Internal energy surged through the flexible sword, straightening the blade until it stood rigid. Ju Hwaran’s hardened face shone in its translucent surface.
 
 Her voice came low.
 
@@ -218,7 +218,7 @@ Thrust!
 
 The flexible sword streaked through the air like a ray of light and pierced its target precisely.
 
-A wet sound rang out as it pierced flesh. Blood spurted into the air, followed by a scream from a single man.
+Steel punched through flesh. Blood sprayed into the air, and a man screamed.
 
 “Gaaah!”
 
@@ -240,7 +240,7 @@ Chief Escort Heo Jun’s face was deathly pale.
 
 Whoosh!
 
-Heo Jun’s hair stood on end, and a chill ran down his spine. But by the time he registered the faint sound of something cutting through the air, it was already too late.
+Heo Jun’s hair stood on end, and a chill raced down his spine. But by the time he registered the faint whistle cutting through the air, it was already too late.
 
 Thud!
 
@@ -266,17 +266,17 @@ But then…
 
 *Why now, of all times?!*
 
-If he cut Song Ilseom’s throat, everything would be over.
+All he had needed to do was cut Song Ilseom’s throat.
 
 Song Ilseom would have died branded as a traitor who had betrayed the Yongbong Escort Bureau and colluded with the Zhongnan Sect. The whole matter could have ended quietly, without any further trouble.
 
-*I even hid my identity so thoroughly from the Zhongnan Sect, just in case. How did they figure it out?*
+*I hid my identity even from the Zhongnan Sect in case something like this happened. How did she find out?*
 
 Pain.
 
 And shock even greater than the pain froze Heo Jun where he knelt.
 
-A low voice pierced his ears.
+A low voice entered his ears.
 
 “Why did you make that choice, Uncle Heo?”
 
@@ -286,7 +286,7 @@ He knew that voice. How could he not?
 
 It belonged to the girl he had watched over since she was a newborn.
 
-She had been his sworn brother’s treasured jewel, the one and only niece he had once regarded as more his own child than his biological children.
+She had been his sworn brother’s treasured jewel, his only niece, and once, Heo Jun had loved her more dearly than his own children.
 
 And…
 
@@ -420,9 +420,9 @@ Tears and cold sweat streamed down Heo Jun’s cheeks.
 
 He desperately raised his voice.
 
-“Give me one chance! Just one last chance! I’m your father’s one and only sworn younger brother, and your uncle, aren’t I? Hwaran, for the sake of the bond we’ve shared, please!”
+“Give me one more chance! Just one last chance! I’m your father’s only sworn younger brother. I’m your uncle! Hwaran, please—for the sake of the bond we’ve shared!”
 
-“The bond we’ve shared, you say?”
+“Our bond, you say?”
 
 “Yes! I shared thirty years of hardship and joy with my hyung. If your father were here—if it were him—he would not take my life so easily!”
 
