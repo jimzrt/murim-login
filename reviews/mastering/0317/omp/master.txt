@@ -22,13 +22,13 @@ Along with thirty-three funerary urns.
 
 *Thirty-three…*
 
-Ju Hwaran’s eyes suddenly flickered faintly.
+Ju Hwaran’s eyes flickered.
 
-Thirty-three bone urns. Thirty-three faces. Memories of laughing and crying with them flashed before her eyes.
+Thirty-three urns. Thirty-three faces. Memories of laughing and crying with them flashed before her eyes.
 
-“Ah, I shouldn’t be doing this…”
+“Ah, I can’t do this…”
 
-Ju Hwaran rubbed at the corners of her eyes with her sleeve, then slapped both cheeks hard. The sharp crack brought her scattered thoughts back, if only a little.
+Ju Hwaran wiped the corners of her eyes with her sleeve, then slapped both cheeks hard. The sharp crack cleared her scattered thoughts, if only a little.
 
 “This is only the beginning. I have to keep my head.”
 
@@ -68,7 +68,7 @@ A moment later, Chief Escort Heo Jun opened the door and entered with a bright e
 
 “That’s right. And I hear the Taeeul Merciless Sword himself has come. Hahaha.”
 
-Unlike Heo Jun, who was smiling, Ju Hwaran’s gaze sank deeply.
+Unlike the smiling Heo Jun, Ju Hwaran’s expression grew grave.
 
 *The Zhongnan Sect? And the Taeeul Merciless Sword came all the way to Xi’an himself?*
 
@@ -78,7 +78,7 @@ But the more she thought about the arrogant, discourteous attitude the Zhongnan 
 
 “Uncle Heo, don’t you think something is strange?”
 
-“Hm? What do you mean, strange?”
+“Hm? What do you mean?”
 
 “There are still three days until the agreed-upon deadline.”
 
@@ -94,7 +94,7 @@ Under Heo Jun’s utterly baffled gaze, Ju Hwaran spoke gravely.
 
 “But we accepted them. And we’ve performed admirably.”
 
-The conditions demanded by the Zhongnan Sect had been extremely difficult. The other heads of escort bureaus who had flocked there, lured by the Zhongnan Sect’s reputation, had even shaken their heads emphatically and abandoned the commission.
+The Zhongnan Sect’s conditions had been exceedingly harsh. Even the other escort bureau heads who had flocked to them, enticed by the Zhongnan Sect’s name, had shaken their heads and given up on the commission.
 
 If they failed to transport the Thousand-Year Snow Ginseng within the specified period, the mission would be deemed a failure, and they would have to pay an astronomical penalty.
 
@@ -108,7 +108,7 @@ Something that should never have happened had happened.
 
 Information about the Thousand-Year Snow Ginseng had been leaked.
 
-Ju Hwaran was not a fool. She simply lacked experience. She possessed a sharp mind capable of considering every possibility and keeping all options open.
+Ju Hwaran was no fool. She merely lacked experience. She had a sharp mind capable of considering every possibility.
 
 The suspicions she had kept buried until now were slowly taking shape. Ju Hwaran spoke quietly.
 
@@ -130,7 +130,7 @@ Heo Jun cut her off, his face hardening.
 
 Though they shared not a drop of blood, he was an uncle who had always treated her warmly, ever since she was a child.
 
-When he deliberately poured out those words with such a stern expression, Ju Hwaran could no longer continue speaking about the Zhongnan Sect.
+Faced with his stern expression and determined warning, Ju Hwaran could say no more about the Zhongnan Sect.
 
 “Phew.”
 
@@ -176,7 +176,7 @@ After gathering her thoughts, Ju Hwaran asked Heo Jun about the one person still
 
 Heo Jun hesitated before answering.
 
-“I had trustworthy escorts watching him discreetly day and night, but as you know, Hwaran, everyone let their guard down last night…”
+“I had trustworthy escorts watching him discreetly day and night, but as you know, everyone relaxed last night…”
 
 “You took your eyes off him.”
 
@@ -186,9 +186,9 @@ As Heo Jun awkwardly avoided her gaze, Ju Hwaran let out a small sigh.
 
 “Haa…”
 
-Song Ilseom, whose origins were unclear and whose reputation among the public was poor, had been one of their primary subjects of surveillance.
+Song Ilseom, whose origins were unclear and whose reputation was poor, had been one of their primary surveillance targets.
 
-Her suspicions of him had grown particularly strong after he met Jin Taekyung.
+Her suspicions of him had grown particularly strong after their encounter with Jin Taekyung.
 
 *I told him over and over to keep a close eye on Song Ilseom.*
 
@@ -198,7 +198,7 @@ But the careless side he occasionally showed, like now, had also led to mistakes
 
 *All I can do is hope it doesn’t happen this time.*
 
-The milk had already been spilled. In any case, the Thousand-Year Snow Ginseng was in her possession.
+The milk had already been spilled. In any case, the Thousand-Year Snow Ginseng was safely in her possession.
 
 Hiding her disappointment, Ju Hwaran spoke.
 
@@ -206,7 +206,7 @@ Hiding her disappointment, Ju Hwaran spoke.
 
 “At a teahouse called Tengwang Pavilion on the western edge of Xi’an. They want us there by noon.”
 
-Tengwang Pavilion was a famous teahouse that Ju Hwaran had occasionally visited herself.
+Tengwang Pavilion was a famous teahouse Ju Hwaran had visited a few times herself.
 
 There would be plenty of witnesses, and the atmosphere was quiet, making it the perfect place to conclude an escort mission.
 
@@ -226,7 +226,7 @@ Baek Museong came to Xi’an Tower while we were in the middle of packing.
 
 “Haha, don’t worry. I’ll take responsibility for showing you everything properly.”
 
-There it was again. The full-course promise.
+There it was again. The full-course treatment.
 
 Not that I was expecting the full course. I just hoped that when we met again, he wouldn’t be busy beating the hell out of someone like he had been this time.
 
@@ -270,11 +270,11 @@ He had looked to be in his early to mid-thirties at most, but… who was he, and
 
 Had he simply fallen for Ju Hwaran’s beauty and decided to stay?
 
-No. If that were the case, there would have been no reason for him to hide his true abilities. Was this one of those stories where the protagonist hides his power? Did some loser hiding his power look cooler when he rescued her?
+No. If that were the case, he’d have no reason to conceal his true abilities. Was this one of those stories where the protagonist hides his power? Did a loser look cooler rescuing someone if he had been hiding his strength all along?
 
 *Ju Hwaran. We only exchanged a few words, but she seemed like a good person. She had a refreshingly direct way of speaking too.*
 
-She also possessed extraordinary martial talent, having reached the Peak realm at her age.
+Her martial talent was extraordinary as well. She had reached the Peak realm at her age.
 
 And then there was… right. The dimples that appeared when she smiled were pretty. So were her half-moon eyes.
 
@@ -282,7 +282,7 @@ And then there was… right. The dimples that appeared when she smiled were pret
 
 Cats had always been my favorite animals.
 
-“Um, Captain?”
+“Um, Squad Leader?”
 
 “Hm? Yeah?”
 
@@ -316,7 +316,7 @@ Only after making sure enough air could pass through did I hoist the pack frame 
 
 “All right. If everyone’s ready, let’s get going.”
 
-We stepped outside amid Xi’an Tower’s lavish hospitality.
+We stepped outside amid Xi’an Tower’s lavish send-off.
 
 The bustling streets of Xi’an were packed with people. Over the din, Baek Museong spoke.
 
@@ -340,11 +340,11 @@ Just as I was about to turn away, alone in my lingering unease amid the warm far
 
 “How should I know? Someone saw him heading toward Tengwang Pavilion in the west. Apparently, he’s meeting with the Yongbong Escort Bureau… but I can’t say for sure.”
 
-The whispering voices slowly faded into the distance.
+The murmuring voices slowly faded into the distance.
 
-I asked Cheongpung,
+I turned to Cheongpung.
 
-“Young Hero Cheong.”
+“Young Master Cheongpung.”
 
 “Yes, Benefactor.”
 
@@ -352,6 +352,6 @@ I asked Cheongpung,
 
 “Yes! I have!”
 
-“No, you haven’t tried tea yet.”
+“No. You’ve never had tea.”
 
-If I said you hadn’t, then you hadn’t.
+If I said he hadn’t, then he hadn’t.
