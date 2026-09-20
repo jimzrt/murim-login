@@ -64,7 +64,7 @@ Hyuk Sopyung twisted his lips at the chief manager’s stiff expression.
 
 “May I repeat those words to the owner exactly as you said them?”
 
-“Don’t forget. Be sure to tell him. Then I’ll see you next time.”
+“Don’t forget a single one. Until next time.”
 
 Pat, pat.
 
@@ -88,7 +88,7 @@ How could two tigers live on the same mountain?
 
 One had to be the strong one, and the other the weak.
 
-The Zhongnan Sect’s role was the latter.
+The Zhongnan Sect had been forced into the latter role.
 
 *It won’t always be like this.*
 
@@ -126,7 +126,7 @@ Hyuk Sopyung frowned in puzzlement. His Junior Brother spoke.
 
 “……!”
 
-Hyuk Sopyung’s eyes widened. There were only two people his Junior Brother, who was of the same generation as him, could call Senior Martial Uncle.
+Hyuk Sopyung’s eyes widened. There were only two people whom a Disciple of their generation could call Senior Martial Uncle.
 
 One of them, the Roaring Fury Swordsman Song Il, had shut himself away at the main sect because of the internal injury he had suffered at the Fire King’s hands. That left only one person.
 
@@ -172,7 +172,7 @@ Whoooong.
 
 The two streams of qi met.
 
-But there was none of the collision or resistance I had encountered with the Peace Guild members. They simply blended together naturally.
+But there was none of the collision or resistance I had encountered with the Peace Guild members. They simply blended together.
 
 They merged and yielded to my guidance as though they had always been one—as naturally as twins reuniting after a long separation.
 
@@ -330,7 +330,7 @@ I was letting out a sigh of relief when Hyuk Mujin continued.
 
 “……”
 
-Why was that person there?
+Why was He showing up there?
 
 Just as I found myself at a loss for words, the door to our private room at Xi’an Tower slid open, and a grimy face poked inside.
 
