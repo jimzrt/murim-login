@@ -12,7 +12,7 @@ I had considered crossing over to reality for a while to rest, but a crazy skele
 
 *Come to think of it, that place is in Sichuan too.*
 
-Was some kind of curse following me?
+Was this province cursed or something?
 
 No wonder Shu was the first kingdom to fall in *Romance of the Three Kingdoms*.
 
@@ -42,7 +42,7 @@ Mungyeong came running up, panting heavily.
 
 “Huff… I-I stayed up late reading medicinal prescriptions, and…”
 
-I didn’t even have to look. I could see the whole thing in virtual reality: he had clearly pushed himself too hard in his burning enthusiasm for learning, then overslept.
+I didn’t need to ask what had happened. I could see it as clearly as virtual reality: burning with enthusiasm for his studies, he had pushed himself too hard and overslept.
 
 I waved off Mungyeong as he anxiously watched my expression.
 
@@ -58,7 +58,7 @@ Mungyeong smiled brightly and patted his bulging travel bag.
 
 “Hehe.”
 
-That kid was absolutely thrilled.
+The kid was absolutely thrilled.
 
 Then again, to a novice medical apprentice like Mungyeong, all of this was practically a fortuitous encounter.
 
@@ -66,7 +66,7 @@ The Sichuan Tang Clan wasn’t the kind of place that opened its doors to anyone
 
 It was a great Murim family as well as a renowned medical family. Everything Mungyeong had gained here would be a tremendous asset to him in the future.
 
-“Good. You should be able to take something away from this, at least.”
+“Good. At least one of us got something out of this.”
 
 “Huh?”
 
@@ -80,7 +80,7 @@ We were still talking when the middle-aged man we had met the day before approac
 
 “Everyone’s here. Follow me.”
 
-We followed him. The atmosphere and behavior of the people we passed seemed even more tense than yesterday, but there were far fewer martial artists around.
+We followed him. The people we passed seemed even tenser than yesterday, but there were far fewer martial artists around.
 
 *It’s begun.*
 
@@ -88,7 +88,7 @@ Large numbers of martial artists must have left to hunt down the culprit.
 
 No, the hunt had probably begun before we even arrived. Tang Sadok had lost his father. There was no way he would have spent several days sitting around in a daze.
 
-After walking while lost in thought, we soon reached the iron gate.
+Lost in thought, I reached the iron gate before I knew it.
 
 As the gate slowly opened, the middle-aged man abruptly spoke.
 
@@ -112,7 +112,7 @@ Now it was time to say goodbye to one more person.
 
 “It’s been fun.”
 
-Mungyeong nodded as though he understood.
+Mungyeong nodded in understanding.
 
 “You’re leaving again.”
 
@@ -172,7 +172,7 @@ I waved to Mungyeong, then turned resolutely toward the west.
 
 “Come on. Let’s go to Qingcheng.”
 
-I was just about to take my first determined step when—
+I was just about to stride off with determination when—
 
 “Young Hero Jin Taekyung?”
 
@@ -188,7 +188,7 @@ They were the guides the Sichuan Tang Clan had assigned to us.
 
 “……?”
 
-“That’s not the right direction. The road is blocked if you go that way.”
+“That’s the wrong direction. The road is blocked that way.”
 
 “……!”
 
@@ -204,7 +204,7 @@ Unusually for members of the Tang Clan, they specialized in gathering and cultiv
 
 “But according to the map, this seems to be the right way.”
 
-“What’s written on a map isn’t always the answer. That’s especially true of old maps.”
+“What’s written on a map isn’t always the answer. That’s especially true of an old map.”
 
 “The Sichuan Tang Clan gave me this one.”
 
@@ -220,27 +220,27 @@ After that, I simply went wherever they told me and stopped whenever they told m
 
 “Wait. Can’t we just jump across here?”
 
-“Huh? This is a cliff.”
+“What? This is a cliff.”
 
 “If we jump straight to the cliff on the other side, we’ll get there in no time.”
 
 “You’ll die in no time too. The gap is nearly twenty zhang wide. How could you possibly—”
 
-“Come on, let’s give it a try.”
+“Let’s give it a try.”
 
 *Boom! Whoooosh! Tap-tap!*
 
 “See? It works.”
 
-“……It actually works.”
+“……It actually worked.”
 
 “All right, cross one at a time!”
 
-“……Are you talking to us?”
+“……Were you talking to us?”
 
 “Oh.”
 
-“Could you jump back over and carry us across?”
+“Could you come back and carry us across?”
 
 “Can do. Easily.”
 
@@ -290,7 +290,7 @@ We might all belong to the orthodox faction, but an entire sect had rolled up it
 
 “And this isn’t all. We’ve also sent messenger pigeons to our lay disciples, so we should receive good news soon.”
 
-Although the Qingcheng Sect did not possess the same standing as Huashan or Shaolin, it was still a massive, prestigious sect—large enough to be called one of the Nine Sects and One Gang.
+Although the Qingcheng Sect did not possess the same standing as Huashan or Shaolin, it was still a massive, prestigious sect—one of the Nine Sects and One Gang.
 
 The vast web of connections it had formed through its lay disciples would be an enormous help.
 
@@ -330,7 +330,7 @@ We had two guides, and there were already plenty of people in our group. There w
 
 There was no telling where Cheongpung might run off to, so I would keep him with me. By now, Gung Gibang and Hyuk Mujin were probably running as fast as they could toward the Emei Sect.
 
-Just then, one of the guides asked curiously,
+One of the guides gave me a curious look.
 
 “Then where are you going?”
 
@@ -346,15 +346,15 @@ Just then, one of the guides asked curiously,
 
 “Then why…?”
 
-I spoke to the guide, who shook his head as though he could not understand me at all.
+The guide shook his head, utterly unable to understand.
 
 “But wouldn’t it be a different story with hundreds or thousands of people?”
 
-“H-Hundreds or thousands? Are you perhaps acquainted with the Sichuan City Lord?”
+“H-Hundreds or thousands? Are you perhaps acquainted with the City Lord of Sichuan Province?”
 
 “No.”
 
-I grinned and continued.
+I grinned.
 
 “I’m friends with a king.”
 
@@ -362,4 +362,4 @@ I grinned and continued.
 
 Prince Shangshan, Zhu Bao.
 
-He was the one and only younger brother of the emperor of the Great Nation that ruled the world, a noble imperial Prince—and a huge fan of mine.
+The sole younger brother of the emperor who ruled the Great Nation under heaven, a noble imperial Prince—and a huge fan of mine.
