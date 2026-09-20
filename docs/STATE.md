@@ -1,15 +1,17 @@
 # Translation State
 
-- Last completed: 550
-- Next chapter: 551
-- Current block: 550–554 (1/5)
-- Latest translation: `translations/0550.md`
-- Latest summary: `summaries/beats/0550.md`
-- Safe profiles through: chapter 550
+- Last completed: 551
+- Next chapter: 552
+- Current block: 550–554 (2/5)
+- Latest translation: `translations/0551.md`
+- Latest summary: `summaries/beats/0551.md`
+- Safe profiles through: chapter 551
 
 ## Current Block
 
-- Mae Jonghak's first mission for the Fire Dragon Pavilion creates the Journey to Nanman Quest, requiring Jin Taekyung and the pavilion to enter Nanman without a time limit or useful hints. As Taekyung prepares to leave Henan, Cheongpung says goodbye and reveals that he is learning martial arts from Mungyeong by observation to become stronger and adapt to this world. Mungyeong agrees that Nanman is a plausible site for Dark Heaven's second rift, warning that a successful attack could spread chaos from Yunnan through Guizhou and Guangxi to Sichuan. Song Ilseom arrives in disguise with the discreet transport arranged by Ju Hwaran, while Jeok Cheongang remains in Henan; before Taekyung departs, Mungyeong sends him a grim warning through Sound Transmission and Cheongpung gives him dumplings.
+- Jeok Cheongang worries about Jin Taekyung's departure while drinking with Mae Jonghak, who reassures him that Taekyung will succeed and that the Hidden Shadow Pavilion can provide intelligence in Nanman if necessary.
+- Taekyung, Hyuk Mujin, Ju Hwaran, and Song Ilseom secretly leave Henan in a straw-covered carriage. Hwaran travels under a disguise mask made by Song, while Hyuk's urgent need to relieve himself nearly exposes them. They plan to change horses and reunite with the other two party members at Mount Daebyeol before leaving Henan.
+- With the journey temporarily safe, Taekyung buries himself in the straw and uses Logout, intending to dream during the long-delayed period of unconsciousness.
 
 ## Open Questions
 
@@ -24,8 +26,8 @@
 - Render 건량 as dry rations, 광서 as Guangxi, 대별산 as Mount Daebyeol, 만리행 as Ten-Thousand-Li Journey, and 고잉메리호 as Going Merry.
 - Render 반 시진 as half a shichen and retain Nanman, Nanman Beast Palace, Fire Dragon Pavilion, Great Hero, and Young Lady Ju.
 - Render 남만행 as Journey to Nanman and 남만을 못 가 as Can't Go to Nanman.
-- Preserve Taekyung's blunt profanity and financial, monster, no-kids-zone, and P-King humor, along with Taishan's clipped childlike speech.
-- Render 폰의생 as fake physician and preserve Mungyeong's dry, threatening voice.
+- Render 면구 as disguise mask, 역용술 as disguise technique, 각주님 as Pavilion Master, and 로그아웃 as Logout.
+- Preserve Taekyung's blunt profanity and toilet humor, Mae Jonghak's dry banter, and Mungyeong's dry, threatening voice.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

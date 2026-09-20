@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“Be careful what you use. I’m confident I can withstand even Formless Ultimate Poison now.”",
+      "defect": "Jeok tells Mae to research the poison thoroughly before using it, not merely to be careful about his choice.",
+      "id": "F01",
+      "rationale": "잘 알아보고 쓰시오 explicitly means to investigate or learn about it properly before using it, which also motivates Mae’s reply that he will investigate.",
+      "replacement": "“Do your research before you use it. I’m confident I can withstand even Formless Ultimate Poison now.”",
+      "severity": "minor",
+      "source": "“잘 알아보고 쓰시오. 이제는 무형지독(無形至毒)도 견딜 자신이 생겼으니까.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Oh, was that a joke? I see.”",
+      "defect": "The translation replaces Mae’s deliberately unfinished, ominous retort with a neutral acknowledgment, weakening the joke and Jeok’s resulting alarm.",
+      "id": "F02",
+      "rationale": "난 또 trails off as “And here I thought…,” implying Mae may genuinely have intended to poison him.",
+      "replacement": "“Oh, that was a joke? And here I thought…”",
+      "severity": "major",
+      "source": "“아, 농이었소? 난 또.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“...You call that an answer?”\n\n“It is technically correct. I just said it with my own mouth.”",
+      "defect": "Mae does not claim that his prediction is technically correct. He facetiously argues that it qualifies as something said because it came from his mouth.",
+      "id": "F03",
+      "rationale": "The exchange hinges on 말 meaning something spoken, not on the factual correctness of Mae’s noncommittal answer.",
+      "replacement": "“…And you call that something to say?”\n\n“Well, it was something I said. It just came out of my mouth.”",
+      "severity": "major",
+      "source": "“……그걸 지금 말이라고 하는 거요?”\n\n“일단 말은 맞소. 지금 막 내 입으로 한 말이니.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Although Shaolin Temple, the Sichuan Sect, and several other sects had suffered heavy losses, not a single city in the Nine Provinces—territory that could still be called the orthodox faction’s domain—had fallen.",
+      "defect": "성 means a province here, not a city, substantially reducing the geographic scale of what has remained unconquered.",
+      "id": "F04",
+      "rationale": "The source states that no province belonging to the orthodox faction’s Nine Provinces has fallen.",
+      "replacement": "Although Shaolin Temple, the Sichuan Sect, and several other sects had suffered heavy losses, none of the provinces within the Nine Provinces—the territory still held by the orthodox faction—had fallen.",
+      "severity": "critical",
+      "source": "소림사와 사천문을 비롯한 몇몇 문파가 큰 피해를 입긴 했으나, 아직 정파의 영역이라 할 수 있는 구주(九州)에 속한 어느 성도 무너지지 않았으니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "As Jeok Cheongang answered curtly, Mae Jonghak gazed at him with deep affection.",
+      "defect": "The translation adds affection not stated by the source.",
+      "id": "F05",
+      "rationale": "그윽한 describes the depth or intensity of Mae’s gaze; it does not explicitly identify the emotion as affection.",
+      "replacement": "As Jeok Cheongang answered curtly, Mae Jonghak fixed him with a deep gaze.",
+      "severity": "minor",
+      "source": "퉁명스럽게 대꾸하는 적천강을, 매종학이 그윽한 눈빛으로 응시했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I swore even when I only farted under a blanket.",
+      "defect": "The translation makes Taekyung the person farting and inexplicably swearing at his own action. The source describes how even someone farting beneath the same covering would make him curse.",
+      "id": "F06",
+      "rationale": "The line establishes why being trapped beside Mujin during a bowel movement would be intolerable; it does not recount Taekyung farting.",
+      "replacement": "Even a fart under the same blanket would be enough to make me swear.",
+      "severity": "critical",
+      "source": "이불 덮고 방귀만 뀌어도 욕이 나오는데, 함께 볏짚에 파묻혀 있는 상황에서 그런 불상사가 벌어지는 건 죽어도 거부하고 싶다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Perhaps the inspection took some time, so Young Hero Hyuk must have been in quite a hurry. I’m glad he didn’t miss the moment.”",
+      "defect": "Ju Hwaran says she is glad they were not too late, meaning Mujin reached relief before losing control. The current wording awkwardly recasts this as Mujin not missing a particular moment.",
+      "id": "F07",
+      "rationale": "늦지 않아서 다행이에요 directly expresses relief that their arrival was not too late.",
+      "replacement": "“The inspection must have taken a while if Young Hero Hyuk was that desperate. I’m glad we weren’t too late.”",
+      "severity": "minor",
+      "source": "“검문에 시간이 걸려서 그런지, 혁 소협이 많이 급했나 보네요. 늦지 않아서 다행이에요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You just took a shit yourself. Why are you acting so high and mighty...”",
+      "defect": "The translation invents the scene fact that Song Ilseom has just defecated. Mujin only protests that Song also has bowel movements like anyone else.",
+      "id": "F08",
+      "rationale": "지도 똥 싸는 주제에 is a general accusation of hypocrisy, not a statement that Song has just relieved himself.",
+      "replacement": "“You shit too. Why are you giving me such a hard time…”",
+      "severity": "critical",
+      "source": "“지도 똥 싸는 주제에 되게 뭐라고 하네…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Probably. We headed for the West Gate, where inspections are the weakest, so they should have already left Luoyang ahead of us.”",
+      "defect": "The omitted subject is the other two travelers, not Ju Hwaran’s group. The current sentence assigns the West Gate route to the wrong party and makes its own causal logic contradictory.",
+      "id": "F09",
+      "rationale": "Their choice of the weakly inspected West Gate is why Ju Hwaran expects them to have escaped Luoyang ahead of the carriage group.",
+      "replacement": "“Probably. They headed for the West Gate, where inspections are the weakest, so they should have left Luoyang before us.”",
+      "severity": "critical",
+      "source": "“아마도요. 검문이 가장 취약한 서문(西門)으로 향했으니, 이미 저희보다 먼저 낙양을 벗어났을 거예요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Two shichen at most to Mount Daebyeol. I have plenty of time.*",
+      "defect": "The translation reverses the time bound. Two shichen is the fastest possible journey, not the maximum.",
+      "id": "F10",
+      "rationale": "빠르면 establishes a lower bound and matches Ju Hwaran’s preceding estimate of two shichen without delays and up to three with thorough inspections.",
+      "replacement": "*Two shichen at the earliest to Mount Daebyeol. I have plenty of time.*",
+      "severity": "critical",
+      "source": "‘대별산까지 빠르면 두 시진. 시간은 충분해.’"
+    }
+  ],
+  "summary": "Several actionable fidelity defects, including altered geography, reversed travel timing, wrong route subject, and invented physical action.",
+  "version": 1
+}
