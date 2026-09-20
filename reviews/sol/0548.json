@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“To be honest, I don’t know how I should take what you said. That’s how much you’ve changed today…”",
+      "defect": "The draft adds the claim that Taekyung changed today. The source leaves Jin Wikyung’s description of how Taekyung seemed today unfinished and deliberately ambiguous.",
+      "id": "F01",
+      "rationale": "The trailing 그만큼 오늘의 너는…… does not state that a change occurred that day; its unfinished predicate conveys Jin Wikyung’s inability or reluctance to describe the unfamiliar impression Taekyung made.",
+      "replacement": "“To be honest, I don’t know how I should take what you said. Today, you were just so…”",
+      "severity": "major",
+      "source": "“사실 네 말을 어찌 받아들여야 할지 모르겠구나. 그만큼 오늘의 너는…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "There was a reason people called it a mountain of swords and forest of sabers.",
+      "defect": "The two weapons in the compound image are reversed.",
+      "id": "F02",
+      "rationale": "刀山劍林 literally places sabers or blades in the mountain and swords in the forest.",
+      "replacement": "There was a reason people called it a mountain of sabers and a forest of swords.",
+      "severity": "minor",
+      "source": "오죽하면 도산검림(刀山劍林)이라 하겠나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The problem was the environment in which all of us had grown up.",
+      "defect": "The draft changes the subject to include the narrator, falsely implying that Taekyung grew up in the same Murim environment. The source refers to Jin Wikyung and the others who grew up there.",
+      "id": "F03",
+      "rationale": "그를 포함한 모두 means “everyone, including him,” not “all of us.” This distinction matters because the narrator’s modern-world experience is the basis of the contrast.",
+      "replacement": "The problem was the environment he and all the others had grown up in.",
+      "severity": "critical",
+      "source": "문제는, 그를 포함한 모두가 자라난 환경이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Come to think of it, Youngest. Where did you get that? I was certain you took everything without leaving anything behind.”",
+      "defect": "The draft assigns the collection of the Water God Dragon’s remains to Taekyung. The source says the remains had supposedly been collected without anything missing, which is why Jin Wikyung questions the extra material Taekyung possesses.",
+      "id": "F04",
+      "rationale": "챙긴 것으로 아는데 has no stated second-person subject here. Making Taekyung the collector contradicts the surrounding explanation that he secretly slipped away some byproducts.",
+      "replacement": "“Come to think of it, Youngest. Where did you get that? I was certain it had all been collected without a single piece missing.”",
+      "severity": "critical",
+      "source": "“그러고 보니 막내야. 그건 어디서 난 것이냐? 분명 빠지는 것 없이 챙긴 것으로 아는데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Wikyung stared at me for a long moment before suddenly speaking.",
+      "defect": "The draft omits Taekyung awkwardly scratching his chin while Jin Wikyung watches him.",
+      "id": "F05",
+      "rationale": "머쓱하게 턱을 긁적이는 is an explicit physical action and conveys Taekyung’s embarrassment after evading the question.",
+      "replacement": "As I awkwardly scratched my chin, Jin Wikyung stared at me for a long moment before suddenly speaking.",
+      "severity": "minor",
+      "source": "머쓱하게 턱을 긁적이는 나를, 한동안 물끄러미 응시하던 진위경이 불쑥 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I won’t ask you outright. Nor will I harbor any further doubts. But there is one thing I have wanted to say to you.”",
+      "defect": "The draft turns Jin Wikyung’s unspoken wish into something he has wanted to say, obscuring that his wish is to hear Taekyung’s hidden story when the time is right.",
+      "id": "F06",
+      "rationale": "한 가지 바람 is specifically “one wish,” while 지금껏 네게 말하지 못한 says he has not previously told Taekyung about it.",
+      "replacement": "“I won’t ask you outright. Nor will I harbor any further doubts. But there is one wish I have never told you about.”",
+      "severity": "major",
+      "source": "“구태여 묻지 않겠다. 더 이상의 의문도 품지 않으마. 다만 지금껏 네게 말하지 못한 한 가지 바람은 있다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Perhaps I would tell someone the secret that I had never been able to share with anyone.",
+      "defect": "The draft makes the prospective recipient an indefinite “someone” and omits 직접, losing the intimate implication that Taekyung may personally tell Jin Wikyung.",
+      "id": "F07",
+      "rationale": "The omitted recipient is established by the immediately preceding exchange with Jin Wikyung, and 직접 emphasizes Taekyung telling him personally.",
+      "replacement": "Perhaps I would tell him myself the secret I had never been able to share with anyone.",
+      "severity": "major",
+      "source": "그리고 마음의 준비가 끝난다면…… 누구에게도 말할 수 없었던 나만의 비밀을 직접 말할지도 모르겠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Rrrrip.*",
+      "defect": "The English sound effect implies that the scroll tears, although it merely unfurls across the table.",
+      "id": "F08",
+      "rationale": "촤르륵 represents the rapid rustling or unrolling sound of the scroll, not ripping damage.",
+      "replacement": "*Rustle.*",
+      "severity": "minor",
+      "source": "촤르륵."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*The word “first” only exists because there can be a second.*",
+      "defect": "The draft weakens the narrator’s assertion from the existence of a second occurrence to its mere possibility.",
+      "id": "F09",
+      "rationale": "두 번째가 있기에 is assertive—“because there is a second”—and supports Taekyung’s reasoning that the first rift was meant to be repeated.",
+      "replacement": "*The word “first” only exists because there is a second.*",
+      "severity": "major",
+      "source": "최초는, 두 번째가 있기에 만들어진 수식어."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Welcome back… Wow. The owner is going to cry tears of blood. That door hasn’t even been replaced for half an hour.”",
+      "defect": "The final sentence does not say that the door was replaced less than half an hour ago; in English it instead suggests that no replacement occurred during the preceding half hour.",
+      "id": "F10",
+      "rationale": "교체한 지 한 식경도 안 된 means less than half an hour has elapsed since the replacement, which supplies the joke that Taekyung immediately destroyed a brand-new door.",
+      "replacement": "“Welcome back… Wow. The owner is going to cry tears of blood. That door was replaced less than half an hour ago.”",
+      "severity": "major",
+      "source": "“오셨습…… 이야. 주인장이 피눈물 흘리겠구만. 저거 교체한 지 한 식경도 안 된 건데.”"
+    }
+  ],
+  "summary": "Two subject/background errors and several meaningful omissions or altered details require correction.",
+  "version": 1
+}

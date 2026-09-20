@@ -894,3 +894,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 황보군 | senior Five Kings master to subordinate Alliance officer | you; bastard | blunt, threatening, and contemptuous | Jeok orders Hwangbo Gun to sit down and dismisses his objections. |
 | 송호 | 적천강 | Hidden Shadow Pavilion Chief to legendary senior master | Great Hero Jeok | formal-deferential | Song Ho addresses Jeok while questioning the basis for his confidence in Taekyung. |
 | 적천강 | 송호 | senior martial master to allied intelligence chief | you | blunt but reassuring | Jeok directly tells Song Ho to believe Taekyung. |
+| 매종학 | 천면호리 | Alliance Leader to Hidden Shadow Pavilion Chief | Chief of the Hidden Shadow Pavilion | casual-but-commanding | Asks Song Ho's view of Taekyung's suspected target. |
