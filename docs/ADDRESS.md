@@ -970,3 +970,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최민우 | 화종 | Young Master to butler | Butler Kim | formal and respectful | Choi refers to Hwa-jong as 김 집사님 while discussing the concealed truth. |
 | 최민우 | 송천우 | temporary ally to rival | Regional Director | formal and cutting | Choi uses 지사장님 while condemning Song's survival and concealment. |
 | 송천우 | 천태민 | former subordinate to revered older brother by respect | Hyung | reverent and familiar; shocked | Song Cheonwoo recognizes Cheon Taemin's blood in Choi Minwoo and mutters 형님 while facing Choi. |
+| 고세원 | 경호팀 | security-team commander to subordinate unit | Security Team | terse operational command | Calls the unit over radio before requesting status reports. |
+| 고세원 | 1팀장 | security-team commander to Team One leader | Team Leader of Team One | curt and demanding | Demands the report be repeated after hearing that Team One has nine members. |
