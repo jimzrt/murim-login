@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Song explains that Go Jun seized his children, forcing him to attack Choi, and confirms that Taemin remains alive but unconscious.",
+      "defect": "The reading copy identifies the hostages only as Song’s family or blood relatives, not specifically his children, and Song’s claim about Taemin has not been independently confirmed.",
+      "id": "C01",
+      "rationale": "This removes unsupported relationship specificity and preserves the distinction between Song’s testimony and an independently established fact.",
+      "replacement": "Song explains that Go Jun seized his family, forcing him to attack Choi, and says that Taemin remains alive but unconscious.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Go Jun seized Song Cheonwoo's children as leverage, forcing Song to attack Choi despite their temporary alignment against Go Jun.",
+      "defect": "The durable state converts the reading copy’s broader references to family and blood relatives into the unsupported specific claim that the hostages are Song’s children.",
+      "id": "C02",
+      "rationale": "Long-term continuity should not preserve a relationship detail that has not been established in the English reading copy.",
+      "replacement": "Go Jun seized Song Cheonwoo's family as leverage, forcing Song to attack Choi despite their temporary alignment against Go Jun.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Choi Minwoo has confirmed Song's account enough to treat Taemin's status as genuine while continuing to investigate.",
+      "defect": "Choi has not confirmed Song’s account; he merely finds it credible enough to continue investigating, while explicitly retaining distrust.",
+      "id": "C03",
+      "rationale": "The current state collapses an unresolved allegation into confirmation and could cause later chapters to treat Taemin’s condition as independently verified.",
+      "replacement": "Choi Minwoo considers Song's account credible enough to investigate, but he has not independently confirmed Cheon Taemin's condition or location.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.94,
+      "current": "You have defeated Lv. 140 ‘King of the Black Sea’ Kraken!",
+      "defect": "The established monster name is King of the Black Sea Kraken, but the panel separates Kraken from the quoted name.",
+      "id": "C04",
+      "rationale": "The replacement restores the binding term used by the checkpoint’s translation decisions.",
+      "replacement": "You have defeated Lv. 140 ‘King of the Black Sea Kraken’!",
+      "severity": "minor",
+      "source": "Chapter 575, Kraken defeat System panel"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Young Maㄴter",
+      "defect": "The hurried typo contains a Korean jamo, violating the English-only reading-copy requirement.",
+      "id": "C05",
+      "rationale": "A plausible English keyboard typo preserves the interrupted, hurried-message effect without leaving Korean script in the finished copy.",
+      "replacement": "Young Masrer",
+      "severity": "minor",
+      "source": "Chapter 575, Butler Kim’s final text message"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Butler Kim—no, Kim Hwajong—tightened his grip on the whips of fire and took a step forward.",
+      "defect": "The full name is rendered as Kim Hwajong despite the binding decision to use Hwa-jong for 화종.",
+      "id": "C06",
+      "rationale": "The unhyphenated form also recurs elsewhere in Chapters 578–579 and the checkpoint materials; the established romanization should remain consistent.",
+      "replacement": "Butler Kim—no, Kim Hwa-jong—tightened his grip on the whips of fire and took a step forward.",
+      "severity": "minor",
+      "source": "Chapter 578, Kim Hwa-jong confronting Song Cheonwoo"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...Hyung?”",
+      "defect": "Chapter 579 switches to three ASCII periods for ellipses, unlike the required ellipsis character and the preceding reading copies.",
+      "id": "C07",
+      "rationale": "The same ASCII-ellipsis formatting recurs throughout Chapter 579 and should be normalized consistently.",
+      "replacement": "“…Hyung?”",
+      "severity": "minor",
+      "source": "Chapter 579, Song Cheonwoo mistaking Choi for Cheon Taemin"
+    },
+    {
+      "confidence": 0.96,
+      "current": "From his left chest to his right hip. The scar left behind by the lightning that had swept across him was horrific, and it would never heal.",
+      "defect": "A scar does not itself heal, and saying the injury will never heal conflicts with the potion beginning to close the wounds later in the chapter.",
+      "id": "C08",
+      "rationale": "This preserves the permanent damage while remaining consistent with the subsequent partial healing.",
+      "replacement": "From his left chest to his right hip. The wound left by the lightning that had swept across him was horrific—one that would leave a permanent scar.",
+      "severity": "minor",
+      "source": "Chapter 579, description of Song Cheonwoo’s chest wound"
+    }
+  ],
+  "summary": "The packet is coherent overall, but the checkpoint summary and durable state overstate what Choi has verified and identify Go Jun’s hostages more specifically than the reading copy supports. Several binding terminology and formatting inconsistencies also remain.",
+  "version": 1
+}

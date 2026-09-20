@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 578
-- Next chapter: 579
-- Current block: 575–579 (4/5)
-- Latest translation: `translations/0578.md`
-- Latest summary: `summaries/beats/0578.md`
-- Safe profiles through: chapter 578
+- Last completed: 579
+- Next chapter: 580
+- Current block: 575–579 (5/5)
+- Latest translation: `translations/0579.md`
+- Latest summary: `summaries/beats/0579.md`
+- Safe profiles through: chapter 579
 
 ## Current Block
 
-- Song Cheonwoo launches his planned surprise attack on Choi Minwoo, but Choi blocks the strike and proves he has become a formidable warrior. Kim Hwajong arrives to protect Choi, and Song reveals that he is wearing the Yeti's Necklace, which marks him as a yeti's kin and draws hundreds of yetis across the crevasse. Hwajong lures the yetis away while Choi fights Song alone. Wounded but refusing to yield, Choi draws on the power of Hero's Soul and his resolve as Cheon Taemin's blood relative, ending the chapter with a full-strength strike cutting across Song's chest.
+- Choi Minwoo defeats Song Cheonwoo, breaks his wrist, and leaves him gravely wounded. Song explains that Go Jun seized his children, making the alliance with Choi an offer he could not refuse, and confirms that Cheon Taemin is alive but has been unconscious for more than twenty years. Choi and Kim Hwajong keep Song alive as a witness, but after drinking a potion, Song uses superhuman strength to escape into a crevasse.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Is Cheon Taemin actually being kept in Area A of Ares Guild headquarters?
 - What trap is Go Jun preparing, and can Song Cheonwoo's warning be trusted?
 - Who empowered and released the Kraken, and did that person engineer the Monster Wave?
-- Did Choi Minwoo's final strike kill or incapacitate Song Cheonwoo?
+- Where did Song Cheonwoo go after escaping into the crevasse, and can he be recovered as a witness?
 
 ## Exceptional Decision
 
@@ -25,7 +25,7 @@
 - Use Stone King for 스톤 킹 and Skeleton King for 스켈레톤 킹.
 - Use Area A for A구역.
 - Use Hwa-jong for 화종.
-- Use Hero's Soul for 영웅의 혼 and Yeti's Necklace for 예티의 목걸이.
+- Use Hero's Soul for 영웅의 혼, Yeti's Necklace for 예티의 목걸이, and Hyung for 형님 when Song addresses Cheon Taemin.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

@@ -1,6 +1,6 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 578
+- **Safe through:** Chapter 579
 - **Aliases:** Choi Minwoo (최민우)
 - **Role:** Team Leader Choi is Cheon Taemin's only living blood relative, a formidable aura-wielding swordsman who wields Hero's Soul, and is positioning himself to take control of the Ares Guild after Lee Jungryong's death.
 - **Personality:** Strategic, candid, controlled, and possessive of the power and influence he intends to inherit.
