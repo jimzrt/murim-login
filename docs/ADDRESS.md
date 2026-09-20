@@ -927,3 +927,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 최 팀장 | trusted ally and younger associate | Choi | familiar and informal | Magic addresses him as 최 while advising him about Ares and Cheon Taemin’s legacy. |
 | 매직 존슨 | 진태경 | trusted ally and irreverent younger associate | Jin | familiar and teasing | Magic repeatedly addresses Taekyung as 진 while discussing Go Jun and the fart joke. |
 | 진태경 | 매직 존슨 | powerful ally and respected elder | Mr. Johnson | polite but teasing | Taekyung addresses Magic as 미스터 존슨 while joking about reaping what one sows. |
+| 스켈레톤 킹 | 진태경 | ally_to_ally | wicked human | mock-grandiose | Uses 간악한 인간이여 while telling Taekyung to deal with the Gate quickly. |
+| 진태경 | 스켈레톤 킹 | ally_to_ally | you | insulting-casual | Threatens to smash the Skeleton King's smartphone if he does not follow. |
+| 곽한구 | 진태경 | Ares_branch_leader_to_outside_rescuer | Mr. Jin Taekyung | formal-polite | Uses 진태경 씨 while acknowledging Taekyung's request and asking him to wait. |

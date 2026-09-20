@@ -1822,3 +1822,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 조셉 바이든 | **Joseph Biden** | Former U.S. President and longtime personal friend of Magic Johnson. |
 | 펠릭스 왕자 | **Prince Felix** | Prince of the United Kingdom used as a comparison. |
 | 차쿰바 오쿰보 | **Chakumba Okumbo** | Example name of an American president. |
+| 곽한구 | **Gwak Hangu** | B-rank Hunter and Branch Leader of Ares Guild's Yeokgok Branch. |
+| 역곡 | **Yeokgok** | Bucheon branch and Gate location. |
+| 오크의 황무지 | **Orc Wasteland** | Name of the C-rank Gate. |
