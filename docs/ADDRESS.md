@@ -906,3 +906,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 킹 | allied_companions | asshole | hostile and teasing | Taekyung uses a profane casual address while ordering the Skeleton King to help. |
 | 진태경 | 최 팀장 | close modern-world associates; Taekyung addresses Choi by professional title | Team Leader Choi | polite, familiar, and teasing | Taekyung repeatedly uses 최 팀장님 while questioning Choi's plan. |
 | 최 팀장 | 진태경 | close modern-world associates; Choi is Taekyung's informed confidant | Mr. Jin Taekyung | formal-polite, candid, and lightly teasing | Choi uses 진태경 씨 while acknowledging Taekyung's secrets and answering his questions directly. |
+| 장택환 | 석고준 | South Korean Prime Minister to Ares Guild Vice Guild Master | Mr. Go Jun / Vice Guild Master Go | formal, wary, and conciliatory | Jang initially addresses Go Jun politely and later acknowledges his new title. |
+| 석고준 | 장택환 | Ares Guild Vice Guild Master to South Korean Prime Minister | Prime Minister Jang / Mr. Jang Taekhwan | initially formal, then coercive and hostile | Go Jun demands that Jang arrange a private meeting with the President before the national funeral. |

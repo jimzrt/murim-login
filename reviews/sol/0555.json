@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "And… he had eyes.",
+      "defect": "The literal phrasing sounds comically self-evident and fails to convey the source’s dramatic shift of focus to the man’s eyes.",
+      "id": "F01",
+      "rationale": "The source isolates his eyes as the next striking feature rather than merely stating that he possessed them.",
+      "replacement": "And then… there were his eyes.",
+      "severity": "minor",
+      "source": "그리고…… 눈이 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "His opponent was one of the most skilled Hunters in Korea, but the Prime Minister himself had spent his entire life rolling through the political mud pit, all the way to his sixties.",
+      "defect": "“His entire life” adds the unsupported claim that his political career began at birth, while “his sixties” makes the specific age of sixty indefinite.",
+      "id": "F02",
+      "rationale": "환갑 specifically denotes reaching sixty; the source presents his age and long political experience without claiming that politics occupied his entire life.",
+      "replacement": "His opponent was one of the most skilled Hunters in Korea, but the Prime Minister himself had spent decades rolling through the political mud and was now sixty.",
+      "severity": "minor",
+      "source": "비록 상대가 국내에서도 손꼽히는 실력을 지닌 헌터라지만 자신 역시 환갑이 되도록 정치라는 진흙탕에서 구른 몸."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was neither the proper way to speak to someone considerably older nor the way to address his country’s prime minister.",
+      "defect": "The draft narrows the criticism to speech and address, omitting that Go Jun’s overall conduct—including refusing the handshake—violates both seniority etiquette and the respect due the Prime Minister.",
+      "id": "F03",
+      "rationale": "예의 and 태도 refer broadly to manners and conduct, not only to how Go Jun speaks.",
+      "replacement": "It showed neither proper respect for someone considerably older nor the appropriate conduct toward his country’s prime minister.",
+      "severity": "major",
+      "source": "한참 연장자에 대한 예의도, 자국의 국무총리를 대하는 태도도 아니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Yes, how dare I. You don’t get to act like this. Have you forgotten who paved the easy road you’ve walked all these years?”",
+      "defect": "“How dare I” assigns the daring to Go Jun, but the source turns Prime Minister Jang’s protest back on him: Jang is the one who dares to act this way.",
+      "id": "F04",
+      "rationale": "당신이 is the explicit subject of the rebuke, making this a reversal of who is accused of insolence.",
+      "replacement": "“That’s right—how dare you. You don’t get to act like this. Have you forgotten who paved the easy road you’ve walked all these years?”",
+      "severity": "critical",
+      "source": "“그래, 감히. 감히 당신이 이런 식으로 나오면 안 되지. 지금까지 걸어온 꽃길을 누가 깔아 줬는지 잊었나?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Don’t misunderstand. Even if he’s dead, the Ares Guild is still standing.”",
+      "defect": "“He’s dead” strips the honorific deference from 그분이 돌아가셨어도 and makes Go Jun speak bluntly and disrespectfully about his revered Master.",
+      "id": "F05",
+      "rationale": "The honorific subject and euphemistic 돌아가시다 preserve Go Jun’s profound respect for Lee Jungryong even while his speech to Jang becomes informal and threatening.",
+      "replacement": "“Don’t get the wrong idea. Even though he has passed away, the Ares Guild is still standing.”",
+      "severity": "major",
+      "source": "“착각하지 마. 그분이 돌아가셨어도 아레스 길드는 아직 건재해.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“One more thing. That person… the Guild Master won’t be coming. Make sure no one starts talking afterward.”",
+      "defect": "“Talking afterward” treats 뒷말 as a temporal phrase instead of gossip, criticism, or damaging talk arising from the Guild Master’s absence.",
+      "id": "F06",
+      "rationale": "뒷말 나오다 means that adverse talk or rumors arise afterward; Go Jun orders Jang to prevent that political fallout.",
+      "replacement": "“One more thing. That person… the Guild Master won’t be coming. Keep everyone in line so there’s no gossip.”",
+      "severity": "minor",
+      "source": "“한 가지 더. 그분…… 길드장님은 오시지 않습니다. 뒷말 나오지 않게 잘 단속하세요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Since Lee Jungryong had no surviving blood relatives, Go Jun had become the chief mourner.",
+      "defect": "The draft categorically says Lee has no living blood relatives, contradicting the revealed existence of Choi Minwoo. The source only says there was no suitable blood relative to serve as mourner.",
+      "id": "F07",
+      "rationale": "마땅한 qualifies 혈육: no appropriate or available family member filled the role. It does not establish that every blood relative is dead.",
+      "replacement": "With no suitable blood relative to serve in the role for Lee Jungryong, Go Jun had become the chief mourner.",
+      "severity": "critical",
+      "source": "마땅한 혈육이 없는 이정룡을 위해 상주(喪主)가 된 그였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Go Jun could not even remember his parents’ faces, but the face of Lee Jungryong—who shared not a drop of his blood—was etched into his heart with unbearable clarity.",
+      "defect": "The draft replaces Go Jun’s acute longing for Lee with a statement about remembering Lee clearly.",
+      "id": "F08",
+      "rationale": "사무치게 그립다 means to miss or long for someone deeply and painfully, not merely to retain a vivid memory.",
+      "replacement": "Go Jun could not even remember his parents’ faces, yet he desperately missed the face of Lee Jungryong, who had not shared a drop of his blood.",
+      "severity": "major",
+      "source": "부모의 얼굴도 기억하지 못하는데, 피 한 방울 섞이지 않은 이정룡의 얼굴은 사무치게 그립다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "This necklace was not Lee Jungryong, nor was it an heirloom Lee had left behind.",
+      "defect": "“Heirloom” implies an inherited family possession, whereas 유품 here means a dead person’s personal effect or keepsake.",
+      "id": "F09",
+      "rationale": "The necklace did not belong to Lee and was not one of his posthumous personal effects; it merely survived at the site of his death.",
+      "replacement": "This necklace was not Lee Jungryong, nor was it a keepsake he had left behind.",
+      "severity": "minor",
+      "source": "이 목걸이는 이정룡이 아니며 이정룡이 남긴 유품도 아니라는 걸."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was the only thing that had miraculously retained its shape amid the ruins that had once been the Lich’s headquarters.",
+      "defect": "The draft drops 아크, reducing “Arch Lich” to “Lich,” and intensifies 운 좋게 from fortunate survival to a miracle.",
+      "id": "F10",
+      "rationale": "아크 리치 names the monster as an Arch Lich, while 운 좋게 means by good fortune or luck rather than miraculously.",
+      "replacement": "It was the only thing fortunate enough to have retained its shape amid the ruins that had once been the Arch Lich’s stronghold.",
+      "severity": "major",
+      "source": "한때 아크 리치의 본거지였던 폐허 속에서 운 좋게 형태를 유지한 것은 이게 유일했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Kill him! Stab him now!”",
+      "defect": "The draft assigns an unsupported male human pronoun to the target during a battle against monsters.",
+      "id": "F11",
+      "rationale": "The Korean omits the object’s gender, and the immediate context identifies the opponents as monsters; “it” preserves that context without inventing a male identity.",
+      "replacement": "“Kill it! Stab it now!”",
+      "severity": "major",
+      "source": "“죽여, 지금 찔러!”"
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter a dialogue subject, Go Jun’s deference toward his Master, Lee Jungryong’s family status, and the Arch Lich terminology. Additional localized issues narrow conduct to speech, mistranslate a funerary object, and add an unsupported gender.",
+  "version": 1
+}

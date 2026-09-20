@@ -1795,3 +1795,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 미역국 | **seaweed soup** | Birthday soup prepared by Kim Jeonghee. |
 | 국장 | **national funeral** | State funeral reported for Lee Jungryong. |
 | 소격변 | **Small Cataclysm** | Name given to the Sichuan Province monster wave. |
+| 장택환 | **Jang Taekhwan** | South Korean Prime Minister addressed by Go Jun. |
+| 성하 | **Seongha** | Hunter named during the cave battle. |
+| 국가장 | **national funeral** | State funeral held for Lee Jungryong. |
+| 상주 | **chief mourner** | Funeral role assumed by Go Jun for Lee Jungryong. |
