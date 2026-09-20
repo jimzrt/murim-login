@@ -904,3 +904,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 김 집사 | employer_to_butler | Butler Kim | polite and familiar | Team Leader Choi addresses Butler Kim while asking why the robots are inactive. |
 | 스켈레톤 킹 | 진태경 | allied_companions | Wicked human | archaic and aggrieved | The Skeleton King uses this address while objecting to being ordered to help. |
 | 진태경 | 스켈레톤 킹 | allied_companions | asshole | hostile and teasing | Taekyung uses a profane casual address while ordering the Skeleton King to help. |
+| 진태경 | 최 팀장 | close modern-world associates; Taekyung addresses Choi by professional title | Team Leader Choi | polite, familiar, and teasing | Taekyung repeatedly uses 최 팀장님 while questioning Choi's plan. |
+| 최 팀장 | 진태경 | close modern-world associates; Choi is Taekyung's informed confidant | Mr. Jin Taekyung | formal-polite, candid, and lightly teasing | Choi uses 진태경 씨 while acknowledging Taekyung's secrets and answering his questions directly. |

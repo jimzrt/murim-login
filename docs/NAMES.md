@@ -1794,3 +1794,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 순대국밥 | **blood sausage gukbap** | Taekyung's former inexpensive meal; retain gukbap with its established footnote. |
 | 미역국 | **seaweed soup** | Birthday soup prepared by Kim Jeonghee. |
 | 국장 | **national funeral** | State funeral reported for Lee Jungryong. |
+| 소격변 | **Small Cataclysm** | Name given to the Sichuan Province monster wave. |

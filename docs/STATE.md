@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 553
-- Next chapter: 554
-- Current block: 550–554 (4/5)
-- Latest translation: `translations/0553.md`
-- Latest summary: `summaries/beats/0553.md`
-- Safe profiles through: chapter 553
+- Last completed: 554
+- Next chapter: 555
+- Current block: 550–554 (5/5)
+- Latest translation: `translations/0554.md`
+- Latest summary: `summaries/beats/0554.md`
+- Safe profiles through: chapter 554
 
 ## Current Block
 
-- Jin Taekyung and Hayeon are caught fighting and punished by their mother, Kim Jeonghee, whose physical discipline ignores even Taekyung's Heavenly Martial Physique. The family then prepares breakfast at Team Leader Choi's mansion.
-- The mansion contains Teleport magic circles, AI-equipped robots, and A-rank Magic Gems used as power sources, but Kim Jeonghee turns off the robots to save electricity and makes everyone except Taekyung help prepare the meal. Butler Kim attends to Team Leader Choi, whose maternal grandfather Cheon Taemin once lived in the mansion.
-- While waiting for breakfast, Taekyung checks the Hunter community and finds reports that Lee Jungryong's national funeral will be held the next day, Cheon Taemin's whereabouts remain unknown, and global attention is focused on Go Jun, Lee's former head of security, after Ares Guild members leave Sichuan.
+- The Small Cataclysm in Sichuan Province killed more than four million people and caused immense property damage. Public reports blame the Lich for the deaths of Lee Jungryong and Wu Heixing, while Jin Taekyung knows that he personally killed both men. Lee's final words and Go Jun's continued existence remind Jin that the conflict is not truly over.
+- As Ares Guild members return from Sichuan for Lee's national funeral, public discussion identifies Go Jun as Lee's disciple, right-hand man, and likely successor. Team Leader Choi confirms that he deliberately allowed his identity as Cheon Taemin's only living blood relative to surface after Lee's death. Choi withheld evidence of Lee's crimes because he wants the Ares Guild's reputation, influence, and power to pass into his hands intact before he removes its corruption.
 
 ## Open Questions
 
@@ -19,7 +18,7 @@
 - What will Taekyung's party find in Nanman, and what does the Southern Heaven Demon Empress intend there?
 - What is the outcome of the duel between Jeok Cheongang and Nangong Cheon, and why did Ju Hwaran and Sama Pyo's political engagement end?
 - What process created Jang Sam's mutant form, and can Dark Heaven's mutants absorb human energy?
-- What are Cheon Taemin's current whereabouts and life status?
+- What are Cheon Taemin's current whereabouts and life status, and can Team Leader Choi secure control of Ares Guild?
 
 ## Exceptional Decision
 
@@ -27,7 +26,7 @@
 - Render 반 시진 as half a shichen and retain Nanman, Nanman Beast Palace, Fire Dragon Pavilion, Great Hero, and Young Lady Ju.
 - Render 남만행 as Journey to Nanman and 남만을 못 가 as Can't Go to Nanman.
 - Render 면구 as disguise mask, 역용술 as disguise technique, 각주님 as Pavilion Master, 로그아웃 as Logout, and 동기화 as Synchronization.
-- Preserve Taekyung's blunt profanity and toilet humor, Mae Jonghak's dry banter, Mungyeong's dry threatening voice, Hayeon's profane sibling banter, and the Skeleton King's archaic diction.
+- Render 소격변 as Small Cataclysm, 낭중지추 as needle in a bag, and 국장 as national funeral.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

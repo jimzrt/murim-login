@@ -77,7 +77,7 @@ No, wait.
 
 I currently possessed just over a hundred years of internal energy.
 
-That put me far above my peers; it was the kind of level someone could reach only if a prestigious great sect on the level of the Nine Sects and One Gang committed itself to supporting them.
+That put me far above my peers. It was the kind of level someone could reach only if a prestigious sect on the level of the Nine Sects and One Gang committed itself to supporting them.
 
 And I had only managed it because I’d obtained the Blazing Flame Divine Pill and stumbled into various other fortuitous encounters while repeatedly surviving life-or-death situations in the Murim.
 
@@ -101,7 +101,7 @@ Cheongpung thought for a moment before answering.
 
 “Oh, and when I was little, I often had my sinews cleansed and my marrow washed. Hehe.”
 
-What the hell? Why was he talking about cleansing the sinews and washing the marrow as if he were merely washing his face?
+What the hell? Why was he talking about cleansing his sinews and washing his marrow as if he were merely washing his face?
 
 I stared blankly at Cheongpung as he smiled awkwardly.
 
@@ -165,7 +165,7 @@ Yes, it had ended successfully. I’d heard the words I wanted to hear more than
 
 *Old Master.*
 
-Without realizing it, I tightened my grip on Jeok Cheongang’s hand.
+Without realizing it, I tightened my grip on Jeok Cheongang.
 
 He still lay there with his eyes closed, perhaps not yet ready to regain consciousness. But I could feel it clearly.
 
@@ -187,7 +187,7 @@ Noticing the question in my eyes, he smiled faintly.
 
 Disappointment and joy washed over me at the same time.
 
-It would have been wonderful if he had used this treatment as an opportunity to advance to an even higher realm, but perhaps I had expected too much for a moment.
+It would have been wonderful if he’d used this treatment as an opportunity to advance to an even higher realm, but perhaps I’d expected too much.
 
 “You seem disappointed.”
 
@@ -197,11 +197,11 @@ Startled, I quickly waved my hands. These two had successfully completed the dif
 
 “I was only…”
 
-“Heh heh. I did not mean to blame you. How could I not understand Young Master Jin’s feelings for his Master? Is that not right?”
+“Heh heh. I did not mean to blame you. How could I fail to understand Young Master Jin’s concern for his Master? Is that not right?”
 
 “Of course. You are absolutely right, Master.”
 
-Mungyeong answered politely, then continued speaking to me.
+Mungyeong answered politely, then turned to me.
 
 “Sir Jeok will regain consciousness within three days at the latest. The treatment has only just ended, so his qi needs time to settle properly. You need not worry too much.”
 
@@ -223,7 +223,7 @@ I released the breath I’d been holding. All the strength drained from my body,
 
 How long had I waited to hear those words?
 
-When my legs gave out and I slumped to the floor, the Divine Physician spoke with a mischievous expression.
+My legs gave out, and I slumped to the floor. The Divine Physician regarded me with a mischievous expression.
 
 “It seems this old quack was not very trustworthy to you, Young Master Jin.”
 
@@ -243,11 +243,11 @@ He watched us fondly, as though enjoying his grandchildren’s antics, then patt
 
 The Divine Physician saw my expression and hurriedly waved his hands.
 
-“There is no need to make that expression. I am only staying to watch the patient awaken after treatment.”
+“There is no need to look so alarmed. I am only staying to watch over the patient until he awakens.”
 
 “Phew, you scared me. You should have led with that.”
 
-I had thought there was something else left to worry about.
+For a moment, I’d thought there was still something wrong.
 
 Mungyeong grinned at his flustered Master, then spoke.
 
@@ -259,7 +259,7 @@ His sudden announcement startled me.
 
 “Yes. Venerable Myoryeong should have regained consciousness by now, so I would like to go check on her.”
 
-“You must be tired. Stay and rest for a while.”
+“You must be exhausted. Rest for a while before you go.”
 
 “No, it is fine. I hardly did anything anyway. If I still have energy to spare, then as the younger one—even if only by a year—I should be the one to go. Isn’t that right, Master?”
 
@@ -269,7 +269,7 @@ His sudden announcement startled me.
 
 I was worried about him, but it seemed they had already settled the matter between themselves.
 
-No sooner had he finished speaking than Mungyeong slung his travel pack over his shoulder. Watching him, I suddenly remembered something I had forgotten.
+No sooner had he finished speaking than Mungyeong slung his travel pack over his shoulder. As I watched him, I suddenly remembered something I’d nearly forgotten.
 
 “Mungyeong.”
 
@@ -315,7 +315,7 @@ It was an indirect way of referring to the Myriad-Poison Ring. Tang Sadok let ou
 
 “I was not speaking to you. Pay it no mind. Tell Jin Taekyung I give him permission, and continue watching him.”
 
-“Yes, Family Head.”
+“As you command.”
 
 Tang Sadok listened to the guard’s footsteps fade away and tapped the table.
 
@@ -339,7 +339,7 @@ He had also heard that Jeok Cheongang was so proud that he would repay any grati
 
 A green glint flashed through Tang Sadok’s eyes.
 
-The murderer who had killed his father and the Heaven-Shaking Venerable Nun was definitely said to be one-armed. That was not especially rare in the Murim, but it was not a feature one saw every day, either.
+The murderer who had killed his father and the Heaven-Shaking Venerable Nun was said to be one-armed. Such men were not especially rare in the Murim, but neither was it a trait one saw every day.
 
 A maimed man stood out wherever he went.
 
