@@ -1741,3 +1741,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 매 | **Mae** | Name used in the address Great Hero Mae before Jin Wikyung corrects himself to Alliance Leader. |
 | 이룡각 | **Two Dragons Pavilion** | Named pavilion whose masters are identified as Taekyung and Cheongpung at the chapter's close. |
 | 언화평 | **Yan Hwapyeong** | Personal name of the Fist King and last descendant of the Jinzhou Yan Family. |
+| 황보군 | **Hwangbo Gun** | Family Head of the Hwangbo Family and father of its Lesser Family Head. |
