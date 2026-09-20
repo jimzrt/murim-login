@@ -1886,3 +1886,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 블레이즈 | **Blaze** | Kim Hwajong's explosive movement spell. |
 | 파이어 실드 | **Fire Shield** | Kim Hwajong's defensive spell. |
 | 플레임 캐논 | **Flame Cannon** | Kim Hwajong's highest-tier offensive fire spell. |
+| 베히모스의 혼탁한 심연 | **Behemoth's Turbid Abyss** | Named Magic Gem item. |
+| 종로 | **Jongno** | Destination named by Taekyung. |
