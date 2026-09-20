@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A barnacle-covered trident pierced through a human body and continued flying, impaling a vehicle waiting at the traffic light.",
+      "defect": "The trident passes completely through the vehicle in the source; “impaling” suggests that it lodges in the vehicle.",
+      "id": "F01",
+      "rationale": "관통했다 explicitly describes complete penetration through the vehicle.",
+      "replacement": "A barnacle-covered trident pierced through a human body and continued flying, punching straight through even a vehicle waiting at the light.",
+      "severity": "major",
+      "source": "따개비가 달라붙은 삼지창은 인간의 몸을 꿰뚫고 그대로 날아가, 신호 대기 중이던 차량마저 관통했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "People knocked one another down, and vehicles that sped away without regard for the traffic lights ran over pedestrians crossing the crosswalk.",
+      "defect": "The draft changes one vehicle striking one pedestrian into multiple vehicles running over multiple pedestrians.",
+      "id": "F02",
+      "rationale": "차량 and 행인 are singular, and 덮쳤다 describes the vehicle striking or plowing into the pedestrian.",
+      "replacement": "People knocked one another down, and a vehicle that shot forward without regard for the traffic light plowed into a pedestrian crossing the crosswalk.",
+      "severity": "critical",
+      "source": "사람이 사람을 넘어트리고, 신호를 무시하고 쏜살같이 튀어 나간 차량이 횡단보도를 가로지르던 행인을 덮쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They were not particularly high-level Hunters themselves, but they thought they could somehow hold out and buy time against that many.",
+      "defect": "“High-level” treats the Hunters as having game levels rather than classification ranks.",
+      "id": "F03",
+      "rationale": "등급 refers to Hunter classification, for which the binding terminology requires “rank.”",
+      "replacement": "They were not particularly high-rank Hunters themselves, but they thought they could somehow hold out and buy time against that many.",
+      "severity": "minor",
+      "source": "비록 자신들도 그다지 높은 등급의 헌터는 아니었지만, 저 정도 숫자라면 어떻게든 시간을 끌며 버틸 수 있을 것 같았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even facing a dozen Mermen required risking their lives. For four mid-to-low-level Hunters to deal with that many was practically impossible.\n\nNo. It was impossible without support from high-level Hunters.",
+      "defect": "Both Hunter classifications are rendered as levels rather than ranks, obscuring the formal hierarchy.",
+      "id": "F04",
+      "rationale": "중하급 and 상급 designate Hunter rank bands, not character levels.",
+      "replacement": "Even facing a dozen Mermen required risking their lives. For four low-to-mid-rank Hunters to deal with that many was practically impossible.\n\nNo. It was impossible without support from high-rank Hunters.",
+      "severity": "major",
+      "source": "십여 마리의 머맨을 상대하는 것조차 목숨을 걸어야 하는데, 중하급 헌터 네 명으로 저 많은 숫자를 감당하는 것은 불가능에 가까웠다.\n\n아니, 상급 헌터들의 지원이 없는 한 불가능하다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "But even that time was almost gone.",
+      "defect": "The literal phrasing leaves the referent of “that time” unclear and loses the point that their resolve will soon cease to keep them from retreating.",
+      "id": "F05",
+      "rationale": "The sentence follows the explanation that duty and resolve alone are restraining their feet from retreating; 그 시간 is the remaining time for which that restraint will last.",
+      "replacement": "But they would not be able to hold themselves back much longer.",
+      "severity": "major",
+      "source": "하지만 이제 그 시간도, 얼마 남지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Dark blue blood, black as the sea, burst outward, and the wings that had been beating powerfully bent at an unnatural angle.",
+      "defect": "The draft redundantly and inaccurately calls the blood both dark blue and black, while weakening the wings snapping or breaking into merely bending.",
+      "id": "F06",
+      "rationale": "검푸른 means a very dark blue, not separately “dark blue” and “black,” while 꺾인다 denotes the wings breaking or snapping.",
+      "replacement": "Dark blue blood like the sea burst outward, and the wings that had been beating powerfully snapped.",
+      "severity": "minor",
+      "source": "바다처럼 검푸른 핏물이 터져 나오고 힘차게 퍼득이던 날개가 꺾인다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Far away, Mermen were swarming toward him in a mass, like ants.",
+      "defect": "The draft omits that the approaching Mermen are reflected in the Skeleton King’s golden eyes behind his mask.",
+      "id": "F07",
+      "rationale": "가면 너머 그의 금빛 눈동자에 담겼다 supplies a specific viewpoint image involving both his mask and golden eyes.",
+      "replacement": "Far away, the swarm of Mermen pouring toward him like a colony of ants filled his golden eyes behind the mask.",
+      "severity": "major",
+      "source": "저 멀리, 개미 떼처럼 바글바글 몰려오고 있는 머맨이 가면 너머 그의 금빛 눈동자에 담겼다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*What a fucking human. Making me go through all this shit?*",
+      "defect": "“What a fucking human” is an unnatural literal calque that fails to identify the person as the target of the Skeleton King’s insult.",
+      "id": "F08",
+      "rationale": "이런 빌어먹을 인간을 보았나 is an angry denunciation of the human responsible, not a literal observation about a generic human.",
+      "replacement": "*That fucking bastard. How dare he put me through all this shit?*",
+      "severity": "minor",
+      "source": "‘이런 빌어먹을 인간을 보았나. 나한테 이런 개고생을 시켜?’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Then the Skeleton King abruptly turned his head toward the distant sky, in the direction where Jintae—no, Jin Taekyung—had headed moments earlier.",
+      "defect": "The draft invents a mistaken identification and self-correction involving Jintae that does not exist in the source.",
+      "id": "F09",
+      "rationale": "진태경 unambiguously names Jin Taekyung; there is no reference to Jintae, hesitation, or correction.",
+      "replacement": "Then the Skeleton King abruptly turned his head toward the distant sky, in the direction Jin Taekyung had headed moments earlier.",
+      "severity": "critical",
+      "source": "그리고 까마득한 상공 위, 조금 전 진태경이 향했던 그 방향을 향해 홱 고개를 돌린 스켈레톤 킹은 볼 수 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even from this distance, enormous tentacles and explosions were clearly visible.",
+      "defect": "The draft makes the explosions visual and omits that the source specifically mentions the sound of explosions.",
+      "id": "F10",
+      "rationale": "폭발음 means the sound of explosions, not visible explosions.",
+      "replacement": "Even from this distance, the enormous tentacles were clearly visible and the explosions clearly audible.",
+      "severity": "major",
+      "source": "먼 거리에서도 똑똑하게 보이는 무언가의 거대한 촉수와 폭발음."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even if high-level Hunters came to support them, they could never protect all the millions of Busan’s citizens.",
+      "defect": "“High-level” again mislabels a Hunter rank classification as a game level.",
+      "id": "F11",
+      "rationale": "상급 헌터 refers to high-rank Hunters under the binding classification terminology.",
+      "replacement": "Even if high-rank Hunters came to support them, they could never protect all the millions of Busan’s citizens.",
+      "severity": "minor",
+      "source": "상급 헌터들이 지원을 온다 해도 수백만에 달하는 부산 시민 모두를 보호할 수는 없을 테니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The most obvious reason was probably that the Kraken’s thirty legs had been reduced to nine.",
+      "defect": "The draft changes “biggest reason” to “most obvious reason,” makes the approximate count exact, and calls the Kraken’s tentacles legs.",
+      "id": "F12",
+      "rationale": "가장 큰 이유 means the largest or primary reason, 서른 개에 달하는 is approximate, and the Kraken’s 다리 are its previously established tentacles.",
+      "replacement": "The biggest reason was probably that the Kraken’s nearly thirty tentacles had been reduced to nine.",
+      "severity": "minor",
+      "source": "아무래도 가장 큰 이유는, 서른 개에 달하는 다리가 아홉 개로 줄어들었기 때문인지도 모른다."
+    }
+  ],
+  "summary": "Several concrete fidelity defects remain, including an invented Jintae correction, altered quantities and penetration mechanics, an omitted mask detail, and incorrect Hunter-rank terminology.",
+  "version": 1
+}
