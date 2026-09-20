@@ -31,7 +31,10 @@ if ("serviceWorker" in navigator) {
         window.location.reload();
       });
 
-      const registration = await navigator.serviceWorker.register(swUrl, { scope: base });
+      const registration = await navigator.serviceWorker.register(swUrl, {
+        scope: base,
+        updateViaCache: "none",
+      });
 
       registration.addEventListener("updatefound", () => {
         const worker = registration.installing;
