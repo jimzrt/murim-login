@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "*“A traitor?”*",
+      "defect": "The direct thought is incorrectly enclosed in quotation marks, contrary to the required thought formatting.",
+      "id": "F01",
+      "rationale": "This is internal narration, not spoken dialogue.",
+      "replacement": "*A traitor?*",
+      "severity": "minor",
+      "source": "‘배반자라니.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What the hell are you talking about? From what you’ve said, it sounds like you’ve already more or less reached an agreement with him, and now that everything seems to be falling into place, you’re calling him a traitor. Is this some kind of mental victory?”",
+      "defect": "The draft makes Team Leader Choi the person calling Song a traitor, but Taekyung is explaining why he himself uses that label. It also weakens 개떡 같은 소리 and leaves 정신 승리 as an unnatural calque.",
+      "id": "F02",
+      "rationale": "The Korean subject of 배반자라고 부르는 is Taekyung, while the final question mocks Song’s preferred self-description as self-delusion.",
+      "replacement": "“What kind of bullshit is that? From what you’ve said, you’ve already more or less struck a deal with him. If it looks like betrayal, I’m going to call him a traitor. Is he just telling himself otherwise to feel better?”",
+      "severity": "critical",
+      "source": "“그게 뭔 개떡 같은 소리예요? 최 팀장님 말 들어 보면 이미 얼추 말 맞춘 것 같고, 각 나오니까 배반자라고 부르는 건데. 정신 승리 뭐 그런 건가?”"
+    },
+    {
+      "confidence": 0.84,
+      "current": "Calling it information was almost embarrassing. There was a date of birth, a few lines about his life up to the present, and a single photograph of him in his younger days displayed at the top of the page.",
+      "defect": "The draft reduces the paired photographs—one of the man alongside one from his younger days—to a single youthful photograph.",
+      "id": "F03",
+      "rationale": "나란히 and 젊었던 시절과 함께 describe photographs displayed together, not one photograph by itself.",
+      "replacement": "Calling it information was almost embarrassing. There was a date of birth, a few lines about his life up to the present, and two photographs of the same man displayed side by side at the top of the page, including one from his younger days.",
+      "severity": "minor",
+      "source": "사실 정보라고 하기에도 민망한 게, 생년월일과 지금까지의 생애 몇 줄. 젊었던 시절과 함께 페이지 대문에 나란히 걸려 있는 한 사람의 사진이 전부다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“But I’ll read the file you sent out of consideration for me.”",
+      "defect": "The draft makes the file an act of consideration for Taekyung. 성의를 봐서 instead means that Taekyung will read it in acknowledgment of Choi’s effort or sincerity.",
+      "id": "F04",
+      "rationale": "The pragmatic joke is that Taekyung abruptly reverses himself while pretending to reward Choi’s effort.",
+      "replacement": "“But since you went to the trouble, I’ll read the file you sent.”",
+      "severity": "minor",
+      "source": "“하지만 성의를 봐서 보내 주신 파일은 읽겠습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Let’s leave me out of this. You’re probably one of the people who knows Song Cheonwoo better than anyone else. Am I wrong?”",
+      "defect": "The object is reversed: Taekyung tells Team Leader Choi to exclude himself from the younger Hunters who know little about Song, not to exclude Taekyung.",
+      "id": "F05",
+      "rationale": "최 팀장님은 빼시죠 explicitly addresses Choi as the person who should be excluded from Choi’s generalization.",
+      "replacement": "“Leave yourself out of that. You’re probably one of the people who knows Song Cheonwoo better than anyone else. Am I wrong?”",
+      "severity": "critical",
+      "source": "“최 팀장님은 빼시죠. 아마 송천우라는 인물을 누구보다 잘 아는 사람 중 하나일 것 같은데. 아닙니까?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Your guess is correct. Song Cheonwoo had followed my maternal grandfather since before I was born. Five years ago, when I was assigned to the European branch, I kept him close under my authority as branch director.”",
+      "defect": "The subject and power relationship are reversed. Song Cheonwoo was the branch director who used his authority to keep Choi close, not the other way around.",
+      "id": "F06",
+      "rationale": "지사장 권한 belongs to Song Cheonwoo, whose ‘keeping Choi close’ is immediately redefined as surveillance and isolation.",
+      "replacement": "“Your guess is correct. Song Cheonwoo had followed my maternal grandfather since before I was born. Five years ago, when I was assigned to the European branch, he used his authority as branch director to keep me close.”",
+      "severity": "critical",
+      "source": "“진태경 씨 짐작이 맞습니다. 송천우는 제가 태어나기 전부터 외조부님을 따랐었고, 5년 전, 제가 유럽지사로 발령 나자 지사장 권한으로 곁에 두었습니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Unlike the online profile, whose updates had stopped three years ago, the final page of the file dealt with recent events.",
+      "defect": "The draft changes the explicitly stated interval from five years to three years, apparently harmonizing an inconsistency instead of translating the source.",
+      "id": "F07",
+      "rationale": "This sentence specifically says 오 년 전, five years ago; the source’s earlier reference to three years does not authorize changing it.",
+      "replacement": "Unlike the online profile, whose updates had stopped five years ago, the final page of the file dealt with recent events.",
+      "severity": "critical",
+      "source": "오 년 전을 마지막으로 업데이트가 중지된 인터넷 인물 페이지와는 달리, 자료의 마지막 페이지는 최근의 일을 다루고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What grandchild?”",
+      "defect": "The translation loses the joke and makes Taekyung appear to understand the relationship before the narration says he realizes it. He initially isolates 손 from 조손 and hears it as ‘hand.’",
+      "id": "F08",
+      "rationale": "The momentary misreading of 조손 creates the blank reaction and delayed realization in the next sentence.",
+      "replacement": "“What hand?”",
+      "severity": "major",
+      "source": "뭔 손?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I said kill him. His son. His grandson. His daughter-in-law. All of them.”",
+      "defect": "The draft imposes male gender and singular number on the gender-neutral family categories 자식 and 손주.",
+      "id": "F09",
+      "rationale": "The Korean orders the extermination of Song’s descendants and daughters-in-law collectively without identifying a particular son or grandson.",
+      "replacement": "“I said kill him. His children. His grandchildren. His daughters-in-law. All of them.”",
+      "severity": "critical",
+      "source": "“죽이라고. 자식, 손주. 며느리. 전부다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Three letters spelling *Song Cheonwoo*.",
+      "defect": "The translated sentence falsely describes the romanized name as three letters; the source counts three Korean syllable blocks.",
+      "id": "F10",
+      "rationale": "세 글자 refers to the three written Korean characters 송, 천, and 우, not three Latin letters.",
+      "replacement": "The three Korean characters spelling *Song Cheonwoo*.",
+      "severity": "minor",
+      "source": "송천우라고 적힌 세 글자."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As he stared at the photograph of the man with prominent cheekbones, flames flickered in Go Jun’s eyes.",
+      "defect": "The dangling pronoun makes the person staring appear to be Go Se-won, the active subject of the preceding paragraph. The source explicitly identifies Go Jun as the one looking at the photograph.",
+      "id": "F11",
+      "rationale": "사진을 바라보는 directly modifies 석고준의 눈, fixing Go Jun as the observer.",
+      "replacement": "Flames flickered in Go Jun’s eyes as he stared at the photograph of the man with prominent cheekbones.",
+      "severity": "critical",
+      "source": "그리고 광대뼈가 도드라진 그의 얼굴 사진을 바라보는 석고준의 눈에서 불길이 일렁였다."
+    }
+  ],
+  "summary": "Multiple actionable fidelity defects, including reversed subjects, an altered quantity, lost wordplay, and unsupported kinship specificity.",
+  "version": 1
+}

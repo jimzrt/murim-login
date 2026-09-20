@@ -1840,3 +1840,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마수드 | **Masoud** | Rebel named during the battlefield footage. |
 | 파트라슈 | **Patrache** | Dog from A Dog of Flanders, used in Taekyung's Switzerland joke. |
 | 철원 | **Cheorwon** | Korean locality used in Taekyung's weather-forecast joke. |
+| 송천우 | **Song Cheonwoo** | Ares Guild Director, former third-ranked Korean Hunter, and longtime European regional branch director. |

@@ -939,3 +939,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | Peace Guild patron to Team Leader and political ally | Team Leader Choi | polite and familiar | Taekyung addresses Choi respectfully while discussing Gate defenses and Ares Guild. |
 | 최 팀장 | 진태경 | Team Leader to allied younger Hunter and strategic partner | Mr. Jin Taekyung | formal and measured | Choi uses 진태경 씨 while correcting Taekyung's assumption about postponing action against Ares. |
 | 김 집사 | 최 팀장 | Butler to Young Master | Young Master | deferential | Butler Kim addresses Choi as 도련님 while reacting to the seven-percent mana increase. |
+| 진태경 | 최 팀장 | younger allied Hunter to Team Leader Choi | Team Leader Choi | polite but casual | Taekyung addresses Choi while questioning him about Song Cheonwoo. |
+| 최 팀장 | 진태경 | Team Leader Choi to allied younger Hunter | Mr. Jin Taekyung | formal-polite | Choi uses 진태경 씨 while explaining Song's history and the attached investigation. |
