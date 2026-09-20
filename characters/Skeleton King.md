@@ -1,9 +1,9 @@
 # Skeleton King (스켈레톤 킹)
 
-- **Safe through:** Chapter 439
+- **Safe through:** Chapter 573
 - **Aliases:** Stone-King, Mr. King
-- **Role:** An intelligent undead monster and former Skeleton Warlord traveling as Jin Taekyung's ally while concealing his identity from the public.
-- **Personality:** Vain, grandiose, socially clueless, easily offended, and proud of his appearance and status.
-- **Voice:** Pompous and ceremonious, using “this king” and formal diction even when making absurd claims.
-- **Relationships:** Jin Taekyung is his ally and handler, Magic Johnson is his benefactor, and Team Leader Choi manages the practical consequences of his presence.
+- **Role:** The Skeleton King is an undead ally who wields overwhelming bone-based power and cannot openly raise an undead army because of an imposed restriction.
+- **Personality:** Arrogant, theatrical, imperious, and quick to resent the human who placed him under restriction.
+- **Voice:** Uses bombastic royal self-reference, clipped commands, and comic complaints.
+- **Relationships:** He is allied with Jin Taekyung, whose restriction prevents him from raising undead openly.
 - **Sources:** Korean source and accepted translation, Chapter 425

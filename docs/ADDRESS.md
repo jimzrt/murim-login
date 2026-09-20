@@ -957,3 +957,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | trusted ally | you; no vocative | blunt informal | The Skeleton King angrily calls out to Taekyung during the emergency response. |
 | 진태경 | 마법사 | rescuer assisting the operation | mage; otherwise you | polite emergency imperative | Taekyung orders the exhausted mage to request rescue under his name. |
 | 이동석 | 김 팀 | workplace superior and colleague | Team Leader Kim | informal dialectal address | Dongseok calls out to Kim during the raid-party attack. |
+| 스켈레톤 킹 | 머맨 | enemy_king_to_monster_troops | You | imperious-terse | The Skeleton King addresses the Mermen with clipped commands while declaring their deaths. |

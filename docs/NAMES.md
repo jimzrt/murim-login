@@ -1855,3 +1855,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 광안대교 | **Gwangan Bridge** | Busan suspension bridge central to Taekyung's childhood memory and the current disaster. |
 | 민희 | **Minhee** | Approximately nine-year-old girl rescued from the Mermen near Gwangan Bridge. |
 | 크라켄 | **Kraken** | Sea monster leading the Monster Wave; newly identified in this chapter. |
+| 머맨 | **Merman** | Sea monster species serving under the Kraken. |
+| 세이렌 | **Siren** | Half-human, half-bird monster whose song enthralls listeners. |
+| 타코야끼 | **Takoyaki** | Third Form of Fire Dragon Divine Spear. |
