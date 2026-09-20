@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Because your question is ridiculous. You asked whether what I said was something I said, so of course I assumed it was. Did I make some kind of animal noise?”",
+      "defect": "The second sentence misstates the joke as a question about whether Taekyung said something. He is deliberately interpreting Hwangbo Gun’s challenge as asking whether the sound from his mouth counted as speech.",
+      "id": "F01",
+      "rationale": "The source’s wordplay hinges on 말 meaning speech or words, followed by Taekyung contrasting it with an animal cry.",
+      "replacement": "“Because your question is ridiculous. Of course I considered it speech—it came out of my own mouth. Did I make some kind of animal noise?”",
+      "severity": "minor",
+      "source": "질문이 웃기잖아요. 제 입으로 한 말이니까 당연히 말이라고 생각해서 한 거지. 제가 뭐 짐승처럼 울음소리라도 냈어요?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "If the heads of the Nine Sects and One Gang and the Five Great Families were powerful corporals and senior privates, then Murim Alliance Leader Mae Jonghak was a battalion commander, while Jeok Cheongang was a command sergeant major.",
+      "defect": "말년 병장 means sergeants nearing the end of their service, not senior privates. Lowering them to privates distorts the military hierarchy underlying the analogy.",
+      "id": "F02",
+      "rationale": "The source compares the faction heads to experienced enlisted soldiers with practical influence while placing Mae Jonghak and Jeok Cheongang decisively above them.",
+      "replacement": "If the heads of the Nine Sects and One Gang and the Five Great Families were influential corporals serving as squad leaders and veteran sergeants nearing discharge, then Murim Alliance Leader Mae Jonghak was a battalion commander, while Jeok Cheongang was a command sergeant major.",
+      "severity": "major",
+      "source": "구파일방과 오대세가의 주인들이 분대장을 맡은 실세 상병에 말년 병장이라면, 무림 맹주인 매종학은 대대장이요 적천강은 주임 원사인 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I did not know whether he had always lacked political sense, or whether he had become a runaway locomotive over his only son.",
+      "defect": "The draft omits 삼대독자, which emphasizes that Hwangbo Ak is the sole male heir across three generations and explains the extraordinary degree of Hwangbo Gun’s protectiveness.",
+      "id": "F03",
+      "rationale": "The omitted family-line detail materially strengthens the stated motivation for Hwangbo Gun’s irrational behavior.",
+      "replacement": "I did not know whether he had always lacked political sense, or whether he had become a runaway locomotive over matters involving his only son, the sole heir of three generations.",
+      "severity": "major",
+      "source": "원래도 정치 감각이 떨어졌던 건지, 아니면 삼대독자 외아들에 관련된 일로 폭주 기관차가 된 건지 모르겠다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Y-You, Jeok…!”",
+      "defect": "The draft drops 네놈, losing Peng Cheolhu’s openly hostile and insulting address.",
+      "id": "F04",
+      "rationale": "네놈 is a blunt insult here, consistent with Peng Cheolhu’s agitated, confrontational voice.",
+      "replacement": "“J-Jeok! You bastard…!”",
+      "severity": "minor",
+      "source": "“저, 적가. 네놈……!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A little hesitation and modesty were virtues. And if Mae Jonghak, with all the authority he possessed as Murim Alliance Leader, insisted this much on hearing my opinion, then his request would carry that much more weight.",
+      "defect": "The draft turns deliberate concessions and polite refusals into hesitation and modesty, then incorrectly says Mae Jonghak’s request gains weight. Taekyung is calculating that the Alliance Leader’s insistence will lend authority to Taekyung’s forthcoming opinion.",
+      "id": "F05",
+      "rationale": "The source describes a calculated ritual of reluctance and the political authority it confers on Taekyung’s words, not uncertainty on his part or greater weight for Mae Jonghak’s request.",
+      "replacement": "Yielding and demurring once or twice were virtues. And if Mae Jonghak, with all the authority of the Murim Alliance Leader, went this far to ask for my opinion, it would lend that opinion all the more weight.",
+      "severity": "major",
+      "source": "한두 번의 양보와 사양은 미덕이고, 무림 맹주로서의 권위를 지닌 매종학이 이렇게까지 내 의견을 묻는다면 그만큼 힘이 실리기 마련이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The chairs that had been occupied by dozens of people only moments ago stood empty, but the silence that had settled over the room at some point refused to leave.",
+      "defect": "Only moments ago contradicts the immediately established interval of two shichen, approximately four hours. The Korean uses the looser sense of earlier or until a short while before.",
+      "id": "F06",
+      "rationale": "The replacement preserves the retrospective contrast without introducing a timeline contradiction absent from the source.",
+      "replacement": "The chairs that dozens of people had occupied earlier stood empty, but the silence that had settled over the room at some point refused to leave.",
+      "severity": "minor",
+      "source": "조금 전까지만 하더라도 수십여 명의 사람들이 자리했던 의자는 텅 비어 있었지만, 어느 순간부터 내려앉은 침묵은 떠나지 않았다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one mistranslated military-rank analogy, omits a family-line detail motivating Hwangbo Gun, and obscures the political purpose of Taekyung’s ritual demurral.",
+  "version": 1
+}

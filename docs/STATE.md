@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 546
-- Next chapter: 547
-- Current block: 545–549 (2/5)
-- Latest translation: `translations/0546.md`
-- Latest summary: `summaries/beats/0546.md`
-- Safe profiles through: chapter 546
+- Last completed: 547
+- Next chapter: 548
+- Current block: 545–549 (3/5)
+- Latest translation: `translations/0547.md`
+- Latest summary: `summaries/beats/0547.md`
+- Safe profiles through: chapter 547
 
 ## Current Block
 
-- The Murim Alliance's internal reorganization is complete, and its central leadership gathers under Alliance Leader Mae Jonghak. The Two Dragons Pavilion remains the overall organization but is divided into Jin Taekyung's Fire Dragon Pavilion and Cheongpung's Azure Dragon Pavilion; both pavilion masters are recognized as part of the central leadership despite holding little practical authority. Murong Yeonghwi, recently appointed an Outer Hall Squad Leader, stayed in Liaoning to oversee the Murong Family's defenses.
-- Mae Jonghak uses Seizing an Object Through Empty Space to bring a corpse into the conference hall. The body belonged to Jang Sam, a Hubei fisherman who disappeared for a month and reappeared as a grotesque mutant monster known as a Killing Ghost, with a black horn, four human arms, and rapidly increasing strength.
-- The Wudang Sect Leader suspects that Jang Sam learned the Essence-Siphoning Great Technique, possibly as a result of Dark Heaven's experiments. Taekyung believes monsters instead grow through innate power or by absorbing other monsters' mana, though he cannot be certain about mutants. When Mae asks Pavilion Master Jin for his assessment, Taekyung concludes that the situation is fucked.
+- Hwangbo Gun challenges Jin Taekyung's blunt warning in the Murim Alliance's great conference hall, but Jin Wikyung establishes that Hwangbo Gun's official Alliance rank is beneath Taekyung's, and Jeok Cheongang's overwhelming aura forces him to sit down.
+- Mae Jonghak asks Taekyung for his firsthand assessment of Dark Heaven. Taekyung warns that Dark Heaven is unlike the Demonic Cult, that its martial arts are not ordinary demonic martial arts, that it is an enormous monster-like threat, and that the Alliance must begin its counterattack and take every available precaution during its current lull.
+- Song Ho doubts whether Taekyung's warning is prophecy or exaggeration, but Jeok Cheongang insists that Taekyung has never been wrong. Mae Jonghak then orders Taekyung summoned to receive the Fire Dragon Pavilion's first mission.
 
 ## Open Questions
 

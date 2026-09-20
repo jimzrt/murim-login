@@ -889,3 +889,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 사마표 | 진태경 | prospective recruit to pavilion master | you | polite, controlled, and candid | Sama Pyo uses 자네 while asking about Taekyung's attitude and admitting his intention to use him. |
 | 진태경 | 사마표 | pavilion master to prospective recruit | you / that guy | blunt, informal, and distrustful | Taekyung speaks to and about Sama Pyo with casual forms such as 녀석 and 저놈. |
 | 진태경 | 송일섬 | pavilion master to prospective member | Song Ilseom | direct and evaluative | Taekyung directly names Song Ilseom while comparing his qualifications with Hwaran's. |
+| 진위경 | 황보군 | Murim Alliance officer to Family Head and subordinate officer | Family Head Hwangbo | formal and corrective | Jin Wikyung formally questions Hwangbo Gun's Alliance position and rebukes him for addressing Taekyung disrespectfully. |
+| 황보군 | 진태경 | older allied Family Head to younger allied Pavilion Master | young punk; Pavilion Master | angry and insulting | Hwangbo Gun calls Taekyung an insolent young punk while challenging his conduct. |
+| 적천강 | 황보군 | senior Five Kings master to subordinate Alliance officer | you; bastard | blunt, threatening, and contemptuous | Jeok orders Hwangbo Gun to sit down and dismisses his objections. |
+| 송호 | 적천강 | Hidden Shadow Pavilion Chief to legendary senior master | Great Hero Jeok | formal-deferential | Song Ho addresses Jeok while questioning the basis for his confidence in Taekyung. |
+| 적천강 | 송호 | senior martial master to allied intelligence chief | you | blunt but reassuring | Jeok directly tells Song Ho to believe Taekyung. |
