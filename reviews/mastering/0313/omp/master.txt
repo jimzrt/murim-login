@@ -76,7 +76,7 @@ Even the government offices, which were heavily staffed by Zhongnan’s lay Disc
 
 Five days earlier, a messenger eagle sent by his Master, Heavenly Sword True Person, had brought astonishing news.
 
-The blood calamity at Shaolin. The death of Dharma King Hong Dao. And the report that Sword Saint Mae Jonghak was being considered as a candidate for the Alliance Leader of the new Murim Alliance, which was being revived after decades.
+The blood calamity at Shaolin. The death of Dharma King Hong Dao. And the news that Sword Saint Mae Jonghak was being discussed as the likely Alliance Leader of the new Murim Alliance, which would be revived after decades.
 
 “In any case, everyone around me is in an uproar. Even my friends have been asking me about it. They say their children seem to have a talent for martial arts and wonder whether they might be accepted into Huashan, if only as lay Disciples.”
 
@@ -94,11 +94,11 @@ As the Captain of the Guards’ face fell, Baek Museong murmured inwardly.
 
 *If you knew about the bloody storm that will soon sweep in, you wouldn’t look so disappointed.*
 
-Rumors about the blood calamity at Shaolin had already begun to leak out here and there.
+Rumors of the blood calamity at Shaolin had already begun to leak out.
 
 But the existence of Dark Heaven remained a top-secret known only to a handful of people. As one of those few, Baek Museong could sense what was coming.
 
-A bloody wind would soon sweep through the Murim. Dark clouds would cover the sky, and thousands upon tens of thousands of weapons would tumble across the ground alongside their owners.
+A bloody wind would soon sweep through the Murim. Dark clouds would cover the sky, and thousands—tens of thousands—of weapons would lie scattered across the ground beside their owners.
 
 The wails of children who had lost their parents and parents who had lost their children would echo from every direction.
 
@@ -134,7 +134,7 @@ No matter how carefully Xi’an Tower selected its guests, it was still a pleasu
 
 “It happens from time to time. He appears to be the son of some powerful family, but we’ll settle the matter and send him home. Great Hero Baek, you needn’t concern yourself.”
 
-Baek Museong let out a hearty laugh and shook his head.
+Baek Museong laughed and shook his head.
 
 “Haha, I’m not so sure. You’d better remain here.”
 
@@ -148,7 +148,7 @@ The Captain of the Guards faltered. Amid the continuing uproar, he had sensed so
 
 *A martial artist!*
 
-As the situation grew more serious by the second, the cries of the guards protecting the inner courtyard rang out alongside hurried footsteps.
+As the situation took a more serious turn, hurried footsteps sounded, followed by shouts from the guards protecting the inner courtyard.
 
 “Stop!”
 
@@ -158,13 +158,13 @@ Xi’an Tower was frequented by high officials and powerful nobles, so the quali
 
 “You lowly Third Rate trash from wandering martial artist backgrounds dare…”
 
-“Gah!”
+“Hah!”
 
 *Whoosh! Thud-thud-thud!*
 
-Short cries of alarm from the guards and the fast, powerful sounds of impacts rang out. In an instant, the area outside the private annex fell silent.
+The guards’ short cries of exertion and the quick, powerful sounds of impacts rang out. In an instant, the area outside the private annex fell silent.
 
-Then rough, unsteady footsteps began to approach, driving the silence away.
+Then rough, unsteady footsteps approached, driving away the silence.
 
 *He took down six First Rate martial artists in an instant while that drunk?*
 
@@ -196,7 +196,7 @@ First came the words *Zhongnan Sect*. Then the name of a man.
 
 He had only been the Captain of the Guards at Xi’an Tower for a little over two weeks, but he had already heard so many rumors about that man that his ears ached.
 
-A man whose temperament was as extraordinary as the sect he came from.
+A man whose temperament was every bit as formidable as his pedigree.
 
 The Captain of the Guards grimaced and was about to speak the man’s name when—
 
@@ -204,7 +204,7 @@ The Captain of the Guards grimaced and was about to speak the man’s name when�
 
 The door of the private annex, made from sturdy blackwood, exploded. Splinters flew in every direction.
 
-Baek Museong smiled faintly at the young man approaching with a staggering gait and a face flushed red with alcohol.
+Baek Museong smiled at the young man who staggered inside, his face flushed red with drink.
 
 “It’s been a long time. Have you been well?”
 
@@ -232,7 +232,7 @@ The face of Hyuk Sopyung, the Zhongnan One Dragon,[^1] twisted like that of a fi
 
 “No, you lunatic…”
 
-“They sell thin noodles over there! They say the broth is made with beef!”
+“They sell noodles over there! They say the broth is made with beef!”
 
 Cheongpung, you little bastard. You’re like a rubber ball that could bounce off in any direction without warning…
 
@@ -240,7 +240,7 @@ I quickly grabbed Cheongpung by the back of his neck as he scampered toward a ro
 
 “Please, let’s just act like human beings. That’s all I’m asking. Like human beings!”
 
-“Candied fruit… thin noodles…”
+“Candied fruit… noodles…”
 
 “Just wait a little longer, and I’ll feed you until your belly bursts!”
 
@@ -264,11 +264,11 @@ It had already been more than a year since I’d last seen him.
 
 Before I left for Anhui with Jeok Cheongang, Baek Museong had said this to me.
 
-*“Contact me whenever you come to Shaanxi. I’ll treat you properly. Haha.”*
+*“Contact me whenever you come to Shaanxi. I’ll give you the full-course treatment. Haha.”*
 
 When he promised me the full course, I’d wondered if the guy was from Busan, but apparently it hadn’t been empty talk.
 
-At least, judging by the fact that we were meeting like this today.
+Not if we were meeting like this today.
 
 “By the way, where’s Xi’an Tower?”
 
@@ -290,7 +290,7 @@ So it was a Beggars’ Sect hotspot.
 
 I shook my head and headed toward Xi’an Tower.
 
-When we reached its enormous main entrance, wide enough for ten people to pass through at once, a guard who appeared to belong to Xi’an Tower bowed his head.
+When we reached its enormous main entrance, wide enough for ten people to pass through side by side, a guard who appeared to belong to Xi’an Tower bowed his head.
 
 “I’m sorry, but we’re closed today.”
 
@@ -306,7 +306,7 @@ I glanced to the side and saw Cheongpung looking as though he was about to burst
 
 Scratching my head, I spoke to the guard.
 
-“Isn’t there any way around it? We had an appointment today. His name is Baek Museong. I was told you’d know him if I gave you his name.”
+“Isn’t there any way around it? We had an appointment today. The man’s name is Baek Museong. He said you’d know if we gave you his name.”
 
 “Again, I’m sorry, but at the moment— Excuse me? Did you say Great Hero Baek Museong?”
 
