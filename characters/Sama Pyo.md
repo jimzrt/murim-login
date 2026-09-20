@@ -1,6 +1,6 @@
 # Sama Pyo (사마표)
 
-- **Safe through:** Chapter 514
+- **Safe through:** Chapter 515
 - **Aliases:** Black Dragon Saber
 - **Role:** Young Sect Leader of the Black Dragon Demon Gate and a Morning Star reputed to be no less than the Ten Dragons and Phoenixes.
 - **Personality:** Outwardly courteous and smiling, inwardly calculating, and willing to redirect blame onto his subordinate.

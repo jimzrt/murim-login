@@ -841,3 +841,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 정호 | 사마표 | Shaolin martial monk addressing the Black Dragon Demon Gate Young Sect Leader | Benefactor | Formal and admonitory | Uses 시주 while questioning Sama Pyo and demanding accountability. |
 | 거한 | 사마표 | Subordinate addressing the Black Dragon Demon Gate Young Sect Leader | Young Sect Leader | Crude and deferential | Uses 소문주 in short, childlike replies. |
 | 사마표 | 거한 | Young Sect Leader addressing his giant subordinate | This fellow | Informal and patronizing | Refers to him as 이 녀석 while assigning him responsibility for Do Sangho's death. |
+| 정호 | 무명 | Martial Nephew addressing his young Martial Uncle | Martial Uncle | formal-deferential | Jung Ho repeatedly addresses Unnamed as 사숙 after Unnamed emerges from Repentance Cave. |
+| 무명 | 정호 | young Martial Uncle addressing his Martial Nephew | Martial Nephew Jung Ho | formal-polite and reassuring | Unnamed addresses Jung Ho as 정호 사질 while consoling him and discussing Hong Dao's will. |

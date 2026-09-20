@@ -1680,3 +1680,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사마표 | **Sama Pyo** | Young Sect Leader of the Black Dragon Demon Gate. |
 | 흑룡도 | **Black Dragon Saber** | Sama Pyo's sobriquet. |
 | 대초자곤 | **two-section staff** | Weapon carried by Sama Pyo's giant subordinate. |
+| 계율원주 | **Discipline Hall Master** | Shaolin office held by Jung Ho. |
+| 십이지파 | **Twelve Branches of the Demonic Cult** | The Demonic Cult's twelve affiliated branches, one of which formerly included the Black Dragon Demon Gate. |
