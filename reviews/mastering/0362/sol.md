@@ -84,7 +84,7 @@ Krrrk!
 
 A thrill rushed through me as I stared at the ink-black Sword Force clashing with White Flame.
 
-*I have a good chance of winning.*
+*I can win this.*
 
 That single exchange was enough to convince me.
 
@@ -154,7 +154,7 @@ What were my stats now?
 
 I didn’t know the exact numbers, but one thing was certain.
 
-At the very least, this body had already gone far beyond the limits of a human being.
+This body had gone far beyond the limits of any human being.
 
 The smile vanished from the Western Heaven Demon Lord’s face beneath the overwhelming pressure.
 
@@ -270,11 +270,13 @@ A bastard raised without a father. A bastard from a poor family. A bastard doome
 
 Every cutting remark anyone had ever aimed at me had come with the same word attached like a tag.
 
+*Limit.*
+
 Even now, after everything I had accomplished.
 
 “I swear, I’m going to…”
 
-A question mark appeared over the Western Heaven Demon Lord’s face at my suppressed voice.
+Confusion crossed the Western Heaven Demon Lord’s face at my strangled voice.
 
 Holding back the endless torrent of his internal energy, I forced out the words like a groan.
 
@@ -302,7 +304,7 @@ The Western Heaven Demon Lord stepped on empty air, launched himself upward, and
 
 The bridge of my newly healed nose caved in, and several broken teeth spun through the air.
 
-I hurriedly pulled my hand away and wiped the blood covering my eyes.
+I jerked my hands free and wiped away the blood covering my eyes.
 
 “Ghk!”
 
@@ -366,7 +368,7 @@ It was almost strange that I hadn’t noticed it sooner.
 
 In that impossibly brief instant, a thousand thoughts flashed through my mind.
 
-And after the flash of insight came the Western Heaven Demon Lord’s attack.
+The flash of realization was immediately followed by the Western Heaven Demon Lord’s strike.
 
 Crack!
 
@@ -428,7 +430,7 @@ Seeing him like that finally confirmed it.
 
 “The Myriad-Poison Ring. This was your objective from the very beginning.”
 
-The moment I saw the ring on the Western Heaven Demon Lord’s finger, the first thing that came to mind was the Green Jade Buddha Staff, the sacred treasure of Shaolin Temple that the Blood Lord had stolen during the massacre at Shaolin.
+The instant I saw the ring on the Western Heaven Demon Lord’s finger, I had remembered the Green Jade Buddha Staff—the sacred treasure of Shaolin Temple that the Blood Lord had stolen during the massacre at Shaolin.
 
 “I figured there had to be something special about it when that bastard clung to it even while running for his life… What, are you people collecting orbs? You think a dragon will appear and grant you a wish if you gather seven?”
 
@@ -444,7 +446,7 @@ At the same time, I muttered inwardly.
 
 *Inventory open. Store.*
 
-The Western Heaven Demon Lord’s eyes widened as the Myriad-Poison Ring vanished without a trace, as though erased by an eraser.
+The Western Heaven Demon Lord’s eyes flew wide as the Myriad-Poison Ring vanished without a trace, as though erased from existence.
 
 “You…!”
 
@@ -468,7 +470,7 @@ That might be enough to turn the tide.
 
 “I’ll give you my final answer, then. No.”
 
-The moment the Western Heaven Demon Lord’s eyes sank deeply at my answer—
+The Western Heaven Demon Lord’s eyes sank into darkness.
 
 “You brought this upon yourself.”
 
