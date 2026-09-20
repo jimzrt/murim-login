@@ -962,3 +962,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최민우 | 백한성 | political_subordinate_to_President | Mr. President | formal-polite | Choi addresses Baek as 대통령님 during the breakfast and departure. |
 | 백한성 | 보좌관 | President_to_aide | you idiot | angry and informal | Baek rebukes the aide with 이 사람이 after the aide interrupts the breakfast. |
 | 최민우 | 김 집사 | household_guest_to_household_butler | Butler Kim | formal-polite | Choi answers Butler Kim's emergency call as 김 집사님. |
+| 화종 | 최민우 | butler_to_Young_Master | Young Master | formal and deferential | Butler Kim consistently addresses Choi Minwoo with the established deferential title. |
+| 송천우 | 화종 | former_allies | Hwa-jong | familiar and informal | Song uses Hwa-jong's personal name, prompting Hwa-jong to reject the familiarity. |
+| 화종 | 송천우 | former_allies_now_hostile | you | formal and cold | Hwa-jong challenges Song's right to expect Choi's trust and rejects their former intimacy. |
+| 송천우 | 최민우 | older_former_ally_to_younger_former_ally | Minwoo | familiar and informal | Song addresses Choi by his given name while discussing the meeting place and surveillance. |
+| 팀장 | 중년인 | Hunter_team_leader_to_stranger | Boss | casual and polite | The Team Leader mistakes disguised Song for an ordinary raid customer and warns him not to proceed. |

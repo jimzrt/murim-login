@@ -1867,3 +1867,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 떡국 | **tteokguk** | Rice-cake soup prepared for the Seollal breakfast. |
 | 수정과 | **sujeonggwa** | Traditional Korean cinnamon punch served after the meal. |
 | 김치찌개 | **kimchi stew** | Dinner dish Jin Taekyung's mother plans to prepare. |
+| 녹지원 | **Green Garden** | Garden before the Blue House residence. |
+| 평창 | **Pyeongchang** | Location in Gangwon Province where the Gate is situated. |
+| 예티 | **yeti** | Monster species in the Gate's name and raid dialogue. |
+| 예티의 겨울 산맥 | **Yeti's Winter Range** | Name of the B-rank Gate in Pyeongchang. |
+| 광안리 | **Gwangalli** | Busan area where Mermen spread. |
+| 화종 | **Hwa-jong** | Butler Kim's personal name. |
