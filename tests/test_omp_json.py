@@ -122,21 +122,16 @@ class OmpJsonTest(unittest.TestCase):
         self.assertEqual(usage["provider"], "openai-codex")
         self.assertNotIn("fallbacks", usage)
 
-    def test_project_omp_config_defines_subscription_overflow_chains(self):
+    def test_project_omp_config_disables_model_fallbacks(self):
         root = Path(__file__).resolve().parents[1]
         text = (root / ".omp" / "config.yml").read_text(encoding="utf-8")
-        self.assertIn("usageAwareFallback: true", text)
-        self.assertIn("usageReservePct: 5", text)
-        self.assertIn("fallbackRevertPolicy: cooldown-expiry", text)
-        self.assertIn("openai-codex/gpt-5.6-sol:", text)
-        self.assertIn("openai-codex/gpt-5.6-luna:", text)
-        self.assertIn("cursor/cursor-grok-4.6:", text)
-        self.assertNotIn("deepseek-v4.1-flash", text)
+        self.assertIn("modelFallback: false", text)
+        self.assertIn("usageAwareFallback: false", text)
+        self.assertNotIn("\n  fallbackChains:", text)
+        self.assertNotIn("\n      - openrouter/", text)
         overlay = (root / ".omp" / "adjudicator-overlay.yml").read_text(encoding="utf-8")
         self.assertIn("advisor:", overlay)
-        self.assertNotIn("cursor/cursor-grok-4.6:", overlay)
-        self.assertNotIn("deepseek-v4.1-flash", overlay)
-        self.assertIn("openrouter/openai/gpt-4.1-mini:", text)
+        self.assertNotIn("fallback", overlay.lower())
 
 
     def test_run_json_command_streams_without_dumping_events(self):

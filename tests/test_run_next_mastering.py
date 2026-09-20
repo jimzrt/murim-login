@@ -40,17 +40,19 @@ class RunNextMasteringTest(unittest.TestCase):
             encoding="utf-8",
         )
 
+    def overlay_state(self, number: int) -> dict:
+        path = self.root / "reviews" / "mastering" / f"{number:04d}" / "state.json"
+        if not path.exists():
+            return {"stage": "NOT_STARTED"}
+        return json.loads(path.read_text(encoding="utf-8"))
+
     def test_picks_oldest_committed_unpromoted_chapter(self):
         (self.root / "translations" / "0003.md").write_text("# Chapter 3\n", encoding="utf-8")
         (self.root / "translations" / "0004.md").write_text("# Chapter 4\n", encoding="utf-8")
         self.write_primary(3, "COMMITTED")
         self.write_primary(4, "COMMITTED")
         self.write_overlay(3, "PROMOTED", True)
-        with patch.object(run_next_mastering, "state_for", side_effect=lambda n: json.loads(
-            (self.root / "reviews" / "mastering" / f"{n:04d}" / "state.json").read_text(encoding="utf-8")
-            if (self.root / "reviews" / "mastering" / f"{n:04d}" / "state.json").exists()
-            else json.dumps({"stage": "NOT_STARTED"})
-        )):
+        with patch.object(run_next_mastering, "state_for", side_effect=self.overlay_state):
             self.assertEqual(run_next_mastering.next_mastering_chapter(), 4)
 
     def test_skips_already_promoted_committed_chapters(self):
@@ -59,6 +61,16 @@ class RunNextMasteringTest(unittest.TestCase):
         self.write_overlay(3, "PROMOTED", True)
         with patch.object(run_next_mastering, "state_for", return_value={"stage": "PROMOTED", "qa_passed": True}):
             self.assertIsNone(run_next_mastering.next_mastering_chapter())
+
+    def test_picks_oldest_accepted_chapter_without_primary_transaction(self):
+        (self.root / "translations" / "0249.md").write_text("# Chapter 249\n", encoding="utf-8")
+        (self.root / "translations" / "0250.md").write_text("# Chapter 250\n", encoding="utf-8")
+        (self.root / "translations" / "0454.md").write_text("# Chapter 454\n", encoding="utf-8")
+        self.write_overlay(249, "PROMOTED", True)
+        self.write_primary(454, "COMMITTED")
+        self.write_overlay(454, "SNAPSHOTTED", False)
+        with patch.object(run_next_mastering, "state_for", side_effect=self.overlay_state):
+            self.assertEqual(run_next_mastering.next_mastering_chapter(), 250)
 
     def test_resumes_mastered_primary_transaction(self):
         (self.root / "translations" / "0005.md").write_text("# Chapter 5\n", encoding="utf-8")
