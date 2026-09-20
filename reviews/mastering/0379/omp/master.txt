@@ -24,7 +24,7 @@ The one-kilometer gap was closing by the second. Panicked cries rang out.
 
 “Form ranks by unit! Assemble! Form up—!”
 
-“Fire! Fire!”
+“Fire! Fire, damn it!”
 
 Rat-a-tat-tat! Boom!
 
@@ -80,7 +80,7 @@ They were monsters in every sense of the word.
 
 “M-Monsters…”
 
-“I-I have to live. I don’t want to die like a dog in a place like this!”
+“I-I have to get out of here. I don’t want to die like a dog in a place like this!”
 
 The fear of death spread faster than any epidemic.
 
@@ -126,7 +126,7 @@ Led by Shao Shen, the Hunters of the Public Security Armed Forces Department gri
 
 —Awooooo!
 
-Human cries filled with the resolve to face death mingled with the monsters’ shrieks. The two groups collided and became entangled in one mass.
+Human shouts filled with the resolve to die mingled with the monsters’ shrieks. The two forces crashed together and became entangled in a single mass.
 
 Kwagwagwagwang!
 
@@ -136,7 +136,7 @@ The collision shook heaven and earth. Death rained down from every direction.
 
 —Kweeeek!
 
-Squish! Crack!
+Thud! Crack!
 
 Screams and thunderous impacts rang out across the battlefield.
 
@@ -162,13 +162,13 @@ The Griffon’s body reeled amid the acrid smoke. The ranged units on the ground
 
 Bang! Boom-boom-boom!
 
-All manner of spells and arrows brimming with mana pierced the Griffon.
+Spells of every color and arrows brimming with mana pierced the Griffon.
 
 It plummeted with a dying shriek, and the other flying monsters let loose ferocious cries.
 
 —Kyaaaao-o-o!
 
-Modern weapons made of lead and iron blocked the flying monsters as they plunged toward the ranged units.
+They dove toward the ranged units, only to be met by modern weapons of lead and steel.
 
 “Concentrated fire!”
 
@@ -226,7 +226,7 @@ The fear they had briefly forgotten descended upon the People’s Liberation Arm
 
 They were not the Hunters of the Public Security Armed Forces Department fighting at the front. They were only ordinary people carrying modern firearms.
 
-And their ominous suspicion soon became reality.
+Their grim premonition soon became reality.
 
 A nightmare worse than anything they had imagined.
 
@@ -234,11 +234,11 @@ A nightmare worse than anything they had imagined.
 
 A voice spoke in broken, disconnected syllables. The eerie sound, like static from a radio with a poor signal, echoed across the battlefield.
 
-Black fog that had gathered from somewhere spread over the people’s heads.
+Black fog rolled in from nowhere and spread over their heads.
 
 —Yen. Wi. Ga. Ji. Ke!
 
-That was when the horrific change occurred.
+That was when the horrific change began.
 
 Swoooosh!
 
@@ -262,7 +262,7 @@ They laughed in satisfaction.
 
 —Grrrrrk.
 
-With a bubbling sound, a man rose to his feet.
+A bubbling growl rose from the man’s throat as he climbed to his feet.
 
 Clad in armor emblazoned with the Five-Starred Red Flag and carrying a massive ax, he looked exactly like the A-rank Hunter Shao Shen remembered.
 
@@ -272,7 +272,7 @@ But Shao Shen could not say the man’s name aloud.
 
 He could not bring himself to.
 
-Because he knew that the person standing before him was no longer the man he had known.
+The man before him was no longer the person he had known.
 
 *Ah… ahhh.*
 
@@ -304,7 +304,7 @@ The two of them had often sparred like this. What began as simple competitive pr
 
 *Ha-ha. Let’s go get something to eat. The loser pays, so I guess you’re buying again today, Mr. Yao Wei.*
 
-*You’ve got plenty of money at home, and you’re still so greedy. One day, I’ll make you buy me a meal.*
+*You’re from a rich family, yet you’re still such a penny-pincher. One of these days, I’m going to make you buy me a meal.*
 
 But that had never happened, and now it never would.
 
@@ -322,13 +322,13 @@ Thud. Crash.
 
 Shao Shen stared down at the face of the fallen Dullahan—no, Yao Wei—and his eyes burned.
 
-“How dare you… How dare you do this…”
+“How dare you… How dare you do this…?”
 
 Only half a day ago, these friends and colleagues had been laughing and talking with him.
 
 Now they were undead monsters.
 
-The Hunters of the Public Security Armed Forces Department were famous for their strict discipline, but they were not cold-blooded people without a drop of blood in their veins.
+The Hunters of the Public Security Armed Forces Department were renowned for their strict discipline, but they were not cold-blooded machines.
 
 They had entered battle prepared to die. Now, for the first time, they faced the fear born of their attachment to one another.
 
@@ -350,7 +350,7 @@ For the first time in his life, Shao Shen contemplated his own death.
 
 The situation was desperate enough to make even someone as bright and cheerful as him think that way.
 
-*We never received a warning signal, so communications are probably down. There won’t be any reinforcements either… This really is the end.*
+*We never received a warning signal, so communications must be down. There won’t be any reinforcements either… This really is the end.*
 
 Slice!
 
@@ -386,11 +386,11 @@ Then someone’s shout rang across the vast sky.
 
 Not only Shao Shen but everyone on the battlefield looked up.
 
-Someone’s voice, carrying an almost palpable madness, rang out like thunder.
+A voice filled with palpable madness boomed like thunder.
 
-“I’m going to ram it!”
+“I’m putting it in!”
 
-Ram what?
+Putting what in?
 
 Shao Shen soon understood.
 
