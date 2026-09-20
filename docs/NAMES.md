@@ -1843,3 +1843,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 송천우 | **Song Cheonwoo** | Ares Guild Director, former third-ranked Korean Hunter, and longtime European regional branch director. |
 | 상호 | **Sangho** | Go Se-won's young son. |
 | 홍 이사 | **Director Hong** | Ares Guild elder-generation director and informant concerning Song Cheonwoo's meeting. |
+| 킹 퓨리 | **King Fury** | The Skeleton King's fabricated superhero-style identity. |
