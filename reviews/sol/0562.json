@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The Hunters were panting hard, and the insides of their mouths smelled sweet.",
+      "defect": "The literal wording makes the inside of each Hunter’s mouth the source of an oddly pleasant smell. The Korean describes their ragged breath carrying the sickly sweet odor associated with extreme exertion.",
+      "id": "F01",
+      "rationale": "This preserves the exhaustion cue while replacing an unnatural anatomical calque.",
+      "replacement": "The Hunters panted raggedly, their breath carrying a sickly sweet smell.",
+      "severity": "minor",
+      "source": "헉. 허억. 가쁜 숨이 흘러나오는 헌터들의 입안에서는 단내가 풍겼다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The world slowed around him as a montage of his life flashed before his eyes. A second attack was flying toward him, one that would split his body in two.",
+      "defect": "The draft omits the specified direction of the impending injury: the attack will separate his upper and lower body, not merely split him in an unspecified way.",
+      "id": "F02",
+      "rationale": "상하로 분리할 explicitly describes a transverse cut separating the upper and lower halves of his body.",
+      "replacement": "The world slowed around him as his life flashed before his eyes. A second attack was hurtling toward him, one that would cleave him in half at the waist.",
+      "severity": "minor",
+      "source": "주마등과 함께 느려진 세상 속, 자신의 몸뚱어리를 상하로 분리할 두 번째 공격이 날아들고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Security Team Hunter, who had been staring blankly at the middle-aged man, swallowed hard.\n\n“Gasp. I’m sorry. I failed to recognize you—”",
+      "defect": "헛숨을 삼켰다 describes the guard catching or sucking in a startled breath. The draft changes that action to swallowing hard and then inserts the stage direction “Gasp” into his spoken dialogue.",
+      "id": "F03",
+      "rationale": "The replacement restores the physical reaction to narration and removes dialogue that the source does not contain.",
+      "replacement": "The Security Team Hunter, who had been staring blankly at the middle-aged man, sucked in a startled breath.\n\n“I’m sorry. I didn’t recognize you—”",
+      "severity": "minor",
+      "source": "중년인을 멍하니 바라보던 보안팀 헌터가 헛숨을 삼켰다.\n\n“헉. 죄송합니다. 미처 못 알아뵙고…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—It’s ready. By the way, the Security Team rookie called you Vice Team—ah, I’m sorry. Team Leader.",
+      "defect": "The draft invents a claim that the rookie addressed Go Se-won by the wrong title. In the source, the person speaking through the communicator begins discussing the rookie, then accidentally addresses Go as “Deputy Team Leader” before correcting themself to “Team Leader.”",
+      "id": "F04",
+      "rationale": "The correction from 부팀장님 to 팀장님 belongs to the current speaker’s form of address; it is not a report about anything the rookie said. The added accusation falsely changes the recruit’s conduct and the apparent basis for disciplining him.",
+      "replacement": "—It’s ready. By the way, about that new Security Team recruit, Deputy Team—ah, sorry. Team Leader.",
+      "severity": "critical",
+      "source": "- 준비 완료된 상태입니다. 그나저나 보안팀 신입이 부팀, 아, 죄송합니다. 팀장님."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had long been familiar with the Guild’s Iron Fist rule, but it had become even more severe after the recent unfortunate incident.",
+      "defect": "“Iron Fist rule” incorrectly reads like a named policy or a reference to the established epithet Iron Fist. Here 철권 통치 is the ordinary expression for authoritarian, iron-fisted rule.",
+      "id": "F05",
+      "rationale": "The source describes the Guild’s increasingly oppressive governance rather than naming a formal rule.",
+      "replacement": "He had long known that the Guild was ruled with an iron fist, but its grip had tightened even further since the recent unfortunate incident.",
+      "severity": "minor",
+      "source": "길드의 철권 통치는 예전부터 익히 알고 있었지만, 최근 있었던 불의의 사건 이후 더욱 극심해지고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The moment the middle-aged man finished speaking, the smartphone protected by defensive magic began vibrating as though it had been waiting for his order.",
+      "defect": "“Defensive magic” suggests combat protection, while 보안 마법 means security magic protecting the device or its information.",
+      "id": "F06",
+      "rationale": "The scene concerns a secured communications device, and the source specifically uses 보안, not defensive or protective combat magic.",
+      "replacement": "The moment the middle-aged man finished speaking, the smartphone protected by security magic began vibrating as though it had been waiting for his order.",
+      "severity": "minor",
+      "source": "중년인의 말이 끝나기 무섭게, 기다렸다는 듯이 보안 마법이 걸린 스마트폰이 부르르 몸을 떨었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> Chinese Chairman Xiao Yang: “Mr. Choi Is Another Unknown Hero. We Remember Him Fighting at the Risk of His Life in Sichuan.”",
+      "defect": "“Unknown hero” suggests that Choi’s identity is unknown. 알려지지 않은 영웅 means an unrecognized or unsung hero, and “fighting at the risk of his life” is an unnatural rendering of 죽음을 무릅쓰고.",
+      "id": "F07",
+      "rationale": "The statement praises Choi as a hero whose deeds had not received recognition, while explicitly recalling that he risked death in Sichuan.",
+      "replacement": "> Chinese Chairman Xiao Yang: “Mr. Choi Is Another Unsung Hero. We Remember How He Risked His Life Fighting in Sichuan.”",
+      "severity": "minor",
+      "source": "[中 국가 주석 샤오 양, “최 선생은 알려지지 않은 또 한 사람의 영웅. 우리는 쓰촨에서 죽음을 무릅쓰고 싸운 그를 기억한다.”]"
+    }
+  ],
+  "summary": "One critical added scene fact changes why the Security Team recruit appears to face discipline. Several localized action, mechanism, idiom, and wording issues also need correction.",
+  "version": 1
+}

@@ -1,17 +1,17 @@
 # Translation State
 
-- Last completed: 561
-- Next chapter: 562
-- Current block: 560–564 (2/5)
-- Latest translation: `translations/0561.md`
-- Latest summary: `summaries/beats/0561.md`
-- Safe profiles through: chapter 561
+- Last completed: 562
+- Next chapter: 563
+- Current block: 560–564 (3/5)
+- Latest translation: `translations/0562.md`
+- Latest summary: `summaries/beats/0562.md`
+- Safe profiles through: chapter 562
 
 ## Current Block
 
-- A government hotline reports a mana surge at a C-rank Gate in Bucheon, and Song Song urges the Peace Guild's early members to investigate. The Gate is effectively controlled by Ares Guild through a long-term lease, which reawakens Im Kkeokjeong's trauma because Ares members, including Lee Jungryong, previously ordered the severing of his arms.
-- Im Kkeokjeong, whose arms have been reattached and whose rehabilitation is nearly complete, convinces Taekyung to help the people trapped inside despite the Peace Guild's enmity with Ares Guild. Taekyung and the Skeleton King arrive at the Gate known as Orc Wasteland, where Gwak Hangu, the B-rank Branch Leader of Ares Guild's Yeokgok Branch, is struggling to obtain support.
-- The mana level rises beyond three times the average, confirming the third Mutated Gate since the new year began. Taekyung persuades Gwak Hangu to authorize his entry, promising that the Peace Guild will accept him if Ares Guild dismisses him, and enters the Gate with the Skeleton King.
+- Inside the Yeokgok Mutated Gate, an Ares raid team is surrounded by more than a thousand orcs under an Orc Lord and expects to die. Jin Taekyung kills the Orc Lord by throwing a spear through its head and orders the Hunters to get behind him.
+- Head of Security Go Se-won enters Ares Guild's skyscraper headquarters, uses privileged access to teleport into restricted Section A, and proceeds to report to the VIP despite the Guild's increasingly harsh internal discipline.
+- The media praises the Peace Guild, Jin Taekyung, and Choi Minwoo after successive Mutated Gates produce no fatalities, while Go Jun—now Ares Guild's Vice Guild Master—reads the coverage in an office wrecked by his anger.
 
 ## Open Questions
 
@@ -27,7 +27,7 @@
 - Render 반 시진 as half a shichen and retain Nanman, Nanman Beast Palace, Fire Dragon Pavilion, Great Hero, and Young Lady Ju.
 - Render 남만행 as Journey to Nanman, 남만을 못 가 as Can't Go to Nanman, 면구 as disguise mask, 역용술 as disguise technique, 각주님 as Pavilion Master, 로그아웃 as Logout, and 동기화 as Synchronization.
 - Render 일기당천 as One Against a Thousand, 거인의 포효 as Giant's Roar, 타락한 엔트 as Corrupted Ent, 붉은 눈 as Red Eye, 치코리타 as Chikorita, 대마도사 as Grand Mage, 순간이동 as Teleportation, 텔레포트 as Teleport, 변이 게이트 as Mutated Gate, and 몬스터 웨이브 as Monster Wave.
-- Render 모하비 사막 as Mojave Desert, 애리조나주 as Arizona, 대의 as greater cause, 순수혈통 as pureblood, 국부 as Founding Father, 위저드(Wizard) 길드 as Wizard Guild, 조셉 바이든 as Joseph Biden, 펠릭스 왕자 as Prince Felix, 곽한구 as Gwak Hangu, 역곡 as Yeokgok, and 오크의 황무지 as Orc Wasteland.
+- Render 모하비 사막 as Mojave Desert, 애리조나주 as Arizona, 대의 as greater cause, 순수혈통 as pureblood, 국부 as Founding Father, 위저드(Wizard) 길드 as Wizard Guild, 조셉 바이든 as Joseph Biden, 펠릭스 왕자 as Prince Felix, 곽한구 as Gwak Hangu, 역곡 as Yeokgok, 오크의 황무지 as Orc Wasteland, 오크 로드 as Orc Lord, 국회의사당 as National Assembly, 고세원 as Go Se-won, 경호팀장 as Head of Security, and A구역 as Section A.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

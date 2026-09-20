@@ -1825,3 +1825,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 곽한구 | **Gwak Hangu** | B-rank Hunter and Branch Leader of Ares Guild's Yeokgok Branch. |
 | 역곡 | **Yeokgok** | Bucheon branch and Gate location. |
 | 오크의 황무지 | **Orc Wasteland** | Name of the C-rank Gate. |
+| 고세원 | **Go Se-won** | Ares Guild Head of Security and Team Leader. |
+| 오크 로드 | **Orc Lord** | Powerful mutated orc commander. |
+| 국회의사당 | **National Assembly** | Government building visible from the skyscraper. |
+| A구역 | **Section A** | Restricted area inside the skyscraper. |
