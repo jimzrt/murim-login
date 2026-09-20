@@ -6,7 +6,7 @@ The hellfire surged outward, devouring the lingering chill of early spring.
 
 It erased the dozens of wavering afterimages created by the Taeeul Light-Dividing Sword and finally struck the blade as they converged into one.
 
-The Sword Force, the one true essence and concentration of power, collided with the hellfire.
+Sword Force—the one true blade, power concentrated into its purest form—collided with hellfire.
 
 Gooooooong!
 
@@ -42,9 +42,9 @@ A dry cough escaped Hwangbo Eom, followed by a mouthful of blood. His trembling 
 
 Blue-white flames coiled around its transparent silver spearhead.
 
-It was not yet complete, but it was unmistakably Force.
+They were not yet complete, but they were unmistakably Force.
 
-*No. That’s not possible. He hasn’t crossed the wall yet. He’s still at the Peak realm. Then how could this old man…?*
+*No. That can’t be. He hasn’t crossed the wall yet. Then how could this old man…?*
 
 Hwangbo Eom had crossed that wall ten years ago and entered the Supreme Peak realm.
 
@@ -61,8 +61,6 @@ The young man’s answer was short.
 With that quiet reply, the spearhead locked against Hwangbo Eom’s sword bore down on him with tremendous force.
 
 Kaga-ga-ga-gak!
-
-“Hup!”
 
 Two jiazi of internal energy poured into his Sword Force?
 
@@ -92,7 +90,7 @@ Blood spurted from his shoulder, and his eyes flew wide.
 
 He had not even seen the young man strike.
 
-Even the Taeeul Light-Dividing Sword, the Zhongnan Sect’s celebrated sword art of extreme speed, could not possibly be like this.
+Not even the Taeeul Light-Dividing Sword, Zhongnan’s celebrated sword art of extreme speed, was this fast.
 
 After eighty years spent practicing the Zhongnan Sect’s martial arts, Hwangbo Eom cried out.
 
@@ -102,13 +100,13 @@ Kraaa-boom!
 
 He summoned every last ounce of strength, and the Force gathered along his blade flared like wildfire.
 
-At last escaping the pressure, Hwangbo Eom pointed at the young man with trembling fingers.
+Barely escaping the pressure, Hwangbo Eom pointed a trembling finger at the young man.
 
 “Who… Who in the world are you?”
 
 “You know.”
 
-The young man, Jin Taekyung, spat to the side like a common street thug before continuing.
+The young man—Jin Taekyung—spat to the side like a common street thug.
 
 “The nineteenth successor of the Fire Gate Clan.”
 
@@ -122,8 +120,6 @@ Shweeeeeek! Boom!
 
 Spearhead and sword blade collided.
 
-A series of moments so brief they could be called instants.
-
 One instant followed another, each too brief to measure. Hellfire and Sword Force erased everything in their path as they clashed and separated through dozens of exchanges.
 
 Shishishishik! Bang!
@@ -136,7 +132,7 @@ I launched myself forward, bounding across the wooden fragments raining from the
 
 Light yet heavy.
 
-Soft yet rough.
+Soft yet fierce.
 
 Like a fire spreading.
 
@@ -172,7 +168,7 @@ My palm burned through the air.
 
 Hwangbo Eom roared like thunder and thrust out his own palm to meet it.
 
-A dazzling blue light gathered over his wrinkled palm.
+Dazzling blue light gathered over his wrinkled hand.
 
 It was the Zhongnan Sect’s famed Blue Cloud Heavenly Force Palm.
 
@@ -262,9 +258,7 @@ Kraaaack!
 
 “Gaaaaaaaaah!”
 
-Hwangbo Eom’s body was hurled backward amid a shriek that seemed to tear the air apart.
-
-Three pillars and part of the wall collapsed, and the remaining ceiling came crashing down.
+Hwangbo Eom’s body hurtled backward with a piercing scream. Three pillars and a wall collapsed, and what remained of the ceiling came crashing down.
 
 Just as the word *finished* crossed my mind, I saw bloodshot eyes glaring at me through the cloud of dust.
 
@@ -272,7 +266,7 @@ Just as the word *finished* crossed my mind, I saw bloodshot eyes glaring at me 
 
 “Stay down if you want to hold on to what little life you have left.”
 
-“You… How could you…”
+“You… How could you…?”
 
 Shock and confusion.
 
@@ -286,7 +280,7 @@ At last, they all converged into one.
 
 His blood-soaked lips slowly parted.
 
-Blood mixed with pieces of his organs poured down, but his eyes continued to burn fiercely.
+Blood mixed with pieces of his organs streamed down his chin, but his eyes burned fiercely.
 
 They were the eyes of a man who no longer cared what happened afterward.
 
@@ -298,7 +292,7 @@ Then an icy wind began to blow.
 
 It came from one man and rose from a single sword.
 
-I felt my overheated blood begin to cool and muttered,
+I felt the heat drain from my blood.
 
 “This is…”
 
@@ -418,7 +412,7 @@ The terror he felt from me.
 
 Shweeeek!
 
-I took one step forward and swung my spear.
+I stepped forward and swung my spear.
 
 The sword strike sweeping toward my neck collided with the spearhead and vanished.
 
@@ -458,10 +452,10 @@ The shattered blade tumbled across the ground.
 
 Hwangbo Eom stared blankly at his ruined, cherished sword before raising his head.
 
-“You… What in the world are you…”
+“You… What in the world are you…?”
 
-“So why…”
+“That’s why…”
 
-I slowly continued speaking to the greatest martial artist of the Zhongnan Sect, Taeeul Merciless Sword Hwangbo Eom.
+I slowly continued, staring at the greatest martial artist of the Zhongnan Sect—Taeeul Merciless Sword Hwangbo Eom.
 
 “Why the fuck did you have to insult someone else’s master? You old bastard who ate all those years through your asshole. You trying to get yourself killed? Fuck.”
