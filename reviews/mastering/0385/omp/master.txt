@@ -22,7 +22,7 @@ Foreigners like Magic Johnson were using translation magic, but even they couldn
 
 “……!”
 
-I watched his face twist violently. Just as he was about to shove back his chair and leap to his feet, the woman sitting beside him raised a hand to stop him.
+His face twisted violently. He shoved back his chair and started to rise, only for the woman sitting beside him to raise a hand and stop him.
 
 “Enough.”
 
@@ -108,7 +108,7 @@ Wu Heixing—the man who had been picking a fight with me and throwing around th
 
 “Even a stray dog would know there’s a human piece of shit among the S-rank Hunters.”
 
-“What, what did you say?”
+“W-What did you say?”
 
 “What? Everyone knows your hobby is getting attention and your specialty is committing crimes, then manipulating the media afterward.”
 
@@ -138,13 +138,13 @@ Leaving behind Team Leader Choi, who had renounced all worldly attachments and w
 
 “Damn, how did you think of planting foreshadowing like that? This bastard is at least Wu Heishunwon. *Purple Raid.*”
 
-“What, what did you say?”
+“W-What did you say?”
 
 “Come to think of it, there was something else. Five years ago, you got caught drugging and sexually assaulting someone at some club called Burning Moon or whatever. How did you get acquitted? Under Chinese law, it wouldn’t have been strange if you’d been executed two or three times over.”
 
 “……!”
 
-“I heard a rumor that you’re the son of one of the Communist Party’s highest-ranking officials. Did you buy your way out with money and power? Look at this clever bastard.”
+“I heard rumors that you’re the son of one of the Communist Party’s highest-ranking officials. Did money and power get you off? Look at this clever bastard.”
 
 “Shut your fucking mouth! How dare a lowborn bangzi speak to me like that!”
 
@@ -186,7 +186,7 @@ Of course, the finest expression of all belonged to Wu Heixing, who had just cal
 
 Understandable. When it came to social standing, how was he supposed to beat British royalty?
 
-“So, this is……”
+“So, what I meant was…”
 
 “Ah.”
 
@@ -234,9 +234,9 @@ I was momentarily speechless. Team Leader Choi leaned over and whispered discree
 
 As I stared at Prince Felix in disbelief, he slowly rose and extended the back of his hand toward me as though it were the most natural thing in the world.
 
-“Come now.”
+“Come, then.”
 
-“Come now? What is it this time?”
+“Come, then? What is it this time?”
 
 The middle-aged man, who might have been either a secretary or a parrot, smiled with satisfaction.
 
@@ -262,13 +262,13 @@ I answered through Sound Transmission.
 
 —No. Absolutely not!
 
-—Just the back of his hand. Or maybe only one finger.
+—Just the hand, then. Or maybe one finger.
 
 —I said no!
 
-I hadn’t known that a message spell could convey this much emotion. Team Leader Choi must have been desperate in his own way.
+I hadn’t realized message magic could convey this much emotion. Team Leader Choi must have been desperate.
 
-*Fine. He’s a British prince. I can’t do anything about that.*
+*Fine. He’s a British prince. I’ll let it go.*
 
 I was swallowing my anger when—
 
@@ -278,21 +278,19 @@ I was swallowing my anger when—
 
 I looked warily at Magic Johnson, who had suddenly approached me.
 
-I had never expected much from Wu Heixing, who was famous for his anti-Korean sentiment and all kinds of trouble. But the joy of seeing S-rank Hunters I had only watched on television in person was gradually running out.
+I’d never expected much from Wu Heixing, who was notorious for his anti-Korean views and countless scandals. Still, the excitement of meeting S-rank Hunters I had only ever seen on television was rapidly draining away.
 
-“……No, please. Don’t call me Lord Fuck. Use my name. Would you like it if I called you Dickson instead of Johnson?”
+“……Please. Don’t call me Lord Fuck. Use my name. Would you like it if I called you Dickson instead of Johnson?”
 
 “Hmm. Now that you put it that way, I see your point. Jin, then?”
 
-“That’s much better. But why?”
+“That’s much better. What is it?”
 
-“It’s nothing special. I was just wondering—are you really not planning to kiss the prince’s hand?”
+“Nothing important. I was just wondering whether you truly have no intention of kissing the prince’s hand.”
 
-“That sounds pretty special to me.”
+“That sounds pretty important to me.”
 
-I was dumbfounded and immediately asked back.
-
-“Of course not. What is this, the Middle Ages? Would you want to do it if you were me, Johnson?”
+Dumbfounded, I immediately shot back, “Of course I don’t. What is this, the Middle Ages? Would you want to do it, Johnson?”
 
 “I would.”
 
@@ -300,9 +298,9 @@ I was dumbfounded and immediately asked back.
 
 Enlightenment struck me like a flash of lightning.
 
-I had completely forgotten. Magic Johnson was an American national hero—and a national gay icon.
+I had completely forgotten. Magic Johnson was an American national hero—and the nation’s most famous gay icon.
 
-*Time* magazine’s choice for “the world’s most influential LGBT person” was making a serious suggestion to me.
+*Time* magazine’s choice for “the world’s most influential LGBT person” looked at me with utter seriousness.
 
 “So I was thinking I might express my gratitude to the prince in your place, Jin.”
 
@@ -310,7 +308,7 @@ I had completely forgotten. Magic Johnson was an American national hero—and a 
 
 *He really knows how to dress it up.*
 
-But unlike Magic Johnson, Prince Felix quietly withdrew the back of his hand.
+Unlike Magic Johnson, however, Prince Felix discreetly withdrew his hand.
 
 “Beneath God, we are all equal. Such antiquated customs ought to disappear. Magic Johnson, I shall accept your kind offer another time.”
 
@@ -318,9 +316,7 @@ But unlike Magic Johnson, Prince Felix quietly withdrew the back of his hand.
 
 *Is that really something the same bastard who held his hand out to me a minute ago should be saying?*
 
-Faye Chen, who had been listening, muttered as though she found it absurd.
-
-“My, he’s shameless. He may be one step above Wu Heixing, even if he hasn’t actually committed any crimes.”
+Faye Chen, equally dumbfounded, muttered, “My, he’s shameless. Except for not committing any crimes, he might even have Wu Heixing beat.”
 
 “He’s still better than Wu Heixing. That guy should’ve been executed if the law had been followed.”
 
@@ -330,7 +326,7 @@ The arrival of one heavyweight after another had reduced Wu Heixing to a cowerin
 
 “Y-you—you fucking bangzi!”
 
-“Stop going on about bangzi already. Even the national anthem gets tiring by the second verse. The same goes for me going easy on you.”
+“Enough with the bangzi crap. Even the national anthem gets tiring after the second verse. Same goes for me going easy on you.”
 
 “……You’re going easy on me?”
 
