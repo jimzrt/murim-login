@@ -4,7 +4,7 @@
 
 *What kind of lunatic is this?*
 
-At the sight of the young man strolling in as casually as if he belonged there, the Western Heaven Demon Lord let out an involuntary, hollow laugh.
+At the sight of the young man strolling in as if he belonged there, the Western Heaven Demon Lord let out an involuntary laugh.
 
 *I emerge after all this time, and now I’m running into all kinds of strange people.*
 
@@ -18,7 +18,7 @@ Swish!
 
 Even livestock called for different blades.
 
-If Tang Sadok and the Tang Clan’s Ten Wonders were pigs, that brat was an ant.
+If Tang Sadok and the Tang Clan’s Ten Wonders were pigs, this brat was an ant.
 
 The Western Heaven Demon Lord did not even feel the need to draw his favored weapon. He flicked a finger toward the young man’s brow, then turned his head toward Tang Sadok.
 
@@ -60,11 +60,11 @@ Swish!
 
 In the blink of an eye, the young man flipped through the air as a flash of light sprang from his waist.
 
-Drawing his sword at the same time, he deflected the slash that came flying through the air. Then he panted heavily.
+He drew his sword and deflected the slash flying through the air, then panted heavily.
 
-“Huff, huff. That startled me. Why did you do that without saying anything?”
+“Huff, huff. That startled me. Why would you attack without warning?”
 
-“Ha-ha. Ha-ha-ha!”
+“Ha. Ha-ha-ha!”
 
 The Western Heaven Demon Lord looked from the sword in his right hand to the young man, then burst into hearty laughter.
 
@@ -88,7 +88,7 @@ Cheongpung stared at the Western Heaven Demon Lord with round eyes.
 
 Dark Heaven had spent many years planting spies throughout the world, and Sichuan Province was no exception.
 
-The Western Heaven Demon Lord had already known for ten days that Cheongpung was staying at the Tang Clan.
+The Western Heaven Demon Lord had known for ten days that Cheongpung was staying with the Tang Clan.
 
 He had not expected them to meet at such a perfect moment.
 
@@ -108,7 +108,7 @@ The Western Heaven Demon Lord answered gently.
 
 The unexpected answer made Tang Sadok and even the three surviving members of the Tang Clan’s Ten Wonders doubt their ears.
 
-But the Western Heaven Demon Lord, the man at the center of it all, remained impassive.
+The Western Heaven Demon Lord himself remained impassive.
 
 “I have no intention of taking prey someone else has already marked. Personally, I am not particularly fond of him, but we serve the same master.”
 
@@ -132,7 +132,7 @@ Cheongpung’s nature was as clear as a mountain stream, and he had never once d
 
 Not even those who had approached him with ill intent.
 
-But now, unmistakable hostility had appeared in Cheongpung’s transparent eyes.
+But now, unmistakable hostility had appeared in his limpid eyes.
 
 “Is he here right now?”
 
@@ -140,41 +140,41 @@ But now, unmistakable hostility had appeared in Cheongpung’s transparent eyes.
 
 The Western Heaven Demon Lord continued smoothly.
 
-“The same goes for the Fire King being treated at the Tang Clan and the young man named Jin Taekyung.”
+“The same goes for the Fire King being treated here and the young man named Jin Taekyung.”
 
 “…!”
 
 “I told you. I have many eyes and ears.”
 
-A smile formed at the corner of the Western Heaven Demon Lord’s mouth.
+A smile formed on the Western Heaven Demon Lord’s lips.
 
 “Do not worry too much. I intend to take all three of you alive. Whether my friend the Blood Lord feels the same, however, I cannot say.”
 
 Cheongpung sensed the chilling edge hidden beneath the man’s gentle voice.
 
-Without realizing it, he tightened his grip around his sword hilt. A different tone and voice than usual slipped through his lips.
+His grip tightened around his sword hilt. When he spoke, his tone and voice were unlike their usual selves.
 
 “It won’t be easy.”
 
-“I wonder if that’s really—”
+“Is that so—”
 
-The Western Heaven Demon Lord’s voice never finished.
+The Western Heaven Demon Lord never finished.
 
-A tremendous boom split the air, and dozens of flashes filled the pavilion reduced to rubble.
+The next instant, a tremendous rush of air erupted, and dozens of flashes filled the ruined pavilion.
 
 Swish, swish-swish-swish!
 
-Tang Sadok and the Tang Clan’s Ten Wonders—or rather, the three who should now be called the Tang Clan’s Three Skills[^1]—shot toward a single target like arrows, as if they had planned it together.
+Tang Sadok and the Tang Clan’s Ten Wonders—or rather, the three men who should now be called the Tang Clan’s Three Skills[^1]—shot toward a single target like arrows, as though they had planned it together.
 
 Dozens of hidden weapons filled the air from every direction, each aimed at a lethal acupoint, while Tang Sadok drew on every last ounce of strength and drove his fist into the Western Heaven Demon Lord’s chest.
 
 “You bastard—!”
 
-Kwahhhhhng! Rumble, rumble!
+Kwahhhhhng! Rumble!
 
-The aftermath was powerful enough to be called an earthquake.
+The impact was powerful enough to cause an earthquake.
 
-Tang Sadok and the three Tang Clan martial artists had personally experienced the Western Heaven Demon Lord’s might.
+Tang Sadok and the three surviving Tang Clan martial artists had already experienced the Western Heaven Demon Lord’s might firsthand.
 
 They had no intention of squandering their one chance. Their final assault, launched by drawing even upon their innate qi, was devastating.
 
@@ -182,13 +182,13 @@ They had no intention of squandering their one chance. Their final assault, laun
 
 Within the cloud of dust so thick he could not see an inch ahead, Tang Sadok smiled brightly despite coughing up blood.
 
-He had realized that the punch he had unleashed with all his strength had crushed the enemy’s flesh and bones and pierced through his chest.
+He had felt his full-powered punch crush the enemy’s flesh and bone before punching through his chest.
 
 *This is the Tang Family’s revenge.*
 
-That was when—
+Then—
 
-“Did you think this would be enough?”
+“Did you think that would be enough?”
 
 “…!”
 
@@ -200,7 +200,7 @@ The dust dispersed.
 
 Before him stood one of the Tang Clan’s Three Skills, dead with a massive hole through his chest. The Western Heaven Demon Lord was behind the corpse, reaching over its shoulder.
 
-At the Western Heaven Demon Lord’s feet, two people who had once possessed human shapes lay shattered across the ground.
+At his feet lay the shattered remains of two men who had once possessed human forms.
 
 *How?*
 
@@ -216,7 +216,7 @@ The thirty blades of Sword Energy flying toward him like flower petals were swal
 
 But though the petals disappeared, their fragrance remained.
 
-From the foot of the young man driving into the air at the speed of a flash, the scent of plum blossoms planted by Huashan and brought into bloom by the Sword Saint rose up.
+The young man pierced through the air at the speed of light. From the tips of his feet bloomed the scent of plum blossoms planted by Huashan and brought to flower by the Sword Saint.
 
 Sssshing!
 
@@ -224,7 +224,7 @@ Sssshing!
 
 A single sword thrust forward, leaving a pale afterimage.
 
-The Western Heaven Demon Lord let out a brief cry of surprise and brought his sword down.
+The Western Heaven Demon Lord exclaimed and brought his sword down.
 
 His sinuous Snake Sword collided with Cheongpung’s plum-blossom-engraved blade.
 
@@ -262,7 +262,7 @@ The Western Heaven Demon Lord clicked his tongue softly, then called in a low vo
 
 Cheongpung was not surprised when First Fiend appeared with a deferential answer. He had sensed the man nearby fifteen minutes ago.
 
-That meant the attackers had already passed through the Outer Hall and entered the Inner Hall.
+That meant the attackers had already broken through the Outer Hall and entered the Inner Hall.
 
 The screams were drawing closer.
 
@@ -294,19 +294,19 @@ The Western Heaven Demon Lord’s gaze had turned cold.
 
 The instant their eyes met, First Fiend felt his heart drop. He hurriedly threw himself facedown on the ground.
 
-“Y-Your orders.”
+“Y-Your will be done.”
 
 For a moment, he had forgotten what kind of man the Western Heaven Demon Lord was.
 
-He was a man who hid a grim reaper behind a gentle voice, soft manner, and mild expression.
+Behind that gentle voice, mild expression, and soft manner lurked the God of Death.
 
 The Western Heaven Demon Lord silently looked down at the sweating First Fiend, then walked past him.
 
-Tang Sadok struggled in pain with the hand around his neck, but the Western Heaven Demon Lord’s arm did not move an inch.
+Tang Sadok struggled in pain, but the hand around his neck did not budge.
 
 “No!”
 
-“Heh-heh. Do you have any idea whose path you’re blocking?”
+“Heh-heh. How dare you block my path!”
 
 Swish—boom!
 
@@ -316,17 +316,17 @@ Leaving their thunderous clash behind, the Western Heaven Demon Lord continued w
 
 The Inner Hall, where craftsmen had forged weapons and children once walked beside martial artists, was now covered in blood and corpses.
 
-Screams and death overflowed from every direction.
+Screams and death filled every corner.
 
 And here, only a short distance away, one man watched the destruction of his family with tears streaming down his face.
 
-“Can you feel it? Everything in the Tang Clan is collapsing.”
+“Can you feel it? Everything the Tang Clan built is collapsing.”
 
 Tang Sadok’s hollow eyes trembled.
 
 The Tang Clan was not the only thing collapsing. His firm convictions and his heart were crumbling with it.
 
-Then, as tears continued to stream down his face, a quiet voice slipped into his ear.
+As tears continued to stream down his face, a quiet voice slipped into his ear.
 
 “Answer me. Where is the Myriad-Poison Ring?”
 
