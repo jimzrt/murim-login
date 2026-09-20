@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.9,
+      "current": "With a conflicted look in his eyes, Choi Minwoo crossed Nokjiwon, the grounds spread out in front of the Blue House residence.",
+      "defect": "The draft romanizes an unestablished place name and loosely recasts the named garden as generic grounds.",
+      "id": "F01",
+      "rationale": "The supplied hanja, 綠地園, identifies the location as the Green Garden; translating it avoids an unexplained romanization while preserving the specific setting.",
+      "replacement": "With a conflicted look in his eyes, Choi Minwoo crossed the Green Garden spread out before the Blue House residence.",
+      "severity": "minor",
+      "source": "최민우는 갈등 어린 눈빛으로 청와대 관저 앞에 펼쳐진 녹지원(綠地園)을 가로질렀다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The B-rank Gate in Gangwon Province known as *Yeti's Winter Range* was not a particularly appealing raid site for Hunters.",
+      "defect": "The draft omits Pyeongchang from the Gate’s location.",
+      "id": "F02",
+      "rationale": "평창 explicitly locates the Gate in Pyeongchang within Gangwon Province.",
+      "replacement": "The B-rank Gate in Pyeongchang, Gangwon Province, known as *Yeti's Winter Range* was not a particularly appealing raid site for Hunters.",
+      "severity": "minor",
+      "source": "강원도 평창에 위치한 B급 게이트, [예티의 겨울 산맥]은 헌터들에게 있어 그리 매력적인 레이드 장소는 아니었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "At Choi Minwoo's flat voice, the middle-aged man whose appearance had been changed by an illusion spell finally parted his tightly closed lips.",
+      "defect": "The draft omits the source’s explicit identification of the disguised middle-aged man as Song Cheonwoo.",
+      "id": "F03",
+      "rationale": "The narration explicitly names 송천우 at the moment his disguised appearance is described, confirming rather than merely implying his identity.",
+      "replacement": "At Choi Minwoo's flat voice, the middle-aged man whose appearance had been changed by an illusion spell—Song Cheonwoo—finally parted his tightly closed lips.",
+      "severity": "major",
+      "source": "최민우의 고저 없는 목소리에 환영 마법으로 모습을 바꾼 중년인, 송천우는 꾹 다물고 있던 입술을 뗐다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "My maternal grandfather was pushed out of the center of the Ares Guild long ago.",
+      "defect": "The draft changes the subject from Song Cheonwoo, whom Choi addresses by his branch-director title, to Choi’s maternal grandfather. This invents a claim about the grandfather and breaks Song’s ensuing response that the remark hurts.",
+      "id": "F04",
+      "rationale": "지사장님께서는 directly addresses Song Cheonwoo as Director; the statement explains why Song’s information may no longer be reliable and why Song personally says the observation hurts.",
+      "replacement": "You were pushed out of the Ares Guild's inner circle long ago, Director Song.",
+      "severity": "critical",
+      "source": "지사장님께서는 이미 오래전에 아레스 길드의 중심에서 밀려나신 분이니까요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That person is there.”",
+      "defect": "The draft drops the explicit causal construction, turning Song’s direct explanation of the connection into a bare statement.",
+      "id": "F05",
+      "rationale": "The ending -니까 marks the grandfather’s presence there as the reason the secret area is connected to his safety.",
+      "replacement": "“Because that person is there.”",
+      "severity": "minor",
+      "source": "“그곳에 그분이 계시니까.”"
+    }
+  ],
+  "summary": "One critical subject error changes Song Cheonwoo’s history into the grandfather’s; several localized omissions and terminology issues also require correction.",
+  "version": 1
+}
