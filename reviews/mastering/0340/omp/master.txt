@@ -28,7 +28,7 @@ And now the Heaven-Shaking Venerable Nun was dead.
 
 *First the Poison King, and now the Heaven-Shaking Venerable Nun.*
 
-What a damned mess.
+What a fucking mess.
 
 I finally spoke the words that had been hovering on the tip of my tongue.
 
@@ -42,11 +42,11 @@ Venerable Myoryeong, Gung Gibang, Hyuk Mujin, and the two Elders of the Qingchen
 
 Five pairs of eyes turned toward me at once. All five held surprise, though not for the same reason.
 
-“The culprit?”
+“Killed her?”
 
 “D-Do you mean someone murdered the Heaven-Shaking Venerable Nun…?”
 
-The two Elders of the Qingcheng Sect could not continue and fell silent. They had only belatedly realized what they had failed to notice in their shock at the news: Venerable Myoryeong’s current condition.
+The two Qingcheng Elders trailed off and fell silent. Only then did they notice what their shock at the news had made them overlook.
 
 Venerable Myoryeong’s clothes were caked with dried, dark-red blood, and her complexion had turned a deathly blue.
 
@@ -60,9 +60,9 @@ At my questioning look, Gung Gibang nodded gravely.
 
 “We had no choice. The man who murdered the Heaven-Shaking Venerable Nun…”
 
-“He’s the same person as the culprit behind what happened at the Sichuan Tang Clan, or at least connected to him. I think so too.”
+“Is either the same man responsible for what happened at the Sichuan Tang Clan or connected to him. I think so too.”
 
-The Elders, realizing there was something they did not know, asked in urgent voices,
+Realizing that there was something they had not been told, the Elders asked urgently,
 
 “You knew about the killer? Has something happened to the Sichuan Tang Clan as well?”
 
@@ -78,7 +78,7 @@ I drew a deep breath and spoke.
 
 “……!”
 
-“The Family Head, Great Hero Tang Sadok—the Myriad-Poison Asura—declared that he would have his revenge. By now, he should be pursuing the culprit with the members of his household.”
+“The Family Head, Great Hero Tang Sadok—the Myriad-Poison Asura—declared his intent to take revenge. By now, he should be pursuing the killer with his clansmen and retainers.”
 
 But the Poison King had not been the only victim.
 
@@ -126,31 +126,31 @@ My lips moved, but I pressed them shut without speaking.
 
 I knew. Even if I had gone instead of Gung Gibang and Hyuk Mujin, I could not have stopped Venerable Myoryeong.
 
-Even as she vomited blood, the voice she had forced out still rang vividly in my ears.
+The words she had forced out even as she coughed up blood still rang vividly in my ears.
 
-“The Sect Leader and all three Elders… That fiend killed them all. I—we couldn’t chase him as he walked away smiling.”
+“The Sect Leader and all three Elders… That fiend killed them all. I—we couldn’t chase him as he walked away laughing.”
 
 She said the fiend had descended upon Mount Emei, the sacred mountain of Buddhism, only three days ago.
 
-The demon had climbed the mountain like any other pilgrim and sought out the residence where the Heaven-Shaking Venerable Nun lived. Three Elders happened to be there at the time.
+He had climbed the mountain like any other pilgrim and sought out the Heaven-Shaking Venerable Nun’s residence. Three Elders happened to be with her at the time.
 
 Then a battle that shook heaven and earth erupted. A mountain peak collapsed, and Mount Emei itself trembled.
 
-What Venerable Myoryeong had witnessed after recognizing the disaster and rushing there from the nearest location was four dead nuns and a single demon.
+Venerable Myoryeong was the first to notice the disturbance and rush over. What she found was four dead nuns and a single fiend.
 
 “Don’t look at me like that. My art of killing was simply stronger than Emei’s Dharma.”
 
 “H-How could you do such a thing? Do you truly not fear Heaven?”
 
-“How laughable. The Buddha and Heaven you speak of are all lies and illusions. I will show you that I have another Heaven.”
+“How laughable. The Buddha and Heaven you speak of are nothing but lies and illusions. I will show you that another heaven exists.”
 
-That was the last thing he said.
+Those were the last words she heard.
 
 The killer struck Venerable Myoryeong with a palm and disappeared. Then, while the Emei Sect was consumed by grief and rage, two young men arrived.
 
 After Gung Gibang and Hyuk Mujin told her that members of the Qingcheng Sect were nearby, she ignored everyone’s attempts to stop her and descended Mount Emei.
 
-“Please help us. Please! No matter what, we must stop that fiend… Cough!”
+“Please help us. Please! No matter what happens, that fiend must… Cough!”
 
 Remembering Venerable Myoryeong crying out until the moment she lost consciousness made me clench my teeth.
 
@@ -162,11 +162,11 @@ What was his purpose? Why had he done such a thing? And was he the same man who 
 
 *What if he wasn’t?*
 
-The moment my thoughts reached that point, a chill ran down my spine, and my heart began pounding violently.
+The moment my thoughts reached that possibility, a chill ran down my spine and my heart began to pound.
 
 If the two incidents had been committed by different people… it was only a matter of time before Sichuan became a land of death.
 
-Just as my previously effortless steps began to grow heavy, the two Elders of the Qingcheng Sect spoke.
+Just as my previously effortless strides began to grow heavy, the two Qingcheng Elders spoke.
 
 “I think we should part ways here.”
 
@@ -176,7 +176,7 @@ It was only natural for them to worry about their own sect.
 
 First the Sichuan Tang Clan, and now the Emei Sect. Anyone with a brain could guess that the Qingcheng Sect might be next.
 
-“There’s no need to apologize. I would have done the same.”
+“There’s no need to apologize. I would do the same.”
 
 “Thank you for understanding.”
 
@@ -244,7 +244,7 @@ He pulled a wooden case of acupuncture and moxibustion tools from the travel bag
 
 * * *
 
-Swish.
+*Rustle.*
 
 It took Mungyeong only moments to check her pulse and insert the needles.
 
@@ -318,9 +318,9 @@ The Mungyeong I knew could never have possessed such knowledge.
 
 “Tell me. Now.”
 
-Mungyeong swallowed hard at my chilling aura before answering,
+Mungyeong swallowed at the chill in my aura before answering.
 
-“My Master… My Master told me everything.”
+“My Master… My Master taught me everything.”
 
 “Your Master?”
 
