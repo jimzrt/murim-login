@@ -26,7 +26,7 @@ The City Lord clicked his tongue at the silent captain, then suddenly spoke agai
 
 “Wait. The Jin Family of Taiyuan sounds rather familiar too.”
 
-“It is an emerging sect that unified the Murim of Shanxi two years ago and has now made its name known throughout the Central Plains. Of course, if we are speaking only of the family’s history, it is old enough to rival the Nine Sects and One Gang…”
+“It is a rising sect that unified Shanxi’s martial world two years ago and has since made a name for itself throughout the Central Plains. Of course, in terms of the family’s history alone, it is old enough to rival the Nine Sects and One Gang…”
 
 “No, that’s not what I mean. I’ve definitely heard the name plenty of times… Ah!”
 
@@ -40,7 +40,7 @@ Only then did the Captain of the Guards recall what he had momentarily forgotten
 
 Come to think of it, it had not been that long ago. Three or four months at most. The sight of wagons laden with riches rolling in one after another had stretched the City Lord’s smile from ear to ear.
 
-“But weren’t they the Jin Family Trading Company?”
+“But weren’t they from the Jin Family Trading Company?”
 
 “The Jin Family Escort Bureau and the Jin Family Trading Company. Both belong to the Jin Family of Taiyuan, if I remember correctly. Yes, it’s all coming back to me.”
 
@@ -96,7 +96,7 @@ The City Lord’s heart melted at his concubine’s coy smile.
 
 Just as she said, many of the items the Jin Family Trading Company had brought last time had been rare treasures.
 
-The various pieces of jewelry and ornaments said to have been made by the northern tribes were mysterious yet exquisitely crafted. His concubine wore them constantly and never took them off.
+The various pieces of jewelry and ornaments said to have been made by the northern tribes were exotic and exquisitely crafted. His concubine loved them so much that she wore them constantly.
 
 “It’s my request. Won’t you grant it? Please?”
 
@@ -140,7 +140,7 @@ Patter-patter-patter—thud!
 
 The naked City Lord bolted out of bed, threw himself flat on the floor, and cried out, “I-I behold the token of His Highness Prince Shangshan!”
 
-Good grief. Did he cook a locomotive smokestack rare and eat it?
+Holy shit. Had he eaten a locomotive smokestack cooked rare?
 
 His reaction was so extreme that even I was momentarily taken aback.
 
@@ -150,7 +150,7 @@ All I had done was take *that* out and show it to him.
 
 I looked down at the gold plaque in my hand.
 
-It had been about a year ago, if I remembered correctly. I had even held a private autograph session for Prince Shangshan, Zhu Bao, and received this Item as a Quest completion Reward.
+It had been about a year ago, if I remembered correctly. I had held a private autograph session for Prince Shangshan, Zhu Bao, and received this Item as a Quest completion Reward.
 
 > **System**
 > **Item Window**
@@ -163,7 +163,7 @@ It had been about a year ago, if I remembered correctly. I had even held a priva
 > **Description:** A token imbued with the authority of Prince Shangshan, Zhu Bao, the emperor’s only younger brother and an imperial prince. The clouds and dragon engraved into its surface symbolize the imperial family, and it is also of immense artistic value.  
 > **Special Note:** Can be used only once.
 
-I never expected to use something I had shoved into my Inventory and forgotten about like this.
+I never expected to use something I had shoved into my Inventory and forgotten about.
 
 I had known the imperial family wielded enormous authority in this world, but the City Lord’s reaction exceeded even my expectations.
 
@@ -179,7 +179,7 @@ When I remained silent, the City Lord cautiously raised his upper body.
 
 At first, he had looked at Cheongpung and me as though we were street thugs. Now his eyes were trembling as though an earthquake had struck.
 
-Wobble, wobble.
+Flop, flop.
 
 “……”
 
@@ -189,7 +189,7 @@ At my disgusted glare, the City Lord hurriedly covered his lower body.
 
 “Th-There’s a reason for this…”
 
-There probably was.
+I was sure there was.
 
 Spring flowers were beginning to bloom outside, but the smell of chestnut blossoms was overpowering in here.
 
@@ -235,9 +235,9 @@ I smiled broadly, grabbed the City Lord by the shoulder, and pulled him to his f
 
 “Why? Are you losing your nerve? If you do a good job, I could put in a good word for you with His Highness Prince Shangshan.”
 
-After thinking for a moment, the City Lord of Sichuan cried out in a trembling voice,
+After a moment’s hesitation, the City Lord cried out in a trembling voice, “I shall stake my life on completing this mission!”
 
-Wobble, wobble.
+Flop, flop.
 
 “……”
 
@@ -245,7 +245,7 @@ No, everything else was fine, but he really needed to stop that from shaking too
 
 * * *
 
-The reputation I had heard about the City Lord of Sichuan was the worst imaginable.
+Everything I had heard about the City Lord of Sichuan was terrible.
 
 He was known as an incompetent official who had claimed his current position through his family’s influence. His hobby was gobbling up bribes wherever he could get them, and his specialty was wine, women, and gambling—or so everyone said.
 
@@ -287,11 +287,11 @@ An enormous reward capable of changing a person’s life several times over, alo
 
 But even that was not enough.
 
-*If the Divine Physician could be found with this much, the imperial court wouldn’t have given up.*
+*If this were enough to find him, the imperial court would never have given up.*
 
 Who was the Divine Physician?
 
-He was an unknown figure whom the imperial court had failed to find even after spreading a proclamation throughout the world in the emperor’s name.
+He was a mysterious figure whom the imperial court had failed to find even after issuing proclamations throughout the realm in the emperor’s name.
 
 People like that generally preferred to avoid notice.
 
@@ -327,8 +327,8 @@ No. She looked more like the survivor of a routed army.
 
 “Th-This humble nun’s Dharma name is Myoryeong… Cough.”
 
-Drops of blood trickled down her chin.
+Drops of blood trickled from her chin.
 
 An internal injury.
 
-I caught her as she staggered. Looking into the eyes of Venerable Myoryeong, which seemed ready to fade away at any moment, I asked forcefully,
+I caught her as she staggered. Staring into Venerable Myoryeong’s eyes, which seemed ready to fade at any moment, I asked urgently, “What on earth… happened?”
