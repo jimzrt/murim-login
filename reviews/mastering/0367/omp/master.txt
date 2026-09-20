@@ -8,7 +8,7 @@ Rumble-rumble-rumble!
 
 The ground split apart, and the ceiling shook. The underground prison that had symbolized the darkness of the Sichuan Tang Clan for hundreds of years could no longer withstand the aftermath of one battle after another. It was collapsing.
 
-Along with the countless vengeful spirits of prisoners who had died in the prison—and the three people who were still alive and well.
+Taking with it the vengeful spirits of the countless prisoners who had died there—and the three people who were, for the moment, still alive.
 
 “…What the fucking hell is this?”
 
@@ -26,7 +26,7 @@ But…
 
 It was the kind of situation that made profanity spill out on its own.
 
-Where was this place? Who was I? Why was the ground splitting apart, and why were boulders the size of people raining down from overhead?
+Where was he? Who was he? Why was the ground splitting apart, and why were man-sized boulders raining down on his head?
 
 Overcome by a sudden wave of profound regret, Jeok Cheongang nearly ascended to immortality on the spot.
 
@@ -44,11 +44,11 @@ Jeok Cheongang slung the unconscious Jin Taekyung and the Divine Physician over 
 
 Sssshhhk! Boom!
 
-A massive rock that fell from the ceiling grazed Jeok Cheongang by a hair and smashed into the ground. But that was only the beginning.
+A massive rock fell from the ceiling, missing him by a hair before smashing into the ground. But that was only the beginning.
 
 Boom! Boom! Rumble!
 
-With every step he took, bizarre rocks came pouring down like a rain shower. The spectacle made Jeok Cheongang’s flesh crawl.
+Every step brought another shower of jagged boulders crashing down around him, making his blood run cold.
 
 *One wrong move, and I could end up buried here.*
 
@@ -58,7 +58,7 @@ If a cliff weighing tens of millions of geun[^1] came crashing down on their hea
 
 Especially with the lingering aftereffects of his injuries.
 
-“Cough.”
+“Ghk.”
 
 He staggered as he raced across the fractured ground. Swallowing the blood rising in his throat, Jeok Cheongang smiled bitterly.
 
@@ -74,7 +74,7 @@ The vibrations suddenly grew even stronger. Jeok Cheongang gritted his teeth.
 
 *All right, I get it. Stop rushing me. I’ll find a way out.*
 
-There was someone he had to save. His one and only Disciple, who had become light and warmth when Jeok Cheongang wandered through cold, dark memories.
+There was someone he had to save. His one and only Disciple, who had become a source of light and warmth while he wandered through cold, dark memories.
 
 *Yes. My one and only Disciple. My Disciple, without a doubt.*
 
@@ -96,7 +96,7 @@ Jeok Cheongang’s eyes flashed as he raced forward with his movement technique.
 
 Every enclosed space had an entrance.
 
-At the place where he felt a faint breeze blowing from somewhere, Jeok Cheongang saw the entrance to the underground prison—barely wide enough for one person to pass through.
+He felt a faint breeze coming from somewhere, and when he looked toward it, he saw the entrance to the underground prison—barely wide enough for a single person to pass through.
 
 *Hurry. Hurry…!*
 
@@ -104,7 +104,7 @@ Jeok Cheongang hurled himself forward with every ounce of strength he had.
 
 He bounded across the heaving ground and dodged the rocks falling from overhead.
 
-He passed the corpse of the Heavenly Power Demon, the old man lying dead as though asleep with a peaceful smile on his face, and shot farther and faster.
+He raced past the Heavenly Power Demon’s corpse, the old man lying dead with a peaceful smile as if merely asleep, and pushed himself faster still.
 
 The time was brief, yet felt like an eternity. At last, Jeok Cheongang was about to take his final step toward the prison entrance.
 
@@ -126,7 +126,7 @@ An azure dragon’s roar shook the underground prison as Jeok Cheongang drove hi
 
 KWAAAANG!
 
-The superheated energy contained in the Flame-Extinguishing Divine Fist smashed and melted the rocks.
+The tremendous heat of the Flame-Extinguishing Divine Fist shattered and melted the rocks.
 
 A roar like the sky splitting apart thundered through the cavern, followed by a sudden blast of scorching wind that swept across the underground prison.
 
@@ -146,7 +146,7 @@ The sight was staggering even from more than a hundred zhang away, but there was
 
 The underground prison!
 
-The middle-aged black-clad man, the deputy captain of Dark Heaven, felt a chill run down his spine at his subordinate’s words.
+A chill ran down the spine of Dark Heaven’s deputy captain.
 
 The Western Heaven Demon Lord. If anything had happened to him…
 
@@ -160,17 +160,17 @@ He barked an urgent order.
 
 “E-Everyone? But there are still Tang Clan bastards—”
 
-“Those bastards aren’t the problem. Hurry!”
+“They’re not the problem. Hurry!”
 
 “Y-Yes, sir!”
 
-The subordinate, frozen stiff, pulled a firework from inside his clothes and lit it. With a pop, a red streak of light burst in the air.
+The terrified subordinate pulled a signal flare from inside his clothes and triggered it. With a pop, a streak of red light burst across the sky.
 
 At the emergency signal, the black-clad men scattered throughout the Sichuan Tang Clan began converging on the area.
 
 Within moments, well over a hundred had assembled.
 
-“Deputy Captain. Please give us your orders.”
+“Deputy Captain. Give us your orders.”
 
 The deputy captain wanted to smash in the skull of the man who had just spoken. The same went for their captain, First Fiend, who had yet to show so much as a hair despite the emergency signal.
 
@@ -184,7 +184,7 @@ But there was no other choice. He had to give the order.
 
 “The Demon Lord is in there. As deputy captain, I will lead the way, and every last one of you will—”
 
-Just as the deputy captain struggled to continue his command—
+Just as he struggled to finish—
 
 KABOOM!
 
@@ -198,19 +198,19 @@ The shout cut off unfinished.
 
 Crash! Thud-thud-thud!
 
-The figure bounced a considerable distance from the cliff like a cannonball before rolling across muddy water and sludge and finally coming to a stop.
+The figure hurtled away from the cliff like a cannonball, bounced several times, then rolled across the mud and filthy rainwater before finally coming to a stop.
 
 It was an old man, clutching two people larger than himself beneath his arms. Jeok Cheongang stared up at the dark, cloud-filled sky and released the breath he had been holding.
 
 “Phaaah!”
 
-Fresh air and rainwater seeped in through his nose and mouth.
+Fresh air and rainwater filled his nose and mouth.
 
-The refreshing sensation felt as if it were washing even his soul clean. His internal energy was already exhausted, and his body felt as though it had been smashed to pieces, but Jeok Cheongang smiled with relief at having rescued Jin Taekyung.
+The sensation was so refreshing it seemed to wash his very soul clean. His internal energy was exhausted, and his body felt ready to fall apart, but Jeok Cheongang smiled in relief.
 
 He had saved Jin Taekyung.
 
-Then, in the next instant, he staggeringly raised his upper body—and froze.
+Then he staggered upright—and froze.
 
 “…!”
 
@@ -232,7 +232,7 @@ He had been through every manner of hardship and had just escaped being crushed 
 
 “I see. Dark Heaven. I knew it had to be those sons of bitches.”
 
-After muttering a curse, Jeok Cheongang continued without turning around.
+Jeok Cheongang continued without looking back.
 
 “Do you know where we are?”
 
@@ -252,7 +252,7 @@ He did not have enough time to wonder how any of this had happened.
 
 “I am not a martial artist, so naturally I have none.”
 
-“Your dantian was damaged. You’re not a martial artist?”
+“Your dantian was destroyed, yet you claim you aren’t a martial artist?”
 
 “I only learned a little because my Master would not stop pestering me. Medicine was always where my heart lay.”
 
@@ -284,7 +284,7 @@ Perhaps then they could have one final conversation.
 
 But Jin Taekyung had exhausted every last ounce of strength. He would not awaken. Jeok Cheongang knew that even without the Divine Physician telling him.
 
-*Yes. Perhaps… perhaps this is for the best.*
+*Yes. Perhaps… this is better.*
 
 Jeok Cheongang slowly rose to his feet. Ignoring the pain stabbing through his entire body, he addressed the Divine Physician behind him.
 
@@ -310,15 +310,15 @@ After a brief silence, the Divine Physician spoke.
 
 A faint smile touched the corner of Jeok Cheongang’s mouth. His gaze settled on the approaching men in black.
 
-“Do you know why a flame dies out?”
+“Do you know why a flame dies?”
 
-Jeok Cheongang did not wait for the Divine Physician’s answer.
+Jeok Cheongang did not wait for an answer.
 
 Muddy water splashed beneath his advancing feet. At some point, the rain that had seemed as if it would never end had stopped.
 
 His voice rang out, clear and unburdened.
 
-“Because there is nothing left to burn. That is why it slowly dies out atop the ashes.”
+“Because it has nothing left to burn. So it slowly dies among the ashes.”
 
 Jeok Cheongang was ready to kindle his final flame.
 
@@ -344,13 +344,13 @@ The Divine Physician looked at Jeok Cheongang and continued quietly.
 
 “…!”
 
-At that moment, Jeok Cheongang felt as if every hair on his body had stood on end, and he raised his head.
+Every hair on Jeok Cheongang’s body stood on end. His head snapped up.
 
 High above, bathed in sunlight streaming between the retreating dark clouds, stood a boy.
 
 *No. Not a boy. That man is…!*
 
-Those eyes were clear and bright like a boy’s, yet the gaze itself was ancient and seasoned, betraying no emotion whatsoever.
+His eyes were clear and bright like a boy’s, yet ancient and seasoned, devoid of the slightest emotion.
 
 Jeok Cheongang had seen those eyes only once, a very long time ago.
 
