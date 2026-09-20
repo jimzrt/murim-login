@@ -1727,3 +1727,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중원상회 | **Central Plains Commerce** | Trading company that seeks Taekyung and bribes Hyuk Mujin. |
 | 보이차 | **pu'er tea** | Tea served during the visitors' meetings. |
 | 미미보 | **Mimi Step** | Snake-inspired footwork technique created by Cheongpung. |
+| 황보악 | **Hwangbo Ak** | Lesser Family Head of the Hwangbo Family and member of the Ten Dragons and Phoenixes. |
+| 황보세가 | **Hwangbo Family** | Hwangbo Ak's established martial family and the long-standing hegemon of Shandong. |
+| 산동권룡 | **Shandong Fist Dragon** | Hwangbo Ak's sobriquet among the Ten Dragons and Phoenixes. |

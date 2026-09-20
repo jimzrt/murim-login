@@ -855,3 +855,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 천면호리 | 매종학 | intelligence_chief_to_alliance_leader | Alliance Leader | formal and deferential | Requests that Mae move elsewhere with the others before he reports further. |
 | 벽력도왕 | 매종학 | Ten Kings peer to Ten Kings peer | Sword Saint | familiar and blunt | Asks Mae what was discussed in the sealed meeting. |
 | 매종학 | 벽력도왕 | Ten Kings peer to Ten Kings peer | Peng | casual and admonitory | Calls him 팽가야 and tells him to remain quiet. |
+| 백우 | 황보악 | longtime_friends_and_fellow_Ten_Dragons_and_Phoenixes_members | Fellow Daoist Hwangbo | formal-polite and concerned | Baek repeatedly warns Hwangbo not to provoke Taekyung. |
+| 황보악 | 백우 | longtime_friends_and_fellow_Ten_Dragons_and_Phoenixes_members | you | familiar and argumentative | Hwangbo challenges Baek's submission to Taekyung's reputation. |
+| 주화란 | 황보악 | Young_Bureau_Head_to_Ten_Dragons_and_Phoenixes_member | Young Hero Hwangbo | formal-polite | Hwaran politely asks whether something is wrong. |
+| 황보악 | 주화란 | admirer_to_Young_Bureau_Head | Young Lady Ju | formal-polite and deferential | Hwangbo addresses Hwaran while concealing his irritation. |

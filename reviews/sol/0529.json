@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But the light of expectation soon faded from Ju Hwaran’s eyes as she sprang to her feet.",
+      "defect": "The draft makes her expectation fade as she rises, but the source says expectation causes her to spring up and disappointment enters her eyes afterward.",
+      "id": "F01",
+      "rationale": "The source explicitly preserves the sequence and causality: hopeful expectation prompts the movement, followed by disappointment.",
+      "replacement": "Ju Hwaran sprang to her feet in hopeful anticipation, but disappointment quickly filled her eyes.",
+      "severity": "major",
+      "source": "하지만 혹시나 하는 기대감으로 벌떡 일어난 주화란의 눈동자에는 금세 실망의 빛이 깃들었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "—Then does he think she’s waiting for the Successor Beggar?",
+      "defect": "The draft introduces an unsupported male subject and turns Baek Woo’s direct rhetorical question into a question about what an unidentified man thinks.",
+      "id": "F02",
+      "rationale": "Baek Woo is asking Hwangbo Ak whether Ju Hwaran could instead be waiting for the Successor Beggar.",
+      "replacement": "—Then do you think she’s waiting for the Successor Beggar?",
+      "severity": "critical",
+      "source": "- 그럼 설마 후개를 기다리겠나?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "In fact, since you brought it up, I realized it the moment I saw that friend of mine, the Heaven Shaking Sword.",
+      "defect": "“That friend of mine” invents a personal friendship between Baek Woo and Jin Mukyung; 그 친구 is a colloquial reference to that fellow, not a relationship claim.",
+      "id": "F03",
+      "rationale": "The source says Baek Woo recognized the Jin Family’s potential when he saw Jin Mukyung, without identifying Jin Mukyung as his friend.",
+      "replacement": "In fact, now that we’re talking about it, I knew it long ago, from the moment I saw that fellow, the Heaven Shaking Sword.",
+      "severity": "minor",
+      "source": "사실 말이 나왔으니 말인데, 빈도는 일찍이 진천검 그 친구를 봤을 때 진즉 알아차렸지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "If Ju Hwaran had not been sighing repeatedly across the table—and if some young escort who looked like he had rolled in from who-knew-where had not been watching him—he would have already scowled.",
+      "defect": "The draft makes Hwaran’s sighing itself the first restraint on Hwangbo Ak. In the source, both the sighing Hwaran and the young escort are looking at him, and their scrutiny keeps him from scowling.",
+      "id": "F04",
+      "rationale": "주화란 and 젊은 표사 jointly govern 그를 바라보고 있지 않았다면; the fact that both are watching him is materially omitted.",
+      "replacement": "If Ju Hwaran, who kept sighing across the table, and that young escort who looked like he had crawled in from who knew where had not been watching him, he would have scowled long ago.",
+      "severity": "major",
+      "source": "탁자 너머에서 연신 한숨을 내쉬고 있는 주화란, 그리고 어디서 굴러먹다 온 개뼉다구인지 모를 젊은 표사가 그를 바라보고 있지 않았다면 진즉 인상을 구겼을 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And now, after that bastard’s older brother, even his younger brother was blocking Hwangbo Ak’s path.",
+      "defect": "The possessives attach both kinship terms to an ambiguously identified bastard and can make the sentence mean that Jin Mukyung’s brothers are obstructing Hwangbo Ak. The source contrasts Jin Mukyung as the older brother with Jin Taekyung as the younger brother.",
+      "id": "F05",
+      "rationale": "형 and 아우 identify the two Jin brothers relative to each other; preserving that contrast is necessary to avoid changing their kinship.",
+      "replacement": "And now, after the older brother, the younger brother was blocking Hwangbo Ak’s path too.",
+      "severity": "critical",
+      "source": "그런데 이제는 그 형이라는 놈에 이어 아우까지 그의 앞길을 막는다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "—I’m saying this again because I’m worried about you: don’t say that you gave the credit to him in front of the Blazing Flame Divine Dragon. I don’t want to be paired with you as a battle partner and have my face beaten in.",
+      "defect": "The draft makes Hwangbo Ak the person who gave Jin Taekyung the credit. Baek Woo is warning him not to repeat his allegation that the Fire King did the work and handed the credit to his Disciple.",
+      "id": "F06",
+      "rationale": "그 공을 돌렸다는 말 refers back to Hwangbo Ak’s accusation about Jeok Cheongang transferring credit to Jin Taekyung, not to any action by Hwangbo Ak.",
+      "replacement": "—I’m saying this again because I’m worried about you: don’t tell the Blazing Flame Divine Dragon that his master handed him the credit. I don’t want to be paired with you as a battle partner and have my face beaten in.",
+      "severity": "critical",
+      "source": "- 그, 걱정돼서 다시 하는 말인데, 그 공을 돌렸다는 말은 열화신룡 앞에서 하지 말게. 자네와 전우조로 묶여서 죽탱이 돌아가긴 싫으니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“This is what you get with people who have no roots……”",
+      "defect": "“People who have no roots” is an unnatural literal rendering that obscures Hwangbo Ak’s contempt for people without pedigree or respectable lineage.",
+      "id": "F07",
+      "rationale": "In the context of Hwangbo Ak’s pride in his great family, 근본 없는 것들 is a class- and pedigree-based insult; that hierarchy is what provokes Hwaran’s cold response.",
+      "replacement": "“This is the problem with lowborn rabble……”",
+      "severity": "major",
+      "source": "하여간, 이래서 근본 없는 것들이란……."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I was talking about those demonic, heterodox bastards over there.”",
+      "defect": "The draft uses “demonic, heterodox” as loose personal adjectives rather than preserving the established martial-path term “demonic, heterodox arts.”",
+      "id": "F08",
+      "rationale": "사마외도 identifies the people by their supposed martial tradition, while 종자들 supplies the insulting reference to the people themselves.",
+      "replacement": "“I was talking about those bastards who practice demonic, heterodox arts over there.”",
+      "severity": "minor",
+      "source": "저 사마외도(邪魔外道) 종자들에게 한 말이지요."
+    }
+  ],
+  "summary": "Several actionable fidelity defects alter an emotional sequence, subjects, witnesses, kinship, and the attribution of credit; localized wording also weakens Hwangbo Ak’s class-based contempt.",
+  "version": 1
+}

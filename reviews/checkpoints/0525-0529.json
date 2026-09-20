@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Why do you say ‘I hear he’s come to visit’ instead of just ‘he came to visit’?”",
+      "defect": "Taekyung purports to quote Hyuk Mujin’s wording, but Hyuk Mujin actually said, “I hear there’s a visitor downstairs.” The mismatched quotation blurs the joke about his conspicuously indirect phrasing.",
+      "id": "C01",
+      "rationale": "Echoing the preceding line exactly makes Taekyung’s objection and the setup for Cheongpung’s secondhand message immediately clear.",
+      "replacement": "“Why do you say ‘I hear there’s a visitor downstairs’ instead of just ‘there’s a visitor downstairs’?”",
+      "severity": "minor",
+      "source": "Chapter 527, Hyuk Mujin announcing the first visitor"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*No, seriously—why is hyung there?*",
+      "defect": "The unexplained Korean address “hyung” breaks the English-only reading copy and reads as a residual Korean meme calque rather than Taekyung’s otherwise natural contemporary narration.",
+      "id": "C02",
+      "rationale": "The replacement preserves Taekyung’s incredulous comic reaction without introducing an unglossed Korean kinship term or changing the event.",
+      "replacement": "*No, seriously—what was he doing there?*",
+      "severity": "minor",
+      "source": "Chapter 527, Taekyung reacting to the Kongtong Sect Leader"
+    }
+  ],
+  "summary": "Continuity, terminology, hooks, and state remain coherent across Chapters 525–529. Two minor dialogue-level issues disrupt the otherwise consistent contemporary English voice.",
+  "version": 1
+}
