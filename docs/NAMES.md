@@ -1710,3 +1710,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 저승사자 | **Grim Reaper** | Mungyeong's threatening self-description during the banter. |
 | 저그 | **Zerg** | Taekyung's monster-comparison joke. |
 | 나이아가라 폭포 | **Niagara Falls** | The waterfall used in Taekyung's vomiting joke. |
+| 구운몽 | **The Dream of the Nine Clouds** | Classic Korean novel referenced in Hyuk Mujin's dream joke. |
+| 무적자 | **The Invincible** | Taekyung's desired status as an untouchable protector. |
+| 문특진맞단 | **Mungyeong Special Jin Custom Pill** | Taekyung's nickname for Mungyeong's custom pill. |
