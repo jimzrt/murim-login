@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "And these days, Henan was boiling like a cauldron over a charcoal fire.",
+      "defect": "The established location term 하남성 is Henan Province, not merely Henan.",
+      "id": "F01",
+      "rationale": "The glossary explicitly maps 하남성 to Henan Province.",
+      "replacement": "And these days, Henan Province was boiling like a cauldron over a charcoal fire.",
+      "severity": "minor",
+      "source": "하물며 지금의 하남성은 숯불 위의 가마솥처럼 들끓고 있는 형국."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even that stray dog in the back alley probably knows.",
+      "defect": "The draft invents that the dog is a stray while omitting the source’s identifying yellow color.",
+      "id": "F02",
+      "rationale": "황구 means a yellow dog; the source says nothing about it being a stray.",
+      "replacement": "Even that yellow dog in the back alley probably knows.",
+      "severity": "minor",
+      "source": "저기 뒷골목 황구도 알고 있을걸."
+    },
+    {
+      "confidence": 0.98,
+      "current": "But the madman who brought our Master over didn’t even give him a chance to stop him. He just said, ‘Their masters are the Fire King and the Sword Saint.’",
+      "defect": "The draft makes their Master the person denied a chance to intervene. The source instead says the madman blurted out the remark before the others could stop him.",
+      "id": "F03",
+      "rationale": "말릴 틈도 없이 describes the speaker’s group having no time to restrain the madman, not the madman preventing their Master from acting.",
+      "replacement": "But before anyone could stop him, the madman who’d called our Master over blurted out, ‘Their masters are the Fire King and the Sword Saint.’",
+      "severity": "critical",
+      "source": "그런데 앞에 스승님을 불러온 그 미친놈이 말릴 틈도 없이 딱 그러더군. 걔들 스승님은 화왕에 검성이잖아요."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I. Jin Taekyung, Pavilion Master of the Two Dragons Pavilion, took the side of one party despite a dispute taking place directly before him. He is therefore ordered to fast for a limited period.",
+      "defect": "The disciplinary wording omits that Taekyung improperly sided only with one party, weakening the stated basis for punishment.",
+      "id": "F04",
+      "rationale": "사사로이 and 편만을 jointly characterize his intervention as improper partiality, not merely the neutral act of taking a side.",
+      "replacement": "I. Jin Taekyung, Pavilion Master of the Two Dragons Pavilion, improperly sided with only one party despite witnessing the dispute firsthand. He is therefore ordered to fast for a limited period.",
+      "severity": "major",
+      "source": "一. 이룡각주 진태경은 눈앞에서 다툼이 벌어지고 있음에도 사사로이 한쪽의 편만을 들었으므로, 한정된 기간 금식(禁食)을 명한다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The rumor that Jin Taekyung had emptied ten bowls of gukbap[^1] and patted his stomach from the very seat where he had been disciplined the next day only made matters worse.",
+      "defect": "The draft invents a specific seat where Taekyung was disciplined. 앉은 자리에서 means he ate all ten bowls in one sitting.",
+      "id": "F05",
+      "rationale": "앉은 자리에서 describes completing the feat without leaving his seat; it does not refer back to the location of the disciplinary decision.",
+      "replacement": "The next day, rumors spread that Jin Taekyung had polished off ten bowls of gukbap[^1] in one sitting and patted his stomach, which only made matters worse.",
+      "severity": "critical",
+      "source": "다음 날 진태경이 앉은 자리에서 국밥 열 그릇을 비우고 배를 두드렸다는 소문이 퍼지자 더욱 그럴 수밖에 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "There are other things written there too, but… Well, the whole thing is strange.",
+      "defect": "The draft changes nearby people into additional written content, erasing the speaker’s embarrassed reluctance to explain himself in front of others.",
+      "id": "F06",
+      "rationale": "다른 사람도 있는데 refers to other people being present, not other material on the notice.",
+      "replacement": "Well, there are other people around, so… Ah, never mind. The whole thing is strange.",
+      "severity": "major",
+      "source": "그게, 그러니까. 아, 아닐세. 차라리 직접 가서 보고 듣게."
+    },
+    {
+      "confidence": 1.0,
+      "current": "That was the exact moment the hundreds of people who had read the notice began shouting and cheering.",
+      "defect": "The draft turns the crowd’s mixed cheers and lamentations into uniformly positive cheering, losing the response of those disqualified by the Peak requirement.",
+      "id": "F07",
+      "rationale": "환호와 탄식 explicitly pairs cheers with lamentations, matching the preceding triumphant and disappointed exclamations.",
+      "replacement": "At that exact moment, the hundreds of people who had read the notice let out their own cheers and groans.",
+      "severity": "major",
+      "source": "방의 내용을 확인한 수백여 명의 좌중들이 저마다 환호와 탄식을 내뱉던 바로 그 순간이었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Isn’t that the band from Honghakru?”",
+      "defect": "Honghakru is an unlisted romanized establishment name introduced without the required first-use explanation.",
+      "id": "F08",
+      "rationale": "The terminology rules require an established rendering or a concise first-use footnote for an unlisted romanized proper name.",
+      "replacement": "“Isn’t that the band from Honghakru?[^2]”\n\n[^2]: Honghakru, literally “Red Crane Pavilion,” is a renowned entertainment house in Henan.",
+      "severity": "minor",
+      "source": "“홍학루의 악단(樂團) 같은데?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Hongmae? It’s Hongmae!”",
+      "defect": "Hongmae is an unlisted romanized name introduced without a first-use explanation.",
+      "id": "F09",
+      "rationale": "The terminology rules require an established rendering or a concise first-use footnote for an unlisted romanized name.",
+      "replacement": "“Hongmae? It’s Hongmae![^3]”\n\n[^3]: Hongmae literally means “Red Plum.”",
+      "severity": "minor",
+      "source": "“홍매? 홍매다!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“More? They’re insane. Completely insane. There are so many that I’m starting to suspect Dark Heaven may have sent in applications too.”",
+      "defect": "The draft calls the applicants insane, while Hyuk Mujin is describing the overwhelming number of applications as crazy.",
+      "id": "F10",
+      "rationale": "미쳤습니다 is an exclamation about the situation and scale established by the following sentence, not a judgment that the applicants themselves are insane.",
+      "replacement": "“More? It’s insane. Completely insane. There are so many that I’m starting to suspect Dark Heaven may have sent in applications too.”",
+      "severity": "major",
+      "source": "“미쳤습니다. 미쳤다고요. 암천 쪽에서도 지원서를 보낸 게 아닐까 의심이 될 정돕니다.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Because of this fucking song, this old man almost suffered qi deviation.”",
+      "defect": "“Fucking” intensifies 빌어먹을 beyond its ordinary force in this complaint.",
+      "id": "F11",
+      "rationale": "빌어먹을 is naturally “damn” or “damned” here; the stronger profanity adds aggression absent from the source.",
+      "replacement": "“Because of this damn song, this old man almost suffered qi deviation.”",
+      "severity": "minor",
+      "source": "“이 빌어먹을 노래 때문에, 노부가 주화입마에 빠질 뻔했다.”"
+    }
+  ],
+  "summary": "Several fidelity defects alter physical details, official reasoning, speaker intent, crowd reactions, and the object of Hyuk Mujin’s criticism; two unlisted proper names also need first-use notes.",
+  "version": 1
+}
