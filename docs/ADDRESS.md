@@ -849,3 +849,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 창천검왕 | 적천강 | long-standing martial rival and duel partner | Fire King | formal and familiar | Addresses Jeok Cheongang by title while welcoming the promised duel. |
 | 창천검왕 | 벽력도왕 | Ten Kings peers | Sir Peng | formal but familiar | Tells Peng to calm himself after Peng's argument with Taekyung. |
 | 벽력도왕 | 창천검왕 | Ten Kings peers | Great Hero Nangong | respectful and familiar | Addresses Nangong Cheon while crediting him with preventing a catastrophe. |
+| 매종학 | 적천강 | long-standing martial rival and friend | Great Hero Jeok | casual and familiar | Mae addresses Jeok as 적 대협 while discussing the Alliance Leader position. |
+| 적천강 | 매종학 | long-standing martial rival and friend | you | blunt and familiar | Jeok addresses Mae as 당신 while recalling their meeting at Mount Jiuhua. |
+| 벽력도왕 | 진태경 | elder martial master to younger rival | you | boisterous and confrontational | Peng addresses Taekyung as 네놈 while discussing Peng Dojin. |

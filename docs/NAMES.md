@@ -1698,3 +1698,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 세종기지 | **King Sejong Station** | Korean Antarctic research station used in Taekyung's comparison. |
 | 바티칸 교황청 | **Vatican** | Institution referenced in Taekyung's joke to Unnamed. |
 | 내성 | **Inner City** | Fortified inner district of the Murim Alliance. |
+| 팽도진 | **Peng Dojin** | Peng Cheolhu's eldest grandson and Taekyung's opponent at the Star-Array Grand Banquet. |
+| 소평 | **So Pyeong** | Alliance office worker assigned to prepare a report. |
+| 장일팔 | **Jang Il-pal** | Alliance office worker assigned to prepare a report. |
+| 테스 | **Tess** | Figure invoked through Taekyung's quotation of “Know thyself.” |
+| 맹주부 | **Alliance Leader's Office** | Office directly serving the Alliance Leader. |
+| 은잠술 | **concealment technique** | Technique used by Hidden Shadow Pavilion agents to hide their presence. |
+| 식경 | **half an hour** | Time limit given for the requested reports. |
