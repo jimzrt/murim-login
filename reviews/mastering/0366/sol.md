@@ -36,13 +36,13 @@ At his superior’s frown, the subordinate hurriedly continued.
 
 “……You don’t mean the Heaven-Shaking Thunder from the Pyeokryeomun, do you?”
 
-“It seems so. Because some of them charged in carrying Heaven-Shaking Thunder and died in the explosions, quite a few of our brothers suffered serious losses.”
+“It seems so. Some of them charged in carrying Heaven-Shaking Thunder and blew themselves up. Quite a few of our brothers were caught in the blasts.”
 
 “Ha. Would you look at these lunatics?”
 
 The black-clad man’s mouth fell open. He had wondered what was happening when those ominous booms began echoing through the grounds, but he had never expected the Tang Clan to possess Heaven-Shaking Thunder from the long-destroyed Pyeokryeomun.
 
-He could now understand, to some extent, why the battle had been delayed.
+Now he could understand why the battle had dragged on.
 
 “Wait. Then what has the Demon Lord been doing? He should have been more than capable of slaughtering them all himself.”
 
@@ -54,7 +54,7 @@ The black-clad man had only ever heard of Heaven-Shaking Thunder and had no idea
 
 “I heard he went to the Tang Clan’s underground prison a shichen ago.”
 
-The subordinate’s answer made the black-clad man nod.
+The black-clad man nodded.
 
 If the Demon Lord had gone there personally, he must have had a reason, and he would resolve the matter without the slightest mistake. The black-clad man felt not a trace of worry or doubt.
 
@@ -66,7 +66,7 @@ First Captain was the position First Fiend, the eldest of the Qilian Three Fiend
 
 After a brief hesitation, the subordinate answered.
 
-“He’s engaged in a life-and-death duel with the Sword Saint’s successor in the Inner Hall. No one has been able to approach him since one of our brothers who went to deliver news about the Heaven-Shaking Thunder lost his head.”
+“He’s fighting a life-and-death duel with the Sword Saint’s successor in the Inner Hall. No one has dared approach since he took the head of the brother who went to inform him about the Heaven-Shaking Thunder.”
 
 “……I see.”
 
@@ -96,7 +96,7 @@ The black-clad man handed him a small tube. The subordinate checked its contents
 
 “That’s true. But you know what the other captains are like.”
 
-The three brothers of the Qilian Three Fiends resembled one another in more than their ugly appearances.
+The three Qilian brothers resembled one another in more than their ugly faces.
 
 All three were cruel and eccentric fiends who lost their minds at the sight of blood.
 
@@ -148,7 +148,7 @@ They felt as though they had been clubbed across the backs of their heads.
 
 Their superior was a Peak master capable of making a name for himself anywhere under heaven. Yet a man of such skill had been killed by a strike none of them had even seen.
 
-Before anyone present could recover from that tremendous shock, a figure sprang up onto the wall.
+Before anyone could recover from the shock, a figure soared above the wall.
 
 And then—
 
@@ -162,7 +162,7 @@ First Fiend was on the verge of going insane.
 
 No—he had already been insane for more than fifty years. Now he was becoming an even greater lunatic.
 
-“Why! Why! How could this be!”
+“Why? Why? How!”
 
 Boom! Boom! Boom!
 
@@ -182,7 +182,7 @@ It was enough to drive him mad.
 
 His opponent was a mere pup not yet thirty. He might have been an unprecedented monster who had received the Sword Saint’s teachings and reached the Supreme Peak realm in his twenties, but even that could not erase the gulf created by age and experience.
 
-First Fiend was an old monster from two generations back. He possessed immense internal energy, experience, and martial arts of the highest realm.
+First Fiend was an old monster from two generations past. He possessed immense internal energy, decades of experience, and martial arts of the highest order.
 
 That was why, although he had been surprised at first, he had felt no real sense of danger.
 
@@ -232,7 +232,7 @@ Cheongpung’s reply was short and simple.
 
 “……What?”
 
-“Oh, is that why you’re upset?”
+“Oh, are you talking about what I just did?”
 
 Cheongpung tilted his head.
 
@@ -332,11 +332,11 @@ Splash.
 
 Cheongpung stepped into a crimson puddle of rainwater and blood. First Fiend let out a piercing scream.
 
-“Anyone! Is there no one out there? Hurry, get this bastard…!”
+“Anyone! Is there no one out there? Hurry and kill this bastard…!”
 
 At that moment, a low voice slipped into his ear.
 
-“Don’t call out. There’s no one here.”
+“Don’t call for them. There’s no one left.”
 
 “……!”
 
@@ -354,7 +354,7 @@ Slash!
 
 First Fiend’s head flew into the air.
 
-Cheongpung flicked the blood from his sword, then stared with a rigid expression at *him*, standing tall before him.
+Cheongpung flicked the blood from his sword, then stared rigidly at the man standing before him.
 
 “I’d like to ask you the same thing. Who are you?”
 
