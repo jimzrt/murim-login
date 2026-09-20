@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Now die…”",
+      "defect": "The interrupted request is reversed into an order for Jin Taekyung to die. Go Se-won is beginning to ask Jin to kill him, continuing their agreement.",
+      "id": "F01",
+      "rationale": "The preceding condition was that Jin kill Go Se-won after receiving the location of Area A. The omitted continuation after 죽 is therefore 죽여 달라, not a command for Jin to die.",
+      "replacement": "“Now… kill me…”",
+      "severity": "critical",
+      "source": "“이제 죽…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*He’s coming.*\n\n*He’s here.*",
+      "defect": "The second sentence adds that Jin has already arrived, while the source only emphasizes that he is coming.",
+      "id": "F02",
+      "rationale": "The inverted Korean phrasing intensifies the single realization that Jin is approaching; his actual arrival follows afterward.",
+      "replacement": "*He’s coming.*",
+      "severity": "minor",
+      "source": "‘온다, 그가.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "At Lee Jungryong’s state funeral, there had been a new Head of Security standing beside Go Jun like a shadow.",
+      "defect": "The binding glossary requires 국가장 to be rendered as “national funeral,” not “state funeral.”",
+      "id": "F03",
+      "rationale": "This is an exact established terminology match in the supplied glossary.",
+      "replacement": "At Lee Jungryong’s national funeral, there had been a new Head of Security standing beside Go Jun like a shadow.",
+      "severity": "minor",
+      "source": "이정룡의 국가장이 치러지던 그때, 석고준의 곁을 그림자처럼 지키던 새로운 경호팀장."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Go Jun had been protected by a fence made from two words: the rule of law.",
+      "defect": "The source refers to the two syllables or characters of 법치, whereas the English phrase “the rule of law” is not two words.",
+      "id": "F04",
+      "rationale": "The replacement preserves the source’s explicit quantitative image without making a false claim about the English phrase.",
+      "replacement": "Go Jun had been protected by a fence built from the two-syllable Korean term for the rule of law.",
+      "severity": "minor",
+      "source": "당시의 석고준은 법치(法治)라는 두 글자로 만들어진 울타리 속에 있었으니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The target is moving alone! One hundred third floor! No—he’s entered the one hundred fourth!”",
+      "defect": "The floor numbers are rendered with ungrammatical English ordinals, and the first report lacks the verb needed in natural English.",
+      "id": "F05",
+      "rationale": "The replacement naturally conveys the rapidly updated floor report without changing the target’s movement.",
+      "replacement": "“The target is moving alone! He’s on the 103rd floor! No—he’s entered the 104th!”",
+      "severity": "minor",
+      "source": "“표적이 홀로 움직입니다! 103층! 아니, 104층으로 진입했습니다!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“One hundred nineteenth floor! The target has broken through the one hundred nineteenth floor!”",
+      "defect": "Both instances use malformed English ordinal phrasing.",
+      "id": "F06",
+      "rationale": "English floor numbers require the ordinal form “119th.”",
+      "replacement": "“The 119th floor! The target has broken through the 119th floor!”",
+      "severity": "minor",
+      "source": "“119층! 표적이 119층을 돌파했습니다!”"
+    }
+  ],
+  "summary": "One critical subject reversal, one added arrival beat, one binding terminology mismatch, one inaccurate rendering of the source’s two-syllable phrasing, and two malformed floor ordinals.",
+  "version": 1
+}
