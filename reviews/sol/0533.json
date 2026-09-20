@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "The man looked like a handsome, broad-featured fellow who couldn’t be much older than thirty, and a dark-colored saber scabbard hung from his waist.",
+      "defect": "The source places him at thirty at most, rather than merely not much older than thirty. 시원시원한 describes an open, strikingly handsome impression, not literally broad facial features.",
+      "id": "F01",
+      "rationale": "This preserves both the source’s upper age estimate and the intended favorable impression of his appearance.",
+      "replacement": "The man looked no more than thirty, with open, strikingly handsome features, and a blackish saber scabbard hung from his waist.",
+      "severity": "minor",
+      "source": "많이 쳐 줘야 이제 이립이나 되었을까 싶은 사내는 시원시원한 미남형이었고 허리춤에는 거무튀튀한 색을 띤 도갑이 매달려 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Your name is pretty cool, though. Are you related to Sima Yi?”\n\n“What?”\n\n“What do you mean, what? Sima Yi. The one from *Romance of the Three Kingdoms*.”",
+      "defect": "The joke depends on Sama Pyo and Sima Yi visibly sharing the surname 司馬 in Korean, but the binding English romanizations make the names look unrelated and leave the subsequent same-surname explanation apparently contradictory.",
+      "id": "F02",
+      "rationale": "A concise footnote preserves the established romanizations while restoring the linguistic basis of the joke.",
+      "replacement": "“Your name is pretty cool, though. Are you related to Sima Yi?[^1]”\n\n“What?”\n\n“What do you mean, what? Sima Yi. The one from *Romance of the Three Kingdoms*.”\n\n[^1]: “Sama” is the Korean reading and “Sima” the Mandarin reading of the same surname, 司馬.",
+      "severity": "minor",
+      "source": "“그나저나 이름 멋있네. 혹시 사마의랑 무슨 관계냐?”\n\n“뭐?”\n\n“뭐긴 뭐야, 사마의라고. 삼국지 나오는 그 사마의.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Yes, you do seem to be different.”",
+      "defect": "The added “you” makes Sama Pyo call Taishan different. In the source, he agrees with Taishan that Jin Taekyung is different.",
+      "id": "F03",
+      "rationale": "The subject remains Jin Taekyung from Taishan’s immediately preceding statement.",
+      "replacement": "“Yes, so it seems.”",
+      "severity": "critical",
+      "source": "“그래, 그런 듯싶구나.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was the last we saw of them.",
+      "defect": "The draft turns the end of this exchange into a claim that the characters were never seen again, introducing an unsupported future plot consequence.",
+      "id": "F04",
+      "rationale": "The source only closes the present exchange before the two men leave.",
+      "replacement": "That was it.",
+      "severity": "critical",
+      "source": "그것이 마지막이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Whew.”\n\nAfter letting out a quiet sigh, Song Ilseom also leaned his straightened back loosely against the chair.",
+      "defect": "The dangling modifier assigns the sigh to Song Ilseom. The source has Ju Hwaran sigh, after which Song Ilseom relaxes against his chair.",
+      "id": "F05",
+      "rationale": "This restores the correct subject and sequence of the two characters’ reactions.",
+      "replacement": "“Whew.”\n\nShe let out a quiet sigh. Then Song Ilseom relaxed as well, leaning back against his chair.",
+      "severity": "critical",
+      "source": "“후우.”\n\n나지막한 한숨. 이어 송일섬 역시 바로 세웠던 허리를 등받이에 느슨하게 기댔다."
+    }
+  ],
+  "summary": "Three subject or continuity errors, one obscured surname joke, and one inaccurate physical description.",
+  "version": 1
+}

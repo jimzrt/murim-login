@@ -1736,3 +1736,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 고월루 | **Gowolru** | Three-story inn where the meeting was scheduled. |
 | 취팔선보 | **Drunken Eight-Immortals Step** | Gung Gibang's joking name for Hyuk Mujin's desperate rush to the inn. |
 | 학우 | **Hak Woo** | Kunlun Sect top young prodigy known as the Kunlun Cloud Dragon; Taekyung addresses him as Hak. |
+| 일기천룡 | **One-Ride Heavenly Dragon** | Sama Pyo's title for Murong Yeonghwi. |
+| 태산 | **Taishan** | Sama Pyo's giant subordinate. |

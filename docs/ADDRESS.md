@@ -866,3 +866,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혁무진 | 낯선 사내 | desperate_stranger_to_unknown_helper | Brother; Father; Benefactor | desperate and deferential | Hyuk cycles through respectful appeals while asking the stranger for help. |
 | 진태경 | 학우 | former_rival_to_Kunlun_young_prodigy | Hak | mocking and threatening | Taekyung uses Sound Transmission to intimidate Hak Woo into leaving. |
 | 학우 | 진태경 | Kunlun_young_prodigy_to_famous_senior | Fellow Daoist Jin | formal and defensive | Hak Woo addresses Taekyung as 진 도우 while denying that he is busy. |
+| 주화란 | 사마표 | former_fiancés | Young Sect Leader | formal and guarded | Hwaran formally greets her former fiancé. |
+| 사마표 | 태산 | Young Sect Leader to subordinate | Taishan | informal and patronizing | Sama Pyo calls Taishan by name while ordering him to leave. |
+| 태산 | 사마표 | subordinate to Young Sect Leader | Lord | crude and deferential | Taishan uses 주군 while obeying Sama Pyo. |
