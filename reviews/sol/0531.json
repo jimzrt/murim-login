@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Did you bother anyone else?”",
+      "defect": "“Bother” weakens a question about whether the giant physically attacked or laid hands on anyone else.",
+      "id": "F01",
+      "rationale": "Taekyung is specifically worried about the physical safety of Hwangbo Ak’s companions, as confirmed by his subsequent question about whether the giant fought them.",
+      "replacement": "“Did you lay a hand on anyone else?”",
+      "severity": "minor",
+      "source": "“혹시, 다른 사람도 건드렸나?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "But gently soothing him like a kindergartner was enough.",
+      "defect": "The draft omits the comic specificity of treating him like a kindergartner from the “Sunshine Class.”",
+      "id": "F02",
+      "rationale": "햇님 반 is an intentionally childish kindergarten class name that sharpens the contrast between the giant’s physique and behavior.",
+      "replacement": "But gently coaxing him like a kindergartner from the Sunshine Class was enough.",
+      "severity": "minor",
+      "source": "사마외도라길래 그냥 때려눕혀야 하나, 생각했는데 햇님 반 유치원생 대하듯이 살살 달래 주는 것으로도 충분했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "This was my first time meeting him, but Hwangbo Ak and the giant apparently knew each other.",
+      "defect": "The draft invents a prior acquaintance between Hwangbo Ak and the giant. The source contrasts Taekyung not knowing Hwangbo Ak with Hwangbo Ak apparently recognizing Taekyung.",
+      "id": "F03",
+      "rationale": "Hwangbo Ak has just addressed Taekyung by his sobriquet; nothing in the source says that Hwangbo Ak and the giant previously knew each other.",
+      "replacement": "He was a stranger to me, but apparently I wasn’t to him.",
+      "severity": "critical",
+      "source": "이쪽은 초면인데, 저쪽은 구면인 모양이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "We’re all members of the Murim Alliance.",
+      "defect": "The draft omits the claim that everyone in the Murim Alliance is “one family,” leaving Hwangbo Ak’s immediate objection about being one family without a clear antecedent.",
+      "id": "F04",
+      "rationale": "한 식구 explicitly supplies both Taekyung’s conciliatory claim and the wording that Hwangbo Ak challenges in the next line.",
+      "replacement": "We’re all one family in the Murim Alliance.",
+      "severity": "major",
+      "source": "다 같은 무림맹 한 식구인데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Materials, dust, and dirt scattered across the ground were blasted more than three zhang away, and the people nearby sucked in startled breaths.",
+      "defect": "The draft changes the stated result from debris being pushed outside a three-zhang radius to each item traveling more than three zhang.",
+      "id": "F05",
+      "rationale": "반경 삼 장 밖으로 describes the boundary beyond which the debris is driven, not the distance traveled by every object.",
+      "replacement": "Materials, dust, and dirt scattered across the ground were blasted beyond a three-zhang radius, and the people nearby sucked in startled breaths.",
+      "severity": "major",
+      "source": "땅바닥에 널브러져 있던 자재와 먼지, 흙 따위가 반경 삼 장 밖으로 밀려나고 사람들이 헛숨을 삼켰다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If I had left him alone, I would have stripped him down to his soul.",
+      "defect": "The draft makes Taekyung the hypothetical attacker. The source says Hwangbo Ak would have been utterly thrashed if Taekyung had allowed the fight to continue.",
+      "id": "F06",
+      "rationale": "털렸을 marks Hwangbo Ak as the recipient of the hypothetical beating; Taekyung’s role was preventing that outcome.",
+      "replacement": "If I’d let the fight continue, he would’ve had his soul beaten out of him.",
+      "severity": "critical",
+      "source": "계속 놔뒀으면 영혼까지 탈탈 털렸을 놈이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Don’t stretch your legs until you’ve checked where you’re lying down.”",
+      "defect": "The literal calque is opaque and unnatural in English, obscuring the warning to assess whom one is challenging.",
+      "id": "F07",
+      "rationale": "The Korean proverb warns someone to judge the situation and their own position before acting; Taekyung applies it specifically to Hwangbo Ak choosing dangerous opponents.",
+      "replacement": "“Know who you’re dealing with before you pick a fight.”",
+      "severity": "minor",
+      "source": "“누울 자리 보고 다리 뻗어.”"
+    }
+  ],
+  "summary": "Two critical subject/relationship errors, two major fidelity defects, and three localized omissions or wording issues.",
+  "version": 1
+}
