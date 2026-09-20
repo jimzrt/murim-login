@@ -936,3 +936,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 김진무 | 진태경 | reporter_to_Hunter | Mr. Jin Taekyung | formal-polite | Calls Jin by name while introducing himself from Mudang Daily and requesting a question. |
 | 진태경 | 매직 존슨 | friendly acquaintance | Johnson | polite and teasing | Jin addresses Magic Johnson as 존슨 while bantering and discussing the press conference. |
 | 매직 존슨 | 진태경 | friendly acquaintance | Jin | casual and teasing | Magic Johnson repeatedly addresses Jin as 진 while joking with him and sharing serious information. |
+| 진태경 | 최 팀장 | Peace Guild patron to Team Leader and political ally | Team Leader Choi | polite and familiar | Taekyung addresses Choi respectfully while discussing Gate defenses and Ares Guild. |
+| 최 팀장 | 진태경 | Team Leader to allied younger Hunter and strategic partner | Mr. Jin Taekyung | formal and measured | Choi uses 진태경 씨 while correcting Taekyung's assumption about postponing action against Ares. |
+| 김 집사 | 최 팀장 | Butler to Young Master | Young Master | deferential | Butler Kim addresses Choi as 도련님 while reacting to the seven-percent mana increase. |

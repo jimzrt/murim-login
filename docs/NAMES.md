@@ -1836,3 +1836,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 바티칸 | **Vatican** | Religious city-state used as a comparison for Ares Guild headquarters. |
 | 썩코춘 | **Sseokkochoon** | Magic Johnson's deliberately mangled nickname for Go Jun. |
 | 길드 하우스 | **Guild House** | Peace Guild headquarters. |
+| 자이언트 맨티스 | **Giant Mantis** | Monster appearing in the Mutated Gate footage. |
+| 마수드 | **Masoud** | Rebel named during the battlefield footage. |
+| 파트라슈 | **Patrache** | Dog from A Dog of Flanders, used in Taekyung's Switzerland joke. |
+| 철원 | **Cheorwon** | Korean locality used in Taekyung's weather-forecast joke. |

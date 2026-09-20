@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I quickly used Seizing an Object Through Empty Space to throw up a sealed curtain, then focused on the holographic footage beginning to fill the dark office.",
+      "defect": "The draft makes Taekyung appear to erect or create a sealed curtain. He uses the technique to draw the existing blackout curtains, which darkens the office.",
+      "id": "F01",
+      "rationale": "커튼을 친 describes drawing or closing the curtains, not throwing up a new barrier; the resulting darkness confirms their blackout function.",
+      "replacement": "I quickly used Seizing an Object Through Empty Space to draw the blackout curtains, then focused on the holographic footage beginning to fill the dark office.",
+      "severity": "critical",
+      "source": "한발 빠르게 허공섭물(虛空攝物)의 수법으로 폐쇄형 커튼을 친 나는 어두운 사무실 내부를 가득 채우기 시작한 홀로그램 영상에 집중했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“God is great!”",
+      "defect": "The translation omits the child’s opening scream and terrified stammer, flattening the source’s explicit panic.",
+      "id": "F02",
+      "rationale": "으아아 preserves the scream, while 시, 신은 marks a fear-induced stammer before the declaration.",
+      "replacement": "“Aaaah! G-God is great!”",
+      "severity": "major",
+      "source": "- 으아아! 시, 신은 위대하시다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A scythe-like foreleg pierced through a rebel’s back and shattered his breastbone.",
+      "defect": "The draft changes a slashing injury into a piercing attack.",
+      "id": "F03",
+      "rationale": "등을 가르고 means cutting or slashing through the back; it does not describe impalement.",
+      "replacement": "A scythe-like foreleg slashed through the rebel’s back and shattered his breastbone.",
+      "severity": "critical",
+      "source": "낫 같은 앞다리가 등을 가르고 가슴뼈를 부수었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Along with someone’s piercing shout, dozens of fireballs formed from mana poured down like meteors over the Giant Mantis’s shoulder.",
+      "defect": "The shout is characterized as aged, not piercing, so the draft removes an explicit clue about the unseen caster’s voice.",
+      "id": "F04",
+      "rationale": "창노한 identifies the voice as that of an elderly person; it does not describe its pitch or sharpness.",
+      "replacement": "An aged voice shouted. At the same time, dozens of fireballs formed from mana poured down like meteors over the Giant Mantis’s shoulder.",
+      "severity": "major",
+      "source": "누군가의 창노한 외침. 동시에 마나로 형성된 불덩이 수십여 개가 자이언트 맨티스의 어깨너머로 유성처럼 쏟아졌다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The qi flowing along my palm gently pushed the door open, bringing familiar faces into view.",
+      "defect": "The qi flows out through Taekyung’s palm, whereas “along my palm” suggests movement across its surface.",
+      "id": "F05",
+      "rationale": "손바닥을 타고 흘러나온 specifies that the energy emerges by way of the palm.",
+      "replacement": "The qi flowing from my palm gently pushed the door open, bringing familiar faces into view.",
+      "severity": "minor",
+      "source": "손바닥을 타고 흘러나온 기운이 부드럽게 문을 밀어젖히자, 익숙한 얼굴들이 시야에 들어왔다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Under circumstances this fucking bad, places that had been operating with only the minimum number of Hunters in reserve for emergencies had no choice but to collapse helplessly.",
+      "defect": "The draft says the minimum Hunters were held in reserve, but the source says these places had been operating with minimal Hunter manpower in order to preserve that valuable personnel against contingencies.",
+      "id": "F06",
+      "rationale": "최소한으로 운용하던 describes minimal active deployment or operation, not a minimum number being kept in reserve.",
+      "replacement": "With things this fucking bad, places that had been deploying the bare minimum of precious Hunter manpower as a precaution had no choice but to collapse helplessly.",
+      "severity": "major",
+      "source": "이런 개 같은 상황이니, 만일을 대비하여 헌터라는 귀한 인력을 최소한으로 운용하던 곳은 속수무책으로 무너질 수밖에."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Just imagining it made my chest feel tight.",
+      "defect": "The draft loses the comic inversion in 가슴이 옹졸해진다, which evokes his heart or spirit shrinking rather than physical chest tightness.",
+      "id": "F07",
+      "rationale": "옹졸해진다 means becoming small or petty and humorously reverses the familiar image of one’s heart swelling; “feel tight” reads as ordinary anxiety.",
+      "replacement": "Just imagining it made my heart shrivel.",
+      "severity": "minor",
+      "source": "하늘에서 펑펑 내려오는 몬스터라니, 생각만 해도 가슴이 옹졸해진다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Hm?”",
+      "defect": "The response loses the polite acknowledgment carried by 예 and becomes noticeably more casual.",
+      "id": "F08",
+      "rationale": "예 is a polite response to being addressed; “Hm?” does not preserve that register.",
+      "replacement": "“Yes?”",
+      "severity": "minor",
+      "source": "“예?”"
+    }
+  ],
+  "summary": "Several action, mechanism, and voice details need correction, most notably the curtain movement, the final rebel’s injury, and the loss of the child’s terrified stammer and the caster’s aged voice.",
+  "version": 1
+}
