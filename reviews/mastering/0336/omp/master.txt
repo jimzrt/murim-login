@@ -62,7 +62,7 @@ Then again, it made sense. He had been a Peak master who distinguished himself d
 
 Thanks to that, when I first met Jeok Cheongang, I got nailed with a Flame Divine Palm before I could explain the situation.
 
-Tang Sadok stared at me and asked,
+Tang Sadok studied me for a moment.
 
 “How has Jin Baekyang been?”
 
@@ -128,7 +128,7 @@ The Sichuan Tang Clan was renowned throughout the martial world for its poisons 
 
 And one among them stood at the very pinnacle.
 
-I looked straight at Tang Sadok and asked,
+I looked Tang Sadok straight in the eye.
 
 “Could I meet the Grand Family Head?”
 
@@ -164,7 +164,7 @@ My voice trembled despite myself.
 
 “You cannot say?”
 
-“Instead, I will assign several people to guide you. If you go to Qingcheng and Emei, they will gladly help you.”
+“I will assign several people to guide you instead. Qingcheng and Emei should be willing to help.”
 
 *What did I just hear?*
 
@@ -238,7 +238,7 @@ Cheongpung, Gung Gibang, and Hyuk Mujin all started to speak at once, but I cut 
 
 “What will I do?”
 
-I stared into Tang Sadok’s green eyes and answered,
+I stared into Tang Sadok’s green eyes.
 
 “Then the ties of gratitude and grudges you mentioned will form between me and the Sichuan Tang Clan. And I should warn you—they won’t be the pleasant kind.”
 
@@ -246,7 +246,7 @@ I stared into Tang Sadok’s green eyes and answered,
 
 “Hah. What a fearless brat.”
 
-“Normally, I check where I’m lying before I stretch out my legs, but in this case, I’m in a bit—well, a lot—of a hurry.”
+“Normally, I know better than to pick a fight I can’t win. But this time, I’m in a bit of a hurry. A hell of a hurry.”
 
 Jeok Cheongang had half a year left at most.
 
@@ -318,7 +318,7 @@ He clicked his tongue softly.
 
 He had done everything he could, but the best he had managed was to force all the poison into one arm.
 
-“Poison King… He was fierce. More than I expected.”
+“Poison King… Vicious to the end. Even worse than I expected.”
 
 Poison King Tang Taesang.
 
