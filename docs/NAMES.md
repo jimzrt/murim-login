@@ -1689,3 +1689,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 모용세가 | **Murong Family** | One of the Five Great Families, based in Liaoning. |
 | 요녕 | **Liaoning** | Northeastern region from which the Murong Family arrives. |
 | 진돗개 하나 | **Jindotgae One** | South Korea's highest military alert level; explained in a footnote. |
+| 소하문 | **Xiao He Gate** | Gate whose Senior Disciple appears in the inn fight. |
+| 장충도 | **Long Serpent Saber** | Sobriquet of the wandering martial artist betting against the Xiao He Gate's Senior Disciple. |
+| 방가 | **Fang Family** | Family identified by Moon Beauty Saber. |
+| 월미도 | **Moon Beauty Saber** | Sobriquet of the Fang Family's top-tier wandering martial artist. |
+| 검기상인 | **the level of injuring others with Sword Energy** | Realm description used for Moon Beauty Saber. |
