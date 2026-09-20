@@ -40,7 +40,7 @@ The tea slowly began to fill the cup.
 
 At the same time, Hyuk Sopyung’s expression changed drastically.
 
-“…”
+“…!”
 
 “What is it?”
 
@@ -52,7 +52,7 @@ It was only tea, yet every drop that struck the cup bore down on him with terrif
 
 *What the hell…?*
 
-It was an enormous amount of internal energy. An overwhelming force that even Hyuk Sopyung, the Zhongnan Sect’s greatest prodigy, could not withstand despite receiving every elixir available without restraint.
+The sheer amount of internal energy was staggering. Even Hyuk Sopyung, the Zhongnan Sect’s greatest prodigy, could not withstand its overwhelming force despite having been supplied with every elixir the sect could spare.
 
 He drew up all the internal energy in his body and poured it into the teacup, but he reached his limit almost immediately.
 
@@ -118,7 +118,7 @@ Hwangbo Eom’s formerly dispassionate voice had turned colder than eternal ice.
 
 By the top, he meant the Roaring Fury Swordsman, Song Il. By the bottom, he meant Hyuk Sopyung.
 
-Even though his only Senior Brother was laid up with an Internal Injury, Hwangbo Eom continued to spew venom at him. Hyuk Sopyung and the disciples of the Taeeul Sword Unit realized once again that the two words in his epithet—
+Even with his only Senior Brother laid up by severe internal injuries, Hwangbo Eom continued to spew venom at him. Hyuk Sopyung and the disciples of the Taeeul Sword Unit were reminded once again that the two words in his epithet—
 
 *Taeeul Merciless Sword.*
 
@@ -144,7 +144,7 @@ It was a powerful wave of qi flowing from the Taeeul Merciless Sword, a Supreme 
 
 But Hyuk Sopyung did not yield, even beneath the suffocating pressure.
 
-“Your words… *ngh.* Go too far.”
+“You… *ngh.* You go too far.”
 
 Though the Wind-and-Cloud Sword Lord had never shown him warmth or affection, he was still Hyuk Sopyung’s one and only Master. And more than that—
 
@@ -158,7 +158,7 @@ There had been a time when no one stood closer to the position of Zhongnan Sect 
 
 He had a Senior Brother and Junior Brother under the same Master, but neither had been a true rival. Neither could match his martial prowess or his ruthlessness.
 
-The Sect Leader of the Zhongnan Sect should have been Hwangbo Eom. It was only natural.
+Hwangbo Eom should have become the Sect Leader of Zhongnan. It was only natural.
 
 “And what could a nobody like you possibly know to dare…!”
 
@@ -180,13 +180,13 @@ Hwangbo Eom lifted his still more than half-full teacup and drained it. Deep fur
 
 “…!”
 
-“The Great Zhongnan Sect? What a laughable thing to say. Zhongnan today is nothing more than a castle in the air. While you were lost in despair and wasting your days on drinking, women, and gambling, this old man was working to restore our sect.”
+“The Great Zhongnan Sect? What a joke. Zhongnan today is nothing more than a castle built on sand. While you wallowed in despair and wasted your days on wine, women, and gambling, this old man was working to restore our sect.”
 
 “What do you mean…?”
 
 Confusion colored Hyuk Sopyung’s voice.
 
-Hadn’t Hwangbo Eom shut himself away at the main sect? Even when his Senior Brother, the Roaring Fury Swordsman, returned with a serious Internal Injury, he had not shown his face even once.
+Hadn’t Hwangbo Eom shut himself away even at the main sect? He had not shown his face once, not even when his Senior Brother, the Roaring Fury Swordsman, returned with severe internal injuries.
 
 *Then how…?*
 
@@ -232,7 +232,7 @@ We were on our way to a teahouse called Tengwang Pavilion. Gung Gibang walked be
 
 “This is bigger than I expected. And it isn’t just anyone—it’s the Taeeul Merciless Sword. At least you can reason with the Wind-and-Cloud Sword Lord, but that man…”
 
-Gung Gibang couldn’t finish his sentence and shook his head repeatedly.
+Gung Gibang trailed off and shook his head.
 
 “Why? How bad is he? Have you met him before?”
 
@@ -240,11 +240,11 @@ Gung Gibang couldn’t finish his sentence and shook his head repeatedly.
 
 Judging by Gung Gibang’s reaction, Hwangbo Eom must have made one hell of a first impression.
 
-He shuddered with a disgusted expression, then gave me a sidelong glance.
+He shuddered in disgust, then glanced sideways.
 
 “You don’t need to ask me. No one knows a household better than its neighbor.”
 
-At the end of Gung Gibang’s gaze was Baek Museong, who had been walking silently without saying a word.
+His gaze fell on Baek Museong, who had been walking in silence for some time.
 
 The face that usually wore a relaxed smile had long since hardened like stone.
 
@@ -268,7 +268,7 @@ Gung Gibang spoke anxiously.
 
 “Hm? Turn back from what?”
 
-“Interfering in matters between sects is likely to cause trouble. Even more so when the other party is the Taeeul Merciless Sword of the Zhongnan Sect.”
+“Interfering in matters between sects is bound to cause trouble. Even more so when the other party is the Zhongnan Sect’s Taeeul Merciless Sword.”
 
 “So?”
 
@@ -296,7 +296,7 @@ No wonder his answer had sounded so evasive.
 
 Cheongpung had already polished off the sweets in the blink of an eye. He sucked on his fingers and looked back and forth between Gung Gibang and me.
 
-His eyes dripped with longing as they swept across a street stall overflowing with snacks.
+His eyes brimmed with longing as they swept over the street stalls laden with snacks.
 
 “Young Hero Cheong, you’ve never had tea before. Right?”
 
