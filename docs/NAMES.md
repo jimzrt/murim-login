@@ -1829,3 +1829,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 오크 로드 | **Orc Lord** | Powerful mutated orc commander. |
 | 국회의사당 | **National Assembly** | Government building visible from the skyscraper. |
 | A구역 | **Section A** | Restricted area inside the skyscraper. |
+| 러프 뉴스 | **Rough News** | News outlet named by reporter Go Hyeon-woo. |
+| 고현우 | **Go Hyeon-woo** | Reporter for Rough News. |
+| 무당일보 | **Mudang Daily** | News outlet represented at the press conference. |
+| 김진무 | **Kim Jin-mu** | Reporter for Mudang Daily. |
+| 바티칸 | **Vatican** | Religious city-state used as a comparison for Ares Guild headquarters. |
