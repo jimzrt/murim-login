@@ -18,13 +18,13 @@ Not only martial artists but fearless ordinary citizens had come to see them off
 
 “Fire King! The Fire King grabbed the snake and is trying to roast it!”
 
-The murmuring noise gradually faded into the distance as the procession moved away.
+The clamor gradually faded into the distance as the procession moved away.
 
-On a deserted hill, a boy sat on a tree stump watching the entire scene. Then he suddenly spoke.
+On a deserted hill, a boy sat on a tree stump and watched it all. Then he spoke.
 
 “We’ve come a long way.”
 
-“Indeed. I’m getting tired.”
+“Indeed. It was quite a climb.”
 
 His elderly Disciple dropped heavily onto the grass, breathing hard. Mungyeong murmured,
 
@@ -90,7 +90,7 @@ Mungyeong shook his head.
 
 “I only held out my hand. You chose to take it and rise.”
 
-“I had to live. I had something I needed to do.”
+“I had to live. I had found something I needed to do.”
 
 By all rights, the carpenter should have died from the epidemic as well.
 
@@ -100,7 +100,7 @@ But the physician cured him with medical arts unlike anything he had ever seen. 
 
 “That differs from what this Disciple remembers. I remember you beckoning for me to follow.”
 
-The young carpenter who had lost his family found a new goal, while the old physician who roamed the land tending to poor and helpless patients gained a new Disciple.
+Thus, the young carpenter who had lost his family found a new purpose, while the old physician who roamed the land tending to the poor and helpless gained a new Disciple.
 
 It was only many years later that the carpenter, now a physician named Dong Feng, learned his Master’s true identity.
 
@@ -138,7 +138,7 @@ Had the Demonic Cult’s invading armies not killed and destroyed indiscriminate
 
 The title of Slaughter Saint was merely absolution granted by the orthodox faction once it became the master of Murim—and praise for a powerful man.
 
-Though Mungyeong had always been Mungyeong, people neither knew nor tried to learn the truth hidden behind him.
+Mungyeong had always been Mungyeong, yet people neither knew nor cared to learn the truth hidden beneath the title.
 
 “Why did you never tell anyone?”
 
@@ -156,7 +156,7 @@ Mungyeong stopped dead. Behind him, his elderly Disciple continued.
 
 “What happened back then will happen again. Countless people will die or be wounded. There will be no end to those who lose their parents and children, nor to the screams and death.”
 
-“…We will be very busy. I should make preparations.”
+“…We will be very busy. We should prepare.”
 
 “You know what I am trying to say, Master.”
 
@@ -164,17 +164,17 @@ Mungyeong stopped dead. Behind him, his elderly Disciple continued.
 
 “Master.”
 
-“I am a physician. Though I broke the promise I made to myself and was forced to kill, I will not make the same mistake again.”
+“I am a physician. Though circumstances forced me to break the promise I made to myself and kill again, I will not repeat that mistake.”
 
 Mungyeong continued slowly.
 
-“Fighting is their responsibility, and treating the sick is ours. My heart left Murim long ago.”
+“Fighting is their duty. Treating the sick is ours. I left Murim behind long ago.”
 
 “Then why have you never abandoned your martial arts?”
 
 “…!”
 
-Mungyeong was left speechless.
+Mungyeong fell silent.
 
 It was a question he himself had harbored for years. If he had wanted to leave Murim because he hated killing, then he should also have abandoned martial arts—the means by which he killed.
 
@@ -190,7 +190,7 @@ His elderly Disciple’s voice broke through his brief reverie.
 
 “Please prevent this war as the Divine Physician, not the Slaughter Saint. This Disciple will remain here and care for the patients.”
 
-Mungyeong suddenly raised his head and looked at the sky.
+Mungyeong raised his head and looked at the sky.
 
 Clear and blue.
 
@@ -238,7 +238,7 @@ I froze. How the hell did he know? Even Cheongpung hadn’t heard the conversati
 
 *Was this guy always this perceptive?*
 
-Just as I was wondering, he whispered,
+As I wondered, he leaned closer and whispered,
 
 “Weren’t you looking at the Young Lady standing fourth from the right in the front row?”
 
@@ -260,9 +260,9 @@ Just as I was wondering, he whispered,
 
 As Hyuk Mujin quietly shrank into himself, Gung Gibang snickered.
 
-“You idiot. It wasn’t the fourth from the right. It was the third woman from the left. Anyone can see she is much prettier. Your eyes are screwed up.”
+“What an idiot. It wasn’t the fourth from the right. It was the third woman from the left. Anyone can see she’s far prettier. Are you blind?”
 
-“Want me to screw up your eyes for you?”
+“Want me to make you blind?”
 
 “…Sorry.”
 
@@ -274,9 +274,9 @@ They were both definitely pretty, but the third woman from the left was more my 
 
 No. That wasn’t the point.
 
-*Damn it. Those bastards kept going on about it, so now I keep looking at her.*
+*Damn it. Those bastards kept talking about them, and now I can’t stop looking.*
 
-As I was thinking that, a huge man with a copper-colored complexion approached me and spoke.
+As I thought that, a huge man with a copper-colored complexion approached me.
 
 “Hey, Junior. No, not Junior. Young Hero Jin. No, Great Hero.”
 
@@ -306,7 +306,7 @@ Beside him, Jin Wikyung was examining some bamboo slip whose purpose I couldn’
 
 Sssrik, shaaaash!
 
-*Was that a water snake?*
+*Was she a water snake now?*
 
 Distracted for a moment by the rare spectacle, Mu Song finally spoke with an awkward expression.
 
@@ -340,7 +340,7 @@ Just as the people gathered to see us off began waving—
 
 The bow of the swift ship shuddered as it began pulling away from the harbor.
 
-Far off in the distance, I spotted a boy forcing his way through the crowd. I let out a short laugh.
+Far in the distance, I spotted a boy forcing his way through the crowd and let out a quiet laugh.
 
 “Let’s take one more person aboard before we go.”
 
