@@ -1,6 +1,6 @@
 # Go Jun (고준)
 
-- **Safe through:** Chapter 565
+- **Safe through:** Chapter 566
 - **Aliases:** Team Leader Seok
 - **Role:** Go Jun is Ares Guild's Vice Guild Master, Lee Jungryong's disciple and former Head of Security, and the de facto successor to Lee's Ares legacy who passed the S-rank Hunter qualification assessment with a very high score but lacks Lee's legitimacy.
 - **Personality:** Disciplined and controlled under ordinary pressure, fiercely loyal to Lee Jungryong, but consumed by humiliation and rage when Ares Guild's authority is challenged.

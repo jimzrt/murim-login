@@ -1,6 +1,6 @@
 # Go Se-won (고세원)
 
-- **Safe through:** Chapter 563
+- **Safe through:** Chapter 566
 - **Aliases:** Head of Security
 - **Role:** Go Se-won is Ares Guild's Head of Security and a Team Leader with privileged access to restricted Section A.
 - **Personality:** Composed and confident in public, he is mildly uncomfortable with Ares Guild's increasingly severe discipline but obeys its policy.
