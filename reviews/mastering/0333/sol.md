@@ -22,7 +22,7 @@ Everyone else had clearly reached the same conclusion.
 
 My companions and I—even the river bandits of Water Dragon Stronghold. Every head turned in the same direction, toward the twenty passengers who had moved onto the swift ship when Hwang Tae-gu’s attack left their boat listing.
 
-“Who is it? Step forward.”
+“Who was it? Step forward.”
 
 At Mu Song’s fierce glare, his harpoon hanging low in one hand, his subordinates hurriedly cleared a path. A lone figure stood at the end of it.
 
@@ -46,7 +46,7 @@ Mu Song had a good eye.
 
 The boy, Mungyeong, had the aura of an ordinary commoner. Nothing more, nothing less.
 
-Mungyeong swallowed nervously under our scrutiny and answered,
+Mungyeong swallowed nervously under our scrutiny.
 
 “T-That’s right. I’m merely a medical apprentice still in training. I have no connection to the Murim.”
 
@@ -82,7 +82,7 @@ Mungyeong continued in a trembling voice.
 
 “Good heavens.”
 
-The river bandits and passengers who had been listening intently let out low groans. Mu Song nodded as if he understood and spoke.
+The river bandits and passengers listening intently let out low murmurs. Mu Song nodded as if everything had fallen into place.
 
 “Now I understand why you asked me to stop. Though it goes against the League regulations, I understand how you feel. I’ll give you the chance.”
 
@@ -98,11 +98,11 @@ But Mungyeong’s answer defied everyone’s expectations—including mine.
 
 “……!”
 
-Mu Song had been about to hand Mungyeong the harpoon he was holding. Even Hwang Tae-gu, who had already closed his eyes as though resigned to everything, snapped them open and stared at Mungyeong.
+Mu Song froze as he was about to hand Mungyeong his harpoon. Even Hwang Tae-gu, who had closed his eyes as if resigned to his fate, snapped them open and stared at the boy.
 
 “W-What did you say?”
 
-When Mu Song asked again in confusion, Mungyeong bowed at the waist.
+As Mu Song stared at him in confusion, Mungyeong bowed at the waist.
 
 “I desperately wish to avenge my parents, but I am a medical apprentice. How can one who deals in life bring about death? I beg you to cripple his martial arts and punish him according to strict law, so that he can never commit evil again.”
 
@@ -120,7 +120,7 @@ Exclamations rose from the crowd.
 
 “Well, I’ll be. That young fellow is something else.”
 
-“If it were me, I’d have shoved that harpoon straight into his chest.”
+“If it were me, I’d have driven that harpoon straight through the bastard’s chest.”
 
 “He’s remarkable in more ways than one. He’ll make a fine physician.”
 
@@ -128,7 +128,7 @@ Mu Song also seemed deeply impressed by Mungyeong’s well-reasoned argument. He
 
 “If your ears work, you heard him. What do you think?”
 
-“I-I’ll survive, and I’ll tear every one of you apart!”
+“I’ll survive. Then I’ll tear every last one of you apart!”
 
 The killing intent flashing in Hwang Tae-gu’s eyes did not last long.
 
@@ -138,7 +138,7 @@ Thud!
 
 Mu Song’s toe drove into the spot beneath Hwang Tae-gu’s navel—the place known as the dantian.
 
-Mu Song looked down coldly at Hwang Tae-gu, who toppled backward, vomiting blood.
+Mu Song stared coldly down at Hwang Tae-gu as he toppled backward, coughing up blood.
 
 “Go ahead and survive, then. See if you can carry out your threat. With your dantian shattered, though, you’ll hardly be alive even if you live.”
 
@@ -148,7 +148,7 @@ Whooooom! Crack!
 
 “Guh! N-No!”
 
-By the time Hwang Tae-gu’s scream echoed hollowly across the deck, everything was already over.
+By the time Hwang Tae-gu’s scream echoed hollowly across the deck, it was already over.
 
 Ssshhh.
 
@@ -156,7 +156,7 @@ Ssshhh.
 
 Qi streamed from his twitching seven apertures and scattered into the air.
 
-When a cup holding water breaks, the water spills out. The moment his qi-sea acupoint was destroyed, the internal energy stored in his dantian disappeared.
+When a cup breaks, the water inside spills out. The instant his qi-sea acupoint was destroyed, the internal energy stored in his dantian began draining away.
 
 “You bastards! I swear I’ll—!”
 
@@ -182,7 +182,7 @@ In any case, the commoners whose lives had been saved by Water Dragon Stronghold
 
 “We don’t know how we could ever repay this debt…”
 
-“Perhaps the Primordial Heavenly Venerable was watching over us. Not a single person died, so you needn’t worry.”
+“The Primordial Heavenly Venerable must have watched over us. Not one person died, so please don’t trouble yourself over it.”
 
 *Huh? Not one person died?*
 
@@ -202,7 +202,7 @@ It didn’t take long for me to get my answer.
 
 “Indeed. How could anyone remain so calm in a situation like that? He’s truly remarkable.”
 
-The conversation I overheard went like this.
+From the snippets of conversation drifting around me, I pieced together what had happened.
 
 When the passengers spotted the approaching river bandits and panicked, Mungyeong stepped forward. He had them tear up the deck and use the planks as shields, then ordered them to break the mast.
 
@@ -210,7 +210,7 @@ When the passengers spotted the approaching river bandits and panicked, Mungyeon
 
 An ordinary person would have thought first of rowing for their life and escaping. Mungyeong had done the opposite.
 
-He broke the sails and left the boat’s fate to the violent current of the Yangtze, which heaved and rolled like a whirlpool.
+He had them bring down the sail and entrusted the boat’s fate to the Yangtze’s violent, swirling current.
 
 *And it worked.*
 
@@ -238,7 +238,7 @@ Perhaps he felt my gaze. Mungyeong, who had been smiling awkwardly at all the pr
 
 “Miscellaneous books?”
 
-“Yes. Believe it or not, my family comes from a humble military household. My grandfather was also a military officer who received a stipend from the court.”
+“Yes. Believe it or not, my family comes from a humble military household. My grandfather also served the imperial court as a military officer.”
 
 He was trying to hide both his faint wariness of a stranger and a quiet sense of pride.
 
@@ -252,7 +252,7 @@ I studied Mungyeong carefully and muttered inwardly.
 
 Ding.
 
-Along with the familiar chime, information about him rose into the air.
+With the familiar chime, information about him appeared in the air.
 
 > **System**
 >
@@ -268,7 +268,7 @@ Along with the familiar chime, information about him rose into the air.
 
 Clicking my tongue inwardly, I turned away from the bewildered Mungyeong.
 
-Mu Song, who had been watching, spoke to me quietly.
+Mu Song, who had been watching, spoke quietly.
 
 “What was that about?”
 
