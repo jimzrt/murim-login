@@ -1716,3 +1716,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 맹주전 | **Alliance Leader's Hall** | Hall directly associated with the Murim Alliance Leader. |
 | 천하제일검 | **Number One Sword Under Heaven** | Mae Jonghak's title. |
 | 천독수라 | **Myriad-Poison Asura** | Tang Sadok's epithet. |
+| 숭산결의 | **Mount Song Resolution** | The event marking the formal gathering of the Murim Alliance at Mount Song. |
+| 홍적 | **Hong Jeok** | The Fist King, an old martial artist from Guangxi who appears at the Murim Alliance. |
+| 모용영휘 | **Murong Yeonghwi** | A blood relative of the Murong Family regarded as an overwhelmingly powerful young prodigy. |
+| 복마전 | **demon-slaying battleground** | A possible description for Sichuan if Dark Heaven attacks it. |

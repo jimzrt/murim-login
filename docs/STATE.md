@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 525
-- Next chapter: 526
-- Current block: 525–529 (1/5)
-- Latest translation: `translations/0525.md`
-- Latest summary: `summaries/beats/0525.md`
-- Safe profiles through: chapter 525
+- Last completed: 526
+- Next chapter: 527
+- Current block: 525–529 (2/5)
+- Latest translation: `translations/0526.md`
+- Latest summary: `summaries/beats/0526.md`
+- Safe profiles through: chapter 526
 
 ## Current Block
 
-- Mae Jonghak accepts the responsibility of leading the New Murim Alliance. Song Ho acknowledges him as Alliance Leader and receives his first order: raise the flag.
-- At the Alliance's public inauguration, Mae declares that peace is over and calls on the martial world to fight Dark Heaven. He, Jeok Cheongang, Jin Taekyung, and Cheongpung raise the Murim Alliance flag together, marking its birth.
+- The Murim Alliance is formally founded at Mount Song beneath a single flag, and news of the Mount Song Resolution spreads throughout the Central Plains. Factions, unaffiliated wandering martial artists, reclusive masters, and legendary veterans begin mobilizing for war against Dark Heaven. Mungyeong watches Jin Taekyung carry the Alliance flag and recognizes him as a new hero at the dawn of a new era. Public opinion places Blazing Flame Divine Dragon Jin Taekyung and Huashan Divine Dragon Cheongpung as the Two Dragons above the Ten Dragons and Phoenixes. The Fist King Hong Jeok emerges from Guangxi, while Murong Yeonghwi is cited as another overwhelmingly powerful young prodigy. Cheongpung ends the chapter by loudly declaring that he wants dumplings.
 
 ## Open Questions
 
@@ -22,11 +21,11 @@
 
 ## Exceptional Decision
 
+- Render 숭산결의 as Mount Song Resolution and 이룡 as Two Dragons.
+- Retain Ten Dragons and Phoenixes for 십봉룡 and Blazing Flame Divine Dragon for 열화신룡.
+- Render 홍적 as Hong Jeok, 모용영휘 as Murong Yeonghwi, and 복마전 as demon-slaying battleground.
 - Render 새외무림 as Outer Murim, 새외 as Outer Lands, 북해빙궁 as North Sea Ice Palace, 야수묘왕 as Beast Miao King, and retain Nanman Beast Palace for 남만야수궁.
-- Render 소뢰음사 as Small Thunderclap Temple, 광풍사 as Mad Wind Society, 포달랍궁 as Potala Palace, 오독문 as Five Poisons Sect, 독곡 as Poison Valley, 천축 as India, 갠지스강 as Ganges River, and 대환단 as Great Restoration Pill.
-- Render 파사국 as Persia, 회교도 as Muslims, 영웅건 as hero headband, 대막 as great desert, 귀염권 as Ghost Flame Fist, and 장성 as Great Wall.
-- Retain sa-eo for 사어, shark for 상어, Old Master for 노야, this old man/I for 노부, Shark Water-Ski Team for 수상스키단, and swift ship for 쾌조선.
-- Render 화약고 as powder keg, 칠공 as seven apertures, 단환 as pill, 무적자 as The Invincible, 무리 as martial principles, 구운몽 as The Dream of the Nine Clouds, and 천하제일검 as Number One Sword Under Heaven; preserve the chapter's blunt profanity and monster-comparison humor.
+- Retain the established renderings for Dark Heaven, Murim Alliance, Old Master, wandering martial artist, and the chapter's blunt profanity and monster-comparison humor.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
