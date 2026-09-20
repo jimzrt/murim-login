@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You both looked awfully busy at Mr. Lee’s national funeral. A lot of people were looking for Choi.”",
+      "defect": "The draft changes the subject from Choi alone to both Choi and Taekyung, adding that Taekyung also looked busy.",
+      "id": "F01",
+      "rationale": "The source explicitly identifies Choi as the person who looked busy and whom many people sought.",
+      "replacement": "“Choi looked awfully busy at Mr. Lee’s national funeral. A lot of people were looking for him.”",
+      "severity": "critical",
+      "source": "미스터 리의 영결식 때 워낙 바빠 보였으니까. 최를 찾는 사람이 많던걸."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“People whose paths happened to cross with mine. They have no reason to have lied to me, but you never know what people are thinking.”",
+      "defect": "“No reason to have lied” turns Choi’s strong personal trust in them into an assessment that they lacked a motive to lie.",
+      "id": "F02",
+      "rationale": "The construction 거짓말을 하셨을 리는 없겠지만 conveys Choi’s belief that they could not have lied, not merely that lying would have been irrational.",
+      "replacement": "“People whose paths happened to cross with mine. I can’t imagine they would have lied to me, but you never know what people are thinking.”",
+      "severity": "major",
+      "source": "그분들이 제게 거짓말을 하셨을 리는 없겠지만…… 사람 마음이라는 건 모르는 거니까요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Perhaps that was why, when Team Leader Choi spoke a moment later, his voice carried more strength than ever. It flowed between lips without even a hint of stubble.",
+      "defect": "“Lips without even a hint of stubble” is anatomically incongruous and mistranslates the image of flawlessly smooth lips.",
+      "id": "F03",
+      "rationale": "거스러미 하나 없는 describes an unblemished, perfectly smooth surface; it does not refer to facial hair.",
+      "replacement": "Perhaps that was why, when Team Leader Choi’s voice flowed between his perfectly smooth lips a moment later, it carried more strength than ever.",
+      "severity": "minor",
+      "source": "그래서일까. 다음 순간 거스러미 하나 없는 입술 사이로 흘러나온 최 팀장의 목소리에는, 그 어느 때보다 강한 힘이 실려 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Even so, there’s no need to swear. And Seok Go Jun was already a dangerous bastard to begin with.”",
+      "defect": "The draft uses the unestablished form “Seok Go Jun” instead of the binding established name “Go Jun.”",
+      "id": "F04",
+      "rationale": "The glossary explicitly maps the source full-name form 석고준 to the established English name Go Jun.",
+      "replacement": "“Even so, there’s no need to swear. And Go Jun was already a dangerous bastard to begin with.”",
+      "severity": "major",
+      "source": "그리고 석고준 그 새끼야 원래 위험한 놈이고요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He looked warmly at Team Leader Choi and me before adding something to the two people standing there blankly.",
+      "defect": "The draft omits the narrator’s comic self-correction from “two people” to “one person and one monster.”",
+      "id": "F05",
+      "rationale": "The explicit correction 두 사람. 아니, 한 사람과 한 몬스터 is a deliberate joke distinguishing Im Kkeokjeong from the Skeleton King.",
+      "replacement": "He looked warmly at Team Leader Choi and me before turning to the two people—no, the one person and one monster—standing there blankly and adding,",
+      "severity": "minor",
+      "source": "따뜻한 눈빛으로 나와 최 팀장을 바라보던 그가 멀뚱멀뚱 서 있는 두 사람. 아니, 한 사람과 한 몬스터를 향해 덧붙였다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Don’t look at me like that. Joseph and I have been balls friends for nearly fifty years, but it’s mostly a private relationship that no one knows about.”\n\n“...!”\n\nAt Team Leader Choi’s expression, which had frozen in an instant, Magic Johnson hurriedly added,\n\n“Take the word ‘balls’ out. We’re just friends. Best friends.”",
+      "defect": "“Balls friends” is ungrammatical English, and “no one knows” strengthens the source’s “most people do not know” into an absolute. The literal phrasing also makes the joke sound like an error rather than a sexual misunderstanding.",
+      "id": "F06",
+      "rationale": "불알친구 means an extremely close old friend, while the following retraction exploits its anatomical wording. “Intimate friends” and its immediate retraction preserve the misunderstanding in natural English, and 대부분 means most people rather than no one.",
+      "replacement": "“Don’t look at me like that. Joseph and I have been intimate friends for nearly fifty years, but most people don’t know about our personal relationship.”\n\n“...!”\n\nTeam Leader Choi froze, and Magic Johnson hurriedly added,\n\n“Forget I said ‘intimate.’ We’re just friends. Best friends.”",
+      "severity": "minor",
+      "source": "그렇게 볼 것 없어. 나와는 50년 가까이 알고 지낸 불알친구지만, 대부분은 모르는 개인적인 관계니까.\n\n“……!”\n\n순간 얼어붙은 최 팀장의 표정에, 매직 존슨이 재빨리 덧붙였다.\n\n불알이라는 단어는 빼지. 그냥 친구야, 절친."
+    }
+  ],
+  "summary": "Six actionable findings: one altered subject, one trust-register shift, one malformed physical description, one established-name violation, and two localized humor/characterization issues.",
+  "version": 1
+}
