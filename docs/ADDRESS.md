@@ -947,3 +947,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 고세원 | 송천우 | Ares security-team leader to Ares regional branch director | Director | formal-polite but threatening | Go Se-won repeatedly addresses Song as 지사장님 while escorting him out. |
 | 송천우 | 고세원 | Ares regional branch director to security-team leader | Go Se-won | informal and confrontational | Song directly calls Go Se-won by name while challenging his knowledge of Go Jun's plans. |
 | 팀원 | 고세원 | security-team subordinate to security-team leader | Team Leader | alarmed formal address | A security-team member calls out to Go Se-won when Song grabs him. |
+| 팀장 | 이동석 | freelance_team_leader_to_temporary_teammate | Dongseok | casual and practical | Addresses him as 동석 씨 while checking his condition and encouraging him before entry. |
+| 이동석 | 팀장 | temporary teammate to team leader | Team Leader | formal-polite | Uses 팀장님 despite his otherwise blunt, sparse manner. |
+| 팀원 | 팀장 | team member to team leader | Team Leader Kim | casual, familiar, and dialectal | Team members use forms including 햄 and informal greetings when addressing Kim. |
+| 관리소장 | 팀장 | Gate management manager to freelance team leader | Team Leader Kim | casual and regional-dialectal | Calls him 김 팀 while checking the team's personnel and compliance. |
