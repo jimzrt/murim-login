@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Only after the tension finally snapped did the man realize that he had been lying inside a vehicle.",
+      "defect": "“The tension snapped” can imply that he lost control under pressure, whereas the source says his tension suddenly released in relief.",
+      "id": "F01",
+      "rationale": "긴장의 끈이 탁 풀린 describes the abrupt release of tension after he realizes he survived.",
+      "replacement": "Only after the tension finally drained out of him did the man realize that he had been lying inside a vehicle.",
+      "severity": "minor",
+      "source": "비로소 긴장의 끈이 탁 풀린 남자는 그제야 자신이 누워 있던 곳이 차량 내부라는 것을 깨달았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“…”\n\nShe sighed lightly.\n\n“It’d be faster to give you my business card from the start. Here.”",
+      "defect": "The draft adds a sigh that is not present in the source and turns an unspoken pause into a specific physical reaction.",
+      "id": "F02",
+      "rationale": "The source contains only the pause before Song Song decides that showing her card will be faster.",
+      "replacement": "“…”\n\n“It’d be faster to give you my business card from the start. Here.”",
+      "severity": "minor",
+      "source": "“……그냥 처음부터 명함을 주는 게 빠르겠네. 여기요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“My official position is Team Leader of the healer team. It’s temporary, but I’m also in charge of the emergency rescue team.”",
+      "defect": "The pronoun “It” can make her official Healer Team position sound temporary. The source says her additional command of the emergency rescue team is temporary.",
+      "id": "F03",
+      "rationale": "임시지만 modifies her responsibility for the emergency rescue team, not her formal position as Healer Team Leader.",
+      "replacement": "“My official title is Healer Team Leader. I’m also temporarily in charge of the emergency rescue team.”",
+      "severity": "major",
+      "source": "“정식 직함은 힐러팀 팀장이죠. 임시지만 긴급 구조팀을 맡고 있기도 하고.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was the Guild led by none other than Jin Taekyung.",
+      "defect": "The draft changes Jin Taekyung from someone who belongs to the Peace Guild into its leader, altering his organizational role.",
+      "id": "F04",
+      "rationale": "속한 means that Jin Taekyung is affiliated with or belongs to the Guild; it does not say that he leads it.",
+      "replacement": "It was the Guild that none other than Jin Taekyung belonged to.",
+      "severity": "critical",
+      "source": "다른 사람도 아닌 바로 그 진태경이 속한 길드가 아닌가."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*…That sounds like a line I’ve heard somewhere before. First, just know that I’m not Chinese.*",
+      "defect": "“Chinese” broadens 화교 into nationality and loses the specific reference to a member of the ethnic Chinese diaspora.",
+      "id": "F05",
+      "rationale": "화교 specifically denotes an ethnic Chinese person living outside China, rather than any Chinese national.",
+      "replacement": "*…That sounds like a line I’ve heard somewhere before. First, just know that I’m not ethnic Chinese.*",
+      "severity": "major",
+      "source": "‘……어디서 많이 들어 본 대사 같은데. 우선 내가 화교가 아니라는 것만 알아 둬.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "But what followed completely exceeded her expectations.",
+      "defect": "“Exceeded her expectations” adds the positive judgment that his proposal was better than expected. The source only says it went completely against what she had anticipated.",
+      "id": "F06",
+      "rationale": "예상을 완전히 빗나갔다 means that her prediction was completely wrong, without itself stating that the reality surpassed it in quality.",
+      "replacement": "But what he said next was nothing like what she had expected.",
+      "severity": "major",
+      "source": "골드문, 아니 아레스 길드에 들어가 첩자 짓이라도 하라는 건가 잠깐 생각했지만, 이어진 이야기는 그녀의 예상을 완전히 빗나갔다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Every now and then, the bastard showed her an unexpected side of himself.",
+      "defect": "“The bastard” introduces stronger hostility and profanity than the familiar, mildly disparaging 녀석 warrants in this reflective context.",
+      "id": "F07",
+      "rationale": "Here 녀석 conveys casual familiarity rather than the force of an explicit insult.",
+      "replacement": "Every now and then, he showed her an unexpected side of himself.",
+      "severity": "minor",
+      "source": "녀석은 가끔 이렇게 뜻밖의 모습을 보여 주고는 했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You there. Your waist is bent at only an eighty-degree angle. Lower it to ninety. Alternatively, attempting a grandjeol would be an excellent option.”",
+      "defect": "The untranslated culture-specific joke “grandjeol” is left unexplained, so an English reader cannot understand the Skeleton King’s escalating demand for an absurdly extreme bow.",
+      "id": "F08",
+      "rationale": "그랜절 is internet slang combining “grand” with the Korean full bow, and its exaggerated physical image is the punchline.",
+      "replacement": "“You there. You’re only bending eighty degrees at the waist. Make it ninety. Or you could try a grandjeol.[^1]”\n\n[^1]: A comically exaggerated form of the Korean full bow, often performed with the body inverted.",
+      "severity": "minor",
+      "source": "“거기 너, 허리 각도가 80도밖에 되지 않는다. 90도까지 낮추도록. 아니면 그랜절을 시도하는 것도 좋은 방법이다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“One more word, and you’ll learn to listen while kneeling.”\n\n“…”\n\nA single sentence was enough to shut him up.\n\nTeam Leader Choi handed me a folder.",
+      "defect": "The Skeleton King’s spoken apology is omitted, removing the comic beat in which he immediately submits to Taekyung’s threat.",
+      "id": "F09",
+      "rationale": "미안하다 explicitly means “Sorry”; the source does not leave his response as silence.",
+      "replacement": "“One more word, and you’ll learn to listen while kneeling.”\n\n“…Sorry.”\n\nThat single sentence was enough to shut him up.\n\nTeam Leader Choi handed me a folder.",
+      "severity": "major",
+      "source": "“한마디만 더 하면 무릎 꿇은 채로 들을 줄 알아라.”\n\n“……미안하다.”\n\n단 한마디로 녀석의 입을 닥치게 만든 내게, 최 팀장이 서류철 하나를 내밀었다."
+    }
+  ],
+  "summary": "The draft contains one organizational-role error, several meaningful register or characterization shifts, one omitted apology, and localized wording issues.",
+  "version": 1
+}
