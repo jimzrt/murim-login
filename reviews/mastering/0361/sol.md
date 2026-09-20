@@ -6,7 +6,7 @@ There was not the slightest trace of urgency or hesitation in the Western Heaven
 
 Not even fragments of rock falling from the ceiling to herald the collapse, nor the pitch-black darkness blocking his path, could change that.
 
-The Four Great Demon Lords were beings entitled to walk that way.
+As one of the Four Great Demon Lords, he had earned the right to walk that way.
 
 Only one thing concerned him: the possibility that he might fail to carry out the exalted Lord of Heaven’s command.
 
@@ -22,13 +22,13 @@ He felt a swollen lump beneath his fingers, throbbing with pain. It bothered him
 
 Jin Taekyung had been hanging there with all four limbs broken.
 
-His internal energy had clearly been exhausted, and his Internal Injury was severe enough that it would not have been strange for an ordinary Peak master to have died already…
+His internal energy had clearly run dry, and he had suffered an Internal Injury severe enough to kill an ordinary Peak master several times over…
 
 “To think my Body-Protecting Qi couldn’t completely stop it.”
 
 The Western Heaven Demon Lord let out a hollow laugh.
 
-Jin Taekyung had pierced his Body-Protecting Qi with a mere scrap of cloth and wounded him. By ordinary common sense, such a thing was utterly impossible.
+With nothing but flesh and bone, Jin Taekyung had broken through his Body-Protecting Qi and injured him. By all common sense, it should have been impossible.
 
 Two words surfaced in the Western Heaven Demon Lord’s mind.
 
@@ -36,7 +36,7 @@ Two words surfaced in the Western Heaven Demon Lord’s mind.
 
 *Prepared to die.*
 
-*Is this not supernatural powers in its truest form?*
+*Is that not supernatural powers in its truest form?*
 
 It was unbearably fascinating. At the same time, it sent a chill through his heart.
 
@@ -44,7 +44,7 @@ In terms of martial arts realm, Cheongpung, who had already reached the Supreme 
 
 But Jin Taekyung felt dangerous for a different reason.
 
-*He is strong simply because he is human.*
+*The man himself is strong.*
 
 Martial arts far beyond what any Peak master should possess. Tenacity that surpassed all imagination.
 
@@ -78,7 +78,7 @@ His voice was calm.
 
 “That is merely an empty title bestowed upon me by the people of this world.”
 
-“I have heard plenty of rumors about you. They say no one knows your name or age—not even whether you are a man or a woman. I have wanted to meet you at least once.”
+“I’ve heard plenty of rumors about you. They say no one knows your name or age—not even whether you’re a man or a woman. I’ve always wanted to meet you.”
 
 “And now that you have, what do you think?”
 
@@ -106,15 +106,15 @@ The sincerity in his voice made the Divine Physician’s eyelids tremble.
 
 The Lord of Heaven? A servant? Whatever the man meant, there could be no doubt that he was utterly insane.
 
-“What nonsense! If you are not a fiend despite slaughtering people without hesitation, then what are you?”
+“What nonsense! If a man who slaughters without compunction is not a fiend, then what is?”
 
 “It is unfortunate. But what can I do? Erasing those who oppose His will is part of my duty.”
 
-“Y-you are…”
+“Y-you…”
 
 The Divine Physician was struck speechless as the Western Heaven Demon Lord gave a quiet sigh.
 
-The thick scent of blood soaked into every word he spoke and every small movement he made, enough to make nausea rise in the Divine Physician’s throat.
+Every word he spoke and every slight movement he made reeked so strongly of blood that nausea rose in the Divine Physician’s throat.
 
 “Get out.”
 
@@ -130,7 +130,7 @@ The Western Heaven Demon Lord stared at the Divine Physician’s rigid face, the
 
 The Western Heaven Demon Lord advanced with an amused expression. At the end of his path lay Jeok Cheongang, motionless as a corpse.
 
-“I believe the patient should be moved somewhere else.”
+“In my professional opinion, I believe the patient should be moved elsewhere.”
 
 “Before that… you should ask the physician’s permission.”
 
@@ -152,7 +152,7 @@ He did not move.
 
 The formidable Body-Protecting Qi surrounding him simply did its job.
 
-Dozens of needles struck the Body-Protecting Qi and trembled violently.
+The dozens of needles struck the barrier and quivered in place.
 
 “And unfortunate.”
 
@@ -176,11 +176,11 @@ The Divine Physician flew forward as if something had flung him. His face turned
 
 “That hardly seems like something a physician who just unleashed a killing technique should say. Come to think of it, wouldn’t that make you a fiend as well?”
 
-“If I think of the blood that will stain your hands, I will gladly become one!”
+“When I think of all the blood that will stain your hands, I will gladly become one!”
 
 Whoosh. Thunk.
 
-The Divine Physician’s palm strike, thrust out with a shout that brought up blood, was blocked with ease.
+The Divine Physician thrust out a palm with a cry that brought blood to his lips, but the attack was easily stopped.
 
 Crack-crack.
 
@@ -200,15 +200,15 @@ The Western Heaven Demon Lord gazed at the objective of his mission with rapture
 
 “The Lord of Heaven will be pleased.”
 
-The Divine Physician, who had watched everything unfold, let out a suppressed groan.
+The Divine Physician, forced to watch it all, let out a strangled groan.
 
-“W-what are you planning to do?”
+“W-what in the world are you planning?”
 
 “Don’t concern yourself with it. Your role ends here anyway.”
 
 Whoosh! Thud!
 
-A palm strike that shot forward like a blade pierced the Divine Physician’s abdomen.
+Palm Force shot out like a blade and buried itself in the Divine Physician’s abdomen.
 
 His lower dantian shattered. The Divine Physician was hurled across the room, vomiting blood.
 
@@ -236,7 +236,7 @@ Woooooong.
 
 A low, faint sound, like a swarm of bees buzzing.
 
-Only the Western Heaven Demon Lord could have noticed it. It was a tremor in the air, a faint vibration that slowly drew nearer.
+Only someone like the Western Heaven Demon Lord could have detected it. The air itself was trembling, and a minute vibration was drawing closer.
 
 *Could the collapse have already begun?*
 
@@ -244,9 +244,9 @@ The Western Heaven Demon Lord turned toward the source.
 
 Beyond the treatment room, its iron door now gone, a faint light flickered in the pitch-black darkness.
 
-“What is that…”
+“What is that…?”
 
-He deliberately furrowed his brow.
+He furrowed his brow.
 
 The next instant, his eyes flew wide.
 
@@ -262,7 +262,7 @@ A massive light shot forward, obliterating the space in its path.
 
 No.
 
-No—a spear wreathed in blue flames.
+It was a spear wreathed in blue flames.
 
 A name flashed through the Western Heaven Demon Lord’s mind, and he could no longer hold back his laughter.
 
@@ -276,17 +276,17 @@ KABOOOOOM!
 
 Amid the deafening blast that shook the underground prison, a voice rang out.
 
-“The sickroom is off-limits unless you’re family or a Disciple. You fucking bastard.”
+“Only family and disciples are allowed in the sickroom, you fucking bastard.”
 
 * * *
 
 Step. Step.
 
-I pushed through the cloud of dust and moved forward.
+I advanced through the cloud of dust.
 
 Neither the rocks pouring from the ceiling like rain nor the pitch-black darkness before me could stop my steps.
 
-I simply continued toward the one person somewhere beyond it.
+I simply kept moving toward the one person waiting somewhere beyond.
 
 *What a monster. Not that I expected something like that to kill him.*
 
@@ -294,7 +294,7 @@ I couldn’t see him, but I could feel him—the immense energy coiled within th
 
 But it didn’t frighten me as much as before.
 
-I calmly clenched my fist. The powerful internal energy overflowing from my entire body felt almost tangible in my hand.
+I slowly clenched my fist. The tremendous internal energy overflowing from my entire body felt almost tangible in my grasp.
 
 *Heavenly Power Demon.*
 
@@ -312,7 +312,7 @@ And the Heavenly Power Demon’s first words to me had been completely unexpecte
 
 *Did that bother you so much?*
 
-*Answer the question. I can cut off your breath right now.*
+*Answer the question. I could tear out your throat right now.*
 
 *Wait a few more moments. It’ll give out on its own.*
 
@@ -346,7 +346,7 @@ After agonizing over it, I had chosen to give that up.
 
 Looking back, it had probably been for the best. The Western Heaven Demon Lord wasn’t someone I could defeat with one or two level-ups.
 
-Rather than dying with an unpleasant feeling in my chest, I thought it was better to leave this world feeling relieved.
+Better to die with a clear conscience than with a bitter taste in my mouth.
 
 *Well… this isn’t so bad either.*
 
@@ -384,7 +384,7 @@ As I breathed a sigh of relief, the Western Heaven Demon Lord finally stopped la
 
 “A gift?”
 
-“Yeah. I received internal energy.”
+“Yeah. He gave me his internal energy.”
 
 The Western Heaven Demon Lord exclaimed in realization.
 
@@ -404,15 +404,15 @@ The Western Heaven Demon Lord exclaimed in realization.
 
 “Yeah.”
 
-I quietly nodded. I remembered the Heavenly Power Demon’s words as he transferred his internal energy to me.
+I nodded slowly, recalling the Heavenly Power Demon’s words as he transferred his internal energy to me.
 
 *The Western Heaven Demon Lord…*
 
 “He asked me to kill you.”
 
-Tudududuk. Grab.
+Tudududuk.
 
-When I reached out, White Flame was pulled free from deep within the wall and caught in my hand.
+I reached out. White Flame tore free from deep within the wall and flew into my hand.
 
 The fire dragon, swollen by three jiazi of internal energy, spread its wings.
 
