@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 518
-- Next chapter: 519
-- Current block: 515–519 (4/5)
-- Latest translation: `translations/0518.md`
-- Latest summary: `summaries/beats/0518.md`
-- Safe profiles through: chapter 518
+- Last completed: 519
+- Next chapter: 520
+- Current block: 515–519 (5/5)
+- Latest translation: `translations/0519.md`
+- Latest summary: `summaries/beats/0519.md`
+- Safe profiles through: chapter 519
 
 ## Current Block
 
-- At an inn near Mount Song, Jeok Cheongang, appearing as a middle-aged man after Returned to Youth, meets Nangong Cheon, the Azure Sky Sword King, and invokes their duel promised more than twenty years earlier; they begin fighting with chopsticks as a sword substitute, unleashing overwhelming martial aura and an explosion.
-- A Dark Heaven assault erupts near the New Murim Alliance gathering, prompting Taekyung and Unnamed to lead a large Murim counterattack. Their triumphant charge ends when Taekyung sees a person emerge from a burning building and realizes the apparent fiend is on their side.
+- Jeok Cheongang emerges from a burning inn and is mistaken by the Murim Crusade for a Dark Heaven fiend. Unnamed's attempt to identify him as Hong Dao's master only convinces the mob that Jeok is Hong Dao's killer, until Jeok knocks Moon Beauty Saber into the wreckage.
+- The Thunderbolt Saber King arrives, recognizes Jeok as the Returned-to-Youth Fire King, and later admits that his all-out attack was intended as combat training. Jeok, Taekyung, Unnamed, and the Thunderbolt Saber King argue over the injuries caused by their clash. The Azure Sky Sword King intervenes, and the group reaches the gates of the Murim Alliance.
 
 ## Open Questions
 
@@ -18,7 +18,6 @@
 - What is the Lord of Heaven's identity, and how is he connected to the dangerous force Taekyung associates with his original world?
 - Where is the Southern Heaven Demon Empress ultimately headed, and what does she intend to do in Yunnan?
 - What is the outcome of the duel between Jeok Cheongang and Nangong Cheon, the Azure Sky Sword King?
-- Who is the person emerging from the burning building, and why does Taekyung recognize the apparent fiend as belonging to his side?
 
 ## Exceptional Decision
 
