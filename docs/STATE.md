@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 527
-- Next chapter: 528
-- Current block: 525–529 (3/5)
-- Latest translation: `translations/0527.md`
-- Latest summary: `summaries/beats/0527.md`
-- Safe profiles through: chapter 527
+- Last completed: 528
+- Next chapter: 529
+- Current block: 525–529 (4/5)
+- Latest translation: `translations/0528.md`
+- Latest summary: `summaries/beats/0528.md`
+- Safe profiles through: chapter 528
 
 ## Current Block
 
-- Seven days after the Mount Song Resolution, the restored Murim Alliance's flag draws a constant stream of visitors seeking ties to Jin Taekyung or the Jin Family of Taiyuan. Taekyung handles the visits until reaching Exhaustion after three days, rejects a direct approach from Central Plains Commerce after Hyuk Mujin accepts its bribe, and reflects on the admiration and resentment caused by his and Cheongpung's prominent role in raising the flag. While Taekyung expects the humiliated Zhongnan Sect to obstruct him, Cheongpung spends his free time creating Mimi Step, a snake-inspired high-speed footwork technique based on Mimi's movements.
+- Gung Gibang visits Taekyung and Cheongpung to invite them to meet roughly half of the Ten Dragons and Phoenixes, but Cheongpung refuses because he is full and has recently lost his appetite, choosing instead to refine Mimi Step. Taekyung changes his mind after learning that Ju Hwaran is eagerly awaiting him, recalls her earlier uncertainty and his reassurance, and goes to the gathering, where Hwaran anxiously watches for his arrival.
 
 ## Open Questions
 
