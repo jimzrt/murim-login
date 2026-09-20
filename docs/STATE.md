@@ -1,29 +1,31 @@
 # Translation State
 
-- Last completed: 574
-- Next chapter: 575
-- Current block: 570–574 (5/5)
-- Latest translation: `translations/0574.md`
-- Latest summary: `summaries/beats/0574.md`
-- Safe profiles through: chapter 574
+- Last completed: 575
+- Next chapter: 576
+- Current block: 575–579 (1/5)
+- Latest translation: `translations/0575.md`
+- Latest summary: `summaries/beats/0575.md`
+- Safe profiles through: chapter 575
 
 ## Current Block
 
-- Taekyung pierces the Kraken's eye with White Flame and attacks it with his fists and Flame-Extinguishing Divine Fist. The Kraken reveals that humans gave it power and led it outside, causing Taekyung to suspect that someone deliberately created the Monster Wave by having it absorb unpurified Magic Gems. Taekyung withholds the killing blow to interrogate the Kraken, but it feigns weakness, sprays him with poisonous ink, and inflicts Poisoned and Paralyzed status effects while reducing his Strength and Agility. As Taekyung begins resisting the poison with Scorching Yang Qi, the Myriad-Poison Ring, and Unaﬀected by a Hundred Poisons, the Kraken charges Gwangan Bridge and the survivors awaiting rescue, forcing Taekyung to launch a hellfire-wreathed spear toward it.
+- Jin Taekyung's blue-flame spear kills the Lv. 140 Kraken, triggering the System to award EXP and remove all poison and paralysis through the Myriad-Poison Ring. He regrets losing the chance to identify the mastermind but does not regret killing the Kraken to save survivors, then helps rescue civilians while monster battles continue throughout Busan.
+- At a private Blue House breakfast, President Baek Hanseong and Choi Minwoo discuss Jin Taekyung's mother preparing Choi's meals. Choi realizes that the warm meals with Jin's family have become his sense of home and family, while Baek resolves to bring both men into his camp to restrain Ares Guild and strengthen his own political future.
+- An aide reports that a sudden Monster Wave occurred in Busan and that Jin Taekyung subdued the extra-large named monster. Choi leaves the Blue House to respond, but Butler Kim's phone is answered by Song Cheonwoo, who says he has an urgent matter to discuss.
 
 ## Open Questions
 
-- Who supplied the Kraken with power, led it outside, and possibly engineered the Monster Wave, and why?
-- Did Taekyung's final spear attack kill or incapacitate the Kraken?
-- Will Taekyung fully overcome the Kraken's poison and paralysis?
-- What further evidence can be obtained from the Kraken about the humans behind the disaster?
+- Who empowered and released the Kraken, and did that person engineer the Monster Wave?
+- What urgent matter does Song Cheonwoo need to discuss with Choi Minwoo?
+- What further consequences will follow from the Busan Monster Wave?
+- When and how will Choi Minwoo reunite with Cheon Taemin?
 
 ## Exceptional Decision
 
-- Use Integrated Language Pack for 통합 언어팩 and Demon Realm language for 마계어.
-- Use Kraken's Ink, Poisoned, and Paralyzed as the established System labels.
-- Keep the Kraken's speech fragmented except when it reproduces the unidentified human's smooth Korean speech.
-- Keep hellfire for 겁화 and preserve Taekyung's blunt, profane battle voice.
+- Use King of the Black Sea Kraken for 검은 바다의 왕 크라켄.
+- Use Monster Wave and extra-large named monster for the established disaster terminology.
+- Use tteokguk, sujeonggwa, and kimchi stew for the Korean dishes.
+- Retain System labels Myriad-Poison Ring, Poisoned, and Paralyzed.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

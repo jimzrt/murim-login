@@ -1861,3 +1861,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 통합 언어팩 | **Integrated Language Pack** | System effect that allows Taekyung to understand and speak Demon Realm language. |
 | 크라켄의 먹물 | **Kraken's Ink** | System-named poisonous ink attack. |
 | 마비 | **Paralyzed** | Status abnormality inflicted by Kraken's Ink. |
+| 검은 바다의 왕 | **King of the Black Sea** | System title for the Kraken. |
+| 초대형 네임드 몬스터 | **extra-large named monster** | Classification used for the major Busan monster. |
+| 설 | **Seollal** | Korean Lunar New Year holiday approaching in the breakfast scene. |
+| 떡국 | **tteokguk** | Rice-cake soup prepared for the Seollal breakfast. |
+| 수정과 | **sujeonggwa** | Traditional Korean cinnamon punch served after the meal. |
+| 김치찌개 | **kimchi stew** | Dinner dish Jin Taekyung's mother plans to prepare. |
