@@ -843,3 +843,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 사마표 | 거한 | Young Sect Leader addressing his giant subordinate | This fellow | Informal and patronizing | Refers to him as 이 녀석 while assigning him responsibility for Do Sangho's death. |
 | 정호 | 무명 | Martial Nephew addressing his young Martial Uncle | Martial Uncle | formal-deferential | Jung Ho repeatedly addresses Unnamed as 사숙 after Unnamed emerges from Repentance Cave. |
 | 무명 | 정호 | young Martial Uncle addressing his Martial Nephew | Martial Nephew Jung Ho | formal-polite and reassuring | Unnamed addresses Jung Ho as 정호 사질 while consoling him and discussing Hong Dao's will. |
+| 정호 | 진태경 | Shaolin Discipline Hall Master to patient and Benefactor | Benefactor Jin | formal-polite | Jung Ho repeatedly uses 진 시주 and 시주. |
+| 진태경 | 정호 | patient to Shaolin Discipline Hall Master | Monk | polite and familiar | Taekyung addresses Jung Ho as 스님. |

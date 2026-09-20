@@ -1682,3 +1682,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대초자곤 | **two-section staff** | Weapon carried by Sama Pyo's giant subordinate. |
 | 계율원주 | **Discipline Hall Master** | Shaolin office held by Jung Ho. |
 | 십이지파 | **Twelve Branches of the Demonic Cult** | The Demonic Cult's twelve affiliated branches, one of which formerly included the Black Dragon Demon Gate. |
+| 박정호 | **Park Jung Ho** | Jung Ho's identity as Taekyung's former Garam Middle School classmate. |
+| 크리링 | **Krillin** | Pop-culture reference used for Jung Ho's shiny bald head. |
+| 순복음교회 | **Full Gospel Church** | Church referenced in Taekyung's joke about Jung Ho becoming a monk. |
