@@ -980,3 +980,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | ally_to_ally | Human | blunt, subdued, and concerned | Skeleton King repeatedly addresses Taekyung as 인간 while urging him to release Hwajong. |
 | 길드원 | 진태경 | Peace Guild member to allied S-rank Hunter | Hunter Jin Taekyung | formal-polite and hesitant | A Guild member addresses Taekyung as 진태경 헌터님 while asking whether Choi should be awakened. |
 | 보안팀장 | 진태경 | Ares Security Team Leader to an intruding Hunter | Mr. Jin | formal-polite under pressure | The Security Team Leader repeatedly addresses Jin as 진태경 씨 while ordering him to withdraw. |
+| 중년 여성 | 진태경 | Ares healer Team Leader to invading Hunter | Mr. Jin Taekyung | formal and wary | Uses 진태경 씨 while questioning why Jin is attacking. |
+| 진태경 | 중년 여성 | invading Hunter to Ares healer Team Leader | you | hostile and accusatory | Uses 당신 while blaming her and the other healers for obstructing him. |
+| 진태경 | 힐러 | invading Hunter to Ares healers | you people | profane and contemptuous | Uses 당신들이 while demanding that the healers save their fallen comrades and question Go Jun's order. |

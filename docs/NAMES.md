@@ -1895,3 +1895,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 멀티 샷 | **Multi Shot** | The Security Team Leader's ten-arrow attack. |
 | 바인딩 | **Binding** | A restraining spell used by the mage unit. |
 | 타워 실드 | **Tower Shield** | Large defensive shields used by the tanks. |
+| 지사장 | **Director** | Ares title used for Song Cheonwoo in 송 지사장. |
+| 사냥개 | **hunting dog** | Jin's demeaning metaphor for Ares personnel who obey Go Jun. |
+| 철옹성 | **impregnable fortress** | Metaphor for Ares Guild's entrenched defenses. |
+| 대역 | **stand-in** | Jin's term for the substitute Go Jun used to fake Song Cheonwoo's departure. |
+| 효웅 | **ambitious warlord** | Archetype used for Lee Jungryong as a ruthless, ambitious ruler. |

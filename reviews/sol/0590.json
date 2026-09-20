@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The powerful defensive Magic layered throughout the area collapsed beneath the ultra-high temperature. Even the ceiling, made from exceptionally durable magical materials, melted away.",
+      "defect": "The source says both the layered defensive Magic and the ceiling collapsed and melted; the draft assigns only one destructive effect to each.",
+      "id": "F01",
+      "rationale": "The shared predicates 무너지고 녹아내렸다 apply to both subjects.",
+      "replacement": "Layer after layer of powerful defensive Magic—and even the ceiling, made from exceptionally durable magical materials—collapsed and melted beneath the extreme heat.",
+      "severity": "minor",
+      "source": "겹겹이 설치된 강력한 방어 마법도, 단단하기 그지없는 마법 재료로 만들어진 천장도 초고온의 열기에 무너지고 녹아내렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the end of the corridor, more than a dozen healers stood with their mouths hanging open, staring at the scene before them.",
+      "defect": "십여 명 means roughly ten or a dozen, not more than twelve; the draft increases the stated number.",
+      "id": "F02",
+      "rationale": "The replacement preserves the source's approximate quantity without imposing a minimum of thirteen.",
+      "replacement": "At the end of the corridor, a dozen or so healers stood with their mouths hanging open, staring at the scene before them.",
+      "severity": "critical",
+      "source": "복도의 끝에서 십여 명의 힐러가 입을 딱 벌린 채 자신들의 눈 앞에 펼쳐진 광경을 바라보고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "That was why I had stopped the feet that had been about to leave.",
+      "defect": "The literal rendering is unnatural and obscures that Taekyung deliberately stopped instead of walking away.",
+      "id": "F03",
+      "rationale": "굳이 emphasizes his deliberate choice to remain when he otherwise intended to leave.",
+      "replacement": "That was precisely why I stopped instead of simply walking away.",
+      "severity": "minor",
+      "source": "굳이 떠나려던 발걸음을 멈춘 이유는 바로 그 때문이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I don’t think people who came swarming over to kill me because of those four letters—Code Red—have the right to say that.”",
+      "defect": "Code Red does not consist of four English letters; mechanically retaining the Korean character count produces a false and distracting statement.",
+      "id": "F04",
+      "rationale": "그 네 글자 refers to the four Korean written syllable blocks in 코드 레드; “those words” preserves the rhetorical reference naturally in English.",
+      "replacement": "“I don’t think people who came swarming over to kill me over those words—Code Red—have any right to say that.”",
+      "severity": "minor",
+      "source": "코드 레드. 그 네 글자에 나 죽이겠다고 우르르 몰려온 인간들이 할 소린 아닌 것 같은데."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I had always doubted what kind of person I was. I had always questioned whether my choices were right.",
+      "defect": "The draft changes the specific present choice into Taekyung's choices in general and loses the source's emphatic repetition of doubt.",
+      "id": "F05",
+      "rationale": "이 선택 is singular and immediate, while 의심하고 또 의심했다 explicitly repeats the act of questioning.",
+      "replacement": "What kind of person was I? Was this choice right? I questioned myself again and again.",
+      "severity": "major",
+      "source": "스스로가 어떤 사람인지. 이 선택이 맞는지 늘 의심하고 또 의심했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Please, don’t give me bullshit about not having enough money to raise your kids or living with your widowed mother. You’re not starving right now.”",
+      "defect": "모시고 살다 means supporting and caring for one's widowed mother, not merely living with her; the draft weakens the hardship being invoked as an excuse.",
+      "id": "F06",
+      "rationale": "The honorific construction 모시고 살아서 presents the mother as a dependent whom the speaker must care for.",
+      "replacement": "“Please, don’t give me bullshit about not having enough money to raise your kids or needing to support your widowed mother. You’re not starving right now.”",
+      "severity": "major",
+      "source": "부탁인데 애들 키울 양육비가 부족해서, 홀어머니를 모시고 살아서, 뭐 그런 개 같은 소리는 하지 마. 당신들은 지금도 그렇게 배고픈 처지가 아니잖아."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I had once dreamed of becoming just like them.",
+      "defect": "The source says Taekyung once dreamed of their successful life of wealth and honor, not of becoming like these people in character.",
+      "id": "F07",
+      "rationale": "모습 points back to the successful condition just described; “becoming just like them” implies identification with the people themselves.",
+      "replacement": "I had once dreamed of that kind of life myself.",
+      "severity": "minor",
+      "source": "한때 나 역시 꿈꿨던 모습이니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The middle-aged man had crossed the distance with lightning speed and slapped the archer on the cheek. Then he looked back at me.",
+      "defect": "The draft invents the man crossing a distance and omits that the archer was standing to his right.",
+      "id": "F08",
+      "rationale": "The source describes only the rapid slap and explicitly locates the archer on the man's right.",
+      "replacement": "The middle-aged man slapped the archer on his right across the face with lightning speed, then looked at me.",
+      "severity": "minor",
+      "source": "번개 같은 속도로 오른쪽에 있던 궁수의 뺨을 후려갈긴 중년인이 나를 바라보았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Idiots.”",
+      "defect": "“Idiots” sanitizes the force of the deliberately harsh insult 병신들.",
+      "id": "F09",
+      "rationale": "병신들 is a strongly offensive insult, and the surrounding narration establishes Taekyung's openly profane register.",
+      "replacement": "“Fucking morons.”",
+      "severity": "minor",
+      "source": "“병신들.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The statue’s face was so lifelike that I had no trouble recognizing it, despite there being no way to call it an ordinary statue.",
+      "defect": "The added “despite” creates a nonsensical opposition between the statue's exceptional realism and Taekyung's ability to recognize the face.",
+      "id": "F10",
+      "rationale": "The source gives two compatible facts: the statue is exceptionally lifelike, and its face is easy for Taekyung to recognize.",
+      "replacement": "The statue was too lifelike to be called a mere stone figure, and I recognized the face without difficulty.",
+      "severity": "major",
+      "source": "나는 단순한 석상이라고 부를 수 없을 만큼 생동적인 석상의 얼굴을, 어렵지 않게 알아볼 수 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“There are two choices. Put down your weapons and clear a path, or protect my back.”",
+      "defect": "“Protect my back” is an unnatural literal rendering of 내 뒤를 지키다 in this combat context.",
+      "id": "F11",
+      "rationale": "“Watch my back” naturally conveys the command to guard him from behind and join his side.",
+      "replacement": "“There are two choices. Put down your weapons and clear a path, or watch my back.”",
+      "severity": "minor",
+      "source": "“둘 중 하나다. 무기를 내려놓고 길을 트던가, 그것도 아니라면 내 뒤를 지키든가.”"
+    }
+  ],
+  "summary": "Several localized fidelity and register issues, including one altered quantity, an invented movement, softened profanity, and a garbled description of the statue.",
+  "version": 1
+}
