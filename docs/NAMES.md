@@ -1764,3 +1764,16 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 칼밥통 무림맹 공무원 | **Murim Alliance Civil Servant with a Sword Rice Bowl** | Rare achievement title. |
 | 쟤 모르면 암천 | **If You Don't Know Him, You Must Be Dark Heaven** | Outstanding achievement title. |
 | 위압 | **Intimidation** | System attribute strengthened by the achievement reward. |
+| 청룡각 | **Azure Dragon Pavilion** | Cheongpung's division within the Two Dragons Pavilion. |
+| 청룡각주 | **Azure Dragon Pavilion Master** | Cheongpung's current title. |
+| 만두각 | **Dumpling Pavilion** | Cheongpung's rejected proposed pavilion name. |
+| 당과각 | **Sweetmeat Pavilion** | Cheongpung's alternate rejected proposed pavilion name. |
+| 김부각 | **Gim Bugak** | Korean snack used as a joke on the pavilion-name suffix. |
+| 오왕전주 | **Five Kings Hall Master** | Mae Jonghak's teasing title for Jeok Cheongang. |
+| 이전 | **Two Halls** | Top-level Murim Alliance organizational grouping. |
+| 오각 | **Five Pavilions** | Inner Hall organizational grouping. |
+| 오원 | **Five Gardens** | Murim Alliance organizational grouping. |
+| 십단 | **Ten Squads** | The source writes the title as 십단 but gives the parenthetical characters 九團, literally Nine Squads. |
+| 정기 | **vital essence** | Energy the Wudang Sect Leader says the monster absorbs from victims. |
+| 변이체 | **mutant** | Taekyung's classification for the monster. |
+| 시취 | **corpse stench** | The odor Taekyung recognizes from the covered body. |

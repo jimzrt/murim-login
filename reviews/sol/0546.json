@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "In just over a year, he had gone from sitting at the helm of the Jin Family of Taiyuan under the title of Acting Family Head—while the family slowly declined—to becoming one of the people gathered here.",
+      "defect": "The draft reverses Wikyung’s achievement: it says the family continued declining under him, whereas he caused the previously declining family to grow at a tremendous rate.",
+      "id": "F01",
+      "rationale": "서서히 몰락해 가던 가문 is the object of 무섭게 성장시킨: Wikyung rapidly grew a family that had been declining.",
+      "replacement": "In the space of just a year and several months, he had taken the helm of the Jin Family of Taiyuan as Acting Family Head and brought astonishing growth to a family that had been slowly declining. Before anyone knew it, he had become one of their number.",
+      "severity": "critical",
+      "source": "불과 일 년 하고도 수개월. 가주 대행이라는 이름으로 태원진가의 사령탑에 앉아 서서히 몰락해 가던 가문을 무섭게 성장시킨 그는, 어느덧 이들 중 한 사람이 되어 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Every person gathered here was an important institution and cog that helped move the enormous organization known as the Murim Alliance.",
+      "defect": "Calling each individual an “institution” is an unnatural and misleading rendering of 기관 in this mechanical metaphor.",
+      "id": "F02",
+      "rationale": "기관 here means a functional organ or component, paired metaphorically with 톱니바퀴, not a social institution.",
+      "replacement": "Each person gathered here was a vital part of the vast Murim Alliance, one of the cogs that kept it moving.",
+      "severity": "minor",
+      "source": "이 자리에 모인 한 사람, 한 사람이 무림맹이라는 거대한 단체를 움직이는 중요한 기관이자 톱니바퀴니까."
+    },
+    {
+      "confidence": 0.95,
+      "current": "If the leaders of the divisions belonging to the Outer Hall and the Squad Commanders were added, even this vast conference hall would not have enough room. They would have to use the training ground.",
+      "defect": "The draft renders 단주 as “leaders of the divisions,” conflating their units with the established Divisions denoted by 당 and distorting the Outer Hall’s hierarchy.",
+      "id": "F03",
+      "rationale": "단주 and 대주 are two leadership levels within the Outer Hall; neither occurrence identifies 단 as one of the established Divisions.",
+      "replacement": "If the unit heads and squad commanders of the Outer Hall were included, even this vast conference hall would not have enough room. They would have to use the training ground.",
+      "severity": "major",
+      "source": "외당(外堂)에 속한 단주며, 대주들까지 더한다면 이 넓은 대회의실로도 자리가 부족해서 연무장을 써야 할 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*I thought so too, but Grandpa Mung said he hated it. He threatened to quit if I used a name like that.*\n\n*It was that bad? What name did you want to use originally?*\n\n*Dumpling Pavilion.*\n\n*……*\n\n*Or maybe Sweetmeat Pavilion.*\n\n*……Oh. Right.*\n\n*Hoo. I hate Grandpa Mung. What’s so great about Azure Dragon Pavilion, anyway?*",
+      "defect": "문 할아버지 addresses Mungyeong by his surname, Mun; “Grandpa Mung” incorrectly truncates the established full-name romanization.",
+      "id": "F04",
+      "rationale": "문 is the surname Mun in 문경, while “Mung” results only from joining Mun and Gyeong in the established spelling Mungyeong.",
+      "replacement": "*I thought so too, but Grandpa Mun said he hated it. He threatened to quit if I used a name like that.*\n\n*It was that bad? What name did you want to use originally?*\n\n*Dumpling Pavilion.*\n\n*……*\n\n*Or maybe Sweetmeat Pavilion.*\n\n*……Oh. Right.*\n\n*Hoo. I hate Grandpa Mun. What’s so great about Azure Dragon Pavilion, anyway?*",
+      "severity": "minor",
+      "source": "‘저도 그렇게 생각했는데, 문 할아버지는 싫대요. 그런 이름이라면 차라리 때려치울 거라고 으름장을 놓으셨어요.’\n\n‘그 정도였다고? 처음 생각한 이름은 뭐였는데?’\n\n‘만두각이요.’\n\n‘…….’\n\n‘아니면 당과각.’\n\n‘……어, 그래.’\n\n‘후우. 문 할아버지가 미워요. 청룡각이 뭐예요, 청룡각이.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^1]: Gim bugak is a Korean snack made from seasoned seaweed coated in rice paste and fried.",
+      "defect": "The footnote explains the food but omits the wordplay that makes Gim Bugak a suggested pavilion name.",
+      "id": "F05",
+      "rationale": "The joke depends on 김부각 ending in 각, the same sound and spelling used for “Pavilion” in names such as 청룡각.",
+      "replacement": "[^1]: Gim bugak is a Korean snack made from seasoned seaweed coated in rice paste and fried. Its final syllable, *gak*, sounds the same as the Korean word rendered “Pavilion” in the names above.",
+      "severity": "minor",
+      "source": "이럴 거면 차라리 김부각으로 하지 그랬냐."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Didn’t they say an orc takes only a month to reach adulthood?*",
+      "defect": "The established monster-species term is capitalized as “Orc.”",
+      "id": "F06",
+      "rationale": "The binding glossary establishes 오크 as “Orc.”",
+      "replacement": "*Didn’t they say an Orc takes only a month to reach adulthood?*",
+      "severity": "minor",
+      "source": "오크가 성인 개체가 되기까지 한 달이 걸린다고 했나."
+    }
+  ],
+  "summary": "One critical reversal of the Jin Family’s recovery, one hierarchy error, and several localized terminology and wording defects.",
+  "version": 1
+}
