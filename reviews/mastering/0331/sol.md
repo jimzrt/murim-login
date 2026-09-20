@@ -48,7 +48,7 @@ It had already been more than ten years since he reached the Peak realm. Now, ho
 
 He had tried consuming stolen elixirs and even smoking opium, which was said to reveal sights one had never experienced before. All of it had been a waste of time.
 
-*This is going to be difficult at this rate.*
+*At this rate, I’ll never break through.*
 
 Water Dragon Stronghold was one of the ten largest strongholds in the Yangtze River Channel League.
 
@@ -66,7 +66,7 @@ The proof was that he had become lord of Water Dragon Stronghold more than ten y
 
 “Whooo…”
 
-The man drew a long breath. As he drew in and circulated the natural qi permeating the air, his sharpened senses gathered information from his surroundings.
+The man slowly exhaled. As he drew in and circulated the natural qi permeating the air, his sharpened senses gathered information from his surroundings.
 
 The damp smell of water. The swift ship gradually slowing beneath him. Even the shouts and laughter of his subordinates.
 
@@ -92,7 +92,7 @@ Boom! Crack! Thud! Th-th-th-thump!
 
 A savage barrage of noise erupted, and then everything fell silent.
 
-*It seems to be over.*
+*It seems they’re finished.*
 
 Somewhat mollified, the man closed his eyes again.
 
@@ -142,7 +142,7 @@ The young man answered with a faint smile.
 
 “The owner of this ship.”
 
-Flames poured from the eyes of the man known as the Ship-Fire Boy, Mu Song.
+Flames blazed in the eyes of the man known as the Ship-Fire Boy, Mu Song.
 
 “How dare a little pup like you… I’ll show you the sky.”
 
@@ -150,9 +150,9 @@ Flames poured from the eyes of the man known as the Ship-Fire Boy, Mu Song.
 
 I kicked the leg of the middle-aged man sprawled flat on his back across the deck.
 
-“How long are you going to keep staring at the sky? Get up. Quickly.”
+“How long are you going to stare at the sky? Hurry up and get up.”
 
-Focus returned to his hazy eyes. The middle-aged man propped up his upper body and stared at me with a dazed expression.
+Focus returned to his glassy eyes. He pushed himself upright and stared at me in a daze.
 
 “H-how did you defeat the Ship-Breaking Fist so easily…?”
 
@@ -188,7 +188,7 @@ In any case, the middle-aged man before me had learned the same martial art as t
 
 After blinking at me like a goldfish, he stammered in a trembling voice.
 
-“W-were you acquainted with my youngest?”
+“Y-you know my youngest?”
 
 “Your youngest?”
 
@@ -236,9 +236,9 @@ I helped the bewildered middle-aged man to his feet and brushed the dust from hi
 
 “Of course. Do I look like the sort of ill-bred junior who would lie to his Senior?”
 
-The middle-aged man stared at me for a moment, then cautiously shifted his gaze upward.
+The middle-aged man stared at me for a moment, then slowly shifted his gaze upward.
 
-I followed his eyes and saw a flag rising high above the fast ship.
+I followed his eyes and saw a flag flying high above the swift ship.
 
 The words emblazoned across it were large enough to read from a hundred meters away.
 
@@ -290,7 +290,7 @@ As I doubted my ears, Cheongpung answered with an innocent smile.
 
 It seemed Mu Song had lined up his subordinates and was beating them one after another with an oar.
 
-They had mistakenly attacked a passenger ship and suffered a tremendous humiliation, so I supposed it was understandable.
+They had attacked a passenger ship for no reason and ended up humiliating themselves, so I supposed it was understandable.
 
 “Pretend you didn’t see anything. You saw nothing.”
 
@@ -320,7 +320,7 @@ Hyuk Mujin answered.
 
 “…Your seasickness is pretty bad. Get some rest.”
 
-For someone who was supposedly a First Rate master, he was still in terrible shape.
+For someone who was supposedly a first-rate master, he was still in terrible shape.
 
 Cheongpung watched Hyuk Mujin cling to the railing and dry-heave again and again, then twisted enviously from side to side.
 
@@ -330,17 +330,17 @@ Cheongpung watched Hyuk Mujin cling to the railing and dry-heave again and again
 
 Lucky you. So many things you still want to experience.
 
-Maybe it was because I was on a boat, but today I was experiencing the power of the Bermuda Triangle all over again.
+Maybe it was because I was on a boat, but today I found myself appreciating the power of the Bermuda Triangle all over again.
 
-*Am I going to end up adrift on the Yangtze?*
+*Am I going to end up stranded on the Yangtze at this rate?*
 
 As that thought crossed my mind, the hulking Mu Song landed on the deck using a light, elusive movement technique completely at odds with his massive build.
 
 He tossed the blood-soaked oar to a subordinate and approached me.
 
-“Are you uncomfortable anywhere?”
+“Is anything uncomfortable?”
 
-“Ah, yes. I’m comfortable, Senior.”
+“Ah, no. I’m perfectly comfortable, Senior.”
 
 Mu Song glanced at Hyuk Mujin, who was still dry-heaving.
 
@@ -352,7 +352,7 @@ Mu Song glanced at Hyuk Mujin, who was still dry-heaving.
 
 “Is there a problem?”
 
-“No, no. In any case, you’re headed to Chengdu?”
+“N-no. In any case, you said you’re headed to Chengdu?”
 
 “Yes. How long will it take?”
 
@@ -372,15 +372,15 @@ Mu Song was being so cooperative because he had learned who our group was.
 
 I was the Disciple of the Fire King, Jeok Cheongang. Gung Gibang was the Successor Beggar of the Beggars’ Sect. Cheongpung had inherited the true transmission of the Sword Saint, Mae Jonghak.
 
-And finally, the great Jin Family of Taiyuan’s…
+And finally, from the great Jin Family of Taiyuan…
 
 Ah, let’s leave that last one out.
 
-“In any case, Chengdu is close, so rest comfortably while you wait. This Mu Song has the rivers flowing through Sichuan firmly under his control.”
+“In any case, Chengdu isn’t far. Rest comfortably until we arrive. This Mu Song has every river in Sichuan firmly under his control.”
 
 “Wow. That’s impressive, Senior.”
 
-“Without my orders, no one dares do anything foolish on the Yangtze. Hahahaha!”
+“Without my orders, no one dares cause trouble on the Yangtze. Hahahaha!”
 
 At that exact moment, faint cries drifted over from far away.
 
@@ -390,7 +390,7 @@ At that exact moment, faint cries drifted over from far away.
 
 I muttered as the distant screams reached us.
 
-“They seem pretty good at doing foolish things…”
+“They seem pretty comfortable causing trouble…”
 
 Mu Song’s face flushed bright red.
 
