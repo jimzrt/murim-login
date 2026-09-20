@@ -6,7 +6,7 @@ A spearhead wreathed in blue flame plunged toward the crown of a man’s head.
 
 It was the claw of a fire dragon descending from the heavens—a force of destruction that could erase anything in its path.
 
-*This is…*
+*This…*
 
 In a moment split into ever-smaller fragments, the Western Heaven Demon Lord thought,
 
@@ -48,7 +48,7 @@ I tore off my leather shoes, their soles completely gone, tossed them aside, and
 
 Even through the thick cloud of dust, I could see the Western Heaven Demon Lord’s stiff expression.
 
-He silently looked down at the sword blade broken clean in half and his blood-soaked grip before opening his mouth.
+He silently studied the sword broken clean in half, then his blood-soaked hand.
 
 “That spear is a divine weapon.”
 
@@ -72,21 +72,21 @@ The Western Heaven Demon Lord’s gaze swept over me.
 
 I wasn’t surprised. I had already sensed that Cheongpung had broken through the wall and reached Supreme Peak.
 
-The Western Heaven Demon Lord’s accurate assessment of my martial arts realm followed the same logic.
+The Western Heaven Demon Lord had discerned my realm just as easily.
 
 “Was that a compliment?”
 
-“Of course. But do not be too pleased. I do not like people who exceed my expectations.”
+“Of course. But don’t be too pleased. I dislike people who defy my expectations.”
 
-Speaking in a low voice, the Western Heaven Demon Lord clenched and unclenched his bloodied palm. Sticky blood dripped down, wetting the rocks and sand.
+The Western Heaven Demon Lord spoke quietly as he clenched and opened his bloodied hand. Thick blood trickled down, wetting the rocks and sand.
 
 “My execution of Four Ounces Deflecting a Thousand Catties was flawless. Yet I still failed to redirect your strike completely. A strike from a green young man who has not even advanced beyond Peak.”
 
 Four Ounces Deflecting a Thousand Catties—the martial principle of controlling a thousand catties with only four ounces.
 
-And just as he said, the Western Heaven Demon Lord’s use of Four Ounces Deflecting a Thousand Catties had been flawless. Even after being caught off guard, his attempt to calmly and precisely redirect Heavenly Strike had been impressive enough to earn my secret admiration.
+And just as he said, the Western Heaven Demon Lord’s execution had been flawless. Even after being caught off guard, he had remained calm and tried to redirect Heavenly Strike with astonishing precision. I couldn’t help but admire it.
 
-But if there was one thing he had failed to anticipate…
+There was only one thing he had failed to anticipate.
 
 “I’m a little stronger than I look.”
 
@@ -104,7 +104,7 @@ But I defied common sense.
 
 I stared at the nodding Western Heaven Demon Lord in disbelief.
 
-“…What exactly do you understand?”
+“…What the hell do you understand?”
 
 “Live long enough and you experience all manner of things. Compared to the supernatural powers I know of, what you’ve shown is merely a drop in the bucket.”
 
@@ -282,13 +282,13 @@ I steadied my breathing and slowly walked forward through the stones raining dow
 
 Driven deep into the solid rock, the Western Heaven Demon Lord stared at me with unfocused eyes.
 
-“I was definitely trying to catch the spear… How did you…”
+“I was certain I would catch the spear… How did you…?”
 
 “It’s probably something like those supernatural powers you believe in.”
 
 “Cough. I see. Then is that also how you suddenly became faster?”
 
-“Yeah. A few perfectly good lives were wasted because of you. They were bastards who deserved to die anyway, though.”
+“Yeah. I had to waste a few lives because of you. They deserved to die anyway, though.”
 
 “What do you mean?”
 
@@ -310,7 +310,7 @@ The difference was that the Essence-Siphoning Great Technique absorbed an oppone
 
 Instead of destroying the prisoners’ dantians, the Sichuan Tang Clan had chosen to suppress their internal energy and shackle them.
 
-That way, they could live longer. That way, the clan could make them taste hell through prolonged torture.
+That way, they would live longer. The clan could take its time torturing them and make them experience hell.
 
 Thanks to that, the dozen or so prisoners other than the Heavenly Power Demon had become nourishment for me.
 
