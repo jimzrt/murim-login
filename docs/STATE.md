@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 528
-- Next chapter: 529
-- Current block: 525–529 (4/5)
-- Latest translation: `translations/0528.md`
-- Latest summary: `summaries/beats/0528.md`
-- Safe profiles through: chapter 528
+- Last completed: 529
+- Next chapter: 530
+- Current block: 525–529 (5/5)
+- Latest translation: `translations/0529.md`
+- Latest summary: `summaries/beats/0529.md`
+- Safe profiles through: chapter 529
 
 ## Current Block
 
-- Gung Gibang visits Taekyung and Cheongpung to invite them to meet roughly half of the Ten Dragons and Phoenixes, but Cheongpung refuses because he is full and has recently lost his appetite, choosing instead to refine Mimi Step. Taekyung changes his mind after learning that Ju Hwaran is eagerly awaiting him, recalls her earlier uncertainty and his reassurance, and goes to the gathering, where Hwaran anxiously watches for his arrival.
+- At the inn, Ju Hwaran waits anxiously for Jin Taekyung and is visibly disappointed when a different guest arrives. Baek Woo and Hwangbo Ak exchange Sound Transmission about her feelings and Taekyung's reputation. Hwangbo Ak, the Hwangbo Family's Lesser Family Head and a member of the Ten Dragons and Phoenixes, is infatuated with Hwaran and bitterly resents Taekyung, while Baek warns him not to provoke the monster who humiliated both Baek and Gung Gibang at the Star-Array Grand Banquet. Hwangbo insists that Jeok Cheongang accomplished Taekyung's feats and merely gave the credit to his Disciple. Hwangbo then insults Hwaran's young escort and a nearby group as lowborn practitioners of demonic, heterodox arts, prompting someone at that table to rise.
 
 ## Open Questions
 
