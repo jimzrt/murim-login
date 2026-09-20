@@ -8,16 +8,16 @@ I had taken a step into a place that had always been beyond my reach, and I felt
 
 How could I put this…?
 
-*This is incredible.*
+*It’s fucking incredible.*
 
-A faint smile had already formed at the corners of my mouth.
+A faint smile had already formed on my lips.
 
 Ding. Ding. Ding.
 
 > **System**
 >
-> - The realm of **Fire Gate Divine Technique** has advanced to the eighth stage.
-> - The realm of **Fire Dragon Divine Spear** has advanced to the eighth stage!
+> - **Fire Gate Divine Technique** has advanced to the eighth stage.
+> - **Fire Dragon Divine Spear** has advanced to the eighth stage!
 > - **Flamefire Path** has advanced to…!
 
 System notifications rang out without pause, announcing advances in my martial arts, the resulting Level Ups, and completed achievements.
@@ -26,7 +26,7 @@ Qi like molten lava surged from deep within me. I felt not the slightest fear of
 
 “Die!”
 
-A scream-like shout. A face twisted like a fiend.
+A scream of a shout. A face twisted like a fiend’s.
 
 Nothing remained of the genial, smiling middle-aged man he had once appeared to be.
 
@@ -38,9 +38,9 @@ Ink-black Sword Force, wreathed in savage killing intent, came crashing down lik
 
 But…
 
-*In the end, you were human too.*
+*In the end, you were only human too.*
 
-The Western Heaven Demon Lord was already exhausted from his injuries and fatigue, and his excessive rage had scattered his mind.
+The Western Heaven Demon Lord was already exhausted from his wounds and the long battle, and his excessive rage had thrown his mind into disarray.
 
 When the mind wavered, so did the qi. A needle couldn’t pierce a boulder, but it could slip through the gaps between grains of sand.
 
@@ -150,9 +150,9 @@ But even so, one fact remained unchanged.
 
 There was something almost heroic in the Western Heaven Demon Lord’s declaration.
 
-The Western Heaven Demon Lord’s shout carried an almost heroic grandeur. Two voices—one old, one young—immediately followed.
+Two voices—one old, one young—immediately answered him.
 
-“What kind of bullshit are you spouting now?”
+“What manner of bullshit are you babbling now?”
 
 “Sounds less like Dark Heaven and more like Darkcheonji.[^1] Hey, try saying, ‘Lee Man-ui is a son of a bitch.’”
 
@@ -172,7 +172,7 @@ A moment later, blood trickled from one man’s lips.
 
 The Western Heaven Demon Lord staggered beneath the tremendous impact he had taken head-on.
 
-Under normal circumstances, perhaps it would have been different. But for a man who had already suffered serious injuries, the joint attack of two Supreme Peak masters was truly threatening.
+Under normal circumstances, perhaps things would have been different. But in his already grievously wounded state, the combined assault of two Supreme Peak masters posed a deadly threat.
 
 Even so, the Western Heaven Demon Lord refused to give up.
 
@@ -216,7 +216,9 @@ A burning agony seized him, and something hot surged up his throat.
 
 “GWAAAAAAGH!”
 
-Black blood mixed with pieces of his organs sprayed out. Before the blood could even reach the ground, a brief sound of something cutting through the air pierced the Western Heaven Demon Lord's ears.
+Black blood mixed with pieces of his organs sprayed from his mouth.
+
+Before it could strike the ground, a series of sharp whistles pierced the Western Heaven Demon Lord’s ears.
 
 Ssssh-sh-sh-sh!
 
@@ -236,7 +238,7 @@ Every clash unleashed a tremendous roar and shock wave, shaking the underground 
 
 But it wasn’t over.
 
-“Do you have time to look away?”
+“You have time to look away?”
 
 The cold voice sounded just as Jeok Cheongang’s Flame-Extinguishing Divine Fist drove into the Western Heaven Demon Lord’s side.
 
@@ -254,13 +256,15 @@ Even as he writhed in agony, the Western Heaven Demon Lord drew up all his remai
 
 BOOM! KWA-KWAKWANG!
 
-The ground, ceiling, pillars, and rocks. The manifested ink-colored Force shot out without discrimination. Everything it touched turned to dust or was sliced apart like tofu.
+The ground, the ceiling, the pillars, the rocks—manifested ink-black Force shot toward everything without distinction.
+
+Everything it touched exploded into dust or was sliced apart like tofu.
 
 Yet the two people who should have been its targets had already torn through the net of Force and reached the Western Heaven Demon Lord.
 
 Shhk!
 
-The Force gathered on the transparent spearhead slashed diagonally through the Western Heaven Demon Lord's upper body, while the two flame-wreathed palms struck his collapsing chest.
+The Force gathered upon the transparent spearhead carved diagonally through his upper body. Two flame-wreathed palms slammed into his collapsing chest.
 
 BOOM! KWAANG!
 
@@ -270,7 +274,7 @@ The Western Heaven Demon Lord was hurled away like a cannonball in agony unlike 
 
 His body smashed through solid rock and buried itself deep within the wall.
 
-“Ghk, ghek.”
+“Ghk… ghek.”
 
 A grotesque groan escaped him as he blinked.
 
@@ -278,7 +282,7 @@ Through his blurred vision, he saw two figures approaching.
 
 *Is this how I die?*
 
-The Western Heaven Demon Lord thought blankly.
+The Western Heaven Demon Lord stared blankly.
 
 For many long years, he had reigned over others as one of the strong. He had taken pleasure in trampling the weak and stealing everything they cherished.
 
@@ -304,7 +308,7 @@ Nor did they belong to the Western Heaven Demon Lord.
 
 At that moment, Jeok Cheongang and Jin Taekyung shouted like thunder.
 
-“No way…”
+“Impossible…!”
 
 “The Lord of Heaven!”
 
@@ -312,9 +316,9 @@ Rumble-rumble!
 
 A terrifying energy spread from the Western Heaven Demon Lord—or rather, from the being temporarily borrowing his body—and shook the ground and ceiling.
 
-An ink-colored current writhed like a tentacle from the stump of his torn-off arm, slowly sealing the wound that had been gushing blood like a waterfall.
+An ink-black current writhed like tentacles from the stump of his missing arm, slowly sealing the wound that had been pouring blood like a waterfall.
 
-“Worship me. Submit before omnipotent power.”
+“Worship me. Submit before my omnipotent power.”
 
 Plop. Plop.
 
@@ -356,7 +360,7 @@ Time began to flow again.
 
 With it came complete exhaustion and pain that made my entire body feel as though it were breaking apart.
 
-*I want to collapse just like this.*
+*I want to collapse right here.*
 
 My arms, my legs, my fingers, every last strand of muscle—every part of my body felt ready to snap.
 
@@ -392,9 +396,9 @@ I barely managed to raise my middle finger.
 
 No answer came.
 
-Beyond the drifting ash, System notifications announcing Quest success and Level Up rang out.
+Beyond the drifting ash, System notifications rang out, announcing the Quest’s completion and another Level Up.
 
-But the mental fatigue caused by the battle did not recover.
+But a Level Up couldn’t heal the mental exhaustion left by the battle.
 
 I only wanted to collapse right there.
 
@@ -404,13 +408,15 @@ Grab.
 
 A wrinkled hand caught me by the shoulder.
 
-It belonged to Jeok Cheongang, the Fire King. When I saw his welcome face, I suddenly remembered something I needed to say.
+The Fire King, Jeok Cheongang.
+
+The moment I saw his familiar face, something I needed to ask suddenly came to mind.
 
 “How was it?”
 
 “What?”
 
-“One Annihilation. It was incredible, right?”
+“One Annihilation. Fucking incredible, right?”
 
 The concern filling Jeok Cheongang’s face slowly melted away.
 
