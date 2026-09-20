@@ -1705,3 +1705,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 맹주부 | **Alliance Leader's Office** | Office directly serving the Alliance Leader. |
 | 은잠술 | **concealment technique** | Technique used by Hidden Shadow Pavilion agents to hide their presence. |
 | 식경 | **half an hour** | Time limit given for the requested reports. |
+| 칠공 | **seven apertures** | The seven bodily openings through which Taekyung's overflowing heat escapes. |
+| 단환 | **pill** | A martial elixir in pill form; Mungyeong gives Taekyung a custom-made one. |
+| 저승사자 | **Grim Reaper** | Mungyeong's threatening self-description during the banter. |
+| 저그 | **Zerg** | Taekyung's monster-comparison joke. |
+| 나이아가라 폭포 | **Niagara Falls** | The waterfall used in Taekyung's vomiting joke. |
