@@ -1730,3 +1730,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황보악 | **Hwangbo Ak** | Lesser Family Head of the Hwangbo Family and member of the Ten Dragons and Phoenixes. |
 | 황보세가 | **Hwangbo Family** | Hwangbo Ak's established martial family and the long-standing hegemon of Shandong. |
 | 산동권룡 | **Shandong Fist Dragon** | Hwangbo Ak's sobriquet among the Ten Dragons and Phoenixes. |
+| 황하 | **Yellow River** | River along which civilization began. |
+| 모스크바 | **Moscow** | Russian city used in Taekyung's modern-world comparison. |
+| 워싱턴 DC | **Washington, DC** | United States capital used in Taekyung's modern-world comparison. |
+| 고월루 | **Gowolru** | Three-story inn where the meeting was scheduled. |
+| 취팔선보 | **Drunken Eight-Immortals Step** | Gung Gibang's joking name for Hyuk Mujin's desperate rush to the inn. |
