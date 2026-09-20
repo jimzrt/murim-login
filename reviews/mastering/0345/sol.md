@@ -1,6 +1,6 @@
 # Chapter 345
 
-No matter how much the Murim was a veritable death zone crawling with murder and violence, people in every field learned to observe some decorum once they reached the upper ranks.
+No matter how much the Murim was a hands-on death zone awash in murder and violence, every profession observed a certain decorum once you reached the upper ranks.
 
 *Especially when you were the Family Head of the Sichuan Tang Clan, one of the Five Great Families.*
 
@@ -36,15 +36,15 @@ His eyes twitched for a split second before he spoke.
 
 “Oh, so you hid it somewhere else. In that case, I withdraw my request.”
 
-“Grrr…!”
+“Why, you…!”
 
-“What a loss…!”
+“What a shame…!”
 
 “You insolent little bastard!”
 
 Ah. I probably should have held back that last one.
 
-After being hit by a fantastic barrage of combo attacks, Tang Sadok’s eyes rolled back.
+After taking that spectacular combo barrage, Tang Sadok’s eyes nearly rolled back in his head.
 
 I hurriedly shouted before he could scatter his hidden weapons.
 
@@ -78,7 +78,7 @@ Green qi rose from Tang Sadok’s entire body like a shimmering haze. He glared 
 
 Whoom!
 
-An aura like a raging gale erupted and shook the pavilion. I stepped in front of the trembling Divine Physician and Mungyeong before answering.
+His raging aura swept through the pavilion like a gale. I stepped in front of the trembling Divine Physician and Mungyeong before answering.
 
 “And how has that worked out?”
 
@@ -100,9 +100,9 @@ The Nine Sects and One Gang and the Five Great Families were the giants supporti
 
 The culprit was simply a monster.
 
-“I’m only pointing out a possibility.”
+“I’m talking about possibilities.”
 
-“A possibility?”
+“Possibilities?”
 
 “His martial arts are comparable to the Ten Kings, and he’s exceptionally skilled at escaping. Wouldn’t more people helping you improve the chances of catching him?”
 
@@ -170,7 +170,7 @@ But the Myriad-Poison Asura Tang Sadok had returned. He had come back to protect
 
 A long silence passed before his answer came.
 
-“……If—and I mean if—the Myriad-Poison Ring exists, can you treat Great Hero Jeok?”
+“…If—and I mean if—the Myriad-Poison Ring exists, can you cure Great Hero Jeok?”
 
 “Someone I know says it can.”
 
@@ -186,13 +186,13 @@ At my glance, the Divine Physician spoke.
 
 Tang Sadok let out a low groan, then looked at the Divine Physician.
 
-“I examined Great Hero Jeok’s condition once before. Though my medical knowledge is shallow compared to my expertise in poison arts, I could not determine what sort of symptoms he was suffering from. Is it truly possible?”
+“I examined Great Hero Jeok’s condition once before. Though my medical knowledge is shallow compared to my mastery of poison arts, I could not determine what ailed him. Can you truly cure him?”
 
 “I can.”
 
 A clear voice rang out.
 
-Mungyeong stepped forward and added a single sentence.
+Mungyeong stepped forward and added firmly,
 
 “The Divine Physician can do it.”
 
@@ -228,7 +228,7 @@ A faint smile touched the corner of Tang Sadok’s wrinkled mouth.
 
 “I’ll chase him down myself and bring him back. Ah, I’m not saying I’ll leave right away, of course. I won’t budge until my Master wakes up.”
 
-“You’re an amusing bastard. Even tearing the culprit limb from limb wouldn’t be enough, but he is also an extraordinary master. Do you think a wet-behind-the-ears brat like you can capture someone like that?”
+“You’re an amusing bastard. The culprit deserves to be torn limb from limb, but he is also an extraordinary master. Do you truly believe a greenhorn like you can capture him?”
 
 “If I can’t take him alive, I’ll kill him.”
 
@@ -246,7 +246,7 @@ Had this old man been playing me the entire time?
 
 As the back of my head went numb, Tang Sadok continued.
 
-“The Myriad-Poison Ring is nothing more than an old legend. Even among our blood relatives, it is merely a stale tale.”
+“The Myriad-Poison Ring is nothing more than an old legend. Even among our blood relatives, it is merely an ancient tale.”
 
 “What do you mean, it doesn’t exist? It really doesn’t?”
 
@@ -260,7 +260,7 @@ I snapped my mouth shut before I could finish.
 
 A pure-white snake had slowly crawled out of Tang Sadok’s robes and was staring fixedly at me, its tongue flicking.
 
-*What is that?*
+*What the hell is that?*
 
 What was he, Voldemort? Why was a snake suddenly coming out of his clothes?
 
@@ -284,9 +284,9 @@ Tang Sadok laughed quietly when he saw me edging backward and stroked the snake�
 
 “What?”
 
-“Tang Mimi. That is the name I gave it.”
+“Tang Mimi. That is the name I gave her.”
 
-What was that supposed to mean? Terrifying…
+What the hell? That was terrifying…
 
 As Tang Sadok lovingly stroked Mimi-chan, he suddenly looked at the Divine Physician.
 
@@ -294,17 +294,17 @@ As Tang Sadok lovingly stroked Mimi-chan, he suddenly looked at the Divine Physi
 
 The Divine Physician nodded.
 
-“As far as I know, a Thousand-Year Poison Horned Snake is a rare venomous creature that carries an extremely deadly poison. Its entire body is black, and its temperament is so ferocious that it can never be tamed. However…”
+“As I understand it, the Thousand-Year Poison Horned Snake is an extremely rare and venomous creature. Its entire body is black, and its temperament is so ferocious that it can never be tamed. And yet…”
 
 “As you can see, this one looks different and has an exceptionally gentle disposition.”
 
-“But we do not know when it might suddenly turn on us. Is it not a venomous creature capable of killing a hundred cows with a single drop of its venom?”
+“But you cannot know when it might suddenly turn on you. Is it not a venomous creature whose single drop of poison could kill a hundred cows?”
 
 “There is no need to worry. This one has no venom.”
 
 “What?”
 
-“To be precise… it would be more accurate to say that its venom is gone.”
+“To be precise… it would be more accurate to say that her venom is gone.”
 
 With that, Tang Sadok met Mimi-chan’s gaze—or rather, the Thousand-Year Poison Horned Snake’s.
 
@@ -312,9 +312,9 @@ It lasted only a moment, but they had clearly communicated. The clever snake had
 
 Hiss! Ssssss!
 
-The snake lowered its head and let out a metallic hiss before spitting something onto Tang Sadok’s palm.
+She lowered her head with a metallic hiss and spat something onto Tang Sadok’s palm.
 
-With a soft plop, the object emerged from the slime covering it.
+It landed with a soft plop, emerging from the slime that coated it.
 
 *That’s…*
 
@@ -344,6 +344,6 @@ Ding.
 
 > **System**
 >
-> - Quest Condition complete: **Myriad-Poison Ring Acquired**!
+> - Quest Condition, **Acquire the Myriad-Poison Ring**, complete!
 >
-> - Chain Quest **Myriad-Poison Ring** has been successfully completed!
+> - Chain Quest, **Myriad-Poison Ring**, successfully completed!
