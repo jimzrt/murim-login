@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Repentance. A cave for repentance. Repentance Cave was where criminals were confined.",
+      "defect": "The draft replaces the source’s deliberate explanation of the two Sino-Korean characters with a tautology, losing the meaning of shame and remorse.",
+      "id": "F01",
+      "rationale": "The source separately glosses 참 as shame and 회 as remorse to frame Unnamed’s guilt.",
+      "replacement": "The first character meant shame; the second, remorse. Repentance Cave was where criminals were confined.",
+      "severity": "minor",
+      "source": "부끄러울 참. 뉘우칠 회. 참회동은 죄인을 가두는 곳이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Perhaps it was regret over failing to prevent his Master’s death. Unnamed had spent three months there, considering himself a sinner who had failed not only to protect his Master, but also the Green Jade Buddha Staff, Shaolin’s sacred treasure entrusted to him before his Master’s death.",
+      "defect": "The draft makes Unnamed explicitly consider himself a sinner for failing to protect his Master, whereas the source separately presents that as presumed regret and identifies his self-professed sin as failing to protect even the entrusted staff. It also replaces the Buddhist and euphemistic references to Nirvana and passing away with explicit death.",
+      "id": "F02",
+      "rationale": "The source distinguishes Taekyung’s inference about Hong Dao’s Nirvana from Unnamed’s guilt over losing the Green Jade Buddha Staff and preserves Buddhist register.",
+      "replacement": "Perhaps he regretted failing to prevent his Master from entering Nirvana. Unnamed had spent three months there, considering himself a sinner because he had failed to protect even the Green Jade Buddha Staff, the sacred treasure of Shaolin that his Master had entrusted to him before passing away.",
+      "severity": "major",
+      "source": "그건 아마도 스승의 열반을 막지 못한 후회가 아니었을까. 무명은 스승이 떠나기 전 맡기고 간 소림의 신물, 녹옥불장(綠玉佛杖)마저 지켜 내지 못한 죄인을 자처하며 그곳에서 석 달이라는 시간을 보낸 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was a bruise that would never fade.",
+      "defect": "The draft turns a figurative, lifelong yoke into a literal permanent bruise.",
+      "id": "F03",
+      "rationale": "멍에 means a yoke or enduring burden here, referring to the psychological burden represented by the scar rather than merely its discoloration.",
+      "replacement": "It was also a yoke he would never be free of.",
+      "severity": "major",
+      "source": "영영 벗겨지지 않을 멍에이기도 했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*I should have been a little stronger. Then I could have protected my Master. I could have carried out his final request properly.*",
+      "defect": "The draft formats Unnamed’s spoken dialogue as an unspoken internal thought, changing the scene action and removing his explicit statement that these were the thoughts he had in the cave.",
+      "id": "F04",
+      "rationale": "The Korean is enclosed in dialogue quotation marks and ends with 하는 생각 말입니다, explicitly identifying what Unnamed is telling Taekyung he thought.",
+      "replacement": "“I kept thinking that if only I had been a little stronger, I could have protected my Master. I could have properly carried out his final request.”",
+      "severity": "critical",
+      "source": "“조금만 더 강했더라면 스승님을 지킬 수 있었을 텐데, 그분의 마지막 당부를 잘 수행할 수 있었을 텐데, 하는 생각 말입니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The two of you have probably never met face-to-face. He is my Senior Brother by lineage, but he has been Abbot for less than a month, so it would be understandable if you did not know him.”",
+      "defect": "The draft omits 대사형, the eldest Senior Brother, weakening the Abbot’s specific position in Unnamed’s martial hierarchy.",
+      "id": "F05",
+      "rationale": "대사형 identifies the eldest among one’s Senior Brothers, not merely any Senior Brother.",
+      "replacement": "“The two of you have probably never met face-to-face. In our lineage, he is my eldest Senior Brother, but he has been Abbot for less than a month, so it is only natural that you would not know him.”",
+      "severity": "major",
+      "source": "두 분이 직접 마주친 적은 없을 겁니다. 소승에게는 항렬상으로 대사형이 되시는 분인데, 방장직에 오르신 것도 불과 한 달이 채 되지 않았으니 진 시주께서 모르실 법도 합니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "My Master, who must be watching over us from somewhere, would have been relieved to see his friend in good health.",
+      "defect": "The draft changes the object of Hong Dao’s watchfulness from Unnamed specifically to the collective “us.”",
+      "id": "F06",
+      "rationale": "소승을 explicitly means that Hong Dao is watching over Unnamed, preserving the personal master-disciple relationship.",
+      "replacement": "My Master, who must be watching over me from somewhere, would have been relieved to see his friend in good health.",
+      "severity": "major",
+      "source": "어딘가에서 소승을 지켜보고 계실 스승님께서도 건강해진 친우분의 모습에 안도하셨겠지요."
+    },
+    {
+      "confidence": 0.97,
+      "current": "It was only funny when someone who had suffered appropriately made a joke like that. When Unnamed said it, the mood could only turn solemn in an instant.",
+      "defect": "“Suffered appropriately” is an unnatural literal collocation that obscures Taekyung’s point that this joke only works when the speaker has not suffered nearly as much as Unnamed.",
+      "id": "F07",
+      "rationale": "정도껏 here means within reasonable limits; the humor fails because Unnamed’s suffering was too severe for the self-deprecation to remain light.",
+      "replacement": "A joke like that was only funny when it came from someone who hadn’t suffered quite so much. When Unnamed said it, the mood could only turn solemn in an instant.",
+      "severity": "minor",
+      "source": "고생도 정도껏 한 사람이 저런 드립을 쳐야 웃긴 거지, 무명이 이런 말을 하면 단번에 분위기가 숙연해질 수밖에 없다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“We are at an inn near Mount Song. It was rented in the name of the Murim Alliance, so please rest here as long as you wish.”",
+      "defect": "The draft adds permission to remain indefinitely, which the source does not state.",
+      "id": "F08",
+      "rationale": "푹 쉬시며 머무르십시오 invites Taekyung to stay and rest comfortably; it does not specify that he may remain for as long as he wants.",
+      "replacement": "“We are at an inn near Mount Song. It was rented in the name of the Murim Alliance, so please stay here and get plenty of rest.”",
+      "severity": "minor",
+      "source": "숭산 인근의 객잔입니다. 무림맹의 이름으로 빌린 것이니 푹 쉬시며 머무르십시오."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A Murim practitioner with a Hyeopbong sword at his waist. Another carrying a massive saber on his back without even a scabbard. Others carrying spears and twin axes…",
+      "defect": "The draft leaves the ordinary descriptive weapon term 협봉검 as an unexplained hybrid romanization.",
+      "id": "F09",
+      "rationale": "협봉검 describes a narrow-bladed sword rather than supplying an established proper name that should remain romanized.",
+      "replacement": "A Murim practitioner with a narrow-bladed sword at his waist. Another carrying a massive saber on his back without even a scabbard. Others carrying spears and twin axes…",
+      "severity": "minor",
+      "source": "협봉검을 찬 무림인, 커다란 대도(大刀)를 검갑도 없이 등에 짊어진 무림인, 창과 쌍부를 든 무림인……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I was muttering to myself when a group of Murim practitioners crossing the main road suddenly caught my eye.",
+      "defect": "The draft presents Taekyung as audibly muttering, while 속으로 explicitly marks the words as internal.",
+      "id": "F10",
+      "rationale": "속으로 distinguishes an internal thought from spoken muttering.",
+      "replacement": "As I thought that to myself, a group of Murim practitioners crossing the main road suddenly caught my eye.",
+      "severity": "major",
+      "source": "속으로 중얼거리던 그때, 대로변을 가로지르는 한 무리의 무림인이 문득 눈에 걸렸다."
+    }
+  ],
+  "summary": "Several fidelity defects alter Unnamed’s guilt, turn spoken dialogue into internal thought, lose hierarchy, and change specific imagery or actions; additional localized wording needs correction.",
+  "version": 1
+}

@@ -1685,3 +1685,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 박정호 | **Park Jung Ho** | Jung Ho's identity as Taekyung's former Garam Middle School classmate. |
 | 크리링 | **Krillin** | Pop-culture reference used for Jung Ho's shiny bald head. |
 | 순복음교회 | **Full Gospel Church** | Church referenced in Taekyung's joke about Jung Ho becoming a monk. |
+| 대환단 | **Great Restoration Pill** | Shaolin elixir used in Unnamed's recovery. |
+| 모용세가 | **Murong Family** | One of the Five Great Families, based in Liaoning. |
+| 요녕 | **Liaoning** | Northeastern region from which the Murong Family arrives. |
+| 진돗개 하나 | **Jindotgae One** | South Korea's highest military alert level; explained in a footnote. |
