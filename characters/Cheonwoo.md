@@ -1,6 +1,6 @@
 # Cheonwoo (천우)
 
-- **Safe through:** Chapter 587
+- **Safe through:** Chapter 590
 - **Aliases:** None
 - **Role:** One of the five current Five Gates of Shanxi scions and a First Rate martial artist present at Honghwa Inn.
 - **Personality:** Pampered and contemptuous toward Cheongpung's group as part of the five scions' collective mockery.
