@@ -10,7 +10,7 @@ A vagrant child who had wandered the continent begging for scraps met a master, 
 
 “Jangcheon. From now on, your name is Jangcheon.”
 
-They were dark, cold memories. On a day when heavy rain poured from the sky, the disciple who had been like his own flesh and blood left, while his master was left behind.
+They were dark, cold memories. On a day when rain poured from the sky, the disciple who had been like his own flesh and blood left, while the master remained behind.
 
 It was only after a very long time that he returned to the world.
 
@@ -52,7 +52,7 @@ But the enemy rose again, impossible though it seemed, and that was where his me
 
 In the darkness where everything had vanished, he wondered.
 
-*Am I dead? Where is this place, where neither Yama nor the dead can be found?*
+*Am I dead? What is this place, where neither Yama nor the dead can be found?*
 
 *Could I be doomed to wander the underworld?*
 
@@ -72,7 +72,7 @@ He understood.
 
 At the same time, he remembered the person he had briefly forgotten. The sturdy dam holding back his memories collapsed, and they swallowed him whole.
 
-“I felt the same.”
+*I felt the same.*
 
 Fwoosh.
 
@@ -112,7 +112,7 @@ His opponent, meanwhile, was a Supreme Peak master hailed as the greatest of the
 
 *This is bad. Very bad.*
 
-At this rate, he might have to brace himself for a fight that would leave them both gravely wounded.
+At this rate, he might have to brace himself for a fight that left them both gravely wounded.
 
 The Western Heaven Demon Lord had no intention of dying here after failing the mission personally entrusted to him by the Lord of Heaven.
 
@@ -132,7 +132,7 @@ Jeok Cheongang’s approaching footsteps stopped dead.
 
 He stared at the Western Heaven Demon Lord, then slowly parted his lips.
 
-“Have you ever seen such a motherless, fatherless, fucking son of a bitch…?”
+“You motherless, fatherless, goddamn son of a bitch…”
 
 “……!”
 
@@ -164,13 +164,13 @@ The Western Heaven Demon Lord answered without hesitation.
 
 “Kill myself?”
 
-Jeok Cheongang let out a hollow laugh and opened his mouth.
+Jeok Cheongang let out a hollow laugh.
 
 “You’ve got quite a bark. Did you learn it from some marketplace mongrel?”
 
 “They say a master and Disciple grow alike. You sound exactly like him.”
 
-The Western Heaven Demon Lord clicked his tongue softly and tightened his grip.
+The Western Heaven Demon Lord clicked his tongue and tightened his grip.
 
 Crack-crack!
 
@@ -202,7 +202,7 @@ The old master regarded his Disciple, trapped in the enemy’s grasp, with an in
 
 “Of course.”
 
-It was, of course, a lie.
+It was a lie.
 
 The Western Heaven Demon Lord had no intention of leaving a single person alive.
 
@@ -228,7 +228,7 @@ The unexpected question made the Western Heaven Demon Lord frown.
 
 “What are you talking about?”
 
-“You sly bastard. You've become even more of a monster since I last saw you.”
+“You sly little bastard. You’ve become even more of a monster while I wasn’t looking.”
 
 “What nonsense are you—”
 
@@ -242,7 +242,7 @@ Crack-crack-crack!
 
 Fiery pain erupted from his wrist.
 
-The next moment, reflected in the Western Heaven Demon Lord's widened eyes were his wrist, twisted as though a giant had wrung it, and a young man whose hand clamped around it like a hook.
+In the next instant, the Western Heaven Demon Lord’s widened eyes beheld a wrist twisted as though a giant had wrung it out—and a young man clamped around it like a hook.
 
 “Jin Taekyuuung!”
 
@@ -260,7 +260,7 @@ Irresistible strength tore the Western Heaven Demon Lord’s wrist free as easil
 
 Blood fountained into the air amid searing pain.
 
-For an instant, the Western Heaven Demon Lord's vision went white.
+The Western Heaven Demon Lord’s vision went white.
 
 Then a streak of flame bloomed before him.
 
@@ -286,7 +286,7 @@ Everything felt blurred and distant.
 
 It definitely was.
 
-The fact that I was alive even though I should have died long ago. The fact that Jeok Cheongang had awakened even though he should have needed several more days before he was ready to wake up.
+I was still alive when I should have died already. Jeok Cheongang was awake when he should have needed several more days to recover.
 
 But…
 
@@ -308,7 +308,7 @@ Ding. Ding. Ding.
 
 The bright chime of bells echoed around me.
 
-At the same time, an energy like warm sunlight spread throughout my body.
+At the same time, an energy as warm as sunlight spread throughout my body.
 
 Broken bones fused together, and torn flesh healed. My damaged organs and shredded acupoints began to mend and settle back into place.
 
@@ -318,7 +318,7 @@ But steadily.
 
 Crack.
 
-My toes stepped on empty air.
+My feet kicked at empty air.
 
 Before I knew it, the Western Heaven Demon Lord was holding me by the throat.
 
@@ -334,11 +334,11 @@ Then, in the next moment, Jeok Cheongang’s voice pierced clearly into my ears.
 
 “How long do you intend to hang there?”
 
-*I don't really know, Old Master. I just… I just can't summon any strength. I don't even know if this is a dream or reality.*
+*I don’t know either, Old Master. I just… I just can’t make my body move. I don’t even know whether this is a dream or reality.*
 
 I wanted to answer that familiar face, but no voice came out.
 
-The hand pressing against my throat suddenly felt uncomfortable.
+The hand crushing my throat suddenly began to feel bothersome.
 
 *Then… I should get it off me.*
 
@@ -356,9 +356,9 @@ Something tore, and blood fountained into the air. Before a single drop could st
 
 “It’s been a while, you reckless little brat.”
 
-The voice stretched out, carrying a hint of laughter.
+The voice drifted toward me, tinged with laughter.
 
-Hellfire flickered from Jeok Cheongang's palm as it passed by me.
+Hellfire raged in Jeok Cheongang’s palm.
 
 The Flame Divine Palm, mastered to its utmost limit, slammed into the chest of the Western Heaven Demon Lord as he writhed in agony.
 
@@ -390,7 +390,7 @@ I felt the qi crouched within his still-unrecovered body waver.
 
 I watched it all with vacant eyes.
 
-The darkness rushing toward me through my hazy vision.
+The darkness rushing toward us through my hazy vision.
 
 Jeok Cheongang’s swaying body.
 
@@ -398,7 +398,7 @@ And then—
 
 “Ah.”
 
-A single exclamation escaped my lips.
+A single sound escaped my lips.
 
 I was here, yet at the same time, I was not.
 
@@ -412,7 +412,7 @@ A blinding flash pierced my entire body, from the crown of my head to the tips o
 
 Everything that had blocked my path until now cracked and collapsed.
 
-The world that had looked hazy, as though I were drunk, cleared up. My dazed mind became as clear as a summer sky.
+The world that had looked blurred, as though I were drunk, came into focus. My dazed mind cleared like a summer sky after rain.
 
 At the end of it all shone a light called enlightenment.
 
@@ -429,7 +429,7 @@ The bells rang louder and clearer than ever before.
 
 I took a step.
 
-Space vanished, and the natural qi within it surged.
+The space between us vanished, and the natural qi within it surged.
 
 I drew White Flame into my grasp with Seizing an Object Through Empty Space, and a fire dragon roared from its spearhead.
 
