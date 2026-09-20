@@ -951,3 +951,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 이동석 | 팀장 | temporary teammate to team leader | Team Leader | formal-polite | Uses 팀장님 despite his otherwise blunt, sparse manner. |
 | 팀원 | 팀장 | team member to team leader | Team Leader Kim | casual, familiar, and dialectal | Team members use forms including 햄 and informal greetings when addressing Kim. |
 | 관리소장 | 팀장 | Gate management manager to freelance team leader | Team Leader Kim | casual and regional-dialectal | Calls him 김 팀 while checking the team's personnel and compliance. |
+| 아빠 | 진태경 | father to son | Taekyung | affectionate informal | Addresses his young son warmly as Taekyung. |
+| 진태경 | 아빠 | son to father | Dad | childlike informal | Taekyung addresses his father as Dad in the childhood flashback. |
+| 진태경 | 스켈레톤 킹 | emergency ally | you; no vocative | blunt informal imperative | Taekyung gives the Skeleton King terse emergency orders while dividing rescue coverage. |
+| 스켈레톤 킹 | 진태경 | trusted ally | you; no vocative | blunt informal | The Skeleton King angrily calls out to Taekyung during the emergency response. |
+| 진태경 | 마법사 | rescuer assisting the operation | mage; otherwise you | polite emergency imperative | Taekyung orders the exhausted mage to request rescue under his name. |

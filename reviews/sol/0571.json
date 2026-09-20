@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It was one of those unforgettable moments in life. The walk to Gwangan Bridge, holding his dejected father’s hand, left a vivid mark in the mind of that young elementary school student.\n\nIt was impossibly huge and glittering, and beside him was his father, who had never been able to spend much time with him because he was always busy.\n\nAfter blackmailing his father, who was complaining about a cervical disc problem, into giving him a piggyback ride, he had wanted for nothing in the world.",
+      "defect": "The draft delays the source’s shift into first-person recollection and changes riding on the father’s shoulders into a piggyback ride.",
+      "id": "F01",
+      "rationale": "내 뇌리 and the following narration identify the memory as Taekyung’s own, while 목말 means riding on someone’s shoulders, not riding on their back.",
+      "replacement": "It was one of the unforgettable moments of my life. Visiting Gwangan Bridge hand in hand with my dejected father left a vivid mark on my young mind.\n\nIt was impossibly huge and glittering, and beside me stood my father, who had never been able to spend much time with me because he was always busy.\n\nAfter threatening my father—who was complaining about a herniated disc in his neck—into carrying me on his shoulders, I felt like I had everything in the world.",
+      "severity": "critical",
+      "source": "인생에서 잊을 수 없는 순간 중 하나다. 침울해하는 아버지의 손을 잡고 찾아간 광안대교는 어린 초등학생의 내 뇌리에 선명한 흔적을 남겼다.\n\n그것은 턱없이 크고 반짝였으며, 옆에는 늘 바쁜 탓에 많은 시간을 함께하지 못했던 아버지가 있었다.\n\n목 디스크를 호소하는 아버지를 협박해 목말까지 타니 세상 부러울 것이 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“Dad, let’s come again next week, and the week after that! And next month too! Give me a piggyback ride then too!”*",
+      "defect": "The repeated request again changes a shoulder ride into a piggyback ride.",
+      "id": "F02",
+      "rationale": "목말 태워 줘 specifically asks to be carried astride the father’s shoulders.",
+      "replacement": "*“Dad, let’s come again next week, and the week after that! And next month too! Carry me on your shoulders then too!”*",
+      "severity": "critical",
+      "source": "‘아빠, 우리 다음 주에도, 다다음 주에도! 다음 달에도 또 오자! 그때도 목말 태워 줘!’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The desert or sparsely populated military zones in the footage I had seen through Magic Johnson were one thing, but Busan had more than a thousand people packed into any radius of a few kilometers.",
+      "defect": "The draft reduces 수천이 넘는, several thousand people, to merely more than one thousand and makes the specific nearby radius sound like a general claim about any radius.",
+      "id": "F03",
+      "rationale": "수천 denotes thousands, and 당장 반경 몇 킬로미터 안 describes the immediately relevant area around the disaster.",
+      "replacement": "The desert or sparsely populated military zones in the footage I had seen through Magic Johnson were one thing, but here in Busan, thousands of people were packed within a radius of just a few kilometers.",
+      "severity": "major",
+      "source": "부산은 당장 반경 몇 킬로미터 안에 수천이 넘는 사람들이 바글바글한 곳이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The creatures charged forward, spewing unintelligible cries, barnacle-covered tridents flashing in their hands.\n\nAt the end of one was a little girl who had collapsed on the ground, crying.",
+      "defect": "“At the end of one” makes the girl sound attached to or already impaled on a trident. The source places her beyond the approaching trident points as the monsters’ prospective victim.",
+      "id": "F04",
+      "rationale": "The subsequent lines establish that the monsters are still charging toward their first prey and that Taekyung intervenes before they reach her.",
+      "replacement": "The creatures charged forward, spewing unintelligible cries, barnacle-covered tridents flashing in their hands.\n\nBeyond those flashing points sat a little girl, collapsed on the ground and crying.",
+      "severity": "critical",
+      "source": "알아들을 수 없는 기성을 토해 내며 내달리는 놈들의 손아귀에서 따개비가 달라붙은 삼지창이 번뜩인다.\n\n그 끝에, 주저앉아 울고 있는 어린 여자아이가 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“The bridge! It’s sparkling! It’s pretty!”*\n\n*“Whoa, it really is. Is it a fitting model?”*\n\n*“……Not that kind of leg, Dad.”*",
+      "defect": "Translating the first 다리 as “bridge” removes the leg/bridge ambiguity that causes the father’s misunderstanding, leaving his response incoherent in English.",
+      "id": "F05",
+      "rationale": "The joke depends on 다리 meaning both a human leg and a bridge; the father initially interprets it as the former.",
+      "replacement": "*“That leg! It’s sparkling! It’s pretty!”*[^1]\n\n*“Whoa, you’re right. Is she a fit model?”*\n\n*“……Not that kind of leg, Dad.”*\n\n[^1]: The Korean word *dari* can mean either “leg” or “bridge.”",
+      "severity": "major",
+      "source": "‘다리! 반짝거려! 예뻐!’\n\n‘워어, 진짜네. 피팅 모델인가?’\n\n‘……그 다리 아니야. 아빠.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“What the fuck are you looking at?”",
+      "defect": "The draft replaces the direct plural insult 개새끼들아 with adverbial profanity, losing Taekyung’s explicit address to the monsters.",
+      "id": "F06",
+      "rationale": "개새끼들아 is a forceful plural insult directed at the Mermen; preserving that address better matches both meaning and confrontational voice.",
+      "replacement": "“What are you looking at, you sons of bitches?”",
+      "severity": "major",
+      "source": "“뭘 봐. 개새끼들아.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Cutting through the wind, erasing space, carrying the two words *certain death*—",
+      "defect": "필살 consists of two written characters, not two words.",
+      "id": "F07",
+      "rationale": "두 글자 explicitly refers to the two Sino-Korean characters 必殺.",
+      "replacement": "Cutting through the wind, erasing space, carrying the two characters for *certain death*—",
+      "severity": "minor",
+      "source": "바람을 가르고, 공간을 지우고, 필살(必殺)이라는 두 글자를 담아……."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Red blood flowed across the places where they had stood without even leaving behind a final scream. The survivors’ cries rang out, people who had lived through the chain explosions by sheer luck, and the mad blaring of car horns reached my heightened senses.",
+      "defect": "The second sentence is grammatically broken and incorrectly makes the survivors people who survived the chain explosions, whereas the source lists chain explosions and the screams of those who survived the broader catastrophe as separate sounds.",
+      "id": "F08",
+      "rationale": "연쇄적인 폭발과 and 천운으로 살아남은 사람들의 비명 are coordinated elements, not a clause saying the survivors specifically lived through the explosions.",
+      "replacement": "Red blood flowed where they had stood, unable even to leave a final scream behind. Chain explosions, the screams of those who had survived by sheer luck, and the frantic blaring of car horns all reached my heightened senses.",
+      "severity": "minor",
+      "source": "단말마도 남기지 못한 그들이 서 있던 자리에는 붉은 핏물이 흘렀고, 연쇄적인 폭발과 천운으로 살아남은 사람들의 비명.\n\n그리고 미친 듯이 울리는 클락슨 소리가 곤두선 감각을 통해 전해졌다."
+    }
+  ],
+  "summary": "Several actionable fidelity defects alter a physical action, viewpoint, quantity, spatial relationship, and the opening wordplay; additional localized issues affect profanity, a two-character expression, and sentence clarity.",
+  "version": 1
+}
