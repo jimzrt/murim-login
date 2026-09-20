@@ -80,10 +80,12 @@ writeFileSync(
 const { count, size, warnings } = await generateSW({
   globDirectory: outDir,
   globPatterns: [
-    "**/*.{js,css,html,ico,svg,png,jpg,jpeg,webp,avif,woff2,json,webmanifest}",
-    "pagefind/**/*",
+    "offline/**",
+    "**/*.{js,css,ico,svg,woff2,webmanifest}",
+    "cover.jpg",
+    "favicon.svg",
   ],
-  globIgnores: ["index.html", "chapters.json"],
+  globIgnores: ["index.html", "chapters.json", "pagefind/**"],
   swDest: resolve(outDir, "sw.js"),
   navigateFallback: offlinePath,
   navigateFallbackDenylist: [
@@ -98,6 +100,7 @@ const { count, size, warnings } = await generateSW({
   ],
   skipWaiting: true,
   clientsClaim: true,
+  cleanupOutdatedCaches: true,
   sourcemap: false,
   runtimeCaching: [
     {
@@ -109,6 +112,7 @@ const { count, size, warnings } = await generateSW({
       handler: "NetworkFirst",
       options: {
         cacheName: "view-counts",
+        networkTimeoutSeconds: 3,
         expiration: {
           maxEntries: 1,
           maxAgeSeconds: 60,
@@ -120,9 +124,10 @@ const { count, size, warnings } = await generateSW({
       handler: "NetworkFirst",
       options: {
         cacheName: "catalog",
+        networkTimeoutSeconds: 3,
         expiration: {
           maxEntries: 1,
-          maxAgeSeconds: 60 * 60 * 24 * 7,
+          maxAgeSeconds: 60 * 60 * 24,
         },
       },
     },
@@ -131,6 +136,7 @@ const { count, size, warnings } = await generateSW({
       handler: "NetworkFirst",
       options: {
         cacheName: "pages",
+        networkTimeoutSeconds: 4,
         expiration: {
           maxEntries: 80,
           maxAgeSeconds: 60 * 60 * 24 * 14,
@@ -150,12 +156,12 @@ const { count, size, warnings } = await generateSW({
     },
     {
       urlPattern: /\/pagefind\//,
-      handler: "CacheFirst",
+      handler: "StaleWhileRevalidate",
       options: {
         cacheName: "pagefind",
         expiration: {
           maxEntries: 64,
-          maxAgeSeconds: 60 * 60 * 24 * 30,
+          maxAgeSeconds: 60 * 60 * 24,
         },
       },
     },
