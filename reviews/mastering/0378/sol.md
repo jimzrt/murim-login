@@ -10,7 +10,7 @@ With the cheerful System notification, the senses that had briefly fallen away b
 
 The softness of the bed against my back. The warm air inside the private jet.
 
-And the hands gripping and shaking both my shoulders, along with someone's shouting.
+And the hands gripping my shoulders and shaking me, accompanied by someone’s shouts.
 
 “Mr. Jin Taekyung! Wake up! Mr. Jin Taekyung!”
 
@@ -36,19 +36,19 @@ Stunned by the completely unexpected slap, I answered in a daze.
 
 “I’m awake…”
 
-“What is wrong with you?! We’ve been trying to wake you up! Why are you only getting up now?!”
+“What is wrong with you?! We tried everything to wake you! Why are you only getting up now?!”
 
 —Just die! Go ahead and die!
 
 “S-Sorry…”
 
-Talk about forceful. This was the first time I had ever seen Team Leader Choi this furious.
+Talk about intense. This was the first time I had ever seen Team Leader Choi so furious.
 
 Lightning practically shot from the eyes of the man who stayed calm no matter what happened and spent his time showing off designer goods.
 
 *But what’s gotten into him? We’re still on the plane, aren’t we?*
 
-I had apologized reflexively, but I was still bewildered. Was this really enough to earn a slap?
+I had apologized reflexively, but I was still bewildered. Had I really done something worth slapping me over?
 
 Then—
 
@@ -78,7 +78,7 @@ By now, it wouldn’t have been strange to see our destination, Chengdu Internat
 
 “Huh?”
 
-I absentmindedly turned my head to look out the window, then stared with my mouth hanging open.
+I turned to look out the window and stared with my mouth hanging open.
 
 Far below, flames surged from the sprawling airport while dots of every size moved across the grounds.
 
@@ -108,7 +108,7 @@ It didn’t take my temporarily frozen brain long to reach a conclusion.
 
 “Lich!”
 
-The name burst from my mouth like lightning.
+The name burst from my mouth like a thunderclap.
 
 A week ago in the modern world, the apex undead monster had appeared alongside an unprecedented monster wave. It had undoubtedly extended its sinister reach all the way here.
 
@@ -130,7 +130,7 @@ Human and monster alike, everyone was panicking. Screams and shouts erupted from
 
 Only one person among them retained any semblance of sanity.
 
-“Everyone, calm down! Nothing you’re worried about is going to happen!”
+“Everyone, calm down! What you’re afraid of isn’t going to happen!”
 
 As expected of Team Leader Choi. Reliable as ever. He must have thought of a way out of this crisis.
 
@@ -138,7 +138,7 @@ After calming everyone with his steady voice, Team Leader Choi pointed at me.
 
 “Mr. Jin Taekyung will handle it!”
 
-“…”
+“…?”
 
 “Mr. Jin Taekyung, what should we do?”
 
@@ -150,7 +150,7 @@ After calming everyone with his steady voice, Team Leader Choi pointed at me.
 
 That was exactly the problem. Why did he believe in me? In a situation like this, believing in God, Buddha, or Allah would probably do him more good.
 
-For a moment, I lost my ability to speak. Then the gazes of everyone around me flew toward me and pierced into my body.
+As I stood there speechless, everyone’s gaze snapped toward me.
 
 “N-Now that you mention it, I’ve heard about that Hunter. They say he’s so capable that even Comrade Chairman Xiao Yang made a special request for him.”
 
@@ -178,7 +178,7 @@ Team Leader Choi answered without hesitation.
 
 “It isn’t baseless.”
 
-“Excuse me?”
+“What?”
 
 “The way you’re acting in a situation like this. Your tone. Your expression. All of it gives me reason to believe in you.”
 
@@ -188,11 +188,11 @@ Only then did I realize the truth.
 
 The unexpected situation had caught me off guard, but I wasn’t afraid. I didn’t feel the slightest trace of fear or dread.
 
-The answer was closer than I had thought.
+The answer was simpler than I’d thought.
 
 *Because I’m strong.*
 
-I was strong. Stronger than before. Strong enough to avoid any danger.
+I was strong. Stronger than before. Strong enough to weather any danger.
 
 That was why I wasn’t afraid of the monsters sweeping across the ground like a wave, or the pack of Wyverns closing in right behind us.
 
@@ -226,7 +226,7 @@ Team Leader Choi fiddled with the ring on his finger and cut in.
 
 “Don’t! You *bangzi* bastards! Are you trying to kill us all?!”
 
-“…What, *bangzi*?”[^1]
+“…What did you call us? *Bangzi*?”[^1]
 
 How dare he insult Koreans in front of a proud Korean Kimchi Man?
 
@@ -234,7 +234,7 @@ The captain’s face went pale when he realized what had slipped out.
 
 “No, that’s not what I meant.”
 
-“You chink bastard. Damn it.”
+“You chink bastard. The fuck did you say?”
 
 “…!”
 
@@ -242,7 +242,7 @@ The captain’s face went pale when he realized what had slipped out.
 
 “Y-Yes?”
 
-“Should I open it?”
+“I’m opening it.”
 
 “Ah! Aah!”
 
@@ -268,15 +268,15 @@ This was no time to stand around gawking. The tremendous wind and pressure had s
 
 The passengers’ screams and my shout brought Team Leader Choi back to his senses. He rubbed his ring.
 
-“A flawless barrier surrounds us. Barrier!”
+“An impenetrable barrier surrounds us. Barrier!”
 
 “Oh.”
 
-Along with the incantation, a transparent mana barrier blocked the new opening without leaving so much as a gap.
+With the incantation, a transparent membrane of energy sealed the new opening without leaving the slightest gap.
 
 So that was one way to do it.
 
-With a brief exclamation of admiration, I stuck my upper body outside the cabin.
+With a brief murmur of admiration, I stuck my upper body outside the cabin.
 
 Team Leader Choi’s Barrier spell recognized me as an ally and let me pass through without resistance.
 
@@ -310,7 +310,7 @@ Like a javelin thrower, I drew my shoulder as far back as it would go. From my w
 
 Sensing something was wrong, the leader Wyvern at the front shrieked and threw back its head.
 
-I could see a mass of pure-white air being sucked toward its snout.
+I could see streams of pure-white air being sucked toward its snout.
 
 *That’s…*
 
@@ -354,7 +354,7 @@ The gigantic body plummeted toward the ground like a kite with its string cut.
 
 —Kiiit?
 
-More than ten pairs of bright-yellow eyes looked at one another.
+More than ten pairs of bright-yellow eyes turned toward one another.
 
 Wyverns were ferocious from the moment they were born, but right now, they were so bewildered that they had no idea what to do.
 
@@ -366,7 +366,7 @@ Wyverns were ferocious from the moment they were born, but right now, they were 
 
 *I think so…*
 
-After exchanging words among themselves, the Wyverns were dumbfounded.
+After exchanging a few words in their own language, the Wyverns were dumbfounded.
 
 Their leader had been exceptional even among its own kind, powerful enough to earn the name “Black Star.”
 
@@ -382,7 +382,7 @@ They could only guess that the tiny human had thrown a spear and struck it.
 
 But that was absurd.
 
-How could a mere human dare to attack a descendant of the great dragon—
+How could a mere human dare attack a descendant of the great dragons—
 
 “Hey, Green Wyvern!”
 
@@ -400,7 +400,7 @@ Their comrade’s head burst apart in the streak of light.
 
 —Kyaoo-o-o!
 
-After their leader, another of their bloodline had died!
+First their leader, and now another of their bloodline!
 
 The enraged Wyverns swore revenge on that accursed human.
 
@@ -414,7 +414,7 @@ They would take revenge later. A little later.
 
 Crunch!
 
-…Could they actually get their revenge?
+…Would they even get the chance?
 
 More than ten pairs of wings began flapping for dear life.
 
