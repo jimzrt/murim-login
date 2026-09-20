@@ -24,7 +24,7 @@ Beep.
 
 “What is it? Is there a problem?”
 
-I vaguely brushed off Tang Sadok’s puzzled question.
+I brushed off Tang Sadok’s puzzled question.
 
 “No. It’s just…”
 
@@ -34,7 +34,7 @@ I vaguely brushed off Tang Sadok’s puzzled question.
 
 A crease formed on Tang Sadok’s forehead.
 
-I had momentarily forgotten that the old man standing before me was not only the Family Head of a great clan, but also a seasoned martial artist who had spent his entire life in the Murim.
+For a moment, I had forgotten that the old man before me was the head of a great clan and a seasoned martial artist who had spent his entire life in the Murim.
 
 Sure enough, Tang Sadok’s eyes widened as he bellowed.
 
@@ -76,7 +76,7 @@ I turned to the Divine Physician. He had been watching with a smile, and he spok
 
 “Whew. You should’ve said that from the start.”
 
-The Divine Physician laughed heartily at my sigh of relief and stroked his beard.
+The Divine Physician stroked his beard and laughed heartily at my sigh of relief.
 
 “Now only one thing remains.”
 
@@ -112,7 +112,7 @@ I sighed and finished for him.
 
 “That won’t happen unless I lose my mind.”
 
-“I certainly hope so… What are you doing here?”
+“I certainly hope not… And what are *you* doing?”
 
 Good question. What was that guy doing?
 
@@ -134,13 +134,13 @@ Hissssss.
 
 Mimi-chan slithered down Tang Sadok’s shoulder and licked the back of Cheongpung’s hand.
 
-“Gasp!”
+“Whoa!”
 
 “Mimi, Whirlwind!”
 
 Whirlwind, my ass. He was ordering her to perform a technique even a person wouldn’t understand.
 
-As expected, there was no telling what went on inside Cheongpung’s head.
+As expected of Cheongpung. I would never understand how that lunatic’s mind worked.
 
 Sssshk, sssshk, sssshhhk!
 
@@ -152,13 +152,13 @@ My jaw dropped as Mimi-chan began spinning wildly in a tight spiral.
 
 “Wow! Good job, Mimi!”
 
-“This can’t be! How could Mimi use Whirlwind on someone she’s never met before?”
+“This cannot be! How could Mimi perform Whirlwind for someone she’s never even met?”
 
 “Wait, that’s a real technique?”
 
 “That is not what matters right now!”
 
-It seemed pretty important to me. At this rate, I wondered whether she might start firing a million volts or a Hyper Beam.
+It seemed pretty damn important to me. At this rate, she might start firing off a million volts or a Hyper Beam.
 
 *Can she evolve too…?*
 
@@ -214,7 +214,7 @@ Unlike the Jin Family of Taiyuan’s training hall, this cave did not run in a s
 
 We descended stone steps leading deep underground for what felt like ages. Eventually, we reached a narrow corridor barely wide enough for two people to pass through side by side, and a familiar smell invaded my nose.
 
-*Is this… the smell of blood?*
+*Is that… blood?*
 
 A bad feeling came over me. I looked around and saw barred iron doors spaced along the corridor.
 
@@ -230,27 +230,27 @@ What the hell had I just heard?
 
 Everyone turned to stare at Tang Sadok, myself included, but he continued as though it were no big deal.
 
-“Except for the Family Head’s Hall and a few other pavilions, this is the oldest space in the family compound. It must be well over two hundred years old by now. In any case, it is a historic place steeped in history.”
+“Except for the Family Head’s Hall and a few other pavilions, this is one of the oldest places in our family compound. It must be well over two hundred years old by now. In any case, it is a venerable place steeped in history.”
 
 Forget its venerable history. I felt like I ought to leave a will before I got dragged any farther inside.
 
 The more I thought about it, the more ridiculous it seemed.
 
-“Isn’t it still just a prison?”
+“It’s still a prison.”
 
 “Is that a problem?”
 
-“Of course there is! You want us to treat Old Master—no, my Master—in here?”
+“Of course it is! You want us to treat Old Master—no, my Master—in here?”
 
 “Not a single ray of sunlight reaches this place, and the chill permeates it to the bone. There is no more suitable location.”
 
-“You said you conduct torture here, too.”
+“You said people are tortured here too.”
 
 “Of course. Is that even worth asking?”
 
 “…”
 
-Anyone listening would have thought he was asking whether I wanted extra toppings on my pizza.
+Anyone overhearing him would have thought I’d asked if he wanted extra toppings on his pizza.
 
 Just as I ran out of words, a hunched old man came limping toward us from the distance, accompanied by a faint glow.
 
@@ -292,7 +292,7 @@ It wasn’t as though someone had checked out at the prison’s front desk and w
 
 Even if this place met all the necessary conditions, could we really conduct a medical treatment here?
 
-The Divine Physician had clearly thought the same thing. Mungyeong addressed his Master, who had put on a frown, in a calm voice.
+The Divine Physician was clearly thinking the same thing. As he frowned, Mungyeong addressed his Master in a calm voice.
 
 “Master, are we not healers? For the patient’s sake, we must endure the place even if it displeases us.”
 
@@ -300,7 +300,7 @@ The Divine Physician let out a low groan before answering.
 
 “…Yes. You are right. We shall do so.”
 
-“And the people imprisoned here are certainly evil men who have committed countless murders. Please do not let it trouble you too much.”
+“Besides, those imprisoned here must be evil men who have committed countless murders. Please do not let it trouble you too deeply.”
 
 Tang Sadok, who had been listening to their conversation, added his own remark.
 
@@ -318,7 +318,7 @@ Old Man Gung picked up a torch and let out a bizarre, metallic laugh.
 
 For some reason, I felt as though I were following the Grim Reaper.
 
-*Judging by the atmosphere alone, that old man seems more dangerous than the culprit who killed the Poison King.*
+*Going by the atmosphere alone, that old man seems more dangerous than the bastard who killed the Poison King.*
 
 It had to be my imagination.
 
@@ -338,13 +338,13 @@ The valley in this nameless mountain was as peaceful as ever. Yet no matter how 
 
 “How very strange. Very strange indeed…”
 
-The middle-aged man muttered softly, then turned his head and asked,
+The middle-aged man muttered softly, then turned his head.
 
 “Don’t you agree?”
 
 Grrk. Gk.
 
-Blood bubbled up from the man’s gaping throat.
+Blood gushed from the gaping wound in the fallen man’s throat.
 
 He glared up at the middle-aged man, his eyes burning with hatred.
 

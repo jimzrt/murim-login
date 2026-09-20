@@ -1,0 +1,2327 @@
+{
+  "baseline_blocks": 182,
+  "baseline_sha256": "3f9ecf39e743f8d5542e86ee089c86c5f7cb089293fcb540d44226fd0e8bb180",
+  "global_terminology_alerts": [],
+  "hunk_count": 128,
+  "hunks": [
+    {
+      "baseline": "The ring was made of some unknown metal and engraved with unfamiliar patterns, while the gemstone set in its center glittered with a dark light, as if it held the night sky inside.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "Its band was made of some unknown metal and covered in unfamiliar patterns. The gemstone set in its center gleamed darkly, as though it held the night sky within it.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its effectiveness had to be genuine if it could turn a Thousand-Year Poison Horned Snake, said to contain an incredibly deadly poison, into a pet snake named Mimi-chan. Still, there was no harm in checking.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "13",
+      "sol": "Its power had to be genuine if it could turn a Thousand-Year Poison Horned Snake, a creature said to harbor an extraordinarily deadly venom, into a pet snake named Mimi-chan. Still, it couldn’t hurt to check.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I vaguely brushed off Tang Sadok’s puzzled question.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "29",
+      "sol": "I brushed off Tang Sadok’s puzzled question.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No. It’s nothing…”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "31",
+      "sol": "“No. It’s just…”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Nothing what?”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "33",
+      "sol": "“Just what?”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s just that the gemstone is pretty. Its color is similar to a snake’s eyes.”",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "35",
+      "sol": "“The gemstone is pretty. It’s almost the same color as the snake’s eyes.”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I saw a wrinkle form on Tang Sadok’s forehead.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "37",
+      "sol": "A crease formed on Tang Sadok’s forehead.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had momentarily forgotten that the old man standing before me was not only the Family Head of a great clan, but also a seasoned martial artist who had spent his entire life in the Murim.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "39",
+      "sol": "For a moment, I had forgotten that the old man before me was the head of a great clan and a seasoned martial artist who had spent his entire life in the Murim.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Family Head"
+        }
+      ]
+    },
+    {
+      "baseline": "As expected, Tang Sadok widened his eyes and bellowed.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "41",
+      "sol": "Sure enough, Tang Sadok’s eyes widened as he bellowed.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What nonsense are you spouting?”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "43",
+      "sol": "“What nonsense!”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Family Head, the thing is…”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "45",
+      "sol": "“Family Head, the thing is—”",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Huh?”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "49",
+      "sol": "“What?”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is that all? I wipe her body down with fragrant oil every morning and evening, so she smells wonderful. And her teeth are sparkling white!”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "51",
+      "sol": "“And that’s not all! I rub her down with fragrant oil every morning and evening, so she smells wonderful. Her teeth are pearly white too!”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah… yes.”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "53",
+      "sol": "“Ah… right.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At this point, I was starting to wonder whether Mimi-chan was actually the sacred artifact of the Sichuan Tang Clan.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "59",
+      "sol": "At this point, I was starting to wonder whether Mimi-chan was the true sacred artifact of the Sichuan Tang Clan.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But why can’t I appraise this?*",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "61",
+      "sol": "*But why can’t I appraise it?*",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I tried Item Appraisal again, just in case, but the result did not change. If a special condition was required to appraise it, then the sacred artifact really was a sacred artifact.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "63",
+      "sol": "I tried Item Appraisal again just in case, but the result was the same. If appraising it required some special condition, then I supposed a sacred artifact really was a sacred artifact.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It bothers me that I can’t confirm what it does, but its effects have to be genuine.*",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "65",
+      "sol": "*It bothers me that I can’t confirm its effects, but it should work.*",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I turned toward the Divine Physician. Wearing a smile, he spoke as though he had been waiting for me.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "67",
+      "sol": "I turned to the Divine Physician. He had been watching with a smile, and he spoke as though he’d been waiting for me.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Thousand-Year Poison Horned Snake is not an ordinary venomous snake, but a spiritual creature. Yet the ring rendered the venom gland of such a creature useless… We will have to try it to know how much poison it can detoxify, but it is worthy of the name Myriad-Poison Ring.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "69",
+      "sol": "“The Thousand-Year Poison Horned Snake is no ordinary venomous snake, but a spiritual creature. Yet the ring rendered even its venom glands useless… We will have to try it before we know the full extent of its power, but it is certainly worthy of the name Myriad-Poison Ring.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If that’s the case…”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "71",
+      "sol": "“In that case…”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Without the Myriad-Poison Ring, the chance would have been just one percent. Now, I believe it is over seventy percent.”",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "73",
+      "sol": "“Without the Myriad-Poison Ring, the chance of success would have been a mere one percent. Now, I would place it above seventy percent.”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even with the Myriad-Poison Ring, only seventy percent…?”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "75",
+      "sol": "“Even with the Myriad-Poison Ring, it’s only seventy percent…?”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I shall make up the remaining thirty percent with this old man’s medical skill.”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "77",
+      "sol": "“This old man’s medical arts will supply the remaining thirty.”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Whew. You should have said that from the beginning.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "79",
+      "sol": "“Whew. You should’ve said that from the start.”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Divine Physician laughed heartily at my sigh of relief and stroked his beard.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "81",
+      "sol": "The Divine Physician stroked his beard and laughed heartily at my sigh of relief.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now, only one thing remains.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "83",
+      "sol": "“Now only one thing remains.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tang Sadok cut in bluntly.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "89",
+      "sol": "Tang Sadok abruptly cut in, his tone blunt.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ve heard there is a clinic inside the Sichuan Tang Clan. But Great Hero Jeok’s case requires two conditions.”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "93",
+      "sol": "“I am well aware that the Sichuan Tang Clan has its own clinic. However, treating Great Hero Jeok requires two specific conditions.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Tell me.”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "95",
+      "sol": "“Name them.”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“First, it must be a secluded place where people cannot easily come and go. Second, it must be somewhere untouched by sunlight, with a bitter cold that seeps into the body.”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "97",
+      "sol": "“First, it must be secluded, somewhere people cannot easily come and go. Second, it must receive no sunlight and be permeated by a bitter, bone-chilling cold.”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A secluded, dark, and cold place…”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "99",
+      "sol": "“Somewhere secluded, dark, and cold…”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tang Sadok thought for a moment, then let out a quiet laugh.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "101",
+      "sol": "Tang Sadok considered this for a moment, then let out a quiet laugh.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I am not the Great Hero of benevolence you speak of. This is merely a matter of gratitude and grudges between us. And if you reveal the existence of the Myriad-Poison Ring later, or let it become known outside the clan in any way…”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "107",
+      "sol": "“I am no benevolent Great Hero. This is merely a matter of gratitude and grudges between us. And if you ever reveal the existence of the Myriad-Poison Ring or allow word of it to spread outside the clan…”",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ll be dragged away, made to take a half-body bath in a vat of poison, and have holes poked in me with needles.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "111",
+      "sol": "“I’ll be dragged off, dunked waist-deep in a vat of poison, and have holes punched through me with needles.”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You have a poor imagination. Whatever you imagine, you will suffer something worse.”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "113",
+      "sol": "“You have a poor imagination. Whatever you can imagine, you will suffer worse.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Unless I’ve gone insane, that won’t happen.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "115",
+      "sol": "“That won’t happen unless I lose my mind.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“I certainly hope so… What are you doing here?”",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "117",
+      "sol": "“I certainly hope not… And what are *you* doing?”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Good question. What was that guy doing here?",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "119",
+      "sol": "Good question. What was that guy doing?",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hmph. Do you think she lets just anyone handle her? If I had not called her, she would not even have shown herself in front of you.”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "129",
+      "sol": "“Hmph. Do you think she lets just anyone touch her? If I had not summoned her, she would never even have shown herself before you.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What are you doing, you ridiculous—”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "133",
+      "sol": "“What ridiculous nonsense—”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mimi-chan slid down Tang Sadok’s shoulder and licked the back of Cheongpung’s hand.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "137",
+      "sol": "Mimi-chan slithered down Tang Sadok’s shoulder and licked the back of Cheongpung’s hand.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Gasp!”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "139",
+      "sol": "“Whoa!”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whirlwind, my ass. He was telling her to perform a technique even a person wouldn’t understand.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "143",
+      "sol": "Whirlwind, my ass. He was ordering her to perform a technique even a person wouldn’t understand.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As expected, there was no telling what went on inside Cheongpung’s head.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "145",
+      "sol": "As expected of Cheongpung. I would never understand how that lunatic’s mind worked.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What had I just seen?",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "151",
+      "sol": "What had I just witnessed?",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My mouth fell open as Mimi-chan spun her body wildly in a spiral.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "153",
+      "sol": "My jaw dropped as Mimi-chan began spinning wildly in a tight spiral.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This can’t be! How could Mimi use Whirlwind on someone she’s never met before?”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "157",
+      "sol": "“This cannot be! How could Mimi perform Whirlwind for someone she’s never even met?”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Wait, is that actually a real technique?”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "159",
+      "sol": "“Wait, that’s a real technique?”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That isn’t important right now!”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "161",
+      "sol": "“That is not what matters right now!”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It seemed pretty important to me. At this rate, I wondered whether she might start firing a million volts or a Hyper Beam.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "163",
+      "sol": "It seemed pretty damn important to me. At this rate, she might start firing off a million volts or a Hyper Beam.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Can she evolve, too…?*",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "165",
+      "sol": "*Can she evolve too…?*",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I wondered whether the Myriad-Poison Ring or Mimi-chan was the real sacred artifact, Cheongpung smiled brightly and spoke.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "167",
+      "sol": "As I tried to decide whether the Myriad-Poison Ring or Mimi-chan was the true sacred artifact, Cheongpung beamed.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I get along well with those animals. When I lay down in the grass on Huashan, birds, deer, and even tigers would come play with me. Hehe.”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "169",
+      "sol": "“I’m good with animals. When I lay in the grass at Huashan, birds, deer, and even tigers would come play with me. Hehe.”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tang Sadok stared at Cheongpung with a dazed expression, still reeling from having Mimi-chan stolen from him.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "173",
+      "sol": "Tang Sadok had been staring blankly at Cheongpung, still reeling from the shock of losing Mimi-chan to him. Now he raised an objection.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Wait. There seems to be something strange mixed in at the end there. Why was there a tiger? How dare you tell such an obvious lie in front of this old man!”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "175",
+      "sol": "“Wait. Something strange slipped in at the end. Why would there be a tiger? How dare you tell such an obvious lie before this old man!”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We were playing together and were about to part ways when the tiger tried to eat the deer, so I knocked it out with Crouching Tiger Fist!”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "177",
+      "sol": "“We were all about to say goodbye when the tiger tried to eat the deer, so I knocked it out with Crouching Tiger Fist!”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P88",
+      "baseline_range": [
+        88,
+        88
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "181",
+      "sol": "It sounded completely insane, no matter who heard it.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Anyone would have thought that was insane. But it was probably true.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "183",
+      "sol": "Which probably meant it was true.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the silent main hall, Mungyeong’s mutter rang out with unusual clarity.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "185",
+      "sol": "Silence filled the main hall, making Mungyeong’s mutter ring out with unusual clarity.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is the Huashan I know not the same Huashan?”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "187",
+      "sol": "“Is the Huashan I know a different Huashan…?”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If the heavens and earth were overturned and Cheongpung somehow became Huashan’s Sect Leader, from that day on, it would become *your* Huashan.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "191",
+      "sol": "If heaven and earth were ever overturned and Cheongpung somehow became Huashan’s Sect Leader, from that day onward, it would be *your* Huashan—not mine.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mouth of the cave gaped open like a pitch-black maw.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "205",
+      "sol": "Its entrance yawned open like a pitch-black maw.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Aside from two large braziers installed on either side, there was no one in sight.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "207",
+      "sol": "Aside from two large braziers on either side, there was no one in sight.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Where are we? There doesn’t seem to be anyone guarding it.”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "209",
+      "sol": "“Where are we? It doesn’t look like anyone is guarding this place.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Since no one is here, I suppose it must be feeding time.”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "211",
+      "sol": "“If no one is here, I suppose it must be feeding time.”",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You will find out once we enter. Follow me.”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "215",
+      "sol": "“You will understand once we enter. Follow me.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike the Jin Family of Taiyuan’s training hall, the cave was not arranged in a straight line.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "217",
+      "sol": "Unlike the Jin Family of Taiyuan’s training hall, this cave did not run in a straight line.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had no idea how far we descended the stone stairs leading deep underground before a narrow passageway, barely wide enough for two people to pass through, appeared before us. A familiar smell entered my nostrils.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "219",
+      "sol": "We descended stone steps leading deep underground for what felt like ages. Eventually, we reached a narrow corridor barely wide enough for two people to pass through side by side, and a familiar smell invaded my nose.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Is this… the smell of blood?*",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "221",
+      "sol": "*Is that… blood?*",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Something felt wrong, so I looked around. Doors reinforced with iron bars appeared at irregular intervals.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "223",
+      "sol": "A bad feeling came over me. I looked around and saw barred iron doors spaced along the corridor.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No way…”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "225",
+      "sol": "“Don’t tell me…”",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, you will see plenty of those once we get inside.”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "231",
+      "sol": "“Oh, you will see plenty of those farther inside.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As everyone, myself included, stared at him, Tang Sadok spoke in an unconcerned tone.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "235",
+      "sol": "Everyone turned to stare at Tang Sadok, myself included, but he continued as though it were no big deal.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Except for the Family Head’s Hall and a few other pavilions, this is the oldest space in the family compound. It must be well over two hundred years old by now. In any case, it is a historic place steeped in history.”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "237",
+      "sol": "“Except for the Family Head’s Hall and a few other pavilions, this is one of the oldest places in our family compound. It must be well over two hundred years old by now. In any case, it is a venerable place steeped in history.”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I did not know about it being steeped in history, but I felt like I ought to write a will before I was dragged any farther inside.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "239",
+      "sol": "Forget its venerable history. I felt like I ought to leave a will before I got dragged any farther inside.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P115",
+      "baseline_range": [
+        115,
+        115
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "239",
+      "sol": "The more I thought about it, the more ridiculous it seemed.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Isn’t it still just a prison?”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "241",
+      "sol": "“It’s still a prison.”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is there a problem?”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "243",
+      "sol": "“Is that a problem?”",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course there is! You want us to treat Old Master—no, my Master—in here?”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "245",
+      "sol": "“Of course it is! You want us to treat Old Master—no, my Master—in here?”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Not a ray of sunlight enters this place, and a bitter chill seeps through it until it reaches your bones. This is the most suitable location.”",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "247",
+      "sol": "“Not a single ray of sunlight reaches this place, and the chill permeates it to the bone. There is no more suitable location.”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You said you conduct torture here, too.”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "249",
+      "sol": "“You said people are tortured here too.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Anyone listening would have thought he was asking whether I wanted extra toppings on my pizza.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "255",
+      "sol": "Anyone overhearing him would have thought I’d asked if he wanted extra toppings on his pizza.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as I ran out of things to say, a hunched old man came limping toward us from the distance, accompanied by a faint light.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "257",
+      "sol": "Just as I ran out of words, a hunched old man came limping toward us from the distance, accompanied by a faint glow.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Nothing much. Same as usual. I just went in to check whether they were still breathing. But who are these people…?”",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "263",
+      "sol": "“Oh, much the same as usual. I just checked whether they were still breathing. But who might these people be…?”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They are guests of our family. They will be staying in the prison for fifteen days due to certain circumstances. They will not be too noisy, will they?”",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "265",
+      "sol": "“They are guests of our family. Circumstances require them to stay in the prison for fifteen days. It won’t be too noisy, will it?”",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, sir. The ones still alive are hardly any different from walking corpses, so it should be quiet.”",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "267",
+      "sol": "“No, sir. Those still alive are little better than walking corpses, so it should be quiet.”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When I saw him a few months ago, the Heavenly Power Demon still seemed to have plenty of energy.”",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "269",
+      "sol": "“When I saw him a few months ago, that Heavenly Power Demon fellow still seemed full of energy.”",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, that one? You needn’t worry about him anymore.”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "271",
+      "sol": "“Ah, him? You needn’t worry about that one anymore.”",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The hunched old man grinned, exposing teeth that had almost entirely rotted away.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "273",
+      "sol": "The hunched old man grinned, revealing a mouthful of almost entirely rotten teeth.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He was so noisy that I drained every last bit of energy from him. And while I was at it, I took a few other things, too. Hehe.”",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "275",
+      "sol": "“He made such a racket that I drained every last bit of energy out of him. And since I was at it, I took a few other things too. Hehe.”",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, Family Head, you flatter me. I only do it because I enjoy it.”",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "279",
+      "sol": "“Oh, Family Head, you flatter me. I only do it because I enjoy the work.”",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I listened to their conversation, I made a resolution.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "281",
+      "sol": "As I listened to their conversation, I made a firm resolution.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I must never become enemies with the Sichuan Tang Clan.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "283",
+      "sol": "I must never make an enemy of the Sichuan Tang Clan.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Excellent. It seems the deepest and largest cell has just been emptied. We can use that one.”",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "287",
+      "sol": "“Excellent. It seems the deepest and largest cell has just been vacated. We can use that one.”",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I did not need to hear why it had been emptied.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "289",
+      "sol": "I didn’t need to hear why it had been vacated.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was not as if someone had checked out at the prison’s front desk and walked away.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "291",
+      "sol": "It wasn’t as though someone had checked out at the prison’s front desk and walked away.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*They must have checked in with the afterlife by now.*",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "293",
+      "sol": "*They must’ve checked in to the afterlife by now.*",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Divine Physician had clearly thought the same thing. Mungyeong addressed his Master, who had put on a frown, in a calm voice.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "297",
+      "sol": "The Divine Physician was clearly thinking the same thing. As he frowned, Mungyeong addressed his Master in a calm voice.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Master, are we not physicians? For the sake of our patient, you must endure it even if you dislike the place.”",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "299",
+      "sol": "“Master, are we not healers? For the patient’s sake, we must endure the place even if it displeases us.”",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And the people imprisoned here are certainly evil men who have committed countless murders. Please do not let it trouble you too much.”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "305",
+      "sol": "“Besides, those imprisoned here must be evil men who have committed countless murders. Please do not let it trouble you too deeply.”",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tang Sadok, who had been listening to their conversation, added a word.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "307",
+      "sol": "Tang Sadok, who had been listening to their conversation, added his own remark.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, well. You are quite mature for a young medical apprentice. Divine Physician, as that boy said, everyone imprisoned here is a vicious demonic criminal, so do not think poorly of our family.”",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "309",
+      "sol": "“Well, well. You are quite composed for such a young medical apprentice. Divine Physician, as the boy said, every man imprisoned here is a thoroughly wicked fiend. Do not think poorly of our family.”",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I committed a discourtesy out of concern. Please forgive this old man with your generous heart.”",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "311",
+      "sol": "“This old man allowed his concern to lead him into discourtesy. I ask your generous forgiveness.”",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I will gladly forgive you. Of course, not those men who harmed members of our family. Isn’t that right, Old Man Gung?”",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "313",
+      "sol": "“I shall gladly forgive you. Of course, the same does not apply to those bastards who harmed members of our family. Isn’t that right, Old Man Gung?”",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Old Man Gung laughed with a bizarre metallic sound and picked up a torch.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "315",
+      "sol": "Old Man Gung picked up a torch and let out a bizarre, metallic laugh.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Come now. I shall show you the way.”",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "317",
+      "sol": "“Come, then. This humble one will show you the way.”",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Judging by the atmosphere alone, that old man seems more dangerous than the culprit who killed the Poison King.*",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "323",
+      "sol": "*Going by the atmosphere alone, that old man seems more dangerous than the bastard who killed the Poison King.*",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had to be my imagination. It was definitely my imagination.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "325",
+      "sol": "It had to be my imagination.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P158",
+      "baseline_range": [
+        158,
+        158
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "325",
+      "sol": "Yes. Definitely my imagination.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And so, we began walking toward the suite boasting the finest facilities in the Sichuan Tang Clan’s prison.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "327",
+      "sol": "And so, we began walking toward the suite boasting the finest facilities in the Sichuan Tang Clan’s underground prison.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Winter had passed. The sky was clear, and the bare mountain forest was gradually regaining its green color.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "339",
+      "sol": "Winter had passed. The sky was clear, and the once-bare mountain forest was slowly regaining its green.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The valley of the nameless mountain was peaceful, as it always was. Yet no matter how much he thought about it, he could not understand why he felt such a strange sense of déjà vu.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "341",
+      "sol": "The valley in this nameless mountain was as peaceful as ever. Yet no matter how long he thought about it, he could not understand why he felt such a strange sense of déjà vu.",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What a strange thing. Such a strange thing…”",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "343",
+      "sol": "“How very strange. Very strange indeed…”",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man muttered softly, then turned his head and asked,",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "345",
+      "sol": "The middle-aged man muttered softly, then turned his head.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t you think so, too?”",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "347",
+      "sol": "“Don’t you agree?”",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Blood bubbled up from the man’s gaping throat.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "351",
+      "sol": "Blood gushed from the gaping wound in the fallen man’s throat.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fallen man glared at the middle-aged man with eyes full of resentment.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "353",
+      "sol": "He glared up at the middle-aged man, his eyes burning with hatred.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“M-my family will make you pay…”",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "355",
+      "sol": "“M-my family… will make you pay…”",
+      "sol_paragraphs": "P174",
+      "sol_range": [
+        173,
+        174
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Those are boring last words. Then again, the Sichuan Tang Clan has always been like that.”",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "357",
+      "sol": "“What boring last words. Then again, the Sichuan Tang Clan has always been like that.”",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man wiped the leather shoe soaked in blood and brain matter against the grass before straightening his back.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "361",
+      "sol": "The middle-aged man wiped his leather shoe, drenched in blood and brain matter, against the grass before straightening.",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Four bodies lay scattered around him.",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "363",
+      "sol": "Four corpses lay scattered around him.",
+      "sol_paragraphs": "P178",
+      "sol_range": [
+        177,
+        178
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then he smiled at the one man still alive.",
+      "baseline_paragraphs": "P176",
+      "baseline_range": [
+        175,
+        176
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "365",
+      "sol": "He smiled at the sole surviving man.",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So, will you answer my questions obediently, or would you rather writhe in unimaginable pain until you die?”",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "367",
+      "sol": "“Now, will you answer my questions obediently, or would you prefer to writhe in unimaginable agony until you die?”",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "369",
+      "sol": "“…!”",
+      "sol_paragraphs": "P181",
+      "sol_range": [
+        180,
+        181
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“For your information, the Poison King chose the latter. He lasted four days before finally dying.”",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "371",
+      "sol": "“For your information, the Poison King chose the latter. He held out for four days before finally dying.”",
+      "sol_paragraphs": "P182",
+      "sol_range": [
+        181,
+        182
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The man shuddered and slowly closed his eyes.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "373",
+      "sol": "The man shuddered, then slowly closed his eyes.",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A deep smile spread across the middle-aged man’s lips as he saw the man prepare himself for death.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "375",
+      "sol": "A broad smile spread across the middle-aged man’s lips as he watched the man brace himself for death.",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 185,
+  "sol_sha256": "4e040ea07e1d86c37768da1d9990296ca15fa6accb6fc9da633327e45d8220ca",
+  "version": 1
+}
