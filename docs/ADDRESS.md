@@ -852,3 +852,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매종학 | 적천강 | long-standing martial rival and friend | Great Hero Jeok | casual and familiar | Mae addresses Jeok as 적 대협 while discussing the Alliance Leader position. |
 | 적천강 | 매종학 | long-standing martial rival and friend | you | blunt and familiar | Jeok addresses Mae as 당신 while recalling their meeting at Mount Jiuhua. |
 | 벽력도왕 | 진태경 | elder martial master to younger rival | you | boisterous and confrontational | Peng addresses Taekyung as 네놈 while discussing Peng Dojin. |
+| 천면호리 | 매종학 | intelligence_chief_to_alliance_leader | Alliance Leader | formal and deferential | Requests that Mae move elsewhere with the others before he reports further. |
+| 벽력도왕 | 매종학 | Ten Kings peer to Ten Kings peer | Sword Saint | familiar and blunt | Asks Mae what was discussed in the sealed meeting. |
+| 매종학 | 벽력도왕 | Ten Kings peer to Ten Kings peer | Peng | casual and admonitory | Calls him 팽가야 and tells him to remain quiet. |
