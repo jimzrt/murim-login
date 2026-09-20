@@ -1,6 +1,6 @@
 # Cheon Taemin (천태민)
 
-- **Safe through:** Chapter 579
+- **Safe through:** Chapter 582
 - **Aliases:** Slayer
 - **Role:** Cheon Taemin is Ares Guild Master and the world's greatest Hunter, known as the Slayer for killing the Demon King and creating the first Mana Cultivation Method during the Great Cataclysm, and he is believed to remain alive after more than twenty years of unconsciousness, with Area A only suspected as his location.
 - **Personality:** Not established.
