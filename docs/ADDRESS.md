@@ -895,3 +895,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 송호 | 적천강 | Hidden Shadow Pavilion Chief to legendary senior master | Great Hero Jeok | formal-deferential | Song Ho addresses Jeok while questioning the basis for his confidence in Taekyung. |
 | 적천강 | 송호 | senior martial master to allied intelligence chief | you | blunt but reassuring | Jeok directly tells Song Ho to believe Taekyung. |
 | 매종학 | 천면호리 | Alliance Leader to Hidden Shadow Pavilion Chief | Chief of the Hidden Shadow Pavilion | casual-but-commanding | Asks Song Ho's view of Taekyung's suspected target. |
+| 최 팀장 | 진태경 | team_leader_to_client | Mr. Jin Taekyung | polite-professional | Choi uses 진태경 씨 while welcoming Taekyung back and offering birthday wishes. |
+| 진태경 | 최 팀장 | client_to_team_leader | Team Leader Choi | polite-familiar | Taekyung greets Choi as 최 팀장 after returning to the modern world. |
+| 하연 | 스켈레톤 킹 | younger_companion_to_older_companion | old man | casual-insulting | Hayeon calls the Skeleton King 아저씨 because he is over thirty. |
+| 스켈레톤 킹 | 하연 | older_companion_to_younger_companion | insolent human girl | formal-archaic and insulting | The Skeleton King addresses Hayeon as 건방진 인간 계집아 before retracting the insult. |
+| 진태경 | 스켈레톤 킹 | companion_to_companion | you subhuman bastard; monster | blunt and insulting | Taekyung orders the Skeleton King to apologize to Hayeon. |
