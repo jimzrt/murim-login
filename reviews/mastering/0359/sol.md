@@ -78,7 +78,7 @@ He didn’t hesitate.
 
 Snap!
 
-The Western Heaven Demon Lord extended one foot.
+The Western Heaven Demon Lord kicked off the ground.
 
 *Shifting Form and Position.*
 
@@ -124,7 +124,7 @@ But I knew one thing.
 
 If I backed down here, all that awaited me was death.
 
-*I have to strike back.*
+*I have to meet it head-on.*
 
 I needed power strong enough to stand against Sword Force. This was the moment to use the best move I had.
 
@@ -222,9 +222,9 @@ It was martial arts—and internal energy.
 
 The Western Heaven Demon Lord’s martial arts occupied a distant realm beyond my reach, and the terrifying internal energy transmitted through my spear battered me from within.
 
-*What the hell…!*
+*This is fucking insane…!*
 
-Blood sprayed between my clenched teeth. My torn hands had been covered in blood for some time already.
+Blood sprayed through my clenched teeth. My torn palms had long since been drenched in blood.
 
 I squeezed out every last ounce of strength and swung my spear at the ink-black Sword Force cleaving toward my chest.
 
@@ -344,15 +344,15 @@ The Western Heaven Demon Lord stared at me in confusion.
 
 “I’m good with my body, but hopeless with my head. I’m such a dumbass that I even failed the Level Eight Hanja exam.[^1] Then I came across the term ‘supernatural powers’ in a martial-arts novel. I didn’t know what it meant, so I looked it up.”
 
-Even if I explained it like this, he probably wouldn’t understand half of what I was saying.
+He probably couldn’t understand half of what I was saying.
 
-My vision wavered. Every time I exhaled, my lungs prickled as though they were being stabbed with needles, and the spear shaft that had always felt light now seemed like a boulder weighing ten thousand geun.
+My vision wavered. Every breath made my lungs prickle as though needles were stabbing into them, and the spear shaft that had always felt so light now weighed as much as a ten-thousand-geun boulder.
 
 Even so…
 
-“‘Supernatural powers.’ Mysterious beings or phenomena that are difficult to explain through reason. That’s what it meant.”
+“‘Supernatural powers.’ Mysterious beings or phenomena that can’t be explained through reason. That’s what it meant.”
 
-I neither staggered nor collapsed. I simply stared at the Western Heaven Demon Lord and continued speaking slowly.
+I neither staggered nor collapsed. I simply stared at the Western Heaven Demon Lord and continued slowly.
 
 “What’s so special about supernatural powers? A bastard who keeps fighting even after he’s been reduced to this—that’s supernatural powers.”
 
@@ -380,7 +380,7 @@ I gathered every last scrap of internal energy. The meager handful of qi flowed 
 
 A faint wisp of Spear Energy lit the darkness like a firefly.
 
-“Quit spouting bullshit and come at me, you bastard with a supernatural-powers fetish.”
+“Quit spouting bullshit and come at me, you supernatural-powers-loving bastard.”
 
 The Western Heaven Demon Lord fell silent.
 
