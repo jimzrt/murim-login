@@ -2,9 +2,9 @@
 
 *They’re coming.*
 
-The Green Shadow Squad martial artist had blurted out a disjointed sentence.
+The Green Shadow Squad martial artist’s disjointed words told Tang Sadok everything he needed to know.
 
-But insight struck Tang Sadok like a flash of lightning. It gave form to the small unease he had harbored in his heart, and it was the conclusion drawn from all the experience he had accumulated over the years.
+Insight struck like a flash of lightning. The words gave shape to the unease that had been lurking in his heart, confirming the conclusion drawn from all his years of experience.
 
 *The murderer isn’t alone!*
 
@@ -18,23 +18,23 @@ The next moment, Tang Sadok’s voice erupted like a thunderbolt.
 
 Rumble!
 
-The pavilion trembled beneath the enormous shout, laden with powerful internal energy.
+The Family Head’s Hall trembled beneath the tremendous shout, laden with powerful internal energy.
 
-The disturbance had occurred in none other than the Family Head’s Hall. The first to react were Tang Sadok’s guards surrounding the pavilion.
+The first to react to the sudden disturbance were Tang Sadok’s guards, stationed around the hall.
 
 “Family Head!”
 
 Bang!
 
-By the time the guards burst inside, smashing through the pavilion doors, the clan members who had heard Tang Sadok’s shout were already spreading his orders throughout the family compound.
+By the time they came crashing inside, clan members who had heard Tang Sadok’s shout were already carrying his orders throughout the compound.
 
 Within fifteen minutes, hundreds of Tang Family members, united by venomous resolve and resentment, would assemble.
 
 And then…
 
-*I’ll show you. I’ll show you what the Tang Family’s revenge looks like.*
+*I’ll show you what the Tang Family’s revenge looks like.*
 
-Despite the fury boiling in his chest, Tang Sadok’s eyes had grown as cold as the northern wind and bitter snow.
+Despite the fury boiling in his chest, Tang Sadok’s eyes were as cold as a bitter northern wind.
 
 “Family Head, what in the world is—”
 
@@ -58,7 +58,7 @@ The Green Shadow Squad martial artist finally caught his breath and began his re
 
 Tang Sadok trailed off, his gaze turning grim.
 
-“…The government troops. It was the government troops.”
+“…Government troops. They were dressed as government troops.”
 
 The Green Shadow Squad martial artist stared wide-eyed at the Family Head, then nodded.
 
@@ -80,17 +80,17 @@ The enemy had slipped into Chengdu through the gap left when the net loosened.
 
 The elite were always deployed to the front lines. The most experienced and sharp-eyed members of the Beggars’ Sect and government troops had already left Chengdu.
 
-Besides, wasn’t this after several thousand government troops had spent nearly ten days roaming around Chengdu? Anyone wearing their uniforms could have blended in naturally.
+Besides, several thousand soldiers had been roaming the city for nearly ten days. Anyone dressed in their uniforms could have blended in with ease.
 
 “How many were there?”
 
-“Perhaps to avoid suspicion, they were moving in several groups. But from what we were able to determine, there seemed to be at least three hundred of them.”
+“Perhaps to avoid suspicion, they were traveling in several groups. But from what we could determine, there were at least three hundred.”
 
 “Three hundred?”
 
 “Yes. I’m certain.”
 
-The Master of the Gatekeeper Pavilion had been listening to the report with an anxious expression. Now he spoke in a triumphant tone.
+The Master of the Gatekeeper Pavilion, who had been listening with an anxious expression, suddenly spoke in a triumphant tone.
 
 “Ha! Only three hundred? They must have a death wish. Isn’t that right, Uncle?”
 
@@ -100,7 +100,7 @@ The Master of the Gatekeeper Pavilion had been listening to the report with an a
 
 Tang Sadok finally opened his mouth.
 
-“Shut up.”
+“Be quiet.”
 
 “Pardon?”
 
@@ -146,7 +146,7 @@ The Master of the Gatekeeper Pavilion slammed his fist down, denting the iron ta
 
 “Why are you afraid of a mere three hundred enemies? Fifty years ago, even the Demonic Cult’s vicious fiends—several times more numerous than this—had to shed untold blood to overcome our family!”
 
-His ringing shout shook the air inside the pavilion.
+His ringing shout shook the air inside the hall.
 
 Tang Sadok’s answer to his furious nephew was short and simple.
 
@@ -172,15 +172,15 @@ Ignorance this profound was practically a disease. Tang Sadok let out a hollow l
 
 “After the Great Faction War, our family built an impregnable fortress that no one could breach. We increased our numbers and armed every clan member. Is there anyone under heaven who doesn’t know that? Is there anyone who doesn’t know the strength and determination our family displayed during the Gyeongwol Year Bloodbath?”
 
-Under the storm and thunder crashing down on him, the Master of the Gatekeeper Pavilion’s face had turned pale.
+The Master of the Gatekeeper Pavilion turned pale beneath the storm of Tang Sadok’s fury.
 
-Only now did he understand that the three hundred enemies invading the Sichuan Tang Clan were not men anyone could dismiss as *only* three hundred.
+Only now did he understand. Anyone who knew the strength of the Sichuan Tang Clan and still dared to invade with three hundred men could not be dismissed as *only* three hundred.
 
-By contrast, the old and experienced Family Head’s judgment was swift and decisive.
+The old Family Head had reached that conclusion without hesitation.
 
 “Sound the Tang War Drum.”
 
-A stir passed through the guards, who had been frozen like stone at the Family Head’s command.
+A stir passed through the guards, who had been standing frozen like statues.
 
 “Y-you mean the Tang War Drum?”
 
@@ -190,7 +190,7 @@ A stir passed through the guards, who had been frozen like stone at the Family H
 
 The blade-sharp order wiped the color from the guards’ faces. They hurried into motion.
 
-A short while later, when the Tang War Drum’s thunder rolled throughout the Sichuan Tang Clan, everyone would know.
+When the Tang War Drum thundered through the Sichuan Tang Clan, everyone would understand.
 
 Their family stood on the brink of destruction.
 
@@ -218,7 +218,7 @@ The Tang Clan drum had not sounded since before he was born. He was still strugg
 
 The Master of the Gatekeeper Pavilion spun toward him and saw the fathomless depths of Tang Sadok’s eyes.
 
-At the same time, several gray-flecked figures entered the pavilion with swift movement techniques.
+At the same moment, flickering figures raced into the hall with swift movement techniques.
 
 “Family Head!”
 
@@ -266,9 +266,9 @@ At that moment, time seemed to stop.
 
 The majestic thunder of the Tang War Drum, which had finally begun to sound. The frantic movements and shouts of the clan members.
 
-Unlike the time outside, which continued to flow unchanged, everything inside the pavilion had come to a complete halt.
+Time continued to flow outside, but everything within the hall had frozen in place.
 
-Amid the silence and shock, only one person moved backward through time.
+Amid the silence and shock, only one man moved backward through time.
 
 Crack. Crrrck.
 
@@ -276,7 +276,7 @@ Bones lengthened and contracted. Muscles swelled.
 
 The blood-soaked uniform tore apart, splitting the two characters embroidered across its chest—*Tang Family*—in half.
 
-The Green Shadow Squad martial artist slowly rose to his feet.
+The Green Shadow Squad martial artist slowly straightened.
 
 He was no longer a young man in his twenties.
 
@@ -284,13 +284,13 @@ Nor had he ever been a member of the Green Shadow Squad.
 
 “You have a sharp eye. The Poison King raised his son well.”
 
-The middle-aged man smiled faintly and rubbed his left arm. The color of his skin differed subtly around the elbow, as if the arm had been removed and attached again.
+The middle-aged man smiled and rubbed his left arm. The skin around his elbow was a subtly different color, as though the arm had been torn off and reattached.
 
 “And to answer your question… I honestly don’t know myself. Let’s just call it demonic martial arts for convenience.”
 
 A green light flickered in Tang Sadok’s eyes as he stared at the middle-aged man.
 
-“So it was you. You were the one who harmed my father.”
+“So it was you. You killed my father.”
 
 “Poison King Tang Taesang truly lived up to his reputation. I was honestly impressed. That was when I lost my arm, too.”
 
@@ -304,9 +304,9 @@ The middle-aged man clenched and unclenched his left fist, making a show of frow
 
 Rumble!
 
-The enormous qi pressure flowing from Tang Sadok and the Tang Clan’s Ten Wonders shook the pavilion.
+The tremendous qi surging from Tang Sadok and the Tang Clan’s Ten Wonders shook the hall.
 
-Yet even in the face of deadly poison capable of killing a person with a single breath, the middle-aged man— the Western Heaven Demon Lord—smiled calmly.
+Yet even before a deadly poison capable of killing with a single breath, the middle-aged man—the Western Heaven Demon Lord—smiled calmly.
 
 “If you can, by all means.”
 
