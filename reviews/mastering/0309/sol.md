@@ -2,7 +2,7 @@
 
 It had already been three days since I left Luoyang with the Bermuda Triangle.
 
-I suddenly opened my mouth.
+I spoke up.
 
 “Mujin.”
 
@@ -20,7 +20,7 @@ What good was learning the Myriad-Li Chasing Wind Movement Technique, supposedly
 
 “Gung Gibang.”
 
-“Huff… Why’d you call me?”
+“Huff… What do you want?”
 
 His breathing was ragged.
 
@@ -30,7 +30,7 @@ And then there was the last one…
 
 “Benefactor, would you like a dumpling?”
 
-“You eat plenty yourself.”
+“You eat them.”
 
 “I ate plenty on the way. I’m full.”
 
@@ -76,7 +76,7 @@ I turned to Hyuk Mujin.
 
 It was a chain specially crafted by the Fire Gate Clan from Ten-Thousand-Year Cold Iron.
 
-Just before the Star-Array Grand Banquet began, I had removed the chain along with the iron ball. When Hyuk Mujin heard that it was made of Ten-Thousand-Year Cold Iron, his eyes had lit up, and he had quickly taken it.
+Right before the Star-Array Grand Banquet began, I had removed the chain and iron balls. The moment Hyuk Mujin heard what the chain was made of, his eyes had lit up and he had promptly taken it off my hands.
 
 “You brought it, right?”
 
@@ -118,21 +118,21 @@ No wonder Hyuk Mujin looked as if his soul were being torn from his body as he h
 
 Chain in hand, I called the bewildered Gung Gibang over and got to work.
 
-The two of them stared blankly at me, wearing expressions that clearly asked what I was doing. Then they spoke at the same time.
+The two of them stared blankly at me, plainly wondering what the hell I was doing, then spoke at the same time.
 
 “What are you doing?”
 
 “What kind of pointless bullshit is this?”
 
-Rattle, rattle.
+Clink, clink.
 
 I answered calmly.
 
-“Can’t you see? I’m tying a knot with the chain.”
+“Can’t you see? I’m tying knots with the chain.”
 
 “No, I mean, why are you wrapping it around my waist…?”
 
-“Hold on. Untie this.”
+“Wait. Take this off.”
 
 “There. Done.”
 
@@ -162,11 +162,11 @@ Chained to me, Gung Gibang and Hyuk Mujin tore off like wild boars with their ta
 
 At the commotion, Cheongpung came scrambling out of the nearby brush, where he had been relieving himself with his ass bared, and raced after us.
 
-“Benefactor! I’m coming too!”
+“Benefactor! Wait for me!”
 
 “…”
 
-*I don’t think that bastard wiped.*
+*That bastard didn’t wipe.*
 
 *No. He must have.*
 
@@ -196,7 +196,7 @@ At the voice in her ear, a pair of faintly gleaming black eyes turned to the sid
 
 A middle-aged man with a graying beard quietly approached the head of the procession. After a moment’s hesitation, he sighed.
 
-“Chief Escort Seok has passed away.”
+“Escort Leader Seok has passed away.”
 
 “…!”
 
@@ -210,7 +210,7 @@ The slender figure swaying gently in the saddle went rigid. A moment passed befo
 
 Ju Hwaran bit down hard on her lip beneath her veil.
 
-*It’s true. Everything happened because I lacked virtue.*
+It was true. All of this had happened because she had failed them.
 
 Escort Leader Seok, who had grown up with her like a brother, and the thirty-two people who had died before him—all of their deaths had been caused by her poor judgment.
 
@@ -236,7 +236,7 @@ But as Ju Hwaran grew older, people realized that he wasn’t simply a foolishly
 
 She was brilliant enough to master the Escort Bureau’s ledgers before she had even turned twenty, and beautiful enough to be named one of the Three Flowers of Jiangbei.
 
-On top of that, she was a master of martial arts skilled enough to be counted among the Ten Dragons and Phoenixes, the greatest young prodigies of the orthodox Murim.
+On top of that, her exceptional martial arts had earned her a place among the Ten Dragons and Phoenixes, the orthodox faction’s foremost young prodigies.
 
 That was Ju Hwaran.
 
@@ -254,7 +254,7 @@ At least she still had her people.
 
 The fifty years of goodwill her grandfather and father had built through benevolence and virtue were now the only pillar holding her upright.
 
-Ju Hwaran forced a smile at Heo Jun, the Chief Escort, who spoke to her with concern.
+Ju Hwaran forced a smile for Heo Jun, the Chief Escort watching her with concern.
 
 “You don’t need to worry about me, Uncle Heo.”
 
@@ -286,7 +286,7 @@ Salt could slow the decay of his body, but by the time they completed their esco
 
 Heo Jun nodded slightly and gave a hand signal. The procession soon came to a halt.
 
-There was still a chill in the air, but the broad stretch of land was perfect for camping. Ju Hwaran planned to replenish her strength here and cross the mountain early the next morning.
+A chill still lingered in the air, but the broad, open ground was ideal for making camp. Ju Hwaran planned to recover their strength here, then cross the mountain early the next morning.
 
 *We’re almost there.*
 
@@ -294,7 +294,7 @@ Ju Hwaran stared at the mountain shrouded in darkness.
 
 Its stones were black, giving Black Stone Mountain its name. Once they crossed it, this escort mission would enter its final leg.
 
-They had suffered countless losses, but if the escort journey succeeded, the Yongbong Escort Bureau would have a chance to catch its breath.
+They had suffered terrible losses, but if the mission succeeded, the Yongbong Escort Bureau would finally have a chance to catch its breath.
 
 *It’s seven days and nights from here to Mount Zhongnan. We don’t have much time to spare, but if we make it safely across Black Stone Mountain, it should be enough.*
 
@@ -314,7 +314,7 @@ A faint sound reached her ears.
 
 Something had stepped on a dry leaf, and it wasn’t a wild animal.
 
-A red alarm bell instantly rang in Ju Hwaran’s mind.
+Alarm bells rang in Ju Hwaran’s mind.
 
 *An enemy!*
 
@@ -348,16 +348,16 @@ A towering giant emerged, a huge axe strapped across his back. At the sight of h
 
 “You dare!”
 
-A graceful figure suddenly stepped forward beside the stiffly standing Heo Jun.
+A graceful figure stepped abruptly past the rigid Heo Jun.
 
 “Perfect timing. We were just about to pay the toll.”
 
 “We’ll see.”
 
-Heavenly Axe grinned and gave his axe a shake.
+Heavenly Axe grinned and hefted his axe.
 
 “Let’s take a look at the goods first. Then we’ll talk.”
 
 Rustle, rustle, rustle!
 
-Behind his axe, hundreds of Green Forest bandits emerged.
+Behind him, hundreds of Green Forest bandits emerged.
