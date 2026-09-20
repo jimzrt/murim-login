@@ -6,7 +6,7 @@ Blood gushed from Heo Jun’s slashed throat.
 
 He thrashed and clutched at his neck, but it was already too late.
 
-Ju Hwaran’s single sword strike had been fast and precise. It had accomplished its purpose without a single mistake.
+Ju Hwaran’s sword had been swift and precise. Her strike had accomplished its purpose without deviating so much as an inch.
 
 “Grrk…”
 
@@ -14,7 +14,7 @@ It was the death rattle of a dying man.
 
 What had he wanted to say? *This is unfair? Spare me? Or perhaps, I’ll curse you even in death?*
 
-Heo Jun’s lips, which had been opening and closing as blood rattled in his throat, suddenly froze.
+Heo Jun’s lips moved soundlessly as blood rattled in his throat, then went still.
 
 The strength drained from his flailing limbs. His eyes, fixed on Ju Hwaran and clouded with countless emotions, lost their light.
 
@@ -44,7 +44,7 @@ Pain often made people mature. I hoped this ordeal had helped her grow.
 
 There was an awkward edge to the air.
 
-Just as I was thinking that, something pressed down hard on my foot.
+As I wondered why, a foot pressed down hard on mine.
 
 I looked down and saw an ornate woman’s shoe.
 
@@ -62,7 +62,7 @@ At the end of the path they had opened stood Ju Hwaran, still holding her salute
 
 Was there something on my face?
 
-As I stood there flustered, Wolhwa whispered so softly that I could barely hear her.
+As I stood there bewildered, Wolhwa whispered so softly I could barely hear her.
 
 “Young Master Jin, say something.”
 
@@ -80,7 +80,7 @@ Well, she had aged about ten seconds in the meantime.
 
 I had no idea why I had to speak when Huashan’s leading candidate for Sect Leader, the Beggar Prince, and the Lower District Sect’s Shaanxi Branch Leader were all standing right there, but I gave an awkward bow anyway.
 
-“There’s no need to call it discourteous. And I’m not a senior in the martial world, so you can treat me casually.”
+“There’s no need to apologize. And I’m no senior of the martial world, so you don’t have to stand on ceremony with me.”
 
 “How could I do that?”
 
@@ -152,13 +152,13 @@ What had just happened? That was the exact opposite of what I had meant to say.
 
 As I stood there dazed, Ju Hwaran cautiously asked,
 
-“Great Hero Jin, are you really all right? If you have something urgent to attend to, we can postpone it until later.”
+“Great Hero Jin, are you sure? If you have urgent business, we can always postpone it.”
 
 *Thank you. Thank you so much for saying that first.*
 
 Sharp and perceptive as ever. She had scratched exactly where it itched, and I answered without hesitation.
 
-“No matter how urgent it is, can’t I share one meal with you?”
+“No matter how urgent it is, surely I can spare enough time to share one meal with you.”
 
 “Right…”
 
@@ -202,9 +202,9 @@ It was early spring. The blazing sun disappeared behind the western mountains le
 
 Oil lamps illuminated the reception room, where a magnificent feast had been laid out across the table. Cheongpung and Gung Gibang stared wide-eyed as they crammed food into their mouths.
 
-“Mmph. Benefactor. This is delicious. Mmph-mmph-mmph.”
+“Mmph. Ben’factor. This is delicious. Mmph-mmph-mmph.”
 
-“…Eat as much as you want. Preferably don’t talk.”
+“…Eat as much as you want. Just try not to talk.”
 
 The food did look delicious.
 
@@ -214,13 +214,13 @@ At least until Cheongpung went out of his way to show me what was in his mouth.
 
 Gung Gibang really was a beggar to the bone.
 
-As he continued his meat-centered massacre, Ju Hwaran nodded.
+Ju Hwaran nodded to the bastard as he continued massacring the meat dishes.
 
 “Of course. Tell them they can come whenever they’re hungry.”
 
 “Oh, whenever they’re hungry?”
 
-“…Not quite that much.”
+“…Not too many at once, though.”
 
 If every Beggars’ Sect disciple in Shaanxi Province descended on the place, all four hundred thousand silver nyang of our compensation would disappear into food costs.
 
@@ -282,7 +282,7 @@ Song Ilseom replied in his usual blunt tone.
 
 “You?”
 
-Ju Hwaran asked back in surprise, and Song Ilseom’s eyes flashed.
+Ju Hwaran stared at me in surprise, while Song Ilseom’s eyes flashed.
 
 “If even you, the man who defeated the Taeeul Merciless Sword, say so… she must be an extraordinary master indeed. Can you tell me her name and epithet?”
 
@@ -292,7 +292,7 @@ Ju Hwaran asked back in surprise, and Song Ilseom’s eyes flashed.
 
 Of course he hadn’t. She was my mother.
 
-Without showing anything on my face, I continued in a solemn tone.
+Keeping my expression solemn, I continued.
 
 “In any case, she always said you had to eat all kinds of food without being picky if you wanted to grow big—no, strong.”
 
@@ -318,11 +318,11 @@ But the longer I spoke with him, the more my suspicion faded, leaving only curio
 
 *What the hell is this guy?*
 
-His blunt manner of speaking and behavior. He seemed rough to the point of being crude, yet there was a peculiar air of refinement in his appearance and various other aspects of him.
+His speech and manner were blunt, almost rustic, yet something about his appearance and bearing carried an odd air of refinement.
 
 Perhaps that was why his casual speech sounded so natural.
 
-*Well, this is something.*
+*What a strange bastard.*
 
 I stared at Song Ilseom.
 
@@ -366,7 +366,7 @@ Almost fifty years ago? Was he talking about the Great Faction War?
 
 Before we could ask, Song Ilseom continued as though it were nothing important.
 
-“The Guangdong Chen Family was a clan forgotten long ago. My mother was saved with the help of Escort King Ju Gongsan, but she feared the greedy martial artists and had her child carry on her surname. It was a wise decision.”
+“The Guangdong Chen Family was forgotten long ago. The woman who survived thanks to Escort King Ju Gongsan feared the greed of martial artists, so she gave her own surname to her child. It was a wise decision.”
 
 I felt completely blindsided. Ju Hwaran stared at Song Ilseom with trembling eyes.
 
