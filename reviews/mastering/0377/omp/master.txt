@@ -26,7 +26,7 @@ The City Lord frowned.
 
 The Captain of the Guards was speechless.
 
-*Were those words or a fart?*
+*Was that supposed to be an order, or a fart?*
 
 The City Lord’s incompetence and habit of dumping work on his subordinates were nothing new, but this was too much, even for him.
 
@@ -88,7 +88,7 @@ He had taken several women as concubines whenever they caught his fancy. But aft
 
 *But this girl is different!*
 
-He swore he had never seen a woman like her. Her voice, her gaze, even the slightest movement of her fingertips—everything about Aehyang was enchanting and lovable in the City Lord’s eyes.
+He swore he had never known a woman like her. Her voice, her gaze, even the slightest movement of her fingertips—everything about Aehyang was enchanting and lovable in the City Lord’s eyes.
 
 Even after several years, he never tired of the sight of her. No—if anything, he was sinking deeper under her spell, almost frighteningly so.
 
@@ -152,7 +152,7 @@ Her coquettish voice tickled the City Lord’s ear.
 
 “Hmm.”
 
-“You will become a benevolent City Lord who restored the Great Nation’s order after it was disrupted by ruffians and cared for the common people. Of course, it would be best to leave out the part about the government weapons and uniforms. They might cause misunderstandings.”
+“You will become a benevolent City Lord who restored the Great Nation’s order after it was disrupted by ruffians and cared for the common people. Of course, it would be best to leave out any mention of the government weapons and uniforms. That could invite suspicion.”
 
 “It would be nice if things went exactly as you say, Aehyang. But even so, submitting a false report to the court…”
 
@@ -168,7 +168,7 @@ The hesitant City Lord let out a short exclamation when he saw her eyes, beautif
 
 The City Lord could not finish his sentence.
 
-The moment his eyes met his concubine’s, his mind had already gone blank.
+The moment his eyes met his concubine’s, his mind went blank.
 
 His heart trembled at her alluring figure, and the flowerlike fragrance of her body made his senses swim.
 
@@ -285,13 +285,13 @@ Ding.
 
 I had suspected as much, and it seemed the Item was exactly what I thought it was.
 
-After turning my inventory upside down, I found the new bound Item. A flat, deflated sound escaped me.
+After turning my inventory upside down, I found the new bound Item. A dumbfounded little sound escaped me.
 
-“…To me?”
+“…Huh?”
 
 The thing resting on my palm was nothing more than a tiny fragment. It had once been called the Black Dragon Armor.
 
-*I definitely blasted it away along with that bastard, the Western Heaven Demon Lord, in the final One Annihilation. Did it automatically enter my inventory because it was a bound Item?*
+*I definitely blasted it apart along with that bastard, the Western Heaven Demon Lord, with the final One Annihilation. Did it automatically enter my inventory because it was a bound Item?*
 
 I could still vividly see the Black Dragon Armor shattering into pieces.
 
@@ -301,7 +301,7 @@ But I had no idea what I was supposed to do with a fragment this small.
 
 Ah. Was that why it was classified as armor?
 
-I had just tugged at the front of my pants to check the most suitable position when—
+I had just tugged open the front of my pants to check the most suitable position when—
 
 “What are you doing—”
 
@@ -339,7 +339,7 @@ The terrifying Slaughter Saint transformed into the Divine Physician’s Discipl
 
 “…!”
 
-This was surprisingly fun. But I couldn’t do it three times.
+This was surprisingly fun. Still, I probably shouldn’t do it a third time.
 
 I quickly held out my hand toward the speechless Mungyeong.
 
@@ -379,7 +379,7 @@ An owner’s internal energy embodied their form and nature.
 
 Ssshhh.
 
-Following the formula of the eighth-stage Fire Gate Divine Technique, I sent lava-like energy flowing toward the fragment of the Black Dragon Armor.
+Following the formula of the eighth-stage Fire Gate Divine Technique, I sent lava-like energy flowing into the fragment of the Black Dragon Armor.
 
 The ink-black energy swirling over the fragment’s surface disappeared, and bluish-white Scorching Yang Qi filled its place.
 
@@ -403,9 +403,9 @@ Ding.
 
 Whoosh.
 
-I could feel the vast amount of internal energy leaving my body and rushing toward the Fire Dragon Armor.
+I could feel a vast amount of internal energy leaving my body and surging into the Fire Dragon Armor.
 
-I pretended to tuck the energy-draining object into my arms before storing it in my inventory.
+Pretending to tuck it inside my clothes, I stored the energy-draining object in my inventory.
 
 *Automatic repair? That’s incredible.*
 
@@ -421,7 +421,7 @@ Mungyeong stared at me with wide eyes as I turned away.
 
 “…!”
 
-I was starting to think I might get addicted to this.
+Ah, I could get addicted to this.
 
 I waved at Mungyeong, who was probably repeating the character for patience in his head.
 
