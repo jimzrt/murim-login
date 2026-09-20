@@ -166,9 +166,9 @@ The Divine Physician nodded gravely.
 
 I suddenly realized something I had forgotten.
 
-The Divine Physician had never once been certain.
+The Divine Physician had never once expressed certainty.
 
-He had only seen a possibility and said that he would do his best.
+He had only seen a possibility and promised to do his best.
 
 *It isn’t over until it’s over.*
 
@@ -186,7 +186,7 @@ Mungyeong, who stood beside the Divine Physician, spoke with conviction.
 
 “Thank you.”
 
-“There’s no need. It is only natural for a medical apprentice to do so.”
+“Don’t mention it. It is only natural for a medical apprentice.”
 
 “Then when will the actual treatment begin?”
 
@@ -196,11 +196,11 @@ The Divine Physician considered the question for a moment before answering.
 
 “All of them?”
 
-“This is only a portion of what we need. Fortunately, I already possess the remaining ingredients required for the Life-Restoring Great Technique, which allowed us to shorten the preparation time.”
+“This is only a portion of what we need. Fortunately, I already possess the remaining ingredients required for the Life-Restoring Great Technique, which has allowed us to shorten the preparation time.”
 
 “What exactly is this Life-Restoring Great Technique…?”
 
-The Divine Physician stroked his snow-white beard and answered.
+The Divine Physician stroked his snow-white beard.
 
 “As I mentioned before, my Master was once a martial artist. He primarily practiced medicine among the common people, but he was also deeply versed in controlling qi.”
 
@@ -212,11 +212,11 @@ Hyuk Mujin suddenly cut in with an exclamation.
 
 “That is correct. The Master of Strange Illusions was one of them. After recovering from severe qi deviation thanks to the Life-Restoring Great Technique, he installed the Mystic Gate Formation for us before departing.”
 
-For martial artists, qi deviation was practically a death sentence. Their internal energy reversed course, their qi and blood became tangled, and all their acupoints and dantian were damaged.
+For a martial artist, qi deviation was practically a death sentence. Their internal energy would flow backward, their qi and blood would become tangled, and all sorts of acupoints along with the dantian would be damaged.
 
 The easiest way to understand it was to imagine a small bomb exploding inside a person.
 
-*But he cured qi deviation.*
+*And the technique cured that?*
 
 If the Master of Strange Illusions had suffered qi deviation severe enough for the Divine Physician to describe it that way, he must have been little more than a walking corpse at the time.
 
@@ -298,7 +298,7 @@ I didn’t know when or how the poison the Divine Physician called Formless Ulti
 
 But I understood one thing clearly: the Scorching Yang Qi was acting as a breakwater, holding back the spread of the poison.
 
-“Then… then does that mean even the technique cannot cure him?”
+“Then… does that mean even the technique can’t cure him?”
 
 “The Life-Restoring Great Technique can regulate his qi and untangle his disrupted qi and blood, but it is not enough to detoxify a poison like this. If we perform the technique as things stand… the Scorching Yang Qi will be calmed, but there will be nothing left to stop the poison.”
 
@@ -324,7 +324,7 @@ And now there was no way to detoxify the poison.
 
 *This is so fucked…!*
 
-Tap. Drip.
+Drip. Drip.
 
 Drops of blood fell from my tightly clenched fist. My throat burned as though I had swallowed a fireball.
 
@@ -344,7 +344,7 @@ The Divine Physician looked at his Disciple with a dark expression.
 
 Mungyeong looked straight at me with clear eyes.
 
-“If the Sichuan Tang Clan possesses a legendary treasure—a sacred artifact said to detoxify any poison under heaven—then it is possible.”
+“If the Sichuan Tang Clan possesses the legendary sacred artifact said to detoxify any poison under heaven, then it may be possible.”
 
 Ding.
 
