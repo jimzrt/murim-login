@@ -1,16 +1,18 @@
 # Translation State
 
-- Last completed: 543
-- Next chapter: 544
-- Current block: 540–544 (4/5)
-- Latest translation: `translations/0543.md`
-- Latest summary: `summaries/beats/0543.md`
-- Safe profiles through: chapter 543
+- Last completed: 544
+- Next chapter: 545
+- Current block: 540–544 (5/5)
+- Latest translation: `translations/0544.md`
+- Latest summary: `summaries/beats/0544.md`
+- Safe profiles through: chapter 544
 
 ## Current Block
 
-- Sama Pyo and Taishan travel openly through Henan despite surveillance from the Beggars' Sect and Lower District Sect. Sama Pyo explains that although he disobeyed Sima Gong's order, his chosen path still advances the destination his father wants, so he expects no punishment; he then recognizes the significance of an unidentified passerby.
-- Ju Hwaran submits applications for herself and Song Ilseom to join the Two Dragons Pavilion. She argues that her Peak-level swordsmanship, escort experience, knowledge of the martial world, and operational expertise make them useful despite the pavilion's danger, and Taekyung accepts them.
+- Ju Hwaran leaves with Song Ilseom, and Jin Taekyung, Hyuk Mujin, and Jeok Cheongang conclude that she came to seek the fame and skill needed to protect and lead the Yongbong Escort Bureau. Jeok Cheongang also recognizes Song Ilseom as a formidable master and Taekyung accepts him as a valuable recruit.
+- Taekyung decides to assemble a team to help contain the spreading war against Dark Heaven. Hyuk Mujin immediately commits to following him, and their joking exchange ends with Taekyung asking Mujin to stay beside him and not die.
+- Mujin delivers bamboo slips bearing the names of Ju Hwaran, Song Ilseom, Sama Pyo, and Taishan. Despite doubts about accepting Sama Pyo and Taishan, Taekyung receives Jeok Cheongang's encouragement to move forward.
+- Taekyung approves Ju Hwaran, Song Ilseom, Sama Pyo, Taishan, and Hyuk Mujin as members of the Two Dragons Pavilion. The System confirms that the minimum companion requirement for the Quest is complete, then asks Taekyung to name his pavilion; he chooses Fire Dragon Pavilion.
 
 ## Open Questions
 
@@ -18,11 +20,11 @@
 - Where is the Southern Heaven Demon Empress ultimately headed, and what does she intend to do in Yunnan?
 - What is the outcome of the duel between Jeok Cheongang and Nangong Cheon, the Azure Sky Sword King?
 - Why did Ju Hwaran and Sama Pyo's political engagement end?
-- Which additional companions will join the Two Dragons Pavilion, including whether Sama Pyo will be accepted, what name it will receive, and whether Taekyung can complete the System Quest?
+- Whether additional companions will join the Fire Dragon Pavilion.
 
 ## Exceptional Decision
 
-- Render 고월루 as Gowolru, 곤륜운룡 as Kunlun Cloud Dragon, 학우 as Hak Woo, 이룡각 as Two Dragons Pavilion, 협 as chivalry, 인의 as humanity, 협객 as knight-errant, 홍학루 as Honghakru, 홍매 as Hongmae, and 호거아 as Tiger Giant Child; render 전 정혼자 contextually as former fiancé or former fiancée.
+- Render 고월루 as Gowolru, 곤륜운룡 as Kunlun Cloud Dragon, 학우 as Hak Woo, 이룡각 as Two Dragons Pavilion before its renaming, 화룡각 as Fire Dragon Pavilion, 협 as chivalry, 인의 as humanity, 협객 as knight-errant, 홍학루 as Honghakru, 홍매 as Hongmae, and 호거아 as Tiger Giant Child; render 전 정혼자 contextually as former fiancé or former fiancée.
 - Render 탈진 as the capitalized system status Exhaustion; retain Ten Dragons and Phoenixes, Blazing Flame Divine Dragon, Dark Heaven, Murim Alliance, and Old Master.
 - Render 황보세가 as Hwangbo Family, 소가주 as Lesser Family Head, 은비화 as Dagger Hidden Flower, and 전음 as Sound Transmission.
 - Preserve the chapter's blunt profanity, financial-therapy humor, monster-comparison humor, and Mae Jonghak's carefree 'That can happen' refrain; render 고잉무림호 as Going Murim ship, 대종사 as Grandmaster, 왕희지 as Wang Xizhi, and 영창 피아노 as Young Chang piano.
