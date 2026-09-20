@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "To Lee Dongseok, Lee Jungryong had been a father, and Ares Guild had been no different from the home he had shared with him.",
+      "defect": "The narration treats Lee Dongseok as the character’s genuine identity immediately after revealing that he is not accustomed to the name and later confirming that he changed his name for the mission.",
+      "id": "C01",
+      "rationale": "Using the assumed name in an intimate statement from his own backstory creates an internal contradiction and risks falsely establishing the alias as his real identity.",
+      "replacement": "To him, Lee Jungryong had been a father, and Ares Guild had been no different from the home he had shared with him.",
+      "severity": "major",
+      "source": "Chapter 570, Lee Dongseok’s recollection before entering the Gate"
+    },
+    {
+      "confidence": 0.98,
+      "current": "However, the time it took an ordinary Grade C Gate to transform into a Mutated Gate and then reach the Monster Wave stage was only a few dozen seconds.",
+      "defect": "The Gate classification drifts from the established prose term “C-rank Gate,” used repeatedly in Chapter 570 and in the checkpoint summary.",
+      "id": "C02",
+      "rationale": "“Grade” is reserved for specified System classifications, while ordinary prose in this packet consistently classifies Gates by rank.",
+      "replacement": "However, the time it took an ordinary C-rank Gate to transform into a Mutated Gate and then reach the Monster Wave stage was only a few dozen seconds.",
+      "severity": "minor",
+      "source": "Chapter 573, opening explanation of Mutated Gates"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Skeleton King killed a Siren and devastated hundreds of Mermen with bone attacks but cannot openly raise an undead army because of his restriction.",
+      "defect": "The summary overstates the demonstrated result of the Skeleton King’s attack. Chapter 573 says nearly half of approximately two hundred Mermen fell; the additional force of more than five hundred is only seen approaching before the scene cuts away.",
+      "id": "C03",
+      "rationale": "The replacement preserves the explicit count without implying that the later reinforcements were also defeated on-page.",
+      "replacement": "The Skeleton King killed a Siren and devastated nearly half of roughly two hundred Mermen with bone attacks but cannot openly raise an undead army because of his restriction.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity"
+    }
+  ],
+  "summary": "The packet maintains the established voice, formatting, and unresolved hooks. Three actionable continuity or terminology issues remain: the assumed identity is briefly treated as genuine, one Gate classification drifts from established usage, and the checkpoint summary overstates the Skeleton King’s demonstrated kill count.",
+  "version": 1
+}

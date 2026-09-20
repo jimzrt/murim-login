@@ -1858,3 +1858,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 머맨 | **Merman** | Sea monster species serving under the Kraken. |
 | 세이렌 | **Siren** | Half-human, half-bird monster whose song enthralls listeners. |
 | 타코야끼 | **Takoyaki** | Third Form of Fire Dragon Divine Spear. |
+| 통합 언어팩 | **Integrated Language Pack** | System effect that allows Taekyung to understand and speak Demon Realm language. |
+| 크라켄의 먹물 | **Kraken's Ink** | System-named poisonous ink attack. |
+| 마비 | **Paralyzed** | Status abnormality inflicted by Kraken's Ink. |
