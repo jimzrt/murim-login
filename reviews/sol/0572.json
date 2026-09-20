@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Yes. Those humans.",
+      "defect": "The source singles out the particular human responsible for the transformation, but the draft changes the referent to humans in general.",
+      "id": "F01",
+      "rationale": "바로 그 인간 is emphatically singular: “that very human.”",
+      "replacement": "Yes. That human.",
+      "severity": "major",
+      "source": "맞다. 바로 그 인간이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The human who had slaughtered every member of its kind that stood in his way now stood before *the thing*, which had collapsed in pain.",
+      "defect": "The draft makes the slain 동족 members of the monster’s kind, reversing the scene fact that the human killed his fellow humans. It also replaces the monster’s wounded condition with pain.",
+      "id": "F02",
+      "rationale": "동족 refers to the human’s own kind, while 상처 입은 explicitly means wounded.",
+      "replacement": "The human who had slaughtered all his fellow humans who stood in his way now stood before *the thing*, which lay wounded on the ground.",
+      "severity": "critical",
+      "source": "순식간에 막아서는 동족들을 모조리 죽여 버린 한 인간은, 상처 입은 채 쓰러져 있는 ‘그것’의 앞에 섰다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "A dozen or so whirlpools surged up around *the thing*, wrapping around the sea in every direction.",
+      "defect": "The rising vortices twist outward in every direction; they do not wrap around the sea, and “whirlpools surged up” is physically incongruous.",
+      "id": "F03",
+      "rationale": "솟구친 describes upward motion, while 사방을 휘감았다 describes the vortices coiling in all directions without specifying the sea as their object.",
+      "replacement": "A dozen or so swirling columns surged up around *the thing* and twisted in every direction.",
+      "severity": "minor",
+      "source": "‘그것’을 중심으로 솟구친 십여 개의 회오리가 사방을 휘감았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "With a leg swung using its full strength, more than a dozen humans were crushed like dust.",
+      "defect": "The draft adds “full” strength and changes 십여 명, approximately a dozen or slightly more than ten, into more than a dozen.",
+      "id": "F04",
+      "rationale": "힘을 실어 means putting power behind the swing, not necessarily using all available strength, and 십여 명 is an approximate quantity.",
+      "replacement": "With one powerful sweep of its tentacle, a dozen or so humans were crushed like dust.",
+      "severity": "minor",
+      "source": "힘을 실어 휘두른 다리에, 십여 명의 인간들이 가루처럼 으스러졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Having claimed the vast blue sea, *the thing* had nothing left to fear.",
+      "defect": "The source says nothing could impede or stand in its way, not that it was free from fear.",
+      "id": "F05",
+      "rationale": "거칠 것이 없었다 expresses the absence of obstacles or opposition.",
+      "replacement": "Having claimed the vast blue sea, *the thing* had nothing standing in its way.",
+      "severity": "minor",
+      "source": "광활한 푸른 바다를 손에 넣은 ‘그것’은 거칠 것이 없었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "More than two hundred Mermen were reduced to a handful of blood by flashes of light that rained down ceaselessly from the sky.",
+      "defect": "The draft turns an approximate count of two hundred into a strict quantity greater than two hundred.",
+      "id": "F06",
+      "rationale": "이백여 마리 means approximately two hundred.",
+      "replacement": "Some two hundred Mermen were reduced to a handful of blood by flashes of light that rained down ceaselessly from the sky.",
+      "severity": "minor",
+      "source": "허공에서 쉴 새 없이 내리꽂히는 섬광에, 이백여 마리의 머맨이 한 줌의 핏물로 화한 것은."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Come on in, you octopus bastard.”",
+      "defect": "“Come on in” sounds like an invitation to enter a place rather than a challenge to attack.",
+      "id": "F07",
+      "rationale": "In this combat context, 들어와 is a direct challenge for the Kraken to approach and fight.",
+      "replacement": "“Come at me, you octopus bastard.”",
+      "severity": "minor",
+      "source": "“들어와. 이 문어 새끼야.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Of all kinds of pain, burns were among the most agonizing.",
+      "defect": "The draft weakens the source’s superlative claim to “among” the worst.",
+      "id": "F08",
+      "rationale": "가장 심한 explicitly identifies burns as causing the highest degree of pain.",
+      "replacement": "Of all kinds of pain, burns were the most agonizing.",
+      "severity": "minor",
+      "source": "수많은 통증 중에서도 가장 심한 강도의 고통을 자랑하는 것이 바로 화상(火傷)이다."
+    }
+  ],
+  "summary": "The draft contains one critical subject error, several altered quantities or physical details, and localized wording that weakens the source’s meaning.",
+  "version": 1
+}
