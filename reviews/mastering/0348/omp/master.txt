@@ -1,12 +1,12 @@
 # Chapter 348
 
-The black-robed men stood in neat ranks and files. The sheer number of them—several hundred—was not the only thing filling the enormous cavern.
+The black-robed men stood in ordered ranks. But their sheer number—several hundred in all—was not the only thing filling the enormous cavern.
 
 It was their aura.
 
-The suffocating aura emanating from the men—their eyes deep-set, their bodies upright as iron towers—was swallowing the cavern.
+A suffocating pressure poured from the men, their eyes deep-set and their bodies erect as iron towers, swallowing the cavern whole.
 
-And towering over them all stood one man—a giant in his own right.
+At their head stood a single towering figure.
 
 “Three Fiends.”
 
@@ -32,15 +32,15 @@ They returned as the Qilian Three Fiends.
 
 “N-no, my lord. How could the likes of us be called old while you are here?”
 
-The Qilian Three Fiends had once been fiends who dyed Qinghai Province red with blood. Yet before the Western Heaven Demon Lord, they were nothing more than docile lambs.
+The Qilian Three Fiends had once been fiends who dyed Qinghai red with blood. Yet before the Western Heaven Demon Lord, they were nothing more than docile lambs.
 
-The Qilian Three Fiends swallowed hard, then opened their mouths at the same time, as if they were one person.
+The three swallowed hard, then spoke at the same time as though they were one person.
 
-“B-but, my lord. Forgive us for saying so, but your arm…”
+“B-but, my lord. Forgive us for asking, but your arm…”
 
 “This?”
 
-The Western Heaven Demon Lord looked down at the empty sleeve where one of his arms should have been and answered in a dry voice.
+The Western Heaven Demon Lord glanced at the empty sleeve where one of his arms should have been.
 
 “It was the price I paid for two lives.”
 
@@ -50,7 +50,7 @@ The Western Heaven Demon Lord looked down at the empty sleeve where one of his a
 
 “……!”
 
-The air inside the cavern trembled with agitation.
+A tremor of shock ran through the cavern.
 
 Who were the Poison King and the Heaven-Shaking Venerable Nun? They were giants who had left their mark on the history of the Murim, Supreme Peak masters who had dominated an entire era.
 
@@ -70,9 +70,9 @@ A fierce light flashed in the Western Heaven Demon Lord’s eyes.
 
 * * *
 
-Right now, my eyes are closed.
+My eyes are closed.
 
-I focus my mind in the quiet darkness. As a voice pierces my ears, someone’s figure takes shape in the darkness.
+I focus in the silent darkness. As a voice reaches my ears, a figure takes shape before me.
 
 Neither tall nor short, the young man hiding claws behind an innocent smile is Cheongpung.
 
@@ -128,19 +128,19 @@ I don’t have to think long.
 
 “Hmm. About a year ago.”
 
-“If you think about it one way, that’s short. If you think about it another, it’s a long time. It was long for me. Long enough for a single day to feel like ten years.”
+“Short in one sense, long in another. For me, it was long. Long enough for every day to feel like ten years.”
 
 “……!”
 
 “Think again. Are you sure I can’t block it?”
 
-Cheongpung was silent for a moment before answering. His voice had sunk low.
+Cheongpung falls silent for a moment before answering. His voice has grown solemn.
 
 “I was wrong. If it’s you, Benefactor… I think you can.”
 
 “Then let’s continue.”
 
-Cheongpung and I devoted ourselves to discussing martial arts for a long while.
+Cheongpung and I immerse ourselves in discussing martial arts.
 
 It had been more than a year since we had actually crossed hands, but from the Star-Array Grand Banquet until now, we had come to know each other’s martial arts and skill levels well enough to make this possible.
 
@@ -158,23 +158,23 @@ Before long, our imagined bout passes five hundred exchanges. Then Cheongpung su
 
 *All of a sudden?*
 
-Cheongpung was weaker than me in close combat. He had learned Huashan’s outstanding supreme martial arts, but perhaps because the sect’s roots lay in sword techniques, the Fire Gate Clan had a slight advantage when it came to palm techniques.
+Cheongpung was more vulnerable than I was in close combat. He had mastered Huashan’s extraordinary divine arts, but perhaps because the sect’s roots lay in swordsmanship, the Fire Gate Clan held a slight advantage in palm techniques.
 
 And yet he was coming in this close…
 
-*Ah. So that’s it.*
+*Ah. So that’s his plan.*
 
 I had suspected as much, but this was Cheongpung, all right.
 
-I opened my eyes with a hollow laugh. When I didn’t answer for a long while, Cheongpung cautiously opened his eyes to a narrow slit and asked,
+I opened my eyes with a hollow laugh. When I didn’t answer for some time, Cheongpung cautiously cracked one eye open.
 
-“Benefactor, why?”
+“Benefactor, what’s wrong?”
 
 “That’s enough for today.”
 
 “Ah! Why?”
 
-“Because it would be a shame.”
+“Because it’d be a waste.”
 
 “What?”
 
@@ -200,7 +200,7 @@ While I regretted my hasty judgment, Cheongpung began pestering me.
 
 “About what?”
 
-I gazed intently at Cheongpung and parted my lips.
+I gazed intently at him and spoke.
 
 “I heard there’s a former imperial chef at the Sichuan Tang Clan.”
 
@@ -232,13 +232,13 @@ A bleak chill and a foul stench permeated the underground prison. I hadn’t tak
 
 The words escaped me like a sigh.
 
-Time passed far more slowly in the underground prison than I had imagined. Not because the place never saw a ray of sunlight, but because of the anxiety and tension felt only by those who were waiting.
+Time passed far more slowly in the underground prison than I had imagined. Not because not a single ray of sunlight reached this place, but because of the anxiety and tension known only to those forced to wait.
 
-Perhaps that was why every day felt like my blood was drying up.
+Maybe that was why every passing day felt so agonizing.
 
-“Maybe I should have stayed in front of the treatment room.”
+“Maybe I should’ve stayed outside the treatment room.”
 
-Even as I said it, I shook my head. There was nothing I could do by pacing in front of the treatment room door anyway.
+Even as I said it, I shook my head. There was nothing I could do by hovering outside the treatment room door.
 
 With my five senses already sharpened to their limit, I would only listen to every sound coming from inside until I could no longer bear it, then retreat and pace through the underground prison at a distance.
 
@@ -254,7 +254,7 @@ Tang Sadok had forbidden even Old Man Gung from entering the prison, so I was co
 
 I wasn’t talking about the Divine Physician and Mungyeong, who were probably completely absorbed in treating Jeok Cheongang.
 
-There were ten or so prisoners trapped in the underground prison, waiting for the day they would die.
+There were over a dozen prisoners locked in the underground prison, waiting for the day they would die.
 
 They were my roommates.
 
@@ -262,7 +262,7 @@ They were my roommates.
 
 They weren’t the kind who left the toilet unflushed or constantly brought their lovers over. Every one of them was a fiend who had earned a notorious name throughout the martial world.
 
-Even if they were imprisoned, there was no way sharing a space with men like that could be enjoyable.
+Imprisoned or not, there was no way sharing a space with men like that could be enjoyable.
 
 And the most troublesome part was…
 
@@ -280,7 +280,7 @@ The bell that had just rung was the signal from outside announcing mealtime.
 
 *At least it’s only once a day.*
 
-Still, bothersome was bothersome. I sighed and started walking.
+Still, a pain in the ass was a pain in the ass. I sighed and started walking.
 
 In a corner of the prison, a battered old wooden barrel awaited me, filled with scraps of food haphazardly mixed together.
 
@@ -300,17 +300,17 @@ Adopting the mindset of a zookeeper, I carried the slop bucket around the prison
 
 Beyond the thick iron bars, prisoners sat with their arms and legs bound in steel chains. All I had to do was open each door, step inside, scoop up a heaping ladleful, and dump it into the battered bowl set before them.
 
-Whenever I did that, the prisoners, who had been lying limp and helpless after prolonged imprisonment and torture, would make their eyes flash and strike up a conversation.
+Whenever I did, the prisoners who had been left listless by years of imprisonment and torture would suddenly come alive, their eyes gleaming as they tried to engage me in conversation.
 
 “Never seen your face before.”
 
 “You’ve been seeing me for three days. What kind of bullshit is that?”
 
-“Release me. I’ll teach you martial arts that can look down on all under heaven.”
+“Release me, and I shall teach you martial arts that will let you look down upon all under heaven.”
 
-“Judging by the fact that you’re rotting in here, they sound like martial arts the whole world can look down on.”
+“Judging by the fact that you’re rotting in here, they sound more like martial arts all under heaven would look down on.”
 
-“You insolent bastard… The moment I get out of here, I’ll tear you apart and kill you myself.”
+“You insolent bastard… The moment I leave this place, I’ll tear you apart with my own hands.”
 
 “Oh, impressive. I’ll be sure to pass that along to Old Man Gung.”
 
@@ -332,11 +332,11 @@ Some offered to teach me their martial arts. A middle-aged beauty who had once d
 
 “You little—Hey! You turtle bastard!”
 
-I ignored her spiteful shouting and headed toward the last prison cell.
+Ignoring her furious screams, I headed for the final cell.
 
-In the most secluded and damp corner was a strange man with disheveled hair.
+A strange man with disheveled hair sat inside, tucked away in the darkest, dampest corner of the prison.
 
-*He’s the quietest old man in this prison.*
+*He’s the quietest old man in this place.*
 
 He was also the most dangerous.
 
@@ -364,7 +364,7 @@ I searched my memory for a moment, then looked at the old man with newfound surp
 
 “Yes. This old man is the Heavenly Power Demon—”
 
-“So you were the Kunlun Sect’s public-pissing criminal.”
+“So you’re the Kunlun Sect’s public-pissing criminal.”
 
 “…….”
 
