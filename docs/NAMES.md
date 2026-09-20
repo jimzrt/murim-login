@@ -1755,3 +1755,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 노귀산 | **No Guisan** | Personal name of the Black Blood Saber. |
 | 열양노 | **Old Man Ilyang** | Variant source occurrence referring to the same character as 일양노. |
 | 원썬 | **One Sun** | Humorous mistaken reference to the name used for Old Man Ilyang. |
+| 흑야왕 | **Black Night King** | Epithet of Sima Gong, Sama Pyo's father and the Sect Leader who built the modern Black Dragon Demon Gate. |
+| 녹림투왕 | **Green Forest Battle King** | Epithet of the Green Forest Alliance Leader, distinguished from the Ten Kings. |

@@ -882,3 +882,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 흑혈도 | 혁무진 | rejected wandering martial artist to younger interviewer | you insolent little bastard | hostile and profane | The Black Blood Saber uses 네놈 and 이놈 while threatening Mujin. |
 | 일양노 | 혁무진 | prospective recruit to interviewer | you | courteous and controlled | Ilyang tells Mujin to report that he wishes to meet Taekyung. |
 | 적천강 | 일양노 | Fire Gate Sect Leader to hostile prospective recruit | bastard | blunt and violently contemptuous | Jeok recognizes Ilyang's intent and attacks him after calling him a backstabbing bastard. |
+| 사마표 | 적천강 | Young Sect Leader to legendary elder | Great Hero Jeok | formal-deferential | Sama Pyo formally pays his respects to Jeok Cheongang as the Fire King. |
+| 태산 | 적천강 | subordinate of a Young Sect Leader to legendary elder | Fire King | clipped, childlike, and deferential | Taishan gives his awkward greeting and expresses admiration for Jeok's strength. |
+| 적천강 | 사마표 | legendary elder to unorthodox Young Sect Leader | you / young brat | blunt, suspicious, and contemptuous | Jeok addresses Sama Pyo with 네놈 and 어린놈 while probing his lineage and motives. |
+| 적천강 | 태산 | legendary elder to giant subordinate | you / strange fellow | blunt, startled, and grudgingly tolerant | Jeok addresses Taishan as 네놈 while reacting to his greeting and appetite. |
+| 사마표 | 진태경 | prospective recruit to pavilion master | you | polite, controlled, and candid | Sama Pyo uses 자네 while asking about Taekyung's attitude and admitting his intention to use him. |
+| 진태경 | 사마표 | pavilion master to prospective recruit | you / that guy | blunt, informal, and distrustful | Taekyung speaks to and about Sama Pyo with casual forms such as 녀석 and 저놈. |

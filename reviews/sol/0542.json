@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Hyuk Mujin had gone down to deal with an emergency patient and was now returning. He wiped a palm still drenched in Old Man Ilyang’s blood against his trouser leg before answering.",
+      "defect": "The draft says Hyuk Mujin went downstairs to treat the patient, whereas the source says he returned after sending the emergency patient downstairs.",
+      "id": "F01",
+      "rationale": "내려보내고 means that Mujin sent the patient down; it does not say he went down to deal with the patient himself.",
+      "replacement": "Hyuk Mujin returned after sending the emergency patient downstairs. He wiped his palm, still drenched in Old Man Ilyang’s blood, against his trouser leg before answering.",
+      "severity": "major",
+      "source": "응급환자를 내려보내고 돌아온 혁무진이 일양노의 피가 흥건하게 묻은 손바닥을 바짓단에 문지르며 대답했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Nice to meet you. Taishan is. Saw Fire King.”",
+      "defect": "“Taishan is” invents a copular statement and makes the deliberately limited speech meaningless rather than merely clipped.",
+      "id": "F02",
+      "rationale": "태산이 is the marked subject of 화왕 봤다: Taishan saw the Fire King. The childlike fragments should remain intelligible.",
+      "replacement": "“Nice to meet. Taishan saw Fire King.”",
+      "severity": "minor",
+      "source": "“반갑다. 태산이. 화왕 봤다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Black Night King Sima Gong.\n\nHe was Sama Pyo’s father and the legendary figure who had built the Black Dragon Demon Gate into what it was today.",
+      "defect": "“Legendary” does not convey 입지전적인, which characterizes Sima Gong as self-made.",
+      "id": "F03",
+      "rationale": "입지전적인 describes someone who rose through their own efforts or had a rags-to-riches ascent, not merely someone famous enough to be legendary.",
+      "replacement": "Black Night King Sima Gong.\n\nHe was Sama Pyo’s father, a self-made man who had built the Black Dragon Demon Gate into what it was today.",
+      "severity": "minor",
+      "source": "흑야왕 사마공.\n\n사마표의 아버지이자, 지금의 흑룡마문을 만든 입지전적인 인물이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“With the Black Night King’s personality, he was perfectly capable of doing it. If their abilities were lacking, he would not have hesitated to bury his other children alive as sacrifices.”",
+      "defect": "The draft reverses the condition. Jeok says that if Sama Pyo possesses sufficient talent, Sima Gong would sacrifice his other children; he does not say Sima Gong would do so because the other children lacked ability.",
+      "id": "F04",
+      "rationale": "자질이 뒷받침된다면 refers to Sama Pyo’s qualifications supporting his selection as Young Sect Leader. The other children are the potential sacrifices, not the subject of the conditional deficiency.",
+      "replacement": "“Given the Black Night King’s personality, that is exactly what he would do. If your talent was sufficient, he wouldn’t care even if it meant burying all his other children alive as sacrifices.”",
+      "severity": "critical",
+      "source": "“흑야왕, 그놈 성격이라면 능히 그러고도 남지. 자질이 뒷받침된다면 다른 자식들은 순장(殉葬)해도 신경 쓰지 않을 놈이니까.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You haven’t changed much from what I remember. I could never tell what was going on inside that man’s head. He was as sly as a fox and as cunning as a viper.”",
+      "defect": "The first sentence incorrectly addresses Sama Pyo and claims Jeok remembers him personally. Jeok is concluding that Sima Gong has not changed from the man he remembers.",
+      "id": "F05",
+      "rationale": "The surrounding remarks remain about 흑야왕, and the following past-tense description explicitly characterizes Sima Gong. The omitted subject of 달라지지 않은 is therefore Sama Pyo’s father.",
+      "replacement": "“He doesn’t seem to have changed much from the man I remember. I could never tell what was going on inside his head. He was as sly as a fox and as cunning as a viper.”",
+      "severity": "critical",
+      "source": "“기억하는 모습과 크게 달라지지 않은 모양이군. 도무지 속내를 알 수 없는 놈이었지. 여우처럼 약삭빠르고, 독사처럼 교활했어.”"
+    }
+  ],
+  "summary": "Two critical errors reverse or misassign Jeok Cheongang’s description of Sima Gong; three additional passages alter an action, characterization, or Taishan’s broken speech.",
+  "version": 1
+}
