@@ -4,7 +4,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import patch
 
-from tools.pageviews_ingest import classify, normalize_path, parse_event, query_counts
+from tools.pageviews_ingest import classify, normalize_path, parse_event, query_all_counts, query_counts
 
 
 def _event(uri: str, ua: str = "Mozilla/5.0", status: int = 200) -> dict:
@@ -67,11 +67,17 @@ class PageviewsIngestTest(unittest.TestCase):
             conn.close()
             with patch("tools.pageviews_ingest.db_path", return_value=db):
                 rows = query_counts([0, 160, 161, 162])
+                all_rows = query_all_counts()
             self.assertEqual(rows, [
                 {"chapter": 0, "count": 1},
                 {"chapter": 160, "count": 2},
                 {"chapter": 161, "count": 1},
                 {"chapter": 162, "count": 0},
+            ])
+            self.assertEqual(all_rows, [
+                {"chapter": 0, "count": 1},
+                {"chapter": 160, "count": 2},
+                {"chapter": 161, "count": 1},
             ])
 
     def test_query_counts_ignores_null_ip_hash(self):

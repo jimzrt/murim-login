@@ -1,8 +1,13 @@
 ---
+interface Props {
+  all?: boolean;
+}
+
+const { all = false } = Astro.props;
 const apiUrl = import.meta.env.PUBLIC_VIEW_COUNT_URL ?? "https://murim-login.com/view-counts";
 ---
 
-<div hidden data-view-counters data-view-count-url={apiUrl}></div>
+<div hidden data-view-counters data-view-count-url={apiUrl} data-view-count-all={all ? "1" : ""}></div>
 
 <script>
   function formatCount(value: number) {
@@ -18,6 +23,25 @@ const apiUrl = import.meta.env.PUBLIC_VIEW_COUNT_URL ?? "https://murim-login.com
     return String(value);
   }
 
+  async function fetchRows(apiUrl: string, all: boolean, chapters: number[]) {
+    if (all) {
+      const response = await fetch(apiUrl);
+      if (!response.ok) {
+        return [];
+      }
+      return (await response.json()) as Array<{ chapter: number; count: number }>;
+    }
+    const response = await fetch(apiUrl, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(chapters),
+    });
+    if (!response.ok) {
+      return [];
+    }
+    return (await response.json()) as Array<{ chapter: number; count: number }>;
+  }
+
   async function mountViewCounters() {
     const boot = document.querySelector<HTMLElement>("[data-view-counters]");
     const nodes = [...document.querySelectorAll<HTMLElement>(".view-counter[data-chapter]")];
@@ -29,6 +53,7 @@ const apiUrl = import.meta.env.PUBLIC_VIEW_COUNT_URL ?? "https://murim-login.com
       return;
     }
 
+    const all = boot.dataset.viewCountAll === "1";
     const chapters = [
       ...new Set(
         nodes
@@ -36,20 +61,12 @@ const apiUrl = import.meta.env.PUBLIC_VIEW_COUNT_URL ?? "https://murim-login.com
           .filter((chapter) => Number.isInteger(chapter) && chapter >= 0),
       ),
     ];
-    if (!chapters.length) {
+    if (!all && !chapters.length) {
       return;
     }
 
     try {
-      const response = await fetch(apiUrl, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(chapters),
-      });
-      if (!response.ok) {
-        return;
-      }
-      const rows = (await response.json()) as Array<{ chapter: number; count: number }>;
+      const rows = await fetchRows(apiUrl, all, chapters);
       const counts = new Map(rows.map((row) => [row.chapter, row.count]));
       for (const node of nodes) {
         const chapter = Number(node.dataset.chapter);

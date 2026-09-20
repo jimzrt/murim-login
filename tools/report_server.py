@@ -15,7 +15,7 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from tools.github_app import GitHubApp, GitHubError
-from tools.pageviews_ingest import query_counts, start_background as start_pageviews
+from tools.pageviews_ingest import query_all_counts, query_counts, start_background as start_pageviews
 from tools.line_report import (
     LABEL,
     NOTE_MAX,
@@ -38,6 +38,7 @@ from tools.line_report import (
 ISSUE_MARKER = "<!-- line-report-issue {n} -->"
 BRANCH_RE_PREFIX = "report-line-"
 CORS_POST_PATHS = {"/report-line", "/view-counts"}
+MAX_VIEW_COUNT_CHAPTERS = 5000
 
 
 def git_ssh_env(ssh_key: Path | None) -> dict[str, str]:
@@ -496,7 +497,7 @@ def parse_chapter_list(raw: bytes) -> list[int] | None:
         if chapter < 0:
             return None
         chapters.append(chapter)
-    if len(chapters) > 500:
+    if len(chapters) > MAX_VIEW_COUNT_CHAPTERS:
         return None
     return chapters
 
@@ -532,7 +533,7 @@ def make_handler(service: LineReportService):
             if origin:
                 self.send_header("Access-Control-Allow-Origin", origin)
                 self.send_header("Access-Control-Allow-Headers", "Content-Type")
-                self.send_header("Access-Control-Allow-Methods", "POST, OPTIONS")
+                self.send_header("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
                 self.send_header("Vary", "Origin")
             self.end_headers()
             self.wfile.write(body)
@@ -545,8 +546,13 @@ def make_handler(service: LineReportService):
             self._write(204, b"", origin=origin, content_type="text/plain")
 
         def do_GET(self) -> None:
-            if self.path.rstrip("/") in {"/health", "/report-line"}:
+            path = self.path.rstrip("/")
+            if path in {"/health", "/report-line"}:
                 self._write(200, {"ok": True})
+                return
+            if path == "/view-counts":
+                origin = self._cors()
+                self._write(200, query_all_counts(), origin=origin)
                 return
             self._write(404, {"error": "not found"})
 
