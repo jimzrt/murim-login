@@ -2,11 +2,11 @@
 
 The jet Wei Fenghu had prepared looked nothing like what I had imagined.
 
-*It’s spacious. And fancy.*
+*It’s huge. And fancy.*
 
 Through the partly open cabin door, I could see a luxurious table and one of those so-called chairman’s chairs.
 
-Team Leader Choi, who was standing beside me, informed us that the business jet we were looking at cost nearly one hundred billion won per plane, then added,
+Standing beside me, Team Leader Choi explained that the business jet before us cost nearly one hundred billion won, then added,
 
 “I never expected to see an aircraft reserved for state guests here.”
 
@@ -14,17 +14,17 @@ Team Leader Choi, who was standing beside me, informed us that the business jet 
 
 “Ah.”
 
-“Thanks to you, we were able to save countless soldiers and Hunters. None of us—not even me—will ever forget the help you gave us today.”
+“Thanks to you, countless soldiers and Hunters survived. None of us, myself included, will ever forget what you did for us today.”
 
 “…Ah, yes.”
 
-I would have preferred it if they dealt with the fine dust and historical distortions first.
+I would have preferred it if they dealt with the fine dust and historical revisionism first.
 
 Still, I boarded the jet, privately hoping China was a more conscientious country than I gave it credit for.
 
-The waiting pilot saluted us—or, more precisely, Wei Fenghu—with crisp, disciplined movements.
+The pilot waiting inside snapped a crisp salute at us—or, more precisely, at Wei Fenghu.
 
-“You have arrived, Comrade Minister of National Defense.”
+“Comrade Minister of National Defense.”
 
 “Are we ready?”
 
@@ -32,7 +32,7 @@ The waiting pilot saluted us—or, more precisely, Wei Fenghu—with crisp, disc
 
 I wondered what he meant by “escorts,” but then I looked through the window and saw five sleek fighter jets on the runway, their lights blinking as though signaling us.
 
-*What the hell are those?*
+*What the hell?*
 
 I’d only ever seen things like that in war movies. Were we flying off to fight a battle or something?
 
@@ -40,7 +40,7 @@ Wei Fenghu saw my eyes widen and explained.
 
 “The details have not yet been made public…but as you know, Sichuan Province is currently in a state of war. Magical interference has disrupted communications, and attacks by flying monsters are frequent. An escort is essential for our safety.”
 
-“Is that really true?”
+“Is it really that bad?”
 
 The situation was more serious than I’d thought.
 
@@ -48,9 +48,9 @@ The Wyverns had only attacked us in passing while raiding Chengdu International 
 
 “I wish I were lying.”
 
-Perhaps merely thinking about the current situation exhausted him. Wei Fenghu, who seemed to have aged considerably in a short time, leaned back into the soft seat.
+As though merely thinking about the situation had exhausted him, Wei Fenghu—who seemed to have aged considerably in a matter of hours—leaned back in his plush seat.
 
-“It seems we must part ways here. We will meet again soon, Senior Colonel Shao Shen.”
+“It seems we must part ways here. I will see you again soon, Senior Colonel Shao Shen.”
 
 Unlike us, Shao Shen had not boarded the aircraft. He stood rigidly at attention and saluted.
 
@@ -58,7 +58,7 @@ Unlike us, Shao Shen had not boarded the aircraft. He stood rigidly at attention
 
 “Good. I expect great things from you.”
 
-Perhaps because he had achieved such impressive accomplishments, a pleased smile passed across Wei Fenghu’s lips as he looked at the promising young Hunter.
+Perhaps because Shao Shen had distinguished himself in battle, a satisfied smile crossed Wei Fenghu’s face as he regarded the promising young Hunter.
 
 Team Leader Choi gave him a polite bow. I waved.
 
@@ -66,15 +66,15 @@ Team Leader Choi gave him a polite bow. I waved.
 
 It was only one sentence.
 
-But the moment Shao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
+But the moment Shao Shen heard it, his eyes grew as wide as serving trays. He trembled as though he’d been electrocuted, then shouted at the top of his lungs.
 
 “Th-Thank you! I will devote myself to every task with the utmost loyalty,[^1] so that I never disappoint you, Mr. Jin!”
 
 “…You don’t need to go that far.”
 
-“May your august self remain safe! Loooyalty!”
+“I pray that your august person remains safe! Loooyalty!”
 
-“‘August self’? What are you—”
+“‘August person’? What does that even—”
 
 Whack!
 
@@ -98,7 +98,7 @@ Wei Fenghu gave a quiet laugh at my awkward observation.
 
 “Many young Hunters in our country admire you, Mr. Jin. He is no exception.”
 
-*What the hell? Was I a Korean Wave star?*
+*What the hell? Was I a Korean Wave star now?*
 
 Come to think of it, for a four-star general with enough power to make birds fall from the sky, Wei Fenghu seemed unusually attentive to his subordinates.
 
@@ -106,29 +106,29 @@ Or maybe Shao Shen was simply that promising.
 
 Ah, but…
 
-—Team Leader. How important is the Minister of National Defense under the Central Military Commission, exactly? I’m not very familiar with the structure over here.
+—Team Leader. Just how powerful is the Minister of National Defense under the Central Military Commission? I’m not familiar with how things are structured over here.
 
 Team Leader Choi flinched at my Sound Transmission, then replied through Message Magic.
 
-—If you compare it to our country, he is the Minister of National Defense. Of course, this is China, and Wei Fenghu is the current Chairman’s right-hand man, so his power is considerably greater.
+—In Korean terms, he is the Minister of National Defense. Of course, this is China, and Wei Fenghu is the current Chairman’s right-hand man, so he holds far more power.
 
 —Ah.
 
 *So he’s a lot like me. I’m the Minister of gukbap.[^2]*
 
-One special serving of sundae-guk was enough to handle three bowls of rice.
+Give me one special sundae-guk and I could easily put away three bowls of rice.
 
 Of course, Wei Fenghu could probably erase three cities with a single pointed finger.
 
-And now, that powerful figure of the People’s Republic of China was leaning his upper body toward us and asking,
+And now, one of the most powerful men in the People’s Republic of China was leaning toward us and asking,
 
 “It seems we have much to discuss during the flight. Would you not agree?”
 
-Team Leader Choi and I nodded solemnly and opened our mouths.
+Team Leader Choi and I nodded solemnly and spoke at the same time.
 
 “Of course. First, I would like to ask what exactly is happening in Sichuan—”
 
-“But do you happen to have any boiled eggs and soda? I’m hungry after fighting so hard.”
+“By the way, do you have any boiled eggs and soda? I’m starving after all that fighting.”
 
 “…”
 
@@ -154,7 +154,7 @@ About twenty years ago, the Chairman at the time—who had cemented the foundati
 
 —What was the dead Chairman’s name again? Pingping? Paengpaeng?
 
-Team Leader Choi, who had been chiming in as Wei Fenghu spoke, silently moved his lips. His poker face was astonishing.
+Team Leader Choi, who had been responding attentively to Wei Fenghu, moved his lips without changing his expression. His poker face was incredible.
 
 —Just so you know, saying something like that here could get you into serious trouble.
 
@@ -166,9 +166,9 @@ Team Leader Choi, who had been chiming in as Wei Fenghu spoke, silently moved hi
 
 —…Pingping.
 
-*You were going to answer me in the end anyway.*
+*You were going to answer me anyway.*
 
-Now that I was finally satisfied, I listened closely to Wei Fenghu’s words.
+Finally satisfied, I turned my attention back to Wei Fenghu.
 
 “No one could have predicted it.”
 
@@ -178,9 +178,9 @@ And it had all begun in Gaoping District, part of Nanchong City—one of the rou
 
 “As you know, our country has more than ten times as many Gates as other nations. That made us one of the countries hit hardest during the Great Cataclysm, and we have managed them with corresponding rigor ever since.”
 
-But human power could not control even natural disasters, and the Monster Wave was a calamity far worse than any natural disaster.
+But human power could not control natural disasters, and a Monster Wave was a calamity worse than any natural disaster.
 
-“We received word that the mana levels in Gaoping District had suddenly spiked exactly thirteen minutes after the first signs appeared. And by the time Lei Fei, head of the Public Security Armed Forces Department stationed in Sichuan Province, arrived at the scene with the Hunters under his command…everything was already too late.”
+“We received word that the mana levels in Gaoping District had spiked exactly thirteen minutes after the first signs appeared. By the time Lei Fei, head of the Public Security Armed Forces Department stationed in Sichuan Province, reached the scene with the Hunters under his command…everything was already too late.”
 
 “Lei Fei?”
 
@@ -214,7 +214,7 @@ The common people of Murim regarded martial artists with equal parts wariness an
 
 Wei Fenghu had phrased it indirectly, but his meaning was clear.
 
-Team Leader Choi’s gaze met mine in midair. At that moment, we were thinking the same thing.
+Team Leader Choi’s gaze met mine. At that moment, we were thinking the same thing.
 
 *An undisclosed S-rank Hunter.*
 
@@ -230,9 +230,9 @@ China was already known to possess two S-rank Hunters. Clearly, it had no intent
 
 Perhaps the same was true of the world’s other major powers.
 
-*Good grief. Even after surviving the Great Cataclysm, they’re still playing this kind of game of nerves.*
+*Good grief. Even after the Great Cataclysm, they’re still playing these games.*
 
-It was pathetic, but at the same time, I thought I could understand it. Diplomacy. Politics. I felt as though I had caught a glimpse of the truths of a world I had never known, and the feeling was strange.
+It was pathetic, yet part of me could understand it. Diplomacy. Politics. I felt as though I’d caught a glimpse of a world whose truths had always been hidden from me, and it left me strangely unsettled.
 
 Team Leader Choi, however, was sharper than I was.
 
@@ -244,7 +244,7 @@ Wei Fenghu answered with a devastated expression.
 
 “Are you certain he is only missing? Could he perhaps…”
 
-“We could not confirm his death. After that video was recorded, the monster known as the Lich—no, the Arch Lich—blocked all communications and surveillance with mana.”
+“We were unable to confirm his death. That video was our last contact. Afterward, the monster known as the Lich—no, the Arch Lich—used its Magic to block all communications and surveillance.”
 
 Team Leader Choi and I both groaned.
 
@@ -268,7 +268,7 @@ Team Leader Choi shot me a look, so I cautiously began,
 
 Anyone who confidently claimed Lei Fei was still alive after seeing that situation deserved to be fired on the spot. That was simply the truth.
 
-“But I disagree. Lei Fei—my boy—is certainly alive.”
+“But I disagree. Lei Fei—that boy—is alive. I know it.”
 
 “I hope so too, but realistically speaking…”
 
@@ -278,7 +278,7 @@ Anyone who confidently claimed Lei Fei was still alive after seeing that situati
 
 *His nephew? He raised him like a son? What the hell was this?*
 
-As I sat frozen like a statue, Wei Fenghu asked me with damp eyes,
+As I sat frozen like a statue, Wei Fenghu looked at me with tearful eyes.
 
 “What were you about to say? After ‘realistically speaking.’”
 
@@ -288,7 +288,7 @@ The words lodged in my throat. I barely managed to force them out.
 
 “I was going to say that, realistically speaking, there’s still a chance he might be alive.”
 
-“Is that so? Is that really true?”
+“Is that so? Is that truly possible?”
 
 “Ah, yes. But the odds are extremely slim—”
 
@@ -304,9 +304,9 @@ Too late. Wei Fenghu was no longer listening. Instead, he clasped my hand betwee
 
 *I really wish you wouldn’t.*
 
-Contrary to my desperate hopes, a few seconds later, the one sentence I had expected pierced my heart.
+Despite my desperate hopes, a few seconds later, the words I’d expected struck me square in the chest.
 
-“If you happen to meet that boy someday, could you bring him back to me?”
+“If you happen to meet that boy, could you bring him back to me?”
 
 “…”
 
@@ -316,7 +316,7 @@ Over Wei Fenghu’s shoulder, I saw Team Leader Choi shaking his head.
 
 What if I’d just been firm from the start? I regretted it, but it was too late.
 
-In the end, there was only one answer I could give.
+There was only one answer I could give.
 
 “I will. But…”
 
@@ -326,7 +326,7 @@ In the end, there was only one answer I could give.
 
 “You need not say it. I am already prepared for what may happen.”
 
-“…”
+“…!”
 
 Wei Fenghu wiped his eyes with his sleeve. In an instant, he was no longer a middle-aged man worried about his family. He had become the Minister of National Defense under the Central Military Commission once more.
 
@@ -334,11 +334,11 @@ Wei Fenghu wiped his eyes with his sleeve. In an instant, he was no longer a mid
 
 “I can’t promise anything.”
 
-“I did not need someone’s boastful guarantee. What I needed was a thread of hope.”
+“I did not need an empty guarantee. I needed a thread of hope.”
 
-Just as Wei Fenghu murmured those words, the aircraft began to descend, accompanied by a sudden sensation of floating.
+As Wei Fenghu murmured those words, my stomach lifted and the jet began gliding toward the ground.
 
-Outside the window, beneath a blanket of deep darkness, I could see rugged mountain ridges, lights moving without pause, and military vehicles.
+Outside the window, beneath a blanket of deep darkness, I could see rugged mountain ridges, countless lights moving without pause, and military vehicles.
 
 “It seems we have arrived.”
 
@@ -346,13 +346,13 @@ I stared out at the landscape as though possessed, then asked,
 
 “Where are we?”
 
-“A temporary operations headquarters.”
+“The temporary operations headquarters.”
 
 “No. That’s not what I meant.”
 
 “Hmm?”
 
-“For some reason, that mountain feels strangely familiar.”
+“That mountain. For some reason, it looks familiar.”
 
 “That cannot be. As far as I know, you have never visited our country… Ah, perhaps you saw it in a photograph?”
 
@@ -360,9 +360,9 @@ I stared out at the landscape as though possessed, then asked,
 
 “It is a UNESCO World Heritage Site. That would certainly be possible.”
 
-With a faint smile, Wei Fenghu continued,
+A faint smile crossed Wei Fenghu’s face.
 
-“Temporary operations headquarters. Welcome to Mount Qingcheng.”[^3]
+“Welcome to our temporary operations headquarters on Mount Qingcheng.”[^3]
 
 [^1]: A self-deprecating Korean idiom meaning to offer one’s utmost loyal service, literally “the labor of a dog or horse.”
 
