@@ -1,0 +1,327 @@
+# Chapter 319
+
+“I am Ju Hwaran, Young Bureau Head of the Yongbong Escort Bureau. I pay my respects to Great Hero Hwangbo, the Taeeul Merciless Sword.”
+
+Ju Hwaran performed a formal clasped-hands salute.
+
+The Taeeul Merciless Sword, Hwangbo Eom, truly lived up to his reputation. Just meeting his gaze made her chest tighten and left her struggling to breathe.
+
+*The First Sword of Zhongnan…*
+
+The Nine Sects and One Gang and the Five Great Families—the fifteen pillars supporting the current Murim.
+
+The man standing before her was the greatest master of one of them, the Zhongnan Sect. The immense weight carried by his name pressed down on her.
+
+*But it’s all right.*
+
+She had completed an escort mission everyone had agreed was impossible.
+
+That was why she could stand proudly even if the Wind-and-Cloud Sword Lord had come instead of the Taeeul Merciless Sword.
+
+“Well? Did you bring the item I requested?”
+
+“Of course.”
+
+As she answered, Ju Hwaran took the wooden casket containing the Thousand-Year Snow Ginseng from inside her robes. The knot in the straw rope wound tightly around the entire casket bore a few small words.
+
+Shandong Seongsu Jang Family.
+
+After checking the writing, Hwangbo Eom nodded.
+
+“No mistake. It bears the seal of the Seongsu Jang Family.”
+
+People said that if Sichuan had the Tang Clan, then Shandong had the Seongsu Jang Family.
+
+The Seongsu Jang Family was that famous for its medicine. Unlike the Sichuan Tang Clan, a Murim great family, it was a prestigious medical family whose roots lay in the practice of medicine.
+
+The Zhongnan Sect had purchased the Thousand-Year Snow Ginseng through that very family and entrusted its transportation to the Yongbong Escort Bureau.
+
+“The Pill Physician, the current Family Head of the Seongsu Jang Family, personally placed the Thousand-Year Snow Ginseng inside and signed it.”
+
+“Oh? The Pill Physician did it personally?”
+
+“Yes. Several witnesses, myself included, watched the entire process.”
+
+“You’re remarkably thorough for someone your age.”
+
+Hwangbo Eom’s wrinkled fingers stroked his white beard.
+
+“This old man has heard that the Junzi Sword’s daughter is a gifted young woman. Thank you for handling such a difficult assignment so reliably.”
+
+“Our Yongbong Escort Bureau does not tolerate even the slightest mistake in an escort mission.”
+
+“That must be why you’re called the best in Shaanxi. Our sect operates an Escort Bureau as well, but it cannot compare with yours. Ha ha ha.”
+
+Ju Hwaran’s heart pounded.
+
+Was it because Hwangbo Eom had praised her?
+
+No. It was because of an emotion that had nothing to do with that praise—a feeling constricting her chest. And she knew its name.
+
+Anxiety.
+
+*Something is wrong.*
+
+It was an intuition bordering on foresight. But before Ju Hwaran could even begin to trace the source of her anxiety, Hwangbo Eom opened his mouth.
+
+“Well, only the final procedure remains.”
+
+They would inspect the requested item, then leave their signatures to prove that the handover had been completed.
+
+After a simple procedure that would take less than a quarter of an hour, the four-month escort mission, which had cost them so dearly, would come to an end.
+
+That was how it was supposed to happen.
+
+*…Was it really?*
+
+A chill unlike anything she had ever felt traveled up her spine.
+
+Hwangbo Eom’s voice pierced her frozen ears.
+
+“What are you waiting for? Show me the item.”
+
+Ju Hwaran slowly raised her head.
+
+His voice was kind and gentle. Yet the old man’s pitch-black eyes gleamed with a strange light.
+
+A voice squeezed out with difficulty slipped between her red lips.
+
+“…Great Hero Hwangbo.”
+
+“Open the casket. With your own hands.”
+
+Ju Hwaran realized it then—the source of her anxiety, and the fact that there was nowhere left for her to retreat.
+
+In the end, only one choice remained.
+
+*Rustle.*
+
+Her thin, trembling fingers began to untie the knot. The wooden casket she had kept close to her heart for the past four months felt strange, as if she were seeing it for the first time.
+
+*No. No, that can’t be. I’m sure of it. There’s no way…*
+
+And then—
+
+*Click.*
+
+At last, the wooden casket opened, revealing what lay inside. A clear fragrance, straight roots, and a frost-covered, snow-white body.
+
+There was no doubt that it was snow ginseng. But everyone who saw it stopped breathing and widened their eyes.
+
+In the suffocating silence, Hwangbo Eom’s gentle voice rang out.
+
+“How amusing.”
+
+He crooked one wrinkled finger, and a powerful stream of internal energy flowed forth.
+
+The snow ginseng floated into the air through Seizing an Object Through Empty Space as he continued.
+
+“A Hundred-Year-Old Snow Ginseng… Is this old man seeing things because his strength has waned?”
+
+It was obvious who he was asking.
+
+Every gaze turned toward one place. The horrified Chief Escort Heo Jun—and Song Ilseom, who had been standing at an angle as though he were invisible—were no exception.
+
+At the end of those dozens of pairs of eyes stood Ju Hwaran, her face pale and her eyes closed.
+
+*It’s over.*
+
+The moment she saw the Hundred-Year-Old Snow Ginseng inside the casket, she had closed her eyes rather than face what was happening.
+
+Something that could not and should not have happened had happened.
+
+*I saw it myself. I even had it in my possession.*
+
+Where had everything gone wrong?
+
+The past few months flashed through the darkness before her eyes like scenes from a dream.
+
+She had staked the Yongbong Escort Bureau’s very survival on this mission.
+
+The amount the Zhongnan Sect had offered for it was an enormous sum. But if they failed, they would have to pay a penalty ten times that amount.
+
+And now, this double-edged sword had plunged straight into the hearts of both her and the Yongbong Escort Bureau.
+
+“I won’t ask how this happened. I’m not particularly curious about what extraordinary circumstances caused the Thousand-Year Snow Ginseng to turn into a Hundred-Year-Old Snow Ginseng. However…”
+
+Hwangbo Eom swept his gaze over the people of the Yongbong Escort Bureau, including Ju Hwaran, with a deliberately regretful expression.
+
+“We will have to receive compensation for this matter.”
+
+“……!”
+
+“Our sect already paid the Seongsu Jang Family one hundred thousand silver nyang for the Thousand-Year Snow Ginseng. And if the Yongbong Escort Bureau successfully completed the escort mission, we agreed to pay a fee of ten thousand silver nyang—one-tenth of the cargo’s value.”
+
+The value of the lost Thousand-Year Snow Ginseng, plus the tenfold penalty the Yongbong Escort Bureau owed for failing to fulfill the contract.
+
+Together, they amounted to the astronomical sum of two hundred thousand silver nyang. It was an amount they could cover only by selling off most of what the Yongbong Escort Bureau owned.
+
+When Ju Hwaran realized that, blood ran from her lips, and Chief Escort Heo Jun’s face darkened.
+
+“G-Great Hero Hwangbo, that is…”
+
+“Two hundred thousand silver nyang. I will not permit any compromise.”
+
+“A-Ah…”
+
+The escorts who had accompanied Ju Hwaran let out groans of despair.
+
+Every one of them except Song Ilseom.
+
+Even though the Escort Bureau where he had worked for nearly ten years had fallen into a desperate crisis, he showed no reaction at all. He merely twitched the corner of his mouth once.
+
+Hwangbo Eom caught the movement out of the corner of his eye, then held out a full cup of tea to Ju Hwaran.
+
+“Have a cup. When your mind is troubled, nothing is better than a warm cup of tea.”
+
+Ju Hwaran’s long eyelashes, which had been tightly shut, trembled. Slowly, she opened her eyes and stared at Hwangbo Eom.
+
+“Is this… Is this Zhongnan’s way?”
+
+“I’m afraid I don’t know what you mean.”
+
+Hwangbo Eom gave a soft laugh and tipped his own teacup.
+
+As expected, it was astringent. The young owner who had inherited the teahouse from his family was still inexperienced.
+
+And yet, for some reason, the aroma and flavor lingering in Hwangbo Eom’s mouth now were incomparable to what he had tasted a moment ago.
+
+“Very good. It feels as if I’ve gone back thirty years.”
+
+“……!”
+
+“What’s wrong? Why don’t you drink it before it gets cold?”
+
+Ju Hwaran silently bit her lip.
+
+She had been completely outmaneuvered. Even after taking every precaution, she had still fallen into the trap.
+
+For the past two years, she had led the Escort Bureau in place of her father, the Junzi Sword, Ju Hogun. She had experienced all sorts of failures and setbacks, both large and small, but she had never faced anything as hopeless as this.
+
+*Can I rise again like before?*
+
+She might stumble, but she had never been brought down. Yet two hundred thousand silver nyang possessed enough destructive power to crush the Yongbong Escort Bureau to death.
+
+*We can pay the penalty.*
+
+It was possible.
+
+They would have to sell every field and parcel of land owned by the Yongbong Escort Bureau at a bargain price, then send away the hundreds of caravan porters, escorts, and Escort Captains whose wages they could no longer pay.
+
+And once that entire process was over, nothing would remain of the Yongbong Escort Bureau but an empty shell.
+
+*Is it really over? Just like this?*
+
+Hwangbo Eom watched Ju Hwaran with an amused expression.
+
+He had long heard that the Young Bureau Head of the Yongbong Escort Bureau was quite capable.
+
+But to him, she was still nothing more than an inexperienced greenhorn.
+
+*Heh. How pitiful.*
+
+That was when Hwangbo Eom was quietly laughing to himself.
+
+“Hmm?”
+
+His gaze suddenly turned toward the door of the teahouse. Several people’s qi was drawing closer.
+
+*This is…*
+
+The qi was so powerful that even Hwangbo Eom, a Supreme Peak master, could not easily ignore it.
+
+A vast amount of internal energy, comparable to that of an Elder of the Nine Sects and One Gang, slowly approached. Then it abruptly stopped right outside the teahouse.
+
+*Could it be Huashan?*
+
+Hwangbo Eom’s expectation was spectacularly wrong.
+
+*Creaaak.*
+
+“Oh, I was just in the mood for some tea, and look at that! There’s a teahouse right here.”
+
+A broad-shouldered young man opened the door and entered at the front.
+
+Hwangbo Eom’s eyes sank deeply as he looked at Jin Taekyung.
+
+* * *
+
+Even at a glance, it was an unusual sight.
+
+Dozens of swordsmen stood scattered throughout the room, and the air had grown heavy.
+
+*Ju Hwaran—or rather, the Yongbong Escort Bureau?*
+
+The question had barely arisen when I spotted them.
+
+On a table surrounded by people, a pair of slender fingers trembled faintly.
+
+I had only seen her once, but I could tell who they belonged to just from her fingers. Funny how that worked.
+
+*Were her hands pretty?*
+
+As I scratched the back of my head, everyone’s gaze flew toward me.
+
+A middle-aged man who appeared to be the owner of the teahouse hurried over and bowed repeatedly.
+
+“Sir, I’m sorry, but we’re completely full right now…”
+
+“There’s a seat over there.”
+
+“That seat isn’t in use.”
+
+“Then I’ll have my tea standing.”
+
+At that moment, a martial artist who appeared to be a Disciple of the Zhongnan Sect approached with measured steps.
+
+“Are you a martial artist?”
+
+“No, I’m just fat.”
+
+The martial artist looked me up and down as though he had found a complete lunatic.
+
+“I don’t know who you are or where you come from, but an important person is here right now. You would do well to leave.”
+
+“I’m an important son in my own family too, so why should I? There’s plenty of room anyway.”
+
+“……You’re being troublesome. I am a Disciple of the Great Zhongnan Sect. You should understand by now, so leave.”
+
+“Why do you keep telling me to leave? I just want to sit down and have a cup of tea.”
+
+From behind me, Cheongpung suddenly shouted excitedly.
+
+“Benefactor! Candied sweets too!”
+
+“Candied sweets? Hey, Mujin. Does this teahouse sell them too?”
+
+“Are you seriously saying that right now?”
+
+What the hell was with these guys?
+
+The Zhongnan Sect disciple had been looking at us as if to say exactly that, but his face stiffened when he spotted someone.
+
+“H-Huashan’s Lone Crane, Baek Museong!”
+
+Maybe it was because this was Huashan’s home ground, but more than one person here recognized Baek Museong’s face.
+
+In any case, the Zhongnan Disciple’s involuntary shout had an immediate effect. Unlike when we had first entered, everyone was now looking at us.
+
+Two gazes stood out from the rest.
+
+I waved at one of their owners.
+
+“Oh, we meet again.”
+
+“…Young Hero Jin?”
+
+Ju Hwaran stared at me with her pale face and wide, round eyes.
+
+Across from her sat an old man with a white beard hanging down from his chin.
+
+I gave Ju Hwaran a small smile, then gazed intently at the old man.
+
+“Is there some problem between you and Young Lady Ju?”
+
+The old man, the Taeeul Merciless Sword Hwangbo Eom, stroked his beard and laughed.
+
+“An interesting fellow has appeared.”

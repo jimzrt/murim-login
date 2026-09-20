@@ -114,7 +114,7 @@ Hwangbo Eom’s gentle voice rang through the suffocating silence.
 
 He crooked one wrinkled finger, releasing a powerful stream of internal energy.
 
-The snow ginseng floated into the air through Seizing an Object Through Empty Space as he continued.
+The snow ginseng floated into the air through Seizing an Object Through Empty Space.
 
 “A Hundred-Year-Old Snow Ginseng… Is this old man seeing things because his strength has waned?”
 
@@ -134,7 +134,7 @@ Something that could not and should not have happened had happened.
 
 Where had everything gone wrong?
 
-The past few months flashed through the darkness before her eyes like scenes from a dream.
+The time that had passed flashed before her eyes in the darkness.
 
 She had staked the Yongbong Escort Bureau’s very survival on this mission.
 
@@ -154,7 +154,7 @@ Hwangbo Eom swept a look of feigned regret over Ju Hwaran and the other members 
 
 The value of the lost Thousand-Year Snow Ginseng, plus the tenfold penalty the Yongbong Escort Bureau owed for failing to fulfill the contract.
 
-Together, they amounted to the astronomical sum of two hundred thousand silver nyang. It was an amount they could cover only by selling off most of what the Yongbong Escort Bureau owned.
+Together, they came to the astronomical sum of two hundred thousand silver nyang. The Bureau could cover it only by selling off nearly everything it owned.
 
 Blood ran from Ju Hwaran’s lips as the realization struck her, and Chief Escort Heo Jun’s face went black.
 
@@ -194,7 +194,7 @@ And yet, for some reason, the aroma and flavor lingering in Hwangbo Eom’s mout
 
 Ju Hwaran silently bit her lip.
 
-She had been completely outmaneuvered. Even after taking every precaution, she had still fallen into the trap.
+She had been completely outmaneuvered. Despite taking every possible precaution, she had still fallen into their trap.
 
 For the past two years, she had led the Escort Bureau in place of her father, the Junzi Sword, Ju Hogun. She had endured all kinds of mistakes and failures, both large and small, but never had she faced anything as hopeless as this.
 
@@ -224,11 +224,11 @@ Just as Hwangbo Eom chuckled inwardly—
 
 “Hmm?”
 
-His gaze suddenly turned toward the door of the teahouse. Several people’s qi was drawing closer.
+His gaze suddenly turned toward the teahouse door. The presence of several people was drawing closer.
 
 *This is…*
 
-The qi was so powerful that even Hwangbo Eom, a Supreme Peak master, could not easily ignore it.
+Among them was an aura so powerful that even Hwangbo Eom, a Supreme Peak master, could not easily dismiss it.
 
 A vast reserve of internal energy comparable to that of an Elder from the Nine Sects and One Gang steadily approached, then stopped directly outside the teahouse.
 
@@ -246,7 +246,7 @@ Hwangbo Eom’s eyes darkened as he looked at Jin Taekyung.
 
 * * *
 
-Even at a glance, it was an unusual sight.
+Even at a glance, something was clearly wrong.
 
 Dozens of swordsmen stood throughout the room, and the air hung heavy.
 
@@ -280,11 +280,11 @@ At that moment, a martial artist who appeared to be a Disciple of the Zhongnan S
 
 The martial artist looked me up and down as if he were staring at a complete lunatic.
 
-“I don’t know who you are or where you come from, but an important person is here right now. You would do well to leave.”
+“I don’t know who you are or where you come from, but an important person is here. You would do well to leave.”
 
-“I’m an important son in my own family too, so why should I? There’s plenty of room anyway.”
+“I’m an important son in my family too, so why should I? There’s plenty of room anyway.”
 
-“……You’re being troublesome. I am a Disciple of the Great Zhongnan Sect. You should understand by now, so leave.”
+“……You’re being troublesome. I am a Disciple of the Great Zhongnan Sect. I’m sure you understand now, so leave.”
 
 “Why do you keep ordering me around? I just want to sit down and have some tea.”
 
@@ -294,11 +294,11 @@ Cheongpung, who had been fidgeting behind me, shouted excitedly.
 
 “Candied sweets? Hey, Mujin. Does this teahouse sell those too?”
 
-“Are you seriously saying that right now?”
+“Are you seriously asking that right now?”
 
 *What the hell is wrong with these guys?*
 
-The Zhongnan Sect disciple had been looking at us as if to say exactly that, but his face stiffened when he spotted someone.
+The Zhongnan Sect disciple had been looking at us as if he were thinking exactly that, but his face stiffened when he spotted someone.
 
 “H-Huashan’s Lone Crane, Baek Museong!”
 
@@ -314,7 +314,7 @@ I waved at one of them.
 
 “…Young Hero Jin?”
 
-Ju Hwaran stared at me with her pale face and wide, round eyes.
+Ju Hwaran stared at me, her pale face framed by wide, round eyes.
 
 Across from her sat an old man with a long white beard.
 
