@@ -1758,3 +1758,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑야왕 | **Black Night King** | Epithet of Sima Gong, Sama Pyo's father and the Sect Leader who built the modern Black Dragon Demon Gate. |
 | 녹림투왕 | **Green Forest Battle King** | Epithet of the Green Forest Alliance Leader, distinguished from the Ten Kings. |
 | 영창 피아노 | **Young Chang piano** | Piano brand used in a voice comparison. |
+| 화룡각 | **Fire Dragon Pavilion** | New name chosen for Taekyung's pavilion. |
