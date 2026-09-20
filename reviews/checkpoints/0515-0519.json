@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At Xixia, Sama Pyo confronts Shaolin’s young Martial Uncle, the scarred and hoarse-voiced Unnamed, over the Black Dragon Saber.",
+      "defect": "The summary treats Black Dragon Saber, Sama Pyo’s sobriquet, as the disputed weapon and places the encounter at Xixia despite the chapter locating it in Henan.",
+      "id": "C01",
+      "rationale": "Chapter 515 identifies Sama Pyo as Black Dragon Saber, has Unnamed order him to return the merchant’s sword, and explicitly states that they are in Henan.",
+      "replacement": "At a ferry landing in Henan, Sama Pyo confronts Shaolin’s young Martial Uncle, the scarred and hoarse-voiced Unnamed, after taking a merchant’s sword.",
+      "severity": "major",
+      "source": "Checkpoint Plot, opening sentence"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He later reunites with Unnamed, recognizes Jung Ho as his former Garam Middle School classmate Park Jung Ho, and learns that Shaolin’s new Abbot—Unnamed’s eldest Senior Brother—wants to meet him.",
+      "defect": "The summary records Taekyung’s groggy joke and mistaken association as a genuine recognition of Jung Ho.",
+      "id": "C02",
+      "rationale": "In Chapter 516, Taekyung asks whether Jung Ho is his old classmate before fully waking, then realizes that the monk is Shaolin’s Discipline Hall Master; the text never confirms that they are the same person.",
+      "replacement": "He later reunites with Unnamed, sleepily mistakes Jung Ho for his former Garam Middle School classmate Park Jung Ho, and learns that Shaolin’s new Abbot—Unnamed’s eldest Senior Brother—wants to meet him.",
+      "severity": "major",
+      "source": "Checkpoint Plot, second paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Jung Ho is Park Jung Ho, Taekyung’s former Garam Middle School classmate, and Shaolin’s Discipline Hall Master.",
+      "defect": "A momentary joke is promoted into a false identity claim.",
+      "id": "C03",
+      "rationale": "Nothing in Chapters 515–519 establishes Jung Ho as Taekyung’s former classmate, and Jung Ho responds with confusion to the suggestion.",
+      "replacement": "Jung Ho is Shaolin’s Discipline Hall Master; while still half asleep, Taekyung briefly mistakes him for his former Garam Middle School classmate Park Jung Ho.",
+      "severity": "major",
+      "source": "Checkpoint Continuity, Jung Ho bullet"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Their clash coincides with a Dark Heaven assault, sending the gathered Murim forces into battle.",
+      "defect": "No Dark Heaven assault occurs; the duel’s destruction and Supreme Peak qi are mistakenly interpreted as one.",
+      "id": "C04",
+      "rationale": "Chapters 518–519 reveal that the supposed attack was Jeok Cheongang and Nangong Cheon’s duel, followed by a cascading misidentification.",
+      "replacement": "Their clash destroys the inn and is mistaken for a Dark Heaven assault, sending the gathered Murim forces charging toward the scene.",
+      "severity": "major",
+      "source": "Checkpoint Plot, third paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Dark Heaven attacked near the Alliance gathering. Jeok’s emergence from the burning inn caused a chaotic misidentification; the assault’s broader consequences remain to be seen.",
+      "defect": "The continuity record asserts an attack that the reading copies explicitly reveal never occurred and leaves invented consequences open.",
+      "id": "C05",
+      "rationale": "The disturbance originates entirely from the promised duel; no Dark Heaven combatants or separate assault appear in the packet.",
+      "replacement": "Jeok Cheongang and Nangong Cheon’s duel near the Alliance gathering was mistaken for a Dark Heaven attack. Jeok’s emergence from the burning inn caused a chaotic misidentification before Nangong Cheon helped end the confrontation.",
+      "severity": "major",
+      "source": "Checkpoint Continuity, Dark Heaven bullet"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Dark Heaven assault near Mount Song has ended in a chaotic misunderstanding: Jeok Cheongang emerged from a burning inn, was mistaken for a Dark Heaven fiend, was identified as the Returned-to-Youth Fire King by Peng Cheolhu, and was separated from the mob by Nangong Cheon.",
+      "defect": "The active state preserves the nonexistent Dark Heaven assault as fact and obscures that the entire disturbance began with Jeok Cheongang’s duel against Nangong Cheon.",
+      "id": "C06",
+      "rationale": "Durable state must distinguish the characters’ temporary misunderstanding from established continuity or future chapters will inherit a false attack.",
+      "replacement": "Jeok Cheongang’s duel with Nangong Cheon near Mount Song destroyed an inn and was mistaken for a Dark Heaven assault. Jeok emerged from the burning wreckage, was mistaken for a Dark Heaven fiend, was eventually identified as the Returned-to-Youth Fire King, and was separated from the mob after Nangong Cheon intervened.",
+      "severity": "major",
+      "source": "Durable state, final active_continuity entry"
+    },
+    {
+      "confidence": 0.99,
+      "current": "What in tarnation is that?",
+      "defect": "“Tarnation” is a dated, sanitized euphemism that clashes with Taekyung’s contemporary and routinely profane narrative voice.",
+      "id": "C07",
+      "rationale": "The surrounding chapters consistently give Taekyung direct modern profanity; the current expression sounds like an imported Western rustic affectation.",
+      "replacement": "What the hell is that?",
+      "severity": "minor",
+      "source": "Chapter 518, Taekyung observing the distant explosions"
+    },
+    {
+      "confidence": 0.98,
+      "current": "You’re a kid whose blood hasn’t even dried on his head, yet you keep talking back to me…",
+      "defect": "The image is an unnatural Korean idiom calque in English dialogue.",
+      "id": "C08",
+      "rationale": "The replacement preserves the accusation of extreme youth and insolence while sounding natural in contemporary English.",
+      "replacement": "You’re still wet behind the ears, yet you keep talking back to me…",
+      "severity": "minor",
+      "source": "Chapter 519, Thunderbolt Saber King arguing with Taekyung"
+    }
+  ],
+  "summary": "The reading copies remain coherent overall, but the checkpoint summary and durable state contain repeated factual errors: Sama Pyo’s sobriquet is treated as an object, Taekyung’s sleepy joke about Jung Ho is recorded as a genuine recognition, and Jeok Cheongang’s duel is misreported as an actual Dark Heaven assault. Two conspicuous Korean-style or dated expressions also break Taekyung’s established English voice.",
+  "version": 1
+}

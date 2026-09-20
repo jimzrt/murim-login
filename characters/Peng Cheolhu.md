@@ -1,0 +1,9 @@
+# Peng Cheolhu (벽력도왕)
+
+- **Safe through:** Chapter 519
+- **Aliases:** Thunderbolt Saber King
+- **Role:** Peng Cheolhu is the Thunderbolt Saber King, a Ten Kings master and Great Hero of the Hebei Peng Family.
+- **Personality:** Boisterous, hot-tempered, argumentative, and protective toward those connected to his close friend Hong Dao.
+- **Voice:** Loud, blunt, confrontational, and prone to disguising embarrassment or retreat as serious martial instruction.
+- **Relationships:** Long-standing rival and friend of Jeok Cheongang; close friend of Hong Dao; protective toward Hong Dao's Disciple Unnamed.
+- **Sources:** Korean source and accepted translation, Chapter 519

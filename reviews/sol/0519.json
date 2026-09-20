@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Unnamed wasn’t the only one left speechless by the question.",
+      "defect": "The reaction’s subject is reversed. The source says Taekyung was not the only person dumbfounded by Unnamed’s words; it does not say Unnamed was also left speechless.",
+      "id": "F01",
+      "rationale": "The construction “나뿐만이 아니었다” explicitly centers Taekyung and indicates that Jeok Cheongang shared his incredulous reaction.",
+      "replacement": "I wasn’t the only one dumbfounded by Unnamed’s words.",
+      "severity": "critical",
+      "source": "무명의 말에 어이가 없어진 건 나뿐만이 아니었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…”\n\n*Let’s just get hit.*",
+      "defect": "Jeok Cheongang’s spoken threat is converted into an italicized thought and reverses who is about to receive the beating.",
+      "id": "F02",
+      "rationale": "In context, “일단 맞자” is Jeok Cheongang telling the attacker to take a beating immediately before he punches Moon Beauty Saber away.",
+      "replacement": "“…Let’s start with you taking a beating.”",
+      "severity": "critical",
+      "source": "“……일단 맞자.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "From the perspective of the Murim practitioners gathered there, it was a single punch they had never seen before—and would never see again.",
+      "defect": "The draft changes an imperceptibly fast punch into one that the spectators merely will not see again in the future.",
+      "id": "F03",
+      "rationale": "“볼 수도 없었던” means they could not see the punch, describing its speed and their inability to perceive it, not its future uniqueness.",
+      "replacement": "The punch was something none of the martial artists gathered there had seen—or had even been capable of seeing.",
+      "severity": "major",
+      "source": "이 자리에 모인 무림인들의 입장에서는 본 적도 없고, 볼 수도 없었던 일권(一拳)."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Then why did you swing your saber at me without so much as a word?”",
+      "defect": "The draft adds Taekyung as the target of the saber attack, although the fight and the surrounding exchange were between the Thunderbolt Saber King and Jeok Cheongang.",
+      "id": "F04",
+      "rationale": "The source leaves the object unstated. Adding “at me” contradicts the scene’s established participants.",
+      "replacement": "“Then why did you suddenly start swinging your saber?”",
+      "severity": "critical",
+      "source": "“그런데 왜 다짜고짜 도를 휘두르신 겁니까?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Hong Dao, his close friend, had left behind only one Disciple. To the Thunderbolt Saber King, Unnamed was a particularly painful spot.",
+      "defect": "The established title “Dharma King” is omitted, and the literal rendering “a particularly painful spot” obscures the idiom’s meaning that Unnamed inspires special concern and protectiveness.",
+      "id": "F05",
+      "rationale": "“아픈 손가락” refers to someone whose circumstances make them an object of particular concern or sympathy, while “법왕” explicitly identifies Hong Dao as the Dharma King.",
+      "replacement": "Unnamed, the only Disciple left behind by his close friend the Dharma King Hong Dao, was someone the Thunderbolt Saber King couldn’t help but feel protective of.",
+      "severity": "major",
+      "source": "절친한 벗이었던 법왕 굉도가 남긴 유일한 제자는 그에게 있어 아픈 손가락이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Is that really what the man who burned down Mount Jiuhua and killed a thousand members of the Demonic Cult would say?",
+      "defect": "The draft makes Jeok Cheongang the person who burned Mount Jiuhua. The source says he killed a thousand Demonic Cult members because they had burned it.",
+      "id": "F06",
+      "rationale": "The causal construction “구화산 태워 버렸다고 … 죽인” assigns the burning to the Demonic Cult members and their deaths to Jeok Cheongang.",
+      "replacement": "“Is that really coming from the man who killed a thousand members of the Demonic Cult because they burned down Mount Jiuhua?",
+      "severity": "critical",
+      "source": "“……구화산 태워 버렸다고 마교도 천 명을 죽인 그 인간이 하는 말이 맞나?"
+    }
+  ],
+  "summary": "Six actionable fidelity defects, including altered subjects, attack targets, combat mechanics, hierarchy, and causality.",
+  "version": 1
+}

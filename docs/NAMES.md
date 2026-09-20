@@ -1694,3 +1694,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 방가 | **Fang Family** | Family identified by Moon Beauty Saber. |
 | 월미도 | **Moon Beauty Saber** | Sobriquet of the Fang Family's top-tier wandering martial artist. |
 | 검기상인 | **the level of injuring others with Sword Energy** | Realm description used for Moon Beauty Saber. |
+| 윤동주 | **Yun Dong-ju** | Korean poet referenced in Taekyung's comparison about sensitivity to the wind. |
+| 세종기지 | **King Sejong Station** | Korean Antarctic research station used in Taekyung's comparison. |
+| 바티칸 교황청 | **Vatican** | Institution referenced in Taekyung's joke to Unnamed. |
