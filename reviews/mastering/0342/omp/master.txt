@@ -52,7 +52,7 @@ His Master seemed unable to bring himself to speak, so Mungyeong stepped in.
 
 “That isn’t the biggest problem. The treatment will require an enormous amount of money, but some materials would be difficult to obtain no matter how much gold and silver we had.”
 
-“Materials that are difficult to obtain…? Are you talking about an elixir?”
+“Difficult materials…? Are you talking about an elixir?”
 
 “Yes. Treating Great Hero Jeok requires an elixir that meets certain conditions. Such elixirs are extremely valuable and rare. If we begin searching now, we may have to wait several years before finding one.”
 
@@ -76,7 +76,7 @@ The Divine Physician’s words brought something to mind.
 
 *So that was the cause.*
 
-In the distant past, Jeok Cheongang had earned the name Fire King by using the Dance of the Fire God and Demon against a thousand members of the Demonic Cult. But as the years passed, his old and diseased body could no longer endure that power. It had shattered.
+Long ago, Jeok Cheongang had earned the name Fire King by using the Dance of the Fire God and Demon against a thousand members of the Demonic Cult. But after the passage of so many years, his old and diseased body had been unable to withstand that power. It had broken down.
 
 “When a vessel breaks, whatever it held inside will inevitably leak out. Fortunately, there is a way to reverse the damage, but it requires an elixir rarely seen in this world.”
 
@@ -102,17 +102,17 @@ In a grave voice, the Divine Physician explained Jeok Cheongang’s condition, t
 
 “Oh, yes.”
 
-“I asked whether you remember all of it.”
+“I asked whether you would remember all of it.”
 
 “Yes. I remember everything. But this is… Whew.”
 
-“……”
+“…?”
 
 “Could you check—I mean, confirm that I heard everything correctly?”
 
 “I was planning to do so anyway. Go ahead.”
 
-I carefully began to speak.
+I began carefully.
 
 “So, the excessive expenditure of power disrupted his balance, and the harmony between Yin and Yang was particularly badly damaged?”
 
@@ -182,7 +182,7 @@ The Divine Physician swallowed nervously and carefully opened the wooden box. A 
 
 Eyes wide, the Divine Physician looked back and forth between me and the Thousand-Year Snow Ginseng, then nodded vigorously.
 
-“It is enough!”
+“It is more than enough!”
 
 Ding.
 
@@ -202,7 +202,7 @@ As the System notifications rang out, Ju Hwaran suddenly came to mind.
 
 *Thank you, Young Lady Ju.*
 
-I let out a wry chuckle as I thought of how she had given it to me while passing the Thousand-Year Snow Ginseng off as Hundred-Year-Old Snow Ginseng, worried I might feel burdened and refuse it otherwise.
+A disbelieving chuckle escaped me as I thought of how she had passed off the Thousand-Year Snow Ginseng as Hundred-Year-Old Snow Ginseng, worried that I might feel burdened and refuse her gift.
 
 *Now I have a reason to stop by Shaanxi on the way back.*
 
@@ -218,13 +218,13 @@ The Divine Physician carefully tucked the wooden box into his robes and began wa
 
 “Yes, Master.”
 
-Leaving Mungyeong behind as he answered respectfully, we followed the Divine Physician.
+Leaving Mungyeong behind, we followed the Divine Physician.
 
 * * *
 
 Swish!
 
-A small figure sped along right beside me. Every time he extended one foot, a zhang of distance vanished and the wind swept past.
+A small figure sped along beside me. Every time he took a step, a full zhang of distance vanished and the wind swept past.
 
 What was truly astonishing was that his feet never touched the ground.
 
@@ -234,7 +234,7 @@ I narrowed my eyes.
 
 *Flying Over Grass?*
 
-Flying Over Grass was a realm in which one ran as though flying while stepping across blades of grass.
+Flying Over Grass was a feat that allowed someone to race forward as though flying, stepping only on blades of grass.
 
 Martial artists who had mastered their movement techniques to the Peak realm could perform such feats. Treading Snow Without a Trace, which left no footprints even while running across snow, and Rising on Duckweed, Crossing Water, which allowed one to walk across water as though it were solid ground, worked on similar principles.
 
@@ -292,7 +292,7 @@ Seeing my expression, he let out a hearty laugh.
 
 For some reason, I felt as though I understood.
 
-I had accumulated killing karma too. At first, I swung my spear while thinking only of getting home and believing that this was merely a fictional world created by a game.
+I had taken more than my share of lives too. At first, I had swung my spear simply to return home, believing this was nothing more than a fictional world created by a game.
 
 *But everything was real. They were all living people.*
 
@@ -310,9 +310,9 @@ At my belated reply, the Divine Physician gave me a gentle smile.
 
 “It was simply a matter of choice. My Master chose the path he believed was right, and I did the same. However, so many people came looking for this old man that I had no choice but to learn martial arts for my own protection. I was born a dullard, so he scolded me quite often. Heh heh.”
 
-Everyone has memories.
+Everyone had memories.
 
-Perhaps remembering the days he had spent with his Master, the Divine Physician suddenly stopped walking in the middle of his laughter.
+Perhaps thinking back on the days he had spent with his Master, the Divine Physician laughed aloud. Then he suddenly came to a stop.
 
 “Well, we have arrived.”
 
