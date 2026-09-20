@@ -1878,3 +1878,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 베히모스 | **Behemoth** | Mythical monster emerging from the Pyeongchang Gate. |
 | 베헤모스 | **Behemos** | Alternate spelling of Behemoth used in the chapter. |
 | 헬 파이어 | **Hell Fire** | Name of Kim Hwajong's final hellfire spell. |
+| 정룡 | **Jungryong** | Cheon Taemin's trusted associate who joined the Peace Guild. |
+| 대전쟁 | **Great War** | The long war that ended after the Great Cataclysm. |
+| 겁화의 마법사 | **Hellfire Mage** | Kim Hwajong's former title as a foremost fire mage. |
+| 매직 스태프 | **Magic Staff** | Kim Hwajong's transforming staff. |
+| 파이어 웨이브 | **Fire Wave** | Kim Hwajong's wave-of-fire spell. |
+| 블레이즈 | **Blaze** | Kim Hwajong's explosive movement spell. |
+| 파이어 실드 | **Fire Shield** | Kim Hwajong's defensive spell. |
+| 플레임 캐논 | **Flame Cannon** | Kim Hwajong's highest-tier offensive fire spell. |

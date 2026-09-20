@@ -976,3 +976,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 팀장 | 팀원 | freelance team leader to subordinate team member | asshole/punk | insulting-casual | The Team Leader addresses the subordinate with 새꺄 and 인마 while joking and complaining over drinks. |
 | 최민우 | 스켈레톤 킹 | commander_to_undead_ally | you | casual and encouraging | After the Merman cleanup, Choi tells Skeleton King that it worked hard. |
 | 평화 길드의 헌터들 | 김화종 | guild_members_to_Guild_Master | Guild Master | formal and deferential | The surviving Peace Guild Hunters address Hwa-jong as Guild Master after he rescues Choi and orders their withdrawal. |
+| 김화종 | 천태민 | loyal subordinate and trusted comrade to Guild Master | Guild Master | formal and respectful | Kim addresses Taemin as 길드장님 after joining the Peace Guild. |

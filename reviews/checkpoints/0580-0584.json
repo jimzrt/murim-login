@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Busan's Kraken has been eliminated, but more than one thousand Mermen remain across Haeundae and Gwangalli while the Peace Guild and other forces contain the disaster.",
+      "defect": "The active state preserves an obsolete threat status after Chapter 582 establishes that the remaining Mermen have been eliminated.",
+      "id": "C01",
+      "rationale": "Chapter 582 explicitly identifies that group as the last Mermen and confirms that everything has been taken care of. Leaving the old state active would create false continuity in later chapters.",
+      "replacement": "Busan's Kraken and the remaining Mermen across Haeundae and Gwangalli have been eliminated; Jin Taekyung is continuing to search for survivors.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Choi severs two of its four forelegs before collapsing, while Hwajong loses his left arm rescuing him and orders the survivors to evacuate with Choi.",
+      "defect": "Behemoth has four legs total, not four forelegs, and Choi cuts halfway through its two forelegs rather than severing them.",
+      "id": "C02",
+      "rationale": "Chapters 583–584 consistently describe two wounded forelegs that remain attached until Hwa-jong disables them with Flame Cannon.",
+      "replacement": "Choi cuts halfway through both of its forelegs before collapsing, while Hwa-jong loses his left arm rescuing him and orders the survivors to evacuate with Choi.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, Pyeongchang battle paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "—The government has declared the Pyeongchang area of Gyeonggi Province a disaster zone and dispatched emergency support forces.",
+      "defect": "Pyeongchang is incorrectly assigned to Gyeonggi Province.",
+      "id": "C03",
+      "rationale": "Pyeongchang is in Gangwon, so the current announcement introduces a concrete geographic error.",
+      "replacement": "—The government has declared the Pyeongchang area of Gangwon Province a disaster zone and dispatched emergency support forces.",
+      "severity": "minor",
+      "source": "Chapter 583, televised disaster announcement"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A voice that sounded as if it were chewing out the words spilled through Kim Hwajong’s clenched teeth.",
+      "defect": "The reading copies and checkpoint prose use the unhyphenated form “Hwajong,” contrary to the active terminology decision “Hwa-jong.”",
+      "id": "C04",
+      "rationale": "The binding packet decision explicitly establishes “Hwa-jong.” The spelling should be normalized throughout the reading copies, summary, continuity, and open questions.",
+      "replacement": "A voice that sounded as if it were chewing out the words spilled through Kim Hwa-jong’s clenched teeth.",
+      "severity": "minor",
+      "source": "Chapters 580–584, recurring character name; representative occurrence in Chapter 581"
+    },
+    {
+      "confidence": 0.98,
+      "current": "[Hero’s Soul].\n\nAn ego sword that granted the strength befitting a hero only to those who possessed the necessary qualifications.",
+      "defect": "The skill or item name is enclosed in square brackets, contrary to the packet’s System-formatting rule and its later bold rendering in Chapter 583.",
+      "id": "C05",
+      "rationale": "Removing the UI-style brackets and matching Chapter 583 eliminates an internal Markdown-formatting inconsistency.",
+      "replacement": "**Hero’s Soul.**\n\nAn ego sword that granted the strength befitting a hero only to those who possessed the necessary qualifications.",
+      "severity": "minor",
+      "source": "Chapter 582, Hero’s Soul introduction"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...!”\n\nSwallowing hard, Go Se-won opened the door and entered.",
+      "defect": "The reading copies repeatedly use three periods as an ellipsis despite the binding requirement to use the single ellipsis character.",
+      "id": "C06",
+      "rationale": "This occurrence and the other ASCII ellipses across the packet should be normalized to the established house style.",
+      "replacement": "“…!”\n\nSwallowing hard, Go Se-won opened the door and entered.",
+      "severity": "minor",
+      "source": "Chapters 580–584, recurring punctuation; representative occurrence in Chapter 580"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Scatter!”\n\nFwap-fwap-fwap!\n\nThe figures that had shot upward like the wind scattered in every direction.",
+      "defect": "Combat sound effects abruptly lose the italic formatting used throughout Chapters 580–582.",
+      "id": "C07",
+      "rationale": "Chapters 583–584 contain a sustained formatting drift in which standalone action sounds are plain text. Restoring italics preserves packet-wide presentation consistency.",
+      "replacement": "“Scatter!”\n\n*Fwap-fwap-fwap!*\n\nThe figures that had shot upward like the wind scattered in every direction.",
+      "severity": "minor",
+      "source": "Chapters 583–584, combat sound-effect formatting; representative occurrence in Chapter 583"
+    }
+  ],
+  "summary": "The packet is broadly coherent, but the active state retains obsolete Busan combat status, the checkpoint summary misstates Behemoth’s leg injury, and several terminology, geography, and formatting inconsistencies need correction.",
+  "version": 1
+}
