@@ -1744,3 +1744,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황보군 | **Hwangbo Gun** | Family Head of the Hwangbo Family and father of its Lesser Family Head. |
 | 집법당 | **Enforcement Hall** | Murim Alliance disciplinary organization. |
 | 베지터 | **Vegeta** | Reference in the joking name Planet Vegeta. |
+| 왕희지 | **Wang Xizhi** | Historical calligrapher invoked in Hyuk Mujin's boast. |
+| 궁 | **Gung** | Surname in Hyuk Mujin's reference to Young Hero Gung. |

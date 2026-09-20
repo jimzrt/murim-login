@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He is directly under the Alliance Leader’s Office, so he can’t have subordinate units of his own. But a pavilion master is still a pavilion master. How does that make any sense?",
+      "defect": "This contradicts Chapters 536 and 538 and the active continuity, which establish that the Two Dragons Pavilion answers directly to the Alliance Leader while its pavilion masters retain authority to select personnel and command regiments and subordinate squads.",
+      "id": "C01",
+      "rationale": "Direct accountability to the Alliance Leader does not eliminate the subordinate structure explicitly granted to the Two Dragons Pavilion.",
+      "replacement": "His pavilion answered directly to the Alliance Leader’s Office, and he still had the authority to appoint personnel and command subordinate units. A pavilion master was still a pavilion master. How did that make any sense?",
+      "severity": "major",
+      "source": "Chapter 537, Hwangbo Gun's thoughts about Taekyung's appointment"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I’ll dictate it now. Write a letter and deliver it to Blazing Flame Divine Dragon—or rather, Chief Jin.",
+      "defect": "“Chief Jin” is a terminology drift from Taekyung's newly established office of Pavilion Master.",
+      "id": "C02",
+      "rationale": "The appointment and all surrounding narration consistently identify Taekyung as a Pavilion Master, not a chief.",
+      "replacement": "I’ll dictate it now. Write a letter and deliver it to Blazing Flame Divine Dragon—or rather, Pavilion Master Jin.",
+      "severity": "minor",
+      "source": "Chapter 537, Mae Jonghak dictating Taekyung's disciplinary notice"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The tributaries of the Yangtze may divide into many branches, but in the end, their currents all connect to a single river.",
+      "defect": "The river metaphor reverses the physical relationship: tributaries converge into a river rather than dividing into branches.",
+      "id": "C03",
+      "rationale": "The replacement preserves the intended image of multiple identities joining one person without the distracting geographical contradiction.",
+      "replacement": "Countless tributaries may feed the Yangtze, but in the end, all their currents join a single river.",
+      "severity": "minor",
+      "source": "Chapter 539, opening description of Mungyeong's two identities"
+    }
+  ],
+  "summary": "The packet is coherent overall, but Chapter 537 contradicts the established Two Dragons Pavilion command structure and briefly uses the wrong title for Taekyung. Chapter 539 also contains a logically inverted river metaphor.",
+  "version": 1
+}
