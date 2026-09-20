@@ -104,7 +104,7 @@ He could not move a single step with monsters surging in from every direction. A
 
 “The battle isn’t over! Fight until the very end!”
 
-He was right. The battle was not over yet. A Hunter was someone who had to kill monsters until the final moment, until their own breath ran out.
+That was right. The battle was not over yet. A Hunter was someone who killed monsters until the very last moment—until their dying breath.
 
 The Hunters who heard Shao Shen’s shout gritted their teeth and swung their weapons.
 
@@ -132,7 +132,7 @@ Drenched in a sticky liquid he assumed was blood, Shao Shen thought:
 
 Wasn’t a person’s dying cry usually more like “Aaaah”?
 
-The strange sound was an odd choice for a dying cry, so Shao Shen slowly raised his eyelids.
+It was a strange sound to make at the moment of death. Shao Shen cautiously opened his eyes.
 
 At last, he saw it.
 
@@ -144,13 +144,13 @@ The airplane had stopped dead only a few steps away. Two men stood beside it, ch
 
 “Really? How weak.”
 
-“……They would have died if not for the Barrier magic.”
+“……They would have died if not for the Barrier spell.”
 
-“Then carry them out, Team Leader Choi. Oh, right. Is that bastard who called us chinks earlier alive, too?”
+“Then carry them out, Team Leader Choi. Oh, right. Is that bastard who called us *bangzi* earlier still alive?”
 
 “Yes. He’s… alive, at least.”
 
-“Then keep a close eye on that bastard. I’ll keep giving him hell for it when we head back.”
+“Then keep a close eye on that bastard. I’m going to give him hell for it the whole way back.”
 
 “……I’ll do my best.”
 
@@ -162,7 +162,7 @@ Who, when, where, what, why, and how—this bizarre sight defied even the five W
 
 The two men were even speaking in another language.
 
-Shao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
+Shao Shen could not understand the clean-cut man who looked like a young master, but he knew what language the man was speaking.
 
 It belonged to Korea, their longtime neighbor.
 
@@ -246,11 +246,11 @@ Team Leader Choi was a smart man. Learning the Jin Family’s Cultivation Techni
 
 *Mr. Jin? What am I, a schoolteacher?*
 
-I looked the young man who had answered so quickly up and down.
+I looked the young man up and down as he snapped to attention.
 
 His face was young, but he was obviously a Hunter. A powerful one, too—probably around A-rank. Unlike the surrounding Hunters, who all wore identical armor as if they had come off a factory line, he also had a red insignia on his shoulder.
 
-“You look like you hold a pretty significant rank, so take good care of your men. Let’s save even one more person.”
+“You look like you hold a pretty high rank, so take good care of your men. Let’s save as many people as we can.”
 
 “Y-Yes?”
 
@@ -284,7 +284,7 @@ Shing!
 
 Forget half water, half fish. Monsters packed every inch of the battlefield.
 
-A crescent of Force extending from the spearhead brushed against a tightly packed cluster of monsters.
+A crescent of Force shot from the spearhead and swept through a tightly clustered group of monsters.
 
 Ding.
 
@@ -368,7 +368,7 @@ Shiiiiing! Slice!
 
 Space itself split apart, and the monsters caught within it were chopped to pieces.
 
-Leaving behind the Chinese Hunter who stared blankly at me while covered in blood and bodily fluids, I clenched my fist.
+Leaving behind a Chinese Hunter who stared blankly at me, drenched in blood and bodily fluids, I clenched my fist.
 
 Whoooom.
 
@@ -394,7 +394,7 @@ The Skeleton Warlord spoke in a faltering voice.
 
 “Guarantee what?”
 
-—His control over the undead is a notch below mine. Wahaha! Legion! This commander has missed you!
+—His control over the undead is a notch below mine. Wahaha! My legion! This commander has missed you!
 
 “……”
 
