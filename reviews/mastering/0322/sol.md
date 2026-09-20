@@ -32,7 +32,7 @@ In other words, he was a three-knot disciple.
 
 “…”
 
-“Well, forget it if you’re not interested. In any case, it seems someone who should be here is missing.”
+“Well, forget it if you’re not interested. More importantly, someone who ought to be here seems to be missing.”
 
 Huff, huff.
 
@@ -58,7 +58,7 @@ In other words, the mark of the Successor Beggar.
 
 “Ahem. I told you, I couldn’t help it.”
 
-“Damn it. If the Law Beggar comes looking for you over this, remember that it’s all your fault.”
+“Damn it. If the Law Beggar comes looking for us over this, remember that it’s all your fault.”
 
 “Now, now. You have a lot to say for a mere three-knot disciple. You should be attending to the Successor Beggar instead.”
 
@@ -70,7 +70,7 @@ Judging from their conversation, the two had been close friends since their days
 
 *Even better. This should go smoothly.*
 
-For someone else, however, it would be very bad news.
+For someone else, however, this was very bad news.
 
 I turned my head and found Hwangbo Eom’s face twisted with displeasure. The corners of my mouth rose of their own accord.
 
@@ -106,7 +106,7 @@ Wolhwa continued with a radiant smile.
 
 “I’ve already accepted a commission. Of course, the client is Young Master Jin, standing right here. Isn’t that right?”
 
-“Oh, absolutely. Did you receive the silver nyang retainer I sent through the attendant?”
+“Oh, absolutely. Did you receive the advance I sent through the attendant?”
 
 “Of course I did. But one silver nyang is terribly stingy. I’ll collect a generous fee from you later, so be prepared.”
 
@@ -144,7 +144,7 @@ Gung Gibang avoided Hwangbo Eom’s gaze and nodded.
 
 Hwangbo Eom looked back and forth between the two, then shouted like a thunderclap.
 
-“Enough excuses! Beggars’ Sect, will you get the hell out of here already?”
+“Enough excuses! Beggars’ Sect, get the hell out of here!”
 
 Boom!
 
@@ -168,7 +168,7 @@ The two men looked at each other’s grime-covered faces and let out quiet laugh
 
 “As the branch leader, that’s my job. If we gathered only the ones in Xi’an, we’d still have about a thousand.”
 
-“That’s not your call, three-knot. I’m an eight-knot—the one and only eight-knot disciple in the Beggars’ Sect! If the Successor Beggar calls, they’ll come running even from the neighboring province.”
+“That’s not your call, three-knot. I’m an eight-knot—the one and only eight-knot disciple in the Beggars’ Sect! If the Successor Beggar calls, they’ll come running from the neighboring provinces.”
 
 “Shaanxi will become a den of beggars. At that point, wouldn’t it be looting rather than begging?”
 
@@ -202,11 +202,11 @@ Gung Gibang was no longer the man who had been inching backward, trying to escap
 
 A veteran beggar, all right.
 
-It wasn’t easy to look that cool and that pathetic at the same time, but he pulled it off effortlessly.
+It wasn’t easy to sound that cool and that pathetic at the same time, but he pulled it off effortlessly.
 
 *Maybe he really is good at begging.*
 
-With a voice brimming with tragic grandeur and words that made him sound utterly pitiable, Gung Gibang dominated the room before turning to Heukgeol Beggar.
+With a voice overflowing with tragic grandeur and words that made him sound utterly penniless, Gung Gibang dominated the room before turning to Heukgeol Beggar.
 
 “You brought everything I listed in the letter, right?”
 
