@@ -1,6 +1,6 @@
 # Chapter 368
 
-The boy—or rather, the “he” bearing the name Mungyeong—looked down at the ground below his feet.
+The boy—no, the man called Mungyeong—looked down at those below.
 
 Countless eyes stared up at him in disbelief. Among them was a familiar face.
 
@@ -20,7 +20,7 @@ At least, not until moments ago.
 
 “A great deal has happened. A great deal indeed. Wouldn’t you agree?”
 
-The question was directed at an old man. He gazed at the Divine Physician—or rather, Dong Feng—with indescribable eyes before opening his lips.
+The question was directed at an old man. The man called Mungyeong gazed at the Divine Physician—or rather, Dong Feng—with an indescribable look before speaking.
 
 “Thank goodness. I wasn’t too late.”
 
@@ -42,7 +42,7 @@ His next words carried a note of regret.
 
 “Regret…”
 
-At his Disciple’s words, he raised his head and looked toward the sky.
+At his Disciple’s words, he raised his head toward the sky.
 
 The rain that had seemed as though it would fall forever was gone, as were the dark clouds that had blotted out the sun. All that remained was the vast azure heaven.
 
@@ -68,7 +68,7 @@ Had it come to this after all?
 
 With a quiet murmur, he opened his eyes.
 
-A boy’s hands, white and soft.
+A boy’s hands, pale and soft.
 
 Returned to Youth had transformed his flesh several years ago, but even that could not erase the scent of blood steeped into his hands.
 
@@ -76,7 +76,7 @@ Returned to Youth had transformed his flesh several years ago, but even that cou
 
 His voice, laden with immense internal energy, struck their ears like thunder. The black-clad men staggered as though the sound had shaken their very souls.
 
-“And yet, why have you come here?”
+“And yet, why did you come here?”
 
 His killing intent made every hair stand on end. The deputy captain, frozen as he stared at the figure in the sky, spoke in a trembling voice.
 
@@ -84,7 +84,7 @@ His killing intent made every hair stand on end. The deputy captain, frozen as h
 
 “No concern of mine?”
 
-He muttered the words in a low voice before throwing down the travel bag he had been holding.
+He repeated the words in a low voice, then tossed down the travel bag in his hand.
 
 Thud!
 
@@ -109,8 +109,6 @@ As the deputy captain stared in horror at First Fiend’s severed head, the Slau
 Only then did the deputy captain understand.
 
 Why no word had come from the Qingcheng Sect—and where the brothers who had failed to return after seeing the emergency signal had gone.
-
-In the end, only one path remained.
 
 There was only one course left to him. The realization struck like lightning, and he unleashed a shout imbued with internal energy.
 
@@ -144,23 +142,23 @@ Before the streams of blood could reach the ground, something pale and ghostlike
 
 Murmuring under his breath, he extended both hands. Long, slender threads streamed from his ten fingers.
 
-Threads of Force—beautiful and destructive.
+Beautiful and destructive threads of Sword Force.
 
 “And yet, why did you…”
 
 Whoosh!
 
-When his ten curved fingers slashed downward through the air, Force tore through space.
+His ten curved fingers raked downward through the air, and Sword Force tore through space.
 
-Everything that stood in its way was cut apart and split open. Shattered armor and weapons, limbs and heads, flew in every direction.
+Everything in its path was slashed apart. Shattered armor and weapons, severed limbs and heads—all flew in every direction.
 
 In a world brought to a standstill by blood and death, only one person moved freely.
 
-“Did you wake me?”
+“…wake me?”
 
-Consumed by sorrow and fury, he was no longer the cheerful boy or the physician who had passed the two-character name Divine Physician down to his Disciple.
+Consumed by grief and fury, he was no longer the cheerful boy, nor was he the physician who had passed the name Divine Physician down to his Disciple.
 
-He had returned to the person he had been before earning the name Divine Physician, before meeting the young carpenter who had fallen into grief after losing his wife and children to an epidemic, and before burying his weapons and leaving the Murim.
+He had become the man he had been before earning the name Divine Physician. Before meeting the young carpenter who had fallen into despair after losing his wife and children to an epidemic. Before burying his weapons and leaving Murim behind.
 
 “The Slaughter Saint…!”
 
@@ -180,7 +178,7 @@ Once.
 
 Drip. Drip.
 
-Drops of blood fell from the watchtower and dampened the grass. Some slid down the hill and touched someone’s hand.
+Drops of blood fell from the watchtower and darkened the grass. Some rolled down the slope until they touched a hand.
 
 Its back was deeply wrinkled, and its nails had turned green from long years spent practicing poison arts.
 
@@ -236,25 +234,25 @@ A flicking tongue. A horned, triangular head. A pure-white snake burrowed into T
 
 “Ha… hahaha.”
 
-Tang Sadok laughed weakly, both happy and hollow.
+Tang Sadok slumped back with a laugh, both overjoyed and heartsick.
 
 “So it was you.”
 
 Hisss.
 
-The Thousand-Year Poison Horned Snake, Mimi, hissed as if answering its master. Its cold tongue licked the beard matted with blood.
+The Thousand-Year Poison Horned Snake, Mimi, hissed as though answering her master. Her cold tongue licked his beard, which was matted with blood.
 
 “Clever creature. How did you find me all the way out here?”
 
 Tang Sadok gazed at his pet snake through clouded eyes.
 
-He had let Mimi loose because he was worried the snake might be injured in the melee. He had never thought they would meet again like this.
+He had set her loose out of fear that she might be hurt in the chaotic battle. He had never expected them to meet again like this.
 
 Nor had he imagined their final farewell would happen this way.
 
 Rumble!
 
-A tremendous roar shook the hill. The earth rose, and the branches of the trees trembled.
+A tremendous roar sent tremors all the way up the hill. The ground heaved, and the trees shook their branches.
 
 Tang Sadok raised his head and tried to find the source, but his failing eyesight could no longer make out what was happening.
 
@@ -272,29 +270,29 @@ Tang Sadok slowly closed his eyes, then opened them again.
 
 Hiss?
 
-The snake’s triangular snout tilted to one side.
+The triangular head tilted to one side.
 
 “This old man has little time left. Neither does the Tang Clan. If you stay here, you will be caught up in this calamity as well.”
 
 Tang Sadok was the Family Head of the Sichuan Tang Clan. Even if the Western Heaven Demon Lord did not come himself, someone would certainly come to confirm whether he was alive or dead.
 
-Tang Sadok could easily imagine what those vicious men would do if they saw the Thousand-Year Poison Horned Snake guarding its master’s side.
+He could easily imagine what the murderers would do if they found the Thousand-Year Poison Horned Snake guarding her master’s side.
 
 “So go. Hurry!”
 
-He wanted to shout, but the voice he forced out was so thin it seemed ready to break apart.
+He wanted to roar the words, but the voice he wrung out was so thin it seemed ready to snap.
 
-Yet the spirit creature that had spent so many years beside Tang Sadok understood the final wish of the man who had been both its master and its friend.
+Yet the spiritual creature that had spent so many years beside him understood the final wish of the man who had been both her master and her friend.
 
 Drip. Drip.
 
-Damp drops fell onto Tang Sadok’s wrinkled hand.
+Warm droplets fell onto the back of Tang Sadok’s wrinkled hand.
 
-Leaving behind a few tears, Mimi slithered away and disappeared, the snake’s white body gliding across the ground.
+Leaving behind a few tears, Mimi slithered away, her white body gliding across the ground.
 
 As her presence receded into the distance, a bitter smile briefly touched Tang Sadok’s lips.
 
-“Yes. Go carefully.”
+“Yes. Go safely.”
 
 In his youth, he had roamed the battlefields. After the war, he had devoted his life to helping his father, the Poison King, rebuild the Sichuan Tang Clan.
 
@@ -312,13 +310,13 @@ They shared neither blood nor even species, but Tang Mimi was a member of the Si
 
 Tang Sadok let out a hollow laugh and blinked.
 
-Through his fading senses, the roar and someone’s screams echoed faintly from below the hill.
+Through his fading senses, he heard distant roars and screams rising from below the hill.
 
 It must have been the final struggle of those fighting to stave off the clan’s destruction.
 
-*This old man is here, too. I, Tang Sadok, Family Head of the great Sichuan Tang Clan, am here! Come to me!*
+*This old man is still here! I, Tang Sadok, Family Head of the great Sichuan Tang Clan, am here! Come to me!*
 
-The cry, as if he were coughing up blood, only hovered at the tip of his tongue.
+The cry, as though wrenched from his throat with blood, never made it past the tip of his tongue.
 
 Tang Sadok felt the strength slowly drain from his entire body. His heavy eyelids sank lower, little by little.
 
@@ -326,7 +324,7 @@ Tang Sadok felt the strength slowly drain from his entire body. His heavy eyelid
 
 What if he simply closed his eyes and fell into a deep sleep?
 
-If he took a short nap and awoke in the grand armchair in the Family Head’s Hall, perhaps he would be able to see the familiar faces of his family.
+Perhaps, after a brief nap, he would awaken in the grand armchair in the Family Head’s Hall and find the familiar faces of his household waiting for him.
 
 How wonderful it would be if everything that had happened—including his father’s death—were nothing more than a Butterfly Dream.[^1]
 
@@ -350,11 +348,11 @@ His vision suddenly cleared, revealing a young man racing toward him and Mimi’
 
 “Y-You?”
 
-“Wow! Wild Grandpa Tang spotted!”
+“Wow! A wild Grandpa Tang appeared!”
 
 Tang Sadok blinked at Cheongpung, who was grinning brightly despite the blood covering his face.
 
-“What… what is going on? How did you…?”
+“What… What is going on? How did you…?”
 
 Cheongpung answered energetically.
 
@@ -362,7 +360,7 @@ Cheongpung answered energetically.
 
 Whirrrrr!
 
-If Tang Sadok had possessed even a shred of strength, he would have cursed him out.
+Had Tang Sadok possessed even a shred of strength, he would have cursed them both out.
 
 Cheongpung and Mimi realized their mistake too late and bowed their heads.
 
