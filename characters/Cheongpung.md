@@ -1,6 +1,6 @@
 # Cheongpung (청풍)
 
-- **Safe through:** Chapter 528
+- **Safe through:** Chapter 532
 - **Aliases:** Huashan Divine Dragon
 - **Role:** Cheongpung is a twenty-three-year-old Huashan outsider, the grandson and Disciple of Sword Saint Mae Jonghak, a Supreme Peak martial master known as the Huashan Divine Dragon, and the creator of the snake-inspired Mimi Step footwork technique.
 - **Personality:** Affable, dreamy, hazy, and childlike in manner, with innocent curiosity, delight in novel public attention, a deep love of martial arts, competitive pride, unusual resistance to monster-induced Fear, and discomfort when someone copies his martial arts.

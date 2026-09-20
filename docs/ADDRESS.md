@@ -862,3 +862,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁기방 | 황보악 | fellow_Ten_Dragons_and_Phoenixes_member | you | familiar-polite | Gung Gibang uses 자네 when asking Hwangbo what he is doing outside Gowolru. |
 | 황보악 | 진태경 | fellow_Ten_Dragons_and_Phoenixes_member | you; damned bastard | angry-insulting | Hwangbo reacts to Taekyung's barefoot-running joke with 이 빌어먹을 놈. |
 | 진태경 | 황보악 | stronger_master_to_Hwangbo_Lesser_Family_Head | Hwangbo Ak | casual and taunting | Taekyung calls Hwangbo by name while ordering him to reconcile and warning him to leave. |
+| 낯선 사내 | 혁무진 | unknown_martial_artist_to_jin_family_subordinate | you | casual, teasing, and condescending | The unidentified young man mocks Hyuk Mujin's accident, gives him a robe, and recognizes him as the Blazing Flame Divine Dragon's right arm. |
+| 혁무진 | 낯선 사내 | desperate_stranger_to_unknown_helper | Brother; Father; Benefactor | desperate and deferential | Hyuk cycles through respectful appeals while asking the stranger for help. |
+| 진태경 | 학우 | former_rival_to_Kunlun_young_prodigy | Hak | mocking and threatening | Taekyung uses Sound Transmission to intimidate Hak Woo into leaving. |
+| 학우 | 진태경 | Kunlun_young_prodigy_to_famous_senior | Fellow Daoist Jin | formal and defensive | Hak Woo addresses Taekyung as 진 도우 while denying that he is busy. |

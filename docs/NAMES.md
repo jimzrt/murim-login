@@ -1735,3 +1735,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 워싱턴 DC | **Washington, DC** | United States capital used in Taekyung's modern-world comparison. |
 | 고월루 | **Gowolru** | Three-story inn where the meeting was scheduled. |
 | 취팔선보 | **Drunken Eight-Immortals Step** | Gung Gibang's joking name for Hyuk Mujin's desperate rush to the inn. |
+| 학우 | **Hak Woo** | Kunlun Sect top young prodigy known as the Kunlun Cloud Dragon; Taekyung addresses him as Hak. |
