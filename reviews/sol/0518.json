@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "More than twenty years ago, he had promised Jeok Cheongang a duel in exchange for entrusting him with one person’s life.",
+      "defect": "The direction of the promise is reversed. The Azure Sky Sword King entrusted a life to Jeok Cheongang and received Jeok’s promise of a duel; he did not promise Jeok a duel.",
+      "id": "F01",
+      "rationale": "약속받았다 means that he was promised the duel, while 적천강에게 일임 indicates that the life was entrusted to Jeok Cheongang.",
+      "replacement": "More than twenty years ago, in exchange for entrusting one person’s life to Jeok Cheongang, he had been promised a duel.",
+      "severity": "critical",
+      "source": "지금으로부터 이십여 년 전, 그는 한 사람의 목숨을 적천강에게 일임하는 대가로 비무를 약속받았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Then let’s drink standing up.”",
+      "defect": "The proposed condition is changed into a physical drinking posture. The source says that whoever remains standing after the duel may drink the liquor.",
+      "id": "F02",
+      "rationale": "서 있는 사람 is the person left standing, making the liquor a wager or reward for the duel.",
+      "replacement": "“Let whoever is left standing drink it.”",
+      "severity": "critical",
+      "source": "“서 있는 사람이 마시는 것으로 하십시다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Though we took every precaution, this has happened again. In this situation, this humble monk will have no choice but to set aside the precept against killing and fight them with all his strength.”",
+      "defect": "The translation softens the monk’s explicit intention to kill into merely fighting after setting the precept aside, weakening both the violent meaning and the joke continued in Taekyung’s response.",
+      "id": "F03",
+      "rationale": "살계를 펼치다 explicitly invokes the precept against killing while indicating that he will violate it against Dark Heaven; Taekyung immediately echoes that phrasing.",
+      "replacement": "“Though we took every precaution, this has happened again. Given that, this humble monk will have no choice but to break the precept against killing and go all out against them.”",
+      "severity": "major",
+      "source": "“만전에 주의를 가했건만, 결국 또 다시 이런 일이 터지는군요. 이렇게 된 이상, 소승이 역시 놈들을 상대로 온 힘을 다하여 살계(殺戒)를 펼쳐야겠습니다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Hey, fuckers! Wreck them all!”",
+      "defect": "The added vocative “fuckers” appears to insult the allied Murim practitioners Taekyung is rallying. In the source, 시벌 is a free-standing expletive, while the implied targets of 다 조져 are the enemy.",
+      "id": "F04",
+      "rationale": "The source contains profanity but does not address Taekyung’s allies as fuckers.",
+      "replacement": "“Fuck! Wreck ’em all!”",
+      "severity": "major",
+      "source": "“야, 시벌. 다 조져!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He was a top-tier wandering martial artist who had reached the realm of Sword Energy Injures People long ago.",
+      "defect": "“Sword Energy Injures People” is an ungrammatical literal gloss presented as a formal realm name. The phrase describes his ability to wound people with Sword Energy.",
+      "id": "F05",
+      "rationale": "검기상인 literally describes causing injury with Sword Energy; the source does not require an unnatural English proper name.",
+      "replacement": "He was a top-tier wandering martial artist who had long since reached the level of injuring others with Sword Energy.",
+      "severity": "minor",
+      "source": "자신이 누구인가. 이미 오래전 검기상인(劒氣傷人)의 경지에 오른 특급 낭인이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“From what I hear, this bastard—”",
+      "defect": "“From what I hear” incorrectly treats 듣자 하니 as reported information. Here it is an indignant reaction to the man’s words.",
+      "id": "F06",
+      "rationale": "The phrase marks Moon Beauty Saber’s mounting outrage rather than introducing hearsay.",
+      "replacement": "“Why, you bastard…”",
+      "severity": "minor",
+      "source": "“듣자 하니 이 작자가…….”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Oh, my.”\n\n*What in the world is that?*",
+      "defect": "The neutral English drops the conspicuous rustic dialect and its comic register.",
+      "id": "F07",
+      "rationale": "오메 and 시방 저게 뭐시여 are strongly dialectal rather than standard Korean; an informal regional flavor is needed to preserve the sudden comic voice shift.",
+      "replacement": "“Good Lord.”\n\n*What in tarnation is that?*",
+      "severity": "minor",
+      "source": "“오메.”\n\n시방 저게 뭐시여."
+    },
+    {
+      "confidence": 0.96,
+      "current": "And before anyone in the inn could notice, the two supreme masters launched themselves at each other.",
+      "defect": "“Launched themselves” adds a bodily charge or leap not stated in the source. 출수 means that they made their attacks or struck.",
+      "id": "F08",
+      "rationale": "The source specifies the initiation of their attacks, not that both men physically hurled themselves forward.",
+      "replacement": "And before anyone in the inn could notice, the two supreme masters struck at each other.",
+      "severity": "minor",
+      "source": "그리고 객잔 안의 누군가가 그 사실을 알아차리기도 전에, 두 절대자는 서로를 향해 출수(出手)했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The people seated at its tables were also far removed from Third Rate martial artists.",
+      "defect": "“Far removed from Third Rate martial artists” is an unnatural literal construction in English.",
+      "id": "F09",
+      "rationale": "The replacement naturally preserves the source’s point that the upstairs patrons were plainly of a much higher caliber.",
+      "replacement": "Nor were the people seated at its tables anything like Third Rate martial artists.",
+      "severity": "minor",
+      "source": "탁자에 자리한 이들 역시 삼류 무림인과는 거리가 멀었다."
+    }
+  ],
+  "summary": "Two scene facts are reversed or altered, and several lines lose explicit killing intent, speaker targeting, dialect, or natural terminology.",
+  "version": 1
+}
