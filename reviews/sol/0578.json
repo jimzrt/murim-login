@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Song Cheonwoo had retired from active duty and had already entered his seventies, but he remained a powerhouse no one could deny.",
+      "defect": "칠순에 접어든 means that Song Cheonwoo is approaching seventy, not that he has already entered his seventies.",
+      "id": "F01",
+      "rationale": "The draft changes the stated age range from nearly seventy to anywhere from seventy through seventy-nine.",
+      "replacement": "Song Cheonwoo had retired from active duty and was now an old man nearing seventy, but he remained a powerhouse no one could deny.",
+      "severity": "major",
+      "source": "현역에서 물러나 어느덧 칠순에 접어든 노인이 되었지만 송천우는 누구도 부정할 수 없는 강자였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The man who had once called him elder brother and younger brother.",
+      "defect": "The draft makes Kim Hwajong call Song Cheonwoo both elder and younger brother, rather than conveying their reciprocal relationship as older and younger brothers.",
+      "id": "F02",
+      "rationale": "서로 indicates reciprocity: the two men once treated each other as brothers, with one senior and the other junior.",
+      "replacement": "The man with whom he had once shared the bond of older and younger brothers.",
+      "severity": "major",
+      "source": "한때 서로를 형과 동생으로 불렀던 그를."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“It’s a Yeti’s Necklace. When you told me to come here, I thought it would have a use someday.”",
+      "defect": "The draft weakens 반드시, Song Cheonwoo’s certainty that the necklace would prove useful, and adds the unsupported timing “someday.”",
+      "id": "F03",
+      "rationale": "반드시 expresses confidence or inevitability, not merely a vague possibility at some future time.",
+      "replacement": "“It’s a Yeti’s Necklace. When you told me to come here, I knew it was bound to come in handy.”",
+      "severity": "minor",
+      "source": "“예티의 목걸이다. 네가 이곳으로 오라고 했을 때, 반드시 쓰임새가 있을 거라 생각했지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only a few months earlier, Won Myunghoon had prepared it as a magic item to use against Jin Taekyung in a wyvern’s nest.",
+      "defect": "The specific Black Wyvern is reduced to a generic wyvern.",
+      "id": "F04",
+      "rationale": "블랙 와이번 explicitly identifies the monster as the Black Wyvern, and 함정에 빠트리기 means to trap rather than merely to use the item against someone.",
+      "replacement": "Only a few months earlier, Won Myunghoon had prepared it as a magic item to trap Jin Taekyung in the Black Wyvern’s nest.",
+      "severity": "minor",
+      "source": "불과 몇 달 전, 블랙 와이번의 둥지에서 원명훈이 진태경을 함정에 빠트리기 위해 준비했던 마법 아이템이었으니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "It was a mark declaring that its wearer had once been a slave of the dragonkin—and, to yetis, proof that the wearer was one of their own kind.",
+      "defect": "The draft turns the necklace’s active identification of the wearer as a dragonkin slave into a claim about the wearer’s personal past.",
+      "id": "F05",
+      "rationale": "The necklace functions as a deceptive identifying mark: it causes yetis to recognize the wearer as one of their kind. “Had once been” incorrectly suggests a true historical status that has since ended.",
+      "replacement": "It marked its wearer as a slave of the dragonkin—and, to yetis, as one of their own kind.",
+      "severity": "major",
+      "source": "이 목걸이는, 용족의 노예였음을 알리는 표식인 동시에 예티에게는 동족이라는 증표다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was one of the reasons Choi Minwoo had managed to survive despite knowing a truth that could never be allowed into the open.",
+      "defect": "The draft assigns the survival to Choi Minwoo, but the sentence explains why Song Cheonwoo survived despite knowing the concealed truth.",
+      "id": "F06",
+      "rationale": "The preceding subject is Song Cheonwoo and his terrifying skill; that strength helped Song survive the purge surrounding the secret.",
+      "replacement": "His skill was one of the reasons Song Cheonwoo had survived despite knowing a truth that could never be allowed into the open.",
+      "severity": "critical",
+      "source": "알려져서는 안 될 진실을 알고 있음에도 살아남을 수 있었던 이유 중 하나다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had suddenly remembered a conversation he had once shared with someone who was no longer here.",
+      "defect": "“No longer here” strongly implies that the remembered person is dead, while the source says only that the person is not present at this location.",
+      "id": "F07",
+      "rationale": "이 자리에 없는 describes physical absence from the present scene and does not state or imply death.",
+      "replacement": "He had suddenly remembered a conversation he had once shared with someone who was not here.",
+      "severity": "major",
+      "source": "언젠가 이 자리에 없는 누군가와 나누었던 대화가 문득 생각나서였다."
+    }
+  ],
+  "summary": "One critical subject error changes who survived because of his strength; several major findings alter age, former brotherhood, and the necklace’s identification mechanism.",
+  "version": 1
+}

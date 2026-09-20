@@ -1,6 +1,6 @@
 # Hwa-jong (화종)
 
-- **Safe through:** Chapter 577
+- **Safe through:** Chapter 578
 - **Aliases:** Butler Kim
 - **Role:** Hwa-jong is Choi Minwoo's loyal butler and personal escort.
 - **Personality:** Loyal, vigilant, and uncompromising toward perceived threats to Choi Minwoo.
