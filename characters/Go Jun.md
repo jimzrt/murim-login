@@ -1,6 +1,6 @@
 # Go Jun (고준)
 
-- **Safe through:** Chapter 553
+- **Safe through:** Chapter 554
 - **Aliases:** Team Leader Seok
 - **Role:** Go Jun is the leader of Lee Jungryong's security team, an Ares Guild combatant, Lee's disciple and right-hand man, and the expected successor to Ares Guild leadership after Lee's death.
 - **Personality:** Highly disciplined, fiercely loyal to Lee Jungryong, confident in his abilities, and capable of suppressing his anger and killing intent under provocation.

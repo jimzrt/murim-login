@@ -1,9 +1,9 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 439
+- **Safe through:** Chapter 554
 - **Aliases:** Choi Minwoo (최민우)
-- **Role:** Jin Taekyung's team leader who manages his travel, media exposure, and official arrangements.
-- **Personality:** Pragmatic, proactive, dutiful, and willing to make arrangements he believes will benefit Taekyung.
-- **Voice:** Concise, professional, and formally polite.
-- **Relationships:** He is a trusted manager and adviser to Jin Taekyung, though Taekyung expects consultation before political commitments are made.
+- **Role:** Team Leader Choi is Cheon Taemin's only living blood relative and is positioning himself to take control of the Ares Guild after Lee Jungryong's death.
+- **Personality:** Strategic, candid, controlled, and possessive of the power and influence he intends to inherit.
+- **Voice:** Dry, formal, and direct, with calm candor and carefully chosen metaphors.
+- **Relationships:** Maternal grandson and only living blood relative of Cheon Taemin; was kept out of public knowledge by Lee Jungryong and now seeks to acquire the Ares Guild intact.
 - **Sources:** Korean source and accepted translation, Chapters 42–54
