@@ -900,3 +900,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 하연 | 스켈레톤 킹 | younger_companion_to_older_companion | old man | casual-insulting | Hayeon calls the Skeleton King 아저씨 because he is over thirty. |
 | 스켈레톤 킹 | 하연 | older_companion_to_younger_companion | insolent human girl | formal-archaic and insulting | The Skeleton King addresses Hayeon as 건방진 인간 계집아 before retracting the insult. |
 | 진태경 | 스켈레톤 킹 | companion_to_companion | you subhuman bastard; monster | blunt and insulting | Taekyung orders the Skeleton King to apologize to Hayeon. |
+| 김 집사 | 최 팀장 | butler_to_employer | Young Master | polite and deferential | Butler Kim greets Team Leader Choi formally in the mansion. |
+| 최 팀장 | 김 집사 | employer_to_butler | Butler Kim | polite and familiar | Team Leader Choi addresses Butler Kim while asking why the robots are inactive. |
+| 스켈레톤 킹 | 진태경 | allied_companions | Wicked human | archaic and aggrieved | The Skeleton King uses this address while objecting to being ordered to help. |
+| 진태경 | 스켈레톤 킹 | allied_companions | asshole | hostile and teasing | Taekyung uses a profane casual address while ordering the Skeleton King to help. |

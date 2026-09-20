@@ -1791,3 +1791,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 정략혼 | **political marriage** | The former engagement between Ju Hwaran and Sama Pyo. |
 | 미켈란젤로 부오나로티 | **Michelangelo Buonarroti** | Renaissance sculptor and painter credited with the ceiling frescoes. |
 | 천지창조 | **The Creation (The Genesis)** | The painting title used for the Sistine Chapel ceiling frescoes. |
+| 순대국밥 | **blood sausage gukbap** | Taekyung's former inexpensive meal; retain gukbap with its established footnote. |
+| 미역국 | **seaweed soup** | Birthday soup prepared by Kim Jeonghee. |
+| 국장 | **national funeral** | State funeral reported for Lee Jungryong. |
