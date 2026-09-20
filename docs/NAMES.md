@@ -1801,3 +1801,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 상주 | **chief mourner** | Funeral role assumed by Go Jun for Lee Jungryong. |
 | 이승엽 | **Lee Seungyeop** | Hunter whose autograph the Team Leader requests. |
 | 거인의 숲 | **Forest of Giants** | Title of the Unexpected Quest generated inside the Mutated Gate. |
+| 일기당천 | **One Against a Thousand** | Title that temporarily increases Taekyung’s attributes and Intimidation when facing many enemies. |
+| 거인의 포효 | **Giant’s Roar** | Cyclops ability that partially neutralizes Intimidation. |
+| 타락한 엔트 | **Corrupted Ent** | Corrupted Ent monster designation used by the System. |
+| 타락한 엔트 대전사 | **Corrupted Ent Great Warrior** | Level 95 System monster designation. |
+| 타락한 엔트 선봉대 | **Corrupted Ent Vanguard** | System monster designation for the Ent vanguard. |
+| 타락한 엔트 장로 | **Corrupted Ent Elder** | Level 102 named Ent encountered before the Cyclops. |
+| 붉은 눈 | **Red Eye** | Epithet of the Level 130 Named Monster Cyclops. |
+| 치코리타 | **Chikorita** | Pop-culture reference used in Taekyung’s taunt to the Ent Elder. |

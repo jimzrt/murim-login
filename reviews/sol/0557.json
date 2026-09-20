@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The trunks, branches, and lush leaves of the Ents became kindling. The flames transformed into hellfire, and in the moment they touched the line, they devoured everything in their path.",
+      "defect": "The draft says the flames touched the line and then consumed whatever lay in their path. The source instead says the hellfire consumed everything that the previously drawn line touched.",
+      "id": "F01",
+      "rationale": "The line marks the attack's affected area; it is not something the flames subsequently touch.",
+      "replacement": "The trunks, branches, and lush leaves of the Ents became kindling. The flames transformed into hellfire and devoured everything the line had touched.",
+      "severity": "major",
+      "source": "엔트의 몸통과, 가지와, 무성한 잎사귀를 장작 삼아 겁화(劫火)로 화한 불꽃이 선에 닿은 모든 것을 집어삼킨 순간."
+    },
+    {
+      "confidence": 1.0,
+      "current": "- Since you defeated more than 20 **Corrupted Ents** with a single strike, bonus EXP has been awarded!",
+      "defect": "The draft changes an inclusive threshold of twenty or more into a threshold greater than twenty.",
+      "id": "F02",
+      "rationale": "이상 includes the stated boundary value, so defeating exactly twenty Ents qualifies for the bonus.",
+      "replacement": "- Since you defeated 20 or more **Corrupted Ents** with a single strike, bonus EXP has been awarded!",
+      "severity": "critical",
+      "source": "- 일격에 20개체 이상의 [타락한 엔트]를 처치했으므로, 보너스 경험치가 주어집니다!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Ents, which had been stumbling backward on their roots, flinched.",
+      "defect": "The Ents are hesitantly edging backward, not stumbling.",
+      "id": "F03",
+      "rationale": "주춤거리며 describes hesitation or faltering resolve, while the draft introduces a loss of physical balance absent from the source.",
+      "replacement": "The Ents, which had been edging backward on their roots, flinched.",
+      "severity": "minor",
+      "source": "주춤거리며 뿌리로 뒷걸음질하던 엔트들이 흠칫 몸을 떨었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "—Iiiiiii…n. Coooooome…",
+      "defect": "The Cyclops is slowly saying “human,” but the draft turns the second syllable into the command “come.”",
+      "id": "F04",
+      "rationale": "인간 means “human”; the separated, elongated syllables convey the Cyclops's extremely slow speech.",
+      "replacement": "—Huuuuuu… maaaaan…",
+      "severity": "critical",
+      "source": "- 이이이인. 가아아안……."
+    }
+  ],
+  "summary": "Four actionable fidelity issues: one altered attack mechanism, one incorrect numerical threshold, one altered physical action, and one mistranslated utterance.",
+  "version": 1
+}

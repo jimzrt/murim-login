@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 556
-- Next chapter: 557
-- Current block: 555–559 (2/5)
-- Latest translation: `translations/0556.md`
-- Latest summary: `summaries/beats/0556.md`
-- Safe profiles through: chapter 556
+- Last completed: 557
+- Next chapter: 558
+- Current block: 555–559 (3/5)
+- Latest translation: `translations/0557.md`
+- Latest summary: `summaries/beats/0557.md`
+- Safe profiles through: chapter 557
 
 ## Current Block
 
-- Jin Taekyung and the Skeleton King encounter twenty low-level Hunters inside a destabilizing Gate. Taekyung kills the attacking goblins, reveals his identity, and has the Hunters rendered unconscious so the Skeleton King's true nature remains concealed.
-- The Gate transforms into a jungle filled with overwhelming mana, then forcibly transports Taekyung and the Skeleton King into the Mutated Gate and generates the Unexpected Quest Forest of Giants. A Cyclops and hundreds of Ents emerge, while the Skeleton King reinforces the unconscious Hunters' bone barrier and Taekyung summons White Flame and releases three jiazi of Scorching Yang Qi.
+- Jin Taekyung charges into the surrounding corrupted Ents and destroys more than twenty with the first form of the Fire Dragon Divine Spear, Fire Dragon’s Single Tail. The One Against a Thousand Title activates against 281 enemies, temporarily raising all his attributes and dramatically increasing his Intimidation, which suppresses the Ents and boosts allied morale.
+- The Cyclops’s Giant’s Roar partially weakens Taekyung’s Intimidation, but the Skeleton King arrives and joins the battle. Taekyung cuts through the corrupted Ent Elder and confronts the Level 130 Named Monster ‘Red Eye’ Cyclops, shattering its falling boulder before ascending with Stepping on Empty Air and striking toward its head with the final form of the Blazing Flame Divine Spear, Heavenly Strike.
 
 ## Open Questions
 
@@ -18,7 +18,7 @@
 - What will Taekyung’s party find in Nanman, and what does the Southern Heaven Demon Empress intend there?
 - What is the outcome of the duel between Jeok Cheongang and Nangong Cheon, and why did Ju Hwaran and Sama Pyo’s political engagement end?
 - What process created Jang Sam’s mutant form, whether Dark Heaven’s mutants can absorb human energy, and whether it relates to the Mutated Gate?
-- What did Lee Jungryong leave Go Jun beyond his dying wish, what is the necklace recovered from the Arch Lich’s ruins, and what will happen to Taekyung, the Skeleton King, and the twenty Hunters in Forest of Giants?
+- What did Lee Jungryong leave Go Jun beyond his dying wish, what is the necklace recovered from the Arch Lich’s ruins, and what is the outcome of the battle against the Red Eye Cyclops?
 
 ## Exceptional Decision
 
@@ -26,7 +26,7 @@
 - Render 반 시진 as half a shichen and retain Nanman, Nanman Beast Palace, Fire Dragon Pavilion, Great Hero, and Young Lady Ju.
 - Render 남만행 as Journey to Nanman and 남만을 못 가 as Can’t Go to Nanman.
 - Render 면구 as disguise mask, 역용술 as disguise technique, 각주님 as Pavilion Master, 로그아웃 as Logout, and 동기화 as Synchronization.
-- Render 소격변 as Small Cataclysm, 낭중지추 as needle in a bag, 국장 and 국가장 as national funeral, 상주 as chief mourner, 변이 게이트 as Mutated Gate, 아크 리치 as Arch Lich, 스켈레톤 킹 as Skeleton King, 거인의 숲 as Forest of Giants, 돌발 퀘스트 as Unexpected Quest, 사이클롭스 as Cyclops, and 엔트 as Ent.
+- Render 일기당천 as One Against a Thousand, 거인의 포효 as Giant’s Roar, 타락한 엔트 as Corrupted Ent, 붉은 눈 as Red Eye, and 치코리타 as Chikorita; retain the established renderings for Small Cataclysm, Arch Lich, Skeleton King, Forest of Giants, Cyclops, and Ent.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
