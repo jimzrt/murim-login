@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Tududududuk!",
+      "defect": "Sound effect '투두두두둑' romanized as 'Tududududuk' without a glossary entry or footnote, breaking usual convention for onomatopoeia",
+      "id": "F01",
+      "rationale": "Korean onomatopoeia normally is either localized or footnoted to aid reader understanding; this romanization is abrupt and stands out without explanation",
+      "replacement": "Consider adding a footnote or rendering exclusively in italics or as a sound effect without romanization",
+      "severity": "minor",
+      "source": "page 8 para 9-11"
+    }
+  ],
+  "summary": "Faithful translation with minor terminology and stylistic fidelity notes.",
+  "version": 1
+}

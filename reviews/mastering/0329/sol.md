@@ -2,7 +2,7 @@
 
 When Song Ilseom’s identity was revealed, everyone was astonished.
 
-Hyuk Mujin had admired the Murim even before becoming part of the Taiyuan Jin Family, so of course he knew the stories about him. Even Cheongpung pretended to know him, claiming that the Sword Saint had told him about Song Ilseom.
+Hyuk Mujin had admired the Murim even before joining the Taiyuan Jin Family, so of course he knew the story. Even Cheongpung chimed in, saying he had heard about it from the Sword Saint.
 
 “Mmph-mmph. Grandpa said the Escort King was a good man. Gulp. That’s what he said.”
 
@@ -20,7 +20,7 @@ Tududududuk!
 
 Song Ilseom knocked away a dozen or so grains of rice with his chopsticks and replied.
 
-“As I said, the Guangdong Chen Family ceased to exist long ago. By the way, can you do something about all that flying out of your mouth?”
+“As I said, the Guangdong Chen Family died out long ago. More importantly, can you do something about all that crap flying out of your mouth?”
 
 “My Master also told me about the Escort King’s Ten-Thousand-Mile Escorts. But to think the child from that story was you!”
 
@@ -44,13 +44,13 @@ While we were talking, Ju Hwaran finally spoke, her gaze still fixed on the jade
 
 “My grandmother carried that regret with her as well. She had to flee with my father, who was still a baby, without leaving so much as a letter.”
 
-“Why did they suddenly disappear?”
+“Why did she suddenly disappear?”
 
 “Because it was dangerous. The Guangdong Chen Family’s martial arts were all lost when the family estate burned to the ground, but apparently no one believed it.”
 
-“But if they were within the territory of the orthodox factions…”
+“But if she had remained within the orthodox faction’s territory…”
 
-“Greed does not discriminate between members of orthodox factions and practitioners of demonic, heterodox arts. Some of those seeking the Guangdong Chen Family’s Peak martial arts were people even the Escort King’s name couldn’t deter.”
+“Greed makes no distinction between the orthodox faction and those who practice demonic, heterodox arts. Some of the people after the Guangdong Chen Family’s Peak martial arts couldn’t be deterred even by the Escort King’s name.”
 
 *A time of chaos.*
 
@@ -66,7 +66,7 @@ After a brief silence, Song Ilseom added, “Of course, even she couldn’t esca
 
 “Then…”
 
-“She died of an illness when I was ten. As she gave me this jade hairpin, she told me everything that had happened. It was an astonishing story—the first I had ever heard of it.”
+“She died of an illness when I was ten. She gave me this jade hairpin and told me everything that had happened. It was all astonishing news to me.”
 
 Despite his blunt demeanor, Song Ilseom was surprisingly good at telling a story.
 
@@ -76,7 +76,7 @@ Unfortunately, both of them had clearly died young.
 
 As soon as one question disappeared, another took its place.
 
-“Then how did you develop that level of skill? Didn’t you say the Guangdong Chen Family’s martial arts were lost as well?”
+“Then how did you become so skilled? Didn’t you say the Guangdong Chen Family’s martial arts were lost?”
 
 Song Ilseom’s answer was simple.
 
@@ -98,9 +98,9 @@ Song Ilseom’s expression hardened.
 
 “Song Yu would weep?”
 
-Song Ilseom stared intently at Gung Gibang’s face, which looked like something out of a Picasso masterpiece.
+Song Ilseom stared at Gung Gibang’s face, which looked like a Picasso masterpiece.
 
-“With that face, he might. If you run into me at night, stay far away. If I suddenly came face-to-face with you, I might cut you by mistake.”
+“With a face like that, he might. If you ever run into me at night, stay far away. If that face suddenly appeared in front of me, I might cut you down by mistake.”
 
 Looking as though he was debating whether to cut him down right then and there, Song Ilseom continued his story.
 
@@ -126,17 +126,17 @@ Song Ilseom calmly recounted his past.
 
 Most days, he waited on wandering martial artists while enduring constant abuse and violence. When arrows rained down, he went out to retrieve weapons.
 
-When the wandering martial artist abandoned him and fled because he was too busy saving his own life, Song Ilseom experienced nothing short of hell.
+The day his employer abandoned him and fled to save his own skin, Song Ilseom went through hell itself.
 
-“I hid among piles of corpses for four days. When I barely made it out alive and went looking for the wandering martial artist, the first thing he did was search for the sword he had entrusted to me.”
+“I hid among piles of corpses for four days. When I finally escaped alive and tracked him down, the first thing he asked about was the sword he’d entrusted to me.”
 
 “Wow. What a crazy bastard.”
 
 “Fortunately, the two swords I was carrying were unharmed. Even while fleeing, I refused to let go of them.”
 
-“…Wow. You really are a crazy bastard.”
+“…Wow. You really were a crazy bastard.”
 
-“I wasn’t as crazy as he was. He started spouting nonsense about how he had originally entrusted me with three swords, then told me to get the hell out of there if I didn’t want to die like a dog. Of course, he didn’t give me a single coin for the year I had worked for him.”
+“Not as crazy as he was. He started spouting nonsense about how he’d originally given me three swords, then told me to get the hell out if I didn’t want to die like a dog. Without paying me a single coin for the year I’d worked for him, of course.”
 
 Song Ilseom brushed back the hair that had fallen over his forehead and muttered, “That pissed me off.”
 
@@ -154,7 +154,7 @@ Song Ilseom casually corrected me as he twirled his chopsticks.
 
 Gulp.
 
-Hyuk Mujin swallowed nervously and asked,
+Hyuk Mujin swallowed hard.
 
 “How old were you then?”
 
@@ -162,7 +162,7 @@ Hyuk Mujin swallowed nervously and asked,
 
 “Th-then your opponent…”
 
-“He was a lousy Third Rate wandering martial artist. If he’d been First Rate, do you think I’d have been crazy enough to take him on?”
+“He was a third-rate wandering martial artist of no consequence. If he’d been First Rate, do you think I’d have been crazy enough to attack him?”
 
 *No, I think a kid who hadn’t even graduated from elementary school attacking a martial artist was already insane.*
 
@@ -182,11 +182,11 @@ According to something Jeok Cheongang had mentioned in passing, the Guangdong Ch
 
 To reach that level without any of his family’s secret martial arts…
 
-Just as I was marveling at the thought that Song Ilseom really was something special, Gung Gibang, who had been silent for a while, suddenly stared at him in shock.
+Just as I was marveling at what an extraordinary bastard Song Ilseom was, Gung Gibang, who had been silent for a while, suddenly jolted and stared at him.
 
 “Could you be the Soul-Chasing Guest?”
 
-“That’s what they called me ten years ago. By the way, is your mouth a bottomless jar? How the hell are you still spitting out rice after all this time?”
+“That’s what they called me ten years ago. More importantly, is your mouth some kind of bottomless jar? How the hell are you still spitting out rice?”
 
 “Hah. I never imagined the famous Soul-Chasing Guest would be a young man around my age.”
 
@@ -232,7 +232,7 @@ And then…
 
 When I rose, Gung Gibang used his internal energy to purge the alcohol from his body, while Hyuk Mujin hoisted Cheongpung onto his back. Cheongpung was already completely wasted and snoring softly.
 
-“We’ve imposed on you, Young Lady Ju.”
+“Thank you for your hospitality, Young Lady Ju.”
 
 “You’re leaving already?”
 
@@ -266,9 +266,9 @@ I followed her without thinking, then stopped short and turned around.
 
 “What the hell? Why are you looking at me like that?”
 
-“It’s how I feel.”
+“Because I feel like it.”
 
-“That’s how I feel.”
+“Same here.”
 
 “Come on. Young Lady Ju said the flowers have bloomed in the garden. We can look around together and leave right afterward. The timing will be perfect—”
 
@@ -278,7 +278,7 @@ The two men shook their heads with expressions of utter horror, then spoke in tu
 
 “I need to take a dump. Where’s the latrine?”
 
-“Me too. We’ll take turns going back and forth, so take your time looking around.”
+“Me too. We’ll take turns, so take your time looking around.”
 
 “…Uh. Sure.”
 
@@ -322,19 +322,19 @@ Ju Hwaran murmured dreamily, then suddenly pointed at the sky.
 
 “Pardon?”
 
-“No, I’m serious. It’s not some ridiculous story. It’s a famous result of scientific research… No, I heard it from a scholar. Where was it? That’s right, somewhere around the imperial palace.”
+“No, I’m serious. It’s not some ridiculous story. It’s already been proven by famous scientific research… No, I heard it from a scholar. Where was he from? Right, somewhere around the imperial palace.”
 
 Another quiet laugh slipped from her lips.
 
 “No, it really is true…”
 
-“All right. I’ll believe you. By the way, Great Hero Jin.”
+“All right. I believe you. By the way, Great Hero Jin.”
 
 “Yes?”
 
 “This.”
 
-To me, still feeling wronged, Ju Hwaran suddenly held something out.
+While I was still feeling unfairly doubted, Ju Hwaran suddenly held something out to me.
 
 A solid, elongated wooden case. One I had already seen at the teahouse.
 
@@ -348,7 +348,7 @@ A solid, elongated wooden case. One I had already seen at the teahouse.
 
 I silently looked back and forth between Ju Hwaran and the wooden case.
 
-*Should I refuse? Should I accept it? Should I refuse…*
+*Should I refuse? Or not? Refuse…*
 
 After several rounds of agonizing, I finally nodded.
 
@@ -386,7 +386,7 @@ I spoke.
 
 Sometimes, every word of comfort sounded hollow. Of course she wasn’t okay. Someone standing a step removed could never fully understand what the person suffering was going through, and being told to stay strong didn’t suddenly give you strength.
 
-I didn’t offer Ju Hwaran some clumsy consolation today because she was already suffering enough.
+I didn’t offer Ju Hwaran clumsy words of comfort because she was already struggling enough.
 
 “You’re only human too, Young Lady Ju. It’s okay if you don’t do well. You don’t have to force yourself to be strong.”
 
@@ -416,7 +416,7 @@ Only then did the two guys who had been watching me warily speak.
 
 “Do you think she cried? No. No way. She couldn’t have.”
 
-*They noticed that carefully even in the dark.*
+*They noticed that even in the dark?*
 
 When I didn’t answer, Hyuk Mujin pointed at the bulge beneath my clothes.
 
