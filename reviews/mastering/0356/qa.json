@@ -1,0 +1,47 @@
+{
+  "chapter": 356,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.147,
+    "source_characters": 5551,
+    "source_paragraphs": 168,
+    "translation_characters": 11918,
+    "translation_paragraphs": 171
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "천마",
+        "preferred": "Heavenly Demon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "계인",
+        "preferred": "Buddhist precept seals"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "호교사자",
+        "preferred": "Protector of the Divine Cult"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

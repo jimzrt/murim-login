@@ -30,9 +30,9 @@ Their guess was half right and half wrong.
 
 Many of the underground prison’s original residents had indeed passed on to the next world, but more than ten prisoners still remained.
 
-What they had failed to anticipate was that someone unseen had used Pressure-Point Strike on the prisoners and moved them elsewhere.
+What they could not have guessed was that someone lurking out of sight had struck the prisoners’ pressure points and moved them elsewhere.
 
-“I can’t see even a single ant. Wouldn’t it be better to go back upstairs and kill at least one more person?”
+“There isn’t so much as an ant down here. Wouldn’t we be better off going back upstairs and killing another person or two?”
 
 “I don’t think we’ve searched even half the place yet.”
 
@@ -40,19 +40,19 @@ What they had failed to anticipate was that someone unseen had used Pressure-Poi
 
 “Don’t be ridiculous. Have you forgotten the Lord of Heaven’s command? What if someone of the Tang bloodline is hiding down here…?”
 
-“No one would be stupid enough to hide in an underground prison. The battle isn’t even over yet, so why would they hide here? I could understand trying to break through the encirclement and escape, but this?”
+“No one but a complete idiot would hide in an underground prison. The battle isn’t even over yet, so why would anyone come down here? Trying to break through the encirclement and flee would make more sense.”
 
 “Hmm…”
 
-The man let out a low groan, then spoke in a firm voice.
+The man pondered for a moment, then answered firmly.
 
 “No. We have been entrusted with the revered Lord of Heaven’s command. The Demon Lord himself is leading by example, yet you intend to shirk your duty?”
 
-“Phew. Damn it.”
+“Damn it.”
 
 “Stop complaining and follow me.”
 
-The Dark Heaven martial artist whose face I did not know had no idea that his fate had been decided by those words.
+That Dark Heaven martial artist had no idea his fate had just been sealed by those words.
 
 At his firm response, the other man grumbled.
 
@@ -134,7 +134,7 @@ With a sigh, I slung him over my shoulder and retraced my steps. It did not take
 
 The man had not made it very far, and over the past ten days I had become familiar with the underground prison’s labyrinthine layout.
 
-“Bastards. What the hell are you crawling all the way in here for? Is there something to eat?”
+“Fucking bastards. What scraps are there to scavenge all the way down here?”
 
 This was the second time the black-robed men had infiltrated the underground prison.
 
@@ -144,17 +144,17 @@ I had helped thin the enemy’s ranks for the Sichuan Tang Clan, but I could not
 
 *The battle is going badly.*
 
-The underground prison was located on the outskirts of the Tang Clan’s Inner Hall. That meant the Outer Hall, which could be considered the front line, had already been breached.
+The underground prison stood on the outskirts of the Tang Clan’s Inner Hall. If the enemy had reached this place, then the Outer Hall—the front line—had already fallen.
 
 *Then what about Cheongpung…?*
 
 I shook my head as an ominous thought flashed through my mind.
 
-*No way. Even if you dropped Cheongpung into the middle of hell, he’d be the kind of guy who came back alive.*
+No. Cheongpung was the sort of guy who could be dropped into the middle of hell and still come back alive.
 
-No. He had to be.
+He had to be.
 
-*Damn it. If only I could at least log out. Then there’d be a little hope.*
+*Damn it. If I could at least log out, we might have a chance.*
 
 I had held out some hope, but no such luck.
 
@@ -164,7 +164,7 @@ Besides, even if Logout suddenly became available, I could not risk returning to
 
 The enemy had already broken in twice within the past thirty minutes. If they stormed the place while I was gone, even briefly…
 
-*Not only me, but Jeok Cheongang and the Divine Physician would be finished.*
+Jeok Cheongang, the Divine Physician, and I would all be finished.
 
 *I have no choice. I have to stop them here.*
 
@@ -214,13 +214,13 @@ I walked over and released them. His furious voice immediately burst out.
 
 “……!”
 
-Good. He was quiet now.
+Much better.
 
-Leaving the silenced Heavenly Power Demon behind, I began stacking the bodies I had brought into the prison.
+Leaving the now-silent Heavenly Power Demon behind me, I began neatly stacking the bodies inside the cell.
 
-Thump. Rumble-rumble.
+Thump. Roll…
 
-“Could you pick up that head over there?”
+“Could you pick up that head?”
 
 “……Are you speaking to this old man?”
 
@@ -242,7 +242,7 @@ The Heavenly Power Demon had refused to utter a word despite my efforts to coax 
 
 A man who had seen enough corpses during the Great Faction War to last a lifetime would not be complaining now without a reason. My suspicion had clearly hit the mark, and he began to stammer.
 
-“N-No. Nothing.”
+“N-No.”
 
 “Then we’re done.”
 
@@ -266,7 +266,7 @@ For the past several decades, his only visitor had been Old Man Gung bearing ins
 
 “Yeah.”
 
-I added one brief sentence.
+I added a brief explanation.
 
 “Dark Heaven invaded.”
 
@@ -286,7 +286,7 @@ Pretending not to notice how the words *Dark Heaven* had made the Heavenly Power
 
 “Pretty sharp.”
 
-I had already squeezed information out of one of the seven who first entered the prison.
+I had interrogated one of the seven men from the first incursion.
 
 He had been terrified, but he severed his own heart meridian and killed himself before I could learn much. Still, I had managed to get one man’s title from him.
 
@@ -294,7 +294,7 @@ He had been terrified, but he severed his own heart meridian and killed himself 
 
 Clatter! Clank!
 
-Just four words.
+Four words.
 
 But their effect on the Heavenly Power Demon was tremendous.
 
@@ -308,19 +308,19 @@ He even glared at me with bloodshot eyes.
 
 “I-Is he still alive? Then the Cult Leader! What happened to the Cult Leader?”
 
-What was wrong with this old man all of a sudden?
+What the hell was wrong with this old man all of a sudden?
 
 Caught off guard, I answered.
 
 “…At this hour? He’s probably eating breakfast.”
 
-It was my first time hearing the title Western Heaven Demon Lord, so how would I know what had happened to the Demonic Cult’s Cult Leader? It was not as if the Demonic Cult had an official Twitter account.
+This was the first time I had ever heard the title Western Heaven Demon Lord. How the hell would I know what the Demonic Cult’s Cult Leader was doing? It wasn’t as if the Demonic Cult had an official Twitter account.
 
 “So it has finally come to this. In the end… it has come to this. Ha. Ha-ha-ha!”
 
 After babbling words I could not understand, the Heavenly Power Demon began laughing like a man who had lost his mind.
 
-I stared at him for a moment, then suddenly spoke.
+I watched him for a moment, then spoke.
 
 “Spill it. What’s the connection between the Demonic Cult and Dark Heaven? And what kind of fucking bastard is this Western Heaven Demon Lord?”
 

@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful English translation of chapter 356 with minor terminology warnings.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "multiple lines with terms 갑자, 천마, 계인, 호교사자",
+      "current": "No usage of glossary preferred terms 'jiazi', 'Heavenly Demon', 'Buddhist precept seals', 'Protector of the Divine Cult'",
+      "defect": "The assembled English does not include some glossary preferred terms present in the source (갑자 - jiazi, 천마 - Heavenly Demon, 계인 - Buddhist precept seals, 호교사자 - Protector of the Divine Cult), which leads to minor terminology inconsistency.",
+      "replacement": "Integrate the glossary preferred terms as follows when these concepts appear: use 'jiazi' for 갑자, 'Heavenly Demon' for 천마, 'Buddhist precept seals' for 계인, and 'Protector of the Divine Cult' for 호교사자.",
+      "rationale": "Glossary terms are binding for established names and terms; their absence is a minor fidelity defect reported in terminology consistency.",
+      "confidence": 1.0
+    }
+  ]
+}
