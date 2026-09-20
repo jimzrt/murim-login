@@ -12,7 +12,7 @@ But anyone who had faced him even once called him by another name.
 
 *Fiend.*
 
-The old man curled the corners of his mouth upward. Seeing the wet-behind-the-ears pups waiting for him atop the walls surrounding the Sichuan Tang Clan like an impregnable fortress, roughly three hundred yards ahead, put him in an excellent mood.
+The old man’s lips curled into a smile. The sight of the reckless pups waiting for him atop the fortress-like walls of the Sichuan Tang Clan, several hundred yards ahead, put him in an excellent mood.
 
 “I can almost smell the blood already. This is how I felt when we first came down from the Qilian Mountains.”
 
@@ -38,7 +38,7 @@ The two younger brothers who had followed him like shadows their entire lives we
 
 The Second Fiend had left to take charge of Qingcheng, while the Third Fiend had gone to take charge of Emei.
 
-Before long, the two famous mountains counted among the greatest in the world would be covered in a sea of corpses and blood.
+Before long, those two renowned mountains would be covered by a sea of corpses and blood.
 
 And then…
 
@@ -152,9 +152,9 @@ The Divine Physician, who was checking the still-unconscious Jeok Cheongang’s 
 
 “Just a moment.”
 
-I raised a hand to stop the Divine Physician from continuing and quietly focused my mind.
+I raised a hand to stop him from continuing and quietly focused.
 
-My body might have been in the underground prison, but my senses were another matter. Amplified several times over by the power of my internal energy, my hearing escaped the labyrinthine prison corridors and rose upward, higher and higher.
+My body might have been in the underground prison, but my senses were another matter. Amplified several times over by my internal energy, my hearing traveled through the labyrinthine prison corridors and rose upward, higher and higher.
 
 And then…
 
@@ -162,13 +162,13 @@ Boom.
 
 This time, I heard it clearly.
 
-Cheongpung set down the food he had been holding and spoke.
+Cheongpung set down the food in his hand.
 
-“Benefactor, could this be…”
+“Benefactor, could that be…?”
 
 “That’s right.”
 
-I looked up at the ceiling of the prison and continued,
+I looked up at the prison ceiling.
 
 “It’s a drum.”
 
@@ -196,7 +196,7 @@ The sudden drumbeats and an unexpected Quest. Neither could possibly be a good s
 
 “This is driving me crazy.”
 
-But there was no turning back now. The only thing I could do was find out what kind of path lay ahead of me.
+But there was no turning back now. The only thing I could do was find out what lay ahead.
 
 *View Quest information.*
 
@@ -232,11 +232,11 @@ I read it exactly three times from beginning to end. Then I thought,
 
 *What kind of fucked-up situation is this?*
 
-I was so dumbfounded that I could barely speak.
+I was too dumbfounded to speak.
 
 The whole thing was absurd. Enemies had invaded. We were surrounded and couldn’t escape. It wished us luck. The end.
 
-*Goddamn, it’s disgustingly simple.*
+*Goddamn, that’s brutally simple.*
 
 Grade, limit, mission, reward. Every last one was a question mark.
 
@@ -260,7 +260,7 @@ I dismissed the Quest window, took a deep breath, and spoke.
 
 The Divine Physician had learned martial arts, but his realm was far below ours.
 
-Unlike Cheongpung and me, he had not heard the drumbeats. He asked with a puzzled expression,
+Unlike Cheongpung and me, he had not heard the drumbeats. He stared at me in confusion.
 
 “A problem? What do you mean?”
 
@@ -282,11 +282,11 @@ Still, every second mattered. There was no time for a detailed explanation.
 
 The Divine Physician nodded grimly.
 
-Perhaps because he had traveled throughout the world and experienced countless things, he seemed to accept reality more quickly than expected.
+Perhaps because he had traveled throughout the world and experienced countless hardships, he seemed to accept the situation more quickly than I had expected.
 
 I looked at Jeok Cheongang, who still lay there with his eyes closed.
 
-“How is my Master’s condition?”
+“How is my Master?”
 
 “As I told you before, his qi has not yet stabilized. If he suffers an external shock in this condition…”
 
@@ -304,15 +304,13 @@ Jeok Cheongang’s safety was one concern, but our chances of success were slim 
 
 After thinking it through, I arrived at a single answer.
 
-I slowly opened my mouth.
-
 “Young Hero Cheong.”
 
 Cheongpung answered in a subdued voice.
 
 “Yes, Benefactor.”
 
-“Can I ask you for one favor?”
+“Can I ask you for a favor?”
 
 “Anything.”
 
@@ -326,7 +324,7 @@ That was why I could make this request of him.
 
 “……!”
 
-“As you heard, we can’t get out right now. Someone has to leave and help the Sichuan Tang Clan.”
+“You heard what I said. We can’t get out right now. Someone has to go help the Sichuan Tang Clan.”
 
 “Benefactor.”
 
@@ -352,11 +350,11 @@ I hadn’t known Cheongpung carried such thoughts.
 
 Even afterward, he had remained cheerful and talkative, living as though he were the happiest person in the world.
 
-That was how he had always been. It suited him. It was only natural for him.
+That was how he had always been. It suited him. It had seemed only natural.
 
 *But it wasn’t.*
 
-As if recalling what had happened in Henan, Cheongpung turned his gaze toward some distant, dark corner of the underground prison.
+As if remembering what had happened in Henan, Cheongpung stared into some distant, dark corner of the underground prison.
 
 Then he turned back to me.
 
