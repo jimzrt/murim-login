@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“About one or two shichen ago. Since you were deep in qi circulation, I took over for you.”",
+      "defect": "Mujin says he received Gung Gibang’s message on Taekyung’s behalf, not that he took over Taekyung’s duties.",
+      "id": "F01",
+      "rationale": "제가 대신 들었습니다 means that Mujin heard or received what Gung Gibang said in Taekyung’s stead. “I took over for you” changes the action and leaves the object unstated.",
+      "replacement": "“About one or two shichen ago. You were busy circulating your qi, so I took the message for you.”",
+      "severity": "major",
+      "source": "조장님은 한창 운기조식 중이셔서 제가 대신 들었습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“They only went to the marketplace for sweetmeats and dumplings.”",
+      "defect": "The draft omits Mujin’s incredulous question and Taekyung’s confused reaction, removing the delayed clarification that drives the joke.",
+      "id": "F02",
+      "rationale": "The source deliberately lets Mujin challenge Taekyung’s assumption before revealing that Cheongpung and Gung Gibang have merely gone shopping.",
+      "replacement": "“Do they really need to say goodbye when they’re only stepping out for a bit?”\n\n“…?”\n\n“They went to the marketplace for sweetmeats and dumplings.”",
+      "severity": "major",
+      "source": "“아니, 잠깐 다녀오는데 인사까지 하고 나가야 합니까?”\n\n“……?”\n\n“저잣거리에 당과랑 만두 사러 갔습니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "It had nothing to do with me beyond that point.",
+      "defect": "The draft states that the matter had no connection to Taekyung, while the source says only that what happened next was no longer his concern.",
+      "id": "F03",
+      "rationale": "내가 알 바 없다 expresses dismissal of further responsibility or concern, not an absence of involvement.",
+      "replacement": "Well, what happened after that was none of my concern.",
+      "severity": "minor",
+      "source": "뭐, 거기까진 내가 알 바 없다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Forget Big Brother. What about the others? I haven’t seen them anywhere.”",
+      "defect": "“Big Brother” loses the explicit eldest-brother relationship and reads like a form of direct address rather than a reference to Taekyung’s eldest brother.",
+      "id": "F04",
+      "rationale": "큰형님 specifically identifies Taekyung’s eldest older brother.",
+      "replacement": "“Forget my eldest brother. What about the others? I haven’t seen them anywhere.”",
+      "severity": "minor",
+      "source": "“그럼 큰형님은 됐고. 다른 사람들은? 통 안 보이네.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Not that the rest of him had remained intact.",
+      "defect": "The draft generalizes the injury into unspecified bodily damage, losing the source’s concrete but euphemistic statement that a different body part fell off.",
+      "id": "F05",
+      "rationale": "다른 부분이 떨어져 explicitly describes another part being severed while withholding its name for comic timing.",
+      "replacement": "It was just a different part that had fallen off instead.",
+      "severity": "minor",
+      "source": "목 대신 다른 부분이 떨어져서 그렇지."
+    },
+    {
+      "confidence": 0.95,
+      "current": "He’s seemed pretty busy lately, too. He’s been gathering strange medicinal ingredients, boiling them, chopping them up… He looked like he was in quite a rush.",
+      "defect": "“Chopping” misrenders 다지고 in the medicinal-preparation context, and “in quite a rush” changes 정신없다 from being overwhelmingly busy to moving hurriedly.",
+      "id": "F06",
+      "rationale": "다지다 here denotes pounding or crushing medicinal ingredients, while 정신없어 보이다 describes someone looking frantically busy or overwhelmed.",
+      "replacement": "He’s seemed pretty busy lately, too. He’s been gathering strange medicinal ingredients, boiling them, pounding them… He looked completely swamped.",
+      "severity": "minor",
+      "source": "걔도 요새 좀 바빠 보이던데. 이상한 약재 모아서 끓이고, 다지고, 정신없어 보이더라고요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Without a tank’s protection or cover from a mage or archer, it ultimately became a fight between individuals.",
+      "defect": "“A fight between individuals” suggests one-on-one combat. The source means that without teammates’ protection or support, survival ultimately becomes a personal fight.",
+      "id": "F07",
+      "rationale": "개인의 싸움이다 emphasizes having to fend for oneself, not a contest specifically fought between two individuals.",
+      "replacement": "Without a tank’s protection or cover from a mage or archer, you were ultimately on your own.",
+      "severity": "minor",
+      "source": "탱커의 보호도, 마법사나 궁수의 엄호도 없으면 결국 개인의 싸움이다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Even if I taught you my martial arts, there’s a good chance you wouldn’t be able to absorb them through the formula.",
+      "defect": "“Absorb them through the formula” is an unnatural calque and obscures that following the formulas would not necessarily let Taekyung internalize Mungyeong’s martial arts.",
+      "id": "F08",
+      "rationale": "구결에 따라 녹아들지 못하다 concerns the martial arts failing to become integrated or internalized despite following their formulas.",
+      "replacement": "Even if I taught you my martial arts, there’s a good chance you wouldn’t be able to make them your own merely by following the formulas.",
+      "severity": "minor",
+      "source": "하여 네놈에게 무공을 가르친다 해도, 구결에 따라 녹아들지 못할 가능성이 높다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Try melting those principles into the martial arts you’ve learned.",
+      "defect": "“Melting those principles into” is an unnatural literal rendering of 녹이다 in this figurative context.",
+      "id": "F09",
+      "rationale": "The source instructs Taekyung to integrate Mungyeong’s principles into his existing martial arts.",
+      "replacement": "Try incorporating those principles into the martial arts you’ve learned.",
+      "severity": "minor",
+      "source": "그 무리를 네가 익힌 무공에 녹여 보아라."
+    }
+  ],
+  "summary": "Two meaningful fidelity defects: Mujin taking a message is changed into assuming Taekyung’s duties, and a line essential to the marketplace misunderstanding is omitted. Several localized wording issues also alter physical detail or produce unnatural English.",
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "**Mungyeong’s Specially Crafted, Custom-Made Pill for Jin Taekyung**",
+      "defect": "The item’s formal System name differs from its Chapter 524 Item Window name, adding a comma and changing “Custom” to “Custom-Made.”",
+      "id": "C01",
+      "rationale": "Both panels identify the same unique item. Matching the Chapter 524 name prevents adjacent-chapter System terminology drift while preserving the shorter narrative nickname.",
+      "replacement": "**Mungyeong’s Specially Crafted Custom Pill for Jin Taekyung**",
+      "severity": "minor",
+      "source": "Chapter 523, System panel displaying Mungyeong’s pill"
+    }
+  ],
+  "summary": "The packet is coherent across the reading copies, summary, and active state. One minor terminology drift affects the name of the same System item in consecutive chapters.",
+  "version": 1
+}
