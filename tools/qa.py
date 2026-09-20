@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import re
 
+ATX_HEADING = re.compile(r"^(?:>\s*)*#{1,6}\s+\S")
 HANGUL = re.compile(r"[가-힣]")
 FOOTNOTE_REF = re.compile(r"\[\^([^\]]+)\](?!:)")
 FOOTNOTE_DEF = re.compile(r"^>?\s*\[\^([^\]]+)\]:", re.MULTILINE)
@@ -33,8 +34,20 @@ def run_qa(number: int, source: str, translation: str, glossary: list[tuple[str,
     errors: list[dict] = []
     warnings: list[dict] = []
     first = next((line.strip() for line in translation.splitlines() if line.strip()), "")
-    if first != f"# Chapter {number}":
-        errors.append(finding("heading", f"first nonblank line must be '# Chapter {number}'"))
+    expected_heading = f"# Chapter {number}"
+    if first != expected_heading:
+        errors.append(finding("heading", f"first nonblank line must be '{expected_heading}'"))
+    extra_headings = [
+        index
+        for index, line in enumerate(translation.splitlines(), start=1)
+        if ATX_HEADING.match(line) and line.strip() != expected_heading
+    ]
+    if extra_headings:
+        errors.append(finding(
+            "heading",
+            "reading copy contains extra Markdown headings; escape hashtags so PDF/EPUB do not treat them as chapters",
+            lines=extra_headings,
+        ))
     if HANGUL.search(translation):
         errors.append(finding("hangul", "reading copy contains Hangul"))
     if translation.lstrip().startswith("```") or re.match(r"^(Here is|I translated|Translation:)", translation.lstrip(), re.I):
