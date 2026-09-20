@@ -76,7 +76,7 @@ Pain was something I’d endured more than enough of, both in the past and now.
 
 Whoosh, crash!
 
-I tumbled forward with the spear shaft. A handful of dirt entered my mouth and mixed with the blood.
+I pitched forward with the spear shaft. A mouthful of dirt mixed with the blood already coating my tongue.
 
 The ice-cold, foul-smelling floor of the underground prison somehow felt more comfortable than ever.
 
@@ -96,7 +96,7 @@ From F-rank Hunter Jin Taekyung to the Third Young Master of the Jin Family of T
 
 I had witnessed brutal wars and countless deaths. I had met so many people.
 
-Jin Wikyung, who absolutely doted on his younger brother, and Jin Mukyung, who would have loved to kill his. Hyuk Mujin, who had shared life and death with me while always remaining at my side. Cheongpung, who was both my friend and my rival.
+Jin Wikyung, who doted on his youngest brother, and Jin Mukyung, who seemed to want his youngest brother dead. Hyuk Mujin, who had shared life and death with me and always remained by my side. Cheongpung, both my friend and my rival.
 
 And…
 
@@ -104,7 +104,7 @@ And…
 
 My eyelids, which had been slowly sliding shut without my realizing it, stopped.
 
-That's right. The Fire King, Jeok Cheongang.
+That was right. The Fire King, Jeok Cheongang.
 
 He was behind me, and I stood before him.
 
@@ -126,7 +126,7 @@ Yet even after gaining power beyond anything my past self could have imagined, I
 
 Jeok Cheongang had been smiling then.
 
-That smile held the joy of avenging his closest friend—and the relief of protecting one little brat he couldn't tell was his disciple or his enemy.
+That smile held the joy of avenging his dearest friend—and the relief of protecting one little brat who might as well have been either his disciple or his mortal enemy.
 
 “Yes. It’s incredible…”
 
@@ -140,13 +140,13 @@ I braced my still-usable right arm against the floor and supported myself on bot
 
 My body felt ready to break apart at any moment, and every movement was slow, but I refused to give up.
 
-When I finally stood upright on my trembling legs, the first thing I encountered was a pair of deeply sunken eyes.
+When I finally stood on my trembling legs, the first thing I met was a pair of dark, solemn eyes.
 
 “Impressive. Almost foolishly so.”
 
 Thud!
 
-My nose broke, and my head snapped backward. But I did not fall or stagger back.
+My nose broke, snapping my head back. But I neither fell nor staggered away.
 
 The Western Heaven Demon Lord’s hand held my shoulder like a shackle.
 
@@ -184,7 +184,7 @@ Beyond the empty underground prison, shattered and collapsed by our clash, his g
 
 The Western Heaven Demon Lord’s words cut off.
 
-A sticky liquid of dirt and blood covered his face.
+A sticky mixture of dirt and blood splattered across his face.
 
 He clearly had not expected someone with all four limbs crushed to do such a thing.
 
@@ -196,7 +196,7 @@ Thud!
 
 The heavy impact snapped the Western Heaven Demon Lord’s head back.
 
-My internal energy had run dry long ago, and my severe Internal Injuries made it difficult to move even a single finger. I did not know where that strength had come from. I did not even know myself.
+My internal energy had run dry long ago, and my severe internal injuries made even lifting a finger difficult. I had no idea where that strength had come from.
 
 And…
 
@@ -220,7 +220,7 @@ I answered in a faint, unfocused voice.
 
 Unfathomable emotions flickered through the Western Heaven Demon Lord’s eyes as he looked at me.
 
-At first glance, they seemed like anger. At the same time, they felt almost like admiration.
+One moment they seemed like anger, the next almost like admiration.
 
 Before I could make sense of them, an unexpected roar rang out.
 
@@ -228,7 +228,7 @@ Rumble-rumble-rumble, boom!
 
 The sound had come from neither me nor the Western Heaven Demon Lord.
 
-The underground prison.
+The underground prison itself was trembling.
 
 The entire vast space, thousands of feet across, shook. Fist-sized stones fell from the ceiling, and cracks spread across the ground.
 
@@ -278,19 +278,19 @@ The chunks mixed in with it were…
 
 It was neither my first time seeing such a thing nor an unexpected sight, but crushing despair weighed down my entire body.
 
-My limbs were crippled, and I had suffered a fatal Internal Injury.
+Crippled limbs and fatal internal injuries.
 
 In my heart, I had already thrown myself into the Western Heaven Demon Lord’s path. But with my arms and legs crushed, I couldn’t take a single step.
 
 “Ah.”
 
-I raised my head blankly with a groan.
+A groan escaped me as I stared blankly ahead.
 
 The corridor where the Western Heaven Demon Lord had disappeared stood empty.
 
-The place, devastated by our clash, was filled with traces of craters large and small, collapsed walls, and other destruction.
+Devastated by our clash, it was littered with craters large and small, collapsed walls, and countless other scars of battle.
 
-The prison where prisoners had still been confined half a day earlier was now strewn with bent bars, fallen rocks, and things like broken chains.
+Inside the cells where prisoners had been confined until half a day ago, bent bars, fallen rocks, and broken chains lay strewn everywhere.
 
 The sight made me realize it.
 
@@ -302,7 +302,7 @@ I had tried to stop him, but I couldn’t. I had tried to protect them, but I ha
 
 The Western Heaven Demon Lord had been telling the truth.
 
-The kind of luck we had seen in Henan would not happen again. The Tang Clan, Emei, and Qingcheng were headed for destruction, and Cheongpung could not handle them all alone.
+The kind of luck we’d had in Henan wouldn’t happen again. The Tang Clan, Emei, and Qingcheng were headed for destruction, and Cheongpung couldn’t face their enemies alone.
 
 *He’ll probably die or be captured.*
 
@@ -316,23 +316,23 @@ I stared into the darkness beyond, where the exit lay, and laughed weakly.
 
 It all felt like my fault.
 
-Cheongpung. Jeok Cheongang. Even the Divine Physician, who had been dragged into this mess for no reason and would suffer because of it.
+Cheongpung. Jeok Cheongang. Even the Divine Physician, who had been dragged into this mess through no fault of his own.
 
-At least Hyuk Mujin and Gung Gibang had not come with me. That was the only thing I could be grateful for.
+At least I hadn’t brought Hyuk Mujin and Gung Gibang with me.
 
 Rumble-rumble-rumble.
 
 A slight tremor ran through the ground, accompanied by a roar that seemed to rise from the depths of the earth.
 
-The sound announcing the end of the match.
+The bell announcing the end of the match.
 
-There had been no need to go twelve rounds like in boxing. I had fallen after only three, and I would probably die soon.
+There had been no need to go twelve rounds like in boxing. I had been knocked out in the third, and I would probably die soon.
 
 *I’m sorry. All of you.*
 
 The capsule’s instruction manual had contained one simple rule.
 
-If you die in the Murim, you die in reality, too.
+If I died in Murim, I died in reality too.
 
 Everything I had built while traveling between those two worlds was crumbling little by little, just like this underground prison.
 
@@ -342,7 +342,7 @@ My vision blurred. The pain throughout my body and the sounds reaching my ears s
 
 Then, just as I was about to slip free of every sensation, an old man’s face suddenly appeared before me.
 
-A chain with marks where something had torn it away.
+A chain bearing the marks of having been torn apart.
 
 An unusually tall body, so gaunt that every bone stood out.
 
