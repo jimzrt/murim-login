@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Ju Hwaran is with Taekyung at Gowolru, Song Ilseom remains her direct escort, and her former political engagement to Sama Pyo was accepted for her father's sake.",
+      "defect": "The active state is stale: Chapter 534 explicitly has Ju Hwaran leave Gowolru with Song Ilseom to handle Escort Bureau business.",
+      "id": "C01",
+      "rationale": "Active continuity must reflect the end-of-checkpoint character positions or later chapters may incorrectly place Ju Hwaran with Taekyung.",
+      "replacement": "Ju Hwaran has left Gowolru with Song Ilseom to handle Yongbong Escort Bureau business; her former political engagement to Sama Pyo was accepted for her father's sake.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hyuk Mujin usually didn’t show it very well, but he was a tender spot for me.",
+      "defect": "The idiom is malformed and reverses the apparent relationship: a person has a soft spot for someone; he is not a tender spot for them.",
+      "id": "C02",
+      "rationale": "The replacement matches Taekyung's belief that Hyuk Mujin is worried about him and restores natural contemporary English.",
+      "replacement": "Hyuk Mujin usually didn’t show it very well, but he had a soft spot for me.",
+      "severity": "minor",
+      "source": "Chapter 530, Taekyung reflecting on Hyuk Mujin's concern"
+    },
+    {
+      "confidence": 0.96,
+      "current": "And now, he had realized once again that the Murim of the world operated according to two things:",
+      "defect": "“The Murim of the world” is an unnatural noun order, while “operated according to” introduces formal, mechanical diction into Taekyung's conversational narration.",
+      "id": "C03",
+      "rationale": "The revision preserves the setup for the following two-item list while restoring Taekyung's brisk narrative voice.",
+      "replacement": "And now, he had realized once again that the world of Murim ran on two things:",
+      "severity": "minor",
+      "source": "Chapter 531, Taekyung explaining the principles governing Murim"
+    },
+    {
+      "confidence": 0.95,
+      "current": "A small laugh drifted over from beside me.\n\nI turned toward the owner of that laugh, whose sound made my ears itch just by reaching them.",
+      "defect": "“Whose sound made my ears itch just by reaching them” is a conspicuous syntactic calque and awkwardly attaches the relative clause to the laugh's owner.",
+      "id": "C04",
+      "rationale": "The replacement preserves Taekyung's flustered physical reaction without the strained relative construction.",
+      "replacement": "A small laugh drifted over from beside me.\n\nThe sound alone made my ears itch, and I turned toward its owner.",
+      "severity": "minor",
+      "source": "Chapter 532, Taekyung reacting to Ju Hwaran's laugh"
+    }
+  ],
+  "summary": "One major continuity-state defect incorrectly leaves Ju Hwaran at Gowolru after her departure. Three minor prose defects create localized voice or idiom drift.",
+  "version": 1
+}
