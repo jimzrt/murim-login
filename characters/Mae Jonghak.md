@@ -1,6 +1,6 @@
 # Mae Jonghak (매종학)
 
-- **Safe through:** Chapter 521
+- **Safe through:** Chapter 522
 - **Aliases:** Sword Saint
 - **Role:** Sword Saint and Cheongpung's grandfather; he is the New Murim Alliance's sole identified suitable candidate for Alliance Leader and currently handles its administrative affairs.
 - **Personality:** Playful, easygoing, and teasing, but capable of handling heavy administrative responsibilities efficiently.
