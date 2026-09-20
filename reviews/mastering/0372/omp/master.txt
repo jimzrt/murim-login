@@ -82,7 +82,7 @@ I looked around as we made our way through the seemingly endless cavern.
 
 *Even the entrance is huge. Several times larger than the Sichuan Tang Clan’s underground prison.*
 
-I had heard a brief explanation on the way here. The murderous criminals of Dark Heaven had stayed in this very cavern.
+I had heard the gist of it on the way here. Dark Heaven’s men had been staying in this very cavern.
 
 So this was where they had hidden while waiting for the right moment. That explained where so many of them had come from.
 
@@ -92,7 +92,7 @@ More than three hundred enemies had attacked the Tang Clan under the Western Hea
 
 Add in the men sent to Qingcheng and Emei, and their numbers were far too great to ignore.
 
-*Was security in Sichuan Province really that terrible? No, even so, wouldn’t the Beggars’ Sect and the Lower District Sect have noticed them?*
+*Was security in Sichuan Province really that much of a mess? No. Even then, the Beggars’ Sect or the Lower District Sect should’ve noticed something.*
 
 I walked on with that question in mind until the passage—wide enough for ten grown men to walk abreast—finally ended and opened into a vast chamber.
 
@@ -104,13 +104,13 @@ The chamber could have easily held over a thousand people. Dozens of night-shini
 
 But none of that was what surprised me most.
 
-*What is that?*
+*What the hell is that?*
 
 Strange patterns covered the entire cavern floor.
 
-Carved in regular arrangements like intricate gears, they looked like the ruins of an ancient kingdom forgotten long ago.
+Arranged with the precision of intricate gears, they looked like the ruins of some ancient kingdom forgotten long ago.
 
-“Is that perhaps the thing you mentioned earlier…?”
+“Is that the thing you mentioned earlier…?”
 
 At my question, Cheongpung the Ancient Sword, Sect Leader of the Qingcheng Sect, nodded gravely.
 
@@ -168,21 +168,21 @@ That was definitive proof they weren’t writing.
 
 The problem was…
 
-*How am I supposed to explain that?*
+*How the hell am I supposed to explain that?*
 
 I shouldn’t have said anything. I should have kept my mouth shut.
 
 But it was already too late. As the Slaughter Saint’s gaze grew more intense, I stammered,
 
-“Bo… bo.”
+“T-Tit…”
 
-“Boobs?”
+“Tits?”
 
 The Rice Saint’s eyebrow twitched.
 
 It was the first emotion he had shown. He had clearly remembered the wet-dream incident.
 
-“Ah, no, not boobs.”
+“Ah, no. Not tits.”
 
 “Breasts, then?”
 
@@ -216,7 +216,7 @@ A heavy silence descended.
 
 The Slaughter Saint let out a nearly inaudible sigh, then asked Jeok Cheongang,
 
-“So that fellow is the heir of the Fire King and the Young Sect Leader of the Fire Gate Clan?”
+“So that fool is the Fire King’s heir and the Young Sect Leader of the Fire Gate Clan?”
 
 Jeok Cheongang fell silent for a moment before answering.
 
@@ -252,7 +252,7 @@ Having brought the situation to a close with such an obvious lie, Cheongpung the
 
 Wait. What did they just say?
 
-I had been staring at the ground, frustrated by my inability to explain myself and still suffering from the aftermath of the boob incident. I abruptly raised my head.
+I had been staring at the floor, frustrated by my inability to explain myself and still reeling from the tits incident. My head snapped up.
 
 “What is it, Benefactor Jin?”
 
@@ -262,13 +262,13 @@ I had been staring at the ground, frustrated by my inability to explain myself a
 
 “…The Moving Formation?”
 
-“That is correct. According to the Three Fiends, that strange formation is called a Moving Formation. We cannot know how much of their absurd story to believe, but they said Dark Heaven used it to travel hundreds of li.”
+“That is correct. According to the Third Fiend, that strange formation is called a Moving Formation. We cannot know how much of his absurd tale to believe, but he claimed Dark Heaven used it to cross hundreds of li in an instant.”
 
-A Moving Formation. They said it was a Moving Formation.
+A Moving Formation.
 
 Even if a critic in angular horn-rimmed glasses had suddenly walked out and declared, “I give this formation four and a half stars,” I couldn’t have been more bewildered.
 
-*This sounds familiar.*
+*I’ve heard of something like this before.*
 
 A formation capable of transporting hundreds of people across hundreds of li.
 
@@ -278,7 +278,7 @@ What if this so-called Moving Formation was *that thing* I was thinking of?
 
 *No. That can’t be.*
 
-But despite my desperate denial, my Adam’s apple bobbed heavily.
+But despite my desperate denial, my Adam’s apple bobbed.
 
 “Is this formation still operational?”
 
@@ -300,7 +300,7 @@ I had directed the question at the two Sect Leaders, but the Slaughter Saint ans
 
 After finishing his explanation in a flat voice, the Slaughter Saint added,
 
-“Judging from the circumstances that have come to light, Dark Heaven is without a doubt the successor to the Demonic Cult. The Demonic Cult possesses countless monstrous martial arts and supreme techniques, so it would not be strange if they had any number of bizarre arts.”
+“Judging by everything uncovered so far, Dark Heaven is unquestionably the successor to the Demonic Cult. The Demonic Cult possessed countless monstrous martial arts and supreme techniques. It would hardly be strange for them to have some bizarre art like this.”
 
 I had heard what kind of place the Demonic Cult was so many times that it had been drilled into my head.
 
@@ -312,7 +312,7 @@ Although it had ultimately been defeated in the Great Faction War, it had manage
 
 No matter how much I thought about it, I couldn’t figure it out. Maybe all the fusion-fantasy novels I had read were getting in the way. This sort of thing showed up in them all the time, which somehow only made it more confusing.
 
-*They got away with it just fine in* Mukhyung. *Ugh. I shouldn’t have read a novel that never even got an ending.*
+*They pulled it off just fine in* Mukhyung. *Damn it. I shouldn’t have bothered reading a novel that never even got an ending.*
 
 Still, just in case, I decided to memorize the formation’s arrangement and patterns.
 
