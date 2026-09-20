@@ -36,11 +36,11 @@ Cheongpung tilted his head at my suspicious stare.
 
 “Why are you looking at my forehead all of a sudden? Is there something on it?”
 
-“I was just checking whether you had a lightning-shaped scar on your forehead.”
+“I was just checking whether you had a lightning-shaped scar.”
 
 “What?”
 
-“There is such a thing.”
+“It’s a thing.”
 
 The instant I finished speaking—
 
@@ -68,7 +68,7 @@ At last, we came face-to-face with several familiar people.
 
 Tang Sadok’s condition was serious at a glance. His limbs were broken, and the qi within him was unstable from his internal injuries.
 
-The Divine Physician, who exchanged a brief glance with us, stopped Tang Sadok as he tried to sit up.
+He tried to raise his upper body, but the Divine Physician, who had exchanged a brief nod with us, stopped him.
 
 “Family Head, did I not tell you not to move?”
 
@@ -78,17 +78,17 @@ Tang Sadok shook his pale head, stared directly at me, and continued.
 
 “I will make no pathetic excuses. The Western Heaven Demon Lord went to the underground prison because I told him about it.”
 
-I folded my arms at an angle.
+I folded my arms.
 
 “Ah. No wonder.”
 
 “…?”
 
-“Why?”
+“What?”
 
 Tang Sadok asked with a flustered expression.
 
-“Ah, you knew?”
+“You already knew?”
 
 “Of course I didn’t know at first. Things were too hectic back then. But when I thought about it later, I started wondering how the hell that bastard knew where the Myriad-Poison Ring was.”
 
@@ -104,7 +104,7 @@ Cheongpung might have looked as light as a flower petal, but he was as steadfast
 
 “This old man was foolish. My judgment was clouded for a moment, and I did something I never should have done.”
 
-“At least you realize that much.”
+“At least you realize that.”
 
 Tang Sadok’s eyes trembled as he looked at me.
 
@@ -116,11 +116,11 @@ The cold voice belonged to Jin Wikyung, who had been silently listening to our c
 
 “Are you the Lesser Family Head of the Jin Family of Taiyuan?”
 
-“Yes. I am also the elder brother who raised my two younger brothers as if they were my own sons.”
+“Yes. I am also the elder brother who raised his two younger brothers as if they were his own sons.”
 
 Unmistakable anger smoldered in Jin Wikyung’s dark eyes.
 
-“It was something no one who walks the righteous path should have done.”
+“What you did was unthinkable for anyone who walks the righteous path.”
 
 “I know. No… I am well aware. That is why I ask to be punished.”
 
@@ -142,17 +142,17 @@ A brief silence followed. Then Jin Wikyung sighed.
 
 He regarded Tang Sadok with a complicated look before turning to me.
 
-“What will you do?”
+“What do you want to do?”
 
-“...Do about what? Kill him?”
+“…About what? Have him kill himself?”
 
 “Anything.”
 
-Having the hilt of a sword suddenly placed in my hand made my heart clench.
+Having the hilt of a sword suddenly thrust into my hand made my heart clench.
 
 Especially when the life hanging from the other end belonged to the Family Head of the Sichuan Tang Clan.
 
-*Look how icy the mood suddenly got.*
+*Well, that killed the mood.*
 
 Of course, this wasn’t something I could just laugh off. I wasn’t some perfectly impartial, broad-minded Great Hero of Benevolence and Righteousness. When I figured out the whole story, anger had quietly begun simmering inside me.
 
@@ -170,21 +170,21 @@ If I had to weigh an outsider I had met only a few times against my own blood—
 
 Tang Sadok’s help had played a major part in Jeok Cheongang’s awakening.
 
-Even if there had been a certain deal involved, Tang Sadok had still been the one who lent us a sacred treasure without telling even his own blood relatives.
+There might have been a deal involved, but Tang Sadok was still the one who had lent us his clan’s sacred treasure without even telling his own blood relatives.
 
 “So let’s call it even. No, that’s going too far. Let’s just say the Sichuan Tang Clan owes us a huge debt for what happened.”
 
 When I finished, Cheongpung and the Divine Physician spoke up.
 
-“It was definitely Grandpa Tang’s fault that Benefactor was put in danger... but I’ll follow Benefactor’s wishes, too.”
+“It was definitely Grandpa Tang’s fault that Benefactor was put in danger… but I’ll respect Benefactor’s wishes too.”
 
-“I have already forgotten about it. If I have one wish as a physician, it is for the Family Head to recover as soon as possible. There are still clan members who survived, aren’t there?”
+“I have already put it behind me. As a physician, my only wish is for the Family Head to recover as soon as possible. He still has surviving clan members who need him.”
 
 Jin Wikyung spoke last. Unlike before, there was no longer any anger in his voice.
 
 No—perhaps he had known what my answer would be from the start.
 
-“So that is what they say. What do you think, Family Head?”
+“You have heard them. What do you think, Family Head?”
 
 “…!”
 
@@ -222,7 +222,7 @@ Sssrikk, sssriririk.
 
 “Mimi, you little rascal.”
 
-Seeing Mimi and Tang Sadok reunited after so long reminded me of something I had momentarily forgotten.
+Watching Mimi reunite with Tang Sadok reminded me of something I had briefly forgotten.
 
 “Oh, right. About the Myriad-Poison Ring… Luckily, I’ve kept it safe all this time—”
 
@@ -230,7 +230,7 @@ Seeing Mimi and Tang Sadok reunited after so long reminded me of something I had
 
 Tang Sadok cut in before I could finish.
 
-“Then continue keeping it.”
+“Then keep it.”
 
 “Yes, then I’ll keep it… Wait, what?”
 
@@ -248,7 +248,7 @@ Ding.
 >
 > One bound Item has not yet been given a name. Please give it a new name.
 
-What was with today?
+Was today some kind of special occasion?
 
 I was starting to get nervous. What kind of fucked-up shit was waiting for me if the System was showering me with rewards like this?
 
@@ -256,11 +256,11 @@ Seeing me open and close my mouth like a goldfish, Tang Sadok smiled faintly.
 
 “If there is anything you desire, tell me. So long as it lies within our family’s power, I will grant it.”
 
-The Divine Physician smiled along with him and answered,
+The Divine Physician smiled and answered.
 
 “All I desire is for the patients to recover as soon as possible.”
 
-“Oh?”
+“Oh…”
 
 An answer worthy of the Divine Physician. Or should I call him Dong Feng now?
 
@@ -276,7 +276,7 @@ Tang Sadok nodded. Cheongpung twisted his hands and feet awkwardly as he answere
 
 “I… Well… Hmm. Nothing.”
 
-“Are you sure?”
+“Truly?”
 
 “Yes. I don’t think there’s anything.”
 
@@ -284,11 +284,11 @@ Tang Sadok nodded. Cheongpung twisted his hands and feet awkwardly as he answere
 
 “…”
 
-*Hey, you little bastard. Take your eyes off Mimi-chan and talk.*
+*Hey, you little bastard. Take your eyes off Mimi-chan when you say that.*
 
-I wanted to bring him a mirror and show him what he looked like. His eyes were filled with aching longing and desire for Mimi-chan.
+I wanted to show him a mirror. His eyes were filled with aching longing for Mimi-chan.
 
-*At this rate, he’s going to bore a hole through her scales.*
+*At this rate, he’s going to burn a hole through her scales.*
 
 Just then, Tang Sadok spoke.
 
@@ -298,7 +298,7 @@ Cheongpung looked at Tang Sadok with pity.
 
 “Grandpa Tang, you don’t have any other friends.”
 
-“I did not make any. Being the Family Head of the Tang Clan was that kind of position.”
+“I chose not to make any. That was the burden of serving as the Tang Clan’s Family Head.”
 
 “So you don’t have any friends.”
 
@@ -330,7 +330,7 @@ Cheongpung covered his mouth with both hands.
 
 “Oh. Ohhh.”
 
-Tang Sadok let out a deep sigh. For a moment, he had undoubtedly wondered whether it was really safe to entrust Mimi-chan to someone like that.
+Tang Sadok heaved a deep sigh. For a moment, he had undoubtedly wondered whether it was really safe to entrust Mimi-chan to someone like him.
 
 “Yes, you guessed correctly. Since we do not know what will become of our family, I wish to entrust Mimi to you. Temporarily, of course.”
 
@@ -346,25 +346,25 @@ Cheongpung was beside himself with joy at becoming Mimi’s temporary guardian.
 
 “Don’t worry. I’ll take good care of her!”
 
-“From what I saw last time, Mimi does seem to follow you well. However, she is naturally quite fussy and very wary of strangers, so...”
+“From what I saw last time, Mimi does seem quite fond of you. But she is naturally temperamental and very wary of strangers, so…”
 
-“Mimi. Whirlwind, then spin around and around and say hello!”
+“Mimi! Whirlwind, then spin around and say hello!”
 
 Sssriririk!
 
-“Oh, shit.”
+“Holy shit.”
 
 She busted out a new move right here.
 
-Jin Wikyung, who had been half out of his mind at the sight, muttered in a dazed voice,
+Jin Wikyung, who had been staring at the spectacle in a daze, muttered blankly,
 
 “It seems you have nothing to worry about, Family Head.”
 
-An earthquake struck Tang Sadok’s eyes.
+Tang Sadok’s eyes shook like an earthquake had struck them.
 
 Tang Sadok asked Jin Wikyung to remain behind for a private conversation, so Cheongpung and I left the room first.
 
-No—one more person had just been added.
+No—one more person had just joined us.
 
 “Young Hero Jin, could you spare this old man a moment?”
 
