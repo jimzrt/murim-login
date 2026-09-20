@@ -20,7 +20,7 @@ That put them on par with most well-established mid-sized sects.
 
 But compared to their glory days, when they had ranked among the top three escort bureaus under Heaven, what I had seen that day was downright shabby.
 
-“What the hell happened to leave it in that state?”
+“What the hell happened to leave them in that state?”
 
 “It started right after the Escort King passed away.”
 
@@ -34,7 +34,7 @@ I hadn’t known his name, but I had heard his sobriquet plenty of times. I had 
 
 Besides, I had spent the past year practically joined at the hip with the Fire King, Jeok Cheongang.
 
-He was a living witness to history—and occasionally an old man who reminisced about the past.
+He was a living witness to history—and an old man prone to reminiscing about the past.
 
 *Come to think of it, that friend of mine, the Escort King, was quite something too.*
 
@@ -58,7 +58,7 @@ The story Jeok Cheongang had told me that day about the Escort King had been qui
 
 *True. Strictly speaking, escorts belong more to the business world than the Murim.*
 
-*The Demonic Cult needed money as well, so rather than oppressing escort bureaus and merchant groups, they chose to win them over. Given the circumstances, it wasn’t particularly strange that the Escort King of those days was in Guangdong, which was under the Demonic Cult’s control. Everything went smoothly until he met a woman who was about to give birth.*
+*The Demonic Cult needed money too, so rather than oppress escort bureaus and merchant groups, they chose to win them over. Under those circumstances, there was nothing particularly strange about the future Escort King being in Guangdong, which was under the Demonic Cult’s control. Everything went smoothly until he met a woman who was about to give birth.*
 
 *A woman about to give birth?*
 
@@ -66,15 +66,15 @@ The story Jeok Cheongang had told me that day about the Escort King had been qui
 
 *They must have been found almost immediately.*
 
-*The Escort King only realized the truth after he encountered a Demonic Cult pursuit squad. If he refused to hand over the woman, he would have to make an enemy of the Demonic Cult.*
+*The Escort King didn’t learn the truth until he encountered a Demonic Cult pursuit squad. If he refused to hand over the woman, he would make an enemy of the Demonic Cult.*
 
-At the time, the Demonic Cult had already swallowed half the world after winning battle after battle, Jeok Cheongang had said.
+By then, the Demonic Cult had won battle after battle and swallowed half the world.
 
 Worse still, Guangdong Province lay tens of thousands of li from orthodox territory. It was nothing short of the Demonic Cult’s lair.
 
 *What do you think the Escort King did?*
 
-*If he’d handed the woman over to the Demonic Cult, he wouldn’t have been the Escort King.*
+*If he’d handed her over to the Demonic Cult, he wouldn’t have become the Escort King.*
 
 *Correct. He flatly rejected their demand. His reason was simple: he had already been paid the escort fee.*
 
@@ -112,7 +112,7 @@ To think the Yongbong Escort Bureau we had encountered by chance two days ago wa
 
 Noticing the interest in my eyes, Gung Gibang continued.
 
-“Great Hero Ju Gongsan couldn’t hold out for long after the internal injuries he suffered during the Great Faction War, and passed away. It was a tragic thing.”
+“Great Hero Ju Gongsan never recovered from the internal injuries he suffered during the Great Faction War and eventually passed away. A tragic loss.”
 
 “Then who’s the current Bureau Head?”
 
@@ -122,7 +122,7 @@ Noticing the interest in my eyes, Gung Gibang continued.
 
 “I’ve never met him myself, but… my Master said the man himself was a very good person.”
 
-A single particle could change the feeling of someone’s words entirely.
+A single word could change the entire meaning of a sentence.
 
 Gung Gibang’s Master, the Beggars’ Sect Leader, hadn’t simply said that Ju Hogun was a good person.
 
@@ -134,7 +134,7 @@ I had a feeling the Junzi Sword’s personality had played a major part in reduc
 
 Sure enough, Gung Gibang read my expression and nodded.
 
-“As you guessed. Great Hero Ju is sentimental and can’t stand by when he sees injustice, so he’s suffered tremendous losses in various ways since taking over the Yongbong Escort Bureau.”
+“Just as you suspect. Great Hero Ju is softhearted and can’t stand by when he sees injustice, so the Yongbong Escort Bureau has suffered tremendous losses in all sorts of ways since he took over.”
 
 “He was in the wrong line of work from the start.”
 
@@ -176,7 +176,7 @@ Gung Gibang scratched vigorously at his back as he continued.
 
 “Considering all the misfortunes they’ve suffered over the past two years, you could certainly call it that.”
 
-“Good grief. They must have been through a lot.”
+“Good grief. They must’ve been through hell.”
 
 For an instant, Ju Hwaran’s spirited figure flashed through my mind.
 
@@ -184,7 +184,7 @@ At the time, I had thought only that she was smart and pretty. As it turned out,
 
 But…
 
-“What exactly is this stink you keep talking about?”
+“What exactly about this stinks?”
 
 Gung Gibang had started the conversation so ominously that I had listened closely, but the only foul smell around here was the stench coming off that bastard.
 
@@ -280,11 +280,11 @@ But I had been wrong.
 
 Once again, I realized that the Murim was more complicated than I had thought.
 
-Even the world of ignorant, simple-looking swordsmen had rules—and a league of its own.
+Even the world of those ignorant, simple-minded swordsmen had rules—and a league of its own.
 
 *I guess an arm really does bend inward.*[^2]
 
-When I remained silent, Gung Gibang cautiously watched me and asked,
+When I remained silent, Gung Gibang watched me cautiously.
 
 “What are you planning to do?”
 
@@ -300,7 +300,7 @@ My encounter with the Yongbong Escort Bureau had been nothing more than chance. 
 
 “If I run into them before I leave, I can give them a heads-up. But that’s it.”
 
-Now that Jeok Cheongang had collapsed, getting entangled with the Zhongnan Sect would complicate matters.
+With Jeok Cheongang unconscious, getting entangled with the Zhongnan Sect would only complicate matters.
 
 For some reason, Ju Hwaran’s face rose in my mind. I shook my head and let the thought slip away.
 
