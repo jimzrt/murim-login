@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful translation with minor preferred terminology and footnote omissions.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 246-247",
+      "current": "\"Hello. *Entertainment Weekly*? Are you idiots?\"",
+      "defect": "Unfootnoted garbled incantation resembling Korean phrase 'annyeonghaseyo, Yeonye-ga Junggye' referencing a Korean entertainment news program.",
+      "replacement": "\"Hello. *Entertainment Weekly*? Are you idiots?\"[^1]",
+      "rationale": "The original Korean source includes a pun through garbled incantations sounding like a Korean TV program name. The accepted baseline included a footnote explaining this cultural reference, which is missing in the assembled English.",
+      "confidence": 1.0
+    }
+  ]
+}

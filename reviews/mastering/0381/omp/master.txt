@@ -46,7 +46,7 @@ The Skeleton Warlord answered hesitantly.
 
 “…….”
 
-*Isn’t this guy completely insane?*
+*Is this guy completely insane?*
 
 I was dumbfounded, but regardless, the result was undeniable.
 
@@ -96,7 +96,7 @@ That bastard had definitely started enjoying the whole Skeleton Skeleton thing. 
 
 —Gwoo?
 
-At the Skeleton Warlord’s command, ferocity filled the eyes of the undead monsters that had been standing blankly. Then, in the next moment—
+At the Skeleton Warlord’s command, ferocity returned to the eyes of the undead monsters that had been standing blankly. Then, in the next instant—
 
 Crunch!
 
@@ -118,7 +118,7 @@ One flank of the monster army surrounding the Chinese Hunters collapsed helpless
 
 —Chiiiiiik!
 
-「W-What the hell!」
+「W-What the hell?」
 
 「Why are those monsters suddenly…?」
 
@@ -142,7 +142,7 @@ I had just used Qi Sense to check his Level window, but that wasn’t important 
 
 「But what is going on here…?」
 
-“Are you really curious about that right now? Do you want to grab an undead monster and make it explain why it’s helping us using the five Ws and one H?”
+“Is that really what you’re worried about right now? Do you want to grab an undead monster and make it explain why it’s helping us using the five Ws and one H?”
 
 「N-No, sir!」
 
@@ -156,7 +156,7 @@ Shao Shen snapped to his senses and thrust his spear into the air.
 
 *Now that was an excellent decision.*
 
-Along with their unified shout, the momentum of the roughly five hundred Hunters who had been driven into a corner changed.
+With that unified shout, the momentum of the roughly five hundred Hunters who had been driven into a corner transformed.
 
 「Kill them!」
 
@@ -198,7 +198,7 @@ A single clean, effortless strike split the Griffon’s head in two.
 
 Team Leader Choi landed gracefully and gazed at the transparent blade, not a single drop of blood staining it, with a satisfied smile.
 
-“A longsword I won at auction for 5.2 billion won. It certainly earns its price.”
+“A longsword I won at auction for 5.2 billion won. It certainly earns its keep.”
 
 “…….”
 
@@ -220,11 +220,11 @@ After a brief silence, the Skeleton Warlord answered by chanting another spell.
 
 —Grow, Skeleton Skeleton!
 
-They say even a dog at a village school can recite poetry after three years. Now he could do it without being told.
+Even a dog could recite poetry after three years at a village school. Now he knew what to do without being told.
 
 Crack. Crack-crack-crack.
 
-The Griffon killed by Team Leader Choi, along with the monsters brought down by the combined attacks of the Hunters and undead, gained new life and rose from their dead bodies.
+The Griffon Team Leader Choi had killed, along with the monsters brought down by the combined attacks of the Hunters and undead, gained new life and raised their dead bodies from the ground.
 
 There were two hundred of them.
 
@@ -236,15 +236,15 @@ The range also seemed wider than during the first attempt. Even distant undead m
 
 “…….”
 
-—……Actually, this commander was not capable of quite this much. But for some reason, an enormous amount of mana is surging through me now that I am here!
+—……Actually, this commander was not capable of quite this much. But for some reason, an enormous amount of mana has been surging through me since I arrived here!
 
 “Sure. Great.”
 
 I gave up trying to understand this bizarre named monster.
 
-As long as the result was good, that was all that mattered. Trying to figure it out right now would only give me a headache.
+As long as the result was good, that was all that mattered. Trying to figure it out right away would only give me a headache.
 
-—Give me more. More legions!
+—Give me more. Give me an even greater legion!
 
 I couldn’t see him because he was inside my Inventory, but I was certain his fleshless skull was trembling with excitement.
 
@@ -270,7 +270,7 @@ With the Skeleton Warlord’s mad laughter echoing through my mind, I stepped fo
 
 Whoooosh!
 
-A path of flame opened with every step.
+A path of flame opened beneath my feet.
 
 * * *
 
@@ -322,7 +322,7 @@ Unmistakable hostility permeated their thoughts because they, too, had once been
 
 But that had happened in the distant past, in another dimension.
 
-Drifting across the boundless ocean of death, they had met a boatman named the Arch Lich. After gaining new power, they were finally on the verge of becoming the Liches they had longed to be.
+While drifting across the boundless ocean of death, they had met a boatman named the Arch Lich. He had granted them new power, placing them on the verge of becoming the Liches they had longed to be.
 
 But…
 
@@ -330,7 +330,7 @@ But…
 
 —If only our transformation had been completed. If only there had been more death in this land.
 
-—Then we would not have lost control, either.
+—Then we would not have lost control.
 
 The three beings could not hide their regret.
 
@@ -424,7 +424,7 @@ A short while later, flames erupted again, and the three beings looked at one an
 
 —Let us deploy the ogre unit.
 
-—I’ll see your ogres and raise you Dullahans.
+—I will see your ogres and add Dullahans.
 
 —Dullahans, too? Then who will protect us?
 
@@ -432,7 +432,7 @@ A short while later, flames erupted again, and the three beings looked at one an
 
 —That is true.
 
-Three minutes later, a grim atmosphere hung over the three beings’ skulls.
+Three minutes later, the air above the three beings’ skulls had turned grim.
 
 —It was severed.
 
@@ -442,7 +442,7 @@ Three minutes later, a grim atmosphere hung over the three beings’ skulls.
 
 —What is that thing? It does not seem to be a mage.
 
-—J-Just send the Dullahans first!
+—J-Just send the Dullahans already!
 
 —Th-Then we shall do so.
 
@@ -484,7 +484,7 @@ But before they could complete their spells, the young human—impossible to ide
 
 —O-Omnehasoyu!
 
-—Y-Yes, Yenwigajike!
+—Y-Yenwigajike!
 
 The young man, Jin Taekyung, cocked his head.
 

@@ -1,0 +1,560 @@
+{
+  "chapter": 381,
+  "decisions": [
+    {
+      "hunk_id": "H001",
+      "decision": "SOL",
+      "reason": "SOL preserves the contrast in natural English punctuation."
+    },
+    {
+      "hunk_id": "H002",
+      "decision": "SOL",
+      "reason": "SOL keeps the source's spatial relationship while using natural phrasing."
+    },
+    {
+      "hunk_id": "H003",
+      "decision": "SOL",
+      "reason": "SOL preserves the instantaneous change."
+    },
+    {
+      "hunk_id": "H004",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves both the monsters' ferocity and their abrupt halt."
+    },
+    {
+      "hunk_id": "H005",
+      "decision": "SOL",
+      "reason": "SOL preserves the list and the fallen Hunters."
+    },
+    {
+      "hunk_id": "H006",
+      "decision": "SOL",
+      "reason": "SOL folds the immediately following muttered dialogue into the action without losing content."
+    },
+    {
+      "hunk_id": "H007",
+      "decision": "SOL",
+      "reason": "SOL retains the dialogue by moving it into the preceding sentence."
+    },
+    {
+      "hunk_id": "H008",
+      "decision": "SOL",
+      "reason": "SOL retains the brain-freeze beat in the following sentence."
+    },
+    {
+      "hunk_id": "H009",
+      "decision": "SOL",
+      "reason": "SOL preserves the brain-freeze transition and the joke while combining the lines naturally."
+    },
+    {
+      "hunk_id": "H010",
+      "decision": "SOL",
+      "reason": "SOL keeps the Warlord's uncertainty and conversational emphasis."
+    },
+    {
+      "hunk_id": "H011",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys that pride prevented him from doing nothing."
+    },
+    {
+      "hunk_id": "H012",
+      "decision": "BASE",
+      "reason": "BASE preserves the Korean rhetorical question, while SOL weakens it into a neutral question."
+    },
+    {
+      "hunk_id": "H013",
+      "decision": "SOL",
+      "reason": "SOL preserves the meaning in a tighter conversational form."
+    },
+    {
+      "hunk_id": "H014",
+      "decision": "SOL",
+      "reason": "SOL preserves the simultaneous halt and resulting lull."
+    },
+    {
+      "hunk_id": "H015",
+      "decision": "SOL",
+      "reason": "SOL makes the consequence of being exceptions explicit without changing the meaning."
+    },
+    {
+      "hunk_id": "H016",
+      "decision": "SOL",
+      "reason": "SOL preserves the brief hesitation before the monsters resume rampaging."
+    },
+    {
+      "hunk_id": "H017",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves the extreme numerical mismatch."
+    },
+    {
+      "hunk_id": "H018",
+      "decision": "SOL",
+      "reason": "SOL keeps the imminent shift in the battle."
+    },
+    {
+      "hunk_id": "H019",
+      "decision": "SOL",
+      "reason": "SOL preserves the deliberately hushed delivery."
+    },
+    {
+      "hunk_id": "H020",
+      "decision": "SOL",
+      "reason": "SOL keeps the mocking nickname and correction in natural English."
+    },
+    {
+      "hunk_id": "H021",
+      "decision": "SOL",
+      "reason": "SOL preserves the taunt and uses the established Erasure sense naturally as 'erased.'"
+    },
+    {
+      "hunk_id": "H022",
+      "decision": "SOL",
+      "reason": "SOL matches the insulting, familiar tone of 놈."
+    },
+    {
+      "hunk_id": "H023",
+      "decision": "BASE",
+      "reason": "SOL adds an unsupported return to a prior state; BASE only says ferocity appeared."
+    },
+    {
+      "hunk_id": "H024",
+      "decision": "SOL",
+      "reason": "SOL preserves the start of the attack with natural emphasis."
+    },
+    {
+      "hunk_id": "H025",
+      "decision": "SOL",
+      "reason": "SOL better represents the repeated stutter in the monster cry."
+    },
+    {
+      "hunk_id": "H026",
+      "decision": "BASE",
+      "reason": "The Korean is an exclamation, not a question; BASE preserves the force."
+    },
+    {
+      "hunk_id": "H027",
+      "decision": "SOL",
+      "reason": "SOL preserves that the Chinese Hunters were equally bewildered."
+    },
+    {
+      "hunk_id": "H028",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys the Hunter moving across the front while wielding his spear."
+    },
+    {
+      "hunk_id": "H029",
+      "decision": "SOL",
+      "reason": "SOL preserves the widened, startled look in natural English."
+    },
+    {
+      "hunk_id": "H030",
+      "decision": "SOL",
+      "reason": "SOL explicitly retains the Level window and Qi Sense."
+    },
+    {
+      "hunk_id": "H031",
+      "decision": "BASE",
+      "reason": "궁금해요 means being curious or wondering, not being worried; BASE preserves the source's question."
+    },
+    {
+      "hunk_id": "H032",
+      "decision": "SOL",
+      "reason": "SOL preserves the immediate command in more natural speech."
+    },
+    {
+      "hunk_id": "H033",
+      "decision": "SOL",
+      "reason": "SOL accurately renders 정신이 번쩍 들다 as snapping to his senses."
+    },
+    {
+      "hunk_id": "H034",
+      "decision": "SOL",
+      "reason": "SOL preserves the narrator's approving emphasis."
+    },
+    {
+      "hunk_id": "H035",
+      "decision": "BASE",
+      "reason": "BASE keeps the source's simple change in momentum; SOL overstates it as a transformation."
+    },
+    {
+      "hunk_id": "H036",
+      "decision": "SOL",
+      "reason": "SOL accurately specifies that the Orc was beheaded."
+    },
+    {
+      "hunk_id": "H037",
+      "decision": "SOL",
+      "reason": "SOL preserves the imminent attack on the Hunter's throat."
+    },
+    {
+      "hunk_id": "H038",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys the Griffon's steep dive and flashing claws."
+    },
+    {
+      "hunk_id": "H039",
+      "decision": "SOL",
+      "reason": "SOL preserves the waiting ranged Hunters and the Griffon's electrocuted convulsion."
+    },
+    {
+      "hunk_id": "H040",
+      "decision": "SOL",
+      "reason": "SOL preserves stepping on the Troll and launching upward into the strike."
+    },
+    {
+      "hunk_id": "H041",
+      "decision": "SOL",
+      "reason": "SOL naturally renders the specially made weapon as custom-made."
+    },
+    {
+      "hunk_id": "H042",
+      "decision": "SOL",
+      "reason": "SOL preserves the single clean strike."
+    },
+    {
+      "hunk_id": "H043",
+      "decision": "SOL",
+      "reason": "SOL preserves the bloodless transparent blade and Choi's satisfaction."
+    },
+    {
+      "hunk_id": "H044",
+      "decision": "BASE",
+      "reason": "제값을 하다 means being worth its price; 'earns its keep' changes the idiom's denotation."
+    },
+    {
+      "hunk_id": "H045",
+      "decision": "SOL",
+      "reason": "SOL preserves the Warlord's skeptical reaction in a concise form."
+    },
+    {
+      "hunk_id": "H046",
+      "decision": "SOL",
+      "reason": "SOL is a natural rendering of the Warlord checking what he heard."
+    },
+    {
+      "hunk_id": "H047",
+      "decision": "SOL",
+      "reason": "SOL preserves the hesitant conversational rhythm."
+    },
+    {
+      "hunk_id": "H048",
+      "decision": "SOL",
+      "reason": "SOL keeps both the grudging assessment and the insult."
+    },
+    {
+      "hunk_id": "H049",
+      "decision": "SOL",
+      "reason": "SOL preserves the hand-raising joke, the Warlord's identity, and the established Erasure sense."
+    },
+    {
+      "hunk_id": "H050",
+      "decision": "BASE",
+      "reason": "BASE preserves the proverb's reported framing with 'They say'; SOL turns it into a flat assertion."
+    },
+    {
+      "hunk_id": "H051",
+      "decision": "BASE",
+      "reason": "SOL creates an ambiguous and grammatically awkward 'Griffon Team Leader Choi' construction; BASE clearly identifies the Griffon Choi killed."
+    },
+    {
+      "hunk_id": "H052",
+      "decision": "SOL",
+      "reason": "SOL preserves the expanded range and newly controlled distant undead."
+    },
+    {
+      "hunk_id": "H053",
+      "decision": "BASE",
+      "reason": "SOL adds an unsupported duration since arrival; BASE keeps the present surge described by the source."
+    },
+    {
+      "hunk_id": "H054",
+      "decision": "SOL",
+      "reason": "SOL preserves the meaning in a more concise form."
+    },
+    {
+      "hunk_id": "H055",
+      "decision": "BASE",
+      "reason": "지금 당장은 means for now or right now, not 'right away'; BASE preserves the temporal meaning."
+    },
+    {
+      "hunk_id": "H056",
+      "decision": "BASE",
+      "reason": "BASE preserves the request for more legions; SOL changes the quantity to one greater legion."
+    },
+    {
+      "hunk_id": "H057",
+      "decision": "SOL",
+      "reason": "SOL accurately preserves that only bone remained in the skull."
+    },
+    {
+      "hunk_id": "H058",
+      "decision": "SOL",
+      "reason": "SOL makes the possessive reference explicit without changing the action."
+    },
+    {
+      "hunk_id": "H059",
+      "decision": "SOL",
+      "reason": "SOL preserves the dismissive emphasis of 안 그래도."
+    },
+    {
+      "hunk_id": "H060",
+      "decision": "SOL",
+      "reason": "SOL preserves the partial agreement and the Warlord's cheeky tone."
+    },
+    {
+      "hunk_id": "H061",
+      "decision": "SOL",
+      "reason": "SOL captures 광소 as mad or maniacal laughter."
+    },
+    {
+      "hunk_id": "H062",
+      "decision": "BASE",
+      "reason": "BASE preserves the image of the flame path opening along his footsteps; SOL narrows it to beneath his feet."
+    },
+    {
+      "hunk_id": "H063",
+      "decision": "SOL",
+      "reason": "SOL naturally reflects the three beings' multiple staffs."
+    },
+    {
+      "hunk_id": "H064",
+      "decision": "SOL",
+      "reason": "SOL naturally renders the empty places where their pupils should be."
+    },
+    {
+      "hunk_id": "H065",
+      "decision": "SOL",
+      "reason": "SOL preserves the nightmare appearance and telepathic exchange."
+    },
+    {
+      "hunk_id": "H066",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys undead domination by strength."
+    },
+    {
+      "hunk_id": "H067",
+      "decision": "SOL",
+      "reason": "SOL preserves the inference that a higher existence took their control."
+    },
+    {
+      "hunk_id": "H068",
+      "decision": "SOL",
+      "reason": "SOL preserves the linked actions of seizing control and helping humans."
+    },
+    {
+      "hunk_id": "H069",
+      "decision": "SOL",
+      "reason": "SOL keeps the abrupt disbelief of 말도 안 되는 소리."
+    },
+    {
+      "hunk_id": "H070",
+      "decision": "SOL",
+      "reason": "SOL preserves the escalating, fragmented command to create a greater legion and kill more humans."
+    },
+    {
+      "hunk_id": "H071",
+      "decision": "SOL",
+      "reason": "SOL preserves the recalled command and resulting confusion."
+    },
+    {
+      "hunk_id": "H072",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves the comparison of control."
+    },
+    {
+      "hunk_id": "H073",
+      "decision": "SOL",
+      "reason": "SOL handles the hypothetical necromancer naturally while preserving the dismissal."
+    },
+    {
+      "hunk_id": "H074",
+      "decision": "SOL",
+      "reason": "SOL preserves the hostility in their thoughts and its necromancer-related cause."
+    },
+    {
+      "hunk_id": "H075",
+      "decision": "BASE",
+      "reason": "SOL assigns the granting of power directly to the Arch Lich; BASE preserves the source's less explicit causality."
+    },
+    {
+      "hunk_id": "H076",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's 'either' qualification; SOL drops that nuance."
+    },
+    {
+      "hunk_id": "H077",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves their incomplete transformation."
+    },
+    {
+      "hunk_id": "H078",
+      "decision": "SOL",
+      "reason": "SOL preserves rebirth in dead mages' bodies and the incomplete Lich transformation."
+    },
+    {
+      "hunk_id": "H079",
+      "decision": "SOL",
+      "reason": "SOL makes the reference to all three beings explicit without changing the meaning."
+    },
+    {
+      "hunk_id": "H080",
+      "decision": "SOL",
+      "reason": "SOL preserves the condition and required action in smoother English."
+    },
+    {
+      "hunk_id": "H081",
+      "decision": "SOL",
+      "reason": "SOL naturally renders consuming or spending power as expending it."
+    },
+    {
+      "hunk_id": "H082",
+      "decision": "SOL",
+      "reason": "SOL preserves the proposal in natural spoken English."
+    },
+    {
+      "hunk_id": "H083",
+      "decision": "SOL",
+      "reason": "SOL preserves their competition to gain the Arch Lich's favor."
+    },
+    {
+      "hunk_id": "H084",
+      "decision": "SOL",
+      "reason": "SOL correctly reflects the three beings chanting their necromantic spells."
+    },
+    {
+      "hunk_id": "H085",
+      "decision": "SOL",
+      "reason": "SOL preserves the affected area and the soldiers' collapse."
+    },
+    {
+      "hunk_id": "H086",
+      "decision": "SOL",
+      "reason": "SOL preserves the dying humans' death energy entering every part of the monsters."
+    },
+    {
+      "hunk_id": "H087",
+      "decision": "SOL",
+      "reason": "SOL preserves the mana carried by the savage cries."
+    },
+    {
+      "hunk_id": "H088",
+      "decision": "SOL",
+      "reason": "SOL preserves both the strengthened control and empowered monsters."
+    },
+    {
+      "hunk_id": "H089",
+      "decision": "SOL",
+      "reason": "SOL preserves the admission that their power expenditure was enormous."
+    },
+    {
+      "hunk_id": "H090",
+      "decision": "SOL",
+      "reason": "SOL naturally preserves satisfaction with the newly empowered legion."
+    },
+    {
+      "hunk_id": "H091",
+      "decision": "SOL",
+      "reason": "SOL preserves the explosion accompanying the flying limbs."
+    },
+    {
+      "hunk_id": "H092",
+      "decision": "SOL",
+      "reason": "SOL preserves the beings watching the flames and exchanging thoughts."
+    },
+    {
+      "hunk_id": "H093",
+      "decision": "SOL",
+      "reason": "SOL naturally conveys deploying the Skeleton Mages in large force."
+    },
+    {
+      "hunk_id": "H094",
+      "decision": "SOL",
+      "reason": "SOL preserves the renewed eruption of flames."
+    },
+    {
+      "hunk_id": "H095",
+      "decision": "SOL",
+      "reason": "SOL uses the established Erasure sense for 소멸."
+    },
+    {
+      "hunk_id": "H096",
+      "decision": "SOL",
+      "reason": "SOL preserves the uncertainty about whether he is truly a mage."
+    },
+    {
+      "hunk_id": "H097",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's challenge-and-counter wordplay; SOL loses the natural 'raise you' construction."
+    },
+    {
+      "hunk_id": "H098",
+      "decision": "SOL",
+      "reason": "SOL naturally identifies the already discussed strengthened ogres."
+    },
+    {
+      "hunk_id": "H099",
+      "decision": "BASE",
+      "reason": "BASE preserves the source's idiomatic grave atmosphere; SOL turns it into awkwardly literal air above the skulls."
+    },
+    {
+      "hunk_id": "H100",
+      "decision": "SOL",
+      "reason": "SOL accurately renders the control being severed rather than stolen."
+    },
+    {
+      "hunk_id": "H101",
+      "decision": "SOL",
+      "reason": "SOL preserves the already established Dullahans as the intended unit."
+    },
+    {
+      "hunk_id": "H102",
+      "decision": "BASE",
+      "reason": "일단 means first or for now; SOL changes the sequencing into an impatience cue."
+    },
+    {
+      "hunk_id": "H103",
+      "decision": "SOL",
+      "reason": "SOL preserves the designated escort force and its movement."
+    },
+    {
+      "hunk_id": "H104",
+      "decision": "SOL",
+      "reason": "SOL preserves choosing the most useful available material under time pressure."
+    },
+    {
+      "hunk_id": "H105",
+      "decision": "SOL",
+      "reason": "SOL preserves the plan being shattered into pieces."
+    },
+    {
+      "hunk_id": "H106",
+      "decision": "SOL",
+      "reason": "SOL preserves the extreme heat felt despite their skeletal bodies."
+    },
+    {
+      "hunk_id": "H107",
+      "decision": "SOL",
+      "reason": "SOL naturalizes 존재 as a figure while preserving the threatening observation."
+    },
+    {
+      "hunk_id": "H108",
+      "decision": "SOL",
+      "reason": "SOL preserves the sudden acceleration of their voices."
+    },
+    {
+      "hunk_id": "H109",
+      "decision": "SOL",
+      "reason": "SOL preserves the interrupted spells and the young man's ambiguous combat role."
+    },
+    {
+      "hunk_id": "H110",
+      "decision": "BASE",
+      "reason": "The Korean includes 예, meaning 'Yes'; SOL drops that word and changes the response."
+    },
+    {
+      "hunk_id": "H111",
+      "decision": "SOL",
+      "reason": "SOL preserves the young man's cocked-head reaction in natural English."
+    }
+  ]
+}
