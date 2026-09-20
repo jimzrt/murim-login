@@ -1,9 +1,9 @@
 # Magic Johnson (매직 존슨)
 
-- **Safe through:** Chapter 432
-- **Aliases:** None
-- **Role:** An American Hunter and public figure who has fought on major battlefields and now stands as Jin Taekyung's ally.
-- **Personality:** Cheerful and good-natured, but willing to confront painful truths and make difficult judgments.
-- **Voice:** Usually playful and humorous, becoming direct and serious when demanding the truth.
-- **Relationships:** Friend and ally of Jin Taekyung who has agreed to help protect Jin's people and support Jin's growth.
+- **Safe through:** Chapter 559
+- **Aliases:** Johnson, Grand Mage
+- **Role:** One of only three Grand Mages among humanity, an influential American Hunter who can perform long-distance Teleportation and provide high-level Gate intelligence.
+- **Personality:** Boisterous, teasing, shameless, sociable, and pragmatic.
+- **Voice:** Loud, colloquial, casually familiar, and profanity-heavy.
+- **Relationships:** An old comrade of Lee Jungryong and an ally of Team Leader Choi and Jin Taekyung; acquainted with the Skeleton King and Im Kkeokjeong.
 - **Sources:** Korean source and accepted translation, Chapter 384

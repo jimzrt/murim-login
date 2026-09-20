@@ -916,3 +916,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | manager_to_subordinate | Mr. Jin Taekyung | formal-polite | Team Leader Choi discusses the Cyclops incident and Mutated Gate data with Taekyung. |
 | 스켈레톤 킹 | 진태경 | ally_to_ally | Wretched human | casual-insulting | The Skeleton King uses its habitual theatrical address. |
 | 진태경 | 스켈레톤 킹 | ally_to_ally | Your dad | casual-mocking | Taekyung taunts the Skeleton King when it asks whom he is expecting. |
+| 매직 존슨 | 진태경 | allied Grand Mage to allied Hunter | Jin | familiar and teasing | Johnson repeatedly addresses Taekyung as Jin. |
+| 매직 존슨 | 최 팀장 | allied Grand Mage to Team Leader Choi | Choi | familiar and teasing | Johnson addresses Choi directly while discussing the intelligence chip. |
+| 최 팀장 | 매직 존슨 | Team Leader Choi to allied Grand Mage | Mr. Johnson | formal but blunt | Choi responds professionally while criticizing Johnson’s visit and reviewing the data. |
+| 매직 존슨 | 임꺽정 | Grand Mage to newly met Hunter | you there | casual and teasing | Johnson addresses Kkeokjeong while ending the funeral discussion. |
+| 스켈레톤 킹 | 매직 존슨 | ally to deceptive acquaintance | ungrateful human | hostile and theatrical | The Skeleton King condemns Johnson over the Itaewon incident. |
+| 임꺽정 | 매직 존슨 | new acquaintance to Grand Mage | and you | awkward and deferential | Kkeokjeong answers Johnson in broken English because he lacks a translation Item. |
