@@ -1,0 +1,357 @@
+# Chapter 341
+
+A conversation I’d had with Mungyeong several days ago flashed through my mind.
+
+*Thank you for everything.*
+
+*Forget the thanks. Just focus on becoming a great physician.*
+
+*Like the Divine Physician?*
+
+*Yes, like the Divine Physician.*
+
+And there had been one last thing he had said almost in passing.
+
+*It’s a shame we can’t go together this time. I have to return to my Master.*
+
+How had I not realized it?
+
+Thinking back, Mungyeong had been unusual from the very beginning. The incredible resourcefulness he had displayed when river bandits threatened his life, the composure far beyond his years, and his remarkable medical skills.
+
+*That’s not all.*
+
+The boy who had nearly sunk to the bottom of the Yangtze because of the river bandits had brazenly hitched a ride aboard the Swift Tide, then gone to the Sichuan Tang Clan—infamous throughout the Murim for their vicious tempers—just to get a prescription.
+
+Mungyeong had done things that even Murim artists with Botox injected into their livers might have shied away from, and he had done them without batting an eye.
+
+*And on top of that, the things he just said and did…*
+
+I had no idea what kind of martial art the Black Hand Seal was or how powerful it might be.
+
+But I knew one thing for certain.
+
+“The Divine Physician. You’re the Divine Physician’s Disciple.”
+
+“……!”
+
+“……!”
+
+The others stared wide-eyed at Mungyeong after hearing the joy and deflation mingled in my words.
+
+Mungyeong shrank back in the suffocating silence that descended over us.
+
+“I-I’m sorry. But I couldn’t tell you.”
+
+“Why not?”
+
+I regretted asking the moment the words left my mouth. The Divine Physician had spent his entire life hiding his identity. Of course his Disciple had kept silent.
+
+If Venerable Myoryeong’s life had not been hanging by a thread, Mungyeong almost certainly would never have revealed his Master’s identity.
+
+“Where is the Divine Physician—or rather, where is your Master?”
+
+Mungyeong hesitated, then bit his lip tightly.
+
+“But before that, could you promise me one thing?”
+
+“I’ll keep the secret. Absolutely.”
+
+With that firm answer, I pulled something from inside my robe and held it out.
+
+It was something I had been taking out of my Inventory to examine whenever I had a spare moment lately.
+
+> The finest Chinese gallnuts come from Sichuan.
+
+Mungyeong’s eyes widened when he saw the faint writing on the jade-colored porcelain shard.
+
+“This is…”
+
+“Do you recognize it?”
+
+“Yes. It’s unquestionably my Master’s handwriting.”
+
+Mungyeong examined the Divine Physician’s Token from every angle, apparently fascinated, then let out a small exclamation.
+
+“Come to think of it, my Master once told me that a very long time ago, he left a token with a famous physician and told him to come to Sichuan. But how did you, Young Master, come to possess this…?”
+
+“The famous physician gave it to me directly. There’s a patient whom no one but the Divine Physician can treat.”
+
+I continued emphatically.
+
+“There’s someone I have to save.”
+
+“I don’t know who that person is, but… you hold them very dear, Young Master.”
+
+Someone I hold dear.
+
+Yes. I suppose that was true. Jeok Cheongang was someone precious to me. He had given me everything he had, and now it was my turn to protect him.
+
+“Yes. That’s right.”
+
+Mungyeong smiled faintly and nodded.
+
+“Come with me. I’ll guide you to my Master.”
+
+* * *
+
+Crunch. Crunch.
+
+The snow collapsed beneath our feet with every step.
+
+I looked around. Frost-covered, bare branches. White snow piled thickly everywhere I looked.
+
+*It’s amazing no matter how many times I see it.*
+
+Outside, early spring had arrived, and new shoots were beginning to emerge. But the place we were walking through looked like a winter day buried beneath falling snow.
+
+*So this is a Mystic Gate Formation…*
+
+Mungyeong had led us to the very same mountain we had searched with the Qingcheng Sect. But after we reached a certain point, he strained to move several rocks, and an entirely new path and landscape unfolded before us.
+
+*All of us, myself included, had been left speechless at the sight we had never seen before.*
+
+Mungyeong had told us that the person who installed this place was the Master of Strange Illusions.
+
+According to Gung Gibang, who had explained it with spittle flying, the Master of Strange Illusions had been called the greatest formation master under heaven in the distant past.
+
+I had no idea what sort of connection he had shared with the Divine Physician, but he had installed something like this. We had nearly wandered around for ages despite being right in front of the place.
+
+*No wonder nobody could find him.*
+
+What good was it to deploy top-tier Murim artists and countless government troops?
+
+If they had searched every mountain one by one using ordinary methods, even half a century would not have been enough, let alone six months.
+
+“Wow! Woooow!”
+
+Cheongpung, who had been running several steps ahead of us like a puppy let loose in a snowy field, cried out in delight. I was about to scold him when the scenery changed completely the very next moment, and my mouth fell open too.
+
+“……Whoa. What the hell is this?”
+
+The world had changed again after only a few steps.
+
+The snow-white midwinter landscape had given way to spring in full bloom.
+
+Everything around us was green, and nameless flowers were in full bloom. Hyuk Mujin approached with a dazed expression and asked,
+
+“Captain. Am I seeing things?”
+
+“I don’t know, Mujin.”
+
+Even Gung Gibang, the most experienced Murim veteran among us, could only stand there with his mouth hanging open.
+
+“Good heavens… Hk! Ptooey, ptooey! What is this?”
+
+“Are those butterflies?”
+
+Oh, they really were butterflies. And not just one or two.
+
+Every color imaginable.
+
+Hundreds of butterflies that had been resting throughout the flower field took flight at the same time. It was a spectacular sight.
+
+Whoooosh.
+
+Where had the wind suddenly come from? And where was the bright sunlight pouring in from?
+
+Every single thing I saw felt like one of the Seven Wonders of the World.
+
+*The pyramids have nothing on this.*
+
+There was a place where the seasons changed after only a few steps, so what were the pyramids compared to that? Some Egyptian logistics officer probably just ran his workers ragged building them.
+
+All the pharaoh had to do was put on a solemn face and say, “This pharaoh is disappointed in you,” a few times, and they would be hauling stones while getting whipped.
+
+But this place…
+
+This was an entirely different league.
+
+“Young Master Jin?”
+
+“Huh? Oh, yeah.”
+
+“We’re almost there. We only have to cross that hill.”
+
+We hurriedly came to our senses and followed Mungyeong once more.
+
+When we crossed the low hill covered in green grass, a small thatched hut standing alone on a flat stretch of land came into view.
+
+And…
+
+He was there.
+
+“Master!”
+
+At Mungyeong’s shout, an old man who had been planting something in the vegetable garden before the hut straightened his bent back. His beard was as white as the snow we had seen on the way there. Deep wrinkles framed his clear eyes.
+
+When he noticed us, the corners of his eyes curved gently.
+
+“Some honored guests have arrived.”
+
+We had finally found him.
+
+The Divine Physician.
+
+* * *
+
+It was a long while before we properly spoke with the Divine Physician.
+
+After examining Venerable Myoryeong’s condition, the Divine Physician had Mungyeong carry her into the hut. The two of them did not emerge again until a shichen later.
+
+“It has been a long time since anyone came to visit.”
+
+The Divine Physician’s sudden voice resembled a cool spring breeze. I had been pacing around the hut and hurriedly bowed at the waist.
+
+“Jin Taekyung of the Jin Family of Taiyuan pays his respects to the Divine Physician.”
+
+“Dong Feng.”
+
+“Pardon?”
+
+“That is my name. The title Divine Physician is too grand for me, so please call me Old Man Dong.”
+
+I wasn’t about to call the greatest physician under heaven Old Man Dong like some old man Kim at a neighborhood real estate office.
+
+*And he was old enough to be my grandfather.*
+
+But when I met the Divine Physician’s benevolent gaze, I had no choice but to quietly comply.
+
+“Yes. I will, Old Man Dong.”
+
+“Thank you, Young Master Jin.”
+
+After giving me a gentle smile, the Divine Physician exchanged greetings with everyone else, one by one.
+
+He maintained his manners even with us, who were far younger than him, and he never once seemed rushed.
+
+“Hello! I’m Cheongpung!”
+
+He did not even lose his smile in front of the local lunatic.
+
+“Heh heh. You’re a very energetic person. My name is Dong Feng. You may call me Old Man Dong, just like the others.”
+
+“But my grandfather told me that I have to show respect to my elders.”
+
+“Your grandfather gave you an excellent lesson. But if our hearts are at ease with each other, what harm is there? Just think of me as a friend who happens to be a little older than you.”
+
+“A friend?”
+
+“That’s right. A friend.”
+
+Cheongpung smiled brightly.
+
+“Then I look forward to getting along with you, Old Man Dong!”
+
+“Heh heh. Heh heh heh!”
+
+He’s laughing?
+
+Was he some kind of Murim joker? The type who laughed when angry and laughed when bewildered.
+
+“Old Man Dong, have you ever eaten candy?”
+
+“I like sweets. I used to enjoy candied hawthorn skewers,[^1] too.”
+
+“Hey, me too!”
+
+The setting looked like a healing movie, but the conversation itself was pure horror thriller. In the end, Gung Gibang, his face gone deathly pale, clamped both hands over Cheongpung’s mouth and slowly backed away.
+
+The Divine Physician laughed heartily at the sight, then turned toward Mungyeong.
+
+“You have brought some interesting people.”
+
+Mungyeong bowed deeply.
+
+“I’m sorry, Master. I brought them without your permission.”
+
+“No, no. Fate is tied by Heaven. This must be the natural order as well. Don’t you agree?”
+
+His last question was directed at me. I nodded and held out the Divine Physician’s Token I had prepared in advance.
+
+“This is a token you left behind long ago, Divine Physician—or rather, Old Man Dong. The Luoyang Strange Physician gave it to me and told me to come find you.”
+
+“I did?”
+
+“Pardon?”
+
+No way. Had he forgotten about it?
+
+The Divine Physician tilted his head for a moment. It was only after Mungyeong reminded him again that he let out a small exclamation.
+
+“Ah, yes. I remember now. It was so long ago that I had temporarily forgotten.”
+
+“Whew. I thought you had forgotten completely.”
+
+“Now that I think about it, the fact that you possess this token means that something has happened for which you absolutely need this old man.”
+
+“Yes, that’s right.”
+
+“Is it about the nun you brought here? If so, there is no need to worry too much. She has already made it past the immediate crisis.”
+
+The Divine Physician looked toward the hut where Venerable Myoryeong was lying and continued.
+
+“It will not be an easy road, but… if she receives sufficient rest after the remaining treatment is complete, she should make a full recovery.”
+
+It was the best news I had heard in a while. Not only had Venerable Myoryeong escaped the brink of death, but the Divine Physician truly possessed medical skills worthy of his reputation.
+
+I took a deep breath before speaking.
+
+“There’s another patient.”
+
+“Another patient?”
+
+“The person who gave me the token said that there was only one person under heaven who could treat him. You.”
+
+“Only I can treat him…”
+
+The Divine Physician repeated the words quietly before speaking again.
+
+“Birth, aging, sickness, and death are not things a mere human can decide. But if there is even the slightest possibility, I will do my best as a physician.”
+
+“That’s enough… That’s all I need.”
+
+There had been a time when my mother was sick.
+
+Those were the same words the doctor in charge of her surgery had spoken.
+
+*I’ll do my best.*
+
+For Hayeon and me, those words had been our only hope, and the surgery had ended successfully.
+
+Just as I had done with that doctor in the past, I tightly gripped the Divine Physician’s wrinkled hand.
+
+“Please. Old Man Dong.”
+
+The Divine Physician smiled benevolently, as if he understood everything.
+
+“Let us see the patient first.”
+
+After that, there was nothing but waiting and anxiety.
+
+Once Jeok Cheongang, who had been lying on the pack frame, was carried into the hut, I walked back and forth, waiting for the Divine Physician and Mungyeong to emerge.
+
+I saw butterflies and honeybees flitting through the flower field and trees sprouting fresh green leaves, but I felt nothing.
+
+*It went well, right? It must have gone well.*
+
+I could not even bring myself to approach the hut, afraid that I might hear something negative.
+
+I walked for a long time, endlessly repeating that one thought.
+
+Only after the sunlight disappeared and faint darkness settled over the land did I return to the hut.
+
+And there, despite looking exhausted, the Divine Physician and Mungyeong were waiting for me with faint smiles.
+
+“I believe I can treat him.”
+
+The instant I heard those words, all the strength drained from my legs, and a familiar alert pierced my ears.
+
+Ding.
+
+> **System**
+>
+> - Quest condition, **Get examined by the Divine Physician**, completed!
+>
+> - Quest, **Find Mr. Shin in Sichuan**, successfully completed!
+
+[^1]: Candied hawthorn skewers are a traditional snack made by coating fruit in hardened sugar.

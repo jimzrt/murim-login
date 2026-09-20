@@ -36,7 +36,7 @@ But I knew one thing for certain.
 
 “……!”
 
-The others stared wide-eyed at Mungyeong after hearing the joy and deflation mingled in my words.
+Hearing the joy and disbelief mingled in my voice, the others stared wide-eyed at Mungyeong.
 
 A suffocating silence descended over us, and Mungyeong shrank back.
 
@@ -50,11 +50,11 @@ If Venerable Myoryeong’s life had not been hanging by a thread, Mungyeong almo
 
 “Where is the Divine Physician—or rather, where is your Master?”
 
-Mungyeong hesitated, then bit his lip tightly.
+Mungyeong hesitated, then bit his lip.
 
 “But before that, could you promise me one thing?”
 
-“I’ll keep the secret. Absolutely.”
+“I’ll keep the secret. No matter what.”
 
 With that firm answer, I pulled something from inside my robe and held it out.
 
@@ -74,19 +74,19 @@ Mungyeong examined the Divine Physician’s Token from every angle, apparently f
 
 “Come to think of it, my Master once told me that a very long time ago, he left a token with a famous physician and told him to come to Sichuan. But how did you come to possess it, Young Master…?”
 
-“The famous physician gave it to me directly. There’s a patient whom no one but the Divine Physician can treat.”
+“The famous physician gave it to me himself. There’s a patient whom no one but the Divine Physician can treat.”
 
 I continued emphatically.
 
 “There’s someone I have to save.”
 
-“I don’t know who that person is, but… you hold them very dear, Young Master.”
+“I don’t know who that person is, but… he must be very dear to you, Young Master.”
 
 Someone dear to me.
 
 Yes. I supposed that was true. Jeok Cheongang was precious to me. He had given me everything he had, and now it was my turn to protect him.
 
-“Yes. That’s right.”
+“Yes. He is.”
 
 Mungyeong smiled faintly and nodded.
 
@@ -118,13 +118,13 @@ I had no idea what sort of connection he had shared with the Divine Physician, b
 
 *No wonder nobody could find him.*
 
-What good was it to deploy top-tier Murim artists and countless government troops?
+What good was it to deploy the best martial artists in Murim and countless government troops?
 
 If they had searched each mountain one by one using ordinary methods, even half a century would not have been enough, let alone six months.
 
 “Wow! Woooow!”
 
-Cheongpung, who had been running several steps ahead of us like a puppy let loose in a snowy field, cried out in delight. I was about to scold him when the scenery changed completely the very next moment, and my mouth fell open too.
+Cheongpung ran several steps ahead of us like a puppy let loose in a snowy field, crying out in delight. I was about to scold him when the scenery changed completely, and my mouth fell open too.
 
 “……Whoa. What the hell is this?”
 
@@ -132,7 +132,7 @@ The world had changed again in the space of a few steps.
 
 The snow-white depths of winter had given way to spring in full bloom.
 
-Everything around us was green, and nameless flowers were in full bloom. Hyuk Mujin approached with a dazed expression and asked,
+Everything around us was green, and unfamiliar flowers bloomed everywhere. Hyuk Mujin approached with a dazed expression.
 
 “Captain. Am I seeing things?”
 
@@ -144,7 +144,7 @@ Even Gung Gibang, the most experienced in Murim among us, stood there with his m
 
 “Butterflies?”
 
-Oh, they really were butterflies. And not just one or two.
+Holy shit, they really were butterflies. Not just one or two, either.
 
 Every color imaginable.
 
@@ -152,15 +152,15 @@ Hundreds of butterflies resting throughout the flower field took flight at once.
 
 Whoooosh.
 
-Where had the wind suddenly come from? And where was the bright sunlight pouring in from?
+Where had the sudden breeze come from? And where was the bright sunlight pouring in from?
 
 Every single thing I saw felt like one of the Seven Wonders of the World.
 
 *The pyramids have nothing on this.*
 
-There was a place where the seasons changed after only a few steps, so what were the pyramids compared to that? Some Egyptian logistics officer probably just ran his workers ragged building them.
+There was a place where the seasons changed after only a few steps, so what was so special about the pyramids? Some Egyptian logistics officer had probably run his workers ragged building them.
 
-All the pharaoh had to do was put on a solemn face and say, “This pharaoh is disappointed in you,” a few times, and they would be hauling stones while getting whipped.
+All the pharaoh had to do was put on a solemn face and say, “This pharaoh is disappointed in you,” a few times, and they would start hauling stones while getting whipped.
 
 But this place…
 
@@ -214,7 +214,7 @@ How could I call the greatest physician under heaven Old Man Dong, as if he were
 
 *I was young enough to be his grandson, too.*
 
-But when I met the Divine Physician’s benevolent gaze, I had no choice but to quietly comply.
+But faced with the Divine Physician’s benevolent gaze, I had no choice but to comply.
 
 “Yes. I will, Old Man Dong.”
 
@@ -232,7 +232,7 @@ He did not even lose his smile in front of the local lunatic.
 
 “But my grandfather told me I have to show respect to my elders.”
 
-“Your grandfather gave you an excellent lesson. But if our hearts are at ease with each other, what harm is there? Just think of me as a friend who happens to be a little older than you.”
+“Your grandfather taught you well. But if our hearts are in accord, what does age matter? Simply think of me as a friend who happens to be a little older.”
 
 “A friend?”
 
@@ -244,13 +244,13 @@ Cheongpung smiled brightly.
 
 “Heh heh. Heh heh heh!”
 
-He’s laughing?
+He was laughing?
 
 Was he some kind of Murim Joker? The type who laughed when he was angry and laughed when he was dumbfounded?
 
 “Old Man Dong, have you ever tried candy?”
 
-“I like sweets. I used to enjoy candied hawthorn skewers,[^1] too.”
+“I’m quite fond of sweets. I used to enjoy candied hawthorn skewers,[^1] too.”
 
 “Hey, me too!”
 
@@ -274,7 +274,7 @@ His last question was directed at me. I nodded and held out the Divine Physician
 
 “Pardon?”
 
-No way. Had he forgotten about it?
+No way. Had he forgotten?
 
 The Divine Physician tilted his head. Only after Mungyeong reminded him again did he let out a small exclamation.
 
@@ -286,7 +286,7 @@ The Divine Physician tilted his head. Only after Mungyeong reminded him again di
 
 “Yes, that’s right.”
 
-“Is it about the nun you brought here? If so, there is no need to worry too much. She has already made it past the immediate crisis.”
+“Is it about the nun you brought here? If so, there is no need to worry too much. She has already survived the immediate crisis.”
 
 The Divine Physician looked toward the hut where Venerable Myoryeong lay and continued.
 
@@ -300,13 +300,13 @@ I took a deep breath before speaking.
 
 “Another patient?”
 
-“The person who gave me the token said that there was only one person under heaven who could treat him. You.”
+“The man who gave me this token said that only the Divine Physician could treat him.”
 
 “Only I can treat him…”
 
 The Divine Physician repeated the words quietly, then spoke.
 
-“Birth, aging, sickness, and death are not things a mere human can decide. But if there is even the slightest possibility, I will do my best as a physician.”
+“Birth, aging, sickness, and death are not for mere humans to decide. But if there is even the slightest possibility, I will do my utmost as a physician.”
 
 “That’s enough… That’s all I need.”
 
@@ -318,7 +318,7 @@ The doctor in charge of her surgery had said the same thing.
 
 For Hayeon and me, those words had been our only hope, and the surgery had been a success.
 
-Just as I had done with that doctor in the past, I tightly gripped the Divine Physician’s wrinkled hand.
+Just as I had done with that doctor in the past, I clasped the Divine Physician’s wrinkled hand.
 
 “Please. Old Man Dong.”
 
@@ -332,9 +332,9 @@ Once Jeok Cheongang, who had been lying on the pack frame, was carried into the 
 
 Butterflies and honeybees flitted through the flower field, and fresh green leaves sprouted from the trees, but I felt nothing.
 
-*It went well, right? It must have gone well.*
+*It went well. It must have gone well.*
 
-I could not even bring myself to approach the hut, afraid that I might hear something negative.
+I could not even bring myself to approach the hut, afraid that I might hear something bad.
 
 I walked for a long time, endlessly repeating that single thought.
 
