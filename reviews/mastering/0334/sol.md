@@ -4,9 +4,9 @@ Time flowed like a river.
 
 It was a common, well-worn metaphor, but that was exactly how my three days aboard the swift ship passed.
 
-*Thanks to this ship, we cut down our travel time by quite a bit.*
+*It saved us a hell of a lot of time.*
 
-True to the name Yangtze River Channel League, Mu Song and the river bandits of Water Dragon Stronghold were all outstanding sailors. They knew the lower reaches of the Yangtze, which ran throughout Sichuan, as well as the palms of their hands.
+True to the name Yangtze River Channel League, Mu Song and the river bandits of Water Dragon Stronghold were all outstanding sailors. They knew the waterways of the Yangtze that crisscrossed Sichuan like the backs of their hands.
 
 “We’ll be there soon, Old Master.”
 
@@ -26,7 +26,7 @@ And… our sole hope lay with one person whose medical skills had reached a godl
 
 A mysterious figure whose face, name, age, and even gender were unknown.
 
-The Divine Physician first became known more than forty years ago, though, so I figured they had to be over sixty.
+Still, the Divine Physician had first made a name for themself more than forty years ago, so I figured they had to be at least sixty.
 
 *I’ll find the Divine Physician no matter what… and wake you up.*
 
@@ -84,7 +84,7 @@ He pulled his acupuncture and moxibustion supplies from the small bundle clutche
 
 I pretended I was about to rap him on the head, and Mungyeong flinched.
 
-A quiet laugh escaped me.
+I couldn’t help laughing.
 
 “I’m kidding, you idiot.”
 
@@ -94,7 +94,7 @@ Traveling aboard a swift ship that sailed day and night was surprisingly gruelin
 
 Whenever I finished circulating my internal energy and contemplating martial arts, I wandered the deck for some fresh air. Every time I did, I saw Mungyeong.
 
-*He was always checking on everyone else’s condition.*
+*He was always checking on everyone.*
 
 He was a good kid. Apparently, he was also quite skilled. Even the river bandits who had been skeptical of him at first often approached him shyly for treatment.
 
@@ -114,7 +114,7 @@ Once someone told him who we were, he seemed to take an interest in the Murim an
 
 In any case, Mungyeong had naturally blended into our group over those three short days.
 
-*Once we reach Chengdu, this will probably be the last time we sit across from each other and talk.*
+*This will probably be the last time we talk face-to-face.*
 
 Once we reached Chengdu, our paths would naturally diverge.
 
@@ -122,7 +122,7 @@ I grabbed Mungyeong by the shoulder as he rose onto his toes and peeked over min
 
 “Ow! That hurts!”
 
-“What are you so curious about that you’re craning your neck like that?”
+“What are you so curious about?”
 
 “Nothing. I just thought I saw someone’s foot through the gap in the door.”
 
@@ -152,11 +152,11 @@ He swallowed hard at my ominous tone and began backing away.
 
 “Eek!”
 
-Thump! Bang!
+Stumble. Thud!
 
 Mungyeong stepped on Hyuk Mujin as he backed away, fell over, then scrambled to his feet and fled.
 
-Hyuk Mujin, whose back had been stepped on in the confusion, opened his eyes.
+Hyuk Mujin, whose back had been trampled in the confusion, slowly opened his eyes.
 
 “H-Huh? I could’ve sworn I was just talking to Mungyeong.”
 
@@ -180,9 +180,9 @@ A giant standing at the stern of the slowing swift ship turned and greeted me.
 
 “…Is it just me, or have your answers gotten shorter?”
 
-“It’s entirely your imagination. My voice is naturally a little quiet.”
+“It’s entirely your imagination. I’ve always had a quiet voice.”
 
-Mu Song, the giant, stared at me with a dubious expression before calling over one of his subordinates and giving an order.
+Mu Song stared at me dubiously before calling over a nearby subordinate.
 
 “Lower the blue flag and raise the white one.”
 
@@ -196,7 +196,7 @@ It might have sounded like some sort of blue-flag, white-flag game, but this was
 
 “How?”
 
-“Can you see it?”
+“See for yourself.”
 
 Mu Song pointed toward the slowly approaching pier.
 
@@ -206,7 +206,7 @@ We might have been far from the city center, but Chengdu was the capital and hea
 
 “Well? They all look used to us, don’t they?”
 
-“They do. It’s strange how little attention they’re paying us.”
+“They do. It’s strange how little attention they’re paying.”
 
 “It wasn’t always like this. Hwang Tae-gu, that son of a bitch, caused all kinds of trouble before I came along.”
 
@@ -220,7 +220,7 @@ Mu Song ground his teeth before continuing.
 
 “What kind of compromise?”
 
-“I’m different from Hwang Tae-gu. Only a complete idiot kills powerless commoners every time he gets the chance. It’s like killing our own customers with our own hands.”
+“I’m different from Hwang Tae-gu. Only a complete idiot goes around killing defenseless commoners whenever he gets the chance. That would be like killing our own customers.”
 
 “…”
 
@@ -228,15 +228,15 @@ Mu Song ground his teeth before continuing.
 
 That wasn’t very convincing.
 
-No matter how I looked at it, the only reason Mu Song didn’t kill people seemed to be money.
+No matter how I looked at it, money was the sole reason Mu Song didn’t kill people.
 
 *What a money-mad river bandit.*
 
 I couldn’t deny that Mu Song had a talent for shaking people down.
 
-In any case, unlike Hwang Tae-gu, who robbed and killed indiscriminately, the moderate Mu Song had tried negotiating with the authorities and demonstrated considerable skill in doing so.
+In any case, unlike Hwang Tae-gu, who had robbed and killed indiscriminately, the moderate Mu Song had negotiated with the authorities—and demonstrated considerable skill in the process.
 
-“Our range of activity has widened a little, while the authorities have received fewer petitions over people being killed by river bandits. Isn’t that a benefit to both sides?”
+“We expanded our territory a little, and the authorities received fewer petitions about people being killed by river bandits. Both sides benefited, didn’t they?”
 
 “Even so, they let you come this far?”
 
@@ -282,7 +282,7 @@ The official snatched the bundle out of the air after it sailed toward him in a 
 
 “I wish you martial fortune, Stronghold Lord!”
 
-*For fuck’s sake. The country’s in fine shape.*
+*For fuck’s sake. The country’s really going to hell.*
 
 After their cordial exchange, the warship turned back the way it had come, and the swift ship glided leisurely toward the pier.
 
@@ -294,7 +294,7 @@ After their cordial exchange, the warship turned back the way it had come, and t
 
 Fair enough. Worse things happened in the real world, so what was the big deal?
 
-I gave Mu Song, who was laughing heartily, a respectful clasped-fist salute.
+I gave the heartily laughing Mu Song a respectful clasped-fist salute.
 
 “Thank you for your help, Senior. We had a comfortable journey thanks to you.”
 
@@ -362,13 +362,13 @@ Mungyeong blinked, looking back and forth between me and the silver nyang in his
 
 After the Bermuda Triangle and I exchanged farewells with Mungyeong, we turned to leave.
 
-Hyuk Mujin, who had suffered through prolonged seasickness, quietly came up beside me and spoke.
+Hyuk Mujin, who had suffered from seasickness throughout the voyage, sidled up beside me.
 
 “Captain, I’m exhausted. Can’t we rest for half a day before leaving?”
 
 “No. It’s only another half day, so rest when we get there.”
 
-“That’s only half a day if we use a movement technique. And I heard the people of the Sichuan Tang Clan are terrifying… We’ll have to be careful even when we breathe.”
+“That’s only if we use a movement technique. And I heard the people of the Sichuan Tang Clan are terrifying… We’ll have to watch ourselves even when we breathe.”
 
 “Then don’t rest. Die.”
 
