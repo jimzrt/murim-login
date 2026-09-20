@@ -382,6 +382,8 @@ class ReportServerTest(unittest.TestCase):
         self.assertEqual(parse_chapter_list(b"[0, 160]"), [0, 160])
         self.assertIsNone(parse_chapter_list(b"[-1]"))
         self.assertIsNone(parse_chapter_list(b"["))
+        self.assertEqual(parse_chapter_list(b"[" + b",".join(b"1" for _ in range(501)) + b"]"), [1] * 501)
+        self.assertIsNone(parse_chapter_list(b"[" + b",".join(b"1" for _ in range(5001)) + b"]"))
 
     def test_webhook_hmac(self):
         payload = b'{"ok":true}'

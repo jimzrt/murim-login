@@ -108,16 +108,8 @@ const { count, size, warnings } = await generateSW({
       handler: "NetworkOnly",
     },
     {
-      urlPattern: /\/view-counts$/,
-      handler: "NetworkFirst",
-      options: {
-        cacheName: "view-counts",
-        networkTimeoutSeconds: 3,
-        expiration: {
-          maxEntries: 1,
-          maxAgeSeconds: 60,
-        },
-      },
+      urlPattern: /\/view-counts\/?$/,
+      handler: "NetworkOnly",
     },
     {
       urlPattern: /\/chapters\.json$/,

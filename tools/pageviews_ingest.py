@@ -15,6 +15,7 @@ from urllib.parse import urlparse
 
 CHAPTER_RE = re.compile(r"^(?:/murim-login)?/chapter/(\d+)/?$")
 HOME_RE = re.compile(r"^(?:/murim-login)?/?$")
+QUERY_IN_CHUNK = 400
 BOT_RE = re.compile(
     r"(bot|crawler|spider|slurp|fetch|preview|scanner|scrapy|"
     r"bytespider|gptbot|claudebot|amazonbot|applebot|semrush|"
@@ -175,16 +176,38 @@ def query_counts(chapters: list[int]) -> list[dict[str, int]]:
         return [{"chapter": chapter, "count": 0} for chapter in unique]
     conn = sqlite3.connect(path)
     try:
-        placeholders = ",".join("?" * len(unique))
-        rows = conn.execute(
-            f"""SELECT chapter, COUNT(DISTINCT ip_hash)
-                FROM pageviews
-                WHERE chapter IN ({placeholders}) AND ip_hash IS NOT NULL
-                GROUP BY chapter""",
-            unique,
-        ).fetchall()
-        counts = {int(row[0]): int(row[1]) for row in rows}
+        counts: dict[int, int] = {}
+        for start in range(0, len(unique), QUERY_IN_CHUNK):
+            chunk = unique[start : start + QUERY_IN_CHUNK]
+            placeholders = ",".join("?" * len(chunk))
+            rows = conn.execute(
+                f"""SELECT chapter, COUNT(DISTINCT ip_hash)
+                    FROM pageviews
+                    WHERE chapter IN ({placeholders}) AND ip_hash IS NOT NULL
+                    GROUP BY chapter""",
+                chunk,
+            ).fetchall()
+            for row in rows:
+                counts[int(row[0])] = int(row[1])
         return [{"chapter": chapter, "count": counts.get(chapter, 0)} for chapter in unique]
+    finally:
+        conn.close()
+
+
+def query_all_counts() -> list[dict[str, int]]:
+    path = db_path()
+    if not path.is_file():
+        return []
+    conn = sqlite3.connect(path)
+    try:
+        rows = conn.execute(
+            """SELECT chapter, COUNT(DISTINCT ip_hash)
+               FROM pageviews
+               WHERE chapter IS NOT NULL AND ip_hash IS NOT NULL
+               GROUP BY chapter
+               ORDER BY chapter"""
+        ).fetchall()
+        return [{"chapter": int(row[0]), "count": int(row[1])} for row in rows]
     finally:
         conn.close()
 
