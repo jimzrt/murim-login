@@ -875,3 +875,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 매종학 | younger ally to newly installed Alliance Leader | Alliance Leader | formal and deferential | Uses 맹주님 while formally greeting Mae Jonghak as the Alliance Leader. |
 | 황보군 | 매종학 | old_battlefield_comrade_to_current_alliance_leader | Great Hero Mae; Alliance Leader | formal-deferential | Hwangbo Gun begins with Great Hero Mae, then switches to the formal Alliance Leader. |
 | 매종학 | 황보군 | old_battlefield_comrade_to_family_head | you | casual-familiar | Mae uses 자네 while addressing Hwangbo Gun. |
+| 문경 | 청풍 | martial_master_to_prospective_companion | you | blunt and informal | Mungyeong questions Cheongpung about Mimi Step and why he offered to accompany him. |
