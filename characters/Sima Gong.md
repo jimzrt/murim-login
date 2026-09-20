@@ -1,6 +1,6 @@
 # Sima Gong (사마공)
 
-- **Safe through:** Chapter 542
+- **Safe through:** Chapter 543
 - **Aliases:** Black Night King
 - **Role:** Sima Gong is the Sect Leader who built the Black Dragon Demon Gate into a major unorthodox power and the father of its Young Sect Leader, Sama Pyo.
 - **Personality:** Sly, cunning, and inscrutable, with a ruthless reputation for valuing talent above family ties.

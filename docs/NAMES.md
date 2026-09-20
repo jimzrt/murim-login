@@ -1757,3 +1757,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 원썬 | **One Sun** | Humorous mistaken reference to the name used for Old Man Ilyang. |
 | 흑야왕 | **Black Night King** | Epithet of Sima Gong, Sama Pyo's father and the Sect Leader who built the modern Black Dragon Demon Gate. |
 | 녹림투왕 | **Green Forest Battle King** | Epithet of the Green Forest Alliance Leader, distinguished from the Ten Kings. |
+| 영창 피아노 | **Young Chang piano** | Piano brand used in a voice comparison. |
