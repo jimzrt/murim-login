@@ -42,8 +42,6 @@ We were still too far away to judge its exact height, but it looked well over te
 
 “You know nothing, Gung Snow.”
 
-Gung Gibang looked at me as though he were staring at a madman before opening his mouth.
-
 Gung Gibang looked at me as if I were insane, then said, “Repay kindness twofold. Repay grudges ten thousandfold.”
 
 “Damn, that’s intense.”
@@ -52,11 +50,11 @@ Gung Gibang looked at me as if I were insane, then said, “Repay kindness twofo
 
 “Poisoning?”
 
-“Poisoning, assassination, and even sending out pursuit squads to hunt them down independently. They died in all sorts of ways. A few may have survived through sheer luck, but they probably weren’t really living even if they were alive.”
+“Poisoning, assassination, even independent pursuit squads sent to hunt them down. They died in every way imaginable. A few may have survived through sheer luck, but they probably wished they hadn’t.”
 
 Understandable.
 
-Could that person walking toward me be an assassin sent by the Tang Clan? Had they perhaps poisoned the teacup? Trapped in a prison created by psychological pressure, they would have suffered from nervous exhaustion for the rest of their life.
+Was that person coming toward them an assassin sent by the Tang Clan? Had someone poisoned their teacup? Trapped in a prison of their own paranoia, their nerves must have been shot for the rest of their lives.
 
 They probably spent their days trembling in a corner with a sword in one hand and a silver spoon in the other.
 
@@ -76,13 +74,13 @@ Even factions that hadn’t sent their young prodigies to compete in the Star-Ar
 
 *They do whatever the fuck they want. No brakes.*
 
-I could feel it. The more I listened, the more uneasy I became.
+I got the picture. And the more I heard, the more uneasy I became.
 
 *What if they turn us down flat?*
 
 I had even brought a letter from the Sword Saint Mae Jonghak to request their cooperation, but I couldn’t shake the feeling that something might go wrong.
 
-I was suppressing those thoughts and using my movement technique when Gung Gibang suddenly spoke.
+I was trying to suppress those thoughts as we sped along using our movement techniques when Gung Gibang suddenly spoke.
 
 “We should walk from here.”
 
@@ -120,9 +118,9 @@ With a fierce gust of wind, a figure shot straight toward the front gate.
 
 Cheongpung hurtled forward, waving energetically, with a boy of similar build riding on his back.
 
-Cheongpung spoke to Mungyeong, who was swaying pitifully in every direction.
+He spoke to Mungyeong, who was swaying pitifully in every direction.
 
-“Medical apprentice, say hello!”
+“Medical Apprentice, say hello!”
 
 “H-Hello!”
 
@@ -144,7 +142,7 @@ Then, in the next instant—
 
 Dozens of crossbows appeared atop the wall along with the shout, which carried powerful internal energy.
 
-Between the countless arrowheads glittering in the sunlight, a middle-aged man with his eyes wide open shouted at us again.
+From amid the countless arrowheads glittering in the sunlight, a glaring middle-aged man shouted at us again.
 
 “Outsiders, identify yourselves!”
 
@@ -176,7 +174,7 @@ I jerked my chin toward Gung Gibang, who had arrived a beat later, and continued
 
 His tone and expression remained suspicious, but the middle-aged man’s wariness eased considerably.
 
-When he crooked a finger, the crossbows aimed at us lowered toward the ground.
+At a crook of his finger, the crossbows aimed at us lowered toward the ground.
 
 “What brings you to our family?”
 
@@ -198,7 +196,7 @@ The Sword Saint Mae Jonghak was no fool. There was a reason he had written the l
 
 *Why is he being so damn firm? I didn’t plan for this.*
 
-Gung Gibang seemed to be thinking the same thing. He whispered in a voice as small as an ant.
+Gung Gibang seemed to be thinking the same thing. He whispered in a voice as quiet as an ant.
 
 “Something’s strange. Even for a closed-off place like the Sichuan Tang Clan, this is too much…”
 
@@ -218,13 +216,13 @@ After a brief hesitation, I stared straight at the middle-aged man.
 
 “Please allow me to meet the Family Head.”
 
-The effect was immediate. The Sword Saint Mae Jonghak was an idol to martial artists and a giant among giants who might become the Alliance Leader of the New Murim Alliance.
+The effect was immediate. The Sword Saint Mae Jonghak was an idol to martial artists and a giant among giants who might become the Alliance Leader of the new Murim Alliance.
 
 He was in a completely different league from greenhorns like us, who had only made names for ourselves within the past year or two.
 
 “……Hmm. Wait here a moment.”
 
-The middle-aged man let out a groan and disappeared from the top of the stone wall. He returned a short while later.
+The middle-aged man let out a low hum and disappeared from the top of the wall. He returned several moments later.
 
 His first words were practically a foregone conclusion.
 
@@ -242,13 +240,13 @@ Not long after passing through the iron gate, I realized my earlier suspicion ha
 
 *Something happened. There’s no doubt about it.*
 
-The people who appeared to be members of the Sichuan Tang Clan were proof enough. Their guarded movements, tense eyes, and overall atmosphere said it all.
+The members of the Sichuan Tang Clan were proof enough. Their guarded movements, tense eyes, and the air surrounding them said it all.
 
 The sense that something was wrong grew even stronger after we left the Outer Hall and entered the Inner Hall.
 
 *Clang! Clang! Clang!*
 
-Craftsmen hammered away at something without pause. Martial artists dressed in uniforms walked around in pairs, while crates loaded with weapons and hidden weapons were carried from place to place.
+Craftsmen hammered away at something without pause. Martial artists dressed in uniforms patrolled in pairs, while crates loaded with weapons and hidden weapons were carried from place to place.
 
 At the sight, Gung Gibang and I exchanged Sound Transmission.
 
@@ -258,7 +256,7 @@ At the sight, Gung Gibang and I exchanged Sound Transmission.
 
 *“Could they have found some demonic fiend? Maybe one of the men who set fire to the Sichuan Tang Clan during the Great Faction War.”*
 
-*“I don’t know. For now, we should keep our mouths shut and pretend we don’t know anything.”*
+*“I don’t know. For now, we should keep our mouths shut and pretend we haven’t noticed anything.”*
 
 I had already been planning to do that. If they had intended to tell us, they would have done so by now.
 
@@ -298,17 +296,17 @@ So why did it sound like a warning to keep our mouths shut if we wanted to live 
 
 *Why else? Because that’s exactly what he meant, damn it.*
 
-Maybe it was because of the Tang Clan’s association with poison and hidden weapons.
+Maybe it was the Tang Clan’s association with poison and hidden weapons.
 
 The middle-aged man and the other members of the Tang Family were clearly a step below me in skill, yet they all gave off an unmistakably dangerous scent.
 
 “Hold your breath. That’s poison mist. It smells awful.”
 
-“……Oh. Yes.”
+“……Oh. Right.”
 
 *So that was the dangerous smell?*
 
-I glared at the blue-haired bastard, who was still looking around with a bright expression, and continued walking behind the middle-aged man.
+I glared at the blue-haired bastard, who was still looking around brightly, and followed the middle-aged man onward.
 
 After walking for some time, we passed through five gates and finally stopped in front of the sixth.
 
@@ -350,7 +348,7 @@ Reading the sincerity in my plea, he was about to order the guards to let us pas
 
 *Oh, right. He was here.*
 
-The “you” the middle-aged man was referring to was Mungyeong.
+The middle-aged man was pointing at Mungyeong.
 
 “I hear you’re a medical apprentice who came to our family to obtain a prescription.”
 
@@ -362,7 +360,7 @@ Having been dragged this far before he even knew what was happening, Mungyeong a
 
 “Th-Thank you.”
 
-Mungyeong bowed deeply before disappearing with one of the martial artists. The middle-aged man took the lead and beckoned to us.
+Mungyeong bowed deeply before disappearing with one of the martial artists. The middle-aged man stepped forward and beckoned to us.
 
 “Let us go inside.”
 
@@ -372,7 +370,7 @@ And at the top, a single door.
 
 “Uncle, it’s me.”
 
-An elderly voice answered the middle-aged man.
+An aged voice answered the middle-aged man.
 
 “Come in.”
 

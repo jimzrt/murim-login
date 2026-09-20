@@ -16,25 +16,25 @@ One of the three tigers crouching in Sichuan, it was also the closest to Chengdu
 
 *If we can get the cooperation of all three factions and bring the Beggars’ Sect into the picture, things should go much more smoothly.*
 
-As I was thinking this, Gung Gibang, who had been following a step behind me, pointed ahead.
+As I was thinking this, Gung Gibang, who had been following one step behind me, pointed ahead.
 
 “We’re almost there. The Sichuan Tang Clan.”
 
-He was right. A wide basin stretched out before us, with a towering stone wall rising from it.
+He was right. A wide basin stretched out before us. Rising high above it was a stone wall.
 
-We were still too far away to judge its exact height, but it looked well over ten meters tall.
+We were still too far away to judge its exact height, but it looked like it easily exceeded ten meters.
 
 “What the hell? Why did they build a fortress?”
 
-“History taught them a lesson.”
+“They learned from history.”
 
 “History?”
 
-“They suffered terribly during the Great Faction War. When the Demonic Cult occupied Sichuan, many members of the Tang Family were killed, and even Tang Family Hill, the clan’s main base, was burned to the ground.”
+“They suffered terribly during the Great Faction War. When the Demonic Cult occupied Sichuan, many members of the Tang Family were killed, and even Tang Family Hill, the clan’s main base, was burned down.”
 
 “Their home base got completely wrecked.”
 
-“It wasn’t that one-sided. As they retreated, they released all kinds of deadly poisons, so the Demonic Cult bastards who charged in without knowing what they were walking into died in droves too. Do you know the Sichuan Tang Clan’s motto?”
+“Not entirely. As they retreated, they released all kinds of deadly poisons, so the Demonic Cult bastards who charged in without knowing what they were doing died in droves, too. Do you know what the Sichuan Tang Clan’s motto is?”
 
 “Uh… ‘The North Remembers’?”
 
@@ -44,27 +44,27 @@ We were still too far away to judge its exact height, but it looked well over te
 
 Gung Gibang looked at me as though he were staring at a madman before opening his mouth.
 
-Gung Gibang looked at me as if I were insane, then said, “Repay kindness twofold. Repay grudges ten thousandfold.”
+“Repay kindness twofold. Repay grudges ten thousandfold.”
 
 “Damn, that’s intense.”
 
-“It was. The demonic, heterodox bastards who sided with the Demonic Cult during the occupation of Sichuan died shitting and pissing through all seven apertures.”
+“It was. The demonic, heterodox bastards who sided with the Demonic Cult during the occupation of Sichuan died while shitting and pissing through all seven apertures.”
 
 “Poisoning?”
 
 “Poisoning, assassination, and even sending out pursuit squads to hunt them down independently. They died in all sorts of ways. A few may have survived through sheer luck, but they probably weren’t really living even if they were alive.”
 
-Understandable.
+I could understand why.
 
-Could that person walking toward me be an assassin sent by the Tang Clan? Had they perhaps poisoned the teacup? Trapped in a prison created by psychological pressure, they would have suffered from nervous exhaustion for the rest of their life.
+The people approaching us from the other side might be assassins sent by the Tang Clan. Maybe one of them had poisoned the teacup. Trapped in a prison created by psychological pressure, their nerves would have been shot for the rest of their lives.
 
-They probably spent their days trembling in a corner with a sword in one hand and a silver spoon in the other.
+They probably trembled in the corner of a room with a sword in one hand and a silver spoon in the other.
 
-“When it comes to poison and hidden weapons, the Sichuan Tang Clan is number one under heaven. No one can match how closed-off and relentless they are. Did you see anyone from the Sichuan Tang Clan at the Star-Array Grand Banquet?”
+“When it comes to poison and hidden weapons, the Sichuan Tang Clan is number one under heaven. No one can match them in being closed-off and relentless. Did you see anyone from the Sichuan Tang Clan at the Star-Array Grand Banquet?”
 
-Thinking back, I couldn’t remember seeing a single one.
+Thinking back, I didn’t think I had seen a single one.
 
-Even factions that hadn’t sent their young prodigies to compete in the Star-Array Grand Banquet, such as the Nangong Family, had sent important figures. But I hadn’t heard of anyone coming from the Sichuan Tang Clan.
+Even factions that hadn’t sent their young prodigies to participate in the Star-Array Grand Banquet, such as the Nangong Family, had sent important figures. But I hadn’t heard that anyone from the Sichuan Tang Clan had come.
 
 “I don’t think so.”
 
@@ -74,13 +74,13 @@ Even factions that hadn’t sent their young prodigies to compete in the Star-Ar
 
 “That’s the Sichuan Tang Clan.”
 
-*They do whatever the fuck they want. No brakes.*
+*They did whatever the fuck they wanted. No backing down.*
 
 I could feel it. The more I listened, the more uneasy I became.
 
 *What if they turn us down flat?*
 
-I had even brought a letter from the Sword Saint Mae Jonghak to request their cooperation, but I couldn’t shake the feeling that something might go wrong.
+I had even brought a letter from the Sword Saint Mae Jonghak to request their cooperation, but the uneasiness refused to go away.
 
 I was suppressing those thoughts and using my movement technique when Gung Gibang suddenly spoke.
 
@@ -88,25 +88,25 @@ I was suppressing those thoughts and using my movement technique when Gung Giban
 
 “Do we really have to?”
 
-“They probably won’t appreciate us approaching at high speed.”
+“They probably won’t like it if we suddenly approach at high speed.”
 
-“They might.”
+“They might like it.”
 
 Gung Gibang pointed at a massive boulder a few paces ahead.
 
-Written across it in blood-red letters were the words:
+Written across it in blood-red letters were the following words:
 
 > Anyone who approaches without permission will pay a blood debt.
 
-“Let’s walk. I’ve been wanting to walk for a while now.”
+“Let’s walk. I’ve wanted to walk for a while now.”
 
 “……”
 
-“Hey, sometimes you need to look around at the scenery and gaze up at the sky. That’s what living is all about.”
+“Hey, sometimes you need to look around at the scenery and gaze up at the sky. That’s what living like a normal person is about.”
 
 Gung Gibang, Hyuk Mujin, and I stopped using our movement techniques.
 
-One person did not.
+But one person did not.
 
 With a fierce gust of wind, a figure shot straight toward the front gate.
 
@@ -118,7 +118,7 @@ With a fierce gust of wind, a figure shot straight toward the front gate.
 
 “I’m Cheongpung!”
 
-Cheongpung hurtled forward, waving energetically, with a boy of similar build riding on his back.
+A boy of similar build was riding on his back as Cheongpung shot forward, waving energetically.
 
 Cheongpung spoke to Mungyeong, who was swaying pitifully in every direction.
 
@@ -128,9 +128,9 @@ Cheongpung spoke to Mungyeong, who was swaying pitifully in every direction.
 
 *Please don’t.*
 
-*Don’t make him do weird things. And don’t do them just because he tells you to.*
+*Don’t make him do anything weird. And don’t do it just because he tells you to.*
 
-I lunged forward to grab Cheongpung by the scruff of his neck, but the Sichuan Tang Clan’s response came faster.
+I lunged forward to grab Cheongpung by the scruff of his neck, but the Sichuan Tang Clan’s answer came faster.
 
 *Whoooosh! Boom!*
 
@@ -138,11 +138,11 @@ A massive spear as tall as a grown man hurtled down from atop the stone wall. It
 
 Then, in the next instant—
 
-“Who goes there?”
+“Who are you people?”
 
 *Clatter-clatter-clatter!*
 
-Dozens of crossbows appeared atop the wall along with the shout, which carried powerful internal energy.
+Along with the shout, which carried powerful internal energy, dozens of crossbows appeared above the stone wall.
 
 Between the countless arrowheads glittering in the sunlight, a middle-aged man with his eyes wide open shouted at us again.
 
@@ -152,17 +152,19 @@ Cheongpung answered.
 
 “Hello! I’m Cheongpung!”
 
-“I-I am Mungyeong. P-please show mercy and lower your weapons, and I shall repay this grace even if this body dies and dies, then dies a hundred times over, until— Mmph!”
+“I-I am Mungyeong. P-please show mercy and lower your weapons, and I shall repay this grace even if this body dies and dies, then dies a hundred times over, until—”
+
+“Mmph! Mmph!”
 
 *Stop it, you trolls!*
 
-I hurriedly clamped my hands over Cheongpung’s and Mungyeong’s mouths, then bowed repeatedly toward the wall.
+I hurriedly clamped both hands over Cheongpung and Mungyeong’s mouths before bowing repeatedly toward the stone wall.
 
-“I’m sorry. I’m sorry. The kids don’t know any better. My name is Jin Taekyung of the Jin Family of Taiyuan.”
+“I’m sorry. I’m sorry. The kids are still immature. My name is Jin Taekyung of the Jin Family of Taiyuan.”
 
 “Jin Taekyung of the Jin Family of Taiyuan?”
 
-The middle-aged man thought for a moment, then his eyes widened slightly.
+The middle-aged man’s eyes widened slightly as he thought.
 
 “Jin Taekyung, the Sleeping Dragon of Shanxi—the Disciple of Great Hero Jeok Cheongang, the Fire King?”
 
@@ -170,11 +172,11 @@ The middle-aged man thought for a moment, then his eyes widened slightly.
 
 I jerked my chin toward Gung Gibang, who had arrived a beat later, and continued.
 
-“This is the Oseong-and-Haneum villain—no, the Beggars’ Sect’s Successor Beggar, Gung Gibang.”[^1]
+“This is the Oseong-and-Haneum villain—no, the Beggars’ Sect Successor Beggar, Gung Gibang.”[^1]
 
 “The Disciple of Great Hero Jeok Cheongang and the Beggars’ Sect’s Successor Beggar…”
 
-His tone and expression remained suspicious, but the middle-aged man’s wariness eased considerably.
+His tone and expression remained suspicious, but the middle-aged man’s wariness had eased considerably.
 
 When he crooked a finger, the crossbows aimed at us lowered toward the ground.
 
@@ -186,15 +188,15 @@ When he crooked a finger, the crossbows aimed at us lowered toward the ground.
 
 “Yes. It’s important.”
 
-The middle-aged man frowned, apparently displeased with my answer, but this wasn’t something we could announce to the whole neighborhood.
+The middle-aged man frowned, apparently displeased with my answer, but this was not something we could announce to the neighborhood.
 
-The Sword Saint Mae Jonghak was no fool. There was a reason he had written the letter himself and entrusted us to deliver it in person instead of sending a messenger pigeon.
+The Sword Saint Mae Jonghak was no fool. There was a reason he had written a handwritten letter and sent it by hand instead of using a messenger pigeon.
 
-“The Family Head has many matters to handle right now. Our family is not accepting any outsiders whatsoever. Leave and return another time.”
+“His Excellency the Family Head has many matters to handle right now. Our family is not accepting any outsiders whatsoever, so withdraw and come another time.”
 
 “You only need to deliver a message.”
 
-“Impossible. The Family Head himself gave me these orders. And if your business were truly that important, you should have contacted us in advance.”
+“Impossible. The person who gave me this order was the Family Head himself. And if it was really that important, you should have contacted us in advance.”
 
 *Why is he being so damn firm? I didn’t plan for this.*
 
@@ -202,21 +204,21 @@ Gung Gibang seemed to be thinking the same thing. He whispered in a voice as sma
 
 “Something’s strange. Even for a closed-off place like the Sichuan Tang Clan, this is too much…”
 
-I agreed. Pointing crossbows at us without warning and maintaining this level of vigilance were things one would expect only in wartime.
+I agreed. Pointing crossbows at us right away and maintaining such intense vigilance from the beginning were things one would expect only in wartime.
 
 *What a warm welcome.*
 
-Still, we had come to ask for their cooperation. I couldn’t simply complain. If we wanted to meet the Family Head, it seemed we would have to show at least half our hand, even if we didn’t reveal everything.
+Still, we had come to ask for their cooperation. I couldn’t simply complain. If we wanted to meet the Family Head, it seemed we would have to show him at least half our cards, even if we didn’t reveal everything.
 
 *Can’t be helped.*
 
-After a brief hesitation, I stared straight at the middle-aged man.
+After hesitating for a moment, I stared straight at the middle-aged man and opened my mouth.
 
 “I brought a letter from Great Hero Mae Jonghak, the Sword Saint.”
 
 “……!”
 
-“Please allow me to meet the Family Head.”
+“Please let me meet the Family Head.”
 
 The effect was immediate. The Sword Saint Mae Jonghak was an idol to martial artists and a giant among giants who might become the Alliance Leader of the New Murim Alliance.
 
@@ -226,7 +228,7 @@ He was in a completely different league from greenhorns like us, who had only ma
 
 The middle-aged man let out a groan and disappeared from the top of the stone wall. He returned a short while later.
 
-His first words were practically a foregone conclusion.
+And his first words were practically a foregone conclusion.
 
 “The Family Head has granted permission.”
 
@@ -238,31 +240,31 @@ The enormous iron gate slowly opened its jaws with a grinding groan.
 
 * * *
 
-Not long after passing through the iron gate, I realized my earlier suspicion had been correct.
+Not long after passing through the iron gate, I realized that my earlier suspicion had been correct.
 
 *Something happened. There’s no doubt about it.*
 
 The people who appeared to be members of the Sichuan Tang Clan were proof enough. Their guarded movements, tense eyes, and overall atmosphere said it all.
 
-The sense that something was wrong grew even stronger after we left the Outer Hall and entered the Inner Hall.
+The sense of incongruity grew even stronger after we left the Outer Hall and entered the Inner Hall.
 
 *Clang! Clang! Clang!*
 
 Craftsmen hammered away at something without pause. Martial artists dressed in uniforms walked around in pairs, while crates loaded with weapons and hidden weapons were carried from place to place.
 
-At the sight, Gung Gibang and I exchanged Sound Transmission.
+Gung Gibang and I exchanged Sound Transmission.
 
 *“Hey, am I the only one getting a bad feeling?”*
 
-*“I feel it too. It looks like they’re preparing for battle.”*
+*“That’s what I was thinking. It looks like they’re preparing for battle.”*
 
-*“Could they have found some demonic fiend? Maybe one of the men who set fire to the Sichuan Tang Clan during the Great Faction War.”*
+*“Could they have discovered some demonic fiend? Maybe one of the men who set fire to the Sichuan Tang Clan during the Great Faction War.”*
 
 *“I don’t know. For now, we should keep our mouths shut and pretend we don’t know anything.”*
 
-I had already been planning to do that. If they had intended to tell us, they would have done so by now.
+I had already been planning to do that. If they had intended to tell us, they would have done so already.
 
-The real problem was that only I had heard the Sound Transmission.
+But the real problem was that the Sound Transmission had only reached me.
 
 “Wow! I’ve never seen anything like this before! Are you preparing for a war or something?”
 
@@ -272,7 +274,7 @@ The real problem was that only I had heard the Sound Transmission.
 
 For a moment, I thought the world had stopped.
 
-The craftsmen and martial artists around us froze in place and silently stared at us.
+The craftsmen and martial artists around us stopped whatever they were doing and silently stared at us.
 
 Hundreds of gazes pierced my entire body like hidden weapons.
 
@@ -284,23 +286,23 @@ One second. Two seconds. Three seconds.
 
 By the time my mouth had dried out like the sand around the Sphinx’s front paws, the middle-aged man guiding us spoke to the others.
 
-“What are you doing? Get back to work.”
+“What are you doing? Why aren’t you continuing your work?”
 
 Only then did the world begin moving again.
 
-The middle-aged man glanced at the people returning to their tasks, then casually tossed a remark our way.
+The middle-aged man glanced at the people who had gone back to their tasks before casually tossing a remark at us.
 
 “You all look tight-lipped. I like that.”
 
-On the surface, it sounded like a compliment.
+It sounded like a compliment on the surface.
 
-So why did it sound like a warning to keep our mouths shut if we wanted to live long, healthy lives?
+But why did it sound like he was telling us to keep our mouths shut if we wanted to live long, healthy lives?
 
-*Why else? Because that’s exactly what he meant, damn it.*
+*Why? Because that’s exactly what he meant, damn it.*
 
 Maybe it was because of the Tang Clan’s association with poison and hidden weapons.
 
-The middle-aged man and the other members of the Tang Family were clearly a step below me in skill, yet they all gave off an unmistakably dangerous scent.
+The middle-aged man, along with the other members of the Tang Family, was clearly one level below me in skill, but they all gave off an unmistakably dangerous scent.
 
 “Hold your breath. That’s poison mist. It smells awful.”
 
@@ -310,11 +312,13 @@ The middle-aged man and the other members of the Tang Family were clearly a step
 
 I glared at the blue-haired bastard, who was still looking around with a bright expression, and continued walking behind the middle-aged man.
 
-After walking for some time, we passed through five gates and finally stopped in front of the sixth.
+I had no idea how long we walked.
+
+During that time, we passed through five gates and finally stopped in front of the sixth.
 
 “You cannot bring weapons into the Family Head’s Hall.”
 
-Following the middle-aged man’s instructions, we handed over all our weapons. Afterward, the martial artists guarding the hall searched us as well.
+Following the middle-aged man’s instructions, we handed over all our weapons. After that, the martial artists guarding the hall searched us as well.
 
 *They’re incredibly strict.*
 
@@ -334,17 +338,17 @@ At that moment, one of the guards patting me down in search of hidden weapons su
 
 I would rather pull out a poisoned hidden weapon than take that out in the Family Head’s Hall. It would be a much easier way to die.
 
-I reluctantly gave him permission to see for himself, and the middle-aged man’s eyes widened.
+After I reluctantly gave him permission to inspect the real thing, the middle-aged man’s eyes widened.
 
-“You’re quite impressive.”
+“You’re quite something.”
 
 “……Could you just let me through without saying anything?”
 
-“I understand. But you really are impressive.”
+“I understand. But you really are quite something.”
 
 “Oh, please.”
 
-Reading the sincerity in my plea, he was about to order the guards to let us pass when he suddenly frowned.
+Reading the sincerity mixed into my plea, he was about to order the guards to let us pass when he suddenly frowned.
 
 “I nearly forgot. You there, stay behind.”
 
@@ -354,11 +358,11 @@ The “you” the middle-aged man was referring to was Mungyeong.
 
 “I hear you’re a medical apprentice who came to our family to obtain a prescription.”
 
-Having been dragged this far before he even knew what was happening, Mungyeong answered in a trembling voice.
+Dragged along this far before he even knew what was happening, Mungyeong answered in a trembling voice.
 
 “Y-Yes.”
 
-“Under normal circumstances, it would be out of the question… but you were fortunate enough to fall in with the right group. I’ll assign someone to guide you, so go take care of your business.”
+“Under normal circumstances, it would be out of the question… but you were lucky enough to meet the right group. I’ll assign someone to you, so go take care of your business.”
 
 “Th-Thank you.”
 
@@ -368,7 +372,7 @@ Mungyeong bowed deeply before disappearing with one of the martial artists. The 
 
 Twenty steps made of blue stone.
 
-And at the top, a single door.
+And a single door at the top.
 
 “Uncle, it’s me.”
 
