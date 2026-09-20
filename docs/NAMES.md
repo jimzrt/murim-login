@@ -1900,3 +1900,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 철옹성 | **impregnable fortress** | Metaphor for Ares Guild's entrenched defenses. |
 | 대역 | **stand-in** | Jin's term for the substitute Go Jun used to fake Song Cheonwoo's departure. |
 | 효웅 | **ambitious warlord** | Archetype used for Lee Jungryong as a ruthless, ambitious ruler. |
+| 김종필 | **Kim Jong-pil** | Ares Guild managing director whose faction betrays the Guild on the eighty-fifth floor. |
+| 최 전무 | **Executive Director Choi** | Ares Guild executive who asks Go Se-won where the Vice Guild Master is. |

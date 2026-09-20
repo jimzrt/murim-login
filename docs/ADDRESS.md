@@ -983,3 +983,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 중년 여성 | 진태경 | Ares healer Team Leader to invading Hunter | Mr. Jin Taekyung | formal and wary | Uses 진태경 씨 while questioning why Jin is attacking. |
 | 진태경 | 중년 여성 | invading Hunter to Ares healer Team Leader | you | hostile and accusatory | Uses 당신 while blaming her and the other healers for obstructing him. |
 | 진태경 | 힐러 | invading Hunter to Ares healers | you people | profane and contemptuous | Uses 당신들이 while demanding that the healers save their fallen comrades and question Go Jun's order. |
+| 고세원 | 진태경 | Ares security leader to hostile invading Hunter | you | calm, resigned, and confrontational | Go Se-won asks Jin whether he was looking for him and negotiates with him after losing the fight. |
+| 진태경 | 고세원 | invading Hunter to hostile Ares security leader | Go Se-won | direct, questioning, and threatening | Jin calls Go Se-won's name, demands Go Jun's location, and questions why Go Se-won considers the day his last day at work. |
