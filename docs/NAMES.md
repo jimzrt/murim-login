@@ -1759,3 +1759,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 녹림투왕 | **Green Forest Battle King** | Epithet of the Green Forest Alliance Leader, distinguished from the Ten Kings. |
 | 영창 피아노 | **Young Chang piano** | Piano brand used in a voice comparison. |
 | 화룡각 | **Fire Dragon Pavilion** | New name chosen for Taekyung's pavilion. |
+| 오왕전 | **Five Kings Hall** | Organization containing five of the Ten Kings. |
+| 화룡각주 | **Fire Dragon Pavilion Master** | Unique Title awarded to Jin Taekyung. |
+| 칼밥통 무림맹 공무원 | **Murim Alliance Civil Servant with a Sword Rice Bowl** | Rare achievement title. |
+| 쟤 모르면 암천 | **If You Don't Know Him, You Must Be Dark Heaven** | Outstanding achievement title. |
+| 위압 | **Intimidation** | System attribute strengthened by the achievement reward. |

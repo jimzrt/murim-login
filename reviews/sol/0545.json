@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "“Go ahead. If you don’t want to die.”",
+      "defect": "“Go ahead” sounds as though Jeok Cheongang is granting Hyuk Mujin permission to join the Five Kings Hall. The Korean is a dismissive command backed by a death threat.",
+      "id": "F01",
+      "rationale": "The imperative 들어가라 dismisses Hyuk Mujin rather than approving his request, while 뒈지기 싫으면 supplies the threat.",
+      "replacement": "“Go. Unless you want to die.”",
+      "severity": "major",
+      "source": "“들어가라. 뒈지기 싫으면.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Some Titles and stats had been strengthened. And on top of that…",
+      "defect": "The draft says the Titles themselves were strengthened, but the preceding System notice and this recap refer specifically to their effects.",
+      "id": "F02",
+      "rationale": "일부 칭호 효과가 강화되며 identifies the strengthened mechanic as the effects of certain Titles.",
+      "replacement": "Some Title effects and stats had been strengthened. And on top of that…",
+      "severity": "minor",
+      "source": "일부 칭호와 능력치 강화, 거기에 더하여……."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The first was that they were geniuses without equal throughout the long history of Murim.",
+      "defect": "“Without equal” makes them categorically unmatched in Murim history, while the source only says that precedents for such geniuses would be difficult to find.",
+      "id": "F03",
+      "rationale": "전례를 찾아보기 힘든 expresses extreme rarity, not an absolute claim that no equals have ever existed.",
+      "replacement": "The first was that they were prodigies rarely seen even in Murim’s long history.",
+      "severity": "minor",
+      "source": "다만 누구도 부정할 수 없는 두 가지의 공통점이 있다면, 그것은 바로 두 청년이 기나긴 무림사(武林史)에서도 전례를 찾아보기 힘든 천재라는 것과 숱한 명성을 쌓았다는 점이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*No matter how impressive his title is, what an arrogant attitude.*",
+      "defect": "The draft replaces the concrete office of Pavilion Master with a vague “impressive title” and changes criticism of lax, undisciplined conduct into criticism of arrogance.",
+      "id": "F04",
+      "rationale": "각주 explicitly means Pavilion Master here, while 방만한 describes lax or undisciplined behavior rather than arrogance.",
+      "replacement": "*He may be a Pavilion Master, but what an undisciplined attitude.*",
+      "severity": "major",
+      "source": "‘제아무리 각주라고는 하나, 저런 방만한 태도라니.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Nom, nom nom.”",
+      "defect": "The naturalized eating sound removes the repeated “agu” that directly sets up Taekyung’s ensuing comparison to Agumon.",
+      "id": "F05",
+      "rationale": "The source deliberately repeats 아구 immediately before the 아구몬 punchline; retaining that sound is necessary for the joke’s setup.",
+      "replacement": "“Smack, smack. Agu, agu-agu.”",
+      "severity": "minor",
+      "source": "“쩝쩝. 아구, 아구아구.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Nyah?”\n\n“Nothing. Keep stuffing your face, Young Hero Cheongpung.”\n\n“Are you not afraid?”\n\n“What am I supposed to be afraid of? I’m afraid of you. You don’t have to share any with me, so swallow before you speak. Dumpling filling is flying all the way over here.”",
+      "defect": "Cheongpung is offering Taekyung a dumpling through a full mouth, not asking whether he is afraid. The draft loses the offer and therefore the joke in Taekyung deliberately seizing on the garbled sound as though Cheongpung said “afraid.”",
+      "id": "F06",
+      "rationale": "하놔 두려워 is a mouth-full distortion of 하나 드려요, an offer to give him one; Taekyung humorously responds to the resulting 두려워 sound as “afraid” before declining the food.",
+      "replacement": "“Whah?”\n\n“Nothing. Keep stuffing your face, Young Hero Cheongpung.”\n\n“Wahn one?”\n\n“Afraid? What would I be afraid of? You’re the one who scares me. And no, I don’t want one, so swallow before you speak. Dumpling filling is flying all the way over here.”",
+      "severity": "major",
+      "source": "“눼?”\n\n“아무것도 아니야. 청 소협은 마저 처먹어.”\n\n“하놔 두려워?”\n\n“두렵긴 뭐가 두려워. 난 당신이 두려워. 안 드려도 되니까 삼키고 말해. 만두 속이 여기까지 튀잖아.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "His fingers moved so quickly that even an ordinary Supreme Peak master would have struggled to follow them.",
+      "defect": "The draft raises the observers’ comparison from Peak to Supreme Peak, materially overstating the demonstrated speed within the established martial hierarchy.",
+      "id": "F07",
+      "rationale": "절정 is the established Peak realm; the source does not say 초절정, Supreme Peak, in this sentence.",
+      "replacement": "His fingers moved so quickly that even a capable Peak master would have struggled to follow them.",
+      "severity": "major",
+      "source": "어지간한 절정 고수도 제대로 볼 수 없을 만큼 빠르게 움직인 손가락이 잘게 다진 고기와 야채를 쳐 내자, 곳곳에서 헛숨과 탄성이 흘러나왔다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues remain, including a garbled food-offer joke mistranslated as a question about fear, an incorrect martial rank, and altered characterization or degree.",
+  "version": 1
+}

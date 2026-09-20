@@ -1,6 +1,6 @@
 # Yan Hwapyeong (언화평)
 
-- **Safe through:** Chapter 536
+- **Safe through:** Chapter 545
 - **Aliases:** Fist King
 - **Role:** Yan Hwapyeong is the Fist King and last descendant of the Jinzhou Yan Family who joined the Murim Alliance when a hundred thousand demonic soldiers invaded the Central Plains.
 - **Personality:** Selfless, resolute, and warm-hearted, he helps others without regard for old grievances.
