@@ -2,7 +2,7 @@
 
 Tang Horyong, the Master of Poison Dragon Pavilion, rose from his seat to greet his guest.
 
-An imposing man had just opened the door and entered, and an indescribable pressure radiated from him.
+The powerfully built man who had just entered radiated an indescribable sense of pressure.
 
 “You’ve had a long journey.”
 
@@ -18,7 +18,7 @@ That realization left Tang Horyong more than a little unsettled.
 
 He had heard that the man before him was still young—not yet forty.
 
-His older cousin, on the other hand, was an extraordinary figure not only in age but also in his standing within the Murim.
+His older cousin, on the other hand, was advanced in both age and standing within the Murim.
 
 He was an iron-willed Family Head who had accomplished countless military feats during the Great Faction War and rebuilt his fallen family stronger than ever.
 
@@ -32,7 +32,7 @@ Tang Horyong had been born a martial artist.
 
 He prided himself on having mastered poison and hidden weapons, but leading a family was an entirely different matter.
 
-Especially lately, countless problems had been pouring in from every direction, leaving him no time even to think about the grief and anger caused by the loss of his blood relatives.
+Lately, problems had been pouring in from every direction, leaving him no time even to dwell on the grief and anger of losing his own blood.
 
 *If only someone like this were standing in my place.*
 
@@ -52,25 +52,23 @@ At Tang Horyong’s hurried apology, the man nodded gravely.
 
 In truth, even the word *devastating* fell short of describing the damage the Sichuan Tang Clan had suffered.
 
-Nearly ninety percent of the clan’s people had died, and most of the Tang Clan’s grounds had been destroyed.
+Nearly nine out of every ten clan members had died, and most of the clan grounds had been destroyed.
 
 Their only consolation was that the family line had survived, but restoring the clan to its former glory would take many years.
 
 “Our fellow martial artists throughout Sichuan have gone out of their way to help us, but… I fear what lies ahead.”
 
-If Tang Sadok, the Family Head, had been in his position, he would never have shown weakness under any circumstances.
+Tang Sadok would never have shown weakness under any circumstances, but Tang Horyong was different.
 
-Tang Horyong was different.
-
-At his honest words, the man gently ran his long fingers over his teacup.
+At his candid admission, the man ran his long fingers over his teacup.
 
 “I believe you know why I came here, Sir Tang.”
 
 “I understand that you came to investigate the Three-Gate Bloodbath.”
 
-“To be precise, when I first left Henan, my purpose was to find the culprit who murdered the late Poison King Tang Sadok and the Heaven-Shaking Venerable Nun. However, the situation changed drastically on the way here.”
+“To be precise, when I first left Henan, my purpose was to find the culprits who murdered the late Poison King Tang Sadok and the Heaven-Shaking Venerable Nun. But the situation changed drastically while we were on our way.”
 
-“That’s right. Dark Heaven, those bastards beyond the pale, finally revealed their fangs.”
+“That’s right. Dark Heaven—those heaven-cursed bastards—finally revealed their fangs.”
 
 “Although we already had the incident in Henan as precedent, the fact that they dared to attack three renowned clans and sects across the land at once proves that war is already upon us.”
 
@@ -92,7 +90,7 @@ The man continued in a weighty voice.
 
 “That brings me to my proposal. Would you consider going to Henan?”
 
-“Henan.”
+“Henan…”
 
 “Yes. What you’re thinking of will happen soon.”
 
@@ -112,7 +110,7 @@ Only then did Tang Horyong understand what the man was proposing. His mouth fell
 
 It was something he had never dared even consider.
 
-“So you’re saying that we should move our family headquarters?”
+“Are you saying… we should relocate the entire clan?”
 
 “Well…”
 
@@ -142,7 +140,7 @@ If the enemy attacked again, there was little hope of stopping them.
 
 “Haa…”
 
-As Tang Horyong sighed with a dazed expression, a quiet voice reached his ears.
+As Tang Horyong stared blankly ahead and sighed, a quiet voice reached his ears.
 
 “Sir Tang, why do you think the Sichuan Tang Clan has endured for the past several hundred years?”
 
@@ -194,7 +192,7 @@ As Tang Horyong watched the two brothers reunite in something that fell somewher
 
 *They say he’s completely helpless when it comes to his younger brothers.*
 
-The Alliance Leader who had unified Shanxi Murim and the greatest landowner in Shanxi Province was nowhere to be seen.
+The Alliance Leader who had unified the Shanxi Murim and the greatest landowner in Shanxi Province had vanished without a trace.
 
 In his place stood a hopelessly doting fool.
 
@@ -212,7 +210,7 @@ I’d been in the Murim for two years now. I’d endured this kind of thing more
 
 Crack!
 
-…But I hadn’t expected that.
+…What I hadn’t expected was that.
 
 Seriously, why did I hear my bones shifting?
 
@@ -242,7 +240,7 @@ Whoosh—crash!
 
 Jin Wikyung’s huge body slammed headfirst into the ground with a heavy thud.
 
-A middle-aged man from the Sichuan Tang Clan, who had been watching us, let out a startled groan.
+The middle-aged man from the Sichuan Tang Clan who had been watching us gasped.
 
 “It’s all right. Really. We’re just playing around.”
 
@@ -326,7 +324,7 @@ Having just finished his conversation, Jin Wikyung answered my question.
 
 “I didn’t bring anything but the two balls between my legs. All I have to do is go.”
 
-Plus two bundles wrapped tightly in bandages.
+Plus two bandage-wrapped bundles of baggage.
 
 Jin Wikyung nodded and turned to the middle-aged man.
 
@@ -342,20 +340,20 @@ In any case, everything was in place for us to move quickly.
 
 Jin Wikyung considered it for a moment, then answered decisively.
 
-“Then half a shichen.[^1] We’ll leave within half a shichen. Is that acceptable?”
+“Then half a shichen.[^1] We’ll leave in half a shichen. Is that acceptable?”
 
 “No problem.”
 
-The instant I answered without hesitation, a frantic commotion arose outside the pavilion, followed by someone shouting.
+The instant I answered, hurried footsteps sounded outside the pavilion, followed by someone shouting.
 
 “The Family Head! The Family Head has awakened!”
 
-Jin Wikyung amended his words in a lukewarm voice.
+Jin Wikyung revised his decision in a lukewarm voice.
 
 “One shichen. Let’s make it one shichen.”
 
 “…Yes. That sounds better.”
 
-What a shame. I could’ve taken the Myriad-Poison Ring and run.
+Damn. I almost could’ve taken the Myriad-Poison Ring and run.
 
 [^1]: A shichen is a traditional Chinese time unit of roughly two hours.

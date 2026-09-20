@@ -1,0 +1,55 @@
+{
+  "summary": "Faithful translation with minor terminology gaps but no fidelity defects;",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Multiple paragraphs",
+      "current": "the man’s presence was described as \"presence only a leader of men possessed\" instead of using preferred term 'aura'",
+      "defect": "Terminology mismatch: 'aura' for '기세' is absent despite glossary preference",
+      "replacement": "Replace \"It was the sort of presence only a leader of men possessed\" with \"It was the sort of aura only a leader of men possessed\" or similar to include 'aura'",
+      "rationale": "Glossary requires '기세' to be translated as 'aura' or 'momentum'; current 'presence' loses this exact term",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph [35], [46]",
+      "current": "References 'orthodox Murim' but misses 'orthodox faction' term preference for '정파'",
+      "defect": "Terminology mismatch: 'orthodox faction' preferred term for '정파' is not used",
+      "replacement": "Use 'orthodox faction' instead of 'orthodox Murim' when referring to '정파'",
+      "rationale": "Glossary defines '정파' as 'orthodox faction'; current text occasionally uses 'orthodox Murim' instead",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Paragraphs between [74–85]",
+      "current": "References 'Fame' and 'Dark Heaven' not consistently or as per glossary",
+      "defect": "Terminology mismatch: '명성' ('Fame') and '암천' ('Dark Heaven') preferred terms absent or inconsistently rendered",
+      "replacement": "Ensure 'Dark Heaven' is always capitalized and used per glossary, and '명성' as 'Fame' if contextually appropriate",
+      "rationale": "Glossary binds these terms; adhering to glossary avoids ambiguity",
+      "confidence": 0.8
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Paragraph [167], [172]",
+      "current": "\"shichen\" is introduced with a footnote but '시진' is preferred term; \"half a shichen\" used",
+      "defect": "Terminology adherence: '시진' rendered as 'shichen' with footnote, but guidance recommends 'shichen' usage with clarifying footnote",
+      "replacement": "No replacement needed; footnote explanation is correct and consistent",
+      "rationale": "Term '시진' is correctly transliterated as 'shichen' with appropriate footnote; matches glossary and conventions",
+      "confidence": 1.0
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Throughout character names and titles",
+      "current": "Several titles like 'Great Hero' and 'Sir' are used; glossary specifies tone-dependent usage",
+      "defect": "Terminology tone nuance: '대협' rendered variably as 'Sir' or 'Great Hero', some possible inconsistency",
+      "replacement": "Verify consistent tone use per glossary for '대협' to match speaker context",
+      "rationale": "Glossary notes 'Great Hero' or 'Sir' depending on tone; current text mostly consistent; minor check recommended",
+      "confidence": 0.9
+    }
+  ]
+}
