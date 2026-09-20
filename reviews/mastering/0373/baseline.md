@@ -2,33 +2,33 @@
 
 The trip back was short.
 
-On the way there, we had at least slowed down to exchange information. But in game terms, this was a deluxe party with no fewer than five Supreme Peak masters traveling together.
+On the way there, we had at least slowed down to exchange information. But if you put it in game terms, this was a deluxe party with no fewer than five Supreme Peak masters traveling together.
 
-A journey that would have taken an ordinary person half a day passed in the blink of an eye.
+The distance that would have taken an ordinary person half a day had been reduced to almost nothing.
 
 “You’ve worked hard, Benefactor Jin.”
 
 “And you must still be tired. Thank you for coming with us.”
 
-As we neared the Sichuan Tang Clan, the two Sect Leaders turned to address me. I shrugged.
+When the two Sect Leaders spoke to me as we neared the Sichuan Tang Clan, I shrugged.
 
 “It’s nothing. I didn’t really help much, anyway.”
 
-“True.”
+“That’s true.”
 
-“He certainly didn’t.”
+“He didn’t.”
 
 “…”
 
 It was true that I hadn’t been much help, but wasn’t that a little harsh?
 
-Cheongpung the Ancient Sword gave me a faint smile, then clasped his hands toward the Slaughter Saint and Jeok Cheongang.
+Cheongpung the Ancient Sword gave me a faint smile before clasping his hands toward the Slaughter Saint and Jeok Cheongang.
 
-“I’m grateful to both of you Seniors as well. I apologize for making you come all this way for nothing.”
+“I’m grateful to both of you Seniors as well. I’m sorry for making you come all this way for nothing.”
 
 The Slaughter Saint and Jeok Cheongang answered at the same time.
 
-“It was indeed a pointless trip.”
+“It was a pointless trip.”
 
 “Next time, don’t do anything you’ll need to apologize for. Understood?”
 
@@ -38,29 +38,29 @@ That was exactly how I felt.
 
 The Slaughter Saint continued, addressing the visibly uncomfortable Cheongpung the Ancient Sword.
 
-“And… I hope you won’t come looking for me again.”
+“And… I hope you won’t come looking for me in the future.”
 
-He wasn’t telling them to call on him less often because it was a bother. After briefly returning as the Slaughter Saint, he intended to go back to being Mungyeong, the young medical apprentice.
+He wasn’t telling us to call on him sparingly because it was bothersome. After briefly returning as the Slaughter Saint, he was trying to go back to being the young medical apprentice, Mungyeong.
 
-Everyone present understood what he meant.
+Everyone here understood what he meant.
 
 The two Sect Leaders were the most flustered of all.
 
-“S-Senior, that…”
+“S-Senior, you mean…”
 
 “Benefactor, might you reconsider?”
 
-Instead of answering, the Slaughter Saint gave them a dry look.
+But instead of answering, the Slaughter Saint gave them a dry look.
 
-After a moment of silence, Cheongpung the Ancient Sword and Extinction Divine Nun sighed softly and nodded.
+After a moment of silence, Cheongpung the Ancient Sword and Extinction Divine Nun nodded with small sighs.
 
 “…We will do so.”
 
 “I shall respect your wishes. For now.”
 
-*For now.*
+For now.
 
-The last two words were heavily emphasized. The Slaughter Saint’s quiet voice slipped between his lips.
+Those last words carried unusual emphasis. A quiet voice slipped from between the Slaughter Saint’s lips.
 
 “My decision has not changed. Coming this time was nothing more than a passing whim.”
 
@@ -70,11 +70,11 @@ It was a firm answer that left not even the slightest room for argument. The Sla
 
 Jeok Cheongang suddenly spoke.
 
-“Are you going to pretend to be a medical apprentice again? It doesn’t suit you.”
+“Are you planning to pretend to be a medical apprentice again, despite how ill-fitting it is?”
 
 “It isn’t an act. The Slaughter Saint no longer exists. Only a medical apprentice remains.”
 
-“If a tiger drapes itself in goatskin, does that make it a goat?”
+“Even if a tiger wraps itself in goatskin, can you call it a goat?”
 
 “If it hides its teeth and claws, even a tiger can become a goat.”
 
@@ -84,11 +84,11 @@ A shallow crease formed between the Slaughter Saint’s brows.
 
 “You’ve grown more talkative with age. You owe me a debt, after all.”
 
-“…Damn. I can’t argue when you’re not wrong.”
+“…Damn. I can’t argue when you aren’t wrong.”
 
 “I’ll take that as an answer.”
 
-Having dismissed Jeok Cheongang, the Slaughter Saint glanced at me.
+After dismissing Jeok Cheongang’s remark, the Slaughter Saint glanced at me.
 
 “And you?”
 
@@ -98,7 +98,7 @@ Having dismissed Jeok Cheongang, the Slaughter Saint glanced at me.
 
 “No, that’s not what I meant. Do I get a choice?”
 
-“Of course. You have two.”
+“Of course. There are two choices.”
 
 The Slaughter Saint spoke with an impassive expression.
 
@@ -114,7 +114,7 @@ After swallowing hard, I opened my mouth.
 
 “The second one.”
 
-“A wise choice.”
+“Good thinking.”
 
 “Yeah.”
 
@@ -128,71 +128,69 @@ The Slaughter Saint had been about to nod at my prompt answer when he suddenly s
 
 “No, I mean, why are you acting like that? You told me to treat you as I did before.”
 
-“…!”
+“…”
 
-“…!”
+“…”
 
 The two Sect Leaders stood there with their mouths hanging open. The Slaughter Saint was silent for a moment before asking Jeok Cheongang, who had begun chuckling.
 
-“Is this fellow insane?”
+“Is this guy insane?”
 
 “He’s always been like that. Gives you a headache, doesn’t he?”
 
 “I want to smash his skull in.”
 
-I bowed deeply before he could make good on that threat.
+I quickly bowed before he could make good on that threat.
 
-“Ah, I got confused for a moment. My apologies.”
+“Ah, I made a mistake for a moment. I apologize.”
 
 “Not even a dog would believe that, but I’ll let it slide this once.”
 
 Had it been too obvious that I was trying to mess with him while pretending it was a mistake? The Slaughter Saint glared at me with narrowed eyes before speaking.
 
-The Slaughter Saint glared at me through narrowed eyes before continuing.
-
-“In any case, watch yourself from now on. Aside from those present, no one knows the truth about me. Ah, that boy Cheongpung is an exception. As is my Disciple, of course.”
+“In any case, be careful from now on. Aside from the people here, no one knows the truth about me. Ah, that boy Cheongpung is an exception. My Disciple is an exception as well, of course.”
 
 “Young Hero Cheongpung knew too?”
 
-“Yes. Aside from him, everyone who saw me that day is dead.”
+“Yes. Everyone who saw me that day is dead, except for him.”
 
-Now *that* was a thorough cleanup.
+Now that was some clean-up.
 
 I finally understood why there hadn’t been a single prisoner at the Sichuan Tang Clan.
 
-The Masked Slaughter Saint. Once the mask came off, panelists and audience members alike dropped dead.
+The masked Slaughter Saint. Once the mask came off, every panelist and audience member alike dropped dead.
 
-*The more I think about it, the stranger this feels. Mungyeong was the Slaughter Saint all along.*
+*Come to think of it, this feels stranger the more I think about it. Mungyeong was the Slaughter Saint all along.*
 
-Memories flashed through my mind, from our first meeting on the Yangtze to the present.
+Memories from the first time I met him on the Yangtze until now flashed through my mind.
 
 Which of the sides he had shown me was real, and which was a lie?
 
-The innocent young medical apprentice I had known no longer existed. All that remained was the greatest assassin under heaven, his eyes dry and emotionless.
+The innocent young medical apprentice I had known no longer existed. There was only the greatest assassin under heaven, with a pair of dry, emotionless eyes.
 
-Before I knew it, a question slipped out.
+Before I knew it, a question escaped my lips.
 
-“Why are you so determined to hide who you are?”
+“Why do you try so hard to hide yourself?”
 
-The Slaughter Saint, moving toward the Sichuan Tang Clan now visible in the distance, stopped dead.
+The Slaughter Saint, who had been walking toward the Sichuan Tang Clan now visible in the distance, came to an abrupt stop.
 
-After a brief silence, he answered with unexpected calm.
+After a short silence, an unexpectedly calm answer reached me.
 
 “Because I’m sick to death of the Murim.”
 
-“Is that why you left?”
+“That’s why you left?”
 
 “Yes. I swore to the heavens that I would never take another life.”
 
 In this place—the Murim—assassins were despised.
 
-Neither the orthodox factions nor practitioners of demonic, heterodox arts welcomed them.
+They weren’t welcome among the orthodox factions, or even among practitioners of the demonic, heterodox arts.
 
-They were seen not as martial artists pursuing higher realms of martial arts, but as people born solely to kill.
+They were considered people born solely to kill, rather than martial artists pursuing higher realms of martial arts.
 
-How much blood had one assassin spilled—and how deeply had he been stained by it—before earning the sobriquet Slaughter Saint?
+How much blood had an assassin spilled and been stained by before earning the sobriquet Slaughter Saint?
 
-I thought I understood how he felt, at least to some extent.
+I thought I understood his feelings to some extent.
 
 But…
 
@@ -200,13 +198,13 @@ But…
 
 “What?”
 
-“Why you came back to the Murim you hate so much.”
+“Why you returned to the Murim you hate so much.”
 
 “…What nonsense are you talking about, saying I returned?”
 
 The Slaughter Saint’s eyes sank deeper.
 
-“I had no choice. It was unavoidable.”
+“It was a choice I had no way around. An unavoidable one.”
 
 “I don’t know. If that’s how you put it, I have nothing to say. But it seems like you made at least a few choices yourself. For example…”
 
@@ -222,7 +220,7 @@ I scratched the back of my head and continued.
 
 “Of course not. I’m truly grateful, Great Hero.”
 
-There was no sarcasm in my voice. I meant it with one hundred percent sincerity.
+I wasn’t being sarcastic. I was one hundred percent sincere.
 
 If he hadn’t stepped in at the right moment, countless people would have died or been injured.
 
@@ -236,9 +234,9 @@ But the Slaughter Saint’s response to my words was as dry as desert sand.
 
 The Slaughter Saint stared at me without speaking, then turned away.
 
-He took a step toward the Sichuan Tang Clan, now no more than a large speck in the distance, and glided forward like a ghost.
+As he took a step toward the Sichuan Tang Clan, which looked like a large dot in the distance, he glided forward like a ghost.
 
-The boy’s voice scattered on the wind.
+The boy’s voice scattered through the wind.
 
 “Mungyeong. That is enough.”
 
@@ -264,15 +262,15 @@ One was Hyuk Mujin, whom I could never decide was my right arm or my pinky. The 
 
 “That’s understandable. His Master, the Divine Physician, was injured, and there are so many patients waiting for treatment.”
 
-“Oh, I see. But Captain, where did you go with Mungyeong?”
+“Oh, I see. But, Captain, where did you go with Mungyeong?”
 
-“Isn’t it obvious? He looked down, so the Captain took him out for some fresh air. Why are you so stupid?”
+“Isn’t it obvious he took the kid out for some fresh air because he looked down? Why are you so stupid?”
 
 “Huh. In all my life, I never thought I’d hear that from a beggar. I may look like this, but I’ve read several hundred books. I’ve never been called stupid before.”
 
 As far as I could tell, both of them were just stupid.
 
-I swallowed the words *Slaughter Saint* hovering on the tip of my tongue. Those two would never discover Mungyeong’s true identity, even if they died and came back to life.
+I swallowed the words *Slaughter Saint* that were circling the tip of my tongue. Those two probably wouldn’t realize Mungyeong’s true identity even if they died and came back to life.
 
 *Then again, with acting skills like that, anyone would be fooled.*
 
@@ -284,13 +282,13 @@ No one could even have guessed.
 
 “I’d give you credit if you’d read the Four Books and Three Classics, but all you’ve done is read martial arts novels nonstop. What books are you talking about?”
 
-“I read romance novels too. Haven’t you heard of Gwiyeommi?”[^1]
+“I’ve read romance novels too. Don’t you know Gwiyeommi?”[^1]
 
-“Wait. Gwiyeommi? You mean the scholar who wrote *The Temptation of a Young Prodigy*, *That Bastard Was Strong*, and all those others?”
+“Wait. Gwiyeommi? Are you talking about the writer who wrote *The Temptation of a Young Prodigy*, *That Bastard Was Strong*, and so on?”
 
 “Oh, you know him.”
 
-“Of course I do. When I was a one-knot Disciple, I used the money I’d begged for to rent one of his books, and the beggar chief beat me black and blue. Damn, if I ran into that bastard now, I’d lay into him with the Dog-Beating Staff Technique. I’d—”
+“Of course I do. When I was a one-knot Disciple, I used the money I’d begged for to rent one of those and got beaten black and blue by the gang boss. If I ran into that bastard now, I’d lay into him with the Dog-Beating Staff Technique. I’d—”
 
 *Whack!*
 
@@ -298,25 +296,25 @@ No one could even have guessed.
 
 “Aagh!”
 
-I kicked both idiots in the ass as they happily reminisced, drove them out, and slammed the door shut.
+I kicked both their asses—the two idiots happily sharing their memories—and sent them out before slamming the door shut.
 
-I already had more than enough to think about. Why had those bastards come here just to make a racket?
+I didn’t know why those bastards had come here to make a racket when I already had more than enough to think about.
 
 *Finally, some peace and quiet.*
 
-Cheongpung was probably running all over the place by now, and Jeok Cheongang had told me to rest for the entire day. No one would come looking for me for a while.
+Cheongpung was probably running around all over the place by now, and Jeok Cheongang had told me to get a full day of rest. No one would come looking for me for a while.
 
-I lay down on the soft bed and decided to take care of something I’d been putting off.
+I lay down on the soft bed and decided to take care of something I had been putting off.
 
 *Check unread messages.*
 
 Ding. Ding. Ding-ding!
 
-System windows filled the air as an endless stream of chimes rang out.
+System windows filled the air amid the endless chimes.
 
 This had happened a few times before, but this had to be a new record.
 
-Momentarily speechless, I began checking the important messages one by one.
+Speechless for a moment, I began checking the important messages one by one.
 
 > **System**
 >
@@ -342,15 +340,15 @@ Momentarily speechless, I began checking the important messages one by one.
 >
 > **Fire Dragon Divine Spear**…
 
-Countless requests for handshakes—no, a veritable feast of messages.
+An endless stream of handshaking requests—no, messages.
 
-My eyes started spinning just from skimming them.
+My eyes started spinning just from skimming through them.
 
 “…Holy shit.”
 
 What was all this?
 
-I was almost stunned to discover that half the unread messages still remained.
+I was almost stunned to discover that half of the unread messages still remained.
 
 Just as I scrolled down to see how many were left, something unusual caught my eye.
 
@@ -366,7 +364,7 @@ Just as I scrolled down to see how many were left, something unusual caught my e
 
 The Modern World and Murim inventories were separate. However, bound Items like White Flame weren’t restricted by space and could be pulled out and used anywhere.
 
-I’d already felt that White Flame alone wasn’t enough, so this was quite a stroke of luck.
+White Flame alone had been leaving me wanting more, so this was quite a stroke of luck.
 
 *If they’re giving it to me, I’ll gladly take it.*
 
@@ -384,7 +382,7 @@ A knock sounded on the door, and someone poked their head inside.
 
 “Hyung’s busy. Go read some Gwiyeommi novels.”
 
-“Oh, Captain, you’ve read them too?”
+“Oh, Captain, you read them too?”
 
 “…You little bastard, seriously.”
 
@@ -398,7 +396,7 @@ I shot up from the bed, and Hyuk Mujin hurriedly shouted,
 
 “What?”
 
-“An investigation team has arrived from Henan! They’re looking for you, Captain.”
+“An investigation team has come from Henan! They’re looking for you, Captain.”
 
 “…An investigation team?”
 
