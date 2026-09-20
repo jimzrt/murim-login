@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "No wonder they were low-level Hunters. They were struggling against goblins from barely halfway across the cave, so they clearly weren’t very experienced either.",
+      "defect": "The draft turns their position before the halfway point of the Gate into the goblins attacking from halfway across the cave, and changes the relationship between their low level and lack of experience.",
+      "id": "F01",
+      "rationale": "중간도 되지 않는 지점 describes how little progress the party has made through the Gate, while 하급 헌터인 것은 둘째치고 distinguishes their low rank from their evident inexperience.",
+      "replacement": "Judging by how they were floundering against goblins before they’d even made it halfway through the Gate, they weren’t just low-level Hunters—they weren’t particularly experienced, either.",
+      "severity": "major",
+      "source": "하긴, 중간도 되지 않는 지점에서 고블린을 상대로 버벅거리는 걸 보니 하급 헌터인 것은 둘째치고, 그리 경험 많은 자들이 아니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The cave was dark, and they were standing a considerable distance away. Their skill level was far too low for them to recognize my face from that far away.",
+      "defect": "“Recognize” implies failure to identify Taekyung despite his fame; the source says their low level prevents them from seeing or making out his distant face.",
+      "id": "F02",
+      "rationale": "The physical conditions and 저들의 수준 frame 알아보기 as a perception limitation, which is why the later Light spell revealing his face changes their reaction.",
+      "replacement": "The cave was dark, and they were standing a considerable distance away. Their level was far too low for them to make out my face from that far.",
+      "severity": "minor",
+      "source": "어두컴컴한 동굴 내부. 상당한 거리를 두고 멀찍이 떨어진 내 얼굴까지 알아보기에는 저들의 수준이 너무 낮다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "It was six letters long, but compared to the nicknames that came before it, it was practically respectable. About as respectable as a deputy minister’s title.\n\nCome to think of it, it was also a name perfectly suited to the current situation.\n\nThe vibrations had been growing stronger, and now they were shaking the cave like a fucking e-earthquake.",
+      "defect": "“Six letters” is false in English and obscures that the repeated syllables have stretched his spoken name to six syllables. Rendering the later repetition as only “e-earthquake” also weakens the deliberate extended stutter linking his name to 지진.",
+      "id": "F03",
+      "rationale": "여섯 글자 counts the six spoken Korean syllables created by 지, 지, 지, 진태경, while 지, 지, 지, 지진 repeats the stutter as the narration pivots to “earthquake.”",
+      "replacement": "The stutter might have stretched my name to six syllables, but compared to the nicknames that came before it, it was downright respectable. About as respectable as a deputy minister.\n\nCome to think of it, the name fit the current situation pretty well.\n\nThe vibrations had steadily intensified, and now the whole cave was sh-sh-sh-shaking like a fucking earthquake.",
+      "severity": "minor",
+      "source": "비록 이름이 여섯 글자로 길어지긴 했지만, 앞의 별명에 비하면 양반이다. 대충 이조참판 정도.\n\n그리고 어떻게 생각해 보면 현 상황에 딱 맞는 이름이기도 했다.\n\n점차 거세지던 진동이 어느덧 지, 지, 지, 지진으로 존나게 흔들리고 있었으니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The accident from that day had remained branded onto my heart like a scar that could never be erased. Even now, after I had finished my revenge, I still couldn’t completely forget it.",
+      "defect": "The mixed image “branded … like a scar” replaces the explicit fire-brand metaphor, and “finished my revenge” is unnatural English.",
+      "id": "F04",
+      "rationale": "화인(火印) is a burn or brand, not a generic scar; the replacement preserves both the image and the completed revenge.",
+      "replacement": "The accident that day remained seared into my heart like an indelible brand, and even now, after taking my revenge, I still couldn’t completely forget it.",
+      "severity": "minor",
+      "source": "그날의 사고는 지울 수 없는 화인(火印)처럼 가슴에 남았고, 이미 복수를 끝마친 지금에도 완전히 잊지 못했다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Ancient tree fairies from countless old stories. The Ents awoke from their slumber and roared.",
+      "defect": "“Tree fairies” suggests small fairy creatures and sounds unnatural for the ancient tree beings explicitly identified as Ents.",
+      "id": "F05",
+      "rationale": "In this context 요정 refers broadly to supernatural tree spirits; “tree spirits” matches the immediately stated Ent identity without changing the creature type.",
+      "replacement": "Ancient tree spirits featured in countless tales. The Ents awoke from their slumber and roared.",
+      "severity": "minor",
+      "source": "숱한 이야기 속을 장식하는 고대의 나무 요정들. 엔트들이 잠에서 깨어나 울부짖는다."
+    }
+  ],
+  "summary": "One meaningful spatial/mechanical error and several localized fidelity or wording defects.",
+  "version": 1
+}
