@@ -1,6 +1,6 @@
 # Hwangbo Gun (황보군)
 
-- **Safe through:** Chapter 537
+- **Safe through:** Chapter 540
 - **Aliases:** None
 - **Role:** Family Head of the Hwangbo Family and father of its late-born only son, the Lesser Family Head.
 - **Personality:** Status-conscious, politically resentful, and fiercely protective of his only son; willing to exaggerate grievances to secure favorable treatment.

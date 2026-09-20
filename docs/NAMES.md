@@ -1746,3 +1746,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 베지터 | **Vegeta** | Reference in the joking name Planet Vegeta. |
 | 왕희지 | **Wang Xizhi** | Historical calligrapher invoked in Hyuk Mujin's boast. |
 | 궁 | **Gung** | Surname in Hyuk Mujin's reference to Young Hero Gung. |
+| 호거아 | **Tiger Giant Child** | Epithet for Taishan. |
+| 홍학루 | **Honghakru** | Renowned entertainment house in Henan. |
+| 홍매 | **Hongmae** | Honghakru's famous singing courtesan. |

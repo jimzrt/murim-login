@@ -1,16 +1,17 @@
 # Translation State
 
-- Last completed: 539
-- Next chapter: 540
-- Current block: 535–539 (5/5)
-- Latest translation: `translations/0539.md`
-- Latest summary: `summaries/beats/0539.md`
-- Safe profiles through: chapter 539
+- Last completed: 540
+- Next chapter: 541
+- Current block: 540–544 (1/5)
+- Latest translation: `translations/0540.md`
+- Latest summary: `summaries/beats/0540.md`
+- Safe profiles through: chapter 540
 
 ## Current Block
 
-- Jin Taekyung identifies Mungyeong as the former Slaughter Saint, whose assassin identity was buried after the war and who then entered the world under the name Divine Physician. Taekyung attempts to recruit Mungyeong for the Two Dragons Pavilion but learns that Cheongpung reached him first and that Mungyeong has accepted Cheongpung's offer. Taekyung instead orders Hyuk Mujin to prepare public notices seeking other talented recruits.
-- Mungyeong demonstrates extraordinary medical skill by treating numerous patients and leaving prescriptions for the physicians. He discovers Cheongpung hiding nearby, learns about the newly created Mimi Step, and recognizes Cheongpung as a martial genius with the makings of a Grandmaster. Cheongpung says he will learn by observing Mungyeong rather than requesting formal instruction, and Mungyeong accepts his dumplings.
+- News of Jin Taekyung and Cheongpung's appointment as the Two Dragons Pavilion masters spreads throughout Henan. Hwangbo Gun's demand for punishment backfires: Taekyung is ordered to fast temporarily, Taishan must pay ten times the damages caused by his actions, and Hwangbo Ak receives a temporary disciplinary confinement order.
+- Taekyung launches an unprecedented recruitment campaign for the Two Dragons Pavilion, requiring passion, upright character, and at least the level of injuring others with Sword Energy while accepting applicants regardless of gender, sect, or age. A Honghakru band and singer turn his slogan into a catchy song, causing mass excitement and an overwhelming flood of applications.
+- Taekyung enjoys the song's success until Jeok Cheongang breaks into the room, nearly suffering qi deviation from the song and angrily blaming Taekyung for it.
 
 ## Open Questions
 
@@ -22,7 +23,7 @@
 
 ## Exceptional Decision
 
-- Render 고월루 as Gowolru, 곤륜운룡 as Kunlun Cloud Dragon, 학우 as Hak Woo, 이룡각 as Two Dragons Pavilion, 협 as chivalry, 인의 as humanity, and 협객 as knight-errant; render 전 정혼자 contextually as former fiancé or former fiancée.
+- Render 고월루 as Gowolru, 곤륜운룡 as Kunlun Cloud Dragon, 학우 as Hak Woo, 이룡각 as Two Dragons Pavilion, 협 as chivalry, 인의 as humanity, 협객 as knight-errant, 홍학루 as Honghakru, 홍매 as Hongmae, and 호거아 as Tiger Giant Child; render 전 정혼자 contextually as former fiancé or former fiancée.
 - Render 탈진 as the capitalized system status Exhaustion; retain Ten Dragons and Phoenixes, Blazing Flame Divine Dragon, Dark Heaven, Murim Alliance, and Old Master.
 - Render 황보세가 as Hwangbo Family, 소가주 as Lesser Family Head, 은비화 as Dagger Hidden Flower, and 전음 as Sound Transmission.
 - Preserve the chapter's blunt profanity, financial-therapy humor, monster-comparison humor, and Mae Jonghak's carefree 'That can happen' refrain; render 고잉무림호 as Going Murim ship, 대종사 as Grandmaster, and 왕희지 as Wang Xizhi.
