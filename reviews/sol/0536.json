@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“For many years, the Jin Family of Taiyuan has been a symbol of righteous spirit. You fed the hungry, cared for the sick, and whenever the Central Plains faced danger, you fought without ever sparing your lives.”",
+      "defect": "The subject of the deeds is the Jin Family across its long history, but the draft switches to second person and attributes them directly to Taekyung.",
+      "id": "F01",
+      "rationale": "The opening clause establishes 태원진가 as the topic, and the following omitted subjects continue to refer to the family rather than Taekyung.",
+      "replacement": "“For generations, the Jin Family of Taiyuan has stood as a symbol of righteous spirit. It fed the hungry, cared for the sick, and whenever the Central Plains was in danger, its members fought without regard for their own lives.”",
+      "severity": "critical",
+      "source": "태원진가는 오랜 세월 의기(意氣)의 표상이었다. 굶는 이를 배불리 먹였고, 병든 이는 보살폈으며 중원이 위험에 처할 때면 언제나 목숨을 아끼지 않고 맞서 싸웠지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Jin Family of Taiyuan had roots so deep and sturdy that it was called a great family.",
+      "defect": "“Great family” incorrectly invokes the specific Murim category represented elsewhere by 세가. Here 명문가 means a distinguished or illustrious family.",
+      "id": "F02",
+      "rationale": "The source praises the family’s long-standing reputation; it does not say that the Jin Family possessed formal great-family status.",
+      "replacement": "The Jin Family of Taiyuan had roots deep and sturdy enough to be called an illustrious family.",
+      "severity": "major",
+      "source": "태원진가의 뿌리는 명문가라 불릴 만큼 깊고 단단했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Mae Jonghak murmured my answer under his breath, then turned his smiling eyes toward his Disciple and grandson.",
+      "defect": "The draft turns 의손주, a sworn or adoptive grandson, into an unqualified biological grandson and therefore changes the stated kinship.",
+      "id": "F03",
+      "rationale": "The 의 prefix explicitly qualifies the relationship as one formed by bond rather than blood.",
+      "replacement": "Mae Jonghak murmured my answer under his breath, then turned his smiling eyes toward his Disciple and sworn grandson.",
+      "severity": "critical",
+      "source": "내가 한 대답을 작게 뇌까린 매종학이, 미소 띤 눈으로 자신의 제자이자 의손주를 응시했다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“That is human righteousness.”\n\n“……!”\n\nHuman righteousness and chivalry.\n\nChivalry and human righteousness.\n\nThe two words were similar in one way yet different in another. They were brief, but their heavy meaning pressed down upon everyone in the room.\n\nPeople say that someone who does not fear death is a true martial artist.\n\nBut the world calls those who refuse to yield even before the fear of death and act with human righteousness and chivalry by another name.",
+      "defect": "“Human righteousness” treats 인의 as the conventional moral compound 仁義, but the source explicitly writes 人意 and frames it as the innately human impulse to do what must be done.",
+      "id": "F04",
+      "rationale": "The supplied Hanja, 人意, distinguishes the term from 仁義. “Humanity” preserves the intended connection to doing what any human being naturally ought to do without collapsing it into generic righteousness.",
+      "replacement": "“That is humanity.”\n\n“……!”\n\nHumanity and chivalry.\n\nChivalry and humanity.\n\nThe two words were alike in one sense yet different in another. Brief as they were, their weight pressed down upon everyone in the room.\n\nPeople say that someone who does not fear death is a true martial artist.\n\nBut the world has another name for those who refuse to yield to the fear of death and still act with humanity and chivalry.",
+      "severity": "major",
+      "source": "“그것이 바로 인의(人意)니라.”\n\n“……!”\n\n인의와 협. 협과 인의.\n\n한편으로는 같지만 다르고, 짧지만 무거운 의미가 담긴 두 단어가 좌중을 짓눌렀다.\n\n사람들은 말한다. 죽음을 두려워하지 않는 자가 진짜 무림인이라고.\n\n하지만 죽음의 두려움 앞에서도 굴복하지 않고 인의와 협을 행하는 이를, 세상은 다른 이름으로 부른다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "These two have fought Dark Heaven in Shanxi, Henan, Sichuan, and Hubei, and shown us what human righteousness and chivalry truly are.",
+      "defect": "The second use of 인의 repeats the same mistranslation of the explicitly defined 人意 concept.",
+      "id": "F05",
+      "rationale": "Tang Sadok is invoking the paired concepts just defined by Jeok Cheongang and Mae Jonghak, so the established rendering must remain semantically consistent.",
+      "replacement": "These two have fought Dark Heaven in Shanxi, Henan, Sichuan, and Hubei, and shown us what humanity and chivalry truly are.",
+      "severity": "major",
+      "source": "그들은 산서에서, 하남과 사천에서, 호북에서 암천과 싸웠고 인의와 협이 무엇인지 보여 주었습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was an argument that ended the controversy before anyone could voice a complaint.\n\nAnd his opponent was the Family Head of the Sichuan Tang Clan—a representative member of one of the Murim’s most notoriously uncompromising groups.",
+      "defect": "“His opponent” reverses the referent and nonsensically makes the Sichuan Tang Clan’s Family Head Tang Sadok’s opponent. The source means that anyone who objects will have Tang Sadok himself as their opponent. The draft also flattens the comic 노빠꾸 종족 metaphor.",
+      "id": "F06",
+      "rationale": "상대 refers to the formidable person an objector would have to face: Tang Sadok. 노빠꾸 literally evokes having no reverse or brakes and humorously characterizes the entire Sichuan Tang Clan as constitutionally incapable of backing down.",
+      "replacement": "It was a masterful bit of rhetoric that killed the controversy before anyone could voice a complaint.\n\nBesides, anyone who did object would be taking on the Family Head of the Sichuan Tang Clan—the Murim’s quintessential no-brakes clan.",
+      "severity": "critical",
+      "source": "누군가 불만을 표하기도 전에 논란을 종식시켜 버리는 화술.\n\n심지어 상대는 무림의 대표적인 노빠꾸 종족인 사천당가의 가주다."
+    }
+  ],
+  "summary": "Six actionable findings: one subject error, one Murim-status mistranslation, one kinship error, two instances of a key philosophical term being mistrendered, and one reversed referent that obscures Tang Sadok’s threat.",
+  "version": 1
+}
