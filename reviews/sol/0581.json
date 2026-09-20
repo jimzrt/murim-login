@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "No—the Guild House can dispatch personnel faster.",
+      "defect": "The draft changes Choi Minwoo’s decision to order the Guild House to dispatch personnel into a claim about the Guild House’s inherent speed.",
+      "id": "F01",
+      "rationale": "The source explicitly describes issuing an order as the faster course of action.",
+      "replacement": "No—it would be faster to order the Guild House to dispatch personnel.",
+      "severity": "minor",
+      "source": "아니, 길드 하우스에 인력 파견을 지시하는 것이 빠르겠군요."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Choi Minwoo intended to use every bit of power at his disposal to drag him down from his position.",
+      "defect": "The generic “his position” omits the source’s fortress-ruler metaphor and weakens Choi’s explicit intention to unseat Go Jun as the man ruling Ares.",
+      "id": "F02",
+      "rationale": "성주의 자리 continues the preceding image of Ares as a painstakingly constructed fortress and identifies Go Jun as its reigning lord.",
+      "replacement": "Choi Minwoo intended to use every bit of power at his disposal to unseat him as lord of that fortress.",
+      "severity": "minor",
+      "source": "최민우는 모든 힘을 동원하여 그를 성주의 자리에서 끌어내릴 생각이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Before the abyss finally revealed itself, Kim Hwajong stepped in front of his young master. His eyes had sunk darker than ever before.",
+      "defect": "The English reads “before” temporally, making Hwajong move prior to the abyss revealing itself. The Korean uses 앞에서 spatially: he faces the now-revealed abyss and shields Choi.",
+      "id": "F03",
+      "rationale": "심연 앞에서 means “in front of/facing the abyss,” while 모습을 드러내는 presents the abyss as revealing itself at that moment.",
+      "replacement": "Facing the abyss as it finally revealed itself, Kim Hwajong stepped in front of his young master, his gaze darker than ever.",
+      "severity": "major",
+      "source": "마침내 모습을 드러내는 심연(深淵) 앞에서, 김화종이 그 어느 때보다 어둡게 가라앉은 눈빛으로 젊은 주인의 앞을 가로막았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It’s not like there are many bastards who came up empty-handed like me.",
+      "defect": "“Not many” allows for other unsuccessful Hunters, whereas the speaker claims there was no one else who came up empty-handed like him.",
+      "id": "F04",
+      "rationale": "없을 거 아냐 is an absolute claim that there would be no one else, not merely few others.",
+      "replacement": "It’s not like any of them came up empty-handed like me.",
+      "severity": "minor",
+      "source": "나처럼 공친 새끼는 없을 거 아냐."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But it’s him! Wow, this is amazing. Sohye, is my eye for this completely insane? How did I recognize him?",
+      "defect": "The draft drops the woman’s surname from her comic self-address and renders 눈썰미 미쳐 버린 건가 as unnatural, unclear English.",
+      "id": "F05",
+      "rationale": "She addresses herself by her full name, 김소혜, while marveling at her own ability to recognize someone.",
+      "replacement": "But it’s him! Wow, this is incredible. Kim Sohye, is your eye for faces really this good? How did you recognize him?",
+      "severity": "major",
+      "source": "그런데 그 사람이! 와, 진짜 대단하다. 김소혜. 눈썰미 미쳐 버린 건가? 어떻게 그걸 알아보지?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A slave to capitalism was betting his daily wages.",
+      "defect": "The masculine pronoun contradicts the source’s explicit identification of this Hunter as a woman.",
+      "id": "F06",
+      "rationale": "The person staking her wages is the 여자 헌터 introduced moments earlier.",
+      "replacement": "A slave to capitalism was betting her daily wages.",
+      "severity": "critical",
+      "source": "아까부터 뭔가를 골똘히 생각하던 20대 여자 헌터가 스마트폰을 미친 듯이 흔들고 있었다. 자본주의의 노예가 일당을 걸다니."
+    }
+  ],
+  "summary": "Six actionable findings: one gender contradiction, one ambiguous action-timing error, one omitted surname, and three localized fidelity issues.",
+  "version": 1
+}

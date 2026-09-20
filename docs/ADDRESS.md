@@ -972,3 +972,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 송천우 | 천태민 | former subordinate to revered older brother by respect | Hyung | reverent and familiar; shocked | Song Cheonwoo recognizes Cheon Taemin's blood in Choi Minwoo and mutters 형님 while facing Choi. |
 | 고세원 | 경호팀 | security-team commander to subordinate unit | Security Team | terse operational command | Calls the unit over radio before requesting status reports. |
 | 고세원 | 1팀장 | security-team commander to Team One leader | Team Leader of Team One | curt and demanding | Demands the report be repeated after hearing that Team One has nine members. |
+| 20대 여자 헌터 | 팀장 | female Hunter to freelance team leader | Team Leader | casual-polite | She repeatedly addresses the unnamed team leader as 팀장님 while discussing Choi Minwoo. |
+| 팀장 | 팀원 | freelance team leader to subordinate team member | asshole/punk | insulting-casual | The Team Leader addresses the subordinate with 새꺄 and 인마 while joking and complaining over drinks. |
