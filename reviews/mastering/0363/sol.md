@@ -8,11 +8,11 @@ My vision swam. The ceiling and floor traded places, and my hair whipped around 
 
 Crack!
 
-A sharp current raced up my spine, and something hot surged up from deep within my lungs.
+A sharp current raced up my spine, and something hot surged from deep within my lungs.
 
 “Ghk!”
 
-Dark red blood spilled across the floor. It was obvious proof that I had suffered a serious Internal Injury.
+Dark red blood splattered across the floor—clear evidence that I had suffered serious internal injuries.
 
 And I had.
 
@@ -34,7 +34,7 @@ His beard, white as an immortal’s, was stained with blood. His wrist was bent 
 
 *That’s…*
 
-There was no doubt about it. The Divine Physician’s dantian was ruined. Having lost all the martial arts he possessed, he was now nothing more than an ordinary old man.
+There was no doubt about it. The Divine Physician’s dantian had been destroyed. With all his martial prowess gone, he was now nothing more than an ordinary old man.
 
 No—with his qi-sea acupoint destroyed and his arm broken, his condition was anything but good.
 
@@ -58,7 +58,7 @@ Formless internal energy flowed from my fingertips and gently pushed back the Di
 
 Before the Divine Physician could finish speaking, a streak of Finger Qi shot through the air from somewhere beyond us and pierced the wall.
 
-It had passed through the exact spot where the Divine Physician’s head had been only moments ago.
+It passed through the exact spot where his head had been only moments ago.
 
 Shhk! Pfft!
 
@@ -84,13 +84,13 @@ His usual composure and refined manner of speaking had long since vanished. Conc
 
 I used White Flame as a cane and pushed myself to my feet.
 
-Every bone in my body throbbed as if it were about to break. Judging by the pain, some of them probably had cracked. On top of that, I had suffered a severe Internal Injury.
+Every joint in my body throbbed as if my bones were about to shatter. Judging by the pain, some of them probably had cracked. On top of that, I had suffered serious internal injuries.
 
 *Damn it. He was already a monster to begin with.*
 
 For a moment, I regretted provoking him.
 
-I had never imagined that a Supreme Peak master like the Western Heaven Demon Lord would resort without hesitation to tactics fit for some Third Rate dark-path thug.
+I had never imagined that a Supreme Peak master like the Western Heaven Demon Lord would resort without hesitation to tactics fit for some third-rate dark-path thug.
 
 But…
 
@@ -148,7 +148,7 @@ My grip was strong enough to crumple steel like paper. Even without circulating 
 
 Step.
 
-I could not finish my sentence.
+I fell silent and stared at him.
 
 The Western Heaven Demon Lord took a step forward without hesitation and smiled.
 
@@ -164,13 +164,13 @@ He didn’t wait for my answer. Looking delighted beyond measure, he continued.
 
 The smile vanished from the Western Heaven Demon Lord’s lips. His eyes bored into me, filled with scorn and contempt.
 
-“Did you really think a mere human made of flesh and blood could do anything to a sacred treasure imbued with such great power?”
+“Did you truly believe a mere creature of flesh and blood could do anything to a sacred treasure imbued with such great power?”
 
 “……!”
 
 I looked down at the Myriad-Poison Ring resting in my palm.
 
-A sacred treasure passed down through the generations of the Sichuan Tang Clan. One of the old legends of the Murim. A strange ring said to detoxify and absorb any poison under heaven.
+A sacred treasure passed down through generations of the Sichuan Tang Clan. One of the ancient legends of the Murim. A strange ring said to detoxify and absorb any poison under heaven.
 
 And…
 
@@ -178,7 +178,7 @@ And…
 
 A sacred treasure.
 
-The single word flashed through my mind, and my heart seemed to drop into my stomach. Something ran down my back—whether it was blood or cold sweat, I could not tell.
+The moment those words flashed through my mind, my heart sank. Something ran down my back, and I couldn’t tell whether it was blood or cold sweat.
 
 Drip. Drip.
 
@@ -194,7 +194,7 @@ There could be no more compromise. No retreat.
 
 The Western Heaven Demon Lord advanced toward me with a jaunty step.
 
-“I regret what this means for the Blood Lord, but…”
+“The Blood Lord will not be pleased, but…”
 
 Tss-tss-tss-tss!
 
@@ -218,7 +218,7 @@ The spearhead stabbed into empty air, and compressed air exploded.
 
 The Western Heaven Demon Lord caught the shaft with a hand wreathed in Force and clicked his tongue.
 
-“You still cannot let go.”
+“Still clinging to false hope?”
 
 At the same time, the tip of his foot struck my wrist.
 
@@ -228,13 +228,13 @@ But I didn’t give up.
 
 *I’d been ready to take him down with me from the very beginning.*
 
-I could not fall from something like this.
+I couldn’t fall here.
 
 Either he died, or I did.
 
 And if even that was impossible, I would throw my life away to make sure we died together.
 
-Without the help of the others, it would not have been strange if I had already died several times.
+Without the others’ help, I could have died any number of times already.
 
 Now it was time to repay that debt—with interest.
 
@@ -264,9 +264,9 @@ His Body-Protecting Qi could block my Spear Energy, but it couldn’t stop his a
 
 Of course, I had to pay the price for my reckless act.
 
-The hand that had seized his Body-Protecting Qi barehanded was blackened as though it had been shocked by high-voltage electricity. On top of that, I had suffered another Internal Injury that worsened my already terrible condition.
+The hand that had seized his Body-Protecting Qi barehanded was charred black, as though struck by a high-voltage current. Worse, I had suffered another internal injury, further aggravating my already terrible condition.
 
-At the moment my grip loosened against my will and my body staggered—
+My grip loosened against my will, and my body staggered.
 
 “GRAH!”
 
@@ -274,7 +274,7 @@ A belated scream burst from the Western Heaven Demon Lord’s mouth.
 
 His ankle had been wrung out like wet laundry beneath my tremendous grip. White bone showed through the mangled flesh, all of it drenched in blood.
 
-No matter how far someone had advanced into the Supreme Peak realm, everyone had limits.
+Even a master who had reached the distant heights of Supreme Peak had limits.
 
 The Western Heaven Demon Lord had displayed unbelievable martial prowess, but he didn’t possess infinite internal energy or stamina.
 
@@ -298,7 +298,7 @@ Pain had made him drop his sword, leaving his hand empty. It was too late for hi
 
 If I reached out—if I merely extended my hand—I could deal the Western Heaven Demon Lord a devastating blow.
 
-*But then. Then why…*
+*But… Then why…*
 
 Why did I feel this way?
 
@@ -310,7 +310,7 @@ Everything moving within it was so slow that it made me want to yawn.
 
 It was the same sensation I had felt while facing Hwangbo Eom, the Taeeul Merciless Sword.
 
-But this time, the sensation was incomparably sharper. An alarm rang in my mind, and at the same time, I sensed something chilling digging into the back of my neck from behind.
+But this time, it was incomparably sharper. An alarm rang in my mind, and at the same time, I sensed something chilling closing in on the nape of my neck from behind.
 
 *Ah.*
 
@@ -320,7 +320,7 @@ A flash of insight struck me.
 
 I pulled back the hand reaching toward the Western Heaven Demon Lord and twisted my head aside.
 
-At that moment, time—which had briefly seemed to have its pause button pressed—began moving again.
+At that moment, time—which had briefly seemed frozen—began moving again.
 
 Swoooooosh!
 
@@ -362,7 +362,7 @@ So that was what this was.
 
 I flexed my fingers.
 
-The flow of qi and the sensations running through me were clearer than ever.
+I could sense the flow of qi more clearly than ever before.
 
 Along with the pain that already ruled my entire body.
 
@@ -402,7 +402,7 @@ Flames bloomed in the darkness as a hoarse voice rang out, as though its owner h
 
 Beyond the Western Heaven Demon Lord’s rigid shoulder, someone was rising to his feet.
 
-“Take your hands off what belongs to this old man.”
+“Get your hands off what’s mine.”
 
 A small frame.
 
