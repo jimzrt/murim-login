@@ -941,3 +941,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 김 집사 | 최 팀장 | Butler to Young Master | Young Master | deferential | Butler Kim addresses Choi as 도련님 while reacting to the seven-percent mana increase. |
 | 진태경 | 최 팀장 | younger allied Hunter to Team Leader Choi | Team Leader Choi | polite but casual | Taekyung addresses Choi while questioning him about Song Cheonwoo. |
 | 최 팀장 | 진태경 | Team Leader Choi to allied younger Hunter | Mr. Jin Taekyung | formal-polite | Choi uses 진태경 씨 while explaining Song's history and the attached investigation. |
+| 진태경 | 스켈레톤 킹 | trusted ally and subordinate | you; bastard | informal and profane | Taekyung speaks bluntly while acknowledging the Skeleton King's growing reliability. |
+| 스켈레톤 킹 | 진태경 | trusted human companion and superior | vile human | mock-formal and theatrical | The Skeleton King's recurring melodramatic address. |
+| 송천우 | 석고준 | adversary; captor of Song's children | you | shocked and confrontational | Song reacts directly to Go Jun's admission that he took the children. |

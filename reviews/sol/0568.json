@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“I put it off because it could wait. You were there even if I wasn’t.”",
+      "defect": "The draft says the emergency response itself could wait, but Taekyung says he delegated the job because the Skeleton King could handle it in his place.",
+      "id": "F01",
+      "rationale": "The following explanation confirms that Taekyung assessed the Gate and sent the Skeleton King instead of going himself; he did not postpone the emergency response.",
+      "replacement": "“I delegated it because I could. Even if I wasn’t there, they still had you.”",
+      "severity": "major",
+      "source": "“미룰 만하니까 미루지. 내가 없어도 너 있잖아.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had possessed powerful abilities even back when he was called a Warlord, but after his battle with the Lich, he had evolved into an even more powerful being.",
+      "defect": "The draft drops the source’s explicit “Arch” classification from “Arch Lich.”",
+      "id": "F02",
+      "rationale": "아크 리치 specifies an Arch Lich, not merely a Lich.",
+      "replacement": "He had possessed powerful abilities even back when he was called a Warlord, but after his battle with the Arch Lich, he had evolved into an even more powerful being.",
+      "severity": "minor",
+      "source": "아크 리치와의 전투를 통해 더욱 강력한 존재로 거듭났다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "What the hell was a noble grinding session?",
+      "defect": "The draft turns Taekyung’s profane, contemptuous dismissal into a genuine-sounding question.",
+      "id": "F03",
+      "rationale": "같은 소리 하고 자빠졌네 rejects and mocks the preceding phrase rather than asking what it means.",
+      "replacement": "A noble grinding session, my ass.",
+      "severity": "minor",
+      "source": "존귀한 부비부비 같은 소리 하고 자빠졌네."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I didn’t need to look to know what it was.",
+      "defect": "The meaning is retained, but the draft omits the deliberate “hologram” variation on the familiar expression 안 봐도 비디오, losing the source’s joke.",
+      "id": "F04",
+      "rationale": "홀로그램 is an intentional technological update to the idiom and supplies the sentence’s humor.",
+      "replacement": "I didn’t need to look to know why. The answer might as well have been projected as a hologram.",
+      "severity": "minor",
+      "source": "무엇 때문인지는 안 봐도 홀로그램이다."
+    }
+  ],
+  "summary": "One major causal error, one omitted monster classification, and two localized humor defects.",
+  "version": 1
+}
