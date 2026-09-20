@@ -1877,3 +1877,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 김소혜 | **Kim Sohye** | Female Hunter in Pyeongchang who recognizes Choi Minwoo from a news photograph. |
 | 베히모스 | **Behemoth** | Mythical monster emerging from the Pyeongchang Gate. |
 | 베헤모스 | **Behemos** | Alternate spelling of Behemoth used in the chapter. |
+| 헬 파이어 | **Hell Fire** | Name of Kim Hwajong's final hellfire spell. |
