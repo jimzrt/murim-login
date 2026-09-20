@@ -10,6 +10,19 @@ class QaTest(unittest.TestCase):
         result = run_qa(1, source, target, [])
         self.assertTrue(result["passed"], result)
 
+    def test_extra_atx_heading_is_blocked(self):
+        source = "＃1화\n\n" + ("그는 말했다. " * 9) + "\n\n* * *\n\n100"
+        target = (
+            '# Chapter 1\n\nHe said, “This is deliberately long enough to pass the translation ratio check.”\n\n'
+            "# Recruiting around the clock # No one below Peak need apply\n\n* * *\n\n100 remained.\n"
+        )
+        result = run_qa(1, source, target, [])
+        self.assertFalse(result["passed"], result)
+        self.assertTrue(any(item["code"] == "heading" and item["details"].get("lines") == [5] for item in result["errors"]))
+        escaped = target.replace("# Recruiting", r"\# Recruiting")
+        result = run_qa(1, source, escaped, [])
+        self.assertTrue(result["passed"], result)
+
     def test_scene_break_and_hangul_errors_block(self):
         result = run_qa(2, "＃2화\n\n* * *", "# Chapter 2\n\n안녕", [])
         self.assertFalse(result["passed"])

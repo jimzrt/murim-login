@@ -1,28 +1,22 @@
-# Project OMP settings. Subscriptions are prepaid capacity; OpenRouter is overflow.
-# Model-keyed chains apply whenever that selector is active, regardless of workflow role.
-# OpenAI models always prefer Codex subscription, then Cursor, then OpenRouter.
-# Mastering adjudicator is Luna :high with a SOL-default veto
-# (see docs/mastering.json). Review Grok, when used, does not fall through
-# to a different model.
+# Project OMP settings. Model fallbacks are intentionally disabled.
+# Each call either uses its requested model/provider or fails.
+#
+# Previous fallback configuration, retained for easy re-enabling:
+# retry:
+#   enabled: true
+#   modelFallback: false
+#   usageAwareFallback: true
+#   usageReservePct: 0
+#   usageReservePolicy: auto
+#   fallbackChains:
+#     openai-codex/gpt-5.6-sol:
+#       - openrouter/openai/gpt-5.6-sol
+#     openai-codex/gpt-5.6-luna:
+#       - openrouter/openai/gpt-5.6-luna
+#     cursor/cursor-grok-4.6:
+#       - openrouter/x-ai/grok-4.6
 
 retry:
   enabled: true
-  modelFallback: true
-  fallbackRevertPolicy: cooldown-expiry
-  usageAwareFallback: true
-  usageReservePct: 0
-  usageReservePolicy: auto
-  fallbackChains:
-    # Sol (master / checkpoint): Codex → Cursor → paid OpenRouter.
-    openai-codex/gpt-5.6-sol:
-      - openrouter/openai/gpt-5.6-sol
-
-    # Luna (draft / summary / durable update / mastering adjudicator):
-    # Codex → Cursor → cheap OpenRouter.
-    openai-codex/gpt-5.6-luna:
-      - openrouter/openai/gpt-5.6-luna
-
-
-    # Review / adjudication Grok: Cursor → paid OpenRouter Grok.
-    cursor/cursor-grok-4.6:
-      - openrouter/x-ai/grok-4.6
+  modelFallback: false
+  usageAwareFallback: false
