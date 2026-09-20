@@ -18,13 +18,13 @@ Thwack!
 
 Thwack!
 
-“Where do you get off throwing the first punch—the first sword, even?”
+“And where do you get off throwing the first punch—the first sword, even?”
 
 Craack!
 
-The final blow was especially loud. With a wet, choking rattle of blood in his throat, the old man crumpled to the ground.
+The final blow was especially loud. With a wet, choking rattle of blood in his throat, the old man’s body crumpled to the ground.
 
-His face was covered in blood. The sharp bridge of his nose, which had once made countless women’s hearts flutter, had long since been flattened, and the even teeth that had belied his eighty years had been reduced to a single front tooth.
+His face was covered in blood. The sharp bridge of his nose, which had once made countless women’s hearts flutter, had long since been flattened, and the even teeth that had belied his eighty years of age had been reduced to a single front tooth.
 
 “You talk shit about someone else’s Master like you’re insulting their fucking dad, you piece of shit.”
 
@@ -32,35 +32,35 @@ Craack!
 
 The last remaining front tooth went flying through the air and landed in a corner of the tea house.
 
-As everyone stared at the scene in stunned disbelief, a single thought flashed through their minds.
+As they stared at the scene in stunned disbelief, one thought flashed through everyone’s mind.
 
 *What the hell am I looking at?*
 
 Something no one had thought would happen—something that should never have happened—was happening right before their eyes.
 
-Who would believe that a young man barely twenty years old, only just beginning to make a name for himself in the martial world, was beating the Zhongnan Sect’s greatest master and the Sect Leader’s senior martial brother to a pulp?
+Who would believe that a young man barely twenty years old, only just beginning to make a name for himself in the martial world, was brutally beating the Zhongnan Sect’s greatest master and the Sect Leader’s senior brother?
 
 And yet everyone present had witnessed it with their own eyes.
 
-They had seen the exchange between two men whose movements had been too fast to follow. And at the end of that exchange, the fallen old man and the young man standing alone.
+The exchange between two men whose movements had been too fast to follow. And at the end of that exchange, the fallen old man and the young man standing alone.
 
 “The fire dragon…”
 
-Someone muttered those two words like a groan, and they sank deep into everyone’s hearts.
+Someone muttered those two words like a groan, and they sank deep into the hearts of all who heard them.
 
 The Sleeping Dragon of Shanxi. That was the martial name by which the young man Jin Taekyung had been known in the Murim.
 
-But it was wrong. The Hidden Dragon had finally risen, and he would soar through the skies of the entire world—not merely those of Shanxi.
+But that was wrong. The Hidden Dragon had finally risen, and he would soar through the skies of the entire world—not merely those of Shanxi.
 
 As a fire dragon.
 
-“Ethics was the only subject I ever got a perfect score in, but today I’m going all out on an old man. Get up.”
+“The only subject I ever got a perfect score in was ethics. But today, I’m making an exception and attacking an old man properly. Get up.”
 
 No. Not a fire dragon.
 
 Was he a Mad Dragon instead?
 
-The sight of Jin Taekyung gripping Hwangbo Eom’s soot-and-blood-caked beard as though he had the old man by the hair jolted the thirty members of the Taeeul Sword Unit out of their stupor.
+The sight of Jin Taekyung gripping Hwangbo Eom’s beard, which was a filthy mess of soot and blood, as though it were a fistful of hair jolted the thirty members of the Taeeul Sword Unit out of their stupor.
 
 Who was that old man?
 
@@ -70,9 +70,9 @@ He was Taeeul Merciless Sword Hwangbo Eom, a senior of their sect and the Sect L
 
 “Martial Grandmaster!”
 
-Voices erupted all at once, as if on cue.
+The voices erupted all at once, as if they had been rehearsed.
 
-Among them came one particularly loud, forceful shout.
+Among them was one particularly loud shout, filled with force.
 
 “You bastard! Release Senior Martial Uncle this instant!”
 
@@ -88,7 +88,7 @@ Hwangcheon’s eyes widened like saucers.
 
 It had happened in the blink of an eye.
 
-A cold blade had stopped at his throat. A yellow bamboo staff was pressed against his chest, while the sword he had drawn halfway from its scabbard had been caught on another blade and could go no farther.
+A cold blade had stopped at his throat. A yellow bamboo staff was pressed against his chest, while the blade he had drawn halfway from its scabbard had been caught on someone else’s sword and could not be drawn any farther.
 
 The three martial artists who had subdued Hwangcheon, a Peak master of the Zhongnan Sect, in an instant spoke in turn.
 
@@ -104,19 +104,19 @@ And that was not all.
 
 “Protect the Young Bureau Head!”
 
-“This is troublesome. We’re almost finished, so we can’t let things end this way.”
+“This is troublesome. We’re almost done here, so it would be a problem if things ended like this.”
 
 Chief Escort Heo Jun and the cold-faced Song Ilseom, who had been muttering something incomprehensible, led the Yongbong Escort Bureau’s escorts in confronting the Zhongnan disciples.
 
 “The branch leader commands you filthy Beggars’ Sect bastards! Show those dogs who are beneath even a yellow dog what a beggar’s cudgel feels like!”
 
-“We’re beggars too. Why are you calling us bastards?”
+“We’re both beggars. Why are you calling us bastards?”
 
 “Good grief. It’s been ages since I got to really cut loose.”
 
-“If any of us get hurt, it’s the branch leader’s responsibility. Don’t give us grief just because we can’t beg for a while.”
+“If any of you get hurt, it’s the branch leader’s responsibility. Don’t hassle us just because we can’t beg for a while.”
 
-Heukgeol Beggar and the Beggars’ Sect disciples enthusiastically drew the cudgels hanging from their waists.
+Heukgeol Beggar and the Beggars’ Sect disciples drew the cudgels hanging from their waists with considerable enthusiasm.
 
 “You lot, don’t get involved and hurt yourselves for no reason. Write down every detail of what happens. We’ll be able to sell it for a high price later.”
 
@@ -126,17 +126,17 @@ Heukgeol Beggar and the Beggars’ Sect disciples enthusiastically drew the cudg
 
 “Ah! Of course!”
 
-“Draw pictures too. Make them vivid enough to leap off the page.”
+“Draw pictures, too. Make them vivid enough to leap off the page.”
 
 “Yes, ma’am!”
 
-Hoping to make a fortune, Wolhwa and the Lower District Sect members began recording the scene before them in words and pictures without missing a single detail.
+Wolhwa and the Lower District Sect members, who were hoping to make a fortune, began recording the scene before them in words and pictures without missing a single detail.
 
-“Wow! I’ve never been in a situation like this before!”
+“Wow! This is the first time I’ve seen anything like this in my life!”
 
 “You bastards! Hyuk Mujin is here too—the Vice Squad Leader of the Jin Dragon Squad and the Captain’s right-hand man!”
 
-Finally, even Cheongpung and Hyuk Mujin, who had been watching from a safe distance, joined in.
+Finally, even Cheongpung and Hyuk Mujin, who had been standing a step away and watching the fire from across the river, joined in.
 
 As events took an unexpected turn, Hwangcheon’s face flushed with confusion and rage.
 
@@ -154,9 +154,9 @@ Over the shoulders of the people blocking the Zhongnan Sect’s path, a pair of 
 
 “I asked you. What are you going to do if I don’t want to stop?”
 
-White steam billowed from Jin Taekyung’s sneering lips.
+White steam escaped from Jin Taekyung’s lips as he sneered.
 
-Perhaps it was because Hwangcheon had witnessed that unbelievable display of might. Merely meeting Jin Taekyung’s gaze and hearing that low voice in his ears was enough to make his breath catch.
+Was it because he had witnessed that unbelievable display of power? Merely meeting Jin Taekyung’s gaze and hearing his low voice bore into his ears was enough to make Hwangcheon’s breath catch.
 
 His aura was truly overwhelming.
 
@@ -164,13 +164,13 @@ His aura was truly overwhelming.
 
 Hwangcheon realized it once again.
 
-To the young man who had defeated the Zhongnan Sect’s greatest master, age was nothing more than a number.
+To the young man who had defeated the greatest master of the Zhongnan Sect, age was nothing more than a number.
 
 *He’s a monster. That man is a monster.*
 
-And now that monster was looking directly at him.
+And that monster was looking directly at him.
 
-How could the martial arts he had once taken such pride in feel so insignificant?
+How could the martial arts he had once been so proud of feel this insignificant?
 
 Hwangcheon swallowed dryly again and again as Jin Taekyung’s aura pressed down on him.
 
@@ -178,9 +178,9 @@ That was when—
 
 “Junior Brother, withdraw. Everyone else, sheathe your swords.”
 
-A calm voice sounded as a man stepped in front of him.
+A calm voice accompanied the back of a man who stepped in front of them.
 
-Hwangcheon’s eyes widened at the familiar back.
+Hwangcheon’s eyes widened at the familiar figure.
 
 “Senior Brother Hyuk…!”
 
@@ -192,25 +192,25 @@ Standing before Hwangcheon, he stared at Jin Taekyung with firm eyes.
 
 Though dozens of weapons were pointed at him, his voice did not waver in the slightest.
 
-“Please end this pointless fight.”
+“Please stop this meaningless fight.”
 
-“Pointless? End it?”
+“Meaningless? Stop it?”
 
-A short, breathy laugh escaped Jin Taekyung’s lips.
+A short, breathy laugh escaped through Jin Taekyung’s lips.
 
 “Even if you started it, I’m the one who decides how it ends.”
 
 “I know. That is why I’m asking.”
 
-“Asking? Just because you have a mouth doesn’t mean you can say whatever you want. Keep running it and someone might put a hole through it.”
+“You’re asking? Just because you have a mouth doesn’t mean you can say whatever you want. You might end up with that mouth actually being pierced.”
 
-“The outcome is already clear. I ask you to show the mercy of the strong.”
+“The victor is already clear. I’m asking you to show the magnanimity of the stronger party.”
 
 The Zhongnan disciples’ eyes widened—not at his surprisingly courteous manner or voice, but at the meaning of his words.
 
 Hwangcheon, who had remained silent behind Hyuk Sopyung, raised his head and shouted.
 
-“Senior Brother! The mercy of the strong? Those words dishonor Senior Martial Uncle and the Great Zhongnan Sect—”
+“Senior Brother! The magnanimity of the stronger party? That would damage Senior Martial Uncle’s and the Great Zhongnan Sect’s reputation—”
 
 “Junior Brother.”
 
@@ -226,35 +226,35 @@ But his next words were as sharp as a drawn blade.
 
 Not only Hwangcheon, but all thirty members of the Taeeul Sword Unit stared at Hyuk Sopyung with blank expressions.
 
-Under the stunned gazes of all his junior disciples, Hyuk Sopyung slowly began to speak.
+Receiving all of his junior disciples’ stunned gazes, Hyuk Sopyung slowly opened his mouth.
 
 “Anyone who wasn’t blind would have seen it. Anyone who wasn’t deaf would have heard it—how all of this began.”
 
 “…….”
 
-“We plotted in the shadows to swallow the Yongbong Escort Bureau whole. That is not the conduct of a great and prestigious sect. Therefore, our sect has already lost its dignity.”
+“We plotted in the shadows to swallow the Yongbong Escort Bureau whole. That is not the conduct of a great orthodox sect. Therefore, our sect has already lost its dignity.”
 
 His voice was low, and his expression was twisted with pain. But Hyuk Sopyung did not stop.
 
-“Worse, even in the face of such clear evidence, we refused to admit our wrongdoing, harbored murderous intent, and swung our swords. That severed the last shred of trust our sect still possessed. And yet which one of us dares speak of reputation? Me, who forgot my duty and wallowed in wine and women? Or you, who refuse to admit your mistakes and cling only to your pride?”
+“Worse, even in the face of such clear evidence, we refused to admit our wrongdoing, harbored murderous intent, and swung our swords. That severed the last shred of trust our sect still possessed. And yet which one of us dares speak of reputation? Me, who forgot my duty and floundered in wine and women? Or you, who refuse to admit your mistakes and cling only to your pride?”
 
 Hwangcheon lowered his head.
 
-He was not the only one. All thirty Zhongnan disciples fell silent, gripping the scabbards at their waists as if they meant to crush them.
+He was not the only one. All thirty Zhongnan disciples fell silent, gripping the scabbards at their waists so tightly that their knuckles turned white.
 
 They were ashamed because everything Hyuk Sopyung had said was true. And as the pride they had held in their sect crumbled, they felt hollow and humiliated.
 
-No one spoke, but everyone around them could feel those emotions.
+No one spoke, but the emotions they felt were vividly conveyed to everyone around them.
 
 “At least today… we were not the Great Zhongnan Sect.”
 
 With those final words, Hyuk Sopyung looked at his junior disciples with eyes filled with regret, then turned around.
 
-He gave a deep fist-and-palm salute to the one man who had silently waited for him to finish.
+He took a deep martial salute toward the one man who had silently waited for him to finish speaking.
 
 “This Zhongnan disciple, Hyuk Sopyung, humbly asks this of you. We deeply regret and apologize for the wrongs our sect has committed. Please show mercy just this once and spare him.”
 
-His manner was exceedingly respectful, as though he were addressing a revered master of the previous generation.
+His manner was exceedingly respectful, as though he were addressing a legendary master of the martial world.
 
 And yet the person receiving his salute was a barely grown young man.
 
@@ -272,7 +272,7 @@ Craack!
 
 The inside of Tengwang Pavilion was beyond ruined.
 
-The roof had collapsed completely, and all the furnishings had been reduced to rubble and dust by the battle between Hwangbo Eom and me. Cold wind and the murmuring of onlookers drifted in through the collapsed walls.
+The roof had collapsed completely, and all the furnishings had been reduced to splinters by the battle between Hwangbo Eom and me. Cold wind and the murmuring of onlookers drifted in through the collapsed walls.
 
 “My heavens, Tengwang Pavilion…”
 
@@ -280,25 +280,25 @@ The roof had collapsed completely, and all the furnishings had been reduced to r
 
 “I don’t know the details either. But from what I’ve heard, about one shichen ago, Taeeul Merciless Sword of the Zhongnan Sect led his disciples…”
 
-Xi’an was the center of Shaanxi Province. No matter how far out of the way Tengwang Pavilion was, it could not escape the people’s attention.
+Xi’an was the center of Shaanxi Province. No matter how far from the main streets Tengwang Pavilion had been, it could not escape the people’s attention.
 
-And the commoners who had gathered out of equal parts curiosity and concern found themselves facing dozens of sharp martial artists’ gazes.
+And the commoners who had gathered out of equal parts curiosity and concern were forced to face dozens of sharp martial artists’ gazes.
 
 “That’s far enough.”
 
 “This is a matter of the martial world. Don’t get involved. Go back!”
 
-Dozens of armed martial artists formed a human wall to block their approach. The commoners hesitated, then slowly backed away.
+Dozens of armed martial artists formed a wall of people to block their approach. The commoners hesitated, then slowly backed away.
 
 I clicked my tongue as I watched the Zhongnan disciples struggling desperately to keep the scene inside from being exposed.
 
-“Look at you trying so hard.”
+“You’re really trying. Really.”
 
-The Great Zhongnan Sect’s reputation was already shot to hell, yet they were still fighting to preserve even a shred of it.
+The Great Zhongnan Sect’s reputation had already been destroyed, yet they were still struggling to preserve even a shred of it.
 
 It was both pitiful and idiotic.
 
-I dropped into a wooden chair with a broken back and spoke.
+I dropped into a wooden chair with a broken back and opened my mouth.
 
 “Well, unpleasant things happened, but we still have to finish what needs finishing. Let’s find some common ground through dialogue instead of barbaric violence.”
 
@@ -326,15 +326,15 @@ A sobbing groan escaped from his slightly open mouth, accompanied by the wet rat
 
 I grabbed Hwangbo Eom by the wrist.
 
-Resisting the urge to break it, I sent a small amount of internal energy into him. A little color returned to his pale face.
+Resisting the urge to break it, I sent a small amount of internal energy into him. The pallor of his face improved slightly.
 
-“Patient? Sir, wake up. It’s time for your injection—no, your negotiation.”
+“Patient, patient, wake up. It’s time for your injection—no, your negotiation.”
 
 “Hrrgh… Jin Taekyung. You…”
 
 “That catchphrase went out of fashion fifty years ago.”
 
-“You bastard. Do you really think our sect will let you get away with this…?”
+“You bastard. Do you think our sect will let you get away with this…?”
 
 “Hm.”
 
@@ -346,7 +346,7 @@ Smack!
 
 “Guh!”
 
-Hwangbo Eom’s eyes rolled back from the slap.
+Hwangbo Eom’s eyes rolled back after the slap.
 
 As he trembled all over and began to slide out of the chair, Hyuk Sopyung caught him and sighed.
 
@@ -356,17 +356,17 @@ As he trembled all over and began to slide out of the chair, Hyuk Sopyung caught
 
 “Even so, restrain yourself. Any more than this could endanger his life.”
 
-“You’ve had a rough time too. Judging by his personality, I can’t imagine he treated you particularly well either. Am I wrong?”
+“You’ve had a rough time, too. Judging by his personality, I can’t imagine he treated you particularly well either. Am I wrong?”
 
-“……What kind of person he was to me is irrelevant. He is my Master’s senior martial brother and a disciple of our sect.”
+“……What kind of person he was to me is irrelevant. He is my Master’s senior martial brother, and a disciple of our sect.”
 
 The complicated expression on Hyuk Sopyung’s face suggested that there was some story between them.
 
-*He seems surprisingly decent now… Was that why he got drunk and caused all that trouble?*
+*He seems surprisingly decent, considering. Was that why he used to drink and cause disturbances?*
 
 The question crossed my mind for an instant, but I had no intention of asking.
 
-I wasn’t particularly curious, either.
+I was not particularly curious, either.
 
 There was something more important to deal with now.
 
@@ -388,7 +388,7 @@ Hwangbo Eom’s hoarse voice cut her off.
 
 I knew it.
 
-I gave the rigid Ju Hwaran a look.
+I gestured toward Ju Hwaran, who had gone rigid.
 
 “Young Lady Ju, wait a moment.”
 
@@ -412,7 +412,7 @@ Hwangbo Eom glared at me with burning eyes.
 
 Smack!
 
-“Guh! No compensation whatso—”
+“Guh! No compensation whatsoever.”
 
 Smack!
 

@@ -1,0 +1,1390 @@
+{
+  "baseline_blocks": 212,
+  "baseline_sha256": "ee5c5092a2dc6ef5e3023d42756d8d1f2cf8fd5f10464ff75fb19f09305bd497",
+  "global_terminology_alerts": [
+    {
+      "korean": "내상",
+      "preferred": "Internal Injury"
+    }
+  ],
+  "hunk_count": 74,
+  "hunks": [
+    {
+      "baseline": "Huashan, the Beggars’ Sect, the Zhongnan Sect, the Lower District Sect, and even the Yongbong Escort Bureau. Dozens of trembling pairs of eyes stared dumbfoundedly at the scene unfolding before them.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "9",
+      "sol": "Huashan, the Beggars’ Sect, the Zhongnan Sect, the Lower District Sect, and even the Yongbong Escort Bureau. Dozens of trembling eyes stared dumbfounded at the scene unfolding before them.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And where do you get off throwing the first punch—the first sword, even?”",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "23",
+      "sol": "“Where do you get off throwing the first punch—the first sword, even?”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The final blow was especially loud. With a wet, choking rattle of blood in his throat, the old man’s body crumpled to the ground.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "27",
+      "sol": "The final blow was especially loud. With a wet, choking rattle of blood in his throat, the old man crumpled to the ground.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His face was covered in blood. The sharp bridge of his nose, which had once made countless women’s hearts flutter, had long since been flattened, and the even teeth that had belied his eighty years of age had been reduced to a single front tooth.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "29",
+      "sol": "His face was covered in blood. The sharp bridge of his nose, which had once made countless women’s hearts flutter, had long since been flattened, and the even teeth that had belied his eighty years had been reduced to a single front tooth.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As they stared at the scene in stunned disbelief, one thought flashed through everyone’s mind.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "37",
+      "sol": "As everyone stared at the scene in stunned disbelief, a single thought flashed through their minds.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Who would believe that a young man barely twenty years old, only just beginning to make a name for himself in the martial world, was brutally beating the Zhongnan Sect’s greatest master and the Sect Leader’s senior brother?",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "43",
+      "sol": "Who would believe that a young man barely twenty years old, only just beginning to make a name for himself in the martial world, was beating the Zhongnan Sect’s greatest master and the Sect Leader’s senior martial brother to a pulp?",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "사형",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Senior Brother"
+        }
+      ]
+    },
+    {
+      "baseline": "The exchange between two men whose movements had been too fast to follow. And at the end of that exchange, the fallen old man and the young man standing alone.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "47",
+      "sol": "They had seen the exchange between two men whose movements had been too fast to follow. And at the end of that exchange, the fallen old man and the young man standing alone.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Someone muttered those two words like a groan, and they sank deep into the hearts of all who heard them.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "51",
+      "sol": "Someone muttered those two words like a groan, and they sank deep into everyone’s hearts.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But that was wrong. The Hidden Dragon had finally risen, and he would soar through the skies of the entire world—not merely those of Shanxi.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "55",
+      "sol": "But it was wrong. The Hidden Dragon had finally risen, and he would soar through the skies of the entire world—not merely those of Shanxi.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The only subject I ever got a perfect score in was ethics. But today, I’m making an exception and attacking an old man properly. Get up.”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "59",
+      "sol": "“Ethics was the only subject I ever got a perfect score in, but today I’m going all out on an old man. Get up.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. Not a fire dragon.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "61",
+      "sol": "No. Perhaps he wasn’t a fire dragon.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Was he a Mad Dragon instead?",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "63",
+      "sol": "Perhaps he was a Mad Dragon instead.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sight of Jin Taekyung gripping Hwangbo Eom’s beard, which was a filthy mess of soot and blood, as though it were a fistful of hair jolted the thirty members of the Taeeul Sword Unit out of their stupor.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "65",
+      "sol": "The sight of Jin Taekyung gripping Hwangbo Eom’s soot-and-blood-caked beard as though he had the old man by the hair jolted the thirty members of the Taeeul Sword Unit out of their stupor.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was Taeeul Merciless Sword Hwangbo Eom, a senior of their sect and the Sect Leader’s senior martial brother.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "69",
+      "sol": "He was Taeeul Merciless Sword Hwangbo Eom, a venerated elder of their sect and the Sect Leader’s senior martial brother.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The voices erupted all at once, as if they had been rehearsed.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "75",
+      "sol": "Voices erupted all at once, as if on cue.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Among them was one particularly loud shout, filled with force.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "77",
+      "sol": "Among them came one particularly loud, forceful shout.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A cold blade had stopped at his throat. A yellow bamboo staff was pressed against his chest, while the blade he had drawn halfway from its scabbard had been caught on someone else’s sword and could not be drawn any farther.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "93",
+      "sol": "A cold blade had stopped at his throat. A yellow bamboo staff was pressed against his chest, while the sword he had drawn halfway from its scabbard had been caught on another blade and could go no farther.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The three martial artists who had subdued Hwangcheon, a Peak master of the Zhongnan Sect, in an instant spoke in turn.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "95",
+      "sol": "The three martial artists who had subdued Hwangcheon, a Peak master, in an instant spoke in turn.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "종남파",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Zhongnan Sect"
+        }
+      ]
+    },
+    {
+      "baseline": "“This is troublesome. We’re almost done here, so it would be a problem if things ended like this.”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "109",
+      "sol": "“This is troublesome. We’re almost finished, so we can’t let things end this way.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The branch leader commands you filthy Beggars’ Sect bastards! Show those dogs who are beneath even a yellow dog what a beggar’s cudgel feels like!”",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "113",
+      "sol": "“The branch leader commands you filthy Beggars’ Sect bastards! Show those scum, who are worse than yellow dogs, what a beggar’s cudgel feels like!”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We’re both beggars. Why are you calling us bastards?”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "115",
+      "sol": "“We’re beggars too. Why are you calling us bastards?”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If any of you get hurt, it’s the branch leader’s responsibility. Don’t hassle us just because we can’t beg for a while.”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "119",
+      "sol": "“If any of us get hurt, it’s the branch leader’s responsibility. Don’t give us grief just because we can’t beg for a while.”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heukgeol Beggar and the Beggars’ Sect disciples drew the cudgels hanging from their waists with considerable enthusiasm.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "121",
+      "sol": "Heukgeol Beggar and the Beggars’ Sect disciples enthusiastically drew the cudgels hanging from their waists.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Draw pictures, too. Make them vivid enough to leap off the page.”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "131",
+      "sol": "“Draw pictures too. Make them vivid enough to leap off the page.”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Wolhwa and the Lower District Sect members, who were hoping to make a fortune, began recording the scene before them in words and pictures without missing a single detail.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "135",
+      "sol": "Hoping to make a fortune, Wolhwa and the Lower District Sect members began recording the scene before them in words and pictures without missing a single detail.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Wow! This is the first time I’ve seen anything like this in my life!”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "137",
+      "sol": "“Wow! I’ve never been in a situation like this before!”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Finally, even Cheongpung and Hyuk Mujin, who had been standing a step away and watching the fire from across the river, joined in.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "141",
+      "sol": "Finally, even Cheongpung and Hyuk Mujin, who had been watching from a safe distance, joined in.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "White steam escaped from Jin Taekyung’s lips as he sneered.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "159",
+      "sol": "White steam billowed from Jin Taekyung’s sneering lips.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Was it because he had witnessed that unbelievable display of power? Merely meeting Jin Taekyung’s gaze and hearing his low voice bore into his ears was enough to make Hwangcheon’s breath catch.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "161",
+      "sol": "Perhaps it was because Hwangcheon had witnessed that unbelievable display of might. Merely meeting Jin Taekyung’s gaze and hearing that low voice in his ears was enough to make his breath catch.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*H-How can someone so young…?*",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "165",
+      "sol": "*H-how can someone so young…?*",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To the young man who had defeated the greatest master of the Zhongnan Sect, age was nothing more than a number.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "169",
+      "sol": "To the young man who had defeated the Zhongnan Sect’s greatest master, age was nothing more than a number.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that monster was looking directly at him.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "173",
+      "sol": "And now that monster was looking directly at him.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How could the martial arts he had once been so proud of feel this insignificant?",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "175",
+      "sol": "How could the martial arts he had once taken such pride in feel so insignificant?",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Junior Brother, withdraw. Everyone else, sheathe your swords.”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "181",
+      "sol": "“Junior Brother, withdraw. Everyone else, lower your weapons.”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A calm voice accompanied the back of a man who stepped in front of them.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "183",
+      "sol": "A calm voice sounded as a man stepped in front of him.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hwangcheon’s eyes widened at the familiar figure.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "185",
+      "sol": "Hwangcheon’s eyes widened at the familiar back.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Please stop this meaningless fight.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "197",
+      "sol": "“Please end this pointless fight.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Meaningless? Stop it?”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "199",
+      "sol": "“Pointless? End it?”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A short, breathy laugh escaped through Jin Taekyung’s lips.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "201",
+      "sol": "A short, breathy laugh escaped Jin Taekyung’s lips.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even if you started it, I’m the one who decides how it ends.”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "203",
+      "sol": "“You might have started it, but I’m the one who decides how it ends.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re asking? Just because you have a mouth doesn’t mean you can say whatever you want. You might end up with that mouth actually being pierced.”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "207",
+      "sol": "“Asking? Just because you have a mouth doesn’t mean you can say whatever you want. Keep running it and someone might put a hole through it.”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The victor is already clear. I’m asking you to show the magnanimity of the stronger party.”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "209",
+      "sol": "“The outcome is already clear. I ask you to show the mercy of the strong.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Senior Brother! The magnanimity of the stronger party? That would damage Senior Martial Uncle’s and the Great Zhongnan Sect’s reputation—”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "215",
+      "sol": "“Senior Brother! The mercy of the strong? Those words dishonor Senior Martial Uncle and the Great Zhongnan Sect—”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Receiving all of his junior disciples’ stunned gazes, Hyuk Sopyung slowly opened his mouth.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "231",
+      "sol": "Under the stunned gazes of all his junior disciples, Hyuk Sopyung slowly began to speak.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We plotted in the shadows to swallow the Yongbong Escort Bureau whole. That is not the conduct of a great orthodox sect. Therefore, our sect has already lost its dignity.”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "237",
+      "sol": "“We plotted in the shadows to swallow the Yongbong Escort Bureau whole. That is not the conduct of a great and prestigious sect. Therefore, our sect has already lost its dignity.”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Worse, even in the face of such clear evidence, we refused to admit our wrongdoing, harbored murderous intent, and swung our swords. That severed the last shred of trust our sect still possessed. And yet which one of us dares speak of reputation? Me, who forgot my duty and floundered in wine and women? Or you, who refuse to admit your mistakes and cling only to your pride?”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "241",
+      "sol": "“Worse, even in the face of such clear evidence, we refused to admit our wrongdoing, harbored murderous intent, and swung our swords. That severed the last shred of trust our sect still possessed. And yet which one of us dares speak of reputation? Me, who forgot my duty and wallowed in wine and women? Or you, who refuse to admit your mistakes and cling only to your pride?”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was not the only one. All thirty Zhongnan disciples fell silent, gripping the scabbards at their waists so tightly that their knuckles turned white.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "245",
+      "sol": "He was not the only one. All thirty Zhongnan disciples fell silent, gripping the scabbards at their waists as if they meant to crush them.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were ashamed because everything Hyuk Sopyung had said was true. And as the pride they had held in their sect crumbled, they felt hollow and humiliated.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "247",
+      "sol": "They were ashamed because everything Hyuk Sopyung had said was true. And as the pride in their sect that had seeped into their very bones crumbled, they felt devastated and humiliated.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No one spoke, but the emotions they felt were vividly conveyed to everyone around them.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "249",
+      "sol": "No one spoke, but everyone around them could feel those emotions.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He took a deep martial salute toward the one man who had silently waited for him to finish speaking.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "257",
+      "sol": "He gave a deep fist-and-palm salute to the one man who had silently waited for him to finish.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "His manner was exceedingly respectful, as though he were addressing a legendary master of the martial world.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "263",
+      "sol": "His manner was exceedingly respectful, as though he were addressing a revered master of the previous generation.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial world"
+        }
+      ]
+    },
+    {
+      "baseline": "And yet the person receiving his salute was a barely grown young man.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "265",
+      "sol": "And yet the person receiving his salute was a young man barely into his twenties.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The roof had collapsed completely, and all the furnishings had been reduced to splinters by the battle between Hwangbo Eom and me. Cold wind and the murmuring of onlookers drifted in through the collapsed walls.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "281",
+      "sol": "The roof had collapsed completely, and all the furnishings had been reduced to rubble and dust by the battle between Hwangbo Eom and me. Cold wind and the murmuring of onlookers drifted in through the collapsed walls.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Xi’an was the center of Shaanxi Province. No matter how far from the main streets Tengwang Pavilion had been, it could not escape the people’s attention.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "289",
+      "sol": "Xi’an was the center of Shaanxi Province. No matter how far out of the way Tengwang Pavilion was, it could not escape the people’s attention.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the commoners who had gathered out of equal parts curiosity and concern were forced to face dozens of sharp martial artists’ gazes.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "291",
+      "sol": "And the commoners who had gathered out of equal parts curiosity and concern found themselves facing dozens of sharp martial artists’ gazes.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dozens of armed martial artists formed a wall of people to block their approach. The commoners hesitated, then slowly backed away.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "297",
+      "sol": "Dozens of armed martial artists formed a human wall to block their approach. The commoners hesitated, then slowly backed away.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re really trying. Really.”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "301",
+      "sol": "“Look at you trying so hard.”",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Great Zhongnan Sect’s reputation had already been destroyed, yet they were still struggling to preserve even a shred of it.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "303",
+      "sol": "The Great Zhongnan Sect’s reputation was already shot to hell, yet they were still fighting to preserve even a shred of it.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was both pitiful and idiotic.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "305",
+      "sol": "It was both pathetic and fucking stupid.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I dropped into a wooden chair with a broken back and opened my mouth.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "307",
+      "sol": "I dropped into a wooden chair with a broken back and spoke.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, unpleasant things happened, but we still have to finish what needs finishing. Let’s find some common ground through dialogue instead of barbaric violence.”",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "309",
+      "sol": "“Well, some unfortunate things happened, but we still have to finish what needs finishing. Let’s find some common ground through dialogue instead of barbaric violence.”",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Both of his arms were broken, and one leg was fractured. On top of that, he had suffered an Internal Injury that would require at least a year of recovery, while his nose and teeth had been smashed to pieces.",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "327",
+      "sol": "Both of his arms were broken, and one leg was fractured. On top of that, he had suffered internal injuries that would require at least a year of recovery, while his nose and teeth had been smashed to pieces.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "내상",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Internal Injury"
+        }
+      ]
+    },
+    {
+      "baseline": "Resisting the urge to break it, I sent a small amount of internal energy into him. The pallor of his face improved slightly.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "335",
+      "sol": "Resisting the urge to break it, I sent a small amount of internal energy into him. A little color returned to his pale face.",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Patient, patient, wake up. It’s time for your injection—no, your negotiation.”",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "337",
+      "sol": "“Patient? Sir, wake up. It’s time for your injection—no, your negotiation.”",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You bastard. Do you think our sect will let you get away with this…?”",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "343",
+      "sol": "“You bastard. Do you really think our sect will let you get away with this…?”",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hwangbo Eom’s eyes rolled back after the slap.",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "355",
+      "sol": "Hwangbo Eom’s eyes rolled back from the slap.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s not my fault. He keeps earning these beatings. He’s practically begging me to kill him. What else am I supposed to do?”",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "361",
+      "sol": "“It’s not my fault. He keeps begging for a beating. He’s practically demanding that I kill him. What else am I supposed to do?”",
+      "sol_paragraphs": "P178",
+      "sol_range": [
+        177,
+        178
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’ve had a rough time, too. Judging by his personality, I can’t imagine he treated you particularly well either. Am I wrong?”",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "365",
+      "sol": "“You’ve had a rough time too. Judging by his personality, I can’t imagine he treated you particularly well either. Am I wrong?”",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……What kind of person he was to me is irrelevant. He is my Master’s senior martial brother, and a disciple of our sect.”",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "367",
+      "sol": "“……What kind of person he was to me is irrelevant. He is my Master’s senior martial brother and a disciple of our sect.”",
+      "sol_paragraphs": "P181",
+      "sol_range": [
+        180,
+        181
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He seems surprisingly decent, considering. Was that why he used to drink and cause disturbances?*",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "371",
+      "sol": "*He seems surprisingly decent now… Was that why he got drunk and caused all that trouble?*",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was not particularly curious, either.",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "375",
+      "sol": "I wasn’t particularly curious, either.",
+      "sol_paragraphs": "P185",
+      "sol_range": [
+        184,
+        185
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I gestured toward Ju Hwaran, who had gone rigid.",
+      "baseline_paragraphs": "P196",
+      "baseline_range": [
+        195,
+        196
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "397",
+      "sol": "I gave the rigid Ju Hwaran a look.",
+      "sol_paragraphs": "P196",
+      "sol_range": [
+        195,
+        196
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Guh! No compensation whatsoever.”",
+      "baseline_paragraphs": "P208",
+      "baseline_range": [
+        207,
+        208
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "403",
+      "sol": "“Guh! No compensation whatso—”",
+      "sol_paragraphs": "P208",
+      "sol_range": [
+        207,
+        208
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Guhhh! Our sect will pay any compensation!”",
+      "baseline_paragraphs": "P210",
+      "baseline_range": [
+        209,
+        210
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "403",
+      "sol": "“Guhhh! We’ll pay any compensation!”",
+      "sol_paragraphs": "P210",
+      "sol_range": [
+        209,
+        210
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "본문",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "our sect / this sect"
+        }
+      ]
+    }
+  ],
+  "sol_blocks": 212,
+  "sol_sha256": "6a28caff15a3083de46ce82e95bd54919624e2f32bb3b1c23fed5988319dd1d6",
+  "version": 1
+}

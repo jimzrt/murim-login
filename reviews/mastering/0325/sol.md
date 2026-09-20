@@ -4,7 +4,7 @@ A shudder.
 
 That was the emotion everyone present shared.
 
-Huashan, the Beggars’ Sect, the Zhongnan Sect, the Lower District Sect, and even the Yongbong Escort Bureau. Dozens of trembling pairs of eyes stared dumbfoundedly at the scene unfolding before them.
+Huashan, the Beggars’ Sect, the Zhongnan Sect, the Lower District Sect, and even the Yongbong Escort Bureau. Dozens of trembling eyes stared dumbfounded at the scene unfolding before them.
 
 “So.”
 
@@ -56,15 +56,15 @@ As a fire dragon.
 
 “Ethics was the only subject I ever got a perfect score in, but today I’m going all out on an old man. Get up.”
 
-No. Not a fire dragon.
+No. Perhaps he wasn’t a fire dragon.
 
-Was he a Mad Dragon instead?
+Perhaps he was a Mad Dragon instead.
 
 The sight of Jin Taekyung gripping Hwangbo Eom’s soot-and-blood-caked beard as though he had the old man by the hair jolted the thirty members of the Taeeul Sword Unit out of their stupor.
 
 Who was that old man?
 
-He was Taeeul Merciless Sword Hwangbo Eom, a senior of their sect and the Sect Leader’s senior martial brother.
+He was Taeeul Merciless Sword Hwangbo Eom, a venerated elder of their sect and the Sect Leader’s senior martial brother.
 
 “W-wait!”
 
@@ -90,7 +90,7 @@ It had happened in the blink of an eye.
 
 A cold blade had stopped at his throat. A yellow bamboo staff was pressed against his chest, while the sword he had drawn halfway from its scabbard had been caught on another blade and could go no farther.
 
-The three martial artists who had subdued Hwangcheon, a Peak master of the Zhongnan Sect, in an instant spoke in turn.
+The three martial artists who had subdued Hwangcheon, a Peak master, in an instant spoke in turn.
 
 “You’d better not draw that sword.”
 
@@ -108,7 +108,7 @@ And that was not all.
 
 Chief Escort Heo Jun and the cold-faced Song Ilseom, who had been muttering something incomprehensible, led the Yongbong Escort Bureau’s escorts in confronting the Zhongnan disciples.
 
-“The branch leader commands you filthy Beggars’ Sect bastards! Show those dogs who are beneath even a yellow dog what a beggar’s cudgel feels like!”
+“The branch leader commands you filthy Beggars’ Sect bastards! Show those scum, who are worse than yellow dogs, what a beggar’s cudgel feels like!”
 
 “We’re beggars too. Why are you calling us bastards?”
 
@@ -160,7 +160,7 @@ Perhaps it was because Hwangcheon had witnessed that unbelievable display of mig
 
 His aura was truly overwhelming.
 
-*H-How can someone so young…?*
+*H-how can someone so young…?*
 
 Hwangcheon realized it once again.
 
@@ -176,7 +176,7 @@ Hwangcheon swallowed dryly again and again as Jin Taekyung’s aura pressed down
 
 That was when—
 
-“Junior Brother, withdraw. Everyone else, sheathe your swords.”
+“Junior Brother, withdraw. Everyone else, lower your weapons.”
 
 A calm voice sounded as a man stepped in front of him.
 
@@ -198,7 +198,7 @@ Though dozens of weapons were pointed at him, his voice did not waver in the sli
 
 A short, breathy laugh escaped Jin Taekyung’s lips.
 
-“Even if you started it, I’m the one who decides how it ends.”
+“You might have started it, but I’m the one who decides how it ends.”
 
 “I know. That is why I’m asking.”
 
@@ -242,7 +242,7 @@ Hwangcheon lowered his head.
 
 He was not the only one. All thirty Zhongnan disciples fell silent, gripping the scabbards at their waists as if they meant to crush them.
 
-They were ashamed because everything Hyuk Sopyung had said was true. And as the pride they had held in their sect crumbled, they felt hollow and humiliated.
+They were ashamed because everything Hyuk Sopyung had said was true. And as the pride in their sect that had seeped into their very bones crumbled, they felt devastated and humiliated.
 
 No one spoke, but everyone around them could feel those emotions.
 
@@ -256,7 +256,7 @@ He gave a deep fist-and-palm salute to the one man who had silently waited for h
 
 His manner was exceedingly respectful, as though he were addressing a revered master of the previous generation.
 
-And yet the person receiving his salute was a barely grown young man.
+And yet the person receiving his salute was a young man barely into his twenties.
 
 After staring silently at the bowed Hyuk Sopyung for a moment, Jin Taekyung opened his mouth.
 
@@ -296,11 +296,11 @@ I clicked my tongue as I watched the Zhongnan disciples struggling desperately t
 
 The Great Zhongnan Sect’s reputation was already shot to hell, yet they were still fighting to preserve even a shred of it.
 
-It was both pitiful and idiotic.
+It was both pathetic and fucking stupid.
 
 I dropped into a wooden chair with a broken back and spoke.
 
-“Well, unpleasant things happened, but we still have to finish what needs finishing. Let’s find some common ground through dialogue instead of barbaric violence.”
+“Well, some unfortunate things happened, but we still have to finish what needs finishing. Let’s find some common ground through dialogue instead of barbaric violence.”
 
 “…….”
 
@@ -318,7 +318,7 @@ Or rather, he groaned.
 
 “Hrrgh… hrrrgh…”
 
-Both of his arms were broken, and one leg was fractured. On top of that, he had suffered an Internal Injury that would require at least a year of recovery, while his nose and teeth had been smashed to pieces.
+Both of his arms were broken, and one leg was fractured. On top of that, he had suffered internal injuries that would require at least a year of recovery, while his nose and teeth had been smashed to pieces.
 
 A sobbing groan escaped from his slightly open mouth, accompanied by the wet rattle of blood and phlegm.
 
@@ -352,7 +352,7 @@ As he trembled all over and began to slide out of the chair, Hyuk Sopyung caught
 
 “Whew.”
 
-“It’s not my fault. He keeps earning these beatings. He’s practically begging me to kill him. What else am I supposed to do?”
+“It’s not my fault. He keeps begging for a beating. He’s practically demanding that I kill him. What else am I supposed to do?”
 
 “Even so, restrain yourself. Any more than this could endanger his life.”
 
@@ -416,7 +416,7 @@ Smack!
 
 Smack!
 
-“Guhhh! Our sect will pay any compensation!”
+“Guhhh! We’ll pay any compensation!”
 
 “Okay, compensation! Okay! Thank you!”
 
