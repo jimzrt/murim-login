@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "“A dragon?”",
+      "defect": "The draft collapses the source’s distinction between 용 and the English loanword 드래곤, obscuring why Taekyung says the creature was slightly different.",
+      "id": "F01",
+      "rationale": "The loanword 드래곤 conventionally evokes a Western dragon here, in contrast to the Water God Dragon that Taekyung actually fought.",
+      "replacement": "“A Western dragon?”",
+      "severity": "major",
+      "source": "“드래곤 말입니까?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You seem to have misunderstood something. As far as I know, in this country, an old man refers to a male relative of an older generation—or a middle-aged man.”",
+      "defect": "The English incorrectly presents “old man” itself as a Korean term with those dictionary senses.",
+      "id": "F02",
+      "rationale": "The Skeleton King is defining the Korean address 아저씨, not claiming that the English phrase “old man” denotes an older-generation relative.",
+      "replacement": "“You seem to have misunderstood something. As far as I know, in this country, the term you just used refers to a male relative of an older generation—or a middle-aged man.”",
+      "severity": "minor",
+      "source": "“뭔가 잘못 알고 있는 모양이군. 이 몸이 알기로 이 나라의 아저씨란 윗 항렬의 친척 남성. 혹은 중년층 남성을 이르는 단어인데.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You really did it this time. I’ll take him with me, so please calm your sister down, Mr. Jin Taekyung. Be careful not to make things worse.”",
+      "defect": "The final warning changes a specific concern about Hayeon misunderstanding the situation into a generic warning not to aggravate her.",
+      "id": "F03",
+      "rationale": "오해 안 하도록 specifically means to ensure that she does not misunderstand, which helps set up Team Leader Choi’s mistaken reading of her reaction.",
+      "replacement": "“You really did it this time. I’ll take him with me, so please calm your sister down, Mr. Jin Taekyung. Be careful she doesn’t get the wrong idea.”",
+      "severity": "minor",
+      "source": "“기어코 일을 저질렀군요. 저자는 제가 데려갈 테니 진태경 씨는 동생분을 잘 다독여 주십시오. 오해 안 하도록 조심하시고요.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "As my capillaries swelled with pride, I finally felt that I had truly returned to the modern world.",
+      "defect": "The draft adds pride as Taekyung’s emotion, replacing the source’s deliberately absurd image of his capillaries becoming grand or magnificent.",
+      "id": "F04",
+      "rationale": "웅장해지는 describes the capillaries themselves becoming grand; it does not state that Taekyung feels pride.",
+      "replacement": "As my capillaries swelled magnificently, I finally felt that I had truly returned to the modern world.",
+      "severity": "minor",
+      "source": "웅장해지는 모세혈관과 함께 비로소 현대로 돌아온 것을 실감하고 있던 그때, 하연이가 나를 향해 고개를 홱 돌렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Do you have something on him? Did he catch you filming a sex video or something? Why else would you be hanging around with a bastard like that?",
+      "defect": "The first question reverses who possesses leverage: Hayeon asks whether the Skeleton King has discovered a weakness of Taekyung’s. The second question also makes the euphemistic 몸캠 more explicit than the source.",
+      "id": "F05",
+      "rationale": "약점 잡혔니 asks whether Taekyung has had a weakness exposed or exploited, while 몸캠 alludes euphemistically to sexual webcam activity rather than explicitly naming a recorded sex video.",
+      "replacement": "“Does he have dirt on you? Did you get caught doing some private webcam show or something? Why else would you be hanging around with a bastard like that?",
+      "severity": "critical",
+      "source": "“약점 잡혔니? 전에 몸캠 찍었다가 걸리기라도 했어? 도대체 저딴 새끼랑 왜 같이 다녀?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“An insolent human girl? What kind of insult is that?”",
+      "defect": "The draft omits Hayeon’s comparison to the ordinary insult “crazy bitch,” her objection specifically to “human girl,” and her statement that the wording feels disgusting. This removes profanity, characterization, and the joke’s explanation.",
+      "id": "F06",
+      "rationale": "The source explicitly contrasts the Skeleton King’s unnatural species-based wording with an ordinary gendered insult and preserves Hayeon’s strong profanity and disgust.",
+      "replacement": "“Honestly, if he’d just called me a crazy bitch or some other normal insult, I wouldn’t even complain. What the hell is ‘human girl’ supposed to mean? It feels fucking gross.”",
+      "severity": "major",
+      "source": "“차라리 그냥 미친년, 뭐 그런 평범한 욕이었으면 말도 안 해. 인간 계집이 뭐야. 진짜 기분 더럽게시리.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I opened my eyes wide and grabbed him by the collar with all my strength.\n\nOf course, I wasn’t grabbing Hayeon.\n\nI had grabbed the Skeleton King.",
+      "defect": "Using the masculine pronoun “him” identifies the target before the punchline, destroying the source’s intentional ambiguity over whether Taekyung has seized Hayeon or the Skeleton King.",
+      "id": "F07",
+      "rationale": "The Korean pronoun 녀석 does not reveal gender, allowing the next sentence to deliver the comic reversal explicitly.",
+      "replacement": "Eyes bulging, I grabbed someone by the collar with all my strength.\n\nOf course, not Hayeon.\n\nI had grabbed the Skeleton King.",
+      "severity": "major",
+      "source": "눈을 부릅뜬 나는 있는 힘껏 녀석의 멱살을 붙들었다.\n\n아, 물론 하연이가 아니라 스켈레톤 킹의 멱살을."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it loses the dragon-species distinction, reverses who has leverage over Taekyung, omits a profane characterization beat, and prematurely resolves an intentional pronoun ambiguity.",
+  "version": 1
+}

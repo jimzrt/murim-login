@@ -1789,3 +1789,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 만리행 | **Ten-Thousand-Li Journey** | The Escort King's legendary journey across the realm. |
 | 고잉메리호 | **Going Merry** | Ship from Taekyung's sailing metaphor. |
 | 정략혼 | **political marriage** | The former engagement between Ju Hwaran and Sama Pyo. |
+| 미켈란젤로 부오나로티 | **Michelangelo Buonarroti** | Renaissance sculptor and painter credited with the ceiling frescoes. |
+| 천지창조 | **The Creation (The Genesis)** | The painting title used for the Sistine Chapel ceiling frescoes. |
