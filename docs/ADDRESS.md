@@ -979,3 +979,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 김화종 | 천태민 | loyal subordinate and trusted comrade to Guild Master | Guild Master | formal and respectful | Kim addresses Taemin as 길드장님 after joining the Peace Guild. |
 | 스켈레톤 킹 | 진태경 | ally_to_ally | Human | blunt, subdued, and concerned | Skeleton King repeatedly addresses Taekyung as 인간 while urging him to release Hwajong. |
 | 길드원 | 진태경 | Peace Guild member to allied S-rank Hunter | Hunter Jin Taekyung | formal-polite and hesitant | A Guild member addresses Taekyung as 진태경 헌터님 while asking whether Choi should be awakened. |
+| 보안팀장 | 진태경 | Ares Security Team Leader to an intruding Hunter | Mr. Jin | formal-polite under pressure | The Security Team Leader repeatedly addresses Jin as 진태경 씨 while ordering him to withdraw. |

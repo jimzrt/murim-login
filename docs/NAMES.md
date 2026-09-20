@@ -1889,3 +1889,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 베히모스의 혼탁한 심연 | **Behemoth's Turbid Abyss** | Named Magic Gem item. |
 | 종로 | **Jongno** | Destination named by Taekyung. |
 | 발왕산 | **Mount Balwang** | Mountain near Pyeongchang and the site of the Monster Wave broadcast. |
+| 로댕 | **Rodin** | Sculptor referenced in Jin's joke about the shattered statue. |
+| 몬스터 재난 | **Monster Disaster** | App used to check the confirmed casualty list. |
