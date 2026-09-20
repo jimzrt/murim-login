@@ -1,23 +1,25 @@
 # Translation State
 
-- Last completed: 576
-- Next chapter: 577
-- Current block: 575–579 (2/5)
-- Latest translation: `translations/0576.md`
-- Latest summary: `summaries/beats/0576.md`
-- Safe profiles through: chapter 576
+- Last completed: 577
+- Next chapter: 578
+- Current block: 575–579 (3/5)
+- Latest translation: `translations/0577.md`
+- Latest summary: `summaries/beats/0577.md`
+- Safe profiles through: chapter 577
 
 ## Current Block
 
-- Choi Minwoo chooses to meet Song Cheonwoo immediately after Song warns him about his maternal grandfather's safety and a trap Go Jun is preparing. Butler Kim escorts him with an elite Peace Guild force; Busan's Kraken is dead, more than one thousand Mermen remain across Haeundae and Gwangalli, and the Stone King helped keep casualties below expectation.
-- At the Peace Guild's B-rank Yeti's Winter Range Gate in Pyeongchang, Song arrives disguised as a middle-aged man. Inside, he reveals that Ares Guild headquarters contains a restricted secret area called Area A, claims Choi's grandfather is there, and says the man lost consciousness more than twenty years ago, while admitting the information is uncertain. Butler Kim is revealed as Hwa-jong, a former ally of Song whose relationship ended over loyalty and ambition.
+- Song Cheonwoo reveals that Cheon Taemin suddenly collapsed more than twenty years ago and that he and Lee Jungryong concealed the condition, waited two years, conducted experiments, and secretly purged aides who knew the truth. Song survived by negotiating the European regional director position, saving his and his family's lives.
+- Choi Minwoo learns that Hwa-jong was also kept uninformed and restrains himself from attacking Song until he confirms every fact. Song claims Taemin is still alive, though his location is unknown and Area A is only suspected, and calls his confession atonement for the wrongs committed against Taemin and Choi.
+- An avalanche sends hundreds of unusually numerous yetis charging across the mountain beyond the crevasse. Song draws Choi's sword, Hwa-jong rushes forward after shouting Young Master, and the encounter erupts in a thunderous explosion.
 
 ## Open Questions
 
-- Who empowered and released the Kraken, and did that person engineer the Monster Wave?
-- Is Choi Minwoo's maternal grandfather actually in Area A of Ares Guild headquarters?
-- What happened to Choi Minwoo's maternal grandfather when he lost consciousness more than twenty years ago?
+- What caused Cheon Taemin's collapse, and what happened during his more than twenty years of unconsciousness?
+- Is Cheon Taemin actually being kept in Area A of Ares Guild headquarters?
 - What trap is Go Jun preparing, and can Song Cheonwoo's warning be trusted?
+- Who empowered and released the Kraken, and did that person engineer the Monster Wave?
+- Why did Song Cheonwoo choose this moment to reveal the truth to Choi Minwoo?
 
 ## Exceptional Decision
 

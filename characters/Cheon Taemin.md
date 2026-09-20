@@ -1,8 +1,8 @@
 # Cheon Taemin (천태민)
 
-- **Safe through:** Chapter 575
+- **Safe through:** Chapter 577
 - **Aliases:** Slayer
-- **Role:** Ares Guild Master; humanity's great hero and the world's greatest Hunter; killed the Demon King and is known as the Slayer; created the first Mana Cultivation Method during the Great Cataclysm.
+- **Role:** Cheon Taemin is Ares Guild Master and the world's greatest Hunter, known as the Slayer for killing the Demon King and creating the first Mana Cultivation Method during the Great Cataclysm, and he is believed to remain alive after more than twenty years of unconsciousness, with Area A only suspected as his location.
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Maternal grandfather of Team Leader Choi and Jin Taekyung and father of Soyeong; regarded by Lee Jungryong as an older brother despite their lack of blood relation.
