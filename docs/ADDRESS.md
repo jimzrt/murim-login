@@ -922,3 +922,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 임꺽정 | Grand Mage to newly met Hunter | you there | casual and teasing | Johnson addresses Kkeokjeong while ending the funeral discussion. |
 | 스켈레톤 킹 | 매직 존슨 | ally to deceptive acquaintance | ungrateful human | hostile and theatrical | The Skeleton King condemns Johnson over the Itaewon incident. |
 | 임꺽정 | 매직 존슨 | new acquaintance to Grand Mage | and you | awkward and deferential | Kkeokjeong answers Johnson in broken English because he lacks a translation Item. |
+| 진태경 | 최 팀장 | trusted ally and subordinate-to-team-leader relation | Team Leader Choi | polite and deferential | Taekyung addresses him as 최 팀장님 while asking about domestic conditions. |
+| 최 팀장 | 매직 존슨 | ally and respected elder | Mr. Johnson | polite and respectful | Choi uses 미스터 존슨 while discussing the greater cause and accepting Magic’s assistance. |
+| 매직 존슨 | 최 팀장 | trusted ally and younger associate | Choi | familiar and informal | Magic addresses him as 최 while advising him about Ares and Cheon Taemin’s legacy. |
+| 매직 존슨 | 진태경 | trusted ally and irreverent younger associate | Jin | familiar and teasing | Magic repeatedly addresses Taekyung as 진 while discussing Go Jun and the fart joke. |
+| 진태경 | 매직 존슨 | powerful ally and respected elder | Mr. Johnson | polite but teasing | Taekyung addresses Magic as 미스터 존슨 while joking about reaping what one sows. |

@@ -1,6 +1,6 @@
 # Go Jun (고준)
 
-- **Safe through:** Chapter 555
+- **Safe through:** Chapter 560
 - **Aliases:** Team Leader Seok
 - **Role:** Go Jun is Ares Guild's new Vice Guild Master, Lee Jungryong's disciple and former security-team leader, and the chief mourner at Lee's national funeral.
 - **Personality:** Highly disciplined, fiercely loyal to Lee Jungryong, confident in his abilities, and capable of suppressing his anger and killing intent under provocation.

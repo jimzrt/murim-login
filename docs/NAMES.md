@@ -1817,3 +1817,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이태원 | **Itaewon** | Seoul district where Johnson and the Skeleton King visited a gay bar. |
 | 조셉 | **Joseph** | Hunter named in the recorded Monster Wave footage. |
 | 로빈훗 | **Robin Hood** | Johnson’s mistaken nickname for Im Kkeokjeong. |
+| 위저드(Wizard) 길드 | **Wizard Guild** | Guild associated with and supporting Magic Johnson. |
+| 미스터 석 | **Mr. Seok** | Address form for Go Jun, also known as Team Leader Seok. |
+| 조셉 바이든 | **Joseph Biden** | Former U.S. President and longtime personal friend of Magic Johnson. |
+| 펠릭스 왕자 | **Prince Felix** | Prince of the United Kingdom used as a comparison. |
+| 차쿰바 오쿰보 | **Chakumba Okumbo** | Example name of an American president. |
