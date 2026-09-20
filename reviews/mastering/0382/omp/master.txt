@@ -6,23 +6,23 @@ Once I captured the three who appeared to be the leaders, the undead under their
 
 “Arch Lich?”
 
-At my question, the three kneeling figures nodded.
+The three figures kneeling before me nodded.
 
 I wasn’t sure whether things that were already dead and reduced to bones could still be called “guys,” but whatever.
 
 I stroked each of the three skulls in turn and continued.
 
-“When someone talks to you, you’re supposed to answer. Are you putting on airs just because you’re dead?”
+“When someone asks you a question, you’re supposed to answer. Are you putting on airs because you’re already dead?”
 
 They answered before I had even finished speaking.
 
-—Yes. Yes. It is an Arch Lich.
+—Yes. Yes. It was the Arch Lich.
 
 —What you heard was correct, honored human.
 
 —Indeed.
 
-“Hmm. An Arch Lich. That’s a monster I’ve never heard of before… But which one of you answered informally at the end?”
+“Hmm. An Arch Lich. That’s a monster I’ve never heard of before… By the way, which one of you answered me informally just now?”
 
 —That one!
 
@@ -70,7 +70,7 @@ Honest children deserved rewards. Liars deserved punishment.
 
 —Hmm. I would like more, but very well.
 
-Even snacks were too much if you gave them out too often. After expressing its slight disappointment, the Skeleton Warlord opened its jaws wide toward the trembling figure.
+Too many snacks weren’t good for you. The Skeleton Warlord gave a disappointed murmur, then opened its jaws wide toward the trembling figure.
 
 —Come here.
 
@@ -78,7 +78,7 @@ Even snacks were too much if you gave them out too often. After expressing its s
 
 —Yes!
 
-The change began with the Skeleton Warlord’s decisive shout.
+The change began with the Skeleton Warlord’s firm declaration.
 
 Whoooosh!
 
@@ -130,7 +130,7 @@ At the sight of their weakened companion, sucked dry to the bone, the other two 
 
 —Please, I beg of you. Accept the loyalty of this insignificant being, Orpheus von Maximus Valencia Bayern.
 
-“…You’re undead, not a bidet.”
+“…Are you undead or bidets?”
 
 They must have been desperate not to lose their power. Not that I minded them being so cooperative.
 
@@ -166,7 +166,7 @@ As all three skulls nodded furiously, the Skeleton Warlord cut in.
 
 The guy was usually as frivolous as dust in the wind. Hearing it speak with such gravity made me think it probably wasn’t lying.
 
-Besides, the three of them had no reason to scheme in a situation like this.
+Besides, the three skeletons had no reason to try anything under the circumstances.
 
 “All right. I believe you.”
 
@@ -180,7 +180,7 @@ Crunch!
 
 The last skeleton faltered before it could finish.
 
-His trembling green eye light shifted back and forth between the fist embedded in his chest and me.
+Its trembling green gaze shifted between me and the fist buried in its chest.
 
 —W-Why?
 
@@ -196,11 +196,11 @@ A voice so cold it hardly sounded like mine slipped between my lips.
 
 Countless people had died here today.
 
-Even regular troops armed with firearms and Hunters had been unable to stop them, so there was no telling how many civilians the monster army had killed over the past week.
+Even regular troops armed with firearms and Hunters had been unable to stop them. There was no telling how many civilians the monster army had slaughtered over the past week.
 
 “I don’t need your loyalty. Especially not from bastards like you.”
 
-The moment I released the Scorching Yang Qi I had drawn up from my dantian—
+I released the Scorching Yang Qi I had drawn up from my dantian.
 
 Whoosh!
 
@@ -210,7 +210,7 @@ Rooooar!
 
 I watched the green flames in its eye sockets flicker like candles in the wind, then go out.
 
-I also saw the other two figures spring to their feet and begin chanting spells.
+I also saw the other two skeletons spring to their feet and begin chanting.
 
 —Jazuchawa Umbado…!
 
@@ -218,7 +218,7 @@ I also saw the other two figures spring to their feet and begin chanting spells.
 
 Whoooom.
 
-A wind of mana swirled around them. Just as their sinister spell was about to be completed, I casually said,
+A gale of mana swirled around them. Just as their sinister spells were about to be completed, I spoke.
 
 “Devour them. Both of them.”
 
@@ -244,9 +244,9 @@ Ding. Ding. Ding.
 
 > **System**
 >
-> —You have successfully completed the unexpected Quest, **Unexpected Attack**!
+> —You have successfully completed the unexpected Quest **Unexpected Attack**!
 >
-> —You have caused the monster army to collapse! This is truly an outstanding achievement!
+> —You have routed the monster army! This is truly an outstanding achievement!
 >
 > —As a Quest Reward, you have acquired the Title **Undead Hunter**!
 >
@@ -256,7 +256,7 @@ Ding. Ding. Ding.
 
 *Only once?*
 
-In the past, I would have leveled up several times without difficulty. But now that I had reached Level 120, it seemed the amount of EXP I needed had increased.
+In the past, that much EXP would easily have raised me several levels. Now that I was Level 120, I must have needed far more EXP to level up.
 
 *Not that I did it for the EXP.*
 
@@ -266,13 +266,13 @@ After all, the stronger I became, the more useful I would be in the battles ahea
 
 *The same goes for that guy.*
 
-I looked at the Skeleton Warlord while thinking to myself.
+I looked at the Skeleton Warlord.
 
 Thanks to the enormous amount of death energy it had absorbed, the power emanating from it was on a completely different level from when we had first met.
 
 —Hmm. Hoooo…
 
-Black mist billowed through the holes in its skull where its nose, ears, and eyes should have been.
+Black mist billowed from every opening in its skull—its nose, ears, and eyes.
 
 Its violet eye flames burned like torches, and its smooth surface gleamed with a deep black luster. A moment later, its crazed laughter thundered through my head.
 
@@ -302,17 +302,17 @@ As a reward, I gently scratched it between the eyes.
 
 The skull trembled.
 
-—H-How could this happen?! How could this commander be treated like this by a mere human?!
+—H-How can this be?! How could this commander allow a mere human to—
 
-“You say no with your mouth, but your body is honest.”
+“Your mouth says no, but your body says yes.”
 
-—I am the master of the Black Forest and the commander of the great undead army. Do not humiliate this body!
+—I am the master of the Black Forest and commander of the great undead legion! Do not humiliate me!
 
 “A commander who’s nothing but a head?”
 
 —What?! This paltry body can be restored whenever I wish, so long as I expend enough death energy!
 
-“Really? Then why haven’t you restored it yet?”
+“Really? Then why haven’t you restored it?”
 
 —…Because even if I did, some lunatic human would just smash it again.
 
@@ -354,23 +354,23 @@ A fair amount of time had passed since the battle ended, but Shao Shen was still
 
 “There you are.”
 
-I exchanged a look of greeting with Team Leader Choi before making an excuse.
+I greeted Team Leader Choi with a nod, then offered an excuse.
 
 “Yes. I had something to take care of.”
 
-“Please speak casually with me. Fuc—no, Mr. Jin, you are the hero who saved me, my comrades, and even the people of Zhonghua.”
+“Please, speak casually with me. Lord Fu—no, Mr. Jin, you are the hero who saved me, my comrades, and indeed all the people of Zhonghua.”
 
 “…”
 
-*Was that my imagination, or had he almost called me Lord Fuck just now?*
+*Was that my imagination, or had he almost called me Lord Fuck?*
 
-Whether he knew what I was thinking or not, Shao Shen continued in an extremely respectful tone.
+Oblivious to my thoughts, Shao Shen continued with the utmost respect.
 
 “Fortunately, with the help of the two gentlemen from the Peace Guild, we were able to defeat the monsters. I would like to take this opportunity to thank you once again.”
 
 “Oh, sure. It was nothing. I only did what anyone should have.”
 
-I waved my hands modestly and stole a glance at Team Leader Choi.
+I waved him off and stole a glance at Team Leader Choi.
 
 I had been worried the *Integrated Language Pack* might malfunction and make him notice something strange. But since I was currently speaking with Shao Shen, it seemed Team Leader Choi was hearing my words in Chinese as well.
 
@@ -390,7 +390,7 @@ The gray-haired, middle-aged man who had been silently listening to our conversa
 
 I understood that he was a big deal, but I had no idea what that rank actually meant.
 
-Perhaps he had read my thoughts, because Team Leader Choi whispered from beside me in a voice barely louder than an ant.
+As if reading my mind, Team Leader Choi leaned over and whispered in a voice barely louder than an ant.
 
 “Four-star. Four-star.”
 
@@ -400,7 +400,7 @@ I had been a four-star once, too. That game I played as a kid had been a lot of 
 
 Wei Fenghu clasped my hand, a faint smile touching his lips.
 
-“You are full of youthful vigor. I have many things I would like to ask you, but shall we talk while we walk?”
+“You certainly possess the vigor of youth. I have many questions for you, Mr. Jin… but shall we talk as we walk?”
 
 “Sure.”
 
