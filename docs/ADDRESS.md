@@ -931,3 +931,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 킹 | ally_to_ally | you | insulting-casual | Threatens to smash the Skeleton King's smartphone if he does not follow. |
 | 곽한구 | 진태경 | Ares_branch_leader_to_outside_rescuer | Mr. Jin Taekyung | formal-polite | Uses 진태경 씨 while acknowledging Taekyung's request and asking him to wait. |
 | 석고준 | 고세원 | Ares Vice Guild Master to Head of Security | you | curt and informal | Go Jun tells Go Se-won that he is later than usual when Se-won enters the wrecked office. |
+| 고현우 | 대통령 | reporter_to_President | Mr. President | formal-polite | Asks Baek Hanseong for his view of the three Mutated Gates at the New Year press conference. |
+| 고세원 | 석고준 | subordinate_to_Vice_Guild_Master | Vice Guild Master | formal-deferential | Uses 부길드장님 while trying to stop Go Jun from watching the broadcast. |
+| 김진무 | 진태경 | reporter_to_Hunter | Mr. Jin Taekyung | formal-polite | Calls Jin by name while introducing himself from Mudang Daily and requesting a question. |
