@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful translation with minor redundant repetition.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 79-81 (Korean source) / Paragraph 40 (English assembled)",
+      "current": "Realizing what Heavenly Axe meant, Ju Hwaran tightened her grip on her sword hilt. Chief Escort Heo Jun stepped forward in her place and shouted, “One hundred silver nyang! Clear the road, and I’ll give you one hundred silver nyang. We’ll consider today’s matter closed, so let this end here!”",
+      "defect": "Redundant repetition of the “One hundred silver nyang” bribe offer phrase twice in one sentence, inconsistent with Korean which states the offer once.",
+      "replacement": "Realizing what Heavenly Axe meant, Ju Hwaran gripped her sword hilt tightly. Chief Escort Heo Jun stepped forward in her place and shouted, “One hundred silver nyang! Clear the road, and we'll consider today’s matter closed. Let this end here!”",
+      "rationale": "The original Korean states the offer once, no doubling for emphasis or repetition is present. The current English duplicates the offer, which is unfaithful expansion.",
+      "confidence": 1.0
+    }
+  ]
+}

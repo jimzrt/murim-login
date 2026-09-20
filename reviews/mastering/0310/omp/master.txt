@@ -6,9 +6,9 @@ Five hundred bandits emerged behind Heavenly Axe.
 
 But their overwhelming numbers weren’t the only reason Ju Hwaran’s face hardened.
 
-*Their momentum is different.*
+*There’s something different about them.*
 
-Those trying to cross the mountain and those blocking their way. Escort Bureaus and the Green Forest were inseparable.
+Those who crossed the mountains and those who barred the way—Escort Bureaus and the Green Forest were inextricably linked.
 
 An Escort Bureau couldn’t draw its swords every time it encountered bandits, so it would pay a set toll. The Green Forest, in turn, would accept a reasonable sum and withdraw, allowing both sides to save face. That had long been the custom.
 
@@ -54,7 +54,7 @@ It took a while for Heavenly Axe’s wild laughter to subside.
 
 “Why are you doing this in the first place?”
 
-“Why? A bandit says he intends to kill and rob you. Does he need some special reason?”
+“Why? A bandit wants to kill and rob you. Does he need some special reason?”
 
 Ju Hwaran bit down hard on her lip at his brazen reply.
 
@@ -66,19 +66,17 @@ Ju Hwaran bit down hard on her lip at his brazen reply.
 
 “Part of the orthodox faction, are you? Then I suppose that would be a problem.”
 
-Heavenly Axe stroked his shaggy beard and continued.
+Heavenly Axe stroked his shaggy beard.
 
 “So I’ll do my best to make sure word never gets out. A secret can’t hurt anyone if it never leaks, can it?”
 
 “…”
 
-*Silencing the witnesses.*
-
-Realizing what Heavenly Axe meant, Ju Hwaran gripped her sword hilt tightly. Chief Escort Heo Jun stepped forward in her place and shouted.
+*Silencing the Witnesses.*
 
 Realizing what Heavenly Axe meant, Ju Hwaran tightened her grip on her sword hilt. Chief Escort Heo Jun stepped forward in her place and shouted, “One hundred silver nyang! Clear the road, and I’ll give you one hundred silver nyang. We’ll consider today’s matter closed, so let this end here!”
 
-“Oh? One hundred nyang? Silver nyang, at that?”
+“Oh? A hundred nyang? In silver, no less?”
 
 “Of course. Have I ever made an empty promise?”
 
@@ -104,9 +102,9 @@ Heavenly Axe let out a hearty laugh. Then his face abruptly turned cold.
 
 Several people’s eyelids began to twitch, including Ju Hwaran’s and Heo Jun’s.
 
-A thousand-year snow ginseng was an elixir that could grant a full jiazi of internal energy if completely digested.
+The Thousand-Year Snow Ginseng was an elixir said to grant a full jiazi of internal energy if completely digested.
 
-The existence of the thousand-year snow ginseng, which had been secretly commissioned by the Zhongnan Sect, was a top-level secret known by only a handful of people within the Yongbong Escort Bureau.
+Its transport had been secretly commissioned by the Zhongnan Sect, and its existence was a top-level secret known to only a handful of people within the Yongbong Escort Bureau.
 
 How had word reached Heavenly Axe?
 
@@ -178,7 +176,7 @@ Three things happened at once.
 
 A dagger shot from Song Ilseom’s sleeve.
 
-At the same time, Chief Escort Heo Jun hurriedly stepped in front of Ju Hwaran.
+Chief Escort Heo Jun urgently threw himself in front of Ju Hwaran.
 
 And finally—
 
@@ -206,7 +204,7 @@ Now they would have to fight to the death against hundreds of enemies who had su
 
 “Song Ilseom! What have you done?”
 
-At Chief Escort Heo Jun’s furious shout, Song Il raised his willow-leaf saber and rested it across his shoulder.
+At Chief Escort Heo Jun’s furious shout, Song Ilseom drew his willow-leaf saber and rested it across his shoulder.
 
 “What do you think? It’s a little late to ask that now, isn’t it?”
 
@@ -220,7 +218,7 @@ Unfortunately, Song Ilseom was telling the truth.
 
 Heavenly Axe was already advancing toward them, radiating a terrifying aura.
 
-He had lost one of his men without having time to do anything. Flames poured from his bulging eyes.
+One of his men had been killed before he could react, and flames seemed to pour from his bulging eyes.
 
 “I’ll slaughter every last one of you.”
 
@@ -242,7 +240,7 @@ Listening to their furious cries, Ju Hwaran looked up at the star-studded night 
 
 Of the seventy-odd people who remained, barely forty were escorts once the caravan porters were excluded.
 
-Everyone was exhausted from the long escort journey. The conditions were far too harsh for them to face Heavenly Axe and five hundred Green Forest bandits.
+All of them were utterly exhausted from the long journey. The odds were far too cruel for them to face Heavenly Axe and five hundred Green Forest bandits.
 
 *Can I do this?*
 
@@ -254,13 +252,13 @@ The ground trembled beneath hundreds of footsteps. The battle she had tried to a
 
 She had to get at least one person out alive.
 
-Just as Ju Hwaran was about to face forward again, she noticed a star she had never seen before.
+Just as Ju Hwaran was about to lower her gaze, she noticed a star she had never seen before.
 
 Among the countless stars embroidered across the pitch-black sky, one shone brighter than all the rest. It cast its radiance for the briefest moment, then vanished.
 
 And in the next instant, something no one could have expected happened.
 
-“Don’t fight, everyone! No matter how badly you get along, something terrible will happen if you fight!”
+“Everyone, don’t fight! No matter how badly you get along, nothing good will come of fighting!”
 
 At the sudden shout, everyone stopped dead. Hundreds of heads whipped toward the source of the voice.
 
@@ -268,7 +266,7 @@ The world lay submerged in darkness.
 
 Four figures stood atop a hill, faintly illuminated by the moonlight.
 
-Soon, quiet voices drifted down.
+Then quiet voices drifted down.
 
 “What are they?”
 
@@ -294,7 +292,7 @@ Soon, quiet voices drifted down.
 
 “Never heard of either one. But for some reason, Heavenly Axe sounds familiar.”
 
-“The Yongbong Escort Bureau was once counted among the Ten Great Escort Bureaus of the martial world, and Heavenly Axe is a Peak master ranked among the Green Forest Alliance’s top twenty. He wields a single axe like a demon…”
+“The Yongbong Escort Bureau was once counted among the Ten Great Escort Bureaus of the martial world. Heavenly Axe is a Peak master ranked twentieth in the Green Forest Alliance. They say he wields a single axe like a demon…”
 
 “No, wait. You don’t mean that Heavenly Axe, do you?”
 
@@ -312,13 +310,13 @@ Then a large shadow came trudging down the hill.
 
 Only when it drew closer, one step at a time, could everyone make out what it was.
 
-*What is that?*
+*What the hell is that?*
 
 *He’s just a young punk. Why is he carrying a pack frame on his back?*
 
 It was a truly bizarre sight.
 
-Hundreds of people facing one another in the darkness, weapons in hand.
+Hundreds of people stood facing one another in the darkness, weapons drawn.
 
 And through their midst came a young man carrying a pack frame, strolling beneath the moonlight as if he were out for a walk.
 
@@ -366,11 +364,11 @@ She, too, was a swordswoman who had reached the Peak. But Heavenly Axe possessed
 
 *Clang, clang, clang!*
 
-The two blades locked together, sending sparks flying.
+The two weapons ground against each other, scattering sparks.
 
 The enormous axe slowly bore down on her.
 
-Just as Heo Jun and Song Il charged forward to help Ju Hwaran, the lips of the young man standing as still as stone parted.
+Just as Heo Jun and Song Ilseom rushed forward to help, the young man who had been standing there as if frozen finally spoke.
 
 “Say one thing for me.”
 
@@ -382,7 +380,7 @@ Just as Heo Jun and Song Il charged forward to help Ju Hwaran, the lips of the y
 
 The thought flashed through Ju Hwaran’s head.
 
-The young man had not even been able to react to Heavenly Axe’s attack. If she had not blocked it with her flexible sword, he would have been cut in half and killed without a chance.
+The young man hadn’t even reacted to Heavenly Axe’s attack. If she hadn’t blocked it with her flexible sword, he would have been split in two without a chance to move.
 
 But regardless of what she thought, the words were already leaving her mouth.
 
