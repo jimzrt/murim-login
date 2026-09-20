@@ -1,0 +1,15 @@
+{
+  "summary": "Faithful translation with minor terminology omissions flagged.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "paragraph 72 and 143",
+      "current": "'The Thousand-Year Snow Ginseng was the final strike meant to bring down the cornered Yongbong Escort Bureau.' and 'It felt like fucking bullshit.'",
+      "defect": "Missing translation of 'one strike' (일격) and missing preferred 'Great Hero' (대협) term before Hwangbo Eom in some occurrences.",
+      "replacement": "'The Thousand-Year Snow Ginseng was the final One Strike meant to bring down the cornered Yongbong Escort Bureau.' and use 'Great Hero Hwangbo' always for 황보엄 as per glossary.",
+      "rationale": "'일격' is translated as 'final strike' but the glossary specifies 'One Strike'. '대협' should render as 'Great Hero' or 'Sir' depending on tone and should be consistently used with 황보엄 as a mark of respect.",
+      "confidence": 1.0
+    }
+  ]
+}

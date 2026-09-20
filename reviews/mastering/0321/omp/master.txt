@@ -10,7 +10,7 @@ I answered with a mild smile.
 
 “Didn’t I just tell you? I came to see what kind of dirty trick you were pulling. By. Chance.”
 
-At that moment, blue sparks flew from Hwangbo Eom’s eyes.
+Blue sparks flew from Hwangbo Eom’s eyes.
 
 “Hah!”
 
@@ -18,7 +18,7 @@ With his thunderous roar, an immense wave of qi erupted from him.
 
 The aura of a Supreme Peak master made the table—or rather, the ground itself—pitch like a ship caught in a storm.
 
-Rumble-rumble-rumble!
+*Rumble!*
 
 The violent tremors threw the entire teahouse into chaos. Dozens of pieces of teaware shattered with a deafening crash, spraying tea in every direction.
 
@@ -42,11 +42,11 @@ No matter how talented a young prodigy might be, the gulf between them and Hwang
 
 Baek Museong, known as a pillar of Huashan, and Gung Gibang, Successor Beggar of the Beggars’ Sect and its hundred thousand members, fared little better than Ju Hwaran.
 
-Even counting everyone present, only about three people still looked unaffected.
+Of everyone present, only three people appeared unaffected.
 
 One was me, of course.
 
-“Benefactor, when are the candied sweets coming out?”
+“Benefactor, when are the candied sweets coming?”
 
 Another was Cheongpung, who cared only about his candied sweets, to hell with the Taeeul Merciless Sword or anything else.
 
@@ -62,7 +62,7 @@ He gave a quiet grunt under the weight of Hwangbo Eom’s aura. When our eyes me
 
 From the moment I first saw him, Song Ilseom had stunk of something suspicious in more ways than one.
 
-It would not take long to find out whether that impression of mine was mistaken or based on fact.
+It would not be long before I learned whether that was only my imagination.
 
 “Maybe it’s because no one opened a window, but the air feels awfully stuffy.”
 
@@ -72,7 +72,7 @@ Freed from the crushing pressure, Ju Hwaran finally released the breath she had 
 
 “Young Lady Ju, are you all right?”
 
-“Yes, yes.”
+“Y-Yes.”
 
 Still gasping, Ju Hwaran clutched my sleeve.
 
@@ -86,13 +86,13 @@ The immortal had transformed into a Fiend. He glared at me, his gaze brimming wi
 
 “The arrogance of a young whelp like you pierces the heavens.”
 
-“I’m pretty good at piercing things. I use a spear.”
+“I’ve always been good at piercing things. I use a spear.”
 
 “Do you even understand what you’re doing?”
 
 “Of course.”
 
-I leaned lazily against the hard back of my chair and continued.
+I leaned back lazily against the hard wooden chair.
 
 “I’m rescuing innocent people who fell into a trap someone laid for them. Purely because I happened to be passing by, of course.”
 
@@ -108,7 +108,7 @@ The fury in Hwangbo Eom’s eyes subsided. In its place, an unmistakable sneer s
 
 “Boy, you have insulted the Great Zhongnan Sect with baseless accusations you cannot prove. Do you wish to make us your enemy?”
 
-“It’s funny to hear orthodox Murim companions talk about friend and foe. Are you perhaps from an unorthodox faction?”
+“It’s funny hearing fellow members of the orthodox faction divide everyone into friends and enemies. Are you sure you’re not unorthodox?”
 
 “You insolent whelp!”
 
@@ -116,17 +116,17 @@ The fury in Hwangbo Eom’s eyes subsided. In its place, an unmistakable sneer s
 
 I picked up the snow ginseng rolling across the table.
 
-The thing in my hand was certainly an excellent elixir. Yet the name displayed through Item Appraisal had not changed.
+What I held was undoubtedly a valuable elixir. Yet the name shown by Item Appraisal remained unchanged.
 
 *Hundred-Year-Old Snow Ginseng.*
 
-I already knew that the item Zhongnan Sect had commissioned the Yongbong Escort Bureau to transport was Thousand-Year Snow Ginseng.
+I already knew that Zhongnan had commissioned the Yongbong Escort Bureau to transport Thousand-Year Snow Ginseng.
 
-It was a peerless elixir said to grant a full jiazi of internal energy instantly upon consumption.
+It was a legendary elixir said to grant a full jiazi of internal energy through consumption alone.
 
 Murim practitioners would risk their lives to possess such a rare treasure, and its value was whatever price the seller cared to name.
 
-*According to the information Gung Gibang had gathered, the Yongbong Escort Bureau had staked its survival on this escort mission.*
+*According to the information Gung Gibang gathered, the Yongbong Escort Bureau staked its survival on this mission.*
 
 Unless Ju Hwaran was a complete fool, there was no way she would have thrown such precious cargo into a wagon and left it unattended.
 
@@ -134,9 +134,9 @@ Then where had the Thousand-Year Snow Ginseng gone? And why had it been replaced
 
 *It was obvious.*
 
-It could only mean that either the Zhongnan Sect or Hwangbo Eom personally had meddled with it.
+Either Zhongnan or Hwangbo Eom himself had tampered with it.
 
-On top of that, the Zhongnan Sect had been deeply involved in the Yongbong Escort Bureau’s decline for the past two years.
+What was more, Zhongnan had been deeply involved in the Yongbong Escort Bureau’s decline over the past two years.
 
 The Xi’an branch of the Beggars’ Sect, whose information network was said to rival the Lower District Sect’s for the finest under heaven, had already pieced together most of what had happened.
 
@@ -174,7 +174,7 @@ Hwangbo Eom was a perceptive old man.
 
 Realizing what had happened, he clicked his tongue and muttered, “…Our sect is crawling with worms.”
 
-“Still, aren’t harmful pests better than poisonous insects? From my point of view, getting drunk and causing a scene is much more exemplary than ruining a perfectly good escort bureau.”
+“Still, aren’t common pests better than venomous ones? From where I’m sitting, getting drunk and causing a scene is far more respectable than ruining a perfectly good escort bureau.”
 
 “You dare call this old man venomous? Hah. Hahaha!”
 
@@ -186,7 +186,7 @@ He looked down on everyone present, myself included, like a hawk high above that
 
 His wrinkled hand pressed against the table. The spilled tea slowly rose, took the form of an arrow, and pointed straight between my brows.
 
-“If this old man so much as wishes it, today will be the day of your funeral.”
+“If this old man so desires, today will be the day you die.”
 
 *That’s what you think.*
 
@@ -198,7 +198,7 @@ I opened my mouth.
 
 Just as I was about to respond, a hand tugged at my sleeve.
 
-At the same time, a trembling woman’s voice, carried on internal energy, pierced my ears.
+At the same time, a woman’s trembling voice reached my ears, carried by internal energy.
 
 *—Young Hero Jin…*
 
@@ -208,9 +208,9 @@ Fear and anger at what was happening. Relief at my arrival, and worry for my saf
 
 I knew exactly what she was thinking and what she wanted to say.
 
-*—I’m grateful that you’re thinking of us, but he’s right. This is an affair between the Yongbong Escort Bureau and the Zhongnan Sect. If you get involved any further, you’ll put yourself in danger as well.*
+*—I’m grateful for your concern, but he’s right. This is a matter between the Yongbong Escort Bureau and Zhongnan. If you involve yourself any further, you’ll be in danger too.*
 
-Looking into Ju Hwaran’s eyes suddenly brought back a memory from a year ago.
+Looking into Ju Hwaran’s eyes brought back a memory from a year ago.
 
 The Roaring Fury Swordsman had threatened to seal the gates of the Jin Family of Taiyuan for an absurd reason. What would have happened that day if Jeok Cheongang had not appeared?
 
@@ -234,7 +234,7 @@ I took a deep breath, then spoke to Ju Hwaran aloud rather than using Sound Tran
 
 “Y-Young Hero Jin?”
 
-“You’re right. This is an affair between the Zhongnan Sect and the Yongbong Escort Bureau. If I stick my nose into it, all I’ll get is a loss. No matter how powerful the Jin Family of Taiyuan is, we’re still nowhere near enough to stand before the name of the Zhongnan Sect.”
+“You’re right. This is between Zhongnan and the Yongbong Escort Bureau. If I stick my nose into it, all I’ll get for my trouble is a loss. No matter how much the Jin Family of Taiyuan has grown, we still fall far short of Zhongnan.”
 
 Ju Hwaran’s eyelids fluttered with surprise, then lowered.
 
@@ -254,19 +254,19 @@ I shook my head.
 
 I turned and found Hwangbo Eom watching me with an amused smile.
 
-The Zhongnan Sect was one of the Nine Sects and One Gang, and Hwangbo Eom was its elder and most powerful martial artist.
+Zhongnan was one of the Nine Sects and One Gang, and Hwangbo Eom was its elder and greatest martial artist.
 
-His martial arts were higher and his personality more meticulous, but Hwangbo Eom was still the same kind of person as the Roaring Fury Swordsman.
+His martial arts were stronger and his schemes more meticulous, but he was still the same kind of man as the Roaring Fury Swordsman.
 
 I stared straight at this second Roaring Fury Swordsman and opened my mouth.
 
-“It felt like fucking bullshit.”
+“It was fucking disgusting.”
 
 “……!”
 
 “……!”
 
-Even without seeing it, I could feel the energy in the room stirring.
+Even without looking around, I could feel the room stir.
 
 I continued with a sigh.
 
@@ -310,9 +310,9 @@ I turned my head and finished.
 
 “I made a plan.”
 
-That was the moment the pavilion’s doors opened and about a dozen people came streaming inside.
+At that moment, the teahouse doors opened and more than a dozen people poured inside.
 
-First came five beggars carrying a mountain of bamboo slips in their arms. They were the Xi’an Branch Leader of the Beggars’ Sect and his subordinates.
+First came five beggars carrying mountains of bamboo slips in their arms. They were the Xi’an Branch Leader of the Beggars’ Sect and his subordinates.
 
 At the head of the other group stood a woman I knew well.
 
