@@ -77,10 +77,12 @@ def needs_mastering(number: int) -> bool:
         return True
     if stage == "MASTERED_COMMITTED":
         return False
-    if stage != "COMMITTED":
+    if overlay_promoted(number):
         return False
-    # Overlay may already be PROMOTED while the primary transaction still needs
-    # workflow master → MASTERED → commit registration.
+    # Older accepted chapters often have no leftover .work transaction. Treat a
+    # missing primary the same as COMMITTED: master until the overlay is promoted.
+    if stage not in {None, "COMMITTED"}:
+        return False
     return True
 
 
@@ -197,6 +199,14 @@ def commit_mastered(chapter: int) -> None:
         raise SystemExit("refusing to commit unexpected paths: " + ", ".join(unexpected))
     ours = [path for path in dirty if path in allowed]
     if not ours:
+        commit = git(
+            "log", "--all", "-1", "--format=%H", "--grep", f"^Master Chapter {chapter}$"
+        )
+        if commit:
+            print("  ✓ commit     already recorded", flush=True)
+            command_committed(chapter, commit)
+            print(f"Chapter {chapter}  mastered", flush=True)
+            return
         raise SystemExit("workflow reached MASTERED without checkpointable changes")
     print(f"  ✓ commit     {len(ours)} files", flush=True)
     print("             Checkpoint mastered chapter artifacts in Git", flush=True)
