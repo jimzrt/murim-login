@@ -57,7 +57,7 @@ He stared at me, his face rigid. Then a thunderous cry burst from his lips.
 
 “Huh? You know me?”
 
-“I heard a rumor like that about a year ago… No, that’s not the point.”
+“I heard a rumor about that roughly a year ago… No, that’s not the point.”
 
 Heavenly Axe continued in a stammer, the way he addressed me already changing.
 
@@ -92,9 +92,9 @@ Even less had I expected the most beautiful woman I’d seen in all my twenty-ei
 
 *Can a person really look like this?*
 
-There was no way to properly describe Ju Hwaran’s beauty with simple words like *pretty* or *beautiful*.
+Words as simple as *pretty* or *beautiful* couldn’t begin to describe Ju Hwaran.
 
-I was still staring at her, cursing my inadequate vocabulary, when—
+I was still staring at her and lamenting my inadequate vocabulary when—
 
 “Ahem. Come to think of it, don’t we have repairs to do at the stronghold today?”
 
@@ -128,7 +128,7 @@ A chilly silence settled over the clearing. Heavenly Axe’s hand turned white a
 
 We had exchanged only a single blow.
 
-But Heavenly Axe—and everyone else present—must have realized it. I was a master on a higher level than him.
+But Heavenly Axe—and everyone else present—must have realized that I was the stronger master.
 
 Of course, that wasn’t the only source of the fear making Heavenly Axe hesitate.
 
@@ -140,7 +140,7 @@ I had covered him with layers of fur in case anything happened. No one could pos
 
 *Besides, no one can find out that Old Master has collapsed.*
 
-If that happened, all kinds of vermin, including Dark Heaven, would come crawling out of the woodwork.
+All kinds of vermin would come crawling out of the woodwork, including Dark Heaven.
 
 I concealed my thoughts and laughed quietly.
 
@@ -158,7 +158,7 @@ I concealed my thoughts and laughed quietly.
 
 “Does it sound like a joke?”
 
-Heavenly Axe bit down hard on his lip and rolled his eyes.
+Heavenly Axe bit down hard on his lip and glanced around.
 
 His gaze swept over me, Ju Hwaran and the other members of the Yongbong Escort Bureau, then the faces of the Bermuda Triangle slowly descending the hill. Finally, his eyes returned to me.
 
@@ -190,7 +190,7 @@ Heavenly Axe raised one hand, his face filled with contempt.
 
 At once, nearly five hundred Green Forest bandits lifted their weapons and stepped forward.
 
-The mere fact that the Fire King was not present seemed to have restored their confidence.
+The mere belief that the Fire King wasn’t here seemed to have restored their confidence.
 
 “The Fire King, Jeok Cheongang, is undoubtedly a master beyond the human realm. But can you really turn the tide of this battle all by yourself?”
 
@@ -198,7 +198,7 @@ The mere fact that the Fire King was not present seemed to have restored their c
 
 I looked around.
 
-There were only a little more than seventy people from the Yongbong Escort Bureau.
+Only a little more than seventy people remained in the Yongbong Escort Bureau’s party.
 
 Half were caravan porters who didn’t know so much as a single move of martial arts, and even the escorts who would have to fight were visibly exhausted.
 
@@ -208,7 +208,7 @@ They had more than ten times as many fighters. Heavenly Axe certainly had reason
 
 But…
 
-“I might as well turn it around while I have the chance.”
+“I might as well turn it around while I’m here.”
 
 “Hahaha! Go ahead and try.”
 
@@ -234,11 +234,11 @@ A roar split the sky, sending clouds of dust and steam billowing upward.
 
 *Ding. Ding. Ding.*
 
-System notifications continued boring into my ears without pause.
+System notifications rang in my ears without pause.
 
 These bandits were too low-Level to grant me any EXP. I had neither the need nor any reason to use my spear.
 
-I simply unleashed my martial arts indiscriminately at the enemies beyond the chaotic fog.
+I simply poured my martial arts into the enemies beyond the chaotic haze.
 
 *Baaaaang!*
 
@@ -292,7 +292,7 @@ Before it touched the ground, I was already moving again.
 
 *Flamefire Path.*
 
-The Fire Gate Clan’s signature cultivation technique.
+The Fire Gate Clan’s signature movement technique.
 
 I kicked off the ground and surged forward, a tail of fire piercing the haze.
 
@@ -310,7 +310,7 @@ Heavenly Axe ground his teeth as I stepped toward him.
 
 I unleashed the Flame Divine Palm with all my internal energy behind it.
 
-Red qi streamed from the enormous axe Heavenly Axe brought down with the momentum of splitting a person in two.
+Red qi streamed from the enormous axe as Heavenly Axe brought it down with enough force to cleave me in two.
 
 A lionlike roar burst from his mouth.
 
@@ -342,7 +342,7 @@ Heavenly Axe’s lips, cracked like a drought-stricken field, moved weakly.
 
 With those words, I pulled my hand from his chest.
 
-His entire body had been burned and melted after he failed to block the opening strike of the Flame-Extinguishing Divine Fist.
+He had failed to block the opening strike of the Flame-Extinguishing Divine Fist, leaving his entire body burned and mangled.
 
 Heavenly Axe looked down at his charred-black chest and muttered in a broken voice.
 
@@ -399,7 +399,7 @@ I stared at my enemies with flames burning in my eyes.
 
 *Clang.*
 
-Beginning with a single sword someone dropped helplessly, more than four hundred weapons rolled across the ground.
+It began with a single sword slipping helplessly from someone’s hand. Then more than four hundred weapons clattered to the ground.
 
 > **System**
 > - You have completed **Subdue Black Stone Stronghold**!
