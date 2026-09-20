@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“That is why I said you didn’t need permission.”",
+      "defect": "The subject is reversed. Mungyeong says that he does not need Taekyung’s permission, not that Taekyung does not need permission.",
+      "id": "F01",
+      "rationale": "네놈 허락은 필요 없다 explicitly means that Mungyeong has no need for Taekyung’s permission.",
+      "replacement": "“Like I said, I don’t need your permission.”",
+      "severity": "critical",
+      "source": "“그래서 말했을 텐데. 네놈 허락은 필요 없다고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*What the hell?*",
+      "defect": "The draft sanitizes Taekyung’s profane reaction.",
+      "id": "F02",
+      "rationale": "시벌 is a deliberately distorted but unmistakable form of strong profanity; “hell” weakens its register.",
+      "replacement": "*What the fuck?*",
+      "severity": "minor",
+      "source": "뭐여, 시벌."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Six people is a lot.”",
+      "defect": "The draft explains the joke rather than preserving Taekyung’s mock-grandiose phrasing and deadpan timing.",
+      "id": "F03",
+      "rationale": "무려 ironically emphasizes the supposedly impressive number of six; the concise phrasing carries the humor.",
+      "replacement": "“A whole six.”",
+      "severity": "minor",
+      "source": "“무려 여섯이죠.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Why would he leave the Sword Saint and deliberately learn from someone with such a foul temper—sorry. That came out wrong.”",
+      "defect": "The plain title “Sword Saint” omits the comic, exaggerated praise in 킹갓검성.",
+      "id": "F04",
+      "rationale": "킹갓 is humorous hyperbolic praise, contrasting the Sword Saint with Mungyeong immediately before Taekyung insults Mungyeong’s temperament.",
+      "replacement": "“Why would he pass up the almighty Sword Saint and go out of his way to learn from someone with such a foul temper—sorry. That came out wrong.”",
+      "severity": "minor",
+      "source": "“아니, 왜 킹갓검성을 놔두고 굳이 성격도 더러운…… 죄송합니다. 말이 헛나왔네요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“I have lived a long time.”",
+      "defect": "The draft renders the idiom literally and loses Mungyeong’s surprise that he has witnessed something so unexpected.",
+      "id": "F05",
+      "rationale": "오래 살고 볼 일이다 is an idiomatic reaction to an astonishing or unprecedented development, not a factual statement about age.",
+      "replacement": "“Well, now I’ve seen everything.”",
+      "severity": "minor",
+      "source": "“오래 살고 볼 일이군.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even so, it was the last time. Couldn’t they at least come to see my face?",
+      "defect": "“The last time” implies a permanent final meeting, while the source means the last opportunity before Taekyung departs. The plural pronoun also obscures that he is waiting for Jeok Cheongang.",
+      "id": "F06",
+      "rationale": "마지막인데 refers contextually to Taekyung’s imminent departure, and the preceding reflection identifies Jeok Cheongang as the person whose absence disappoints him.",
+      "replacement": "Still, this was the last chance before I left. Couldn’t he at least come see me?",
+      "severity": "major",
+      "source": "그래도 마지막인데 얼굴 정도는 보러 와 주지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "—Do you know? Everyone who has received my teachings up to now has died.\n\n“…”",
+      "defect": "The missing exclamation mark removes Taekyung’s explicit shock at Mungyeong’s statement.",
+      "id": "F07",
+      "rationale": "The source punctuates the silent reaction with an exclamation mark, marking a startled response rather than an uninflected pause.",
+      "replacement": "—Do you know? Everyone who has received my teachings up to now has died.\n\n“…!”",
+      "severity": "minor",
+      "source": "- 그거 아느냐? 지금까지 내 가르침을 받은 놈들은 모두 죽었다.\n\n“……!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "—So don’t die a pointless death. If you die in Nanman, all the restraint I’ve shown until now will have been for nothing.",
+      "defect": "“The restraint I’ve shown” suggests Mungyeong has refrained from acting, whereas 참은 것 means everything he has endured or put up with during Taekyung’s instruction.",
+      "id": "F08",
+      "rationale": "The line expresses Mungyeong’s gruff concern through the sunk cost of what he has endured, not through self-restraint.",
+      "replacement": "—So don’t die a pointless death. If you die in Nanman, all that I’ve put up with until now will have been for nothing.",
+      "severity": "major",
+      "source": "- 그러니 헛되이 죽지 말거라. 네놈이 남만에서 죽어 버리면, 내가 지금까지 참은 것이 아까워지니까."
+    }
+  ],
+  "summary": "One subject reversal, one misleading departure implication, and several localized losses of humor, register, and characterization.",
+  "version": 1
+}
