@@ -12,21 +12,21 @@ I briefly wondered how many people this diminutive, hunchbacked old man had done
 
 “No, thank you.”
 
-“If that’s what you want, then.”
+“If that’s what you want.”
 
 Gulp, gulp.
 
-Old Man Gung tilted the gourd back and wiped his mouth with his sleeve. The sleeve was so worn it looked ready to crumble, and it was covered in dark red stains that looked like blood.
+Old Man Gung tilted the gourd back and wiped his mouth with his sleeve. The fabric was so worn it looked ready to crumble, and it was covered in dark red stains that looked like blood.
 
 “Ahh, that’s good.”
 
-The potent scent of liquor drifted through the stench of blood lingering in the corridor and tickled the tip of my nose.
+The sharp scent of liquor mingled with the stench of blood in the corridor and stung my nose.
 
 Drinking on duty. At the Jin Family of Taiyuan, that would have earned him a disciplinary report, but apparently that rule did not apply in the Sichuan Tang Clan’s underground prison.
 
-“I heard you’re one of the most renowned young prodigies in the Murim.”
+“I hear you’re one of the most renowned young prodigies in the Murim.”
 
-It was obvious who he was talking to. Cheongpung and Tang Sadok had disappeared somewhere early on, while the Divine Physician and Mungyeong were busy purifying the prison and turning it into a treatment room.
+It was obvious who he was talking to. Cheongpung and Tang Sadok had disappeared somewhere a while ago, while the Divine Physician and Mungyeong were busy cleaning the cell and turning it into a treatment room.
 
 I reluctantly answered.
 
@@ -46,7 +46,7 @@ Old Man Gung grinned, baring teeth that had almost entirely rotted away.
 
 “Heh heh. He was once notorious even among the Demonic Cult’s fiends. Now he’s strapped to a rack, doing nothing but shitting blood. You must have seen him on your way in.”
 
-“Did I?”
+“Maybe.”
 
 The Sichuan Tang Clan’s underground prison was as winding and complicated as a maze. On the way here, I had seen dozens of cells holding more than ten prisoners.
 
@@ -54,7 +54,7 @@ The Sichuan Tang Clan’s underground prison was as winding and complicated as a
 
 They were paying the price for their evil deeds. I did not feel even the slightest bit of sympathy for them.
 
-No, it would be more accurate to say that I had no room to worry about something like that.
+No, it would be more accurate to say I had no room to worry about them.
 
 *I didn’t expect to be this nervous.*
 
@@ -82,7 +82,7 @@ In the space of two shichen, the cell behind him had been transformed into a fai
 
 At last, all the preparations were complete.
 
-The various medicines made by combining the twenty-four herbs gathered from the Cold-Ice Land had already been brought here. The treatment room was ready. Only one thing remained.
+The various medicines made from the twenty-four herbs gathered in the Cold-Ice Land had already been brought here. The treatment room was ready. Only one thing remained.
 
 “Thank you all for your hard work. Would you mind giving us the room for a moment?”
 
@@ -92,7 +92,7 @@ At my words, the members of the Sichuan Tang Clan, including Old Man Gung, began
 
 Something hard appeared in my empty palm. I had kept the Myriad-Poison Ring with me for safekeeping, but now I handed it to the Divine Physician.
 
-The Divine Physician accepted the ring, slipped it onto his finger, and entered the prison cell while gesturing to me.
+He accepted the ring, slipped it onto his finger, and entered the cell before beckoning to me.
 
 “Would you bring the patient in?”
 
@@ -100,21 +100,21 @@ I lowered the pack frame from my shoulders. A small figure came into view, accom
 
 “Over here.”
 
-I stepped into the prison cell with Jeok Cheongang in my arms. The floor was clean, but the stench had not completely disappeared and still lingered at the tip of my nose.
+I stepped into the cell with Jeok Cheongang in my arms. The floor was clean, though the foul odor had not completely disappeared and still lingered in the air.
 
-None of that mattered, however. The weight of Jeok Cheongang, light as a feather, made my chest ache unusually badly.
+But none of that mattered. Jeok Cheongang felt as light as a feather, and the realization made my chest ache.
 
 *You’ve grown so weak.*
 
 A month and a half had already passed since we left the Murim Alliance in Henan and began our journey.
 
-We had found the Divine Physician and secured his treatment far more quickly than I had expected, but Jeok Cheongang had continued to weaken day by day.
+We had found the Divine Physician and secured his help far sooner than I had expected, but Jeok Cheongang had continued to weaken with each passing day.
 
 I carefully laid him on the smooth white stone prepared in the center of the room.
 
 It was a special object called Cold-Ice Stone, provided by Tang Sadok. The Divine Physician had said it would greatly aid Jeok Cheongang’s treatment.
 
-“He’s sleeping soundly.”
+“You’re sleeping soundly.”
 
 Jeok Cheongang’s face was gaunt, but it also looked peaceful.
 
@@ -148,21 +148,21 @@ Jeok Cheongang had led me beyond the Jin Family of Taiyuan, and I had followed h
 
 *The Dance of the Fire God and Demon. Wasn’t it incredible?*
 
-His face and voice came back to me—the faint smile he wore even while vomiting blood.
+I remembered his face and his voice—the faint smile he had worn even as he coughed up blood.
 
-Even the single remark he had tossed out on a day when the moon shone brilliantly, while trying to sound gruff.
+I even remembered the words he had tossed out with forced gruffness one night beneath a brilliant moon.
 
 *Master, my ass. Call me Old Master.*
 
 “Old Master.”
 
-Even when I called out loud, no answer came back.
+Even when I called out loud, no answer came.
 
 I knew there wouldn’t be, yet I still called to him. Not because I hoped he would hear me, but because there was something I wanted to say.
 
 “Did you know?”
 
-*I don’t, you idiot!*
+*Of course I don’t, you idiot!*
 
 A dry laugh escaped me at the voice that seemed to echo from somewhere. I gripped Jeok Cheongang’s wrinkled hand tightly and whispered,
 
@@ -202,11 +202,11 @@ I did not believe in gods, but I did believe there was some omniscient and omnip
 
 As I offered a brief prayer to that being whose face and name I did not know, the Divine Physician spoke solemnly.
 
-“Remember this. Fifteen days—fifteen days. Until then, no one may approach.”
+“Remember this. Fifteen days—fifteen full days. Until then, no one may approach.”
 
 *What should I do if it takes longer than fifteen days?*
 
-I swallowed the words hovering on the tip of my tongue. Now, I had no choice but to trust the two of them. There was only one thing I could say.
+I swallowed the question hovering on the tip of my tongue. I had no choice now but to trust the two of them. There was only one thing I could say.
 
 “I’ll stop anyone who tries to enter, even if I have to stake my life on it.”
 
@@ -220,13 +220,13 @@ The man’s limbs were bent at grotesque angles, and his skin had been flayed aw
 
 “I—I’ve already told you everything I know…”
 
-“Aren’t you leaving out the most important part?”
+“You’ve left out the most important part.”
 
 “I don’t know. I truly don’t.”
 
 Bloody tears streamed from his one remaining eye. His trouser legs, already drenched in blood, darkened further with urine.
 
-The man forced out a trembling voice.
+The man forced out a trembling plea.
 
 “Please… just kill me now…”
 
@@ -238,7 +238,7 @@ The man had already endured half a day of unimaginable torture.
 
 If he had begged for his life, there might still have been room for doubt. But now that he was begging for death, the middle-aged man had no choice but to accept it.
 
-Until now, no one had ever lied to the middle-aged man.
+No one had ever lied before him and gotten away with it.
 
 No one except the Poison King, Tang Taesang.
 
@@ -246,9 +246,9 @@ No one except the Poison King, Tang Taesang.
 
 Whoosh—thud!
 
-Along with the sound of a single gust of wind, the blood-soaked head jerked backward. A flick of the middle-aged man’s finger had pierced the man between the brows, and he died with a peaceful expression.
+A thin gust cut through the air, snapping the blood-soaked head backward. The middle-aged man’s flicked finger had pierced the victim between the brows, leaving him dead with a peaceful expression.
 
-The middle-aged man stared down at the body of the man who had been a member of a collateral branch of the Sichuan Tang Clan and an operative of the Green Shadow Squad. Then he stretched out a hand.
+The middle-aged man gazed down at the corpse of the Sichuan Tang Clan collateral relative who had served in the Green Shadow Squad, then extended a hand.
 
 Boom!
 
@@ -256,7 +256,7 @@ A thunderous roar rang out as a pit one zhang deep opened in the ground.
 
 The five corpses scattered nearby were neatly stacked inside it and covered with earth, all within moments.
 
-“The Green Shadow Squad… So those gnats have latched on.”
+“The Green Shadow Squad… So those gnats have latched on to me.”
 
 Muttering under his breath, the middle-aged man looked beyond the winding mountain ridge. West, toward the Sichuan Tang Clan.
 
@@ -270,7 +270,7 @@ Emei or Qingcheng might have been another matter, but the Sichuan Tang Clan was 
 
 He had long since grasped every movement taking place in Sichuan.
 
-All preparations were complete to hunt the three tigers crouching in Sichuan—Emei, Qingcheng, and the Tang Clan.
+All preparations were complete to hunt the three tigers crouching there—Emei, Qingcheng, and the Tang Clan.
 
 Now…
 
@@ -294,7 +294,7 @@ A resonant hum rang out, and the cliff collapsed.
 
 No. It would be more accurate to say that space itself had warped. The weathered stones and boulders vanished, revealing a vast hollow concealed behind them.
 
-*The sorcerers’ Mystic Gate Formation. It never stops being impressive.*
+*The sorcerers’ Mystic Gate Formations never cease to amaze me.*
 
 But compared to what he was about to do, even this was nothing more than a parlor trick.
 
