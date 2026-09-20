@@ -1809,3 +1809,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 타락한 엔트 장로 | **Corrupted Ent Elder** | Level 102 named Ent encountered before the Cyclops. |
 | 붉은 눈 | **Red Eye** | Epithet of the Level 130 Named Monster Cyclops. |
 | 치코리타 | **Chikorita** | Pop-culture reference used in Taekyung’s taunt to the Ent Elder. |
+| 골드문 | **Gold Moon** | Name Song briefly considers before correcting herself to Ares Guild. |
+| 대마도사 | **Grand Mage** | Title used for Magic Johnson. |

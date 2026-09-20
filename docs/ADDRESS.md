@@ -910,3 +910,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 석고준 | 장택환 | Ares Guild Vice Guild Master to South Korean Prime Minister | Prime Minister Jang / Mr. Jang Taekhwan | initially formal, then coercive and hostile | Go Jun demands that Jang arrange a private meeting with the President before the national funeral. |
 | 스켈레톤 킹 | 진태경 | trusted_monster_ally_to_human_companion | Jin | archaic_insulting-casual | Also repeatedly addresses Taekyung as Wretched human. |
 | 진태경 | 스켈레톤 킹 | human_companion_to_monster_ally | King | casual | Uses King in the final exchange while threatening to confiscate the Skeleton King's phone. |
+| 송송이 | 이승엽 | rescue_leader_to_rescued_Hunter | Team Leader Lee Seungyeop | polite-professional | Song Song identifies and questions the rescued Hunter. |
+| 이승엽 | 송송이 | rescued_Hunter_to_rescue_leader | Team Leader Song Song | formal-polite | Lee asks about Song Song’s identity and role. |
+| 진태경 | 최 팀장 | subordinate_to_manager | Team Leader Choi | formal-polite | Taekyung asks Team Leader Choi about the requested data and the arriving visitor. |
+| 최 팀장 | 진태경 | manager_to_subordinate | Mr. Jin Taekyung | formal-polite | Team Leader Choi discusses the Cyclops incident and Mutated Gate data with Taekyung. |
+| 스켈레톤 킹 | 진태경 | ally_to_ally | Wretched human | casual-insulting | The Skeleton King uses its habitual theatrical address. |
+| 진태경 | 스켈레톤 킹 | ally_to_ally | Your dad | casual-mocking | Taekyung taunts the Skeleton King when it asks whom he is expecting. |
