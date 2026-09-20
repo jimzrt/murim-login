@@ -1,6 +1,6 @@
 # Soyeong (소영)
 
-- **Safe through:** Chapter 287
+- **Safe through:** Chapter 545
 - **Aliases:** None
 - **Role:** Deceased mother of Team Leader Choi and daughter of Cheon Taemin.
 - **Personality:** Not established.
