@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "You’ve all just fought monsters, so your mana fatigue is severe.",
+      "defect": "The pronouns incorrectly assign the severe mana fatigue to the people being addressed rather than to the mages explaining why they cannot cast Teleport.",
+      "id": "F01",
+      "rationale": "The mage is describing the condition of the group of mages denoted by 다들; this condition is part of their explanation for being unable to cast Teleport.",
+      "replacement": "We’ve all just fought monsters, so our mana fatigue is severe.",
+      "severity": "critical",
+      "source": "다들 몬스터를 상대한 직후라 마나 피로도가 극심한 데다가"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Pusan",
+      "defect": "The place name is romanized inconsistently with the established term and its other occurrences in the chapter.",
+      "id": "F02",
+      "rationale": "부산 is established as Busan.",
+      "replacement": "Busan",
+      "severity": "minor",
+      "source": "부산에서 평창까지는 250km가 넘는 다고요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "They weren’t Johnson.",
+      "defect": "The translation drops “Magic” from Magic Johnson’s established name, obscuring the specific reference and its wordplay in a discussion of exceptional magic.",
+      "id": "F03",
+      "rationale": "매직 존슨 explicitly names Magic Johnson, the dark-skinned Grand Mage described in the following sentence.",
+      "replacement": "They weren’t Magic Johnson.",
+      "severity": "major",
+      "source": "그들은 매직 존슨이 아니니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "More than half of the twenty-two Hunters, including himself and Kim Hwajong, had met gruesome deaths.",
+      "defect": "The placement of “including himself and Kim Hwajong” makes it read as though both living characters are included among those who died.",
+      "id": "F04",
+      "rationale": "The source includes Choi Minwoo and Kim Hwajong in the original total of twenty-two Hunters, not among the dead.",
+      "replacement": "Of the twenty-two Hunters—including himself and Kim Hwajong—more than half had met gruesome deaths.",
+      "severity": "critical",
+      "source": "그렇게 자신과 김화종을 포함한 스물두 명의 헌터 중 절반이 넘는 인원이 처참한 죽음을 맞이했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The blood blocking his vision was red, and the swords in both of Choi Minwoo’s hands radiated a pure white brilliance.",
+      "defect": "The translation changes one sword held with both hands into multiple swords, one in each hand.",
+      "id": "F05",
+      "rationale": "검은 is singular in context, while 양손에 들린 states that Choi Minwoo is holding that sword with both hands.",
+      "replacement": "The blood blocking his vision was red, and the sword Choi Minwoo held in both hands radiated a pure white brilliance.",
+      "severity": "critical",
+      "source": "시야를 가로막는 핏물은 붉었고, 최민우의 양손에 들린 검은 새하얀 광휘를 내뿜었다."
+    }
+  ],
+  "summary": "Five actionable findings: two subject/action ambiguities, one altered weapon quantity, one omitted name element, and one inconsistent place-name romanization.",
+  "version": 1
+}
