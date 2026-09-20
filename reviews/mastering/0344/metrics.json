@@ -1,0 +1,129 @@
+{
+  "chapter": 344,
+  "stages": {
+    "adjudicator": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 4608,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.013870360000000002,
+      "cost_usd": 0.013870360000000002,
+      "elapsed_seconds": 202.569,
+      "event_log": "/Users/james/dev/murim-login-new/reviews/mastering/0344/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 24443,
+      "model": "gpt-5.6-luna",
+      "models": {
+        "openai-codex/gpt-5.6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 4608,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.013870360000000002,
+          "input_tokens": 24443,
+          "model": "gpt-5.6-luna",
+          "output_tokens": 7408,
+          "provider": "openai-codex",
+          "reasoning_tokens": 5644,
+          "requests": 1,
+          "total_tokens": 36459
+        }
+      },
+      "output_bytes": 7837,
+      "output_tokens": 7408,
+      "packet_bytes": 82171,
+      "packet_token_estimate": 20543,
+      "provider": "openai-codex",
+      "reasoning_tokens": 5644,
+      "requested_model": "openai-codex/gpt-5.6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 36459,
+      "usage_source": "omp_provider_reported"
+    },
+    "fidelity_gate": {
+      "billing_type": "api",
+      "cache_read_tokens": 5888,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.0074492,
+      "cost_usd": 0.0074492,
+      "elapsed_seconds": 4.984,
+      "event_log": "/Users/james/dev/murim-login-new/reviews/mastering/0344/omp/fidelity-gate.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "finding_count": 0,
+      "input_tokens": 17031,
+      "major_or_critical_count": 0,
+      "model": "openai/gpt-4.1-mini",
+      "models": {
+        "openrouter/openai/gpt-4.1-mini": {
+          "billing_type": "api",
+          "cache_read_tokens": 5888,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.0074492,
+          "input_tokens": 17031,
+          "model": "openai/gpt-4.1-mini",
+          "output_tokens": 30,
+          "provider": "openrouter",
+          "requests": 1,
+          "total_tokens": 22949
+        }
+      },
+      "output_bytes": 116,
+      "output_tokens": 30,
+      "packet_bytes": 62564,
+      "packet_token_estimate": 15641,
+      "provider": "openrouter",
+      "requested_model": "openrouter/openai/gpt-4.1-mini",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 22949,
+      "usage_source": "omp_provider_reported"
+    },
+    "master": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 5504,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.17170159999999998,
+      "cost_usd": 0.17170159999999998,
+      "elapsed_seconds": 88.269,
+      "event_log": "/Users/james/dev/murim-login-new/reviews/mastering/0344/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 19175,
+      "model": "gpt-5.6-sol",
+      "models": {
+        "openai-codex/gpt-5.6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 5504,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.17170159999999998,
+          "input_tokens": 19175,
+          "model": "gpt-5.6-sol",
+          "output_tokens": 4640,
+          "provider": "openai-codex",
+          "reasoning_tokens": 1673,
+          "requests": 1,
+          "total_tokens": 29319
+        }
+      },
+      "output_bytes": 13379,
+      "output_tokens": 4640,
+      "packet_bytes": 74965,
+      "packet_token_estimate": 18742,
+      "provider": "openai-codex",
+      "reasoning_tokens": 1673,
+      "requested_model": "openai-codex/gpt-5.6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 29319,
+      "usage_source": "omp_provider_reported"
+    }
+  },
+  "version": 1
+}

@@ -8,7 +8,7 @@ Ding.
 >
 > - There is something you must accomplish. You cannot refuse!
 
-I stared at the holographic window that filled my vision along with the System notification.
+As the System notification chimed, a holographic window filled my vision.
 
 > **System**
 >
@@ -42,7 +42,7 @@ Mungyeong nodded at my mutter.
 
 The Divine Physician added in a heavy voice, “That is why it is a legend. It is so ancient that it has survived only through word of mouth.”
 
-After thinking for a moment, I suddenly opened my mouth.
+After thinking for a moment, I spoke up.
 
 “No. It exists.”
 
@@ -88,7 +88,7 @@ I pointed at the two bewildered men in turn.
 
 “Why? Why me?”
 
-“I want to go with you too! Please, don’t leave this vicious beggar and me behind!”
+“I want to go with you too! Please don’t leave me here with this vicious beggar!”
 
 “What?! You dog-bone bastard!”
 
@@ -96,9 +96,9 @@ Smack! Smack!
 
 Sometimes, a good beating was the best medicine. I shook my fists at the two men as they clutched the tops of their heads.
 
-“Stop talking nonsense and stay here to guard Venerable Myoryeong. If anything happens, Gung Gibang, you contact me immediately.”
+“Stop talking nonsense and stay here to guard Venerable Myoryeong. If anything happens, Gung Gibang, let us know immediately.”
 
-“Contact you? Is there a messenger pigeon here that can fly to the Sichuan Tang Clan?”
+“Let you know? Is there a messenger pigeon here that can fly to the Sichuan Tang Clan?”
 
 “What kind of beggar’s-foot-rag nonsense is that? If something happens, you come running so fast your feet catch fire.”
 
@@ -148,13 +148,13 @@ The Divine Physician studied Cheongpung with a wary expression before answering.
 
 “Gyeong, what will you do?”
 
-Mungyeong thought deeply for a moment, then nodded as if he had made his decision.
+Mungyeong thought it over for a moment, then nodded decisively.
 
 “I will accompany you, Master. The Emei nun should have no trouble as long as she gets some rest.”
 
 “I would appreciate that.”
 
-The person I needed most right now was actually the Divine Physician. But having Mungyeong with us would be even better. He was always at his Master’s side, serving as a capable assistant.
+The person I needed most right now was the Divine Physician. But having Mungyeong with us would be even better. He was always at his Master’s side, serving as a capable assistant.
 
 Besides, he was the one who had first brought up the Myriad-Poison Ring.
 
@@ -162,7 +162,7 @@ Besides, he was the one who had first brought up the Myriad-Poison Ring.
 
 Myriad-Poison Asura Tang Sadok. The answer would become clear once I faced the head of the Sichuan Tang Clan.
 
-Once I had finished thinking, I turned to Cheongpung.
+Having made up my mind, I turned to Cheongpung.
 
 “Young Hero Cheongpung, grab two A-frame carriers and two ropes. Make them big and sturdy.”
 
@@ -186,9 +186,9 @@ At the Myriad-Poison Asura Tang Sadok’s words, the middle-aged man lowered his
 
 The Great Faction War raged for ten long years before ending in victory for the orthodox faction. The Tang Clan returned to Sichuan and rebuilt, but the scars from that time had been carved deep into everyone’s hearts.
 
-“And yet—how? How could we suffer such humiliation again?”
+“And yet… And yet, how?”
 
-The instant green light flashed in Tang Sadok’s eyes, the middle-aged man held his breath as poisonous energy poured from Tang Sadok’s entire body.
+Green light flashed in Tang Sadok’s eyes. As toxic energy poured from his entire body, the middle-aged man sucked in a breath.
 
 “Hngh.”
 
@@ -198,7 +198,7 @@ Sssssss!
 
 Tang Sadok’s wrinkled hand pressed down on the table—or rather, melted it.
 
-Not only the wood but even the iron fittings along the corners liquefied into black poison and flowed across the floor. The middle-aged man immediately prostrated himself.
+Not only the wood but even the iron fittings along its corners liquefied into black poison. The middle-aged man immediately prostrated himself.
 
 “Please calm yourself, Family Head!”
 
@@ -230,7 +230,7 @@ He had decided to return not as a son but as the Family Head of the Sichuan Tang
 
 Even within the Sichuan Tang Clan, the Green Shadow Squad specialized in intelligence gathering and assassinating key targets.
 
-They had been chiefly responsible for eliminating countless fiends immediately after the Great Faction War, but Tang Sadok felt an inexplicable sense of foreboding.
+They had played the greatest role in eliminating countless fiends after the Great Faction War, yet Tang Sadok felt an inexplicable sense of foreboding.
 
 “Do not let your guard down. Strengthen the defenses of the Gate Guard Pavilion, and do not allow anyone to enter.”
 
@@ -256,7 +256,7 @@ Tang Sadok had grown numb with time and lived for many years without thinking ab
 
 “I suppose I’m growing old too, Father.”
 
-At Tang Sadok’s quiet monologue, spoken after he was left alone, his chest rose and fell. Then something slowly poked its head out.
+At Tang Sadok’s quiet monologue, something stirred at his chest and slowly poked its head out.
 
 Hiss. Hiss.
 
@@ -312,9 +312,9 @@ His hesitation did not last long. A hoarse voice escaped Tang Sadok’s lips.
 
 “Are you the Divine Physician?”
 
-Now that was some no-brakes macho-man talk.
+Now there was a macho man with no brakes.
 
-Tang Sadok had asked the question out of nowhere without even pretending to look at us, and the Divine Physician let out a hearty laugh.
+Tang Sadok asked without so much as looking at us, and the Divine Physician let out a hearty laugh.
 
 “This old man’s name is Dong Feng.”
 
@@ -334,7 +334,7 @@ That was pretty damn convincing.
 
 Tang Sadok slowly looked us over, a green glow shimmering in his eyes.
 
-“The Divine Physician… You, whom the whole world has searched for without catching even a glimpse of you, have come looking for me. And you have brought young prodigies of the Murim with you. Why?”
+“The Divine Physician… You vanished without a trace while the whole world searched for you, yet now you have come looking for me. And with young prodigies of the Murim, no less. Why?”
 
 “May I answer that?”
 
