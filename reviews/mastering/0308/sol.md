@@ -16,7 +16,7 @@ I looked at Jeok Cheongang, lying there as peacefully as if he were asleep, then
 
 The Divine Physician was a man so shrouded in mystery that no one knew his identity.
 
-Without the token of the Divine Physician that the Luoyang Strange Physician had given me, I would have felt as if I had been dropped into the middle of a vast ocean.
+Without the token the Luoyang Strange Physician had given me, I would have felt as if I’d been dropped into the middle of a vast ocean.
 
 “Ahem. Is that all I get? Words?”
 
@@ -24,7 +24,7 @@ Without the token of the Divine Physician that the Luoyang Strange Physician had
 
 The Luoyang Strange Physician chuckled at my joking reply.
 
-“You insolent brat. Instead of wasting time spouting nonsense, start packing your bags right now.”
+“You insolent brat. Instead of wasting time spouting nonsense, start packing your bags.”
 
 “Oh. Right.”
 
@@ -32,7 +32,7 @@ Even by the roughest estimate, the journey from Henan to Sichuan was several tho
 
 *And there’s no guarantee I’ll find the Divine Physician right away.*
 
-I looked at the Quest window, which I had not yet closed, and muttered inwardly.
+I stared at the Quest window I had yet to close.
 
 > **System**
 >
@@ -72,7 +72,7 @@ The thought of searching all of Sichuan for someone whose name and face I didn�
 
 But what choice did I have? There was no decision to make. I had to find the Divine Physician, no matter what it took, if I wanted Jeok Cheongang to live.
 
-Jeok Cheongang had six months left.
+Six months remained.
 
 If I continued guiding qi through his acupoints, I might be able to buy him another month or two. But that was the absolute limit of the time Jeok Cheongang had left.
 
@@ -112,13 +112,13 @@ I nodded and gave him several names.
 
 * * *
 
-A short while later, Mae Jonghak and the Luoyang Strange Physician left the pavilion and walked along slowly as they spoke.
+A short while later, Mae Jonghak and the Luoyang Strange Physician left the pavilion and talked as they walked.
 
 “Are you certain about this? I understand that meeting the Divine Physician has been your lifelong wish.”
 
 “My lifelong wish…”
 
-At Mae Jonghak’s words, the Luoyang Strange Physician gazed into the distance as he recalled the past.
+The Luoyang Strange Physician’s gaze grew distant as he recalled the past.
 
 “It was. He was the reason I abandoned my official post and took up acupuncture needles.”
 
@@ -140,13 +140,13 @@ He had believed every civil and military official would do everything in their p
 
 “What did you do?”
 
-“I wrote lies as facts. Under my brush, a hundred thousand seok of grain, wealth, and medicinal supplies became aid distributed to the sick. The imperial physicians who had been attending the scholar-officials became true physicians laboring to suppress the plague.”
+“I turned lies into facts with my brush. In the records I wrote, a hundred thousand seok of grain, wealth, and medicinal supplies were distributed to the sick. The imperial physicians attending the scholar-officials became noble healers laboring to suppress the plague.”
 
 “That must have been painful.”
 
 “It was. When I returned home after leaving the palace, I found imperial physicians sent by the Emperor waiting there. They had come to treat my grandfather’s mild cold.”
 
-That was when he first learned that the world put a price even on human life.
+That was when he first learned that the world placed a price on human life.
 
 The Luoyang Strange Physician’s knuckles whitened around the cloth bundle containing his acupuncture needles.
 
@@ -262,7 +262,7 @@ The Luoyang Strange Physician stared at Mae Jonghak in disbelief.
 
 “Who in their right mind would nominate the Slaughter Saint as Alliance Leader?”
 
-“What’s wrong with him? His martial arts go without saying, and he is thorough by nature. He would be perfect as Alliance Leader.”
+“What’s wrong with him? His martial arts need no explanation, and he’s thorough by nature. He’d be perfect for the position.”
 
 “The problem is that he uses those martial arts and that thorough nature to murder people for a living. The greatest assassin under Heaven as Alliance Leader? How could that possibly work?”
 
@@ -270,7 +270,7 @@ The Luoyang Strange Physician stared at Mae Jonghak in disbelief.
 
 Watching Mae Jonghak scratch vigorously at the back of his head, the Luoyang Strange Physician wondered:
 
-*Is orthodox Murim really going to be all right like this?*
+*Is orthodox Murim really going to be all right?*
 
 Meanwhile, preparations for Jin Taekyung’s departure were moving at lightning speed.
 
@@ -300,9 +300,9 @@ I answered while stuffing everything I needed into my traveling bag.
 
 Jin Wikyung cried out as if overcome with grief.
 
-“Where are you going at a dangerous time like this?”
+“How can you leave again at a dangerous time like this?”
 
-“Sichuan.”
+“I’m going to Sichuan.”
 
 “I know! That is why I cannot let you go!”
 
@@ -310,7 +310,7 @@ Jin Wikyung cried out as if overcome with grief.
 
 With a grim expression unlike any I’d ever seen on him, Jin Wikyung declared, “I forbid it.”
 
-“Oh. Then I’ll veto your veto.”
+“Oh. Then I forbid your forbidding it.”
 
 “With Father away, I am both the Lesser Family Head and acting Family Head! You cannot defy my orders!”
 
@@ -324,7 +324,7 @@ With a grim expression unlike any I’d ever seen on him, Jin Wikyung declared, 
 
 From the look on his face, the world was going to end in ten minutes.
 
-I left Jin Wikyung, who was reeling from the shock, and rose to my feet.
+Leaving the horrified Jin Wikyung behind, I rose to my feet.
 
 Jeok Cheongang, still unconscious, was secured to the wooden back carrier on my back with silk.
 
