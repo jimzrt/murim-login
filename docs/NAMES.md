@@ -1799,3 +1799,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 성하 | **Seongha** | Hunter named during the cave battle. |
 | 국가장 | **national funeral** | State funeral held for Lee Jungryong. |
 | 상주 | **chief mourner** | Funeral role assumed by Go Jun for Lee Jungryong. |
+| 이승엽 | **Lee Seungyeop** | Hunter whose autograph the Team Leader requests. |
+| 거인의 숲 | **Forest of Giants** | Title of the Unexpected Quest generated inside the Mutated Gate. |
