@@ -8,7 +8,7 @@ The members of the bureau who had come to see them off shivered in the cold wind
 
 As if someone might return if she waited just a little longer.
 
-It was then that she heard a voice from the darkness.
+She was still staring into the darkness when a voice abruptly came from behind her.
 
 “They’re gone.”
 
@@ -48,7 +48,7 @@ Song Ilseom’s brow furrowed at Ju Hwaran’s unhesitating answer.
 
 “Still not enough? Even after I protected the Yongbong Escort Bureau—and you—for ten years?”
 
-“Can that compare to the debt of gratitude owed for my grandfather’s lifesaving deed?”
+“Can that compare to the debt owed for my grandfather saving your family’s life?”
 
 “You…!”
 
@@ -58,13 +58,13 @@ They had not heard the hidden truth of his origins. To them, Song Ilseom was sti
 
 “Lower your voice. It’ll be better for your health.”
 
-“We don’t know what the Young Bureau Head thinks, but we’re not convinced. No matter how we look at it, there’s something suspicious about you.”
+“I don’t know what the Young Bureau Head thinks, but we’re not convinced. No matter how we look at it, there’s something suspicious about you.”
 
 The two escort captains blocked Song Ilseom’s path with grim expressions.
 
 “Enough. Step aside.”
 
-At Ju Hwaran’s calm voice, the two escort captains stammered.
+At Ju Hwaran’s calm voice, they stammered.
 
 “Y-Young Bureau Head.”
 
@@ -92,7 +92,7 @@ A question flashed through Song Ilseom’s mind.
 
 *Could it be?*
 
-The insight came in an instant.
+Understanding came in an instant.
 
 He was a born fighter and a martial artist through and through, but that did not mean he was stupid.
 
@@ -110,9 +110,9 @@ Ju Hwaran’s gaze swept over the retreating backs of the two escort captains be
 
 “I’m going to root them out completely.”
 
-“Why didn’t you reveal it right there after the Chief Escort was killed?”
+“Why didn’t you expose them when you killed the Chief Escort?”
 
-“The confusion would only have grown worse. Besides, if I can’t accomplish even this with my own strength, I have no right to become the Young Bureau Head of the Yongbong Escort Bureau.”
+“It would only have created more confusion. Besides, if I can’t accomplish even this through my own efforts, I have no right to become the head of the Yongbong Escort Bureau.”
 
 “Are you confident?”
 
@@ -138,7 +138,7 @@ Ju Hwaran shrugged.
 
 “If that were my intention, I would have asked for something much greater.”
 
-“A moment ago, you said I still hadn’t done my duty in return for the Escort King’s lifesaving grace.”
+“A moment ago, you said I still hadn’t fulfilled my duty to the Escort King for saving my family’s life.”
 
 “That was because too many people were watching. My grandfather said it himself. He was merely one person saving another.”
 
@@ -152,7 +152,7 @@ He remembered what Junzi Sword Ju Hogun had said ten years ago to the young man 
 
 “Pardon?”
 
-“My father told me that what he had done was simply save another person. I feel the same way. And…thank you for growing into such a fine young man.”
+“My father said that all he had done was one person saving another. I feel the same way. And…thank you for growing into such a fine young man.”
 
 It had been a shock.
 
@@ -186,21 +186,19 @@ He became an escort of the Yongbong Escort Bureau and faithfully followed orders
 
 As the years passed and the child grew into a beautiful young woman, strange rumors began circulating about the two of them, but he paid them no mind.
 
-Whether the Chief collapsed or the Escort Bureau fell apart, Song Ilseom silently remained in place.
+Even when the Chief collapsed and the Escort Bureau began to crumble, Song Ilseom silently remained at his post.
 
 *I’m only doing my duty.*
 
 Song Ilseom opened his tightly shut eyes and abruptly spoke to Ju Hwaran, who had been watching him.
 
-“I’m leaving in a month.”
+“I’m leaving in a fortnight.”
 
 “…!”
 
-“If you discover the identities of the traitors, I’ll lead the way and weed them out. A month will be enough.”
+“If you discover the traitors’ identities, I’ll take the lead in weeding them out. A fortnight should be enough.”
 
-Seeing Ju Hwaran’s expression, Song Ilseom spoke bluntly.
-
-“Don’t make that face. I’m only going to Xianyang to pick up an elixir and bring it back.”
+Seeing Ju Hwaran’s expression, Song Ilseom added bluntly, “Don’t make that face. I’m only going to Xianyang to pick up an elixir.”
 
 “An elixir?”
 
@@ -252,7 +250,7 @@ Not toward the gate and the darkness beyond it, but toward his own quarters.
 
 “I shouldn’t have packed my bag.”
 
-As she watched Song Ilseom’s back recede with those quiet words trailing behind him, dimples appeared beside Ju Hwaran’s mouth.
+Dimples appeared in Ju Hwaran’s cheeks as she watched Song Ilseom recede into the distance, his quiet mutter trailing behind him.
 
 * * *
 
@@ -274,13 +272,13 @@ Its members proudly called themselves the heroes of the Yangtze, but ordinary pe
 
 “Why the hell are those bastards here?”
 
-The shipmaster who spotted the five fast ships promptly collapsed into his seat.
+The shipmaster who spotted the five swift ships dropped where he stood.
 
 These were no ragtag thugs. They were the Water Dragon Stronghold of the Yangtze River Channel League. There was no outrunning their swift ships, and fighting them was out of the question.
 
 *This day has gone completely to hell.*
 
-No. There was only one way to get through this quietly, at least.
+There was only one way to get through this quietly.
 
 Looking utterly dejected, the shipmaster called over the youngest sailor passing by.
 
@@ -292,13 +290,13 @@ Looking utterly dejected, the shipmaster called over the youngest sailor passing
 
 “Pardon?”
 
-“Collect the money! They have to pay the toll, don’t they?”
+“Collect their money! We have a toll to pay!”
 
-The fact that they belonged to the Yangtze River Channel League was both unfortunate and fortunate. Once they were caught, there was no way to escape, but they did not simply swing their swords without reason.
+The fact that the bandits belonged to the Yangtze River Channel League was both a curse and a blessing. Once they caught you, there was no escaping, but at least they did not start swinging their swords without warning.
 
 The Yangtze River Channel League claimed this set them apart from the common river-bandit rabble found everywhere under heaven, but one pack of bastards was much the same as another.
 
-“Phew… I’ve really lost today’s business.”
+“Damn it… There goes today’s profit.”
 
 The shipmaster was heaving sigh after sigh when someone tapped him on the shoulder.
 
@@ -314,9 +312,9 @@ The shipmaster studied the young man who had appeared out of nowhere. Judging by
 
 *He looks kind of dopey. That mouth of his sticks out, too. Bet he never shuts up.*
 
-Third Rate martial artists were a dime a dozen.
+Third-rate martial artists were a dime a dozen.
 
-It wasn’t as if he had never dealt with one or two of them before. The shipmaster sighed and opened his mouth.
+It was hardly his first time dealing with one. The shipmaster sighed.
 
 “What do you want? If this is about the money, I’ve got nothing to say. Go back to your seat. Don’t try anything stupid and end up crossing the Sanzu River.”[^1]
 
@@ -330,7 +328,7 @@ The young man watched the swift ships drawing rapidly closer.
 
 “Running won’t help. You’ll never escape those swift ships. Once they spot you, it’s over. Completely over!”
 
-“That ship must be pretty fast.”
+“Those ships must be pretty fast.”
 
 “What kind of question is—”
 
