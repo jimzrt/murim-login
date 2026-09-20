@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Two Monster Waves occurred two hours apart and caused tremendous damage, but swift initial action managed to quell the chaos quickly.",
+      "defect": "The draft changes the initial response from flawless to merely swift, even though speed is separately conveyed by 빠르게.",
+      "id": "F01",
+      "rationale": "완벽한 means flawless or perfect, while 빠르게 supplies the separate idea of speed.",
+      "replacement": "Two Monster Waves occurred two hours apart and caused tremendous damage, but a flawless initial response brought the chaos under control quickly.",
+      "severity": "minor",
+      "source": "두 시간 간격으로 발생한 두 번의 몬스터 웨이브는 큰 피해를 낳았지만, 완벽한 초동조치로 빠르게 혼란을 잠재울 수 있었습니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“What was that statue that just broke? I saw it in an art textbook. Was it Rodin’s Thinker?”",
+      "defect": "The draft silently corrects Taekyung’s mangled recollection of the statue’s title and removes the intentional joke.",
+      "id": "F02",
+      "rationale": "생각 난 사람 is Taekyung’s comic misnaming of 생각하는 사람, the Korean title of Rodin’s *The Thinker*.",
+      "replacement": "“What was that statue that just broke? I saw it in an art textbook. Was it Rodin’s *The Man Who Had a Thought*?”",
+      "severity": "major",
+      "source": "“방금 깨진 게 뭐였지? 미술 교과서에서 봤던 건데. 로댕의 생각 난 사람이었나?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“And I guarantee that if you don’t put down your weapons and run right now, all of you will be in no shape to act like human beings within five minutes at the latest.”",
+      "defect": "“Act like human beings” sounds like a judgment about their behavior. The Korean threatens to leave them physically unable to function normally.",
+      "id": "F03",
+      "rationale": "사람 구실 못 하게 되다 here describes severe physical incapacitation, reinforced by the following threat to cripple them.",
+      "replacement": "“And I guarantee that if you don’t put down your weapons and run right now, within five minutes, every last one of you will be physically incapable of functioning normally.”",
+      "severity": "major",
+      "source": "“장담하는데, 지금 당장 무기 내려놓고 도망가지 않으면 늦어도 오 분 안에 전부 사람 구실 못 하게 될 줄 알아라.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Go Jun was not likely to have spread word of what he had done to everyone in the neighborhood, so most of these people would not easily understand what I was talking about.",
+      "defect": "The idiom 동네방네 is rendered as a literal neighborhood reference, falsely narrowing the scope to local residents.",
+      "id": "F04",
+      "rationale": "동네방네 소문내다 idiomatically means to spread or broadcast something everywhere.",
+      "replacement": "Go Jun obviously wouldn’t have broadcast what he had done far and wide, so most of these people would not easily understand what I was talking about.",
+      "severity": "minor",
+      "source": "석고준이 자신이 한 일을 동네방네 소문냈을 리가 없으니, 이들 중 대다수는 내가 무슨 말을 하는지 쉽게 이해하지 못할 것이다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Fuck. We really got caught red-handed.”",
+      "defect": "“Caught red-handed” means being discovered while committing wrongdoing, which is not what happened. The Security Team Leader is cursing the severe predicament they have landed in.",
+      "id": "F05",
+      "rationale": "용코로 걸렸네 conveys having become thoroughly entangled in a bad situation, not being exposed in the act of a crime.",
+      "replacement": "“Fuck. We’re seriously screwed.”",
+      "severity": "major",
+      "source": "“씨발. 용코로 걸렸네.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> — Code Red. Code Red. The target is every member of Ares Guild. The objective is…",
+      "defect": "The draft makes every Ares Guild member the target and demotes Jin Taekyung to an abstract objective, reversing the operational roles in the announcement.",
+      "id": "F06",
+      "rationale": "아레스 길드원 전원 identifies everyone to whom the Code Red applies; 목표 identifies Jin Taekyung as the person they are ordered to attack.",
+      "replacement": "> — Code Red. Code Red. All Ares Guild members are to respond. The target is…",
+      "severity": "critical",
+      "source": "- 코드 레드. 코드 레드. 대상은 아레스 길드원 전원. 목표는…….\n\n- 진태경."
+    }
+  ],
+  "summary": "One critical role reversal in the Code Red announcement, plus losses in humor, threat meaning, idiomatic meaning, and response details.",
+  "version": 1
+}
