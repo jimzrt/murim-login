@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The heat flowing from my eyes, nose, mouth, and the other seven apertures scorched the air around me.",
+      "defect": "The draft makes the eyes, nose, and mouth additional to seven other apertures, changing the total number of openings.",
+      "id": "F01",
+      "rationale": "The source identifies the eyes, nose, mouth, and similar openings collectively as the seven apertures, not as separate from them.",
+      "replacement": "The heat flowing from the seven openings known as the seven apertures—my eyes, nose, mouth, and so on—scorched the air around me.",
+      "severity": "critical",
+      "source": "눈, 코, 입 등. 이른바 칠공(七孔)이라 부르는 일곱 개의 구멍으로부터 흘러나온 열기가 외부를 뜨겁게 달구었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I had even slipped while climbing a cliff.",
+      "defect": "The draft turns a figurative risk or possible failure while forging a new path into a past event that actually happened to the narrator.",
+      "id": "F02",
+      "rationale": "The source continues the pathfinding metaphor and describes another way the attempt could go wrong; it does not establish that Taekyung previously slipped from an actual cliff.",
+      "replacement": "I could also slip while climbing a cliff.",
+      "severity": "major",
+      "source": "절벽을 올라가다가 삐끗하는 경우 역시 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Scorching Yang Qi built through the Fire Gate Divine Technique, the internal cultivation technique that formed the foundation of the Fire Gate Clan, possessed power and explosiveness stronger than the techniques of any other prestigious great sect.",
+      "defect": "The draft makes the Fire Gate Divine Technique categorically stronger than every other prestigious sect’s technique.",
+      "id": "F03",
+      "rationale": "이상으로 means it is as strong as or stronger than those techniques, not necessarily superior to every one of them.",
+      "replacement": "The Scorching Yang Qi built through the Fire Gate Divine Technique, the cultivation technique at the foundation of the Fire Gate Clan, possessed power and explosiveness at least on par with the cultivation techniques of other prestigious sects.",
+      "severity": "major",
+      "source": "열화문의 근간이 되는 내공 심법, 열화신공(熱火神功)으로 쌓은 열양지기는 다른 명문 대파의 심법 이상으로 강한 힘과 폭발력을 갖추었지만,"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Gather your internal energy. It’s a waste of effort for now anyway.”",
+      "defect": "“Gather” can instruct Taekyung to accumulate or concentrate more energy, whereas Mungyeong is ordering him to rein it in and stop the attempt.",
+      "id": "F04",
+      "rationale": "갈무리해라 here means to collect, contain, and put away the energy, consistent with Mungyeong declaring the current breakthrough attempt futile.",
+      "replacement": "“Rein in your internal energy. It’s a waste of effort for now anyway.”",
+      "severity": "major",
+      "source": "“공력을 갈무리해라. 어차피 지금 당장은 헛수고다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“These shoes have only been mine for three days. It would be troublesome if they got dirty.”",
+      "defect": "The draft replaces the explicit fact that Mungyeong bought the shoes three days ago with the vaguer and less natural claim that they have been his for three days.",
+      "id": "F05",
+      "rationale": "산 지 explicitly means “since I bought them.”",
+      "replacement": "“I bought these shoes only three days ago. It would be troublesome if they got dirty.”",
+      "severity": "minor",
+      "source": "“산 지 사흘 밖에 안 된 신발이다. 더러워지면 곤란하지.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“What about Mr. Moon?”",
+      "defect": "The response sounds like a request for information about Mr. Moon rather than an affronted challenge to Taekyung’s overly casual form of address.",
+      "id": "F06",
+      "rationale": "Mungyeong is objecting to being addressed as 문 씨; the line is a terse hierarchy-based rebuke.",
+      "replacement": "“Did you just call me ‘Mr. Moon’?”",
+      "severity": "minor",
+      "source": "“뭔 씨?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You heartless, tearless murderer! You Slaughter Saint bastard!”",
+      "defect": "The draft turns Taekyung’s comparison to the Slaughter Saint into direct identification or address, weakening the joke that he unknowingly compares Mungyeong to his own secret identity.",
+      "id": "F07",
+      "rationale": "살성 같은 means “like the Slaughter Saint,” not that the addressee is being openly identified as the Slaughter Saint.",
+      "replacement": "“You cold-blooded murderer! You’re just like that bastard the Slaughter Saint!”",
+      "severity": "major",
+      "source": "“이 피도 눈물도 없는 살인마! 살성 같은 새끼!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Right on cue, Hyuk Mujin’s body—or rather, corpse—twitched.",
+      "defect": "The self-correction is reversed: the source first calls Hyuk Mujin a corpse, then corrects that to a body when he moves.",
+      "id": "F08",
+      "rationale": "The correction from 시신 to 몸 signals Taekyung realizing that Hyuk Mujin is alive; reversing it changes both the scene fact and the punchline.",
+      "replacement": "Right on cue, Hyuk Mujin’s corpse—or rather, his body—twitched.",
+      "severity": "critical",
+      "source": "때맞춰 혁무진의 시신, 아니 몸이 들썩였다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Can’t we just call it a win-win?”\n\n“You mean dead is dead?”",
+      "defect": "“Win-win” removes the repeated grammatical structure that makes Mungyeong’s deliberate substitution of “dead” for “good” intelligible.",
+      "id": "F09",
+      "rationale": "The joke depends on Mungyeong twisting 좋은 게 좋은 거 into 죽은 게 죽은 거; the replacement preserves that parallel wording.",
+      "replacement": "“Can’t we just agree that good is good?”\n\n“You mean dead is dead?”",
+      "severity": "major",
+      "source": "“좋은 게 좋은 거 아니겠습니까.”\n\n“죽은 게 죽은 거라고?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Good. Then go to the Lord of Heaven and talk it out.",
+      "defect": "The draft omits that the Lord of Heaven belongs to Dark Heaven.",
+      "id": "F10",
+      "rationale": "암천의 explicitly identifies the Lord of Heaven as Dark Heaven’s, preserving the organization involved in Mungyeong’s retort.",
+      "replacement": "“Good. Then go talk things out with Dark Heaven’s Lord of Heaven.",
+      "severity": "major",
+      "source": "“잘됐군. 그럼 암천의 천주에게 가서 대화로 풀어 봐라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I picked it up.”",
+      "defect": "The draft omits “on the way,” weakening the stock dismissive excuse and its immediate correction.",
+      "id": "F11",
+      "rationale": "오다 주웠다 means he supposedly happened across it while coming there, which sets up his revised claim that he saw and bought it while passing by.",
+      "replacement": "“I found it on the way here.”",
+      "severity": "minor",
+      "source": "“오다 주웠다.”"
+    }
+  ],
+  "summary": "Two critical reversals and several meaningful fidelity, hierarchy, mechanism, and humor defects.",
+  "version": 1
+}
