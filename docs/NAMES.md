@@ -1749,3 +1749,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 호거아 | **Tiger Giant Child** | Epithet for Taishan. |
 | 홍학루 | **Honghakru** | Renowned entertainment house in Henan. |
 | 홍매 | **Hongmae** | Honghakru's famous singing courtesan. |
+| 일양노 | **Old Man Ilyang** | Sobriquet of the eighty-five-year-old Supreme Peak master Won Cheol. |
+| 원철 | **Won Cheol** | Personal name of Old Man Ilyang. |
+| 흑혈도 | **Black Blood Saber** | Sobriquet of the rude wandering martial artist rejected by Hyuk Mujin. |
+| 노귀산 | **No Guisan** | Personal name of the Black Blood Saber. |
+| 열양노 | **Old Man Ilyang** | Variant source occurrence referring to the same character as 일양노. |
+| 원썬 | **One Sun** | Humorous mistaken reference to the name used for Old Man Ilyang. |

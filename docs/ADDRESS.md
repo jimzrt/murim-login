@@ -876,3 +876,9 @@ Overrides generic relationship prose in character profiles for this pair.
 | 황보군 | 매종학 | old_battlefield_comrade_to_current_alliance_leader | Great Hero Mae; Alliance Leader | formal-deferential | Hwangbo Gun begins with Great Hero Mae, then switches to the formal Alliance Leader. |
 | 매종학 | 황보군 | old_battlefield_comrade_to_family_head | you | casual-familiar | Mae uses 자네 while addressing Hwangbo Gun. |
 | 문경 | 청풍 | martial_master_to_prospective_companion | you | blunt and informal | Mungyeong questions Cheongpung about Mimi Step and why he offered to accompany him. |
+| 객잔 주인 | 일양노 | civilian innkeeper to intimidating elder martial artist | Old Sir / Your Excellency | formal and fearful | The innkeeper first says 노인장 and corrects himself to 어르신. |
+| 일양노 | 객잔 주인 | elder martial artist to civilian innkeeper | you | courteous with restrained menace | Ilyang addresses him as 자네 while warning that he usually does not harm commoners. |
+| 혁무진 | 흑혈도 | interviewer to rejected wandering martial artist | Great Hero No Guisan | polite and deadpan | Mujin formally identifies and dismisses the Black Blood Saber. |
+| 흑혈도 | 혁무진 | rejected wandering martial artist to younger interviewer | you insolent little bastard | hostile and profane | The Black Blood Saber uses 네놈 and 이놈 while threatening Mujin. |
+| 일양노 | 혁무진 | prospective recruit to interviewer | you | courteous and controlled | Ilyang tells Mujin to report that he wishes to meet Taekyung. |
+| 적천강 | 일양노 | Fire Gate Sect Leader to hostile prospective recruit | bastard | blunt and violently contemptuous | Jeok recognizes Ilyang's intent and attacks him after calling him a backstabbing bastard. |
