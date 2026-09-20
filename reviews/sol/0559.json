@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "More than a hundred Hunters of various races shouted and cursed.",
+      "defect": "“Various races” is ambiguous in a fantasy setting and can imply different species rather than the source’s mixture of human ethnicities; “백여 명” is also approximately one hundred, not definitively more than one hundred.",
+      "id": "F01",
+      "rationale": "The source describes roughly one hundred Hunters from a mixture of racial or ethnic backgrounds.",
+      "replacement": "Around a hundred Hunters of different ethnicities shouted and cursed.",
+      "severity": "minor",
+      "source": "여러 인종이 뒤섞인 백여 명의 헌터들이 욕설 섞인 고함을 내질렀다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "More than a dozen enormous scorpions let out strange cries.",
+      "defect": "The draft raises 십여 마리, meaning more than ten or roughly a dozen, to more than twelve.",
+      "id": "F02",
+      "rationale": "십여 indicates a number in the vicinity of ten, while “more than a dozen” establishes a higher minimum.",
+      "replacement": "More than ten enormous scorpions let out strange cries.",
+      "severity": "major",
+      "source": "기묘한 울음소리를 흘리는 거대한 전갈이 무려 십여 마리."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Their tails rose above the surface after burrowing deep into the sand, and screams and spurts of blood erupted in every direction.",
+      "defect": "The draft grammatically makes the tails burrow into the sand and then merely rise. In the source, the scorpions are buried deep in the sand and their tails shoot up through the ground, causing the surrounding screams and bloodshed.",
+      "id": "F03",
+      "rationale": "파고든 describes the creatures’ position, while 솟구치고 conveys the tails surging upward in a sudden attack.",
+      "replacement": "The creatures had burrowed deep into the sand; their tails shot up through the surface, and screams and spurts of blood erupted in every direction.",
+      "severity": "critical",
+      "source": "모래 깊숙이 파고든 놈들의 꼬리가 지면 위로 솟구치고, 비명과 핏물이 사방에서 터져 나온다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Commence full-auto fire!",
+      "defect": "“Full-auto” invents a weapon firing mode absent from the source. 일제 사격 means coordinated or simultaneous volley fire.",
+      "id": "F04",
+      "rationale": "The command orders everyone to fire together; it does not specify automatic fire.",
+      "replacement": "—Commence volley fire!",
+      "severity": "major",
+      "source": "- 일제 사격 개시잇!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You thankless human. According to what you just said, does that mean incidents like this occurred without missing a single day?”",
+      "defect": "“Thankless human” calls Johnson ungrateful, reversing the joke. The Skeleton King says that he himself is no longer grateful to Johnson.",
+      "id": "F05",
+      "rationale": "더는 고맙지 않은 marks the Skeleton King’s withdrawn gratitude toward Johnson, continuing their argument about the gay-bar incident.",
+      "replacement": "“Human I am no longer grateful to, according to what you just said, doesn’t that mean incidents like this happened every single day?”",
+      "severity": "major",
+      "source": "“더는 고맙지 않은 인간이여. 지금 네가 한 말에 따르면, 하루도 안 거르고 그런 사건이 터졌다는 것이 아니냐?”"
+    }
+  ],
+  "summary": "Five actionable findings: two altered quantities, one ambiguous description of ethnicity, one reversed physical action, one incorrect firing mode, and one reversed characterization beat.",
+  "version": 1
+}

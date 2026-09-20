@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The twenty rescued Hunters remain unconscious but alive inside the Skeleton King’s reinforced bone barrier; the Mutated Gate’s final status is unresolved.",
+      "defect": "This continuity entry stops at chapter 557 and contradicts chapter 558, where the Hunters have been evacuated, Lee Seungyeop awakens in an ambulance, and Song Song confirms that every member of his team survived.",
+      "id": "C01",
+      "rationale": "Active continuity must reflect the latest chapter in the checkpoint rather than preserve an already resolved cliffhanger.",
+      "replacement": "The Forest of Giants encounter has ended, and all twenty rescued Hunters survived and were evacuated; Team Leader Lee Seungyeop later awakened in an ambulance and learned that every member of his team was safe.",
+      "severity": "major",
+      "source": "Checkpoint continuity, second bullet"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The second and final form of the Blazing Flame Divine Spear, which concentrated three hundred years of the Fire Gate Clan’s macho spirit—the time-honored clan with absolutely no concept of retreat.",
+      "defect": "The parent technique changes from Fire Dragon Divine Spear earlier in the same chapter to Blazing Flame Divine Spear when its second and final form is introduced.",
+      "id": "C02",
+      "rationale": "Calling Heavenly Strike the second and final form establishes that it belongs to the same technique whose first form, Fire Dragon’s Single Tail, was identified as part of the Fire Dragon Divine Spear.",
+      "replacement": "The second and final form of the Fire Dragon Divine Spear, which concentrated three hundred years of the Fire Gate Clan’s macho spirit—the time-honored clan with absolutely no concept of retreat.",
+      "severity": "major",
+      "source": "Chapter 557, Heavenly Strike introduction"
+    },
+    {
+      "confidence": 1.0,
+      "current": "This necklace was not Lee Jungryong, nor was it a keepsake he had left behind.",
+      "defect": "The sentence literally says the necklace was not the person Lee Jungryong, omitting the intended possessive relationship.",
+      "id": "C03",
+      "rationale": "The replacement restores the intended distinction without changing the established fact that the necklace was neither Lee’s property nor his keepsake.",
+      "replacement": "This necklace had not belonged to Lee Jungryong, nor was it a keepsake he had left behind.",
+      "severity": "minor",
+      "source": "Chapter 555, Go Jun examining the necklace"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Your name was... Robin Hood, right?",
+      "defect": "Chapter 559 repeatedly uses three periods for ellipses, unlike the required ellipsis character used throughout the other reading copies.",
+      "id": "C04",
+      "rationale": "Every ASCII three-dot ellipsis in chapter 559 should be normalized to the binding ellipsis character, including interrupted dialogue, reactions, and internal thoughts.",
+      "replacement": "Your name was… Robin Hood, right?",
+      "severity": "minor",
+      "source": "Chapter 559, throughout; representative occurrence in Magic Johnson’s dialogue"
+    },
+    {
+      "confidence": 0.99,
+      "current": "An F-Rank Gate, goblins, an earthquake, and…",
+      "defect": "The Gate classification is capitalized as F-Rank, drifting from the established prose form F-rank used in chapter 556.",
+      "id": "C05",
+      "rationale": "Hunter and Gate rank compounds consistently use a capital classification letter with lowercase “rank.”",
+      "replacement": "An F-rank Gate, goblins, an earthquake, and…",
+      "severity": "minor",
+      "source": "Chapter 558, opening recollection"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A Cyclops in an F-Rank Gate… It was a stroke of luck that Mr. Jin Taekyung happened to be nearby.",
+      "defect": "The second F-Rank occurrence repeats the capitalization drift from the established F-rank form.",
+      "id": "C06",
+      "rationale": "This occurrence should match the classification styling already used in chapter 556 and the corrected opening of chapter 558.",
+      "replacement": "A Cyclops in an F-rank Gate… It was a stroke of luck that Mr. Jin Taekyung happened to be nearby.",
+      "severity": "minor",
+      "source": "Chapter 558, Team Leader Choi discussing the Cyclops"
+    }
+  ],
+  "summary": "One stale continuity entry contradicts chapter 558, one technique name drifts within chapter 557, and the reading copies contain several localized wording and formatting inconsistencies.",
+  "version": 1
+}

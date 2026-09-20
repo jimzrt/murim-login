@@ -1811,3 +1811,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 치코리타 | **Chikorita** | Pop-culture reference used in Taekyung’s taunt to the Ent Elder. |
 | 골드문 | **Gold Moon** | Name Song briefly considers before correcting herself to Ares Guild. |
 | 대마도사 | **Grand Mage** | Title used for Magic Johnson. |
+| 순간이동 | **Teleportation** | Spatial-transference magic used by Magic Johnson. |
+| 모하비 사막 | **Mojave Desert** | Location of the concealed US incident. |
+| 애리조나주 | **Arizona** | State near the reported Mojave incident. |
+| 이태원 | **Itaewon** | Seoul district where Johnson and the Skeleton King visited a gay bar. |
+| 조셉 | **Joseph** | Hunter named in the recorded Monster Wave footage. |
+| 로빈훗 | **Robin Hood** | Johnson’s mistaken nickname for Im Kkeokjeong. |
