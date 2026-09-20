@@ -6,7 +6,7 @@ Not that I expected an answer from all the way over there.
 
 Letting Mu Song’s shout go in one ear and out the other, I circulated my internal energy and sharpened my eyesight.
 
-The distance was easily over two hundred zhang. But my vision had improved enough that you could call me a human eagle, allowing me to take in the entire scene at a glance.
+They were at least two hundred zhang away. But my vision had improved enough to put an eagle’s to shame, and I could take in the entire scene at a glance.
 
 *That’s…*
 
@@ -16,7 +16,7 @@ Two ships far larger than the swift ship we were riding had surrounded one tiny 
 
 Then I spotted the flags fluttering from the bandits’ ships, and my gaze naturally shifted toward Mu Song.
 
-“I don’t know what kind of scum they are, but they picked the wrong target. You there! Immediately deal with those rootless bastards… What’s wrong?”
+“I don’t know who those bastards are, but I’ve caught them red-handed. You there! Deal with that unaffiliated rabble at once… What is it?”
 
 “Uh, Senior. I’m not quite sure how to put this.”
 
@@ -54,7 +54,7 @@ He was still taking their money.
 
 Come to think of it, they were all much the same. Still, in a Murim where people drew their swords at the slightest provocation, he really was conscientious for a top-tier river bandit—especially one who was a Disciple of the Alliance Leader of the Yangtze River Channel League.
 
-“Raise the red flag!”
+“Raise the red flags!”
 
 At Mu Song’s booming command, the five swift ships raised the red flags that signaled battle and surged forward.
 
@@ -72,7 +72,7 @@ But Mu Song was not about to let them escape.
 
 Barely fifty zhang now separated us from the enemy. A fierce light flashed in his eyes as he glared at the bandits scrambling back to their ships.
 
-“Let’s at least see what you bastards look like!”
+“Let’s see who you bastards are!”
 
 Grinding his teeth, Mu Song snatched up a massive harpoon, kicked off the stern, and leaped into the air.
 
@@ -84,7 +84,7 @@ The sturdy wooden deck splintered, and the Yangtze swallowed Mu Song’s body as
 
 Mistaking the Yangtze for some valley stream in Gangwon Province would be a serious mistake.
 
-Although this was a branch of the Yangtze that split away from the main channel, it was as wide and deep as the sea, and the current was viciously rough.
+This might have been only a branch of the main river, but it was as broad and deep as the sea, and its current was ferocious.
 
 Even Hyuk Mujin, who had been dry-heaving, asked with a pale face, “Shouldn’t we rescue him—uweeegh!”
 
@@ -96,7 +96,7 @@ Of course he wasn’t. Who would hire a beggar as a nanny?
 
 Despite his grumbling, Gung Gibang pounded Hyuk Mujin on the back.
 
-“There’s a limit to ignorance. Do you think a river bandit chief would jump into the Yangtze without learning water-based martial arts? Especially a Disciple of the Seafaring King, who no one can match in the water?”
+“There’s a limit to how ignorant you can be. Do you think a river-bandit chief would leap into the Yangtze without learning water arts? Especially the Disciple of the Seafaring King, who is said to have no equal in the water?”
 
 “Oh, right.”
 
@@ -152,7 +152,7 @@ Angle, speed, distance, landing point. This result was only possible because I h
 
 “Whew. Per-fect.”
 
-“What part of that was perfect!”
+“What part of that was perfect?”
 
 Mu Song roared at his unexpected passenger, but what could he do? I was already aboard.
 
@@ -160,7 +160,7 @@ I glared at the river bandits frantically turning their ships around.
 
 “Let’s go!”
 
-“Damn it! Since it’s come to this, we’ll charge straight into the ship!”
+“Damn it! Since it’s come to this, we’ll charge straight through their ship!”
 
 “That’s my Senior!”
 
@@ -182,7 +182,7 @@ Mu Song and I screamed at the top of our lungs and thrust out our arms at the sa
 
 He held a harpoon and I held a spear, but our weapons had one thing in common.
 
-Powerful qi gathered at the tips of both weapons.
+Powerful qi blazed at their tips.
 
 Whoooooosh!
 
@@ -226,7 +226,7 @@ On the other ship, the river bandits hung their heads as they were transferred t
 
 An excellent result for my first naval battle.
 
-Originally, I had planned to sink both ships. But the river bandits lost their will to fight as soon as they saw the ship carrying their comrades sink, and they surrendered.
+I had originally planned to sink both ships, but the river bandits surrendered the moment they saw the ship carrying their comrades go down.
 
 Of course, surrender did not lead to a particularly happy ending.
 
@@ -238,9 +238,9 @@ Once he snapped, there was no stopping him.
 
 “Throw them to the fish.”
 
-The tightly bound river bandits opened their eyes wide.
+The tightly bound river bandits’ eyes bulged.
 
-“T-this can’t be happening!”
+“Y-you can’t do this!”
 
 “Stronghold Lord! Please, anything but that!”
 
@@ -308,7 +308,7 @@ But it was not over yet.
 
 Mu Song’s low voice rang across the deck.
 
-Unlike the other river bandits, a man in his fifties had been forced to his knees before Mu Song, tightly bound in chains.
+Unlike the other river bandits, the man in his fifties kneeling before Mu Song was bound tightly in chains.
 
 Hwang Tae-gu was the mastermind behind this attack.
 
@@ -322,7 +322,7 @@ Gung Gibang muttered as he watched him.
 
 “So this Hwang Tae-gu lost a factional struggle?”
 
-“He was famous for being greedy and violent. Just a few years ago, he lorded over the Yangtze in Sichuan… There’s no doubt Mu Song pushed him out.”
+“He was notorious for his greed and violence. Just a few years ago, he ruled the Yangtze in Sichuan… Mu Song must have pushed him out.”
 
 So the loser of an internal power struggle had gone rogue and finally gotten himself caught?
 
@@ -340,4 +340,4 @@ Mu Song’s face hardened, and he raised his harpoon.
 
 “Would Great Hero Mu Song, the Ship-Fire Boy, please wait a moment?”
 
-A voice suddenly rang out, piercing the ears of everyone present.
+A sudden voice pierced the ears of everyone present.
