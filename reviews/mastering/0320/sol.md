@@ -38,7 +38,7 @@ Ju Hwaran and the others from the Yongbong Escort Bureau gaped at me, while the 
 
 Hwangbo Eom raised a hand and calmed them.
 
-Normally, this was the point when someone would start foaming at the mouth and check their blood pressure as it shot through the roof.
+Normally, this was the point when an old man started foaming at the mouth as his blood pressure shot through the roof.
 
 But Hwangbo Eom was clearly different.
 
@@ -100,7 +100,7 @@ It started when a middle-aged man who appeared to be the eldest of the Zhongnan 
 
 *Clang-clang-clang!*
 
-Thirty well-maintained swords pointed toward me. As disciples of the Zhongnan Sect, one of the Nine Sects and One Gang, every one of them was at least a First Rate master.
+Thirty gleaming swords leveled at me. As disciples of Zhongnan, one of the Nine Sects and One Gang, every one of them had reached at least the First Rate realm.
 
 Of course…
 
@@ -148,9 +148,7 @@ Everyone stared at him in surprise.
 
 “Do you intend to defy this old man’s command?”
 
-At his icy voice, the middle-aged swordsman bit his lip and lowered his sword.
-
-As the weapons that had brightly illuminated the inside of the teahouse disappeared, nothing remained to block my way.
+At his icy tone, the middle-aged swordsman bit his lip and lowered his blade. Once the weapons illuminating the teahouse were sheathed, nothing remained to block my path.
 
 “Thank you. All that glare was getting hard on the eyes.”
 
@@ -168,7 +166,7 @@ I passed the people standing rigid with shock and dropped into the seat beside J
 
 “I happened to be passing by and stopped in by chance. Young Hero Cheong here insisted on having a cup of tea. Of course, that was also a coincidence.”
 
-Unlike Baek Museong, Gung Gibang, and Hyuk Mujin, Cheongpung—whose twelve internal organs were apparently all livers—sat down beside me without hesitation and pouted.
+Unlike Baek Museong, Gung Gibang, and Hyuk Mujin, Cheongpung—whose every last internal organ seemed to be made of pure nerve—sat down beside me without hesitation and pouted.
 
 “Benefactor, when are the candied sweets coming?”
 
@@ -186,7 +184,7 @@ He looked back and forth between Cheongpung and me with an odd gleam in his eyes
 
 “You have quite the nerve. Almost recklessly so.”
 
-“It used to be small. But after going through one thing and another, it suddenly grew a lot.”
+“It used to be smaller. Then I went through this and that, and it suddenly grew.”
 
 “This and that, you say. I suppose the Shaolin Bloodshed would do that.”
 
@@ -196,7 +194,7 @@ He looked back and forth between Cheongpung and me with an odd gleam in his eyes
 
 Hwangbo Eom curled his lips into a smile and continued.
 
-“I have heard all about the rumor that the Fire King took a Hidden Dragon under his wing. I also heard that you left the Murim Alliance seven days and nights ago.”
+“I have heard the rumors that the Fire King took a Hidden Dragon under his wing. I also heard that you left the Murim Alliance seven days ago.”
 
 What a slippery old man.
 
@@ -206,7 +204,7 @@ Unlike Ju Hwaran, who had merely guessed our identities two days ago, he already
 
 *How?*
 
-This operation had been carried out quickly and in secret, yet he knew everything as if he could see the palm of his hand.
+This mission had been organized quickly and in secret, yet he knew our movements like the back of his hand.
 
 *Did the Zhongnan Sect Leader, who should still be at the Murim Alliance, send a messenger pigeon?*
 
@@ -258,7 +256,7 @@ The tea fell in a slow, graceful arc, yet the force within it was heavy and powe
 
 Jeok Cheongang had a mischievous streak and had played all sorts of tricks on me. What Hwangbo Eom was doing now was no different.
 
-I had broken more than one or two cups this way.
+I had broken more cups this way than I could count.
 
 Besides, Jeok Cheongang stood foremost among the Ten Kings, an absolute master sometimes compared even to the Three Saints.
 
@@ -288,13 +286,13 @@ I reached out, and the teapot glided through the air into my hand.
 
 It was the art martial artists called Seizing an Object Through Empty Space.
 
-I possessed nearly two jiazi’s worth of internal energy and insight that had reached the brink of the Peak realm. I did not use the technique often because it consumed so much internal energy, but I could perform it whenever I wished.
+I had nearly two jiazi of internal energy and insight that had reached the very pinnacle of the Peak realm. I rarely used the technique because it consumed so much internal energy, but I could perform it whenever I wished.
 
 *I need to put on at least this much of a show.*
 
 Old Master had once said in passing:
 
-*“There are idiots everywhere in the Murim. You have to show those bastards something flashy before they’ll listen. Look at this old man. All I did was beat the Demonic Cult bastards because they pissed me off, and they still call me a king.”*
+*“The Murim is crawling with idiots. Bastards like that won’t listen unless you show them something flashy. Just look at this old man. All I did was slaughter some Demonic Cult bastards because they pissed me off, and people still call me a king.”*
 
 King Cheongang indeed. Spoken like a man who had turned the Murim upside down by racking up a thousand kills all by himself.
 
@@ -310,7 +308,7 @@ Few people could use Seizing an Object Through Empty Space as casually as I had.
 
 But I did not stop there. I drew up my internal energy.
 
-I circulated the Fire Gate Divine Technique to seven-tenths, and Extreme Yang energy seeped into both my hands.
+Extreme Yang energy from the seven-star Fire Gate Divine Technique seeped into both my hands.
 
 *Fwoosh!*
 
@@ -338,9 +336,9 @@ I cut off the thought before it could go any further and offered him the cup.
 
 “Here comes the tea! Chug, chug, chug-chug!”
 
-“……I shall drink it properly.”
+“……I shall enjoy it.”
 
-“Look at my internal organs! I’ve suffered internal injuries!”
+“Look at my organs! They’ve suffered internal injuries!”
 
 “……”
 
@@ -380,4 +378,4 @@ A faint smile touched my lips as I continued.
 
 “I was just passing by when I happened to wonder what kind of dirty trick the Zhongnan Sect was trying to pull, so I came to take a look.”
 
-At those words, the eyes of Hwangbo Eom, the Taeeul Merciless Sword, turned cold.
+At those words, the Taeeul Merciless Sword Hwangbo Eom’s eyes turned cold.
