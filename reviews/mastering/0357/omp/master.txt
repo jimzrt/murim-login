@@ -2,15 +2,15 @@
 
 A serene expression. An unhurried gait. A spotless yellow robe.
 
-He alone stood apart—the only person whom the aura of death filling the Sichuan Tang Clan could touch.
+He alone stood apart—the only person beyond the reach of the aura of death that filled the Sichuan Tang Clan.
 
-“They’re no more than a handful of men at best. Push them back!”
+“They’re only a handful! Push them back!”
 
-“Fight to the end! We are the Sichuan Tang Clan!”
+“Fight to the end! We are the mighty Sichuan Tang Clan!”
 
 “Waaaaah!”
 
-With a tremendous roar that shook the earth, two waves crashed into each other. Screams and battle cries mixed together as a thick mist of blood began to form.
+With a tremendous roar that shook the earth, two waves crashed together. Screams mingled with battle cries, and a thick mist of blood rose into the air.
 
 It was a savage battle fought with utter disregard for life. The outcome was decided just as swiftly.
 
@@ -22,7 +22,7 @@ The black wave of men dressed in black swallowed the wave of green.
 
 When it passed, all that remained in its wake were green-clad corpses scattered like foam.
 
-Watching it all from more than a thousand feet away, the Western Heaven Demon Lord suddenly spoke.
+The Western Heaven Demon Lord, watching it all from more than a thousand feet away, spoke.
 
 “It’s over.”
 
@@ -88,7 +88,7 @@ The Western Heaven Demon Lord recalled what the Blood Lord had said about Jin Ta
 
 The most arrogant and tenacious young bastard under heaven, with more guts than sense.
 
-For some reason, the Blood Lord had wanted to kill Jin Taekyung even more than the Sword Saint who had cut off his arm or the Fire King.
+For some reason, the Blood Lord wanted to kill Jin Taekyung even more than the Sword Saint who had severed his arm or the Fire King.
 
 *So he’s skilled enough to survive an encounter with the Blood Lord?*
 
@@ -160,17 +160,17 @@ If Moses had parted the sea with his staff, this man had carved a new path throu
 
 And that wasn’t all. He stood there with a faint smile, the very picture of tranquility.
 
-*Even the air around him smells different.*
+*Even the air around him feels different.*
 
 The Blood Lord had been openly insane. This middle-aged man, on the other hand, was dangerous simply by existing.
 
-Their martial arts might have been comparable in strength, but they were completely different in nature.
+Their martial arts might have been comparable in strength, but they were completely different kinds of monster.
 
 “I’ve heard a great deal about you. You’re an amusing young man, just as I was told.”
 
 I lowered White Flame’s spearhead at an angle.
 
-“I’m pretty entertaining myself.”
+“I do have a reputation for being entertaining.”
 
 “I also heard you lack manners.”
 
@@ -198,15 +198,15 @@ And yet he was here…
 
 I felt my face stiffen despite myself.
 
-“You, by any chance…”
+“You didn’t…”
 
 The middle-aged man smiled and waved a hand.
 
-“There’s no need to worry. I won’t kill you. I intend to take you, Cheongpung, and the Fire King back alive.”
+“There’s no need to worry. I won’t kill him. I intend to take you, Cheongpung, and the Fire King back alive.”
 
-I asked with a dumbfounded expression.
+I stared at him blankly.
 
-“Take us?”
+“Take us back?”
 
 “I told you. The Blood Lord wants to see you. So you’ll be safe, at least until then.”
 
@@ -218,7 +218,7 @@ The middle-aged man had given me two pieces of good news and one piece of bad ne
 
 The good news was that Cheongpung was alive and the Blood Lord wasn’t here. The bad news was that if I lost this fight, we’d all be attending a group get-together with him.
 
-Of course, the chances of us having a drink over grilled intestines before parting ways were close to zero.
+The odds that we’d share a bottle of soju over grilled intestines and then go our separate ways were close to zero.
 
 *The odds that I’ll become the grilled intestines instead are probably around fifty percent.*
 
@@ -238,7 +238,7 @@ A title came to mind.
 
 Pleasure, my ass.
 
-I stared at the Western Heaven Demon Lord’s two perfectly functional arms and muttered.
+I stared at the Western Heaven Demon Lord’s two perfectly intact arms.
 
 “I heard you only had one arm.”
 
@@ -276,15 +276,15 @@ I drew a deep breath and fixed him with a cold, level stare.
 
 “Can’t you just pretend you came to visit a patient and turn around?”
 
-“That would be difficult. Setting you people aside, there’s something I have to take with me.”
+“That would be difficult. Setting you aside, there’s something I need to take with me.”
 
 “Something?”
 
 Instead of answering, the Western Heaven Demon Lord posed a question of his own.
 
-“This old man will ask you this time. Will you surrender? Peacefully.”
+“Then allow this old man to ask. Will you surrender peacefully?”
 
-“Could you kill yourself for me? Peacefully.”
+“Could you kill yourself peacefully?”
 
 “Then there’s only one answer.”
 
@@ -294,11 +294,11 @@ The instant our gazes collided across that distance—
 
 Whoosh! Swish!
 
-We both reached out at the same time.
+We both moved at once.
 
 No. When it came to launching our attacks, at least, I was faster.
 
-The only problem was that the finger qi the Western Heaven Demon Lord fired reached its target one step before my dagger did.
+It was just that the Finger Qi fired by the Western Heaven Demon Lord reached its target before my dagger did.
 
 *Striking second, hitting first.*
 
@@ -338,7 +338,7 @@ Kraaaaaash!
 
 Rumble-rumble-rumble!
 
-It was a tremendous reverberation.
+A tremendous tremor swept through the ground.
 
 As if to attest to the ferocity of the fighting, the corpses of enemies and allies piled together in tangled heaps collapsed.
 
@@ -376,7 +376,7 @@ The First Fiend continued with a sneer.
 
 “Yes. My Benefactor really is amazing.”
 
-“Now that we no longer need to worry about the Blood Lord’s feelings, even I won’t show you any mercy from here on—what?”
+“Now that there’s no longer any need to concern ourselves with the Blood Lord’s wishes, I won’t show you any mercy either—what?”
 
 The First Fiend paused and frowned.
 
@@ -398,7 +398,7 @@ No one else in the Sichuan Tang Clan could have guessed the truth—not even the
 
 But Cheongpung knew.
 
-“There’s no doubt. It’s my Benefactor.”
+“There’s no doubt. That was my Benefactor.”
 
 Cheongpung had been happy on Huashan, but he had also been lonely.
 
@@ -408,7 +408,7 @@ The beautiful scenery, the animals he could play with, and even the grandfather 
 
 *“Hmm. Then are the Ten Dragons and Phoenixes stronger than me?”*
 
-*“Huh? What kind of question is that? Of course you, Pung, are—”*
+*“Huh? What kind of question is that? Of course you’re—”*
 
 *“Grandpa?”*
 
@@ -416,11 +416,11 @@ The beautiful scenery, the animals he could play with, and even the grandfather 
 
 *“Gasp! Really?”*
 
-*“O-Of course! The world is vast, and there are many masters. So you’ll have to keep working hard at your martial arts from now on, right?”*
+*“O-Of course! The world is vast, and there are many masters. So you must continue devoting yourself to your martial arts. Understood?”*
 
 *“Yeees…”*
 
-From the single thoughtless remark his grandfather had let slip, Cheongpung felt the unfamiliar emotion in one corner of his heart grow stronger.
+At the thoughtless remark his grandfather had let slip, the unfamiliar emotion nestled in one corner of Cheongpung’s heart grew stronger.
 
 Only later did he learn its name.
 
@@ -446,7 +446,7 @@ A gentle smile touched Cheongpung’s lips.
 
 “…!”
 
-Flames rose in the First Fiend’s eyes as he watched this.
+Flames blazed in the First Fiend’s eyes.
 
 This greenhorn would have died long ago if not for the Western Heaven Demon Lord’s orders, yet he dared to ignore him. That alone had sealed his fate.
 
@@ -458,7 +458,7 @@ Then he saw what was happening before him and froze like a statue.
 
 Swooshhh.
 
-The wind was blowing.
+A wind was blowing.
 
 A scarlet wind of qi flowed from Cheongpung’s body, slid down his wrist, and streamed into his sword.
 
@@ -468,14 +468,14 @@ Crackle-crackle-crackle!
 
 A halo of light, more brilliant and destructive than anything else.
 
-A dazed voice escaped between the First Fiend’s lips as he stared at the unbelievable sight.
+A stunned whisper escaped the First Fiend’s lips as he stared at the impossible sight.
 
 “…Sword Force.”
 
-The product of great martial artists. Proof that its wielder had reached the exalted realm known as Supreme Peak.
+The creation of the greatest martial artists. Proof that its wielder had reached the exalted realm of Supreme Peak.
 
-Yet the twenty-three-year-old young man’s face wore an innocent smile wholly unsuited to a great martial artist.
+Yet the twenty-three-year-old young man wore an innocent smile utterly unlike that of some exalted master.
 
-“So, shall we begin?”
+“Shall we begin?”
 
 [^1]: Candied hawthorn skewers are a traditional snack made by coating skewered hawthorn fruit in hardened sugar.
