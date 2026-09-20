@@ -934,3 +934,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 고현우 | 대통령 | reporter_to_President | Mr. President | formal-polite | Asks Baek Hanseong for his view of the three Mutated Gates at the New Year press conference. |
 | 고세원 | 석고준 | subordinate_to_Vice_Guild_Master | Vice Guild Master | formal-deferential | Uses 부길드장님 while trying to stop Go Jun from watching the broadcast. |
 | 김진무 | 진태경 | reporter_to_Hunter | Mr. Jin Taekyung | formal-polite | Calls Jin by name while introducing himself from Mudang Daily and requesting a question. |
+| 진태경 | 매직 존슨 | friendly acquaintance | Johnson | polite and teasing | Jin addresses Magic Johnson as 존슨 while bantering and discussing the press conference. |
+| 매직 존슨 | 진태경 | friendly acquaintance | Jin | casual and teasing | Magic Johnson repeatedly addresses Jin as 진 while joking with him and sharing serious information. |
