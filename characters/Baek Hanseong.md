@@ -1,6 +1,6 @@
 # Baek Hanseong (백한성)
 
-- **Safe through:** Chapter 563
+- **Safe through:** Chapter 564
 - **Aliases:** None
 - **Role:** Twenty-seventh President of Korea and the youngest president elected in Korean history; leads the government's public response to the Mutated Gate crisis and supports Jin Taekyung in public appearances.
 - **Personality:** Confident, politically shrewd, composed, and willing to needle Lee Jungryong while advancing his anti-Ares stance.

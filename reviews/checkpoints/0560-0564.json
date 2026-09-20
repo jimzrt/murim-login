@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "It was an area permitted only to Team Leader Choi, Butler Kim, Song Song, and Im Kkeokjeong.",
+      "defect": "The access list omits Taekyung, contradicting both his immediately following statement that the room is for founding members “including me” and the active continuity.",
+      "id": "C01",
+      "rationale": "Taekyung is explicitly one of the room’s authorized users and is training the listed members in the Jin Family’s Cultivation Technique.",
+      "replacement": "It was an area permitted only to Team Leader Choi, Butler Kim, Song Song, Im Kkeokjeong, and me.",
+      "severity": "major",
+      "source": "Chapter 564, secured training room description"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Peace Guild expands beyond its original Guild House, buying surrounding properties and constructing a larger facility. Magic Johnson discusses the Guild’s growing influence, gives Taekyung a chip for Team Leader Choi, and confirms that a secured training room is reserved for Taekyung and selected founding members learning the Jin Family’s Cultivation Technique.",
+      "defect": "The summary drops the deliberate unresolved hook in which seeing Im Kkeokjeong’s desperate training prompts Taekyung to consider beginning an unspecified plan soon.",
+      "id": "C02",
+      "rationale": "Taekyung’s thought—“Should I start that soon…?”—is an intentional open hook. Recording it without identifying the plan preserves both the ambiguity and the chapter’s forward continuity.",
+      "replacement": "The Peace Guild expands beyond its original Guild House, buying surrounding properties and constructing a larger facility. Seeing Im Kkeokjeong train with desperate persistence prompts Taekyung to consider beginning an unspecified plan soon. Magic Johnson discusses the Guild’s growing influence, gives Taekyung a chip for Team Leader Choi, and confirms that a secured training room is reserved for Taekyung and selected founding members learning the Jin Family’s Cultivation Technique.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, final paragraph"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The cheerful, playful Magic Johnson of usual was nowhere to be seen.",
+      "defect": "“Magic Johnson of usual” is an unnatural English construction that breaks the polished contemporary narrative voice.",
+      "id": "C03",
+      "rationale": "The replacement preserves the contrast in his demeanor while using natural English word order.",
+      "replacement": "The usual cheerful, playful Magic Johnson was nowhere to be seen.",
+      "severity": "minor",
+      "source": "Chapter 560, Magic Johnson’s warning to Team Leader Choi"
+    },
+    {
+      "confidence": 0.99,
+      "current": "People whose paths happened to cross with mine.",
+      "defect": "The idiom is malformed; paths cross one another rather than “cross with” one another.",
+      "id": "C04",
+      "rationale": "This restores the standard idiom without changing Choi’s restrained description of the relationships.",
+      "replacement": "People whose paths happened to cross mine.",
+      "severity": "minor",
+      "source": "Chapter 560, Team Leader Choi describing prospective allies"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the roar of the powerful mutated individual said to be born only once in a million chances, more than a thousand orcs let out shrieks and struck their weapons together.",
+      "defect": "“Born only once in a million chances” is an awkward collocation and reads like untranslated source syntax.",
+      "id": "C05",
+      "rationale": "“Appear only once in a million cases” naturally preserves the stated rarity without adding a specific reproductive mechanism.",
+      "replacement": "At the roar of the powerful mutated individual said to appear only once in a million cases, more than a thousand orcs let out shrieks and struck their weapons together.",
+      "severity": "minor",
+      "source": "Chapter 562, Orc Lord’s charge"
+    }
+  ],
+  "summary": "One internal access-list contradiction and one dropped unresolved hook require correction. Three isolated phrases also disrupt the otherwise consistent contemporary English voice.",
+  "version": 1
+}

@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Maybe it was because they had all once been Awakened, but their work speed was no joke.",
+      "defect": "“Once been Awakened” implies that they are no longer Awakened, and “but” incorrectly opposes the stated causal relationship.",
+      "id": "F01",
+      "rationale": "The source attributes their exceptional speed to their Awakened backgrounds without suggesting that their Awakened status ended.",
+      "replacement": "Maybe it was because they were all Awakened, but they worked at an incredible pace.",
+      "severity": "minor",
+      "source": "다들 각성자 출신이라 그런지 작업 속도가 장난 아니다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Why do you think? To put you to work. If you understand, send five F-ranks over here. Throw in one or two E-ranks, too.”",
+      "defect": "The foreman orders five F-ranks to join the work here; he does not tell the respondents to send other people.",
+      "id": "F02",
+      "rationale": "붙어 is a direct assignment to assemble or join the group, not an instruction to dispatch someone else.",
+      "replacement": "“Why do you think? To put you to work. If you understand, five F-ranks get over here. Add one or two E-ranks, too.”",
+      "severity": "minor",
+      "source": "“왜긴, 일 시키려고 그러지. 알아들었으면 이쪽으로 F급 다섯만 붙어. E급도 한두 명 끼워서.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Of course not. I came to give Choi something. I figured I’d check on our progress while I was here.”",
+      "defect": "“Our progress” adds that Johnson shares ownership of the construction project.",
+      "id": "F03",
+      "rationale": "The source only says that he came to check the progress while taking care of his other errand.",
+      "replacement": "“Of course not. I came to give Choi something. I figured I’d check on the progress while I was here.”",
+      "severity": "minor",
+      "source": "“당연히 아니지. 최에게 전달해 줄 게 있어서 왔어. 겸사겸사 진도 보고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You really didn’t think I’d say no, did you?”",
+      "defect": "The reply refers to refusing an unstated request instead of confirming that Jin is indeed uncomfortable with Johnson’s presence.",
+      "id": "F04",
+      "rationale": "아니라고 refers back to Johnson’s suggestion that Jin is not uncomfortable, producing a direct, cutting contradiction.",
+      "replacement": "“Surely you didn’t think I was comfortable?”",
+      "severity": "major",
+      "source": "“설마 아니라고 생각하신 건 아니죠?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……”\n\n*Hurt?*",
+      "defect": "Jin’s incredulous spoken response has been converted into an internal thought, changing the dialogue exchange.",
+      "id": "F05",
+      "rationale": "The Korean line is explicitly spoken and prompts Jin’s subsequent visual appraisal of Johnson’s body.",
+      "replacement": "“…Hurt?”",
+      "severity": "major",
+      "source": "“……상처요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“His name is Go Jun, not Sseokkochoon. And regardless, he was Lee Jungryong’s Head of Security.”",
+      "defect": "The translation omits 그 자식, sanitizing Jin’s openly contemptuous reference to Go Jun.",
+      "id": "F06",
+      "rationale": "그 자식 is a disparaging reference whose hostility is meaningful to Jin’s characterization and relationship with Go Jun.",
+      "replacement": "“His name is Go Jun, not Sseokkochoon. And anyway, that bastard was Lee Jungryong’s Head of Security.”",
+      "severity": "major",
+      "source": "“썩코춘이 아니라 석고준이요. 그리고 뭐, 그 자식은 어쨌든 이정룡 경호팀장이었잖아요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had criticized Ares Guild through its handling of the Mutated Gate while praising Lee Jungryong’s achievements in life and wrapping me up as the person who would carry on his legacy.",
+      "defect": "“Through its handling” incorrectly makes Ares’s handling the instrument of criticism and loses the source’s indirect, roundabout manner of attacking the Guild.",
+      "id": "F07",
+      "rationale": "돌려 깎기 식으로 means criticizing Ares obliquely rather than directly, while using praise of Lee and Jin as the rhetorical vehicle.",
+      "replacement": "He had indirectly criticized Ares Guild over the Mutated Gate while praising Lee Jungryong’s achievements and presenting me as the man who would carry on his legacy.",
+      "severity": "minor",
+      "source": "이번 변이 게이트에 관련된 아레스 길드를 돌려 깎기 식으로 비판함과 동시에, 이정룡의 생전 업적을 띄우며 내가 그의 유지를 잇는다고 포장해 버린 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Why is he so damn adamant about this?*\n\nHe really was a demon in this department.",
+      "defect": "“Demon in this department” is an unnatural literal rendering of an idiom meaning uncannily skilled, while “damn” adds profanity absent from the source.",
+      "id": "F08",
+      "rationale": "귀신이다 describes extraordinary or uncanny aptitude here, not literal demonic qualities.",
+      "replacement": "*Why was he so needlessly adamant about that?*\n\nWhen it came to this sort of thing, his instincts were downright uncanny.",
+      "severity": "minor",
+      "source": "쓸데없이 단호한 거 뭔데.\n\n이 방면으로는 귀신이네, 진짜."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Someone who wants to train more than anyone.”",
+      "defect": "“Wants” weakens the person’s desperate need and emotional urgency.",
+      "id": "F09",
+      "rationale": "간절한 conveys an earnest, desperate longing, central to the injured Hunter’s characterization in this scene.",
+      "replacement": "“Someone more desperate to train than anyone else.”",
+      "severity": "major",
+      "source": "“누구보다 수련이 간절한 사람이요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A man pretending more than anyone else that he was fine, his will trying to rise again after his heart had been brutally broken.",
+      "defect": "“Heart had been brutally broken” strongly suggests romantic heartbreak and obscures that his spirit was crushed by his defeat and injuries; the English construction also makes his will itself rise rather than expressing his determination to stand again.",
+      "id": "F10",
+      "rationale": "마음 is his crushed spirit or morale in context, and 의지 is his determination to get back on his feet.",
+      "replacement": "A man who tried harder than anyone to pretend he was fine, yet willed himself to stand again after his spirit had been brutally crushed.",
+      "severity": "major",
+      "source": "누구보다 괜찮은 척하지만, 무참히 꺾여버린 마음으로 다시 일어서려는 그의 의지가."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A small object slipped into my clothes amid a faint flow of qi.",
+      "defect": "The translation identifies Johnson’s energy as Murim qi even though he is a modern mage and the source uses generic 기 rather than specifying Murim energy.",
+      "id": "F11",
+      "rationale": "The source leaves the energy generic; labeling it qi introduces an unsupported mechanism and conflicts with the required distinction between Murim qi and modern mana.",
+      "replacement": "A small object slipped into my clothes on a faint current of energy.",
+      "severity": "major",
+      "source": "미세한 기의 흐름과 함께 품 안을 파고드는 자그마한 물체."
+    }
+  ],
+  "summary": "Several localized fidelity and register issues, including altered dialogue, softened contempt, and modern magical energy mislabeled as qi.",
+  "version": 1
+}

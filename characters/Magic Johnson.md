@@ -1,9 +1,9 @@
 # Magic Johnson (매직 존슨)
 
-- **Safe through:** Chapter 560
+- **Safe through:** Chapter 564
 - **Aliases:** Grand Mage
-- **Role:** Grand Mage affiliated with the Wizard Guild and a powerful ally of the Peace Guild.
-- **Personality:** Usually playful and irreverent, but serious about protecting a better future and willing to act decisively against greater threats.
-- **Voice:** Warm, direct, humorous, and casually profane; calm and grave when discussing responsibility or crisis.
-- **Relationships:** Supports Team Leader Choi and the Peace Guild, has a longstanding friendship with Joseph Biden, and treats Jin Taekyung as a trusted ally.
+- **Role:** Magic Johnson is a Grand Mage and powerful mage who visits the Peace Guild to deliver intelligence and a data chip to Team Leader Choi.
+- **Personality:** Playful, perceptive, and theatrically sensitive in jest, but serious when discussing threats.
+- **Voice:** Bantering, teasing, and conversational; grave and precise when presenting intelligence.
+- **Relationships:** Friendly acquaintance of Jin Taekyung who maintains an information-sharing relationship with Team Leader Choi.
 - **Sources:** Korean source and accepted translation, Chapter 384

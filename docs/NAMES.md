@@ -1834,3 +1834,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무당일보 | **Mudang Daily** | News outlet represented at the press conference. |
 | 김진무 | **Kim Jin-mu** | Reporter for Mudang Daily. |
 | 바티칸 | **Vatican** | Religious city-state used as a comparison for Ares Guild headquarters. |
+| 썩코춘 | **Sseokkochoon** | Magic Johnson's deliberately mangled nickname for Go Jun. |
+| 길드 하우스 | **Guild House** | Peace Guild headquarters. |
