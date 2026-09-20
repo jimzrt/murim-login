@@ -1,6 +1,6 @@
 # Kim Hwajong (김화종)
 
-- **Safe through:** Chapter 580
+- **Safe through:** Chapter 581
 - **Aliases:** Butler Kim
 - **Role:** Kim Hwajong is a Level 80 mage known as Butler Kim and Choi Minwoo's loyal butler and personal escort.
 - **Personality:** Gentle and composed

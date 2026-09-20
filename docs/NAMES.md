@@ -1874,3 +1874,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 광안리 | **Gwangalli** | Busan area where Mermen spread. |
 | 화종 | **Hwa-jong** | Butler Kim's personal name. |
 | 김호중 | **Kim Ho-jung** | Ares Guild security-team member assigned by Go Jun to Busan. |
+| 김소혜 | **Kim Sohye** | Female Hunter in Pyeongchang who recognizes Choi Minwoo from a news photograph. |
