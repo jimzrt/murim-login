@@ -50,7 +50,7 @@ Unlike Cheongpung and Hyuk Mujin, who could die and come back without ever learn
 
 “Oh my, now that you mention it, this place is practically bursting at the seams. I’ll wait outside.”
 
-Cheongpung and Hyuk Mujin waved at him.
+Cheongpung and Hyuk Mujin waved him off.
 
 “Goodbye, Young Hero Gung.”
 
@@ -72,39 +72,39 @@ Cheongpung lowered his head dejectedly at Gung Gibang’s furious outburst.
 
 Hiss. Hissss!
 
-“…What the fuck.”
+“…What the fuck?”
 
-Looks like Mimi had picked up some new tricks in the meantime. After putting on that flashy performance, Cheongpung was the last to leave the room.
+Looks like Mimi had picked up a new trick while I was out. After that flashy performance, Cheongpung was the last to leave the room.
 
 Jeok Cheongang finally spoke.
 
-“You reckless little brat. You certainly made quite a ruckus.”
+“You reckless little brat. You certainly made quite a spectacle of yourself.”
 
 His face was stern, his voice low and subdued.
 
-He really hadn’t changed at all. Seeing Jeok Cheongang act just like his usual self made me want to laugh for some reason.
+He hadn’t changed a bit. Seeing the same old Jeok Cheongang made me smile for some reason.
 
 “You laughing?”
 
 “Of course I’m laughing. What else should I do, cry?”
 
-“Hah, look at this brat. You made a spectacle of yourself in front of everyone and dragged our sect’s reputation through the mud, yet you still have the nerve to say that?”
+“Hah, look at this brat. You disgraced yourself in front of everyone and dragged our sect’s reputation through the mud, yet you still have the nerve to say that?”
 
-“You were laughing pretty loudly for someone who thought that.”
+“You were laughing awfully loudly for someone who thinks that.”
 
 “…!”
 
 “I saw everything.”
 
-The stern expression he had been struggling to maintain collapsed all at once. Jeok Cheongang’s head slowly turned toward the window.
+The stern expression he had worked so hard to maintain collapsed. Jeok Cheongang slowly turned his head toward the window.
 
 “Ahem. What exactly do you claim to have seen?”
 
-“About fifty people besides me probably saw it too. For a moment, I thought your smile had split your mouth open and you were bleeding from the corners.”
+“About fifty other people probably saw it too. I thought the corners of your mouth were going to split open and start bleeding.”
 
 He’d practically looked like the Chinese Joker.
 
-My finishing shot left him no room to escape. Jeok Cheongang hesitated for a long while, unable to continue, before finally muttering one word.
+My finishing blow left him no avenue of escape. After a long hesitation, Jeok Cheongang finally muttered a single word.
 
 “…Did.”
 
@@ -122,9 +122,9 @@ Yes. That one sentence was enough.
 
 “…”
 
-What was this? His expression seemed strangely off.
+What was this? His expression had suddenly turned strange.
 
-His eyes even looked almost hurt. I asked, baffled,
+He almost looked hurt. Baffled, I asked,
 
 “What’s wrong this time?”
 
@@ -134,11 +134,11 @@ His eyes even looked almost hurt. I asked, baffled,
 
 “I said it was nothing!”
 
-“Why are you shouting? The mood was finally warm and pleasant for once.”
+“Why are you shouting? Things were finally warm and pleasant for once.”
 
-“If I say it’s nothing, then take it as nothing! You keep prying and asking questions, so this is happening!”
+“If I say it’s nothing, then take it as nothing! You’re the one who keeps prying!”
 
-“Uh-oh. It’s getting worse?”
+“Whoa. It’s getting worse?”
 
 What was wrong with this man all of a sudden? Had I screwed something up?
 
@@ -162,11 +162,11 @@ A thin stream of hot air gently pushed open the closed door.
 
 “You’re all so impatient. Couldn’t even wait fifteen minutes before swarming up here?”
 
-An old Buddhist nun and a Daoist answered Jeok Cheongang’s gruff voice in turn.
+An elderly Buddhist nun and a Daoist answered Jeok Cheongang’s gruff complaint in turn.
 
-“Impatient? Hearing that from a lay devotee gives this poor nun a rather strange feeling.”
+“To hear you call someone else impatient feels rather strange.”
 
-“This junior was discourteous. However, given the circumstances…”
+“This junior has been discourteous. However, given the circumstances…”
 
 The elderly nun, her face covered in fine wrinkles, was a stranger to me. But I immediately recognized the Daoist.
 
@@ -188,7 +188,7 @@ As if he had read my thoughts, Jeok Cheongang quietly sent me a Sound Transmissi
 
 *That old hag is Emei Sect’s Extinction Divine Nun. She may look kindly, but once she loses her temper, she becomes a rakshasa incarnate. Watch your mouth around her. And whatever you do, don’t mention her age.*
 
-I replied cautiously through Sound Transmission.
+I cautiously sent one back.
 
 *Just how old is she?*
 
@@ -204,7 +204,7 @@ I bowed deeply to the ancient woman who looked like the matriarch of a bossam re
 
 “Good to meet you, Benefactor Jin.”
 
-The Extinction Divine Nun studied me with a strange look in her eyes, then nodded.
+The Extinction Divine Nun studied me with an inscrutable look, then nodded.
 
 “So the rumors were true. No—they fell short.”
 
@@ -230,7 +230,7 @@ Not that it accomplished much, considering the difference in our heights.
 
 “You’ll wear the boy’s face out staring at him. Say what you came to say and hurry along.”
 
-The two Sect Leaders looked embarrassed by his blunt words and finally got to the point.
+Chastened by his blunt words, the two Sect Leaders finally got to the point.
 
 “A problem has arisen. Could the two of you accompany us for a while?”
 
@@ -238,13 +238,13 @@ The two Sect Leaders looked embarrassed by his blunt words and finally got to th
 
 “Accompany you? Right now?”
 
-Jeok Cheongang asked in a displeased voice as he turned toward me.
+Jeok Cheongang asked in a displeased voice, then turned to me.
 
 “What will you do?”
 
 “…”
 
-Two Sect Leaders from the Nine Sects and One Gang were asking for my help. What exactly was I supposed to do?
+Two Sect Leaders from the Nine Sects and One Gang were asking for my help. What was I supposed to say?
 
 “I’ll go.”
 
@@ -272,7 +272,7 @@ A delighted shout burst from me.
 
 Mungyeong looked exactly as he had before leaving the Sichuan Tang Clan.
 
-Dark Heaven had invaded not long after he left, so I had been worried. Yet, perhaps our paths had simply missed each other, because he had somehow escaped without a scratch.
+Dark Heaven had attacked not long after his departure, so I’d been worried about him. But perhaps our paths had simply crossed, because he had somehow escaped without a scratch.
 
 “When did you get here? You look taller than before. Going through a growth spurt?”
 
@@ -294,9 +294,9 @@ I smiled with satisfaction.
 
 That sort of thing happened from time to time at his age. Maybe this was my chance to spread proper sex education throughout this dusty old Murim.
 
-“Your hyung here is going to show you a whole new world. From now on, call me Teacher Jin Seong-ae.”[^2]
+“Your hyung is going to show you a whole new world. From now on, call me Teacher Jin Seong-ae.”[^2]
 
-Teacher Gu Seong-ae, are you watching? Your knowledge is crossing space and time to reach the next generation.
+Teacher Gu Seong-ae, are you watching? Your wisdom is crossing space and time to reach the next generation.
 
 I was proudly patting Mungyeong on the shoulder when—
 
@@ -316,7 +316,7 @@ Three long sighs sounded behind me. At the same time, Mungyeong spoke in a flat 
 
 “And I stopped having wet dreams a long time ago.”
 
-“That’s a little problematic, because your secondary sexual development hasn’t completely finished ye—no, that’s not what I mean.”
+“That’s a little concerning, because your secondary sexual development shouldn’t be complete y—wait. That’s not the point.”
 
 I swallowed hard.
 
@@ -338,7 +338,7 @@ They looked at me, waiting for an answer. I forced my lips apart.
 
 “Ah, right. So there’s some kind of strange formation where we’re going?”
 
-“According to the Three Fiends, whom we captured and interrogated, that appears to be the case. But the formation itself is so strange…”
+“That is what we learned after capturing and interrogating the Third Fiend. But the formation itself is so peculiar…”
 
 Jeok Cheongang answered gruffly.
 
@@ -358,7 +358,7 @@ Especially me.
 
 “I’ve told you everything. And from what I could tell… I don’t think it was possible for him to get any stranger.”
 
-Dark Heaven was strange by nature. They were fanatics who worshiped the Lord of Heaven as almost—no, simply—as a god.
+Dark Heaven was inherently strange. They were fanatics who worshiped the Lord of Heaven almost—no, exactly—like a god.
 
 The Blood Lord and the Western Heaven Demon Lord were no different, with all their bizarre powers and abilities.
 
@@ -384,7 +384,7 @@ No—the man known as the Slaughter Saint.
 
 Honestly, I had nearly pissed myself.
 
-*Even if I spent half a day swimming in the Sanzu River valley, grilled meat, and came back, it wouldn’t be this bad.*[^3]
+Even if I’d spent half a day frolicking in the Sanzu River and stopped to grill some meat before coming back, I couldn’t have come any closer to death.[^3]
 
 *Mungyeong was the Slaughter Saint. And I asked the Slaughter Saint if he’d had a wet dream!*
 
