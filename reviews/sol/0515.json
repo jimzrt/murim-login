@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The young man, who had once been no more than a promising sprout, had sunk deep roots into the soil of the Murim and was growing into a mighty tree.",
+      "defect": "“Promising” reverses the idiom 싹수가 노랗다, which characterizes someone as seemingly unlikely to amount to anything, while the source extends that idiom through the sprout metaphor.",
+      "id": "F01",
+      "rationale": "The source contrasts Jin Taekyung’s apparently unpromising beginnings with his present growth; it does not call his early potential promising.",
+      "replacement": "The young man, who had once been no more than a sickly sprout that seemed unlikely to amount to anything, had put down deep roots in the soil of the Murim and was growing into a mighty tree.",
+      "severity": "major",
+      "source": "싹수 노란 새싹에 불과하던 어린 청년은, 무림이라는 토양에 깊은 뿌리를 내리고 거목으로 자라나고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Amitabha. This humble monk is not such a free man.",
+      "defect": "“Free man” suggests personal liberty rather than 한가하다, meaning idle or unoccupied, and is unnatural in context.",
+      "id": "F02",
+      "rationale": "Jung Ho is saying he did not come because he had time to spare.",
+      "replacement": "Amitabha. This humble monk is not so idle.",
+      "severity": "minor",
+      "source": "아미타불. 빈승은 그리 한가한 사람이 아니라오."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“He has no brains. But he has skill. Very strong.”",
+      "defect": "The translation changes a blunt joke about the monk having no hair into an accusation that he is stupid.",
+      "id": "F03",
+      "rationale": "머리 refers to the bald monk’s hair here, preserving the giant’s literal-minded observation and the contrast with the monk’s tremendous skill.",
+      "replacement": "“He has no hair. But he has skill. Very strong.”",
+      "severity": "major",
+      "source": "“머리는 없는데. 실력은 있다. 엄청 강하다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“His Martial Uncle is young.”",
+      "defect": "The possessive is misassigned and the identifying title is omitted. Sama Pyo is identifying the young monk as the Discipline Hall Master’s Martial Uncle.",
+      "id": "F04",
+      "rationale": "계율원주의 modifies 사숙; the hierarchy is the point of Sama Pyo’s realization.",
+      "replacement": "“The Discipline Hall Master’s young Martial Uncle.”",
+      "severity": "major",
+      "source": "“계율원주의 어린 사숙이라.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He threw his sword at the merchant cowering in a corner, then looked up at the sky and stretched.",
+      "defect": "“His sword” falsely assigns ownership to Sama Pyo, and “threw … at” can imply an attack rather than compliance with the order to return the weapon.",
+      "id": "F05",
+      "rationale": "The sword belongs to the merchant, whom Sama Pyo was just ordered to return it to; the source also retains the merchant’s trembling.",
+      "replacement": "He tossed the sword back to the merchant cowering and trembling in a corner, then looked up at the sky and stretched.",
+      "severity": "major",
+      "source": "구석에 처박혀 벌벌 떠는 장사치를 향해 검을 내던진 그는 하늘을 바라보며 기지개를 쭉 켰다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "At the final moment, he had seen a faint, proper light in the monk’s eyes beneath the conical hat. He recalled it now and muttered.",
+      "defect": "“Proper light” is not natural English and misses the moral or spiritual sense of 正光.",
+      "id": "F06",
+      "rationale": "正光 denotes a righteous or upright radiance, not light that is merely correct or proper.",
+      "replacement": "He recalled the faint righteous gleam he had glimpsed in the monk’s eyes beneath the conical hat at the final moment, then muttered.",
+      "severity": "minor",
+      "source": "그는 마지막 순간, 죽립 아래로 보이던 은은한 정광(正光)이 어린 눈동자를 떠올리며 중얼거렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At a time like this, on a main road watched by countless eyes, the young man had not only beaten Blood Cudgel to death but had also attempted to provoke a senior of another sect.",
+      "defect": "“Another sect” reverses the relationship. Jung Ho is angered that Sama Pyo tried to provoke a revered senior of Jung Ho’s own sect, namely the Shaolin monk who is his Martial Uncle.",
+      "id": "F07",
+      "rationale": "사문의 존장 refers to a respected senior within Jung Ho’s sect, not someone from an unrelated sect.",
+      "replacement": "At a time like this, on a main road under countless eyes, the young man had not only beaten Blood Cudgel to death but had also tried to provoke one of Shaolin’s senior figures.",
+      "severity": "critical",
+      "source": "요즘 같은 시기에, 그것도 대로변에서 수많은 이목이 지켜보는 가운데 혈곤을 쳐 죽인 것으로도 모자라 사문의 존장을 도발하려 하다니."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*Because I followed that star when I first brought you here.*",
+      "defect": "The draft shifts the star-following from Hong Dao’s journey to retrieve the Disciple to the completed act of bringing him back, altering the sequence and function of the star.",
+      "id": "F08",
+      "rationale": "데려올 때 describes the occasion on which Hong Dao went to fetch and bring the Disciple; the star guided that journey.",
+      "replacement": "*Because I followed that star when I first went to bring you back.*",
+      "severity": "major",
+      "source": "‘너를 처음 데려올 때, 저 별을 따라갔으니까.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“For fuck’s sake, don’t just scream! A rope! Throw me a damn rope!”",
+      "defect": "The draft renders the single source profanity twice, unnecessarily intensifying the line.",
+      "id": "F09",
+      "rationale": "씨벌 supports the opening profanity, but the second “damn” has no separate source equivalent.",
+      "replacement": "“For fuck’s sake, don’t just scream! A rope! Throw me a rope!”",
+      "severity": "minor",
+      "source": "“아니 씨벌, 소리만 지르지 말고 밧줄! 밧줄 좀 던져봐!”"
+    }
+  ],
+  "summary": "The draft contains one reversed characterization, several altered relationship or action details, a lost baldness joke, and localized register and wording defects.",
+  "version": 1
+}
