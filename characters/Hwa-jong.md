@@ -1,8 +1,8 @@
 # Hwa-jong (화종)
 
-- **Safe through:** Chapter 584
+- **Safe through:** Chapter 585
 - **Aliases:** Butler Kim
-- **Role:** Hwa-jong is Choi Minwoo's loyal butler and personal escort who remained behind after losing his left arm to fight Behemoth and rendered its two forelegs unusable.
+- **Role:** Hwa-jong was Choi Minwoo's loyal butler and personal escort who sacrificed his life to restrain Behemoth and died after Jin Taekyung killed it.
 - **Personality:** Loyal, vigilant, and uncompromising toward perceived threats to Choi Minwoo.
 - **Voice:** Formal and deferential toward Choi Minwoo, cold and openly hostile toward Song Cheonwoo.
 - **Relationships:** Hwa-jong serves Choi Minwoo and was formerly close to Song Cheonwoo, but their relationship ended over loyalty and ambition.
