@@ -18,9 +18,9 @@ The One God, the Three Saints, and the Ten Kings.
 
 The heroes who had once saved the world from the hundred thousand forces of the Demonic Path had long since become white-haired old men.
 
-Some had grown old or sick and died. Some had vanished after seeking peace. Others had handed their successors the responsibility and stepped down.
+Some had grown old or sick and died. Some had vanished in search of peace. Others had entrusted everything to their successors and stepped down.
 
-Poison King Tang Taesang had also left to find his own path.
+Poison King Tang Taesang had also left to follow his own path.
 
 *There is a place called Meishan two days from here. My father often spoke of its beautiful mountains.*
 
@@ -36,7 +36,7 @@ Several days ago, an unbelievable urgent report had arrived.
 
 When Tang Sadok rushed there in a panic, he found the aftermath of a battle that had shaken heaven and earth—and the Poison King’s corpse.
 
-*My father’s body had been… severely mutilated. There was no doubt about it. They were unmistakable signs of torture.*
+*My father’s body was… badly mutilated. There was no mistaking it. Those were signs of torture.*
 
 I did not know why the culprit had tortured the Poison King.
 
@@ -48,11 +48,11 @@ Furious beyond measure, Tang Sadok had personally led his clansmen in combing th
 
 What could anyone say to Tang Sadok as he raged, radiating suffocating killing intent? I understood his anger and resolve well enough.
 
-He and the Sichuan Tang Clan would never stop until they found the culprit and killed him. Naturally, they could not help us find the Divine Physician.
+He and the Sichuan Tang Clan would never stop until they found the culprit and killed him. Naturally, they could not spare anyone to help us find the Divine Physician.
 
 “Poison King Tang Taesang is dead. The Poison King himself…”
 
-A massive tectonic shift was taking place. And it was happening right beside us.
+A massive upheaval was taking place. And it was happening right beside us.
 
 Just as I murmured those words while staring at the oil lamp, an urgent voice came from behind me.
 
@@ -90,7 +90,7 @@ That was understandable. From what I had heard, the Poison King’s residence la
 
 Tang Sadok wanted his family to take revenge on its own.
 
-Considering the power possessed by the Sichuan Tang Clan, a great Murim family, and the character they had displayed, their independent course of action was not strange at all.
+Considering the power of the Sichuan Tang Clan and the temperament they had displayed, there was nothing particularly strange about them acting independently.
 
 “He did find it a little suspicious. Apparently, the Sichuan Tang Clan recently sent people to request some information they needed.”
 
@@ -128,7 +128,7 @@ Hyuk Mujin glanced around cautiously before speaking.
 
 “……”
 
-I was already so troubled that I could die from it, and this idiot was unbelievable.
+I already had enough on my mind without this idiot adding to it.
 
 For a moment, I considered giving him a good, satisfying smack for the first time in a while, but held myself back.
 
@@ -182,7 +182,7 @@ Cheongpung burst out laughing and clapped.
 
 “Don’t laugh! Stop him, you lunatic Cheongpung!”
 
-Hyuk Mujin had gotten much better with his words.
+Hyuk Mujin’s tongue had gotten a lot sharper.
 
 I held back Gung Gibang, who looked ready to explode after that brutal dose of truth.
 
@@ -218,9 +218,9 @@ I subtly changed the subject.
 
 “Hmph! Do you think they’re the only possibilities?”
 
-Gung Gibang snorted harshly and picked up the thread.
+Gung Gibang snorted and picked up the thread.
 
-“The Sichuan Tang Clan has devoted all its strength to eliminating demonic, heterodox arts. It could have been someone with a personal grudge.”
+“The Sichuan Tang Clan devoted itself to wiping out demonic and heterodox forces. It could have been someone with a personal grudge.”
 
 I stared in disgust at the booger stuck to the bridge of Gung Gibang’s nose.
 
@@ -254,7 +254,7 @@ My current realm was at the very edge of Peak. I had not yet attained enlightenm
 
 *Hwangbo Eom, the Taeeul Merciless Sword, was a perfect example.*
 
-But an opponent beyond that level would be difficult. In fact, if I had not gained a small insight during my battle with Hwangbo Eom, I might have been forced to kneel before his Taeeul Formless Sword.
+But an opponent beyond that level would be difficult. In fact, if I had not gained a small insight during my battle with Hwangbo Eom, I might have fallen to his Taeeul Formless Sword.
 
 And if my opponent was powerful enough to kill the Poison King, who had ranked among the five strongest of the Ten Kings…
 
@@ -268,7 +268,7 @@ While I was quietly lost in thought, Gung Gibang suddenly spoke as if something 
 
 “A killer? An assassin?”
 
-“Are there other kinds of assassins?”
+“Is there some other kind?”
 
 I frowned.
 
@@ -336,4 +336,4 @@ When I turned over the **Divine Physician’s Token**, faint writing appeared.
 
 > The finest Chinese gallnuts come from Sichuan.
 
-“Chinese gallnut, my ass. They should’ve written down the damn home address.”
+“Chinese gallnuts, my ass. He should’ve written down his damn address.”
