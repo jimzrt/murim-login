@@ -1,6 +1,6 @@
 # Song Cheonwoo (송천우)
 
-- **Safe through:** Chapter 569
+- **Safe through:** Chapter 575
 - **Aliases:** Director Song
 - **Role:** Ares Guild Director and former A-rank Hunter who reached third place among Korean rankers, briefly headed the Hunter training center, and led Ares Guild's European regional branch for twenty years; he now leads an internal faction capable of threatening Go Jun.
 - **Personality:** Highly ambitious, honor-obsessed, politically calculating, and determined to use his final opportunity to reclaim influence before retirement.

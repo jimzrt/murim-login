@@ -958,3 +958,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 마법사 | rescuer assisting the operation | mage; otherwise you | polite emergency imperative | Taekyung orders the exhausted mage to request rescue under his name. |
 | 이동석 | 김 팀 | workplace superior and colleague | Team Leader Kim | informal dialectal address | Dongseok calls out to Kim during the raid-party attack. |
 | 스켈레톤 킹 | 머맨 | enemy_king_to_monster_troops | You | imperious-terse | The Skeleton King addresses the Mermen with clipped commands while declaring their deaths. |
+| 백한성 | 최민우 | President_to_trusted_political_ally | Team Leader Choi | formal-polite, warm, and politically attentive | Baek addresses Choi as 최 팀장님 during the private Blue House breakfast. |
+| 최민우 | 백한성 | political_subordinate_to_President | Mr. President | formal-polite | Choi addresses Baek as 대통령님 during the breakfast and departure. |
+| 백한성 | 보좌관 | President_to_aide | you idiot | angry and informal | Baek rebukes the aide with 이 사람이 after the aide interrupts the breakfast. |
+| 최민우 | 김 집사 | household_guest_to_household_butler | Butler Kim | formal-polite | Choi answers Butler Kim's emergency call as 김 집사님. |

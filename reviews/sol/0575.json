@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Somehow, I should have saved it and learned the true identity of the people behind it.",
+      "defect": "The source leaves the number and identity of whoever was behind the Kraken unresolved, while “the people” explicitly establishes multiple perpetrators.",
+      "id": "F01",
+      "rationale": "배후 is number-neutral here, and the responsible party remains an unresolved mystery.",
+      "replacement": "Somehow, I should have kept it alive and learned the true identity of whoever was behind it.",
+      "severity": "major",
+      "source": "어떻게든 살려서 배후의 진짜 정체를 알아냈어야 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hundreds of casualties had already occurred before I could even arrive, but there were still more survivors waiting to be rescued.",
+      "defect": "“Still more survivors” can mean merely additional survivors and loses the source’s explicit quantitative comparison: those awaiting rescue outnumber the hundreds of casualties.",
+      "id": "F02",
+      "rationale": "숫자가 더 많다 explicitly states that the number of survivors is greater.",
+      "replacement": "Hundreds of casualties had already occurred before I could even arrive, but the survivors still waiting to be rescued outnumbered them.",
+      "severity": "major",
+      "source": "내가 미처 도착하기도 전에 수백의 사상자가 발생했지만, 아직 구조를 기다리는 생존자들의 숫자가 더 많다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "You have defeated [Lv. 140 ‘King of the Black Sea’ Kraken]!",
+      "defect": "The entity remains enclosed in square brackets inside a System window, contrary to the binding System-panel format.",
+      "id": "F03",
+      "rationale": "The framed System block already identifies the UI context, and the rules explicitly prohibit retaining these square brackets.",
+      "replacement": "You have defeated Lv. 140 ‘King of the Black Sea’ Kraken!",
+      "severity": "minor",
+      "source": "- [Lv.140 ‘검은 바다의 왕’ 크라켄]을 처치했습니다!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Choi Minwoo, Cheon Taemin’s grandson and only living blood relative.",
+      "defect": "The translation drops the explicitly maternal side of the grandparent relationship.",
+      "id": "F04",
+      "rationale": "외손자 specifically means a daughter’s son, not merely a grandson.",
+      "replacement": "Choi Minwoo, Cheon Taemin’s maternal grandson and only living blood relative.",
+      "severity": "major",
+      "source": "천태민의 외손자이자 유일한 혈육인 최민우."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*The dinner he said he’d make tonight was… kimchi stew, wasn’t it?*",
+      "defect": "The masculine pronoun assigns the promised cooking to a man, although the established subject is Jin Taekyung’s mother.",
+      "id": "F05",
+      "rationale": "The thought continues directly from the discussion of Jin Taekyung’s mother preparing Choi Minwoo’s meals, and the honorific verb refers to her.",
+      "replacement": "*The dinner she said she’d make tonight was… kimchi stew, wasn’t it?*",
+      "severity": "critical",
+      "source": "‘오늘 해 주시겠다고 한 저녁 메뉴가 아마…… 김치찌개였나.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Team Leader Choi already knew who was calling and answered immediately.",
+      "defect": "The source says Choi had guessed the caller, not that he knew with certainty; that distinction sets up his mistaken greeting and the reveal of a different caller.",
+      "id": "F06",
+      "rationale": "짐작 means conjecture or inference, and the following exchange proves that his assumption was wrong.",
+      "replacement": "Having already guessed who was calling, Team Leader Choi answered immediately.",
+      "severity": "major",
+      "source": "이미 발신인을 짐작하고 있던 최 팀장이 곧장 전화를 받았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "An old voice rang out from the other end of the phone.",
+      "defect": "The translation omits the explicit identification of the caller as Song Cheonwoo.",
+      "id": "F07",
+      "rationale": "The source names Song Cheonwoo at the reveal; reducing him to an unidentified old voice withholds a scene fact from the reader.",
+      "replacement": "Song Cheonwoo’s aged voice rang out from the other end of the phone.",
+      "severity": "critical",
+      "source": "수화기 너머, 송천우의 늙수그레한 목소리가 울려 퍼졌다."
+    }
+  ],
+  "summary": "Several fidelity defects alter an actor, omit a named speaker, narrow unresolved culpability, and lose explicit kinship and quantity details; one System line also violates the required formatting.",
+  "version": 1
+}
