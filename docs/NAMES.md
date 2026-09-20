@@ -1697,3 +1697,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 윤동주 | **Yun Dong-ju** | Korean poet referenced in Taekyung's comparison about sensitivity to the wind. |
 | 세종기지 | **King Sejong Station** | Korean Antarctic research station used in Taekyung's comparison. |
 | 바티칸 교황청 | **Vatican** | Institution referenced in Taekyung's joke to Unnamed. |
+| 내성 | **Inner City** | Fortified inner district of the Murim Alliance. |

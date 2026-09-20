@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "When I gave Mae Jonghak a small bow, he clicked his tongue as though disappointed, then spoke to Jeok Cheongang.",
+      "defect": "The draft changes Mae Jonghak's physical action from smacking his lips to clicking his tongue.",
+      "id": "F01",
+      "rationale": "입맛을 다시다 denotes smacking one's lips, while clicking one's tongue is a different gesture with different connotations.",
+      "replacement": "When I dipped my head in greeting, Mae Jonghak smacked his lips in disappointment, then turned to Jeok Cheongang.",
+      "severity": "critical",
+      "source": "매종학은 내가 고개를 꾸벅 숙여 보이자 아쉽다는 듯 입맛을 다신 뒤, 이번에는 적천강을 향해 말을 건넸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I heard the Family Head’s condition is poor. Rather than sending large-scale aid, we should at least help in this way for now.",
+      "defect": "The draft makes the elixir an alternative to large-scale aid, implying that such aid will not be sent. The source sets large-scale aid aside as a separate matter and says they should provide this immediate help first.",
+      "id": "F02",
+      "rationale": "대대적인 원조를 떠나 means apart from or setting aside large-scale aid, not rather than providing it.",
+      "replacement": "I heard the Family Head’s condition is poor. Large-scale aid aside, we should at least help in this way for now.",
+      "severity": "major",
+      "source": "당 가주의 병세가 좋지 않다고 들었는데, 대대적인 원조를 떠나 우선 이렇게라도 도움을 주어야지."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Would you like to take a walk outside with me? This may be the last day we get to enjoy weather like this.",
+      "defect": "The draft narrows Mae Jonghak's ominous reference to days like this into a comment specifically about enjoying similar weather.",
+      "id": "F03",
+      "rationale": "이런 날 refers broadly to a day like this and can carry the impending-change implication established by the scene; the source does not specify that the weather itself is ending.",
+      "replacement": "Would you like to take a walk outside with me? We may not have another day like this after today.",
+      "severity": "major",
+      "source": "함께 밖으로 나가 거닐지 않겠소? 이런 날도 오늘로 마지막일지도 모르는데."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had sent him to capture them, and now he was escorting them here.",
+      "defect": "The draft loses the comic register contrast in 모셔오고, which says Shadow Killer is bringing his targets back with the deference afforded honored guests.",
+      "id": "F04",
+      "rationale": "모셔오다 is deferential rather than neutral; that mismatch with 잡으라고 보낸 supplies the punchline.",
+      "replacement": "He had sent the man to capture them, and now he was bringing them here like honored guests.",
+      "severity": "major",
+      "source": "잡으라고 보낸 놈이 모셔오고 있네."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If you are referring to the other Three Saints and the Ten Kings, I will pretend I did not hear that.",
+      "defect": "“The other Three Saints” can mean other groups called the Three Saints rather than the other individuals belonging to the established Three Saints.",
+      "id": "F05",
+      "rationale": "또 다른 삼성과 십왕 refers to the remaining people counted among those established groups.",
+      "replacement": "If you are referring to the other members of the Three Saints and the Ten Kings, I will pretend I did not hear that.",
+      "severity": "minor",
+      "source": "또 다른 삼성(三星)과 십왕(十王)을 염두에 두고 하신 말씀이라면, 못 들은 것으로 하겠습니다."
+    }
+  ],
+  "summary": "Several localized fidelity defects narrow implications, weaken a comic register contrast, or alter a physical action.",
+  "version": 1
+}
