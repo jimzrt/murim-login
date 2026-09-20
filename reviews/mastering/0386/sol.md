@@ -96,7 +96,7 @@ At Lee’s greeting, Jin Taekyung and Choi Minwoo glanced at each other and shru
 
 What?
 
-Lee Jungryong unconsciously faltered.
+Lee Jungryong faltered despite himself.
 
 It had been less than a month since he had last seen them. Yet something had changed dramatically in the way they treated him.
 
@@ -106,9 +106,9 @@ That was it.
 
 The unmistakable hostility and wariness he had sensed from them before were gone.
 
-As Lee studied the two people who stood before him with such calm expressions, he soon realized why.
+As Lee studied their utterly calm expressions, he soon realized why.
 
-*They’ve grown stronger. So much stronger than before that there’s no comparison.*
+*They’ve grown stronger. So much stronger that there’s no comparison.*
 
 There was no doubt about it. Choi Minwoo’s qi was far greater and more refined than before—so much so that Lee found himself wondering how he had managed to grow this much in such a short time.
 
@@ -122,7 +122,7 @@ It could mean only one thing.
 
 *He crossed the wall.*
 
-The shock hit Lee like a blow to the back of the head. He had to struggle with all his might to keep his agitation from showing.
+The realization struck Lee like a blow to the back of the head. He had to fight with all his might to keep his agitation from showing.
 
 *How?*
 
@@ -134,13 +134,13 @@ But Lee Jungryong had known that Jin had not yet crossed the wall. He had known 
 
 And yet—
 
-*How can something this absurd happen?*
+*How can something this absurd have happened?*
 
 This went beyond mere surprise.
 
 As Lee met Jin Taekyung’s calm gaze, he remembered emotions he had long forgotten.
 
-Anxiety. Impatience.
+Anxiety. Restlessness.
 
 It was the first time Lee Jungryong had felt such unease since taking complete control of the Ares Guild.
 
@@ -160,7 +160,7 @@ Lee Jungryong nodded without a word, but his gaze remained fixed on one person.
 
 Leaning at an angle against the back of his chair, Jin Taekyung muttered as if to himself.
 
-“Well, it looks like quite a big deal to me.”
+“Looks like a pretty big something to me.”
 
 “…!”
 
@@ -170,11 +170,11 @@ Without realizing it, Lee Jungryong clenched his fist.
 
 * * *
 
-The meeting in the underground bunker continued for a long time.
+The meeting in the underground bunker dragged on for a long time.
 
-The Monster Wave had caused at least hundreds of thousands of casualties over the past week. That alone made it an enormous natural disaster and an unmistakable state of war. It was only natural that every decision had to be made with the utmost caution.
+The Monster Wave had caused at least hundreds of thousands of casualties over the past week. That alone made it an enormous catastrophe and an unmistakable state of war. It was only natural that every decision be made with the utmost caution.
 
-“Therefore, we should divide our forces into five armies and gradually pressure the enemy……”
+“Therefore, we should divide our forces into five armies and pressure the enemy…”
 
 Someone interrupted Wei Fenghu as he continued with a grave expression.
 
@@ -190,7 +190,7 @@ The middle-aged man called General Liao wore a uniform weighed down with medals.
 
 His tone was unbelievably obnoxious.
 
-He was speaking that way to Wei Fenghu, the Chairman’s right-hand man and the highest-ranking man with real power in the military.
+He was speaking that way to Wei Fenghu, the Chairman’s right-hand man and the highest-ranking power in the military.
 
 As though he had read my thoughts, Team Leader Choi sent me a message spell.
 
@@ -198,7 +198,7 @@ As though he had read my thoughts, Team Leader Choi sent me a message spell.
 
 —The Crown Prince Party and the Shang…what?
 
-—……If we must rank them, it means the Crown Prince Party is number one and the Shanghai Gang is number two.
+—…Put simply, the Crown Prince Party is number one and the Shanghai Gang is number two.
 
 —Oh.
 
@@ -246,7 +246,7 @@ Minister of National Defense Wei Fenghu’s expression was the most impressive o
 
 “The sacrifice of the few for the many is unavoidable!”
 
-*I didn’t know about the rest, but the man himself looked like an oxhead.[^2]*
+I didn’t know about the rest, but the man himself looked like an oxhead.[^2]
 
 Magic Johnson, who had been listening quietly, suddenly spoke in his deep voice.
 
@@ -254,7 +254,7 @@ Magic Johnson, who had been listening quietly, suddenly spoke in his deep voice.
 
 “That’s why we have an Archmage like you…”
 
-“Me? Our opponent isn’t an ordinary Lich. If that Arch Lich is more skilled at magic than I am, it could cause a truly irreversible catastrophe. Similar things already happened several times during the early days of the Great Cataclysm, remember?”
+“Me? Our opponent isn’t an ordinary Lich. If that Arch Lich is more skilled at magic than I am, it could cause a truly irreversible catastrophe. Similar things happened several times during the early days of the Great Cataclysm, remember?”
 
 “B-but even so… A sacrifice of this scale…”
 
@@ -266,13 +266,13 @@ Bang!
 
 Magic Johnson shot to his feet, his bronzed muscles rippling.
 
-“Stop it. I like East Asian men, too. I might have to punish you.”
+“Stop. I like Asian men too. I might have to punish you.”
 
 “…!”
 
 “…!”
 
-*That’s the scariest threat I’ve ever heard.*
+*That was the scariest threat I’d ever heard.*
 
 General Liao’s face turned deathly pale as he looked around for help. But the officials who seemed to belong to his faction avoided his gaze, as did Wu Heixing, his last possible line of defense.
 
@@ -280,7 +280,7 @@ General Liao’s face turned deathly pale as he looked around for help. But the 
 
 His opponent was an American national hero—and a national gay icon.
 
-Everyone seemed desperate not to become one of the East Asian men Magic Johnson liked.
+Everyone seemed desperate not to become one of the Asian men Magic Johnson liked.
 
 Of course, General Liao’s relentless stream of bullshit had played a major role as well.
 
