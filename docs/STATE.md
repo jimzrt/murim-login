@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 534
-- Next chapter: 535
-- Current block: 530–534 (5/5)
-- Latest translation: `translations/0534.md`
-- Latest summary: `summaries/beats/0534.md`
-- Safe profiles through: chapter 534
+- Last completed: 535
+- Next chapter: 536
+- Current block: 535–539 (1/5)
+- Latest translation: `translations/0535.md`
+- Latest summary: `summaries/beats/0535.md`
+- Safe profiles through: chapter 535
 
 ## Current Block
 
-- Sama Pyo and Taishan leave Gowolru under public scrutiny. Sama Pyo reflects that Jin Taekyung is an exceptional martial artist whose attitude differs from the young prodigies celebrated within orthodox circles. Taishan admires Taekyung as strong and kind but declares that he will fight anyone if Sama Pyo commands it, reaffirming his absolute loyalty to his Lord. Sama Pyo also realizes that Ju Hwaran, his former fiancée, will regard their connection as an ill-fated relationship.
-- After the meal, Ju Hwaran leaves to handle Escort Bureau business, while Taekyung's attempt to escort her fails because of his embarrassment and Gung Gibang's teasing. Taekyung learns that Hwaran accepted their political engagement to support her stricken father and becomes distressed by the revelation. At the lodgings, Jin Wikyung tells him that the Alliance Leader is looking for him.
+- Jin Wikyung summons Jin Taekyung and Cheongpung to the Alliance Leader's Hall, where Cheongpung arrives with his now-large horned snake Mimi. Taekyung, Cheongpung, and their companions joke about Mimi's diet and dangerous bite before Taekyung and Cheongpung enter a closed gathering of the Nine Sects and One Gang, Five Great Families, and surviving legendary masters. Jeok Cheongang privately encourages Taekyung by calling him his pride, and Mae Jonghak, now acting as the Murim Alliance's Alliance Leader, welcomes Taekyung and Cheongpung as the masters of the Two Dragons Pavilion.
 
 ## Open Questions
 
@@ -18,11 +17,11 @@
 - Where is the Southern Heaven Demon Empress ultimately headed, and what does she intend to do in Yunnan?
 - What is the outcome of the duel between Jeok Cheongang and Nangong Cheon, the Azure Sky Sword King?
 - Why did Ju Hwaran and Sama Pyo's political engagement end?
-- Why is the Alliance Leader seeking Jin Taekyung?
+- Why has the Alliance Leader summoned Jin Taekyung and Cheongpung, and what is the purpose of the gathering?
 
 ## Exceptional Decision
 
-- Render 고월루 as Gowolru, 곤륜운룡 as Kunlun Cloud Dragon, and 학우 as Hak Woo; render 전 정혼자 contextually as former fiancé or former fiancée.
+- Render 고월루 as Gowolru, 곤륜운룡 as Kunlun Cloud Dragon, 학우 as Hak Woo, and 이룡각 as Two Dragons Pavilion; render 전 정혼자 contextually as former fiancé or former fiancée.
 - Render 탈진 as the capitalized system status Exhaustion; retain Ten Dragons and Phoenixes, Blazing Flame Divine Dragon, Dark Heaven, Murim Alliance, and Old Master.
 - Render 황보세가 as Hwangbo Family, 소가주 as Lesser Family Head, 은비화 as Dagger Hidden Flower, and 전음 as Sound Transmission.
 - Preserve the chapter's blunt profanity, financial-therapy humor, and monster-comparison humor.
