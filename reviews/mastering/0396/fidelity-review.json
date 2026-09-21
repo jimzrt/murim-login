@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "which had long since lost their light",
+      "defect": "Adds an unsupported duration. The Korean says the black knight's eyes had already lost their light, not that they had been without it for a long time.",
+      "id": "F01",
+      "rationale": "이미 means “already”; long since adds a temporal implication absent from the source.",
+      "replacement": "which had already lost their light",
+      "severity": "minor",
+      "source": "Lines 7"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The thought left him feeling strangely unsettled.",
+      "defect": "Drops the source's suddenness and the explicit framing that the thought had suddenly occurred to him.",
+      "id": "F02",
+      "rationale": "문득 떠오른 생각 establishes a sudden thought as the trigger for his strange feeling.",
+      "replacement": "The thought that suddenly occurred to him left the black knight feeling strange.",
+      "severity": "minor",
+      "source": "Lines 11"
+    },
+    {
+      "confidence": 0.88,
+      "current": "then personally taken the vanguard of one legion and come here",
+      "defect": "Softens 선봉장, which identifies the black knight as the vanguard commander, into merely taking the vanguard position.",
+      "id": "F03",
+      "rationale": "The source gives him a command role, not only a position at the front.",
+      "replacement": "then personally become the commander of one legion’s vanguard and come here",
+      "severity": "minor",
+      "source": "Lines 43"
+    },
+    {
+      "confidence": 0.87,
+      "current": "The black knight was the one who had devised the discipline and formations ordinary monsters lacked.",
+      "defect": "Drops the source's 역시, which establishes that the black knight was also the one responsible for devising this discipline and formation.",
+      "id": "F04",
+      "rationale": "역시 carries the additive “also” relation preserved by the accepted baseline.",
+      "replacement": "The black knight was also the one who had devised the discipline and formations ordinary monsters lacked.",
+      "severity": "minor",
+      "source": "Lines 111"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Tremors shook the earth.",
+      "defect": "Omits the magnitude of the vibration.",
+      "id": "F05",
+      "rationale": "거대한 진동 describes a tremendous or enormous vibration, an important physical detail of the advancing legion.",
+      "replacement": "A tremendous vibration shook the earth.",
+      "severity": "minor",
+      "source": "Lines 125"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Tens of thousands of monsters roared as one.",
+      "defect": "Drops the source's emphasis that this was an enormous roar and adds unsupported unanimity with “as one.”",
+      "id": "F06",
+      "rationale": "The Korean presents an enormous collective roar as a sound image; it does not state that the monsters roared in unison.",
+      "replacement": "The enormous roar of tens of thousands of monsters.",
+      "severity": "minor",
+      "source": "Lines 131"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Magic Johnson was genuinely furious—and at the same time, deeply saddened.",
+      "defect": "Adds an intensity not established by the source's plain statement that he was sad.",
+      "id": "F07",
+      "rationale": "한편으로는 슬퍼하는 중 means he was also sad; deeply intensifies that emotional state.",
+      "replacement": "Magic Johnson was genuinely furious—and at the same time, sad.",
+      "severity": "minor",
+      "source": "Lines 343"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with several minor source-fidelity regressions involving omitted emphasis, added duration or intensity, and one softened command-role detail.",
+  "version": 1
+}

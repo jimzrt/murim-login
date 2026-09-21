@@ -14,15 +14,15 @@ He had always been a black knight. A being born from darkness could not understa
 
 Light and sunlight. A child laughing brightly. Someone’s hand stroking his head…
 
-Several words and inexplicable scenes flashed through his mind in succession, leaving him confused.
+The words and inexplicable scenes flashed through his mind one after another, leaving him confused.
 
-If not for the call from one of his subordinates a moment later, the black knight would have stood there for a long time.
+If not for his subordinate calling to him a moment later, the black knight might have stood there for a long time.
 
 —Lord.
 
 —Please.
 
-Black armor as dark as night covered his entire body. Green lights flickered between the slits of the helmet covering his head.
+Pitch-black armor covered them from head to toe. Green light flickered through the slits of the helmets concealing their heads.
 
 Two Death Knights dismounted from their skeletal warhorses and knelt on one knee. They continued in flat, emotionless voices.
 
@@ -128,13 +128,13 @@ Thudthudthudthudthud!
 
 Tens of thousands of monsters roared as one.
 
-At the head of the monsters surging toward the city, the black knight shot forward like a streak of light.
+At the head of the horde surging toward the city, the black knight shot forward like a streak of light.
 
 “That one’s the leader!”
 
 “Ranged units! Prepare!”
 
-—Tanks, stay calm! The armored units will intercept him alongside the Hunters!
+“Tanks, hold your ground! Armored units, intercept him with the Hunters!”
 
 Tanks, armored units, Hunters.
 
@@ -176,9 +176,9 @@ The same thought flashed through Choi Minwoo’s and Shao Shen’s minds.
 
 *Impossible to stop.*
 
-An insight approaching certainty.
+A realization bordering on certainty.
 
-Then, in the next moment, a pitch-black flash leaped across space and struck the Hunters.
+Then, in the next instant, a pitch-black flash leaped across space and descended upon the Hunters.
 
 KABOOM!
 
@@ -194,7 +194,7 @@ Kill them all.
 
 The Demon Realm words had been the last thing heard by those who died here the previous day.
 
-And…
+And now…
 
 They were the black knight’s command to the legion behind him.
 
@@ -216,7 +216,7 @@ Emergency reports had come in from every front. Wei Fenghu roared, demanding to 
 
 The communications officer answered, drenched in cold sweat.
 
-—W-we don’t know why, but the communications interference has grown even stronger. The emergency report that just arrived was confirmed to be from approximately thirty minutes ago.
+“W-we don’t know why, but the interference has grown even stronger. The emergency report that just arrived appears to have been sent approximately thirty minutes ago.”
 
 “……!”
 
@@ -226,11 +226,11 @@ If that was true, the attacks had begun while the meeting was in progress.
 
 And since the report had barely made it through the interference, it might not have been thirty minutes ago. It could have been an hour.
 
-Magic Johnson muttered with his face gone rigid.
+Magic Johnson’s face went rigid.
 
 “That can’t be. It wasn’t nearly this bad before I left…”
 
-Suddenly, the words Magic Johnson had spoken before leaving the city flashed through my mind.
+The words he had spoken before leaving the city suddenly flashed through my mind.
 
 *“The Arch Lich’s power is gradually weakening. A considerable portion of the interference has disappeared since last night in particular.”*
 
@@ -238,7 +238,7 @@ Wrong.
 
 The Arch Lich’s power over the surrounding area hadn’t weakened. It had merely made it look that way.
 
-Little by little, without giving anything away. Then, by withdrawing the legion, it had made it seem as if the range of its influence had shrunk dramatically—so that we could let our guard down even a little more.
+Little by little, without giving anything away. Then it withdrew its legions, making it seem as though the range of its power had shrunk dramatically—all so we would let our guard down, even if only a little.
 
 *This is…*
 
@@ -248,7 +248,7 @@ I didn’t know how the Arch Lich had realized the S-rank Hunters were gone. Wha
 
 The thought of the horrific slaughter we had witnessed the day before now unfolding across every front made my stomach churn even worse than it had during my first teleportation.
 
-But this time, instead of throwing up, I grabbed Magic Johnson and said,
+But this time, instead of throwing up, I grabbed Magic Johnson.
 
 “Teleport.”
 
@@ -344,7 +344,7 @@ Magic Johnson was genuinely furious—and at the same time, deeply saddened.
 
 “I know. You have people you need to protect too. I’m sorry to ask this of you.”
 
-—……Damn it. Is sending you to the hospital rooftop enough?
+“……Damn it. The hospital rooftop, right?”
 
 “Yes. That’s enough.”
 
@@ -354,11 +354,11 @@ Magic Johnson clenched his teeth and pressed his thick palm against my chest.
 
 As though taking every possible precaution, his mana slowly began to envelop my body, unlike the first time he had teleported me.
 
-—Ten percent. That’s your chance of survival. There’s a ninety percent chance you could die.
+“Ten percent. Those are your odds of survival. There’s a ninety percent chance you’ll die.”
 
 Ten percent…
 
-I raised my head and looked up at the sky beyond the window.
+I raised my head and looked at the sky beyond the window.
 
 A clear blue expanse without a single cloud. Was Murim somewhere in the distant universe beyond that sky? Were they waiting for me?
 
