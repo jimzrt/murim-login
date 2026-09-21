@@ -1030,3 +1030,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 무함마드 | 진태경 | terrorist_leader_to_enemy_Hunter | Jin Taekyung | fearful and deferential | Muhammad names Jin after recognizing him and pleads with him during the confrontation. |
 | 진태경 | 무함마드 | enemy_Hunter_to_terrorist_leader | you; apostate bastard | taunting, then cold and condemning | Jin interrogates and denounces Muhammad before forcing him to issue the order. |
 | 척 헤이글 | 무함마드 | allied_operative_to_captured_terrorist_leader | you; terrorist bastard | rough, profane, and coercive | Chuck explains Muhammad's impending death and offers the less painful alternative of cooperation. |
+| 알 디아브 자와히리 | 젊은이 | None; hostile ideological opponent | young man | Formal and coaxing | Al Diab repeatedly addresses the masked protagonist as 젊은이 while attempting to recruit and manipulate him. |
