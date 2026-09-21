@@ -1,6 +1,6 @@
 # Kim Hwajong (김화종)
 
-- **Safe through:** Chapter 593
+- **Safe through:** Chapter 594
 - **Aliases:** Butler Kim
 - **Role:** Kim Hwajong was a Level 80 mage known as Butler Kim and Choi Minwoo's loyal butler and personal escort who sacrificed his life to restrain Behemoth and died after Jin Taekyung killed it.
 - **Personality:** Gentle and composed as Butler Kim, but retains a fiery temperament and a habit of swearing.
