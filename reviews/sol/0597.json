@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*Because his family had died.*",
+      "defect": "The English implies that Choi’s family collectively died, while the source refers specifically to Kim Hwajong’s death on the understanding that he was family to Choi.",
+      "id": "F01",
+      "rationale": "The following lines explicitly identify Kim Hwajong as the family member whose death Choi is grieving.",
+      "replacement": "*Because he’d lost someone who was family.*",
+      "severity": "critical",
+      "source": "‘가족이 죽었으니까.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*And it would have deserved to.*",
+      "defect": "The translation introduces a moral judgment that the world deserved to be thrown into turmoil. The source instead says that such turmoil was entirely unsurprising given what happened.",
+      "id": "F02",
+      "rationale": "그러고도 남지 emphasizes that the preceding reaction was more than understandable or expected, not that it was deserved.",
+      "replacement": "*And no wonder.*",
+      "severity": "minor",
+      "source": "‘충분히 그러고도 남지.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What’s there to understand? It’s fine. I’m sure you’re ten times busier because of me.”",
+      "defect": "The draft makes the security officers ten times busier, but the honorific verb in context refers to President Baek Hanseong.",
+      "id": "F03",
+      "rationale": "Taekyung is explaining why he does not resent the President’s departure; the subsequent joke escalates how much busier the President has become.",
+      "replacement": "“What’s there to understand? It’s fine. I’m sure the President is already ten times busier because of me.”",
+      "severity": "critical",
+      "source": "‘양해는 무슨. 괜찮습니다. 안 그래도 저 때문에 열 배는 바빠지셨을 텐데.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“There are other aspects that may be considered within the bounds of self-defense, but… at present, the most serious matter concerns bodily injury.”",
+      "defect": "The draft renders 정상 참작 as self-defense, conflating mitigating or extenuating circumstances with the separate legal defense discussed immediately afterward.",
+      "id": "F04",
+      "rationale": "정상 참작 means that circumstances may mitigate culpability or punishment; 정당방위 in the later sentence is the source’s actual term for self-defense.",
+      "replacement": "“The other matters fall within the scope of extenuating circumstances, but… at present, the most serious issue is the bodily harm you inflicted.”",
+      "severity": "major",
+      "source": "‘다른 부분은 정상 참작이 가능한 범위이긴 한데…… 아무래도 현재로서는 상해에 관련된 부분이 가장 큽니다.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“……What the hell is wrong with this fucking human?”",
+      "defect": "The translation loses the deliberate comic self-correction as the Skeleton King starts to call Taekyung a human and changes the word to an insult.",
+      "id": "F05",
+      "rationale": "The break between 인 and 놈 represents an interrupted 인간 followed by 놈, reinforcing the Skeleton King’s irritation while preserving the joke.",
+      "replacement": "“……You shitty hu—bastard.”",
+      "severity": "minor",
+      "source": "‘……이런 개 같은 인, 놈을 봤나.’"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes the referent of a death, assigns the President’s workload to his guards, and conflates extenuating circumstances with self-defense. It also alters one causal reaction and loses a deliberate comedic self-correction.",
+  "version": 1
+}

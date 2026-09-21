@@ -988,3 +988,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 김화종 | younger_ally_to_older_butler | Butler Kim | respectful and formal | Asks about Kim Hwajong before entering the morgue and later bids him farewell. |
 | 스켈레톤 킹 | 진태경 | ally_to_ally | wicked human | archaic and admonishing | Calls Jin a wicked human and tells him not to keep the dead waiting. |
 | 중역 | 고세원 | Ares executive_to_Head_of_Security | Team Leader Go | urgent and coercive | Pressures Go Se-won to kill Jin and accept the promised Vice Guild Master position. |
+| 최 팀장 | 진태경 | trusted_older_ally_to_younger_ally | Mr. Jin | formal and grief-stricken | Choi addresses Jin as 진태경 씨 while thanking him for watching over Kim Hwajong's final moments. |
+| 진태경 | 최 팀장 | younger_ally_to_trusted_older_ally | Team Leader Choi | respectful and formal | Jin uses 최 팀장님 while comforting Choi and giving him permission to grieve privately. |
+| 경호원 | 진태경 | government_security_officer_to_protected_Hunter | Hunter Jin Taekyung | formal and deferential | The security officers repeatedly address Jin as 진태경 헌터님 while explaining his temporary protection and legal status. |
+| 스켈레톤 킹 | 진태경 | undead_ally_to_close_companion | you | casual and profane | The Skeleton King uses 네놈 while complaining about making Jin instant-mix coffee. |
