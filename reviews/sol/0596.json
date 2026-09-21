@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "**[Exclusive Report] Hunter Go Jun, Ares Vice Guild Master at the Time, and 25 Others Confirmed Dead; Total Casualties Around 500**",
+      "defect": "The parenthetical 現 explicitly identifies Go Jun as the current Ares Vice Guild Master, but “at the time” recasts the title as a former or merely historical position.",
+      "id": "F01",
+      "rationale": "Preserving the current-status marker avoids changing Go Jun’s official position as reported in the headline.",
+      "replacement": "**[Exclusive Report] Hunter Go Jun (Current Ares Vice Guild Master) and 25 Others Confirmed Dead; Total Casualties Around 500**",
+      "severity": "critical",
+      "source": "[단독 보도] 석고준 헌터(現아레스 부 길드장) 외 25명 사망 확인, 총 사상자 500여 명"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Two days had already passed since the day I remembered, and my face was plastered across the front page in enormous letters.",
+      "defect": "The source says an enormous image of his face occupied the front page; “in enormous letters” incorrectly turns the photograph into text.",
+      "id": "F02",
+      "rationale": "대문짝만하게 describes the huge size of his pictured face, not the typography of the accompanying headline.",
+      "replacement": "Two days had already passed since the day I remembered, and an enormous photo of my face was plastered across the front page.",
+      "severity": "major",
+      "source": "기억 속 그날로부터 벌써 이틀이 지나 있었고, 1면에는 대문짝만하게 내 얼굴이 박혀 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "**[Editorial by Lee Kanghee—Jin Taekyung: The Hero’s Hidden Side. The Devil’s Face.]**",
+      "defect": "The draft turns 주필, Lee Kanghee’s senior editorial title, into a generic article label and thereby removes his institutional authority.",
+      "id": "F03",
+      "rationale": "주필 denotes the newspaper’s chief editorial writer, not merely the fact that the text is an editorial.",
+      "replacement": "**[Chief Editorial Writer Lee Kanghee—Jin Taekyung: The Hero’s Hidden Side. The Devil’s Face.]**",
+      "severity": "major",
+      "source": "[이강희 주필 - 진태경. 영웅의 뒷면. 악마의 앞면.]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“…”\n\n“Hunter Jin Taekyung?”",
+      "defect": "Taekyung’s faint spoken “Ah” is omitted, leaving only silence and losing his immediate, disoriented reaction.",
+      "id": "F04",
+      "rationale": "The source includes an audible 아 before the President calls to him.",
+      "replacement": "“Ah…”\n\n“Hunter Jin Taekyung?”",
+      "severity": "minor",
+      "source": "“……아.”\n\n“진태경 헌터?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Michelangelo’s The Creation.*",
+      "defect": "The established rendering for 천지창조 is incomplete.",
+      "id": "F05",
+      "rationale": "The binding terminology ledger specifies “The Creation (The Genesis)” for this exact title.",
+      "replacement": "*Michelangelo’s The Creation (The Genesis).*",
+      "severity": "minor",
+      "source": "‘미켈란젤로의 천지창조.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I get that Lord Sibu-leol went to Ares Guild headquarters, but isn’t calling it a “storming” a bit much?",
+      "defect": "“Calling it a storming” is an unnatural nominalization and obscures that the commenter is disputing the verb used to characterize Taekyung’s entrance.",
+      "id": "F06",
+      "rationale": "쳐들어갔다고 표현하는 건 questions whether describing his action as storming the headquarters is excessive.",
+      "replacement": "I get that Lord Sibu-leol went to Ares Guild headquarters, but isn’t saying he “stormed the place” a bit much?",
+      "severity": "minor",
+      "source": "근데 시부럴좌가 아레스 길드 본사 찾아간 건 알겠는데, 쳐들어갔다고 표현하는 건 오바 아님?"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters Go Jun’s stated title, misdescribes the front-page photograph, omits a vocal reaction, drops an editorial title, and has two localized terminology or phrasing issues.",
+  "version": 1
+}

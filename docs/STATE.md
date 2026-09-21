@@ -1,33 +1,32 @@
 # Translation State
 
-- Last completed: 595
-- Next chapter: 596
-- Current block: 595–599 (1/5)
-- Latest translation: `translations/0595.md`
-- Latest summary: `summaries/beats/0595.md`
-- Safe profiles through: chapter 595
+- Last completed: 596
+- Next chapter: 597
+- Current block: 595–599 (2/5)
+- Latest translation: `translations/0596.md`
+- Latest summary: `summaries/beats/0596.md`
+- Safe profiles through: chapter 596
 
 ## Current Block
 
-- Exhausted after killing Go Jun, Jin Taekyung exits Area A and encounters more than two hundred Ares Guild members. Go Se-won kills a loyalist executive, orders the remaining members to subdue the loyalists, and allows Jin to leave after admitting that thirty years of serving Ares as a hunting dog had become too much.
-- Jin reaches the devastated Ares Guild headquarters, where President Baek Hanseong accepts an unspecified demand in exchange for Jin's peaceful surrender. Song Song and Im Kkeokjeong catch Jin when his legs give out, confirm that his family has been moved to safety, and report that Choi Minwoo remains unconscious.
-- The Skeleton King leads Jin into the morgue, where he says farewell to Kim Hwajong. Jin places Go Jun's severed head beside Kim's body as an act of retribution and collapses from physical and emotional exhaustion while his companions resolve to protect him from the consequences.
+- The aftermath of Jin Taekyung's solo assault on Ares Guild headquarters ignites a worldwide crisis. Go Jun and twenty-five others are confirmed dead, total casualties number around five hundred, and Jin's brief public statement is cut off at the Blue House's request. Go Se-won turns himself in, subdues the remaining loyalist executives, and testifies that Go Jun caused the two monster waves, helping clear Jin of most charges.
+- After two days unconscious in Team Leader Choi's mansion, Jin awakens physically recovered but overwhelmed by the confirmed death of Kim Hwajong. President Baek Hanseong explains the aftermath and says Go Se-won wants to meet Jin to repay his debt. A blond foreigner then enters without knocking and announces that Jin has awakened.
 
 ## Open Questions
 
-- What caused Cheon Taemin's collapse, and what happened during his more than twenty years of unconsciousness?
-- Is Cheon Taemin actually being kept in Area A of Ares Guild headquarters?
-- What is inside Area A, and what is the unidentified being involved in Go Jun's plan?
-- What was the object Song Cheonwoo kept in his pocket, and what did its release of darkness and light accomplish?
-- What is the black jewel in Go Jun's necklace, and what function does it serve?
+- Has Choi Minwoo regained consciousness, and has Kim Hwajong's funeral begun?
+- Who is the blond foreigner, and whom was he addressing when he announced Jin's awakening?
+- What caused Cheon Taemin's collapse, what happened during his more than twenty years of unconsciousness, and where is he being kept?
+- What is inside Area A, and what unidentified being was involved in Go Jun's plan?
+- What were the functions of Song Cheonwoo's pocketed object and the black jewel in Go Jun's necklace?
 
 ## Exceptional Decision
 
-- Use Area A for A구역, White Flame for 백염, Flamefire Path for 염화일로, Tower Shield for 타워 실드, and hellfire for 겁화.
-- Use Scorching Yang Qi for 열양지기 and Force for 강기; distinguish Sword Energy from Aura when the source contrasts them, and use Aura Blade for 오러 블레이드.
-- Use Seizing an Object Through Empty Space for 허공섭물, Flame Divine Palm for 화염신장, Finger Qi for 지풍, and grappling technique for 금나수.
-- Use hunting dog for 사냥개, impregnable fortress for 철옹성, Morgue for 영안실, and Skeleton King for 스켈레톤 킹.
-- Use Executive Director for 전무 and Managing Director for 상무 in Ares Guild's executive hierarchy; render 마력 as demonic energy, and use Troll for 트롤, Mutation for 변이, and Named Monster for 네임드 몬스터.
+- Use Area A for A구역, Capital Defense Command for 수도방위사령부, and Ares Guild Headquarters for 아레스 길드 본사.
+- Use Lord Fuck and Lord Sibu-leol for 시벌좌 and 시부럴좌.
+- Use special detention center for 특별 구치소 and Team Leader Choi's mansion for 최 팀장의 저택.
+- Use Mr. Go for 고 모씨 and Lee Kanghee for 이강희.
+- Use Chief Editorial Writer for 주필 and the death penalty for 사형 집행 제도.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
