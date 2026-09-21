@@ -1931,3 +1931,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 알라 | **Allah** | Deity invoked by the Middle Eastern terrorist groups' rhetoric. |
 | 아프리카 | **Africa** | Region where terrorist organizations are reportedly conducting Gate and Magic Gem experiments. |
 | 중동 | **Middle East** | Region associated with the terrorist group and reported experiments. |
+| 척 헤이글 | **Chuck Hagel** | Former-generation S-rank Hunter known as Uncle Chuck and current U.S. Secretary of Defense. |
+| 엉클 척 | **Uncle Chuck** | Chuck Hagel's Hunter epithet. |
+| 스카이 | **Sky** | American epithet for Cheon Taemin. |
+| 모세 | **Moses** | Figurative comparison for Chuck Hagel carrying a cigar instead of a staff. |
+| 스미스 | **Smith** | Pentagon employee using an electronic cigarette. |
+| 고든 | **Gordon** | Pentagon employee tasked with repairing smashed warning lights. |
+| 도널드 도람프 주니어 | **Donald Doramp Jr.** | President of the United States. |
