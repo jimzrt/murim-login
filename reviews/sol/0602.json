@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Was decapitating Go Jun ten days ago legal?”",
+      "defect": "The idiom 모가지를 따다 means to kill someone here; it does not establish literal decapitation and therefore changes the method of Go Jun’s death.",
+      "id": "F01",
+      "rationale": "The source refers colloquially to Taekyung killing Go Jun without specifying beheading.",
+      "replacement": "“Was killing Go Jun ten days ago legal?”",
+      "severity": "critical",
+      "source": "“열흘 전에 석고준 모가지 딴 건 합법이었냐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At my question, Team Leader Choi clicked his tongue.",
+      "defect": "The draft substitutes a tongue click for the stated physical action of smacking his lips.",
+      "id": "F02",
+      "rationale": "입맛을 다시다 describes smacking or licking one’s lips, not clicking one’s tongue.",
+      "replacement": "At my question, Team Leader Choi smacked his lips.",
+      "severity": "critical",
+      "source": "내 질문에 최 팀장이 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Just because the headquarters fell, don’t make the mistake of thinking the entire Ares Guild is full of idiots.",
+      "defect": "The draft changes Kim’s claim from the Guild being treated as helpless or useless to its members being considered unintelligent.",
+      "id": "F03",
+      "rationale": "병신으로 보다 concerns dismissing the Guild as crippled or incapable in this military context, not believing it is populated by idiots.",
+      "replacement": "“Just because headquarters fell, don’t make the mistake of thinking the entire Ares Guild is helpless.",
+      "severity": "major",
+      "source": "“본사가 무너졌다고 해서, 아레스 길드 전체를 병신으로 보면 곤란하지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Are you feeling unwell? You’re sweating.”",
+      "defect": "The draft omits that Hong is visibly breaking out in a cold sweat, a pragmatic cue showing fear rather than ordinary heat.",
+      "id": "F04",
+      "rationale": "식은땀 specifically means cold sweat and supports Choi’s pointed intimidation.",
+      "replacement": "“Are you feeling unwell? You’re breaking out in a cold sweat.”",
+      "severity": "minor",
+      "source": "“혹시 몸이 안 좋으십니까? 식은땀을 흘리시는데.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I can’t listen to this anymore.”",
+      "defect": "The draft turns the stated reason—finding the exchange unpleasant or intolerable—into a generic claim that he has listened long enough.",
+      "id": "F05",
+      "rationale": "불편해서 explicitly attributes his refusal to discomfort or displeasure, while the source contains no temporal ‘anymore’ cue.",
+      "replacement": "“This is too unpleasant to listen to.”",
+      "severity": "minor",
+      "source": "“불편해서 못 들어 주겠군.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The conference room was being maintained at a comfortable temperature through Magic, but half the executives were breathing heavily as if they had entered a wet sauna.",
+      "defect": "“Wet sauna” is an unnatural literal rendering in contemporary US English.",
+      "id": "F06",
+      "rationale": "습식 사우나 naturally corresponds to a steam room in English.",
+      "replacement": "The conference room was being maintained at a comfortable temperature through Magic, but half the executives were breathing heavily as if they had stepped into a steam room.",
+      "severity": "minor",
+      "source": "회의실 내부는 마법에 의해 딱 좋은 온도를 유지하고 있었지만, 중역 중 절반은 습식 사우나에 들어온 것처럼 더운 숨을 내뱉고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "An old, weary voice slipped through his dry lips.",
+      "defect": "The draft adds weariness that the source does not state.",
+      "id": "F07",
+      "rationale": "늙수그레한 describes an elderly or aged quality, not fatigue.",
+      "replacement": "An aged voice slipped through his dry lips.",
+      "severity": "minor",
+      "source": "마른 입술 사이로 늙수그레한 목소리가 흘러나온다."
+    }
+  ],
+  "summary": "Two action-level mistranslations and several localized meaning, register, and natural-English issues require correction.",
+  "version": 1
+}

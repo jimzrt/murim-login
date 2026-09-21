@@ -1919,3 +1919,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 119사태 | **January 19 Incident** | Name of the crisis involving the two artificially induced monster waves. |
 | 박대원 | **Park Daewon** | Senior Ares Guild executive who became its acting head after Go Jun's death. |
 | 김광필 | **Kim Gwangpil** | Ares Guild Managing Director referred to as Managing Director Kim. |
+| 김 지사장 | **Director Kim** | Ares Guild director responsible for the Asian region. |
+| 백 전무 | **Executive Director Baek** | Ares Guild executive who initially resists Choi Minwoo. |
