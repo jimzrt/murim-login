@@ -1927,3 +1927,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 경상도 | **Gyeongsang-do** | Region used in Taekyung's joke about the word Mundi. |
 | 제이콥 | **Jacob** | Black reporter covering the Texas Gate incident. |
 | 제니 | **Jenny** | East Asian news anchor interviewing Jacob. |
+| 펜타곤 | **Pentagon** | Headquarters of the United States Department of Defense and source of intelligence about terrorist experiments. |
+| 알라 | **Allah** | Deity invoked by the Middle Eastern terrorist groups' rhetoric. |
+| 아프리카 | **Africa** | Region where terrorist organizations are reportedly conducting Gate and Magic Gem experiments. |
+| 중동 | **Middle East** | Region associated with the terrorist group and reported experiments. |

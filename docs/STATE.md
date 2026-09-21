@@ -1,33 +1,30 @@
 # Translation State
 
-- Last completed: 605
-- Next chapter: 606
-- Current block: 605–609 (1/5)
-- Latest translation: `translations/0605.md`
-- Latest summary: `summaries/beats/0605.md`
-- Safe profiles through: chapter 605
+- Last completed: 606
+- Next chapter: 607
+- Current block: 605–609 (2/5)
+- Latest translation: `translations/0606.md`
+- Latest summary: `summaries/beats/0606.md`
+- Safe profiles through: chapter 606
 
 ## Current Block
 
-- Magic Johnson arrived in Korea and learned that Cheon Taemin had survived for more than twenty years in a comatose state. He used Teleport to move Taemin and the others from Ares Guild's Area A to Taemin's former mansion, where he installed extensive defensive, environmental, and concealment magic.
-- Magic Johnson confirmed that the mansion would withstand deliberate attacks by a Grand Mage of his level or two or three S-rank Hunters, and that most S-rank Hunters would be unable to detect Taemin's existence or location. He suspected that another Grand Mage might know who created the secret space and its extraordinary magic, so he planned to consult the other Grand Mages.
-- Team Leader Choi was left alone with Taemin after the more-than-twenty-year reunion, while Jin Taekyung, Magic Johnson, and the Skeleton King withdrew. Taekyung and Magic Johnson encouraged Choi that Taemin could still be saved, while the Skeleton King's attempted Death Knight consolation was met with horrified opposition.
-- After eating two bowls of blood sausage gukbap, Magic Johnson revealed that the Texas incident reported as a Mutated Gate had not actually been a Mutated Gate.
+- Magic Johnson explains that the Texas incident was a terrorist attack, not a Mutated Gate: a B-rank Hunter affiliated with a Middle Eastern terrorist group tried to absorb an unpurified A-grade Magic Gem after being caught with a forged Hunter license, but his body exploded before he could cause a monster wave. No significant casualties occurred, though terrorist organizations are reportedly experimenting with Gates and Magic Gems in Africa and the Middle East. The Pentagon has formally requested Jin's advice and assistance, so Magic Johnson, Jin, and Team Leader Choi prepare to go there, while Jin hesitates over an undisclosed plan he had been preparing for himself and others.
 
 ## Open Questions
 
 - What caused Cheon Taemin's unconscious state and how can he be awakened?
 - Who created the Area A secret space and its unusually advanced magic?
 - Did another Grand Mage know about or assist with Taemin's confinement?
-- What was the true nature of the Texas Gate incident?
 - What debt does Go Se-won intend to repay to Jin Taekyung, and how will the authorities resolve Jin's charges?
+- What course of action has Jin been preparing, and will the terrorist threat change his decision?
 
 ## Exceptional Decision
 
 - Use maternal grandfather for 외조부 and 외할아버지.
 - Use Team Leader Choi for 최 팀장.
 - Use Mutated Gate for 변이 게이트.
-- Retain Ppoppo as Korean baby-talk for a kiss.
+- Use Pentagon for 펜타곤 and retain Ppoppo as Korean baby-talk for a kiss.
 - Use Grand Mage for 대마도사.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained

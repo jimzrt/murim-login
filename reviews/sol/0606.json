@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“It wasn’t a Mutated Gate? What the hell does that mean?”",
+      "defect": "The draft turns internal narration into dialogue spoken aloud, changing the scene action.",
+      "id": "F01",
+      "rationale": "The unquoted Korean is Jin’s internal reaction, not a spoken line.",
+      "replacement": "*It wasn’t a Mutated Gate? What the hell was that supposed to mean?*",
+      "severity": "critical",
+      "source": "변이 게이트가 아니라니. 이건 또 무슨 소리야?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Fortunately, there weren’t any significant casualties.",
+      "defect": "The draft narrows 피해, which covers harm or damage generally, to casualties alone.",
+      "id": "F02",
+      "rationale": "Magic Johnson says there was no significant damage, not merely that no one was killed or injured.",
+      "replacement": "By sheer luck, there wasn’t any significant damage.",
+      "severity": "major",
+      "source": "천만다행으로 별다른 피해는 없었어."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The real problem was the temporary explosion of power that resulted from it.",
+      "defect": "“Explosion of power” is misleading beside the later literal explosion and does not accurately convey 폭증, a rapid surge or spike.",
+      "id": "F03",
+      "rationale": "The source describes power increasing explosively, not an actual explosion at this point.",
+      "replacement": "The real problem was the temporary surge in power it caused.",
+      "severity": "minor",
+      "source": "진정한 문제는 그로 인해 일시적으로 폭증하는 힘."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Not in terms of a person’s character or capacity, but in terms of how much power they could contain and keep from overflowing.",
+      "defect": "Rendering 도량 as “capacity” blurs the source’s explicit contrast between figurative personal caliber and literal capacity to contain power.",
+      "id": "F04",
+      "rationale": "Here 도량 means breadth of character or mind; the following clause supplies the separate, mechanical sense of capacity.",
+      "replacement": "Not in terms of a person’s character or breadth of mind, but in terms of how much power they could contain without letting it overflow.",
+      "severity": "major",
+      "source": "한 사람의 성격이나 도량을 논하는 것이 아니라, 얼마나 많은 힘을 품고 흘러넘치지 않게 유지할 수 있냐는 측면에서 그렇다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "It was fortunate that the terrorist attack had caused no casualties, but an even greater relief was that it had prevented a possible future disaster.",
+      "defect": "The draft again narrows 피해 to casualties and turns the broader deterrence of subsequent incidents into one singular future disaster.",
+      "id": "F05",
+      "rationale": "The source refers broadly to the lack of damage and to preventing possible situations that might otherwise arise afterward.",
+      "replacement": "It was fortunate that the terrorist attack had caused no damage, but the greater relief was that it would deter similar incidents in the future.",
+      "severity": "major",
+      "source": "이번 테러로 피해가 발생하지 않은 것도 다행이지만, 그보다 더 안도할 만한 일은 뒤에 벌어질 만약의 사태를 예방했다는 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They had pointlessly lost both a valuable asset and a Magic Gem worth tens of billions.",
+      "defect": "The monetary quantity is inflated: 수십억 means several billion or simply billions, not tens of billions.",
+      "id": "F06",
+      "rationale": "The replacement preserves the stated magnitude and the sense that the gem readily commands that price.",
+      "replacement": "They had thrown away a valuable asset and a Magic Gem easily worth billions.",
+      "severity": "critical",
+      "source": "훌륭한 재원과 수십억을 우습게 호가하는 마정석을 허무하게 잃어버린 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Actually, the activities of terrorist organizations have been unusual lately.",
+      "defect": "“Unusual” understates 심상치 않아, which signals that their recent movements are alarming or ominous.",
+      "id": "F07",
+      "rationale": "The source conveys danger and cause for concern, supporting the subsequent warning not to lower their guard.",
+      "replacement": "Actually, terrorist organizations have been making some alarming moves lately.",
+      "severity": "major",
+      "source": "사실 요즘 테러 단체의 움직임이 심상치 않아."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The surviving strong had reassembled the world according to their own rules, and conflicts that everyone had thought were over continued even now.",
+      "defect": "“The surviving strong” is an unnatural nominal construction in contemporary English.",
+      "id": "F08",
+      "rationale": "This preserves the surviving 강자 as a group while producing natural commercial prose.",
+      "replacement": "The powerful survivors had rebuilt the world according to their own rules, and conflicts everyone had thought were over still continued to this day.",
+      "severity": "minor",
+      "source": "살아남은 강자들은 자신들만의 규칙으로 세상을 재조립했고 끝난 줄 알았던 분쟁은 지금까지도 이어지고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "They considered Awakenings a blessing from God and shoved them forward as proof that God existed.",
+      "defect": "The plural “Awakenings” and the calque “shoved them forward” are awkward and obscure the argument being described.",
+      "id": "F09",
+      "rationale": "The source refers to awakening as a phenomenon that the groups present as evidence of God.",
+      "replacement": "They considered awakening a blessing from God and held it up as proof of God’s existence.",
+      "severity": "minor",
+      "source": "그들은 각성을 신의 축복으로 여겼으며, 신이 존재한다는 증거 그 자체로 들이밀었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "I had agreed automatically, but then I felt the flow of mana circulating through Magic Johnson’s staff and made a reluctant face.",
+      "defect": "“Made a reluctant face” is not idiomatic English and misstates 떨떠름한, which describes an uneasy or uncomfortable expression rather than the act of reluctance.",
+      "id": "F10",
+      "rationale": "Jin becomes uncomfortable when he realizes Johnson is activating the staff.",
+      "replacement": "I had agreed automatically, but then I felt the mana circulating through Magic Johnson’s staff, and my expression turned uneasy.",
+      "severity": "minor",
+      "source": "반사적으로 맞장구친 나는, 매직 존슨의 스태프를 향해 순환되는 마나의 흐름을 느끼고 떨떠름한 표정을 지었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one scene-action reversal, repeated narrowing of damage to casualties, an altered monetary quantity, and several localized mechanism, register, and English-usage issues.",
+  "version": 1
+}

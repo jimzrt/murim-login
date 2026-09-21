@@ -1012,3 +1012,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 최 팀장 | Grand Mage ally to Team Leader Choi | Choi | familiar, playful, and demanding | Magic Johnson repeatedly addresses Choi while insisting on Ppoppo. |
 | 매직 존슨 | 진태경 | Grand Mage ally to younger Hunter | Jin | familiar and informal | Magic Johnson addresses Taekyung as 진 while discussing the covert transfer. |
 | 스켈레톤 킹 | 최 팀장 | undead ally to human ally | Choi | casual and teasing | The Skeleton King asks Choi whether they are going to a club after the work is finished. |
+| 매직 존슨 | 진 | trusted ally and collaborator | Jin | informal | Magic Johnson repeatedly addresses Jin by name while discussing the terrorist incident and Pentagon request. |
+| 진 | 존슨 | trusted ally and collaborator | Johnson | polite | Jin addresses Magic Johnson as 존슨 during their discussion and banter. |
+| 최 팀장 | 존슨 | ally and senior foreign contact | Mr. Johnson | formal and polite | Team Leader Choi formally answers Magic Johnson at the end of the chapter. |
