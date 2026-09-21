@@ -1027,3 +1027,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 도람프 대통령 | 매직 존슨 | president_to_advisor | Mr. Johnson | formal and professional | The President asks Johnson to confirm Jin's supposed return to Korea. |
 | 매직 존슨 | 최 팀장 | senior_ally_to_team_leader | Choi | casual and familiar | Johnson asks whether Choi is ready to depart. |
 | 불청객 | 핫산 | unknown_intruder_to_subordinate | Hassan | commanding and informal | The intruder orders Hassan to stand straight. |
+| 무함마드 | 진태경 | terrorist_leader_to_enemy_Hunter | Jin Taekyung | fearful and deferential | Muhammad names Jin after recognizing him and pleads with him during the confrontation. |
+| 진태경 | 무함마드 | enemy_Hunter_to_terrorist_leader | you; apostate bastard | taunting, then cold and condemning | Jin interrogates and denounces Muhammad before forcing him to issue the order. |
+| 척 헤이글 | 무함마드 | allied_operative_to_captured_terrorist_leader | you; terrorist bastard | rough, profane, and coercive | Chuck explains Muhammad's impending death and offers the less painful alternative of cooperation. |
