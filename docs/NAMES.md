@@ -1953,3 +1953,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 오마르 알 후세인 | **Omar al-Hussein** | Leader of a Sunni faction captured during the campaign. |
 | 알 디아브 자와히리 | **Al Diab Jawahiri** | Leader of Al-Qaeda. |
 | 알 카에다 | **Al-Qaeda** | The terrorist organization led by Al Diab Jawahiri. |
+| 김 계장 | **Section Chief Kim** | Jin-ho's antagonistic superior in the Hunter and Gate Management Department. |
+| 아프가니스탄 | **Afghanistan** | Country whose rebel forces issued a joint statement with Middle Eastern terrorist groups. |
+| 소라 아오이 | **Sora Aoi** | Hypothetical deputy minister in Taekyung's pornography-department joke. |
+| 키라라 아스카 | **Asuka Kirara** | Hypothetical spokesperson in Taekyung's pornography-department joke. |
+| 폰허브 | **Pornhub** | Website referenced in Taekyung's joke about Jin-ho. |
