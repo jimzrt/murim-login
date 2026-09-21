@@ -20,13 +20,11 @@ The fire dragon’s claw raked the earth.
 
 A deafening roar split the sky. The ground caved in several meters deep, sending dirt and shattered stone flying in every direction.
 
-A whirlwind of hot air that erupted in the middle of the battlefield transformed into blades and swept across the monsters.
+A whirlwind of scorching air erupted from the center of the battlefield and tore through the monsters like a blade.
 
 Fwoooosh!
 
-> **System**
->
-> Ding. Ding. Ding…
+Ding. Ding. Ding…
 
 Green blood pattered down through the dust-filled haze as System notifications announced the monsters’ deaths.
 
@@ -44,7 +42,7 @@ And then—
 
 “Waaaaaaaaah!”
 
-Along with an ear-deafening roar, more than a thousand Hunters who had arrived before I knew it descended on the monster army like a wave.
+A deafening roar answered me as the thousand or so Hunters who had already closed in crashed over the monster army like a wave.
 
 Crunch!
 
@@ -62,9 +60,9 @@ For the sake of my precious EXP. No—for the sake of minimizing allied casualti
 
 “That one’s the leader! Ranged unit!”
 
-“Hey, hey! Hands off! I’ll handle it, so don’t touch a single hair on its head!”
+“Hey, hey! Hands off! I’ll handle it, so don’t touch a single hair on it!”
 
-I swear to heaven, I didn’t have even the slightest ulterior motive.
+I swore to heaven, I didn’t have the slightest ulterior motive.
 
 …
 
@@ -74,7 +72,7 @@ Well, on second thought, there was probably no need to swear.
 
 “Shut up and do your job, will you? Hurry up and make the undead slaughter their own kind.”
 
-“I was already going to. Grow, skeletons, gro—huh?”
+“I was already going to. Rise, my sea of skeletons… Huh?”
 
 “What’s wrong?”
 
@@ -100,7 +98,7 @@ Shao Shen shouted, his face flushed red. Team Leader Choi and I had already seen
 
 *Well, I suppose he has reason to be excited.*
 
-It had taken barely two hours to annihilate an army of more than a thousand monsters.
+It had taken barely two hours to annihilate an army of roughly a thousand monsters.
 
 And we had done it without a single death. It really was a monumental victory. Under the circumstances, it would have been stranger not to get excited.
 
@@ -108,25 +106,25 @@ And we had done it without a single death. It really was a monumental victory. U
 
 Shao Shen trembled like a puppy desperate to pee and looked at me with shining eyes.
 
-“How can this happen every time?”
+“How do you manage this every time?”
 
 “Hmm. Maybe it’s because I’m strong.”
 
 Team Leader Choi gave me a mildly incredulous look.
 
-“Why?”
+“What?”
 
 “Wouldn’t most people say something modest at a time like this? That they were lucky, for example?”
 
 “Most people would. But what can I do when it wasn’t luck? I really am that strong. Right, Shen?”
 
-Shao Shen nodded at tremendous speed.
+Shao Shen nodded furiously.
 
 “That’s right! You’re the best, hyung!”
 
 “You rascal. Truly a model flatterer.”
 
-……
+“…”
 
 Team Leader Choi shook his head as he watched us play off each other.
 
@@ -134,7 +132,7 @@ Team Leader Choi shook his head as he watched us play off each other.
 
 “Nothing. Then again, this is very much like you, Mr. Jin.”
 
-What was that supposed to mean? Somehow, it sounded unpleasant.
+What was that supposed to mean? Somehow, it sounded insulting.
 
 I shrugged and turned to Shao Shen.
 
@@ -144,9 +142,9 @@ I shrugged and turned to Shao Shen.
 
 By “contacted,” he meant that he had sent several Hunters under his command ahead as messengers.
 
-In a world like this, one might wonder why anyone was still using messengers, but there was no choice. With magic making communication and satellite surveillance impossible, our only options were to run like hell or use vehicles.
+You might wonder why anyone still needed messengers in this day and age, but we had no choice. With magic disrupting both communications and satellite surveillance, our only options were to run like hell or use vehicles.
 
-At least we still had various modern conveniences, including flares.
+At least we still had modern conveniences like signal flares.
 
 “They’ll take a while, then.”
 
@@ -154,7 +152,7 @@ At least we still had various modern conveniences, including flares.
 
 “You’re probably tired, but pitch some tents and let the men rest. The battle ended quickly, but fighting still takes everything out of you.”
 
-“Shouldn’t we take care of at least the large monsters ourselves? They’d probably be difficult for headquarters to move…”
+“Shouldn’t we handle the larger monsters ourselves? They’d probably be difficult for headquarters to move…”
 
 “That’s a fair point.”
 
@@ -170,9 +168,9 @@ It was cleaning in the literal sense. The army assigned to the western front spe
 
 “Yeah? What is it?”
 
-“I was too embarrassed to mention this before, but… it seems some of the high-ranking officers have been saying various things.”
+“I was too embarrassed to mention this before, but… it seems some of the high-ranking officers have been complaining.”
 
-“Saying what?”
+“Complaining about what?”
 
 Shao Shen studied my expression before whispering cautiously.
 
@@ -210,13 +208,13 @@ I frowned and pointed over Shao Shen’s shoulder.
 
 “Does that ‘some’ include the man coming this way?”
 
-In the distance, more than a hundred armored vehicles and tanks were approaching us, kicking up clouds of dust.
+In the distance, more than a hundred armored vehicles and tanks were approaching, kicking up clouds of dust.
 
 * * *
 
 Rattle, clunk!
 
-The vehicle driving along the ruined road bounced up and down. Through the window of the military vehicle I was sitting in, I began to see wrecked rice paddies and fields, along with collapsed homes scattered here and there.
+The vehicle bounced up and down along the ruined road. Through the window, I began to see devastated rice paddies and fields, with collapsed homes scattered here and there.
 
 Once the cleanup was finished, I—or rather, *we*—set off for a nearby small city.
 
@@ -226,7 +224,7 @@ A paunch even his tightly fastened belt couldn’t hide. A bald crown gleaming b
 
 If not for his military uniform and the three stars on his shoulders, I would never have had any reason to meet the middle-aged man sitting before me.
 
-“I contacted the higher-ups this morning, as it happens. Your victory report has thrown not only the United Nations Security Council but the entire world into an uproar! I don’t know what it means, but apparently Korea calls today the Lady of the House’s memorial day….”[^1]
+“As it happens, I managed to contact the higher-ups this morning. News of your victories has thrown not only the United Nations Security Council but the entire world into an uproar! I don’t know what it means, but apparently people in Korea are calling today the Lady of the House’s memorial day…”
 
 I had heard enough of his nonstop nonsense. Unable to take any more, I cut him off.
 
@@ -244,7 +242,7 @@ General Liao, commander in chief of the 13th Group Army of the Chengdu Military 
 
 “Right. What I wanted to ask was…”
 
-I continued while staring at General Liao’s greasy, glistening face.
+I stared at General Liao’s greasy, glistening face.
 
 “I heard some officers are extremely dissatisfied because they want to distinguish themselves. I was wondering if you knew anything about that.”
 
@@ -270,7 +268,7 @@ Still, he was technically an ally and a three-star general from another country.
 
 “If there are officers like that, tell them to come see me. I’ll put Equipment on them and send them to the very front. They’d make perfect meat shields—”
 
-I suddenly stopped in the middle of my tirade. Cold sweat was pouring from General Liao’s forehead like water from a sprinkler.
+I stopped in the middle of my tirade. Cold sweat was pouring from General Liao’s forehead like water from a sprinkler.
 
 “…”
 
@@ -288,7 +286,7 @@ Crack.
 
 At the sight of me popping my knuckles, General Liao hurriedly waved his hands.
 
-“Now, now! Let’s not use informal speech with each other. Considering both my age and my rank, I’m not someone who should be treated this way by you, Mr. Jin.”
+“N-now, now! Let’s not speak so disrespectfully to each other. Considering my age and rank, I am not someone who should be treated this way by you, Mr. Jin.”
 
 “How about I treat you to a bowl upside the head?”
 
@@ -298,9 +296,9 @@ At the sight of me popping my knuckles, General Liao hurriedly waved his hands.
 
 “…”
 
-Why was this man reacting like that?
+Why was he reacting like that?
 
-The moment I saw General Liao’s eyes rolling around instead of answering, a chill ran down my spine.
+The moment I saw General Liao’s eyes darting around instead of answering, a chill ran down my spine.
 
 *No way…*
 
@@ -312,7 +310,7 @@ The moment I saw General Liao’s eyes rolling around instead of answering, a ch
 
 Bang!
 
-My kick tore the armored door from its hinges. The driver in the front seat hurriedly slammed on the brakes.
+My kick tore the armored door from its hinges. The driver in the front seat slammed on the brakes.
 
 Screeeech!
 
@@ -333,5 +331,3 @@ And then—
 Ding.
 
 A System notification announced a Sudden Quest.
-
-[^1]: In Korean internet slang, the “Lady of the House” is a tavern proprietress; calling a day her memorial day is a joke about celebrating a victory with drinks.

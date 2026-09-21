@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Hot blood sprayed from severed necks in the wake of the Force.",
+      "defect": "The English replaces the source image of necks shooting upward with the different image of blood spraying from already-severed necks.",
+      "id": "F01",
+      "rationale": "솟구치는 목들과 함께 describes necks surging upward together with the spurting blood; it is a specific physical image, not merely an indication that the necks were severed.",
+      "replacement": "Hot blood spurted alongside necks shooting into the air wherever the Force brushed past.",
+      "severity": "minor",
+      "source": "Lines 7–8"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Your scheme to claim the spoils is plain to see.",
+      "defect": "“Spoils” broadens 부산물 into general war loot and loses the specific reference to the monster byproducts the character is trying to claim.",
+      "id": "F02",
+      "rationale": "The same source term 부산물 is explicitly used later for the material collected from monster corpses, so the narrower term is required for the joke and continuity of motive.",
+      "replacement": "Your scheme to claim the byproducts is plain to see.",
+      "severity": "minor",
+      "source": "Lines 75–77"
+    }
+  ],
+  "summary": "Two source-fidelity defects remain: the opening attack loses the image of necks shooting upward, and 부산물 is generalized from monster byproducts to “spoils.”",
+  "version": 1
+}
