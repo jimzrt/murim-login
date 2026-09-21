@@ -998,3 +998,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 박대원 | 최민우 | acting_Ares_head_to_prospective_Guild_claimant | Team Leader Choi, then Mr. Choi | formal and hesitant | Initially uses Choi's title before switching to his name while asking for more time. |
 | 김광필 | 백 전무 | Ares Guild executives in opposing factions | Executive Director Baek | hostile, confrontational, and profane | Kim challenges Baek over joining Jin Taekyung and possible involvement in Go Jun's crimes. |
 | 최민우 | 백 전무 | prospective Ares Guild claimant to hostile executive | Executive Director Baek | formal, calm, and threatening | Choi addresses Baek while questioning the absent executives and offering him a prescription. |
+| 최민우 | 홍 이사 | prospective_Ares_Guild_head_to_Ares_executive | Director Hong | formal, gentle, and coercive | Choi singles Hong out while implying that he knows compromising information about him. |
+| 최민우 | 김 지사장 | prospective_Ares_Guild_head_to_resistant_regional_director | Director Kim | formal, calm, and threatening | Choi openly admits that he is threatening the executives and intends to take over Ares Guild. |
+| 진태경 | 김 지사장 | allied_Hunter_to_resistant_Ares_director | asshole / you fucking bastard | hostile, profane, and deliberately intimidating | Taekyung pretends to prepare for violence when Director Kim challenges their authority. |
