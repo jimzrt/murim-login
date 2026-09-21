@@ -1004,3 +1004,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 비서실장 | 백한성 | chief_secretary_to_President | Mr. President | formal and deferential | Calls Baek Hanseong 각하 while reporting the Guild Association's request. |
 | 경호처장 | 백한성 | Presidential_Security_Service_chief_to_President | Mr. President | formal and deferential | Addresses Baek Hanseong as 각하 while responding to his request to leave the Blue House. |
 | 골골 | 진태경 | subordinate_undead_to_captor_and_master | human | mocking, reluctant, and familiar | Calls Jin 인간 and 간악한 인간 while complaining about being deceived into searching Area A. |
+| 최 팀장 | 천태민 | grandson_to_maternal_grandfather | Grandfather | formal, intimate, and reverent | Team Leader Choi addresses the unconscious Cheon Taemin after finding him in the hidden capsule. |
