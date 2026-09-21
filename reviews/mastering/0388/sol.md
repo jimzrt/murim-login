@@ -28,7 +28,7 @@ His broken bones and torn flesh had healed thanks to the high-grade potion, but 
 
 He couldn’t believe it. No matter how agitated he had been, how could he—an S-rank Hunter—have been toyed with so thoroughly?
 
-The fact that Jin Taekyung had seen through his martial arts was shocking, but Wu Heixing took even greater offense at the defeat itself. He had always been fiercely proud of the power he possessed.
+Being exposed as a martial artist had come as a shock, but for a man who took such immense pride in his own strength, the defeat itself struck even harder.
 
 *Me? Me, of all people?*
 
@@ -36,7 +36,7 @@ Wu Heixing had been born with the destiny of a Hunter.
 
 As an infant, his potential had been confirmed through an extraordinarily expensive mana aptitude test, and his family, part of the highest ranks of the Chinese Communist Party, had spared no expense in supporting him.
 
-Enormous wealth and power accumulated through corruption. Raised in the finest environment with the best possible support, Wu Heixing awakened as an A-rank Hunter at the age of twenty. Ten years later, he achieved the astonishing feat of becoming an S-rank Hunter.
+They possessed enormous wealth amassed through corruption and the power to match. Raised in the finest environment with every advantage money could buy, Wu Heixing awakened as an A-rank Hunter at the age of twenty. Ten years later, he achieved the astonishing feat of becoming an S-rank Hunter.
 
 And yet…
 
@@ -60,7 +60,7 @@ There was another—the true genius. And it was precisely because of his genius 
 
 With his overwhelming strength and noble character, Lei Fei had been an insurmountable wall to Wu Heixing.
 
-How flustered—and delighted—Wu Heixing had been when he first heard that Lei Fei had disappeared.
+How shocked—and delighted—Wu Heixing had been when he first heard that Lei Fei had disappeared.
 
 But after only a week, another wall had appeared.
 
@@ -84,7 +84,7 @@ A man emerged from the darkness. Wu Heixing’s eyes widened.
 
 “You’re…?”
 
-Beneath the faint moonlight, Lee Jungryong continued with a smile.
+Beneath the faint moonlight, Lee Jungryong smiled.
 
 “I believe we have something important to discuss. What do you say?”
 
@@ -96,9 +96,9 @@ Ding.
 
 > **System**
 >
-> **Circulate Your Qi** completed!
+> **Qi Circulation** completed!
 >
-> The realm of **Fire Gate Divine Technique** has risen slightly!
+> The realm of the **Fire Gate Divine Technique** has risen slightly!
 
 By the time I finished gathering my qi and opened my eyes, the world outside was growing bright.
 
@@ -250,17 +250,17 @@ Faye Chen raised an eyebrow at my quiet mutter.
 
 “…I see.”
 
-Another battle, less than twenty-four hours after arriving.
+Another battle, less than twenty-four hours after he arrived.
 
 The word *war* suddenly made a corner of my heart clench tight.
 
-Our nationalities and upbringings were different, but knowing that human beings like me were being slaughtered somewhere made my heart heavy.
+Our nationalities and upbringings might have been different, but the thought of people just like me being slaughtered somewhere weighed heavily on me.
 
 “Hey, young man.”
 
 “Yes?”
 
-Faye Chen had been staring at me intently. She reached out and gave me a light tap on the shoulder.
+Faye Chen had been watching me. She reached out and tapped me lightly on the shoulder.
 
 “Relax your shoulders. If they’re that heavy, how are you supposed to swing your spear?”
 
@@ -278,9 +278,9 @@ I thought about it for a moment before answering honestly.
 
 “That was…”
 
-“I know. I’m joking. People like us forget the burden for a little while that way. Our lives might end tomorrow—or even today.”
+“I know. I’m joking. People like us have to forget the burden for a little while, even if that’s what it takes. We might die tomorrow—or even today.”
 
-The content didn’t match her bright voice. The hero who had made her way through the Great Cataclysm with every inch of her body looked up at the sky.
+The words didn’t match her bright voice. The hero who had fought her way through the maelstrom of the Great Cataclysm looked up at the sky.
 
 “Ah. Perfect weather for a fight.”
 
@@ -290,7 +290,7 @@ Then she left us with one quiet remark.
 
 “Let’s all… see each other alive.”
 
-Her back disappeared inside the aircraft.
+She disappeared inside the aircraft.
 
 Magic Johnson gazed up at the sky for a moment with an oddly sentimental look, then suddenly spoke.
 
@@ -302,7 +302,7 @@ Magic Johnson gazed up at the sky for a moment with an oddly sentimental look, t
 
 “…”
 
-“No, your shoulders. Let’s see each other alive again.”
+“No, your shoulders. Let’s meet again alive.”
 
 *That sounded suspiciously like his true feelings slipping out.*
 
@@ -368,7 +368,7 @@ Then—
 
 Crackle. Crrrackle.
 
-“……swer. Respond. This is……”
+“……spond. Respond. This is…”
 
 A static-filled radio transmission suddenly came from the cockpit, accompanied by an alert that pierced my ears.
 
@@ -394,7 +394,7 @@ I let out a deep sigh, then shouted toward the cockpit.
 
 The speaker was an old man in his eighties. His face was covered in wrinkles and age spots. His aged body was no longer what it had been in his youth, but his eyes held even greater power than they had back then.
 
-Even through the holographic screen, the old man’s powerful gaze could be felt. Wei Fenghu swallowed hard before answering.
+Even through the holographic screen, the force of the old man’s gaze was palpable. Wei Fenghu swallowed before answering.
 
 “They have all departed, Chairman Comrade.”
 

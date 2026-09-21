@@ -1,0 +1,65 @@
+{
+  "summary": "Mostly faithful, but several minor source-fidelity details remain: one emotional distinction, one omitted particle, and a few dropped or altered physical and metaphorical details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 31–33",
+      "current": "The fact that Jin Taekyung had seen through his martial arts was shocking, but Wu Heixing took even greater offense at the defeat itself.",
+      "defect": "The Korean says the defeat itself was a greater shock, not that Wu Heixing took greater offense at it. The current wording changes the emotional response from shock to indignation.",
+      "replacement": "The fact that Jin Taekyung had seen through his martial arts was shocking, but Wu Heixing was even more shocked by the defeat itself.",
+      "rationale": "충격이 더 컸다 describes the defeat as causing greater shock; it does not describe taking offense.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 73–79",
+      "current": "I know that feeling well.",
+      "defect": "The current line drops 나도, which explicitly means that the speaker knows the feeling too. That shared-emotion cue is part of Lee Jungryong’s response.",
+      "replacement": "I know that feeling too.",
+      "rationale": "나도 잘 알지 means “I know that feeling well too,” establishing that the speaker shares or recognizes the same feeling rather than merely knowing it generally.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 289–291",
+      "current": "The content didn’t match her bright voice. The hero who had made her way through the Great Cataclysm with every inch of her body looked up at the sky.",
+      "defect": "The Korean presents the Great Cataclysm as a vortex or maelstrom and says she fought her way through it. The current version drops that source-specific image.",
+      "replacement": "The content didn’t match her bright voice. The hero who had fought her way through the vortex of the Great Cataclysm looked up at the sky.",
+      "rationale": "대격변이라는 소용돌이를 온몸으로 헤쳐나온 contains both the vortex metaphor and the strenuous action of making one’s way through it.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 361–363",
+      "current": "Their salutes remained raised until the jet’s door closed and the aircraft dwindled to a distant speck in the sky.",
+      "defect": "The current line stops at the aircraft becoming a distant speck and omits that it disappeared from view.",
+      "replacement": "Their salutes remained raised until the jet’s door closed and the aircraft disappeared from view as a tiny, distant speck.",
+      "rationale": "까마득한 점이 되어 시야에서 사라질 때까지 explicitly includes vanishing from sight, not merely shrinking into a distant speck.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Lines 423–429",
+      "current": "He had wanted to avoid causing panic if at all possible, but if they delayed any longer, the opportunity might disappear forever.",
+      "defect": "혼란 refers to confusion, disorder, or chaos, not specifically panic. The current wording narrows the situation to an emotional reaction that the source does not establish.",
+      "replacement": "He had wanted to avoid causing chaos if at all possible, but if they delayed any longer, the opportunity might disappear forever.",
+      "rationale": "The source says Shao Yang wanted to prevent broader confusion or disorder after the disaster, rather than merely prevent public panic.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Lines 437–439",
+      "current": "Holographic figures began appearing one after another in the empty seats of the spacious conference room.",
+      "defect": "The current wording places the holographic figures in the seats. The Korean places them above or over the empty seats, preserving the visual detail that the seats remain vacant.",
+      "replacement": "Holographic figures began appearing one after another above the empty seats of the spacious conference room.",
+      "rationale": "자리 위로 means “above the seats,” not “in the seats.”",
+      "confidence": 0.97
+    }
+  ]
+}
