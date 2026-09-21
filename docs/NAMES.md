@@ -1966,3 +1966,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 북천 | **North Heaven** | Dark Heaven power that the Lord of Heaven orders the servants to contact. |
 | 운남성 | **Yunnan Province** | The formal name of the destination region commonly called Nanman in the Central Plains. |
 | 마방 | **horse caravans** | Descendants of northern mounted tribes who traveled ancient trade routes between the Outer Lands and the Central Plains. |
+| 금분세수 | **golden-basin handwashing** | Ceremonial retirement from martial pursuits. |
+| 불밥 할아버지 | **Fire-Rice Grandpa** | Jin Taekyung's humorous nickname for Jeok Cheongang. |
