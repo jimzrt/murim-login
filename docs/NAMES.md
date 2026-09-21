@@ -1922,3 +1922,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 김 지사장 | **Director Kim** | Ares Guild director responsible for the Asian region. |
 | 백 전무 | **Executive Director Baek** | Ares Guild executive who initially resists Choi Minwoo. |
 | 길드 협회 | **Guild Association** | Association representing Korea's ten largest Guilds. |
+| 살바토르 문디 | **Salvator Mundi** | Title of the Leonardo da Vinci painting displayed in Lee Jungryong's hidden vault. |
+| 레오나르도 다빈치 | **Leonardo da Vinci** | Artist identified as the creator of Salvator Mundi. |
+| 경상도 | **Gyeongsang-do** | Region used in Taekyung's joke about the word Mundi. |

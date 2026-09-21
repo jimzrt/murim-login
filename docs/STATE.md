@@ -1,21 +1,22 @@
 # Translation State
 
-- Last completed: 603
-- Next chapter: 604
-- Current block: 600–604 (4/5)
-- Latest translation: `translations/0603.md`
-- Latest summary: `summaries/beats/0603.md`
-- Safe profiles through: chapter 603
+- Last completed: 604
+- Next chapter: 605
+- Current block: 600–604 (5/5)
+- Latest translation: `translations/0604.md`
+- Latest summary: `summaries/beats/0604.md`
+- Safe profiles through: chapter 604
 
 ## Current Block
 
-- Baek Hanseong visits the Peace Guild and negotiates an alliance with Choi Minwoo and Jin Taekyung. Choi promises to use his influence fairly and offer the Guild Association enough interests to quiet its opposition, while Baek agrees to resolve the Guild Association dispute and halt the field investigation at Ares Guild headquarters.
-- Choi Minwoo is unanimously elected Guild Master of the Peace Guild and Vice Guild Master of Ares Guild. Jin, Choi, and the Skeleton King search Area A for Cheon Taemin's hidden chamber; Jin eventually detects another concealed space by extending Qi Sense through the response of his Middle Dantian, but the entrance remains undiscovered.
+- Jin Taekyung's Middle Dantian partially activates at 10%, improving his martial arts and internal-energy efficiency, and his expanded Qi Sense confirms something exists beyond the concealed wall in Area A. Using Force, he tears through the magical barrier and opens a passage into a hidden subspace.
+- Jin, Team Leader Choi, and the Skeleton King discover Lee Jungryong's private vault and prison, containing approximately five hundred Magic Gems, five S-grade Magic Gems, gold, diamonds, bonds, and priceless artwork. Beyond the final door, they find Cheon Taemin alive but unconscious inside a wired mechanical capsule; Choi recognizes him as his maternal grandfather.
+- Choi keeps Cheon Taemin's survival and location secret with Jin and the Skeleton King's agreement. Because Cheon cannot remain in the vault, they determine that teleportation magic and a highly trusted helper will be needed to move him, then contact an unnamed person who immediately agrees to come to Korea after hearing that Choi wants to see them.
 
 ## Open Questions
 
-- How can the newly detected hidden space in Area A be entered, and what does it contain?
 - What caused Cheon Taemin to lose consciousness and remain in a vegetative state for more than twenty years?
+- Who can provide the teleportation magic needed to move Cheon Taemin safely and covertly, and where can he be taken?
 - What debt does Go Se-won mean to repay to Jin Taekyung?
 - How will the authorities ultimately resolve the charges against Jin Taekyung?
 
@@ -24,7 +25,7 @@
 - Use Team Leader Choi for 최 팀장.
 - Use Butler Kim for 김 집사.
 - Use President's Security Service for 청와대 경호실.
-- Use maternal grandfather for 외조부님.
+- Use Grandfather for 외할아버지.
 - Use Guild Association for 길드 협회.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained

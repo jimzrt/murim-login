@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Three jiazi of Scorching Yang Qi transformed into flame. I silently looked down at my hands, wrapped in bluish-white fire, then closed my eyes and reached out.",
+      "defect": "The draft says the fire has already wrapped around his hands, prematurely completing the encircling action that occurs only after he concentrates and channels his internal energy.",
+      "id": "F01",
+      "rationale": "깃든 indicates that the flames have manifested in or upon his hands, while the subsequent 완전히 휘감는다 explicitly marks the later point when they completely envelop his hand.",
+      "replacement": "Three jiazi of Scorching Yang Qi transformed into flame. I silently looked down at my hands, bluish-white flames flickering over them, then closed my eyes and reached out.",
+      "severity": "major",
+      "source": "삼 갑자의 열양지기가 불꽃으로 화한다. 청백색의 화염이 깃든 두 손을 말없이 내려다보던 나는, 지그시 눈을 감은 채 손을 뻗었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The flickering flames gradually settled, completely wrapping around my hands.",
+      "defect": "The draft changes the singular hand into both hands.",
+      "id": "F02",
+      "rationale": "손 전체 is singular and refers to the hand he has extended.",
+      "replacement": "The flickering flames gradually settled, completely enveloping my entire hand.",
+      "severity": "critical",
+      "source": "일렁이던 불꽃이 서서히 가라앉으며 손 전체를 완전히 휘감는다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Most of them were at least A-grade, and even a rough estimate put the number at well over five hundred.",
+      "defect": "The draft changes both the grade distribution and the quantity: A-grade is the baseline rather than merely applying to most of the gems, and 오백여 개 means approximately five hundred, not well over five hundred.",
+      "id": "F03",
+      "rationale": "기본이 A급 establishes A-grade as the minimum or baseline, while 오백여 개 denotes roughly five hundred.",
+      "replacement": "Even the lowest grade among them was A, and a rough visual estimate put their number at around five hundred.",
+      "severity": "critical",
+      "source": "그중 기본이 A급 마정석이었고, 눈대중으로 어림잡아 파악만 개수만으로도 무려 오백여 개에 달했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "opening one locked door after another.",
+      "defect": "The draft adds that the doors were locked, although the source only says they were closed.",
+      "id": "F04",
+      "rationale": "닫힌 means closed; no lock or unlocking action is stated.",
+      "replacement": "opening one closed door after another.",
+      "severity": "critical",
+      "source": "복도 이곳저곳을 오가며 닫힌 문을 열어 보던"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Compression. Refinement.",
+      "defect": "Refinement disregards the source's explicit 正體 characters, which mean true form or true nature rather than refinement.",
+      "id": "F05",
+      "rationale": "The parenthetical Hanja disambiguates 정체 as 正體, so translating it as refinement changes the named conceptual step.",
+      "replacement": "Compression. True Form.",
+      "severity": "major",
+      "source": "압축. 정제(正體)."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Look at this undead bastard sneaking a bone-related pun into the conversation. Get lost.”",
+      "defect": "The draft turns the dialogue into a meta-comment about making a pun. Taekyung is instead accusing the Skeleton King of inserting himself into the exchange, while replacing the spoon in the Korean idiom with a bone for the undead joke.",
+      "id": "F06",
+      "rationale": "뼈다귀 올리는 것 adapts the idiom of placing one's spoon on the table to join in or claim a share; it is not an explicit statement that someone made a pun.",
+      "replacement": "“Look at this undead bastard trying to bone in on the conversation. Stay out of it.”",
+      "severity": "major",
+      "source": "“언데드 새끼가 은근슬쩍 뼈다귀 올리는 것 보소. 넌 빠져.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“……”\n\n“……”",
+      "defect": "The exclamation marks are omitted, changing both characters' startled, alarmed silence into neutral silence.",
+      "id": "F07",
+      "rationale": "The source's combined ellipsis and exclamation mark conveys shocked speechlessness and sharpens the threat's comic timing.",
+      "replacement": "“…!”\n\n“…!”",
+      "severity": "major",
+      "source": "“……!”\n\n“……!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Skeleton King, who had demanded his terms with the spirit of an independence activist, became a collaborator and agreed to cooperate. In the end, we reached a dramatic compromise: we would take him to a club.",
+      "defect": "The draft generalizes 친일파 into an unspecified collaborator, losing the pointed reversal from Korean independence activist to pro-Japanese collaborator.",
+      "id": "F08",
+      "rationale": "친일파 specifically denotes a pro-Japanese collaborator, and that historical opposition to 독립투사 is the basis of the joke.",
+      "replacement": "The Skeleton King, who had demanded his terms with the spirit of an independence activist, became a pro-Japanese collaborator and cooperated, and we reached a dramatic compromise by agreeing to take him to a club.",
+      "severity": "major",
+      "source": "독립투사의 심정으로 제안을 요구했던 스켈레톤 킹은 친일파가 되어 협력했고, 클럽에 데려다주는 것으로 극적인 합의점을 찾았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Maternal grandfather.”",
+      "defect": "The literal kinship label is unnatural as direct English address and makes an intimate, emotionally charged address sound clinical.",
+      "id": "F09",
+      "rationale": "외할아버지 identifies a maternal grandfather, but English normally drops the maternal distinction in direct address; the surrounding narration already establishes the relationship.",
+      "replacement": "“Grandfather.”",
+      "severity": "major",
+      "source": "“외할아버지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "It was spacious in every direction, and incredibly high.",
+      "defect": "The sentence is awkward in English and adds the unsupported intensifier incredibly.",
+      "id": "F10",
+      "rationale": "The source states that the space is broad on all sides and high, without intensifying the height.",
+      "replacement": "It was vast in every direction, with a high ceiling.",
+      "severity": "minor",
+      "source": "사방이 넓고, 높았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The important thing was the person.",
+      "defect": "The line is an unnatural Korean-syntax calque and obscures that the decisive issue is whom they can trust to help.",
+      "id": "F11",
+      "rationale": "The following lines enumerate the qualities required of the person they choose, so this preserves the transition in natural English.",
+      "replacement": "The key was who that person would be.",
+      "severity": "minor",
+      "source": "중요한 건 사람이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Someone who was favorably disposed toward the unconscious Cheon Taemin and us, and who could continue helping us…",
+      "defect": "Favorably disposed toward is stiff, essay-like diction that clashes with the brisk internal narration.",
+      "id": "F12",
+      "rationale": "호의적 means sympathetic or well disposed here; the replacement preserves that meaning in natural contemporary prose.",
+      "replacement": "Someone sympathetic to both the unconscious Cheon Taemin and us, and able to keep helping us…",
+      "severity": "minor",
+      "source": "그리고 의식불명에 빠진 천태민과 우리에게 호의적이며 계속해서 도움을 줄 수 있는 사람……."
+    }
+  ],
+  "summary": "Several physical details, quantities, pragmatic cues, and culturally specific jokes are altered or weakened.",
+  "version": 1
+}
