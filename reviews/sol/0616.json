@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Taishan, who was not as strong as I was but was a natural strongman—and was even bigger than me—could manage as many as three.",
+      "defect": "The draft adds a direct size comparison with Taekyung. The source says Taishan has a large build, not that he is bigger than Taekyung.",
+      "id": "F01",
+      "rationale": "덩치까지 큰 characterizes Taishan as large; it does not contain the comparative meaning “bigger than me.”",
+      "replacement": "Taishan, who was not as strong as I was but was a natural strongman with a massive build, could manage as many as three.",
+      "severity": "major",
+      "source": "나보다는 못하지만 타고난 역사(力士)인 데다 덩치까지 큰 태산은 세 마리까지 감당할 수 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "For several days, we climbed mountains while carrying horses, dug through buried roads, and walked and ran without stopping.",
+      "defect": "The draft adds that the party traveled without stopping for several days.",
+      "id": "F02",
+      "rationale": "The source lists what they did over several days but does not say that they took no breaks.",
+      "replacement": "For several days, we carried horses up mountains, dug through buried roads, and alternated between walking and running.",
+      "severity": "major",
+      "source": "말을 짊어진 채 산을 오르고, 매몰된 길을 파헤치며 걷고 또 달리기를 며칠."
+    },
+    {
+      "confidence": 1.0,
+      "current": "All of it was thanks to Ju Hwaran, who knew the shortcuts shared only among a handful of old horse caravans and remembered all the information left behind by her grandfather, the Escort King.",
+      "defect": "The draft omits the specified maternal relationship.",
+      "id": "F03",
+      "rationale": "외조부 specifically means maternal grandfather, not the relationship-neutral “grandfather.”",
+      "replacement": "All of it was thanks to Ju Hwaran, who knew the shortcuts shared only among a handful of old horse caravans and remembered all the information left behind by her maternal grandfather, the Escort King.",
+      "severity": "critical",
+      "source": "이 모든 것이 소수의 옛 마방들만이 공유하던 지름길, 그리고 표왕(漂王)이라 불리던 외조부가 남긴 자료를 모두 기억하고 있던 주화란 덕분이었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I saw you. Don’t pretend you weren’t doing anything.",
+      "defect": "The draft changes what Song Ilseom is pretending: the source says he is pretending not to know what Taekyung means, not pretending that he was doing nothing.",
+      "id": "F04",
+      "rationale": "모른 척 means feigning ignorance, while 다 봤어 means Taekyung saw the whole reaction.",
+      "replacement": "I saw everything. Don’t pretend you don’t know what I mean.",
+      "severity": "minor",
+      "source": "다 봤어. 어딜 모른 척이야."
+    },
+    {
+      "confidence": 1.0,
+      "current": "What happened earlier. You seemed not to have heard my answer.",
+      "defect": "The draft reverses the subject and action, claiming Taekyung failed to hear an answer when Song Ilseom is saying that he himself had not answered.",
+      "id": "F05",
+      "rationale": "대답을 안 한 것 같아서 refers to Song Ilseom apparently not having given an answer, which is why he now resumes the earlier exchange.",
+      "replacement": "What happened a moment ago. I realized I never answered you.",
+      "severity": "critical",
+      "source": "조금 전에 있었던 일 말이다. 대답을 안 한 것 같아서."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Assuming television had been introduced, it might even reach a ninety-seven percent viewership rating—like the turnout in a Russian presidential election.",
+      "defect": "The draft changes 107 percent to ninety-seven percent, removing the deliberately impossible quantity that drives the joke.",
+      "id": "F06",
+      "rationale": "The source explicitly gives 107%, using an impossible percentage as the punchline.",
+      "replacement": "Assuming television had been introduced, it might even reach a 107 percent viewership rating—like the turnout in a Russian presidential election.",
+      "severity": "critical",
+      "source": "TV가 보급되었다는 전제하라면 러시아 대선 투표율처럼 시청률 107% 정도 찍을지도 모르겠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "By then, more than a dozen swift ships had emerged through the fog, with the flags of the Water Dragon Stronghold fluttering above them.",
+      "defect": "The draft increases the stated number of ships from roughly ten to more than twelve.",
+      "id": "F07",
+      "rationale": "십여 척 means approximately ten or a dozen or so, whereas “more than a dozen” establishes a higher minimum.",
+      "replacement": "By then, a dozen or so swift ships had emerged through the fog, with the flags of the Water Dragon Stronghold fluttering above them.",
+      "severity": "critical",
+      "source": "어느덧 안개를 해치며 나타난 십여 척의 쾌조선(快調船)과 그 위에 나부끼는 수룡채의 깃발을 확인한 내가 중얼거렸다."
+    }
+  ],
+  "summary": "The draft contains several actionable fidelity errors involving kinship, added physical comparisons and actions, a reversed subject, and altered quantities.",
+  "version": 1
+}
