@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "A red mist rose with the breath I exhaled.\n\nIt was a long, slow breath—so long that one might mistake it for the breath of someone who had stopped breathing altogether. It was also a secret technique I had learned from my Master long ago.",
+      "defect": "The draft changes the third-person subject to the first-person narrator, making Jin Taekyung appear to perform Go Jun’s breathing technique. It also misconstrues the slow breathing as the breath of someone who has stopped breathing.",
+      "id": "F01",
+      "rationale": "The surrounding scene identifies Go Jun as the person breathing and recalling what his Master taught him; the Korean says the breathing was slow enough to make him seem not to breathe.",
+      "replacement": "A red mist rose with his exhaled breath.\n\nIt was a long, slow breath—so long and slow that one might mistake him for not breathing at all. It was also a secret technique he had learned from his Master long ago.",
+      "severity": "critical",
+      "source": "내뱉는 숨을 따라 붉은 안개가 피어오른다.\n\n그것은 숨을 쉬지 않는다고 착각할 만큼 길고 느린 호흡이었다. 아주 오래전, 스승으로부터 배운 비기(祕器)이기도 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "My eyes grew hot. My heart, which had not wavered even once while breaking through a 120-story skyscraper and more than a thousand enemies, began to churn.",
+      "defect": "The draft changes an approximate quantity of around one thousand enemies into more than one thousand.",
+      "id": "F02",
+      "rationale": "천여 명 means approximately or a little over one thousand, not definitively more than one thousand.",
+      "replacement": "My eyes grew hot. My heart, which had not wavered even once while breaking through a 120-story skyscraper and around a thousand enemies, began to churn.",
+      "severity": "minor",
+      "source": "눈가가 뜨겁게 달아오른다. 120층에 달하는 마천루(摩天樓)와 천여 명의 적들을 돌파하며 단 한 번도 흔들리지 않았던 마음이 격동한다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "My dantian, which had been continuously consuming internal energy, was half empty. But that was enough.",
+      "defect": "The draft makes the dantian itself the agent consuming internal energy rather than describing it as depleted because Taekyung has continuously expended that energy.",
+      "id": "F03",
+      "rationale": "The source explains the mechanical cause of the dantian’s depleted state: ongoing expenditure of internal energy.",
+      "replacement": "My dantian was half empty from the internal energy I had continuously expended. But that was enough.",
+      "severity": "major",
+      "source": "끊임없이 공력을 소모한 단전은 반쯤 비어 있었으나 그것만으로도 충분했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "When I stood up, rubble and pieces of marble fell from the building.",
+      "defect": "The draft adds an incorrect point of origin, saying the debris fell from the building rather than simply falling as Taekyung rose from the crater.",
+      "id": "F04",
+      "rationale": "The Korean does not say the debris falls from the building; it falls in direct response to Taekyung getting up.",
+      "replacement": "As I rose, rubble and pieces of marble tumbled down.",
+      "severity": "minor",
+      "source": "몸을 일으키자 건물의 잔해와 대리석 조각이 떨어진다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "But……\n\nThe moment I heard the hatred in his voice.",
+      "defect": "Go Jun’s repeated spoken call of Jin Taekyung’s name is omitted from the second viewpoint, removing the deliberate echo that triggers Taekyung’s reaction.",
+      "id": "F05",
+      "rationale": "The source repeats the name after the viewpoint shift before describing Taekyung hearing the hatred in Go Jun’s voice.",
+      "replacement": "But……\n\n“Jin Taekyung.”\n\nThe moment I heard the hatred in his voice.",
+      "severity": "major",
+      "source": "하지만…….\n\n“진태경.”\n\n증오가 담긴 놈의 목소리를 듣는 순간."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Me?*",
+      "defect": "The draft omits the child’s audible stammer, weakening his startled and deferential response.",
+      "id": "F06",
+      "rationale": "The repeated 저 explicitly marks hesitation and surprise.",
+      "replacement": "*M-Me?*",
+      "severity": "minor",
+      "source": "‘저, 저를요?’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Not a chance, you fucking moron.",
+      "defect": "The translation loses the abrupt sarcastic shift into polite speech marked by 요, flattening the line’s comic register contrast.",
+      "id": "F07",
+      "rationale": "천만에요 uses a conspicuously polite ending immediately before the insult; the clash of registers is intentional.",
+      "replacement": "No, sir, you fucking moron.",
+      "severity": "major",
+      "source": "천만에요, 이 븅신아."
+    }
+  ],
+  "summary": "The draft contains one critical viewpoint error, several altered or omitted details, and losses of repetition, hesitation, and a deliberate register shift.",
+  "version": 1
+}

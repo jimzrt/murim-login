@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 591
-- Next chapter: 592
-- Current block: 590–594 (2/5)
-- Latest translation: `translations/0591.md`
-- Latest summary: `summaries/beats/0591.md`
-- Safe profiles through: chapter 591
+- Last completed: 592
+- Next chapter: 593
+- Current block: 590–594 (3/5)
+- Latest translation: `translations/0592.md`
+- Latest summary: `summaries/beats/0592.md`
+- Safe profiles through: chapter 592
 
 ## Current Block
 
-- Go Se-won prepares a voicemail for his pregnant wife and four-year-old child, suspecting it may become his final message, before being summoned to Ares Guild's top floor. There, he watches Jin Taekyung's assault ignite an anti-Ares revolt as Song Cheonwoo's faction and other executives turn against the Guild's defenders.
-- Jin reaches the 120th floor, defeats the elite Ares forces and assassins waiting there, and confronts Go Se-won. After overpowering him, Jin demands Go Jun's location. Go Se-won reveals that Go Jun is hiding in the concealed Area A, but asks Jin to kill him because he believes he can no longer return to his former life.
-- When Go Se-won's family appears on his damaged smartphone, Jin asks why he considers the day his last day at work. After hearing that Go Se-won's boss is the reason, Jin leaves him alive and launches toward the hidden space, tearing open the air with White Flame.
+- Go Jun remains alone in Area A, wearing the cheap necklace that became Lee Jungryong's keepsake and his most precious possession. After nearly thirty years, he recalls how Lee recognized him as special among the war orphans and made him his Disciple. When the black jewel in the necklace emits a strange light and Area A's spells and barriers begin allowing Jin Taekyung to enter, Go Jun prepares to avenge his Master.
+- Jin and Go Jun begin a direct battle. Go Jun, protected by top-grade magic armor and wielding an immense Aura Blade, overwhelms Jin's exhausted body and throws him into a wall. Jin realizes that Go Jun's explosive growth cannot have come through normal training and identifies Magic Gem enhancement as the cause, then provokes him by condemning his choice to become a monster. Their clash continues with Jin determined to kill Go Jun for the old butler, the victims of the Monster Waves, and himself.
 
 ## Open Questions
 
@@ -19,12 +18,12 @@
 - Is Cheon Taemin actually being kept in Area A of Ares Guild headquarters?
 - What is inside Area A, and what is the unidentified being involved in Go Jun's plan?
 - What was the object Song Cheonwoo kept in his pocket, and what did its release of darkness and light accomplish?
-- What is the old necklace Go Jun wears, and why does it matter to his plan?
+- What is the black jewel in Go Jun's necklace, and what function does it serve?
 
 ## Exceptional Decision
 
 - Use Area A for A구역, White Flame for 백염, Flamefire Path for 염화일로, Tower Shield for 타워 실드, and hellfire for 겁화.
-- Use Scorching Yang Qi for 열양지기 and Force for 강기; distinguish Sword Energy for 검기 from Aura when the source contrasts them.
+- Use Scorching Yang Qi for 열양지기 and Force for 강기; distinguish Sword Energy from Aura when the source contrasts them, and use Aura Blade for 오러 블레이드.
 - Use Seizing an Object Through Empty Space for 허공섭물, Flame Divine Palm for 화염신장, Finger Qi for 지풍, and grappling technique for 금나수.
 - Use hunting dog for 사냥개 and impregnable fortress for 철옹성.
 - Use Executive Director for 전무 and Managing Director for 상무 in Ares Guild's executive hierarchy.
