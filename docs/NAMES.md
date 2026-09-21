@@ -1906,3 +1906,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이강희 | **Lee Kanghee** | Chief editorial writer whose column condemns Jin Taekyung. |
 | 고 모씨 | **Mr. Go** | Anonymous close aide of the late Go Jun who turns himself in. |
 | 대통령 경호실 | **President's Security Service** | Government security organization assigned to protect Jin and his family. |
+| 박 전무 | **Executive Director Park** | Ares Guild executive held at the special detention center. |
+| 이 상무 | **Managing Director Lee** | Ares Guild executive held at the special detention center. |

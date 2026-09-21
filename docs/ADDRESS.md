@@ -992,3 +992,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | younger_ally_to_trusted_older_ally | Team Leader Choi | respectful and formal | Jin uses 최 팀장님 while comforting Choi and giving him permission to grieve privately. |
 | 경호원 | 진태경 | government_security_officer_to_protected_Hunter | Hunter Jin Taekyung | formal and deferential | The security officers repeatedly address Jin as 진태경 헌터님 while explaining his temporary protection and legal status. |
 | 스켈레톤 킹 | 진태경 | undead_ally_to_close_companion | you | casual and profane | The Skeleton King uses 네놈 while complaining about making Jin instant-mix coffee. |
+| 구치소장 | 진태경 | detention_center_warden_to_visiting_Hunter | Mr. Taekyung | friendly and informally polite | The warden repeatedly addresses Jin as 태경 씨 and 진태경 씨 while escorting and briefing him. |
+| 진태경 | 구치소장 | visiting_Hunter_to_detention_center_warden | Warden | polite, dry, and uneasy | Jin addresses the warden as 소장님 while reacting to his disturbing enthusiasm for beating prisoners. |
