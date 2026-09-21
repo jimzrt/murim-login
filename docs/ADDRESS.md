@@ -1020,3 +1020,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 척 헤이글 | 최 | former-generation_S-rank_Hunter_to_Team_Leader_Choi | Choi | casual and familiar | Hagel addresses Choi while greeting him and comparing him to Cheon Taemin. |
 | 최 팀장 | 척 헤이글 | Team_Leader_Choi_to_current_Secretary_of_Defense | Mr. Hagel | formal-polite | Choi uses a formal address because Hagel is the Pentagon head and Secretary of Defense. |
 | 대통령 | 헤이글 장관 | U.S._President_to_Secretary_of_Defense | Secretary Hagel | formal-polite | The President addresses Hagel when remarking on his late arrival. |
+| 최 팀장 | 도람프 대통령 | foreign_team_leader_to_president | Mr. President | formal and respectful | Choi thanks the President for welcoming them. |
+| 도람프 대통령 | 제시 | president_to_secretary_of_state | Jesse | familiar and professional | The President calls to the Secretary of State seated at the table. |
+| 도람프 대통령 | 최 팀장 | president_to_foreign_team_leader | Mr. Choi | formal and cordial | The President addresses Choi while discussing the tactical map and operation. |
+| 도람프 대통령 | 진 | president_to_foreign_hunter | Mr. Jin | formal and cordial | The President repeatedly addresses Jin during the covert planning exchange. |
+| 도람프 대통령 | 매직 존슨 | president_to_advisor | Mr. Johnson | formal and professional | The President asks Johnson to confirm Jin's supposed return to Korea. |
+| 매직 존슨 | 최 팀장 | senior_ally_to_team_leader | Choi | casual and familiar | Johnson asks whether Choi is ready to depart. |
+| 불청객 | 핫산 | unknown_intruder_to_subordinate | Hassan | commanding and informal | The intruder orders Hassan to stand straight. |

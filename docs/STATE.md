@@ -1,31 +1,28 @@
 # Translation State
 
-- Last completed: 607
-- Next chapter: 608
-- Current block: 605–609 (3/5)
-- Latest translation: `translations/0607.md`
-- Latest summary: `summaries/beats/0607.md`
-- Safe profiles through: chapter 607
+- Last completed: 608
+- Next chapter: 609
+- Current block: 605–609 (4/5)
+- Latest translation: `translations/0608.md`
+- Latest summary: `summaries/beats/0608.md`
+- Safe profiles through: chapter 608
 
 ## Current Block
 
-- Jin Taekyung, Team Leader Choi, and Magic Johnson enter the Pentagon's restricted Building Five, or E-Ring, where Chuck Hagel—its head and the U.S. Secretary of Defense—escorts them by teleport to a secure conference room. Hagel is a former-generation S-rank Hunter known as Uncle Chuck, while Cheon Taemin was the only outsider previously granted unrestricted access to the E-Ring and was treated like the U.S. President. The group arrives as President Donald Doramp Jr. prepares to discuss forces for the Middle East front.
+- Jin Taekyung and Team Leader Choi meet U.S. President Donald Doramp Jr. and senior American military and political officials, who reveal that terrorist groups and African rebel forces are experimenting with Gates and Magic Gems. Thirty-two terrorist attempts occurred worldwide that day, and the United States is preparing an international operation to eliminate the groups, though legal and diplomatic requirements mean preparations will take at least two months and possibly more than six.
+- Jin, Team Leader Choi, and Magic Johnson covertly arrange to travel to Africa and the Middle East before the official operation can begin. President Doramp leaves behind a supposedly misplaced tactical holographic map showing suspected terrorist and rebel headquarters. The chapter then shifts to Muhammad Saladir ad-Din, an Islamic armed terrorist leader who encounters an unidentified intruder in his bedroom after interrogating a prisoner and killing a subordinate.
 
 ## Open Questions
 
-- What caused Cheon Taemin's unconscious state and how can he be awakened?
-- Who created the Area A secret space and its unusually advanced magic?
-- Did another Grand Mage know about or assist with Taemin's confinement?
-- What debt does Go Se-won intend to repay to Jin Taekyung, and how will the authorities resolve Jin's charges?
-- What course of action has Jin been preparing, and will the terrorist threat change his decision?
+- Who is the unidentified intruder confronting Muhammad Saladir ad-Din and Hassan?
+- What will happen to Muhammad Saladir ad-Din and Hassan during the intrusion?
+- Will the UN Security Council approve the planned multinational operation, and when will it begin?
+- What results are the terrorist groups and rebel forces seeking from their Gate and Magic Gem experiments?
 
 ## Exceptional Decision
 
-- Use maternal grandfather for 외조부 and 외할아버지.
-- Use Team Leader Choi for 최 팀장.
-- Use Grand Mage for 대마도사.
-- Use Pentagon for 펜타곤 and E-Ring for 5동's designation.
-- Use Secretary of Gukbap for 국밥부장관 and retain the defense-to-gukbap wordplay.
+- Treat the President's supposedly accidental tactical-map handoff as deliberate covert cooperation.
+- Use Muhammad Saladir ad-Din as the full English rendering of 무함마드 살라디르 앗 딘.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
