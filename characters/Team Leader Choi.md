@@ -1,8 +1,8 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 602
+- **Safe through:** Chapter 603
 - **Aliases:** Choi Minwoo (최민우)
-- **Role:** Team Leader Choi is Cheon Taemin's only living blood relative and a formidable aura-wielding swordsman who wields Hero's Soul; he has publicly identified himself as Cheon Taemin's maternal grandson, secured the support of Ares Guild's remaining executives, and is preparing to assume control through an official board meeting.
+- **Role:** Team Leader Choi is Cheon Taemin's only living blood relative, a formidable aura-wielding swordsman who wields Hero's Soul, and the current Guild Master of the Peace Guild and Vice Guild Master of Ares Guild after a unanimous board vote.
 - **Personality:** Strategic, candid, controlled, and possessive of the power and influence he intends to inherit.
 - **Voice:** Dry, formal, and direct, with calm candor and carefully chosen metaphors.
 - **Relationships:** Choi Minwoo is Cheon Taemin's maternal grandson and only living blood relative, was kept out of public knowledge by Lee Jungryong, is closely integrated with Jin Taekyung's family, seeks to acquire the Ares Guild intact, and now knows that Song Cheonwoo and Lee concealed Taemin's collapse and purged aides while he investigates Taemin's fate.

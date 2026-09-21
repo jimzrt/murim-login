@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "As long as he stood beside Choi Minwoo—a man who was steadily drawing closer to the unrivaled reputation of Cheon Taemin—nothing could stand in the way of the two of them.",
+      "defect": "The appositive grammatically identifies Choi Minwoo, rather than Jin Taekyung, as the person approaching Cheon Taemin’s reputation.",
+      "id": "F01",
+      "rationale": "The source subject drawing closer to Cheon Taemin’s fame is Jin Taekyung, who is then described as standing beside Choi Minwoo.",
+      "replacement": "As long as Jin Taekyung—who was steadily drawing closer to Cheon Taemin’s unrivaled reputation—stood beside Choi Minwoo, nothing could stand in their way.",
+      "severity": "critical",
+      "source": "감히 그 누구도 범접할 수 없었던 천태민의 위명에 한 걸음씩 가까워지는 그가 최민우의 옆에 있는 한, 그 무엇도 두 사람의 앞을 막아설 수 없을 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Of course they would. If Choi Minwoo didn’t exist.*",
+      "defect": "The translation turns a counterfactual outcome into an affirmation of the Guild Association’s behavior and leaves the condition disconnected.",
+      "id": "F02",
+      "rationale": "Baek Hanseong is thinking that the Guild Association would have succeeded in looting the fallen Ares Guild had Choi Minwoo not existed.",
+      "replacement": "*That’s how it would have gone, if not for Choi Minwoo.*",
+      "severity": "major",
+      "source": "‘그렇게 되었겠지. 최민우의 존재만 아니었다면.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I am curious what Go Se-won was hiding, but… if he had been that stupid, he wouldn’t have made it this far.”",
+      "defect": "The omitted subject in the second clause is incorrectly assigned to Go Se-won. Baek Hanseong is saying that he himself is not foolish enough to reopen the investigation after making the agreement.",
+      "id": "F03",
+      "rationale": "The remark is Baek Hanseong’s self-aware explanation for declining Jin’s suggestion that he search again, not a judgment about Go Se-won’s intelligence.",
+      "replacement": "“I am curious what Go Se-won was hiding, but… if I were that stupid, I would never have made it this far.”",
+      "severity": "critical",
+      "source": "“글쎄요. 고세원이 숨긴 사실이 뭔지 궁금하긴 합니다만…… 그 정도로 멍청했다면 지금 이 자리까지 오지도 못했을 겁니다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "His only blood descendant, who had failed to reveal himself even amid the waves that had crashed over Ares Guild, had appeared in front of the cameras.",
+      "defect": "“Failed to reveal himself” implies an unsuccessful attempt or inability, whereas the source says Choi Minwoo had consistently remained out of sight.",
+      "id": "F04",
+      "rationale": "끝끝내 모습을 드러내지 않았던 describes sustained nonappearance, not an attempt that ended in failure.",
+      "replacement": "His only blood descendant, who had remained out of sight even amid the waves crashing over Ares Guild, had finally appeared before the cameras.",
+      "severity": "major",
+      "source": "아레스 길드를 덮친 파도 속에서도 끝끝내 모습을 드러내지 않았던 그의 유일한 핏줄이 카메라 앞에 모습을 드러낸 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It wasn’t an orchard, but judging by the area I could estimate with my eyes alone, it had to be more than a thousand pyeong—well over 3,300 square feet.",
+      "defect": "The imperial conversion is wrong by roughly a factor of ten. One thousand pyeong is approximately 35,583 square feet, not 3,300.",
+      "id": "F05",
+      "rationale": "The source specifies an area exceeding one thousand pyeong, so the explanatory conversion must preserve that quantity.",
+      "replacement": "It wasn’t an orchard, but judging by eye, the place had to cover well over a thousand pyeong—more than 35,000 square feet.",
+      "severity": "critical",
+      "source": "무슨 과수원도 아니고, 대충 눈대중으로 확인한 면적만 천 평이 훌쩍 넘을 것 같다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Team Leader Choi and the Skeleton King, who had been pounding the mana detector with their fists, both asked:",
+      "defect": "The translation assigns the action of pounding the mana detector to both characters, while the Korean modifier applies only to Team Leader Choi.",
+      "id": "F06",
+      "rationale": "The source describes Choi as the one striking the detector; the Skeleton King merely joins him in asking the question.",
+      "replacement": "Team Leader Choi, who had been pounding the mana detector with his fist, and the Skeleton King both asked:",
+      "severity": "critical",
+      "source": "그런 내 반응에 마나 탐지기를 주먹으로 두들기던 최 팀장과 스켈레톤 킹이 물었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Our first victory.",
+      "defect": "The added collective possessive falsely implies that Choi and the Skeleton King participated in Jin Taekyung’s earlier victory over Go Jun.",
+      "id": "F07",
+      "rationale": "The source does not introduce a collective subject, and Jin is recalling his own prior battle with Go Jun.",
+      "replacement": "The first victory.",
+      "severity": "critical",
+      "source": "석고준과의 전투와 1차 승리."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“None of them can act like gentlemen.”",
+      "defect": "The literal rendering misses the idiomatic joke used when someone appears or makes contact just as they are being discussed.",
+      "id": "F08",
+      "rationale": "양반은 못 되다 in this context functions like “speak of the devil,” referring to the Guild Association pressing for a meeting while Baek is thinking about them.",
+      "replacement": "“…Well, speak of the devils.”",
+      "severity": "major",
+      "source": "“……다들 양반은 못 되는군.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“To be honest, yes. The flames are anything but ordinary.”",
+      "defect": "성화 is an idiom for relentless pestering or demands here, not literal flames, leaving Baek Hanseong’s complaint nonsensical.",
+      "id": "F09",
+      "rationale": "Baek is describing the political pressure and repeated demands coming from the Guild Association.",
+      "replacement": "“To be honest, yes. They’ve been hounding me relentlessly.”",
+      "severity": "major",
+      "source": "“솔직히 말씀드리자면, 예. 그렇습니다. 성화가 보통이 아니에요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Oh. Did you think of a club with good-looking women?”",
+      "defect": "The translation makes the euphemistic 물 좋은 explicitly sexual instead of preserving its casual implication.",
+      "id": "F10",
+      "rationale": "물 좋은 indirectly describes a venue with an attractive crowd; the source does not explicitly say “women” in this line.",
+      "replacement": "“Oh. Did you think of a club with a great crowd?”",
+      "severity": "major",
+      "source": "“오. 물 좋은 클럽이 생각났나?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Fuck… This is impossible.”",
+      "defect": "The translation removes the comically drawn-out profanity and changes Jin’s complaint that he cannot keep doing this into an objective claim that the task is impossible.",
+      "id": "F11",
+      "rationale": "쉬이벌 is a stretched comic rendition of the profanity, while 못 해 먹겠네 expresses fed-up refusal or inability to continue rather than literal impossibility.",
+      "replacement": "“Fuuuck… I can’t do this shit.”",
+      "severity": "major",
+      "source": "“쉬이벌…… 못 해 먹겠네.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "[Lie or Truth? The Truth Battle Surrounding Choi Minwoo’s Shocking Statement.]",
+      "defect": "“Truth battle” is an unnatural dictionary calque for a public dispute over whether the claim is true.",
+      "id": "F12",
+      "rationale": "진실 공방 refers naturally to a dispute or debate over the truth of the statement.",
+      "replacement": "[Lie or Truth? Debate Erupts over Choi Minwoo’s Shocking Statement.]",
+      "severity": "minor",
+      "source": "[거짓인가, 진실인가. 최민우의 충격 발언을 둘러싼 진실 공방.]"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Team Leader Choi answered with a displeased expression and swept his gaze across the surroundings.",
+      "defect": "“Displeased” presents irritation, while 찝찝한 conveys discomfort or unease after Jin’s awkward form of address.",
+      "id": "F13",
+      "rationale": "Choi is uncomfortable with the exchange rather than specifically angry or displeased.",
+      "replacement": "Team Leader Choi answered with an uneasy expression and swept his gaze across the surroundings.",
+      "severity": "minor",
+      "source": "찝찝한 표정으로 대답한 최 팀장의 시선이 주위를 훑는다."
+    }
+  ],
+  "summary": "Multiple actionable fidelity issues, including misassigned actions and subjects, an altered counterfactual, and a tenfold area-conversion error.",
+  "version": 1
+}
