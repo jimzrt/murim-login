@@ -1,9 +1,9 @@
 # Go Se-won (고세원)
 
-- **Safe through:** Chapter 596
+- **Safe through:** Chapter 597
 - **Aliases:** Head of Security
-- **Role:** Go Se-won is Ares Guild's Head of Security and a Team Leader who surrendered after Go Jun's death, subdued the remaining loyalist executives, and gave decisive testimony that Go Jun caused the two monster waves, helping clear Jin Taekyung of most charges.
+- **Role:** Go Se-won is Ares Guild's former Head of Security and Team Leader, now held in a special detention center after surrendering, subduing the remaining loyalists, and giving decisive testimony that Go Jun caused the two monster waves.
 - **Personality:** Weary after thirty years of serving Ares as a hunting dog, he is morally conflicted but decisive when he finally breaks with the Guild's loyalists.
 - **Voice:** Calm and deferential toward superiors, but blunt and decisive when issuing orders.
-- **Relationships:** He formerly served Vice Guild Master Go Jun and commands Ares Guild's security forces; after Go Jun's death, he turns the gathered members against the loyalist executives and lets Jin Taekyung pass, while his wife and four-year-old child remain outside the conflict.
+- **Relationships:** He formerly served Vice Guild Master Go Jun as Ares Guild's Head of Security; after exposing Go Jun's role, he is held in a special detention center and has requested a meeting with Jin Taekyung.
 - **Sources:** Korean source and accepted translation, Chapter 562

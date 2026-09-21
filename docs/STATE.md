@@ -1,32 +1,29 @@
 # Translation State
 
-- Last completed: 596
-- Next chapter: 597
-- Current block: 595–599 (2/5)
-- Latest translation: `translations/0596.md`
-- Latest summary: `summaries/beats/0596.md`
-- Safe profiles through: chapter 596
+- Last completed: 597
+- Next chapter: 598
+- Current block: 595–599 (3/5)
+- Latest translation: `translations/0597.md`
+- Latest summary: `summaries/beats/0597.md`
+- Safe profiles through: chapter 597
 
 ## Current Block
 
-- The aftermath of Jin Taekyung's solo assault on Ares Guild headquarters ignites a worldwide crisis. Go Jun and twenty-five others are confirmed dead, total casualties number around five hundred, and Jin's brief public statement is cut off at the Blue House's request. Go Se-won turns himself in, subdues the remaining loyalist executives, and testifies that Go Jun caused the two monster waves, helping clear Jin of most charges.
-- After two days unconscious in Team Leader Choi's mansion, Jin awakens physically recovered but overwhelmed by the confirmed death of Kim Hwajong. President Baek Hanseong explains the aftermath and says Go Se-won wants to meet Jin to repay his debt. A blond foreigner then enters without knocking and announces that Jin has awakened.
+- Team Leader Choi grieves Kim Hwajong as family, thanks Jin for protecting Hwajong's final moments, and finally breaks down sobbing after Jin leaves. Outside, Song Song, Im Kkeokjeong, and the Skeleton King give him privacy under coffee-related pretexts. President Baek Hanseong's security detail says the President has left but will temporarily protect Jin and his family while Jin remains booked without detention over injuries to more than five hundred casualties, with self-defense likely to apply. Learning that Go Se-won is held in a special detention center and wants to repay a debt, Jin decides to meet him and leaves with the officers.
 
 ## Open Questions
 
-- Has Choi Minwoo regained consciousness, and has Kim Hwajong's funeral begun?
-- Who is the blond foreigner, and whom was he addressing when he announced Jin's awakening?
-- What caused Cheon Taemin's collapse, what happened during his more than twenty years of unconsciousness, and where is he being kept?
-- What is inside Area A, and what unidentified being was involved in Go Jun's plan?
-- What were the functions of Song Cheonwoo's pocketed object and the black jewel in Go Jun's necklace?
+- What debt does Go Se-won intend to repay to Jin?
+- What will Go Se-won reveal when Jin visits him?
+- How will the authorities ultimately resolve the charges against Jin?
 
 ## Exceptional Decision
 
-- Use Area A for A구역, Capital Defense Command for 수도방위사령부, and Ares Guild Headquarters for 아레스 길드 본사.
-- Use Lord Fuck and Lord Sibu-leol for 시벌좌 and 시부럴좌.
-- Use special detention center for 특별 구치소 and Team Leader Choi's mansion for 최 팀장의 저택.
-- Use Mr. Go for 고 모씨 and Lee Kanghee for 이강희.
-- Use Chief Editorial Writer for 주필 and the death penalty for 사형 집행 제도.
+- Use Team Leader Choi for 최 팀장.
+- Use Butler Kim for 김 집사.
+- Use Skeleton King for 스켈레톤 킹.
+- Use President's Security Service for 대통령 경호실.
+- Use booked without detention for 불구속 입건.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
