@@ -1039,3 +1039,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최민우 | 정 기사님 | employer_to_driver | Driver Jung | polite | Choi orders the driver to turn the limousine around and cancel the day's schedule. |
 | 최민우 | 김 화 종 | grandson_to_grandfather | Grandfather | intimate and emotional | Choi finally addresses the deceased Kim Hwajong as 할아버지 at the grave. |
 | 스켈레톤 킹 | 진태경 | trusted_ally_to_trusted_ally | devious human | grumbling-intimate | The Skeleton King mutters 간악한 인간아 while thinking about Jin's errand. |
+| 혁무진 | 송일섬 | pavilion_member_to_escort_captain | Great Hero Song | formal and deferential | Mujin addresses Song Ilseom while commenting on his broad experience. |
+| 혈주 | 천주 | servant_to_absolute_master | Lord of Heaven | worshipful and deferential | Blood Lord repeatedly addresses the Lord of Heaven while apologizing and receiving power. |
+| 천주 | 혈주 | absolute_master_to_servant | Blood Lord | commanding and reproachful | The Lord of Heaven directly rebukes Blood Lord and then empowers him. |

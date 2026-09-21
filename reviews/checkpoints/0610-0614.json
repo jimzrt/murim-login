@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Use **Al Diab Jawahiri**, **Al-Qaeda**, **Magic Gem**, **Magic Gem laboratory**, **Grand War**, **Lord of Heaven**, **Dark Heaven**, **South Heaven**, and **North Heaven** consistently.",
+      "defect": "The term “Grand War” contradicts Chapter 614 and the rest of the checkpoint, which consistently use the established term “Great War.”",
+      "id": "C01",
+      "rationale": "Leaving the incorrect term in the binding translation decisions risks propagating terminology drift into later chapters.",
+      "replacement": "Use **Al Diab Jawahiri**, **Al-Qaeda**, **Magic Gem**, **Magic Gem laboratory**, **Great War**, **Lord of Heaven**, **Dark Heaven**, **South Heaven**, and **North Heaven** consistently.",
+      "severity": "major",
+      "source": "Checkpoint summary, Translation Decisions"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The expedition party includes Hyuk Mujin, Ju Hwaran, Song Ilseom, and Taishan.",
+      "defect": "The list drops the second figure who arrives alongside Taishan. Chapter 614 establishes that two members were still expected, shows two approaching shadows, and gives the unnamed companion a line.",
+      "id": "C02",
+      "rationale": "Preserving the unidentified arrival prevents a revealed party member and associated hook from disappearing from the checkpoint continuity.",
+      "replacement": "The expedition party includes Hyuk Mujin, Ju Hwaran, Song Ilseom, Taishan, and one additional member who arrives with Taishan but is not identified by name in this chapter.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Fire Dragon Pavilion's current expedition party includes Hyuk Mujin, Ju Hwaran, Song Ilseom, and Taishan.",
+      "defect": "The durable state omits the second member who arrives with Taishan, despite Chapter 614 explicitly establishing two final arrivals.",
+      "id": "C03",
+      "rationale": "The active state must retain this unresolved identity so future summaries do not treat the expedition roster as complete or lose the additional member.",
+      "replacement": "The Fire Dragon Pavilion's current expedition party includes Hyuk Mujin, Ju Hwaran, Song Ilseom, Taishan, and one additional member who arrives with Taishan but is not identified by name in Chapter 614.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    }
+  ],
+  "summary": "The reading copies are internally coherent and maintain the established action-comedy voice. Three checkpoint-level issues are actionable: the Great War terminology is misstated once, and both continuity records drop the unidentified second member who arrives with Taishan.",
+  "version": 1
+}

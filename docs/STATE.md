@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 613
-- Next chapter: 614
-- Current block: 610–614 (4/5)
-- Latest translation: `translations/0613.md`
-- Latest summary: `summaries/beats/0613.md`
-- Safe profiles through: chapter 613
+- Last completed: 614
+- Next chapter: 615
+- Current block: 610–614 (5/5)
+- Latest translation: `translations/0614.md`
+- Latest summary: `summaries/beats/0614.md`
+- Safe profiles through: chapter 614
 
 ## Current Block
 
-- Jin Taekyung completes an unnamed cultivation technique after hundreds of attempts. He designed it to be stable enough for even the lowest-rank Hunter to learn while retaining enough power to serve as humanity's new sword and shield without being easily abused by evildoers.
-- Choi Minwoo takes office as Guild Master of the Peace Guild and Vice Guild Master of Ares Guild, then buries himself in work and dismisses his secretary to suppress his grief. He eventually visits the grave of Kim Hwajong, whom he recognizes as his grandfather, and breaks down after discovering a loving message carved on the back of the gravestone.
-- The Skeleton King meets Choi at the grave and tells him that Jin Taekyung would have cried, overcome his grief, and continued living while remembering the dead. He delays delivering the box and letter that Jin entrusted to him, containing the new martial art for Choi.
+- Jin Taekyung returns to the Murim after spending just over a month in the modern world and wakes in a wagon near Mount Daebyeol. After overhearing Hyuk Mujin mock his former reputation, he punishes him before gathering the Fire Dragon Pavilion's Nanman expedition party and ordering them to depart.
+- In a pitch-black sanctuary, the Lord of Heaven addresses Dark Heaven's servants after 136 days of sleep. He accepts responsibility for their failures, grants them power, orders messages sent to South Heaven and North Heaven, and declares that the Great War is beginning.
 
 ## Open Questions
 

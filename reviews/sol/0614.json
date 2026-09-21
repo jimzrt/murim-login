@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Now that I thought about it, two bodies really was the problem. Having to control them by turns was what made it so damn exhausting.",
+      "defect": "The draft changes the joke and causal statement: Taekyung realizes that he does, in fact, have two bodies, not that having two bodies is itself the problem.",
+      "id": "F01",
+      "rationale": "두 개는 맞구나 confirms that the number two is accurate, while the following sentence identifies alternating control as the exhausting part.",
+      "replacement": "Come to think of it, I really did have two. It was having to control them by turns that made it so damn exhausting.",
+      "severity": "major",
+      "source": "다시 생각해 보니까 두 개는 맞구나. 그걸 번갈아 가며 컨트롤해야 하는 거라 더럽게 피곤한 거지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I desperately wanted to sleep in and laze around just like this.",
+      "defect": "“Sleep in” implies remaining in bed until late, whereas the source expresses wanting to stay sprawled out and sleep for a while.",
+      "id": "F02",
+      "rationale": "한숨 자다 means to get some sleep or take a nap, without the time-of-day implication of “sleep in.”",
+      "replacement": "I desperately wanted to stay sprawled out like this and sleep for a while.",
+      "severity": "minor",
+      "source": "이대로 늘어지게 한숨 자고 싶은 마음이 간절하다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I had barely slept for nearly a week while creating the basic martial art.",
+      "defect": "“The basic martial art” sounds like a low-level preexisting art and introduces an unsupported definite article; 보급형 describes an art designed for widespread distribution or general use.",
+      "id": "F03",
+      "rationale": "보급형 denotes an accessible, distributable version, consistent with the technique Taekyung developed for broad use.",
+      "replacement": "I had barely slept for nearly a week while developing a martial art for widespread use.",
+      "severity": "minor",
+      "source": "보급형 무공을 만드느라 근 일주일 동안 잠도 제대로 자지 못했기 때문이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At Ju Hwaran’s question, as clear and beautiful as a grand piano, Hyuk Mujin answered in the most decisive tone imaginable.",
+      "defect": "The draft replaces the specific Young Chang piano reference with the generic and materially different “grand piano,” and awkwardly describes the question itself rather than her voice.",
+      "id": "F04",
+      "rationale": "영창 피아노 refers specifically to the Korean piano brand Young Chang, used here as a comic comparison for the sound of Hwaran’s voice.",
+      "replacement": "At Ju Hwaran’s question, delivered in a voice as clear and lovely as a Young Chang piano, Hyuk Mujin answered in the most decisive tone imaginable.",
+      "severity": "minor",
+      "source": "맑고 고운 영창 피아노 같은 주화란의 물음에, 혁무진이 세상 단호한 어조로 대답했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“……”\n\n“……Uh.”",
+      "defect": "The first listener’s audible reaction is omitted.",
+      "id": "F05",
+      "rationale": "아 is a spoken reaction, paired deliberately with the following 어, and should not be reduced to silent punctuation.",
+      "replacement": "“……Ah.”\n\n“……Uh.”",
+      "severity": "minor",
+      "source": "“……아.”\n\n“……어.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“These days, people call him the Blazing Flame Divine Dragon and all that. But one or two years ago, it was hard to find a bigger fucking bastard. He drank at pleasure houses every day, stole public funds, and scattered them across gambling halls. His sobriquet back then was so bad that—”",
+      "defect": "The draft softens the vulgar description of his drinking, renders squandered gambling money as physically “scattered,” and incorrectly says the sobriquet itself was bad rather than that his conduct was so bad it earned him the sobriquet.",
+      "id": "F06",
+      "rationale": "술 처먹고 is deliberately vulgar, 도박장에 뿌리고 means squandering the funds through gambling, and 오죽하면 makes the sobriquet a consequence of his extreme behavior.",
+      "replacement": "“These days, people call him the Blazing Flame Divine Dragon and all that. But just a year or two ago, you’d have been hard-pressed to find a bigger fucking bastard. Every day, he’d hit a pleasure house, get shit-faced, steal public funds, and blow the money at gambling dens. He was so bad that his sobriquet back then was…”",
+      "severity": "major",
+      "source": "“요즘에서야 열화신룡이니 뭐니 하지. 일이 년 전만 해도 그만한 씹새끼 찾는 것도 힘들었습니다. 매일같이 기루 가서 술 처먹고, 공금 훔쳐서 도박장에 뿌리고. 오죽하면 그때 당시 조장님 별호가…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "And the shadow that grew larger in the dancing firelight fell toward one person.",
+      "defect": "“Fell toward” describes directional movement rather than the shadow looming or being cast over its target.",
+      "id": "F07",
+      "rationale": "드리워졌다 means that the enlarged shadow was cast over or loomed over Hyuk Mujin.",
+      "replacement": "And my shadow, enlarged by the dancing firelight, fell over one person.",
+      "severity": "minor",
+      "source": "그리고 일렁이는 불길을 받아 커진 내 그림자가, 한 사람을 향해 드리워졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m not going to kill you. I’m just going to beat you until you wish you were dead.”",
+      "defect": "The draft changes the threatened degree of physical violence into Hyuk Mujin’s subjective desire to die.",
+      "id": "F08",
+      "rationale": "죽도록 때리다 means to beat someone nearly to death or extremely severely, not to beat them until they become suicidal.",
+      "replacement": "“I’m not going to kill you. I’m just going to beat you within an inch of your life.”",
+      "severity": "major",
+      "source": "“죽이진 않고, 죽도록 때릴 거야.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Taishan! You’re here!”",
+      "defect": "The draft reverses the subject and speaker perspective, turning Taishan’s childlike third-person announcement of his own arrival into someone else greeting him.",
+      "id": "F09",
+      "rationale": "태산이 is the grammatical subject, and the clipped third-person self-reference matches Taishan’s established speech pattern.",
+      "replacement": "“Taishan! Is here!”",
+      "severity": "critical",
+      "source": "“태산이! 왔다!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Heaven above, earth below!”\n\n“All demons bow before us!”",
+      "defect": "The draft adds “us,” making the assembled servants the object of submission and altering the cult’s hierarchy.",
+      "id": "F10",
+      "rationale": "The source contains no first-person object; the chant proclaims universal demonic submission in the presence of the Lord of Heaven.",
+      "replacement": "“Heaven above, earth below!”\n\n“All demons bow in submission!”",
+      "severity": "major",
+      "source": "“천상천하(天上天下)!”\n\n“만마앙복(萬魔仰服)!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The young man lying facedown at the front was no different.",
+      "defect": "The draft invents a location at the front of the group; the source instead emphasizes how deeply he is prostrated against the floor.",
+      "id": "F11",
+      "rationale": "바닥 깊숙이 엎드려 describes the depth of his prostration, not his position at the front.",
+      "replacement": "The young man bowed low against the floor was no different.",
+      "severity": "minor",
+      "source": "바닥 깊숙이 엎드려 있던 한 청년도 마찬가지였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Blood Lord’s eyes opened wide with rapture as he realized that an immense power flowing from somewhere unseen had entered his body.",
+      "defect": "The draft renders Murim 기운 generically as “power,” obscuring the mechanism of qi entering and settling within his body.",
+      "id": "F12",
+      "rationale": "In this Murim context, 기운 is qi, and 깃들다 describes it taking root or settling within the recipient.",
+      "replacement": "Blood Lord’s eyes widened with rapture as he realized that an immense surge of qi from somewhere unseen was settling into his body.",
+      "severity": "major",
+      "source": "보이지 않는 어디에선가 흘러나온 막대한 기운이 몸에 깃드는 것을 깨달은 혈주가 환희로 눈을 부릅떴다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Heaven above, earth below. All demons bow before us.\n\nAmid the cries of the loyal servants, filled with rapture and madness, the invisible shadow waved a hand.",
+      "defect": "The repeated chant again adds “before us,” incorrectly making the servants the recipients of universal submission.",
+      "id": "F13",
+      "rationale": "The Korean repetition still supplies no first-person object, so the hierarchy-altering addition must also be removed here.",
+      "replacement": "Heaven above, earth below. All demons bow in submission.\n\nAmid the cries of the loyal servants, filled with rapture and madness, the invisible shadow waved a hand.",
+      "severity": "major",
+      "source": "천상천하. 만마앙복.\n\n환희와 광기에 가득 찬 충복들의 부르짖음 속에서, 보이지 않는 그림자는 손을 내저었다."
+    }
+  ],
+  "summary": "Several substantive fidelity issues alter a subject, hierarchy, and the two-body joke; localized register, action, and terminology errors also remain.",
+  "version": 1
+}

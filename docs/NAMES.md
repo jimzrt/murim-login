@@ -1961,3 +1961,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 김 화 종 | **Kim Hwajong** | Deceased old butler and Choi Minwoo's grandfather. |
 | 전경련 | **Federation of Korean Industries** | Business organization seeking Choi Minwoo's attendance at a social gathering. |
 | 정 기사님 | **Driver Jung** | Choi Minwoo's limousine driver. |
+| 서천 | **Western Heaven** | Short form used by the Lord of Heaven for the Western Heaven Demon Lord. |
+| 남천 | **South Heaven** | Dark Heaven power that the Lord of Heaven orders the servants to contact. |
+| 북천 | **North Heaven** | Dark Heaven power that the Lord of Heaven orders the servants to contact. |
