@@ -1946,3 +1946,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이사벨라 | **Isabella** | U.S. military or political official introduced by first name only. |
 | 무함마드 살라디르 앗 딘 | **Muhammad Saladir ad-Din** | Leader of an Islamic armed terrorist group. |
 | 핫산 | **Hassan** | Subordinate addressed by the unidentified intruder. |
+| 카심 | **Kasim** | Muhammad's trusted S-rank Hunter assassin and bodyguard; killed during the bedroom infiltration. |
+| 오마리 | **Omari** | Muhammad's bodyguard; killed during the bedroom infiltration. |
+| 사다트 | **Sadat** | Muhammad's bodyguard; killed during the bedroom infiltration. |
+| 나세르 | **Nasser** | Muhammad's bodyguard; killed during the bedroom infiltration. |
+| 오마르 알 후세인 | **Omar al-Hussein** | Leader of a Sunni faction captured during the campaign. |
