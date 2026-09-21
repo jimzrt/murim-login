@@ -120,23 +120,23 @@ A suffocating silence fell.
 
 Zhang Wei was the first to recover.
 
-“Everyone, prepare for battle—!”
+“Everyone, prepare for battle!”
 
-“Monster! A monster has appeared!”
+“Monsters! Monsters have appeared!”
 
 “Tank!”
 
-“The regimental commander has been killed!”
+“Th-the regimental commander has been killed!”
 
 The Hunters of the Public Security Armed Forces Department were the first to react to those shouts. The soldiers took a moment longer to grasp what had happened.
 
-And waiting for them, already thrown into utter chaos by the sudden death of their commander, was an even more horrific death.
+Already plunged into utter chaos by the sudden death of their commander, they were met by an even more horrific fate.
 
 Whoooosh!
 
 A single sound tore through the air.
 
-A beam of light shot forward at an invisible speed and swept through the soldiers advancing in orderly ranks and files.
+A streak of light, moving too quickly to see, swept through the soldiers marching in orderly ranks.
 
 Boom-boom-boom!
 
@@ -148,7 +148,7 @@ The moment Zhang Wei saw it, he roared like thunder.
 
 “Everyone, get clear!”
 
-But before his voice could reach them, the deafening roar that erupted in the next moment swallowed everything.
+But before his warning could reach them, a deafening explosion swallowed everything.
 
 BOOM!
 
@@ -180,7 +180,7 @@ Boom! Boom-boom-boom!
 
 Flames surged upward, and screams flooded the air.
 
-The more than twenty armored vehicles and tanks were rendered useless in no more than an instant.
+The destruction of more than twenty armored vehicles and tanks took no more than an instant.
 
 The three attack helicopters circling overhead were also reduced to countless fragments and crashed to the ground.
 
@@ -196,7 +196,7 @@ Sssssss.
 
 Between dark alleys and collapsed buildings. Atop the roof of a building still engulfed in flames.
 
-Ten figures that had appeared like black mist stared down at the hundreds of surviving humans with burning violet eyes.
+Ten figures appeared like black mist and stared down at the surviving humans with burning violet eyes.
 
 When Zhang Wei saw them mounted on warhorses that had been stripped to the bone, a word escaped his lips like a groan.
 
@@ -214,7 +214,7 @@ The first word that came to Zhang Wei’s mind was *death*.
 
 Death Knights were beings that surpassed A-rank monsters.
 
-A hundred Hunters and a military force still remained, but Zhang Wei already knew.
+A hundred Hunters and part of the military force still remained, but Zhang Wei already knew.
 
 There was no escaping the net they had cast.
 
@@ -226,11 +226,11 @@ Zhang Wei was not the only one who felt that way.
 
 Unlike the soldiers, who were too frightened even to hold their guns properly, the Hunters of the Public Security Armed Forces Department raised their weapons with determination in their eyes.
 
-“You don't have to go this far.”
+“You don’t have to do this.”
 
 One of the platoon commanders answered Zhang Wei’s quiet words bluntly.
 
-“And you're allowed to?”
+“And you do?”
 
 “I’m sorry. I shouldn’t have brought you here.”
 
@@ -310,7 +310,7 @@ A human male and female. And…
 
 A creature so small and light that he could not yet tell whether it was male or female.
 
-*Was that what they called a child?*
+Was that what they called a child?
 
 *Child. Child?*
 
@@ -324,11 +324,11 @@ But—
 
 For some reason, his hand would not move.
 
-They were undoubtedly weak beings who would turn into a handful of blood and vanish from a mere flick of his finger, yet it was as though an invisible barrier surrounded and protected them.
+They were undoubtedly frail beings who would dissolve into a handful of blood at the mere flick of his finger, yet it was as though an invisible barrier surrounded them.
 
 “What are you?”
 
-At the black knight's eerie voice, the child squirming in its parents' arms suddenly began to wail.
+At the black knight’s eerie voice, the child squirming in its parents’ arms burst into tears.
 
 “Waaaaah!”
 
@@ -342,13 +342,13 @@ The Death Knights voiced their confusion at their leader’s sudden action.
 
 “We’re going back. Now. At once.”
 
-“Then shall we deal with the humans—”
+“Then we’ll deal with the humans—”
 
 “We’re going back. Now. At once.”
 
 That was all.
 
-The ten Death Knights bowed on one knee in deference before riding after their leader.
+The ten Death Knights knelt in acknowledgment, then mounted their steeds and followed their leader.
 
 Just before they vanished like mist, the black knight’s red gaze fell upon the three humans who had miraculously survived, then moved away.
 

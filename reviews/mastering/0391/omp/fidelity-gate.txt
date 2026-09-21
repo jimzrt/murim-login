@@ -1,0 +1,45 @@
+{
+  "summary": "The assembled chapter is largely faithful, but it contains a few minor fidelity and terminology defects.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 3, 21–25",
+      "current": "Colonel Shao",
+      "defect": "The established rendering of 샤오 is lost: the accepted baseline uses Xiao, while the assembled text uses Shao throughout the references to Shao Shen.",
+      "replacement": "Colonel Xiao",
+      "rationale": "The source name is 샤오, and the accepted baseline establishes Xiao as the English rendering. This is a continuity and proper-name regression.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 71",
+      "current": "but none posed any real threat.",
+      "defect": "“No real threat” weakens the source’s absolute statement that the monsters posed no threat whatsoever.",
+      "replacement": "but they posed no threat whatsoever.",
+      "rationale": "아무런 위협도 되지 못했다 states that they were not a threat at all, not merely that they were not a serious threat.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 111–113",
+      "current": "toppled from the armored vehicle.",
+      "defect": "The body’s rolling motion is lost.",
+      "replacement": "was rolling out of the armored vehicle.",
+      "rationale": "굴러떨어지고 specifically depicts the officer’s body rolling down or out of the armored vehicle, rather than merely toppling.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 295",
+      "current": "Jinjin.",
+      "defect": "The child’s name is presented as an unsupported romanization without an established ledger rendering or first-use footnote.",
+      "replacement": "Jinjin[^2].",
+      "rationale": "진진 is not present in the established name ledger. Under the chapter rules, an unlisted proper name should receive a first-use note unless an established English form is available.",
+      "confidence": 0.91
+    }
+  ]
+}
