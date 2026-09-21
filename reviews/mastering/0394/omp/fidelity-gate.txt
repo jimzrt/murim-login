@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but four minor fidelity defects introduce an unsupported action, physical detail, collective agency, and sensory mismatch.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 41–47",
+      "current": "I stared at him in disbelief.",
+      "defect": "The source says Jin replies while dumbfounded; this replaces that action with an unsupported stare.",
+      "replacement": "Dumbfounded, I replied.",
+      "rationale": "대꾸했다 means he answered or retorted, while 어이가 없어져서 describes his bewilderment. The source does not establish that he stared.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 239–247",
+      "current": "Why are you sitting around with this guy?",
+      "defect": "The translation adds that Magic Johnson and General Liao are sitting, a physical detail not established by the source.",
+      "replacement": "Why are you here with this guy?",
+      "rationale": "같이 계셨습니까 asks why Johnson was together with Liao; it does not specify sitting around.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 303–305",
+      "current": "*I did tear through them with unstoppable momentum, but did we really get that far?*",
+      "defect": "The implicit subject shifts from Jin's own advance to a collective 'we,' changing who performed the breakthrough.",
+      "replacement": "*I did tear through them with unstoppable momentum, but was it really this much?*",
+      "rationale": "The preceding sentence explicitly contrasts Jin's advance with the other fronts, and the source continues that first-person viewpoint without introducing a collective actor.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 307–309",
+      "current": "That doesn’t sound like the Genghis Khan of the twenty-first century.",
+      "defect": "The translation uses an auditory metaphor even though Magic Johnson is reacting to Jin's visible demeanor and expression.",
+      "replacement": "That doesn’t look like the Genghis Khan of the twenty-first century.",
+      "rationale": "모습 refers to how Jin appears or carries himself, not how he sounds.",
+      "confidence": 0.92
+    }
+  ]
+}

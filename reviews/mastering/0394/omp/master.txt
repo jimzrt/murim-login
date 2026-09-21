@@ -124,7 +124,7 @@ Naturally, the soldiers wouldn’t be too happy about me mauling their direct su
 
 “That thieving son of a bitch. A bastard like him should be hanged in Tiananmen Square.”
 
-*……What? They seem to like me quite a lot.*
+*…What? They seem pretty happy about it.*
 
 It wasn’t just the enlisted soldiers. Even the officers were whispering among themselves.
 
@@ -146,11 +146,11 @@ Team Leader Choi spoke as he walked beside me. Still dazed, I answered, “Yeah.
 
 *What’s gotten into this guy all of a sudden?*
 
-Team Leader Choi stared straight at me as I struggled to process his unexpected response.
+Team Leader Choi looked me straight in the eye.
 
 “Mr. Jin, you are indisputably an S-rank Hunter. You’re the dream and symbol of ordinary citizens, as well as a celebrity with enormous public support. General Liao, on the other hand, is the embodiment of the corrupt establishment. Anyone who tries to come after you will have to be prepared to pay an enormous price.”
 
-“So you’re saying it wouldn’t matter if I hit him a little harder?”
+“So you’re saying I could’ve hit him harder?”
 
 “There would still be consequences, but someone like General Liao, who is already on the verge of ruin, won’t be able to drag you down with him.”
 
@@ -184,7 +184,7 @@ The Hunters from the Public Security Armed Forces Department already despised Ge
 
 *He paid them.*
 
-In the end, it always came down to money. Team Leader Choi had paid people to talk, and they had spread the rumor in whatever way was most favorable to us.
+In the end, money was money. Team Leader Choi had paid people to talk, and they had spread the rumor in whatever way benefited us most.
 
 Besides, wasn’t the military a place crawling with microphones and loudspeakers?
 
@@ -252,7 +252,7 @@ Like a hawk swooping down on its prey, Magic Johnson seized Team Leader Choi’s
 
 Team Leader Choi’s answer was one hundred percent sincere. He must have thought about all kinds of things on the way here.
 
-But since Magic Johnson had no idea what the answer meant, it was more than enough to set his heart aflutter.
+Unfortunately, Magic Johnson had no idea what he meant, and the answer was more than enough to set his heart aflutter.
 
 “Oh! Then you’re just like me. We have so much in common, don’t we?”
 
@@ -300,7 +300,7 @@ Unlike the other fronts, which were advancing little by little under Army and Ai
 
 *I did tear through them with unstoppable momentum, but did we really get that far?*
 
-Magic Johnson laughed loudly at my bewildered expression.
+Magic Johnson laughed at my bewildered expression.
 
 “That doesn’t sound like the Genghis Khan of the twenty-first century. You’ve accomplished an incredible military feat. Why not smile a little?”
 
