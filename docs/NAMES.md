@@ -1902,3 +1902,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 효웅 | **ambitious warlord** | Archetype used for Lee Jungryong as a ruthless, ambitious ruler. |
 | 김종필 | **Kim Jong-pil** | Ares Guild managing director whose faction betrays the Guild on the eighty-fifth floor. |
 | 최 전무 | **Executive Director Choi** | Ares Guild executive who asks Go Se-won where the Vice Guild Master is. |
+| 진호 | **Jin-ho** | Jin Taekyung's older male friend, addressed as Jin-ho hyung. |
