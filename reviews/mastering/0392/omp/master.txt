@@ -138,7 +138,7 @@ The tanks were only now entering the city.
 
 Shao Shen watched the advancing column grow from distant specks into looming vehicles, his eyes blazing like fire.
 
-「Then I suppose I’ll have to kill that bastard, at least.」
+「Then I’ll have to kill that bastard instead.」
 
 There was no question who *that bastard* meant.
 
@@ -168,7 +168,7 @@ Sshk.
 
 At last, his eyelids closed tight. The final look in Shao Shen’s eyes held an unmistakable question.
 
-*Why? How come?*
+*Why? Why are you doing this?*
 
 And Shao Shen wasn’t the only one asking it.
 
@@ -178,9 +178,9 @@ And Shao Shen wasn’t the only one asking it.
 
 Whoooooosh! Shing!
 
-Along with furious shouts, five sounds of air being split apart rang out.
+Five streaks tore through the air amid furious shouts.
 
-They were A-rank Hunters under Shao Shen’s command, men called company commanders.
+They came from the A-rank Hunters serving beneath Shao Shen—the men they called company commanders.
 
 I swept a hand toward them as they charged without hesitation.
 
@@ -190,7 +190,7 @@ Compressed air exploded outward, forcing the weapons hurtling toward me to veer 
 
 The company commanders barely managed to block the palm force tearing through the air, their bodies skidding backward across the ground.
 
-It was fortunate that I had restrained my strength. If I had truly steeled myself, things would not have ended this easily.
+They were lucky I had held back. If I had truly meant to hurt them, it wouldn’t have ended there.
 
 “Everyone, calm down. I didn’t want to go this far either.”
 
@@ -208,7 +208,7 @@ As the atmosphere turned hostile, Team Leader Choi stepped forward and spoke qui
 
 「W-What did you say?」
 
-“If we had left him alone, the enraged Regimental Commander Shao would have killed General Liao.”
+“If he had done nothing, the enraged Regimental Commander Shao would have killed General Liao.”
 
 「……General Liao deserves to die. Even if our regimental commander hadn’t done it, we would have taken matters into our own hands.」
 
@@ -226,7 +226,7 @@ They were a force nearly a thousand strong. I hadn’t thought that far ahead, b
 
 I felt the hostility begin to subside.
 
-Team Leader Choi’s words were both practical and grounded in emotion. One of the company commanders who had not joined the attack finally spoke.
+His words appealed to both reason and emotion. One of the company commanders who hadn’t joined the attack finally spoke.
 
 「I agree. Killing that bastard right now would be easy, but… dealing with the aftermath would not.」
 
@@ -252,17 +252,17 @@ Once the situation had finally settled, Team Leader Choi let out a relieved sigh
 
 “……It was nothing.”
 
-Fortunate. Was this really something we should call fortunate?
+Glad. Could anything about this really be called fortunate?
 
 Even though I knew there had been no other choice, a bitter taste lingered in my mouth. I knew the rage and grief Shao Shen must have felt.
 
-“More importantly, it seemed there were survivors.”
+“More importantly, I heard there were survivors.”
 
-“There was a middle-aged couple and one child. They apparently fainted from extreme tension, so they’re being moved somewhere else to rest for now.”
+“They found a middle-aged couple and a child. All three apparently fainted from the extreme strain, so they’re being moved elsewhere to rest for now.”
 
 “Are there any other survivors?”
 
-“We’ll find them soon enough.”
+“We’ll find out soon enough.”
 
 Team Leader Choi frowned and looked over my shoulder as he continued.
 
@@ -270,13 +270,13 @@ Team Leader Choi frowned and looked over my shoulder as he continued.
 
 Rattle-rattle.
 
-The armored vehicle advancing with a deafening racket stopped about twenty meters ahead of us.
+The armored vehicle advancing with a deafening racket stopped about twenty meters away.
 
 A moment later, the plump General Liao emerged under heavy guard.
 
 「W-What in the world…?」
 
-At the horrific sight before him, his already fair complexion turned deathly pale.
+At the horrific sight before him, his already pale complexion turned deathly white.
 
 He doubled over and retched for a long while. The sight filled me with disgust, but it also made me think that perhaps he was human after all.
 
@@ -288,7 +288,7 @@ But General Liao’s next words reminded me of something I had forgotten.
 
 People like him always managed to exceed the limits of imagination.
 
-「N-No. The operation wasn’t supposed to fail!」
+「N-No. This operation couldn’t fail!」
 
 “……!”
 
@@ -324,7 +324,7 @@ Then he screamed like a pig being slaughtered.
 
 「Aaaaaaaaargh!!!」
 
-I spat at him as he rolled his eyes back, collapsed to the ground, and convulsed in pain, then turned away.
+His eyes rolled back as he collapsed and convulsed in pain. I spat on him and turned away.
 
 I didn’t forget to address the staff officer staring at me as though his soul had left his body.
 
@@ -360,9 +360,9 @@ But…
 
 The Arch Lich felt a sudden pang of regret.
 
-It possessed truly formidable magical power, but it was still far weaker than the strength it had once possessed. On top of that, the situation on the battlefield was proving more difficult than expected.
+It possessed immense magical power, but that power still fell far short of what it had once commanded. Worse, the war was proving more difficult than expected.
 
-After silently sinking into thought, the Arch Lich opened its mouth.
+After a long silence, the Arch Lich spoke.
 
 “Are you listening, my servant?”
 
@@ -370,7 +370,7 @@ The being prostrated in the darkness answered.
 
 “Yes, my lord.”
 
-“Pull back the front line. We’ll draw the human army in.”
+“Pull back the front line. Draw the human army in.”
 
 “I obey.”
 
@@ -378,7 +378,7 @@ The being prostrated in the darkness answered.
 
 The black knight rose and slowly withdrew.
 
-At the final moment, the Arch Lich’s chair was reflected in his eyes, which burned red.
+Just before he vanished, his burning red gaze caught the chair upon which the Arch Lich sat.
 
 Tap. Tap-tap.
 

@@ -1,0 +1,385 @@
+# Chapter 392
+
+*Damn it. Faster. Faster.*
+
+Whoooooosh!
+
+I squeezed out every last ounce of strength and activated my movement technique. Each time the scenery flashed past, the ruined city drew closer at terrifying speed.
+
+But I could tell how things had ended before I even arrived. No—I should say someone had told me.
+
+Beep.
+
+> **System**
+>
+> ??? has completed its objective and disappeared.
+>
+> Sudden Quest, **Unexpected Assault**, has been canceled.
+>
+> You failed to complete the Quest. As a failure penalty, a random stat decreases by 10.
+>
+> **Strength** decreases by 10.
+
+The moment I heard the System notification, the tension that had been wound tight inside me abruptly released.
+
+It wasn’t because I had failed the Quest, nor because my stat had decreased. I knew what this meant.
+
+The silence I felt as I drew closer to the city, followed by the scene that unfolded before my eyes moments later, changed my suspicion into certainty.
+
+“……”
+
+Blood covered the area in every direction, and corpses lay scattered in horrifying positions. Even I, who had grown accustomed to death after fighting countless battles, froze for a moment.
+
+*Massacre.*
+
+Yes. This was a massacre. They had blown people apart, torn them to pieces, and crushed them.
+
+The sight of living humans having been hunted down and killed like ants made it hard to breathe.
+
+If even I, an outsider from another country who had never met these people, felt that way, then the grief and rage of the Hunters from the Public Security Armed Forces Department who arrived behind me could not be expressed in words.
+
+「Zhang Wei! Langlang!」
+
+「W-Who the hell did this? Who the hell…? Sob…」
+
+「No! Aaaaaah!」
+
+These were the comrades who had entrusted each other with their backs. Among the people lying there as cold corpses were their brothers and their lovers.
+
+Amid the endless wailing and shouting, one person who had been standing silently suddenly took a step forward.
+
+Thud. Thud.
+
+Perhaps his hollow footsteps sounded especially loud because, unlike his usual self, his face was utterly numb and devoid of emotion.
+
+Team Leader Choi, standing beside me, called my name in a low voice.
+
+“Mr. Jin.”
+
+“I know. Me too.”
+
+Sometimes there were things you had to do even when you didn’t want to. This was one of those times, and I painfully forced my lips apart.
+
+“Shen.”
+
+「…….」
+
+“Shao Shen!”
+
+Thud. Thud. Thud.
+
+Despite my forceful shout, Shao Shen’s footsteps did not stop. He simply continued walking toward some unknown place in search of the criminals who had killed his subordinates.
+
+In the end, I had to approach him myself and grab his shoulder.
+
+Smack.
+
+“Stop.”
+
+A dry, lifeless voice spilled out.
+
+「……Let go. I have to go.」
+
+“Where?”
+
+「Where?」
+
+Shao Shen looked around with empty eyes before continuing.
+
+「I don’t know. But they must be somewhere.」
+
+“You…”
+
+「I have to chase them. I’ll find them somehow, no matter what it takes, and I’ll have my revenge.」
+
+“……!”
+
+For a moment, I was unable to speak.
+
+The man I saw before me was not Shao Shen. He was me, a few years ago.
+
+That was why I couldn’t easily say what needed to be said.
+
+*Because I know how he feels.*
+
+He wanted to kill them, and he probably wanted to die as well.
+
+The feelings left behind by the deaths of those close to you weren’t only rage and grief. For the survivor, there was guilt waiting—heavier than those two emotions combined.
+
+The guilt left behind by a hundred deaths was far too heavy for a twenty-one-year-old young man to bear.
+
+*Damn it.*
+
+I swallowed the curse circling the tip of my tongue and tightened my grip on his shoulder.
+
+“You’re too late.”
+
+「…….」
+
+“It’s already too late. We can’t find them right now. This isn’t a guess. I know it for certain.”
+
+The System notification had told me so. There was no way I could be wrong.
+
+Shao Shen met my confident gaze and muttered blankly.
+
+「I’m too late. It really is too late.」
+
+“I don’t want to admit it either, but… yes. That’s reality.”
+
+I thought he would finally let his suppressed rage and grief erupt.
+
+Just as I had done years ago, I thought he would cry out loud and smash anything he could see.
+
+But I was wrong. The object of Shao Shen’s desire for revenge wasn’t limited to the monsters.
+
+Rattle-rattle. Thud.
+
+The tanks were only now entering the city.
+
+As Shao Shen watched the advancing column draw closer from a distant speck, his eyes burned like flames.
+
+「Then I suppose I’ll have to kill that bastard, at least.」
+
+It was obvious who *that bastard* referred to.
+
+General Liao. The man responsible for issuing this goddamn order.
+
+Because of a single ridiculous order from that bastard, a hundred Hunters and hundreds of soldiers had died. Even I thought he was someone who absolutely had to pay the price.
+
+But…
+
+“Fuck. I’m sorry.”
+
+Feeling wretched, I reached out.
+
+Shao Shen sensed something was wrong and tried to evade me, but my hand moved fluidly and had already brushed his acupoints.
+
+Tap. Tap-tap!
+
+The Paralysis Acupoint, the Mute Acupoint, and the Sleep Acupoint.
+
+Shao Shen’s entire body went rigid, his voice was cut off, and deep sleep began to overtake him.
+
+His eyelids trembled as though he were struggling with all his strength to resist the drowsiness pouring over him.
+
+“For now… get some proper sleep. Their deaths weren’t your fault.”
+
+Sshk.
+
+In the end, his eyelids closed firmly. The last thing I saw in Shao Shen’s eyes was unmistakable confusion.
+
+*Why? How come?*
+
+And Shao Shen wasn’t the only one who felt that way.
+
+「Regimental Commander!」
+
+「Jin Taekyung, you!」
+
+Whoooooosh! Shing!
+
+Along with furious shouts, five sounds of air being split apart rang out.
+
+They were A-rank Hunters under Shao Shen’s command, men called company commanders.
+
+I swept a hand toward them as they charged without hesitation.
+
+Boom!
+
+With the sound of compressed air exploding outward, the weapons flying at me abruptly changed direction.
+
+The company commanders barely blocked the palm force that had torn through the air toward them, and their bodies slid backward across the ground.
+
+It was fortunate that I had restrained my strength. If I had truly steeled myself, things would not have ended this easily.
+
+“Everyone, calm down. I didn’t want to go this far either.”
+
+「Kgh!」
+
+「What the hell do you think you’re doing?!」
+
+「How dare you lay a hand on the regimental commander…!」
+
+「This is how you repay his kindness?!」
+
+As the atmosphere grew more hostile, Team Leader Choi stepped forward and spoke in a low voice.
+
+“Mr. Jin is only repaying the favor.”
+
+「W-What did you say?」
+
+“If we had left him alone, the enraged Regimental Commander Shao would have killed General Liao.”
+
+「……General Liao deserves to die. Even if our regimental commander hadn’t done it, we would have taken matters into our own hands.」
+
+“I agree. But I don’t know what your country’s Central Committee would think of that—especially the Crown Prince Party, which General Liao belongs to.”
+
+「……!」
+
+“The man you’re talking about is the supreme commander responsible for an entire front. If you kill him, it won’t end as a personal matter.”
+
+Team Leader Choi looked over the Hunters from the Public Security Armed Forces Department one by one.
+
+They were a force numbering around a thousand. I hadn’t thought that far ahead, but if they became involved in an incident like this, they wouldn’t be able to avoid trouble either.
+
+“I’m not telling you to forget what happened today. I’m only saying that now isn’t the time.”
+
+I could feel the hostile atmosphere beginning to settle.
+
+Team Leader Choi’s words were both practical and grounded in emotion. One of the company commanders who had not joined the attack finally spoke.
+
+「I agree. Dealing with that bastard right now would be easy, but… if we did, it would be difficult to deal with the consequences.」
+
+「…….」
+
+「Remember this. Our brothers didn’t die solely because of General Liao.」
+
+After looking around at the horrific sea of corpses and blood, he ground his teeth.
+
+「Let’s wait a little. Just a little longer. The time will come soon.」
+
+「Haaah.」
+
+「……Damn it all!」
+
+Some people looked up at the sky and lamented. Others failed to contain the grief and rage surging inside them.
+
+But it was clear that they had all reached the same tacit agreement.
+
+Once the situation finally came to an end, Team Leader Choi let out a relieved sigh.
+
+“We can finally breathe. It’s fortunate that you stopped Regimental Commander Shao, Mr. Jin.”
+
+“……It was nothing.”
+
+Fortunate. Was this really something we should call fortunate?
+
+Even knowing that there had been no other choice, I was left with a bitter taste in my mouth. I knew the rage and grief Shao Shen must have felt.
+
+“More importantly, it seemed there were survivors.”
+
+“There was a middle-aged couple and one child. They apparently fainted from extreme tension, so they’re being moved somewhere else to rest for now.”
+
+“Are there any other survivors?”
+
+“We’ll find them soon enough.”
+
+Team Leader Choi frowned and looked over my shoulder as he continued.
+
+“Once the order comes down from that utterly incompetent commander, at least.”
+
+Rattle-rattle.
+
+The armored vehicle advancing with a deafening racket stopped about twenty meters ahead of us.
+
+A moment later, under heavy escort, the plump General Liao emerged.
+
+「W-What in the world…?」
+
+At the horrific sight before him, his already fair complexion turned deathly pale.
+
+Watching him bend over and retch for quite some time, I felt disgusted—but I also found myself thinking that he was human after all.
+
+*You bastard. I guess you do feel some guilt.*
+
+Everyone here had probably been thinking the same thing as me.
+
+But the next words General Liao spoke reminded me of a lesson I had forgotten.
+
+People like him always exceeded the limits of imagination.
+
+「N-No. The operation wasn’t supposed to fail!」
+
+“……!”
+
+The world seemed to slow down.
+
+Like a slow-motion scene, I saw shock and rage rise across the faces of the people around me.
+
+I saw Team Leader Choi reaching out toward me and shouting urgently.
+
+“Mr. Jin!”
+
+But it was already too late.
+
+By the time he called my name, I had already crossed the twenty-odd meters and arrived in front of General Liao.
+
+*An operation. An operation…*
+
+I couldn’t hold back a laugh.
+
+I reached out toward the man staring up at me with a blank face, as though he were looking at a ghost.
+
+Crack! Crunch!
+
+It happened in an instant.
+
+Using nothing but physical strength, without a single thread of internal energy, I broke both his arms and crushed his kneecaps.
+
+*Consider yourself lucky I still have a shred of reason left.*
+
+His mouth hung open. His eyes bulged wide.
+
+Then a scream like a pig being slaughtered burst from him.
+
+「Aaaaaaaaargh!!!」
+
+I spat at him as he rolled his eyes back, collapsed to the ground, and convulsed in pain, then turned away.
+
+I didn’t forget to say one thing to the staff officer staring at me with a face drained of all spirit.
+
+“Report it to your superiors if you’ve got a fucking problem, you bastards.”
+
+Team Leader Choi shook his head repeatedly and approached with a high-grade potion.
+
+* * *
+
+The chair was enormous and bizarre.
+
+That was only natural. It had been made from human and monster bones.
+
+But it was not as bizarre or terrifying as its owner.
+
+Tap. Tap-tap.
+
+A finger without a trace of flesh tapped the skull decorating the armrest.
+
+The figure stood well over three meters tall, with an enormous frame. A black robe draped over it rippled like mist.
+
+It looked like a king seated upon a throne, and that wasn’t entirely wrong.
+
+The Arch Lich.
+
+It was an existence worthy of being called the lord of the undead and the king who ruled over death.
+
+But the Arch Lich itself did not think that way. There was a true king elsewhere, and it was merely his loyal servant.
+
+But…
+
+*Was it still too soon?*
+
+The Arch Lich suddenly felt a pang of regret.
+
+It possessed truly formidable magical power, but it was still far weaker than the strength it had once possessed. On top of that, the situation on the battlefield was proving more difficult than expected.
+
+After silently sinking into thought, the Arch Lich opened its mouth.
+
+“Are you listening, my servant?”
+
+The being kneeling in the darkness answered.
+
+“Yes, my lord.”
+
+“Pull back the front line. We’ll draw the human army in.”
+
+“I obey.”
+
+“Go. Deliver my command to every legion within the reach of my power.”
+
+The black knight rose and slowly backed away.
+
+At the final moment, the Arch Lich’s chair was reflected in his eyes, which burned red.
+
+Tap. Tap-tap.
+
+The skull decorating the armrest was far too small to have belonged to an adult.

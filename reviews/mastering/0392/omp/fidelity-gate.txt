@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is largely faithful, with two minor fidelity shifts: one weakens the source's inability to contain the characters' emotions, and one adds uncertainty to the narrator's recognition that Liao is human.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "P119; source lines 247",
+      "current": "Others struggled to contain the grief and fury boiling inside them.",
+      "defect": "The current wording depicts an effort to contain the emotions without stating that they failed. The Korean says they could not hold back the surging grief and anger.",
+      "replacement": "Others couldn't contain the grief and fury boiling inside them.",
+      "rationale": "참지 못하는 indicates inability to suppress or endure the emotions, not merely struggling to control them.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "P137; source lines 279-281",
+      "current": "The sight filled me with disgust, but it also made me think that perhaps he was human after all.",
+      "defect": "The added hedge \"perhaps\" weakens the narrator's sudden recognition. The Korean presents the thought that Liao was human after all, without uncertainty.",
+      "replacement": "The sight filled me with disgust, but it also made me think that he was human after all.",
+      "rationale": "저놈도 사람이었구나 하는 생각이 문득 들었다 expresses a sudden realization or thought, not a tentative possibility.",
+      "confidence": 0.97
+    }
+  ]
+}

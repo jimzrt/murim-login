@@ -1,0 +1,131 @@
+{
+  "chapter": 392,
+  "stages": {
+    "adjudicator": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 30208,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.02245176,
+      "cost_usd": 0.02245176,
+      "elapsed_seconds": 388.587,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0392/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 23180,
+      "model": "gpt-5.6-luna",
+      "models": {
+        "openai-codex/gpt-5.6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 30208,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.02245176,
+          "input_tokens": 23180,
+          "model": "gpt-5.6-luna",
+          "output_tokens": 14343,
+          "provider": "openai-codex",
+          "reasoning_tokens": 9542,
+          "requests": 1,
+          "total_tokens": 67731
+        }
+      },
+      "output_bytes": 19003,
+      "output_tokens": 14343,
+      "packet_bytes": 88539,
+      "packet_token_estimate": 22135,
+      "provider": "openai-codex",
+      "reasoning_tokens": 9542,
+      "requested_model": "openai-codex/gpt-5.6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 67731,
+      "usage_source": "omp_provider_reported"
+    },
+    "fidelity_gate": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 30208,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.01211876,
+      "cost_usd": 0.01211876,
+      "elapsed_seconds": 198.541,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0392/omp/fidelity-gate.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "finding_count": 2,
+      "input_tokens": 16491,
+      "major_or_critical_count": 0,
+      "model": "gpt-5.6-luna",
+      "models": {
+        "openai-codex/gpt-5.6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 30208,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.01211876,
+          "input_tokens": 16491,
+          "model": "gpt-5.6-luna",
+          "output_tokens": 6847,
+          "provider": "openai-codex",
+          "reasoning_tokens": 6484,
+          "requests": 1,
+          "total_tokens": 53546
+        }
+      },
+      "output_bytes": 1573,
+      "output_tokens": 6847,
+      "packet_bytes": 56975,
+      "packet_token_estimate": 14244,
+      "provider": "openai-codex",
+      "reasoning_tokens": 6484,
+      "requested_model": "openai-codex/gpt-5.6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 53546,
+      "usage_source": "omp_provider_reported"
+    },
+    "master": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.244604,
+      "cost_usd": 0.244604,
+      "elapsed_seconds": 118.162,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0392/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 45626,
+      "model": "gpt-5.6-sol",
+      "models": {
+        "openai-codex/gpt-5.6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.244604,
+          "input_tokens": 45626,
+          "model": "gpt-5.6-sol",
+          "output_tokens": 3105,
+          "provider": "openai-codex",
+          "reasoning_tokens": 398,
+          "requests": 1,
+          "total_tokens": 48731
+        }
+      },
+      "output_bytes": 12306,
+      "output_tokens": 3105,
+      "packet_bytes": 62382,
+      "packet_token_estimate": 15596,
+      "provider": "openai-codex",
+      "reasoning_tokens": 398,
+      "requested_model": "openai-codex/gpt-5.6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 48731,
+      "usage_source": "omp_provider_reported"
+    }
+  },
+  "version": 1
+}
