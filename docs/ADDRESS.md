@@ -1034,3 +1034,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 척 헤이글 | allied partners | Chuck | polite speech | Taekyung addresses Hagel directly as Chuck and speaks politely to him. |
 | 척 헤이글 | 진태경 | allied partners | Crazy Korean | informal speech | Hagel repeatedly addresses the masked protagonist as Crazy Korean. |
 | 진태경 | 진호 | younger_friend_to_older_friend | Jin-ho hyung | informal and familiar | Taekyung repeatedly addresses Jin-ho as hyung while joking, asking favors, and sharing personal concerns. |
+| 송송이 | 최민우 | guild_member_to_guild_master | Team Leader Choi | formal-polite | Song Song addresses Choi by his former title while urging him to rest. |
+| 임꺽정 | 최민우 | guild_member_to_guild_master | Team Leader Choi | casual-but-concerned | Im Kkeokjeong uses Choi's former title while warning him about overwork. |
+| 최민우 | 정 기사님 | employer_to_driver | Driver Jung | polite | Choi orders the driver to turn the limousine around and cancel the day's schedule. |
+| 최민우 | 김 화 종 | grandson_to_grandfather | Grandfather | intimate and emotional | Choi finally addresses the deceased Kim Hwajong as 할아버지 at the grave. |
+| 스켈레톤 킹 | 진태경 | trusted_ally_to_trusted_ally | devious human | grumbling-intimate | The Skeleton King mutters 간악한 인간아 while thinking about Jin's errand. |

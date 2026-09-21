@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Yes. It had probably been after the battle with the Arch Lich known as the Small Cataclysm.",
+      "defect": "The modifier makes the Arch Lich itself sound as though it was known as the Small Cataclysm, whereas the source says the battle was given that name.",
+      "id": "F01",
+      "rationale": "소격변이라 명명된 modifies the battle or incident, not the Arch Lich.",
+      "replacement": "Yes. It had probably been after the battle with the Arch Lich—the incident dubbed the Small Cataclysm.",
+      "severity": "critical",
+      "source": "그래, 아마 소격변(小激變)이라 명명된 아크 리치와의 전투 이후였을 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Magic levels were rising abnormally. Monsters had grown stronger along with them, and human casualties—which had decreased so drastically after the Great Cataclysm that they had seemed almost nonexistent—were now appearing everywhere.",
+      "defect": "The draft uses “Magic” instead of the modern Hunter-system term “mana,” weakens the causal link expressed by 그에 따라, and adds the unsupported claim that casualties had seemed almost nonexistent.",
+      "id": "F02",
+      "rationale": "마력 is mana in this setting, 그에 따라 explicitly links the monsters’ increasing strength to rising mana, and 몰라볼 만큼 줄어들었던 means casualties had fallen dramatically, not that they had nearly disappeared.",
+      "replacement": "Mana levels had risen abnormally, monsters had grown stronger accordingly, and human casualties—which had fallen dramatically after the Great Cataclysm—were once again mounting everywhere.",
+      "severity": "major",
+      "source": "마력 수치는 비정상적으로 상승했고, 그에 따라 몬스터는 강력해졌으며, 대격변 이후 몰라볼 만큼 줄어들었던 인명 피해가 곳곳에서 속출했다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Please call me Team Leader Choi. That was what you called me when we first met.”",
+      "defect": "The draft adds that they addressed Choi by that title during their first meeting. The source instead grounds his preference in the role he occupied when their relationship began.",
+      "id": "F03",
+      "rationale": "우린 그때 만났으니까요 means they met during that period, not explicitly that this was what they called him at their first meeting.",
+      "replacement": "“Please call me Team Leader Choi. That was my title when we met.”",
+      "severity": "minor",
+      "source": "“팀장님이라고 불러 주십시오. 우린 그때 만났으니까요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I’m fine.”\n\nFaced with Choi Minwoo calmly repeating the same answer, Song Song and Im Kkeokjeong, who had tried to dissuade him, could do nothing but fall silent.\n\nAnd yet, why was it?\n\nThe answer that reached their ears was the same as before, but the answer that reached their hearts was different.\n\n*I’m fine.*",
+      "defect": "The draft renders both answers identically, erasing the marked inversion of 괜찮습니다, 저는 that makes the repeated words feel different and gives the surrounding narration its point.",
+      "id": "F04",
+      "rationale": "The source deliberately shifts from 저는 괜찮습니다 to 괜찮습니다, 저는, placing emphasis on Choi himself; that pragmatic shift must remain perceptible in English.",
+      "replacement": "“As for me, I’m fine.”\n\nFaced with Choi Minwoo calmly repeating the same answer, Song Song and Im Kkeokjeong, who had tried to dissuade him, could do nothing but fall silent.\n\nAnd yet, why was it?\n\nThe answer that reached their ears was the same as before, but the answer that reached their hearts was different.\n\n*As for me, I’m fine.*",
+      "severity": "major",
+      "source": "“괜찮습니다, 저는.”\n\n담담한 목소리로 똑같은 대답을 반복하는 최민우의 모습에, 그를 만류하려던 송송이와 임꺽정도 입을 다물 수밖에 없었다.\n\n하지만 어째서일까. 그들의 귀로 흘러들어온 대답은 처음과 같았지만, 마음속으로 전해진 대답은 처음과 달랐다.\n\n괜찮습니다, 저는."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The sorrow and guilt he felt for someone he could never reach, no matter how many times he climbed this high, steep path, weighed down his heart.",
+      "defect": "The draft generalizes away the explicit escalating quantities “a hundred, a thousand times,” weakening the deliberate image.",
+      "id": "F05",
+      "rationale": "백 번, 천 번 is an explicit rhetorical escalation and should not be reduced to the generic “no matter how many times.”",
+      "replacement": "Sorrow and guilt over the one person he could never reach, even if he climbed this high, steep path a hundred or a thousand times, weighed on Choi Minwoo’s heart.",
+      "severity": "minor",
+      "source": "높고 가파른 이 길을 백 번, 천 번을 오른다 해도 닿을 수 없는 한 사람에 대한 슬픔과 죄책감이 최민우의 마음을 짓눌렀다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Then, in the next moment, Choi Minwoo’s body stiffened as he placed the bouquet beside the burial mound.",
+      "defect": "The draft makes setting down the bouquet and freezing simultaneous, while the source presents him as having set it down before he abruptly freezes.",
+      "id": "F06",
+      "rationale": "내려놓은 describes the completed placement preceding 몸이 우뚝 굳었다.",
+      "replacement": "Then, the next moment, Choi Minwoo set the bouquet beside the burial mound—and froze.",
+      "severity": "minor",
+      "source": "그리고 다음 순간, 손에 든 꽃다발을 봉분 옆에 내려놓은 최민우의 몸이 우뚝 굳었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Everything had become a blur, and he let out a choked sound of anguish.",
+      "defect": "The draft turns emotional numbness and constriction into visual blurring and intensifies 탄식 into an explicit sound of anguish.",
+      "id": "F07",
+      "rationale": "먹먹해져 conveys being emotionally overwhelmed or numb, while 목맨 탄식 is a choked sigh or lament rather than a visual blur.",
+      "replacement": "Overwhelmed by it all, he let out a choked sigh.",
+      "severity": "minor",
+      "source": "그저 모든 것이 먹먹해져, 목맨 탄식을 토해 낸 그 순간이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If it had been the Skeleton King under normal circumstances, he would have bluntly replied that he could not.",
+      "defect": "The draft changes a brusque refusal into an assertion of inability.",
+      "id": "F08",
+      "rationale": "안 된다고 here is the Skeleton King refusing the request, not saying that he lacks the ability to permit it.",
+      "replacement": "Under normal circumstances, the Skeleton King would have bluntly said no.",
+      "severity": "major",
+      "source": "평소의 스켈레톤 킹이었다면 퉁명스럽게 안 된다고 대답했을 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“And then he would overcome it and continue living. He would remember the person who left forever.”",
+      "defect": "The placement of “forever” makes it describe the person’s departure instead of the duration of the remembering.",
+      "id": "F09",
+      "rationale": "영원히 modifies 기억하면서: he will remember the departed person forever.",
+      "replacement": "“And then he would overcome it and go on living, forever remembering the person who left.”",
+      "severity": "major",
+      "source": "“그리고 극복하고 계속해서 살아가겠지. 떠난 사람을 영원히 기억하면서.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“Wait at Butler Kim’s grave. Even if we run into each other before then, don’t say a word. He’ll probably need time to overcome it.”*",
+      "defect": "The draft’s “we run into each other” makes the possible encounter one between Jin Taekyung and the Skeleton King. Jin is actually instructing the Skeleton King not to tell Choi anything if the Skeleton King encounters Choi before the cemetery meeting.",
+      "id": "F10",
+      "rationale": "The unstated parties in 만나더라도 are the Skeleton King and Choi Minwoo, as confirmed by the delivery plan and the ensuing cemetery encounter.",
+      "replacement": "*“Wait at Butler Kim’s grave. Even if you run into him before then, don’t say a word. He’ll probably need time to overcome it.”*",
+      "severity": "critical",
+      "source": "‘김 집사님 묘지에서 기다려. 그전에는 만나더라도 입 벙긋하지 말고. 아마 이겨 낼 시간이 필요할 거야.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "For one thing, he had run into him at the cemetery exactly as he had said.",
+      "defect": "With Jin Taekyung as the immediately preceding male referent, the pronouns imply that the Skeleton King encountered Jin at the cemetery and that Jin had predicted it. The actual encounter was with Choi Minwoo.",
+      "id": "F11",
+      "rationale": "The scene establishes that the Skeleton King met Choi at Kim Hwajong’s grave in accordance with Taekyung’s prediction.",
+      "replacement": "For one thing, he had run into Choi Minwoo at the cemetery exactly as Taekyung had predicted.",
+      "severity": "critical",
+      "source": "그의 말마따나 묘지에서 딱 마주친 것도 그렇고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The more the Skeleton King thought about Jin Taekyung, the more infuriating he found him. But to be honest, he did not feel as bad as he should have.",
+      "defect": "The draft adds an unsupported judgment about how bad the Skeleton King ought to feel and fails to preserve the oddity he perceives in his unexpectedly good mood.",
+      "id": "F12",
+      "rationale": "이상하리만치 means strangely or oddly, while 썩 나쁘지 않았다 simply says his mood was not particularly bad; it does not compare that mood against how he should have felt.",
+      "replacement": "The more the Skeleton King thought about Jin Taekyung, the more infuriating he found him. But honestly, for some strange reason, he did not feel all that bad.",
+      "severity": "minor",
+      "source": "스켈레톤 킹은 그런 진태경을 생각할수록 괘씸했지만, 솔직히 말하자면 이상하리만치 기분이 썩 나쁘지 않았다."
+    }
+  ],
+  "summary": "The draft contains several subject and action errors in the cemetery sequence, misidentifies what the Small Cataclysm names, and loses meaningful distinctions in terminology, emphasis, quantity, and emotional phrasing.",
+  "version": 1
+}
