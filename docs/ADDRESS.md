@@ -996,3 +996,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 구치소장 | visiting_Hunter_to_detention_center_warden | Warden | polite, dry, and uneasy | Jin addresses the warden as 소장님 while reacting to his disturbing enthusiasm for beating prisoners. |
 | 최민우 | 박대원 | prospective_Ares_Guild_claimant_to_acting_head | Vice President Park | formal, calm, and coercive | Orders Park to have all Ares executives present at headquarters by six o'clock. |
 | 박대원 | 최민우 | acting_Ares_head_to_prospective_Guild_claimant | Team Leader Choi, then Mr. Choi | formal and hesitant | Initially uses Choi's title before switching to his name while asking for more time. |
+| 김광필 | 백 전무 | Ares Guild executives in opposing factions | Executive Director Baek | hostile, confrontational, and profane | Kim challenges Baek over joining Jin Taekyung and possible involvement in Go Jun's crimes. |
+| 최민우 | 백 전무 | prospective Ares Guild claimant to hostile executive | Executive Director Baek | formal, calm, and threatening | Choi addresses Baek while questioning the absent executives and offering him a prescription. |

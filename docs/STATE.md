@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 600
-- Next chapter: 601
-- Current block: 600–604 (1/5)
-- Latest translation: `translations/0600.md`
-- Latest summary: `summaries/beats/0600.md`
-- Safe profiles through: chapter 600
+- Last completed: 601
+- Next chapter: 602
+- Current block: 600–604 (2/5)
+- Latest translation: `translations/0601.md`
+- Latest summary: `summaries/beats/0601.md`
+- Safe profiles through: chapter 601
 
 ## Current Block
 
-- Jin Taekyung tells Choi Minwoo about Go Se-won's disclosure of a second secret area within Ares Guild's Area A. Choi reveals that Song Cheonwoo had independently told him about the area and its purpose: concealing Cheon Taemin, who has been unconscious for more than twenty years. Lee Jungryong and Song concealed Taemin's condition, but Choi does not believe they caused it.
-- Choi explains that key insiders within the government's investigation team have joined forces with them, but the investigation of Area A is expected to last at least a month. To halt it and secure Taemin, Choi plans to become Ares Guild's lawful owner. He asks Jin for help, and Jin agrees.
-- Choi pressures Park Daewon, Ares Guild's acting head, to gather the executives at headquarters by six o'clock. He also announces that he will hold a press conference, beginning an aggressive campaign to seize control of Ares Guild.
+- Ares Guild's remaining executives gather for an emergency meeting while headquarters is repaired. Managing Director Kim Gwangpil confronts Executive Director Baek's faction, and Vice President Park Daewon reveals that Choi Minwoo is Cheon Taemin's only maternal grandson. Choi then publicly confirms the relationship during his press conference, causing the executives to realize that he has finally begun reclaiming what was lost.
+- At six o'clock, Choi Minwoo and Jin Taekyung enter Ares headquarters. Choi questions the absent advisers and branch directors, sends notes exposing their unrevealed crimes, and prepares to take the vacant seat at the head of the table while the remaining executives submit to his pressure.
 
 ## Open Questions
 
