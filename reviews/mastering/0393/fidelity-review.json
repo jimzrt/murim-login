@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The fact that you’re trying to make excuses means you know I’m right.",
+      "defect": "The Korean says that their attempts to make excuses suggest they know it too, without explicitly stating that they know Faye Chen is right. The current line adds that specific conclusion and removes the source's ambiguity.",
+      "id": "F01",
+      "rationale": "본인들도 알긴 아나 보네 leaves the object of 알다 implicit; it does not explicitly assert “I’m right.”",
+      "replacement": "The fact that you’re trying to make excuses tells me you know it, too.",
+      "severity": "minor",
+      "source": "Korean lines 43–44; assembled P21"
+    },
+    {
+      "confidence": 0.97,
+      "current": "His boiling anger had already vanished without a trace.",
+      "defect": "The current line adds disappearance without a trace and loses the source's temporal detail that the anger had been gone for a long time.",
+      "id": "F02",
+      "rationale": "사라진 지 오래였다 specifies elapsed time since the anger disappeared, not that it vanished without leaving a trace.",
+      "replacement": "His boiling anger had been gone for a long time.",
+      "severity": "minor",
+      "source": "Korean lines 193–194; assembled P97"
+    }
+  ],
+  "summary": "Mostly faithful, with two minor meaning shifts: one over-resolves an intentionally unstated inference, and one replaces a temporal detail with an unsupported image.",
+  "version": 1
+}

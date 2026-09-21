@@ -34,7 +34,7 @@ The words of someone who had remained silent carried weight. Even more so when t
 
 “Half the command staff, including the commander, were torn apart by flying monsters. The troops under them panicked, driving the casualties even higher. Can you really call any part of that a relief?”
 
-The people flinched beneath the gaze filled with an irresistible aura.
+Everyone flinched beneath the irresistible force of her gaze.
 
 “W-Well, the thing is…”
 
@@ -44,7 +44,7 @@ A chilling voice slipped between red lips.
 
 Faye Chen’s gaze swept across the room, then stopped abruptly on one man.
 
-“Why don’t you have any excuses?”
+“Why aren’t you even trying to make an excuse?”
 
 After a brief silence, Wu Heixing swirled the liquor in his crystal glass.
 
@@ -58,7 +58,7 @@ Faye Chen’s eyes darkened.
 
 “…I went to support the front line.”
 
-Wu Heixing’s answer was nothing more than a pathetic excuse. When he abandoned the rear, the troops on the front line under Faye Chen’s command had been successfully holding back the endless assault of the monster army.
+Wu Heixing’s answer was nothing more than a pathetic excuse. When he abandoned the rear, the troops under Faye Chen’s command had been holding the front line against the monster army’s endless assault without any trouble.
 
 “Oh, right. There was that, too. You charged deep into enemy territory like some clueless brat because you wanted all the glory, and the formation collapsed. Those kids who went after you to save your ass—did you even know they never found their bodies?”
 
@@ -68,7 +68,7 @@ Wu Heixing’s answer was nothing more than a pathetic excuse. When he abandoned
 
 Faye Chen continued quietly.
 
-“People like you dying without anyone knowing used to be even more common. Come to think of it, the world has gotten pretty nice. If this had been during the Great Cataclysm…”
+“Back then, people like you disappearing without a trace was even more common. Come to think of it, the world has gotten awfully forgiving. If this had been during the Great Cataclysm…”
 
 But Faye Chen never got to finish.
 
@@ -122,7 +122,7 @@ The media discriminated against Faye Chen for being from Hong Kong, but when it 
 
 Wu Heixing clenched his teeth, refusing to respond, and swept his gaze around the room.
 
-No one had bothered to say anything aloud, but the looks in their eyes resembled Faye Chen’s.
+No one said anything aloud, but their eyes held the same contempt as Faye Chen’s.
 
 *These fucking bastards…!*
 
@@ -138,7 +138,7 @@ As he departed reeking of liquor, Faye Chen’s quiet voice flew after him and s
 
 “Remember this, too. Today is the last day I’ll tolerate a child’s reckless bravado. If this happens again… I won’t forgive you.”
 
-Grind.
+Grit.
 
 Wu Heixing returned to his quarters grinding his teeth. The first thing he did was smash everything in sight.
 
@@ -158,11 +158,11 @@ Far from fading, it burned hotter the more he thought about it. His heart pounde
 
 *How dare they treat me like this?*
 
-He had been born into the family of one of the most powerful men in China and had risen all the way to this point.
+He had been born into one of the most powerful families in China and risen all the way to the top.
 
 Once he became an S-rank Hunter, the world had belonged to him.
 
-No matter what major disaster he caused, the worst that happened was being summoned by his father and scolded a few times. He had never cared about the criticism from the public or opposing factions.
+No matter how big a scandal he caused, the worst consequence was being summoned by his father and scolded a few times. He had never cared when the public or opposing factions denounced him.
 
 *I’m Wu Heixing. Wu Heixing!*
 
@@ -170,7 +170,7 @@ An S-rank Hunter was the face of a nation, another name for its national power. 
 
 That was reality.
 
-Was that why he had become more passionate about media interviews and parties than smelly, dirty raids? Why he had stopped training and started using drugs?
+Was that why he had become more interested in media interviews and parties than filthy, foul-smelling raids? Why he had stopped training and started doing drugs?
 
 But the first war of his life was chaos. Watching the monster armies surge forward without end, day after day, left him struggling to breathe.
 
@@ -194,11 +194,11 @@ He smiled, recalling the conversation he had shared with Lee Jungryong on the ni
 
 *Just wait and see. We’ll find out who gets the last laugh.*
 
-Once his mind calmed, the fatigue he had temporarily forgotten came rushing back and weighed down his eyelids. As drowsiness overcame him, Wu Heixing suddenly thought:
+Once he calmed down, the exhaustion he had forgotten came rushing back, weighing heavily on his eyelids. As sleep overtook him, Wu Heixing had one last thought.
 
 *Damn it. How many more battles like today’s are we going to have to fight?*
 
-A short while later, Wu Heixing fell fast asleep, unaware that countless monster armies were withdrawing from the front lines under cover of the pitch-dark night.
+A short while later, Wu Heixing fell fast asleep, unaware that countless monsters were withdrawing from the front lines under cover of the pitch-dark night.
 
 The mass withdrawal was taking place simultaneously across every front in Sichuan Province.
 
@@ -250,7 +250,7 @@ Team Leader Choi cut in stiffly.
 
 “Lucky for us, then. If things weren’t like this, that bastard would’ve died by my hand already.”
 
-An incompetent commander was more frightening than an enemy.
+An incompetent commander was more dangerous than the enemy.
 
 General Liao had thrown away nearly a thousand lives, then started whining about a failed operation and military glory. He deserved to die.
 
@@ -260,7 +260,7 @@ General Liao had thrown away nearly a thousand lives, then started whining about
 
 “What can we do? The water’s already spilled. We’ll deal with it if trouble comes.”
 
-Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Shao Shen spoke in a low voice.
+Team Leader Choi was shaking his head at my nonchalant answer when Shao Shen spoke quietly.
 
 “Don’t worry. What you’re concerned about, Mr. Choi, won’t happen.”
 
@@ -310,7 +310,7 @@ The staff officer flinched, swallowed hard, and answered.
 
 *It can’t be Mom and Hayeon, can it?*
 
-That absurd thought had just crossed my mind when the staff officer’s answer came flying at me.
+The absurd thought had barely crossed my mind when the staff officer answered.
 
 “Magic Johnson, a Hunter from the United States, has come to see you.”
 
