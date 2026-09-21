@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“No. Other than the fact that one of them is standing in front of me.”",
+      "defect": "The draft says Al Diab is standing, contradicting the established fact that he is seated.",
+      "id": "F01",
+      "rationale": "The Korean says only that one Muslim is before the narrator and does not change Al Diab’s seated position.",
+      "replacement": "“No. Other than the fact that one of them is sitting in front of me.”",
+      "severity": "critical",
+      "source": "“모르지. 내 앞에 그중 한 명이 있다는 것 빼고는.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "They abandoned the upper half of their bodies protected by the Fire Dragon Armor and targeted the exposed areas, including my lower body.",
+      "defect": "The syntax incorrectly makes the attackers abandon their own upper bodies, even though the armor protects the narrator and they are abandoning attempts to target his upper body.",
+      "id": "F02",
+      "rationale": "The source explains the attackers’ tactical adjustment: they stop attacking the armored upper body and redirect their attacks toward Taekyung’s exposed areas.",
+      "replacement": "They gave up on targeting my upper body, which was protected by the Fire Dragon Armor, and aimed for the exposed areas, including my lower body.",
+      "severity": "major",
+      "source": "화룡갑에 의해 보호받는 상반신을 포기하고 하반신을 포함한 노출된 부위를 노린 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Oh, I couldn’t take this.",
+      "defect": "The Korean idiom means that the narrator finds the moment too irresistible to pass up, whereas the English ordinarily means he cannot tolerate it, reversing the punchline’s attitude.",
+      "id": "F03",
+      "rationale": "Taekyung prompted the Skeleton King to deliver the line and reacts with amused satisfaction, not distress or intolerance.",
+      "replacement": "Oh, I couldn’t resist that.",
+      "severity": "major",
+      "source": "아, 이건 못 참지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The old man named Al Diab Jawahiri remained calm even as thunderous noises echoed outside and an unwelcome guest suddenly barged in.",
+      "defect": "The draft omits the narrator’s aside that Al Diab has a long name like other Arabs, losing a deliberate irreverent joke and part of Taekyung’s voice.",
+      "id": "F04",
+      "rationale": "여느 아랍인처럼 긴 이름을 가진 explicitly characterizes the name as typically long and must not be omitted.",
+      "replacement": "The old man, whose name—Al Diab Jawahiri—was as long as any other Arab’s, remained calm even as thunderous noises echoed outside and an unwelcome guest suddenly barged in.",
+      "severity": "minor",
+      "source": "알 디아브 자와히리라는, 여느 아랍인처럼 긴 이름을 가진 노인은 밖에서 울려 퍼지는 굉음과 갑자기 들이닥친 불청객 앞에서도 침착했다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "Nor did he care about the countless people who would suffer in the future.",
+      "defect": "The draft changes the governing idea from refusing to understand the future victims’ suffering to not caring about them.",
+      "id": "F05",
+      "rationale": "This fragment continues the preceding statement that Al Diab does not know or try to understand the suffering caused by his rhetoric; the source does not independently state that he does not care.",
+      "replacement": "Or how many countless people would suffer in the future.",
+      "severity": "minor",
+      "source": "그리고 앞으로 고통받을 무수한 이들에 관해서."
+    },
+    {
+      "confidence": 0.93,
+      "current": "An attack filled with the will to stake everything on it.",
+      "defect": "The established rendering of 일격 as “One Strike” is not used, and 필사의 의지 is expressed less naturally than the source’s desperate resolve.",
+      "id": "F06",
+      "rationale": "The binding terminology maps 일격 to “One Strike,” while 필사의 conveys resolve born of desperation or willingness to die.",
+      "replacement": "Their One Strike carried desperate resolve.",
+      "severity": "minor",
+      "source": "필사의 의지가 실린 일격."
+    }
+  ],
+  "summary": "The draft contains one scene-state contradiction, one misassigned physical action, a reversed closing punchline, and several localized fidelity or terminology issues.",
+  "version": 1
+}

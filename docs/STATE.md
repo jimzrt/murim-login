@@ -1,30 +1,25 @@
 # Translation State
 
-- Last completed: 609
-- Next chapter: 610
-- Current block: 605–609 (5/5)
-- Latest translation: `translations/0609.md`
-- Latest summary: `summaries/beats/0609.md`
-- Safe profiles through: chapter 609
+- Last completed: 610
+- Next chapter: 611
+- Current block: 610–614 (1/5)
+- Latest translation: `translations/0610.md`
+- Latest summary: `summaries/beats/0610.md`
+- Safe profiles through: chapter 610
 
 ## Current Block
 
-- Jin Taekyung infiltrates the bedroom of Muhammad Saladir ad-Din, leader of a massive Islamic terrorist organization, disguised as a red-yarn-masked assassin calling himself a back scratcher. He kills Muhammad's elite bodyguards, reveals his identity, and uses the threat of execution to force Muhammad to order an immediate all-out war against a rival armed terrorist organization.
-- Jin, Chuck Hagel, Magic Johnson, and their allies continue their covert campaign across the desert, fighting or secretly dismantling terrorist and rebel groups, capturing their leaders, and controlling some with Magic Johnson's custom brainwashing Magic. Their bounty rises from ten million to thirty million and then fifty million dollars, and one week passes as the campaign proceeds.
+- The masked protagonist confronts Al Diab Jawahiri, the leader of Al-Qaeda, in an underground hideout. Al Diab attempts to justify terrorism through religious unity, but the protagonist rejects him, severs his wrist, and defeats the assassins protecting him with the Fire Dragon Armor, Force, and his short sword. The Skeleton King then arrives and prepares to turn the dead terrorists into undead soldiers, which the protagonist accepts because he considers them enemies rather than his own kind.
 
 ## Open Questions
 
-- Will the UN Security Council approve the planned multinational operation, and when will it begin?
-- What results will follow from Muhammad Saladir ad-Din's forced order for the rival terrorist organizations to destroy each other?
-- What are the terrorist groups and rebel forces seeking from their Gate and Magic Gem experiments?
-- How will the week-long covert campaign affect the wider terrorist and rebel forces?
+- What fate will the Skeleton King ultimately assign to Al Diab and the remaining corpses?
 
 ## Exceptional Decision
 
-- Treat the President's supposedly accidental tactical-map handoff as deliberate covert cooperation.
-- Use Muhammad Saladir ad-Din as the full English rendering of 무함마드 살라디르 앗 딘.
-- Render 효자손 as “back scratcher” while preserving the literal-wordplay footnote.
-- Use “Sunni” for 수니파 and reserve “Sooni” for the separate name or joke.
+- Use Al Diab Jawahiri as the full English rendering of 알 디아브 자와히리.
+- Keep “Fight barbarians with barbarians” for the 이이제이 wordplay.
+- Retain the Line 1 reference and its explanatory footnote.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

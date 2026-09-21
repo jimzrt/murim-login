@@ -1951,3 +1951,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사다트 | **Sadat** | Muhammad's bodyguard; killed during the bedroom infiltration. |
 | 나세르 | **Nasser** | Muhammad's bodyguard; killed during the bedroom infiltration. |
 | 오마르 알 후세인 | **Omar al-Hussein** | Leader of a Sunni faction captured during the campaign. |
+| 알 디아브 자와히리 | **Al Diab Jawahiri** | Leader of Al-Qaeda. |
+| 알 카에다 | **Al-Qaeda** | The terrorist organization led by Al Diab Jawahiri. |
