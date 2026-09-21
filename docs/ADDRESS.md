@@ -1015,3 +1015,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 진 | trusted ally and collaborator | Jin | informal | Magic Johnson repeatedly addresses Jin by name while discussing the terrorist incident and Pentagon request. |
 | 진 | 존슨 | trusted ally and collaborator | Johnson | polite | Jin addresses Magic Johnson as 존슨 during their discussion and banter. |
 | 최 팀장 | 존슨 | ally and senior foreign contact | Mr. Johnson | formal and polite | Team Leader Choi formally answers Magic Johnson at the end of the chapter. |
+| 척 헤이글 | 존슨 | former-generation_S-rank_Hunter_to_allied_Grand_Mage | Johnson | casual and familiar | Hagel directly addresses Magic Johnson while reflecting on Cheon Taemin. |
+| 매직 존슨 | 진 | Grand_Mage_to_allied_Hunter | Jin | casual and familiar | Johnson directly questions Jin about whether he knew Hagel's position. |
+| 척 헤이글 | 최 | former-generation_S-rank_Hunter_to_Team_Leader_Choi | Choi | casual and familiar | Hagel addresses Choi while greeting him and comparing him to Cheon Taemin. |
+| 최 팀장 | 척 헤이글 | Team_Leader_Choi_to_current_Secretary_of_Defense | Mr. Hagel | formal-polite | Choi uses a formal address because Hagel is the Pentagon head and Secretary of Defense. |
+| 대통령 | 헤이글 장관 | U.S._President_to_Secretary_of_Defense | Secretary Hagel | formal-polite | The President addresses Hagel when remarking on his late arrival. |

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I had suspected it even while looking at him, but the old man standing before me was the former S-rank Hunter of the previous generation known as Uncle Chuck.",
+      "defect": "“Former S-rank Hunter” implies that Chuck no longer holds that rank, while the source identifies him as an S-rank Hunter from the previous generation.",
+      "id": "F01",
+      "rationale": "전 세대 modifies his generation, not his current Hunter rank.",
+      "replacement": "I’d suspected as much just from looking at him, but the old man before me really was a previous-generation S-rank Hunter known as Uncle Chuck.",
+      "severity": "major",
+      "source": "눈앞의 노인은 일명 엉클 척(Uncle Chuck)이라 불리던 전 세대의 S급 헌터였다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "I answered in a baffled voice.",
+      "defect": "“Baffled” conveys confusion, whereas 떨떠름한 describes an uncomfortable, reluctant, or dissatisfied tone.",
+      "id": "F02",
+      "rationale": "The narrator is awkwardly trying to explain away his ignorance, not expressing bewilderment.",
+      "replacement": "I replied with some reluctance.",
+      "severity": "minor",
+      "source": "나는 떨떠름한 목소리로 대꾸했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Every time Chuck Hagel took a deep drag from his cigar, clouds of acrid smoke billowed toward the ceiling. Alarms sounded, and red lights began flashing.",
+      "defect": "The alarm onomatopoeia is omitted, losing an explicit comic and auditory beat.",
+      "id": "F03",
+      "rationale": "위잉! 위이잉! is a separate, intentionally emphasized sound effect immediately preceding the spoken fire warning.",
+      "replacement": "Every time Chuck Hagel puffed on his cigar, acrid smoke billowed up to the ceiling, setting off an alarm as red lights flashed.\n\nWee-oo! Wee-oo!",
+      "severity": "minor",
+      "source": "척 헤이글이 시가를 뻑뻑 피워 댈 때마다 뿜어져 나온 매캐한 연기가 천장에 닿자, 경고음과 함께 붉은빛이 깜빡거린다.\n\n위잉! 위이잉!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“When the hell is this fucking hallway going to get wider? Every time I see it, I want to smash it to pieces.”",
+      "defect": "The draft renders one profanity twice, unnecessarily intensifying Chuck’s vulgarity.",
+      "id": "F04",
+      "rationale": "빌어먹을 supplies one strong modifier for the hallway; the source does not also contain an equivalent of “the hell.”",
+      "replacement": "“When is this damn hallway going to get wider? Every time I see it, I want to smash it to pieces.”",
+      "severity": "minor",
+      "source": "「이 빌어먹을 복도는 도대체 언제 넓어지는 거야? 볼 때마다 박살을 내 버리고 싶군.」"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Hey, Gaze. Chuck’s touchy because of the terrorist problem these days. He’s a good guy at heart, so try to understand him.”",
+      "defect": "“Gaze” incorrectly treats 게이즈 as a name or English noun rather than the transliterated address “guys.”",
+      "id": "F05",
+      "rationale": "게이즈 represents English “guys” and addresses the people accompanying Johnson.",
+      "replacement": "“Hey, guys. Chuck’s touchy because of the terrorist problem these days. He’s a good guy at heart, so try to understand him.”",
+      "severity": "minor",
+      "source": "「헤이. 게이즈. 요즘 척이 테러리스트 문제 때문에 예민해서 그래. 본성은 착한 친구니까 이해해 줘.」"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Of course they were. Anyone who irritated Chuck Hagel even a little would have their life ruined.",
+      "defect": "“Ruined” softens the explicit statement that the offender’s life would end and weakens the repeated 끝내주다/끝날 dark punchline.",
+      "id": "F06",
+      "rationale": "인생이 끝날 means the person’s life would end, continuing the preceding wording for comic menace rather than merely predicting reputational or career damage.",
+      "replacement": "Of course they were. Anyone who got even slightly on Chuck Hagel’s nerves would have their life ended.",
+      "severity": "major",
+      "source": "당연히 끝내주겠지. 척 헤이글의 심기에 조금이라도 거슬렸다가는 그 사람의 인생이 끝날 테니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“And now his grandson and a young hero have taken up the baton. All of you… welcome to Building Five.”",
+      "defect": "“Grandson” omits the specified maternal-line relationship.",
+      "id": "F07",
+      "rationale": "외손자 specifically means a daughter’s son, matching the established relationship between Cheon Taemin and Team Leader Choi.",
+      "replacement": "“And now his maternal grandson and a young hero have taken up the baton. Both of you… welcome to Building Five.”",
+      "severity": "major",
+      "source": "「그리고 이제 그 외손자와 젊은 영웅이 바통을 이어받았군. 자네들 모두…… 5동에 온 것을 환영하네.」"
+    },
+    {
+      "confidence": 1.0,
+      "current": "I nodded slightly and silently mouthed the name of the middle-aged man approaching us with measured steps.",
+      "defect": "The draft changes an internal thought into visible lip movement.",
+      "id": "F08",
+      "rationale": "마음속으로 explicitly locates the utterance in Taekyung’s mind; he does not physically mouth the name.",
+      "replacement": "I gave a small nod. As the middle-aged man approached with measured steps, I murmured his name in my head.",
+      "severity": "critical",
+      "source": "작게 고개를 끄덕인 나는 절제된 걸음으로 다가오는 중년인의 이름을 마음속으로 중얼거렸다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters one Hunter’s status, loses a kinship distinction, changes an internal thought into a physical action, weakens a death threat, and contains several localized register and wording errors.",
+  "version": 1
+}
