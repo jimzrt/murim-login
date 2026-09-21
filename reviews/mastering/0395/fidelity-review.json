@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The fighter trembled slightly as one of its missiles launched.",
+      "defect": "The English assigns the slight tremor specifically to the fighter. The Korean describes a missile mounted on the fighter being launched with a slight tremor, without making the fighter the subject of the shaking.",
+      "id": "F01",
+      "rationale": "The source preserves the physical detail but does not state that the fighter itself trembled.",
+      "replacement": "With a slight tremor, a missile mounted on the fighter launched.",
+      "severity": "minor",
+      "source": "Source lines 215–216"
+    },
+    {
+      "confidence": 0.96,
+      "current": "If we launch anything too powerful and it gets redirected, the result could be catastrophic.",
+      "defect": "The English adds the specific mechanism that the attack will be redirected. The Korean only says that firing one large shot incorrectly could cause a catastrophe.",
+      "id": "F02",
+      "rationale": "The source leaves the manner of the misfire or failure unspecified; the prior teleportation incident does not authorize narrowing this line to redirection.",
+      "replacement": "If we fire something big and it goes wrong, it could cause a catastrophe.",
+      "severity": "minor",
+      "source": "Source lines 251–252"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Ten battles, nine wins, one loss. By the numbers, it was certainly an impressive record.",
+      "defect": "This adds a second shorthand restatement of the ten-battle record. The immediately preceding dialogue already states ten battles, nine victories, and one defeat; the source has only one additional shorthand restatement before the assessment.",
+      "id": "F04",
+      "rationale": "The assembled English repeats the same record twice after the dialogue, whereas the Korean repeats it only once.",
+      "replacement": "By the numbers, it was certainly an impressive record.",
+      "severity": "minor",
+      "source": "Source line 321"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but four localized source-fidelity defects remain: one physical-subject shift, one added mechanism, one causality shift, and one duplicated restatement.",
+  "version": 1
+}

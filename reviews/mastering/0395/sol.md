@@ -4,11 +4,11 @@
 
 Magic Johnson led us to none other than the hospital rooftop.
 
-After sweeping my eyes across the empty landing pad, where there wasn’t a helicopter or jet in sight, I asked,
+I scanned the empty landing pad. There wasn’t a helicopter or jet in sight.
 
 “There’s nothing here.”
 
-“Nope. I’m here.”
+“That’s not true. I’m here.”
 
 Magic Johnson’s answer was short and simple, but what it implied was anything but.
 
@@ -16,7 +16,7 @@ Team Leader Choi’s eyes widened slightly. He seemed to have reached the same c
 
 “Mr. Johnson. You don’t mean…”
 
-“That’s right. We’re going to travel by teleportation magic.”
+“That’s right. We’re traveling by teleportation magic.”
 
 Teleportation. In other words, instant travel.
 
@@ -30,7 +30,7 @@ A single step could mean ending up fused with an apple tree or a boulder. Horrif
 
 “Nope.”
 
-Magic Johnson answered firmly and narrowed his eyes.
+Magic Johnson narrowed his eyes.
 
 “Hey, Jin. You don’t actually distrust me, do you? I’m Magic Johnson. Do I have to show you before you’ll believe me?”
 
@@ -66,7 +66,7 @@ Magic Johnson snapped his fingers, and a pillar of flame erupted from thin air. 
 
 “Then…”
 
-“The Arch Lich. Its power had been gradually weakening. In particular, a considerable portion of the interference disappeared after last night. Though communications still seem to be a complete mess.”
+“The Arch Lich. Its power has been weakening little by little. A considerable amount of the interference disappeared last night in particular. Though communications still seem to be a complete mess.”
 
 It was something he could say—and pull off—only because he was one of just three archmages in the entire world.
 
@@ -88,7 +88,7 @@ I took his hand without much hesitation, but Team Leader Choi quietly stepped ba
 
 Team Leader Choi always assessed the situation coolly. If he couldn’t change the course of events himself, he pulled lower-priority work forward and dealt with that instead.
 
-I wanted to tell him that he was mistaken, but I quietly nodded.
+I wanted to tell him he was mistaken, but I merely nodded.
 
 *He wasn’t wrong.*
 
@@ -96,13 +96,13 @@ Even the S-rank Hunters whose opinions carried weight were ultimately mercenarie
 
 That was why Chairman Shao Yang and Minister Wei Fenghu had made it clear that overall command remained in their hands.
 
-“Choi’s dropping out? This can’t be happening! Jin has no Charm!”
+“Choi’s not coming? This can’t be happening! Jin has no Charm!”
 
 “……”
 
 *I really want to drive a nail through him. Then again, maybe this is for the best.*
 
-After whining for quite some time, Magic Johnson said goodbye to Team Leader Choi with a deeply disappointed expression.
+After whining for quite some time, Magic Johnson reluctantly said goodbye to Team Leader Choi.
 
 “Can’t be helped. See you next time, Choi.”
 
@@ -118,7 +118,7 @@ Magic Johnson shrugged and turned to me.
 
 “Hold my hand tight. Don’t let go.”
 
-“……Why are we interlocking fingers? Can’t I just hold your palm?”
+“……Why are you interlocking our fingers? Can’t we just hold hands normally?”
 
 *Isn’t this the sort of thing couples do?*
 
@@ -134,17 +134,17 @@ Thinking of my first love from childhood, I clutched Magic Johnson’s hand tigh
 
 Magic Johnson’s expression turned stern.
 
-“Sorry, but Jin isn’t my type. You don’t have to squeeze that hard, so could you ease up?”
+“Sorry, but you’re not my type, Jin. You don’t have to squeeze that hard, so could you ease up?”
 
 “……Oh. Right.”
 
 “Then, here we go.”
 
-Just as I opened my mouth to answer—
+I opened my mouth to answer—
 
 Whoooooosh!
 
-*Gasp!*
+*Hngh!*
 
 My breath caught, and the taut air constricted around my entire body.
 
@@ -158,7 +158,7 @@ Then, at last, came an overwhelming sense of release.
 
 I expelled the breath I had been holding and inhaled deeply. Cool air filled my lungs. I blinked, and my briefly clouded vision cleared.
 
-It felt as if barely a second had passed, yet an entirely different landscape and different people stood around me.
+It felt as though barely a second had passed, yet an entirely different landscape and different people now surrounded me.
 
 “Our final guest has arrived.”
 
@@ -166,7 +166,7 @@ Wei Fenghu, Minister of National Defense under China’s Central Military Commis
 
 “Everyone is waiting. Let us go inside together.”
 
-“W-wait a second.”
+“W-wait.”
 
 “Yes?”
 
@@ -180,13 +180,13 @@ For the record, I’m fairly tall. About two heads taller than Wei Fenghu.
 
 As I emptied my stomach over the thinning crown of the old general’s head, Magic Johnson’s voice reached me.
 
-“Ah, I forgot to mention that the motion sickness gets worse. I’m sorry, Jin. I’m sorry, Wei Fenghu.”
+“Ah, I forgot to mention that teleportation makes motion sickness worse. Sorry, Jin. Sorry, Wei Fenghu.”
 
 “You should’ve told me that sooner—uweeeeeegh!”
 
 “……Hah.”
 
-It took a little longer before I was able to attend the meeting.
+It took a little longer than expected for me to join the meeting.
 
 * * *
 
@@ -224,9 +224,9 @@ But then—
 
 Boom! Crackle.
 
-The footage cut out amid a thunderous roar that suddenly crashed through the room.
+A deafening explosion erupted, and the footage cut out.
 
-The hologram disappeared, and Minister Wei Fenghu spoke with a grave expression.
+The hologram vanished. Minister Wei Fenghu surveyed the room with a grave expression.
 
 “What do the rest of you make of it?”
 
@@ -246,7 +246,7 @@ After a moment of thought, Magic Johnson answered.
 
 Magic Johnson gave a slight nod and exhaled cigar smoke.
 
-He, too, was an S-rank Hunter who had accomplished feats that would go down in history. He must have been proud of his abilities, so he couldn’t have been pleased to learn that he had been outdone by a monster called the Arch Lich.
+He, too, was an S-rank Hunter whose accomplishments would go down in history. He took pride in his abilities, so admitting that a monster like the Arch Lich had surpassed him couldn’t have been pleasant.
 
 But this meeting wasn’t about protecting anyone’s pride.
 
@@ -254,7 +254,7 @@ We had to face reality.
 
 “Then we can’t count on fire support. If we launch anything too powerful and it gets redirected, the result could be catastrophic.”
 
-Faye Chen continued, lightly touching her wineglass with one slender finger.
+Faye Chen ran one slender finger along her wineglass as she continued.
 
 “I expected as much, but now that it’s come to this, we have no choice but to settle the matter on the ground.”
 
@@ -276,13 +276,13 @@ Prince Felix glanced at me.
 
 I stared at Prince Felix incredulously.
 
-“Then they’re true, aren’t they? What, you think I made it all up? If you don’t want to believe me, don’t.”
+“Of course they’re true. You think I made it all up? If you don’t want to believe me, don’t.”
 
 “Your great achievements may be worthy of praise, but your words and conduct are remarkably insolent. You will refer to me as His Highness and always speak respectfully.”
 
 I readily complied with his demand.
 
-“His Highness, did you eat your fish and chips wrong?”
+“Your Highness, did you choke on your fish and chips?”
 
 “Hmm. A man of matchless courage, yet utterly lacking in manners.”
 
@@ -302,7 +302,7 @@ More importantly, someone else in the room bothered me far more than Wu Heixing 
 
 Lee Jungryong—the snake coiled in wait—smiled gently.
 
-“Thank you for your concern, but I’m fine. A mercenary’s virtue is following the employer’s wishes without comment.”
+“Thank you for your concern, but I’m fine. A mercenary’s virtue lies in following his employer’s wishes without complaint.”
 
 “Oh, is that so?”
 
@@ -326,7 +326,7 @@ As every gaze turned toward him, Lee Jungryong stroked his chin.
 
 Ten battles, nine victories, one defeat.
 
-Ten battles, nine wins, one loss. By the numbers, it was certainly an impressive record.
+By the numbers, it certainly looked impressive.
 
 But two days ago, when Team Leader Choi and I heard about the defeat on the northern front, we had both let out hollow laughs.
 
@@ -356,7 +356,7 @@ That was also why Lee Jungryong could remain so relaxed. He loosely crossed his 
 
 “Who could have expected a Death Knight to appear under those circumstances? Once the commander died, the ensuing confusion became impossible to control.”
 
-“If you mean the Death Knights…”
+“A Death Knight…”
 
 “I heard they appeared on the western front last night as well. Is that not so?”
 
@@ -376,10 +376,10 @@ Urgent footsteps raced down the corridor, and someone who looked like a Chinese 
 
 Bang!
 
-“Huff, huff. Emergency! Emergency!”
+“Huff, huff. Emergency! This is an emergency!”
 
-He continued while gasping for breath.
+He struggled to catch his breath before continuing.
 
-“We have received word that the monster army has advanced! Fighting has broken out on every front!”
+“We’ve received word that the monster armies are advancing! Fighting has broken out on every front!”
 
 “……What?”

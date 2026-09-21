@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but four localized source-fidelity defects remain: one physical-subject shift, one added mechanism, one causality shift, and one duplicated restatement.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Source lines 215–216",
+      "current": "The fighter trembled slightly as one of its missiles launched.",
+      "defect": "The English assigns the slight tremor specifically to the fighter. The Korean describes a missile mounted on the fighter being launched with a slight tremor, without making the fighter the subject of the shaking.",
+      "replacement": "With a slight tremor, a missile mounted on the fighter launched.",
+      "rationale": "The source preserves the physical detail but does not state that the fighter itself trembled.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Source lines 251–252",
+      "current": "If we launch anything too powerful and it gets redirected, the result could be catastrophic.",
+      "defect": "The English adds the specific mechanism that the attack will be redirected. The Korean only says that firing one large shot incorrectly could cause a catastrophe.",
+      "replacement": "If we fire something big and it goes wrong, it could cause a catastrophe.",
+      "rationale": "The source leaves the manner of the misfire or failure unspecified; the prior teleportation incident does not authorize narrowing this line to redirection.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "major",
+      "source": "Source line 337",
+      "current": "The Ares Guild members had withdrawn intact despite the staggering casualties around them. They were living proof.",
+      "defect": "The English changes the causal image to casualties merely being around the guild members. The Korean presents the Ares Guild members as having withdrawn intact while causing enormous casualties, making their capability evidence of the intentional defeat.",
+      "replacement": "The Ares Guild members who had withdrawn intact even while causing massive casualties were living proof.",
+      "rationale": "The Korean relative clause attaches the casualty-causing action to the Ares Guild members, not to an unspecified surrounding battle.",
+      "confidence": 0.92
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Source line 321",
+      "current": "Ten battles, nine wins, one loss. By the numbers, it was certainly an impressive record.",
+      "defect": "This adds a second shorthand restatement of the ten-battle record. The immediately preceding dialogue already states ten battles, nine victories, and one defeat; the source has only one additional shorthand restatement before the assessment.",
+      "replacement": "By the numbers, it was certainly an impressive record.",
+      "rationale": "The assembled English repeats the same record twice after the dialogue, whereas the Korean repeats it only once.",
+      "confidence": 1.0
+    }
+  ]
+}
