@@ -1033,3 +1033,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 알 디아브 자와히리 | 젊은이 | None; hostile ideological opponent | young man | Formal and coaxing | Al Diab repeatedly addresses the masked protagonist as 젊은이 while attempting to recruit and manipulate him. |
 | 진태경 | 척 헤이글 | allied partners | Chuck | polite speech | Taekyung addresses Hagel directly as Chuck and speaks politely to him. |
 | 척 헤이글 | 진태경 | allied partners | Crazy Korean | informal speech | Hagel repeatedly addresses the masked protagonist as Crazy Korean. |
+| 진태경 | 진호 | younger_friend_to_older_friend | Jin-ho hyung | informal and familiar | Taekyung repeatedly addresses Jin-ho as hyung while joking, asking favors, and sharing personal concerns. |

@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The man moved carefully across the room.",
+      "defect": "The draft omits that the man steps forward, speaks again, and deliberately puts force into his voice.",
+      "id": "F01",
+      "rationale": "The source explicitly preserves both his careful movement and the renewed force behind his speech.",
+      "replacement": "The man cautiously stepped forward and spoke again, his voice firm.",
+      "severity": "minor",
+      "source": "스윽.\n\n조심스럽게 걸음을 옮긴 남자가 힘주어 재차 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That fucking bastard is barely younger than me, but he picks fights over everything and acts like a complete jackass.",
+      "defect": "The draft invents that Section Chief Kim is younger. The source specifies only that they are not far apart in age.",
+      "id": "F02",
+      "rationale": "나이 차이도 얼마 안 나면서 gives no direction to the age difference.",
+      "replacement": "That fucking bastard isn’t even that far from me in age, but he picks fights over every little thing and acts like a complete jackass.",
+      "severity": "major",
+      "source": "그 시발롬은 나이 차이도 얼마 안 나면서 사사건건 시비 걸고 지랄이야."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No. Becoming one is beside the point. I thought you’d die from an orgasm while watching porn before you ever got there.",
+      "defect": "The draft makes the euphemism more explicit and changes 복상사, death during sex, into death specifically from an orgasm.",
+      "id": "F03",
+      "rationale": "복상사 refers euphemistically to dying during sex; the source does not explicitly identify orgasm as the cause.",
+      "replacement": "No. Becoming one is beside the point. I thought you’d drop dead in the act while watching porn before you ever got there.",
+      "severity": "major",
+      "source": "아니. 되는 건 둘째치고 난 형이 조만간 야동 보다가 복상사할 줄 알았지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Thanks to the System’s permission, I could now freely log in and out without the capsule.",
+      "defect": "The established System terms Login and Logout are not used.",
+      "id": "F04",
+      "rationale": "The binding glossary requires 로그인 and 로그아웃 to be rendered as Login and Logout.",
+      "replacement": "Thanks to the System’s permission, I could now freely use Login and Logout without the capsule.",
+      "severity": "minor",
+      "source": "시스템이 허락한 덕분에 캡슐이 없어도 자유자재로 로그인과 로그아웃을 할 수 있게 되었으니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "As Jin-ho hyung began bringing up what happened when I first logged out, I hurriedly changed the subject.",
+      "defect": "The established System term Logout is replaced with the ordinary verb phrase logged out.",
+      "id": "F05",
+      "rationale": "The binding glossary requires 로그아웃 to be rendered as Logout.",
+      "replacement": "As Jin-ho hyung began bringing up what happened after my first Logout, I hurriedly changed the subject.",
+      "severity": "minor",
+      "source": "처음 로그아웃했을 때의 이야기를 꺼내는 진호 형의 모습에, 나는 황급히 화제를 돌렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I nodded inwardly, breathing a sigh of relief.",
+      "defect": "The draft attaches inwardness to the physical nod instead of the sigh, producing the impossible action “nodded inwardly” and altering which response is outwardly visible.",
+      "id": "F06",
+      "rationale": "내심 modifies the relieved sigh, while 고개를 끄덕였다 is a physical nod.",
+      "replacement": "I breathed an inward sigh of relief and nodded.",
+      "severity": "critical",
+      "source": "나는 내심 안도의 한숨을 내쉬며 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His eyes, slowly closing beneath a blanket of blood in the red snow.",
+      "defect": "The draft places his eyes beneath a blanket of blood, whereas the source says he was in a red, blood-covered snowfield.",
+      "id": "F07",
+      "rationale": "피로 뒤덮인 modifies 붉은 눈밭, not his eyes.",
+      "replacement": "His eyes slowly closing in the red snowfield covered with blood.",
+      "severity": "major",
+      "source": "피로 뒤덮인 붉은 눈밭에서 서서히 감기던 눈동자가 생각났다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin-ho hyung laughed carefree and continued.",
+      "defect": "“Laughed carefree” is ungrammatical because the adjective is used where an adverbial phrase is required.",
+      "id": "F08",
+      "rationale": "태평하게 describes his unconcerned manner, which the replacement conveys in natural English.",
+      "replacement": "Jin-ho hyung laughed without a care and continued.",
+      "severity": "minor",
+      "source": "태평하게 웃은 진호 형이 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Along with the faint mutter of someone small reaching my ears, I moved on.",
+      "defect": "The draft makes the speaker physically small. Here 자그마한 describes the subdued mutter, not the size of the person.",
+      "id": "F09",
+      "rationale": "The source conveys a small or quiet utterance; it does not identify the speaker as a small person.",
+      "replacement": "With someone’s quiet mutter reaching my ears, I walked on.",
+      "severity": "major",
+      "source": "귓가에 닿은 자그마한 누군가의 중얼거림과 함께, 나는 걸음을 옮겼다."
+    }
+  ],
+  "summary": "The draft contains one altered physical action, two changed mechanical details, an unsupported age relation, binding terminology mismatches, and several localized omissions or unnatural renderings.",
+  "version": 1
+}
