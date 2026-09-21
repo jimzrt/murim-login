@@ -1921,3 +1921,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 김광필 | **Kim Gwangpil** | Ares Guild Managing Director referred to as Managing Director Kim. |
 | 김 지사장 | **Director Kim** | Ares Guild director responsible for the Asian region. |
 | 백 전무 | **Executive Director Baek** | Ares Guild executive who initially resists Choi Minwoo. |
+| 길드 협회 | **Guild Association** | Association representing Korea's ten largest Guilds. |

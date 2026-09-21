@@ -1001,3 +1001,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최민우 | 홍 이사 | prospective_Ares_Guild_head_to_Ares_executive | Director Hong | formal, gentle, and coercive | Choi singles Hong out while implying that he knows compromising information about him. |
 | 최민우 | 김 지사장 | prospective_Ares_Guild_head_to_resistant_regional_director | Director Kim | formal, calm, and threatening | Choi openly admits that he is threatening the executives and intends to take over Ares Guild. |
 | 진태경 | 김 지사장 | allied_Hunter_to_resistant_Ares_director | asshole / you fucking bastard | hostile, profane, and deliberately intimidating | Taekyung pretends to prepare for violence when Director Kim challenges their authority. |
+| 비서실장 | 백한성 | chief_secretary_to_President | Mr. President | formal and deferential | Calls Baek Hanseong 각하 while reporting the Guild Association's request. |
+| 경호처장 | 백한성 | Presidential_Security_Service_chief_to_President | Mr. President | formal and deferential | Addresses Baek Hanseong as 각하 while responding to his request to leave the Blue House. |
+| 골골 | 진태경 | subordinate_undead_to_captor_and_master | human | mocking, reluctant, and familiar | Calls Jin 인간 and 간악한 인간 while complaining about being deceived into searching Area A. |
