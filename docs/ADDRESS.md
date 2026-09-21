@@ -985,3 +985,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 힐러 | invading Hunter to Ares healers | you people | profane and contemptuous | Uses 당신들이 while demanding that the healers save their fallen comrades and question Go Jun's order. |
 | 고세원 | 진태경 | Ares security leader to hostile invading Hunter | you | calm, resigned, and confrontational | Go Se-won asks Jin whether he was looking for him and negotiates with him after losing the fight. |
 | 진태경 | 고세원 | invading Hunter to hostile Ares security leader | Go Se-won | direct, questioning, and threatening | Jin calls Go Se-won's name, demands Go Jun's location, and questions why Go Se-won considers the day his last day at work. |
+| 진태경 | 김화종 | younger_ally_to_older_butler | Butler Kim | respectful and formal | Asks about Kim Hwajong before entering the morgue and later bids him farewell. |
+| 스켈레톤 킹 | 진태경 | ally_to_ally | wicked human | archaic and admonishing | Calls Jin a wicked human and tells him not to keep the dead waiting. |
+| 중역 | 고세원 | Ares executive_to_Head_of_Security | Team Leader Go | urgent and coercive | Pressures Go Se-won to kill Jin and accept the promised Vice Guild Master position. |
