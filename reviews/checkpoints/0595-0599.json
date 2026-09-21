@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Go Se-won’s debt to Jin remains unexplained beyond his promise to repay it.",
+      "defect": "The summary treats Go Se-won’s debt as an unresolved hook even though Chapter 598 resolves it when he privately reveals the second secret area to Jin.",
+      "id": "C01",
+      "rationale": "Retaining this as unresolved contradicts the completed visitation scene and obscures the purpose of Go Se-won’s request to meet Jin.",
+      "replacement": "Go Se-won repays his debt to Jin by revealing the existence of a second secret area inside Area A.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.98,
+      "current": "\"open_questions\": [\n    \"What debt does Go Se-won mean to repay to Jin?\",\n    \"Where is the second secret area within Area A, how can it be accessed, and what does it contain?\",\n    \"How will the authorities ultimately resolve the charges against Jin?\",\n    \"Why has Cheon Taemin remained absent, and where is he?\"\n  ]",
+      "defect": "The active state incorrectly preserves Go Se-won’s debt as an open question after Chapter 598 answers it.",
+      "id": "C02",
+      "rationale": "The undiscovered location, entrance, and contents remain open, but the nature of the repayment itself does not.",
+      "replacement": "\"open_questions\": [\n    \"Where is the second secret area within Area A, how can it be accessed, and what does it contain?\",\n    \"How will the authorities ultimately resolve the charges against Jin?\",\n    \"Why has Cheon Taemin remained absent, and where is he?\"\n  ]",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Choi Minwoo’s condition remains unresolved after his collapse.",
+      "defect": "This continuity note is stale: Chapter 597 shows Choi awake, conversing with Jin, and asking to be left alone.",
+      "id": "C03",
+      "rationale": "Calling his condition unresolved contradicts an explicit on-page recovery of consciousness.",
+      "replacement": "Choi Minwoo has regained consciousness and is grieving Kim Hwajong’s death.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even an F-grade Awakened could easily subdue two or three grown men.",
+      "defect": "Hunter classifications use rank, not grade; grade is reserved for System classifications.",
+      "id": "C04",
+      "rationale": "This restores the packet’s established Hunter-rank terminology.",
+      "replacement": "Even an F-rank Awakened could easily subdue two or three grown men.",
+      "severity": "minor",
+      "source": "Chapter 598, explanation of the special detention center"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Blue House security officer in the driver’s seat held out a thin card as he answered.",
+      "defect": "The organizational reference drifts from the binding term President’s Security Service.",
+      "id": "C05",
+      "rationale": "Chapters 597 and 599 consistently identify these officers as members of the President’s Security Service.",
+      "replacement": "The President’s Security Service officer in the driver’s seat held out a thin card as he answered.",
+      "severity": "minor",
+      "source": "Chapter 598, detention-center checkpoint"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Blue House security officers wore expressions that seemed to ask whether they should report this to the President, and I began to worry about whether one particular person was still alive.",
+      "defect": "This repeats the drift from the binding organization name.",
+      "id": "C06",
+      "rationale": "Using the established agency name prevents an unnecessary second label for the same security detail.",
+      "replacement": "The President’s Security Service officers wore expressions that seemed to ask whether they should report this to the President, and I began to worry about whether one particular person was still alive.",
+      "severity": "minor",
+      "source": "Chapter 598, warden’s introduction"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I was at the scene during the Pyeongchang monster wave. I’m grateful to the fifteen Peace Guild Hunters, including the late Guild Master Kim Hwajong. May the deceased rest in peace.",
+      "defect": "Kim Hwajong is incorrectly called the Guild Master, creating a role and title contradiction with his established identity as Butler Kim.",
+      "id": "C07",
+      "rationale": "Removing the false title preserves his inclusion among the Peace Guild Hunters without assigning him an office he did not hold.",
+      "replacement": "I was at the scene during the Pyeongchang monster wave. I’m grateful to the fifteen Peace Guild Hunters, including the late Kim Hwajong. May the deceased rest in peace.",
+      "severity": "major",
+      "source": "Chapter 599, public posts praising the Peace Guild"
+    }
+  ],
+  "summary": "The reading copies remain coherent and largely consistent in voice, but the checkpoint retains two resolved hooks as unresolved, misstates Choi Minwoo’s condition, and contains several terminology/title inconsistencies.",
+  "version": 1
+}

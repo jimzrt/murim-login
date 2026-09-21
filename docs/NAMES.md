@@ -1908,3 +1908,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대통령 경호실 | **President's Security Service** | Government security organization assigned to protect Jin and his family. |
 | 박 전무 | **Executive Director Park** | Ares Guild executive held at the special detention center. |
 | 이 상무 | **Managing Director Lee** | Ares Guild executive held at the special detention center. |
+| 로마 카톨릭 교황청 | **Vatican** | Institution issuing a condemnation of Go Jun. |
+| 애국일보 | **Patriotic Daily** | Newspaper employing editorial writer Lee Kanghee. |
+| 인터폴 | **Interpol** | International organization issuing wanted notices for the fleeing security-team members. |
+| 외교부 | **Ministry of Foreign Affairs** | Korean government ministry angered by the Chinese branch director's damage to cultural relics. |
+| 펠릭스 | **Felix** | Prince of the United Kingdom. |
+| 신지로 | **Shinjiro** | Given name of Prime Minister Koizumi. |
+| 바이든 | **Biden** | Surname of former U.S. President Joseph Biden. |
+| 국립 현충원 | **National Cemetery** | Memorial site visited during the national funeral. |
+| 119사태 | **January 19 Incident** | Name of the crisis involving the two artificially induced monster waves. |

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I sank into thought as I stared through the specially treated window that kept me from seeing inside the vehicle.",
+      "defect": "The draft reverses the window’s function by saying it prevents Jin, who is already inside the vehicle, from seeing the interior. The treatment prevents people outside from seeing in.",
+      "id": "F01",
+      "rationale": "The source describes a privacy-treated window through which the vehicle’s interior cannot be seen, not a window that blocks Jin’s view of the interior.",
+      "replacement": "I sank into thought as I stared at the specially treated window that prevented anyone from seeing inside the vehicle.",
+      "severity": "critical",
+      "source": "나는 차량 내부를 볼 수 없게끔 특수처리된 창문을 바라보며 생각에 잠겼다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "So at least until Kim Hwajong’s funeral, which would be held soon, I had to keep my mouth shut.",
+      "defect": "The draft omits that Jin intends to remain silent until the funeral is over, not merely until it begins.",
+      "id": "F02",
+      "rationale": "끝나기 전까지 explicitly sets the endpoint at the conclusion of the funeral.",
+      "replacement": "So at least until Kim Hwajong’s funeral, which would be held soon, was over, I had to keep my mouth shut.",
+      "severity": "major",
+      "source": "그러니 적어도…… 곧 치러질 김화종의 장례식이 끝나기 전까지는 입을 다물어야 한다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I kept the sincerity I hadn’t voiced to myself and looked out at the world passing beyond the window.",
+      "defect": "The draft replaces Jin’s specific act of silently muttering his unspoken true feelings with the unnatural and less precise idea of keeping his sincerity to himself.",
+      "id": "F03",
+      "rationale": "내심 중얼거리며 means that he mutters or repeats the thought inwardly.",
+      "replacement": "Silently repeating the truth I hadn’t voiced, I looked out at the world beyond the window.",
+      "severity": "minor",
+      "source": "나는 미처 말하지 않은 진심을 내심 중얼거리며, 창밖 세상을 바라보았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "**The Roman Catholic Church: “He is not human, but Satan. Another Demon King.”**",
+      "defect": "The attribution changes the specific institution from the Vatican to the entire Roman Catholic Church.",
+      "id": "F04",
+      "rationale": "교황청 specifically denotes the Vatican or Holy See rather than the Catholic Church as a whole.",
+      "replacement": "**The Vatican: “He is not human, but Satan. Another Demon King.”**",
+      "severity": "major",
+      "source": "[로마 카톨릭 교황청, “그는 인간이 아닌 사탄. 또 다른 마왕.”]"
+    },
+    {
+      "confidence": 0.94,
+      "current": "└ **In interviews, he kept saying things like “Taekyung dage” and “Lord Fuck dage.” It also came out that the Chinese branch director had damaged local cultural relics, so the Ministry of Foreign Affairs is absolutely furious right now.**",
+      "defect": "The untranslated Chinese address “dage” is opaque in an otherwise English-only reading copy and obscures Xiao Shen’s fanboyish treatment of Jin as an older brother.",
+      "id": "F05",
+      "rationale": "따거 represents the Chinese address meaning “big brother”; translating it preserves the joke and relationship cue for an English reader.",
+      "replacement": "└ **In interviews, he kept calling him “Big Brother Taekyung” and “Big Brother Lord Fuck.” It also came out that the Chinese branch director had damaged local cultural relics, so the Ministry of Foreign Affairs is absolutely furious right now.**",
+      "severity": "minor",
+      "source": "└ 인터뷰 보면 태경 따거. 시벌 따거 막 그러던데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "**Murders occur in London, United Kingdom. Ten members of the security team flee after murdering the family of Song Cheonwoo, the Ares Guild European branch director who had been held captive… Interpol issues wanted notices.**",
+      "defect": "The relative clause makes Song Cheonwoo the captive, but the security-team members had been holding his family captive before murdering them.",
+      "id": "F06",
+      "rationale": "억류하고 있던 modifies 송천우의 가족들: the family members were being detained by the killers.",
+      "replacement": "**Murders in London, United Kingdom. Ten security-team members flee after murdering the captive family of Ares Guild European Branch Director Song Cheonwoo. Interpol issues wanted notices…**",
+      "severity": "critical",
+      "source": "[영국 런던에서 살인 사건 발생. 억류하고 있던 아레스 길드 유럽 지사장 송천우의 가족들을 살해하고 도주한 10명의 경호팀원들. 인터폴 수배 발령…….]"
+    },
+    {
+      "confidence": 0.97,
+      "current": "**Japanese Prime Minister Shinjiro Koizumi: “I think the Korean media should reflect on insulting Mr. Jin, and I think they should reflect on the fact that although they are reflecting, they are not showing the attitude of reflecting, which means they should reflect on that as well.”**",
+      "defect": "The draft collapses the source’s deliberate double negative into a single negative, reversing the literal assertion and weakening the intentionally nonsensical political phrasing.",
+      "id": "F07",
+      "rationale": "보이지 못하고 있지 못하다 is a deliberate nested negation—literally, they are not failing to show it—which supplies the joke’s confused logic.",
+      "replacement": "**Japanese Prime Minister Shinjiro Koizumi: “I think the Korean media should reflect on insulting Mr. Jin, and although they are reflecting, I think they should reflect on the fact that they are not failing to show that they are reflecting.”**",
+      "severity": "critical",
+      "source": "[日 총리대신 고이즈미 신지로, “진 상을 욕하는 한국 언론은 반성해야 한다고 생각하고, 반성하고 있는데 반성하고 있다는 자세를 보이지 못하고 있지 못하다는 점에서 반성해야 한다고 생각한다.”]"
+    },
+    {
+      "confidence": 0.96,
+      "current": "It was time to talk about the story I had kept hidden.",
+      "defect": "Calling the concealed information a “story” suggests a narrative or possibly a fabrication rather than the secret Jin has withheld.",
+      "id": "F08",
+      "rationale": "Here 이야기 refers contextually to the information about the second secret area that Jin has delayed revealing to Team Leader Choi.",
+      "replacement": "It was time to tell him what I had been keeping hidden.",
+      "severity": "minor",
+      "source": "이제는 감춰 두었던 이야기를 할 때였다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues remain, including a reversed window function, an omitted funeral endpoint, the wrong captives in a news report, and a negation reversal in Koizumi’s joke.",
+  "version": 1
+}
