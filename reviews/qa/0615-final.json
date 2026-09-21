@@ -1,0 +1,55 @@
+{
+  "chapter": 615,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.243,
+    "source_characters": 5298,
+    "source_paragraphs": 150,
+    "translation_characters": 11886,
+    "translation_paragraphs": 155
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기세",
+        "preferred": "aura / momentum"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사숙",
+        "preferred": "Martial Uncle"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일섬",
+        "preferred": "One Annihilation"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "원정",
+        "preferred": "Origin Essence"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

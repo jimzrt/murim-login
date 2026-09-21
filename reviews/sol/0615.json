@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Just as they reflexively reached for their weapons, I warned them in a calm voice.",
+      "defect": "The draft reduces an attempted draw already in progress to merely reaching for the weapons, contradicting the subsequently exposed blades.",
+      "id": "F01",
+      "rationale": "뽑으려던 means they were about to draw or had begun trying to draw their weapons, not merely reaching for them.",
+      "replacement": "Just as they reflexively began to draw their weapons, I warned them in a calm voice.",
+      "severity": "critical",
+      "source": "반사적으로 무기를 뽑으려던 그때"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Sama Pyo, the Black Dragon Saber and Young Sect Leader of the Black Dragon Demon Gate—the ruler of Gansu and one of the greatest young prodigies of the unorthodox faction—and Song Ilseom, the Soul-Chasing Guest, who had become a legend after cutting down countless enemies on fierce battlefields and in life-and-death duels, must both have understood it clearly.",
+      "defect": "The draft weakens Sama Pyo’s stated hierarchy from the foremost young prodigy of the unorthodox faction to merely one of its greatest, and its syntax makes Sama Pyo rather than the Black Dragon Demon Gate sound like the ruler of Gansu.",
+      "id": "F02",
+      "rationale": "사파 제일 states that Sama Pyo is foremost in the unorthodox faction, while 감숙성의 패자 modifies the Black Dragon Demon Gate.",
+      "replacement": "Sama Pyo, the Black Dragon Saber, was the Young Sect Leader of the Black Dragon Demon Gate, Gansu’s dominant power, and the foremost young prodigy of the unorthodox faction. Song Ilseom, the Soul-Chasing Guest, had become a legend after cutting down countless enemies on fierce battlefields and in life-and-death duels. Both of them must have understood it clearly.",
+      "severity": "major",
+      "source": "감숙성의 패자인 흑룡마문의 소문주이자 사파 제일의 후기지수라는 흑룡도(黑龍刀) 사파표도, 치열한 전장과 생사결에서 숱한 적들을 쓰러트리며 전설이 된 추혼객(抽魂客) 송일섬도 똑똑히 깨달았을 것이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I gave her a small shake of my head and continued.",
+      "defect": "The draft omits Ju Hwaran’s visibly tense expression as she intervenes, losing a meaningful reaction to the confrontation.",
+      "id": "F03",
+      "rationale": "굳은 얼굴 specifies that Ju Hwaran speaks with a stiff or tense expression; this is not incidental staging.",
+      "replacement": "I shook my head slightly at Ju Hwaran, whose expression had gone rigid, and continued.",
+      "severity": "major",
+      "source": "굳을 얼굴로 말을 건넨 주화란에게 작게 고개를 내저은 나는 말을 이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“So did I. But it was something I considered carefully before accepting them into the Fire Dragon Pavilion.”",
+      "defect": "The draft turns Taekyung’s internal narration into dialogue spoken aloud to Ju Hwaran.",
+      "id": "F04",
+      "rationale": "The source has no dialogue markers and continues directly into Taekyung’s private assessment, so these sentences are narration rather than speech.",
+      "replacement": "So did I. But it was also something I had thought long and hard about before accepting those two into the Fire Dragon Pavilion.",
+      "severity": "critical",
+      "source": "그건 나도 마찬가지다. 하지만 저 녀석들을 화룡각에 받아들이기 전, 한 차례 심사숙고했던 부분이기도 했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The child that woman bore grew up strong, left behind a son of his own, and passed away.",
+      "defect": "The masculine pronoun adds a male identity for the woman’s child that the source does not state.",
+      "id": "F05",
+      "rationale": "The source identifies only the next generation as male through 사내아이; it leaves the preceding child’s sex unstated.",
+      "replacement": "The child that woman bore grew up strong, then left behind a son and passed away.",
+      "severity": "critical",
+      "source": "그 여인이 낳은 아이는 무럭무럭 자라나 한 사내아이를 남기고 세상을 떠났다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "And that was true even if I excluded the two men who had become the shortest-lived archenemies in Murim history.",
+      "defect": "“Shortest-lived archenemies” says their enmity lasted for the shortest time, whereas the source jokes that they became archenemies in record time.",
+      "id": "F06",
+      "rationale": "최단 시간 modifies how quickly they became enemies, not how long their hostility lasted.",
+      "replacement": "And that was true even if I excluded the two men who had become archenemies faster than anyone in Murim history.",
+      "severity": "critical",
+      "source": "무림 최단 시간 앙숙이 된 두 놈을 논외로 친다 해도 마찬가지였다."
+    }
+  ],
+  "summary": "The draft contains several action, hierarchy, viewpoint, identity, and timing errors.",
+  "version": 1
+}
