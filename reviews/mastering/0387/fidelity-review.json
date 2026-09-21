@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I’d thought it might be possible, but this was still surprising.",
+      "defect": "This reverses the narrator’s expectation. 설마 했는데 means he had not thought it possible or had doubted it, not that he had thought it might be possible.",
+      "id": "F01",
+      "rationale": "The source presents Sound Transmission as an unexpected discovery; the current line says the narrator had already considered it plausible.",
+      "replacement": "I hadn’t thought it was possible, but it was.",
+      "severity": "minor",
+      "source": "Lines 112–113"
+    },
+    {
+      "confidence": 0.95,
+      "current": "He had been caught secretly hoarding a golden calf like that.",
+      "defect": "Hoarding changes the mechanism. The source says Wu Heixing had secretly diverted or smuggled the valuable martial-arts knowledge out, then had that act discovered.",
+      "id": "F02",
+      "rationale": "빼돌린 means secretly siphoned off, diverted, or smuggled away; it does not merely mean stored or hoarded.",
+      "replacement": "He’d been caught with the golden calf he’d secretly smuggled out.",
+      "severity": "minor",
+      "source": "Line 131"
+    },
+    {
+      "confidence": 0.92,
+      "current": "You’ve got plenty to be worried about yourself",
+      "defect": "This weakens the implication of guilt or compromising secrets in 켕기는 거 많으니까. The source says Wu Heixing has plenty weighing on his conscience or plenty to hide.",
+      "id": "F03",
+      "rationale": "The threat relies on Wu Heixing having incriminating matters that make him uneasy, not merely having things to worry about.",
+      "replacement": "You’ve got plenty weighing on your conscience yourself",
+      "severity": "minor",
+      "source": "Line 187"
+    },
+    {
+      "confidence": 0.86,
+      "current": "You’re quite a handful yourself.",
+      "defect": "This characterizes Team Leader Choi as troublesome, whereas 만만치 않네 means he is no pushover or not easy to take lightly. The current wording shifts the joke’s target from unexpected nerve or substance to annoyance.",
+      "id": "F04",
+      "rationale": "Faye Chen is reacting to Choi’s unexpectedly bold question and recognizing that he is not as easygoing or harmless as he looks.",
+      "replacement": "You’re no pushover either.",
+      "severity": "minor",
+      "source": "Line 64"
+    },
+    {
+      "confidence": 0.88,
+      "current": "After walking along the dark path for some time, keeping out of sight, I stopped in the pitch-black darkness and spoke.",
+      "defect": "The source preserves the narrator’s uncertain temporal question—how long he had been walking—rather than simply stating that he walked for some time.",
+      "id": "F05",
+      "rationale": "얼마나 걸었을까 is an intentional internal narration cue expressing an unknown duration.",
+      "replacement": "How long had I walked along the dark path, keeping out of sight? I stopped in the pitch-black darkness and spoke.",
+      "severity": "minor",
+      "source": "Line 78"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but several localized meaning shifts remain in characterization, expectation, mechanism, and implication.",
+  "version": 1
+}

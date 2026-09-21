@@ -4,7 +4,7 @@ It was already deep into the night by the time we left the underground bunker.
 
 I drew a deep breath, letting the cold air seep into my lungs. As I gazed up at the star-filled sky, thinking of Sichuan in the Murim somewhere out there, a small hand tapped me on the shoulder.
 
-“Coming with me? I’m thinking of having a light drink.”
+“Want to come along? I’m thinking of having a drink.”
 
 “Now?”
 
@@ -172,7 +172,7 @@ What kind of question was that? I answered flatly.
 
 “Hmm. So you were more capable than I expected.”
 
-“Don’t pretend to praise me now. It’s obvious you’re trying to pull some cheap trick.”
+“Don’t pretend to praise me now. It’s obvious you’re trying to pull something.”
 
 “……!”
 
@@ -186,7 +186,7 @@ In a way, he was remarkably easy to handle. I knew he was well into his thirties
 
 I kept firing off words like a machine gun without giving him a chance to answer.
 
-“So now you’re throwing out a few compliments you don’t mean and making friendly gestures, trying to pull some kind of trick…… Wait. Is any part of what I just said wrong?”
+“So now you’re tossing out a few compliments you don’t mean and making friendly gestures while you try to pull something…… Wait, was any part of what I just said wrong?”
 
 “……”
 
@@ -194,9 +194,9 @@ I kept firing off words like a machine gun without giving him a chance to answer
 
 When I gave him a contemptuous look, the red-faced Wu Heixing began to stammer.
 
-“I wasn’t trying to pull some other trick.”
+“I wasn’t trying to pull anything else.”
 
-“Then what? If you’re thinking of becoming friends with me, fold that idea up neatly and put it away. If you stand next to shit, the smell gets on me too.”
+“Then what? If you’re thinking of becoming friends with me, fold that idea up neatly and put it away. Stand next to shit and the smell rubs off on you.”
 
 “……!”
 
@@ -208,7 +208,7 @@ At my quiet question, the hand creeping toward his sword hilt stopped dead.
 
 Wu Heixing looked at me with conflicted eyes before blurting out a question.
 
-“You already knew everything…… So why did you come along so willingly?”
+“You already knew…… So why did you come along so willingly?”
 
 “Because I had something to ask.”
 
@@ -222,7 +222,7 @@ I looked straight into Wu Heixing’s eyes.
 
 His rigid expression was answer enough. I’d thought it might be possible, but this was still surprising. Scratching the back of my head, I muttered,
 
-“I guess it is. Well, this is the mainland, so I suppose various martial arts could have survived here. An internal-energy cultivation technique, for example.”
+“I guess it was. Well, this is the mainland, so I suppose various martial arts might have survived here. An internal-energy cultivation technique, for example.”
 
 “W-what are you talking about? That was message magic……”
 
@@ -248,11 +248,11 @@ I stared at the flustered Wu Heixing and continued.
 
 “Shut your mouth!”
 
-“Oh, right. You said your family was powerful. Did the highest-ranking Communist Party officials quietly smuggle it out by abusing their positions?”
+“Oh, right. You said your family was powerful. Did some top Communist Party official use his position to quietly squirrel it away?”
 
 “……”
 
-His expression sank instantly. I must have been right.
+His expression instantly went cold. I must have been right.
 
 As a foreigner, I didn’t know how serious a problem this was, but I understood the value of an internal-energy cultivation technique—in other words, what was called a mana cultivation technique in the modern era.
 
@@ -262,13 +262,13 @@ He had been caught secretly hoarding a golden calf like that. Naturally, Wu Heix
 
 “It would be wise never to speak of what you just said again.”
 
-“I had no particular intention of doing so, but your tone is pretty damn offensive.”
+“I wasn’t planning to, but I really don’t like your tone.”
 
 Wu Heixing glared at me with venomous eyes.
 
 “Would you still act like this after learning who my father is?”
 
-“I don’t know who your father is, but he sounds like he might have been a former Red Guard.”
+“I don’t know who your father is, but he sounds like he might have been a Red Guard.”
 
 “……!”
 
@@ -340,7 +340,7 @@ The ground churned, and rocks and trees were ripped free.
 
 By the time I stopped using him as a human pickaxe, Wu Heixing lay spread-eagled in a huge crater, looking as though his soul had left his body.
 
-“Still, you’ve got a sturdy body, so you’re not hurt that badly.”
+“Still, you’ve got a sturdy body. You’re barely hurt.”
 
 “Urgh…… ugh……”
 
@@ -352,15 +352,15 @@ He was completely out of it.
 
 Clicking my tongue, I bent down and searched his pockets.
 
-After rummaging through the pouch enchanted with spatial expansion magic for a while, I finally found what I was looking for.
+After rummaging through a pouch enchanted with spatial expansion magic for some time, I finally found what I was looking for.
 
 “Ah, here it is. A high-grade potion.”
 
 > **System**
 >
-> **Acquired:** **Top-Grade Potion**
+> **Acquired:** Top-Grade Potion
 
-“……No, wait. A top-grade potion? What the hell, you bastard?”
+“……Wait. A top-grade potion? What the hell, you bastard?”
 
 I stared in surprise at the sprawled-out Wu Heixing. Even for an S-rank Hunter, carrying something like this around was absurd.
 
@@ -372,7 +372,7 @@ Their almost unreal price aside, they were so scarce that even people with money
 
 After a moment’s hesitation, I slipped the top-grade potion into my Inventory. Then I searched his pouch again, found a high-grade potion, and poured it over him.
 
-“I’ve got my settlement payment, so I’ll let you off here. You’ve got plenty to be worried about yourself, so if you go around telling people about what happened today…… You know what’ll happen, right?”
+“I’ve collected my settlement payment, so I’ll let you off here. You’ve got plenty to hide yourself, so if you go around telling people what happened today…… You know, right?”
 
 “Ugh…… uuuugh……”
 
