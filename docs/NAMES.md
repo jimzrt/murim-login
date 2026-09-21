@@ -1958,3 +1958,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소라 아오이 | **Sora Aoi** | Hypothetical deputy minister in Taekyung's pornography-department joke. |
 | 키라라 아스카 | **Asuka Kirara** | Hypothetical spokesperson in Taekyung's pornography-department joke. |
 | 폰허브 | **Pornhub** | Website referenced in Taekyung's joke about Jin-ho. |
+| 김 화 종 | **Kim Hwajong** | Deceased old butler and Choi Minwoo's grandfather. |
+| 전경련 | **Federation of Korean Industries** | Business organization seeking Choi Minwoo's attendance at a social gathering. |
+| 정 기사님 | **Driver Jung** | Choi Minwoo's limousine driver. |
