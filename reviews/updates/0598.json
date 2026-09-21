@@ -1,0 +1,106 @@
+{
+  "chapter": 598,
+  "files": {
+    "characters/Go Jun.md": "91b9c0d3980376eae576a49a61af62e495f870d763fd2b55c91698c0c3f642df",
+    "characters/Go Se-won.md": "d6a3fba71464893175c86c46cbae93cb8f0c29104ec74b288f7a60357e2e95bf",
+    "characters/Jin Taekyung.md": "edbea59bbcc39fea385a7e245ec22071871a3610259b00c3c50e5034566b0871",
+    "characters/Jintae.md": "52ce776cc2ac0664a7d1e54be466609e8e32f983f208c7eda3d21b9b4c14a304",
+    "characters/Lee Jungryong.md": "6f0c6c9dc9e13cd80a9a2a5d7778c8b8977011f80b98932dbb53b871177cf25e",
+    "docs/ADDRESS.md": "42d7f8607d0e264e1675e79fb2a20cfc23c33ad49275c057c1f7b095c31d8a52",
+    "docs/CONTEXT.json": "694579eca7d7d8efdf941862819bdcee47e306c1938bf1af25570e0d9621e305",
+    "docs/NAMES.md": "4fe1e5b14971973175ea80b7b7c73ff65f5d7e913d1d51dff0d02ce50622ddc2",
+    "docs/STATE.md": "be1e99249a5063cd0ff956fa6bf9265c89d1b363e64c1f37a8e29a2cbfee12cc",
+    "summaries/beats/0598.md": "3c75d5b6bcb44b4cf7524cd44bb4a1370fde21d032a0a2980b409178f4004fcb"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "detention_center_warden_to_visiting_Hunter",
+        "normal_address": "Mr. Taekyung",
+        "notes": "The warden repeatedly addresses Jin as 태경 씨 and 진태경 씨 while escorting and briefing him.",
+        "speaker": "구치소장",
+        "speech_level": "friendly and informally polite"
+      },
+      {
+        "addressee": "구치소장",
+        "kinship": "visiting_Hunter_to_detention_center_warden",
+        "normal_address": "Warden",
+        "notes": "Jin addresses the warden as 소장님 while reacting to his disturbing enthusiasm for beating prisoners.",
+        "speaker": "진태경",
+        "speech_level": "polite, dry, and uneasy"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Go Se-won is held in a special detention center under mana suppression while cooperating with the investigation and interrogation.",
+        "Go Se-won has a daughter and considers protecting his family the most important result of his break with Ares Guild.",
+        "A second secret area exists inside Area A of the Ares Guild headquarters, but its location, access method, and contents remain unknown.",
+        "Go Se-won has revealed the hidden area's existence to Jin and asked him to search for it."
+      ],
+      "plot": [
+        "Jin visits Go Se-won in the heavily guarded special detention center. The former Ares Head of Security accepts responsibility for his choice to break with the Guild, has no regrets, and says protecting his family made the losses worthwhile.",
+        "Go Se-won reveals that another secret area is hidden within Area A of the Ares Guild headquarters. Only Lee Jungryong and Go Jun were permitted to enter it; Go Se-won does not know its location, access method, or contents, and asks Jin to find it before the government investigation team discovers it."
+      ],
+      "translation_decisions": [
+        "Use special detention center for 특별 구치소.",
+        "Use Warden for 구치소장 when Jin addresses the detention-center director.",
+        "Use Executive Director Park for 박 전무 and Managing Director Lee for 이 상무.",
+        "Retain Area A for A구역 and secret area for 비밀 구역."
+      ]
+    },
+    "chapter": 598,
+    "context": {
+      "active_continuity": [
+        "Team Leader Choi regards Kim Hwajong as family and is grieving his death, finally breaking down after Jin leaves the room.",
+        "President Baek Hanseong has assigned a temporary security detail to protect Jin and his family while the current crisis settles.",
+        "Jin remains booked without detention; the main allegation concerns injuries to more than five hundred casualties, while self-defense is likely to be recognized.",
+        "Go Se-won is held in a special detention center and is cooperating with the investigation without regret for breaking with Ares Guild.",
+        "Go Se-won has a daughter and says protecting his family justified what he lost.",
+        "Go Se-won has told Jin that another secret area is hidden inside Area A of the Ares Guild headquarters.",
+        "Only Lee Jungryong and Go Jun were permitted to enter the second secret area, whose location, access method, and contents Go Se-won does not know.",
+        "Jin has been asked to find the second secret area before the government investigation team discovers it."
+      ],
+      "continuity_sources": [
+        598
+      ],
+      "open_questions": [
+        "What debt does Go Se-won mean to repay to Jin?",
+        "What is hidden in the second secret area within Area A?",
+        "Where is the second secret area, and how can it be accessed?",
+        "How will the authorities ultimately resolve the charges against Jin?"
+      ],
+      "safe_through": 598,
+      "temporary_decisions": [
+        "Use Team Leader Choi for 최 팀장.",
+        "Use Butler Kim for 김 집사.",
+        "Use Skeleton King for 스켈레톤 킹.",
+        "Use President's Security Service for 대통령 경호실.",
+        "Use booked without detention for 불구속 입건."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Executive Director Park",
+        "korean": "박 전무",
+        "notes": "Ares Guild executive held at the special detention center."
+      },
+      {
+        "english": "Managing Director Lee",
+        "korean": "이 상무",
+        "notes": "Ares Guild executive held at the special detention center."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** He formerly served Vice Guild Master Go Jun as Ares Guild's Head of Security; after exposing Go Jun's role, he is held in a special detention center and has requested a meeting with Jin Taekyung.",
+        "path": "characters/Go Se-won.md",
+        "replacement": "- **Relationships:** He formerly served Vice Guild Master Go Jun as Ares Guild's Head of Security; after exposing Go Jun's role, he is held in a special detention center, prioritizes protecting his family, and has revealed to Jin Taekyung that another secret area lies within Area A."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "More than a hundred soldiers stood guard, armed with flawless equipment. Hunters disguised as soldiers hid among them.",
+      "defect": "백여 명 means roughly a hundred, not more than a hundred, and 빈틈없는 describes their comprehensive, airtight equipment rather than equipment that is literally flawless.",
+      "id": "F01",
+      "rationale": "The replacement restores the approximate quantity and naturally conveys that the guards are thoroughly equipped.",
+      "replacement": "Roughly a hundred soldiers stood guard, armed to the teeth, while Hunters disguised as soldiers hid among their ranks.",
+      "severity": "critical",
+      "source": "빈틈없는 장비로 무장한 채 경비를 서는 백여 명의 군인들과 그 사이사이에 군인으로 위장한 채 숨어 있는 헌터들."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even so, its security was far tighter than that of any prison holding convicted felons.",
+      "defect": "The draft changes a comparison with a prison reserved exclusively for serious criminals into a sweeping comparison with any prison holding convicted felons.",
+      "id": "F02",
+      "rationale": "중범죄자만을 preserves both the seriousness of the inmates and the fact that such a prison houses only that category.",
+      "replacement": "Even so, its security was far tighter than that of a prison reserved exclusively for serious criminals.",
+      "severity": "major",
+      "source": "그럼에도 중범죄자만을 수용한 교도소보다 경계의 수준이 훨씬 삼엄했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“If I put enough healing into a cup of potion, they recover completely. What can they do about it? There’s no evidence. No evidence.”",
+      "defect": "The draft treats healing as something mixed into the potion, whereas the source describes giving the inmates a cup of potion and ample healing so their injuries disappear.",
+      "id": "F03",
+      "rationale": "The replacement preserves the two-part recovery mechanism behind the warden’s concealment of the beatings.",
+      "replacement": "“Give them a cup of potion and plenty of healing, and they recover completely. What can they do about it? There’s no evidence. No evidence.”",
+      "severity": "major",
+      "source": "포션 한 컵에 힐 넉넉하게 넣어 주면 싹 회복되는데, 지들이 뭘 어쩌겠습니까. 어차피 증거가 없어요, 증거가."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The special detention center was special because all of the prisoners temporarily held there were Awakened, at least in principle.",
+      "defect": "“At least in principle” introduces possible exceptions or uncertainty, but the source categorically identifies the detainees as Awakened and presents that as the facility’s defining premise.",
+      "id": "F04",
+      "rationale": "모두 기본적으로 states the fundamental rule governing the detention center, not a merely theoretical classification.",
+      "replacement": "The special detention center was special because every prisoner temporarily held there was an Awakened.",
+      "severity": "major",
+      "source": "특별 구치소가 특별한 이유는, 이곳에 임시 수용 중인 수감자들이 모두 기본적으로 각성자이기 때문이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If they were a higher Grade and had obtained a Hunter license through formal training, there was even less need to explain.",
+      "defect": "“Grade” is incorrectly used and capitalized for an ordinary Hunter classification; established terminology reserves capitalized Grade for System classifications and uses rank for Hunters.",
+      "id": "F05",
+      "rationale": "The replacement follows the established Hunter-rank terminology while naturally rendering 두말할 것도 없었다.",
+      "replacement": "If they were higher-ranked and had obtained a Hunter license through formal training, that went without saying.",
+      "severity": "minor",
+      "source": "만약 그보다도 등급이 높고, 정식 훈련을 통해 헌터 라이센스를 취득한 자라면 두말할 것도 없었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I don’t know. So far, things seem fine.”",
+      "defect": "The draft turns Taekyung’s trailing admission that he still does not know what will happen into a positive assessment that matters currently seem fine.",
+      "id": "F06",
+      "rationale": "아직까지는 잘 trails off from 잘 모르겠다, indicating continuing uncertainty rather than optimism about his legal situation.",
+      "replacement": "“Who knows? I still have no idea.”",
+      "severity": "major",
+      "source": "“글쎄요. 아직까지는 잘.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You lose as much as you gain. I’ve only gone back to the way I was then—a war orphan who had nothing. More importantly, I protected my precious family. I should be satisfied with that.”",
+      "defect": "The opening sentence changes Go Se-won’s first-person accounting of what he personally lost and gained into a generic second-person aphorism.",
+      "id": "F07",
+      "rationale": "The surrounding sentences and omitted Korean subject make this a personal assessment of his sacrifice, not a universal maxim.",
+      "replacement": "“I lost as much as I gained. I’ve only gone back to the way I was then—a war orphan who had nothing. More importantly, I protected my precious family. I should be satisfied with that.”",
+      "severity": "major",
+      "source": "“얻은 만큼 잃은 거지. 가진 게 아무것도 없었던 전쟁고아, 그때로 돌아간 것뿐이야. 무엇보다 소중한 가족을 지켰으니 그걸로 만족해야지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The government investigation team must be searching Area A from top to bottom by now, but they haven’t noticed it yet.”",
+      "defect": "The draft makes Go Se-won certain that the investigators have not found the hidden area, while 못했을 거다 is his inference rather than confirmed knowledge.",
+      "id": "F08",
+      "rationale": "“Probably” preserves the source’s inferential register and supports his following conditional explanation that they would have questioned him if they had found it.",
+      "replacement": "“The government investigation team must be searching Area A from top to bottom by now, but they probably haven’t noticed it yet.”",
+      "severity": "minor",
+      "source": "“이미 정부 측 조사팀이 A구역을 샅샅이 뒤지고 있겠지만 아직 알아차리진 못했을 거다.”"
+    }
+  ],
+  "summary": "The draft is generally faithful, but it alters one stated quantity, broadens a prison comparison, changes a healing mechanism, introduces uncertainty where the source is categorical, mishandles Hunter-rank terminology, reverses the implication of Taekyung’s legal-status answer, shifts Go Se-won’s personal statement into a generalization, and overstates his certainty about the investigators.",
+  "version": 1
+}

@@ -1,20 +1,22 @@
 # Translation State
 
-- Last completed: 597
-- Next chapter: 598
-- Current block: 595–599 (3/5)
-- Latest translation: `translations/0597.md`
-- Latest summary: `summaries/beats/0597.md`
-- Safe profiles through: chapter 597
+- Last completed: 598
+- Next chapter: 599
+- Current block: 595–599 (4/5)
+- Latest translation: `translations/0598.md`
+- Latest summary: `summaries/beats/0598.md`
+- Safe profiles through: chapter 598
 
 ## Current Block
 
-- Team Leader Choi grieves Kim Hwajong as family, thanks Jin for protecting Hwajong's final moments, and finally breaks down sobbing after Jin leaves. Outside, Song Song, Im Kkeokjeong, and the Skeleton King give him privacy under coffee-related pretexts. President Baek Hanseong's security detail says the President has left but will temporarily protect Jin and his family while Jin remains booked without detention over injuries to more than five hundred casualties, with self-defense likely to apply. Learning that Go Se-won is held in a special detention center and wants to repay a debt, Jin decides to meet him and leaves with the officers.
+- Jin visits Go Se-won in the heavily guarded special detention center. The former Ares Head of Security accepts responsibility for his choice to break with the Guild, has no regrets, and says protecting his family made the losses worthwhile.
+- Go Se-won reveals that another secret area is hidden within Area A of the Ares Guild headquarters. Only Lee Jungryong and Go Jun were permitted to enter it; Go Se-won does not know its location, access method, or contents, and asks Jin to find it before the government investigation team discovers it.
 
 ## Open Questions
 
-- What debt does Go Se-won intend to repay to Jin?
-- What will Go Se-won reveal when Jin visits him?
+- What debt does Go Se-won mean to repay to Jin?
+- What is hidden in the second secret area within Area A?
+- Where is the second secret area, and how can it be accessed?
 - How will the authorities ultimately resolve the charges against Jin?
 
 ## Exceptional Decision
