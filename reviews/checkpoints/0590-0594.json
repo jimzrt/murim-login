@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin spares Se-won after learning that Go Jun, rather than Se-won’s own choices, made him believe he was abandoning his family.",
+      "defect": "The summary invents a causal conclusion about Go Jun making Se-won believe he was abandoning his family. Jin instead discovers that Se-won intended to resign, sees the incoming call and family photograph, and hears Se-won condemn his boss.",
+      "id": "C01",
+      "rationale": "This states the revealed reasons for Jin’s decision without attributing an unsupported belief or action to Go Jun.",
+      "replacement": "Jin spares Se-won after discovering that he intended to resign and seeing his wife’s incoming call over their family photograph.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot paragraph 1"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Go Jun remains in Area A to face Jin. He remembers how Lee Jungryong found him among the war orphans and made him his Disciple, while the black jewel in his treasured necklace mysteriously allows Jin to breach Area A’s barriers.",
+      "defect": "The summary presents the jewel as the mechanism that allows Jin to breach the barriers, although the chapter establishes only that it emits a strange light as the intrusion begins. Its function remains an explicit open question.",
+      "id": "C02",
+      "rationale": "This preserves the observed timing without prematurely resolving the jewel’s causal role.",
+      "replacement": "Go Jun remains in Area A to face Jin. He remembers how Lee Jungryong found him among the war orphans and made him his Disciple; as Jin breaches Area A’s barriers, the black jewel in his treasured necklace emits a strange light for reasons still unknown.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot paragraph 2"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Or perhaps the amount of magical power Go Jun had absorbed was simply that immense.",
+      "defect": "The phrase uses the generic “magical power” for Go Jun’s absorbed corrupted energy, drifting from the checkpoint’s established “demonic energy” distinction.",
+      "id": "C03",
+      "rationale": "The replacement maintains the declared distinction among demonic energy, mana, and Magic.",
+      "replacement": "Or perhaps the amount of demonic energy Go Jun had absorbed was simply that immense.",
+      "severity": "minor",
+      "source": "Chapter 593, opening exchange of force"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I shot through the murky, violent fog of magical power.",
+      "defect": "This second use of “magical power” repeats the terminology drift immediately before Jin explicitly identifies the corrupted force as demonic energy.",
+      "id": "C04",
+      "rationale": "Using the established term keeps the energy type consistent across the scene.",
+      "replacement": "I shot through the murky, violent fog of demonic energy.",
+      "severity": "minor",
+      "source": "Chapter 593, final charge"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Striking Second, Hitting First. Someone who gained strength from a Magic Gem like you would never understand it, even if you died and came back to life.”",
+      "defect": "The placement of “like you” momentarily makes it modify “Magic Gem,” producing an awkward and potentially comic misreading.",
+      "id": "C05",
+      "rationale": "The revision removes the grammatical ambiguity while preserving Jin’s contemptuous explanation.",
+      "replacement": "“Striking Second, Hitting First. Someone like you, who gained strength from a Magic Gem, would never understand it, even if you died and came back to life.”",
+      "severity": "minor",
+      "source": "Chapter 593, explanation of Striking Second, Hitting First"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even if he had soaked in a half-body bath of top-grade potion, reviving him should have been impossible.",
+      "defect": "“Soaked in a half-body bath” is an unnatural English collocation and reads like a literal Korean construction.",
+      "id": "C06",
+      "rationale": "The replacement conveys the same physical image in natural contemporary English.",
+      "replacement": "Even if he had soaked waist-deep in top-grade potion, reviving him should have been impossible.",
+      "severity": "minor",
+      "source": "Chapter 594, realization that Go Jun survived"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Kim Hwajong died after sacrificing himself to restrain Behemoth, and Choi Minwoo remains unconscious after being transported from the battlefield.",
+      "defect": "The active state omits the approximately twenty Peace Guild members whom Chapter 594 explicitly says also died because of Go Jun’s actions.",
+      "id": "C07",
+      "rationale": "Those casualties are established durable continuity and materially affect the scale of the Guild’s losses.",
+      "replacement": "Kim Hwajong died after sacrificing himself to restrain Behemoth, some twenty Peace Guild members also lost their lives, and Choi Minwoo remains unconscious after being transported from the battlefield.",
+      "severity": "major",
+      "source": "Durable state, active_continuity item 1"
+    },
+    {
+      "confidence": 0.93,
+      "current": "What is inside Area A, and what is the unidentified being involved in Go Jun's plan?",
+      "defect": "The first clause is now overly broad because Chapters 592–594 have already shown Area A’s corridors and Go Jun’s presence there. The unresolved issue is what else the concealed area contains.",
+      "id": "C08",
+      "rationale": "The revised question preserves the unresolved hook without treating everything inside Area A as still unrevealed.",
+      "replacement": "What else is hidden inside Area A, and what is the unidentified being involved in Go Jun's plan?",
+      "severity": "minor",
+      "source": "Durable state, open_questions item 3"
+    }
+  ],
+  "summary": "The reading copies are broadly coherent and retain Jin’s established voice, but the checkpoint summary overstates two causal conclusions, Chapter 593 has two instances of terminology drift, and the durable state drops established Peace Guild casualties. A few localized English constructions also need correction.",
+  "version": 1
+}

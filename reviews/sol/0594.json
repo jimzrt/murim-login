@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "And Go Jun had clearly been at death’s door.",
+      "defect": "The draft changes Go Jun from unequivocally dead to merely close to death, undermining the central resurrection mystery.",
+      "id": "F01",
+      "rationale": "죽음을 맞이한 상태였다 states that he had already died, not that he was approaching death.",
+      "replacement": "And Go Jun had unquestionably been dead.",
+      "severity": "critical",
+      "source": "놈은 분명히 죽음을 맞이한 상태였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Because my opponent was not a human being like me.",
+      "defect": "The draft omits the explicit conclusion that Go Jun is a monster, weakening Taekyung’s stated justification for feeling no pity.",
+      "id": "F02",
+      "rationale": "괴물이니까 explicitly identifies him as a monster and supplies the causal reason for the preceding lack of pity.",
+      "replacement": "Because my opponent wasn’t human like me. He was a monster.",
+      "severity": "major",
+      "source": "상대는 나와 같은 인간이 아니라 괴물이니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Disciple who had served Lee Jungryong faithfully for decades, and the de facto master of one of the most prominent Guilds in the world, had died by my hand.",
+      "defect": "The draft omits the established organization name Ares Guild, making Go Jun’s institutional identity less specific.",
+      "id": "F03",
+      "rationale": "The source explicitly names 아레스 길드 and describes it as one of the world’s foremost Guilds.",
+      "replacement": "The Disciple who had served Lee Jungryong faithfully for decades—and the de facto master of Ares Guild, one of the foremost Guilds in the world—had died by my hand.",
+      "severity": "major",
+      "source": "지난 수십 년간 이정룡에게 충성을 바친 제자이자, 세계에서도 손꼽히는 아레스 길드의 실질적인 주인이 내 손에 죽었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Why had the System window announcing his defeat still not appeared?",
+      "defect": "“Defeat” weakens the System mechanic from confirmation of a kill or elimination to a generic combat loss, even though Go Jun has already been defeated in battle.",
+      "id": "F04",
+      "rationale": "처치 in this context is the System-confirmed elimination that would establish Go Jun’s death, which is why its absence reveals that he is alive.",
+      "replacement": "Why had the System window announcing his kill still not appeared?",
+      "severity": "major",
+      "source": "왜 처치를 알리는 시스템 창은 아직까지도 뜨지 않을까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Whether you’re going to heaven or hell, go there first and wait for me. When I get there, I’ll kill you to your heart’s content.”",
+      "defect": "“To your heart’s content” incorrectly makes Go Jun the one deriving satisfaction from the killing and produces an incoherent threat.",
+      "id": "F05",
+      "rationale": "원 없이 죽여 줄 테니까 expresses Taekyung’s threat to kill Go Jun without restraint or lingering dissatisfaction, not Go Jun’s desire to be killed.",
+      "replacement": "“Whether you’re going to heaven or hell, go there first and wait for me. When I get there, I’ll kill you as much as I please.”",
+      "severity": "major",
+      "source": "“네가 가는 곳이 천국이든, 지옥이든. 먼저 가서 기다리고 있어라. 그때는 정말 원 없이 죽여 줄 테니까.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He had caused two Monster Waves on purpose, creating thousands of casualties and sacrificing Kim Hwajong and more than twenty members of the Peace Guild.",
+      "defect": "“More than twenty” turns the approximate quantity 이십여 명 into a strict lower bound.",
+      "id": "F06",
+      "rationale": "이십여 명 means approximately twenty or twenty-odd people, while “more than twenty” specifically excludes twenty and lacks the source’s approximation.",
+      "replacement": "He had caused two Monster Waves on purpose, creating thousands of casualties and costing Kim Hwajong and some twenty members of the Peace Guild their lives.",
+      "severity": "minor",
+      "source": "두 번의 몬스터 웨이브를 인위적으로 일으켜 수천의 사상자를 발생시키고, 김화종과 이십여 명의 평화 길드원을 희생시킨 대가를 죽음으로 받아 냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But today, the place where I had kept that promise deep in my heart had collapsed.",
+      "defect": "The English syntax makes the physical place sound like the location inside his heart where he stored the promise, rather than the cherished place associated with that promise.",
+      "id": "F07",
+      "rationale": "마음 깊은 곳에 간직하고 있던 modifies 약속, while 약속의 장소 is the real-world location that collapsed.",
+      "replacement": "But today, the place from the promise I had kept deep in my heart had collapsed.",
+      "severity": "minor",
+      "source": "하지만 오늘. 마음 깊은 곳에 간직하고 있던 약속의 장소가 무너졌다."
+    }
+  ],
+  "summary": "The draft contains one critical death-state reversal and several meaningful omissions or shifts involving characterization, identity, System mechanics, quantity, and agency.",
+  "version": 1
+}
