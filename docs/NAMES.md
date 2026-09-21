@@ -1964,3 +1964,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 서천 | **Western Heaven** | Short form used by the Lord of Heaven for the Western Heaven Demon Lord. |
 | 남천 | **South Heaven** | Dark Heaven power that the Lord of Heaven orders the servants to contact. |
 | 북천 | **North Heaven** | Dark Heaven power that the Lord of Heaven orders the servants to contact. |
+| 운남성 | **Yunnan Province** | The formal name of the destination region commonly called Nanman in the Central Plains. |
+| 마방 | **horse caravans** | Descendants of northern mounted tribes who traveled ancient trade routes between the Outer Lands and the Central Plains. |
