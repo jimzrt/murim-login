@@ -1925,3 +1925,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 살바토르 문디 | **Salvator Mundi** | Title of the Leonardo da Vinci painting displayed in Lee Jungryong's hidden vault. |
 | 레오나르도 다빈치 | **Leonardo da Vinci** | Artist identified as the creator of Salvator Mundi. |
 | 경상도 | **Gyeongsang-do** | Region used in Taekyung's joke about the word Mundi. |
+| 제이콥 | **Jacob** | Black reporter covering the Texas Gate incident. |
+| 제니 | **Jenny** | East Asian news anchor interviewing Jacob. |
