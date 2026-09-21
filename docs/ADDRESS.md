@@ -994,3 +994,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | undead_ally_to_close_companion | you | casual and profane | The Skeleton King uses 네놈 while complaining about making Jin instant-mix coffee. |
 | 구치소장 | 진태경 | detention_center_warden_to_visiting_Hunter | Mr. Taekyung | friendly and informally polite | The warden repeatedly addresses Jin as 태경 씨 and 진태경 씨 while escorting and briefing him. |
 | 진태경 | 구치소장 | visiting_Hunter_to_detention_center_warden | Warden | polite, dry, and uneasy | Jin addresses the warden as 소장님 while reacting to his disturbing enthusiasm for beating prisoners. |
+| 최민우 | 박대원 | prospective_Ares_Guild_claimant_to_acting_head | Vice President Park | formal, calm, and coercive | Orders Park to have all Ares executives present at headquarters by six o'clock. |
+| 박대원 | 최민우 | acting_Ares_head_to_prospective_Guild_claimant | Team Leader Choi, then Mr. Choi | formal and hesitant | Initially uses Choi's title before switching to his name while asking for more time. |
