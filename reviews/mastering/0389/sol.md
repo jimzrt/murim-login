@@ -20,7 +20,7 @@ One day passed, then two, then three. Even after four days, the situation showed
 
 There had been countless incidents and disasters since the Great Cataclysm, but the Monster Wave in Sichuan Province was unprecedented in scale.
 
-Chairman Shao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
+Chairman Shao Yang officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
 
 The entire world was watching.
 
@@ -30,7 +30,7 @@ Korea was no exception. Once again, the Hunter Issues section of the country’s
 
 **Here’s a summary of the situation so far.**
 
-**There isn’t anyone here who hasn’t watched the Security Council’s major announcement video, right? If there is, go die somewhere. This is a genuine emergency. The supreme leader up north has probably already watched the whole thing on iTube and is lurking on this board, too.**
+**There isn’t anyone here who hasn’t watched the Security Council’s major announcement, right? If there is, go die somewhere. This is a genuine emergency. The supreme leader up north has probably already watched the whole thing on iTube and is lurking on this board, too.**
 
 **Anyway, so many insect bastards kept asking someone to summarize a situation their own lives depended on that I finally got fed up and wrote this.**
 
@@ -68,27 +68,27 @@ Korea was no exception. Once again, the Hunter Issues section of the country’s
 
 Within hours of being uploaded, the post passed 100,000 views, and the comments caught fire as netizens following the situation weighed in.
 
-> **Best comment:** The situation really is as serious as the post says, but the author is setting the mood way too hard lol. They say S-rank Hunters are fighting alongside 100,000 ordinary Hunters. What’s there to worry about? Is the military just sitting around?
+> **Best comment:** The situation really is as serious as the post says, but the author is laying it on way too thick lol. They say S-rank Hunters are fighting alongside 100,000 ordinary Hunters. What’s there to worry about? Is the military just sitting around?
 >
 > └ Yeah. They’re sitting around in maintenance depots right now.
 >
-> └ ……?
+> └ …?
 >
-> └ Didn’t you watch the news? All the Chinese military’s Equipment broke down this time, exposing the largest military procurement corruption scandal ever. They say it’s worth at least tens of trillions of won. Apparently, more than one or two divisions are stuck in place.
+> └ Didn’t you watch the news? All the Chinese military’s equipment broke down, exposing the largest military procurement corruption scandal ever. They say it’s worth at least tens of trillions of won. Apparently, more than a few divisions are stuck in place.
 >
-> └ Huh. This sounds like something I’ve heard a lot before.
+> └ Huh. I feel like I’ve heard this story before.
 >
-> └ Please change the canteens already, you motherfuckers. I got out last year, but why did the water in my canteen still taste like it came from Normandy? After one sip, I couldn’t even tell whether my name was Kim Cheol Soo or James.
+> └ Please replace the canteens already, you motherfuckers. I got discharged last year, but why did the water in mine still taste like it came from Normandy? One sip and I couldn’t tell whether my name was Kim Cheol Soo or James.
 >
 > └ Corporal Kim. Tonight’s dinner is boneless pollock braised in sauce.
 >
-> └ I’m not eating, fuck.
+> └ I’m not eating that shit.
 >
-> └ Anyway, the military being stuck because of broken Equipment is a problem, but they’ve got manpower to spare, so they’re probably fine. Hunters are the only ones who can actually inflict meaningful damage on monsters, after all. The real problem is something else.
+> └ Anyway, the military being stuck because of broken equipment is a problem, but manpower is the one thing they have to spare, so they’ll probably be fine. Hunters are the only ones who can actually inflict meaningful damage on monsters, after all. The real problem is something else.
 >
 > └ What?
 >
-> └ The monster population has broken through 100,000.
+> └ The monster count has passed 100,000.
 >
 > └ ??
 >
@@ -96,27 +96,27 @@ Within hours of being uploaded, the post passed 100,000 views, and the comments 
 >
 > └ What do you mean, 100,000? Don’t talk bullshit.
 >
-> └ It’s not bullshit. It’s official information announced by the United Nations Security Council. Follow the link in the post and check it yourself. It was posted five minutes ago.
+> └ It’s not bullshit. It’s official information from the United Nations Security Council. Follow the link in the post and check it yourself. It went up five minutes ago.
 >
-> └ Wow…… fuck.
+> └ Wow… fuck.
 >
-> └ Judging by the reaction to the comment above, I guess it’s true. Holy shit.
+> └ Judging by the reaction above, I guess it’s true. Holy shit.
 >
-> └ No. That’s just because it’s all in English and I don’t understand what it says. I’m running it through Gargle Translator right now.
+> └ No. That’s just because it’s all in English and I don’t understand any of it. I’m running it through Gargle Translator right now.
 >
 > └ Is this guy insane?
 >
-> └ Hey, but if the number of monsters really has broken through 100,000, isn’t that a huge problem? Until now, the largest Monster Wave we’d ever seen hadn’t even reached a thousand monsters, had it?
+> └ Hey, but if the monster count really has passed 100,000, aren’t we in serious trouble? Until now, even the largest Monster Waves hadn’t reached a thousand monsters, right?
 >
-> └ Naturally, this Wave wasn’t anywhere near this large in the beginning. The problem is that there’s an Arch Lich over there. Even an ordinary Lich appearing would be a major incident, but that one is an apex named Monster unknown even to academia. Practically speaking, most of the monsters fighting right now are undead resurrected by the Arch Lich.
+> └ Obviously, this Wave wasn’t anywhere near this big at first. The problem is the Arch Lich. Even an ordinary Lich appearing would be a major incident, but this thing is an apex named Monster unknown even to academia. At this point, it’s more accurate to say that most of the monsters fighting right now are undead resurrected by the Arch Lich.
 >
 > └ Arch Lich: “Kaioken, times one hundred.”
 >
-> └ Then can’t we just kill the Arch Lich? If most of the monsters are undead, killing the controller should end everything, right?
+> └ Then can’t we just kill the Arch Lich? If most of the monsters are undead, killing their controller should end everything, right?
 >
 > └ ???????
 >
-> └ Who’s going to kill the Arch Lich, and how, you fucking idiot? The guy who uses an Aura Blade with his keyboard has nothing but a mouth.
+> └ Who’s going to kill the Arch Lich, and how, you fucking idiot? Some asshole who swings an Aura Blade with his keyboard is all talk.
 
 A fierce debate raged on.
 
@@ -124,7 +124,7 @@ Some commenters watched from a safe distance, as though the whole thing were a f
 
 Even as doomsday predictions and blind optimism ran rampant, new information continued to pour in.
 
-> **Best comment:** Security Council official report: The front in the east-west sector was breached one hour ago. Fortunately, Faye Chen arrived with reinforcements and stopped the damage from spreading.
+> **Best comment:** Official Security Council report: The front in the east-west sector was breached an hour ago. Fortunately, Faye Chen arrived with reinforcements and stopped the damage from spreading.
 >
 > └ Holy shit, it’s real.
 >
@@ -132,13 +132,13 @@ Even as doomsday predictions and blind optimism ran rampant, new information con
 >
 > └ Yeah. That Chinese junkie.
 >
-> └ But why did it get breached? He’s an S-rank Hunter.
+> └ Then how did it get breached? He’s an S-rank Hunter.
 >
-> └ Because he’s a Chinese-made S-rank Hunter.
+> └ Because he’s a made-in-China S-rank Hunter.
 >
-> └ Ah……
+> └ Ah…
 >
-> └ If Faye Chen hadn’t been there, this could’ve become a real disaster. Maybe it’s because Faye Chen is a well-made Hunter forged by the Great Cataclysm.
+> └ If Faye Chen hadn’t been there, this could’ve become a real disaster. Maybe it’s because she’s a quality-built Hunter forged in the Great Cataclysm.
 >
 > └ Faye Chen is Hong Kong-made. Her parents had Hong Kong citizenship.
 >
@@ -146,15 +146,15 @@ Even as doomsday predictions and blind optimism ran rampant, new information con
 >
 > └ While we’re at it, does anyone have news about the Korean Hunters?
 >
-> └ Jung Dragon has taken charge of the northern front and is gaining the upper hand. I heard Lord Fuck won two or three times on the western front, but there hasn’t been any news since then, so I guess he’s maintaining the current situation.
+> └ Jung Dragon is holding the northern front and gaining the upper hand. I heard Lord Fuck won two or three times on the western front, but there hasn’t been any news since, so I guess he’s holding his ground.
 >
-> └ Hmm…… I’m not worried about Lee Jungryong, since everyone knows how skilled he is, but is Lord Fuck safe? He’s still an A-rank Hunter, after all.
+> └ Hmm… I’m not worried about Lee Jungryong, since everyone knows how strong he is, but is Lord Fuck safe? He’s still an A-rank Hunter, after all.
 >
-> └ ??ㅋㅋㅋㅋ
+> └ ?? lol
 >
-> └ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+> └ Looooooooool
 >
-> └ There’s still an innocent idiot who treats Lord Fuck like an A-rank Hunter lolㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ As a current A-rank Hunter, all I can do is laugh. That Jin Taekyung guy is just a monster lol.
+> └ There’s still some innocent idiot who thinks Lord Fuck is only A-rank lol. As an active A-rank Hunter, all I can do is laugh. Jin Taekyung is just a monster lol.
 
 > Hey, hey, h-hey!! The Se-Security Council just posted an update on the w-western front!
 >
@@ -234,11 +234,11 @@ His sparkling eyes made me snort.
 
 “A-are you really sure that’s all right?”
 
-“I told you it was fine as long as you were okay with it. But is this really all right in front of your men? You said you’re getting promoted to major general now, didn’t you?”
+“I told you it was fine as long as you were okay with it. But can you really do that in front of your men? Aren’t you about to be promoted to major general?”
 
 Shao Shen shook his head at lightning speed.
 
-“No problem at all! H-hyung, hyung!”
+“No problem at all! H-h-hyung!”
 
 He was frighteningly calm in battle, so I had no idea why he stammered so much in everyday life.
 
@@ -246,7 +246,7 @@ I looked at the Hunters from the Public Security Armed Forces Department lined u
 
 Their fever-bright eyes shone with admiration and awe for the strong.
 
-Of course, Shao Shen stood out above all the rest.
+Of course, Shao Shen’s were the most intense of all.
 
 “Give the order, h-hyung.”
 
@@ -292,7 +292,7 @@ Thud-thud-thud-thud!
 
 Kyaaaauuuuu!
 
-The shouts of humans and the howls of monsters rang across heaven and earth. A tremendous vibration shook the foundations of the world.
+Human shouts and monstrous howls rang across heaven and earth. The tremendous vibration shook the ground beneath us.
 
 At the threshold of that chaos, I swung the White Flame with all my strength.
 

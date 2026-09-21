@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Teh end.",
+      "defect": "The closing emphasis 진짜 (“for real”) is omitted. The typo-like rendering of 끗 may preserve the informal joke, but the current line does not convey that this is really the end.",
+      "id": "F01",
+      "rationale": "진짜 끗 means “the end for real,” with 끗 functioning as an informal or playful misspelling of 끝.",
+      "replacement": "Teh end for real.",
+      "severity": "minor",
+      "source": "Source line 81 / [P34]"
+    },
+    {
+      "confidence": 0.95,
+      "current": "doomsday predictions and blind optimism ran rampant",
+      "defect": "“Blind” adds an unsupported judgment about the optimism. The source contrasts doomsday theories with optimism without characterizing the latter as irrational or blind.",
+      "id": "F02",
+      "rationale": "종말론과 낙관론 means “doomsday theories and optimism”; 판을 치다 supports “ran rampant,” but does not establish “blind.”",
+      "replacement": "doomsday theories and optimism ran rampant",
+      "severity": "minor",
+      "source": "Source line 145 / [P39]"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Fuck me. They sure gathered a lot of them.",
+      "defect": "“Fuck me” intensifies and changes the exclamation. 시부럴 거 is a rough “Damn” or “Damn it,” not the stronger and differently framed English expression “Fuck me.”",
+      "id": "F03",
+      "rationale": "The source uses a blunt curse of annoyance at the number gathered, without the added shock-oriented or sexualized phrasing of “Fuck me.”",
+      "replacement": "Damn. They sure gathered a lot of them.",
+      "severity": "minor",
+      "source": "Source line 241 / [P51]"
+    },
+    {
+      "confidence": 0.92,
+      "current": "His sparkling eyes made me snort.",
+      "defect": "“Snort” introduces a specific nasal, potentially derisive laugh that the source does not establish. 실소 is a small or quiet laugh.",
+      "id": "F04",
+      "rationale": "실소가 터져 나왔다 describes a small laugh escaping in response to Shao Shen’s sparkling eyes, not a snort.",
+      "replacement": "His sparkling eyes made me let out a small laugh.",
+      "severity": "minor",
+      "source": "Source line 261 / [P61]"
+    },
+    {
+      "confidence": 0.98,
+      "current": "There were roughly a thousand of them.",
+      "defect": "The quantity is weakened from slightly more than a thousand to an approximate figure that could be below a thousand.",
+      "id": "F05",
+      "rationale": "천여 명 indicates more than a thousand people, typically a little over that amount.",
+      "replacement": "There were more than a thousand of them.",
+      "severity": "minor",
+      "source": "Source line 275 / [P68]"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I swung the White Flame with all my strength.",
+      "defect": "The explicit physical detail that the White Flame was being held in the narrator’s hand is omitted.",
+      "id": "F06",
+      "rationale": "손에 쥔 백염 specifies the White Flame held in his hand before he swings it.",
+      "replacement": "I swung the White Flame in my hand with all my strength.",
+      "severity": "minor",
+      "source": "Source line 325 / [P94]"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but six minor source-fidelity defects remain involving an omitted emphasis, added attitude, profanity intensity, a changed laugh, quantity, and a dropped physical detail.",
+  "version": 1
+}

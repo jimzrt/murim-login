@@ -1,0 +1,1097 @@
+{
+  "baseline_blocks": 96,
+  "baseline_sha256": "9d0b1ed1ac0c097517ec4e1f94d8f8287937e04657fac0f38d1b5bd1b316f425",
+  "global_terminology_alerts": [],
+  "hunk_count": 59,
+  "hunks": [
+    {
+      "baseline": "The students who had at last been freed from the college entrance exam were busy either preparing to retake it or having fun, while office workers boarded public transportation with dark circles hanging heavily beneath their eyes.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "Students at last freed from the college entrance exam were busy either preparing to retake it or having fun, while office workers with dark circles under their eyes packed onto public transportation.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, in the midst of that peaceful, ordinary routine, a bombshell no one had seen coming dropped.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "Then, amid that peaceful, ordinary routine, a bombshell no one had seen coming dropped.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The video, just over thirty minutes long, began with Chairman Shao Yang staring into the camera with a grave expression.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "17",
+      "sol": "The video, just over thirty minutes long, began with Chairman Shao Yang staring gravely into the camera.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I stand before you as the ninth President of the People’s Republic of China and a member of the United Nations Security Council to speak about the massive Monster Wave that has occurred in Sichuan Province.”",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "19",
+      "sol": "“I stand before you as the ninth Chairman of the People’s Republic of China and a member of the United Nations Security Council to speak about the massive Monster Wave unfolding in Sichuan Province.”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a bombshell that drew the attention of the entire world and shook all of Asia.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "21",
+      "sol": "It was a bombshell that seized the world’s attention and shook all of Asia.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One day passed, then two, then three. Even after four days, the situation had not calmed down.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "29",
+      "sol": "One day passed, then two, then three. Even after four days, the situation showed no sign of calming down.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There had been countless incidents and disasters since the Great Cataclysm, but the Monster Wave that had occurred in Sichuan Province was unprecedented in scale.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "31",
+      "sol": "There had been countless incidents and disasters since the Great Cataclysm, but the Monster Wave in Sichuan Province was unprecedented in scale.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chairman Shao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "33",
+      "sol": "Chairman Shao Yang officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "중국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "China"
+        }
+      ]
+    },
+    {
+      "baseline": "Korea was no exception. Even today, the Hunter Issues section of the country’s largest online forum was boiling like a cauldron over charcoal.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "39",
+      "sol": "Korea was no exception. Once again, the Hunter Issues section of the country’s largest online forum was boiling like a cauldron over hot coals.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**There isn’t anyone here who hasn’t watched the Security Council’s major announcement video, right? If there is, go die somewhere. This is a genuine emergency. The supreme leader up north has probably already watched the whole thing on iTube and is lurking on this board, too.**",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "47",
+      "sol": "**There isn’t anyone here who hasn’t watched the Security Council’s major announcement, right? If there is, go die somewhere. This is a genuine emergency. The supreme leader up north has probably already watched the whole thing on iTube and is lurking on this board, too.**",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**Anyway, so many insect bastards kept asking someone to summarize something their own lives depended on that I finally got fed up and wrote this.**",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "49",
+      "sol": "**Anyway, so many insect bastards kept asking someone to summarize a situation their own lives depended on that I finally got fed up and wrote this.**",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**Of course, that was a week ago, so the current figure is probably incomparable. At this point, I doubt it’s even possible to gather accurate statistics.**",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "53",
+      "sol": "**Of course, that figure is from a week ago, so there’s probably no comparison with the number now. At this point, I doubt accurate statistics are even possible.**",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**A monster army numbering at least tens of thousands has gathered around something called an Arch Lich.**",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "57",
+      "sol": "**A monster army numbering at least in the tens of thousands has gathered around something called an Arch Lich.**",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**The People’s Liberation Army and Air Force got absolutely wrecked, while more than two thousand Hunters from the Public Security Armed Forces Department have gone missing. Communications were cut off by magical interference, and satellite surveillance was neutralized, so they can’t even confirm whether those Hunters are alive.**",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "59",
+      "sol": "**The People’s Liberation Army and Air Force got absolutely wrecked, while more than two thousand Hunters from the Public Security Armed Forces Department have gone missing. Magical interference cut off communications and neutralized satellite surveillance, so they can’t even confirm whether those Hunters are still alive.**",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**3. The Chinese government secretly contacted several countries and hired a number of S-rank Hunters to suppress the situation as quickly as possible. The United Nations peacekeeping forces were deployed to the front two days ago, and they’re fighting desperately.**",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "61",
+      "sol": "**3. The Chinese government secretly contacted several countries and hired a number of S-rank Hunters to suppress the situation as quickly as possible. United Nations peacekeeping forces were deployed to the front two days ago, and they’re fighting desperately.**",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**The Security Council is updating the battle situation, so anyone interested can check it out here.**",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "63",
+      "sol": "**The Security Council is posting updates on the fighting, so anyone interested can check them here.**",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**Everything below this is just my personal opinion, so there’s no problem if you skip it.**",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "67",
+      "sol": "**Everything below this is just my personal opinion, so feel free to skip it.**",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**They’re pulling every useful Hunter they can find and sending them to the front, which means the mana levels of other Gates that are being neglected are unstable, too. Hyperinflation is happening in every area.**",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "71",
+      "sol": "**They’re pulling every useful Hunter they can find and sending them to the front. Other Gates are being neglected as a result, and their mana levels are becoming unstable. Prices are also hyperinflating across the board.**",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**The truly frightening thing is that if the front collapses and the monster army advances beyond Sichuan…… I’ll leave the rest to your imagination.**",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "73",
+      "sol": "**The truly frightening thing is that if the front collapses and the monster army advances beyond Sichuan… I’ll leave the rest to your imagination.**",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**5. So go to the supermarket and buy emergency food before everyone is completely screwed. Of course, I’m not telling you to hoard supplies and make unfair profits.**",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "75",
+      "sol": "**5. So go to the supermarket and stock up on emergency food before we’re all completely screwed. Of course, I’m not telling you to hoard supplies and profiteer.**",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**6. It felt like a shame to end it here, so I’m adding some national pride.**",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "77",
+      "sol": "**6. It felt like a shame to end it here, so I’m throwing in some national pride.**",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**The end for real.**",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "81",
+      "sol": "**Teh end.**",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Within only a few hours of being uploaded, the post passed 100,000 views and caught fire beneath the comments of netizens who had been watching the situation closely.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "85",
+      "sol": "Within hours of being uploaded, the post passed 100,000 views, and the comments caught fire as netizens following the situation weighed in.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **Best comment:** The situation really is as serious as the post says, but the author is setting the mood way too hard lol. They say S-rank Hunters are fighting alongside 100,000 ordinary Hunters. What’s there to worry about? Is the military just sitting around?\n>\n> └ Yeah. They’re sitting around in maintenance depots right now.\n>\n> └ ……?\n>\n> └ Didn’t you watch the news? All the Chinese military’s Equipment broke down this time, exposing the largest military procurement corruption scandal ever. They say it’s worth at least tens of trillions of won. Apparently, more than one or two divisions are stuck in place.\n>\n> └ Huh. This sounds like something I’ve heard a lot before.\n>\n> └ Please change the canteens already, you motherfuckers. I got out last year, but why did the water in my canteen still taste like it came from Normandy? After one sip, I couldn’t even tell whether my name was Kim Cheol Soo or James.\n>\n> └ Corporal Kim. Tonight’s dinner is boneless pollock braised in sauce.\n>\n> └ I’m not eating, fuck.\n>\n> └ Anyway, the military being stuck because of broken Equipment is a problem, but they’ve got manpower to spare, so they’re probably fine. Hunters are the only ones who can actually inflict meaningful damage on monsters, after all. The real problem is something else.\n>\n> └ What?\n>\n> └ The monster population has broken through 100,000.\n>\n> └ ??\n>\n> └ ?????\n>\n> └ What do you mean, 100,000? Don’t talk bullshit.\n>\n> └ It’s not bullshit. It’s official information announced by the United Nations Security Council. Follow the link in the post and check it yourself. It was posted five minutes ago.\n>\n> └ Wow…… fuck.\n>\n> └ Judging by the reaction to the comment above, I guess it’s true. Holy shit.\n>\n> └ No. That’s just because it’s all in English and I don’t understand what it says. I’m running it through Gargle Translator right now.\n>\n> └ Is this guy insane?\n>\n> └ Hey, but if the number of monsters really has broken through 100,000, isn’t that a huge problem? Until now, the largest Monster Wave we’d ever seen hadn’t even reached a thousand monsters, had it?\n>\n> └ Naturally, this Wave wasn’t anywhere near this large in the beginning. The problem is that there’s an Arch Lich over there. Even an ordinary Lich appearing would be a major incident, but that one is an apex named Monster unknown even to academia. Practically speaking, most of the monsters fighting right now are undead resurrected by the Arch Lich.\n>\n> └ Arch Lich: “Kaioken, times one hundred.”\n>\n> └ Then can’t we just kill the Arch Lich? If most of the monsters are undead, killing the controller should end everything, right?\n>\n> └ ???????\n>\n> └ Who’s going to kill the Arch Lich, and how, you fucking idiot? The guy who uses an Aura Blade with his keyboard has nothing but a mouth.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "89",
+      "sol": "> **Best comment:** The situation really is as serious as the post says, but the author is laying it on way too thick lol. They say S-rank Hunters are fighting alongside 100,000 ordinary Hunters. What’s there to worry about? Is the military just sitting around?\n>\n> └ Yeah. They’re sitting around in maintenance depots right now.\n>\n> └ …?\n>\n> └ Didn’t you watch the news? All the Chinese military’s equipment broke down, exposing the largest military procurement corruption scandal ever. They say it’s worth at least tens of trillions of won. Apparently, more than a few divisions are stuck in place.\n>\n> └ Huh. I feel like I’ve heard this story before.\n>\n> └ Please replace the canteens already, you motherfuckers. I got discharged last year, but why did the water in mine still taste like it came from Normandy? One sip and I couldn’t tell whether my name was Kim Cheol Soo or James.\n>\n> └ Corporal Kim. Tonight’s dinner is boneless pollock braised in sauce.\n>\n> └ I’m not eating that shit.\n>\n> └ Anyway, the military being stuck because of broken equipment is a problem, but manpower is the one thing they have to spare, so they’ll probably be fine. Hunters are the only ones who can actually inflict meaningful damage on monsters, after all. The real problem is something else.\n>\n> └ What?\n>\n> └ The monster count has passed 100,000.\n>\n> └ ??\n>\n> └ ?????\n>\n> └ What do you mean, 100,000? Don’t talk bullshit.\n>\n> └ It’s not bullshit. It’s official information from the United Nations Security Council. Follow the link in the post and check it yourself. It went up five minutes ago.\n>\n> └ Wow… fuck.\n>\n> └ Judging by the reaction above, I guess it’s true. Holy shit.\n>\n> └ No. That’s just because it’s all in English and I don’t understand any of it. I’m running it through Gargle Translator right now.\n>\n> └ Is this guy insane?\n>\n> └ Hey, but if the monster count really has passed 100,000, aren’t we in serious trouble? Until now, even the largest Monster Waves hadn’t reached a thousand monsters, right?\n>\n> └ Obviously, this Wave wasn’t anywhere near this big at first. The problem is the Arch Lich. Even an ordinary Lich appearing would be a major incident, but this thing is an apex named Monster unknown even to academia. At this point, it’s more accurate to say that most of the monsters fighting right now are undead resurrected by the Arch Lich.\n>\n> └ Arch Lich: “Kaioken, times one hundred.”\n>\n> └ Then can’t we just kill the Arch Lich? If most of the monsters are undead, killing their controller should end everything, right?\n>\n> └ ???????\n>\n> └ Who’s going to kill the Arch Lich, and how, you fucking idiot? Some asshole who swings an Aura Blade with his keyboard is all talk.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some of the commenters watched the situation from a safe distance, as though they were watching a fire across a river, while others took the crisis seriously.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "93",
+      "sol": "Some commenters watched from a safe distance, as though the whole thing were a fire across the river, while others took the crisis seriously.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even as doomsday theories and optimism battled for control, new information continued to pour in.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "95",
+      "sol": "Even as doomsday predictions and blind optimism ran rampant, new information continued to pour in.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **Best comment:** Security Council official report: The front in the east-west sector was breached one hour ago. Fortunately, Faye Chen arrived with reinforcements and stopped the damage from spreading.\n>\n> └ Holy shit, it’s real.\n>\n> └ If it’s the east-west front, isn’t that where Wu Heixing is?\n>\n> └ Yeah. That Chinese junkie.\n>\n> └ But why did it get breached? He’s an S-rank Hunter.\n>\n> └ Because he’s a Chinese-made S-rank Hunter.\n>\n> └ Ah……\n>\n> └ If Faye Chen hadn’t been there, this could’ve become a real disaster. Maybe it’s because Faye Chen is a well-made Hunter forged by the Great Cataclysm.\n>\n> └ Faye Chen is Hong Kong-made. Her parents had Hong Kong citizenship.\n>\n> └ Do you work for the comment quality-control committee? That was fucking clear.\n>\n> └ While we’re at it, does anyone have news about the Korean Hunters?\n>\n> └ Jung Dragon has taken charge of the northern front and is gaining the upper hand. I heard Lord Fuck won two or three times on the western front, but there hasn’t been any news since then, so I guess he’s maintaining the current situation.\n>\n> └ Hmm…… I’m not worried about Lee Jungryong, since everyone knows how skilled he is, but is Lord Fuck safe? He’s still an A-rank Hunter, after all.\n>\n> └ ??ㅋㅋㅋㅋ\n>\n> └ ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ\n>\n> └ There’s still an innocent idiot who treats Lord Fuck like an A-rank Hunter lolㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ As a current A-rank Hunter, all I can do is laugh. That Jin Taekyung guy is just a monster lol.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "97",
+      "sol": "> **Best comment:** Official Security Council report: The front in the east-west sector was breached an hour ago. Fortunately, Faye Chen arrived with reinforcements and stopped the damage from spreading.\n>\n> └ Holy shit, it’s real.\n>\n> └ If it’s the east-west front, isn’t that where Wu Heixing is?\n>\n> └ Yeah. That Chinese junkie.\n>\n> └ Then how did it get breached? He’s an S-rank Hunter.\n>\n> └ Because he’s a made-in-China S-rank Hunter.\n>\n> └ Ah…\n>\n> └ If Faye Chen hadn’t been there, this could’ve become a real disaster. Maybe it’s because she’s a quality-built Hunter forged in the Great Cataclysm.\n>\n> └ Faye Chen is Hong Kong-made. Her parents had Hong Kong citizenship.\n>\n> └ Do you work for the comment quality-control committee? That was fucking clear.\n>\n> └ While we’re at it, does anyone have news about the Korean Hunters?\n>\n> └ Jung Dragon is holding the northern front and gaining the upper hand. I heard Lord Fuck won two or three times on the western front, but there hasn’t been any news since, so I guess he’s holding his ground.\n>\n> └ Hmm… I’m not worried about Lee Jungryong, since everyone knows how strong he is, but is Lord Fuck safe? He’s still an A-rank Hunter, after all.\n>\n> └ ?? lol\n>\n> └ Looooooooool\n>\n> └ There’s still some innocent idiot who thinks Lord Fuck is only A-rank lol. As an active A-rank Hunter, all I can do is laugh. Jin Taekyung is just a monster lol.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> Hey, hey, h-hey!! The Se-security Council just announced the w-western front status!\n>\n> └ Oh, news about Lord Fuck. It’s been a while.\n>\n> └ You sound incredibly frantic. The western front? What does it say?\n>\n> └ It says it was breached?\n>\n> └ Huh?\n>\n> └ Huh?\n>\n> └ What are you talking about? Don’t tell me Lord Fuck is dead……?\n>\n> └ Wait. What is this saying? Everyone, I’m going to watch it again and come back. It’s on the main page, so go check it yourselves.\n>\n> └ Ah. I’m suddenly freaking the hell out; I’m going in right now.\n>\n> └ Go go go go go.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "99",
+      "sol": "> Hey, hey, h-hey!! The Se-Security Council just posted an update on the w-western front!\n>\n> └ Oh, news about Lord Fuck. It’s been a while.\n>\n> └ You sound frantic as hell. What does it say about the western front?\n>\n> └ It says it was breached?\n>\n> └ Huh?\n>\n> └ Huh?\n>\n> └ What are you talking about? Don’t tell me Lord Fuck died…?\n>\n> └ Wait. What the hell does this mean? I’m going to watch it again. It’s on the main page, so check it yourselves.\n>\n> └ Shit. I’m suddenly freaking out. I’m going in right now.\n>\n> └ Go go go go go.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The netizens who had been enthusiastically writing comments hurriedly accessed the United Nations Security Council website.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "101",
+      "sol": "The netizens who had been gleefully hammering out comments rushed to the United Nations Security Council website.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An excessive number of visitors had temporarily flooded the site, causing a traffic overload, so they had to wait for quite some time. At last, when the announcement appeared on the main page, they could do nothing but doubt their own eyes and ears.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "103",
+      "sol": "The sudden flood of visitors overloaded the site, leaving them waiting for ages. When the announcement finally appeared on the main page, they could only doubt their own eyes and ears.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……What is that?”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "105",
+      "sol": "“…What is that?”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a map showing the standoff with the monster army. The front had formed an oval, but the western front had been gouged inward like a spike.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "107",
+      "sol": "A map showed the opposing lines in the standoff against the monster army. The front formed an oval, with the western side driven deep into it like the tip of an awl.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "> I just checked. It really was breached.\n>\n> └ Is Jin Taekyung dead? How bad are the casualties?\n>\n> └ No, the monsters’ side was breached.\n>\n> └ ??\n>\n> └ ???\n>\n> └ The breakthrough was so fast that the updates couldn’t keep up.\n>\n> └ ……Does that even make sense?\n>\n> └ Shut your mouth and pull down the shutters. Today is the Lady of the House’s memorial day….[^1]",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "109",
+      "sol": "> I just checked. It really was breached.\n>\n> └ Is Jin Taekyung dead? How bad are the casualties?\n>\n> └ No, the monsters’ side was breached.\n>\n> └ ??\n>\n> └ ???\n>\n> └ The breakthrough was so fast that the updates couldn’t keep up.\n>\n> └ …Does that even make sense?\n>\n> └ Shut your mouth and pull down the shutters. Today is the Lady of the House’s memorial day….[^1]",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^1]: Korean netizens traditionally call for a tavern proprietress and drinks when celebrating a surge of national pride; the speaker jokes that the tavern is closed because she is dead.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "111",
+      "sol": "[^1]: Korean netizens traditionally call for a tavern proprietress and drinks when celebrating a surge of national pride. The speaker jokes that the tavern is closed for her memorial day.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The battlefield where a fierce battle would soon erupt was crowded. An endless wasteland stretched before us, filled with more monsters than I could count.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "115",
+      "sol": "The battlefield where a fierce clash would soon erupt was packed. An endless wasteland stretched before us, filled with more monsters than I could count.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wind blowing from somewhere carried their thick killing intent and stench with it.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "117",
+      "sol": "The wind carried their thick killing intent and stench toward us.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Damn. They sure gathered in force.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "119",
+      "sol": "“Fuck me. They sure gathered a lot of them.”",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "“No matter how many we kill, they never seem to end.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "123",
+      "sol": "“No matter how many we kill, there’s no end to them.”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the fourth day since we had been deployed to the western front and the battle had begun in earnest. There was no trace left of Team Leader Choi’s usually immaculate appearance.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "125",
+      "sol": "It was the fourth day since we had been deployed to the western front and the fighting had begun in earnest. There was no trace left of Team Leader Choi’s usually immaculate appearance.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Covered in blood and dust, he looked at me with calm, deeply sunken eyes.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "127",
+      "sol": "Covered in blood and dust, he regarded me with calm, somber eyes.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, we’ll have to hear what our little commander has to say. Right?”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "131",
+      "sol": "“Well, we’ll have to hear what our little commander thinks. Right?”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The twenty-one-year-old ‘little commander’ who had remained at my side the entire time answered.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "135",
+      "sol": "The twenty-one-year-old “little commander” who had remained at my side the entire time answered.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A snort escaped me at his sparkling eyes.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "141",
+      "sol": "His sparkling eyes made me snort.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re still on about calling me Teacher. You were the one who told me to drop the formalities first. I told you to call me hyung instead.”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "143",
+      "sol": "“You’re still calling me Teacher? You were the one who told me to drop the formalities first. I told you to call me hyung instead.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Are you really sure that’s all right?”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "145",
+      "sol": "“A-are you really sure that’s all right?”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I told you it was fine as long as you were okay with it. But is this really all right in front of your men? You said you’re getting promoted to major general now, didn’t you?”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "149",
+      "sol": "“I told you it was fine as long as you were okay with it. But can you really do that in front of your men? Aren’t you about to be promoted to major general?”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No problem at all! H-hyung, hyung!”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "153",
+      "sol": "“No problem at all! H-h-hyung!”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their fever-bright eyes held admiration and awe for the strong.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "159",
+      "sol": "Their fever-bright eyes shone with admiration and awe for the strong.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, Shao Shen stood out above all the rest.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "161",
+      "sol": "Of course, Shao Shen’s were the most intense of all.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An eagle with enormous wings spread wide circled overhead.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "169",
+      "sol": "An eagle circled overhead on enormous outstretched wings.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had a good feeling about today, too.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "171",
+      "sol": "I had a good feeling today, too.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "175",
+      "sol": "“…!”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The force of ten thousand geun packed into my toes made the ground split like a spiderweb and cave inward.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "185",
+      "sol": "The ten thousand geun of force concentrated in my toes split the ground like a spiderweb and made it cave inward.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, in the next moment—",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "187",
+      "sol": "Then, in the next instant—",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The cold-laden wind heated up and transformed into a blast of hot air.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "195",
+      "sol": "The cold wind heated into a scorching blast.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ground, wind, and scenery flashed past me in an instant. Then a tremendous roar erupted from behind.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "197",
+      "sol": "The earth, the wind, and the scenery streaked past. Then a tremendous roar erupted behind me.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The shouts of humans and the howls of monsters rang across heaven and earth. A tremendous vibration shook the foundations of the world.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "211",
+      "sol": "Human shouts and monstrous howls rang across heaven and earth. The tremendous vibration shook the ground beneath us.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "At the mouth of that chaos, I swung the White Flame in my hand with all my strength.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "215",
+      "sol": "At the threshold of that chaos, I swung the White Flame with all my strength.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whoosh!",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "217",
+      "sol": "Fwoooosh!",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 96,
+  "sol_sha256": "a399e35dbcc48ab987637aeec10648614da308cd970cbe04f8b6c35d133ae119",
+  "version": 1
+}

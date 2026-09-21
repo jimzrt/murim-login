@@ -2,23 +2,23 @@
 
 It was a day when the cold snap had finally eased.
 
-Students at last freed from the college entrance exam were busy either preparing to retake it or having fun, while office workers with dark circles under their eyes packed onto public transportation.
+The students who had at last been freed from the college entrance exam were busy either preparing to retake it or having fun, while office workers boarded public transportation with dark circles hanging heavily beneath their eyes.
 
-Then, amid that peaceful, ordinary routine, a bombshell no one had seen coming dropped.
+Then, in the midst of that peaceful, ordinary routine, a bombshell no one had seen coming dropped.
 
 > **Urgent Breaking News—Major Announcement from the United Nations Security Council**
 
-The video, just over thirty minutes long, began with Chairman Shao Yang staring gravely into the camera.
+The video, just over thirty minutes long, began with Chairman Shao Yang staring into the camera with a grave expression.
 
-“I stand before you as the ninth Chairman of the People’s Republic of China and a member of the United Nations Security Council to speak about the massive Monster Wave unfolding in Sichuan Province.”
+“I stand before you as the ninth President of the People’s Republic of China and a member of the United Nations Security Council to speak about the massive Monster Wave that has occurred in Sichuan Province.”
 
-It was a bombshell that seized the world’s attention and shook all of Asia.
+It was a bombshell that drew the attention of the entire world and shook all of Asia.
 
 * * *
 
-One day passed, then two, then three. Even after four days, the situation showed no sign of calming down.
+One day passed, then two, then three. Even after four days, the situation had not calmed down.
 
-There had been countless incidents and disasters since the Great Cataclysm, but the Monster Wave in Sichuan Province was unprecedented in scale.
+There had been countless incidents and disasters since the Great Cataclysm, but the Monster Wave that had occurred in Sichuan Province was unprecedented in scale.
 
 Chairman Shao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
 
@@ -26,47 +26,47 @@ The entire world was watching.
 
 The Asian countries bordering China were especially on edge.
 
-Korea was no exception. Once again, the Hunter Issues section of the country’s largest online forum was boiling like a cauldron over hot coals.
+Korea was no exception. Even today, the Hunter Issues section of the country’s largest online forum was boiling like a cauldron over charcoal.
 
 **Here’s a summary of the situation so far.**
 
 **There isn’t anyone here who hasn’t watched the Security Council’s major announcement video, right? If there is, go die somewhere. This is a genuine emergency. The supreme leader up north has probably already watched the whole thing on iTube and is lurking on this board, too.**
 
-**Anyway, so many insect bastards kept asking someone to summarize a situation their own lives depended on that I finally got fed up and wrote this.**
+**Anyway, so many insect bastards kept asking someone to summarize something their own lives depended on that I finally got fed up and wrote this.**
 
 **1. An unexplained massive Wave occurred in Sichuan Province. Current estimated casualties: at least 300,000.**
 
-**Of course, that figure is from a week ago, so there’s probably no comparison with the number now. At this point, I doubt accurate statistics are even possible.**
+**Of course, that was a week ago, so the current figure is probably incomparable. At this point, I doubt it’s even possible to gather accurate statistics.**
 
 **2. The Chinese government stepped in, but the scale was far crazier than anyone expected.**
 
-**A monster army numbering at least in the tens of thousands has gathered around something called an Arch Lich.**
+**A monster army numbering at least tens of thousands has gathered around something called an Arch Lich.**
 
-**The People’s Liberation Army and Air Force got absolutely wrecked, while more than two thousand Hunters from the Public Security Armed Forces Department have gone missing. Magical interference cut off communications and neutralized satellite surveillance, so they can’t even confirm whether those Hunters are still alive.**
+**The People’s Liberation Army and Air Force got absolutely wrecked, while more than two thousand Hunters from the Public Security Armed Forces Department have gone missing. Communications were cut off by magical interference, and satellite surveillance was neutralized, so they can’t even confirm whether those Hunters are alive.**
 
-**3. The Chinese government secretly contacted several countries and hired a number of S-rank Hunters to suppress the situation as quickly as possible. United Nations peacekeeping forces were deployed to the front two days ago, and they’re fighting desperately.**
+**3. The Chinese government secretly contacted several countries and hired a number of S-rank Hunters to suppress the situation as quickly as possible. The United Nations peacekeeping forces were deployed to the front two days ago, and they’re fighting desperately.**
 
-**The Security Council is posting updates on the fighting, so anyone interested can check them here.**
+**The Security Council is updating the battle situation, so anyone interested can check it out here.**
 
 *(Link attached.)*
 
-**Everything below this is just my personal opinion, so feel free to skip it.**
+**Everything below this is just my personal opinion, so there’s no problem if you skip it.**
 
 **4. Anyone with a properly functioning brain already knows this, but the current situation isn’t merely serious. Mainland China is practically hell on earth.**
 
-**They’re pulling every useful Hunter they can find and sending them to the front. Other Gates are being neglected as a result, and their mana levels are becoming unstable. Prices are also hyperinflating across the board.**
+**They’re pulling every useful Hunter they can find and sending them to the front, which means the mana levels of other Gates that are being neglected are unstable, too. Hyperinflation is happening in every area.**
 
-**The truly frightening thing is that if the front collapses and the monster army advances beyond Sichuan… I’ll leave the rest to your imagination.**
+**The truly frightening thing is that if the front collapses and the monster army advances beyond Sichuan…… I’ll leave the rest to your imagination.**
 
-**5. So go to the supermarket and stock up on emergency food before we’re all completely screwed. Of course, I’m not telling you to hoard supplies and profiteer.**
+**5. So go to the supermarket and buy emergency food before everyone is completely screwed. Of course, I’m not telling you to hoard supplies and make unfair profits.**
 
-**6. It felt like a shame to end it here, so I’m throwing in some national pride.**
+**6. It felt like a shame to end it here, so I’m adding some national pride.**
 
 **Our Lord Fuck and the Ares Guild’s Jung Dragon are active on the front. Keep hyping them up as hard as you have been.**
 
-**Teh end.**
+**The end for real.**
 
-Within hours of being uploaded, the post passed 100,000 views, and the comments caught fire as netizens following the situation weighed in.
+Within only a few hours of being uploaded, the post passed 100,000 views and caught fire beneath the comments of netizens who had been watching the situation closely.
 
 > **Best comment:** The situation really is as serious as the post says, but the author is setting the mood way too hard lol. They say S-rank Hunters are fighting alongside 100,000 ordinary Hunters. What’s there to worry about? Is the military just sitting around?
 >
@@ -120,9 +120,9 @@ Within hours of being uploaded, the post passed 100,000 views, and the comments 
 
 A fierce debate raged on.
 
-Some commenters watched from a safe distance, as though the whole thing were a fire across the river, while others took the crisis seriously.
+Some of the commenters watched the situation from a safe distance, as though they were watching a fire across a river, while others took the crisis seriously.
 
-Even as doomsday predictions and blind optimism ran rampant, new information continued to pour in.
+Even as doomsday theories and optimism battled for control, new information continued to pour in.
 
 > **Best comment:** Security Council official report: The front in the east-west sector was breached one hour ago. Fortunately, Faye Chen arrived with reinforcements and stopped the damage from spreading.
 >
@@ -156,11 +156,11 @@ Even as doomsday predictions and blind optimism ran rampant, new information con
 >
 > └ There’s still an innocent idiot who treats Lord Fuck like an A-rank Hunter lolㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ As a current A-rank Hunter, all I can do is laugh. That Jin Taekyung guy is just a monster lol.
 
-> Hey, hey, h-hey!! The Se-Security Council just posted an update on the w-western front!
+> Hey, hey, h-hey!! The Se-security Council just announced the w-western front status!
 >
 > └ Oh, news about Lord Fuck. It’s been a while.
 >
-> └ You sound frantic as hell. What does it say about the western front?
+> └ You sound incredibly frantic. The western front? What does it say?
 >
 > └ It says it was breached?
 >
@@ -168,21 +168,21 @@ Even as doomsday predictions and blind optimism ran rampant, new information con
 >
 > └ Huh?
 >
-> └ What are you talking about? Don’t tell me Lord Fuck died…?
+> └ What are you talking about? Don’t tell me Lord Fuck is dead……?
 >
-> └ Wait. What the hell does this mean? I’m going to watch it again. It’s on the main page, so check it yourselves.
+> └ Wait. What is this saying? Everyone, I’m going to watch it again and come back. It’s on the main page, so go check it yourselves.
 >
-> └ Shit. I’m suddenly freaking out. I’m going in right now.
+> └ Ah. I’m suddenly freaking the hell out; I’m going in right now.
 >
 > └ Go go go go go.
 
-The netizens who had been gleefully hammering out comments rushed to the United Nations Security Council website.
+The netizens who had been enthusiastically writing comments hurriedly accessed the United Nations Security Council website.
 
-The sudden flood of visitors overloaded the site, leaving them waiting for ages. When the announcement finally appeared on the main page, they could only doubt their own eyes and ears.
+An excessive number of visitors had temporarily flooded the site, causing a traffic overload, so they had to wait for quite some time. At last, when the announcement appeared on the main page, they could do nothing but doubt their own eyes and ears.
 
-“…What is that?”
+“……What is that?”
 
-A map showed the opposing lines in the standoff against the monster army. The front formed an oval, with the western side driven deep into it like the tip of an awl.
+It was a map showing the standoff with the monster army. The front had formed an oval, but the western front had been gouged inward like a spike.
 
 > I just checked. It really was breached.
 >
@@ -196,43 +196,43 @@ A map showed the opposing lines in the standoff against the monster army. The fr
 >
 > └ The breakthrough was so fast that the updates couldn’t keep up.
 >
-> └ …Does that even make sense?
+> └ ……Does that even make sense?
 >
 > └ Shut your mouth and pull down the shutters. Today is the Lady of the House’s memorial day….[^1]
 
-[^1]: Korean netizens traditionally call for a tavern proprietress and drinks when celebrating a surge of national pride. The speaker jokes that the tavern is closed for her memorial day.
+[^1]: Korean netizens traditionally call for a tavern proprietress and drinks when celebrating a surge of national pride; the speaker jokes that the tavern is closed because she is dead.
 
 * * *
 
-The battlefield where a fierce clash would soon erupt was packed. An endless wasteland stretched before us, filled with more monsters than I could count.
+The battlefield where a fierce battle would soon erupt was crowded. An endless wasteland stretched before us, filled with more monsters than I could count.
 
-The wind carried their thick killing intent and stench toward us.
+The wind blowing from somewhere carried their thick killing intent and stench with it.
 
-“Fuck me. They sure gathered a lot of them.”
+“Damn. They sure gathered in force.”
 
 Team Leader Choi, standing beside me, answered my mutter.
 
-“No matter how many we kill, there’s no end to them.”
+“No matter how many we kill, they never seem to end.”
 
-It was the fourth day since we had been deployed to the western front and the fighting had begun in earnest. There was no trace left of Team Leader Choi’s usually immaculate appearance.
+It was the fourth day since we had been deployed to the western front and the battle had begun in earnest. There was no trace left of Team Leader Choi’s usually immaculate appearance.
 
-Covered in blood and dust, he regarded me with calm, somber eyes.
+Covered in blood and dust, he looked at me with calm, deeply sunken eyes.
 
 “When do we begin?”
 
-“Well, we’ll have to hear what our little commander thinks. Right?”
+“Well, we’ll have to hear what our little commander has to say. Right?”
 
 The last question wasn’t directed at Team Leader Choi.
 
-The twenty-one-year-old “little commander” who had remained at my side the entire time answered.
+The twenty-one-year-old ‘little commander’ who had remained at my side the entire time answered.
 
 “I’ll follow Teacher Jin’s orders!”
 
-His sparkling eyes made me snort.
+A snort escaped me at his sparkling eyes.
 
-“You’re still calling me Teacher? You were the one who told me to drop the formalities first. I told you to call me hyung instead.”
+“You’re still on about calling me Teacher. You were the one who told me to drop the formalities first. I told you to call me hyung instead.”
 
-“A-are you really sure that’s all right?”
+“Are you really sure that’s all right?”
 
 “I told you it was fine as long as you were okay with it. But is this really all right in front of your men? You said you’re getting promoted to major general now, didn’t you?”
 
@@ -244,7 +244,7 @@ He was frighteningly calm in battle, so I had no idea why he stammered so much i
 
 I looked at the Hunters from the Public Security Armed Forces Department lined up behind him. There were roughly a thousand of them.
 
-Their fever-bright eyes shone with admiration and awe for the strong.
+Their fever-bright eyes held admiration and awe for the strong.
 
 Of course, Shao Shen stood out above all the rest.
 
@@ -254,13 +254,13 @@ Of course, Shao Shen stood out above all the rest.
 
 I suddenly looked up at the sky.
 
-An eagle circled overhead on enormous outstretched wings.
+An eagle with enormous wings spread wide circled overhead.
 
-I had a good feeling today, too.
+I had a good feeling about today, too.
 
 “Follow me. Just as you’ve done until now.”
 
-“…!”
+“……!”
 
 “Right now.”
 
@@ -268,9 +268,9 @@ I stepped forward as I answered.
 
 Crack.
 
-The ten thousand geun of force concentrated in my toes split the ground like a spiderweb and made it cave inward.
+The force of ten thousand geun packed into my toes made the ground split like a spiderweb and cave inward.
 
-Then, in the next instant—
+Then, in the next moment—
 
 Boom!
 
@@ -278,9 +278,9 @@ With a deafening roar, I shot forward like a streak of light.
 
 *Flamefire Path.*
 
-The cold wind heated into a scorching blast.
+The cold-laden wind heated up and transformed into a blast of hot air.
 
-The earth, the wind, and the scenery streaked past. Then a tremendous roar erupted behind me.
+The ground, wind, and scenery flashed past me in an instant. Then a tremendous roar erupted from behind.
 
 “Charge! Charge!”
 
@@ -294,8 +294,8 @@ Kyaaaauuuuu!
 
 The shouts of humans and the howls of monsters rang across heaven and earth. A tremendous vibration shook the foundations of the world.
 
-At the threshold of that chaos, I swung the White Flame with all my strength.
+At the mouth of that chaos, I swung the White Flame in my hand with all my strength.
 
-Fwoooosh!
+Whoosh!
 
 The Extreme Yang Force surging from the spearhead cut through everything in its path.
