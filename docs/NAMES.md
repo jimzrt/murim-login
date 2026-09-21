@@ -1917,3 +1917,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 바이든 | **Biden** | Surname of former U.S. President Joseph Biden. |
 | 국립 현충원 | **National Cemetery** | Memorial site visited during the national funeral. |
 | 119사태 | **January 19 Incident** | Name of the crisis involving the two artificially induced monster waves. |
+| 박대원 | **Park Daewon** | Senior Ares Guild executive who became its acting head after Go Jun's death. |

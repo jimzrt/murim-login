@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I thought of President Baek Hanseong, who had been beside me throughout the national funeral, and asked:\n\n“If there’s anyone in the world best at hiding what they really think, it would be politicians.”\n\n“Are you sure?”",
+      "defect": "The draft turns Jin’s internal observation about politicians into dialogue, changing what he actually says to Team Leader Choi.",
+      "id": "F01",
+      "rationale": "Only “정말 그럴까요?” is spoken dialogue in the source; the preceding sentence is narration explaining Jin’s suspicion.",
+      "replacement": "I thought of President Baek Hanseong, who had been beside me throughout the national funeral, and asked. If there was one profession better than any other at hiding what they truly thought, it was politicians.\n\n“Are you sure?”",
+      "severity": "critical",
+      "source": "나는 국가장이 진행되는 내내 곁에 있던 백한성 대통령을 떠올리며 물었다.\n\n세상 누구보다 속마음을 숨기는 것에 능숙한 직업군이 있다면, 그건 바로 정치인일 것이다.\n\n“정말 그럴까요?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I don’t think Lee Jungryong or Song Cheonwoo had anything to do with it.”",
+      "defect": "“Had anything to do with it” broadly denies their involvement, even though they concealed Cheon Taemin’s condition. The source specifically denies that they caused or inflicted his condition.",
+      "id": "F02",
+      "rationale": "손을 쓴 here refers to foul play against Cheon Taemin, not to every form of involvement in the matter.",
+      "replacement": "“I don’t think Lee Jungryong or Song Cheonwoo were the ones who did that to him.”",
+      "severity": "major",
+      "source": "“이정룡이나 송천우가 손을 쓴 것은 아닌 것 같습니다.”"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“…Lost consciousness? Cheon Taemin? No, he did?”",
+      "defect": "The awkward final question loses Jin’s immediate correction from casually naming Cheon Taemin to referring to him with marked respect.",
+      "id": "F03",
+      "rationale": "그분께서 is an honorific self-correction prompted by Cheon Taemin’s immense stature; emphasizing “the” conveys that respectful elevation naturally in English.",
+      "replacement": "“…He lost consciousness? Cheon Taemin? I mean… *the* Cheon Taemin?”",
+      "severity": "major",
+      "source": "“……의식을 잃어요? 천태민이. 아니, 그분께서?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I was afraid that might be the case… So it was all true.”",
+      "defect": "The draft changes an epistemic suspicion into fear, adding an emotion not stated in the source.",
+      "id": "F04",
+      "rationale": "설마 했었는데 indicates that Choi had considered or suspected the possibility, not necessarily that he feared it.",
+      "replacement": "“I had my suspicions… So it was all true.”",
+      "severity": "minor",
+      "source": "“설마 했었는데…… 전부 사실이었군.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Team Leader Choi reacted to my sudden confession.",
+      "defect": "“Confession” implies an admission of wrongdoing or a deeply personal disclosure, whereas the source only describes an abruptly raised statement.",
+      "id": "F05",
+      "rationale": "불쑥 꺼낸 말 means something brought up suddenly; it does not characterize the statement as a confession.",
+      "replacement": "Team Leader Choi reacted to my abrupt remark.",
+      "severity": "minor",
+      "source": "불쑥 꺼낸 말에 최 팀장이 반응했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was harder to believe than Jin-ho hyung passing the civil service exam or Hyuk Mujin becoming Alliance Leader.",
+      "defect": "The established organization name is omitted from Hyuk Mujin’s hypothetical title.",
+      "id": "F06",
+      "rationale": "무림맹주 is specifically the leader of the Murim Alliance, not an unspecified Alliance Leader.",
+      "replacement": "That was harder to believe than Jin-ho hyung passing the civil service exam or Hyuk Mujin becoming the Murim Alliance Leader.",
+      "severity": "minor",
+      "source": "이건 진호 형이 고시 합격을 하고, 혁무진이 무림맹주가 되는 것보다 더 믿기 힘든 소식이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Team Leader Choi stared at the name carved highest of all.\n\n> **The late Kim Hwajong**\n\nThen he turned toward me.",
+      "defect": "The draft invents a standalone blockquoted inscription and bold formatting, although the source presents the name as part of the narration.",
+      "id": "F07",
+      "rationale": "故 marks Kim Hwajong as deceased, but the source does not isolate or typographically frame the name as quoted text.",
+      "replacement": "Team Leader Choi stared at the name of the late Kim Hwajong, carved highest of all, then turned toward me.",
+      "severity": "minor",
+      "source": "故김화종. 가장 높이 새겨진 그 이름을 응시하던 최 팀장이 나를 향해 고개를 돌렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“No. This time, playing the stick will be enough.”",
+      "defect": "“Playing the stick” is not idiomatic English for serving as the threatening half of a carrot-and-stick approach.",
+      "id": "F08",
+      "rationale": "The source assigns Jin the 채찍 role, and “be the stick” naturally preserves the carrot-and-stick metaphor developed in the next lines.",
+      "replacement": "“No. This time, all you have to do is be the stick.”",
+      "severity": "minor",
+      "source": "“아닙니다. 이번에는 채찍 역할이면 충분해요.”"
+    }
+  ],
+  "summary": "One critical speech-attribution error, two major losses of causal or honorific nuance, and several localized terminology and wording issues.",
+  "version": 1
+}
