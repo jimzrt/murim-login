@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "He is a monster, but he saved my life from a Lich during the Small Cataclysm.",
+      "defect": "The draft drops “Arch” from “Arch Lich,” removing the monster’s stated rank.",
+      "id": "F01",
+      "rationale": "The source explicitly says 아크 리치, not merely 리치.",
+      "replacement": "He is a monster, but he saved my life from an Arch Lich during the Small Cataclysm.",
+      "severity": "major",
+      "source": "몬스터긴 한데, 소격변 때 아크 리치에게서 제 목숨을 구해 줬습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "My chest swelled at Chuck Hagel’s declaration that went beyond racial discrimination and embraced species discrimination as well.",
+      "defect": "“Embraced species discrimination” says Chuck supports discriminatory treatment, reversing the point of his declaration that even bone color does not matter.",
+      "id": "F02",
+      "rationale": "Chuck’s preceding line rejects distinctions based on either skin or bone color; the narration celebrates that unusually broad acceptance.",
+      "replacement": "My chest swelled at Chuck Hagel’s declaration of equality that transcended race and extended even across species.",
+      "severity": "critical",
+      "source": "인종 차별을 넘어 종족 차별도 인정하는 척 헤이글의 한마디에 가슴이 웅장해졌다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Of course that’s what you wanted, Chuck, but… are you really allowed to do that?",
+      "defect": "The subject is reversed: the source says the protagonist wanted Chuck to keep quiet, not that Chuck himself wanted to do so.",
+      "id": "F03",
+      "rationale": "척이 그러길 바란 identifies Chuck as the person whose action the narrator hoped for.",
+      "replacement": "Of course, I was hoping you’d do that, Chuck, but… are you really allowed to?",
+      "severity": "critical",
+      "source": "물론 척이 그러길 바란 건 사실인데…… 그래도 되는 겁니까?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He was right.\n\nEven if the terrorist attack had succeeded, there was no reason for Al-Qaeda to throw away valuable Hunters and Magic Gems just to put on a suicidal demonstration of their own stupidity.",
+      "defect": "“Even if” reverses the conditional logic. The source says success might have made the sacrifice explicable, whereas the actual failed attacks gave Al-Qaeda no reason to waste those resources.",
+      "id": "F04",
+      "rationale": "성공했다면 모를까 means that success would be the possible exception to the conclusion that the attacks made no sense for Al-Qaeda.",
+      "replacement": "He was right.\n\nIt might have been a different story if the terrorist attacks had succeeded, but Al-Qaeda had no reason to waste valuable Hunters and Magic Gems on a suicide show that only proved how stupid they were.",
+      "severity": "critical",
+      "source": "맞는 말이다. 설령 테러가 성공했다면 모를까, 알 카에다가 굳이 아까운 헌터와 마정석을 버려 가며 병신 인증 자살 쇼를 보여 줄 이유는 없었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The question caught me by surprise. I had been lost in thought for a moment, but I answered calmly.\n\n“I’m thinking of going back.”",
+      "defect": "The draft omits that he made his decision several days earlier and weakens the resolved statement into tentative consideration.",
+      "id": "F05",
+      "rationale": "The source explicitly establishes a prior firm decision, and 돌아갈 생각입니다 states his settled intention in that context.",
+      "replacement": "The sudden question pulled me from my thoughts, but I answered calmly. I had already made up my mind several days ago.\n\n“I’m going back.”",
+      "severity": "major",
+      "source": "갑작스러운 물음에, 잠시 생각에 잠겨 있던 나는 담담하게 대답했다. 이미 며칠 전에 마음의 결정을 내린 후였다.\n\n“돌아갈 생각입니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Naturally, I had learned neither.\n\nNot because I didn’t need them. I had simply been too busy doing every tearful, humiliating thing imaginable to survive.",
+      "defect": "The draft sanitizes the deliberately crude, comic register of 눈물의 똥꼬쇼 into a neutral explanation.",
+      "id": "F06",
+      "rationale": "똥꼬쇼 is vulgar slang for desperate, degrading theatrics; preserving that crudeness is necessary for the narrator’s self-mocking voice.",
+      "replacement": "Of course, I hadn’t learned either one.\n\nNot because I didn’t need them. I’d simply been too busy putting on one tearful shitshow after another just to survive.",
+      "severity": "major",
+      "source": "물론 나는 둘 다 안 배웠다. 필요 없어서가 아니라, 어떻게든 살아남겠다고 눈물의 똥꼬쇼를 하다 보니 그렇게 됐다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The legendary war heroes born from the Great Cataclysm had been granted tremendous love and affection—and an invisible pardon.",
+      "defect": "“Invisible pardon” is unnatural English and implies forgiveness for a specific prior offense rather than the tacit latitude or immunity described here.",
+      "id": "F07",
+      "rationale": "보이지 않는 면죄부 figuratively denotes unstated social permission to get away with otherwise unacceptable conduct.",
+      "replacement": "The legendary war heroes born from the Great Cataclysm had been granted tremendous love and affection—along with an unspoken free pass.",
+      "severity": "minor",
+      "source": "대격변이 낳은 희대의 전쟁 영웅들에게는 엄청난 사랑과 애정, 그리고 보이지 않는 면죄부가 주어졌다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter a subject, a causal condition, and Chuck Hagel’s inclusive stance; the draft also omits the protagonist’s prior decision, drops the Arch Lich rank, and softens a deliberately vulgar joke.",
+  "version": 1
+}
