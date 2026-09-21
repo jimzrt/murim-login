@@ -1005,3 +1005,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 경호처장 | 백한성 | Presidential_Security_Service_chief_to_President | Mr. President | formal and deferential | Addresses Baek Hanseong as 각하 while responding to his request to leave the Blue House. |
 | 골골 | 진태경 | subordinate_undead_to_captor_and_master | human | mocking, reluctant, and familiar | Calls Jin 인간 and 간악한 인간 while complaining about being deceived into searching Area A. |
 | 최 팀장 | 천태민 | grandson_to_maternal_grandfather | Grandfather | formal, intimate, and reverent | Team Leader Choi addresses the unconscious Cheon Taemin after finding him in the hidden capsule. |
+| 제니 | 제이콥 | broadcast colleagues | Jacob | professional and friendly | Jenny asks Jacob about the Texas incident and his safety. |
+| 제이콥 | 제니 | broadcast colleagues | Jenny | professional and familiar | Jacob answers Jenny during the live report. |
+| 진태경 | 최 팀장 | younger Hunter to trusted Team Leader and manager | Team Leader Choi | honorific but teasing and placating | Taekyung addresses Choi while trying to stop his furious attacks. |
+| 최 팀장 | 진태경 | Team Leader to younger Hunter and subordinate | Mr. Jin Taekyung | formally addressed but openly insulting | Choi uses 진태경 씨 while angrily threatening Taekyung over the attempted kiss. |
+| 매직 존슨 | 최 팀장 | Grand Mage ally to Team Leader Choi | Choi | familiar, playful, and demanding | Magic Johnson repeatedly addresses Choi while insisting on Ppoppo. |
+| 매직 존슨 | 진태경 | Grand Mage ally to younger Hunter | Jin | familiar and informal | Magic Johnson addresses Taekyung as 진 while discussing the covert transfer. |
+| 스켈레톤 킹 | 최 팀장 | undead ally to human ally | Choi | casual and teasing | The Skeleton King asks Choi whether they are going to a club after the work is finished. |

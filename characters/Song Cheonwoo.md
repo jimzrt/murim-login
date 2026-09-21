@@ -1,6 +1,6 @@
 # Song Cheonwoo (송천우)
 
-- **Safe through:** Chapter 603
+- **Safe through:** Chapter 605
 - **Aliases:** Director Song
 - **Role:** Ares Guild Director and former A-rank Hunter who reached third place among Korean rankers, briefly headed the Hunter training center, and led Ares Guild's European regional branch for twenty years; after being forced to attack Choi Minwoo to protect his hostage family, he fell into an abyss and was killed by an unidentified monster.
 - **Personality:** Highly ambitious, honor-obsessed, politically calculating, and determined to use his final opportunity to reclaim influence before retirement.

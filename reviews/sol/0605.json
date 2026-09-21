@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "As the crystal glass skimmed dangerously past the back of my neck, I ducked. The glass smashed into the holographic TV behind me.",
+      "defect": "The draft makes Taekyung duck as the glass is already passing him and omits the sound that prompts the movement. In the source, he ducks at the sound of something cutting through the air, causing the glass to narrowly graze his neck before hitting the TV.",
+      "id": "F01",
+      "rationale": "The source explicitly links the whistling sound, Taekyung’s immediate duck, the near miss, and the glass striking the television in that causal order.",
+      "replacement": "I ducked at the sound of something slicing through the air, and a crystal glass narrowly grazed the back of my neck before smashing into the holographic TV.",
+      "severity": "critical",
+      "source": "파공성과 동시에 고개를 숙이자, 아슬아슬하게 목덜미를 스친 크리스털 유리잔이 홀로그램 TV를 박살 낸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Because it wasn’t an accident. Still, it’s a shame. If I’d been just a little faster, I would have smashed Mr. Jin Taekyung’s head…”\n\n“Hey, what do you mean, ‘head’? Head?”\n\n“You keep running that reckless mouth, so you get called a head. Frankly, for a blockhead like you, even ‘head’ is too generous.”\n\n“Uh, what? Head? Mouth?”",
+      "defect": "Rendering both 대가리 and the ordinary concept of a head as “head” makes the exchange nonsensical and erases the deliberately demeaning vocabulary, along with the paired insult 아가리. The draft also assigns the speed to Choi rather than leaving it with the thrown glass.",
+      "id": "F02",
+      "rationale": "The source contrasts ordinary language with two coarse, dehumanizing terms and then repeats them as the punchline. Distinct English insults are required for the dialogue to retain its meaning and register.",
+      "replacement": "“Because it wasn’t an accident. Still, it’s a real shame. If that had been just a little faster, it would’ve smashed Mr. Jin Taekyung’s skull…”\n\n“Hey, you don’t call a person’s head a ‘skull.’ A skull?”\n\n“You keep flapping that obnoxious trap of yours, so yes, I’m calling it a skull. Frankly, even the word ‘skull’ is wasted on a blockhead like you.”\n\n“Whoa, what? ‘Skull’? ‘Trap’?”",
+      "severity": "major",
+      "source": "“실수가 아니었으니까요. 그나저나 정말 아쉽네요. 조금만 더 빨랐으면 진태경 씨 대가리를…….”\n\n“아니, 사람한테 대가리가 뭡니까. 대가리가.”\n\n“그 방정맞은 아가리를 함부로 놀리니까 대가리 소리가 나오는 겁니다. 사실 진태경 씨 같은 돌머리한테는 대가리라는 단어도 아까워요.”\n\n“어어? 대가리? 아가리?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "「Choi, I have a love life too.」",
+      "defect": "“Have a love life” implies romantic or sexual activity, whereas 순정 presents Magic Johnson as someone with a sincere, innocent, or devoted romantic heart.",
+      "id": "F03",
+      "rationale": "The line characterizes Johnson as a 순정파—a sincere romantic—not as someone claiming an active love life.",
+      "replacement": "「Choi, I’m a romantic too.」",
+      "severity": "major",
+      "source": "「최, 나도 순정이 있는 사람이야.」"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Before he was an outstanding War Mage, Magic Johnson was a Grand Mage capable of wielding most forms of magic.",
+      "defect": "The draft turns a hierarchy of identities into a chronological claim, implying that Johnson used to be a Grand Mage before becoming a War Mage. The source says that, more fundamentally than being an excellent War Mage, he is a broadly capable Grand Mage.",
+      "id": "F04",
+      "rationale": "이기 이전에 is contrastive here, establishing his more fundamental classification and capabilities rather than describing a past career stage.",
+      "replacement": "Magic Johnson was not merely an outstanding War Mage, but first and foremost a Grand Mage capable of wielding most forms of magic.",
+      "severity": "major",
+      "source": "매직 존슨은 뛰어난 워 메이지(War Mage)이기 이전에 대다수의 마법을 구사할 수 있는 대마도사."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Magic Johnson cast Teleport using the coordinates Team Leader Choi had given him, and all of us—or rather, the one person who had fallen into a deep sleep that would be difficult to wake from—were able to return to the mansion where he had once lived.\n\nTo the home he had missed.\n\nIt was the first time in more than twenty years.",
+      "defect": "The draft’s plural verb blurs the narrator’s correction from the entire group to Cheon Taemin specifically, and “the first time” falsely suggests a first-ever visit rather than a return after more than twenty years.",
+      "id": "F05",
+      "rationale": "The source self-corrects the subject to the single sleeping person and explicitly frames the event as Cheon Taemin’s return home after an absence of over twenty years.",
+      "replacement": "Magic Johnson cast Teleport using the coordinates Team Leader Choi had given him, and all of us—no, one person among us, locked in a deep sleep he could not easily wake from—was able to return to the mansion where he had once lived.\n\nTo the home he had missed.\n\nIt was a return more than twenty long years in the making.",
+      "severity": "critical",
+      "source": "매직 존슨은 최 팀장으로부터 전달받은 좌표로 텔레포트 마법을 펼쳤고 우리 모두는. 아니, 깨어나기 힘든 깊은 잠에 빠진 한 사람은 과거 자신이 머물렀던 저택으로. 그리운 집으로 돌아올 수 있었다.\n\n장장 이십여 년 만의 일이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The crime of cooperating in imprisoning a hero who had saved humanity from disaster as though he were a criminal had to be investigated.",
+      "defect": "“Investigated” weakens 따져 물어야 한다, which calls for confronting the responsible party and holding them accountable, not merely examining what happened.",
+      "id": "F06",
+      "rationale": "따져 묻다 expresses demanding an explanation and accountability, matching Taekyung’s resolve to pursue whoever knowingly participated.",
+      "replacement": "Anyone who had helped imprison a hero who saved humanity from disaster as though he were a criminal would have to answer for that crime.",
+      "severity": "major",
+      "source": "재앙으로부터 인류를 구한 영웅을 죄인처럼 유폐(幽閉)시키는 것에 동조한 죄는 반드시 따져 물어야 한다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“We waited for so long… but you still haven’t woken up.”",
+      "defect": "The draft changes the implied first-person singular subject to “we,” diluting Team Leader Choi’s personal statement to his grandfather.",
+      "id": "F07",
+      "rationale": "Choi is expressing his own long wait while gazing at his maternal grandfather; the source supplies no plural subject.",
+      "replacement": "“I’ve waited for so long… but you still haven’t woken up.”",
+      "severity": "critical",
+      "source": "“정말 오랫동안 기다렸는데…… 깨어나지 못하시는군요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I was berating the Skeleton King in a voice no louder than a mosquito’s buzz in case he heard me when Team Leader Choi opened his mouth with a faint smile.",
+      "defect": "The pronoun “he” most naturally refers to the Skeleton King, but Taekyung is speaking directly to him. The source means Taekyung lowers his voice so Team Leader Choi will not overhear the exchange.",
+      "id": "F08",
+      "rationale": "The concern about being overheard only makes contextual sense with Choi, whose grandfather’s possible death and resurrection as a Death Knight prompted the whispered rebuke.",
+      "replacement": "I was berating the Skeleton King in a voice no louder than a mosquito’s buzz so Team Leader Choi wouldn’t overhear when Choi spoke with a faint smile.",
+      "severity": "major",
+      "source": "혹여 들리기라도 할까 싶어 모기만 한 목소리로 스켈레톤 킹을 윽박지르던 그때, 흐릿한 미소를 머금은 최 팀장이 입을 열었다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter action sequencing, characterization, identity framing, and subject attribution; additional wording loses the source’s accountability and insult register.",
+  "version": 1
+}
