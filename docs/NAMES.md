@@ -1903,3 +1903,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 김종필 | **Kim Jong-pil** | Ares Guild managing director whose faction betrays the Guild on the eighty-fifth floor. |
 | 최 전무 | **Executive Director Choi** | Ares Guild executive who asks Go Se-won where the Vice Guild Master is. |
 | 진호 | **Jin-ho** | Jin Taekyung's older male friend, addressed as Jin-ho hyung. |
+| 이강희 | **Lee Kanghee** | Chief editorial writer whose column condemns Jin Taekyung. |
+| 고 모씨 | **Mr. Go** | Anonymous close aide of the late Go Jun who turns himself in. |
