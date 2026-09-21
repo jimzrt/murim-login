@@ -1938,3 +1938,11 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스미스 | **Smith** | Pentagon employee using an electronic cigarette. |
 | 고든 | **Gordon** | Pentagon employee tasked with repairing smashed warning lights. |
 | 도널드 도람프 주니어 | **Donald Doramp Jr.** | President of the United States. |
+| 제시 | **Jesse** | The U.S. Secretary of State, introduced by first name. |
+| 잭 | **Jack** | U.S. military or political official introduced by first name only. |
+| 필립 | **Philip** | U.S. military or political official introduced by first name only. |
+| 조이 | **Joey** | U.S. military or political official introduced by first name only. |
+| 리암 | **Liam** | U.S. military or political official introduced by first name only. |
+| 이사벨라 | **Isabella** | U.S. military or political official introduced by first name only. |
+| 무함마드 살라디르 앗 딘 | **Muhammad Saladir ad-Din** | Leader of an Islamic armed terrorist group. |
+| 핫산 | **Hassan** | Subordinate addressed by the unidentified intruder. |
