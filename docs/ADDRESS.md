@@ -1144,3 +1144,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 백상 | 대장로 | Palace Lord to Miao Head Elder | Head Elder | cold, coercive, and formal | Baeksang offers the Head Elder a final chance to submit before ordering his imprisonment. |
 | 대장로 | 백상 | Miao Head Elder to usurping Palace Lord | Baeksang / you bastard | furious and defiant | The Head Elder condemns Baeksang's betrayal and refuses to abandon Yayul Cheok. |
 | 요희 | 무야호 | human ally to intelligent spiritual beast | you | casual and familiar | Yohi asks Muyaho whether it wants her to ride on its back. |
+| 흑호 | 진태경 | unknown supernatural being to human interlocutor | human | calm, detached, and telepathic | Summons Jin to the cliff and invites him to discuss the situation. |
+| 진태경 | 흑호 | human martial artist to unknown supernatural beast | you / bastard | blunt, startled, and irreverent | Asks what the Black Tiger is and curses it after seeing the Water God Dragon's Origin Essence. |

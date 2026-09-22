@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Sometimes, even after getting up, you keep your eyes closed for a long while, turning over everything that happened in the dream.",
+      "defect": "“Getting up” implies physically rising, whereas the source says he has awakened but continues lying there with his eyes closed.",
+      "id": "F01",
+      "rationale": "일어난 후에도 means “even after waking up” here; the surrounding action specifically has him keeping his eyes closed to linger over the dream.",
+      "replacement": "Sometimes, even after waking up, you keep your eyes closed for a long while, turning over everything that happened in the dream.",
+      "severity": "critical",
+      "source": "일어난 후에도 한참 동안 눈을 감고 그 꿈에서 있었던 일을 곱씹을 때가."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Fuck. Apparently it is.”",
+      "defect": "The draft turns unquoted internal narration into dialogue spoken aloud to Yohi.",
+      "id": "F02",
+      "rationale": "The Korean line has no dialogue quotation marks and reports Taekyung's private realization, so it should remain a direct thought rather than become something Yohi hears.",
+      "replacement": "*Fuck. Looks like it was true.*",
+      "severity": "major",
+      "source": "시벌, 사실인 모양이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "—Whiiine. Whine.\n\n“Do you need to poop? Go over there and do it. Hyung's busy.”\n\n—Kiiiiing.",
+      "defect": "The first noises are straining groans that motivate Taekyung's poop joke, while the final noise is the whine; the draft reverses that progression and renders the last sound as the English word “king.”",
+      "id": "F03",
+      "rationale": "끄으응 and 끙 convey groaning or straining, while 끼이이잉 is a prolonged whimper or whine. Preserving that contrast retains the setup and response of the joke.",
+      "replacement": "—Nnngh. Ngh.\n\n“Do you need to poop? Go over there and do it. Hyung's busy.”\n\n—Whiiine.",
+      "severity": "minor",
+      "source": "- 끄으응. 끙.\n\n“똥 마렵니? 저기 가서 싸. 형 바쁘다.”\n\n- 끼이이잉."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A presence looking down at us without a trace of movement from atop the cliffs encircling the pond.",
+      "defect": "아무런 기척도 없이 means the being emits no detectable presence, not that it is merely motionless. The draft loses the supernatural concealment mechanism.",
+      "id": "F04",
+      "rationale": "기척 denotes perceptible signs or presence. Taekyung can see the being despite having sensed absolutely nothing from it.",
+      "replacement": "Something was looking down at this place from atop the cliffs encircling the pond, without giving off the slightest hint of its presence.",
+      "severity": "major",
+      "source": "연못을 둥그렇게 감싼 절벽 위, 아무런 기척도 없이 이곳을 내려다보는 어떤 존재를."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The apparition of Ailao Mountain.\n\nYes—it was him.",
+      "defect": "The draft assigns a male pronoun to the unidentified Black Tiger even though the source does not establish its sex here.",
+      "id": "F05",
+      "rationale": "놈 identifies it as the same creature Taekyung encountered before but does not require adding gender certainty in English.",
+      "replacement": "The apparition of Ailao Mountain.\n\nYes—it was the same one.",
+      "severity": "major",
+      "source": "애뇌산의 망령. 그래, 놈이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "—I haven't heard that name in a long time. Was it more than two hundred years ago?",
+      "defect": "The draft changes an approximate quantity into a lower-bound claim.",
+      "id": "F06",
+      "rationale": "이백여 년 means approximately two hundred years, not more than two hundred years.",
+      "replacement": "—I haven't heard that name in a long time. Was it around two hundred years ago?",
+      "severity": "critical",
+      "source": "- 그 이름은 오랜만에 듣는군. 아마 이백여 년이었던가?"
+    }
+  ],
+  "summary": "The draft contains two altered physical or quantitative facts, an internal thought incorrectly presented as spoken dialogue, a weakened supernatural-stealth cue, an unsupported gendered reference, and one mistranslated animal-vocalization sequence.",
+  "version": 1
+}

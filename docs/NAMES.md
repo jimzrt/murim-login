@@ -2098,3 +2098,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 궁주 | **Palace Lord** | Title Yohi uses after realizing that Heugung is the Beast Miao King. |
 | 수마 | **sleep demon** | Metaphor for the force keeping Jin unconscious. |
 | 백천대 | **Baekcheon Unit** | Baeksang's secret elite unit, cultivated over decades and held in reserve. |
+| 김좌진 | **Kim Jwa-jin** | Historical Korean independence activist and military commander used in Jin's comparison. |
