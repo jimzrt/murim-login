@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Sichuan Blood History",
+      "defect": "The established term 사천혈사 is rendered with the wrong English title.",
+      "id": "F01",
+      "rationale": "The glossary binds 사천혈사 to “Sichuan Blood Tragedy,” and the accepted baseline preserves that term.",
+      "replacement": "Sichuan Blood Tragedy",
+      "severity": "minor",
+      "source": "Line 11 / P5"
+    },
+    {
+      "confidence": 0.93,
+      "current": "I was already in the middle of researching it… What’s wrong, Jin?",
+      "defect": "The causal detail that Johnson was researching the magic circle because of this discovery has been dropped.",
+      "id": "F02",
+      "rationale": "이것 때문에 explicitly establishes the reason for the research; the current wording only states that research was underway.",
+      "replacement": "I was already in the middle of researching it because of this… What’s wrong, Jin?",
+      "severity": "minor",
+      "source": "Line 33 / P16"
+    },
+    {
+      "confidence": 0.88,
+      "current": "What the hell is going on?",
+      "defect": "The line loses the source’s explicit characterization of the situation as vile or shitty, changing an exasperated judgment into a more general question.",
+      "id": "F03",
+      "rationale": "개 같은 상황 is not merely confusion about what is happening; it labels the situation itself as awful. The accepted baseline preserves that distinction.",
+      "replacement": "What the hell kind of situation is this?",
+      "severity": "minor",
+      "source": "Line 63 / P31"
+    },
+    {
+      "confidence": 0.95,
+      "current": "We left the head of security and his guards behind after they snapped off razor-sharp salutes.",
+      "defect": "The physical detail describing the angle of the salutes has been replaced with a description of crispness or sharp execution.",
+      "id": "F04",
+      "rationale": "칼 같은 각도로 specifies the angle at which the salutes were raised, not that the salutes were performed sharply.",
+      "replacement": "We left the head of security and his guards behind after they gave us salutes at knife-sharp angles.",
+      "severity": "minor",
+      "source": "Line 291 / P143"
+    },
+    {
+      "confidence": 0.9,
+      "current": "The same work was probably underway in every city caught up in the war.",
+      "defect": "“Every city” adds a universal quantifier not established by the source.",
+      "id": "F05",
+      "rationale": "도시 곳곳에서 indicates various places throughout the affected cities, not necessarily every city involved in the war.",
+      "replacement": "The same work was probably underway throughout the cities caught up in the war.",
+      "severity": "minor",
+      "source": "Line 311 / P153"
+    },
+    {
+      "confidence": 0.9,
+      "current": "a club nearby with a great crowd",
+      "defect": "The euphemistic implication that the club has attractive female patrons is lost, weakening the setup for the later gay-bar joke.",
+      "id": "F06",
+      "rationale": "물 좋은 클럽 in this context refers to a venue with attractive women. That meaning explains why the Skeleton King is interested and why Jin considers telling him it is a gay bar.",
+      "replacement": "a club nearby with plenty of attractive women",
+      "severity": "minor",
+      "source": "Line 335 / P165"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but several localized changes weaken established terminology, causal detail, source-specific imagery, or joke logic.",
+  "version": 1
+}

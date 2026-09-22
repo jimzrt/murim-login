@@ -6,7 +6,7 @@ My eyelids began to tremble before I even realized it.
 
 I remembered it clearly.
 
-Immediately after the Sichuan Blood History—after the Western Heaven Demon Lord had nearly killed me several times—I had followed the Sect Leaders of the Qingcheng and Emei Sects to a cave in an unnamed cliff.
+Shortly after the Sichuan Blood Tragedy ended—a calamity that had nearly gotten me killed several times by the Western Heaven Demon Lord—I had followed the Sect Leaders of Qingcheng and Emei to a cave in an unnamed cliff.
 
 The space hidden behind the Mystic Gate Formation had been vast, with an enormous formation carved into its center.
 
@@ -74,7 +74,7 @@ Magic Johnson had a cigar between his lips by then. He blew out a cloud of smoke
 
 「They wanted my opinion. They couldn’t figure out exactly what the magic circle did, either. They probably contacted the other two as well.」
 
-The other two were probably the Grand Mages besides Magic Johnson. They were the greatest mages alive and true experts in the field.
+The other two must have been the Grand Mages besides Magic Johnson. They were the greatest mages alive, the true experts in the field.
 
 Which meant this magic circle was something entirely new—something that had never been seen before.
 
@@ -142,7 +142,7 @@ I bit down hard on my lip and asked the Skeleton King again.
 
 The Skeleton King clicked his tongue.
 
-“Vile human. Can you determine the meaning of magic circles used by other humans simply by looking at them?”
+“Vile human. Can you tell what a magic circle created by another human does simply by looking at it?”
 
 “That’s…”
 
@@ -154,13 +154,13 @@ Just as Hunters and monsters were classified according to their respective trait
 
 His answer wasn’t what I had hoped for, and I could feel the strength draining out of me. But one important question remained.
 
-“Then how did you guess that it was a life-force absorption magic circle? Can only monsters recognize patterns and symbols like these?”
+“Then how did you guess it was a life-force absorption circle? Can only monsters recognize patterns and symbols like these?”
 
 If the Skeleton King understood these strange patterns and symbols—if he could teach me what they meant—I might finally be able to identify the formation I had seen in Murim.
 
 I looked at him expectantly, only for his answer to dash my hopes a moment later.
 
-“I do not know what those things mean. I could guess what the magic circle was for only because I’m undead.”
+“I do not know what those things mean. I could determine the magic circle’s purpose only because I am undead.”
 
 The Skeleton King pointed at Magic Johnson and continued.
 
@@ -176,7 +176,7 @@ If neither Magic Johnson, a Grand Mage, nor the Skeleton King, a Named Monster, 
 
 What the hell was going on?
 
-The formation carved into the center of the cave. The patterns and symbols that had appeared in the magic circle discovered this time. The bizarre phenomena I had witnessed during my battle with the Blood Lord and the Western Heaven Demon Lord…
+The formation carved into the center of the cave. The patterns and symbols in the magic circle discovered here. The bizarre phenomena I had witnessed during my battles with the Blood Lord and the Western Heaven Demon Lord…
 
 I desperately tried to deny the ominous thought that flashed through my mind.
 
@@ -184,7 +184,7 @@ I desperately tried to deny the ominous thought that flashed through my mind.
 
 Was this a coincidence? Or was it fate?
 
-And if it was fate, what did this connection that had appeared out of nowhere mean?
+And if it was fate, what did this connection that had suddenly appeared mean?
 
 After pacing silently around the suite for a long time, I abruptly spoke.
 
@@ -256,7 +256,7 @@ The Skeleton King answered dejectedly and slipped inside the extradimensional po
 
 The moment I saw the magic circle with my own eyes, I understood what the Skeleton King had meant.
 
-Or perhaps it only seemed that way because I had heard his explanation immediately beforehand.
+Or perhaps I only felt that way because I had heard his explanation beforehand.
 
 Either way, the sight overwhelmed me, and a single word rose unbidden to my mind.
 
@@ -264,7 +264,7 @@ Either way, the sight overwhelmed me, and a single word rose unbidden to my mind
 
 The enormous dark magic circle dwarfed the one I had seen in the cave.
 
-Although its mana had been cut off and it had lost its original function, even the traces of death left behind by the countless lives it had once claimed had not disappeared.
+Its mana had been cut off, robbing it of its original function, but the traces of the countless lives it had once claimed had not disappeared.
 
 And… that was all I could sense.
 
@@ -312,7 +312,7 @@ But now a connection had appeared between those utterly different worlds—and i
 
 *The capsule.*
 
-Everything surrounding me had begun with the junk capsule I had picked up at a recycling center.
+Everything that had happened to me had begun with the junk capsule I had picked up at a recycling center.
 
 *How? Why? For what reason?*
 
@@ -324,7 +324,7 @@ At my deep sigh, the Skeleton King—whom I had quietly moved from the extradime
 
 “Are you all right, vile human?”
 
-“Are you worried about me now?”
+“Are you worried about me?”
 
 “No. If you are all right, let us hurry back to the hotel. Johnson told me a few days ago that there is a club nearby with a great crowd.”
 
@@ -346,7 +346,7 @@ At that exact moment—
 
 At the sound of the voice—harder and colder than ever before—I slowly turned around.
 
-Without realizing it, I must have ventured deep into the ruins. Beyond the relatively dark ruins, a familiar figure was making his way through a collapsed building toward me.
+I must have wandered deep into the ruins without realizing it. Beyond a relatively dark stretch of rubble, a familiar figure emerged through the wreckage of a collapsed building.
 
 “Hell is where your old man went. If I die, I’m going to heaven.”
 
