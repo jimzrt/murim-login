@@ -2041,3 +2041,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황족 | **Huang tribe** | Nanman tribe involved in a recently settled dispute. |
 | 둥족 | **Dong tribe** | Nanman tribe involved in a recently settled dispute. |
 | 고 족장 | **Chief Go** | Nanman chieftain ordered to organize scouts toward Guizhou. |
+| 살불 | **Killing Buddha** | Sobriquet of a fiend from the Great Faction War era. |
+| 화원 | **Fire Courtyard** | Courtyard associated with Jin Taekyung and Ju Hwaran's final walk before leaving Sichuan. |
