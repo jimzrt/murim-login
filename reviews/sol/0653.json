@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Still, for friends, you two look like you’re on pretty bad terms.”",
+      "defect": "The added “you two” reduces Sama Pyo and the group of attackers to two individuals, while the source refers collectively to the apparent friends and their bad relationship.",
+      "id": "F01",
+      "rationale": "The plural wording preserves the source’s reference to Sama Pyo and the masked attackers as a group.",
+      "replacement": "“Then again, you all seem to be on pretty bad terms for friends.”",
+      "severity": "major",
+      "source": "“하긴. 친구치고는 사이가 많이 나빠 보이긴 하네.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You’ve done enough that it feels a little wrong to keep calling you unorthodox goons… From now on, I’ll call you unorthodox hardcases.”",
+      "defect": "The plural “goons” and “hardcases” wrongly treats Sama Pyo as multiple people, and the first phrase fails to preserve the established term “unorthodox faction.”",
+      "id": "F02",
+      "rationale": "The source addresses Sama Pyo alone and upgrades his teasing label from a lowly unorthodox-faction goon to a hardened one.",
+      "replacement": "“You’ve done enough that it feels wrong to keep treating you like some lowly goon from the unorthodox faction… From now on, I’ll call you an unorthodox hardcase.”",
+      "severity": "major",
+      "source": "“이 정도까지 했는데 계속 사파 잡졸 취급하기에는 좀 그렇고…… 이제부터는 사파 독종이라고 해 줄게.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Why are you so surprised? Were you planning to hit and run, you fucking bastards?”",
+      "defect": "“Hit and run” removes the source’s modern 벨튀 joke, which specifically invokes ringing a doorbell and running away.",
+      "id": "F03",
+      "rationale": "“Ding-dong ditch” is the natural US English equivalent of 벨튀 and preserves the deliberately incongruous joke.",
+      "replacement": "“Why are you so surprised? Were you planning to ding-dong ditch me, you fucking bastards?”",
+      "severity": "major",
+      "source": "“뭘 그렇게 놀라. 그럼 벨튀만 하고 가려고 했냐, 이 시벌 새끼들아?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A gale that could not compare to the first swept through every direction.",
+      "defect": "The comparison is reversed: the English says the new gale was inferior to the first, while the source says it was incomparably greater.",
+      "id": "F04",
+      "rationale": "처음과는 비교도 안 되는 describes the present gale as beyond comparison with the earlier gust.",
+      "replacement": "A gale far fiercer than the first swept out in every direction.",
+      "severity": "critical",
+      "source": "처음과는 비교도 안 되는 광풍이 사방을 휩쓸었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I caught one of the now-useless favored weapons and slammed it into the abdomen of one of the frozen masked men.\n\n“Flame Divine Palm.”",
+      "defect": "The draft changes the attack into striking the enemy with a captured weapon. In the source, the masked man is frozen while clutching his disabled favored weapon, and Taekyung strikes his abdomen with the Flame Divine Palm. The technique name is also internal narration, not spoken dialogue.",
+      "id": "F05",
+      "rationale": "The modifier 붙잡고 applies to the masked man holding his weapon; the following technique identifies Taekyung’s palm strike.",
+      "replacement": "I slammed my palm into the abdomen of one of the masked men who stood frozen, still clutching his now-useless favored weapon.\n\n*Flame Divine Palm.*",
+      "severity": "critical",
+      "source": "나는 무력화된 애병을 붙잡고 굳어 버린 복면인들 중 한 놈의 복부를 후려쳤다.\n\n화염신장(火焰神掌)."
+    },
+    {
+      "confidence": 0.99,
+      "current": "In the suffocating silence, the dozen or so pairs of eyes visible above the masks shook violently.",
+      "defect": "“A dozen or so” conflicts with the scene’s explicit count: after the next three enemies die, seven remain, so ten masked men are present here.",
+      "id": "F06",
+      "rationale": "The subsequent explicit count establishes that this group contains ten attackers at this moment.",
+      "replacement": "In the suffocating silence, the ten pairs of eyes visible above the masks shook violently.",
+      "severity": "critical",
+      "source": "복면 위로 드러난 십여 쌍의 눈동자가 세차게 흔들린 다음 순간."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The other masked men swallowed empty breaths after losing three comrades in a span too short to even call a moment.",
+      "defect": "“Swallowed empty breaths” is an unnatural literal rendering of 헛숨을 삼켰다.",
+      "id": "F07",
+      "rationale": "“Swallowed their gasps” naturally conveys their involuntary shock without changing the action.",
+      "replacement": "The remaining masked men swallowed their gasps after losing three comrades in a span too short to even call a moment.",
+      "severity": "minor",
+      "source": "찰나라고 부를 수도 없을 만큼 짧은 시간 동안 세 명의 동료를 잃은 복면인들은 헛숨을 삼켰다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Goddammit.*",
+      "defect": "The final profanity is softened relative to the blunt 씨발.",
+      "id": "F08",
+      "rationale": "The source ends on a short, forceful obscenity; “Fuck” preserves both its strength and abrupt timing.",
+      "replacement": "*Fuck.*",
+      "severity": "major",
+      "source": "이런 씨발."
+    }
+  ],
+  "summary": "Several actionable fidelity issues remain, including a reversed comparison, an altered combat action, a quantity inconsistency, lost wordplay, and softened profanity.",
+  "version": 1
+}

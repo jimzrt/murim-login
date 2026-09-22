@@ -2052,3 +2052,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 묘시 | **the hour of the Rabbit** | Traditional time period following Insi. |
 | 대회의 | **Tribal Grand Council** | Nanman's council of great chieftains. |
 | 전서 | **missive** | A written message exchanged or delivered in secret. |
+| 우렁각시 | **snail bride** | Korean folktale figure associated with secretly doing housework. |
+| 검기성강 | **Sword Energy Becoming Force** | Supreme Peak realm in which Sword Energy has entered the Force stage. |
