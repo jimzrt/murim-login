@@ -1991,3 +1991,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이족 | **Yi people** | One of Nanman's four great tribes. |
 | 요족 | **Yao people** | One of Nanman's four great tribes, led by Yohi. |
 | 요희 | **Yohi** | Female great chieftain of the Yao people. |
+| 흑웅 | **Heugung** | Great chieftain of the Yi people; his name literally means Black Bear. |
