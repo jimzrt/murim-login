@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "More than twenty men in black, each wearing a different mask, were keeping watch in every direction while hiding the Pressure-Point Struck warriors among the grass.",
+      "defect": "이십여 명 means approximately twenty, not more than twenty. The rendering of 점혈 당한 이들 is also an unnatural, incorrectly capitalized construction.",
+      "id": "F01",
+      "rationale": "The replacement restores the approximate quantity and naturally describes the incapacitated warriors without turning the technique into an adjectival label.",
+      "replacement": "Around twenty black-clad figures, each wearing a different mask, kept watch in every direction while hiding those whose pressure points had been sealed among the grass.",
+      "severity": "major",
+      "source": "제각각 다른 가면을 쓴 흑의인 이십여 명이 사방을 경계하며 점혈 당한 이들을 풀숲 사이에 숨기는 중이었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Just like his father, whom he respected more than anyone.",
+      "defect": "The draft omits the explicit title 야수묘왕, weakening the source's emphatic identification of Yayul Mok's father and his authority.",
+      "id": "F02",
+      "rationale": "The source deliberately names the Beast Miao King after first identifying him as Yayul Mok's revered father.",
+      "replacement": "Just like his own father, the Beast Miao King, whom he respected beyond measure.",
+      "severity": "major",
+      "source": "존경해 마지않는 자신의 아버지. 야수묘왕처럼."
+    },
+    {
+      "confidence": 0.98,
+      "current": "They would be the ones guarding this place for at least the half an hour before the next shift.",
+      "defect": "“The half an hour” is ungrammatical, and the sentence handles the interval before the next shift awkwardly.",
+      "id": "F03",
+      "rationale": "한 식경 is the established half-hour interval, during which they will hold the post until the next rotation.",
+      "replacement": "They would guard this place for at least half an hour, until the next shift arrived.",
+      "severity": "minor",
+      "source": "적어도 다음 교대가 있을 한 식경 동안, 그들이 이곳을 지킬 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Leaving his position would naturally arouse suspicion.",
+      "defect": "The singular possessive incorrectly suggests that a particular man's departure is suspicious. The source explains that leaving the guard post unattended would expose the infiltration.",
+      "id": "F04",
+      "rationale": "This is the causal reason Yayul Mok leaves two members of the Seven Miao Tigers behind to maintain the disguise.",
+      "replacement": "Leaving the post unattended would naturally arouse suspicion.",
+      "severity": "major",
+      "source": "자리를 비우면 의심을 사기 마련이다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "They had already removed their masks, and the dim underground prison—with only a few torches burning—was ideal for concealing their identities.",
+      "defect": "The draft expands the omitted but contextually singular subject from Yayul Mok to the entire group, adding that everyone removed a mask and was concealing multiple identities.",
+      "id": "F05",
+      "rationale": "The surrounding narration remains focused on Yayul Mok as he answers and approaches the guards; the Korean uses singular 가면 and 정체.",
+      "replacement": "The mask Yayul Mok had been wearing was already off, and with only a few torches burning, the dim underground prison was ideal for concealing his identity.",
+      "severity": "major",
+      "source": "쓰고 있던 가면은 이미 벗은 후였고, 개수가 적은 횃불 덕분에 어두컴컴한 뇌옥의 환경은 정체를 숨기기에 안성맞춤이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "More than a dozen weapons collided in an instant, followed by bursts of blood and screams.",
+      "defect": "십여 개 means around ten, whereas “more than a dozen” raises the quantity to at least thirteen.",
+      "id": "F06",
+      "rationale": "The replacement preserves the source's approximate combat count rather than increasing it.",
+      "replacement": "Around ten weapons collided in an instant, followed by bursts of blood and screams.",
+      "severity": "major",
+      "source": "순식간에 십여 개의 병장기가 부딪치고, 핏물과 비명이 터져 나왔다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "For them, this was a mountain piled upon a mountain.",
+      "defect": "The literal calque is unnatural and obscures the idiom's meaning: their vow creates one compounding difficulty after another.",
+      "id": "F07",
+      "rationale": "첩첩산중 figuratively describes mounting, overlapping difficulties rather than a literal pile of mountains.",
+      "replacement": "For them, it was one impossible hurdle after another.",
+      "severity": "minor",
+      "source": "더군다나 진태경을 탈옥시키는 과정에서 같은 남만인을 죽이지 않기로 맹세한 야율목 일행에게는 첩첩산중이나 다름없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "But his father, the Beast Miao King, would lose his political standing, while Jin Taekyung and the Fire Dragon Pavilion members—the original targets of the rescue—would disappear like dew from the execution ground.",
+      "defect": "“Disappear like dew from the execution ground” is an opaque literal calque of an idiom meaning that they would be executed.",
+      "id": "F08",
+      "rationale": "형장의 이슬로 사라지다 is a conventional euphemism for dying by execution; the replacement preserves its restrained register while making the consequence clear.",
+      "replacement": "But his father, the Beast Miao King, would lose his political standing, while Jin Taekyung and the Fire Dragon Pavilion members—the original targets of the rescue—would be sent to the execution ground.",
+      "severity": "minor",
+      "source": "아버지인 야수묘왕의 정치적 입지는 물론 애당초 목표였던 진태경과 화룡각 대원들은 형장의 이슬로 사라질 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "—Wonhu. I need you to do something.",
+      "defect": "The draft turns a concise appeal entrusting the breakthrough to Wonhu into an unspecified request to perform some task.",
+      "id": "F09",
+      "rationale": "부탁한다 in this context conveys trust and delegation without introducing the vague explanatory phrase “do something.”",
+      "replacement": "—Wonhu. I’m counting on you.",
+      "severity": "major",
+      "source": "- 원후(猿猴). 부탁한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His earlier words—that he had come to make Jin Taekyung take a Force-Sealing Pill before the battle began—had not been entirely false.",
+      "defect": "The draft attaches “before the battle began” to administering the pill, but the source says Yayul Mok made the claim immediately before the battle broke out.",
+      "id": "F10",
+      "rationale": "전투가 벌어지기 직전 modifies when Yayul Mok spoke, not when he intended Jin Taekyung to take the pill.",
+      "replacement": "The claim he had made just before the battle broke out—that he had come to give Jin Taekyung a Force-Sealing Pill—had not been entirely false.",
+      "severity": "major",
+      "source": "전투가 벌어지기 직전, 진태경에게 금력단을 복용시키고자 왔다고 했던 그의 말은 완전히 틀린 것이 아니었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful but contains two altered quantities, an expanded subject, a misplaced temporal modifier, and several localized hierarchy, causality, and English issues.",
+  "version": 1
+}

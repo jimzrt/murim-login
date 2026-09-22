@@ -2072,3 +2072,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 휘 | **Hwi** | Baeksang's only child, remembered as upright and bright before his death in the Great Snow Mountain battle. |
 | 수달 | **Sudal** | Deputy Stronghold Lord of the Water Dragon Stronghold and river pirate. |
 | 남생크 | **Namshank** | Quest-title pun on Shawshank in Escape from Namshank. |
+| 훈혈 | **Dizziness Acupoint** | Acupoint used with the Mute Acupoint to disable a guard. |
+| 대족장 | **Great Chieftain** | Title used for the senior Nanman leader who supposedly ordered the inspection. |
+| 소궁주 | **Young Palace Lord** | Title used for Yayul Mok as heir of the Nanman Beast Palace. |

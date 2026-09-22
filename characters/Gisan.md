@@ -1,6 +1,6 @@
 # Gisan (기산)
 
-- **Safe through:** Chapter 633
+- **Safe through:** Chapter 667
 - **Aliases:** None
 - **Role:** Gisan is a member of the Beast Miao King's personal guard, the Seven Miao Tigers.
 - **Personality:** No personality traits are established.
