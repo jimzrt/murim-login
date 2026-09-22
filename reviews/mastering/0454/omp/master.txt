@@ -24,7 +24,7 @@ Ignoring the people staring back and forth between Ju Wongong and me with their 
 
 He had no idea what I meant, but anyone with human instincts could sense danger.
 
-Ju Wongong’s butt twitched instinctively, and he slowly rose to his feet.
+Ju Wongong’s butt twitched, and he slowly rose to his feet.
 
 Yet even as his eyes darted around in anxiety at this unprecedented situation, he didn’t forget to threaten me until the bitter end. Apparently, he still trusted his imperial pedigree to protect him.
 
@@ -38,7 +38,7 @@ Yet even as his eyes darted around in anxiety at this unprecedented situation, h
 
 “What kind of bastard says things like that…!”
 
-Although I answered casually, I was not entirely wrong.
+I answered casually, but he wasn’t entirely wrong.
 
 The imperial family bore the same Zhu surname as the Son of Heaven and carried the blood of dragons. That alone made them noble.
 
@@ -80,7 +80,7 @@ When unmistakable fury filled Ju Wongong’s eyes, the commoners sucked in their
 
 They seemed eager to avoid being dragged into someone else’s trouble. That meant fewer eyes watching us, so I had no complaints.
 
-*They keep threatening people with the nine branches of their kin whenever they get bored.*
+*These people threaten to exterminate nine branches of your family whenever they get the chance.*
 
 Did they not bother with anything less?
 
@@ -98,9 +98,9 @@ As I let out a deep sigh, the Zhuge Clan retainer whispered,
 
 “Him?”
 
-“He is an imperial relative. No matter how distant his branch may be, his blood cannot be ignored. Besides, he is a distant branch with no chance of inheriting the throne, so even when he commits a crime, they allow him to enjoy a certain amount of special treatment.”
+“He is still an imperial relative. No matter how distant the branch, his blood cannot be ignored. Besides, he is so far removed from the line of succession that even when he commits a crime, they allow him a certain degree of comfort.”
 
-“In short, he’s such a fucking nobody that no one around him even bothers with him?”
+“In short, he’s such a fucking nobody that no one even bothers worrying about him?”
 
 “……Great Hero Jin, please choose your words more carefully.”
 
@@ -116,7 +116,7 @@ Though I had already suspected as much when he started talking about being eight
 
 I pulled something from inside my robe and tossed it at Ju Wongong as he delivered his grand speech.
 
-At the same time, the man who had been puffing out his chest flailed both arms and sat down hard.
+The bastard had been standing there with his chest puffed out, but now he flailed both arms and fell backward onto his ass.
 
 “A hidden weapon! A hidden weapon! This bastard is trying to assassinate an imperial relative!”
 
@@ -124,7 +124,7 @@ At the same time, the man who had been puffing out his chest flailed both arms a
 
 And then—
 
-The “hidden weapon” landed with a soft clack in front of Ju Wongong’s feet, scattering a brilliant light beneath everyone’s gaze.
+The “hidden weapon” landed with a soft clack in front of Ju Wongong’s feet, gleaming brilliantly beneath everyone’s gaze.
 
 “Huh?”
 
@@ -154,7 +154,7 @@ The decorative showpieces from Qingxia Hall whom he had hired were warning peopl
 
 “Wow! Dongting Lake!”
 
-Ju Wongong had finally learned the identity of this dumpling ghost. His uneasy gaze flicked toward the sword hanging at Cheongpung’s waist.
+Now that Ju Wongong knew the identity of this dumpling ghost, he glanced uneasily at the sword hanging from Cheongpung’s waist.
 
 “W-well, I could invite you along if you wished…”
 
@@ -180,13 +180,13 @@ There was a reason Ju Wongong had become so submissive.
 
 Even animals were judged as purebred or mixed-breed. How much more would the imperial family—the noblest bloodline in the world—care about such distinctions?
 
-Even though the same imperial blood ran in their veins, Prince Shangshan Zhu Bao was the Son of Heaven’s only younger full brother and the sole prince he had personally appointed.
+Though the same imperial blood ran through their veins, Prince Shangshan Zhu Bao was the Son of Heaven’s one and only full brother and the only vassal prince the Emperor had personally appointed.
 
 After the late Emperor’s death, the ruthless man who now sat upon the throne had eliminated countless blood relatives in the struggle for succession. Prince Shangshan Zhu Bao was that ruthless Emperor’s one soft spot.
 
 Ju Wongong, on the other hand, came from a collateral branch eight degrees removed.
 
-The direct imperial line possessed legitimacy and authority. Even by counting degrees of kinship, Prince Shangshan Zhu Bao was a distant and exalted elder of the household to Ju Wongong.
+The direct imperial line possessed legitimacy and authority. Even by degrees of kinship, Prince Shangshan Zhu Bao was an exalted elder of the family, far beyond Ju Wongong’s reach.
 
 *This is what they call using barbarians to defeat barbarians.*
 
@@ -242,7 +242,7 @@ A woman carefully stepped down, and an exclamation escaped my lips before I coul
 
 “……Whoa.”
 
-People often describe celebrities as pretty or handsome.
+People often described celebrities as pretty or handsome.
 
 But the woman before me possessed something beyond those ordinary standards.
 
@@ -288,7 +288,7 @@ And unlike Ju Wongong, who knew absolutely nothing about martial arts, she had r
 
 —Lower District Sect?
 
-Her slender shoulder twitched at my Sound Transmission, and Honglan gave a slight nod.
+Her slender shoulders twitched at my Sound Transmission. Then Honglan gave the slightest nod.
 
 *The Lower District Sect. I had a feeling that was it.*
 
@@ -308,7 +308,7 @@ I gazed at Honglan for a moment, then smiled.
 
 “Then we can all go somewhere else together—hm? W-wait. What did you just say?”
 
-“Why are you so flustered? I’m pretty sure I said I had something urgent to do. Is my memory failing me?”
+“Why are you so surprised? I’m pretty sure I already said I had something urgent to do. Is my memory failing me?”
 
 “N-no. But Honglan is here…”
 

@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "Main character, Ju Wongong, whatever. Get down.",
+      "defect": "The source explicitly presents an either/or dismissal—whether he is the protagonist or Ju Wongong—whereas the current wording turns the two labels into an awkward appositive and weakens the joke's structure.",
+      "id": "F01",
+      "rationale": "주인공이든 주원공이든 means “whether [you’re] the main character or Ju Wongong,” preserving the parallel wordplay before the blunt command.",
+      "replacement": "Whether you’re the main character or Ju Wongong, get down.",
+      "severity": "minor",
+      "source": "Lines 17-18 / P8"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Apparently, he still trusted his imperial pedigree to protect him.",
+      "defect": "The current line removes the source's uncertainty and adds an explicit belief that the pedigree would protect him.",
+      "id": "F02",
+      "rationale": "황족이라는 배경을 믿는지 expresses a tentative inference—“perhaps because he trusted his imperial background”—not a definite belief in protection.",
+      "replacement": "Perhaps he trusted in his imperial background.",
+      "severity": "minor",
+      "source": "Lines 29-31 / P15"
+    },
+    {
+      "confidence": 0.9,
+      "current": "the sole prince he had personally appointed",
+      "defect": "“Prince” obscures the specific political rank 번왕, a vassal or feudatory king appointed by the Emperor.",
+      "id": "F03",
+      "rationale": "The source distinguishes Zhu Bao as the Emperor’s appointed 번왕, not merely one of several princes; that rank helps establish the hierarchy driving Ju Wongong’s submission.",
+      "replacement": "the only vassal king he had personally appointed",
+      "severity": "minor",
+      "source": "Lines 189-190 / P92"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Just thinking about it made my heart swell.",
+      "defect": "The current wording drops the source's escalating, repeated-thought construction.",
+      "id": "F04",
+      "rationale": "생각할수록 means “the more I thought about it,” establishing that his pride kept growing as he continued considering the situation.",
+      "replacement": "The more I thought about it, the more my chest swelled.",
+      "severity": "minor",
+      "source": "Lines 197-201 / P98"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A woman carefully stepped down, and an exclamation escaped my lips before I could stop it.",
+      "defect": "The current sentence drops the explicit physical detail that she stepped down from the sedan chair.",
+      "id": "F05",
+      "rationale": "가마에서 내리는 specifies the woman's movement out of the sedan chair; the preceding door opening does not make the omitted action explicit in the assembled sentence.",
+      "replacement": "A woman carefully stepped down from the sedan chair, and an exclamation escaped my lips before I could stop it.",
+      "severity": "minor",
+      "source": "Lines 243-247 / P121"
+    },
+    {
+      "confidence": 0.9,
+      "current": "You are a subject of the Great Nation! How dare you show such disrespect to a member of His Majesty the Emperor’s own bloodline?",
+      "defect": "The source's concessive premise—“though you too are ultimately a subject”—is lost, weakening the hierarchy-based accusation.",
+      "id": "F06",
+      "rationale": "네놈도 결국 … 백성일진대 means that despite the listener also being a subject, he has dared to disrespect the speaker's imperial bloodline.",
+      "replacement": "Though you too are ultimately a subject of the Great Nation, how dare you show such disrespect to me, a blood relative of His Majesty the Emperor?",
+      "severity": "minor",
+      "source": "Lines 19-20 / P9"
+    }
+  ],
+  "summary": "Mostly faithful, but several local changes weaken source-established hierarchy, uncertainty, repetition, or physical detail.",
+  "version": 1
+}
