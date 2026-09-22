@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "That’s because you’ve been listening to dogshit since early evening.",
+      "defect": "“Dogshit” is an unnatural literalization of 개소리 in this auditory context; the Korean means profane nonsense or bullshit.",
+      "id": "F01",
+      "rationale": "The replacement preserves the source’s profanity and meaning while allowing the following barking metaphor to carry the canine wordplay naturally.",
+      "replacement": "That’s because you’ve been listening to bullshit since early evening.",
+      "severity": "minor",
+      "source": "그게 초저녁부터 개소리를 들어서 그래요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I don’t know who the owner is, but this is the end of the world.",
+      "defect": "The literal phrase “this is the end of the world” does not naturally convey the idiomatic lament 말세다 and loses its exasperated register.",
+      "id": "F02",
+      "rationale": "말세다 is a complaint that society has gone badly wrong, not a literal prediction of the world ending.",
+      "replacement": "I don’t know who the owner is, but the world’s really gone to hell.",
+      "severity": "minor",
+      "source": "주인이 누구인지는 모르겠지만 말세다, 말세."
+    },
+    {
+      "confidence": 0.98,
+      "current": "For a servant who came here to deliver a message, you’ve got a long tongue.",
+      "defect": "“You’ve got a long tongue” is a Korean idiom carried over mechanically and is not idiomatic contemporary English.",
+      "id": "F03",
+      "rationale": "혓바닥이 길다 means that someone talks excessively; the replacement preserves Jin’s contemptuous, informal insult.",
+      "replacement": "For a servant sent here to deliver a message, you sure talk a lot.",
+      "severity": "minor",
+      "source": "말 전하러 온 머슴 주제에 혓바닥이 길다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The golden eyes that had been radiating a biting chill, and the hand that had twitched as though reaching for something inside his coat, both returned to their places.",
+      "defect": "The draft makes Huginn’s eyes physically “return to their places” and specifies a coat where the source only says something within his clothing or breast.",
+      "id": "F04",
+      "rationale": "The source depicts both threatening signs subsiding: the chill leaves his gaze, and his reaching hand returns to rest without identifying the garment or concealed object.",
+      "replacement": "His golden eyes lost their icy chill, and the hand that had twitched as if to retrieve something from inside his clothes settled back where it had been.",
+      "severity": "minor",
+      "source": "시린 한기를 내뿜던 황금빛 눈동자도, 품 안의 무언가를 꺼내기 위해 움찔거리던 손도 제자리를 되찾는다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I licked my lips at his clean admission.",
+      "defect": "“Licked my lips” changes the physical gesture and suggests eager relish, while 입맛을 다셨다 is lip-smacking that here leads into Jin’s disappointment at not getting to break Huginn’s monocle.",
+      "id": "F05",
+      "rationale": "The replacement preserves both the small physical action and the sense that Huginn conceded cleanly and without further resistance.",
+      "replacement": "I smacked my lips at his straightforward acknowledgment.",
+      "severity": "minor",
+      "source": "깔끔한 인정에 나는 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Do you remember what Mr. Johnson said in Area A?”",
+      "defect": "The draft omits that Area A belonged to Ares Guild, weakening the location’s connection to the suspected leak.",
+      "id": "F06",
+      "rationale": "아레스 길드의 explicitly identifies the facility, which matters to Team Leader Choi’s reasoning about how the secret may have escaped.",
+      "replacement": "“Do you remember what Mr. Johnson said in Ares Guild’s Area A?”",
+      "severity": "minor",
+      "source": "기억나십니까? 아레스 길드의 A구역에서 미스터 존슨이 했던 말들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If it became known that a man who possessed the awe of the entire world and power considered beyond anyone’s reach was unable to step forward, the enemies hiding in the shadows would not hesitate to attack.",
+      "defect": "A person cannot naturally “possess the awe of the entire world”; the source says Cheon Taemin is revered worldwide.",
+      "id": "F07",
+      "rationale": "The replacement correctly assigns the world’s awe to its attitude toward Cheon Taemin while preserving the separate claim about his unrivaled power.",
+      "replacement": "If it became known that a man revered throughout the world and said to possess power no one could rival was unable to step forward, the enemies hiding in the shadows would not hesitate to attack.",
+      "severity": "minor",
+      "source": "전 세계의 경외와 누구도 범접할 수 없다고 평가된 무력을 갖춘 그가 나설 수 없는 상황이라는 것이 알려진다면, 그림자에 숨어 있는 적들은 공격을 망설이지 않을 것이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "For a moment, I couldn’t find anything to say. As I stood there stammering like an idiot, the smile around Team Leader Choi’s mouth deepened.",
+      "defect": "The draft replaces the specific Korean literary allusion 벙어리 삼룡이 with “an idiot,” losing the reference and adding an implication of stupidity absent from the source.",
+      "id": "F08",
+      "rationale": "The source compares Jin’s speechless stammering to a recognizable literary character, not to an unintelligent person; a concise footnote preserves that culturally specific image.",
+      "replacement": "For a moment, I couldn’t find anything to say. As I stood there stammering like Samryong the Mute,[^2] the smile around Team Leader Choi’s mouth deepened.\n\n[^2]: Samryong the Mute is the title character of a well-known Korean short story by Na Do-hyang.",
+      "severity": "minor",
+      "source": "나는 순간 대답할 말을 찾지 못했고, 벙어리 삼룡이처럼 어버버 거리는 내 모습에 최 팀장의 입가에 맺힌 미소가 짙어졌다."
+    }
+  ],
+  "summary": "Several localized fidelity and natural-English issues, including an omitted location qualifier, altered physical actions, and a lost literary allusion.",
+  "version": 1
+}

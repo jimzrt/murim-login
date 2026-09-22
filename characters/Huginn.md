@@ -1,6 +1,6 @@
 # Huginn (후긴)
 
-- **Safe through:** Chapter 731
+- **Safe through:** Chapter 732
 - **Aliases:** None
 - **Role:** Huginn is a powerful Odin Guild messenger and trusted field operative who serves its Guild Master under an undisclosed real name.
 - **Personality:** Polished, condescending, calculating, overconfident, and absolutely loyal to his Guild Master.
