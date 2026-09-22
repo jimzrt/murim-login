@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Hmm. But then you’d have to wait too long, wouldn’t you?”",
+      "defect": "The subject is reversed. Taekyung is complaining that he himself would have to wait too long if he called for the ships only after finishing his business, not that the Deputy Stronghold Lord would have to wait.",
+      "id": "F01",
+      "rationale": "The omitted Korean subject is resolved by Taekyung’s concern about securing transportation for his return, and the coercive joke depends on his treating his own waiting time as decisive.",
+      "replacement": "“Hmm. But then I’d have to wait way too long.”",
+      "severity": "critical",
+      "source": "“음. 킹치만 그럼 너무 오래 기다려야 하는걸?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Then again, he’d been forced to bang his head against the ground and do push-ups whenever I got bored in front of his men. He probably really was happy to say goodbye today.",
+      "defect": "The draft turns 심심하면, meaning something done habitually or at the drop of a hat, into the invented claim that Taekyung punished him specifically whenever Taekyung became bored. It also converts the disciplinary position 엎드려 뻗쳐 into completed push-ups.",
+      "id": "F02",
+      "rationale": "The source emphasizes the Deputy Stronghold Lord’s repeated humiliation without assigning Taekyung boredom as its cause, and it refers to assuming or holding the punishment position rather than necessarily performing push-ups.",
+      "replacement": "Then again, he’d had to bang his head against the ground and hold a push-up position in front of his men at the drop of a hat. He probably really was happy to say goodbye today.",
+      "severity": "major",
+      "source": "하긴 수하들 앞에서 심심하면 대가리도 박고, 엎드려 뻗친 적도 있으니 오늘의 헤어짐이 행복하긴 할 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> Nanman is a perilous land with erratic weather, countless venomous beasts, and poisonous creatures. Outsiders must always beware of endemic diseases and poison.",
+      "defect": "The draft makes the wild beasts themselves venomous. The source separately lists 맹수, wild or ferocious beasts, and 독물, venomous creatures.",
+      "id": "F03",
+      "rationale": "This preserves the source’s two distinct categories of danger and renders 갖가지 as “all manner of” rather than changing it to a quantity.",
+      "replacement": "> Nanman is a perilous land with erratic weather, filled with all manner of wild beasts and venomous creatures. Outsiders must always beware of endemic diseases and poison.",
+      "severity": "major",
+      "source": "- 남만은 날씨가 어지럽고, 갖가지 맹수와 독물들로 가득한 험지(險地). 외부인은 늘 이곳의 풍토병과 독을 조심해야 합니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "As if the Bai people hadn’t been given that name for nothing, an ethnic tribesman dressed in white glared at us with a menacing look before disappearing from sight.",
+      "defect": "The English retains the structure of the joke but omits the information that Bai means “White,” leaving readers unable to understand why the man’s white clothing validates the name.",
+      "id": "F04",
+      "rationale": "The source explicitly links the ethnonym 白族 to the man’s white clothes; supplying the name’s meaning preserves that wordplay without adding plot information.",
+      "replacement": "Living up to the name Bai, or “White,” a tribesman dressed in white glared menacingly at us before disappearing from sight.",
+      "severity": "major",
+      "source": "백족(白族)이라는 이름이 괜히 붙여진 것이 아니듯, 흰옷을 걸친 이민족 사내가 흉흉한 눈빛으로 우리를 노려보고 사라진다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> Acquired: **Advanced Antidote** ×10, **Intermediate Antidote** ×20, **Basic Antidote** ×30!\n\nA new Chain Quest has been created.\n\nWould you like to check the Quest window?\n\nY / N",
+      "defect": "The final three consecutive System notices are placed outside the existing System blockquote, even though no prose intervenes.",
+      "id": "F05",
+      "rationale": "All consecutive game notices belong inside the same System-message window under the packet’s Markdown rules.",
+      "replacement": "> Acquired: **Advanced Antidote** ×10, **Intermediate Antidote** ×20, **Basic Antidote** ×30!\n>\n> A new Chain Quest has been created.\n>\n> Would you like to check the Quest window?\n>\n> Y / N",
+      "severity": "minor",
+      "source": "- [상급 해독제]x10. [중급 해독제]x20. [하급 해독제]x30을 획득했습니다!\n\n\n\n새로운 연계 퀘스트가 생성되었습니다.\n\n퀘스트 창을 확인하시겠습니까?\n\nY / N"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“We’re going to Yeongin.”",
+      "defect": "Yeongin is a newly introduced, unlisted place name romanized from Korean without identifying the supplied characters or the location for English readers.",
+      "id": "F06",
+      "rationale": "A concise first-use footnote resolves the unlisted toponym while retaining the draft’s consistent romanization and using only information disclosed in this chapter.",
+      "replacement": "“We’re going to Yeongin.[^1]”\n\n[^1]: Yeongin (永仁) is a county seat in Yunnan.",
+      "severity": "minor",
+      "source": "“영인(永仁)으로 간다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "After the great war that had shaken the world came to an end, people gradually grew accustomed to peace.\n\nBut there were others who did not.",
+      "defect": "The established term 대전쟁 is rendered as the generic lowercase “great war” rather than the binding name “Great War.”",
+      "id": "F07",
+      "rationale": "The exact glossary maps 대전쟁 to “Great War”; capitalization distinguishes the named conflict from an ordinary descriptive phrase.",
+      "replacement": "After the Great War that had shaken the world came to an end, people gradually grew accustomed to peace.\n\nBut there were others who did not.",
+      "severity": "minor",
+      "source": "천하를 뒤흔든 대전쟁이 끝나고, 사람들은 서서히 평화에 젖어 들었지만 그렇지 않은 이들 역시 있었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one reversed subject, a characterization-changing causal addition, a mistranslated environmental hazard, omitted Bai wordplay, and several terminology or formatting issues.",
+  "version": 1
+}

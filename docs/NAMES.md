@@ -1970,3 +1970,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 불밥 할아버지 | **Fire-Rice Grandpa** | Jin Taekyung's humorous nickname for Jeok Cheongang. |
 | 장필 | **Jang Pil** | Water Dragon Stronghold subordinate who reveals Mu Song's warning. |
 | 포청천 | **Judge Bao** | Legendary magistrate invoked as a comparison for the Deputy Stronghold Lord. |
+| 영인 | **Yeongin** | Remote county seat in Yunnan and the party's immediate destination. |
+| 백족 | **Bai people** | Ethnic group encountered in Yeongin. |
+| 독화루 | **Poison Flower Pavilion** | Derelict wooden building serving as the Hidden Shadow Pavilion contact location. |
