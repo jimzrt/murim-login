@@ -1,6 +1,6 @@
 # White Tiger (백호)
 
-- **Safe through:** Chapter 696
+- **Safe through:** Chapter 697
 - **Aliases:** Whitey
 - **Role:** The White Tiger is the guardian spirit of the sacred stone, restored to its former silver-white tiger form and leading Jin Taekyung and the vast beast army into the Outer Palace.
 - **Personality:** Irritable and contemptuous of Jin Taekyung's jokes.

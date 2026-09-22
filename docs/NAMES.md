@@ -2108,3 +2108,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 북문 | **North Gate** | The gate where Jin Taekyung and Yohi arrive. |
 | 남문 | **South Gate** | A gate that was never built because of the rear cliff. |
 | 흰둥아 | **Whitey** | Jin Taekyung's teasing address for the White Tiger. |
+| 균열 | **rift** | The dark rift opening in the cliff behind the Inner Palace. |
+| 진화 | **evolution** | The transformation the Southern Heaven Demon Empress claims the rift will produce. |
+| 가기 | **singing courtesan** | The favored entertainer identity Honglan used in Hubei. |

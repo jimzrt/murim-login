@@ -1,8 +1,8 @@
 # Southern Heaven Demon Empress (남천마후)
 
-- **Safe through:** Chapter 695
+- **Safe through:** Chapter 697
 - **Aliases:** None
-- **Role:** The Southern Heaven Demon Empress is the strategist directing Baeksang's defense of Nanman's Inner and Outer Palaces while advancing a grand plan scheduled to begin within three days.
+- **Role:** The Southern Heaven Demon Empress is Honglan, the former Lower District Sect singing courtesan, and the creator of the massive rift behind Nanman's Inner Palace that releases demonic qi under the will of the Lord of Heaven.
 - **Personality:** Playful, cruel, confident, and casually dismissive of mass death and the suffering of others.
 - **Voice:** Light, taunting, amused, and delighted even when discussing murder or imminent catastrophe.
 - **Relationships:** She commands and advises Baeksang, treats Jin Taekyung and Yayul Cheok as expendable to the grand plan, and regards Jin's destruction of her trap with amused surprise.
