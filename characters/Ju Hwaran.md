@@ -1,6 +1,6 @@
 # Ju Hwaran (주화란)
 
-- **Safe through:** Chapter 625
+- **Safe through:** Chapter 626
 - **Aliases:** Hwaran
 - **Role:** Ju Hwaran is a Level 88 Young Bureau Head, leader of the Yongbong Escort Bureau, a member of the Fire Dragon Pavilion, an experienced Nanman escort guide with route knowledge from the Escort King's records, and someone who can understand the Miao and Bai languages.
 - **Personality:** Intelligent, capable, responsible, filial, composed under pressure, and burdened by intense guilt over the escort journey's deaths.

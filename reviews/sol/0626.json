@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "You mean those white guys, right?",
+      "defect": "The neutral phrase “white guys” loses the deliberately rude, jarring force of 흰둥이들, which prompts Namho to repeat the word in discomfort.",
+      "id": "F01",
+      "rationale": "흰둥이들 is a disparaging label rather than a neutral description, and the following response depends on its abrasive register.",
+      "replacement": "You mean those whiteys, right?",
+      "severity": "major",
+      "source": "그 흰둥이들 말하는 거죠?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Huh? Should I lay down a nice fire on the way back?",
+      "defect": "The vague phrase “lay down a nice fire” sanitizes the aggressively vulgar threat conveyed by 싸질러.",
+      "id": "F02",
+      "rationale": "싸질러 is intentionally crude here, reinforcing Taekyung’s escalating provocation rather than merely describing the act of setting a fire.",
+      "replacement": "Huh? Want me to start a nice fucking fire on the way back?",
+      "severity": "major",
+      "source": "어? 돌아가는 길에 불 한번 시원하게 싸질러 줘?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I heard Han Chinese are suspicious by nature, and it seems that was true.",
+      "defect": "The translation omits 놈들, removing Yayul Mok’s openly insulting reference to the Han Chinese.",
+      "id": "F03",
+      "rationale": "놈들 is a hostile insult, and preserving it is necessary for Yayul Mok’s anger and his antagonistic relationship with Taekyung.",
+      "replacement": "I heard you Han bastards were suspicious by nature, and it seems that was true.",
+      "severity": "major",
+      "source": "내 듣기로 한족 놈들은 의심이 많다더니 정말이었군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yayul Cheok was your father? Not your grandfather or great-grandfather?",
+      "defect": "The established respectful title 대협 is omitted, flattening Taekyung’s manner of referring to the elderly martial master.",
+      "id": "F04",
+      "rationale": "대협 explicitly marks martial respect and is binding terminology; the joke concerns Yayul Cheok’s age, not a lapse into disrespect.",
+      "replacement": "Great Hero Yayul Cheok was your father? Not your grandfather or great-grandfather?",
+      "severity": "major",
+      "source": "야율척 대협이 네 아버지였어? 할아버지나 증조할아버지가 아니라?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "What does that mean? Is he actually insane?",
+      "defect": "The third-person pronoun makes Yayul Mok appear to ask about someone else rather than directly insulting the person speaking to him.",
+      "id": "F05",
+      "rationale": "The omitted Korean subject is Taekyung, Yayul Mok’s interlocutor; the exchange remains direct throughout.",
+      "replacement": "What does that mean? Are you actually insane?",
+      "severity": "critical",
+      "source": "무슨 말이지? 진짜 미친놈인가?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That is none of an outsider like you—!",
+      "defect": "The English is grammatically malformed and obscures the meaning of 신경 쓸 바가 아니다.",
+      "id": "F06",
+      "rationale": "The source says the matter is not something an outsider like Taekyung should concern himself with; the interruption should leave a natural but unfinished English sentence.",
+      "replacement": "That is no concern of an outsider like you—!",
+      "severity": "minor",
+      "source": "그건 네놈 같은 외부인이 신경 쓸 바가 아니……!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Why would a man who had participated in the Great Faction War, a childhood buddy of the Beast Miao King—close enough to be his ball-brother—oppose joining the alliance?",
+      "defect": "“Ball-brother” is an unnatural literal calque that obscures the established sworn-brother relationship and fails to convey that Baeksang is the younger of the pair.",
+      "id": "F07",
+      "rationale": "불알 동생 combines the intimacy of a lifelong childhood friend with the younger-brother side of their sworn relationship; it does not denote a distinct relationship called a “ball-brother.”",
+      "replacement": "Why would a man who had fought in the Great Faction War—the Beast Miao King’s childhood best friend and sworn younger brother—oppose joining the alliance?",
+      "severity": "major",
+      "source": "정마대전에도 참여했던 그가, 야수묘왕과 어릴 적부터 함께 자란 불알 동생이 무슨 이유로 입맹을 반대하는 것인지."
+    },
+    {
+      "confidence": 0.95,
+      "current": "His words said otherwise, but his heart felt bitter.",
+      "defect": "“Felt bitter” suggests resentment, while 쓰렸다 describes emotional pain beneath his claim that everything is fine.",
+      "id": "F08",
+      "rationale": "The following passage emphasizes that Baeksang’s repeated rejection pains the Beast Miao King, not that he resents Baeksang.",
+      "replacement": "Despite what he said, his heart ached.",
+      "severity": "minor",
+      "source": "대답과는 달리 속마음은 쓰렸다."
+    }
+  ],
+  "summary": "Several register and hierarchy cues are weakened, one line assigns the question to the wrong grammatical subject, and one relationship description is rendered as an unnatural literal calque.",
+  "version": 1
+}

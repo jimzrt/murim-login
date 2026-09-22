@@ -1983,3 +1983,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마장동 | **Majang-dong** | Seoul district associated with livestock and meat markets. |
 | 야율목 | **Yayul Mok** | Young Palace Lord of the Nanman Beast Palace. |
 | 야율척 | **Yayul Cheok** | Beast Miao King and lord of the Nanman Beast Palace. |
+| 백상 | **Baeksang** | Great chieftain of the Bai people and Yayul Cheok's sworn younger brother. |
+| 강태공 | **Jiang Taigong** | Legendary fisherman used as a comparison for Taekyung's baiting skill. |
+| 진드로 | **Jindro** | Taekyung's comic self-styled nickname for a fisherman who catches people. |
