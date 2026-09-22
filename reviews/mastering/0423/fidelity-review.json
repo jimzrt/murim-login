@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Compressed air exploded beneath my feet, launching me at terrifying speed toward its plummeting figure.",
+      "defect": "The source describes the sound of compressed air bursting accompanying the launch; it does not establish an actual explosion beneath the narrator's feet or make that explosion the launch mechanism.",
+      "id": "F01",
+      "rationale": "The Korean uses 압축된 공기가 터져나가는 소리와 함께, explicitly framing this as a sound, then separately states that the narrator shot toward the Arch Lich.",
+      "replacement": "With the sound of compressed air bursting, I shot toward the Arch Lich’s rapidly falling body at terrifying speed.",
+      "severity": "minor",
+      "source": "Lines 9–11"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Before my all-out Flame-Extinguishing Divine Fist could connect, it had covered its face with a Bone Shield.",
+      "defect": "The explicit causal purpose of the Bone Shield—protecting itself—is omitted.",
+      "id": "F02",
+      "rationale": "스스로를 보호했다 directly states that the Arch Lich overlaid the shield in order to protect itself; the current line only describes the physical action.",
+      "replacement": "Before my all-out Flame-Extinguishing Divine Fist could connect, it had covered its face with a Bone Shield to protect itself.",
+      "severity": "minor",
+      "source": "Lines 21–25"
+    },
+    {
+      "confidence": 0.88,
+      "current": "The next instant, its hand of dark, weathered bone clawed through the air.",
+      "defect": "“Weathered bone” changes 거무튀튀한 뼈마디 into aged or eroded bone and drops the source's physical detail of segmented bone joints.",
+      "id": "F03",
+      "rationale": "거무튀튀한 describes a dull, dingy darkness, while 뼈마디 specifies the jointed or segmented bone structure forming the hand.",
+      "replacement": "The next instant, its hand, made of dark, dingy bone segments, clawed through the air.",
+      "severity": "minor",
+      "source": "Lines 49–55"
+    },
+    {
+      "confidence": 0.91,
+      "current": "That spear in your chest looks good on you. Want me to plant another one?",
+      "defect": "“Looks good on you” shifts the joke from calling the spear itself pretty to saying that the spear suits the Arch Lich, changing the source's deadpan object-focused taunt.",
+      "id": "F04",
+      "rationale": "가슴에 박힌 창, 예쁘네 directly calls the spear pretty; the follow-up offers to add another spear, preserving the blunt joke about the weapon rather than its suitability to the wearer.",
+      "replacement": "That spear stuck in your chest is pretty. Want me to plant another one?",
+      "severity": "minor",
+      "source": "Lines 261–264"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but a few mastered lines add or lose source-specific physical, causal, or joke detail.",
+  "version": 1
+}

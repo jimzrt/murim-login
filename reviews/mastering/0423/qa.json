@@ -1,0 +1,55 @@
+{
+  "chapter": 423,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.022,
+    "source_characters": 5782,
+    "source_paragraphs": 176,
+    "translation_characters": 11690,
+    "translation_paragraphs": 181
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "내상",
+        "preferred": "Internal Injury"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "개방",
+        "preferred": "Beggars' Sect"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전하",
+        "preferred": "His Highness"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소하",
+        "preferred": "Xiao He"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

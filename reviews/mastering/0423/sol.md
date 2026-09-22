@@ -28,7 +28,7 @@ And sure enough, the Arch Lich abruptly stopped in midair after plummeting like 
 
 *Fwoooooosh!*
 
-A pair of enormous hands burst out of thin air. At a glance, they looked similar to Dark Hand, but as its name implied, Darkness Hold was a spell designed solely to bind its target.
+A pair of enormous hands burst out of thin air. At a glance, they resembled Dark Hands, but as its name implied, Darkness Hold was a spell designed solely to bind its target.
 
 I brought my spear down toward the two hands hurtling at me.
 
@@ -102,7 +102,7 @@ But there were no take-backs now.
 
 A violent gust swept over my entire body.
 
-It was not an illusion like Bone Spear, nor was it slow enough to block. I twisted my body as much as possible and gathered my internal energy, but there was a definite limit.
+The claws were no illusions like the Bone Spears, nor were they slow enough to block. I twisted as far as I could and raised my internal energy, but there was only so much I could do.
 
 *Shhk! Shhk! Shhk! Shraaaak!*
 
@@ -112,11 +112,11 @@ Countless claws of mana slashed and raked across my entire body. Blood burst fro
 
 *Damn it.*
 
-It hurt. Enough to kill me.
+It hurt enough to kill me.
 
 Enough to make me want to die.
 
-No matter how many times I experienced it, pain was something that was difficult to grow accustomed to.
+No matter how many times I went through it, pain was something I could never get used to.
 
 My vision blurred, and the strength drained from my body before I realized it.
 
@@ -130,7 +130,7 @@ When I finally opened my eyes, the first thing I saw was an enormous pile of con
 
 The Skeleton Warlord’s frantic shout snapped me back to my senses.
 
-I forced internal energy into my stiffened body. Along with the tearing pain in my acupoints, the senses that had fallen asleep awakened.
+I forced internal energy into my rigid body. My acupoints felt as though they were being torn apart, but my numbed senses awakened.
 
 *Now!*
 
@@ -138,7 +138,7 @@ Without a moment’s hesitation, I flipped over in midair.
 
 *Crash!*
 
-A thunderous roar rose with a cloud of dust. Violent vibrations and pain slowly crawled up the leg with which I landed roughly on the concrete pile.
+A cloud of dust billowed up with a thunderous roar. I landed hard atop the pile of concrete, and violent tremors and pain crept up my legs.
 
 “Urgh.”
 
@@ -222,13 +222,13 @@ It happened in an instant.
 
 A black thorny vine sprang from between the slabs of concrete and struck my wrist. In the slowed world, the top-grade potion flew from my hand and vanished beyond the pale haze.
 
-I stared blankly at the few drops of potion scattered through the air as they soaked into the ground. Then I suddenly spoke.
+I stared blankly as the few drops scattered through the air soaked into the ground, then spoke.
 
 “Dark Vine.”
 
-Someone’s all-too-familiar magic.
+All-too-familiar magic.
 
-The Skeleton Warlord muttered like it was groaning.
+The Skeleton Warlord groaned.
 
 —It is him.
 
@@ -242,7 +242,7 @@ Its low voice seethed with unmistakable fury.
 
 Deep within my Inventory, the Skeleton Warlord trembled. I smiled faintly.
 
-“You son of a bitch. You stole the food right out of my mouth.”
+“You son of a bitch. You snatched it right out of my mouth.”
 
 —Your futile struggle ends here.
 
@@ -254,9 +254,9 @@ I did not even have time to reach out. The Arch Lich snapped its fingers, and Da
 
 The mana surrounding the Arch Lich reacted to every word it spoke.
 
-But just as I had suffered a severe injury, the power it emitted was also weaker than before.
+But just as I was severely injured, the energy pouring from it was far weaker than before.
 
-The White Flame piercing the center of its chest had to be the decisive cause.
+White Flame piercing the center of its chest was undoubtedly the reason.
 
 *I can do this.*
 
@@ -286,9 +286,9 @@ It was unstable, as if it might explode at any moment, but it had unmistakably t
 
 The Arch Lich’s next words confirmed my suspicions.
 
-—It is not yet complete, but… if I can merely bring you down, I should be able to complete everything.
+—It is not yet complete, but… once I bring you down, I will be able to complete everything.
 
-At the same time, a low voice that seemed to come from the heavens reverberated through the space.
+At the same time, a low voice that seemed to descend from the heavens reverberated through the air.
 
 —Descend upon this place. Gate Open.
 
@@ -296,7 +296,7 @@ At the same time, a low voice that seemed to come from the heavens reverberated 
 
 I had to stop it somehow. But pain slowed my body, and the change had already begun.
 
-I stared wide-eyed at the sight that unfolded the next moment.
+My eyes widened at the sight that unfolded the next moment.
 
 *Kwaaaaaaaaaaang!*
 
@@ -314,7 +314,7 @@ As tall as a high-rise and wider than a soccer field, it dwarfed every Gate I ha
 
 Even the Skeleton Warlord, an undead monster, trembled before it.
 
-I stood there with my mouth hanging open, staring blankly at the Gate. Then I suddenly realized something I had forgotten.
+I could only stare at the Gate with my mouth hanging open. Then I remembered what I had forgotten.
 
 *I have to stop it. No matter what.*
 
@@ -324,7 +324,7 @@ Millions—perhaps tens of millions—could die.
 
 And among them…
 
-Some might be my people.
+There might be people I cared about.
 
 Team Leader Choi, out on the battlefield. Xiao Shen, whom I had grown attached to despite our short time together.
 
