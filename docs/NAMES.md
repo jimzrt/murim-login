@@ -1992,3 +1992,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 요족 | **Yao people** | One of Nanman's four great tribes, led by Yohi. |
 | 요희 | **Yohi** | Female great chieftain of the Yao people. |
 | 흑웅 | **Heugung** | Great chieftain of the Yi people; his name literally means Black Bear. |
+| 화왕손파이 | **Fire King hand pie** | Jin's joking description of Baeksang's old burn scar. |
+| 풍둔 주둥아리룡 | **Wind Style: Mouth Dragon** | Jin's invented self-mocking sobriquet. |
+| 백호 | **White Tiger** | Yayul Mok's tiger companion. |
+| 내궁 | **Inner Palace** | The inner compound of the Nanman Beast Palace. |
