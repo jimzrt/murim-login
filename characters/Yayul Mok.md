@@ -1,6 +1,6 @@
 # Yayul Mok (야율목)
 
-- **Safe through:** Chapter 716
+- **Safe through:** Chapter 717
 - **Aliases:** None
 - **Role:** Yayul Mok is the non-Han Young Palace Lord of the Nanman Beast Palace, a spear-wielding warrior who rides a white tiger and speaks Han Chinese haltingly but capably; he is currently occupied with rebuilding the damaged Palace.
 - **Personality:** Protective of Nanman Beast Palace livestock, quick-tempered toward trespassers, and capable of restraint once he recognizes legitimate authority.

@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“What could they do? He isn’t some stray dog bone that rolled in from who knows where. When the Fire King of the world tells them to drop everything, they have to drop everything.”",
+      "defect": "The literal phrases “stray dog bone” and “Fire King of the world” are unnatural in English and weaken the contrast between an irrelevant nobody and the renowned Fire King.",
+      "id": "F01",
+      "rationale": "The source dismisses the possibility that the order came from an unknown nobody and emphasizes the Fire King’s overwhelming stature.",
+      "replacement": "“What choice did they have? This wasn’t some nobody who’d crawled in off the street. The great Fire King himself told them to drop everything.”",
+      "severity": "minor",
+      "source": "뭐 어쩌겠느냐. 어디서 굴러먹다 왔는지도 모를 개뼈다귀도 아니고. 천하의 화왕(火王)이 죄다 집어치우라는데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Namho stared at me silently, then clicked his tongue.",
+      "defect": "The physical action is altered: 입맛을 다셨다 means he smacked his lips, not that he clicked his tongue.",
+      "id": "F02",
+      "rationale": "The source specifies a lip-smacking gesture, and preserving the small action avoids changing Namho’s reaction.",
+      "replacement": "Namho stared at me silently, then smacked his lips.",
+      "severity": "minor",
+      "source": "말없이 나를 바라보던 남호가 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Do you call that an answer? Of course……”",
+      "defect": "Namho is responding to Taekyung’s question, not criticizing an answer; the current wording reverses the conversational role of the preceding line.",
+      "id": "F03",
+      "rationale": "The Korean is a dismissive rhetorical response meaning that the answer should be obvious, which sets up Namho’s aborted declaration.",
+      "replacement": "“Why would you even ask? Of course…”",
+      "severity": "minor",
+      "source": "“그걸 지금 말이라고 하느냐? 당연히…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Smack.*\n\nI slapped my cheeks and stretched.",
+      "defect": "The draft intensifies 두드린 from patting or tapping his cheeks into slapping them.",
+      "id": "F04",
+      "rationale": "The source describes an audible, bracing pat rather than a forceful slap.",
+      "replacement": "*Smack.*\n\nI patted my cheeks and stretched.",
+      "severity": "minor",
+      "source": "짝.\n\n소리 내서 뺨을 두드린 나는 기지개를 쭉 켰다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "When the figure at the front stepped forward and removed his mask, the face of a pleasant-looking man was revealed.",
+      "defect": "“Pleasant-looking” ordinarily describes physical attractiveness or appearance, while 성격 좋아 보이는 specifically conveys that he looks good-natured.",
+      "id": "F05",
+      "rationale": "The source characterizes the impression given by the man’s temperament, not merely his looks.",
+      "replacement": "When the figure at the front stepped forward and removed his mask, the face of a good-natured-looking man was revealed.",
+      "severity": "minor",
+      "source": "한 걸음 앞으로 나선 선두의 인영이 가면을 벗자 성격 좋아 보이는 사내의 얼굴이 드러난다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Now that no one is looking for this place, it is perfect for a private conversation.”",
+      "defect": "“Looking for this place” implies an active search, whereas the source means that no one visits or seeks out this abandoned location anymore.",
+      "id": "F06",
+      "rationale": "The following narration confirms that the overgrown, pathless location simply receives no visitors.",
+      "replacement": "“Now that no one comes here anymore, it is perfect for a private conversation.”",
+      "severity": "minor",
+      "source": "“이제는 누구도 찾지 않는 곳이니 밀담(密談)을 나누기에는 적격이지요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Because I failed to protect them. The countless tribespeople who followed me, and my one and only sworn brother, who suffered in the place closest to me.”",
+      "defect": "“Suffered in the place closest to me” is an opaque spatial calque that obscures the intimate and immediate proximity of the Beast Miao King’s sworn brother.",
+      "id": "F07",
+      "rationale": "가장 가까운 곳에서 conveys that his sworn brother was suffering at his very side, which is central to the Beast Miao King’s guilt.",
+      "replacement": "“Because I failed to protect them. The countless tribespeople who followed me, and my one and only sworn brother, who suffered right beside me.”",
+      "severity": "major",
+      "source": "“지키지 못했기 때문이다. 나를 따르는 수많은 부족민을, 그리고 가장 가까운 곳에서 고통받던 내 하나뿐인 의형제를.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but several localized action, register, and phrasing errors remain, including one passage that obscures the Beast Miao King’s relationship to his sworn brother.",
+  "version": 1
+}
