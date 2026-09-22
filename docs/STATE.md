@@ -1,29 +1,28 @@
 # Translation State
 
-- Last completed: 677
-- Next chapter: 678
-- Current block: 675–679 (3/5)
-- Latest translation: `translations/0677.md`
-- Latest summary: `summaries/beats/0677.md`
-- Safe profiles through: chapter 677
+- Last completed: 678
+- Next chapter: 679
+- Current block: 675–679 (4/5)
+- Latest translation: `translations/0678.md`
+- Latest summary: `summaries/beats/0678.md`
+- Safe profiles through: chapter 678
 
 ## Current Block
 
-- Black Hand tortures the captive Yohi and Heugung, revealing that Yohi knowingly ignored her growing suspicions of Baeksang's ties to Dark Heaven while benefiting from his gold and influence. He exposes Dark Heaven's manipulation of the Yao succession and reveals that the Southern Heaven Demon Empress covets Yohi, but is stopped from killing the captives by a colder, more senior old monster. Jin Taekyung's rampage through the Poisonblood Grounds draws out Black Hand and the cold old man, both Supreme Peak masters who attack him despite his demand to fight them one at a time.
+- Jin Taekyung confronts two Supreme Peak masters in the Poisonblood Grounds. The disheveled master identifies himself as the Black Hand Fist Demon, confirms that he carried out the Western Yao Estate killings, and reveals that Yohi and Heugung are being held until the Southern Heaven Demon Empress returns. The slender master warns that the Demon Empress considers Jin a future obstacle. Jin awakens the fire dragon within his dantian and prepares to fight both enemies as the slender master launches twin wheels. Meanwhile, Namho and the remaining companions catch up with the Nanman reconnaissance squad advancing toward the northern border.
 
 ## Open Questions
 
-- Who is the cold old man who commands Black Hand?
-- What is the great undertaking ordered by the Southern Heaven Demon Empress?
-- Can Jin Taekyung survive or defeat the two Supreme Peak masters?
-- How directly did Baeksang participate in the deaths that enabled Yohi's succession?
-- Can Jin rescue Yohi and Heugung before Dark Heaven carries out its plans?
+- What is the identity and full strength of the slender Supreme Peak master?
+- Can Jin survive the two-master battle and prevent the Southern Heaven Demon Empress from reaching Yohi and Heugung?
+- Can Jin protect Muyaho during the fight?
+- What will Namho and the reconnaissance squad do after reaching the northern border?
 
 ## Exceptional Decision
 
-- Use Black Hand for 흑수.
-- Render 마후 as the Demon Empress when used without the full Southern Heaven title.
-- Preserve Black Hand's archaic first-person voice and predatory insults.
+- Use Black Hand Fist Demon for 흑수권마 while retaining Black Hand for 흑수.
+- Preserve Jin's abrupt register changes and profanity as deliberate psychological provocation.
+- Render 쌍륜 as twin wheels.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
