@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 628
-- Next chapter: 629
-- Current block: 625–629 (4/5)
-- Latest translation: `translations/0628.md`
-- Latest summary: `summaries/beats/0628.md`
-- Safe profiles through: chapter 628
+- Last completed: 629
+- Next chapter: 630
+- Current block: 625–629 (5/5)
+- Latest translation: `translations/0629.md`
+- Latest summary: `summaries/beats/0629.md`
+- Safe profiles through: chapter 629
 
 ## Current Block
 
-- Yayul Mok angrily rejects the Murim Alliance's request for Nanman's help, citing the massacre of more than two hundred Miao civilians and Nanman's past sacrifices for the Han Chinese. Jin Taekyung argues that the Great Faction War was not pointless and that he came not as a diplomat but as a firefighter responding to a spreading crisis, promising to try persuasion without demanding anything in return. Yayul Mok explains that the first tribal council already opposed joining the alliance and that, in three days, all thirty-two tribes will meet; Baeksang and two other great chieftains have already united against the proposal, leaving Yayul Cheok as the only major holdout. Jin remains calm about the uncertain outcome and ends by demanding that Nanman feed him properly.
+- Jin Taekyung gets lost while returning to the Fire Dragon Pavilion's lodging, blends into the Nanman Beast Palace's Outer Hall using Mungyeong's concealment technique, and steals a crudely made tiger mask to hide his Han Chinese appearance. He learns that the Yi and Yao great chieftains have returned from a beast-subjugation campaign, then watches their victory procession and sees the Yao great chieftain Yohi, whose eyes light up when she notices him.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - What is the meaning of Baeksang's cold scrutiny of Jin Taekyung?
 - Will Yayul Cheok overcome the other great chieftains' opposition and bring the Nanman Beast Palace into the Murim Alliance?
 - Will the remaining tribes follow Baeksang and the other opposing great chieftains at the council in three days?
-- Was the timing of the Heavenly Demon Escort Bureau massacre connected to Dark Heaven's scheme?
+- Why did Yohi react so strongly after noticing Jin Taekyung?
 
 ## Exceptional Decision
 
