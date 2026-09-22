@@ -1,6 +1,6 @@
 # Wang Ho (왕호)
 
-- **Safe through:** Chapter 705
+- **Safe through:** Chapter 706
 - **Aliases:** None
 - **Role:** Wang Ho is the Commander of the Baekcheon Unit and leads its three hundred white-armored Bai warriors and beasts under Yayul Cheok.
 - **Personality:** Not established.

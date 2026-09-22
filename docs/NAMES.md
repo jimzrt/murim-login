@@ -2123,3 +2123,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 왕호 | **Wang Ho** | Commander of the Baekcheon Unit who arrives leading white-armored reinforcements. |
 | 문산 | **Wenshan** | Mountain location northeast of the Nanman Beast Palace and refuge of the Baekcheon Unit. |
 | 태족 | **Dai people** | Nanman tribal people who join Yayul Cheok. |
+| 초일류 | **Supreme First Rate** | Realm attained by each Baekcheon Unit member. |
+| 백천대주 | **Commander of the Baekcheon Unit** | Title used for Wang Ho. |
+| 신수 | **divine beast** | A more exalted category than a spiritual creature. |
+| 신병이기 | **divine weapon** | Jin's description of White Flame. |
+| 백병전 | **close-quarters battle** | The melee that follows the Baekcheon Unit's charge. |

@@ -1164,3 +1164,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 수호령 | 진태경 | guardian spirit to human ally | Human | terse and alarmed | The guardian spirit cries out to Jin as the Southern Heaven Demon Empress sends him crashing into the ground. |
 | 진태경 | 복면인 | hostile combatant to unknown hostile combatant | you | blunt, hostile, and incredulous | Jin directly questions the masked man about his identity and his relationship with the Great Snow Fiend. |
 | 왕호 | 야수묘왕 | Baekcheon Unit Commander to Nanman Beast Palace Palace Lord | Palace Lord | formal and deferential | Wang Ho bows and formally reports his arrival to the Beast Miao King. |
+| 진태경 | 백천대 전사 | ally_to_baekcheon_warrior | you | polite and encouraging | Jin rescues the warrior from a mutant and tells him to follow. |
+| 백천대 전사 | 진태경 | baekcheon_warrior_to_unknown_ally | you | polite and questioning | The warrior thanks Jin and asks who he is. |
+| 왕호 | 진태경 | baekcheon_unit_commander_to_allied_combatant | you | formal and concerned | Wang Ho catches Jin as he begins to fall and tells him to stop because the battle is over. |

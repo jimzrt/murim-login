@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I had fought like a fucking madman.",
+      "defect": "The source emphasizes the sheer amount or intensity of fighting, not that he fought in a crazed manner.",
+      "id": "F01",
+      "rationale": "존나게 intensifies how much he fought; adding “like a madman” changes the manner of his fighting.",
+      "replacement": "I had fought a fucking lot.",
+      "severity": "minor",
+      "source": "말 그대로 존나게 싸웠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With the Beast Miao King’s help, some of my Internal Injury had recovered,",
+      "defect": "The condition is incorrectly made the grammatical subject of recovery, producing unnatural English and obscuring that Taekyung partially recovered from it.",
+      "id": "F02",
+      "rationale": "내상도 일부 회복한 means that he partially recovered from his internal injury.",
+      "replacement": "With the Beast Miao King’s help, I had partially recovered from my Internal Injury,",
+      "severity": "minor",
+      "source": "야수묘왕의 도움으로 내상도 일부 회복한 데다가"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hundreds of figures riding on the back of the enormous beast shot through the darkness filling every direction and the pale cloud of dust.",
+      "defect": "The draft places hundreds of riders on the back of one enormous beast, altering the physical composition of the Baekcheon Unit’s mounted charge.",
+      "id": "F03",
+      "rationale": "The figures are mounted warriors riding the unit’s great beasts, not hundreds of people sharing a single beast’s back.",
+      "replacement": "Hundreds of figures mounted on enormous beasts shot through the surrounding darkness and the pale cloud of dust.",
+      "severity": "critical",
+      "source": "거대한 맹수의 등에 몸을 실은 수백의 인영(人影)이, 사방을 메운 어둠과 희뿌연 먼지구름을 뚫고 쏘아졌다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Whether it was the ferocity granted by the demonic qi or loyalty to the commander they wanted to protect, the guardian spirit crushed a mutant that charged out of the hazy cloud of dust and filled my vision.",
+      "defect": "The English syntax assigns the demonic ferocity and loyalty to the guardian spirit’s act of crushing the mutant. In the source, those are possible motives for the mutant’s charge.",
+      "id": "F04",
+      "rationale": "The mutant is the one potentially driven by demonic ferocity or loyalty; the guardian spirit simply destroys the attacker.",
+      "replacement": "Whether driven by the ferocity granted by demonic qi or by loyalty to the commander it sought to protect, a mutant charged out of the hazy dust cloud and filled my vision—only for the guardian spirit to crush it in a single blow.",
+      "severity": "critical",
+      "source": "마기가 주는 흉포함인지, 아니면 지휘관을 지키고자 하는 충성심 때문인지.\n\n뿌옇게 솟아오른 먼지구름 너머, 시야를 가득 메우며 달려든 변이체를 단번에 으스러트린 수호령이 되물었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Slice!\n\nWhy I was fighting the mutants, cutting without pause.\n\nStab!\n\nWhy I was bracing my legs, enduring the pain, so I would not fall from the guardian spirit’s back.\n\nCrack!\n\nWhy I was swinging my spear again and again.",
+      "defect": "The draft moves the leg-bracing thought into the middle of the cut-stab-swing sequence, separating the stab and swing and changing the source’s deliberate progression.",
+      "id": "F05",
+      "rationale": "The source first presents the uninterrupted sequence of cutting, stabbing, and swinging, then separately reflects on his painful effort to remain mounted.",
+      "replacement": "Slice!\n\nWhy I kept cutting without pause.\n\nStab!\n\nWhy I kept stabbing.\n\nCrack!\n\nWhy I kept swinging my spear as I fought the mutants.\n\nWhy, even then, I forced strength into my aching legs to keep from falling off the guardian spirit’s back.",
+      "severity": "major",
+      "source": "서걱!\n\n쉼 없이 베고.\n\n푸푹!\n\n찌르고.\n\n퍼걱!\n\n휘두르며 변이체들과 싸우고 있는 이유를.\n\n그러면서도 수호령의 등에서 떨어지지 않기 위해 고통을 호소하는 다리에 힘까지 줘 가며 버티고 있는 이유를."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Or because you want to cut off the breath of the ugly human who turned them into monsters?",
+      "defect": "“Ugly” reads as a comment on physical appearance, while 추악한 is a moral condemnation; “cut off the breath” is also an unnatural calque of the idiom for killing.",
+      "id": "F06",
+      "rationale": "추악한 means vile or morally repulsive here, and 숨통을 끊다 idiomatically means to kill.",
+      "replacement": "Or because you want to kill the vile human who turned them into monsters?",
+      "severity": "minor",
+      "source": "아니면 이들을 괴물로 만든 어느 추악한 인간의 숨통을 끊고 싶어서?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Not unless I completely cut off at least one person’s breath.",
+      "defect": "The literal phrasing is unnatural and makes the condition sound as though killing any one person would suffice, even though he has just killed many mutants and is referring obliquely to one specific remaining enemy.",
+      "id": "F07",
+      "rationale": "In context, 한 사람 points without naming her to the Southern Heaven Demon Empress; 숨통을 끊다 means to end someone’s life.",
+      "replacement": "Not until I had snuffed out one particular person’s life for good.",
+      "severity": "major",
+      "source": "적어도 한 사람의 숨통을 완전히 끊어 놓지 않는 한은."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“It’s over. Stop.”",
+      "defect": "The bare imperative flattens Wang Ho’s formal, restrained 하시오 register.",
+      "id": "F08",
+      "rationale": "The source uses a formal polite command, which is meaningful to Wang Ho’s manner of addressing Taekyung.",
+      "replacement": "“It’s over. Please stop.”",
+      "severity": "major",
+      "source": "“끝났소. 그만하시오.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains two consequential subject/mechanical errors, disrupts one action sequence, and has several localized fidelity and register issues.",
+  "version": 1
+}

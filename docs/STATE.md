@@ -1,30 +1,28 @@
 # Translation State
 
-- Last completed: 705
-- Next chapter: 706
-- Current block: 705–709 (1/5)
-- Latest translation: `translations/0705.md`
-- Latest summary: `summaries/beats/0705.md`
-- Safe profiles through: chapter 705
+- Last completed: 706
+- Next chapter: 707
+- Current block: 705–709 (2/5)
+- Latest translation: `translations/0706.md`
+- Latest summary: `summaries/beats/0706.md`
+- Safe profiles through: chapter 706
 
 ## Current Block
 
-- The Southern Heaven Demon Empress is shaken when the three-hundred-warrior Baekcheon Unit arrives under Wang Ho. Baeksang secretly trained the Bai warriors for decades, entrusted their mobilization token to the Beast Miao King, and left instructions that they follow Yayul Cheok and oppose Dark Heaven.
-- Yayul Cheok rallies roughly thirteen thousand Nanman and Bai warriors after the Beast King Stone awakens another three-thousand-strong force. Wang Ho reports that the Empress's five hundred elites have been annihilated, while the mutants retreat before the sacred stone's power. Yayul orders the united army forward, but the Empress raises a dragon tornado as Jin Taekyung rides the guardian spirit into the confrontation.
+- Jin Taekyung and the guardian spirit charge into the mutant army while the Beast Miao King engages the exhausted Southern Heaven Demon Empress. The Baekcheon Unit suffers severe losses in the ensuing close-quarters battle, and Jin, despite his depleted internal energy and injuries from One Annihilation, fights from the guardian spirit's back with White Flame. As he kills mutants who were once human, the guardian spirit helps him confront his guilt and insists that the dead do not resent him. After Wang Ho declares the battle over, Jin rejects this and advances with the guardian spirit toward the bleeding Southern Heaven Demon Empress.
 
 ## Open Questions
 
-- Can Yayul Cheok, Jin Taekyung, the guardian spirit, and the allied army defeat the Southern Heaven Demon Empress?
-- Can the allied forces overcome the remaining mutants and end the Inner Palace crisis?
-- What will happen when the Southern Heaven Demon Empress's dragon tornado fully confronts the advancing coalition?
+- Can the Beast Miao King defeat the exhausted Southern Heaven Demon Empress?
+- Can Jin Taekyung and the guardian spirit reach and defeat the Southern Heaven Demon Empress?
+- What will happen to the remaining mutants and surviving Baekcheon Unit warriors after the battle?
 
 ## Exceptional Decision
 
-- Retain Fist Force, Force, Moving Formation, demonic martial arts, and Baekcheon Unit as established terminology.
-- Render 궁주 as Palace Lord and 백천대주 as Commander of the Baekcheon Unit.
-- Retain shichen for 시진 and the time it takes to drink a cup of tea for 일다경.
-- Preserve Jin Taekyung's conversational profanity and the guardian spirit's terse, telepathic voice.
-- Render 문산 as Wenshan, 태족 as Dai people, and 주군 as my lord.
+- Retain One Annihilation, White Flame, Fist Force, Force, Sword Energy, Internal Injury, demonic qi, and Baekcheon Unit.
+- Render 초일류 as Supreme First Rate and 백천대주 as Commander of the Baekcheon Unit.
+- Render 신수 as divine beast and 신병이기 as divine weapon.
+- Preserve Jin Taekyung's conversational profanity and the guardian spirit's terse, teasing, and compassionate voice.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
