@@ -1986,3 +1986,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 백상 | **Baeksang** | Great chieftain of the Bai people and Yayul Cheok's sworn younger brother. |
 | 강태공 | **Jiang Taigong** | Legendary fisherman used as a comparison for Taekyung's baiting skill. |
 | 진드로 | **Jindro** | Taekyung's comic self-styled nickname for a fisherman who catches people. |
+| 황개 | **Hwang Gae** | Manager of a pavilion within the Nanman Beast Palace. |
+| 똥개 | **Ddong Gae** | Taekyung's mocking misremembering of Hwang Gae's name. |

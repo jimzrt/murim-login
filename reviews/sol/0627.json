@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Namho, an eighty-year-old non-Han native of Nanman, muttered as he picked out something resembling a pine caterpillar.",
+      "defect": "The draft turns the narrator’s joking description of Namho as an eighty-year veteran of being a Nanman non-Han into a neutral statement of age and origin, losing the comedic voice.",
+      "id": "F01",
+      "rationale": "The source uses 80년 차 경력, literally framing his ethnicity as eighty years of professional experience rather than merely calling him eighty years old.",
+      "replacement": "Namho, an eighty-year veteran of being one of Nanman’s non-Han people, muttered as he picked out something resembling a pine caterpillar.",
+      "severity": "minor",
+      "source": "80년 차 경력의 남만 이민족인 남호가 송충이 비슷한 것을 골라내며 중얼거렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "There was only one person among us who was eating his third bowl of colorful insect fried rice.",
+      "defect": "The neutral “eating” sanitizes the narrator’s deliberately coarse 처먹고 and weakens the disgusted punchline.",
+      "id": "F02",
+      "rationale": "처먹다 is a vulgar, contemptuous form of “eat”; “wolfing down” preserves the register naturally without intensifying it.",
+      "replacement": "There was only one person among us wolfing down his third bowl of colorful insect fried rice.",
+      "severity": "minor",
+      "source": "이 중에서 형형색색의 벌레 볶음밥을 세 그릇째 처먹고 있는 건 한 명밖에 없었으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If my father learns of this, there will be a terrible uproar.",
+      "defect": "The draft changes a specific hierarchical consequence—Yayul Mok’s father angrily reprimanding the responsible people—into an impersonal general disturbance.",
+      "id": "F03",
+      "rationale": "불호령이 떨어지다 means that an authority figure will deliver a thunderous rebuke or severe scolding; it is not merely an uproar occurring.",
+      "replacement": "If my father finds out about this, he’ll come down on them like thunder.",
+      "severity": "major",
+      "source": "아버지께서 이 사실을 아신다면 불호령이 떨어질 거다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Under my father’s leadership, all of Nanman’s tribes joined forces, and nearly ten thousand warriors went to the battlefield. But the number of those who returned home alive was less than a quarter of that.",
+      "defect": "“Nearly ten thousand” makes the force explicitly fewer than ten thousand and loses the emphatic 자그마치; the source presents the total as reaching an astonishing ten thousand.",
+      "id": "F04",
+      "rationale": "자그마치 일만에 달하는 emphasizes the scale as reaching roughly or fully ten thousand, rather than specifying a total just below it.",
+      "replacement": "Under my father’s leadership, all of Nanman’s tribes joined forces, and as many as ten thousand warriors went to the battlefield. But the number of those who returned home alive was less than a quarter of that.",
+      "severity": "minor",
+      "source": "아버지의 주도하에 남만의 모든 부족이 힘을 모았고, 자그마치 일만에 달하는 전사가 전장으로 향했지만…… 살아서 고향으로 돌아온 이들의 숫자는 그중 반의 반도 되지 않았지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He lost his parents and all his close relatives.",
+      "defect": "“Close relatives” narrows 일가친척, which encompasses his entire extended family and relations.",
+      "id": "F05",
+      "rationale": "일가친척 모두 conveys the comprehensive loss of all his family and relatives, not only those considered close.",
+      "replacement": "He lost his parents and every last one of his relatives.",
+      "severity": "minor",
+      "source": "그는 부모와 일가친척 모두를 잃었으니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Nanman was an Outer Land tens of thousands of li from the Central Plains, and I had thought it was a completely separate land with nothing to do with Murim.",
+      "defect": "“An Outer Land” departs from the established rendering of 새외 as the collective regional term “Outer Lands.”",
+      "id": "F06",
+      "rationale": "The binding glossary establishes 새외 as “Outer Lands,” and the revised syntax uses that collective term naturally.",
+      "replacement": "Nanman lay in the Outer Lands, tens of thousands of li from the Central Plains, and I had thought it was a completely separate land with nothing to do with Murim.",
+      "severity": "minor",
+      "source": "남만은 중원에서 수만 리나 떨어진 새외였고, 무림과는 동떨어진 완전한 별개의 땅이라고 생각했으니까."
+    }
+  ],
+  "summary": "One major hierarchy-and-consequence error, plus localized losses of humor, register, quantity, kinship scope, and established terminology.",
+  "version": 1
+}
