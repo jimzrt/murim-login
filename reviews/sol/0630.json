@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“The tall man wearing a tiger mask who just made eye contact with me. That’s enough. Come forward.”",
+      "defect": "The specific seven-cheok height used to single Taekyung out is reduced to the generic “tall.”",
+      "id": "F01",
+      "rationale": "칠척장신 explicitly describes a man seven cheok tall, not merely someone tall.",
+      "replacement": "“The seven-foot-tall man wearing a tiger mask who just made eye contact with me. That’s enough. Come forward.”",
+      "severity": "minor",
+      "source": "지금 나와 눈이 마주친, 호랑이 가면을 쓴 칠척장신의 사내. 이쯤하고 앞으로 나오지?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Beside her, the great chieftain of the Yi people, who had been constantly picking fruit off a nearby plate, grinned broadly and agreed with her.",
+      "defect": "The draft omits that Heugung was continuously eating the fruit and adds a nearby plate absent from the source.",
+      "id": "F02",
+      "rationale": "집어 먹던 describes repeatedly picking up and eating fruit; no plate is specified.",
+      "replacement": "Beside her, the great chieftain of the Yi people, who had been popping fruit into his mouth nonstop, grinned broadly and chimed in.",
+      "severity": "minor",
+      "source": "옆에서 쉴 새 없이 과일을 집어 먹던 이족의 대족장이 헤실헤실 웃으며 그녀의 말에 맞장구쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Of course. Don’t forget that I’ve always admired you.”",
+      "defect": "“Admired” removes the explicitly romantic claim Yohi uses to manipulate Heugung.",
+      "id": "F03",
+      "rationale": "연모하다 means to love or yearn for someone romantically, which is central to Yohi’s calculated flirtation.",
+      "replacement": "“Of course. Don’t forget that I’ve always been in love with you.”",
+      "severity": "major",
+      "source": "당연하지요. 제가 늘 연모하고 있다는 사실을 잊지 마세요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Her alluring voice and gaze were enough to make anyone weak. When her pale, flawless fingers—so white and clean that it was hard to believe she was from Nanman—stroked his pockmarked cheek, rapture spread across Heugung’s face.",
+      "defect": "The claim that her voice and gaze could make anyone weak is an unsupported addition that generalizes Heugung’s reaction to everyone.",
+      "id": "F04",
+      "rationale": "The source labels her voice and gaze alluring, then describes Heugung’s specific reaction; it does not state that anyone would become weak.",
+      "replacement": "Her voice and gaze were alluring. When her pale, flawless fingers—so white and unblemished that it was hard to believe she was from Nanman—stroked his pockmarked cheek, rapture spread across Heugung’s face.",
+      "severity": "minor",
+      "source": "고혹적인 목소리와 눈빛. 남만인이라는 게 믿어지지 않을 만큼 희고 잡티 없는 손가락이 곰보 자국으로 가득한 볼을 쓰다듬자, 흑웅의 얼굴에 황홀감이 감돌았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“What an idiot.”",
+      "defect": "The bluntly vulgar insult 병신 is softened to the comparatively mild “idiot.”",
+      "id": "F05",
+      "rationale": "Yohi abruptly drops her seductive performance and uses a harsh vulgar insult; preserving that register shift is important to her characterization.",
+      "replacement": "“Fucking moron.”",
+      "severity": "major",
+      "source": "“병신.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Women like me aren’t very common in Nanman.",
+      "defect": "The neutral “women” sanitizes Yohi’s deliberately coarse self-description.",
+      "id": "F06",
+      "rationale": "년 is a vulgar term for a woman here, reinforcing the sudden shift from Yohi’s polished public persona to her candid private voice.",
+      "replacement": "A bitch like me is rare in Nanman.",
+      "severity": "major",
+      "source": "남만에서는 나 같은 년이 그리 흔치 않은데."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Then why were you looking at me like that? Did Heugung, that idiot, look pathetic to you?”",
+      "defect": "The draft again softens the vulgar 병신 to “idiot.”",
+      "id": "F07",
+      "rationale": "Yohi continues using the same harshly contemptuous term for Heugung rather than a mild insult.",
+      "replacement": "“Then why were you looking at me like that? Did Heugung, that fucking moron, look pathetic to you?”",
+      "severity": "major",
+      "source": "흑웅, 그 병신이 한심해 보였나?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“No. He reminded me of someone I’d seen before.”",
+      "defect": "The draft makes Heugung the person who reminded Taekyung of someone, but Taekyung is explaining why he was staring at Yohi; Yohi reminded him of the Southern Heaven Demon Empress.",
+      "id": "F08",
+      "rationale": "The following exchange explicitly compares Yohi to the woman Taekyung remembered, so the implied subject is Yohi, not Heugung.",
+      "replacement": "“No. You reminded me of someone I’d seen before.”",
+      "severity": "critical",
+      "source": "아니. 전에 봤던 누군가가 생각났거든."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*As I said, we were fundamentally different.*",
+      "defect": "“We” incorrectly makes the comparison between Taekyung and Yohi rather than between Yohi and the Southern Heaven Demon Empress.",
+      "id": "F09",
+      "rationale": "The surrounding analysis compares the two women’s appearances, atmospheres, and powers; Taekyung is not one of the compared subjects.",
+      "replacement": "*Like I said, the two of them were fundamentally different.*",
+      "severity": "critical",
+      "source": "앞서 했던 말처럼 본질적으로 다르기도 하고."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Me? I don’t particularly care either way. Even if the Nanman Beast Palace suffers losses, I don’t want the Yao people to take responsibility for the four great tribes.”",
+      "defect": "The draft reverses Yohi’s stated ambition. She wants the Yao people to bring the four great tribes under them; she does not reject responsibility for the tribes.",
+      "id": "F10",
+      "rationale": "아우르기를 바라지 is affirmative: Yohi wants the Yao people to encompass or lead all four great tribes. This explains her willingness to let the wider palace lose strength.",
+      "replacement": "“Me? I don’t particularly care either way. No matter what losses the Nanman Beast Palace suffers, I want our Yao people to unite the four great tribes under us.”",
+      "severity": "critical",
+      "source": "나? 나는 아무래도 상관없어. 남만야수궁이 어떤 피해를 입어도, 우리 요족이 사대부족을 아우르기를 바라지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "And if they spill pointless blood in the Central Plains, Nanman’s strength will naturally decrease.",
+      "defect": "“Pointless blood” is unnatural, and “Nanman’s strength” changes the possessive target: it is the participating tribes’ power within Nanman that would diminish.",
+      "id": "F11",
+      "rationale": "애꿎은 피를 흘리다 means to shed blood needlessly, while 남만에서의 힘 refers to their standing or power in Nanman.",
+      "replacement": "And if they shed blood for nothing in the Central Plains, their power within Nanman will naturally diminish.",
+      "severity": "minor",
+      "source": "그리고 중원에서 애꿎은 피를 흘린다면, 자연스럽게 남만에서의 힘이 줄어들 거야."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Yes, that idiot. He can’t do a thing with me and that old man Baeksang keeping him firmly under our thumbs anyway.”",
+      "defect": "The third occurrence of 병신 is again softened, weakening Yohi’s sustained contempt for Heugung.",
+      "id": "F12",
+      "rationale": "The repeated vulgar insult is intentional characterization and should retain consistent force.",
+      "replacement": "“Yes, that fucking moron. He can’t do a thing with me and that old man Baeksang keeping him firmly under our thumbs anyway.”",
+      "severity": "major",
+      "source": "그래, 그 병신. 어차피 나나 백상(白象), 그 늙은이한테 꽉 잡혀서 아무것도 못 하는 놈이지만."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*It wasn’t even as if she was merely teasing him.*",
+      "defect": "The draft invents Heugung as the object of the teasing. In context, Taekyung is reacting to Yohi offering him an impossible prospect and wonders whether she is messing with him.",
+      "id": "F13",
+      "rationale": "The thought follows Taekyung’s realization that Yohi has no reason to give him useful advice about Heugung and immediately precedes his frown at her.",
+      "replacement": "*Was she messing with me or what?*",
+      "severity": "major",
+      "source": "놀리는 것도 아니고."
+    }
+  ],
+  "summary": "The draft contains two critical subject errors and one critical reversal of Yohi’s political ambition, along with several losses of quantity, action, romantic register, and profanity.",
+  "version": 1
+}
