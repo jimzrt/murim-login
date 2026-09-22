@@ -1,8 +1,8 @@
 # Yayul Cheok (야율척)
 
-- **Safe through:** Chapter 708
+- **Safe through:** Chapter 723
 - **Aliases:** Beast Miao King
-- **Role:** Yayul Cheok is the over-eighty former Palace Lord of the Nanman Beast Palace, a Supreme Peak master among the Ten Kings, and Great Chieftain of the Miao people.
+- **Role:** Yayul Cheok is the over-eighty Palace Lord of the Nanman Beast Palace, a Supreme Peak master among the Ten Kings, Great Chieftain of the Miao people, and public priest of the Earth Mother Goddess.
 - **Personality:** Boisterous, warmhearted, forthright, playful, and politically conscious of the tribal coalition he leads.
 - **Voice:** Rough, loud, convivial, and teasing, becoming authoritative when discussing Nanman's laws or political decisions.
 - **Relationships:** Jeok Cheongang is an old acquaintance whom he respects; Baeksang is his sworn younger brother and childhood companion, and they fought together during the Great Faction War; Yayul Mok serves as his Young Palace Lord; Jin Taekyung is Jeok's Disciple whom he welcomes into the Nanman Beast Palace.

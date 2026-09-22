@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "With a single swing of an ax, a middle-aged man brought down a massive tree, while a thin woman casually hoisted an enormous pile of firewood onto her shoulder.",
+      "defect": "The draft adds that the woman lifts the firewood onto her shoulder, while the source says only that she effortlessly lifts it. It also turns the tree snapping from the force of the blow into the man deliberately bringing it down.",
+      "id": "F01",
+      "rationale": "This preserves both physical actions without adding a carrying position absent from the source.",
+      "replacement": "With a single swing of an ax from an older man, a massive tree snapped, while a thin woman casually hoisted a mountain of firewood.",
+      "severity": "minor",
+      "source": "중늙은이의 도끼질 한 번에 아름드리나무가 꺾이고, 마른 체구의 여인이 산더미처럼 쌓인 장작을 아무렇지 않게 번쩍 들어 올린다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“But this, too, must be the will of the gods.”\n\n“……Do you believe in the Earth Mother Goddess, too?”\n\n“I’m not sure. But I do believe that gods exist. I experienced something that couldn’t be explained otherwise.”\n\nAnyone who encounters something beyond human understanding is bound to think of the gods.\n\nThey might not know who was up there in that impossibly distant sky, but they would assume that whoever it was must be an extraordinary being.",
+      "defect": "The draft repeatedly pluralizes the source’s singular conception of a god and replaces the narrator’s colloquial description of that unknown figure as an impressive fellow with the more abstract and solemn “extraordinary being.”",
+      "id": "F02",
+      "rationale": "The source consistently uses singular 신 and imagines an unknown 누가 in the sky, while 양반 gives the narration a deliberately colloquial human register.",
+      "replacement": "“But this, too, must be a god’s will.”\n\n“……Do you believe in the Earth Mother Goddess, too?”\n\n“I’m not sure. At the very least, I believe a god exists. I’ve experienced something that couldn’t be explained otherwise.”\n\nAnyone who encounters something beyond human understanding is bound to think of a god.\n\nThey might not know who was up there in that impossibly distant sky, but they would figure that whoever it was had to be one impressive fellow.",
+      "severity": "major",
+      "source": "“하지만 이 역시 신의 뜻이겠지.”\n\n“……너도 대지모신 믿냐?”\n\n“글쎄. 적어도 신이 존재한다는 것은 믿는다. 그렇지 않고서야 설명할 수 없는 일을 겪었으니까.”\n\n불가해(不可解)의 영역을 접한 인간은 누구나 신을 떠올리기 마련이다.\n\n저 까마득히 높은 하늘 위에 누가 있는지는 몰라도, 필시 대단한 양반이겠구나 하고 짐작하는 거다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> — You have acquired [Mother Goddess Scripture].\n>\n> — [Mother Goddess Scripture] is a scripture recording the history of the [Earth Mother Goddess].\n>\n> — A god can exist only when someone believes in it.\n>\n> — The [Earth Mother Goddess] has become known as the One God of [Nanman]!\n>\n> — Countless believers who follow the [Earth Mother Goddess] are ecstatic!\n>\n> — According to the records in [Mother Goddess Scripture], your name has become known anew!\n>\n> — You have achieved [Religious Reformation], an achievement that makes one wonder whether anyone would actually go this far!\n>\n> — You have acquired the Title [Apostle of the Earth Mother Goddess]!",
+      "defect": "The System panel retains square brackets around UI terms, contrary to the required System-message format.",
+      "id": "F03",
+      "rationale": "The blockquote and System heading already identify the material as UI; the binding format explicitly prohibits square brackets around System terms.",
+      "replacement": "> **System**\n>\n> — You have acquired Mother Goddess Scripture.\n>\n> — Mother Goddess Scripture is a scripture containing records of the Earth Mother Goddess.\n>\n> — A god can exist only when someone believes in it.\n>\n> — The Earth Mother Goddess has become known as the One God of Nanman!\n>\n> — Countless believers who follow the Earth Mother Goddess are ecstatic!\n>\n> — According to the records in Mother Goddess Scripture, your name has become known anew!\n>\n> — You have achieved Religious Reformation, an achievement that makes one wonder whether anyone would actually go this far!\n>\n> — You have acquired the Title Apostle of the Earth Mother Goddess!",
+      "severity": "minor",
+      "source": "― [모신전]을 획득하셨습니다.\n\n― [모신전]은 [대지모신]의 기록을 다룬 경전입니다.\n\n― 누군가가 믿음을 가질 때, 신은 비로소 존재할 수 있습니다.\n\n― [대지모신]이 [남만]의 유일신으로 알려집니다!\n\n― [대지모신]을 따르는 수많은 신도들이 열광합니다!\n\n― [모신전]의 기록에 따라, 당신의 이름이 새롭게 알려집니다!\n\n― 이것까지 하는 놈이 있나 싶은 업적, [종교 개혁]을 달성하셨습니다!\n\n-칭호, [대지모신의 사도]를 획득하셨습니다!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "After a brief silence, I clicked my tongue.",
+      "defect": "The draft changes Taekyung’s physical reaction from smacking his lips to clicking his tongue, replacing a hesitant or rueful gesture with one that signals annoyance or disapproval.",
+      "id": "F04",
+      "rationale": "입맛을 다시다 describes smacking one’s lips, not clicking one’s tongue.",
+      "replacement": "After a brief silence, I smacked my lips.",
+      "severity": "critical",
+      "source": "잠시 침묵하던 내가 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I was simply trying to save one person.”",
+      "defect": "The draft introduces a specific quantity and makes Taekyung say he was trying to save only one person. The source is a generic statement about one human being trying to save others.",
+      "id": "F05",
+      "rationale": "The repeated 사람 is generic and expresses Taekyung’s human motive; it does not restrict his efforts to a single beneficiary.",
+      "replacement": "“I was simply a person trying to save people.”",
+      "severity": "critical",
+      "source": "“그냥 사람이 사람을 살리려고 한 것뿐입니다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Yayul Cheok, the Beast Miao King. On behalf of everyone who lives on this land, I ask Great Hero Jin Taekyung, Master of the Fire Dragon Pavilion, to join the Murim Alliance.”",
+      "defect": "The draft reverses the climactic request. Jin Taekyung already belongs to the Murim Alliance; Yayul Cheok is petitioning him for Nanman’s admission into it. The draft also fails to use the established title “Fire Dragon Pavilion Master.”",
+      "id": "F06",
+      "rationale": "입맹을 청합니다 means that the speaker requests admission from Jin in his Alliance capacity, not that Jin is being asked to join.",
+      "replacement": "“I, Yayul Cheok, the Beast Miao King, on behalf of everyone who lives on this land, formally petition Great Hero Jin Taekyung, Fire Dragon Pavilion Master, for our admission into the Murim Alliance.”",
+      "severity": "critical",
+      "source": "“야수묘왕 야율척. 이 땅의 모든 이들을 대표하여 화룡각주 진태경 대협께 무림맹으로의 입맹(入盟)을 청합니다.”"
+    }
+  ],
+  "summary": "The draft contains three critical action or consequence changes, a meaningful shift from singular divinity to plural gods, one added physical detail, and noncompliant System formatting.",
+  "version": 1
+}
