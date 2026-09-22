@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Because they were nothing more than savages from the Outer Lands!”\n\n“…”\n\n“Because they were not Han Chinese like them, could never become Han Chinese, and they could not sacrifice themselves for such savages!”",
+      "defect": "The English pronouns grammatically point back to the Han allies, making them the savages and leaving both groups' identities unclear. Baeksang is explaining that the allies abandoned the Nanman because the Nanman were not and could never become Han Chinese.",
+      "id": "F01",
+      "rationale": "The contrast between 자신들, meaning the Han allies themselves, and 그런 야만인들, meaning Baeksang and the other Nanman people, establishes who was discriminating against whom.",
+      "replacement": "“Because we were nothing more than savages from the Outer Lands!”\n\n“…”\n\n“Because we weren’t Han Chinese like them, could never become Han Chinese, and they couldn’t sacrifice themselves for savages like us!”",
+      "severity": "critical",
+      "source": "“단지 새외(塞外)의 야만인에 불과한 자들이니까!”\n\n“……!”\n\n“자신들과 같은 한족이 아니고, 한족이 될 수도 없으며, 그런 야만인들을 위해 자신들을 희생할 수는 없으니까!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At first, I was disappointed that I would never meet the protagonists from those novels. But I wasn’t particularly upset. The martial artists of this world were every bit as cool as those characters.",
+      "defect": "Rendering 아쉬웠지만 as “was disappointed” erases the source’s deliberate distinction between mild regret and actual disappointment.",
+      "id": "F02",
+      "rationale": "아쉬웠지만 conveys regret or wistfulness, while the following 실망스럽지는 않았다 explicitly denies disappointment.",
+      "replacement": "At first, I was sorry I’d never get to meet the protagonists from those novels, but I wasn’t disappointed. The martial artists of this world were every bit as cool as those characters.",
+      "severity": "minor",
+      "source": "처음에는 소설 속 주인공을 만나지 못한다는 사실에 아쉬웠지만, 그렇다고 실망스럽지는 않았다. 이 세상의 무림인들도 그들 못지않게 제법 멋있었거든."
+    },
+    {
+      "confidence": 0.96,
+      "current": "What was held back eventually overflowed when the time came.\n\nEven after emptying himself of it for decades, hatred and betrayal had continued to fill Baeksang’s heart, then burst forth once again.\n\nJust as they were now.",
+      "defect": "고인 것은 means something that pools or accumulates, not something deliberately “held back,” and 배신감 is a sense of betrayal rather than betrayal itself. The final sentence also has an awkward tense.",
+      "id": "F03",
+      "rationale": "The source sustains a liquid metaphor of emotions repeatedly pooling, being emptied, and overflowing.",
+      "replacement": "Anything that pools will overflow when the time comes.\n\nThough Baeksang had spent decades emptying it out, hatred and a sense of betrayal had kept welling up in his heart until they burst forth once again.\n\nJust as they did now.",
+      "severity": "minor",
+      "source": "고인 것은 때가 되면 흘러넘친다. 하지만 수십 년간 그렇게 비워 냈음에도, 백상의 마음에는 증오와 배신감이 끊임없이 차올랐고, 다시 한번 터져 나왔다.\n\n지금 이 순간처럼."
+    },
+    {
+      "confidence": 0.91,
+      "current": "There was only one person—the Palace Lord—who tried to uncover the truth behind everything that had happened. But all the appearances and blemishes were buried with the end of the Great Faction War.",
+      "defect": "“All the appearances and blemishes” is opaque and fails to convey 허울 as false fronts or pretenses and 흠집 as stains on the victorious factions’ record.",
+      "id": "F04",
+      "rationale": "The sentence describes the war’s end allowing both the public facade and the wrongdoing behind it to be buried.",
+      "replacement": "There was only one person—the Palace Lord—who tried to uncover the truth behind everything that had happened. But every false front and every stain was buried when the Great Faction War ended.",
+      "severity": "major",
+      "source": "유일하게 한 사람. 궁주만이 이 모든 일의 전위를 밝히고자 했지만, 모든 허울과 흠집은 정마대전의 종전과 함께 파묻혔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Baeksang’s voice that followed was hollow.",
+      "defect": "“The voice that followed” is an unnatural Korean-syntax calque in English.",
+      "id": "F05",
+      "rationale": "이어지는 modifies the continuation of his speech; it does not identify a separate voice that comes afterward.",
+      "replacement": "Baeksang’s voice was hollow as he continued.",
+      "severity": "minor",
+      "source": "이어지는 백상의 목소리는 공허했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Tangible internal energy streamed from the ends of his fists and grazed my face.",
+      "defect": "“The ends of his fists” is unnatural, and the plural “fists” is unsupported by the singular 주먹.",
+      "id": "F06",
+      "rationale": "The source describes multiple visible streams of internal energy issuing from a single fist.",
+      "replacement": "Streams of tangible internal energy poured from his fist and grazed my face.",
+      "severity": "minor",
+      "source": "그의 주먹 끝에서 줄기줄기 흘러나온 유형화된 공력이 내 얼굴을 스쳤다."
+    }
+  ],
+  "summary": "One critical subject reversal obscures that the Nanman people—not the Han Chinese—were regarded as savages; several additional passages lose a deliberate contrast, distort a metaphor, or use unclear English.",
+  "version": 1
+}
