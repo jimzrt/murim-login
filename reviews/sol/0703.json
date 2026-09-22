@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Reality worse than my imagination was waiting for me.",
+      "defect": "The translation omits the repeated crude register of 거지 같은, weakening the deliberate echo of the preceding line and its darkly comic contrast.",
+      "id": "F01",
+      "rationale": "The source explicitly describes reality as even more 거지 같은 after imagining something that would make him feel 거지 같아질, so the repeated vulgar phrasing should remain audible.",
+      "replacement": "A reality even shittier than anything I could imagine was waiting for me.",
+      "severity": "major",
+      "source": "상상보다 더 거지 같은 현실이 나를 기다리고 있기 때문이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "My senses, which had been sharp enough to rival a divine artifact only moments ago, had grown dull as an ax abandoned in a ruined cabin.",
+      "defect": "신병이기 refers specifically to extraordinary or divine weapons, not the broader category of divine artifacts.",
+      "id": "F02",
+      "rationale": "The weapon comparison supports the repeated image of sharpness and should not be conflated with the established general term 신물, rendered as “divine artifact.”",
+      "replacement": "My senses, which had been sharp enough to rival a divine weapon only moments ago, had grown dull as an ax abandoned in a ruined cabin.",
+      "severity": "minor",
+      "source": "조금 전까지만 하더라도 신병이기 부럽지 않게 날카롭던 감각은 버려진 오두막의 도끼처럼 무뎌졌고, 언제나 팔랑개비처럼 휘둘렀던 백염은 세상에서 가장 무거운 것이 되어 버렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Around a hundred of them had been waiting for the immense vortex created by One Annihilation.",
+      "defect": "The action is reversed: the mutants were not waiting for the vortex; the vortex was what awaited them.",
+      "id": "F03",
+      "rationale": "The Korean makes 그들을 the object of 기다리고 있던 and the vortex its subject, describing the lethal force they charged into rather than an intentional wait.",
+      "replacement": "What awaited roughly one hundred of them was the immense vortex created by One Annihilation.",
+      "severity": "critical",
+      "source": "어림잡아 일백에 달하는 그들을 기다리고 있던 것은 일섬이 불러온 강대한 와류였다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Behind the dazzling flash that had erased everything, he remained—a powerless shell of a man.",
+      "defect": "“Behind” gives 뒤 a spatial reading, while the passage describes Jin’s condition after the flash.",
+      "id": "F04",
+      "rationale": "The Empress is perceiving the aftermath of One Annihilation and Jin’s resulting exhaustion, not locating him physically behind the flash.",
+      "replacement": "After the dazzling flash that had erased everything, he remained—a powerless shell of a man.",
+      "severity": "minor",
+      "source": "모든 것을 지워 버린 눈부신 섬광 뒤, 힘을 잃고 껍데기만 남아 버린 녀석의 모습이."
+    },
+    {
+      "confidence": 0.95,
+      "current": "and the rank-smelling beast blocking his path.",
+      "defect": "“Rank-smelling” is an unnatural literal collocation and does not clearly convey the contemptuous implication of an old, musty-smelling beast.",
+      "id": "F05",
+      "rationale": "노린내 나는 is a disparaging odor-based description, while 어느 and 그 앞 identify the beast dismissively as standing before Jin.",
+      "replacement": "and the musty old beast standing in front of him.",
+      "severity": "minor",
+      "source": "제 몸을 가누는 것조차 힘든 진태경과, 그 앞을 가로막은 어느 노린내 나는 짐승을 갈기갈기 찢어 버릴 수 있게 해 주는 축복."
+    },
+    {
+      "confidence": 1.0,
+      "current": "No matter how fast you are, you won’t last long if you take me with you.",
+      "defect": "The subject is reversed: Jin says that he will not last long while being carried, not that the guardian spirit will fail to endure.",
+      "id": "F06",
+      "rationale": "The following sentences explain that Jin would ask to be put down because he will die unless he circulates his qi, resolving the omitted Korean subject as Jin.",
+      "replacement": "No matter how fast you are, I won’t last long if you take me with you.",
+      "severity": "critical",
+      "source": "장담하는데, 네가 아무리 빨라도 나 데리고 가면 얼마 못 버텨."
+    },
+    {
+      "confidence": 1.0,
+      "current": "What if you die on the way?",
+      "defect": "The subject is reversed: Jin is asking what she will do if he dies during the journey.",
+      "id": "F07",
+      "rationale": "Her immediate response—“You mustn’t die this easily”—confirms that Jin is referring to his own possible death.",
+      "replacement": "What if I die on the way?",
+      "severity": "critical",
+      "source": "가다가 죽으면 어쩌시려고?"
+    }
+  ],
+  "summary": "Three critical subject/action reversals, one meaningful register loss, and three localized terminology or wording issues.",
+  "version": 1
+}

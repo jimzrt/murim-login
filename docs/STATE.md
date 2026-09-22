@@ -1,33 +1,33 @@
 # Translation State
 
-- Last completed: 702
-- Next chapter: 703
-- Current block: 700–704 (3/5)
-- Latest translation: `translations/0702.md`
-- Latest summary: `summaries/beats/0702.md`
-- Safe profiles through: chapter 702
+- Last completed: 703
+- Next chapter: 704
+- Current block: 700–704 (4/5)
+- Latest translation: `translations/0703.md`
+- Latest summary: `summaries/beats/0703.md`
+- Safe profiles through: chapter 703
 
 ## Current Block
 
-- Jin Taekyung battles the Southern Heaven Demon Empress, whose overwhelming power lets her catch White Flame and crush its spearhead, but his use of Ten-Thousand-Year Cold Iron wounds her earlobe and cuts away half her hair. He destroys the resulting spear fragments with Flame-Extinguishing Divine Fist while evading her lethal attacks.
-- Jin deliberately exposes himself to force the Southern Heaven Demon Empress to restrain her attack, causing internal-energy backflow and allowing him to sever one of her wrists with a summoned weapon. Enraged and consumed by killing intent, she attacks despite the Lord of Heaven's orderless interest in Jin, while Jin accepts another life-threatening opening and wounds her side with a second summoned spear.
-- The Southern Heaven Demon Empress realizes too late that Jin has been setting up this exchange from the beginning. Jin summons his spear again and initiates One Annihilation as blue-white flames gather around its transparent tip, but an urgent thought cries out "Human!" and a massive vortex erupts before the outcome is revealed.
+- Jin Taekyung survives One Annihilation with severe Internal Injury, Exhaustion, and Muscle Rupture. The mutants that attacked him were erased by the technique after sacrificing themselves to disrupt his aim, while the guardian spirit killed the Masked Man for the fourth time and warned that he keeps recovering faster and growing stronger.
+- One Annihilation fails to kill the Southern Heaven Demon Empress but strips away her cultivated youth, destroys one arm, tears away part of her side, and burns half her face. The rift's demonic qi begins stabilizing her injuries and strengthening her even as the sacred stone, the guardian spirit, and the White Tiger weaken beneath its influence.
+- Jin orders the guardian spirit to leave and save the people, then offers to follow the Southern Heaven Demon Empress to the Lord of Heaven. She refuses to let him die quickly, declares that she will tear him apart herself, claims his divine artifact and the White Tiger's pelt, and unleashes another attack as a tremendous rumble sweeps across the Nanman Beast Palace.
 
 ## Open Questions
 
-- What is the masked man's identity, and what is his relationship with the Great Snow Fiend?
-- Why is the Lord of Heaven interested in Jin Taekyung?
-- Can Jin and the guardian spirit stop the mutation in the Inner Palace before it finishes?
-- What is the source and meaning of the urgent thought that cried "Human!", and what caused the massive vortex?
-- Will One Annihilation defeat the Southern Heaven Demon Empress, and can Jin survive the exchange?
+- What caused the tremendous rumble that swept across the Nanman Beast Palace?
+- Can the guardian spirit escape with the people while leaving Jin behind?
+- Will the Southern Heaven Demon Empress capture Jin for the Lord of Heaven or kill him herself?
+- Will the Masked Man rise again and become even stronger?
+- Can the sacred stone, the guardian spirit, and the White Tiger resist the demonic qi long enough to stop the mutation?
 
 ## Exceptional Decision
 
-- Use demonic qi for 마기.
-- Use Force for 강기 and Scorching Yang Qi for 열양지기.
-- Use Empty-Hand Seizes the Blade for 공수납백인.
-- Use backflow for 역류 and qi-blood for 기혈.
-- Use One Annihilation for 일섬.
+- Use jiazi for 갑자.
+- Use vital essence for 정혈.
+- Use grand art for 대공.
+- Use practitioner for 술사.
+- Retain One Annihilation, demonic qi, Force, and Finger Qi as established terminology.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
