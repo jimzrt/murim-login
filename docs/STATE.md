@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 657
-- Next chapter: 658
-- Current block: 655–659 (3/5)
-- Latest translation: `translations/0657.md`
-- Latest summary: `summaries/beats/0657.md`
-- Safe profiles through: chapter 657
+- Last completed: 658
+- Next chapter: 659
+- Current block: 655–659 (4/5)
+- Latest translation: `translations/0658.md`
+- Latest summary: `summaries/beats/0658.md`
+- Safe profiles through: chapter 658
 
 ## Current Block
 
-- Baeksang summons Utu-ri, the Bai noodle-shop owner, who identifies Jin as the masked young man he saw dining with another middle-aged man near the West Gate around Insi before the tragedy. Baeksang uses the testimony and circumstantial evidence to accuse Jin, encircles him, and orders his capture dead or alive, threatening to pursue him across Nanman and use the Han Chinese under his command as examples if he resists.
-- Namho silently urges Jin to escape, but Jin refuses to make a defense, admits only that he lied, and continues denying the crime. The Beast Miao King stops Baeksang's forces and declares Jin innocent, while Baeksang rejects his authority and proposes that the second day of the Tribal Grand Council decide whether Han Chinese Jin Taekyung lives or dies. The System then generates the unexpected Quest Either-Or.
+- The System generates the Either-Or Quest, forcing Jin Taekyung to choose between resisting and surrendering while warning that his choice may change surrounding circumstances and kill someone. Pro-Baeksang chieftains demand his arrest, while a smaller faction supporting the Beast Miao King defends him. Knowing that escape with his companions is nearly impossible, Jin secures the Beast Miao King's promise to protect them and clear his name, then chooses to surrender rather than abandon them. Before submitting, however, he punches Baeksang and immediately declares, "I surrender!"
 
 ## Open Questions
 
@@ -18,15 +17,15 @@
 - Are Heugung and Yohi alive, and where were they taken?
 - What can be learned from Yohi's nearly scentless pouch?
 - Is Baeksang truly colluding with Dark Heaven despite the evidence of third-party intervention?
-- What will the Tribal Grand Council decide about Jin's life, and what choice does the Either-Or Quest require?
+- What consequences will follow Jin's punch and declared surrender under the Either-Or Quest?
 
 ## Exceptional Decision
 
 - Retain Force for 강기 and Supreme Peak for 초절정.
 - Retain Sound Transmission for 전음.
-- Retain Western Yao Estate for 서요부, Eastern Yi Estate for 동이부, Southern Bai Estate for 남백부, and scent pouch for 향낭.
-- Retain No words for 무언 and net over heaven and earth for 천라지망.
-- Render 양자택일 as Either-Or.
+- Retain Either-Or for 양자택일.
+- Retain bad move for 악수 when used in the Go metaphor.
+- Retain underground prison for 뇌옥 and iron balls for 철구.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

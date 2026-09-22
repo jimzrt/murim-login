@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Ding.\n\n> **System**",
+      "defect": "The physical arrival of the System notification and holographic window is omitted.",
+      "id": "F01",
+      "rationale": "The source explicitly describes both the audible notification and the translucent window abruptly appearing before presenting the Quest.",
+      "replacement": "Ding.\n\nA System notification suddenly rang out. At the same time, a translucent holographic window shot up into the air.\n\n> **System**",
+      "severity": "major",
+      "source": "갑작스럽게 울리는 시스템 알림. 동시에 반투명한 홀로그램 창이 허공으로부터 불쑥 솟구쳤다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **Mission:** [Surrender] or [Resist] (Incomplete)",
+      "defect": "The System choices retain square brackets, contrary to the required System-panel formatting.",
+      "id": "F02",
+      "rationale": "The System blockquote already frames these as UI choices, and the binding rules prohibit square brackets around System notices or UI terms.",
+      "replacement": "> **Mission:** Surrender or Resist (Incomplete)",
+      "severity": "minor",
+      "source": "임무 : [투항] or [저항] (미완료)"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> - Various factors around you will change depending on your choice. Specific individuals may die in the process.",
+      "defect": "The singular warning about a certain person is changed into a plural warning about multiple individuals.",
+      "id": "F03",
+      "rationale": "특정 인물이 is singular and points to one unspecified person; pluralizing it changes the Quest's stated potential consequence.",
+      "replacement": "> - Various factors around you will change depending on your choice. A certain person may die in the process.",
+      "severity": "critical",
+      "source": "그 과정에서 특정 인물이 사망할 수도 있습니다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "*This situation is really fucked.*",
+      "defect": "The profanity is intensified, erasing the source's distinction between this milder complaint and the later explicit 좆 된 것 같다는 line.",
+      "id": "F04",
+      "rationale": "거지 같다 is a colloquial complaint meaning that something is lousy or shitty, whereas “fucked” more closely matches the stronger profanity used later.",
+      "replacement": "*What a shitty situation.*",
+      "severity": "minor",
+      "source": "‘상황 참 거지 같네.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A few years later, my father suddenly died in a monster wave, and his Go account—marked by nothing but losses, yet maintained with unfailing consistency—became dormant.",
+      "defect": "“Nothing but losses” adds the unsupported claim that the account had no wins at all.",
+      "id": "F05",
+      "rationale": "패배로 점철되긴 했어도 says the account was riddled with defeats, not that every game was a loss; the earlier statement that his win rate was terrible likewise does not establish a zero-win record.",
+      "replacement": "A few years later, my father died suddenly in a monster wave, and the Go account he had kept playing on despite its long record of defeats fell dormant.",
+      "severity": "major",
+      "source": "아버지는 몇 해 뒤 몬스터 웨이브로 인해 갑작스럽게 돌아가셨고, 패배로 점철되긴 했어도 꾸준했던 아버지의 바둑 계정은 휴면 계정이 되었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Not that kind of move. It means a bad play. Like when Taekyung was playing soccer at the sports festival yesterday and accidentally kicked Minjun’s leg instead of the ball, causing us to lose the game. A bad choice. Do you understand?*",
+      "defect": "“Causing us to lose” incorrectly makes the father part of the side that lost and alters the subject of the source's causal explanation.",
+      "id": "F06",
+      "rationale": "The father describes Taekyung's bad choice causing Taekyung to lose the match; he does not say that “we” lost.",
+      "replacement": "*Not that kind of move. It means a bad play. It’s like when Taekyung played soccer at the sports festival yesterday and lost the game because he accidentally kicked Minjun’s leg instead of the ball. A bad choice. Do you understand?*",
+      "severity": "major",
+      "source": "어제 태경이가 체육대회에서 축구 했을 때, 실수로 공이 아니라 민준이 다리를 걷어차는 바람에 경기에서 진 거랑 비슷한 거란다. 나쁜 선택. 이해되니?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*But I got kicked out right away yesterday.*",
+      "defect": "“Kicked out” loses the soccer-specific meaning of being sent off.",
+      "id": "F07",
+      "rationale": "퇴장당했다 refers to removal from the match, and “sent off” is the natural soccer terminology that preserves the joke's setup.",
+      "replacement": "*But I got sent off right away yesterday.*",
+      "severity": "minor",
+      "source": "‘하지만 난 어제 바로 퇴장당했는데?’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I’m not sure whether it’s a tiger’s mouth or a dog’s mouth.”",
+      "defect": "The translation sanitizes 개새끼 and weakens Taekyung's insulting comparison.",
+      "id": "F08",
+      "rationale": "개새끼 is strongly abusive here, not the neutral “dog”; the profanity is part of Taekyung's contemptuous humor.",
+      "replacement": "“I’m not sure whether it’s a tiger’s jaws or a fucking mutt’s.”",
+      "severity": "minor",
+      "source": "“범 아가리인지, 개새끼 아가리인지는 잘 모르겠고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Is this because of me and the other members? Because you’re afraid we’ll be harmed if you avoid this place?”",
+      "defect": "“Avoid this place” is unnatural and fails to express the contemplated act of fleeing the confrontation.",
+      "id": "F09",
+      "rationale": "이 자리를 피하면 refers to Taekyung escaping or abandoning the current situation, which is the active alternative posed by the Quest.",
+      "replacement": "“Is this because of me and the other members? Because you’re afraid we’ll be harmed if you flee from here?”",
+      "severity": "major",
+      "source": "“나와 다른 대원들 때문이냐? 네 녀석이 이 자리를 피하면 우리가 해를 입을까 봐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Instead of answering, Namho’s eyes trembled.\n\nI removed his hands from my clothes, exchanged a brief nod with the two of them, and began walking.",
+      "defect": "The draft assigns both gripping hands to Namho despite the preceding statement that two people grabbed Taekyung, and it changes an exchanged look into a nod.",
+      "id": "F10",
+      "rationale": "The source leaves the gripping hands collectively associated with the two men and explicitly describes 눈인사, a farewell conveyed through the eyes, not a nod.",
+      "replacement": "Instead of answering, Namho’s eyes trembled.\n\nI freed my clothes from their grip, met both of their eyes in farewell, and began walking.",
+      "severity": "critical",
+      "source": "대답 대신 흔들리는 눈동자. 옷자락을 붙잡은 손을 떼어 낸 나는, 두 사람에게 눈인사를 건네고 걸음을 옮겼다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even if I lost, so what? A famous professional Go player had once left behind the saying, *It’s only Go, after all.* To me, it really would have been nothing more than Go.",
+      "defect": "The quoted saying drops its deliberate repetition and is incorrectly formatted as a thought rather than a quotation.",
+      "id": "F11",
+      "rationale": "그래 봤자 바둑, 결국 바둑 deliberately repeats “Go,” and the narrator identifies it as a saying left by someone else.",
+      "replacement": "Even if I lost, so what? A famous professional Go player had once said, “It’s still just Go—in the end, it’s only Go.” To me, it really would have been nothing more than Go.",
+      "severity": "minor",
+      "source": "어느 유명 프로 기사는 그래 봤자 바둑, 결국 바둑이라는 명언을 남겼지만, 내게는 그래 봤자 바둑일 뿐이니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Anything will do. You will be confined in the underground prison.”",
+      "defect": "“Anything will do” wrongly suggests that Baeksang is accepting one of several options rather than dismissing Taekyung's stated motive.",
+      "id": "F12",
+      "rationale": "뭐든 상관없다 means that whatever Taekyung's reason may be, Baeksang does not care.",
+      "replacement": "“It matters not. You will be confined in the underground prison.”",
+      "severity": "minor",
+      "source": "“뭐든 상관없다. 넌 이 길로 뇌옥(牢獄)에 갇힐 테니.”"
+    }
+  ],
+  "summary": "The draft omits one physical System-window beat, changes a singular death warning to plural, alters several subjects and actions, and has localized register, terminology, and Markdown issues.",
+  "version": 1
+}
