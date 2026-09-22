@@ -1,0 +1,75 @@
+{
+  "summary": "Several localized fidelity defects remain, chiefly softened hierarchy, altered physical details, and added certainty or intensity. No critical defect is present.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 121–123",
+      "current": "Then our Lord will take you as his servant.",
+      "defect": "The Korean 종 denotes being taken as a slave, so “servant” softens the coercive status and threat.",
+      "replacement": "Then our Lord will take you as his slave.",
+      "rationale": "The Death Knights are offering subjugation, not ordinary employment or voluntary service.",
+      "confidence": 0.82
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 185–187",
+      "current": "The dark blade had barely cleared its scabbard before it was forced back inside.",
+      "defect": "“Barely cleared its scabbard” says the blade had already emerged, while the source says it returned before it had even been drawn.",
+      "replacement": "The dark blade had barely begun to emerge from its scabbard before it slid back inside.",
+      "rationale": "The source emphasizes that the sword was stopped almost before the draw began.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 209–212",
+      "current": "A soldier in a crooked combat helmet stared at the sky with lifeless eyes.",
+      "defect": "“Combat helmet” drops the source's specific detail that the soldier wore a bulletproof helmet.",
+      "replacement": "A soldier in a crooked bulletproof helmet stared at the sky with lifeless eyes.",
+      "rationale": "방탄 specifies bulletproof protection, not merely a combat-style helmet.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 213–215",
+      "current": "Hunters from the Public Security Armed Forces Department lay dead",
+      "defect": "The current states their identity as certain, omitting the source's indication that they only appeared or were presumed to be Hunters from that department.",
+      "replacement": "Those who appeared to be Hunters from the Public Security Armed Forces Department lay dead",
+      "rationale": "The Korean uses 짐작되는, preserving uncertainty about who the dead were.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Lines 213–215",
+      "current": "their bodies mangled beyond recognition.",
+      "defect": "“Beyond recognition” adds a stronger condition than the source establishes. The source says they were not intact or whole, not that they were unrecognizable.",
+      "replacement": "their bodies mangled.",
+      "rationale": "온전치 못한 모습 describes damaged, incomplete bodies without asserting loss of recognizability.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Lines 217–219",
+      "current": "So many died. So damn many.",
+      "defect": "The added profanity intensifies the narration beyond the source's repetition of “many,” which expresses shock without vulgarity.",
+      "replacement": "So many died. Really, so many.",
+      "rationale": "정말로 means “really,” not “damn”; the source's emotional force comes from repetition rather than profanity.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F07",
+      "severity": "minor",
+      "source": "Lines 301–305",
+      "current": "A Dullahan charged through the spray of foul-smelling brain matter, only to be cleaved in half with a single blow.",
+      "defect": "The current changes the physical image: the source has the Dullahan charging while being drenched or covered in foul-smelling brain matter, not merely moving through a spray.",
+      "replacement": "A Dullahan came charging at me, drenched in foul-smelling brain matter, only to be cleaved in half with a single blow.",
+      "rationale": "뒤집어쓰며 describes brain matter being thrown over the Dullahan and covering it.",
+      "confidence": 0.94
+    }
+  ]
+}

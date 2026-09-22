@@ -14,17 +14,17 @@ What were the odds that I would survive one war, two bloody massacres, and more 
 
 After considering all of that, I reached a single conclusion.
 
-“Ten percent is enough after all.”
+“Yeah. Ten percent is plenty.”
 
 With that quiet murmur, I reached out.
 
 Seizing an Object Through Empty Space.
 
-Three jiazi of internal energy pulled Team Leader Choi and Shao Shen toward me. The Death Knights and monsters tried to move, but stopped when their leader raised a hand.
+Three jiazi of internal energy pulled Team Leader Choi and Shao Shen toward me. The Death Knights and monsters started to move, but stopped when their leader raised a hand.
 
 Ignoring them, I checked the two men’s condition. Their breathing was faint, and their qi was so precarious it seemed ready to vanish at any moment.
 
-If I had taken a jet instead of teleporting, I might have been too late forever.
+If I had taken a jet instead of teleporting, I might have been too late.
 
 “I would’ve tried even with a one-percent chance. I’m not the kind of guy who dies for nothing.”
 
@@ -42,7 +42,7 @@ The leader saw me pull the item I needed from my Inventory and asked in a flat v
 
 I swallowed the words hovering on the tip of my tongue. Normally, that would have been quite difficult, but right now, it wasn’t.
 
-I did not want anyone to interfere with me. At least not right now.
+I didn’t want anyone interfering with me. Not now.
 
 Pop.
 
@@ -60,11 +60,11 @@ I simply thanked Wu Heixing for being both fabulously wealthy and incredibly stu
 
 Team Leader Choi came first. Partly because of all the time we had spent together, but even if we had shared no bond at all, I would still have chosen him first.
 
-That was how serious Team Leader Choi’s injuries were.
+That was how serious his injuries were.
 
 *This is…*
 
-His left arm had been torn away from the shoulder. His right ankle was mangled as if something had chewed and swallowed it, while his left leg had been cleanly amputated. Seven ribs were broken, and his spine was fractured.
+His left arm had been torn off at the shoulder. His right ankle was mangled as though something had chewed on it, and his left leg had been cleanly severed. Seven ribs were broken, and so was his spine.
 
 And…
 
@@ -82,9 +82,9 @@ I didn’t forget to scold him in my head.
 
 Then the real miracle began.
 
-When I carefully tilted the bottle and administered exactly half of it, a sound like something burning filled the air, and the wounds covering Team Leader Choi’s entire body began to heal.
+I carefully tilted the bottle and poured exactly half of it into his mouth. With a sound like flesh searing, the wounds covering Team Leader Choi’s body began to heal.
 
-Hissssss, hissssss—
+Hissssss. Hissssss—
 
 Bones regrew, severed muscles rejoined, and damaged organs and flesh knitted together.
 
@@ -102,7 +102,7 @@ The others watching, however, were far less pleased.
 
 —They have been granted the destiny—
 
-—of becoming subservient to our mighty Lord.
+—of serving our mighty Lord.
 
 I silently regarded the two Death Knights who stepped forward in place of their leader.
 
@@ -152,9 +152,9 @@ Without even raising my head, I continued pouring the potion.
 
 Once the last few drops had fallen into Shao Shen’s mouth, I stoppered the empty bottle and returned it to my Inventory.
 
-Hissssss, hissssss.
+Hissssss. Hissssss—
 
-A signal that recovery had begun.
+The sound of his recovery beginning.
 
 I straightened at the welcome sound I had been waiting for, looked at the Death Knight, and finally said what I’d been wanting to say.
 
@@ -184,7 +184,7 @@ It hadn’t come to me.
 
 I had gone to it.
 
-“Let’s see that vaunted skill of yours.”
+“Let’s see how good you really are.”
 
 —……!
 
@@ -200,7 +200,7 @@ By then, my fist had already punched through the creature’s chest.
 
 Crunch!
 
-The Flame-Extinguishing Divine Fist, charged with the Scorching Yang Qi of three jiazi, vaporized even the fistful of blood remaining inside the undead monster and blazed up using its long-dead body as kindling.
+The Flame-Extinguishing Divine Fist, carrying three jiazi of Scorching Yang Qi, vaporized even the last traces of blood inside the undead creature and set its long-dead body ablaze like kindling.
 
 Whoosh! Rooooar!
 
@@ -230,7 +230,7 @@ I had spent a full week with the 1st Regiment under Shao Shen. Among the corpses
 
 *So many died. So damn many.*
 
-At least three thousand humans had died here today alone.
+Nearly three thousand people had died here today alone.
 
 How many would that number become if I added the dead from all five fronts? If I included the civilians killed in this monster wave?
 
@@ -272,7 +272,7 @@ As a Named Monster, he should have been capable of handling several ordinary A-r
 
 “When this battle is over, I’ll grant you any wish.”
 
-—In that case, there’s nothing I can’t do. But how long am I supposed to protect them?
+—In that case, I suppose I can do it. But how long must I protect them?
 
 “That’s obvious…”
 
@@ -300,7 +300,7 @@ I couldn’t begin to imagine.
 
 There was only one thing I knew for certain.
 
-“Any bastard who comes past this spear is going to fucking die.”
+“Any bastard who crosses this spear is fucking dead.”
 
 The fire dragon coiled within my dantian raised its head.
 
@@ -318,7 +318,7 @@ The head of a Lycanthrope baring its fangs exploded.
 
 A Dullahan charged through the spray of foul-smelling brain matter, only to be cleaved in half with a single blow. Its halberd found a new master and shot away with tremendous force, tearing through a Wyvern’s wing.
 
-CRACKLE!
+CRACK!
 
 —Kyaaaaaaa!
 
@@ -346,11 +346,11 @@ The black knight knew perfectly well what his subordinate’s desperate plea mea
 
 —Make way.
 
-Between the slits of the deeply lowered helmet, red eyes flickered.
+Red light flickered beneath his deeply lowered helmet.
 
 As he advanced, immense magical power rolling off him, he tried to ignore the strange words and scenes that kept surfacing in his mind.
 
-Nothing could take precedence over his creator, his eternal lord.
+Nothing could take precedence over his creator, his eternal sovereign.
 
 —Are you listening, my servant?
 
@@ -360,4 +360,4 @@ At his lord’s voice echoing like a hallucination, the black knight quietly rep
 
 Until the very end, he failed to realize one thing.
 
-That his hand was groping somewhere between the plates of his armor.
+His hand was searching between the plates of his armor.

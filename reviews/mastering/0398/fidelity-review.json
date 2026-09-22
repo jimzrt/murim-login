@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.82,
+      "current": "Then our Lord will take you as his servant.",
+      "defect": "The Korean 종 denotes being taken as a slave, so “servant” softens the coercive status and threat.",
+      "id": "F01",
+      "rationale": "The Death Knights are offering subjugation, not ordinary employment or voluntary service.",
+      "replacement": "Then our Lord will take you as his slave.",
+      "severity": "minor",
+      "source": "Lines 121–123"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The dark blade had barely cleared its scabbard before it was forced back inside.",
+      "defect": "“Barely cleared its scabbard” says the blade had already emerged, while the source says it returned before it had even been drawn.",
+      "id": "F02",
+      "rationale": "The source emphasizes that the sword was stopped almost before the draw began.",
+      "replacement": "The dark blade had barely begun to emerge from its scabbard before it slid back inside.",
+      "severity": "minor",
+      "source": "Lines 185–187"
+    },
+    {
+      "confidence": 0.94,
+      "current": "A soldier in a crooked combat helmet stared at the sky with lifeless eyes.",
+      "defect": "“Combat helmet” drops the source's specific detail that the soldier wore a bulletproof helmet.",
+      "id": "F03",
+      "rationale": "방탄 specifies bulletproof protection, not merely a combat-style helmet.",
+      "replacement": "A soldier in a crooked bulletproof helmet stared at the sky with lifeless eyes.",
+      "severity": "minor",
+      "source": "Lines 209–212"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Hunters from the Public Security Armed Forces Department lay dead",
+      "defect": "The current states their identity as certain, omitting the source's indication that they only appeared or were presumed to be Hunters from that department.",
+      "id": "F04",
+      "rationale": "The Korean uses 짐작되는, preserving uncertainty about who the dead were.",
+      "replacement": "Those who appeared to be Hunters from the Public Security Armed Forces Department lay dead",
+      "severity": "minor",
+      "source": "Lines 213–215"
+    },
+    {
+      "confidence": 0.91,
+      "current": "their bodies mangled beyond recognition.",
+      "defect": "“Beyond recognition” adds a stronger condition than the source establishes. The source says they were not intact or whole, not that they were unrecognizable.",
+      "id": "F05",
+      "rationale": "온전치 못한 모습 describes damaged, incomplete bodies without asserting loss of recognizability.",
+      "replacement": "their bodies mangled.",
+      "severity": "minor",
+      "source": "Lines 213–215"
+    },
+    {
+      "confidence": 0.93,
+      "current": "So many died. So damn many.",
+      "defect": "The added profanity intensifies the narration beyond the source's repetition of “many,” which expresses shock without vulgarity.",
+      "id": "F06",
+      "rationale": "정말로 means “really,” not “damn”; the source's emotional force comes from repetition rather than profanity.",
+      "replacement": "So many died. Really, so many.",
+      "severity": "minor",
+      "source": "Lines 217–219"
+    },
+    {
+      "confidence": 0.94,
+      "current": "A Dullahan charged through the spray of foul-smelling brain matter, only to be cleaved in half with a single blow.",
+      "defect": "The current changes the physical image: the source has the Dullahan charging while being drenched or covered in foul-smelling brain matter, not merely moving through a spray.",
+      "id": "F07",
+      "rationale": "뒤집어쓰며 describes brain matter being thrown over the Dullahan and covering it.",
+      "replacement": "A Dullahan came charging at me, drenched in foul-smelling brain matter, only to be cleaved in half with a single blow.",
+      "severity": "minor",
+      "source": "Lines 301–305"
+    }
+  ],
+  "summary": "Several localized fidelity defects remain, chiefly softened hierarchy, altered physical details, and added certainty or intensity. No critical defect is present.",
+  "version": 1
+}
