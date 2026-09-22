@@ -1,6 +1,6 @@
 # Chapter 449
 
-From the moment they crossed the unnaturally powerful current of Tianling Falls and entered the territory of Donghu Stronghold, Ship-Fire Boy Mu Song’s heart had been beating faster and faster.
+From the moment they crossed the unnaturally powerful currents of Tianling Falls and entered Donghu Stronghold’s territory, Ship-Fire Boy Mu Song’s heart had begun to beat faster.
 
 *Uncle Hwang. I’ve come.*
 
@@ -26,7 +26,7 @@ The Hwang Chung he knew, the Yangtze One Saber, was thorough and cautious in eve
 
 Donghu Stronghold was a natural fortress built on the Yangtze.
 
-If unauthorized intruders crossed Tianling Falls, they would soon see a gorge several hundred zhang long, along with countless arrowheads waiting to greet them from above.
+If unauthorized intruders crossed Tianling Falls, they should have been met by a gorge several hundred zhang long and countless arrowheads aimed down at them from above.
 
 But…
 
@@ -72,7 +72,7 @@ Before the river bandits of Water Dragon Stronghold could move, someone strode f
 
 Fire King Jeok Cheongang had been raging only moments ago. Now he spoke in a low, somber voice as he extended one hand.
 
-Powerful internal energy shot across the distance and seized the corpse submerged in the water.
+A surge of powerful internal energy crossed the distance and dragged the half-submerged corpse from the water.
 
 Whoosh—thud!
 
@@ -90,7 +90,7 @@ Jin Taekyung strode over, and Mu Song nodded dazedly.
 
 Donghu Stronghold ruled the Yangtze in Hubei Province. Naturally, the name and sobriquet of its Deputy Stronghold Lord—and the right-hand man of Yangtze One Saber Hwang Chung—were widely known.
 
-Ignoring the sighs that escaped at the name Little Tide Demon, Jin Taekyung stared at Mu Song with a stiff expression.
+Ignoring the gasps that followed the name Little Tide Demon, Jin Taekyung stared grimly at Mu Song.
 
 “The Deputy Stronghold Lord? Are you certain?”
 
@@ -116,7 +116,7 @@ Boom! Booooom!
 
 The Scorching Yang Qi carried by the Flame Divine Palm evaporated the river water and propelled the swift ship forward.
 
-Only then did the others recover from their shock and begin moving after him.
+Only then did the others recover from their shock and spring into action.
 
 “Boatmen, return to your positions and take up the oars! Every second counts!”
 
@@ -162,7 +162,7 @@ The bodies we had seen around the ferry landing were only a fraction of the dead
 
 “I know.”
 
-I forced myself to ignore Hyuk Mujin, who was calling to me in a trembling voice.
+I forced myself to ignore Hyuk Mujin’s trembling voice.
 
 I had already seen what he was pointing at. My teeth clenched before I even realized it.
 
@@ -186,7 +186,7 @@ And among those countless dead was one particular person.
 
 “Uncle Hwang!”
 
-Mu Song’s beastlike roar echoed from far away. Gung Gibang muttered in a heavy voice.
+Mu Song’s beastlike roar echoed from far away. Gung Gibang muttered heavily beside me.
 
 “Looks like he finally found him.”
 
@@ -218,7 +218,7 @@ The sudden Sound Transmission slipped into my ear. I slowed my steps and answere
 
 —The same as you, Old Master.
 
-—You know what this old man is thinking?
+—And how do you know what this old man is thinking?
 
 —You’re thinking the same thing I am.
 
@@ -238,7 +238,7 @@ Jeok Cheongang’s Sound Transmission continued.
 
 Twice the strength of Donghu Stronghold…
 
-I had only realized it after coming here, but Donghu Stronghold was on a scale utterly incomparable to the other water strongholds.
+I had only learned it after coming here, but Donghu Stronghold was far larger than any ordinary water stronghold.
 
 The number of bodies discovered so far had already surpassed a thousand. In terms of size alone, it would not have been an exaggeration to call it a faction in its own right.
 
@@ -280,7 +280,7 @@ The Yangtze River Channel League was one of the thicker branches.
 
 If all the water strongholds scattered across the realm were gathered in one place, they would be a major force in their own right, and the number of masters among them would not fall far behind the Nine Sects and One Gang or the Five Great Families.
 
-And now that very branch of the Yangtze River Channel League had been broken.
+And now a branch of the Yangtze River Channel League had been broken.
 
 By someone whose identity remained unknown.
 
@@ -300,7 +300,7 @@ I finally let out the words that had been hovering on the tip of my tongue.
 
 Dark Heaven had already proved it could be done in Shaolin and Sichuan.
 
-If my guess was correct, it would also fully explain how they had gone unnoticed by the countless eyes traveling along the Yangtze.
+If my guess was correct, it would also fully explain how they had gone unnoticed by the countless people traveling along the Yangtze.
 
 Jeok Cheongang remained silent for a while before letting out a low groan.
 

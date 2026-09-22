@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Amid the commotion, Mu Song forced out a strained command.",
+      "defect": "The current omits that Mu Song had remained silent until this moment, an intentional emotional beat before he forces out the order.",
+      "id": "F01",
+      "rationale": "침묵하고 있던 무송이 목소리를 쥐어 짜냈다 explicitly establishes his silence and the effort required to speak. The command itself is supplied by the following dialogue, so 'strained command' does not preserve that characterization detail.",
+      "replacement": "Amid the commotion, Mu Song, who had remained silent, forced out his voice.",
+      "severity": "minor",
+      "source": "Korean lines 63–65; assembled [P32]"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Even a mongrel has the advantage in its own yard.",
+      "defect": "The generic 'mongrel' loses the established Ddong Gae wordplay: Taekyung is mockingly misremembering Hwang Gae's name as 똥개.",
+      "id": "F02",
+      "rationale": "Here 똥개 is not only the ordinary noun for a mongrel but also the established mocking name gag. Rendering it generically preserves the idiom's broad meaning but drops the source-specific joke and terminology cue.",
+      "replacement": "Even Ddong Gae starts one move ahead on his own turf.",
+      "severity": "minor",
+      "source": "Korean line 235; assembled [P117]"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with two minor fidelity defects: one dropped characterization detail and one lost wordplay/terminology cue.",
+  "version": 1
+}
