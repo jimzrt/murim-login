@@ -2043,3 +2043,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 고 족장 | **Chief Go** | Nanman chieftain ordered to organize scouts toward Guizhou. |
 | 살불 | **Killing Buddha** | Sobriquet of a fiend from the Great Faction War era. |
 | 화원 | **Fire Courtyard** | Courtyard associated with Jin Taekyung and Ju Hwaran's final walk before leaving Sichuan. |
+| 혈귀대 | **Blood Ghost Squad** | The Demonic Cult's elite strike force, composed of five hundred Peak masters. |
+| 신인 | **divine man** | Descriptive term for a human who became something beyond humanity. |
+| 수둔 | **Water Style** | Namho's water-based technique used against Taishan. |
+| 외궁 | **Outer Palace** | The outer compound of the Nanman Beast Palace. |
