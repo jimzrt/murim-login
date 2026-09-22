@@ -1098,3 +1098,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야수묘왕 | 장 족장 | Palace Lord to allied tribal chieftain | Chief Jang | familiar and paternal | The Beast Miao King asks Chief Jang about his weight and age during the council's opening banter. |
 | 장 족장 | 야수묘왕 | tribal chieftain to Palace Lord | Palace Lord | deferential and cordial | Chief Jang responds respectfully to the Beast Miao King's comments. |
 | 야수묘왕 | 갈 족장 | Palace Lord to allied tribal chieftain | Chief Gal | familiar and teasing | The Beast Miao King addresses Chief Gal while discussing his children. |
+| 백상 | 야수묘왕 | Nanman great chieftain to the Nanman Beast Palace Lord | Palace Lord | restrained and apologetic | Apologizes for causing the disturbance after the Beast Miao King stops the fight. |
+| 야수묘왕 | 장 족장 | Palace Lord to allied tribal chieftain | Chief Jang | authoritative and operational | Orders him to organize a scouting party toward Guizhou. |
+| 야수묘왕 | 고 족장 | Palace Lord to allied tribal chieftain | Chief Go | authoritative and operational | Orders him to organize a scouting party toward Guizhou. |
+| 태산 | 주화란 | Pavilion member to Pavilion member | Young Lady Ju | clipped, childlike, and deferential | Agrees with Ju Hwaran after she mentions the evening banquet. |

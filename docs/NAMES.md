@@ -2040,3 +2040,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 해남 | **Hainan** | Island region reached by sailing south from Guangxi. |
 | 황족 | **Huang tribe** | Nanman tribe involved in a recently settled dispute. |
 | 둥족 | **Dong tribe** | Nanman tribe involved in a recently settled dispute. |
+| 고 족장 | **Chief Go** | Nanman chieftain ordered to organize scouts toward Guizhou. |
