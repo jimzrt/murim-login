@@ -1,32 +1,29 @@
 # Translation State
 
-- Last completed: 633
-- Next chapter: 634
-- Current block: 630–634 (4/5)
-- Latest translation: `translations/0633.md`
-- Latest summary: `summaries/beats/0633.md`
-- Safe profiles through: chapter 633
+- Last completed: 634
+- Next chapter: 635
+- Current block: 630–634 (5/5)
+- Latest translation: `translations/0634.md`
+- Latest summary: `summaries/beats/0634.md`
+- Safe profiles through: chapter 634
 
 ## Current Block
 
-- An urgent report that something terrible has happened at Ailao Mountain triggers Jin Taekyung's sudden quest, Unknown Omen, which he accepts with a five-hour time limit. Yayul Cheok immediately mobilizes the Nanman Beast Palace and sends Yayul Mok with the Seven Miao Tigers to organize the Miao warriors and prepare the palace's defenses.
-- Yayul Mok lends White Tiger to Jin so he can conserve his internal energy, while Jin sends Namho back to warn the Fire Dragon Pavilion. As Jin and Yayul Cheok race toward Ailao Mountain, Yayul Cheok explains that it is Nanman's forbidden land and the former headquarters of the Five Poisons Sect, where released poisons and venomous beasts have continued multiplying since the sect's destruction by a former Fire Gate Clan Sect Leader.
+- Jin Taekyung and the Beast Miao King reach Ailao Mountain, whose old Five Poisons Sect legacy has survived for over a century despite the Nanman Beast Palace's past extermination attempts and ongoing military precautions. They find a poisoned sentry dead at the valley entrance and infer that he fled from something descending the mountain.
+- Following the scent of blood, they discover more than a hundred elite Nanman warriors massacred by poison, crushing force, and dismemberment, while nearly all of their accompanying beasts are missing. A colossal Black Tiger emerges from the darkness, and the system identifies it as Ailao Mountain's Wraith.
 
 ## Open Questions
 
-- What promise did Yohi and Baeksang make, and what does Yohi intend to gain from it?
-- Why does Baeksang believe Yayul Cheok's judgment was wrong, and can Jin change his position on the alliance?
-- Is Baeksang's rage at Jin's mention of someone's son connected to Jin Baekyang?
-- Will Nanman's tribal council agree to join the Murim Alliance, and is one of its thirty-two chiefs a Dark Heaven traitor?
-- What caused the catastrophe at Ailao Mountain, what role does Dark Heaven play, and what will Jin find there?
+- Did Dark Heaven cause the Ailao Mountain massacre, did the mountain's venomous beasts act independently, or are the beasts being controlled by Dark Heaven?
+- Why are nearly all of the warriors' accompanying beasts missing from the massacre site?
+- What is the relationship between the giant Black Tiger and Ailao Mountain's Wraith?
+- Can Jin Taekyung and the Beast Miao King identify the attacker before the investigation timer expires?
 
 ## Exceptional Decision
 
-- Use Baeksang for 백상 and do not treat White Elephant as a separate alias.
-- Use sworn younger brother for 불알 동생 in the relationship between Yayul Cheok and Baeksang.
-- Render 초절정 초입 as the early stage of Supreme Peak.
-- Render 칠묘호 as Seven Miao Tigers.
-- Render 소족장 and 소궁주 as Young Chieftain and Young Palace Lord.
+- Use Black Tiger for 흑호.
+- Use Ailao Mountain's Wraith for 애뇌산의 망령.
+- Use Transcendent for 초일류.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

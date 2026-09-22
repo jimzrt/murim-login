@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You’re saying pointless things in front of a Han Chinese man, Yohi.”",
+      "defect": "The neutral phrase “Han Chinese man” does not support Jin’s immediate complaint that Baeksang keeps calling him a “bastard,” breaking the exchange and the ensuing Bastard Family joke.",
+      "id": "C01",
+      "rationale": "Restoring the insult makes Jin’s response logically coherent and preserves the setup for Baeksang’s next line and Jin’s deadpan wordplay.",
+      "replacement": "“You’re saying pointless things in front of a Han Chinese bastard, Yohi.”",
+      "severity": "major",
+      "source": "Chapter 631, confrontation inside Yohi’s tent"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“That the Pavilion Master is looking for you.”",
+      "defect": "Jin’s established title in this packet is “Pavilion Head,” but Namho calls him “Pavilion Master” here.",
+      "id": "C02",
+      "rationale": "Using the established title prevents terminology drift within the same chapter sequence.",
+      "replacement": "“That the Pavilion Head is looking for you.”",
+      "severity": "minor",
+      "source": "Chapter 633, Namho preparing to return to the Fire Dragon Pavilion"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Pavilion Master, there’s one last thing I want to say.”",
+      "defect": "The form of address repeats the chapter’s drift from the established title “Pavilion Head.”",
+      "id": "C03",
+      "rationale": "This keeps Namho’s address consistent with Jin’s established Murim Alliance title throughout the packet.",
+      "replacement": "“Pavilion Head, there’s one last thing I want to say.”",
+      "severity": "minor",
+      "source": "Chapter 633, Namho’s final warning to Jin"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Go with them. Gather the warriors under the Miao people and raise a force in case something happens.”",
+      "defect": "“The warriors under the Miao people” is an unnatural and unclear description of warriors belonging to the Miao tribe.",
+      "id": "C04",
+      "rationale": "The replacement is natural US English and matches the packet’s established term “Miao warriors” without changing the order’s meaning.",
+      "replacement": "“Go with them. Gather the Miao warriors and raise a force in case something happens.”",
+      "severity": "minor",
+      "source": "Chapter 633, the Beast Miao King ordering Yayul Mok to mobilize"
+    }
+  ],
+  "summary": "The packet preserves its major hooks, tone, and continuity without spoilers, but contains one broken insult-based joke, two instances of title drift, and one awkward description of the Miao forces.",
+  "version": 1
+}

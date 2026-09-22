@@ -2004,3 +2004,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 원후 | **Wonhu** | Named member of the Beast Miao King's personal guard, the Seven Miao Tigers. |
 | 만적 | **Manjeok** | Named member of the Beast Miao King's personal guard, the Seven Miao Tigers. |
 | 칠묘호 | **Seven Miao Tigers** | The Beast Miao King's personal guard, composed of elite Miao warriors. |
+| 흑호 | **Black Tiger** | A colossal black tiger that appears at the Ailao Mountain massacre site. |
+| 애뇌산의 망령 | **Ailao Mountain's Wraith** | System designation for the entity that appears after the Black Tiger emerges. |
