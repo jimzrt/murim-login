@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "There seemed to be a few strange articles mixed in here and there, but simply reading them filled him with pride.",
+      "defect": "The source does not specify only a few articles or that he reads them; it says strange-content articles are mixed in intermittently and that merely looking at them makes pride well up deep in his chest. The current line adds a quantity, changes the action, and drops the physical emotional image.",
+      "id": "F01",
+      "rationale": "보는 것만으로도 가슴 깊숙한 곳에서 뿌듯함이 차올랐다 describes pride rising deep inside his chest from merely looking, not specifically from reading.",
+      "replacement": "Strange articles seemed to be mixed in here and there, but simply looking at them made a deep sense of pride well up inside his chest.",
+      "severity": "minor",
+      "source": "Korean lines 57–59; P27"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The Arch Lich must be panicking too.",
+      "defect": "Panicking adds a stronger fear response than the source establishes. The source says the Arch Lich was likely flustered or caught off guard by the reversal.",
+      "id": "F02",
+      "rationale": "당황했을 듯 indicates being flustered, surprised, or caught off guard, not necessarily panicking.",
+      "replacement": "The Arch Lich must have been caught off guard too.",
+      "severity": "minor",
+      "source": "Korean lines 91–93; P42"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Looking at Jin Taekyung now honestly brings tears to my eyes…",
+      "defect": "The current line adds tears as a physical reaction. The source says the speaker feels genuinely moved, without establishing that he cries or nearly cries.",
+      "id": "F03",
+      "rationale": "내가 다 감격스럽다 means that the speaker himself is deeply moved; it does not state that the sight brings tears to his eyes.",
+      "replacement": "Looking at Jin Taekyung now, I’m genuinely moved…",
+      "severity": "minor",
+      "source": "Korean line 137; P61"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Hero’s Soul flashed through the air, slicing through both the lizard man’s weapon and its body.",
+      "defect": "The source explicitly depicts Hero’s Soul being swung like a streak of light. The current wording replaces the wielding action and source image with the weapon merely flashing through the air.",
+      "id": "F04",
+      "rationale": "빛살처럼 휘둘려진 describes the weapon being swung like a ray or streak of light before cutting through the weapon and body.",
+      "replacement": "Hero’s Soul, swung like a streak of light, sliced through both the lizard man’s weapon and its body.",
+      "severity": "minor",
+      "source": "Korean lines 163–165; P73"
+    },
+    {
+      "confidence": 0.9,
+      "current": "I had first noticed this same sense of unease on the second day after we launched our mobile campaign for the full-scale counterattack.",
+      "defect": "The current line changes the narrator’s sense of incongruity into unease, which implies anxiety rather than the perception that something is strangely out of place.",
+      "id": "F05",
+      "rationale": "이질감 refers to a sense of incongruity or foreignness; it is distinct from the later 꺼림칙한 feeling of unease.",
+      "replacement": "I had first felt this same sense of incongruity on the second day after we began mobile warfare as part of the full-scale counterattack.",
+      "severity": "minor",
+      "source": "Korean lines 229–231; P106"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The darkness swirling within it was drawn toward a single point.",
+      "defect": "The current line adds a specific destination, a single point, that the source does not establish, and weakens the image of the darkness being sucked inward.",
+      "id": "F06",
+      "rationale": "어딘가를 향해 빨려 들어간다 means it is sucked toward somewhere, without specifying that the destination is a single point.",
+      "replacement": "The darkness swirling within it was sucked toward somewhere.",
+      "severity": "minor",
+      "source": "Korean lines 275–277; P128"
+    },
+    {
+      "confidence": 0.98,
+      "current": "As the pitch-black darkness vanished, the light of the setting sun streamed through shattered windows and fell upon a solitary being.",
+      "defect": "Solitary adds that the being is alone or isolated. The source only says that the light touched one being.",
+      "id": "F07",
+      "rationale": "한 존재 means one being or a single entity; it does not establish solitude.",
+      "replacement": "As the pitch-black darkness vanished, the light of the setting sun streamed through shattered windows and touched a single being.",
+      "severity": "minor",
+      "source": "Korean lines 279–280; P129"
+    }
+  ],
+  "summary": "Mostly faithful, but the assembled copy contains several minor fidelity regressions involving source-specific emotional imagery, action mechanics, and added physical detail.",
+  "version": 1
+}

@@ -6,13 +6,13 @@ Still, for some people, certain things mattered more than mana-stone elevators o
 
 “The internet got faster.”
 
-The man who muttered those words in a reverent voice adjusted his glasses.
+The man who spoke those words in a reverent voice adjusted his glasses.
 
 It was 11:30 a.m. Behind him, the ramen he had just dropped into the pot bubbled away, while cold rice and sour kimchi waited on the table.
 
 Everything was ready. In exactly three minutes, he would add one—no, two—A-grade jumbo eggs he had agonized over buying during a supermarket sale. Then, after two more minutes, the perfect lunch would be complete.
 
-And until then, the boredom would be solved by the marvelous modern civilization known as the smartphone.
+Until then, the marvelous invention known as the smartphone would relieve his boredom.
 
 “Let’s seeee, today’s news…”
 
@@ -32,7 +32,7 @@ The main page of *Hunter University*, a massive online forum he frequented, had 
 
 6. **[Chinese Chairman Xiao Yang: “Every one of them is a hero.”]**
 
-7. **[Maesaeng-i.com Translation: Overseas netizens react to the current situation. “Who the hell is this ‘Lady of the House’ Koreans keep killing every chance they get?”]**
+7. **[Maesaeng-i.com Translation: Overseas netizens react to the current situation. “Who the hell is this Jumo that Koreans keep killing every chance they get?”]**
 
 8. **[Japanese Prime Minister Maigumi Shinjiro: “Monster waves must be handled in a Fun, Cool, and Sexy manner.” When a reporter asked what that meant, he grinned and replied, “Explaining it wouldn’t be sexy.”]**
 
@@ -62,11 +62,11 @@ The comment section was already on the verge of exploding.
 
 > └ LMAOOOO isn’t that still completely insane?
 
-> └ For realㅋㅋㅋㅋ You’re the kind of bastard who’d get a goblin’s poison stinger in the ass and yell, “Ow, please let go gently!” Aren’t you the same guy who used an aura blade with your keyboard last time?
+> └ For realㅋㅋㅋㅋ You’re the kind of bastard who’d get a goblin’s poison stinger in the ass and cry, “Ahh, please be gentle!” Aren’t you the same guy who was swinging an aura blade with his keyboard last time?
 
 > But at this point, Jin Taekyung doesn’t seem like an ordinary S-rank Hunter. Are all the other S-rank Hunters like that too?
 
-> └ Even during the Great Cataclysm, feats on this level were rare. Cheon Taemin doesn’t count because he was just on another level entirely… But if you look at the records from the Great Cataclysm, Lee Jungryong probably accomplished something similar too.
+> └ Even during the Great Cataclysm, feats on this level were rare. Cheon Taemin doesn’t count because he was just on another level entirely… But if you look at the records from the Great Cataclysm, Lee Jungryong accomplished something similar too.
 
 > └ Hmm. So he still isn’t at Lee Jungryong’s level? Disappointing.
 
@@ -74,7 +74,7 @@ The comment section was already on the verge of exploding.
 
 > └ 222. You only have to look at what happened a week ago. He wiped out the monster army with the fewest casualties across all five fronts. Jin Taekyung is incredible, but Lee Jungryong and Ares Guild are fucking amazing too. The northern front is actually advancing a little faster right now.
 
-> └ Comments like this make me nervous for no reason. I’m worried that a bunch of idiots will show up again and start going wild with the versus arguments.
+> └ Comments like this always make me nervous. A bunch of idiots are going to rush in and start another endless versus war.
 
 > └ They’ve been IP-banned to hell, so it should be fine. But at this point, isn’t the whole incident basically over? They’re crushing the monsters with mobile warfare right now.
 
@@ -106,13 +106,13 @@ The monster wave, which had initially been taken with deadly seriousness, had no
 
 *Then again, we have been hearing a lot of good news lately.*
 
-The man nodded. It was only natural. According to the battlefield reports from the UN Security Council, there was no doubt that the tide had already turned decisively.
+The man nodded. It was only natural. According to the battlefield reports from the UN Security Council, the tide had clearly turned.
 
 A week ago, the surprise attack launched simultaneously against all five fronts had caused enormous damage. But reinforcements far exceeding the number of casualties had been dispatched, and victory after victory had followed.
 
 *At this rate, it might be over in a few days.*
 
-Their momentum was unstoppable, like splitting bamboo. The western front under Jin Taekyung and the northern front led by Lee Jungryong stood out the most.
+Their momentum was unstoppable. Of all the battlefronts, the western front under Jin Taekyung and the northern front led by Lee Jungryong stood out the most.
 
 *The little punk. I was so worried about him at first, but he’s doing even better than I expected.*
 
@@ -168,7 +168,7 @@ Clang! Slash!
 
 —Kiruk, krk!
 
-Overwhelmed by the human offensive pouring down like a wave, the monsters were helplessly driven back.
+The human offensive crashed over the monsters like a wave, driving them back without mercy.
 
 Their numbers were roughly even, but the monsters were no match for us in either morale or the quality of their forces.
 
@@ -182,7 +182,7 @@ When one fled, ten followed. After that came an uncontrollable rout.
 
 Sure enough, my prediction proved correct, and cries of certain victory soon rang out.
 
-“Pursue them! Don’t let a single one survive!”
+“Pursue them! Don’t let a single one escape!”
 
 “Get the speed buffs up!”
 
@@ -190,7 +190,7 @@ Sure enough, my prediction proved correct, and cries of certain victory soon ran
 
 Shwish-shwish! Boom!
 
-The Hunters, their momentum at its peak, began slaughtering the monsters fleeing without even maintaining formation.
+With their spirits soaring, the Hunters began slaughtering the monsters as they fled without any semblance of formation.
 
 It did not take long for the six-lane asphalt road, which would have been packed with cars only a month ago, to become buried beneath monster corpses.
 
@@ -260,4 +260,4 @@ As the pitch-black darkness vanished, the light of the setting sun streamed thro
 
 The voice was as cold as the winter wind.
 
-Having gathered its mana, the Arch Lich’s eyes gleamed.
+The Arch Lich reined in its mana, its eyes blazing.
