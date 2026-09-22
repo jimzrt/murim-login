@@ -1,0 +1,2030 @@
+{
+  "baseline_blocks": 207,
+  "baseline_sha256": "dfcfc057dcc3d099d17ad62b283a405955e3dc7f478a5ca41530dce45685a03f",
+  "global_terminology_alerts": [
+    {
+      "korean": "출혈",
+      "preferred": "Bleeding"
+    }
+  ],
+  "hunk_count": 110,
+  "hunks": [
+    {
+      "baseline": "*Where had things gone wrong? And what had gone wrong?*",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "*Where had things gone wrong? What had gone wrong?*",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Committing all manner of crimes to make the Guild grow without pause, then continuing to feed his greed without ever learning satisfaction?",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "Committing all manner of crimes to keep the Guild growing, then feeding his greed without ever learning to be satisfied?",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That I became enemies with him?*",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "*Making an enemy of him?*",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Jungryong’s gaze settled on one person—a young man whose body was stained with blood from the bleeding wounds covering him.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "Lee Jungryong’s gaze settled on one person—a young man stained with blood from wounds all over his body.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "출혈",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Bleeding"
+        }
+      ]
+    },
+    {
+      "baseline": "After looking up at the sky and taking a deep breath, the young man parted his lips.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "The young man looked up at the sky, drew a deep breath, and parted his lips.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Why was it? The moment Lee Jungryong heard that quiet voice, a chill ran down his spine. Though he had not suffered a single wound, he felt as if he had been cut by a blade.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "23",
+      "sol": "Why was it? The moment Lee Jungryong heard that quiet voice, a chill ran down his spine. Though he had not suffered a single wound, he felt as if a blade had cut him.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Looking at him, Jin Taekyung formed a feral smile.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "A savage grin spread across Jin Taekyung’s face.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "29",
+      "sol": "“…!”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wind blew, and in the instant the space between them vanished, Lee Jungryong swung his sword with a sharp whistle.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "33",
+      "sol": "The wind stirred, and in the instant the space between them vanished, Lee Jungryong swung his sword with a sharp whistle.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A dazzling concentration of qi sliced through Jin Taekyung’s body. But instead of blood, wind scattered through the air.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "37",
+      "sol": "A dazzling concentration of qi sliced through Jin Taekyung’s body. But instead of blood, only wind scattered through the air.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A red alarm bell rang in Lee Jungryong’s mind.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "41",
+      "sol": "An alarm blared in Lee Jungryong’s mind.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Flung backward by an irresistible force, he twisted his body in midair and righted himself.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "55",
+      "sol": "Flung backward by an irresistible force, he twisted in midair and righted himself.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His fist throbbed, and something surged up from inside him. But he was not even given time to spit out the blood.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "57",
+      "sol": "His fist throbbed, and something surged up from deep inside him. But he was not even given time to spit out the blood.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A spearhead had already rushed up to his face.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "61",
+      "sol": "A spearhead was already bearing down on him.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The spear Jin Taekyung had hurled was aimed at Lee Jungryong’s chest. Gritting his teeth, Lee Jungryong poured all his strength into knocking the spear upward with his sword.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "63",
+      "sol": "The spear Jin Taekyung had hurled was aimed straight at Lee Jungryong’s chest. Gritting his teeth, he poured all his strength into knocking it upward with his sword.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The spear narrowly missed and smashed through the concrete, leaving behind a massive crater.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "67",
+      "sol": "The spear narrowly missed and smashed through the concrete, leaving a massive crater.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Jungryong succeeded in deflecting it, but the spear’s terrifying power and spin tore his hand open, sending blood spraying into the air.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "69",
+      "sol": "Lee Jungryong had succeeded in deflecting it, but its terrifying power and rotation tore open his palm, sending blood spraying through the air.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He paid it no mind and thrust his foot through the thick cloud of dust.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "71",
+      "sol": "He paid it no mind and launched himself through the thick cloud of dust.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The dust and fog, unable to withstand his blinding speed, scattered in every direction.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "75",
+      "sol": "The dust and fog scattered in every direction, unable to withstand his blinding speed.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the end of Lee Jungryong’s step stood a single person.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "77",
+      "sol": "At the end of his charge stood a single person.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "이정룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Lee Jungryong"
+        },
+        {
+          "korean": "정룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jungryong"
+        }
+      ]
+    },
+    {
+      "baseline": "Jin Taekyung was already holding a new spear. He slashed the spearhead down in every direction. Space split apart, and flames surged upward.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "81",
+      "sol": "Jin Taekyung was already holding a new spear. He brought the spearhead down in slashes from every direction. Space split apart, and flames surged upward.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tip of Lee Jungryong’s sword pierced straight through the center.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "83",
+      "sol": "The tip of Lee Jungryong’s sword pierced straight through their center.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Jungryong’s body shot forward like an arrow along it, charging toward Jin Taekyung.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "89",
+      "sol": "Lee Jungryong shot through it like an arrow, charging toward Jin Taekyung.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sword held a single thought. It shone brilliantly and moved as fast as light.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "93",
+      "sol": "His sword held a single thought. It shone brilliantly and moved as fast as light.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yet Jin Taekyung’s eyes, seen within the slowed-down world, were clearly smiling.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "95",
+      "sol": "Yet within the slowed-down world, Jin Taekyung’s eyes were clearly smiling.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, a tremendous force struck the sword blade that had seemed ready to pierce Jin Taekyung’s throat.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "103",
+      "sol": "At the same time, tremendous force slammed into the blade that had seemed poised to pierce Jin Taekyung’s throat.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was Lee Jungryong—the one who had made his way through the vortex of the Great Cataclysm, the most violent upheaval in human history, and a ruthless hero born of his age.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "115",
+      "sol": "He was Lee Jungryong—the man who had fought his way through the vortex of the Great Cataclysm, the most violent upheaval in human history. An ambitious warlord born of his age.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Jungryong gripped his sword, now webbed with fine cracks.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "117",
+      "sol": "Lee Jungryong tightened his grip on his sword, now webbed with fine cracks.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There had been countless twists and turns on the road that had brought him here. He had endured distant despair and days of unbearable rage.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "121",
+      "sol": "There had been countless twists and turns on the road that had brought him here. He had known bottomless despair and days of unbearable rage.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. Perhaps even now…",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "125",
+      "sol": "No. Perhaps he still did.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But—",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "127",
+      "sol": "But…",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The veins across his body stood out, and his muscles swelled.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "135",
+      "sol": "Veins bulged across his body, and his muscles swelled.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Powerful qi erupted from Lee Jungryong’s entire body, pressing down on everything around him.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "139",
+      "sol": "Powerful qi erupted from Lee Jungryong, pressing down on everything around him.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He dragged up every last scrap of strength he had saved for the very end and glared at Jin Taekyung with bloodshot eyes.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "141",
+      "sol": "He drew out every last scrap of strength he had saved for the very end and glared at Jin Taekyung with bloodshot eyes.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He’s practically a man who no longer exists. The greatest in the world is… me.”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "143",
+      "sol": "“He’s as good as gone now. The greatest in the world is… me.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything surrounding Lee Jungryong trembled.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "147",
+      "sol": "Everything around Lee Jungryong trembled.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung watched him with calm eyes that held not the slightest hint of wavering.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "149",
+      "sol": "Jin Taekyung watched him with calm eyes that held not the slightest hint of doubt.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The waves of energy flowing from both men clawed at everything around them.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "155",
+      "sol": "The waves of energy pouring from both men clawed at everything around them.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In a fleeting instant split into countless fragments, they charged toward each other at the same time.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "157",
+      "sol": "Within a fleeting instant split into countless fragments, they charged at each other.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their collision was like a flash of light, and the aftermath was enormous.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "163",
+      "sol": "Their collision came like a flash of light, and the aftermath was immense.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A spearhead wrapped in blue flame and a sword enveloped in dazzling light flew toward each other.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "167",
+      "sol": "A spearhead wrapped in blue flame and a sword enveloped in dazzling light flew at each other.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Masses of light tore through space as they charged.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "171",
+      "sol": "Masses of light tore through space.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung kicked off the ground and rose into the air, driving his spear down with tremendous force.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "173",
+      "sol": "Jin Taekyung kicked off the ground and soared into the air, driving his spear down with tremendous force.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One strike. Two strikes. Three.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "175",
+      "sol": "One strike. Two. Three.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every time spear and sword collided, thunderous booms erupted along with immense shock waves.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "179",
+      "sol": "Every time spear and sword collided, a thunderous boom erupted along with a massive shock wave.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before long, blood spilling from the corner of Lee Jungryong’s mouth scattered in droplets.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "181",
+      "sol": "Before long, blood from the corner of Lee Jungryong’s mouth was scattering in droplets.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His body staggered for an instant.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "185",
+      "sol": "He staggered for an instant.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the brief glimpse of weakness shown by the old lion, the young male lion bared his teeth.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "189",
+      "sol": "At that brief glimpse of weakness from the old lion, the young male bared his teeth.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The spearhead swept horizontally, slashing fiercely toward Lee Jungryong’s side.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "193",
+      "sol": "The spearhead swept horizontally toward Lee Jungryong’s side.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The two men were so close that their breaths nearly touched. Lee Jungryong barely blocked the spear, and through the weapons pressed against each other, his eyes met Jin Taekyung’s—a pair of eyes pouring flame.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "199",
+      "sol": "They were close enough to feel each other’s breath. Lee Jungryong barely managed to block the spear, and over their locked weapons, his gaze met Jin Taekyung’s blazing eyes.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He’s young. Just as I was in the past.*",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "201",
+      "sol": "*He’s young. Just as I once was.*",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Why had such a thought suddenly come to him at a time like this?",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "207",
+      "sol": "Why had that thought come to him now, of all times?",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Was it because he was remembering his own old, pathetic self that he failed to block Jin Taekyung’s palm as it came flying through the flames?",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "209",
+      "sol": "Why had remembering his own pathetic, wretched past kept him from blocking Jin Taekyung’s flame-wreathed palm?",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was hot.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "215",
+      "sol": "Heat.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The qi that had been protecting his entire body without a gap shattered, and terrible heat seeped deep into his lungs.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "219",
+      "sol": "The qi protecting every inch of his body shattered, and terrible heat seeped deep into his lungs.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the blue flames filling his vision and the pain, old memories flashed through Lee Jungryong’s mind like arrows.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "223",
+      "sol": "Amid the blue flames filling his vision and the searing pain, memories from long ago flashed through Lee Jungryong’s mind like arrows.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What’s this sudden exchange of names?”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "233",
+      "sol": "“Why are you suddenly asking my name?”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Just because. You looked about my age, and it was nice to see someone my age.”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "235",
+      "sol": "“Just because. You look about my age. Nice to meet someone my age.”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Young fellow, suddenly dropping the honorifics, are we? You look much younger than me.”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "239",
+      "sol": "“Young fellow, you’ve suddenly gotten awfully casual. You look much younger than me.”",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……Do you really have time to say things like that in a situation like this?”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "243",
+      "sol": "“…Do you really have time to say things like that in a situation like this?”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A man he had met during the early days of the Great Cataclysm, when they were surrounded by countless monsters in a desperate, life-or-death situation.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "249",
+      "sol": "It was the early days of the Great Cataclysm. They had met while surrounded by countless monsters, trapped in a desperate life-or-death crisis.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Jungryong had thought he was half-mad with fear of death.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "253",
+      "sol": "Lee Jungryong had thought the man was half-mad with fear of death.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least, he had thought so until that madman suddenly stepped forward and swept away more than a thousand monsters.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "257",
+      "sol": "At least until that madman stepped forward and swept away more than a thousand monsters.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What the hell…”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "261",
+      "sol": "“What the hell…?”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After the battle ended, the man came back and asked him the same question as before.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "265",
+      "sol": "After the battle, the man returned and asked him the same question.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Lee Jungryong… sir.”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "269",
+      "sol": "“I’m Lee Jungryong…”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Cool name. How old are you? Oh, I’m five years older. That’s not much of a difference. Should we just be friends?”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "271",
+      "sol": "“Cool name. How old are you? Oh, I’m five years older. That’s hardly a difference. Should we just be friends?”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At their first meeting, A-rank Hunter Lee Jungryong discovered his hero—and, at the same time, an immense mountain range he could never cross.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "277",
+      "sol": "At their first meeting, A-rank Hunter Lee Jungryong had found his hero—and, at the same time, an immense mountain range he could never cross.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The man had grinned and said,",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "287",
+      "sol": "The man had grinned.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how many times he repeated the name, it left behind a deep resonance.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "293",
+      "sol": "No matter how many times he repeated the name, it resonated deeply within him.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even when he tried to forget it, the face remained etched in his mind.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "295",
+      "sol": "Even when he tried to forget, the face remained etched in his mind.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A giant who cast a massive shadow over Lee Jungryong’s life.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "297",
+      "sol": "A giant who cast an immense shadow over Lee Jungryong’s life.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Jungryong cried out in a boiling voice.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "301",
+      "sol": "Lee Jungryong roared, his voice boiling with rage.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The vision that had been bleached white with pain shattered like glass, and the wind rushing past his ears was fierce.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "303",
+      "sol": "His vision, bleached white with pain, shattered like glass. The wind screamed past his ears.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When he came to his senses, Lee Jungryong was crashing through a high-rise building and slamming into cold concrete with tremendous force.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "305",
+      "sol": "When he came to his senses, he was crashing through a high-rise building and slamming into cold concrete with tremendous force.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "이정룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Lee Jungryong"
+        },
+        {
+          "korean": "정룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jungryong"
+        }
+      ]
+    },
+    {
+      "baseline": "His vision was blurred, and pain surged through every part of his body.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "313",
+      "sol": "His vision blurred, and pain assailed him from every part of his body.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps his shattered ribs had pressed against his organs, because breathing was difficult. His broken left arm and leg dangled uselessly.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "315",
+      "sol": "His shattered ribs must have been digging into his organs, because every breath was a struggle. His broken left arm and leg dangled uselessly.",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "While the attack had stopped, even if only briefly, he needed to heal his wounds.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "321",
+      "sol": "The attack had stopped, if only for a moment. He had to heal himself now.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Jungryong groped at his side with his relatively uninjured right arm, but the place where his dimensional pouch should have been was empty.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "323",
+      "sol": "Lee Jungryong groped at his side with his relatively uninjured right arm, but the spot where his dimensional pouch should have been was empty.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Instead, he saw someone approaching him from far away.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "325",
+      "sol": "Instead, he found someone approaching from far away.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, are you looking for this?”",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "327",
+      "sol": "“Ah, looking for this?”",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A magic-enhanced glass bottle rolled over and came to rest by Lee Jungryong’s feet.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "333",
+      "sol": "A magic-enhanced glass bottle rolled over and came to rest at Lee Jungryong’s feet.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a top-tier potion, a miraculous medicine said to save anyone as long as they still had breath in their body.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "337",
+      "sol": "It was a top-tier potion, a miraculous medicine said to save anyone as long as they still drew breath.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was, however, a considerable difference between it and the state Lee Jungryong remembered.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "339",
+      "sol": "It looked considerably different from the last time Lee Jungryong had seen it.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I was so thirsty that I drank it. Man, it was refreshing. Did you just come back from a mineral spring?”",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "341",
+      "sol": "“I was so thirsty, I drank it. Man, that hit the spot. What mineral spring did you get it from?”",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Jin Taekyung approached and spoke as casually as ever, Lee Jungryong let out a hollow laugh.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "343",
+      "sol": "As Jin Taekyung approached, speaking as casually as ever, Lee Jungryong let out a hollow laugh.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The familiar feeling he had deliberately ignored when he first encountered Jin Taekyung, covering it with the two words *anxiety* and *interest*.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "351",
+      "sol": "When he had first encountered Jin Taekyung, he had felt something familiar deep in his chest. He had tried to ignore it, disguising it beneath the words *anxiety* and *interest*.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung’s face had drawn close, and superimposed over it was the image of another person.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "357",
+      "sol": "Jin Taekyung was already standing before him, the image of another person superimposed over his face.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lee Jungryong muttered like a groan.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "359",
+      "sol": "Lee Jungryong groaned out the words.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How could Jin Taekyung resemble him so much?",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "369",
+      "sol": "How could Jin Taekyung resemble him so closely?",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Why could some F-rank Hunter like that grow stronger, rather than Lee Jungryong—the man who had followed in Cheon Taemin’s footsteps, achieved countless feats, and been hailed as a hero?",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "371",
+      "sol": "Why had some lowly F-rank Hunter grown stronger instead of Lee Jungryong—the man who had followed Cheon Taemin, accomplished countless feats, and been hailed as a hero?",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, Jin Taekyung smiled and continued,",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "375",
+      "sol": "Jin Taekyung smiled.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Jungryong’s personal bully.”",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "379",
+      "sol": "“Your personal bully.”",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "정룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jungryong"
+        }
+      ]
+    },
+    {
+      "baseline": "Then, like an echo rebounding from far away, the face and voice of someone from the depths of Lee Jungryong’s stale memories overlapped with his.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "381",
+      "sol": "Then, like an echo returning from far away, the face and voice of someone buried deep in Lee Jungryong’s old memories overlapped with his.",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The two men, speaking different words with different meanings, were both smiling.",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "385",
+      "sol": "The two men had spoken different words with different meanings, yet both were smiling.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After a wait that lasted no more than an instant yet felt like eternity, a hollow voice forced its way between his lips.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "395",
+      "sol": "The wait lasted no more than an instant, yet felt like eternity. At last, a hollow voice slipped between his lips.",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If someone asked whether he had not even a handful of regrets, the answer was no.",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "399",
+      "sol": "If someone asked whether he truly had not even a handful of regrets, the answer was no.",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Lee Jungryong could not regret it. He did not want to regret it.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "401",
+      "sol": "But Lee Jungryong could not regret it. He did not want to.",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He simply believed this was the ending most suited to him.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "403",
+      "sol": "He simply believed this was the ending that suited him best.",
+      "sol_paragraphs": "P181",
+      "sol_range": [
+        180,
+        181
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A cold sentence fell toward Lee Jungryong, who was smiling brightly.",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "407",
+      "sol": "A cold reply fell upon Lee Jungryong’s bright smile.",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Your last words. I heard them.”",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "409",
+      "sol": "“Last words duly noted.”",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The words were cold. The spearhead that followed them burned with blue flame.",
+      "baseline_paragraphs": "P186",
+      "baseline_range": [
+        185,
+        186
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "413",
+      "sol": "The spearhead that followed burned with blue flame.",
+      "sol_paragraphs": "P186",
+      "sol_range": [
+        185,
+        186
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The flames, carrying heat hot enough to melt anything, roared to life in an instant. After burning everything, they finally died away.",
+      "baseline_paragraphs": "P188",
+      "baseline_range": [
+        187,
+        188
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "415",
+      "sol": "The flames roared to life in an instant, searing with tremendous heat. Once they had burned everything away, they died down.",
+      "sol_paragraphs": "P188",
+      "sol_range": [
+        187,
+        188
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "All that remained in the melted concrete and blackened ruins was a trace that someone had once been there.",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "415",
+      "sol": "All that remained amid the melted concrete and blackened ruins was the trace of someone who had once been there.",
+      "sol_paragraphs": "P189",
+      "sol_range": [
+        188,
+        189
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the sound of a bell that only one person in the world could hear.",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "415",
+      "sol": "And the chime of a bell that only one person in the world could hear.",
+      "sol_paragraphs": "P190",
+      "sol_range": [
+        189,
+        190
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What kind of life had Lee Jungryong lived? What had he been thinking at the end? And then there were the movements he had shown and his strange behavior…",
+      "baseline_paragraphs": "P196",
+      "baseline_range": [
+        195,
+        196
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "415",
+      "sol": "What kind of life had Lee Jungryong lived? What had he been thinking at the end? And then there were those movements and his strange behavior…",
+      "sol_paragraphs": "P196",
+      "sol_range": [
+        195,
+        196
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A wave of mental exhaustion suddenly washed over me, but ironically, my body felt lighter than ever after receiving the effects of a top-tier potion and leveling up.",
+      "baseline_paragraphs": "P199",
+      "baseline_range": [
+        198,
+        199
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "415",
+      "sol": "Mental exhaustion suddenly washed over me, but ironically, my body felt lighter than ever thanks to the top-tier potion and the effects of leveling up.",
+      "sol_paragraphs": "P199",
+      "sol_range": [
+        198,
+        199
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And more than anything, I had a reason to keep moving forward.",
+      "baseline_paragraphs": "P200",
+      "baseline_range": [
+        199,
+        200
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "415",
+      "sol": "More than anything, I had a reason to keep moving forward.",
+      "sol_paragraphs": "P200",
+      "sol_range": [
+        199,
+        200
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before that bastard transformed the enormous city into a Gate, I had to kill—",
+      "baseline_paragraphs": "P203",
+      "baseline_range": [
+        202,
+        203
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "415",
+      "sol": "Before that bastard transformed this enormous city into a Gate, I had to kill—",
+      "sol_paragraphs": "P203",
+      "sol_range": [
+        202,
+        203
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I raised my head, a sensation like every hair on my body standing on end washing over me.",
+      "baseline_paragraphs": "P206",
+      "baseline_range": [
+        205,
+        206
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "415",
+      "sol": "Every hair on my body stood on end as I raised my head.",
+      "sol_paragraphs": "P206",
+      "sol_range": [
+        205,
+        206
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 207,
+  "sol_sha256": "f011b49db00275950d99156bf5e3934edce36488cf65ed13e0e4794bc3a7079f",
+  "version": 1
+}

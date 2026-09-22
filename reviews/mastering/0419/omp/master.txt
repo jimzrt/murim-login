@@ -2,7 +2,7 @@
 
 Lee Jungryong suddenly wondered.
 
-*Where had things gone wrong? And what had gone wrong?*
+*Where had things gone wrong? What had gone wrong?*
 
 Driving out his hyung’s bloodline and seizing control of Ares Guild?
 
@@ -12,7 +12,7 @@ Or perhaps…
 
 *Making an enemy of him?*
 
-Lee Jungryong’s gaze settled on one person—a young man whose body was stained with blood from the bleeding wounds covering him.
+Lee Jungryong’s gaze settled on one person—a young man stained with blood from wounds all over his body.
 
 The young man looked up at the sky, drew a deep breath, and parted his lips.
 
@@ -20,7 +20,7 @@ The young man looked up at the sky, drew a deep breath, and parted his lips.
 
 Why was it? The moment Lee Jungryong heard that quiet voice, a chill ran down his spine. Though he had not suffered a single wound, he felt as if a blade had cut him.
 
-Looking at him, Jin Taekyung formed a savage grin.
+A savage grin spread across Jin Taekyung’s face.
 
 “Let’s clip those claws.”
 
@@ -36,7 +36,7 @@ A dazzling concentration of qi sliced through Jin Taekyung’s body. But instead
 
 An afterimage. Not the real thing.
 
-A red alarm bell rang in Lee Jungryong’s mind.
+An alarm blared in Lee Jungryong’s mind.
 
 *Behind me!*
 
@@ -56,7 +56,7 @@ His fist throbbed, and something surged up from deep inside him. But he was not 
 
 *Shweeeeeek!*
 
-A spearhead had already rushed up to his face.
+A spearhead was already bearing down on him.
 
 The spear Jin Taekyung had hurled was aimed straight at Lee Jungryong’s chest. Gritting his teeth, he poured all his strength into knocking it upward with his sword.
 
@@ -64,21 +64,21 @@ The spear Jin Taekyung had hurled was aimed straight at Lee Jungryong’s chest.
 
 The spear narrowly missed and smashed through the concrete, leaving a massive crater.
 
-Lee Jungryong succeeded in deflecting it, but the spear’s terrifying power and spin tore his hand open, sending blood spraying into the air.
+Lee Jungryong had succeeded in deflecting it, but its terrifying power and rotation tore open his palm, sending blood spraying through the air.
 
-He paid it no mind and thrust his foot through the thick cloud of dust.
+He paid it no mind and launched himself through the thick cloud of dust.
 
 *Boom!*
 
 The dust and fog scattered in every direction, unable to withstand his blinding speed.
 
-At the end of Lee Jungryong’s step stood a single person.
+At the end of his charge stood a single person.
 
 “Reckless, aren’t you? My kind of guy.”
 
 Jin Taekyung was already holding a new spear. He brought the spearhead down in slashes from every direction. Space split apart, and flames surged upward.
 
-The tip of Lee Jungryong’s sword pierced straight through the center.
+The tip of Lee Jungryong’s sword pierced straight through their center.
 
 *Whoom! Boom!*
 
@@ -120,7 +120,7 @@ There had been countless twists and turns on the road that had brought him here.
 
 He had spent half his life in someone else’s shadow, branded as number two.
 
-No. Perhaps even now…
+No. Perhaps he still did.
 
 But…
 
@@ -130,7 +130,7 @@ But…
 
 Veins bulged across his body, and his muscles swelled.
 
-Powerful qi erupted from Lee Jungryong’s entire body, pressing down on everything around him.
+Powerful qi erupted from Lee Jungryong, pressing down on everything around him.
 
 He drew out every last scrap of strength he had saved for the very end and glared at Jin Taekyung with bloodshot eyes.
 
@@ -148,7 +148,7 @@ Jin Taekyung watched him with calm eyes that held not the slightest hint of doub
 
 The waves of energy pouring from both men clawed at everything around them.
 
-In a fleeting instant split into countless fragments, they charged toward each other at the same time.
+Within a fleeting instant split into countless fragments, they charged at each other.
 
 * * *
 
@@ -162,7 +162,7 @@ A spearhead wrapped in blue flame and a sword enveloped in dazzling light flew a
 
 *Shwish-shwish-shwish-shwish!*
 
-Masses of light tore through space as they charged.
+Masses of light tore through space.
 
 Jin Taekyung kicked off the ground and soared into the air, driving his spear down with tremendous force.
 
@@ -176,9 +176,9 @@ Before long, blood from the corner of Lee Jungryong’s mouth was scattering in 
 
 He staggered for an instant.
 
-At the brief glimpse of weakness shown by the old lion, the young male lion bared his teeth.
+At that brief glimpse of weakness from the old lion, the young male bared his teeth.
 
-The spearhead swept horizontally, slashing fiercely toward Lee Jungryong’s side.
+The spearhead swept horizontally toward Lee Jungryong’s side.
 
 *Kwaang!*
 
@@ -208,9 +208,9 @@ Amid the blue flames filling his vision and the searing pain, memories from long
 
 “Ah, yes. I meant you.”
 
-“What’s this sudden exchange of names?”
+“Why are you suddenly asking my name?”
 
-“Just because. You looked about my age, and it was nice to see someone my age.”
+“Just because. You look about my age. Nice to meet someone my age.”
 
 “Young fellow, you’ve suddenly gotten awfully casual. You look much younger than me.”
 
@@ -224,11 +224,11 @@ It was the early days of the Great Cataclysm. They had met while surrounded by c
 
 Lee Jungryong had thought the man was half-mad with fear of death.
 
-At least, he had thought so until that madman suddenly stepped forward and swept away more than several thousand monsters.
+At least until that madman stepped forward and swept away more than a thousand monsters.
 
 *Crack-crack-crack!*
 
-“What the hell…”
+“What the hell…?”
 
 “Now! Charge!”
 
@@ -236,7 +236,7 @@ After the battle, the man returned and asked him the same question.
 
 “Your name?”
 
-“Lee Jungryong… sir.”
+“I’m Lee Jungryong…”
 
 “Cool name. How old are you? Oh, I’m five years older. That’s hardly a difference. Should we just be friends?”
 
@@ -254,7 +254,7 @@ At their first meeting, A-rank Hunter Lee Jungryong had found his hero—and, at
 
 “Oh, I haven’t told you yet.”
 
-The man had grinned and said,
+The man had grinned.
 
 “Cheon Taemin.”
 
@@ -270,7 +270,7 @@ A giant who cast an immense shadow over Lee Jungryong’s life.
 
 Lee Jungryong roared, his voice boiling with rage.
 
-The vision that had been bleached white with pain shattered like glass, and the wind rushing past his ears was fierce.
+His vision, bleached white with pain, shattered like glass. The wind screamed past his ears.
 
 When he came to his senses, he was crashing through a high-rise building and slamming into cold concrete with tremendous force.
 
@@ -282,7 +282,7 @@ Dark-red blood spurted between his lips.
 
 His vision blurred, and pain assailed him from every part of his body.
 
-Perhaps his shattered ribs had pressed against his organs, because breathing was difficult. His broken left arm and leg dangled uselessly.
+His shattered ribs must have been digging into his organs, because every breath was a struggle. His broken left arm and leg dangled uselessly.
 
 *A potion. The potion…*
 
@@ -302,9 +302,9 @@ A magic-enhanced glass bottle rolled over and came to rest at Lee Jungryong’s 
 
 It was a top-tier potion, a miraculous medicine said to save anyone as long as they still drew breath.
 
-There was, however, a considerable difference between it and the state Lee Jungryong remembered.
+It looked considerably different from the last time Lee Jungryong had seen it.
 
-“I was so thirsty that I drank it. Man, it was refreshing. Did you just come back from a mineral spring?”
+“I was so thirsty, I drank it. Man, that hit the spot. What mineral spring did you get it from?”
 
 As Jin Taekyung approached, speaking as casually as ever, Lee Jungryong let out a hollow laugh.
 
@@ -334,9 +334,9 @@ Why had some lowly F-rank Hunter grown stronger instead of Lee Jungryong—the m
 
 “Me?”
 
-The next moment, Jin Taekyung smiled and continued,
+Jin Taekyung smiled.
 
-“Jungryong’s personal bully.”
+“Your personal bully.”
 
 Then, like an echo returning from far away, the face and voice of someone buried deep in Lee Jungryong’s old memories overlapped with his.
 
@@ -354,7 +354,7 @@ The wait lasted no more than an instant, yet felt like eternity. At last, a holl
 
 “I don’t regret it. Never.”
 
-If someone asked whether he had not even a handful of regrets, the answer was no.
+If someone asked whether he truly had not even a handful of regrets, the answer was no.
 
 But Lee Jungryong could not regret it. He did not want to.
 
@@ -364,11 +364,11 @@ He simply believed this was the ending that suited him best.
 
 A cold reply fell upon Lee Jungryong’s bright smile.
 
-“Your last words. I heard them.”
+“Last words duly noted.”
 
 *Fwoom.*
 
-The spearhead that followed, wreathed in blue flame unlike that cold voice.
+The spearhead that followed burned with blue flame.
 
 * * *
 
@@ -387,7 +387,7 @@ And the chime of a bell that only one person in the world could hear.
 > - Level up!
 > - Level up!
 
-Listening to the cheerful System notification, I slowly withdrew my spear.
+Listening to the cheerful System notification, I slowly lowered my spear.
 
 *Damn old man.*
 
@@ -407,7 +407,7 @@ More than anything, I had a reason to keep moving forward.
 
 The source of all this.
 
-Before that bastard transformed the enormous city into a Gate, I had to kill—
+Before that bastard transformed this enormous city into a Gate, I had to kill—
 
 “H-human.”
 

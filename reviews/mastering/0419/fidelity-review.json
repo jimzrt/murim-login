@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.89,
+      "current": "a young man whose body was stained with blood from the bleeding wounds covering him",
+      "defect": "The English adds the image of wounds covering the young man. The Korean says that blood stains parts of his entire body because of the bleeding, without stating that wounds cover him.",
+      "id": "F01",
+      "rationale": "전신 곳곳이 피로 물들어 있는 describes blood staining various parts of his body; it does not explicitly establish wounds covering the body.",
+      "replacement": "a young man whose body was stained with blood here and there from the bleeding",
+      "severity": "minor",
+      "source": "Lines 17–18"
+    },
+    {
+      "confidence": 0.91,
+      "current": "He brought the spearhead down in slashes from every direction.",
+      "defect": "The action is generalized into slashes from every direction, losing the source’s crisscrossing vertical-and-horizontal movement.",
+      "id": "F02",
+      "rationale": "종횡으로 specifies movement across and along the axes, rather than an unrestricted attack from every direction.",
+      "replacement": "He brought the spearhead down in crisscrossing slashes.",
+      "severity": "minor",
+      "source": "Line 71"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Jin Taekyung watched him with calm eyes that held not the slightest hint of doubt.",
+      "defect": "The current wording changes the source’s lack of wavering or disturbance into a lack of doubt. The Korean emphasizes composure, not certainty or belief.",
+      "id": "F03",
+      "rationale": "일말의 흔들림 없이 means without the slightest wavering; it describes the steadiness of his gaze.",
+      "replacement": "Jin Taekyung watched him with a gaze that did not waver in the slightest.",
+      "severity": "minor",
+      "source": "Lines 123–125"
+    },
+    {
+      "confidence": 0.87,
+      "current": "Why had some lowly F-rank Hunter grown stronger instead of Lee Jungryong—the man who had followed Cheon Taemin, accomplished countless feats, and been hailed as a hero?",
+      "defect": "“Followed Cheon Taemin” can mean physically accompanying him, rather than following his example or footsteps as the source conveys.",
+      "id": "F04",
+      "rationale": "그를 따라 무수한 업적을 세우며 presents Jungryong as someone who followed Cheon Taemin’s path while achieving those feats.",
+      "replacement": "Why had some lowly F-rank Hunter grown stronger instead of Lee Jungryong—the man who had followed in Cheon Taemin’s footsteps, accomplished countless feats, and been hailed as a hero?",
+      "severity": "minor",
+      "source": "Line 321"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the face and voice of someone buried deep in Lee Jungryong’s old memories overlapped with his.",
+      "defect": "The translation drops the source’s image of memories that have become stale, long-settled, or musty with age.",
+      "id": "F05",
+      "rationale": "케케묵은 기억 carries more than simple age; it characterizes the memories as long-stale and deeply buried.",
+      "replacement": "the face and voice of someone buried deep in Lee Jungryong’s stale memories overlapped with his.",
+      "severity": "minor",
+      "source": "Line 329"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Every hair on my body stood on end as I raised my head.",
+      "defect": "The current wording states that the hair actually stood on end. The Korean describes the sensation of feeling as though it had happened.",
+      "id": "F06",
+      "rationale": "전신의 털이 곤두서는 듯한 감각 is a sensation “as if” all the body hair were standing on end.",
+      "replacement": "I raised my head, feeling as if every hair on my body had stood on end.",
+      "severity": "minor",
+      "source": "Lines 411–413"
+    },
+    {
+      "confidence": 0.86,
+      "current": "Jin Taekyung was already standing before him, the image of another person superimposed over his face.",
+      "defect": "The current wording changes the approaching face into Jin Taekyung standing before him and weakens the source’s immediate face-to-face proximity.",
+      "id": "F07",
+      "rationale": "코앞으로 다가온 진태경의 얼굴 specifically presents Taekyung’s face as having come right up to Jungryong.",
+      "replacement": "Jin Taekyung’s face was already right before him, the image of another person superimposed over it.",
+      "severity": "minor",
+      "source": "Lines 307–312"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but several minor fidelity defects remain involving physical detail, action geometry, characterization, and omitted source imagery.",
+  "version": 1
+}
