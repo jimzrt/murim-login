@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 631
-- Next chapter: 632
-- Current block: 630–634 (2/5)
-- Latest translation: `translations/0631.md`
-- Latest summary: `summaries/beats/0631.md`
-- Safe profiles through: chapter 631
+- Last completed: 632
+- Next chapter: 633
+- Current block: 630–634 (3/5)
+- Latest translation: `translations/0632.md`
+- Latest summary: `summaries/beats/0632.md`
+- Safe profiles through: chapter 632
 
 ## Current Block
 
-- Baeksang recognizes Jin Taekyung despite his tiger mask and confronts him for meeting Yohi. He reveals that he once accompanied Yayul Cheok when Jeok Cheongang first appeared as the Fire King, and that Jeok burned him after Baeksang called him a crazy old man. Baeksang rejects Jin's position and insists that Nanman has already shed enough blood for the Central Plains, while Jin argues that their blood was shed for the world. Baeksang's rage at Jin's mention of someone's son leads Jin to suspect a connection to Head Elder Jin Baekyang.
-- Jin returns to his quarters and finds Hyuk Mujin roasting a wild boar. Two days pass while the Fire Dragon Pavilion investigates the Nanman Beast Palace and its surroundings for Dark Heaven traces without finding anything. Yayul Mok visits repeatedly with wild boar supposedly found by White Tiger, then informs Jin that the Inner Palace has summoned him on the day before the tribal council.
+- Yayul Cheok secretly summons Jin Taekyung and Namho before dawn to a ruined shrine, where he reflects on his lifelong bond with Baeksang. Jin and Namho warn that even trusted allies may serve Dark Heaven, while Jin insists that the Southern Heaven Demon Empress will not leave Nanman alone. An urgent warning and System alert interrupt the meeting.
 
 ## Open Questions
 
 - What promise did Yohi and Baeksang make, and what does Yohi intend to gain from it?
 - Why does Baeksang believe Yayul Cheok's judgment was wrong, and can Jin change his position on the alliance?
 - Is Baeksang's rage at Jin's mention of someone's son connected to Jin Baekyang?
-- Why has the Inner Palace summoned Jin Taekyung?
-- Will Nanman's tribal council agree to join the Murim Alliance, and are Dark Heaven's traces absent or merely undiscovered?
+- Will Nanman's tribal council agree to join the Murim Alliance, and is one of its thirty-two chiefs a Dark Heaven traitor?
+- Who delivered the urgent warning at the shrine, and what triggered the System alert?
 
 ## Exceptional Decision
 

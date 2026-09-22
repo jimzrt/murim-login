@@ -1,6 +1,6 @@
 # Namho (남호)
 
-- **Safe through:** Chapter 629
+- **Safe through:** Chapter 632
 - **Aliases:** Elder Chao
 - **Role:** Namho is an eighty-year-old non-Han Hidden Shadow Pavilion agent who spent more than fifty years operating under the cover of the Poison Flower Pavilion in Nanman and now serves as the Fire Dragon Pavilion’s guide.
 - **Personality:** Duty-bound, pragmatic, observant, and willing to use theatrical violence and crude insults to protect an intelligence operation.
