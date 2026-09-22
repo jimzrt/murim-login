@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Old memories have come back to you.”",
+      "defect": "The draft adds “to you,” incorrectly assigning the resurfacing memories to the Beast Miao King rather than Baeksang’s own recollection.",
+      "id": "F01",
+      "rationale": "The Korean has no second-person object, and Baeksang immediately begins recounting his own memories.",
+      "replacement": "“This brings back old memories.”",
+      "severity": "major",
+      "source": "“옛 기억이 떠오르는구려.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Even then, the result would not have changed. We were born with different vessels from the start.”",
+      "defect": "“Born with different vessels” is an unnatural cultivation calque rather than natural English for differing innate capacity.",
+      "id": "F02",
+      "rationale": "Here 그릇 metaphorically denotes innate caliber or potential, not a literal vessel.",
+      "replacement": "“Even then, the result would not have changed. We were born with different potential from the start.”",
+      "severity": "minor",
+      "source": "“그래도 결과는 변하지 않았을 거요. 애초부터 타고난 그릇이 달랐으니까.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The corners of his eyes, curved like half-moons, had grown wet with an unreadable moisture.",
+      "defect": "“Unreadable moisture” is an unnatural English collocation and obscures the deliberately unacknowledged emotion.",
+      "id": "F03",
+      "rationale": "알 수 없는 습기 presents the moisture indirectly as something unexplained or unacknowledged.",
+      "replacement": "The corners of his crescent-shaped eyes were already damp for reasons he could not name.",
+      "severity": "minor",
+      "source": "반달처럼 휘어진 그의 눈가는 어느덧 알 수 없는 습기로 젖어 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“They are all watching. You and me. All of us.”",
+      "defect": "“All of us” broadens 우리 into a larger group and loses the deliberate distinction between the two individuals and their shared identity or bond.",
+      "id": "F04",
+      "rationale": "The source intentionally repeats 형님과 나를 and 우리를 separately; the replacement preserves that distinction and its ambiguity.",
+      "replacement": "“Everyone is watching. You and me. And us.”",
+      "severity": "major",
+      "source": "“모두가 지켜보고 있소. 형님과 나를. 그리고 우리를.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A criminal who had committed an unforgivable crime had to die as a criminal, without pity or excuses.",
+      "defect": "Rendering 사연 as “excuses” loses Baeksang’s intention to conceal the tragic circumstances that might make others understand or sympathize with him.",
+      "id": "F05",
+      "rationale": "사연 means the personal story or circumstances behind his actions; Baeksang is deliberately presenting himself as an unqualified traitor.",
+      "replacement": "A criminal who had committed an unforgivable crime had to die as a criminal, without sympathy or any tale of why he had done it.",
+      "severity": "major",
+      "source": "용서받을 수 없는 죄를 저지른 죄인은, 어떠한 동정이나 사연도 없이 죄인으로 죽어야 한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“We have executed Baeksang, the traitor who joined forces with Dark Heaven!”",
+      "defect": "The draft changes the implied subject from the Beast Miao King, who personally struck the fatal blow and is making the declaration, to an unsupported collective “we.”",
+      "id": "F06",
+      "rationale": "The Beast Miao King alone carries out the execution, and the declaration publicly claims that duty as Palace Lord.",
+      "replacement": "“I have executed Baeksang, the traitor who joined forces with Dark Heaven!”",
+      "severity": "critical",
+      "source": "“암천과 결탁한 역도, 백상을 처단했다!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The old silk, carrying someone’s years and hopes, fluttered away on a cool breeze that had come from somewhere.",
+      "defect": "“Fluttered away” adds that the silk was carried off, while the source only says it fluttered in the breeze.",
+      "id": "F07",
+      "rationale": "흩날렸다 describes fluttering or billowing; it does not establish that the silk leaves Baeksang’s face.",
+      "replacement": "The old silk, carrying someone’s years and hopes, fluttered in a cool breeze that had come from somewhere.",
+      "severity": "minor",
+      "source": "누군가의 세월과 염원이 담긴 그 낡은 비단이, 어디선가 불어온 선선한 바람에 실려 흩날렸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I was left speechless by the sheer escalation.",
+      "defect": "“Sheer escalation” is stiff and loses the colloquial joke that the increasingly absurd naming scheme has run the bit into the ground.",
+      "id": "F08",
+      "rationale": "뇌절 colloquially describes carrying a joke or conceit far beyond the point where it should have stopped.",
+      "replacement": "The bit had been run so far into the ground that I was speechless.",
+      "severity": "minor",
+      "source": "극한의 뇌절에 나는 할 말을 잃었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“If you confess obediently even now, I’ll finish with just a little scorching. You’re a quack, aren’t you?”",
+      "defect": "“Confess obediently” and “finish with just a little scorching” are unnatural calques that make the threat difficult to parse.",
+      "id": "F09",
+      "rationale": "순순히 고하다 means to come clean without resistance, while 정도로 끝내주마 means Jeok will limit the punishment to a minor burning.",
+      "replacement": "“If you come clean now, I’ll let you off after singeing you a little. You’re a quack, aren’t you?”",
+      "severity": "minor",
+      "source": "“지금이라도 순순히 고한다면 살짝 지지는 정도로 끝내주마. 네놈, 돌팔이지?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The child hasn’t woken up for seven days and nights. Does that make any sense? Go bring Yayul Cheok here.”",
+      "defect": "The draft replaces the first use of the Beast Miao King’s title with his personal name, erasing the source’s register shift when Jeok uses “Yayul Cheok” only in the following, more forceful repetition.",
+      "id": "F10",
+      "rationale": "The source first says 야수묘왕 and then escalates to 야울척 in the next command; preserving that title-to-name shift retains Jeok Cheongang’s mounting impatience.",
+      "replacement": "“The child hasn’t woken up for seven days and nights. Does that make any sense? Go get the Beast Miao King.”",
+      "severity": "major",
+      "source": "“애가 칠 주야가 지나도록 안 깨어나는데 이게 말이 된단 말이냐? 야수묘왕 불러와.”"
+    }
+  ],
+  "summary": "One critical subject error changes who claims Baeksang’s execution; several major issues alter a remembered subject, Baeksang’s intended lack of a sympathetic story, relationship nuance, and a title-to-name register shift. Localized wording also needs correction.",
+  "version": 1
+}
