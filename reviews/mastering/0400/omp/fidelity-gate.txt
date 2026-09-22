@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is broadly faithful, with four localized minor fidelity regressions involving an unstated power comparison, a uniform's physical description, the referent of beauty, and an omitted auditory image.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 8–9 / P4",
+      "current": "The young human before him was extraordinarily powerful. Even if the black knight fought with everything he had, victory was far from certain. His opponent might even be stronger than he was.",
+      "defect": "The final sentence makes the comparison explicitly against the black knight's strength. The Korean leaves the comparison broader: the young human's strength might exceed the already-described level sufficient to make victory uncertain.",
+      "replacement": "The young human before him was an unbelievably powerful opponent. Someone whose strength was so great that even if the black knight gave it everything he had, he could not guarantee victory—or perhaps someone even stronger than that.",
+      "rationale": "The source does not directly establish that Jin is stronger than the black knight; it describes an uncertain victory threshold and then allows for even greater strength.",
+      "confidence": 0.86
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 59 / P30",
+      "current": "a middle-aged man in a dark, sharply tailored uniform",
+      "defect": "“Sharply tailored” changes the source's physical description of an angular, rigid-looking uniform into a description of its cut or fit.",
+      "replacement": "a middle-aged man in a dark, angular uniform",
+      "rationale": "각진 제복 describes the uniform's angular appearance, which the accepted baseline preserved directly.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 199–201 / P103–P104",
+      "current": "And she was so beautiful…",
+      "defect": "The beauty is reassigned from the woman's voice to the woman herself. The Korean continues describing the sound or voice after stating that it is lively and bright.",
+      "replacement": "And so beautiful…",
+      "rationale": "The source keeps 소리 as the grammatical focus across the two fragments; the accepted baseline likewise preserves the voice as beautiful.",
+      "confidence": 0.84
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 375–377 / P195",
+      "current": "At the sound of Jin Taekyung’s voice, the black knight’s body went rigid.",
+      "defect": "The sentence drops the source's physical image of Jin Taekyung's voice piercing into the black knight's ear.",
+      "replacement": "When Jin Taekyung’s voice pierced his ear, the black knight’s body went rigid.",
+      "rationale": "귓가를 파고든 specifies an intrusive auditory sensation, not merely the sound's presence; the accepted baseline preserved this detail.",
+      "confidence": 0.92
+    }
+  ]
+}

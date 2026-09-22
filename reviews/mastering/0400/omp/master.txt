@@ -22,7 +22,7 @@ The black knight knew that well.
 
 He had repeated those words to himself ever since his childhood training. By surviving countless battles, he had grown into a mighty warrior.
 
-*…Me?*
+*…I did?*
 
 Confusion struck again. The moment his thoughts faltered, his movements became erratic.
 
@@ -56,7 +56,7 @@ As the black knight staggered beneath the relentless barrage, memories belonging
 
 “He must be enrolled in the Zhonghua Development Training program immediately!”
 
-Humans dressed in dazzling white clothes chattered excitedly. Among them stood a middle-aged man in a dark, sharply tailored uniform.
+Humans in spotless white coats spoke in excited voices. Among them stood a middle-aged man in a dark, sharply tailored uniform.
 
 “Zhonghua Development Training? You intend to raise that child as a Hunter?”
 
@@ -66,7 +66,7 @@ Humans dressed in dazzling white clothes chattered excitedly. Among them stood a
 
 “Pardon?”
 
-“No, Comrade Lieutenant General. What do you mean? This child…”
+“Comrade Lieutenant General, what do you mean? This child…”
 
 “Enough.”
 
@@ -78,7 +78,7 @@ The middle-aged man continued in a subdued voice.
 
 “I know how noble their work is. But that was how my brother-in-law…”
 
-The middle-aged man suddenly stopped and shook his head.
+The middle-aged man stopped and shook his head.
 
 “Nothing you say will change my mind. If not for the directive from above, I would never have allowed him to be tested. We’re leaving. The rest is up to you.”
 
@@ -108,7 +108,7 @@ He stared at the child for a long time, biting his lip. When he finally released
 
 “If the child changes his mind, we’ll stop the training at any time.”
 
-The oldest-looking man placed a hand on the middle-aged man’s shoulder.
+The oldest among them placed a hand on the middle-aged man’s shoulder.
 
 “Please trust us and leave him in our care, Comrade Lieutenant General Wei Fenghu.”
 
@@ -124,17 +124,17 @@ Boom!
 
 Did his chest ache because of the blow he had taken, or was there another reason?
 
-As the staggering black knight stared ahead, more memories appeared before his eyes.
+As the black knight staggered, another memory appeared before his eyes.
 
 “You think you’re the best just because the adults praise you?”
 
-A boy in a bow tie and black suit glared at him with sharp eyes. His polished shoes gleamed.
+A boy in a bow tie, black suit, and polished shoes glared at him.
 
 “Don’t get the wrong idea. I’m the best. You’re second!”
 
-The black knight’s vision tilted to one side, and then an innocent voice rang out.
+The black knight’s view tilted as his head cocked to one side, and an innocent voice emerged.
 
-“Okay. Let’s do that, then.”
+“Okay. We’ll do that, then.”
 
 “What?”
 
@@ -158,11 +158,11 @@ It took only an instant to subdue the boy who had suddenly lunged at him. Pinned
 
 As one memory faded, another surfaced, as though someone were tossing stones one after another into a still pond.
 
-The memories of that unknown person continued to throw the black knight’s mind into confusion.
+The memories of that unknown person continued to churn through the black knight’s mind.
 
 “Top trainee, ■■■■, step forward.”
 
-A small number of people filled a vast space.
+A handful of people stood in a vast hall.
 
 For some reason, he could not make out the name being called, but his body moved on its own.
 
@@ -182,7 +182,7 @@ It was a familiar face—the same man from the first memory. He leaned closer an
 
 “I was taught that a Hunter is also a guardian. Remaining unseen does not diminish my honor.”
 
-“There is something I have not been able to tell you until now.”
+“There is something I’ve never told you.”
 
 The older man’s grip tightened on his shoulder.
 
@@ -206,21 +206,21 @@ Her voice was so cheerful and bright.
 
 And she was so beautiful…
 
-The black knight—or rather, a man who had passed through his youthful years and grown more mature—felt his heart pound.
+No longer an awkward youth but a grown man, the black knight—or rather, the man within the memory—felt his heart pound.
 
-“Are you a customer?”
+“Sir?”
 
 “N-No, I… I came to buy some fl-flowers.”
 
 “For your parents? Or your girlfriend?”
 
-“My parents. Strictly speaking, they aren’t my parents. It’s my uncle who raised me…”
+“My parents. Well, strictly speaking, he isn’t my parent. He’s my uncle, the man who raised me…”
 
 “I see. You speak so formally, though. Are you a soldier?”
 
 “S-Something like that.”
 
-It was a strange memory. His words kept breaking off, and everything before his eyes repeatedly turned white.
+It was a strange memory. His words kept catching in his throat, and his vision repeatedly went white.
 
 When he came to his senses, he was walking dazedly into a hospital room with a bright bouquet in his arms.
 
@@ -238,11 +238,11 @@ At Wei Fenghu’s question, he answered blankly.
 
 “Yes… Huh?”
 
-“You ungrateful brat! Hey, you!”
+“You ungrateful brat! You little—!”
 
 Smack! Smack!
 
-The man laughed even as he was beaten with the bouquet. A quiet laugh escaped him at his own stupidity, and he could not help laughing because she looked like chrysanthemums.
+The man laughed even as Wei Fenghu beat him with the bouquet. A chuckle escaped at his own stupidity, and he couldn’t help smiling when he thought of the woman who reminded him of chrysanthemums.
 
 After that, the memories sped by.
 
@@ -272,11 +272,11 @@ By the time all four seasons had passed, they were no longer merely a flower-sho
 
 Of all the memories he had seen, that one lasted the longest.
 
-After a silence so long that a single second felt like ten years, or even a hundred, she finally opened her mouth.
+After a silence in which every second felt like ten years—like a hundred—she finally spoke.
 
 “I have something to tell you too.”
 
-“No, before that, let me give you my answer…”
+“No, first, let me hear your answer…”
 
 “I’m pregnant.”
 
@@ -288,7 +288,7 @@ The man’s heart hammered wildly, and the black knight writhed in agony.
 
 “Aaah… Aaaaaah!”
 
-His head hurt as if it were splitting apart, and it felt as though someone were wringing out his insides with their hands.
+His head felt as if it were splitting open, and it seemed as though someone were reaching inside him and wringing out his entire body.
 
 Along with pain beyond anything he had ever imagined, another memory forced its way into the empty space.
 
@@ -304,9 +304,9 @@ And its growth.
 
 “Dada. Dada-da!”
 
-“Honey, honey! Did you hear that? Our baby’s already saying ‘Dada.’ Could our baby be a genius?”
+“Honey! Honey, did you hear that? Our baby’s already saying ‘Dada.’ Do you think she’s a genius?”
 
-“Could you change the diaper?”
+“Could you change her diaper?”
 
 “Wait. Let me hear it one more time.”
 
@@ -314,7 +314,7 @@ And its growth.
 
 “Hahaha! That’s right! We’re your daddy and mommy!”
 
-The day the baby, bundled in a swaddling cloth and squirming helplessly, succeeded in rolling over.
+The day the tiny baby bundled in swaddling cloth managed to roll over.
 
 The day she first crawled on all fours.
 
@@ -326,7 +326,7 @@ But it did not take long for those dreamlike days to become a nightmare.
 
 “The mana level in Gaoping District has spiked!”
 
-“Gaoping District? Keep trying to contact them, and mobilize and deploy the Second Regiment as a precaution.”
+“Gaoping District? Keep trying to establish contact, and mobilize the Second Regiment as a precaution.”
 
 “D-Director, we’ve lost communications.”
 
@@ -374,7 +374,7 @@ Beneath the falling rain of fire, the man thought of his beloved wife and five-y
 
 And then he came face-to-face with *that being*.
 
-“If you had run, you could have lived.”
+“If you had fled, you might have lived.”
 
 “I’ll kill you.”
 
@@ -394,7 +394,7 @@ Thirty-six years of memories from his life as a human crashed over him like a ti
 
 —I am… I am…
 
-What in the world was he?
+What was he?
 
 As the black knight trembled in confusion and pain, a thunderous voice rang through his mind.
 
