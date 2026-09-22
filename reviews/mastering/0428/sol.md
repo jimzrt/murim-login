@@ -2,7 +2,7 @@
 
 I sat up and released the breath I’d been holding.
 
-“God, I’m dying.”
+“God, that was killing me.”
 
 Pretending to be unconscious for four days took a considerable amount of patience.
 
@@ -20,7 +20,7 @@ As I rolled my stiff neck from side to side, Team Leader Choi let out a quiet la
 
 “If anyone had seen this on CCTV, there would’ve been quite an uproar.”
 
-“That’s a terrible thing to say. If that had happened, I would’ve bitten my tongue and killed myself.”
+“What a horrifying thought. If that had happened, I would’ve bitten off my tongue and killed myself.”
 
 Fortunately, there were no CCTV cameras, so my tongue was safe.
 
@@ -40,9 +40,9 @@ I shrugged.
 
 “Yeah. I made it malfunction. A little adjustment like that wasn’t difficult.”
 
-After opening my Middle Dantian this time, my control over my internal energy had improved tremendously.
+Opening my Middle Dantian had dramatically improved my control over my internal energy.
 
-If I couldn’t even fool a few medical devices, I would’ve been so frustrated that I’d have gone to check the temperature of the Han River.
+If I couldn’t even fool a few medical devices, I would’ve been so ashamed I’d have gone to check the temperature of the Han River.
 
 “Anyway, what do you think will happen with the Wu Heixing situation? From what Grandpa Jongseok said, it sounds like he’s made preparations.”
 
@@ -74,7 +74,7 @@ As if he had read my mind, Team Leader Choi said, “Did you know Chairman Xiao 
 
 That told me everything I needed to know.
 
-Chairman Shao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
+He had a personal grudge against the Crown Prince Party, and after surviving years of hardship, he had risen all the way to the top. The man had a spine of steel.
 
 “When the time comes, a blade sharpened for years has to be swung. To the Crown Prince Party, Chairman Xiao will be the most dangerous swordsman of all.”
 
@@ -96,19 +96,19 @@ Team Leader Choi peeled a second apple and handed it to me.
 
 “Your judgment was correct. If the press had learned that you woke up after only half a day, there would’ve been no avoiding suspicion.”
 
-According to the news Team Leader Choi had given me, Lee Jungryong had not even left behind a body, and his death was considered certain by the public. Wu Heixing, who had died with his neck broken, had been caught in the aftermath of the battle and discovered as a gruesome corpse.
+According to Team Leader Choi, Lee Jungryong hadn’t left so much as a corpse behind, and the public now considered him all but confirmed dead. Wu Heixing, whose neck had been broken, had been caught in the aftermath of the battle and discovered as a horribly mangled corpse.
 
 If I’d woken up perfectly fine after half a day under those circumstances, the press would’ve had a field day tearing me apart.
 
 “When you first woke up, even I had trouble regaining my composure… Had you already anticipated all this before you dealt with those two?”
 
-I answered while biting into the apple.
+I bit into the apple.
 
-“I didn’t think that far.”
+“No.”
 
 “What?”
 
-“No, my body was tired and my head hurt, so I just told them not to announce it yet. If people found out I was awake, there’d be hell to pay inside and out.”
+“I was exhausted and my head hurt, so I just told you not to announce it yet. If word got out that I was awake, all hell would’ve broken loose inside and outside the country.”
 
 “…”
 
@@ -138,9 +138,9 @@ Like right now.
 >
 > There is too much information to process. From now on, Fame-related notifications will be combined and delivered once a month.
 
-“……You should’ve done that from the start, you bastard.”
+“…You should’ve done that from the start, asshole.”
 
-The sigh slipped out before I could stop it, and Team Leader Choi tilted his head.
+The complaint slipped out before I could stop it, and Team Leader Choi tilted his head.
 
 “Pardon?”
 
@@ -152,7 +152,7 @@ My mother and Hayeon had arrived in China only a few hours earlier aboard a char
 
 “You don’t have to tell me about her. She’ll be fine on her own.”
 
-“……Ah. Yes.”
+“…Ah. Of course.”
 
 I couldn’t bring myself to keep my condition secret from my family, so I’d had Team Leader Choi quietly tell them that I was completely unharmed and already awake.
 
@@ -208,7 +208,7 @@ Wham!
 
 “…Ah.”
 
-Team Leader Choi, his eyes wide, muttered in a hollow voice.
+Team Leader Choi’s eyes bulged as he muttered in a hollow voice.
 
 “M-My special underwear… It doesn’t burn, it doesn’t get wet, and it even has a semipermanent cleaning spell…”
 
@@ -234,7 +234,7 @@ Wait. A slap in the face wasn’t part of my calculations…
 
 I regained consciousness after a week.
 
-No, it was announced that I had regained consciousness.
+No, that was when we announced that I had regained consciousness.
 
 After another week of complicated medical examinations and various loose ends, I held a brief press conference before a sea of microphones and cheering people.
 
@@ -250,7 +250,7 @@ The security guards moved to drag the foreign reporter away, but I stopped them 
 
 Flash! Flash!
 
-Flashes several times brighter erupted, along with a burst of murmuring. A Chinese reporter’s lips twitched with a malicious smile as he asked another question.
+Camera flashes exploded several times brighter than before, accompanied by a burst of murmurs. The Chinese reporter’s lips curled into a malicious smile as he pressed me.
 
 “Why? What was the reason?”
 
@@ -258,7 +258,7 @@ Flashes several times brighter erupted, along with a burst of murmuring. A Chine
 
 “What exactly did he…?”
 
-“He called me a peninsula bangzi and cursed me out. So I called him a chink bastard, and he tried to attack me after the meeting ended.”
+“He called me a peninsula bangzi and cursed me out. So I called him a chink bastard, and he tried to attack me after the meeting.”
 
 The smile vanished from the Chinese reporter’s face.
 
@@ -274,7 +274,7 @@ I gave a vague nod, then gestured to the security guards.
 
 “Suppress that bastard’s mouth while you’re at it. I’ll talk to Chinese people, but I don’t talk to chinks. He’s exactly like that Wu Heixing bastard.”
 
-Right then, someone among the mass of reporters raised a hand and asked a question. This one was Chinese as well.
+Just then, someone among the crowd of reporters raised a hand. This reporter was Chinese as well.
 
 “Then did you continue to clash with Wu Heixing afterward?”
 
@@ -298,15 +298,15 @@ People tended to turn away from inconvenient truths.
 
 I imagined the disappearance of a hundred-terabyte USB containing all the treasures of humanity, and tears welled in my eyes.
 
-“And… above all, I feel profound sorrow over the death of Hunter Lee Jungryong, a hero of the Great Cataclysm and the great Senior I respected more than anyone. He was truly a good man.”
+“And… above all, I feel profound sorrow over the death of Hunter Lee Jungryong, a hero of the Great Cataclysm and the Senior I respected more than anyone. He was truly a good man.”
 
 “Ah…”
 
-The press-conference hall instantly grew solemn. I wiped away the tears rolling down my cheeks and delivered the line I had prepared.
+The press-conference hall instantly fell solemn. I wiped away the tears rolling down my cheeks and delivered the line I had prepared.
 
 “Although our time together was brief, I will never forget him for as long as I live. I offer my condolences to everyone who died in this war. I’m sorry I couldn’t save even one more person.”
 
-One sentence that brought the wave of criticism to an end.
+One statement to put an end to the criticism.
 
 Considering the gravity of the matter, the press conference was absurdly brief, lasting only around thirty minutes. It was broadcast worldwide by terrestrial and cable networks in numerous countries, as well as through an iTube livestream, drawing a combined live audience of three billion viewers.
 

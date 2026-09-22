@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Did you know Chairman Xiao was once branded a reactionary and sentenced to five years of hard labor in a pig slaughterhouse?",
+      "defect": "The English adds that he was formally sentenced. The Korean says he had a history of performing five years of labor there, without establishing a legal sentence.",
+      "id": "F01",
+      "rationale": "전력을 한 is a statement of past history, while the source does not specify sentencing or another legal mechanism.",
+      "replacement": "Did you know Chairman Xiao was once branded a reactionary and spent five years doing hard labor in a pig slaughterhouse?",
+      "severity": "minor",
+      "source": "Lines 69-75"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Chairman Shao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country.",
+      "defect": "The chairman's name is rendered as “Shao” here but as “Xiao” throughout the surrounding passage, creating an internal continuity error for the same person.",
+      "id": "F02",
+      "rationale": "샤오 주석 refers to the same Chairman Xiao used in the surrounding English lines.",
+      "replacement": "Chairman Xiao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country.",
+      "severity": "minor",
+      "source": "Lines 77-81"
+    },
+    {
+      "confidence": 0.91,
+      "current": "So this was how father and son met their end.",
+      "defect": "“Met their end” commonly implies that both father and son died, but the source describes their downfall; the father is being sent away to spend the rest of his life in confinement and is not stated to have died.",
+      "id": "F03",
+      "rationale": "끝장나는구나 conveys being ruined or finished in their circumstances, not necessarily dying.",
+      "replacement": "So this was how father and son ended up.",
+      "severity": "minor",
+      "source": "Lines 87-91"
+    }
+  ],
+  "summary": "Mostly faithful, with three minor defects involving an added legal mechanism, inconsistent name rendering, and an implication that may suggest the father has died.",
+  "version": 1
+}
