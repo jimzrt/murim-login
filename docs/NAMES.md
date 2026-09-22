@@ -2031,3 +2031,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 금봉 | **golden bee** | A venomous bee said to strip a tiger to its bones in half a gak. |
 | 몽씨 | **Mong** | An old man whose account helps spread the rumor. |
 | 장 족장 | **Chief Jang** | A tribal chieftain who defends Nanman's pride and clashes with another chieftain at the council. |
+| 부족 대회의 | **Tribal Grand Council** | Nanman's annual council of tribal chieftains; also the new Quest title. |
+| 장족 | **Zang people** | Nanman tribe whose chieftain reports that twenty-two warriors, including a family member, were saved. |
+| 회족 | **Hui people** | Nanman tribe whose chieftain supports Jin's attendance. |
+| 부이족 | **Bouyei people** | Nanman tribe whose chieftain supports Jin because Nanman is her homeland. |
+| 구천 | **Nine Springs** | Euphemism for the realm of the dead. |
