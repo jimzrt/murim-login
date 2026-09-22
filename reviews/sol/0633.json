@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The voice from outside was hushed as much as possible, but the urgency in it—and the sound of someone rushing over—was impossible to conceal.",
+      "defect": "The draft invents the physical action of someone rushing over. 인기척 indicates a person’s detectable presence or movement, not specifically a hurried approach.",
+      "id": "F01",
+      "rationale": "The replacement preserves the contrast between the deliberately lowered voice and the urgency and human presence that could not be hidden without adding an unsupported action.",
+      "replacement": "The voice from outside was hushed as much as possible, but neither its urgency nor the presence behind it could be concealed.",
+      "severity": "critical",
+      "source": "밖에서 들려온 목소리는 한껏 숨죽인 상태였지만, 목소리에 실린 다급함과 인기척은 그렇지 못했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Time, which had been frozen, began to flow again. Before even a few moments had passed, we set out for Ailao Mountain, racing through the dead of night.",
+      "defect": "The draft changes both the quantity and the time of day: 촌각이 채 지나기도 전 means before even a moment had passed, while 깊은 새벽 is the deep predawn hours rather than the dead of night.",
+      "id": "F02",
+      "rationale": "This restores the singularly brief interval and preserves the established pre-dawn setting.",
+      "replacement": "Time, which had been frozen, began to flow again. Before even a moment had passed, we set out for Ailao Mountain, racing through the predawn darkness.",
+      "severity": "critical",
+      "source": "멈춰 있던 시간이 흐르기 시작하고 촌각(寸刻)이 채 지나기도 전, 우리는 깊은 새벽을 가로지르며 애뇌산으로 출발했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "They raised the beasts from a young age and formed bonds with them. After completing their coming-of-age ceremony and being recognized as full-fledged warriors, they officially became the beasts’ owners and companions.",
+      "defect": "The draft changes the reciprocal action of warrior and beast growing up together into the warriors raising the beasts.",
+      "id": "F03",
+      "rationale": "함께 자라며 explicitly describes the warriors and beasts growing up together, which is central to the tradition’s familial character.",
+      "replacement": "They grew up together from childhood, forming bonds along the way. After completing their coming-of-age ceremony and being recognized as full-fledged warriors, they officially became the beasts’ owners and companions.",
+      "severity": "critical",
+      "source": "어릴 적부터 함께 자라며 유대감을 쌓다가, 성인식을 치른 뒤 한 사람의 전사로 인정받게 되면 정식으로 그 맹수의 주인이자 동료가 되는 것이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Then his gaze slid toward his late-born son, who was struggling to keep up behind him.",
+      "defect": "The draft adds that Yayul Mok is struggling to keep up. The source only says that he is following diligently or running hard behind his father.",
+      "id": "F04",
+      "rationale": "This preserves Yayul Mok’s effort without introducing an unsupported inability to match the pace.",
+      "replacement": "Then his gaze slid toward his late-born son, who was running hard behind him.",
+      "severity": "major",
+      "source": "열심히 자신의 뒤를 따르는 늦둥이 아들을 향해 미끄러졌다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "As Yayul Mok and the Seven Miao Tigers disappeared into the darkness, the Beast Miao King, who had been charging on all fours like a gigantic black bear, increased his speed.",
+      "defect": "불곰 means a brown bear, not a black bear, changing the explicit animal comparison.",
+      "id": "F05",
+      "rationale": "The replacement restores the source’s exact visual comparison.",
+      "replacement": "As Yayul Mok and the Seven Miao Tigers disappeared into the darkness, the Beast Miao King, who had been charging on all fours like a gigantic brown bear, increased his speed.",
+      "severity": "critical",
+      "source": "마치 거대한 불곰처럼 두 팔과 다리로 바람처럼 내달리던 야수묘왕이 한층 속도를 높였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Dozens of tribes vanished in the process, and the descendants who barely survived built their own sects in the deepest reaches of Nanman.",
+      "defect": "The plural “sects” changes the surviving descendants’ establishment of a single 문파, which the next line identifies as the beginning of the Five Poisons Sect.",
+      "id": "F06",
+      "rationale": "문파 is singular here, and preserving that number maintains the causal explanation of the Five Poisons Sect’s origin.",
+      "replacement": "Dozens of tribes vanished in the process, and the descendants who barely survived established a sect of their own in the deepest reaches of Nanman.",
+      "severity": "major",
+      "source": "그 과정에서 수십 개의 부족이 사라졌고, 간신히 살아남은 후손들은 남만 가장 깊숙한 곳에서 자신들만의 문파를 세웠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The rivers were filled with dead fish, and the beasts that ate the fish floating downstream died as well.",
+      "defect": "The draft moves the dead fish from the riverbanks to the rivers themselves and omits 멋모르고, which establishes that the beasts ate the washed-down fish without realizing the danger.",
+      "id": "F07",
+      "rationale": "This restores both the location of the carcasses and the victims’ ignorance of the poison.",
+      "replacement": "The riverbanks were littered with dead fish, and the beasts that unwittingly ate the fish washed downstream died as well.",
+      "severity": "major",
+      "source": "강가에는 죽은 물고기들로 가득했고, 떠내려온 물고기를 멋모르고 먹은 짐승들도 죽었지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The moment he entered Nanman, he burned and killed the one hundred warriors of the Five Poisons Sect who had ambushed him.",
+      "defect": "“Burned and killed” is an unnatural coordination that obscures the single mechanism 태워 죽이다: killing them by burning them.",
+      "id": "F08",
+      "rationale": "The replacement expresses the source’s causal action directly and naturally.",
+      "replacement": "The moment he entered Nanman, he burned to death the one hundred warriors of the Five Poisons Sect who had ambushed him.",
+      "severity": "minor",
+      "source": "그는 남만 땅에 들어오자마자 자신을 습격한 오독문의 전사 일백을 태워 죽여 버렸으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The disciples of the Five Poisons Sect had turned to white bones, but the venomous creatures and beasts they released in their final moments continued multiplying deep in the mountains where the sect had once made its headquarters.",
+      "defect": "The draft does not use the binding rendering “venomous beasts” for 독물 and also weakens 맹수 to the generic “beasts.”",
+      "id": "F09",
+      "rationale": "This follows the required terminology for 독물 while preserving the source’s separate reference to 맹수.",
+      "replacement": "The disciples of the Five Poisons Sect had turned to white bones, but the venomous beasts and fierce beasts they released in their final moments continued multiplying deep in the mountains where the sect had once made its headquarters.",
+      "severity": "minor",
+      "source": "오독문의 문도들은 백골이 되었지만, 그들이 마지막 순간 풀어놓은 독물과 맹수들은 오독문의 본거지였던 산속 깊은 곳에서 개체 수를 불려 나갔다."
+    }
+  ],
+  "summary": "The draft contains several factual shifts involving motion, time of day, upbringing, physical imagery, and the Five Poisons Sect’s history, plus one binding terminology mismatch and a localized English collocation issue.",
+  "version": 1
+}

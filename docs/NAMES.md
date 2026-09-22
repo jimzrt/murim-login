@@ -1999,3 +1999,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 인시 | **Insi** | The traditional time period from three to five in the morning. |
 | 무야호 | **Muyaho** | Yayul Mok's White Tiger's name; it means tiger of the mighty wilds. |
 | 서리 | **seori** | Colloquial term for stealing crops or produce from a field. |
+| 기산 | **Gisan** | Named member of the Beast Miao King's personal guard, the Seven Miao Tigers. |
+| 도곡 | **Dogok** | Named member of the Beast Miao King's personal guard, the Seven Miao Tigers. |
+| 원후 | **Wonhu** | Named member of the Beast Miao King's personal guard, the Seven Miao Tigers. |
+| 만적 | **Manjeok** | Named member of the Beast Miao King's personal guard, the Seven Miao Tigers. |
+| 칠묘호 | **Seven Miao Tigers** | The Beast Miao King's personal guard, composed of elite Miao warriors. |
