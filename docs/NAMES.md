@@ -2085,3 +2085,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑수 | **Black Hand** | Sadistic Dark Heaven agent and Supreme Peak master. |
 | 요서부 | **Western Yao Estate** | Estate inherited by Yohi when she became a Great Chieftain. |
 | 흑수권마 | **Black Hand Fist Demon** | Sobriquet revealed by Black Hand. |
+| 마후 | **Demon Empress** | Title used for the Southern Heaven Demon Empress. |
+| 백설기 | **White Rice Cake** | Mocking near-sobriquet that riffs on the Great Snow Fiend's title. |
+| 음괴 | **Yin Freak** | The Yin-aligned member of the Yin-Yang Twin Freaks. |
+| 빙신 | **Ice God** | Mock sobriquet that also functions as a harsh insult. |

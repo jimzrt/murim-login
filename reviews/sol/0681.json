@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Unexpected. At this level, I was certain you would be unable to move.”\n\n“That might be true for old men like you, Great Snow Fiend.”",
+      "defect": "The draft omits Taekyung’s realization that he now knows—and more precisely has remembered—the old man’s sobriquet. It also renders 이 정도면 as the unnatural and misleading power-level phrase “At this level” rather than referring to the severity of the blow.",
+      "id": "F01",
+      "rationale": "The omitted narration establishes exactly when and how Taekyung identifies the Great Snow Fiend, while 이 정도면 refers to what Taekyung has just endured, not a cultivation level.",
+      "replacement": "“Unexpected. I was certain that would leave you unable to move.”\n\nThe old man had spoken without warning.\n\nNo, I knew his sobriquet now, too. Though perhaps it would be more accurate to say I had remembered it.\n\n“That might be true for old men like you, Great Snow Fiend.”",
+      "severity": "major",
+      "source": "“의외로군. 이 정도면 분명 움직이지 못할 것이라 생각했는데.”\n\n노인이 불쑥 입을 열었다.\n\n아니, 이제는 나 역시 그의 별호를 안다. 사실은 기억해 냈다는 표현이 더 정확할지도 모른다.\n\n“그건 대설귀(大雪鬼), 당신 같은 늙은이나 그런 거고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“At most, you would have been the Ice God instead of the Great Snow Fiend. You Ice God bastard.”",
+      "defect": "The literal phrase “Ice God bastard” is not an intelligible English insult and loses the deliberate pun between 빙신, “Ice God,” and 병신, a harsh insult. This weakens the provocation that immediately draws the Great Snow Fiend’s first visible reaction.",
+      "id": "F02",
+      "rationale": "The source explicitly supplies the characters 氷神 to establish the mock title while using its sound as profanity; the replacement delivers the insult naturally and preserves the wordplay without adding plot information.",
+      "replacement": "“At best, you’d have been the Ice God instead of the Great Snow Fiend, you fucking idiot.[^3]”\n\n[^3]: “Ice God” (*bingsin*) puns on *byeongsin*, a harsh Korean insult roughly meaning “fucking idiot.”",
+      "severity": "major",
+      "source": "“기껏해야 대설귀 대신 빙신(氷神)이었겠지. 이 빙신 새끼야.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*What if I had known that the martial art my opponent had mastered was Yin-Cold Qi?*",
+      "defect": "The wording equates a martial art with Yin-Cold Qi, creating a category error and an awkward English construction. The source identifies the cold-aligned nature or basis of the opponent’s martial arts.",
+      "id": "F03",
+      "rationale": "This preserves 무공 as martial arts while accurately expressing Yin-Cold Qi as the energy underlying them.",
+      "replacement": "*What if I had known that my opponent’s martial arts were based on Yin-Cold Qi?*",
+      "severity": "minor",
+      "source": "상대가 익힌 무공이 음한지기(陰寒之氣)라는 것을 알았더라면."
+    }
+  ],
+  "summary": "One meaningful recognition beat is omitted, a key insult loses its Korean wordplay and force, and one description misstates the relationship between the martial art and its qi.",
+  "version": 1
+}
