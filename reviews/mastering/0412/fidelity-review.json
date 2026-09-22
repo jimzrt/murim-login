@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "The sight of Jin Taekyung made the Arch Lich wonder.",
+      "defect": "The translation drops the source's suddenness: 문득 indicates that the question suddenly occurred to the Arch Lich.",
+      "id": "F01",
+      "rationale": "The omitted sudden emotional beat is explicit in 문득 and is part of the Arch Lich's reaction.",
+      "replacement": "The sight of Jin Taekyung suddenly made the Arch Lich wonder.",
+      "severity": "minor",
+      "source": "Lines 15–16"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He would helplessly watch his companions die, then fall himself.",
+      "defect": "“Then fall himself” changes the timing from collapsing while helplessly witnessing his companions' deaths to collapsing afterward.",
+      "id": "F02",
+      "rationale": "쓰러지는 것 is modified by 지켜보며, establishing simultaneous action rather than a sequential “then.”",
+      "replacement": "He would collapse while helplessly watching his companions die.",
+      "severity": "minor",
+      "source": "Lines 43–45"
+    },
+    {
+      "confidence": 0.84,
+      "current": "Everything had been cleanly erased, leaving the air filled with System notifications.",
+      "defect": "The translation adds “the air” as the location of the notifications. The source says that the place where the monsters had stood was filled with System notifications.",
+      "id": "F03",
+      "rationale": "The source preserves the empty location as the visual setting for the notifications; it does not establish notifications filling the air.",
+      "replacement": "Everything had been cleanly erased, and that spot was filled with System notifications.",
+      "severity": "minor",
+      "source": "Lines 127–129"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The Arch Lich could not escape the backlash.",
+      "defect": "“Backlash” introduces a specific feedback mechanism that the source does not state.",
+      "id": "F04",
+      "rationale": "타격 means that the Arch Lich could not avoid being hit or damaged by the destruction of its empowered retainers; the source does not characterize this as magical backlash.",
+      "replacement": "The Arch Lich could not avoid taking the damage.",
+      "severity": "minor",
+      "source": "Lines 339–342"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but a few mastered lines introduce small timing, physical-detail, or mechanism shifts.",
+  "version": 1
+}

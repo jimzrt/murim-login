@@ -2,15 +2,15 @@
 
 *Flap, flap.*
 
-A crow landed on an ancient tree in the middle of the battlefield, its eyes flashing brightly.
+A crow landed in an ancient tree in the middle of the battlefield, its eyes gleaming.
 
 The Arch Lich had perched its Familiar in a spot with an excellent view and was watching the situation unfold with considerable pleasure.
 
 *What will you do, human?*
 
-One person was reflected in the crow’s endlessly gleaming black eyes.
+A lone figure appeared in the crow’s restlessly shifting black eyes.
 
-An open mouth. Hands trembling slightly.
+His mouth hung open. His hands trembled.
 
 The sight of Jin Taekyung made the Arch Lich wonder.
 
@@ -18,7 +18,7 @@ The sight of Jin Taekyung made the Arch Lich wonder.
 
 The Death Knight Lord may have had a few flaws, but it was unquestionably a masterpiece for the ages.
 
-The Arch Lich had been unable to resist coveting Lei Fei, an excellent material with a noble spirit and formidable martial power.
+The Arch Lich had been unable to resist coveting Lei Fei, an exceptional specimen with a noble spirit and formidable martial prowess.
 
 That was why it had personally granted him a portion of the mana that formed the very source of its power. Thanks to that gift, Lei Fei had become a being who transcended the limits of an ordinary Death Knight.
 
@@ -38,11 +38,11 @@ All the Arch Lich had seen was Jin Taekyung standing with several thousand human
 
 But his luck ended here.
 
-As many as ten Death Knights and Liches possessed the strength of an entire legion, if not more.
+Ten Death Knights and Liches possessed the strength of an entire legion, if not more.
 
 *And unlike last time, he has no one capable of helping him.*
 
-There was only one path left for that human now.
+There was only one path left for that human.
 
 He would helplessly watch his companions die, then fall himself.
 
@@ -80,7 +80,7 @@ It did not have to wonder for long.
 
 “…Nine, ten.”
 
-As soon as he finished speaking, a droplet of saliva fell from Jin Taekyung’s chin with a soft *plop*.
+As soon as he finished counting, a drop of saliva fell from Jin Taekyung’s chin.
 
 He wiped his mouth with his sleeve, a satisfied smile spreading across his face.
 
@@ -98,7 +98,7 @@ But they understood what Jin Taekyung’s next action meant.
 
 The spearhead had already been drawn far back, too fast for the eye to follow. A terrifying torrent of qi gathered around it.
 
-At that sight, the Arch Lich felt a shock as though its cold, hardened heart had dropped into its stomach.
+At the sight, the Arch Lich felt as though its cold, hardened heart had plummeted.
 
 A bone-deep chill swept through it, and its thought burst forth.
 
@@ -128,7 +128,7 @@ A blinding flash engulfed everyone’s vision.
 
 *Whoooooosh.*
 
-A wind that had come from somewhere seeped through my entire body.
+A wind from nowhere seeped into my entire body.
 
 It was a wind only I could feel—and the arrival of new power.
 
@@ -154,7 +154,7 @@ Everything had been cleanly erased, leaving the air filled with System notificat
 > - Level Up!
 > - You have accomplished an exceptional feat!
 > - As a Reward for your achievement, you have obtained the Title **One Against a Thousand**!
-> - Due to the effect of the Title **One Against a Thousand**, all Stats rise by a set amount when facing multiple enemies, and fatigue consumption is greatly reduced! During battle, enemies will be intimidated, while allies’ morale rises dramatically!
+> - Due to the effect of the Title **One Against a Thousand**, all Stats rise by a set amount when facing multiple enemies, and fatigue is greatly reduced! During battle, enemies will be intimidated, while allies’ morale rises dramatically!
 > - Because you have accomplished an exceptional feat, a massive amount of EXP and additional Rewards will be granted!
 > - Level Up!
 > - A new stat, **Intimidation**, has been created!
@@ -213,7 +213,7 @@ I spoke to Team Leader Choi, who still seemed incapable of forming a sentence.
 
 “Why are you so surprised? It’s not like you’ve never seen it before.”
 
-“Was that what you used last time, when you defeated the Black Drake…?”
+“Was that what you used when you defeated the Black Drake…?”
 
 “That’s right.”
 
@@ -231,11 +231,11 @@ The first and only time I had used One Annihilation after reaching the Supreme P
 
 *I didn’t know it would be this powerful either.*
 
-There had been ten Death Knights and Liches, each one close to Named level.
+There had been ten Death Knights and Liches, each nearly a named monster in its own right.
 
 I had thought killing six or seven of them would count as a success.
 
-After all, monsters at Level 100 or above gave a considerable amount of EXP. With all the other small fry thrown in, there would be enough to level up, so I’d figured there was no way I’d collapse from exhaustion and make a spectacle of myself.
+After all, monsters above Level 100 gave a considerable amount of EXP. Add in all the other small fry, and it should have been enough for a Level Up. I had figured that would keep me from collapsing from Exhaustion and making a spectacle of myself.
 
 *…But this is even more than I expected.*
 
@@ -243,7 +243,7 @@ A double-edged sword.
 
 No—a double-edged spear.
 
-But it was undeniably one hell of a powerful strike.
+Either way, it was one hell of a finishing move.
 
 It had blown away not only the hundreds of elite monsters packed tightly together, but all ten Death Knights and Liches as well.
 
@@ -283,7 +283,7 @@ Right now, only one thing mattered.
 
 The System messages described exactly what was happening.
 
-The monsters still alive after witnessing the divine might I had displayed slowly retreated. Even the undead monsters, which had already lost their minds, were intimidated and flinched.
+The surviving monsters, having witnessed my overwhelming might, began edging backward. Even the mindless undead flinched and cowered.
 
 As for us?
 
@@ -309,11 +309,11 @@ Green blood sprayed through the air, and undead bones shattered into pieces.
 
 *Slash!*
 
-I cleanly split the upper body of a Troll trying to turn its back and flee.
+I neatly split the upper body of a Troll that had turned to flee.
 
 The Skeleton Warlord shouted at me furiously.
 
-“Wicked human! Over there! Kill that one!”
+“Treacherous human! Over there! Kill that one!”
 
 “What? Who?”
 
@@ -349,6 +349,6 @@ Humans were certainly insignificant beings, but they could never be underestimat
 
 The Arch Lich had already learned that lesson through bitter experience.
 
-*Could that guy…?*
+*Could he… Could that bastard be…?*
 
 At the ominous possibility that flashed through its mind, the light in the Arch Lich’s eyes blazed fiercely.
