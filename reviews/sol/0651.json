@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "—If this isn’t betrayal, then I’m Han Chinese in name only. So don’t bother denying it.",
+      "defect": "The conditional identity joke is mistranslated. Jin says that if this does not count as betrayal, then he is not Han Chinese but a Nanman native; he does not call himself Han Chinese in name only.",
+      "id": "F01",
+      "rationale": "The source explicitly contrasts 한족이 아니라 with 남만인이지, making Jin’s hypothetical change of ethnicity the punchline.",
+      "replacement": "—If this isn’t betrayal, then I’m not Han Chinese—I’m a Nanman native. So don’t try to deny it.",
+      "severity": "critical",
+      "source": "이게 배반이 아니면 내가 한족이 아니라 남만인이지. 그러니까 아니라고 하진 마시고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As if I had struck the exact spot, Heugung clenched his lips and gave a small nod.",
+      "defect": "Heugung bites his lip rather than merely clenching his lips.",
+      "id": "F02",
+      "rationale": "입술을 질끈 깨문 describes the physical action of biting down on one’s lip.",
+      "replacement": "As if I had hit the mark, Heugung bit his lip hard and gave a small nod.",
+      "severity": "minor",
+      "source": "정곡을 찔린 듯, 입술을 질끈 깨문 흑웅이 작게 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "—The Great Chieftain Baeksang I remember was always cold and outstanding.",
+      "defect": "“Cold” suggests emotional coldness, while 냉철 describes clearheaded, dispassionate judgment.",
+      "id": "F03",
+      "rationale": "The source characterizes Baeksang’s judgment and ability, not merely an emotionally cold disposition.",
+      "replacement": "—The Great Chieftain Baeksang I remember was always coolheaded and exceptional.",
+      "severity": "minor",
+      "source": "내가 기억하는 백상 대족장은 언제나 냉철하고 뛰어난 사람이었지."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Perhaps the bowl was too heavy for him, because soup spilled over the rim as he set it down with a trembling hand.",
+      "defect": "The draft invents the bowl’s weight as the cause. The source only indicates that the task appears physically taxing for the old man.",
+      "id": "F04",
+      "rationale": "힘에 부치다 means that something exceeds or strains one’s strength, without specifying that the bowl itself is unusually heavy.",
+      "replacement": "The effort seemed almost too much for him; broth spilled over the rim as he set the bowl down with a trembling hand.",
+      "severity": "minor",
+      "source": "여간 힘에 부치는지, 그가 잘게 떨리는 손으로 내려놓은 대접에서 국물이 흘러넘친다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "At times, we stopped to watch fireworks bursting in the sky. At others, we naturally turned our heads to look down the street.",
+      "defect": "The draft adds that they stopped walking and recasts simultaneous cover behavior as alternating actions.",
+      "id": "F05",
+      "rationale": "The source describes actions performed while they continue moving through the crowd and does not say that they stop.",
+      "replacement": "Now and then, we watched fireworks bursting overhead or casually turned our heads to take in the street.",
+      "severity": "minor",
+      "source": "때로는 허공에서 터지는 폭죽도 구경하고, 자연스럽게 고개를 돌려 거리를 바라보았지만"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Which of them was telling the truth, and which was lying?",
+      "defect": "The draft turns an inquiry about which elements are true or false into an accusation that one of the people is intentionally lying.",
+      "id": "F06",
+      "rationale": "무엇이 진실이고, 무엇이 거짓 asks about the truth or falsity of the possibilities just listed, without explicitly assigning deliberate deception to a person.",
+      "replacement": "Which of these was true, and which was false?",
+      "severity": "major",
+      "source": "이중 무엇이 진실이고, 무엇이 거짓일까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And another person who had yet to reveal himself.",
+      "defect": "The masculine pronoun assigns a male identity to the unnamed person, who is immediately revealed as Yohi.",
+      "id": "F07",
+      "rationale": "The Korean leaves the person’s gender unstated at this beat; adding “himself” contradicts the ensuing identification of Yohi.",
+      "replacement": "And one other person who had yet to show themselves.",
+      "severity": "critical",
+      "source": "그리고 아직 모습을 드러내지 않은 또 다른 한 사람."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Was that all an act really? Do you actually like Yohi?",
+      "defect": "The first question reverses the source’s negation. Jin realizes Heugung’s behavior was sincere rather than an act; the draft asks whether it was an act.",
+      "id": "F08",
+      "rationale": "다 연기가 아니라 진심이었습니까 explicitly contrasts “not an act” with “sincere.”",
+      "replacement": "—Don’t tell me none of that was an act. Do you really like Yohi?",
+      "severity": "critical",
+      "source": "설마 그게 다 연기가 아니라 진심이었습니까? 진짜 요희를 좋아해요?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "—Sorry, but are you insane?",
+      "defect": "The draft sanitizes 새끼 and loses the comic contrast between Jin’s polite preface and his direct insult.",
+      "id": "F09",
+      "rationale": "미친 새끼 is explicitly insulting, while 저기 죄송한데 supplies deliberately incongruous politeness.",
+      "replacement": "—Excuse me, but are you some kind of crazy bastard?",
+      "severity": "major",
+      "source": "저기 죄송한데. 혹시 미친 새낍니까?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "—Wow. “Our Yohi.” For fuck’s sake.",
+      "defect": "The profanity is detached from its target. Jin is specifically mocking Heugung’s possessive phrase “our Yohi,” not merely swearing in exasperation.",
+      "id": "F10",
+      "rationale": "이 지랄 contemptuously characterizes the immediately preceding 우리 요희 phrasing.",
+      "replacement": "—Wow. Listen to this “our Yohi” bullshit.",
+      "severity": "major",
+      "source": "이야. 우리 요희 이 지랄."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A wave of Force released solely to constrict one person.",
+      "defect": "Capitalized “Force” invents an unsupported system-like term and obscures the Murim qi mechanism.",
+      "id": "F11",
+      "rationale": "기파 is a wave of martial qi or energy; the source does not introduce a proper noun called “Force.”",
+      "replacement": "A wave of qi unleashed solely to bear down on one person.",
+      "severity": "major",
+      "source": "오직 한 사람을 옥죄기 위해 흘려보낸 기파(氣波)."
+    }
+  ],
+  "summary": "Three critical reversals or identity changes, plus several localized action, characterization, register, and terminology defects.",
+  "version": 1
+}

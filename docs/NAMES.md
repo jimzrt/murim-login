@@ -2049,3 +2049,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 외궁 | **Outer Palace** | The outer compound of the Nanman Beast Palace. |
 | 축골공 | **Bone-Shrinking Technique** | A martial art that stretches and shrinks bone and flesh to alter the user's appearance. |
 | 노출신룡 | **Naked Divine Dragon** | An embarrassing sobriquet Jin gained after the exposed escape that became the subject of rumors. |
+| 묘시 | **the hour of the Rabbit** | Traditional time period following Insi. |
+| 대회의 | **Tribal Grand Council** | Nanman's council of great chieftains. |
+| 전서 | **missive** | A written message exchanged or delivered in secret. |

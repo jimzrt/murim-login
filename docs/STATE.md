@@ -1,32 +1,31 @@
 # Translation State
 
-- Last completed: 650
-- Next chapter: 651
-- Current block: 650–654 (1/5)
-- Latest translation: `translations/0650.md`
-- Latest summary: `summaries/beats/0650.md`
-- Safe profiles through: chapter 650
+- Last completed: 651
+- Next chapter: 652
+- Current block: 650–654 (2/5)
+- Latest translation: `translations/0651.md`
+- Latest summary: `summaries/beats/0651.md`
+- Safe profiles through: chapter 651
 
 ## Current Block
 
-- The Inner Palace banquet ends around the Ox hour amid widespread rumors about Jin Taekyung's embarrassing escape. Keeping the arrow-bound missive secret even from the Beast Miao King, Jin leaves the Fire Dragon Pavilion quarters at Insi and reaches the crowded Outer Palace West Gate in a tiger mask.
-- At the West Gate, Jin recognizes Heugung disguised as a thin middle-aged food-stall patron through Sound Transmission and the System. Heugung admits sending the missive and reveals that Baeksang has allegedly colluded with Dark Heaven, causing Jin to snap his chopsticks in shock.
+- Jin presses Heugung for proof that Baeksang colluded with Dark Heaven. Heugung admits he has no concrete evidence but explains that Baeksang has monitored him for more than twenty years, that his loyal retainers uncovered a secret refuge before dying, and that Baeksang exchanges unexplained missives and disappears alone. Heugung also reveals that his devotion to Yohi is genuine, though he believes she chose wrongly while trying to revive the Yao people. He offers to testify at the next day's Tribal Grand Council if Jin and the Beast Miao King guarantee his and Yohi's safety, staking his life on the truth of his claims. Jin leaves to consult the Fire Dragon Pavilion before informing the Beast Miao King, while Sama Pyo begins training outside the quarters and notices the surrounding grass move.
 
 ## Open Questions
 
-- Is Heugung's allegation that Baeksang colluded with Dark Heaven true?
-- What evidence does Heugung possess against Baeksang?
-- Was the arrow intended only to summon Jin, or was Heugung genuinely willing to risk injuring him?
-- Why is Heugung secretly acting outside Baeksang's apparent control?
-- When and how should Jin inform the Beast Miao King?
+- Is Baeksang truly colluding with Dark Heaven, and what evidence can Heugung provide?
+- What happened at Baeksang's secret refuge, and who destroyed it?
+- Will the Beast Miao King accept Heugung as a witness and guarantee Heugung's and Yohi's safety?
+- How knowingly did Yohi align herself with Baeksang's side?
+- Who or what is moving in the grass around Sama Pyo?
 
 ## Exceptional Decision
 
 - Use Insi for 인시.
-- Use West Gate for 서문.
-- Use missive for 전서.
+- Use the hour of the Rabbit for 묘시.
 - Use Bone-Shrinking Technique for 축골공.
-- Use Naked Divine Dragon for 노출신룡.
+- Use Tribal Grand Council for 대회의.
+- Use missive for 전서.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
