@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The rapidly spinning twin wheels left his wrinkled hands.",
+      "defect": "The source specifies one wrinkled hand, while the draft changes the launch to both hands. This distinction matters because he explicitly uses both hands later to direct the wheels.",
+      "id": "F01",
+      "rationale": "손 is singular here, whereas the later 양손 explicitly means both hands.",
+      "replacement": "The rapidly spinning twin wheels left his wrinkled hand.",
+      "severity": "critical",
+      "source": "가파르게 회전하던 쌍륜(雙輪)이 주름진 손을 떠난 것은."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Black Force surged over him like a wave.",
+      "defect": "The draft makes the Force sound as though it has already swept over Jin, but the source describes it surging toward him before his spear intercepts it.",
+      "id": "F02",
+      "rationale": "덮쳐 오는 marks an incoming attack, and the following action has Jin pierce its center before it reaches him.",
+      "replacement": "A wave of black Force surged toward him.",
+      "severity": "major",
+      "source": "파도처럼 덮쳐 오는 흑색 강기."
+    },
+    {
+      "confidence": 0.96,
+      "current": "An aura erupted around Jin Taekyung and the Black Hand Fist Demon, shaking the space around them.",
+      "defect": "The draft renders 기파 as a static aura rather than the force or shock wave bursting from the two masters' collision.",
+      "id": "F03",
+      "rationale": "터져 나온 기파 describes an emitted wave of force centered on the combatants, not an aura surrounding them.",
+      "replacement": "A shock wave burst from Jin Taekyung and the Black Hand Fist Demon, shaking the space around them.",
+      "severity": "major",
+      "source": "진태경과 흑수권마. 두 초절정 고수를 중심으로 터져 나온 기파가 공간을 뒤흔들었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "In the slowed world, the Black Hand Fist Demon’s figure stiffened with a jolt at the sound of flesh being pierced.",
+      "defect": "“At the sound” implies that hearing the noise causes him to stiffen, while the source says his body stiffens simultaneously with the sound because he has been impaled.",
+      "id": "F04",
+      "rationale": "과 동시에 establishes simultaneity between the piercing sound and his body locking up, not an auditory reaction.",
+      "replacement": "In the slowed world, a single sound of tearing flesh rang out, and the Black Hand Fist Demon’s body stiffened with a jolt.",
+      "severity": "minor",
+      "source": "느려진 세상 속, 한 줄기 파육음과 동시에 덜컥 굳는 흑수권마의 신형."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As he watched Jin Taekyung charge straight toward him, the Great Snow Fiend muttered inwardly.",
+      "defect": "The opening sound of Jin's high-speed charge is omitted.",
+      "id": "F05",
+      "rationale": "The opening onomatopoeia establishes Jin's rapid approach and is part of the source's action beat.",
+      "replacement": "SHWAAAAK!\n\nAs he watched Jin Taekyung charge straight toward him, the Great Snow Fiend muttered inwardly.",
+      "severity": "minor",
+      "source": "쐐애애액!\n\n정면으로 쇄도해 오는 진태경을 바라보며, 대설귀(大雪鬼)는 마음속으로 뇌까렸다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The condescending way he spoke, as though addressing a lowly servant.",
+      "defect": "“Lowly servant” softens the explicitly dehumanizing class insult 종놈 and weakens the hierarchy behind Black Hand's resentment.",
+      "id": "F06",
+      "rationale": "종놈 is a contemptuous term for a male slave or bondservant, stronger than the relatively neutral “servant.”",
+      "replacement": "The condescending way he spoke, as though addressing a slave.",
+      "severity": "major",
+      "source": "항상 종놈을 대하는 듯한 고압적인 말투와 자신을 한참 밑으로 보는 듯한 눈빛."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Certainty filled the Great Snow Fiend’s cold, sunken eyes.",
+      "defect": "“Sunken eyes” describes their physical shape, while 가라앉아 있던 describes his gaze as cold and composed.",
+      "id": "F07",
+      "rationale": "가라앉다 here conveys a settled, controlled expression rather than recessed eyes.",
+      "replacement": "Certainty filled the Great Snow Fiend’s cold, composed gaze.",
+      "severity": "minor",
+      "source": "차갑게 가라앉아 있던 대설귀의 눈동자에 확신이 깃들었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters one-handed weapon choreography, misstates the direction of an incoming attack, weakens an impact mechanism and a hierarchical insult, and omits the opening charge sound.",
+  "version": 1
+}
