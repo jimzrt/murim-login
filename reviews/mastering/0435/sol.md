@@ -12,7 +12,7 @@ Behind the boy, an old man barely five feet tall appeared like a ghost, without 
 
 “Excessive drinking is harmful to the body. You should abstain.”
 
-“Don’t be like that. Have a drink with me. The atmosphere is nice.”
+“Don’t be like that. Have a drink with me. The atmosphere is perfect.”
 
 “It would be even better if I were alone.”
 
@@ -20,7 +20,7 @@ Behind the boy, an old man barely five feet tall appeared like a ghost, without 
 
 The boy frowned. Dark clouds gathered over his handsome face—a face bright enough to evoke a clear blue sky—and lightning flashed across it.
 
-Then, instead of his usual clear voice, a low, sunken voice slipped between his lips.
+When he spoke again, his usual clear voice had been replaced by a low, sunken growl.
 
 “That’s enough.”
 
@@ -34,7 +34,7 @@ But he wasn’t the only monster aboard.
 
 “Oh, how frightening.”
 
-The old man curled up the corners of his mouth without a care in the world, standing before an aura powerful enough to freeze even an ordinary Peak master stiff as a statue. Then Fire King Jeok Cheongang tossed him the gourd.
+The old man’s lips curled into an easy smile before an aura powerful enough to freeze even a respectable Peak master solid. Fire King Jeok Cheongang tossed him the gourd.
 
 “Drop the little-brat act. It doesn’t suit you. Wet your throat.”
 
@@ -50,7 +50,7 @@ Mungyeong caught the gourd as it drifted lazily toward him and answered in a dry
 
 “…Don’t you sleep?”
 
-“You get less sleep when you’re old. Like someone I know.”
+“You need less sleep when you’re old. As you should know.”
 
 Mungyeong shook his head slightly. Taciturn by nature and unaccustomed to showing emotion, he had always found Jeok Cheongang difficult to talk to. If he didn’t want to deal with the man, his best option was to leave.
 
@@ -72,7 +72,7 @@ The Slaughter Saint no longer existed. Now he was merely an ordinary young medic
 
 “Your tongue is too loose.”
 
-“There aren’t any ears listening, so what does it matter? Besides, after coming all this way, why bother hiding your identity?”
+“No one’s around to hear us, so what does it matter? Besides, you followed us all this way. Why bother hiding who you are?”
 
 Mungyeong did not answer.
 
@@ -184,7 +184,7 @@ His lips moved as if he were eating. On closer inspection, Mungyeong discovered 
 
 What in the world had happened while Mungyeong was away?
 
-Mungyeong looked back and forth between Jin Taekyung and Cheongpung with an awkward expression.
+He looked back and forth between Jin Taekyung and Cheongpung, his expression sour.
 
 *These are the ones destined to illuminate the future of Murim?*
 
@@ -194,7 +194,7 @@ They were peerless geniuses who had broken through the wall into Supreme Peak de
 
 If either of them opened their Middle Dantian before turning thirty, then…
 
-*This is…*
+*Wait.*
 
 Mungyeong’s eyes twitched as he studied Jin Taekyung and Cheongpung more closely.
 
@@ -224,7 +224,7 @@ Mungyeong answered with complete sincerity.
 
 “It’s a misunderstanding.”
 
-“More like, ‘Oh yeah.’”
+“More like an ‘Oh yeah.’”
 
 “Calm down and listen to me…”
 
@@ -236,11 +236,11 @@ Jin Taekyung responded to his sincerity with a shout loud enough to wake everyon
 
 The cabin door exploded into ash, revealing Fire King Jeok Cheongang.
 
-In the dead of night, the peaceful silence of the Yangtze was shattered.
+In the dead of night, the peace of the silent Yangtze shattered.
 
 * * *
 
-Mu Song, known as Ship-Fire Boy, was the Disciple of the Seafaring King—the Alliance Leader of the Yangtze River Channel League—and the Stronghold Lord of Water Dragon Stronghold, which ruled the rivers of Sichuan. He cried out with a face as though the sky had fallen.
+Mu Song—the Ship-Fire Boy, Disciple of the Seafaring King who led the Yangtze River Channel League, and Stronghold Lord of Water Dragon Stronghold, which ruled Sichuan’s rivers—cried out as though the sky had fallen.
 
 “No! My swift ship!”
 
@@ -266,7 +266,7 @@ Scorching Yang Qi already blazed around his fist.
 
 Mu Song closed his mouth.
 
-He was clearly weighing whether to pour a thousand gold pieces into rebuilding the fast ship or pour his own blood into the Yangtze.
+He was clearly deciding whether to pour a thousand gold into rebuilding the swift ship or pour his own blood into the Yangtze.
 
 In the end, it came down to money or his life. The choice wasn’t difficult.
 
@@ -280,7 +280,7 @@ Despite his size, he rubbed his palms together ingratiatingly.
 
 “Oh, don’t even ask. We’d rob more if there were anything left to take.”
 
-“Yes, yes. Good to hear. Since it came to mind, let me say this: don’t rob people too much. It’s none of my business, but they need to make a living too.”
+“Yes, yes. Good to hear. Since you mention it, try not to rob people too much. It’s none of my business, but they need to make a living too.”
 
 “Yes, yes.”
 
@@ -288,7 +288,7 @@ Despite his size, he rubbed his palms together ingratiatingly.
 
 “Of course. Such things happen. Were you hurt anywhere?”
 
-“No. But my qi has felt weak lately. It would be nice to have something to chew on…”
+“No. But I’ve been feeling a little depleted lately. It would be nice to have something to chew on…”
 
 “We recently acquired a few fine specimens of He Shou Wu. It seems they’ve finally found their rightful owner.”
 
@@ -312,7 +312,7 @@ True to his title as the Slaughter Saint, Mungyeong had evaded Jeok Cheongang’
 
 Jeok Cheongang frowned and muttered,
 
-“I thought that bastard hadn’t kicked his old habits.”
+“I thought that bastard had fallen back into his old habits.”
 
 “Well, they say a habit formed at three lasts until eighty.”
 
@@ -328,9 +328,9 @@ Instead of shutting my mouth, I shouted loudly enough for everyone to hear.
 
 “Mungyeong, what did you say?”
 
-“Yes, yes?”
+“Y-Yes?”
 
-“No. Didn’t you just say something to me?”
+“Didn’t you just say something to me?”
 
 “That couldn’t… possibly be. You must have misheard me.”
 
@@ -338,13 +338,13 @@ Instead of shutting my mouth, I shouted loudly enough for everyone to hear.
 
 “Yes, yes.”
 
-“Then keep doing your work. Thanks for your hard work.”
+“Then get back to work. You’re doing a great job.”
 
 “Thank… you.”
 
 This was what happened when you committed too hard to the bit.
 
-Anyway, it sure was a spectacle immediately after coming back.
+Anyway, what a spectacular welcome back.
 
 *This is Murim.*
 

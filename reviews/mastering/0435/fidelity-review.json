@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "Didn’t realize someone had beaten me to the spot.",
+      "defect": "This drops the source-specific fact that the person is a passenger aboard the vessel. The current wording only establishes that someone arrived or occupied the spot first.",
+      "id": "F01",
+      "rationale": "선객 specifically identifies an onboard passenger, which also supports the later continuity reference to the sleeping passenger.",
+      "replacement": "I didn’t realize there was already a passenger here.",
+      "severity": "minor",
+      "source": "Lines 9, 151"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Taciturn by nature and unaccustomed to showing emotion, he had always found Jeok Cheongang difficult to talk to.",
+      "defect": "“Had always found” adds a longstanding temporal implication about Mungyeong’s difficulty with Jeok Cheongang that the source does not establish. The source’s lifelong qualification applies to Mungyeong’s taciturnity and emotional restraint.",
+      "id": "F02",
+      "rationale": "일평생 modifies Mungyeong’s quiet nature and limited emotional expression, not the duration of his relationship with Jeok Cheongang.",
+      "replacement": "Taciturn by nature and unaccustomed to showing emotion, he found Jeok Cheongang difficult to talk to.",
+      "severity": "minor",
+      "source": "Line 57"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The cabin door exploded into ash, revealing Fire King Jeok Cheongang.",
+      "defect": "“Exploded” changes the physical mechanism. The source says the door turned into ash and scattered; the preceding boom is the impact sound, not necessarily an explosion of the door itself.",
+      "id": "F03",
+      "rationale": "잿가루가 되며 흩어지며 describes disintegration into ash and scattering, preserving the distinct physical action from the preceding 콰앙.",
+      "replacement": "The cabin door turned to ash and scattered as Fire King Jeok Cheongang appeared.",
+      "severity": "minor",
+      "source": "Lines 229–231"
+    }
+  ],
+  "summary": "The assembled chapter is substantially faithful, with four minor fidelity deviations involving a dropped role detail, an added temporal implication, a changed physical mechanism, and a less precise medicinal-preparation detail.",
+  "version": 1
+}
