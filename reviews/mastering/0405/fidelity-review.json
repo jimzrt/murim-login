@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "*Why, I oughta…*",
+      "defect": "This turns the source's irritated, partially suppressed curse into an explicit English threat and drops the coarse exasperated register.",
+      "id": "F02",
+      "rationale": "팍, 씨. 아주 그냥. is an exasperated curse/mutter, while the explicit threat is conveyed separately by the following narration about making an intimidation in his head.",
+      "replacement": "*Fuck, seriously.*",
+      "severity": "minor",
+      "source": "Line 217; assembled P109"
+    },
+    {
+      "confidence": 0.86,
+      "current": "Its weight distribution and balance were close to perfect, and the transparent blade gleamed with unmistakable sharpness.",
+      "defect": "Gleamed changes the source's physical image and mechanism: the blade's concealed-but-flowing keen edge or sword aura becomes reflected visual brightness.",
+      "id": "F03",
+      "rationale": "예기가 흐른다 describes sharpness or a keen edge emanating from the transparent blade, not merely the blade gleaming.",
+      "replacement": "Its weight distribution and balance were close to perfect, and an unmistakable sharpness radiated from the transparent blade.",
+      "severity": "minor",
+      "source": "Lines 257–260; assembled P129–P130"
+    },
+    {
+      "confidence": 0.84,
+      "current": "Shao Shen, another Chinese member of the Public Security Armed Forces Department, was a more fitting owner than I was.",
+      "defect": "Another adds the implication that the narrator is also Chinese. The source establishes that Shao Shen is Chinese and belongs to the Public Security Armed Forces Department, without adding that nationality relationship to the narrator.",
+      "id": "F04",
+      "rationale": "The accepted baseline correctly avoids the unsupported relational implication in “another Chinese.”",
+      "replacement": "Shao Shen, who was both Chinese and a member of the Public Security Armed Forces Department, was a more fitting owner than I was.",
+      "severity": "minor",
+      "source": "Line 275; assembled P139"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but several minor meaning and register shifts remain, including a repeated conscience joke, a softened curse, a changed sword image, and an added implication about the narrator's nationality.",
+  "version": 1
+}

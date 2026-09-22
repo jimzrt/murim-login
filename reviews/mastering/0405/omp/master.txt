@@ -2,7 +2,7 @@
 
 “The operation will commence tomorrow at 06:30. Every front is to carry out its assigned orders without fail.”
 
-Pop.
+Flick.
 
 With those final words from Wei Fenghu, the Minister of National Defense, the meeting ended.
 
@@ -12,7 +12,7 @@ Lee Jungryong, Vice Guild Master of Ares Guild, leaned back in his chair and sta
 
 This was not a war that would end easily, nor was it a war that should end so easily.
 
-China was both a Hunter powerhouse with an enormous number of Hunters and a closed-off country. It was also one of the few countries where Ares Guild, which had extended its reach across the world through its mercenary business, had failed to establish a proper foothold.
+China was both a Hunter powerhouse with an enormous number of Hunters and a closed-off country. It was also one of the few places where Ares Guild, despite extending its reach across the world through its mercenary business, had failed to establish a proper foothold.
 
 That was why Lee Jungryong did not want China to remain stable. The more damage China suffered, the wider the cracks he could exploit.
 
@@ -50,7 +50,7 @@ Lee Jungryong knew that better than anyone. And if this war ended because of Jin
 
 Crack.
 
-The tip of his finger, infused with aura, had already bored through the solid wood and reduced it to powder.
+The tip of his aura-infused finger bored through the solid wood and reduced it to powder.
 
 Lee Jungryong silently looked down at the table, its center punched clean through.
 
@@ -92,11 +92,11 @@ The more than four thousand casualties among the other Hunters and soldiers did 
 
 Lee Jungryong asked, and Go Jun answered. To the two of them, only Ares Guild counted as allies.
 
-“It’s unfortunate about the commander, though. To die such an untimely death. He was quite a tough man……”
+“It’s a shame about the commander. I never thought he would meet such a violent end. He was a man with real backbone…”
 
 As Lee Jungryong trailed off, a gloomy light flickered in the depths of Go Jun’s eyes.
 
-“I’m sorry. I tried to stop them with everything I had, but there were simply too many monsters.”
+“I’m sorry. I did everything I could to save him, but there were simply too many monsters.”
 
 “It couldn’t be helped. Did you recover the body?”
 
@@ -120,7 +120,7 @@ A faint smile touched Lee Jungryong’s lips.
 
 By now, Wang Ochun was probably delighted to have been entrusted with such an important post. He had no idea that this entire chain of events was anything but simple good fortune.
 
-Nor did he know that his tough predecessor, now reduced to a handful of ashes, had been preparing a report on Ares Guild’s lackluster performance in battle.
+Nor did he know that his strong-willed predecessor, now reduced to a handful of ashes, had been writing a report on Ares Guild’s reluctance to fight.
 
 “Watch over him carefully. We can’t afford to lose our commander twice, can we?”
 
@@ -134,7 +134,7 @@ Now in a considerably better mood, Lee Jungryong continued.
 
 “You’ll have a hard time starting tomorrow, so get plenty of rest tonight.”
 
-“What do you mean by that……?”
+“By that, you mean…?”
 
 “We’ve been ordered to advance with all possible speed and sweep away the remaining monsters.”
 
@@ -154,7 +154,7 @@ Lee Jungryong spoke calmly, then continued.
 
 His gaze deepened as it settled on the table.
 
-“There may come a time when you have to fill a hole.”
+“There may come a time when another hole needs to be filled.”
 
 “…I’ll keep that in mind.”
 
@@ -196,7 +196,7 @@ Only when our departure was imminent did the two of them finally regain consciou
 
 *…What is this, an echo?*
 
-As I looked at Team Leader Choi and Shao Shen shouting with stiff expressions, I had no choice but to make them an offer.
+I stared at Team Leader Choi and Shao Shen as they made their declarations with grim expressions, then offered them a compromise.
 
 “Hmm. If you can last ten minutes against me, I’ll take you along.”
 
@@ -212,13 +212,13 @@ If anything, those two were the shameless ones. They could barely run properly, 
 
 It was good that they were burning with fighting spirit, but heading into battle in their current condition was a surefire way to get themselves killed.
 
-*And what kind of undead talks about conscience?*
+*And what kind of undead lectures people about having a conscience?*
 
 *Why, I oughta…*
 
 After making that threat in my head, I addressed the two thoroughly dejected men.
 
-“For now, focus on recovering. If you spend the next few days getting your feel back and your stamina returns, you might be deployed to the front then. That goes for you too, Shen—not just Team Leader Choi.”
+“For now, focus on recovering. Spend the next few days getting your instincts back and rebuilding your stamina. Once you do, you might be deployed to the front. That goes for you too, Shen—not just Team Leader Choi.”
 
 “Hmm.”
 
@@ -268,7 +268,7 @@ He swallowed hard.
 
 “That’s right.”
 
-The courage he had shown in the last battle. His sacrifice for someone else.
+The courage he had shown in the last battle. His willingness to sacrifice himself for another.
 
 That was enough.
 
@@ -290,13 +290,13 @@ It was hard to hear the words of a loser who had secretly grabbed Hero’s Soul 
 
 “…”
 
-*What is he talking about? Someone who wants it more than you is sitting quietly right here.*
+*What the hell is he talking about? Someone who wants it even more than he does is sitting quietly right here.*
 
-Since I was thinking about it anyway, I discreetly glanced at Team Leader Choi.
+Since the thought had occurred to me, I glanced at Team Leader Choi.
 
 Truthfully, I had agonized until the very end over whether to give Hero’s Soul to Shao Shen or Team Leader Choi.
 
-Team Leader Choi was human too, after all. He might have felt hurt.
+Team Leader Choi was only human, after all. He might feel left out.
 
 But apparently, all that concern had been for nothing.
 
@@ -320,9 +320,9 @@ Still…
 
 Team Leader Choi politely refused in his confusion, but Shao Shen had already made up his mind, and his resolve proved stronger.
 
-As I watched the two of them pass the sword back and forth, I quietly slipped out of the ward and started walking.
+As the two went back and forth over the sword, I quietly slipped out of the ward and started walking.
 
-Before I closed the door, Team Leader Choi’s voice reached my ears.
+Just before the door closed, I caught Team Leader Choi’s voice.
 
 “Of all the swords I’ve ever seen, I like this one the most.”
 
