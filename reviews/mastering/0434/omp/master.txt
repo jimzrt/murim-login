@@ -2,7 +2,7 @@
 
 “Have you looked in a mirror?”
 
-That was the first thing Team Leader Choi, the first person off the aircraft, said to me.
+That was the first thing Team Leader Choi said after stepping off the aircraft.
 
 I’d already guessed I looked rough, considering the people around me hadn’t recognized me, but was I really that much of a mess?
 
@@ -24,7 +24,7 @@ Mom poked her head through the open doorway of the private jet and spoke in a vo
 
 She vanished as soon as she said it, and a slim face appeared in her place. It was Hayeon, her skin glowing as if she’d spent the past several days eating and sleeping to her heart’s content.
 
-“I recognized you right away! I’m the only one who did, right?”
+“I recognized you right away! See? I’m the only one you can count on.”
 
 “Who are you? I’m an only child.”
 
@@ -40,7 +40,7 @@ Hayeon must have overheard us, because she immediately pulled her head back insi
 
 “It’s nice to see such a harmonious family.”
 
-“If we became twice as harmonious, someone would disappear from the family register.”
+“If we got any more harmonious, someone would disappear from the family register.”
 
 Team Leader Choi replied with a straight face.
 
@@ -64,9 +64,9 @@ A cool breeze made of mana swept over me, blowing away all the dust and grime at
 
 “You’re making it sound worse than it was. I was planning to be back on time.”
 
-Team Leader Choi stared at me without a word. I scratched the back of my head and continued as if I were making an excuse.
+Team Leader Choi stared at me without a word. I scratched the back of my head and continued, sounding more defensive than I intended.
 
-“I just stopped by on the off chance.”
+“I just stopped by on the off chance there was someone left.”
 
 “Mr. Jin.”
 
@@ -80,7 +80,7 @@ Team Leader Choi looked me in the eye and spoke with deliberate clarity.
 
 I smiled bitterly.
 
-I had witnessed many deaths, both in the modern world and in Murim.
+I had witnessed countless deaths, both in the modern world and in Murim.
 
 Sometimes I had been a spectator, far removed from what was happening. Other times, I had been at the heart of it.
 
@@ -134,7 +134,7 @@ I smiled back at Chairman Shao Yang.
 
 As if any hotel would be crazy enough to charge me—let alone overcharge me—in a situation like this.
 
-We traded light jokes while reaffirming each other’s intentions, then clasped hands.
+After trading light jokes to reaffirm what we both already knew, we clasped hands.
 
 “You have given us more help than I could ever dare measure.”
 
@@ -150,13 +150,13 @@ I gave them a slight nod and answered with a joke.
 
 “Ha ha. Of course.”
 
-I had momentarily forgotten, but the bounty on the Arch Lich’s head had been an astounding fifty trillion.
+I had almost forgotten, but the bounty on the Arch Lich’s head was a staggering fifty trillion won.
 
 It was such an astronomical sum that even the compensation I’d receive for fighting in a month-long war would look like pocket change beside it.
 
 I had never imagined possessing that much money in my life, and it still didn’t feel real.
 
-*Fifty trillion.*
+*Fifty trillion won.*
 
 Only half a year ago, I’d been eating seven-thousand-won bowls of bone hangover soup to save money, then cooking ramen afterward because one bowl wasn’t enough to fill me up.
 
@@ -184,11 +184,11 @@ They said China was the Middle Kingdom because it was too large to be a small na
 
 I scratched my chin awkwardly.
 
-There was nothing wrong with receiving payment under the contract, but accepting a bounty of fifty trillion amid such devastation made me feel like a thief rummaging through someone else’s storehouse.
+There was nothing wrong with being paid according to my contract, but accepting a fifty-trillion-won bounty amid such devastation made me feel like a thief rummaging through someone else’s storehouse.
 
 “If money’s tight, you can pay me in installments.”
 
-“If you are worried about rebuilding the damage, that is something our country must handle. Your bounty is being processed quickly, Mr. Jin, so it will be paid officially soon.”
+“If you are worried about the cost of reconstruction, that is a problem our country must overcome. Your matter is being processed swiftly, Mr. Jin, and the bounty will soon be paid in full.”
 
 Chairman Shao Yang leaned closer and whispered in my ear.
 
@@ -196,15 +196,15 @@ Chairman Shao Yang leaned closer and whispered in my ear.
 
 It took me a moment to realize he was talking about the Crown Prince Party.
 
-According to the news, the assets seized so far already amounted to hundreds of trillions.
+According to the news, the assets seized so far already amounted to hundreds of trillions of won.
 
 And that was before they had even touched Wu Xueming, the faction’s de facto leader, or the rest of its leadership.
 
-*Now that’s some corruption.*
+*Now that’s some world-class corruption.*
 
 A country’s landmass must be proportional to the size of its people’s nerve.
 
-Still, they had ended up penniless and behind bars, so justice had been served to some extent.
+Well, they had been stripped penniless and thrown behind bars, so some measure of justice had been served.
 
 Feeling considerably lighter, I answered, “Then I’ll accept it gratefully.”
 
@@ -212,7 +212,7 @@ Feeling considerably lighter, I answered, “Then I’ll accept it gratefully.�
 
 Before I could stop them, Chairman Shao Yang and his attendants bowed respectfully.
 
-The people gathered here were the major officials who moved an entire nation.
+The people gathered here were the highest officials of a nation.
 
 They were, in essence, the body and head of China itself.
 
@@ -224,7 +224,7 @@ As I stood there flustered, a familiar voice reached my ear.
 
 She approached with a playful expression and poked me in the cheek.
 
-“You worked hard, young man.”
+“You’ve been through a lot, young man.”
 
 “Not at all. Everyone…”
 
@@ -236,7 +236,7 @@ Prince Felix, dressed in a dazzling formal uniform with a snow-white cloak drape
 
 “I pay my respects to you, Korean commoner.”
 
-“…I appreciate it, but could you leave out the last few words?”
+“…I appreciate it, but could you leave out the last two words?”
 
 “I pay my respects to you, Korean commoner.”
 
@@ -270,11 +270,11 @@ Magic Johnson, who had watched the entire scene, smacked his lips.
 
 “Respect my preferences.”
 
-“He has a spouse.”
+“You have a spouse.”
 
 “That is why I am restraining myself.”
 
-We should never let him visit a Korean convenience store. The moment he took a bite of tuna mayo, the world would be hit by an unprecedented upheaval.
+We should never let him set foot in a Korean convenience store. One bite of tuna mayo, and the world would face an upheaval unlike anything in history.
 
 As I shook my head, Team Leader Choi spoke quietly.
 
@@ -290,25 +290,25 @@ I made sure not to leave out Xiao Shen and Wei Fenghu, with whom I’d spent so 
 
 “We’ll definitely meet again, hyung.”
 
-Xiao Shen, who was only in his early twenties, rubbed his reddened eyes with his sleeve before continuing.
+Xiao Shen, barely in his early twenties, wiped his reddened eyes with his sleeve before continuing.
 
 “I’ll become an outstanding Hunter like you, hyung, and rise to lead the public security forces that protect everyone.”
 
-“You’re still young, but you’re already blinded by the desire for power. That job must be brutal.”
+“You’re still a kid, and you’re already blinded by ambition. That job sounds brutal.”
 
 “I’m ashamed to admit it, but I’ve decided to accept my grandfather’s help.”
 
 “Good. He’ll have plenty of advice for you, so listen carefully and carve every word into your bones. I don’t know what kind of man he is, but I’m sure everything he tells you will be wise and helpful…”
 
-My words were cut off by something Xiao Shen said.
+Xiao Shen’s next words stopped me cold.
 
 “You know him too, hyung.”
 
-“Huh? Know what?”
+“Huh? Know who?”
 
 “My grandfather.”
 
-“What are you talking about? The only grandfathers I know are Butler Kim from my Guild and the owner of the real-estate office outside my goshiwon.[^1]”
+“What are you talking about? The only old men I know are Butler Kim from my Guild and the owner of the real-estate office outside my goshiwon.[^1]”
 
 Chairman Shao Yang cut in with a laugh.
 
@@ -318,9 +318,9 @@ Chairman Shao Yang cut in with a laugh.
 
 Wait a minute.
 
-The corners of my eyes began to twitch.
+The corner of my eye began to twitch.
 
-*Shao Yang. Shao Shen. Shao, Shao?*
+*Shao Yang. Xiao Shen. Shao, Xiao?*
 
 I’d dismissed it because Xiao was a common surname in China, like Kim or Park in Korea, but now that I looked at them, their faces were strangely similar too.
 
@@ -338,11 +338,11 @@ I’d dismissed it because Xiao was a common surname in China, like Kim or Park 
 
 What kind of novel was this?
 
-*The Younger Friend I Met in China Turned Out to Be the Chinese Chairman’s Grandson.*
+*The Kid Brother I Met in China Turned Out to Be the Chinese Chairman’s Grandson.*
 
 Even the title sounded ridiculous.
 
-Why was everyone I met born with a silver spoon in their mouth?
+Why was every bastard I met born with a silver spoon in his mouth?
 
 After a brief bout of panic, I finally managed to force out my voice.
 
@@ -360,13 +360,13 @@ Still dazed, I exchanged final farewells with grandfather and grandson. Then my 
 
 I wasn’t imagining the emptiness in his smile.
 
-Unlike his superior, he had lost someone of his own blood whom he loved.
+Unlike his superior, he had lost a beloved member of his own family.
 
 We looked at each other in silence for a moment, then spoke at the same time.
 
 “Goodbye.”
 
-“Take care, Mr. Jin. You have truly worked hard.”
+“Farewell, Mr. Jin. You have truly been through a great deal.”
 
 It was a brief exchange, but it was enough.
 
@@ -394,19 +394,19 @@ I nearly smacked him, but a quiet laugh escaped me instead.
 
 At last, I felt as if I were back where I belonged.
 
-My beloved family, whom I love more than anyone, along with my colleagues and friends.
+My beloved family, along with my companions and friends.
 
-Even though we were inside a chartered plane rather than a house, I felt an indescribable sense of comfort.
+Though we were inside a private jet rather than at home, an indescribable sense of comfort washed over me.
 
 *Yes. This is enough.*
 
-“We will now begin takeoff. Passengers in the cabin, please…”
+“We will now begin takeoff. All passengers are requested to…”
 
-An announcement rang out, and the aircraft rose toward the sky under the escort of the flight formation.
+The announcement sounded, and the aircraft soared into the sky under the escort of the surrounding formation.
 
 After we had spent a long while laughing, talking, and sharing stories, I sensed that the time had come.
 
-I watched everyone sleeping soundly from the fatigue that had built up, then lay back in my plush seat.
+I looked around at everyone sleeping soundly, exhausted from all they had been through, then reclined in my plush seat.
 
 *Login.*
 
@@ -414,6 +414,6 @@ Ding.
 
 With the familiar notification, darkness covered my vision, and I set off.
 
-Toward another world and another group of people waiting for me far away.
+Toward another world and the people waiting for me far away.
 
 [^1]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement common in South Korea.

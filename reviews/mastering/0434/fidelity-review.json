@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "During your interview, she asked who that filthy-looking man was and why he kept snapping at everyone.",
+      "defect": "The Korean describes his manner of speaking as curt or snippy, not repeated snapping at everyone. The current wording adds repeated conduct and a broader target.",
+      "id": "F01",
+      "rationale": "말투가 저리 틱틱대냐 concerns the speaker’s curt, abrasive tone rather than repeated acts of snapping at everyone.",
+      "replacement": "During your interview, she asked who that filthy-looking man was and why he spoke so rudely.",
+      "severity": "minor",
+      "source": "Lines 17–18"
+    },
+    {
+      "confidence": 0.9,
+      "current": "According to the news, the assets seized so far already amounted to hundreds of trillions.",
+      "defect": "The current wording drops the source’s indication that the total had exceeded several hundred trillion, weakening the quantity claim.",
+      "id": "F03",
+      "rationale": "수백 조가 넘어간다던가 means the seized assets were said to have surpassed several hundred trillion, not merely amounted to an unspecified amount in the hundreds of trillions.",
+      "replacement": "According to the news, the assets seized so far had already exceeded several hundred trillion.",
+      "severity": "minor",
+      "source": "Lines 195–197"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Apparently, I had saved the Chinese Chairman’s grandson without even realizing it.",
+      "defect": "“Without even realizing it” implies that he was unaware of having saved the person. The source says he saved the grandson unintentionally or unexpectedly, not that he failed to realize the rescue itself.",
+      "id": "F04",
+      "rationale": "뜻하지 않게 … 구한 셈이다 expresses an unintended outcome, while the current wording adds a stronger lack-of-awareness implication.",
+      "replacement": "In a way, I had saved the Chinese Chairman’s grandson without meaning to.",
+      "severity": "minor",
+      "source": "Lines 177–181"
+    }
+  ],
+  "summary": "Mostly faithful, with four minor source-fidelity defects involving an added behavioral implication, an invented physical reaction, a softened quantity, and an added implication of unawareness.",
+  "version": 1
+}
