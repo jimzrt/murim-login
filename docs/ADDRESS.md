@@ -1198,3 +1198,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | junior guild member to senior manager and trusted ally | Team Leader Choi | polite and familiar | Jin repeatedly addresses Team Leader Choi formally while asking his opinion and coordinating the public release. |
 | 최 팀장 | 진태경 | senior manager to trusted subordinate and ally | Mr. Jin Taekyung | formal-polite | Team Leader Choi addresses Jin as 진태경 씨 while requesting the file and explaining that Jin is his Joker card. |
 | 최 팀장 | 후긴 | guild authority to Odin Guild messenger and adversary | Mr. Huginn | formal and controlled | Team Leader Choi uses a restrained warning to stop Huginn from escalating. |
+| 진태경 | 최 팀장님 | younger allied Hunter to senior team leader and official associate | Team Leader Choi | casual-polite | Jin addresses Team Leader Choi while discussing the dead Wu family and proposing a trip to Paris. |
+| 최 팀장 | 진태경 | team leader and official associate to celebrated allied Hunter | Mr. Jin Taekyung | formal-polite | Team Leader Choi consistently addresses Jin as 진태경 씨 during their breakfast conversation and briefing. |

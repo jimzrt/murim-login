@@ -2165,3 +2165,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 오딘 | **Odin** | The name of the world's greatest Guild, invoking the Norse god. |
 | 김 과장 | **Manager Kim** | Manager responsible for the evidence storage room; no personal name is given. |
 | 크로노스 길드 | **Chronos Guild** | A major Guild included among the world's Ten Great Guilds. |
+| 우 쉐이밍 | **Wu Shaiming** | Former Chinese premier, Crown Prince Party leader, and father of Wu Heixing. |
+| 우 헤이싱 | **Wu Heixing** | Deceased S-rank Hunter who learned the Wu family's Mana Cultivation Method. |
