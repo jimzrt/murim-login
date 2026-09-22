@@ -1,6 +1,6 @@
 # Jeok Cheongang (적천강)
 
-- **Safe through:** Chapter 635
+- **Safe through:** Chapter 639
 - **Aliases:** Fire King; eighteenth Sect Leader of the Fire Gate Clan
 - **Role:** Jeok Cheongang is the current Sect Leader of the Fire Gate Clan, a legendary wandering martial master who has achieved Five Qi Returning to Origin, Furnace Fire Pure Blue, and Returned to Youth, Jin Taekyung's Master who has broken free of his Heart Demon and entered a new realm, and the occupant of the chief seat of the Murim Alliance's Five Kings Hall.
 - **Personality:** Secretive, cryptic, sharp-eyed, gruff, dryly teasing, casually threatening or violent when dissatisfied, pathologically afraid of water, and more deeply trusting of Taekyung than anyone else despite responding to his impossible claims with mockery and violence.

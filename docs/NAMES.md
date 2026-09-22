@@ -2025,3 +2025,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 타란툴라 | **tarantula** | A spider species identified by Jin. |
 | 인벤토리 | **Inventory** | System storage summoned by Jin. |
 | 가리지 않는 사냥충 | **Indiscriminate Hunting Bug** | Rare achievement awarded after killing a Thousand-Year Spider. |
+| 검마 | **Sword Demon** | A Demonic Cult swordsman whose final technique is compared with One Annihilation. |
+| 쌍두각사 | **two-headed horn snake** | A venomous snake species that hunts bears. |
+| 흑와 | **black frog** | A venomous frog whose poison can kill a hundred bulls. |
+| 금봉 | **golden bee** | A venomous bee said to strip a tiger to its bones in half a gak. |
