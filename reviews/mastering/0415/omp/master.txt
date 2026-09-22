@@ -2,7 +2,7 @@
 
 The battle came quickly.
 
-Before tens of thousands of monsters and the thick fog rolling over the wasteland like waves, a black-skinned Grand Mage stood tall, stepping on empty air, and uttered a single word heralding the beginning of the battle.
+Before tens of thousands of monsters and the thick fog rolling over the wasteland like a tidal wave, a black Grand Mage stood tall upon the empty air and uttered the words that heralded the beginning of the battle.
 
 “Fire Cannon.”
 
@@ -14,7 +14,7 @@ An immense torrent of mana swirled around him. Five flames sprang to life in mid
 
 The black tide of tens of thousands of monsters split apart. Blistering heat burned flesh and bone and melted the ground.
 
-An area-of-effect spell that reduced at least a thousand soldiers to ash.
+The area-of-effect spell reduced nearly a thousand troops to ash.
 
 But the monsters did not stop.
 
@@ -34,13 +34,13 @@ It was magic in the truest sense—the supernatural power of the greatest War Ma
 
 The cheerful, ever-laughing man was nowhere to be seen.
 
-Magic Johnson flung both hands out, his gaze grave. A wave dozens of meters high cast a broad, dark shadow over the tens of thousands of monsters.
+His gaze grave, Magic Johnson thrust both hands forward. The wave, dozens of meters high, cast a vast, dark shadow over the tens of thousands of monsters.
 
 *Roooooar!*
 
 Brimming with mana, the wave crashed down. The tremendous water pressure crushed the monsters, bursting their bodies and tearing them apart.
 
-The flames left behind by Fire Cannon went out, and the surrounding area was flooded with water.
+The flames left by Fire Cannon went out, leaving the surrounding land flooded.
 
 Magic Johnson knew exactly what to do next.
 
@@ -48,7 +48,7 @@ Magic Johnson knew exactly what to do next.
 
 It happened in an instant.
 
-Black storm clouds gathered over the monsters’ heads, and dozens of bolts of lightning came crashing down.
+Pitch-black storm clouds gathered above the monsters, and dozens of lightning bolts came crashing down.
 
 *BOOM! Crackle!*
 
@@ -60,15 +60,15 @@ The lightning struck without distinction, tearing through targets both in the ai
 
 Blackened Gargoyles and Griffins plummeted from the sky, while the ground, soaked by Water Blaster, carried the current.
 
-The living monsters trembled violently and dropped to their knees with a single shriek. The undead collapsed into piles of ash.
+Living monsters convulsed and dropped to their knees with strangled shrieks. The undead crumbled into ash.
 
-At the unbelievable sight unfolding before our eyes, a groan escaped someone’s lips.
+A groan escaped someone at the unbelievable sight.
 
 “So this is a Grand Mage…”
 
 The results of only three area-of-effect spells were staggering.
 
-At least several thousand monsters had either died or been rendered incapable of fighting, and one flank of the monster army had collapsed.
+Thousands of monsters had been killed or rendered unable to fight, and one flank of the monster army had collapsed.
 
 But even the Grand Mage who had single-handedly unleashed a natural disaster could not escape the crushing fatigue.
 
@@ -90,15 +90,15 @@ An arrow of mana formed against the empty bowstring.
 
 Faye Chen snorted and released the string.
 
-The mana arrow, scattering a dazzling radiance, shot forward with a sharp whistle. It erased the space in its path and split through the thick fog.
+The mana arrow shot forward with a piercing whistle, shedding dazzling light. It seemed to erase the space in its path as it split the thick fog.
 
-And then—
+Then—
 
 *BOOM!*
 
 A tremendous explosion erupted.
 
-After confirming that the Death Knight hiding among the countless monsters had vanished without even managing a final cry, Faye Chen pulled back her bowstring again.
+The Death Knight hidden among the countless monsters vanished without even managing a final scream. After confirming the kill, Faye Chen drew her bow again.
 
 *Thrum-thrum-thrum!*
 
@@ -138,7 +138,7 @@ Jin Taekyung studied them closely, then addressed the suicide squad he had broug
 
 The suicide squad moved swiftly, repeating the command in thunderous voices.
 
-Behind Jin Taekyung, Wu Heixing had been gathering the handful of Red Guard Gang Hunters who remained. He grabbed one of the Western Front suicide-squad members and asked,
+Behind Jin Taekyung, Wu Heixing had been gathering the mere handful of Red Guard Gang Hunters who remained. He grabbed one of the Western Front suicide-squad members and demanded,
 
 “Hey, rookie. What the hell is Formation J?”
 
@@ -154,7 +154,7 @@ Recognizing Wu Heixing, Shao Shen frowned before answering.
 
 Wu Heixing was momentarily lost for words.
 
-Wu Heixing was momentarily speechless, and Lee Jungryong and Jin Taekyung launched themselves forward at the exact same time, as if they had planned it.
+As if they had planned it in advance, Lee Jungryong and Jin Taekyung launched themselves forward at the exact same moment.
 
 Prince Felix and ten thousand Hunters surged fiercely after them.
 
@@ -202,7 +202,7 @@ Smoke curled from the Undead Troll’s seven apertures along with a surge of tre
 
 —Wicked human! Behind you!
 
-*I know, idiot. Who asked for your advice?*
+*I know, asshole. Who asked for your advice?*
 
 I turned my head. A lance wreathed in pitch-black magic grazed my neck and hurtled into the sky.
 
@@ -236,13 +236,13 @@ The Skeleton Warlord screamed when it saw my reaction.
 
 The magic clinging to the Death Knight’s sword vanished without a trace.
 
-The Death Knight stared blankly at the transparent spearhead that had pierced through its chest and emerged from its back. Then it muttered weakly,
+It stared blankly at the transparent spearhead protruding from its chest, then muttered weakly,
 
 —How…
 
 “This is as far as you go.”
 
-I returned the Death Knight’s own words to it and brought down the edge of my hand.
+I threw its own words back at it and brought the edge of my hand down.
 
 “I don’t know who you used to be, but you’ve suffered enough.”
 
@@ -294,7 +294,7 @@ I swept my spear in a wide arc, wiping out a dozen monsters, then asked in all s
 
 “…Since when do the undead feel unsettled?”
 
-Normally, he would have charged in like a Beggars’ Sect disciple who had not eaten in four days. Why was he acting like this?
+Normally, he would have lunged at it like a Beggars’ Sect disciple who had not eaten in four days. What was wrong with him?
 
 *Can undead go through puberty too?*
 
@@ -336,11 +336,11 @@ I licked my dry lips before answering.
 
 *Us…*
 
-It was a wonderful word. So why did I dislike the way it felt rolling off my tongue?
+It was such a nice word. So why did I hate the way it felt on my tongue?
 
 Maybe it was because of the people included in it.
 
-But I had already made up my mind when I proposed the suicide-squad operation. In that sense, Lee Jungryong’s suggestion was the best option.
+But I had already made up my mind when I proposed the suicide-squad operation. In that sense, Lee Jungryong’s suggestion was our best option.
 
 “Let’s do that. Where’s Wu Heixing?”
 
@@ -352,7 +352,7 @@ Unlike Lee Jungryong, who remained so immaculate that it was hard to believe he 
 
 “Good. You made it in time.”
 
-Wu Heixing let out a ragged breath. “Mere monsters could never stop me.”
+Wu Heixing drew a ragged breath. “Mere monsters could never stop me.”
 
 *Didn’t that bastard nearly die to those same mere monsters about an hour ago?*
 
@@ -374,7 +374,7 @@ It was **Hero’s Soul**.
 
 From somewhere beyond my sight, Team Leader Choi shouted,
 
-“I’m not going to say I’ll go with you, so take that sword with you instead. And… be careful!”
+“I won’t ask to go with you, so take that sword instead. And… be careful!”
 
 Those words carried a great deal of meaning.
 

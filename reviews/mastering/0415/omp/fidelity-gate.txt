@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, with two minor fidelity defects: an unsupported implication that the Red Guard Gang Hunters are survivors, and a duplicated speechlessness beat that interrupts the source's action transition.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 131-132",
+      "current": "Behind Jin Taekyung, Wu Heixing had been gathering the handful of Red Guard Gang Hunters who remained. He grabbed one of the Western Front suicide-squad members and asked,",
+      "defect": "“Who remained” adds the implication that these Hunters are survivors of an earlier loss or attrition. The Korean only says that Wu Heixing was gathering a group numbering no more than a handful.",
+      "replacement": "Behind Jin Taekyung, Wu Heixing was gathering the handful of Red Guard Gang Hunters. He grabbed one of the Western Front suicide-squad members and asked,",
+      "rationale": "한 줌밖에 안 되는 describes the small number of the Hunters, not that they are those left over from a previous group.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 143-145",
+      "current": "Wu Heixing was momentarily speechless, and Lee Jungryong and Jin Taekyung launched themselves forward at the exact same time, as if they had planned it.",
+      "defect": "The assembled English repeats Wu Heixing’s speechlessness: it is already stated in the preceding paragraph, then stated again here before the two men launch forward. The Korean has the speechlessness clause only once, followed directly by their simultaneous movement.",
+      "replacement": "Lee Jungryong and Jin Taekyung launched themselves forward at the exact same time, as if they had planned it.",
+      "rationale": "The source’s single sentence moves from 우헤이싱은 순간 할 말을 잃었고 to the simultaneous launch; repeating the reaction adds an event not present in the source.",
+      "confidence": 0.99
+    }
+  ]
+}

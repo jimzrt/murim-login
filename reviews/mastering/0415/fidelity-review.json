@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Behind Jin Taekyung, Wu Heixing had been gathering the handful of Red Guard Gang Hunters who remained. He grabbed one of the Western Front suicide-squad members and asked,",
+      "defect": "“Who remained” adds the implication that these Hunters are survivors of an earlier loss or attrition. The Korean only says that Wu Heixing was gathering a group numbering no more than a handful.",
+      "id": "F01",
+      "rationale": "한 줌밖에 안 되는 describes the small number of the Hunters, not that they are those left over from a previous group.",
+      "replacement": "Behind Jin Taekyung, Wu Heixing was gathering the handful of Red Guard Gang Hunters. He grabbed one of the Western Front suicide-squad members and asked,",
+      "severity": "minor",
+      "source": "Lines 131-132"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with two minor fidelity defects: an unsupported implication that the Red Guard Gang Hunters are survivors, and a duplicated speechlessness beat that interrupts the source's action transition.",
+  "version": 1
+}
