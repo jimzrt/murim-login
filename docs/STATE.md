@@ -1,29 +1,32 @@
 # Translation State
 
-- Last completed: 649
-- Next chapter: 650
-- Current block: 645–649 (5/5)
-- Latest translation: `translations/0649.md`
-- Latest summary: `summaries/beats/0649.md`
-- Safe profiles through: chapter 649
+- Last completed: 650
+- Next chapter: 651
+- Current block: 650–654 (1/5)
+- Latest translation: `translations/0650.md`
+- Latest summary: `summaries/beats/0650.md`
+- Safe profiles through: chapter 650
 
 ## Current Block
 
-- Jin Taekyung is attacked by an arrow while using the Nanman Beast Palace's filthy latrine. He pursues the shooter across the Inner Palace but is surrounded by palace warriors after forgetting to pull up his pants, creating a humiliating misunderstanding witnessed by more than two hundred people.
-- The arrow was not merely an attack: its fletching carried a rolled leather message reading “Today. Insi. West Gate.” Jin retrieves it from his Inventory and shows it to Namho, Sama Pyo, and Taishan as an apparent invitation from an unidentified sender.
+- The Inner Palace banquet ends around the Ox hour amid widespread rumors about Jin Taekyung's embarrassing escape. Keeping the arrow-bound missive secret even from the Beast Miao King, Jin leaves the Fire Dragon Pavilion quarters at Insi and reaches the crowded Outer Palace West Gate in a tiger mask.
+- At the West Gate, Jin recognizes Heugung disguised as a thin middle-aged food-stall patron through Sound Transmission and the System. Heugung admits sending the missive and reveals that Baeksang has allegedly colluded with Dark Heaven, causing Jin to snap his chopsticks in shock.
 
 ## Open Questions
 
-- Who fired the arrow and sent the leather message?
-- Was the arrow intended as an attack, an invitation, or both?
-- What awaits Jin at the West Gate during Insi?
+- Is Heugung's allegation that Baeksang colluded with Dark Heaven true?
+- What evidence does Heugung possess against Baeksang?
+- Was the arrow intended only to summon Jin, or was Heugung genuinely willing to risk injuring him?
+- Why is Heugung secretly acting outside Baeksang's apparent control?
+- When and how should Jin inform the Beast Miao King?
 
 ## Exceptional Decision
 
 - Use Insi for 인시.
 - Use West Gate for 서문.
-- Use Pavilion Master for 각주.
 - Use missive for 전서.
+- Use Bone-Shrinking Technique for 축골공.
+- Use Naked Divine Dragon for 노출신룡.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

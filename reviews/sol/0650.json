@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“My niece by marriage is part of the Inner Palace guard, you know. Apparently, the brief alert one shichen ago was because of that fellow.”",
+      "defect": "The gender-neutral 처조카 is identified specifically as a niece, adding an unsupported identity detail.",
+      "id": "F01",
+      "rationale": "처조카 specifies the speaker’s wife’s niece or nephew but does not reveal the relative’s gender.",
+      "replacement": "“My wife’s sibling’s kid is with the Inner Palace guard, you know. Apparently, the brief alert one shichen ago was because of that fellow.”",
+      "severity": "critical",
+      "source": "내 처조카가 내궁 경비 소속이잖나. 한 시진 전에 잠깐 비상이 걸린 게 저 친구 때문이었다는군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“According to my niece, she nearly attacked him because she thought he was holding a weapon. Until she shone a torch on him, she thought it was a spear.”",
+      "defect": "The draft repeatedly assigns female identity and pronouns to the gender-neutral relative.",
+      "id": "F02",
+      "rationale": "The Korean continues to omit the relative’s gender, so the English must preserve that ambiguity.",
+      "replacement": "“According to the kid, they nearly attacked him because they thought he was holding a weapon. Until they shone a torch on him, they thought it was a spear.”",
+      "severity": "critical",
+      "source": "처조카 말로는 무기를 들고 있는 줄 알고 공격할 뻔했다더군. 횃불로 비춰 보기 전까지는 그게 창인 줄 알았다던데."
+    },
+    {
+      "confidence": 0.97,
+      "current": "My eyes met Baeksang’s as he stared at the scene with an emotionless gaze.",
+      "defect": "The draft changes Baeksang’s direction of attention from looking toward Taekyung’s location to observing an unspecified scene.",
+      "id": "F03",
+      "rationale": "이곳을 응시하고 있던 means he was staring toward this place or in this direction, not generically watching a scene.",
+      "replacement": "My eyes met Baeksang’s as he stared this way with emotionless eyes.",
+      "severity": "minor",
+      "source": "나는 무감정한 눈동자로 이곳을 응시하고 있던 백상과 눈이 마주쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Of course. But which pavilion are you planning to return to this time?”",
+      "defect": "“Return to” implies an assigned residence and weakens the joke that asks which pavilion Taekyung will go to or climb next.",
+      "id": "F04",
+      "rationale": "갈 생각이냐 asks where he intends to go; the line deliberately recalls his earlier appearance atop a pavilion.",
+      "replacement": "“Of course. But which pavilion are you planning to go to this time?”",
+      "severity": "major",
+      "source": "물론 그래야지. 한데 이번에는 어느 전각으로 갈 생각이냐?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Around Insi. He said the West Gate, right?*",
+      "defect": "The draft assigns a male identity to the still-unidentified sender.",
+      "id": "F05",
+      "rationale": "The Korean refers to what the missive said and supplies no pronoun or gender for its sender.",
+      "replacement": "*Around Insi. It said the West Gate, right?*",
+      "severity": "critical",
+      "source": "‘인시 무렵. 서문이라고 했지.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "—…So it was you. By the way, I changed my appearance using the Bone-Shrinking Technique. How did you recognize me at a glance?",
+      "defect": "Heugung’s confirmation is changed into Taekyung recognizing or confirming Heugung’s responsibility, reversing the speaker’s response.",
+      "id": "F06",
+      "rationale": "맞네 is Heugung affirming that he sent the missive before asking how Taekyung recognized him.",
+      "replacement": "—…That’s right. By the way, I changed my appearance using the Bone-Shrinking Technique. How did you recognize me at a glance?",
+      "severity": "critical",
+      "source": "- ……맞네. 그나저나 축골공(縮骨功)으로 모습을 바꾸었는데. 어떻게 한눈에 알아봤지?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—I thought you’d dodge it. Even Baeksang, a great chieftain in his own right, couldn’t avoid being humiliated by you. Did you really think you couldn’t dodge a single arrow?",
+      "defect": "The draft overstates Baeksang’s setback as humiliation and changes Heugung’s rhetorical assessment of Taekyung’s ability into a question about what Taekyung himself believed.",
+      "id": "F07",
+      "rationale": "낭패 denotes a setback or serious difficulty, while 피하지 못하겠나 means Heugung considered it inconceivable that Taekyung could not evade one arrow.",
+      "replacement": "—I thought you’d dodge it. Even Great Chieftain Baeksang suffered a setback at your hands. How could you fail to dodge a single arrow?",
+      "severity": "major",
+      "source": "- 자네라면 피할 거라고 생각했네. 백상 대족장도 자네에게 낭패를 면하지 못했는데, 화살 하나 피하지 못하겠나."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I heard that Han Chinese fellow was up on top of a pavilion with his lower half completely naked.”",
+      "defect": "The draft makes the euphemistic description more graphically explicit and changes the speaker’s questioning delivery into a flat statement.",
+      "id": "F08",
+      "rationale": "아랫도리를 벗은 채 is a colloquial reference to having his lower garments off, and the sentence-ending 면서 marks this as reported information posed for confirmation.",
+      "replacement": "“That Han Chinese fellow—wasn’t he up on top of a pavilion with his pants off?”",
+      "severity": "major",
+      "source": "저 한족 친구 말인데, 아랫도리를 벗은 채로 전각 위에 올라가 있었다면서?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "But there was nothing I could do about it now. The fact that my opponent had made secret contact in this manner also meant that I wasn’t supposed to tell anyone else.",
+      "defect": "Calling the unidentified contact an “opponent” adds an adversarial relationship that the source does not establish.",
+      "id": "F09",
+      "rationale": "상대 here neutrally means the other party or person involved in the contact; Taekyung still does not know whether the sender is hostile.",
+      "replacement": "But there was nothing I could do about it now. The fact that the other party had made secret contact in this manner also meant that I wasn’t supposed to tell anyone else.",
+      "severity": "major",
+      "source": "하지만 지금은 어쩔 수 없었다. 상대가 이런 방식으로 비밀리에 접선했다는 것은, 다른 이들에게는 알리지 말아야 한다는 뜻도 포함되어 있으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Taishan, as usual, didn’t seem to have a single thought in his head.",
+      "defect": "The draft turns Taishan’s lack of concern or reaction into a stronger added insult implying total mindlessness.",
+      "id": "F10",
+      "rationale": "별생각이 없었다 means he did not think much of the matter, not literally that there was no thought in his head.",
+      "replacement": "Taishan, as usual, didn’t give it much thought.",
+      "severity": "minor",
+      "source": "태산은 언제나처럼 별생각이 없었고,"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Baeksang, the great chieftain… has made a pact with Dark Heaven.",
+      "defect": "“Made a pact” suggests a discrete or formal agreement rather than the covert collusion stated in the source.",
+      "id": "F11",
+      "rationale": "결탁하다 specifically means to collude or secretly join forces, which is the substance of Heugung’s revelation.",
+      "replacement": "—Great Chieftain Baeksang… has colluded with Dark Heaven.",
+      "severity": "major",
+      "source": "- 백상 대족장이…… 암천과 결탁했네."
+    }
+  ],
+  "summary": "The draft contains several actionable fidelity errors, including unsupported gendering, an unidentified sender assigned a male pronoun, a reversed reply, and altered implications in key dialogue.",
+  "version": 1
+}

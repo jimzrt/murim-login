@@ -2047,3 +2047,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 신인 | **divine man** | Descriptive term for a human who became something beyond humanity. |
 | 수둔 | **Water Style** | Namho's water-based technique used against Taishan. |
 | 외궁 | **Outer Palace** | The outer compound of the Nanman Beast Palace. |
+| 축골공 | **Bone-Shrinking Technique** | A martial art that stretches and shrinks bone and flesh to alter the user's appearance. |
+| 노출신룡 | **Naked Divine Dragon** | An embarrassing sobriquet Jin gained after the exposed escape that became the subject of rumors. |
