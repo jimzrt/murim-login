@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Hm. Why make such a big deal out of the Creation? What about retaliatory terrorism?”",
+      "defect": "The draft changes the complaint from invoking something as grandiose as God’s creation of heaven and earth to making a big deal out of “the Creation,” which sounds like a named work or event.",
+      "id": "F01",
+      "rationale": "천지창조씩이나 criticizes the grandiose comparison to God creating heaven and earth; it does not say that the President made too much of an event called “the Creation.”",
+      "replacement": "“Hm. Why bring up something as grand as creating heaven and earth? What about retaliatory terrorism?”",
+      "severity": "minor",
+      "source": "“흠. 뭘 또 거창하게 천지창조씩이나. 그래서 보복성 테러는요?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Yes. They’ve even been unusually quiet.”",
+      "defect": "The translation broadens a specific observation that the terrorists are refraining from speaking into general quietness and omits the counterexpectational 오히려.",
+      "id": "F02",
+      "rationale": "말을 아끼다 specifically means to refrain from commenting or speaking, while 오히려 marks the surprising contrast.",
+      "replacement": "“Yes. If anything, they’ve even been keeping their mouths shut.”",
+      "severity": "minor",
+      "source": "“네. 오히려 말을 아끼기까지 하더군요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I don’t know.”",
+      "defect": "This renders a conversational hesitation as literal uncertainty, even though Choi immediately states that there are many problems.",
+      "id": "F03",
+      "rationale": "Here 글쎄요 delays the answer and signals reluctance or deliberation rather than lack of knowledge.",
+      "replacement": "“Well…”",
+      "severity": "minor",
+      "source": "“글쎄요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "If ordinary people in society distinguished one another based on education, family background, and appearance, Hunters were divided into high and low solely according to Grade.\n\nHow much mana they had been granted. How agile and strong they were. They were selected according to such primitive standards, then assigned Grades like cattle being marked for slaughter.\n\n*There’s a reason they call F-rank Hunters slaves.*\n\nHigh-ranking Hunters, on the other hand, were practically beings who lived above the clouds.\n\nThey made more money from a single raid than most Hunters could earn in a lifetime, and lived beneath envious gazes and the glare of the spotlight.\n\nThat was probably why.\n\nJust as the nobles of the past had built castles and lived inside them, high-ranking Hunters had built walls meant only for themselves.\n\nWalls no one but another high-ranking Hunter could cross.\n\nEven if someone was lucky enough to receive a high Grade, the door would open only with their permission.",
+      "defect": "The draft uses capitalized “Grade” for ordinary Hunter classifications. The binding terminology reserves “Grade” for System fields and requires “rank” for Hunter classifications.",
+      "id": "F04",
+      "rationale": "These are Hunter ranks in ordinary narration, not Grade fields in a System panel.",
+      "replacement": "If ordinary people in society distinguished one another based on education, family background, and appearance, Hunters were divided into high and low solely according to rank.\n\nHow much mana they had been granted. How agile and strong they were. They were selected according to such primitive standards, then assigned ranks like cattle being marked for slaughter.\n\n*There’s a reason they call F-rank Hunters slaves.*\n\nHigh-ranking Hunters, on the other hand, were practically beings who lived above the clouds.\n\nThey made more money from a single raid than most Hunters could earn in a lifetime, and lived beneath envious gazes and the glare of the spotlight.\n\nThat was probably why.\n\nJust as the nobles of the past had built castles and lived inside them, high-ranking Hunters had built walls meant only for themselves.\n\nWalls no one but another high-ranking Hunter could cross.\n\nEven if someone was lucky enough to receive a high rank, the door would open only with their permission.",
+      "severity": "minor",
+      "source": "일반적인 사회인들이 학력과 집안, 외모로 서로를 구별한다면, 헌터는 오직 등급에 따라 귀천(貴賤)이 갈린다.\n\n얼마나 많은 마나를 부여받았는지. 얼마나 민첩하고 힘이 강한지. 그런 원초적인 기준에 따라 선별되고 곧 도축당할 소처럼 등급이 매겨지는 거다.\n\n‘괜히 F급 헌터를 노비라고 부르는 게 아니지.’\n\n반면 상위 헌터들은 그야말로 구름 위의 존재나 다름없다.\n\n그들은 어지간한 헌터가 평생 일해도 벌 수 없는 금액을 레이드 한 번으로 벌어들이고, 부러움이 담긴 시선과 스포트라이트 속에서 살아간다.\n\n아마 그래서일 것이다.\n\n과거 귀족들이 성을 짓고 살아가던 것처럼, 그들 역시 자신들만을 위한 벽을 지었다.\n\n상위 헌터가 아니라면 누구도 넘을 수 없는 벽.\n\n설령 운이 좋은 누군가가 높은 등급을 받았더라도, 자신들의 허락이 있어야만 열리는 문까지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I suddenly remembered the conversation I’d had with Jeok Cheongang just before logging out.",
+      "defect": "The established term “Logout” is replaced with the generic verbal phrase “logging out.”",
+      "id": "F05",
+      "rationale": "로그아웃 has the binding established rendering “Logout” in this series.",
+      "replacement": "I suddenly remembered the conversation I’d had with Jeok Cheongang just before Logout.",
+      "severity": "minor",
+      "source": "문득 로그아웃하기 직전 적천강과 나누었던 대화가 생각난다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Yes. And so will we.”",
+      "defect": "Because the preceding question asks whether the other Guilds will make a fuss, “so will we” says Choi’s side will also cause a fuss. The source instead says Choi’s side will be thrown into turmoil or suffer the fallout.",
+      "id": "F06",
+      "rationale": "저희도 난리 나고요 describes the consequences for Choi’s group, not a matching decision by them to make trouble.",
+      "replacement": "“Yes. And it’ll be chaos for us too.”",
+      "severity": "major",
+      "source": "“네. 저희도 난리 나고요.”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "I killed anyone who stood in our way, and the dead were bound to the Skeleton King’s undead army, which chased after those who fled.",
+      "defect": "The draft adds “our” to the genuinely unspecified path being blocked, shifting the action from opposition to Taekyung’s advance to opposition against the whole group.",
+      "id": "F07",
+      "rationale": "The Korean omits a possessive before 앞 and does not specify that the enemies stood in the entire group’s way.",
+      "replacement": "I killed anyone who stood in the way, and the dead were bound to the Skeleton King’s undead army, which chased after those who fled.",
+      "severity": "minor",
+      "source": "앞을 막아서는 놈은 죽였고, 그렇게 죽은 놈들은 스켈레톤 킹의 언데드 군단에 복속되어 도망치는 놈들을 쫓았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was a war between bastards and motherfuckers, and the price of being deceived by those false orders and launching all-out attacks against one another was a massive loss of military strength on both sides—enough to be called mutual destruction.",
+      "defect": "“Mutual destruction” overstates the result as both sides being destroyed. The source says both sides suffered severe losses, and the following text confirms that the groups were not eradicated.",
+      "id": "F08",
+      "rationale": "양패구상 literally describes both sides being injured or badly harmed, while 막대한 전력 손실 specifies major losses in fighting strength rather than total destruction.",
+      "replacement": "It was a war between bastards and motherfuckers, and after being duped by those false orders into launching all-out attacks against each other, both sides paid the price in massive losses—enough to leave them grievously wounded.",
+      "severity": "major",
+      "source": "그건 개새끼와 씹새끼의 전쟁이었고, 거짓 명령에 속아 서로를 향해 총공세를 펼친 대가는 양패구상(兩敗俱傷)이라 부를 만한 막대한 전력 손실로 돌아왔다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "On top of that, he had a halo brighter than anyone else’s.\n\nHe was the savior who had rescued humanity from the Demon King Asmodeus, and Cheon Taemin’s sole blood relative and heir.",
+      "defect": "The draft identifies Choi Minwoo himself as the savior who rescued humanity from Asmodeus. The savior is Cheon Taemin; Choi’s prestige comes from being that savior’s sole blood relative and heir.",
+      "id": "F09",
+      "rationale": "The source attaches 천태민의 하나뿐인 혈육이자 후계자 to Choi and identifies Cheon Taemin through the preceding appositive 구세주.",
+      "replacement": "On top of that, he had a more glorious halo than anyone else’s.\n\nHe was the sole blood relative and heir of Cheon Taemin, the savior who had rescued humanity from the Demon King Asmodeus.",
+      "severity": "critical",
+      "source": "게다가 그에게는 누구보다 화려한 후광(後光)이 있다.\n\n마왕 아스모데우스로부터 인류를 구한 구세주. 천태민의 하나뿐인 혈육이자 후계자라는 후광이."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Let me trade on Grandpa’s name just once.”",
+      "defect": "The draft makes Taekyung the person who will trade on an ambiguously identified “Grandpa’s” name and omits the explicit maternal-grandfather relationship. Taekyung is asking Choi to invoke his maternal grandfather’s name and prestige.",
+      "id": "F10",
+      "rationale": "외할아버지 explicitly means maternal grandfather, while 팔아 줘 asks Choi to do Taekyung the favor of leveraging that name.",
+      "replacement": "“Put your maternal grandfather’s name to work for us just this once.”",
+      "severity": "major",
+      "source": "“외할아버지 이름 한 번만 팔아 줘.”"
+    }
+  ],
+  "summary": "One critical identity error assigns Cheon Taemin’s savior achievement to Choi Minwoo. The draft also alters who suffers the consequences of releasing the technique, overstates the terrorists’ losses, obscures a kinship-based request, and has several localized pragmatic and terminology issues.",
+  "version": 1
+}
