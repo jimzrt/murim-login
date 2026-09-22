@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "—On a day like today, it is both my pleasure and my honor to bring you this news.",
+      "defect": "The source says the speaker is pleased and deeply moved, not honored. “Honor” adds an unsupported emotion and drops the source’s sense of being moved.",
+      "id": "F01",
+      "rationale": "기쁘고 감격스럽습니다 means “I’m pleased and deeply moved,” while 감격스럽다 does not establish honor.",
+      "replacement": "—On a day like today, I’m pleased and deeply moved to bring you this news.",
+      "severity": "minor",
+      "source": "P13"
+    },
+    {
+      "confidence": 0.92,
+      "current": "People even joked that the victory had generated more coverage than the heavy snow that fell across Korea for three straight days.",
+      "defect": "The source says it reached the point that people were saying this, but does not characterize the statement as a joke. “Joked” shifts the register and frames the claim as deliberate humor.",
+      "id": "F02",
+      "rationale": "말이 나올 정도였다 establishes that such a comment was being made, not specifically that people joked about it.",
+      "replacement": "It got to the point that people even said the victory had generated more coverage than the heavy snow that fell across Korea for three straight days.",
+      "severity": "minor",
+      "source": "P40"
+    },
+    {
+      "confidence": 0.88,
+      "current": "[Four Days After the War. What Was Hidden Behind That Great Victory? The Questions Surrounding Jin Taekyung.]",
+      "defect": "The headline drops the source’s temporal qualifier “that day,” which ties the hidden circumstances to the day of the victory.",
+      "id": "F03",
+      "rationale": "그날 explicitly specifies the day associated with the great victory; the current headline retains only the demonstrative “that” for the victory itself.",
+      "replacement": "[Four Days After the War. What Was Hidden Behind the Great Victory That Day? The Questions Surrounding Jin Taekyung.]",
+      "severity": "minor",
+      "source": "P56"
+    },
+    {
+      "confidence": 0.99,
+      "current": "As Chairman Shao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.",
+      "defect": "The chairman’s name is inconsistently romanized as “Shao Yang.” The source’s 샤오 양 is Xiao Yang, and the assembled chapter otherwise uses “Xiao Yang.”",
+      "id": "F04",
+      "rationale": "This is a proper-name spelling inconsistency and a regression within the same chapter.",
+      "replacement": "As Chairman Xiao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.",
+      "severity": "minor",
+      "source": "P120"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Corruption and embezzlement involving astronomical sums had been exposed, and dealing with the fallout would force the Crown Prince Party to tear out its own foundations.",
+      "defect": "“Embezzlement” narrows the source’s broad category of 비리 to one specific financial offense that the Korean does not establish.",
+      "id": "F05",
+      "rationale": "비리, 부패 describes corruption and graft/malfeasance broadly; it does not specifically identify embezzlement.",
+      "replacement": "Corruption and graft involving astronomical sums had been exposed, and dealing with the fallout would force the Crown Prince Party to tear out its own foundations.",
+      "severity": "minor",
+      "source": "P127"
+    }
+  ],
+  "summary": "Mostly faithful, with several minor source-fidelity defects involving emotional nuance, register, a dropped temporal detail, a name inconsistency, and an over-specific rendering of corruption.",
+  "version": 1
+}
