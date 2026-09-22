@@ -2029,3 +2029,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 쌍두각사 | **two-headed horn snake** | A venomous snake species that hunts bears. |
 | 흑와 | **black frog** | A venomous frog whose poison can kill a hundred bulls. |
 | 금봉 | **golden bee** | A venomous bee said to strip a tiger to its bones in half a gak. |
+| 몽씨 | **Mong** | An old man whose account helps spread the rumor. |
+| 장 족장 | **Chief Jang** | A tribal chieftain who defends Nanman's pride and clashes with another chieftain at the council. |

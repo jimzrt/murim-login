@@ -1,6 +1,6 @@
 # Beast Miao King (야수묘왕)
 
-- **Safe through:** Chapter 641
+- **Safe through:** Chapter 642
 - **Aliases:** None
 - **Role:** The Beast Miao King is the Palace Lord of the Nanman Beast Palace, the great chieftain of the Miao people, and a master among the Ten Kings.
 - **Personality:** Fierce and vigilant when confronting threats to the Nanman Beast Palace.
