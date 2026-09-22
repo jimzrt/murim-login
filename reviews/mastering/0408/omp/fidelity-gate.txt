@@ -1,0 +1,45 @@
+{
+  "summary": "Mostly faithful, but four minor source-fidelity issues remain: one binding nickname change, one unsupported gendered pronoun, one added vessel-specific detail, and one weakened physical action.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 377-381",
+      "current": "Come here, Bones.",
+      "defect": "The established nickname 골골 is rendered as “Bones,” losing the binding glossary term and continuity of the character’s nickname.",
+      "replacement": "Come here, Golgoli.",
+      "rationale": "골골 is explicitly bound to “Golgoli” in the glossary; this is a name substitution, not an optional stylistic recast.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 207-209",
+      "current": "then tipped back her liquor glass.",
+      "defect": "The assembled English assigns Faye Chen a female pronoun, while the Korean leaves the subject’s gender implicit and the accepted baseline preserves the established male pronoun.",
+      "replacement": "then tipped back his liquor glass.",
+      "rationale": "The source says only that Faye Chen tilted the liquor glass. The current “her” introduces a continuity change unsupported by this passage and regresses from the accepted baseline’s “his.”",
+      "confidence": 0.95
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 241-243",
+      "current": "he had been enjoying a lavish yacht party surrounded by dozens of beautiful women.",
+      "defect": "“Yacht” adds a specific vessel type that the Korean does not establish.",
+      "replacement": "he had been enjoying a lavish party aboard a ship, surrounded by dozens of beautiful women.",
+      "rationale": "선상 means a party held aboard a vessel or ship; the source does not specify a yacht.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 351-353",
+      "current": "The bottom edge of the tent suddenly began to shift.",
+      "defect": "“Shift” weakens the physical image in 들썩이더니, which describes the tent edge bobbing or heaving up and down.",
+      "replacement": "The bottom edge of the tent suddenly began to bob.",
+      "rationale": "The source gives a distinct lifting/bobbing motion before the skull rolls out; the current wording reduces that specific physical action to generic movement.",
+      "confidence": 0.86
+    }
+  ]
+}

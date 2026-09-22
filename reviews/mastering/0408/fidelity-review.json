@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Come here, Bones.",
+      "defect": "The established nickname 골골 is rendered as “Bones,” losing the binding glossary term and continuity of the character’s nickname.",
+      "id": "F01",
+      "rationale": "골골 is explicitly bound to “Golgoli” in the glossary; this is a name substitution, not an optional stylistic recast.",
+      "replacement": "Come here, Golgoli.",
+      "severity": "minor",
+      "source": "Lines 377-381"
+    },
+    {
+      "confidence": 0.95,
+      "current": "then tipped back her liquor glass.",
+      "defect": "The assembled English assigns Faye Chen a female pronoun, while the Korean leaves the subject’s gender implicit and the accepted baseline preserves the established male pronoun.",
+      "id": "F02",
+      "rationale": "The source says only that Faye Chen tilted the liquor glass. The current “her” introduces a continuity change unsupported by this passage and regresses from the accepted baseline’s “his.”",
+      "replacement": "then tipped back his liquor glass.",
+      "severity": "minor",
+      "source": "Lines 207-209"
+    },
+    {
+      "confidence": 0.93,
+      "current": "he had been enjoying a lavish yacht party surrounded by dozens of beautiful women.",
+      "defect": "“Yacht” adds a specific vessel type that the Korean does not establish.",
+      "id": "F03",
+      "rationale": "선상 means a party held aboard a vessel or ship; the source does not specify a yacht.",
+      "replacement": "he had been enjoying a lavish party aboard a ship, surrounded by dozens of beautiful women.",
+      "severity": "minor",
+      "source": "Lines 241-243"
+    },
+    {
+      "confidence": 0.86,
+      "current": "The bottom edge of the tent suddenly began to shift.",
+      "defect": "“Shift” weakens the physical image in 들썩이더니, which describes the tent edge bobbing or heaving up and down.",
+      "id": "F04",
+      "rationale": "The source gives a distinct lifting/bobbing motion before the skull rolls out; the current wording reduces that specific physical action to generic movement.",
+      "replacement": "The bottom edge of the tent suddenly began to bob.",
+      "severity": "minor",
+      "source": "Lines 351-353"
+    }
+  ],
+  "summary": "Mostly faithful, but four minor source-fidelity issues remain: one binding nickname change, one unsupported gendered pronoun, one added vessel-specific detail, and one weakened physical action.",
+  "version": 1
+}

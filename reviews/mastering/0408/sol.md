@@ -8,7 +8,7 @@ The moment those words left Jin Taekyung’s mouth, Wu Heixing forgot his rising
 
 A suicide squad.
 
-Wasn’t that exactly what it meant—to charge in prepared to die?
+The name said it all. They were supposed to charge in prepared to die.
 
 Even if they somehow broke through the monster army without knowing its exact numbers, the real monster—the Arch Lich—would be waiting behind it. The mere thought made Wu Heixing’s hair stand on end.
 
@@ -78,11 +78,11 @@ Even Lee Jungryong, whom Wu Heixing had trusted, had sided with Jin Taekyung for
 
 Desperate to avoid being included in the suicide squad, Wu Heixing hurriedly turned toward Jin Taekyung.
 
-“W-Wait! If all the S-rank Hunters leave, wouldn’t that create a massive hole in our forces?”
+“W-Wait! If all the S-rank Hunters leave, won’t that create a massive hole in our forces?”
 
 “Gasp.”
 
-Jin Taekyung sucked in a startled breath and looked at Wu Heixing in surprise.
+Jin Taekyung sucked in a startled breath and stared at Wu Heixing in amazement.
 
 “Wow. You do use your brain once in a while.”
 
@@ -96,9 +96,9 @@ But this was no time to get angry. Wu Heixing suppressed his surging fury and co
 
 “R-Right. So, to prepare for any unforeseen circumstances, I—”
 
-Jin Taekyung abruptly cut him off and turned toward Magic Johnson.
+Jin Taekyung cut him off and turned to Magic Johnson.
 
-“It seems like you should stay behind. What do you think, Johnson?”
+“I think you should stay behind. What do you think, Johnson?”
 
 “Me?”
 
@@ -106,7 +106,7 @@ What kind of situation was this? Wu Heixing desperately tried to intervene.
 
 “M-Magic Johnson? Wouldn’t it be better to have at least one mage come with us?”
 
-“Of course that would be good. It would—but…”
+“Of course it would. It would, but…”
 
 Jin Taekyung gave Wu Heixing a pleasant smile.
 
@@ -132,7 +132,7 @@ Ignoring Wu Heixing, who had frozen like a statue, Jin Taekyung asked Magic John
 
 “You’re right, Jin. So I’m the only one staying behind?”
 
-Defense Minister Wei Fenghu, who had been silently observing the situation, suddenly spoke.
+Wei Fenghu, the Minister of National Defense, had been silently watching the exchange. Now he suddenly spoke.
 
 “The Arch Lich must have held a large number of high-level monsters in reserve for the final battle. Far more than the number of A-rank Hunters on our side. We will need at least two more S-rank Hunters to maintain an evenly matched battlefield.”
 
@@ -146,19 +146,19 @@ Finding a glimmer of hope, Wu Heixing cleared his throat.
 
 “What?”
 
-“I’m sorry, but I cannot explain the details. There is a complicated issue involved.”
+“I’m sorry, but I cannot explain the details. There are complicated circumstances involved.”
 
 Felix was not merely an S-rank Hunter. He was a member of the royal family and practically a symbol of the United Kingdom. Nor was he some insignificant member of a distant branch. He was third in line to the throne.
 
-Everyone present understood that the “complicated issue” Wei Fenghu could not explain was a diplomatic problem with the United Kingdom.
+Everyone present understood that the “complicated circumstances” Wei Fenghu could not explain involved diplomatic issues with the United Kingdom.
 
-“Well, his father is the King of the United Kingdom, so I suppose that’s possible. Then the prince is out.”
+“Well, his father is the King of the United Kingdom, so I suppose that’s understandable. The prince is out, then.”
 
 At Jin Taekyung’s words, Prince Felix spoke with an uncomfortable expression.
 
 “I hope you understand that this is not my choice. However, I have been bound to the royal family since birth, and I cannot disobey my royal father’s command—”
 
-“It’s fine. I don’t care. I’d actually prefer it this way, since it would leave a bad taste in my mouth if the United Kingdom’s fourth in line to the throne got hurt during the operation I proposed.”
+“It’s fine. I don’t care. I’d actually prefer it this way. It would leave a bad taste in my mouth if the United Kingdom’s fourth in line to the throne got hurt during an operation I proposed.”
 
 “Third! And show proper respect when speaking to me.”
 
@@ -192,23 +192,23 @@ Wu Heixing squeezed his eyes shut, opened them again, and muttered,
 
 “Okay.”
 
-It happened at Quick Attack speed.
+It all happened with the speed of a Quick Attack.
 
 One spot still remained, but Wu Heixing felt a sense of foreboding.
 
-And it didn’t take long for that foreboding to become certainty.
+It did not take long for that foreboding to become certainty.
 
 “I would like Faye Chen to fill the final position.”
 
-But what had thrown Wu Heixing into confusion was that it wasn’t Jin Taekyung who had blocked his last escape route.
+What threw Wu Heixing into confusion was that it wasn’t Jin Taekyung who had blocked his last escape route.
 
 It was Lee Jungryong.
 
-*What in the world is that old man thinking?*
+*What the hell is that old man thinking?*
 
 Wu Heixing vividly remembered the conversation he had shared with Lee Jungryong on the day Jin Taekyung had trampled him into the ground.
 
-*He clearly suggested that we join forces. And now he’s stabbing me in the back like this?*
+*He was the one who suggested we join forces. And now he’s stabbing me in the back?*
 
 Faye Chen glanced at Wu Heixing as he ground his teeth, then tipped back her liquor glass.
 
@@ -216,9 +216,9 @@ Faye Chen glanced at Wu Heixing as he ground his teeth, then tipped back her liq
 
 “No, Faye Chen. You will do more to reduce casualties by remaining behind.”
 
-“You don’t know that kid. Just looking at him makes even someone who never had any patriotism develop some.”
+“You only say that because you don’t know that kid. Watching him is enough to make even me feel patriotic.”
 
-“Don’t worry. I’ll be here.”
+“Don’t worry. I’ll be there.”
 
 His tone was calm but filled with certainty.
 
@@ -246,13 +246,13 @@ Jin Taekyung silently met Lee Jungryong’s gaze before answering.
 
 “You’re certainly well educated. Still, your academic credentials have nothing on the length of my tissue roll.”
 
-The people around them developed pounding headaches trying to follow Jin Taekyung’s answers, while Wu Heixing fell into despair.
+Everyone’s heads began to ache as they tried to follow Jin Taekyung’s bizarre answers, while Wu Heixing fell into despair.
 
-Until barely a month ago, he had been enjoying a lavish yacht party surrounded by dozens of beautiful women.
+Barely a month ago, he had been enjoying a lavish yacht party surrounded by dozens of beautiful women.
 
 Now he had been assigned to a suicide squad prepared to die.
 
-And then, in the very next moment—
+Then, at that very moment—
 
 —Do you think I betrayed you?
 
@@ -260,9 +260,9 @@ And then, in the very next moment—
 
 —Accept it. I promise there will be no danger.
 
-As the Sound Transmission pierced his ears, Wu Heixing slowly raised his head.
+At the Sound Transmission piercing his ears, Wu Heixing slowly raised his head.
 
-Lee Jungryong was looking at him with a gentle smile as he continued speaking.
+Lee Jungryong was looking at him with a gentle smile as he continued speaking aloud.
 
 “He’ll carry out his assigned duty well. I guarantee it.”
 
@@ -288,25 +288,25 @@ The Skeleton Warlord had remained silent throughout the meeting. But the moment 
 
 “As the commander of an undead army, this commander is reluctant to fight his own kind.”
 
-I answered with a dumbfounded expression.
+I stared at it in disbelief.
 
 “What the fuck are you talking about? Who’s been sucking the energy out of his own kind to nourish himself this whole time?”
 
 “…Oh.”
 
-“Let’s be honest. If you said you just didn’t want to go because you were scared of the Arch Lich, would I curse at you?”
+“Let’s be honest. If you admitted you didn’t want to go because you were scared of the Arch Lich, would I curse at you?”
 
 “You would.”
 
-“You son of a—… Oh.”
+“You son of a bitch—oh.”
 
-The Skeleton Warlord’s distrust of me deepened even further as it spoke.
+The Skeleton Warlord’s distrust of me deepened even further.
 
 “In any case, this commander no longer wishes to take part in this war. Honor the promise you made that day.”
 
 “The promise I made that day?”
 
-“Have you ever seen such a treacherous human? Didn’t you promise that, in exchange for protecting two humans, you would grant any request I made?”
+“Have you ever seen such a treacherous human? Did you not promise to grant any request this commander made in exchange for protecting those two humans?”
 
 “Oh.”
 
@@ -326,7 +326,7 @@ The Skeleton Warlord shouted as though it had been waiting for the question.
 
 “…Did you come from an animal rights group or something?”
 
-“Honor your promise! This commander shall finally find freedom!”
+“Honor your promise! This commander shall finally be free!”
 
 Freedom.
 
@@ -344,13 +344,13 @@ After thinking for a moment, I answered.
 
 Without hesitation, I pulled the Skeleton Warlord’s skull from my Inventory and threw it outside the tent.
 
-Into the middle of the thousands of Hunters swarming around outside.
+Straight into the thousands of Hunters swarming around outside.
 
 Clack!
 
 The sound of it hitting something rang out, and the area around the tent erupted into chaos. Shouts came from every direction, followed by the thunderous roar of exploding magic.
 
-“Monster! Monster attack!”
+“Monster! We’re under attack!”
 
 “Kill it!”
 
@@ -362,21 +362,21 @@ Five minutes? Ten?
 
 Rustle, rustle.
 
-The bottom edge of the tent suddenly began to shift. Then a black, glossy skull rolled in and stopped at my feet.
+The bottom edge of the tent suddenly shifted. Then a glossy black skull rolled inside and came to a stop at my feet.
 
 “Oh, look who it is.”
 
 “……”
 
-“What brings the Skeleton Warlord, proud owner of a free spirit, here?”
+“What brings the Skeleton Warlord, proud owner of a free spirit, back here?”
 
 “You… human…”
 
 A red glow flickered pitifully within the skull’s empty eye sockets.
 
-Was I imagining it, or was an undead actually whimpering?
+Was I imagining it, or was an undead actually on the verge of tears?
 
-The Skeleton Warlord continued in a tearful voice.
+The Skeleton Warlord continued in a trembling voice.
 
 “Can I… take back my wish?”
 
