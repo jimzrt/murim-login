@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Chinese Kindaichi",
+      "defect": "The Korean 중국산 carries the sense of a Chinese-made knockoff, not merely a Kindaichi who is Chinese. The current wording weakens the contemptuous joke.",
+      "id": "F01",
+      "rationale": "The source explicitly frames the comparison as a cheap or derivative Chinese-made version; the accepted baseline preserved that joke logic.",
+      "replacement": "A Chinese knockoff of Kindaichi, is he?",
+      "severity": "minor",
+      "source": "Line 19"
+    },
+    {
+      "confidence": 0.98,
+      "current": "If you still have enough energy to lose your temper over something this trivial",
+      "defect": "정신이 남아 있으면 refers to having enough mental composure or wits left, not physical energy.",
+      "id": "F02",
+      "rationale": "Jin is mocking Wu for retaining the mental state to become angry over a trivial provocation, then telling him to inspect his surviving companions.",
+      "replacement": "If you still have the wits to lose your temper over something this trivial",
+      "severity": "minor",
+      "source": "Line 75"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Wu Heixing’s armor might have been drenched in blood, but it was otherwise completely intact.",
+      "defect": "The current wording adds an epistemic hedge with “might have been.” The source states that the armor was covered in blood, while only its exterior condition is described as intact or fine.",
+      "id": "F03",
+      "rationale": "을지언정 is concessive, not uncertain; the blood-covered armor is an established observation used to contrast with its undamaged exterior.",
+      "replacement": "Wu Heixing’s armor was drenched in blood, but its exterior was otherwise intact.",
+      "severity": "minor",
+      "source": "Line 89"
+    },
+    {
+      "confidence": 0.95,
+      "current": "we have five adopted children",
+      "defect": "The source says Magic Johnson has five adopted children. “We have” additionally establishes Fred as a co-parent, which the Korean does not state.",
+      "id": "F04",
+      "rationale": "The omitted subject remains Magic Johnson throughout the sentence: he is married to Fred and has five adopted children.",
+      "replacement": "I have five adopted children",
+      "severity": "minor",
+      "source": "Line 267"
+    }
+  ],
+  "summary": "Mostly faithful, with four minor source-fidelity defects involving a lost joke nuance, a mental-state distinction, an added hedge, and an unsupported relationship implication.",
+  "version": 1
+}

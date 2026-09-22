@@ -58,7 +58,7 @@ I looked away from Team Leader Choi and gave a casual shrug.
 
 “You have to respect your elders, don’t you?”
 
-At my calm, unruffled answer, Lee Jungryong gave a hearty laugh whose meaning I could not decipher. Wu Heixing glared at me as if he wanted to kill me all over again.
+Lee Jungryong let out an inscrutable laugh at my unruffled answer. Wu Heixing glared at me as if he wanted to kill me all over again.
 
 “Respect your elders? Spare me that ridiculous bullshit. Then what about me? I’m seven years older than you.”
 
@@ -136,9 +136,9 @@ His gaze alone had grown deeper and more profound. I could tell at a glance that
 
 *And he’s learned some patience.*
 
-Go Jun was the most loyal of all the loyal hounds Lee Jungryong had raised.
+Go Jun was the most loyal of all the hounds Lee Jungryong had raised.
 
-In the past, he would have rushed at me without hesitation. But this time, he had gathered up his killing intent until not a trace remained and chosen silence instead of drawing his weapon.
+In the past, he would have attacked me long ago. This time, however, he completely suppressed his killing intent and chose silence instead of drawing his weapon.
 
 Lee Jungryong regarded his Disciple with satisfaction before speaking.
 
@@ -170,9 +170,9 @@ As if a dam had burst, cries rose from the other Hunters.
 
 “There are too many monsters!”
 
-“We’ll all be wiped out if we keep this up!”
+“We’ll all be wiped out if we keep going!”
 
-“I came here to defeat the Arch Lich, not to die a meaningless death!”
+“I came here to defeat the Arch Lich, not to die like a dog!”
 
 Even the roughly two hundred members of the Western Front’s suicide squad, who had made it this far with almost no losses, were no exception.
 
@@ -180,13 +180,13 @@ Yet amid the fear spreading like wildfire, two people remained unshaken.
 
 Shao Shen, who watched me with unwavering trust, and…
 
-“There’s a possibility.”
+“There may still be a chance.”
 
-Team Leader Choi had gone beyond simply trusting me. He had independently deduced one possible explanation for the situation. He continued in a calm voice.
+Team Leader Choi had gone beyond simply trusting me and arrived at his own conclusion. He continued calmly.
 
 “An estimated fifty thousand is far beyond the High Command’s prediction.”
 
-“Then shouldn’t we obviously retreat?”
+“Then shouldn’t we retreat?”
 
 Team Leader Choi immediately shook his head at the shout from one of the suicide squad members.
 
@@ -194,7 +194,7 @@ Team Leader Choi immediately shook his head at the shout from one of the suicide
 
 “Huh?”
 
-“There were certainly many of them, but the monster forces we encountered on the front lines were not as overwhelming as we anticipated.”
+“There were certainly a great many of them, but the forces we encountered on the front lines were not as overwhelming as we anticipated.”
 
 “Then…”
 
@@ -216,13 +216,13 @@ A ruined road stretched ahead, vast plains spreading out on either side. Beyond 
 
 People began to edge backward.
 
-The only exception was the Ares Guild members, who stood firm without wavering. In front of them, Lee Jungryong watched Team Leader Choi with interest.
+The only exceptions were the Ares Guild members, who stood firm and unshaken. At their head, Lee Jungryong watched Team Leader Choi with interest.
 
 “So?”
 
 Their gazes met. I saw Team Leader Choi’s grip tighten around **Hero’s Soul**.
 
-“Although the High Command’s prediction was wrong, the front lines must have had forces to spare because the Arch Lich did not launch an all-out attack.”
+“Although the High Command’s prediction was wrong, the Arch Lich’s failure to launch an all-out offensive must have left the front lines with forces to spare.”
 
 “Even so, our forces were still insufficient compared to the enemy’s.”
 
@@ -310,7 +310,7 @@ Faye Chen grinned.
 
 A dazed voice slipped from someone’s lips.
 
-“Now we can survive…”
+“We can survive…”
 
 “No.”
 
