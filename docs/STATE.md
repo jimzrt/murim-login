@@ -1,23 +1,22 @@
 # Translation State
 
-- Last completed: 627
-- Next chapter: 628
-- Current block: 625–629 (3/5)
-- Latest translation: `translations/0627.md`
-- Latest summary: `summaries/beats/0627.md`
-- Safe profiles through: chapter 627
+- Last completed: 628
+- Next chapter: 629
+- Current block: 625–629 (4/5)
+- Latest translation: `translations/0628.md`
+- Latest summary: `summaries/beats/0628.md`
+- Safe profiles through: chapter 628
 
 ## Current Block
 
-- The Fire Dragon Pavilion receives a deliberately hostile welcome at its temporary lodging, including insect-filled food and bathwater mixed with filth. Jin Taekyung decides to make a scene, while Yayul Mok later apologizes, promises to replace everyone responsible, and asks that the incident not reach his father's ears.
-- Yayul Mok explains that Nanman's hostility is rooted in the Great Faction War: Nanman sent roughly ten thousand warriors to fight in the Central Plains, fewer than a quarter returned, and Yayul Cheok lost two sons and a daughter while Baeksang lost a beloved son. Yayul Mok's three older siblings were among the dead, leaving him the only surviving son and Young Palace Lord.
+- Yayul Mok angrily rejects the Murim Alliance's request for Nanman's help, citing the massacre of more than two hundred Miao civilians and Nanman's past sacrifices for the Han Chinese. Jin Taekyung argues that the Great Faction War was not pointless and that he came not as a diplomat but as a firefighter responding to a spreading crisis, promising to try persuasion without demanding anything in return. Yayul Mok explains that the first tribal council already opposed joining the alliance and that, in three days, all thirty-two tribes will meet; Baeksang and two other great chieftains have already united against the proposal, leaving Yayul Cheok as the only major holdout. Jin remains calm about the uncertain outcome and ends by demanding that Nanman feed him properly.
 
 ## Open Questions
 
 - Why does Baeksang oppose joining the Murim Alliance despite his lifelong bond with Yayul Cheok and their shared service in the Great Faction War?
 - What is the meaning of Baeksang's cold scrutiny of Jin Taekyung?
-- Will Yayul Cheok overcome the previous tribal council's opposition and bring the Nanman Beast Palace into the Murim Alliance?
-- Are the Bai people and the other tribes aligned behind Baeksang's opposition?
+- Will Yayul Cheok overcome the other great chieftains' opposition and bring the Nanman Beast Palace into the Murim Alliance?
+- Will the remaining tribes follow Baeksang and the other opposing great chieftains at the council in three days?
 - Was the timing of the Heavenly Demon Escort Bureau massacre connected to Dark Heaven's scheme?
 
 ## Exceptional Decision
@@ -26,6 +25,7 @@
 - Use sworn younger brother for 불알 동생 in the relationship between Yayul Cheok and Baeksang.
 - Use Jiang Taigong for 강태공 and Jindro for 진드로.
 - Render 황개 as Hwang Gae and 똥개 as Ddong Gae.
+- Render 입맹 as joining the alliance.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

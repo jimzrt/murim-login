@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Until now, Jin Taekyung had always seemed lighter than a feather. But with the smile wiped from his face, he looked as if he were standing beside a massive boulder weighing ten thousand jin.",
+      "defect": "The draft makes Jin Taekyung appear to be standing beside a boulder, whereas the source metaphorically turns his suddenly grave presence into the immense boulder confronting Yayul Mok.",
+      "id": "F01",
+      "rationale": "The source describes the oppressive weight of facing Jin Taekyung after his smile disappears; it does not place a separate boulder beside him.",
+      "replacement": "Until now, Jin Taekyung had always seemed lighter than a feather. But with the smile wiped from his face, it was as if a massive boulder weighing ten thousand jin stood before Yayul Mok.",
+      "severity": "major",
+      "source": "지금까지의 모습은 항상 새 깃털보다 가벼워 보이던 놈이었는데, 얼굴에 웃음기를 지우니 숫제 만근거석(萬斤巨石)을 두고 있는 것 같다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And after doing something like that, those bastards had the nerve to ask for help.",
+      "defect": "The draft adds the explicit insult “those bastards,” which is absent from the source.",
+      "id": "F02",
+      "rationale": "The indignation is already conveyed by 감히, meaning they dared or had the nerve to ask; no additional noun-level profanity is present.",
+      "replacement": "And after doing something like that, they still had the nerve to ask for help.",
+      "severity": "minor",
+      "source": "한데 그런 짓을 벌이고도 감히 도움을 청하다니."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“……You bastard. Now I’m getting annoyed for no reason. Anyway, it would be disappointing if Nanman didn’t join, but if we try and fail, it can’t be helped.”",
+      "defect": "The euphemistically spelled but still strong curse 시벌놈 is softened to the comparatively mild “bastard,” diminishing Jin Taekyung’s abrupt profane reaction.",
+      "id": "F03",
+      "rationale": "시벌놈 is a variant of a strong profanity and should retain its force rather than being sanitized.",
+      "replacement": "“…You fucking bastard. Now I’m getting annoyed for no reason. Anyway, it’d be a shame if Nanman didn’t join us, but if trying doesn’t work, there’s nothing we can do.”",
+      "severity": "major",
+      "source": "“……시벌놈. 괜히 열 받네. 아무튼 남만이 합류하지 않는다면 아쉽지만, 노력해도 안 되면 어쩔 수 없지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Make sure you feed me properly, you bastard.”",
+      "defect": "The final punchline softens 개새끼야 and loses the dismissive force of 밥이나, flattening Jin Taekyung’s deliberately crude demand.",
+      "id": "F04",
+      "rationale": "밥이나 carries an “at least/just” dismissal, while 개새끼야 is a strong direct insult; both are important to the deadpan tonal reversal.",
+      "replacement": "“At least feed me properly, asshole.”",
+      "severity": "major",
+      "source": "“밥이나 제대로 줘. 개새끼야.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but one intimidation metaphor is mechanically altered, an insult is added, and two distinct profane beats are softened.",
+  "version": 1
+}
