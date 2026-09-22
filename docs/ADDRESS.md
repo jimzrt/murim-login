@@ -1119,3 +1119,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야율목 | 원후 | Young_Palace_Lord_to_elder_personal_guard | Wonhu | formal-commanding | Calls on Wonhu to open a path through the surrounding guards. |
 | 진태경 | 너 | prisoner_to_Bai_warrior | you | insulting-casual | Jin addresses a Bai warrior while ordering him to lower his torch. |
 | 원후 | 진태경 | elder personal guard to trusted ally | you | formal and deferential | Wonhu addresses Jin while entrusting the collapsed Young Palace Lord to him. |
+| 야수묘왕 | 원후 | lord to personal guard | monkey | familiar and teasing | The Beast Miao King calls Wonhu a liquor-loving monkey while throwing him his gourd. |
+| 원후 | 야수묘왕 | personal guard to lord | you | informal and joking | Wonhu asks the hidden speaker for liquor before recognizing the Beast Miao King's gourd. |
+| 원후 | 백상 | personal guard to opposing Bai Great Chieftain | Baeksang | alarmed and direct | Wonhu identifies Baeksang by name and asks what happened to his lord. |
+| 백상 | 원후 | Bai Great Chieftain to opposing Miao personal guard | mere warrior | cold and contemptuous | Baeksang rebukes Wonhu for speaking the Great Chieftain's name casually. |

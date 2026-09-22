@@ -1,6 +1,6 @@
 # Yohi (요희)
 
-- **Safe through:** Chapter 666
+- **Safe through:** Chapter 670
 - **Aliases:** None
 - **Role:** Yohi is the female great chieftain of the Yao people, one of Nanman's four great tribes.
 - **Personality:** Yohi's public presence is charismatic and captivating, drawing widespread admiration and affection.
