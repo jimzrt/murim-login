@@ -10,9 +10,9 @@ SEVERITIES = {"critical", "major", "minor"}
 SEVERITY_RANK = {"critical": 3, "major": 2, "minor": 1}
 DISPOSITIONS = {"applied", "rejected", "unresolved"}
 ADDRESS_ENDPOINT = re.compile(
-    r"(?=.*[가-힣])[가-힣0-9](?:[가-힣0-9]| [가-힣0-9])+"
+    r"(?=.*[가-힣])[가-힣0-9](?:[가-힣0-9]| [가-힣0-9])*"
 )
-PAREN_HANGUL = re.compile(r"\(([가-힣0-9](?:[가-힣0-9]| [가-힣0-9])+)\)")
+PAREN_HANGUL = re.compile(r"\(([가-힣0-9](?:[가-힣0-9]| [가-힣0-9])*)\)")
 
 
 def _strip_json_fence(text: str) -> str:
