@@ -1,8 +1,8 @@
 # Muyaho (무야호)
 
-- **Safe through:** Chapter 680
+- **Safe through:** Chapter 684
 - **Aliases:** White Tiger
-- **Role:** Muyaho is Yayul Mok's enormous white tiger companion and a renowned Nanman spiritual creature currently accompanying Jin Taekyung through the Poisonblood Grounds.
+- **Role:** Muyaho is Yayul Mok's enormous white tiger companion and a renowned Nanman spiritual creature.
 - **Personality:** Muyaho is intelligent enough to understand speech, wary of threats, and strongly food-motivated.
 - **Voice:** Muyaho communicates through growls, roars, and gestures rather than human speech.
 - **Relationships:** Muyaho is Yayul Mok's cherished companion and currently carries Jin while aiding his escape.
