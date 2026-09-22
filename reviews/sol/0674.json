@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Perhaps. Yes, perhaps it was. At the very least, it may have bought him enough time for me to pursue him.”",
+      "defect": "The draft makes Baeksang’s lingering warmth buy the Beast Miao King time, reversing the subject and beneficiary of the action. Baeksang is admitting that he himself might have bought enough time to pursue him.",
+      "id": "F01",
+      "rationale": "The omitted subject of 벌 수 있었을지 is Baeksang, while 그의 뒤를 쫓을 만큼 describes the purpose or extent of the time he might have gained.",
+      "replacement": "“Perhaps. Yes, perhaps it was. At the very least, I might have been able to buy enough time to pursue him.”",
+      "severity": "critical",
+      "source": "“어쩌면, 그래. 그랬을 거요. 최소한 그의 뒤를 쫓을 만큼의 시간 정도는 벌 수 있었을지 모르지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Watching her back, Baeksang thought that the moment he had been waiting for had finally arrived.",
+      "defect": "The draft changes an inevitable, dreaded development into something Baeksang had actively been waiting for.",
+      "id": "F02",
+      "rationale": "올 것이 왔다 means that what was bound to come has arrived; it does not imply anticipation or desire.",
+      "replacement": "Watching her back, Baeksang thought that the inevitable had finally arrived.",
+      "severity": "major",
+      "source": "백상은 그녀의 뒷모습을 바라보며 생각했다. 드디어 올 것이 왔다고."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“There was no other choice, was there? It was clearly my mistake.”",
+      "defect": "The first sentence is Baeksang saying that he cannot help but apologize, not claiming that the underlying action was unavoidable.",
+      "id": "F03",
+      "rationale": "그럴 수밖에 없지 않겠소 answers her question about why he is sorry and refers back to his apology.",
+      "replacement": "“How could I not be? It was clearly my mistake.”",
+      "severity": "major",
+      "source": "“그럴 수밖에 없지 않겠소. 그건 명백한 내 실수였으니.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I knew our new Palace Lord had done his best.”",
+      "defect": "“Done his best” sounds like sincere, unqualified praise and loses the patronizing qualification conveyed by 나름대로.",
+      "id": "F04",
+      "rationale": "나름대로 diminishes Baeksang’s effort while ostensibly acknowledging it, reinforcing the Demon Empress’s superior and condescending register.",
+      "replacement": "“I knew our new Palace Lord had made an effort in his own way.”",
+      "severity": "major",
+      "source": "“우리 신임 궁주님께서 나름대로 애쓰셨다는 건 알았으니까.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I could not oppose him. Even after mobilizing every soldier waiting nearby, he managed to break through the encirclement.”",
+      "defect": "“Could not oppose him” suggests refusal or inability to resist politically, rather than Baeksang being unable to match him in combat.",
+      "id": "F05",
+      "rationale": "대적할 수 없었다 describes an inability to contend with the Beast Miao King as an opponent.",
+      "replacement": "“I was no match for him. Even after I mobilized every soldier waiting nearby, he managed to break through the encirclement.”",
+      "severity": "major",
+      "source": "“나로서는 대적할 수 없었소. 주위에 대기 중이던 모든 병력을 동원했음에도 포위망을 빠져나가더군.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "From beneath the Palace Lord’s Hall, which stood tall atop the highest hill in the Inner Palace, countless pavilions and houses could be seen at a glance.",
+      "defect": "“From beneath” incorrectly places the viewpoint below the Palace Lord’s Hall; the source says the buildings lie below the elevated hall and can be surveyed from it.",
+      "id": "F06",
+      "rationale": "궁주전의 아래로 describes the location of the visible buildings relative to the hall, not the observer’s vantage point.",
+      "replacement": "Below the Palace Lord’s Hall, which stood atop the highest hill in the Inner Palace, countless pavilions and houses spread out in full view.",
+      "severity": "minor",
+      "source": "내궁에서도 가장 높은 언덕 위에 우뚝 선 궁주전(宮主殿)의 아래로는 수많은 전각과 가옥이 한눈에 내려다보였다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Once you climbed onto a tiger’s back, there was nothing left to do but run with all your strength.",
+      "defect": "The draft collapses the named riding-a-tiger predicament and its following explanation into one generic proverb, omitting the source’s deliberate two-beat repetition.",
+      "id": "F07",
+      "rationale": "The standalone 기호지세 identifies Baeksang’s predicament before the next sentence explicitly elaborates on the same image.",
+      "replacement": "He was riding a tiger. Now that he was on its back, all he could do was race onward with all his strength.",
+      "severity": "minor",
+      "source": "기호지세(騎虎之勢). 호랑이의 등에 올라탄 이상, 혼신의 힘을 다하여 달려갈 뿐이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was as though she meant to seize the Nanman warriors endlessly pouring in response to the new Palace Lord’s general mobilization order, along with the blue sky spread above their heads.\n\nOr perhaps to turn it all into darkness in a single breath.\n\n“Three days. Find the Beast Miao King and eliminate the source of trouble within three days. As for Jin Taekyung…”",
+      "defect": "The draft moves the darkness image ahead of the order, removing the deliberate narrative interruption between “As for Jin Taekyung…” and “We will deal with him.”",
+      "id": "F08",
+      "rationale": "The source places the metaphor inside the split command so that the image of engulfing everything in darkness directly frames her declaration that Dark Heaven will handle Jin Taekyung.",
+      "replacement": "It was as though she meant to seize the Nanman warriors endlessly pouring in response to the new Palace Lord’s general mobilization order, along with the blue sky spread above their heads.\n\n“Three days. Find the Beast Miao King and eliminate the source of trouble within three days. As for Jin Taekyung…”\n\nOr perhaps to turn it all into darkness in a single breath.",
+      "severity": "minor",
+      "source": "새로운 궁주의 총동원령에 응하여 끊임없이 밀려오는 남만의 전사들과 그들의 머리 위로 펼쳐진 푸른 하늘을 움켜쥘 듯이.\n\n“사흘. 사흘 안에 야수묘왕을 찾아 화근을 제거해. 진태경은…….”\n\n혹은 단숨에 암흑으로 물들여 버릴 듯이."
+    }
+  ],
+  "summary": "One critical causal reversal, four major fidelity or register errors, and three localized presentation issues.",
+  "version": 1
+}

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "No mistaking you for a fucking beggar. You can’t get through a sentence without working “filthy” in somewhere.",
+      "defect": "The punchline refers to “filthy,” although Gung Gibang repeatedly said “disgustingly,” breaking the lexical callback and weakening Jin’s teasing.",
+      "id": "C01",
+      "rationale": "This restores the repeated word that motivates Jin’s joke and connects naturally to Gung Gibang’s following reply, “No matter how disgusting I am.”",
+      "replacement": "No mistaking you for a fucking beggar. You can’t get through a sentence without calling something “disgusting.”",
+      "severity": "minor",
+      "source": "Chapter 671, Gung Gibang tracking-scent recollection"
+    },
+    {
+      "confidence": 0.98,
+      "current": "the tragedy at Yoseo Manor",
+      "defect": "The location name drifts from the packet’s established and binding term, “Western Yao Estate,” for the same massacre.",
+      "id": "C02",
+      "rationale": "The chapter itself calls the incident the Western Yao Estate massacre, and the checkpoint explicitly requires retaining that established rendering.",
+      "replacement": "the tragedy at the Western Yao Estate",
+      "severity": "minor",
+      "source": "Chapter 673, Jin’s recollection of the tribal chieftain"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Though they called each other dog-and-monkey enemies despite having grown up together, they would sometimes walk together while avoiding the eyes of others.",
+      "defect": "“Dog-and-monkey enemies” is an unnatural Korean-syntax calque that disrupts the otherwise polished narrative voice.",
+      "id": "C03",
+      "rationale": "The replacement conveys their outwardly antagonistic childhood relationship and secret intimacy in natural contemporary English without changing the action.",
+      "replacement": "Though they had grown up together, they fought like cats and dogs, yet sometimes they slipped away from everyone else to walk alone together.",
+      "severity": "minor",
+      "source": "Chapter 673, Baeksang’s memory of Hwi and Hyang"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Baeksang admits that his remaining sworn-brotherly feelings may have helped the Beast Miao King escape, but vows that such leniency will not happen again.",
+      "defect": "The durable state drops two unresolved hooks preserved in the checkpoint continuity: the active Sudden Quest and the incomplete escape of Jin’s companions.",
+      "id": "C04",
+      "rationale": "Both threads remain unresolved through Chapter 674 and are needed to prevent later continuity work from treating the quest as complete or Jin’s companions as safely escaped.",
+      "replacement": "Baeksang admits that his remaining sworn-brotherly feelings may have helped the Beast Miao King escape, but vows that such leniency will not happen again. The Supreme Peak-grade Sudden Quest **Yohi’s Tracking Scent** remains active after Jin chose the southeast route, while its Linked Quest details and failure conditions remain unknown. Namho, Taishan, Sama Pyo, the reconnaissance squad, and the Fire Dragon Pavilion members have not yet completed their escape from Nanman.",
+      "severity": "major",
+      "source": "Durable state, final active_continuity entry"
+    }
+  ],
+  "summary": "The packet is broadly coherent and preserves the established voices, but it contains one broken dialogue callback, one terminology drift, one conspicuous Korean-syntax calque, and two unresolved hooks omitted from the durable state.",
+  "version": 1
+}
