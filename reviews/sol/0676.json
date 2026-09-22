@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "As I ran forward at full speed, I spotted a wall of flame blocking the path about a dozen yards ahead and reached toward the air.",
+      "defect": "십여 장 is a little over ten jang, roughly thirty-five to forty yards, not twelve yards. The draft substantially shortens the stated distance.",
+      "id": "F01",
+      "rationale": "The source gives the distance in 장; converting 십여 장 to “a dozen yards” changes the scene’s quantity and spatial mechanics.",
+      "replacement": "As I ran forward at full speed, I spotted a wall of flame blocking the path roughly forty yards ahead and reached toward the air.",
+      "severity": "critical",
+      "source": "신속하게 달려가던 나는 십여 장 앞을 가로막은 화염의 벽을 확인하고 허공을 향해 손을 뻗었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Go.”",
+      "defect": "The draft changes the inclusive “Let’s go” into a command telling Muyaho to go alone.",
+      "id": "F02",
+      "rationale": "가자 includes both Jin and Muyaho, consistent with Jin remaining mounted as they proceed together.",
+      "replacement": "“Let’s go.”",
+      "severity": "major",
+      "source": "“가자.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Soon after, I noticed that the foul smell seeping through the acrid smoke was the scent of human blood.",
+      "defect": "“Foul” replaces the specifically metallic or coppery quality of 비릿한 that allows Jin to identify the smell as blood.",
+      "id": "F03",
+      "rationale": "The source preserves a concrete sensory cue connecting the smell to human blood rather than describing it only as generically unpleasant.",
+      "replacement": "Soon after, I realized that the metallic smell seeping through the acrid smoke was the scent of human blood.",
+      "severity": "minor",
+      "source": "이내 매캐한 연기 사이로 스며드는 비릿한 냄새가 인간의 혈향(血香)이라는 것을 깨달았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The poison-warding pearl wasn’t enough for it to chew on, so it gulped it down instead.",
+      "defect": "The draft awkwardly implies that the pearl was insufficient for chewing and therefore had to be swallowed. The source’s joke is an escalation: merely biting or holding it was not enough for Muyaho, so it swallowed the pearl whole.",
+      "id": "F04",
+      "rationale": "물다 못해 presents swallowing as an excessive step beyond biting down on the pearl, not as a consequence of the pearl being unsuitable or insufficient for chewing.",
+      "replacement": "As if biting down on the poison-warding pearl weren’t enough, it gulped the thing down whole.",
+      "severity": "minor",
+      "source": "피독주를 물다 못해 꿀꺽 삼켜 버린 녀석은 기민한 반사신경으로 곳곳에서 밀려오는 독물들을 처리했고, 경신법 좀 익혔다는 절정 고수들도 주저할 만큼 큰 폭을 가진 늪을 단 한 번의 도약으로 뛰어넘었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even I, who had grown rapidly through countless trials and life-or-death battles based on the System, couldn’t dare guarantee victory against them.",
+      "defect": "“Countless trials” obscures the explicit 수많은 단련, omitting repeated martial training as one of the mechanisms behind Jin’s rapid growth.",
+      "id": "F05",
+      "rationale": "The source separately credits the System, extensive training, and battles that crossed the line of death; “trials” does not preserve the concrete training component.",
+      "replacement": "Even I, who had used the System as a foundation to grow rapidly through relentless training and countless life-or-death battles, couldn’t dare guarantee victory against them.",
+      "severity": "major",
+      "source": "특히 내가 직접 부딪혀 보기까지 한 혈주와 서천마군의 무위는…… 시스템을 바탕삼아 수많은 단련과 사선을 넘나드는 전투로 급성장한 지금의 나조차 감히 승리를 장담할 수 없을 정도다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "I reaffirmed in body and mind the no-turning-back mindset that was an essential virtue for the successor of the Fire Gate Clan and the heir of the Fire King, then thrust one palm toward the Poison Mist.",
+      "defect": "The neutral “no-turning-back mindset” loses the deliberately slangy, comedic register of 노빠꾸 정신.",
+      "id": "F06",
+      "rationale": "노빠꾸 is blunt slang literally invoking having no reverse gear; “no-brakes mentality” preserves the irreverent register and punchline without changing the action.",
+      "replacement": "I reaffirmed in body and mind the no-brakes mentality that was an essential virtue for the successor of the Fire Gate Clan and the heir of the Fire King, then thrust one palm toward the Poison Mist.",
+      "severity": "minor",
+      "source": "열화문의 계승자이자 화왕의 후인이 갖춰야 할 필수 덕목, 노빠꾸 정신을 몸과 마음에 되새긴 나는 독무를 향해 일장(一掌)을 뻗었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As I glared at the paths finally revealed, tangled together like a maze, I infused them with my internal energy and shouted as if roaring.",
+      "defect": "The pronoun “them” makes Jin infuse the revealed paths with internal energy. In the source, he projects his shout or voice with internal energy.",
+      "id": "F07",
+      "rationale": "공력을 실어 modifies how Jin delivers the ensuing shout; it does not describe channeling internal energy into the paths.",
+      "replacement": "As I glared at the maze of tangled paths that had finally been revealed, I infused my voice with internal energy and roared.",
+      "severity": "critical",
+      "source": "마침내 환하게 드러난 미로처럼 얽힌 길을 노려보던 나는, 공력을 실어 포효하듯 내질렀다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yohi found this side of Heugung strange. He was always grinning foolishly and calling her “big sister,” but that wasn’t important right now.",
+      "defect": "“Big sister” reverses the kinship direction. Yohi has just addressed Heugung as 오라버니, her older brother, while Heugung habitually calls her 누이; the established intimate rendering is “my dear.”",
+      "id": "F08",
+      "rationale": "누이 cannot mean that Yohi is Heugung’s older sister in this exchange, and the established address relationship calls for Heugung’s affectionate “my dear.”",
+      "replacement": "Yohi found this side of Heugung—who usually wore a goofy grin and called her “my dear”—strange, but that wasn’t what mattered right now.",
+      "severity": "critical",
+      "source": "요희는 언제나 헤실헤실 웃으며 누이라 부르던 흑웅의 이와 같은 모습이 낯설게 느껴졌지만, 지금 당장은 그게 중요한 것이 아니었다."
+    }
+  ],
+  "summary": "Several fidelity issues alter a distance, an inclusive command, a growth mechanism, a qi-projection action, and Heugung’s address for Yohi. There are also localized sensory, humor, and register losses.",
+  "version": 1
+}

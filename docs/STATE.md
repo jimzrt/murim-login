@@ -1,31 +1,27 @@
 # Translation State
 
-- Last completed: 675
-- Next chapter: 676
-- Current block: 675–679 (1/5)
-- Latest translation: `translations/0675.md`
-- Latest summary: `summaries/beats/0675.md`
-- Safe profiles through: chapter 675
+- Last completed: 676
+- Next chapter: 677
+- Current block: 675–679 (2/5)
+- Latest translation: `translations/0676.md`
+- Latest summary: `summaries/beats/0676.md`
+- Safe profiles through: chapter 676
 
 ## Current Block
 
-- Jin Taekyung and Muyaho return to Ailao Mountain while following the tracking scent leading to Yohi. Jin intends to rescue Yohi and Heugung, whose testimony could overturn Nanman's current crisis, but hundreds of Nanman forces ambush them. Jin and Muyaho overwhelm the beasts and warriors, capture a tribal chieftain, and learn that Baeksang has issued a general mobilization, become temporary Palace Lord, and stationed nearly ten thousand troops in the Inner Palace while the Miao people remain under surveillance. Suspecting Dark Heaven's plan is nearing completion, Jin charges deeper into the flames spreading across Ailao Mountain.
+- Jin Taekyung uses White Flame to break through the forest fire and follows Muyaho to the Poisonblood Grounds, where he gives the White Tiger a poison-warding pearl and enters the dangerous forbidden region with it. He suspects the unidentified Supreme Peak figure or Dark Heaven killed the Nanman Beast Palace troops sent there. Meanwhile, Yohi and Heugung awaken chained in an unknown dark place with their internal energy sealed; Heugung remembers resisting their captor and speaks to Yohi with unusual formality.
 
 ## Open Questions
 
-- What exactly is Dark Heaven's great undertaking and how will it bring about the Lord of Heaven's return?
-- Can Jin Taekyung and Muyaho find and rescue Yohi and Heugung in Ailao Mountain?
-- What is the purpose of Baeksang's general mobilization and the army stationed in the Inner Palace?
-- Can the Beast Miao King evade Baeksang's three-day pursuit?
-- How will Jin Taekyung survive Dark Heaven's direct intervention?
+- Who captured Yohi and Heugung, and where are they being held?
+- Did Dark Heaven or the unidentified Supreme Peak figure kill the Nanman Beast Palace troops in the Poisonblood Grounds?
+- Can Jin Taekyung rescue Yohi and Heugung from the unknown captor?
+- Is the Southern Heaven Demon Empress present in the Poisonblood Grounds?
 
 ## Exceptional Decision
 
-- Use Great Chieftain for 대족장 and Palace Lord for 궁주.
-- Use temporary Palace Lord for 임시 궁주 and Inner Palace for 내궁.
-- Use Southern Heaven Demon Empress for 남천마후 and Dark Heaven for 암천.
-- Use Great undertaking for 대사 when it refers to Dark Heaven's plan.
-- Preserve the Southern Heaven Demon Empress's playful, taunting menace and Jin Taekyung's crude, irreverent narration.
+- Use formal, restrained English for Heugung's post-capture speech.
+- Preserve Jin Taekyung's blunt profanity and irreverent no-brakes narration.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
