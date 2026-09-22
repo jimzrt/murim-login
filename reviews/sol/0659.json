@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Several yards disappeared in an instant. Only then did the human realize something was wrong and turn his head in this direction.",
+      "defect": "The draft reduces 수 장, a distance of several jang, to only several yards, substantially shortening the leopard’s charge.",
+      "id": "F01",
+      "rationale": "One jang is roughly eleven feet, so 수 장 describes dozens of feet rather than several yards.",
+      "replacement": "Several dozen feet vanished in an instant. Only then did the human notice something and turn his head toward the leopard.",
+      "severity": "major",
+      "source": "수 장의 거리에 단숨에 지워지고, 그제야 뭔가를 알아차린 인간의 고개가 이쪽을 향해 움직인다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The hundred or so members of the reconnaissance squad who had traveled with them until now appeared from the darkness. At the front, the two tribal chieftains stared at them with grim expressions.",
+      "defect": "The draft makes the entire reconnaissance squad appear from the darkness, but the source assigns the act of emerging only to the two tribal chieftains at the squad’s head.",
+      "id": "F02",
+      "rationale": "The subject of 모습을 드러낸 is 두 명의 부족장, not the full reconnaissance squad.",
+      "replacement": "The hundred-strong reconnaissance squad had traveled with them until now. At its head, the two tribal chieftains emerged and stared at them with grim expressions.",
+      "severity": "critical",
+      "source": "지금껏 함께 이동했던 백여 명의 척후대. 그 선두에서 모습을 드러낸 두 명의 부족장이 착잡한 표정으로 그들을 바라보고 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Your sword is sharper than I expected. And you noticed quickly.”",
+      "defect": "The draft wrongly assigns both observations to Song Ilseom. Chief Jang is describing Ju Hwaran’s resistance and quick perception while answering the question about what happened to her.",
+      "id": "F03",
+      "rationale": "The surrounding exchange concerns Ju Hwaran’s capture, and the omitted subject of both clauses is 그녀, as confirmed by the subsequent assurance that she was only subdued with a Pressure-Point Strike.",
+      "replacement": "“Her sword was fiercer than I expected. She was quick to catch on, too.”",
+      "severity": "critical",
+      "source": "“생각 이상으로 검이 매섭더군. 눈치도 빠르고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“She is safe. We merely subdued her with Pressure-Point Strike.”",
+      "defect": "The draft omits the chieftain’s frightened stammer, weakening the immediate effect of Song Ilseom’s killing intent.",
+      "id": "F04",
+      "rationale": "그, 그녀는 explicitly marks a stumble before 그녀는, a pragmatic cue showing that the speaker has been intimidated.",
+      "replacement": "“Sh-she’s safe. We only subdued her with a Pressure-Point Strike.”",
+      "severity": "minor",
+      "source": "“그, 그녀는 무사하네. 점혈(點穴)로 제압해 두었을 뿐이야.”"
+    }
+  ],
+  "summary": "Four actionable fidelity issues: one distance distortion, two altered action or subject assignments, and one omitted fear cue.",
+  "version": 1
+}

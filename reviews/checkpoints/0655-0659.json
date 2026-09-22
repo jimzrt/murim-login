@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Heugung’s guards are found dead, and a severed wrist believed to be his is recovered, but footprints indicate that a third party intervened and abducted Yohi and Heugung rather than staging their deaths.",
+      "defect": "The summary presents the abduction of Yohi and Heugung as established, although the footprints establish only that a third party was present; both characters' fates remain unresolved.",
+      "id": "C01",
+      "rationale": "This preserves the revealed evidence without converting Jin’s inference into a settled continuity fact.",
+      "replacement": "Heugung’s guards are found dead, and a severed wrist believed to be his is recovered, but footprints indicate that a third party intervened; what happened to Yohi and Heugung remains unknown.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot paragraph 1"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The splendid estate, so thoroughly filled with Yohi’s tastes, was no longer beautiful as it had once been.",
+      "defect": "The comparative construction is grammatically incomplete.",
+      "id": "C02",
+      "rationale": "The replacement restores the required “as … as” construction without changing the meaning or narrative voice.",
+      "replacement": "The splendid estate, so thoroughly filled with Yohi’s tastes, was no longer as beautiful as it had once been.",
+      "severity": "minor",
+      "source": "Chapter 655, description of the Western Yao Estate"
+    },
+    {
+      "confidence": 0.96,
+      "current": "And something whose use was more valuable than the pouch’s, and which gave off a terrible smell.",
+      "defect": "The description treats the comparative value of an object's “use” as though the pouch itself possessed a comparable use, producing an unnatural and distracting construction.",
+      "id": "C03",
+      "rationale": "The revised sentence naturally conveys that the severed wrist is the more important clue while preserving the delayed reveal.",
+      "replacement": "And something far more significant than the pouch, which gave off a terrible smell.",
+      "severity": "minor",
+      "source": "Chapter 655, discovery inside Yohi’s room"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The cold sensation of flesh gone cold met my fingers, and sticky blood dampened them.",
+      "defect": "The repeated use of “cold” creates an accidental tautology and makes the tactile description sound unpolished.",
+      "id": "C04",
+      "rationale": "The replacement removes the repetition while retaining the physical sensation and grim tone.",
+      "replacement": "The chill of dead flesh met my fingers, and sticky blood dampened them.",
+      "severity": "minor",
+      "source": "Chapter 655, examination of the severed wrist"
+    }
+  ],
+  "summary": "The packet is broadly consistent in voice, terminology, formatting, and active continuity. One summary statement turns an unresolved disappearance into a confirmed abduction, and Chapter 655 contains three localized prose defects.",
+  "version": 1
+}
