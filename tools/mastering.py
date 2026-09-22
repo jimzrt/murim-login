@@ -928,6 +928,13 @@ def validate_adjudication(value: dict, number: int, diff: dict) -> dict:
                 if reason.lstrip().upper().startswith(label + " "):
                     decision = label
                     break
+        if decision not in {"SOL", "BASE", "REPAIR"} and not reason:
+            for label in ("SOL", "BASE", "REPAIR"):
+                prefix = label + " "
+                if raw_decision.startswith(prefix):
+                    decision = label
+                    reason = raw_decision[len(prefix):].strip()
+                    break
         if decision not in {"SOL", "BASE", "REPAIR"}:
             raise ValueError(f"{hid}: decision must be SOL, BASE, or REPAIR")
         if not isinstance(reason, str) or not reason.strip():
