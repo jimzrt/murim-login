@@ -1085,3 +1085,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야율척 | 도곡 | Nanman_Beast_Palace_Palace_Lord_to_personal_guard | Dogok | commanding | Yayul Cheok orders Dogok to go to the Outer Palace, reassure the tribal chiefs, and prepare against a possible foreign invasion. |
 | 야율척 | 원후 | Nanman_Beast_Palace_Palace_Lord_to_personal_guard | Wonhu | commanding | Yayul Cheok orders Wonhu to go to the Inner Palace and mobilize the Miao warriors. |
 | 야율척 | 만적 | Nanman_Beast_Palace_Palace_Lord_to_personal_guard | Manjeok | commanding | Yayul Cheok orders Manjeok to go to the Inner Palace and mobilize the Miao warriors. |
+| 야수묘왕 | 흑호 | hostile pursuer to unknown supernatural beast | you | blunt and furious | Directly challenges the Black Tiger over the massacre. |
+| 진태경 | 야수묘왕 | younger allied master to Ten Kings elder | Great Hero Yayul | urgent and respectful | Uses 야율 대협 while warning the Beast Miao King not to enter the valley. |
+| 진태경 | 백호 | human ally to intelligent spiritual beast | you | casual and familiar | Converses with White Tiger after interpreting its warning. |

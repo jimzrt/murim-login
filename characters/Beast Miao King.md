@@ -1,6 +1,6 @@
 # Beast Miao King (야수묘왕)
 
-- **Safe through:** Chapter 634
+- **Safe through:** Chapter 635
 - **Aliases:** None
 - **Role:** The Beast Miao King is the ruler of the Nanman Beast Palace and oversees its warriors and beasts.
 - **Personality:** Fierce and vigilant when confronting threats to the Nanman Beast Palace.

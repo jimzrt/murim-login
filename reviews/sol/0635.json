@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "That the enormous beast that had appeared so suddenly was not a being that could be fully contained by the two words *wild animal*.",
+      "defect": "The source refers to the two Korean characters that form 짐승, not two separate words. The current wording creates an inaccurate English word count.",
+      "id": "F01",
+      "rationale": "This preserves the point that the creature transcends the ordinary category of a beast without falsely describing the English expression as two words.",
+      "replacement": "That the enormous beast that had appeared so suddenly was more than the word *beast* could ever encompass.",
+      "severity": "minor",
+      "source": "갑작스럽게 나타난 저 거대한 맹수는 짐승이라는 두 글자로 완전히 담을 수 없는 존재라는 것을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was only the slightest hesitation.",
+      "defect": "The draft changes a momentary physical freeze caused by Fear into voluntary hesitation.",
+      "id": "F02",
+      "rationale": "경직 denotes stiffening or freezing, which is mechanically important here because Fear briefly immobilizes the Beast Miao King and exposes an opening.",
+      "replacement": "It was only the slightest moment of paralysis.",
+      "severity": "major",
+      "source": "아주 미세한 경직."
+    },
+    {
+      "confidence": 0.98,
+      "current": "And not just any spearhead—the Force was clearly imbued in it.",
+      "defect": "The passive construction awkwardly treats Force as the thing being imbued and weakens the emphasis on the Black Tiger biting a Force-wreathed spearhead.",
+      "id": "F03",
+      "rationale": "The source emphasizes that the spearhead itself carried Force, making the creature’s decision to bite it especially remarkable.",
+      "replacement": "And that spearhead was clearly wreathed in Force.",
+      "severity": "minor",
+      "source": "그것도 분명히 강기가 서려 있던 창날을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If that is the case, did that creature that just appeared also come into contact with Southern Heaven Demon Empress, that witch?”",
+      "defect": "The draft reverses the implied agency. The Beast Miao King asks whether the creature was affected or engineered by the Southern Heaven Demon Empress, not merely whether it encountered her.",
+      "id": "F04",
+      "rationale": "손이 닿다 here attributes the creature’s condition or appearance to the Demon Empress’s intervention, continuing the comparison with Dark Heaven’s corruption of the Water God Dragon.",
+      "replacement": "“If that is the case, was that creature that just appeared also the work of the Southern Heaven Demon Empress—that witch?”",
+      "severity": "critical",
+      "source": "그렇다면 방금 나타났던 놈도 남천마후, 그 요녀(妖女)의 손이 닿은 것이냐?"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The creature was always ahead of the Beast Miao King and me with its tremendous strength, inexhaustible Stamina, and movements that appeared and vanished like a ghost. Even White Tiger—a spiritual creature with a white coat—could not catch it.",
+      "defect": "The description “with a white coat” flattens the narrator’s humorous boast that White Tiger was no slouch when it came to its white fur.",
+      "id": "F05",
+      "rationale": "어디 가서 흰 털 좀 뱉는다는 is a comic adaptation of a boastful idiom, not a neutral statement about the tiger’s coat. The humor should remain in Taekyung’s narration.",
+      "replacement": "With its tremendous strength, inexhaustible Stamina, and elusive movements, the creature stayed ahead of the Beast Miao King and me from start to finish. Even White Tiger—a spiritual creature that could boast some pretty impressive white fur—could not catch it.",
+      "severity": "major",
+      "source": "놈은 강력한 힘과 지치지 않는 체력. 그리고 신출귀몰한 움직임으로 시종일관 나와 야수묘왕을 앞질렀고, 어디 가서 흰 털 좀 뱉는다는 영물인 백호조차 놈을 따라잡을 수 없었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Those bastards… I’ll tear them limb from limb!”",
+      "defect": "The draft invents multiple perpetrators and turns the fragmentary curse into an explicit future threat. The Beast Miao King is reacting to the singular creature responsible for the corpses.",
+      "id": "F06",
+      "rationale": "이런 찢어 죽일 is a truncated, violent curse aimed at the pursued culprit; it does not establish a plural group of attackers or contain the complete declaration added by the draft.",
+      "replacement": "“That damned beast…!”",
+      "severity": "major",
+      "source": "“이런 찢어 죽일……!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A direct confrontation might have been another matter, but no one could match it in terms of natural physical ability and speed.",
+      "defect": "The draft universalizes the comparison to “no one,” creating an unsupported absolute claim about the Black Tiger’s power. The contextual subject is the Beast Miao King, who is attempting to catch it.",
+      "id": "F07",
+      "rationale": "The source contrasts the Beast Miao King’s possible chances in a direct fight with his inability to compete against the tiger’s innate physical advantages during the chase.",
+      "replacement": "A direct confrontation might have been another matter, but the Beast Miao King could not match its natural physique and speed.",
+      "severity": "major",
+      "source": "정면 대결이라면 모를까. 타고난 신체적 조건과 속도로는 당해 낼 수 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Rather than being caught, it widened the distance even further and soon vanished between a deep, black valley.",
+      "defect": "“Between a valley” is ungrammatical and obscures the physical action of the Black Tiger disappearing into the valley.",
+      "id": "F08",
+      "rationale": "The source places the creature within a deep, dark valley as it disappears from view.",
+      "replacement": "Rather than being caught, it widened the distance even further and soon vanished into a deep, dark valley.",
+      "severity": "minor",
+      "source": "이내 어느 깊고 검은 골짜기 사이로 모습을 감췄다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters one Fear-induced action, reverses the Southern Heaven Demon Empress’s agency, overstates the Black Tiger’s speed advantage, and loses a source joke and a singular target in the Beast Miao King’s dialogue.",
+  "version": 1
+}
