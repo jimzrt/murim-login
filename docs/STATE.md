@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 727
-- Next chapter: 728
-- Current block: 725–729 (3/5)
-- Latest translation: `translations/0727.md`
-- Latest summary: `summaries/beats/0727.md`
-- Safe profiles through: chapter 727
+- Last completed: 728
+- Next chapter: 729
+- Current block: 725–729 (4/5)
+- Latest translation: `translations/0728.md`
+- Latest summary: `summaries/beats/0728.md`
+- Safe profiles through: chapter 728
 
 ## Current Block
 
-- Choi Minwoo realizes that Jin Taekyung created the stable, beginner-accessible Smiling Mana Cultivation Method and intends to release it to the entire world. He warns that the method's publication will provoke the powerful Hunters and Guilds who guard their own cultivation techniques, while invisible pressure is already delaying Peace Guild's overseas expansion. Jin argues that rising mana, mutation Gates, and monster waves make it necessary to raise Hunters' overall strength, explaining that his recent campaign against rebel groups and terrorists was meant to reduce the danger of the method being misused. With public opinion still favoring them, Jin proposes using Choi's status as Cheon Taemin's sole blood relative and heir to promote the release, joking that they should ride the Savior coin.
+- Team Leader Choi presents a dangerous initiative that would take the Peace Guild beyond a domestic scale. The Skeleton King initially objects because further expansion will attract suspicion, but his concern is undermined by his own SNS account, which already has 120,000 followers and numerous advertising offers. Jin orders him to delete the account, while Im Kkeokjeong and Song Song agree to continue despite the risks. Choi reveals that he visited the grave of someone precious who left a message asking him to return, and the group resolves to move forward together for that person's sake. Jin agrees to begin, and Choi calls President Baek Hanseong as the first contact.
+- A brief power outage strikes a government building supplied by an A-rank Magic Gem. While employees and the Security Team treat it as a routine malfunction, a ghostlike entity moves through the darkness, steals an item from the underground evidence storage room, bypasses the alarm magic, and leaves unnoticed. The Security Team later learns only that a major event is expected that day from a notice apparently sent by the Blue House. A Security Team employee named Sehwan unknowingly walks past the entity's shadow.
 
 ## Open Questions
 
@@ -17,6 +18,7 @@
 - Will Jin and Choi be able to release the method without provoking direct interference or retaliation?
 - How much will public access to the method improve Hunters' ability to resist stronger monsters and mutation Gates?
 - Will worsening conditions force Jin to reveal the Jin Family's Cultivation Technique as well?
+- Who was the ghostlike infiltrator, and what item was stolen from the government evidence storage room?
 
 ## Exceptional Decision
 

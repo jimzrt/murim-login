@@ -1,6 +1,6 @@
 # Im Kkeokjeong (임꺽정)
 
-- **Safe through:** Chapter 613
+- **Safe through:** Chapter 728
 - **Aliases:** Im Hyeokjun; Kkeokjeong hyung; Uncle Kkeokjeong
 - **Role:** D-rank Hunter and veteran tank in the Peace Guild; after recovering from the Black Hunters’ attack and having both arms reattached, he continues as a Hunter while nearing the end of rehabilitation.
 - **Personality:** Good-natured, sociable, modest about his family, and shamelessly confident about their age difference

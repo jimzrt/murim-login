@@ -1182,3 +1182,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 법왕 | close deceased friend and peer | you | familiar and reflective | Jeok addresses the Dharma King in private thought while wishing he were present to clarify Jeok's confusion. |
 | 진태경 | 최 팀장 | Peace Guild colleagues | Team Leader Choi | casual and teasing | Taekyung addresses Choi while needling him over the interrupted routine and civet-cat coffee. |
 | 최 팀장 | 진태경 | Guild Master to trusted subordinate | Mr. Jin Taekyung | formal-polite | Choi addresses Taekyung formally while asking about the source and authorship of the mana cultivation method. |
+| 진태경 | 최 팀장 | guild_member_to_guild_master | Team Leader Choi | formal-polite | Jin directly addresses Choi before agreeing to begin. |
+| 임꺽정 | 최 팀장 | guild_member_to_guild_master | Team Leader Choi | casual-polite | Im asks Choi whether he agrees with seeing the commitment through. |
+| 최 팀장 | 대통령님 | guild_master_to_president | Mr. President | formal-polite | Choi addresses President Baek Hanseong during the initial phone call. |
