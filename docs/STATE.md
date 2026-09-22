@@ -1,32 +1,30 @@
 # Translation State
 
-- Last completed: 698
-- Next chapter: 699
-- Current block: 695–699 (4/5)
-- Latest translation: `translations/0698.md`
-- Latest summary: `summaries/beats/0698.md`
-- Safe profiles through: chapter 698
+- Last completed: 699
+- Next chapter: 700
+- Current block: 695–699 (5/5)
+- Latest translation: `translations/0699.md`
+- Latest summary: `summaries/beats/0699.md`
+- Safe profiles through: chapter 699
 
 ## Current Block
 
-- The radiance of the Beast King Stone blocks the demonic qi pouring from the rift. The Southern Heaven Demon Empress recognizes the sacred treasure she searched for over ten years and demands that Jin Taekyung surrender it to the Lord of Heaven. Jin and the guardian spirit resist her overwhelming pressure, while Jin orders Yohi to evacuate the tribespeople from the Outer Palace.
-- Jin and the White Tiger launch an attack on the Southern Heaven Demon Empress with White Flame and the flame-wreathed azure dragon's roar, causing light and darkness to collide across the Nanman Beast Palace. The battle devastates the Outer Palace and sends civilians fleeing. Baeksang saves an old palace attendant he once expelled, heals her, orders her son to escape through the East Gate, and continues toward the Inner Palace to face the moment he has envisioned for decades.
+- Baeksang crosses the devastated Inner Palace, kills a tribal chieftain who begs for his life, and reaches his office expecting the Southern Heaven Demon Empress to fulfill their decades-old promise. Finding the office empty, he breaks down in despair, but the mirror she gave him ripples and emits a dark human figure carrying a Force-infused sword, rekindling his hope.
+- As the demonic qi overwhelms Nanman's warriors and beasts, the White Tiger leads the beast army in rescuing victims and carrying them toward the Outer Palace. Jin Taekyung is battered into the ground by the Southern Heaven Demon Empress but rises again despite severe injuries, continuing the fight as darkness descends over the collapsing Inner Palace.
 
 ## Open Questions
 
-- What will be the outcome of the clash between Jin, the White Tiger, and the Southern Heaven Demon Empress?
-- Can the Beast King Stone continue blocking the rift and allow the rift to be closed?
-- What does the Lord of Heaven intend to do with the Beast King Stone?
-- What purpose has Baeksang pursued for decades, and what will happen when he reaches the Inner Palace?
-- How many Nanman civilians will survive the devastation of the Outer Palace?
+- Who or what is the dark figure emerging from Baeksang's mirror, and how does it fulfill the Southern Heaven Demon Empress's promise?
+- Can Jin Taekyung survive his injuries and stop the Southern Heaven Demon Empress?
+- Can the White Tiger and the beast army rescue enough victims from the demonic qi?
+- What will Baeksang do now that the mirror's promise has begun to manifest?
 
 ## Exceptional Decision
 
-- Use Whitey for Jin's nickname 흰둥아.
-- Use civil war for 내전 and fighting spirit for 전의.
-- Use the quoted paraphrase “Do everything in your power, then leave the result to Heaven and wait” for 진인사대천명.
-- Use rift for 균열 and evolution for 진화.
-- Retain Guardian spirit for 수호령, Benefactor for 은인, and Great Chieftain for 대족장.
+- Use mirror for 면경 and do not identify the figure emerging from it until the source confirms its identity.
+- Use Hwi for 휘 in Baeksang's vocative, while keeping the mirror figure's identity unresolved.
+- Retain Force for 강기, Finger Qi for 지풍, Internal Injury for 내상, and hellscape for 지옥도.
+- Preserve Jin Taekyung's first-person voice as conversational, determined, and bluntly profane when describing the Southern Heaven Demon Empress.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

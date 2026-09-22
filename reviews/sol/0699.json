@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Just like the middle-aged man who was staggering toward him now.",
+      "defect": "The draft changes the man’s action from blocking Baeksang’s path to merely approaching him.",
+      "id": "F01",
+      "rationale": "막아선 explicitly means that the man placed himself in Baeksang’s way, not simply that he moved toward him.",
+      "replacement": "Just like the middle-aged man now staggering into his path to block him.",
+      "severity": "critical",
+      "source": "지금 이 순간, 비틀거리며 그를 막아선 한 중년인처럼."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The tribal chieftain’s body collapsed after his Heavenly Spirit Cap was pierced.",
+      "defect": "“Heavenly Spirit Cap” is an opaque literal calque and sounds like a named item rather than the crown of the skull.",
+      "id": "F02",
+      "rationale": "천령개 denotes the crown or top of the skull here; natural anatomical wording preserves the injury without inventing terminology.",
+      "replacement": "The tribal chieftain collapsed as the attack pierced the crown of his skull.",
+      "severity": "minor",
+      "source": "천령개(天靈蓋)를 관통당한 부족장의 신형이 그대로 허물어진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If that man had begged him to save the tribespeople instead of his own life, would Baeksang have spared him?",
+      "defect": "The draft changes the object of Baeksang’s hypothetical mercy from the tribespeople to the chieftain himself.",
+      "id": "F03",
+      "rationale": "The stated object is 부족민들, and the question is whether Baeksang would have saved them; the chieftain’s own death is addressed separately in the following sentence.",
+      "replacement": "If that man had begged him to save the tribespeople instead of his own life, would Baeksang have saved them?",
+      "severity": "critical",
+      "source": "설령 저자가 제 목숨이 아니라 부족민들을 살려 달라 애걸했다면 살려 주었을까?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "There were no fewer than ten thousand of them.",
+      "defect": "“No fewer than” turns the exact total of ten thousand into a lower bound.",
+      "id": "F04",
+      "rationale": "무려 emphasizes the magnitude of the stated figure but does not make it an indefinite minimum.",
+      "replacement": "A full ten thousand.",
+      "severity": "critical",
+      "source": "일만.\n\n무려 일만이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Baeksang struck the floor and walls with fists that held not even a trace of internal energy.\n\nBang! Bang! Krrr-boom!\n\nHis fists shot out without pause.\n\nThe office was not the only thing shattered by the thunderous impacts.\n\nThe callused backs of his hands split open, and white bone showed faintly through the blood covering his fists.",
+      "defect": "The draft repeatedly gives Baeksang two fists and two hands despite the immediately established fact that he has only one hand.",
+      "id": "F05",
+      "rationale": "Every relevant noun in the Korean is singular, consistent with the preceding description of Baeksang’s 하나뿐인 손, his only hand.",
+      "replacement": "Baeksang struck the floor and walls with a fist that held not even a trace of internal energy.\n\nBang! Bang! Krrr-boom!\n\nHis fist shot out without pause.\n\nThe office was not the only thing shattered by the thunderous impacts.\n\nThe callused back of his hand split open, and white bone showed faintly through the blood covering his fist.",
+      "severity": "critical",
+      "source": "백상은 한 줌의 공력조차 실려있지 않은 주먹으로 바닥과 벽면을 후려쳤다.\n\n쾅! 쾅! 콰아앙!\n\n쉴 새 없이 쏘아지는 주먹.\n\n굉음과 함께 박살 난 것은 집무실뿐만이 아니었다.\n\n굳은살로 뒤덮인 손등이 터져 나가고, 주먹을 뒤덮은 핏물 사이로는 언뜻 새하얀 뼈가 내비쳤다."
+    }
+  ],
+  "summary": "The draft contains several concrete fidelity errors involving a blocked path, the object of Baeksang’s hypothetical mercy, an exact quantity, and Baeksang’s missing hand, plus one opaque anatomical rendering.",
+  "version": 1
+}
