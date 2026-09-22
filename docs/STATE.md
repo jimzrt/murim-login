@@ -1,33 +1,25 @@
 # Translation State
 
-- Last completed: 622
-- Next chapter: 623
-- Current block: 620–624 (3/5)
-- Latest translation: `translations/0622.md`
-- Latest summary: `summaries/beats/0622.md`
-- Safe profiles through: chapter 622
+- Last completed: 623
+- Next chapter: 624
+- Current block: 620–624 (4/5)
+- Latest translation: `translations/0623.md`
+- Latest summary: `summaries/beats/0623.md`
+- Safe profiles through: chapter 623
 
 ## Current Block
 
-- The Fire Dragon Pavilion reaches the outer territory of the Nanman Beast Palace, a vast pastureland directly governed by the Palace Lord rather than a conventional palace compound. Namho explains that the palace rules a kingdom-like domain spanning five counties and forbids outsiders from entering beyond its fences.
-- Taishan attempts to catch and eat a calf, forcing Jin Taekyung and the others to restrain him before he damages their relationship with the Nanman Beast Palace. Namho rages over the violation, then reveals that he is an eighty-year-old Miao elder who has spent more than fifty years in Nanman.
-- Namho launches an emergency signal firework to summon the palace's people, but it falls into the pasture and starts a fire. As the livestock flee, a figure appears beyond the burning hill with the roar of a wild beast.
+- Jin Taekyung and the Fire Dragon Pavilion accidentally intensify a pasture fire inside Nanman Beast Palace territory when Jin uses the Flame Divine Palm, but Jin eventually extinguishes the blaze with successive palm strikes. The Nanman Beast Palace's Young Palace Lord, Yayul Mok, arrives riding a white tiger, identifies himself, and orders the group to follow after learning Jin is affiliated with the Murim Alliance. Yayul Mok's beast-riding retainers soon arrive and address him as the Young Palace Lord; Jin responds to the situation by jokingly claiming that he and Yayul Mok are friends.
 
 ## Open Questions
 
-- Was the woman in the Heavenly Demon Escort Bureau group the Southern Heaven Demon Empress?
-- Who poisoned and killed the Heavenly Demon Escort Bureau group, and why?
-- What catastrophe will Dark Heaven cause in Nanman?
-- What dangers and response await the Fire Dragon Pavilion inside the Nanman Beast Palace?
-- Who or what appeared beyond the burning pasture, and what consequences will the fire cause?
+- How will the Nanman Beast Palace respond to the Fire Dragon Pavilion's trespass and destruction of the pasture?
+- Why is Yayul Mok's arrival and authority significant to the Fire Dragon Pavilion's mission in Nanman?
 
 ## Exceptional Decision
 
-- Render 南琥, Namho's code name, as Namho rather than translating it literally as southern amber.
-- Use Elder Chao for the local title 챠오 어르신.
-- Render 애뇌산 as Ailao Mountain.
-- Render 혈생균 as blood-feeding fungus.
-- Render 直轄地 as directly administered territory.
+- Use Yayul Mok for 야율목 and Yayul Cheok for 야율척.
+- Use Young Palace Lord for 소궁주.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

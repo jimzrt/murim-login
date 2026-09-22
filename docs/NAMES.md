@@ -1981,3 +1981,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 애뇌산 | **Ailao Mountain** | Mountain crossed by the party on the route to the Nanman Beast Palace. |
 | 워낭소리 | **The Sound of the Bell** | Korean documentary film referenced in Taekyung's joke about livestock. |
 | 마장동 | **Majang-dong** | Seoul district associated with livestock and meat markets. |
+| 야율목 | **Yayul Mok** | Young Palace Lord of the Nanman Beast Palace. |
+| 야율척 | **Yayul Cheok** | Beast Miao King and lord of the Nanman Beast Palace. |
