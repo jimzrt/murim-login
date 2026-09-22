@@ -1167,3 +1167,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 백천대 전사 | ally_to_baekcheon_warrior | you | polite and encouraging | Jin rescues the warrior from a mutant and tells him to follow. |
 | 백천대 전사 | 진태경 | baekcheon_warrior_to_unknown_ally | you | polite and questioning | The warrior thanks Jin and asks who he is. |
 | 왕호 | 진태경 | baekcheon_unit_commander_to_allied_combatant | you | formal and concerned | Wang Ho catches Jin as he begins to fall and tells him to stop because the battle is over. |
+| 야수묘왕 | 남천마후 | allied_Ten_Kings_master_to_hostile_Demon_Empress | you | cold and threatening | The Beast Miao King addresses the Southern Heaven Demon Empress while promising to tear off her limbs and kill her. |
+| 남천마후 | 복면인 | Demon_Empress_to_loyal_hunting_dog | you | desperate and commanding | The Southern Heaven Demon Empress orders the masked man to carry her away from the ruins. |
+| 남천마후 | 천주 | devoted_servant_to_revered_master | Lord of Heaven | reverent and prayerful | The Southern Heaven Demon Empress prays that the Lord of Heaven will remember her loyalty and love. |
