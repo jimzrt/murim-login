@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Jin Taekyung’s One Strike had been powerful enough to freeze even the Southern Heaven Demon Empress with fear for an instant, and she had lost a considerable amount of strength along with one arm because of it.",
+      "defect": "The established technique One Annihilation is incorrectly renamed One Strike, creating a distinct technique that does not exist elsewhere in the packet.",
+      "id": "C01",
+      "rationale": "Chapters 702–703 and the checkpoint terminology consistently identify the attack as One Annihilation.",
+      "replacement": "Jin Taekyung’s One Annihilation had been powerful enough to freeze even the Southern Heaven Demon Empress with fear for an instant, and she had lost a considerable amount of strength along with one arm because of it.",
+      "severity": "major",
+      "source": "Chapter 704, Southern Heaven Demon Empress’s assessment after Yayul Cheok arrives"
+    },
+    {
+      "confidence": 0.99,
+      "current": "    \"Wang Ho leads the white-armored Baekcheon Unit and has arrived as reinforcements for the Palace Lord.\"",
+      "defect": "The active state drops the masked man’s unresolved battlefield status after the guardian spirit kills him for the fourth time. His repeated regeneration, accelerating recovery, and increasing strength remain immediately relevant.",
+      "id": "C02",
+      "rationale": "Chapter 703 explicitly warns that the fourth death may be no different from the previous ones, so later chapters need this active threat preserved.",
+      "replacement": "    \"The masked man has been killed four times by the guardian spirit, but each time he has regenerated faster and grown stronger; whether he will rise again remains unresolved.\",\n    \"Wang Ho leads the white-armored Baekcheon Unit and has arrived as reinforcements for the Palace Lord.\"",
+      "severity": "major",
+      "source": "Durable state, active_continuity after the final item"
+    },
+    {
+      "confidence": 0.99,
+      "current": "    \"Why have the Southern Heaven Demon Empress's five hundred elite subordinates not arrived?\",",
+      "defect": "The open questions omit the masked man’s unresolved identity and relationship to the Great Snow Fiend, even though Chapter 700 raises that question and the translation decisions explicitly say it remains unresolved.",
+      "id": "C03",
+      "rationale": "Without this durable hook, a later reveal could be reviewed without the question that established it.",
+      "replacement": "    \"What is the masked man's identity, and what is his relationship to the Great Snow Fiend?\",\n    \"Why have the Southern Heaven Demon Empress's five hundred elite subordinates not arrived?\",",
+      "severity": "major",
+      "source": "Durable state, open_questions at the first item"
+    },
+    {
+      "confidence": 0.9,
+      "current": "She was the greatest and most exalted existence beneath heaven and earth. One of the most loyal servants who served the will of the Lord of Heaven—and a powerful figure trusted enough to be entrusted with South Heaven itself.",
+      "defect": "South Heaven drifts from the established Southern Heaven terminology used in her title throughout the packet.",
+      "id": "C04",
+      "rationale": "Using Southern Heaven preserves the established naming form and avoids implying a second designation.",
+      "replacement": "She was the greatest and most exalted existence beneath heaven and earth. One of the most loyal servants who served the will of the Lord of Heaven—and a powerful figure trusted enough to be entrusted with Southern Heaven itself.",
+      "severity": "minor",
+      "source": "Chapter 704, Southern Heaven Demon Empress’s internal assessment after her palm force is stopped"
+    },
+    {
+      "confidence": 0.98,
+      "current": "And as the Masked Man grew stronger from the demonic qi, the guardian spirit must have been growing weaker by degrees.",
+      "defect": "Masked Man is capitalized as a formal title despite the packet’s binding decision to use masked man and its lowercase use elsewhere.",
+      "id": "C05",
+      "rationale": "Lowercase preserves the established generic designation and avoids suggesting that Masked Man is a formal sobriquet.",
+      "replacement": "And as the masked man grew stronger from the demonic qi, the guardian spirit must have been growing weaker by degrees.",
+      "severity": "minor",
+      "source": "Chapter 703, Jin Taekyung’s assessment after speaking with the guardian spirit"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Me, the Guardian Spirit, and the Southern Heaven Demon Empress.",
+      "defect": "Guardian Spirit is capitalized here as though it were a formal name, while the established rendering throughout the packet is guardian spirit.",
+      "id": "C06",
+      "rationale": "The lowercase form matches the terminology decision and every subsequent narrative reference.",
+      "replacement": "Me, the guardian spirit, and the Southern Heaven Demon Empress.",
+      "severity": "minor",
+      "source": "Chapter 700, opening line"
+    }
+  ],
+  "summary": "The reading copies and checkpoint summary are broadly coherent, but Chapter 704 renames an established technique, two unresolved masked-man hooks are missing from durable state, and several established terms drift in capitalization or form.",
+  "version": 1
+}

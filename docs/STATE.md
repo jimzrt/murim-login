@@ -1,33 +1,29 @@
 # Translation State
 
-- Last completed: 703
-- Next chapter: 704
-- Current block: 700–704 (4/5)
-- Latest translation: `translations/0703.md`
-- Latest summary: `summaries/beats/0703.md`
-- Safe profiles through: chapter 703
+- Last completed: 704
+- Next chapter: 705
+- Current block: 700–704 (5/5)
+- Latest translation: `translations/0704.md`
+- Latest summary: `summaries/beats/0704.md`
+- Safe profiles through: chapter 704
 
 ## Current Block
 
-- Jin Taekyung survives One Annihilation with severe Internal Injury, Exhaustion, and Muscle Rupture. The mutants that attacked him were erased by the technique after sacrificing themselves to disrupt his aim, while the guardian spirit killed the Masked Man for the fourth time and warned that he keeps recovering faster and growing stronger.
-- One Annihilation fails to kill the Southern Heaven Demon Empress but strips away her cultivated youth, destroys one arm, tears away part of her side, and burns half her face. The rift's demonic qi begins stabilizing her injuries and strengthening her even as the sacred stone, the guardian spirit, and the White Tiger weaken beneath its influence.
-- Jin orders the guardian spirit to leave and save the people, then offers to follow the Southern Heaven Demon Empress to the Lord of Heaven. She refuses to let him die quickly, declares that she will tear him apart herself, claims his divine artifact and the White Tiger's pelt, and unleashes another attack as a tremendous rumble sweeps across the Nanman Beast Palace.
+- The Southern Heaven Demon Empress launches Jin Taekyung and the guardian spirit's execution, but Yayul Cheok arrives and counters her palm force with Fist Force, rescuing Jin from the surrounding mutants. Jin expels stagnant blood, regains enough strength to fight beside Yayul and the guardian spirit, and the three confront the Empress while she waits anxiously for five hundred elite subordinates who have not appeared. Yayul vows to tear her apart for destroying Nanman, then summons reinforcements who arrive along a path he creates through the darkness: Wang Ho, Commander of the Baekcheon Unit, leads a white-armored force and bows to him as Palace Lord.
 
 ## Open Questions
 
-- What caused the tremendous rumble that swept across the Nanman Beast Palace?
-- Can the guardian spirit escape with the people while leaving Jin behind?
-- Will the Southern Heaven Demon Empress capture Jin for the Lord of Heaven or kill him herself?
-- Will the Masked Man rise again and become even stronger?
-- Can the sacred stone, the guardian spirit, and the White Tiger resist the demonic qi long enough to stop the mutation?
+- Why have the Southern Heaven Demon Empress's five hundred elite subordinates not arrived?
+- Who is the person Yayul Cheok says foresaw the disaster and retained hope until the end?
+- Can the Baekcheon Unit change the battle's outcome?
+- Can Jin Taekyung, Yayul Cheok, and the guardian spirit defeat the Southern Heaven Demon Empress and stop the mutants?
 
 ## Exceptional Decision
 
-- Use jiazi for 갑자.
-- Use vital essence for 정혈.
-- Use grand art for 대공.
-- Use practitioner for 술사.
-- Retain One Annihilation, demonic qi, Force, and Finger Qi as established terminology.
+- Retain Fist Force, Force, Moving Formation, demonic martial arts, and Baekcheon Unit as established terminology.
+- Render 궁주 as Palace Lord and 백천대주 as Commander of the Baekcheon Unit.
+- Retain shichen for 시진 and the time it takes to drink a cup of tea for 일다경.
+- Preserve Jin Taekyung's conversational profanity and the guardian spirit's terse, telepathic voice.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
