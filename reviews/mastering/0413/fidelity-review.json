@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The second Death Knight raised its lance from horseback.",
+      "defect": "The sentence omits that this other Death Knight had just newly appeared.",
+      "id": "F01",
+      "rationale": "새로 모습을 드러낸 또 다른 데스나이트 explicitly marks the second Death Knight as newly appearing before it raises its lance. The current wording preserves its identity and count but drops that visual and continuity beat.",
+      "replacement": "The other Death Knight that had just appeared raised its lance from horseback.",
+      "severity": "minor",
+      "source": "Lines 95–101"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful. One minor source detail is omitted in the Death Knight’s second appearance.",
+  "version": 1
+}

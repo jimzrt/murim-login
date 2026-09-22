@@ -2,7 +2,7 @@
 
 *Fwoooosh! Kraaaash!*
 
-A massive greatsword smashed into the ground. Wu Heixing’s body shot upward like lightning, having dodged the attack by the exact distance of half a span.
+A massive greatsword smashed into the ground. Wu Heixing shot upward like lightning, having dodged the blow by barely half a handspan.
 
 *Shnk!*
 
@@ -20,7 +20,7 @@ Some condemned the Cultural Revolution, which lasted from 1966 to 1976, as an at
 
 Wu Heixing’s grandfather, a longtime political associate of Mao Zedong, had risen spectacularly and embezzled an astronomical fortune. Using his son—a member of the Red Guards—as a stepping stone, he had smuggled away all manner of cultural artifacts and ancient books.[^1]
 
-The Twelve Blood Net Sword Wu Heixing had learned was one of the countless ancient books his grandfather had acquired at the time.
+The Twelve Blood Net Sword Wu Heixing practiced had come from one of the countless ancient texts his family acquired at the time.
 
 *Shreeeeek!*
 
@@ -30,9 +30,7 @@ The net of red aura sliced through skin and flesh and cleaved bone. Dozens of hi
 
 It was power worthy of an S-rank Hunter.
 
-Thoroughly emboldened, Wu Heixing shouted.
-
-“Red Guard Gang! What are you doing? Sweep them all away, you bastards!”
+Thoroughly emboldened, Wu Heixing shouted, “Red Guard Gang! What are you doing? Sweep them all away, you bastards!”
 
 “Yes, sir!”
 
@@ -52,7 +50,7 @@ The screams of humans and monsters mingled with sprays of blood on every side.
 
 The Red Guard Gang Hunters whom Wu Heixing had held in reserve until the very end were unquestionably strong. But their enemies were high-tier monsters as well.
 
-The elite monsters positioned in the rear darted through the thick fog as they fought the Hunters. Regardless of the difference in level, the monsters outnumbered them three or four to one.
+The elite monsters stationed in the rear darted through the thick fog and engaged the Hunters. Whatever the difference in their individual strength, the monsters outnumbered them three or four to one.
 
 And yet…
 
@@ -64,7 +62,7 @@ The presence of an S-rank Hunter like Wu Heixing was enough to turn the unfavora
 
 He might have drawn widespread criticism for his debauched behavior and foul temperament, but he was still a genius who had grown up with every possible advantage.
 
-Besides, unlike when he had first been deployed to the front lines, Wu Heixing had become more experienced. After passing through battlefields where death ran rampant, his skills had advanced by another step.
+Moreover, Wu Heixing was far more seasoned than when he had first entered the battle. His skills had advanced another step after enduring battlefields where death ran rampant.
 
 *I can do this! I’m Wu Heixing!*
 
@@ -78,13 +76,13 @@ And now, not a single monster could stop his red aura blade.
 
 *I’ll make sure no one ever looks down on me again. Lei Fei. That fucking bangzi bastard. No one!*
 
-That was the moment Wu Heixing ground his teeth at the humiliating memory.
+Just as Wu Heixing ground his teeth over those humiliating memories—
 
 *Fwoooooosh! Boom!*
 
 A spear flew in at blinding speed, skewering three or four Hunters like meat on a skewer before burying itself deep in the ground.
 
-A three-meter-long lance—something rarely seen on a battlefield like this.
+It was a three-meter-long cavalry lance, a weapon rarely seen on a battlefield like this.
 
 Wu Heixing whipped his head around to find the attacker, and his eyes flew wide.
 
@@ -106,9 +104,7 @@ Before Wu Heixing could finish his warning, the second lance tore through the ai
 
 Even the finest armor could not stop the strike. Arms and legs flew into the air, and bodies missing their upper halves collapsed with heavy thuds.
 
-The sudden appearance of the Death Knights.
-
-Then, as the Red Guard Gang’s Hunters froze at the horrifying sight unfolding before their eyes—
+The Death Knights had appeared without warning. The Red Guard Gang Hunters froze at the horrific sight unfolding before them.
 
 —D-a-r-k. V-i-n-e!
 
@@ -116,9 +112,9 @@ An eerie voice like metal scraping against metal rang out, and the ground began 
 
 *Crack! Kra-d-d-d-d-k!*
 
-The solid ground split apart like a spiderweb, and black vines surged up through the cracks.
+The solid earth split apart like a spiderweb, and black vines surged through the cracks.
 
-Filled with magical power, they moved like living creatures. Some seized human arms and legs, while others wormed through gaps left exposed by armor and pierced their victims.
+Saturated with magical power, they moved like living creatures. Some seized the Hunters’ arms and legs, while others wormed through gaps in their armor and pierced their flesh.
 
 *Shrrrrk! Stab-stab!*
 
@@ -136,13 +132,13 @@ Wu Heixing tore the black vines coiling around him from the ground like scallion
 
 It was not the deaths of his Hunters that troubled him.
 
-He understood what this entire series of events meant.
+He knew what this series of attacks meant.
 
 “Lich…!”
 
 Wu Heixing’s guess was correct.
 
-High above their heads, a death mage riding atop the head of a giant Wyvern that prowled through the gray sky raised a staff made of skulls and bones and pointed it at the ground.
+High above them, a death mage stood atop the head of a giant Wyvern circling through the gray sky. It raised a staff made of skulls and bones and pointed it toward the ground.
 
 —C-o-n-f-u-s-i-n-g!
 
@@ -150,7 +146,7 @@ High above their heads, a death mage riding atop the head of a giant Wyvern that
 
 With that eerie cry, magical power poured down like dark storm clouds and engulfed the entire area.
 
-The Hunters struggling to escape the black vines suddenly writhed as hallucinations and phantom voices seized them. They became easy prey for the monsters lurking around them.
+The Hunters struggling to escape the black vines suddenly writhed as hallucinations and phantom voices seized them. They became easy prey for the monsters lurking nearby.
 
 —Sssssss!
 
@@ -164,9 +160,7 @@ The Hunters struggling to escape the black vines suddenly writhed as hallucinati
 
 “Mother! You can’t die, Mother!”
 
-Some fell with a final scream.
-
-Others continued to howl even as they died, unable to escape the hallucinations and phantom voices.
+Some collapsed with final screams. Others continued to howl even as they died, unable to escape their hallucinations and phantom voices.
 
 But there were also those whose powerful wills allowed them to break free of the spell.
 
@@ -180,19 +174,17 @@ Only one question circled through his mind.
 
 *What—what the hell am I supposed to do?*
 
-The Lich was in the sky, while two Death Knights were rapidly approaching from the ground.
+A Lich hovered in the sky, while two Death Knights rapidly approached across the ground.
 
 Could they retreat?
 
 If they did, where would they go? How would they get there?
 
-Wu Heixing might have been able to face the two Death Knights alone, but what about the Lich’s magic and the countless monsters surrounding the area so tightly that not even water could pass through?
+He might be able to handle the two Death Knights alone, but what about the Lich’s magic? What about the countless monsters surrounding them on every side?
 
 No matter how hard he thought, he could find no answer.
 
-*This…this fucking situation…*
-
-*Crack.*
+*This… This is fucking insane…*
 
 Wu Heixing was grinding his teeth hard enough to crack them when—
 
@@ -206,9 +198,9 @@ The next moment, the headless body of the Wyvern began to plummet.
 
 Wu Heixing muttered the word like a groan.
 
-Everyone forgot the situation around them and looked up at the sky.
+Everyone forgot the battle around them and looked up at the sky.
 
-Before their eyes, the Wyvern’s body plummeted faster and faster, while a heap of black bones—the being that had once been called a Lich—tumbled down after it.
+Before their eyes, the Wyvern’s body fell faster and faster, accompanied by a heap of black bones that had once been a Lich.
 
 “…That’s impossible.”
 
@@ -216,19 +208,17 @@ The Lich was dead.
 
 Killed in a single strike.
 
-Someone had pierced through dozens of layers of defensive magic and accurately intercepted a target in midair?
+Someone had pierced dozens of layers of defensive magic and struck a target high in the air with perfect accuracy.
 
-Even an S-rank Hunter could not easily guarantee such a feat.
-
-Wu Heixing had never seen an attack so fast or so powerful.
+Even an S-rank Hunter could not guarantee such a feat. Wu Heixing had never seen an attack so fast or so powerful.
 
 But for someone else, it was as natural as breathing.
 
-The man who had been quietly watching what he had done from a short distance away suddenly opened his mouth.
+A short distance from the battlefield, the man responsible quietly watched the results of his attack before speaking.
 
 “It’s been a long time since I threw a spear. I’m certainly not as good as I used to be.”
 
-The man standing behind him like an iron tower answered in a stiff tone.
+The man standing behind him like an iron tower answered in a stiff voice.
 
 “It was an excellent throw.”
 
@@ -248,9 +238,7 @@ Go Jun nodded without a word.
 
 “If you mean the Death Knights, he should be able to defeat them without much difficulty.”
 
-Go Jun added in a low voice.
-
-“If there were no monsters around them.”
+Go Jun added in a low voice, “If there were no other monsters around.”
 
 “So under the present circumstances, it will be difficult.”
 
@@ -262,7 +250,7 @@ Go Jun added in a low voice.
 
 “My, my. Then I suppose we should help them.”
 
-“Would it not be better to watch a little longer?”
+“Why not watch a little longer?”
 
 Lee Jungryong widened his eyes in feigned surprise.
 
@@ -272,7 +260,7 @@ Go Jun had been taught by Lee Jungryong since childhood. He knew that each of th
 
 He also knew what answer was expected of him.
 
-“Would they not be more grateful if we helped them when the situation was more precarious?”
+“Would they not be more grateful if we rescued them when the situation became even more desperate?”
 
 Only then did the Master smile in satisfaction at his Disciple’s answer. Even his manner of speaking changed.
 
@@ -288,9 +276,9 @@ Only then did the Master smile in satisfaction at his Disciple’s answer. Even 
 
 “They’ll have to find another tree or buy themselves a parasol.”
 
-“We will become their new tree. If that happens, even more opportunities will open up.”
+“We will become their new tree. Once that happens, even more opportunities will open up.”
 
-Go Jun nodded, then suddenly spoke.
+Go Jun nodded, then spoke again.
 
 “May I ask one more question?”
 
@@ -302,13 +290,11 @@ The question had been troubling Go Jun for some time.
 
 Even if Wu Heixing was an S-rank Hunter, why bring along an idiot like him?
 
-*That man is immensely powerful. Even if Master is using Wu Heixing, what use could he possibly be?*
+*That man is immensely powerful. Even if Master intends to use Wu Heixing, what use could that fool possibly be?*
 
-Sometimes, this happened.
+Sometimes, just when Go Jun thought he had grown accustomed to his Master’s thoughts and actions, he found himself unable to understand Lee Jungryong’s true intentions.
 
-Just when Go Jun thought he had grown accustomed to his Master’s thoughts and actions, he would find himself unable to understand Lee Jungryong’s true intentions.
-
-And whenever that happened, Lee Jungryong would always wear an inscrutable smile.
+And whenever that happened, Lee Jungryong wore an inscrutable smile.
 
 Just like now.
 
@@ -332,13 +318,13 @@ The carefully selected elites of the Red Guard Gang were dying to the monsters, 
 
 Go Jun answered with a brief bow, then led the waiting Ares Guild members toward the battlefield.
 
-They did not shout as they charged the monsters, but the force they radiated was more than enough to overwhelm everything before them.
+They did not shout as they charged the monsters, but the force they radiated was enough to overwhelm everything before them.
 
 *Kra-d-d-d-d-k! Slash!*
 
 Lee Jungryong watched in satisfaction as one flank of the monster army collapsed in an instant.
 
-Then he suddenly caught the smell of blood carried on the wind.
+Then he caught the scent of blood on the wind.
 
 The wind was blowing from the west.
 
@@ -350,10 +336,10 @@ Lee Jungryong murmured under his breath and looked toward the distant horizon.
 
 As he raised his qi, his senses sharpened like a razor, and a man’s shout reached his ears.
 
-—Fuck, kill them all! And that bastard who’s been going “Eeeeeeh” this whole time—if he does it one more time, I’m counting him as a monster. Got it?
+—Fuck, kill them all! And that bastard who’s been going “Eeeeeeh” this whole time—do it one more time and I’m counting you as a monster. Got it?
 
 Lee Jungryong let out a low chuckle and extended his hand.
 
-Then he clenched his fist toward Jin Taekyung, who was somewhere out there.
+Then he clenched his fist toward Jin Taekyung, somewhere in the distance.
 
 [^1]: The Red Guards were radical youth organizations active during China’s Cultural Revolution.
