@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He could see the face of a son who looked exactly like him.",
+      "defect": "The indefinite “a son” obscures that Baeksang is seeing the face of his own specific son.",
+      "id": "F01",
+      "rationale": "아들 is Baeksang’s son in this context, not an unspecified or hypothetical son.",
+      "replacement": "He could see the face of his son, who looked exactly like him.",
+      "severity": "major",
+      "source": "그 안에서 자신을 쏙 빼닮은 아들의 얼굴을 발견할 수 있었기 때문이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The one who started the fire was Jin Taekyung.",
+      "defect": "The draft turns Baeksang’s initial supposition into a statement of established fact, preempting the guard captain’s caveat and Baeksang’s subsequent insistence.",
+      "id": "F02",
+      "rationale": "일 테고 expresses a confident inference rather than confirmed knowledge.",
+      "replacement": "The one who started the fire would be Jin Taekyung.",
+      "severity": "minor",
+      "source": "불을 지른 자는 진태경일 테고."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The four characters *the many cannot defeat the few* meant different things depending on who the opponent was.",
+      "defect": "The idiom has been reversed: it means that the few cannot overcome the many, not that the many cannot defeat the few.",
+      "id": "F03",
+      "rationale": "衆寡不敵 conventionally states that an outnumbered force cannot prevail; the surrounding point is that Jin Taekyung is an exception.",
+      "replacement": "The saying *the few cannot overcome the many* meant different things depending on who the opponent was.",
+      "severity": "critical",
+      "source": "중과부적(衆寡不敵)이라는 네 글자도 상대가 누구냐에 따라 달라진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If you are referring to the criminal Yayul Cheok—the man you rescued despite defying the will of the Tribal Grand Council, even though he betrayed the Nanman Beast Palace—then yes.",
+      "defect": "The draft makes the Head Elder the person who rescued Yayul Cheok. In the source, Yayul Cheok is accused of defying the council to save a culprit and of betraying the Palace.",
+      "id": "F04",
+      "rationale": "The coordinated verbs 구하고 and 배반한 both modify 흉수 야율척; they describe Yayul Cheok’s alleged actions.",
+      "replacement": "If you mean Yayul Cheok—the criminal who defied the will of the Tribal Grand Council to save a murderer and then betrayed the Nanman Beast Palace—then yes.",
+      "severity": "critical",
+      "source": "대회의의 뜻을 거스르면서까지 흉수를 구하고, 남만야수궁을 배반한 흉수 야율척에 관해서라면. 맞소."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yayul Cheok betrayed the Palace and fled, while the fate of the Miao people rests on a child who once stole some old fruit wine and received a harsh scolding from you.",
+      "defect": "“Old” incorrectly modifies the fruit wine, and the detail that the child was caught stealing it is omitted.",
+      "id": "F05",
+      "rationale": "먼 옛날 locates the childhood incident in the distant past, while 걸려 explicitly says he was caught.",
+      "replacement": "Yayul Cheok betrayed the Palace and fled, while the fate of the Miao people rests on a child who long ago was caught stealing fruit wine and received a harsh scolding from you.",
+      "severity": "minor",
+      "source": "묘족의 존망은 먼 옛날 과실주를 훔쳐먹다 걸려 당신에게 호된 꾸중을 듣던 한 어린아이에게 달렸소."
+    },
+    {
+      "confidence": 0.94,
+      "current": "With the chieftain and lesser chieftains gone, everything depends on what choice the Great Chieftain of the Miao people makes.",
+      "defect": "The draft changes the singular Lesser Chieftain into multiple lesser chieftains and weakens the parallel hierarchy of the three titles.",
+      "id": "F06",
+      "rationale": "부족장과 소족장 names one Chieftain and one Lesser Chieftain alongside the Great Chieftain.",
+      "replacement": "With the Chieftain and Lesser Chieftain gone, everything depends on what choice the Great Chieftain of the Miao people makes.",
+      "severity": "major",
+      "source": "부족장과 소족장이 사라진 지금, 묘족의 대족장이 어떤 선택을 하느냐에 따라 모든 것이 달렸지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Lock him in the underground prison. The entire Miao leadership, including the Head Elder.",
+      "defect": "The first sentence grammatically commands only the Head Elder’s imprisonment, while the intended command to imprison the entire leadership is left as a fragment.",
+      "id": "F07",
+      "rationale": "The delayed object 대장로를 비롯한 묘족의 수뇌부 모두 defines everyone covered by the command.",
+      "replacement": "Lock up the entire Miao leadership in the underground prison, including the Head Elder.",
+      "severity": "minor",
+      "source": "뇌옥에 가두어라. 대장로를 비롯한 묘족의 수뇌부 모두."
+    },
+    {
+      "confidence": 0.97,
+      "current": "What more could I fear? If Heaven’s will brought me all the way here, then…",
+      "defect": "The draft changes Baeksang’s declarative justification into an unfinished conditional and omits the sense that this, too, was Heaven’s will.",
+      "id": "F08",
+      "rationale": "역시 and 일진대 present Heaven’s will as Baeksang’s asserted rationale, not as an unresolved hypothetical.",
+      "replacement": "What more could I fear? What brought me this far was also Heaven’s will.",
+      "severity": "major",
+      "source": "더 이상 무엇이 두렵겠소. 나를 이곳까지 이끈 것 역시 하늘의 뜻일진대."
+    },
+    {
+      "confidence": 0.98,
+      "current": "If there is a problem, it will be at Ailao Mountain, not in the Inner Palace.",
+      "defect": "The draft makes the problem a future possibility, whereas the Demon Empress is inferring where something has already gone wrong.",
+      "id": "F09",
+      "rationale": "문제가 생겼다면 uses a completed conditional and leads directly into her conclusion that Jin Taekyung has already disrupted the trap.",
+      "replacement": "If anything has gone wrong, it would be at Ailao Mountain, not in the Inner Palace.",
+      "severity": "major",
+      "source": "만약 문제가 생겼다면 그건 내궁이 아니라 애뇌산에서겠지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Judging by the fact that we have not been able to contact him, it is certain.",
+      "defect": "The draft invents a singular male object for the failed contact, misleadingly suggesting that they were trying to contact Jin Taekyung. The Korean leaves the object unstated, and the subsequent context concerns the agents assigned to the trap.",
+      "id": "F10",
+      "rationale": "연락이 닿지 않는 has no expressed object, so the translation should preserve that ambiguity rather than add “him.”",
+      "replacement": "The fact that there has been no contact yet makes it certain.",
+      "severity": "critical",
+      "source": "지금까지 연락이 닿지 않는 걸 보면 확실해."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung had not only defeated two Supreme Peak masters alone—the Lord of Heaven himself was also interested in him.",
+      "defect": "“Defeated” understates 처치한, which means Jin disposed of or killed the two masters; the following paragraph explicitly confirms that both are dead.",
+      "id": "F11",
+      "rationale": "처치 and the subsequent 그런 이들이 둘이나 죽었으니 establish death, not merely defeat.",
+      "replacement": "Jin Taekyung had not only killed two Supreme Peak masters single-handedly—the Lord of Heaven himself was also interested in him.",
+      "severity": "major",
+      "source": "초절정 고수 둘을 단신으로 처치한 것으로도 모자라, 바로 그 천주마저 진태경에게 관심을 보인다니."
+    }
+  ],
+  "summary": "The draft contains two critical reversals of meaning, several altered subjects, quantities, and levels of certainty, plus localized hierarchy and wording issues.",
+  "version": 1
+}
