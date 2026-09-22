@@ -1,28 +1,27 @@
 # Translation State
 
-- Last completed: 717
-- Next chapter: 718
-- Current block: 715–719 (3/5)
-- Latest translation: `translations/0717.md`
-- Latest summary: `summaries/beats/0717.md`
-- Safe profiles through: chapter 717
+- Last completed: 718
+- Next chapter: 719
+- Current block: 715–719 (4/5)
+- Latest translation: `translations/0718.md`
+- Latest summary: `summaries/beats/0718.md`
+- Safe profiles through: chapter 718
 
 ## Current Block
 
-- Jin Taekyung learns that the Nanman leadership abandoned its search for the missing Beast Miao King after Jeok Cheongang ordered them to calm the people and promised to intervene if the Palace Lord did not return by midnight. Jin, having fully recovered after seven days and nights, secretly leaves the pavilion and locates the Beast Miao King in a dilapidated shrine within the Outer Palace.
-- The Seven Miao Tigers recognize Jin as Nanman's benefactor, and Wonhu allows him through despite the Beast Miao King's order to admit no one. Jin confronts the Beast Miao King about his disappearance and learns that he is suffering unbearable grief over failing to protect the Nanman tribespeople and his sworn brother, while questioning whether he is qualified to remain Palace Lord.
+- The Beast Miao King admits that his grief for his sworn younger brother Baeksang overwhelmed his duty as Palace Lord, but Jin Taekyung bluntly reminds him that he is still human and that Nanman needs its forest keeper. The Beast Miao King returns to the Inner Palace, where Jin discovers unnamed memorial tablets for Baeksang and Baekhwi and bows before them, recognizing that he might have taken a similar path under different circumstances. Two days later, the Beast Miao King summons Jin and Jeok Cheongang to discuss the sacred stone carried by the guardian spirit, which absorbed the rift's demonic qi and became a demonic stone. As the Beast Miao King explains that he can suppress the demonic qi only temporarily, the System offers Jin the Quest [Corrupted Divine Artifact].
 
 ## Open Questions
 
-- What does the Beast Miao King identify as the greatest source of his pain?
+- How will Jin Taekyung and the others handle the demonic stone?
+- Will Jin Taekyung accept the Quest [Corrupted Divine Artifact]?
 
 ## Exceptional Decision
 
-- Render 대형 as Big Brother when the Seven Miao Tigers address Wonhu.
-- Retain Old Master for 노야 when Jin addresses Jeok Cheongang.
-- Retain established renderings of Flame Divine Palm, Flame-Extinguishing Divine Fist, Dance of the Fire God and Demon, Solar Fist, Force, Skill, and great fiend for 대마두.
-- Render 남만당 as Nanman Party.
-- Render 각주 as Pavilion Master when Taishan addresses Jin.
+- Render 마석 as demonic stone, distinct from 신석 as sacred stone.
+- Render 타락한 신물 as Corrupted Divine Artifact.
+- Render 적 노 as Old Master Jeok, consistent with the established rendering of 노야.
+- Retain established renderings for 대형 as Big Brother, 남만당 as Nanman Party, and 각주 as Pavilion Master.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
