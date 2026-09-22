@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "He said they found a strange object they couldn’t identify…",
+      "defect": "The Korean does not establish the investigation team leader's gender, but the English resolves the omitted subject as male.",
+      "id": "F01",
+      "rationale": "The source reports that an urgent contact came from the investigation team leader and that an unidentified object had been found, without specifying a gendered pronoun.",
+      "replacement": "They said they had found a strange object they couldn’t identify…",
+      "severity": "minor",
+      "source": "Lines 35–35"
+    },
+    {
+      "confidence": 0.96,
+      "current": "cleared his throat on the other end of the call.",
+      "defect": "The English adds an unsupported masculine pronoun for the investigation team leader.",
+      "id": "F02",
+      "rationale": "The Korean identifies the speaker only as the investigation team leader and does not provide a gendered pronoun.",
+      "replacement": "cleared their throat on the other end of the call.",
+      "severity": "minor",
+      "source": "Lines 189–189"
+    },
+    {
+      "confidence": 0.9,
+      "current": "foreign personnel dispatched by the United Nations",
+      "defect": "“Foreign personnel” changes the source's category from external personnel to personnel of foreign nationality.",
+      "id": "F03",
+      "rationale": "외부인원 means personnel from outside the site or organization; the Korean does not itself establish that they are foreigners.",
+      "replacement": "outside personnel dispatched by the United Nations",
+      "severity": "minor",
+      "source": "Lines 191–191"
+    },
+    {
+      "confidence": 0.94,
+      "current": "someone he hated beyond measure and feared even more",
+      "defect": "“Feared even more” introduces a comparison asserting that his fear exceeded his hatred.",
+      "id": "F04",
+      "rationale": "더없이 증오스러우면서도 두려워 마지않는 describes intense hatred coexisting with intense fear, not a ranking of the two emotions.",
+      "replacement": "someone he hated beyond measure yet could not help fearing",
+      "severity": "minor",
+      "source": "Lines 45–45"
+    },
+    {
+      "confidence": 0.98,
+      "current": "a deck packed with musclebound river bandits doing boat PT",
+      "defect": "The current wording makes the bandits actively perform boat PT, whereas the source describes them as having received or been put through onboard PT.",
+      "id": "F05",
+      "rationale": "선상 피티 받은 is a passive modifier meaning they had undergone the training; it does not state that they were currently doing it.",
+      "replacement": "a deck packed with musclebound river bandits who had been put through onboard PT",
+      "severity": "minor",
+      "source": "Lines 267–267"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but several minor meaning and ambiguity shifts remain.",
+  "version": 1
+}

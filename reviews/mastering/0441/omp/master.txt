@@ -10,17 +10,15 @@ Go Jun glared at the door with bloodshot eyes and thrust out a hand.
 
 A tremendous force tore through the air, ripping apart the iron door and crumpling it like a sheet of paper.
 
-The security-team employee who witnessed the incredible sight from a few feet away swallowed a startled breath.
-
-“Gasp.”
+The security-team member who witnessed the incredible sight from just a few feet away caught his breath.
 
 “I told you not to let anyone approach.”
 
 The moment he met Go Jun’s blazing red eyes, a chill ran down his spine.
 
-He had heard his colleagues talk about the extreme change in their direct superior, who had always been as precise and cold as a machine. But facing him like this, the team member’s voice trembled with fear despite himself.
+He had heard his colleagues talk about the drastic change in their direct superior, a man who had always been as precise and cold as a machine. But now that he was facing Go Jun himself, his voice trembled with fear despite his best efforts.
 
-“I-It’s just that… there’s something I need to report…”
+“I-It’s just that… there’s something I need to report.”
 
 “Put it off.”
 
@@ -32,7 +30,7 @@ He swallowed hard and summoned his courage.
 
 “The head of the investigation team contacted us urgently. He said they found a strange object they couldn’t identify…”
 
-Go Jun, who had been about to turn away, came to an abrupt stop.
+Go Jun, who had been turning away, stopped dead.
 
 “A strange object?”
 
@@ -40,7 +38,7 @@ Go Jun, who had been about to turn away, came to an abrupt stop.
 
 “Could it be—”
 
-“No, sir.”
+“N-No, sir.”
 
 Afraid Go Jun’s anger might turn on him, the team member hurriedly continued.
 
@@ -54,7 +52,7 @@ Afraid Go Jun’s anger might turn on him, the team member hurriedly continued.
 
 “Pardon?”
 
-“There’s only one report I need from those bastards. A report saying they found what I need.”
+“There’s only one report I want from those bastards. That they found what I need.”
 
 Go Jun’s eyes darkened.
 
@@ -68,7 +66,7 @@ The head of the investigation team managing the city that had once been the Arch
 
 “Tell those bastards to find it, no matter what it takes. Until then, I don’t want to hear from them again.”
 
-There was no such thing as a favor in this world without a price. Go Jun had bought them with a fortune, and if they failed to deliver what he wanted, he intended to retaliate accordingly.
+There was no such thing as kindness without a price. Go Jun had bought them with a fortune, and if they failed to deliver what he wanted, he intended to make them pay accordingly.
 
 That was how important the object was.
 
@@ -86,13 +84,13 @@ At that moment, the fire in Go Jun’s eyes wavered violently.
 
 *Afterward… what am I supposed to do?*
 
-Before he knew it, the face of one man—someone he hated beyond measure and feared even more—flashed before his eyes.
+Before he knew it, the face of the man he hated beyond measure yet feared even more flashed through his mind.
 
 *…Jin Taekyung.*
 
 Merely thinking the name made his heart plummet and his hands and feet tremble.
 
-The indifferent gaze that had looked down at him beneath the faint moonlight and the dry voice that had accompanied it clouded his eyes and ears like an apparition.
+The indifferent eyes that had looked down at him beneath the pale moonlight and the dry voice that had accompanied them filled his senses like a waking nightmare.
 
 *I’ll say this one last time.*
 
@@ -110,13 +108,13 @@ No. He was like…
 
 “A monster.”
 
-The single word that escaped Go Jun without his realizing it was steeped in all the emotions and fear he felt.
+The word escaped Go Jun before he realized it, steeped in every shred of fear he felt.
 
 Then he came to his senses and understood.
 
 His hatred for Jin Taekyung was nothing compared to his terror.
 
-Jin Taekyung’s existence was fear itself, branded forever into Go Jun’s soul like a mark burned into flesh. At the same time, it was another name for the perfect helplessness he had felt for the first time in his life.
+Jin Taekyung was fear itself, branded forever upon Go Jun’s soul. His name had become another word for the utter helplessness Go Jun had experienced for the first time in his life.
 
 “T-Team Leader?”
 
@@ -136,7 +134,7 @@ Realizing his mistake, the team member hurriedly bowed and left the room.
 
 Only after walking a considerable distance down the corridor did he finally release the breath he had been holding. He gestured to the hotel employees waiting nearby.
 
-“Wait here for a while. Go in once he’s calmed down. And the new room is ready, right?”
+“Wait here and go in once he’s calmed down. Oh, and the new room is ready, right?”
 
 The Chinese hotel employees nodded calmly.
 
@@ -154,21 +152,21 @@ The team member tossed them a thick envelope, wiped the sweat from his brow, and
 
 Being unable to leave this godforsaken land of China was bad enough. What troubled him even more was the unstable condition of the man poised to succeed Lee Jungryong as the new captain of Ares Guild.
 
-*Could that rumor really have been true?*
+*Could that rumor really be true?*
 
 He recalled the story quietly circulating within the security team.
 
 And the unease stirring within him.
 
-*The treatment is incredible, but if Team Leader stays like that from now on…*
+*The pay and benefits are the best there are, but if Team Leader keeps acting like that…*
 
-There would be no problem if Go Jun remained the head of security. The enormous warship called the Ares Guild was not so fragile that one mistake by a helmsman could make it capsize.
+It would not matter if Go Jun remained the Head of Security. The enormous warship called Ares Guild was not so fragile that one mistake by a helmsman could sink it.
 
 But if the man at the helm became its new captain, that was a different story.
 
 *Damn it. I’ve never had to worry about this before.*
 
-The team member muttered to himself and pulled a smartphone from inside his suit jacket. It was a work phone that left no records and could not be traced.
+The team member pulled a smartphone from the lining of his suit. It was a work phone that left no records and could not be traced.
 
 After a long series of rings, someone answered.
 
@@ -176,7 +174,7 @@ After a long series of rings, someone answered.
 
 “I’ll get straight to the point. Our team leader wants to see the object you mentioned for himself.”
 
-“In person?”
+“For himself?”
 
 “Yes. In person. Our team leader wants to avoid public attention as much as possible right now, so you understand what I’m saying, don’t you?”
 
@@ -194,7 +192,7 @@ The world did not change easily. Before overwhelming wealth and power, the word 
 
 Since joining Ares Guild’s security team, he had witnessed the impossible being made possible countless times.
 
-And that fortresslike power would naturally be inherited by one man.
+And that impregnable power would naturally pass into the hands of one man.
 
 *Team Leader Go Jun.*
 
@@ -210,7 +208,7 @@ The rumor had begun when three Hunters who had secretly left with Go Jun one day
 
 For now, only a tiny handful within the security team—Go Jun’s closest associates—knew the truth. But soon enough, it would spread like an epidemic.
 
-*If it’s true…* *Haa. Things have gotten seriously complicated.*
+*If it’s true… Damn. This is one hell of a mess.*
 
 The team member took a deep breath and focused.
 
@@ -238,7 +236,7 @@ The team member smacked his lips in envy.
 
 Well-tanned bronze muscles rippled beneath the blazing sunlight.
 
-Their identity was that of beautiful model women from around the world who had gathered to enjoy a yacht party with me…
+They belonged to the beautiful models who had gathered from all around the world to enjoy a boat party with me…
 
 “One, two!”
 
@@ -250,17 +248,17 @@ They belonged to the river bandits of the Water Dragon Stronghold.
 
 I watched the musclebound monsters bustling around the deck with a mournful gaze.
 
-*A yacht party, my ass.*
+*A boat party, my ass.*
 
 I had only ever seen that kind of thing online, and I intended to keep it that way.
 
 Reality wasn’t a boat party with beautiful women. It was staring out at the Yangtze from a deck packed with musclebound river bandits doing boat PT.
 
-No. There was one more thing.
+Well, that wasn’t all.
 
 *Whoosh!*
 
-I had to dodge the finger flicks our boisterous Old Master, Fire King Jeok Cheongang, sent flying whenever he got bored.
+I also had to dodge the finger flicks our hot-tempered Old Master, the Fire King Jeok Cheongang, sent flying whenever he got bored.
 
 “Well, look at you. Dodging, are we?”
 
@@ -268,9 +266,9 @@ I had to dodge the finger flicks our boisterous Old Master, Fire King Jeok Cheon
 
 Jeok Cheongang answered without a shred of shame.
 
-“That one was meant to hit you. How dare you look away during training?”
+“That one was meant to hit you. How dare you let yourself get distracted during training?”
 
-“I was looking away with both eyes.”
+“I was distracted with both eyes.”
 
 “Why, you little… Want me to gouge them out for you?”
 
@@ -288,7 +286,7 @@ Then, a moment later, I quietly opened them again.
 
 “What?”
 
-“Didn’t I just dodge that perfectly even while looking away?”
+“Didn’t I just dodge that perfectly even though I was distracted?”
 
 “Oh. You did, didn’t you?”
 
@@ -328,7 +326,7 @@ Then he returned to dreamland faster than light.
 
 I stared at Jeok Cheongang.
 
-“Clear as a mirror? What?”
+“A clear mirror and what?”
 
 “A clear mirror… Forget it. You and that brat both. To hell with all of it!”
 
