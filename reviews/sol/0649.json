@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "No—in a world where human lives were worth about as much as a fly’s, it would be more accurate to say there hadn’t been time to worry about such things.",
+      "defect": "The draft turns the narrator’s own precarious life into a general statement about the value of human life in the world, changing both the subject and the causal explanation.",
+      "id": "F01",
+      "rationale": "The implied subject of 파리 목숨이었던지라 is the narrator; his life was precarious, leaving him no time to care about modern conveniences.",
+      "replacement": "No—my own life had always been so precarious that it would be more accurate to say I’d never had time to worry about such things.",
+      "severity": "major",
+      "source": "아니, 워낙 파리 목숨이었던지라 신경 쓸 틈도 없었다고 봐야 맞겠다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“You know it well. With one word from me, I can bring several thousand beggars…”\n\nI paused.\n\n“Okay, maybe not several thousand. Around a hundred. And there’s one fellow named Gung Gibang whose smell is absolutely monstrous. Those bastards will shit-kill your entire nine-clan family, you included. So take me to a proper latrine right now!”",
+      "defect": "The draft adds an explicit narrative pause absent from the source, and “shit-kill your entire nine-clan family” is unnatural and obscures the wordplay on execution by dismemberment.",
+      "id": "F02",
+      "rationale": "The correction occurs within one continuous speech, while 똥지처참 is a scatological parody of an execution by dismemberment and 구족 refers to the condemned person’s extended degrees of kinship.",
+      "replacement": "“You know it well. With one word from me, I can bring several thousand beggars… Okay, maybe not several thousand. Around a hundred. And there’s one fellow named Gung Gibang whose smell is absolutely monstrous. They’ll shit-dismember you and all nine degrees of your kin. So take me to a proper latrine right now!”",
+      "severity": "minor",
+      "source": "“잘 알고 있군. 내 말 한마디면 거지새끼 수천 명……까지는 아니고 백 명 정도는 데려올 수 있어. 특히 궁기방이라는 놈은 냄새가 무지막지하지. 그놈들이 네놈을 포함한 구족(九族)을 똥지처참할 거다. 그러니까 날 당장 제대로 된 측간으로 안내해!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Damn it. I had suspected as much, but this shithole really was the latrine.",
+      "defect": "The narrator’s expectation is reversed: 설마 했는데 means he had been hoping or thinking it could not possibly be true, not that he had suspected it was true.",
+      "id": "F03",
+      "rationale": "설마 expresses incredulous disbelief here, followed by the unwanted confirmation that the place is indeed the latrine.",
+      "replacement": "Damn it. I’d thought there was no way, but this shithole really was the latrine.",
+      "severity": "major",
+      "source": "빌어먹을. 설마 했는데 이 시궁창이 측간이었다니."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I reflexively thrust out my hand and caught something. Amid the sharp sound of air being split, I saw it embedded in the old door.",
+      "defect": "The draft presents him as catching the projectile in flight and only afterward seeing it embedded in the door, creating an impossible and altered action sequence. He grabs the object that has pierced the door.",
+      "id": "F04",
+      "rationale": "The relative clause identifies what he grabbed as the object that had penetrated the old door while making a sharp air-splitting sound.",
+      "replacement": "I reflexively reached out and seized the object that had punched through the old door with a sharp whistle.",
+      "severity": "critical",
+      "source": "반사적으로 손을 뻗어 무언가를 붙잡은 나는, 날카로운 파공성과 함께 낡은 문을 파고든 그것을 확인할 수 있었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "At the same time, I launched myself away like lightning.",
+      "defect": "The draft adds the direction “away,” which is absent from the source and conflicts with his immediately smashing through the door to pursue the shooter.",
+      "id": "F05",
+      "rationale": "신형을 날렸다 describes propelling his body into rapid motion; it does not say he moved away from the arrow or door.",
+      "replacement": "The instant I recognized it, I shot into motion like lightning.",
+      "severity": "major",
+      "source": "그리고 인지와 동시에, 나는 번개처럼 신형을 날렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Ding.*\n\nThe arrow in my hand vanished as if it had never existed.",
+      "defect": "The draft omits that the clear chime is specifically characteristic of the System.",
+      "id": "F06",
+      "rationale": "시스템 특유의 explicitly identifies the sound as the System’s distinctive chime.",
+      "replacement": "*Ding.*\n\nWith the System’s distinctive clear chime, the arrow in my hand vanished as if it had never existed.",
+      "severity": "minor",
+      "source": "시스템 특유의 맑은 종소리와 함께, 손아귀에 잡혀 있던 화살이 처음부터 존재하지 않았던 것처럼 사라졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I clicked my tongue at the threats from the Nanman version of the NYPD, then raised both hands above my head as instructed.",
+      "defect": "The physical action is changed: 입맛을 다시다 means smacking one’s lips, not clicking one’s tongue.",
+      "id": "F07",
+      "rationale": "떨떠름하게 supplies the uneasy or disgruntled manner, while 입맛을 다신 specifies the lip-smacking action.",
+      "replacement": "I uneasily smacked my lips at the threats from the Nanman version of the NYPD, then raised both hands above my head as instructed.",
+      "severity": "minor",
+      "source": "남만식 NYPD의 윽박지름에 떨떠름하게 입맛을 다신 나는, 일단 그들이 시키는 대로 두 손을 머리 위로 올렸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I had forgotten to pull up my pants.",
+      "defect": "The draft makes the punchline more mechanically explicit than the source, which euphemistically says he forgot to put or straighten his pants back in order.",
+      "id": "F08",
+      "rationale": "추스르다 means to straighten or put something in order; preserving that euphemism maintains the source’s comic timing and level of explicitness.",
+      "replacement": "I’d forgotten to get my pants back in order.",
+      "severity": "major",
+      "source": "바지 추스르는 걸 깜빡했다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“I’m asking this with all my heart. How do I put a padlock on that bastard’s mouth?”",
+      "defect": "The draft substantially softens the violent, vulgar register of 쳐 죽일 놈 and 아가리.",
+      "id": "F09",
+      "rationale": "The source uses an emphatically abusive description of Taishan and the vulgar 아가리 rather than the neutral “mouth.”",
+      "replacement": "“I’m asking this from the bottom of my heart. How do I padlock that fucking bastard’s mouth shut?”",
+      "severity": "major",
+      "source": "“이건 정말 간절한 마음으로 묻는 건데, 저 쳐 죽일 놈의 아가리에 자물통을 채우려면 어떻게 해야 하나?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Then I untied one of the arrows that had flown toward the latrine, along with the small leather pouch hanging from its tip.",
+      "defect": "The draft incorrectly says he unties the arrow itself and places the pouch at the arrow’s tip, contradicting the earlier statement that it hangs from the fletching.",
+      "id": "F10",
+      "rationale": "He produces the specific arrow and unfastens the attached pouch; the source previously locates the bundle at the arrow feathers.",
+      "replacement": "Then I took out the arrow that had flown into the latrine and untied the small leather pouch hanging from its fletching.",
+      "severity": "major",
+      "source": "그리고 측간을 향해 날아온 화살 한 자루와, 그 끝에 매달려 있던 작은 가죽 주머니를 풀었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> Today. Insi. West Gate.\n\nIt was written in seal script, and it was an invitation sent to me by someone whose identity I did not know.",
+      "defect": "The draft misreads 전서 as “seal script,” inventing a specific writing system. Here it means a written message or missive. It also leaves the traditional time period Insi unexplained.",
+      "id": "F11",
+      "rationale": "The object is identified as a transmitted written message that serves as an invitation, not as text written in seal script; the footnote supplies the materially necessary meaning of Insi without replacing the established term.",
+      "replacement": "> Today. Insi[^1]. West Gate.\n\nIt was a missive—an invitation from someone whose identity I did not know.\n\n[^1]: Insi is the traditional time period from three to five in the morning.",
+      "severity": "critical",
+      "source": "[금일(今日). 인시(寅時). 서문(西門).]\n\n그것은 전서였고, 정체를 알 수 없는 누군가가 내게 보내는 초대장이었다."
+    }
+  ],
+  "summary": "The draft contains several semantic and mechanical errors, including a reversed expectation, altered movement, an invented writing system, and softened or overexplicit register.",
+  "version": 1
+}

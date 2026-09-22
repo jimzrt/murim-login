@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "In the main hall, his clothes were neat and his voice calm, as though nothing had happened.",
+      "defect": "The sentence places Baeksang in the main hall even though the scene is occurring at the Inner Palace training-ground banquet.",
+      "id": "C01",
+      "rationale": "The replacement preserves the intended comparison with the earlier confrontation without contradicting the established location.",
+      "replacement": "Unlike in the main hall, his clothes were neat and his voice calm, as though nothing had happened.",
+      "severity": "minor",
+      "source": "Chapter 648, Baeksang’s arrival at the banquet"
+    },
+    {
+      "confidence": 0.99,
+      "current": "despite the attack and the humiliating pursuit that follows.",
+      "defect": "No pursuit follows the attack: Jin pursues the unknown archer, then is surrounded by guards and publicly embarrassed because his pants are down.",
+      "id": "C02",
+      "rationale": "This accurately summarizes the sequence without reversing who pursued whom.",
+      "replacement": "despite the attack and the humiliating misunderstanding that follows.",
+      "severity": "minor",
+      "source": "Checkpoint summary, final Plot paragraph"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Then Namho’s mutter spoke for everyone.",
+      "defect": "The construction is awkward and personifies the mutter rather than naturally attributing the shared reaction to Namho.",
+      "id": "C03",
+      "rationale": "The replacement is natural contemporary English and better matches the brisk comedic narration.",
+      "replacement": "Then Namho muttered what everyone was thinking.",
+      "severity": "minor",
+      "source": "Chapter 646, reaction to Song Ilseom’s account"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Speaking as someone who’s eaten more years than I care to count, I can say that there is no such man as far as I know.",
+      "defect": "“Eaten more years” reads as a literal calque rather than natural English and clashes with Namho’s otherwise fluent dialogue.",
+      "id": "C04",
+      "rationale": "The replacement preserves Namho’s self-deprecating reference to his age while restoring natural spoken English.",
+      "replacement": "Speaking as someone who’s been around longer than I care to admit, I can tell you there’s no such man as far as I know.",
+      "severity": "minor",
+      "source": "Chapter 646, Namho discussing the Blood Monk"
+    }
+  ],
+  "summary": "The packet is broadly consistent in voice, terminology, continuity, and spoiler control. Four minor issues are actionable: one scene-location contradiction, one inaccurate summary description, and two awkward English constructions.",
+  "version": 1
+}

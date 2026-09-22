@@ -1102,3 +1102,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야수묘왕 | 장 족장 | Palace Lord to allied tribal chieftain | Chief Jang | authoritative and operational | Orders him to organize a scouting party toward Guizhou. |
 | 야수묘왕 | 고 족장 | Palace Lord to allied tribal chieftain | Chief Go | authoritative and operational | Orders him to organize a scouting party toward Guizhou. |
 | 태산 | 주화란 | Pavilion member to Pavilion member | Young Lady Ju | clipped, childlike, and deferential | Agrees with Ju Hwaran after she mentions the evening banquet. |
+| 태산 | 남호 | Fire Dragon Pavilion member to guide | Namho | clipped, childlike, and informal | Taishan directly addresses Namho while asking what Dark Heaven is. |
+| 남호 | 각주 | guide to pavilion master | Pavilion Master | blunt, hostile, and abusive | Namho addresses Jin as 각주 while accusing him of causing the disturbance. |
+| 사마표 | 각주 | Fire Dragon Pavilion member to pavilion master | Pavilion Master | formal but sardonic | Sama Pyo addresses Jin as 각주 while questioning his account of the incident. |
