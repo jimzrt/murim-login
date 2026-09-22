@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I was already prepared for this when I told you to spare the men guarding the underground prison.",
+      "defect": "The draft omits that the prison guards were Baeksang’s subordinates, weakening the hierarchy and the Beast Miao King’s reason for anticipating Baeksang’s response.",
+      "id": "F01",
+      "rationale": "네 수하들 explicitly means “your subordinates,” not merely unidentified men.",
+      "replacement": "I was already prepared for this when I told you to spare your subordinates guarding the underground prison.",
+      "severity": "major",
+      "source": "뇌옥을 지키던 네 수하들을 살려 두라 말했을 때부터 이미 각오하고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They grumbled with their mouths, but their eyes were smiling.",
+      "defect": "The draft assigns the grumbling and smiling to the gathered warriors, but the subject in context is Wonhu.",
+      "id": "F02",
+      "rationale": "The sentence is framed by Wonhu’s dialogue and the following clause in which Wonhu passes around the gourd; the singular implicit subject remains Wonhu.",
+      "replacement": "Though Wonhu grumbled, his eyes were smiling.",
+      "severity": "critical",
+      "source": "입으로는 투덜거려도 눈은 웃고 있다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Good grief. Did they gather nothing but dogs here? Why do you all have such sharp noses?",
+      "defect": "Rendering 개새끼들 as neutral “dogs” sanitizes the insult and weakens the crude dog-and-sharp-noses joke.",
+      "id": "F03",
+      "rationale": "개새끼들 is strongly insulting while also supplying the literal canine image needed for the nose joke.",
+      "replacement": "Hell, did they round up nothing but a pack of fucking mutts? Why are all your noses so sharp?",
+      "severity": "minor",
+      "source": "허어, 개새끼들만 모아 놨나. 왜 이리들 코가 좋아?"
+    },
+    {
+      "confidence": 0.95,
+      "current": "So this is what I find out? You aren’t dogs. You’re all just a bunch of braggarts.",
+      "defect": "The payoff again neutralizes 개새끼들 and reads as though Wonhu had literally mistaken the men for dogs.",
+      "id": "F04",
+      "rationale": "The replacement preserves both the vulgar register and the callback to Wonhu’s earlier canine insult.",
+      "replacement": "Turns out you aren’t fucking mutts after all—just a bunch of blowhards.",
+      "severity": "minor",
+      "source": "이거 알고 보니, 개새끼들이 아니라 순 허풍쟁이들이었군."
+    },
+    {
+      "confidence": 0.93,
+      "current": "We both know what’s going on, so why bother? Go gnaw on a tiger’s dick.",
+      "defect": "“Gnaw on” changes the deliberately absurd action in the insult, which tells the listener to peel and eat it.",
+      "id": "F05",
+      "rationale": "까 잡수쇼 retains both the peeling action and the sarcastically polite command to eat.",
+      "replacement": "We both know what’s going on, so why bother? Go peel and eat a tiger’s dick.",
+      "severity": "minor",
+      "source": "다 아는 처지에 뭘. 호랑이 좆이나 까 잡수쇼."
+    },
+    {
+      "confidence": 0.98,
+      "current": "His skin was so pale that the word *white* seemed entirely appropriate.",
+      "defect": "The description reverses which adjective is being judged appropriate: the source says his starkly white skin merits the description “pallid,” not that pale skin merits the word “white.”",
+      "id": "F06",
+      "rationale": "창백하다는 표현이 어울릴 만큼 makes “pallid” the resulting characterization of his exceptionally white skin.",
+      "replacement": "His skin was so starkly white that *pallid* was the only word for it.",
+      "severity": "minor",
+      "source": "창백하다는 표현이 어울릴 만큼 새하얀 피부."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even as the landscape rushed past us, there was not a single human shadow or a house of any unusual shape in sight. Nothing but grassland stretched in every direction.",
+      "defect": "The draft awkwardly makes the absence apply only to houses that might have unusual shapes and changes dense grassy undergrowth into open grassland.",
+      "id": "F07",
+      "rationale": "The source separately excludes people and the distinctively shaped houses, then says the surroundings are filled only with 풀숲, grassy thickets or undergrowth.",
+      "replacement": "Even as the landscape rushed past us, there was not a single person or one of the oddly shaped houses in sight—only thickets everywhere.",
+      "severity": "minor",
+      "source": "지금 이 순간에도 빠르게 스쳐 지나가는 풍경 속에는 사람의 그림자도, 여러 가지 독특한 형태를 띤 가옥(家屋)도 없었고 오직 풀숲만이 가득했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "No. It would be more accurate to say I had not been able to try.",
+      "defect": "The English is unnatural and does not clearly convey Taekyung’s emotional inability to bring himself to wake Yayul Mok.",
+      "id": "F08",
+      "rationale": "In context, 못했다 marks that Taekyung could not make himself attempt it because he knew Yayul Mok would try to return.",
+      "replacement": "No. It would be more accurate to say I couldn’t bring myself to try.",
+      "severity": "minor",
+      "source": "아니, 시도하지 못했다고 하는 것이 옳은 표현일 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The scent pouch belonging to Yohi that I had discovered in the Western Region of Yeo.",
+      "defect": "The draft misnames the location as “Yeo,” introducing an unestablished place and severing its connection to Yohi’s Yao people.",
+      "id": "F09",
+      "rationale": "요서부 refers to the western part of the Yao territory; the established ethnic name is Yao, not Yeo.",
+      "replacement": "The scent pouch belonging to Yohi that I had discovered in the western Yao territory.",
+      "severity": "major",
+      "source": "요서부에서 발견했던 요희의 향낭(香囊)을."
+    }
+  ],
+  "summary": "The draft contains one incorrect subject assignment, an omitted subordinate relationship, softened profanity and wordplay, several localized meaning shifts, and a misnamed location.",
+  "version": 1
+}

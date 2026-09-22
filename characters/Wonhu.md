@@ -1,6 +1,6 @@
 # Wonhu (원후)
 
-- **Safe through:** Chapter 669
+- **Safe through:** Chapter 670
 - **Aliases:** None
 - **Role:** Wonhu is the eldest member of the Seven Miao Tigers, the Beast Miao King's personal guard.
 - **Personality:** No personality traits are established.
