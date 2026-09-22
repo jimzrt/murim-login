@@ -1,6 +1,6 @@
 # Chapter 448
 
-A Supreme Peak master could perform feats straight out of an old folktale—erasing several zhang of distance in a single step, leaping upward by stepping on empty air, and bringing down a cliff with one punch.
+A Supreme Peak master could perform feats straight out of an old folktale—crossing several zhang in a single step, leaping through empty air as though it were solid ground, and bringing down a cliff with one punch.
 
 But…
 
@@ -116,7 +116,7 @@ Then he glared at the whirlpool, flames streaming from his eyes, and roared.
 
 He wasn’t exactly wrong, but why did he sound so pathetic?
 
-Contrary to what I thought, however, the internal energy erupting from Jeok Cheongang’s sleeves was overwhelmingly powerful.
+Contrary to that pathetic outburst, however, the internal energy erupting from Jeok Cheongang’s sleeves was overwhelmingly powerful.
 
 “Get the hell out of here!”
 
@@ -168,7 +168,7 @@ His eyes red around the edges, Jeok Cheongang stared at the waters of the Yangtz
 
 “…”
 
-“Every bastard bearing the Zhuge name should be seized and thrown into that godforsaken Tianling Falls. Any objections?”
+“Every bastard bearing the Zhuge name will be seized and thrown into that godforsaken Tianling Falls. Any objections?”
 
 “What if I have one?”
 
@@ -186,7 +186,7 @@ At the end of Jeok Cheongang’s blazing gaze was a swift ship following several
 
 Even I wanted to kill him.
 
-Bringing down a cliff would have been easier. Just imagine being sucked into a whirlpool in the middle of the vast Yangtze, with nowhere to flee.
+Bringing down a cliff would have been easier than escaping a whirlpool in the middle of the vast Yangtze, with nowhere to flee.
 
 People tossed around names like Stepping on Empty Air and Rising on Duckweed, Crossing Water as though they were simple tricks, but both techniques consumed tremendous amounts of internal energy. Rescuing several hundred people would have been unthinkable.
 
@@ -208,7 +208,7 @@ At the sight of Jeok Cheongang raging like a madman, Mu Song, who had been lying
 
 “P-please calm yourself, Great Hero. I never dreamed Tianling Falls would be this bad, either.”
 
-“You’ve been here several times and didn’t know? If you don’t know, does your life as a river bandit end here? Should I end your life here, too?”
+“You’ve crossed it several times and didn’t know? Does not knowing mean you get to quit being a river bandit? Should I end your life here too?”
 
 “T-that’s not it. The currents of Tianling Falls have grown abnormally strong compared to before…”
 
@@ -238,17 +238,17 @@ I clicked my tongue softly and addressed Jeok Cheongang, who had not stopped ber
 
 “What!”
 
-Tap-tap-tap-tap!
+TATATAT!
 
-He moved at Quick Attack speed.
+He moved like a flash of lightning.
 
 Jeok Cheongang flung Mu Song aside, crossed the swift ship in a single step, and stared straight ahead with his eyes wide open.
 
-Soon, an emotional exclamation spilled from his lips.
+An awed exclamation soon escaped his lips.
 
 “Oh. Ohhh!”
 
-Anyone watching him might have thought he had discovered a treasure island, but what appeared beyond the thick fog was simply an island.
+Anyone watching him might have thought he had discovered a treasure island, but what emerged beyond the thick fog was an ordinary island.
 
 It was neither small like the islands scattered along Korea’s Han River nor deserted, without any sign of human habitation.
 
@@ -256,9 +256,9 @@ It was neither small like the islands scattered along Korea’s Han River nor de
 
 At Hyuk Mujin’s murmur, Gung Gibang nodded beside him.
 
-“It’s a ferry landing. Looks like we came to the right place.”
+“It’s a landing. Looks like we came to the right place.”
 
-The existence of a ferry landing where ships could dock meant, in other words, that people lived there—or that the island was frequently used as a stopover.
+A landing where ships could dock meant that people either lived there or frequently used the island as a stopover.
 
 And everyone present already knew who had established their home in a place that could only be reached by crossing that insane Tianling Falls.
 
@@ -274,7 +274,7 @@ Jin Wikyung spoke, his expression stiff.
 
 No one needed to ask what he meant.
 
-If Donghu Stronghold really was responsible for the two incidents that had occurred over the past fifteen days, just as the circumstances revealed so far suggested… then a clash of martial force might take place, in accordance with the laws of Murim.
+If Donghu Stronghold was indeed responsible for the two incidents that had occurred over the past fortnight, as all the evidence so far suggested… then, by the laws of Murim, an armed clash might be unavoidable.
 
 “Stronghold Lord. We did not come here to spill blood. I trust you understand what I mean.”
 
@@ -306,11 +306,11 @@ Nothing happened.
 
 The Yangtze, the fog, and the quietly flowing water remained unchanged.
 
-The only things that changed were the question on Jin Wikyung’s face and the wavering in Mu Song’s eyes.
+The only things that changed were the question on Jin Wikyung’s face and the unease in Mu Song’s eyes.
 
 “Stronghold Lord. What is happening?”
 
-“I’m not sure, either. We definitely sent the signal, so a reply should have come…”
+“I’m not sure. We definitely sent the signal, so a reply should have come…”
 
 At that very moment—
 
@@ -324,7 +324,7 @@ He continued in a clear, composed voice.
 
 “It seems something has happened.”
 
-“What do you mean…!”
+“What do you mean…?”
 
 Mu Song’s shout died unfinished.
 

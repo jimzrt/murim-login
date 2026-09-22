@@ -1,0 +1,156 @@
+{
+  "chapter": 448,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.238,
+    "source_characters": 5842,
+    "source_paragraphs": 161,
+    "translation_characters": 13076,
+    "translation_paragraphs": 169
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "semantic_probe",
+      "details": {},
+      "message": "생도 should use the established term 'cadet'"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "무인",
+        "preferred": "martial artist"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "생도",
+        "preferred": "cadet"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "학우",
+        "preferred": "Hak Woo"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인도",
+        "preferred": "Human Butcher"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "월미도",
+        "preferred": "Moon Beauty Saber"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "기해",
+        "preferred": "qi sea"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도도",
+        "preferred": "Dodo"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "열화",
+        "preferred": "Blazing Flame"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "오대",
+        "preferred": "Five Squads"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사공",
+        "preferred": "boatman"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "답보",
+        "preferred": "stagnation"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "변이",
+        "preferred": "mutation"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "팡팡",
+        "romanization": "pangpang"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

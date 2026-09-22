@@ -1,0 +1,75 @@
+{
+  "summary": "The chapter is largely faithful, but several localized wording changes add or drop source-specific physical, emotional, or action details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 9-10",
+      "current": "“Hold on ti—aaaaah!”",
+      "defect": "The imperative is left as the incomplete word “ti,” whereas the Korean completes the command before the scream.",
+      "replacement": "“Hold on tight—aaaaah!”",
+      "rationale": "꽉 잡 means to hold tight; the source does not interrupt the command mid-word.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 23",
+      "current": "The tremendous pressure of the water slammed into the swift ship’s side. The racing vessel was hurled into the air and began to tilt.",
+      "defect": "“Hurled” intensifies the motion, while the source specifically describes the hull moving fast and roughly, lifting into the air and tilting. The current drops the rough, unstable movement and changes the physical action.",
+      "replacement": "The tremendous pressure of the water slammed into the swift ship’s side. Its hull, moving fast and roughly, lifted into the air and tilted.",
+      "rationale": "거칠고 빠르게 나아가던 선체가 붕 뜨며 허공에서 기울어진다 describes a fast, rough-moving hull suddenly lifting and tilting, not being hurled.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 57-59",
+      "current": "He wasn’t exactly wrong, but why did he sound so pathetic?",
+      "defect": "The current shifts the narrator’s impression from how Jeok Cheongang appears to how he sounds.",
+      "replacement": "He wasn’t exactly wrong, but why did he look so pathetic?",
+      "rationale": "왜 이렇게 없어 보이지? describes looking or seeming unimpressive, not specifically sounding pathetic.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 137",
+      "current": "while Tianling Falls sought to sink the uninvited guests who had trespassed upon its domain.",
+      "defect": "“Trespassed upon its domain” adds an explicit territorial relationship that the source does not establish.",
+      "replacement": "while Tianling Falls sought to sink the uninvited guests who had arrived without permission.",
+      "rationale": "허락받지 않은 불청객들 means uninvited guests who came without permission; it does not state that they trespassed on a domain.",
+      "confidence": 0.82
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Line 209",
+      "current": "The man who claims to have crossed it several times can’t even find the right channel and just stands there groaning!",
+      "defect": "“Stands there” adds a physical action that conflicts with the next narration, where Mu Song is still lying spread-eagled on the deck before pushing himself upright.",
+      "replacement": "The man who claims to have crossed it several times can’t even find the right channel and is groaning!",
+      "rationale": "물길 하나 못 잡아서 끙끙거리고 있고 says he is groaning because he cannot find or handle a waterway; it does not say he is standing.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Line 235",
+      "current": "burn every ship to ashes",
+      "defect": "“To ashes” adds a total-destruction outcome beyond the source’s threat to set every ship on fire.",
+      "replacement": "set every ship on fire",
+      "rationale": "모든 배를 불 싸지르고 states that he will set all the ships ablaze, without specifying that they will be burned completely to ash.",
+      "confidence": 0.89
+    },
+    {
+      "id": "F07",
+      "severity": "minor",
+      "source": "Line 289",
+      "current": "Perhaps Mu Song was the person here most desperate to prevent bloodshed.",
+      "defect": "“Most desperate” adds a stronger emotional state than the source establishes.",
+      "replacement": "Perhaps Mu Song was the person here who most wanted to prevent bloodshed.",
+      "rationale": "가장 막고 싶어 하는 means that he most wanted to prevent it; it does not establish desperation.",
+      "confidence": 0.93
+    }
+  ]
+}
