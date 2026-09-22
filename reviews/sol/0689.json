@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "As she stared blankly at the drops of water falling onto her forehead, long-forgotten memories began returning to her one by one.",
+      "defect": "“Long-forgotten” changes the duration: Yohi had forgotten these memories only briefly, not for a long period.",
+      "id": "F01",
+      "rationale": "잠시 means “briefly” or “for a moment,” so the draft introduces a substantially longer lapse than the source.",
+      "replacement": "As she stared blankly at the drops of water falling onto her forehead, memories she had briefly forgotten began returning one by one.",
+      "severity": "major",
+      "source": "그리고 멍하니 이마 위로 떨어지는 물방울을 바라보던 그녀의 뇌리에, 잠시 잊고 있던 기억들이 하나둘씩 떠올랐다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "She could feel the internal energy she had accumulated by consuming all kinds of elixirs filling her dantian.",
+      "defect": "The draft omits that the internal energy fills her lower dantian specifically.",
+      "id": "F02",
+      "rationale": "하단전 identifies the lower dantian rather than the dantian generically.",
+      "replacement": "She could feel the internal energy she had accumulated by consuming all kinds of elixirs filling her lower dantian.",
+      "severity": "minor",
+      "source": "온갖 영약을 섭취하며 축적한 공력이 하단전에 충만한 것을 느낄 수 있었으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "She no longer felt only despair at having been captured by Dark Heaven. Now, she was overwhelmed by the hopelessness of having entered an incomprehensible space.",
+      "defect": "“No longer felt only despair” makes the two emotions coexist, while the source explicitly replaces her despair over capture with helpless bewilderment about the space.",
+      "id": "F03",
+      "rationale": "아닌 establishes a direct contrast between the former explanation and her new emotional response.",
+      "replacement": "She no longer felt the despair of having been captured by Dark Heaven, but rather the helpless bewilderment of finding herself in an incomprehensible place.",
+      "severity": "major",
+      "source": "이제는 암천에 의해 사로잡혔다는 절망감이 아닌, 이해할 수 없는 공간에 들어왔다는 막막함이 들 정도로."
+    },
+    {
+      "confidence": 1.0,
+      "current": "A crisis had befallen Nanman. She was the Great Chieftain of the Yao people, and there was a dignity she was supposed to uphold.",
+      "defect": "The draft turns Yohi’s dismissive rhetorical questions into neutral declarative exposition, weakening the abrupt register shift that drives the comic breakdown.",
+      "id": "F04",
+      "rationale": "Both source fragments are pointed rhetorical questions that Yohi immediately dismisses because she believes she is dead.",
+      "replacement": "The crisis facing Nanman? The dignity she was supposed to uphold as Great Chieftain of the Yao people?",
+      "severity": "major",
+      "source": "남만에 닥친 위기? 요족의 대족장으로서 지켜야 할 체면?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "As though it had read Yohi’s thoughts, Muyaho began moving around her.",
+      "defect": "The draft changes the action sequence: Muyaho had already been circling Yohi before it made its next move.",
+      "id": "F05",
+      "rationale": "그녀의 주위를 맴돌던 is a prior ongoing action modifying Muyaho, not the movement it begins afterward.",
+      "replacement": "As though it had read Yohi’s thoughts, Muyaho, which had been circling her, made its move.",
+      "severity": "minor",
+      "source": "그리고 이러한 요희의 생각을 읽은 것처럼, 그녀의 주위를 맴돌던 무야호가 움직이기 시작했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Deer and wild boars enjoyed the sunlight together in the thick grass.\n\nAnd even a bear was lending its body so that this mismatched pair could lean against it.",
+      "defect": "The plural animals leave “this mismatched pair” without a clear antecedent and can make it appear to refer to Yohi and Muyaho. The source depicts one roe deer and one wild boar leaning against a bear.",
+      "id": "F06",
+      "rationale": "한 쌍 explicitly identifies the previously mentioned roe deer and wild boar as the unlikely pair supported by the bear.",
+      "replacement": "A roe deer and a wild boar basked together in the sunlight amid the thick grass.\n\nThere was even a bear lending the mismatched pair its body to lean against.",
+      "severity": "major",
+      "source": "우거진 풀숲 속에서 함께 햇빛을 즐기고 있던 노루와 멧돼지.\n\n그리고 이 어울리지 않는 한 쌍이 기댈 수 있도록 자신의 몸을 빌려주고 있는 곰까지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only a dozen or so zhang remained between them.",
+      "defect": "The draft shifts the stated distance from approximately ten zhang to approximately twelve.",
+      "id": "F07",
+      "rationale": "십여 장 means roughly ten zhang or a little over ten, not a dozen.",
+      "replacement": "Only about ten zhang remained between them.",
+      "severity": "minor",
+      "source": "이제 남은 거리는 불과 십여 장 남짓."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Along with a cool wind carrying an unknown energy, blue leaves began raining down from an enormous tree unlike any she had ever seen.",
+      "defect": "The draft renders ordinary green foliage as literally blue, introducing an unsupported fantastical color.",
+      "id": "F08",
+      "rationale": "In reference to living leaves, 푸른 denotes their lush green color, as it does earlier in the chapter.",
+      "replacement": "Along with a cool wind carrying an unknown energy, green leaves began raining down from an enormous tree unlike any she had ever seen.",
+      "severity": "minor",
+      "source": "알 수 없는 기운을 품은 서늘한 바람과 함께, 지금껏 본 적 없는 거대한 나무로부터 푸른 잎사귀가 쏟아져 내린다."
+    }
+  ],
+  "summary": "Several fidelity issues alter duration, emotional contrast, rhetorical register, and animal staging; localized details also lose anatomical, quantitative, and visual precision.",
+  "version": 1
+}

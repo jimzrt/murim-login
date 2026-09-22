@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Muyaho returned with Jin and Yohi after Hanbaek’s death; the White Tiger collapsed but remains alive.",
+      "defect": "This incorrectly says Muyaho returned with Jin. Jin was already at the Poisonblood Grounds; Muyaho returned to him carrying Yohi and Heugung.",
+      "id": "C01",
+      "rationale": "The current wording contradicts the sequence established at the end of Chapter 685 and obscures Heugung’s presence during Muyaho’s return.",
+      "replacement": "Muyaho returned to Jin with Yohi and Heugung after Hanbaek’s death; the White Tiger later collapsed but remains alive.",
+      "severity": "major",
+      "source": "Checkpoint summary — Continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Yohi is now awake in an unexplained sealed stone realm. Her internal energy seal has been removed, but her flexible sword is missing.",
+      "defect": "The location is stale by the end of Chapter 689: Yohi has already left the stone chamber on Muyaho’s back and entered the bright realm.",
+      "id": "C02",
+      "rationale": "The replacement preserves the chamber discoveries while correctly stating Yohi’s current location.",
+      "replacement": "Yohi awoke in an unexplained sealed stone chamber with her internal energy restored and her flexible sword missing, then left it on Muyaho’s back and entered the bright realm.",
+      "severity": "major",
+      "source": "Checkpoint summary — Continuity"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Yohi is awake in an unexplained enclosed stone realm, with her internal energy seal removed and her flexible sword absent.",
+      "defect": "This active-state entry places Yohi in the chamber even though a later entry correctly says she and Muyaho are now in the bright realm.",
+      "id": "C03",
+      "rationale": "Changing the entry from present state to completed sequence removes the internal contradiction without dropping the unresolved chamber details.",
+      "replacement": "Yohi awoke in an unexplained enclosed stone chamber with her internal energy seal removed and her flexible sword absent before Muyaho carried her into the bright realm.",
+      "severity": "major",
+      "source": "Checkpoint summary — Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Jin Taekyung’s plunge into a deep sleep that was almost like unconsciousness and Muyaho’s halt after racing like the wind occurred almost simultaneously.",
+      "defect": "The nominalized construction is cumbersome and reads like a literal syntactic transfer rather than brisk commercial prose.",
+      "id": "C04",
+      "rationale": "The replacement preserves the simultaneity and both physical actions while restoring natural narrative movement.",
+      "replacement": "Jin Taekyung slipped into a sleep deep enough to resemble unconsciousness just as Muyaho skidded to a halt after racing like the wind.",
+      "severity": "minor",
+      "source": "Chapter 686, opening sentence"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The meaning of the new power who had driven out the king that had ruled this land for so long and climbed onto the throne himself was unmistakable.",
+      "defect": "“The meaning of the new power who” is an awkward and unclear personification, and the nested relative clauses obscure that the sentence refers to Baeksang’s intent.",
+      "id": "C05",
+      "rationale": "The replacement identifies the intended subject cleanly and preserves the political meaning without the grammatical tangle.",
+      "replacement": "The intent of the man who had driven out Nanman’s longtime king and seized the throne for himself was unmistakable.",
+      "severity": "minor",
+      "source": "Chapter 688, after Baeksang orders the diseased trees thinned"
+    },
+    {
+      "confidence": 0.99,
+      "current": "One shocking fact had struck her in the back of the head.",
+      "defect": "The phrase is an unnatural English calque and momentarily suggests a literal physical blow.",
+      "id": "C06",
+      "rationale": "This is the natural contemporary English expression for the sudden realization and preserves the comic timing.",
+      "replacement": "Then one shocking realization hit her.",
+      "severity": "minor",
+      "source": "Chapter 689, Yohi notices Muyaho’s tail"
+    }
+  ],
+  "summary": "The reading copies preserve the packet’s major hooks and terminology, but the checkpoint continuity misstates Muyaho’s return, and both the continuity summary and durable state incorrectly leave Yohi in the stone chamber after she has entered the bright realm. Three sentences also show actionable prose drift.",
+  "version": 1
+}
