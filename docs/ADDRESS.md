@@ -1149,3 +1149,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 흑호 | 인간 | guardian spirit addressing the human it saved | young human | formal, ancient, and admonitory | Directly addresses Jin as a reckless and young human while asking for another chance. |
 | 호위장 | 남만의 전사들 | commander to subordinate Nanman warriors | Warriors of Nanman / my proud brothers | commanding and rallying | The Captain of the Guards rallies the army before its charge on Ailao Mountain. |
 | 시비와 하인들 | 백상 | palace attendants to Palace Lord | Palace Lord | formal and fearful | The Inner Palace servants prostrate themselves and greet Baeksang as he passes. |
+| 젊은 후배 | 중년 전사 | junior_warrior_to_senior_gate_captain | you | casual but respectful | The young warrior complains to the older gate captain and responds to his reprimand. |
+| 중년 전사 | 젊은 후배 | senior_gate_captain_to_junior_warrior | you | casual and teasing | The gate captain scolds the junior for thinking about slacking off. |
+| 진태경 | 중년 전사 | invading_ally_to_Nanman_gate_captain | you | casual and cautionary | Jin warns the gate captain to stop what he is doing before the alarm is raised. |
+| 백호 | 진태경 | guardian_spirit_to_human_ally | you | terse and irritated | The White Tiger responds telepathically after Jin calls it Whitey and jokes about its former name. |

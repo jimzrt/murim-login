@@ -2103,3 +2103,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 수호령 | **guardian spirit** | Ancient title for the Black Tiger. |
 | 신석 | **sacred stone** | Stone said to have existed alongside the Black Tiger's birth. |
 | 설악산 | **Seoraksan** | Korean mountain referenced in the comparison with the sacred stone's size. |
+| 동문 | **East Gate** | One of the Nanman Beast Palace's gates. |
+| 서문 | **West Gate** | One of the Nanman Beast Palace's gates. |
+| 북문 | **North Gate** | The gate where Jin Taekyung and Yohi arrive. |
+| 남문 | **South Gate** | A gate that was never built because of the rear cliff. |
+| 흰둥아 | **Whitey** | Jin Taekyung's teasing address for the White Tiger. |

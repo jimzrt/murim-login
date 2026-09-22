@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Is that something you can say while sitting in the shade after coming back from patrol?”",
+      "defect": "The draft assigns the return from patrol to the older warrior, but the junior is the one who went on patrol while the older warrior remained in the shade.",
+      "id": "F01",
+      "rationale": "순찰 다녀오는 동안 describes the period when the junior was away on patrol, during which the older warrior was sitting in the shade.",
+      "replacement": "“Is that something you can say after sitting in the shade while I was out on patrol?”",
+      "severity": "critical",
+      "source": "“순찰 다녀오는 동안 그늘에 앉아 계신 분이 할 말입니까?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The last time so many warriors had gathered in one place had been more than fifty years ago, after the Great Faction War.",
+      "defect": "The draft makes the previous gathering an event that occurred after the Great Faction War. The source says this is the first such gathering since that war more than fifty years ago.",
+      "id": "F02",
+      "rationale": "정마대전 이후 처음 means “the first time since the Great Faction War,” establishing that war as the temporal benchmark.",
+      "replacement": "Not since the Great Faction War more than fifty years earlier had so many warriors gathered in one place.",
+      "severity": "major",
+      "source": "이 정도 숫자의 전사들이 모인 것은 오십여 년 전, 정마대전 이후 처음 있는 일이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "If the higher-ups catch us, I’ll be the only one who gets cursed out as the Captain of the Guards.",
+      "defect": "“Captain of the Guards” broadens and elevates his role beyond 수문장, which specifically identifies him as the officer responsible for the gate.",
+      "id": "F03",
+      "rationale": "수문장 is a gatekeeper or gate captain, and 욕 처먹다 is blunt and vulgar enough to warrant stronger colloquial English than “gets cursed out.”",
+      "replacement": "If the higher-ups catch us, I’m the gate captain, so I’ll be the only one who gets my ass chewed out.",
+      "severity": "major",
+      "source": "윗분들한테 걸리면 결국 수문장인 나만 욕 처먹기 딱 좋다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The sun already high in the sky radiated suffocating heat, and the wide pasture beyond the North Gate and the high hill overlooking the Outer Palace shimmered in the heat haze—",
+      "defect": "The draft treats the pasture and hill as two things shimmering. In the source, the high hill overlooks both the pasture beyond the North Gate and the Outer Palace, and it is the hill that shimmers in the heat haze.",
+      "id": "F04",
+      "rationale": "너른 목초지와 외궁이 훤히 내려다보이는 modifies 높은 언덕, describing what can be seen from the hill.",
+      "replacement": "The sun, already high overhead, radiated suffocating heat, and the high hill overlooking both the broad pasture beyond the North Gate and the Outer Palace shimmered in the heat haze—",
+      "severity": "minor",
+      "source": "이미 중천에 오른 태양은 숨 막히는 열기를 뿜어냈고, 북문 밖으로 펼쳐진 너른 목초지와 외궁이 훤히 내려다보이는 높은 언덕은 아지랑이에 의해 일렁였……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If I were you, I’d stop right there.”",
+      "defect": "The draft replaces Jin Taekyung’s specific command to remove the warrior’s hand from the alarm with a generic command to stop, losing the physical action that prevents the alarm from being sounded.",
+      "id": "F05",
+      "rationale": "거기서 손 떼는 게 좋을 거야 explicitly tells the warrior to take his hand away from what he is reaching for.",
+      "replacement": "“A word of advice. You’d better take your hand off that.”",
+      "severity": "critical",
+      "source": "“한 가지 충고하자면. 거기서 손 떼는 게 좋을 거야.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A pillar of light surged from the sacred stone held inside the guardian spirit’s mouth, pierced through the sky, and rose beyond the fortress walls.",
+      "defect": "The draft reverses the beam’s spatial progression, making it pierce the sky before rising beyond the walls.",
+      "id": "F06",
+      "rationale": "성벽을 넘어 하늘을 관통했다 gives the ordered movement: the pillar passes beyond the walls and then pierces the sky.",
+      "replacement": "A pillar of light surged from the sacred stone held inside the guardian spirit’s mouth, passed over the fortress walls, and pierced the sky.",
+      "severity": "critical",
+      "source": "수호령이 입안에 머금고 있던 신석(神石)으로부터 솟구친 빛의 기둥이 성벽을 넘어 하늘을 관통했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And at the very front of it all stood one man.",
+      "defect": "The draft states that the man is standing, contradicting the scene in which Jin Taekyung is riding the guardian spirit.",
+      "id": "F07",
+      "rationale": "있었다 only places him at the head of the charge and does not describe him as standing.",
+      "replacement": "And at the very front of it all was one man.",
+      "severity": "critical",
+      "source": "그리고 그 선두에 한 사람이 있었다."
+    }
+  ],
+  "summary": "Several action, subject, temporal, role, and spatial details are altered, including two reversed physical actions near the climax.",
+  "version": 1
+}

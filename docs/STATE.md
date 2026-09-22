@@ -1,32 +1,29 @@
 # Translation State
 
-- Last completed: 694
-- Next chapter: 695
-- Current block: 690–694 (5/5)
-- Latest translation: `translations/0694.md`
-- Latest summary: `summaries/beats/0694.md`
-- Safe profiles through: chapter 694
+- Last completed: 695
+- Next chapter: 696
+- Current block: 695–699 (1/5)
+- Latest translation: `translations/0695.md`
+- Latest summary: `summaries/beats/0695.md`
+- Safe profiles through: chapter 695
 
 ## Current Block
 
-- A force of three thousand Nanman warriors and beasts marches from the Outer Palace to Ailao Mountain, where a vast fire rages. Believing Jin Taekyung to be responsible and still inside the burning mountain, the Captain of the Guards rallies the army to pursue and kill him. Before they can advance, a black presence rises through the flames, and every beast stops, bows, and lowers itself in submission to the returning king.
-- Baeksang crosses the Inner Palace, orders every palace attendant expelled, and reflects on his regret, his deceased son Hwi, and the final secret caprice that can no longer change anything. With ten thousand warriors gathered, he considers the grand plan complete and opens the palace doors, where he sees a White Tiger on a distant hill, an unidentified figure on its back, and thousands upon thousands of beasts gathering behind them.
+- The Nanman Beast Palace braces for civil war before any campaign against the Central Plains. Nearly ten thousand warriors have gathered in the Inner Palace, while five tribal chieftains and their people have left the Outer Palace in support of the former Palace Lord, Yayul Cheok.
+- Jin Taekyung and Yohi arrive at the North Gate riding with the guardian spirit of the sacred stone and an immense beast army. Jin confirms that Dark Heaven's scheme has not yet begun, then splits the iron gate with Force. The guardian spirit releases the sacred stone's pillar of light, and the beasts charge into the Nanman Beast Palace, beginning the Great War that will decide Nanman's fate.
 
 ## Open Questions
 
-- Will Jin accept the System's offer to strengthen the Ancient Sacred Stone with the Water God Dragon's Origin Essence?
-- What consequences will follow from the hidden Quest Last Chance, the pillar of light, and the unidentified figure atop the White Tiger?
-- How can Jin, Yohi, and Muyaho leave the hidden realm?
-- Is Heugung truly dead?
-- What is the System's unidentified discovery?
+- What will happen inside the Nanman Beast Palace as Jin's group and the beast army advance?
+- What effect will the sacred stone's pillar of light have on Nanman and the battlefield?
+- Will Dark Heaven's Rift or another part of its scheme be triggered after Jin's arrival?
+- Who or what awaits beyond the iron gate, possibly including the Lord of Heaven?
 
 ## Exceptional Decision
 
-- Render 수왕석 as Beast King Stone, 신석 as sacred stone, and 고대의 신석 as Ancient Sacred Stone.
-- Render 애뇌산의 망령 as Apparition of Ailao Mountain and 수호령 as guardian spirit.
-- Render 숨겨진 성지 as Hidden Sacred Land and 마지막 기회 as Last Chance.
-- Render 흑호's 의념 as telepathic dialogue with em dashes and a calm, ancient voice.
-- Render 영기 as spiritual energy and 원정 as Origin Essence.
+- Use Whitey for Jin's nickname 흰둥아.
+- Use civil war for 내전 and fighting spirit for 전의.
+- Use the quoted paraphrase “Do everything in your power, then leave the result to Heaven and wait” for 진인사대천명.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

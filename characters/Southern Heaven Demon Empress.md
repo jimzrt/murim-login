@@ -1,6 +1,6 @@
 # Southern Heaven Demon Empress (남천마후)
 
-- **Safe through:** Chapter 694
+- **Safe through:** Chapter 695
 - **Aliases:** None
 - **Role:** The Southern Heaven Demon Empress is the strategist directing Baeksang's defense of Nanman's Inner and Outer Palaces while advancing a grand plan scheduled to begin within three days.
 - **Personality:** Playful, cruel, confident, and casually dismissive of mass death and the suffering of others.
