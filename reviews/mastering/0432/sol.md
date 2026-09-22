@@ -64,7 +64,7 @@ I glanced at the unconscious Go Jun and shook my head.
 
 “Then what about me? Why did you tell me?”
 
-“You already know. In a situation like this, there are only two kinds of people you can choose.”
+“You already know. In a situation like this, there are only two kinds of people.”
 
 I continued slowly, enunciating each word.
 
@@ -160,7 +160,7 @@ I answered without taking a breath.
 
 A minimum of one hundred years without parole?
 
-If I got caught, I’d rot in prison without a chance. Even if I escaped, I’d spend the rest of my life as an internationally wanted fugitive.
+If I got caught, I’d rot in prison for the rest of my life. Even if I escaped, I’d spend my days as an internationally wanted fugitive.
 
 I might even end up with a ten-billion-beri bounty on my head, living as a pirate on Somalia’s Grand Line like some manga character.
 
@@ -174,9 +174,9 @@ The thought alone was horrifying…
 
 “Jeongwan yewu? What’s that?”
 
-“It’s a thing. Ah, if you said you’d done it while drunk after downing about five bottles of soju,[^2] you might even get a suspended sentence.”
+“It’s a thing. Oh, and if you claimed you’d done it while drunk after downing five bottles of soju[^2] in one go, you might even get a suspended sentence.”
 
-Magic Johnson laughed loudly as if he had heard an incredible joke.
+Magic Johnson roared with laughter as if he had just heard the greatest joke in the world.
 
 “Don’t be ridiculous, Jin. What kind of country would allow that?”
 

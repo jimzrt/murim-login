@@ -1,0 +1,45 @@
+{
+  "summary": "Mostly faithful, with four localized fidelity defects involving added temporal or physical implications and a weakened legal-joke detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Source line 87",
+      "current": "For some time now, I had felt everything around me beginning to change.",
+      "defect": "The English adds an established duration that the Korean does not state. The source marks the change as beginning from some point, not as something felt for an extended period.",
+      "replacement": "At some point, I began to feel everything around me changing.",
+      "rationale": "어느 순간부터 means 'from some point' or 'at some point onward'; it does not establish 'for some time now.'",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Source line 109",
+      "current": "teleport you straight into the monster army",
+      "defect": "The destination is narrowed from the place where the monster army was waiting to a position directly inside the army.",
+      "replacement": "teleport you to the place where the monster army was waiting",
+      "rationale": "The Korean says 몬스터 군단이 기다리는 그곳, 'that place where the monster army was waiting,' not that Jin was teleported into the army itself.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Source line 171",
+      "current": "If you spread enough money around and hired a former chief prosecutor who could benefit from *jeongwan yewu*, you probably wouldn’t get much of a sentence.",
+      "defect": "The current wording makes the hired person a former chief prosecutor rather than explicitly a lawyer who formerly served as a chief prosecutor. It also weakens the source's asserted preferential treatment into a possibility.",
+      "replacement": "If you spread money around and hired a lawyer who used to be a chief prosecutor and benefited from *jeongwan yewu*, you probably wouldn’t get much of a sentence.",
+      "rationale": "전직 검사장 출신 변호사 identifies a lawyer with a former chief-prosecutor background, while 전관예우 받는 states that the lawyer receives that preferential treatment.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Source line 251",
+      "current": "water would begin seeping into the bottom of the enormous ship called the Ares Guild",
+      "defect": "The English changes the ship image from water gradually rising or filling at the bottom to water entering through the bottom, adding a seepage mechanism.",
+      "replacement": "water would begin filling the bottom of the enormous ship called the Ares Guild",
+      "rationale": "밑창에는 서서히 물이 차오르기 시작할 것이다 describes water slowly filling or rising in the ship's bottom, not water seeping into it.",
+      "confidence": 0.95
+    }
+  ]
+}
