@@ -1,6 +1,6 @@
 # Kim Hwajong (김화종)
 
-- **Safe through:** Chapter 613
+- **Safe through:** Chapter 663
 - **Aliases:** Butler Kim
 - **Role:** The deceased old butler who served Choi Minwoo's family and was Choi's grandfather.
 - **Personality:** He showed enduring care for Choi Minwoo through the affectionate message he left at his grave.
