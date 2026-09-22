@@ -2018,3 +2018,10 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 야율 | **Yayul** | Name used in Taekyung's colloquial address to the Beast Miao King. |
 | 수왕석 | **Beast King Stone** | Legendary sacred treasure of the Nanman Beast Palace. |
 | 천년지주 | **Thousand-Year Spider** | Monster appearing at the end of the chapter. |
+| 파브르 | **Fabre** | The entomologist referenced in Jin-ho's joke. |
+| 유령거미 | **ghost spider** | A spider species identified by Jin. |
+| 무당거미 | **Joro spider** | A spider species identified by Jin. |
+| 브라질 떠돌이 거미 | **Brazilian wandering spider** | A spider species identified by Jin. |
+| 타란툴라 | **tarantula** | A spider species identified by Jin. |
+| 인벤토리 | **Inventory** | System storage summoned by Jin. |
+| 가리지 않는 사냥충 | **Indiscriminate Hunting Bug** | Rare achievement awarded after killing a Thousand-Year Spider. |
