@@ -2115,3 +2115,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 지옥도 | **hellscape** | Metaphorical description of the devastated battlefield. |
 | 궁인 | **palace attendant** | Former Inner Palace attendant expelled by Baeksang. |
 | 호야 | **Hoya** | Name called by the fleeing tribesman while searching for someone. |
+| 복면인 | **Masked Man** | The Southern Heaven Demon Empress's trained hunting dog; identity remains unknown. |
+| 역천 | **defying heaven** | Supernatural power that regenerates the masked man's body. |
+| 재생 | **Regeneration** | The masked man's rapid recovery from shattered bones and severe wounds. |
+| 통각 | **pain sensation** | The masked man appears unable to feel pain. |
+| 변이 | **mutation** | The transformation threatening the humans and beasts in the Inner Palace. |
