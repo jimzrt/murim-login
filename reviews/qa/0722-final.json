@@ -1,0 +1,63 @@
+{
+  "chapter": 722,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.251,
+    "source_characters": 5490,
+    "source_paragraphs": 166,
+    "translation_characters": 12356,
+    "translation_paragraphs": 166
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "노부",
+        "preferred": "this old man"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "그분",
+        "preferred": "that person"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "비도",
+        "preferred": "throwing blade"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

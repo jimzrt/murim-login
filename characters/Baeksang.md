@@ -1,6 +1,6 @@
 # Baeksang (백상)
 
-- **Safe through:** Chapter 718
+- **Safe through:** Chapter 722
 - **Aliases:** None
 - **Role:** Baeksang was the Palace Lord of the Nanman Beast Palace and sole Great Chieftain of Nanman, and he died by the Beast Miao King's hand after confessing to serving Dark Heaven's plan.
 - **Personality:** Cold, rigid, meticulous, and strategically resolute, yet burdened by regret, grief over Hwi's death, and a final conflicted impulse to spare others from the coming bloodshed.

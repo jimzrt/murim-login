@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At least, that had been the case until the unprecedented miracle of the One God called the Earth Mother Goddess appeared.",
+      "defect": "The draft makes the miracle appear, whereas the source says the One God appeared after demonstrating an unprecedented miracle.",
+      "id": "F01",
+      "rationale": "The source grammatically identifies the Earth Mother Goddess as the entity who appeared and the unprecedented miracle as what she demonstrated.",
+      "replacement": "At least, that had been the case until the One God known as the Earth Mother Goddess appeared and performed an unprecedented miracle.",
+      "severity": "major",
+      "source": "적어도 대지모신이라는, 전대미문의 기적을 선보인 유일신이 나타나기 전까지는 그랬다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Wait. You can do that?*",
+      "defect": "The reaction is changed into surprise that the maneuver is possible, rather than disbelief at Taekyung framing the executions in this particular way.",
+      "id": "F02",
+      "rationale": "이걸 이렇게 reacts to how Taekyung has just repackaged the legal executions as divine judgment.",
+      "replacement": "*Wait, he’s spinning it like that?*",
+      "severity": "minor",
+      "source": "‘아니, 이걸 이렇게?’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“This is fucking insane.”",
+      "defect": "The draft characterizes the spectacle as insanity rather than bluntly calling the situation a vulgar mess.",
+      "id": "F03",
+      "rationale": "지랄 났군 is a terse, profane assessment that everything has gone to hell, matching Jeok Cheongang’s deadpan delivery.",
+      "replacement": "“What a fucking shitshow.”",
+      "severity": "minor",
+      "source": "“지랄 났군.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“By the name of the benevolent Earth Mother Goddess, I call the Tribal Grand Council to order!”",
+      "defect": "The draft has the Beast Miao King formally open a council already in session, while the source has him summon or convene it; it also uses the unnatural formula “By the name.”",
+      "id": "F04",
+      "rationale": "소집한다 means to summon or convene the council, which then begins in the following scene.",
+      "replacement": "“In the name of the benevolent Earth Mother Goddess, I hereby convene the Tribal Grand Council!”",
+      "severity": "major",
+      "source": "“자애로우신 대지모신의 이름으로, 대회의를 소집한다!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Listen to this young punk talking to his elders.”",
+      "defect": "“Young punk” substantially softens the priest’s strongly insulting 어린 노무 새끼 and loses the force of his outrage.",
+      "id": "F05",
+      "rationale": "The source uses a coarse, age-based insult, and the chapter’s rules require its strong register to remain uncensored.",
+      "replacement": "“Huh. Would you look at the way this young bastard talks to his elders.”",
+      "severity": "major",
+      "source": "“허어어. 어린 노무 새끼가 어른한테 말본새 보소.”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "When even the Beast Miao King, their final lifeline, looked off toward a distant mountain, the priests immediately slammed their heads to the floor and swore that from then on, they would keep their mouths shut about the Earth Mother Goddess no matter what.",
+      "defect": "“Slammed their heads” depicts a forceful impact absent from the punishment posture expressed by 대가리를 박고.",
+      "id": "F06",
+      "rationale": "The phrase means assuming the ordered heads-down posture, not striking their heads against the floor.",
+      "replacement": "When even the Beast Miao King, their final lifeline, looked off toward a distant mountain, the priests immediately got down with their heads to the floor and swore that from then on, they would keep their mouths shut about the Earth Mother Goddess no matter what.",
+      "severity": "minor",
+      "source": "마지막 동아줄인 야수묘왕마저 먼 산을 쳐다보자, 제사장들은 망설임 없이 대가리를 박고 앞으로 대지모신에 관해서는 무조건 입 닥치고 있을 것을 맹세했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Fame of the Fire King Jeok Cheongang—or rather, his temper—was well known not only in the Central Plains but also throughout Nanman.",
+      "defect": "The ordinary noun “fame” is incorrectly capitalized.",
+      "id": "F07",
+      "rationale": "명성 is an ordinary common noun here, not a named rank or defined proper term.",
+      "replacement": "The fame of the Fire King Jeok Cheongang—or rather, his temper—was well known not only in the Central Plains but also throughout Nanman.",
+      "severity": "minor",
+      "source": "화왕 적천강의 명성, 아니 성질머리는 중원뿐만이 아니라 남만에도 익히 잘 알려져 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was a fantastic collaboration between the priests, who didn’t want their rice bowls taken away, and the Beast Miao King, who wanted to unify Nanman completely.",
+      "defect": "The Korean livelihood idiom is carried over literally, producing unnatural English without preserving any necessary wordplay.",
+      "id": "F08",
+      "rationale": "밥그릇을 빼앗기다 means losing one’s livelihood or institutional position, not the physical loss of bowls.",
+      "replacement": "It was a fantastic collaboration between the priests, who didn’t want to lose their livelihoods, and the Beast Miao King, who wanted to unify Nanman completely.",
+      "severity": "minor",
+      "source": "밥그릇 빼앗기기 싫은 제사장들과 완전한 남만 통합을 원하는 야수묘왕이 손잡고 벌이는 환상의 콜라보레이션."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The people began squeezing their brains for material like webnovel authors with a deadline right in front of them.",
+      "defect": "“Squeezing their brains for material” is an unnatural calque and weakens 설정 into generic material rather than the religion’s invented lore.",
+      "id": "F09",
+      "rationale": "머리를 싸매고 설정을 쥐어짜다 describes desperately wringing out ideas for a fictional setting or body of lore.",
+      "replacement": "The people began racking their brains to cobble together the lore like webnovel authors staring down an imminent deadline.",
+      "severity": "minor",
+      "source": "사람들은 마감이 코앞에 닥친 웹소설 작가처럼 머리를 싸매고 설정을 쥐어짜기 시작했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Beneath the rain that the benevolent Earth Mother Goddess had bestowed upon the land as a blessing, people cried out for judgment, and the executioner’s blade flashed.",
+      "defect": "The draft omits that the rain had come to be called the Sacred Rain and collapses the source’s emphatic blessing fragment.",
+      "id": "F10",
+      "rationale": "성우 is a newly established in-world name for the miraculous rain and is explicit worldbuilding information rather than optional ornament.",
+      "replacement": "The blessing the benevolent Earth Mother Goddess had bestowed upon this land.\n\nBeneath the rain, which at some point had come to be called the Sacred Rain, the people cried out for judgment, and the executioner’s blade flashed.",
+      "severity": "major",
+      "source": "자애로우신 대지모신께서 이 땅을 위해 내리신 축복.\n\n언제부턴가 성우(聖雨)라 불리게 된 빗줄기 아래에서 사람들은 심판을 부르짖었고, 망나니의 칼이 번뜩였다."
+    }
+  ],
+  "summary": "One meaningful worldbuilding term is omitted, the council is opened rather than summoned, and several localized subject, action, register, and phrasing issues remain.",
+  "version": 1
+}

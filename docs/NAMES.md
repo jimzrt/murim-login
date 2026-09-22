@@ -2146,3 +2146,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대지모신 | **Earth Mother Goddess** | New deity proclaimed by Jin Taekyung as Nanman's One God. |
 | 목신 | **Wood God** | A local deity worshiped by one Nanman believer. |
 | 화신 | **Fire God** | A local deity worshiped by one Nanman believer. |
+| 모신천국 | **Mother Goddess Heaven** | Slogan used by followers of the Earth Mother Goddess. |
+| 불신지옥 | **Unbeliever Hell** | Slogan threatening unbelievers with damnation. |
+| 성우 | **Sacred Rain** | Name later given to the rain released as the Earth Mother Goddess's blessing. |
+| 성경 | **Bible** | Proposed scripture containing Nanman's history and the word of God. |
