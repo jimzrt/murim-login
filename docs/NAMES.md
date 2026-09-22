@@ -2015,3 +2015,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천독불침 | **Myriad-Poison Immunity** | Jin's trait that reduces the Poison Mist penalty. |
 | 독무 | **Poison Mist** | Deep green mist covering the Poisonblood Grounds swamp. |
 | 미약한 중독 | **Mildly Poisoned** | Status abnormality caused by the Poison Mist. |
+| 야율 | **Yayul** | Name used in Taekyung's colloquial address to the Beast Miao King. |
+| 수왕석 | **Beast King Stone** | Legendary sacred treasure of the Nanman Beast Palace. |
+| 천년지주 | **Thousand-Year Spider** | Monster appearing at the end of the chapter. |

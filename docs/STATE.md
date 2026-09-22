@@ -1,29 +1,30 @@
 # Translation State
 
-- Last completed: 636
-- Next chapter: 637
-- Current block: 635–639 (2/5)
-- Latest translation: `translations/0636.md`
-- Latest summary: `summaries/beats/0636.md`
-- Safe profiles through: chapter 636
+- Last completed: 637
+- Next chapter: 638
+- Current block: 635–639 (3/5)
+- Latest translation: `translations/0637.md`
+- Latest summary: `summaries/beats/0637.md`
+- Safe profiles through: chapter 637
 
 ## Current Block
 
-- Jin Taekyung and the Beast Miao King pursued the Black Tiger into the hidden Poisonblood Grounds, a deadly region created by the Five Poisons Sect inside Ailao Mountain. After learning that every elite Nanman expedition sent there had perished, they entered the poisonous swamp together. The Poison Mist afflicted them with Mildly Poisoned, but Jin removed his status abnormality with the Myriad-Poison Ring and gave the Beast Miao King a High-Grade Poison-Warding Pearl. The System completed Jin's investigation and omen Quests, awarded him items and an Achievement, and generated the chain Quest My Good Sir, Do Not Cross That Swamp, which he accepted.
+- Jin Taekyung and the Beast Miao King cross the Poisonblood Grounds swamp under Poison Mist, fighting deadly creatures while relying on Jin's Myriad-Poison Ring and the Beast Miao King's poison-warding pearl. After the swamp, Jin learns that the Nanman Beast Palace's rumored sacred treasure, the Beast King Stone, supposedly commands every ferocious beast, though its existence is uncertain and its disappearance is tied to the founding conflict with the Five Poisons Sect. In the dense Poison Mist, they investigate a human scream, find a dead Bai warrior wrapped in sticky thread, and are surrounded by creatures descending from a gigantic tree: Thousand-Year Spiders.
 
 ## Open Questions
 
+- Why was a Bai warrior inside the Poisonblood Grounds, and what killed him?
+- What are the Thousand-Year Spiders, and how dangerous is the surrounding swarm?
 - What lies deeper inside the Poisonblood Grounds?
-- Can Jin and the Beast Miao King cross the poisonous swamp and survive the inner region?
-- What caused the earlier Nanman expeditions, including Baeksang's grandfather, to be completely wiped out?
-- Is Dark Heaven or the Southern Heaven Demon Empress connected to what awaits inside the Poisonblood Grounds?
+- Is Dark Heaven's Nanman objective connected to the Beast King Stone or another sacred treasure?
 
 ## Exceptional Decision
 
 - Use Poisonblood Grounds for 독혈지.
-- Use Beast Bai King for 야수백왕.
-- Use Myriad-Poison Immunity for 천독불침.
-- Retain the colloquial wording of My Good Sir, Do Not Cross That Swamp for the chain Quest title.
+- Use Beast King Stone for 수왕석.
+- Use Thousand-Year Spider for 천년지주.
+- Use Mr. Yayul for 야율 씨 in colloquial dialogue.
+- Retain My Good Sir, Do Not Cross That Swamp for the chain Quest title.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
