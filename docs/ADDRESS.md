@@ -1195,3 +1195,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 후긴 | 진태경 | Odin Guild messenger to an Ares Guild ally and adversary | Mr. Jin | formal-polite, increasingly coercive | Huginn addresses Jin while questioning his presence and later warns him not to lose his temper. |
 | 후긴 | 최민우 | Odin Guild messenger to Ares Guild's new master | Mr. Choi | formal-polite, diplomatic, and threatening | Huginn asks Choi to choose personally whether to stop the Mana Cultivation Method's release. |
 | 진태경 | 후긴 | Ares Guild ally to an Odin Guild messenger and adversary | Mr. Crow | insulting-casual and profane | Jin uses the crow nickname while mocking Huginn's theatrics and threatening posture. |
+| 진태경 | 최 팀장 | junior guild member to senior manager and trusted ally | Team Leader Choi | polite and familiar | Jin repeatedly addresses Team Leader Choi formally while asking his opinion and coordinating the public release. |
+| 최 팀장 | 진태경 | senior manager to trusted subordinate and ally | Mr. Jin Taekyung | formal-polite | Team Leader Choi addresses Jin as 진태경 씨 while requesting the file and explaining that Jin is his Joker card. |
+| 최 팀장 | 후긴 | guild authority to Odin Guild messenger and adversary | Mr. Huginn | formal and controlled | Team Leader Choi uses a restrained warning to stop Huginn from escalating. |
