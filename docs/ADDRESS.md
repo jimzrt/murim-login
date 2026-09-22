@@ -1090,3 +1090,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 백호 | human ally to intelligent spiritual beast | you | casual and familiar | Converses with White Tiger after interpreting its warning. |
 | 진태경 | 야율 대협 | companion_to_ally | Great Hero Yayul | familiar and irreverent but respectful | Jin repeatedly addresses the Beast Miao King as 야율 대협 while using polite speech and joking familiarity. |
 | 야수묘왕 | 진태경 | senior allied master to younger allied master | you | informal and cautionary | Warns Taekyung not to lower his guard and to be careful while crossing the swamp. |
+| 야율목 | 야수묘왕 | son_to_father | Father | formal and deferential | Yayul Mok calls out to the Beast Miao King after the rescue party arrives. |
+| 흑웅 | 백상 | younger_great_chieftain_to_senior_great_chieftain | Uncle Baek | deferential and nervous | Heugung addresses Baeksang as 백 숙부 after being confronted by his icy stare. |
+| 백상 | 장 족장 | great_chieftain_to_subordinate_tribal_chieftain | Chief Jang | cold, formal, and intimidating | Baeksang sarcastically tells Chief Jang to continue the conversation after entering the hall. |

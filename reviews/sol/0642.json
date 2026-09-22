@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "By the time the hundred elite warriors who had hurried to Ailao Mountain returned to the Nanman Beast Palace in the dead of night, dawn was just beginning to break. And there were no shortage of people who witnessed their return.",
+      "defect": "The draft says the warriors returned in the dead of night while dawn was breaking. The source first establishes that everyone slept through the deep night, then states that the warriors returned around daybreak.",
+      "id": "F01",
+      "rationale": "This preserves the source’s sequence and removes the contradictory timing assigned to the warriors’ return.",
+      "replacement": "Deep in the night, while everyone slept, the hundred elite warriors who had hurried to Ailao Mountain were still on their way back. By the time they returned to the Nanman Beast Palace, dawn was breaking, and quite a few people witnessed their arrival.",
+      "severity": "critical",
+      "source": "모두가 잠든 깊은 밤. 긴급히 애뇌산으로 향했던 일백의 최정예 전사가 남만야수궁으로 귀환했을 때는 동이 틀 무렵이었고, 그런 그들의 모습을 목격한 이들의 숫자는 적지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was the gist of the rumor that spread rapidly with the morning sunlight.",
+      "defect": "“That was” points backward to the preceding joke about old man Mong, whereas the source introduces the account that follows as the substance of the rumor.",
+      "id": "F02",
+      "rationale": "The Korean is a forward-looking transition into the subsequent summary of the night’s events.",
+      "replacement": "The gist of the rumor that spread rapidly with the morning sunlight was as follows.",
+      "severity": "major",
+      "source": "아침 햇살과 함께 빠르게 퍼져 나간 소문의 골자는 이랬다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "- **Quest**, **My Good Sir, Do Not Cross That Swamp**, has been successfully completed!",
+      "defect": "“My Good Sir” misreads 님아 as a formal male address and loses the title parody of “My Love, Don’t Cross That River.”",
+      "id": "F03",
+      "rationale": "The replacement preserves the affectionate address, recognizable title cadence, and swamp substitution that creates the joke.",
+      "replacement": "- **Quest: My Love, Don’t Cross That Swamp** has been successfully completed!",
+      "severity": "major",
+      "source": "- 퀘스트, [님아, 그 늪을 건너지 마오]를 성공적으로 완수했습니다!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Baeksang glanced at the bowing loyal dog, then turned his gaze toward the middle-aged chieftain.",
+      "defect": "“Bowing” weakens 굽실거리는, which depicts the chieftain groveling or acting obsequiously and reinforces Baeksang’s contemptuous loyal-dog framing.",
+      "id": "F04",
+      "rationale": "The source emphasizes servility rather than merely a respectful bow, making the hierarchy and characterization materially sharper.",
+      "replacement": "Baeksang cast a sidelong glance at the groveling loyal dog, then fixed his gaze on the middle-aged chieftain.",
+      "severity": "major",
+      "source": "굽실거리는 충견을 힐끗 바라본 백상이 중년의 부족장을 응시했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "As if he had read the thought that surfaced in my mind, the Beast Miao King stroked White Tiger’s belly while it performed all manner of tricks and asked,",
+      "defect": "재롱을 피우다 means acting cute or ingratiating oneself, not performing a series of tricks.",
+      "id": "F05",
+      "rationale": "The replacement preserves White Tiger’s affectionate, attention-seeking behavior without inventing trained tricks.",
+      "replacement": "As if he had read the thought that surfaced in my mind, the Beast Miao King stroked White Tiger’s belly while it did its utmost to charm him and asked,",
+      "severity": "minor",
+      "source": "내 머릿속에 떠오른 생각을 읽은 듯, 한껏 재롱을 피우는 백호의 배를 쓰다듬어 주던 야수묘왕이 물었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "There were anywhere from several dozen to a hundred of them.",
+      "defect": "The pronoun leaves the counted object unclear; the source explicitly counts the torches just mentioned.",
+      "id": "F06",
+      "rationale": "Naming the torches preserves the source’s visual count and avoids a momentary possible reference to people.",
+      "replacement": "The torches numbered roughly several dozen to a hundred.",
+      "severity": "minor",
+      "source": "그 개수가 어림잡아 수십에서 일백."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even more so because there were not one, but five.",
+      "defect": "The singular agreement in “not one” is awkward because the omitted count noun is plural in context.",
+      "id": "F07",
+      "rationale": "This states the same quantity contrast in natural contemporary English.",
+      "replacement": "Even more so when there were five of them, not just one.",
+      "severity": "minor",
+      "source": "하나도 아니고 다섯 마리라는 부분에서는 더더욱."
+    },
+    {
+      "confidence": 0.98,
+      "current": "One of the chieftains, who had worn an unpleasant expression ever since Jin Taekyung was mentioned, had slammed his fist against the stone table.",
+      "defect": "The draft specifies a fist, but the source only says that he struck the stone table.",
+      "id": "F08",
+      "rationale": "The replacement retains the forceful interruption without inventing which part of his hand or body hit the table.",
+      "replacement": "One of the chieftains, who had worn an unpleasant expression ever since Jin Taekyung was mentioned, had struck the stone table.",
+      "severity": "minor",
+      "source": "부족장 하나가 돌탁자를 두드린 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "- You have achieved the extremely rare **How'd You Get Back?**!",
+      "defect": "The draft omits that the named reward is an Achievement and intensifies 매우 희귀한 from “very rare” to “extremely rare.”",
+      "id": "F09",
+      "rationale": "The replacement restores the System category and matches the source’s degree of rarity.",
+      "replacement": "- You have earned the very rare **Achievement: How’d You Get Back?**!",
+      "severity": "minor",
+      "source": "- 매우 희귀한 업적, [어케 돌아왔누]를 달성하셨습니다!"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*Clop. Clop.*",
+      "defect": "“Clop” conventionally suggests hooves or hard-soled tapping rather than the deliberate human footsteps described here.",
+      "id": "F10",
+      "rationale": "The heavier footstep sound better matches the cold, intimidating entrance without implying that the figures are hoofed.",
+      "replacement": "*Thud. Thud.*",
+      "severity": "minor",
+      "source": "저벅. 저벅."
+    }
+  ],
+  "summary": "The draft contains one contradictory timeline statement, one misdirected narrative transition, and several localized losses or additions affecting humor, characterization, and physical action.",
+  "version": 1
+}

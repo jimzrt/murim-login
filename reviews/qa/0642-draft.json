@@ -1,0 +1,47 @@
+{
+  "chapter": 642,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.268,
+    "source_characters": 5566,
+    "source_paragraphs": 130,
+    "translation_characters": 12622,
+    "translation_paragraphs": 130
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "장일",
+        "preferred": "Jang Il"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "성하",
+        "preferred": "Seongha"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
