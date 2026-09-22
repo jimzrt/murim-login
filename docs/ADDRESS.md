@@ -1108,3 +1108,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 흑웅 | 진태경 | Nanman great chieftain to Central Plains ally and covert contact | you | cautious and informal | Heugung uses 자네 in private Sound Transmission while explaining the missive and Baeksang's alleged collusion. |
 | 진태경 | 흑웅 | Central Plains investigator to covert informant and prospective witness | Heugung | blunt and confrontational | Jin questions Heugung's reliability, challenges his claims, and demands proof. |
 | 태산 | 각주 | Fire Dragon Pavilion member to pavilion master | Pavilion Master | clipped, childlike, and informal | Taishan directly asks Jin whether his Lord Sama Pyo is safe. |
+| 백상 | 우투리 | great chieftain to summoned Bai elder and eyewitness | Utu-ri | formal and investigative | Baeksang questions Utu-ri about whether he recognizes Jin and what he observed at the noodle shop. |

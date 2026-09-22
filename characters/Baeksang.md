@@ -1,6 +1,6 @@
 # Baeksang (백상)
 
-- **Safe through:** Chapter 656
+- **Safe through:** Chapter 657
 - **Aliases:** None
 - **Role:** Baeksang is the middle-aged great chieftain of the Bai people, one of Nanman's four most powerful great tribes, and one of only two Supreme Peak masters in Nanman.
 - **Personality:** Cold, rigid, meticulous, politically resolute, and strategically manipulative, with a deep but guarded attachment to his sworn elder brother.
