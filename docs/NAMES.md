@@ -1988,3 +1988,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 진드로 | **Jindro** | Taekyung's comic self-styled nickname for a fisherman who catches people. |
 | 황개 | **Hwang Gae** | Manager of a pavilion within the Nanman Beast Palace. |
 | 똥개 | **Ddong Gae** | Taekyung's mocking misremembering of Hwang Gae's name. |
+| 이족 | **Yi people** | One of Nanman's four great tribes. |
+| 요족 | **Yao people** | One of Nanman's four great tribes, led by Yohi. |
+| 요희 | **Yohi** | Female great chieftain of the Yao people. |

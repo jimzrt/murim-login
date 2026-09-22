@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Only a few decades ago, we united and risked our lives fighting for the Han Chinese. But now, you’ve turned your swords on us.”",
+      "defect": "The repeated transition hook does not match Chapter 627’s closing line and changes Yayul Mok’s direct accusation that Han Chinese killed Nanman people into the more figurative claim that they turned their swords on them.",
+      "id": "C01",
+      "rationale": "Matching the repeated line preserves a seamless chapter transition and avoids altering the force and specificity of the accusation.",
+      "replacement": "“Only a few decades ago, we united and risked our lives fighting for the Han Chinese. And now, you killed some of us.”",
+      "severity": "minor",
+      "source": "Chapter 628, opening line repeated from the end of Chapter 627"
+    },
+    {
+      "confidence": 0.98,
+      "current": "—Grrr…",
+      "defect": "The growl is presented as an unitalicized dialogue-style line, unlike the italicized animal sounds and sound effects used elsewhere in the packet.",
+      "id": "C02",
+      "rationale": "This restores the packet’s established sound-effect formatting and avoids making the growl look like spoken dialogue.",
+      "replacement": "*Grrr…*",
+      "severity": "minor",
+      "source": "Chapter 628, Yayul Mok’s white tiger reacting to Jin Taekyung"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Yohi has noticed Jin Taekyung in the crowd and her eyes lit up when she recognized him.",
+      "defect": "The state asserts that Yohi recognized Jin Taekyung, but the chapter establishes only that her eyes found the tiger-masked figure and lit up. Confirmed recognition is neither stated nor explained and may prematurely resolve the closing hook.",
+      "id": "C03",
+      "rationale": "The replacement records the observable event without adding certainty about recognition or spoiling the unresolved reason for Yohi’s reaction.",
+      "replacement": "Yohi noticed the tiger-masked Jin Taekyung in the crowd, and her eyes lit up when they found him.",
+      "severity": "major",
+      "source": "Durable state, active_continuity final entry"
+    }
+  ],
+  "summary": "The packet is broadly consistent in voice and terminology, but the 627–628 transition rephrases a repeated hook, one animal sound breaks the packet’s established formatting, and the active state prematurely asserts that Yohi recognized Taekyung despite his mask.",
+  "version": 1
+}
