@@ -1,29 +1,28 @@
 # Translation State
 
-- Last completed: 616
-- Next chapter: 617
-- Current block: 615–619 (2/5)
-- Latest translation: `translations/0616.md`
-- Latest summary: `summaries/beats/0616.md`
-- Safe profiles through: chapter 616
+- Last completed: 617
+- Next chapter: 618
+- Current block: 615–619 (3/5)
+- Latest translation: `translations/0617.md`
+- Latest summary: `summaries/beats/0617.md`
+- Safe profiles through: chapter 617
 
 ## Current Block
 
-- Using secret shortcuts preserved by the horse caravans and remembered from the Escort King's records, the Fire Dragon Pavilion expedition carries its horses through steep and buried mountain roads, crosses Hubei, and reaches Sichuan at remarkable speed. Jin Taekyung carries two horses himself, while Taishan carries three and briefly suggests eating one. Jin sincerely praises Ju Hwaran's route expertise, causing her to flee under the pretext of feeding the horses. Song Ilseom reveals that his treasured willow-leaf saber was given to him when he was a twelve-year-old sword boy and that he used it for his first killing; he then warns Jin that Ju Hwaran has suffered greatly and should not be hurt or allowed to die pointlessly. Before Jin can determine whether Song's concern exceeds his paid escort duty, Water Dragon Stronghold's swift ships emerge from the fog on the Yangtze.
+- The Fire Dragon Pavilion boards swift ships from Water Dragon Stronghold and begins traveling down the Yangtze toward Yunnan and Nanman. Mu Song is absent at the Yangtze River Channel League headquarters under Seafaring King Pa Ryun's summons, but he ordered his subordinates to aid Jin Taekyung and the Jin Family of Taiyuan in repayment for past help, including the matter of the late Yangtze One Saber Hwang.
+- During the voyage, the Water Dragon Stronghold's reformed water bandits still repeatedly display their old plundering instincts, while Taekyung keeps them under control. Hyuk Mujin fishes with Taishan to empty his mind and trains nightly. As Nanman draws near, Taekyung's Peak-grade Journey to Nanman Quest remains incomplete, and he tells the anxious Ju Hwaran that the group will return home safely; she says she will trust him.
 
 ## Open Questions
 
-- Who is aboard the Water Dragon Stronghold's swift ships, and will they transport the expedition?
-- Why does Ju Hwaran flee whenever Jin Taekyung sincerely praises her?
-- Is Song Ilseom's commitment to Ju Hwaran more than paid escort duty?
+- What dangers or scheme, if any, await the Fire Dragon Pavilion in Nanman?
+- What role will Pa Ryun and the Yangtze River Channel League play while Mu Song is summoned to headquarters?
 
 ## Exceptional Decision
 
 - Use horse caravans for 마방 and Pavilion Master for 화룡각주 and 각주.
 - Use Young Lady Ju for 주 소저.
 - Preserve Taishan's clipped, childlike speech.
-- Render 금분세수 as golden-basin handwashing with a retirement-ritual footnote.
-- Render 불밥 할아버지 as Fire-Rice Grandpa.
+- Use Judge Bao for 판관 포청천.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
