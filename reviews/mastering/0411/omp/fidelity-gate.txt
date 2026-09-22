@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but four minor source-fidelity issues remain: one capability-to-willingness shift, one added physical comparison, one strengthened survival implication, and one altered temporal relationship.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Source line 75",
+      "current": "I’d be willing to go even further. This is truly…",
+      "defect": "The source says he is capable of doing more than that, not merely willing to do so. The change weakens the cheeky escalation of the joke.",
+      "replacement": "I can do even more than that. This is truly…",
+      "rationale": "가능합니다 means 'can' or 'is capable of,' while willingness is already expressed in the preceding exchange.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Source lines 223-224",
+      "current": "Wind, weapons, and the bodies of monsters harder than stone.",
+      "defect": "The English adds a specific comparison to stone that the source does not establish.",
+      "replacement": "Wind, weapons, and the incredibly hard bodies of monsters.",
+      "rationale": "단단하기 그지없는 means extremely or unbelievably hard, without naming stone as the comparison.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Source lines 275-277",
+      "current": "I could get myself out of danger easily enough, but the other members of the suicide squad might not survive.",
+      "defect": "The current line strengthens the source from lives being endangered to an implication that the members may die. It also shifts the focus from risk to survival outcome.",
+      "replacement": "Getting myself out would not be difficult, but the other members of the suicide squad would be putting their lives at risk.",
+      "rationale": "목숨이 위험해지니까 states that their lives would be in danger, not that they necessarily would fail to survive.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Source line 279",
+      "current": "Our final destination is just ahead. Minimize casualties, then join up with Lee Jungryong and Wu Heixing.",
+      "defect": "Then imposes a sequential plan that is absent from the source. The source presents joining up with them while minimizing casualties.",
+      "replacement": "Our final destination is just ahead. Minimize casualties while joining up with Lee Jungryong and Wu Heixing.",
+      "rationale": "사상자를 최대한 줄이면서 ... 합류한다 expresses simultaneous action or manner, not completing casualty reduction before joining.",
+      "confidence": 0.9
+    }
+  ]
+}

@@ -14,7 +14,7 @@ And then…
 
 *Qi.*
 
-I could feel it—the immense movement of qi surrounding an area several hundred meters in every direction. As a red alarm began blaring in my head, I kicked off the ground and shot upward.
+I could feel it—the immense flow of qi encircling an area hundreds of meters across. As alarm bells blared in my head, I kicked off the ground and shot upward.
 
 “Get clear—!”
 
@@ -36,13 +36,13 @@ The countless wars recorded throughout human history had served as witness, pros
 
 Even humans committed all kinds of horrific atrocities against one another during war. Expecting compassion from monsters that weren’t even human was laughable.
 
-That was why vigilance was an essential virtue in war. It reduced the chances of falling into an enemy’s trap and minimized casualties.
+That was why vigilance was essential in war. It reduced the chances of falling into an enemy’s trap and kept casualties to a minimum.
 
 Just like now.
 
 *Tap.*
 
-I landed lightly and reached out my hand.
+I landed lightly and reached out.
 
 *Bang!*
 
@@ -52,7 +52,7 @@ Familiar faces finally emerged from among the blood and corpses covering the gro
 
 “Team Leader Choi.”
 
-Team Leader Choi took a deep breath and nodded. Behind him stood more than two hundred members of the suicide squad, their faces pale with terror.
+Team Leader Choi took a deep breath and nodded. Behind him stood the two hundred members of the suicide squad, their faces pale with terror.
 
 “A few people are injured…but everyone made it.”
 
@@ -72,7 +72,7 @@ It covered every member of the suicide squad—a Barrier spell painstakingly ins
 
 “At this point, there’s nothing I wouldn’t do.”
 
-Shao Shen exhaled the breath he had been holding and joined in.
+Shao Shen finally released the breath he had been holding.
 
 “I’d be willing to go even further. This is truly…”
 
@@ -80,19 +80,19 @@ Unable to finish, he looked around.
 
 The explosion had been that tremendous. By even the roughest estimate, more than a thousand monsters had been killed or rendered incapable of fighting.
 
-A trap that had not distinguished friend from foe. The Arch Lich had thrown countless subordinates into it as kindling to catch me and the suicide squad.
+A trap that made no distinction between friend and foe. The Arch Lich had thrown countless subordinates into the fire as kindling, all to catch me and the suicide squad.
 
 *Look at this bastard…*
 
-I had expected as much to some extent, but the Arch Lich’s cunning and boldness went beyond anything I had imagined.
+I had expected something like this, but the Arch Lich’s cunning and ruthlessness went beyond anything I had imagined.
 
-If my signal had been even slightly late, or if I had not volunteered to be bait while breaking through the path ahead, every member of the suicide squad would have been buried here.
+If my warning had come even a little later, or if I hadn’t gone ahead to clear the way and act as bait, every member of the suicide squad would have left their bones here.
 
 *Just like that day.*
 
 A memory I would never forget. A tragedy that could never be allowed to happen again.
 
-I turned and spoke.
+I turned around.
 
 “Keep your distance and follow me. Our objective isn’t to fight the monsters. It’s to break through them.”
 
@@ -150,11 +150,11 @@ How could it forget?
 
 The single human who had stood at the center of everything. The suicide squad that had risked death to charge alongside the Adversary.
 
-*That bastard was the one who drove a sword into my body.*
+*He was the one who drove a sword into my body.*
 
 The Arch Lich looked down at its body of pitch-black bone.
 
-In the past, it had not been some lowly existence like an undead. It had been a noble and mighty being, trusted by a king and commanding countless monsters.
+In the past, it had not been one of the lowly undead. It had been a noble and mighty being, trusted by a king and commanding countless monsters.
 
 But on the day of the final battle, it too had fallen alongside its king.
 
@@ -168,9 +168,9 @@ It had surveyed every front through its Familiars, yet the Adversary, who should
 
 *Could it be?*
 
-The Arch Lich’s eyes flared violently as it realized something.
+The Arch Lich’s eyes flared violently as a possibility occurred to it.
 
-It was impossible to believe.
+It was almost impossible to believe.
 
 But what if—what if the Adversary had died?
 
@@ -186,7 +186,7 @@ Sensing the change in their master’s mood, the guards dropped to the ground an
 
 “My lord.”
 
-“Why do you laugh so?”
+“What has happened?”
 
 The guards were an impressive sight. Death Knights, each comparable to a Named Monster, stood alongside Liches with robes pulled low over their heads. Altogether, they numbered twenty.
 
@@ -194,13 +194,13 @@ They were creations made to fight the Adversary.
 
 But now, the Arch Lich had changed its mind.
 
-After laughing with delight, the Arch Lich finally spoke.
+After laughing with delight, it finally spoke.
 
 “Listen, my faithful servants.”
 
 “Give us your command.”
 
-The Arch Lich rose from its seat and looked down upon its loyal retainers. A chilling voice soon echoed through the space.
+The Arch Lich rose from its seat and looked down upon its loyal retainers. Its chilling voice echoed through the space.
 
 “Go to the battlefield. Trample those insignificant humans and wipe them out.”
 
@@ -234,7 +234,7 @@ And yet, because of that insignificant human, it had lost its greatest fighting 
 
 “He irritates me. I should dispose of him properly while I have the chance.”
 
-Having decided to eliminate him, the Arch Lich sent out a thought.
+Having decided to eliminate him, the Arch Lich sent out a mental command.
 
 Half of the guards heading toward the various fronts changed direction at their lord’s order.
 
@@ -242,19 +242,19 @@ Half of the guards heading toward the various fronts changed direction at their 
 
 *Kra-d-d-d-d-k!*
 
-Wind, weapons, and the bodies of monsters harder than stone.
+Wind, weapons, and the monstrously tough bodies of our enemies.
 
 Everything caught in the spearhead’s path was cut apart.
 
 Heads flew into the air, and thick limbs spun through the sky.
 
-A Troll that was still breathing was chopped to pieces before it had a chance to regenerate. An ogre that had become undead while still half-rotten staggered, only for a sword that came flying a moment later to take off its upper body.
+A Troll that was still breathing was chopped to pieces before it had a chance to regenerate. A half-rotten undead ogre staggered, only for the sword that followed to sever its upper body.
 
 *Slash! Slash! Slash!*
 
 After cutting down three or four monsters in an instant with Hero’s Soul, Team Leader Choi shouted to me.
 
-“Mr. Jin Taekyung! The monster assault is too strong!”
+“Mr. Jin Taekyung! Their assault is too strong!”
 
 He was right. Once we broke through the front line, the number of monsters decreased, but those that remained were far stronger.
 
@@ -262,7 +262,7 @@ He was right. Once we broke through the front line, the number of monsters decre
 
 The monsters at the front, used as kindling for the Magic Trap meant to catch us, had mostly been mid- or low-level.
 
-The Arch Lich had placed its elites in the rear and used the other monsters as both bait and meat shields.
+The Arch Lich had stationed its elites in the rear and used the rest as bait and meat shields.
 
 *To wear us down.*
 
@@ -278,9 +278,9 @@ Of course…
 
 *Whoooosh! Bang!*
 
-My spear lashed out with all my strength, skewering six or seven monsters like meat on a skewer.
+My spear lashed out with all my strength, skewering six or seven monsters in a row.
 
-Shao Shen and the Hunters in the suicide squad, having escaped the crisis, gave me grateful looks.
+Shao Shen and the suicide-squad Hunter I had just saved shot me grateful looks.
 
 “Everyone, group up around me!”
 
@@ -306,11 +306,11 @@ I was at the front, cutting a path through the monsters and beginning to feel fa
 
 “All. Of. You. Fall. Back!”
 
-“Human. By my lord’s command, I shall take my own life.”
+“Human. By my lord’s command, I shall take your life.”
 
-The curtain of monsters split apart to the left and right like the parting of the Red Sea.
+The wall of monsters parted left and right like the miracle of Moses.
 
-I stared blankly, my mouth hanging open, as the beings behind it revealed themselves.
+I stared blankly, my mouth hanging open, as the beings behind them revealed themselves.
 
 > **System**
 > - **Lv. 120 Darkened Lich**

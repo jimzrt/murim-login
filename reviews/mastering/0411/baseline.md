@@ -24,17 +24,17 @@ A flash of light was followed by a tremendous roar that shook heaven and earth. 
 
 The area within a radius of several hundred meters, centered on the spot where I had been standing only a few seconds earlier, had been devastated.
 
-Through the lingering fog and billowing dust, I could see green blood coating the ground and monster corpses blown to pieces.
+Through the fog that had not yet dissipated and the clouds of dust rising from the ground, I could see green blood covering the earth and monster corpses blown to pieces.
 
 *A Magic Trap.*
 
-Fighting an enemy who refused to show itself meant preparing for anything.
+Fighting an enemy who refused to show itself meant preparing for every situation that could possibly occur.
 
 *There’s no compassion in war.*
 
-The countless wars recorded throughout human history had served as witness, prosecutor, and judge.
+The countless wars recorded throughout human history were witness, prosecutor, and judge.
 
-Even humans committed all kinds of horrific atrocities against one another during war. Expecting compassion from monsters that weren’t even human was laughable.
+Even humans committed all kinds of horrific atrocities against one another during war. Expecting compassion from monsters that were not even human was laughable.
 
 That was why vigilance was an essential virtue in war. It reduced the chances of falling into an enemy’s trap and minimized casualties.
 
@@ -46,15 +46,15 @@ I landed lightly and reached out my hand.
 
 *Bang!*
 
-Compressed air burst outward, scattering the dust clouds.
+Compressed air burst outward, scattering the clouds of dust.
 
-Familiar faces finally emerged from among the blood and corpses covering the ground.
+Among the blood and corpses filling every direction, familiar faces finally emerged.
 
 “Team Leader Choi.”
 
 Team Leader Choi took a deep breath and nodded. Behind him stood more than two hundred members of the suicide squad, their faces pale with terror.
 
-“A few people are injured…but everyone made it.”
+“A few people are injured…but everyone’s safe.”
 
 “That’s a relief.”
 
@@ -64,21 +64,21 @@ Team Leader Choi took a deep breath and nodded. Behind him stood more than two h
 
 Team Leader Choi reached out and touched the transparent barrier spread out before him.
 
-It covered every member of the suicide squad—a Barrier spell painstakingly inscribed into a scroll by one of the three greatest mages among billions of people.
+It covered every member of the suicide squad, and it was a Barrier spell painstakingly engraved into a scroll by one of the top three mages among the billions of people in the world.
 
 “When the battle is over, I should find Mr. Johnson first. His magic saved our lives.”
 
-“Are you planning to thank him with a kiss?”
+“Are you planning to give him a kiss as thanks?”
 
-“At this point, there’s nothing I wouldn’t do.”
+“If you’re asking what I feel like doing right now, there’s nothing I wouldn’t do.”
 
 Shao Shen exhaled the breath he had been holding and joined in.
 
-“I’d be willing to go even further. This is truly…”
+“I’m capable of more than that. This is truly…”
 
-Unable to finish, he looked around.
+He could not finish and simply looked around.
 
-The explosion had been that tremendous. By even the roughest estimate, more than a thousand monsters had been killed or rendered incapable of fighting.
+The explosion had been that tremendous. In its aftermath, more than a thousand monsters had been killed or rendered incapable of fighting.
 
 A trap that had not distinguished friend from foe. The Arch Lich had thrown countless subordinates into it as kindling to catch me and the suicide squad.
 
@@ -90,7 +90,7 @@ If my signal had been even slightly late, or if I had not volunteered to be bait
 
 *Just like that day.*
 
-A memory I would never forget. A tragedy that could never be allowed to happen again.
+A memory I could never forget. A tragedy like that could never happen again.
 
 I turned and spoke.
 
@@ -98,19 +98,19 @@ I turned and spoke.
 
 The suicide squad answered with a thunderous shout.
 
-The monster army, thrown into chaos after suddenly losing so many of its own in the explosion, hesitated and began to retreat.
+The monster army, confused after suddenly losing a large number of its forces in the explosion, hesitated and began to retreat.
 
-A crisis had become an opportunity. We couldn’t let this momentum slip away.
+This was the moment when a crisis became an opportunity. We could not let the momentum slip away.
 
 “Charge!”
 
-I unleashed an azure dragon’s roar infused with internal energy and shot forward.
+With an azure dragon’s roar charged with internal energy, I shot forward.
 
 *Slash!*
 
 The head of a retreating monster flew into the air.
 
-The two hundred members of the suicide squad drove into the gap left in the monster army like an awl. The main force behind them surged forward like a wave.
+The two hundred members of the suicide squad drove into the gap in the monster army like an awl. The main force in the rear followed behind them, surging forward like a wave.
 
 “Waaaaaaaaah!”
 
@@ -118,21 +118,21 @@ A deafening roar shook the battlefield.
 
 Green blood spread through the fog.
 
-And far above, a flock of crows circled as they watched the battlefield below.
+And high above, a flock of crows circled as they looked down upon the battlefield.
 
 * * *
 
-The being sitting atop a throne of white bones, as if asleep, suddenly opened its eyes.
+The being sitting atop a throne made of white bones, as if asleep, suddenly opened its eyes.
 
-Intense light flared within its empty eye sockets, and a low murmur escaped it.
+Intense light flared from the pupils of its empty skull, and a low mutter escaped its mouth.
 
 “Not bad.”
 
 The Arch Lich had hundreds of eyes and ears.
 
-Even now, the Familiars it had stationed throughout the battlefield were taking in every detail without missing a thing.
+Even now, the Familiars placed throughout the battlefield were taking in every detail without missing a thing.
 
-The humans and monsters locked in fierce combat.
+Humans and monsters locked in fierce close combat.
 
 And the group of humans rapidly breaking through the battlefield.
 
@@ -140,23 +140,21 @@ And the group of humans rapidly breaking through the battlefield.
 
 The Arch Lich suddenly recalled something.
 
-An ancient, long-moldering memory. One it had been unable to forget despite spending what felt like eternity submerged in the River of Death.
-
-No. One it could never forget.
+It was an old, stale memory—one it had been unable to forget despite spending an eternity submerged in the River of Death. No. One it could not forget.
 
 *The Adversary.*
 
 How could it forget?
 
-The single human who had stood at the center of everything. The suicide squad that had risked death to charge alongside the Adversary.
+A single human who had stood at the center of everything. The human suicide squad that had charged alongside the Adversary, risking death.
 
 *That bastard was the one who drove a sword into my body.*
 
-The Arch Lich looked down at its body of pitch-black bone.
+The Arch Lich looked down at its body, formed from pitch-black bones.
 
 In the past, it had not been some lowly existence like an undead. It had been a noble and mighty being, trusted by a king and commanding countless monsters.
 
-But on the day of the final battle, it too had fallen alongside its king.
+But on the day of the final battle, it had fallen alongside its king.
 
 At the hands of a mere human, no less.
 
@@ -178,21 +176,21 @@ What if the Adversary had met the fate of a mortal?
 
 “Kha…khahahaha!”
 
-Its body, rigid as a statue, began to shake.
+The body that had been rigid as a statue began to shake.
 
-The laughter infused with magic made the ground tremble and the air quiver.
+The laughter, infused with magic, made the ground tremble and the air quiver.
 
-Sensing the change in their master’s mood, the guards dropped to the ground and prostrated themselves.
+Realizing that something had changed in their master’s mood, the guards dropped to the ground and prostrated themselves.
 
 “My lord.”
 
 “Why do you laugh so?”
 
-The guards were an impressive sight. Death Knights, each comparable to a Named Monster, stood alongside Liches with robes pulled low over their heads. Altogether, they numbered twenty.
+The honor guard was an impressive group. There were Death Knights, each comparable to a Named Monster, as well as Liches with their robes pulled deeply over their heads. Their total number came to twenty.
 
 They were creations made to fight the Adversary.
 
-But now, the Arch Lich had changed its mind.
+But now, the Arch Lich’s thoughts had changed.
 
 After laughing with delight, the Arch Lich finally spoke.
 
@@ -206,37 +204,39 @@ The Arch Lich rose from its seat and looked down upon its loyal retainers. A chi
 
 The twenty Death Knights and Liches bowed without the slightest hesitation.
 
-The Arch Lich was the lord of every undead present. There could be no hesitation in obeying its commands.
+The Arch Lich was the lord of every undead present. When it came to obeying its commands, there was no room for even the smallest doubt.
 
 “We shall carry out our lord’s command.”
 
-They answered in unison and departed in different directions.
+They answered in unison and set off in their respective directions.
 
 The space was empty once more.
 
-Still chuckling to itself, the Arch Lich sat upon its skeletal throne and focused its mind.
+The Arch Lich, laughing alone, sat down on the skeletal throne and focused its mind.
 
-It was surveying the battlefield through the eyes and ears of its countless Familiars when it suddenly paused.
+As it watched the battlefield through the eyes and ears of countless Familiars, it suddenly stopped.
 
 “But…what in the world is that human?”
 
-The pitch-black eyes of a crow soaring overhead reflected a young human cutting through monsters amid sprays of blood.
+In the pitch-black eyes of a crow soaring through the sky, the image of a young human cutting through monsters amid a spray of blood was reflected.
 
-It was a face absent from the Arch Lich’s memories of the past, though it had already seen him through its Familiars several days earlier.
+It was a face that did not exist in the memories of the past.
+
+But it was also a face the Arch Lich had seen through its Familiars several days earlier.
 
 “That’s the human who defeated the Death Knight Lord.”
 
-The Death Knight Lord, created from Lei Fei, was the finest of all the Arch Lich’s creations.
+The Death Knight Lord, created from Lei Fei, was the Arch Lich’s finest masterpiece among everything it had ever brought into existence.
 
-Although Lei Fei’s powerful soul had prevented the Arch Lich from subjugating him completely, there could be no doubting his strength. The Arch Lich had personally bestowed a portion of its own power upon him.
+Although it had been unable to subjugate him completely because of his powerful soul, there could be no doubt about his strength. The Arch Lich had directly bestowed a portion of its own power upon him.
 
-And yet, because of that insignificant human, it had lost its greatest fighting force and wasted precious mana.
+And yet, because of that insignificant human, it had lost its greatest asset and wasted precious mana.
 
-“He irritates me. I should dispose of him properly while I have the chance.”
+“He’s irritating. I should deal with him properly while I have the chance.”
 
 Having decided to eliminate him, the Arch Lich sent out a thought.
 
-Half of the guards heading toward the various fronts changed direction at their lord’s order.
+Half of the guards heading toward the various fronts changed direction in accordance with their master’s command.
 
 * * *
 
@@ -244,7 +244,7 @@ Half of the guards heading toward the various fronts changed direction at their 
 
 Wind, weapons, and the bodies of monsters harder than stone.
 
-Everything caught in the spearhead’s path was cut apart.
+Everything caught in the path of the spearhead was cut apart.
 
 Heads flew into the air, and thick limbs spun through the sky.
 
@@ -252,25 +252,25 @@ A Troll that was still breathing was chopped to pieces before it had a chance to
 
 *Slash! Slash! Slash!*
 
-After cutting down three or four monsters in an instant with Hero’s Soul, Team Leader Choi shouted to me.
+After cutting down three or four monsters in an instant with Hero’s Soul, Team Leader Choi shouted toward me.
 
 “Mr. Jin Taekyung! The monster assault is too strong!”
 
-He was right. Once we broke through the front line, the number of monsters decreased, but those that remained were far stronger.
+He was right. Once we broke through the front line, the number of monsters decreased, but the quality of the forces grew even higher.
 
 *I knew it would be like this.*
 
-The monsters at the front, used as kindling for the Magic Trap meant to catch us, had mostly been mid- or low-level.
+The monsters in front, used as kindling for the Magic Trap meant to catch us, had mostly been mid- or low-level.
 
 The Arch Lich had placed its elites in the rear and used the other monsters as both bait and meat shields.
 
-*To wear us down.*
+*To wear down our strength.*
 
-On top of that, the fog had grown even thicker, making the battle more difficult.
+On top of that, the fog had grown even thicker than before, making the battle more difficult.
 
-The monsters becoming stronger under its influence was bad enough, but in fog this thick, visibility was limited and sound didn’t carry properly.
+The monsters becoming stronger under the fog’s influence was bad enough, but in fog this thick, visibility was limited and sound did not carry well.
 
-That naturally favored monsters, whose senses were sharper than those of humans.
+It was an unavoidable advantage for monsters, whose senses were superior to those of humans.
 
 Of course…
 
@@ -284,27 +284,27 @@ Shao Shen and the Hunters in the suicide squad, having escaped the crisis, gave 
 
 “Everyone, group up around me!”
 
-“But we only have a few magic scrolls left. If another Magic Trap activates…”
+“But we only have a few magic scrolls left. If another Magic Trap is activated…”
 
 “No time to explain! Stop talking and move!”
 
 Team Leader Choi and Shao Shen nodded at my shout and advanced with the suicide squad.
 
-I understood their concern, but we had already survived three Magic Traps, and this was the rear where the Arch Lich had gathered its elites. The chances of another trap being triggered were slim.
+I knew what they were thinking, but we had already made it through three Magic Traps, and this was the rear where the Arch Lich had gathered its elites. The chances of another trap being activated were slim.
 
 “Focus on defense instead of attacking. Advance!”
 
-The battle itself had become more difficult, but the reduced chance of suddenly stumbling into another trap took a weight off my mind.
+The battle itself had become more difficult, but the reduced chance of suddenly being caught in another trap left me feeling lighter.
 
-I could get myself out of danger easily enough, but the other members of the suicide squad might not survive.
+Pulling myself out of danger would not be difficult. But the lives of the other members of the suicide squad were at risk.
 
-*Our final destination is just ahead. Minimize casualties, then join up with Lee Jungryong and Wu Heixing.*
+*We’re right next to our final destination. Minimize casualties and join up with Lee Jungryong and Wu Heixing.*
 
 *Slash! Kra-d-d-d-d-k!*
 
-I was at the front, cutting a path through the monsters and beginning to feel fatigue build up, when—
+I was at the front, cutting a path through the monsters, when I suddenly felt the fatigue building in my body.
 
-“All. Of. You. Fall. Back!”
+“Everyone. Fall. Back!”
 
 “Human. By my lord’s command, I shall take my own life.”
 
@@ -318,7 +318,7 @@ I stared blankly, my mouth hanging open, as the beings behind it revealed themse
 
 There were ten of them, all hovering around Level 120.
 
-For a moment, I could barely breathe. My hands and feet began to tremble.
+For a moment, I could barely breathe, and my hands and feet began to tremble.
 
 Team Leader Choi shouted at me in a voice filled with despair.
 
@@ -328,7 +328,7 @@ Team Leader Choi shouted at me in a voice filled with despair.
 
 “Get a grip, Mr. Jin Taekyung!”
 
-“The lunchboxes are here.”
+“The lunchbox delivery is here.”
 
 “If we keep going like this, we’ll be wiped out…huh?”
 
