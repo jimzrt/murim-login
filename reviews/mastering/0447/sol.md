@@ -2,7 +2,7 @@
 
 Whoosh.
 
-Silence hung over the fast ship as it cut rapidly through the current.
+Silence hung over the swift ships as they sliced through the current.
 
 The river pirates of Water Dragon Stronghold rowed like machines, their mouths clamped shut, while Mu Song stared straight ahead with a rigid expression.
 
@@ -28,17 +28,17 @@ And at their center stood two men.
 
 Zhuge Feng answered the old Daoist in an untroubled voice.
 
-“You need not worry. If the wind is blowing like this, things will actually be easier for us.”
+“There is no need to worry. With a wind like this, things may actually be easier for us.”
 
 “Why is that? I understand dozens of ships have already sunk in winds weaker than this.”
 
 “The boatmen’s skill is one factor, but the swift ships that symbolize the Yangtze River Channel League are in a class of their own. Rather than being swept away by strong winds, they can catch the wind and surge forward with even greater force.”
 
-“I have heard some talk about fast ships as well… but I do not know the details, as my experience is limited. I have spent my entire life in Murim, yet it feels as though I have wasted it.”
+“I have heard a little about swift ships myself… but my experience is limited, so I know none of the details. I have spent my entire life in Murim, yet moments like this make me feel as though I have wasted it.”
 
 “You have spent all that time at Wudang’s headquarters, so it is only natural that you would not know. But… may I ask what became of the matter you mentioned last time?”
 
-“Our Sect Leader is personally working on it together with the disciples of our main sect. As for me, I was sent here instead, since all I was doing was sitting around and consuming the sect’s grain.”
+“Our Sect Leader is personally working on it with the disciples of the main sect. In exchange, he sent this old Daoist here, since I was doing nothing but sitting around and consuming grain.”
 
 “Doing nothing but consuming grain? With Perfected Being Hyeongong joining us, this junior feels as though he has gained an army of thousands.”
 
@@ -56,7 +56,7 @@ Unlike Zhuge Feng, who had yet to turn sixty, Perfected Being Hyeongong was a ma
 
 *And one of the Supreme Peak masters Wudang is so proud of.*
 
-Perfected Being Hyeongong was the swordsman said to have reached the ultimate stage of Wudang’s greatest technique, the Taiji Wisdom Sword.
+Perfected Being Hyeongong was the swordsman said to have reached the ultimate depths of Wudang’s supreme technique, the Taiji Wisdom Sword.
 
 Even as Family Head of the Zhuge Clan, Zhuge Feng spoke to him with marked respect in front of everyone. That alone showed the regard he had for Hyeongong.
 
@@ -68,8 +68,6 @@ At the words of Jeok Cheongang—Murim’s own Bodhidharma-tier old-timer—I mu
 
 “He sure has. He’s grown so much his beard turned white.”
 
-“……”
-
 “How old was he the last time I saw him? Thirty? Hah. Time certainly flies. Those soft-fuzzed little brats have all become Sect Leaders and Elders.”
 
 “Soft fuzz? At thirty, wouldn’t he have had a full bush down there?”
@@ -78,13 +76,13 @@ Jeok Cheongang glared at me with fire in his eyes.
 
 “Judging by the way you keep nitpicking my every word, you must want every hair below your waist plucked out.”
 
-“No, why would you say something like that?”
+“Why would you say something like that?”
 
 I had absolutely no desire to receive a Fire King Zilean waxing on the deck of a swift ship.
 
 I waved my hands at the speed of light, then stole a sidelong glance at Jeok Cheongang.
 
-“Since we’re on the subject, may I ask your venerable age?”
+“Since we’re on the subject, may I ask exactly how venerable your years are?”
 
 “Venerable?”
 
@@ -106,7 +104,7 @@ Right. I knew that would happen.
 
 Jeok Cheongang smacked the back of my head like a bolt of lightning, then answered in a bored voice.
 
-“I stopped counting after I passed one hundred.”
+“I stopped counting after one hundred.”
 
 “So how long ago was the last time you counted?”
 
@@ -148,7 +146,7 @@ And Jeok Cheongang…
 
 He was panicking so badly that no one would have guessed his title was the Fire King.
 
-Good heavens, look at those bulging eyes. He could be used in a Gangnam plastic surgeon’s subway advertisement as a successful double-eyelid surgery case.
+Good God, look at those bulging eyes. They could put his face across an entire subway car as a Gangnam plastic surgery clinic’s double-eyelid success story.
 
 Dodging the water splashing into my face, I shouted at Mu Song.
 
@@ -180,7 +178,7 @@ Whoooosh! Crack!
 
 A massive log that had drifted in from parts unknown was caught in the whirlpool, which stretched more than a hundred zhang in radius. Unable to withstand the crushing water pressure, it snapped apart.
 
-Some of the splintered pieces were flung away and smashed into a huge rock standing behind the whirlpool like a gatekeeper, shattering into fragments.
+The splintered pieces went flying and struck a gigantic rock looming behind the whirlpool like a gatekeeper, shattering into fragments.
 
 *A whirlpool like that in a river? Not the sea, but a river?*
 
@@ -190,17 +188,17 @@ And everyone aboard the swift ships knew the identity of that monstrous whirlpoo
 
 “Tianling Falls!”
 
-Someone shouted the words like a scream.
+Someone screamed the name.
 
 That was right. This was Tianling Falls.
 
-A work of nature that had transformed Donghu Stronghold of the Yangtze River Channel League into a natural fortress—and a monster that had swallowed countless lives and ships over the centuries.
+It was the natural barrier that had made the Yangtze River Channel League’s Donghu Stronghold an impregnable fortress—and a monster that had swallowed countless lives and ships over the long years.
 
 Looking as though he might suffocate at any moment, Jeok Cheongang declared, “Turn the ship around. I would rather fight the Great Faction War all over again than cross that.”
 
 Gung Gibang and Hyuk Mujin spoke next, their faces suggesting they had already suffocated.
 
-“Senior Mu Song. Please save us. I would rather beg in a beggars’ den.”
+“Senior Mu Song, please save us. I would rather spend my life begging in a beggars’ den.”
 
 “Captain, thank you for everything. I’m done with Murim. I want to go home and sell silk.”
 
@@ -230,7 +228,7 @@ Even as a fairly tall man myself, I had to tilt my head back to look up at the g
 
 His composure alone made me want to call him Eldest Brother.
 
-Putting aside Jeok Cheongang, who had a pathological hatred of water, even I had reached the Supreme Peak realm and was still feeling my blood run cold. Yet Jin Wikyung, whose martial arts were far below ours, did not waver in the slightest.
+Jeok Cheongang had a pathological hatred of water, so he was one thing, but even I—a Supreme Peak master—felt my blood run cold. Yet Jin Wikyung, whose martial arts were far beneath ours, showed not the slightest trace of fear.
 
 *So this is why he’s my eldest brother. Why he’s the Lesser Family Head.*
 
@@ -240,11 +238,11 @@ Putting aside Jeok Cheongang, who had a pathological hatred of water, even I had
 
 Jin Wikyung smiled faintly and nodded.
 
-“Even in death, the bond between our brothers will last forever.”
+“Even as ghosts, the bond between us brothers will endure forever.”
 
 “What?”
 
-“I can see our deceased parents hovering before my eyes. It is as though they are beckoning to us from Tianling Falls.”
+“I can see our departed parents before my eyes. It is as though they are beckoning to us from Tianling Falls.”
 
 “…Isn’t Father still alive?”
 
@@ -252,7 +250,7 @@ Jin Wikyung smiled faintly and nodded.
 
 *Eldest brother, my ass. He’s just a big bastard.*
 
-And while he was at it, he had declared our perfectly alive father dead just because the man had dumped the family responsibilities on him and run away.
+Our father had dumped the entire family on him and run away, and Jin Wikyung had just declared the perfectly healthy man dead.
 
 *Shit…*
 
@@ -270,7 +268,7 @@ Whoooosh! Crack!
 
 Mu Song nodded, his expression grim.
 
-“Hold on tight. My men and I will do our best as well.”
+“Hold on tight. My men and I will do our best.”
 
 “What? What do you mean, do your best?”
 
@@ -284,7 +282,7 @@ He had a point.
 
 A fucking punchable point.
 
-Half out of my mind, I barely squeezed out my voice.
+Half out of my mind, I barely managed to squeeze out the words.
 
 “You’ve got to be kidding me. Why are you only telling us something this important now?”
 
@@ -310,7 +308,7 @@ Jeok Cheongang, meanwhile, lost his mind.
 
 “That fucking son of a bitch…!”
 
-It was one of the greatest fits of rage I had ever witnessed.
+It was one of the most spectacular eruptions of rage I had ever witnessed.
 
 But just as Jeok Cheongang rolled his eyes back until only the whites showed and prepared to charge—
 

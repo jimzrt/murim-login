@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "who still had not recovered from their little dip in the Yangtze",
+      "defect": "The translation turns 장강 찍먹 사건, a source-specific 'taste-test' gag, into an ordinary dip in the river. This changes the physical image and loses the joke carried by 찍먹.",
+      "id": "F01",
+      "rationale": "찍먹 evokes sampling or tasting by dipping, and the accepted baseline preserves that comic image as the Yangtze taste-test incident.",
+      "replacement": "who still had not recovered from their Yangtze taste-test incident",
+      "severity": "minor",
+      "source": "Korean line 145"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Do you think every province has its own Tianling Falls?",
+      "defect": "성마다 means that Tianling Falls is not a common feature found at every fortress or stronghold, not that each province has one. The translation changes the geographic category.",
+      "id": "F02",
+      "rationale": "The source contrasts this dangerous waterway with an imagined commonplace feature found one per 성; province is not the source's term or scope.",
+      "replacement": "Do you think Tianling Falls is some common thing, with one in every stronghold?",
+      "severity": "minor",
+      "source": "Korean line 277"
+    }
+  ],
+  "summary": "Two localized fidelity defects remain: one source-specific joke/image is lost, and one location category is mistranslated.",
+  "version": 1
+}
