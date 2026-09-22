@@ -1,6 +1,6 @@
 # Mae Jonghak (매종학)
 
-- **Safe through:** Chapter 647
+- **Safe through:** Chapter 662
 - **Aliases:** Sword Saint
 - **Role:** Sword Saint and Cheongpung's grandfather who now serves as the New Murim Alliance's Alliance Leader and has ordered Jin Taekyung's first Fire Dragon Pavilion mission to Nanman.
 - **Personality:** Playful, easygoing, and teasing, but capable of handling heavy administrative responsibilities efficiently.

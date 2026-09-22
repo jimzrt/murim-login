@@ -2067,3 +2067,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 백휘 | **Baekhwi** | Baeksang's deceased only child. |
 | 대설산 | **Great Snow Mountain** | Mountain where Baeksang's wartime account reaches its next episode. |
 | 남군 | **Southern Army** | Army led by Baeksang and the Beast Miao King alongside the Zhongnan Sect. |
+| 무상진인 | **Venerable Wusang** | Former Sect Leader of the Zhongnan Sect and master of the Wind-and-Cloud Sword Lord. |
+| 대설귀 | **Great Snow Fiend** | Fiend who ruled Great Snow Mountain and killed Baekhwi and Venerable Wusang. |
