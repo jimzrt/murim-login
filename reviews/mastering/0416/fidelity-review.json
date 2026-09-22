@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Rage, Blizzard!”",
+      "defect": "The source is a two-part imperative meaning “Rage forth. Blizzard!” The current line drops the directional force and merges the spell name into the command.",
+      "id": "F01",
+      "rationale": "휘몰아쳐라 commands Blizzard to surge or rage forth; the accepted baseline preserved that force and cadence.",
+      "replacement": "“Rage forth. Blizzard!”",
+      "severity": "minor",
+      "source": "Lines 9-10"
+    },
+    {
+      "confidence": 0.92,
+      "current": "It was the final path to ending this war, and they crossed through tens of thousands of monsters like a streak of light.",
+      "defect": "The current wording loses 활로, the source’s explicit image of a last way out or lifeline, reducing it to an ordinary path toward ending the war.",
+      "id": "F02",
+      "rationale": "마지막 활로 means the final avenue of escape or survival, not merely a final path.",
+      "replacement": "It was the last way out of this war, and they crossed through tens of thousands of monsters like a streak of light.",
+      "severity": "minor",
+      "source": "Lines 35-37"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Beneath its low-pulled helmet, the light in its eyes flickered like a candle in the wind, then vanished.",
+      "defect": "The physical location of the eye-light is changed from between the gaps in the lowered helmet to beneath the helmet.",
+      "id": "F03",
+      "rationale": "투구 사이 specifies the gaps or openings of the helmet; “beneath” changes the described physical detail.",
+      "replacement": "Between the gaps in its deeply lowered helmet, the light in its eyes flickered like a candle in the wind, then vanished.",
+      "severity": "minor",
+      "source": "Lines 81-83"
+    },
+    {
+      "confidence": 0.94,
+      "current": "His reasons for going this far were obvious, of course.",
+      "defect": "The plural “reasons” adds multiple motives where the source refers to one obvious intention.",
+      "id": "F04",
+      "rationale": "이렇게까지 하는 의도 is singular: the intention behind going this far.",
+      "replacement": "His intention in going this far was obvious, of course.",
+      "severity": "minor",
+      "source": "Lines 131-133"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Even in ten years, I won’t come close to catching up with you, Vice Guild Master.",
+      "defect": "“Even in ten years” shifts the temporal relation toward “by the time ten years pass,” while the source says “even after ten years.”",
+      "id": "F06",
+      "rationale": "십 년이 지나도 means that the speaker still will not catch up even once ten years have passed.",
+      "replacement": "Even after ten years, I won’t come close to catching up with you, Vice Guild Master.",
+      "severity": "minor",
+      "source": "Lines 271-273"
+    },
+    {
+      "confidence": 0.96,
+      "current": "They say laughter brings good fortune, but in this case, don’t you think it might bring monsters instead?",
+      "defect": "“They say” adds an external attribution and weakens the speaker’s direct assertion that laughter does bring good fortune.",
+      "id": "F07",
+      "rationale": "웃으면 복이 오긴 하는데 states the proposition directly; the Korean does not invoke hearsay or a proverb’s supposed speakers.",
+      "replacement": "Laughter does bring good fortune, but in this case, don’t you think it might bring monsters instead?",
+      "severity": "minor",
+      "source": "Lines 323-325"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but seven minor source-fidelity regressions remain involving a spell imperative, the final-lifeline image, a physical detail, singular intent, personifying pronouns, a temporal relation, and added hearsay.",
+  "version": 1
+}

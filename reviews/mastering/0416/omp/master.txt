@@ -1,6 +1,6 @@
 # Chapter 416
 
-Breaking through a fierce battlefield where an army numbering in the tens of thousands was locked in combat was nearly impossible.
+Breaking through a fierce battlefield where armies numbering in the tens of thousands were locked in combat was nearly impossible.
 
 But…
 
@@ -20,7 +20,7 @@ If an S-rank Hunter who had appeared like a comet—the prince of the United Kin
 
 “Just fucking fight!”
 
-“Yeeeeeeah! Let’s gooo!!!”
+“Yeeeeeeah! Let’s gooo!”
 
 And if the hundreds of suicide squad members who had come this far prepared to make the ultimate sacrifice advanced as one…
 
@@ -78,7 +78,7 @@ A lightning-fast One Strike that signaled the end.
 
 The upper half of the Death Knight’s body, armor and all, slowly slid away. Beneath its low-pulled helmet, the light in its eyes flickered like a candle in the wind, then vanished.
 
-Before the bodies of the Death Knights they had each taken responsibility for even touched the ground, Jin Taekyung and Lee Jungryong were already charging toward another enemy.
+Before the Death Knights they had each taken down even hit the ground, Jin Taekyung and Lee Jungryong were already charging toward their next enemies.
 
 “Damn it! I’m here too!”
 
@@ -92,7 +92,7 @@ The monsters that witnessed their commanders’ destruction instinctively recoil
 
 *Slash! Shraaaaaash!*
 
-Jin Taekyung cut and smashed his way through everything around him as he advanced. Then, at some point, he realized it.
+Jin Taekyung cut and smashed through everything in his path as he advanced. Then, at some point, he realized it.
 
 *They’re gone.*
 
@@ -132,11 +132,11 @@ A monster trying to obtain citizenship. An undead illegal immigrant who had slip
 
 —My head has felt dizzy and my stomach has been churning for a while now.
 
-*That’s strange. The more I talk to you, the more I think I’m developing similar symptoms.*
+*That’s strange. The more I talk to you, the more I feel the same symptoms coming on.*
 
 —It isn’t too late yet! Please stop! If we go in there, there really will be no turning back!
 
-*No.*
+*You’re wrong.*
 
 *It’s already too late.*
 
@@ -198,7 +198,7 @@ His gaze held a clear mixture of suspicion and surprise.
 
 Lee Jungryong studied me with an unreadable expression after my firm answer.
 
-But that was all I could say. Even if I told him the truth, he would not be able to understand it anyway.
+But that was all I could say. Even if I told him the truth, he would not understand it anyway.
 
 *It’s not as if I can show him the System window.*
 
@@ -254,7 +254,7 @@ Lee Jungryong nodded.
 
 We began moving through the thick fog.
 
-Unlike the small city where I had fought Lei Fei last time, this place—the Arch Lich’s stronghold—covered more than ten times the area and still bore traces of having once been a bustling city.
+Unlike the small city where I had fought Lei Fei, this place—the Arch Lich’s stronghold—covered more than ten times the area and still bore traces of its former prosperity.
 
 A forest of collapsed skyscrapers. A downtown district that must once have been the most dazzling part of the city, now reduced to desolation…
 
@@ -272,7 +272,7 @@ Lee Jungryong let out a low laugh at my immediate reply.
 
 “Are you confessing your feelings to me? This is a bad time for that too.”
 
-“In a sense, perhaps I am. How should I put it? I find myself thinking that you will surpass me someday.”
+“In a sense, perhaps I am. How should I put it? I find myself thinking that someday, you might surpass me.”
 
 “You don’t need to worry about that. Even in ten years, I won’t come close to catching up with you, Vice Guild Master.”
 
@@ -288,7 +288,7 @@ My memory was not particularly good, but I could still vividly remember my first
 
 Lee Jungryong seemed to remember it just as clearly.
 
-“We got off to an ill-fated start. The more I think about it, the more regrettable it seems.”
+“Our relationship began with ill fate. The more I think about it, the more regrettable it seems.”
 
 “Tell me about it. If we had talked things out from the start instead of cutting off someone’s arm, we might have begun on relatively friendly terms.”
 
@@ -312,7 +312,7 @@ Lee Jungryong let out another quiet laugh and continued.
 
 “A business relationship. That’s good to hear. Then do you think I could become close to you as well?”
 
-I answered with a snort of laughter.
+I answered with a snort.
 
 “Was it about seven years ago? I had a red-bean bun as a snack at the Hunter training center, and it tasted so good I cried. But when I tried one after getting out into the real world, it wasn’t that great. I haven’t really eaten them since.”
 
@@ -342,7 +342,7 @@ Lee Jungryong laughed aloud. His booming laughter spread through the thick fog, 
 
 *Whoooooosh!*
 
-A foul-smelling wind brushed across my entire body.
+A foul-smelling wind swept over us.
 
 From one building to the next, we continued running, leaping across gaps more than twenty meters wide.
 
