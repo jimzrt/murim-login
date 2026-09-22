@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is substantially faithful, but it contains one clear assembly-level repetition that adds an action not present in the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Source lines 177–178",
+      "current": "The young man’s eyes flew open. The young man’s eyes flew open. Green blood was scattering through the air in droplets.",
+      "defect": "The eye-opening action is duplicated. The Korean source describes it only once before the description of the scattered blood and the headless ogre.",
+      "replacement": "The young man’s eyes flew open. Green blood was scattering through the air in droplets.",
+      "rationale": "The repeated sentence adds an extra beat and makes the character appear to open his eyes twice, which is not established by the source.",
+      "confidence": 1.0
+    }
+  ]
+}

@@ -2,13 +2,13 @@
 
 *Has it been over thirty years?*
 
-Lee Jungryong muttered to himself.
+Lee Jungryong mused to himself.
 
 The stench of countless monsters and the reek of blood drifted in on the wind. It was the smell of a battlefield, stirring memories of long ago.
 
 *Yes. It truly has been a long time.*
 
-With a shrewd gaze that seemed at odds with his appearance, he watched the fog slowly draw nearer. The pale fog, where thousands of monsters were presumably lurking, radiated an ominous feeling simply by being there.
+With a shrewdness that belied his appearance, he watched the fog draw slowly nearer. Thousands of monsters lurked within that pale haze, which radiated an ominous air simply by existing.
 
 Most of the troops were shaken, but to Lee Jungryong—a living witness to the Great Cataclysm—it was an all-too-familiar sight.
 
@@ -50,13 +50,13 @@ Lee Jungryong gave a quiet laugh.
 
 The hero who had achieved immortal feats had not shown himself for many years, and only a handful of people knew the secret surrounding him.
 
-As one of those few, Lee Jungryong continued in a low voice.
+Lee Jungryong was one of them.
 
 —Nothing is eternal, and nothing is certain. I’ve found myself thinking that more and more lately.
 
 —……Is this because of Jin Taekyung?
 
-“When a crack begins, collapse comes in an instant. That bastard is the crack itself.”
+—Once a crack forms, collapse can come in an instant. That bastard is the crack itself.
 
 —Then we must seal it before everything collapses.
 
@@ -76,13 +76,13 @@ The Ares Guild’s elites, honed through countless raids and training exercises,
 
 “Please give the command.”
 
-Lee Jungryong slowly began to walk.
+Lee Jungryong began to walk.
 
 There was no place here for soldiers or firearms. This was a battle solely between the superhumans known as Hunters and the monsters—and Lee Jungryong would reign as the god of the battlefield.
 
 “Let’s go.”
 
-With that single word, Lee Jungryong shot forward like the wind. The fog filling the plain split apart on both sides along the path of his sword.
+With those two words, Lee Jungryong shot forward like the wind. His sword swept out, and the fog blanketing the plain split to either side along its path.
 
 *Kraaash!*
 
@@ -98,7 +98,7 @@ It would be more accurate to say he was not even given the chance.
 
 *Whoosh! Boom!*
 
-The upper section of his tower shield shattered, and a sharp fragment grazed the tip of his nose. Blood spurted out, and the scent of it pierced his nostrils.
+The upper edge of his tower shield shattered, and a sharp fragment grazed the tip of his nose. Blood sprayed out, and its metallic scent filled his nostrils.
 
 It helped drown out the terrible stench, but directly before him, an undead ogre that looked freshly dead was raising a massive iron club.
 
@@ -166,7 +166,7 @@ And then, in the next instant—
 
 His vision went pitch-black. A cool breeze brushed across his entire body, and something poured down like a sudden shower.
 
-Soon, a voice pierced his ears.
+Then a voice reached his ears.
 
 “What did you just call me?”
 
@@ -174,9 +174,9 @@ Soon, a voice pierced his ears.
 
 The young man’s eyes flew open.
 
-The young man’s eyes flew open. Green blood was scattering through the air in droplets. The enormous body of the undead ogre, now missing its head, was slowly toppling over.
+Green blood hung in droplets through the air. The enormous body of the undead ogre, now missing its head, was slowly toppling over.
 
-And there was the face of a man scowling deeply.
+And before it stood a man with a deep scowl on his face.
 
 “……Huh?”
 
@@ -262,7 +262,7 @@ When he raised his head again, Jin Taekyung was gone, and a group was rushing pa
 
 *Whoosh-whoosh-whoosh! Slash!*
 
-More than two hundred Hunters raced forward without hesitation along the path Jin Taekyung had opened, swinging their weapons.
+More than two hundred Hunters raced fearlessly along the path Jin Taekyung had opened, swinging their weapons as they went.
 
 Two figures at the forefront stood out above all the rest.
 
@@ -284,7 +284,7 @@ Only yesterday, he had thought it was impossible nonsense…
 
 *Could I become like that too?*
 
-As the young man gazed blankly at the scene, his chest suddenly grew hot. Some unknown strength surged up from within him, and he could not contain it.
+As the young man stared after them, his chest suddenly grew hot. An unknown strength surged up inside him, too powerful to contain.
 
 He raised his half-destroyed tower shield and charged toward the nearest monster.
 
@@ -331,7 +331,7 @@ If it had been one or two monsters, I might have brushed it off. But everything 
 
 I turned at the urgent shouts behind me and saw monsters packing the path I had opened, leaving no gaps between them.
 
-The suicide squad was fighting desperately against them.
+The suicide squad was fighting desperately to hold them back.
 
 “Get the hell out of here. All of you.”
 
@@ -343,7 +343,7 @@ Dozens of fist shadows shot out like cannonballs and rained down upon their head
 
 Some were reduced to bloody pulp and hurled into the distance. Others simply crumpled where they stood.
 
-I charged into the space that had momentarily been emptied.
+I charged into the space that had opened.
 
 *Slash-slash-slash!*
 
@@ -387,7 +387,7 @@ It strengthened the monsters within its range—or rather, made them *Darkened*.
 
 *Damn Magic.*
 
-At that very moment, as I glared at the mysterious fog filling the area around me—
+Just as I glared at the mysterious fog surrounding us—
 
 *Kraaaa-boom!*
 
