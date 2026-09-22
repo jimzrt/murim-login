@@ -2084,3 +2084,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 궁주전 | **Palace Lord's Hall** | The residence and hall of the Nanman Beast Palace's Palace Lord. |
 | 흑수 | **Black Hand** | Sadistic Dark Heaven agent and Supreme Peak master. |
 | 요서부 | **Western Yao Estate** | Estate inherited by Yohi when she became a Great Chieftain. |
+| 흑수권마 | **Black Hand Fist Demon** | Sobriquet revealed by Black Hand. |
