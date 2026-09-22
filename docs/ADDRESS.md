@@ -1123,3 +1123,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 원후 | 야수묘왕 | personal guard to lord | you | informal and joking | Wonhu asks the hidden speaker for liquor before recognizing the Beast Miao King's gourd. |
 | 원후 | 백상 | personal guard to opposing Bai Great Chieftain | Baeksang | alarmed and direct | Wonhu identifies Baeksang by name and asks what happened to his lord. |
 | 백상 | 원후 | Bai Great Chieftain to opposing Miao personal guard | mere warrior | cold and contemptuous | Baeksang rebukes Wonhu for speaking the Great Chieftain's name casually. |
+| 백상 | 남천마후 | Nanman Great Chieftain to hostile demon empress | Southern Heaven Demon Empress | formal and shocked | Baeksang directly identifies the woman who appears before him. |
