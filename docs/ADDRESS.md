@@ -1089,3 +1089,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 야수묘왕 | younger allied master to Ten Kings elder | Great Hero Yayul | urgent and respectful | Uses 야율 대협 while warning the Beast Miao King not to enter the valley. |
 | 진태경 | 백호 | human ally to intelligent spiritual beast | you | casual and familiar | Converses with White Tiger after interpreting its warning. |
 | 진태경 | 야율 대협 | companion_to_ally | Great Hero Yayul | familiar and irreverent but respectful | Jin repeatedly addresses the Beast Miao King as 야율 대협 while using polite speech and joking familiarity. |
+| 야수묘왕 | 진태경 | senior allied master to younger allied master | you | informal and cautionary | Warns Taekyung not to lower his guard and to be careful while crossing the swamp. |
