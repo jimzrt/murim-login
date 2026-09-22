@@ -137,11 +137,33 @@ class GitHubApp:
             {"body": body},
         )
 
+    def update_comment(self, comment_id: int, body: str) -> dict:
+        return self._request(
+            "PATCH",
+            f"/repos/{self.repo}/issues/comments/{comment_id}",
+            {"body": body},
+        )
+
     def list_comments(self, issue: int) -> list[dict]:
         return self._request(
             "GET",
             f"/repos/{self.repo}/issues/{issue}/comments?per_page=100",
         )
+
+    def list_issues(self, label: str, state: str = "open") -> list[dict]:
+        quoted = urllib.parse.quote(label)
+        issues: list[dict] = []
+        for page in range(1, 11):
+            batch = self._request(
+                "GET",
+                f"/repos/{self.repo}/issues?labels={quoted}&state={state}&per_page=100&page={page}",
+            )
+            if not isinstance(batch, list):
+                break
+            issues.extend(batch)
+            if len(batch) < 100:
+                break
+        return issues
 
     def add_labels(self, issue: int, labels: list[str]) -> None:
         self._request("POST", f"/repos/{self.repo}/issues/{issue}/labels", {"labels": labels})
