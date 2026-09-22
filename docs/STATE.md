@@ -1,31 +1,31 @@
 # Translation State
 
-- Last completed: 673
-- Next chapter: 674
-- Current block: 670–674 (4/5)
-- Latest translation: `translations/0673.md`
-- Latest summary: `summaries/beats/0673.md`
-- Safe profiles through: chapter 673
+- Last completed: 674
+- Next chapter: 675
+- Current block: 670–674 (5/5)
+- Latest translation: `translations/0674.md`
+- Latest summary: `summaries/beats/0674.md`
+- Safe profiles through: chapter 674
 
 ## Current Block
 
-- Nanman is thrown into turmoil after more than a hundred Yao warriors are killed in the Western Yao Estate and two Great Chieftains disappear. An official notice claims that Yayul Cheok attacked Baeksang, raided the underground prison with Yayul Mok and dozens of elite warriors, released Jin Taekyung and the other Han Chinese prisoners, and fled. The Tribal Grand Council declares the act a betrayal, appoints Baeksang temporary Palace Lord, and issues a general mobilization order to hunt Jin and the former Palace Lord. More than fifty injured warriors return to the Outer Palace terrified by the enormous flames they witnessed and call their unseen opponent a monster.
-- Baeksang remembers the years when his sworn brother Yayul Cheok's son Baekhwi and daughter Yayul Hyang fell in love and were expected to marry. Hyang later died on the battlefield, and Baekhwi entered the final Great Snow Mountain battle as though possessed, advancing into ever greater danger. As Baeksang grieves over what might have been, the Southern Heaven Demon Empress appears before him.
+- The Southern Heaven Demon Empress visits Baeksang in the Palace Lord's Hall and reveals that Dark Heaven's decades-long undertaking is nearing completion. She identifies the Beast Miao King and Jin Taekyung as the remaining major obstacles, accepts Baeksang's admission that his sworn-brotherly feelings helped the Beast Miao King escape, and orders him to find and eliminate the Beast Miao King within three days while Dark Heaven handles Jin Taekyung.
+- Baeksang, now Nanman's temporary Palace Lord, kneels before the Southern Heaven Demon Empress and accepts her command despite recognizing himself as her controlled puppet. Meanwhile, Jin Taekyung and Muyaho continue fleeing south, having repelled multiple pursuit squads and set fire to several mountains and a pasture; on the second day, Muyaho leads Jin to a dark forest.
 
 ## Open Questions
 
-- What does the Southern Heaven Demon Empress want from Baeksang?
-- Where are Jin Taekyung, Yayul Cheok, Yayul Mok, and the released Han Chinese prisoners?
-- Can Baeksang maintain control of the Nanman Beast Palace as temporary Palace Lord?
-- Who actually killed the Yao warriors and caused the disappearance of the two Great Chieftains?
+- What exactly is Dark Heaven's great undertaking and how will it bring about the Lord of Heaven's return?
+- Can the Beast Miao King evade Baeksang's three-day pursuit?
+- How will Jin Taekyung survive Dark Heaven's direct intervention?
+- What awaits Jin Taekyung and Muyaho in the dark forest?
 
 ## Exceptional Decision
 
 - Use Great Chieftain for 대족장 and Palace Lord for 궁주.
-- Use temporary Palace Lord for 임시 궁주 and former Palace Lord for 전 궁주.
-- Use Western Yao Estate for 요서부.
-- Use Yayul Hyang for 야율향, Hwi for 휘 and 휘아, and Hyang for 향 and 향아.
-- Preserve Baeksang's restrained grief and the sworn brothers' rough, teasing banter in the flashback.
+- Use temporary Palace Lord for 임시 궁주 and Palace Lord's Hall for 궁주전.
+- Use Southern Heaven Demon Empress for 남천마후 and Dark Heaven for 암천.
+- Use Great undertaking for 대사 when it refers to Dark Heaven's plan.
+- Preserve the Southern Heaven Demon Empress's playful, taunting menace and Jin Taekyung's crude, irreverent narration.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

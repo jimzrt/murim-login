@@ -2081,3 +2081,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 야율향 | **Yayul Hyang** | Yayul Cheok's daughter, Baekhwi's intended bride, and a deceased Nanman warrior. |
 | 휘아 | **Hwi** | Familiar vocative form of Baekhwi. |
 | 향 | **Hyang** | Short form of Yayul Hyang. |
+| 궁주전 | **Palace Lord's Hall** | The residence and hall of the Nanman Beast Palace's Palace Lord. |
