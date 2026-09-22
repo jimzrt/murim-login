@@ -1134,3 +1134,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 장 족장 | 야율목 | tribal chieftain to Nanman Young Palace Lord | Young Palace Lord | formal and grave | Chief Jang addresses Yayul Mok while ordering him to subdue and escort the Han Chinese to the Inner Palace. |
 | 흑수권마 | 대설귀 | junior hostile subordinate to senior ally | Senior | deferential but urgent and protesting | Black Hand protests the Great Snow Fiend's order to capture Jin. |
 | 대설귀 | 흑수권마 | senior hostile commander to junior subordinate | you | blunt, commanding, and threatening | The Great Snow Fiend orders Black Hand to stop questioning him. |
+| 진태경 | 대설귀 | hostile_martial_opponents | old man | mocking, casual, and profane | Jin taunts the Great Snow Fiend while preparing to continue the fight. |
+| 대설귀 | 진태경 | hostile_martial_opponent | Jin Taekyung | cold, incredulous, and confrontational | The Great Snow Fiend addresses Jin while demanding an explanation for his survival. |
