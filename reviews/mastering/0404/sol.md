@@ -4,15 +4,15 @@
 
 Night had fallen, pitch-black.
 
-The moment he returned, the young man threw off his equipment and dropped heavily into a seat. As he struggled to catch his breath, a middle-aged man approached and handed him a drink.
+The moment he returned, the young man threw off his gear and collapsed into a seat. As he struggled to catch his breath, a middle-aged man approached and handed him a drink.
 
-“You look exhausted. Drink this.”
+“You look exhausted. Here.”
 
-The two men had bonded somewhat on the way here over their shared status as Hunters drafted from Shanxi Province.
+The two men had gotten to know each other reasonably well on the way here, having both been drafted from Shanxi Province.
 
-The young man recognized the familiar face and eyed the can in the middle-aged man’s hand, then muttered dubiously.
+The young man recognized the familiar face, then eyed the can in his hand and muttered dubiously.
 
-“Did this come from the supplies? I don’t think I’ve seen this drink before.”
+“Did this come with the supplies? I’ve never seen it before.”
 
 “It came in with the foreign relief supplies. It’s not from our country.”
 
@@ -20,23 +20,23 @@ The young man recognized the familiar face and eyed the can in the middle-aged m
 
 “If you don’t want it, forget it.”
 
-The middle-aged man began to withdraw his hand, but the young man quickly grabbed it and spoke with a solemn expression.
+The middle-aged man began to withdraw his hand, but the young man snatched it back and spoke with a solemn expression.
 
 “Sir. Have I ever told you that canned ration drinks are my favorite thing in the world?”
 
 “No.”
 
-“Then you’re about to learn.”
+“Then you know now.”
 
 “Good. That’s the spirit.”
 
-“I’ll enjoy it.”
+“Thanks.”
 
 Click.
 
 The young man opened the can and took a sip. His expression changed subtly, but before he could say anything, the middle-aged man asked him a question.
 
-“You’re coming back from searching Sector Three, aren’t you?”
+“You just finished searching Sector Three, right?”
 
 “……Urk. Yes.”
 
@@ -64,7 +64,7 @@ The middle-aged man’s gaze slowly drifted toward a particular part of the youn
 
 “I didn’t say anything. But looking at you is somehow making my eyes sweat.”
 
-“……Actually, I did piss a little. Is it obvious?”
+“……Fine, I pissed a little. Is it obvious?”
 
 “Yep.”
 
@@ -76,7 +76,7 @@ The middle-aged man silently watched him swear and tip back the can, then abrupt
 
 “So it was the same on your side.”
 
-The young man’s expression stiffened the instant the words left the man’s mouth. The middle-aged man let out a sigh.
+The young man’s expression stiffened the instant the words left his mouth. The middle-aged man sighed.
 
 He had already taken part in one search himself.
 
@@ -90,7 +90,7 @@ Neither of them would ever forget what they had seen that day.
 
 “You don’t need to. Whatever you imagine, it was worse.”
 
-The four thousand Hunters who had come here with Minister of National Defense Wei Fenghu had been divided according to their units and sent to search the small city. Every piece of search equipment they used kept producing the same result.
+The four thousand Hunters who had come with Minister of National Defense Wei Fenghu had been divided into units and sent to search the small city. Every piece of search equipment they used returned the same result.
 
 No survivors.
 
@@ -100,7 +100,7 @@ Aside from the three thousand People’s Liberation Army soldiers who had fled i
 
 “Watch what you say. We don’t know that yet.”
 
-“Mm. I’m sorry. I spoke carelessly.”
+“Right. Sorry. That was careless of me.”
 
 “As long as you understand. And……”
 
@@ -146,11 +146,11 @@ Had he witnessed the situation when Jin Taekyung arrived, the shock might have s
 
 Even this man, who revered Jin so deeply, had never imagined that Jin Taekyung had faced the monster army alone.
 
-“He led hundreds of exhausted, wounded Hunters and annihilated a monster army more than ten times their size! Do you think that makes any sense?”
+“He led a few hundred exhausted, wounded Hunters and wiped out a monster army more than ten times their size! Does that make any sense to you?”
 
 The young man gave him a deeply skeptical look.
 
-“I don’t think it does.”
+“No, it doesn’t.”
 
 “Exactly. But that person did it!”
 
@@ -192,7 +192,7 @@ The middle-aged man shook his head and rose from his seat.
 
 At that moment, a voice spoke behind them.
 
-“Maybe he would’ve said you were a fucking asshole who wasn’t worth helping.”
+“Hard to say. My guess is that he’d call you a fucking asshole who wasn’t worth saving.”
 
 “……!”
 
@@ -240,7 +240,7 @@ Jin Taekyung turned to the source of that irritating noise, who had stopped hicc
 
 The young man had no grounds to complain even if Jin Taekyung cursed him out, let alone spoke casually to him.
 
-He had only ever seen Jin Taekyung from a distance or in passing. Now that he realized Jin had heard everything he had said, his hands and feet began to tingle, and his vision went white.
+He had only ever glimpsed Jin from a distance. Now that he knew Jin had heard every word, his hands and feet went numb and his vision turned white.
 
 “I-I’m sorry.”
 
@@ -248,7 +248,7 @@ He had only ever seen Jin Taekyung from a distance or in passing. Now that he re
 
 “Th-Thank you.”
 
-Just as Jin Taekyung’s gentle smile began to melt the young man’s heart, he continued.
+Jin Taekyung’s gentle smile had just begun to melt the young man’s fear when he continued.
 
 “Nothing to thank me for. Talking shit is fun while you’re doing it, but when you get caught, you’re fucked.”
 
@@ -260,7 +260,7 @@ Slowly—very slowly—the young man shifted his gaze.
 
 Sure enough, a little over ten meters away, a middle-aged man with the face of a demon was radiating a terrifying aura in his direction.
 
-“They say he’s an A-rank Hunter with the Central Military Commission. He must have found your story very interesting, because he keeps bowing to me. Run over and put a pain-relief patch on him.”
+“Apparently, he’s an A-rank Hunter with the Central Military Commission. He must’ve found your story fascinating, because he kept bowing to me. Hurry over and put a pain-relief patch on his back.”
 
 “Y-Yes, sir!”
 
@@ -304,15 +304,15 @@ The middle-aged man lowered his head in embarrassment.
 
 “Please add one person to the list of the dead. You won’t find his body, so I’m asking you to make a special exception.”
 
-“What is his name?”
+“What was his name?”
 
-“Lei Fei. Lei Fei.”
+“Lei Fei. His name was Lei Fei.”
 
 Those were Jin Taekyung’s final words to him.
 
 The middle-aged man remained rooted in place, staring after Jin for a long time before finally releasing the breath he had been holding.
 
-He felt certain that Jin Taekyung’s expression the last time he saw him would remain etched in his memory for a long time.
+The expression Jin had worn when he last saw him would probably remain etched in his memory for years to come.
 
 *What was that look in his eyes……?*
 
@@ -342,4 +342,4 @@ I spoke calmly.
 
 “Let’s go end this war.”
 
-At long last, it was time to eliminate the culprit behind all of this.
+At long last, it was time to eliminate the one responsible for all of this.

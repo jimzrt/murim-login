@@ -1,0 +1,65 @@
+{
+  "summary": "The chapter is largely faithful, but six minor source-fidelity issues remain: two dropped hedges, one added geographic detail, one emotional substitution, one added swallowing action, and one lost physical image.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 91 / assembled P44",
+      "current": "Neither of them would ever forget what they had seen that day.",
+      "defect": "The source's 아마 means 'probably,' but the current line makes the prediction definite.",
+      "replacement": "The two of them would probably never forget what they had seen that day.",
+      "rationale": "The Korean says the two would probably be unable to forget the day's sights, retaining an explicit hedge.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 101 / assembled P49",
+      "current": "No one yet knew how many of the cowardly deserters scattered across the region had survived.",
+      "defect": "“Across the region” adds a geographic detail not established by the source.",
+      "replacement": "No one yet knew how many of the cowardly deserters who had scattered in all directions had survived.",
+      "rationale": "뿔뿔이 흩어진 describes the deserters scattering in all directions, not their distribution across a stated region.",
+      "confidence": 0.89
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 181 / assembled P89",
+      "current": "The middle-aged man stared at him with equal parts disbelief and contempt.",
+      "defect": "허탈 is rendered as 'disbelief,' changing the man's deflated, exasperated reaction into incredulity.",
+      "replacement": "The middle-aged man stared at him with a look of weary exasperation and contempt.",
+      "rationale": "The source describes a gaze filled with 허탈 and 한심함: hollow exasperation or deflation at the young man's pathetic argument, together with contempt.",
+      "confidence": 0.84
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 219 / assembled P109",
+      "current": "“Hic—gulp.”",
+      "defect": "The current line adds a swallowing action that the source does not establish.",
+      "replacement": "“Hic—”",
+      "rationale": "헙 is an abrupt gasp or interrupted sound following the hiccup, not 꿀꺽 or another explicit swallowing sound.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Korean line 317 / assembled P157",
+      "current": "The middle-aged man remained rooted in place, staring after Jin for a long time before finally releasing the breath he had been holding.",
+      "defect": "The assembled line loses the source's concrete image of watching Jin Taekyung's back as he recedes.",
+      "replacement": "The middle-aged man remained rooted in place, staring at Jin Taekyung’s receding back for a long time before finally releasing the breath he had been holding.",
+      "rationale": "멀어지는 진태경의 뒷모습 specifically depicts Jin's back moving away, not merely the act of staring after him.",
+      "confidence": 0.86
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Korean line 319 / assembled P158",
+      "current": "He felt certain that Jin Taekyung’s expression the last time he saw him would remain etched in his memory for a long time.",
+      "defect": "The current line replaces the source's tentative 아마 ... 것 같았다 with certainty.",
+      "replacement": "He thought Jin Taekyung’s expression the last time he saw him would probably remain etched in his memory for a long time.",
+      "rationale": "The Korean presents this as a likely impression—'would probably seem to remain etched'—rather than a certainty.",
+      "confidence": 0.97
+    }
+  ]
+}
