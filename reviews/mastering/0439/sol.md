@@ -12,7 +12,7 @@ But only for a moment. He lowered his head, which had snapped back from the impa
 
 There was no way an undead monster—already dead, whether it had a soul or not—could feel pain. Magic Johnson really had done one hell of a job with his full-body plastic surgery.
 
-As I clicked my tongue softly, the Skeleton King shrugged.
+As I clicked my tongue, the Skeleton King shrugged.
 
 “You must not place this king on the same level as a weak human.”
 
@@ -32,7 +32,7 @@ I hurriedly raised my internal energy to block the sound, then sighed in relief 
 
 “Go ahead, then.”
 
-Mr. Stone-King, a proud native of Atlanta, Georgia, United States, opened his mouth.
+Mr. Stone-King, a proud native of Atlanta, Georgia, opened his mouth.
 
 “How are you. I’m fine, thank you. And you?”
 
@@ -88,7 +88,7 @@ What an irritating bastard.
 
 There was no doubt about it. He had become far stronger—and far crazier—than he had been as the Skeleton Warlord.
 
-Regardless, he slipped the ring onto his middle finger with a satisfied expression, then pulled a smartphone from the lining of his suit.
+Unbothered by my reaction, he slipped the ring onto his middle finger with a satisfied look, then pulled a smartphone from the lining of his suit.
 
 That, too, was an expensive, cutting-edge smartphone with a Magic Gem built into it, another gift from Magic Johnson.
 
@@ -128,7 +128,7 @@ The Skeleton King answered with an arrogant look and began sending a message to 
 
 > Good human. I'm fine thank you. and you?
 
-After checking the message, I let out a small sigh.
+After checking the message, I sighed.
 
 “Don’t send messages to anyone else.”
 
@@ -154,7 +154,7 @@ I turned my head.
 
 “Isn’t that right, Team Leader Choi?”
 
-In the seat diagonally beside us, Team Leader Choi had been awake by himself for several minutes. He answered,
+In the seat diagonally across from us, Team Leader Choi had been awake by himself for the past few minutes.
 
 “I was already considering the matter of the Skeleton King—”
 
@@ -292,7 +292,7 @@ I nodded, my expression hard.
 
 Right. I was about to get my hands on tens of trillions. Even if I paid every cent of tax I owed, I would still be incredibly wealthy.
 
-No matter how insignificant the conditions they were offering might be, I couldn’t get involved with politicians just to save a little on taxes. That was something I needed to avoid.
+No matter how trivial their request was, I couldn’t get involved with politicians just to save a little on taxes. That was something I needed to avoid.
 
 *A few trillion? I can just pay it and be done with it.*
 

@@ -1,0 +1,105 @@
+{
+  "summary": "The chapter is broadly faithful, but several small action, joke, category, and terminology shifts remain in the assembled copy.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 8-9",
+      "current": "He lowered his head, which had snapped back from the impact, into its proper position and grinned smugly.",
+      "defect": "The source says the impact knocked his head upward before he returned it to position. “Snapped back” changes or obscures that physical direction.",
+      "replacement": "He lowered his head, which the impact had knocked upward, back into its proper position and grinned smugly.",
+      "rationale": "The source explicitly describes the head being struck upward and then reset.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 13-15",
+      "current": "Your disguise is so convincing that I forgot for a second.",
+      "defect": "The source says the appearance was so seamless that the narrator became confused momentarily. “Disguise” adds an unsupported category, while “forgot” changes confusion into a memory lapse.",
+      "replacement": "Oh, right. You look so convincing that I got confused for a second.",
+      "rationale": "감쪽같다 describes an undetectably natural appearance, and 헷갈리다 means to become confused or mistake something.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 48-49",
+      "current": "Yeah. So let’s just say you’re half Korean.",
+      "defect": "“Half Korean” adds a precise ancestry ratio that the source does not establish.",
+      "replacement": "Yeah. So let’s just say you’re of mixed Korean heritage.",
+      "rationale": "한국 혼혈아 identifies him as Korean mixed-race but does not specify that he is exactly half Korean.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 52-53",
+      "current": "Did you hide honey in Atlanta or something?",
+      "defect": "“Or something” adds a hedge absent from the source and weakens the sharp accusation driving the joke.",
+      "replacement": "Did you hide honey in Atlanta?",
+      "rationale": "The Korean directly asks whether Atlanta contains hidden honey before escalating to the claim that every treasure must be there.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Lines 71-73",
+      "current": "That gracious human? A ring for me?",
+      "defect": "“Gracious human” describes courteous or generous behavior rather than the person the Skeleton King is grateful to.",
+      "replacement": "That good human? A ring for me?",
+      "rationale": "고마운 인간 refers to the human deserving gratitude; “good human” also preserves the intentionally awkward wording echoed in the later message.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Lines 97-100",
+      "current": "This king must personally express his gratitude to the gracious human.",
+      "defect": "The same terminology error recurs: “gracious” changes the source's object of gratitude into a personality trait.",
+      "replacement": "This king must personally express his gratitude to the good human.",
+      "rationale": "The source identifies Magic Johnson as the human the Skeleton King is thankful to, not as someone who is merely gracious.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F07",
+      "severity": "minor",
+      "source": "Lines 173-179",
+      "current": "What are the penalties for entering the country illegally?",
+      "defect": "The source asks about the punishment for an illegal entrant or illegal immigrant, not the abstract act of illegal entry.",
+      "replacement": "What are the penalties for an illegal immigrant entering the country?",
+      "rationale": "불법 밀입국자 names the person, which supports the scene's joke about classifying the Skeleton King as an illegal immigrant.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F08",
+      "severity": "minor",
+      "source": "Lines 181-183",
+      "current": "What about entering illegally from the Demon Realm?",
+      "defect": "The source again refers to an illegal entrant from the Demon Realm, but the current wording changes the subject to the act of entering.",
+      "replacement": "What about an illegal immigrant from the Demon Realm?",
+      "rationale": "The repeated person-category is part of the exchange and leads directly to the deportation and raid-team response.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F09",
+      "severity": "minor",
+      "source": "Lines 229-230",
+      "current": "China, where the incident had taken place, and countries around the world were flooding the internet with article after article about my return and what I would do next.",
+      "defect": "The source identifies China as the center of the incident, not merely a place where it happened.",
+      "replacement": "China, the center of the incident, and countries around the world were flooding the internet with article after article about my return and what I would do next.",
+      "rationale": "이번 사건의 중심지였던 중국 emphasizes China's central role in the incident; the current wording loses that detail.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F10",
+      "severity": "minor",
+      "source": "Lines 276-277",
+      "current": "I know how you feel, Mr. Jin Taekyung.",
+      "defect": "The source says Team Leader Choi knows Jin's thoughts or position, not that he empathically understands his feelings.",
+      "replacement": "I know what you think, Mr. Jin Taekyung.",
+      "rationale": "진태경 씨의 생각은 알고 있습니다 refers to Jin's stated view or opinion about political involvement.",
+      "confidence": 0.95
+    }
+  ]
+}
