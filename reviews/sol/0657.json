@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“No. I was sitting with some middle-aged man.”",
+      "defect": "The subject is reversed: Utu-ri says Jin shared a table with a middle-aged man, not that Utu-ri himself sat with one.",
+      "id": "F01",
+      "rationale": "The omitted subject of 동석했습니다 is the previously discussed suspect, Jin, and the ensuing questions concern Jin’s companion.",
+      "replacement": "“No. He was sharing a table with some middle-aged man.”",
+      "severity": "critical",
+      "source": "“아닙니다. 웬 중년 사내와 동석했습니다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I could insist that the old noodle-shop owner’s statement was a lie, but… who knew? If Baeksang were stupid enough to be taken in so easily, we would never have made it this far.",
+      "defect": "The final clause changes the subject from Baeksang to Jin’s group and also renders 글쎄 as uncertainty rather than a dismissive pause.",
+      "id": "F02",
+      "rationale": "여기까지 오지도 않았을 거다 refers to Baeksang’s success in engineering the current situation; Jin is arguing that Baeksang could not have gotten this far if he were that easy to fool.",
+      "replacement": "I could insist that the old noodle-shop owner’s statement was a lie, but… please. If Baeksang were stupid enough to fall for that so easily, he never would have made it this far.",
+      "severity": "critical",
+      "source": "당장 늙은 소면 가게 주인장의 말이 거짓말이라 우길 수도 있겠지만…… 글쎄. 백상이 그 말에 순순히 속아 줄 만큼 멍청했다면 여기까지 오지도 않았을 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Besides, a master like Baeksang would realize just by looking at the wounds left by the assassins who attacked us that most of them weren’t my handiwork.*",
+      "defect": "The draft makes the wounds something inflicted by the assassins, whereas the source refers to wounds on the assassins and whether Jin inflicted them.",
+      "id": "F03",
+      "rationale": "살수들의 상흔 means the assassins’ wounds. Those wounds reveal that most of the attackers were killed or injured by someone other than Jin.",
+      "replacement": "*Besides, a master like Baeksang would realize just by looking at the wounds on the assassins who attacked us that most of them weren’t my handiwork.*",
+      "severity": "critical",
+      "source": "‘게다가 백상 정도의 고수라면 우리를 습격한 살수들의 상흔(傷痕)만 봐도 알아차리겠지. 대부분이 내 솜씨가 아니라는 걸.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Blood-soaked grains of sand were crushed beneath leather shoes, while dozens of fluttering hems brushed against the flowers in the Fire Courtyard.",
+      "defect": "화원 is the common noun “garden” here, not the established proper name Fire Courtyard; the draft relocates the action to an unrelated named location.",
+      "id": "F04",
+      "rationale": "The possessive phrase 화원의 꽃들 describes flowers in the surrounding garden. Nothing in this scene identifies the setting as the proper location called the Fire Courtyard.",
+      "replacement": "Blood-soaked grains of sand were crushed beneath leather shoes, while dozens of fluttering hems brushed against the flowers in the garden.",
+      "severity": "critical",
+      "source": "피에 젖은 모래 알갱이가 가죽신에 짓밟히고, 동시에 펄럭인 수십여 개의 옷자락이 화원의 꽃들을 스쳤다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Yeah, right, you right-and-wrong son of a bitch.”",
+      "defect": "The English is an unnatural noun phrase and weakens the profanity-based distortion of 시시비비 into 시시발발.",
+      "id": "F05",
+      "rationale": "The source sarcastically rejects Baeksang’s promise and crudely twists his formal 시시비비 into a phrase containing 시발; the replacement preserves both the riff and the strong profanity in spoken English.",
+      "replacement": "“Yeah, fucking right, you right-and-wrong bastard.”",
+      "severity": "minor",
+      "source": "“퍽이나 그러겠다, 시시발발 새끼야.”"
+    }
+  ],
+  "summary": "Four critical subject, mechanism, and location errors, plus one minor profanity/wordplay issue.",
+  "version": 1
+}
