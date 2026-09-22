@@ -2076,3 +2076,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대족장 | **Great Chieftain** | Title used for the senior Nanman leader who supposedly ordered the inspection. |
 | 소궁주 | **Young Palace Lord** | Title used for Yayul Mok as heir of the Nanman Beast Palace. |
 | 맥족 | **Maek people** | Tribal group identified among the warriors in the underground prison. |
+| 만리추종향 | **Ten-Thousand-Li Tracking Scent** | An unverified legendary tracking scent discussed by Gung Gibang. |
+| 천리추종향 | **Thousand-Li Tracking Scent** | The highest-grade tracking scent commonly used in the Murim. |
