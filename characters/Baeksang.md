@@ -1,6 +1,6 @@
 # Baeksang (백상)
 
-- **Safe through:** Chapter 688
+- **Safe through:** Chapter 690
 - **Aliases:** None
 - **Role:** Baeksang is the Palace Lord of the Nanman Beast Palace, an over-seventy Great Chieftain of the Bai people, and the ruler directing Nanman's general mobilization and purge of disloyal tribes.
 - **Personality:** Cold, rigid, meticulous, politically resolute, and strategically manipulative, with enduring grief over Hwi's death and a guarded but still powerful bond with his sworn elder brother that now leaves him visibly conflicted.

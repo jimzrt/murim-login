@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The Nanman people fundamentally revered martial arts.",
+      "defect": "“Martial arts” narrows 무 to a discipline or practice, while the passage establishes a broader reverence for martial prowess and physical power.",
+      "id": "F01",
+      "rationale": "The following paragraphs define 무 through military might, warriors, beasts, and the strength required to defend one's possessions.",
+      "replacement": "At heart, the Nanman people revered martial prowess.",
+      "severity": "major",
+      "source": "남만인들은 기본적으로 무(武)를 숭상한다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "No—in fact, her ambitions were greater, and she showed even more enthusiasm than the other tribal chieftains.",
+      "defect": "The draft makes her ambition explicitly greater than the other chieftains', while the source compares only her enthusiasm and merely states that her own ambition was great.",
+      "id": "F02",
+      "rationale": "The comparative phrase modifies her 열의, not the size of her 야망.",
+      "replacement": "No—if anything, her great ambition drove her to pursue it with even more zeal than the other tribal chieftains.",
+      "severity": "minor",
+      "source": "아니, 오히려 야망이 컸던 만큼 다른 부족장들보다 더한 열의를 보였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If not for the cry that reached her ears the next moment, she might have stood there in a daze for quite some time.",
+      "defect": "The draft omits the explicit subject of the cry.",
+      "id": "F03",
+      "rationale": "The source specifically identifies the sound as Muyaho's cry.",
+      "replacement": "If not for Muyaho's cry reaching her ears the next moment, she might have stood there in a daze for quite some time.",
+      "severity": "minor",
+      "source": "다음 순간 들려온 무야호의 울음소리가 아니었다면, 아마 그녀는 한참이나 넋 나간 얼굴로 제자리에 서 있었을지도 몰랐다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A dull ache throbbed across the back of her hand.",
+      "defect": "“Dull ache” does not match the sharp, smarting pain conveyed by 아릿한 after being clawed.",
+      "id": "F04",
+      "rationale": "The source describes a stinging or smarting sensation rather than a dull, throbbing ache.",
+      "replacement": "A sharp sting lingered across the back of her hand.",
+      "severity": "minor",
+      "source": "손등에서 느껴지는 아릿한 고통."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The severed flesh slowly drew together, and the blood that had been flowing gradually stopped.",
+      "defect": "“Severed flesh” suggests flesh that was detached, overstating the shallow claw wound described immediately beforehand.",
+      "id": "F05",
+      "rationale": "베어졌던 살 refers to flesh that had been cut, not severed from her hand.",
+      "replacement": "The cut flesh slowly knitted back together, and the bleeding gradually stopped.",
+      "severity": "minor",
+      "source": "베어졌던 살이 조금씩 이어 붙고, 흘러나오던 핏물이 멎어 간다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only now did Yohi think she understood why Muyaho, who had suffered a sword wound across the nape of its neck, had survived unscathed.",
+      "defect": "“Survived unscathed” means Muyaho suffered no injury, contradicting both the stated sword wound and the healing mechanism Yohi has just discovered.",
+      "id": "F06",
+      "rationale": "The source says Muyaho survived and was now fine despite the wound, not that it escaped the injury entirely.",
+      "replacement": "Only now did Yohi think she understood how Muyaho had survived after suffering a sword wound across the nape of its neck.",
+      "severity": "major",
+      "source": "이제야 목덜미에 검상(劍傷)을 입었던 무야호가 멀쩡히 살아남은 이유를 알 것 같았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Yet even to a naturally gifted spiritual creature like Muyaho, the Black Tiger's existence was an incomprehensible mystery.",
+      "defect": "“Naturally gifted” describes exceptional talent, while 타고난 영물 identifies Muyaho as a spiritual creature by birth or nature.",
+      "id": "F07",
+      "rationale": "The source emphasizes Muyaho's inherent nature as a spiritual creature, not merely that it possesses natural gifts.",
+      "replacement": "Yet even to an innate spiritual creature like Muyaho, the Black Tiger's existence was an incomprehensible mystery.",
+      "severity": "minor",
+      "source": "타고난 영물인 녀석에게도 흑호의 존재는 이해할 수 없는 불가해(不可解)의 영역이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What a touching sight. How did this sleepyhead wake up all by himself, knowing Dad was getting ready for work? Huh?”",
+      "defect": "The draft replaces the father's direct, affectionate “I'm touched” and playful 짜식 address with an impersonal comment about the sight, weakening his intimate teasing voice.",
+      "id": "F08",
+      "rationale": "감동인데 expresses the father's own emotion, while 짜식 is an affectionate, lightly scolding address to his son.",
+      "replacement": "“You little punk, I'm touched. How did this sleepyhead know Dad was leaving for work and wake up all on his own? Huh?”",
+      "severity": "major",
+      "source": "“짜식, 감동인데. 아빠 출근하는 건 어떻게 알고 이 잠꾸러기가 저절로 눈을 떴을까? 응?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The younger me grumbled at the petty teasing.",
+      "defect": "“Petty” can imply mean-spirited or contemptibly trivial behavior, giving the father's harmless affection an unintended negative edge.",
+      "id": "F09",
+      "rationale": "사소한 characterizes the teasing as small and inconsequential, not spiteful.",
+      "replacement": "The younger me grumbled at the harmless teasing.",
+      "severity": "minor",
+      "source": "사소한 장난에 과거의 내가 투덜거렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A few hours later, I would be called to the homeroom teacher's office.",
+      "defect": "The draft adds an office as the destination, although the source only says his homeroom teacher would summon him.",
+      "id": "F10",
+      "rationale": "The source does not specify where the summons occurred, and the added location creates an unsupported scene detail.",
+      "replacement": "A few hours later, I would be summoned by my homeroom teacher.",
+      "severity": "major",
+      "source": "그리고 몇 시간 뒤 나는 담임 선생님께 불려갈 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was the will of my own self, now well into his late twenties.",
+      "defect": "The sentence shifts incorrectly from first-person “my” to third-person “his,” and “well into” overstates 접어든.",
+      "id": "F11",
+      "rationale": "The narrator remains in first person, and the source says he has entered his late twenties without emphasizing how far into them he is.",
+      "replacement": "It happened through the will of my present self, now in my late twenties.",
+      "severity": "minor",
+      "source": "그것은 과거의 내가 아닌, 어느덧 이십 대 후반에 접어든 나 자신의 의지로 벌어진 일이었고,"
+    }
+  ],
+  "summary": "The draft is broadly faithful but contains several altered details, register losses, and localized wording issues.",
+  "version": 1
+}
