@@ -32,7 +32,7 @@ Screaming his acknowledgment, Hyuk Mujin came running and stopped dead in front 
 
 A beat later, Gung Gibang grasped the situation and used his movement technique, arriving almost simultaneously with Hyuk Mujin. As for Cheongpung…
 
-“Pancakes! Please give me the pancakes, quick! Benefactor is angry!”
+“Jeonbyeong! Please hurry with the jeonbyeong! Benefactor is angry!”
 
 That sibu-leol bastard. He was still making sure to get his snacks.
 
@@ -52,7 +52,7 @@ I looked at the fidgeting Cheongpung and the other two, who were subtly avoiding
 
 They should have been squeezing out every last ounce of strength to reach the Zhuge Clan, yet here they were using martial arts to pick up a few silver nyang.
 
-Gung Gibang had even sneakily snatched silver nyang out of someone else’s hand. At this point, he was not a beggar. He was a bandit.
+Gung Gibang had even snatched silver nyang right out of other people’s hands. At this point, he was no beggar. He was a bandit.
 
 *Life, for fuck’s sake…*
 
@@ -76,13 +76,13 @@ Hyuk Mujin jerked his head up, looking incredulous.
 
 “An accurate and wise judgment.”
 
-Gung Gibang, who had been watching my mood, cut in with a solemn voice. Hyuk Mujin opened his round eyes.
+Gung Gibang, who had been watching my mood, cut in solemnly. Hyuk Mujin shot him a vicious glare.
 
-“No, what do you mean, ‘hard to criticize’? You get angry every time I call you a beggar.”
+“What do you mean, ‘wise judgment’? You get angry every time I call you a beggar.”
 
 “Me? What nonsense. I’m a beggar from head to toe. I was born a beggar, and I’ll live as one until the day I die.”
 
-“……You really are a beggar.”
+“……You really are a goddamn beggar.”
 
 “Thank you for the compliment.”
 
@@ -122,7 +122,7 @@ That one sentence said it all. Hyuk Mujin muttered,
 
 “One!”
 
-Hyuk Mujin shouted his reply with all his might and thrust his forehead forward.
+Hyuk Mujin shouted his answer and thrust out his forehead.
 
 That was when it happened.
 
@@ -164,15 +164,15 @@ The onlookers gasped at the flashy display.
 
 “You’ve got a lot of jewels on that thing. Are they supposed to distract people?”
 
-I stared at the jewels decorating his sword. Dozens of gems in a variety of colors were shining in the sunlight.
+I stared at the sword. Dozens of jewels of every kind gleamed in the sunlight.
 
 “What?”
 
-“It’s dazzling. Put it away.”
+“They’re dazzling. Put it away.”
 
 Clang!
 
-The sparrow-eyed man’s eyes widened.
+The sparrow-eyed man’s eyes bulged.
 
 Unable to withstand the force of my finger flick, the sword flew from his hand, spun through the air, and buried itself deep in the ground.
 
@@ -182,7 +182,7 @@ Unable to withstand the force of my finger flick, the sword flew from his hand, 
 
 He was probably somewhere around First Rate.
 
-He seemed to have polished his skills to a decent level, but he was an extreme poseur obsessed with appearances.
+He seemed to have trained hard enough, but he was an insufferable poseur.
 
 “T-this bastard…!”
 
@@ -212,9 +212,9 @@ They looked exactly like zoo visitors watching monkeys.
 
 “Of course, neither am I. And from what I’ve learned, this is the most effective medicine. Isn’t that right?”
 
-I slowly raised my fist, and the Bermuda Triangle, which had been watching only my expression, responded enthusiastically.
+I raised my fist, and the Bermuda Triangle, who had been watching my every move, responded enthusiastically.
 
-“Exactly. They won’t come to their senses until they’ve been beaten like dogs on the hottest day of summer.”
+“Exactly. They won’t come to their senses until they’ve been beaten like dogs on a midsummer day.”
 
 “I was the first one to take that medicine. Cured me on the spot.”
 
@@ -228,13 +228,13 @@ Step.
 
 The moment I stepped forward, panic filled the sparrow-eyed man’s eyes.
 
-A Third Rate thug would charge in out of sheer stubbornness because he would not know his opponent’s level. But that man was a martial artist who had learned martial arts to a certain degree.
+A third-rate street thug wouldn’t know his opponent’s level and would charge in out of sheer stubbornness. But this man was a martial artist who had attained a certain degree of skill.
 
 He had clearly realized that neither he nor the Qingxia Hall martial artists serving as an ornamental backdrop were any match for me.
 
 “W-we’re Qingxia Hall!”
 
-“Oh. So?”
+“Yeah. So?”
 
 “H-have you never heard of Qingxia Hall’s reputation?”
 
@@ -250,11 +250,11 @@ By then, the sparrow-eyed man wasn’t the only one getting desperate.
 
 The Zhuge Clan retainer, who had been clicking his tongue as he watched, cleared his throat and spoke.
 
-“I will explain the situation, so perhaps it would be best if you stopped…”
+“I will explain the situation, so perhaps it would be best if you stopped—”
 
 Whack! Thud!
 
-“Pardon me? What did you just say?”
+“Pardon? Did you just say something?”
 
 “……”
 
@@ -270,7 +270,7 @@ He muttered awkwardly,
 
 “Pardon?”
 
-“It would be better to avoid any unnecessary conflict…”
+“It would be wise to avoid any unnecessary conflict…”
 
 “What was that?”
 
@@ -304,13 +304,13 @@ At the young man’s laughing question, the four huge men carrying his palanquin
 
 “Yes, my lord.”
 
-“We cannot send off the benefactor who gave this Young Master such a good laugh. I am fine, so go and bring him here.”
+“We cannot simply let the honored guest who gave this Young Master such a laugh leave. Do not worry about me. Go and escort him here.”
 
 “Loyalty!”
 
 Their shout rang with internal energy. The huge men set down the palanquin and charged toward me with the speed of the wind.
 
-They had transformed from mere sedan bearers into outstanding Peak masters, attacking while covering all four directions.
+The mere palanquin bearers revealed themselves as formidable Peak masters. They claimed all four directions as they closed in.
 
 Whoooooosh!
 
@@ -320,11 +320,11 @@ Thud-thud-thud-thud!
 
 Exactly four impacts sounded.
 
-With exactly four sounds of impact, four bodies sprawled face-first onto the ground at the same speed with which they had charged.
+Four bodies hit the ground face-first with all the momentum of their charge.
 
 None of them got back up.
 
-“What the sibu-leol?”
+“What the sibu-leol…?”
 
 “……!”
 
@@ -336,7 +336,7 @@ Complete silence descended over the main road.
 
 I nudged the unconscious giants with my foot, then shrugged at the young man. The corners of his mouth, which had been raised so high moments before, were now trembling.
 
-“Interesting. Very interesting. Don’t you all think so too?”
+“Interesting. Very interesting. Don’t you all agree?”
 
 The Zhuge Clan retainer put a hand to his forehead, while Gung Gibang and Hyuk Mujin nodded mechanically.
 
@@ -356,7 +356,7 @@ I pointed at the young man.
 
 Hyuk Mujin, desperate to avoid even a single blow, threw himself into the task with greater enthusiasm than anyone else. Gung Gibang stepped forward as well, despite his grumbling.
 
-The situation had completely reversed from how it had begun.
+The situation had completely reversed.
 
 Once even their trusted guards were defeated, the men and women of Qingxia Hall began shrieking at the tops of their lungs.
 
@@ -366,7 +366,7 @@ Once even their trusted guards were defeated, the men and women of Qingxia Hall 
 
 “If you lay a hand on me, do you think my family will stand by and do nothing?”
 
-I had only meant to grab one person, but these people were apparently set items that came attached in a chain.
+I had only meant to grab one of them, but apparently they were a set. The rest came attached.
 
 I turned to the first one who had shouted.
 
@@ -396,11 +396,11 @@ The Young Bureau Head of the Daejuksan Escort Bureau widened his eyes and answer
 
 Ah. That was understandable.
 
-After dealing with one of them easily, I turned to the sharp-voiced woman.
+After putting him in his place, I turned to the sharp-voiced woman.
 
 “What family did you say you were from?”
 
-“Hmph! No matter how much of a scoundrel you are, surely you’ve heard of the name of the Hyungmun Sword Family!”
+“H-hmph! No matter how much of a scoundrel you are, surely you’ve heard the name of the Hyungmun Sword Family!”
 
 “Never heard of it. Stop talking nonsense and get down.”
 
@@ -414,7 +414,7 @@ After dealing with one of them easily, I turned to the sharp-voiced woman.
 
 “Yes, sir.”
 
-After two or three of them climbed down from their sedan chairs, the rest began touching their feet to the ground one by one without even speaking.
+After two or three of them climbed down from their palanquins, the rest quietly followed before I could even ask.
 
 All except one.
 
@@ -428,9 +428,9 @@ Every trace of laughter had vanished from the young man’s face. His eyes gleam
 
 “Heh. What a ridiculous situation.”
 
-The young man gave a hollow laugh, then shouted in a dignified voice,
+The young man let out a hollow laugh, then proclaimed in a dignified voice,
 
-“I, Ju Wongong, am a noble scion of the dragon’s blood and a third cousin of His Majesty the Emperor! If you know your crime, kneel even now!”
+“I, Ju Wongong, am a noble scion of the dragon’s blood and a third cousin of His Imperial Majesty the Emperor! If you understand the gravity of your crime, kneel at once!”
 
 “Okay, Celestial Dragon.[^2] Get down.”
 

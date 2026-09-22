@@ -1,0 +1,55 @@
+{
+  "summary": "Mostly faithful, but several minor source details were weakened or generalized in the assembled copy.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Source line 37; assembled [P19]",
+      "current": "That sibu-leol bastard. He was still making sure to get his snacks.",
+      "defect": "The source specifically says Cheongpung was making sure to get the jeonbyeong, established here as pancakes. “Snacks” generalizes away the concrete food and loses the repeated joke.",
+      "replacement": "That sibu-leol bastard. Look at him making sure to get his pancakes even now.",
+      "rationale": "전병 is the specific object Cheongpung is securing, not merely an unspecified snack.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Source line 53; assembled [P27]",
+      "current": "They should have been squeezing out every last ounce of strength to reach the Zhuge Clan, yet here they were using martial arts to pick up a few silver nyang.",
+      "defect": "The source says they could not even muster their last ounce of strength and run to the Zhuge Clan, not that they should have done so. The current wording changes inability into an implied obligation.",
+      "replacement": "They could not even drag up the last ounce of their strength and run to the Zhuge Clan, yet look at them using martial arts to pick up a few silver nyang.",
+      "rationale": "못할망정 contrasts their inability to perform the first action with their use of martial arts for the trivial second action.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Source line 329; assembled [P169]",
+      "current": "I nudged the unconscious giants with my foot, then shrugged at the young man.",
+      "defect": "“Nudged” weakens the physical action. The source says he lightly kicked the unconscious giants repeatedly.",
+      "replacement": "I gave the unconscious giants a few light kicks, then shrugged at the young man.",
+      "rationale": "툭툭 걷어찼다 depicts actual light kicks, not merely nudging.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Source line 317; assembled [P163]",
+      "current": "None of them got back up.",
+      "defect": "The current wording drops the source's explicit permanence: they never got up again.",
+      "replacement": "And they never got back up.",
+      "rationale": "다시는 일어나지 못했다 establishes that the four men would not rise again, rather than only stating that they did not immediately get up.",
+      "confidence": 0.89
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Source line 369; assembled [P191]",
+      "current": "I don’t, you sibu-leol bastard. Get down before I beat you into juk.",
+      "defect": "The translation preserves the juk wordplay but loses the source's concrete image of beating him into a bowl of porridge.",
+      "replacement": "I don’t, you sibu-leol bastard. Get down before I beat you into a bowl of juk.",
+      "rationale": "죽사발 explicitly contains 사발, “bowl,” and that image is part of the threat and the Juksan/죽 wordplay.",
+      "confidence": 0.97
+    }
+  ]
+}
