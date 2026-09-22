@@ -1111,3 +1111,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 백상 | 우투리 | great chieftain to summoned Bai elder and eyewitness | Utu-ri | formal and investigative | Baeksang questions Utu-ri about whether he recognizes Jin and what he observed at the noodle shop. |
 | 장 족장 | 송일섬 | tribal_chieftain_to_hostile_captive | you | grave and reluctant | Chief Jang explains that the betrayal was not Song's misunderstanding and that the palace-sealed order cannot be refused. |
 | 백상 | 백휘 | father_to_deceased_child | Hwi | emotionally charged and possessive | Baeksang directly invokes his deceased child's name while confronting Jin. |
+| 수하 | 수달 | subordinate_to_deputy_stronghold_lord | Deputy Stronghold Lord | deferential but alarmed | Sudal's subordinates challenge his plan to raid Guizhou. |
+| 수달 | 수하 | deputy_stronghold_lord_to_subordinates | boys | casual and commanding | Sudal orders his subordinates to raid Guizhou. |
+| 혈승 | 수달 | unknown_hostile_encounter | you | casual and probing | The Blood Monk questions Sudal after taking control of the crewless swift ship. |
