@@ -2141,3 +2141,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 남만당 | **Nanman Party** | Organization to which Namho belongs. |
 | 마석 | **demonic stone** | The former sacred stone after absorbing demonic qi from the rift. |
 | 타락한 신물 | **Corrupted Divine Artifact** | Title of the System quest offered at the end of the chapter. |
+| 생명의 연못 | **Pond of Life** | The healing and purifying pond within the Sacred Land. |
+| 타락한 신석 | **Corrupted Sacred Stone** | The sacred stone after being corrupted by demonic qi. |
