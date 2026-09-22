@@ -2,15 +2,15 @@
 
 *Fwoooooosh!*
 
-The instant the Arch Lich faced the enormous fire dragon that burst from the spearhead, it realized the truth.
+The instant the enormous fire dragon burst from the spearhead, the Arch Lich realized—
 
 *Too late.*
 
 There was no avoiding this attack.
 
-The Spell it had not yet managed to unleash and the mana that had been on the verge of completion scattered beneath the flames rushing straight toward it.
+The Spell it had failed to unleash and the mana it had nearly completed were scattered by the onrushing flames.
 
-The fire dragon, blazing with hellfire, opened its jaws at the Arch Lich, which had frozen in place, oblivious even to the pain.
+Oblivious even to its pain, the Arch Lich froze as the fire dragon, blazing with hellfire, opened its jaws.
 
 *Kwooooooong!*
 
@@ -18,11 +18,11 @@ Blue flames swept in every direction with a thunderous roar like that of a drago
 
 The Arch Lich felt the mana and barriers surrounding it melt away. It even felt a sensation it had long since forgotten.
 
-*It’s hot.*
+*Hot.*
 
 *Fwoosh!*
 
-Blue hellfire filled the Arch Lich’s vision. The fire dragon swept over its entire body and continued onward without stopping.
+Blue hellfire filled its vision. The fire dragon swept over its entire body, then continued onward without stopping.
 
 Straight toward the enormous black door towering over the center of the ruined city.
 
@@ -38,7 +38,7 @@ The moment the unprecedented mass of mana gathered from the life force of hundre
 
 A pillar of light rose into the sky, bright enough to be seen from hundreds, perhaps thousands, of kilometers away.
 
-Darkness and blue flames collided with one another, then soon blended together. The forest of buildings that had been struggling to remain standing bent at the waist, and a ring of wind burst outward.
+Darkness and blue flames crashed together, then began to merge. The forest of buildings that had barely remained standing bent at the waist, and a circular shock wave burst outward.
 
 *Krrrrooooom—*
 
@@ -60,9 +60,9 @@ The Arch Lich slowly turned its head. Its trembling red eye-lights settled on th
 
 —“I should have killed you.”
 
-The single sentence broke the silence.
+The words broke the silence.
 
-Jin Taekyung opened his mouth, his complexion utterly bloodless. The accumulated damage and mental exhaustion from his endless battles made him look as though he might collapse at any moment, but his voice alone had not lost its strength.
+Jin Taekyung’s face was utterly bloodless. The accumulated damage and mental exhaustion from his endless battles made him look ready to collapse at any moment, but his voice had lost none of its strength.
 
 “Yeah. You should’ve killed me sooner.”
 
@@ -92,9 +92,9 @@ Jin Taekyung.
 
 The Arch Lich’s fading red eye-lights flared with the last of their strength.
 
-A vow to itself and an oath of vengeance spilled toward Jin Taekyung.
+A vow to itself and an oath of vengeance spilled from its lips.
 
-—“Remember me. Remember this body, which will one day trample your souls beneath its bare feet.”
+—“Remember me. Remember the one who will someday trample your souls beneath his bare feet.”
 
 Jin Taekyung spat out a wad of phlegm.
 
@@ -106,7 +106,7 @@ The Skeleton King hesitantly opened its mouth.
 
 “…Not you.”
 
-—“Ah, I know. I just wanted to try it once. But I cannot say that I feel good after uttering something so blasphemous.”
+—“Ah, I know. I merely wanted to try saying it once. But I do not feel good after uttering something so blasphemous.”
 
 “What’s the problem? You’re a king now, too.”
 
@@ -116,13 +116,13 @@ The Skeleton King hesitantly opened its mouth.
 
 The Arch Lich stretched both hands toward Jin Taekyung and the Skeleton King.
 
-Its skeletal hands clenched as if they would crush the two figures standing far away, but nothing happened.
+Its skeletal fingers clenched as though crushing the two distant figures, but nothing happened.
 
-Instead, a wind that had blown in from somewhere brushed against its entire body.
+Instead, a wind from somewhere brushed across its body.
 
 *Whoooooosh.*
 
-It was collapse.
+It was collapsing.
 
 Beginning with its hands, which turned to ash and scattered, everything that made up the Arch Lich began to crumble.
 
@@ -130,9 +130,9 @@ Its arms. Its legs. Its chest.
 
 And finally, even the skull housing its red eye-lights.
 
-—“Please survive. Until the day we meet again…”
+—“Survive until the day we meet again…”
 
-Its final voice, filled with resentment, vanished into the wind.
+Its final, hate-filled words faded into the wind.
 
 The wind grew stronger and swept onward, carrying the ashes of what had once been the Arch Lich.
 
@@ -156,7 +156,7 @@ With that final thought, a deep and peaceful sleep overtook him.
 
 The Skeleton King carefully caught Jin Taekyung as he fell and saw the faint smile on his lips.
 
-—“…You worked hard.”
+—“…You did well.”
 
 *Devious though he may be, he really is a pretty decent human.*
 
@@ -170,7 +170,7 @@ It did not know who had named it, but there was no doubt that the sword held a m
 
 That sword had awakened it from the brink of Erasure when it had still been the Skeleton Warlord. It was also thanks to the sword that it had managed to deal such a devastating blow to the terrifying Arch Lich.
 
-—“I almost forgot. I need to make sure to keep it safe.”
+—“I nearly forgot. I must make sure to retrieve it.”
 
 It did not take long to find. The sword that had remained embedded in its target’s chest until the very end lay quietly where the Arch Lich had stood only moments ago.
 
@@ -188,7 +188,7 @@ But no matter how thoroughly the Skeleton King searched the area or examined the
 
 It scratched its golden skull and pondered the matter for a while before finally reaching a conclusion.
 
-—“Hmm. I guess this is it.”
+—“Hmm. This must be it.”
 
 It was probably just a fleeting impression. The sword looked exactly as it remembered, and it had seen the weapon fall from the Arch Lich’s chest with its own eyes.
 
@@ -204,7 +204,7 @@ Mist-like black energy had mingled with the wind scattering into the distance.
 
 And the golden light dwelling within **Hero’s Soul** had left the sword to pursue it.
 
-But one being was different.
+One being, however, knew exactly what was happening.
 
 The black energy drifted away on the wind.
 
@@ -266,7 +266,7 @@ While the S-rank Hunters had moved toward the rear with part of the army to clea
 
 “Fire Rain!”
 
-*Kwaaang!*
+*Kwoom! Kwoom! Kwoom!*
 
 The mage units in the rear unleashed an area-wide spell, and a rain of fire poured from the sky.
 
@@ -274,11 +274,11 @@ Hundreds of monsters burned to death, reduced to charred lumps. The mages clench
 
 Then—
 
-*Whoooooosh! Thwack!*
+*Whoosh! Splat!*
 
 “…Huh?”
 
-One of the mages wiped the blood from their face with a bewildered expression.
+One of the mages wiped the blood from their face in confusion.
 
 The face of the comrade who had been smiling at them only moments ago was gone.
 
@@ -296,9 +296,9 @@ Only then did the belated screams erupt.
 
 “Death Knights! They’re Death Knights!”
 
-「Fuck, what the hell are you talking about? Didn’t we take care of all of them?」
+“Fuck, what the hell are you talking about? Didn’t we kill all of them?”
 
-「I-I don’t think so! It looks like they hid their elites separately among the others!」
+“I-I don’t think so! They must have kept their elites hidden separately!”
 
 Those words soon proved true.
 
@@ -306,7 +306,7 @@ Having clearly recognized the absence of the S-rank Hunters, the elite monsters 
 
 *Slash!*
 
-*Kwaaang!*
+*Kwoooom!*
 
 Death Knights, Liches, and dozens of Wyverns that had remained out of sight appeared and launched a ferocious assault.
 
@@ -326,7 +326,7 @@ No.
 
 It crumbled into ash.
 
-“W-What the hell…?”
+“W-What is this…?”
 
 The Hunter who had narrowly escaped death looked around and gaped.
 
@@ -336,7 +336,7 @@ First, hundreds fell.
 
 Then thousands crumbled.
 
-Before long, monsters numbering in the tens of thousands were turning to ash and scattering.
+Soon, tens of thousands of monsters were turning to ash and scattering into the wind.
 
 *Whoooooosh.*
 

@@ -1,0 +1,325 @@
+# Chapter 426
+
+*Fwoooooosh!*
+
+The instant the Arch Lich faced the enormous fire dragon that burst from the spearhead, it realized the truth.
+
+*Too late.*
+
+An unavoidable attack.
+
+The Spell it had not yet managed to unleash and the mana that had been on the verge of completion scattered beneath the flames rushing straight toward it.
+
+The fire dragon, blazing with hellfire, opened its jaws at the Arch Lich, which had frozen in place, oblivious even to the pain.
+
+*Kwooooooong!*
+
+Along with a thunderous roar like that of a dragon, blue flames swept in every direction. A terrible heat distorted space and vaporized everything.
+
+The Arch Lich felt the mana and barriers surrounding it melt away. It even felt a sensation it had truly forgotten for a very long time.
+
+*It’s hot.*
+
+*Fwoosh!*
+
+Blue hellfire filled the Arch Lich’s vision. The fire dragon swept over its entire body and continued onward without stopping.
+
+The fire dragon was headed toward the enormous black door standing tall in the center of the ruined city.
+
+The Gate.
+
+*No!*
+
+The Arch Lich opened its red eye-lights wide and reached out, but no voice came from it, and the fire dragon swallowed the Gate—as large as itself—whole.
+
+At the moment that the unprecedented mana gathered from the life force of hundreds of thousands of humans collided with the flames, a blinding flash erupted.
+
+*Fwoosh!*
+
+It was a pillar of light that could probably be seen from hundreds, even thousands, of kilometers away.
+
+Darkness and blue flames collided with one another, then soon blended together. The forest of buildings that had been struggling to remain standing bent at the waist, and a ring of wind burst outward.
+
+*Krrrrooooom—*
+
+A thunderous roar and vibration beyond anything words could express shook the world.
+
+The gray sky split apart, and the gray fog that had densely shrouded the entire city scattered like heat haze.
+
+And then, as if all of it had been a dream from some distant day, a quiet stillness descended.
+
+*Ah.*
+
+The Arch Lich gazed at the world with hollow eyes.
+
+The scenery looked no different from before, but it knew. Everything, including itself, had changed. Everything had collapsed like a sandcastle.
+
+The Arch Lich slowly turned its head. Its trembling red eye-lights reached the person standing tall like an iron tower.
+
+—“I should have killed you.”
+
+The single sentence broke the silence.
+
+Jin Taekyung opened his mouth, his complexion utterly bloodless. The accumulated damage and mental exhaustion from his endless battles made him look as though he might collapse at any moment, but his voice alone had not lost its strength.
+
+“Yeah. You should’ve killed me sooner.”
+
+The Arch Lich closed its mouth. It was certainly its own fault for missing the chance to cut off Jin Taekyung’s breath.
+
+A momentary lapse in vigilance had turned everything to nothing.
+
+*My king. Please forgive this disloyal servant.*
+
+The Arch Lich begged forgiveness from its king, wherever he might be.
+
+If it had killed Jin Taekyung without delay, if the monster that had taken the human’s side had not been reborn as a new being and driven that damned sword into its chest… everything would have proceeded according to plan.
+
+It would have survived and completed the Gate. Leading an innumerable monster army beyond imagination, it would have hunted down and killed those verminous humans and burned the city to the ground.
+
+While waiting for the great king to return someday.
+
+But the plan it had believed to be perfect had been thoroughly ruined.
+
+By the arrival of a single human.
+
+Jin Taekyung.
+
+The Arch Lich’s red eye-lights, which had been gradually fading, flared with their last remaining strength.
+
+A vow to itself and an oath of vengeance spilled toward Jin Taekyung.
+
+—“Remember me. Remember this body, which will one day trample your souls beneath its bare feet.”
+
+Jin Taekyung spat out a wad of phlegm.
+
+“Big talk from a bastard who’s about to croak. Try saying, ‘Asmodeus is a fucking son of a bitch.’”
+
+The Skeleton King hesitantly opened its mouth.
+
+—“Asmodeus is a fucking asshole…”
+
+“Not you.”
+
+—“Ah, I know. I just wanted to try it once. But I cannot say that I feel good after uttering something so blasphemous.”
+
+“What’s the problem? You’re a king now, too.”
+
+—“Oh. That’s true.”
+
+*I swear on the River of Death, I will tear those two apart.*
+
+The Arch Lich stretched both hands toward Jin Taekyung and the Skeleton King.
+
+Its skeletal hands clenched as if they would crush the two figures standing far away, but nothing happened.
+
+Instead, a wind that had blown in from somewhere brushed against its entire body.
+
+*Whoooooosh.*
+
+It was collapse.
+
+Beginning with the Arch Lich’s hands turning to ash and scattering, everything that made up its body began to crumble.
+
+Its arms, legs, and chest, and finally even the skull containing its red eye-lights.
+
+—“Please survive. Until the day we meet again…”
+
+Its final voice, filled with resentment, vanished into the wind.
+
+The wind grew stronger, carrying the ash that had once been called the Arch Lich as it continued onward.
+
+Whenever the wind passed, everything caught within the range of One Annihilation sank and crumbled. Collapsed high-rise buildings, heaps of concrete, overturned cars, and corpses from which life had already departed…
+
+And even the enormous, unfinished Gate that would have become the starting point of an even greater war.
+
+*Fssshhh.*
+
+As Jin Taekyung stared silently at the scene, a clear chime rang in his ears—the sound that only he could hear in this place.
+
+*Ding. Ding. Ding.*
+
+Countless System messages obscured his vision. They were a celebratory salute announcing that everything had finally ended.
+
+But Jin Taekyung’s body, which had exhausted every last bit of its strength, was already tilting toward the ground.
+
+*I did it.*
+
+With that as his only remaining thought, a deep, peaceful sleep came to him.
+
+And as the Skeleton King carefully caught Jin Taekyung’s falling body, it saw the faint smile spreading across his lips.
+
+—“…You worked hard.”
+
+*He is a cunning human, but he really is a pretty decent one.*
+
+The Skeleton King murmured inwardly. Then, as it began to move Jin Taekyung to a safe and comfortable place, it remembered something it had forgotten.
+
+—“Ah, that’s right. The sword.”
+
+*Was it called Hero’s Soul?* It did not know who had given it that name, but it was certain that a mysterious power dwelled within it.
+
+It was thanks to that sword that it had awakened on the verge of Erasure when it had been the Skeleton Warlord, and that it had been able to inflict serious damage on that terrifying Arch Lich.
+
+—“I almost forgot. I need to make sure to keep it safe.”
+
+It did not take the Skeleton King long to find it. The sword that had remained buried in the target’s chest until the very end was lying quietly in the place where the Arch Lich had stood only moments ago.
+
+But after picking up **Hero’s Soul**, the Skeleton King tilted its head.
+
+—“Huh? Something feels strange.”
+
+It was a peculiar feeling, difficult to explain.
+
+It could not put its finger on it, but how should it say this? The sword was certainly a fine blade, yet it did not have the same sense of mystery as before.
+
+—“Did I pick up the wrong sword?”
+
+But no matter how thoroughly the Skeleton King searched its surroundings or examined the sword, nothing changed.
+
+After scratching its golden skull and pondering for a while, the Skeleton King finally reached a conclusion.
+
+—“Hmm. I guess this is it.”
+
+It decided that it was nothing more than a momentary feeling. The sword looked the same as the one it remembered, and it had even seen it fall from the Arch Lich’s chest with its own eyes.
+
+*But why does this feel so unsettling?*
+
+It was something it could not understand at all. The Skeleton King shook its head, then slid the sword between its pelvic bones to store it.
+
+As it immediately headed toward Jin Taekyung, who lay collapsed on the ground, it did not know that the moment Jin Taekyung lost consciousness after exhausting all his strength, mist-like black energy had mingled with the wind scattering in the distance.
+
+Nor did it know that the golden light clinging to **Hero’s Soul** had vanished as it pursued the black energy.
+
+But one being was different.
+
+The black energy that had flowed somewhere within the wind.
+
+The Arch Lich, which had lost most of its power because of Jin Taekyung and had been reduced to a tiny, powerless fragment of a soul, opened its eyes wide as it saw the dazzling golden light blocking its path.
+
+*This is impossible.*
+
+The words the Arch Lich had spoken to Jin Taekyung and the Skeleton King before losing its form had been entirely true.
+
+It would return in the near future. It intended to stain this land with blood using even greater power than before and an even larger monster army.
+
+Life Force Vessel.
+
+The highest-level black magic usable only by the undead, and a vessel capable of storing a fragment of the soul.
+
+If it had that, it could avoid eternal Erasure.
+
+No—it had believed it could, until that brilliant golden light blocked its path.
+
+—“You… What are you?”
+
+The Arch Lich was now nothing more than a pitiful fragment of a soul, incomparable to the power transmitted by the light.
+
+The black energy writhed violently with rage, confusion, and fear.
+
+But even though the Arch Lich’s thoughts reached it, the golden light showed no reaction. It merely shone more brightly and swelled larger.
+
+And in the next moment, the Arch Lich realized the identity of the light.
+
+*That is not magic. It is a soul.*
+
+Someone’s soul—the one it had once shattered and trampled beneath its feet. A fragment of a soul that had already lost its form, yet remained within the sword through nothing but its will.
+
+Suddenly, the Arch Lich recalled one of the memories it had pushed deep into the back of its mind.
+
+*“You are a noble one, human. What is your name?”*
+
+That day, when blood had formed rivers and corpses had formed mountains. A single human who had remained standing until the very end in a city filled with nothing but destruction and death.
+
+—“Lei Fei.”
+
+The movement of the Arch Lich—or rather, the black energy—stopped abruptly.
+
+The dazzling golden light that burst through the air swept over it like a wave.
+
+*Fwoooooosh!*
+
+*…Damn it.*
+
+And that was the Arch Lich’s final thought.
+
+* * *
+
+The situation on the battlefield where the main forces had gathered was fierce.
+
+While the S-rank Hunters moved toward the rear with some of the troops to open a path for the suicide squad, the monster army numbering in the tens of thousands did not miss the opportunity and charged forward.
+
+「Fire Rain!」
+
+*Kwaaang!*
+
+When the mage units positioned in the rear unleashed an area-wide spell, a rain of fire poured down.
+
+The mages clenched their fists at the sight of hundreds of monsters burning to death as charred lumps of coal.
+
+That was when—
+
+*Whoooooosh! Thwack!*
+
+「…Huh?」
+
+One of the mages wiped the blood from their face with a bewildered expression.
+
+The face of a comrade who had been smiling back at them only moments ago had disappeared.
+
+No, it had burst apart.
+
+Pierced by a black spear that had cut through the distance like a beam of light.
+
+*Whooooooosh! Boom!*
+
+Only after another spear flew in and skewered six or seven mages like meat on a spit did belated screams ring out.
+
+「Aaaaargh!」
+
+「Death Knights! It’s Death Knights!」
+
+「Fuck, what the hell are you talking about? Didn’t we take care of all of them?」
+
+「I-I don’t think so! It looks like they hid their elites separately among the others!」
+
+Someone’s words soon became reality.
+
+The elite monsters, having clearly noticed the absence of the S-rank Hunters, revealed themselves on the battlefield, and an unstoppable slaughter began.
+
+*Slash!*
+
+*Kwaaang!*
+
+Death Knights, Liches, and dozens of Wyverns that had remained unseen appeared and launched a fierce assault.
+
+People died without end, and monsters continued to surge forward.
+
+With even the S-rank Hunters away from their positions, deep despair spread across the faces of those staking their lives to hold the line.
+
+*It’s all over.*
+
+And at the exact moment everyone thought of death—
+
+*Shiiiiing!*
+
+The Death Knight’s sword, which had been cutting through someone’s body, suddenly stopped.
+
+No.
+
+It crumbled into ash.
+
+“W-What the hell…?”
+
+The Hunter who had barely survived checked his surroundings and gaped.
+
+It was an unbelievable sight.
+
+First, hundreds fell.
+
+Then thousands crumbled.
+
+Before long, monsters numbering in the tens of thousands were turning to ash and scattering.
+
+*Whoooooosh.*
+
+At long last, it was the end of the war.

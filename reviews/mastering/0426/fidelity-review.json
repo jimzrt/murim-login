@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The Arch Lich fell silent.",
+      "defect": "The source explicitly says the Arch Lich closed its mouth, a physical action that is reduced to the broader state of becoming silent.",
+      "id": "F01",
+      "rationale": "입을 다물었다 describes closing the mouth, not merely falling silent. The accepted baseline preserved this physical action.",
+      "replacement": "The Arch Lich closed its mouth.",
+      "severity": "minor",
+      "source": "Lines 67–71"
+    },
+    {
+      "confidence": 0.9,
+      "current": "All because of a single human.\n\nJin Taekyung.",
+      "defect": "The translation attributes the failure merely to a single human, omitting that it was caused by Jin Taekyung's appearance or arrival.",
+      "id": "F02",
+      "rationale": "진태경의 등장으로 인하여 identifies his 등장—his appearance or arrival—as the cause, not simply his existence.",
+      "replacement": "All because of the arrival of a single human.\n\nJin Taekyung.",
+      "severity": "minor",
+      "source": "Lines 83–85"
+    },
+    {
+      "confidence": 0.94,
+      "current": "It would return in the near future. With even greater power and an even larger army of monsters, it would stain this land with blood.",
+      "defect": "The current wording presents staining the land with blood as a future event or prediction rather than the Arch Lich's stated intention.",
+      "id": "F03",
+      "rationale": "피로 물들일 생각이었다 expresses an intention or plan to stain the land with blood, not merely what would happen in the future.",
+      "replacement": "It would return in the near future. It intended to stain this land with blood using even greater power and an even larger monster army.",
+      "severity": "minor",
+      "source": "Lines 203–205"
+    },
+    {
+      "confidence": 0.91,
+      "current": "A black spear had crossed the distance like a beam of light and struck them.",
+      "defect": "“Struck” weakens the spear's penetration into the mage, losing the source's physical mechanism.",
+      "id": "F04",
+      "rationale": "파고든 describes the black spear boring or driving into the target, not merely hitting it.",
+      "replacement": "A black spear had driven into them like a beam of light.",
+      "severity": "minor",
+      "source": "Lines 271–273"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but three minor source-fidelity losses remain: one physical action, one causal detail, and one statement of intent.",
+  "version": 1
+}
