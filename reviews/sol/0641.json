@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“Would you look at these bastards! They ought to be beaten to death!”\n\nI calmed the Beast Miao King, whose eyes had reddened with fury.\n\n“Uh, sorry to interrupt, but you already beat them to death.”",
+      "defect": "The draft turns the intensive idiom 쳐 죽이다 into the specific physical action of beating them to death, asserting a method absent from the source.",
+      "id": "F01",
+      "rationale": "The source repeats 죽이다 to set up the deadpan reminder that the spiders are already dead; 쳐 intensifies the killing rather than establishing that they were beaten.",
+      "replacement": "“Would you look at these goddamn bastards! They deserve to die!”\n\nI calmed the Beast Miao King, whose eyes had reddened with fury.\n\n“Uh, sorry to interrupt, but you already killed them.”",
+      "severity": "critical",
+      "source": "“이런 쳐 죽일 놈들을 봤나!”\n\n나는 분노로 눈가가 붉게 달아오른 야수묘왕을 진정시켰다.\n\n“그, 말씀 중에 죄송한데, 이미 쳐 죽이셨습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Rest here.*\n\n“Rest here. Huh?”",
+      "defect": "The draft changes an epitaph meaning “lies/sleeps here” into an imperative telling Jang Sam to rest.",
+      "id": "F02",
+      "rationale": "Together with the previously dictated name and the wooden tablet, 이곳에 잠들다 forms a mock epitaph, which drives Jang Sam’s delayed alarm.",
+      "replacement": "*Lies here.*\n\n“Lies here. Huh?”",
+      "severity": "critical",
+      "source": "‘이곳에 잠들다.’\n\n‘이곳에 잠들. 예?’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Those damn spiders. They’ve been eating their fill for a long, long time.”",
+      "defect": "The draft substantially softens both 새끼들 and the deliberately vulgar 처먹다.",
+      "id": "F03",
+      "rationale": "The source uses two distinct vulgar expressions to convey Jin Taekyung’s disgust; the replacement preserves that coarse register without intensifying it.",
+      "replacement": "“Spider bastards. They’ve sure been stuffing their faces for a long time.”",
+      "severity": "major",
+      "source": "“거미 새끼들. 오랫동안 많이도 해 처먹었네.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Beast Miao King fell silent for a moment at my clearly loaded question, then suddenly spoke.",
+      "defect": "The narration calls Jin Taekyung’s preceding declarative statement a question.",
+      "id": "F04",
+      "rationale": "The source says 내 말, “my words,” and characterizes their deliberate implication; it does not identify them as a question.",
+      "replacement": "The Beast Miao King fell silent for a moment at my clearly pointed words, then abruptly spoke.",
+      "severity": "minor",
+      "source": "다분히 의도가 묻어나는 내 말에 잠시 침묵하던 야수묘왕이 불쑥 입을 열었다."
+    }
+  ],
+  "summary": "The draft alters a killing idiom into a specific method, softens deliberate profanity, turns an epitaph into an instruction, and mislabels a pointed statement as a question.",
+  "version": 1
+}
