@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.82,
+      "current": "the rancid stench assaulting my nose",
+      "defect": "쉰내 is a sour or stale odor, while “rancid” shifts the physical detail toward rotten or oily spoilage.",
+      "id": "F01",
+      "rationale": "The source specifically describes a 코를 찌르는 쉰내—a sour smell that stings the nose—not a rancid odor.",
+      "replacement": "the sour stench stabbing at my nose",
+      "severity": "minor",
+      "source": "Source line 185 / P91"
+    },
+    {
+      "confidence": 0.92,
+      "current": "Naturally, I told him I’d never seen anything like it in my life.",
+      "defect": "The current broadens the claim from never having seen this specific thing to never having seen anything resembling it, adding a category that the Korean does not establish.",
+      "id": "F02",
+      "rationale": "난생처음 본다고 answers whether he had seen the item before: he said it was his first time seeing it.",
+      "replacement": "Naturally, I said I was seeing it for the first time.",
+      "severity": "minor",
+      "source": "Source line 217 / P106"
+    },
+    {
+      "confidence": 0.86,
+      "current": "“Easily.”",
+      "defect": "This answers how easily the discrimination could be done rather than affirming the speaker’s deadpan admission that he is in fact discriminating against Hyuk Mujin, changing the punchline’s logic.",
+      "id": "F03",
+      "rationale": "응. 있어. is a clipped affirmative response to the accusation—essentially, “Yes, I can [discriminate like this]”—not a statement about difficulty.",
+      "replacement": "“Yep. I can.”",
+      "severity": "minor",
+      "source": "Source lines 219–223 / P109"
+    }
+  ],
+  "summary": "The chapter is largely faithful. Three minor fidelity leaks remain: one odor detail, one broadened claim, and one altered punchline response.",
+  "version": 1
+}

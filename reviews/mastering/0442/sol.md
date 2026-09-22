@@ -28,7 +28,7 @@ After a brief silence, hearty laughter burst out.
 
 “What?”
 
-“There’s a certain bastard who always takes everything I say for dog shit. But maybe because he’s been feeling better lately, he doesn’t seem able to control his mouth. So I’m wondering whether I should beat him a few times. What do you think?”
+“There’s a certain bastard who treats everything I say like dog shit. Maybe it’s because he’s been feeling better lately, but he can’t seem to keep his mouth under control. So I’m wondering whether I should smack him around a little. What do you think?”
 
 Hyuk Mujin considered the question for a moment.
 
@@ -42,7 +42,7 @@ Hyuk Mujin considered the question for a moment.
 
 “…”
 
-“Be quiet unless you want another taste of the Yangtze.”
+“Keep quiet unless you want another dunking.”
 
 Hyuk Mujin nodded frantically, practically having a seizure.
 
@@ -60,7 +60,7 @@ The moment Mungyeong’s superb medical skills had restored him to reasonable he
 
 Hyuk Mujin asked in a wounded voice, “Do I really need a reason to come see you? Between us?”
 
-“If you don’t have one, you get a taste of the Yangtze.”
+“No reason, another dunking.”
 
 “I have one! I do!”
 
@@ -86,7 +86,7 @@ Hyuk Mujin hesitated before continuing.
 
 When had this bastard gotten so perceptive?
 
-Under my strange gaze, Hyuk Mujin scratched the back of his head.
+Under my curious gaze, Hyuk Mujin scratched the back of his head.
 
 “Well, that’s just the impression I got. Am I wrong?”
 
@@ -98,9 +98,9 @@ Since first setting foot in Murim, I had never traveled between the two worlds a
 
 *Looking back, though, every one of those trips was my own choice.*
 
-Sometimes a Quest had blocked the Logout function, but most of the time, I had made the decision myself.
+Sometimes a Quest had blocked the Logout function, but most of the time, I had chosen to stay myself.
 
-If I had crossed over to the other world and spent time there while walking across thin ice, my tension would have collapsed, and I would have been unable to overcome the crisis.
+When I was walking on thin ice, crossing over and spending time in the other world would have broken my concentration. I might not have survived the crisis waiting for me when I returned.
 
 But recently, the situation had changed.
 
@@ -124,7 +124,7 @@ That was why I was busily traveling between the two worlds, preparing for the st
 
 I stared at the paper in my hand.
 
-The not particularly high-quality xuan paper was covered with strange patterns and symbols I had drawn myself.
+The cheap sheet of xuan paper was covered with strange patterns and symbols I had drawn myself.
 
 There were all kinds of them, each subtly different in shape. They looked like some mysterious script out of a detective novel.
 
@@ -144,7 +144,7 @@ These patterns and symbols were the sole point of overlap between two worlds wit
 
 In the modern world, they had been found in the Arch Lich’s magic circle. In Murim, they had appeared in Dark Heaven’s formations.
 
-And now, deep in my heart, I was turning over a single word.
+And now, deep in my heart, I was turning over a single phrase.
 
 *Black magic.*
 
@@ -160,7 +160,7 @@ On top of that, the formations used by the black-robed men who had followed thei
 
 *At this point, it would be stranger not to suspect anything.*
 
-At the same time… the fact that I did not want to believe it easily was my reality.
+And yet… I still didn’t want to believe it.
 
 Black magic in Murim.
 
@@ -176,17 +176,17 @@ If all my fears turned out to be true, then…
 
 “What are you staring at so intently?”
 
-The voice shattered my deep thoughts and brought me back to reality. I frowned.
+The voice shattered my thoughts and brought me back to reality. I frowned.
 
 Not because my train of thought had been interrupted, but because of the rancid stench assaulting my nose.
 
 Suppressing an instinctive gag, I asked, “You haven’t washed again, have you?”
 
-Gung Gibang, who had subtly pressed his butt against the spot beside me, nodded.
+Gung Gibang slid into the spot beside me and nodded.
 
 “It’s only natural for a beggar not to wash. Is there a problem?”
 
-Hyuk Mujin opened his mouth with a queasy expression.
+Hyuk Mujin spoke with a queasy expression.
 
 “Young Hero Gung, are you some kind of poison man? The moment you came within three jang, my head started spinning and I began dry-heaving.”
 
@@ -218,7 +218,7 @@ I gave the wounded Hyuk Mujin a warm smile.
 
 “…”
 
-“I showed it to you because you’re the Successor Beggar. I thought you might know something. Satisfied?”
+“I showed him because he’s the Successor Beggar. I thought he might know something. Satisfied?”
 
 Having found something to tease Hyuk Mujin about, Gung Gibang snickered.
 
@@ -264,7 +264,7 @@ The river bandits who witnessed this absurd case of water pollution unfold in re
 
 I let out a deep sigh and gestured to them.
 
-“Get him out quickly. If you want to keep working as river bandits on the Yangtze.”
+“Get him out. Unless you want to lose your livelihood on the Yangtze.”
 
 Realizing that their home waters were under threat, the river bandits sprang into action.
 
@@ -284,7 +284,7 @@ But for ordinary people, the bigger story was still me—the individual named Ji
 
 > Jin Taekyung: “I didn’t say I wouldn’t take the test. I said I’d go later. I can take it in Korea, so what’s the problem? Instead of arguing about precedent, let’s try being efficient.”
 
-> A senior Hunter Association official, wounded in his pride, issues a threat: “Then we cannot issue you an S-rank Hunter license.”
+> Senior Hunter Association official, pride wounded, issues ultimatum: “Then we cannot issue him an S-rank Hunter license.”
 
 > Urgent Breaking News: Brief social-media post reads, “Then don’t. Who the hell do you think you are, threatening me? Fucking hell.” Account confirmed to be Jin Taekyung’s official social-media account… Public reaction? “That was unbelievably satisfying.” “More refreshing than the soda we drank during the Thousand-Li March.”
 
@@ -298,4 +298,4 @@ And then…
 
 “I can finally breathe again. Damn Yangtze.”
 
-With Jeok Cheongang’s refreshing remark ringing out, the bow of the swift ship finally entered Hubei Province after nearly ten days of sailing.
+Along with Jeok Cheongang’s heartfelt exclamation, the bow of the swift ship, after nearly ten long days of sailing, finally entered Hubei Province.
