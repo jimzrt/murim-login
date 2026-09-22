@@ -1,0 +1,93 @@
+{
+  "chapter": 719,
+  "files": {
+    "characters/Beast Miao King.md": "1f07af8b77b909da50e215ed25d35a0578238248fc55a7cba983922e80b7305e",
+    "characters/Guardian Spirit.md": "f32807d61b0e10323aaad31616b297d5e0bd04b6201fa98173b2217e1e353389",
+    "characters/Jeok Cheongang.md": "50bc4df8f44adea62c158ec6331ae90f6fb3342148f70de5b69e495188a2334c",
+    "characters/Jin Taekyung.md": "46035c93c3b9b06739b26f1c6fad1a9c6562afd9a2c5fd2611532491a22ce60d",
+    "characters/Jintae.md": "ee16864fb0b4ed8fbfd95ff1510a354123ad2a13866347e4399921f9f7a68b43",
+    "characters/Muyaho.md": "1a35c391ae035095bc78c679a122624d9dff90c53bc5e66be91025a138e047ef",
+    "characters/Southern Heaven Demon Empress.md": "c8f701e8a7131e1a71751338e7010e115866bf44b2b7eb57fa4568707a2f5e48",
+    "characters/White Tiger.md": "70a23c1d468d66fcffb8866ed68c3e39d0f659b769f18088b06c4bc39f31ccaf",
+    "characters/Yohi.md": "4dd8bc33c49be103e1abca08cca2d785439bb60d6484373cea243d482e6a3e6d",
+    "docs/ADDRESS.md": "8c9370e66f36ae1c5da9e5fb2bed205edcf0688392c7bf8f70a9318539923074",
+    "docs/CONTEXT.json": "5aa5ed2bf0321702d16505af86e8c263df539b7945bad558063556f73568fabc",
+    "docs/STATE.md": "c8f76d2668aba4309721911aa8cfa4d63d2edd93abf1a4bfcd978174d2713120",
+    "summaries/beats/0719.md": "446bcc237056e4e5e66664e447cbc2a08fef00d117b34100fe61fec5b564889e"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "야수묘왕",
+        "kinship": "senior allied martial master to Nanman Beast Palace Lord",
+        "normal_address": "you",
+        "notes": "Jeok orders the Beast Miao King to stand aside and mocks his inability to destroy the corrupted artifact.",
+        "speaker": "적천강",
+        "speech_level": "blunt, commanding, and mocking"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin Taekyung has accepted the Quest [Corrupted Divine Artifact].",
+        "The corrupted divine artifact is the former sacred stone, now consumed by demonic qi and still being suppressed by the Beast Miao King.",
+        "Jeok Cheongang proposed destroying the corrupted divine artifact, but Jin Taekyung stopped him because a failed attempt could release the demonic qi.",
+        "The Poisonblood Grounds and the Sacred Land are separate places; the Poisonblood Grounds are a human-created land of death, while the Sacred Land is Nanman's heart and a land of life.",
+        "Placing the corrupted divine artifact at the Sacred Land revealed a hidden radiant space containing a brilliant pond.",
+        "Jin Taekyung believes purification at the Sacred Land may produce a new sacred stone."
+      ],
+      "plot": [
+        "Jin Taekyung accepts the Quest [Corrupted Divine Artifact] after realizing that the demonic qi within the corrupted sacred stone cannot be suppressed indefinitely. Jeok Cheongang proposes destroying it, but Jin stops him because a failed destruction could release the demonic qi and cause another catastrophe. Jin then recalls the guardian spirit and takes Jeok and the Beast Miao King to Ailao Mountain. At the Sacred Land, distinct from the Poisonblood Grounds, he places the artifact on the ground, revealing a hidden radiant space and a brilliant pond. Jin realizes that purification may create a new sacred stone."
+      ],
+      "translation_decisions": [
+        "Render 타락한 신물 as Corrupted Divine Artifact and keep it distinct from 신석, sacred stone.",
+        "Render 정화 as Purification.",
+        "Preserve the distinction between 독혈지, Poisonblood Grounds, and 성지, Sacred Land.",
+        "Retain 적 노 as Old Master Jeok and 화왕 as Fire King."
+      ]
+    },
+    "chapter": 719,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung has accepted the Quest [Corrupted Divine Artifact].",
+        "The corrupted divine artifact is the former sacred stone, now consumed by demonic qi and still being suppressed by the Beast Miao King.",
+        "The Beast Miao King cannot suppress the artifact's demonic qi indefinitely.",
+        "Jeok Cheongang proposed destroying the artifact, but Jin Taekyung stopped him because a failed destruction could cause another catastrophe.",
+        "The guardian spirit's sacrifice to close the rift motivates Jin Taekyung to prevent the artifact from exploding.",
+        "The Poisonblood Grounds and the Sacred Land are separate places.",
+        "The Sacred Land is Nanman's heart and a land of life.",
+        "Placing the corrupted artifact at the Sacred Land revealed a hidden radiant space and a brilliant pond.",
+        "Jin Taekyung believes purification may create a new sacred stone."
+      ],
+      "continuity_sources": [
+        719
+      ],
+      "open_questions": [
+        "Will purification at the Sacred Land successfully create a new sacred stone?",
+        "What will happen to the corrupted artifact and its demonic qi during purification?"
+      ],
+      "safe_through": 719,
+      "temporary_decisions": [
+        "Render 타락한 신물 as Corrupted Divine Artifact and 신석 as sacred stone.",
+        "Render 정화 as Purification.",
+        "Keep 독혈지 as Poisonblood Grounds and 성지 as Sacred Land."
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Muyaho is Yayul Mok's enormous white tiger companion and a renowned Nanman spiritual creature advancing with Jin Taekyung, Yohi, and the beast army.",
+        "path": "characters/Muyaho.md",
+        "replacement": "- **Role:** Muyaho is Yayul Mok's enormous white tiger companion and a renowned Nanman spiritual creature."
+      },
+      {
+        "current": "- **Relationships:** Muyaho is Yayul Mok's cherished companion and returned to Jin with Heugung and Yohi after carrying them through the darkness.",
+        "path": "characters/Muyaho.md",
+        "replacement": "- **Relationships:** Muyaho is Yayul Mok's cherished companion and is trusted by Jin Taekyung, who can ride and communicate with him."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
