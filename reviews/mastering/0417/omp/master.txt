@@ -2,7 +2,7 @@
 
 I knew. I had simply been waiting.
 
-Waiting for the moment they sank their fangs into me.
+Waiting for the moment they bared their fangs.
 
 “More than that… I’m certain.”
 
@@ -36,7 +36,7 @@ Or what I needed to do.
 
 The three daggers aimed at my nape, spine, and right arm missed their targets and pierced empty air.
 
-*No. That’s not it.*
+*No. That’s not quite right.*
 
 Maybe it was because I had pushed my senses to their absolute limit.
 
@@ -52,7 +52,7 @@ Wu Heixing, who had been charging toward me, hurriedly swung his sword.
 
 *Boom!*
 
-Along with a muffled, thunderous roar, his body was knocked backward. A low voice stopped Wu Heixing as he prepared to charge again, his face twisted in anger.
+A deafening boom rang out, and his body was knocked backward. His face twisted as he prepared to rush me again, but a quiet voice stopped him.
 
 “Enough.”
 
@@ -66,7 +66,7 @@ After restraining Wu Heixing, Lee Jungryong gazed at me calmly.
 
 I let out a quiet laugh at his sudden change in tone.
 
-“An old man who knows everything is saying something obvious. If I didn’t have even this much sense, I’d have died a long time ago.”
+“Don’t state the obvious, old man. If I were that dense, I’d have died a long time ago.”
 
 “When did you know?”
 
@@ -100,7 +100,7 @@ Lee Jungryong answered with a gentle smile.
 
 “More than enough.”
 
-I leaned my back against a pile of collapsed concrete, holding White Flame at an angle.
+I leaned against a slab of collapsed concrete, holding White Flame at an angle.
 
 Wu Heixing stood to my left and Lee Jungryong to my right. Each was a little over ten meters away, but any of us could erase that distance in the blink of an eye.
 
@@ -134,19 +134,19 @@ Wu Heixing curled his lips.
 
 “…!”
 
-“Today’s battle will go down as a defeat. And your name will be written at the very top of the list of the war dead. I’ve already decided on your epitaph.”
+“Today’s battle will go down as a defeat. Your name will be written at the very top of the casualty list. I’ve already decided on your epitaph.”
 
 Wu Heixing spread his arms like a stage actor.
 
 “Bangzi from Korea, killed by the Arch Lich. What do you think? Isn’t that a fine epitaph?”
 
-Even after Wu Heixing finished speaking, I could not find anything to say for a while. I stood there blankly, like a madman, and the goose bumps covering my body refused to fade.
+Even after he finished speaking, I couldn’t find anything to say. I merely blinked, too stunned to think, while the goose bumps covering my body refused to fade.
 
 Was it because of his scheme?
 
 No.
 
-One question Wu Heixing had thrown back at me continued to circle through my empty mind.
+One question he had asked kept circling through my empty mind.
 
 *Why should I take that kind of risk?*
 
@@ -154,7 +154,7 @@ I felt completely blindsided.
 
 At the same time, countless deaths I had witnessed over the past month flashed before my eyes, along with horribly mutilated bodies.
 
-Young parents who had met their end while holding their precious child tightly, hoping against hope that their little one might survive.
+A young couple who had died clutching their precious child, hoping the little one might somehow survive.
 
 An elderly person too infirm to flee, torn apart and eaten.
 
@@ -170,7 +170,7 @@ The five hundred Public Security Armed Forces Department Hunters who defied deat
 
 Team Leader Choi and Shao Shen, who had prepared to die and bound their hands to their sword hilts with strips of cloth so they could kill one more monster.
 
-*You’re right. Why did all of them take such risks? Like fucking idiots.*
+*You’re right. Why did any of them take such risks? Like fucking idiots.*
 
 Their faces flashed before my eyes, one after another.
 
@@ -288,7 +288,7 @@ It was like the claw of a dragon striking down from the heavens.
 
 Lee Jungryong frowned.
 
-Jin Taekyung’s spearhead was rushing toward him, erasing the Aura he had scattered.
+Jin Taekyung’s spearhead rushed toward him, erasing the Aura he had unleashed.
 
 The tremendous heat stole his breath and made his body seize up.
 
@@ -320,7 +320,7 @@ Just before a palm strike carrying the heat of the Flame Divine Palm could slam 
 
 *Boom!*
 
-With the sound of compressed air bursting apart, the two men stepped backward as though they had planned it.
+Compressed air exploded, and both men staggered backward as if by agreement.
 
 The result left Lee Jungryong stunned.
 
@@ -334,17 +334,17 @@ Lee Jungryong had accumulated an enormous amount of qi over many years.
 
 Yet a brat barely in his late twenties had forced him backward.
 
-It was impossible to believe that such a change had occurred in the short span of just over a month.
+It was almost impossible to believe such a change had occurred in the short span of just over a month.
 
 *And that isn’t all.*
 
-His incredible power and speed seemed to have no bottom. His movements, too—everything about him was astonishing. Beyond anything that could be put into words.
+His tremendous strength seemed bottomless. His speed, his movements—everything about him was astonishing beyond words.
 
-Just as he was now.
+Just as it was now.
 
 *Whoooooosh! Fwish!*
 
-Lee Jungryong twisted his head aside.
+Lee Jungryong jerked his head aside.
 
 The spearhead missed him by half a handspan, then changed direction in midair.
 
@@ -382,7 +382,7 @@ The old lion was hurled away by an irresistible force.
 
 Lee Jungryong flipped in midair and landed on the ground.
 
-The first thing he saw was the young male lion gripping Wu Heixing by the throat after Wu had attempted a surprise attack.
+The first thing he saw was the young lion gripping Wu Heixing by the throat after Wu’s attempted surprise attack.
 
 “Guhk! M-my father belongs to the Crown Prince Party…!”
 
@@ -392,9 +392,9 @@ The first thing he saw was the young male lion gripping Wu Heixing by the throat
 
 “Me? Let you live after you tried to kill me?”
 
-A reddish gaze turned toward Wu Heixing.
+Reddish eyes turned toward Wu Heixing.
 
-Then a sentence Lee Jungryong had heard somewhere before slipped from Jin Taekyung’s lips.
+Then Jin Taekyung repeated words Lee Jungryong had heard somewhere before.
 
 “Why should I—why should I take that kind of risk?”
 

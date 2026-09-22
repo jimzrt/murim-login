@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "I knew. I had simply been waiting.",
+      "defect": "The English states the knowledge but drops the source's explicit correction that the issue was not ignorance, only waiting.",
+      "id": "F01",
+      "rationale": "모르지 않았다. 단지 기다렸을 뿐이다 explicitly contrasts knowing with waiting; the current version flattens that rhetorical emphasis.",
+      "replacement": "It wasn’t that I didn’t know. I had only been waiting.",
+      "severity": "minor",
+      "source": "Source lines 5-7"
+    },
+    {
+      "confidence": 0.88,
+      "current": "The corners of my mouth rose before I could stop them. I finally let out the words I had swallowed time and time again.",
+      "defect": "The deliberate act of throwing out one long-suppressed line is weakened to merely letting words out, and the singular one-line image is lost.",
+      "id": "F02",
+      "rationale": "한마디를 던졌다 presents a pointed, deliberate delivery of one held-back remark, not just the release of words.",
+      "replacement": "The corners of my mouth rose before I could stop them. I threw out the one thing I had pressed down and held back time and time again.",
+      "severity": "minor",
+      "source": "Source line 15"
+    },
+    {
+      "confidence": 0.84,
+      "current": "“I’m certain these fucking bastards are more interested in the back of my head than the Arch Lich. That’s what I’m certain of.”",
+      "defect": "The ending’s colloquial approximation is omitted, making the statement more categorically exact than the source.",
+      "id": "F03",
+      "rationale": "뭐 그런 확신이요 softens the preceding formulation with “something like that,” preserving the narrator’s conversational, approximate tone.",
+      "replacement": "“I’m certain these fucking bastards are more interested in the back of my head than the Arch Lich. Something like that.”",
+      "severity": "minor",
+      "source": "Source line 17"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The spearhead devoured both the thick fog blanketing the city and the humidity in the air as it came down diagonally at Lee Jungryong with ferocious momentum.",
+      "defect": "The target is generalized to Lee Jungryong instead of preserving that the spearhead slashed across his entire body.",
+      "id": "F04",
+      "rationale": "이정룡의 전신을 비스듬히 베어 왔다 explicitly specifies a diagonal slash aimed across his whole body, a physical targeting detail.",
+      "replacement": "The spearhead devoured both the thick fog blanketing the city and the humidity in the air, then slashed diagonally across Lee Jungryong’s entire body with ferocious momentum.",
+      "severity": "minor",
+      "source": "Source lines 263-267"
+    }
+  ],
+  "summary": "Mostly faithful, with minor losses in explicit contrast, deliberate delivery, a colloquial hedge, and the attack's stated whole-body target.",
+  "version": 1
+}
