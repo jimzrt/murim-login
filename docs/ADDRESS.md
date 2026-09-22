@@ -1132,3 +1132,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 흑수 | hostile_martial_opponent | Black Hand | mocking and profane | Jin sarcastically addresses Black Hand after hearing his sobriquet. |
 | 흑수 | 진태경 | hostile_Dark_Heaven_agent_to_enemy_martial_artist | Blazing Flame Divine Dragon Jin Taekyung | taunting and murderous | Black Hand identifies Jin while claiming that killing him will make the sobriquet famous. |
 | 장 족장 | 야율목 | tribal chieftain to Nanman Young Palace Lord | Young Palace Lord | formal and grave | Chief Jang addresses Yayul Mok while ordering him to subdue and escort the Han Chinese to the Inner Palace. |
+| 흑수권마 | 대설귀 | junior hostile subordinate to senior ally | Senior | deferential but urgent and protesting | Black Hand protests the Great Snow Fiend's order to capture Jin. |
+| 대설귀 | 흑수권마 | senior hostile commander to junior subordinate | you | blunt, commanding, and threatening | The Great Snow Fiend orders Black Hand to stop questioning him. |
