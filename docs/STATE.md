@@ -1,31 +1,30 @@
 # Translation State
 
-- Last completed: 691
-- Next chapter: 692
-- Current block: 690–694 (2/5)
-- Latest translation: `translations/0691.md`
-- Latest summary: `summaries/beats/0691.md`
-- Safe profiles through: chapter 691
+- Last completed: 692
+- Next chapter: 693
+- Current block: 690–694 (3/5)
+- Latest translation: `translations/0692.md`
+- Latest summary: `summaries/beats/0692.md`
+- Safe profiles through: chapter 692
 
 ## Current Block
 
-- Jin Taekyung awakens in an unknown realm beside Yohi and Muyaho, whose healing pond has restored his severe injuries and saved Muyaho from the brink of death. Yohi confirms that Heugung was a Dark Heaven spy who threatened her life while presenting a coercive proposal; she believes he is probably dead.
-- Jin's System notifications reveal a Level Up, partial injury and Status recovery, achievement rewards, a canceled sudden Quest, the discovery of an unidentified entity, and another sudden Quest awaiting its activation conditions.
-- The Black Tiger known as the apparition of Ailao Mountain summons Jin to the cliffs through telepathy. It claims not to know what it is, says it has been called by many names over centuries, and reveals that it possesses the Water God Dragon's Origin Essence. Jin recognizes that it was the being that saved them and demands to know when it stole the Origin Essence.
+- The Black Tiger reveals that the Water God Dragon's Origin Essence contains several hundred years of memories from an imugi, including memories of Jin, and explains that it saved Jin twice. It identifies the hidden realm as a place deep beneath the Poisonblood Grounds, formerly called the Sacred Land, where it serves as a guardian spirit born alongside a sacred stone. The Black Tiger also reveals that it rescued thousands of wild beasts from Ailao Mountain's fire and confirms that humans, ultimately Dark Heaven, released the monsters that devastated the mountain.
 
 ## Open Questions
 
-- What is the Black Tiger, and whose existence did it confirm through Jin?
-- Why did the Black Tiger save Jin, Yohi, and Muyaho?
-- How did the Black Tiger obtain the Water God Dragon's Origin Essence?
+- How can Jin, Yohi, and Muyaho leave the hidden realm?
+- What is the sacred stone, and what is the Black Tiger's full nature beyond its guardian-spirit identity?
+- What unnatural monsters did Dark Heaven release, and how were they created or contained?
 - Is Heugung truly dead?
 - What are the unidentified discovery and pending sudden Quest?
 
 ## Exceptional Decision
 
+- Render 성지 as Sacred Land and 수호령 as guardian spirit.
 - Keep 흑호 distinct from 백호 as Black Tiger and White Tiger.
-- Render 애뇌산의 망령 as the apparition of Ailao Mountain.
 - Render 흑호's 의념 as telepathic dialogue with em dashes and a calm, detached voice.
+- Retain the explanatory footnote for mountain lord on first use.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

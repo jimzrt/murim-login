@@ -1,6 +1,6 @@
 # Great Snow Fiend (대설귀)
 
-- **Safe through:** Chapter 685
+- **Safe through:** Chapter 692
 - **Aliases:** Hanbaek (한백)
 - **Role:** The Great Snow Fiend was the former ruler of Great Snow Mountain and a Supreme Peak fiend who killed Baekhwi and Venerable Wusang during the Great Faction War before Jin Taekyung killed him.
 - **Personality:** The Great Snow Fiend is cold, pragmatic, controlled, proud, and unwilling to risk his life foolishly when outnumbered.

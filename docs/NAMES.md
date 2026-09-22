@@ -2099,3 +2099,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 수마 | **sleep demon** | Metaphor for the force keeping Jin unconscious. |
 | 백천대 | **Baekcheon Unit** | Baeksang's secret elite unit, cultivated over decades and held in reserve. |
 | 김좌진 | **Kim Jwa-jin** | Historical Korean independence activist and military commander used in Jin's comparison. |
+| 성지 | **Sacred Land** | Former name of the Poisonblood Grounds when beasts ruled Ailao Mountain. |
+| 수호령 | **guardian spirit** | Ancient title for the Black Tiger. |
+| 신석 | **sacred stone** | Stone said to have existed alongside the Black Tiger's birth. |
