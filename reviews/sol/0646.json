@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "He was clearly very bothered, but I continued for the moment.",
+      "defect": "The subject is reversed. Taekyung is saying that Namho’s sarcastic behavior bothered him, not that Namho looked bothered.",
+      "id": "F01",
+      "rationale": "The omitted subject of 신경 쓰였지만 is the first-person narrator, as confirmed by the following first-person action 계속했다.",
+      "replacement": "It bothered me a great deal, but I continued for the moment.",
+      "severity": "critical",
+      "source": "매우 신경 쓰였지만, 일단 계속했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Yongbong Escort Bureau’s headquarters was in Sichuan, which bordered the southeastern part of the province.",
+      "defect": "Guizhou is omitted, and the resulting relative clause incorrectly suggests that Sichuan borders part of itself.",
+      "id": "F02",
+      "rationale": "The source explicitly identifies Guizhou as the region adjoining southeastern Sichuan; this proximity explains why the bureau might possess relevant intelligence.",
+      "replacement": "The Yongbong Escort Bureau’s headquarters was in Sichuan, and Guizhou bordered Sichuan to the southeast.",
+      "severity": "critical",
+      "source": "용봉표국의 본거지는 사천이고, 귀주는 사천의 남동쪽 방면과 맞닿아 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“More precisely, I should say that I killed one of them. I happened to run into him on a battlefield after accepting a commission.”",
+      "defect": "The draft adds “one of them” and “him,” making Song Ilseom explicitly claim that he killed only one man. This contradicts his immediate clarification that he killed all three and destroys the source’s number ambiguity, which enables the punchline.",
+      "id": "F03",
+      "rationale": "Korean omits the object and therefore does not specify one victim. Taekyung merely assumes Song means one, while Song has meant all three throughout.",
+      "replacement": "“More precisely, I should say I did the killing. I happened to cross paths with my quarry on a battlefield while carrying out a commission.”",
+      "severity": "critical",
+      "source": "“정확히는 내가 죽였다고 해야겠지. 하필이면 의뢰를 받고 전장에서 마주쳤거든.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That’s true. How old is he, anyway? How can nobody know a single thing about him?”",
+      "defect": "The draft sanitizes 처먹었는지 and changes the second question from nobody knowing the man to nobody knowing any information about him.",
+      "id": "F04",
+      "rationale": "처먹다 is deliberately coarse here, while 아는 사람이 하나도 없다 refers to the absence of anyone acquainted with or able to identify the Blood Monk, not a total absence of information.",
+      "replacement": "“That’s true. How fucking old is he, anyway? How is there not a single person who knows him?”",
+      "severity": "major",
+      "source": "“그렇긴 하지. 도대체 얼마나 나이를 처먹었는지, 어떻게 아는 사람이 하나도 없냐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "There was a fiend called the Slaughter Saint during the Great Faction War, but his characteristics differed quite a bit from those of this Blood Monk.",
+      "defect": "“Slaughter Saint” mistranslates 佛 as “Saint,” changing the fiend’s sobriquet.",
+      "id": "F05",
+      "rationale": "The supplied characters 殺佛 mean “Killing Buddha”; 佛 is Buddha, not a saint.",
+      "replacement": "There was a fiend called the Killing Buddha during the Great Faction War, but his characteristics differed quite a bit from those of this Blood Monk.",
+      "severity": "major",
+      "source": "과거 정마대전 때 살불(殺佛)이라는 마두가 있긴 했지만, 혈승이라는 놈의 특징과는 제법 차이가 있지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If it was the former, then it would end with the resistance of a father who lost his child. But if it was the latter……”",
+      "defect": "“Resistance” misstates 반발심, which here means emotional resentment or hostility rather than active resistance.",
+      "id": "F06",
+      "rationale": "Namho is contrasting personal resentment born from bereavement with a grievance against the orthodox Murim that could motivate betrayal.",
+      "replacement": "“If it was the former, then it would amount to nothing more than the resentment of a father who had lost his child. But if it was the latter……”",
+      "severity": "major",
+      "source": "“만약 전자라면 자식 잃은 아비의 반발심으로 끝나겠지만, 후자의 경우라면…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "For a moment, it felt as though I could smell the flowers from the garden we had passed through one last time before leaving.",
+      "defect": "The draft mistakes 화원(火院), whose supplied characters identify a named Fire Courtyard, for the ordinary word “garden,” and weakens 걸었던 from taking a walk to merely passing through.",
+      "id": "F07",
+      "rationale": "The parenthetical 火院 explicitly distinguishes the place name from 花園, the ordinary Korean homophone for “garden.”",
+      "replacement": "For a moment, the scent of flowers from the Fire Courtyard, where we had taken our last walk before leaving, seemed to drift past me.",
+      "severity": "major",
+      "source": "떠나기 전 마지막으로 걸었던 화원(火院)의 꽃내음이 스쳐 지나가는 듯했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And the eyes that had glistened with tears beneath the moonlight were now shining with firm determination.",
+      "defect": "The draft makes tears explicit even though the source only describes her eyes as moist, removing the source’s restraint and slight ambiguity.",
+      "id": "F08",
+      "rationale": "촉촉하게 젖어있던 describes moist or damp eyes but does not explicitly state that tears were visible.",
+      "replacement": "And the eyes that had been moist beneath the moonlight were now shining with firm determination.",
+      "severity": "major",
+      "source": "그리고 달빛 아래에서 촉촉하게 젖어있던 한 사람의 눈동자는, 지금 굳은 결의로 빛나고 있다."
+    }
+  ],
+  "summary": "The draft contains three scene-fact or subject errors, along with several meaningful losses in register, characterization, terminology, and deliberate ambiguity.",
+  "version": 1
+}
