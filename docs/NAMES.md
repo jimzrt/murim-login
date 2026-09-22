@@ -2132,3 +2132,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 열화신장 | **Blazing Flame Divine Palm** | Jeok Cheongang's perfected fire palm technique. |
 | 희생과 안식 | **Sacrifice and Rest** | Sudden Quest generated after the rift closes. |
 | 변이된 수호령 | **Mutated Guardian Spirit** | The corrupted guardian spirit designated as the Quest objective. |
+| 백천 | **Baekcheon** | Name of the old silk cloth Jin uses to cover Baeksang's face. |
+| 동천마군 | **Eastern Heaven Demon Lord** | Title of the absurd masked antagonist in Jin's nightmare. |
+| 동서천마후 | **East-West Heaven Demon Empress** | Absurd directional title introduced by the nightmare antagonist. |
+| 동두천마군 | **Dongducheon Demon Lord** | Jin's jokingly imagined future demon title. |
+| 인천마후 | **Incheon Demon Empress** | Jin's jokingly imagined future demon title. |
