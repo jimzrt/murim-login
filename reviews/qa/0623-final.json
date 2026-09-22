@@ -1,0 +1,55 @@
+{
+  "chapter": 623,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.216,
+    "source_characters": 5416,
+    "source_paragraphs": 167,
+    "translation_characters": 12003,
+    "translation_paragraphs": 176
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "꼬리",
+        "preferred": "the “tail”"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "지풍",
+        "preferred": "Finger Qi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "이전",
+        "preferred": "Two Halls"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
