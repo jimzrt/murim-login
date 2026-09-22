@@ -1117,3 +1117,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야율목 | 기산 | Young_Palace_Lord_to_personal_guard | Gisan | formal-commanding | Orders Gisan to remain at the captured wardens' post. |
 | 야율목 | 도곡 | Young_Palace_Lord_to_personal_guard | Dogok | formal-commanding | Orders Dogok to remain at the captured wardens' post. |
 | 야율목 | 원후 | Young_Palace_Lord_to_elder_personal_guard | Wonhu | formal-commanding | Calls on Wonhu to open a path through the surrounding guards. |
+| 진태경 | 너 | prisoner_to_Bai_warrior | you | insulting-casual | Jin addresses a Bai warrior while ordering him to lower his torch. |
