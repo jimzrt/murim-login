@@ -6,7 +6,7 @@ As soon as the press conference ended, the acting Head of Security—no, Xiao Sh
 
 “Let’s do that. You know where he is, right?”
 
-“Yes, I do. Then let’s go.”
+“Yes. Then let’s go.”
 
 Dozens of security officers led by Xiao Shen formed a circle around me and slowly began moving.
 
@@ -17,8 +17,6 @@ Chaos erupted around us at once. Reporters from various networks came swarming o
 “Jin-san! Jin-san!”[^1]
 
 *You’re the real jinsang here, asshole.*
-
-[^1]: The Japanese address “Jin-san” sounds like the Korean word *jinsang*, meaning an obnoxious nuisance.
 
 The reporters from various countries hadn’t been satisfied with the press conference and latched onto me, but they couldn’t break through the Hunter security detail.
 
@@ -86,9 +84,9 @@ Magic Johnson had been studying something with a grave expression, but he rose f
 
 He clapped a thick hand on my shoulder, guided me to a seat, and asked, “So, did the press conference go well?”
 
-Judging by the question, he probably hadn’t watched the press conference himself.
+From the way he asked, he clearly hadn’t watched it.
 
-I accepted the canned beer Johnson handed me and answered,
+I accepted the can of beer he offered me.
 
 “It was all right. I gave them some reasonable answers and wrapped it up in thirty minutes.”
 
@@ -96,9 +94,9 @@ I accepted the canned beer Johnson handed me and answered,
 
 “They probably like me a lot more than they like you. At least I held a press conference.”
 
-As soon as the war ended, Magic Johnson had shut himself away in his accommodations and refused to show himself.
+Magic Johnson had shut himself in his room as soon as the war ended and hadn’t shown his face since.
 
-Unlike Faye Chen or Prince Felix, the other S-rank Hunters, he hadn’t appeared anywhere. Some people had even begun spreading rumors that he was dead.
+Unlike the other S-rank Hunters, Faye Chen and Prince Felix, he hadn’t made a single public appearance. Rumors had even begun circulating that he was dead.
 
 Only after things reached that point did he post a brief comment on his official social-media account. That was the full extent of his public activity.
 
@@ -118,7 +116,7 @@ The corners of Magic Johnson’s mouth twitched.
 
 “I didn’t say anything.”
 
-“You’re doing a terrible job of hiding that you’re holding back a laugh.”
+“You’re doing a terrible job of hiding that smile.”
 
 “I’m not. Not at all.”
 
@@ -128,9 +126,9 @@ His eyes were shining with anticipation. I let out a quiet laugh.
 
 “I heard you weren’t happy about it at first.”
 
-“You didn’t come to see me then. Did Choi tell you that?”
+“You weren’t there. Did Choi tell you that?”
 
-“Who else could have told me? At the moment, this secret is known by only three people: me, Johnson, and Team Leader Choi.”
+“Who else would it be? Right now, only three people know this secret: you, Team Leader Choi, and me.”
 
 “Ah. But Choi got one thing wrong.”
 
@@ -140,7 +138,7 @@ His eyes were shining with anticipation. I let out a quiet laugh.
 
 Magic Johnson drained his five-hundred-milliliter can of beer in one gulp, then continued gravely.
 
-“I was about to fire off a spell.”
+“I was about to blast him with magic.”
 
 “Ah.”
 
@@ -150,15 +148,15 @@ Magic Johnson drained his five-hundred-milliliter can of beer in one gulp, then 
 
 The only reason the suite—and the hotel—remained intact was that Magic Johnson was a Grand Mage.
 
-Humans were said to be creatures of curiosity, but mages were curiosity incarnate. That went without saying for a Grand Mage who stood at the pinnacle of magic.
+Humans were said to be creatures of curiosity, but mages were curiosity incarnate. That went doubly so for a Grand Mage who stood at the pinnacle of magic.
 
-And when presented with an offer involving a “new thing” he had never seen before, he readily accepted it.
+And so, when presented with the chance to examine something new that he had never seen before, he had readily accepted.
 
 “Even after Choi explained everything and I saw it with my own eyes, I couldn’t believe it. This is truly…”
 
 Magic Johnson murmured with a dreamy look in his eyes, then suddenly shook his head.
 
-“No. This won’t do. Come and see for yourself.”
+“No. Rather than listen to me, you should see for yourself.”
 
 “Good. I nearly died of old age waiting.”
 
@@ -168,31 +166,31 @@ I set down my half-empty beer and rose. Without hesitation, I crossed the spacio
 
 Magic Johnson nodded. It wasn’t particularly surprising that an S-rank Hunter sensitive to the flow of energy could sense that something was off.
 
-“That’s right. You really know your stuff.”
+“That’s right. You noticed.”
 
-“Even someone fairly observant would have a hard time noticing this.”
+“You’d have to be exceptionally sharp to detect this.”
 
 To the naked eye, it looked like an ordinary section of the room.
 
 But I had known from the moment I stepped into the suite.
 
-It was magic that blocked every sound and sight.
+It was magic that sealed off everything beyond it, blocking both sound and sight.
 
-“Wait a moment. I’ll dispel the magic right aw—”
+“Wait a moment. I’ll dispel it right aw—”
 
 Whoosh! Slash!
 
 Magic Johnson’s eyes widened before he could finish speaking.
 
-The edge of my hand, wrapped in Force, swept down through empty air, and the various spells he had laid out split apart cleanly.
+The edge of my hand, wrapped in Force, swept down through empty air, cleanly splitting apart the layers of magic he had cast.
 
 “Jin. What on earth…?”
 
-During my battle with the Arch Lich, I had opened my Middle Dantian and gained the ability to see the texture of qi.
+During my battle with the Arch Lich, I had opened my Middle Dantian and gained the ability to perceive the texture of energy.
 
 That had made things like this possible, but I offered no explanation. I simply stared straight ahead.
 
-As the magic was dispelled, a single layer peeled away from the space before me.
+With the magic dispelled, a layer seemed to peel away from the space before me.
 
 Beyond it stood a man.
 
@@ -218,7 +216,7 @@ The blond foreigner—the Skeleton King—replied smugly.
 
 “Ugly as hell.”
 
-“……No, you son of a bitch.”
+“……Why, you son of a bitch.”
 
 Where the hell had this bastard learned Korean?
 
@@ -232,7 +230,7 @@ Magic Johnson kept smiling in satisfaction like a plastic surgeon in Gangnam.
 
 This wasn’t just a surgeon praising his own handiwork. It was true.
 
-Glossy blond hair. Mysteriously gleaming golden eyes. A well-balanced build nearly 190 centimeters tall, with long limbs bearing just the right amount of body hair.
+Glossy blond hair. Mysteriously gleaming golden eyes. A well-proportioned body nearly 190 centimeters tall, with long limbs and even a natural amount of body hair.
 
 And that wasn’t all.
 
@@ -244,15 +242,15 @@ Even I had to study him closely to notice anything unusual. The Skeleton King lo
 
 I’d made the request thinking I had nothing to lose, but I hadn’t expected the result to be this perfect.
 
-I swallowed hard in amazement and reached out to touch his blond hair.
+I swallowed in amazement and reached out to touch his blond hair.
 
 That was when—
 
 Swish.
 
-The Skeleton King took one step back and looked at me arrogantly.
+The Skeleton King stepped back and looked at me haughtily.
 
-“Take your filthy hand away. You will damage my hair.”
+“Keep your filthy hand away. You will damage my hair.”
 
 “…….”
 
@@ -300,21 +298,21 @@ The Skeleton King cut in with a grave expression.
 
 “From now on, you will call me Stone-King.”
 
-“What is this, another thing that’ll get you pelted with stones?”
+“What kind of thing is that to say unless you’re asking to get stoned?”
 
 “It is my new name. Stone King. Born in Atlanta, Georgia, United States…”
 
-I muttered as I felt a headache coming on.
+A headache began pounding behind my eyes.
 
-“Should I just kill him? I’m seriously about to.”
+“Should I just kill him?”
 
-“Would you kill a citizen of the United States?”
+“Would you murder a citizen of the United States?”
 
 “Who’s an American citizen, you lunatic?”
 
-“Perhaps not right now, but I can soon obtain United States citizenship.”
+“Perhaps not at this exact moment, but I will soon be able to obtain United States citizenship.”
 
-“You should write a web novel for KakaoPage instead. What kind of idiot comes up with that bullshit?”
+“You’d be better off writing web novels for KakaoPage. What idiot told you that bullshit?”
 
 Magic Johnson shyly raised one hand.
 
@@ -358,7 +356,7 @@ Before Magic Johnson could answer, the Skeleton King cut in stiffly.
 
 “What? Why?”
 
-“I saw it on the Internet. Handsome white men do well everywhere in the world.”
+“I saw it on the Internet. Handsome white men are popular everywhere in the world.”
 
 “…And what exactly are you planning to do with that?”
 
@@ -370,7 +368,7 @@ Magic Johnson patted my shoulder as I groaned.
 
 “It’s all right, Jin.”
 
-“What do you mean, it’s all right? Do you have any idea how terrifying social media is these days? What if netizens dig up his identity and discover that he wasn’t born in Atlanta, Georgia, United States, but is actually a native of the Demon Realm? Does that make any sense? Why did you agree to a request like that?”
+“What do you mean, it’s all right? Do you have any idea how terrifying social media is these days? What happens when netizens dig into his background and discover that he wasn’t born in Atlanta, Georgia, but is actually a native of the Demon Realm? Does that make any sense? And why did you agree to a request like this?”
 
 “I wanted to try making a face that suited my tastes.”
 
@@ -382,7 +380,7 @@ Magic Johnson patted my shoulder as I groaned.
 
 I was still at a loss for words when the final blow snapped what remained of my patience.
 
-“Do you feel wronged? Ugly as hell.”
+“Are you jealous? Ugly as hell.”
 
 “You son of a bitch!”
 
@@ -390,7 +388,7 @@ Crack!
 
 I launched myself forward and drove my fist into the crown of his head.
 
-The Skeleton King let out a strangled groan. He may have bitten his tongue, because bright red blood spurted from the corner of his mouth.
+The Skeleton King let out a strangled groan. He must have bitten his tongue, because bright red blood spurted from the corner of his mouth.
 
 *Red blood? Is that part of the illusion magic too? He really did an incredible job recreating—*
 
@@ -414,10 +412,12 @@ Among the sheets of paper obscuring my vision, I saw a set of strange yet famili
 
 *This is…*
 
-I left the Skeleton King where he was and rose from my seat, dazedly picking up a sheet of paper printed with the symbols.
+I abandoned the Skeleton King and rose, staring blankly as I picked up a sheet printed with the symbols.
 
 *Sichuan.*
 
 There was no mistake.
 
 It was the exact pattern I had seen in Sichuan—not the modern Chinese province, but Sichuan in Murim.
+
+[^1]: The Japanese address “Jin-san” sounds like the Korean word *jinsang*, meaning an obnoxious nuisance.

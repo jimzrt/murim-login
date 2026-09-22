@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "Under the crowd’s watchful eyes",
+      "defect": "“Watchful” adds an implication that the crowd is vigilant or guarded. The Korean only states that he proceeded under people’s gazes.",
+      "id": "F01",
+      "rationale": "사람들의 시선 means the eyes or gazes of the people and does not establish watchfulness.",
+      "replacement": "Under the eyes of the crowd",
+      "severity": "minor",
+      "source": "Source line 75"
+    },
+    {
+      "confidence": 0.94,
+      "current": "They probably like me a lot more than they like you.",
+      "defect": "“Probably” weakens Jin’s confident assertion. The Korean ending conveys that they will like him much more, not that this is merely probable.",
+      "id": "F02",
+      "rationale": "훨씬 좋아할걸요? expresses a confident expectation or assertion in this context; it is not a hedge.",
+      "replacement": "They’ll like me much more than they like you.",
+      "severity": "minor",
+      "source": "Source line 93"
+    }
+  ],
+  "summary": "The chapter is substantially faithful, with two minor additions or shifts that weaken source-level precision.",
+  "version": 1
+}
