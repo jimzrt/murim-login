@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 644
-- Next chapter: 645
-- Current block: 640–644 (5/5)
-- Latest translation: `translations/0644.md`
-- Latest summary: `summaries/beats/0644.md`
-- Safe profiles through: chapter 644
+- Last completed: 645
+- Next chapter: 646
+- Current block: 645–649 (1/5)
+- Latest translation: `translations/0645.md`
+- Latest summary: `summaries/beats/0645.md`
+- Safe profiles through: chapter 645
 
 ## Current Block
 
-- Jin Taekyung attends Nanman's tribal grand council as its first outsider and receives the Supreme Peak-grade Quest to secure the Nanman Beast Palace's entry into the alliance. The council begins with mundane banter and disputes before turning to reports about tribal affairs, disasters, and conflicts.
-- The chieftains report that an unidentified bald martial artist called the Blood Monk has killed hundreds in Guizhou while carrying a Zen staff. The only captured witness dies before revealing the man's destination. Baeksang dismisses the matter as irrelevant to Nanman, prompting Jin to accuse him of pretending ignorance or concealing an agreement. The torches go out, a freezing pair of eyes appears in the darkness, and a powerful martial aura surrounds Jin.
+- Baeksang attacked Jin Taekyung during the tribal grand council, but Jin defeated him while remaining seated and forced him to withdraw after the Beast Miao King intervened. Baeksang's public humiliation deepened the political divide, with Yohi, Heugung, and nearly half the chieftains leaving with the pro-Baeksang faction.
+- The Beast Miao King ordered Chief Jang and Chief Go to organize scouts toward Guizhou because of the Blood Monk threat. Back at the quarters, Namho correctly guessed that Jin had caused a disturbance, while Ju Hwaran and the others humorously defended him before Jin admitted that a minor problem had occurred.
 
 ## Open Questions
 
