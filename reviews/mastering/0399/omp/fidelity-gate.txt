@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is broadly faithful, with four minor fidelity defects involving a generalized image, a dropped vocal-register cue, a changed sound effect, and an added implication of prior expectation.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 9–11",
+      "current": "Big targets came with a bonus.",
+      "defect": "The current version generalizes the immediate observation and changes the source's emphasis from a target being wide to targets being big.",
+      "replacement": "The target was wide, so there was a bonus.",
+      "rationale": "과녁이 넓으니 describes the broad target in the scene, producing the bonus as an immediate joke before the spear skewers the tightly packed monsters.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 19–23",
+      "current": "I quietly pulled on the shaft.",
+      "defect": "“Quietly” is attached to the pulling action rather than preserving that the preceding line was spoken in a low voice.",
+      "replacement": "With a quiet mutter, I pulled on the shaft.",
+      "rationale": "나직한 목소리와 함께 identifies the low vocal delivery accompanying “아니지,” not the noiselessness of the physical act.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 117–121",
+      "current": "Clatter, thud-thud-thud!",
+      "defect": "“Clatter” changes the light tapping/pattering quality of the first sound effect into a generalized rattling noise.",
+      "replacement": "Tap-tap, thud-thud-thud!",
+      "rationale": "타닥, 두두두! begins with a brief light tapping sound before the heavier repeated impact, an action image preserved by “Tap-tap.”",
+      "confidence": 0.82
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 309–315",
+      "current": "Never thought I’d use it here.",
+      "defect": "The current line adds the implication that he had previously never expected to use the armor here.",
+      "replacement": "I’m using this here.",
+      "rationale": "이걸 여기에서 쓰네 is a present realization that he is using it here; it does not establish a prior expectation that he would never do so.",
+      "confidence": 0.95
+    }
+  ]
+}

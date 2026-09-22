@@ -4,7 +4,7 @@ Whoosh!
 
 Nothing could stop the spearhead wreathed in Force—not leather that could deflect bullets, nor flesh and bone harder than steel.
 
-Puh-puh-puk!
+Thud, thud, thud!
 
 Big targets came with a bonus. The spearhead punched through the Lycanthrope’s chest and skewered the monsters packed close behind it like meat on a spit.
 
@@ -12,9 +12,9 @@ Big targets came with a bonus. The spearhead punched through the Lycanthrope’s
 
 Its wide eyes held a mixture of confusion and indignation.
 
-Its gaze seemed to protest: *Why me, out of all these monsters? I never crossed the death line you drew.*
+Its gaze seemed to protest, *Why me, out of all these monsters? I never crossed the line of death you drew.*
 
-“No, you did.”
+“No, you didn’t.”
 
 I quietly pulled on the shaft.
 
@@ -44,7 +44,7 @@ Rather than count them one by one, I chose to keep moving. My goal had never bee
 
 Humans and monsters had been locked in this fated struggle to kill or be killed for decades.
 
-Only one species would be able to survive here today, and I would not be the one to fall.
+Only one species would survive this day, and I had no intention of falling.
 
 Thud.
 
@@ -56,7 +56,7 @@ No matter how far I walked, the distance between us did not shrink. For every st
 
 —This is insane……
 
-Behind me, the Skeleton Warlord muttered as if groaning.
+Behind me, the Skeleton Warlord groaned under his breath.
 
 One human was overwhelming an army of thousands of monsters.
 
@@ -64,7 +64,7 @@ Even if this sight wasn’t enough to fill a page in human history, surely it de
 
 —W-Where are you going?
 
-“Keep a good eye on those two. I’m not going far anyway.”
+“Just protect those two. I’m not going far.”
 
 More precisely, there was no longer any need for me to go far.
 
@@ -92,7 +92,7 @@ As the Death Knight Lord approached, slowly gathering speed, a thought occurred 
 
 My battle with the Western Heaven Demon Lord in Murim had been a desperate struggle with my life on the line.
 
-If the Western Heaven Demon Lord had intended to eliminate me from the very beginning, if the Heavenly Power Demon had not passed his internal energy to me, if I had not experienced that miraculous recovery from leveling up, if Jeok Cheongang had not awakened and saved me at the critical moment, I would have died three or four times over.
+If the Western Heaven Demon Lord had intended to eliminate me from the very beginning, if the Heavenly Power Demon had not passed his internal energy to me, if leveling up had not granted me that miraculous recovery, if Jeok Cheongang had not awakened and saved me at the critical moment, I could have died three or four times over.
 
 But in the end, I had survived—and grown stronger.
 
@@ -106,7 +106,7 @@ I had distributed my stats and fought battles just as I always had, but aside fr
 
 I had no real sense of how much stronger I had become.
 
-At some point, it had all become easy and natural.
+At some point, growing stronger had become easy. Something I took for granted.
 
 And now—
 
@@ -148,7 +148,7 @@ Several times—perhaps dozens—in the blink of an eye.
 
 Whenever blue-white flames and pitch-black darkness collided and mingled, deafening roars and devastating destruction followed.
 
-No human or monster could see the movements of the two beings.
+No human or monster could follow the movements of those two beings.
 
 They existed on another level, clashing within a world and time all their own.
 
@@ -314,7 +314,7 @@ Besides, it was nothing compared to the pain endured by those who had died befor
 
 I put all my strength into a punch and drove it into his face.
 
-A Flame-Extinguishing Divine Fist at the eighth level smashed apart the helmet that had withstood everything, revealing his face.
+The Eight-Star Flame-Extinguishing Divine Fist shattered the helmet that had withstood everything until now, revealing the face beneath it.
 
 The balance had tipped. One blow. One final strike would be enough to take his life.
 
@@ -322,7 +322,7 @@ The balance had tipped. One blow. One final strike would be enough to take his l
 
 At that moment, my raised fist stopped dead.
 
-I blinked through eyelids clotted with blood. For just an instant, time seemed to stop when my gaze landed on someone’s face.
+I blinked through eyelids clotted with blood. For one brief instant, time seemed to stop as my gaze fell upon his face.
 
 It was unfamiliar, yet familiar.
 
