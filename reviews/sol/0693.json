@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "which stood nearly ten feet tall",
+      "defect": "The height is reduced by roughly two-thirds. Three jang is approximately nine meters, or thirty feet.",
+      "id": "F01",
+      "rationale": "The source explicitly gives the boulder’s height as nearly three jang, not ten feet.",
+      "replacement": "which stood nearly thirty feet tall",
+      "severity": "critical",
+      "source": "높이만 삼 장에 가까운 바위"
+    },
+    {
+      "confidence": 0.95,
+      "current": "—I want to recover even a little of the sacred stone’s power.",
+      "defect": "“Recover … the sacred stone’s power” ambiguously suggests that the Black Tiger wants to obtain the power for itself rather than restore the stone’s diminished power.",
+      "id": "F02",
+      "rationale": "The surrounding explanation and the ensuing enhancement prompt establish that the goal is for the sacred stone to regain its lost power.",
+      "replacement": "—I want to restore even a little of the sacred stone’s power.",
+      "severity": "major",
+      "source": "- 신석의 힘을 조금이나마 되찾고 싶다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "—Reckless, immature human.",
+      "defect": "“Immature” changes an age descriptor into a judgment about emotional or intellectual maturity.",
+      "id": "F03",
+      "rationale": "어린 directly characterizes the human as young.",
+      "replacement": "—Reckless, young human.",
+      "severity": "minor",
+      "source": "- 무모하고 어린 인간이여."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Black Tiger stared at me with deeply sunken eyes as I wondered about the legendary figure’s workout routine.",
+      "defect": "The draft changes Jin’s specific speculation about how the figure measured his big-three total into a general thought about his workout routine, while “deeply sunken eyes” incorrectly describes physical eye sockets rather than the subdued depth of the tiger’s gaze.",
+      "id": "F04",
+      "rationale": "삼대 측정 방식 refers specifically to the method of measuring the three-lift total, and 깊숙이 가라앉은 modifies the mood of the gaze.",
+      "replacement": "The Black Tiger regarded me with a deep, somber gaze as I wondered how that legendary figure had measured his big-three total.",
+      "severity": "minor",
+      "source": "그리고 전설 속 인물의 삼대 측정 방식을 궁금해하는 나를, 흑호가 깊숙이 가라앉은 눈빛으로 응시했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Wh-what is that…?”",
+      "defect": "The draft turns an unfinished demonstrative exclamation into an explicit question, resolving an intentional omission and slightly changing Yohi’s shocked reaction.",
+      "id": "F05",
+      "rationale": "저건 is a stammered “that,” and the source trails off without asking what it is.",
+      "replacement": "“Th-that….”",
+      "severity": "minor",
+      "source": "“저, 저건…….”"
+    }
+  ],
+  "summary": "One critical quantity error and four localized fidelity or ambiguity issues.",
+  "version": 1
+}
