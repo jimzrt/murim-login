@@ -8,7 +8,7 @@ The twenty-odd military transport planes and the fighter jets escorting them ran
 
 Below them lay a small city reduced entirely to ruins.
 
-The buildings packed tightly together had collapsed like dominoes, and flames rose from here and there.
+Buildings packed tightly together had toppled like dominoes, and flames rose everywhere.
 
 But what frightened the pilots most was the horrific sight visible even from far above.
 
@@ -40,11 +40,11 @@ Then Wei Fenghu spoke again, and the pilot decided that disobedience might actua
 
 “…”
 
-“I know that as well as you do. We may already be too late. But we have to go. If even one person is still alive, we must help them and fight alongside them.”
+“I know. We may already be too late. But we must go. If even one person is still alive, we must help them fight.”
 
 Wei Fenghu continued, his eyes grave.
 
-“Take the controls. And land first.”
+“Take us down. And be the first to land.”
 
 It was extraordinary enough that the commander-in-chief had come all the way here himself. Now he was ordering his plane to land first. With monsters potentially still in the area, the risk was enormous.
 
@@ -78,13 +78,13 @@ The sudden memory of that beloved face sent an ache through the old general’s 
 
 Wei Fenghu murmured quietly.
 
-It had already been fifteen days since Lei Fei had gone missing. But he had not let go of hope. Neither had Lei Fei’s wife and daughter, who had been moved to a safe place.
+It had already been fifteen days since Lei Fei disappeared. But he had not given up hope. Neither had Lei Fei’s wife and daughter, who had been moved somewhere safe.
 
 *Today, I saw someone who reminded me of you.*
 
-A young man who was still only in his twenties. He had achieved an incredible military feat in a distant foreign land, and when he heard that the Western Front was in danger, he had left without hesitation.
+A young man still only in his twenties. He had accomplished incredible feats in a distant foreign land, and when he heard that the Western Front was in danger, he had left without a moment’s hesitation.
 
-He had even laughed while attempting a teleport with a survival rate of only ten percent.
+He had even laughed before attempting a Teleport with only a ten-percent chance of survival.
 
 *“Ten percent sounds pretty good.”*
 
@@ -96,9 +96,9 @@ He had been deeply moved by the courage shown by Jin Taekyung, a young foreigner
 
 *You would have done the same, wouldn’t you?*
 
-Just as Wei Fenghu’s lips curved into a faint smile after asking the silent question, a cry rang out.
+A faint smile had just touched Wei Fenghu’s lips when the pilots cried out.
 
-“H-How can this be…!”
+“H-How can this be…?”
 
 “C-Commander-in-Chief!”
 
@@ -128,13 +128,13 @@ The pilots stared speechlessly at the devastated ground until Wei Fenghu’s sho
 
 “Yes, sir!”
 
-The threat from the monsters had vanished, but they could not afford to let their guard down.
+The threat from the monsters appeared to be gone, but they could not afford to let their guard down.
 
 The pilot maneuvered the aircraft more carefully than ever, his entire body drenched in cold sweat as he attempted the landing.
 
 Krrrrrrk, boom!
 
-The aircraft shuddered violently several times. At last, when the transport successfully landed, the first person to step out was none other than Wei Fenghu.
+The aircraft shuddered violently several times. When the transport finally came to a stop, the first person out was none other than Wei Fenghu.
 
 Tat-tat-tat!
 
@@ -168,7 +168,7 @@ The man was drenched in green blood from head to toe. Wei Fenghu stared at him a
 
 “Mr. Jin…?”
 
-It was definitely him.
+It was him.
 
 Though he looked like a man made of blood, Wei Fenghu recognized him.
 
@@ -178,7 +178,7 @@ His seemingly endless steps finally came to a halt before Wei Fenghu.
 
 Splash.
 
-Jin Taekyung brushed back the hair clotted together with the monsters’ sticky blood. After a long silence, he spoke his first words.
+Jin Taekyung pushed back the hair clotted with sticky monster blood. After a long silence, he spoke.
 
 “The battle is over. There are… no monsters left alive.”
 
@@ -194,7 +194,7 @@ And that was not all. A Death Knight Lord believed to be one of the Arch Lich’
 
 By contrast, barely a thousand Hunters had stood against them. The remaining People’s Liberation Army troops might as well have been made of paper.
 
-*Not only did he win that battle—he annihilated a monster army of ten thousand.*
+*Not only did they win—they wiped out an army of ten thousand monsters.*
 
 It was a battle that would have been impossible without one man.
 
@@ -220,7 +220,7 @@ He knew what its presence meant.
 
 After a brief silence, Jin Taekyung answered.
 
-“He asked me to pass along his love.”
+“He asked me to tell them he loved them.”
 
 “…!”
 
@@ -240,7 +240,7 @@ A breeze blew from somewhere and gently wrapped around him.
 
 Rank, achievements, whether someone was a Hunter or not—none of it mattered.
 
-The fact that he had sacrificed himself for someone else was enough to make him worthy of being called a hero.
+The fact that he had sacrificed himself for others was more than enough to call him a hero.
 
 That was why Lei Fei would remain in my memory for a long time.
 
@@ -258,11 +258,11 @@ Remembering what the healer who had stopped by earlier had told me, I looked at 
 
 Thanks to the top-grade potion, their injuries had vanished as if they had never existed. But the fatigue accumulated in their bodies and minds was a separate matter.
 
-*Even I occasionally pass out, and I level up.*
+*Even I pass out sometimes, and I can level up.*
 
 The two of them had fought bravely to the very end.
 
-They had held on to their weapons even while enduring the pain of having their limbs severed.
+Even through the agony of having their limbs torn off, they had refused to let go of their weapons.
 
 “Heroes… heroes, huh.”
 
@@ -293,11 +293,11 @@ Ding.
 > **Type:** Sword  
 > **Grade:** Supreme Peak  
 > **Restriction:** Those worthy of being called heroes  
-> **Description:** Extremely hard and sharp. The final soul of a noble hero dwells within it, and those who meet its qualifications can draw out even greater power.
+> **Description:** Extremely hard and sharp. The final spirit of a noble hero dwells within it, and those who meet its qualifications can draw out even greater power.
 
 *Hero’s Soul?*
 
-It was a fitting name for Lei Fei, but the sword was certainly strange.
+It was a fitting name for something that had belonged to Lei Fei, but this was certainly an unusual sword.
 
 Its Supreme Peak Grade made sense, considering it had survived that fierce battle without so much as a hairline crack. The restriction, however, was unique.
 
@@ -380,7 +380,7 @@ Even as I said it, I wondered if the question made any sense. Why was I asking a
 
 *The problem is, he doesn’t usually act like this.*
 
-But then the Skeleton Warlord suddenly spoke.
+Then the Skeleton Warlord suddenly spoke.
 
 —A thought occurred to me.
 
@@ -390,7 +390,7 @@ But then the Skeleton Warlord suddenly spoke.
 
 “…!”
 
-—I have no memories at all. Although the human named Lei Fei has ceased to exist, this commander was secretly envious of him. At least he learned who he was.
+—I have no memories at all. Although the human named Lei Fei has ceased to exist, this commander envied him. At least he learned who he was.
 
 I hadn’t expected him to be thinking about something like that.
 
@@ -420,7 +420,7 @@ I took one last look at the two sleeping figures, then rose from my seat. As I d
 
 “No. Just talking to myself.”
 
-—Ahem. Right?
+—Ahem. Of course.
 
 But the sudden brightness in the Skeleton Warlord’s previously dejected voice was definitely not my imagination.
 

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "All four thousand Hunters aboard the twenty-odd military transports carried fears of their own.",
+      "defect": "The translation drops the source's explicit image of fears being large and small, i.e. varying in degree.",
+      "id": "F01",
+      "rationale": "크고 작은 두려움 establishes a range of fear intensity, not merely that each person had individual fears.",
+      "replacement": "All four thousand Hunters aboard the twenty-odd military transports carried fears both great and small.",
+      "severity": "minor",
+      "source": "Lines 69-71"
+    },
+    {
+      "confidence": 0.96,
+      "current": "That had been Wei Fenghu’s lifelong principle, and Lei Fei—his nephew and as good as a son to him—had respected him for it.",
+      "defect": "The translation omits that Lei Fei was Wei Fenghu's sister's son, a specific family relationship established by 외조카.",
+      "id": "F02",
+      "rationale": "외조카 identifies a nephew on the sister's side; the source also explicitly compares that relationship to having a biological son.",
+      "replacement": "That had been Wei Fenghu’s lifelong principle, and Lei Fei—his nephew through his sister, who was as good as a biological son to him—had respected him for it.",
+      "severity": "minor",
+      "source": "Lines 75-77"
+    },
+    {
+      "confidence": 0.95,
+      "current": "An S-rank Hunter was said to be a strategic weapon capable of overturning an entire battlefield in an instant.",
+      "defect": "The translation changes 전황, the course or situation of a battle, into a physical battlefield and adds the unsupported scope 'entire.'",
+      "id": "F03",
+      "rationale": "The source describes changing the battle's course, not overturning the battlefield itself.",
+      "replacement": "An S-rank Hunter was said to be a strategic weapon capable of turning the tide of a battle in an instant.",
+      "severity": "minor",
+      "source": "Lines 199-203"
+    },
+    {
+      "confidence": 0.94,
+      "current": "*Even I occasionally pass out, and I level up.*",
+      "defect": "The coordination makes leveling up a second action performed alongside passing out, rather than identifying the narrator as someone who levels up and still occasionally faints.",
+      "id": "F04",
+      "rationale": "레벨 업을 하는 나조차도 frames the narrator's leveling ability as the contrast to his continued exhaustion and occasional unconsciousness.",
+      "replacement": "*Even I, despite leveling up, occasionally pass out.*",
+      "severity": "minor",
+      "source": "Lines 257-259"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but four minor fidelity defects remain involving dropped relationship/detail information and two misleading recasts.",
+  "version": 1
+}
