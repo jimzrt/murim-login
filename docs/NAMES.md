@@ -2064,3 +2064,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 진세돌 | **Jin Sedol** | Jin Taekyung's father's online Go username. |
 | 민준 | **Minjun** | Taekyung's childhood classmate whose leg he accidentally fractured during a soccer game. |
 | 금력단 | **Force-Sealing Pill** | Special pill blocking Jin Taekyung's dantian and preventing internal-energy use. |
+| 백휘 | **Baekhwi** | Baeksang's deceased only child. |
+| 대설산 | **Great Snow Mountain** | Mountain where Baeksang's wartime account reaches its next episode. |
+| 남군 | **Southern Army** | Army led by Baeksang and the Beast Miao King alongside the Zhongnan Sect. |
