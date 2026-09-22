@@ -1,22 +1,22 @@
 # Translation State
 
-- Last completed: 704
-- Next chapter: 705
-- Current block: 700–704 (5/5)
-- Latest translation: `translations/0704.md`
-- Latest summary: `summaries/beats/0704.md`
-- Safe profiles through: chapter 704
+- Last completed: 705
+- Next chapter: 706
+- Current block: 705–709 (1/5)
+- Latest translation: `translations/0705.md`
+- Latest summary: `summaries/beats/0705.md`
+- Safe profiles through: chapter 705
 
 ## Current Block
 
-- The Southern Heaven Demon Empress launches Jin Taekyung and the guardian spirit's execution, but Yayul Cheok arrives and counters her palm force with Fist Force, rescuing Jin from the surrounding mutants. Jin expels stagnant blood, regains enough strength to fight beside Yayul and the guardian spirit, and the three confront the Empress while she waits anxiously for five hundred elite subordinates who have not appeared. Yayul vows to tear her apart for destroying Nanman, then summons reinforcements who arrive along a path he creates through the darkness: Wang Ho, Commander of the Baekcheon Unit, leads a white-armored force and bows to him as Palace Lord.
+- The Southern Heaven Demon Empress is shaken when the three-hundred-warrior Baekcheon Unit arrives under Wang Ho. Baeksang secretly trained the Bai warriors for decades, entrusted their mobilization token to the Beast Miao King, and left instructions that they follow Yayul Cheok and oppose Dark Heaven.
+- Yayul Cheok rallies roughly thirteen thousand Nanman and Bai warriors after the Beast King Stone awakens another three-thousand-strong force. Wang Ho reports that the Empress's five hundred elites have been annihilated, while the mutants retreat before the sacred stone's power. Yayul orders the united army forward, but the Empress raises a dragon tornado as Jin Taekyung rides the guardian spirit into the confrontation.
 
 ## Open Questions
 
-- Why have the Southern Heaven Demon Empress's five hundred elite subordinates not arrived?
-- Who is the person Yayul Cheok says foresaw the disaster and retained hope until the end?
-- Can the Baekcheon Unit change the battle's outcome?
-- Can Jin Taekyung, Yayul Cheok, and the guardian spirit defeat the Southern Heaven Demon Empress and stop the mutants?
+- Can Yayul Cheok, Jin Taekyung, the guardian spirit, and the allied army defeat the Southern Heaven Demon Empress?
+- Can the allied forces overcome the remaining mutants and end the Inner Palace crisis?
+- What will happen when the Southern Heaven Demon Empress's dragon tornado fully confronts the advancing coalition?
 
 ## Exceptional Decision
 
@@ -24,6 +24,7 @@
 - Render 궁주 as Palace Lord and 백천대주 as Commander of the Baekcheon Unit.
 - Retain shichen for 시진 and the time it takes to drink a cup of tea for 일다경.
 - Preserve Jin Taekyung's conversational profanity and the guardian spirit's terse, telepathic voice.
+- Render 문산 as Wenshan, 태족 as Dai people, and 주군 as my lord.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
