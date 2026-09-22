@@ -2155,3 +2155,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 신강 | **Xinjiang** | Region beyond Qinghai described as the domain of the Demonic Path. |
 | 선계 | **realm of immortals** | The other world that Jin travels to and from. |
 | 소신선 | **Little Immortal** | Jeok Cheongang's private speculation about Jin. |
+| 도람프 주니어 | **Doramp Jr.** | President of the United States whose White House statement names the Week of Judgment. |
