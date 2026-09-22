@@ -2157,3 +2157,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소신선 | **Little Immortal** | Jeok Cheongang's private speculation about Jin. |
 | 도람프 주니어 | **Doramp Jr.** | President of the United States whose White House statement names the Week of Judgment. |
 | 세환이 | **Sehwan** | Security Team employee addressed by his superior. |
+| 천지심법 | **Heaven and Earth Cultivation Technique** | New name for the publicly released Mana Cultivation Method. |
+| 김경식 | **Kim Gyeongsik** | Name mentioned in a forum joke about who edited the cultivation method. |
+| 오이마켓 | **Oi Market** | Secondhand marketplace referenced in a joke about the presidential chair. |

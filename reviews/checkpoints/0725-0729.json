@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "*What an infuriating brat. He caused all this trouble, and now he’s sleeping like a baby.*\n\nOn the one hand, it was absurd. But after hearing a rough account from Jin Taekyung, Jeok Cheongang no longer had the strength to be surprised.\n\nA completely different world, utterly removed from Murim. And a young man traveling back and forth between that place—one like the realm of immortals—and Murim.\n\n*What an infuriating brat. He caused all this trouble, and now he’s sleeping like a baby.*\n\nOn the one hand, it was absurd. But after hearing a rough account from Jin Taekyung, Jeok Cheongang no longer had the strength to be surprised.\n\nA completely different world, utterly removed from Murim. And a young man traveling back and forth between that place—one like the realm of immortals—and Murim.\n\nJeok Cheongang could not understand all of it, but he had already accepted that the unbelievable story he had heard was entirely true.",
+      "defect": "The same thought and two explanatory paragraphs appear twice consecutively, creating an accidental duplication.",
+      "id": "C01",
+      "rationale": "Removing the repeated block restores the intended progression from Jeok Cheongang’s reaction to his acceptance of Jin’s account.",
+      "replacement": "*What an infuriating brat. He caused all this trouble, and now he’s sleeping like a baby.*\n\nOn the one hand, it was absurd. But after hearing a rough account from Jin Taekyung, Jeok Cheongang no longer had the strength to be surprised.\n\nA completely different world, utterly removed from Murim. And a young man traveling back and forth between that place—one like the realm of immortals—and Murim.\n\nJeok Cheongang could not understand all of it, but he had already accepted that the unbelievable story he had heard was entirely true.",
+      "severity": "major",
+      "source": "Chapter 725, Jeok Cheongang POV after Jin falls asleep"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Meanwhile, Team Leader Choi had appeared in the media as the new City Lord of the Ares Guild and the successor to the living Savior.",
+      "defect": "“City Lord” is inconsistent with the modern Guild hierarchy and directly conflicts with Chapter 729, which identifies Choi Minwoo as Ares Guild’s new Vice Guild Master.",
+      "id": "C02",
+      "rationale": "Using the title established in Chapter 729 removes an internal terminology contradiction without changing Choi’s authority or public legitimacy.",
+      "replacement": "Meanwhile, Team Leader Choi had appeared in the media as the new Vice Guild Master of the Ares Guild and the successor to the living Savior.",
+      "severity": "major",
+      "source": "Chapter 727, discussion of Jin Taekyung and Choi Minwoo’s public standing"
+    },
+    {
+      "confidence": 1.0,
+      "current": "\"Who is leaking the unidentified sources that are fueling media speculation?\"",
+      "defect": "The durable state drops the still-active Chapter 728 hook concerning the ghostlike infiltrator and the unknown item stolen from government evidence storage.",
+      "id": "C03",
+      "rationale": "The theft remains unresolved and is independent of the possible media leak, so both questions must survive into active state.",
+      "replacement": "\"Who was the ghostlike infiltrator, and what item did it steal from the government evidence storage room?\",\n    \"Who is leaking the unidentified sources that are fueling media speculation?\"",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.99,
+      "current": "\"Jin Taekyung and Choi Minwoo are preparing a public release of Cheon Taemin's Heaven and Earth Cultivation Technique.\"",
+      "defect": "This wording attributes the technique itself to Cheon Taemin even though Jin created it and the characters are only presenting it publicly under Cheon Taemin’s name.",
+      "id": "C04",
+      "rationale": "The revised state preserves both the true authorship and the deception that Jin and Choi are maintaining.",
+      "replacement": "\"Jin Taekyung and Choi Minwoo are preparing to publicly release Jin's Heaven and Earth Cultivation Technique under Cheon Taemin's name.\"",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.98,
+      "current": "And the profession more meticulous about routines and superstitions than any other was that of a Hunter.",
+      "defect": "The comparative construction is awkward and reads like a syntax calque rather than natural contemporary narration.",
+      "id": "C05",
+      "rationale": "The replacement preserves the comparison and conversational emphasis while making the sentence idiomatic English.",
+      "replacement": "And no profession was more meticulous about routines and superstitions than that of a Hunter.",
+      "severity": "minor",
+      "source": "Chapter 726, narration introducing Hunter routines"
+    }
+  ],
+  "summary": "The packet is broadly coherent in voice and continuity, but it contains one substantial duplicated passage, one conflicting Ares title, a dropped infiltrator hook in durable state, a misleading authorship statement in active continuity, and one awkward sentence.",
+  "version": 1
+}

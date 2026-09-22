@@ -1,31 +1,29 @@
 # Translation State
 
-- Last completed: 728
-- Next chapter: 729
-- Current block: 725–729 (4/5)
-- Latest translation: `translations/0728.md`
-- Latest summary: `summaries/beats/0728.md`
-- Safe profiles through: chapter 728
+- Last completed: 729
+- Next chapter: 730
+- Current block: 725–729 (5/5)
+- Latest translation: `translations/0729.md`
+- Latest summary: `summaries/beats/0729.md`
+- Safe profiles through: chapter 729
 
 ## Current Block
 
-- Team Leader Choi presents a dangerous initiative that would take the Peace Guild beyond a domestic scale. The Skeleton King initially objects because further expansion will attract suspicion, but his concern is undermined by his own SNS account, which already has 120,000 followers and numerous advertising offers. Jin orders him to delete the account, while Im Kkeokjeong and Song Song agree to continue despite the risks. Choi reveals that he visited the grave of someone precious who left a message asking him to return, and the group resolves to move forward together for that person's sake. Jin agrees to begin, and Choi calls President Baek Hanseong as the first contact.
-- A brief power outage strikes a government building supplied by an A-rank Magic Gem. While employees and the Security Team treat it as a routine malfunction, a ghostlike entity moves through the darkness, steals an item from the underground evidence storage room, bypasses the alarm magic, and leaves unnoticed. The Security Team later learns only that a major event is expected that day from a notice apparently sent by the Blue House. A Security Team employee named Sehwan unknowingly walks past the entity's shadow.
+- Jin Taekyung and Choi Minwoo seek government support for publicly releasing Cheon Taemin's Heaven and Earth Cultivation Technique, a safe and broadly applicable method renamed from the Smiling Mana Cultivation Method. They persuade President Baek Hanseong to announce government cooperation and an upcoming major announcement, framing the release as a national project. Baek's televised statement triggers worldwide media upheaval and widespread public praise, while Ares Guild executives challenge Choi for withholding advance notice. Choi apologizes but retains their reluctant respect because of Cheon Taemin's name and his own legitimacy. Jin then confronts the executives' silence after Choi's apology, forcing the meeting toward its next response.
 
 ## Open Questions
 
-- How will the major Guilds respond when the Smiling Mana Cultivation Method is made public?
-- Will Jin and Choi be able to release the method without provoking direct interference or retaliation?
-- How much will public access to the method improve Hunters' ability to resist stronger monsters and mutation Gates?
-- Will worsening conditions force Jin to reveal the Jin Family's Cultivation Technique as well?
-- Who was the ghostlike infiltrator, and what item was stolen from the government evidence storage room?
+- What will be revealed in the major announcement two days later?
+- How will the Heaven and Earth Cultivation Technique be distributed and regulated after its public release?
+- Will the Ares executives accept Choi's authority or continue challenging his decisions?
+- How long can Jin and Choi conceal the truth about Cheon Taemin and Jin's authorship?
+- Who is leaking the unidentified sources that are fueling media speculation?
 
 ## Exceptional Decision
 
-- Render 싱글벙글 마나 연공법 as The Smiling Mana Cultivation Method.
-- Render 심판의 일주일 as The Week of Judgment.
-- Render 구세주 코인 as the Savior coin.
-- Preserve Jin's profane comic banter and Choi Minwoo's formal, controlled speech.
+- Render 천지심법 as The Heaven and Earth Cultivation Technique.
+- Render 국뽕 as patriotic high.
+- Preserve Jin's profane comic banter and the online forum's informal tone.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

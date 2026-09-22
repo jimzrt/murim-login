@@ -1185,3 +1185,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | guild_member_to_guild_master | Team Leader Choi | formal-polite | Jin directly addresses Choi before agreeing to begin. |
 | 임꺽정 | 최 팀장 | guild_member_to_guild_master | Team Leader Choi | casual-polite | Im asks Choi whether he agrees with seeing the commitment through. |
 | 최 팀장 | 대통령님 | guild_master_to_president | Mr. President | formal-polite | Choi addresses President Baek Hanseong during the initial phone call. |
+| 국장 | 박 기자 | newsroom chief to reporter | Reporter Park | informal and commanding | The chief orders Reporter Park to contact the Peace Guild. |
+| 박 기자 | 국장 | reporter to newsroom chief | Chief | deferential but exasperated | Reporter Park reports that contacting Jin Taekyung could get him beaten to death. |
