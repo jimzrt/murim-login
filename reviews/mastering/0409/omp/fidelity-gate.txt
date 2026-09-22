@@ -1,0 +1,65 @@
+{
+  "summary": "Mostly faithful, but several minor source-fidelity defects remain in terminology, added implications, characterization, impact sound, and physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 47–49",
+      "current": "For some reason, he also had a considerable amount of qi stored within his body, so his progress in martial arts was astonishingly fast.",
+      "defect": "The source uses 기운, referring here to energy accumulated in his body, not the more specific cultivation term qi. The assembled wording collapses the source's distinction between accumulated 기운 and 공력.",
+      "replacement": "For some reason, he also had a considerable amount of energy stored within his body, so his progress in martial arts was astonishingly fast.",
+      "rationale": "The chapter's terminology rules preserve internal-energy distinctions, and the accepted baseline renders this instance as energy rather than qi.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 65–67",
+      "current": "Even after obtaining the System, I’d nearly died several times. Damn it, I’d been through hell.",
+      "defect": "“I’d been through hell” adds a stronger metaphorical claim than the source. The Korean ends with an exasperated emphasis equivalent to “Damn it. Seriously,” rather than asserting that he had been through hell.",
+      "replacement": "Even after obtaining the System, I’d nearly died several times. Damn it, seriously.",
+      "rationale": "The source establishes repeated near-death experiences and frustration, but not the added “been through hell” image.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 73–74",
+      "current": "—If you insist on going, go alone! Why must you take this commander with you?",
+      "defect": "“If you insist” adds an implication of insistence that is absent from the source. The Skeleton Warlord says simply that if Jin is going, he should go alone.",
+      "replacement": "—If you’re going to go, go alone! Why must you take this commander with you?",
+      "rationale": "The Korean conditional expresses the act of going, not Jin's insistence on it.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 181–185",
+      "current": "*Don't be such a coward.*",
+      "defect": "The source criticizes the Skeleton Warlord for making a weak or defeatist remark, not for being a coward. “Coward” changes the target from its present complaint to a broader character judgment.",
+      "replacement": "*What a weak thing to say.*",
+      "rationale": "약한 소리 하기는 comments on the weakness of what was said and preserves the narrator's dismissive inner remark without adding a character accusation.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Lines 201–211",
+      "current": "*Crack!*",
+      "defect": "The source's 딱! is the sharp impact sound of the forehead flick, while the actual crack in the skull is revealed immediately afterward. “Crack!” makes the impact itself sound like the fracture.",
+      "replacement": "*Smack!*",
+      "rationale": "A sharp impact sound preserves the action and keeps the later revelation of the actual skull crack distinct.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Lines 339–345",
+      "current": "The vast basin was reflected in his icy gaze.",
+      "defect": "The source specifically describes the basin reflected in his cold pupils. “Icy gaze” replaces that physical image and repeats the preceding sentence's gaze reference.",
+      "replacement": "The vast basin was reflected in his cold pupils.",
+      "rationale": "The pupils are the source-established physical detail and carry the visual focus of the moment.",
+      "confidence": 0.96
+    }
+  ]
+}

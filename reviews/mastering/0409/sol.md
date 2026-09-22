@@ -14,7 +14,7 @@ I shrugged at Team Leader Choi.
 
 More accurately, I needed less sleep.
 
-With stamina that had surpassed human limits and formidable internal energy amounting to three jiazi,[^1] I could blow away most fatigue by circulating my qi.
+With stamina that had surpassed human limits and nearly three jiazi[^1] of formidable internal energy, I could dispel most fatigue simply by circulating my qi.
 
 “Were you practicing the Mana Cultivation Method—or rather, the Jin Family’s Cultivation Technique?”
 
@@ -32,7 +32,7 @@ To be exact, I was practicing the Fire Gate Divine Technique, the secret cultiva
 
 “…”
 
-*Warning: your fact attack may hurt someone.*
+*Warning: fact attacks may cause emotional injury.*
 
 For a moment, I could practically see the public-service announcement flashing across Team Leader Choi’s face.
 
@@ -46,13 +46,13 @@ I did mean it. As befitted a descendant of Cheon Taemin, the hero who had achiev
 
 For some reason, he also had a considerable amount of qi stored within his body, so his progress in martial arts was astonishingly fast.
 
-In short, he was a talent with all the groundwork already laid.
+In short, all the groundwork had already been laid.
 
 *If he’d learned martial arts from childhood like Wu Heixing… he’d probably be an S-rank Hunter by now.*
 
 Team Leader Choi’s expression softened slightly, and he nodded.
 
-“How do I compare to Jin Taekyung?”
+“How do I compare to you, Mr. Jin?”
 
 “Are you kidding? Of course I learned faster.”
 
@@ -62,7 +62,7 @@ Team Leader Choi’s expression softened slightly, and he nodded.
 
 Team Leader Choi might have grown up under Lee Jungryong’s watchful eye, constantly held in check, but our lives had been fundamentally different.
 
-Even after obtaining the System, I’d nearly died several times. Damn it, I’d been through hell.
+Even after obtaining the System, I’d nearly died more times than I could count. Damn it, I’d been through hell.
 
 “Anyway, what brings you here this early?”
 
@@ -86,13 +86,13 @@ At my worried question, Team Leader Choi shook his head.
 
 So that was what he meant. Once I caught on, I let out a quiet laugh.
 
-“I know who you mean. Tall and handsome, right? With an absolutely wonderful personality.”
+“I think I know who you mean. Tall and handsome, right? With an absolutely fantastic personality.”
 
 “I can’t speak to the first two, but his personality certainly is something else. In several ways.”
 
 “Hmm. Then I don’t think we’re talking about the same person.”
 
-“Mr. Jin Taekyung.”
+“Mr. Jin.”
 
 Team Leader Choi, who had been trading jokes with me until then, lowered his voice.
 
@@ -114,11 +114,11 @@ Two names immediately came to mind.
 
 Lee Jungryong and Wu Heixing. Men bound to me by bitter history—and comrades who would soon have to entrust their backs to one another.
 
-I scratched my chin and answered.
+I scratched my chin.
 
 “‘People I can’t trust.’ I can’t think of a more fitting description.”
 
-“Mr. Jin Taekyung…”
+“Mr. Jin…”
 
 “Team Leader Choi?”
 
@@ -128,7 +128,7 @@ He closed his mouth before he could continue. I quietly raised a hand and pointe
 
 “……!”
 
-“The battle will begin before the day is over. Clear your mind and prepare for the fight ahead.”
+“The battle will begin before the day is over. Clear your mind and prepare for what’s coming.”
 
 Team Leader Choi stared at me, conflicted and unable to speak. At last, he heaved a deep sigh and rose from his seat.
 
@@ -154,9 +154,9 @@ The Skeleton Warlord, which had been moping ever since its wish coupon was refun
 
 —You call breaking through a massive monster army to confront the Arch Lich our best option? Are you an evil human, or simply insane?
 
-Listen to the way this undead bastard talks.
+Listen to this undead bastard.
 
-I considered punishing it, then unfolded my legs and reclined diagonally across the bed.
+I considered punishing it, then unfolded my legs and reclined across the bed.
 
 “It’s a dangerous operation, sure, but we’ve got a good chance. Stop complaining.”
 
@@ -172,15 +172,15 @@ The Skeleton Warlord muttered with the voice of one who had attained enlightenme
 
 —Still here? You mean I cannot leave!
 
-“You’re hilarious. When was it that you came back on your own feet? Ah, never mind. Not feet—your skull.”
+“You’re hilarious. Who was it that came rolling back of his own free will? Oh, wait. Not on your feet. On your skull.”
 
 —Vicious humans seeking this commander’s life are everywhere! What else was I supposed to do?
 
 I let out a quiet laugh at the Skeleton Warlord’s aggrieved protest.
 
-*Don't be such a coward.*
+*Listen to this weakling.*
 
-I had plenty to say, but decided to save it for later. That was something it needed to realize on its own.
+I had plenty I wanted to say, but I kept it to myself. It was something the Skeleton Warlord needed to realize on its own.
 
 —You laughed! You just laughed!
 
@@ -202,17 +202,17 @@ For a moment, the answer made perfect sense. Then I realized how ridiculous it w
 
 —C-Calm down, human. I said nothing untrue.
 
-“Right. Dullahans can move without their heads. Let’s see what happens to the Skeleton Warlord.”
+“Right. Dullahans can move without their heads. Let’s see how a Skeleton Warlord does.”
 
 *Crack!*
 
 I flicked its forehead with lightning speed, and the Skeleton Warlord shrieked.
 
-—Agh! A crack! There’s a crack between my brows! I’m telling you, there’s really a crack!
+—Agh! A crack! There is a crack between my brows! I am telling you, it really cracked!
 
 “I held back, so what the hell are you talking about… Oh. There really is one.”
 
-Maybe I should have hit it more gently. A tiny crack had appeared in the glossy black skull, its surface gleaming smoothly.
+Maybe I should have gone easier. A hairline crack had appeared in the glossy black skull.
 
 When I lightly touched the sliver of bone raised by the impact, the Skeleton Warlord screamed.
 
@@ -220,7 +220,7 @@ When I lightly touched the sliver of bone raised by the impact, the Skeleton War
 
 “Fine, I get it. Stop screaming.”
 
-—My bones have been getting increasingly itchy and sensitive lately, and I was already worried, but this madman went and… Sob.
+—My bones have been unusually itchy and sensitive lately, and I was already worried, but this madman went and… Sob.
 
 “…”
 
@@ -232,7 +232,7 @@ At this rate, it would start an iTube channel and rack up a million subscribers 
 
 The more I saw of it, the stranger it seemed.
 
-I stared at the Skeleton Warlord in disbelief, then suddenly threw open one side of the tent. The sun was slowly lifting its head in the east.
+I stared at the Skeleton Warlord in disbelief, then pulled open one side of the tent. The sun was slowly peeking over the eastern horizon.
 
 It signaled the beginning of a new day—and the battle soon to come.
 
@@ -262,13 +262,13 @@ A deafening roar and tremors rose from the ground. The crows cried out irritably
 
 Several black feathers drifted through the air, caught the wind, and sailed across the vast basin.
 
-Countless marching feet and the metal wheels of tanks crushed the feathers as they fluttered down.
+As they fluttered back toward the earth, countless marching feet and the metal wheels of armored vehicles crushed them underfoot.
 
 Boom. Boom. Boom.
 
 A human army filled the horizon.
 
-The tower shields held by the tank-class Hunters at the forefront scraped against the ground. Behind them, thousands of Hunters advanced in ordered ranks.
+The tower shields carried by the tanks at the forefront scraped against the ground. Behind them, thousands of Hunters advanced in ordered ranks.
 
 A pair of tightly pressed lips showed beneath a helmet pulled low.
 
@@ -326,7 +326,7 @@ And the thousands of Hunters and soldiers of the Western Front realized somethin
 
 Perhaps Jin Taekyung’s words had been meant for them.
 
-“By now, the other fronts are probably surrounding Suining City just like we are, right?”
+“By now, the other fronts must be surrounding Suining City just like we are, right?”
 
 “They’ll have it completely encircled.”
 
@@ -338,13 +338,15 @@ Jin Taekyung laughed aloud at Shao Shen’s resolute answer.
 
 “Yeah. We have to. But…”
 
-Jin Taekyung’s laughter abruptly stopped. The next moment, the playful light in his eyes vanished, replaced by a deeply sunken gaze.
+His laughter abruptly stopped.
+
+The next moment, the playful gleam vanished from his eyes, replaced by a deep, cold light.
 
 The vast basin was reflected in his icy gaze.
 
 “Looks like they have other ideas.”
 
-Tap. Tap-tap-tap.
+Rustle. Rustle-rustle.
 
 Grrrk…
 
