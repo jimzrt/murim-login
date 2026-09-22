@@ -1,0 +1,65 @@
+{
+  "summary": "Mostly faithful, but several localized terminology, mechanism, hierarchy, and physical-detail regressions remain.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 141–142; P54",
+      "current": "The place martial artists called the Tanzhong acupoint, or the Middle Dantian, had opened wide.",
+      "defect": "The generic 'martial artists' loses the source's setting-specific Murim identity in 무림인들, for which the glossary establishes 'Murim.'",
+      "replacement": "The spot Murim practitioners called the Tanzhong acupoint, or the Middle Dantian, had opened wide.",
+      "rationale": "The source identifies the people using this terminology as Murim practitioners, not merely martial artists.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean lines 153–154; P62",
+      "current": "And now, I could see it.",
+      "defect": "The pronoun obscures the specific object he has perceived: the center of the magic. In context, 'it' can grammatically refer to magic itself rather than its center.",
+      "replacement": "And now, I could see that center.",
+      "rationale": "The source explicitly says 그 중심이 보였다, and seeing the spell's center is the mechanism that enables him to counter it.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean lines 193–195; P81",
+      "current": "Although it had lost considerable power during its resurrection as an Arch Lich, even now it possessed enough mana to regard Grand Mages as beneath it.",
+      "defect": "The translation drops 한 수, the explicit one-level or one-step hierarchy by which the Arch Lich regards Grand Mages.",
+      "replacement": "Although it had lost considerable power during its resurrection as an Arch Lich, even now it possessed enough mana to regard Grand Mages as a level beneath it.",
+      "rationale": "The source specifies a comparative rank relationship, not merely that Grand Mages are generally inferior.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean lines 211–213; P92",
+      "current": "His graceful movements resembled a hawk’s, but no mere bird could compare to his speed.",
+      "defect": "날짐승 means a flying creature, not specifically a bird. 'Bird' narrows the comparison and changes the source's category.",
+      "replacement": "His graceful movements resembled a hawk’s, but no mere flying creature could compare to his speed.",
+      "rationale": "The source contrasts his speed with all ordinary flying creatures.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Korean lines 273–277; P131",
+      "current": "The length of the spearhead that had passed through the bone barrier was no more than the width of a finger joint",
+      "defect": "The source measures the penetration as the length of one finger segment, not its width. This changes the physical extent of the spearhead's penetration.",
+      "replacement": "The length of the spearhead that had passed through the bone barrier was no more than the length of a finger joint",
+      "rationale": "손가락 한 마디 정도 describes the length of a finger joint or segment.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Korean lines 283–289; P138",
+      "current": "You have earned the right to be. If you truly are the Adversary.",
+      "defect": "The translation drops the explicit object of 'be': the Arch Lich says Jin has earned the right to be arrogant, referring directly to its preceding accusation of arrogance.",
+      "replacement": "You have earned the right to be arrogant. If you truly are the Adversary.",
+      "rationale": "그럴 만한 자격 refers back to 오만하구나; leaving 'be' without its adjective makes the statement incomplete and weakens the characterization.",
+      "confidence": 0.94
+    }
+  ]
+}

@@ -18,7 +18,7 @@
 
 The System notifications kept ringing in my ears without pause.
 
-A breeze stirred my sweat-soaked hair, and I felt the new power and changes permeating my entire body.
+A breeze stirred my sweat-soaked hair, and I felt new strength and profound changes spreading through my entire body.
 
 Even the final, crystal-clear chime.
 
@@ -42,15 +42,15 @@ And I wasn’t the only one who sensed the changes.
 
 A master could hardly fail to notice what his own hand had done. Realizing that its curse magic had been broken, the Arch Lich asked in disbelief,
 
-“How in the world?”
+“How?”
 
 I shrugged at the single word that contained every question it had.
 
-“Well.”
+“Skillfully.”
 
-“‘Well’?”
+“Skillfully?”
 
-“Yeah. Well.”
+“Yeah. Skillfully.”
 
 “Do you think that explains anything?”
 
@@ -64,7 +64,7 @@ The faint tremor in the Arch Lich’s glowing eyes conveyed its sheer incredulit
 
 “Even the humans you call Grand Mages could not break my magic so easily.”
 
-“They can’t. But it’s done.”
+“Well, I just did.”
 
 “What utter nonsense!”
 
@@ -82,7 +82,7 @@ But…
 
 “……!”
 
-I had the System, and I had merely done my best with the power and effort I had been given to overcome the crisis.
+I had the System, and I’d simply used the strength I’d been given and all the effort I’d put in to overcome the crisis.
 
 If it thought that was unfair, it could use the System, too.
 
@@ -92,7 +92,7 @@ The Skeleton Warlord, who had been screaming only moments ago, muttered,
 
 “Wow. You really have a way with words.”
 
-I could be like that sometimes.
+That was just the kind of guy I was.
 
 “But, devious human, that one does not appear willing to suck it up and move on.”
 
@@ -102,7 +102,7 @@ The next moment, an enormous vortex of mana formed, and an eerie voice rang out.
 
 “Explode. Sonic Buster.”
 
-And at the same time—
+At the same time—
 
 *Fwoooooosh! Boom!*
 
@@ -112,7 +112,7 @@ The sphere of wind shot forward at the speed of sound, pulverizing concrete and 
 
 Every window in the high-rise buildings shattered under the aftershock, and countless shards of glass were swept into the gale.
 
-In a single instant—before I could even blink—the enormous mass of wind had reached the tip of my nose.
+In a single instant—before I could even blink—the enormous mass of wind was right in front of me.
 
 “Human!”
 
@@ -126,7 +126,7 @@ There was a world of difference between who I’d been a few minutes ago and who
 
 *Ah.*
 
-The area around my chest grew hot.
+The center of my chest grew hot.
 
 The place martial artists called the Tanzhong acupoint, or the Middle Dantian, had opened wide.
 
@@ -200,9 +200,9 @@ Just as the pressure—too great for even an S-rank Hunter to resist—was about
 
 *Pop!*
 
-Compressed air burst from the tip of Jin Taekyung’s foot.
+Compressed air exploded beneath Jin Taekyung’s toes.
 
-His body escaped the range of the gravity magic with *Stepping on Empty Air*, then stepped on the empty air again.
+Using *Stepping on Empty Air*, he escaped the gravity spell’s range, then stepped on empty air again.
 
 His graceful movements resembled a hawk’s, but no mere bird could compare to his speed.
 
@@ -212,7 +212,7 @@ The red glow in the Arch Lich’s eyes darkened as it watched Jin Taekyung race 
 
 Jin Taekyung had not only identified the precise range of its gravity magic but had also evaded it with some strange technique.
 
-*As I thought. He did not dispel the illusion magic through mere luck. Then…*
+*As I thought. It was not mere luck that allowed him to break the illusion spell. In that case…*
 
 *Whoooooooom!*
 
@@ -270,7 +270,7 @@ High in the ash-gray sky, an enormous shock wave and a thunderous roar erupted a
 
 Compressed wind exploded outward.
 
-The clouds circling far above scattered. Buildings that had barely maintained their shape collapsed, and half-rotted corpses were swept away by the wind.
+Clouds drifting high above scattered. Buildings that had barely remained standing collapsed, and half-rotted corpses were swept away by the blast.
 
 Yet the two beings responsible for it all remained perfectly still, staring at each other through the barrier.
 
@@ -282,7 +282,7 @@ The Arch Lich stared at the transparent spearhead piercing the center of the wal
 
 “I shall call it dangerous.”
 
-The length of the spearhead that had passed through the bone barrier was no more than the width of a finger joint, but the Force that erupted in that instant had reached the tip of the Arch Lich’s nose.
+Only a finger joint’s length of the spearhead had penetrated the bone wall, but the Force that erupted from it had reached right before the Arch Lich’s face.
 
 It had been a fortunate escape for the Arch Lich.
 
@@ -312,7 +312,7 @@ The Arch Lich shook its head.
 
 “This is something neither you nor I can understand. But one thing is certain.”
 
-The deeply sunken red eye-lights flared fiercely.
+Its deeply sunken red eyes flared fiercely.
 
 At first, it had thought Jin Taekyung was merely a strong and unusual human.
 
@@ -320,17 +320,17 @@ Not anymore.
 
 It remembered sweeping across this planet decades ago while serving the king.
 
-It also recalled the figure of the human it had encountered on the day it lost everything and fell into the River of Death—the first and last time it had ever met that human.
+It also remembered the human it had encountered on the day it lost everything and fell into the River of Death—the first and last time it had ever seen him.
 
 *The Adversary.*
 
-The human who had killed it and even assassinated the king.
+The human who had killed it and even slain the king.
 
 The one it had tried to stop but could not, the one it had tried to approach but could never reach—the only human it had ever feared.
 
 And today, during its battle with Jin Taekyung, the Arch Lich had remembered that day.
 
-“You… will definitely die here.”
+“You… will die here.”
 
 Its voice was eerie but more resolute than ever.
 
@@ -340,7 +340,7 @@ Jin Taekyung’s answer was simple.
 
 And the next moment—
 
-“Eat this, fucker.”
+“Eat this.”
 
 *Fwoom! Kwaaaaaa!*
 
@@ -356,7 +356,7 @@ The bone barrier that had seemed capable of blocking any attack collapsed.
 
 Beyond the countless fragments of bone scattering in every direction, the Arch Lich’s face came into view.
 
-Jin Taekyung spoke with an expressionless face.
+Jin Taekyung stared at it expressionlessly.
 
 “See how much better this is? My neck doesn’t hurt, either.”
 
