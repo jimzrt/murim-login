@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Soon, the warriors of the Maek people realized the identity of the monster that had crashed into them and stared with their mouths hanging open.",
+      "defect": "The guards are consistently identified as Bai warriors throughout the encounter; the unexplained switch to Maek is terminology drift.",
+      "id": "C01",
+      "rationale": "Maintains the established tribal identity of the warriors in this scene and avoids introducing an unexplained group.",
+      "replacement": "Soon, the Bai warriors realized the identity of the monster that had crashed into them and stared with their mouths hanging open.",
+      "severity": "major",
+      "source": "Chapter 668, after the Bai captain crashes into the corridor"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was a powerful punch that could only mean Jin Taekyung had recovered his internal energy.",
+      "defect": "Presented as objective narration, this contradicts Chapters 668–669, which establish that Jin’s internal energy remains sealed and that he is using the Middle Dantian instead.",
+      "id": "C02",
+      "rationale": "Preserves the captain’s mistaken conclusion while making the viewpoint explicit and maintaining the ongoing Middle Dantian mystery.",
+      "replacement": "To the captain, the powerful punch felt like proof that Jin Taekyung had recovered his internal energy.",
+      "severity": "major",
+      "source": "Chapter 668, the Bai captain’s final thoughts after Jin punches him"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The rescue exposes Baeksang’s defiance of the Beast Miao King and leaves the execution order and Tribal Grand Council’s response unresolved.",
+      "defect": "The direction of defiance is inverted: the Beast Miao King supports the rescue against the execution decision, while Baeksang fails to intervene.",
+      "id": "C03",
+      "rationale": "Accurately preserves the political alignment established in Chapters 666–669 without overstating Baeksang’s role.",
+      "replacement": "The rescue defies the execution order with the Beast Miao King’s support, leaving Baeksang and the Tribal Grand Council’s response unresolved.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, final sentence"
+    },
+    {
+      "confidence": 0.99,
+      "current": "After staring at Baeksang for a moment at his cold words, the captain scattered throughout the manor with his subordinates.",
+      "defect": "The singular captain cannot himself scatter throughout the manor, and “at his cold words” is an awkward attachment.",
+      "id": "C04",
+      "rationale": "Corrects the grammatical subject and gives the movement a natural English rendering without changing the action.",
+      "replacement": "After staring at Baeksang for a moment in response to his cold words, the captain and his subordinates dispersed throughout the manor.",
+      "severity": "minor",
+      "source": "Chapter 665, Baeksang’s guards outside his quarters"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yayul Mok collapsed as Wonhu caught him and entrusted him to Jin's care.",
+      "defect": "The repeated pronouns make it sound as though Yayul Mok may have performed the entrusting, obscuring Wonhu’s action at the cliffhanger.",
+      "id": "C05",
+      "rationale": "Makes the actor and object explicit so the durable state cannot propagate an ambiguous version of the handoff.",
+      "replacement": "Yayul Mok collapsed; Wonhu caught him and entrusted the Young Palace Lord to Jin's care.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    }
+  ],
+  "summary": "The packet is broadly coherent, but it contains one tribal-name drift, one misleading statement about Jin’s sealed internal energy, one inverted summary claim, and two smaller clarity issues.",
+  "version": 1
+}

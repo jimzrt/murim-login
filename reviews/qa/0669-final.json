@@ -1,0 +1,55 @@
+{
+  "chapter": 669,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.29,
+    "source_characters": 5431,
+    "source_paragraphs": 148,
+    "translation_characters": 12438,
+    "translation_paragraphs": 153
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "규화계",
+        "preferred": "Beggar's Chicken"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "성하",
+        "preferred": "Seongha"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "백족",
+        "preferred": "Bai people"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
