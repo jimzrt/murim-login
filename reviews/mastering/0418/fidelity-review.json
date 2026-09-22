@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.86,
+      "current": "Chairman Xiao Yang",
+      "defect": "The assembled copy re-romanizes an established name that the accepted baseline renders as Shao Yang.",
+      "id": "F01",
+      "rationale": "The Korean 샤오 양 does not require changing the established English romanization, and the binding rules prohibit re-romanizing established names without a source-required reason.",
+      "replacement": "Chairman Shao Yang",
+      "severity": "minor",
+      "source": "Line 59"
+    },
+    {
+      "confidence": 0.97,
+      "current": "His clear eyes, always impossible to read, now blazed with fury.",
+      "defect": "This replaces the source's concrete image of flames being emitted from his eyes with an emotional interpretation and adds fury as the visual effect.",
+      "id": "F02",
+      "rationale": "The Korean 눈동자는 불길을 토해 내고 있었다 explicitly presents the eyes as pouring out flames; the source image should not be reduced to merely looking furious.",
+      "replacement": "His clear eyes, always impossible to read, were spewing flames.",
+      "severity": "minor",
+      "source": "Line 211"
+    },
+    {
+      "confidence": 0.94,
+      "current": "My thigh suddenly felt cool. A heartbeat later, pain as hot as fire followed.",
+      "defect": "“A heartbeat later” adds a specific time interval that the Korean does not establish.",
+      "id": "F03",
+      "rationale": "이내 means that the pain followed shortly afterward, but does not specify a heartbeat or any other precise interval.",
+      "replacement": "My thigh suddenly felt cool, and pain as hot as fire followed soon after.",
+      "severity": "minor",
+      "source": "Line 325"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but three minor fidelity issues remain: one established-name regression, one lost physical image, and one unsupported timing detail.",
+  "version": 1
+}

@@ -24,7 +24,7 @@ There was nothing more to hear or see. Without hesitation, I grabbed Wu Heixing 
 
 *Crunch.*
 
-Flesh was crushed and bones splintered beneath a grip strong enough to tear steel like paper.
+Flesh crumpled and bone splintered beneath a grip strong enough to tear steel like paper.
 
 The last light faded from his wide, frozen eyes.
 
@@ -102,9 +102,9 @@ I let out a hollow laugh.
 
 “Indeed. Especially an old father who has lost his only son, born late in life.”
 
-“Are you planning to show them the unedited version?”
+“Planning to show him the unedited version?”
 
-“Perhaps because of the mana's influence, an error will probably cause the beginning of the video to be lost.”
+“Perhaps due to magical interference, a malfunction will cause the beginning of the recording to disappear.”
 
 “That’s one hell of a coincidence.”
 
@@ -112,7 +112,7 @@ I let out a hollow laugh.
 
 The Peace Guild.
 
-And Mom and Hayeon.
+Mom and Hayeon.
 
 Their names and faces flashed before my eyes the moment I heard Lee Jungryong’s words.
 
@@ -188,11 +188,11 @@ The instant light and flame collided, a thunderous roar erupted as though the sk
 
 The explosion was enormous.
 
-The high-rise building that had barely been holding together collapsed as if it had burst apart, while glass and concrete broke into countless tiny fragments that pierced through everything in every direction.
+A high-rise that had barely remained standing collapsed as though it had burst apart. Glass and concrete shattered into countless tiny fragments that shot in every direction.
 
 The impact of the clash could likely be felt from dozens of kilometers away.
 
-Amid the successive collapses and thunderous booms, I thrust out my foot.
+Amid the successive collapses and thunderous booms, I launched myself forward.
 
 *Fwish!*
 
@@ -224,11 +224,11 @@ But it wasn’t over.
 
 Lee Jungryong’s sword shot forward as a streak of pure white light.
 
-A net of Force flowed along the blade.
+A net of Force streamed from the blade.
 
 Faced with that spectacle of light filling my vision, I awakened all the internal energy sleeping within my dantian.
 
-Three jiazi of Scorching Yang Qi rose like a wildfire and seeped into my four limbs and hundreds of bones. Blue hellfire surged along the transparent spearhead, rippling smoothly like a dragon's tail.
+Three jiazi of Scorching Yang Qi rose like wildfire and surged through every limb and meridian. Blue hellfire blazed along the transparent spearhead, rippling smoothly like a dragon’s tail.
 
 *Fire Dragon’s Single Tail.*
 
@@ -244,7 +244,7 @@ Now it was time to tear the loosened net apart with sharpened claws.
 
 The Fire Dragon Divine Spear consisted of only two forms.
 
-And yet the former Sect Leader of the Fire Gate Clan who created it earned the epithet of the greatest spearman under heaven, leaving behind a brief final testament about his martial arts.
+Yet the ancient Sect Leader of the Fire Gate Clan who created it had earned the title of the greatest spearman under heaven. In the final moments of his life, he left behind a brief testament concerning his martial art.
 
 > “A martial art I devoted my entire life to, yet failed to complete. Even so, a spear art worthy of being called the greatest under heaven.”
 
@@ -286,21 +286,21 @@ But still…
 
 *Boom!*
 
-Movements without a single wasted inch, nearly perfect control of power, and even control over qi.
+Not a single wasted movement. Near-perfect control over his strength. Even his manipulation of qi was flawless.
 
 After parrying Lee Jungryong’s attack, I found myself admiring him. It had nothing to do with what kind of person he was. I was simply stunned by his skill.
 
 *So he was this strong.*
 
-After reaching the Supreme Peak realm, I had thought there would not be many people in the modern world capable of matching me.
+After reaching the Supreme Peak realm, I had thought there could not be many people in the modern world capable of matching me.
 
 After coming to Sichuan and meeting several S-rank Hunters, that belief had only grown stronger.
 
 No matter how much energy each of them possessed, martial arts did not exist here.
 
-The so-called Hunters could fight efficiently, but when it came to efficient qi manipulation, they were practically illiterate.
+Hunters might fight efficiently, but when it came to using qi efficiently, they were practically illiterate.
 
-Lee Jungryong? I knew he had learned a cultivation technique called a mana cultivation technique in the modern world, but I had assumed it wouldn't be much different.
+Lee Jungryong? I knew he had learned what the modern world called a mana cultivation method, but I had assumed he would not be much different.
 
 Now I realized the truth.
 
@@ -320,7 +320,7 @@ Blood sprayed out, and the qi carried through his Force disrupted the flow of my
 
 As I staggered, I looked at Lee Jungryong’s face while he continued raining sword strikes down upon me.
 
-His forehead glistened with sweat. At the same time, his eyes seemed certain of victory, and a smile hung at the corners of his mouth.
+His forehead glistened with sweat. His eyes held the certainty of victory, and a smile hung at the corners of his mouth.
 
 *Ah. I don’t like this.*
 
@@ -334,7 +334,7 @@ The first exchange.
 
 Blood flowed from the cuts inflicted earlier, and pain spread through me. Without a word, I thrust my spear forward again.
 
-Lee Jungryong, who had stepped back, charged into me with a calm smile.
+Lee Jungryong, who had retreated a step, met me with a calm smile.
 
 *Boom!*
 
