@@ -4,7 +4,7 @@ The Yangtze.
 
 As its name suggested, the Yangtze was immense. In terms of length especially, few rivers on the continent could compare.
 
-It crossed five provinces in all—Sichuan, Chongqing, Hubei, Anhui, and finally Jiangsu. As a vital hub of waterborne transportation, it would occupy a large portion of our journey.
+It crossed five regions in all—Sichuan, Chongqing, Hubei, Anhui, and finally Jiangsu. As a vital artery of waterborne transportation, it would account for a significant stretch of our journey.
 
 “Our current plan is to follow one of the Yangtze’s tributaries to Hubei, then disembark and continue overland to Henan.”
 
@@ -26,17 +26,17 @@ Judging by how fast it went up, its owner could have been a model student bursti
 
 Jeok Cheongang continued with a deeply sour expression.
 
-“It sounds like you’re telling us to grow old and die on this damn Yangtze. Am I mistaken?”
+“It sounds like you’re telling me to stay on this goddamn river until I die of old age. Am I mistaken?”
 
 That was the Fire King for you. He really knew how to bring the heat.
 
-Jin Wikyung swallowed hard at Jeok Cheongang’s way of speaking, which came crashing forward like an eight-ton truck with a broken steering wheel.
+Jin Wikyung swallowed hard as Jeok Cheongang came barreling straight at him like an eight-ton truck with a broken steering wheel.
 
 “How could that be, Great Hero Jeok? This is simply the itinerary decided upon at the meeting.”
 
 “A meeting? What kind of lunatics came up with this schedule? Even at the fastest pace, it’ll take seven days and nights just to reach Hubei!”
 
-“At the top, we have Great Hero Sword Saint Mae Jonghak, and beneath him, the Nine Sects and One Gang and the Five Great Families…”
+“At the top was Great Hero Sword Saint Mae Jonghak, and beneath him, representatives of the Nine Sects and One Gang and the Five Great Families…”
 
 “That’s enough. I don’t need to hear any more.”
 
@@ -70,21 +70,21 @@ Mungyeong’s fist trembled.
 
 As someone who knew his true identity, I found the sight chilling. To everyone else, however, it looked entirely different.
 
-Hyuk Mujin and Gung Gibang, who had been languishing from the aftereffects of sampling the Yangtze, spoke in faint, faltering voices.
+Hyuk Mujin and Gung Gibang, who were still languishing from the aftereffects of their dip in the Yangtze, spoke in faint, faltering voices.
 
 “Why are you picking on the boy? Just look at Mungyeong shaking. He’s such a gentle soul…”
 
-“I may eat stray yellow dogs, but Mungyeong couldn’t kill an ant.”
+“I may eat stray yellow mutts, but Mungyeong couldn’t kill an ant.”
 
 “…”
 
-He probably killed people during the time it took to kill an ant.
+He probably killed people instead of wasting time on ants.
 
 I had heard that more than a thousand people were *officially* known to have died at the hands of the Slaughter Saint.
 
 Even if he went around smearing Madecassol healing ointment on his sword, he still wasn’t the sort of person anyone could call gentle.
 
-“You lot… No. Forget it. Just keep living like that.”
+“You fools… No. Forget it. Just keep living like that.”
 
 Jeok Cheongang looked ready to say something, but let out a deep sigh instead. Then he abruptly turned toward me.
 
@@ -100,9 +100,9 @@ I scratched my chin and thought for a moment before answering.
 
 “I don’t mind it.”
 
-“What!”
+“What?”
 
-“Little Brother!”
+“My youngest!”
 
 Jeok Cheongang and Jin Wikyung’s reactions were polar opposites. But I hadn’t said it to help Jin Wikyung. I meant it.
 
@@ -120,7 +120,7 @@ The mysterious patterns and symbols discovered in both worlds.
 
 I had to find out whether my suspicions about them were correct. To do that, I had a lot to take care of while going back and forth between Murim and the modern world. If we traveled overland, the time available for that would be drastically reduced.
 
-I tried to gently coax Jeok Cheongang around.
+I tried to coax Jeok Cheongang around.
 
 “It’s only a difference of a few days. Old Master—no, Master, you need to think about your health too. It hasn’t been long since you pushed yourself so hard.”
 
@@ -136,7 +136,7 @@ The instant Jeok Cheongang’s eyes flared, I hurriedly spoke.
 
 The hand that had risen as though to smack me stopped in midair.
 
-I didn’t miss the opening and continued.
+I didn’t miss the opening.
 
 “I’ve gained some insight recently. If we travel overland, there won’t be enough time for you to teach me.”
 
@@ -176,7 +176,7 @@ Jeok Cheongang glanced sideways at Mungyeong before asking,
 
 “The Slaughter Saint. The one among the Three Saints whom no one can match when it comes to killing people. How do I compare to him?”
 
-I could feel the people around me waiting with interest for my answer.
+I could feel everyone watching with interest, waiting for my answer.
 
 And I could also feel someone discreetly leaking killing intent.
 
@@ -254,7 +254,7 @@ Jin Wikyung was about to answer the ship’s owner, Mu Song, when Jeok Cheongang
 
 “G-Great Hero Jeok, Hubei is much too far. Even with a favorable wind, it will take more than seven days and nights…”
 
-“You can’t leave the stronghold empty for that long?”
+“You can’t leave the stronghold for that long?”
 
 “Yes, yes! Exactly!”
 
@@ -262,7 +262,7 @@ Jin Wikyung was about to answer the ship’s owner, Mu Song, when Jeok Cheongang
 
 “Does that mean…?”
 
-“Go as far as Sichuan.”
+“Come with us only as far as Sichuan.”
 
 Mu Song’s face brightened.
 
@@ -312,11 +312,11 @@ Cheongpung swallowed what he had been chewing and smiled brightly.
 
 “Tasty, right?”
 
-“It truly is. It’s the best dumpling I’ve had lately. I’ll have to get some from you now and then.”
+“It truly is. It’s the most delicious dumpling I’ve eaten in quite some time. I’ll have to get some from you again.”
 
 “That was the last one.”
 
-“What? You gave me the last dumpling? Young Hero Cheongpung, you…”
+“What? You gave me your last dumpling? Young Hero Cheongpung, you…”
 
 “My grandpa told me that when you have something good, you should share it with other people.”
 
@@ -332,7 +332,7 @@ Mu Song’s gratitude did not last long.
 
 “…”
 
-“If we travel for one more day, we’ll reach a place called Guang’an. The dumplings sold in the market there are really good. When I traveled around the world for a year, I stayed there for a whole month because of those dumplings. Ah, no, that’s not what I meant. Grandpa said we absolutely had to stop there! He said whoever ate the last dumpling had to buy a whole bunch more!”
+“If we travel for one more day, we’ll reach a place called Guang’an. The dumplings they sell in the market there are really good. When I traveled across the realm for a year, I stayed there for half a month because of those dumplings. Ah, no, that’s not what I meant. Grandpa said we absolutely had to stop there! He said whoever ate the last dumpling had to buy a whole bunch more!”
 
 “…”
 
@@ -358,7 +358,7 @@ I was still horrified by the bottomless depths of his character when—
 
 Fucking pushover—no, Mungyeong was looking at me with concern.
 
-He had a large acupuncture needle hidden in one hand, pressed right against my waist.
+He had a large acupuncture needle hidden in one hand, pressed firmly against my waist.
 
 “Uh, no. No, I’m fine. I’m not feeling—”
 

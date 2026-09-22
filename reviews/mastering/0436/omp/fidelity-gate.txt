@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful, with one minor loss of urgency in the confidential-business exchange.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 221–223",
+      "current": "We have an important matter to attend to.",
+      "defect": "The translation weakens 긴한, which describes the matter as urgent or pressing, not merely important.",
+      "replacement": "We have an urgent matter to attend to.",
+      "rationale": "긴한 볼일 indicates pressing business and supplies the reason for enduring the difficult river journey; 'important' drops that urgency.",
+      "confidence": 0.97
+    }
+  ]
+}
