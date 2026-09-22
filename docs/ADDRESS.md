@@ -1153,3 +1153,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 중년 전사 | 젊은 후배 | senior_gate_captain_to_junior_warrior | you | casual and teasing | The gate captain scolds the junior for thinking about slacking off. |
 | 진태경 | 중년 전사 | invading_ally_to_Nanman_gate_captain | you | casual and cautionary | Jin warns the gate captain to stop what he is doing before the alarm is raised. |
 | 백호 | 진태경 | guardian_spirit_to_human_ally | you | terse and irritated | The White Tiger responds telepathically after Jin calls it Whitey and jokes about its former name. |
+| 진태경 | 수호령 | human ally to guardian spirit | guardian spirit | quiet and commanding | Jin whispers that they should go as they advance toward Baeksang. |
+| 진태경 | 무야호 | human ally to intelligent spiritual beast | Muyaho | quiet and familiar | Jin whispers that they should go as Muyaho advances with the guardian spirit. |
