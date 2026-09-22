@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 720
-- Next chapter: 721
-- Current block: 720–724 (1/5)
-- Latest translation: `translations/0720.md`
-- Latest summary: `summaries/beats/0720.md`
-- Safe profiles through: chapter 720
+- Last completed: 721
+- Next chapter: 722
+- Current block: 720–724 (2/5)
+- Latest translation: `translations/0721.md`
+- Latest summary: `summaries/beats/0721.md`
+- Safe profiles through: chapter 721
 
 ## Current Block
 
-- Jin Taekyung discovers that the Sacred Land's Pond of Life can heal wounds and purify the demonic qi within the Corrupted Divine Artifact. Immersing the artifact in the pond purifies it, completes the Quest, and creates a new sacred stone while releasing the pond's remaining life energy as rain across Nanman. The pond dries up, and Muyaho becomes the new guardian spirit alongside the sacred stone.
+- Nearly ten days after the disaster, reconstruction of the Nanman Beast Palace continues despite the devastation of the Inner Palace and extensive damage to the Outer Palace. A warm rain suddenly falls from a clear sky, healing wounds and fatigue while causing flowers and sprouts to bloom.
+- Jin Taekyung exploits the miracle by proclaiming the Earth Mother Goddess the One God and declaring the rain a divine blessing. He brands the existing local deities as miscellaneous gods, incites a mass religious conversion, and publicly appoints the bewildered Beast Miao King as the goddess's chosen priest, producing a fervent but nominal unification of Nanman.
 
 ## Open Questions
 
@@ -18,9 +19,10 @@
 
 ## Exceptional Decision
 
-- Render 생명의 연못 as Pond of Life.
-- Render 타락한 신석 as Corrupted Sacred Stone, distinct from 타락한 신물, Corrupted Divine Artifact.
-- Treat Muyaho as the new guardian spirit of the Sacred Land.
+- Render 대지모신 as Earth Mother Goddess.
+- Render 목신 as Wood God and 화신 as Fire God.
+- Render 제사장 as priest when used for the Beast Miao King.
+- Render 알쓸잡신 as useless gods.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

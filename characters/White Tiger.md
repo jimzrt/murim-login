@@ -1,6 +1,6 @@
 # White Tiger (백호)
 
-- **Safe through:** Chapter 720
+- **Safe through:** Chapter 721
 - **Aliases:** Whitey
 - **Role:** The White Tiger was the guardian spirit and protector of the land; after absorbing the sacred stone, it entered the rift to seal it, became corrupted, and was killed.
 - **Personality:** Irritable and contemptuous of Jin Taekyung's jokes.
