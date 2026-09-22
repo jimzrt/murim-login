@@ -1968,3 +1968,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마방 | **horse caravans** | Descendants of northern mounted tribes who traveled ancient trade routes between the Outer Lands and the Central Plains. |
 | 금분세수 | **golden-basin handwashing** | Ceremonial retirement from martial pursuits. |
 | 불밥 할아버지 | **Fire-Rice Grandpa** | Jin Taekyung's humorous nickname for Jeok Cheongang. |
+| 장필 | **Jang Pil** | Water Dragon Stronghold subordinate who reveals Mu Song's warning. |
+| 포청천 | **Judge Bao** | Legendary magistrate invoked as a comparison for the Deputy Stronghold Lord. |
