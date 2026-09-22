@@ -2160,3 +2160,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천지심법 | **Heaven and Earth Cultivation Technique** | New name for the publicly released Mana Cultivation Method. |
 | 김경식 | **Kim Gyeongsik** | Name mentioned in a forum joke about who edited the cultivation method. |
 | 오이마켓 | **Oi Market** | Secondhand marketplace referenced in a joke about the presidential chair. |
+| 후긴 | **Huginn** | One of the two ravens associated with Odin in Norse mythology. |
+| 무닌 | **Muninn** | One of the two ravens associated with Odin in Norse mythology. |
+| 오딘 | **Odin** | The name of the world's greatest Guild, invoking the Norse god. |
+| 김 과장 | **Manager Kim** | Manager responsible for the evidence storage room; no personal name is given. |

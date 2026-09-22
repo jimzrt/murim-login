@@ -1187,3 +1187,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 대통령님 | guild_master_to_president | Mr. President | formal-polite | Choi addresses President Baek Hanseong during the initial phone call. |
 | 국장 | 박 기자 | newsroom chief to reporter | Reporter Park | informal and commanding | The chief orders Reporter Park to contact the Peace Guild. |
 | 박 기자 | 국장 | reporter to newsroom chief | Chief | deferential but exasperated | Reporter Park reports that contacting Jin Taekyung could get him beaten to death. |
+| 비서 실장 | 최민우 | chief secretary to employer and Vice Guild Master | Vice Guild Master | formal-polite | Reports the important guest's arrival and formally requests permission to interrupt the meeting. |
+| 임원 | 최민우 | Guild executive to superior Vice Guild Master | Vice Guild Master | formal-polite | Calls out to Choi Minwoo while objecting to the abrupt end of the meeting. |
+| 막내 직원 | 김 과장 | junior evidence-storage employee to manager | Manager | formal-polite | Reports the missing Go Jun-related evidence using 과장님. |
+| 보안팀장 | 김 과장 | Security Team Leader to evidence-storage manager | Manager Kim | formal-polite and urgent | Confronts Manager Kim after learning that the necklace is missing. |
+| 김 과장 | 막내 직원 | manager to junior employee | you | harsh and condescending | Orders the junior employee to recheck the inventory and later tries to conceal the disappearance. |
