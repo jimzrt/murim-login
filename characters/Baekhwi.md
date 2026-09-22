@@ -1,6 +1,6 @@
 # Baekhwi (백휘)
 
-- **Safe through:** Chapter 673
+- **Safe through:** Chapter 713
 - **Aliases:** None
 - **Role:** Baekhwi was Baeksang's only child, would have become the Beast Miao King's son-in-law, and was killed without leaving a corpse during the Great Snow Mountain battle.
 - **Personality:** Not established.
