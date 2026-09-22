@@ -1979,3 +1979,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 챠오 | **Chao** | Namho’s local name or identity, addressed as Elder Chao by the Nanman crowd. |
 | 혈생균 | **blood-feeding fungus** | A red fungus that is lethal to ordinary animals and cannot be treated with antidotes. |
 | 애뇌산 | **Ailao Mountain** | Mountain crossed by the party on the route to the Nanman Beast Palace. |
+| 워낭소리 | **The Sound of the Bell** | Korean documentary film referenced in Taekyung's joke about livestock. |
+| 마장동 | **Majang-dong** | Seoul district associated with livestock and meat markets. |

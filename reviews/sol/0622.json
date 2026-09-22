@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Even counting only the time I had spent in the Murim, more than a year had already passed.",
+      "defect": "The translation omits 훌쩍, which emphasizes that the elapsed time was well over a year.",
+      "id": "F01",
+      "rationale": "The source gives a stronger quantity than merely more than one year.",
+      "replacement": "Even counting only the time I had spent in the Murim, well over a year had already passed.",
+      "severity": "minor",
+      "source": "순수하게 무림에서 보낸 시간만 따져도 어언 1년이 훌쩍 넘었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Along the way, I had visited countless different kinds of people and the sects they belonged to.",
+      "defect": "The wording incorrectly treats people as places that can be visited.",
+      "id": "F02",
+      "rationale": "This naturally distinguishes encountering the people from visiting their sects without changing the source's meaning.",
+      "replacement": "Along the way, I had met all kinds of people and visited the sects they belonged to.",
+      "severity": "minor",
+      "source": "그 과정에서 숱한 인간 군상과 그들이 속한 문파를 방문하기도 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "After issuing Sama Pyo a stern warning with a face that had suddenly aged by another decade, Namho pointed toward the vast land and continued.",
+      "defect": "“By another decade” introduces a specific quantity absent from the source.",
+      "id": "F03",
+      "rationale": "부쩍 늙은 describes a suddenly or noticeably aged appearance without quantifying it.",
+      "replacement": "After issuing Sama Pyo a stern warning with a face that had suddenly aged, Namho pointed toward the vast land and continued.",
+      "severity": "minor",
+      "source": "부쩍 늙은 얼굴로 사마표에게 엄중한 경고를 날린 남호가, 광활한 대지를 가리키며 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Please don’t forget that. Or the state of my temper, which is about to burst.",
+      "defect": "복장 refers to Namho's chest or insides, not his temper; changing it loses the continuation of his previous joke that hearing more would make his chest burst.",
+      "id": "F04",
+      "rationale": "The source deliberately carries forward the physical chest-bursting expression for comic effect.",
+      "replacement": "Please don’t forget that—or that my insides are about to burst.",
+      "severity": "major",
+      "source": "부디 잊지 말라고. 터지기 직전의 내 복장도."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“They Returned to Youth.”",
+      "defect": "The translation adds an explicit plural subject that the source omits and awkwardly turns the established term into a finite clause.",
+      "id": "F05",
+      "rationale": "The source answers with only the name of the rejuvenation phenomenon, preserving the person's unspecified identity.",
+      "replacement": "“Returned to Youth.”",
+      "severity": "minor",
+      "source": "“반로환동이요.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the consecutive forced marches and meager rations",
+      "defect": "“Meager” characterizes the rations as intrinsically scant, while 적량 배식 specifically indicates controlled or measured rationing.",
+      "id": "F06",
+      "rationale": "The replacement preserves the source's stated rationing mechanism rather than substituting a general judgment about quantity.",
+      "replacement": "the consecutive forced marches and strictly rationed meals",
+      "severity": "minor",
+      "source": "연이은 강행군과 적량 배식으로"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And this giant, fat parasite ignored every word of an elder and caused a disaster!",
+      "defect": "식충이 is an insult for a glutton or useless eater, not a literal parasite, and the source neither calls Taishan fat nor escalates 사고 to a disaster.",
+      "id": "F07",
+      "rationale": "This preserves Namho's food-centered insult, profanity, rhetorical question, and the scale of the incident.",
+      "replacement": "And this hulking glutton of a bastard ignored every word an elder said and went and caused trouble?",
+      "severity": "major",
+      "source": "이 덩치 큰 식충이 새끼가 어른 말을 귓등으로도 안 듣고 사고를 쳐?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I only had to look at Namho, who had never learned martial arts yet was radiating enough momentum to make even Jeok Cheongang give him an inch, to know it.",
+      "defect": "“Give him an inch” invokes the English warning about someone taking a mile and does not naturally convey 한 수 접어들, meaning to concede or yield superiority in this respect.",
+      "id": "F08",
+      "rationale": "The source humorously claims that Namho's ferocity would make even Jeok Cheongang concede a step.",
+      "replacement": "I only had to look at Namho, who had never learned martial arts yet was giving off an aura fierce enough to make even Jeok Cheongang yield to him for once, to know it.",
+      "severity": "minor",
+      "source": "무공도 안 익혔으면서 적천강도 한 수 접어들 정도의 기세를 뿜어내는 남호만 봐도 알 수 있었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The problem was that the flames launched from the firework landed not in the air, but on the pasture.",
+      "defect": "Something cannot naturally “land in the air”; the sentence obscures that the firework's fiery burst came down on the pasture instead of going off safely overhead.",
+      "id": "F09",
+      "rationale": "This preserves the malfunction and its immediate mechanical consequence in natural English.",
+      "replacement": "The problem was that the firework’s burst came down on the pasture instead of exploding in the air.",
+      "severity": "minor",
+      "source": "문제는, 폭죽에서 솟구친 불꽃이 허공이 아니라 목초지에 떨어졌다는 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The hell it wasn’t.",
+      "defect": "The response reverses the negation: in context it implies that this was how the firework was supposed to work, whereas the narrator is contemptuously dismissing Namho's protest before concluding that they are fucked.",
+      "id": "F10",
+      "rationale": "개뿔 rejects the preceding euphemistic protest rather than contradicting its factual negation; the next sentence supplies the narrator's blunt real assessment.",
+      "replacement": "Not how it was supposed to go, my ass.",
+      "severity": "critical",
+      "source": "아니긴 개뿔. 좆 됐구만."
+    }
+  ],
+  "summary": "One critical negation reversal and several localized fidelity, register, and wording issues.",
+  "version": 1
+}
