@@ -1114,3 +1114,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 수하 | 수달 | subordinate_to_deputy_stronghold_lord | Deputy Stronghold Lord | deferential but alarmed | Sudal's subordinates challenge his plan to raid Guizhou. |
 | 수달 | 수하 | deputy_stronghold_lord_to_subordinates | boys | casual and commanding | Sudal orders his subordinates to raid Guizhou. |
 | 혈승 | 수달 | unknown_hostile_encounter | you | casual and probing | The Blood Monk questions Sudal after taking control of the crewless swift ship. |
+| 야율목 | 기산 | Young_Palace_Lord_to_personal_guard | Gisan | formal-commanding | Orders Gisan to remain at the captured wardens' post. |
+| 야율목 | 도곡 | Young_Palace_Lord_to_personal_guard | Dogok | formal-commanding | Orders Dogok to remain at the captured wardens' post. |
+| 야율목 | 원후 | Young_Palace_Lord_to_elder_personal_guard | Wonhu | formal-commanding | Calls on Wonhu to open a path through the surrounding guards. |
