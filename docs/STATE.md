@@ -1,29 +1,29 @@
 # Translation State
 
-- Last completed: 695
-- Next chapter: 696
-- Current block: 695–699 (1/5)
-- Latest translation: `translations/0695.md`
-- Latest summary: `summaries/beats/0695.md`
-- Safe profiles through: chapter 695
+- Last completed: 696
+- Next chapter: 697
+- Current block: 695–699 (2/5)
+- Latest translation: `translations/0696.md`
+- Latest summary: `summaries/beats/0696.md`
+- Safe profiles through: chapter 696
 
 ## Current Block
 
-- The Nanman Beast Palace braces for civil war before any campaign against the Central Plains. Nearly ten thousand warriors have gathered in the Inner Palace, while five tribal chieftains and their people have left the Outer Palace in support of the former Palace Lord, Yayul Cheok.
-- Jin Taekyung and Yohi arrive at the North Gate riding with the guardian spirit of the sacred stone and an immense beast army. Jin confirms that Dark Heaven's scheme has not yet begun, then splits the iron gate with Force. The guardian spirit releases the sacred stone's pillar of light, and the beasts charge into the Nanman Beast Palace, beginning the Great War that will decide Nanman's fate.
+- Jin Taekyung, Yohi, the guardian spirit, Muyaho, and a vast beast army enter the Outer Palace and destroy five watchtowers before confronting Baeksang at the Inner Palace gate. Nearly a thousand archers aim at them, but their resolve falters when they recognize Yohi alive and unrestrained. Baeksang publicly acknowledges Yohi and admits that he betrayed everyone and became an unforgivable turncoat to pursue a purpose maintained for decades. As Jin realizes that Baeksang's despair may signal a larger danger and orders everyone to retreat, thunder erupts, dark clouds cover the sky, and an unknown voice declares that it is already too late.
 
 ## Open Questions
 
-- What will happen inside the Nanman Beast Palace as Jin's group and the beast army advance?
-- What effect will the sacred stone's pillar of light have on Nanman and the battlefield?
-- Will Dark Heaven's Rift or another part of its scheme be triggered after Jin's arrival?
-- Who or what awaits beyond the iron gate, possibly including the Lord of Heaven?
+- What purpose did Baeksang pursue for decades?
+- What has caused the thunder and dark clouds to cover the battlefield?
+- Who spoke after the sky darkened, and why is it already too late?
+- Will Baeksang's confession stop the Nanman warriors from fighting for him?
 
 ## Exceptional Decision
 
 - Use Whitey for Jin's nickname 흰둥아.
 - Use civil war for 내전 and fighting spirit for 전의.
 - Use the quoted paraphrase “Do everything in your power, then leave the result to Heaven and wait” for 진인사대천명.
+- Retain guardian spirit for 수호령 and Great Chieftain for 대족장.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

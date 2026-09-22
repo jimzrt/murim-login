@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They could only stand there with their mouths hanging open, staring at the army of beasts racing across more than a dozen broad roads running through the Outer Palace.",
+      "defect": "십여 개 means roughly ten or a dozen or so, not more than twelve; the draft alters the quantity.",
+      "id": "F01",
+      "rationale": "The replacement preserves the source’s approximate count without imposing a higher minimum.",
+      "replacement": "They could only stand there with their mouths hanging open, staring at the army of beasts racing across the dozen or so broad roads running through the Outer Palace.",
+      "severity": "minor",
+      "source": "그들은 그저 멍하니 입을 벌린 채 외궁에 나 있는 십여 개의 대로(大路)를 가로지르는 맹수의 대군을 바라볼 수밖에 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jin Taekyung was the calamity that had thrown all of Nanman into an uproar. Since he had appeared with an enormous number of beasts, they had thought there could be nothing left to surprise them.",
+      "defect": "흉수 identifies Jin as the villain or monster blamed for Nanman’s turmoil, not the calamity itself. This also establishes the term that Jin later turns back on Baeksang.",
+      "id": "F02",
+      "rationale": "Calling Jin the blamed monster preserves both the warriors’ judgment and the setup for the repeated 흉수 exchange.",
+      "replacement": "Jin Taekyung was the monster blamed for throwing all of Nanman into an uproar. Since he had appeared with an enormous number of beasts, they had thought there could be nothing left to surprise them.",
+      "severity": "major",
+      "source": "남만 땅 전체를 발칵 뒤집어 놓은 흉수. 진태경이 엄청난 숫자의 맹수들과 나타난 이상, 더 놀랄 일도 없을 거라고 생각했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“G-Great Chieftain. Why are you together with such a beast of prey…?”\n\n“A beast of prey?”\n\nYohi muttered quietly and turned her head to look at Jin Taekyung, but Jin Taekyung was not looking at her.\n\nHe was staring at the end of the broad road, where an ominous feeling lingered—the enormous iron gate dividing the Outer Palace from the Inner Palace.\n\nThen he suddenly opened his mouth.\n\n“There comes the beast of prey.”",
+      "defect": "흉수 means a vicious villain or monster here, not a predatory animal. “Beast of prey” is unnatural and obscures Jin’s deliberate reversal of the accusation onto the approaching Baeksang.",
+      "id": "F03",
+      "rationale": "The repeated “monster” preserves the accusation, Yohi’s echo, and Jin’s pointed identification of Baeksang as the true 흉수.",
+      "replacement": "“G-Great Chieftain. Why are you with a monster like him…?”\n\n“A monster…”\n\nYohi muttered quietly and turned her head to look at Jin Taekyung, but Jin Taekyung was not looking at her.\n\nHe was staring at the end of the broad road, where an ominous feeling lingered—the enormous iron gate dividing the Outer Palace from the Inner Palace.\n\nThen he suddenly spoke.\n\n“There he comes—the monster.”",
+      "severity": "major",
+      "source": "“대, 대족장님. 어찌하여 이런 흉수와 함께…….”\n\n“흉수라.”\n\n작게 중얼거린 요희가 고개를 돌려 진태경을 응시했지만, 진태경의 시선은 그녀를 향하고 있지 않았다.\n\n어느덧 불길함이 감도는 대로의 끝, 외궁과 내궁을 가로막은 거대한 철문을 응시하고 있던 그가 문득 입을 열었다.\n\n“저기 오네, 흉수.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "One of the greatest causes of Nanman’s current chaos was not his martial arts, but the schemes of a man more frightening than any martial art.",
+      "defect": "The draft makes Baeksang himself more frightening than any martial art. The source specifically says his schemes were more frightening than his martial arts.",
+      "id": "F04",
+      "rationale": "This restores the correct subject of the comparison and Taekyung’s assessment of Baeksang’s strategic cunning.",
+      "replacement": "One of the greatest causes of Nanman’s current chaos was his scheming, which was even more frightening than his martial arts.",
+      "severity": "major",
+      "source": "남만이 지금과 같은 혼란에 빠진 가장 큰 원인 중 하나는 무공보다 더욱 무서운 놈의 심계(心計)였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I lived each day as though it were ten years. To accomplish a single purpose, I became an apostate beyond forgiveness, and at last I came here.”",
+      "defect": "변절자 is a turncoat or traitor, not a religious apostate, and 이곳까지 왔다 means that he came or made it this far rather than merely arriving at this location.",
+      "id": "F05",
+      "rationale": "The replacement preserves Baeksang’s political betrayal and the sense of a decades-long progression toward his objective.",
+      "replacement": "“I lived each day as though it were ten years. To accomplish a single purpose, I became an unforgivable turncoat, and at last I made it this far.”",
+      "severity": "major",
+      "source": "“하루를 십 년처럼 살았다. 오직 한 가지 목적을 이루기 위해서 용서받지 못할 변절자가 되었고, 마침내 이곳까지 왔다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What should we do? It’s already too late.”",
+      "defect": "The draft turns a cold, taunting remark into a cooperative plural question. 어쩌나 here expresses mocking regret rather than asking the group what action to take.",
+      "id": "F06",
+      "rationale": "This preserves the unidentified speaker’s ominous, dismissive register and avoids adding a collective subject absent from the source.",
+      "replacement": "“What a shame. It’s already too late.”",
+      "severity": "major",
+      "source": "“어쩌나. 이미 늦어 버렸는데.”"
+    }
+  ],
+  "summary": "Several meaningful fidelity and register issues remain, chiefly around the repeated 흉수 wordplay, Baeksang’s scheming, and his final taunt.",
+  "version": 1
+}
