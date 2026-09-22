@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "This is no time to act like a child.",
+      "defect": "The draft reframes Taekyung’s self-mockery as a judgment about timing. He is deriding himself for behaving like a child, not saying that the present moment is unsuitable for childish behavior.",
+      "id": "F01",
+      "rationale": "어린애도 아니고 is a self-directed rhetorical rebuke meaning that he is not a child.",
+      "replacement": "What am I, a child?",
+      "severity": "minor",
+      "source": "‘이건 뭐, 어린애도 아니고.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "When had I ever lived while looking down at the road ahead?",
+      "defect": "The literal spatial wording is unnatural and obscures the intended meaning of anticipating or planning for the future.",
+      "id": "F02",
+      "rationale": "앞날을 내다보다 means to look ahead to or anticipate the future, not physically look down at a road.",
+      "replacement": "When had I ever lived with an eye toward the future?",
+      "severity": "minor",
+      "source": "내가 언제부터 앞날을 내려다보며 살았었나."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Striking out with the bases loaded in a comeback opportunity did not make the earth collapse.",
+      "defect": "The draft omits 삼 구, the specific detail that the batter strikes out on three pitches.",
+      "id": "F03",
+      "rationale": "삼 구 삼진 explicitly describes a three-pitch strikeout, and the quantity is part of the exaggerated sports comparison.",
+      "replacement": "Striking out on three pitches with the bases loaded and a chance to come from behind did not make the earth collapse.",
+      "severity": "minor",
+      "source": "역전 만루 찬스에서 삼 구 삼진을 당한다고 해서 땅이 꺼지지는 않는다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was also the last will of an A-rank Hunter who had been hugely popular a few years ago before dying in a Gate.",
+      "defect": "“Last will” denotes a testament or instructions concerning one’s estate, whereas the source identifies the quoted remark as the Hunter’s final words.",
+      "id": "F04",
+      "rationale": "마지막 유언 here refers to what the Hunter said immediately before death, while 한창 인기를 끌다가 places his death at the height of his popularity.",
+      "replacement": "Those were also the last words of an A-rank Hunter who died in a Gate at the height of his popularity a few years ago.",
+      "severity": "minor",
+      "source": "몇 년 전 한창 인기를 끌다가 게이트에서 죽은 어느 A급 헌터의 마지막 유언이기도 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "so I calmly welcomed the unwelcome guest.",
+      "defect": "The draft omits 애써, making Taekyung sound genuinely calm instead of showing that he has to make an effort to maintain his composure.",
+      "id": "F05",
+      "rationale": "애써 marks deliberate effort and preserves the contrast between his outward reception and inner agitation.",
+      "replacement": "so I did my best to remain calm as I welcomed the unwelcome guest.",
+      "severity": "minor",
+      "source": "다행히 그보다 한발 앞서 모든 대비를 끝마친 나는 애써 침착하게 불청객을 맞이했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But unfortunately…",
+      "defect": "The impersonal “unfortunately” removes Team Leader Choi’s explicit apology, weakening his restrained, deferential register before he admits that he independently verified Taekyung’s claim.",
+      "id": "F06",
+      "rationale": "죄송스럽게도 directly expresses personal apology rather than merely describing the situation as unfortunate.",
+      "replacement": "But I’m sorry to say…",
+      "severity": "major",
+      "source": "다만 죄송스럽게도……."
+    }
+  ],
+  "summary": "Six actionable findings: two altered introspective beats, one omitted quantity, one mistranslated deathbed term, and two lost pragmatic or register cues.",
+  "version": 1
+}

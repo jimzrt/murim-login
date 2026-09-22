@@ -1180,3 +1180,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 부족장 | 야수묘왕 | subordinate tribal chieftain to Nanman Beast Palace Lord | Palace Lord | urgent, deferential, and confrontational | The attending tribal chieftains repeatedly address the Beast Miao King as 궁주 while challenging or supporting the Earth Mother Goddess doctrine. |
 | 야수묘왕 | 야율목 | father_to_son | you | plain, familiar, and paternal | Questions Yayul Mok about the decision to go to the Central Plains. |
 | 적천강 | 법왕 | close deceased friend and peer | you | familiar and reflective | Jeok addresses the Dharma King in private thought while wishing he were present to clarify Jeok's confusion. |
+| 진태경 | 최 팀장 | Peace Guild colleagues | Team Leader Choi | casual and teasing | Taekyung addresses Choi while needling him over the interrupted routine and civet-cat coffee. |
+| 최 팀장 | 진태경 | Guild Master to trusted subordinate | Mr. Jin Taekyung | formal-polite | Choi addresses Taekyung formally while asking about the source and authorship of the mana cultivation method. |
