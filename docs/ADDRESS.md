@@ -1049,3 +1049,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 부채주 | 진태경 | Water Dragon Stronghold deputy to honored ally | Great Hero Jin | deferential | The Deputy Stronghold Lord reports Mu Song's orders and addresses Taekyung upon arrival. |
 | 진태경 | 부채주 | Fire Dragon Pavilion Master to Water Dragon Stronghold deputy | Deputy Stronghold Lord | casual and commanding | Taekyung orders him to set off and later summons him with Jang Pil. |
 | 부채주 | 장필 | senior subordinate to subordinate | Jang Pil | scolding | He rebukes Jang Pil for revealing Mu Song's warning. |
+| 남호 | 진태경 | Hidden_Shadow_Pavilion_agent_to_mission_leader | Jin Taekyung / you | guarded and familiar | Namho addresses Taekyung as 자네 while explaining the contact and offering guidance. |
+| 진태경 | 남호 | mission_leader_to_hidden_shadow_agent | you / Namho | probing and respectful | Taekyung questions Namho’s affiliation and later discusses Dark Heaven’s threat to Nanman. |
+| 남호 | 혁무진 | hidden_shadow_agent_to_pavilion_member | you there / Han bastard | performatively hostile and abusive | Namho attacks Mujin and insults him to make the meeting appear to be a genuine expulsion. |
+| 혁무진 | 남호 | pavilion_member_to_hidden_shadow_agent | old man | indignant and insulting | Mujin protests Namho’s staged attack and objects to the insult about his parents. |
+| 주화란 | 남호 | pavilion_member_to_hidden_shadow_agent | you / Elder Namho | formal and appreciative | Hwaran respectfully praises the effort Namho invested in mapping Nanman. |

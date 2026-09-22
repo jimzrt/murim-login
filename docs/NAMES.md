@@ -1975,3 +1975,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 독화루 | **Poison Flower Pavilion** | Derelict wooden building serving as the Hidden Shadow Pavilion contact location. |
 | 천마표국 | **Heavenly Demon Escort Bureau** | A Sichuan group whose arrival preceded the Yeongin massacre; all members were later found dead from venom. |
 | 만족 | **Man people** | An ethnic group mentioned by the Poison Flower Pavilion owner. |
+| 남호 | **Namho** | Hidden Shadow Pavilion code name; literally associated with amber from the south. |
+| 챠오 | **Chao** | Namho’s local name or identity, addressed as Elder Chao by the Nanman crowd. |
