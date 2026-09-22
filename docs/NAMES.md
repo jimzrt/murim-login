@@ -2006,3 +2006,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 칠묘호 | **Seven Miao Tigers** | The Beast Miao King's personal guard, composed of elite Miao warriors. |
 | 흑호 | **Black Tiger** | A colossal black tiger that appears at the Ailao Mountain massacre site. |
 | 애뇌산의 망령 | **Ailao Mountain's Wraith** | System designation for the entity that appears after the Black Tiger emerges. |
+| 독혈지 | **Poisonblood Grounds** | Hidden poisonous region created by the Five Poisons Sect inside Ailao Mountain. |
+| 야수백왕 | **Beast Bai King** | A hypothetical title for Baeksang's grandfather, described as a possible ruler in another era. |
+| 어케 찾았누 | **How'd You Find This?** | Extremely rare Achievement awarded for discovering the Poisonblood Grounds. |
+| 님아, 그 늪을 건너지 마오 | **My Good Sir, Do Not Cross That Swamp** | Chain Quest generated after Jin enters the Poisonblood Grounds. |
+| 상급 해독제 | **High-Grade Antidote** | Quest completion reward; twenty were awarded. |
+| 상급 피독주 | **High-Grade Poison-Warding Pearl** | Achievement reward used by Jin to help the poisoned Beast Miao King. |
+| 천독불침 | **Myriad-Poison Immunity** | Jin's trait that reduces the Poison Mist penalty. |
+| 독무 | **Poison Mist** | Deep green mist covering the Poisonblood Grounds swamp. |
+| 미약한 중독 | **Mildly Poisoned** | Status abnormality caused by the Poison Mist. |

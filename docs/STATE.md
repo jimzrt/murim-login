@@ -1,29 +1,29 @@
 # Translation State
 
-- Last completed: 635
-- Next chapter: 636
-- Current block: 635–639 (1/5)
-- Latest translation: `translations/0635.md`
-- Latest summary: `summaries/beats/0635.md`
-- Safe profiles through: chapter 635
+- Last completed: 636
+- Next chapter: 637
+- Current block: 635–639 (2/5)
+- Latest translation: `translations/0636.md`
+- Latest summary: `summaries/beats/0636.md`
+- Safe profiles through: chapter 636
 
 ## Current Block
 
-- The System identifies the colossal Black Tiger as Ailao Mountain's Wraith. It emits Fear comparable to the Water God Dragon, evades the Beast Miao King's Supreme Peak attack, survives Jin Taekyung's spear strike after biting through the Force-wreathed spearhead, and escapes their Qi Sense. The Wraith then outruns Jin, the Beast Miao King, and White Tiger, while the chase reveals poisoned ravines and the corpses of Nanman warriors. It disappears into a deep valley near the heart of Ailao Mountain, prompting the enraged Beast Miao King to charge inside despite Jin's warning; Jin follows after White Tiger signals that the valley is dangerous.
+- Jin Taekyung and the Beast Miao King pursued the Black Tiger into the hidden Poisonblood Grounds, a deadly region created by the Five Poisons Sect inside Ailao Mountain. After learning that every elite Nanman expedition sent there had perished, they entered the poisonous swamp together. The Poison Mist afflicted them with Mildly Poisoned, but Jin removed his status abnormality with the Myriad-Poison Ring and gave the Beast Miao King a High-Grade Poison-Warding Pearl. The System completed Jin's investigation and omen Quests, awarded him items and an Achievement, and generated the chain Quest My Good Sir, Do Not Cross That Swamp, which he accepted.
 
 ## Open Questions
 
-- What is the true nature of Ailao Mountain's Wraith?
-- Did the Southern Heaven Demon Empress or Dark Heaven cause or control the Wraith?
-- Where are the remaining Nanman warriors and the beasts they commanded?
-- What awaits Jin Taekyung and the Beast Miao King inside the deep valley?
+- What lies deeper inside the Poisonblood Grounds?
+- Can Jin and the Beast Miao King cross the poisonous swamp and survive the inner region?
+- What caused the earlier Nanman expeditions, including Baeksang's grandfather, to be completely wiped out?
+- Is Dark Heaven or the Southern Heaven Demon Empress connected to what awaits inside the Poisonblood Grounds?
 
 ## Exceptional Decision
 
-- Use Black Tiger for 흑호.
-- Use Ailao Mountain's Wraith for 애뇌산의 망령.
-- Use Transcendent for 초일류.
-- Retain mountain lord for 산군 with an explanatory footnote on first use.
+- Use Poisonblood Grounds for 독혈지.
+- Use Beast Bai King for 야수백왕.
+- Use Myriad-Poison Immunity for 천독불침.
+- Retain the colloquial wording of My Good Sir, Do Not Cross That Swamp for the chain Quest title.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

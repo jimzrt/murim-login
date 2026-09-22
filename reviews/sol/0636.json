@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At my utterly disbelieving stare, the Beast Miao King clicked his tongue.",
+      "defect": "입맛을 다셨다 means he smacked his lips, not that he clicked his tongue; the draft changes the physical action.",
+      "id": "F01",
+      "rationale": "The replacement preserves the explicitly described action without changing his reaction.",
+      "replacement": "At my utterly disbelieving stare, the Beast Miao King smacked his lips.",
+      "severity": "critical",
+      "source": "내 어이없는 눈빛에 야수묘왕이 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Whether it was really a Thousand-Year Poison Horned Snake or not, one thing was certain: this valley was not as safe as I had hoped.",
+      "defect": "The draft changes 짐작대로, “as I had guessed,” into an unexpressed hope and weakens “not a safe place” into a comparative judgment.",
+      "id": "F02",
+      "rationale": "The source confirms Taekyung’s prior suspicion rather than revealing that the valley failed to meet his hopes.",
+      "replacement": "Whether it really was a Thousand-Year Poison Horned Snake or not, one thing seemed certain: just as I had guessed, this valley was not a safe place.",
+      "severity": "major",
+      "source": "저게 정말 천년독각사든 뭐든, 짐작대로 이 골짜기가 그리 안전한 곳이 아니라는 것만은 확실해 보였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "That place was called the Poisonblood Grounds.[^1]",
+      "defect": "The draft omits the causal explanation that the Poisonblood Grounds was created in that manner or for that purpose.",
+      "id": "F03",
+      "rationale": "그렇게 만들어진 explicitly connects the Five Poisons Sect’s need for efficient weapons against overwhelming numbers to the creation of this place.",
+      "replacement": "The place they created for that purpose was called the Poisonblood Grounds.[^1]",
+      "severity": "major",
+      "source": "그렇게 만들어진 곳이 독혈지(毒血地)라고 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "According to the records, more than a hundred years ago, the best elites from each Nanman tribe were selected to enter the Poisonblood Grounds.",
+      "defect": "백여 년 means approximately a hundred years, not more than a hundred, and the restrictive 만—only the very finest elites—is omitted.",
+      "id": "F04",
+      "rationale": "The replacement restores both the approximate quantity and the exclusivity of the selection.",
+      "replacement": "According to the records, around a hundred years ago, only the finest elites from each Nanman tribe were selected to enter the Poisonblood Grounds.",
+      "severity": "major",
+      "source": "기록에 따르면 백여 년 전, 남만의 각 부족에서 최고의 정예만을 선발해 독혈지에 진입했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Old Man Jeok raised his Disciple well.”",
+      "defect": "적 노께서 is respectful toward Jeok Cheongang, whereas “Old Man Jeok” sounds casually familiar or disparaging and loses the Beast Miao King’s hierarchy and regard.",
+      "id": "F05",
+      "rationale": "“Elder Jeok” naturally preserves the respectful reference marked by 노 and the honorific subject particle 께서.",
+      "replacement": "“Elder Jeok raised his Disciple well.”",
+      "severity": "major",
+      "source": "“적 노께서 제자를 잘 키웠구나.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "As I looked at him with renewed respect, the Beast Miao King suddenly spoke.",
+      "defect": "The source says Taekyung looks at him anew; it does not explicitly identify the emotion as respect.",
+      "id": "F06",
+      "rationale": "This preserves the changed perspective while avoiding an added emotional interpretation.",
+      "replacement": "As I looked at him in a new light, the Beast Miao King suddenly spoke.",
+      "severity": "major",
+      "source": "내가 새삼스러운 눈빛으로 바라보고 있을 때, 야수묘왕이 문득 입을 열었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "For a moment, I was thrown off by how casually he said it, as though he were telling me that dinner would be soybean-paste stew. I forced myself to remain calm and asked,",
+      "defect": "The draft omits the source’s specific image of a mother casually announcing the evening meal and instead makes the Beast Miao King the person announcing dinner to Taekyung.",
+      "id": "F07",
+      "rationale": "The maternal domestic comparison is the pragmatic cue that creates the contrast between his casual delivery and the danger of the poisonous mist.",
+      "replacement": "For a moment, I was thrown off by how naturally he said it, as casually as a mother announcing, “We’re having soybean-paste stew for dinner tonight.” I forced myself to remain calm and asked,",
+      "severity": "minor",
+      "source": "마치 어머니께서 오늘 저녁은 된장찌개란다, 라고 말하는 수준의 자연스러움에 잠깐 당황한 내가 애써 침착하게 물었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had just finished my thoughts and stepped into the swamp shrouded in deep green poisonous mist when—",
+      "defect": "The draft omits that Taekyung steps forward while following the Beast Miao King.",
+      "id": "F08",
+      "rationale": "야수묘왕을 따라 explicitly establishes who leads their entry into the swamp.",
+      "replacement": "I had just finished my thoughts and followed the Beast Miao King into the swamp shrouded in deep green poisonous mist when—",
+      "severity": "minor",
+      "source": "생각을 끝마친 내가 야수묘왕을 따라, 진녹색의 독무(毒霧)에 휩싸인 늪지대로 걸음을 내디딘 그때였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "It was absurd from the start, but I held it in.",
+      "defect": "In a passage centered on breathing and poison inhalation, “held it in” misleadingly suggests holding his breath; 참았다 means he endured or put up with the absurd situation.",
+      "id": "F09",
+      "rationale": "The replacement removes the unintended respiratory implication while preserving Taekyung’s restrained frustration.",
+      "replacement": "It was absurd from the start, but I put up with it.",
+      "severity": "minor",
+      "source": "시작부터 어이가 없었지만 참았다."
+    }
+  ],
+  "summary": "One altered physical action and several meaningful fidelity, hierarchy, causal, and register issues require correction.",
+  "version": 1
+}
