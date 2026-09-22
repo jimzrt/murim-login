@@ -16,7 +16,7 @@ I nodded gravely and opened my mouth.
 
 “Save me…”
 
-At that moment, something sharp poked me right in the Mingmen acupoint at the small of my back.
+At that moment, something sharp poked the Mingmen acupoint at the small of my back.
 
 “Save—stay alert as you go.”
 
@@ -30,7 +30,7 @@ At that moment, something sharp poked me right in the Mingmen acupoint at the sm
 
 I continued speaking while shooting an urgent sidelong glance at Mungyeong, who was pressed against my side.
 
-“Be sure to take care on your way! If anyone asks about me, tell them I’m with Mungyeong!”
+“Be sure to watch yourselves! If anyone asks about me, tell them I’m with Mungyeong!”
 
 “Uh, understood.”
 
@@ -40,7 +40,7 @@ I continued speaking while shooting an urgent sidelong glance at Mungyeong, who 
 
 Mungyeong cut me off with an innocent smile.
 
-“It seems there’s something urgent to discuss with Great Hero Jin Wikyung. In any case, we’ve only come to see a patient for a moment, so please don’t concern yourself with us. Go on and rest in the cabin. I’ll let you know afterward.”
+“Your Master seemed to have something important to discuss with Great Hero Jin Wikyung. In any case, we only came here for a brief examination, so please don’t concern yourselves with us. Go rest in the cabin. I’ll let you know when we’re finished.”
 
 “Works for us.”
 
@@ -48,7 +48,7 @@ Nothing was sweeter than authorized slacking in the middle of a boring guard shi
 
 The river bandits smiled and left, delighted to lounge in the cool shade. As for the Sound Transmission I was preparing to send as a last resort, a single sentence from Mungyeong stopped me cold.
 
-“You seem to have three or four lives.”
+“You must have three or four lives to spare.”
 
 “…”
 
@@ -64,7 +64,7 @@ I asked, just in case.
 
 Mungyeong calmly continued before I could finish.
 
-“You’ll drift all the way to Hubei while sunk at the bottom of the Yangtze. Quietly.”
+“You’ll drift all the way there along the bottom of the Yangtze. Quietly.”
 
 “…I thought you said you’d stopped killing.”
 
@@ -76,7 +76,7 @@ Dumbfounded, I protested again.
 
 “You’re the Divine Physician. Are you really threatening to kill me?”
 
-“I’m the former Divine Physician. I passed that name on to my Disciple long ago. So? What’s your answer?”
+“The former Divine Physician. I passed that name on to my Disciple long ago. So? What’s your answer?”
 
 I glared at Mungyeong.
 
@@ -124,7 +124,7 @@ The problem was…
 
 *What am I supposed to tell him?*
 
-It wasn’t as though I had farted in my sleep and somehow opened my Middle Dantian. Other people could attain that kind of enlightenment only through grueling training or while hovering between life and death.
+It wasn’t as though I had farted in my sleep and somehow opened my Middle Dantian. Other people could attain that kind of enlightenment only through grueling, blood-soaked training or while hovering between life and death.
 
 I hesitated, then spotted the large acupuncture needle in Mungyeong’s hand and hurriedly answered.
 
@@ -166,7 +166,7 @@ Sure enough, Mungyeong asked with the eager expression of a webnovel reader wait
 
 “But it was driving me insane. He kept cutting me, and it hurt like hell. Even after I realized it was a dream, I couldn’t wake up.”
 
-“Yes. Exactly.”
+“Yes. Naturally.”
 
 Mungyeong flinched as if he’d been cut himself.
 
@@ -220,9 +220,9 @@ As Mungyeong’s eyes narrowed, I hurriedly opened my mouth.
 
 *Fuck it. I don’t know.*
 
-I swallowed dryly and cautiously spoke.
+I swallowed hard and spoke cautiously.
 
-“You have to suffer to be a Murim man.”
+“Pain makes the martial artist.”
 
 “What?”
 
@@ -236,7 +236,7 @@ I let out a stupefied sound while keeping a wary eye on the large needle in Mung
 
 *What the hell is he talking about now?*
 
-When I raised my head, I saw Mungyeong murmuring under his breath and nodding slightly as though he were groaning.
+When I raised my head, I found Mungyeong murmuring under his breath and nodding slowly.
 
 After muttering something unintelligible, he suddenly spoke.
 
@@ -294,7 +294,7 @@ Mungyeong nodded and let most of my answers pass, but there was one dangerously 
 
 “Do you want to die? Of course he had that. Was there nothing else?”
 
-“…I think that was all.”
+“…I don’t think so.”
 
 The light in Mungyeong’s eyes darkened.
 
@@ -306,7 +306,7 @@ The light in Mungyeong’s eyes darkened.
 
 It was a life-or-death crisis.
 
-I had no idea why a man known as the Sword Immortal would walk around carrying a fly-whisk, but my top priority was avoiding Mungyeong’s suspicions. Without letting a single change cross my face, I answered.
+I had no idea why a man known as the Sword Immortal would walk around carrying a fly-whisk, but my top priority was avoiding Mungyeong’s suspicion. Without so much as blinking, I answered.
 
 “Everything I said was true.”
 
@@ -322,7 +322,7 @@ I had no idea why a man known as the Sword Immortal would walk around carrying a
 
 “I have.”
 
-*Fuck, I’m the one who saw him. What are you going to do about it?*
+*That’s right, fucker. I’m the one who saw him. What are you going to do about it?*
 
 Seizing the advantage, I bore down on Mungyeong while he was momentarily at a loss for words.
 
@@ -342,7 +342,7 @@ That, combined with the self-loathing of having to invent lies under threat desp
 
 *Is this what life is?*
 
-I had wet myself below earlier, and now I was wetting myself above.
+First I’d leaked from the bottom, and now I was leaking from the top.
 
 It had started as an act, but somehow it had become real. Bewilderment flashed across Mungyeong’s nearly expressionless face.
 
@@ -356,8 +356,8 @@ It had started as an act, but somehow it had become real. Bewilderment flashed a
 
 [^2]: Impure World Reincarnation is a resurrection technique from *Naruto*.
 
-Just as I was about to take a step, someone appeared while scattering a powerful aura.
+Just as I was about to walk away, someone appeared, radiating an immense aura.
 
-“What the hell is this dogshit?”
+“What the fuck do you think you’re doing?”
 
 The gazes of the Fire King and the Slaughter Saint collided in midair.

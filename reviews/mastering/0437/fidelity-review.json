@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "He must have left his fly-whisk behind today.",
+      "defect": "The current wording turns the narrator’s tentative excuse into a confident deduction.",
+      "id": "F01",
+      "rationale": "오늘은 먼지떨이를 놓고 온 것 같은데요 uses the hedge 것 같다, meaning 'I think' or 'it seems,' which fits the narrator’s improvised bluff. 'Must have' adds certainty not established by the Korean.",
+      "replacement": "I think he left his fly-whisk behind today.",
+      "severity": "minor",
+      "source": "Line 315"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with one minor modality shift in the narrator’s bluff.",
+  "version": 1
+}
