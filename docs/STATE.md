@@ -1,28 +1,28 @@
 # Translation State
 
-- Last completed: 617
-- Next chapter: 618
-- Current block: 615–619 (3/5)
-- Latest translation: `translations/0617.md`
-- Latest summary: `summaries/beats/0617.md`
-- Safe profiles through: chapter 617
+- Last completed: 618
+- Next chapter: 619
+- Current block: 615–619 (4/5)
+- Latest translation: `translations/0618.md`
+- Latest summary: `summaries/beats/0618.md`
+- Safe profiles through: chapter 618
 
 ## Current Block
 
-- The Fire Dragon Pavilion boards swift ships from Water Dragon Stronghold and begins traveling down the Yangtze toward Yunnan and Nanman. Mu Song is absent at the Yangtze River Channel League headquarters under Seafaring King Pa Ryun's summons, but he ordered his subordinates to aid Jin Taekyung and the Jin Family of Taiyuan in repayment for past help, including the matter of the late Yangtze One Saber Hwang.
-- During the voyage, the Water Dragon Stronghold's reformed water bandits still repeatedly display their old plundering instincts, while Taekyung keeps them under control. Hyuk Mujin fishes with Taishan to empty his mind and trains nightly. As Nanman draws near, Taekyung's Peak-grade Journey to Nanman Quest remains incomplete, and he tells the anxious Ju Hwaran that the group will return home safely; she says she will trust him.
+- The Fire Dragon Pavilion disembarks in Yunnan after Taekyung pressures the Water Dragon Stronghold's Deputy Stronghold Lord to leave one or two ships anchored nearby until their return. Upon entering Nanman, Taekyung completes the Journey to Nanman Quest and receives antidotes, EXP, Fame, and the achievement Thousands of Li in Search of Nanman. A new Peak-grade Chain Quest, Seeds Planted in Nanman, directs him and the Fire Dragon Pavilion to contact a Hidden Shadow Pavilion agent planted by the Murim Alliance. Song Ho's instructions lead them toward Yeongin, a remote county seat where Hwaran previously escorted a journey and where the Yongbong Escort Bureau has longstanding ties. The supposedly friendly locals instead react with intense hostility toward the Han Chinese, forcing the party to pass under watch before reaching the decrepit Poison Flower Pavilion, the agent's meeting place.
 
 ## Open Questions
 
-- What dangers or scheme, if any, await the Fire Dragon Pavilion in Nanman?
-- What role will Pa Ryun and the Yangtze River Channel League play while Mu Song is summoned to headquarters?
+- Who is the Hidden Shadow Pavilion agent at Poison Flower Pavilion, and what information or assistance can they provide?
+- What dangers and plans await the Fire Dragon Pavilion at the Nanman Beast Palace?
+- How will the party handle the local hostility toward Han Chinese outsiders?
 
 ## Exceptional Decision
 
-- Use horse caravans for 마방 and Pavilion Master for 화룡각주 and 각주.
-- Use Young Lady Ju for 주 소저.
-- Preserve Taishan's clipped, childlike speech.
-- Use Judge Bao for 판관 포청천.
+- Render 永仁 as Yeongin.
+- Render 독화루 as Poison Flower Pavilion.
+- Use Bai people for 白族.
+- Continue using Chain Quest for 연계 퀘스트 and Peak for the system's 절정 Grade.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
