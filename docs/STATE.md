@@ -1,20 +1,22 @@
 # Translation State
 
-- Last completed: 724
-- Next chapter: 725
-- Current block: 720–724 (5/5)
-- Latest translation: `translations/0724.md`
-- Latest summary: `summaries/beats/0724.md`
-- Safe profiles through: chapter 724
+- Last completed: 725
+- Next chapter: 726
+- Current block: 725–729 (1/5)
+- Latest translation: `translations/0725.md`
+- Latest summary: `summaries/beats/0725.md`
+- Safe profiles through: chapter 725
 
 ## Current Block
 
-- Nanman remains unified after its reforms, and the Beast Miao King and Yayul Mok commit its forces to aid the Central Plains against Dark Heaven. As the Sacred Rain fades, the Beast Miao King memorializes his lost sworn brother, orders the war drums sounded, and leads Nanman's beasts and people into mobilization as the prelude to the Great War begins.
-- While traveling from Nanman, Jin Taekyung and his companions trade absurd banter before Jin reflects on their recovery, Nanman Beast Palace's formal admission to the Murim Alliance, and Dark Heaven's still-hidden full strength. He becomes increasingly uneasy about the Lord of Heaven's unusual interest in him, then receives a private request to talk from Jeok Cheongang.
+- Jin Taekyung tells Jeok Cheongang that the Lord of Heaven has taken an unusual interest in him and recounts how Dark Heaven's strongest agents tried to capture or kill him. Jeok concludes that Dark Heaven's servants treat the Lord of Heaven as a living god, making the coming war more terrifying than the Great Faction War, especially for Jin.
+- Jeok recalls that the Lord of Heaven once watched Jin through the Western Heaven Demon Lord's eyes and may already suspect the secrets Jin has kept hidden. He accepts Jin's account that he travels between Murim and another world resembling the realm of immortals, then asks Jin to tell him everything he has concealed.
+- Jeok reflects on the Dharma King's warnings about a vast war and the Master of Morning Star, realizing that the prophecy led him to make Jin the Fire Gate Clan's successor. While Jin sleeps during their journey, Jeok quietly wishes him a safe trip.
 
 ## Open Questions
 
-- Why is the Lord of Heaven interested in Jin Taekyung, and what does the Lord of Heaven intend?
+- What does the Lord of Heaven know about Jin Taekyung's hidden secrets, and what does he intend?
+- What is the nature of the other world resembling the realm of immortals, and how does Jin travel between it and Murim?
 - Why has Dark Heaven withheld its full strength, and what is its larger plan?
 - How will the Great War unfold now that Nanman has joined the Murim Alliance?
 - What will happen to Nanman and the Sacred Rain after the rain ends?
@@ -25,6 +27,7 @@
 - Render 신강 as Xinjiang.
 - Retain God wills it! for 신께서 원하신다!.
 - Preserve the established Lord of Heaven rendering for 천주 and the chapter's profane comic banter.
+- Render 선계 as realm of immortals and 소신선 as Little Immortal.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

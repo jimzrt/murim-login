@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“This old man ran all the way to Nanman like his life depended on it because he was afraid something might happen to you. I even plucked out all my perfectly good hair to hide my identity, but I’m fine. In the end, none of it actually fell out, and the hair will grow back soon anyway. Of course. Naturally.”",
+      "defect": "The draft replaces the euphemistic joke about running until an unnamed body part nearly fell off, then makes “none of it actually fell out” appear to contradict the explicit statement that he plucked out his hair. This loses both the vulgar register and the callback.",
+      "id": "F01",
+      "rationale": "뭐 빠지게 is a deliberately vague, crude euphemism, and 그것도 안 빠졌고 explicitly returns to that same unnamed thing rather than denying that his hair was removed.",
+      "replacement": "“This old man ran all the way to Nanman until something nearly fell off because I was afraid something might happen to you. I even plucked out all my perfectly good hair to hide my identity, but I’m fine. In the end, that didn’t fall off either, and my hair will grow back soon enough. Of course. Naturally.”",
+      "severity": "major",
+      "source": "혹여나 네놈에게 무슨 일이라도 생길까 싶어 뭐 빠지게 남만까지 달려오고, 정체를 숨기기 위해 멀쩡한 머리털까지 다 뽑았지만, 노부는 괜찮다. 결과적으로는 그것도 안 빠졌고 머리털은 금방 자랄 테니까. 아무렴, 그렇고말고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“They tried to capture you?”",
+      "defect": "The neutral subject omits Jeok Cheongang’s contemptuous reference to the male and female enemies.",
+      "id": "F02",
+      "rationale": "그 연놈들 is openly derogatory and contributes to Jeok Cheongang’s blunt, hostile register.",
+      "replacement": "“Those bastards tried to capture you?”",
+      "severity": "minor",
+      "source": "그 연놈들이 널 사로잡으려 했다?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Her eyes from that moment. Her expression. Her voice, trembling with delight, and everything she had said and done.",
+      "defect": "The draft adds physical trembling that is absent from the source and does not accurately convey a voice exhilarated by rapture.",
+      "id": "F03",
+      "rationale": "환희로 들뜬 describes her voice as excited or uplifted by ecstasy; it does not say that her voice trembled.",
+      "replacement": "Her eyes at that moment. Her expression. Her voice buoyant with ecstasy, and everything she had said and done.",
+      "severity": "minor",
+      "source": "그때의 눈빛. 그 순간의 표정. 환희로 들뜬 목소리와 그녀가 했던 모든 언행들."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Yes. Using the power of supernatural forces I couldn’t understand, he watched you through the Western Heaven Demon Lord’s eyes.”",
+      "defect": "The wording is an awkward plural construction, shifts the unknown quality into Jeok Cheongang’s personal inability to understand it, and misses the binding rendering “supernatural powers.”",
+      "id": "F04",
+      "rationale": "알 수 없는 modifies the supernatural power as unknown, while 괴력난신 is established as “supernatural powers.”",
+      "replacement": "“Yes. Using some unknown supernatural power, he saw you through the Western Heaven Demon Lord’s eyes.”",
+      "severity": "minor",
+      "source": "그래. 알 수 없는 괴력난신(怪力亂神)의 힘을 이용해서, 서천마군의 눈으로 너를 보았지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And the words spoken by the Western Heaven Demon Lord as he stood tall and looked down at me.\n\nNo—the words spoken by the Lord of Heaven, who had briefly borrowed the body of his servant.",
+      "defect": "The draft adds that the Western Heaven Demon Lord looked down at Jin, introducing a spatial relationship absent from the source.",
+      "id": "F05",
+      "rationale": "나를 바라보던 states only that he was looking at Jin; it does not specify that he looked downward.",
+      "replacement": "And the words spoken by the Western Heaven Demon Lord as he stood tall and looked at me.\n\nNo—the words spoken by the Lord of Heaven, who had briefly borrowed the body of his servant.",
+      "severity": "minor",
+      "source": "그리고 우뚝 선 채 나를 바라보던 서천마군의. 아니, 잠시나마 종복의 몸을 빌린 천주의 한마디를."
+    },
+    {
+      "confidence": 0.91,
+      "current": "A man who had been called a drunken monk because he loved alcohol and meat, and a Dharma King because he loved human decency more than anyone.",
+      "defect": "The draft treats “drunken monk” as a title and omits the disparaging sense that his taste for alcohol and meat made him a sorry excuse for a monk. It also reduces his profound concern for people and their hearts to the narrower abstraction “human decency.”",
+      "id": "F06",
+      "rationale": "땡중 is a contemptuous description of an improper or sham monk, not a name he was called, while 인의(人意) refers to human thoughts or wishes rather than merely proper conduct.",
+      "replacement": "A man who loved alcohol and meat and was a sorry excuse for a monk, yet was called the Dharma King because he cared more deeply about people’s hearts than anyone.",
+      "severity": "major",
+      "source": "술과 고기를 좋아해서 땡중이었고, 누구보다 인의(人意)를 사랑했기에 법왕(法王)이라 불리었던 한 사람을."
+    },
+    {
+      "confidence": 0.98,
+      "current": "His mutter, mixed with a hollow laugh, scattered into the empty air. Jeok Cheongang silently endured the cool breeze sweeping over his entire body, then suddenly turned his gaze to the side.",
+      "defect": "“Endured” makes the cool breeze sound unpleasant or burdensome, adding an attitude absent from the neutral action.",
+      "id": "F07",
+      "rationale": "말없이 맞고 있던 means he silently received or stood in the breeze; it does not imply that he suffered through it.",
+      "replacement": "His mutter, mixed with a hollow laugh, scattered into the empty air. Jeok Cheongang stood silently as the cool breeze swept over his entire body, then suddenly shifted his gaze to the side.",
+      "severity": "minor",
+      "source": "헛웃음 섞인 중얼거림이 공허하게 흩어진다. 전신을 휩쓰는 시원한 바람을 말없이 맞고 있던 적천강의 시선이 문득 옆을 향했다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it obscures a recurring euphemistic joke, alters several physical and vocal details, misses one binding term, and weakens the Dharma King’s characterization.",
+  "version": 1
+}
