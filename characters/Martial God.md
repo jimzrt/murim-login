@@ -1,6 +1,6 @@
 # Martial God (무신)
 
-- **Safe through:** Chapter 661
+- **Safe through:** Chapter 680
 - **Aliases:** None
 - **Role:** The Martial God is an unidentified legendary martial artist who defeated five Supreme Peak fiends and five hundred Blood Ghost Squad members alone more than fifty years ago.
 - **Personality:** Not established.

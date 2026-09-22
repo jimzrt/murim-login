@@ -1,8 +1,8 @@
 # Great Snow Fiend (대설귀)
 
-- **Safe through:** Chapter 662
+- **Safe through:** Chapter 680
 - **Aliases:** None
-- **Role:** A fiend who ruled Great Snow Mountain and killed Baekhwi and Venerable Wusang during the Great Faction War.
+- **Role:** The Great Snow Fiend is the former ruler of Great Snow Mountain and a fiend who killed Baekhwi and Venerable Wusang during the Great Faction War; he is now fighting Jin Taekyung alongside the Black Hand Fist Demon.
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** Enemy of Baeksang, Baekhwi, Venerable Wusang, the Beast Miao King, and the allied Southern Army.
