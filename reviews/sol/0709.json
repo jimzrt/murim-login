@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung’s figure, shooting forward at a steep angle, wavered slightly.",
+      "defect": "가파른 속도 describes breakneck speed, not a steep trajectory; the draft invents an angle of movement.",
+      "id": "F01",
+      "rationale": "The source specifies how fast he is moving, not the direction or angle of his movement.",
+      "replacement": "Jin Taekyung’s figure, shooting forward at breakneck speed, wavered slightly.",
+      "severity": "critical",
+      "source": "가파른 속도로 쏘아지던 진태경의 신형이 미미하게 흔들렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "To save Jin Taekyung, who had been in the worst condition of them all, the Beast Miao King and the guardian spirit had thrown themselves into danger at the cost of their lives. Carrying on that will, the Baekcheon Unit was still throwing their lives away at this very moment.",
+      "defect": "“At the cost of their lives” states that the Beast Miao King and guardian spirit died, while 죽음을 무릅쓰며 means they risked or defied death; their survival remains unresolved.",
+      "id": "F02",
+      "rationale": "The source describes a life-threatening sacrifice without confirming either character’s death.",
+      "replacement": "To save Jin Taekyung, who had been in the worst condition of them all, the Beast Miao King and the guardian spirit had thrown themselves into danger, risking their lives. Carrying on their resolve, the Baekcheon Unit was still staking their lives at this very moment.",
+      "severity": "critical",
+      "source": "가장 여력이 부족했던 진태경을 구하기 위해 야수묘왕이, 수호령이 죽음을 무릅쓰며 몸을 내던졌고 그 뜻을 이어받은 백천대는 지금 이 순간도 목숨을 내던지고 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "This was precious time secured by the Beast Miao King, Wang Ho himself, and more than a hundred members of the Baekcheon Unit at the cost of their lives.",
+      "defect": "The draft changes the stated force from one hundred Baekcheon warriors including Wang Ho to more than one hundred in addition to Wang Ho, and “at the cost of their lives” prematurely presents their deaths as accomplished.",
+      "id": "F03",
+      "rationale": "일백 specifies one hundred, 왕호 자신을 비롯한 includes Wang Ho within that group, and 목숨을 바쳐 emphasizes their mortal commitment without establishing that all have already died.",
+      "replacement": "This was precious time that his lord, the Beast Miao King, and the hundred warriors of the Baekcheon Unit—including Wang Ho himself—had staked their lives to secure.",
+      "severity": "critical",
+      "source": "주군인 야수묘왕이, 왕호 자신을 비롯한 일백의 백천대가 목숨을 바쳐 얻어 낸 귀중한 시간이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Just as Wang Ho cried out in alarm and moved to block Jin Taekyung, who had rushed right up to him, a stiff hand planted itself on his shoulder.",
+      "defect": "“Stiff hand” omits the visible injury conveyed by 못 박힌 손, a hand pierced by a nail.",
+      "id": "F04",
+      "rationale": "The source calls attention to the damaged state of Jin Taekyung’s hand as he reaches Wang Ho.",
+      "replacement": "Just as Wang Ho cried out in alarm and moved to block Jin Taekyung, who had rushed right up to him, a nail-pierced hand came down on his shoulder.",
+      "severity": "major",
+      "source": "경호성을 토해 낸 왕호가 다급히 코앞까지 다가온 진태경을 막아선 그때, 못 박힌 손이 그의 어깨를 짚었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Wang Ho could not stop that young man from running toward death with his back turned to them.",
+      "defect": "자신 refers specifically to Wang Ho, but “them” changes the person being left behind to the whole group.",
+      "id": "F05",
+      "rationale": "The sentence is presented through Wang Ho’s individual perspective and says Jin leaves him, singular, behind.",
+      "replacement": "Wang Ho could not stop that young man from leaving him behind and running toward death.",
+      "severity": "minor",
+      "source": "자신을 뒤로한 채 죽음을 향해 달려가는 저 어린 청년을, 도저히 막을 수 없었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If Jin had returned so they could die together, it would have been nothing more than the courage of a common man.",
+      "defect": "“The courage of a common man” loses the disparaging, foolhardy sense of 필부의 용맹 and weakens the contrast with Jin’s purposeful return to save everyone.",
+      "id": "F06",
+      "rationale": "필부의 용맹 invokes reckless bravery without judgment or purpose, which the following paragraph explicitly contrasts with fighting so that others may live.",
+      "replacement": "If Jin had returned so they could die together, it would have been nothing more than foolhardy courage.",
+      "severity": "major",
+      "source": "함께 죽기 위해 돌아왔다면, 그것은 필부(匹夫)의 용맹에 불과하다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then he shouted toward the subordinates who now numbered less than half their original strength.",
+      "defect": "“Numbered less than half their original strength” is an unnatural construction and blurs that fewer than half of the people remain.",
+      "id": "F07",
+      "rationale": "The source gives a surviving head-count proportion, not an abstract measure of their strength.",
+      "replacement": "Then he shouted to his subordinates, fewer than half of whom now remained.",
+      "severity": "minor",
+      "source": "그리고 이제는 채 절반도 남지 않은 수하들을 향해 외쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The more than a hundred members of the Baekcheon Unit who had blocked her path without regard for their own lives had continued to die, gnawing away at what little strength she had left.",
+      "defect": "The draft again changes the specified one hundred Baekcheon warriors into more than one hundred.",
+      "id": "F08",
+      "rationale": "일백 explicitly gives the unit’s number as one hundred in this passage.",
+      "replacement": "The hundred warriors of the Baekcheon Unit who had blocked her path without regard for their own lives continued to die, gnawing away at what little strength she had left.",
+      "severity": "critical",
+      "source": "목숨을 담보로 한 선천지기(先天之氣)는 시시각각 소모되고 있었고, 죽음을 불사한 채 앞길을 막아선 일백의 백천대는 끊임없이 죽어 가면서도 남은 힘을 갉아먹었으니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "To drive their spears and blades into that Fiend’s body, even if it cost them their one and only life.",
+      "defect": "The singular “their one and only life” is grammatically mismatched with the plural warriors.",
+      "id": "F09",
+      "rationale": "The source emphasizes that each warrior has only one life; the plural English subject requires a natural distributive rendering.",
+      "replacement": "To drive their spears and blades into that Fiend’s body, even if it cost them their lives.",
+      "severity": "minor",
+      "source": "이 싸움을 끝내기 위해. 하나뿐인 목숨을 바쳐서라도 저 악귀의 몸에 창칼을 박아넣기 위해."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even though his heart meridians had undoubtedly been torn to shreds, he had driven the spear he had held until the very end into the Southern Heaven Demon Empress’s chest.",
+      "defect": "The draft pluralizes the established term 심맥, which is singular “heart meridian.”",
+      "id": "F10",
+      "rationale": "The glossary binds 심맥 to “heart meridian,” and the Korean passage uses it in the singular.",
+      "replacement": "Even though his heart meridian had undoubtedly been torn to shreds, he had driven the spear he had held until the very end into the Southern Heaven Demon Empress’s chest.",
+      "severity": "minor",
+      "source": "이미 심맥이 갈기갈기 찢어졌음이 분명한데도."
+    },
+    {
+      "confidence": 0.96,
+      "current": "And it was impossible that the object of that fear could be a bloodied brat standing on the brink of death.",
+      "defect": "“Bloodied brat” reads 핏덩이 literally as someone covered in blood, but here it is a contemptuous expression for a mere child or young brat.",
+      "id": "F11",
+      "rationale": "핏덩이 characterizes Jin as insignificantly young; it does not describe his current bloodstained appearance.",
+      "replacement": "And it was impossible that the object of that fear could be a mere brat standing on the brink of death.",
+      "severity": "minor",
+      "source": "그 대상이 죽음을 앞둔 핏덩이라는 것도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How dare you lay a hand on his body, you fucking whore.”",
+      "defect": "The draft resolves the possessive rhetorical 누구의 into the neutral “his,” losing the arriving speaker’s implied claim or authority over Jin, and turns the strong but nonsexual 잡년 insult into the explicitly sexual “whore.”",
+      "id": "F12",
+      "rationale": "누구의 몸 deliberately frames Jin as someone whose affiliation or protector makes touching him presumptuous, while 잡년 is a vicious insult equivalent to “bitch,” not “whore.”",
+      "replacement": "“Just whose body do you think you’re laying a hand on, you fucking bitch?”",
+      "severity": "major",
+      "source": "“감히 누구의 몸에 손을 대려는 것이냐, 이 호로 잡년아.”"
+    }
+  ],
+  "summary": "Material fidelity errors alter Jin Taekyung’s movement, imply unresolved characters have died, and change the Baekcheon Unit’s stated numbers. Several localized issues also obscure an injury, flatten characterization, or alter the final threat’s register.",
+  "version": 1
+}
