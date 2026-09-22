@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Every kind of delicacy had been laid out, and it was packed with people led by the great chieftains.",
+      "defect": "The draft upgrades ordinary tribal chieftains to the established higher rank of great chieftain and makes them sound as though they are leading the crowd.",
+      "id": "F01",
+      "rationale": "부족장 means tribal chieftain, whereas the source separately uses 대족장 for great chieftain. 위시한 includes the chieftains among the prominent attendees rather than describing them as directing the crowd.",
+      "replacement": "Every kind of delicacy had been laid out, and the grounds were packed with people, including the tribal chieftains.",
+      "severity": "major",
+      "source": "천여 명의 전사들을 수용할 수 있다는 그곳에는 온갖 진수성찬이 차려졌고 부족장을 위시한 사람들로 붐볐다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Isn’t it understandable? A Miao elder born and raised in Nanman daring to ask the Palace Lord of the Nanman Beast Palace such a question.”",
+      "defect": "The speaker and recipient of the question are reversed. The source says Taekyung asked the question of the old Miao man who is also the Palace Lord; the draft says the Miao elder asked the Palace Lord.",
+      "id": "F02",
+      "rationale": "The dative marker 에게 makes the old Miao man and Palace Lord the person receiving Taekyung’s question.",
+      "replacement": "“Isn’t it only natural? You asked that question of an old Miao man born and raised in Nanman—and of the Palace Lord of the Nanman Beast Palace, at that.”",
+      "severity": "critical",
+      "source": "그럴 만도 하지 않느냐. 남만에서 나고 자란 묘족 늙은이, 그것도 감히 남만야수궁주에게 이런 질문을 한다는 것이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If anyone other than the Beast Miao King had said it, I would have dismissed it as nonsense. If it weren’t for the two words *Martial God* attached to the story.",
+      "defect": "The draft changes the basis of Taekyung’s belief. It says the Beast Miao King’s authority makes the account credible, while the source says that even his authority would not have sufficed; the Martial God’s title is what prevents dismissal.",
+      "id": "F03",
+      "rationale": "아무리 야수묘왕이 한 말이라 해도 means “even if it was the Beast Miao King saying it,” and the following condition identifies 무신 as the decisive exception.",
+      "replacement": "Even coming from the Beast Miao King, I would have dismissed it as sheer nonsense—if not for the title *Martial God*.",
+      "severity": "critical",
+      "source": "아무리 야수묘왕이 한 말이라 해도 단순한 헛소리로 치부했을 것이다. 그 앞에 붙은 무신이라는 두 글자가 아니었다면."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Their achievements in the Great Faction War and the Great Cataclysm, and even what they had done immediately afterward.",
+      "defect": "The collective phrasing implies that both men participated in both events, obscuring the intended comparison between the Martial God’s Great Faction War exploits and Cheon Taemin’s Great Cataclysm exploits.",
+      "id": "F04",
+      "rationale": "The two events are parallel points of comparison belonging to the two different figures, not shared achievements in both events.",
+      "replacement": "The Martial God’s exploits in the Great Faction War and Cheon Taemin’s in the Great Cataclysm—even their actions immediately afterward.",
+      "severity": "major",
+      "source": "정마대전과 대격변에서의 활약, 그 직후에 보여 준 행보까지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The fog in my mind cleared, and at last I came face-to-face with him.\n\nWith his cold gaze, which seemed capable of freezing everything around him.",
+      "defect": "The draft turns meeting Baeksang’s gaze into coming face-to-face with Baeksang and leaves the actual gaze as an ungrammatical sentence fragment.",
+      "id": "F05",
+      "rationale": "The object of 마주할 수 있었다 is explicitly 그의 냉담한 시선, so Taekyung meets Baeksang’s gaze.",
+      "replacement": "Snapping out of my thoughts, I finally met his cold gaze, which seemed capable of freezing everything around him.",
+      "severity": "minor",
+      "source": "상념에서 깨어난 나는 마침내 마주할 수 있었다.\n\n사방을 얼려 버릴 듯한 그의 냉담한 시선을."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was surprising that they knew Song Ilseom’s past, which only a very small number of people knew.\n\nBut it was not surprising to the Shadow and his subordinates.",
+      "defect": "The second sentence makes the Shadow and his subordinates unsurprised by their own knowledge, creating a tautology and losing the characterization that their ability to obtain rare intelligence is itself unsurprising.",
+      "id": "F06",
+      "rationale": "그림자와 그의 수하들에게는 아니었다 means that possessing such closely held information was not remarkable for them.",
+      "replacement": "Knowing Song Ilseom’s past, which only a select few knew, would have been remarkable—but not when it came to the Shadow and his subordinates.",
+      "severity": "major",
+      "source": "극소수만이 알고 있는 송일섬의 과거를 알고 있다는 것은 놀라운 일이었지만, 그림자와 그의 수하들에게는 아니었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Our Old Master—no, my Master?”",
+      "defect": "저희 is the speaker’s humble possessive here, not a genuinely plural “our,” so the draft introduces an unsupported shared relationship.",
+      "id": "F07",
+      "rationale": "Taekyung is referring to his own master and correcting his private form of address, Old Master, to the more conventional Master.",
+      "replacement": "“My Old Master—no, my Master?”",
+      "severity": "minor",
+      "source": "저희 노야, 아니 스승님이요?"
+    },
+    {
+      "confidence": 0.95,
+      "current": "It had even come up whenever Jeok Cheongang launched into one of his old war stories.",
+      "defect": "The generic “old war stories” loses the comic, colloquial register of 라떼썰, a joking label for repetitive “back in my day” stories.",
+      "id": "F08",
+      "rationale": "The replacement conveys the familiar generational joke naturally in English without adding information.",
+      "replacement": "It also came up whenever Jeok Cheongang launched into one of his “back in my day” stories.",
+      "severity": "minor",
+      "source": "적천강이 라떼썰을 풀 때마다 한번 등장했던 이름이기도 했으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Whatever else he might lack, that guy’s survival skills are pure cockroach.*",
+      "defect": "“Survival skills are pure cockroach” is not natural English and weakens the direct comparison to a cockroach’s tenacity.",
+      "id": "F09",
+      "rationale": "The source compares Hyuk Mujin’s ability to survive with a cockroach while withholding judgment about his other qualities.",
+      "replacement": "*Whatever else you could say about him, he had the survival instincts of a cockroach.*",
+      "severity": "minor",
+      "source": "다른 건 몰라도 생존력 하나는 바퀴벌레지."
+    }
+  ],
+  "summary": "Two critical fidelity errors reverse who questioned whom and alter why Taekyung believes the Martial God account. Additional findings concern hierarchy, event correspondence, intelligence characterization, register, humor, and localized English.",
+  "version": 1
+}
