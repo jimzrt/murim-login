@@ -1170,3 +1170,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야수묘왕 | 남천마후 | allied_Ten_Kings_master_to_hostile_Demon_Empress | you | cold and threatening | The Beast Miao King addresses the Southern Heaven Demon Empress while promising to tear off her limbs and kill her. |
 | 남천마후 | 복면인 | Demon_Empress_to_loyal_hunting_dog | you | desperate and commanding | The Southern Heaven Demon Empress orders the masked man to carry her away from the ruins. |
 | 남천마후 | 천주 | devoted_servant_to_revered_master | Lord of Heaven | reverent and prayerful | The Southern Heaven Demon Empress prays that the Lord of Heaven will remember her loyalty and love. |
+| 수호령 | 적천강 | guardian_spirit_to_legendary_martial_master | old human | terse and contemptuous | The guardian spirit addresses Jeok as 늙은 인간 while recognizing that his essence has not changed. |
