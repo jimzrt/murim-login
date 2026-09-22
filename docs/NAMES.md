@@ -2164,3 +2164,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무닌 | **Muninn** | One of the two ravens associated with Odin in Norse mythology. |
 | 오딘 | **Odin** | The name of the world's greatest Guild, invoking the Norse god. |
 | 김 과장 | **Manager Kim** | Manager responsible for the evidence storage room; no personal name is given. |
+| 크로노스 길드 | **Chronos Guild** | A major Guild included among the world's Ten Great Guilds. |

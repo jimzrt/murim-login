@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At my thoughtless mutter, the man gave a faint smile.",
+      "defect": "“Thoughtless” characterizes the remark as inconsiderate, while 무심코 means it slipped out unintentionally.",
+      "id": "F01",
+      "rationale": "The source describes an unconscious or accidental utterance, not a judgment about Taekyung’s consideration for others.",
+      "replacement": "At my inadvertent mutter, the man gave a faint smile.",
+      "severity": "minor",
+      "source": "무심코 흘러나온 내 중얼거림에 상대가 희미하게 웃었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Ah. Of course, I have a separate given name. However, I have been called Huginn ever since I began serving the Guild Master, so I believe you may call me that as well.”",
+      "defect": "본명 means his real or legal name, not specifically his given name.",
+      "id": "F02",
+      "rationale": "The source contrasts Huginn with his 본명 without specifying whether that name is a personal, family, or full name.",
+      "replacement": "“Ah. Of course, I have another real name. However, I have been called Huginn ever since I began serving the Guild Master, so I believe you may call me that as well.”",
+      "severity": "minor",
+      "source": "아. 물론 본명은 따로 있습니다만, 길드장님을 모시게 된 후부터는 후긴이라 불리고 있으니 두 분께서도 그렇게 알아주시면 될 듯합니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But more than twenty years ago, Cheon Taemin had vanished in front of everyone.",
+      "defect": "“Vanished in front of everyone” suggests that witnesses saw Cheon Taemin disappear, whereas 종적을 감추고 사라졌다 describes him disappearing from public view without a trace.",
+      "id": "F03",
+      "rationale": "The source concerns Cheon Taemin’s unexplained absence from society, not a witnessed act of instantaneous disappearance.",
+      "replacement": "But a little over twenty years ago, Cheon Taemin disappeared from the public eye without a trace.",
+      "severity": "critical",
+      "source": "하지만 지금으로부터 20여 년 전, 천태민이 모두의 앞에서 종적을 감추고 사라졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "It felt like meeting an envoy from some superior kingdom.",
+      "defect": "“Superior kingdom” sounds like a qualitative compliment and loses the political hierarchy encoded by 상국, a dominant or suzerain state addressing a subordinate one.",
+      "id": "F04",
+      "rationale": "The metaphor specifically conveys Odin Guild treating Ares Guild as a subordinate power, which is central to Huginn’s condescension.",
+      "replacement": "It felt as though we were receiving an envoy from our suzerain.",
+      "severity": "major",
+      "source": "꼭 상국(上國)의 사절을 만난 듯한 기분."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was an eternal truth that the higher a person’s position, the heavier their backside became.",
+      "defect": "The literal rendering is an unnatural English calque and obscures the idiom’s meaning that powerful people become increasingly reluctant to leave their seats or make personal appearances.",
+      "id": "F05",
+      "rationale": "This preserves both the physical seat-based joke and the explanation for why major Guild Masters avoid outside contact.",
+      "replacement": "The higher someone rose, the harder it became to pry them out of their seat. That was an eternal truth.",
+      "severity": "minor",
+      "source": "지위가 높은 사람일수록 엉덩이가 무거워지는 건 만고불변의 진리다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Acquaintances he has known for many years. The person he was supposed to meet today was from Chronos… Ah, my apologies. I seem to have said something unnecessary.”",
+      "defect": "“Was supposed to meet” implies that the meeting may already have been missed or canceled. The source states that the person he is scheduled to meet today is from Chronos.",
+      "id": "F06",
+      "rationale": "The ongoing appointment supports Huginn’s deliberate implication that Odin’s Guild Master is currently coordinating with other major Guilds.",
+      "replacement": "“Acquaintances he has known for many years. The person he is scheduled to meet today is from Chronos… Ah, my apologies. I seem to have said something unnecessary.”",
+      "severity": "critical",
+      "source": "오늘 뵙기로 한 분은 크로노스의……. 아, 죄송합니다. 제가 괜한 말을 했군요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Team Leader Choi shrugged at my question.\n\n“Even so, isn’t this much better than talking around the subject several times, as you did a moment ago?”\n\n“That’s true. If you’d said it like that again, I really would have…”",
+      "defect": "Both uses of “you” assign the earlier evasive speech to Taekyung or Choi. In the source, Choi and Taekyung are discussing Huginn’s earlier habit of talking in circles.",
+      "id": "F07",
+      "rationale": "The omitted Korean subject is resolved by the exchange: Huginn was the one who previously spoke indirectly, while Taekyung forced him to state his threat plainly.",
+      "replacement": "Team Leader Choi shrugged at my question.\n\n“Still, isn’t this much better than him talking in circles like he did a moment ago?”\n\n“That’s true. If he’d kept talking like that this time, I really would have…”",
+      "severity": "critical",
+      "source": "내 물음에 최 팀장이 어깨를 으쓱했다.\n\n“그래도 조금 전처럼 몇 바퀴 돌려서 말하는 것보다는 훨씬 낫지 않습니까.”\n\n“그건 그래. 이번에도 아까처럼 말했으면 그땐 진짜…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The unsettled feeling he had developed while dealing with Jin Taekyung seemed to fall back into place.",
+      "defect": "An “unsettled feeling” cannot naturally “fall back into place,” and the source refers to Huginn’s shaken composure or confidence returning to normal.",
+      "id": "F08",
+      "rationale": "마음이 흔들렸다가 제자리를 찾다 describes his internal equilibrium being disturbed and then restored after he believes Choi has yielded.",
+      "replacement": "His composure, shaken by dealing with Jin Taekyung, seemed to settle back into place.",
+      "severity": "minor",
+      "source": "진태경을 상대하며 흔들렸던 마음이 제자리를 찾는 기분이다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter agency, chronology, hierarchy, or characterization, alongside localized terminology and natural-English problems.",
+  "version": 1
+}
