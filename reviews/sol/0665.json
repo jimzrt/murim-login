@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "fierce Song Il",
+      "defect": "The draft names Song Il instead of Song Ilseom, changing the identity of the Fire Dragon Pavilion member Taishan likes.",
+      "id": "F01",
+      "rationale": "The source explicitly says 송일섬, whose established name is Song Ilseom; Song Il is a different character.",
+      "replacement": "fierce Song Ilseom",
+      "severity": "critical",
+      "source": "사나운 송일섬"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was a faint but unmistakably familiar presence. It was even stranger that Baeksang could not recognize it.\n\nPerhaps that was exactly what the uninvited guest waiting for him had hoped for.",
+      "defect": "The draft states that Baeksang failed to recognize the presence, reversing the source, which says it would have been stranger if he had not recognized the familiar qi. This also changes what the waiting guest may have wanted.",
+      "id": "F02",
+      "rationale": "백상이 알아보지 못하는 것이 더욱 이상한 is counterfactual: the qi is so familiar that failing to recognize it would be stranger.",
+      "replacement": "It was faint but unmistakably familiar qi, something it would have been stranger for Baeksang not to recognize.\n\nPerhaps the uninvited guest waiting for him had been hoping for exactly that.",
+      "severity": "critical",
+      "source": "미세하지만 분명 익숙한 기운이다. 백상이 알아보지 못하는 것이 더욱 이상한.\n\n어쩌면 그를 기다리고 있던 불청객도 그것을 바랐을지도 몰랐다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A few days ago, when Taishan was stupid, it was the Pavilion Master who saved Lord instead.",
+      "defect": "The draft turns 대신 into a temporal description of Taishan being stupid. The source says the Pavilion Master saved Taishan's lord in foolish Taishan's place.",
+      "id": "F03",
+      "rationale": "멍청한 태산이 대신 identifies Taishan as the person for whom the Pavilion Master substituted, reinforcing Taishan's gratitude and sense of inadequacy.",
+      "replacement": "A few days ago, it was the Pavilion Master who saved Lord in stupid Taishan’s place.",
+      "severity": "major",
+      "source": "며칠 전 멍청한 태산이 대신 주군을 구했던 건 바로 각주였으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "As I spoke, I looked up at the ceiling. Through a hole about the size of a child’s fist, I saw a pair of large, clear eyes like a calf’s.\n\nThey looked completely bewildered.",
+      "defect": "Only one eye is visible through the fist-sized hole, but the draft changes the explicit singular 눈동자 into a pair of eyes.",
+      "id": "F04",
+      "rationale": "The singular 눈동자 and the small opening establish that Taekyung can see only one of Taishan's eyes.",
+      "replacement": "As I spoke, I looked up at the ceiling. Through a hole about the size of a child’s fist, I saw one large, clear eye like a calf’s.\n\nIt held a look of complete bewilderment.",
+      "severity": "minor",
+      "source": "말과 함께 천장을 바라보자, 어린아이 주먹만 한 구멍 사이로 송아지처럼 맑고 커다란 눈동자가 보였다.\n\n영문을 모르겠다는 눈빛."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Every time I faced a crisis, my liver—force-fed Botox against my will—grew bigger by the day, and my body and mind grew sturdier in proportion.",
+      "defect": "“Force-fed Botox” changes the injection-based physical joke expressed by 보톡스를 맞은 and produces an unnatural image unrelated to how Botox is administered.",
+      "id": "F05",
+      "rationale": "보톡스를 맞은 means receiving Botox injections, while 간덩이 carries the figurative sense of one's guts or nerve becoming larger.",
+      "replacement": "With every crisis, my guts were forcibly injected with Botox and grew bigger by the day, while my body and mind toughened in proportion.",
+      "severity": "minor",
+      "source": "위기를 겪을 때마다 강제로 보톡스를 맞은 간덩이는 나날이 커졌고, 그에 비례해 몸과 마음은 굳건해졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The half-gray-haired Captain of the Guards, who had stood at his side for more than thirty years, opened his mouth.\n\n“Great Chieftain. Even so……”",
+      "defect": "The draft changes the approximate 삼십여 년 to more than thirty years and replaces the retainer's relational address 주군 with Baeksang's public office.",
+      "id": "F06",
+      "rationale": "삼십여 년 means approximately thirty years, while 주군 is the deferential address of a longstanding subordinate to his lord rather than the title “Great Chieftain.”",
+      "replacement": "The graying Captain of the Guards, who had served at his side for some thirty years, spoke.\n\n“My lord. Even so…”",
+      "severity": "minor",
+      "source": "벌써 삼십여 년간 그의 곁을 지킨 반백의 호위장이 입을 열었다.\n\n“주군. 그래도…….”"
+    }
+  ],
+  "summary": "Six actionable findings, including a character-identity error and a reversed recognition fact.",
+  "version": 1
+}
