@@ -2078,3 +2078,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 맥족 | **Maek people** | Tribal group identified among the warriors in the underground prison. |
 | 만리추종향 | **Ten-Thousand-Li Tracking Scent** | An unverified legendary tracking scent discussed by Gung Gibang. |
 | 천리추종향 | **Thousand-Li Tracking Scent** | The highest-grade tracking scent commonly used in the Murim. |
+| 야율향 | **Yayul Hyang** | Yayul Cheok's daughter, Baekhwi's intended bride, and a deceased Nanman warrior. |
+| 휘아 | **Hwi** | Familiar vocative form of Baekhwi. |
+| 향 | **Hyang** | Short form of Yayul Hyang. |

@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "where only thirty-two Great Chieftains were permitted to sit",
+      "defect": "The draft promotes ordinary tribal chieftains to Great Chieftains, changing the council’s stated hierarchy.",
+      "id": "F01",
+      "rationale": "The source uses 부족장, not the established higher title 대족장.",
+      "replacement": "where only thirty-two tribal chieftains were permitted to sit",
+      "severity": "major",
+      "source": "서른두 명의 부족장만이 자리할 수 있는 대회의에 참석한"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Their faces trembled like aspens, and an indelible terror lingered there.",
+      "defect": "The draft makes the warriors’ faces tremble, whereas the source says their bodies are trembling and terror is visible on their faces.",
+      "id": "F02",
+      "rationale": "몸 is the subject of 떠는, while 얼굴 carries the ensuing description of fear.",
+      "replacement": "Their bodies trembled like aspens, and their faces bore an indelible terror.",
+      "severity": "critical",
+      "source": "사시나무처럼 몸을 떠는 그들의 얼굴에는 지울 수 없는 공포가 깃들어 있었고"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Ptooey!",
+      "defect": "The English onomatopoeia depicts spitting, an action absent from the source.",
+      "id": "F03",
+      "rationale": "푸하 marks Baeksang catching or releasing his breath after the muffled sounds, not spitting.",
+      "replacement": "Hah!",
+      "severity": "critical",
+      "source": "푸하!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "She suffered terribly because of her useless father and lost two older brothers.",
+      "defect": "The coordination weakens the source’s causal statement that her father was responsible for her losing two older brothers.",
+      "id": "F04",
+      "rationale": "때문에 governs the loss and consequent suffering, making the father’s guilt central to Yayul Cheok’s grief.",
+      "replacement": "Because of her worthless father, she lost two older brothers and suffered terribly.",
+      "severity": "major",
+      "source": "못난 애비 때문에 오라비를 둘이나 잃고 많이 힘들어했어."
+    },
+    {
+      "confidence": 0.98,
+      "current": "As always, Baeksang asked a question to which no answer would return, then stared at the mirror blurred with moisture.",
+      "defect": "The added word “moisture” explicitly identifies the cause of the blurred reflection before the source’s raindrop metaphor reveals that Baeksang is crying.",
+      "id": "F05",
+      "rationale": "The source only calls the mirror 뿌옇게 물든, deliberately withholding the tears that the following lines represent as rain.",
+      "replacement": "As always, Baeksang asked a question that would receive no answer, then stared at the mirror, now gone hazy.",
+      "severity": "major",
+      "source": "언제나 그렇듯, 대답이 돌아오지 않는 물음을 던진 백상은 뿌옇게 물든 면경을 바라보았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "She ruptured the dead man’s testicles, showered him with every curse imaginable, and hacked his corpse to pieces.",
+      "defect": "The clinical wording “ruptured the dead man’s testicles” sanitizes the deliberately crude, comic register of 죽은 놈 불알을 터트리고.",
+      "id": "F06",
+      "rationale": "불알 and 놈 are blunt and vulgar here; the coarse description drives the contrast with the father’s image of his frail, beautiful daughter.",
+      "replacement": "She crushed the dead bastard’s balls, hurled every curse imaginable at him, and hacked his corpse to pieces.",
+      "severity": "major",
+      "source": "그러고도 분이 안 풀렸는지 이미 죽은 놈 불알을 터트리고, 온갖 욕설을 퍼부으면서 시신을 난도질해 놨다고 했소."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Why are you speaking informally? Go prepare for the wedding of those youngsters who are crazy about each other.",
+      "defect": "The draft explains the speech-level joke generically instead of preserving the pointed rebuke to Baeksang’s specific informal “What?”",
+      "id": "F07",
+      "rationale": "뭐는 반말이고 directly mocks the preceding 뭐?, producing a terse hierarchy-based joke.",
+      "replacement": "Don’t ‘what’ me. Just get ready to marry off those youngsters who are crazy about each other.",
+      "severity": "minor",
+      "source": "‘뭐는 반말이고. 서로 좋아 죽는 어린 것들 혼례 치를 준비나 하라고.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What kind of nonsense is this? How could that possibly be allowed?”",
+      "defect": "“Allowed” turns the speaker’s disbelief about plausibility into a question about permission.",
+      "id": "F08",
+      "rationale": "가당키나 한가 challenges whether the claim is credible or reasonable, not whether someone permits it.",
+      "replacement": "“What kind of nonsense is this? How could that possibly be true?”",
+      "severity": "minor",
+      "source": "“이 무슨 말도 안 되는! 그게 가당키나 한가!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "a pair of double axes",
+      "defect": "“A pair of double axes” is redundant and may suggest two double-headed weapons rather than the source’s paired axes.",
+      "id": "F09",
+      "rationale": "쌍부 denotes two axes used as a pair; the source does not specify double-headed axe blades.",
+      "replacement": "a pair of axes",
+      "severity": "minor",
+      "source": "쌍부(雙斧)로"
+    },
+    {
+      "confidence": 0.98,
+      "current": "In Hwi’s words, it was like watching an imperial palace chef mince meat with demonic skill.",
+      "defect": "“Demonic skill” introduces a specifically evil quality absent from 신들린 솜씨 and distorts the comic comparison.",
+      "id": "F10",
+      "rationale": "신들린 솜씨 means inspired or uncannily masterful technique, not demonic technique.",
+      "replacement": "In Hwi’s words, it looked like an imperial palace chef mincing meat with uncanny skill.",
+      "severity": "major",
+      "source": "휘아의 표현을 빌리자면 황궁 숙수가 신들린 솜씨로 고기를 다지는 것 같았다던데."
+    },
+    {
+      "confidence": 1.0,
+      "current": "the woman— the Southern Heaven Demon Empress—smiled broadly.",
+      "defect": "The space after the opening em dash violates the required closed-em-dash formatting.",
+      "id": "F11",
+      "rationale": "The binding Markdown rules require em dashes without surrounding spaces.",
+      "replacement": "the woman—the Southern Heaven Demon Empress—smiled broadly.",
+      "severity": "minor",
+      "source": "백상의 부름에 여인, 남천마후는 활짝 웃었다."
+    }
+  ],
+  "summary": "The draft contains one altered physical action, one added action, several hierarchy and causal-fidelity issues, and localized losses of humor, register, and deliberate ambiguity.",
+  "version": 1
+}
