@@ -1996,3 +1996,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 풍둔 주둥아리룡 | **Wind Style: Mouth Dragon** | Jin's invented self-mocking sobriquet. |
 | 백호 | **White Tiger** | Yayul Mok's tiger companion. |
 | 내궁 | **Inner Palace** | The inner compound of the Nanman Beast Palace. |
+| 인시 | **Insi** | The traditional time period from three to five in the morning. |
+| 무야호 | **Muyaho** | Yayul Mok's White Tiger's name; it means tiger of the mighty wilds. |
+| 서리 | **seori** | Colloquial term for stealing crops or produce from a field. |

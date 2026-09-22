@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“No. Because most of the tribal chiefs hate you.”",
+      "defect": "The source uses the explicitly plural 너희, referring to Jin’s group, while the English “you” can be read as referring only to Jin.",
+      "id": "F01",
+      "rationale": "Making the object explicitly plural preserves who the tribal chiefs dislike and avoids changing the political situation into personal hostility toward Jin alone.",
+      "replacement": "“No. Because most of the tribal chiefs hate all of you.”",
+      "severity": "major",
+      "source": "“아니, 대부분의 부족장들이 너희를 싫어하니까.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Just as he couldn’t deny what I had said earlier, neither could he.",
+      "defect": "The draft reverses the first clause’s subject and object. Jin says that he could not deny what he had heard earlier; it does not say Yayul Mok could not deny something Jin had said.",
+      "id": "F02",
+      "rationale": "The source explicitly contrasts Jin’s inability to deny Yayul Mok’s earlier statement with Yayul Mok’s inability to deny Jin’s assessment.",
+      "replacement": "Just as I couldn’t deny what I had heard earlier, neither could he.",
+      "severity": "critical",
+      "source": "내가 앞서 들었던 말을 부정하지 못했듯이, 녀석도 마찬가지였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*That’s a good thing. The problem is that our allies in this enormous land number about as many as a single grain of millet.*",
+      "defect": "The source compares the tiny size of Jin’s allied side to a grain of millet; it does not literally count the allies as one person.",
+      "id": "F03",
+      "rationale": "This preserves the source’s size metaphor without turning it into an altered numerical claim.",
+      "replacement": "*That’s a good thing. The problem is that in this enormous land, our side is no bigger than a grain of millet.*",
+      "severity": "minor",
+      "source": "‘그렇다면 좋은 일이지. 이 넓은 땅덩어리에 우리 편이 좁쌀만큼이라는 게 문제지만.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It’s a thing. And for you, Old Man Namho, it won’t be something you hear for the first time—it’ll be something you never hear again in this lifetime.”",
+      "defect": "The draft produces a contradictory line and loses the punchline that this first encounter will also be Namho’s last because he will never hear the word a second time.",
+      "id": "F04",
+      "rationale": "The replacement naturally conveys 난생처음 and 두 번 다시 while preserving Jin’s deadpan dismissal.",
+      "replacement": "“It’s a thing. And for you, Old Man Namho, this will be the first and last time you ever hear it in this lifetime.”",
+      "severity": "minor",
+      "source": "“그런 게 있어요. 남 노인한테는 난생처음이 아니라, 어차피 이번 생에는 두 번 다시 못 들어볼 겁니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Muyaho. It means ‘tiger of the mighty wilds.’”",
+      "defect": "The draft omits the supplied characters and leaves the culturally specific Muyaho joke unexplained, so Jin’s preceding mountain-hiker association and private reaction have no recoverable punchline in English.",
+      "id": "F05",
+      "rationale": "The characters preserve Yayul Mok’s intended martial meaning, while the concise footnote supplies the modern wordplay that Jin recognizes.",
+      "replacement": "“Muyaho (武野虎).[^1] It means ‘tiger of the mighty wilds.’”\n\n[^1]: “Muyaho” echoes a Korean meme catchphrase and also resembles *yaho*, a shout traditionally made in the mountains.",
+      "severity": "major",
+      "source": "“무야호(武野虎). 굳센 벌판의 호랑이라는 뜻이다.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "There was nothing in this world more satisfying than praising one’s own child. Yayul Mok, the proud father of Yaho, nodded with a pleased expression.",
+      "defect": "The first sentence reverses the action: the source describes the pleasure of hearing one’s child praised, not praising the child oneself. The draft also replaces the deliberate comic label “Yaho-mom” with “proud father.”",
+      "id": "F06",
+      "rationale": "Namho has just praised the White Tiger, which pleases Yayul Mok; retaining “Yaho-mom” also preserves the narrator’s gender-bending pet-parent joke.",
+      "replacement": "Nothing in this world makes you happier than hearing someone praise your child. Yaho-mom Yayul Mok nodded proudly.",
+      "severity": "critical",
+      "source": "원래 이 세상에 내 새끼 칭찬만큼 기쁜 게 없다. 야호맘 야율목이 뿌듯한 표정으로 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Of course. I’ve always liked them very much.”",
+      "defect": "A literal English reading loses the sexual double meaning behind Namho’s fondness for a “White Tiger,” leaving Jin’s alarm and warning that the line is going too far unexplained.",
+      "id": "F07",
+      "rationale": "The prose remains euphemistic like the source, while the rare factual footnote restores the culturally specific joke that motivates Jin’s reaction.",
+      "replacement": "“Of course. I’ve always been very fond of them.”[^2]\n\n[^2]: In Korean slang, “White Tiger” can also refer to a woman with little or no pubic hair, giving Namho’s answer an unintended sexual double meaning.",
+      "severity": "major",
+      "source": "“아, 그럼. 내가 평소에도 많이 좋아하지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I’ve already heard about it. I even knew Blade of Flowers Jin Baekyang personally.”",
+      "defect": "The draft overstates 일면식, turning a passing personal acquaintance or prior meeting into knowing Jin Baekyang personally.",
+      "id": "F08",
+      "rationale": "The source establishes that they had met, but does not establish a close enough relationship to justify “knew personally.”",
+      "replacement": "“I’ve already heard about it. I had even met Blade of Flowers Jin Baekyang before.”",
+      "severity": "major",
+      "source": "“이미 들어서 알고 있다. 화양검 진백양과는 일면식도 나눈 사이였고.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Later, when the wildfire known as the Hundred Thousand Demonic Path rose in the west, he threw himself into the Murim Alliance.",
+      "defect": "The draft treats “Hundred Thousand Demonic Path” as the proper name of a wildfire, obscuring that 십만 conveys the hundred-thousand-strong scale of the Demonic Path force.",
+      "id": "F09",
+      "rationale": "This preserves the stated quantity, the wildfire metaphor, and the established term “Demonic Path” without inventing an event name.",
+      "replacement": "Later, when the hundred-thousand-strong Demonic Path rose like wildfire in the west, he joined the Murim Alliance.",
+      "severity": "major",
+      "source": "훗날 서쪽에서 십만 마도라는 들불이 일어나자 그는 무림맹에 투신했소."
+    }
+  ],
+  "summary": "The draft contains two reversed subjects/actions, several localized fidelity errors, and two culturally specific jokes whose meanings are lost without footnotes.",
+  "version": 1
+}
