@@ -2143,3 +2143,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 타락한 신물 | **Corrupted Divine Artifact** | Title of the System quest offered at the end of the chapter. |
 | 생명의 연못 | **Pond of Life** | The healing and purifying pond within the Sacred Land. |
 | 타락한 신석 | **Corrupted Sacred Stone** | The sacred stone after being corrupted by demonic qi. |
+| 대지모신 | **Earth Mother Goddess** | New deity proclaimed by Jin Taekyung as Nanman's One God. |
+| 목신 | **Wood God** | A local deity worshiped by one Nanman believer. |
+| 화신 | **Fire God** | A local deity worshiped by one Nanman believer. |
