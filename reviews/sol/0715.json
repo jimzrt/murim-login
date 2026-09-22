@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Not to brag, but it was rare for a Supreme Peak master at my level to remain unconscious for an entire week.",
+      "defect": "The draft substitutes the generic “level” for the binding Murim term “realm.”",
+      "id": "F01",
+      "rationale": "경지 explicitly denotes a martial realm or realm stage, and the supplied terminology requires that distinction.",
+      "replacement": "Not to brag, but it was rare for a master who had reached the Supreme Peak realm like me to remain unconscious for an entire week.",
+      "severity": "minor",
+      "source": "내 입으로 말하긴 뭐하지만, 나 정도 경지에 이른 초절정 고수가 일주일이나 정신을 차리지 못하는 건 드문 경우니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Far away, I could hear the presence of people passing by as they chatted quietly among themselves.",
+      "defect": "“Hear the presence” is an unnatural collocation and conflates sensing people nearby with hearing their conversation.",
+      "id": "F02",
+      "rationale": "인기척이 느껴졌다 means he sensed signs of people nearby; the quiet conversation is the accompanying cue.",
+      "replacement": "Far off, I could sense people passing by, chatting quietly among themselves.",
+      "severity": "minor",
+      "source": "저 멀리에서 두런두런 대화를 나누며 지나가는 사람들의 인기척이 느껴졌다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Crack!",
+      "defect": "The sound effect suggests something breaking rather than the sharp impact to Taekyung’s forehead.",
+      "id": "F03",
+      "rationale": "빡 marks the blow itself, while the following text describes pain but no fracture or break.",
+      "replacement": "Whack!",
+      "severity": "minor",
+      "source": "빡!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Wiping away a few tears as I rubbed my forehead, I looked at the empty space where Jeok Cheongang had stood and muttered.",
+      "defect": "The draft changes Taekyung’s action from shedding tears to wiping them away.",
+      "id": "F04",
+      "rationale": "눈물을 찔끔 흘리며 explicitly says that a few tears escaped while he rubbed his forehead; it does not describe wiping them away.",
+      "replacement": "Shedding a few tears as I rubbed my forehead, I looked at the empty space Jeok Cheongang had left behind and muttered.",
+      "severity": "critical",
+      "source": "눈물을 찔끔 흘리며 이마를 문지른 나는 적천강의 빈자리를 보며 중얼거렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Bang!”",
+      "defect": "Quotation marks incorrectly format the impact sound as spoken dialogue.",
+      "id": "F05",
+      "rationale": "The source presents 쾅 as an unspoken sound effect introducing the crash behind Jeok Cheongang.",
+      "replacement": "Bang!",
+      "severity": "minor",
+      "source": "쾅!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was his firm belief that anyone under eighty could chew Ten-Thousand-Year Cold Iron.",
+      "defect": "“Under eighty” excludes eighty-year-olds, while 팔순 이하 explicitly includes them.",
+      "id": "F06",
+      "rationale": "이하 means “at or below,” so the stated age boundary must include eighty.",
+      "replacement": "It was his firm belief that anyone eighty or younger could chew Ten-Thousand-Year Cold Iron.",
+      "severity": "critical",
+      "source": "아직 팔순 이하라면 만년한철도 씹어먹는다는 게 그의 지론이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Then when are you going to die?”\n\n“……Are you insane? At this point, you’re practically chanting for me to die.”\n\n“You were unconscious for seven whole days and nights. I really thought you were going to die.”",
+      "defect": "Hyuk Mujin’s deferential euphemism is made bluntly explicit, erasing the register contrast with Taekyung’s profane response.",
+      "id": "F07",
+      "rationale": "Hyuk repeatedly uses the honorific euphemism 돌아가시다, while Taekyung answers with the blunt 죽으라고; that contrast drives the joke and reflects their hierarchy.",
+      "replacement": "“Then when are you going to pass away?”\n\n“……Are you insane? At this point, you’re practically chanting for me to die.”\n\n“You were unconscious for seven whole days and nights. I really thought you were going to pass away.”",
+      "severity": "major",
+      "source": "“그럼 언제 돌아가시는데요?”\n\n“……미친 새낀가. 이 정도면 죽으라고 염불을 외는 수준 같은데.”\n\n“꼬박 칠 주야 동안 정신을 잃으셨잖아요. 진짜 돌아가시는 줄 알았다고요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Why are you asking? He was looking forward to a funeral feast, you goddamn bastard.”",
+      "defect": "The draft redirects Namho’s insult to the person he is addressing, although 저 marks Taishan as the third-person target.",
+      "id": "F08",
+      "rationale": "저 썅노무 새끼 refers to “that son of a bitch”—Taishan—not “you,” so the current version changes the insult’s subject.",
+      "replacement": "“Why ask? That son of a bitch was looking forward to the funeral feast.”",
+      "severity": "critical",
+      "source": "“뭘 물어봐, 상갓집 잔치 기대한 거지. 저 썅노무 새끼.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "At the exact moment Namho, a representative of Nanman Hall, formally proposed the Taishan Muzzle Bill, a sound split the air from somewhere.",
+      "defect": "“Nanman Hall” invents an organization and obscures the sustained legislative joke built from political party, assemblyman, bill, and formal introduction.",
+      "id": "F09",
+      "rationale": "남만당, 의원, 법안, and 발의 collectively frame Namho as a lawmaker from a political party; preserving that register is necessary for the joke.",
+      "replacement": "At that moment, Assemblyman Namho of the Nanman Party formally introduced the Taishan Muzzle Bill, and the sound of something cutting through the air came from somewhere.",
+      "severity": "major",
+      "source": "남만당에 소속된 남호 의원이 태산 입마개 법안을 정식으로 발의한 그때, 어디선가 바람을 가르는 파공성이 울려 퍼졌다."
+    }
+  ],
+  "summary": "Actionable issues include altered physical action and quantity, lost deferential euphemism, a changed insult target, binding terminology, and a flattened political joke.",
+  "version": 1
+}

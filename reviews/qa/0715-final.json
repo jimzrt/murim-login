@@ -1,0 +1,39 @@
+{
+  "chapter": 715,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.177,
+    "source_characters": 5771,
+    "source_paragraphs": 184,
+    "translation_characters": 12566,
+    "translation_paragraphs": 185
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "화기",
+        "preferred": "fire qi"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

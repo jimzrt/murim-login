@@ -2137,3 +2137,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 동서천마후 | **East-West Heaven Demon Empress** | Absurd directional title introduced by the nightmare antagonist. |
 | 동두천마군 | **Dongducheon Demon Lord** | Jin's jokingly imagined future demon title. |
 | 인천마후 | **Incheon Demon Empress** | Jin's jokingly imagined future demon title. |
+| 거산 | **Geosan** | Jeok Cheongang's uncertain variant for Taishan's name; not confirmed as a separate person. |
+| 남만당 | **Nanman Party** | Organization to which Namho belongs. |
