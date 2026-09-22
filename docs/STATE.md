@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 651
-- Next chapter: 652
-- Current block: 650–654 (2/5)
-- Latest translation: `translations/0651.md`
-- Latest summary: `summaries/beats/0651.md`
-- Safe profiles through: chapter 651
+- Last completed: 652
+- Next chapter: 653
+- Current block: 650–654 (3/5)
+- Latest translation: `translations/0652.md`
+- Latest summary: `summaries/beats/0652.md`
+- Safe profiles through: chapter 652
 
 ## Current Block
 
-- Jin presses Heugung for proof that Baeksang colluded with Dark Heaven. Heugung admits he has no concrete evidence but explains that Baeksang has monitored him for more than twenty years, that his loyal retainers uncovered a secret refuge before dying, and that Baeksang exchanges unexplained missives and disappears alone. Heugung also reveals that his devotion to Yohi is genuine, though he believes she chose wrongly while trying to revive the Yao people. He offers to testify at the next day's Tribal Grand Council if Jin and the Beast Miao King guarantee his and Yohi's safety, staking his life on the truth of his claims. Jin leaves to consult the Fire Dragon Pavilion before informing the Beast Miao King, while Sama Pyo begins training outside the quarters and notices the surrounding grass move.
+- Sama Pyo is ambushed at night by roughly thirty masked attackers who surround the pavilion and attack without warning. He uses his Black Dragon Saber, concealed mechanical arrow device, hidden weapons, poison, and ruthless combat experience to kill twenty attackers, including seven Peak masters, while holding off the rest.
+- Namho wakes to the attack and rouses Taishan by claiming the masked men ate his meat. Taishan erupts from the damaged pavilion and attacks the intruders. Jin Taekyung then returns and asks Sama Pyo whether the masked attackers are his friends.
 
 ## Open Questions
 
@@ -17,7 +18,7 @@
 - What happened at Baeksang's secret refuge, and who destroyed it?
 - Will the Beast Miao King accept Heugung as a witness and guarantee Heugung's and Yohi's safety?
 - How knowingly did Yohi align herself with Baeksang's side?
-- Who or what is moving in the grass around Sama Pyo?
+- Who organized the masked assault on the Fire Dragon Pavilion, and why was it timed for Jin's absence?
 
 ## Exceptional Decision
 
