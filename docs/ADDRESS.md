@@ -1171,3 +1171,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 남천마후 | 복면인 | Demon_Empress_to_loyal_hunting_dog | you | desperate and commanding | The Southern Heaven Demon Empress orders the masked man to carry her away from the ruins. |
 | 남천마후 | 천주 | devoted_servant_to_revered_master | Lord of Heaven | reverent and prayerful | The Southern Heaven Demon Empress prays that the Lord of Heaven will remember her loyalty and love. |
 | 수호령 | 적천강 | guardian_spirit_to_legendary_martial_master | old human | terse and contemptuous | The guardian spirit addresses Jeok as 늙은 인간 while recognizing that his essence has not changed. |
+| 야율천 | 수호령 | fearless human visitor to guardian spirit | you | casual and curious | Yayul Cheon asks the guardian spirit its name after touching its neck. |
+| 수호령 | 야율천 | guardian spirit to fearless human visitor | you; human bastard | threatening and contemptuous | The guardian spirit demands Yayul Cheon's name and threatens to tear him limb from limb if he returns. |

@@ -2128,3 +2128,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 신수 | **divine beast** | A more exalted category than a spiritual creature. |
 | 신병이기 | **divine weapon** | Jin's description of White Flame. |
 | 백병전 | **close-quarters battle** | The melee that follows the Baekcheon Unit's charge. |
+| 야율천 | **Yayul Cheon** | Fearless tribal chieftain who befriended the guardian spirit roughly three hundred years earlier. |
