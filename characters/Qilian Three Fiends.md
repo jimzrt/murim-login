@@ -1,6 +1,6 @@
 # Qilian Three Fiends (기련삼괴)
 
-- **Safe through:** Chapter 451
+- **Safe through:** Chapter 644
 - **Aliases:** Three Fiends
 - **Role:** First Fiend and at least one other brother are dead, the Third Fiend has been captured by Mungyeong, and the Second Fiend's fate remains unknown.
 - **Personality:** Bloodthirsty and notorious throughout Qinghai, but fearful and submissive before the Western Heaven Demon Lord.

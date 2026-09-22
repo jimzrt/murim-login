@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Only thirty-two seats were prepared for the grand council. That had been true a hundred years ago, and it was still true now.",
+      "defect": "This contradicts the surrounding seat count: thirty-one seats are occupied and two are empty, so thirty-three seats have been prepared today.",
+      "id": "C01",
+      "rationale": "The replacement preserves the traditional count while allowing today’s unexplained extra seat to produce the stated total of two empty seats.",
+      "replacement": "For the past hundred years, only thirty-two seats had been prepared for the grand council.",
+      "severity": "major",
+      "source": "Chapter 642, tribal grand council seating"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“For the Nanman warriors who fell victim to the hands……no, the slime and webs of those bastards I could tear to pieces and still not feel satisfied.”",
+      "defect": "The self-correction never closes grammatically, leaving “those bastards” attached to both the victims and the following clause.",
+      "id": "C02",
+      "rationale": "This completes the hand-to-slime-and-webs joke and restores a clear, natural declaration of vengeance without changing the meaning.",
+      "replacement": "“For the Nanman warriors who fell victim to the hands… no, the slime and webs of those bastards. Even tearing them to pieces wouldn’t satisfy me.”",
+      "severity": "minor",
+      "source": "Chapter 640, Jin explaining why he killed the Thousand-Year Spider"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Wraith of Ailao Mountain has no intention of harming us.",
+      "defect": "The epithet drifts from the established form “Ailao Mountain’s Wraith.”",
+      "id": "C03",
+      "rationale": "Using the established epithet consistently prevents the same entity from appearing to have two translated names.",
+      "replacement": "Ailao Mountain’s Wraith has no intention of harming us.",
+      "severity": "minor",
+      "source": "Chapter 640, Jin considering the Black Tiger’s intentions"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Wraith of Ailao Mountain.",
+      "defect": "The epithet drifts from the established form “Ailao Mountain’s Wraith.”",
+      "id": "C04",
+      "rationale": "Using the established epithet consistently prevents terminology drift across the packet.",
+      "replacement": "Ailao Mountain’s Wraith.",
+      "severity": "minor",
+      "source": "Chapter 642, Jin and the Beast Miao King reacting to the approaching presence"
+    }
+  ],
+  "summary": "Continuity and formatting are strong overall. Actionable issues are one council seat-count contradiction, one malformed dialogue sentence, and two instances of drift from the established epithet “Ailao Mountain’s Wraith.”",
+  "version": 1
+}

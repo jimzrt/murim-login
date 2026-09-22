@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*Fwoosh. Whoomph.*\n\nThe wavering torch vanished.",
+      "defect": "The draft says the physical torch vanished, changing the action. The source describes the wavering flame or torchlight going out and plunging the hall into darkness.",
+      "id": "F01",
+      "rationale": "The ensuing darkness is caused by the torchlight being extinguished, not by the torch itself physically disappearing.",
+      "replacement": "*Fwoosh. Whoomph.*\n\nThe wavering torchlight went out.",
+      "severity": "critical",
+      "source": "화륵. 훅.\n\n위태롭게 흔들리던 횃불이 사라진다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Sudden torrential rain caused a flood. More than fifty nearby households, including the pastures, were submerged……”",
+      "defect": "The draft incorrectly makes the pastures part of the fifty households. The source lists the pasture and approximately fifty nearby homes as separate things that were flooded.",
+      "id": "F02",
+      "rationale": "목초지를 비롯한 introduces the pasture alongside the nearby households; a pasture cannot be included within a count of households.",
+      "replacement": "“Sudden torrential rain caused a flood. The pasture and around fifty nearby homes were submerged……”",
+      "severity": "major",
+      "source": "갑작스럽게 내린 폭우로 홍수가 발생했습니다. 목초지를 비롯한 인근 가호(家戶) 오십여 채가 물에 잠겼고……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Yes, my lord.”\n\nNow I was hallucinating voices too, because *Yes, my lord* sounded like *Nanman is fucked*.\n\n*What kind of tribal grand council is this supposed to be?*",
+      "defect": "The draft replaces the source’s explicit 존명/좆망 sound-based joke with two English phrases that do not sound alike, and it omits the separate punchline “Nanman is fucked.” It instead moves the following thought into that position.",
+      "id": "F03",
+      "rationale": "Retaining the closely matched Korean sounds with a concise footnote preserves both the mechanism and the uncensored punchline of the joke.",
+      "replacement": "“Jonmyeong.”[^2]\n\nNow I was hearing things too, because *jonmyeong* sounded like *jonmang*—“fucked.”\n\n*Nanman is fucked.*\n\n[^2]: *Jonmyeong* is a formal acknowledgment meaning “As you command”; it differs by one vowel from *jonmang*, crude slang for being utterly ruined.",
+      "severity": "major",
+      "source": "“존명.”\n\n이제는 환청까지 왔는지, 존명이 좆망으로 들린다.\n\n‘남만 좆망.’"
+    },
+    {
+      "confidence": 0.95,
+      "current": "By a K-Murim-style interpretation, it was more or less a sect founded by Grandfather Dangun’s best friend.",
+      "defect": "The culturally specific “Grandfather Dangun” ancestry joke is retained without enough context for an English reader to understand why it signifies an extremely remote historical connection.",
+      "id": "F04",
+      "rationale": "The footnote supplies the factual cultural premise needed for the joke without adding plot information.",
+      "replacement": "By K-Murim logic, it was basically a sect founded by Grandfather Dangun’s best friend.[^1]\n\n[^1]: Dangun is the legendary founder of Korea’s first kingdom; “Grandfather Dangun” is a familiar, joking way to invoke remote shared ancestry.",
+      "severity": "minor",
+      "source": "K-무림식 해석으로는 단군 할아버지 절친이 세운 문파, 뭐 그쯤 되겠지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I got confused. You should have had one or two children. No matter how vigorous you are, how can you have fifteen?”",
+      "defect": "“You should have had one or two children” reads as a literal recommendation to have children rather than the sarcastic complaint that he had far too many for anyone to keep straight.",
+      "id": "F05",
+      "rationale": "The replacement expresses the idiomatic force of 자식을 한둘 낳았어야지 while preserving the speaker’s teasing complaint.",
+      "replacement": "“I got confused. If only you’d stopped at one or two. No matter how vigorous you are, how can you have fifteen?”",
+      "severity": "minor",
+      "source": "“내가 헷갈렸군. 자네가 자식을 한둘 낳았어야지. 아무리 기운이 좋아도 열다섯 명이나 낳는 게 말이 되나?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I forcefully cut off the words that were about to continue, fixed Baeksang with a sunken gaze, and went on.",
+      "defect": "“A sunken gaze” suggests hollow or recessed eyes and is not natural English for 가라앉은 눈빛, which describes a grave, subdued, or cold steadiness. “Cut off the words that were about to continue” is also an awkward impersonal rendering of interrupting Baeksang.",
+      "id": "F06",
+      "rationale": "The replacement preserves the interruption and Taekyung’s controlled, serious expression without introducing a physical description of his eyes.",
+      "replacement": "I forcefully cut him off before he could continue, fixing Baeksang with a grave, steady gaze as I went on.",
+      "severity": "minor",
+      "source": "이어지려는 목소리를 힘주어 끊어 낸 나는, 가라앉은 눈빛으로 백상을 응시하며 말을 이었다."
+    }
+  ],
+  "summary": "One altered physical action, one misgrouped flood report, and several losses of wordplay, cultural context, and idiomatic force.",
+  "version": 1
+}

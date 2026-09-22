@@ -1095,3 +1095,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 백상 | 장 족장 | great_chieftain_to_subordinate_tribal_chieftain | Chief Jang | cold, formal, and intimidating | Baeksang sarcastically tells Chief Jang to continue the conversation after entering the hall. |
 | 중년 부족장 | 진태경 | Zang chieftain to rescued allied outsider | you | formal and grateful | The middle-aged Zang chieftain thanks Jin for saving twenty-two warriors and welcomes his attendance. |
 | 어둠 속 누군가 | 보고하던 누군가 | unknown superior to subordinate | you | contemptuous and threatening | The hidden entity berates the informant for allowing Jin to attend and calls him a useless worm before killing him. |
+| 야수묘왕 | 장 족장 | Palace Lord to allied tribal chieftain | Chief Jang | familiar and paternal | The Beast Miao King asks Chief Jang about his weight and age during the council's opening banter. |
+| 장 족장 | 야수묘왕 | tribal chieftain to Palace Lord | Palace Lord | deferential and cordial | Chief Jang responds respectfully to the Beast Miao King's comments. |
+| 야수묘왕 | 갈 족장 | Palace Lord to allied tribal chieftain | Chief Gal | familiar and teasing | The Beast Miao King addresses Chief Gal while discussing his children. |
