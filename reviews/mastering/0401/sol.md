@@ -38,7 +38,7 @@ I had never heard of or seen an undead react this way. They had lost all sense a
 
 If that was true…what was I supposed to do?
 
-Right now, a single blow would end the battle and allow me to console the souls of the victims.
+One blow would end this battle and allow the victims’ souls to rest.
 
 But what would I be killing? A hero who had given his life to protect others, or a Death Knight Lord who had led a monster army through countless massacres and acts of destruction?
 
@@ -70,7 +70,7 @@ Flames and darkness collided.
 
 The two tremendous forces crashed into each other and exploded in an enormous shock wave.
 
-Rumble, rumble, rumble!
+RUMBLE!
 
 The deafening blast left my ears ringing. The tremendous recoil hurled me backward, but I flipped in midair and righted myself.
 
@@ -152,7 +152,7 @@ The world shook.
 
 The tremendous recoil hurled me backward, and the outer wall of a building rapidly filled my vision.
 
-I twisted my body in midair. The tips of my feet touched solid concrete.
+I flipped in midair and planted my feet against solid concrete.
 
 *Flamefire Path.*
 
@@ -164,7 +164,7 @@ Explode.
 
 Crack. Boom!
 
-The outer wall received all the force and speed loaded into my toes and burst apart.
+The wall took the full force and momentum stored in my feet and burst apart.
 
 I shot forward like a streak of flame. The Death Knight Lord was only just regaining his balance when I appeared in the air above his head.
 
@@ -180,7 +180,7 @@ Fire Dragon Divine Spear, Second Form.
 
 Whoooooooom—
 
-Ultra-high heat burned the air.
+The searing heat burned the air.
 
 The Death Knight Lord raised his sword toward the spear plunging down like a lightning bolt, his mana swelling as if about to detonate.
 
@@ -188,9 +188,9 @@ KRAANG!
 
 The spearhead shattered, and a blue-black flash filled my vision.
 
-Cracks spread like a spiderweb around the bastard, who had taken the full force carried by the spearhead. The next moment, the ground within a radius of more than a hundred meters sank inward.
+He took the full force behind the spearhead. Cracks spread like a spiderweb across the ground around him, and in the next instant, everything within a radius of more than a hundred meters caved in.
 
-Rumble, rumble, rumble!
+RUMBLE!
 
 The collapse opened a gigantic sinkhole.
 
@@ -212,7 +212,7 @@ Clang!
 
 I managed to block the attack, but the spearhead shattered into countless fragments.
 
-White Flame had already been hurled away as a javelin. Even if the weapons stored in my inventory were of usable quality, in a battle like this they were nothing more than disposable weapons.
+White Flame had already been hurled away. The weapons stored in my inventory were decent enough, but in a battle like this, they were little more than disposable.
 
 But the story changed when I had dozens—hundreds—of them.
 
@@ -224,7 +224,7 @@ Whoooooosh! Clang!
 
 Crack!
 
-With every exchange of blows, a spear shaft bent and a spearhead broke.
+With every exchange, a spear shaft bent or a spearhead shattered.
 
 I didn’t care.
 
@@ -304,7 +304,7 @@ The being before me, now reduced to a monster, had once been a genius chosen fro
 
 *Impressive. Truly impressive.*
 
-I admired him inwardly.
+I admired him.
 
 At the same time, I became certain of one thing.
 

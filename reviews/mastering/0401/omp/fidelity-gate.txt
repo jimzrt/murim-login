@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, but three minor source-fidelity issues remain involving a power-stage rendering, a physical sensation, and an added absorption mechanism.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 61",
+      "current": "My Flame-Extinguishing Divine Fist, unleashed at full power at the eighth level, would end it without pain.",
+      "defect": "팔 성 refers to eight-tenths mastery/power, not an eighth level. The current wording changes the technique's stated degree.",
+      "replacement": "My Flame-Extinguishing Divine Fist, mastered to eight-tenths and unleashed at full power, would end it without pain.",
+      "rationale": "The source specifies 팔 성, conventionally eight-tenths, and the accepted baseline preserves that quantity rather than rendering it as a numbered level.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 75–77",
+      "current": "The deafening blast left my ears ringing.",
+      "defect": "The source describes the blast making his ears feel muffled or blocked, not ringing.",
+      "replacement": "The deafening boom left my ears feeling blocked.",
+      "rationale": "귀가 먹먹해지는 denotes a blocked, numb, or muffled sensation in the ears; ringing is a different physical effect.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 91–93",
+      "current": "The swirling darkness rushed toward him and was drawn into his body.",
+      "defect": "The current adds the specific mechanism that the darkness entered his body. The source only states that it was sucked toward the being, leaving the exact destination implicit.",
+      "replacement": "The swirling darkness was sucked toward the being.",
+      "rationale": "The Korean preserves an intentional physical ambiguity—darkness is drawn toward him while his armor, bones, and eyes recover—without explicitly stating bodily absorption.",
+      "confidence": 0.88
+    }
+  ]
+}

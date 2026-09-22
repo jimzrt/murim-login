@@ -1,0 +1,2290 @@
+{
+  "baseline_blocks": 190,
+  "baseline_sha256": "5c607e855d120755bcfef575aeb419aeb0be904c586a926e171d53823bb5063a",
+  "global_terminology_alerts": [],
+  "hunk_count": 126,
+  "hunks": [
+    {
+      "baseline": "“……Lei Fei?”",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "“…Lei Fei?”",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Wei Fenghu’s only nephew through his sister, and an S-rank Hunter secretly raised by China.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "Wei Fenghu’s only nephew through his sister. An S-rank Hunter secretly trained by China.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And on the day the Monster Wave erupted, a hero who had vanished along with a thousand Hunters from the Public Security Armed Forces Department.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "And a hero who had vanished alongside a thousand Hunters from the Public Security Armed Forces Department on the day the Monster Wave erupted.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The desperate request from the old general echoed in my ears.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "19",
+      "sol": "",
+      "sol_paragraphs": "after P6",
+      "sol_range": [
+        6,
+        6
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was probably why my body suddenly locked up.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "21",
+      "sol": "The old general’s desperate request echoed in my ears. That was probably why my body suddenly froze.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—You treacherous human! Get a grip! He is no longer human. He is a fallen monster!",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "23",
+      "sol": "—You wicked human! Get a grip! He is no longer human. He is a fallen monster!",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Skeleton Warlord’s cry stated an obvious fact.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "The Skeleton Warlord was stating the obvious.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Among the monsters I had defeated so far, there had been Hunters and civilians resurrected as undead. Lei Fei was merely one of them.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "Among the monsters I had defeated so far were Hunters and civilians resurrected as undead. Lei Fei was merely one of them.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The being before me was no longer an S-rank Hunter who had died while carrying out his mission.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "The being before me was no longer an S-rank Hunter who had died carrying out his mission. He was a Death Knight Lord leading a monster army.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was a Death Knight Lord leading a monster army.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "31",
+      "sol": "",
+      "sol_paragraphs": "after P11",
+      "sol_range": [
+        11,
+        11
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        },
+        {
+          "korean": "데스나이트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Death Knight"
+        }
+      ]
+    },
+    {
+      "baseline": "But……",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "33",
+      "sol": "But…",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His body trembled in small spasms, and groans escaped him at irregular intervals.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "41",
+      "sol": "His body trembled in tiny spasms, groans escaping him at irregular intervals.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Each time the red glow in his eyes blinked like a traffic light, stark-white eyes and pupils appeared beneath it—unmistakably human.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "Each time the red glow in his eyes flickered like a traffic light, stark-white irises and pupils appeared beneath it—unmistakably human.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had never heard of or seen an undead that moved solely on the instinct to slaughter, having lost its senses and reason, react this way.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "I had never heard of or seen an undead react this way. They had lost all sense and reason, driven solely by the instinct to slaughter.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What if—just maybe—his transformation into an undead hasn’t been completed?*",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "*What if—just maybe—his transformation into an undead isn’t complete?*",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If that was true……what was I supposed to do?",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "49",
+      "sol": "If that was true…what was I supposed to do?",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Right now, a single blow would end the battle and allow me to console the souls of the victims.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "51",
+      "sol": "One blow would end this battle and allow the victims’ souls to rest.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But what would I be killing? A hero who had given his life to protect people, or a Death Knight Lord who had led a monster army and carried out countless massacres and acts of destruction?",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "53",
+      "sol": "But what would I be killing? A hero who had given his life to protect others, or a Death Knight Lord who had led a monster army through countless massacres and acts of destruction?",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Fuck……”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "55",
+      "sol": "“Fuck…”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was no helping it. The die had been cast, and he and I had already crossed a river from which there was no return. If my opponent could not be subdued halfheartedly, I had to end it now.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "59",
+      "sol": "There was no helping it. The die had been cast, and he and I had already crossed the point of no return. He wasn’t an opponent I could subdue with half measures. I had to end this now.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Lei Fei, Death Knight Lord—whoever he was, he would be able to find peace now.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "63",
+      "sol": "Lei Fei. Death Knight Lord. Whoever he was, he would finally find peace.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My Flame-Extinguishing Divine Fist, mastered to eight-tenths and unleashed at full power, would finish him without pain.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "65",
+      "sol": "My Flame-Extinguishing Divine Fist, unleashed at full power at the eighth level, would end it without pain.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And just as my fist, engulfed in blue flames, advanced to bring everything to an end—",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "69",
+      "sol": "My fist, engulfed in blue flames, shot forward to bring everything to an end.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P32",
+      "baseline_range": [
+        32,
+        32
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "69",
+      "sol": "At that moment—",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A chilling voice slipped between lips stained dark red. At the same time, the red glow in his eyes sharpened, and solidified mana surged upward.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "73",
+      "sol": "A chilling voice slipped between dark-red lips. The flickering glow in his eyes suddenly steadied, and tangible mana erupted from him.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crack! KRAAAANG!",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "75",
+      "sol": "Crackle! KRAAAANG!",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The two tremendous forces crashed into each other and exploded with an enormous shock wave.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "79",
+      "sol": "The two tremendous forces crashed into each other and exploded in an enormous shock wave.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Rumble, rumble, rumble!",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "81",
+      "sol": "RUMBLE!",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The deafening boom left my ears ringing. Flung backward by the tremendous recoil, I twisted my body in midair and regained my balance.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "83",
+      "sol": "The deafening blast left my ears ringing. The tremendous recoil hurled me backward, but I flipped in midair and righted myself.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ground and monster remains caught in the explosion had been blown to pieces.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "85",
+      "sol": "The ground and the monster remains caught in the explosion had been blown to pieces.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Through the pale smoke that had overturned everything within a radius of several hundred meters, a being wrapped in darkness approached.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "87",
+      "sol": "Through the pale smoke blanketing the devastated area for hundreds of meters, a being wrapped in darkness approached.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Darkness rose from the devastated earth.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "93",
+      "sol": "",
+      "sol_paragraphs": "after P42",
+      "sol_range": [
+        42,
+        42
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the death energy held by the dead monsters.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "95",
+      "sol": "Darkness rose from the ruined earth—the death energy held within the fallen monsters.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The swirling darkness was sucked toward the being. At the same time, his half-destroyed armor was restored, his broken bones joined together, and the red glow in his eyes flared fiercely.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "103",
+      "sol": "The swirling darkness rushed toward him and was drawn into his body. His half-destroyed armor repaired itself, his broken bones rejoined, and the red glow in his eyes blazed fiercely.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Recovery followed by an increase in strength.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "107",
+      "sol": "As he recovered, his power grew.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The being, now holding even greater mana within him, slowly raised his sword.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "109",
+      "sol": "Now filled with even greater mana, the being slowly raised his sword.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His duty had been to serve as humanity’s shield and guardian, but the hero who had given his life for others had lost his memories and been corrupted by the Arch Lich.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "115",
+      "sol": "His duty had been to serve as humanity’s shield and guardian. But the hero who had given his life for others had lost his memories and been corrupted by the Arch Lich.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If so……",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "127",
+      "sol": "In that case…",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I have a duty to fulfill as well.”",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "129",
+      "sol": "“I have a duty to fulfill too.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment I murmured those words, a sword scattering mana fell from above my head.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "131",
+      "sol": "The instant I murmured those words—",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P59",
+      "baseline_range": [
+        59,
+        59
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "131",
+      "sol": "Whoosh!",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P59",
+      "baseline_range": [
+        59,
+        59
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "131",
+      "sol": "A sword shedding mana came down toward my head.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single handspan.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "137",
+      "sol": "One handspan.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was how far death had missed me.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "139",
+      "sol": "That was the distance by which death missed me.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mana sharpened more keenly than ever grazed my arm and cut into the ground. Without any deafening boom or flying fragments, more than ten meters of earth split apart like a cheesecake.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "141",
+      "sol": "Mana honed sharper than ever grazed my arm and sliced into the ground. There was no deafening crash, no spray of debris. More than ten meters of earth simply split apart like cheesecake.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hearing the chilling sound of something being cut, I thrust out my hand.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "145",
+      "sol": "At the chilling sound, I thrust out my hand.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ultra-high heat contained in the Flame Divine Palm collided with the sword blade, which had already changed direction.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "147",
+      "sol": "The searing heat of the Flame Divine Palm collided with the blade, which had already changed course.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A tremendous shock wave exploded around us with a deafening boom.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "151",
+      "sol": "",
+      "sol_paragraphs": "after P68",
+      "sol_range": [
+        68,
+        68
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Through the drifting dust, I saw the burning red glow of his eyes.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "153",
+      "sol": "A tremendous shock wave exploded outward from between us. Through the swirling dust, I saw the red glow of his eyes burning brightly.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Flame-Extinguishing Divine Fist shot forward like a cannon shell.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "159",
+      "sol": "The Flame-Extinguishing Divine Fist shot forward like a cannonball.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The bastard’s eyes flew wide as he drove his knee upward. My fist engulfed in flame and his knee wrapped in darkness collided.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "161",
+      "sol": "The bastard’s eyes flew wide as he drove his knee upward. My flame-wreathed fist collided with his knee, wrapped in darkness.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tremendous recoil flung me backward, and the outer wall of a building rushed closer into my field of vision.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "167",
+      "sol": "The tremendous recoil hurled me backward, and the outer wall of a building rapidly filled my vision.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I twisted my body in midair. The tips of my feet touched solid concrete.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "169",
+      "sol": "I flipped in midair and planted my feet against solid concrete.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I sent internal energy flowing into both legs.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "173",
+      "sol": "I channeled internal energy into both legs.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Concentration of energy.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "175",
+      "sol": "Concentrate.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then an explosion.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "177",
+      "sol": "Explode.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The outer wall received all the force and speed loaded into my toes and burst apart.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "181",
+      "sol": "The wall took the full force and momentum stored in my feet and burst apart.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I shot forward like a streak of flame, appearing in the air above the head of the Death Knight Lord, who was only just recovering his stance.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "183",
+      "sol": "I shot forward like a streak of flame. The Death Knight Lord was only just regaining his balance when I appeared in the air above his head.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A sturdy spear shaft appeared in my hand. The energy filling my entire body surged through my fingertips and into the spearhead.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "187",
+      "sol": "A sturdy spear shaft filled my hand. The energy coursing through my body surged down to my fingertips and into the spearhead.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Blue hellfire bloomed in midair, became the claw of a fire dragon, and slashed downward.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "189",
+      "sol": "Blue hellfire bloomed in midair, becoming a fire dragon’s claw as it slashed downward.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The second form of the Fire Dragon Divine Spear.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "191",
+      "sol": "Fire Dragon Divine Spear, Second Form.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ultra-high heat burned the air.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "197",
+      "sol": "The searing heat burned the air.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Death Knight Lord, swelling his mana as if detonating it, raised his sword toward the spear that plunged down like a bolt of lightning.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "199",
+      "sol": "The Death Knight Lord raised his sword toward the spear plunging down like a lightning bolt, his mana swelling as if about to detonate.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cracks spread like a spiderweb around the bastard, who had taken the full force carried by the spearhead. The next moment, the ground within a radius of more than a hundred meters sank inward.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "205",
+      "sol": "He took the full force behind the spearhead. Cracks spread like a spiderweb across the ground around him, and in the next instant, everything within a radius of more than a hundred meters caved in.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Rumble, rumble, rumble!",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "207",
+      "sol": "RUMBLE!",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A gigantic sinkhole finally revealed itself amid the collapse.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "209",
+      "sol": "The collapse opened a gigantic sinkhole.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Monsters swept up in the aftermath of the battle let out shrieks as they fell hundreds of meters below.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "211",
+      "sol": "Monsters caught in the aftermath of the battle shrieked as they plunged hundreds of meters into the depths.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Death Knight Lord stepped on a falling ogre and shot back up to the surface. Then he raised his head and looked at me.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "213",
+      "sol": "The Death Knight Lord used a falling ogre as a foothold and shot back toward the surface. Then he looked up at me.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At me, standing tall in the sky.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "215",
+      "sol": "At me, standing high in the sky.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Another supernatural ability permitted only to those who had reached the Supreme Peak realm.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "219",
+      "sol": "Another supernatural feat granted only to those who had reached the Supreme Peak realm.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I felt the immense drain on my internal energy as I stepped on empty air and leaped upward. Before my feet could even touch the ground, mana lashed out like a whip toward my side.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "221",
+      "sol": "Feeling the immense drain on my internal energy, I stepped on empty air and shot upward. Before my feet could touch the ground, mana lashed toward my side like a whip.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I succeeded in blocking the attack, but the price was the spearhead, which shattered into countless pieces.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "227",
+      "sol": "I managed to block the attack, but the spearhead shattered into countless fragments.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "White Flame had already been hurled away as a javelin. Even if the weapons stored in my inventory were of usable quality, in a battle like this they were nothing more than disposable weapons.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "229",
+      "sol": "White Flame had already been hurled away. The weapons stored in my inventory were decent enough, but in a battle like this, they were little more than disposable.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But if I had dozens or hundreds of disposable weapons, that changed things.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "231",
+      "sol": "But the story changed when I had dozens—hundreds—of them.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With every exchange of blows, a spear shaft bent and a spearhead broke.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "241",
+      "sol": "With every exchange, a spear shaft bent or a spearhead shattered.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I paid no attention.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "243",
+      "sol": "I didn’t care.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The senses throughout my body, quieter and sharper than ever, told me what was happening now and what movement would come next.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "245",
+      "sol": "Every sense in my body was honed to a silent edge, telling me exactly what was happening and what would come next.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I crossed and swung the spears in both hands like rays of light.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "249",
+      "sol": "I crossed the spears in my hands and swung them like streaks of light.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One was destroyed when it collided with his sword, but the other slammed into his side.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "253",
+      "sol": "One shattered against his sword, but the other slammed into his side.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stepped toward the body driven backward by the earth-shaking boom.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "257",
+      "sol": "As the earth-shaking impact drove him backward, I stepped forward.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single step.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "259",
+      "sol": "One step.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stood before the Death Knight Lord. I moved faster than he could retreat.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "261",
+      "sol": "That was all it took to appear before the Death Knight Lord. I advanced faster than he could retreat.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The first form of the Blazing Flame Divine Spear.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "263",
+      "sol": "Blazing Flame Divine Spear, First Form.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His armor had been restored even more solidly than before, but the mana it had absorbed still could not stop the Force contained in the spearhead.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "271",
+      "sol": "The restored armor was tougher than before, but even the mana it had absorbed could not stop the Force coating the spearhead.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The bastard severed the spear with his mana-coated sword. Instead of retreating, he charged toward me.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "279",
+      "sol": "He severed the spear with his mana-coated sword. Instead of retreating, he charged straight at me.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I thought I had turned my head in time, but a thread-thin stream of mana grazed the underside of my earlobe, slicing into it.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "285",
+      "sol": "I thought I had turned my head in time, but a thread-thin streak of mana grazed beneath my earlobe and sliced halfway through it.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Blood gushed from the earlobe, nearly severed in half, accompanied by a sharp, stinging pain.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "289",
+      "sol": "Blood spurted from the wound along with a sharp, stinging pain.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Feeling the blood run down and wet my neck, I thrust a palm toward his face.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "291",
+      "sol": "Feeling it run down my neck, I thrust my palm toward his face.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as the Flame Divine Palm was about to erupt with a burst of rising flames—",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "293",
+      "sol": "Flames surged, and the Flame Divine Palm was about to erupt—",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the ringing boom, my eyes widened.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "297",
+      "sol": "My eyes widened amid the resounding boom.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The palm that should have blown his head away was blocked by a pitch-black gauntlet.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "299",
+      "sol": "The palm that should have blown his head off had been stopped by a pitch-black gauntlet.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was not surprised because the attack had been blocked.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "303",
+      "sol": "I wasn’t surprised that he had blocked the attack.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The movement the Death Knight Lord had just shown was still clumsy, but it was a type of palm technique I recognized.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "305",
+      "sol": "The Death Knight Lord’s movement was still clumsy, but what he had just used was a type of palm technique I recognized.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And it had taken the form of the Flame Divine Palm.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "307",
+      "sol": "More specifically, it had taken the form of the Flame Divine Palm.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*This bastard……he’s copying my martial arts.*",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "309",
+      "sol": "*This bastard…he’s copying my martial arts.*",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As I faced the unwavering red glow of his burning eyes, a thought suddenly flashed through my mind.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "311",
+      "sol": "As I stared into his unwavering red eyes, a thought flashed through my mind.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*An S-rank Hunter secretly raised by China.*",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "313",
+      "sol": "*An S-rank Hunter secretly trained by China.*",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The being before me, who had now been reduced to a monster, was a genius chosen from among 1.2 billion people—and a secret weapon China had wanted to conceal until the very end.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "317",
+      "sol": "The being before me, now reduced to a monster, had once been a genius chosen from among 1.2 billion people—a secret weapon China had intended to keep hidden until the very end.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I admired him inwardly.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "321",
+      "sol": "I admired him.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If he was the man chosen from among 1.2 billion people, then I was the sole existence among nearly seven billion human beings.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "327",
+      "sol": "If he was the man chosen from among 1.2 billion people, then I was one of a kind among nearly seven billion.",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The blood I had spilled while moving between the modern world and Murim, and the countless times I had crossed the line of death, had made me who I was now.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "329",
+      "sol": "The blood I had spilled traveling between the modern world and Murim, and my countless brushes with death, had made me who I was.",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Let’s……end this.”",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "331",
+      "sol": "“Let’s…end this.”",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I took a step with a quiet murmur.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "333",
+      "sol": "I stepped forward as the quiet words left my mouth.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Pfft!",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "337",
+      "sol": "Fwit!",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I twisted my head, and the mana the Death Knight Lord had unleashed in an explosive burst narrowly passed by.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "339",
+      "sol": "I tilted my head, and the mana the Death Knight Lord unleashed in an explosive burst narrowly missed me.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Feeling the Scorching Yang Qi filling my entire body, I thrust out a fist.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "341",
+      "sol": "Feeling the Scorching Yang Qi filling my entire body, I drove out my fist.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His body shook with an earth-shattering boom.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "345",
+      "sol": "An earth-shaking boom rang out, and his body shuddered.",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He hurriedly imitated a grappling technique to block the attack, but the Flame-Extinguishing Divine Fist broke through his clumsy defense and slammed into his chest.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "347",
+      "sol": "He hurriedly tried to block by imitating a grappling technique, but the Flame-Extinguishing Divine Fist broke through his clumsy defense and slammed into his chest.",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I muttered the words inwardly as I thrust out my hands and feet without pause.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "355",
+      "sol": "I repeated the words in my head as my hands and feet struck without pause.",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every blow loaded with Force collided with his sword, slipped into openings, and battered him without end.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "357",
+      "sol": "Every blow laden with Force crashed against his sword or found an opening, battering him without end.",
+      "sol_paragraphs": "P171",
+      "sol_range": [
+        170,
+        171
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was not only the spears summoned from my inventory.",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "357",
+      "sol": "And it wasn’t only the spears summoned from my inventory.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My fists, legs, elbows—everything that made up my body was both a weapon and a shield.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "357",
+      "sol": "My fists, legs, elbows—everything that made up my body was both weapon and shield.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When his wrist was severed together with the gauntlet, the powerful mana flickered like a candle flame.",
+      "baseline_paragraphs": "P176",
+      "baseline_range": [
+        175,
+        176
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "357",
+      "sol": "His wrist was severed along with the gauntlet, and the once-mighty mana flickered like a candle flame.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Death Knight Lord’s armor was slowly coming apart, unable to withstand physical abilities that far surpassed the limits of humanity and internal energy as vast as the sea.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "357",
+      "sol": "The Death Knight Lord’s armor slowly disintegrated, unable to withstand my physical power, which far surpassed human limits, and my internal energy, vast as the sea.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "We exchanged a blow without bothering to defend ourselves.",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "357",
+      "sol": "We each struck without bothering to defend.",
+      "sol_paragraphs": "P178",
+      "sol_range": [
+        177,
+        178
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A System notification informed me that the Fire Dragon Armor’s durability had fallen, while the armor covering his entire body shattered like glass.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "357",
+      "sol": "A System notification informed me that the Fire Dragon Armor’s durability had fallen, while the armor covering his body shattered like glass.",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thud, thud, thud.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "357",
+      "sol": "Clatter.",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His bare body was finally revealed.",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "357",
+      "sol": "His bare flesh was finally exposed.",
+      "sol_paragraphs": "P181",
+      "sol_range": [
+        180,
+        181
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His pale skin was dotted with patches of lividity.",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "357",
+      "sol": "Dark patches of lividity mottled his pale skin.",
+      "sol_paragraphs": "P182",
+      "sol_range": [
+        181,
+        182
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The red glow in the eyes set within the dead man’s body flared more fiercely than ever, as if announcing the end.",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "357",
+      "sol": "The red glow in the dead man’s eyes flared more fiercely than ever, as though heralding the end.",
+      "sol_paragraphs": "P183",
+      "sol_range": [
+        182,
+        183
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—I am, I am……!",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "357",
+      "sol": "—I am, I am…!",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But his cry did not continue.",
+      "baseline_paragraphs": "P186",
+      "baseline_range": [
+        185,
+        186
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "357",
+      "sol": "But his cry went unfinished.",
+      "sol_paragraphs": "P185",
+      "sol_range": [
+        184,
+        185
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A transparent spearhead pierced through his pale skin and burst out from his chest.",
+      "baseline_paragraphs": "P188",
+      "baseline_range": [
+        187,
+        188
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "357",
+      "sol": "A translucent spearhead punched through his pale skin and burst from his chest.",
+      "sol_paragraphs": "P187",
+      "sol_range": [
+        186,
+        187
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I used Seizing an Object Through Empty Space to pull White Flame back, then looked at him and answered.",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "357",
+      "sol": "I had pulled White Flame back to me with Seizing an Object Through Empty Space.",
+      "sol_paragraphs": "P188",
+      "sol_range": [
+        187,
+        188
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P189",
+      "baseline_range": [
+        189,
+        189
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "357",
+      "sol": "Looking at him, I answered.",
+      "sol_paragraphs": "P189",
+      "sol_range": [
+        188,
+        189
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s enough……rest now.”",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "357",
+      "sol": "“That’s enough…rest now.”",
+      "sol_paragraphs": "P190",
+      "sol_range": [
+        189,
+        190
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 190,
+  "sol_sha256": "50b3add2d88f838802d4ae362e1e060987f1a9682304d35217237d9bf70338ef",
+  "version": 1
+}
