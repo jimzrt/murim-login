@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "However, none of them—not even the two tribal chieftains leading the reconnaissance squad—had expected another unwelcome guest to arrive before they encountered the mysterious monster known as the Blood Monk.\n\nAnd this unexpected situation was nothing compared to the news that guest had brought.",
+      "defect": "The draft changes the unexpected arrivals from multiple people to a single guest in both sentences.",
+      "id": "F01",
+      "rationale": "The source uses the plural 불청객들 and subsequently refers to them with the plural 그들이.",
+      "replacement": "However, none of them—not even the two tribal chieftains leading the reconnaissance squad—had expected another group of unwelcome visitors to arrive before they encountered the mysterious monster known as the Blood Monk.\n\nAnd this unexpected situation was nothing compared to the news those visitors had brought.",
+      "severity": "critical",
+      "source": "그러나 이들 중 누구도, 심지어 척후대를 이끄는 두 명의 부족장조차도 혈승(血僧)이라는 정체불명의 괴물을 맞닥트리기 전에 또 다른 불청객들이 찾아올 것이라고는 생각하지 못했다.\n\n그리고 이 뜻밖의 상황은, 그들이 전해 준 소식에 비하면 아무것도 아니었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He intends to leave the handling of this matter to the Blood Monk. To that old monster.",
+      "defect": "“The handling of this matter” obscures the threatening implication that Baeksang may have intended the Blood Monk to deal with the loyal scouts themselves.",
+      "id": "F02",
+      "rationale": "In context, 처리 refers to removing or disposing of the chieftains and scouts who would interfere, not neutrally handling an unspecified matter.",
+      "replacement": "“Or… the Blood Monk. He may have planned to let that old monster deal with them.”",
+      "severity": "major",
+      "source": "혈승(血僧). 그 노괴에게 처리를 맡길 작정이거나."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The question struck precisely at the heart of the matter.",
+      "defect": "The draft turns Chief Jang’s unexpectedly accurate reading of Namho’s intention into a general comment about relevance.",
+      "id": "F03",
+      "rationale": "의표를 찌르다 means to anticipate something unexpected or catch someone off guard; the characterization is that Chief Jang has correctly seen through Namho.",
+      "replacement": "The question caught Namho squarely off guard.",
+      "severity": "major",
+      "source": "정확히 의표를 찌르는 한마디."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even for someone who had spent his entire life in the Hidden Shadow Pavilion, this was not a situation he could easily answer.",
+      "defect": "“A situation he could easily answer” is an unnatural English collocation.",
+      "id": "F04",
+      "rationale": "The source says that even Namho could not readily arrive at an answer; the replacement expresses that naturally without changing the meaning.",
+      "replacement": "Even after a lifetime in the Hidden Shadow Pavilion, Namho could not easily find an answer.",
+      "severity": "minor",
+      "source": "은영각에 일평생을 몸담은 그로서도 쉽게 답이 나오지 않는 상황."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Everyone turned at once. At the end of their gazes, Sama Pyo was staggering to his feet with Taishan’s support.",
+      "defect": "“At the end of their gazes” is a conspicuous Korean-syntax calque.",
+      "id": "F05",
+      "rationale": "The source simply has everyone’s attention turn toward Sama Pyo; the replacement preserves the action in natural English.",
+      "replacement": "Everyone turned at once to see Sama Pyo staggering to his feet with Taishan’s support.",
+      "severity": "minor",
+      "source": "동시에 움직인 사람들의 시선 끝에, 태산의 부축을 받아 비틀비틀 일어나는 사마표가 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The swift ship of the Yangtze River Channel League is not far from here. It is half a day west. We may be able to rendezvous with it after only half a day’s travel.",
+      "defect": "The draft makes the ship’s stated distance and the anticipated rendezvous time identical, losing the source’s distinction between 한나절 and 반나절.",
+      "id": "F06",
+      "rationale": "The source first gives 한나절 as the ship’s westward distance, then says they may meet it after traveling only 반나절, implying a shorter interval as the ship approaches them.",
+      "replacement": "The swift ship of the Yangtze River Channel League is not far from here. It’s half a day to the west. If we travel for even half that time, we might be able to rendezvous with it.",
+      "severity": "critical",
+      "source": "장강수로맹의 쾌조선이 그리 멀지 않은 곳에 있소. 서쪽으로 한나절. 어쩌면 반나절만 간다면 합류할 수 있을 거요."
+    },
+    {
+      "confidence": 0.97,
+      "current": "To hope they would remain alive until the others returned.",
+      "defect": "“The others” makes the returning group ambiguous and no longer explicitly includes Namho himself.",
+      "id": "F07",
+      "rationale": "자신들이 refers to Namho and his own group returning with aid.",
+      "replacement": "To hope they would remain alive until Namho and the others returned.",
+      "severity": "minor",
+      "source": "자신들이 돌아오는 그때까지 살아 있기를."
+    },
+    {
+      "confidence": 0.98,
+      "current": "My five senses, sharp as blades, read every movement of the twin wheels rising behind me.",
+      "defect": "“Rising” invents a directional motion not present in the source and makes the wheels’ combat trajectory less precise.",
+      "id": "F08",
+      "rationale": "The source says the movement was occurring behind Jin and that he perceived it completely; it does not say the wheels were rising.",
+      "replacement": "My five senses, sharp as blades, tracked every movement of the twin wheels behind me.",
+      "severity": "major",
+      "source": "칼날처럼 예리한 오감(五感)은 등 뒤에서 일어나는 쌍륜의 움직임을 낱낱이 읽고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I grabbed Muyaho by the nape while twisting my body.",
+      "defect": "The draft omits that Muyaho is sliding backward, removing a meaningful piece of the combat positioning and the reason Jin catches him.",
+      "id": "F09",
+      "rationale": "주르륵 밀려 나가는 explicitly describes Muyaho being driven or sliding backward before Jin catches his nape.",
+      "replacement": "As Muyaho slid backward, I caught him by the nape and twisted my body.",
+      "severity": "major",
+      "source": "나는 주르륵 밀려 나가는 무야호의 목덜미를 붙잡는 동시에 몸을 비틀었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You—!”",
+      "defect": "The draft softens the hostile insult into a neutral pronoun.",
+      "id": "F10",
+      "rationale": "놈 is a contemptuous insult here, shouted by an enraged enemy; preserving that hostility requires stronger English than “You.”",
+      "replacement": "“You bastard—!”",
+      "severity": "major",
+      "source": "“놈-!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Everything within a radius of ten-odd jang melted beneath the horrific heat, and the Black Hand Fist Demon’s eyes flew wide open.",
+      "defect": "The term “jang” has a footnote definition, but this occurrence lacks the reference marker, leaving the footnote unused.",
+      "id": "F11",
+      "rationale": "Adding the marker connects the unfamiliar unit to the existing factual footnote and resolves the Markdown QA warning.",
+      "replacement": "Everything within a radius of ten-odd jang[^1] melted beneath the horrific heat, and the Black Hand Fist Demon’s eyes flew wide open.",
+      "severity": "minor",
+      "source": "반경 십여 장의 모든 것이 끔찍한 열기에 녹아내리고, 흑수권마의 눈동자가 크게 뜨였다."
+    }
+  ],
+  "summary": "Several actionable fidelity and prose issues remain, including altered group quantity, a lost travel-time distinction, obscured intent to dispose of the scouts, omitted combat motion, softened hostility, and an unused footnote.",
+  "version": 1
+}

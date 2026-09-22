@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "““Or… the Blood Monk. He may have planned to let that old monster deal with them.””",
+      "defect": "The dialogue has duplicated opening and closing quotation marks.",
+      "id": "C01",
+      "rationale": "Removing the extra quotation marks restores the established dialogue formatting without changing the text or meaning.",
+      "replacement": "“Or… the Blood Monk. He may have planned to let that old monster deal with them.”",
+      "severity": "minor",
+      "source": "Chapter 679, Namho's explanation of Baeksang's possible plan"
+    }
+  ],
+  "summary": "The packet maintains consistent voice, terminology, continuity, and spoiler boundaries. One actionable quotation-mark formatting error appears in Chapter 679.",
+  "version": 1
+}

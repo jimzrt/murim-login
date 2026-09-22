@@ -1,0 +1,88 @@
+{
+  "chapter": 679,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.291,
+    "source_characters": 5502,
+    "source_paragraphs": 146,
+    "translation_characters": 12604,
+    "translation_paragraphs": 153
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "unused_footnotes",
+      "details": {
+        "unused_definitions": [
+          "1"
+        ]
+      },
+      "message": "translation contains unused footnote definitions"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인도",
+        "preferred": "Human Butcher"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "아귀",
+        "preferred": "A-Gwi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "도도",
+        "preferred": "Dodo"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "오대",
+        "preferred": "Five Squads"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
