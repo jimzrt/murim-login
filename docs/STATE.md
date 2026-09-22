@@ -1,27 +1,29 @@
 # Translation State
 
-- Last completed: 639
-- Next chapter: 640
-- Current block: 635–639 (5/5)
-- Latest translation: `translations/0639.md`
-- Latest summary: `summaries/beats/0639.md`
-- Safe profiles through: chapter 639
+- Last completed: 640
+- Next chapter: 641
+- Current block: 640–644 (1/5)
+- Latest translation: `translations/0640.md`
+- Latest summary: `summaries/beats/0640.md`
+- Safe profiles through: chapter 640
 
 ## Current Block
 
-- The last surviving Thousand-Year Spider uses its speed and prepared webs to lure Jin Taekyung and the Beast Miao King deeper into the Poisonblood Grounds, where it summons thousands of venomous beasts to form a living wall.
-- Jin Taekyung and the Beast Miao King are nearly overwhelmed, but Jin unleashes One Annihilation through White Flame, combining three jiazi of Scorching Yang Qi into hellfire that destroys the venomous-beast army.
-- With the guards gone, the Beast Miao King attacks the exposed Thousand-Year Spider, catches one of its legs, and tears it free. The spider screams and falls toward the ground, but its survival is unresolved.
+- Jin Taekyung kills the injured Level 119 Thousand-Year Spider after the Beast Miao King brings it to him, and the resulting level-up substantially restores his battered body while leaving him in need of treatment and rest. Jin and the Beast Miao King proceed deeper into the Poisonblood Grounds, wary of Ailao Mountain’s Wraith, which still has not attacked them. They discover a vast moonlit swamp filled with countless objects wrapped in transparent spiderwebs and numerous pure-white eggs.
 
 ## Open Questions
 
-- Did the Thousand-Year Spider survive the fall after losing its leg?
-- Can Jin Taekyung and the Beast Miao King finish the injured Thousand-Year Spider?
+- What are the objects wrapped in transparent spiderwebs in the swamp?
+- What are the pure-white eggs, and what will emerge from them?
+- Why has Ailao Mountain’s Wraith not attacked Jin Taekyung and the Beast Miao King?
+- What does Ailao Mountain’s Wraith intend to do?
 
 ## Exceptional Decision
 
 - Use Sword Demon for 검마.
-- Use two-headed horn snake for 쌍두각사, black frog for 흑와, and golden bee for 금봉.
+- Use two-headed horn snake for 쌍두각사.
+- Use black frog for 흑와.
+- Use golden bee for 금봉.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
