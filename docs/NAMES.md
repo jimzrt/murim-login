@@ -2121,3 +2121,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 통각 | **pain sensation** | The masked man appears unable to feel pain. |
 | 변이 | **mutation** | The transformation threatening the humans and beasts in the Inner Palace. |
 | 왕호 | **Wang Ho** | Commander of the Baekcheon Unit who arrives leading white-armored reinforcements. |
+| 문산 | **Wenshan** | Mountain location northeast of the Nanman Beast Palace and refuge of the Baekcheon Unit. |
+| 태족 | **Dai people** | Nanman tribal people who join Yayul Cheok. |
