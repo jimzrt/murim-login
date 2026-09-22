@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I escaped by a paper-thin margin.",
+      "defect": "The source says there was only a paper-thin difference before the sticky fog grazed the fingertip; it does not say the narrator escaped. “Escaped” falsely implies he successfully evaded the attack, although he was still touched and cursed.",
+      "id": "F01",
+      "rationale": "The following sentence establishes that the fog did make contact with his little finger, so the source describes an extremely narrow margin rather than a completed escape.",
+      "replacement": "The difference was no more than a single sheet of paper.",
+      "severity": "minor",
+      "source": "Korean lines 223–225"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with one minor overstatement of the near miss before the curse takes effect.",
+  "version": 1
+}

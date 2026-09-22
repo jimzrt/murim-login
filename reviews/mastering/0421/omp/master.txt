@@ -1,6 +1,6 @@
 # Chapter 421
 
-There was an old saying passed down among Hunters.
+There was an old saying among Hunters.
 
 Mages came in two kinds: Grand Mages, and everyone else.
 
@@ -24,7 +24,7 @@ I let the Skeleton Warlord’s shriek go in one ear and out the other as I poure
 
 *Crack-crack-crack!*
 
-The solid concrete floor sank beneath me, unable to withstand the pressure transmitted into it. I bent my knees slightly, then kicked off with all my strength.
+The solid concrete floor sank beneath me, unable to withstand the pressure. I bent my knees slightly, then kicked off with all my strength.
 
 *Boom!*
 
@@ -38,7 +38,7 @@ I could see them.
 
 Its trembling red eyes.
 
-White Flame, launched with all my strength, had shattered the invisible barrier surrounding the Arch Lich and was now falling with everything it had.
+White Flame, launched with all my strength, had shattered the invisible barrier surrounding the Arch Lich and was now hurtling downward.
 
 *Come.*
 
@@ -64,7 +64,7 @@ No.
 
 It struck me.
 
-I swallowed a breath and reached out as far as I could, but before the spearhead brimming with Force could touch the Arch Lich’s foot, my body was already falling toward the ground.
+I caught my breath and stretched my arm as far as I could, but before the spearhead brimming with Force could touch the Arch Lich’s foot, I was already plummeting toward the ground.
 
 The Arch Lich, which had seemed close enough to touch, receded in an instant.
 
@@ -86,7 +86,7 @@ I spat out a wad of phlegm and looked up at the Arch Lich looming over me like a
 
 “That sounds a lot like the bullshit spewed by all the guys who’ve died by my hand… Do you people share a *Hundred Questions and Answers for Dealing with Jin Taekyung* or something? Hold study sessions every now and then?”
 
-—Even so, those who died by your hand were still insignificant humans. But I am different.
+—Those who died by your hand were still insignificant humans. But I am different.
 
 “Of course you’re different, you son of a bitch. You’re already dead.”
 
@@ -148,11 +148,11 @@ At that moment, the Skeleton Warlord murmured fearfully,
 
 —At this hour, he might be asleep…
 
-“What the fuck are you talking about? You don’t sleep, either.”
+“What the fuck are you talking about? You don’t sleep.”
 
 —I do not, but His Highness might be different.
 
-“What is the Demon King, some good little schoolboy? Do you think he turns off the television, brushes his teeth, and goes to bed when the sun goes down? And why are you using such an honorific?”
+“What is the Demon King, some model child of the new nation? You think he turns off the television, brushes his teeth, and goes to bed when the sun goes down? And why are you using such an extreme honorific?”
 
 —Ah! I did not even realize… But from this commander’s perspective, is that not only natural?
 
@@ -170,7 +170,7 @@ At that moment, the Skeleton Warlord murmured fearfully,
 
 The Skeleton Warlord let out an exclamation of enlightenment, then added,
 
-—But, human. It seems the Arch Lich’s magic will be getting closer in a moment.
+—But, human. I believe the Arch Lich’s magic is about to get much closer.
 
 *Damn it. He’s right.*
 
@@ -180,7 +180,7 @@ I hurriedly threw myself aside. A green mist grazed me by a hair and engulfed th
 
 Stone, steel, even concrete—everything within a radius of dozens of meters melted away, leaving a gaping hole.
 
-The Arch Lich had fired a poison cloud of terrifying power. Its eyes were not merely clear—they burned like torches.
+The Arch Lich had unleashed a poison cloud of terrifying power. Its eyes now blazed like torches.
 
 —I intended to take you under my command.
 
@@ -192,7 +192,7 @@ The Arch Lich had fired a poison cloud of terrifying power. Its eyes were not me
 
 —But I have changed my mind.
 
-“No, I asked how much it pays. Don’t tell me you people pay in passion, too?”
+“No, I asked how much it pays. Don’t tell me you people pay in passion, too.”
 
 —Your flesh will be torn to pieces, and your soul will wander the River of Death for all eternity.
 
@@ -208,7 +208,7 @@ I nodded and lowered White Flame at an angle.
 
 The Arch Lich opened its mouth.
 
-The four-syllable incantation, uttered in a voice deeper and more sinister than ever, was not an answer to my question.
+The four-beat incantation, uttered in a voice deeper and more sinister than ever, was not an answer to my question.
 
 It was a curse that called forth death.
 
@@ -218,7 +218,7 @@ It was a curse that called forth death.
 
 A pair of black hands burst through the thick fog. They hurtled in from both sides as if coming together in prayer.
 
-I leaped to avoid the Dark Hands—and another spell was waiting for me.
+I leaped over the Dark Hands—and found another spell waiting for me.
 
 —Curse.
 
@@ -234,7 +234,7 @@ The fog had already been closing in before I even finished dodging the Dark Hand
 
 I escaped by a paper-thin margin.
 
-At the instant the sticky fog grazed the tip of my little finger—
+But then the sticky fog grazed the tip of my little finger.
 
 *Beep!*
 
@@ -254,7 +254,7 @@ I was already short on points, and now a curse had slapped me with a debuff.
 
 This wasn’t a loss of one or two points, either. With twenty points stripped from each attribute at once, I could clearly feel the difference.
 
-But even with a debuff, I was not so helpless that I could do nothing but take his attacks.
+But even with a debuff, I wasn’t so helpless that I would simply let it overwhelm me.
 
 Just like now.
 
@@ -274,7 +274,7 @@ A line of blue flame cut through the air, severing every vine formed from magic.
 
 *Shwoooooosh!*
 
-From the severed ends of the thorny vines, which had been collapsing after losing their strength, new vines began to grow.
+New vines sprouted from the severed ends of those that had been collapsing.
 
 They budded, grew thorns, and swelled even larger in barely a second.
 
@@ -324,7 +324,7 @@ The Skeleton Warlord and I groaned at the same time.
 
 *How many are there? Hundreds? No, thousands?*
 
-The overwhelming sight left me speechless for a moment.
+The overwhelming sight left me speechless.
 
 A chill ran down my spine, and my mouth fell open on its own. A bead of cold sweat that had formed on my forehead slid down the bridge of my nose.
 
@@ -350,7 +350,7 @@ At the same time, something inside me shed its shell.
 
 My gaze traveled more and more slowly across the enormous net formed by hundreds—thousands—of Bone Spears.
 
-*Because I had already given up everything?*
+*Was it because I had already given up?*
 
 No.
 
@@ -384,16 +384,16 @@ The Bone Spears, too numerous to count, vanished.
 
 No.
 
-The things that vanished the instant the flames touched them were illusions made of magic.
+What vanished the instant the flames touched them were illusions made of magic.
 
 Only the essence collided with my strike, and unable to withstand its power, it burned away.
 
 *Shhhhhhh.*
 
-Ash scattered in the wind that blew from somewhere.
+Ash scattered on a wind that blew from somewhere.
 
 Carried on that breeze, I heard a bright, cheerful ringing.
 
 *Ding. Ding. Ding…*
 
-It was such a pleasant sound that I found myself smiling without realizing it.
+It was such a pleasant sound that I found myself smiling.
