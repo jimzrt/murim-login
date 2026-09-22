@@ -104,7 +104,7 @@ As every bookshelf came crashing down, years of accumulated dust erupted into th
 
 No, I wasn’t even sure it could still be called a library. A graveyard of books would have been more appropriate.
 
-It might even have become one person’s grave.
+It might even have become one man’s grave.
 
 “Fatherrrr!”
 
@@ -148,13 +148,13 @@ A clear voice answered.
 
 Jeok Cheongang let out a quiet laugh before continuing.
 
-“Quite a few years have passed, but that incredible head of yours is still as sharp as ever. All right, enough nonsense. Come here. You have guests waiting for you.”
+“Quite a few years have passed, but that remarkable memory of yours hasn’t changed. All right, enough nonsense. Come here. You have guests waiting for you.”
 
-“I was planning to greet them regardless.”
+“I was just about to greet them.”
 
 Though the middle-aged man was covered in dust, it couldn’t conceal his refined appearance.
 
-He was the youngest Sect Leader of any prestigious great family or sect I had met so far. His eyes, unusually clear and radiant, turned toward us.
+Of all the leaders of prestigious great families and sects I had met, he was the youngest. His unusually clear, bright eyes turned toward us.
 
 “My apologies for keeping such honored guests waiting. I am Zhuge Feng.”
 
@@ -228,7 +228,7 @@ No matter how powerful the Yangtze River Channel League was, it must have been v
 
 Though Hubei was outside the Sichuan territory under his responsibility, Mu Song laughed heartily at the news that one powerful rival had disappeared.
 
-“But how did they end up disbanding? Did they happen to smuggle salt or something…?”
+“But how did they end up disbanding? Were they caught smuggling salt or something…?”
 
 Zhuge Feng shook his head.
 
@@ -240,13 +240,13 @@ Zhuge Feng shook his head.
 
 His clear, transparent eyes fixed on Mu Song.
 
-As he faced Mu Song’s confusion, Zhuge Feng continued slowly.
+As Mu Song stared back in confusion, Zhuge Feng continued slowly.
 
 “The Sea Serpent Society disappeared. Someone crushed it utterly.”
 
 “…!”
 
-“The night before I received that report, a banquet was held to celebrate the Society Head’s eightieth birthday. Forty-five shipowners who had sworn loyalty to him and roughly a thousand members of the Sea Serpent Society attended. They drank until past midnight and launched dozens of pleasure boats onto the waters of Red Cliffs. And that was the last of it.”
+“The night before I received the report, a banquet was held to celebrate the Society Head’s eightieth birthday. Forty-five shipowners who had sworn loyalty to him and nearly a thousand members of the Sea Serpent Society attended. They drank until past midnight and launched dozens of pleasure boats onto the waters of Red Cliffs. That was the last anyone saw of them.”
 
 The next morning, an old boatman who rose at dawn found the waters of Red Cliffs choked with corpses and the wreckage of brutally shattered boats.
 
@@ -262,7 +262,7 @@ The Sea Serpent Society, which had stood shoulder to shoulder with the Yangtze R
 
 Zhuge Feng stared steadily at the speechless Mu Song.
 
-“Do you know who moved first after the incident at Red Cliffs became known? The authorities? The Sea Serpent Society members who were lucky enough to survive? No. It was the Yangtze River Channel League. They invaded the Sea Serpent Society’s territory and took control of the Yangtze with astonishing speed.”
+“Do you know who moved first once word of the incident at Red Cliffs spread? The authorities? The Sea Serpent Society members who were lucky enough to survive? No. It was the Yangtze River Channel League. With remarkable speed, they moved into the Sea Serpent Society’s territory and seized control of the Yangtze.”
 
 “…Great Hero Zhuge.”
 

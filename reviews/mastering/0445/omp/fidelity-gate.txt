@@ -1,0 +1,55 @@
+{
+  "summary": "Mostly faithful, with a few minor source-fidelity leaks involving a physical comparison, a generalized remark, a visual image, a panic cry, and an institutional category.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 37-39",
+      "current": "It was bigger than a modern soccer stadium.",
+      "defect": "The source compares the library to a modern soccer field, not a soccer stadium. The current wording substantially enlarges the comparison.",
+      "replacement": "It was bigger than a modern soccer field.",
+      "rationale": "축구장 means a soccer field; the source does not establish a stadium-sized comparison.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 51-55",
+      "current": "He must have his reasons.",
+      "defect": "This narrows Jeok Cheongang's generalizing statement to the absent Family Head's personal reasons.",
+      "replacement": "Everyone has their own circumstances.",
+      "rationale": "각자 사정이 있는 법이니까 expresses a general principle that everyone has circumstances, preserving the unexpectedly tolerant characterization noted by the narrator.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 93-95",
+      "current": "became one enormous row of dominoes",
+      "defect": "The current copy changes the source's singular visual image of the shelves becoming one giant domino into a row of separate dominoes.",
+      "replacement": "became one enormous domino",
+      "rationale": "하나의 거대한 도미노 is explicitly singular and is the source's image for the cascading shelves.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 97-99",
+      "current": "“W-wait, wait, wait, wait!”",
+      "defect": "The current copy adds the lexical meaning of pleading for someone to wait. The Korean is repeated panicked vocalization, not an articulated command.",
+      "replacement": "“U-uh, uh, uhhhh!”",
+      "rationale": "어, 어어, 어어어어 is an escalating cry of alarm; it does not contain a word equivalent to “wait.”",
+      "confidence": 0.97
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Lines 155-157",
+      "current": "He was the youngest Sect Leader of any prestigious great family or sect I had met so far.",
+      "defect": "The current copy adds prestigious great families to the class of institutions whose Sect Leaders are being compared.",
+      "replacement": "He was the youngest Sect Leader of any prestigious great sect I had met so far.",
+      "rationale": "명문 대파의 장문인 refers specifically to Sect Leaders of prestigious great sects; it does not include great-family heads.",
+      "confidence": 0.99
+    }
+  ]
+}

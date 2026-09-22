@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "It was bigger than a modern soccer stadium.",
+      "defect": "The source compares the library to a modern soccer field, not a soccer stadium. The current wording substantially enlarges the comparison.",
+      "id": "F01",
+      "rationale": "축구장 means a soccer field; the source does not establish a stadium-sized comparison.",
+      "replacement": "It was bigger than a modern soccer field.",
+      "severity": "minor",
+      "source": "Lines 37-39"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He must have his reasons.",
+      "defect": "This narrows Jeok Cheongang's generalizing statement to the absent Family Head's personal reasons.",
+      "id": "F02",
+      "rationale": "각자 사정이 있는 법이니까 expresses a general principle that everyone has circumstances, preserving the unexpectedly tolerant characterization noted by the narrator.",
+      "replacement": "Everyone has their own circumstances.",
+      "severity": "minor",
+      "source": "Lines 51-55"
+    },
+    {
+      "confidence": 0.98,
+      "current": "became one enormous row of dominoes",
+      "defect": "The current copy changes the source's singular visual image of the shelves becoming one giant domino into a row of separate dominoes.",
+      "id": "F03",
+      "rationale": "하나의 거대한 도미노 is explicitly singular and is the source's image for the cascading shelves.",
+      "replacement": "became one enormous domino",
+      "severity": "minor",
+      "source": "Lines 93-95"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“W-wait, wait, wait, wait!”",
+      "defect": "The current copy adds the lexical meaning of pleading for someone to wait. The Korean is repeated panicked vocalization, not an articulated command.",
+      "id": "F04",
+      "rationale": "어, 어어, 어어어어 is an escalating cry of alarm; it does not contain a word equivalent to “wait.”",
+      "replacement": "“U-uh, uh, uhhhh!”",
+      "severity": "minor",
+      "source": "Lines 97-99"
+    }
+  ],
+  "summary": "Mostly faithful, with a few minor source-fidelity leaks involving a physical comparison, a generalized remark, a visual image, a panic cry, and an institutional category.",
+  "version": 1
+}
