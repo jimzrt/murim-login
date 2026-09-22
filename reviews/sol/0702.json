@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The powerful energy concentrated within her snow-white hands should have been enough to turn them to ash long ago.",
+      "defect": "The sentence reverses the mechanism: the source says her hands should already have been reduced to ash, yet tremendous energy was concentrated within them. The draft instead makes that energy the apparent cause that should have burned them.",
+      "id": "F01",
+      "rationale": "The relative clause modifies the hands, not the concentrated energy.",
+      "replacement": "Her snow-white hands, which should have been reduced to ash long ago, held a tremendous concentration of energy.",
+      "severity": "critical",
+      "source": "진즉 잿가루가 되고도 남았을 새하얀 손에는 강대한 기운이 집약되어 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A face that looked almost embarrassed entered her field of vision along with pain that arrived half a beat late.",
+      "defect": "The draft omits that Jin Taekyung is smiling sheepishly, weakening the playful provocation that sets up his next line.",
+      "id": "F02",
+      "rationale": "웃는 explicitly describes him smiling as though embarrassed.",
+      "replacement": "As the pain arrived half a beat late, she saw Jin Taekyung smiling sheepishly at her.",
+      "severity": "minor",
+      "source": "반 박자 늦게 느껴지는 통증과 함께 쑥스럽다는 듯 웃는 한 사람의 얼굴이 시야에 들어온다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Her thick, glossy hair—one of her greatest sources of pride—had been cut away by nearly half.",
+      "defect": "The quantity is reduced from a full half to nearly half, diminishing the damage that triggers her fury.",
+      "id": "F03",
+      "rationale": "무려 절반이나 emphasizes that as much as half of her hair was cut off.",
+      "replacement": "Fully half of her thick, glossy hair—always a source of pride—had been cut away.",
+      "severity": "major",
+      "source": "언제나 그녀의 자랑거리였던 풍성하고 윤기 나는 머리카락이, 무려 절반이나 잘려 나간 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The young—no, the impossibly young—enemy standing before her had once climbed a cliff while carrying an iron ball weighing well over a thousand geun.",
+      "defect": "“Carrying” loses the mechanical detail that the established iron-ball training weights were attached to Jin while he climbed.",
+      "id": "F04",
+      "rationale": "매달고 means the iron balls were hanging from or fastened to him, which explains why this training prepared him to withstand crushing pressure.",
+      "replacement": "The young—no, the impossibly young—enemy before her had once climbed a cliff with iron balls weighing well over a thousand geun strapped to his body.",
+      "severity": "minor",
+      "source": "젊다 못해 새파란 눈앞의 적이, 한때 천근이 훌쩍 넘는 철구를 매달고 절벽을 올랐음을."
+    },
+    {
+      "confidence": 1.0,
+      "current": "At first, she had intended to capture and offer the young man to the Lord of Heaven as his loyal servant, after hearing that the exalted Lord had taken an interest in Jin Taekyung.",
+      "defect": "The placement of “as his loyal servant” makes Jin Taekyung appear to be the servant being offered, whereas the Southern Heaven Demon Empress identifies herself as the Lord of Heaven’s faithful servant.",
+      "id": "F05",
+      "rationale": "그분의 충실한 종복으로서 describes the Southern Heaven Demon Empress’s role and motive.",
+      "replacement": "At first, after hearing that the exalted Lord of Heaven had taken an interest in Jin Taekyung, she had intended to act as the Lord’s faithful servant and capture the young man to offer him up.",
+      "severity": "major",
+      "source": "처음에는 지엄하신 천주께서 진태경에게 흥미를 보이신다기에, 그분의 충실한 종복으로서 저 어린놈을 잡아 바치려 했었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*You should be prepared to lose an arm or a leg. I’ll reattach them for you later, anyway.*",
+      "defect": "The draft limits the threat to one limb, while the source explicitly threatens one or two limbs.",
+      "id": "F06",
+      "rationale": "한두 개 means “one or two,” and preserving that quantity maintains the extent of her intended mutilation.",
+      "replacement": "*You should be prepared to lose a limb or two. I’ll reattach them later anyway.*",
+      "severity": "major",
+      "source": "‘팔다리 한두 개 날아가는 것 정도는 감수하렴. 어차피 나중에 붙여 줄 테니.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Five fingers approached without a sound, erasing the wind.",
+      "defect": "“Without a sound” is an unsupported addition and conflicts with the immediately preceding whooshing sound effect.",
+      "id": "F07",
+      "rationale": "The source describes the fingers erasing the wind but does not say their approach is silent.",
+      "replacement": "Five fingers swept toward him, erasing the wind.",
+      "severity": "minor",
+      "source": "바람을 지우며 다가오는 다섯 개의 손가락."
+    }
+  ],
+  "summary": "The draft contains one reversed mechanical explanation, several altered quantities or relationships, and localized omissions/additions affecting characterization and action clarity.",
+  "version": 1
+}
