@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the Beast Miao King, who had been restraining him",
+      "defect": "The draft turns an attempt to dissuade or stop Jeok Cheongang into physical restraint, changing the Beast Miao King’s action.",
+      "id": "F01",
+      "rationale": "만류하던 means he was trying to dissuade or stop Jeok Cheongang; it does not establish that he physically restrained him.",
+      "replacement": "the Beast Miao King, who had been trying to stop him",
+      "severity": "critical",
+      "source": "그런 그를 만류하던 야수묘왕도"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I muttered the words like a groan and gazed at the pillars of water blocking me in with stunned eyes.",
+      "defect": "The singular water column surrounding him is changed into multiple pillars.",
+      "id": "F02",
+      "rationale": "물의 기둥 is singular, and the scene consistently presents one enormous column enclosing him.",
+      "replacement": "I muttered the words like a groan and gazed with stunned eyes at the column of water walling me in on every side.",
+      "severity": "critical",
+      "source": "신음처럼 중얼거린 나는 아연한 눈빛으로 사방을 가로막은 물의 기둥을 바라보았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "But the reason everything surrounding me felt so distant was the single object shining alone between the slowly dispersing pillars of water.",
+      "defect": "The draft again changes the single dispersing water column into multiple pillars.",
+      "id": "F03",
+      "rationale": "물기둥 remains singular; 사이에서 describes the object becoming visible amid or through the dispersing water.",
+      "replacement": "But the reason everything surrounding me felt so distant was the single object shining alone through the slowly dispersing column of water.",
+      "severity": "critical",
+      "source": "그러나 지금 나를 둘러싼 모든 것이 멀게만 느껴지는 이유는, 서서히 흩어지는 물기둥 사이에서 홀로 빛나고 있는 한 가지 물건 때문이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the same time, the pillars of water blocking every direction shot into the sky and burst apart like an explosion.",
+      "defect": "The draft changes the single enclosing water column into multiple pillars at the moment it erupts.",
+      "id": "F04",
+      "rationale": "The source uses the singular 물기둥 and describes that one column surging upward and bursting.",
+      "replacement": "At the same time, the column of water walling me in on every side shot into the sky and burst apart like an explosion.",
+      "severity": "critical",
+      "source": "사방을 가로막고 있던 물기둥이 하늘 위로 솟구침과 동시에 폭발하듯 터져 나갔다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "They didn’t know that a green leaf had just poked its head up above them, nourished by the rain falling onto their heads.",
+      "defect": "The draft places the emerging leaf above the characters and adds an explicit claim that the rain nourished it.",
+      "id": "F05",
+      "rationale": "The source says the leaf has newly emerged amid the rain falling over their heads; it does not locate the leaf above them or explicitly explain the rain as nourishment.",
+      "replacement": "They didn’t know that a green leaf had just poked its head out beneath the rain falling on them.",
+      "severity": "critical",
+      "source": "자신들의 머리 위로 떨어져 내리고 있는 빗물에, 지금 막 푸른 잎사귀가 불쑥 고개를 내밀었다는 것을."
+    },
+    {
+      "confidence": 0.95,
+      "current": "No. It might have been the memory of the divine artifact that had shared its birth, this land, and its fate.",
+      "defect": "The coordination is malformed and obscures the causal history: the artifact has shared this land’s fate since its birth.",
+      "id": "F06",
+      "rationale": "탄생과 이 땅과 운명을 함께해 온 links the artifact’s existence from birth to its shared fate with the land, rather than listing “this land” as something it shared.",
+      "replacement": "No. It might have been the memories of the divine artifact that had shared this land’s fate since its birth.",
+      "severity": "major",
+      "source": "아니, 탄생과 이 땅과 운명을 함께해 온 신물(神物)의 기억일지도 모른다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "They shone countless times like stars in the night sky before fading away, and eventually, a snow-white White Tiger began guarding the sacred stone.",
+      "defect": "“Shone countless times” suggests that the same beings repeatedly shone, rather than countless successive beings appearing and fading over the long history.",
+      "id": "F07",
+      "rationale": "수없이 modifies the number or succession of beings that shone and faded, reinforcing the passage of generations before the White Tiger became guardian.",
+      "replacement": "Countless among them shone like stars in the night sky before fading away, and eventually, a snow-white White Tiger began guarding the sacred stone.",
+      "severity": "major",
+      "source": "그들은 밤하늘의 별처럼 수없이 빛났다가 사그라들었고, 이내 눈처럼 새하얀 한 마리의 백호가 신석을 지키기 시작했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*……But if this backfires, we’re really in for one hell of a disaster.*",
+      "defect": "The generic “disaster” loses the deliberately comic, slangy image of a full-blown chaos party.",
+      "id": "F08",
+      "rationale": "대환장 파티 is an irreverent colloquial expression for an absurdly chaotic mess, matching Taekyung’s profane action-comedy narration.",
+      "replacement": "*……But if this backfires, we’re in for a total shitshow.*",
+      "severity": "major",
+      "source": "‘……근데 이거, 잘못해서 역효과 나면 진짜 대환장 파티 시작인데.’"
+    },
+    {
+      "confidence": 0.93,
+      "current": "*Shit. Right here?*",
+      "defect": "The draft both softens the profanity and renders 딱 여기네 as an unclear question about location rather than the realization that this is exactly the anticipated reaction.",
+      "id": "F09",
+      "rationale": "시벌 is a comic spelling of strong profanity, while 딱 여기네 expresses recognition that the expected event has arrived or this is exactly it.",
+      "replacement": "*Fuck, so this is it?*",
+      "severity": "major",
+      "source": "‘시벌, 딱 여기네?’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Snow-white fur fluttered in a breeze that had come from somewhere, and the blue-white eyes that had grown clearer and sharper looked exactly like someone from my memories.",
+      "defect": "Eyes cannot naturally look exactly like an entire person; the intended comparison is to that remembered person’s eyes.",
+      "id": "F10",
+      "rationale": "The source uses a natural metonymic comparison, but English requires “those of” to make the referent clear.",
+      "replacement": "Snow-white fur fluttered in a breeze that had come from somewhere, and the blue-white eyes, now clearer and more distinct, looked exactly like those of someone from my memories.",
+      "severity": "minor",
+      "source": "어디선가 불어온 바람에 눈처럼 새하얀 터럭이 흩날리고, 한층 맑고 또렷해진 청백색의 눈동자는 기억 속 누군가를 쏙 닮아 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - [Pond of Life] purifies all evil and impure energy.\n>\n> - The [demonic qi] that had seeped into the [Corrupted Divine Artifact] has completely disappeared!\n>\n> - Mission: Dispose of [Corrupted Divine Artifact] (Complete)\n>\n> - You have successfully completed the Quest, [Corrupted Divine Artifact]!\n>\n> - You have obtained a vast amount of EXP and Fame as a Quest completion Reward!\n>\n> - Level Up!\n>\n> - Level Up!\n>\n> - You have accomplished an unbelievable achievement!\n>\n> …\n>\n> …\n>\n> …",
+      "defect": "The System window incorrectly retains square brackets around UI terms and the Quest title.",
+      "id": "F11",
+      "rationale": "The required System-panel format uses the blockquote frame and System heading in place of square brackets around notices, titles, items, and locations.",
+      "replacement": "> **System**\n>\n> - Pond of Life purifies all evil and impure energy.\n>\n> - The demonic qi that had seeped into the Corrupted Divine Artifact has completely disappeared!\n>\n> - Mission: Dispose of Corrupted Divine Artifact (Complete)\n>\n> - You have successfully completed the Quest, Corrupted Divine Artifact!\n>\n> - You have obtained a vast amount of EXP and Fame as a Quest completion Reward!\n>\n> - Level Up!\n>\n> - Level Up!\n>\n> - You have accomplished an unbelievable achievement!\n>\n> …\n>\n> …\n>\n> …",
+      "severity": "minor",
+      "source": "- [생명의 연못]은 악하고 불순한 모든 기운을 정화합니다.\n\n- [타락한 신물]에 스며 있던 [마기]가 완전히 사라집니다!\n\n- 임무 : [타락한 신물] 처분 (완료)\n\n- 퀘스트, [타락한 신물]을 성공적으로 완료했습니다!\n\n- 퀘스트 완료 보상으로 막대한 경험치와 명성을 획득했습니다!\n\n- 레벨 업!\n\n- 레벨 업!\n\n- 당신은 믿을 수 없는 업적을 달성했습니다!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - The energy contained within the [Pond of Life] becomes rain and seeps into every corner of this land.\n>\n> - The earth will become even more fertile, the plants will remain evergreen, and the wounded will be healed.\n>\n> - The [Pond of Life] has lost all its energy and dried up. But do not worry. Time possesses the power to change many things.\n>\n> - The [Sacred Stone] will continue to exist in this land, just as it has until now. Together with a new [guardian spirit].",
+      "defect": "The second System window also incorrectly retains square brackets around UI terms.",
+      "id": "F12",
+      "rationale": "Square brackets must be removed from terms inside an actual System-message panel because the framed blockquote already identifies the UI.",
+      "replacement": "> **System**\n>\n> - The energy contained within the Pond of Life becomes rain and seeps into every corner of this land.\n>\n> - The earth will become even more fertile, the plants will remain evergreen, and the wounded will be healed.\n>\n> - The Pond of Life has lost all its energy and dried up. But do not worry. Time possesses the power to change many things.\n>\n> - The Sacred Stone will continue to exist in this land, just as it has until now. Together with a new guardian spirit.",
+      "severity": "minor",
+      "source": "- [생명의 연못]에 담긴 기운이 비가 되어 이 땅 곳곳에 스며듭니다.\n\n- 땅은 더욱더 비옥해지고, 초목은 늘 푸를 것이며, 상처 입은 이들은 치유될 것입니다.\n\n- [생명의 연못]이 모든 기운을 잃고 메말랐습니다. 하지만 걱정하지 마십시오. 시간에는 많은 것을 바꿀 수 있는 힘이 있습니다.\n\n- [신석]은 지금까지 그러했듯 이 땅에 존재할 것입니다. 새로운 [수호령]과 함께."
+    }
+  ],
+  "summary": "The draft contains one altered action, several changes to physical quantity or location, two historical-mechanism errors, losses of comic register, and System-panel formatting violations.",
+  "version": 1
+}

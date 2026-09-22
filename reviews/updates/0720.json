@@ -1,0 +1,97 @@
+{
+  "chapter": 720,
+  "files": {
+    "characters/Beast Miao King.md": "3ce8e3fa5aad7a503b28ff1585f38fe829381a2c1b6abe91e3195f4e4f0978ed",
+    "characters/Guardian Spirit.md": "97f008d18fdda8f7b8add4ac798a29cb387e5beadc8e05950d44bfe840a5faac",
+    "characters/Jeok Cheongang.md": "3c1ef006ee9d0a1fdfead4cf520b3b5fef1ca4529b56be8ad5cc96f280d31c18",
+    "characters/Muyaho.md": "ca551ef8bdf81e09a07a9a0daffa482720ad6c4410f0510df6959390ce43dc8d",
+    "characters/White Tiger.md": "c422ed70b389437660e133a5761b5dc1b23e499b52fef6e475143ebd54efdf94",
+    "characters/Yohi.md": "4dabe1abb8131965554ad97d987fc9e0817ef581bb8269194b45c05ce5fb9342",
+    "docs/CONTEXT.json": "1bd1c8c499d407d358ef5b85e1152ce84de89bcd8e0597352ee41f341bcdf7c0",
+    "docs/NAMES.md": "5471124723f1e27b4de9cf0fe8060b7f8a51fa29c674a8e84c34c4ec4fdae675",
+    "docs/STATE.md": "b756ad020e25474259ec5a908fc937c524189416d0a466b68442a0b3c1adef64",
+    "summaries/beats/0720.md": "7bc432e5fc08f9a64f0f85776bf67f9ec1204132b5b1e7304700bea3bd18c16e"
+  },
+  "update": {
+    "address_pairs": [],
+    "beat": {
+      "continuity": [
+        "The Quest [Corrupted Divine Artifact] is complete.",
+        "The Pond of Life completely purified the artifact's demonic qi and transformed it into a new sacred stone.",
+        "The Pond of Life released its remaining energy as rain before drying up.",
+        "The rain will soak Nanman for three days, enriching the soil, sustaining evergreen plants, and healing the wounded.",
+        "Muyaho is now the new guardian spirit of the Sacred Land.",
+        "The new sacred stone will remain in the land alongside the new guardian spirit.",
+        "Jeok Cheongang asked to take the new guardian spirit, but the Beast Miao King rejected the request."
+      ],
+      "plot": [
+        "Jin Taekyung discovers that the Sacred Land's Pond of Life can heal wounds and purify the demonic qi within the Corrupted Divine Artifact. Immersing the artifact in the pond purifies it, completes the Quest, and creates a new sacred stone while releasing the pond's remaining life energy as rain across Nanman. The pond dries up, and Muyaho becomes the new guardian spirit alongside the sacred stone."
+      ],
+      "translation_decisions": [
+        "Render 생명의 연못 as Pond of Life.",
+        "Render 타락한 신석 as Corrupted Sacred Stone, distinct from 타락한 신물, Corrupted Divine Artifact.",
+        "Treat Muyaho as the new guardian spirit after the purification."
+      ]
+    },
+    "chapter": 720,
+    "context": {
+      "active_continuity": [
+        "The Sacred Land is distinct from the Poisonblood Grounds and is Nanman's life-filled heart.",
+        "The Sacred Land's Pond of Life heals living bodies and purifies evil or impure energy.",
+        "Jin Taekyung completed Quest [Corrupted Divine Artifact] by immersing the corrupted sacred stone in the Pond of Life.",
+        "The artifact's demonic qi was completely purified, and the artifact became a new sacred stone.",
+        "The Pond of Life released its remaining life energy as rain across Nanman and then dried up.",
+        "The rain will soak Nanman for three days, enriching the soil, sustaining evergreen plants, and healing the wounded.",
+        "The new sacred stone will remain in Nanman with a new guardian spirit.",
+        "Muyaho is the new guardian spirit and is affectionate toward Jin Taekyung.",
+        "Jeok Cheongang wanted to take the new guardian spirit, but the Beast Miao King refused."
+      ],
+      "continuity_sources": [
+        720
+      ],
+      "open_questions": [
+        "How will Muyaho's new role as guardian spirit develop?",
+        "When will the Pond of Life recover its lost energy?"
+      ],
+      "safe_through": 720,
+      "temporary_decisions": [
+        "Render 생명의 연못 as Pond of Life.",
+        "Render 타락한 신석 as Corrupted Sacred Stone, distinct from 타락한 신물, Corrupted Divine Artifact.",
+        "Treat Muyaho as the new guardian spirit of the Sacred Land."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Pond of Life",
+        "korean": "생명의 연못",
+        "notes": "The healing and purifying pond within the Sacred Land."
+      },
+      {
+        "english": "Corrupted Sacred Stone",
+        "korean": "타락한 신석",
+        "notes": "The sacred stone after being corrupted by demonic qi."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Muyaho is Yayul Mok's enormous white tiger companion and a renowned Nanman spiritual creature.",
+        "path": "characters/Muyaho.md",
+        "replacement": "- **Role:** Muyaho is Yayul Mok's enormous white tiger companion, a renowned Nanman spiritual creature, and the new guardian spirit of the Sacred Land."
+      },
+      {
+        "current": "- **Role:** The White Tiger is the guardian spirit and protector of the land; after absorbing the sacred stone, it entered the rift to seal it despite the risk of corruption and death.",
+        "path": "characters/White Tiger.md",
+        "replacement": "- **Role:** The White Tiger was the guardian spirit and protector of the land; after absorbing the sacred stone, it entered the rift to seal it, became corrupted, and was killed."
+      },
+      {
+        "current": "- **Relationships:** The White Tiger shared a roughly three-hundred-year friendship with Yayul Cheon, once refused his request for aid, and now trusts Jin Taekyung and Jeok Cheongang to kill it if the rift corrupts it.",
+        "path": "characters/White Tiger.md",
+        "replacement": "- **Relationships:** The White Tiger shared a roughly three-hundred-year friendship with Yayul Cheon and entrusted Jin Taekyung and Jeok Cheongang with killing it if corruption overcame it."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
