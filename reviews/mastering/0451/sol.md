@@ -26,7 +26,7 @@ I deliberately hardened my expression.
 
 He was annoyingly sharp.
 
-Martial arts were his minor, while eating and shitting were his major. He had to know the location of every privy on the island.
+Martial arts were his minor, while eating and shitting were his major. He must have memorized the location of every privy on the island.
 
 After a moment’s hesitation, I answered.
 
@@ -44,7 +44,7 @@ Only then did Gung Gibang and Hyuk Mujin realize something was off. They stopped
 
 Normally, they would have backed down the moment I said something like that. But after being thoroughly conditioned by my violence, the two of them had grown considerably.
 
-“Hmm. If this were our usual Captain, his hands would have moved before his words. But he’s trying to talk his way out of it? There’s definitely something going on.”
+“Hmm. Normally, the Captain’s hands would move before his mouth. But now he’s trying to talk his way out of it? There’s definitely something going on.”
 
 “Right?”
 
@@ -88,7 +88,7 @@ I stopped myself.
 
 “Forget it. What would you two know?”
 
-Cheongpung had at least finally noticed what was going on and kept his mouth shut like a mute with honey in it…
+Cheongpung had at least finally caught on and fallen silent as if he’d swallowed honey…
 
 No, now that I looked closer, he really was stuffing candy into his mouth.
 
@@ -154,13 +154,13 @@ I corrected myself at the speed of light.
 
 “It appears so, sir.”
 
-“So it is not certain yet.”
+“So you are not certain yet.”
 
 “There is always some possibility of error. But although we haven’t found the formation, I’m convinced Dark Heaven was responsible.”
 
 “Dark Heaven. Dark Heaven…”
 
-Mungyeong muttered the words under his breath, then suddenly raised his head.
+Mungyeong murmured the words, then raised his head.
 
 He silently gazed at the dark night sky, where even the full moon had hidden itself. After a moment, he abruptly asked, “Did you notice anything strange about the corpses?”
 
@@ -226,7 +226,7 @@ But they had not erased everything.
 
 “Yes. Those who hadn’t learned martial arts weren’t cut apart. They were crushed.”
 
-Unlike the corpses of the river bandits, the bodies of the children, women, and elderly had not been severed. Their entire bodies had simply been crushed and pulverized.
+Unlike the river bandits’ corpses, the bodies of the children, women, and elderly had not been severed. Their entire bodies had simply been crushed and mangled.
 
 And there was one more thing.
 
@@ -236,7 +236,7 @@ And there was one more thing.
 
 “There’s no one here, remember?”
 
-“…I was just talking to myself.”
+“…I was talking to myself.”
 
 He was awfully sensitive about this.
 
@@ -264,9 +264,9 @@ I glanced at Mungyeong, silently asking for an answer. A faint crease appeared o
 
 “Three Supreme Peak masters…”
 
-“Based on my guess, they are even more formidable than the Qilian Three Fiends we faced in Sichuan. At least one of them uses an unusual weapon.”
+“I would estimate that they are at least as formidable as the Qilian Three Fiends we faced in Sichuan. And at least one of them uses an unusual weapon.”
 
-*For fuck’s sake. This isn’t some five-star establishment. Why are there three Supreme Peak masters?*
+*Fuck. What was this, some five-star rating? Why the hell were there three Supreme Peak masters together?*
 
 It was only because Mungyeong and Jeok Cheongang were holding down the fort that I could afford to leave at all. Without them here, I would have been too worried about what might happen to go anywhere.
 
@@ -306,13 +306,11 @@ A dry voice emerged from between Mungyeong’s lips.
 
 The eccentric master who had never left the area around Dongting Lake in his entire life.
 
-Unusually, he used a fishing rod made of black wood as his signature weapon. He was a Supreme Peak master who had crossed Tianling Falls and disappeared after becoming enraged by the tragic news concerning his friend, the head of the Sea Serpent Society.
+A Supreme Peak master who, unusually, used a fishing rod made of black wood as his signature weapon. Enraged by the tragic news concerning his friend, the head of the Sea Serpent Society, he had crossed Tianling Falls and disappeared.
 
 *Everything fits perfectly.*
 
-I had forgotten for a moment.
-
-I had forgotten about his existence.
+I had forgotten about him for a moment.
 
 This was no baseless suspicion.
 
@@ -320,10 +318,10 @@ Unlike the others, the Dongting Fisherman’s corpse had never been found. The o
 
 It was only a guess, but what if the Dongting Fisherman really was a member of Dark Heaven?
 
-“But the Dongting Fisherman Zhuge Feng told me about had absolutely no reason to do something like this…”
+“But the Dongting Fisherman Great Hero Zhuge told me about had no reason to do anything like this…”
 
 “Everything has a reason. The Dongting Fisherman is only human. He must have had a shadow he showed no one. Zhuge Feng is likely suspicious of him by now as well.”
 
 Mungyeong turned away, his voice cold.
 
-“Always be suspicious, and stay alert. May martial fortune be with you.”
+“Question everything, and remain vigilant. May martial fortune be with you.”
