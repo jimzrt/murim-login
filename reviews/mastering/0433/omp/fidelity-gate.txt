@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is broadly faithful, with three minor wording shifts that add or alter source-level implications.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 71",
+      "current": "Then it came to light that his past corruption involving the military had led to incidents in which tanks broke down and helicopters crashed.",
+      "defect": "The source says that tanks stopped, not that they broke down. “Broke down” adds a specific mechanical-failure mechanism.",
+      "replacement": "Then it came to light that his past corruption involving the military had led to incidents in which tanks stopped and helicopters crashed.",
+      "rationale": "전차가 멈추고 states that the tanks stopped; it does not establish that they malfunctioned or broke down.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 54",
+      "current": "The staff were terrified by the colossal broadcasting disaster unfolding before them, while the nearby Hunters looked as if someone had finally said exactly what they were thinking.",
+      "defect": "The sentence adds that the Hunters had been thinking the same thing as the man. The source only gives them relieved or cathartic-looking expressions.",
+      "replacement": "The staff were terrified by the colossal broadcasting disaster unfolding before them, while the nearby Hunters wore expressions of relief.",
+      "rationale": "속 시원하다는 듯한 표정 establishes apparent relief or satisfaction, not that someone voiced their previously held thoughts.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 71",
+      "current": "Wow, you really don’t listen.",
+      "defect": "“Don’t listen” shifts the problem toward refusing to heed the speaker, whereas the source says the reporter cannot understand what is being said.",
+      "replacement": "Wow, you really don’t understand what I’m saying.",
+      "rationale": "말귀 더럽게 못 알아먹네 describes severe failure to comprehend spoken meaning, not mere inattention.",
+      "confidence": 0.88
+    }
+  ]
+}

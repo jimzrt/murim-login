@@ -6,7 +6,7 @@ On a state-of-the-art hologram TV, a respectable-looking middle-aged news anchor
 
 As soon as he finished speaking, the screen changed.
 
-Amid ruins reduced to rubble and ash, a young reporter in protective gear faced the camera and began to speak.
+Amid ruins reduced to rubble and ash, a young reporter in protective gear faced the camera.
 
 “Large-scale recovery efforts are currently underway throughout Sichuan Province. Aid continues to arrive from countries around the world, but the scars left by the war are nothing short of horrific.”
 
@@ -18,9 +18,9 @@ The young reporter dispatched to cover the story was far from the only person th
 
 “Hup!”
 
-*Thud-thud-thud. Boom!*
+*Crack-crack-crack. Boom!*
 
-There were places that heavy machinery could not enter.
+Heavy machinery could not reach every part of the ruins.
 
 Burly Hunters lifted chunks of stone and concrete instead of weapons, while mages cast detection magic without rest in search of possible survivors.
 
@@ -32,7 +32,7 @@ Burly Hunters lifted chunks of stone and concrete instead of weapons, while mage
 
 Whenever a severely injured survivor was rescued, healers rushed in and showered them with potions and healing magic.
 
-When a child who had reached the brink of death finally drew a steady breath, the people around them exchanged deeply moved smiles.
+When a child who had hovered on the brink of death finally began breathing steadily, the people around them exchanged emotional smiles.
 
 But the joy lasted only a moment.
 
@@ -40,13 +40,13 @@ The reporter’s next words brought the cruel reality crashing back.
 
 “According to government authorities, the number of dead and injured identified so far has reached four million. Property damage amounts to 2.3 trillion yuan. This is the greatest loss suffered since the Great Cataclysm—dozens of times greater than the damage caused by the Great Sichuan Earthquake.”
 
-In barely a month, millions had died or been injured, and an astronomical amount of money had vanished.
+In barely a month, millions had been killed or injured, and an astronomical amount of money had vanished.
 
-Even more frightening was the fact that all of this was merely the damage tallied *so far*.
+Even more frightening was the fact that this was merely the damage calculated *so far*.
 
-Considering everything from the plunging stock market to the damage this incident had inflicted on various industries, China would suffer badly in the days ahead.
+Considering everything from the plunging stock market to the damage the incident had inflicted on numerous industries, China would be suffering the aftereffects for a long time to come.
 
-The Chinese people were consumed by grief and fury at the news, directing the arrows of a billion people’s anger in a single direction.
+The Chinese people were consumed by grief and fury, and the anger of a billion people turned in a single direction.
 
 The young reporter at the scene was no exception. His voice seethed with indignation as he continued.
 
@@ -58,19 +58,19 @@ The transcript of the Communist Party’s highest committee meeting, previously 
 
 One person stood out above all the rest.
 
-The star of the transcript was an old politician who had lost everything following the loss of his only son, Wu Heixing.
+The star of the transcript was an old politician who had lost everything after the death of his only son, Wu Heixing.
 
 “Committee Member Wu Xueming, Premier of the State Council and a member of the Central Politburo Standing Committee, has spent more than fifty years in politics. It has now been revealed that he committed countless acts of corruption while leading the Crown Prince Party, the country’s largest political faction.”
 
 Had the outcome been favorable, none of this would have happened.
 
-But the power of Zhonghua and the spirit of chivalry he had gone on about during the meeting at the beginning of the Small Cataclysm had sounded like nothing but bullshit even to those steeped in Zhonghua ideology. In the end, they had become the laughingstock of the entire world.
+But the power of Zhonghua and the spirit of chivalry he had prattled on about during the meeting at the beginning of the Small Cataclysm had sounded like bullshit even to those steeped in Zhonghua ideology. In the end, his words had made him a laughingstock around the world.
 
 Then it came to light that his past corruption involving the military had led to incidents in which tanks broke down and helicopters crashed. Wu Xueming found himself driven to the edge of a cliff.
 
 And Chairman Shao Yang, a seasoned politician, did not let the perfect opportunity slip by.
 
-“Committee Member Wu Xueming used his guanxi with prominent figures in the military, political, and business worlds to embezzle astronomical sums of money. We are currently investigating every circumstance connected to this incident.”
+“Committee Member Wu Xueming used his guanxi with prominent figures in the military, government, and business worlds to embezzle astronomical sums. We are thoroughly investigating every lead connected to this matter.”
 
 In truth, the large-scale purge had already begun.
 
@@ -128,7 +128,7 @@ At that moment, the cameraman watching the entire scene unfold at point-blank ra
 
 His employer, CCTV, was China’s largest broadcasting station and one of the five biggest in the world.
 
-And now, during the nine-o’clock evening news broadcast watched by tens of millions of people, someone was proposing a bet involving his balls.
+And now, on the live nine-o’clock evening news watched by tens of millions of people, someone had proposed a bet with his balls at stake.
 
 The young reporter was already begging the man with the expression of someone whose balls had been cut off.
 
@@ -136,7 +136,7 @@ The young reporter was already begging the man with the expression of someone wh
 
 “Hey, kid. Move while I’m asking nicely.”
 
-“This is a broadcast. So please watch your language…”
+“We’re live. So please watch your language…”
 
 “Wow, you really don’t listen. There’s a survivor underneath where you’re standing, so move.”
 
@@ -154,7 +154,7 @@ He strode over to a massive pile of concrete and placed a hand on it.
 
 There was no need to find anyone to help him.
 
-A chunk of concrete that had taken several Hunters to move flew like a pebble, while rock and ground split apart like cheesecake whenever the man’s hand blurred.
+Chunks of concrete that had taken several Hunters to move flew through the air like pebbles, while stone and ground split apart like cheesecake whenever the man’s hand blurred.
 
 *Papapapapak!*
 
@@ -206,7 +206,7 @@ Why?
 
 After the astonishing scene they had just witnessed, all thought of a *broadcasting disaster* vanished from their minds.
 
-Two other thoughts surfaced in its place.
+A different thought took its place.
 
 *No way. Could it be?*
 
@@ -222,11 +222,11 @@ His question spoke for everyone present.
 
 The man was so thoroughly covered in dust that they could barely make out his features.
 
-But what he had shown them in that brief moment had clearly reminded them of one person…
+But what he had shown them in those brief moments could only bring one person to mind…
 
 “No.”
 
-The answer came without even a breath’s hesitation. The cameraman asked again.
+The answer came without a moment’s hesitation. The cameraman blinked.
 
 “Y-You’re not?”
 
@@ -244,7 +244,7 @@ Just as the cameraman sighed, the young reporter suddenly spoke.
 
 “What do you think of the claim that Mr. Jin is descended from Chen Lin, the Ming Dynasty general who fought in the Imjin War?”[^1]
 
-At that moment, the man walking away spun around like lightning.
+The man spun around like lightning.
 
 “Why does everyone have to be someone’s descendant? Then, for fuck’s sake, is Asmodeus descended from Einstein? Even bullshit should make some kind of sense…”
 
@@ -266,7 +266,7 @@ The man—Jin Taekyung—looked at the people staring blankly at him and opened 
 
 “Please edit this out. And cut the part about the balls too.”
 
-The reporter, finally recovering from the shock, barely managed to squeeze out his voice.
+The reporter finally recovered from the shock and barely managed to squeeze out his answer.
 
 “It’s live, sir.”
 
@@ -280,11 +280,11 @@ Jin Taekyung nodded, his expression devastated, then asked again.
 
 “Then how much of that did you broadcast…?”
 
-“I’m sorry, but from the beginning to the end…”
+“I’m sorry, but… all of it.”
 
 “Any idea what the ratings are?”
 
-“I just checked the messages. They say we’ve broken through thirty percent.”
+“I just got a message. They say we’ve broken through thirty percent.”
 
 “Oh. I see.”
 
@@ -302,6 +302,6 @@ He was telling the truth.
 
 A formation of dozens of aircraft swept across the sky and landed on the vast expanse of freshly cleared ground.
 
-It was the aircraft formation that would take him back to Korea while he was briefly going to another world.
+It was the fleet that would carry him back to Korea while he spent a little time in another world.
 
 [^1]: The Imjin War was the Japanese invasion of Korea from 1592 to 1598. Chen Lin was a Ming Dynasty general who fought in the war.
