@@ -2102,3 +2102,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 성지 | **Sacred Land** | Former name of the Poisonblood Grounds when beasts ruled Ailao Mountain. |
 | 수호령 | **guardian spirit** | Ancient title for the Black Tiger. |
 | 신석 | **sacred stone** | Stone said to have existed alongside the Black Tiger's birth. |
+| 설악산 | **Seoraksan** | Korean mountain referenced in the comparison with the sacred stone's size. |
