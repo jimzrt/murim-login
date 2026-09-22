@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful. Two minor fidelity issues remain: one omitted involuntary reaction and one shift in the driver’s question.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 151",
+      "current": "I got goose bumps the moment the bus started moving.",
+      "defect": "The translation omits 나도 모르게, which establishes that the speaker got goose bumps involuntarily or without realizing it.",
+      "replacement": "The moment the bus started moving, I got goose bumps without even realizing it.",
+      "rationale": "The Korean explicitly says the reaction happened without the speaker realizing it; this is a small but intentional emotional beat.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 265",
+      "current": "Could we head straight to the next destination?",
+      "defect": "이대로 means proceeding as things stand or like this. “Head straight” instead implies traveling directly without a detour or stop, changing the question’s focus.",
+      "replacement": "Could we go to the next destination like this?",
+      "rationale": "The driver is being asked whether they can continue under the current changed circumstances, not specifically whether they can take a direct route.",
+      "confidence": 0.9
+    }
+  ]
+}

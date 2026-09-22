@@ -200,7 +200,7 @@ That was why his resolve hardened even further.
 
 Jin Taekyung had made it this far across a perilous field of thorns. He couldn’t allow his precious family and friends to walk the same path.
 
-Even if his feet became covered in blood and he collapsed from the pain, he would protect them from the threats drawing ever closer.
+Even if his feet were reduced to bloody tatters and he collapsed from the pain, he would protect them from the threats drawing ever closer.
 
 Sometimes they would join forces. And even if it meant sacrificing himself…
 
@@ -294,7 +294,7 @@ If anything, people seemed to compete to feed fresh wood and wind to the fading 
 
 The name Jin Taekyung was everywhere, and for someone still suffering from severe aftereffects, it was unbearable torment.
 
-—This morning, the United States’ S-rank Hunter Magic Johnson announced through his official social-media account that he is pursuing some kind of agreement with Peace Guild—
+—Earlier today, the United States’ S-rank Hunter Magic Johnson announced through his official social-media account that he is pursuing an unspecified agreement with Peace Guild—
 
 *Bang!*
 
