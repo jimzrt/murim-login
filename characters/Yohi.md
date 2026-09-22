@@ -1,9 +1,9 @@
 # Yohi (요희)
 
-- **Safe through:** Chapter 653
+- **Safe through:** Chapter 654
 - **Aliases:** None
 - **Role:** Yohi is the female great chieftain of the Yao people, one of Nanman's four great tribes.
 - **Personality:** Yohi's public presence is charismatic and captivating, drawing widespread admiration and affection.
 - **Voice:** Not established.
-- **Relationships:** Yohi leads the Yao people, seeks to unite Nanman's four great tribes under Yao leadership, and manipulates Heugung alongside Baeksang.
+- **Relationships:** Yohi leads the Yao people, seeks to unite Nanman's four great tribes under Yao leadership, manipulates Heugung alongside Baeksang, and has disappeared from the Inner Palace alongside Heugung after the assault on the Fire Dragon Pavilion.
 - **Sources:** Korean source and accepted translation, Chapter 629
