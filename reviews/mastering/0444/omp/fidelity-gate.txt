@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is largely faithful, with two minor fidelity defects: one dropped physical action and one added implication of suspicion.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 29-31",
+      "current": "The slender young man wore robes so white they were almost blinding.",
+      "defect": "The source explicitly says the young man opened his mouth before speaking. The assembled English drops that physical action.",
+      "replacement": "The slender young man, dressed in robes so white they were almost blinding, opened his mouth.",
+      "rationale": "The opening-mouth action is a small but explicit narrative beat and was preserved in the accepted baseline.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 203-205",
+      "current": "the more that suspicion deepened.",
+      "defect": "“Suspicion” adds an implication that the narrator suspects wrongdoing. The Korean says only that his question or uncertainty grew deeper.",
+      "replacement": "the deeper the mystery grew.",
+      "rationale": "의문 denotes a question, doubt, or mystery here; it does not establish suspicion specifically.",
+      "confidence": 0.9
+    }
+  ]
+}

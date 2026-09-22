@@ -6,19 +6,19 @@ It was a famous family bound to appear at least once in every modern wuxia novel
 
 Not a single character with the surname Zhuge was ever stupid, and none of them were conspicuously strong, either.
 
-They were supposedly one of Murim’s great families, yet martial arts seemed more like their minor than their major.
+They were supposedly one of Murim’s great families, yet martial arts always seemed more like their minor than their major.
 
 That made sense. The Zhuge Clan’s true strength came not from their bodies, but from their minds.
 
 They were a family of wise men versed in a broad range of scholarship, strategy, and mechanisms and formations.
 
-As a result, the world called them the Divine Mechanism Zhuge, and in Murim, they handled practically every role that required brains.
+As a result, the world called them the Divine Mechanism Zhuge, and in Murim, they handled practically every job that required brains.
 
 If the strategist of the Murim Alliance in a novel you were reading didn’t have a name that began with Zhuge, it almost felt wrong.
 
 Perhaps that image of the Zhuge Clan had been lodged so firmly in my mind that seeing these martial artists stride toward us without hesitation felt strangely unfamiliar.
 
-But unfamiliarity wasn’t the only emotion I felt.
+But unfamiliarity wasn’t the only thing I felt.
 
 Clack-clack-clack-clack!
 
@@ -36,11 +36,11 @@ Delighted, I thrust a hand into the air and shouted.
 
 A heavy silence fell.
 
-The Zhuge Clan’s martial artists, who still had no idea who I was, looked at me as if I were some kind of madman. Jeok Cheongang looked at me with a hint of confusion.
+The Zhuge Clan’s martial artists, who still had no idea who I was, stared at me as if I were some kind of madman. Jeok Cheongang looked at me with a hint of confusion.
 
 “You know this fellow?”
 
-“Yes. I met him at the Star-Array Grand Banquet last time. But this is the first I’ve heard that he’s the Zhuge Clan’s Lesser Family Head.”
+“Yes. I met him at the Star-Array Grand Banquet. But this is the first I’ve heard that he’s the Zhuge Clan’s Lesser Family Head.”
 
 “Even someone like you has friends?”
 
@@ -50,7 +50,7 @@ The Zhuge Clan’s martial artists, who still had no idea who I was, looked at m
 
 One of the Three Idiots I had met at the Star-Array Grand Banquet—the Divine Marvel Dragon Zhuge Gyun—hurriedly cleared his throat and cut me off.
 
-Before I could say anything, he turned toward Jeok Cheongang and offered his greetings.
+Before I could say anything else, he turned toward Jeok Cheongang and offered his greetings.
 
 “Zhuge Gyun, a newcomer to Murim, pays his respects to Senior.”
 
@@ -74,15 +74,15 @@ I had seen Jeok Cheongang act this way so many times that I was used to it, but 
 
 Jin Wikyung swallowed hard, while the Zhuge Clan’s martial artists stood with their mouths hanging open, doubting their own ears.
 
-Of course, our Fire King Jeok Cheongang didn’t care about any of that. Ramming straight into things with blazing force was practically the Fire Gate Clan’s trademark.
+Of course, our Fire King Jeok Cheongang didn’t care about any of that. Charging straight ahead without a second thought was practically the Fire Gate Clan’s trademark.
 
 “Well? Why aren’t you answering?”
 
-His expression was unpleasant enough already, but when he actually frowned, he looked like a murderous demon.
+His usual expression was intimidating enough, but once he frowned, he looked like a murderous demon.
 
-Even Zhuge Gyun—a lunatic who was no slouch himself—was so flustered that he stammered.
+Even Zhuge Gyun—a lunatic of some standing himself—was so flustered that he stammered.
 
-“M-my great-grandfather.”
+“H-he was my great-grandfather.”
 
 “Is that so? No wonder you look a little like him. You look like you’ve got a decent head on your shoulders. Like you’ve got no manners, either.”
 
@@ -90,7 +90,7 @@ Even Zhuge Gyun—a lunatic who was no slouch himself—was so flustered that he
 
 Now that was imposing.
 
-Since Jeok Cheongang was a man from two generations ago who had lived well past a hundred, even the elders of most prestigious clans and sects couldn’t dare object when he called them, “Hey,” “you,” or “bastard.”
+Jeok Cheongang belonged to a generation long past and had lived well beyond a hundred. Even the senior elders of most prestigious clans and sects couldn’t dare object when he called them “hey,” “you,” or “bastard.”
 
 He chewed people up with martial arts and digested them with seniority. He was Murim’s very own Bodhidharma skull water.[^1]
 
@@ -102,7 +102,7 @@ As the atmosphere grew increasingly awkward, I gave Jeok Cheongang a light poke 
 
 “Even so, he passed away ten years ago…”
 
-“What do these greenhorns know? If this old man had died, Zhuge Gonghu would have done the same. He and I have been calling each other bastard for years.”
+“What would you greenhorns know? If this old man had died, Zhuge Gonghu would’ve done the same. He and I had been calling each other bastard for years.”
 
 “…”
 
@@ -114,13 +114,13 @@ While everyone flinched once again at his innovative choice of words, Jin Wikyun
 
 “Thank you for the Zhuge Clan’s hospitality.”
 
-A true professional was a true professional. At the Star-Array Grand Banquet, Zhuge Gyun had seemed like a man with a screw loose, but as the Lesser Family Head of his clan, he responded appropriately.
+A professional was a professional. At the Star-Array Grand Banquet, Zhuge Gyun had seemed like a man with a screw loose, but as the Lesser Family Head of his clan, he responded with perfect composure.
 
 “Think nothing of it. I hope your journey here was not too uncomfortable.”
 
 “If a person is comfortable in both body and mind, how can he call himself a martial artist—”
 
-“It was damn uncomfortable. How dare you make this old man come all the way here? I’ll hear the reason, and if it’s nothing important, then a Flame Divine Palm will…”
+“It was damn uncomfortable. How dare you make this old man come all the way here? I’ll hear the reason, and if it turns out to be nothing important, I’ll hit you with the Flame Divine Palm and—”
 
 “Oh, seriously! I said that’s enough!”
 
@@ -128,11 +128,11 @@ A true professional was a true professional. At the Star-Array Grand Banquet, Zh
 
 While I tried to restrain Jeok Cheongang, who had suddenly flown off the handle, Jin Wikyung hurriedly continued.
 
-“I know this is rude, but let’s put the pointless conversation aside and hurry. Please, let’s hurry.”
+“I know this is rude, but let’s dispense with the pleasantries and get moving. Quickly, if you please.”
 
 “A wise decision. Zhuge Wuhou, who laid the foundations of our family, would have slapped his feather fan down and agreed.”
 
-The government troops and Zhuge Clan martial artists were the first to clear a path at the dramatic show of unity between the two Lesser Family Heads. The river bandits from the Water Dragon Stronghold who had joined our party followed behind them.
+At the dramatic show of unity between the two Lesser Family Heads, the government troops and Zhuge Clan martial artists immediately cleared a path. The river bandits from the Water Dragon Stronghold who had joined our party followed behind them.
 
 As we moved, I felt countless wary gazes following us and heard the whispers all around.
 
@@ -156,9 +156,9 @@ I looked around and only then noticed that someone was missing.
 
 When the hell had that bastard gotten over there?
 
-Cheongpung was standing in front of a street stall that had not yet been folded, stuffing himself with freshly steamed fish. He raised one hand high and shouted.
+Cheongpung was still at one of the stalls that hadn’t yet closed, stuffing himself with freshly steamed fish. He thrust a hand into the air and shouted.
 
-“I’ll finish eating and come!”
+“I’ll finish eating and catch up!”
 
 “Stop talking bullshit and get your ass over here!”
 
@@ -174,7 +174,7 @@ Even as it raced down the well-kept road and disappeared into the distance, the 
 
 Unlike Emei, Qingcheng, and the Tang Clan—the prestigious powers of Sichuan Province—which had established their bases on mountains or in remote areas, the Zhuge Clan occupied the heart of a broad thoroughfare.
 
-Just the people passing outside the carriage window numbered well over several hundred.
+Hundreds of people passed outside the carriage window.
 
 Their faces were deeply tanned, and whenever they spotted the carriage bearing the Zhuge Clan’s emblem, they bowed their heads.
 
@@ -200,11 +200,11 @@ Given the mood, I didn’t press him and turned toward the window.
 
 And the more time passed, the more that suspicion deepened.
 
-The government troops, who were usually so lax, had their eyes wide open as they checked people’s hopae at various points, while martial artists in ordinary clothes hid among the commoners.[^2]
+Government troops who were usually lax now stood with their eyes wide open, checking people’s hopae at various points, while martial artists disguised in ordinary clothes mingled among the commoners.[^2]
 
 The martial prowess I briefly sensed from them as we passed was far from low. Dark Heaven immediately came to mind, but Jeok Cheongang’s Sound Transmission cleared up the matter a moment later.
 
-*—They’re Zhuge Clan people. For some reason, they’re hiding their identities and even moving covertly.*
+*—They’re Zhuge Clan people. For some reason, they’re hiding their identities and even patrolling in secret.*
 
 *They’re going this far in what’s practically their own front yard?*
 
@@ -218,7 +218,7 @@ I suddenly remembered what had happened a few days earlier and asked,
 
 *—I did.*
 
-*—Didn’t you hear why we had to come to Hubei then? Something about Wudang or the Zhuge Clan?*
+*—Didn’t he tell you why we had to come to Hubei? Something about Wudang or the Zhuge Clan?*
 
 Jeok Cheongang’s brow furrowed slightly as he looked at me.
 
@@ -234,7 +234,7 @@ I wasn’t sure whether to call that cool or hotheaded.
 
 Shaking my head, I glanced at Mungyeong.
 
-The boy had been chatting with Hyuk Mujin with a bright smile, showing no sign of irritation. But then one of his eyebrows lifted slightly.
+The boy had been chatting brightly with Hyuk Mujin without showing the slightest hint of annoyance. Then one of his eyebrows rose.
 
 A private Sound Transmission reached my ears.
 
@@ -262,7 +262,7 @@ I began to grasp the extent of that wealth before we even passed through the Zhu
 
 “Why aren’t we getting out? Haven’t we arrived?”
 
-Zhuge Gyun answered with an expression that seemed to say he had no idea what I was talking about.
+Zhuge Gyun answered with an expression that said he had no idea what I was talking about.
 
 “Pardon? It would take quite a while to walk from here to the Inner Hall. We still have seven more gates to pass through, so just remain seated.”
 
@@ -278,13 +278,13 @@ Without the slightest change in expression, Zhuge Gyun answered in a solemn voic
 
 “…”
 
-“You need a comfortable environment to pass the civil-service examinations and advance in martial arts. When you’re hungry, you can’t think about anything. You only become anxious.”
+“You need a comfortable environment if you want to pass the civil-service examinations or make progress in martial arts. When you’re hungry, you can’t think about anything. You only grow anxious.”
 
 “Uh… right.”
 
 It wasn’t what I had expected, but when I thought about it, every one of his points made sense.
 
-After patiently explaining the importance of capital, Zhuge Gyun concluded his speech by saying that even his ancestor, Zhuge Wuhou, had been born with a silver spoon in his mouth.
+After calmly explaining the importance of capital, Zhuge Gyun concluded his speech by saying that even his ancestor, Zhuge Kongming, had been born with a gold spoon in his mouth.
 
 By then, the carriage had passed through all eight gates and was entering the Inner Hall.
 
