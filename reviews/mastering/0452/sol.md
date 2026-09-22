@@ -52,7 +52,7 @@ Boom, boom, boom!
 
 Cheongpung was about as far from normal as a person could get, but his skills were undeniable.
 
-Dozens of palm shadows infused with powerful internal energy struck through the air and lashed the surface of the water. The resulting thrust sent the fast ship vaulting over the whirlpool of Tianling Falls before landing on the other side.
+Dozens of palm shadows laden with powerful internal energy tore through the air and slammed into the water. The resulting thrust sent the swift ship vaulting over the whirlpools of Tianling Falls before crashing down on the other side.
 
 Boom! Splash!
 
@@ -110,7 +110,7 @@ Clack, clack, clack.
 
 A group appeared to the sound of perfectly synchronized footsteps and surrounded the ferry landing.
 
-I frowned as I stared at the unwelcome guests.
+I frowned at the unwelcome guests.
 
 *What is this now?*
 
@@ -146,7 +146,7 @@ As I stared at him in disbelief, Gung Gibang clicked his tongue and cut in.
 
 Gung Gibang glanced at my still-clenched fist and answered.
 
-“They aren’t an official sect, but they wield considerable influence in Hubei Province in various ways.”
+“They aren’t an official sect, but they wield considerable influence throughout Hubei Province.”
 
 “They look pretty pathetic for people with that kind of influence.”
 
@@ -154,7 +154,7 @@ I glanced at the martial artists standing in formation in the distance.
 
 They wore uniforms made of expensive Shu brocade and carried quality swords, but that was all.
 
-Most were Second or Third Rate swordsmen who fell short of First Rate. Perhaps they cared more about their appearance than their martial arts, because every one of them was well built and handsome.
+Most were second- or third-rate swordsmen who didn’t even qualify as first-rate. Perhaps they cared more about their appearance than their martial arts, because every one of them was well built and handsome.
 
 *They’re even wearing makeup.*
 
@@ -178,7 +178,7 @@ While I was seriously pondering the question, the Zhuge Clan retainer spoke.
 
 “A social club?”
 
-“Yes. It was formed by the sons and daughters of influential people with varying degrees of power throughout Hubei Province. They are always running around together and causing all kinds of trouble, but they have such powerful backing that matters usually fizzle out without consequence.”
+“Yes. It was formed by the sons and daughters of influential people from across Hubei Province. They are always running around together and causing all kinds of trouble, but their powerful families protect them, so matters tend to fizzle out without consequence.”
 
 “Oh. A gold-spoon club.”
 
@@ -236,7 +236,7 @@ Meanwhile, the young men and women in the palanquins laughed as they watched the
 
 The sight made me shake my head.
 
-The rich kids scattering money and enjoying the people’s reactions as if they were watching a circus looked pathetic. The sight of the commoners fighting tooth and nail for a single silver nyang left a bitter taste in my mouth and made me feel sorry for them.
+Those gold-spoon brats looked pathetic, scattering money and enjoying the commoners’ reactions as though they were watching a circus. The sight of the commoners fighting tooth and nail over a single silver nyang left a bitter taste in my mouth.
 
 But it had nothing to do with me.
 
@@ -264,9 +264,9 @@ Whoosh, whoosh-whoosh!
 
 “My silver!”
 
-One person was darting through the crowd with ghostlike movements, snatching silver nyang out of the air.
+Someone was darting through the crowd with ghostlike footwork, snatching silver nyang out of the air.
 
-No. Not one person.
+No. Not someone.
 
 One fucking beggar.
 
@@ -288,7 +288,7 @@ Whoosh! Rat-a-tat-tat!
 
 Hyuk Mujin kicked off the ground and soared into the air, swinging his sword. The silver nyang caught in its powerful, fluid arc popped into the air, then showered down onto the flat of his blade.
 
-Hyuk Mujin’s face lit up when he checked the silver.
+Hyuk Mujin’s face lit up as he counted the silver.
 
 “Wow! Ten silver nyang!”
 
@@ -296,7 +296,7 @@ Hyuk Mujin’s face lit up when he checked the silver.
 
 That bastard had ten hits coming. Guaranteed.
 
-I swallowed the curses rising to my throat and searched for the last remaining person.
+I swallowed the curses rising in my throat and searched for the last remaining person.
 
 *Where is that Cheongpung bastard?*
 

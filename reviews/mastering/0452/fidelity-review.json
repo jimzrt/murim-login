@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "But I had no time to worry about another sect’s reputation. The Jin Family of Taiyuan’s own dark horse was no less impressive.",
+      "defect": "The transition changes the narrator’s reasoning from dismissing concern for another sect’s disgrace because his own side is equally embarrassing to a claim of temporal urgency. The source establishes a comparison and joke logic, not that he lacks time.",
+      "id": "F01",
+      "rationale": "아무리 거지라지만 저렇게까지 본분에 충실할 수가 있나. 하지만 남의 문파 망신을 신경쓰기에는 우리 태원진가의 다크호스도 만만치 않았다 means that although Gung Gibang is a beggar, there is little reason to focus on another sect’s disgrace when the Jin Family’s own dark horse is no less remarkable. It does not introduce a time constraint.",
+      "replacement": "But there was little point in worrying about another sect’s reputation when the Jin Family of Taiyuan’s own dark horse was no less impressive.",
+      "severity": "minor",
+      "source": "Lines 279–280 / P142"
+    }
+  ],
+  "summary": "Mostly faithful, with one source-fidelity defect in the transition to Hyuk Mujin’s money-grabbing gag.",
+  "version": 1
+}
