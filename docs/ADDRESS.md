@@ -1143,3 +1143,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 호위장 | 백상 | Captain of the Guards to Palace Lord | my lord | formal and deferential | The Captain reports the wildfire and missing chieftains while questioning Baeksang's orders. |
 | 백상 | 대장로 | Palace Lord to Miao Head Elder | Head Elder | cold, coercive, and formal | Baeksang offers the Head Elder a final chance to submit before ordering his imprisonment. |
 | 대장로 | 백상 | Miao Head Elder to usurping Palace Lord | Baeksang / you bastard | furious and defiant | The Head Elder condemns Baeksang's betrayal and refuses to abandon Yayul Cheok. |
+| 요희 | 무야호 | human ally to intelligent spiritual beast | you | casual and familiar | Yohi asks Muyaho whether it wants her to ride on its back. |
