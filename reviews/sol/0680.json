@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Let the twin wheels cut off my head and become a Dullahan candidate, or finish off the Black Hand and let him live while I survived as well.",
+      "defect": "The two alternatives are reversed and conflated. Finishing off the Black Hand Fist Demon belongs with sacrificing Jin’s life, while letting the enemy go belongs with Jin surviving; the draft instead says Jin could finish him off and let him live.",
+      "id": "F01",
+      "rationale": "The source explicitly contrasts killing the Black Hand Fist Demon despite being decapitated with abandoning that attack so Jin can survive.",
+      "replacement": "Either finish off the Black Hand Fist Demon at the cost of letting the twin wheels take my head and turn me into a Dullahan candidate, or let him go and save my own life.",
+      "severity": "critical",
+      "source": "쌍륜에 목이 잘려 듀라한(Dullahan) 후보생이 되는 대신 흑수권마를 끝장내거나, 놈을 놓아주고 나도 살거나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You wretched—!”",
+      "defect": "The draft reduces an explicit threat that even tearing Jin to death would not satisfy the speaker to a generic insult, substantially weakening Black Hand’s rage and violent register.",
+      "id": "F02",
+      "rationale": "찢어 죽여도 시원치 않을 expresses that even ripping the target apart and killing him would not be satisfying enough.",
+      "replacement": "“You—tearing you limb from limb wouldn’t be enough…!”",
+      "severity": "major",
+      "source": "“이 찢어 죽여도 시원치 않을……!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "A full-bodied, heartfelt insult involving his parents.",
+      "defect": "“Full-bodied, heartfelt” misreads the baseball metaphor and makes 회심 sound sincere. The joke describes a devastating parent insult delivered like a perfectly placed inside pitch.",
+      "id": "F03",
+      "rationale": "몸 쪽 꽉 찬 evokes a pitch placed tight on the batter’s inside side, while 회심 marks it as a confidently landed blow rather than a heartfelt remark.",
+      "replacement": "A killer parent insult, right on the inside corner.",
+      "severity": "minor",
+      "source": "몸 쪽 꽉 찬 회심의 패드립."
+    },
+    {
+      "confidence": 0.95,
+      "current": "They raised their child with everything they had, and now he will not even come to visit.",
+      "defect": "The draft flattens the coarse euphemistic complaint 뭐 빠지게 into the neutral phrase “with everything they had,” losing Jin’s deliberately vulgar, needling register.",
+      "id": "F04",
+      "rationale": "뭐 빠지게 is a coarse euphemism for doing something with punishing effort; “worked themselves half to death” preserves its force without making the euphemism more anatomically explicit.",
+      "replacement": "They worked themselves half to death raising you, and now you won’t even visit.",
+      "severity": "minor",
+      "source": "자식이랍시고 뭐 빠지게 키워 놨더니 찾아오지도 않고."
+    },
+    {
+      "confidence": 0.93,
+      "current": "So were the Black Hand Fist Demon and the White Tiger, charging toward each other from behind us.",
+      "defect": "The draft changes the tactical description by asserting that Black Hand and the White Tiger are charging toward each other and by collapsing their separate positions into a collective “behind us.” The source says they are charging in from behind each of the two palm-striking combatants.",
+      "id": "F05",
+      "rationale": "서로의 등 뒤에서 distributes the two approaching figures behind the respective opponents; it does not explicitly make Black Hand and the White Tiger each other’s targets.",
+      "replacement": "So were the Black Hand Fist Demon and the White Tiger, each charging in from behind one of us.",
+      "severity": "major",
+      "source": "서로의 등 뒤에서 달려오는 흑수권마와 백호도 마찬가지다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No matter who I was, I could not overcome the four words *force majeure*.",
+      "defect": "불가항력 is four written characters, not four words, and “No matter who I was” is less direct than the emphatic “even someone like me.”",
+      "id": "F06",
+      "rationale": "네 글자 refers to the four characters 不可抗力, while 제아무리 나라 하더라도 emphasizes that even Jin cannot overcome an irresistible force.",
+      "replacement": "Even someone like me couldn’t overcome the verdict contained in those four characters: *force majeure*.",
+      "severity": "minor",
+      "source": "제아무리 나라 하더라도 불가항력(不可抗力)이라는 네 글자는 극복하지 못한다."
+    }
+  ],
+  "summary": "One critical reversal in Jin’s stated choices, plus losses in violent register, humor, euphemistic force, and combat positioning.",
+  "version": 1
+}
