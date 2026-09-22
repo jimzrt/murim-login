@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Jeok Cheongang had slapped himself across the ear with all his strength. He blinked at me, then opened his mouth with a solemn expression.",
+      "defect": "“Slapped himself across the ear” is an unnatural literalization of 귀싸대기 and misstates the target of the slap.",
+      "id": "F01",
+      "rationale": "귀싸대기를 날리다 means to deliver a slap across the side of the face, not to slap the ear itself.",
+      "replacement": "Jeok Cheongang had slapped himself across the face with all his strength. He blinked at me, then opened his mouth with a solemn expression.",
+      "severity": "minor",
+      "source": "온 힘을 다해 셀프 귀싸대기를 날린 적천강이 눈을 깜빡이며 나를 바라보더니, 침중한 표정으로 입을 열었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I had kept the System hidden with absolute care until now, but there was no way to deny it anymore. I had been found out beyond any possibility of explanation.",
+      "defect": "The second sentence changes being incontrovertibly caught into being impossible to explain. The source says he has no room to deny or escape what Jeok witnessed, not that explanation itself is impossible.",
+      "id": "F02",
+      "rationale": "빼도 박도 못하게 발각당했다 emphasizes being conclusively exposed and unable to wriggle out of it.",
+      "replacement": "I had kept the System completely hidden until now, but now I’d been caught red-handed with no way to deny it.",
+      "severity": "major",
+      "source": "지금까지 시스템에 관해서는 철저하게 숨겨 왔는데, 이제는 빼도 박도 못하게 발각당했으니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“But why did the conversation turn this way? I’m the one who needs to explain myself.”",
+      "defect": "The direction of the explanation is reversed. Jeok says that he is the one who needs an explanation from Taekyung, not that he must explain himself.",
+      "id": "F03",
+      "rationale": "설명이 필요한 건 노부 means that this old man requires an explanation.",
+      "replacement": "“But why did the conversation turn this way? I’m the one who needs an explanation.”",
+      "severity": "critical",
+      "source": "“한데, 왜 이야기가 이쪽으로 빠진 거냐? 설명이 필요한 건 되레 노부이거늘.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Perhaps he had finally remembered what he had looked like a moment ago. Jeok Cheongang grumbled and wheezed as he grabbed my hand and helped me to my feet.",
+      "defect": "“Grumbled and wheezed” adds speech and suggests respiratory distress. 씨근덕거리다 describes huffing or breathing heavily in irritation.",
+      "id": "F04",
+      "rationale": "The source conveys embarrassed irritation through his huffing while he nevertheless helps Taekyung up.",
+      "replacement": "Perhaps he had finally remembered how he had acted a moment ago. Still huffing, Jeok Cheongang took my hand and helped me to my feet.",
+      "severity": "minor",
+      "source": "이제야 조금 전 자신의 모습이 생각났는지, 씨근덕거리면서도 손을 붙잡아 일으켜 세워 주는 적천강이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "That meant the Nanman warriors who had numbered over a thousand, along with the three hundred warriors of the Baekcheon Unit, had all been buried here.",
+      "defect": "The added “all” asserts that every member of both forces died, contradicting the roughly thirty surviving Level windows just identified. The source does not add that absolute quantifier.",
+      "id": "F05",
+      "rationale": "The sentence mourns the forces that left their bones on the battlefield without explicitly converting their full original headcounts into a total death count.",
+      "replacement": "That meant the Nanman warriors, once nearly a thousand strong, and the three hundred members of the Baekcheon Unit had fallen here.",
+      "severity": "critical",
+      "source": "일천을 헤아리던 남만 전사들도, 삼백 명의 백천대도 이 자리에 뼈를 묻었다는 뜻이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Their breaths came thinly through their noses.",
+      "defect": "The translation changes the singular subject—the collapsed giant identified immediately afterward—into an unspecified plural group.",
+      "id": "F06",
+      "rationale": "숨 and the surrounding description refer to the single kneeling giant, the Beast Miao King.",
+      "replacement": "His breath came faintly through his nose.",
+      "severity": "critical",
+      "source": "코끝에서 흘러나오는 숨이 가늘다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Southern Heaven Demon Empress’s attack, launched with her life on the line, had been that terrifying.",
+      "defect": "The established rendering of 일격 is missing.",
+      "id": "F07",
+      "rationale": "The binding terminology ledger establishes 일격 as “One Strike.”",
+      "replacement": "The Southern Heaven Demon Empress’s One Strike, delivered with her very life on the line, had been that terrifying.",
+      "severity": "minor",
+      "source": "목숨마저 내걸었던 남천마후의 일격은 그만큼 무시무시했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "On top of that, the Beast Miao King had lost consciousness from the massive Internal Injuries he had suffered while protecting me. His condition was utterly wretched.",
+      "defect": "The prose capitalizes and pluralizes “Internal Injuries” as though it were a displayed System condition, although this is ordinary narration.",
+      "id": "F08",
+      "rationale": "Here 내상 describes the cause of his unconsciousness in narration rather than presenting a formal System label.",
+      "replacement": "On top of that, the Beast Miao King had lost consciousness from the severe internal injuries he had suffered while protecting me. His condition was utterly wretched.",
+      "severity": "minor",
+      "source": "거기에 더해 나를 보호하는 과정에서 입은 막대한 내상으로 정신까지 잃은 야수묘왕의 상태는 처참하기 그지없었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……!”\n\nThe guardian spirit turned its head away from Jeok Cheongang, whose eyes had widened, and shifted its gaze toward me.",
+      "defect": "An entire telepathic statement is omitted. It reveals that the guardian spirit recognizes Jeok Cheongang’s essence from the imugi’s memories despite his changed appearance.",
+      "id": "F09",
+      "rationale": "The omitted line supplies the reason Jeok reacts in shock and establishes how the guardian spirit recognizes him.",
+      "replacement": "“……!”\n\n—You have lived a rather long time, old human. Though your face differs from the one I saw in the imugi’s memories, your essence has not changed.\n\nThe guardian spirit turned its head away from Jeok Cheongang, whose eyes had widened, and shifted its gaze toward me.",
+      "severity": "major",
+      "source": "- 제법 오랜 세월을 살았구나, 늙은 인간이여. 비록 이무기의 기억 속에서 보았던 얼굴과는 다르지만, 본질은 달라지지 않지.\n\n눈을 부릅뜬 적천강에게서 고개를 돌린 수호령의 시선이 나를 향해 옮겨진다."
+    }
+  ],
+  "summary": "The draft contains one reversed explanation relationship, an unsupported total-casualty claim, a changed subject, and an omitted telepathic revelation, alongside several localized fidelity and terminology issues.",
+  "version": 1
+}
