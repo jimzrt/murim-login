@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At my certain accusation, Song Ilseom, who had been sitting by the water, awkwardly looked around.",
+      "defect": "“At my certain accusation” is an unnatural English collocation and reads like a Korean syntax calque.",
+      "id": "C01",
+      "rationale": "The replacement preserves the action and tone while using natural contemporary English.",
+      "replacement": "Faced with my accusation, Song Ilseom, who had been sitting by the water, looked around awkwardly.",
+      "severity": "minor",
+      "source": "Chapter 616, Song Ilseom conversation by the water"
+    },
+    {
+      "confidence": 0.98,
+      "current": "For a martial artist who had reached a realm stage, it went without saying.",
+      "defect": "“Reached a realm stage” is generic cultivation-MTL phrasing and does not sound natural in the established commercial prose.",
+      "id": "C02",
+      "rationale": "This states the same observation directly without the stiff terminology or dangling implication.",
+      "replacement": "Any martial artist who had reached a certain level could spot them with ease.",
+      "severity": "minor",
+      "source": "Chapter 617, opening arrival of the Water Dragon Stronghold ships"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Sama Pyo and Song Ilseom devoted themselves to their own martial arts training after the first day without a single clash between them.",
+      "defect": "The placement of “after the first day” is ambiguous: it can modify either their training or the absence of clashes.",
+      "id": "C03",
+      "rationale": "The replacement makes both the timeline and their continued restraint immediately clear.",
+      "replacement": "From the second day onward, Sama Pyo and Song Ilseom devoted themselves to their own martial arts training without clashing even once.",
+      "severity": "minor",
+      "source": "Chapter 617, activities aboard the ship"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The group’s nearly thirty men and one woman were later found dead from deadly venom.",
+      "defect": "Chapter 619 describes nearly thirty people in total—one woman and the remaining members men—not nearly thirty men plus one woman.",
+      "id": "C04",
+      "rationale": "This removes the one-person headcount inflation and matches the chapter’s account.",
+      "replacement": "All members of the group—one woman and nearly thirty people in total—were later found dead after being poisoned with deadly venom.",
+      "severity": "minor",
+      "source": "Checkpoint Plot summary, Heavenly Demon Escort Bureau group"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Heavenly Demon Escort Bureau group came from Sichuan, consisted of one woman and nearly thirty men, and all members later died from deadly venom.",
+      "defect": "The summary turns the chapter’s nearly thirty total members into one woman plus nearly thirty men.",
+      "id": "C05",
+      "rationale": "The corrected wording preserves the revealed gender composition without overstating the total number.",
+      "replacement": "The Heavenly Demon Escort Bureau group came from Sichuan, consisted of nearly thirty people—one woman and the rest men—and all members later died from deadly venom.",
+      "severity": "minor",
+      "source": "Checkpoint Continuity summary, Heavenly Demon Escort Bureau group"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Heavenly Demon Escort Bureau group came from Sichuan, included one woman and nearly thirty men, and all of them later died from deadly venom.",
+      "defect": "The active state repeats the inflated headcount, which could propagate the error into later chapters and summaries.",
+      "id": "C06",
+      "rationale": "Correcting the durable state prevents the quantity drift from becoming future continuity.",
+      "replacement": "The Heavenly Demon Escort Bureau group came from Sichuan, included nearly thirty people—one woman and the rest men—and all of them later died from deadly venom.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity entry for the Heavenly Demon Escort Bureau group"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent in voice, terminology, hooks, and System formatting. Three minor prose calques remain, and the checkpoint summary and active state overstate the Heavenly Demon Escort Bureau group’s headcount by treating the nearly thirty people as nearly thirty men plus one woman.",
+  "version": 1
+}

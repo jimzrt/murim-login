@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“That would be difficult.”",
+      "defect": "The pronoun is ambiguous in English and can appear to reject going inside, whereas the following explanation establishes that Taekyung is rejecting the alternative of fighting the locals.",
+      "id": "F01",
+      "rationale": "Taekyung immediately explains that they cannot make all the natives of Nanman their enemies, fixing the referent of 그건 as fighting them.",
+      "replacement": "“Fighting them is out of the question.”",
+      "severity": "major",
+      "source": "“그건 곤란하지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I glanced at the group of foreigners radiating a murderous aura, then opened the door to the Poison Flower Pavilion.",
+      "defect": "Calling the group “foreigners” reverses their local status and blurs the ethnic distinction: they are the non-Han locals, while Taekyung's party are the outsiders.",
+      "id": "F02",
+      "rationale": "이민족 identifies the local ethnic peoples from the Han narrator's perspective, not foreigners within Yeongin.",
+      "replacement": "I glanced at the group of non-Han locals radiating a murderous aura, then opened the door to the Poison Flower Pavilion.",
+      "severity": "critical",
+      "source": "나는 살벌한 기세를 뿜어내는 이민족 무리를 힐끗 바라본 뒤 독화루의 문을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But when we checked later, we found that more than two hundred people had died that very night.",
+      "defect": "The draft changes an approximate quantity into a definite lower bound.",
+      "id": "F03",
+      "rationale": "이백여 명 means approximately or around two hundred people, not necessarily more than two hundred.",
+      "replacement": "But when we checked later, we found that some two hundred people had died that very night.",
+      "severity": "critical",
+      "source": "나중에 확인해 보니 그날 밤에만 자그마치 이백여 명이 죽었더군."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*If she really was the Southern Heaven Demon Empress, it wouldn’t be strange for her to have mastered a disguise technique of an extraordinary level.*",
+      "defect": "“If she really was” introduces doubt about Honglan's established identity as the Southern Heaven Demon Empress, which the source does not express here.",
+      "id": "F04",
+      "rationale": "남천마후라면 characterizes what someone of her identity and ability could plausibly do; it does not reopen the question of whether she is the Southern Heaven Demon Empress.",
+      "replacement": "*It wouldn’t be strange at all for the Southern Heaven Demon Empress to have mastered an extraordinary disguise technique.*",
+      "severity": "major",
+      "source": "‘남천마후라면 대단한 수준의 역용술(逆用術)을 익혔어도 전혀 이상하지 않지.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*If the Thousand-Faced Fox told me the truth, this should be the place.*",
+      "defect": "The draft adds suspicion that the Thousand-Faced Fox may have lied, rather than uncertainty about whether this dilapidated building matches the information he provided.",
+      "id": "F05",
+      "rationale": "알려 준 대로라면 means “if it is as he told me,” without specifically questioning his truthfulness.",
+      "replacement": "*If the Thousand-Faced Fox’s directions were right, this should be the place.*",
+      "severity": "minor",
+      "source": "‘천면호리가 알려 준 대로라면 여기가 맞긴 할 텐데.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was a name that suited Nanman, a land crawling with all kinds of venomous creatures.",
+      "defect": "The established rendering for 독물 is not used.",
+      "id": "F06",
+      "rationale": "The binding glossary specifies “venomous beasts” for 독물.",
+      "replacement": "It was a name that suited Nanman, a land crawling with all kinds of venomous beasts.",
+      "severity": "minor",
+      "source": "온갖 독물이 득실거리는 남만에 잘 어울리는 이름이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“There was one fellow here with enough energy to be stupid. Then I’ll prepare chicken.”",
+      "defect": "“Enough energy to be stupid” is an unnatural causal reading and weakens the joke about Taishan being absurdly energetic despite everyone else's exhaustion.",
+      "id": "F07",
+      "rationale": "무식할 만큼 modifies the degree of his vigor—so energetic that it is ridiculous—not stupidity caused by having energy.",
+      "replacement": "“So there’s one fellow here who’s absurdly full of energy. Then I’ll prepare chicken.”",
+      "severity": "minor",
+      "source": "“무식할 만큼 기운찬 놈이 하나 있었군. 그럼 닭고기를 준비해 주지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "If he’d been born in Yongsan some fifty years ago, he would have become a landlord.",
+      "defect": "The untranslated place-name leaves the real-estate joke opaque and lacks the useful first-occurrence explanation required for an unlisted cultural reference.",
+      "id": "F08",
+      "rationale": "The joke depends on Yongsan's dramatic rise in property values, not merely on it being an unspecified place.",
+      "replacement": "If he’d been born in Yongsan[^1] some fifty years ago, he would have become a landlord.\n\n[^1]: A central Seoul district where decades of development drove real-estate values sharply upward.",
+      "severity": "minor",
+      "source": "한 오십 년 전쯤 용산에서 태어났다면 건물주가 되었을 양반이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The old man’s reddish eyes slowly recalled what had happened that day.",
+      "defect": "The eyes are incorrectly made the grammatical subject performing the act of recollection.",
+      "id": "F09",
+      "rationale": "The old man recalls the memory; 불그스름하게 달아오른 눈빛 describes his intoxicated appearance.",
+      "replacement": "His eyes red from drink, the old man slowly recalled what had happened that day.",
+      "severity": "minor",
+      "source": "노인은 불그스름하게 달아오른 눈빛으로 그날의 기억을 천천히 회상했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“The Hidden Shadow Pavilion agent, who is already old beyond old age.”",
+      "defect": "“Old beyond old age” is unnatural English and blunts the old man's dry self-deprecating reveal.",
+      "id": "F10",
+      "rationale": "늙을 대로 늙은 emphatically means that he has grown as old as one can get; “old as dirt” preserves the colloquial, lightly humorous register.",
+      "replacement": "“The Hidden Shadow Pavilion agent, who’s already old as dirt.”",
+      "severity": "minor",
+      "source": "“이미 늙을 대로 늙은 은영각 요원도 마찬가지지.”"
+    }
+  ],
+  "summary": "Several semantic and register issues require correction, including an ambiguous action, misidentified locals, an altered quantity, and unwarranted uncertainty about the Southern Heaven Demon Empress.",
+  "version": 1
+}
