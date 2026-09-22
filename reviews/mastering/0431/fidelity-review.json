@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I had sensed someone secretly watching me as soon as I left the magic-circle site.",
+      "defect": "This omits that the narrator had just checked or examined the magic circle before coming out.",
+      "id": "F01",
+      "rationale": "확인하고 나온 직후 explicitly links the moment to checking the magic circle and then emerging; “left the magic-circle site” drops that action.",
+      "replacement": "I had sensed someone secretly watching me immediately after I came out from examining the magic circle.",
+      "severity": "minor",
+      "source": "Korean lines 33–35"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Three unconscious figures in black dropped out of thin air in the distance.",
+      "defect": "The assembled line omits the faint impact sounds accompanying the figures’ fall.",
+      "id": "F02",
+      "rationale": "미세한 타격음과 함께 adds a physical sound detail to the figures’ falling; the preceding “Thud-thud-thud!” renders the attack impact but does not fully preserve this stated accompaniment.",
+      "replacement": "Three unconscious figures in black dropped out of thin air in the distance, accompanied by faint impacts.",
+      "severity": "minor",
+      "source": "Korean lines 163–167"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Conspiracy theories claimed that humanity had never landed on the moon, or that countless famous figures recorded as dead were actually still alive. This was no different.",
+      "defect": "The sentence broadens the moon-landing example from humanity’s first trip to the moon into a claim that humanity had never landed there, and changes famous people recorded in history into people recorded as dead.",
+      "id": "F03",
+      "rationale": "인류가 처음 달에 간 것 refers specifically to humanity’s first moon trip, while 역사에 기록된 수많은 유명인사 means numerous famous figures recorded in history, not necessarily figures recorded as dead.",
+      "replacement": "The conspiracy theory that humanity’s first trip to the moon was a hoax, and the theories that countless famous figures recorded in history are still alive, followed the same pattern.",
+      "severity": "minor",
+      "source": "Korean lines 295–299"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but three minor source-fidelity details were lost or narrowed in the assembled copy.",
+  "version": 1
+}

@@ -1,14 +1,14 @@
 # Chapter 431
 
-“Vile human. Who is that human?”
+“Vile human. Who is that?”
 
-So there is one. A human with no sense of fear.
+So there was one after all—a human with no sense of fear.
 
 I muttered to myself and slowly looked around.
 
-The desolate outskirts were far from the center, abandoned by everyone. Even the light illuminating the city as brightly as day had yet to reach this place.
+We were deep in the deserted outskirts, far from the city center. Even the lights illuminating the city as brightly as day failed to reach this place.
 
-And from among the ruins, a single person came walking out, casting a shadow.
+A lone figure emerged from among the ruins, casting a long shadow.
 
 “We must be bound by fate somehow. We keep running into each other.”
 
@@ -22,11 +22,11 @@ His answer was as sharp as a blade.
 
 “Inevitability.”
 
-“Clear enough. So have you been following me around like a stray dog since earlier?”
+“Clear enough. Is that why you’ve been following me around like a stray dog?”
 
 “When did you notice?”
 
-“Since the Stone Age, you bastard. You stared at me so much that I thought you were going to bore holes in my face.”
+“Back in the Stone Age, you bastard. You were staring so hard, I thought you’d bore holes through my face.”
 
 I had sensed someone secretly watching me as soon as I left the magic-circle site.
 
@@ -78,7 +78,7 @@ The moment he heard Lee Jungryong’s name, Go Jun’s eyes shook violently. Wit
 
 Drip. Drip.
 
-Drops of blood fell from the fist he had clenched so tightly that it had turned white. Go Jun glared at me with eyes burning with rage.
+Blood fell from the fist he had clenched so tightly that his knuckles had gone white. Go Jun glared at me, his eyes blazing with rage.
 
 “There are only two people here—you and me. Tell me the truth with your own lips.”
 
@@ -102,7 +102,7 @@ Suspecting the truth and hearing it confirmed were two entirely different things
 
 Even if he had already guessed what happened, hearing the answer directly from his enemy’s mouth was another matter altogether.
 
-I drove the final nail into the coffin for Go Jun, whose body was trembling violently.
+I drove the point home as Go Jun’s body trembled.
 
 “What else was I supposed to do with bastards like that? I bought them both tickets to the United States. Uncle Jungryong even got first class.”
 
@@ -124,7 +124,7 @@ No—it had been crushed beneath the wave of qi pouring from me.
 
 The balance of power shifted in an instant, and I slowly stepped forward.
 
-“You’ve improved by leaps and bounds since the last time I saw you. If you think about it, you’re far better than Wu Heixing. Just what I’d expect from the Disciple Lee Jungryong trained at his side.”
+“You’ve improved by leaps and bounds since the last time I saw you. Come to think of it, you’re far better than Wu Heixing. Just what I’d expect from the Disciple Lee Jungryong kept by his side and trained himself.”
 
 Step.
 
@@ -134,7 +134,7 @@ Step.
 
 With each step I took, Go Jun’s face grew paler.
 
-The gap between our powers was overwhelming. A rabbit could not defeat a tiger. The moment he made even the slightest movement to draw his sword, my teeth would sink into his neck.
+The gap between our powers was overwhelming. A rabbit could never defeat a tiger. The instant he moved to draw his sword, my teeth would sink into his neck.
 
 “You should check where you’re lying down before you stretch out your legs. Why would you settle into your own grave?”
 
@@ -146,7 +146,7 @@ With a sharp crack, a stream of Finger Qi shot toward Go Jun, who stood frozen l
 
 Clang!
 
-It sent the sword strapped to his waist flying far into the distance.
+The sword strapped to his waist went flying into the distance.
 
 Go Jun’s rigid expression twisted, his eyes still wide. I let out a short laugh.
 
@@ -160,9 +160,9 @@ My hand shot out like lightning. Go Jun had no time to react.
 
 Bang!
 
-The three streams of Finger Qi I fired pierced somewhere beyond the thick darkness. A moment later—
+Three more streams of Finger Qi pierced the thick darkness. A moment later—
 
-Thud-thud-thud!
+Thud! Thud! Thud!
 
 Three unconscious figures in black dropped out of thin air in the distance.
 
@@ -172,13 +172,13 @@ They were all high-level Hunters trained in stealth and concealed by various kin
 
 Tap. Tap.
 
-Clicking my tongue, I tapped Go Jun on the cheek. A voice full of spite slipped between his clenched teeth.
+Clicking my tongue, I patted Go Jun on the cheek. A spiteful voice slipped through his clenched teeth.
 
 “Do you think you people will get away with this?”
 
 “You people?”
 
-“We—the Ares Guild—will not fall. We will definitely avenge that person’s death…”
+“We—the Ares Guild—will not fall. We will avenge his death…”
 
 Smack!
 
@@ -204,7 +204,7 @@ He staggered like a drunk, unable to keep his balance. I grabbed him by the thro
 
 “Ghk…!”
 
-A bloody foam burst out with his groan and splattered across my face. An unfamiliar man was reflected in his unfocused eyes, his expression numb as he continued speaking.
+Bloody foam burst from his mouth with the groan and splattered across my face. Reflected in his unfocused eyes, an unfamiliar man continued in a numb voice.
 
 “You started this, but I’ll be the one to finish it.”
 
@@ -226,17 +226,17 @@ I pressed Go Jun’s Mute Acupoint and muttered,
 
 “An eye for an eye. A tooth for a tooth.”
 
-I twisted both his arms and pulled with all my strength, as though wringing out laundry.
+I twisted both his arms like I was wringing out laundry, then pulled with all my strength.
 
 Crack-crack-crack!
 
 With a sickening tear of flesh, both arms came free from his body.
 
-An enormous amount of blood poured out, and the whites of his bulging eyes showed. A silent scream spilled from his mouth, its Mute Acupoint sealed.
+Blood gushed from the wounds, and his bulging eyes rolled back until only the whites showed. His Mute Acupoint kept the scream pouring from his mouth completely silent.
 
 “It’s not over yet.”
 
-I shoved my fingers into the ragged stumps of his arms. The Scorching Yang Qi in my hand seared his flesh, inflicting even greater pain. I pinned down his writhing body and grabbed him by the ankles.
+I drove my fingers into the ragged stumps of his arms. The Scorching Yang Qi coursing through my hands seared his flesh, inflicting even greater pain. I pinned down his writhing body and seized his ankles.
 
 “This won’t be enough for someone like you.”
 
@@ -254,7 +254,7 @@ Once the light returned to his fading eyes, I hammered my fist into his shattere
 
 Boom! Boom! Boom!
 
-By the time I finally stopped punching, what lay sprawled across the ground was no longer a human being but a large lump of meat.
+When I finally stopped, what lay sprawled across the ground was no longer a human being, but a large lump of meat.
 
 The faint breath leaking from his nose and mouth was the only proof that he remained alive.
 
@@ -282,7 +282,7 @@ And the fear that I could do the same thing to them anytime I wanted.
 
 I needed to plant all of that in my enemy’s heart and carve it into his bones.
 
-Of course, there was another option that would leave the fewest loose ends.
+Of course, there was another option that would leave far fewer loose ends.
 
 *Death.*
 
@@ -290,7 +290,7 @@ My fingertips twitched before I realized it.
 
 With just a little more force—only a tiny bit—I could kill Go Jun.
 
-It was the perfect opportunity to eliminate even the slightest possibility.
+This was the perfect opportunity to eliminate even the slightest possibility of future trouble.
 
 But…
 
@@ -342,7 +342,7 @@ I watched his wounds rapidly heal, then suddenly turned my head.
 
 At that moment, a layer of space peeled away, revealing a huge Black man. Magic Johnson regarded me with a complicated expression before speaking.
 
-“I think there’s a lot we need to talk about.”
+「I think we have a lot to talk about.」
 
 “I was thinking the same thing.”
 
@@ -350,4 +350,4 @@ As we spoke, the Skeleton King muttered quietly.
 
 “What about the club?”
 
-“That’s a gay bar, dumbass.”
+*That place is a gay bar, dumbass.*
