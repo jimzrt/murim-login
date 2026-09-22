@@ -2152,3 +2152,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 성경 | **Bible** | Proposed scripture containing Nanman's history and the word of God. |
 | 모신전 | **Mother Goddess Scripture** | New scripture recording the Earth Mother Goddess and Nanman's religious history. |
 | 대지모신의 사도 | **Apostle of the Earth Mother Goddess** | New Title granted to Jin Taekyung by the System. |
+| 신강 | **Xinjiang** | Region beyond Qinghai described as the domain of the Demonic Path. |

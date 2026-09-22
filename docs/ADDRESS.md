@@ -1178,3 +1178,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야수묘왕 | 적천강 | junior allied master to legendary senior martial master | Old Master Jeok | formal-deferential | The Beast Miao King respectfully addresses Jeok while asking him to sit and consulting him about the demonic stone. |
 | 적천강 | 야수묘왕 | senior allied martial master to Nanman Beast Palace Lord | you | blunt, commanding, and mocking | Jeok orders the Beast Miao King to stand aside and mocks his inability to destroy the corrupted artifact. |
 | 부족장 | 야수묘왕 | subordinate tribal chieftain to Nanman Beast Palace Lord | Palace Lord | urgent, deferential, and confrontational | The attending tribal chieftains repeatedly address the Beast Miao King as 궁주 while challenging or supporting the Earth Mother Goddess doctrine. |
+| 야수묘왕 | 야율목 | father_to_son | you | plain, familiar, and paternal | Questions Yayul Mok about the decision to go to the Central Plains. |

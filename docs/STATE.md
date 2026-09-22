@@ -1,29 +1,30 @@
 # Translation State
 
-- Last completed: 723
-- Next chapter: 724
-- Current block: 720–724 (4/5)
-- Latest translation: `translations/0723.md`
-- Latest summary: `summaries/beats/0723.md`
-- Safe profiles through: chapter 723
+- Last completed: 724
+- Next chapter: 725
+- Current block: 720–724 (5/5)
+- Latest translation: `translations/0724.md`
+- Latest summary: `summaries/beats/0724.md`
+- Safe profiles through: chapter 724
 
 ## Current Block
 
-- Under the Sacred Rain, Nanman rapidly restores the devastated Nanman Beast Palace and abolishes the Great Chieftain system, leaving the Palace Lord as its sole authority while retaining the Tribal Grand Council. Yohi is pardoned for helping evacuate the Outer Palace and becomes an early advocate of the reform. Yayul Mok gives Jin Taekyung the newly written Mother Goddess Scripture, which records Nanman's history around the Earth Mother Goddess, grants Jin the Title Apostle of the Earth Mother Goddess, and marks his Religious Reformation achievement. As Jin prepares to leave Nanman, Yayul Cheok gathers the Nanman people at the North Gate and formally petitions the Fire Dragon Pavilion Master to admit Nanman into the Murim Alliance.
+- Nanman remains unified after its reforms, and the Beast Miao King and Yayul Mok commit its forces to aid the Central Plains against Dark Heaven. As the Sacred Rain fades, the Beast Miao King memorializes his lost sworn brother, orders the war drums sounded, and leads Nanman's beasts and people into mobilization as the prelude to the Great War begins.
+- While traveling from Nanman, Jin Taekyung and his companions trade absurd banter before Jin reflects on their recovery, Nanman Beast Palace's formal admission to the Murim Alliance, and Dark Heaven's still-hidden full strength. He becomes increasingly uneasy about the Lord of Heaven's unusual interest in him, then receives a private request to talk from Jeok Cheongang.
 
 ## Open Questions
 
-- Will the Murim Alliance accept Yayul Cheok's petition for Nanman's admission?
-- How will the Mother Goddess Scripture shape Nanman's unified religious system?
-- How will Nanman's new political structure function after the Great Chieftain system is abolished?
-- What will happen to Nanman after the Sacred Rain ends?
+- Why is the Lord of Heaven interested in Jin Taekyung, and what does the Lord of Heaven intend?
+- Why has Dark Heaven withheld its full strength, and what is its larger plan?
+- How will the Great War unfold now that Nanman has joined the Murim Alliance?
+- What will happen to Nanman and the Sacred Rain after the rain ends?
 
 ## Exceptional Decision
 
-- Render 모신전 as Mother Goddess Scripture.
-- Render 대지모신의 사도 as Apostle of the Earth Mother Goddess.
-- Render 종교 개혁 as Religious Reformation.
-- Retain buff for 버프 in Jin Taekyung's narration.
+- Render 전고 as war drums.
+- Render 신강 as Xinjiang.
+- Retain God wills it! for 신께서 원하신다!.
+- Preserve the established Lord of Heaven rendering for 천주 and the chapter's profane comic banter.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
