@@ -1,31 +1,32 @@
 # Translation State
 
-- Last completed: 685
-- Next chapter: 686
-- Current block: 685–689 (1/5)
-- Latest translation: `translations/0685.md`
-- Latest summary: `summaries/beats/0685.md`
-- Safe profiles through: chapter 685
+- Last completed: 686
+- Next chapter: 687
+- Current block: 685–689 (2/5)
+- Latest translation: `translations/0686.md`
+- Latest summary: `summaries/beats/0686.md`
+- Safe profiles through: chapter 686
 
 ## Current Block
 
-- Jin Taekyung kills the Great Snow Fiend, identified by the System as Level 155 Hanbaek, by removing the spear from his own chest and driving it through the fiend's throat. The Great Snow Fiend dies reflecting on his life, his loyalty to Dark Heaven, and the fate he believed awaited him.
-- Jin collapses after the battle. The System awards him massive EXP and Fame but no level-up, leaving him critically injured and rapidly dying. He rejects death, summons the Water God Dragon's Origin Essence, and prepares to risk consuming its immense water qi despite its incompatibility with his Scorching Yang Qi.
-- Before Jin can swallow the Origin Essence, Muyaho returns with Heugung and Yohi. The Quest to find Yohi is completed, awarding additional EXP and Fame and triggering a level-up. Jin senses death receding and warmth surrounding him before losing consciousness beneath the night sky.
+- Jin Taekyung remains alive but falls into a deep sleep after defeating the unidentified old man and Black Hand Fist Demon, two Supreme Peak masters. Awed by his victory and sacrifice, Yohi resolves to expose Baeksang's conspiracy with Dark Heaven, abandon the Inner Palace, and travel west with Heugung and Jin to Boshan, where she can rally the Yao people and warn Nanman within seven days.
+- Heugung gives Yohi the Black Hand Fist Demon's antidote, carries Jin onto Muyaho, and prepares to leave the Poisonblood Grounds. When Yohi notices that Heugung has concealed more than his identity, he remarks that he had to hide himself first; blood then sprays and a massive silver body collapses, leaving the attack's target and Heugung's true nature unresolved.
 
 ## Open Questions
 
+- What did Heugung's final attack hit, and what hidden identity or allegiance was he concealing?
+- Did Muyaho survive the attack, and what is the condition of Jin, Yohi, and Heugung afterward?
+- Has Baeksang already seized the Inner Palace with Dark Heaven's support?
 - Will the Water God Dragon's Origin Essence save Jin or kill him because of its incompatibility with his Scorching Yang Qi?
-- What is the condition of Heugung and Yohi after returning with Muyaho?
-- What will happen to the Fire Dragon Armor while Jin is incapacitated?
+- Can Yohi rally enough Nanman warriors to challenge Baeksang before the conspiracy consolidates?
 
 ## Exceptional Decision
 
-- Render 한백 as Hanbaek and identify him as the Great Snow Fiend's personal name.
+- Render 보산 as Boshan.
+- Render 탈각 as molting.
+- Render 대계 as the grand plan.
+- Render 해약 as antidote.
 - Render 수신룡의 원정 as Water God Dragon's Origin Essence.
-- Render 광염 as light-flames.
-- Render 회광반조 as final rally.
-- Render 칠공 as seven apertures.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

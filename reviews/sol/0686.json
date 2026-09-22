@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Although their internal energy had been sealed for the time being, both men were martial artists who had reached the Peak realm.",
+      "defect": "Yohi and Heugung are the two martial artists, but “both men” incorrectly identifies Yohi as male.",
+      "id": "F01",
+      "rationale": "The source refers neutrally to the two people present, one of whom is Yohi, an established woman.",
+      "replacement": "Although their internal energy had been sealed for the time being, both of them were martial artists who had reached the Peak realm.",
+      "severity": "critical",
+      "source": "비록 지금은 공력이 금제당했다고는 해도 두 사람 역시 절정의 경지에 오른 무인이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "*It may already be too late, but even now…*\n\nThey had to expose the conspiracy connected to Baeksang and stop Dark Heaven.",
+      "defect": "The draft omits the entire molting metaphor, Yohi’s explicit choice to pursue renewal despite the risk of death, and her urgent resolve to inform everyone.",
+      "id": "F02",
+      "rationale": "The omitted passage supplies the central metaphor for Yohi’s attempted transformation and makes her subsequent decision an explicit, dangerous choice rather than an abrupt change of mind.",
+      "replacement": "*It may already be too late, but I have to act now.*\n\nAt certain times, some of Nanman’s venomous creatures shed their skins.\n\nThis process was known as molting.\n\nBut how could gaining a new body ever be easy? If the molting succeeded, the creature would gain a more beautiful and powerful body. If it failed, it would slowly die in its old, diseased one.\n\nYohi had chosen the former path.\n\n*If I delay any longer, it’ll all be over. I have to let everyone know about this somehow.*\n\nThey had to expose the conspiracy connected to Baeksang and stop Dark Heaven.",
+      "severity": "major",
+      "source": "‘이미 너무 늦었을지도 모르지만, 지금이라도.’\n\n남만의 어떤 독물은 특정한 시기마다 허물을 벗는다.\n\n이른바 탈각(脫殼)이라 불리는 행위가 그것이다.\n\n하지만 새로운 몸을 얻는 것이 어찌 쉬울 수 있을까. 탈각에 성공한다면 더욱 아름답고 강해진 몸을 얻을 수 있겠지만, 만약 실패한다면 늙고 병든 몸으로 서서히 죽어 간다.\n\n그리고 요희가 택한 길은 전자였다.\n\n‘더 지체한다면 전부 끝장이야. 어떻게든 이 사실을 사람들에게 알려야 해.’\n\n지금이라도 백상과 관련된 흉계를 밝히고 암천을 저지해야 한다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "If his takeover was presented as the decision of the tribal chieftains and the Tribal Grand Council, even the Palace Lord wouldn’t be able to do anything.",
+      "defect": "“Was presented as” adds the unsupported idea that the council’s decision was merely a deceptive pretense. The source says that a decision by the chieftains and council to put Baeksang in power would bind the Palace Lord.",
+      "id": "F03",
+      "rationale": "The political mechanism is the authority of a collective decision, not Baeksang falsely presenting his takeover as one.",
+      "replacement": "If the tribal chieftains and the Tribal Grand Council decided to put him in power, even the Palace Lord wouldn’t be able to do anything.",
+      "severity": "major",
+      "source": "그를 부족장들과 대회의의 결정이라면 궁주님도 어찌할 수 없었겠죠."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Yes, he should. If he wakes up, he’ll be worth a thousand troops and ten thousand horses.”",
+      "defect": "The literal numerical rendering of the idiom is unnatural in English and obscures Heugung’s straightforward claim that Jin alone would provide the strength of an army.",
+      "id": "F04",
+      "rationale": "천군만마 is an idiom for an immense army; “an army unto himself” preserves its force and meaning in natural English without treating the component numbers as literal quantities.",
+      "replacement": "“Yes, he should. If he wakes up, he’ll be an army unto himself.”",
+      "severity": "minor",
+      "source": "“그래, 그렇겠지. 깨어나기만 한다면 천군만마가 될 거요.”"
+    }
+  ],
+  "summary": "One critical identity error, one substantial omitted metaphor and decision beat, one altered political mechanism, and one overly literal idiom.",
+  "version": 1
+}
