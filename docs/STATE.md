@@ -1,17 +1,15 @@
 # Translation State
 
-- Last completed: 725
-- Next chapter: 726
-- Current block: 725–729 (1/5)
-- Latest translation: `translations/0725.md`
-- Latest summary: `summaries/beats/0725.md`
-- Safe profiles through: chapter 725
+- Last completed: 726
+- Next chapter: 727
+- Current block: 725–729 (2/5)
+- Latest translation: `translations/0726.md`
+- Latest summary: `summaries/beats/0726.md`
+- Safe profiles through: chapter 726
 
 ## Current Block
 
-- Jin Taekyung tells Jeok Cheongang that the Lord of Heaven has taken an unusual interest in him and recounts how Dark Heaven's strongest agents tried to capture or kill him. Jeok concludes that Dark Heaven's servants treat the Lord of Heaven as a living god, making the coming war more terrifying than the Great Faction War, especially for Jin.
-- Jeok recalls that the Lord of Heaven once watched Jin through the Western Heaven Demon Lord's eyes and may already suspect the secrets Jin has kept hidden. He accepts Jin's account that he travels between Murim and another world resembling the realm of immortals, then asks Jin to tell him everything he has concealed.
-- Jeok reflects on the Dharma King's warnings about a vast war and the Master of Morning Star, realizing that the prophecy led him to make Jin the Fire Gate Clan's successor. While Jin sleeps during their journey, Jeok quietly wishes him a safe trip.
+- Jin Taekyung returns to the modern world after revealing his cross-world origin to Jeok Cheongang, whose acceptance of him as Jin Taekyung rather than a Little Immortal finally eases his fear of rejection. Back in the Peace Guild training room, Jin's routine is interrupted when Choi Minwoo, now the Guild Master, arrives in agitation over the newly delivered Smiling Mana Cultivation Method. Jin admits that he created the beginner-accessible method himself, while Choi recognizes its authorship from Jin's terrible handwriting and absurd title.
 
 ## Open Questions
 
@@ -23,11 +21,11 @@
 
 ## Exceptional Decision
 
-- Render 전고 as war drums.
-- Render 신강 as Xinjiang.
-- Retain God wills it! for 신께서 원하신다!.
-- Preserve the established Lord of Heaven rendering for 천주 and the chapter's profane comic banter.
+- Render 싱글벙글 마나 연공법 as The Smiling Mana Cultivation Method.
+- Render 전고 as war drums, 신강 as Xinjiang, and 신께서 원하신다! as God wills it!.
+- Preserve the established Lord of Heaven rendering for 천주.
 - Render 선계 as realm of immortals and 소신선 as Little Immortal.
+- Preserve the chapter's profane comic banter, including poop for 똥 and civet cat for 사향 고양이.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
