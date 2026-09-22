@@ -533,10 +533,14 @@ chapter history.
 `names` contains only newly required Korean-to-English rows that are absent from
 Exact glossary matches; Korean keys must occur in the source. Do not repeat
 glossary matches. The controller drops rows already in the names ledger.
-`address_pairs` contains only newly required speaker→addressee rows that are
-absent from Matched address pairs. Speaker and addressee must be Hangul source
+`address_pairs` contains only newly required speaker→addressee rows that
+are absent from Matched address pairs. Speaker and addressee must be Hangul source
 spellings such as 진태경 or 혁무진, never English names. Arabic digits are
 allowed in titles such as 1팀장. At least one endpoint must occur in the source.
+Before returning JSON, verify every `speaker` and `addressee` value contains at
+least one Hangul character; use the Korean source spelling even when the same
+person's English name appears in the reading copy. If no valid new pair exists,
+return `"address_pairs": []`.
 The controller drops pairs already in the address ledger. Do not invent
 risk-register rows. Beat plot paragraphs are plain strings; continuity and
 translation decisions are concise list items.
