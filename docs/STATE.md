@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 693
-- Next chapter: 694
-- Current block: 690–694 (4/5)
-- Latest translation: `translations/0693.md`
-- Latest summary: `summaries/beats/0693.md`
-- Safe profiles through: chapter 693
+- Last completed: 694
+- Next chapter: 695
+- Current block: 690–694 (5/5)
+- Latest translation: `translations/0694.md`
+- Latest summary: `summaries/beats/0694.md`
+- Safe profiles through: chapter 694
 
 ## Current Block
 
-- The Black Tiger reveals the enormous cracked boulder at the summit as the sacred stone, the true source behind the legendary Beast King Stone. The first Palace Lord never owned it; he created a powerless stone bearing its name to unite Nanman's tribes and end their war. The sacred stone once sustained the land's abundance, but centuries of human violence drained its power. The Black Tiger admits it watched without intervening and has regretted for two hundred years failing to save the first Palace Lord.
-- The Black Tiger asks Jin for a chance to restore the sacred stone with the Water God Dragon's Origin Essence. The System renames the Apparition of Ailao Mountain as a guardian spirit, reveals the Hidden Sacred Land, creates the hidden Quest Last Chance, and asks whether Jin will use the Origin Essence to strengthen the Ancient Sacred Stone. Meanwhile, Yohi and Muyaho witness the realm shake as birds and beasts rise and a pillar of light envelops the unknown space.
+- A force of three thousand Nanman warriors and beasts marches from the Outer Palace to Ailao Mountain, where a vast fire rages. Believing Jin Taekyung to be responsible and still inside the burning mountain, the Captain of the Guards rallies the army to pursue and kill him. Before they can advance, a black presence rises through the flames, and every beast stops, bows, and lowers itself in submission to the returning king.
+- Baeksang crosses the Inner Palace, orders every palace attendant expelled, and reflects on his regret, his deceased son Hwi, and the final secret caprice that can no longer change anything. With ten thousand warriors gathered, he considers the grand plan complete and opens the palace doors, where he sees a White Tiger on a distant hill, an unidentified figure on its back, and thousands upon thousands of beasts gathering behind them.
 
 ## Open Questions
 
 - Will Jin accept the System's offer to strengthen the Ancient Sacred Stone with the Water God Dragon's Origin Essence?
-- What consequences will follow from the hidden Quest Last Chance and the pillar of light?
+- What consequences will follow from the hidden Quest Last Chance, the pillar of light, and the unidentified figure atop the White Tiger?
 - How can Jin, Yohi, and Muyaho leave the hidden realm?
 - Is Heugung truly dead?
 - What is the System's unidentified discovery?

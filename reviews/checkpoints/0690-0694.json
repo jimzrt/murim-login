@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The System's unidentified discovery remains unresolved.",
+      "defect": "The active continuity ends with the hidden-realm threads and omits every major external development from Chapter 694, including the Nanman force at Ailao Mountain, the beasts submitting to the Black Tiger, Baeksang's mobilization, and the unidentified rider on the White Tiger.",
+      "id": "C01",
+      "rationale": "These are active end-of-packet conditions and hooks already recorded in the checkpoint summary and continuity section; omitting them from durable state risks continuity loss in the next chapter.",
+      "replacement": "The System's unidentified discovery remains unresolved. Approximately three thousand Nanman warriors sent to kill Jin have reached the burning Ailao Mountain, where every beast halted and bowed when the Black Tiger appeared. Baeksang has expelled the Inner Palace attendants and gathered ten thousand warriors, believing the grand plan is complete and irreversible bloodshed is imminent. An unidentified figure sits atop the White Tiger at the head of an immense host of beasts.",
+      "severity": "major",
+      "source": "Durable state, active_continuity final entry"
+    },
+    {
+      "confidence": 0.91,
+      "current": "—Correct. Long ago, it passed through the hands of a human and received that name.",
+      "defect": "This states that the actual sacred stone passed through a human's hands and became the Beast King Stone, contradicting the later revelation that the first Palace Lord created a separate, powerless stone as the Beast King Stone and never possessed the actual sacred stone.",
+      "id": "C02",
+      "rationale": "The replacement preserves the initial apparent identification and delayed reveal without making the false physical claim that the enormous sacred stone passed through the first Palace Lord's hands.",
+      "replacement": "—That is the name passed down among humans.",
+      "severity": "major",
+      "source": "Chapter 693, Black Tiger's initial identification of the summit boulder"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Moonlight pouring down from overhead and the flickering torchlight struck the snow-white blade and shattered across it.",
+      "defect": "The chapter explicitly opens with even the moon hidden, but this sentence shortly afterward describes moonlight pouring down from overhead.",
+      "id": "C03",
+      "rationale": "Removing the unavailable moonlight resolves the immediate visual contradiction while retaining the blade's illumination and the scene's nighttime atmosphere.",
+      "replacement": "The flickering torchlight struck the snow-white blade and shattered across it.",
+      "severity": "minor",
+      "source": "Chapter 694, Captain of the Guards drawing his sword"
+    },
+    {
+      "confidence": 1.0,
+      "current": "* Ailao Mountain. *",
+      "defect": "Spaces inside the emphasis delimiters prevent consistent Markdown rendering and differ from the packet's established italic formatting.",
+      "id": "C04",
+      "rationale": "This restores valid, consistent Markdown emphasis without changing the prose.",
+      "replacement": "*Ailao Mountain.*",
+      "severity": "minor",
+      "source": "Chapter 694, army destination"
+    }
+  ],
+  "summary": "The reading copies largely preserve voice, terminology, unresolved hooks, and the distinction between the Black and White Tigers. Actionable issues are a lore contradiction in Chapter 693, a nighttime lighting contradiction and malformed emphasis in Chapter 694, and the durable active state dropping the major external developments introduced in Chapter 694.",
+  "version": 1
+}
