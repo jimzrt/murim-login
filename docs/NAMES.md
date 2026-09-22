@@ -2095,3 +2095,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 리자드 | **Charmeleon** | Game-monster comparison. |
 | 거북왕 | **Blastoise** | Game-monster comparison. |
 | 보산 | **Boshan** | Western Yao stronghold where several thousand Yao people are settled. |
+| 궁주 | **Palace Lord** | Title Yohi uses after realizing that Heugung is the Beast Miao King. |
+| 수마 | **sleep demon** | Metaphor for the force keeping Jin unconscious. |
