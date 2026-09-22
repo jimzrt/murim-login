@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The words *death* and *death* flashed through my mind, but no.",
+      "defect": "The draft mechanically renders the two written syllables of 죽음 as two repetitions of the English word, producing nonsense.",
+      "id": "F01",
+      "rationale": "두 글자 describes the written form of the single Korean word 죽음; it does not repeat the concept twice.",
+      "replacement": "The word *death* flashed through my mind, but no.",
+      "severity": "minor",
+      "source": "죽음이라는 두 글자가 뇌리를 스쳤지만, 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "My body shot forward like a cannonball, creating a small crater as I crossed more than twenty yards in one bound.",
+      "defect": "The draft treats 장 as a yard, reducing the distance to roughly one-third of the source quantity.",
+      "id": "F02",
+      "rationale": "Twenty-odd 장 is approximately sixty-plus yards, not twenty yards.",
+      "replacement": "My body shot forward like a cannonball, creating a small crater as I crossed more than sixty yards in one bound.",
+      "severity": "critical",
+      "source": "작은 크레이터를 만들며 포탄처럼 쏘아진 신형이 단번에 이십여 장에 달하는 공간을 뛰어넘었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The answer to my question was a single flash of light that glinted from more than ten yards away.",
+      "defect": "The draft again treats 장 as a yard, substantially shortening the attack's range.",
+      "id": "F03",
+      "rationale": "Ten-odd 장 is approximately thirty-plus yards.",
+      "replacement": "The answer to my question was a single flash of light that glinted from more than thirty yards away.",
+      "severity": "critical",
+      "source": "그리고 내 물음에 돌아온 대답은, 십여 장 너머에서 번뜩인 한 줄기의 섬광이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Before careless mercy brought about an even greater disaster, I had to cut off his breath right here.",
+      "defect": "The draft adds mercy as Jin's motive, although the source refers more broadly to using inadequate or half-hearted measures.",
+      "id": "F04",
+      "rationale": "어설픈 손속 means insufficient or sloppy handling; it does not state that Jin is showing mercy.",
+      "replacement": "Before half measures brought about an even greater disaster, I had to snuff out his life right here.",
+      "severity": "major",
+      "source": "어설픈 손속으로 더 큰 화를 부르기 전에, 반드시 이 자리에서 숨통을 끊어야 한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The present me had been given only the briefest instant in which to choose.",
+      "defect": "“The present me” is an unnatural Korean-syntax calque in otherwise contemporary first-person narration.",
+      "id": "F05",
+      "rationale": "지금의 내게 means Jin in his present circumstances, naturally expressed here as a direct statement about the time available to him.",
+      "replacement": "I had only the briefest instant to make my choice.",
+      "severity": "minor",
+      "source": "지금의 내게는 선택을 위한 아주 짧은 찰나의 순간만이 주어졌을 뿐이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I stared at the twin wheel clutched in my left hand and slowly turned around.",
+      "defect": "The draft makes the paired weapon singular, contradicting 쌍륜 and the two streaks of light he intercepted.",
+      "id": "F06",
+      "rationale": "쌍륜 denotes a pair of wheels, not one “twin wheel.”",
+      "replacement": "I stared at the twin wheels clutched in my left hand and slowly turned around.",
+      "severity": "critical",
+      "source": "왼손에 붙잡힌 쌍륜(雙輪)을 응시하던 나는 천천히 몸을 돌렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then a flashing streak of light crossed more than twenty yards and charged at me.",
+      "defect": "The draft once more converts 장 directly into yards, reducing the projectile's travel distance by roughly two-thirds.",
+      "id": "F07",
+      "rationale": "Twenty-odd 장 is approximately sixty-plus yards.",
+      "replacement": "Then a flashing streak of light crossed more than sixty yards and hurtled at me.",
+      "severity": "critical",
+      "source": "뒤이어 번뜩이는 섬광이 이십여 장의 공간을 가로지르며 쇄도했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I caught the streak of light with one hand, reinforcing it with all my internal energy, and fell silent.",
+      "defect": "The pronoun makes Jin reinforce the incoming projectile with his internal energy, reversing the source mechanism; he charges his hand before catching it.",
+      "id": "F08",
+      "rationale": "한껏 공력을 실은 modifies 손: Jin fills his catching hand with internal energy rather than adding energy to the projectile.",
+      "replacement": "I caught the streak of light with a hand packed with internal energy and fell silent.",
+      "severity": "critical",
+      "source": "한껏 공력을 실은 손으로 섬광을 잡아챈 나는 입을 다물었다."
+    }
+  ],
+  "summary": "Several actionable fidelity errors, chiefly incorrect distance conversions, an added motive of mercy, a singularized paired weapon, and a reversed energy-action mechanism.",
+  "version": 1
+}

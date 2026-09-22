@@ -1,30 +1,30 @@
 # Translation State
 
-- Last completed: 699
-- Next chapter: 700
-- Current block: 695–699 (5/5)
-- Latest translation: `translations/0699.md`
-- Latest summary: `summaries/beats/0699.md`
-- Safe profiles through: chapter 699
+- Last completed: 700
+- Next chapter: 701
+- Current block: 700–704 (1/5)
+- Latest translation: `translations/0700.md`
+- Latest summary: `summaries/beats/0700.md`
+- Safe profiles through: chapter 700
 
 ## Current Block
 
-- Baeksang crosses the devastated Inner Palace, kills a tribal chieftain who begs for his life, and reaches his office expecting the Southern Heaven Demon Empress to fulfill their decades-old promise. Finding the office empty, he breaks down in despair, but the mirror she gave him ripples and emits a dark human figure carrying a Force-infused sword, rekindling his hope.
-- As the demonic qi overwhelms Nanman's warriors and beasts, the White Tiger leads the beast army in rescuing victims and carrying them toward the Outer Palace. Jin Taekyung is battered into the ground by the Southern Heaven Demon Empress but rises again despite severe injuries, continuing the fight as darkness descends over the collapsing Inner Palace.
+- As the Inner Palace collapses and the rift's demonic qi intensifies, Jin Taekyung leaves the Guardian Spirit to rescue the thousands of humans and beasts still trapped inside, trying to prevent them from mutating and beginning the Southern Heaven Demon Empress's envisioned slaughter. He senses the invisible grain within the darkness and attacks it with White Flame and Scorching Yang Qi.
+- A masked man emerges from the ruins and fights Jin with dark Force, a sword, twin wheels, and extraordinary speed and resilience. Jin stabs him through the chest with a summoned dagger, crushes one arm, and strikes him with the Flame Divine Palm, injuring his own left hand in the exchange. The masked man survives, removes the dagger from his chest, and throws it back. Jin recognizes the twin wheels and suspects a connection to the Great Snow Fiend. The Southern Heaven Demon Empress appears above the wounded Guardian Spirit and calls the masked man her carefully trained hunting dog.
 
 ## Open Questions
 
-- Who or what is the dark figure emerging from Baeksang's mirror, and how does it fulfill the Southern Heaven Demon Empress's promise?
-- Can Jin Taekyung survive his injuries and stop the Southern Heaven Demon Empress?
-- Can the White Tiger and the beast army rescue enough victims from the demonic qi?
-- What will Baeksang do now that the mirror's promise has begun to manifest?
+- What is the masked man's identity, and what is his relationship with the Great Snow Fiend?
+- Can Jin protect the remaining humans and beasts from the spreading magical power and prevent the planned slaughter?
+- Can the wounded Guardian Spirit survive its confrontation with the Southern Heaven Demon Empress?
+- Can Jin continue fighting effectively with his injured left hand?
 
 ## Exceptional Decision
 
-- Use mirror for 면경 and do not identify the figure emerging from it until the source confirms its identity.
-- Use Hwi for 휘 in Baeksang's vocative, while keeping the mirror figure's identity unresolved.
-- Retain Force for 강기, Finger Qi for 지풍, Internal Injury for 내상, and hellscape for 지옥도.
-- Preserve Jin Taekyung's first-person voice as conversational, determined, and bluntly profane when describing the Southern Heaven Demon Empress.
+- Use magical power for 마력 and demonic qi for 마기 when the source distinguishes the terms.
+- Use grain for 결 when Jin describes the invisible flows and gaps within things.
+- Use masked man for 복면인 and leave his identity and relationship to the Great Snow Fiend unresolved.
+- Retain Flame Divine Palm for 화염신장, White Flame for 백염, Fire Dragon Armor for 화룡갑, and Supreme Peak for 초절정.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
