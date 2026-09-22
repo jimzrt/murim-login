@@ -148,6 +148,8 @@ def apply_review_replacements(text: str, review: dict) -> str:
             if "…." in old:
                 candidates.append((old.replace("….", "…"), replacement))
             candidates.append((f"*{old}*", replacement))
+            if len(old) >= 2 and old.startswith("*") and old.endswith("*"):
+                candidates.append((old[1:-1], replacement[1:-1] if replacement.startswith("*") and replacement.endswith("*") else replacement))
             if len(old) >= 2 and old[0] == "“" and old[-1] == "”":
                 candidates.append((f"*{old[1:-1]}*", replacement))
                 candidates.append((old[1:-1], replacement[1:-1] if replacement.startswith("“") and replacement.endswith("”") else replacement))
