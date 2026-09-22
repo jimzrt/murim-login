@@ -2120,3 +2120,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 재생 | **Regeneration** | The masked man's rapid recovery from shattered bones and severe wounds. |
 | 통각 | **pain sensation** | The masked man appears unable to feel pain. |
 | 변이 | **mutation** | The transformation threatening the humans and beasts in the Inner Palace. |
+| 왕호 | **Wang Ho** | Commander of the Baekcheon Unit who arrives leading white-armored reinforcements. |

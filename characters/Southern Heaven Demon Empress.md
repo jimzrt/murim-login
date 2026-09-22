@@ -1,6 +1,6 @@
 # Southern Heaven Demon Empress (남천마후)
 
-- **Safe through:** Chapter 703
+- **Safe through:** Chapter 704
 - **Aliases:** None
 - **Role:** The Southern Heaven Demon Empress is Honglan, creator of the rift behind the Inner Palace; One Annihilation shattered her cultivated youth, leaving her aged, maimed, and scarred, but the rift's demonic qi is restoring her strength as she continues attacking Jin Taekyung.
 - **Personality:** Playful, cruel, confident, and casually dismissive of mass death and the suffering of others.
