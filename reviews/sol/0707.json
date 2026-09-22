@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And the Southern Heaven Demon Empress’s attacks, which should have left her vomiting blood and collapsing to her knees long ago, were no longer as heavy as before.",
+      "defect": "The draft reverses the implied target of the attacks, saying the Southern Heaven Demon Empress’s own attacks should have left her vomiting blood and kneeling.",
+      "id": "F01",
+      "rationale": "남천마후의 공격 identifies her as the attacker; the one who should have been made to vomit blood and kneel is her opponent.",
+      "replacement": "And the Southern Heaven Demon Empress’s attacks—which should long ago have left the Beast Miao King vomiting blood and collapsing to his knees—were no longer as heavy as before.",
+      "severity": "critical",
+      "source": "진즉 피를 토하며 무릎을 꿇고도 남았을 남천마후의 공격은 전처럼 무겁지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A small fist that should have struck her chest and burst her heart had made the bones in her hand shift out of place.",
+      "defect": "The draft again reverses the target, making her fist supposed to strike her own chest and burst her own heart.",
+      "id": "F02",
+      "rationale": "The fist belongs to the Southern Heaven Demon Empress and was intended to crush the Beast Miao King’s chest and heart.",
+      "replacement": "The bones shifted out of place in the small fist that should have smashed into his chest and burst his heart.",
+      "severity": "critical",
+      "source": "가슴을 후려치고 심장을 터트려야 했을 작은 주먹에서 뼈가 어긋나는 소리가 새어 나온다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Southern Heaven Demon Empress retched.\n\nBlood leaked through her clenched teeth.",
+      "defect": "울컥 describes blood surging or welling up here, not the Southern Heaven Demon Empress retching.",
+      "id": "F03",
+      "rationale": "The following sentence explicitly identifies the substance rising and escaping between her teeth as blood; no gagging or retching action is stated.",
+      "replacement": "A surge of blood welled up and leaked through her clenched teeth.",
+      "severity": "critical",
+      "source": "울컥.\n\n악문 잇새 사이로 핏물이 흘러나온다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Footsteps approached, treading over ground soaked in blood, sand, and ruins.\n\nNo—footsteps.",
+      "defect": "The draft uses the plural both before and after the correction, erasing the deliberate realization that one approaching footfall is actually many.",
+      "id": "F04",
+      "rationale": "발걸음. 아니, 발걸음들 explicitly shifts from singular to plural, revealing that a group is approaching.",
+      "replacement": "A footfall approached over blood-soaked ground, treading on sand and rubble.\n\nNo—footfalls.",
+      "severity": "major",
+      "source": "핏물을 머금은 땅을. 모래와 잔해를 밟으며 다가오는 발걸음. 아니, 발걸음들."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Toward her loyal subordinate, whose neck hung limply after something had torn it away, and who was waiting for a recovery that surpassed even supernatural powers.",
+      "defect": "The wording says his neck was torn away entirely while simultaneously hanging limply, making the injury mechanically incoherent.",
+      "id": "F05",
+      "rationale": "The Masked Man still has a connected but catastrophically torn neck; 뜯겨 나간 describes the flesh being ripped away, not the entire neck being detached.",
+      "replacement": "Toward her loyal subordinate, whose neck hung limply, already torn open by something, and who was awaiting a recovery that surpassed even supernatural powers.",
+      "severity": "major",
+      "source": "이미 무언가에 의해 뜯겨 나간 목줄기를 축 늘어트린 채. 괴력난신(怪力亂神)이라는 단어로도 부족할 회복을 기다리는 자신의 충실한 수하를 향해."
+    },
+    {
+      "confidence": 0.97,
+      "current": "more than a dozen spears flew over Jin Taekyung’s head.",
+      "defect": "The draft changes 십여, approximately ten or a dozen, into a quantity definitively greater than twelve.",
+      "id": "F06",
+      "rationale": "십여 means roughly ten-plus rather than specifically more than a dozen.",
+      "replacement": "a dozen or so spears flew over Jin Taekyung’s head.",
+      "severity": "minor",
+      "source": "진태경의 머리 위로 십여 자루의 돌격창이 날아왔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No matter how much of a Ten King the Beast Miao King was, and no matter how much he had been underestimated because he was a Nanman tribesman, he had clearly been a level below her.",
+      "defect": "“No matter how much of a Ten King” is unidiomatic and treats membership in the Ten Kings as a degree rather than a fixed status.",
+      "id": "F07",
+      "rationale": "십왕의 한 사람 means one member of the Ten Kings; the concessive force comes from 제아무리, not from degrees of membership.",
+      "replacement": "Even though the Beast Miao King was one of the Ten Kings, and even if he had been relatively underestimated because he was from Nanman, he was clearly a level below her.",
+      "severity": "minor",
+      "source": "야수묘왕이 제아무리 십왕의 한 사람이라 해도, 남만인이기에 비교적 과소평가를 받았다 해도 그녀보다는 명백하게 한 수 아래였으니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "As though they had agreed on it from the beginning, they surged forward as one streak of wind.\n\nThey would not grant her even a momentary opening, let alone time to leave final words.\n\nThey had only one resolve: to cut off the breath of the Fiend known as the Southern Heaven Demon Empress.",
+      "defect": "The draft turns the narrator’s inferred impression into a categorical statement of the attackers’ intent, dropping the 듯이 pragmatic qualification.",
+      "id": "F08",
+      "rationale": "주지 않겠다는 듯이 means they moved as if determined to give her no opening or time for final words; the source presents that intent as an impression conveyed by their charge.",
+      "replacement": "As though they had agreed from the start, they became a single streak of wind and surged forward—as if to deny her even the briefest opening, let alone time for final words.\n\nThey had only one resolve: to cut off the breath of the Fiend known as the Southern Heaven Demon Empress.",
+      "severity": "major",
+      "source": "마치 처음부터 약속이라도 한 것처럼, 그들은 한 줄기의 바람이 되어 쇄도했다.\n\n더 이상 찰나의 틈도, 유언을 남길 시간도 주지 않겠다는 듯이. 남천마후라는 악귀(惡鬼)의 숨통을 끊어 놓겠다는 일념 하나만으로."
+    }
+  ],
+  "summary": "Several actionable fidelity errors alter attack subjects, injury mechanics, quantity, and pragmatic modality; the draft also loses a deliberate singular-to-plural reveal.",
+  "version": 1
+}

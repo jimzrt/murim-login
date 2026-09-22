@@ -1,28 +1,28 @@
 # Translation State
 
-- Last completed: 706
-- Next chapter: 707
-- Current block: 705–709 (2/5)
-- Latest translation: `translations/0706.md`
-- Latest summary: `summaries/beats/0706.md`
-- Safe profiles through: chapter 706
+- Last completed: 707
+- Next chapter: 708
+- Current block: 705–709 (3/5)
+- Latest translation: `translations/0707.md`
+- Latest summary: `summaries/beats/0707.md`
+- Safe profiles through: chapter 707
 
 ## Current Block
 
-- Jin Taekyung and the guardian spirit charge into the mutant army while the Beast Miao King engages the exhausted Southern Heaven Demon Empress. The Baekcheon Unit suffers severe losses in the ensuing close-quarters battle, and Jin, despite his depleted internal energy and injuries from One Annihilation, fights from the guardian spirit's back with White Flame. As he kills mutants who were once human, the guardian spirit helps him confront his guilt and insists that the dead do not resent him. After Wang Ho declares the battle over, Jin rejects this and advances with the guardian spirit toward the bleeding Southern Heaven Demon Empress.
+- The Southern Heaven Demon Empress is overwhelmed by the Beast Miao King, whose attacks expose how severely her strength has declined after Jin Taekyung's earlier assault. She crashes into the Inner Palace ruins, discovers that the masked man has been crushed beneath a boulder, and realizes that the battle and her grand plan are ending in defeat. Jin Taekyung, the guardian spirit, and the Beast Miao King surround her and launch a coordinated final attack. Facing certain death, she awakens the innate qi within her through the rift, causing space to twist, but an unidentified sword suddenly thrusts from the ruins and buries itself in her back.
 
 ## Open Questions
 
-- Can the Beast Miao King defeat the exhausted Southern Heaven Demon Empress?
-- Can Jin Taekyung and the guardian spirit reach and defeat the Southern Heaven Demon Empress?
-- What will happen to the remaining mutants and surviving Baekcheon Unit warriors after the battle?
+- Who wielded the sword that stabbed the Southern Heaven Demon Empress?
+- What effect will the awakened innate qi have after the sword strike?
+- Will the Southern Heaven Demon Empress survive the combined attack and the sword wound?
+- Will the masked man recover after being crushed beneath the boulder?
 
 ## Exceptional Decision
 
-- Retain One Annihilation, White Flame, Fist Force, Force, Sword Energy, Internal Injury, demonic qi, and Baekcheon Unit.
-- Render 초일류 as Supreme First Rate and 백천대주 as Commander of the Baekcheon Unit.
-- Render 신수 as divine beast and 신병이기 as divine weapon.
-- Preserve Jin Taekyung's conversational profanity and the guardian spirit's terse, teasing, and compassionate voice.
+- Retain One Annihilation, White Flame, Fist Force, Finger Qi, Internal Injury, demonic qi, innate qi, and mental strength.
+- Render 천녀 as lowly woman in the Southern Heaven Demon Empress's prayerful internal monologue.
+- Preserve the Southern Heaven Demon Empress's title as Southern Heaven Demon Empress and her devoted address to 천주 as Lord of Heaven.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
