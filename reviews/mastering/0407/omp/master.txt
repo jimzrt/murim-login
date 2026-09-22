@@ -24,7 +24,7 @@ At his comrade’s sudden question, Inoue narrowed his eyes.
 
 “I’ll take that as a compliment. I’m a Yankees fan.”
 
-The small white man snickered at Inoue’s grumbling.
+The short white man snickered at Inoue’s grumbling.
 
 “Just accept it already. At this point, it’s fate. Even your abilities are totally ninja-like.”
 
@@ -44,11 +44,11 @@ Inoue raised his middle finger at his relentlessly annoying comrade.
 
 “Oh, not bad.”
 
-Quiet snickers escaped from the people around them.
+Quiet laughter escaped from the people around them.
 
 The atmosphere, stiff and tense only moments ago, began to loosen. Inoue and his comrade exchanged faint smiles.
 
-The two had been close friends and partners for years. Their exchange had been little more than a skit meant to ease the tension before the mission began.
+The two had been close friends and partners for years. Their exchange had been little more than a routine meant to ease the tension before the mission began.
 
 *Too much tension only makes people commit one mistake after another.*
 
@@ -66,7 +66,7 @@ Having reminded himself of that, Inoue addressed the twenty intelligence operati
 
 “Good. Then… we meet back here in three hours. Dismissed.”
 
-At Inoue’s words announcing the start of the operation, the intelligence operatives nodded and scattered in every direction. Watching them disappear silently and swiftly, his partner Sam jerked his chin toward the path ahead.
+At Inoue’s signal to begin the operation, the intelligence operatives nodded and scattered in every direction. As he watched them disappear swiftly and silently, his partner Sam jerked his chin toward the path ahead.
 
 “Should we get moving too, ninja?”
 
@@ -86,7 +86,7 @@ We were two hundred kilometers from Suining City, where the Arch Lich was locate
 
 “Hey, Korean friends. How have you been?”
 
-I sensed a considerable wave of qi nearby, and sure enough, it was him. I bumped fists with Magic Johnson and answered.
+I sensed a considerable ripple of energy nearby, and sure enough, it was him. I bumped fists with Magic Johnson and answered.
 
 “Pretty well.”
 
@@ -116,15 +116,15 @@ Magic Johnson threw back his head and laughed.
 
 At this point, it was obvious he enjoyed watching our reactions. He was surprisingly playful for such a huge man.
 
-Well, by now, we knew that everything was a joke whenever we met Magic Johnson.
+Well, by now we knew he was only joking.
 
-Even Team Leader Choi, who always did Kegel exercises whenever he met him, gave a quiet laugh before asking,
+Even Team Leader Choi, who always seemed to start doing Kegel exercises whenever he met Magic Johnson, let out a quiet laugh before asking,
 
 “But what brings you here?”
 
 “An emergency summons from headquarters. It’s an important matter.”
 
-I frowned and muttered,
+I frowned.
 
 “This feels like déjà vu. Haven’t we seen this setup before?”
 
@@ -132,19 +132,19 @@ I frowned and muttered,
 
 By “last time,” he meant our main camp getting completely wrecked while the S-rank Hunters were away.
 
-Well, the distance between the fronts had narrowed now. Even if everyone gathered together, we were practically close enough to touch noses if we fell over, so it should be fine.
+Well, the fronts were much closer together now. Even if everyone gathered in one place, we would still be a stone’s throw away, so it should be fine.
 
 *If they aren’t handling this over communications, it must be that important.*
 
-As the Allied Forces continued winning and the monsters retreated, the Arch Lich’s territory had shrunk all the way back to Suining City. At our current location, both communications and magic worked smoothly.
+With every Allied victory and every enemy retreat, the Arch Lich’s territory had contracted until only Suining City remained. At our current position, both communications and magic worked without issue.
 
-“Do you know what we’re gathering for?”
+“Do you know why we’re being called in?”
 
 “No. But I can guarantee it won’t be pleasant. I’ll stake my life on it.”
 
 “……”
 
-Please. Don’t stake your life on something like that. Give us a little more hope.
+Please. Don’t stake your life on something like that. Give us a little hope.
 
 But Magic Johnson, as confident as ever, held out his hands to Team Leader Choi and me.
 
@@ -152,7 +152,7 @@ But Magic Johnson, as confident as ever, held out his hands to Team Leader Choi 
 
 “Then please take us there, Mr. Johnson.”
 
-Team Leader Choi took his hand without hesitation. Having already experienced Magic Johnson’s teleportation once, I nervously grabbed his fingers.
+Team Leader Choi took his hand without hesitation. Having already experienced Magic Johnson’s teleportation once, I grabbed one of his fingers with trembling hands.
 
 “Please drive safely—Gyaaaaaaaah!”
 
@@ -174,11 +174,11 @@ A dozen pairs of eyes stared at me in silence. Under the dumbfounded gazes of th
 
 After a moment at a loss for words, Minister of National Defense Wei Fenghu finally spoke.
 
-“…Then let us begin the meeting.”
+“…Then let us begin.”
 
 The meeting that followed focused on a single subject: the information brought back by the intelligence team’s sole survivor.
 
-“Daniel Inoue, who was in charge of the intelligence team, escaped from Suining City after eight hours—far beyond the scheduled operation time—and reported discovering a monster army numbering around thirty thousand.”
+“Daniel Inoue, the leader of the intelligence team, escaped Suining City eight hours after the operation began—far beyond the scheduled duration—and reported discovering a monster army numbering approximately thirty thousand.”
 
 Thirty thousand…
 
@@ -208,7 +208,7 @@ Wei Fenghu continued solemnly.
 
 “The same is true of our forces, Wei Fenghu.”
 
-At the remark from Faye Chen, who had been silently sipping from a liquor glass, Prince Felix nodded.
+At Faye Chen’s remark, delivered as she silently sipped from her glass, Prince Felix nodded.
 
 “She is right. More troops than expected have joined our side, but we still cannot be certain of victory.”
 
@@ -218,7 +218,7 @@ I couldn’t help snorting at Wu Heixing’s grumbling.
 
 “Why are you laughing?”
 
-“Because it’s funny, you idiot.”
+“Because you’re funny, idiot.”
 
 “What?”
 
@@ -270,7 +270,7 @@ My aura struck like an awl, and his body locked in place.
 
 The other S-rank Hunters turned startled eyes toward me.
 
-I glanced at Lee Jungryong’s deeply sunken gaze before continuing.
+I glanced at Lee Jungryong’s dark, inscrutable gaze before continuing.
 
 “Just so there’s no misunderstanding, yes, that was an order.”
 
@@ -296,23 +296,23 @@ And he was supposed to build up internal energy like a Murim practitioner and ma
 
 Learning martial arts might make up for his technical shortcomings, but there was no doubt he would fall by the wayside long before he ever reached that point.
 
-Compared to his talent, his effort and will were Third Rate.
+Compared to his talent, his effort and will were third-rate.
 
 “Enough.”
 
 Lee Jungryong’s gentle baritone broke the tension.
 
-The old snake, still looking like a handsome middle-aged man despite being well past sixty, watched me with a smile.
+The old snake, still as handsome as a middle-aged man despite being well past sixty, watched me with a smile.
 
 “I thought only your skills had improved, but your killing intent has grown stronger too.”
 
 I met his eyes impassively.
 
-“Rolling around in all sorts of places tends to put an edge on you.”
+“Getting knocked around from place to place gave me a mean streak.”
 
 “I heard the western front was particularly fierce.”
 
-“That’s not wrong. Want to come see the western front?”
+“That’s not wrong. Care to visit?”
 
 “I must politely decline. If it was fierce enough that only three people survived, I think I’ll pass.”
 
@@ -346,4 +346,4 @@ But both reason and instinct told me this was our best chance to win while minim
 
 “We gather our very best and cut off the head.”
 
-Once the Arch Lich is destroyed, the undead army will collapse.
+Once the Arch Lich was destroyed, the undead army would collapse.

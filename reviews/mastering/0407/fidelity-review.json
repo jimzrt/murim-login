@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "No matter how favorable the war is",
+      "defect": "전황 refers to the situation on the battlefield or course of the campaign, not the war as a whole.",
+      "id": "F01",
+      "rationale": "The source limits the warning to the current military situation, preserving a narrower tactical scope.",
+      "replacement": "No matter how favorable the battle situation is, we can’t afford to let our guard down.",
+      "severity": "minor",
+      "source": "Source lines 61–63; assembled P30–P31"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A dozen pairs of eyes stared at me in silence.",
+      "defect": "십여 쌍 means around ten or ten-odd pairs, not a specifically quantified dozen.",
+      "id": "F02",
+      "rationale": "The current wording adds precision that the Korean does not establish.",
+      "replacement": "Around ten pairs of eyes stared at me in silence.",
+      "severity": "minor",
+      "source": "Source line 177; assembled P86"
+    },
+    {
+      "confidence": 0.87,
+      "current": "My aura struck like an awl",
+      "defect": "The source depicts the aura being shot or thrust out like an awl; “struck” changes the motion from projection to impact.",
+      "id": "F03",
+      "rationale": "쏘아 보낸 기세 describes force sent outward, preserving the mechanism of the attack.",
+      "replacement": "My aura shot out like an awl",
+      "severity": "minor",
+      "source": "Source line 273; assembled P135"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The blood in my veins turned cold.",
+      "defect": "The source specifies the blood throughout his entire body, an intentional physical image that the current idiom narrows or obscures.",
+      "id": "F04",
+      "rationale": "전신의 피 emphasizes the whole-body sensation as the horrific battlefield memory resurfaces.",
+      "replacement": "It felt as though the blood throughout my entire body had turned cold.",
+      "severity": "minor",
+      "source": "Source line 325; assembled P162"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Once the Arch Lich is destroyed, the undead army will collapse.",
+      "defect": "The established rendering of 소멸 in this glossary and continuity is “Erasure,” not the generic “destroyed.”",
+      "id": "F05",
+      "rationale": "The final line uses the established term for this form of disappearance/destruction, so replacing it with a generic verb loses continuity terminology.",
+      "replacement": "Once the Arch Lich is erased, the undead army will collapse.",
+      "severity": "minor",
+      "source": "Source line 353; assembled P175"
+    }
+  ],
+  "summary": "Mostly faithful, but several minor source-specific details and one established terminology choice were lost.",
+  "version": 1
+}
