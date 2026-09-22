@@ -4,7 +4,7 @@ Ten days of sailing had been anything but easy.
 
 We weren’t aboard some massive cruise ship. We’d been stuck on a wooden vessel, shuttling between musty cabins and damp decks. Ports? Our schedule was so tight that we’d kept our eyes ahead and sailed straight on.
 
-Under the circumstances, even Jeok Cheongang—and the river bandits who called the Yangtze their home turf—brightened.
+Under the circumstances, even Jeok Cheongang—and the river bandits who called the Yangtze their home turf—brightened at the sight of land.
 
 Of course, one person was happier than all the rest.
 
@@ -12,13 +12,13 @@ Of course, one person was happier than all the rest.
 
 Mu Song, who had been forced to volunteer his talents all the way to Hubei Province, trembled with emotion.
 
-He had been sunk in grief ever since one of his swift ships sank, but now, as if he had forgotten every hardship he’d suffered along the way, he shouted in a powerful voice.
+He had been inconsolable ever since one of his swift ships sank, but now, as if he had forgotten every hardship he’d suffered along the way, he shouted with renewed vigor.
 
-“Drop anchor! Hurry up so we can leave this damn…!”
+“Drop anchor! Hurry, so we can finally leave this godforsaken—!”
 
 Jeok Cheongang, who had been nodding in satisfaction, turned toward him.
 
-“This damn what?”
+“Godforsaken?”
 
 Mu Song realized he had let his true feelings slip and shook his head at tremendous speed.
 
@@ -28,7 +28,7 @@ Mu Song realized he had let his true feelings slip and shook his head at tremend
 
 “…”
 
-“Unless you were calling *us* damnable?”
+“Unless you were calling *us* godforsaken?”
 
 “W-why would I ever do that?”
 
@@ -104,7 +104,7 @@ Mu Song muttered with a grave expression, then continued.
 
 “Once we disembark, send out our fastest men to find out what’s happening. Contact our nearby brothers immediately as well.”
 
-“Yes, Stronghold Lord.”
+“As you command.”
 
 At Mu Song’s gesture, the river bandits under his command moved as one. We were no exception, having finished our preparations to disembark long ago.
 
@@ -120,7 +120,7 @@ But his happiness didn’t last long.
 
 “You there. Stop.”
 
-The voice was filled with authority. An official who had approached without us noticing swallowed nervously as he looked at us.
+The voice strained with authority. An official who had approached us swallowed hard as he looked our group over.
 
 Then he glanced at the hundreds of government troops behind him, puffed out his chest, and continued.
 
@@ -142,7 +142,7 @@ The official’s eyes wavered uneasily. But he quickly steeled himself and raise
 
 “‘Ahem’? ‘Answer me’? ‘State your purpose’?”
 
-“N-no, this old man…”
+“N-now listen here, old man…”
 
 “‘Old man’?”
 
@@ -160,7 +160,7 @@ I hurriedly stepped in before Jeok Cheongang could drive a Flame God Palm into t
 
 I’d just pulled him out of a tiger’s jaws, and this was how he talked to me?
 
-I wanted to knock his head clean off, but I held back and continued.
+I wanted to knock his head clean off, but I forced myself to hold back.
 
 “We did come from Sichuan, and we have business here.”
 
@@ -190,7 +190,7 @@ His face turned bright red as he bellowed.
 
 What the hell was this development?
 
-Before I could say another word, hundreds of government troops with military discipline drilled into them surrounded us with spears. Jin Wikyung clicked his tongue softly and stepped forward.
+Before I could say another word, hundreds of well-drilled government troops raised their spears and surrounded us. Jin Wikyung clicked his tongue softly and stepped forward.
 
 “You’re rather quick-tempered.”
 
@@ -228,7 +228,7 @@ Without the slightest change in expression, Jin Wikyung replied.
 
 A trembling voice slipped between the official’s lips.
 
-“T-that person is the Provincial Administration Commissioner who was newly appointed not long ago.”
+“H-he is the Provincial Administration Commissioner who was newly appointed not long ago.”
 
 “I see. I thought I’d heard something about that. From Assistant Provincial Administrator in Shanxi to Provincial Administration Commissioner of Hubei. Quite the promotion. An occasion worth celebrating.”
 
@@ -276,9 +276,7 @@ The official looked from one of us to another with an expression that said he wa
 
 Jin Wikyung nudged me lightly in the ribs.
 
-“What do you think, my youngest? Your big brother looks cool, doesn’t he?”
-
-“…”
+“What do you think, my youngest? Your big brother looked cool, didn’t he?”
 
 “You would’ve looked cool if you hadn’t said that.”
 
@@ -290,7 +288,7 @@ According to Gung Gibang, the Jin Family of Taiyuan’s meteoric rise in such a 
 
 If Jin Mukyung, who was undoubtedly continuing his grueling training at the Jin Family even now, was a martial arts genius, then Jin Wikyung was an all-rounder who possessed everything a Family Head needed.
 
-“My youngest, don’t you think I look cool? Hm?”
+“My youngest, don’t you think I looked cool? Hm?”
 
 “…”
 
@@ -300,7 +298,7 @@ I was still trying to push away the increasingly clingy Jin Wikyung when it happ
 
 “Everyone, stand aside.”
 
-At the voice infused with profound internal energy, the people murmuring some distance from the harbor parted to either side.
+At the deep voice infused with profound internal energy, the people murmuring some distance from the harbor parted to either side.
 
 At the same time, dozens of martial artists carrying considerable qi approached us with measured steps.
 

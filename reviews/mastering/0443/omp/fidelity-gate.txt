@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful. One line shifts Jin Wikyung’s personal experience into a general statement.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Source lines 281–282",
+      "current": "Once you establish connections with the government, they make many things more convenient.",
+      "defect": "The Korean presents this as Jin Wikyung’s own experience after forming a connection with the government, while the English recasts it as a generic statement addressed to the listener.",
+      "replacement": "Once I made a connection with the government, I found it made many things more convenient.",
+      "rationale": "The omitted subject is naturally Jin Wikyung in this dialogue, and 더구나 conveys his personal realization that the connection has proved useful. The following invitation to use “my name” reinforces that he is describing his own established ties.",
+      "confidence": 0.93
+    }
+  ]
+}
