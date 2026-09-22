@@ -2070,3 +2070,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무상진인 | **Venerable Wusang** | Former Sect Leader of the Zhongnan Sect and master of the Wind-and-Cloud Sword Lord. |
 | 대설귀 | **Great Snow Fiend** | Fiend who ruled Great Snow Mountain and killed Baekhwi and Venerable Wusang. |
 | 휘 | **Hwi** | Baeksang's only child, remembered as upright and bright before his death in the Great Snow Mountain battle. |
+| 수달 | **Sudal** | Deputy Stronghold Lord of the Water Dragon Stronghold and river pirate. |
+| 남생크 | **Namshank** | Quest-title pun on Shawshank in Escape from Namshank. |

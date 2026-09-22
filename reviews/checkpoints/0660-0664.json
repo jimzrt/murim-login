@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "At the time, the Western Army we belonged to had Venerable Wusang, a Supreme Peak master, as well as the Palace Lord, who had only just begun to be called the Beast Miao King.",
+      "defect": "The force is called the Southern Army immediately before this passage in both Chapters 661 and 662, creating an unexplained internal contradiction.",
+      "id": "C01",
+      "rationale": "Using Southern Army preserves the established name throughout Baeksang's continuous account and matches the checkpoint summary.",
+      "replacement": "At the time, the Southern Army we belonged to had Venerable Wusang, a Supreme Peak master, as well as the Palace Lord, who had only just begun to be called the Beast Miao King.",
+      "severity": "major",
+      "source": "Chapter 662, Baeksang's account of the Great Snow Mountain battle"
+    },
+    {
+      "confidence": 0.93,
+      "current": "The dozens of large and small sects that had been assigned to the Western Army alongside us were no different.",
+      "defect": "This repeats the unexplained Western Army designation despite the same force being established as the Southern Army earlier in the account.",
+      "id": "C02",
+      "rationale": "The replacement keeps the army designation internally consistent across the scene.",
+      "replacement": "The dozens of large and small sects that had been assigned to the Southern Army alongside us were no different.",
+      "severity": "major",
+      "source": "Chapter 662, conclusion of Baeksang's account"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Disciple he had taken in during his later years had gained tremendous fame, and as a result, the influence of their sect, Huashan, had grown to an extent that could not be compared to the past.",
+      "defect": "Disciple is an ordinary common noun here and is accidentally capitalized.",
+      "id": "C03",
+      "rationale": "Lowercasing the word restores standard prose capitalization without changing meaning or terminology.",
+      "replacement": "The disciple he had taken in during his later years had gained tremendous fame, and as a result, the influence of their sect, Huashan, had grown to an extent that could not be compared to the past.",
+      "severity": "minor",
+      "source": "Chapter 662, Jin's comparison of Huashan and Zhongnan"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He entered the battle while suffering from a recurrence of his Internal Injury, and the Great Snow Fiend eventually killed him.",
+      "defect": "Internal Injury is not presented as a named technique, rank, or defined term, so its capitalization is inconsistent with the surrounding prose.",
+      "id": "C04",
+      "rationale": "Lowercase is appropriate for the ordinary medical condition and avoids creating an unintended glossary term.",
+      "replacement": "He entered the battle while suffering from a recurrence of his internal injury, and the Great Snow Fiend eventually killed him.",
+      "severity": "minor",
+      "source": "Chapter 662, Baeksang describing Venerable Wusang's death"
+    }
+  ],
+  "summary": "The packet is broadly consistent in voice, continuity, hooks, and System formatting. The actionable issues are an internal army-name contradiction in Chapter 662 and two isolated capitalization errors.",
+  "version": 1
+}

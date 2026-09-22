@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Those days right after the Great Faction War were wonderful. We caught three or four notorious fiends every day.”\n\n“…You mean three or four *people*, right?”\n\n“Of course. When we lined up fifteen of them and got to work, the response was incredible. They were so happy they nearly passed out.”\n\nThe unit he used to count people was *animals*.",
+      "defect": "English has no animal classifier in the first line, so the correction about counting people rather than animals has no referent, and the narrator’s explanation becomes ungrammatical. This loses the entire classifier joke.",
+      "id": "F01",
+      "rationale": "The source explicitly contrasts 마리, the counter used for animals, with 명, the counter used for people. The exchange and following narration depend on that distinction being intelligible in English.",
+      "replacement": "“Those days right after the Great Faction War were wonderful. We caught three or four notorious fiends every day—counting them like animals, of course.”\n\n“…Like animals? Not people?”\n\n“Yes. When we lined up fifteen or so of the beasts and got to work, the response was incredible. They were so happy they nearly passed out.”\n\nHe even counted people the way one counted animals.",
+      "severity": "major",
+      "source": "‘정마대전 직후가 참 좋았지요. 매일 악명 높은 마두가 서너 마리씩은 붙잡혀 들어 왔으니까요.’\n\n‘……마리요? 명이 아니라?’\n\n‘예에. 그중 열댓 마리를 주르륵 앉혀 놓고 작업을 시작하면 호응이 대단했습니다요. 아주 좋아서 자지러졌지요.’\n\n사람을 세는 단위부터가 ‘마리’다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Yayul Mok would’ve stopped it if he could.",
+      "defect": "This changes the subject from Great Hero Yayul—the Beast Miao King—to his son Yayul Mok.",
+      "id": "F02",
+      "rationale": "Taekyung’s established address 야율 대협 refers to the Beast Miao King. Yayul Mok is separately identified immediately afterward as the White Tiger’s master.",
+      "replacement": "Great Hero Yayul would’ve stopped it before it got this far.",
+      "severity": "critical",
+      "source": "어지간하면 야율 대협 선에서 막아 줬을 텐데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They were moving even as I stood there, while I was trapped deep underground in an underground prison, unable to move an inch.",
+      "defect": "The draft replaces the urgent temporal cue “even at this very moment” with an unsupported claim that Taekyung was standing.",
+      "id": "F03",
+      "rationale": "지금 이 순간에도 describes the reconnaissance squad continuing to move right now; it says nothing about Taekyung’s posture.",
+      "replacement": "They were still on the move at that very moment, while I was trapped in a prison deep underground, unable to move an inch.",
+      "severity": "critical",
+      "source": "그들은 지금 이 순간에도 이동 중이며, 나는 지하 깊숙한 뇌옥에 갇혀 옴짝달싹 못 하는 상황이니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Would you like to check the linked Quest, **[Escape from Nanshank]**?[^1]",
+      "defect": "The coined title is misspelled as “Nanshank” rather than “Namshank,” contradicting its own footnote, and the Quest name is unnecessarily enclosed in square brackets inside a System panel.",
+      "id": "F04",
+      "rationale": "남생크 substitutes 남, “Nam,” into the Korean title of *The Shawshank Redemption*. The binding System-panel rules also prohibit square brackets around UI terms.",
+      "replacement": "Would you like to check the linked Quest, **Escape from Namshank**?[^1]",
+      "severity": "minor",
+      "source": "연계 퀘스트, [남생크 탈출]을 확인하시겠습니까?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "But the opponent who was young enough to be his son had merely smiled warmly and answered,",
+      "defect": "The draft invents a specific parent-child-sized age gap that the source does not establish.",
+      "id": "F05",
+      "rationale": "새파랗게 젊은 states only that Jin was strikingly young compared with Sudal; it does not say he was young enough to be Sudal’s son.",
+      "replacement": "But the much younger man had merely smiled warmly and answered,",
+      "severity": "minor",
+      "source": "하지만 수달에 비해 새파랗게 젊은 상대방은, 푸근한 미소를 지으며 이렇게 답했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Guizhou’s right next door. Let’s make a full sweep and raid the place on our way back.”",
+      "defect": "“On our way back” makes the raid sound like part of their return journey to Sichuan. Sudal actually proposes a temporary excursion into nearby Guizhou followed by a return.",
+      "id": "F06",
+      "rationale": "털고 오자 means to go raid Guizhou and return, not to raid it while already traveling back elsewhere.",
+      "replacement": "“Guizhou’s right next door. It’s close, so let’s make a sweep through it, raid the place, and come back.”",
+      "severity": "critical",
+      "source": "‘바로 옆 동네가 귀주잖냐. 가까우니까 한 번 쭉 돌아보면서 털고 오자.’"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Deputy Stronghold Lord, have you lost your mind?”\n\n“For fuck’s sake. If you want to die, die alone. Why should the rest of us get burned alive?”",
+      "defect": "The response omits the subordinate’s pointed reminder that Sudal is not even the chief, losing both the hierarchy challenge and the 수장/화장 wordplay.",
+      "id": "F07",
+      "rationale": "수장 here invokes Sudal’s lack of supreme authority while setting up the comic contrast with 화장, cremation. The draft preserves only the threat of burning.",
+      "replacement": "“Deputy Stronghold Lord, have you lost your mind?”\n\n“Fuck. If you want to die, die alone. You’re not even the boss—why should we all end up cremated?”",
+      "severity": "major",
+      "source": "‘부채주. 돌았소?’\n\n‘시바. 죽으려면 혼자 죽지. 수장도 아니고 화장당할 일 있나.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Give the Yangtze a little taste?”",
+      "defect": "The direction of the joke is reversed: the punishment is dipping the offending pirate into the Yangtze, not giving the river a taste of something.",
+      "id": "F08",
+      "rationale": "찍먹 supplies the comic name for the dunking punishment Sudal is trying to recall after ordering his men to throw the subordinate into the river.",
+      "replacement": "“The Yangtze dip?”",
+      "severity": "minor",
+      "source": "‘장강 찍먹이요?’"
+    }
+  ],
+  "summary": "The draft contains two consequential action/identity errors, several lost or redirected jokes, an unsupported age comparison, and a malformed Quest title.",
+  "version": 1
+}
