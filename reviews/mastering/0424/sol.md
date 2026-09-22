@@ -6,7 +6,7 @@ The vortex wreathed in blue flame devoured everything in its path.
 
 Ruined buildings with shattered concrete and bare steel frames. Human and monster corpses strewn together throughout the wreckage.
 
-The ultrahigh heat burned and melted countless things.
+The extreme heat burned and melted them all.
 
 All but one.
 
@@ -28,7 +28,7 @@ All but him.
 >
 > - **Strength**, **Stamina**, and **Agility** have temporarily decreased drastically!
 
-I felt the strength drain from my entire body. I could barely hear the System notification drilling into my ears—or the Skeleton Warlord’s shouts from inside my inventory.
+I felt the strength drain from my entire body. I could barely hear the System notifications in my ears, let alone the Skeleton Warlord shouting from inside my Inventory.
 
 My body felt as heavy as waterlogged cotton, and only one thought kept circling through my cold, numb mind.
 
@@ -52,7 +52,7 @@ And this was what letting my guard down had earned me.
 
 *Clang!*
 
-The iron spear slipped between my fingers and rolled across the ground. My legs, drained of strength, slowly gave way.
+The iron spear slipped through my fingers and rolled across the ground. My strengthless legs slowly gave way beneath me.
 
 As I sank to my knees and lowered my head, a deep darkness fell over me.
 
@@ -60,7 +60,7 @@ As I sank to my knees and lowered my head, a deep darkness fell over me.
 
 I barely managed to raise my head and met a pair of burning red eye-lights. A voice squeezed through my cracked lips.
 
-“Of course it feels like shit, you fucking bastard.”
+“It feels fucking awful, you bastard.”
 
 —It was a fearsome strike. I shall commend you for that much.
 
@@ -70,7 +70,7 @@ Even its teleportation magic had not allowed it to evade One Annihilation comple
 
 But in the end, it was the one standing here as the victor.
 
-The red eye-lights looking down at me, kneeling like a criminal, glimmered with joy.
+Its red eye-lights glimmered with delight as it looked down at me, kneeling like a condemned man.
 
 —I waited until the very end. I restrained myself and endured the humiliation of suffering at a human’s hands. And at last… victory belongs to me.
 
@@ -80,13 +80,13 @@ Just as I had thought, it had been waiting for me to use One Annihilation from t
 
 Earlier, I had swept away the Liches and Death Knights with One Annihilation, then recovered my stamina by leveling up. But the Arch Lich had not missed the fact that the attack had exhausted all my strength in an instant.
 
-—Do you understand now? This is your limit. The limit of humanity.
+—Do you understand now? This is your limit. The limit of a human.
 
 Limit.
 
 That one word pierced deep into my chest.
 
-The limit called F-rank, which I had been unable to escape no matter how hard I worked. The very limit I had continued to break through day after day after obtaining the System.
+The limit called F-rank, which I had been unable to escape no matter how hard I worked. The very limit I had broken through day after day ever since obtaining the System.
 
 *Is this really as far as I go?*
 
@@ -112,7 +112,7 @@ So this fight was not over.
 
 Only when one of us finally died would whoever remained standing be the victor.
 
-I mumbled in my dazed state.
+Through my daze, I muttered a command.
 
 *Inventory open. Summon.*
 
@@ -198,7 +198,7 @@ As the spearhead tore through the air with a piercing shriek, I saw it clearly.
 
 The Arch Lich’s eye-lights curved like crescent moons.
 
-It was mocking me.
+It was laughing at me.
 
 —Blood Explosion.
 
@@ -210,7 +210,7 @@ Then a shock tore through my entire body.
 
 My body, hurtling forward with every ounce of strength I possessed, abruptly locked up. The spear slipped from my hand and buried itself diagonally in the ground.
 
-I blinked with both eyes, their tiny blood vessels burst. In a world dyed entirely red, something sticky and wet fell from the air and touched my face.
+I blinked through eyes filled with burst blood vessels. In a world stained entirely red, something sticky and wet fell from above and splattered across my face.
 
 *Drip. Drip-drip-drip.*
 
@@ -238,7 +238,7 @@ I wanted to answer, but all that spilled between my lips was blood mixed with bi
 
 My vision spun.
 
-I reached toward the Arch Lich, barely visible through the blood covering my face, but I could neither touch it nor reach it.
+I reached toward the Arch Lich, barely visible through the blood covering my face, but I could not touch it. I could never reach it.
 
 Perhaps I never would.
 
@@ -248,11 +248,11 @@ Like that needed saying.
 
 Of course I did.
 
-I had to survive, defeat the Arch Lich, and return to the place where I belonged.
+I had to survive, bring that bastard down, and return to where I belonged.
 
 But…
 
-*Could I really do that?*
+*Can I?*
 
 At that moment, the world slowly began to tilt.
 
@@ -270,7 +270,7 @@ The faint pain, no sharper than a thorn prick, was proof that I was dying. The S
 
 —…do it, human! Hurry!
 
-Do what? What?
+Do what? What did it want me to do?
 
 —Summon me right n—!
 
@@ -280,13 +280,13 @@ Even if I had heard it clearly, I could not have stopped what the Arch Lich did 
 
 —You possess an interesting item.
 
-At some point, a familiar object had appeared in the Arch Lich’s hand.
+A familiar object had appeared in the Arch Lich’s hand.
 
 White Flame, my beloved spear that had accompanied me through countless battles, flared in a stranger’s grasp.
 
 But even as its finger bones burned, the Arch Lich merely laughed.
 
-—I have received an extravagant gift. I should return it to its owner now.
+—I have received a gift far beyond my station. Now I should return it to its owner.
 
 The Arch Lich drew back its arm. Powerful mana suppressed White Flame’s flames and surged toward the spearhead.
 
@@ -336,7 +336,7 @@ The Skeleton Warlord, previously no more than a skull the size of a soccer ball,
 
 “Then why? Why did you…”
 
-I looked at it as I asked.
+I stared at it as I asked.
 
 The spearhead had pierced the Skeleton Warlord’s back and chest, stopping exactly one handspan away from me.
 
@@ -358,7 +358,7 @@ That very Hero’s Soul was now in the Skeleton Warlord’s hand.
 
 In the hand of a named monster that was not even human.
 
-—Hero’s Soul. That is a decent name for something named by humans. No, to be honest, it is cool. It is a shame I was too late to swing it properly…
+—Hero’s Soul. Not a bad name for something humans came up with. No, to be honest, it is magnificent. Though I arrived too late to even swing it properly…
 
 The Skeleton Warlord’s voice faded.
 
@@ -408,9 +408,9 @@ And the words I had casually tossed its way.
 
 So that was why.
 
-That was what it had been about.
+That was all it had taken.
 
-For the Skeleton Warlord, which had awakened from a spirit that had lost all its memories and gained strength, I might have been its only friend—the one who had always been by its side.
+The Skeleton Warlord had awakened as a wandering spirit stripped of all its memories and gained strength. To it, I—the one who had always been by its side—might have been its only friend.
 
 One small remark I had tossed out like a pebble had sent ripples through the pond of its heart.
 

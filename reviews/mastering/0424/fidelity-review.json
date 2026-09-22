@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Even its teleportation magic had not allowed it to evade One Annihilation completely.",
+      "defect": "The current wording states the Arch Lich's failed evasion as certain, while the Korean presents it as an inference or uncertainty: its missing arm suggests that it may not have completely avoided the attack.",
+      "id": "F01",
+      "rationale": "The connective -는지 marks the narrator's uncertainty about the mechanism, not a confirmed fact.",
+      "replacement": "It seemed that even its teleportation magic had not allowed it to evade One Annihilation completely.",
+      "severity": "minor",
+      "source": "Lines 71–72"
+    },
+    {
+      "confidence": 0.91,
+      "current": "But the Arch Lich had not missed the fact that the attack had exhausted all my strength in an instant.",
+      "defect": "The current sentence makes the attack the grammatical cause and subject of the exhaustion. The source says the Arch Lich noticed that I had momentarily expended all my strength.",
+      "id": "F02",
+      "rationale": "The Korean explicitly attributes the expenditure to the narrator's action or state, preserving his deliberate overuse of power rather than assigning agency to the technique itself.",
+      "replacement": "But the Arch Lich had not missed the fact that I had momentarily exhausted all my strength.",
+      "severity": "minor",
+      "source": "Lines 79–81"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The faint pain, no sharper than a thorn prick, was proof that I was dying.",
+      "defect": "“No sharper than” adds an upper-bound comparison that the Korean does not establish. The source says the faint pain felt as though he had been pricked by a thorn.",
+      "id": "F03",
+      "rationale": "The source uses a simile for the sensation; it does not claim that the pain was no worse than a thorn prick.",
+      "replacement": "The faint pain, like a thorn prick, was proof that I was dying.",
+      "severity": "minor",
+      "source": "Lines 245–247"
+    }
+  ],
+  "summary": "Mostly faithful, with three localized fidelity defects involving evidential certainty, the subject of exhaustion, and an altered physical comparison.",
+  "version": 1
+}
