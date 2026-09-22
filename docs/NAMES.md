@@ -2089,3 +2089,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 백설기 | **White Rice Cake** | Mocking near-sobriquet that riffs on the Great Snow Fiend's title. |
 | 음괴 | **Yin Freak** | The Yin-aligned member of the Yin-Yang Twin Freaks. |
 | 빙신 | **Ice God** | Mock sobriquet that also functions as a harsh insult. |
+| 대마불사 | **a large group doesn't die easily** | Go proverb explaining why a large formation of stones is difficult to kill. |
+| 육참골단 | **Sacrifice flesh to break bone** | Idiom describing Jin's tactic of accepting injuries to kill Black Hand Fist Demon. |

@@ -1,26 +1,27 @@
 # Translation State
 
-- Last completed: 682
-- Next chapter: 683
-- Current block: 680–684 (3/5)
-- Latest translation: `translations/0682.md`
-- Latest summary: `summaries/beats/0682.md`
-- Safe profiles through: chapter 682
+- Last completed: 683
+- Next chapter: 684
+- Current block: 680–684 (4/5)
+- Latest translation: `translations/0683.md`
+- Latest summary: `summaries/beats/0683.md`
+- Safe profiles through: chapter 683
 
 ## Current Block
 
-- Jin Taekyung continues fighting the Great Snow Fiend and Black Hand Fist Demon despite his internal injuries. He deliberately presses forward, allowing a twin wheel to slash his shoulder while he clashes with Black Hand. When the Great Snow Fiend moves in for the killing blow, he instead drives an ice sword into Black Hand's back at the same moment Jin's hand pierces Black Hand's chest and reaches the Great Snow Fiend. Blue-white hellfire burns from the blood-covered strike, Black Hand's body collapses, and an unidentified red armor appears across Jin's upper body.
+- Jin Taekyung survives the Great Snow Fiend's attack by leveling up with the EXP gained from Black Hand Fist Demon, using the restored internal energy and Fire Dragon Armor to turn the lethal exchange in his favor. Black Hand is dead, while the injured Great Snow Fiend remains standing and realizes that Jin outmaneuvered him.
+- Jin and the Great Snow Fiend resume their duel with fire and cold, trading the Fire Dragon Divine Spear's Heavenly Strike, Flamefire Path, and hellfire against the Great Snow Fiend's ice sword and white Force. At the climax, an unidentified white-furred attacker strikes the Great Snow Fiend from behind as he unleashes his attack toward Jin.
 
 ## Open Questions
 
-- Will the Great Snow Fiend survive Jin's point-blank hellfire strike?
-- Will Black Hand Fist Demon survive being pierced by both the ice sword and Jin's attack?
-- What is the unidentified red armor covering Jin's upper body?
+- Will the Great Snow Fiend survive the rear attack and Jin's hellfire?
+- Who or what is the unidentified white-furred attacker?
 
 ## Exceptional Decision
 
-- Use unidentified red armor for 정체모를 붉은 갑옷 until its nature is identified.
-- Preserve the Great Snow Fiend's hunter-and-wounded-beast imagery in subsequent combat narration.
+- Render 대마불사 as the Go proverb "a large group doesn't die easily."
+- Render 육참골단 as "Sacrifice flesh to break bone."
+- Keep the white-furred attacker unidentified.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

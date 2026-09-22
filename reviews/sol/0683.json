@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The heat coming through his chest was scorching.",
+      "defect": "The opening impact sound is omitted.",
+      "id": "F01",
+      "rationale": "The source opens with a distinct explosive impact before describing the heat transmitted through his chest.",
+      "replacement": "BOOM!\n\nThe heat coming through his chest was scorching.",
+      "severity": "minor",
+      "source": "퍼엉!\n\n가슴을 통해 전해지는 열기는 뜨거웠고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But what tormented the Great Snow Fiend even more than the pain or his internal injuries as he lay embedded in the massive boulder was neither of those things.",
+      "defect": "The draft omits both the boulder's specified ten-thousand-geun weight and the fact that the Great Snow Fiend smashed through it as he was hurled away.",
+      "id": "F02",
+      "rationale": "The source explicitly describes him breaking the enormous weighted boulder as he crashes into it, rather than merely lying embedded in an intact boulder.",
+      "replacement": "But what tormented the Great Snow Fiend, who had been hurled through a massive ten-thousand-geun boulder, was neither the pain nor his internal injuries.",
+      "severity": "critical",
+      "source": "하지만 거대한 만근거석(萬斤巨石)을 부수며 처박힌 대설귀를 더욱 괴롭게 하는 것은 고통도, 내상도 아니었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin Taekyung's qi and blood had been thrown into chaos by the powerful Yin-Cold Qi, and he had even been cut by the twin wheels condensed from Force.",
+      "defect": "The draft says the twin wheels were formed from Force, changing the weapon mechanics; the source says Force had gathered around or upon the twin wheels.",
+      "id": "F03",
+      "rationale": "강기가 맺힌 modifies the existing twin wheels as being wreathed or charged with Force, not as weapons condensed out of Force.",
+      "replacement": "Jin Taekyung's qi and blood had been thrown into chaos by the powerful Yin-Cold Qi, and he had even been cut by the Force-wreathed twin wheels.",
+      "severity": "major",
+      "source": "틀림없다. 놈은 강대한 음한지기에 기혈이 뒤엉키고, 강기가 맺힌 쌍륜에 베이기까지 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A man who had loved Go more than anyone.",
+      "defect": "The unsupported superlative “more than anyone” intensifies the father's fondness beyond the source.",
+      "id": "F04",
+      "rationale": "참 좋아하던 means that he really or truly liked Go; it does not compare him with everyone else.",
+      "replacement": "A man who had truly loved Go.",
+      "severity": "minor",
+      "source": "바둑을 참 좋아하던 한 사람."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just so you know, I don't offer surrender advice.",
+      "defect": "“Surrender advice” is an unnatural literal collocation that obscures Taekyung's blunt statement that he will not ask his opponent to surrender.",
+      "id": "F05",
+      "rationale": "투항 권고 is an appeal or demand to surrender, not advice about surrendering.",
+      "replacement": "Just so you know, I don't ask people to surrender.",
+      "severity": "minor",
+      "source": "참고로 난 투항 권고 같은 거 안 한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Fire Dragon Divine Spear. This form—”\n\n“Heavenly Strike.”",
+      "defect": "The draft misreads 이 초식 as “this form,” losing the numbered Second Form, and presents the technique labels as spoken dialogue despite the source's unquoted narration.",
+      "id": "F06",
+      "rationale": "Here 이 is the Sino-Korean numeral 二, identifying Heavenly Strike as the technique's second form; the source formats the sequence as narration rather than speech.",
+      "replacement": "Fire Dragon Divine Spear.\n\nSecond Form.\n\nHeavenly Strike.",
+      "severity": "major",
+      "source": "화룡신창. 이 초식.\n\n천격(天格)."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Jin Taekyung kicked away the ice sword that had rushed at him faster than sound and did not hesitate.",
+      "defect": "The draft specifies that Taekyung kicked the sword away, while the source only says he knocked or swept it aside and does not identify the body part or weapon used.",
+      "id": "F07",
+      "rationale": "걷어 내다 means to clear, sweep, or knock something aside; specifying a kick adds an unsupported combat action.",
+      "replacement": "Jin Taekyung knocked aside the ice sword that came hurtling at him faster than sound and did not hesitate.",
+      "severity": "major",
+      "source": "음속(音速)보다도 빠른 속도로 들이닥친 빙검을 걷어 낸 진태경은 망설이지 않았다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Gah!”\n\nThe speed was simply too great.\n\nThe Great Snow Fiend released a roar and gathered Yin-Cold Qi in both hands.",
+      "defect": "“Gah!” reads as a cry of pain or surprise, whereas 갈 is a deliberate, roar-like martial shout.",
+      "id": "F08",
+      "rationale": "The following narration explicitly characterizes the utterance as a roar-like shout, so an assertive kiai is required.",
+      "replacement": "“Hah!”\n\nThe speed was simply too great.\n\nThe Great Snow Fiend released a roar and gathered Yin-Cold Qi in both hands.",
+      "severity": "minor",
+      "source": "“갈(喝)!”\n\n너무나도 빠른 속도.\n\n포효와도 같은 외침을 터트린 대설귀가 양손 가득 음한지기를 끌어모았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Beyond the blurred sight of the old monster, the thing that had passed him ran straight onward without slowing.",
+      "defect": "The draft changes the Great Snow Fiend's clouded judgment into blurred eyesight, losing the source's characterization of his impaired decision-making.",
+      "id": "F09",
+      "rationale": "판단력이 흐려진 specifically means that his judgment had become clouded; it does not say that his vision was blurred.",
+      "replacement": "The thing that flashed through the old monster's vision as his judgment clouded raced straight onward without slowing.",
+      "severity": "major",
+      "source": "판단력이 흐려진 노괴의 시야 너머에서 스쳐 지나간 그것은, 속도를 줄이지 않고 곧장 어딘가로 달려 나갔다."
+    }
+  ],
+  "summary": "The draft contains several altered or omitted combat mechanics, including the shattered boulder, Force-wreathed weapons, the numbered spear form, an unspecified parry turned into a kick, and clouded judgment changed to impaired vision.",
+  "version": 1
+}
