@@ -2063,3 +2063,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 우투리 | **Utu-ri** | The old owner of the noodle shop summoned by Baeksang. |
 | 진세돌 | **Jin Sedol** | Jin Taekyung's father's online Go username. |
 | 민준 | **Minjun** | Taekyung's childhood classmate whose leg he accidentally fractured during a soccer game. |
+| 금력단 | **Force-Sealing Pill** | Special pill blocking Jin Taekyung's dantian and preventing internal-energy use. |
