@@ -1,6 +1,6 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 730
+- **Safe through:** Chapter 731
 - **Aliases:** Choi Minwoo (최민우)
 - **Role:** Team Leader Choi is Cheon Taemin's only living blood relative, a formidable aura-wielding swordsman who wields Hero's Soul, the new City Lord, and the current Guild Master of the Peace Guild and Vice Guild Master of Ares Guild after a unanimous board vote.
 - **Personality:** Strategic, candid, controlled, and possessive of the power and influence he intends to inherit.

@@ -1192,3 +1192,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 막내 직원 | 김 과장 | junior evidence-storage employee to manager | Manager | formal-polite | Reports the missing Go Jun-related evidence using 과장님. |
 | 보안팀장 | 김 과장 | Security Team Leader to evidence-storage manager | Manager Kim | formal-polite and urgent | Confronts Manager Kim after learning that the necklace is missing. |
 | 김 과장 | 막내 직원 | manager to junior employee | you | harsh and condescending | Orders the junior employee to recheck the inventory and later tries to conceal the disappearance. |
+| 후긴 | 진태경 | Odin Guild messenger to an Ares Guild ally and adversary | Mr. Jin | formal-polite, increasingly coercive | Huginn addresses Jin while questioning his presence and later warns him not to lose his temper. |
+| 후긴 | 최민우 | Odin Guild messenger to Ares Guild's new master | Mr. Choi | formal-polite, diplomatic, and threatening | Huginn asks Choi to choose personally whether to stop the Mana Cultivation Method's release. |
+| 진태경 | 후긴 | Ares Guild ally to an Odin Guild messenger and adversary | Mr. Crow | insulting-casual and profane | Jin uses the crow nickname while mocking Huginn's theatrics and threatening posture. |
