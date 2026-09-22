@@ -1,32 +1,30 @@
 # Translation State
 
-- Last completed: 686
-- Next chapter: 687
-- Current block: 685–689 (2/5)
-- Latest translation: `translations/0686.md`
-- Latest summary: `summaries/beats/0686.md`
-- Safe profiles through: chapter 686
+- Last completed: 687
+- Next chapter: 688
+- Current block: 685–689 (3/5)
+- Latest translation: `translations/0687.md`
+- Latest summary: `summaries/beats/0687.md`
+- Safe profiles through: chapter 687
 
 ## Current Block
 
-- Jin Taekyung remains alive but falls into a deep sleep after defeating the unidentified old man and Black Hand Fist Demon, two Supreme Peak masters. Awed by his victory and sacrifice, Yohi resolves to expose Baeksang's conspiracy with Dark Heaven, abandon the Inner Palace, and travel west with Heugung and Jin to Boshan, where she can rally the Yao people and warn Nanman within seven days.
-- Heugung gives Yohi the Black Hand Fist Demon's antidote, carries Jin onto Muyaho, and prepares to leave the Poisonblood Grounds. When Yohi notices that Heugung has concealed more than his identity, he remarks that he had to hide himself first; blood then sprays and a massive silver body collapses, leaving the attack's target and Heugung's true nature unresolved.
+- After Jin Taekyung loses consciousness and the White Tiger collapses, Heugung reveals that he is secretly the Beast Miao King, having used the Bone-Shrinking Technique at Great Completion to conceal his identity for decades. He had monitored Yohi and Baeksang under the Southern Heaven Demon Empress's orders, and now intends to take the unconscious Jin and Yohi to the Inner Palace while blaming Jin and the Murim Alliance for a conspiracy against Nanman. Heugung threatens to massacre more than five thousand Yao people at Boshan unless Yohi cooperates, then incapacitates her and prepares to carry Jin away before a blade-like wind suddenly attacks him.
 
 ## Open Questions
 
-- What did Heugung's final attack hit, and what hidden identity or allegiance was he concealing?
-- Did Muyaho survive the attack, and what is the condition of Jin, Yohi, and Heugung afterward?
-- Has Baeksang already seized the Inner Palace with Dark Heaven's support?
-- Will the Water God Dragon's Origin Essence save Jin or kill him because of its incompatibility with his Scorching Yang Qi?
-- Can Yohi rally enough Nanman warriors to challenge Baeksang before the conspiracy consolidates?
+- What created the blade-like wind, and did the attack injure or stop Heugung?
+- Will Yohi and Jin remain under Heugung's control after the attack?
+- Will Yohi submit to Heugung's fabricated account to save the Yao people at Boshan?
+- Can Heugung still carry out the plan to mobilize Nanman against the Central Plains?
 
 ## Exceptional Decision
 
-- Render 보산 as Boshan.
-- Render 탈각 as molting.
-- Render 대계 as the grand plan.
-- Render 해약 as antidote.
-- Render 수신룡의 원정 as Water God Dragon's Origin Essence.
+- Render 궁주 as Palace Lord.
+- Render 수마 as sleep demon.
+- Render 사대 부족 as four great tribes.
+- Render 삼대 부족 as three great tribes.
+- Render 적자 as legitimate son.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

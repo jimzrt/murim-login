@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Though she had sympathized with Baeksang’s intentions, she had been nothing more than an indirect accomplice who had chosen tacit consent.",
+      "defect": "“Sympathized with” softens Yohi’s deliberate alignment with Baeksang, while “chosen tacit consent” is an unnatural rendering of her indirect participation through acquiescence.",
+      "id": "F01",
+      "rationale": "동조 means siding with or supporting Baeksang, not merely sympathizing with his intentions; 묵인을 앞세운 describes tacit acquiescence as the form her complicity took.",
+      "replacement": "Although she had sided with Baeksang, she had only been an indirect accomplice whose involvement amounted to tacit acquiescence.",
+      "severity": "major",
+      "source": "비록 백상의 뜻에 동조했다고는 하나, 어디까지나 묵인을 앞세운 간접적인 동조자에 불과했으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Fools. The Demon Empress warned them to be careful so many times.”",
+      "defect": "The draft invents repeated warnings. 그토록 intensifies the degree of caution urged, not the number of times the warning was given.",
+      "id": "F02",
+      "rationale": "The source emphasizes how strongly they were cautioned, without specifying repeated warnings.",
+      "replacement": "“Fools. The Demon Empress told them to be so careful.”",
+      "severity": "minor",
+      "source": "“멍청한 놈들. 마후께서 그토록 주의하라 하셨거늘.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Ah. I forgot to tell you one thing. If you refuse my proposal, Boshan will run red with blood. And the four great tribes that once dominated Nanman will become three.”",
+      "defect": "“Once dominated” incorrectly implies that the four great tribes no longer hold power in Nanman before Heugung’s threat, weakening the current hierarchy he is threatening to destroy.",
+      "id": "F03",
+      "rationale": "남만을 주름잡던 identifies the established Four Great Tribes that hold sway over Nanman; the threat is that one of those existing powers will be exterminated.",
+      "replacement": "“Ah. I forgot to tell you one thing. If you refuse my proposal, Boshan will run red with blood. And the four great tribes that dominate Nanman will become three.”",
+      "severity": "major",
+      "source": "“아. 한 가지를 말 해주는 걸 깜빡했구려. 만약 그대가 이 제안을 거절한다면 보산(保山)이 피로 물들 거요. 그리고 남만을 주름잡던 사대 부족은 삼대 부족이 되겠지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "When every change was complete with a brief, pain-filled groan from Heugung, two short syllables slipped from Yohi’s frozen lips.",
+      "defect": "The draft converts the source’s count of two Korean written characters into “two syllables,” but the English title “Palace Lord” has three syllables.",
+      "id": "F04",
+      "rationale": "두 글자 refers to the two written characters in 궁주; avoiding a numerical claim preserves the beat without creating a false statement in English.",
+      "replacement": "When every change was complete with a brief, pain-filled groan from Heugung, a short title slipped from Yohi’s frozen lips.",
+      "severity": "minor",
+      "source": "얼어붙어 있던 요희의 입술 사이로 짧은 두 글자가 흘러나왔다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“This is why I can’t help loving you. Not only are you dazzlingly beautiful, you’re this innocent too.”",
+      "defect": "“Innocent” softens Heugung’s taunt about how easily Yohi was deceived into taking the false antidote.",
+      "id": "F05",
+      "rationale": "In this immediate context, 순진 mocks Yohi’s gullibility rather than praising moral innocence.",
+      "replacement": "“This is why I can’t help loving you. Not only are you dazzlingly beautiful, you’re this naïve too.”",
+      "severity": "minor",
+      "source": "“이러니 내가 그대를 사랑할 수밖에 없지. 눈이 부시도록 아름다운 데다가 이토록 순진하기까지 하니.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "In the direction of his footsteps was the culprit who had dared to ruin the grand plan.",
+      "defect": "“Had dared to ruin” states that Jin successfully ruined the grand plan, contradicting the following explanation that he only dealt it a severe blow and that it will still succeed.",
+      "id": "F06",
+      "rationale": "그르치려 한 describes Jin as having threatened or come close to derailing the plan, not as having already destroyed it.",
+      "replacement": "He walked toward the culprit who had dared to jeopardize the grand plan.",
+      "severity": "critical",
+      "source": "그의 발걸음이 향하는 곳에는 감히 대계(大計)를 그르치려 한 원흉이 있었다."
+    }
+  ],
+  "summary": "The draft contains one plot-consequence error and several meaningful fidelity and register issues, including softened complicity, altered hierarchy, and weakened mockery.",
+  "version": 1
+}
