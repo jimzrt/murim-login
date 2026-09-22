@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is substantially faithful, with two localized fidelity regressions: one changes an organizational relationship, and the other weakens a specific exaggeration in Jeok Cheongang’s hatred of Dark Heaven.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "P42 / Korean lines 83–85",
+      "current": "the two strongholds on Dongting Lake",
+      "defect": "The source says Dangyang Stronghold and Honghu Stronghold operated under Dongting Lake’s authority. “On Dongting Lake” changes that subordinate organizational relationship into a geographic location.",
+      "replacement": "the two strongholds operating under Dongting Lake’s authority",
+      "rationale": "휘하에 있는 denotes being under the command or jurisdiction of Dongting Lake, not merely being located on it.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "P100 / Korean lines 203–205",
+      "current": "had ground his teeth at the mere mention of its name",
+      "defect": "The source emphasizes that Jeok Cheongang reacts even when only the first character or syllable of Dark Heaven’s name is mentioned. The current line weakens this to mention of the full name and loses the exaggerated detail preserved in the accepted baseline.",
+      "replacement": "had ground his teeth at so much as the first syllable of its name",
+      "rationale": "암천의 암자만 나와도 means that even just 암, the opening character or syllable of 암천, was enough to provoke him.",
+      "confidence": 0.97
+    }
+  ]
+}

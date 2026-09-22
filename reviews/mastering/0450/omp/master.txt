@@ -2,11 +2,11 @@
 
 Several dozen people had gathered near the sandy shore at the far end of the island.
 
-When the martial artists surrounding us opened a path, I finally spotted some familiar faces.
+When the martial artists surrounding them opened a path for us, I finally spotted some familiar faces.
 
 “Uncle Hwang! How could you leave your nephew behind? How could you!”
 
-Mu Song wailed in a hoarse voice. Perfected Being Hyeongong of Wudang watched him with a sorrowful expression, while Crouching Dragon Guest Zhuge Feng watched with a profound, unreadable gaze.
+Mu Song wailed himself hoarse. Perfected Being Hyeongong of Wudang watched him with sorrow, while Crouching Dragon Guest Zhuge Feng regarded the scene with a profound, unreadable gaze.
 
 And then…
 
@@ -58,9 +58,9 @@ Yangtze One Saber Hwang Chung now looked more like a lump of meat than a corpse.
 
 Cheongpung and Gung Gibang murmured, their faces pale.
 
-I stared at the corpse with my face stiff as stone, then suddenly felt something strange and opened my mouth.
+I stared grimly at the corpse until something struck me as odd.
 
-“What are those corpses?”
+“Who are those two?”
 
 The island was littered with bodies, so a few more were hardly surprising.
 
@@ -100,7 +100,7 @@ In that sense, Yangtze One Saber Hwang Chung would have made the perfect leash.
 
 He was the second strongest master in the Yangtze River Channel League after the Seafaring King, and he must have been exceptionally skilled at handling people as well.
 
-But the sturdy leash had snapped, and the two vicious hounds had also been found dead.
+But that sturdy leash had snapped, and the two vicious hounds had been found dead beside him.
 
 The Yangtze River Channel League’s forces in Hubei Province, which had fought the Sea Serpent Society over local interests for years, had also been laid to waste.
 
@@ -114,7 +114,7 @@ After Henan and Sichuan, Dark Heaven’s shadow had finally fallen over Hubei Pr
 
 No—perhaps Dark Heaven had stood astride the world for a very long time.
 
-Perhaps we simply had not felt its shadow because it had been night, with not a single ray of light.
+Perhaps we simply hadn’t noticed its shadow because the world had been plunged into a moonless night.
 
 *Just as the Head Elder joined hands with Dark Heaven long ago.*
 
@@ -204,7 +204,7 @@ After thinking for a moment, I clapped my hands.
 
 “…!”
 
-“You should have just said so instead of beating around the bush. I forgot to take that into account, too.”
+“You should’ve just said so instead of beating around the bush. I forgot to take that into account.”
 
 “W-who says I care about a little water? Have you forgotten who this old man is?”
 
@@ -226,7 +226,7 @@ I gave Hyuk Mujin a light kick in the butt as I answered.
 
 “Leave? Where are we going?”
 
-“The Zhuge Clan. It seems we need to bring back people skilled in formations and mechanisms. If necessary, we’ll also bring in reinforcements from Wudang. I heard they have several Daoists who are well versed in formations.”
+“The Zhuge Clan. We need to bring back people skilled in formations and mechanisms. If necessary, we’ll get reinforcements from Wudang, too. I heard they have several Daoists well versed in formations.”
 
 “Wudang might be difficult.”
 
@@ -262,7 +262,7 @@ The question vanished at Gung Gibang’s next words.
 
 This hadn’t happened just anywhere. The massacre had taken place on Mount Wudang itself.
 
-As if pilgrims being massacred right in Wudang’s own front yard weren’t enough, the victims included children of high officials and nobles. Wudang’s fury was only natural.
+As if slaughtering pilgrims in Wudang’s own front yard weren’t enough, the bastard had killed the children of high officials and nobles. Wudang’s fury was only natural.
 
 *He’s completely insane. Bold, too.*
 
@@ -270,13 +270,13 @@ For a moment, the words *Dark Heaven* crossed my mind, but I soon shook my head.
 
 This was Murim. It was full of lunatics who made modern serial killers look like amateurs.
 
-Even if someone were murdered in broad daylight on a main road, it would not be all that surprising.
+Even a murder committed on a busy road in broad daylight wouldn’t be especially surprising.
 
-*If Dark Heaven had done this, an incident incomparably larger would have erupted.*
+*If Dark Heaven had done it, something incomparably worse would’ve happened.*
 
 In any case, that was Wudang’s situation. We could reconsider the matter after reaching the Zhuge Clan.
 
-“Well, now that I know, everyone pack your things. They’re already preparing outside to take us back.”
+“Well, now that we know, everyone pack your things. The others outside are already getting ready to take us back.”
 
 Jin Wikyung had already decided to remain behind before I went to meet Zhuge Feng, so I only needed to bring the people gathered here.
 
