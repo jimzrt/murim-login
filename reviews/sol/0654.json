@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Not a single internal organ remained undamaged, and the acupoints that should have been broad and sturdy in a Peak master had collapsed like the walls of a dilapidated house.",
+      "defect": "Acupoints cannot be broad or collapse like walls; here 혈도 refers collectively to the body's internal qi pathways, not individual points.",
+      "id": "F01",
+      "rationale": "The descriptions 넓고 튼튼해야 할 and 허물어져 있었다 characterize extended pathways capable of being broad, sturdy, and structurally ruined.",
+      "replacement": "Not a single internal organ remained undamaged, and the qi pathways that should have been broad and sturdy in a Peak master had collapsed like the walls of a dilapidated house.",
+      "severity": "major",
+      "source": "내장기관은 상하지 않은 곳이 없었고, 절정 고수답게 넓고 튼튼해야 할 혈도는 낡은 폐가의 담벼락처럼 허물어져 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They had wanted to speak. They simply had not been able to.",
+      "defect": "The draft turns a conditional statement into a factual assertion that the men wanted to speak.",
+      "id": "F02",
+      "rationale": "하고 싶어도 means “even if they wanted to,” preserving uncertainty about their desire while stressing their physical inability.",
+      "replacement": "No. Even if they had wanted to speak, they couldn't.",
+      "severity": "major",
+      "source": "아니, 하고 싶어도 하지 못했던 거다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Hmm. The others are the same. The cut surfaces on their tongues have healed, so it seems they took care of this a long time ago.”",
+      "defect": "The draft assigns the mutilation to the masked men themselves, while the Korean leaves whoever took the measure unspecified.",
+      "id": "F03",
+      "rationale": "조치를 취해 놓은 모양이야 does not identify an agent; retaining the passive avoids adding responsibility that the scene has not established.",
+      "replacement": "“Hmm. The others are the same. Judging by how the severed ends of their tongues have healed, it looks like this was done a long time ago.”",
+      "severity": "major",
+      "source": "“음, 다른 놈들도 마찬가지다. 혀의 단면이 아물어 있는 것을 보아하니, 이미 오래전에 조치를 취해 놓은 모양이야.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "On top of that, the true mastermind behind today's attack was connected to those two words: Dark Heaven.",
+      "defect": "“Was connected to” weakens Jin’s conclusion from Dark Heaven being the true force behind the attack to a vague association.",
+      "id": "F04",
+      "rationale": "진정한 배후에는 암천이라는 두 글자가 있었다 directly places Dark Heaven behind the attack rather than merely connecting the mastermind to it.",
+      "replacement": "On top of that, the true force behind today's attack could be summed up in two words: Dark Heaven.",
+      "severity": "major",
+      "source": "게다가 오늘의 습격의 진정한 배후에는 암천이라는 두 글자가 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I can tell just from the fact that they severed their heart meridians instead of taking poison.",
+      "defect": "The draft generalizes 독단, a poison pill, to poison of any form, weakening the specific contrast developed immediately afterward.",
+      "id": "F05",
+      "rationale": "독단 specifically denotes the fast, easy poison pill later contrasted with the painful act of severing the heart meridian.",
+      "replacement": "I can tell just from the fact that they severed their heart meridians instead of taking a poison pill.",
+      "severity": "minor",
+      "source": "‘독단이 아니라 심맥을 끊은 것만 봐도 짐작할 수 있지.’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "This was the sort of place where all kinds of venomous creatures swarmed even if you simply went on a picnic in the grass outside the Outer Palace.",
+      "defect": "The established rendering for 독물 is “venomous beasts,” not “venomous creatures.”",
+      "id": "F06",
+      "rationale": "The binding glossary explicitly maps 독물 to “venomous beasts.”",
+      "replacement": "This was the sort of place where all kinds of venomous beasts swarmed even if you simply went on a picnic in the grass outside the Outer Palace.",
+      "severity": "minor",
+      "source": "당장 외궁 밖의 풀숲으로 피크닉만 가도 온갖 독물들이 우글거리는 동네니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“…Too late.”",
+      "defect": "The draft makes Yayul Mok declare that the situation is beyond remedy and intensifies 늦었어 with “too,” whereas he is acknowledging that he himself arrived late.",
+      "id": "F07",
+      "rationale": "Jin’s immediate reply, 그래, 늦었지, confirms that Yayul Mok is commenting on his own late arrival; the source does not say “too late.”",
+      "replacement": "“…I’m late.”",
+      "severity": "major",
+      "source": "“……늦었군.”"
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter the medical mechanism, assign agency or intent absent from the source, weaken Dark Heaven’s stated role, and change Yayul Mok’s pragmatic meaning.",
+  "version": 1
+}
