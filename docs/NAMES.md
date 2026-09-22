@@ -2054,3 +2054,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 전서 | **missive** | A written message exchanged or delivered in secret. |
 | 우렁각시 | **snail bride** | Korean folktale figure associated with secretly doing housework. |
 | 검기성강 | **Sword Energy Becoming Force** | Supreme Peak realm in which Sword Energy has entered the Force stage. |
+| 서요부 | **Western Yao Estate** | Yohi's residence in the western part of the Inner Palace. |
+| 동이부 | **Eastern Yi Estate** | Heugung's tribal residence in the eastern part of the Inner Palace. |

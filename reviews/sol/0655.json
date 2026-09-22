@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Even if I personally suspected Baeksang, I was not stupid enough to jump to this conclusion.",
+      "defect": "The draft makes Jin the subject of the judgment, but the source says Baeksang is not enough of a blockhead to implicate himself so obviously.",
+      "id": "F01",
+      "rationale": "The omitted subject of 이 정도의 돌대가리는 아니다 is Baeksang, whose intelligence and likely use of a Dark Heaven master Jin evaluates in the following sentence.",
+      "replacement": "Even if I personally suspected Baeksang, he wasn’t this much of a blockhead.",
+      "severity": "critical",
+      "source": "개인적으로 백상에 대한 의심이 있다고는 해도 이 정도의 돌대가리는 아니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Not far away, several warriors were pulling a tiger out of a well, its drenched body hanging limp.",
+      "defect": "The exact quantity of three or four warriors is generalized to “several.”",
+      "id": "F02",
+      "rationale": "서너 명 explicitly means three or four people.",
+      "replacement": "Not far away, three or four warriors were pulling a tiger out of a well, its drenched body hanging limp.",
+      "severity": "minor",
+      "source": "몇 걸음 떨어지지 않은 우물에서는 서너 명의 전사가 물에 젖어 축 늘어진 호랑이를 끌어 올리는 중이었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“…Fuck.”",
+      "defect": "The draft turns a deliberately softened or distorted curse into the same explicit profanity used later for 씨발, erasing the source’s register shift.",
+      "id": "F03",
+      "rationale": "시벌 is a minced alteration of 씨발; the later unaltered 씨발 warrants the stronger “Fuck,” so the two should not be rendered identically.",
+      "replacement": "“…Damn it.”",
+      "severity": "major",
+      "source": "“……시벌.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Western Yao Tribe.",
+      "defect": "The name on the plaque is rendered as the Yao tribe itself rather than the Yao great chieftain’s western estate within the Inner Palace.",
+      "id": "F04",
+      "rationale": "The surrounding passage establishes these as directionally placed residences granted to the great chieftains, and immediately identifies this one as an 장원, an estate.",
+      "replacement": "Western Yao Estate.",
+      "severity": "major",
+      "source": "서요부(西瑤部)."
+    },
+    {
+      "confidence": 0.97,
+      "current": "All that remained in the Western Yao Tribe’s residence was blood, corpses, and…”",
+      "defect": "The draft treats the place-name as a tribe and then adds “residence” possessively, obscuring that the source directly names the estate.",
+      "id": "F05",
+      "rationale": "요서부 here refers to the same named residence where the attack occurred, not to a separate tribal entity.",
+      "replacement": "All that remained in the Western Yao Estate was blood, corpses, and…”",
+      "severity": "major",
+      "source": "요서부에 남아 있던 것은 피와 시체, 그리고……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If the Yao people had established the Western Yao Tribe in the west, then the Yi people led by Heugung had settled in the east and established the Eastern Yi Tribe.",
+      "defect": "The draft nonsensically says that the peoples established their own tribes; the source is describing the western and eastern estates they established inside the Inner Palace.",
+      "id": "F06",
+      "rationale": "The directional compounds are the great chieftains’ residences introduced at the start of the chapter, not names for the Yao and Yi peoples themselves.",
+      "replacement": "If the Yao people had established the Western Yao Estate in the west, then the Yi people led by Heugung must have settled in the east and established the Eastern Yi Estate.",
+      "severity": "major",
+      "source": "요족이 서쪽에 서요부를 세웠다면, 흑웅이 이끄는 이족은 동쪽에 자리 잡아 동이부를 세운 모양이었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Namho, who had spent his time as an agent of the Hidden Shadow Pavilion and encountered countless pieces of information, was beside me. But that only applied to wanted portraits and external characteristics of fiends.",
+      "defect": "“Wanted portraits” makes Namho’s knowledge specifically pictorial and tied to wanted notices, while the source refers more broadly to identifying descriptions and outward characteristics.",
+      "id": "F07",
+      "rationale": "용모파기 denotes identifying descriptions of a person’s appearance and distinguishing marks; the source does not specify actual portraits or wanted notices.",
+      "replacement": "Namho, who had spent his time as an agent of the Hidden Shadow Pavilion and encountered countless pieces of information, was beside me. But his knowledge was limited to descriptions of fiends’ appearances and outward characteristics.",
+      "severity": "minor",
+      "source": "내 옆에는 은영각 요원으로 활동하며 수많은 정보를 접한 남호가 있긴 하지만, 그건 마두의 용모파기나 외적인 특징에 한해서일 뿐이다."
+    }
+  ],
+  "summary": "One critical subject reversal changes Jin’s assessment of Baeksang. The draft also loses an exact quantity and profanity distinction, misidentifies named estates as tribes, and overstates the form of Namho’s intelligence knowledge.",
+  "version": 1
+}
