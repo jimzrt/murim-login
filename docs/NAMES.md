@@ -2036,3 +2036,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 회족 | **Hui people** | Nanman tribe whose chieftain supports Jin's attendance. |
 | 부이족 | **Bouyei people** | Nanman tribe whose chieftain supports Jin because Nanman is her homeland. |
 | 구천 | **Nine Springs** | Euphemism for the realm of the dead. |
+| 혈승 | **Blood Monk** | Sobriquet of the unidentified bald martial artist active in Guizhou. |
+| 해남 | **Hainan** | Island region reached by sailing south from Guangxi. |
+| 황족 | **Huang tribe** | Nanman tribe involved in a recently settled dispute. |
+| 둥족 | **Dong tribe** | Nanman tribe involved in a recently settled dispute. |
