@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "I merely had something to ask him about his Middle Dantian.",
+      "defect": "The source does not assign the Middle Dantian to Mungyeong. The added possessive most naturally makes it Mungyeong's, changing the object of the question and removing the source's ambiguity.",
+      "id": "F01",
+      "rationale": "중단전에 관해 물어볼 것이 있었을 뿐이다 contains no possessive; the following exchange concerns the unexplained opening of Taekyung's Middle Dantian.",
+      "replacement": "I merely had something to ask him about the Middle Dantian.",
+      "severity": "minor",
+      "source": "Line 41"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Yes. Surely you didn’t fail to notice.",
+      "defect": "The current changes knowing about something into noticing it. The source is an epistemic challenge: Mungyeong surely cannot claim that he did not know.",
+      "id": "F02",
+      "rationale": "몰랐다고 하진 않겠지 means “you wouldn’t say you didn’t know,” not “you failed to notice.”",
+      "replacement": "Yes. Surely you wouldn’t say you didn’t know.",
+      "severity": "minor",
+      "source": "Line 47"
+    },
+    {
+      "confidence": 0.94,
+      "current": "with their cozy ties to the League",
+      "defect": "“Cozy ties” weakens and partially obscures the explicit collusive relationship between the government warships and the Yangtze River Channel League.",
+      "id": "F03",
+      "rationale": "끈끈한 유착 관계 refers specifically to a close, collusive relationship, not merely friendly or comfortable ties.",
+      "replacement": "bound to the League by tight collusive ties",
+      "severity": "minor",
+      "source": "Line 175"
+    },
+    {
+      "confidence": 0.89,
+      "current": "demonic, heterodox arts—and an unparalleled demonic martial art at that",
+      "defect": "“Unparalleled” adds a claim of unmatched superiority and drops the source's age-old or legendary sense.",
+      "id": "F04",
+      "rationale": "천고의 means something associated with the ages or long history; it is not the same as “unparalleled.”",
+      "replacement": "demonic, heterodox arts—and an age-old demonic martial art at that",
+      "severity": "minor",
+      "source": "Line 251"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but four localized wording choices alter or weaken source meaning.",
+  "version": 1
+}

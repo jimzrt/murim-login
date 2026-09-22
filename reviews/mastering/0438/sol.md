@@ -28,7 +28,7 @@ Jeok Cheongang turned toward me.
 
 “You answer me. Is what that old man said true?”
 
-“It’s true that we only talked, but he said I’d sink to the bottom of the Yangtze if he didn’t like my answer.”
+“It’s true that we only talked, but he said he’d sink me to the bottom of the Yangtze if he didn’t like my answer.”
 
 At my tattling, Mungyeong shamelessly added,
 
@@ -106,13 +106,13 @@ After tossing out that remark for Mungyeong to hear, Jeok Cheongang suddenly swu
 
 I glanced at Mungyeong, who stood there wearing an unreadable expression. A thunderous shout immediately crashed down on me.
 
-“And yet, you brat!”
+“You’re still dawdling!”
 
 “Okay, okay, I get it. Please stop shouting.”
 
 “Dragging your feet like this, do you even intend to train?”
 
-I turned my back on Mungyeong and followed close behind Jeok Cheongang, whispering,
+I turned my back on Mungyeong and hurried after Jeok Cheongang, whispering,
 
 “But aren’t you going to ask anything else?”
 
@@ -132,7 +132,7 @@ That was exactly what I wanted. I wasn’t some Mermaid Princess of the Yangtze,
 
 “…I’m the victim here. Why are you blaming me?”
 
-“Quiet. I was about to smash everything to pieces earlier, but I held myself back.”
+“Quiet. I nearly smashed everything to pieces earlier, but I held myself back.”
 
 “Come to think of it, you really did show restraint.”
 
@@ -168,7 +168,7 @@ The swift ship cut through the water without slowing.
 
 Every vessel that saw the flag of the Yangtze River Channel League flying high above the deck hurriedly cleared a path. Even the government warships with their cozy ties to the League were no exception.
 
-The river bandits knew the lower Yangtze and its waterways like the backs of their hands. Following Mu Song’s orders, they pulled hard on their oars, while the sails billowed wide in the wind blowing from far away.
+The river bandits knew the lower reaches of the Yangtze and all its waterways like the backs of their hands. Following Mu Song’s orders, they pulled hard on their oars while the sails billowed in the wind.
 
 Like the churning waters of the Yangtze, the hours of that day rushed past.
 
@@ -218,17 +218,17 @@ Several shichen earlier, Jeok Cheongang had used Sound Transmission to tell Mung
 
 “Then call yourself a life-taker.”
 
-“Disciple and Master alike. Your words and actions are exactly the same.”
+“Like Disciple, like Master. You even talk the same.”
 
 Ignoring Mungyeong’s frown, Jeok Cheongang took another drink and wiped his mouth with his sleeve before answering.
 
-“Our words and actions may resemble each other, but we’re worlds apart. That brat is a monster who has strayed beyond all common sense.”
+“We may talk alike, but we’re worlds apart. That brat is a monster who defies all common sense.”
 
 Mungyeong nodded silently.
 
-He couldn’t disagree with the word *monster*. Reaching the Supreme Peak realm just after passing the age of twenty was astonishing enough, but Jin Taekyung had taken another step before he had even caught his breath.
+He couldn’t disagree with the word *monster*. Reaching the Supreme Peak realm just after turning twenty was astonishing enough, but Jin Taekyung had taken another step before he had even caught his breath.
 
-*When did he reach the Supreme Peak realm?*
+*When did I reach the Supreme Peak realm?*
 
 Mungyeong searched his memories of the distant past.
 
@@ -308,7 +308,7 @@ Mungyeong silently watched Jeok Cheongang’s back as he rose from the railing a
 
 “Taekyung?”
 
-Jeok Cheongang turned his head and laughed heartily beneath the moonlight.
+Jeok Cheongang turned and laughed heartily beneath the moonlight.
 
 “He’s sleeping like the dead.”
 
@@ -324,7 +324,7 @@ During the little over a week it would take to reach Hubei, I had decided to tra
 
 I opened my eyes to the familiar chime. I was inside the private jet bound for Korea.
 
-I saw people sleeping soundly from all the fatigue they had accumulated, along with one monster staring at me with his eyes wide open.
+Everyone was sleeping soundly, exhausted from everything they had been through. Everyone except one monster, who was staring at me with his eyes wide open.
 
 “What are you looking at, you punk?”
 
