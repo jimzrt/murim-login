@@ -1,30 +1,29 @@
 # Translation State
 
-- Last completed: 722
-- Next chapter: 723
-- Current block: 720–724 (3/5)
-- Latest translation: `translations/0722.md`
-- Latest summary: `summaries/beats/0722.md`
-- Safe profiles through: chapter 722
+- Last completed: 723
+- Next chapter: 724
+- Current block: 720–724 (4/5)
+- Latest translation: `translations/0723.md`
+- Latest summary: `summaries/beats/0723.md`
+- Safe profiles through: chapter 723
 
 ## Current Block
 
-- The Earth Mother Goddess's sudden appearance transforms Nanman's religious landscape into a mass movement bordering on fanaticism. Jin Taekyung teaches the Beast Miao King to use his new position as the goddess's sole priest to unify Nanman, reframe the traitors' punishment as divine judgment, and convene the Tribal Grand Council. The council absorbs the old local faiths beneath the Earth Mother Goddess and begins planning a scripture. After ten days in the underground prison, the traitorous tribal chieftains are publicly executed while the Sacred Rain washes away their blood. The thirty-two divided tribes finally unite as one people of Nanman, openly preparing for the coming Great War.
+- Under the Sacred Rain, Nanman rapidly restores the devastated Nanman Beast Palace and abolishes the Great Chieftain system, leaving the Palace Lord as its sole authority while retaining the Tribal Grand Council. Yohi is pardoned for helping evacuate the Outer Palace and becomes an early advocate of the reform. Yayul Mok gives Jin Taekyung the newly written Mother Goddess Scripture, which records Nanman's history around the Earth Mother Goddess, grants Jin the Title Apostle of the Earth Mother Goddess, and marks his Religious Reformation achievement. As Jin prepares to leave Nanman, Yayul Cheok gathers the Nanman people at the North Gate and formally petitions the Fire Dragon Pavilion Master to admit Nanman into the Murim Alliance.
 
 ## Open Questions
 
-- How will Muyaho's new role as guardian spirit develop?
-- When will the Pond of Life recover its lost energy?
-- How will Nanman's new religious system and scripture develop?
-- How will the newly unified Nanman respond when the Great War arrives?
+- Will the Murim Alliance accept Yayul Cheok's petition for Nanman's admission?
+- How will the Mother Goddess Scripture shape Nanman's unified religious system?
+- How will Nanman's new political structure function after the Great Chieftain system is abolished?
+- What will happen to Nanman after the Sacred Rain ends?
 
 ## Exceptional Decision
 
-- Render 대지모신 as Earth Mother Goddess.
-- Render 목신 as Wood God and 화신 as Fire God.
-- Render 제사장 as priest when used for the Beast Miao King.
-- Render 알쓸잡신 as useless gods.
-- Render 성우 as Sacred Rain and 성경 as Bible.
+- Render 모신전 as Mother Goddess Scripture.
+- Render 대지모신의 사도 as Apostle of the Earth Mother Goddess.
+- Render 종교 개혁 as Religious Reformation.
+- Retain buff for 버프 in Jin Taekyung's narration.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
