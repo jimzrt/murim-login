@@ -1,8 +1,8 @@
 # Honglan (홍란)
 
-- **Safe through:** Chapter 619
+- **Safe through:** Chapter 697
 - **Aliases:** None
-- **Role:** Honglan is a Lower District Sect courtesan who uses a stage name, served as Ju Wongong's singing courtesan, and identifies herself as the Southern Heaven Demon Empress.
+- **Role:** Honglan is the stage name and former Lower District Sect singing-courtesan identity of the Southern Heaven Demon Empress, who deliberately approached Jin Taekyung at Dongting Lake.
 - **Personality:** Discreet about her real identity and professionally alluring.
 - **Voice:** Clear, pure, and alluring, with humble formal speech toward honored guests.
 - **Relationships:** Honglan is kept at Ju Wongong's side as a singing courtesan, belongs to the Lower District Sect, lost her clan and parents overnight as a child, can respond to Taekyung through Sound Transmission, is the sole surviving eyewitness to the Dongting Lake attack who knows several possible locations of the Dongting Fisherman's hidden refuges, corrupted the benevolent imugi in Dongting Lake and used it to kill many people, and can enthrall people and command them.
