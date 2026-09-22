@@ -1162,3 +1162,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 백상 | 부족장 | Palace Lord to subordinate tribal chieftain | you | cold, final, and detached | Baeksang refuses the chieftain's plea for mercy and tells him not to consider the exchange unjust. |
 | 백상 | 휘 | father to deceased son | Hwi | grief-stricken and tender | Baeksang calls out to Hwi when the mirror's surface begins to ripple. |
 | 수호령 | 진태경 | guardian spirit to human ally | Human | terse and alarmed | The guardian spirit cries out to Jin as the Southern Heaven Demon Empress sends him crashing into the ground. |
+| 진태경 | 복면인 | hostile combatant to unknown hostile combatant | you | blunt, hostile, and incredulous | Jin directly questions the masked man about his identity and his relationship with the Great Snow Fiend. |
