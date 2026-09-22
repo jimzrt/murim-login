@@ -6,7 +6,7 @@ Thrust!
 
 It was hot, yet cool.
 
-Sensing those two contradictory sensations, the black knight looked down at the transparent spearhead protruding through his chest.
+Feeling those two contradictory sensations, the black knight looked down at the transparent spearhead protruding from his chest.
 
 He slowly raised his head. His gaze settled on the young human before him, whose expression he could not read.
 
@@ -163,11 +163,11 @@ Lei Fei gestured toward his body and continued.
 
 Everything he said was true. The tough undead body that neither steel nor bullets had been able to pierce was slowly—very slowly—falling apart.
 
-And, paradoxically, what was sustaining Lei Fei now was the mana that still remained within his body.
+And paradoxically, the only thing sustaining Lei Fei now was the mana still remaining within him.
 
 “It’s ridiculous. I became one of the undead and killed humans, yet I’m holding on with that very power.”
 
-After muttering hollowly, he spoke to me.
+After muttering hollowly, he turned to me.
 
 “May I ask one favor?”
 
@@ -183,7 +183,7 @@ But the words that slipped from his lips were nothing like what I expected.
 
 “I swore an oath on the day I became a Hunter. I swore that I would fight monsters until the moment my life ended. That oath still stands.”
 
-Lei Fei had already fulfilled his mission. He had charged forward bravely and shattered magnificently.
+Lei Fei had already fulfilled his mission. He had charged forward bravely and met a glorious end.
 
 When he fought humanity as the Death Knight Lord, he had been acting on the Arch Lich’s will, not his own.
 
@@ -223,21 +223,21 @@ Instead of the dazzling aura blade that symbolized an S-rank Hunter, ominous dar
 
 But the one wielding that power was not the Death Knight Lord.
 
-It was a Hunter burning through his final mission.
+He was a Hunter burning through the last of his life to fulfill his mission.
 
 “I’d like to fight alongside them. But will they allow me?”
 
-Anyone who heard those words without knowing the circumstances would have dismissed them as random nonsense.
+Anyone who did not know the circumstances would have dismissed his words as nonsense.
 
 But I understood what Lei Fei meant. Lowering White Flame’s spearhead at an angle, I answered.
 
 “They’ll be glad. If they’re the people I know.”
 
-“……You think the same way I do.”
+“…That’s what I thought.”
 
 A red light flickered in Lei Fei’s gray-white eyes.
 
-The mana he had dragged forth with all his strength seeped across the battlefield. Then a thunderous cry burst from his lips.
+The mana he drew out with all his remaining strength seeped across the battlefield. Then a thunderous cry burst from his lips.
 
 “Public Security Armed Forces Department—!”
 
@@ -271,7 +271,7 @@ Lei Fei and the hundreds of Public Security Armed Forces Department Hunters resu
 
 It did not take long for the ripples to become a wave and crash over the enemy.
 
-And at the entrance to what would be our final battle, Lei Fei shouted at the top of his lungs.
+At the threshold of what would be their final battle, Lei Fei shouted at the top of his lungs.
 
 “Wipe them all out!”
 
@@ -351,7 +351,7 @@ Lei Fei stared at him, eyes widening.
 
 “A monster?”
 
-—I am the commander. You are a foolish but somewhat remarkable human.
+—I am a commander, foolish but somewhat remarkable human.
 
 “A monster, then. I have no idea what’s going on, but…yes, if you’re Jin Taekyung, I’m sure you’ll handle it somehow.”
 
@@ -375,7 +375,7 @@ My chest churning, I answered.
 
 Lei Fei smiled faintly and tapped my shoulder with his one remaining hand.
 
-With a dry, crumbling sound, his fingers broke apart into dust. Soon, his arm, his leg, his chest……
+With a dry, crumbling sound, his fingers broke apart into dust. Then his arm, his leg, his chest…
 
 At the very end, one last sentence slipped between his lips.
 
