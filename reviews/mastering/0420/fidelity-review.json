@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "It was something only those who had come to know Jin Taekyung possessed.",
+      "defect": "“Come to know” weakens the source’s meaning of having personally experienced or gone through Jin Taekyung.",
+      "id": "F01",
+      "rationale": "The Korean 겪은 이들 refers to people who have experienced Jin firsthand, not merely people who became acquainted with him. The accepted baseline preserved that stronger sense.",
+      "replacement": "It was something only those who had experienced Jin Taekyung possessed.",
+      "severity": "minor",
+      "source": "Lines 259–261"
+    }
+  ],
+  "summary": "The assembled chapter is broadly faithful. One minor relationship nuance is weakened in the discussion of what Jin Taekyung gives those who encounter him.",
+  "version": 1
+}

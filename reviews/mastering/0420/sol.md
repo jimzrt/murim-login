@@ -12,7 +12,7 @@ Just as I did now.
 
 *Demon.*
 
-That was the word that flashed through my mind the instant I saw it. A massive body reaching three meters tall. Bones covered in a black sheen. A shape resembling a human’s, yet fundamentally something else.
+That was the word that flashed through my mind the instant I saw it. A massive body nearly three meters tall. Bones gleaming black. A form resembling a human’s, yet fundamentally something else.
 
 *Fwoooosh.*
 
@@ -22,13 +22,13 @@ The demon’s mere presence darkened the world—or rather, the Arch Lich’s re
 
 “Human.”
 
-Just one word.
+One word.
 
 The air around me trembled. From inside my Inventory, the Skeleton Warlord muttered with a groan.
 
 “The lord of the undead…”
 
-His voice was steeped in fear. The law of power applied to monsters, too.
+His voice was steeped in fear. The law of the strong applied to monsters, too.
 
 Yes. Just as the Skeleton Warlord had said, the Arch Lich was likely the lord of every undead monster in this land.
 
@@ -36,7 +36,7 @@ Yes. Just as the Skeleton Warlord had said, the Arch Lich was likely the lord of
 
 Instead of answering, I gave a small nod.
 
-The Skeleton Warlord was right. It was not too late, and I still had more than enough opportunity left.
+The Skeleton Warlord was right. It wasn’t too late. I still had a chance.
 
 *A chance to stop that bastard.*
 
@@ -62,7 +62,7 @@ More than twenty meters overhead, the Arch Lich stood upon empty air and gazed d
 
 “So it is true. You know the language of the Demon Realm. I did not mishear you.”
 
-“I studied hard. But you know me, don’t you?”
+“I studied hard. But you know who I am, don’t you?”
 
 “I am a being with hundreds of eyes and ears. I have been watching you all along, human.”
 
@@ -80,7 +80,7 @@ I kept the thought to myself and clicked my tongue.
 
 “A hidden-camera creep? You speak nonsense, human.”
 
-“True. If you’d seen me through a hidden camera in my bathroom, you would’ve vanished from shock already. No one has ever survived looking my enormous black anaconda in the eye.”
+“True. If you’d watched me in the bathroom, you would’ve vanished from shock already. No one has ever survived looking my enormous black anaconda in the eye.”
 
 “Do you mean a Basilisk?”
 
@@ -90,7 +90,7 @@ It was also a Named Monster that had appeared exactly once during the Great Cata
 
 “Something like that.”
 
-At least the part about being so startled that you froze was the same, right?
+At least the part where people froze in shock was the same, right?
 
 But the Arch Lich’s response was not what I expected.
 
@@ -141,11 +141,11 @@ The Arch Lich looked down at my stiffened face and let out a low laugh.
 
 “That will not happen. I am the lord of all undead. I am nothing like those weak and foolish humans.”
 
-The Arch Lich raised a hand made of black, glossy bone and pointed toward Wu Heixing, whose breath had stopped, and Lee Jungryong, who had been reduced to black ash.
+The Arch Lich raised a glossy black hand and pointed at Wu Heixing’s lifeless body, then at the black ashes that had once been Lee Jungryong.
 
 “It was a most entertaining sight. Watching you humans kill one another brought me immense joy for the first time in a very long while. I thank you for helping me understand just how insignificant your kind truly is.”
 
-“Get lost.”
+“Fuck off.”
 
 “Anger makes humans stronger. Is that true of you as well?”
 
@@ -161,7 +161,7 @@ I had seen that face only once, but I could never forget it.
 
 The Arch Lich’s low voice echoed through the air.
 
-“Lei Fei. That was certainly his name.”
+“Lei Fei. That was his name.”
 
 “…!”
 
@@ -173,7 +173,7 @@ Lei Fei staggering toward the Arch Lich.
 
 Lei Fei dropping to his knees before he could reach it.
 
-Lei Fei glaring at the sky with a face filled with rage and resentment as he breathed his last.
+Lei Fei glaring at the sky, his face filled with rage and anguish, as he breathed his last.
 
 And then…
 
@@ -193,7 +193,7 @@ I slowly nodded.
 
 “Keep talking.”
 
-“I have found new material. You, human—with an even stronger and more massive soul!”
+“For I have found new material. You, human—with an even stronger and greater soul!”
 
 Its chilling voice thundered through the air.
 
@@ -201,11 +201,11 @@ Mana poured from the Arch Lich’s entire body, covering the sky like dark storm
 
 At the center of it all, its red eyes burned like an ominous sun.
 
-I stood silently and watched the scene. Then I suddenly opened my mouth.
+I watched in silence for a moment, then opened my mouth.
 
 “Right, so… are you finally done running your mouth?”
 
-My stomach was burning.
+My stomach burned.
 
 The rage I had stored up and suppressed until I met the Arch Lich reared its head.
 
@@ -227,7 +227,7 @@ And then—
 
 *Shweeeeeek! Boom!*
 
-The spear of flame I launched with all my strength blew apart the dark clouds of mana and tore through the darkness.
+The spear of fire I hurled with all my strength burst through the dark clouds of mana and tore the darkness apart.
 
 * * *
 
@@ -253,13 +253,13 @@ It was him. It had to be.
 
 No one but Jin Taekyung came to mind. He was alive, and he was fighting the Arch Lich.
 
-No. Perhaps he was fighting someone else, too.
+No. Perhaps someone else as well.
 
 *Lee Jungryong. Wu Heixing.*
 
 Others might dismiss his concern as premature and his suspicions as baseless accusations, but Choi Minwoo knew how evil a person could become.
 
-At least, that was what the Lee Jungryong he had known had been like.
+At least, the Lee Jungryong he had known was capable of such evil.
 
 And at the same time…
 
@@ -267,7 +267,7 @@ He knew Jin Taekyung well, too.
 
 *You’re strong. Stronger than anyone I know.*
 
-Choi Minwoo had said those words to Jin Taekyung once.
+He had once said those words to Jin Taekyung.
 
 Some people might have laughed at him, but Choi Minwoo had meant them.
 
@@ -295,7 +295,7 @@ No matter who stood against him.
 
 *“More dangerous than anything we’ve faced so far.”*
 
-*“Team Leader.”*
+*“Team Leader Choi.”*
 
 *“Yes?”*
 
@@ -307,9 +307,9 @@ It was the first time anyone had ever said that to him.
 
 Butler Kim, who had been by his side since childhood, was thoughtful and warm, but he had never given Choi Minwoo that same certainty.
 
-Jin Taekyung had, and that gave Choi Minwoo the courage to speak.
+That was why Choi Minwoo had found the courage to speak.
 
-*“Will you… continue staying with the Peace Guild?”*
+*“Will you… stay with the Peace Guild?”*
 
 *“Yeah. That’s more like it.”*
 
@@ -333,13 +333,13 @@ But not anymore.
 
 A smile appeared on Choi Minwoo’s lips.
 
-Far in the distance, he watched the flames rising through the thick fog and darkness, then gripped his sword once more.
+Watching the flames rise through the distant fog and darkness, he tightened his grip on his sword.
 
 *Shhk!*
 
 A monster’s body split apart beneath a flash of dazzling aura.
 
-As the brief silence and stillness that had settled over the battlefield shattered, a tremendous cry burst from Choi Minwoo’s lips.
+The brief silence that had fallen over the battlefield shattered, and a tremendous cry burst from Choi Minwoo’s lips.
 
 “Attack—!”
 
