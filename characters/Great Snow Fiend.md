@@ -1,6 +1,6 @@
 # Great Snow Fiend (대설귀)
 
-- **Safe through:** Chapter 681
+- **Safe through:** Chapter 682
 - **Aliases:** None
 - **Role:** The Great Snow Fiend is the former ruler of Great Snow Mountain and a fiend who killed Baekhwi and Venerable Wusang during the Great Faction War; the Southern Heaven Demon Empress has personally ordered him to capture Jin Taekyung alive if possible.
 - **Personality:** The Great Snow Fiend is cold, pragmatic, controlled, proud, and unwilling to risk his life foolishly when outnumbered.

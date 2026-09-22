@@ -1,30 +1,26 @@
 # Translation State
 
-- Last completed: 681
-- Next chapter: 682
-- Current block: 680–684 (2/5)
-- Latest translation: `translations/0681.md`
-- Latest summary: `summaries/beats/0681.md`
-- Safe profiles through: chapter 681
+- Last completed: 682
+- Next chapter: 683
+- Current block: 680–684 (3/5)
+- Latest translation: `translations/0682.md`
+- Latest summary: `summaries/beats/0682.md`
+- Safe profiles through: chapter 682
 
 ## Current Block
 
-- Jin Taekyung survives the Great Snow Fiend's devastating Yin-Cold Qi attack despite severe internal injuries, temporarily seals his wounds with internal energy, and rises with White Flame while White Tiger watches over him. The Great Snow Fiend reveals that the Southern Heaven Demon Empress ordered him to capture Jin alive if possible and offers to spare Jin and preserve the Fire Gate Clan and Jin Family of Taiyuan if he surrenders, but Jin rejects the offer and provokes him by mocking his past retreat during the Great Faction War. The Great Snow Fiend declares Jin's last words will be delivered to Jeok Cheongang, and Jin throws himself into a fight to kill rather than merely survive.
+- Jin Taekyung continues fighting the Great Snow Fiend and Black Hand Fist Demon despite his internal injuries. He deliberately presses forward, allowing a twin wheel to slash his shoulder while he clashes with Black Hand. When the Great Snow Fiend moves in for the killing blow, he instead drives an ice sword into Black Hand's back at the same moment Jin's hand pierces Black Hand's chest and reaches the Great Snow Fiend. Blue-white hellfire burns from the blood-covered strike, Black Hand's body collapses, and an unidentified red armor appears across Jin's upper body.
 
 ## Open Questions
 
-- Can Jin survive and defeat the Great Snow Fiend and Black Hand Fist Demon?
-- Who arrived on the Yangtze River Channel League's swift ship, and why did it come directly to the reconnaissance squad's position?
-- Can Namho's group reach the Central Plains and bring reinforcements before Nanman is overwhelmed?
-- Will the Blood Monk act with Baeksang and Dark Heaven, and what will happen to the Beast Miao King's loyalists in the Inner Palace?
-- What will happen to Yohi and Heugung when the Southern Heaven Demon Empress returns?
+- Will the Great Snow Fiend survive Jin's point-blank hellfire strike?
+- Will Black Hand Fist Demon survive being pierced by both the ice sword and Jin's attack?
+- What is the unidentified red armor covering Jin's upper body?
 
 ## Exceptional Decision
 
-- Use Demon Empress for 마후, referring to the Southern Heaven Demon Empress.
-- Use White Rice Cake for 백설기 as the Great Snow Fiend's mocking near-sobriquet.
-- Use Ice God for 빙신 and preserve the accompanying pun on the insult 병신.
-- Use Yin Freak for 음괴 as one member of the Yin-Yang Twin Freaks.
+- Use unidentified red armor for 정체모를 붉은 갑옷 until its nature is identified.
+- Preserve the Great Snow Fiend's hunter-and-wounded-beast imagery in subsequent combat narration.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
