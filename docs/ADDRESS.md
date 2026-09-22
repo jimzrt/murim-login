@@ -1069,3 +1069,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야율척 | 남호 | Palace_Lord_to_Hidden_Shadow_Pavilion_agent_and_guest | old man | blunt and inquisitive | Yayul Cheok calls on the old man beside Taishan to identify him. |
 | 야율척 | 주화란 | Palace_Lord_to_guest_and_Fire_Dragon_Pavilion_member | you | informal but commanding | Yayul Cheok directly asks Hwaran to identify him after addressing her as the woman beside Mujin. |
 | 야율척 | 태산 | Palace_Lord_to_Fire_Dragon_Pavilion_member | you | puzzled and blunt | Yayul Cheok asks Taishan, standing beside Hwaran, to identify him, receiving only Taishan's declaration that he is hungry. |
+| 야율목 | 백상 | nephew_to_father's_sworn_younger_brother | Uncle Baeksang | ceremonial and deferential | Yayul Mok formally greets Baeksang as he arrives at the stone door. |
+| 백상 | 야율목 | father's_sworn_brother_to_nephew | you | cold and formal | Baeksang questions Yayul Mok about his return, the pasture fire, and the Palace Lord's whereabouts. |
+| 야수묘왕 | 백상 | sworn_older_brother_to_sworn_younger_brother | Baeksang | familiar and bittersweet | Yayul Cheok offers Baeksang his preferred fruit wine and asks why he came. |
