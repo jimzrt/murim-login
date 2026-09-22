@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, but three minor wording choices alter specific source details or implications.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 99–101",
+      "current": "when even the pain began to fade",
+      "defect": "The source says that a point came when the narrator could no longer feel even the pain, not that the pain itself was fading. This changes the physical mechanism from lost sensation to diminishing pain.",
+      "replacement": "when I could no longer even feel the pain",
+      "rationale": "고통마저 느껴지지 않을 무렵 describes the pain becoming imperceptible to the narrator, while the current wording states that the pain was subsiding.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 133–134",
+      "current": "Only once you have realized your folly shall you be permitted to cross into the River of Death.",
+      "defect": "“Be permitted” adds the implication that the Arch Lich grants permission to enter the River of Death. The source states only that the victim will then be able to head toward it.",
+      "replacement": "Only after you have realized your folly will you be able to make your way to the River of Death.",
+      "rationale": "죽음의 강으로 향할 수 있으리라 expresses ability or eventual possibility, not explicit permission from the Arch Lich.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 192–193",
+      "current": "drove the darkness from every joint",
+      "defect": "The current wording loses the source's image of darkness engraved into the bone joints. It reduces a specific visual and physical detail to darkness merely located at the joints.",
+      "replacement": "drove away the darkness engraved in each joint",
+      "rationale": "뼈마디에 새겨진 어둠 explicitly describes darkness etched into the joints, an image preserved by the accepted baseline.",
+      "confidence": 0.91
+    }
+  ]
+}

@@ -12,7 +12,7 @@ It no longer needed an incantation to cast its magic.
 
 *Step. Step.*
 
-With every step the Arch Lich took, something seeped into various parts of its body, which was as hazy as mist.
+With every step the Arch Lich took, darkness seeped into its mistlike body.
 
 The left arm that had vanished in One Annihilation slowly regenerated, while its shattered, fractured bones knit back together, sturdier than before and gleaming with an even darker hue.
 
@@ -50,17 +50,17 @@ The Arch Lich’s eye-lights narrowed at the sight of me.
 
 —Are you laughing? In a situation like this?
 
-“My mother used to say that fortune comes to those who smile.”
+“My mother always said good fortune comes to those who smile.”
 
 —You have lost your mind.
 
-“Why the fuck do you care if I laugh? What are you, my immediate senior in the army?”
+“Why the fuck do you care if I laugh? What are you, my senior in the army?”
 
-I spat toward the Arch Lich’s face. A thick liquid, impossible to distinguish as blood or phlegm, trickled down between its brows.
+I spat in the Arch Lich’s face. A thick glob of something—whether blood or phlegm, I could not tell—trickled down between its brows.
 
-At the same time, the red eye-lights in the places where its eyes should have been flared violently.
+The red eye-lights blazing where its eyes should have been flared violently.
 
-—I heard your answer clearly.
+—Your answer has been heard.
 
 “Go eat a dick.”
 
@@ -68,11 +68,11 @@ It would have been a lie to say I had no regrets about the life I had lived, but
 
 I had done enough.
 
-Once I let go of everything, it all felt like one long dream. My face, smiling peacefully at the Arch Lich’s eye-lights, was reflected in them.
+Once I let go, everything felt like one long dream. The Arch Lich’s eye-lights reflected my peaceful smile.
 
-—I told you, did I not? Your flesh would be torn to pieces, and your soul would wander the River of Death forever.
+—I warned you. Your flesh shall be torn to pieces, and your soul shall wander the River of Death for all eternity.
 
-I readily nodded in agreement.
+I readily nodded.
 
 “I guess so. Just like that Demon King bastard you serve.”
 
@@ -82,7 +82,7 @@ I readily nodded in agreement.
 
 —……We shall see how long you can continue spouting such nonsense.
 
-At the Arch Lich’s gesture, the enormous hands of mana squeezing me seized all four of my limbs. Then they began pulling my body apart with tremendous force.
+At the Arch Lich’s gesture, the enormous hands of mana constricting me seized my limbs. Then they began pulling my body apart with tremendous force.
 
 Slowly.
 
@@ -90,13 +90,13 @@ Little by little.
 
 *Crack. Craaack.*
 
-Small ruptures sounded inside me, and the sensation of pain I had momentarily forgotten awakened.
+Something ruptured inside me, and the pain I had momentarily forgotten came roaring back.
 
 I thought I no longer had the strength even to scream, but a cry tore itself from between my lips.
 
 “Gnh… graaaaagh!”
 
-—That sounds much better.
+—That is much better.
 
 Pain bleached my vision white. I let out all the screams I had been holding back and waited for death to come.
 
@@ -124,7 +124,7 @@ And in its hand was a glass bottle.
 
 *That’s…*
 
-It was one of the potions that had been in Lee Jungryong’s subspace pocket—the one the Arch Lich had stolen long ago.
+It was one of the potions from Lee Jungryong’s subspace pocket—the one the Arch Lich had stolen earlier.
 
 And now it was using a potion made for healing as an instrument of torture.
 
@@ -144,13 +144,13 @@ Not even a tenth of the potion was gone. The amount that remained represented al
 
 Time would crawl by without end, each moment stretching into an eternity.
 
-Weak healing spread through my body, but so did pain that came crashing down over every inch of me. My breathing grew ragged. I forced a smile and asked the Arch Lich,
+Weak healing spread through my body, bringing pain crashing down over every inch of me. My breath came ragged, but I forced myself to smile.
 
 “If I give three cheers for the Demon King, will you finish me off sooner?”
 
 —Perhaps. If you do so with sufficient passion and sincerity, I may consider it.
 
-“I’m not doing that, you son of a bitch.”
+“No thanks, you son of a bitch.”
 
 —Very well. We have plenty of time, after all. There is no harm in considering it at your leisure—
 
@@ -166,7 +166,7 @@ No one had.
 
 —……What is this?
 
-With a doubtful voice, the Arch Lich looked down at its chest.
+Confusion in its voice, the Arch Lich looked down at its chest.
 
 Light.
 
@@ -174,7 +174,7 @@ It was light. A dazzling radiance bright enough to illuminate the entire world h
 
 *No. That isn’t light.*
 
-I stared at it with vacant eyes.
+I stared, dumbfounded.
 
 It was a sword, shining more brilliantly than ever before.
 
@@ -186,7 +186,7 @@ And I knew the owner of the hand wrapped tightly around its hilt beyond the Arch
 
 “……!”
 
-It was as if the entire world had stopped moving.
+It was as though the entire world had stopped.
 
 In that impossibly slowed world, I watched hundreds—thousands—of bone fragments gather.
 
@@ -206,27 +206,27 @@ It was an astonishing sight.
 
 Countless fragments of bone gathered to form a body, as though time itself were flowing backward. The light streaming from the sword drove the darkness from every joint, heralding the birth of a new being.
 
-And finally, when a skull settled onto the completed body—
+At last, a skull settled atop the completed body.
 
 *Flash!*
 
-Golden eye-lights burst from its empty sockets.
+Golden eye-lights blazed to life in the empty sockets.
 
-The feeling was both utterly familiar and completely strange.
+The presence was utterly familiar, yet completely strange.
 
-The next moment, a voice rang out, and the time that had stopped began to flow again.
+A voice rang out, and time began to flow again.
 
 —You asked me why, did you not?
 
 “……!”
 
-My body trembled as if lightning had pierced through me. A memory from less than an hour ago flashed through my mind.
+My body trembled as if struck by lightning. A memory from less than an hour ago flashed through my mind.
 
-*Then why? Why, exactly?*
+*Then why? Why the hell did you do it?*
 
-Yes. That was what I had asked back then.
+Yes. That was what I had asked.
 
-Why had it saved me? Why had it chosen to become my shield even though it had been prepared to face Erasure?
+Why had it saved me? Why had it chosen to become my shield despite knowing it would face Erasure?
 
 It had said it did not know. It did not know why it had done such a thing. Perhaps the sword had bewitched it.
 
@@ -248,9 +248,9 @@ It was unmistakably a crown.
 
 > **System**
 >
-> - **Lv. 160 Skeleton King**
+> **Lv. 160 Skeleton King**
 
-The moment I saw the System window hovering above its head, a hollow laugh escaped me.
+The moment I saw the System window hovering above its head, an incredulous laugh escaped me.
 
 “Look how much you’ve grown, Bones.”
 
@@ -270,9 +270,9 @@ And there was one being who could not smile.
 
 The Arch Lich.
 
-The unprecedented named monster, which commanded hundreds of thousands of undead and possessed inexhaustible, tremendous mana, writhed in agony.
+The unprecedented named monster that commanded hundreds of thousands of undead and wielded seemingly inexhaustible mana writhed in agony.
 
-A single sword had pierced straight through the center of its chest.
+A sword had pierced straight through the center of its chest.
 
 The golden radiance flowing from Hero’s Soul devoured its mana and melted its body.
 
@@ -314,11 +314,11 @@ With this strength, there was nothing I could not do.
 
 *Fwoooooosh! Clack!*
 
-At the same time that I pulled White Flame, rolling across the ground, into my hand—
+White Flame flew from where it had been rolling across the ground and landed in my hand.
 
 *Fwoosh!*
 
-I thrust out my foot, feeling myself rise into the air.
+A sense of weightlessness swept over me as I stepped forward.
 
 At the end of that step stood the Arch Lich, writhing in agony as streams of tremendous mana poured from its body.
 
@@ -338,21 +338,21 @@ I aimed its transparent spearhead at the Arch Lich, whose limbs were trembling v
 
 *Whoosh.*
 
-The fire dragon spread its wings and soared from my dantian, transforming into a ball of flame as it surged through every limb and bone in my body. It flowed along my fingertips, kindling blue flames atop White Flame’s spearhead and layering them over and over.
+The fire dragon spread its wings and soared from my dantian. Becoming a ball of flame, it surged through every inch of my body, flowed along my fingertips, and kindled layer upon layer of blue fire over White Flame’s spearhead.
 
 —You cur! How dare you—
 
-The Arch Lich flailed its arms and legs in a frenzy, but the magic it fired collided with the heat surrounding me like a barrier and vanished before it could even reach me.
+The Arch Lich flailed its arms and legs in a frenzy, but the spells it hurled vanished before they could reach me, colliding with the barrier-like heat surrounding my body.
 
 Unlike the weakened Arch Lich, however, the darkness around the Gate churned with ever greater violence.
 
-And at last, I realized.
+And then I realized.
 
 *Now!*
 
-White Flame trembled as rotational force traveled up through my leg, waist, shoulder, and wrist.
+White Flame trembled as rotational force surged up from my legs, through my waist and shoulder, and into my wrist.
 
-The unprecedented surge of qi drawn from my entire body kindled flames larger than ever before.
+An unprecedented torrent of qi rose from my entire body, kindling flames larger than ever before.
 
 Yes.
 
@@ -364,7 +364,7 @@ One step.
 
 All the space separating the Arch Lich and me vanished, and time slowed.
 
-Before the Arch Lich’s slowly moving lips could finish the incantation, I launched a single strike filled with every ounce of my will and strength.
+Before its slowly moving lips could finish the incantation, I unleashed a single strike containing every ounce of my will and strength.
 
 —Blink…!
 
