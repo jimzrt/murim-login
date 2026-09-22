@@ -1,30 +1,33 @@
 # Translation State
 
-- Last completed: 701
-- Next chapter: 702
-- Current block: 700–704 (2/5)
-- Latest translation: `translations/0701.md`
-- Latest summary: `summaries/beats/0701.md`
-- Safe profiles through: chapter 701
+- Last completed: 702
+- Next chapter: 703
+- Current block: 700–704 (3/5)
+- Latest translation: `translations/0702.md`
+- Latest summary: `summaries/beats/0702.md`
+- Safe profiles through: chapter 702
 
 ## Current Block
 
-- The Southern Heaven Demon Empress reveals that the masked man is her carefully trained hunting dog. Dark power resembling the force of defying heaven regenerates his shattered bones and wounds, while Jin realizes that the man cannot feel pain. The Demon Empress also explains nothing about the Lord of Heaven's interest in Jin, and Jin provokes her by suggesting that she does not know the reason either.
-- The Demon Empress's power continues to grow as demonic qi flows from the rift. Jin and the exhausted guardian spirit each engage one opponent so they can end the battle before the humans and beasts in the Inner Palace finish mutating. Jin attacks with Flamefire Path, but the Demon Empress overpowers him, drives him into the ground, and finally slices his thigh while the fight remains ongoing.
+- Jin Taekyung battles the Southern Heaven Demon Empress, whose overwhelming power lets her catch White Flame and crush its spearhead, but his use of Ten-Thousand-Year Cold Iron wounds her earlobe and cuts away half her hair. He destroys the resulting spear fragments with Flame-Extinguishing Divine Fist while evading her lethal attacks.
+- Jin deliberately exposes himself to force the Southern Heaven Demon Empress to restrain her attack, causing internal-energy backflow and allowing him to sever one of her wrists with a summoned weapon. Enraged and consumed by killing intent, she attacks despite the Lord of Heaven's orderless interest in Jin, while Jin accepts another life-threatening opening and wounds her side with a second summoned spear.
+- The Southern Heaven Demon Empress realizes too late that Jin has been setting up this exchange from the beginning. Jin summons his spear again and initiates One Annihilation as blue-white flames gather around its transparent tip, but an urgent thought cries out "Human!" and a massive vortex erupts before the outcome is revealed.
 
 ## Open Questions
 
 - What is the masked man's identity, and what is his relationship with the Great Snow Fiend?
 - Why is the Lord of Heaven interested in Jin Taekyung?
 - Can Jin and the guardian spirit stop the mutation in the Inner Palace before it finishes?
-- Can Jin survive and continue fighting after the Southern Heaven Demon Empress's attack?
+- What is the source and meaning of the urgent thought that cried "Human!", and what caused the massive vortex?
+- Will One Annihilation defeat the Southern Heaven Demon Empress, and can Jin survive the exchange?
 
 ## Exceptional Decision
 
-- Use magical power for 마력 and demonic qi for 마기.
-- Use defying heaven for 역천 and Regeneration for 재생.
-- Use masked man for 복면인 and leave his identity unresolved.
-- Keep Jin's combat dialogue blunt, profane, and deliberately provocative.
+- Use demonic qi for 마기.
+- Use Force for 강기 and Scorching Yang Qi for 열양지기.
+- Use Empty-Hand Seizes the Blade for 공수납백인.
+- Use backflow for 역류 and qi-blood for 기혈.
+- Use One Annihilation for 일섬.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
