@@ -1,9 +1,9 @@
 # Heugung (흑웅)
 
-- **Safe through:** Chapter 648
+- **Safe through:** Chapter 650
 - **Aliases:** None
 - **Role:** Heugung is the middle-aged great chieftain of the Yi people, one of Nanman's four great tribes.
-- **Personality:** Heugung is foolish, easily flattered, and politically dependent on stronger personalities despite leading a powerful tribe.
+- **Personality:** Heugung presents as foolish and easily flattered in public but is capable of concealed planning, disguise, and covert contact.
 - **Voice:** Heugung speaks with warm enthusiasm and exaggerated devotion toward Yohi.
-- **Relationships:** Yohi and Baeksang keep Heugung under their control, while Heugung responds to Yohi's manipulation with apparent infatuation.
+- **Relationships:** Heugung remains publicly entangled with Yohi and Baeksang but secretly contacted Jin Taekyung and alleges that Baeksang has colluded with Dark Heaven.
 - **Sources:** Korean source and accepted translation, Chapter 630
