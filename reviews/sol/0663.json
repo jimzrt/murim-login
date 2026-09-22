@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“That day, you people showed me what I had to do.”",
+      "defect": "The draft replaces Baeksang’s statement about being shown which path to take with the more compulsory and generic idea of being shown what he had to do, losing the path metaphor that structures the chapter.",
+      "id": "F01",
+      "rationale": "어떤 길을 가야 하는지 explicitly refers to which path he should follow, anticipating the repeated imagery of paths, roads, and crossing a river.",
+      "replacement": "“That day, you people showed me which path I should take.”",
+      "severity": "major",
+      "source": "“그날, 너희가 알려 주었다. 내가 어떤 길을 가야 하는지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A flicker of confusion crossed Baeksang’s eyes when he heard the mutter that escaped me before I could stop it. I clicked my tongue bitterly and continued.",
+      "defect": "The draft changes Taekyung’s physical action from smacking his lips to clicking his tongue.",
+      "id": "F02",
+      "rationale": "입맛을 다시다 describes smacking or wetting one’s lips, not clicking one’s tongue.",
+      "replacement": "A flicker of confusion crossed Baeksang’s eyes when he heard the mutter that escaped me before I could stop it. I bitterly smacked my lips and continued.",
+      "severity": "minor",
+      "source": "반사적으로 흘러나온 중얼거림을 들은 백상의 눈빛에 의문이 스친다. 쓰게 입맛을 다신 내가 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I killed him. With my own hands.”\n\n“……”",
+      "defect": "Baeksang’s startled reaction is reduced to neutral silence.",
+      "id": "F03",
+      "rationale": "The exclamation mark in ……! conveys a silent but visibly shocked reaction to Taekyung admitting that he personally killed the Head Elder.",
+      "replacement": "“I killed him. With my own hands.”\n\n“…!”",
+      "severity": "minor",
+      "source": "“죽였다. 내가 직접.”\n\n“……!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Probably not. He lived only for revenge, but at some point, his anger must have dulled. And after watching innocent people get caught up in it, he probably felt guilty.”",
+      "defect": "The draft softens innocent people being sacrificed into merely getting caught up in the revenge.",
+      "id": "F04",
+      "rationale": "희생당하는 explicitly describes innocent people becoming victims or being sacrificed, not merely becoming involved.",
+      "replacement": "“Probably not. He lived only for revenge, but at some point, his anger must have dulled, and watching innocent people be sacrificed must have left him feeling guilty.”",
+      "severity": "major",
+      "source": "“아마 아니었겠지. 그는 오로지 복수를 위해 살아왔지만, 어느 순간 그 분노는 무뎌졌고 죄 없는 사람들이 희생당하는 모습을 보며 죄책감을 품었을 테니까.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Just like you do now.”\n\n“……”",
+      "defect": "The draft removes Baeksang’s startled reaction when Taekyung directly identifies his present guilt.",
+      "id": "F05",
+      "rationale": "The source’s ……! marks a wordless shock rather than an uninflected pause.",
+      "replacement": "“Just like you do now.”\n\n“…!”",
+      "severity": "minor",
+      "source": "“바로 지금의 당신처럼.”\n\n“……!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Is that anger of yours justified toward the Nanman people living on this land, too?”\n\n“……”",
+      "defect": "The draft again turns Baeksang’s shocked response into neutral silence.",
+      "id": "F06",
+      "rationale": "The source explicitly punctuates Baeksang’s silence as a jolt of surprise at Taekyung’s challenge.",
+      "replacement": "“Is that anger of yours justified toward the Nanman people living on this land, too?”\n\n“…!”",
+      "severity": "minor",
+      "source": "“당신의 그 분노가, 이 땅에 살아가는 남만인들에게도 정당할까?”\n\n“……!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It’s strange, no matter how I think about it. Even if a battle had taken place, how could not a single person have survived from among all those people?”",
+      "defect": "The second sentence uses an unnatural negative-question construction and the awkward phrase “survived from among.”",
+      "id": "F07",
+      "rationale": "The replacement naturally preserves Taekyung’s disbelief that none of the many people involved survived.",
+      "replacement": "“It’s strange, no matter how I think about it. Even if a battle had taken place, how could there not have been a single survivor among all those people?”",
+      "severity": "minor",
+      "source": "“아무리 생각해도 희한한 일이지. 아무리 전투가 벌어졌다지만, 그 많은 사람들 중에 살아남은 이가 하나도 없다는 건.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How much more blood do you intend to spill, Baeksang?”\n\nI looked at him with pity and anger in my eyes.",
+      "defect": "The draft omits Taekyung’s faltering “Just how…,” places the completed question before his look at Baeksang, and thereby reverses the source’s dialogue-action sequence.",
+      "id": "F08",
+      "rationale": "The source has Taekyung begin the question, pause to look at Baeksang with pity and anger, and only then complete it.",
+      "replacement": "“Just how…”\n\nI looked at Baeksang with pity and anger.\n\n“How much more blood do you intend to spill, Baeksang?”",
+      "severity": "minor",
+      "source": "“도대체…….”\n\n나는 안타까움과 분노를 담아 백상을 바라보았다.\n\n“앞으로 얼마나 더 많은 피를 흘릴 셈이냐, 백상.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Once he had found a goal in life, he had gladly taken the hand she held out to him, and he had never regretted that decision.\n\nNo.\n\nHe could not regret it.",
+      "defect": "The draft changes Baeksang’s self-imposed insistence that he must not regret his decision into an assertion that he is unable to regret it.",
+      "id": "F09",
+      "rationale": "후회해서는 안 됐다 expresses prohibition or determination—he must not allow himself to regret the choice—which is crucial because he is already beginning to waver.",
+      "replacement": "Once he had found a goal in life, he had gladly taken the hand she held out to him, and he had never regretted that decision.\n\nNo.\n\nHe must not regret it.",
+      "severity": "major",
+      "source": "삶의 목표가 생긴 그는 여인이 내민 손을 기꺼이 맞잡았고, 지금껏 단 한 번도 그 결정을 후회하지 않았다.\n\n아니, 후회해서는 안 됐다."
+    }
+  ],
+  "summary": "The draft is broadly faithful but alters the chapter’s central path metaphor, changes one physical gesture, softens the deaths of innocent victims, repeatedly removes Baeksang’s startled reactions, reverses a dialogue-action sequence, and changes self-imposed prohibition into inability.",
+  "version": 1
+}

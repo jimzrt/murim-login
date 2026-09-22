@@ -2069,3 +2069,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 남군 | **Southern Army** | Army led by Baeksang and the Beast Miao King alongside the Zhongnan Sect. |
 | 무상진인 | **Venerable Wusang** | Former Sect Leader of the Zhongnan Sect and master of the Wind-and-Cloud Sword Lord. |
 | 대설귀 | **Great Snow Fiend** | Fiend who ruled Great Snow Mountain and killed Baekhwi and Venerable Wusang. |
+| 휘 | **Hwi** | Baeksang's only child, remembered as upright and bright before his death in the Great Snow Mountain battle. |
