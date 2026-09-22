@@ -1,6 +1,6 @@
 # Heugung (흑웅)
 
-- **Safe through:** Chapter 671
+- **Safe through:** Chapter 675
 - **Aliases:** None
 - **Role:** Heugung is the middle-aged great chieftain of the Yi people, one of Nanman's four great tribes.
 - **Personality:** Heugung presents as foolish and easily flattered in public but is capable of concealed planning, disguise, and covert contact.
