@@ -1147,3 +1147,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 흑호 | 진태경 | unknown supernatural being to human interlocutor | human | calm, detached, and telepathic | Summons Jin to the cliff and invites him to discuss the situation. |
 | 진태경 | 흑호 | human martial artist to unknown supernatural beast | you / bastard | blunt, startled, and irreverent | Asks what the Black Tiger is and curses it after seeing the Water God Dragon's Origin Essence. |
 | 흑호 | 인간 | guardian spirit addressing the human it saved | young human | formal, ancient, and admonitory | Directly addresses Jin as a reckless and young human while asking for another chance. |
+| 호위장 | 남만의 전사들 | commander to subordinate Nanman warriors | Warriors of Nanman / my proud brothers | commanding and rallying | The Captain of the Guards rallies the army before its charge on Ailao Mountain. |
+| 시비와 하인들 | 백상 | palace attendants to Palace Lord | Palace Lord | formal and fearful | The Inner Palace servants prostrate themselves and greet Baeksang as he passes. |
