@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At the same time as I spoke, the Force I released shot toward the chieftain. The chieftain who had stepped forward went as pale as a sheet of paper.\n\n“Ghk.”\n\nWe were already standing at the edge of a hundred-foot pole.\n\nOne wrong step, and we would fall.\n\nIf I surrendered the initiative to the flow of events, it would all be over.\n\nI released a quiet but overwhelming wave of Force and spoke.",
+      "defect": "The draft renders 기파, an emitted wave of qi, as the capitalized system term “Force,” which is reserved for 강기, and changes Taekyung’s singular predicament into a collective one.",
+      "id": "F01",
+      "rationale": "Both instances of 기파 denote ordinary Murim qi projected as pressure, not Jin Taekyung’s Force. The following lines describe his own precarious position and the consequences if he yields the initiative.",
+      "replacement": "As I spoke, the wave of qi I released shot toward the chieftain. The chieftain who had stepped forward went as pale as a sheet.\n\n“Ghk.”\n\nI was already balanced atop a hundred-foot pole.\n\nOne wrong step, and I would fall.\n\nIf I surrendered the initiative to the flow of events, it would all be over.\n\nI quietly released an overwhelming wave of qi and spoke.",
+      "severity": "major",
+      "source": "말과 동시에 흘려 보낸 기파(氣波)가 부족장을 향해 쏘아지자, 앞으로 나선 부족장의 얼굴이 백지장처럼 새하얗게 물들었다.\n\n“흡.”\n\n이미 백척간두(百尺竿頭)다.\n\n단 한 걸음만 잘못 내디뎌도 추락하는 상황.\n\n흐름에 따라 주도권을 내어 준다면 그것으로 끝장이다.\n\n나는 조용하게, 그러나 강대한 기파를 흘려 보내며 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I, Baeksang, great chieftain of the Bai people, wish to establish my own innocence before interrogating the culprit. Heaven and earth, the fifteen chieftains who were with me, and the one hundred warriors present will all prove it!”",
+      "defect": "Calling the warriors “present” makes their current attendance the relevant fact, whereas Baeksang says that the hundred warriors were with him and therefore corroborate his alibi.",
+      "id": "F02",
+      "rationale": "나와 함께 있던 modifies both the fifteen chieftains and the hundred warriors; their presence with Baeksang at the relevant time is the mechanism of his proof.",
+      "replacement": "“I, Baeksang, great chieftain of the Bai people, wish to establish my own innocence before interrogating the culprit. Heaven and earth, along with the fifteen chieftains and the hundred warriors who were with me, will all attest to it!”",
+      "severity": "major",
+      "source": "“나, 백족의 대족장 백상은 죄인을 추궁하기에 앞서 스스로 결백함을 밝히고자 한다. 이는 하늘과 땅, 그리고 나와 함께 있던 열다섯 명의 부족장을 비롯한 일백의 전사들이 입증할 것이다!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "And more than a hundred lives had been brutally massacred in the Inner Palace, of all places.",
+      "defect": "The draft changes a figure reaching or approaching one hundred into a figure explicitly greater than one hundred.",
+      "id": "F03",
+      "rationale": "일백에 달하는 means reaching or amounting to one hundred, not exceeding it. “People” also avoids the unnatural collocation of massacring “lives.”",
+      "replacement": "And close to a hundred people had been brutally slaughtered in the Inner Palace, of all places.",
+      "severity": "major",
+      "source": "그리고 일백에 달하는 생명이 참혹하게 몰살당했으니까."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Before anyone had time to stop him, Yayul Mok’s lips parted.",
+      "defect": "The draft generalizes the implied first-person subject into “anyone,” weakening Taekyung’s specific realization that he needed to stop Yayul Mok from answering.",
+      "id": "F04",
+      "rationale": "The passage remains in Taekyung’s first-person viewpoint, and the omitted Korean subject is contextually Taekyung as he recognizes Baeksang’s trap too late.",
+      "replacement": "Before I had time to stop him, Yayul Mok’s lips parted.",
+      "severity": "major",
+      "source": "미처 말릴 틈도 없이, 야율목의 입술이 열렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I had already begun to accept the situation.",
+      "defect": "“Begun to accept” changes the stated degree of resignation; Taekyung has already accepted the situation halfway.",
+      "id": "F05",
+      "rationale": "반쯤 explicitly specifies that he has accepted it halfway, emphasizing how deeply the trap has already closed around him.",
+      "replacement": "I had already half accepted the situation.",
+      "severity": "minor",
+      "source": "나는 이미 반쯤 상황을 받아들이고 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“This isn’t a place where just anyone can stick their nose in. Shut up and stay out of it.”",
+      "defect": "Naturalizing 개나 소나 as “just anyone” removes the literal dogs-and-cattle wording that the Beast Miao King immediately quotes back to Taekyung, leaving the later callback unsupported.",
+      "id": "F06",
+      "rationale": "The animal wording must remain visible because the Beast Miao King’s entrance and question—whether he is included among those animals—depend on it for both meaning and humor.",
+      "replacement": "“This isn’t a place where any dog or cow can butt in. Sit down and stay out of it.”",
+      "severity": "major",
+      "source": "“개나 소나 낄 수 있는 자리가 아니다. 찌그러져 있어.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“U- Utu-ri of the Bai people. I came after receiving the great chieftain’s summons.”",
+      "defect": "The draft moves the speaker’s nervous stammer from 백족, “Bai people,” onto Utu-ri.",
+      "id": "F07",
+      "rationale": "배, 백족 shows the speaker stumbling over the opening syllable of 백족; the title itself is not the stuttered word.",
+      "replacement": "“B-Bai people’s Utu-ri. I came at the great chieftain’s summons.”",
+      "severity": "minor",
+      "source": "“배, 백족의 우투리. 대족장님의 부름을 받고 왔습니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He remained with us in the Southern Bai Tribe immediately after the banquet ended.",
+      "defect": "남백부 names the Bai residence or estate parallel to Western Yao Estate, not the Bai ethnic group itself.",
+      "id": "F08",
+      "rationale": "The location uses the same tribal-residence naming structure as 서요부, established as Western Yao Estate; rendering 부 as “Tribe” conflates a place with its people.",
+      "replacement": "He remained with us at the Southern Bai Estate immediately after the banquet ended.",
+      "severity": "minor",
+      "source": "그는 연회가 끝난 직후 우리와 함께 남백부(南白部)에 머무르고 있었습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The pressure he gave off was like Taishan himself. At his appearance, everyone present hurriedly dropped to one knee.",
+      "defect": "“Taishan himself” reads as a comparison to the established character Taishan rather than to the proverbial massive mountain.",
+      "id": "F09",
+      "rationale": "Here 태산 is the mountain image used to convey immense, immovable pressure; adding “Mount” prevents a false character reference.",
+      "replacement": "He radiated pressure as imposing as Mount Tai itself. At his appearance, everyone present hurriedly dropped to one knee.",
+      "severity": "minor",
+      "source": "흡사 태산과도 같은 중압감을 뿜어내는 야수묘왕의 등장에 좌중의 인물들이 황급히 한쪽 무릎을 꿇었다."
+    }
+  ],
+  "summary": "The draft contains several actionable fidelity issues involving the energy terminology, a changed subject, an overstated quantity, a lost joke setup, and inconsistent place-name terminology.",
+  "version": 1
+}

@@ -2056,3 +2056,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 검기성강 | **Sword Energy Becoming Force** | Supreme Peak realm in which Sword Energy has entered the Force stage. |
 | 서요부 | **Western Yao Estate** | Yohi's residence in the western part of the Inner Palace. |
 | 동이부 | **Eastern Yi Estate** | Heugung's tribal residence in the eastern part of the Inner Palace. |
+| 남백부 | **Southern Bai Estate** | Bai territory where Baeksang claims to have stayed after the banquet. |
+| 경파족장 | **Jingpo Chieftain** | A tribal chieftain who publicly supports Baeksang's alibi. |
+| 납호족 | **Lahu people** | A Nanman tribal group that swears to Baeksang's alibi. |
+| 와족 | **Wa people** | A Nanman tribal group that vouches for Baeksang's alibi. |
+| 우투리 | **Utu-ri** | The old owner of the noodle shop summoned by Baeksang. |
