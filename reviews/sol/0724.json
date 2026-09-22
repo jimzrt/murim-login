@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Ultimately, you’re heading to the Central Plains once more.”",
+      "defect": "The draft makes only the Beast Miao King the subject, while the unmarked Korean refers to their collective decision to head to the Central Plains.",
+      "id": "F01",
+      "rationale": "The lack of an honorific subject marker and the surrounding discussion of the Nanman Beast Palace’s collective deployment support an inclusive “we,” not “you.”",
+      "replacement": "“In the end, we’re heading to the Central Plains once again.”",
+      "severity": "critical",
+      "source": "“결국, 다시 한번 중원으로 향하게 되었군요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What excellent wine. Don’t you agree?”",
+      "defect": "The draft omits the claim that the wine tastes good, weakening the immediate joke that follows when everyone is puzzled because he has not tasted a drop.",
+      "id": "F02",
+      "rationale": "술맛 explicitly means the taste of the wine, and that detail supplies the causal setup for the onlookers’ reaction.",
+      "replacement": "“This wine tastes excellent. Don’t you agree?”",
+      "severity": "major",
+      "source": "“술맛 한번 좋군. 그렇지 않으냐?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "a snow-white White Tiger watching over them from somewhere atop a high hill let out a roar.",
+      "defect": "“Watching over” adds a protective or guardian implication absent from the physical action of looking down from above.",
+      "id": "F03",
+      "rationale": "굽어보다 describes looking down from an elevated position; it does not itself mean guarding or protecting.",
+      "replacement": "a snow-white White Tiger gazing down at them from somewhere atop a high hill let out a roar.",
+      "severity": "major",
+      "source": "그들을 굽어보고 있던 새하얀 백호가 포효를 내질렀다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Thousands upon thousands of beasts and humans stamped their feet and raised their voices.",
+      "defect": "The draft compresses the explicit scale of “thousands, tens of thousands” into the less precise “thousands upon thousands.”",
+      "id": "F04",
+      "rationale": "수천, 수만에 달하는 explicitly escalates the quantity from thousands to tens of thousands and should be retained.",
+      "replacement": "Thousands—tens of thousands—of beasts and humans stamped their feet and roared.",
+      "severity": "critical",
+      "source": "수천, 수만에 달하는 짐승과 인간이 힘껏 발을 구르고 함성을 내질렀다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I was simply a person trying to save people.”",
+      "defect": "The draft changes the generic subject into first person and changes one person saving another into one person saving multiple people.",
+      "id": "F05",
+      "rationale": "사람이, 사람을 is deliberately aphoristic and singular on both sides; Hyuk Mujin is repeating that formulation for comic effect.",
+      "replacement": "“It was simply one person trying to save another.”",
+      "severity": "critical",
+      "source": "“그저 사람이, 사람을 살리고자 한 것뿐입니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“See? Even he agrees. I was simply a person trying to save—”",
+      "defect": "The repeated punchline again becomes a first-person statement and drops the singular person-to-person construction.",
+      "id": "F06",
+      "rationale": "The humor depends on Hyuk Mujin repeating the same generic line almost verbatim until Taekyung interrupts him.",
+      "replacement": "“See? Even he agrees. It was simply one person trying to save another…”",
+      "severity": "critical",
+      "source": "“보세요. 쟤도 인정하잖아요. 그저 사람이, 사람을 살리고자…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "So I called for the person in charge of handling him.",
+      "defect": "The neutral paraphrase removes the school-bully joke in 담당 일진 and makes Namho sound like an officially assigned caretaker.",
+      "id": "F07",
+      "rationale": "일진 denotes a school bully or delinquent, while 담당 makes Namho comically sound like the bully specifically assigned to Taishan.",
+      "replacement": "So I called in his designated bully.",
+      "severity": "major",
+      "source": "그리고 나는 담당 일진을 불렀다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Why is he taking such an interest in me?”",
+      "defect": "The draft introduces a masculine pronoun even though the Korean names the Lord of Heaven only implicitly and does not establish gender.",
+      "id": "F08",
+      "rationale": "The source preserves gender ambiguity while emphasizing both the extent of the interest and why Taekyung in particular is being singled out.",
+      "replacement": "“Why would the Lord of Heaven take this much interest in me, of all people?”",
+      "severity": "critical",
+      "source": "“왜 굳이 나한테 이렇게까지 관심을 가지는 거지?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How many times do I have to say it isn’t— Ah, come to think of it, she is Han Chinese.”",
+      "defect": "The draft again assigns the Lord of Heaven a gender that the source leaves unstated.",
+      "id": "F09",
+      "rationale": "The Korean confirms only 한족, the ethnic identification; it does not use a female pronoun or confirm Hyuk Mujin’s assumption that the interested party is a woman.",
+      "replacement": "“How many times do I have to say it isn’t… Ah, come to think of it, the Han Chinese part is right.”",
+      "severity": "critical",
+      "source": "“아니라고 몇 번을 말해야…… 아, 생각해 보니까 한족은 맞겠네.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Wow. That young lady has quite an extraordinary name. At first glance, she looks like the daughter of a respectable family…”",
+      "defect": "“At first glance” and “looks like” falsely imply that Hyuk Mujin can see the woman; he is jokingly inferring her background solely from the name.",
+      "id": "F10",
+      "rationale": "이름부터 makes the name the basis of his mistaken inference, while 딱 봐도 is figurative here rather than a literal visual observation.",
+      "replacement": "“Wow. That’s quite an extraordinary name for a young lady. She sounds like the daughter of a respectable family…”",
+      "severity": "major",
+      "source": "“이야. 이름부터가 범상치 않은 처자일세. 딱 봐도 양갓집 규수 같은…….”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters several subjects and quantities, weakens two recurring jokes, changes a literal downward gaze into protective watching, and introduces unsupported gendered pronouns for the Lord of Heaven.",
+  "version": 1
+}
