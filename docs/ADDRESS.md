@@ -1131,3 +1131,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 요희 | 흑수 | captured tribal chieftain to torturer | you | terrified and pleading | Yohi recognizes Black Hand as the Fiend who attacked her warriors and maimed Heugung. |
 | 진태경 | 흑수 | hostile_martial_opponent | Black Hand | mocking and profane | Jin sarcastically addresses Black Hand after hearing his sobriquet. |
 | 흑수 | 진태경 | hostile_Dark_Heaven_agent_to_enemy_martial_artist | Blazing Flame Divine Dragon Jin Taekyung | taunting and murderous | Black Hand identifies Jin while claiming that killing him will make the sobriquet famous. |
+| 장 족장 | 야율목 | tribal chieftain to Nanman Young Palace Lord | Young Palace Lord | formal and grave | Chief Jang addresses Yayul Mok while ordering him to subdue and escort the Han Chinese to the Inner Palace. |
