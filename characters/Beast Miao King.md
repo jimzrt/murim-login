@@ -1,6 +1,6 @@
 # Beast Miao King (야수묘왕)
 
-- **Safe through:** Chapter 712
+- **Safe through:** Chapter 713
 - **Aliases:** Heugung
 - **Role:** The Beast Miao King is the Palace Lord of the Nanman Beast Palace, a Supreme Peak master among the Ten Kings, and Great Chieftain of the Miao people.
 - **Personality:** The Beast Miao King is boisterous and warmhearted toward Nanman's people, but their corruption and destruction awaken fierce grief and wrath in him.

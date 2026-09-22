@@ -2129,3 +2129,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 신병이기 | **divine weapon** | Jin's description of White Flame. |
 | 백병전 | **close-quarters battle** | The melee that follows the Baekcheon Unit's charge. |
 | 야율천 | **Yayul Cheon** | Fearless tribal chieftain who befriended the guardian spirit roughly three hundred years earlier. |
+| 열화신장 | **Blazing Flame Divine Palm** | Jeok Cheongang's perfected fire palm technique. |
+| 희생과 안식 | **Sacrifice and Rest** | Sudden Quest generated after the rift closes. |
+| 변이된 수호령 | **Mutated Guardian Spirit** | The corrupted guardian spirit designated as the Quest objective. |
