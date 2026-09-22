@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The muscles and tendons in its right arm were severed, and the halberd dropped heavily to the ground.",
+      "defect": "The English omits that the halberd lost its force because of the severed arm and weakens the impact from slamming into the ground to merely dropping.",
+      "id": "F01",
+      "rationale": "힘을 잃은 할버드가 땅에 처박혔다 explicitly supplies both the loss of force and the forceful impact.",
+      "replacement": "With the muscles and tendons in its right arm severed, the halberd lost its strength and slammed into the ground.",
+      "severity": "minor",
+      "source": "Lines 57–59"
+    },
+    {
+      "confidence": 0.9,
+      "current": "For some reason, he had returned to the strangely familiar place from the previous day, where he found something small.",
+      "defect": "“Returned to” adds a specific movement that the source does not establish.",
+      "id": "F03",
+      "rationale": "The Korean places the discovery at the familiar location from the previous day but does not explicitly say that he returned there.",
+      "replacement": "For some reason, at the strangely familiar place from the previous day, he found something small.",
+      "severity": "minor",
+      "source": "Lines 327–329"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A Troll approached cautiously, lowered the two figures slung over its shoulders, and stepped back.",
+      "defect": "The English reveals the number and nature of the carried objects before the source does, replacing an intentional unspecified reference with “the two figures.”",
+      "id": "F04",
+      "rationale": "The source says only what the Troll had been carrying; the two humans are identified in the following exchange.",
+      "replacement": "A Troll approached cautiously, lowered what it had been carrying across its shoulders, and stepped back.",
+      "severity": "minor",
+      "source": "Lines 373–375"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with a few minor fidelity issues involving physical causality, an explicit comparison, and added specificity.",
+  "version": 1
+}

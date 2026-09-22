@@ -30,7 +30,7 @@ The blow missed him by a handspan.
 
 An ax blade rippling with ominous magic grazed past Choi Minwoo and smashed the heads of two nearby Orcs.
 
-The headless knight, a Dullahan, attacked the human in front of it without the slightest hesitation, despite having killed one of its own kind.
+The headless knight—a Dullahan—continued its assault on the human before it without the slightest hesitation, despite having killed its own allies.
 
 Swoooooosh! Slash!
 
@@ -46,7 +46,7 @@ But Choi Minwoo slipped past its attack and thrust out his sword without hesitat
 
 *Now!*
 
-A short exhalation.
+A sharp exhalation.
 
 Then a strike like a flash of light.
 
@@ -126,17 +126,17 @@ Choi Minwoo could not understand it. But the black knight’s absence was both h
 
 *We have to retreat.*
 
-The urban battle had already lost all meaning. The monster army, numbering around ten thousand, had already covered the city like a swarm of ants. Among them were more than a hundred A-rank monsters.
+The battle for the city was already lost. The monster army, numbering around ten thousand, had covered the city like a swarm of ants. Among them were roughly a hundred A-rank monsters.
 
 The humans were outmatched in both numbers and strength.
 
 Nearly half of the thousand Hunters from the Public Security Armed Forces Department who had held the front line were already dead or wounded. And more than half of the damned People’s Liberation Army had thrown down their weapons and fled before the monsters even reached them.
 
-The armored units, reduced to heaps of scrap metal, and the air force, becoming prey for the flying monsters, were simply more of the same.
+The armored units had been reduced to heaps of scrap metal, and the air force was rapidly becoming prey for the flying monsters.
 
 Rat-a-tat-tat-tat-tat! Boom!
 
-A state-of-the-art combat helicopter lost its balance and plunged from the sky, exploding in flames. Around a dozen soldiers caught in the flying debris died without even having time to scream.
+A state-of-the-art combat helicopter lost control and plunged from the sky, exploding in flames. Around a dozen soldiers caught in the flying debris died before they could even scream.
 
 It was a horrifying sight, but they were fortunate in one respect: their deaths had been painless.
 
@@ -146,7 +146,7 @@ A moment later, the monster horde began tearing everyone else apart indiscrimina
 
 Whoom! Crack!
 
-The foreleg of a Saber Tiger, carrying several tons of force, crushed a soldier’s limbs and burst his head.
+A Saber Tiger’s forepaw came down with several tons of force, crushing limbs and bursting heads.
 
 The soldiers of the People’s Liberation Army were nowhere near as fast as Hunters, and the rifles they carried were little better than slingshots against the monsters.
 
@@ -172,7 +172,7 @@ Choi Minwoo drove his sword into the chest of a charging Minotaur and shouted,
 
 “Shao Shen!”
 
-His mana-infused voice pierced through the screams and thunderous crashes and reached one person’s ears.
+His mana-infused voice pierced the screams and thunderous crashes to reach its intended target.
 
 Covered in wounds and blood as he fought back the endless stream of monsters, Shao Shen answered with a battle cry.
 
@@ -224,7 +224,7 @@ Feeling his heart grow lighter, Choi Minwoo launched himself forward.
 
 Not toward the North Gate, which the monsters had yet to block, but toward the People’s Liberation Army being slaughtered by the monsters.
 
-*It feels like I’m going to kill myself.*
+*It feels like I’m going to my own death.*
 
 Why had he made this choice? Even he could not understand it.
 
@@ -232,7 +232,7 @@ Still…
 
 For a man heading to his death, he felt surprisingly good.
 
-Perhaps because dark clouds had gathered overhead, the wind was cool. And behind him, he had companions who would die alongside him, so he would not have to die alone.
+Perhaps it was because dark clouds had gathered overhead, cooling the wind. Or perhaps it was because he had companions behind him who would die alongside him, so he would not have to die alone.
 
 Choi Minwoo suddenly spoke.
 
@@ -250,13 +250,13 @@ At the regimental commander’s call, the roughly three hundred Hunters followin
 
 “To eliminate monsters and protect the people from every threat!”
 
-「This is why we do not retreat. The 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment, led by Regimental Commander Shao Shen, have come to protect the people!」
+“This is why we do not retreat. Regimental Commander Shao Shen and all 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment are here to protect the people!”
 
 Shao Shen continued in a quiet voice.
 
 “Now it’s your turn to answer, Mr. Choi.”
 
-Choi Minwoo silently gazed at the thousands of monsters drawing closer, then suddenly muttered,
+Choi Minwoo silently watched the thousands of monsters drawing closer, then abruptly said,
 
 “Shit. There sure are a lot of them.”
 
@@ -272,7 +272,7 @@ That man, Jin Taekyung, was a hero of the new age. Choi Minwoo could never work 
 
 But still—
 
-“It’s embarrassing.”
+“It’d be humiliating.”
 
 “What?”
 
@@ -292,7 +292,7 @@ Let’s meet then.
 
 Hissssss.
 
-The blade of his sword, filled with aura brighter and more radiant than ever, pointed toward the enemies.
+The blade of his sword, filled with an aura brighter and more radiant than ever, pointed toward the enemy.
 
 The suicide squad of more than three hundred Hunters roared loud enough to deafen the ears, their fighting spirit surging as they shot forward behind him like arrows.
 
@@ -354,7 +354,7 @@ He did not know why he had done it.
 
 The black knight tucked the shoe into a gap in his armor and changed the subject.
 
-—No. Rather, quite a few humans managed to escape alive.
+—No. More importantly, quite a few humans escaped alive.
 
 —We apologize.
 
@@ -410,13 +410,13 @@ So why was he hesitating?
 
 Ordinarily, he would have held back if something felt wrong. But the black knight had experienced this same confusion far too often of late.
 
-The fact that he had forced himself to reach out might have been an act of defiance against himself.
+Perhaps forcing himself to reach out was an act of defiance against his own hesitation.
 
 —I will accept your suggestion.
 
 Then, just as the black knight reached toward the two humans to reap their souls—
 
-“I’ve been thinking about it carefully.”
+“I’ve given it some thought.”
 
 A voice rang out through the air, and the black knight raised his head.
 
@@ -444,7 +444,7 @@ The human’s finger shifting to point at him.
 
 And every trace of emotion vanishing from the human’s face.
 
-“You’re, what…”
+“You, on the other hand…”
 
 His voice was cold enough to make even the dead shudder.
 
