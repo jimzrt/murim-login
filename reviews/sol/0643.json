@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Baeksang tapped the table with an emphatic finger.",
+      "defect": "The draft replaces the physical detail that Baeksang's finger is callused with the invented description “emphatic.”",
+      "id": "F01",
+      "rationale": "못 박힌 describes a finger hardened by a callus; it does not describe the gesture as emphatic.",
+      "replacement": "Baeksang tapped the table with a callused finger.",
+      "severity": "minor",
+      "source": "백상이 못 박힌 손가락으로 탁자를 두드렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That sounds strange. Isn’t that also just his personal opinion?”",
+      "defect": "The draft changes the subject of Taekyung's accusation from Baeksang to an unspecified third party, making the line appear to refer to the Palace Lord.",
+      "id": "F02",
+      "rationale": "본인 혼자만의 뜻 challenges Baeksang's claim to speak for “we”; the following exchange explicitly develops that accusation.",
+      "replacement": "“That sounds strange. Isn’t that ultimately just your personal opinion too?”",
+      "severity": "critical",
+      "source": "“듣다 보니까 이상하네. 그것도 결국 본인 혼자만의 뜻 아닌가?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“No. Actually, I did intend for you to hear me. You heard me well.”",
+      "defect": "“You heard me well” is an unnatural Korean-syntax calque that blunts Taekyung's dry, provocative acknowledgment.",
+      "id": "F03",
+      "rationale": "잘 들으셨네요 acknowledges, with deliberate cheek, that Baeksang heard the remark; natural spoken English should preserve that provocation rather than describe how well he heard.",
+      "replacement": "“No. Actually, I did mean for you to hear it. Glad you caught that.”",
+      "severity": "minor",
+      "source": "“아뇨. 사실 들으라고 한 이야기는 맞습니다. 잘 들으셨네요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“We shed much blood because of an unforeseen disaster, but through a swift response, we were able to prevent an even greater loss of life. All of that was thanks to the wise Great Chieftain Yayul and Palace Lord, and a young Han Chinese man who aided him.”",
+      "defect": "The draft misparses “the wise Palace Lord” as an additional coordinated title or person, producing a malformed attribution instead of identifying Great Chieftain Yayul as the Palace Lord.",
+      "id": "F04",
+      "rationale": "현명한 궁주이신 modifies 야율 대족장: Yayul Cheok is simultaneously the wise Palace Lord and Great Chieftain Yayul.",
+      "replacement": "“We shed much blood because of an unforeseen disaster, but through a swift response, we were able to prevent an even greater loss of life. We owe it all to Great Chieftain Yayul, our wise Palace Lord, and to a young Han Chinese man who aided him.”",
+      "severity": "major",
+      "source": "“그 모든 것이 현명한 궁주이신 야율 대족장과, 그분을 도왔던 어느 한족 젊은이 덕분이었소.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "More than two hundred warriors had been dragged into the Poisonblood Grounds, and I had never heard each of their names or identities.",
+      "defect": "The draft turns an approximate quantity into the definite claim that the number exceeded two hundred.",
+      "id": "F05",
+      "rationale": "이백여 명 denotes approximately two hundred people, consistent with the established count, rather than necessarily more than two hundred.",
+      "replacement": "Around two hundred warriors had been dragged into the Poisonblood Grounds, and I had not heard every one of their names and identities.",
+      "severity": "critical",
+      "source": "독혈지에 끌려갔던 전사들의 숫자는 이백여 명에 달했고, 나는 그들의 이름과 신분을 일일이 듣지 못했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“My ancestor destroyed the Five Poisons Sect alongside the Fire Gate Clan Leader of that era.",
+      "defect": "The established rendering of 문주 is “Sect Leader,” not “Clan Leader.”",
+      "id": "F06",
+      "rationale": "열화문주 combines the established organization name Fire Gate Clan with the binding title Sect Leader.",
+      "replacement": "“My ancestor destroyed the Five Poisons Sect alongside the Sect Leader of the Fire Gate Clan at the time.",
+      "severity": "minor",
+      "source": "“내 선조께서는 과거 당대의 열화문주와 함께 오독문을 멸문시켰소.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "As the white fingers wiping the blood from his cheek moved, the corpse, drained of its vitality, flew beyond the darkness and vanished.",
+      "defect": "The draft assigns an unsupported male pronoun and grammatically suggests that the fingers are wiping blood from the dead man's cheek, while also changing the completed wiping action into an ongoing one.",
+      "id": "F07",
+      "rationale": "The hidden figure's gender remains unstated, and 닦아 낸 marks the wiping as completed before the fingers move and send the corpse away.",
+      "replacement": "When the white fingers that had wiped the blood from their cheek moved, the lifeless corpse flew beyond the darkness and vanished.",
+      "severity": "major",
+      "source": "뺨에 묻은 핏물을 닦아 낸 하얀 손가락이 움직이자, 생기가 빠져나간 시신이 어둠 너머로 날아가 사라졌다."
+    }
+  ],
+  "summary": "The draft contains two altered quantities or subjects, one misparsed title construction, an omitted physical detail, a terminology mismatch, an awkward dialogue calque, and an ambiguous action that assigns an unsupported male pronoun.",
+  "version": 1
+}
