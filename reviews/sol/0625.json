@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Calling him the culprit would be a bit much. There was just a bit of an accident.”",
+      "defect": "The draft adds a male third-person subject even though the source does not identify the culprit here, prematurely weakening the later reveal of Namho. It also turns a mistake into an accident.",
+      "id": "F01",
+      "rationale": "The Korean deliberately avoids specifying who caused the fire and describes what happened as a 실수, or mistake.",
+      "replacement": "“‘Culprit’ would be putting it a bit strongly. There was a little mistake.”",
+      "severity": "major",
+      "source": "흉수라고 하기에는 좀 뭣하고, 실수가 좀 있었습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Are you perhaps insane?”",
+      "defect": "The translation sanitizes 새끼 and loses Namho’s blunt profanity.",
+      "id": "F02",
+      "rationale": "미친 새낀가 is directly and strongly abusive, not merely a polite-sounding question about sanity.",
+      "replacement": "“Are you fucking insane?”",
+      "severity": "major",
+      "source": "자네 혹시 미친 새낀가?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Anyone else might not have known what to make of him, but this was not merely the lord of the Nanman Beast Palace. He was also an acquaintance of Jeok Cheongang.",
+      "defect": "The first sentence invents uncertainty about how other people would perceive Yayul Cheok. The source instead establishes that, whatever might apply with someone else, Taekyung’s present counterpart is first and foremost Jeok Cheongang’s acquaintance.",
+      "id": "F03",
+      "rationale": "다른 사람이라면 모를까 sets up a contrast with the present counterpart; it does not mean other people would be unable to understand Yayul Cheok.",
+      "replacement": "It might have been different with someone else, but before he was the lord of the Nanman Beast Palace, the man before me was an acquaintance of Jeok Cheongang.",
+      "severity": "major",
+      "source": "다른 사람이라면 모를까, 상대는 남만야수궁의 주인이기 이전에 적천강의 지인이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“I’m kind of close with my master.”",
+      "defect": "The draft assigns the relationship to Taekyung, stating the obvious fact that he is close to his own master. The omitted subject is Yayul Cheok: he is close to Taekyung’s master.",
+      "id": "F04",
+      "rationale": "The line answers why Yayul Cheok suddenly welcomed the party, so 우리 스승님이랑 친해 describes Yayul Cheok’s relationship with Jeok Cheongang.",
+      "replacement": "“He’s kind of close with my master.”",
+      "severity": "critical",
+      "source": "우리 스승님이랑 좀 친해."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“……Old Master. No, my master said he didn’t actually send it flying. He said he almost did.”",
+      "defect": "The opening reads as though Taekyung addresses Yayul Cheok as “Old Master” and then corrects himself. He is actually correcting how he refers to Jeok Cheongang while citing Jeok’s account.",
+      "id": "F05",
+      "rationale": "노야 and 스승님 both refer to Jeok Cheongang and belong within the attribution 말씀으로는.",
+      "replacement": "“……According to the Old Master—no, according to my master—he didn’t actually let it fly. He said he only almost did.”",
+      "severity": "minor",
+      "source": "……노야. 아니 스승님 말씀으로는 날리진 않고, 날릴 뻔했다고 하셨는데요."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“No. It definitely hit me. My breath caught, and I felt like my guts were burning to ashes.”",
+      "defect": "The draft converts the crude idiom 똥줄이 타다 into a literal sensation in the guts, losing both its frightened meaning and vulgar comic register.",
+      "id": "F06",
+      "rationale": "똥줄이 바싹 타들어 가다 is a crude expression of extreme fear or anxiety, not a description of one’s internal organs burning.",
+      "replacement": "“No. It definitely hit me. It knocked the breath out of me and scared the shit out of me.”",
+      "severity": "major",
+      "source": "아니다. 확실히 맞았어. 숨이 턱 막히고 똥줄이 바싹 타들어 가는 느낌이었지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“It was a very intense first meeting. After shitting blood twice, I went back to see him, and he poured me a drink, saying I should disinfect the wound with alcohol. He was an incredibly forthright man.”",
+      "defect": "The draft explicitly says to apply alcohol to the wound, flattening the joke that Jeok poured him a drink and called it disinfection. It also renders 호쾌 as “forthright,” which does not support Taekyung’s ensuing doubt about what counts as bighearted behavior.",
+      "id": "F07",
+      "rationale": "The source leaves the absurd connection between drinking the liquor and disinfecting the injury implicit, while 호쾌 praises Jeok as bold and bighearted rather than merely candid.",
+      "replacement": "“It was quite a first meeting. I shit blood twice, then went back to see him, and he poured me a drink, telling me to disinfect the wound. What a bighearted man.”",
+      "severity": "major",
+      "source": "아주 강렬한 첫 만남이었지. 두 번 정도 피똥을 싸고 다시 찾아갔더니 상처를 소독하라며 술 한잔을 따라 주셨다. 아주 호쾌하신 분이셨어."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I would have toasted the Beast Miao King, shouted “Random game!” as Yayul Cheok liked to do, and gotten all the people of other ethnicities completely wasted with various drinking games.",
+      "defect": "The draft makes Yayul Cheok someone who habitually shouts “Random game!” The source has Taekyung imagining himself shouting the drinking-game call about the game Yayul Cheok likes.",
+      "id": "F08",
+      "rationale": "야율척이 좋아하는 modifies 랜덤 게임 within the call Taekyung imagines shouting; it does not describe an established habit of Yayul Cheok’s.",
+      "replacement": "I would have toasted the Beast Miao King, shouted, “Yayul Cheok’s favorite—random games!” and gotten all the people of other ethnicities completely wasted on drinking games.",
+      "severity": "major",
+      "source": "야수묘왕이랑 건배도 하고, 야율척이 좋아하는 랜덤 게임을 외치면서 각종 술 게임으로 이민족들을 뿅 가게 만들었겠지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“He is the great chieftain who leads the Miao people.”",
+      "defect": "Namho is answering Yayul Cheok’s question directly, so changing “you” to “he” alters the grammatical subject and the interaction.",
+      "id": "F09",
+      "rationale": "The honorific copula 이시오 addresses Yayul Cheok directly, and the surrounding exchange asks each person to tell him who he is.",
+      "replacement": "“You are the great chieftain who leads the Miao people.”",
+      "severity": "critical",
+      "source": "묘족을 이끄는 대족장이시오."
+    }
+  ],
+  "summary": "The draft contains two critical subject or relationship errors, along with several meaningful losses of ambiguity, crude register, and comedic mechanism.",
+  "version": 1
+}
