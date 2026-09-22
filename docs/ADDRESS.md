@@ -1139,3 +1139,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 교감 선생님 | 김 선생 | vice_principal_to_homeroom_teacher | Mr. Kim | polite | The vice principal addresses Taekyung's homeroom teacher in the remembered classroom scene. |
 | 담임 선생님 | 교감 선생님 | homeroom_teacher_to_vice_principal | Vice Principal | polite | The homeroom teacher responds respectfully to the vice principal. |
 | 담임 선생님 | 진태경 | homeroom_teacher_to_student | Taekyung | familiar and gentle | The homeroom teacher calls Taekyung outside after returning to the classroom. |
+| 백상 | 호위장 | Palace Lord to Captain of the Guards | Captain of the Guards | formal and commanding | Baeksang issues orders concerning Ailao Mountain, the missing chieftains, and the pursuit of Yayul Cheok. |
+| 호위장 | 백상 | Captain of the Guards to Palace Lord | my lord | formal and deferential | The Captain reports the wildfire and missing chieftains while questioning Baeksang's orders. |
+| 백상 | 대장로 | Palace Lord to Miao Head Elder | Head Elder | cold, coercive, and formal | Baeksang offers the Head Elder a final chance to submit before ordering his imprisonment. |
+| 대장로 | 백상 | Miao Head Elder to usurping Palace Lord | Baeksang / you bastard | furious and defiant | The Head Elder condemns Baeksang's betrayal and refuses to abandon Yayul Cheok. |
