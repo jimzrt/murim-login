@@ -1,6 +1,6 @@
 # Beast Miao King (야수묘왕)
 
-- **Safe through:** Chapter 693
+- **Safe through:** Chapter 701
 - **Aliases:** Heugung
 - **Role:** The Beast Miao King is the Palace Lord of the Nanman Beast Palace and a Supreme Peak master who secretly lived for decades under Heugung's identity through the Bone-Shrinking Technique.
 - **Personality:** The Beast Miao King is calculating, patient, ruthless, and willing to endanger Nanman's people to advance Dark Heaven's grand plan.

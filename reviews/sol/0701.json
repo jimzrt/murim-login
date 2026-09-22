@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "She had simply watched me from a distance and then vanished without a trace. Like an observer who had come at someone else’s command.",
+      "defect": "The draft adds distance and reverses the source’s spatial cue: she watched him from right before his eyes, not from afar.",
+      "id": "F01",
+      "rationale": "눈앞에서 explicitly places her before Jin’s eyes; “from a distance” changes the scene’s proximity.",
+      "replacement": "She had merely watched me right before my eyes, then vanished without a trace. Like an observer sent on someone else’s orders.",
+      "severity": "critical",
+      "source": "그저 눈앞에서 지켜보다 홀연히 사라졌을 뿐이다. 마치 누군가의 명을 받고 찾아온 감시자처럼."
+    },
+    {
+      "confidence": 0.93,
+      "current": "I did not miss her heavily lowered gaze or the way she pressed her teeth against her lips.",
+      "defect": "The English is physically awkward and makes her gaze sound merely downward rather than suddenly subdued and guarded.",
+      "id": "F02",
+      "rationale": "착 가라앉은 conveys a gaze settling or becoming subdued, while 입술을 깨무는 is naturally rendered as biting one’s lip.",
+      "replacement": "I did not miss the way her gaze had gone still or how she gently bit her lip.",
+      "severity": "minor",
+      "source": "착 가라앉은 시선와 지그시 입술을 깨무는 모습 역시 놓치지 않았다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Idiot.”\n\n“……What?”\n\n“I said you’re an idiot. You worthless, idiotic old hag.”",
+      "defect": "The repeated vulgar insult 병신 is softened into comparatively neutral wording, weakening the deliberate escalation that provokes the Southern Heaven Demon Empress.",
+      "id": "F03",
+      "rationale": "병신 is a harsh, vulgar insult here, and its repetition is central to Jin’s calculated provocation.",
+      "replacement": "“Fucking idiot.”\n\n“…What?”\n\n“I said you’re a fucking idiot. You worthless fucking idiot of an old hag.”",
+      "severity": "major",
+      "source": "“병신.”\n\n“……뭐?”\n\n“병신이라고 했다. 이 하찮고 병신 같은 할망구야.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "—Then I’ll be the male.",
+      "defect": "The draft changes Jin’s selection of an opponent into a claim that he himself is the male.",
+      "id": "F04",
+      "rationale": "The guardian spirit tells Jin to choose between the human male and female; Jin chooses the male opponent.",
+      "replacement": "—Then I’ll take the male.",
+      "severity": "critical",
+      "source": "- 그럼 내가 수컷."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Southern Heaven Demon Empress smiled brightly as she brought the edge of her hand down toward him.",
+      "defect": "“The edge of her hand” is an awkward literal rendering that obscures the martial action.",
+      "id": "F05",
+      "rationale": "손날 denotes the knife-edge of the hand used as a striking surface; “knife-hand strike” states the action clearly without adding force or outcome.",
+      "replacement": "The Southern Heaven Demon Empress smiled brightly as she brought a knife-hand strike down toward him.",
+      "severity": "minor",
+      "source": "그리고 그런 그를 향해, 남천마후가 환한 웃음을 지으며 손날을 내리그었다."
+    }
+  ],
+  "summary": "Two scene facts are altered, and several localized choices weaken the source’s register or physical clarity.",
+  "version": 1
+}
