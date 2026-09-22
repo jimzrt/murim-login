@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Should I start by thanking you for saving us?”",
+      "defect": "The draft changes the unstated but contextually singular beneficiary from Jin to the entire group; Jin later explicitly describes the same act as the Black Tiger saving him.",
+      "id": "F01",
+      "rationale": "The surrounding exchange concerns the Black Tiger sparing Jin after reading the imugi’s memories, and Jin later says, “네가 날 살린 거,” explicitly confirming “me.”",
+      "replacement": "“Hmm. Should I start by thanking you for saving me?”",
+      "severity": "critical",
+      "source": "“음. 우선 살려 줘서 고맙다고 해야 하나?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—You intend to save your comrades in danger. Recklessly, as you did last time.",
+      "defect": "“Comrades” replaces 동족, which means members of Jin’s own kind. This loses the Black Tiger’s species-based perspective and implies a personal or organizational relationship absent from the source.",
+      "id": "F02",
+      "rationale": "동족 identifies beings of the same race or species, not merely companions or comrades.",
+      "replacement": "—You intend to save your own kind from danger. Recklessly, as you did last time.",
+      "severity": "major",
+      "source": "- 위기에 처한 동족들을 구할 생각이군. 지난번처럼 무모하게."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I cannot read human memories as well.",
+      "defect": "“As well” is ambiguous and can mean that the Black Tiger can read human memories, just not equally well. The source states that it cannot read human memories.",
+      "id": "F03",
+      "rationale": "읽지는 못하니까 expresses inability, while 까지 extends that limitation to human memories; it does not describe reduced proficiency.",
+      "replacement": "I cannot read human memories.",
+      "severity": "major",
+      "source": "- 안심해라. 인간의 기억까지 읽지는 못하니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—I merely felt sorry for whoever had handed everything he possessed to a foolish human.",
+      "defect": "The masculine pronoun assigns a gender to 누군가, whose identity and gender remain unstated in the source.",
+      "id": "F04",
+      "rationale": "누군가 and 자신의 are gender-neutral, so the translation must preserve that intentional ambiguity.",
+      "replacement": "—I merely felt sorry for someone who had handed everything they possessed to a foolish human.",
+      "severity": "major",
+      "source": "- 멍청한 인간에게 자신의 모든 것을 넘겨 준 누군가가 안타까웠을 뿐이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That had been the very day I received the emergency report and headed for Ailao Mountain with the Beast Miao King.",
+      "defect": "The draft makes Jin alone receive the emergency report and casts the Beast Miao King as merely accompanying him, whereas the source makes both of them the subjects of receiving the report and heading to the mountain.",
+      "id": "F05",
+      "rationale": "나와 야수묘왕이 jointly governs both 급보를 접하고 and 애뇌산으로 향했던.",
+      "replacement": "That had been the very day the Beast Miao King and I received the emergency report and headed for Ailao Mountain.",
+      "severity": "critical",
+      "source": "칠주야(七晝夜) 전이라면 바로 그날이다. 나와 야수묘왕이 급보를 접하고 애뇌산으로 향했던 바로 그 날."
+    },
+    {
+      "confidence": 0.94,
+      "current": "But this is a place deep beneath the earth that no one can enter without my permission.",
+      "defect": "“Beneath the earth” explicitly locates the realm underground, while the source only places it deep within the land.",
+      "id": "F06",
+      "rationale": "땅 깊숙한 곳 means a place deep within the land; it does not contain the explicit 땅속 construction needed to establish that the realm is underground.",
+      "replacement": "But this is a place deep within the land that no one can enter without my permission.",
+      "severity": "critical",
+      "source": "하지만 이곳은 내 허락이 없다면 누구도 들어올 수 없는 땅 깊숙한 곳이다."
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter beneficiaries, species relationships, memory-reading limits, an intentionally unspecified identity, joint action, and the realm’s stated location.",
+  "version": 1
+}
