@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At that point, I tried to cut Hyuk Mujin off.",
+      "defect": "The draft says Taekyung attempted to interrupt, but the source says he was only about to do so; the following sentence confirms that he never opened his mouth.",
+      "id": "F01",
+      "rationale": "The prospective construction 끊으려고 했다 describes an intended action that Ju Hwaran preempts, not an action Taekyung already attempted.",
+      "replacement": "At that point, I was about to cut Hyuk Mujin off.",
+      "severity": "critical",
+      "source": "이쯤에서 혁무진의 말을 끊으려고 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Oh, right. Come to think of it, I heard that Great Chieftain Yohi turned herself in as well.",
+      "defect": "The draft changes Yohi's action from voluntarily asking to be punished to turning herself in.",
+      "id": "F02",
+      "rationale": "스스로 죄를 청했다 specifically means that Yohi requested punishment for her own wrongdoing; her voluntary imprisonment is stated separately afterward.",
+      "replacement": "Oh, right. Come to think of it, I heard that Great Chieftain Yohi asked to be punished as well.",
+      "severity": "major",
+      "source": "아, 맞다. 그러고 보니 요희 대족장도 스스로 죄를 청했다 하더라고요."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Do you have any idea how hard the Pavilion Master has worked for us? How can you say something like that?”",
+      "defect": "The draft omits Ju Hwaran's respectful identification of the Pavilion Master as Young Master Jin, losing part of her deferential register.",
+      "id": "F03",
+      "rationale": "Both 각주님 and 진 공자 appear in the source, and the latter preserves Ju Hwaran's established respectful way of referring to Jin Taekyung.",
+      "replacement": "“Do you have any idea how much the Pavilion Master—Young Master Jin—has gone through for us? How can you say something like that?”",
+      "severity": "major",
+      "source": "“각주님께서, 진 공자가 우리를 위해서 얼마나 고생하셨는지 몰라요? 그런데 어떻게 그런 소릴 할 수 있어요?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I know. Keep holding that position.”",
+      "defect": "The literal wording makes Ju Hwaran sound as though she is referring to Song Ilseom's physical posture, while she is telling him to remain silent.",
+      "id": "F04",
+      "rationale": "그 자세 refers pragmatically to his having said nothing throughout the confrontation; the replacement preserves the deadpan warning without introducing physical ambiguity.",
+      "replacement": "“I know. Keep it that way.”",
+      "severity": "minor",
+      "source": "“저도 알아요. 계속 그 자세 유지하세요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "—That wasn’t a leg……",
+      "defect": "The missing possessive weakens the anatomical contrast underlying the euphemistic joke and leaves the referent unnecessarily vague.",
+      "id": "F05",
+      "rationale": "In context, Taekyung is clarifying that the part of his own body Hyuk Mujin touched was not his leg; the replacement keeps the source euphemistic rather than naming it explicitly.",
+      "replacement": "—That wasn’t my leg just now…",
+      "severity": "minor",
+      "source": "- 방금 그거 다리 아니다……."
+    },
+    {
+      "confidence": 0.91,
+      "current": "But now that we were all gathered together like this, alive, it felt different.",
+      "defect": "The vague phrase “felt different” loses the renewed emotion Taekyung experiences upon seeing everyone alive.",
+      "id": "F06",
+      "rationale": "감회가 새롭다 describes experiencing renewed or freshly stirred emotion, not merely sensing that the situation feels different.",
+      "replacement": "But now that we were all gathered together like this, alive, I was overcome with emotion all over again.",
+      "severity": "minor",
+      "source": "하지만 살아서 이렇게 함께 모여 있으니 감회가 새롭다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The power of supernatural forces beyond understanding had always been destined to inspire fear in people.",
+      "defect": "The sentence uses an awkward redundant construction and misses the binding rendering of 괴력난신 as “supernatural powers.”",
+      "id": "F07",
+      "rationale": "The replacement uses the established terminology and naturally preserves the source's general claim that incomprehensible supernatural powers invariably provoke fear.",
+      "replacement": "Supernatural powers beyond human understanding inevitably inspire fear.",
+      "severity": "minor",
+      "source": "이해할 수 없는 괴력난신(怪力亂神)의 힘은, 언제나 사람들의 두려움을 불러일으키기 마련이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Though that water has already been spilled.*",
+      "defect": "This is an unnatural literal calque of an idiom meaning that what has happened cannot be undone.",
+      "id": "F08",
+      "rationale": "이미 엎질러진 물 invokes an irreversible fait accompli; the replacement conveys that meaning in natural English without adding explanation.",
+      "replacement": "*Though what was done was done.*",
+      "severity": "minor",
+      "source": "‘이미 엎질러진 물이긴 하지만.’"
+    }
+  ],
+  "summary": "The draft contains one changed action, several losses of hierarchy or characterization, and localized terminology and idiom issues.",
+  "version": 1
+}

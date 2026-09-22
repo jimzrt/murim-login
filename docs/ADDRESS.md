@@ -1174,3 +1174,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야율천 | 수호령 | fearless human visitor to guardian spirit | you | casual and curious | Yayul Cheon asks the guardian spirit its name after touching its neck. |
 | 수호령 | 야율천 | guardian spirit to fearless human visitor | you; human bastard | threatening and contemptuous | The guardian spirit demands Yayul Cheon's name and threatens to tear him limb from limb if he returns. |
 | 적천강 | 의원 | interrogator_to_physician | you; quack | blunt and threatening | Jeok shakes the physician and demands an explanation for Jin's seven-day sleep before ordering him to summon the Beast Miao King. |
+| 주화란 | 태산 | pavilion_member_to_pavilion_member | Young Hero Taishan | formal but stern | Ju Hwaran reprimands Taishan for speaking ominously about Jin and warns that she will muzzle him. |
