@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but four minor source-fidelity defects remain involving a dropped sequence detail, a lost biographical fact, an omitted title, and an added physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 41-43",
+      "current": "The chaos in Hubei Province will worsen, and further incidents will occur",
+      "defect": "The translation drops the consecutive or successive nature of the additional incidents expressed by 잇따른.",
+      "replacement": "The chaos in Hubei Province will worsen, and additional incidents will occur one after another",
+      "rationale": "The failure condition is not merely that more incidents occur; it specifies a succession of further incidents.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean lines 133-135",
+      "current": "It was unusual enough that he had never joined either the orthodox or unorthodox faction and had spent his entire life near Dongting Lake.",
+      "defect": "This weakens the explicit physical fact that the Dongting Fisherman never left the area around Dongting Lake.",
+      "replacement": "It was unusual enough that he had never joined either the orthodox or unorthodox faction and had never left the area around Dongting Lake in his entire life.",
+      "rationale": "벗어나지 않았다는 means he did not leave the vicinity, not merely that he spent his life there.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 169",
+      "current": "I respect the Seafaring King.",
+      "defect": "The source addresses him with the honorific title 대협, but the assembled English omits it and lowers the register.",
+      "replacement": "I respect Great Hero Seafaring King.",
+      "rationale": "The glossary establishes 대협 as “Great Hero” or “Sir,” and this occurrence is part of Taekyung’s deliberately respectful, comedic disclaimer.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean lines 307-309",
+      "current": "Something dark and battered lay in his hand.",
+      "defect": "“Battered” adds a damage detail before the object is identified; the source only describes something darkish or dingy being held.",
+      "replacement": "Something dark and dingy was in his hand.",
+      "rationale": "거무튀튀한 establishes a dark, dingy appearance, while the later explicit description of the weapon as broken should not be anticipated here.",
+      "confidence": 0.94
+    }
+  ]
+}

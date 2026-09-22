@@ -68,7 +68,7 @@ What that meant was simple.
 
 Besides, the Quest carried no penalty. There was little point in asking whether I would accept when I was already in the same boat as him.
 
-I muttered inwardly.
+I answered silently.
 
 *Yes.*
 
@@ -97,7 +97,7 @@ My question broke the heavy silence. Crouching Dragon Guest Zhuge Feng smiled fa
 
 “Go ahead, provided we do not waste each other’s valuable time.”
 
-“First, I would like to ask whether there is any evidence.”
+“First, I’d like to ask whether you have any evidence.”
 
 “Evidence?”
 
@@ -179,7 +179,7 @@ Leaving Mu Song looking dejected once again, Zhuge Feng continued slowly.
 
 The sobriquet sounded vaguely familiar, but the name itself was new to me. Surely he wasn’t the Hwang Chung from *Romance of the Three Kingdoms*.[^1]
 
-*He does seem to be the Uncle Hwang Mu Song mentioned when we first arrived in Hubei.*
+*He must be the Uncle Hwang Mu Song mentioned when we first arrived in Hubei.*
 
 As I tilted my head at the unfamiliar name, Jeok Cheongang cut in sharply.
 
@@ -191,7 +191,7 @@ As I tilted my head at the unfamiliar name, Jeok Cheongang cut in sharply.
 
 “If he had not helped the Seafaring King, the Yangtze River Channel League as it exists today would not be here.”
 
-“You call that something worth saying? Without someone to keep him in check, how could the Seafaring King, that foul-tempered bastard, have ruled the Yangtze?”
+“Isn’t that obvious? Without someone beside him to keep him in check, how could a foul-tempered bastard like the Seafaring King ever have ruled the Yangtze?”
 
 Wow. That was practically spitting in his face.
 
@@ -217,9 +217,9 @@ Zhuge Feng looked at Mu Song and continued slowly.
 
 “That’s impossible!”
 
-Those words had not come from me.
+The shout hadn’t come from me.
 
-Mu Song shot to his feet, the veins standing out on his neck as he shouted.
+Mu Song shot to his feet, the veins standing out on his neck.
 
 “Uncle Hwang would never do such a thing!”
 
@@ -229,7 +229,7 @@ The qi pressure radiating from Mu Song, who had reached the upper limits of the 
 
 Zhuge Feng covered his mouth with his sleeve, gave a small cough, and answered calmly.
 
-“Why do you say that?”
+“Why not?”
 
 “You know as well as I do, Family Head! During the Great Faction War, Uncle Hwang persuaded my Master to side with the orthodox faction. He is also one of the moderates within our League! There is no possibility that a man like him would destroy the Sea Serpent Society in this manner and kill the Dongting Fisherman!”
 
@@ -249,7 +249,7 @@ Zhuge Feng remained so composed that Mu Song’s anger seemed almost pointless.
 
 “Then why—!”
 
-Just as Mu Song was about to shout, Zhuge Feng’s quiet voice pierced the ears of everyone in the room, including me.
+Just as Mu Song was about to shout, Zhuge Feng’s quiet voice pierced the ears of everyone in the room.
 
 “If no one from the Yangtze River Channel League has shown themselves, whom could I possibly ask?”
 
@@ -269,11 +269,11 @@ Unlike Mu Song, who had frozen like a statue, Zhuge Feng continued smoothly.
 
 “……Then what about Donghu Stronghold?”
 
-“Someone once told me that Donghu Stronghold was a natural fortress built on the water. I tried to see for myself, and they were right. Now that even the Sea Serpent Society’s core boatmen have all been drowned, we could not enter Donghu Stronghold by crossing the waters of Tianling Falls.”
+“Someone once told me that Donghu Stronghold was a natural fortress built upon the water. When I tried to reach it myself, I discovered they were right. Now that even the Sea Serpent Society’s finest boatmen have all drowned, we have been unable to navigate the waters of Tianling Falls and enter Donghu Stronghold.”
 
 The mysterious grandeur of nature sometimes refused all human intrusion.
 
-The Tianling Falls Zhuge Feng mentioned were clearly the passage to Donghu Stronghold, one that only a tiny number of boatmen could navigate.
+The Tianling Falls Zhuge Feng spoke of had to be the passage to Donghu Stronghold, one that only a tiny number of boatmen could navigate.
 
 Someone counted among the finest boatmen in the Yangtze River Channel League or the Sea Serpent Society—or someone who had spent his entire life on the Yangtze in Hubei…
 
@@ -285,7 +285,7 @@ Zhuge Feng abruptly rose and began walking at a leisurely pace.
 
 He clicked his tongue softly at the fallen bookshelf, then rummaged through the towering piles of books as he continued.
 
-“But did you know this? Although we failed to cross Tianling Falls, the Yangtze, after accepting dozens of ships as tribute, tossed us a gift as if out of generosity.”
+“But did you know? Though we failed to cross Tianling Falls, the Yangtze accepted dozens of ships as tribute and generously tossed us a gift in return.”
 
 Scrape. Crash!
 
