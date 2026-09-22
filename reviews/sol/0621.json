@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You once said something like this, Pavilion Master. Ten li in Nanman is the same as a hundred li in the Central Plains.”",
+      "defect": "The draft turns the Pavilion Master into Namho’s addressee and attributes the statement to Jin Taekyung. The Korean refers in the third person to the Pavilion Master who previously made the remark.",
+      "id": "F01",
+      "rationale": "각주께서 is the honorific subject of 하신 적이 있지, not a vocative addressing the listener.",
+      "replacement": "“The Pavilion Master once said this: ten li in Nanman is the same as a hundred li in the Central Plains.”",
+      "severity": "critical",
+      "source": "“일전에 각주께서 그런 말씀을 하신 적이 있지. 남만에서의 십 리는, 중원의 백 리와 같다고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Taishan feels comfortable now that Taishan has finished. Taishan is fine.”",
+      "defect": "The vague “finished” omits that Taishan explicitly says he feels better after shitting everything out, weakening both the recovery mechanism and the crude punchline.",
+      "id": "F02",
+      "rationale": "다 싸고 explicitly refers to finishing defecating, unlike the preceding narration’s euphemistic 거사를 치른.",
+      "replacement": "“Taishan. Feels better after shitting it all out. Taishan is fine now.”",
+      "severity": "major",
+      "source": "“태산이. 다 싸고 나니까 편안하다. 이제 괜찮다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Nanman Beast Palace or whatever the hell it is, I think I’ll be dead by the day after tomorrow.”",
+      "defect": "“Or whatever the hell it is” suggests uncertainty about the palace’s identity rather than dismissing the entire objective.",
+      "id": "F03",
+      "rationale": "이고 나발이고 is a forceful dismissal meaning that the preceding concern can go to hell.",
+      "replacement": "“To hell with the Nanman Beast Palace. I think I’ll be dead by the day after tomorrow.”",
+      "severity": "major",
+      "source": "“남만야수궁이고 나발이고, 내일모레쯤 뒈질 것 같습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even if I told the non-Han peoples of Nanman, “Actually, I’m not Han Chinese. I’m Korean. Not North—South,” there was no way they would understand.",
+      "defect": "The draft neutralizes the strongly vulgar, self-mocking 이 지랄 떨어 봤자 and renders “Not North—South” as unnatural English.",
+      "id": "F04",
+      "rationale": "이 지랄 떨어 conveys Taekyung’s crude dismissal of making such an explanation, while 노스말고 사우스요 means “South, not North.”",
+      "replacement": "Even if I went up to the non-Han peoples of Nanman and pulled some shit like, “Actually, I’m not Han Chinese. I’m Korean. South, not North,” there was no way they’d understand.",
+      "severity": "major",
+      "source": "남만 이민족들한테 ‘사실 전 한족이 아니라, 한민족입니다. 노스말고 사우스요.’ 이 지랄 떨어 봤자 알아듣지도 못할 게 뻔하니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Dark Heaven would realize that the invisible dagger had drawn right up to its throat and accelerate its plans even further.",
+      "defect": "The draft changes the dagger’s proximity from being right under Dark Heaven’s nose to being at its throat, adding a more specific mortal-threat image absent from the source.",
+      "id": "F05",
+      "rationale": "코앞까지 means immediately before or right under one’s nose, not at one’s throat.",
+      "replacement": "Dark Heaven would realize that the unseen dagger was right under its nose and accelerate its plans even further.",
+      "severity": "minor",
+      "source": "보이지 않던 비수가 코앞까지 다가온 것을 깨달은 암천은 계획에 더욱 박차를 가할 테고"
+    },
+    {
+      "confidence": 0.96,
+      "current": "alligators swarmed like tadpoles in Cheonggyecheon",
+      "defect": "The draft unnecessarily narrows the generic 악어 to alligators.",
+      "id": "F06",
+      "rationale": "악어 is conventionally rendered as “crocodiles” here; nothing in the source specifies alligators.",
+      "replacement": "crocodiles teemed like tadpoles in Cheonggyecheon",
+      "severity": "minor",
+      "source": "악어는 청계천 올챙이처럼 우글거린다."
+    }
+  ],
+  "summary": "One critical speaker-subject error, three meaningful losses or alterations of crude register, one altered threat metaphor, and one animal mistranslation.",
+  "version": 1
+}

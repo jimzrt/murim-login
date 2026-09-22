@@ -1977,3 +1977,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 만족 | **Man people** | An ethnic group mentioned by the Poison Flower Pavilion owner. |
 | 남호 | **Namho** | Hidden Shadow Pavilion code name; literally associated with amber from the south. |
 | 챠오 | **Chao** | Namho’s local name or identity, addressed as Elder Chao by the Nanman crowd. |
+| 혈생균 | **blood-feeding fungus** | A red fungus that is lethal to ordinary animals and cannot be treated with antidotes. |
+| 애뇌산 | **Ailao Mountain** | Mountain crossed by the party on the route to the Nanman Beast Palace. |
