@@ -1,30 +1,28 @@
 # Translation State
 
-- Last completed: 637
-- Next chapter: 638
-- Current block: 635–639 (3/5)
-- Latest translation: `translations/0637.md`
-- Latest summary: `summaries/beats/0637.md`
-- Safe profiles through: chapter 637
+- Last completed: 638
+- Next chapter: 639
+- Current block: 635–639 (4/5)
+- Latest translation: `translations/0638.md`
+- Latest summary: `summaries/beats/0638.md`
+- Safe profiles through: chapter 638
 
 ## Current Block
 
-- Jin Taekyung and the Beast Miao King cross the Poisonblood Grounds swamp under Poison Mist, fighting deadly creatures while relying on Jin's Myriad-Poison Ring and the Beast Miao King's poison-warding pearl. After the swamp, Jin learns that the Nanman Beast Palace's rumored sacred treasure, the Beast King Stone, supposedly commands every ferocious beast, though its existence is uncertain and its disappearance is tied to the founding conflict with the Five Poisons Sect. In the dense Poison Mist, they investigate a human scream, find a dead Bai warrior wrapped in sticky thread, and are surrounded by creatures descending from a gigantic tree: Thousand-Year Spiders.
+- Jin Taekyung and the Beast Miao King are surrounded by five Thousand-Year Spiders in the Poisonblood Grounds. The spiders attack with highly acidic slime, but Jin summons the White Flame spear and the two fighters break through the assault together. Jin kills two spiders, the Beast Miao King kills two more, and Jin levels up after defeating the second one. The final spider flees by stepping on an unseen web, so Jin and the Beast Miao King pursue it.
 
 ## Open Questions
 
-- Why was a Bai warrior inside the Poisonblood Grounds, and what killed him?
-- What are the Thousand-Year Spiders, and how dangerous is the surrounding swarm?
-- What lies deeper inside the Poisonblood Grounds?
-- Is Dark Heaven's Nanman objective connected to the Beast King Stone or another sacred treasure?
+- What lies beyond the unseen spiderweb toward which the last Thousand-Year Spider fled?
+- Where is the Thousand-Year Spider leading Jin Taekyung and the Beast Miao King?
+- What further dangers are hidden deeper in the Poisonblood Grounds?
 
 ## Exceptional Decision
 
-- Use Poisonblood Grounds for 독혈지.
-- Use Beast King Stone for 수왕석.
-- Use Thousand-Year Spider for 천년지주.
-- Use Mr. Yayul for 야율 씨 in colloquial dialogue.
-- Retain My Good Sir, Do Not Cross That Swamp for the chain Quest title.
+- Use Hope goshiwon for 희망 고시원.
+- Use ghost spider for 유령거미, Joro spider for 무당거미, Brazilian wandering spider for 브라질 떠돌이 거미, and tarantula for 타란툴라.
+- Use Indiscriminate Hunting Bug for the achievement 가리지 않는 사냥충.
+- Use Inventory and Summon for the System commands 인벤토리 and 소환.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Even during the war-torn Great Cataclysm, all kinds of bugs had stubbornly survived inside Hope goshiwon—and spiders had been among its most regular guests.",
+      "defect": "The culturally specific housing term “goshiwon” is left unexplained at its first meaningful occurrence despite its relevance to the cramped, inexpensive living environment.",
+      "id": "F01",
+      "rationale": "The source relies on the recognizable conditions of a 고시원, and the binding footnote rules specifically require a concise explanation when those connotations matter.",
+      "replacement": "Even during the war-torn Great Cataclysm, all kinds of bugs had stubbornly survived inside Hope goshiwon[^1]—and spiders had been among its most regular guests.\n\n[^1]: A goshiwon is an inexpensive Korean housing arrangement consisting of extremely small rooms with shared facilities.",
+      "severity": "minor",
+      "source": "대격변이라는 전쟁통에서도 꿋꿋하게 살아남은 희망 고시원에는 온갖 벌레가 들끓었고, 그중에서도 거미는 빼놓을 수 없는 단골손님이었으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The kind of insect density that could make you believe in the theory that an entomologist who had been dead for nearly two hundred years had been reincarnated.",
+      "defect": "“Reincarnated” changes 예토전생 from the resurrection or reanimation of a dead person into rebirth as someone else, weakening the joke that Fabre himself might have returned.",
+      "id": "F02",
+      "rationale": "예토전생 describes bringing the dead back rather than reincarnation into a new life or identity.",
+      "replacement": "The kind of insect density that could make you believe an entomologist dead for nearly two hundred years had been brought back to life.",
+      "severity": "major",
+      "source": "죽은 지 이백 년이 되어 가는 곤충학자의 예토전생 설을 믿을 정도의 곤충 밀집도."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If I hadn’t known what that was and failed to avoid it—or if even a small amount had touched me—part of my body might have melted away instantly.",
+      "defect": "The draft makes knowing what the substance was part of the successful avoidance, but the source says he dodged it despite not knowing its identity.",
+      "id": "F03",
+      "rationale": "The source explicitly pairs his ignorance of the substance with the fact that he nevertheless avoided it.",
+      "replacement": "If I hadn’t dodged it despite not knowing what it was—or if even a little had touched me—the slime might have instantly melted away part of my body.",
+      "severity": "major",
+      "source": "만약 저것의 정체를 모르고 피하지 않았거나 조금이라도 닿았다면, 점액질에 의하여 신체 일부가 즉시 녹아내렸을지도 모른다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Their cries and movements were filled with caution. Their bodies were black like beetles, and their eyes—both large and small—darted rapidly in every direction.",
+      "defect": "The draft assigns the beetle-black color to the spiders’ bodies, while the source describes their differently sized eyes as black like beetles.",
+      "id": "F04",
+      "rationale": "The grammatical subject of 딱정벌레처럼 검고 is 눈동자, not the spiders’ bodies.",
+      "replacement": "Their cries and movements were filled with caution. Their eyes, black like beetles and varying in size, darted rapidly in every direction.",
+      "severity": "major",
+      "source": "경계 가득한 울음소리와 움직임. 딱정벌레처럼 검고 각기 크고 작은 눈동자가 재빠르게 사방을 훑는다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Do you think I’ve only killed one or two spiders? If you’d lived in Hope goshiwon, I would’ve killed you all the way down to your in-laws’ eighth cousins.”",
+      "defect": "The draft sanitizes the explicit profanity 시발 and awkwardly turns two categories of distant relations into possessive “in-laws’ eighth cousins.”",
+      "id": "F05",
+      "rationale": "시발 requires strong profanity, while 사돈에 팔촌까지 humorously encompasses even the spider’s most distant extended relations.",
+      "replacement": "“Fuck, you think I’ve only killed one or two spiders? If you’d lived in Hope goshiwon, your whole extended family—in-laws and eighth cousins included—would’ve died by my hand.”",
+      "severity": "major",
+      "source": "“내가 시발, 거미 한두 마리 잡아 본 줄 아냐? 네가 희망 고시원 살았으면 사돈에 팔촌까지 나한테 죽었어.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Thousand-Year Spider’s head was now convulsing rather than merely struggling. I drove the spearhead down into it.",
+      "defect": "The draft makes only the spider’s head convulse and leaves the target of the thrust implicit; the source says the spider itself is convulsing and that Taekyung drives the spear into its head.",
+      "id": "F06",
+      "rationale": "천년지주 is the subject of 경련하는, while 머리 is the explicit target of the spearhead.",
+      "replacement": "The Thousand-Year Spider was no longer merely struggling—it was convulsing. I drove the spearhead down into its head.",
+      "severity": "minor",
+      "source": "나는 이제 몸부림을 넘어 경련하는 천년지주의 머리를 향해 창날을 내리꽂았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - Defeated **[Lv. 117 Thousand-Year Spider]**!\n> - Gained a substantial amount of **EXP** and **Fame**!\n> - **[Thousand-Year Spider]** is a special existence among countless venomous beasts. An additional **Reward** will be granted accordingly!\n> - Achieved the rare **Title**, **[Indiscriminate Hunting Bug]**!\n> - When facing insect-form enemies in the future, you will gain additional stats!",
+      "defect": "The panel violates the required no-square-brackets format and changes 업적, an achievement, into the distinct System term “Title.”",
+      "id": "F07",
+      "rationale": "The source explicitly calls 가리지 않는 사냥충 an 업적, not a 칭호, and the binding System-panel rules prohibit enclosing UI terms or notices in square brackets.",
+      "replacement": "> **System**\n>\n> - Defeated **Lv. 117 Thousand-Year Spider**!\n> - Gained a substantial amount of **EXP** and **Fame**!\n> - **Thousand-Year Spider** is a special existence among countless venomous beasts. An additional **Reward** will be granted accordingly!\n> - Achieved the rare achievement **Indiscriminate Hunting Bug**!\n> - When facing insect-form enemies in the future, you will gain additional stats!",
+      "severity": "major",
+      "source": "- [Lv.117 천년지주]를 처치했습니다!\n\n- 상당량의 경험치와 명성을 획득했습니다!\n\n- [천년지주]는 수많은 독물 중에서도 특별한 존재. 그에 따른 추가 보상이 주어집니다!\n\n-희귀한 업적, [가리지 않는 사냥충]을 달성했습니다!\n\n- 향후 곤충 형태의 적을 상대할 시, 추가 능력치를 얻습니다!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You bastards! Even tearing you to pieces wouldn’t be enough! How dare you touch my hair!”",
+      "defect": "“Touch my hair” understates and misstates the grievance: the slime has nearly dissolved his hair, and the Korean leaves the outraged consequence implicit rather than saying they merely touched it.",
+      "id": "F08",
+      "rationale": "감히 내 머리카락을 is an indignant trailing accusation prompted by the visible destruction of his hair.",
+      "replacement": "“You bastards! Even tearing you to pieces wouldn’t be enough! How dare you do this to my hair!”",
+      "severity": "minor",
+      "source": "“이 찢어 죽여도 시원치 않을 놈들! 감히 내 머리카락을!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - Defeated **[Lv. 109 Thousand-Year Spider]**!\n> - Gained a substantial amount of **EXP** and **Fame**!\n> - Because you additionally defeated an extremely rare existence, you gained bonus **EXP**!\n> - **Level Up!**",
+      "defect": "The enemy notice retains forbidden square brackets inside a System panel.",
+      "id": "F09",
+      "rationale": "The binding System formatting identifies the panel through its blockquote and heading and expressly prohibits square brackets around System notices or UI terms.",
+      "replacement": "> **System**\n>\n> - Defeated **Lv. 109 Thousand-Year Spider**!\n> - Gained a substantial amount of **EXP** and **Fame**!\n> - Because you additionally defeated an extremely rare existence, you gained bonus **EXP**!\n> - **Level Up!**",
+      "severity": "minor",
+      "source": "- [Lv.109 천년지주]를 처치했습니다!\n\n- 상당량의 경험치와 명성을 획득했습니다!\n\n- 매우 희귀한 존재를 추가적으로 처치했으므로 보너스 경험치를 획득합니다!\n\n- 레벨 업!"
+    }
+  ],
+  "summary": "The draft contains several subject and causal errors, omits strong profanity, misclassifies an achievement as a Title, and violates the required System-panel and footnote formatting.",
+  "version": 1
+}
