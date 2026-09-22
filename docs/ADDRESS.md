@@ -1157,3 +1157,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 무야호 | human ally to intelligent spiritual beast | Muyaho | quiet and familiar | Jin whispers that they should go as Muyaho advances with the guardian spirit. |
 | 수호령 | 남천마후 | guardian_spirit_to_hostile_supernatural_opponent | you | terse, accusatory, and contemptuous | The guardian spirit tells the Southern Heaven Demon Empress that it knows her true essence and condemns her as a Fiend. |
 | 남천마후 | 수호령 | hostile_supernatural_opponent_to_guardian_spirit | hideous beast | playful, taunting, and dismissive | She insults the guardian spirit while addressing it as a beast. |
+| 백상 | 중년인 | Nanman Palace Lord to civilian tribesman | you | controlled and grave | Baeksang orders the middle-aged man to flee with his mother and the other civilians through the East Gate. |
+| 중년인 | 백상 | Nanman civilian to betrayed Palace Lord | you | hostile, fearful, and grieving | The middle-aged man confronts Baeksang while protecting his mother and condemns him for the deaths and destruction. |

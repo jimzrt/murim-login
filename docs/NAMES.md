@@ -2111,3 +2111,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 균열 | **rift** | The dark rift opening in the cliff behind the Inner Palace. |
 | 진화 | **evolution** | The transformation the Southern Heaven Demon Empress claims the rift will produce. |
 | 가기 | **singing courtesan** | The favored entertainer identity Honglan used in Hubei. |
+| 신물 | **divine artifact** | General term for a sacred or divine object, distinct from 신석. |
+| 지옥도 | **hellscape** | Metaphorical description of the devastated battlefield. |
+| 궁인 | **palace attendant** | Former Inner Palace attendant expelled by Baeksang. |
+| 호야 | **Hoya** | Name called by the fleeing tribesman while searching for someone. |

@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "*It was stopped? By the demonic qi summoned from the rift?*",
+      "defect": "The draft makes the demonic qi the force that stopped the darkness, reversing the source, where the Southern Heaven Demon Empress is shocked that even the rift’s demonic qi has been stopped.",
+      "id": "F01",
+      "rationale": "그것도 marks the demonic qi as the especially surprising thing that was blocked, not the agent responsible for blocking it.",
+      "replacement": "*It was blocked? Even the demonic qi summoned from the rift?*",
+      "severity": "critical",
+      "source": "‘……막혔다고? 그것도 균열에서 불러온 마기(魔氣)가?’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Yet even after enough time had passed for mountains and rivers to change, she had not obtained the slightest clue about the Beast King Stone’s true nature.",
+      "defect": "“True nature” suggests that she found the stone but could not understand its properties. The source says she failed to uncover even the slightest trace or concrete clue concerning the stone itself.",
+      "id": "F02",
+      "rationale": "실체에 관한 작은 단서 refers to evidence or concrete information about the artifact she had spent years searching for, not merely knowledge of its nature.",
+      "replacement": "Yet even after enough time had passed for mountains and rivers to change, she had failed to find so much as the slightest trace of the Beast King Stone itself.",
+      "severity": "major",
+      "source": "하지만 강산이 변할 만큼의 세월이 흘렀음에도 수왕석의 실체에 관한 작은 단서조차 얻지 못했고, 남천마후는 케케묵은 전설을 뒤로하고 대계(大計)를 시작해야 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Like a god. Like a Fiend from a legend.\n\nShe was judging how many lives remained.",
+      "defect": "The draft changes the object from the onlookers’ remaining lifespans to the number of people still alive.",
+      "id": "F03",
+      "rationale": "남은 목숨 means the life each person has left, while “how many lives remained” denotes a count of survivors.",
+      "replacement": "Like a god—or a Fiend out of legend—she was gauging how much longer they had to live.",
+      "severity": "major",
+      "source": "마치 신처럼, 전설 속에 등장하는 악귀(惡鬼)처럼 남은 목숨을 가늠하고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A terrifyingly immense force rose and pressed down on everything around it.",
+      "defect": "The Murim energy denoted by 기운 is rendered generically as “force,” obscuring the chapter’s qi terminology.",
+      "id": "F04",
+      "rationale": "This is supernatural Murim energy emanating from the Southern Heaven Demon Empress, so “qi” preserves the established energy distinction.",
+      "replacement": "A terrifyingly immense surge of qi rose and pressed down on everything around it.",
+      "severity": "minor",
+      "source": "끔찍할 만큼 거대한 기운이 일어나 사방을 짓누른다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It surpassed even the Western Heaven Demon Lord, whom Jin Taekyung had faced several times while repeatedly coming within a hair’s breadth of death.",
+      "defect": "The draft says Jin faced the Western Heaven Demon Lord several times. The source instead says he passed through multiple near-death crises while fighting him, without specifying multiple encounters.",
+      "id": "F05",
+      "rationale": "몇 번이나 modifies 죽을 고비를 넘어가며, not 상대했던, so the repeated quantity belongs to Jin’s brushes with death.",
+      "replacement": "It surpassed even the Western Heaven Demon Lord, whom Jin Taekyung had fought in the past while narrowly escaping death time and again.",
+      "severity": "critical",
+      "source": "과거 진태경이 몇 번이나 죽을 고비를 넘어가며 상대했던 서천마군을 뛰어넘었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The force pressing down on the surrounding area was stronger than any human the guardian spirit had encountered over the past several hundred years.",
+      "defect": "The sentence both replaces Murim qi with generic “force” and awkwardly compares a force directly to a human.",
+      "id": "F06",
+      "rationale": "기운 is the opponent’s oppressive qi, and the comparison concerns the magnitude of that qi rather than a literal comparison between a force and a person.",
+      "replacement": "The weight of the qi pressing down around them surpassed that of any human the guardian spirit had encountered over the past several hundred years.",
+      "severity": "minor",
+      "source": "주위를 짓누르는 기운의 크기는 수호령이 지난 수백 년간 마주했던 어떤 인간보다 강대했고"
+    },
+    {
+      "confidence": 0.97,
+      "current": "A chilling force appeared on the woman’s face, which had become twisted like that of a Fiend, with no beauty remaining.",
+      "defect": "A force cannot idiomatically “appear” on someone’s face; here 기운 describes the chilling look or air that comes over her expression.",
+      "id": "F07",
+      "rationale": "얼굴에 … 기운이 떠올랐다 describes a visible expression or air arising on her face, not a separate physical force.",
+      "replacement": "A chilling look crossed the woman’s face, now twisted like a Fiend’s, with not a trace of beauty left.",
+      "severity": "minor",
+      "source": "더 이상 아름다움이라고는 찾아볼 수 없는, 악귀처럼 일그러진 여인의 얼굴에 섬뜩한 기운이 떠올랐다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "A tremendous force swept in every direction amid a deafening roar that seemed to split the sky.",
+      "defect": "The supernatural Murim energy is again rendered as generic “force.”",
+      "id": "F08",
+      "rationale": "기운 here is the martial energy unleashed by the clash, so “qi” preserves the established terminology and mechanism.",
+      "replacement": "A tremendous wave of qi swept in every direction amid a deafening roar that seemed to split the sky.",
+      "severity": "minor",
+      "source": "하늘이 갈라지는 듯한 굉음과 함께 사방을 휩쓰는 거대한 기운."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Baeksang silently watched the middle-aged man supporting the old woman, his face filled with a mixture of anger and gratitude.",
+      "defect": "The possessive “his” is grammatically ambiguous between Baeksang and the middle-aged man, although the source explicitly assigns the mixed expression to the man supporting his mother.",
+      "id": "F09",
+      "rationale": "분노와 고마움이 뒤섞인 표정으로 modifies 중년인, not Baeksang.",
+      "replacement": "Baeksang silently watched as the middle-aged man supported the old woman, anger and gratitude mingling on the man’s face.",
+      "severity": "minor",
+      "source": "분노와 고마움이 뒤섞인 표정으로 노모를 부축하는 중년인을 물끄러미 바라보던 백상은"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*She looks like her. Very much.*",
+      "defect": "The draft assigns the resemblance to a woman and produces a self-referential comparison. Baeksang recognizes that the familiar middle-aged man closely resembles the old woman.",
+      "id": "F10",
+      "rationale": "The old woman’s revealed face explains why her son seemed familiar to Baeksang; the omitted subject is the middle-aged man, while 그녀 is the former palace attendant identified immediately afterward.",
+      "replacement": "*He resembles her. Very much.*",
+      "severity": "critical",
+      "source": "‘닮았구나, 많이.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "After she spat out the stagnant blood, the old woman’s complexion became much more comfortable.",
+      "defect": "A complexion cannot become “comfortable”; the literal collocation is unnatural English.",
+      "id": "F11",
+      "rationale": "안색이 편안해지다 means that the strain visibly leaves someone’s face or that they look more comfortable.",
+      "replacement": "After she spat out the stagnant blood, the old woman looked much more at ease.",
+      "severity": "minor",
+      "source": "죽은 피를 토해 내자 한결 편안해지는 노파의 안색."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But there was not even a trace of hesitation in his rapidly shooting figure.",
+      "defect": "“Rapidly shooting figure” is an unnatural calque that obscures Baeksang’s swift departure.",
+      "id": "F12",
+      "rationale": "쾌속하게 쏘아지는 그의 신형 describes his body or silhouette moving away at great speed.",
+      "replacement": "But his figure streaked away without even a trace of hesitation.",
+      "severity": "minor",
+      "source": "그러나 쾌속하게 쏘아지는 그의 신형에는 한 줄기의 망설임조차 없었다."
+    }
+  ],
+  "summary": "The draft contains three critical fidelity errors involving reversed agency, an altered quantity of encounters, and a misassigned subject, plus several meaningful terminology and wording issues.",
+  "version": 1
+}

@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 697
-- Next chapter: 698
-- Current block: 695–699 (3/5)
-- Latest translation: `translations/0697.md`
-- Latest summary: `summaries/beats/0697.md`
-- Safe profiles through: chapter 697
+- Last completed: 698
+- Next chapter: 699
+- Current block: 695–699 (4/5)
+- Latest translation: `translations/0698.md`
+- Latest summary: `summaries/beats/0698.md`
+- Safe profiles through: chapter 698
 
 ## Current Block
 
-- The Southern Heaven Demon Empress appears atop a pavilion and reveals herself as Honglan, the singing courtesan Jin once rescued at Dongting Lake. She taunts Jin as her Benefactor, effortlessly splits his Flame Divine Palm, and withstands the guardian spirit's condemnation of her as an ancient, malicious Fiend.
-- The Southern Heaven Demon Empress opens a massive rift in the cliff behind the Inner Palace, releasing demonic qi that begins affecting the surrounding humans and beasts. She regards the rift as her creation and as the Lord of Heaven's blessing of evolution, but an unidentified radiance suddenly bursts forth and swallows the darkness just as she moves to attack Jin.
+- The radiance of the Beast King Stone blocks the demonic qi pouring from the rift. The Southern Heaven Demon Empress recognizes the sacred treasure she searched for over ten years and demands that Jin Taekyung surrender it to the Lord of Heaven. Jin and the guardian spirit resist her overwhelming pressure, while Jin orders Yohi to evacuate the tribespeople from the Outer Palace.
+- Jin and the White Tiger launch an attack on the Southern Heaven Demon Empress with White Flame and the flame-wreathed azure dragon's roar, causing light and darkness to collide across the Nanman Beast Palace. The battle devastates the Outer Palace and sends civilians fleeing. Baeksang saves an old palace attendant he once expelled, heals her, orders her son to escape through the East Gate, and continues toward the Inner Palace to face the moment he has envisioned for decades.
 
 ## Open Questions
 
-- What is the unidentified radiance that swallowed the darkness?
-- Will the rift fully open, and what changes will its demonic qi cause?
-- Can Jin's hidden card stop the Southern Heaven Demon Empress or the rift?
-- What is the full purpose of the Lord of Heaven's plan?
-- What purpose did Baeksang pursue for decades?
+- What will be the outcome of the clash between Jin, the White Tiger, and the Southern Heaven Demon Empress?
+- Can the Beast King Stone continue blocking the rift and allow the rift to be closed?
+- What does the Lord of Heaven intend to do with the Beast King Stone?
+- What purpose has Baeksang pursued for decades, and what will happen when he reaches the Inner Palace?
+- How many Nanman civilians will survive the devastation of the Outer Palace?
 
 ## Exceptional Decision
 
