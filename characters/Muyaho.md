@@ -1,6 +1,6 @@
 # Muyaho (무야호)
 
-- **Safe through:** Chapter 674
+- **Safe through:** Chapter 675
 - **Aliases:** White Tiger
 - **Role:** Muyaho is Yayul Mok's enormous white tiger companion and a renowned Nanman spiritual creature.
 - **Personality:** Muyaho is intelligent enough to understand speech, wary of threats, and strongly food-motivated.
