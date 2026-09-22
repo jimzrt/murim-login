@@ -1,6 +1,6 @@
 # Venerable Wusang (무상진인)
 
-- **Safe through:** Chapter 662
+- **Safe through:** Chapter 666
 - **Aliases:** None
 - **Role:** Former Sect Leader of the Zhongnan Sect, master of the Wind-and-Cloud Sword Lord, and a Supreme Peak master who died during the Great Snow Mountain battle.
 - **Personality:** Righteous, wise, calm, and fair regardless of a person's background.

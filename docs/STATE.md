@@ -1,23 +1,24 @@
 # Translation State
 
-- Last completed: 665
-- Next chapter: 666
-- Current block: 665–669 (1/5)
-- Latest translation: `translations/0665.md`
-- Latest summary: `summaries/beats/0665.md`
-- Safe profiles through: chapter 665
+- Last completed: 666
+- Next chapter: 667
+- Current block: 665–669 (2/5)
+- Latest translation: `translations/0666.md`
+- Latest summary: `summaries/beats/0666.md`
+- Safe profiles through: chapter 666
 
 ## Current Block
 
-- Jin Taekyung remains imprisoned in the Nanman Beast Palace's underground prison with his internal energy sealed and iron balls attached to his body, while Taishan is confined in the cell above him. The System issues the Escape from Namshank Quest, requiring Jin to escape before his execution in two days or die. Taishan reassures Jin that he trusts him as much as Sama Pyo trusts him, and that he has come to care for the Fire Dragon Pavilion. Encouraged by Taishan's words, Jin realizes that the Middle Dantian is moved by Will rather than internal energy, and the world's qi ripples in response to his outstretched hand. Meanwhile, Baeksang returns to his quarters and finds the Beast Miao King waiting inside.
+- The Beast Miao King confronts Baeksang about Jin Taekyung's imminent execution and reminds him of their shared past, their children's deaths, and the different wounds that drove them apart. He argues that Nanman must stand with the Central Plains against the Demonic Cult and Dark Heaven rather than burn the entire forest over the crimes of some of its people.
+- The Beast Miao King offers to surrender his position and make Baeksang the next Palace Lord if Baeksang will open a path for half a shichen so that allies can help them. Baeksang cannot bring himself to summon the guards. Soon afterward, a covert group led by Yayul Mok reaches the underground prison, and Yayul Mok orders it opened.
 
 ## Open Questions
 
-- Is the Blood Monk truly a subordinate of the Southern Heaven Demon Empress?
-- Will the Blood Monk attack Sudal's ships or use the captured ship to travel to Nanman?
-- How will Jin escape the underground prison before his execution?
-- Will the captured reconnaissance members encounter the Blood Monk?
-- Will the Beast Miao King's private meeting alter Baeksang's planned execution or his alliance with Dark Heaven?
+- Will Yayul Mok's group free Jin before his scheduled execution?
+- Will Baeksang allow the rescue to proceed and accept the Beast Miao King's offer?
+- Will Baeksang abandon the execution supported by the twenty chieftains?
+- What precisely happened to Hwi, and which supposed allies were responsible for abandoning him?
+- How will the Tribal Grand Council respond if the Beast Miao King steps down or Jin escapes?
 
 ## Exceptional Decision
 

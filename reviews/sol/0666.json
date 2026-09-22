@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Tomorrow, the final agenda of the Tribal Grand Council will be the execution of the Han Chinese Jin Taekyung.",
+      "defect": "“Final” modifies the Tribal Grand Council itself, not the execution’s position as the council’s final agenda item.",
+      "id": "F01",
+      "rationale": "마지막 대회의 means “the final Tribal Grand Council,” whereas “the final agenda” changes the meeting sequence.",
+      "replacement": "Tomorrow, the agenda of the final Tribal Grand Council will be the execution of the Han Chinese Jin Taekyung.",
+      "severity": "critical",
+      "source": "내일, 마지막 대회의의 안건은 한족 진태경의 처형입니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Baeksang closed his mouth. The two words *we have* struck him with unusual force. Words that had once been natural to them, but had now become unfamiliar.",
+      "defect": "The emotionally significant word is 우리, “we,” not the expanded phrase “we have.” The current wording also calls it two words because it mechanically follows the English dialogue rather than preserving the object of Baeksang’s reaction.",
+      "id": "F02",
+      "rationale": "Baeksang is specifically affected by the inclusive bond expressed by 우리.",
+      "replacement": "Baeksang closed his mouth. The single word *we* struck him with unusual force. A word that had once come naturally to both of them, but had now become unfamiliar.",
+      "severity": "minor",
+      "source": "백상은 입을 다물었다. 우리, 라는 두 글자가 유난히도 크게 다가왔다. 두 사람에게 당연했던, 이제는 낯설어져 버린 두 글자."
+    },
+    {
+      "confidence": 0.98,
+      "current": "They had all believed they were walking side by side across the vast sandy shore called the Central Plains. But in truth, they had only been forced to the front because they were foreigners.",
+      "defect": "The draft changes the subject of the mistaken belief from Baeksang to everyone involved.",
+      "id": "F03",
+      "rationale": "The surrounding paragraph remains in Baeksang’s perspective, and the omitted subject of 생각했지만 is Baeksang; the source does not say everyone shared his belief.",
+      "replacement": "Baeksang had believed they were all walking side by side across the vast sandy shore called the Central Plains. But in truth, his people had merely been sent to the front because they were foreigners.",
+      "severity": "critical",
+      "source": "중원이라는 넓은 모래사장을 모두가 함께 나란히 걸었다고 생각했지만, 실은 이민족이라는 이유로 앞장세워졌을 뿐이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Because we united as one, grew stronger and more prosperous than before, and gained the power to question the criminals of the past.",
+      "defect": "“Question” weakens 추궁 from pursuing responsibility or accountability to merely asking questions.",
+      "id": "F04",
+      "rationale": "추궁하다 means to press someone over wrongdoing or demand accountability, which is central to the Beast Miao King’s justification for strengthening Nanman.",
+      "replacement": "Because we united as one, grew stronger and more prosperous than before, and gained the power to hold the criminals of the past to account.",
+      "severity": "major",
+      "source": "그렇게 우리는 하나로 뭉쳤고, 전보다 더욱 부강해졌으며, 과거의 죄인들을 추궁할 힘을 갖추었으니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I know. I know that no matter what this older brother says, none of it will reach your ears.",
+      "defect": "The self-deprecating register of 우형 is omitted.",
+      "id": "F05",
+      "rationale": "우형 is a humble, self-deprecating reference to oneself as the elder brother; retaining it reinforces the Beast Miao King’s intimacy and restrained humility toward his sworn younger brother.",
+      "replacement": "I know. I know that no matter what this foolish older brother says, none of it will reach your ears.",
+      "severity": "minor",
+      "source": "안다. 이 우형이 무슨 말을 해도 아우의 귀에는 들리지 않는다는 걸."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A body fell, rigid with death.",
+      "defect": "The draft explicitly declares the person dead, while the source states only that the body stiffens and falls.",
+      "id": "F06",
+      "rationale": "죽음 or an equivalent confirmation of death is absent; “with death” adds an unconfirmed consequence to the attack.",
+      "replacement": "A body stiffened and fell.",
+      "severity": "critical",
+      "source": "뻣뻣하게 굳은 채 쓰러지는 몸뚱어리."
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter the council sequence, viewpoint, accountability, register, and a fallen guard’s unstated condition.",
+  "version": 1
+}
