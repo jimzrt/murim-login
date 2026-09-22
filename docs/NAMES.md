@@ -2075,3 +2075,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 훈혈 | **Dizziness Acupoint** | Acupoint used with the Mute Acupoint to disable a guard. |
 | 대족장 | **Great Chieftain** | Title used for the senior Nanman leader who supposedly ordered the inspection. |
 | 소궁주 | **Young Palace Lord** | Title used for Yayul Mok as heir of the Nanman Beast Palace. |
+| 맥족 | **Maek people** | Tribal group identified among the warriors in the underground prison. |

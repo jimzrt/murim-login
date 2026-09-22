@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Seven Miao Tigers, who had been rampaging like beasts despite being covered in wounds of all sizes. The Bai warriors who had filled the underground prison’s corridors.\n\nAnd Yayul Mok, too, stood frozen like a stone statue, staring blankly at the person who had emerged from beyond the dense darkness.",
+      "defect": "The English fragments leave Yayul Mok as the only grammatical subject of “stood frozen,” whereas the source says the Seven Miao Tigers, the Bai warriors, and Yayul Mok all froze and stared.",
+      "id": "F01",
+      "rationale": "The repeated Korean particle 도 explicitly groups all three subjects under the action of freezing and staring.",
+      "replacement": "The Seven Miao Tigers, who had been rampaging like beasts despite wounds all over their bodies; the Bai warriors, who now filled the underground prison’s corridors; and Yayul Mok—all stood frozen like statues, staring blankly at the person who had emerged from beyond the thick darkness.",
+      "severity": "critical",
+      "source": "전신에 크고 작은 상처를 입은 채 맹수처럼 날뛰던 칠묘호도, 어느덧 뇌옥 복도를 가득 메운 백족 전사들도.\n\n그리고 야율목도 석상처럼 굳은 채, 짙은 어둠 너머에서 나타난 한 사람을 멍하니 바라보았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "One man walked through a puddle of filthy water, dragging broken chains from both hands. Iron balls hung from the ends.",
+      "defect": "The draft reverses the physical state of the restraints: the source says the iron balls have broken off the chains, but the draft says they are still hanging from them.",
+      "id": "F02",
+      "rationale": "철구가 끊긴 쇠사슬 means chains from which the iron balls have been severed, establishing that Jin is carrying only the detached chains he subsequently uses as weapons.",
+      "replacement": "One man walked through a puddle of filthy water, the chains whose iron balls had broken off dangling from both hands.",
+      "severity": "critical",
+      "source": "구정물이 고여 있는 웅덩이를 밟으며, 양손에는 철구가 끊긴 쇠사슬을 늘어트린 채 걸어오는 한 사람."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Taishan. I’m hungryyyyyyyyy!”",
+      "defect": "The draft replaces Taishan’s clipped third-person self-reference with ordinary first-person speech, losing a meaningful feature of his childlike voice.",
+      "id": "F03",
+      "rationale": "태산이 names Taishan as the subject rather than using a first-person pronoun, and the fragmentary delivery should remain clipped.",
+      "replacement": "“Taishan. Hungryyyyyyyyy!”",
+      "severity": "major",
+      "source": "“태산이. 배고파아아아아!”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“H-Hollow Space Seizing?”",
+      "defect": "The technique is rendered with an unestablished alternate name even though the binding glossary specifies “Seizing an Object Through Empty Space,” which the next speaker also uses.",
+      "id": "F04",
+      "rationale": "The same Korean term 허공섭물 must use its established English rendering consistently.",
+      "replacement": "“S-Seizing an Object Through Empty Space?”",
+      "severity": "minor",
+      "source": "“허, 허공섭물(虛空攝物)?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "With the shouts, more than a dozen figures charged forward, kicking off the walls.",
+      "defect": "“More than a dozen” overstates the source’s approximate quantity of ten-odd people.",
+      "id": "F05",
+      "rationale": "십여 indicates approximately ten or a little over ten, not specifically more than twelve.",
+      "replacement": "At the shouts, a dozen or so figures charged forward, kicking off the walls.",
+      "severity": "minor",
+      "source": "외침과 함께 벽면을 밟으며 쇄도하는 십여 개의 신형."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Before it could, the chain struck the more than ten squad captains charging forward and knocked them away in a single sweep.",
+      "defect": "“Before it could” has no coherent antecedent—the chain has already flown—and obscures the source’s point that the warriors’ returning courage lasted only until the chain hit their captains.",
+      "id": "F06",
+      "rationale": "The Korean clause completes the preceding “they almost regained it” construction by naming the event that immediately destroyed their courage.",
+      "replacement": "The chain swept through the dozen or so squad captains charging forward, knocking them away all at once.",
+      "severity": "minor",
+      "source": "쇄도하던 십여 명의 조장들을 단숨에 후려치기 전까지는."
+    }
+  ],
+  "summary": "Two scene facts are materially altered, including who freezes at Jin Taekyung’s appearance and whether the iron balls remain attached. Several localized issues affect Taishan’s voice, established technique terminology, quantity, and action clarity.",
+  "version": 1
+}
