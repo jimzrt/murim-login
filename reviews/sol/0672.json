@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "He had been running through terrain so rugged that even Jung Ho might have given up mapmaking, burning through his stamina and muscles at an incredible rate.",
+      "defect": "The draft mistakes the historical cartographer Kim Jeong-ho for the established character Jung Ho, changing the identity behind the joke.",
+      "id": "F01",
+      "rationale": "김정호 is Kim Jeong-ho, the historical mapmaker; it is not 정호, the Shaolin monk.",
+      "replacement": "Running across terrain so rugged that even Kim Jeong-ho[^1] would have given up on mapmaking must have rapidly drained his stamina and worn down his muscles.\n\n[^1]: Kim Jeong-ho was a nineteenth-century Korean cartographer famous for producing detailed maps of Korea.",
+      "severity": "critical",
+      "source": "김정호도 지도 제작을 때려치울 만한 험지를 오가느라 체력도, 근육도 빠르게 소모되었을 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I took out a cheap iron cage whose storage date I could no longer remember and threw it.",
+      "defect": "철창 here is an iron spear, not an iron cage; the mistranslation changes the weapon and makes the subsequent impaling and roasting mechanically incoherent.",
+      "id": "F02",
+      "rationale": "The spear is thrown through the boars and then used as a spit over the fire, as confirmed by 꿴 and 돌리기 시작했다.",
+      "replacement": "I pulled out a cheap iron spear I couldn’t even remember storing and hurled it.",
+      "severity": "critical",
+      "source": "언제 보관해 두었는지 모를 싸구려 철창을 꺼내어 던지자, 커다란 덩치의 멧돼지 두 마리가 비명도 못 지르고 쓰러진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ignoring Muyaho’s look, which seemed to ask whether I was really human, I skinned the wild boars and fitted them onto the iron cage.",
+      "defect": "The draft again renders the roasting spit as a cage, changing the physical action, and also sanitizes 사람 새끼인가 by removing its contemptuous register.",
+      "id": "F03",
+      "rationale": "철창 is the same iron spear used to kill and skewer the boars, while 사람 새끼인가 is a coarse, contemptuous formulation rather than the neutral “whether I was really human.”",
+      "replacement": "Ignoring the look Muyaho gave me—as if wondering whether that bastard was really human—I skinned the wild boars and skewered them on the iron spear.",
+      "severity": "critical",
+      "source": "저게 진짜 사람 새끼인가, 하는 눈빛으로 바라보는 무야호를 무시하고 멧돼지 가죽을 벗겨 철창에 끼웠다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "After roughly assessing the situation, I slowly began turning the iron cage with the wild boars skewered on it.",
+      "defect": "Calling the object a cage makes the roasting action physically nonsensical and breaks continuity with the thrown spear.",
+      "id": "F04",
+      "rationale": "The source describes Jin rotating the iron spear as a roasting spit.",
+      "replacement": "After roughly assessing the situation, I slowly began turning the iron spear on which the wild boars were skewered.",
+      "severity": "critical",
+      "source": "대강의 상황 파악을 끝낸 나는 멧돼지를 꿴 철창을 천천히 돌리기 시작했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Why are you sobbing so miserably? You’re a grown man.”",
+      "defect": "The draft softens the coarse, emasculating insult 사내새끼가 into a neutral observation, weakening Jin’s deliberately abusive interrogation register.",
+      "id": "F05",
+      "rationale": "질질 짜다 is contemptuous bawling or blubbering, and 사내새끼가 is a vulgar insult aimed at the captive’s manhood.",
+      "replacement": "“Why are you bawling so pathetically? You’re a grown-ass man.”",
+      "severity": "major",
+      "source": "“뭘 청승맞게 질질 짜고 있어, 사내새끼가.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "An unprecedented monster who had shaken the entire world before even reaching the age of twenty.",
+      "defect": "The draft changes “around twenty years old” into “before reaching twenty,” altering the stated age range.",
+      "id": "F06",
+      "rationale": "약관 denotes twenty years of age, and 어림 makes it approximate; the source does not say that he had not yet reached twenty.",
+      "replacement": "An unprecedented monster who had shaken the entire world at only around twenty years of age.",
+      "severity": "critical",
+      "source": "불과 약관 어림의 나이에 천하를 격동시킨 전대미문(前代未聞)의 괴물."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A short while later, seated on the branch of a giant tree, I watched more than fifty pale-faced figures leave the forest.",
+      "defect": "오십여 명 means approximately fifty people, not necessarily more than fifty.",
+      "id": "F07",
+      "rationale": "The source gives an approximate head count centered on fifty.",
+      "replacement": "A short while later, seated on the branch of a giant tree, I watched around fifty pale-faced figures make their way out of the forest.",
+      "severity": "critical",
+      "source": "잠시 후, 나는 어느 거목의 가지에 앉아 하얗게 질린 얼굴로 숲을 빠져나가는 오십여 명의 인영을 확인했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Old Master is going to swear a blue streak when he sees this.*",
+      "defect": "The draft turns the source’s hypothetical “if he saw this” into a definite future event in which the Old Master will see it.",
+      "id": "F08",
+      "rationale": "보면 is conditional here; the source does not establish that Jeok Cheongang will witness the burning forest.",
+      "replacement": "*Old Master would swear a blue streak if he saw this.*",
+      "severity": "major",
+      "source": "‘노야가 보면 쌍욕 좀 하시겠는데.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ahead of me, Muyaho was already running energetically with a half-roasted piece of wild boar meat clenched in his mouth.",
+      "defect": "반쯤 탄 means half-burned or half-charred, not merely half-roasted, losing the comic result of the fire.",
+      "id": "F09",
+      "rationale": "탄 describes meat that has burned or charred.",
+      "replacement": "Ahead of me, Muyaho was already running energetically with a half-charred piece of wild boar meat clenched in his mouth.",
+      "severity": "minor",
+      "source": "앞에는 이미 반쯤 탄 멧돼지 고기를 입에 문 무야호가 힘차게 달려가는 중이었다."
+    }
+  ],
+  "summary": "Several actionable fidelity errors alter a historical reference, the weapon and its mechanics, quantities, and the condition of the meat; two lines also lose source register or modality.",
+  "version": 1
+}
