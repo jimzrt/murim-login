@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I am the great chieftain of the Miao people, but I am also the Palace Lord of the Nanman Beast Palace.",
+      "defect": "This identifies Yayul Cheok as the Miao people’s great chieftain, contradicting Chapter 639 and the checkpoint’s active continuity, both of which identify him as the Bai people’s great chieftain.",
+      "id": "C01",
+      "rationale": "The tribal identity must remain consistent across the reading copies, summary, and durable state.",
+      "replacement": "I am the great chieftain of the Bai people, but I am also the Palace Lord of the Nanman Beast Palace.",
+      "severity": "major",
+      "source": "Chapter 636, Beast Miao King’s declaration before entering the swamp"
+    },
+    {
+      "confidence": 0.98,
+      "current": "When those things are gone, kill him immediately. No. Just don’t let him stop breathing.",
+      "defect": "The remembered instruction changes the spider from “it” to “him,” replaces the established em-dash correction with separate sentences, and drops the specific instruction to leave it barely breathing.",
+      "id": "C02",
+      "rationale": "This is presented as Jin Taekyung’s earlier instruction flashing through Yayul Cheok’s mind, so it should preserve the wording, target, and qualification established only moments earlier.",
+      "replacement": "When those things are gone, kill it immediately. No—just hurt it enough to leave it barely breathing.",
+      "severity": "minor",
+      "source": "Chapter 639, Beast Miao King’s recollection immediately after One Annihilation"
+    },
+    {
+      "confidence": 0.97,
+      "current": "We need to deal with him now, while he’s lowered his height without suspecting anything.",
+      "defect": "The narration abruptly assigns a male human pronoun to the Thousand-Year Spider after consistently referring to it as “it,” and “lowered his height” is an awkward collocation.",
+      "id": "C03",
+      "rationale": "The replacement restores the established nonhuman pronoun and expresses the spider’s change in position in natural English.",
+      "replacement": "We need to deal with it now, while it’s lowered itself without suspecting anything.",
+      "severity": "minor",
+      "source": "Chapter 639, Jin Taekyung instructing the Beast Miao King before One Annihilation"
+    },
+    {
+      "confidence": 0.91,
+      "current": "I had spent the flower of my youth there among countless spiders, and eventually, I had lived alongside them like neighbors.",
+      "defect": "“The flower of my youth” is a conspicuous literal calque, and the repeated past-perfect construction makes Jin Taekyung’s otherwise conversational reminiscence sound stiff.",
+      "id": "C04",
+      "rationale": "The revision preserves the duration and adaptation beat while matching Jin Taekyung’s contemporary, conversational narrative voice.",
+      "replacement": "I’d spent my youth there among countless spiders, and eventually learned to live alongside them like neighbors.",
+      "severity": "minor",
+      "source": "Chapter 638, Hope goshiwon reminiscence"
+    }
+  ],
+  "summary": "The packet preserves its major hooks, terminology, and System formatting, but contains one cross-chapter identity contradiction, two spider-pronoun/continuity slips, and one conspicuous prose calque.",
+  "version": 1
+}

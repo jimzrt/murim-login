@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "It was as tough and elastic as steel wire, and its steep velocity had given it a razor-sharp edge.",
+      "defect": "The draft assigns the velocity to the web itself. The source explains that the tough web became dangerous when encountered at high speed.",
+      "id": "F01",
+      "rationale": "The causal mechanism is the high-speed collision with the web, not the web traveling at high velocity.",
+      "replacement": "It was as tough and elastic as steel wire, and striking it at such high speed had turned it into a razor-sharp edge.",
+      "severity": "major",
+      "source": "철사만큼이나 단단하고 탄력을 지닌 그것이 가파른 속도를 만나 예리함을 지니게 된 것이다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "But unlike our attacks, the projected Fist Energy cut through empty air. The Thousand-Year Spider had narrowly escaped death and let out a chilling cry.",
+      "defect": "The draft mistakes 바람, meaning the two men's hope or desired outcome, for their attacks. This invents an attack by Taekyung that does not occur here.",
+      "id": "F02",
+      "rationale": "Only the Beast Miao King launches the Fist Energy; the result is contrary to both men's hopes.",
+      "replacement": "But contrary to what the Beast Miao King and I had hoped, the projected Fist Energy cut through empty air, and the Thousand-Year Spider, having narrowly escaped death, let out a chilling cry.",
+      "severity": "critical",
+      "source": "하지만 나와 야수묘왕의 바람과는 달리 발출된 권기는 허공을 갈랐고, 아슬아슬하게 죽음의 위기에서 벗어난 천년지주는 소름 끼치는 울음소리를 토해 냈다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Based on everything I had experienced directly so far, its intelligence was already on a level that could rival a reasonably capable human.",
+      "defect": "“A reasonably capable human” raises the comparison above the source, which says its intelligence is not inferior to an ordinary human's.",
+      "id": "F03",
+      "rationale": "어지간한 인간 denotes an ordinary or average human here, not a notably capable one.",
+      "replacement": "Judging by everything I had seen firsthand, its intelligence was in no way inferior to an ordinary human’s.",
+      "severity": "minor",
+      "source": "지금까지 직접 겪은 것만 해도 어지간한 인간에 비교해도 결코 떨어지지 않는 수준의 지능이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“When those things are gone, kill him immediately. No. Just don’t let him stop breathing.”",
+      "defect": "The correction loses the instruction to injure the spider only to the brink of death. “Don’t let him stop breathing” can instead sound like an order merely to keep it alive.",
+      "id": "F04",
+      "rationale": "딱 숨이 끊기지 않을 정도로만 specifies the exact degree of violence: leave it barely alive.",
+      "replacement": "“When those things are gone, kill it immediately. No—just hurt it enough to leave it barely breathing.”",
+      "severity": "major",
+      "source": "“저것들이 사라지면, 그 즉시 놈을 죽이십시오. 아니다. 딱 숨이 끊기지 않을 정도로만.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Three jiazi’s worth of powerful Scorching Yang Qi pulled toward one another, connected, and compressed, transforming into an even greater hellfire.",
+      "defect": "“Compressed” does not accurately render 뭉치며, which describes the qi gathering or coalescing together.",
+      "id": "F05",
+      "rationale": "The source describes separate currents attracting, joining, and gathering into a larger hellfire, not being compressed.",
+      "replacement": "Three jiazi’s worth of powerful Scorching Yang Qi drew together, linked, and coalesced, transforming into an even greater hellfire.",
+      "severity": "minor",
+      "source": "삼 갑자에 달하는 강대한 열양지기가 서로를 끌어당기고, 잇고, 뭉치며 더욱 거대한 겁화(劫火)로 화한다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Beast Miao King’s crown had been shaved by the Thousand-Year Spiders’ acidic spit and webs, and it gleamed like an octopus that had just crawled up onto land.",
+      "defect": "“Spit” sanitizes 가래 세례, the deliberately grotesque image of a barrage of acid-laden phlegm.",
+      "id": "F06",
+      "rationale": "Preserving the explicit phlegm imagery maintains the source’s coarse physical humor and register.",
+      "replacement": "The Beast Miao King’s crown, stripped bare by the Thousand-Year Spiders’ barrages of acid-laden phlegm and their webs, gleamed like an octopus that had just come ashore.",
+      "severity": "minor",
+      "source": "산성을 듬뿍 머금은 천년지주들의 가래 세례와 거미줄에 의해 잘려나간 야수묘왕의 정수리는 막 뭍으로 올라온 문어처럼 번쩍 빛나고 있었다."
+    }
+  ],
+  "summary": "One critical action error, two major mechanical or intent errors, and three localized fidelity issues.",
+  "version": 1
+}
