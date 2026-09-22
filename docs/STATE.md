@@ -1,27 +1,31 @@
 # Translation State
 
-- Last completed: 684
-- Next chapter: 685
-- Current block: 680–684 (5/5)
-- Latest translation: `translations/0684.md`
-- Latest summary: `summaries/beats/0684.md`
-- Safe profiles through: chapter 684
+- Last completed: 685
+- Next chapter: 686
+- Current block: 685–689 (1/5)
+- Latest translation: `translations/0685.md`
+- Latest summary: `summaries/beats/0685.md`
+- Safe profiles through: chapter 685
 
 ## Current Block
 
-- Jin uses Inventory to bombard the dust-shrouded Great Snow Fiend with summoned spears, then pursues him after detecting blood. Realizing that the Great Snow Fiend's apparent vulnerability is a trap, Jin twists aside, but the Great Snow Fiend redirects White Flame through the Fire Dragon Armor and drives the spear into Jin's chest. The system reports that the armor is partially destroyed, Jin is bleeding and suffering massive internal injuries, and qi deviation is imminent.
-- The Great Snow Fiend, who lost his right arm during Muyaho's ambush and Jin's counterattack, believes Jin is beyond saving. Instead, Jin grips the spear shaft and drives it deeper into his own chest to force himself forward, then unleashes the last of his blue-white light-flames into the Great Snow Fiend as the chapter ends.
+- Jin Taekyung kills the Great Snow Fiend, identified by the System as Level 155 Hanbaek, by removing the spear from his own chest and driving it through the fiend's throat. The Great Snow Fiend dies reflecting on his life, his loyalty to Dark Heaven, and the fate he believed awaited him.
+- Jin collapses after the battle. The System awards him massive EXP and Fame but no level-up, leaving him critically injured and rapidly dying. He rejects death, summons the Water God Dragon's Origin Essence, and prepares to risk consuming its immense water qi despite its incompatibility with his Scorching Yang Qi.
+- Before Jin can swallow the Origin Essence, Muyaho returns with Heugung and Yohi. The Quest to find Yohi is completed, awarding additional EXP and Fame and triggering a level-up. Jin senses death receding and warmth surrounding him before losing consciousness beneath the night sky.
 
 ## Open Questions
 
-- Will Jin survive the White Flame wound, massive internal injury, and risk of qi deviation?
-- Will the Great Snow Fiend survive Jin's final blue-white light-flame attack?
-- What will happen to the Fire Dragon Armor while its automatic repair is unavailable for three days?
+- Will the Water God Dragon's Origin Essence save Jin or kill him because of its incompatibility with his Scorching Yang Qi?
+- What is the condition of Heugung and Yohi after returning with Muyaho?
+- What will happen to the Fire Dragon Armor while Jin is incapacitated?
 
 ## Exceptional Decision
 
-- Render 막대한 내상 as "Massive Internal Injury."
-- Render 광염 as "light-flames."
+- Render 한백 as Hanbaek and identify him as the Great Snow Fiend's personal name.
+- Render 수신룡의 원정 as Water God Dragon's Origin Essence.
+- Render 광염 as light-flames.
+- Render 회광반조 as final rally.
+- Render 칠공 as seven apertures.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

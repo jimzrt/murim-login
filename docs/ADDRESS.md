@@ -1136,3 +1136,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 대설귀 | 흑수권마 | senior hostile commander to junior subordinate | you | blunt, commanding, and threatening | The Great Snow Fiend orders Black Hand to stop questioning him. |
 | 진태경 | 대설귀 | hostile_martial_opponents | old man | mocking, casual, and profane | Jin taunts the Great Snow Fiend while preparing to continue the fight. |
 | 대설귀 | 진태경 | hostile_martial_opponent | Jin Taekyung | cold, incredulous, and confrontational | The Great Snow Fiend addresses Jin while demanding an explanation for his survival. |
+| 교감 선생님 | 김 선생 | vice_principal_to_homeroom_teacher | Mr. Kim | polite | The vice principal addresses Taekyung's homeroom teacher in the remembered classroom scene. |
+| 담임 선생님 | 교감 선생님 | homeroom_teacher_to_vice_principal | Vice Principal | polite | The homeroom teacher responds respectfully to the vice principal. |
+| 담임 선생님 | 진태경 | homeroom_teacher_to_student | Taekyung | familiar and gentle | The homeroom teacher calls Taekyung outside after returning to the classroom. |

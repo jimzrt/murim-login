@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Blue-white light-flames filled my entire field of vision.",
+      "defect": "The first-person possessive incorrectly shifts the Great Snow Fiend’s third-person focalized scene into Jin Taekyung’s first-person viewpoint.",
+      "id": "F01",
+      "rationale": "The surrounding scene follows the Great Snow Fiend in third person, and the chapter does not switch to Jin Taekyung’s first-person narration until after the scene break.",
+      "replacement": "Blue-white light-flames filled the Great Snow Fiend’s entire field of vision.",
+      "severity": "critical",
+      "source": "눈앞을 가득 채운 청백색의 광염(光焰)."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The world beyond my blood-red vision felt distant, and the sounds reaching my ears seemed to come from hundreds of miles away.",
+      "defect": "The sentence repeats the erroneous first-person viewpoint and converts hundreds of li into hundreds of miles one-for-one, substantially inflating the figurative distance.",
+      "id": "F02",
+      "rationale": "The source remains focalized through the Great Snow Fiend and explicitly measures the perceived distance in li, not miles.",
+      "replacement": "His blood-red vision was hazy, and the sounds reaching his ears seemed to come from hundreds of *li* away.[^1]\n\n[^1]: A *li* is a traditional unit of distance, roughly one-third of a mile.",
+      "severity": "major",
+      "source": "붉게 물든 시야는 아득하고, 귓가로 전해지는 소리는 수백 리 밖에서 들려오는 것처럼 멀게 느껴진다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "No. It would be more accurate to say that no answer could come.",
+      "defect": "The impersonal phrasing obscures the meaningful subject cue: Jin Taekyung himself is physically unable to answer.",
+      "id": "F03",
+      "rationale": "The following description of Jin’s staggering body and clouded eyes explains why he cannot respond; the source does not merely say that an answer failed to arrive.",
+      "replacement": "No. More accurately, Jin Taekyung could not answer.",
+      "severity": "major",
+      "source": "아니, 대답할 수 없었다는 것이 옳았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had pledged his loyalty to Dark Heaven, and under the orders of the Southern Heaven Demon Empress, he had taken on a successor he had never expected to have and taught him the unique martial arts he had created himself.",
+      "defect": "The draft adds a male pronoun for the successor even though the Korean leaves the successor’s gender unstated.",
+      "id": "F04",
+      "rationale": "Using “passed down” preserves the act of teaching without supplying gender information absent from the source.",
+      "replacement": "He had pledged his loyalty to Dark Heaven, and under the orders of the Southern Heaven Demon Empress, he had taken on a successor he had never expected to have and passed down the unique martial arts he had created himself.",
+      "severity": "major",
+      "source": "대설귀는 그 말을 믿었다. 암천에 충성을 바쳤고 남천마후의 명령에 따라 팔자에도 없는 후인(後人)을 들여 자신이 직접 창안한 독문 무공을 가르쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Fuck. What am I talking about with a hidden camera?*",
+      "defect": "The draft turns a blunt, dismissive retort into a reflective question, weakening Jin’s profane self-mockery.",
+      "id": "F05",
+      "rationale": "The construction 몰래카메라는 무슨 dismissively rejects the preceding idea rather than asking why he mentioned it.",
+      "replacement": "*Fuck. Hidden-camera prank, my ass.*",
+      "severity": "major",
+      "source": "시발. 몰래카메라는 무슨."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*A quarter hour? Or half a quarter hour?*",
+      "defect": "The wording is an unnatural calque and fails to use the established rendering of 일각.",
+      "id": "F06",
+      "rationale": "일각 is fifteen minutes, and 반 각 is half that duration.",
+      "replacement": "*Fifteen minutes? Or seven and a half?*",
+      "severity": "minor",
+      "source": "일각? 혹은 반 각?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*At least Muyaho managed to survive and escape. I should be grateful for that much.*",
+      "defect": "The draft converts Jin’s uncertain rhetorical question into a firm declaration.",
+      "id": "F07",
+      "rationale": "생각해야 하나 expresses Jin wondering whether he should take consolation in Muyaho’s escape.",
+      "replacement": "*Should I just be glad that at least Muyaho made it out alive?*",
+      "severity": "minor",
+      "source": "‘무야호. 그 녀석이라도 살아서 도망쳤으니 다행이라고 생각해야 하나.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Cause: a monster wave.\n\nManner of death: crushed to death.",
+      "defect": "The draft mistranslates 사인 as “manner of death”; crushing is the cause of death, while a forensic manner would be a category such as accident or homicide.",
+      "id": "F08",
+      "rationale": "The source distinguishes the precipitating event, 원인, from the medical cause of death, 사인.",
+      "replacement": "Cause: a monster wave.\n\nCause of death: crushing.",
+      "severity": "major",
+      "source": "원인은 몬스터 웨이브. 사인은 압사(壓死)."
+    },
+    {
+      "confidence": 0.98,
+      "current": "> - **Water God Dragon’s Origin Essence** contains an immense amount of energy unlike that of ordinary elixirs. Use it with extreme caution!\n>\n> - Your **Scorching Yang Qi** is opposed to the water energy contained in **Water God Dragon’s Origin Essence**! This is extremely dangerous. Proceed with caution!",
+      "defect": "The warnings render Murim 기운 generically as “energy” and describe the elemental incompatibility weakly as mere opposition.",
+      "id": "F09",
+      "rationale": "The passage concerns Murim qi, and 상극 denotes an actively dangerous elemental incompatibility between the two forms of qi.",
+      "replacement": "> - **Water God Dragon’s Origin Essence** contains an immense reserve of qi unlike that of ordinary elixirs. Use it with extreme caution!\n>\n> - Your **Scorching Yang Qi** is mutually incompatible with the water qi contained in **Water God Dragon’s Origin Essence**! This is extremely dangerous. Proceed with caution!",
+      "severity": "major",
+      "source": "- [수신룡의 원정]은 일반적인 영약과는 궤를 달리하는 막대한 기운을 품고 있습니다. 복용에 극히 주의하십시오!\n\n- 당신의 [열양지기]는 [수신룡의 원정]이 품은 물의 기운과 상극입니다! 매우 위험하니 주의를 요합니다!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "This was no longer the moment to worry about whether they were mutually opposed or not.",
+      "defect": "The neutral wording omits the dismissive slang 나발이고 and flattens Jin’s profane, desperate register.",
+      "id": "F10",
+      "rationale": "나발이고 contemptuously dismisses the entire concern rather than neutrally weighing whether the energies conflict.",
+      "replacement": "This was no time to worry about elemental incompatibility or any other bullshit.",
+      "severity": "major",
+      "source": "이제는 상극이고 나발이고 따질 때가 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Whether I died vomiting blood a quarter hour from now, or exploded because I couldn’t withstand the power contained within the Origin Essence, the result would be the same.",
+      "defect": "The draft again uses the nonstandard “quarter hour” instead of the established exact duration.",
+      "id": "F11",
+      "rationale": "일각 is explicitly established as fifteen minutes.",
+      "replacement": "Whether I died vomiting blood fifteen minutes from now or exploded because I couldn’t withstand the power contained within the Origin Essence, the result would be the same.",
+      "severity": "minor",
+      "source": "일각 뒤에 피를 쏟아 내며 죽건, 원정에 담긴 힘을 감당하지 못해 터져 죽건 간에 결국 뒈지는 것은 똑같다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Until a cool presence suddenly approached from somewhere and covered me.",
+      "defect": "“Presence” turns a tangible incoming force into an implied entity and weakens the physical action of the cool qi engulfing Jin.",
+      "id": "F12",
+      "rationale": "The source describes 서늘한 기운 approaching and overtaking his body; in this Murim context, 기운 is qi rather than an abstract presence.",
+      "replacement": "Until cool qi suddenly swept in from somewhere and engulfed me.",
+      "severity": "major",
+      "source": "어디선가 불현듯 다가온 서늘한 기운이 나를 덮치기 전까지는."
+    },
+    {
+      "confidence": 0.99,
+      "current": "In place of the unseen moonlight pouring down, the demon of sleep descended.\n\nIt was stronger than any opponent I had ever faced.",
+      "defect": "The modifier is attached incorrectly, making the unseen moonlight appear to be pouring down when the source says the sleep demon pours down in its place.",
+      "id": "F13",
+      "rationale": "쏟아져 내린 modifies 수마, while 보이지 않는 modifies 달빛.",
+      "replacement": "Instead of the unseen moonlight, the demon of sleep poured down over me.\n\nIt was stronger than any opponent I had ever faced.",
+      "severity": "minor",
+      "source": "보이지 않는 달빛 대신 쏟아져 내린 수마(睡魔)는, 지금껏 상대한 그 어떤 적보다 강했다."
+    }
+  ],
+  "summary": "The draft is broadly faithful but contains one viewpoint error, an incorrect distance conversion, several lost pragmatic cues, an unsupported gender addition, two incorrect time renderings, and multiple terminology or causal inaccuracies.",
+  "version": 1
+}
