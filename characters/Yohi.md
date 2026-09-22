@@ -1,6 +1,6 @@
 # Yohi (요희)
 
-- **Safe through:** Chapter 698
+- **Safe through:** Chapter 708
 - **Aliases:** None
 - **Role:** Yohi is the female Great Chieftain of the Yao people who has returned to the Nanman Beast Palace with Jin Taekyung and now stands against Baeksang.
 - **Personality:** Yohi is charismatic, proud, perceptive, and fiercely resistant to Heugung's betrayal and coercion.
