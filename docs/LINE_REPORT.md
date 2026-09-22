@@ -105,15 +105,21 @@ docker compose exec -it murim-report omp auth-broker login
 Pick the provider, complete the browser/device flow, then recreate is not
 required; credentials are already on the volume.
 
-Until omp can actually call a model, the GitHub issue is created but evaluation
-comments fail. Redeliver the `issues` `opened` webhook for that issue after auth
-works, or file a new report.
+The worker comments as soon as it picks up an issue, then edits that same
+comment when `omp` finishes. If the model call fails because tokens or the
+provider are unavailable, the comment stays on the issue and records the error.
+A background sweep (every `REPORT_RETRY_INTERVAL` seconds, default 60) retries
+open `line-report` issues that still have no finished evaluation. The wait
+grows from one minute to fifteen minutes. Restarting `murim-report` sweeps
+immediately, so issues that never received a comment — including ones opened
+while the model had no tokens — are picked up without redelivering webhooks.
 
 ## Maintainer loop
 
 1. Reader submits a report (or someone uses the GitHub issue form).
-2. Bot comments with strategies A–E, or explains why the report is implausible
-   and **closes the issue**.
+2. Bot comments immediately that it is evaluating, then edits that comment with
+   strategies A–E, or explains why the report is implausible and **closes the issue**.
+   If the model is unavailable, the same comment stays open and the worker retries.
 3. You comment `/apply A` (allowlisted GitHub login only),
    **`/revise …`** for a new set, or **`/reopen`** (optionally with a note) to
    override an implausible close and get choices anyway.

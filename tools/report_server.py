@@ -7,9 +7,11 @@ import hashlib
 import hmac
 import json
 import os
+import re
 import subprocess
 import threading
 import time
+import traceback
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlparse
@@ -39,6 +41,61 @@ ISSUE_MARKER = "<!-- line-report-issue {n} -->"
 BRANCH_RE_PREFIX = "report-line-"
 CORS_POST_PATHS = {"/report-line", "/view-counts"}
 MAX_VIEW_COUNT_CHAPTERS = 5000
+STATUS_PENDING = "<!-- line-report-status pending -->"
+STATUS_FAILED = "<!-- line-report-status failed -->"
+RETRY_RE = re.compile(r"<!-- line-report-status retry (\d+) (\d+) -->")
+RETRY_STATE_NAME = "line-report-retry.json"
+
+
+def format_pending_comment(lead: str) -> str:
+    return f"{lead}. This comment will be updated when the result is ready.\n\n{STATUS_PENDING}\n"
+
+
+def format_retry_comment(error: str, retry_at: int, attempt: int) -> str:
+    return (
+        "The model is not available yet, so this report stays queued. "
+        "This comment will be updated automatically when evaluation finishes.\n\n"
+        f"```\n{error[:1500]}\n```\n\n"
+        f"<!-- line-report-status retry {int(retry_at)} {int(attempt)} -->\n"
+    )
+
+
+def format_failed_comment(error: str) -> str:
+    return (
+        "Line report evaluation failed and will not be retried automatically.\n\n"
+        f"```\n{error[:1500]}\n```\n\n"
+        f"{STATUS_FAILED}\n"
+    )
+
+
+def retry_delay(attempt: int) -> float:
+    return min(900.0, 60.0 * (2 ** max(0, attempt - 1)))
+
+
+def comments_have_evaluation(comments: list[dict]) -> bool:
+    return any("line-report-eval" in (comment.get("body") or "") for comment in comments)
+
+
+def comments_have_failure(comments: list[dict]) -> bool:
+    return any(STATUS_FAILED in (comment.get("body") or "") for comment in comments)
+
+
+def status_comment(comments: list[dict]) -> dict | None:
+    found = None
+    for comment in comments:
+        body = comment.get("body") or ""
+        if "line-report-status" in body and "line-report-eval" not in body:
+            found = comment
+    return found
+
+
+def retry_not_before(comments: list[dict]) -> int | None:
+    latest = None
+    for comment in comments:
+        match = RETRY_RE.search(comment.get("body") or "")
+        if match:
+            latest = int(match.group(1))
+    return latest
 
 
 def git_ssh_env(ssh_key: Path | None) -> dict[str, str]:
@@ -107,6 +164,7 @@ class Settings:
         }
         self.rate_limit = int(env.get("REPORT_LINE_RATE") or "10")
         self.rate_window = float(env.get("REPORT_LINE_WINDOW") or "3600")
+        self.retry_interval = float(env.get("REPORT_RETRY_INTERVAL") or "60")
         pem = env.get("GITHUB_APP_PEM", "")
         pem_file = env.get("GITHUB_APP_PEM_FILE", "")
         if pem_file:
@@ -133,6 +191,10 @@ class LineReportService:
         self.evaluate = evaluate
         self.limiter = RateLimiter(settings.rate_limit, settings.rate_window)
         self._jobs = threading.Semaphore(2)
+        self._inflight: set[int] = set()
+        self._inflight_lock = threading.Lock()
+        self._retry_lock = threading.Lock()
+        self._retry_state = self._read_retry_state()
 
     def create_report(self, payload: dict, ip: str) -> tuple[int, dict]:
         if not self.limiter.allow(ip or "unknown"):
@@ -185,35 +247,56 @@ class LineReportService:
         if not _has_label(issue, LABEL):
             return
         number = int(issue["number"])
-        if self.github and any(
-            "line-report-eval" in (comment.get("body") or "")
-            for comment in self.github.list_comments(number)
-        ):
+        if self.github and comments_have_evaluation(self.github.list_comments(number)):
             return
-        threading.Thread(target=self._evaluate_issue, args=(issue,), daemon=True).start()
+        self._schedule_evaluation(issue, respect_backoff=False)
 
-    def _evaluate_issue(self, issue: dict) -> None:
-        with self._jobs:
-            number = int(issue["number"])
-            try:
-                parsed = parse_issue_body(issue.get("body") or "")
-                self._sync_repo()
-                evaluation = self.evaluate(
-                    parsed["chapter"],
-                    parsed["quote"],
-                    parsed["note"],
-                    self.settings.root,
-                )
-                comment = format_evaluation_comment(evaluation)
-                if self.github:
-                    self.github.comment(number, comment)
-                    self._after_evaluation(number, evaluation)
-            except Exception as error:
-                if self.github:
-                    self.github.comment(
-                        number,
-                        f"Line report evaluation failed:\n\n```\n{error}\n```",
+    def _schedule_evaluation(self, issue: dict, *, respect_backoff: bool, comments: list[dict] | None = None) -> None:
+        number = int(issue["number"])
+        if not self._try_reserve(number):
+            return
+        try:
+            if comments is None and self.github:
+                comments = self.github.list_comments(number)
+            if respect_backoff and not self._retry_due(number, comments or []):
+                self._release(number)
+                return
+            comment_id = self._begin_status(number, "Evaluating this report") if self.github else None
+        except (Exception, SystemExit) as error:
+            self._release(number)
+            print(f"line-report #{number} could not start: {error}", flush=True)
+            return
+        self._spawn(self._evaluate_issue, (issue, comment_id, True))
+
+    def _evaluate_issue(self, issue: dict, comment_id: int | None = None, reserved: bool = False) -> None:
+        number = int(issue["number"])
+        if not reserved and not self._try_reserve(number):
+            return
+        try:
+            if self.github and comment_id is None:
+                comment_id = self._begin_status(number, "Evaluating this report")
+            with self._jobs:
+                try:
+                    parsed = parse_issue_body(issue.get("body") or "")
+                except ValueError as error:
+                    self._publish(number, comment_id, format_failed_comment(str(error)))
+                    self._clear_retry(number)
+                    return
+                try:
+                    self._sync_repo()
+                    evaluation = self.evaluate(
+                        parsed["chapter"],
+                        parsed["quote"],
+                        parsed["note"],
+                        self.settings.root,
                     )
+                    self._publish(number, comment_id, format_evaluation_comment(evaluation))
+                    self._clear_retry(number)
+                    self._after_evaluation(number, evaluation)
+                except (Exception, SystemExit) as error:
+                    self._fail_retryable(number, comment_id, "evaluate", error)
+        finally:
+            self._release(number)
 
     def _on_comment(self, payload: dict) -> None:
         comment = payload.get("comment") or {}
@@ -235,19 +318,11 @@ class LineReportService:
             ).start()
             return
         if parse_reopen_command(body) is not None:
-            threading.Thread(
-                target=self._reopen_issue,
-                args=(issue, body),
-                daemon=True,
-            ).start()
+            self._spawn(self._reopen_issue, (issue, body))
             return
         if parse_revise_command(body) is None:
             return
-        threading.Thread(
-            target=self._revise_issue,
-            args=(issue, body),
-            daemon=True,
-        ).start()
+        self._spawn(self._revise_issue, (issue, body))
 
     def _latest_evaluation(self, issue_number: int) -> dict | None:
         if not self.github:
@@ -279,10 +354,14 @@ class LineReportService:
             return self.evaluate(chapter, quote, combined, self.settings.root)
 
     def _reopen_issue(self, issue: dict, body: str) -> None:
+        if not self.github:
+            return
+        self._reopen_reserved(issue, body)
+
+    def _reopen_reserved(self, issue: dict, body: str) -> None:
+        number = int(issue["number"])
+        comment_id = self._begin_status(number, "Reopening this report and preparing strategies")
         with self._jobs:
-            number = int(issue["number"])
-            if not self.github:
-                return
             feedback = parse_reopen_command(body) or ""
             try:
                 self.github.reopen_issue(number)
@@ -298,31 +377,36 @@ class LineReportService:
                     revise_note=feedback,
                     force=True,
                 )
-                self.github.comment(number, format_evaluation_comment(evaluation))
+                self._publish(number, comment_id, format_evaluation_comment(evaluation))
+                self._clear_retry(number)
                 if not evaluation["plausible"]:
                     self.github.comment(
                         number,
                         "Forced evaluation still returned no strategies. Try `/reopen` with a more specific note.",
                     )
-            except Exception as error:
-                self.github.comment(
-                    number,
-                    f"Could not reopen:\n\n```\n{error}\n```",
-                )
+            except ValueError as error:
+                self._publish(number, comment_id, format_failed_comment(str(error)))
+                self._clear_retry(number)
+            except (Exception, SystemExit) as error:
+                self._fail_retryable(number, comment_id, "reopen", error, command=body)
 
     def _revise_issue(self, issue: dict, body: str) -> None:
+        if not self.github:
+            return
+        self._revise_reserved(issue, body)
+
+    def _revise_reserved(self, issue: dict, body: str) -> None:
+        number = int(issue["number"])
+        feedback = parse_revise_command(body) or ""
+        if not feedback:
+            self.github.comment(
+                number,
+                "Add what you want changed after `/revise`, for example:\n\n"
+                "`/revise keep the meaning but drop \"hot breath\"; more idiomatic English`",
+            )
+            return
+        comment_id = self._begin_status(number, "Revising strategies for this report")
         with self._jobs:
-            number = int(issue["number"])
-            if not self.github:
-                return
-            feedback = parse_revise_command(body) or ""
-            if not feedback:
-                self.github.comment(
-                    number,
-                    "Add what you want changed after `/revise`, for example:\n\n"
-                    "`/revise keep the meaning but drop \"hot breath\"; more idiomatic English`",
-                )
-                return
             try:
                 parsed = parse_issue_body(issue.get("body") or "")
                 previous = self._latest_evaluation(number)
@@ -346,13 +430,14 @@ class LineReportService:
                         combined,
                         self.settings.root,
                     )
-                self.github.comment(number, format_evaluation_comment(evaluation))
+                self._publish(number, comment_id, format_evaluation_comment(evaluation))
+                self._clear_retry(number)
                 self._after_evaluation(number, evaluation)
-            except Exception as error:
-                self.github.comment(
-                    number,
-                    f"Could not revise strategies:\n\n```\n{error}\n```",
-                )
+            except ValueError as error:
+                self._publish(number, comment_id, format_failed_comment(str(error)))
+                self._clear_retry(number)
+            except (Exception, SystemExit) as error:
+                self._fail_retryable(number, comment_id, "revise", error, command=body)
 
     def _apply_strategy(self, issue_number: int, strategy_id: str, issue: dict) -> None:
         with self._jobs:
@@ -439,6 +524,165 @@ class LineReportService:
     def _sync_repo(self) -> None:
         sync_git(self.settings.root)
         sync_git(self.settings.root / "source", ssh_key=self.settings.source_ssh_key)
+
+    def _spawn(self, target, args: tuple) -> None:
+        threading.Thread(target=target, args=args, daemon=True).start()
+
+    def _try_reserve(self, number: int) -> bool:
+        with self._inflight_lock:
+            if number in self._inflight:
+                return False
+            self._inflight.add(number)
+            return True
+
+    def _release(self, number: int) -> None:
+        with self._inflight_lock:
+            self._inflight.discard(number)
+
+    def _retry_path(self) -> Path:
+        return self.settings.root / ".work" / RETRY_STATE_NAME
+
+    def _read_retry_state(self) -> dict:
+        path = self._retry_path()
+        if not path.is_file():
+            return {}
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            return {}
+        return data if isinstance(data, dict) else {}
+
+    def _write_retry_state(self) -> None:
+        path = self._retry_path()
+        path.parent.mkdir(parents=True, exist_ok=True)
+        temporary = path.with_suffix(".json.tmp")
+        temporary.write_text(json.dumps(self._retry_state, indent=2), encoding="utf-8")
+        temporary.replace(path)
+
+    def _clear_retry(self, number: int) -> None:
+        with self._retry_lock:
+            if self._retry_state.pop(str(number), None) is not None:
+                self._write_retry_state()
+
+    def _retry_due(self, number: int, comments: list[dict]) -> bool:
+        now = time.time()
+        with self._retry_lock:
+            entry = self._retry_state.get(str(number))
+        if entry and now < float(entry.get("retry_at") or 0):
+            if self.github:
+                current = status_comment(comments)
+                if current and STATUS_PENDING in (current.get("body") or ""):
+                    self._publish(
+                        number,
+                        int(current["id"]),
+                        format_retry_comment(
+                            str(entry.get("error") or "model unavailable"),
+                            int(entry["retry_at"]),
+                            int(entry.get("attempt") or 1),
+                        ),
+                    )
+            return False
+        if entry:
+            return True
+        marker = retry_not_before(comments)
+        return marker is None or now >= marker
+
+    def _begin_status(self, number: int, lead: str) -> int:
+        comments = self.github.list_comments(number)
+        body = format_pending_comment(lead)
+        existing = status_comment(comments)
+        if existing:
+            self.github.update_comment(int(existing["id"]), body)
+            return int(existing["id"])
+        created = self.github.comment(number, body)
+        return int(created["id"])
+
+    def _publish(self, number: int, comment_id: int | None, body: str) -> None:
+        if not self.github:
+            return
+        if comment_id is None:
+            self.github.comment(number, body)
+            return
+        try:
+            self.github.update_comment(comment_id, body)
+        except Exception:
+            self.github.comment(number, body)
+
+    def _fail_retryable(
+        self,
+        number: int,
+        comment_id: int | None,
+        kind: str,
+        error: BaseException,
+        command: str = "",
+    ) -> None:
+        text = str(error).strip() or error.__class__.__name__
+        with self._retry_lock:
+            previous = dict(self._retry_state.get(str(number)) or {})
+            attempt = int(previous.get("attempt") or 0) + 1
+            retry_at = time.time() + retry_delay(attempt)
+            self._retry_state[str(number)] = {
+                "kind": kind,
+                "attempt": attempt,
+                "retry_at": retry_at,
+                "command": command,
+                "error": text[:500],
+            }
+            self._write_retry_state()
+        print(
+            f"line-report #{number} {kind} failed (attempt {attempt}); "
+            f"retry in {retry_delay(attempt):.0f}s: {text}",
+            flush=True,
+        )
+        self._publish(number, comment_id, format_retry_comment(text, int(retry_at), attempt))
+
+    def _retry_followup(self, number: int, kind: str, issue: dict, command: str) -> None:
+        if not self._try_reserve(number):
+            return
+        try:
+            if kind == "reopen":
+                self._reopen_reserved(issue, command)
+            else:
+                self._revise_reserved(issue, command)
+        finally:
+            self._release(number)
+
+    def sweep_open_reports(self) -> None:
+        if not self.github:
+            return
+        for issue in self.github.list_issues(LABEL):
+            if not isinstance(issue, dict) or issue.get("pull_request"):
+                continue
+            if not _has_label(issue, LABEL):
+                continue
+            number = int(issue["number"])
+            try:
+                comments = self.github.list_comments(number)
+            except Exception as error:
+                print(f"line-report #{number} sweep skipped: {error}", flush=True)
+                continue
+            if not isinstance(comments, list):
+                continue
+            with self._retry_lock:
+                entry = dict(self._retry_state.get(str(number)) or {})
+            kind = entry.get("kind")
+            if kind in {"revise", "reopen"}:
+                if not self._retry_due(number, comments):
+                    continue
+                command = str(entry.get("command") or "")
+                self._spawn(self._retry_followup, (number, kind, issue, command))
+                continue
+            if comments_have_evaluation(comments) or comments_have_failure(comments):
+                continue
+            self._schedule_evaluation(issue, respect_backoff=True, comments=comments)
+
+    def serve_retry_loop(self) -> None:
+        while True:
+            try:
+                self.sweep_open_reports()
+            except Exception:
+                traceback.print_exc()
+            time.sleep(self.settings.retry_interval)
 
 
 def _has_label(issue: dict, name: str) -> bool:
@@ -612,6 +856,8 @@ def main() -> int:
     if settings.app_id and settings.installation_id and settings.pem:
         github = GitHubApp(settings.app_id, settings.installation_id, settings.pem, settings.repo)
     service = LineReportService(settings, github)
+    if settings.retry_interval > 0:
+        threading.Thread(target=service.serve_retry_loop, daemon=True).start()
     start_pageviews()
     server = ThreadingHTTPServer((settings.host, settings.port), make_handler(service))
     print(f"line-report listening on {settings.host}:{settings.port}", flush=True)

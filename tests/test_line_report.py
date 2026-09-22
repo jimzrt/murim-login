@@ -22,6 +22,7 @@ from tools.report_server import (
     LineReportService,
     Settings,
     parse_chapter_list,
+    retry_delay,
     sync_git,
     verify_signature,
     _issue_from_pull,
@@ -189,6 +190,8 @@ class ReportServerTest(unittest.TestCase):
         mark_mastered(self.root, 4)
         self.github = MagicMock()
         self.github.create_issue.return_value = {"number": 12, "html_url": "https://github.com/x/y/issues/12"}
+        self.github.comment.return_value = {"id": 501}
+        self.github.list_comments.return_value = []
         self.settings = Settings({
             "MURIM_ROOT": str(self.root),
             "GITHUB_APPLY_USERS": "jimzrt",
@@ -196,6 +199,7 @@ class ReportServerTest(unittest.TestCase):
             "GITHUB_WEBHOOK_SECRET": "secret",
         })
         self.service = LineReportService(self.settings, self.github, evaluate=self._evaluate)
+        self.service._spawn = lambda target, args: target(*args)
 
     def tearDown(self):
         self.temp.cleanup()
@@ -271,10 +275,14 @@ class ReportServerTest(unittest.TestCase):
         }
         self.github.list_comments.return_value = []
         self.service._evaluate_issue(issue)
-        comment = self.github.comment.call_args[0][1]
+        pending = self.github.comment.call_args[0][1]
+        self.assertIn("Evaluating this report", pending)
+        self.assertIn("line-report-status pending", pending)
+        comment = self.github.update_comment.call_args[0][1]
         self.assertIn("/apply", comment)
         parsed = parse_evaluation_comment(comment)
         self.assertEqual(parsed["strategies"][0]["id"], "A")
+        self.assertEqual(self.github.update_comment.call_args[0][0], 501)
 
     def test_apply_opens_pr_with_patched_files(self):
         evaluation = self._evaluate(4, "The awkward line.", "", self.root)
@@ -321,7 +329,8 @@ class ReportServerTest(unittest.TestCase):
         self.service._revise_issue(issue, "/revise not a synonym; more idiomatic")
         self.assertEqual(self.last_evaluate["revise_note"], "not a synonym; more idiomatic")
         self.assertEqual(self.last_evaluate["previous"]["strategies"][0]["id"], "A")
-        comment = self.github.comment.call_args[0][1]
+        self.assertIn("Revising strategies", self.github.comment.call_args[0][1])
+        comment = self.github.update_comment.call_args[0][1]
         self.assertIn("/revise", comment)
         self.assertIn("The requested line.", comment)
 
@@ -344,7 +353,7 @@ class ReportServerTest(unittest.TestCase):
         self.service._evaluate_issue(issue)
         self.github.add_labels.assert_called_with(12, ["implausible"])
         self.github.close_issue.assert_called_once_with(12)
-        self.assertIn("/reopen", self.github.comment.call_args[0][1])
+        self.assertIn("/reopen", self.github.update_comment.call_args[0][1])
 
     def test_reopen_overrides_implausible_and_forces_strategies(self):
         issue = {
@@ -359,7 +368,69 @@ class ReportServerTest(unittest.TestCase):
         self.assertTrue(self.last_evaluate["force"])
         self.assertEqual(self.last_evaluate["revise_note"], "still want other phrasings")
         self.github.close_issue.assert_not_called()
-        self.assertIn("/apply", self.github.comment.call_args[0][1])
+        self.assertIn("Reopening this report", self.github.comment.call_args[0][1])
+        self.assertIn("/apply", self.github.update_comment.call_args[0][1])
+
+    def test_retry_delay_caps_at_fifteen_minutes(self):
+        self.assertEqual(retry_delay(1), 60)
+        self.assertEqual(retry_delay(2), 120)
+        self.assertEqual(retry_delay(5), 900)
+        self.assertEqual(retry_delay(20), 900)
+
+    def test_model_outage_updates_placeholder_and_sweep_waits(self):
+        def boom(*_args, **_kwargs):
+            raise SystemExit("no tokens available")
+
+        self.service.evaluate = boom
+        issue = {
+            "number": 60,
+            "body": format_issue_body(4, "The awkward line.", "stiff", ""),
+            "labels": [{"name": "line-report"}],
+        }
+        self.service._evaluate_issue(issue)
+        body = self.github.update_comment.call_args[0][1]
+        self.assertIn("no tokens available", body)
+        self.assertIn("line-report-status retry", body)
+        self.assertIn("60", self.service._retry_state)
+        self.github.update_comment.reset_mock()
+        self.github.comment.reset_mock()
+        self.github.list_issues.return_value = [issue]
+        self.github.list_comments.return_value = [{"id": 501, "body": body}]
+        self.service.sweep_open_reports()
+        self.github.comment.assert_not_called()
+        self.github.update_comment.assert_not_called()
+
+    def test_sweep_evaluates_open_issue_that_never_got_a_comment(self):
+        issue = {
+            "number": 59,
+            "body": format_issue_body(4, "The awkward line.", "nickname", ""),
+            "labels": [{"name": "line-report"}],
+        }
+        self.github.list_issues.return_value = [issue]
+        self.service.sweep_open_reports()
+        self.assertIn("Evaluating this report", self.github.comment.call_args[0][1])
+        published = self.github.update_comment.call_args[0][1]
+        self.assertIn("line-report-eval", published)
+        self.assertNotIn("59", self.service._retry_state)
+
+    def test_sweep_skips_a_finished_evaluation(self):
+        issue = {"number": 8, "labels": [{"name": "line-report"}]}
+        self.github.list_issues.return_value = [issue]
+        self.github.list_comments.return_value = [{"body": "<!-- line-report-eval\n{}\n-->"}]
+        self.service.sweep_open_reports()
+        self.github.comment.assert_not_called()
+        self.github.update_comment.assert_not_called()
+
+    def test_unreadable_issue_is_not_retried(self):
+        issue = {"number": 12, "body": "not a report", "labels": [{"name": "line-report"}]}
+        self.service._evaluate_issue(issue)
+        failed = self.github.update_comment.call_args[0][1]
+        self.assertIn("line-report-status failed", failed)
+        self.github.update_comment.reset_mock()
+        self.github.list_issues.return_value = [issue]
+        self.github.list_comments.return_value = [{"id": 501, "body": failed}]
+        self.service.sweep_open_reports()
+        self.github.update_comment.assert_not_called()
 
     def test_merged_pull_closes_issue(self):
         self.github.get_issue.return_value = {"state": "open"}
