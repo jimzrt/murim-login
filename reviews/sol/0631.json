@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“Ah. I was mistaken. You found it.”",
+      "defect": "The draft assigns finding the boar to Taekyung, but Yayul Mok is correcting his own earlier admission and reverting to his claim that he found it.",
+      "id": "F01",
+      "rationale": "The omitted subject remains Yayul Mok; changing it to “you” reverses who supposedly found the boar and breaks the exchange’s logic.",
+      "replacement": "“Ah. My mistake. I found it.”",
+      "severity": "critical",
+      "source": "“아. 착각했다. 주운 거다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Beast Miao King, who had told us during our first meeting to wait because he would summon us soon, never came looking for us.",
+      "defect": "The draft turns the promised summons into the Beast Miao King personally coming to look for them and makes the temporary delay sound permanent.",
+      "id": "F02",
+      "rationale": "In context, 우리를 찾지 않았다 means he did not send for them as promised; only two days have passed, so “had yet to” also preserves the source’s timeframe.",
+      "replacement": "The Beast Miao King, who had told us at our first meeting to wait because he would summon us soon, had yet to summon us.",
+      "severity": "critical",
+      "source": "첫 만남 당시 곧 부를 테니 기다리라던 야수묘왕은 그 말이 무색할 만큼 우리를 찾지 않았고"
+    },
+    {
+      "confidence": 0.99,
+      "current": "So much for advice.",
+      "defect": "The draft sanitizes Taekyung’s explicitly vulgar dismissal.",
+      "id": "F03",
+      "rationale": "니미럴 is profane, and the profanity is the punchline to his abruptly extinguished hope that Hyuk Mujin might offer useful advice.",
+      "replacement": "Advice, my ass.",
+      "severity": "major",
+      "source": "조언은 니미럴 거."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Sometimes, I got the feeling that someone disliked me the moment our eyes met. The feeling that no matter what I did, we would never become close.",
+      "defect": "The draft changes the opening’s generic present-tense observation into a past-tense event and replaces the concessive sense of being disliked despite merely meeting eyes with a temporal one.",
+      "id": "F04",
+      "rationale": "The source opens with a general observation, then repeats 느낌 as two sentence fragments describing instinctive dislike and the apparent impossibility of becoming friendly.",
+      "replacement": "There are times when you get that kind of feeling.\n\nThe feeling that someone dislikes you even though all you’ve done is meet their eyes. The feeling that no matter how hard you try, you could never become friends.",
+      "severity": "minor",
+      "source": "그런 느낌을 받을 때가 있다.\n\n눈만 마주쳤음에도 상대가 나를 싫어하는 것 같은 느낌. 도무지 친해지려야 친해질 수 없을 것 같은 느낌."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even with my face concealed behind a mask, Baeksang recognized me precisely.",
+      "defect": "“Recognized me precisely” is not idiomatic English.",
+      "id": "F05",
+      "rationale": "정확히 알아봤다 means that Baeksang correctly identified him despite the mask.",
+      "replacement": "Even with my face concealed behind a mask, Baeksang knew exactly who I was.",
+      "severity": "minor",
+      "source": "가면으로 얼굴을 가린 상태임에도 백상은 나를 정확히 알아봤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yohi shrugged with an exaggerated gesture at his even colder voice.",
+      "defect": "The placement of “at his even colder voice” is awkward and makes the causal relationship difficult to parse.",
+      "id": "F06",
+      "rationale": "The source presents Yohi’s exaggerated shrug as her reaction to Baeksang’s voice becoming colder.",
+      "replacement": "At his even colder tone, Yohi gave an exaggerated shrug.",
+      "severity": "minor",
+      "source": "더욱 냉담해진 목소리에 요희가 과장된 동작으로 어깨를 으쓱했다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "I asked with a sinking feeling.",
+      "defect": "“A sinking feeling” adds dread that is absent from the source.",
+      "id": "F07",
+      "rationale": "설마 하는 마음 expresses a dawning, scarcely believable suspicion—roughly “could it be?”—rather than an explicitly ominous emotional reaction.",
+      "replacement": "I asked on a sudden hunch.",
+      "severity": "minor",
+      "source": "나는 설마 하는 마음으로 물었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*The kid’s learning.*",
+      "defect": "The draft changes Taekyung’s affectionate approval of Hyuk Mujin’s apparent thoughtfulness into a claim that he is learning or improving.",
+      "id": "F08",
+      "rationale": "기특하네 praises Hyuk Mujin for doing something commendable or considerate; it does not indicate that he has learned a lesson.",
+      "replacement": "*Look at this thoughtful little punk.*",
+      "severity": "minor",
+      "source": "‘짜식. 기특하네.’"
+    }
+  ],
+  "summary": "Two altered actions or subjects, one meaningful loss of profanity, and several localized fidelity or natural-English issues.",
+  "version": 1
+}

@@ -1,31 +1,32 @@
 # Translation State
 
-- Last completed: 630
-- Next chapter: 631
-- Current block: 630–634 (1/5)
-- Latest translation: `translations/0630.md`
-- Latest summary: `summaries/beats/0630.md`
-- Safe profiles through: chapter 630
+- Last completed: 631
+- Next chapter: 632
+- Current block: 630–634 (2/5)
+- Latest translation: `translations/0631.md`
+- Latest summary: `summaries/beats/0631.md`
+- Safe profiles through: chapter 631
 
 ## Current Block
 
-- Yohi singles out Jin Taekyung during the victory parade, identifies him despite his tiger mask, and privately questions him after dismissing Heugung. She reveals that the great chieftains of the four great tribes generally oppose joining the Murim Alliance, while she wants the Yao people to unite Nanman under their influence. Yohi and Baeksang control Heugung, the Yi great chieftain, making him the only possible but unreliable persuasion target. Jin compares Yohi to the Southern Heaven Demon Empress but confirms with Qi Sense that they are fundamentally different. Baeksang arrives outside the tent as their conversation ends.
+- Baeksang recognizes Jin Taekyung despite his tiger mask and confronts him for meeting Yohi. He reveals that he once accompanied Yayul Cheok when Jeok Cheongang first appeared as the Fire King, and that Jeok burned him after Baeksang called him a crazy old man. Baeksang rejects Jin's position and insists that Nanman has already shed enough blood for the Central Plains, while Jin argues that their blood was shed for the world. Baeksang's rage at Jin's mention of someone's son leads Jin to suspect a connection to Head Elder Jin Baekyang.
+- Jin returns to his quarters and finds Hyuk Mujin roasting a wild boar. Two days pass while the Fire Dragon Pavilion investigates the Nanman Beast Palace and its surroundings for Dark Heaven traces without finding anything. Yayul Mok visits repeatedly with wild boar supposedly found by White Tiger, then informs Jin that the Inner Palace has summoned him on the day before the tribal council.
 
 ## Open Questions
 
-- Why does Baeksang oppose joining the Murim Alliance despite his lifelong bond with Yayul Cheok and their shared service in the Great Faction War?
-- What will Baeksang say or do after finding Yohi with Jin Taekyung?
-- Can Jin persuade Nanman to join the Murim Alliance despite the great chieftains' opposition?
-- Will the remaining tribes follow Baeksang and the other opposing great chieftains at the council in three days?
-- What does Yohi ultimately intend to gain from identifying and questioning Jin?
+- What promise did Yohi and Baeksang make, and what does Yohi intend to gain from it?
+- Why does Baeksang believe Yayul Cheok's judgment was wrong, and can Jin change his position on the alliance?
+- Is Baeksang's rage at Jin's mention of someone's son connected to Jin Baekyang?
+- Why has the Inner Palace summoned Jin Taekyung?
+- Will Nanman's tribal council agree to join the Murim Alliance, and are Dark Heaven's traces absent or merely undiscovered?
 
 ## Exceptional Decision
 
 - Use Baeksang for 백상 and do not treat White Elephant as a separate alias.
 - Use sworn younger brother for 불알 동생 in the relationship between Yayul Cheok and Baeksang.
-- Use Jiang Taigong for 강태공 and Jindro for 진드로.
-- Render 황개 as Hwang Gae and 똥개 as Ddong Gae.
-- Render 입맹 as joining the alliance.
+- Render 화왕손파이 as Fire King hand pie.
+- Render 풍둔 주둥아리룡 as Wind Style: Mouth Dragon.
+- Render 초절정 초입 as the early stage of Supreme Peak.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
