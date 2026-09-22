@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The answer that came instead was a volley of more than a dozen throwing blades.",
+      "defect": "십여 means ten or more, or roughly a dozen; “more than a dozen” incorrectly establishes a minimum of thirteen.",
+      "id": "F01",
+      "rationale": "The replacement preserves the source’s approximate quantity without raising its lower bound.",
+      "replacement": "The answer that came instead was a volley of a dozen or so throwing blades.",
+      "severity": "minor",
+      "source": "그리고 대답 대신 돌아온 것은 십여 자루의 비도였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*By Central Plains standards, every one of them is between First Rate and Peak. Where in Nanman did these people come from?*",
+      "defect": "초일류 specifies the upper echelon of First Rate, not the entire First Rate level. The draft understates the weakest attackers.",
+      "id": "F02",
+      "rationale": "The narrower lower bound is important to Sama Pyo’s assessment of the attackers’ unusually high collective strength.",
+      "replacement": "*By Central Plains standards, every one of them is between upper First Rate and Peak. Where in Nanman did these people come from?*",
+      "severity": "major",
+      "source": "‘중원으로 치자면 하나하나가 초일류에서 절정. 도대체 남만 어디에서 이런 놈들이 나타난 거지?’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Sama Pyo muttered the word through clenched teeth, then pulled the two collapsing bodies toward him and stood them one behind the other.",
+      "defect": "앞뒤로 means Sama Pyo positioned the corpses in front of and behind himself. The draft instead places both bodies in a single line, changing his defensive maneuver and coverage.",
+      "id": "F03",
+      "rationale": "The source describes Sama Pyo shielding himself from attacks coming from both directions.",
+      "replacement": "Sama Pyo spat the word out, then pulled the two collapsing bodies toward him and propped one in front of himself and the other behind him.",
+      "severity": "critical",
+      "source": "씹어뱉듯 중얼거린 사마표는 쓰러지려는 두 시신을 끌어당겨 앞뒤로 세웠다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "As Namho rose from his creaking body, he made a firm resolve.",
+      "defect": "The English incorrectly makes Namho rise from his own body; the source says he raises himself while his joints creak.",
+      "id": "F04",
+      "rationale": "This restores the physical action and produces natural English.",
+      "replacement": "As Namho pushed himself upright, his joints creaking, he made a firm resolve.",
+      "severity": "minor",
+      "source": "관절이 삐걱거리는 몸을 일으키며 남호는 굳게 다짐했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "But even more frightening was his attitude toward death.",
+      "defect": "The draft generalizes the explicit characterization that Sama Pyo does not fear death.",
+      "id": "F05",
+      "rationale": "The source directly identifies fearlessness, rather than an unspecified attitude, as what intimidates the attackers.",
+      "replacement": "But even more frightening was that he showed no fear of death.",
+      "severity": "major",
+      "source": "하지만 더욱 무서운 것은 죽음을 두려워하지 않는 그의 태도였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "By then, nearly twenty bodies lay scattered across the ground. Seven of them had been Peak masters recognized anywhere in the Central Plains.",
+      "defect": "스물에 달하는 means the number had reached twenty, not that it remained below twenty.",
+      "id": "F06",
+      "rationale": "The replacement preserves the stated casualty count.",
+      "replacement": "By then, twenty bodies lay scattered across the ground. Seven of them had been Peak masters recognized anywhere in the Central Plains.",
+      "severity": "minor",
+      "source": "어느덧 스물에 달하는 시신이 땅바닥에 널브러져 있었고, 그들 중 일곱은 중원 어디에서도 인정받을 수 있는 절정 고수였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "What did meat have to do with anything, and what did they mean by eating it?",
+      "defect": "The draft omits 훔쳐, losing the masked men’s confusion over being accused specifically of stealing the meat before eating it.",
+      "id": "F07",
+      "rationale": "The theft accusation is part of Namho’s fabricated story and the resulting joke.",
+      "replacement": "What did meat have to do with anything, and what did they mean by stealing and eating it?",
+      "severity": "minor",
+      "source": "도대체 고기는 뭐고, 훔쳐 먹은 건 뭐란 말인가."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it alters several quantities and combat details, understates the attackers’ minimum level, and omits Sama Pyo’s explicit fearlessness.",
+  "version": 1
+}
