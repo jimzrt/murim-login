@@ -2094,3 +2094,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 한백 | **Hanbaek** | Personal name identified by the System for the Great Snow Fiend. |
 | 리자드 | **Charmeleon** | Game-monster comparison. |
 | 거북왕 | **Blastoise** | Game-monster comparison. |
+| 보산 | **Boshan** | Western Yao stronghold where several thousand Yao people are settled. |
