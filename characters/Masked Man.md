@@ -1,8 +1,8 @@
 # Masked Man (복면인)
 
-- **Safe through:** Chapter 701
+- **Safe through:** Chapter 703
 - **Aliases:** None
-- **Role:** The Masked Man is the Southern Heaven Demon Empress's carefully trained hunting dog, a dark-force fighter who regenerates from grievous injuries and appears unable to feel pain.
+- **Role:** The Masked Man is the Southern Heaven Demon Empress's trained hunting dog; the guardian spirit has killed him four times, but he repeatedly rises again, recovering faster and growing stronger under the rift's demonic qi.
 - **Personality:** The Masked Man is emotionless, silent, and indifferent to extreme bodily damage.
 - **Voice:** No spoken voice has been established.
 - **Relationships:** He serves the Southern Heaven Demon Empress as her hunting dog; his identity and relationship with the Great Snow Fiend remain unknown.
