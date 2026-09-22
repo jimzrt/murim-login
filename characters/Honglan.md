@@ -1,6 +1,6 @@
 # Honglan (홍란)
 
-- **Safe through:** Chapter 549
+- **Safe through:** Chapter 619
 - **Aliases:** None
 - **Role:** Honglan is a Lower District Sect courtesan who uses a stage name, served as Ju Wongong's singing courtesan, and identifies herself as the Southern Heaven Demon Empress.
 - **Personality:** Discreet about her real identity and professionally alluring.

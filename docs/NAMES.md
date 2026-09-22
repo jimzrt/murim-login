@@ -1973,3 +1973,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 영인 | **Yeongin** | Remote county seat in Yunnan and the party's immediate destination. |
 | 백족 | **Bai people** | Ethnic group encountered in Yeongin. |
 | 독화루 | **Poison Flower Pavilion** | Derelict wooden building serving as the Hidden Shadow Pavilion contact location. |
+| 천마표국 | **Heavenly Demon Escort Bureau** | A Sichuan group whose arrival preceded the Yeongin massacre; all members were later found dead from venom. |
+| 만족 | **Man people** | An ethnic group mentioned by the Poison Flower Pavilion owner. |
