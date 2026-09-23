@@ -36,7 +36,7 @@ I thought it over, then sucked in a breath.
 
 “Because she thought she could earn even more merit?”
 
-“……That’s enough. This is too damn filthy to work with.”
+“……Forget it. I can’t work with you.”
 
 I was debating whether to smack him when a voice came to his rescue.
 
@@ -44,7 +44,7 @@ I was debating whether to smack him when a voice came to his rescue.
 
 Jeok Cheongang emerged from the latrine after half an hour.
 
-Apparently celebrating a smooth delivery, he was grinning from ear to ear as he reached for the liquor bottle first. Then he saw Hyuk Mujin’s expression and paused.
+Apparently delighted by his smooth delivery, he was grinning as he reached for the liquor bottle. Then he noticed Hyuk Mujin’s face and stopped.
 
 “Why do you look like you’ve been chewing shit?”
 
@@ -124,7 +124,7 @@ I shrugged.
 
 “From what I’ve heard, it’s not a bad choice. You’re a monster beyond reason, but reaching the Peak realm at her age is an impressive feat. And if she’s been involved in the Escort Bureau since childhood, she’ll have no shortage of experience.”
 
-“I was thinking the same thing. The escort named Song Ilseom would be a major asset on skill alone.”
+“I was thinking the same thing. Song Ilseom would be a major asset on skill alone.”
 
 Jeok Cheongang had been at death’s door when the two of them were here, so he had never met them himself. But he had heard everything that happened after he woke, and had no trouble following the discussion.
 
@@ -132,7 +132,7 @@ Jeok Cheongang had been at death’s door when the two of them were here, so he 
 
 “……That’s a little gross, but I agree.”
 
-Jeok Cheongang was a Supreme Peak master who had reached the Returned to Youth realm. If he considered Song Ilseom’s skill considerable, then no one could dispute the man’s martial prowess.
+Jeok Cheongang was a Supreme Peak master who had Returned to Youth. If he called Song Ilseom’s abilities considerable, no one could dispute the man’s martial prowess.
 
 *Another genius the world never knew about.*
 
@@ -148,11 +148,11 @@ It was a shame, but I had no complaints. The lineup around me had been unusually
 
 Things were bound to change.
 
-A Supreme Peak master could reverse a losing battle in an instant. With the flames of war spreading in every direction, deploying them where they were needed was only natural.
+A Supreme Peak master could turn a losing battle around in an instant. With the flames of war spreading in every direction, we couldn’t keep them all in one place.
 
 *Mae Jonghak must have separated Cheongpung and me for the same reason.*
 
-There were fires burning in several places. We could not keep sending the same fire truck to one location.
+There were several fires burning. We couldn’t send all the fire trucks to just one of them.
 
 If we wanted to win the war against Dark Heaven and prevent even more people from dying, this was the natural course.
 
@@ -240,7 +240,7 @@ He considered it, then cautiously made a counteroffer.
 
 “Not a chance.”
 
-“Damn it. I’ll have to devote my entire life to becoming your right-hand man. Does that make any sense?”
+“Damn it. I’ll have to give you my whole life to become your right-hand man. How is that fair?”
 
 “Yeah, it’ll take your whole life. So stay by my side until then. And don’t die.”
 
@@ -254,13 +254,13 @@ I hadn’t been out of the bath long, but my skin felt strangely itchy. I scratc
 
 His eyes glistening, Hyuk Mujin firmly clasped it.
 
-“Hyuk Mujin, your Captain’s right little finger. I will devote my loyalty to—”
+“Hyuk Mujin, your right little finger. I pledge my undying loyalty—”
 
 “What are you doing?”
 
 “Huh?”
 
-“Who asked for your hand? Bring me what you received earlier.”
+“Who asked for your hand? Give me what you took earlier.”
 
 “……Oh.”
 
@@ -272,7 +272,7 @@ Dagger Hidden Flower Ju Hwaran.
 
 Soul-Chasing Guest Song Ilseom.
 
-But these were not the only bamboo slips I needed to receive.
+But those weren’t all the slips I wanted.
 
 I kept my hand out. Hyuk Mujin seemed to guess what I meant, and his expression soured.
 
@@ -300,7 +300,7 @@ Then Jeok Cheongang spoke, and his words gave me the last bit of certainty I nee
 
 My tangled thoughts cleared.
 
-After taking a small, deep breath, I whispered toward some place deep within my heart.
+I took a small breath and whispered toward somewhere deep inside me.
 
 *Ju Hwaran, Song Ilseom, Sama Pyo, Taishan…*
 
@@ -337,7 +337,7 @@ I gave a small nod of acceptance. With a cheerful chime, the translucent hologra
 
 I hadn’t given any thought to what I’d call the newly formed organization.
 
-But no matter how much I thought about it, nothing could possibly be better than the name that had just flashed through my mind.
+But no matter how long I spent thinking, I doubted I’d find anything better than the name that had just come to me.
 
 *Fire Dragon Pavilion.*
 
