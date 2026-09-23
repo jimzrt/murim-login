@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 781
-- Next chapter: 782
-- Current block: 780–784 (2/5)
-- Latest translation: `translations/0781.md`
-- Latest summary: `summaries/beats/0781.md`
-- Safe profiles through: chapter 781
+- Last completed: 782
+- Next chapter: 783
+- Current block: 780–784 (3/5)
+- Latest translation: `translations/0782.md`
+- Latest summary: `summaries/beats/0782.md`
+- Safe profiles through: chapter 782
 
 ## Current Block
 
-- Michael Silbert reveals a monstrous transformed appearance and immense power, having absorbed magical power and made it coexist with his mana. He boasts that nobody can stop him while Cheon Taemin is absent.
-- Magic Johnson, Chuck Hagel, Faye Chen, Prince Felix, Team Leader Choi, and the Skeleton King stand against Michael. Michael names former supporters and threatens to expose their secrets; nearly half lower their weapons, but Jin’s allies had prepared an ambush and attack them.
-- As the fighting erupts across the National Assembly, Jin’s fire dragon surges from his dantian. Jin and Michael face off, and their immense forces collide.
+- Jin Taekyung clashes with Michael Silbert at the National Assembly, redirecting Michael’s overwhelming power away from the nearby fighters before confronting him again. Michael reveals that his magical power has repeatedly fallen out of balance with his mana and says he considered becoming a new Demon King if he could not reach the human pinnacle. Taekyung rejects the idea that surrendering the world to Michael would stop future disasters, resolves to kill him, and charges forward as a Hunter; the outcome remains unknown.
 
 ## Open Questions
 
-- Who will prevail in the fighting at the National Assembly?
-- What will Michael do if his supporters’ secrets are exposed or his power is challenged?
+- Who will prevail in the fight at the National Assembly?
+- Where is Michael’s pet crow, and why is the outside world silent despite the fighting?
+- What truth does Michael intend to keep from becoming public?
 
 ## Exceptional Decision
 
