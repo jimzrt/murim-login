@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the endless cries of “Ten thousand years!” celebrating the heir’s birth had turned into screams and shouts.",
+      "defect": "Prince Shangshan is already a child; the banquet celebrates his designation as heir, not his birth.",
+      "id": "C01",
+      "rationale": "Chapter 902 shows the Emperor announcing his heir and Prince Shangshan arriving at the banquet.",
+      "replacement": "the endless cries of “Ten thousand years!” celebrating the naming of the heir had turned into screams and shouts.",
+      "severity": "minor",
+      "source": "Chapter 904, opening paragraph"
+    }
+  ],
+  "summary": "The reading copies, summary, and active state are broadly consistent. One line in Chapter 904 incorrectly describes the announcement of an heir as a birth.",
+  "version": 1
+}
