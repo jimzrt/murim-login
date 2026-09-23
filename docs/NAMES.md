@@ -2315,3 +2315,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 하미드 | **Hamid** | Amir’s subordinate, addressed by name. |
 | 아미르 | **Amir** | Title used to address the group’s leader. |
 | 룹 알 할리 | **Rub’ al Khali** | Desert where the battle takes place. |
+| 압둘라 빈 압둘아지즈 알리 | **Abdullah bin Abdulaziz Ali** | The elder identified by name in the opening scene; addressed as Amir. |

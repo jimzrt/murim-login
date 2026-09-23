@@ -1325,3 +1325,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야마모토 | 진태경 | Japanese Hunter to the Alliance Leader who rescued him | Chōsenjin | insulting | Yamamoto uses the ethnic slur as he regains the ability to speak. |
 | 하미드 | 아미르 | subordinate to leader | Amir | formal and deferential | Apologizes for speaking out of turn and addresses the leader as Amir. |
 | 매직 존슨 | 최 | Colleagues in the command group | Choi | Informal, direct speech | Magic Johnson addresses Choi by surname while demanding to know who is spreading the rumor. |
+| 아미르 | 하미드 | leader to subordinate | Hamid | formal, authoritative | Addresses him as Hassan’s son Hamid. |
