@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "No matter which one he chose, death waited at the end. In the end, the difference was only how painfully he died.",
+      "defect": "The translation refers to two choices without stating what they are: speaking after a little pain or after terrible pain.",
+      "id": "F01",
+      "rationale": "The source explicitly introduces these two alternatives before explaining that either ends in death.",
+      "replacement": "A captured target faced one of two fates: talk after a little pain, or talk after terrible pain. Either way, death waited at the end; the only difference was how painfully he died.",
+      "severity": "minor",
+      "source": "Lines 111–115"
+    },
+    {
+      "confidence": 0.99,
+      "current": "As befitted the Wa Kingdom’s finest ninja, he held out for quite some time. Unfortunately for him, Salcheonmun—the sect Mungyeong belonged to then—was unquestionably the finest assassin sect in the Central Plains.",
+      "defect": "The source says Salcheonmun brought all the torture methods they knew to bear. That action is omitted, weakening the stated cause of the captive’s eventual disclosure.",
+      "id": "F02",
+      "rationale": "The source explicitly describes the sect deploying its many torture methods before the ninja is made to divulge information.",
+      "replacement": "As befitted the Wa Kingdom’s finest ninja, he held out for quite some time. Unfortunately for him, Salcheonmun—the sect Mungyeong belonged to then—was unquestionably the finest assassin sect in the Central Plains. They brought every torture method they knew to bear.",
+      "severity": "minor",
+      "source": "Line 121"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And so, amid pain worse than death, the ninja was forced to spit out every piece of information he possessed.",
+      "defect": "The source adds that the ninja gave up not only information but every memory held in his mind. The assembled copy omits that additional detail.",
+      "id": "F03",
+      "rationale": "The Korean explicitly distinguishes the information from the memories and says both were extracted.",
+      "replacement": "And so, amid pain worse than death, the ninja was forced to spit out every piece of information he possessed—not only information, but every memory sleeping in the depths of his mind.",
+      "severity": "minor",
+      "source": "Line 125"
+    },
+    {
+      "confidence": 0.98,
+      "current": "His snow-white hair stirred in a breeze that had blown from somewhere.",
+      "defect": "The source explicitly says the breeze was neither an illusion nor a delusion. That confirmation is absent.",
+      "id": "F04",
+      "rationale": "The source states that the breeze is real, not imagined; this also distinguishes the moment from the preceding visions and memories.",
+      "replacement": "His snow-white hair stirred in a breeze that had blown from somewhere. It was neither an illusion nor a delusion.",
+      "severity": "minor",
+      "source": "Line 347"
+    }
+  ],
+  "summary": "The assembled copy is broadly faithful, but it omits several explicit source details, including the captured ninja’s two possible outcomes and the memories extracted under torture.",
+  "version": 1
+}

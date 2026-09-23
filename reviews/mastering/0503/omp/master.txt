@@ -12,7 +12,7 @@ Mungyeong silently rolled the words over his tongue. They left a dry, bitter tas
 
 “If anyone understands why, it’s you. Please don’t try to stop me.”
 
-Just as Jeok Cheongang said, Mungyeong knew exactly why he wanted to leave.
+Mungyeong did understand.
 
 *He’s afraid of becoming a burden.*
 
@@ -24,7 +24,7 @@ His enemies feared the Fire King Jeok Cheongang, not an old man who couldn’t r
 
 Everyone had something precious they could not afford to lose.
 
-To a beggar begging in the marketplace, a half-crushed dumpling was his life. To an emperor who commanded all the civil and military officials, the jade seal symbolizing his authority and power was more precious than a thousand or ten thousand subjects.
+To a beggar in the marketplace, a half-crushed dumpling could mean life or death. To an emperor commanding all his civil and military officials, the jade seal that embodied his authority and power was worth more than a thousand—ten thousand—of his subjects.
 
 Jin Taekyung was that precious to Jeok Cheongang.
 
@@ -48,7 +48,7 @@ Jeok Cheongang gave a bitter smile at Mungyeong’s hard tone.
 
 “You know as well as I do that acquired qi from elixirs can’t cure this. Besides…”
 
-Jeok Cheongang looked down at his wrinkled hands and muttered,
+Jeok Cheongang looked down at his wrinkled hands.
 
 “This old man has grown too old. Even if the imugi’s inner core could help, I can’t use it on an old man like me on the slim chance that it might work.”
 
@@ -80,7 +80,7 @@ Jeok Cheongang blinked at the sudden question.
 
 “Have you ever seen one?”
 
-“No, but I hear they’re strange-looking fellows. They carry swords as long as their own bodies, shave half their foreheads back, and walk around wearing rags like undergarments.”
+“No, but I hear they’re strange-looking fellows. Carry swords as long as they are tall, shave half their foreheads, and go around in rags that look like undergarments.”
 
 “Whoever told you got it right.”
 
@@ -90,17 +90,17 @@ Jeok Cheongang blinked at the sudden question.
 
 Jeok Cheongang had heard of ninjas. They were much like the assassins of the Central Plains: not especially skilled in martial arts, but excellent at concealment techniques and at using hidden weapons such as throwing blades.
 
-“There’s no need to ask how it turned out. So are you boasting that you killed the finest ninja in the Wa Kingdom?”
+“No need to ask who won. Are you telling me this to boast that you killed the Wa Kingdom’s finest ninja?”
 
-“I didn’t kill him. My objective was to capture him alive.”
+“I didn’t kill him. I needed him alive.”
 
-No matter which one he chose, death waited at the end. In the end, the difference was only how painfully he died.
+A captive faced one of two fates. He could talk after a little pain, or talk after excruciating pain. Death waited at the end of either choice. The only difference was how much he would suffer first.
 
 “He chose the latter.”
 
 As befitted the Wa Kingdom’s finest ninja, he held out for quite some time. Unfortunately for him, Salcheonmun—the sect Mungyeong belonged to then—was unquestionably the finest assassin sect in the Central Plains.
 
-And so, amid pain worse than death, the ninja was forced to spit out every piece of information he possessed.
+They used every torture method they knew. In pain worse than death, the ninja was forced to give up every piece of information he possessed. More than information: every memory buried in his mind.
 
 “That was when I heard about a custom in the Wa Kingdom.”
 
@@ -124,13 +124,13 @@ Mungyeong continued flatly. “The ninja I captured said he’d abandoned his mo
 
 “You motherless bastard.”
 
-Seeing Mungyeong’s face harden until it was stiffer than Ten-Thousand-Year Cold Iron, Jeok Cheongang continued with a laugh in his voice.
+Mungyeong’s face went harder than Ten-Thousand-Year Cold Iron. Jeok Cheongang let out a dry chuckle.
 
 “That boy Taekyung would answer like that. But she was different. A mother doesn’t stop caring for her child so easily, even when he abandons her. So what did she say?”
 
 “She told him to go slowly. It might get dark and he could fall, so he shouldn’t hurry. He should watch his step on the mountain path.”
 
-Jeok Cheongang could understand what that mother had felt. His decision to leave was rooted in something similar.
+Jeok Cheongang could imagine how she felt. His own decision to leave came from much the same place.
 
 He wasn’t being abandoned like the mother in Mungyeong’s story, but he, too, wanted to go before he became a burden to someone precious.
 
@@ -154,7 +154,7 @@ Then Mungyeong shook his head.
 
 “…!”
 
-At that moment, Jeok Cheongang’s body abruptly froze.
+Jeok Cheongang froze.
 
 At last he understood what Mungyeong had been telling him. How foolish the thought that had consumed him was.
 
@@ -164,7 +164,7 @@ Jeok Cheongang hadn’t wanted to burden Jin Taekyung, his one and only Disciple
 
 But this wasn’t a selfless act for his Disciple’s sake. It was the stubborn delusion of a proud old man thinking only of himself.
 
-When had it been? He remembered a conversation he had shared with Jin Taekyung one ordinary day at Mount Jiuhua, when they had lain side by side on a broad rock.
+He remembered a conversation with Jin Taekyung on an ordinary day at Mount Jiuhua. They had been lying side by side on a broad rock.
 
 *You’re holding up better than I expected. Is your body made of iron?*
 
@@ -184,21 +184,21 @@ When had it been? He remembered a conversation he had shared with Jin Taekyung o
 
 *Hmm?*
 
-*There’ll be plenty of people stronger than me once we leave. I don’t want to be treated like a burden later on for no reason. They say the iron balls weigh less if you put them on early, so just add them.*
+*Once we leave, there’ll be stronger people everywhere. I don’t want them treating me like a burden later. They say weights are lighter if you strap them on early, so go ahead and add them.*
 
 *Look at you. Add two hundred geun, and you think you’ll never be a burden?*
 
 *No, but I should at least try as hard as I can. That way, if I collapse someday, you’ll pick me up, won’t you, Old Master?*
 
-*Now you’re proudly calling yourself a burden. Fine. If this old man does that, what will you do for me?*
+*Now you’re openly calling yourself a burden. Fine. If this old man does that for you, what will you do for me?*
 
 *If you ever collapse, Old Master, I’ll carry you on my back.*
 
 *Hah. You think this old man will collapse?*
 
-*If you get tired, I could at least support you, couldn’t I? So tell me when it gets hard.*
+*If you get tired, I could at least support you. So tell me when you’re struggling.*
 
-*……I hear you’re an arrogant, impertinent brat. Five hundred geun of iron balls added.*
+*…What an arrogant, impertinent brat. I’m adding five hundred geun of iron balls.*
 
 *Are you insane, human?*
 
@@ -206,13 +206,13 @@ It had been an ordinary conversation on an unremarkable day.
 
 Yet Jeok Cheongang had often thought back to it. How he’d barked at the boy, turned away, and let out a quiet laugh. How he’d added more iron balls, then hidden nearby to watch, worried the boy might hurt himself.
 
-Even now, at this very moment, Jin Taekyung’s voice from that day echoed in Jeok Cheongang’s ears like a distant refrain.
+Even now, Taekyung’s voice from that day echoed in his ears.
 
 *If you ever collapse, Old Master, I’ll carry you on my back.*
 
 He had always pictured himself in front, Taekyung behind him. All the more reason he could never collapse.
 
-*If you get tired, I could at least support you, couldn’t I?*
+*If you get tired, I could at least support you.*
 
 He hadn’t wanted Taekyung to see him stagger, either. Like every father, he wanted to be invincible, at least to him.
 
@@ -236,9 +236,9 @@ So Jeok Cheongang had resolved never to collapse again. Never to become a burden
 
 But he had been wrong.
 
-*We were walking side by side. Following the same path, from the beginning until now. Always together.*
+*We’ve been walking side by side. In the same direction, from the beginning until now. Always together.*
 
-One thought filled his mind.
+The thought filled his mind.
 
 Then dark, damp memories surged from the depths of his past and clouded his vision.
 
@@ -258,7 +258,7 @@ For the first time in a very long while, he felt at peace. A cool breeze brushed
 
 *Oh, that feels good.*
 
-*Ahem. This is the finest auspicious site on Mount Jiuhua, personally selected by this old man.*
+*Ahem. This is the finest spot on Mount Jiuhua. This old man chose it himself.*
 
 *This rock is practically a long-life stone bed. Five stars.*
 
@@ -282,9 +282,9 @@ A faint smile touched Jeok Cheongang’s wrinkled lips.
 
 *Yes.*
 
-His snow-white hair stirred in a breeze that had blown from somewhere.
+A breeze stirred his snow-white hair. This time, it was no illusion.
 
-Fwoooosh!
+Whoosh!
 
 At last, the giant had broken his chains and risen to his feet. Wind poured from the Fire King Jeok Cheongang and swept out in every direction.
 
