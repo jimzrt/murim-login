@@ -2385,3 +2385,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 위충 | **Wei Zhong** | The pledge’s first signer and the personal name of Lord Cang Gong. |
 | 적 | **Jeok** | Name of the Great Hero who may join Taekyung in the coming gamble. |
 | 앵속 | **poppy** | The dried poppy sap Hong Jin describes; Taekyung identifies it as opium. |
+| 황도십이궁 | **Twelve Palaces of the Zodiac** | Collective title for twelve Supreme Peak masters representing the imperial court. |
+| 금우궁 | **Golden Ox Palace** | Palace title held by the Imperial Guard commander. |
+| 금위군 | **Imperial Guards** | Imperial force distinct from the Embroidered Uniform Guard. |
