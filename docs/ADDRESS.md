@@ -1250,3 +1250,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 킹 | allied human Hunter to allied undead king | you | casual and familiar | Jin asks the Skeleton King whether he will keep Leviathan alive after asking Choi the same question. |
 | 스켈레톤 킹 | 진태경 | allied undead king to allied human Hunter | you | curt, familiar, and mocking-casual | The Skeleton King dismisses Jin's suggestion that Leviathan might be spared. |
 | 스켈레톤 킹 | 최민우 | allied undead king to allied team leader | Team Leader Choi | imperative and mocking-casual | The Skeleton King tells Choi to silence the cheering sailors and steer the carrier quietly. |
+| 기자 | 진태경 | Japanese reporter to celebrated foreign Hunter | Jin-sama | formal and reverent | Japanese reporters repeatedly address Jin with the honorific 사마. |
+| 진태경 | 기자 | Hunter to Japanese reporter | reporter; you | blunt and insulting | Jin rebukes a reporter for talking back after criticizing Yamamoto's delayed arrival. |
+| 최 팀장 | 진태경 | trusted team manager to allied Hunter | Mr. Jin Taekyung | formal and polite | Team Leader Choi informs Jin of Germany's request and then reveals Michael was also requested. |
+| 보도국장 | 시몬 | news director to subordinate reporter | Simon | brusque and demanding | The news director orders Simon to cover the anti-Jin protest and later Berlin. |
+| 시몬 | 보도국장 | reporter to superior | Boss | deferential and explanatory | Simon explains why the protest was canceled and identifies Daniel Daisuke. |

@@ -2248,3 +2248,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 워터 볼 | **Water Ball** | Mage-named water attack spell. |
 | 본 바인딩 | **Bone Binding** | Bone-based restraining technique used by the Skeleton King. |
 | 야마모토 | **Yamamoto** | Japanese S-rank Hunter named in post-Leviathan media coverage. |
+| 아마테라스 | **Amaterasu** | Japanese sun goddess invoked by a reporter. |
+| 야마모토 겐지 | **Yamamoto Genji** | Japanese S-rank Hunter discussed during the press conference. |
+| 홍콩 | **Hong Kong** | Location of the Monster Wave mentioned in the media. |
+| 시몬 | **Simon** | Reporter working under the news director. |
+| 대니얼 다이스케 | **Daniel Daisuke** | Japanese protest leader whose mother is from Tokyo. |
+| 독일 | **Germany** | Country requesting assistance with the Berlin Monster Wave. |
+| 베를린 | **Berlin** | City facing a probable Monster Wave. |
+| 마쿠스 | **Markus** | German prime minister who announces the emergency request. |
+| 조자룡 | **Zhao Zilong** | Historical figure used in Jin's comparison of his press-conference performance. |
