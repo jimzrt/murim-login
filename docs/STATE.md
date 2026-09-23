@@ -1,23 +1,20 @@
 # Translation State
 
-- Last completed: 910
-- Next chapter: 911
-- Current block: 910–914 (1/5)
-- Latest translation: `translations/0910.md`
-- Latest summary: `summaries/beats/0910.md`
-- Safe profiles through: chapter 910
+- Last completed: 911
+- Next chapter: 912
+- Current block: 910–914 (2/5)
+- Latest translation: `translations/0911.md`
+- Latest summary: `summaries/beats/0911.md`
+- Safe profiles through: chapter 911
 
 ## Current Block
 
-- After Jin Taekyung’s Scorching Yang Qi attack, roughly half of the first hundred black-clad pursuers rise again despite catastrophic burns, showing no pain or signs of life. Taekyung recognizes them as undead and orders the group to run as an army of the dead advances.
-- During his fight with the Eastern Heaven Demon Lord, Jeok Cheongang recalls Hong Dao’s wager that he would surpass the Three Saints. Realizing his current realm is not his final limit, Jeok resolves to keep striving and strikes the Demon Lord with a blaze greater than any he has shown before.
+- Jeok Cheongang’s breakthrough gives him the strength to overwhelm and kill the Eastern Heaven Demon Lord. He says he vowed to kill every member of Dark Heaven after Hong Dao’s death; as he turns from the fallen Demon Lord, an inexplicable cold pain suddenly sweeps through his body.
 
 ## Open Questions
 
-- Who created or commands the undead, and how can they be stopped?
-- Can Taekyung’s group escape the advancing undead?
-- Can Jeok Cheongang defeat the Eastern Heaven Demon Lord?
-- Will Jeok Cheongang surpass the Three Saints?
+- What caused the sudden pain that struck Jeok Cheongang after the duel?
+- Can Jeok Cheongang fulfill his vow to kill every member of Dark Heaven?
 
 ## Exceptional Decision
 
