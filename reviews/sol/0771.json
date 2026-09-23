@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And… a legendary hero. A notorious murderer who killed Michael Silbert in broad daylight.",
+      "defect": "The sentence break makes “a legendary hero” describe Jin, whereas the source identifies Michael Silbert as the exceptional hero Jin will be infamous for murdering.",
+      "id": "F01",
+      "rationale": "미카엘 실베르트 is in apposition to 희대의 영웅; Jin is the 희대의 살인범 who kills that hero.",
+      "replacement": "And… the infamous murderer who killed the hero of the age, Michael Silbert, in broad daylight.",
+      "severity": "critical",
+      "source": "그리고…… 희대의 영웅. 미카엘 실베르트를 대낮에 죽인 희대의 살인범."
+    },
+    {
+      "confidence": 0.95,
+      "current": "A traitor to humanity who, when confronted by a former comrade over joining forces with an undead monster, took him down without hesitation and fled alongside the monster.",
+      "defect": "“Former comrade” adds a severed relationship and omits 한솥밥을 먹던, the meaningful cue that they were close colleagues who had shared the same table.",
+      "id": "F02",
+      "rationale": "한솥밥을 먹다 emphasizes sustained fellowship and shared affiliation; the source does not explicitly label the comrade former.",
+      "replacement": "A traitor to humanity who, when a longtime comrade confronted him about joining forces with an undead monster, took him down without hesitation and fled alongside the monster.",
+      "severity": "major",
+      "source": "한솥밥을 먹던 동료에 의해 언데드 몬스터와 손을 잡았다는 사실을 추궁당하자, 주저 없이 그를 쓰러트리고 몬스터와 함께 도망친 인류의 배신자."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As I watched Team Leader Choi turn those three words over in his mind, I continued slowly.",
+      "defect": "목격자 is one word, not three words; the source counts its three Korean syllabic characters.",
+      "id": "F03",
+      "rationale": "The replacement preserves both the singular expression and the source's deliberate count, since “witnesses” is also naturally pronounced with three syllables.",
+      "replacement": "As I watched Team Leader Choi mull over those three syllables, I continued slowly.",
+      "severity": "minor",
+      "source": "그 세 글자의 의미를 곱씹는 최 팀장을 바라보며, 나는 천천히 말을 이었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "But beyond the fog filling my mind, I had caught a glimpse of something’s true nature—and my heart was more shaken than ever.",
+      "defect": "The draft omits 내 눈은, dropping the visible wavering of Jin’s eyes, and collapses the paired physical and mental reaction into his heart alone.",
+      "id": "F04",
+      "rationale": "The source separately presents Jin’s eyes and his mind as shaken after the realization.",
+      "replacement": "But my gaze wavered more than ever, as did my mind after glimpsing the true shape of something beyond the fog filling my head.",
+      "severity": "minor",
+      "source": "하지만 내 눈은, 뇌리를 채운 안개 너머로 언뜻 무언가의 실체를 확인한 마음은 그 어느 때보다 흔들리고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "My head rattled from the full-force self-inflicted slap, but thanks to that, my mind—which had gone AWOL without leave—returned before it could cross the perimeter.",
+      "defect": "“AWOL without leave” redundantly expands an acronym that already means “absent without leave,” making the military joke sound mistranslated.",
+      "id": "F05",
+      "rationale": "This retains both parts of the military metaphor—unauthorized absence and the 위수지역 garrison boundary—in natural English.",
+      "replacement": "My head rattled from the full-force self-inflicted slap, but thanks to that, my mind—which had briefly gone AWOL—returned before it could make it beyond the garrison limits.",
+      "severity": "minor",
+      "source": "온 힘을 다한 셀프 싸대기에 골이 흔들렸지만, 덕분에 잠깐 무단 탈영했던 정신이 위수지역을 벗어나기 전에 돌아왔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Let’s have all the fucking bastards die, every last one of them, and carve out a fourth path where we survive.",
+      "defect": "“Let’s have … die” is an unnatural causative construction that blunts the force and timing of Jin’s profane declaration.",
+      "id": "F06",
+      "rationale": "The source defines the fourth path by its two outcomes—the enemies all die and Jin’s group survives—while using blunt, emphatic profanity.",
+      "replacement": "Let’s carve out a fourth path where every last fucking bastard dies and we survive.",
+      "severity": "minor",
+      "source": "씨벌놈들은 싹 다 뒈지고, 우리는 살아남을 수 있는 네 번째 길을 뚫어 봅시다."
+    }
+  ],
+  "summary": "One critical misattachment makes Jin the legendary hero instead of identifying Michael as the hero he will murder; additional findings concern an omitted comradeship cue, a mistranslated word-count reference, a dropped emotional subject, redundant military phrasing, and awkward profanity.",
+  "version": 1
+}
