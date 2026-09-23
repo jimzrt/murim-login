@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "he had been confident he could bring down anyone who came for him.",
+      "defect": "Reverses who would defeat whom.",
+      "id": "F01",
+      "rationale": "He believes no opponent can defeat him, not that he can defeat every opponent.",
+      "replacement": "he had been confident no one who came for him could bring him down.",
+      "severity": "critical",
+      "source": "그 누가 온다 해도 쓰러트릴 자신이 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the very least, he had to bring down the Imperial House, whose loathsome bloodline he had inherited, and this Great Nation, the achievement and legacy of Taizu.",
+      "defect": "Makes the Demon Lord the inheritor of the hated bloodline instead of the Imperial House.",
+      "id": "F02",
+      "rationale": "The Imperial House is the subject of 이어받은; the source does not say the Demon Lord inherited its blood.",
+      "replacement": "At the very least, he had to bring down the Imperial House, heir to that loathsome bloodline, and this Great Nation, Taizu’s achievement and legacy.",
+      "severity": "critical",
+      "source": "증오스러운 피를 이어받은 황실과, 태조의 업적이자 유산인 이 대국을 허물어트려야 했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "No.\n\nIt swept it aside.",
+      "defect": "Changes the fist’s overwhelming impact into a deflection.",
+      "id": "F03",
+      "rationale": "휩쓸었다 overturns the preceding description of merely meeting the opposing fist; the following injury shows the attack carrying through, not pushing the fist aside.",
+      "replacement": "No.\n\nIt swept right through it.",
+      "severity": "critical",
+      "source": "아니.\n\n휩쓸었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "His legs, driven into the ground with the force of a thousand tons, scraped deep furrows as they slid backward.",
+      "defect": "Inflates ten thousand geun to a thousand tons.",
+      "id": "F04",
+      "rationale": "만근 is ten thousand geun, approximately six metric tons, not a thousand tons.",
+      "replacement": "His legs, planted in the ground with roughly six tons of force, carved deep furrows as they were driven backward.",
+      "severity": "critical",
+      "source": "만근의 힘으로 지면에 틀어박힌 두 다리가 깊은 고랑을 만들어 내며 밀려났다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But then he felt a force of a thousand tons seize his ankle as he kicked off the ground with all his strength.",
+      "defect": "Again inflates ten thousand geun to a thousand tons.",
+      "id": "F05",
+      "rationale": "만근거력 specifies a force of ten thousand geun.",
+      "replacement": "But as he kicked off the ground with all his strength, he felt a force of roughly six tons seize his ankle.",
+      "severity": "critical",
+      "source": "그리고 온 힘을 다해 땅을 박차며 나아가는 그의 발목을 잡아채는, 만근거력(萬斤巨力)을 느꼈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Eastern Heaven Demon Lord’s upper body had already been scorched black by the previous attack. He didn’t resist the force throwing him backward.",
+      "defect": "Extends the scorching from half his upper body to all of it.",
+      "id": "F06",
+      "rationale": "상반신의 절반 specifies half of his upper body.",
+      "replacement": "Half the Eastern Heaven Demon Lord’s upper body had been scorched black by the previous attack. He didn’t resist the force throwing him backward.",
+      "severity": "major",
+      "source": "앞서의 공격으로 상반신의 절반이 새카맣게 그을린 동천마군은 튕겨 나가는 힘을 거스르지 않았다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "More than half a century had passed.\n\nHe had watched countless Supreme Peak masters from the shadows of the Imperial Palace.",
+      "defect": "Detaches the duration from his activity in the Imperial Palace.",
+      "id": "F07",
+      "rationale": "The source says he spent that long operating covertly in the palace and seeing those masters.",
+      "replacement": "For well over half a century, he had operated in the shadows of the Imperial Palace and observed countless Supreme Peak masters.",
+      "severity": "major",
+      "source": "장장 반백 년을 훌쩍 넘어서는 긴 세월.\n\n황궁에서 암약하며 수많은 초절정 고수를 보았다."
+    }
+  ],
+  "summary": "The draft reverses two consequential statements and changes a combat action. It also overstates a force measurement and omits an injury detail.",
+  "version": 1
+}

@@ -2390,3 +2390,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 금위군 | **Imperial Guards** | Imperial force distinct from the Embroidered Uniform Guard. |
 | 언데드 | **undead** | Supernatural beings that are neither dead nor alive. |
 | 무림서열록 | **Murim Ranking Record** | Title of the book ranking Murim masters. |
+| 천살 | **Heaven's Slaughter** | Name or title used when the Eastern Heaven Demon Lord summons the assassin. |
