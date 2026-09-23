@@ -46,9 +46,9 @@ Prime Minister Jang was not too oblivious to notice. He glanced uneasily at Go J
 
 “I seem to have misspoken. If I offended you, I apologize.”
 
-“…It’s fine. I let my emotions get the better of me as well.”
+“…It’s fine. I let my emotions get the better of me.”
 
-Go Jun forced down his boiling anger.
+Go Jun forced down his anger.
 
 He was no longer the orphan of thirty-odd years ago, with nothing left to lose. He had what his Master had passed down to protect, and a mountain of work to do if he meant to protect it.
 
@@ -80,7 +80,7 @@ Go Jun leaned forward from the sofa. The old politician’s reflection appeared 
 
 “…!”
 
-“Stop screwing around and let’s speak frankly. Go back and arrange a private meeting with the President right now. There are still three hours before the national funeral proceedings begin, so I’ll give you one hour.”
+“Stop screwing around. Go back and arrange a private meeting with the President. There are still three hours before the national funeral begins. I’m giving you one.”
 
 “H-Hey! How dare you—”
 
@@ -90,7 +90,7 @@ Go Jun leaned forward from the sofa. The old politician’s reflection appeared 
 
 Prime Minister Jang’s eyes widened. The sturdy crystal glass in Go Jun’s hand was crumbling into fine powder, spilling between his fingers.
 
-At the same time, the change in Go Jun’s tone cut into the Prime Minister’s ears.
+Then Go Jun’s tone changed.
 
 “That’s right. How dare you act like this. Have you forgotten who paved the easy road you’ve walked all these years?”
 
@@ -104,9 +104,9 @@ They were the ones who had cleaned up the filth he left behind, wiped his ass, a
 
 But…
 
-“That—that was Vice Guild Master Lee Jungryong! Not you!”
+“That was Vice Guild Master Lee Jungryong! Not you!”
 
-“That’s right. It was all the Vice Guild Master’s doing. No—my Master’s.”
+“Right. The Vice Guild Master did all of it. My Master.”
 
 A dry smile touched Go Jun’s lips.
 
@@ -128,7 +128,7 @@ None of the world’s ten largest Guilds appeared in Forbes’s annual rankings 
 
 Now that power would pass from the dead to the living.
 
-“Do you think all he left me was his dying wish?”
+“Do you think his final wishes are all I inherited from him?”
 
 “W-What?”
 
@@ -136,7 +136,7 @@ Prime Minister Jang’s eyes widened. According to the NIS, Lee Jungryong had le
 
 No—there was not supposed to be a will.
 
-The ignorant public had been talking about it endlessly, but the Prime Minister had firmly believed the information he had received.
+People who knew nothing about it could say what they liked. He had trusted the information he’d been given.
 
 “Then you…”
 
@@ -150,7 +150,7 @@ A faint tremor ran through the old politician’s body. After a suffocating sile
 
 “Mr. Go Jun. No, Vice Guild Master Go. The situation isn’t as simple as you think.”
 
-The red light in Go Jun’s eyes gradually faded. His voice remained dry, but his tone softened somewhat.
+The red light in Go Jun’s eyes gradually faded. His voice remained dry, but his tone softened.
 
 “I know. That’s why you’ll have to work harder, Prime Minister Jang. You and the others.”
 
@@ -158,11 +158,11 @@ The red light in Go Jun’s eyes gradually faded. His voice remained dry, but hi
 
 “Rumors?”
 
-“Hunter Jin Taekyung. No—I’m not trying to talk about him. Of course, he is connected to this to a considerable degree.”
+“Hunter Jin Taekyung—no, I’m not talking about him. Though he does have a great deal to do with it.”
 
 Prime Minister Jang had hurried to explain himself when Go Jun reacted to the name. He continued.
 
-“You already know about the young Team Leader from the Peace Guild, don’t you? His name is Choi Minwoo, I believe.”
+“You know the young Team Leader at the Peace Guild. Choi Minwoo, I believe.”
 
 “…Go on.”
 
@@ -170,7 +170,7 @@ Prime Minister Jang had hurried to explain himself when Go Jun reacted to the na
 
 Lee Jungryong had been a symbol in his own right.
 
-He was a hero who had suppressed the Great Cataclysm at Cheon Taemin’s side, as well as an S-rank Hunter counted among the very best in the entire world.
+He was a hero who had helped Cheon Taemin bring the Great Cataclysm to an end, and an S-rank Hunter counted among the best in the world.
 
 His death would not bring the Ares Guild down overnight. But its strength and influence were bound to diminish sharply.
 
@@ -250,7 +250,7 @@ It was a mere trinket. To Go Jun, it had been worth paying the head of the inves
 
 “…Whew.”
 
-Go Jun let out a deep sigh and rose from his seat.
+Go Jun let out a long breath and stood.
 
 He was the chief mourner at this grand funeral. He had to greet the countless people waiting outside and show his face to media from around the world, making clear who now wielded power in the Ares Guild.
 
@@ -280,7 +280,7 @@ But not everyone did. To people hungry today, someone else’s death could feel 
 
 “Kill it! Stab it now!”
 
-“Keep your distance! Hey, you bastard! Don’t rush out!”
+“Hold your positions! Hey, you bastard! Don’t rush out!”
 
 —Kieeeek!
 

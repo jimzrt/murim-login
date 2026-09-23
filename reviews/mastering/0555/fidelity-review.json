@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "he himself had spent sixty years of life in the mud of politics",
+      "defect": "The Korean says he had been through the political mud by the time he reached sixty; it does not say he spent all sixty years in politics.",
+      "id": "F01",
+      "rationale": "환갑이 되도록 sets his age at sixty, while the source does not quantify his years in politics as sixty.",
+      "replacement": "he himself had spent decades in the mud of politics and was now sixty",
+      "severity": "minor",
+      "source": "Line 17"
+    },
+    {
+      "confidence": 0.94,
+      "current": "It was the only thing that had kept its shape in the ruins of what had once been the Arch Lich’s stronghold.",
+      "defect": "The translation drops the source’s explicit indication that it was fortunate to have retained its shape.",
+      "id": "F02",
+      "rationale": "운 좋게 states that the object retained its form by good fortune; the accepted baseline also preserves that circumstance.",
+      "replacement": "By sheer luck, it was the only thing that had kept its shape in the ruins of what had once been the Arch Lich’s stronghold.",
+      "severity": "minor",
+      "source": "Line 259"
+    }
+  ],
+  "summary": "The translation is largely faithful, with a few small shifts in duration, location, and physical circumstance.",
+  "version": 1
+}
