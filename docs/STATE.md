@@ -1,32 +1,31 @@
 # Translation State
 
-- Last completed: 766
-- Next chapter: 767
-- Current block: 765–769 (2/5)
-- Latest translation: `translations/0766.md`
-- Latest summary: `summaries/beats/0766.md`
-- Safe profiles through: chapter 766
+- Last completed: 767
+- Next chapter: 768
+- Current block: 765–769 (3/5)
+- Latest translation: `translations/0767.md`
+- Latest summary: `summaries/beats/0767.md`
+- Safe profiles through: chapter 767
 
 ## Current Block
 
-- Jin Taekyung and Michael Silbert clash again, but Jin realizes that killing Michael would endanger the lives of everyone he has come to care about. He refuses Michael's offered hand and withdraws from the confrontation in Munich.
-- Michael tells Huginn that Jin's emotions and attachments make him vulnerable and insists that Jin will cooperate. He expects the plan to restore the World Hunter Federation and secure his dominion to conclude within days, while recognizing Jin as a greater obstacle than anticipated.
-- After Jin explains the situation to Team Leader Choi and the Skeleton King, the Skeleton King's joke about being barred from clubs earns him a spear strike to the ribs. Team Leader Choi restrains Jin before his rage causes qi deviation, and a visitor arrives at the suite.
+- Jin Taekyung, Team Leader Choi, and Magic Johnson determine that Michael Silbert orchestrated the Japan operation, the second terrorist attack, and Leviathan's awakening and lure to Japan in order to expose the Skeleton King's identity. They realize that the Skeleton King, rather than Jin, was Michael's original target and that the resulting evidence gives Michael a decisive weakness for his war against Jin; the group then waits for Jin to decide how to proceed.
+- Three days later, German authorities continue suppressing information about the Munich incident while the World Hunter Federation's reestablishment is debated in a secret UN General Assembly meeting involving 185 nations and six permanent member states. Reporter Simon tells Franz Meyer that the vote is expected to begin soon and that the UN will announce the result with near certainty.
 
 ## Open Questions
 
-- Will Jin submit to Michael's coercion or find a way to protect his people while opposing him?
-- Who is the visitor who arrives at the suite?
-- What action will Michael take against Jin after identifying him as a major obstacle?
-- Can Michael complete his staged succession and seize the World Hunter Federation within days?
-- Will Huginn's fear that releasing Jin was an irreversible mistake prove justified?
+- What decision will Jin make after learning that the Skeleton King was Michael's original target?
+- How will Michael use the evidence and leverage gained from exposing the Skeleton King's identity?
+- Will the UN vote reestablish the World Hunter Federation?
+- Who will control the reestablished World Hunter Federation if the proposal passes?
+- How will the Skeleton King respond to being the center of Michael's operation?
 
 ## Exceptional Decision
 
-- Render 맹주 as Alliance Leader.
-- Render 추대 as elevation to power in this political context.
-- Render 친위대 as personal guards.
-- Keep Michael's 자네 address to Jin familiar, polite, and coercive.
+- Render 세계 헌터 연맹 as World Hunter Federation.
+- Render 마력 as magical power and 마정석 as Magic Gem.
+- Render 대마도사 as Grand Mage.
+- Render the UN's upcoming 표결 as the vote on reestablishing the World Hunter Federation.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
