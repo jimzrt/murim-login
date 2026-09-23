@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "There was no explosive sound.",
+      "defect": "The Korean explicitly says there was neither a loud explosive sound nor a scream. The English omits the absence of screams.",
+      "id": "F01",
+      "rationale": "The following line describes only a gust of wind and a faint line in the air; preserving the explicit absence of a scream maintains the source’s contrast.",
+      "replacement": "There was no explosive sound or scream.",
+      "severity": "minor",
+      "source": "Lines 53–55"
+    }
+  ],
+  "summary": "One source detail is omitted: the strike produces no scream as well as no explosive sound.",
+  "version": 1
+}

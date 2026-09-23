@@ -2,9 +2,9 @@
 
 *Whew.*
 
-My breath mingled with the muggy air of the forest. Watching the enemies closing in from every direction, I quietly muttered to myself.
+My breath mingled with the muggy forest air. I watched the enemies closing in from every direction and quietly repeated what I’d been taught.
 
-*Keep my center low. Keep my lower body firm. When launching an attack…*
+*Keep my center low. Plant my feet. When I attack…*
 
 *Be fierce. Don’t hesitate.*
 
@@ -46,7 +46,7 @@ Blue flames evaporated the moisture around me. In less than an instant, White Fl
 
 *Shwaak!*
 
-There was no explosive sound.
+There was no explosion. No scream.
 
 Only a gust of wind, and a faint line drawn through the air by the Extreme Yang energy on my spearhead.
 
@@ -118,7 +118,7 @@ Two months ago, I’d earned the Title by single-handedly sweeping away the unde
 
 The bells rang in quick succession, and all my attributes—including **Strength** and **Stamina**—rose slightly.
 
-One of the greatest effects of **One Against a Thousand** was its ability to maximize a single attribute.
+But that wasn’t all. One of the Title’s greatest effects was a dramatic increase to a single attribute.
 
 > **System**
 >
@@ -132,7 +132,7 @@ One of the greatest effects of **One Against a Thousand** was its ability to max
 
 *Intimidation.*
 
-The power to suppress enemies and encourage allies. An ability that could change the flow of an entire battlefield instead of affecting only me.
+The power to suppress enemies and rally allies. It could change the course of a battlefield, not just make me stronger. The System’s description had been exactly right.
 
 The encirclement closing around me faltered. Thick branches that had been thrashing violently stopped in place.
 
@@ -234,7 +234,7 @@ I swept past like the wind, slashing in every direction. Flames crossed the air,
 
 *Ding. Ding. Ding.*
 
-A tree trunk shot toward me with tremendous force, grazed my side, and pierced the ground.
+Bells rang loudly in my ears. I twisted aside as a thick wooden stem shot past my flank and drove into the ground.
 
 *Boom!*
 
@@ -244,7 +244,9 @@ Mud exploded upward. I stepped onto another stem whipping toward me and sprang l
 
 Since Mungyeong’s lessons, my movements had grown smoother and more precise. I glided forward like a feather and arrived before an unusually massive tree.
 
-**Level 102 Corrupted Ent Elder**
+> **System**
+>
+> **Level 102 Corrupted Ent Elder**
 
 —H-u-man! D-i-e!
 
@@ -268,7 +270,9 @@ It fell with a thunderous crash and burst into flames.
 
 I kicked off its stump, dense growth rings exposed, and shot upward. At last, I came face-to-face with the gigantic being blocking out the sky.
 
-**Level 130 ‘Red Eye’ Cyclops**
+> **System**
+>
+> **Level 130 ‘Red Eye’ Cyclops**
 
 There it was. The master of this jungle. A savage, one-eyed giant with hundreds of Ents for servants.
 
@@ -312,7 +316,7 @@ The Cyclops’s single red eye widened. Unable to withstand the force, it stagge
 
 —Gwoooooar!
 
-The ground broke beneath the giant’s movements. Small-bodied Ents were trampled underfoot and screamed.
+The ground broke beneath its feet. Smaller Ents were trampled and screamed.
 
 Neither the Cyclops nor I paid them any attention.
 
@@ -344,7 +348,7 @@ Blue flames spread across the spearhead, heavy with Scorching Yang Qi.
 
 A force both sharp and destructive.
 
-The second and final form of the Blazing Flame Divine Spear, which concentrated three hundred years of the Fire Gate Clan’s macho spirit—the time-honored clan with absolutely no concept of retreat.
+The second and final form of the Blazing Flame Divine Spear—the culmination of three hundred years of macho spirit from the Fire Gate Clan, that venerable institution with no concept of backing down.
 
 *Heavenly Strike.*
 
