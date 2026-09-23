@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "His cry, unable to escape in a louder voice, was blocked by the internal energy surrounding us and scattered into nothing.",
+      "defect": "Omits that the surrounding internal energy is the narrator’s, obscuring who contains the cry.",
+      "id": "F01",
+      "rationale": "내 공력 explicitly identifies Jin Taekyung’s internal energy as what blocks the sound.",
+      "replacement": "The cry he couldn’t let out at full volume struck the barrier of my internal energy surrounding us and faded away.",
+      "severity": "major",
+      "source": "미처 큰 소리로 토해 내지 못한 그 외침이, 사방을 둘러싼 내 공력에 가로막혀 덧없이 흩어진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ma Sanbao, revealing emotions he’d kept hidden for over a decade, trembled as he pressed his lips together.",
+      "defect": "Changes quivering lips into the action of pressing them together.",
+      "id": "F02",
+      "rationale": "입술을 파르르 떨었다 describes his lips trembling, not being pressed together.",
+      "replacement": "Ma Sanbao’s lips quivered as he revealed emotions he’d kept hidden for over a decade.",
+      "severity": "minor",
+      "source": "지난 십여 년간 숨겨 왔던 감정을 드러낸 마삼보는 입술을 파르르 떨었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "some members of the Embroidered Uniform Guard were heading north in disguise",
+      "defect": "Specifies a disguise where the source says only that they concealed their identities.",
+      "id": "F03",
+      "rationale": "정체를 감추고 does not establish that they changed their appearance.",
+      "replacement": "some members of the Embroidered Uniform Guard were heading north while concealing their identities",
+      "severity": "minor",
+      "source": "금의위 중 일부가 정체를 감추고 북상하고 있다는 정보"
+    },
+    {
+      "confidence": 1.0,
+      "current": "At least First Rate, and more than half were Peak masters.",
+      "defect": "Lowers the stated minimum martial rank from Supreme First Rate to First Rate.",
+      "id": "F04",
+      "rationale": "초일류 is the established Supreme First Rate rank, distinct from 일류.",
+      "replacement": "Even the weakest were Supreme First Rate, and more than half were Peak masters.",
+      "severity": "major",
+      "source": "최소가 초일류, 과반수가 절정 고수였으니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "But the name was on the level of some neighbor’s dog, Fido.",
+      "defect": "Turns a crude, ordinary name for a person into the name of an actual dog.",
+      "id": "F05",
+      "rationale": "옆집 개똥이 refers to a neighboring person with the lowly nickname Gaeddong, not a neighbor’s pet.",
+      "replacement": "But his name sounded like something you’d call the kid next door: Dogshit.",
+      "severity": "major",
+      "source": "이름은 어디 옆집 개똥이 수준이다."
+    },
+    {
+      "confidence": 0.87,
+      "current": "At Ma Sanbao’s sudden remark, I answered, privately wishing I could smack my lips.",
+      "defect": "Renders an inward reaction of chagrin as a wish to perform a physical action.",
+      "id": "F06",
+      "rationale": "내심 입맛을 다시며 conveys a private, rueful reaction to being noticed.",
+      "replacement": "At Ma Sanbao’s sudden remark, I answered, inwardly clicking my tongue.",
+      "severity": "minor",
+      "source": "불쑥 들려온 마삼보의 목소리에, 나는 내심 입맛을 다시며 대답했다."
+    }
+  ],
+  "summary": "Several localized fidelity and terminology errors, including a missing agent in the sound-suppression scene and an incorrect martial rank.",
+  "version": 1
+}

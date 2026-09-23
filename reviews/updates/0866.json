@@ -1,0 +1,102 @@
+{
+  "chapter": 866,
+  "files": {
+    "characters/Baek Yeon.md": "b19f0beed6b0a6bd286ea0818108f5b249aeb0093a1e0e61657dc4fa1f99aa5d",
+    "characters/Divine Physician.md": "5c1a5d42630ffca2670d6d199705becfd12dc08255e53ff2f8c6c5433a08bcdc",
+    "characters/Hong Jin.md": "7b4f7d4efe0833bd87bce9d21e5ccfc2034dcf86b6dffce8f5eaef686915ce91",
+    "characters/Ma Sanbao.md": "1792f7bfac89babde9ccea2588ea1d11dfdfd1d4dfe807143005434255e88ab3",
+    "characters/Prince Shangshan.md": "c609fae89a797441f7a632584451b60702336265530d16171f187a72d803e007",
+    "docs/ADDRESS.md": "337fbd5979683a22d3e45562c9af0c9fc50fa54b7d10c11fa54bae123bd03181",
+    "docs/CONTEXT.json": "8c72cb4c8435ee61f18b738b61852a9a4d736a14fae65737fdc644b39d77108e",
+    "docs/NAMES.md": "f990480d7090aa110383ec384ffc835ece1946f76ccca1e244240ed57ba826bf",
+    "docs/STATE.md": "c184c07048ecd5bac8177f46581fbe502586782cc0381c91b4ca073da78dfde5",
+    "summaries/beats/0866.md": "b262de86b6c151f8fc688a85343ba2ff599694471e6263d4efb587d67b55899b"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "마삼보",
+        "kinship": "Longtime friend and former East Depot cohort",
+        "normal_address": "Ma Constable; Eunuch Ma",
+        "notes": "Hong uses both forms while acknowledging Ma’s former and current standing.",
+        "speaker": "홍진",
+        "speech_level": "Familiar and respectful"
+      },
+      {
+        "addressee": "홍진",
+        "kinship": "Longtime friend and former East Depot cohort",
+        "normal_address": "Hong Constable",
+        "notes": "Ma addresses Hong by his former East Depot title.",
+        "speaker": "마삼보",
+        "speech_level": "Familiar and respectful"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Ma Sanbao, the East Depot’s Brush-Holding Eunuch and second-in-command, is a longtime friend and ally of Hong Jin; he has secretly remained in the imperial palace loyal to the late Emperor while waiting for his moment to act.",
+        "About a month ago, Ma sent Hong Jin a secret letter reporting that some Embroidered Uniform Guard members were traveling north in disguise and might be headed to Shanxi Province.",
+        "Hong Jin asked Jin Taekyung for help after careful consideration and with time to prepare based on Ma Sanbao’s intelligence.",
+        "Ma Sanbao and Hong Jin now say the time has come to act against the traitor on the throne, but they have not yet explained their full plan."
+      ],
+      "plot": [
+        "Jin Taekyung meets Ma Sanbao, the East Depot’s second-in-command, who reveals that he and Hong Jin are longtime friends and allies. Ma sent Hong secret intelligence about disguised Embroidered Uniform Guard members heading north toward Shanxi, enabling Hong to prepare before asking Taekyung for help. Ma says his loyalty is to the late Emperor, not the ruler now on the throne, and urges Hong to join him in setting right the chaos caused by the traitor."
+      ],
+      "translation_decisions": [
+        "Render 동창 병필태감 as “Brush-Holding Eunuch of the East Depot”; 병필태감 is the East Depot’s second-in-command.",
+        "Render 첩형 as “Constable” and 태감 as “Eunuch” in forms of address."
+      ]
+    },
+    "chapter": 866,
+    "context": {
+      "active_continuity": [
+        "Prince Shangshan and his party remain inside the imperial palace under surveillance; the Emperor postponed Shangshan’s audience until the next day.",
+        "Baek Yeon helped the fourth prince seize the throne, betrayed the late Emperor and Crown Prince, and led a purge in which 30,000 people were arrested and killed.",
+        "Hong Jin is devoted to protecting Shangshan and trusts Jin Taekyung to help keep him safe.",
+        "Ma Sanbao, the East Depot’s second-in-command, has secretly remained in the palace loyal to the late Emperor and is now ready to act against the current ruler.",
+        "Ma Sanbao and Hong Jin are longtime friends and allies; Ma’s secret intelligence about disguised Embroidered Uniform Guard members heading toward Shanxi helped Hong prepare before seeking Taekyung’s aid."
+      ],
+      "continuity_sources": [
+        866
+      ],
+      "open_questions": [
+        "What action do Ma Sanbao and Hong Jin intend to take against the current ruler, and when?",
+        "What does the Emperor intend for Prince Shangshan, and why was his audience postponed?",
+        "What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?"
+      ],
+      "safe_through": 866,
+      "temporary_decisions": [
+        "Render 동창 병필태감 as “Brush-Holding Eunuch of the East Depot.”",
+        "Render 첩형 as “Constable” and 태감 as “Eunuch” in forms of address."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Ma Sanbao",
+        "korean": "마삼보",
+        "notes": "The East Depot’s Brush-Holding Eunuch and second-in-command."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [],
+        "english": "Ma Sanbao",
+        "filename": "Ma Sanbao.md",
+        "korean": "마삼보",
+        "personality": "He is vigilant and patient, concealing his loyalties while awaiting the moment to act for the late Emperor.",
+        "relationships": "Ma Sanbao is a longtime friend and former East Depot cohort of Hong Jin; he is loyal to the late Emperor and opposed to the current ruler.",
+        "role": "Ma Sanbao is the East Depot’s Brush-Holding Eunuch and second-in-command, a Supreme Peak martial artist who has secretly remained in the imperial palace.",
+        "voice": "He speaks casually and directly with longtime companions, while remaining alert and controlled with new acquaintances."
+      }
+    ],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** Hong Jin is devoted to Prince Shangshan, whom the late Emperor entrusted to his care, and sees protecting him as both a final imperial duty and a personal commitment; he trusts Jin Taekyung to keep the prince safe and has unresolved ties to former East Depot associates.",
+        "path": "characters/Hong Jin.md",
+        "replacement": "- **Relationships:** Hong Jin is devoted to Prince Shangshan, whom the late Emperor entrusted to his care, and trusts Jin Taekyung to help protect him; he is a longtime friend and ally of Ma Sanbao, his former East Depot cohort."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
