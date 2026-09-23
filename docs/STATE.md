@@ -1,33 +1,33 @@
 # Translation State
 
-- Last completed: 749
-- Next chapter: 750
-- Current block: 745–749 (5/5)
-- Latest translation: `translations/0749.md`
-- Latest summary: `summaries/beats/0749.md`
-- Safe profiles through: chapter 749
+- Last completed: 750
+- Next chapter: 751
+- Current block: 750–754 (1/5)
+- Latest translation: `translations/0750.md`
+- Latest summary: `summaries/beats/0750.md`
+- Safe profiles through: chapter 750
 
 ## Current Block
 
-- Jin's One Annihilation shatters Leviathan's teeth and tears away half its maw and one eye, but the technique's recoil leaves Jin with severe injuries and the permanent-risk Broken Body debuff.
-- A Top-Grade Potion removes Jin's ordinary status abnormalities and restores his internal energy, but Broken Body rejects the potion's effect and continues reducing his combat-related attributes.
-- Using the Water Rescue Worker Title, Jin and the Skeleton King pursue Leviathan underwater. Leviathan swallows the Magic Gem it sought along with wreckage and flees toward the open sea, while Jin cuts through its magical water wave and launches another spear attack; the result is unknown.
+- Jin's second spear attack fails to reach the severely wounded Leviathan, which escapes into the deep sea. Back in the Japanese command center, Jin and Team Leader Choi confront the Defense Minister for withholding available Hunters and Self-Defense Forces during the operation, while the Skeleton King mocks the failed encirclement. Japan's confirmed casualties have reached roughly one hundred thousand, and another Leviathan attack could leave Tokyo devastated.
+- Jin demands that Japan bring in a more responsible authority, provoking the Defense Minister's imperialist rant about the United States. The Skeleton King responds by invoking the vengeful spirits of Pearl Harbor, causing an eerie supernatural disturbance that Jin rushes to interrupt.
+- Prime Minister Koizumi arrives and thanks Jin for helping Japan, but repeatedly addresses him as Jinsang and then proposes Gyeongsang as an alternative pun. Jin tries to discuss tracking Leviathan but ends by accepting that, at least, the situation is not Severe Injury.
 
 ## Open Questions
 
-- Who killed Siegfried Wassmann, by what magic, and why?
-- How did Michael Silbert learn about A Area and Cheon Taemin's condition, and did he order Siegfried's death?
+- Who killed Siegfried Wassmann, by what magic, and did Michael Silbert order his death?
 - What is The Prophet's identity, and how are the Prophet's terrorist campaign and Leviathan's reappearance connected?
 - What is Huginn's undisclosed operation, and can its consequences actually bring Jin down?
-- Will Jin's second spear attack kill Leviathan, and what consequences will follow from the Magic Gem Leviathan swallowed?
+- Can Jin track Leviathan after the failed spear attack, and what consequences will follow from the Magic Gem Leviathan swallowed?
+- What occurred after the Skeleton King invoked the vengeful spirits of Pearl Harbor?
 
 ## Exceptional Decision
 
 - Render 선지자 as The Prophet.
 - Render 레비아탄 as Leviathan and 스사노오 as Susanoo.
 - Render 마력 as magical power, distinct from mana.
-- Render 마정 and 마정석 as Magic Gem.
-- Render 마계어 as Demon Realm language and 광염 as light-flames.
+- Render 마정 and 마정석 as Magic Gem; render Koizumi's 진상 and 경상 as Jinsang and Gyeongsang.
+- Render 마계어 as Demon Realm language, 광염 as light-flames, and 진주만의 원혼 as the vengeful spirits of Pearl Harbor.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
