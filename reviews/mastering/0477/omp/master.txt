@@ -74,13 +74,13 @@ And the fucking human gripping that spear was smiling.
 
 * * *
 
-My mother had always been lenient when it came to raising her children.
+My mother had always been lenient about her children’s education.
 
 She never believed studying was the only path to success. Even when she saw my high school report card—sevens in every subject, like I’d hit the slot-machine jackpot—she ended her lecture with one short remark.
 
 *“Amazing, my son…”*
 
-Hmm. Now that I thought about it, she may already have given up on me halfway by then.
+Hmm. Now that I thought about it, she might already have given up on me by then.
 
 In any case, even she made me read books when I was young.
 
@@ -118,7 +118,7 @@ Ah, what fond memories.
 
 The vicious elementary schooler who had bound his much younger sister in blue packing tape was long gone, but the memory of that day remained vivid.
 
-Along with the ambition I had held as a child: to tie up Gulliver just like in the novel.
+So did the childhood ambition it had inspired: one day, I would tie down Gulliver just like in the novel.
 
 *Thk!*
 
@@ -134,7 +134,7 @@ Remembering the childhood dream I had thought would never come true, I spoke.
 
 My method was more brutal than the one the Lilliputians had used on Gulliver, but it was undeniably effective.
 
-I had predicted that the bastard would swing its tail. I dodged just before the enormous, hideous thing lashed across my body, then drove my spearhead in with all my strength.
+I had known the bastard would swing its tail. I dodged just before the enormous, hideous thing smashed into me, then drove my spearhead down with all my strength.
 
 White Flame, the sturdy, transparent divine weapon, became a massive nail that pierced through both the monster’s tail and the ground beneath it.
 
@@ -156,7 +156,7 @@ I summoned five spears from my Inventory in a flash and drove them into the bast
 
 *Anchoring complete.*
 
-My powerful punch struck the ends of the spear shafts. The sharp spearheads sank deep into the ground and trembled.
+My fist slammed into the ends of the spear shafts, driving the sharp spearheads deep into the ground with a shuddering impact.
 
 *Hayeon, are you watching?*
 
@@ -168,7 +168,7 @@ The Mutated Water God Dragon screamed in agony.
 
 But its scream seemed a little premature to me.
 
-Three people who had been waiting for this exact moment were just about to unleash attacks with everything they had.
+The three people who had been waiting for this exact moment were just about to unleash everything they had.
 
 The fastest among them arrived first and swung his sword at the dragon’s waist.
 
@@ -184,13 +184,13 @@ Not even scales hardened further by Berserk Status.
 
 Not even flesh and bone as tough as iron.
 
-It was none other than the Slaughter Saint’s sword strike.
+This was the Slaughter Saint’s sword, after all.
 
 *Shrrk!*
 
-A clear sound of cutting pierced through the confusion of battle and reached my ears.
+A single, crisp cutting sound pierced the chaos of battle.
 
-Mungyeong’s figure, having dealt a devastating blow with the fastest and most concise sword strike in existence, vanished in a blur.
+Mungyeong’s figure vanished in a blur after delivering a devastating blow with one swift, economical stroke.
 
 Dark blood erupted like a waterfall, and a scream of agony burst from the monster’s maw.
 
@@ -232,7 +232,7 @@ And make it hurt like hell.
 
 Before the Mutated Water God Dragon could unleash yet another scream, someone came rushing in to deliver a blow that combined both methods.
 
-“Can’t you just fucking die, you motherless evil-beast bastard!”
+“Why won’t you hurry up and die, you fucking orphan of an evil beast!”
 
 A streak of flame tore across the battlefield, accompanied by a filthy insult about the bastard’s parents that was wildly unbecoming of his age.
 
@@ -248,7 +248,7 @@ Just looking at him made my heart race and my eyes burn.
 
 *Ah, fuck it.*
 
-Whatever happens, happens. I’d already dropped the formalities anyway.
+Whatever happened, happened. I had already dropped the formalities anyway.
 
 Once you were riding a tiger, there was nothing left to be afraid of.
 
@@ -270,7 +270,7 @@ Hellfire carrying unimaginable heat tore into the gaping wound created by the pr
 
 I remembered hearing somewhere that death by fire was the most painful death in the world.
 
-Anyone who saw this scene would have no choice but to agree completely.
+Anyone who saw this would have had no choice but to agree.
 
 Heat filled the air on every side, hot enough to conjure visions of a fiery hell, along with the thick, acrid stench of burning flesh.
 
@@ -296,7 +296,7 @@ It made no difference anyway.
 
 The three hardcore ranged-DPS addicts—or rather, three Supreme Peak masters—had followed my orders perfectly, and the Mutated Water God Dragon had suffered devastating damage.
 
-Even if it pulled out the spears embedded in its tail and gathered Water Breath now, nothing would change.
+Even if it pulled the spears out of its tail and charged another Water Breath now, nothing would change.
 
 *Shiiiiing, tap!*
 
@@ -304,7 +304,7 @@ Even if it pulled out the spears embedded in its tail and gathered Water Breath 
 
 Like the other spears, White Flame had been torn free by the force of the dragon’s tail and sent spinning through the air.
 
-Then it was sucked into my hand.
+Then it flew straight into my hand.
 
 I raised White Flame’s spearhead, slick with dark-blue blood, and pointed it at the bastard.
 
@@ -356,7 +356,7 @@ No door that could not be opened.
 
 In a span too brief to even call a moment, dozens of streaks of Force carved the monster’s body apart and left it in a horrifying state.
 
-Its dangerously beautiful jet-black scales shattered into pieces.
+Its once dangerously beautiful jet-black scales had shattered.
 
 Its flesh and bones, so tough that ordinary blades could not even scratch them, had long since been slashed and crushed beyond recognition.
 
@@ -364,7 +364,7 @@ Its flesh and bones, so tough that ordinary blades could not even scratch them, 
 
 Dark-blue blood gushed from its wounds and soaked the earth.
 
-The thunder and lightning that had struck without pause began to fade.
+The thunder and lightning that had raged without pause began to fade.
 
 The storm winds and driving rain slowly died away.
 
@@ -376,7 +376,7 @@ And so did the life of one being.
 
 Pain struck the Mutated Water God Dragon once more.
 
-Its body writhed feebly, and then a figure appeared in the pupil of its eye.
+As its body writhed feebly, a figure appeared in its pupil.
 
 A young human with a familiar face.
 
@@ -386,16 +386,16 @@ The one it absolutely had to kill.
 
 —Gwoooooooooar!
 
-And the presence of one man alone—Jin Taekyung—roused the monster’s last fading reserves of strength.
+The mere sight of Jin Taekyung roused the last fading remnants of the monster’s strength.
 
 *Gooooooong—!*
 
-At the very moment a massive sphere of water, what someone called Water Breath, was about to be completed after the dragon poured out every last bit of its strength…
+The dragon poured everything it had left into one final attack. A massive sphere of water—the attack some called Water Breath—was about to take shape in an instant.
 
 Then the young human vanished from before its eye.
 
 The next moment, the Mutated Water God Dragon heard a low, steady voice.
 
-“You’ve worked hard.”
+“You did well.”
 
 *Thk!*

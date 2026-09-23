@@ -1,0 +1,45 @@
+{
+  "summary": "Mostly faithful, with several minor source-fidelity issues involving added physical detail, a narrowed spatial description, and an incomplete insult.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 105–107",
+      "current": "bound from head to toe in blue packing tape",
+      "defect": "The English adds that the girl was bound from head to toe. The Korean establishes that she was tightly bound with blue tape, but does not specify that extent.",
+      "replacement": "bound tightly in blue packing tape",
+      "rationale": "꽁꽁 묶인 describes being tightly bound without establishing a head-to-toe covering.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 239–243",
+      "current": "Flames erupted from his fist",
+      "defect": "The English loses the source's physical detail that the flames erupted from the end of his fist.",
+      "replacement": "Flames erupted from the end of his fist",
+      "rationale": "주먹 끝에서 specifies the fist's end or striking surface as the point of origin.",
+      "confidence": 0.92
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 215–217",
+      "current": "you motherless evil-beast bastard!",
+      "defect": "The insult omits the source's reference to having neither a mother nor a father.",
+      "replacement": "you evil-beast bastard with no mother or father!",
+      "rationale": "애미애비 없는 explicitly refers to being without both parents, not only without a mother.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 297–299",
+      "current": "Four superhumans stepped out toward four different points.",
+      "defect": "The English changes four directions into four points, weakening the directional arrangement that sets up the surrounding attack.",
+      "replacement": "Four superhumans stepped toward the four directions.",
+      "rationale": "네 곳의 방향을 향해 describes movement toward four directions, not merely toward four locations or points.",
+      "confidence": 0.9
+    }
+  ]
+}
