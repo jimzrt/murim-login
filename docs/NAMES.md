@@ -2299,3 +2299,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 프랑크푸르트 | **Frankfurt** | Location of the defense during which Liam's life was saved. |
 | 크로노스 | **Kronos** | Guild led by Fabian. |
 | 파비안 | **Fabian** | Guild Master of Kronos. |
+| 크리스토퍼 | **Christopher** | One of Michael’s former supporters. |
+| 페르난두 | **Fernando** | One of Michael’s former supporters. |
+| 조앤 | **Joanne** | One of Michael’s former supporters. |
+| 마르셀 | **Marcel** | One of Michael’s former supporters. |
+| 할리드 | **Khalid** | One of Michael’s former supporters. |

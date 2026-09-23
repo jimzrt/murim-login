@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "its sheer scale couldn’t compare to anyone I’d fought so far.",
+      "defect": "“Couldn’t compare” suggests Michael’s power falls short; the source says its magnitude is beyond comparison with past opponents.",
+      "id": "F01",
+      "rationale": "누구와도 비교할 수 없었다 describes an unmatched magnitude, not an inferior one.",
+      "replacement": "its sheer scale was beyond anything I’d faced before.",
+      "severity": "critical",
+      "source": "그 기운의 크기만큼은 지금껏 싸워 왔던 누구와도 비교할 수 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A monster that had spent decades building up its power right under the nose of an absolute being stood before me.",
+      "defect": "“Right under the nose” replaces Michael’s deliberate evasion of that being’s notice with mere proximity.",
+      "id": "F02",
+      "rationale": "눈을 피해 means avoiding someone’s watch or notice.",
+      "replacement": "A monster that had spent decades building up its power while evading the notice of an absolute being stood before me.",
+      "severity": "critical",
+      "source": "어느 절대자의 눈을 피해 장장 수십여 년간 힘을 축적해 온 괴물이 바로 눈앞에 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Chuck Hagel spat out a glob of phlegm, looking as if the nicotine had brought him back to life.",
+      "defect": "The draft presents Hagel’s revived appearance as an observation rather than his pretense.",
+      "id": "F03",
+      "rationale": "척 explicitly marks the revival as something he is putting on.",
+      "replacement": "Chuck Hagel spat out a glob of phlegm, pretending the nicotine had brought him back to life.",
+      "severity": "major",
+      "source": "니코틴 보충으로 생기를 되찾은 척 헤이글이 가래를 탁 뱉었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Even the shortest of our relationships is over ten years old. I’ve grown quite fond of you all. Haven’t you?”",
+      "defect": "“Grown quite fond” turns Michael’s claim of long familiarity into an assertion of affection.",
+      "id": "F04",
+      "rationale": "친숙하게 느껴지는군 conveys familiarity; the appeal to friendship comes in his next speech.",
+      "replacement": "“Even the shortest of our relationships goes back more than ten years. You all feel like old acquaintances to me. Don’t I to you?”",
+      "severity": "major",
+      "source": "이중 가장 짧은 인연을 따져도 10년을 넘겼으니, 다들 친숙하게 느껴지는군. 자네들도 그렇지 않나?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Behind the words *trust* and *friendship* lurked a shadow: ugly secrets only the people involved knew.",
+      "defect": "The draft identifies the secrets but omits that Michael is using them as leverage.",
+      "id": "F05",
+      "rationale": "비밀을 빌미로 supplies the means of his coercion.",
+      "replacement": "Behind the words *trust* and *friendship* lurked a shadow: the ugly secrets only those involved knew, which Michael was using as leverage.",
+      "severity": "major",
+      "source": "신뢰와 우정이라는 단어 뒤에 숨어 있는 그림자. 당사자들만이 아는 추악한 비밀을 빌미로."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Are you saying all of this happening now was your doing?”",
+      "defect": "“Your doing” suggests Jin personally carried out the attacks rather than that they happened by his decision.",
+      "id": "F06",
+      "rationale": "자네의 뜻인가 asks whether the unfolding events reflect Jin’s will or intent.",
+      "replacement": "“Are you telling me everything happening right now is by your design?”",
+      "severity": "major",
+      "source": "지금 벌어지는 이 모든 일이, 설마 자네의 뜻인가?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "But the next moment, another roar rose from every direction, like waves, smothering the sound.",
+      "defect": "The draft drops the screams that rise with the other crashes.",
+      "id": "F07",
+      "rationale": "또 다른 굉음과 비명 explicitly includes both booming noises and screams.",
+      "replacement": "But the next moment, more crashes and screams surged in from every direction like waves, drowning it out.",
+      "severity": "minor",
+      "source": "하지만 이내 사방에서 파도처럼 밀려든 또 다른 굉음과 비명이 그 위를 뒤덮는다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it reverses two descriptions of Michael’s power and loses several cues in the confrontation.",
+  "version": 1
+}
