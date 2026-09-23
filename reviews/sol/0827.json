@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "At the end of the Great Cataclysm, an event later called Victory Day,",
+      "defect": "The draft calls the Great Cataclysm itself Victory Day rather than locating Victory Day at its end.",
+      "id": "F01",
+      "rationale": "The later name applies to the day of victory, not the entire cataclysm.",
+      "replacement": "Near the end of the Great Cataclysm, on what would later be called Victory Day,",
+      "severity": "major",
+      "source": "훗날 ‘승리의 날’이라 불리는 대격변의 끝자락에서"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Doppelganger had infiltrated humanity for more than simple betrayal or defection.",
+      "defect": "“For more than” suggests betrayal or defection was part of its purpose; the source rejects that explanation.",
+      "id": "F02",
+      "rationale": "Jin realizes it was carrying out Asmodeus’s order, not merely changing sides.",
+      "replacement": "The Doppelganger’s infiltration of humanity hadn’t been a simple act of betrayal or defection.",
+      "severity": "major",
+      "source": "도플갱어가 인류 속으로 스며들었던 것은, 단순한 배신이나 전향(轉向) 따위가 아니었음을."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The Skeleton King, like me, still trapped behind a translucent barrier after trying to attack, stared blankly at the sight.",
+      "defect": "“Trapped behind” turns a barrier that blocked an attack into one confining the Skeleton King.",
+      "id": "F03",
+      "rationale": "The source compares their thwarted attacks; it does not say the Skeleton King is trapped.",
+      "replacement": "The Skeleton King, whose earlier attempt to attack had been blocked by a translucent barrier just like mine, stared blankly at the sight.",
+      "severity": "major",
+      "source": "앞서 공격을 시도했던 나와 별다를 것 없이, 반투명한 막에 가로막혀 있던 스켈레톤 킹이 그 광경을 멍하니 바라보았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "It passed as if skimming over the Golems moving without souls.",
+      "defect": "The spear appears merely to skim over the Golems, rather than cutting through them.",
+      "id": "F04",
+      "rationale": "가로질렀다 describes the spear passing through the Golems; 스치듯 conveys how effortlessly it does so.",
+      "replacement": "It sliced through the soulless Golems as if barely grazing them.",
+      "severity": "critical",
+      "source": "영혼 없이 움직이는 골렘(Golem)들을 스치듯 가로질렀다."
+    }
+  ],
+  "summary": "The draft largely preserves the scene, but several passages alter a historical reference, the Doppelganger’s motive, or the mechanics of the fight.",
+  "version": 1
+}
