@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "At first, everything around me had felt unfamiliar and different. But not anymore.",
+      "defect": "Switches to first-person narration before the source’s scene break and viewpoint shift.",
+      "id": "F01",
+      "rationale": "This passage remains in third person; Jin’s first-person narration begins after the scene break.",
+      "replacement": "At first, everything around him had felt unfamiliar and different. But not anymore.",
+      "severity": "critical",
+      "source": "진태경이 고개를 끄덕였다.\n\n처음에는 주위를 둘러싼 모든 것이 마냥 낯설고 다르게 느껴졌지만, 이제는 아니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Everything I’d personally witnessed since becoming entangled with them was proof. They were the investigator and the judge at the same time.",
+      "defect": "Changes ‘prosecutor’ to ‘investigator’ and gives ‘they’ an unclear antecedent.",
+      "id": "F02",
+      "rationale": "검사 means prosecutor here; the things he witnessed are the evidence and, figuratively, both prosecutor and judge.",
+      "replacement": "Everything I’d personally witnessed since becoming entangled with them was evidence—and served as both prosecutor and judge.",
+      "severity": "major",
+      "source": "지금껏 놈들과 얽히기 시작하면서 직접 목격한 모든 것들이 증거였고, 검사인 동시에 판사였다."
+    },
+    {
+      "confidence": 0.87,
+      "current": "I wasn’t particularly curious about how he could exist in Murim. The same was true of the beginning of the Great Cataclysm that had occurred thirty years ago.",
+      "defect": "Makes ‘the same was true’ refer to Jin’s curiosity rather than drawing a parallel with how the Cataclysm began.",
+      "id": "F03",
+      "rationale": "The Cataclysm’s beginning is offered as the reason Jin is not focused on the Lord of Heaven’s presence; his identity is the question.",
+      "replacement": "How he could exist in Murim wasn’t what puzzled me. The Great Cataclysm thirty-odd years ago had begun much the same way.",
+      "severity": "major",
+      "source": "놈이 어떻게 무림에 존재할 수 있는지는 그리 궁금하지 않다. 삼십여 년 전 일어난 대격변의 시작 역시 그러했으니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The two worlds were astonishingly alike. Not in their level of civilization, but in the way change moved through them.",
+      "defect": "Reverses the relationship between change and the worlds: the source describes currents of change moving the worlds, not change moving through them.",
+      "id": "F04",
+      "rationale": "세상을 움직이는 변화의 흐름 identifies change as what drives each world.",
+      "replacement": "The two worlds were astonishingly alike—not in their civilizations, but in the currents of change driving them.",
+      "severity": "major",
+      "source": "두 세계는 서로 놀랍도록 닮아 있었다. 문명의 격차가 아닌, 세상을 움직이는 변화의 흐름이."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Looking back now, Lee Jungryong seemed like a saint.",
+      "defect": "Replaces the comic image of a fairy with a saint, implying virtue rather than relative harmlessness.",
+      "id": "F05",
+      "rationale": "선녀 is a fairy or celestial maiden; the incongruous comparison is part of the joke.",
+      "replacement": "Looking back now, Lee Jungryong seemed like a fairy.",
+      "severity": "minor",
+      "source": "지금 돌이켜 생각해 보면 이정룡은 선녀다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The great king is one who overcame the curse of the gods.",
+      "defect": "Changes the singular ‘god’ to plural ‘gods’ in a recalled clue.",
+      "id": "F06",
+      "rationale": "신의 저주 does not specify multiple gods.",
+      "replacement": "The great king is one who overcame a god’s curse.",
+      "severity": "minor",
+      "source": "위대한 왕께서는 신의 저주를 극복하신 분."
+    }
+  ],
+  "summary": "The draft has a premature viewpoint shift and several localized changes to the source’s imagery, causal reasoning, and final clue.",
+  "version": 1
+}

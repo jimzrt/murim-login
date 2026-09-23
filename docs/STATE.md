@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 842
-- Next chapter: 843
-- Current block: 840–844 (3/5)
-- Latest translation: `translations/0842.md`
-- Latest summary: `summaries/beats/0842.md`
-- Safe profiles through: chapter 842
+- Last completed: 843
+- Next chapter: 844
+- Current block: 840–844 (4/5)
+- Latest translation: `translations/0843.md`
+- Latest summary: `summaries/beats/0843.md`
+- Safe profiles through: chapter 843
 
 ## Current Block
 
-- Two days after Jin Taekyung knocked Hyuk Mujin unconscious at the river landing, Mujin wakes in the Medical Hall of the Sichuan Tang Clan. Taishan’s attempt to revive him leaves him badly bruised, and the others explain that they barely saw what happened. Mujin learns that Jin is with Jeok Cheongang, while the Divine Physician is preparing a pill for Jin’s recovery.
-- Ju Hwaran firmly reins in the bickering group, revealing how much hardship has sharpened her patience and authority. Taishan recounts that Jin beat and stomped Mujin after he was already down, then nearly stomped his groin before being stopped. In private, Jin finishes telling Jeok Cheongang about his time away; Jeok listens in silence before concluding that they are in serious trouble.
+- Jeok Cheongang listens as Jin Taekyung explains that monsters are invading the modern world again and that the two worlds share troubling parallels. Jeok and Jin agree that their worlds’ crises are unlikely to be coincidence. Alone afterward, Jin reviews the evidence connecting Dark Heaven to the modern world: magical power in Murim, the Nanman rift, and Dark Heaven’s anomalous transportation formation. He concludes that Dark Heaven is the link between the worlds and that it first appeared during or shortly after the Great Faction War, but he still does not know how it reached Murim or the Lord of Heaven’s true identity. A remembered prophecy from the Doppelganger about a great king overcoming a god’s curse makes Jin freeze.
 
 ## Open Questions
 
 - Why did the Main Quest fail despite the Doppelganger’s erasure, and who or what was summoned?
 - Was Jin’s vision of the summoned being real, System-delivered, or prophetic?
 - What will happen as the Rift progresses and more beings enter the world?
-- Who or what chose Jin, and what is the Ark?
-- What did Jeok mean by the time when everything returns to its proper place?
+- Who or what chose Jin, what is the Ark, and how did Dark Heaven reach Murim?
+- What is the Lord of Heaven’s true identity, and how does the Doppelganger’s prophecy about a great king relate to it?
 
 ## Exceptional Decision
 
