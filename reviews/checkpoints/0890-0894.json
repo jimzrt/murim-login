@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Having lost control of the conversation in an instant, he could only leave with his face rigid as a rock, following Jeong Hogun.",
+      "defect": "Jeong Hogun appears to follow himself; Ma Sanbao is the one leading him away.",
+      "id": "C01",
+      "rationale": "The preceding exchange establishes that Ma Sanbao has seized the initiative and Jeong Hogun is reluctantly going with him.",
+      "replacement": "Having lost control of the conversation in an instant, Jeong Hogun could only follow Ma Sanbao, his face rigid as a rock.",
+      "severity": "minor",
+      "source": "Chapter 890, Ma Sanbao and Jeong Hogun leaving the guard post"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And so the greatest assassin of all time became the Divine Physician.",
+      "defect": "This makes the Slaughter Saint and his disciple, the Divine Physician, the same person.",
+      "id": "C02",
+      "rationale": "The surrounding passage identifies the former assassin as the Divine Physician’s Master.",
+      "replacement": "And so the greatest assassin of all time became a physician.",
+      "severity": "major",
+      "source": "Chapter 893, Jin reflecting on the Slaughter Saint"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Are you certain the old man you saw was the One-Legged Killing Ghost?",
+      "defect": "The epithet differs from the packet’s established “One-Legged Ghost Killer.”",
+      "id": "C03",
+      "rationale": "The translation decision explicitly maps both variants of the epithet to “One-Legged Ghost Killer.”",
+      "replacement": "Are you certain the old man you saw was the One-Legged Ghost Killer?",
+      "severity": "minor",
+      "source": "Chapter 893, Namho’s question about the old assassin"
+    },
+    {
+      "confidence": 1.0,
+      "current": "According to the information the Hidden Shadow Pavilion obtained, the One-Legged Killing Ghost had only one leg.",
+      "defect": "The same assassin’s epithet changes again within the conversation.",
+      "id": "C04",
+      "rationale": "Keeping the established epithet makes clear that Namho is discussing the person Sama Pyo just named.",
+      "replacement": "According to the information the Hidden Shadow Pavilion obtained, the One-Legged Ghost Killer had only one leg.",
+      "severity": "minor",
+      "source": "Chapter 893, Namho describing the assassin’s prosthetic leg"
+    }
+  ],
+  "summary": "The packet is largely consistent, but one action is assigned to the wrong person, one title creates a character contradiction, and the assassin’s epithet drifts twice.",
+  "version": 1
+}
