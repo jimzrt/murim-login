@@ -1,0 +1,131 @@
+{
+  "chapter": 480,
+  "stages": {
+    "adjudicator": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.0226706,
+      "cost_usd": 0.0226706,
+      "elapsed_seconds": 190.605,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0480/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 51415,
+      "model": "gpt-5.6-luna",
+      "models": {
+        "openai-codex/gpt-5.6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.0226706,
+          "input_tokens": 51415,
+          "model": "gpt-5.6-luna",
+          "output_tokens": 10323,
+          "provider": "openai-codex",
+          "reasoning_tokens": 6658,
+          "requests": 1,
+          "total_tokens": 61738
+        }
+      },
+      "output_bytes": 14810,
+      "output_tokens": 10323,
+      "packet_bytes": 81395,
+      "packet_token_estimate": 20349,
+      "provider": "openai-codex",
+      "reasoning_tokens": 6658,
+      "requested_model": "openai-codex/gpt-5.6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 61738,
+      "usage_source": "omp_provider_reported"
+    },
+    "fidelity_gate": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 30208,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.01028696,
+      "cost_usd": 0.01028696,
+      "elapsed_seconds": 102.663,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0480/omp/fidelity-gate.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "finding_count": 1,
+      "input_tokens": 15954,
+      "major_or_critical_count": 0,
+      "model": "gpt-5.6-luna",
+      "models": {
+        "openai-codex/gpt-5.6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 30208,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.01028696,
+          "input_tokens": 15954,
+          "model": "gpt-5.6-luna",
+          "output_tokens": 5410,
+          "provider": "openai-codex",
+          "reasoning_tokens": 5112,
+          "requests": 1,
+          "total_tokens": 51572
+        }
+      },
+      "output_bytes": 1254,
+      "output_tokens": 5410,
+      "packet_bytes": 55607,
+      "packet_token_estimate": 13902,
+      "provider": "openai-codex",
+      "reasoning_tokens": 5112,
+      "requested_model": "openai-codex/gpt-5.6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 51572,
+      "usage_source": "omp_provider_reported"
+    },
+    "master": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 30592,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.1300808,
+      "cost_usd": 0.1300808,
+      "elapsed_seconds": 98.028,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0480/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 14756,
+      "model": "gpt-5.6-sol",
+      "models": {
+        "openai-codex/gpt-5.6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 30592,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.1300808,
+          "input_tokens": 14756,
+          "model": "gpt-5.6-sol",
+          "output_tokens": 2941,
+          "provider": "openai-codex",
+          "reasoning_tokens": 352,
+          "requests": 1,
+          "total_tokens": 48289
+        }
+      },
+      "output_bytes": 11888,
+      "output_tokens": 2941,
+      "packet_bytes": 61001,
+      "packet_token_estimate": 15251,
+      "provider": "openai-codex",
+      "reasoning_tokens": 352,
+      "requested_model": "openai-codex/gpt-5.6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 48289,
+      "usage_source": "omp_provider_reported"
+    }
+  },
+  "version": 1
+}

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "There was an older fellow I used to work with. He put it into my head that a man with his own boat was bound to find himself a woman. So I took the plunge and bought a sleek little beauty made by Baekchu.",
+      "defect": "The translation drops that the older coworker was close to him and omits 자고로, which frames the claim as an old saying or traditional belief rather than merely a personal suggestion.",
+      "id": "F01",
+      "rationale": "친한 형님 establishes a close older-friend relationship, while 자고로 marks the statement as an old or proverbial saying. Both details are present in the Korean and were preserved in the accepted baseline.",
+      "replacement": "There was a close older friend I used to work with. He put it into my head that, as the saying goes, a man with his own boat was bound to find himself a woman. So I took the plunge and bought a sleek little beauty made by Baekchu.",
+      "severity": "minor",
+      "source": "Lines 105–106"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful. One minor source-fidelity omission weakens the boatman’s account of the old saying and his relationship with the older coworker.",
+  "version": 1
+}

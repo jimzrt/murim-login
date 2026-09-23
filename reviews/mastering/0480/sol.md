@@ -2,7 +2,7 @@
 
 “Ugh.”
 
-The wrinkled skin around the old man’s eyes twitched. He tossed and turned with a groan, then finally opened his eyes after a long while.
+The wrinkles around the old man’s eyes twitched. He stirred with a groan and, after a long while, finally managed to open his eyes.
 
 *Where am I…?*
 
@@ -24,7 +24,7 @@ The old man sat up with a start and saw a young man seated before a small brazie
 
 “Ah.”
 
-Only then did the old man realize that this unfamiliar place was a clinic. He also realized the identity of the young man, who looked barely more than a boy.
+Only then did the old man realize that this unfamiliar place was a clinic—and who the young man, who looked barely more than a boy, must be.
 
 “So you’re a medical apprentice, sir. But why am I in a clinic… Ow.”
 
@@ -42,7 +42,7 @@ The young medical apprentice crossed the room and came to his aid.
 
 “Wha—?”
 
-The old man’s eyes went round. The crown of his head prickled as though an ant had bitten him, and then his headache vanished as if it had been washed away.
+The old man’s eyes widened. The crown of his head prickled as though an ant had bitten him, and then his headache vanished without a trace.
 
 Holding a slender needle, the young medical apprentice smiled faintly at the old man’s astonished stare.
 
@@ -56,7 +56,7 @@ Holding a slender needle, the young medical apprentice smiled faintly at the old
 
 His medical skills were nothing short of miraculous, and something about his presence inexplicably put both body and mind at ease.
 
-Up close, he looked much younger than expected, yet he seemed more seasoned than even an elderly medical apprentice.
+Up close, he looked even younger than the old man had thought, yet somehow seemed more seasoned than a physician many times his age.
 
 “I’ll help you. Relax and lie down slowly.”
 
@@ -72,7 +72,7 @@ The old man lay back down as though entranced. The young medical apprentice rais
 
 “Two.”
 
-“Correct. Where do you live, and what is your name and age?”
+“Correct. Where do you live, and what are your name and age?”
 
 “…Do I have to tell you that too?”
 
@@ -82,7 +82,7 @@ The old man lay back down as though entranced. The young medical apprentice rais
 
 Unlike the earlier questions, these required some thought.
 
-The old man had only just awakened, and his condition was still unstable. Feeling a faint headache, he slowly opened his mouth.
+The old man had only just awakened, and his condition was still unstable. Feeling the faint stirrings of another headache, he slowly answered.
 
 “I’ve lived my whole life around Wuhan and Dongting Lake. My name is Gwak Bongchul. No one kept proper track when I was growing up, so I don’t know my exact age, but I reckon I must be past seventy.”
 
@@ -138,17 +138,17 @@ He blinked slowly, and the image of a colossal being silhouetted against the bla
 
 “Gah!”
 
-The boatman sprang upright without realizing it and stared blankly into the air.
+The boatman sprang upright and stared blankly into space.
 
 “W-wait. Wait a moment.”
 
-His voice trembled, and his eyes were wide open.
+His voice trembled, and his eyes bulged.
 
-Perhaps because he had exerted himself so suddenly, every part of his body began aching again. But the boatman paid no attention to any of it.
+The sudden movement made his entire body ache again, but he paid it no mind.
 
 The memories flooding back through the broken dam consumed his thoughts.
 
-“Me-medical apprentice! What did you say to me earlier?”
+“Me-medical apprentice! What did you say earlier?”
 
 “What are you referring to?”
 
@@ -158,7 +158,7 @@ The memories flooding back through the broken dam consumed his thoughts.
 
 A grip far too strong for a man over seventy clamped around the medical apprentice’s slender wrist.
 
-But the young medical apprentice did not so much as twitch an eyebrow as he calmly replied,
+The young medical apprentice didn’t so much as raise an eyebrow.
 
 “That is correct.”
 
@@ -166,11 +166,11 @@ But the young medical apprentice did not so much as twitch an eyebrow as he calm
 
 “Calm yourself, Elder.”
 
-“T-this is no time to be calm. We must tell the people and report this to the higher-ups at once!”
+“T-this is no time to be calm. We have to warn everyone and report this to the higher-ups at once!”
 
 The boatman was half out of his mind.
 
-His entire body was drenched in sweat and trembling without his realizing it, while his unfocused eyes darted anxiously in every direction.
+His entire body trembled, drenched in sweat without his even realizing it, while his unfocused eyes darted anxiously around the room.
 
 It was as though something might devour him at any moment.
 
@@ -182,11 +182,11 @@ That was when the young medical apprentice reached toward the patient, who was s
 
 A smooth white hand without a single callus touched the boatman’s slightly hunched back. Warmth flowed from it and filled his body.
 
-The inexplicable phenomenon finally calmed the boatman, and he gasped for breath.
+The inexplicable phenomenon finally calmed him, and he gasped for breath.
 
 “Wh-what was that?”
 
-“Think of it as a miscellaneous technique I’ve practiced from time to time. And, Elder.”
+“Think of it as a minor trick I picked up along the way. And, Elder.”
 
 “Gasp.”
 
@@ -194,7 +194,7 @@ The boatman met the medical apprentice’s deep, clear gaze, and for reasons he 
 
 The young medical apprentice studied him for a moment before slowly continuing.
 
-“The thing you’re worried about will never happen. Do you understand?”
+“What you fear will never come to pass. Do you understand?”
 
 “Pardon?”
 
@@ -210,9 +210,9 @@ The boatman shuddered as though he had been struck by lightning.
 
 The young medical apprentice’s words were that shocking.
 
-“D-does that mean you saw the Mountain Spirit too, sir…?”
+“D-does that mean you saw the Divine Spirit too, sir…?”
 
-“That may be the case, or it may not. But there is one thing you must remember… You must forget everything you remember about those events.”
+“That may be the case, or it may not. But there is one thing you must remember… You must forget everything that happened.”
 
 The boatman swallowed hard at the young man’s gentle yet blade-cold voice.
 
@@ -222,7 +222,7 @@ Then the suffocating silence in the room was broken by the last bit of courage a
 
 “Me? No.”
 
-The young medical apprentice slowly shook his head and continued.
+The young medical apprentice slowly shook his head.
 
 “But someone else may think differently. For example… the City Lord of Hubei Province, who would not want ominous rumors spreading.”
 
@@ -232,15 +232,15 @@ The City Lord of Hubei Province.
 
 An official who governed a city by order of the Son of Heaven—a man who, at least within Hubei Province, was as good as a king.
 
-The boatman cried out reflexively at the unexpected appearance of such a high-ranking person. Then he realized his mistake, and his vision went dark.
+The boatman cried out reflexively at the mention of such a powerful figure. Then he realized his mistake, and his vision went dark.
 
-*What a stupid fool! What if someone heard me?*
+*You stupid fool! What if someone heard you?*
 
-Unlike him, however, the young medical apprentice’s expression remained relaxed.
+The young medical apprentice, however, remained perfectly at ease.
 
 It was the composure of the person who had ensured that none of their conversation could leave the room.
 
-No—even if their words did leak out, the young medical apprentice would not bat an eye.
+No—even if their words somehow leaked out, he likely wouldn’t bat an eye.
 
 The precaution was solely for the sake of the boatman’s life.
 
@@ -248,9 +248,9 @@ Unaware of that, the boatman spoke again in a tightly hushed voice.
 
 “I-I want to live. Why on earth would the City Lord want to kill an insignificant boatman like me?”
 
-“When floods come, droughts strike, and plagues spread, people die in every direction, and wars break out everywhere. Then the rebels who dream of becoming kings and high officials speak with one voice. They say that the will of Heaven has left the Son of Heaven. That we should overthrow this rotten country.”
+“When floods come, droughts strike, and plagues spread, people die everywhere and rebellions rise across the land. Then those traitors who dream of thrones and high office speak with one voice. They say the will of Heaven has abandoned the Son of Heaven. That this rotten country must be overthrown.”
 
-The young medical apprentice clicked his tongue softly, stood up, and tossed out one final remark.
+The young medical apprentice clicked his tongue softly and rose.
 
 “Even disasters beyond human power lead to such things. So what do you suppose would happen if the divine spirit of Dongting Lake, a creature as vast as a mountain, went mad and ran wild?”
 
@@ -270,9 +270,9 @@ If anything, ferrying countless passengers had taught him how the world worked t
 
 It would be the end of him.
 
-Neither the Son of Heaven seated upon the throne nor the City Lord of Hubei Province would want people to learn that the mad divine spirit of Dongting Lake had killed thousands.
+Neither the Son of Heaven upon the throne nor the City Lord of Hubei Province would want the people to learn that the mad divine spirit of Dongting Lake had slaughtered thousands.
 
-No, perhaps they would eliminate everyone involved in the matter immediately.
+Perhaps they would eliminate everyone involved immediately.
 
 A martial artist from a prestigious sect might be another matter, but an old boatman past seventy could be disposed of without anyone ever knowing.
 
@@ -294,8 +294,8 @@ The young medical apprentice rose from his seat. The boatman stared dazedly at h
 
 The young medical apprentice, Mungyeong, answered without hesitation and released the doorknob.
 
-Then he pointed to the brazier still burning in the corner of the room and the kettle slowly boiling atop it.
+Then he pointed to the brazier still burning in one corner of the room and the kettle simmering atop it.
 
-“I boiled that decoction myself. Three times a day. After meals. Make sure you take it.”
+“I prepared that decoction myself. Take it three times a day, after meals. Without fail.”
 
 Caring for a patient until the very end was a medical apprentice’s duty.
