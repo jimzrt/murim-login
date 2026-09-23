@@ -1,9 +1,9 @@
 # Siegfried Wassmann (지크프리트 바스만)
 
-- **Safe through:** Chapter 742
+- **Safe through:** Chapter 793
 - **Aliases:** Hero
-- **Role:** Siegfried Wassmann was Switzerland's greatest Hunter, one of the world's three Grand Mages, and the creator of A Area; he has died under unexplained circumstances in his sealed hideout.
-- **Personality:** Reclusive, intensely private, scholarly, and obsessive about subjects that captured his interest.
+- **Role:** Siegfried Wassmann was one of humanity’s three Grand Mages, a reclusive scholar and expert in barrier magic and monster research; he is dead, and the cause of his death is unknown.
+- **Personality:** Reclusive and scholarly.
 - **Voice:** Not established.
-- **Relationships:** Siegfried was a close friend of Magic Johnson, deeply revered Cheon Taemin, and had very few other personal connections.
+- **Relationships:** No relationships are established in this chapter.
 - **Sources:** Korean source and accepted translation, Chapter 742

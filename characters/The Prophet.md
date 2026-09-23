@@ -1,6 +1,6 @@
 # The Prophet (선지자)
 
-- **Safe through:** Chapter 791
+- **Safe through:** Chapter 793
 - **Aliases:** None
 - **Role:** The Prophet is the mysterious leader of the revived Hasasin, a Middle Eastern terrorist organization preparing further attacks against apostates and Western heretics.
 - **Personality:** Religiously fervent, commanding, and shrouded in an intentionally indistinct identity.

@@ -2307,3 +2307,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 엘리제 궁전 | **Élysée Palace** | The French presidential palace. |
 | 베르너 | **Werner** | Swiss Interior Minister arrested for ties to Michael Silbert. |
 | 오사마 빈 라덴 | **Osama bin Laden** | Historical terrorist leader referenced in comparison to The Prophet. |
+| 윌슨 | **Wilson** | Chuck Hagel’s deceased dog. |
+| 헨리 | **Henry** | Name called out while the bodies are being identified. |
