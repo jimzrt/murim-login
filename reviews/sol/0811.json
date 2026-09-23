@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "Of course, the undead’s pursuit had soon ground to a halt when their magical power ran out, yielding nothing.",
+      "defect": "“Their” attributes the depleted magical power to the undead rather than leaving it with the Skeleton King who controls them.",
+      "id": "F01",
+      "rationale": "The passage links depleted magical power to the end of the Skeleton King’s undead pursuit; it does not say the undead exhausted their own power.",
+      "replacement": "Of course, the Skeleton King had soon run low on magical power, and the undead’s pursuit had ended without yielding anything.",
+      "severity": "major",
+      "source": "물론 금세 바닥을 드러낸 마력과 함께 언데드들의 추적도 아무런 소득 없이 멈췄지만"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Come on, Jin-sama! You can’t do this!”\n\n“I can. Here I am.”",
+      "defect": "Yamamoto’s rhetorical “where” and Jin’s literal “here” no longer form the source’s deadpan exchange.",
+      "id": "F02",
+      "rationale": "Jin answers the implied question of where such a thing happens, rather than asserting that he can do it.",
+      "replacement": "“Jin-sama! Where does that even happen?”\n\n“Right here.”",
+      "severity": "minor",
+      "source": "“아니, 진 사마! 그런 게 어디 있습니까!”\n\n“여기 있어.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Little room to move. Few ways to escape.",
+      "defect": "The draft changes a narrow escape route into a small number of escape routes.",
+      "id": "F03",
+      "rationale": "Both the available space and the escape route are described as narrow, which matters to Jin’s assessment of the canyon.",
+      "replacement": "Little room to move. A narrow escape route.",
+      "severity": "major",
+      "source": "주어진 공간도 좁고, 도주로도 좁다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes who runs out of magical power, loses a deadpan exchange, and alters a terrain detail.",
+  "version": 1
+}

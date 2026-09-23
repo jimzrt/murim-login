@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 810
-- Next chapter: 811
-- Current block: 810–814 (1/5)
-- Latest translation: `translations/0810.md`
-- Latest summary: `summaries/beats/0810.md`
-- Safe profiles through: chapter 810
+- Last completed: 811
+- Next chapter: 812
+- Current block: 810–814 (2/5)
+- Latest translation: `translations/0811.md`
+- Latest summary: `summaries/beats/0811.md`
+- Safe profiles through: chapter 811
 
 ## Current Block
 
-- Jin becomes absorbed in questions sparked by his thoughts of Michael Silbert and loses track of nearly thirty minutes. Magic Johnson reminds him that the regrouped Hunters are waiting and urges him to resume the pursuit. Jin decides there is only one path forward, though the truth behind his questions remains unclear.
-- The Hunters march through the desert after burying their 185 dead and vow to return for the bodies and reunite them with their families. They encounter Ant Lions. Jin learns from one that most fleeing monsters headed west and that their leaders are dead, then kills it, knowing it caused Hunter deaths. When Johnson asks where the monsters went, Jin says east; the Skeleton King watches him wide-eyed.
+- The Skeleton King realizes Jin lied about the monsters fleeing east, but trusts Jin and repeats the lie to Magic Johnson. Jin divides the forces, sending the main pursuit east while taking the Skeleton King, Magic Johnson, and Yamamoto west toward the oil fields indicated by The Prophet’s message about buried black jewels.
+- Jin orders Team Leader Choi to avoid clashes while pursuing the remaining monsters, then leads the four-person group to a canyon. He spots an eagle overhead and blocks the canyon entrance.
 
 ## Open Questions
 
-- Where is the Prophet, what is his objective, and how is he directing events?
-- What questions about Michael Silbert has Jin formed, and what is the single clue he has?
-- Why did Jin lie to Johnson about the monsters’ direction, and how will the Skeleton King respond?
+- Is The Prophet at the oil fields, and what is the significance of the buried black jewels?
+- What will Jin find at the canyon, and what is the eagle’s role?
 
 ## Exceptional Decision
 

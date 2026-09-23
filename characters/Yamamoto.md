@@ -1,6 +1,6 @@
 # Yamamoto (야마모토)
 
-- **Safe through:** Chapter 808
+- **Safe through:** Chapter 811
 - **Aliases:** None
 - **Role:** Yamamoto Genji is a Japanese S-rank Hunter and J1’s sole survivor.
 - **Personality:** Prideful and easily offended, prone to self-aggrandizement and self-serving assumptions, and cowardly under mortal threat.
