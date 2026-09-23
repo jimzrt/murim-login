@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Even when a wandering Daoist recognized the boy’s aptitude, took him in as a Disciple, and brought him to the sect.",
+      "defect": "The draft makes the Daoist the wanderer; the Eastern Heaven Demon Lord was the one living as a wanderer.",
+      "id": "F01",
+      "rationale": "떠돌이 생활을 하던 modifies 동천마군, not 도사.",
+      "replacement": "Even when a Daoist recognized the wandering boy’s aptitude, took him as a Disciple, and brought him to the sect.",
+      "severity": "critical",
+      "source": "떠돌이 생활을 하던 동천마군의 자질을 알아본 어느 도사가 자신의 제자로 삼아 문파에 데려갔을 때도."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Then he asked the descendant of his enemy’s bloodline, looking down at him from the top of hundreds of steps:",
+      "defect": "The dangling phrase can make the Demon Lord the one looking down. His enemy’s descendant is above him, looking down at him.",
+      "id": "F02",
+      "rationale": "자신을 굽어보는 describes 원수의 핏줄; the Demon Lord is below the steps.",
+      "replacement": "Then he asked his enemy’s descendant, who was looking down at him from hundreds of steps above:",
+      "severity": "critical",
+      "source": "그리고 수백 개의 계단 위에서 자신을 굽어보는, 원수의 핏줄을 향해 물었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Burn them without end. If they won’t die, keep turning them to ash until they fall. Just as our sect’s ancestors did.”",
+      "defect": "“Until they fall” drops the deliberate paradox of killing creatures that will not die.",
+      "id": "F03",
+      "rationale": "죽지 않는다면 죽을 때까지 repeats 죽다, making their death the stated aim.",
+      "replacement": "“Keep burning them. If they won’t die, burn them to ash until they do. Just as our sect’s ancestors did.”",
+      "severity": "major",
+      "source": "“끝없이 불태워라. 죽지 않는다면 죽을 때까지 잿더미로 만들어 쓰러트려라. 본문의 선조들이 그리했던 것처럼.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Damn, that’s a lot.”",
+      "defect": "“Damn” softens Jeok Cheongang’s blunt, unusually strong profanity.",
+      "id": "F04",
+      "rationale": "존나 is strong profanity, and the abrupt reaction is the punchline.",
+      "replacement": "“Fuck, that’s a lot.”",
+      "severity": "major",
+      "source": "“존나 많군.”"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Yeah. A whole damn lot. Some lunatic must’ve even taken different tastes into account, because there are all kinds.”",
+      "defect": "“A whole damn lot” softens Taekyung’s emphatic echo of Jeok’s profanity.",
+      "id": "F05",
+      "rationale": "진짜 존나 많습니다 repeats and intensifies the preceding strong expression.",
+      "replacement": "“Yeah. A fucking lot. Some lunatic must’ve even taken different tastes into account, because there are all kinds.”",
+      "severity": "major",
+      "source": "“예. 진짜 존나 많습니다. 어느 정신 나간 새끼가 취향 차이까지 고려했는지 종류도 다양해요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "His loose, gray eyes settled on the young king trembling beside the Emperor.",
+      "defect": "“Loose eyes” is an unnatural literal rendering of his unhurried eye movement.",
+      "id": "F06",
+      "rationale": "느슨하게 움직인 describes how his eyes move, not a physical quality of the eyes.",
+      "replacement": "His gray gaze drifted to the young king trembling beside the Emperor.",
+      "severity": "minor",
+      "source": "느슨하게 움직인 회색빛 눈동자에, 황제의 곁에서 몸을 떨고 있는 어린 왕의 모습이 비쳤다."
+    }
+  ],
+  "summary": "Two scene-fact errors and several losses of voice and meaning.",
+  "version": 1
+}
