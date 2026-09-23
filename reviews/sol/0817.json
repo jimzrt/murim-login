@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Except for the one person it alone had feared—and deliberately avoided because of that fear.",
+      "defect": "“It alone had feared” suggests the Doppelganger was the only one who feared that person. The source says this was the only person the Doppelganger feared.",
+      "id": "F01",
+      "rationale": "유일하게 limits the people the Doppelganger feared, not the number of beings who feared Cheon Taemin.",
+      "replacement": "Except for the one person it had feared—and deliberately avoided because of that fear.",
+      "severity": "major",
+      "source": "그가 유일하게 두려워했고, 그랬기에 일부러 피해 왔던 한 사람을 제외한다면."
+    }
+  ],
+  "summary": "One actionable subject error changes whom the Doppelganger fears.",
+  "version": 1
+}

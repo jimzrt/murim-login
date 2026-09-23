@@ -1,0 +1,87 @@
+{
+  "chapter": 817,
+  "files": {
+    "characters/Cheon Taemin.md": "eddd6d651ab878af2a7c0f4bc960a05c44eb0bb002735400332136421470c0b5",
+    "characters/Divine Physician.md": "d0c28ccf50dff74806bd5a15b09b7c40b6d445894d24f2f1083ea129c100fecb",
+    "characters/Doppelganger.md": "953544639a944d58102f524fc6c73c4f29b55762fcc34f7b161a17892067f94c",
+    "characters/Human Butcher.md": "b5f8c878dd8973b6c3801ff8e3e204260fcaa2232785f29dc8c926a4b5ddc479",
+    "characters/Jin Taekyung.md": "45d642640008e33013b7c0b4b390318cf894ab21e1d394be3f80a75801cd65f5",
+    "characters/Jintae.md": "0cf6ba26c30f488a649070a118a09a223c747834fc8df0fd62d90d31e0e5f442",
+    "characters/Michael.md": "c5216f59100254f9697989f3d80897dddace34d0b1c35b8f9914567d59a9e656",
+    "characters/The Prophet.md": "cc31f867c267c15c2af1af50a555f0aa03a1c8bc35eeb7a5806148f1bcd69e0a",
+    "docs/ADDRESS.md": "e1968e5afd1d4d8dd4d9824b7d42e89378711946a958686cc521b426703db0a9",
+    "docs/CONTEXT.json": "68bda9ced2978719abe354108e711f6944c1eabf77b6566771900cd3c0038223",
+    "docs/STATE.md": "2a3a61279d00089508fb71b02a6070b0abb430ec45bf569c6102a72f992228bf",
+    "summaries/beats/0817.md": "eb84c8273d9ce546217cc00bb06dc21c79d7ad1f4481d9fb0ad2ac0026a12380"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "아미르",
+        "kinship": "religious leader to subordinate",
+        "normal_address": "Amir",
+        "notes": "The Prophet addresses Amir by name and orders him to hold back Jin and the other heretics.",
+        "speaker": "선지자",
+        "speech_level": "authoritative"
+      },
+      {
+        "addressee": "선지자",
+        "kinship": "devotee to religious leader",
+        "normal_address": "Prophet",
+        "notes": "Amir kneels and addresses the Prophet with reverence.",
+        "speaker": "아미르",
+        "speech_level": "formal and deferential"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Doppelganger’s extended-range Blink lets it reach its followers, but severely injures it; its left arm is torn off, its regeneration is slow, and its remaining absorbed lives are dwindling.",
+        "The Doppelganger believes Jin Taekyung has been left behind, but Jin is lying motionless behind it among its followers and wakes at the chapter’s end."
+      ],
+      "plot": [
+        "The Doppelganger, wearing Siegfried Bassman’s face and wielding his Grand Mage abilities, repeatedly uses Blink to evade Jin Taekyung, but Jin tracks and catches it, crushing its left hand and tearing off its arm. To escape, the badly injured Doppelganger forces Blink beyond its normal range and reaches the rear battlefield, where its followers and Amir are waiting. It orders them to hold off Jin and the other heretics, believing it has escaped—until Jin, who was lying motionless behind it, wakes and asks where he is."
+      ],
+      "translation_decisions": [
+        "Keep Blink distinct from Teleport and Warp: Blink is normally short-range, while extending it far beyond its limit causes severe strain."
+      ]
+    },
+    "chapter": 817,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and pursues Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet is a Level 170 Doppelganger titled “The Final Abyss,” who concealed itself for decades, including under the name Muninn.",
+        "The Doppelganger can resurrect by consuming absorbed lives and reproduce absorbed people’s appearances, abilities, and memories.",
+        "The Doppelganger has taken on Siegfried Bassman’s face and wields his Grand Mage abilities.",
+        "The Doppelganger’s absorbed lives are dwindling; its left arm was torn off, and its regeneration is slow after forcing Blink beyond its normal range.",
+        "The Doppelganger escaped to its followers and ordered Amir and the others to hold off Jin and the heretics, but Jin is lying motionless behind it and has just awakened."
+      ],
+      "continuity_sources": [
+        817
+      ],
+      "open_questions": [
+        "Who is the Doppelganger’s master, what is the plan, and why must the target be avoided until it is complete?",
+        "What does the Chosen One designation mean?",
+        "How did Jin Taekyung reach the Doppelganger’s rear battlefield, and what will happen next?",
+        "Is Magic Johnson human?"
+      ],
+      "safe_through": 817,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Keep Demon Realm language distinct from other languages.",
+        "Keep Blink distinct from Teleport and Warp; extended-range Blink causes severe strain."
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Personality:** Arrogant and manipulative, it treats others as tools but becomes desperate when its own survival is threatened.",
+        "path": "characters/Doppelganger.md",
+        "replacement": "- **Personality:** Arrogant and manipulative, it treats others as tools and is willing to sacrifice its followers to escape, but becomes desperate when its own survival is threatened."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
