@@ -1,31 +1,26 @@
 # Translation State
 
-- Last completed: 776
-- Next chapter: 777
-- Current block: 775–779 (2/5)
-- Latest translation: `translations/0776.md`
-- Latest summary: `summaries/beats/0776.md`
-- Safe profiles through: chapter 776
+- Last completed: 777
+- Next chapter: 778
+- Current block: 775–779 (3/5)
+- Latest translation: `translations/0777.md`
+- Latest summary: `summaries/beats/0777.md`
+- Safe profiles through: chapter 777
 
 ## Current Block
 
-- At the World Hunter Federation's inaugural ceremony in the National Assembly Hall, surviving veterans and younger heroes gather around the round table and divide their support between Michael Silbert and Jin Taekyung. Michael grows uneasy that Jin may have recognized the truth behind his past, sends a signal through a pager, and regards the Skeleton King beside Jin as essential to maintaining his own position. When the ceremony announces that all attendees have arrived despite Cheon Taemin's absence, the gathering erupts in shock and confusion, and an unidentified attendee rises and walks toward the center of the table.
+- At the World Hunter Federation’s inaugural ceremony, Michael Silbert uses staged news about two visitors to pressure Jin Taekyung and Team Leader Choi. Choi announces that his maternal grandfather, Cheon Taemin, is in a coma and too ill to join the coming war; Magic Johnson confirms the truth and says he could find no way to awaken him. As the vote for a new leader begins, Michael privately resolves to eliminate Jin. Jin holds a fragment of a tower shield used as a ballot and, through Sound Transmission, tells the Skeleton King he intends to take a near-even chance on a dangerous plan. He asks the Skeleton King to trust him and their friends, saying he will take the risk because the Skeleton King is his friend.
 
 ## Open Questions
 
-- What is Michael's ultimate objective behind the atrocities and sacrifices he has caused?
-- What is the full extent of Michael's concealed strength?
-- Is the clue discovered by Jin and his allies genuine, and is their fourth path viable?
-- What coordinated plan do Michael and The Prophet have for the Federation and the coming crisis?
-- Who is the unidentified attendee approaching the center of the round table, and what will they do?
+- What dangerous course of action does Jin intend to take, and what will its consequences be?
+- Who will be elected to lead the World Hunter Federation?
+- Will Michael act on his intention to eliminate Jin?
+- Can Cheon Taemin recover from his coma?
 
 ## Exceptional Decision
 
-- Render 파리 대전투 as Great Battle of Paris.
-- Render 파리 10구 as Paris's Tenth Arrondissement.
-- Render 망가진 신체 as Broken Body.
-- Use National Assembly Hall for 국회의사당.
-- Render 스톤 킹 as Stone King.
+- Render 도편추방제 as “ostracism by lot” and 도편추첨제 as “ostracism by ballot,” preserving Jin’s uncertainty.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
