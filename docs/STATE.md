@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 884
-- Next chapter: 885
-- Current block: 880–884 (5/5)
-- Latest translation: `translations/0884.md`
-- Latest summary: `summaries/beats/0884.md`
-- Safe profiles through: chapter 884
+- Last completed: 885
+- Next chapter: 886
+- Current block: 885–889 (1/5)
+- Latest translation: `translations/0885.md`
+- Latest summary: `summaries/beats/0885.md`
+- Safe profiles through: chapter 885
 
 ## Current Block
 
-- Jin Taekyung rushes to the Embroidered Uniform Guard’s screening after hearing that his companions drew attention. He persuades Jeong Hogun that he is helping protect Prince Shangshan and the Emperor from a possible attack at the banquet, then publicly presents Taishan and the circus troupe as harmless performers from north of the Yangtze. A potbellied official—an ally Ma Sanbao had placed there—orders the troupe passed through, and Hogun lets them proceed. Jeok Cheongang privately claims he trusted Taekyung’s plan all along, despite having just called him crazy.
+- While crossing the imperial palace grounds, Taekyung recognizes that laborers hauling banquet supplies are concealed martial artists. Their elderly leader admits they are working with Eunuch Ma and tells Taekyung to return and wait rather than draw attention. Taekyung realizes the disguised group are assassins and wonders why Ma brought them into the palace. A woman’s voice tells him to stop.
 
 ## Open Questions
 

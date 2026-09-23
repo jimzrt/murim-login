@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If even one item is damaged, I’ll have your head!",
+      "defect": "The official threatens punishment, not execution.",
+      "id": "F01",
+      "rationale": "경을 치다 means to be punished or get into serious trouble; it does not specify beheading.",
+      "replacement": "If even one item is damaged, you’ll pay for it!",
+      "severity": "critical",
+      "source": "만약 하나라도 상한 물건이 있다면 내 경을 칠 것이다!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Your head’s as empty as a rock, so I’ll give you a simple example.",
+      "defect": "“Empty” reverses the image of a solid stone head and weakens the later joke about breaking stone.",
+      "id": "F02",
+      "rationale": "속이 꽉 찬 돌 describes a rock solid all the way through, setting up his threat to break a stone head.",
+      "replacement": "Your head’s as solid as a rock, so I’ll give you a simple example.",
+      "severity": "major",
+      "source": "네 녀석의 대가리는 속이 꽉 찬 돌과 진배없으니 간단히 예를 들어 주마."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*“That’d suck. I’m eating.”*",
+      "defect": "The response softens explicit profanity and loses some of Taekyung’s bluntness.",
+      "id": "F03",
+      "rationale": "좆 같죠 is strongly profane; the abrupt complaint about his interrupted meal is the joke.",
+      "replacement": "*“That’d be fucking awful. I’m trying to eat.”*",
+      "severity": "major",
+      "source": "‘좆 같죠. 밥 먹는데.’"
+    },
+    {
+      "confidence": 0.86,
+      "current": "The old man’s eyes gleamed sharply, as though he’d never said a thing like that. I gave him a brief answer.",
+      "defect": "“Never said a thing like that” assigns the contrast to his words rather than his sudden change from a deferential laborer.",
+      "id": "F04",
+      "rationale": "언제 그랬냐는 듯 marks how abruptly his bearing changes; the source does not retract anything he said.",
+      "replacement": "The old man’s eyes gleamed fiercely, as if he’d never played the humble laborer. I gave him a brief answer.",
+      "severity": "minor",
+      "source": "언제 그랬냐는 듯, 형형한 안광을 빛내는 초로인을 향해 나는 짤막하게 답했다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes a threat of punishment into a death threat, reverses a joke’s image, and softens one profane response.",
+  "version": 1
+}
