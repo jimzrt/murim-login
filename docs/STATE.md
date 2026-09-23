@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 854
-- Next chapter: 855
-- Current block: 850–854 (5/5)
-- Latest translation: `translations/0854.md`
-- Latest summary: `summaries/beats/0854.md`
-- Safe profiles through: chapter 854
+- Last completed: 855
+- Next chapter: 856
+- Current block: 855–859 (1/5)
+- Latest translation: `translations/0855.md`
+- Latest summary: `summaries/beats/0855.md`
+- Safe profiles through: chapter 855
 
 ## Current Block
 
-- At Yichang’s West Gate, corrupt gate commander Jang Il learns that a caravan of three trading companies has returned from Chongqing devastated. Its survivors say more than a thousand bandits and river pirates attacked them at Yuhua Mountain, fought with unnatural ferocity, pursued them for three days, and burned their ships; fewer than a hundred survivors remain. As their final battle seems imminent, a middle-aged man with about ten companions arrives and asks who set the ships on fire.
+- Jeok Cheongang’s party continues east after Jeok killed roughly three hundred bandits and river pirates who had set fire to a caravan. Jeok praises Ju Hwaran’s competence and invites her to call him Old Master, while forbidding Hyuk Mujin from doing the same. Jin Taekyung reunites with the group and says he feels well for now, though he may hit a wall again. With Jiangsu about three days away at their current pace, Jin says they should make it in two.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Is Dark Heaven targeting the Great Nation’s Emperor or imperial family, and is it influencing the Son of Heaven?
 - What is the Embroidered Uniform Guard’s purpose in traveling with Prince Shangshan, and can Jin’s party reach him in time?
 - What prompted the imperial decree against Hong Jin, and what will happen to him and Prince Shangshan?
-- Who is the middle-aged man, and what explains the attackers’ unnatural ferocity and the assault on the caravan?
+- What explains the attackers’ unnatural ferocity during the caravan assault?
 
 ## Exceptional Decision
 

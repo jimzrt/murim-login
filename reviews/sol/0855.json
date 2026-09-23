@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A full three hundred bandits and river pirates had been wiped out in less than half an hour.",
+      "defect": "Half a shichen is one hour, not half an hour.",
+      "id": "F01",
+      "rationale": "A shichen is approximately two hours; the draft halves the elapsed time again.",
+      "replacement": "A full three hundred bandits and river pirates had been wiped out in less than an hour.",
+      "severity": "critical",
+      "source": "자그마치 삼백여 명에 달하던 산적과 수적들은 불과 반 시진 만에 전멸당했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As the three he never quite reached dragged Namho off toward some patch of tall grass, Hyuk Mujin murmured sadly,",
+      "defect": "The unfinished count to three becomes the agent dragging Namho away.",
+      "id": "F02",
+      "rationale": "셋 is the number Namho never finishes counting, not the people carrying him off.",
+      "replacement": "Before he could reach three, Namho was dragged off into the undergrowth. Watching him go, Hyuk Mujin murmured sadly,",
+      "severity": "critical",
+      "source": "끝내 완성되지 못한 셋과 함께, 풀숲 어딘가로 질질 끌려가는 남호의 모습을 지켜보던 혁무진이 슬픈 목소리로 중얼거렸다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Isn’t it obvious? Even if I answer, there’s no point. He won’t listen…”",
+      "defect": "The physician's complaint is redirected at an absent third party rather than the person asking him.",
+      "id": "F03",
+      "rationale": "The physician is answering Jin Taekyung’s “Why?”; making Jeok the target changes the exchange and Jin’s appreciative comeback.",
+      "replacement": "“Isn’t it obvious? Even if I answer, there’s no point. There’s no reasoning with you anyway…”",
+      "severity": "critical",
+      "source": "뻔하지 않습니까. 굳이 대답해 봤자 말이 통할 리도 없고……."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Escort King did a fine job raising his granddaughter.",
+      "defect": "The draft adds that the Escort King raised Ju Hwaran.",
+      "id": "F04",
+      "rationale": "The Korean praises the granddaughter he has, without specifying who raised her.",
+      "replacement": "The Escort King has himself one fine granddaughter.",
+      "severity": "major",
+      "source": "표왕이 손녀 하나는 아주 잘 뒀군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You little—!”",
+      "defect": "Namho’s explicit profanity is replaced with an unfinished, milder insult.",
+      "id": "F05",
+      "rationale": "씨팔 is a strong expletive, and the trailing ellipsis is present in the source.",
+      "replacement": "“Fuck…!”",
+      "severity": "major",
+      "source": "이런 씨팔……!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“……You two are really something.”",
+      "defect": "Jeok Cheongang’s profane irritation is sanitized into a mild remark.",
+      "id": "F06",
+      "rationale": "지랄들을 하는구나 is a coarse rebuke aimed at both speakers, not a neutral observation.",
+      "replacement": "“…What the fuck is wrong with you two?”",
+      "severity": "major",
+      "source": "……아주 지랄들을 하는구나."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Your heads are barely dry!",
+      "defect": "The literal rendering obscures the insult about their youth and inexperience.",
+      "id": "F07",
+      "rationale": "머리에 피도 안 마른 것들 disparages them as youngsters; the English idiom preserves the taunt.",
+      "replacement": "You brats are still wet behind the ears!",
+      "severity": "minor",
+      "source": "머리에 피도 안 마른 것들이 감히!"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes a time quantity and the agent of an action, misdirects a line of dialogue, and softens two profane reactions.",
+  "version": 1
+}

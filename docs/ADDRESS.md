@@ -1361,3 +1361,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 멸절신니 | senior martial master to Emei Sect Leader | old hag | blunt and insulting | Jeok calls her 할망구 and trades deliberately provocative barbs with her. |
 | 멸절신니 | 적천강 | Emei Sect Leader to legendary martial master | Benefactor Jeok | familiar-polite | She addresses him as 적 시주 and answers his insults with composed reproach. |
 | 진태경 | 멸절신니 | younger martial artist to Emei Sect Leader | Venerable Nun; Sect Leader | polite and deferential | Jin addresses her as 신니, then corrects himself to 장문인. |
+| 주화란 | 적천강 | younger ally to legendary martial master | Great Hero Jeok | formal and deferential | Ju Hwaran addresses Jeok as 적 대협 while asking whether he is all right. |
