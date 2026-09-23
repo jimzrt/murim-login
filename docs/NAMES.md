@@ -2366,3 +2366,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 남경 | **Nanjing** | Former imperial capital in Jiangsu Province. |
 | 소주 | **Suzhou** | The party’s destination in Jiangsu Province. |
 | 동창 | **East Depot** | Imperial agency named by Hong Jin. |
+| 백연 | **Baek Yeon** | Commander of the Embroidered Uniform Guard. |
