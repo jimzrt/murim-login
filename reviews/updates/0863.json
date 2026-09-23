@@ -1,0 +1,85 @@
+{
+  "chapter": 863,
+  "files": {
+    "characters/Baek Yeon.md": "bec693938f13604e2348aa80bf775f714d08e32555a7c1f5d3a3790bd6544fa6",
+    "characters/Divine Physician.md": "0e3326fca99d3f38c37310b5f5d18ae397800c8eca055a73d9629a7ff8e92bb4",
+    "characters/Hong Jin.md": "2bcd816dc837fe6589743d6a3a1f3d62d24e3b622f57ff17d1baa3b6bd30d42f",
+    "characters/Hyuk Mujin.md": "9f62b220bc063907da21c59755051e64154f25a0d7635cdd09d004526653e9a5",
+    "characters/Jeong Hogun.md": "93fb55083982ad47bc5a31d1ce154234c106c31fcc193f3d7d825061e3ea8f40",
+    "characters/Jung Ho.md": "946b4931267575906abd3a868776b864a18f91d073faa769e7e2e2fe48d11f1a",
+    "characters/Prince Shangshan.md": "9a5ecad81ca1bd2323eace5db8aa00d908afedb179f9218b26329d8bc01a3716",
+    "docs/ADDRESS.md": "f292cd3ab98b8967e776f406c1177e41b8af8a031b04bb2abb8e4b84ca022ddd",
+    "docs/CONTEXT.json": "ebde6599174ada5ce3c371995bd49ad2d8bfaf8e4fd1048f92af6f0b1a9b94ac",
+    "docs/STATE.md": "da2a0eb6399b496a5a206cab17995214ad38cf639135645e369ed2cce0003619",
+    "summaries/beats/0863.md": "e03ab507c2466ace9f38320852e0dee338b52113d15867cbce65862acbc49e72"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "백연",
+        "kinship": "prince addressing an imperial military officer",
+        "normal_address": "Commander Baek Yeon",
+        "notes": "Addresses Baek Yeon by name and office while insisting that he answer.",
+        "speaker": "주표",
+        "speech_level": "formal and authoritative"
+      },
+      {
+        "addressee": "주표",
+        "kinship": "imperial officer addressing a prince",
+        "normal_address": "Your Highness",
+        "notes": "Uses 전하 when apologizing to and answering Prince Shangshan.",
+        "speaker": "백연",
+        "speech_level": "formal and deferential"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Prince Shangshan’s audience with the Emperor has been postponed until tomorrow by imperial command, with no reason given.",
+        "Baek Yeon agrees that Shangshan’s guests must not be harmed and takes responsibility for the subordinate who drew a sword before the prince."
+      ],
+      "plot": [
+        "Taekyung’s blunt counsel leads Prince Shangshan to assert his authority over Baek Yeon, securing a promise that his guests will be safe. Baek Yeon later announces that the Emperor has postponed the prince’s audience until the next day and escorts the party inside.",
+        "Baek Yeon privately tests Taekyung’s strength with his aura, then kills a subordinate who had drawn a sword before the prince and apologizes to Shangshan."
+      ],
+      "translation_decisions": [
+        "Render 황도 as “imperial capital.”"
+      ]
+    },
+    "chapter": 863,
+    "context": {
+      "active_continuity": [
+        "Prince Shangshan and his party are inside the imperial palace under Baek Yeon’s escort.",
+        "The Emperor postponed Prince Shangshan’s audience until the next day without giving a reason.",
+        "Baek Yeon has agreed that Shangshan’s guests must not be harmed, but how long that protection will hold is uncertain.",
+        "Baek Yeon privately tested Taekyung’s strength with his aura.",
+        "Hong Jin has unresolved history with former East Depot associates."
+      ],
+      "continuity_sources": [
+        862,
+        863
+      ],
+      "open_questions": [
+        "Why did the Emperor postpone Prince Shangshan’s audience?",
+        "What does the Emperor intend for Prince Shangshan?",
+        "What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?"
+      ],
+      "safe_through": 863,
+      "temporary_decisions": [
+        "Render 동창 as “East Depot.”",
+        "Render 금의위 as “Embroidered Uniform Guard” and 금위군 as “Imperial Guards.”"
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Personality:** Politically assured, he asserts imperial authority while presenting his demand to end a confrontation as formal deference.",
+        "path": "characters/Baek Yeon.md",
+        "replacement": "- **Personality:** Politically assured and controlled, he asserts imperial authority while tactically conceding the prince’s authority and enforcing protocol with ruthless decisiveness."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

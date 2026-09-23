@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I’d never even seen a household register with my name on it, and had no intention of getting one.",
+      "defect": "A 호패 is a personal identity tag, not a household register.",
+      "id": "F01",
+      "rationale": "The narrator is referring to an individual identification object that he has neither obtained nor plans to obtain.",
+      "replacement": "I’d never even seen an identity tag bearing my name, and had no intention of getting one.",
+      "severity": "major",
+      "source": "내 이름으로 된 호패는 구경도 못 해 봤고 앞으로도 만들 생각조차 없지만"
+    },
+    {
+      "confidence": 0.98,
+      "current": "And so had that all-powerful man who’d barely survived countless purges, remembering only the child who’d had to leave for Shanxi Province with the one eunuch who’d remained at his side.",
+      "defect": "The draft makes the all-powerful man the survivor of the purges; the child is the one who survived and left with the eunuch.",
+      "id": "F02",
+      "rationale": "The Korean modifiers describing survival and departure belong to 어린아이, the child remembered by the powerful man.",
+      "replacement": "Perhaps even the all-powerful man who remembered him only as a child who had barely survived countless purges and been forced to leave for Shanxi Province with the sole eunuch left at his side had underestimated him.",
+      "severity": "critical",
+      "source": "무수한 숙청 속에서 간신히 살아남아, 유일하게 곁에 남은 어느 환관과 산서성으로 떠나야 했던 어린아이의 모습만을 기억하고 있던 무소불위의 권력자도."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The aura he’d used to provoke me contained half his power.\n\nNo—less than half of that.",
+      "defect": "The draft assigns the measured power specifically to Baek Yeon and states that his provoking aura contained half his power. The source leaves the possessor unstated and corrects the estimate to less than a quarter.",
+      "id": "F03",
+      "rationale": "The Korean describes the limited force used in their contest without identifying whose total strength is being measured.",
+      "replacement": "Half of one’s strength.\n\nNo—not even a quarter of it had gone into that contest of auras.",
+      "severity": "major",
+      "source": "가진 힘의 절반.\n\n아니, 그 절반의 반도 되지 않는 기세로 벌인 신경전."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Commander Jeong.”",
+      "defect": "The address drops Jeong Hogun’s specific rank.",
+      "id": "F04",
+      "rationale": "천호 is the rank by which Baek Yeon addresses him, and the supplied profile identifies Jeong Hogun as a Thousand Captain.",
+      "replacement": "“Thousand Captain Jeong.”",
+      "severity": "major",
+      "source": "“정 천호.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I mean, they’re already drawing their swords in front of His Highness. What wouldn’t they do?",
+      "defect": "The plural, ongoing sword-drawing implies several guards are doing it now, rather than invoking the sword already drawn in the prince’s presence.",
+      "id": "F05",
+      "rationale": "The line points to an accomplished act as evidence of what might happen next.",
+      "replacement": "I mean, someone’s already drawn a sword in front of His Highness. What wouldn’t they do?",
+      "severity": "minor",
+      "source": "막말로 전하 앞에서 검도 뽑는 마당에 뭘 못 해."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Haah. Shit. Here we go again…….”",
+      "defect": "The draft replaces Hyuk Mujin’s blunt statement that he is screwed again with a milder, less specific reaction.",
+      "id": "F06",
+      "rationale": "또 좆 됐네 states his predicament directly and uses stronger profanity than the draft retains.",
+      "replacement": "“Ha. Fuck. I’m screwed again……”",
+      "severity": "minor",
+      "source": "“하, 시바. 또 좆 됐네…….”"
+    }
+  ],
+  "summary": "The draft has several actionable errors in object identity, subject attribution, rank, and the final assessment of the qi exchange.",
+  "version": 1
+}
