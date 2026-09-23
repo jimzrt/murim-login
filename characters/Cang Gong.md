@@ -1,6 +1,6 @@
 # Cang Gong (창공)
 
-- **Safe through:** Chapter 907
+- **Safe through:** Chapter 908
 - **Aliases:** None
 - **Role:** Cang Gong is a formidable martial artist who has taken the bestowed title Eastern Heaven Demon Lord and intends to take Jin Taekyung to the Lord of Heaven for recruitment.
 - **Personality:** Calculating and self-assured, he admires Taekyung's ability while believing the Lord of Heaven's power will make him submit.
