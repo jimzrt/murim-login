@@ -10,13 +10,13 @@ Not every process has to be perfect and beautiful, after all.
 
 Yeah, that’s all I’m saying.
 
-And behind the process that everyone—including me—had chosen to ignore, an excellent result finally revealed itself.
+And after a process that everyone—including me—had chosen to ignore, an excellent result finally emerged.
 
 *Cough! Splash!*
 
 Water spilled between the Dongting Fisherman’s cracked lips as he coughed.
 
-Cheongpung, who had shown a moving spirit of self-sacrifice against the Dongting Fisherman, opened his mouth with a strange expression.
+Cheongpung, who had made a tearful display of self-sacrifice for the Dongting Fisherman, spoke with a strange look on his face.
 
 “It feels weird.”
 
@@ -32,17 +32,17 @@ I’d never done it before, but even if I did, I wouldn’t feel the way Cheongp
 
 I subtly averted my eyes as I answered. Cheongpung nodded, then took a deep breath.
 
-“But I really don’t understand this.”
+“But I really don’t know about this.”
 
 “You’re excited. That’s all.”
 
-“It smelled strange, too. Like fish.”
+“It smelled strange too. Like raw fish.”
 
 *What a nose.*
 
 I remembered the Dongting Fisherman tearing into a raw fish before our fight and answered.
 
-“You’re imagining it.”
+“You imagined it.”
 
 “My stomach feels sick.”
 
@@ -52,23 +52,23 @@ I remembered the Dongting Fisherman tearing into a raw fish before our fight and
 
 “Nothing.”
 
-“My stomach just feels really nauseous. I want some sweets.”
+“I just feel really nauseous. I want some sweets.”
 
 Hyuk Mujin patted Cheongpung’s shoulder guiltily.
 
 “I’ll buy you some later, Young Hero Cheong.”
 
-“You will, Hyuk Mujin?”
+“You will, Martial Warrior Hyuk?”
 
-“Yes. I’ll find some way to feed you until your stomach bursts.”
+“Yes. I’ll find a way to feed you until you burst.”
 
-“But you’re poor too, Hyuk Mujin. Last time, I saw you picking up silver nyang at the ferry landing……”
+“But you’re poor too. I saw you picking up silver nyang at the ferry landing last time…”
 
 “My father is rich.”
 
 Hyuk Mujin only seemed poor because following me around had put him through all sorts of hardship. His family business was thriving more by the day, so he was still the son of a wealthy household.
 
-At the proud declaration of a second-generation rich kid planning to bleed his father dry, the other two men, who had been watching Cheongpung with sad eyes, joined in.
+At the proud declaration of a rich heir planning to bleed his father dry, the other two men watching Cheongpung with sorrowful eyes joined in.
 
 “Young Hero Cheong, I’ll contribute too, even if I have to beg for the money.”
 
@@ -80,7 +80,7 @@ At the proud declaration of a second-generation rich kid planning to bleed his f
 
 A pang of guilt stabbed at my heart.
 
-But it couldn’t be helped. It had definitely been his choice.
+But it couldn’t be helped. He had definitely volunteered.
 
 After doing my best to justify myself, I checked the Dongting Fisherman’s condition.
 
@@ -108,7 +108,7 @@ I gave them a brief summary of what had happened inside the underwater cave.
 
 After a brief silence, Hyuk Mujin spoke.
 
-“But the Dongting Fisherman is a master of incredible water arts.”
+“But the Dongting Fisherman is supposed to be a formidable master of water arts.”
 
 “That’s why I beat him on land. Turns out there was a cave in there.”
 
@@ -122,9 +122,9 @@ After a brief silence, Hyuk Mujin spoke.
 
 “The fact that he’s still breathing looks like a miracle.”
 
-“Considering what that old man has done, he deserves to die right now.”
+“Considering what that old man has done, he’d deserve it if he died right now.”
 
-“That’s true. Either way, it’s fortunate. I was worried about the Dongting Fisherman, of course, but I was also worried that Dark Heaven’s other bastards might be there with him.”
+“That’s true. Either way, this is a relief. I was worried about the Dongting Fisherman, of course, but I was also afraid some other Dark Heaven bastards might be with him.”
 
 That was something I had considered as well.
 
@@ -144,7 +144,7 @@ I’d been lucky. If the Dongting Fisherman had been working with another of Dar
 
 Of course, I wouldn’t have started a fight with such slim odds in the first place.
 
-“But shouldn’t this old man be waking up by now? Why isn’t he moving at all? Did he swallow too much water?”
+“But shouldn’t this old man be waking up by now? Why isn’t he moving? Did he swallow too much water?”
 
 At Gung Gibang’s question, Cheongpung, who was rinsing his mouth with lake water, answered.
 
@@ -160,7 +160,7 @@ Even if the seal on his Sleep Acupoint wore off and he woke from his forced slee
 
 “We’ve accomplished our objective, so we’re going back.”
 
-We were not the only ones who knew the location of this place. If Dark Heaven had caught wind of it and sent reinforcements, we could easily have ended up trapped instead.
+We weren’t the only ones who knew about this place. If Dark Heaven caught wind of what had happened and sent reinforcements, we could easily find ourselves trapped.
 
 *If a monster like the Western Heaven Demon Lord showed up, we might have to prepare ourselves to die.*
 
@@ -188,9 +188,9 @@ The old boatman had suddenly spoken. After hesitating for a moment, he continued
 
 *Rumble-rumble-rumble! Crash!*
 
-Thunder booming from all directions swallowed the rest of the boatman’s words.
+Thunder booming from all directions swallowed the rest of his words.
 
-He hunched his shoulders as though frightened, then pointed around us with anxious eyes.
+He hunched his shoulders in fear and gestured around us with anxious eyes.
 
 “Look. How can we possibly launch a boat in conditions like these?”
 
@@ -218,17 +218,17 @@ On top of that, we had Cheongpung, a Supreme Peak master, and Gung Gibang, who p
 
 No matter how bad the weather or how violent the current, it wasn’t enough to declare the journey impossible.
 
-The old boatman thought differently.
+The old boatman disagreed.
 
 “I’ve held an oar on Dongting Lake for more than forty years. Today was the first time I’ve ever ferried great masters like you, but it was also the first time I’ve ever launched a boat in weather this vicious.”
 
 The old boatman struggled to get the words out, his voice trembling.
 
-“All I know how to do is read the water and row a boat. I’m an unremarkable old man, but I’ve spent more than half my life on Dongting Lake. If it can’t be done, it can’t be done.”
+“Reading the water and rowing a boat are the only things I know how to do. I may be an unremarkable old man, but I’ve spent more than half my life on Dongting Lake. Some things simply can’t be done.”
 
 “Boatman.”
 
-Gung Gibang stepped forward, but before he could say anything, the boatman shook his head repeatedly.
+Gung Gibang stepped forward, but before he could say anything, the boatman shook his head.
 
 “I know what you’re going to say. But no matter how skilled you are, it’s clear you won’t make it very far.”
 
@@ -250,7 +250,7 @@ The answer to my own question came back immediately.
 
 *No.*
 
-*Even if I used my internal energy to perform Rising on Duckweed, Crossing Water, the distance left is too great. And that was before the weather became like this. The boatman is right. The boat won’t hold.*
+Even if I used my internal energy to perform Rising on Duckweed, Crossing Water, the remaining distance was too great. And that had been before the weather turned this bad. The boatman was right. The boat wouldn’t hold.
 
 Even at a glance, I could see patches where wood had been torn from the surface of the ferryboat pulled up onshore.
 
@@ -260,7 +260,7 @@ Like its white-haired owner, the ferryboat was showing its age, and today’s cu
 
 This wasn’t something I could solve by persuading the boatman.
 
-I could use the Water Rescue Worker Title’s effect, which still had plenty of time remaining, or try the same method of using the Inventory that I had used at Dongting Lake before.
+I could rely on the Water Rescue Worker Title, which still had plenty of time remaining, or try using the Inventory the way I had before on Dongting Lake…
 
 But no matter how I considered the situation, the risk was too great.
 
@@ -268,13 +268,13 @@ But no matter how I considered the situation, the risk was too great.
 
 At Hyuk Mujin’s voice, I raised my head and saw everyone looking at me.
 
-Under their gazes, I thought for a moment, then bit my lip.
+I thought for a moment under their gazes, then bit my lip.
 
 “What about the route leading in?”
 
 “Pardon?”
 
-I spoke clearly to the old boatman, who had hunched his shoulders at another peal of thunder.
+I spoke slowly and clearly to the old boatman, who had hunched his shoulders at another peal of thunder.
 
 “If it’s difficult to get out, wouldn’t it also be difficult to get in? Especially in conditions like these.”
 
@@ -292,7 +292,7 @@ I had just finished that thought and was about to give the order when—
 
 Someone nearby suddenly began to move.
 
-I and the others turned our heads toward its source and opened our eyes wide at the same time.
+The others and I turned toward the source and stared with wide eyes.
 
 *What the hell?*
 
@@ -304,7 +304,7 @@ Even as we watched, the trembling running through his body grew faster and stron
 
 Cheongpung muttered the words like a groan.
 
-As the person who had struck the Dongting Fisherman’s pressure points, I could not easily accept what was happening either.
+As the person who had struck the Dongting Fisherman’s pressure points, I couldn’t make sense of what was happening either.
 
 But my surprise lasted only a moment.
 
@@ -312,7 +312,7 @@ Before my mind could fully process the situation, my body was already moving.
 
 *Swish!*
 
-I shot forward like a gust of wind and thrust out my hand at top speed.
+I shot forward like a gust of wind and thrust out my hand.
 
 First, the Sleep Acupoint.
 
@@ -322,30 +322,30 @@ Finally, the Mute Acupoint.
 
 The instant I finished striking his pressure points again, I realized something I hadn’t expected.
 
-*His acupoint seals had never come undone in the first place. This was simply…… the Dongting Fisherman’s body reacting independently of his will.*
+*The seals were never broken in the first place. This is just… the Dongting Fisherman’s body reacting independently of his will.*
 
 I faltered in confusion.
 
 *Grab!*
 
-A hand seized my wrist, which had been left hanging in midair.
+A hand seized my wrist where it hung in midair.
 
 The Dongting Fisherman was staring at me, his eyes wide open.
 
-Unlike in the cave, his pupils looked like those of an ordinary person.
+Unlike in the cave, his eyes looked like those of an ordinary person.
 
-They were filled with fear.
+They were filled with terror.
 
-And then a hollow voice, empty as though his soul had left his body, pierced my ears.
+Then a hollow voice, empty as though his soul had fled his body, pierced my ears.
 
 “Run.”
 
 What?
 
-I had no time to form a question.
+I had no time to question him.
 
 I wasn’t given a chance to react.
 
 The moment every sense in my body went taut, an enormous roar erupted behind me.
 
-*Kaboom—!*
+*KABOOOOOM—!*
