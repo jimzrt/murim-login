@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "I stared blankly at their backs as they vanished into the distance. Then I slowly turned around, feeling a curtain of qi close around us from every direction.",
+      "defect": "The source establishes that the qi curtain surrounds the area in multiple layers (겹겹이). The current wording reduces this to a single curtain and loses that physical detail.",
+      "id": "F01",
+      "rationale": "겹겹이 에워싸는 describes layered enclosure, not merely one curtain closing from every direction.",
+      "replacement": "I stared blankly at their backs as they vanished into the distance. Then I slowly turned around, feeling a qi curtain wrap around us layer by layer.",
+      "severity": "minor",
+      "source": "Lines 251–255"
+    },
+    {
+      "confidence": 0.91,
+      "current": "But I would stake Hyuk Mujin’s balls on this: even after some forty years away from the Murim, Mungyeong’s blades had not dulled in the slightest.",
+      "defect": "“Some forty years” weakens the source’s quantity, which specifies more than forty years.",
+      "id": "F02",
+      "rationale": "사십여 년간 means forty-some years, i.e. over forty years, rather than an unspecified approximate forty.",
+      "replacement": "But I would stake Hyuk Mujin’s balls on this: even after more than forty years away from the Murim, Mungyeong’s blades had not dulled in the slightest.",
+      "severity": "minor",
+      "source": "Lines 271–275"
+    },
+    {
+      "confidence": 0.88,
+      "current": "I’d read online that repeating the last thing a woman said was the kind of conversational technique that made her heart flutter.",
+      "defect": "The current wording makes the woman the speaker of the repeated words and the singular person whose heart flutters. The source says that repeating someone’s last words is a technique that makes women flutter, without establishing that the words were spoken by a woman.",
+      "id": "F03",
+      "rationale": "마지막 말을 되묻는 게 여자들이 설레는 대화법 means asking back the last words is supposedly a conversational technique women find exciting; it does not specify a woman as the speaker of those words.",
+      "replacement": "I’d read online that repeating someone’s last words was the kind of conversational technique that made women’s hearts flutter.",
+      "severity": "minor",
+      "source": "Lines 311–315"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, but three minor source-fidelity defects remain: one dropped physical detail, one quantity shift, and one altered subject in a joke explanation.",
+  "version": 1
+}

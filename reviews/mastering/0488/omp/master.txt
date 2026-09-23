@@ -42,13 +42,13 @@ They were all Peak masters who had accumulated considerable internal energy, and
 
 Sure enough, a middle-aged Daoist dressed in Wudang robes emerged from the deep darkness.
 
-Judging by his age, the middle-aged Daoist was clearly their presiding chair. He opened his mouth toward us.
+Judging by his age, he seemed to be the leader of the group. He addressed us.
 
 “This area is closed after the Hour of the Dog. Please turn back—No, wait. Could that be the Blazing Flame Divine Dragon?”
 
 “What?”
 
-The middle-aged Daoist spotted me over Mungyeong’s shoulder and asked with wide eyes,
+The middle-aged Daoist spotted me over Mungyeong’s shoulder and widened his eyes.
 
 “Young Hero Jin Taekyung? No, Great Hero Jin Taekyung?”
 
@@ -86,7 +86,7 @@ I finally understood how the barber who shouted that the king had donkey ears mu
 
 But when I met the beast’s dark, sunken gaze, I forced a smile and answered, “We just happened to get to know each other.”
 
-“If you know each other, then precisely what kind of—”
+“If you know each other, then what exactly is your—”
 
 “We met in Sichuan and have been traveling together ever since. He isn’t a martial artist. He’s a medical apprentice.”
 
@@ -118,7 +118,7 @@ I answered with a straight face.
 
 The icy Sound Transmission stabbed into me.
 
-I had already turned halfway around, but I helplessly turned back.
+I had already turned halfway around, but I listlessly turned back.
 
 —Say we’re close.
 
@@ -140,7 +140,7 @@ The middle-aged Daoist looked back and forth between Mungyeong and me, then mutt
 
 *For fuck’s sake. What do you want me to do?*
 
-As the middle-aged Daoist stared at me with lukewarm eyes, Mungyeong’s Sound Transmission continued.
+As the middle-aged Daoist gave me a dubious look, Mungyeong’s Sound Transmission continued.
 
 —Come closer.
 
@@ -180,19 +180,19 @@ At last, the middle-aged Daoist seemed to make up his mind. His lips moved.
 
 —Perhaps I’m worrying over nothing, but if something is happening to you without your realizing it, blink three times. If nothing is wrong, blink twice.
 
-—I heard everything. Blink three times, and your body will be cut into three pieces.
+—I heard that. Blink three times, and I’ll cut your body into three pieces.
 
-*Mister! You bastard! This bastard is the Slaughter Saint! This bastard has a wiretap in his ear!*
+*Mister! This bastard! This bastard is the Slaughter Saint! This bastard has a wiretap in his ear!*
 
-But my shout never escaped, and I quietly blinked twice.
+But none of my screams escaped my mouth. I quietly blinked twice.
 
 No matter how suspicious they became, they would never guess that the young medical apprentice before them was a Supreme Peak master who had Returned to Youth.
 
 And objectively speaking, the Slaughter Saint was clearly an ally.
 
-—Are you sure?
+—Are you certain?
 
-Even if he asked, my answer had already been decided.
+No matter how he asked, there was only one answer I could give.
 
 Even among Supreme Peak masters, Jeok Cheongang and the Slaughter Saint had reached a different depth of enlightenment. They were biological wiretaps capable of eavesdropping on other people’s Sound Transmissions.
 
@@ -202,15 +202,15 @@ Though one of us seemed to have built up murderous intent instead of friendship.
 
 Still, something had been built.
 
-The middle-aged Daoist let out a quiet snort of laughter after hearing my Sound Transmission.
+The middle-aged Daoist let out a quiet laugh after hearing my Sound Transmission.
 
-—Indeed. How could anything happen to the Blazing Flame Divine Dragon of all people? Great Hero Jin, please forgive me for being so suspicious. I suppose the recent events have made me more sensitive than usual.
+—True. How could anything happen to the Blazing Flame Divine Dragon of all people? I hope you’ll forgive my suspicion, Great Hero Jin. The recent events must have made me more sensitive than usual.
 
-*No, you’re insensitive. Please get just a little more sensitive.*
+*No, you’re too oblivious. Please be just a little more sensitive.*
 
 But contrary to my hopes, the middle-aged Daoist spoke with a warm smile.
 
-“In that case, very well. If it’s Great Hero Jin and no one else, I can trust you. You may pass!”
+“In that case, very well. If it’s Great Hero Jin, I know I can trust you. You may pass!”
 
 “W-Wait a moment.”
 
@@ -218,7 +218,7 @@ But contrary to my hopes, the middle-aged Daoist spoke with a warm smile.
 
 “What?”
 
-“About half an hour. Will that be enough?”
+“Half an hour. Will that be enough?”
 
 *Of course it won’t, you idiot. Enough for what?*
 
@@ -228,7 +228,7 @@ But before I could answer, Mungyeong bowed politely with a bright smile.
 
 “…!”
 
-Why did that brief answer sound like a death threat to me?
+Why did that short answer sound like a death threat?
 
 The middle-aged Daoist failed to notice my twitching eyelids. He stroked his beard and smiled approvingly.
 
@@ -236,7 +236,7 @@ The middle-aged Daoist failed to notice my twitching eyelids. He stroked his bea
 
 “Of course, Daoist.”
 
-“Ha ha. Then I’ll return in half an hour.”
+“Ha ha. Then we’ll return in half an hour.”
 
 *Whoosh!*
 
@@ -286,7 +286,7 @@ Mungyeong stared at me with icy eyes.
 
 “You sound as though you resent being called out here.”
 
-“Gasp. No, I don’t.”
+“What? No.”
 
 “You certainly seem to.”
 
@@ -296,7 +296,7 @@ Mungyeong stared at me with icy eyes.
 
 “…I’ll carefully take those two words back. I should’ve watched my mouth. I really don’t learn until there’s a coffin in front of me.”
 
-“See a coffin?”
+“A coffin?”
 
 “…Please spare me.”
 
@@ -312,7 +312,7 @@ I could almost see Yama, who had just clocked out on time, excitedly rushing bac
 
 *Seriously, what the hell is this? Why did he call me out here?*
 
-Had he really called me here again because I had spoken casually to him last time?
+Had he really summoned me because I’d spoken casually to him last time?
 
 If I knew what this was about, I could at least put my mind at ease. But I couldn’t think of any other reason, and the frustration was driving me insane.
 
@@ -322,7 +322,7 @@ Mungyeong regarded me with displeasure, then suddenly furrowed his brow.
 
 “What?”
 
-“Have you perhaps not heard yet?”
+“Have you not heard yet?”
 
 “Heard what?”
 
@@ -356,7 +356,7 @@ Mungyeong stared at me with eyes full of anger and regret, then looked up at the
 
 “…”
 
-*For fuck’s sake. Even so, calling someone a blockhead right to his face was too much. That was going too far...*
+*For fuck’s sake. Calling someone a blockhead right to his face was too much. No matter how I looked at it, that was going too far…*
 
 *Huh?*
 
