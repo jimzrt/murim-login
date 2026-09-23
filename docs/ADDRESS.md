@@ -1317,3 +1317,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 샤오 쉔 | 스켈레톤 킹 | younger allied companion to senior ally | Mr. King | respectful-polite | Xiao Shen uses “Mr. S” before correcting himself to “Mr. King.” |
 | 샤오 쉔 | 스켈레톤 킹 | allied Hunter to Jin Taekyung's friend | Teacher King | respectful and eager | Xiao Shen says he will do anything the King asks. |
 | 척 헤이글 | 진태경 | multinational-force commander to allied Alliance Leader | Sleeping Beauty | teasing and familiar | Chuck greets Jin with a mocking reference to his late arrival. |
+| 샤오 쉔 | 진태경 | younger Hunter who regards Jin as an older brother | Mr. Jin | excited and respectful | Xiao Shen calls Jin 진 선생님 when they reunite. |
+| 척 헤이글 | 진태경 | American operative allied with Jin | you | familiar and conversational | Hagel uses 자네 while asking Jin to manage Xiao Shen’s enthusiasm. |
+| 스켈레톤 킹 | 진태경 | close ally and friend | you | casual and familiar | The Skeleton King speaks to Jin informally during their reunion. |

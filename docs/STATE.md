@@ -1,28 +1,28 @@
 # Translation State
 
-- Last completed: 792
-- Next chapter: 793
-- Current block: 790–794 (3/5)
-- Latest translation: `translations/0792.md`
-- Latest summary: `summaries/beats/0792.md`
-- Safe profiles through: chapter 792
+- Last completed: 793
+- Next chapter: 794
+- Current block: 790–794 (4/5)
+- Latest translation: `translations/0793.md`
+- Latest summary: `summaries/beats/0793.md`
+- Safe profiles through: chapter 793
 
 ## Current Block
 
-- The Skeleton King senses death qi and uncovers the bodies of twenty members of the missing search squad, then realizes a Monster Wave is approaching. He orders Xiao Shen to call for stronger reinforcements and defend himself, summons an undead force from the desert, and sends skeletal eagles to search for something bearing a human scent. As he fights the wave, the Skeleton King wonders what trace the unknown killer left behind.
-- At the main base, Jin Taekyung arrives by aircraft. Chuck Hagel, an S-rank Hunter and former U.S. Secretary of Defense, has been chosen to lead the multinational force. When a soldier reports an urgent support request caused by a Monster Wave, Jin asks where it is.
+- Jin arrives at the desert site and reunites with Xiao Shen and the Skeleton King, who has defeated the Monster Wave with more than a thousand undead and no casualties. The Skeleton King says something he could not identify appeared and vanished without a trace. He shows Jin and the others twenty desiccated bodies; their deaths resemble Siegfried Wassmann’s death a month earlier.
+- Jin realizes that Michael Silbert was not the one who visited Siegfried on the day he died: the System’s still-incomplete [An Unknown Death] Quest contradicts the assumption that Michael killed him. Back at the main force, Jin confronts Huginn and asks whether The Prophet killed Siegfried; the chapter ends before Huginn answers.
 
 ## Open Questions
 
-- Can Jin find and eliminate The Prophet before the Main Quest's time limit expires?
-- What killed the search squad, and what trace is the Skeleton King investigating?
-- Will the Skeleton King and Xiao Shen withstand the Monster Wave, and where is it attacking?
-- When will The Prophet's attack begin, and what will the Cataclysm involve?
+- What caused the deaths of Siegfried Wassmann and the twenty people in the desert, and who was responsible?
+- Did The Prophet kill Siegfried Wassmann?
+- What disappeared from the desert without leaving a trace, as described by the Skeleton King?
+- Can Jin find and eliminate The Prophet before the Main Quest’s time limit expires?
 
 ## Exceptional Decision
 
 - Keep magical power distinct from mana.
-- Do not identify the unknown killer or the human-scented trace until revealed.
+- Do not identify the cause of the deaths or the vanished presence until revealed.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

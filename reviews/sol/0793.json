@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“H-how could someone as humble as Mr. Jin come all the way to a place this precious?”",
+      "defect": "“Humble” turns Xiao Shen’s accidental insult into a compliment, weakening Jin’s correction.",
+      "id": "F01",
+      "rationale": "Xiao Shen mistakenly calls Jin 누추한 rather than calling the blood-soaked place shabby.",
+      "replacement": "“H-how could someone as shabby as Mr. Jin come all the way to a place this precious?”",
+      "severity": "major",
+      "source": "어, 어떻게 진 선생님처럼 누추하신 분이 이 귀한 곳까지!"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The combination of the Talullah effect and summertime sentimentality nearly took my breath away. I was relieved to see Xiao Shen, who’d just run over like a sprinter, if only by comparison.",
+      "defect": "“Talullah effect” leaves the specific awkwardness of having insulted someone’s dead companion inaccessible to readers unfamiliar with the Korean meme.",
+      "id": "F02",
+      "rationale": "탈룰라 invokes that social blunder; the reference gives the dog exchange its comic sting.",
+      "replacement": "The combination of the Talullah[^1] moment and summertime sentimentality nearly took my breath away. I was relieved to see Xiao Shen, who’d just run over like a sprinter, if only by comparison.\n\n[^1]: A Korean internet meme about awkwardly backpedaling after unwittingly insulting someone’s loved one.",
+      "severity": "minor",
+      "source": "탈룰라와 여름 감성이 합쳐지니 숨이 턱 막힌다. 지금 막 단거리 육상선수처럼 달려온 샤오 쉔이 반갑게 느껴질 정도였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“So this is what it means to make monsters fight monsters.”\n\n“What are you talking about?”",
+      "defect": "The draft conveys the tactic but loses Jin’s invented four-syllable idiom and the Skeleton King’s repetition of it.",
+      "id": "F03",
+      "rationale": "The made-up phrase is the immediate subject of the Skeleton King’s question and Jin’s ensuing claim that it is an old idiom.",
+      "replacement": "“So that’s *i-mon-je-mon*—monsters against monsters.[^2]”\n\n“*I-mon-je-mon*? What are you talking about?”\n\n[^2]: Jin twists a Korean four-character idiom about using one enemy against another, replacing its middle syllables with “monster.”",
+      "severity": "minor",
+      "source": "“이게 바로 이몬제몬이라는 건가.”\n\n“이몬제몬? 무슨 소리냐.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He was a Grand Mage. And unlike Magic Johnson, a War Mage specializing in combat magic, he was a classic scholar.",
+      "defect": "Immediately after naming Michael as the suspected killer, “He” can make Michael appear to be the scholarly Grand Mage.",
+      "id": "F04",
+      "rationale": "The source describes Wassmann’s expertise to explain why his hideout would have been protected by barriers.",
+      "replacement": "Siegfried Wassmann was a Grand Mage—and unlike Magic Johnson, a War Mage specializing in combat magic, he was a scholar through and through.",
+      "severity": "major",
+      "source": "그는 대마도사다. 그것도 전투 마법에 특화된 워 메이지(War Maje)인 매직 존슨과는 달리, 전형적인 학구파에 속한 대마도사."
+    },
+    {
+      "confidence": 0.99,
+      "current": "**[An Unknown Death]**",
+      "defect": "Square brackets remain around a title inside a framed System panel.",
+      "id": "F05",
+      "rationale": "The binding Markdown rule uses the System blockquote, not square brackets, to identify panel content.",
+      "replacement": "**An Unknown Death**",
+      "severity": "minor",
+      "source": "[알 수 없는 죽음]"
+    },
+    {
+      "confidence": 0.95,
+      "current": "To me, the Main Quest [Cataclysm] was the root I needed to pull out right away. Everything else was just a branch.",
+      "defect": "The Quest title retains square brackets around a UI term in prose.",
+      "id": "F06",
+      "rationale": "The binding Markdown rule prohibits enclosing UI terms in square brackets.",
+      "replacement": "To me, the Cataclysm Main Quest was the root I needed to pull out right away. Everything else was just a branch.",
+      "severity": "minor",
+      "source": "내게 있어 [격변]이라는 메인 퀘스트는 당장 뽑아내야 할 뿌리였고, 그 밖의 모든 것은 단순한 잔가지에 불과했으니까."
+    }
+  ],
+  "summary": "The draft preserves the main events, but obscures two jokes, leaves a consequential pronoun ambiguous, and retains prohibited brackets around Quest titles.",
+  "version": 1
+}
