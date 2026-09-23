@@ -18,11 +18,11 @@ The tone sounded, but he couldn’t bring himself to speak.
 
 What could he say to his wife, who was carrying their second child, and their child, who had only just turned four?
 
-And just as the middle-aged man—Go Se-won—was finally about to speak after much thought…
+The middle-aged man—Go Se-won—had finally decided what to say when the building gave a faint shudder.
 
 Rumble…
 
-A faint vibration shook the entire building. At the same time, the voice of a security-team member waiting outside seeped through the crack in the door.
+A security-team member’s voice came through the gap beneath the door.
 
 “Team Leader, I think you need to come out.”
 
@@ -40,7 +40,7 @@ Go Se-won ended the call.
 
 *Then I suppose I don’t even deserve to leave them my last words.*
 
-Go Se-won muttered bitterly to himself before opening the door. A security-team member with a hard, expressionless, familiar face was waiting for him.
+With that bitter thought, he opened the door. A security-team member with a familiar, hard, expressionless face stood waiting outside.
 
 “I’m sorry. It’s just that outside—”
 
@@ -108,7 +108,7 @@ Ceilings said to withstand bombardment collapsed like dominoes, and the forces w
 
 Whenever the hologram wavered, unable to keep pace with the flame, Jin Taekyung was already on another floor, bringing down new enemies.
 
-“St-Stop him…!”
+“St-stop…!”
 
 *KABOOOOOM!*
 
@@ -140,7 +140,7 @@ Urgent reports flew from every direction. The executives who had seemed so relax
 
 Go Se-won answered without looking away from the hologram.
 
-“Go ahead, Executive Director Choi.”
+“Of course, Executive Director Choi.”
 
 “I’ve been wondering for a while…”
 
@@ -162,7 +162,7 @@ The irony was that knowing it made him sick with himself.
 
 *With this, I’ve repaid everything I owed you. Whether I live or die, it has nothing to do with you anymore.*
 
-Go Se-won muttered those words in his heart toward the person who still refused to appear, then firmly drew his sword.
+Addressing the man who still had not appeared, Go Se-won drew his sword.
 
 *Shing.*
 
@@ -202,7 +202,7 @@ His quiet command reached the hundred Hunters around him.
 
 Rumble! KABOOM!
 
-With a deafening roar accompanied by a tremendous vibration, one of the world’s most famous skyscrapers shook.
+A tremendous shock shook one of the world’s tallest skyscrapers.
 
 An uninvited guest had set foot on the top floor of an impregnable fortress no one had ever been able—or dared—to challenge.
 
@@ -228,7 +228,7 @@ The answer came almost at once.
 
 At Lee Jungryong’s national funeral, a new Head of Security had stood beside Go Jun like a shadow. This was him.
 
-The name I had heard in passing back then was probably…
+The name I’d heard in passing back then was…
 
 “Go Se-won.”
 
@@ -254,7 +254,7 @@ Go Se-won wasn’t the only one waiting on the top floor. Roughly a hundred Ares
 
 *Fwoosh!*
 
-The hall filled with blue, red, and brilliant light.
+Powerful qi churned. Blue, red, and brilliant white light filled the hall.
 
 Their attacks were stronger and their barrage denser than anything I’d faced on the way up. I stepped forward alone.
 
@@ -278,7 +278,7 @@ The intense heat of Scorching Yang Qi ignored even elemental affinities. As atta
 
 *KABOOM!*
 
-The Tower Shields tilted diagonally after blocking the aftermath of the Magic without suffering the slightest damage.
+The shields took a tremendous impact without shifting an inch. They tilted diagonally, having blocked the backlash of the Magic without the slightest damage.
 
 At the same moment, twenty figures sprang up, using the wall of steel as a foothold.
 
@@ -290,7 +290,7 @@ I understood at once. Everyone gathered here was among Ares Guild’s elite. But
 
 Their movements were spare and swift. Their calm, impassive eyes had the look of practiced killers.
 
-More than twenty weapons stabbed and slashed at the speed of light, flashing brightly.
+Twenty weapons flashed as they thrust and slashed with blinding speed.
 
 *Screeeeeech!*
 
@@ -330,7 +330,7 @@ It struck the enemy behind him, who had been about to use his comrade’s body a
 
 “Graaaaaah!”
 
-Before the man whose heart meridians had been severed throughout his body could even lower his head, I was already moving toward another enemy.
+Blood burst from his seven apertures. Before he could lower his head, the strands of his heart meridian severed throughout his body, I was already moving toward someone else.
 
 *Crack!*
 
@@ -352,9 +352,9 @@ As when the Black Hunters had attacked Uncle Kkeokjeong, I had no intention of s
 
 *I have to show them here. Make sure this never happens again.*
 
-I had also been a modern man born in the twenty-first century, someone who had lived in a civilized society where reason and the law existed.
+I had been a Hunter long before I became a martial artist of Murim. I was also a modern man, born in the twenty-first century and raised in a civilized society with reason and laws.
 
-Unlike Lee Jungryong, whom I had been able to eliminate amid chaos and destruction, Go Jun had been protected by a fence built from the two-syllable Korean term for the rule of law.
+That was why I hadn’t been able to eliminate Go Jun in Sichuan. Unlike Lee Jungryong, whom I could have eliminated amid chaos and destruction, Go Jun had stood behind the protection of the rule of law.
 
 But now none of that mattered.
 
@@ -380,7 +380,7 @@ A faint, stealthy sound cut through the air.
 
 *Whoosh!*
 
-I turned around and slammed my hands together as though in prayer.
+I spun and clapped my palms together.
 
 *KABOOM!*
 
@@ -410,7 +410,7 @@ He tried to, anyway.
 
 *Tap-tap-tap! BOOM!*
 
-A flowing grappling technique followed seamlessly.
+I flowed into a grappling technique, and another burst of heat drove him back. He extended his hand.
 
 *Fwish!*
 
@@ -434,15 +434,15 @@ He sucked in a breath.
 
 This time the pain broke through his composure. Blood ran between his lips, and his voice shook.
 
-“Take it easy… and finish it.”
+“Enough… Finish it.”
 
-“That’s the plan. After I hear where that bastard Go Jun is.”
+“I will. After you tell me where that bastard Go Jun is.”
 
 “What if the confidentiality clause in my employment contract says I can’t?”
 
 I gripped his collarbone.
 
-“Then it definitely won’t end with just taking it easy.”
+“Then ‘enough’ won’t be where it ends.”
 
 Go Se-won gave a weak laugh.
 
@@ -450,7 +450,7 @@ Go Se-won gave a weak laugh.
 
 Unfortunately, he was right. I’d fought my way through an endless pack of hunting dogs and wrecked the inside of the building, but Go Jun had never appeared.
 
-If there was one thing I had gained from all the information I had collected so far, it was the identity of the secret area where he was staying.
+The one useful thing I’d learned was that he had a secret place to stay.
 
 “Area A. I think you know where it is.”
 
@@ -476,15 +476,15 @@ What he said next caught even me off guard.
 
 “…You want me to kill you?”
 
-Even as pain wracked his body, his eyes remained calm, reflecting my face.
+Go Se-won gave a small nod. Pain made his body tremble, but his eyes remained calm as they met mine.
 
 “It’s too late to go back to how things were. Do it cleanly. Right here. That’s all.”
 
 “……”
 
-“I think you understand.”
+“You understand.”
 
-Breathing heavily, Go Se-won raised a trembling finger and pointed somewhere.
+Breathing hard, he raised a trembling finger and pointed.
 
 When I finally learned where Area A was, I stopped short.
 
@@ -500,7 +500,7 @@ I stared into the empty air. After a moment, an unfamiliar sensation stirred in 
 
 I couldn’t see it. But I could feel another space there, surrounded by an immense, carefully concealed energy.
 
-It was hidden so perfectly that it could only be detected by someone who recognized its existence.
+It was hidden so perfectly that I would never have noticed it without knowing it existed.
 
 Go Se-won had kept his end of the bargain. His lips, turning blue, began to move.
 
@@ -534,15 +534,13 @@ Go Se-won hesitated, then answered with a sigh.
 
 “Turns out the job doesn’t suit me. Especially… my boss is a fucking asshole.”
 
-“Yeah. Got it.”
+“Yeah. I understand.”
 
 Did Go Se-won know that answer had decided his fate?
 
 I quietly drew up my internal energy.
 
-Not toward my fist.
-
-Toward my legs.
+Not into my fist. Into my legs.
 
 “You—”
 

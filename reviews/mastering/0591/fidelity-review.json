@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I had also been a modern man born in the twenty-first century, someone who had lived in a civilized society where reason and the law existed.",
+      "defect": "The source first says the narrator had been a Hunter long before becoming a Murim martial artist. That sentence is missing, removing an explicit part of his identity and the contrast that leads into his explanation.",
+      "id": "F01",
+      "rationale": "The source explicitly states both that he was a Hunter before becoming a Murim martial artist and that he was a modern man; the assembled copy retains only the latter.",
+      "replacement": "I had been a Hunter long before I became a martial artist of the Murim. I had also been a modern man born in the twenty-first century, someone who had lived in a civilized society where reason and the law existed.",
+      "severity": "minor",
+      "source": "Lines 365–366"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A flowing grappling technique followed seamlessly.",
+      "defect": "The next physical beat is omitted: heat erupts again, and Go Se-won staggers backward and reaches out before the blade emerges from his gauntlet.",
+      "id": "F03",
+      "rationale": "The source explicitly includes the renewed burst of heat and Go Se-won’s backward movement and reaching gesture between the grappling technique and the blade attack.",
+      "replacement": "A flowing grappling technique followed seamlessly. Then heat erupted once more, and Go Se-won staggered backward and reached out.",
+      "severity": "minor",
+      "source": "Line 423"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even as pain wracked his body, his eyes remained calm, reflecting my face.",
+      "defect": "The source says Go Se-won gives a small nod before the description of his eyes. That physical response is omitted.",
+      "id": "F04",
+      "rationale": "The source explicitly states that he nods, a small but concrete action beat.",
+      "replacement": "Go Se-won gave a small nod. Even as pain wracked his body, his eyes remained calm, reflecting my face.",
+      "severity": "minor",
+      "source": "Line 491"
+    },
+    {
+      "confidence": 0.88,
+      "current": "“I picked a bad day. I was planning to hand in my resignation soon.”",
+      "defect": "“I picked a bad day” makes his misfortune sound like a day he chose. The Korean means he got caught up with the wrong person or had bad luck, followed by his plan to resign.",
+      "id": "F05",
+      "rationale": "The line’s joke is that he was about to resign but got caught in this situation; the source does not say he chose the wrong day.",
+      "replacement": "“I got unlucky. I was planning to hand in my resignation soon.”",
+      "severity": "minor",
+      "source": "Line 471"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but the assembled copy drops a character detail and several physical beats preserved in the source and accepted baseline.",
+  "version": 1
+}
