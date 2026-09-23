@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "In the slums of Paris, teeming with mayflies and gangs.",
+      "defect": "“Mayflies” denotes a specific aquatic insect, whereas 날파리 here means the small flies or gnats infesting the slums.",
+      "id": "F01",
+      "rationale": "The replacement preserves the source's image of filthy, insect-ridden slums without introducing the wrong insect.",
+      "replacement": "In the slums of Paris, teeming with flies and gangs.",
+      "severity": "minor",
+      "source": "날파리와 갱단으로 들끓던 파리의 빈민가에서"
+    },
+    {
+      "confidence": 0.96,
+      "current": "All they had wanted was a friendly two-shot of two heroes—one old enough to be the other’s father—standing with their arms around each other’s shoulders, along with a few words of praise.",
+      "defect": "덕담 means warm or well-wishing remarks, not necessarily praise directed at someone.",
+      "id": "F02",
+      "rationale": "The reporters expected a conventional cordial exchange, and “warm words” preserves that pragmatic register.",
+      "replacement": "All they had wanted was a friendly two-shot of two heroes—one old enough to be the other’s father—standing with their arms around each other’s shoulders, along with a few warm words.",
+      "severity": "minor",
+      "source": "그들이 원했던 것은 아버지와 아들뻘인 두 영웅이 어깨동무를 하고 찍은 다정한 투 샷과 덕담 몇 마디 정도였으니까."
+    },
+    {
+      "confidence": 1.0,
+      "current": "- Ah, No Jaehun, what the hell is that crazy bastard doing? The gang isn’t showing up, and he’s gone completely radio silent.",
+      "defect": "갱 is the gaming term “gank,” not “gang,” and 잠수 타다 in this match context means going AFK rather than becoming unreachable by ordinary communication.",
+      "id": "F03",
+      "rationale": "The source describes No Jaehun failing to respond to a requested in-game gank and going AFK; the draft obscures both game actions.",
+      "replacement": "- Ah, what the fuck is that crazy bastard No Jaehun doing? I called for a gank, but he never came, and now he’s gone AFK as hell.",
+      "severity": "major",
+      "source": "아, 노재헌 이 미친 새끼 뭐 하냐. 오라는 갱은 안 오고 잠수 오지게 타네."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Dozens of television channels and internet streaming sites broadcasting live around the world caught fire,",
+      "defect": "“Caught fire” reads as literal combustion in English rather than the source's figurative sense that activity and attention suddenly surged.",
+      "id": "F04",
+      "rationale": "The replacement preserves the figurative escalation while avoiding an unintended claim that the broadcasters physically burned.",
+      "replacement": "Dozens of television channels and internet streaming sites broadcasting live around the world lit up with activity,",
+      "severity": "minor",
+      "source": "전 세계에서 생중계되는 수십 개의 TV 채널과 인터넷 스티리밍 사이트에 불이 붙었고"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The image of Jin Taekyung with a grim expression and Michael Silbert speaking one step ahead of him was reflected in countless eyes beyond the camera lenses.",
+      "defect": "“Speaking one step ahead” turns Michael's physical position into an apparent description of how he is speaking.",
+      "id": "F05",
+      "rationale": "한 발자국 앞에서 specifies that Michael is physically one step in front of Jin while continuing his speech.",
+      "replacement": "The image of grim-faced Jin Taekyung and Michael Silbert, standing one step in front of him as he continued speaking, passed through the camera lenses and into countless eyes.",
+      "severity": "major",
+      "source": "굳은 얼굴을 한 진태경과 그보다 한 발자국 앞에서 말을 이어가는 미카엘 실베르트의 모습이 카메라 렌즈를 넘어 무수히 많은 눈동자에 비치고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "After pouring out that speech, Michael Silbert swallowed.\n\nNo—the people watching him did the same.",
+      "defect": "The draft omits the object of 숨을 삼켰다 and consequently makes both Michael and the audience simply “swallow,” losing the shared breath-catching pause.",
+      "id": "F06",
+      "rationale": "숨을 삼키다 here marks the tense intake or suspension of breath immediately before the announcement.",
+      "replacement": "After pouring out that speech, Michael Silbert caught his breath.\n\nNo—everyone watching him did the same.",
+      "severity": "minor",
+      "source": "한바탕 말을 쏟아낸 미카엘 실베르트는 숨을 삼켰다. 아니, 그의 모습을 바라보던 모두가 마찬가지였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The cameras shook violently, and the reporters’ sighs mixed into the microphones before being broadcast in their entirety.",
+      "defect": "잘게 흔들리고 describes a fine or slight trembling, not violent shaking.",
+      "id": "F07",
+      "rationale": "The source depicts the camera operators' small involuntary tremors under shock; “violently” exaggerates the physical motion.",
+      "replacement": "The cameras trembled slightly, and the reporters’ sighs mixed into the microphones before being broadcast in their entirety.",
+      "severity": "minor",
+      "source": "카메라가 잘게 흔들리고 마이크에 섞여든 기자들의 탄식이 고스란히 전파를 타고 전해졌다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The eyes of those staring at Michael Silbert, who had foreseen the disaster either through a screen or with their own eyes, trembled.",
+      "defect": "The relative clause grammatically says Michael foresaw the disaster through either a screen or his own eyes. In the source, the audience is viewing Michael either on a screen or in person, while Michael is the one predicting the disaster.",
+      "id": "F08",
+      "rationale": "The replacement restores the correct subjects of both perception and prediction.",
+      "replacement": "The eyes of those staring at Michael Silbert—whether through a screen or with their own eyes—trembled at his prediction of disaster.",
+      "severity": "major",
+      "source": "화면으로, 혹은 두 눈으로 재앙을 예견한 미카엘 실베르트를 응시하는 사람들의 눈빛이 파르르 떨렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At those words, a silent wave swept across the crowd.",
+      "defect": "보이지 않은 means “unseen” or “invisible,” not “silent”; the draft changes the sensory quality of the metaphor.",
+      "id": "F09",
+      "rationale": "The source describes an invisible reaction propagating through the audience.",
+      "replacement": "At those words, an unseen wave swept across the crowd.",
+      "severity": "minor",
+      "source": "마침내 흘러나온 그 한 마디에, 보이지 않은 파동이 좌중을 휩쓸었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Thirty years later, the remnants of the old heroes remained under the name International Hunter Federation.",
+      "defect": "The draft presents “thirty years later” as a bare narrative transition and drops both the present-time anchor 지금 and the approximation in 삼십여 년.",
+      "id": "F10",
+      "rationale": "The narration is describing the current institution after approximately thirty years have elapsed, not jumping the story forward by an exact thirty years.",
+      "replacement": "Now, roughly thirty years later, the remnants of those old heroes remained under the name International Hunter Federation.",
+      "severity": "minor",
+      "source": "삼십여 년이 흐른 지금, 국제 헌터 연맹이라는 이름으로 남아 있는 옛 영웅들의 잔재."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The German Federal Army and police officers controlling them.",
+      "defect": "독일 연방군 refers to Germany's federal armed forces as a whole, not specifically its army branch.",
+      "id": "F11",
+      "rationale": "“German Armed Forces” preserves the source's institutional scope without narrowing it to the army.",
+      "replacement": "The German Armed Forces and police officers controlling them.",
+      "severity": "minor",
+      "source": "그들을 통제하는 독일 연방군과 경찰들."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A cunning warlord wearing a hero’s mask was looking toward me with a smile.",
+      "defect": "“Warlord” adds a military role absent from 간웅, which characterizes Michael as a capable but treacherous and unscrupulous schemer.",
+      "id": "F12",
+      "rationale": "The replacement preserves Jin's condemnation of Michael's deceitful ambition without inventing a title or role.",
+      "replacement": "An unscrupulous schemer wearing a hero’s mask was looking toward me with a smile.",
+      "severity": "major",
+      "source": "영웅의 탈을 쓴 간웅(奸雄)이 이쪽을 바라보며 웃는다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but contains one gaming-mechanics mistranslation, several altered physical or perceptual details, and localized terminology and register issues.",
+  "version": 1
+}

@@ -1269,3 +1269,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 시몬 | 보도 국장 | subordinate reporter to news director | News Director | internal, profane, and insulting | Simon curses the news director in a private memo before deleting it. |
 | 미카엘 | 진 | public rival and hostile adversary | Jin | warmly familiar in public and quietly coercive in private | Michael greets Jin warmly before the cameras while privately acknowledging their adversarial relationship. |
 | 진태경 | 미카엘 실베르트 | principal adversary | Michael Silbert | hostile, blunt, and insulting in private | Jin names Michael directly while accepting the public handshake and privately rejecting his pretense. |
+| 미카엘 | 진태경 | rival_to_target | you | quietly polite but threatening | Michael warns Jin to reconsider for the sake of Jin's monster friend. |
+| 진태경 | 미카엘 | target_to_rival | Go fuck yourself | blunt and profane | Jin rejects Michael's proposal to resurrect the World Hunter Federation. |

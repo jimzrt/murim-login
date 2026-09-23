@@ -1,32 +1,32 @@
 # Translation State
 
-- Last completed: 762
-- Next chapter: 763
-- Current block: 760–764 (3/5)
-- Latest translation: `translations/0762.md`
-- Latest summary: `summaries/beats/0762.md`
-- Safe profiles through: chapter 762
+- Last completed: 763
+- Next chapter: 764
+- Current block: 760–764 (4/5)
+- Latest translation: `translations/0763.md`
+- Latest summary: `summaries/beats/0763.md`
+- Safe profiles through: chapter 763
 
 ## Current Block
 
-- Michael Silbert arrives in Munich aboard Odin Guild's private aircraft and orders Huginn to leave the gathered reporters in place because he intends to meet Jin Taekyung publicly. Huginn recognizes that public opinion has swung decisively toward Jin after the Leviathan incident and Munich Monster Wave, granting him an invisible pardon that Michael has never obtained.
-- Michael meets Jin before the cameras, and their apparently cordial handshake becomes a silent contest of strength that reveals Michael possesses unexpectedly immense physical power. During their private exchange, Michael declares that he came to Munich to make an announcement capable of turning the entire world upside down, then faces the cameras to deliver the unexpected bombshell.
+- Michael Silbert announces to the world that magical power has crossed its critical point and that a second war, possibly a second Great Cataclysm, is imminent. He claims the original war may have been only a ceasefire and casts doubt on whether Demon King Asmodeus was truly erased.
+- Michael proposes resurrecting the World Hunter Federation as an international organization beyond ordinary laws and restrictions. Jin recognizes the historical federation as the organization that followed Cheon Taemin during the Great Cataclysm, rejects Michael's proposal with profanity, and realizes that Michael intends to use the crisis to build a kingdom for himself. Michael then warns Jin to reconsider for the sake of his monster friend.
 
 ## Open Questions
 
-- What is the world-changing announcement Michael Silbert is about to make?
-- What exactly does the Main Quest: Cataclysm require, and will it end only when Michael Silbert is ruined or killed?
-- Can Jin prove that Michael Silbert lured Leviathan with an unrefined S-rank Magic Gem?
-- What did Leviathan mean by saying that humanity and the world awakened it?
-- Who is the unidentified figure in Cape Town, and which friend is waiting?
+- Is a second Great Cataclysm truly imminent, and what caused global magical power to cross its critical point?
+- Was Demon King Asmodeus actually erased during the original victory?
+- What does Michael know about Jin's monster friend, and how does he intend to use that knowledge?
+- Can Jin prevent Michael from reviving the World Hunter Federation and turning it into a personal kingdom?
+- What exactly does the Main Quest: Cataclysm require before it can end?
 
 ## Exceptional Decision
 
-- Render 망가진 신체 as Broken Body and 바다의 희망 as Hope of the Sea.
-- Render 격변 as Cataclysm in the Main Quest title, distinct from 대격변 as Great Cataclysm.
-- Render 미노타우로스 로드 as Minotaur Lord, 우란 as Uran, 위버멘쉬 as Übermensch, and 위버 as Über when used as the Skeleton King's name.
-- Render 화룡신창 일초식 and 화룡일미 as Fire Dragon Divine Spear, first form, and Fire Dragon's Single Tail.
-- Render 최 팀장 as Team Leader Choi.
+- Render 두 번째 전쟁 as second war and the implied recurrence of 대격변 as second Great Cataclysm.
+- Render 세계 헌터 연맹 as World Hunter Federation and 국제 헌터 연맹 as International Hunter Federation, keeping the historical and surviving organizations distinct.
+- Render 좆 까 as Go fuck yourself to preserve Jin's blunt, profane rejection.
+- Render 간웅 as unscrupulous schemer.
+- Continue rendering 마력 as magical power, distinct from mana.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
