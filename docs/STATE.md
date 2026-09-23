@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 837
-- Next chapter: 838
-- Current block: 835–839 (3/5)
-- Latest translation: `translations/0837.md`
-- Latest summary: `summaries/beats/0837.md`
-- Safe profiles through: chapter 837
+- Last completed: 838
+- Next chapter: 839
+- Current block: 835–839 (4/5)
+- Latest translation: `translations/0838.md`
+- Latest summary: `summaries/beats/0838.md`
+- Safe profiles through: chapter 838
 
 ## Current Block
 
-- The military vessels’ cannon fire fails to hit the swift ship, and Sama Pyo, Taishan, Song Ilseom, and Ju Hwaran deflect the next volley as the ship heads for the landing. Jin wonders why the government troops attacked and orders a river pirate to steer under a white flag rather than retaliate.
-- On a pleasure boat, Ju Wongong dismisses concerns about the Yangtze River Channel League and boasts of the government’s strength. When he sees the swift ship withstand the cannon fire and recognizes Jin through a thousand-li lens, he orders the military vessels to cease fire, invoking his imperial kinship; Jin says he once saved Ju Wongong’s life.
+- Jin Taekyung reunites with Ju Wongong, who has recovered since nearly drowning at Dongting Lake. Wongong reveals that he has been temporarily appointed acting City Lord of Sichuan Province while still under exile. Taekyung sees an opportunity to use the office’s authority and government manpower to guard against Dark Heaven, and heads for the Sichuan Tang Clan to meet someone he has been separated from.
 
 ## Open Questions
 

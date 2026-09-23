@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Of course. You’ve praised Young Master Wongong so often I’ve got calluses on my ears.”",
+      "defect": "Mujin says 주인공, meaning “protagonist,” not Wongong. This is the mistake that sets up Ju Wongong’s correction.",
+      "id": "F01",
+      "rationale": "Mujin has mistaken Ju Wongong’s name for the ordinary Korean word 주인공.",
+      "replacement": "“Of course. You’ve praised Young Master Protagonist so often I’ve got calluses on my ears.”",
+      "severity": "major",
+      "source": "“그럼요. 평소에도 주인공 공자님에 관련된 칭찬을 귀에 못이 박이도록 하지 않으셨습니까.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“See? You heard him, Young Master Wongong.”",
+      "defect": "Jin repeats Mujin’s mistaken name, but the draft gives him the correct one.",
+      "id": "F02",
+      "rationale": "Both men make the same mistake before Ju Wongong corrects them.",
+      "replacement": "“See? You heard him, Young Master Protagonist.”",
+      "severity": "major",
+      "source": "“그래, 들었지? 주인공 공자.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Not Wongong. Ju Wongong.”",
+      "defect": "The correction no longer identifies what they called him.",
+      "id": "F03",
+      "rationale": "Ju Wongong explicitly contrasts 주인공 with his name, 주원공.",
+      "replacement": "“Not Protagonist. Ju Wongong.”",
+      "severity": "major",
+      "source": "“주인공이 아니라, 주원공이라고.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "All the while keeping a close eye on Ju Hwaran, who had her hand clamped over his mouth.",
+      "defect": "The draft makes Hwaran cover someone else’s mouth; she is covering her own.",
+      "id": "F04",
+      "rationale": "The Korean describes Ju Hwaran covering her mouth, without introducing another person as the object of the action.",
+      "replacement": "All the while keeping a close eye on Ju Hwaran, who had her hand clamped over her mouth.",
+      "severity": "critical",
+      "source": "어느새 입을 틀어막고 있는 주화란을 예의주시하면서."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“His Highness, Young Master Ju Wongong, is passing!”",
+      "defect": "“His Highness” grants Ju Wongong a form of address the herald does not use.",
+      "id": "F05",
+      "rationale": "The announcement calls him 주원공 공자, not 전하.",
+      "replacement": "“Make way for Young Master Ju Wongong!”",
+      "severity": "major",
+      "source": "“주원공 공자께서 행차하신다!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You were about to collapse after running a few dozen yards just now.”",
+      "defect": "Thirty-odd jang is roughly a hundred yards, not a few dozen yards.",
+      "id": "F06",
+      "rationale": "The draft substantially shortens the distance Jin says Ju Wongong ran.",
+      "replacement": "“You were about to collapse after running barely a hundred yards just now.”",
+      "severity": "major",
+      "source": "“아까 겨우 삼십여 장 달리고 쓰러지려고 하던데.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Of course you don’t! Your eyes were already rolling back in your head!”",
+      "defect": "Rolling eyes suggest fainting; Ju Wongong is referring to Jin having lost control in anger.",
+      "id": "F07",
+      "rationale": "Jin’s claim not to remember follows his furious beating of Mujin, not a loss of consciousness.",
+      "replacement": "“Of course you don’t! You’d already gone wild by then!”",
+      "severity": "major",
+      "source": "“당연하지! 그때는 이미 눈깔이 뒤집혀 있었으니까!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Listen, everyone! Young Master Wongong, a member of the imperial family, has insulted His Highness Prince Shangshan!”",
+      "defect": "Jin deliberately uses the wrong name again, while the draft calls Ju Wongong by a near-correct name.",
+      "id": "F08",
+      "rationale": "The renewed 주인공 mistake prompts Ju Wongong’s immediate correction.",
+      "replacement": "“Listen, everyone! Protagonist, a member of the imperial family, has insulted His Highness Prince Shangshan!”",
+      "severity": "major",
+      "source": "“모두 들어라! 황족 주인공이 상산왕 전하를 모욕했다!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m not Wongong, I’m Ju Wongong! And would you please stop!”",
+      "defect": "Ju Wongong corrects “protagonist,” not the shortened form “Wongong.”",
+      "id": "F09",
+      "rationale": "His repeated correction is the payoff to Jin’s deliberate misnaming.",
+      "replacement": "“It’s Ju Wongong, not Protagonist! And would you please stop!”",
+      "severity": "major",
+      "source": "“주인공이 아니라 주원공이오! 그리고 제발 좀!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I repented of my old ways, when I did nothing but indulge in wine and women…",
+      "defect": "The draft omits gambling and other idle amusements from what Ju Wongong claims to have repented.",
+      "id": "F10",
+      "rationale": "주색잡기 encompasses drinking, women, gambling, and frivolous pursuits.",
+      "replacement": "I repented of my old ways, when I did nothing but drink, chase women, and gamble…",
+      "severity": "major",
+      "source": "주색잡기에만 몰두하던 지난날을 반성……."
+    },
+    {
+      "confidence": 0.94,
+      "current": "his only real talent was indulging in wine and women.",
+      "defect": "The later characterization again drops gambling from Ju Wongong’s vices.",
+      "id": "F11",
+      "rationale": "The source repeats 주색잡기 here.",
+      "replacement": "his only real talent was drinking, chasing women, and gambling.",
+      "severity": "minor",
+      "source": "그나마 있는 재주라고는 주색잡기뿐이니"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I was changing his diapers and everything.",
+      "defect": "The draft softens Jin’s deliberately crude diaper claim.",
+      "id": "F12",
+      "rationale": "Jin explicitly says 똥 기저귀, which helps make the claim more embarrassing.",
+      "replacement": "I was even changing his poopy diapers.",
+      "severity": "minor",
+      "source": "내가 똥 기저귀도 갈아 주고 그랬는데."
+    }
+  ],
+  "summary": "The draft preserves the scene’s broad sequence, but it loses the name joke, changes one physical action, inflates Ju Wongong’s title, and alters several concrete details.",
+  "version": 1
+}
