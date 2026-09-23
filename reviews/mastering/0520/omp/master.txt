@@ -50,7 +50,7 @@ The Hidden Shadow Pavilion’s old fox, said to have a thousand faces, shrugged.
 
 “Me?”
 
-“Does it not?”
+“Are you?”
 
 The young man thought about it for a while. Then his eyes widened.
 
@@ -88,7 +88,7 @@ Thousand-Faced Fox’s answer was brief.
 
 The title *Martial God* had once meant perfection. No, it still did.
 
-Everyone who had met him even once had praised him in unison, and even after the passage of many long years, that vast and brilliant Fame still illuminated the world.
+Everyone who had met him, even once, praised him. Though many years had passed, his vast, brilliant Fame still lit the world.
 
 But…
 
@@ -120,7 +120,7 @@ He had disappeared that way, leaving behind a title that had become the very hea
 
 “…”
 
-Thousand-Faced Fox held back the urge to bring his fist down on Mae Jonghak’s head and continued.
+Thousand-Faced Fox resisted the urge to smack Mae Jonghak on the head.
 
 “And as you know, his personality is somewhat…”
 
@@ -144,7 +144,7 @@ Thousand-Faced Fox held back the urge to bring his fist down on Mae Jonghak’s 
 
 *Should I actually hit him?*
 
-Thousand-Faced Fox looked at Mae Jonghak with exactly that thought in his eyes, then sighed.
+Thousand-Faced Fox looked at Mae Jonghak, then sighed.
 
 “The other members of the Ten Kings are unsuitable for much the same reasons. Some have passed away. The rest cannot take the position for one reason or another.”
 
@@ -162,7 +162,7 @@ Only someone recognized by all—someone with the qualities of a leader as well 
 
 Thousand-Faced Fox pushed the thought aside and frowned.
 
-“And yet someone like you is leisurely enjoying the spring weather.”
+“And yet here you are, enjoying the spring weather without a care.”
 
 Mae Jonghak glanced wistfully toward the window.
 
@@ -186,7 +186,7 @@ Thousand-Faced Fox stared at the mountain of bamboo slips in the corner of the o
 
 “Did you read the letter from Qinghai?”
 
-“You mean the Kunlun Sect? Of course. It said they were pressed for time because they had to suppress bands of bandits and mounted bandits. It would be good if they arrived on time, but it should not matter much if they are a little late.”
+“From the Kunlun Sect? Of course. They’re pressed for time after suppressing bands of mountain bandits and mounted bandits. It would be good if they arrived on time, but a slight delay won’t matter.”
 
 “And the news from Sichuan?”
 
@@ -204,7 +204,7 @@ Only then did a faint smile reach Thousand-Faced Fox’s lips. Until now, he had
 
 “It’s nothing. I’m simply pleased to see you attending to your duties so—”
 
-“Do not smile so slyly. Someone else might be horrified if they saw you.”
+“Don’t smile so slyly. You’ll frighten someone.”
 
 “…”
 
@@ -212,13 +212,13 @@ Only then did a faint smile reach Thousand-Faced Fox’s lips. Until now, he had
 
 Having spoiled Thousand-Faced Fox’s mood, Mae Jonghak went back to gazing out the window. Then he spoke again.
 
-“Would you like to take a walk outside with me? We may not have another day like this after today.”
+“Why don’t we take a walk? Today might be our last chance to enjoy a day like this.”
 
 “I’d rather not.”
 
 Thousand-Faced Fox’s answer was curt.
 
-“I will send up another matter shortly, so do not do anything pointless, Alliance Leader. Get to work.”
+“I’ll send up more matters shortly. Don’t waste your time, Alliance Leader. Get back to work.”
 
 “An honored guest is arriving. The least I can do is go out and greet them.”
 
@@ -244,9 +244,9 @@ Shadow Killer was among the Hidden Shadow Pavilion’s finest agents. At the Sta
 
 “Yes. I sent Shadow Killer when I heard there was trouble on the main road, but…”
 
-He had sent the man to capture them, and now he was bringing them here like honored guests.
+*I sent him to capture them, and now he’s bringing them here.*
 
-Thousand-Faced Fox swallowed the rest of his words as Mae Jonghak’s voice reached his ears.
+Thousand-Faced Fox swallowed the rest of his words.
 
 “An urgent report came while you were away,” Mae Jonghak said.
 
@@ -254,13 +254,13 @@ Thousand-Faced Fox swallowed the rest of his words as Mae Jonghak’s voice reac
 
 “Yes. Some welcome faces are on their way.”
 
-Mae Jonghak patted Thousand-Faced Fox’s shoulder twice, then leaned out the window and muttered,
+Mae Jonghak patted Thousand-Faced Fox on the shoulder, leaned out the window, and murmured, “Come on. Let’s go.”
 
 * * *
 
 “Welcome.”
 
-The carriage entered the Murim Alliance’s Inner City and came to a stop. The voice that greeted us as soon as we got down was fairly familiar.
+The carriage had barely stopped inside the Murim Alliance’s Inner City, and I had barely climbed down, when a familiar voice greeted us.
 
 *Sword Saint Mae Jonghak.*
 
@@ -276,7 +276,7 @@ I dipped my head in greeting. Mae Jonghak smacked his lips as if disappointed, t
 
 “I’m glad to see you looking well.”
 
-Jeok Cheongang, who had been yawning extravagantly while looking around, furrowed his brow.
+Jeok Cheongang had been yawning and looking around. He frowned.
 
 “Were you speaking to this old man?”
 
@@ -298,6 +298,6 @@ Mae Jonghak beamed.
 
 “…?”
 
-*Is this the Murim version of picking a group-project captain?*
+*Is this how they pick a group-project leader in Murim?*
 
 [^1]: The Wuling Peach Blossom Spring is a classical image of an idyllic utopia.

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Mae Jonghak patted Thousand-Faced Fox’s shoulder twice, then leaned out the window and muttered,",
+      "defect": "The dialogue that follows this lead-in is missing. Mae Jonghak says, “자, 가 봅시다.”, inviting them to go; the next text jumps straight to the scene break.",
+      "id": "F01",
+      "rationale": "The Korean includes an explicit spoken invitation to go, which is absent from the assembled English and was preserved in the accepted baseline.",
+      "replacement": "Mae Jonghak patted Thousand-Faced Fox’s shoulder twice, then leaned out the window and muttered, “Come on. Let’s go.”",
+      "severity": "minor",
+      "source": "Korean line 275"
+    },
+    {
+      "confidence": 0.96,
+      "current": "It was a beautiful spring day.",
+      "defect": "The sentence drops the emphasis in 참으로, meaning “truly” or “indeed.”",
+      "id": "F02",
+      "rationale": "The source explicitly emphasizes how beautiful the day was, and the accepted baseline preserved that emphasis.",
+      "replacement": "It was a truly beautiful spring day.",
+      "severity": "minor",
+      "source": "Korean line 7"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but the assembled copy drops a spoken line at the scene transition and loses the source’s emphasis that the spring day was truly beautiful.",
+  "version": 1
+}
