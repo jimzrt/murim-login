@@ -1,6 +1,6 @@
 # Chapter 567
 
-“Has this old man gone senile…?”
+“Has this old bastard gone senile…?”
 
 Go Se-won had lost count of how many times he’d faced those red eyes.
 
@@ -22,7 +22,7 @@ Go Jun frowned.
 
 “Oh.”
 
-Go Se-won had waited for the answer with a sinking feeling, so he let out a quiet sigh of relief.
+Go Se-won had waited for the answer, hoping against hope. He let out a quiet sigh of relief.
 
 Come to think of it, the idea was absurd.
 
@@ -56,9 +56,7 @@ His shout rang through the room, the veins standing out on his neck. Then his vo
 
 “What? Didn’t you hear me this time either?”
 
-There would not be a third warning.
-
-Realizing that there was nowhere left to retreat, Go Se-won lowered his head slightly.
+Go Se-won wouldn’t get another chance to ask. Realizing he had nowhere left to retreat, he lowered his head slightly.
 
 “No, sir. I heard you clearly.”
 
@@ -98,9 +96,7 @@ Song Cheonwoo should have retired before the new year.
 
 But the Monster Wave in China and Lee Jungryong’s death had rekindled the ambition the old lion had never quite abandoned. The hyenas caught its scent and quietly lined up behind him.
 
-The influential members of the elder generation, just before a sweeping change of generations.
-
-They were the pack of hyenas.
+They were the influential elders facing a sweeping generational change.
 
 “Damn old bastards.”
 
@@ -200,9 +196,9 @@ Go Se-won walked out of the office on stiff legs and raised a hand to his ear.
 
 The communicator he’d switched off for a while gave a faint chirp and lit up.
 
-“Report the current personnel.”
+“Report your status.”
 
-As soon as the brief command ended, a sharp voice came through the communicator.
+Sharp voices answered at once.
 
 —Team One, all members standing by. Nothing to report.
 
@@ -210,9 +206,9 @@ As soon as the brief command ended, a sharp voice came through the communicator.
 
 —Team Three, all members standing by. Nothing to report.
 
-The three teams had thirty members in total. Even within Ares Guild, where only the best were gathered, they had been chosen from among the best of the best.
+Thirty people across three teams, chosen from the best of a Guild that already recruited only the best.
 
-Go Se-won possessed overwhelming skill befitting the Head of Security, but even he could not easily guarantee victory if five or more of these men joined forces. No matter how thoroughly the target had prepared, there was no way to stop them.
+Go Se-won’s abilities were formidable even by their standards, yet he couldn’t be sure of beating five or more of them together. No matter how thoroughly their target had prepared, the target couldn’t stop this force.
 
 “Orders from the Vice Guild Master. Finish your preparations and assemble in one hour. Our final destination is…”
 
@@ -284,7 +280,7 @@ Go Se-won waited for the words he’d been hoping to hear. Instead, Go Jun’s n
 
 Go Jun set a spotless white envelope on the table.
 
-Considering the nature of the matter, it obviously contained a check for a substantial sum. Judging from his experience, it was probably at least ten billion won.
+Given what they’d done, it surely held a check for a substantial sum. From Go Se-won’s experience, at least ten billion won.
 
 But an envelope of bonus money wasn’t what he’d wanted.
 
@@ -292,21 +288,21 @@ Still…
 
 “Thank you, Vice Guild Master.”
 
-Go Se-won accepted the envelope politely and bowed deeply.
+Go Se-won accepted the envelope politely and bowed deep.
 
-By then, his gaze had grown deep and unreadable as he stared at the man reflected in the spotless, gleaming marble.
+He stared at the man reflected in the spotless, polished marble. By then, his gaze had gone dark and still.
 
 * * *
 
 Martial arts are made up of countless movements.
 
-Thrusting and cutting. Striking and smashing.
+Thrusting, cutting, striking, sweeping.
 
 Link movements like those together, and they become a form.
 
 *Whoosh! Bang!*
 
-I punched into empty space. Compressed air exploded, and my hair fluttered.
+I punched into empty air. Compressed air burst, sending my hair flying.
 
 I continued through the forms against an imaginary opponent.
 
@@ -340,4 +336,4 @@ I let out a quiet breath.
 
 *Clap, clap, clap.*
 
-A vigorous round of applause rang out from behind me.
+Someone began applauding vigorously behind me.
