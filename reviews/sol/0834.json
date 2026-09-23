@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "I forced the corners of my mouth up and spoke in a solemn voice.",
+      "defect": "The draft makes him force a smile rather than struggle to suppress one.",
+      "id": "F01",
+      "rationale": "After enjoying Hwaran’s embrace, he tries to maintain a serious expression.",
+      "replacement": "I fought to keep the corners of my mouth from rising and spoke in a solemn voice.",
+      "severity": "critical",
+      "source": "억지로 입꼬리에 힘을 주며 진중한 목소리로 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But unlike my Master, his Disciple had stayed in Sichuan, and there was no question he was a master physician worthy of the title.",
+      "defect": "“My Master” identifies Jeok Cheongang as the physician’s teacher.",
+      "id": "F02",
+      "rationale": "The master here is the original Divine Physician, identified in the preceding sentence as the Slaughter Saint.",
+      "replacement": "But unlike his master, the Disciple had stayed in Sichuan, and he was a physician every bit as worthy of the title.",
+      "severity": "critical",
+      "source": "스승과 달리 사천에 남은 제자도 신의라 부르기에 조금의 부족함도 없는 명의다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It felt like I’d lost my life after borrowing from loan sharks to win at a gambling table.",
+      "defect": "The gambler has ruined his life, not lost it.",
+      "id": "F03",
+      "rationale": "인생 말아먹은 describes a wrecked life; the debt analogy does not say the gambler died.",
+      "replacement": "I felt like a gambler who’d borrowed from loan sharks to keep playing, only to ruin his life.",
+      "severity": "major",
+      "source": "마치 도박판에서 이기기 위해 사채까지 끌어쓰다 인생 말아먹은 도박꾼이 된 기분이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "You think you can act like this in front of your senior?",
+      "defect": "Namho specifically invokes Senior Jeok, not his own seniority.",
+      "id": "F04",
+      "rationale": "적 선배 names the senior whose presence Namho appeals to in the argument.",
+      "replacement": "You think you can act like this in front of Senior Jeok?",
+      "severity": "major",
+      "source": "마, 너 적 선배 앞에서 이렇게 굴 수 있어?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "finally started showing signs of infirmities of old age.",
+      "defect": "The draft replaces the specific dementia joke with a broad reference to aging.",
+      "id": "F05",
+      "rationale": "치매 specifically means dementia; the later exchange plays on doubts about Namho’s memory and judgment.",
+      "replacement": "finally started showing signs of dementia.",
+      "severity": "major",
+      "source": "마침내 치매 증상을 보였고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Master went to Sichuan?”",
+      "defect": "Taekyung’s audible switch from his familiar address to the more respectful one is omitted.",
+      "id": "F06",
+      "rationale": "노야, 아니 스승님 explicitly corrects the form of address mid-sentence.",
+      "replacement": "“Old Master—no, my Master went to Sichuan?”",
+      "severity": "major",
+      "source": "“노야, 아니 스승님이 사천으로?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“The best medicine in the world for the sick Pavilion Master—the medicine Taishan likes best!”",
+      "defect": "The draft reverses Taishan’s self-correction, making his appetite the afterthought rather than the thought he tries to conceal.",
+      "id": "F07",
+      "rationale": "He first blurts out that it is his favorite thing, then corrects himself to claim he brought medicine.",
+      "replacement": "“Taishan’s favorite thing in the world—no, a miracle cure for the sick Pavilion Master!”",
+      "severity": "major",
+      "source": "“태산이가 세상에서 제일 좋아하는, 아니 아픈 각주를 치료할 명약!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Oh, thank heaven. Earth Mother Goddess, I could kiss your feet.",
+      "defect": "The draft substitutes the Earth Mother Goddess for the invoked gods of heaven and earth and adds an offer to kiss their feet.",
+      "id": "F08",
+      "rationale": "천지신명 is the invocation here; neither the Earth Mother Goddess nor the added gesture appears in the source.",
+      "replacement": "“Oh, thank you, gods of heaven and earth.",
+      "severity": "major",
+      "source": "“세상에, 감사합니다. 천지신명이시여."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“……Primordial Heavenly Venerable. Earth Mother Goddess.”",
+      "defect": "The second invocation again changes the gods of heaven and earth into the Earth Mother Goddess.",
+      "id": "F09",
+      "rationale": "The source names 원시천존 and 천지신명 as distinct invocations.",
+      "replacement": "“……Primordial Heavenly Venerable. Gods of heaven and earth.”",
+      "severity": "major",
+      "source": "“……원시천존이시여. 천지신명이시여.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "That damage, which even leveling up hadn’t healed, was needling me around the dantian.",
+      "defect": "The injury’s location is narrowed to the lower dantian in the source.",
+      "id": "F10",
+      "rationale": "하단전 specifies the lower dantian, not an unspecified dantian.",
+      "replacement": "That damage, which even leveling up hadn’t healed, was needling me around the lower dantian.",
+      "severity": "major",
+      "source": "그 흔적이, 하단전 어림을 쿡쿡 쑤시고 있었다."
+    },
+    {
+      "confidence": 0.87,
+      "current": "“Going too far, my ass. The one who went too far was your underling Taishan—or was it Tiger Giant?—and his appetite.",
+      "defect": "“Tiger Giant” replaces Namho’s deliberate mangling of Taishan’s name with an unrelated epithet.",
+      "id": "F11",
+      "rationale": "금수강산 is a joking substitution built around the mountain in Taishan’s name, not Taishan’s giant-related nickname.",
+      "replacement": "“Going too far, my ass. What’s going too far is the appetite of that underling of yours—Taishan, Scenic Mountain, whatever his name is.",
+      "severity": "minor",
+      "source": "“말이 심하긴 니미럴. 심한 건 태산인지 금수강산인지 하는 네 수하 놈 식성 아니냐?"
+    }
+  ],
+  "summary": "The draft has two reversed comic beats, a misidentified master, and several losses of source-specific meaning.",
+  "version": 1
+}

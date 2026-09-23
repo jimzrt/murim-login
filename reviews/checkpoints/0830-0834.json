@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I stared blankly at the Doppelganger, laughing aloud.",
+      "defect": "The dangling phrase makes Jin appear to be laughing, though the surrounding passage identifies the Doppelganger as the one laughing.",
+      "id": "C01",
+      "rationale": "Keeps the laughter with its established subject without changing the beat.",
+      "replacement": "I stared blankly at the Doppelganger as it laughed aloud.",
+      "severity": "minor",
+      "source": "Chapter 830, after the Doppelganger predicts Asmodeus’s return"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The man stared down at the dead face that rolled like a ball of thread until it reached his feet.",
+      "defect": "A face cannot roll independently; the preceding sentence describes Ahomed’s severed head.",
+      "id": "C02",
+      "rationale": "Makes the physical action clear while retaining the existing image.",
+      "replacement": "The man stared down at the severed head as it rolled like a ball of thread to his feet.",
+      "severity": "minor",
+      "source": "Chapter 833, immediately after Ahomed’s death"
+    }
+  ],
+  "summary": "The packet largely maintains its voice, terminology, and unresolved hooks. Two sentences create avoidable confusion about who is acting and what is happening physically.",
+  "version": 1
+}
