@@ -2,13 +2,13 @@
 
 *Whump! BOOM!*
 
-A whip of fire lashed the ground. Piled snow melted, and yeti blood boiled. Kim Hwajong’s voice came through his clenched teeth as if he were chewing the words before spitting them out.
+A whip of fire lashed the ground. Piled snow melted, and yeti blood boiled. Kim Hwajong forced the words through clenched teeth.
 
 “Song Cheonwoo, you fucking bastard…”
 
-The old butler’s wide-open eyes were fixed on the spot where someone had been lying only seconds ago.
+The old butler glared at the spot where Song had lain only seconds ago.
 
-If this was how it was going to end—if that bastard was going to meet a death like this—Hwajong should have killed him with his own hands. But Song Cheonwoo had summoned the last of some unknown strength, thrown himself into the deep crevasse, and met the death he had chosen for himself.
+If this was how it was going to end—if the bastard was going to die like this—Hwajong should have killed him with his own hands. But Song Cheonwoo had drawn on the last of a strength Hwajong could not fathom, thrown himself into the deep crevasse, and met the death he had chosen.
 
 It was too good an end for a traitor. Worse still…
 
@@ -16,7 +16,7 @@ It was too good an end for a traitor. Worse still…
 
 “No.”
 
-Choi Minwoo shook his head at Kim Hwajong’s sigh-like murmur. His gaze remained fixed on the crevasse whose depth could not be estimated.
+Choi Minwoo shook his head at the old butler’s weary murmur. His gaze stayed fixed on the crevasse, whose depth he could not begin to judge.
 
 “You have nothing to apologize for, Butler Kim. I should have been more careful.”
 
@@ -24,13 +24,13 @@ Victory dulled vigilance. Perhaps all the more so after a fight that had been an
 
 *Hiss.*
 
-The sound of flesh burning filled the air as his wounds began to close little by little. Feeling a faint pain, he continued.
+His flesh sizzled, and his wounds began to close little by little. He went on through the faint sting.
 
 “Song Cheonwoo must have thought this was the only way to save his family.”
 
 “…”
 
-“I understand his situation, but… he must have been more desperate than we realized.”
+“I understand why he did it, but… he must have been more desperate than we realized.”
 
 Kim Hwajong muttered roughly, “Damn fool. There wasn’t even any guarantee this would save his family. Why do it?”
 
@@ -50,7 +50,7 @@ Death would not erase his position. If they could prove even half of what had ha
 
 “Attempted murder, murder-for-hire—whatever the charge, it will stain even Ares Guild’s Vice Guild Master. Especially now.”
 
-A fortress built through decades of effort did not crumble easily. But Go Jun was different. Choi Minwoo intended to use every bit of power at his disposal to unseat him as lord of that fortress.
+A fortress built over decades would not fall easily. Go Jun was another matter. Choi intended to use every resource he had to drag him from his seat of power.
 
 “We’re going to be busier than ever. Both of us.”
 
@@ -58,7 +58,7 @@ Kim Hwajong smiled with pride.
 
 “I’ve been waiting for this day.”
 
-“I’m glad. That you’re always at my side.”
+“I’m glad you’ve always been at my side, Butler Kim.”
 
 “Then put me to work before I get any older, Young Master. We’ll make that bastard Go Jun regret doing this.”
 
@@ -66,17 +66,17 @@ Kim Hwajong smiled with pride.
 
 Choi nodded and walked away from the crevasse. Whether from his fierce fight with Song or the blood he had lost, exhaustion swept through him and made every step heavy.
 
-Then, as his consciousness gradually grew hazy and he retraced the path he had taken, Choi Minwoo came to an abrupt stop.
+His thoughts were growing hazy as he retraced what had happened. Then he stopped dead.
 
 *Splash.*
 
-Muddy water mixed with snow and blood sprayed around him. Kim Hwajong, who had been following behind him, asked in confusion,
+Dirty water mixed with snow and blood sprayed around his foot. Kim Hwajong, following behind, sounded puzzled.
 
 “Young Master?”
 
-Choi Minwoo did not answer. He silently stared down at his foot, half-submerged in a puddle of murky water, then suddenly muttered,
+Choi did not answer. He stared at his foot, half-submerged in the murky puddle, and murmured, “Regret.”
 
-“Regret.”
+“Pardon?”
 
 “You said we’d make Go Jun regret doing this.”
 
@@ -96,7 +96,7 @@ The thought struck like lightning. Choi began to tremble.
 
 Not from the shock of his realization, and certainly not from exhaustion.
 
-No. His body was not the only thing that had been trembling from the beginning.
+No. He was not the only thing trembling. He never had been.
 
 *Rumble…*
 
@@ -104,7 +104,7 @@ Fresh ripples spread across the puddle as it was settling, and a heap of snow th
 
 At the center of it all came a tremendous rumble.
 
-*Crack—RUMBLE, RUMBLE!*
+*Crack—RUMBLE!*
 
 Choi and Kim Hwajong turned together. The ground split in a spiderweb of cracks, thin fractures running back toward the darkness behind them.
 
@@ -112,7 +112,7 @@ Choi and Kim Hwajong turned together. The ground split in a spiderweb of cracks,
 
 The crevasse.
 
-An enormous darkness whose end could not be seen opened its jaws. Darkness poured from the widening gap.
+The vast, bottomless darkness opened its jaws. Something poured through the widening gap.
 
 Darkness—no. Immense magical power shook the mountain and tore through space-time.
 
@@ -124,11 +124,11 @@ The world they had lived in. The world they were meant to go on living in.
 
 “…Monster Wave.”
 
-Two worlds that touched but should never have been connected had become linked. A roar announcing the beginning of the disaster reverberated in every direction.
+Two worlds that touched but should never have been joined were connected. A roar announcing the disaster echoed in every direction.
 
 —GRAAAAAAAH!
 
-Facing the abyss as it finally revealed itself, Kim Hwajong stepped in front of his young master, his gaze darker than ever.
+As the abyss finally revealed itself, Kim Hwajong stepped in front of his young master, his gaze darker than ever.
 
 *Step.*
 
@@ -142,7 +142,7 @@ A team member came over with a soju bottle and an easy grin. The Team Leader ans
 
 “No, asshole.”
 
-Despite his words, his glass was already being raised ever so slightly. The team member grinned as if he knew everything and filled the empty glass.
+He was already lifting his empty glass. Grinning as though he had expected nothing else, the team member filled it.
 
 *Glug, glug, glug.*
 
@@ -162,7 +162,7 @@ The Team Leader threw back the full glass in one gulp, then dipped a piece of fl
 
 The Team Leader smacked his lips. If he belonged to a Guild, it would hardly matter whether a raid came to nothing. But he led a freelance Hunter team. That meant paying the daily wages of everyone laughing and chatting around him, even if the money had to come out of his own pocket.
 
-Including this shameless bastard who had come over to him.
+Including the bastard pouring his drink.
 
 “You’re not mad, are you, Team Leader?”
 
@@ -180,7 +180,7 @@ That was probably why they had built so many ski resorts around here.
 
 He kept emptying his glass as he took in the view. The crowds at the ski resort and the gondolas running nonstop up and down the mountain showed just how little sense those people had.
 
-“Hey. Isn’t this funny?”
+“Hey, isn’t it ridiculous?”
 
 The team member looked up from the sashimi he had been devouring.
 
@@ -194,15 +194,15 @@ Worse, when he came down and checked the news, he had learned that a Monster Wav
 
 “Merona?”[^1]
 
-“…Never mind. Just keep stuffing your face.”
+“…Never mind. Just keep eating.”
 
 He sighed and drained his glass. Thinking about what must be happening in Busan made his chest tighten.
 
-“Uh—uh-oh! Oh, whoa! Whoa, whoa, whoa!”
+“Uh—oh! Oh, wow!”
 
 “What?”
 
-“…Why is she doing that again?”
+“…What’s gotten into her?”
 
 Everyone turned toward the outburst. A female Hunter in her twenties, who had been deep in thought for a while, was waving her smartphone wildly.
 
@@ -212,7 +212,7 @@ The Team Leader looked at her with concern.
 
 “Yeah. Seems like it.”
 
-“No, not that! I told you earlier, didn’t I? I thought I recognized that masked, incredibly handsome guy up there!”
+“No, not me! Remember what I said earlier? That I thought I’d seen that gorgeous guy in the mask up there before!”
 
 The Team Leader recalled the Hunters they had encountered, particularly the young man at the back.
 
@@ -226,13 +226,13 @@ The Team Leader recalled the Hunters they had encountered, particularly the youn
 
 She thrust the phone in front of his face. He frowned, then saw the face on the screen and opened his eyes wide.
 
-“What the hell? Is this for real? They do look alike, I guess…”
+“What? Is this for real? They do look alike…”
 
 “I’m telling you, it’s him! You don’t trust me, Team Leader?”
 
 “No.”
 
-“Ah, damn it! This time I’m certain, so believe me! I’ve got an eye for this that I honed through thirty years of idol fandom!”
+“Ah, shit. I’m sure this time, so trust me! I’ve spent thirty years of idol fandom training my eye for faces!”
 
 “You’re twenty-five. Was your father a fan too?”
 
@@ -252,25 +252,25 @@ The Team Leader had not seen the masked man’s face clearly, but the calm eyes 
 
 *If it really was him, the other Hunters must be Peace Guild members too.*
 
-Choi Minwoo had become famous enough recently that the Team Leader had heard about him several times. But even if only half of those stories were true, the man should have been too busy to breathe. Why would he lead his Guild members to a B-grade Gate in Pyeongchang?
+Choi Minwoo had become so famous lately that even the Team Leader had heard plenty about him. If half of it was true, the man had to be run off his feet. Why bring his Guild members to a B-grade Gate in Pyeongchang?
 
 *Wait. Then that older man I saw on the way down…*
 
 Before he could finish the thought—
 
-*RUMBLE, RUMBLE, RUMBLE!*
+*RUMBLE!*
 
-A tremendous vibration began to sweep through the area. For an instant, every sound fell silent, and everyone turned their heads in the same direction as if they had planned it.
+A tremendous vibration swept through the area. For an instant, every sound seemed to stop, and everyone turned toward the same place.
 
 The Team Leader noticed what was wrong first. He had already been looking there before the shaking began.
 
-*…That place…*
+*…That’s…*
 
 The place he had climbed toward with such high hopes, only to come back down empty-handed.
 
 The B-grade Gate known as Yeti’s Winter Range.
 
-The next moment, what appeared in the Team Leader’s widened eyes was part of the mountain slowly collapsing, with pitch-black darkness settling over it.
+Then he saw part of the mountain slowly collapsing, pitch-black darkness settling over it. Gondolas and buildings crumbled, and from the wreckage came a horrifying roar that shook him to his core.
 
 —GRAAAAAAAH!
 
@@ -278,14 +278,14 @@ A Monster Wave.
 
 And there were still people inside the Gate.
 
-Overcome by suffocating terror, the Team Leader forced out a voice he had barely managed to squeeze together.
+Suffocating fear held the Team Leader in its grip. He forced out a shout.
 
 “Report it! Right now!”
 
-A frightened question came back.
+Someone answered in a frightened voice.
 
 “W-where?”
 
-“The Hunter Association, the Peace Guild, Jin Taekyung—anywhere! Right now!”
+“The Hunter Association, the Peace Guild, Jin Taekyung—anywhere! Just do it!”
 
 [^1]: Merona is a Korean melon-flavored ice cream bar; its name echoes “Corona” in the original wordplay.

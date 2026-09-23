@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The next moment, what appeared in the Team Leader’s widened eyes was part of the mountain slowly collapsing, with pitch-black darkness settling over it.",
+      "defect": "The source also places the horrifying roar amid the wreckage of the gondolas and buildings as they collapse. That destruction is absent from the assembled passage.",
+      "id": "F01",
+      "rationale": "The Korean explicitly describes the gondolas and buildings collapsing into wreckage while a mind-shaking roar sounds. The English retains the roar in the following line but drops that physical detail.",
+      "replacement": "The next moment, what appeared in the Team Leader’s widened eyes was part of the mountain slowly collapsing, with pitch-black darkness settling over it. Amid the wreckage of the gondolas and buildings as they crumbled, a horrifying roar that shook the mind rang out.",
+      "severity": "minor",
+      "source": "Korean lines 273–275"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits the destruction surrounding the final roar in the Pyeongchang scene.",
+  "version": 1
+}
