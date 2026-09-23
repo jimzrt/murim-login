@@ -1,15 +1,17 @@
 # Translation State
 
-- Last completed: 756
-- Next chapter: 757
-- Current block: 755–759 (2/5)
-- Latest translation: `translations/0756.md`
-- Latest summary: `summaries/beats/0756.md`
-- Safe profiles through: chapter 756
+- Last completed: 757
+- Next chapter: 758
+- Current block: 755–759 (3/5)
+- Latest translation: `translations/0757.md`
+- Latest summary: `summaries/beats/0757.md`
+- Safe profiles through: chapter 757
 
 ## Current Block
 
-- Leviathan escapes the deep-sea battle only to collide with the Japanese aircraft carrier, where Choi Minwoo captures it in a magic-infused net. Jin Taekyung and the Skeleton King return, interrogate the dying monster, and learn that it was drawn by the scent of an unrefined S-rank Magic Gem but does not know who awakened it. Jin suspects Michael Silbert but lacks proof, then kills Leviathan with White Flame. Before dying, Leviathan declares that the time has come and urges humanity to survive until the end of the world. The System confirms Leviathan's defeat, grants Jin enormous EXP and Fame, enhances and renames his Aquatic Rescue Worker Title, awards him the Hope of the Sea Title, and generates the Main Quest: Cataclysm. Japan and the world celebrate the victory while Japan's Defense Minister is dismissed, but Jin remains troubled by Leviathan's final warning.
+- Jin spends only twenty-eight hours in Japan, appearing at a press conference after Team Leader Choi reminds him that survivors need courage and hope. He bluntly handles Japanese reporters, rejects their absurd questions, and publicly credits the absent Skeleton King while claiming that Leviathan's corpse and the two S-rank Magic Gems were destroyed.
+- In truth, Jin secretly stored Leviathan's corpse and both Magic Gems in his Inventory during the transfer to the aircraft carrier. Worldwide media and public opinion begin turning back toward him, an anti-Jin protest collapses, and Michael Silbert's influence becomes a source of fear for the media that supported Odin Guild.
+- A Monster Wave is expected in Berlin, Germany issues a Class 2 disaster warning, and the German government requests Korean assistance. Jin accepts immediately despite his fatigue and Broken Body debuff, then learns that Germany has also requested assistance from Michael Silbert.
 
 ## Open Questions
 
@@ -17,6 +19,7 @@
 - Can Jin prove that Michael Silbert lured Leviathan with an unrefined S-rank Magic Gem?
 - What did Leviathan mean by saying that humanity and the world awakened it?
 - What are the full effects of the Hope of the Sea Title?
+- How will Jin and Michael Silbert's simultaneous involvement affect the Berlin Monster Wave operation?
 
 ## Exceptional Decision
 
