@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*And in the middle of all that, his legitimacy was openly denied during an official Blue House press conference with seventy percent viewership…*",
+      "defect": "The assembled copy omits that Go Jun himself had visibly begun to crumble after Lee Jungryong’s death. The source presents this as additional context before the thought about his legitimacy being denied.",
+      "id": "F01",
+      "rationale": "The source explicitly says 석고준조차 이정룡 사후부터 급격히 무너진 모습을 보인 상황 before the narrator reflects on the press conference.",
+      "replacement": "*On top of that, Go Jun himself had visibly begun to crumble after Lee Jungryong’s death. And in the middle of all that, his legitimacy was openly denied during an official Blue House press conference with seventy percent viewership…*",
+      "severity": "minor",
+      "source": "Korean lines 165–167"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had indirectly criticized Ares Guild over the Mutated Gate while praising Lee Jungryong’s achievements and presenting me as the man who would carry on his legacy.",
+      "defect": "The translation omits the preceding description of President Baek’s remark as subtle and sharp.",
+      "id": "F02",
+      "rationale": "백한성 대통령이 던진 한마디는 교묘하면서도 날카로웠다 is a distinct characterization of Baek’s remark, not repeated by the following sentence.",
+      "replacement": "President Baek Hanseong’s single remark had been subtle and sharp. He had indirectly criticized Ares Guild over the Mutated Gate while praising Lee Jungryong’s achievements and presenting me as the man who would carry on his legacy.",
+      "severity": "minor",
+      "source": "Korean line 169"
+    }
+  ],
+  "summary": "The assembled copy is mostly faithful, but it omits two source details about Go Jun and President Baek’s remark.",
+  "version": 1
+}

@@ -22,7 +22,7 @@ I was walking through the Guild House when I stopped and looked down at the work
 
 *Grrrind. Boom!*
 
-Smooth marble rose and fell through the air, while every swing of the muscle-bound giants’ sledgehammers smashed apart the solid concrete walls.
+Polished slabs of marble rose through the air, and solid concrete walls shattered under the sledgehammers of muscle-bound giants.
 
 More than a hundred workers bustled about. They were all Awakened, which probably explained their astonishing pace.
 
@@ -42,7 +42,7 @@ My fifty trillion in untaxed assets was shrinking bit by bit as I spent it, but 
 
 *Fifty trillion…*
 
-Even thinking about it again, it was an absurd amount of money. Like the figure of a man gradually approaching from beyond the corridor.
+The number still didn’t feel real. Neither did the man drawing closer from the other end of the corridor.
 
 *Swoosh.*
 
@@ -66,7 +66,7 @@ I stared at Magic Johnson in disbelief before I finally managed to speak.
 
 “You didn’t come to use the bathroom, did you?”
 
-“Of course not. I came to give Choi something. I figured I’d check on the progress while I was here.”
+“Of course not. I came to give Choi something. Figured I’d see you while I was here.”
 
 “Do you put emails in your cereal and eat them?”
 
@@ -128,7 +128,7 @@ We weren’t living in the Warring States period, but anyone inheriting an organ
 
 And Go Jun, the new Vice Guild Master of Ares Guild, didn’t have much of it.
 
-“Ares Guild is a vast empire. Even if he inherited the shares according to the will, he didn’t inherit all of Mr. Lee’s influence. If they had shared blood, he would at least have met certain expectations in Asian society. But he doesn’t, does he?”
+“Ares Guild is an empire. He may have inherited the shares under Mr. Lee’s will, but that doesn’t mean he inherited all of Mr. Lee’s influence. If he were family, that would count for something in Asian society. But he isn’t, is he?”
 
 “Lee Jungryong did have a son, but I heard he died young. He was an ordinary person who never Awakened, though, so he couldn’t have succeeded Lee even if he were still alive.”
 
@@ -138,27 +138,27 @@ Magic Johnson knew that as well as anyone. He nodded.
 
 “True. Sseokkochoon, on the other hand, has the skill, whatever his faults as a person. I heard he passed the S-rank Hunter qualification assessment with an incredible score. The news got buried almost immediately under everything else that’s been happening, of course.”
 
-“His name is Go Jun, not Sseokkochoon. And anyway, that bastard was Lee Jungryong’s Head of Security.”
+“It’s Go Jun, not Sseokkochoon. And the bastard was Lee Jungryong’s Head of Security, at least.”
 
-“That’s nowhere near enough. He needs the support of the other founding heroes who made Ares Guild what it is today. But…”
+“That’s nowhere near enough. He needs the support of the other people who helped build Ares Guild into what it is. But…”
 
 “He didn’t have time.”
 
 “Exactly. Time. Mr. Lee probably wrote that will to prepare for the worst without ever imagining he’d die so easily.”
 
-But he had died in the end, and Go Jun had inherited the crown before he could firmly establish himself as the successor.
+But he had died, and Go Jun had inherited the crown before he could establish himself as the successor.
 
-Being Head of Security was proof that he had been one of Lee Jungryong’s closest aides, but there were many difficulties involved in inheriting an enormous organization like Ares Guild.
+The Head of Security title proved he’d been one of Lee Jungryong’s closest aides. Inheriting an organization as vast as Ares Guild was another matter.
 
-Even with Lee Jungryong’s will, it would not be easy for elderly veterans to respectfully serve a fresh-faced man in his thirties as their superior.
+Even with Lee Jungryong’s will, the elderly veterans weren’t going to find it easy to treat a man in his thirties as their superior. Especially when Go Jun himself had visibly begun to fall apart after Lee’s death.
 
-*And in the middle of all that, his legitimacy was openly denied during an official Blue House press conference with seventy percent viewership…*
+*And then his legitimacy was openly challenged at an official Blue House press conference watched by seventy percent of the country…*
 
-He had indirectly criticized Ares Guild over the Mutated Gate while praising Lee Jungryong’s achievements and presenting me as the man who would carry on his legacy.
+President Baek Hanseong’s remark had been subtle and sharp. He’d criticized Ares Guild’s handling of the Mutated Gate without naming it directly, praised Lee Jungryong’s achievements, and presented me as the man carrying on Lee’s wishes.
 
 *The whole thing was staged.*
 
-The press conference had been a joint production by President Baek Hanseong, who had shown an anti-Ares stance since his days as a lawmaker, and Team Leader Choi.
+The press conference was a joint production by President Baek, who had opposed Ares Guild since his days as a lawmaker, and Team Leader Choi.
 
 They’d won over reporters, fed them questions, and steered the conversation where they wanted it to go. The script and cast had been prepared from start to finish.
 
@@ -172,7 +172,7 @@ If Lee Jungryong had still been alive, they would have scrapped the plan. But Go
 
 Magic Johnson shrugged.
 
-“I just stopped by there on my way here.”
+“I just came from there.”
 
 “Ah. Something else must have come up.”
 
@@ -232,9 +232,9 @@ Leaving Ares Guild for Peace Guild meant more than a simple transfer. Magic John
 
 I gave a small nod. If outsiders could see the crack, it was probably much bigger on the inside.
 
-*Of course, we can’t rule out the possibility that Go Jun sent him deliberately as a spy.*
+*Though we can’t rule out the chance that Go Jun deliberately sent a spy.*
 
-That was why he had been accepted only after a thorough verification process, and I heard they planned to deploy him in actual operations little by little.
+That was why the newcomers had gone through a thorough screening. I’d heard they would be sent into actual operations gradually.
 
 Even with the System, I couldn’t read people’s minds. Team Leader Choi’s intelligence network would be a great help there.
 
@@ -244,7 +244,7 @@ I’d been walking in silence, lost in thought. I looked up and saw the titanium
 
 “Oh, that? It’s a training room.”
 
-“The training room? A training room?”
+“A training room? In there?”
 
 “Yeah.”
 
@@ -254,7 +254,7 @@ Magic Johnson gave an incredulous laugh.
 
 “Five overlapping spells? I can understand not wanting anyone to watch you train, but isn’t that excessive inside a Guild House?”
 
-“Who knows?”
+“Maybe.”
 
 I kept my answer short. The room had been prepared for only a handful of people.
 
@@ -264,11 +264,11 @@ More specifically…
 
 I hadn’t even told Magic Johnson about it. Access was limited to Team Leader Choi, Butler Kim, Song Song, and Im Kkeokjeong.
 
-“Judging by the security, it doesn’t seem like a space open to every Guild member.”
+“Judging by the security, it isn’t open to every Guild member.”
 
 I nodded at his observation.
 
-“That’s exactly right. It’s for the Guild’s founding members, including me.”
+“Right. It’s for the Guild’s founding members, including me.”
 
 “Hmm. A secret, then. Now you’ve awakened my curiosity as a mage.”
 
