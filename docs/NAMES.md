@@ -2222,3 +2222,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스사노오 | **Susanoo** | Japanese nickname for the sea-and-storm monster. |
 | 요시무라 | **Yoshimura** | Japanese general reprimanded in the Ministry of Defense control room. |
 | 레비아탄 | **Leviathan** | Ancient S-rank sea monster associated with Asmodeus. |
+| 실베르트 | **Silbert** | Family name in Michael Silbert. |
+| 일본 | **Japan** | Country requesting emergency assistance and under Leviathan's attack. |
+| 베이징 | **Beijing** | Chinese city targeted by the earlier terrorist attack. |
+| 상하이 | **Shanghai** | Chinese city Michael identifies as a likely next terrorist target. |
+| 마정 | **Magic Gem** | Monster power source; Leviathan seeks an untouched one. |
