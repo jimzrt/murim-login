@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Michael Silbert’s punch, thrown with all his might, had burst my skin but failed to break my bones.",
+      "defect": "The draft says the punch burst Jin’s skin; the source says it did not burst his skin or break his bones.",
+      "id": "F01",
+      "rationale": "The negation applies to both injuries.",
+      "replacement": "Michael Silbert’s punch, thrown with all his might, had neither split my skin nor broken my bones.",
+      "severity": "critical",
+      "source": "미카엘 실베르트가 죽을힘을 다해 휘둘렀을 일권은 살을 터트리고 뼈를 부수지 못했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I struggled with all my might until all the dirt filling the pit around me had washed away. Until it had finally turned into a clear pond.",
+      "defect": "The draft presents the pit’s clearing and transformation as completed.",
+      "id": "F02",
+      "rationale": "The source frames the clearing as what Jin will keep struggling toward, not an outcome already achieved.",
+      "replacement": "I would keep struggling with all my might until every bit of dirt filling this pit around me was gone. Until it finally became a clear pond.",
+      "severity": "critical",
+      "source": "혼신을 다한 몸부림으로 주위를 가득 메운 이 구덩이 속의 흙이 모두 빠져나갈 때까지. 마침내 맑은 연못으로 변할 때까지."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“So I don’t bother trying to understand them, either. You, or those lunatics fighting over there—I don’t know what kind of crazy shit they’ve been up to while getting in bed with you. There’s just too much I can’t make sense of.”",
+      "defect": "“Getting in bed with you” makes the crude alliance euphemism more explicitly sexual, and the draft loses the link between what the lunatics did with Michael and why they are fighting over there.",
+      "id": "F03",
+      "rationale": "Jin is speculating about their past collaboration with Michael as the reason for their present fight, without specifying a sexual relationship.",
+      "replacement": "“So I don’t bother trying to understand, either. You, or those lunatics fighting over there—who knows what kind of fucked-up shit they got up to while working with you to end up in that fight? None of it makes any sense to me.”",
+      "severity": "major",
+      "source": "그래서 나도 굳이 이해하려고 안 해. 너나, 그간 너랑 붙어먹으면서 뭔 개짓거리를 저질렀길래 저기서 싸우고 있는 건지 모를 미친놈들이나…… 죄다 이해할 수 없는 것투성이거든."
+    },
+    {
+      "confidence": 0.86,
+      "current": "The Flame Divine Palm, now at the eighth level, poured out a dreadful heat.",
+      "defect": "“Eighth level” turns 팔 성 into a discrete technique level.",
+      "id": "F04",
+      "rationale": "팔 성 describes the degree of power brought to bear here, not a numbered level.",
+      "replacement": "The Flame Divine Palm, brought to eight-tenths of its full power, poured out a dreadful heat.",
+      "severity": "major",
+      "source": "팔 성에 이른 화염신장(火焰神掌)이 끔찍한 열기를 토해 낸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Just as he raised his sword again, I drew up my internal energy and stamped down.\n\nMichael Silbert’s eyes widened as the tremendous weight pressing down on his sword struck him alongside my movement, which applied the Thousand-Catty Drop.",
+      "defect": "The second sentence makes the weight sound as though it struck Michael, obscuring that Jin stamps down on and pins the sword.",
+      "id": "F05",
+      "rationale": "The weight presses on the sword, preventing Michael from lifting it.",
+      "replacement": "Just as he raised his sword again, I drew up my internal energy and stamped down.\n\nI used the Thousand-Catty Drop to bear down on his sword with tremendous weight. Michael Silbert’s eyes widened.",
+      "severity": "major",
+      "source": "재차 검이 들어 올려지던 그 순간, 공력을 끌어올려 짓밟았다. 천근추(千斤錘)를 응용한 움직임과 함께 검을 짓누르는 엄청난 무게에, 미카엘 실베르트의 눈이 크게 뜨였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It could die and come back to life a thousand times and still never become a dragon.",
+      "defect": "“A thousand times” adds a quantity absent from the source.",
+      "id": "F06",
+      "rationale": "The source uses a single hypothetical death and return for emphasis.",
+      "replacement": "Even if it died and came back to life, it could never become a dragon.",
+      "severity": "minor",
+      "source": "죽었다 깨어나도 용이 될 수 없다고."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it reverses an injury, treats an unfinished struggle as accomplished, and alters several combat and dialogue details.",
+  "version": 1
+}
