@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "His laughter sounded like air leaking from a punctured sack",
+      "defect": "The source compares the sound to air escaping, but does not mention a sack or that it is punctured. Those added specifics change the image.",
+      "id": "F01",
+      "rationale": "바람 빠지는 듯한 웃음소리 means laughter like air escaping; the punctured sack is not established in the Korean.",
+      "replacement": "His laughter sounded like air escaping as he kept glancing at me.",
+      "severity": "minor",
+      "source": "Lines 213, 215; assembled paragraph [P97]"
+    },
+    {
+      "confidence": 0.96,
+      "current": "See that you do.",
+      "defect": "This tells Gung Gibang to remember what he was told, rather than to conduct himself properly. The Korean is an admonition about his behavior.",
+      "id": "F02",
+      "rationale": "처신 잘하라고 means to conduct oneself properly; the following threat reinforces that warning.",
+      "replacement": "Behave yourself.",
+      "severity": "minor",
+      "source": "Line 237; assembled paragraph [P109]"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, with two minor shifts in imagery and meaning.",
+  "version": 1
+}

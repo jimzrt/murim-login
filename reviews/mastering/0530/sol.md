@@ -42,7 +42,7 @@ News of a war among martial artists must have frightened the commoners at first,
 
 Imagine a war breaking out between the United States and Russia.
 
-The moment the war began, the citizens of Moscow or Washington, DC, would either be running for their lives or staring up at the sky, trying to guess when an intercontinental ballistic missile or a nuclear weapon might come flying toward them.
+The moment it began, people in Moscow and Washington, DC, would be running for their lives or staring at the sky, wondering when an intercontinental ballistic missile or a nuke might come flying toward them.
 
 *Not that Henan is guaranteed to be safe.*
 
@@ -58,7 +58,7 @@ It was a disturbing truth, hard to believe and not yet known to everyone.
 
 A truth like that could make people more vigilant. It could also cause tremendous shock and chaos. That was probably why it hadn’t been made public yet.
 
-*When that happens, people won’t be smiling like this anymore.*
+*They won’t be smiling like this when it is.*
 
 I smacked my lips bitterly and looked around.
 
@@ -94,7 +94,7 @@ Hyuk Mujin’s voice came quietly from behind me. I kept walking as though nothi
 
 I understood why. Since the Mount Song Resolution, I’d become something of a celebrity.
 
-The Sleeping Dragon of Shanxi and the Blazing Flame Divine Dragon were already epithets firmly imprinted throughout the Murim. But by raising the Murim Alliance’s flag before thousands of martial heroes, I had left an even more definite impression.
+The names Sleeping Dragon of Shanxi and Blazing Flame Divine Dragon had already spread throughout Murim. Raising the Alliance flag before thousands of martial heroes had made my face just as recognizable.
 
 I wasn’t on the level of the heads of the Nine Sects and One Gang or the Five Great Families, but more people knew my name and face than those of most Elder-level masters from major factions.
 
@@ -104,7 +104,7 @@ I wasn’t on the level of the heads of the Nine Sects and One Gang or the Five 
 
 Gung Gibang clicked his tongue.
 
-“What a tiny little heart you have. What serious thing is going to happen just because they recognize his face? It’ll only be annoying. This is exactly why he’s wearing that bamboo hat.”
+“What a coward. What’s the worst that can happen if they recognize him? We’ll be inconvenienced, that’s all. Why do you think he’s wearing the bamboo hat?”
 
 He glanced at me. “What’s gotten into him?”
 
@@ -154,11 +154,11 @@ Hyuk Mujin staggered as he wove through the crowd at incredible speed. Gung Giba
 
 “…Please don’t talk bullshit. He just needs to shit.”
 
-God. Buddha. Why am I surrounded by nothing but idiots?
+God. Buddha. Why am I surrounded by idiots?
 
 Lamenting my fate, I looked toward the three-story inn Hyuk Mujin was heading for.
 
-It wasn’t far away. Yet the part of my chest that had settled down during the journey suddenly began to churn.
+It wasn’t far. A feeling that had settled during the journey stirred in my chest again.
 
 “…A month? No, has it been two?”
 
@@ -176,7 +176,7 @@ Gung Gibang narrowed his eyes at my unguarded mutter.
 
 “Want to get hit?”
 
-“Come to think of it, the atmosphere back then was a little strange.”
+“Come to think of it, things were a little strange between you two back then.”
 
 “Want me to pick out your grave?”
 
@@ -184,13 +184,13 @@ Gung Gibang narrowed his eyes at my unguarded mutter.
 
 “Want me to hit you so fast you can’t dodge, clever or not?”
 
-“Pfft. That bastard Hyuk should’ve seen this.”
+“Pfft. Hyuk should’ve seen this.”
 
 “…No, it’s not— Ah, forget it.”
 
 Normally, Gung Gibang would have changed the subject by now, if only to avoid getting hit. Today he kept snickering and glancing at me.
 
-His laughter sounded like air leaking from a punctured sack as he kept glancing at me. My fist clenched, but strangely enough, I didn’t feel like hitting him.
+My fist clenched, but strangely, I didn’t feel like using it.
 
 “Pfft, pfft, pfft.”
 
@@ -210,7 +210,7 @@ He couldn’t even scream. I grabbed him by the back of the neck and hauled him 
 
 “I-I know.”
 
-“I heard that Kunlun Cloud Dragon guy or whatever is there, too. I’m going to see him because it’s been a while. And while I’m there, I’ll build a little rapport with that Hwangbo fellow or whatever his name is.”
+“That Kunlun Cloud Dragon guy is there too, right? I haven’t seen him in a while. And while I’m at it, I can get to know that Hwangbo fellow.”
 
 “…I’ll remember that.”
 
@@ -234,7 +234,7 @@ I wasn’t particularly interested in the Kunlun Cloud Dragon or that Lesser Fam
 
 There was, though, one person I hoped would be genuinely glad to see me.
 
-But Gung Gibang misunderstood my answer and hurriedly continued,
+Gung Gibang took my answer the wrong way.
 
 “No! Hwangbo Ak is a bit of a pain, but once he hears you came all this way, he’ll come running out barefoot and—”
 
@@ -268,13 +268,13 @@ A street stall not far away shattered, and a deep gouge opened in the ground.
 
 A man managed to right himself and get to his feet.
 
-Thud, thud, thud.
+*Rattle, rattle.*
 
 *Who’s that?*
 
 His martial uniform was torn to shreds, and his leather shoes had come off. His handsome face was filled with fury and dismay.
 
-“How dare you… You bastard! I’ll tear you apart……!”
+“How dare you… I’ll tear you apart…!”
 
 Gung Gibang gaped at the man, who was speaking through clenched teeth.
 
@@ -304,7 +304,7 @@ Judging by the way Hwangbo Ak’s face twisted, probably not.
 
 “What?”
 
-Hwangbo Ak seemed to have momentarily forgotten something. Then urgency and horror rose across his face.
+His confusion lasted only an instant. He seemed to remember something, and urgency and horror crossed his face.
 
 *Whoooosh—boom!*
 
