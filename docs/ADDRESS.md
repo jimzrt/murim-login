@@ -1369,3 +1369,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 홍진 | 혁무진 | imperial aide addressing a martial artist accompanying the prince | Martial artist Hyuk | polite and conversational | Uses 혁 무인 when asking whether Mujin knows of an exception. |
 | 홍진 | 진 공자 | loyal aide and ally addressing Taekyung | Young Master Jin | polite and familiar | Uses 진 공자 when asking Taekyung about the East Depot and his hidden allies. |
 | 늙은 환관 | 홍진 | former East Depot associates | Hong Cheophyeong | casual and familiar | The old eunuch addresses Hong Jin by his former title, 첩형. |
+| 주표 | 백연 | prince addressing an imperial military officer | Commander Baek Yeon | formal and authoritative | Addresses Baek Yeon by name and office while insisting that he answer. |
+| 백연 | 주표 | imperial officer addressing a prince | Your Highness | formal and deferential | Uses 전하 when apologizing to and answering Prince Shangshan. |

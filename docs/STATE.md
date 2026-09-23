@@ -1,21 +1,22 @@
 # Translation State
 
-- Last completed: 862
-- Next chapter: 863
-- Current block: 860–864 (3/5)
-- Latest translation: `translations/0862.md`
-- Latest summary: `summaries/beats/0862.md`
-- Safe profiles through: chapter 862
+- Last completed: 863
+- Next chapter: 864
+- Current block: 860–864 (4/5)
+- Latest translation: `translations/0863.md`
+- Latest summary: `summaries/beats/0863.md`
+- Safe profiles through: chapter 863
 
 ## Current Block
 
-- Hong Jin reveals that he was part of the East Depot, and an old eunuch confronts him over bringing outsiders into the palace. When a Guard draws his sword, Taekyung stops him and urges everyone not to escalate. Baek Yeon, Commander of the Embroidered Uniform Guard, arrives and seeks to end the confrontation under the Emperor’s authority. Prince Shangshan asks Taekyung what he would do in his place; Taekyung answers that he would have beaten them all.
+- Taekyung’s blunt counsel leads Prince Shangshan to assert his authority over Baek Yeon, securing a promise that his guests will be safe. Baek Yeon later announces that the Emperor has postponed the prince’s audience until the next day and escorts the party inside.
+- Baek Yeon privately tests Taekyung’s strength with his aura, then kills a subordinate who had drawn a sword before the prince and apologizes to Shangshan.
 
 ## Open Questions
 
-- What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?
+- Why did the Emperor postpone Prince Shangshan’s audience?
 - What does the Emperor intend for Prince Shangshan?
-- How will Prince Shangshan respond to Taekyung’s advice?
+- What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?
 
 ## Exceptional Decision
 
