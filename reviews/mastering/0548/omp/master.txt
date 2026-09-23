@@ -26,7 +26,7 @@ Murders were rare in the modern world, and people learned about them through tel
 
 Things were somewhat better in cities with good public order. Outside them, commoners lived under the threat of bandits or mounted bandits, depending on where they were.
 
-Martial artists were another matter entirely.
+And martial artists? They lived with death every day.
 
 *A life spent walking on the point of a blade.*
 
@@ -34,7 +34,7 @@ There was a reason people called it a mountain of sabers and a forest of swords.
 
 They were always prepared to die. They stoked their fighting spirit and trained their martial arts. Jin Wikyung, standing before me, was a martial artist too.
 
-The problem was the environment he and all the others had grown up in.
+The problem was the world he and everyone else had grown up in.
 
 In Murim, people killed people, and people died by human hands. There were fierce beasts and spiritual creatures, but at least people knew what those were. They were not monsters no one had ever heard of or seen.
 
@@ -68,7 +68,7 @@ Its body had been separated into parts and was still being transported in strict
 
 I forced out a fit of coughing. Cheongpung, who had been listening beside us, rummaged through his robes.
 
-“Benefactor. Would you like a sweetmeat? Sweetmeats are the best medicine for a cough.”
+“Benefactor. Would you like a sweetmeat? Sweetmeats are the best thing for a cough.”
 
 “…No. They’re the worst.”
 
@@ -88,7 +88,7 @@ I scratched my chin awkwardly. Jin Wikyung watched me for a long moment, then sp
 
 “……!”
 
-“I won’t ask you outright. Nor will I harbor any further doubts. But there is one wish I have never told you about.”
+“I won’t press you. I won’t let myself doubt you any further, either. But there is one thing I’ve wanted to ask of you, though I’ve never said it.”
 
 His voice remained gentle.
 
@@ -112,15 +112,15 @@ I gave him a bitter smile and nodded. At that exact moment, a voice called out.
 
 *Tap.*
 
-A dull sound rang out with the elderly voice. I turned my head and saw Song Ho, the Chief of the Hidden Shadow Pavilion of the Murim Alliance—the Thousand-Faced Fox.
+An elderly voice, followed by a heavy footfall. I turned to see Song Ho, the Thousand-Faced Fox and Chief of the Murim Alliance’s Hidden Shadow Pavilion.
 
 “The meeting ended half an hour ago, yet you’re still here. Coincidence?”
 
 I shook my head. Talking to Jin Wikyung was not the only reason I had stayed at the Murim Alliance.
 
-“It must have been inevitable.”
+“I don’t think so.”
 
-“Inevitability, is it? Yes, I suppose so.”
+“No. Neither do I.”
 
 Something flickered in those old, unreadable eyes. After a brief silence, the Thousand-Faced Fox spoke again.
 
@@ -156,7 +156,7 @@ Even the secret guards said to remain at his side at all times had withdrawn. I 
 
 “Most people who enter this room don’t notice them at all. It’s impressive that you did.”
 
-“Even if they don’t know, wouldn’t they at least guess? It would be strange for someone as important as the Murim Alliance Leader to have no guards at all.”
+“Even if they don’t notice, wouldn’t they guess? It would be strange for the Murim Alliance Leader to have no guards.”
 
 “Ah. You have a point.”
 
@@ -168,7 +168,7 @@ Mae Jonghak scratched his chin like a young man my age, then looked at me. My fa
 
 “They may not believe all of it, but they won’t dismiss it. I promise you.”
 
-And when the speaker was the Alliance Leader of the Murim Alliance, it was only natural for those words to carry tremendous authority.
+Even a casually spoken promise carried weight when it came from the right person. Coming from the Murim Alliance Leader, it carried a great deal.
 
 *That gives my argument more weight.*
 
@@ -192,7 +192,7 @@ The Thousand-Faced Fox’s face went rigid.
 
 There was a curse in his outburst, but no one cared about that now. Far from taking offense, I felt relieved.
 
-Their reactions told me that, at the very least, the people gathered here had already accepted my claim as fact.
+Judging by his reaction, at least the people in this room had already accepted my claim as something they had to reckon with.
 
 “What gives you that fifty percent?”
 
@@ -222,17 +222,17 @@ But…
 
 “……!”
 
-*Where did that sudden burst of emotion come from? What am I supposed to do with this?*
+*Where did that come from? What am I supposed to do with that?*
 
 *Thud.*
 
-But emotional or not, to hell with all that. Jeok Cheongang slammed his liquor bottle down and glared at me.
+But to hell with being moved. Jeok Cheongang slammed his liquor bottle down and glared at me.
 
-“Tell me it’s a lie instead. If you confess right now, I’ll let you off with three strikes from the Flame Divine Palm.”
+“Tell me it’s a lie. Confess now, and I’ll let you off with three strikes from the Flame Divine Palm.”
 
 “I swear on my balls, right here and now, that I’m not making this up. Also, three strikes from the Flame Divine Palm would kill me.”
 
-“Whew.”
+“Haa.”
 
 Jeok Cheongang let out a deep sigh and turned to Mae Jonghak and the Thousand-Faced Fox.
 
@@ -258,7 +258,7 @@ Mae Jonghak crooked a finger. A large scroll flew out from among the bamboo slip
 
 I looked at what was written on it—no, drawn—and muttered, “This is…”
 
-“You are looking at exactly what you think you are. A complete map of the realm.”
+“A complete map of the realm.”
 
 It showed the geography and terrain across the realm, with place names marked as well. But it was larger than any map I had seen in Murim, and there was another difference.
 
@@ -272,19 +272,19 @@ Mae Jonghak’s calm voice reached my ears.
 
 “I can’t be certain.”
 
-“Who in this world can be certain of the future? A simple guess will do.”
+“Who can be certain of the future? A guess will do.”
 
-*A simple guess…*
+*A guess…*
 
-I remained silent, lost in thought. Then, suddenly, I raised my hand and pointed to one part of the map.
+I thought in silence for a while. Then I raised my hand and touched one part of the map.
 
 *Tap.*
 
 “Here.”
 
-The reactions were immediate.
+The reaction was immediate.
 
-Jeok Cheongang muttered a quiet curse. A sharp light flashed in the Thousand-Faced Fox’s eyes, while Mae Jonghak leaned his upper body toward me.
+Jeok Cheongang muttered a curse. A sharp light flashed in the Thousand-Faced Fox’s eyes, and Mae Jonghak leaned toward me.
 
 “Why there?”
 
@@ -304,15 +304,15 @@ I alone had been able to glimpse the Water God Dragon’s memories, however brie
 
 I continued calmly.
 
-“I don’t know what Dark Heaven is going to do right now. This may not be its next target. But at least one person must have already set out for that place.”
+“I don’t know what Dark Heaven will do next. This might not be its immediate target. But at least one person must already be on her way there.”
 
 “The Southern Heaven Demon Empress.”
 
 At the sound of the title, the countless bodies I had seen in Hubei flashed before my eyes. My fist clenched.
 
-“That’s right. If it’s the Southern Heaven Demon Empress… she must have that place in mind.”
+“That’s right. The Southern Heaven Demon Empress… she must have that place in mind.”
 
-“Is that another simple guess?”
+“Another guess?”
 
 “A guess. One close to certainty.”
 
@@ -338,9 +338,9 @@ The Thousand-Faced Fox read the question on my face.
 
 “The Hidden Shadow Pavilion has eyes and ears throughout the realm. You weren’t the only one to make this guess.”
 
-“…You had already been considering that place.”
+“…You were already watching that place.”
 
-“To be precise, we began considering it immediately after receiving a report on the circumstances surrounding what happened in Hubei Province. However, that strange phenomenon called a rift was something neither I nor anyone else in this Pavilion anticipated.”
+“Since immediately after we received the report on what happened in Hubei Province, to be precise. But neither I nor anyone else in the Pavilion anticipated that strange phenomenon you call a rift.”
 
 I remembered something I had briefly forgotten. The elderly martial artist before me had been the head of the Hidden Shadow Pavilion forty years ago, and he still was.
 
@@ -350,7 +350,7 @@ And there was only one person in this room who could give orders to both of us.
 
 Mae Jonghak’s voice rang through the office, heavier than usual.
 
-Mae Jonghak, the great martial artist known as the Number One Sword Under Heaven and the man standing at the pinnacle of Murim today, stared at me with clear blue eyes.
+The great martial artist known as the Number One Sword Under Heaven, the man now standing at the pinnacle of Murim, fixed his clear blue eyes on me.
 
 “I’m giving you your first order.”
 
@@ -360,13 +360,13 @@ Mae Jonghak, the great martial artist known as the Number One Sword Under Heaven
 
 A fierce wind rose with every step I took.
 
-Ignoring the eyes of everyone around me, I even used my movement technique to hurry back to my residence. When I arrived, I flung open the door with all my strength.
+I paid no mind to who saw me use my movement technique. I rushed back to my residence and threw the door open.
 
 *Bang!*
 
 A familiar face came into view.
 
-“Welcome back… Wow. The owner is going to cry tears of blood. That door was replaced less than half an hour ago.”
+Hyuk Mujin sprang up from where he had been lounging in the annex. He looked from me to the shattered door and muttered, “Welcome ba—wow. The owner’s going to cry tears of blood. That door was replaced less than half an hour ago.”
 
 I had no time to sympathize with the owner. Instead of greeting Mujin, I gave him an order.
 
@@ -374,18 +374,18 @@ I had no time to sympathize with the owner. Instead of greeting Mujin, I gave hi
 
 “What?”
 
-Hyuk Mujin stared at me, dumbfounded.
+He stared at me, dumbfounded.
 
-“What are you talking about all of a sudden? Wait, summon what?”
+“What’s that supposed to mean all of a sudden? Wait—summon who?”
 
 “The Fire Dragon Pavilion.”
 
 “What?”
 
-“It’s a mission. Right now.”
+“We have a mission. Right now.”
 
 “Wait. Hold on! Captain, why all of a sudden? Where are we going?”
 
-I answered the wide-eyed Hyuk Mujin in a low voice.
+I answered his wide-eyed stare in a low voice.
 
 “Nanman.”

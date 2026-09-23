@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, but it blurs the moment the narrator’s fears become real and omits a specific reaction when Hyuk Mujin sees the damaged door.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 253–255",
+      "current": "As what I feared settled over the office",
+      "defect": "The Korean says the narrator’s worry came true, at the same time silence fell over the office. “Settled over the office” makes the worry sound like an atmosphere rather than something coming to pass.",
+      "replacement": "As my fears began to come true, silence fell over the office.",
+      "rationale": "우려가 현실로 나타남 means the concern became reality; it is distinct from the silence that descended on the room.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 393–397",
+      "current": "A familiar face came into view.",
+      "defect": "This omits Hyuk Mujin’s actions on seeing the narrator and the wrecked door: he had been lounging in the annex, sprang to his feet, and looked back and forth between them.",
+      "replacement": "Hyuk Mujin, who had been lounging in the annex, sprang to his feet. He looked back and forth between me and the shattered door, then muttered:",
+      "rationale": "The source explicitly describes his abrupt movement and his attention shifting between the narrator and the damaged door; the accepted baseline preserved both details.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 339–340",
+      "current": "a thought that had been haunting me for some time seemed more and more likely",
+      "defect": "“More and more likely” adds a progression in likelihood over time. The source says only that the long-held thought seemed to have considerable probability.",
+      "replacement": "a thought that had been haunting me for some time seemed quite likely",
+      "rationale": "상당한 가능성을 품고 있다고 생각했을 뿐 expresses considerable likelihood, without saying that the likelihood had been increasing.",
+      "confidence": 0.9
+    }
+  ]
+}
