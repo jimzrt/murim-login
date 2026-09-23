@@ -12,7 +12,7 @@ Jin Wikyung smiled and handed him a cup of tea.
 
 “Good thing I happened to be in Henan. If I’d been in Shanxi, I wouldn’t have come even at your request, Lesser Family Head. Working an old man who’s just waiting to die this hard…”
 
-I looked at Jang Taebo’s threatening muscles and thought,
+I looked at Jang Taebo’s formidable muscles.
 
 *He looks plenty capable of hard work…*
 
@@ -22,7 +22,7 @@ Wipeng seemed to be thinking along the same lines. He glanced from his own forea
 
 “I heard everything that happened in Sichuan and Hubei. I came myself to see if all was well and settle the matter in Henan while I was at it. It seems my timing was good.”
 
-Jin Wikyung laughed heartily and patted Wipeng on the shoulder.
+Jin Wikyung laughed and patted Wipeng on the shoulder.
 
 “Wipeng. You truly are my Zhang Liang!”[^1]
 
@@ -48,7 +48,7 @@ Jin Wikyung looked at Wipeng as though he wanted to purge him on the spot, then 
 
 “I didn’t come of my own accord. You summoned me. Do you realize you’ve been away for nearly three months? Not long ago, even Sect Leader Lee came to ask whether something had happened to you.”
 
-“Cough, cough!”
+“Ahem!”
 
 The way Jin Wikyung kept clearing his throat suggested he had plenty to feel guilty about.
 
@@ -58,13 +58,13 @@ Wait. Sect Leader Lee? Wipeng couldn’t mean…
 
 Wipeng shook his head.
 
-“Not Young Lady. She is the bona fide Sect Leader of an established sect, Third Young Master.”
+“Not Young Lady. She is the Sect Leader of an established sect, Third Young Master.”
 
 “Oh. Right.”
 
 The Mount Heng Sword Sect had once sought to become the dominant power in Shanxi Province, only to collapse after a series of disasters.
 
-However, Lee Seowol, the only surviving blood relative of the Blood Wolf Sword, had survived with my help and sworn loyalty to the Jin Family of Taiyuan.
+But Lee Seowol, the Blood Wolf Sword’s only surviving blood relative, had lived with my help and sworn loyalty to the Jin Family of Taiyuan.
 
 Vassal or not, a Sect Leader was still a Sect Leader.
 
@@ -86,7 +86,7 @@ I could still remember our parting clearly.
 
 *“Go ahead, Young Master Jin.”*
 
-*“May peace prevail throughout your household.”*
+*“May your household know peace and prosperity.”*
 
 *“……”*
 
@@ -104,11 +104,11 @@ Wipeng considered the question.
 
 “Why? Is something going wrong?”
 
-“If you’re asking about the sect, the Mount Heng Sword Sect has already completed its reconstruction. Under Sect Leader Lee’s command, it is growing rapidly, and the number of its disciples is increasing every day.”
+“If you mean the sect, its reconstruction is already complete. It’s growing quickly under Sect Leader Lee, and its disciples increase in number by the day.”
 
 “Oh.”
 
-“Great Hero Cheol Mubaek, the Tiger of Mount Heng and a friend of her late father, has also ended his seclusion and is taking an active role in the affairs of the Mount Heng Sword Sect.”
+“Great Hero Cheol Mubaek, the Tiger of Mount Heng and a friend of her late father, has also come out of seclusion to take an active part in the sect’s affairs.”
 
 “Ohh.”
 
@@ -120,13 +120,13 @@ Wipeng narrowed his eyes at my puzzled look.
 
 “Contacted her? About what?”
 
-“……Hah. Never mind. Pretend you didn’t hear that.”
+“…Never mind. Pretend I said nothing.”
 
 The mood had turned strange. Jang Taebo clicked his tongue beside me, and a thought flashed through my mind.
 
 *No way. Come on, it can’t be. But what if…? No. That’s not it.*
 
-Jin Wikyung rescued me from my sudden confusion with a single remark.
+Jin Wikyung rescued me from my sudden confusion.
 
 “I’m glad to hear Sect Leader Lee is doing well. What about my second brother? I haven’t seen him in months.”
 
@@ -150,7 +150,7 @@ Even the direct disciples of the Nine Sects and One Gang, with their generous su
 
 *And then he met Cheongpung.*
 
-For Jin Mukyung, Cheongpung’s existence must have been an enormous shock and an equally enormous stimulus.
+For Mukyung, Cheongpung must have been an enormous shock—and an equally powerful spur. The fact that he was still training in seclusion over a year later was proof enough.
 
 *He’ll accomplish something. I’m sure of it.*
 
@@ -160,11 +160,11 @@ He hadn’t had the Sword Saint to teach him, or exceptional elixirs and martial
 
 *The question is when.*
 
-He wasn’t going to emerge when he was nearly sixty, was he?
+Surely he wasn’t planning to stay in there until he was nearly sixty.
 
 If he survived on nothing but fasting pills until then, I’d genuinely respect him and treat him as my hyung. Frankly, a full year of eating those tasteless things was impressive enough.
 
-Even Wudang Daoists brought jerky instead of fasting pills when they practiced wall-facing meditation. What did that tell you?
+Even Wudang Daoists brought jerky instead of fasting pills when they went into wall-facing meditation.
 
 *One bite of a fasting pill, and even the worst vegetarians—the kind who flip over the grill at a barbecue restaurant—would go looking for pork belly.*
 
@@ -172,7 +172,7 @@ While I was thinking about that, the conversation had moved on to Jang Taebo.
 
 “By the way, Lesser Family Head, will you tell this old man why you summoned him?”
 
-In response to Jang Taebo’s grumbling question, Jin Wikyung abruptly tossed out a single phrase.
+Jin Wikyung answered Jang Taebo’s grumbling question with two words.
 
 “Ironcraft Hall. What do you think?”
 
@@ -182,7 +182,7 @@ In response to Jang Taebo’s grumbling question, Jin Wikyung abruptly tossed ou
 
 Jang Taebo frowned.
 
-“It’s a strangely familiar name. It reminds me of the Ironcraft Guild, where this old man once worked.”
+“The name sounds familiar. Reminds me of the Ironcraft Guild, where I spent so many years.”
 
 “I named it with you in mind, Old Master Jang. Master of Ironcraft Hall. Has a nice ring to it, doesn’t it?”
 
@@ -196,7 +196,7 @@ Jang Taebo sighed.
 
 “I’m old and tired. I haven’t the strength to lift a hammer.”
 
-Jin Wikyung stared meaningfully at Jang Taebo’s threatening muscles, then moved his lips.
+Jin Wikyung stared at Jang Taebo’s formidable muscles. His lips moved.
 
 —Youngest.
 
@@ -222,9 +222,9 @@ Jang Taebo glared at me as though he wanted to tear me apart.
 
 “…That damned brat.”
 
-Jang Taebo sighed as though the ground itself had collapsed, then looked at Jin Wikyung.
+Jang Taebo heaved a sigh deep enough to sink the ground beneath him and looked at Jin Wikyung.
 
-“Was this why you gave me all sorts of help over the past few months?”
+“Is this why you’ve given me so much help?”
 
 “Of course not. It was a simple kindness to the artisan who made a divine weapon for my beloved youngest brother.”
 
@@ -236,7 +236,7 @@ Jang Taebo sighed as though the ground itself had collapsed, then looked at Jin 
 
 I shot my hand up.
 
-“What about the spear?”
+“What about a spear?”
 
 “Shut up before I take it back and snap it.”
 
@@ -246,13 +246,13 @@ I shot my hand up.
 
 “Just become the Master of Ironcraft Hall. I hear you’ve had plenty of help from our family.”
 
-“I’ll repay you with money. Do you think I’m going to put myself through that kind of hell again at my age?”
+“I’d rather pay it back. Do you think I want to go through that hell again at my age?”
 
 “Seriously? You really won’t do it?”
 
-“Then what are you going to do? I said I wouldn’t.”
+“What will you do if I won’t?”
 
-“Then just tell me your conditions. I’ll meet as many of them as I can.”
+“Then tell me your conditions. We’ll do our best to meet them.”
 
 “Conditions?”
 
@@ -274,7 +274,7 @@ Beep.
 
 Clang! Crash!
 
-I sprang to my feet and shouted.
+I sprang to my feet.
 
 “Come on! Where am I supposed to find any of that? You’re asking for a dragon, not even an imugi!”
 
@@ -292,7 +292,7 @@ I checked the changed System window and nodded.
 
 “Oh, that works. Here.”
 
-“My mind hasn’t changed, so don’t waste your effort—what are you suddenly giving me?”
+“My mind hasn’t changed, so don’t waste your—what are you giving me?”
 
 “An imugi’s claw.”
 
@@ -304,13 +304,13 @@ I checked the changed System window and nodded.
 
 Jang Taebo’s pupils shook as though an earthquake had struck.
 
-He was a Master Artisan ranked among the three greatest in the world, and he had once served as the Guild Leader of the Ironcraft Guild, the finest blacksmith organization under Heaven.
+He was one of the three greatest Master Artisans in the world and had once led the Ironcraft Guild, the finest gathering of blacksmiths under Heaven. As he stared at the imugi’s claw, disbelief mingled with astonishment at a material he’d never seen before.
 
 “An… an imugi’s claw? Is it real?”
 
 “Look at the length. It’s obviously not one of mine.”
 
-“No, I mean, where in the world did you…”
+“No, I mean, where in the world did you get it?”
 
 “I caught it.”
 
@@ -332,9 +332,9 @@ Beep.
 >
 > - Achievement unlocked: **Wow, You Found It!**
 
-Along with the cheerful System notification, Jin Wikyung warmly put an arm around Jang Taebo’s shoulder.
+As the cheerful System notification sounded, Jin Wikyung put an affectionate arm around Jang Taebo’s shoulders.
 
-“I look forward to working with you from now on, Master of Ironcraft Hall.”
+“I look forward to working with you, Master of Ironcraft Hall.”
 
 “……!”
 

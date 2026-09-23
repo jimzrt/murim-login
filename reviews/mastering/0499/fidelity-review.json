@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Yes, my lord. Did you not know?”",
+      "defect": "The translation omits the contrast that a typical subordinate would deny having grievances, while Wipeng is one of the few people who can openly give Jin Wikyung grief. That contrast explains the bluntness of his reply.",
+      "id": "F01",
+      "rationale": "The Korean explicitly gives the expected denial and contrasts it with Wipeng’s unusual freedom to rebuke Jin Wikyung; the assembled English leaves out that explanation.",
+      "replacement": "In an ordinary lord-and-subject relationship, he would have said, “Oh, no, not at all.” But Wipeng was one of the few people who could openly lay into Jin Wikyung. “Yes, a great deal. Did you not know?”",
+      "severity": "minor",
+      "source": "Lines 47–49"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“An… an imugi’s claw? Is it real?”",
+      "defect": "The source describes suspicion and astonishment mingling in Jang Taebo’s eyes as he looks at the unfamiliar material. That reaction is omitted before his question.",
+      "id": "F02",
+      "rationale": "The Korean explicitly describes both the uncertainty that the claw could be real and his shock at seeing an unfamiliar substance; the English keeps the question but drops the visual reaction.",
+      "replacement": "As Jang Taebo stared at the imugi’s claw, suspicion and astonishment at the unfamiliar material mingled in his eyes. “An… an imugi’s claw? Is it real?”",
+      "severity": "minor",
+      "source": "Line 329"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits a character beat about Wipeng’s unusual candor and a reaction to the imugi’s claw; it also blurs a specific reference to secret techniques.",
+  "version": 1
+}
