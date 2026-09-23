@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the headless body of the EXP I’d just earned… No, the Lycanthrope Champion",
+      "defect": "Jin did not earn the EXP; Yamamoto took the final blow.",
+      "id": "F01",
+      "rationale": "The source calls the corpse EXP as a frustrated joke, without saying Jin received it.",
+      "replacement": "the headless body of the EXP… No, the Lycanthrope Champion",
+      "severity": "critical",
+      "source": "목이 잘린 채 쓰러진 경험치…… 아니, 라스칸스로프 챔피언의 시신"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then, using Lightfoot, he bounded toward me and grinned.",
+      "defect": "The draft reverses who approaches: Jin uses lightfoot to approach the Skeleton King.",
+      "id": "F02",
+      "rationale": "다가오는 나를 identifies Jin as the one approaching.",
+      "replacement": "Then he grinned at me as I approached using lightfoot.",
+      "severity": "critical",
+      "source": "경공을 펼쳐 다가오는 나를 보며 씩 웃었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You fucking bastard.”",
+      "defect": "The Skeleton King refers to Yamamoto in the third person rather than addressing him.",
+      "id": "F03",
+      "rationale": "저 points to the person he has just spotted under Jin’s arm.",
+      "replacement": "“That fucking bastard.”",
+      "severity": "major",
+      "source": "“저 개 같은 놈.”"
+    },
+    {
+      "confidence": 0.86,
+      "current": "Ignoring the Griffins rushing at me with their gale of magical power,",
+      "defect": "The draft makes multiple Griffins rush Jin here, although this attack is by their leader.",
+      "id": "F04",
+      "rationale": "The preceding identification and the subsequent overhead attack single out the leader; the source uses 그리핀들 for that named monster.",
+      "replacement": "Ignoring the Griffin leader rushing at me with its gale of magical power,",
+      "severity": "critical",
+      "source": "나는 마력의 돌풍과 함께 덮쳐오는 그리핀들을 무시한 채."
+    },
+    {
+      "confidence": 0.84,
+      "current": "the enormous mana rising from deep within it press down on the battlefield.",
+      "defect": "“Within it” makes the mana rise from the wind, a causal connection absent from the source.",
+      "id": "F05",
+      "rationale": "The source locates the rising mana deep within the scene, not inside the wind that has just died down.",
+      "replacement": "the enormous mana rising from somewhere deep below press down on the battlefield.",
+      "severity": "major",
+      "source": "그사이 깊숙한 곳에서 솟아올라 전장을 짓누르는 거대한 마나를 느꼈다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Status abnormality **[Convulsions]** has been applied!",
+      "defect": "A System notice retains square brackets around the status name, contrary to the specified panel format.",
+      "id": "F06",
+      "rationale": "The framed System panel already distinguishes UI terms; the binding Markdown rule excludes square brackets there.",
+      "replacement": "Status abnormality **Convulsions** has been applied!",
+      "severity": "minor",
+      "source": "상태 이상, [경련]이 추가 부여됩니다!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Status abnormality **[Poisoned]** is worsening!",
+      "defect": "A second System notice retains square brackets around the status name.",
+      "id": "F07",
+      "rationale": "The binding Markdown rule calls for UI terms without square brackets inside System panels.",
+      "replacement": "Status abnormality **Poisoned** is worsening!",
+      "severity": "minor",
+      "source": "상태 이상, [중독]이 더욱 심각해지고 있습니다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "An inferno engulfed hundreds—maybe a thousand—monsters and exploded.",
+      "defect": "The draft drops the established rendering of 겁화.",
+      "id": "F08",
+      "rationale": "The supplied glossary fixes 겁화 as “hellfire.”",
+      "replacement": "Hellfire engulfed hundreds—maybe a thousand—monsters and exploded.",
+      "severity": "minor",
+      "source": "수백, 혹은 천에 달하는 몬스터들을 집어삼킨 겁화가 폭발했다."
+    }
+  ],
+  "summary": "Several action and subject errors change who acts, what Jin gains, and how the aerial attack unfolds. There are also localized terminology and formatting issues.",
+  "version": 1
+}
