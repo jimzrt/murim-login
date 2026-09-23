@@ -110,13 +110,13 @@ Even with the authorities helping them comb through Hubei Province, they haven�
 
 X Month X Day.
 
-It has been seven days and nights since I came here. The Captain’s complexion was calm when I saw him again after so long.
+It’s been seven days and nights since we arrived. When I finally saw the Captain again, he looked at peace.
 
 Before, he’d been covered in wounds from whatever training he was doing alone, and his face was either pale or tinged blue. He seems to be better now.
 
 His temper has grown sharper instead, and he walks like a ghost.
 
-He gives off so little sign of his presence that he caught Young Hero Gung and me bad-mouthing him and beat us within an inch of our lives.
+He makes so little noise that Young Hero Gung and I got caught bad-mouthing him and beaten half to death.
 
 Seriously, how did he hear us from that far away?
 
@@ -132,7 +132,7 @@ He gazed down at the booklet, lost in thought. Just as he was about to put brush
 
 “Family Head! We did it!”
 
-“Not you—I did it! As expected, I’m a genius! Zhuge Wuhou!”
+“Not you! *I* did it! I knew I was a genius! Zhuge Wuhou!”
 
 Slip! Splotch!
 
@@ -142,13 +142,13 @@ Hyuk Mujin’s face contorted. So much for writing with the bearing of a great l
 
 “Which bastard was that?”
 
-A familiar voice slipped into his ear as he raged.
+A familiar voice reached him.
 
-“The bastard you’re talking about sounds like Sir Zhuge Feng. Shall I pass along your words?”
+“I believe that bastard is Sir Zhuge Feng. Shall I tell him what you said?”
 
 “Go ahead. Then Young Hero Gung dies, and I die right after him.”
 
-Hyuk Mujin answered gruffly and put down his brush as Gung Gibang entered the tent without permission.
+Hyuk Mujin put down his brush and gave Gung Gibang, who had entered the tent without permission, a curt look.
 
 “But what on earth is happening outside?”
 
@@ -166,7 +166,7 @@ Hyuk Mujin answered gruffly and put down his brush as Gung Gibang entered the te
 
 “A dog that pissed itself criticizing a dog that shit itself.”
 
-“Pissing is better than shitting. Besides, Young Hero Gung did it twice. Last time, when we went to dispose of the imugi’s corpse…”
+“Pissing is better than shitting. Besides, you did it twice. The other time was when we went to deal with the imugi’s corpse…”
 
 “This is driving me crazy. I told you, that wasn’t me!”
 
@@ -176,17 +176,17 @@ Hyuk Mujin clicked his tongue as Gung Gibang thumped his chest.
 
 “I’m telling you the truth!”
 
-“If it wasn’t Young Hero Gung, then who was it? Hmm? Surely you don’t think Perfected Being Hyeongong did it?”
+“If it wasn’t you, then who was it? Huh? Are you saying Perfected Being Hyeongong shit himself?”
 
 “Jin Taekyung! I swear that bastard reeked of shit—gah!”
 
-Only a few days earlier, he had been beaten half to death after having a similar conversation.
+Gung Gibang broke off with a start and looked around. Only a few days ago, he’d been beaten after a similar conversation.
 
 “He’s not here, is he?”
 
-Hyuk Mujin swallowed dryly as well.
+Hyuk Mujin swallowed.
 
-The Jin Taekyung he knew had a fiery personality. Whoever started the insults, he would happily beat both sides senseless.
+The Jin Taekyung he knew didn’t care who had started the insults. He’d happily beat everyone involved.
 
 “P-probably?”
 
@@ -194,9 +194,9 @@ The Jin Taekyung he knew had a fiery personality. Whoever started the insults, h
 
 “How would I know? Anyone who can sense the Captain coming is already a Supreme Peak master. Or a ghost.”
 
-The two of them looked around with every sense on high alert, then let out deep sighs of relief.
+They searched their surroundings with every sense on alert before finally letting out a breath.
 
-Suddenly, the absurdity of their situation struck them. They had become afraid after saying only a few words.
+It was absurd. A few words exchanged, and here they were, watching their backs.
 
 “How long do we have to live like this?”
 
@@ -212,11 +212,11 @@ Hyuk Mujin nodded vigorously. He’d known Jin Taekyung since his days as a deli
 
 “That’s true. And there are two of them, not just one.”
 
-“Young Hero Cheongpung? Don’t even get me started. After seeing the Drunken Eight Immortals Fist only a few times, he started imitating it pretty closely. If my master found out, he’d try to kill me for leaking our sect’s secret art.”
+“Young Hero Cheongpung? Don’t even bring him up. He saw the Drunken Eight Immortals Fist a few times and started imitating it. If my master found out, he’d try to kill me for letting our sect’s secret art get out.”
 
 “Ooh.”
 
-“……I have a fairly good idea what you were just thinking, but keep your mouth shut forever. I’m really going to die.”
+“…I can guess what you’re thinking. Keep your mouth shut forever. I mean it. He’ll kill me.”
 
 “Oooh.”
 
@@ -236,9 +236,9 @@ Fire King. Those two words were proof enough of what he could do.
 
 “Who could harm the Fire King?”
 
-“True. Even Dark Heaven wouldn’t dare. If they tried anything, three or four of their pillars would have been ripped out, and the surrounding area would already have been reduced to ashes.”
+“True. Even Dark Heaven wouldn’t stand a chance. If they tried anything, he’d rip out three or four of their pillars, and the whole area would be a wasteland by now.”
 
-Gung Gibang nodded in agreement and continued.
+Gung Gibang nodded, then paused.
 
 “Come to think of it, I haven’t seen much of Mungyeong lately either.”
 
@@ -272,15 +272,15 @@ Hyuk Mujin’s expression changed. Listening to Gung Gibang, he began to see wha
 
 “Exactly what you’re thinking.”
 
-“Good heavens. How can this be?”
+“Good heavens.”
 
-“If you think about it, it is strange. The Captain punches us whenever he gets bored, but he hasn’t used so much as a single act of violence against Mungyeong.”
+“It *is* strange, when you think about it. He throws punches at us whenever he feels like it, but he’s never once laid a hand on Mungyeong.”
 
 “He hardly even curses at him anymore. And something was suspicious when we went to deal with the imugi’s corpse.”
 
 “When Jin Taekyung disappeared, Mungyeong was gone too.”
 
-“Exactly! The Beggars’ Sect’s future Sect Leader never disappoints!”
+“Exactly! As expected of the Beggars’ Sect’s future leader!”
 
 “That settles it. Mungyeong…”
 
@@ -306,7 +306,7 @@ Hyuk Mujin was genuinely heartbroken. Mungyeong was like a clean white sheet of 
 
 “Ah…”
 
-Thinking of Mungyeong, who must by now be fighting for his life under Jin Taekyung’s evil clutches, they felt their hearts grow heavy.
+They sighed together. The thought of Mungyeong fighting for his life under Jin Taekyung’s wicked hand weighed heavily on them both.
 
 *Please survive, Mungyeong.*
 
@@ -318,7 +318,7 @@ Slice!
 
 A gust of wind brushed my neck.
 
-The pain was as cold as ice, then immediately flared hot. A bead of cold sweat ran down my forehead and dropped onto the ground with a soft tap.
+The pain was cold as ice, then burned hot. A drop of cold sweat ran down my forehead and fell to the ground.
 
 Swish, tap!
 
@@ -344,9 +344,9 @@ I looked all around, but I couldn’t see him. There was only that Sound Transmi
 
 I took a deep breath and tightened my grip on White Flame’s shaft.
 
-Toward whoever was watching me from somewhere unseen, I muttered as though spitting the words out.
+To whoever was watching me from somewhere out of sight, I muttered through clenched teeth.
 
-“This is so fucking shitty I can’t keep doing this.”
+“I can’t fucking do this anymore.”
 
 Whoosh!
 

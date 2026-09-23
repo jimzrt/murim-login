@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, but it softens a physical action, shifts the meaning of a line about the gap, and omits a character’s explicit startled reaction.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 47",
+      "current": "The imugi’s enormous size nearly made me piss myself once, and the Captain’s butchering skills nearly did it a second time.",
+      "defect": "The Korean says he actually wet himself twice, not that he nearly did.",
+      "replacement": "The imugi’s enormous size made me piss myself once, and the Captain’s butchering skills did it a second time.",
+      "rationale": "The source repeats 지렸다, describing an actual physical reaction; “nearly made me” weakens it.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 179",
+      "current": "Because that wouldn’t solve the problem.",
+      "defect": "This changes “that’s not a fundamental solution” into a claim that it would not solve the problem at all.",
+      "replacement": "Because that wouldn’t be a fundamental solution.",
+      "rationale": "근본적인 해결책 means a fundamental or underlying solution; the speaker objects to the approach as insufficient, not necessarily ineffective.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 199",
+      "current": "“He’s not here, is he?”",
+      "defect": "The assembled English omits Gung Gibang’s sudden fright and his looking around before asking whether Taekyung is nearby.",
+      "replacement": "Gung Gibang stopped mid-sentence, startled, and looked around. “He’s not here, is he?”",
+      "rationale": "The source explicitly describes him being startled and checking his surroundings, preserving the comic beat after he mentions Taekyung.",
+      "confidence": 0.98
+    }
+  ]
+}
