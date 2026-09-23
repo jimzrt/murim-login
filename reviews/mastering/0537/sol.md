@@ -36,7 +36,7 @@ They might once have fought on the same battlefield, but the man before him was 
 
 “I-I apologize. With my son involved, I spoke out of turn.”
 
-Mae Jonghak lifted his teacup with a bright, guileless smile that belied his age.
+Mae Jonghak lifted his teacup, smiling with a clarity that belied his age.
 
 “Don’t worry about it. These things happen. How many times have we fought together?”
 
@@ -58,7 +58,7 @@ That, Hwangbo Gun could not overlook.
 
 His voice, thick with anger, suddenly dropped.
 
-“An orthodox martial artist who witnessed such injustice and still protected that spawn of the demonic, heterodox arts could no longer be called orthodox, could he? Blazing Flame Divine Dragon Jin Taekyung. I’m speaking of that man.”
+“Can an orthodox martial artist who sees such injustice and protects that spawn still call himself orthodox? Blazing Flame Divine Dragon Jin Taekyung. That is the man I mean.”
 
 “Hmm. So that happened.”
 
@@ -72,11 +72,11 @@ Mae Jonghak set down his half-empty teacup and tilted his head.
 
 “I’ve heard your account. I understand what happened. Now tell me what you want.”
 
-Hwangbo Gun stared at Mae Jonghak without speaking, then uttered a single word.
+Hwangbo Gun stared at him for a moment before answering.
 
-“Punishment. I want appropriate punishment.”
+“Punishment. Appropriate punishment.”
 
-“For example?”
+“For whom?”
 
 “I had my retainers look into it. The man who attacked my son belongs to the Black Dragon Demon Gate in Gansu.”
 
@@ -158,7 +158,7 @@ The door opened, and a man entered the office. His prosthetic leg made a dull so
 
 Mae Jonghak looked at the hand he had used to pat Hwangbo Gun’s shoulder, then offered his visitor a seat.
 
-The Chief of the Hidden Shadow Pavilion, Thousand-Faced Fox Song Ho, cast a brief glance at the teacup Hwangbo Gun had not even half emptied before speaking.
+Thousand-Faced Fox Song Ho, Chief of the Murim Alliance’s Hidden Shadow Pavilion, glanced at the teacup Hwangbo Gun had left more than half full.
 
 “Some people are unhappy with the recent appointments.”
 
@@ -200,7 +200,7 @@ Mae Jonghak wasn’t wrong. It came down to who did what, and how. Now and then,
 
 Mae Jonghak scratched his chin. A moment later, he spoke again.
 
-“All right. I’m done. Then let’s pretend the whole thing never happened.”
+“All right. I’m done. No personnel action, then.”
 
 “Pardon?”
 
@@ -210,9 +210,9 @@ Mae Jonghak scratched his chin. A moment later, he spoke again.
 
 Song Ho stared at him, his eyes trembling, then let out a disbelieving laugh.
 
-“Of course. You only said you would consider it, Alliance Leader.”
+“Of course. You only promised to *consider* it.”
 
-“Even so, he was once a comrade I fought alongside. Shouldn’t I keep my promise?”
+“Still, he’s an old comrade. I had to keep my promise.”
 
 “The Hwangbo Family Head is going to clutch the back of his neck.”
 
@@ -224,7 +224,7 @@ Song Ho stared at him, his eyes trembling, then let out a disbelieving laugh.
 
 Song Ho struggled to hold back his laughter. Mae Jonghak was far better suited to the role of Alliance Leader than he had expected. He was so easygoing by nature that he could let almost anything pass with *That can happen.* However hard others pressed him, the pressure never seemed to touch him.
 
-*His inner resolve is upright and firm.*
+*And beneath it, he has a firm, unwavering core.*
 
 He was more than Song Ho had hoped for. Song Ho addressed him with genuine feeling.
 
@@ -232,7 +232,7 @@ He was more than Song Ho had hoped for. Song Ho addressed him with genuine feeli
 
 “What is it?”
 
-“I just felt like calling you.”
+“I just felt like saying it.”
 
 “Hmm. That can happen.”
 
@@ -276,13 +276,13 @@ The martial artist from the Alliance Leader’s Office nodded.
 
 “Yes.”
 
-“Why all of a sudden? And this punishment is too harsh.”
+“Why all of a sudden? And isn’t that a little harsh?”
 
 “I’ve delivered the message. I’ll be going.”
 
 Whoosh!
 
-*What kind of situation is this supposed to be?*
+*What the hell is going on?*
 
 I stared blankly after him as he vanished like the wind. Hyuk Mujin came over and asked cautiously,
 
@@ -298,11 +298,11 @@ I let out a long sigh.
 
 “…?”
 
-“Ugh, I was going to have roast duck tonight.”
+“Damn it. I was going to have roast duck tonight.”
 
 I grumbled under my breath and kicked Hyuk Mujin in the butt.
 
-“Enough. Let’s go.”
+“Never mind. Let’s go.”
 
 “What kind of punishment is that? And where are we going?”
 
