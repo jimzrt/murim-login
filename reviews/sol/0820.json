@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Dozens, hundreds died in the attempt to be chosen by God. But I was not the only one.",
+      "defect": "The last sentence says Yahya was not the only one chosen; the source contrasts those who died with Yahya, who did not.",
+      "id": "F01",
+      "rationale": "나만은 아니었다 excludes Yahya from the preceding deaths, not from the group of chosen warriors.",
+      "replacement": "Dozens, hundreds died trying to be chosen by God. But I alone survived.",
+      "severity": "critical",
+      "source": "신의 선택을 받기 위해 수십, 수백이 죽었지. 하지만 나만은 아니었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I clenched my teeth against the pain and thrust the spear in my reverse grip at the fanatics charging from the front.\n\nThe space was too tight to throw the spear, but I only needed a single step.",
+      "defect": "Jin throws the spear; the draft makes him thrust it while saying there is no room to throw it.",
+      "id": "F02",
+      "rationale": "투창 identifies the action as a spear throw, which also explains Jin’s realization that his weapon is gone.",
+      "replacement": "I clenched my teeth against the pain and hurled the spear I held in a reverse grip at the fanatics charging straight at me.\n\nThere was barely room to throw a spear, but one step was all I needed.",
+      "severity": "critical",
+      "source": "이를 악물며 고통을 참아낸 나는 정면에서 달려드는 광신도들을 향해 역수(逆手)로 쥔 창을 내쏘았다.\n\n투창을 시도하기에는 좁은 공간이었지만, 내게는 단 한 걸음이면 충분했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Now? Now what?\n\nOh. Their weapons?",
+      "defect": "The draft makes Jin think of the fanatics’ weapons rather than the weapon he has just thrown.",
+      "id": "F03",
+      "rationale": "Jin’s missing spear is what gives the old man an apparent opening.",
+      "replacement": "Now? Now what?\n\nOh. My weapon?",
+      "severity": "critical",
+      "source": "지금? 지금 뭐?\n\n아. 무기?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "But to overcome a ten-to-one disadvantage and win this fight, we had to cut off the head.",
+      "defect": "The numerical disadvantage is greater than ten to one, not exactly ten to one.",
+      "id": "F04",
+      "rationale": "열 배가 넘는 specifies that the ratio exceeds tenfold.",
+      "replacement": "But to overcome a disadvantage of more than ten to one and win this fight, we had to cut off the head.",
+      "severity": "critical",
+      "source": "하지만 열 배가 넘는 수적 열세를 극복하고 전투에서 승리하기 위해서는 머리를 잘라 내야 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then does that make a half-and-half bowl of rice and noodles God’s warrior too?",
+      "defect": "Rice and noodles replace 짬짜면’s two noodle dishes, weakening the half-and-half food joke.",
+      "id": "F05",
+      "rationale": "짬짜면 combines jjajangmyeon and jjamppong in one half-and-half order; rice is not part of it.",
+      "replacement": "Then does that make a half-and-half order of black-bean noodles and spicy seafood noodles God’s warrior too?",
+      "severity": "major",
+      "source": "그래서, 당신이 말하는 그 신의 선택이라는 것이 인간과 괴물을 반반 섞으면 되는 거였나? 그럼 시벌 짬짜면도 신의 전사야?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The old man, whose name was Yahya Muhammad Ahmad Bedouin, twisted his scimitar as he answered.",
+      "defect": "The narration drops Jin’s dry observation that the old man has a long name.",
+      "id": "F06",
+      "rationale": "긴 이름을 가진 is an explicit humorous aside.",
+      "replacement": "The old man with the long name, Yahya Muhammad Ahmad Bedouin, twisted his scimitar as he answered.",
+      "severity": "minor",
+      "source": "야흐야 무함마드 아흐마드 베두인이라는, 긴 이름을 가진 노인이 대답과 동시에 시미터를 비틀었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Through the wide-open eyes between the pitch-black robe and turban wrapped tightly around his body, I could see the White Flame’s blade reflected in his gaze.",
+      "defect": "The wording makes the eyes a viewing aperture and leaves their position between the robe and turban unclear.",
+      "id": "F07",
+      "rationale": "Jin sees the enemy’s wide eyes between the garments, then sees his spearhead reflected in those eyes.",
+      "replacement": "Between the pitch-black robe and turban that covered him completely, I saw his eyes widen. The White Flame’s spearhead was reflected in them.",
+      "severity": "minor",
+      "source": "빈틈없이 전신을 감싼 새카만 로브와 터번 사이로, 크게 뜨여진 눈동자가 보였다.\n\n놈의 눈에 비친 백염의 창날도 함께."
+    }
+  ],
+  "summary": "The draft has three scene-changing errors: it reverses Yahya’s survival claim, turns a thrown spear into a thrust, and obscures why Jin realizes he is unarmed. It also loses a quantity and two jokes.",
+  "version": 1
+}
