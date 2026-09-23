@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“I’m the Blazing Flame Divine Dragon.”",
+      "defect": "Quotation marks make this line spoken aloud, though it is part of the private Sound Transmission exchange.",
+      "id": "F01",
+      "rationale": "The source keeps this reply in the same transmitted conversation as the surrounding dashed lines.",
+      "replacement": "—I’m the Blazing Flame Divine Dragon.",
+      "severity": "critical",
+      "source": "- 저는 열화신룡인데요."
+    },
+    {
+      "confidence": 0.93,
+      "current": "*It’s going more smoothly than I could have hoped. I can hardly believe this is his first time working the channels and pressure points like this.*",
+      "defect": "The draft invents that this is Jeok Cheongang’s first time performing the technique.",
+      "id": "F02",
+      "rationale": "The Divine Physician marvels that the procedure is going so smoothly despite what it entails; the source says nothing about Jeok’s previous experience.",
+      "replacement": "*It’s going more smoothly than I could have hoped. It’s hard to believe he’s performing something as difficult as this technique.*",
+      "severity": "major",
+      "source": "‘더할 나위 없이 순조롭다. 바로 그 추궁과혈(推宮過穴)이라고는 믿기지 않을 만큼.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Gah!”",
+      "defect": "A forceful reprimand becomes a startled or distressed exclamation.",
+      "id": "F03",
+      "rationale": "Jeok immediately glares at Jin and rebukes him for accusing the physician of using poison.",
+      "replacement": "“Enough!”",
+      "severity": "major",
+      "source": "“갈!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "—How dare you try to act like you’re on my level, you weakling?",
+      "defect": "“Weakling” substantially softens Jeok’s crude insult and blunts the reason Jin feels wounded by it.",
+      "id": "F04",
+      "rationale": "좆밥 is pointedly vulgar here, and Jin reacts specifically to being called it.",
+      "replacement": "—How dare a fucking nobody like you pretend you’re on my level?",
+      "severity": "major",
+      "source": "- 좆밥 주제에 어딜 감히 노부에게 비비려 드느냐."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The pill was about the size of a marble, and its color was murky.",
+      "defect": "“Murky” suggests cloudiness rather than the pill’s darkish color.",
+      "id": "F05",
+      "rationale": "거무스름한 describes a dark or blackish shade.",
+      "replacement": "The pill was about the size of a marble and dark in color.",
+      "severity": "minor",
+      "source": "구슬만 한 크기에 거무스름한 색깔의 단환."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes one transmitted line into spoken dialogue, invents a prior-history detail, and softens two sharp exchanges.",
+  "version": 1
+}

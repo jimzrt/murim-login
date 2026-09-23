@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 844
-- Next chapter: 845
-- Current block: 840–844 (5/5)
-- Latest translation: `translations/0844.md`
-- Latest summary: `summaries/beats/0844.md`
-- Safe profiles through: chapter 844
+- Last completed: 845
+- Next chapter: 846
+- Current block: 845–849 (1/5)
+- Latest translation: `translations/0845.md`
+- Latest summary: `summaries/beats/0845.md`
+- Safe profiles through: chapter 845
 
 ## Current Block
 
-- The Blood Lord inspects Dark Heaven’s experiments on Peak masters and rejects the results as too weak and short-lived, though he acknowledges that the sorcerers’ research is progressing. He orders them to preserve their remaining strength and prepare selected people as seeds to be buried and spread when the time comes.
-- The Blood Lord recalls how Jin Taekyung obstructed him and how both Jin and Cheongpung became far stronger than he expected. He resolves not to underestimate Jin again and to gather greater strength for the Lord of Heaven’s great cause. The Lord of Heaven recently ordered him to bring down the heavens; the Blood Lord sends out missives carried by dozens of black-feathered hawks.
+- The Divine Physician gives Jin Taekyung a foul-tasting pill he made for him. After Jeok Cheongang forces Jin to swallow it, he uses Scorching Yang Qi and pressure-point treatment to spread its effects through Jin’s body. The Divine Physician confirms the medicine was absorbed but says Jin’s damaged vital essence cannot be fully restored, though his condition may improve.
+- As Jin lies unconscious and Jeok Cheongang watches over him, the door bursts open and the sound of horses’ hooves comes from outside.
 
 ## Open Questions
 
