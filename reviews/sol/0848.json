@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "My internal energy had increased noticeably, even if not by a huge amount.",
+      "defect": "The draft says the increase was noticeable; the source says it was not visibly apparent, though he could immediately feel it.",
+      "id": "F01",
+      "rationale": "눈에 띌 만큼은 아니어도 contrasts outward visibility with Taekyung’s immediate perception.",
+      "replacement": "The increase in my internal energy wasn’t visible, but I could feel it at once.",
+      "severity": "major",
+      "source": "눈에 띌 만큼은 아니어도 확실히 증가한 공력이 대번에 느껴졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You wouldn’t understand. It’s just something.”",
+      "defect": "Taekyung withholds the information; he does not say Mujin lacks the ability to understand it.",
+      "id": "F02",
+      "rationale": "몰라도 돼 means it is fine for Mujin not to know.",
+      "replacement": "“You don’t need to know. It’s just something.”",
+      "severity": "minor",
+      "source": "넌 몰라도 돼. 그냥 그런 게 있어."
+    },
+    {
+      "confidence": 0.91,
+      "current": "*“Give them a proper funeral and watch them on their final journey. But whoever the patient may be, always remember one thing.”*",
+      "defect": "A funeral replaces the specific act of carefully preparing the deceased’s body.",
+      "id": "F03",
+      "rationale": "염해 주고 names preparation of the body; it does not say to hold a funeral.",
+      "replacement": "*“Carefully prepare their body for burial, and see them off on their final journey. But whoever the patient may be, always remember one thing.”*",
+      "severity": "major",
+      "source": "정성을 다해 염(鹽)해 주고, 떠나는 길을 지켜보아라."
+    }
+  ],
+  "summary": "Three actionable fidelity issues: a reversed observation about internal energy, a changed conversational cue, and a funeral substituted for preparing the body.",
+  "version": 1
+}
