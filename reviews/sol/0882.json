@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“Shut your mouth! How dare you speak that way right outside the imperial palace… What kind of disgraceful nonsense is this?”",
+      "defect": "Omits the accusation that the scholar is speaking this way in the Emperor’s presence, reducing the force of the rebuke to a complaint about location.",
+      "id": "F01",
+      "rationale": "어느 안전이라고 invokes the ruler’s presence; 황궁 앞에서 separately names the location.",
+      "replacement": "“Shut your mouth! How dare you say that in His Majesty’s presence… Right outside the imperial palace, of all places!”",
+      "severity": "major",
+      "source": "닥치시오! 감히 어느 안전이라고…… 황궁 앞에서 이 무슨 망발이오!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Ooohhyyaaangjaaanngyuuk!”",
+      "defect": "Romanizing the drawn-out food name prevents an English reader from recognizing what the giant shouts, obscuring the joke that the crowd and guards hear him call for a dish.",
+      "id": "F02",
+      "rationale": "The shout is an elongated 오향장육, rendered elsewhere in this draft as “five-spice pork.”",
+      "replacement": "“Fiiive-spiiice poooork!”",
+      "severity": "major",
+      "source": "“오오햐아아앙자아앙유우우욱!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Hey, you lapdog clinging to power! Which academy are you from?”",
+      "defect": "“Lapdog” softens the speaker’s direct profanity.",
+      "id": "F03",
+      "rationale": "개새끼야 is a strong direct insult, alongside the accusation that the addressee lives by attaching himself to power.",
+      "replacement": "“You bootlicking son of a bitch! Which academy are you from?”",
+      "severity": "minor",
+      "source": "“야 이 권력에 빌붙어 먹는 개새끼야! 너 어디 서원 출신이야!”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "People stared in stunned disbelief at the giant—someone they’d never seen before, and might never see again.",
+      "defect": "Changes an assertion that they would never see a giant like this again into uncertainty about seeing this particular man again.",
+      "id": "F04",
+      "rationale": "The source emphasizes the unprecedented and unrepeatable sight of a giant of his kind.",
+      "replacement": "People stared in stunned disbelief at a giant unlike any they had seen before—or would ever see again.",
+      "severity": "minor",
+      "source": "사람들은 지금껏 본 적 없고, 앞으로도 볼 수 없을 거인의 모습에 경악을 금치 못했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Not a chance. Hand over your identity tag before anyone gets hurt.”",
+      "defect": "Softens the guard’s threat from bloodshed to someone getting hurt.",
+      "id": "F05",
+      "rationale": "피를 보기 전에 explicitly raises the prospect of seeing blood.",
+      "replacement": "“Not a chance. Hand over your identity tag before blood is spilled.”",
+      "severity": "minor",
+      "source": "“어림도 없지. 피를 보기 전에 당장 호패부터 내놓아라.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“We’re the acrobatic troupe performing at the banquet. That’s our official letter of introduction.”\n\n“An acrobatic troupe?”",
+      "defect": "Narrows a circus troupe to an acrobatic troupe.",
+      "id": "F06",
+      "rationale": "마희단 denotes a circus troupe, not specifically an acrobatic act.",
+      "replacement": "“We’re the circus troupe performing at the banquet. That’s our official letter of introduction.”\n\n“A circus troupe?”",
+      "severity": "minor",
+      "source": "“우린 이번 연회에서 공연하게 된 마희단(馬戲團)이오. 그건 정식 소개장이고.”\n\n“마희단?”"
+    }
+  ],
+  "summary": "The draft largely follows the scene, but it loses a key hierarchy cue and obscures the food-shout joke.",
+  "version": 1
+}
