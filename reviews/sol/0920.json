@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The Imperial Guards and Fire Dragon Pavilion members fighting the dead who kept rising no matter how many times they were killed.",
+      "defect": "Identifies the defenders as the Imperial Guards, a different force in this chapter.",
+      "id": "F01",
+      "rationale": "금의위 is the Embroidered Uniform Guard; 금위군 denotes the Imperial Guards.",
+      "replacement": "The Embroidered Uniform Guard and Fire Dragon Pavilion members fighting the dead who kept rising no matter how many times they were killed.",
+      "severity": "critical",
+      "source": "금의위와 화룡각 대원들도"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Imperial Guards who had fallen to ash here today had also been prepared to die.",
+      "defect": "Attributes the sacrifice to the wrong imperial force.",
+      "id": "F02",
+      "rationale": "The source again names 금의위, not 금위군.",
+      "replacement": "The Embroidered Uniform Guard who had fallen to ash here today had also been prepared to die.",
+      "severity": "critical",
+      "source": "오늘 이 자리에서 재가 되어 스러진 금의위들 역시 죽음을 각오했었으니."
+    },
+    {
+      "confidence": 1.0,
+      "current": "ranging from First Rate to Peak",
+      "defect": "Lowers the bottom of the fighters’ stated range by one established tier.",
+      "id": "F03",
+      "rationale": "초일류 is Supreme First Rate, distinct from 일류, First Rate.",
+      "replacement": "ranging from Supreme First Rate to Peak",
+      "severity": "major",
+      "source": "그들 한 사람 한 사람이 초일류에서 절정의 경지를 오가던 실력자들."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Have the drums sounded. The war drums.”",
+      "defect": "Makes the Emperor’s request plural despite the single drum Baek Yeon immediately strikes.",
+      "id": "F04",
+      "rationale": "북 and 전고 refer to the drum identified in the following action as the great drum that opened the banquet.",
+      "replacement": "“Sound the drum. The war drum.”",
+      "severity": "major",
+      "source": "“북을, 전고(戰鼓)를 울리게.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The hundred or so yards between them meant nothing now.",
+      "defect": "Compresses the distance between the two characters to roughly a third of its stated length.",
+      "id": "F05",
+      "rationale": "A 장 is approximately 3.3 meters; 백여 장 is more than three hundred yards, not about one hundred.",
+      "replacement": "The more than three hundred yards between them meant nothing now.",
+      "severity": "critical",
+      "source": "두 사람 사이에 놓인 백여 장의 거리는 지금 이 순간 아무런 의미도 없었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The grand banquet hall, stretching hundreds of yards in every direction, was submerged in blood.",
+      "defect": "Again treats 장 as yards, understating the battlefield’s dimensions.",
+      "id": "F06",
+      "rationale": "The source measures both dimensions in hundreds of 장, each substantially longer than a yard.",
+      "replacement": "The grand banquet hall, stretching nearly a thousand yards in both length and breadth, was submerged in blood.",
+      "severity": "major",
+      "source": "종횡으로 수백여 장에 이르는 대연회장은 핏물로 잠겨 있었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A brilliant beam of light, caught in the flash, appeared as though drawn in the air.",
+      "defect": "Obscures that the new shaft of light is set against the luminous bowstring So Gyo has just drawn.",
+      "id": "F07",
+      "rationale": "The 빛줄기 is 걸린 on the 섬광 joining the bow’s ends; this is part of the bow’s firing mechanism, not simply a beam caught inside a flash.",
+      "replacement": "A brilliant shaft of light appeared as though traced in midair, set against the shining bowstring.",
+      "severity": "major",
+      "source": "허공에서 그려지듯 나타난, 섬광에 걸린 휘황한 빛줄기."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it conflates two imperial forces, lowers the vanguard’s stated martial level, compresses key distances, and obscures how So Gyo’s bow forms its shot.",
+  "version": 1
+}
