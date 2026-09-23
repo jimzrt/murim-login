@@ -1,9 +1,9 @@
 # Magic Johnson (매직 존슨)
 
-- **Safe through:** Chapter 744
+- **Safe through:** Chapter 823
 - **Aliases:** Grand Mage
-- **Role:** Magic Johnson is a Grand Mage and expert magic researcher who assists Jin's group with investigating magical threats and containing damage from the rising distribution of magical power.
-- **Personality:** Serious and practical when confronting dangerous magical phenomena, but easily startled by unexpected discoveries.
-- **Voice:** Measured and grave when discussing threats, with direct and conversational speech among allies.
-- **Relationships:** An ally of Jin Taekyung and Team Leader Choi; he is entrusted with Siegfried Wassmann's stolen research materials and is helping investigate Michael Silbert and The Prophet.
+- **Role:** A Grand Mage and Jin Taekyung’s ally, capable of using Teleport magic in exceptionally dangerous conditions.
+- **Personality:** Practical and wary of reckless risks, but willing to act when duty and the stakes leave him no acceptable alternative.
+- **Voice:** Familiar and conversational with Jin, using blunt objections, direct appeals, and occasional profanity.
+- **Relationships:** Jin Taekyung is his trusted ally; he agrees to teleport Jin and the Skeleton King toward the Doppelganger while remaining behind to guard the battlefield.
 - **Sources:** Korean source and accepted translation, Chapter 384

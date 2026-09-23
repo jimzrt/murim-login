@@ -1,0 +1,114 @@
+{
+  "chapter": 823,
+  "files": {
+    "characters/Doppelganger.md": "4df1efa2dfff26075afbb32421195a498a004646033bd1dfa695a15882926efc",
+    "characters/Human Butcher.md": "3576839dfba303354b914301859d8e5a52a80bb2e9f6030081767fb949039ae0",
+    "characters/Jin Taekyung.md": "4f1576771481328e739b81376a60c1cd0c4a187f347caadbdcbde3101c9c540d",
+    "characters/Jintae.md": "5e93f66f7989c82b682a6e275f197674f3af86a59d5588f57af38b340358cffa",
+    "characters/Magic Johnson.md": "d837cf775ea825193cb81c1fc833a3c412e2a7839b6cf9f9ee0b0e2daf1340ec",
+    "characters/Skeleton King.md": "adb9a7c966699cbd5fadd459f8de77c7e630ec60a4c539257b4670c0f5386d81",
+    "characters/The Prophet.md": "7f2f1c3048a4016e8c6620937b40df6f09777954608856d40aa0cc4a8a1dd06c",
+    "docs/ADDRESS.md": "d6eb10505e3ae21e2634e74e87280a075a9e5c9524aeeb977b2ad32b3670e66a",
+    "docs/CONTEXT.json": "2c446a428a5249cf1f78ae9a9aac131e889bfb0c6d50596eccc0863d25239704",
+    "docs/STATE.md": "8bda145808c531da755669057d26a5644261b78e6b93680c1a55e63c19b05401",
+    "summaries/beats/0823.md": "3c1a0aa87bc11a765258504971b7e89c6fb5d15138b49beaac169d89dc25845f"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "friend and ally",
+        "normal_address": "human",
+        "notes": "Calls Jin 인간아 and teases him while checking his condition.",
+        "speaker": "스켈레톤 킹",
+        "speech_level": "insulting and familiar"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin's Middle Dantian is at its limit and his mental strength is depleted after the battle; the System cannot heal either condition.",
+        "Jin and the Skeleton King are about to use Magic Johnson's Teleport magic to pursue the Doppelganger; Johnson remains behind to guard the battlefield."
+      ],
+      "plot": [
+        "After Jin Taekyung defeats Hamid Shah Masoud and forces the fanatics to surrender, his exhausted Middle Dantian and depleted mental strength leave him barely able to stand. Still intent on pursuing the Doppelganger, he persuades Magic Johnson to teleport him to the place the Doppelganger first revealed; the Skeleton King joins him, while Johnson agrees to send them and asks them to return alive."
+      ],
+      "translation_decisions": [
+        "Keep Teleport distinct from Blink and Warp; the unusually high magical-power concentration makes this Teleport attempt extremely dangerous.",
+        "Render 등가교환 as “Equivalent Exchange.”"
+      ]
+    },
+    "chapter": 823,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and pursues Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet is a Level 170 Doppelganger titled “The Final Abyss,” who concealed itself for decades, including under the name Muninn.",
+        "The Doppelganger can resurrect by consuming absorbed lives and reproduce absorbed people’s appearances, abilities, and memories; it has taken Siegfried Bassman’s face and Grand Mage abilities.",
+        "The Doppelganger’s absorbed lives are dwindling; its left arm was torn off, and regeneration is slow after forcing Blink beyond its normal range.",
+        "The Doppelganger fled west after the battle in the Rub’ al Khali Desert; Jin intends to stop its plan, which it has spent more than thirty years building.",
+        "Jin defeated Hamid Shah Masoud and ended the battle against the fanatics, but his Middle Dantian is at its limit and his mental strength is depleted.",
+        "Jin and the Skeleton King are about to pursue the Doppelganger by Teleport; Magic Johnson agreed to send them and stay behind to guard the battlefield."
+      ],
+      "continuity_sources": [
+        822,
+        823
+      ],
+      "open_questions": [
+        "Who is the Doppelganger’s master, what is the plan, and why must the target be avoided until it is complete?",
+        "What does the Chosen One designation mean?",
+        "Will Jin and the Skeleton King reach the Doppelganger and stop it?",
+        "Is Magic Johnson human?"
+      ],
+      "safe_through": 823,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Keep Blink distinct from Teleport and Warp; extended-range Blink causes severe strain.",
+        "Keep Fire Storm and Aqua Storm as distinct named spells.",
+        "Render [영웅의 검] as “Hero’s Sword.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Magic Johnson",
+        "korean": "매직 존슨",
+        "notes": "Grand Mage allied with Jin."
+      },
+      {
+        "english": "Skeleton King",
+        "korean": "스켈레톤 킹",
+        "notes": "Jin’s undead friend and ally."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [],
+        "english": "Magic Johnson",
+        "filename": "Magic Johnson.md",
+        "korean": "매직 존슨",
+        "personality": "Practical and wary of reckless risks, but willing to act when duty and the stakes leave him no acceptable alternative.",
+        "relationships": "Jin Taekyung is his trusted ally; he agrees to teleport Jin and the Skeleton King toward the Doppelganger while remaining behind to guard the battlefield.",
+        "role": "A Grand Mage and Jin Taekyung’s ally, capable of using Teleport magic in exceptionally dangerous conditions.",
+        "voice": "Familiar and conversational with Jin, using blunt objections, direct appeals, and occasional profanity."
+      },
+      {
+        "aliases": [],
+        "english": "Skeleton King",
+        "filename": "Skeleton King.md",
+        "korean": "스켈레톤 킹",
+        "personality": "Blunt, irreverent, and protective of his companions.",
+        "relationships": "He is Jin Taekyung’s friend and chooses to accompany him in pursuit of the Doppelganger.",
+        "role": "The undead king who is Jin Taekyung’s friend and ally.",
+        "voice": "Insulting and familiar, often addressing Jin as “human” and using teasing put-downs."
+      }
+    ],
+    "profile_updates": [
+      {
+        "current": "- **Personality:** Hungry, self-aware, dryly observant, pragmatic under pressure, and willing to risk himself for people he has accepted as real; treats impossible situations like games until their human cost becomes undeniable.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Personality:** Hungry, self-aware, dryly observant, and pragmatic under pressure; accepts extreme personal risk when duty and the lives of others demand it."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

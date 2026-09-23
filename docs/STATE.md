@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 822
-- Next chapter: 823
-- Current block: 820–824 (3/5)
-- Latest translation: `translations/0822.md`
-- Latest summary: `summaries/beats/0822.md`
-- Safe profiles through: chapter 822
+- Last completed: 823
+- Next chapter: 824
+- Current block: 820–824 (4/5)
+- Latest translation: `translations/0823.md`
+- Latest summary: `summaries/beats/0823.md`
+- Safe profiles through: chapter 823
 
 ## Current Block
 
-- After the Skeleton King challenges the fanatics’ belief in a promised land, Hamid Shah Masoud and the surrounding followers begin to waver. Jin arrives, condemns the fanatics for causing mass death, and kills the attackers who rush him with a storm of weapons. He then executes Hamid, bringing the battle to an end at dawn.
-- Jin turns his gaze west, toward the darkness where the Prophet remains.
+- After Jin Taekyung defeats Hamid Shah Masoud and forces the fanatics to surrender, his exhausted Middle Dantian and depleted mental strength leave him barely able to stand. Still intent on pursuing the Doppelganger, he persuades Magic Johnson to teleport him to the place the Doppelganger first revealed; the Skeleton King joins him, while Johnson agrees to send them and asks them to return alive.
 
 ## Open Questions
 
 - Who is the Doppelganger’s master, what is the plan, and why must the target be avoided until it is complete?
 - What does the Chosen One designation mean?
-- Will Jin reach the Doppelganger before it escapes?
+- Will Jin and the Skeleton King reach the Doppelganger and stop it?
 - Is Magic Johnson human?
 
 ## Exceptional Decision

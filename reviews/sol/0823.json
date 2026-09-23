@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Send me to the place The Prophet—no, the Doppelganger—first told us about.”",
+      "defect": "“Us” specifies who was told about the place, though the Korean leaves the recipient unstated.",
+      "id": "F01",
+      "rationale": "The source identifies the place and who revealed it, but not the recipient of that information.",
+      "replacement": "“Send me to the place the Prophet—no, the Doppelganger—first revealed.”",
+      "severity": "major",
+      "source": "“절 보내 줘요. 처음 선지자가, 아니 도플갱어가 알려 줬던 그 장소로.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He was ashamed of himself for making this choice.",
+      "defect": "The draft loses Johnson’s sense that he has no choice.",
+      "id": "F02",
+      "rationale": "할 수 밖에 없는 explicitly frames the decision as unavoidable.",
+      "replacement": "He was ashamed of himself for having no choice but to make it.",
+      "severity": "minor",
+      "source": "이런 선택을 할 수 밖에 없는 스스로가 부끄러웠다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Magic Johnson muttered a curse, his strength failing him.",
+      "defect": "The draft turns a weakly spoken curse into an assertion that Johnson’s physical strength is failing.",
+      "id": "F03",
+      "rationale": "힘없이 describes how he mutters; it does not establish a new physical decline.",
+      "replacement": "Magic Johnson muttered a curse weakly.",
+      "severity": "minor",
+      "source": "매직 존슨은 힘없이 욕설을 중얼거렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> - You have defeated [Lv. 140 Hamid Shah Masoud]!\n> - You have gained a substantial amount of EXP and Fame!\n> - Level Up!\n> - All status ailments have been removed as a Level Up effect!\n> - Some wounds have been healed as a Level Up effect!\n> - Special debuff [Broken Body] rejects the healing effect!\n> - Status ailment [Mental Strength Depleted] rejects the healing effect!\n> - [Middle Dantian] has reached its limit! Rest as soon as possible to recover your mental strength!",
+      "defect": "The System notices retain square brackets around UI terms, contrary to the packet’s panel-formatting rule.",
+      "id": "F04",
+      "rationale": "The single blockquote already identifies these lines as System notices; the binding Markdown rule excludes square brackets within them.",
+      "replacement": "> **System**\n> - You have defeated Lv. 140 Hamid Shah Masoud!\n> - You have gained a substantial amount of EXP and Fame!\n> - Level Up!\n> - All status ailments have been removed as a Level Up effect!\n> - Some wounds have been healed as a Level Up effect!\n> - Special debuff Broken Body rejects the healing effect!\n> - Status ailment Mental Strength Depleted rejects the healing effect!\n> - Middle Dantian has reached its limit! Rest as soon as possible to recover your mental strength!",
+      "severity": "minor",
+      "source": "- [Lv.140 하미드 샤 마수드]를 처치하셨습니다!\n\n- 상당량의 경험치와 명성을 획득하셨습니다!\n\n- 레벨 업!\n\n- 레벨 업의 효과로 모든 상태 이상이 해제됩니다!\n\n- 레벨 업의 효과로 일부 상처가 치유됩니다!\n\n- 특수 디버프, [부서진 신체]가 치유의 힘을 거부합니다!\n\n- 상태 이상, [심력 고갈]이 치유의 힘을 거부합니다!\n\n- [중단전]이 한계에 다다랐습니다! 한시라도 빨리 휴식을 취하여 심력을 회복하십시오!"
+    }
+  ],
+  "summary": "The draft preserves the scene’s main actions and outcome. Four localized changes address an unsupported recipient, a lost note of compulsion, an added physical implication, and System-panel formatting.",
+  "version": 1
+}
