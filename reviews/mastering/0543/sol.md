@@ -62,7 +62,7 @@ The small chair creaked under Taishan’s weight. Balanced precariously on it, h
 
 A bitter smile touched Sama Pyo’s lips.
 
-*—I wondered if that might be the reason. So it was because of that person after all.*
+*—I thought it might be that. So you were worried about him.*
 
 *—Disobeying bad. Sect Leader gets angry. My lord in danger.*
 
@@ -94,7 +94,7 @@ Sama Pyo took a sip of the lukewarm water the owner had brought him.
 
 Black Night King Sima Gong was indeed a heartless man. He could set aside parental affection and assess reality with a cold eye.
 
-By the same logic, there was no other successor who could replace Sama Pyo, whose martial talent surpassed even Sima Gong’s in his younger days and whose calculating mind ran deep.
+And the reality was that he had no other successor capable of replacing Sama Pyo, whose martial talent surpassed even Sima Gong’s at his age and whose mind was every bit as calculating.
 
 Besides…
 
@@ -190,13 +190,13 @@ I had suspected as much, but hearing Ju Hwaran say it herself left my mouth dry.
 
 “I won’t accept you just because we know each other.”
 
-“If I’d planned to rely on our connection from the start, I would’ve come without an application, wouldn’t I?”
+“If I’d expected that, I would’ve come without an application, wouldn’t I?”
 
 She smiled. I sighed inwardly.
 
 “It’ll be dangerous. Very dangerous.”
 
-“I know. The Two Dragons Pavilion is directly under the Alliance Leader’s Office, and unlike the other pavilions, it cannot even command its own squads or battalions. It will probably function more like a special operations detachment.”
+“I know. The Two Dragons Pavilion serves directly under the Alliance Leader’s Office, but unlike the other pavilions, it doesn’t even have its own regiments or squads. You’ll probably operate more like a small detached force.”
 
 Exactly right.
 
@@ -230,7 +230,7 @@ She had me there. I scratched the back of my head and reluctantly nodded.
 
 “I came here as a martial artist. I’d like you to judge me as one.”
 
-“As you are……”
+“As a martial artist…”
 
 “I might fall far short by your standards, but I’m a swordswoman who has reached the Peak realm.”
 
@@ -262,17 +262,17 @@ And during the Great Faction War, Ju Hwaran’s grandfather, the Escort King, ha
 
 “Great Hero Jin.”
 
-Her powerful voice pierced my ears.
+Her voice was firm.
 
 “I have no intention of becoming a burden. But please think about this objectively. Set aside everything that’s happened between us until now. Are Captain Song and I truly of no use to the Two Dragons Pavilion?”
 
 “…!”
 
-“I’m fully prepared for what this entails. Even if you reject me, I’ll accept it.”
+“I’ve thought it through. If you reject me, I’ll accept it.”
 
 I closed my eyes.
 
-Ju Hwaran was right. This was something I had to consider coldly.
+Ju Hwaran was right. I needed to think about this without letting my feelings get in the way.
 
 The person waiting for my answer was not the woman I had walked beside one night in a garden where the flowers were just beginning to bloom.
 
@@ -308,7 +308,7 @@ But I understood him perfectly.
 
 I sighed and looked straight at Ju Hwaran.
 
-“Before I answer, there’s one thing you should know, Young Lady Ju.”
+“Before I answer, there’s something you should know.”
 
 How was I supposed to bring it up? As I hesitated, she smiled.
 
