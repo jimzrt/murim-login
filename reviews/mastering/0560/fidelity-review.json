@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I didn’t like it when he attacked Jin at the Arch Lich’s stronghold while we were still investigating…",
+      "defect": "The source says Johnson had a bad feeling about Seok starting with that attack, not that he disliked the attack itself.",
+      "id": "F01",
+      "rationale": "“영 느낌이 좋지 않았는데” describes Johnson's negative impression of Seok; the current line instead describes his reaction to the attack.",
+      "replacement": "I’d had a bad feeling about him ever since he attacked Jin at the Arch Lich’s stronghold while we were still investigating…",
+      "severity": "minor",
+      "source": "Korean source, line 177"
+    },
+    {
+      "confidence": 0.84,
+      "current": "Joseph and I have been ball buddies for nearly fifty years.",
+      "defect": "The Korean expression means childhood friends, though its crude “balls” wording sets up the clarification that follows. “Ball buddies” can read as sexual partners and loses the childhood-friend sense.",
+      "id": "F02",
+      "rationale": "“불알친구” is a crude expression for friends since childhood; the next line's instruction to leave out the “ball” part is a joke about that wording, not a claim about a sexual relationship.",
+      "replacement": "Joseph and I have been childhood friends—“ball friends,” if you will—for nearly fifty years.",
+      "severity": "minor",
+      "source": "Korean source, line 261"
+    }
+  ],
+  "summary": "Two minor fidelity issues: one changes a bad feeling into dislike of an action, and one shifts a crude childhood-friend idiom toward a sexual meaning.",
+  "version": 1
+}

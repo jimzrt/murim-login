@@ -46,11 +46,11 @@ What I meant was: had other incidents happened without my knowing, like the ones
 
 Team Leader Choi thought for a moment before answering.
 
-“I always keep unexpected possibilities in mind, but as far as I know, there aren’t any.”
+“I always allow for that possibility, but not as far as I know.”
 
 “Team Leader Choi, we need to be sure.”
 
-“I know. That’s why I’m thinking of arranging another meeting while I have the chance.”
+“I know. That’s why I intend to arrange another meeting.”
 
 Magic Johnson, who had been listening, asked, “A meeting? With whom?”
 
@@ -74,7 +74,7 @@ More than half of them had approached me first, of course. But I’d known from 
 
 *Don’t talk to a nobody Hunter like me. Talk to our Team Leader Choi.*
 
-Earning a place at Lee Jungryong’s national funeral, where every kind of heavyweight had gathered, meant they were people who had claimed their own victories in society after fighting tooth and nail.
+Anyone who had earned a place at Lee Jungryong’s funeral, among all those heavyweights, had fought their way to success in this society.
 
 They understood exactly what I meant and immediately set about arranging meetings with Team Leader Choi.
 
@@ -88,7 +88,7 @@ The public might not know it, but the people at the top of society knew it bette
 
 By now, political and business figures were probably calculating what they stood to gain from a fight between the two Guilds—and whose shadow would be cooler to stand in.
 
-The owners of the mid-sized and large Guilds probably wanted to use this opportunity to escape Ares Guild’s excessive monopoly as well.
+The owners of mid-sized and large Guilds would want to take this chance to break free of Ares Guild’s near monopoly, too.
 
 Team Leader Choi had gained new allies and the power they held.
 
@@ -100,11 +100,11 @@ Perhaps that was why, when he spoke again, the voice that emerged from between h
 
 Magic Johnson studied him for a moment, then spoke up.
 
-“So… it seems the rumor was true.”
+“So… the rumor was true.”
 
 “What rumor?”
 
-“That rumor. The one saying that Choi is connected to *him*.”
+“That Choi has a connection to *him*.”
 
 “There’s no reason to hide it anymore. It’s true.”
 
@@ -116,11 +116,11 @@ Johnson’s eyes widened.
 
 A quiet laugh escaped the Grand Mage’s thick lips.
 
-“Right. No one can deny that fact. He’s the only pureblood in existence in the twenty-first century.”
+“Right. No one can deny that. You’re the only true pureblood in the twenty-first century.”
 
 No living noble or royal could compare to Team Leader Choi. Not even if the haughty Prince Felix of the United Kingdom became king.
 
-If his ancestor had built a vast empire upon which the sun never set, then Cheon Taemin was the savior who had allowed billions of people to see the sun rise on another day.
+Felix’s ancestor had built a vast empire on which the sun never set. Cheon Taemin had made it possible for billions of people to see the sun rise the next day.
 
 “And it was wise not to mention him directly,” Johnson said. “People trust a man who keeps his own counsel and doesn’t reveal himself too easily.”
 
@@ -130,7 +130,7 @@ If his ancestor had built a vast empire upon which the sun never set, then Cheon
 
 There was no trace of Johnson’s usual playful manner. He went on in a calm voice.
 
-“But Choi, keep this in mind. Your grandfather, wherever he may be now, and I have always known what came first. We risked our lives and fought for a better future. Is that what people in the East call a greater cause?”
+“But Choi, please remember this. Your grandfather, wherever he is now, and I have always known what matters most. We risked our lives fighting for a better future. Is that what you call the greater cause in the East?”
 
 “…!”
 
@@ -154,7 +154,7 @@ The Peace Guild had grown rapidly, its name seared into minds around the world b
 
 “You mean that young fellow. Mr. Seok.”
 
-Magic Johnson suddenly drew his brows together.
+Johnson drew his brows together.
 
 “I haven’t spent much time with him, but I know he isn’t particularly kind. Isn’t that right, Jin?”
 
@@ -176,13 +176,13 @@ I hesitated before answering. “Well, I did fart in front of you.”
 
 “What the fuck…”
 
-“Even so, there’s no need to swear. And Go Jun was already a dangerous bastard to begin with.”
+“Hey, you don’t have to swear. And Go Jun was already a dangerous bastard.”
 
 “Whew. True. But please try not to fart when I’m standing behind you from now on.”
 
 “…Yes.”
 
-I had been uneasy about having Magic Johnson at my back too, but I had been the one to fart in the end, so I had nothing to say.
+I’d been uneasy about leaving Johnson at my back, too. But I was the one who had farted, so I couldn’t exactly complain.
 
 I looked away as I answered. Johnson’s nose twitched.
 
@@ -212,13 +212,13 @@ I recognized it as a potion to replenish spent mana.
 
 “The ones I mentioned earlier. About half have retired, but they can still be a great help. Oh, if Choi wants, I could take you to them right now. What do you say?”
 
-Team Leader Choi hesitated under Magic Johnson’s eager gaze, then quickly shook his head.
+Team Leader Choi recoiled slightly under Johnson’s eager gaze and quickly shook his head.
 
 “N-No, that’s all right.”
 
 “What a shame. My friend Joseph was interested in Choi.”
 
-“I’m disappointed too, but maybe next time… Wait. Did you say Joseph?”
+“I’m sorry to miss him too, but perhaps another time… Wait. Did you say Joseph?”
 
 “Unless your hearing’s gone, you heard right.”
 
@@ -234,7 +234,7 @@ Team Leader Choi wasn’t the only one shocked. My mouth fell open, and so did I
 
 “Ah, I know! I know Joseph Biden!”
 
-I didn’t care whether the name of the American president was Chakumba Okumbo or Kim Cheol Soo, but I had heard the name Joseph Biden many times since my days at the Hunter training camp.
+I usually couldn’t care less whether the American president was named Chakumba Okumbo or Kim Cheol Soo. But I’d heard plenty about Joseph Biden, starting back in Hunter training camp.
 
 The Great Cataclysm had struck during his presidency. He’d had it worse than the mayor of New York in a superhero movie.
 
@@ -256,23 +256,21 @@ Team Leader Choi froze. Johnson hurriedly added, “Forget the ‘ball’ part. 
 
 “Mr. Johnson, we have a saying in Korea: you reap what you sow.”
 
-“Damn it. I really got what I deserved. So, what are you going to do, Choi?”
+“Damn it. You got me. So what will it be, Choi?”
 
 Team Leader Choi answered without hesitation.
 
 “Let’s go. I’ll take you up on your offer.”
 
-“Good idea. You might get a little motion sick traveling between continents, though.”
+“Good choice. Traveling between continents might make you a little motion sick.”
 
-“What’s a little motion sickness compared to this?”
+“What’s a little motion sickness?”
 
-Team Leader Choi answered calmly and took the hand Magic Johnson held out to him.
-
-With a light nod, an enormous amount of mana wrapped tightly around their entire bodies.
+Team Leader Choi took the hand Johnson held out. They exchanged a brief nod, and an enormous amount of mana enveloped them both.
 
 *Whoooosh!*
 
-At that exact moment, a blinding flash erupted and sent their figures flying somewhere else.
+A blinding flash erupted and whisked them away.
 
 *Brrrrrrr.*
 
