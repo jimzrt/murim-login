@@ -1326,3 +1326,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 하미드 | 아미르 | subordinate to leader | Amir | formal and deferential | Apologizes for speaking out of turn and addresses the leader as Amir. |
 | 매직 존슨 | 최 | Colleagues in the command group | Choi | Informal, direct speech | Magic Johnson addresses Choi by surname while demanding to know who is spreading the rumor. |
 | 아미르 | 하미드 | leader to subordinate | Hamid | formal, authoritative | Addresses him as Hassan’s son Hamid. |
+| 진태경 | 선지자 | enemy commander addressed by Jin | The Prophet | blunt and informal | Jin asks where The Prophet is while confronting the Manticore Lord. |
+| 만티코어 로드 | 진태경 | enemy combatant | you | composed and formal | The Manticore Lord recognizes Jin as the human The Prophet spoke of. |
