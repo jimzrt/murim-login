@@ -1,0 +1,90 @@
+{
+  "chapter": 798,
+  "files": {
+    "characters/Divine Physician.md": "0c91a46f68865d209c469eaaa21a8fbe393d78f65d755295340195a9840b7314",
+    "characters/Huginn.md": "83f7ddcc992627cef706bb365edabea64b8b2518caa7a704c90d3f4390bd4463",
+    "characters/Jin Taekyung.md": "9d7d3e196722d31f388d599b3456cd1bdb272a544a6b2a47c3f9c0685c9be232",
+    "characters/Jintae.md": "e55dc578a8c937f588381c22bff945e616928c7542ba5520eca24e4ab0b6260d",
+    "characters/Leviathan.md": "454a8c3480d40aed3fa3d271632915afca0da2854c6b72ced15cce30aad87422",
+    "characters/The Prophet.md": "39b4222818415132745d7a465af97da12c9117ea557c1ca90a7f7628222777af",
+    "characters/Yamamoto.md": "4d1ed24ca1f5274bc1ad0b4562a2e916b39151ca9d4a6bb5d4752d81773efe19",
+    "docs/ADDRESS.md": "872b0745a5170facc445883a263ef7935d27000642a762f633027ebcfff26a44",
+    "docs/CONTEXT.json": "0a2e1d0b140e40533aeb5388dcc86dcf8291cd09590fd658e5d755f0c0779c0b",
+    "docs/STATE.md": "75d65af219ce93a177ea7044c4937344d6a40bfeefbcd5a9f2c7b116434927ad",
+    "summaries/beats/0798.md": "5c7de87b7890c0a8f62228e516344db4426e04039529f2d8d8adec58af8c8128"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "야마모토",
+        "kinship": "Alliance Leader to Japanese S-rank Hunter he sent on the mission",
+        "normal_address": "Yamamoto",
+        "notes": "Jin quietly says Yamamoto’s name while treating him.",
+        "speaker": "진태경",
+        "speech_level": "blunt and familiar"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "Japanese Hunter to the Alliance Leader who rescued him",
+        "normal_address": "Chōsenjin",
+        "notes": "Yamamoto uses the ethnic slur as he regains the ability to speak.",
+        "speaker": "야마모토",
+        "speech_level": "insulting"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Prophet escaped the J1 battlefield before reinforcements arrived; a six-hour search across a 700-kilometer radius found no trace of him.",
+        "Magic Johnson believes The Prophet was alone and that magic explains his disappearance; The Prophet’s location and means of escape remain unknown.",
+        "Yamamoto Genji is J1’s sole survivor. He was critically injured, has awakened, and is recovering under care after Jin treated him.",
+        "Jin feels responsible for the deaths because he sent the Hunters to the battlefield; he resents Yamamoto for his past conduct but recognizes he has no right to blame him for surviving."
+      ],
+      "plot": [
+        "Jin reaches the J1 battlefield and finds hundreds dead, but The Prophet has already escaped. After six hours of searching a 700-kilometer radius with no result, Magic Johnson concludes that The Prophet is a mage capable of evading detection; Johnson is certain The Prophet acted alone. Jin learns that Yamamoto Genji is J1’s sole survivor. Yamamoto was critically injured but has awakened and is recovering. Jin treats him with internal energy, and Yamamoto responds by calling Jin “Chōsenjin.”",
+        "Jin blames himself for sending the Hunters into danger and feels he has no right to condemn Yamamoto for being the lone survivor. He still resents Yamamoto for arriving late during the battle against Leviathan."
+      ],
+      "translation_decisions": [
+        "Keep magic distinct from mana; retain “Chōsenjin” as the Japanese ethnic slur used by Yamamoto."
+      ]
+    },
+    "chapter": 798,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and is pursuing the Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet escaped the J1 battlefield before reinforcements arrived; a six-hour search across a 700-kilometer radius found no trace of him.",
+        "Magic Johnson believes The Prophet acted alone and used magic to evade detection; The Prophet’s location and means of escape remain unknown.",
+        "Yamamoto Genji is J1’s sole survivor. He was critically injured, has awakened, and is recovering after Jin treated him.",
+        "Jin feels responsible for the Hunters’ deaths because he sent them into danger; he resents Yamamoto but recognizes he has no right to blame him for surviving."
+      ],
+      "continuity_sources": [
+        798
+      ],
+      "open_questions": [
+        "Where is The Prophet, and what magic or other means allowed him to evade detection?",
+        "What information can Yamamoto provide about the J1 attack once he has recovered?"
+      ],
+      "safe_through": 798,
+      "temporary_decisions": [
+        "Keep magic distinct from mana.",
+        "Render 조센징 as “Chōsenjin,” identifying it as an ethnic slur."
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Yamamoto Genji is a Japanese S-rank Hunter and the sole known survivor at the scene of The Prophet’s attack on J1 as reinforcements arrive.",
+        "path": "characters/Yamamoto.md",
+        "replacement": "- **Role:** Yamamoto Genji is a Japanese S-rank Hunter and J1’s sole survivor, now recovering from severe injuries after Jin Taekyung treated him."
+      },
+      {
+        "current": "- **Relationships:** Not established.",
+        "path": "characters/Yamamoto.md",
+        "replacement": "- **Relationships:** Jin Taekyung sent Yamamoto on the J1 mission and treated him after the attack, though Jin resents Yamamoto for arriving late during the Leviathan crisis."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

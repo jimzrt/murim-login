@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "J1, a team of roughly two hundred Japanese Hunters, had reported an engagement, and they’d arrived on the scene in less than fifteen minutes.",
+      "defect": "“They” makes J1 the force that arrived, when J1 reported the engagement and the reinforcements arrived.",
+      "id": "F01",
+      "rationale": "The preceding sentence identifies the arriving force as 지원군, while J1팀이 is the subject of 알린.",
+      "replacement": "The reinforcements arrived less than fifteen minutes after J1—a team of roughly two hundred Japanese Hunters—reported an engagement.",
+      "severity": "critical",
+      "source": "총원 이백여 명의 일본 헌터들로 구성된 J1팀이 교전 발생을 알린 지 불과 15분도 되지 않아 현장에 도착했으니까."
+    },
+    {
+      "confidence": 0.91,
+      "current": "—Escape… survivors at headquarters… contact…",
+      "defect": "The draft places survivors at headquarters; the fragment calls for contacting headquarters about a survivor.",
+      "id": "F02",
+      "rationale": "본부에 marks headquarters as the destination of 연락, not the location of the survivor.",
+      "replacement": "—Fled… survivor… contact headquarters…",
+      "severity": "critical",
+      "source": "- 도주…… 본부에 생존자…… 연락."
+    },
+    {
+      "confidence": 0.88,
+      "current": "“Joseonjin?”[^1]\n\nYou fucking bastard.\n\n[^1]: *Joseonjin* is a Japanese derogatory term for Koreans.",
+      "defect": "The romanization obscures the Japanese ethnic slur, while the reaction loses Jin’s startled “Wait” beat.",
+      "id": "F03",
+      "rationale": "조센징 invokes the Japanese slur; 아니 marks Jin’s immediate, incredulous reaction before the profanity.",
+      "replacement": "“Chōsenjin?”[^1]\n\nWait, this fucking bastard.\n\n[^1]: *Chōsenjin* is a Japanese term for Koreans, used here as an ethnic slur.",
+      "severity": "major",
+      "source": "“조센징?”\n\n아니, 이 씨발 새끼가."
+    },
+    {
+      "confidence": 0.92,
+      "current": "And yet we still opened our mouths because a part of us hoped otherwise.",
+      "defect": "The plural attributes Jin’s decision to speak to both men.",
+      "id": "F04",
+      "rationale": "The narration describes Jin’s reason for speaking before he addresses Johnson.",
+      "replacement": "Even so, I spoke up, hoping against hope.",
+      "severity": "minor",
+      "source": "그럼에도 굳이 입을 여는 이유는, 혹시나 하는 기대 때문이다."
+    }
+  ],
+  "summary": "The draft misidentifies who reached the battlefield, misplaces the survivor in a broken radio message, and weakens the final insult and reaction.",
+  "version": 1
+}
