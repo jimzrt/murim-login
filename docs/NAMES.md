@@ -2392,3 +2392,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무림서열록 | **Murim Ranking Record** | Title of the book ranking Murim masters. |
 | 천살 | **Heaven's Slaughter** | Name or title used when the Eastern Heaven Demon Lord summons the assassin. |
 | 계야부 | **Gye Yabu** | Level 140 Salcheonmun assassin killed by Jin Taekyung. |
+| 대학사 | **Grand Academician** | Title held by the former Crown Prince’s tutor and the conspirator confronted by Jin Taekyung. |
+| 위령비 | **memorial** | Memorial the Emperor orders erected for the dead. |
+| 연판장 | **pledge** | Document signed by conspirators; Jin Taekyung says he signed it. |

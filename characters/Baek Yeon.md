@@ -1,6 +1,6 @@
 # Baek Yeon (백연)
 
-- **Safe through:** Chapter 923
+- **Safe through:** Chapter 925
 - **Aliases:** Blood Envoy
 - **Role:** Baek Yeon is the Commander of the Embroidered Uniform Guard, a former martial arts instructor to the Crown Prince, and the Blood Envoy who helped the fourth prince seize the throne and led the purge.
 - **Personality:** Politically assured and controlled, he enforces authority with ruthless decisiveness but speaks with striking defiance to the Emperor in private when their shared undertaking is at stake.

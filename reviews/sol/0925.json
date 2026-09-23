@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The unbreakable chains of immortality that had bound one man as both an imperfect blessing and a curse shattered.",
+      "defect": "“Unbreakable” adds a property the source does not give the chains, which break in this sentence.",
+      "id": "F01",
+      "rationale": "The source calls the blessing imperfect, not the chains unbreakable.",
+      "replacement": "The chains of immortality that had bound one man as both an imperfect blessing and a curse shattered.",
+      "severity": "minor",
+      "source": "불완전한 축복이자 저주로 한 사람을 옭아매었던, 불사(不死)의 쇠사슬이 깨져나간 것은."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Erecting a memorial to the Maoshan Sect was tantamount to tarnishing the dignity of Taizu, the founder of the Great Nation, and of the imperial family.",
+      "defect": "The draft changes the memorial’s specified location into its dedicatee.",
+      "id": "F02",
+      "rationale": "모산파에 identifies where the memorial will stand; the source does not specify whom that memorial commemorates.",
+      "replacement": "Erecting a memorial at the Maoshan Sect was tantamount to tarnishing the dignity of Taizu, the founder of the Great Nation, and of the imperial family.",
+      "severity": "critical",
+      "source": "모산파에 위령비를 세운다는 것은, 곧 대국의 설립자인 태조(太祖)와 황실의 체면에 먹칠한다는 뜻과 같았으니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Though he had ascended the most exalted throne under Heaven, he had been branded a traitor and a patricide.",
+      "defect": "“Patricide” specifically accuses him of killing his father; 폐륜아 does not specify that act.",
+      "id": "F03",
+      "rationale": "The source describes a stigma of violating familial duty, not a specific accusation of patricide.",
+      "replacement": "Though he had ascended the most exalted throne under Heaven, he had been branded a traitor and a monster who had betrayed his own family.",
+      "severity": "critical",
+      "source": "천하에서 가장 존귀한 황제의 자리에 올랐으나, 그의 목에는 역적이자 폐륜아라는 굴레가 씌워져 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Long live His Highness the Crown Prince!”",
+      "defect": "The draft loses the distinct thousand-year acclamation for the Crown Prince.",
+      "id": "F04",
+      "rationale": "천천세 is a numerical royal acclamation, distinct from the preceding cry for the Emperor.",
+      "replacement": "“May His Highness the Crown Prince live a thousand years!”",
+      "severity": "major",
+      "source": "“황태자 전하, 천천세!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*The pledge. If I can just get rid of the few people who know about the pledge and my identity…*",
+      "defect": "The draft drops the pledge itself from what the old man intends to eliminate.",
+      "id": "F05",
+      "rationale": "연판장과 … 몇 사람 are separate objects of 없애면 된다; his plan must address both the document and the witnesses.",
+      "replacement": "*The pledge. If I can just make the pledge disappear and get rid of the few people who know who I really am…*",
+      "severity": "critical",
+      "source": "‘연판장(連判狀). 연판장과 노부의 정체를 아는 몇 사람만 없애면 된다.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "And the old man, once a tutor to the Crown Prince and now a Grand Academician revered by every Confucian scholar under Heaven, had been meticulous about such things.",
+      "defect": "With a new Crown Prince just appointed, “the Crown Prince” obscures which prince he tutored; “now” also turns a past rise to Grand Academician into an asserted present status.",
+      "id": "F06",
+      "rationale": "과거 marks the tutorship as past, and 올랐던 describes his rise to the rank rather than explicitly asserting his current office.",
+      "replacement": "And the old man, who had once tutored the former Crown Prince and risen to the rank of Grand Academician while earning the reverence of Confucian scholars throughout the realm, had been meticulous about such things.",
+      "severity": "major",
+      "source": "그리고 과거 황태자의 스승이자, 천하 모든 유생의 우러름을 받으며 대학사(大學士)의 지위까지 올랐던 노인은 이러한 부분에서 매우 치밀했다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "But the old man’s canny gray eyes, watching everything unfold, remained deeply sunken.",
+      "defect": "“Sunken” describes the physical position of his eyes rather than their concealed, subdued expression.",
+      "id": "F07",
+      "rationale": "깊게 가라앉아 있었다 describes the look in his eyes amid his outward cheering.",
+      "replacement": "But as his canny gray eyes took in everything unfolding before him, their gaze remained dark and still.",
+      "severity": "minor",
+      "source": "하지만 이 모든 상황을 바라보는 노회한 회색빛 눈동자는 깊게 가라앉아 있었다."
+    }
+  ],
+  "summary": "The draft has two consequential changes to scene facts and several losses of meaning or hierarchy.",
+  "version": 1
+}
