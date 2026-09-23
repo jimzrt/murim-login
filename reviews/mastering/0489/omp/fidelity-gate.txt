@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is largely faithful, with one localized shift in what the rescued people are said to remember.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 167–168",
+      "current": "They won’t forget what you did for them.",
+      "defect": "The source says they will not forget their gratitude, but the current text changes the remembered object from their grateful feeling to the speaker's actions.",
+      "replacement": "They won’t forget their gratitude.",
+      "rationale": "고마움을 잊지 않을 겁니다 means they will not forget their gratitude. This preserves the emotional assurance that the people remain thankful, rather than merely remembering what was done.",
+      "confidence": 0.98
+    }
+  ]
+}

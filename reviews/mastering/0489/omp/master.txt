@@ -8,7 +8,7 @@ I blinked for a moment, then stammered,
 
 “Secret… martial arts? You’re saying you’ll teach me your secret martial arts?”
 
-To a martial artist, secret martial arts were as important as life itself—no, more important than life.
+To a martial artist, secret martial arts were as important as life itself—no, more important.
 
 Even in martial arts novels, people willing to throw themselves into danger like moths to a flame just to obtain a single martial arts manual were everywhere.
 
@@ -54,7 +54,7 @@ I eyed Mungyeong suspiciously.
 
 “First, our Old Master has a foul temper and far too much pride to ask anyone for anything.”
 
-A warm glow passed over Mungyeong’s face, which had previously been surrounded by a chilly aura.
+A touch of warmth passed over Mungyeong’s cold face.
 
 “Hm. You’ve assessed him rather accurately. Continue.”
 
@@ -112,7 +112,7 @@ As I kept my lips firmly sealed, Mungyeong continued in a dry voice.
 
 “Even though I’m a lunatic?”
 
-“Because that lunatic will become a major obstacle to Dark Heaven’s actions from this point forward.”
+“Because that lunatic will become a major obstacle to Dark Heaven’s future plans.”
 
 His quiet voice drifted through the night air. Mungyeong gazed at the gently flowing waters of Dongting Lake as he continued.
 
@@ -126,7 +126,7 @@ And there were far more secrets in this world than I knew. Mungyeong must have l
 
 With emotions I couldn’t decipher mingling in his eyes, Mungyeong stared into the darkness and continued quietly.
 
-“If passing on my martial arts to you can be of even the slightest help in the great war already at our doorstep, then it doesn’t seem like such a bad idea. That is all.”
+“If passing my martial arts on to you can be of even the slightest help in the great war already at our doorstep, I decided it would not be such a bad thing. That is all.”
 
 He spoke as though it were nothing, but it couldn’t have been an easy decision.
 
@@ -148,7 +148,7 @@ Mungyeong shook his head.
 
 “The Old Master once told me that the Slaughter Saint only kills people who deserve it. He said you were a fairly decent assassin.”
 
-“To make a single sword, you must hammer it hundreds of times and put it through the tempering process. I was no different. Before I became the Slaughter Saint, there was a time when I was called the Killing Ghost. That is why I cannot discuss a great cause.”
+“A sword must be hammered hundreds of times and repeatedly tempered before it can be forged. I was no different. Before I became the Slaughter Saint, there was a time when I was called the Killing Ghost. That is why I have no right to speak of a greater cause.”
 
 “In that case…”
 
@@ -158,7 +158,7 @@ I looked Mungyeong straight in the eye.
 
 “…!”
 
-His slender body suddenly went rigid.
+His slender body went rigid.
 
 The waters of Dongting Lake remained utterly still, but ripples stirred in Mungyeong’s eyes.
 
@@ -198,7 +198,7 @@ Mungyeong’s eyebrow twitched as I immediately pretended nothing had happened.
 
 “The breeze is nice and cool, too.”
 
-“Want me to cool off everything above your shoulders too?”
+“Would you like me to cool you off from the shoulders up?”
 
 “…I’ll take what you just said to heart.”
 
