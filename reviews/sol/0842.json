@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Oh, Taishan tried to stomp on his pepper, too, but people stopped Taishan. Taishan stopped Taishan, too. That’s not something a person should do. Ah, Taishan wants Sichuan-style five-spice pork with lots of pepper.”",
+      "defect": "The draft makes Taishan both the attacker and his own restrainer. He is describing the Pavilion Master’s attempt and saying he helped stop it.",
+      "id": "F01",
+      "rationale": "The omitted subject of 밟으려고 했는데 continues from 각주 in Taishan’s account; 태산이도 말렸다 explicitly says Taishan also stopped him.",
+      "replacement": "“Oh, the Pavilion Master tried to stomp on his pepper, too, but people stopped him. Taishan helped stop him. No one should do that. Ah, Taishan wants Sichuan-style five-spice pork with lots of pepper.”",
+      "severity": "critical",
+      "source": "아, 그리고 고추도 밟으려고 했는데 사람들이 말렸다. 태산이도 말렸다. 그건 사람 할 짓 아니다. 아, 고추 듬뿍 넣은 사천식 오향장육 먹고 싶다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Young Hero Sama, don’t leave in the first place. It’s not as if you’d be any less likely to cause trouble if you stayed, but at least you wouldn’t eat the ointment or knock Young Hero Hyuk unconscious again.",
+      "defect": "The draft assigns the troublemaking, ointment-eating, and slapping to Sama Pyo rather than Taishan.",
+      "id": "F02",
+      "rationale": "Hwaran is telling Sama Pyo to remain with Taishan; Taishan is the one who ate the ointment and knocked Hyuk Mujin out again.",
+      "replacement": "Young Hero Sama, don’t leave in the first place. Taishan would probably cause some other trouble even with you here, but at least he wouldn’t eat the ointment or knock Young Hero Hyuk unconscious again.",
+      "severity": "major",
+      "source": "사마 소협은 애초부터 자리를 비우지 마세요. 어차피 자리에 있어 봤자 또 다른 사고를 치겠지만 적어도 연고를 먹거나 혁 소협을 도로 기절시키는 일은 없겠죠."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I do. You tie the damn fools to oxen or horses, like anyone who—”",
+      "defect": "The explanation stops before the limbs are torn apart and loses Namho’s pointed reference to a particular bastard.",
+      "id": "F03",
+      "rationale": "남호 describes both the target and the limb-tearing mechanism of 오체분시.",
+      "replacement": "“I do. You tie bastards like a certain someone to oxen or horses, then tear their arms and legs right off…”",
+      "severity": "major",
+      "source": "알지. 누구처럼 염병할 놈들을 소나 말에 묶은 다음 그대로 팔다리를 아주 그냥 쫙쫙 찢어서……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "You’re safe, so there’s no need to go check on things right now.",
+      "defect": "The general reassurance obscures the joke: she is specifically telling Hyuk Mujin that the body part he is checking is safe.",
+      "id": "F04",
+      "rationale": "그쪽 points back to the threatened groin, which Hyuk Mujin immediately checks.",
+      "replacement": "That part is safe, so there’s no need to check it right now.",
+      "severity": "major",
+      "source": "그쪽은 안전하니까 괜히 지금 살펴보실 필요는 없고요."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Perhaps it’s not just a matter of catching up—maybe he’s preparing to restore the Captain’s health.",
+      "defect": "The draft shifts the speculation to an unspecified man preparing treatment; Hwaran is speculating about why Jin and Jeok have spent two days together.",
+      "id": "F05",
+      "rationale": "The sentence qualifies the preceding discussion of the two men’s prolonged conversation, with the pill offered as a clue.",
+      "replacement": "Perhaps they haven’t just been talking—maybe they’ve been making preparations to help the Pavilion Master recover.",
+      "severity": "major",
+      "source": "아마도 단순한 이야기가 아니라 몸 상태를 회복시키기 위한 준비 과정일지도 몰라요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Like tenderizing meat, stomped him again and again.",
+      "defect": "Tenderizing changes Taishan’s image from mincing meat.",
+      "id": "F06",
+      "rationale": "고기 다지듯이 means as though mincing meat, not tenderizing it.",
+      "replacement": "Like mincing meat, stomped him over and over.",
+      "severity": "minor",
+      "source": "마치 고기 다지듯이 잘근잘근 밟았다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Then everything flashed before my eyes.",
+      "defect": "The English idiom suggests a life flashing before his eyes rather than a sudden flash of light.",
+      "id": "F07",
+      "rationale": "눈앞이 번쩍했다 describes the abrupt flash following the punch.",
+      "replacement": "After that, there was a flash before my eyes.",
+      "severity": "minor",
+      "source": "그 후로는 눈앞이 번쩍했고요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "there was a sound like a melon bursting, and you fell over.",
+      "defect": "The source compares the sound to a bursting drum, not a melon.",
+      "id": "F08",
+      "rationale": "북 is a drum.",
+      "replacement": "there was a sound like a drum bursting, and you fell over.",
+      "severity": "minor",
+      "source": "북 터지는 소리와 함께 자네가 쓰러지더군."
+    },
+    {
+      "confidence": 0.94,
+      "current": "she chose to go get more.",
+      "defect": "The draft says Hwaran went for ointment herself, though she immediately sends Song Ilseom.",
+      "id": "F09",
+      "rationale": "The source states her choice to obtain new ointment, not that she personally fetched it.",
+      "replacement": "she decided to have more ointment brought in.",
+      "severity": "minor",
+      "source": "새로운 연고를 가져오는 것을 택했다."
+    }
+  ],
+  "summary": "Several action and subject errors alter the scene; smaller errors affect the injury joke and sound description.",
+  "version": 1
+}
