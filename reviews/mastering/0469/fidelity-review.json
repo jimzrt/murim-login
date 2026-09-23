@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A monster I had seen somewhere before had appeared right in front of me—not in the modern world, but in Murim.",
+      "defect": "The Korean says this was a monster he had seen many times, not merely once somewhere before. The repeated familiarity supports why he recognizes it immediately.",
+      "id": "F01",
+      "rationale": "어디선가 많이 봤던 means he had seen it many times somewhere; 많이 is omitted in the assembled English.",
+      "replacement": "A monster I had seen many times before had appeared right in front of me—not in the modern world, but in Murim.",
+      "severity": "minor",
+      "source": "Line 183"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Birds in flight lost their strength and plummeted.",
+      "defect": "The source specifically depicts birds taking off and then falling as they lose their strength. “In flight” broadens and changes that physical image.",
+      "id": "F02",
+      "rationale": "날아오르던 새들 refers to birds that were rising/taking flight, not generic birds already in flight.",
+      "replacement": "Birds taking flight lost their strength and plummeted.",
+      "severity": "minor",
+      "source": "Line 137"
+    },
+    {
+      "confidence": 0.95,
+      "current": "His mouth hung open, his eyes bulged wide. Just as his pupils began to roll white beneath the grip of terror—",
+      "defect": "The current wording says the pupils had already begun turning white. The source places the interruption exactly as they were about to turn white.",
+      "id": "F03",
+      "rationale": "뒤집히려던 바로 그 순간 means precisely the moment before the pupils turned white, preserving the imminent timing of the intervention.",
+      "replacement": "His mouth hung open, his eyes bulged wide. Just as his pupils were about to roll white beneath the grip of terror—",
+      "severity": "minor",
+      "source": "Line 145"
+    }
+  ],
+  "summary": "The chapter is largely faithful. I found three minor source-fidelity losses involving a repeated-exposure detail and two precise physical-action timings.",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # Chapter 469
 
-Everyone saw it. They could see it.
+Everyone saw it. They could not help but see it.
 
 Amid the blackened sky and the violent wind and rain, a shower of strangely shaped rocks came crashing down.
 
@@ -14,7 +14,7 @@ And as everything collapsed around them… one being alone reared up.
 
 Water cascaded down its body like a waterfall.
 
-Far below, the humans reduced to tiny dots gazed up at the being that had finally revealed itself, their eyes filled with stunned disbelief.
+Far below, the humans reduced to tiny dots stared in disbelief at the being that had finally revealed itself.
 
 It was enormous.
 
@@ -60,19 +60,19 @@ He also realized that fragments of the countless myths and legends he had dismis
 
 Zhuge Feng had always placed absolute faith in the power of knowledge.
 
-He was a martial artist, but first and foremost, he was the Family Head of the distinguished Zhuge Clan, and he had used reliable information and knowledge to protect his many clansmen and his family’s power.
+Before he was a martial artist, he was the head of the prestigious Zhuge Clan, and he had used reliable information and knowledge to protect his many clansmen and preserve his family’s power.
 
 To a man like him, unverified superstition was not even worth considering. Believing in an illusion no one had ever seen was simply foolish.
 
 But someone a hundred *jang* away from Zhuge Feng was different.
 
-Unlike Zhuge Feng, he was not a Family Head responsible for an entire household. He was merely an old boatman who had survived by relying on his own experience and a single ferryboat.
+Unlike Zhuge Feng, he was not a Family Head responsible for an entire household. He was merely an old boatman who had lived by relying on his own experience and a single ferryboat.
 
 “……!”
 
 The old boatman stared into the sky with trembling eyes.
 
-A colossal being stood tall amid the collapse of everything around it. The sight alone made his legs buckle, while unbearable awe and fear pressed down on his shabby shoulders.
+A colossal being towered amid the destruction. The mere sight of it made his knees buckle, while unbearable awe and fear weighed upon his frail shoulders.
 
 The cry that the crushing pressure kept him from voicing echoed only in his heart.
 
@@ -82,7 +82,7 @@ The world was filled with more superstitions than anyone could count, and Hubei 
 
 An old man told a child, and when that child grew old, he told another child. Stories passed from mouth to mouth for hundreds of years.
 
-The old boatman was no different.
+The old boatman had heard those stories too.
 
 A native of Hubei Province who had spent his entire life on the water, he knew the identity of the being he called a divine spirit.
 
@@ -104,15 +104,15 @@ A boatman to the marrow of his bones, he could not believe that he had come face
 
 *The divine spirit is angry. All of this happened because the divine spirit was enraged!*
 
-The old boatman realized that his guess had been correct.
+The old boatman realized that his suspicions had been correct.
 
-The countless deaths that had occurred one after another over the past month. He did not know why, but the divine spirit had certainly been angered beyond measure.
+The countless deaths over the past month. He did not know why, but the divine spirit had clearly been enraged.
 
-And in the end, it would punish him just as it had punished the others.
+And now it would punish him just as it had punished the others.
 
 With death!
 
-He could not die like this. Somehow, he had to calm the divine spirit's anger.
+He could not die like this. Somehow, he had to calm the divine spirit’s fury.
 
 A cracked cry burst from the old boatman’s mouth as he stood there, entranced.
 
@@ -126,7 +126,7 @@ Before the others, frozen rigid by the colossal being’s appearance, could stop
 
 *Tap-tap-tap, splash!*
 
-The instant the old boatman's shabby straw sandals touched the water of Dongting Lake—
+The instant the old boatman’s shabby straw sandals touched the waters of Dongting Lake—
 
 *Swish.*
 
@@ -136,17 +136,17 @@ The old boatman’s reflection appeared in those blood-red vertical pupils. As t
 
 *Whoooooosh!*
 
-A chilling aura erupted in every direction from the thirty-*jang*-long body.
+A chilling force erupted in every direction from its thirty-*jang*-long body.
 
 Birds in flight lost their strength and plummeted. Thousands of fish fleeing in schools through the depths of Dongting Lake floated belly-up to the surface.
 
-An aura as immense as its body, an aura akin to death.
+A force as immense as the creature’s body, one that reeked of death.
 
-Neither insignificant creatures nor even humans could remain unharmed before it.
+Neither lowly creatures nor humans could remain unharmed before it.
 
-Before that invisible aura even reached him, the old boatman's entire body had already stiffened like a stone statue.
+Before that invisible force even reached him, the old boatman’s entire body had already stiffened like a stone statue.
 
-His mouth hung open, his eyes bulged wide. Just as his pupils began to roll white beneath the grip of terror—
+His mouth hung open and his eyes bulged wide. Just as his pupils began to roll back under the grip of terror—
 
 *Whoosh! Thud!*
 
@@ -160,7 +160,7 @@ A young man gently caught his frail body, then raised his head and stared at the
 
 At the clear voice, the enormous being’s pupils swelled as though it had realized something.
 
-Different.
+He was different.
 
 Every other human on the ground had frozen from shock and fear, but this young man was different. He was neither stunned nor trembling.
 
@@ -168,9 +168,9 @@ Fear of the unknown came from confronting something incomprehensible.
 
 But that young man was free from it all. More than fearless, he almost seemed accustomed to this.
 
-Just like now.
+Just as he did now.
 
-“Can't you open those eyes properly?”
+“What are you glaring at?”
 
 With that offhand remark from the young man, Jin Taekyung, a streak of light tore through the air.
 
@@ -188,9 +188,9 @@ If it had merely been an illustration in some fantasy novel, that would have bee
 
 *Could that be…?*
 
-Although the monster I had fought most often during my Hunter career had been low-level creatures like goblins, the section I had looked at most in the *Monster Encyclopedia* was the one covering the highest-level monsters.
+Most of the enemies I had fought during my career as a Hunter were low-level monsters like goblins, but the section of the *Monster Encyclopedia* I had read most often was the one covering the highest-level monsters.
 
-And that thing was one of the monsters given a particularly large entry.
+And that thing occupied a particularly large entry.
 
 *…A Sea Serpent.*
 
@@ -208,9 +208,9 @@ I had frozen in shock, but I soon noticed something strange.
 
 *Wait. Something’s different.*
 
-In the modern world where I had been born and raised, the Sea Serpent was not some fictional monster that appeared only in mythology.
+In the modern world where I had been born and raised, the Sea Serpent was not some fictional creature found only in mythology.
 
-It was one of the highest-level monsters serving the Demon King Asmodeus, as well as one of the major culprits responsible for inflicting terrible damage on humanity.
+It was one of the highest-level monsters serving the Demon King Asmodeus, and one of the main culprits behind the catastrophic damage inflicted on humanity.
 
 Naturally, there were high-resolution photographs showing exactly what it looked like, along with preserved video recordings of its battles.
 
@@ -224,9 +224,9 @@ But these two similar yet different monsters did share one crucial trait.
 
 *Whoooooosh!*
 
-It was that.
+That.
 
-An inherently ferocious aura possessed only by monsters—fundamentally different from the killing intent martial artists called killing intent.
+An inherently ferocious force possessed only by monsters—fundamentally different from the killing intent of martial artists.
 
 *Fear.*
 
@@ -234,13 +234,13 @@ Fear was exactly what it sounded like: terror and dread.
 
 Every monster possessed it, but the stronger the monster, the more powerful its Fear became.
 
-It shackled an enemy's body by instilling fear and terror, then shattered the enemy's mind.
+It instilled terror in its target, binding their body and breaking their mind.
 
 *Just like the Dongting Fisherman.*
 
 The scattered puzzle pieces in my head began falling into place.
 
-The Dongting Fisherman's state, which had seemed almost insane. His clear eyes returning only after all his strength had drained away.
+The Dongting Fisherman’s deranged state. The clarity that had returned to his eyes only after all his strength had drained away.
 
 *He must have encountered that thing before we did.*
 
@@ -268,7 +268,7 @@ One second. No, even a quarter of a second later, and the poor old man might hav
 
 I raised my head and looked at the enormous being towering in the distance.
 
-*Damn. It's huge.*
+*Damn. It’s fucking huge.*
 
 I had never fought a Sea Serpent, but this thing was clearly no pushover.
 
@@ -284,11 +284,11 @@ It was like watching a small mountain move. I bit my lip.
 
 I could tell from the sound alone. Even after pouring all my strength into the iron spear I had pulled from my Inventory and hurled, I had failed to inflict any meaningful damage.
 
-If I had used White Flame, forged from Ten-Thousand-Year Cold Iron, I could have dealt a more decisive blow.
+If I had used White Flame, forged from Ten-Thousand-Year Cold Iron, I could have dealt a much more decisive blow.
 
 But if I could not finish it in One Strike, that would be a foolish move.
 
-It was more urgent to act before the enormous monster recovered from its confusion.
+More urgently, we had to act before that enormous monster recovered from its confusion.
 
 I turned and drew a deep breath as I pulled internal energy up from my dantian.
 
@@ -310,7 +310,7 @@ Unlike Gung Gibang and Hyuk Mujin, whose eyes looked as though half their souls 
 
 “……?”
 
-*What the hell is this guy?*
+*What the hell is wrong with this guy?*
 
 Anyone would freeze after seeing a monster like that. I was the exception because I had grown up in the modern world, surrounded by monsters until I was sick of them.
 
