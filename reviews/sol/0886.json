@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Your movement technique doesn’t seem First Rate, either… And are you good at lying, taunting people, and running off?”",
+      "defect": "“Doesn’t seem First Rate” can suggest a technique below First Rate, when Taekyung has just seen her evade an attack that should have caught a First Rate martial artist.",
+      "id": "F01",
+      "rationale": "Her effortless evasion makes him reassess her skill upward.",
+      "replacement": "“Your movement technique is definitely beyond First Rate… Are you good at lying, getting under people’s skin, and running off, too?”",
+      "severity": "major",
+      "source": "신법도 일류 수준은 절대 아닌 것 같고……"
+    },
+    {
+      "confidence": 0.97,
+      "current": "If I told the truth outright, I could be branded a demonic, heterodox martial artist without any way to defend myself—and not just any one, but a wanted criminal who’d mastered terrifying demonic martial arts.",
+      "defect": "“Wanted criminal” loses the specific consequence of being branded an enemy of all Murim.",
+      "id": "F02",
+      "rationale": "무림공적 identifies someone treated as a public enemy by Murim, not merely a criminal wanted by unspecified authorities.",
+      "replacement": "If I told the truth outright, I could be branded an irredeemable practitioner of demonic, heterodox arts—or worse, an enemy of all Murim who’d mastered terrifying demonic martial arts.",
+      "severity": "major",
+      "source": "곧이곧대로 진실을 밝혔다간 빼도 박도 못하는 사마외도(邪魔外道), 그중에서도 엄청난 마공을 익힌 무림공적으로 낙인찍혀도 이상하지 않을 테니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I’d been managing my expression in case she asked something like, *How far have you and Ma Sanbao gone behind my back?* Instead, all the tension drained out of me—and I was left wondering.",
+      "defect": "“How far have you ... gone” sounds like a question about a sexual relationship rather than the extent of Taekyung’s covert dealings with Ma Sanbao.",
+      "id": "F03",
+      "rationale": "붙어먹었냐 is a crude way to ask how closely they have joined forces in this context; the imagined question is about their association.",
+      "replacement": "I’d been keeping my expression in check, expecting a question like, *How deep are you in with Ma Sanbao?* Instead, all the tension drained out of me—and I was left wondering.",
+      "severity": "major",
+      "source": "최소한 ‘마삼보랑 어디까지 붙어먹었냐’와 같은 말이 나올 것을 대비해 표정 관리를 하고 있던 나는 맥이 탁 풀림과 동시에 의문을 느꼈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I think you meant ‘rash as you seem.’”",
+      "defect": "The comeback substitutes “seem” for the contrast between his appearance and his behavior.",
+      "id": "F04",
+      "rationale": "보기보다 means “more than I look,” setting up the repeated joke about what his appearance suggests.",
+      "replacement": "“I think you meant ‘more rash than I look.’”",
+      "severity": "minor",
+      "source": "“보기보다, 를 잘못 말씀하신 것 같은데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“This time, I think you meant ‘perceptive as you seem.’”",
+      "defect": "The line loses Taekyung’s boast that he looks perceptive, and with it the reversal of their earlier exchange.",
+      "id": "F05",
+      "rationale": "보이는 것처럼 refers to how he looks, explicitly reversing his earlier correction.",
+      "replacement": "“This time, I think you meant ‘as perceptive as I look.’”",
+      "severity": "minor",
+      "source": "“이번에는 보이는 것처럼, 을 잘못 말한 것 같은데.”"
+    }
+  ],
+  "summary": "The draft is largely faithful, but it obscures So Gyo’s demonstrated skill, loses the consequence Taekyung fears if he tells the truth, and weakens several exchanges.",
+  "version": 1
+}
