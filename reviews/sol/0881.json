@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The storm is almost upon us, and we’ll have to bring all our strength to bear against one another.",
+      "defect": "“Against one another” makes the assembled allies sound as though they will fight each other, rather than the opposing side.",
+      "id": "F01",
+      "rationale": "서로 refers to the sides about to clash; it does not turn the conspirators against one another.",
+      "replacement": "The storm is almost upon us, and both sides will have to throw everything they have into the clash.",
+      "severity": "critical",
+      "source": "폭풍은 이미 코앞까지 다가왔고, 서로가 가진 모든 힘을 꺼내어 부딪쳐야 할 겁니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The child who had left for the frontier, bundled in swaddling clothes, had returned as a proper young man.",
+      "defect": "“Young man” ages the returning child beyond the source’s 소년.",
+      "id": "F02",
+      "rationale": "The contrast is between an infant in swaddling clothes and a boy, not an adult.",
+      "replacement": "The child who had left for the frontier, bundled in swaddling clothes, had returned as a boy.",
+      "severity": "major",
+      "source": "강보에 싸여 변방으로 떠났던 어린아이는 어엿한 소년이 되어 돌아왔으며"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I—I misspoke.”",
+      "defect": "The repeated “I” reads as a stammer and loses the speaker’s deliberate correction from a less respectful form to a respectful one.",
+      "id": "F03",
+      "rationale": "내가, 아니 제가 explicitly marks a self-correction in register after Ma Sanbao’s threatening look.",
+      "replacement": "“I—no, forgive me. I misspoke.”",
+      "severity": "major",
+      "source": "“내가, 아니 제가 실언을 했습니다.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Though more than a dozen people had gathered in one place",
+      "defect": "“More than a dozen” excludes eleven or twelve people, both possible under 십여 명.",
+      "id": "F04",
+      "rationale": "십여 명 gives an approximate count just over ten.",
+      "replacement": "Though a dozen or so people had gathered in one place",
+      "severity": "minor",
+      "source": "십여 명이 한자리에 모여 있음에도"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Their specialty was searching every corner as thoroughly as lice in a dog’s fur.",
+      "defect": "The simile makes lice sound like the searchers. The Guard searches as meticulously as someone picking out lice.",
+      "id": "F05",
+      "rationale": "이 잡듯이 describes the manner of the Guard’s search, not the behavior of lice.",
+      "replacement": "Their specialty was combing every corner as if hunting for lice.",
+      "severity": "minor",
+      "source": "사방을 이 잡듯이 뒤지는 것이 특기였다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Rumors about the Emperor never stop. It’s hard to guess what he’s planning.”",
+      "defect": "“Rumors” loses the disreputable, scandalous character of 추문 and blurs these reports with the earlier rumors they deliberately spread.",
+      "id": "F06",
+      "rationale": "추문 specifically denotes scandalous reports about the Emperor.",
+      "replacement": "“Scandalous stories about the Emperor keep surfacing everywhere. It’s hard to guess what he’s planning.”",
+      "severity": "major",
+      "source": "“사방에서 황제에 대한 추문(醜聞)이 끊이지 않고 있습니다. 그의 의도가 뭔지 짐작하기 어렵군요.”"
+    }
+  ],
+  "summary": "Several passages alter a quantity, the returned child’s age, or who is expected to fight. Other findings concern a surveillance image and a lost shift in register.",
+  "version": 1
+}
