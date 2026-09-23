@@ -2352,3 +2352,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 금의위 | **Embroidered Uniform Guard** | Imperial guard force mentioned by Hong Jin. |
 | 고현 | **Gohyeon** | Town mentioned as a source of farming tools. |
 | 벽운자 | **Bicheonja** | Daoist name used by Cheongpung the Ancient Sword. |
+| 호연상단 | **Hoyeon Trading Company** | Trading company under the Qingcheng Sect. |
+| 호연검 | **Hoyeon Sword** | Qingcheng Sect lay disciple who runs Hoyeon Trading Company. |
+| 낙조표국 | **Nakjo Escort Bureau** | Source of the Hidden Shadow Pavilion's concealed escort order. |
+| 호남 | **Hunan** | Province where suspected Embroidered Uniform Guard members appeared. |
+| 산동 | **Shandong** | Province on the suspected route into Shanxi. |

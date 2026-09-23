@@ -1,23 +1,21 @@
 # Translation State
 
-- Last completed: 852
-- Next chapter: 853
-- Current block: 850–854 (3/5)
-- Latest translation: `translations/0852.md`
-- Latest summary: `summaries/beats/0852.md`
-- Safe profiles through: chapter 852
+- Last completed: 853
+- Next chapter: 854
+- Current block: 850–854 (4/5)
+- Latest translation: `translations/0853.md`
+- Latest summary: `summaries/beats/0853.md`
+- Safe profiles through: chapter 853
 
 ## Current Block
 
-- Jeok Cheongang gathers the Lower District Sect, the Beggars’ Sect, the Qingcheng and Emei Sect Leaders, Tang Sadok, and other senior figures at the Sichuan Tang Clan. Jin Taekyung and the Divine Physician present the Blood Soul Gu found in the deceased City Lord of Sichuan Province, whose death will officially be reported as an illness. Jeok warns everyone to keep the discussion secret.
-- Jin learns that disguised Embroidered Uniform Guard agents appeared in Anhui and that informants who followed them were killed. He fears they may be heading toward Shanxi and Prince Shangshan, while suspecting Dark Heaven’s shadow has reached the imperial family. That night, more than ten messenger pigeons fly toward Jin and Jeok.
+- Messages from across the Central Plains reveal that people suspected of being the Embroidered Uniform Guard moved through several provinces and gathered in Shanxi, where Prince Shangshan Zhu Bao joined them with Hong Jin. A tracking team was wiped out. A Hidden Shadow Pavilion order, approved by the Alliance Leader, directs Jeok Cheongang, Jin Taekyung, and the entire Fire Dragon Pavilion to escort Zhu Bao; he and fifty guards have left Shanxi and are expected to reach Jiangsu by the first of next month, so the group departs to intercept them.
 
 ## Open Questions
 
 - Why did Dark Heaven secretly kill the City Lord of Sichuan Province?
-- Is Dark Heaven targeting the Great Nation’s Emperor or imperial family, and what is its intended scheme?
-- How is Prince Shangshan Zhu Bao connected to the suspected scheme, and are the Embroidered Uniform Guard agents heading toward him?
-- Who sent the approaching messenger pigeons, and what do their messages say?
+- Is Dark Heaven targeting the Great Nation’s Emperor or imperial family, and is it influencing the Son of Heaven?
+- What is the Embroidered Uniform Guard’s purpose in traveling with Prince Shangshan, and can Jin’s party reach him in time?
 - What prompted the imperial decree against Hong Jin, and what will happen to him and Prince Shangshan?
 
 ## Exceptional Decision

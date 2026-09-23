@@ -1,6 +1,6 @@
 # Song Ho (송호)
 
-- **Safe through:** Chapter 618
+- **Safe through:** Chapter 853
 - **Aliases:** Thousand-Faced Fox
 - **Role:** Elderly Peak master known as the Thousand-Faced Fox, a martial artist with a prosthetic leg, and current Chief of the Hidden Shadow Pavilion, overseeing a vetted intelligence network that includes highly trained assassins.
 - **Personality:** Outwardly genial and relaxed, but observant, forceful, and intimidating when pursuing information.

@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He’s a member of the family who’s absolutely loyal to me.",
+      "defect": "Calls a household retainer a family member, changing his relationship to Tang Sadok.",
+      "id": "F01",
+      "rationale": "가솔 refers to a household retainer here, not a relative.",
+      "replacement": "He’s a household retainer who’s absolutely loyal to me.",
+      "severity": "critical",
+      "source": "제 말이라면 절대적으로 충성하는 가솔입니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Tang Family retainer who had left earlier had Namho pinned from behind, holding him in a headlock with a blade at his throat.",
+      "defect": "A headlock replaces the retainer’s embrace from behind and loses the precise placement of the blade.",
+      "id": "F02",
+      "rationale": "뒤에서 끌어안은 describes holding him from behind; 목젖 specifies his Adam’s apple.",
+      "replacement": "The Tang Family retainer who had left earlier had Namho pinned in an embrace from behind, a blade pressed to his Adam’s apple.",
+      "severity": "critical",
+      "source": "앞서 나갔던 당가의 가솔이 남호를 뒤에서 끌어안은 채 목젖에 칼을 들이대고 있었으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I’m no Jiang Taigong, sitting around in Nanman fishing away the years.",
+      "defect": "Turns Namho’s denial that he spent the years idly fishing into a statement that implies he did.",
+      "id": "F03",
+      "rationale": "The rhetorical question rejects the idea that he merely passed the time in Nanman.",
+      "replacement": "I’m no Jiang Taigong. Did you think I spent all those years in Nanman just sitting around fishing?",
+      "severity": "critical",
+      "source": "내가 강태공도 아닌데 남만에서 세월만 낚고 있었겠나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "They had split into groups of as few as ten and as many as thirty, spread out across the provinces, and then disappeared somewhere around Shaanxi and Shandong.",
+      "defect": "Changes the alternative locations where the groups disappeared into a conjunction.",
+      "id": "F04",
+      "rationale": "섬서나 산동 means Shaanxi or Shandong.",
+      "replacement": "They had split into groups of as few as ten and as many as thirty, spread out across the provinces, and then vanished upon reaching Shaanxi or Shandong.",
+      "severity": "critical",
+      "source": "그들은 적게는 열 명, 많게는 서른 명으로 나뉘어 각 성으로 흩어졌고 이내 섬서나 산동에 이르러 종적이 묘연해졌다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Of course, the Alliance Leader approved it.",
+      "defect": "States the approval as confirmed rather than inferred.",
+      "id": "F05",
+      "rationale": "거쳤겠지만 marks Namho’s inference about the approval.",
+      "replacement": "Though it must have had the Alliance Leader’s approval, of course.",
+      "severity": "minor",
+      "source": "물론 맹주의 재가(裁可)를 거쳤겠지만."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes a retainer’s identity, a physical restraint, a negated remark, and an alternative route.",
+  "version": 1
+}
