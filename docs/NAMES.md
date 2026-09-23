@@ -2203,3 +2203,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 후세인 | **Hussein** | Historical figure referenced in an online comment about the 9/11 attacks. |
 | 마드리드 | **Madrid** | Spanish city named in a Monster Wave news headline. |
 | 조국일보 | **Joguk Ilbo** | Newspaper named in a headline criticizing Jin Taekyung. |
+| 알프스산맥 | **the Alps** | Mountain range containing the hidden cave. |
+| 위저드 | **Wizard** | Guild led by Magic Johnson. |
+| 자경단 사건 | **the vigilante incident** | Operation against Middle Eastern terrorists and African rebel groups. |

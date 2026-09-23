@@ -1217,3 +1217,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | undead ally to human companion | Jin Taekyung | imperious-familiar | The Skeleton King addresses Jin with familiar, self-important concern while delivering food. |
 | 진태경 | 최 팀장님 | allied Hunter to intelligence Team Leader | Team Leader Choi | polite and respectful | Jin addresses Team Leader Choi during the intelligence briefing. |
 | 최 팀장 | 진태경 | intelligence Team Leader to allied Hunter | Jin Taekyung | polite and professional | Choi addresses Jin formally while discussing responsibility and the investigation. |
+| 매직 존슨 | 진 | friend and ally | Jin | informal and familiar | Magic Johnson directly addresses Jin as 진. |
+| 매직 존슨 | 대령 | military subordinate or local commander | Colonel | formal and commanding | Magic Johnson orders the armed commander not to act rashly. |

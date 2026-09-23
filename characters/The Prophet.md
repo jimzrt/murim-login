@@ -1,6 +1,6 @@
 # The Prophet (선지자)
 
-- **Safe through:** Chapter 740
+- **Safe through:** Chapter 741
 - **Aliases:** None
 - **Role:** The Prophet is the mysterious leader of a hidden Middle Eastern terrorist organization whose ten warriors carried out the day's coordinated attacks.
 - **Personality:** Religiously fervent, commanding, and shrouded in an intentionally indistinct identity.
