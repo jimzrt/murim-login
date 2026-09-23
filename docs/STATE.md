@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 759
-- Next chapter: 760
-- Current block: 755–759 (5/5)
-- Latest translation: `translations/0759.md`
-- Latest summary: `summaries/beats/0759.md`
-- Safe profiles through: chapter 759
+- Last completed: 760
+- Next chapter: 761
+- Current block: 760–764 (1/5)
+- Latest translation: `translations/0760.md`
+- Latest summary: `summaries/beats/0760.md`
+- Safe profiles through: chapter 760
 
 ## Current Block
 
-- Germany prepares for the worst as magical power surges around Munich: citizens are evacuated, reinforcements are mobilized, and Prime Minister Markus authorizes preparation of Uran, the nation's nuclear weapon, as a last resort. The magical power then breaks through its critical point, and the Munich Monster Wave begins.
-- An army of Minotaurs emerges through the rift, led by the S-rank Minotaur Lord. German forces bombard the monsters, but the attack fails to stop them. Joel Schumacher, Germany's S-rank Hunter and former fencing gold medalist, engages the Minotaur Lord and briefly gains the upper hand before being grievously wounded.
-- As the Minotaur Lord raises its axe to finish Schumacher, Jin Taekyung arrives in Munich and steps between them with his spear, announcing his presence on the battlefield.
+- Jin leaves the unconscious Joel Schumacher under the Skeleton King's protection and orders the Skeleton King to suppress his magical power and conceal his authority from the watching humans. The Minotaur Lord rallies thousands of Minotaurs against Jin and the assembled Hunters, and Jin orders everyone to kill them all.
+- Jin leads the Skeleton King, Team Leader Choi, and more than two hundred elite Hunters from the Ares and Peace Guilds into the counterattack. His Fire Dragon Divine Spear and overwhelming physical strength tear through the Minotaur ranks, leaving the Minotaur Lord isolated, fearful, and facing Jin's final charge.
 
 ## Open Questions
 
@@ -24,10 +23,10 @@
 ## Exceptional Decision
 
 - Render 망가진 신체 as Broken Body.
-- Render 수상 구조대원 as Aquatic Rescue Worker.
 - Render 바다의 희망 as Hope of the Sea.
 - Render 격변 as Cataclysm in the Main Quest title, distinct from 대격변 as Great Cataclysm.
-- Render 미노타우로스 로드 as Minotaur Lord, 우란 as Uran, and 위버맨쉬 as Übermensch.
+- Render 미노타우로스 로드 as Minotaur Lord, 우란 as Uran, 위버맨쉬 as Übermensch, and 위버 as Über when used as the Skeleton King's name.
+- Render 화룡신창 일초식 and 화룡일미 as Fire Dragon Divine Spear, first form, and Fire Dragon's Single Tail.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
