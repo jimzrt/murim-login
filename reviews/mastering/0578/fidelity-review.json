@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A moment slower, and it would have been his neck.",
+      "defect": "The Korean explicitly contrasts his hair being cut with his neck being cut. The assembled line omits the hair, losing the physical detail preserved in the baseline.",
+      "id": "F01",
+      "rationale": "The source says that if he had been slightly slower, what was cut would have been his neck rather than his hair.",
+      "replacement": "If he’d been a moment slower, it would have been his neck—not his hair—that was cut.",
+      "severity": "minor",
+      "source": "Korean line 305"
+    },
+    {
+      "confidence": 0.88,
+      "current": "His eyes grew steady",
+      "defect": "This changes the description from Minwoo’s gaze sinking deeply to his eyes becoming steady, adding composure and losing the source’s image.",
+      "id": "F02",
+      "rationale": "The source says his eyes 깊게 가라앉았다—sank or settled deeply. The accepted baseline likewise preserves the image with “His eyes sank deeply.”",
+      "replacement": "His gaze sank deep",
+      "severity": "minor",
+      "source": "Korean line 253"
+    }
+  ],
+  "summary": "The assembled translation is largely faithful, but it loses a source-specific detail in the near-miss description and shifts the description of Choi Minwoo’s gaze.",
+  "version": 1
+}

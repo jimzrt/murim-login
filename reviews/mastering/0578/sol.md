@@ -8,7 +8,7 @@ The moment everything turned white—
 
 *Rrip.*
 
-A dazzling streak of light tore through Song Cheonwoo’s sleeve and shot outward.
+A dazzling streak of light tore through Song Cheonwoo’s sleeve.
 
 The slender, razor-sharp blade was an unusual weapon, modified for this one strike.
 
@@ -102,7 +102,7 @@ The newcomer closed the hundreds of meters between them in an instant. With a fl
 
 *Fwoooosh!*
 
-Flames made of mana erupted and rose between Song Cheonwoo and the others. The snow on the mountain melted and evaporated.
+Flames made of mana surged up between Song Cheonwoo and Choi Minwoo. Snow on the mountain melted and evaporated.
 
 Through the scorching heat, Song Cheonwoo saw the old butler approaching beyond Choi’s shoulder. Choi backed away, steadying his breath.
 
@@ -130,7 +130,7 @@ Butler Kim—no, Kim Hwajong—gripped the fiery whips and stepped forward.
 
 Lava seemed to boil in eyes that had always been calm.
 
-The old butler, who had preserved his loyalty without wavering through all the years that had passed, had returned to the vigorous figure he had been in the past.
+The old butler, whose loyalty had never wavered through the years, looked as fierce as he had in his youth.
 
 “Shut your fucking mouth, you piece of shit.”
 
@@ -140,7 +140,7 @@ Choi Minwoo stared, mouth open. He had never seen Kim Hwajong like this.
 
 *Swish! FWOOSH!*
 
-Following the arc of the sword as it swung, the wall of fire separating the three of them split apart.
+A sword swept through the air, splitting the wall of fire between the three men.
 
 And Choi Minwoo saw it.
 
@@ -154,7 +154,7 @@ Song Cheonwoo spoke the name of the necklace Choi knew so well.
 
 Song Cheonwoo turned his head. Beyond the crevasse, hundreds of yetis were surging down the mountain with the avalanche.
 
-“And this time, it seems I was right. Don’t you agree?”
+“And it seems I was right. Don’t you agree?”
 
 —Kyaaaaaaar!
 
@@ -176,7 +176,7 @@ It marked its wearer as a slave of the dragonkin—and, to yetis, as one of thei
 
 “You……!”
 
-Choi Minwoo’s shout toward Song Cheonwoo never finished.
+Choi Minwoo’s shout went unfinished.
 
 *RUMBLE! Rat-a-tat!*
 
@@ -188,7 +188,7 @@ Song Cheonwoo was closest, but while he wore a necklace carrying a yeti’s scen
 
 The savage roar shook the snowfield.
 
-Song Cheonwoo glanced at the hundreds of shadows leaping over his head and charging toward the other two before speaking.
+Song Cheonwoo glanced at the hundreds of shadows leaping over his head toward the other two.
 
 “Hwa-jong. You’d better stay out of this.”
 
@@ -254,13 +254,13 @@ Choi Minwoo narrowly avoided the streaks of light cutting across him. His eyes g
 
 *Hero’s Soul.* The sword left behind by a noble hero trembled.
 
-Pure white aura, resembling the snowy mountain, coiled around the blade and surged upward. Choi Minwoo gripped the sword tightly with both hands and smoothly rotated his upper body.
+Pure white aura, like the snow on the mountain, surged around the blade. Choi Minwoo gripped the hilt with both hands and turned his upper body smoothly into the strike.
 
 *Shiiiiing.*
 
 Aura against aura. Light against light.
 
-The instant two flashes of different colors met—
+The instant the two flashes met—
 
 *RUMBLE-RUMBLE-RUMBLE!*
 
@@ -276,7 +276,7 @@ Two figures. Two swords. Their auras cut through the air and collided.
 
 Each clash sent out another tremendous shock wave, sweeping away snow and tearing up the ground.
 
-Red liquid dropped onto the dark green ground, revealed for the first time in ages beneath the snow.
+A drop of red fell onto the dark green earth, exposed beneath the snow for the first time in ages.
 
 *Trickle.*
 
@@ -308,11 +308,11 @@ So why didn’t he feel the terror of death he had felt in Sichuan?
 
 A quiet laugh escaped him instead. He had suddenly remembered a conversation with someone who wasn’t here.
 
-*“This might sound a little crazy, but sometimes I start laughing when I’m in a situation where I feel like I’m going to die.”*
+“This might sound a little crazy, but sometimes I laugh when I think I’m about to die.”
 
-*“You really are quite insane.”*
+“You are quite insane.”
 
-*“But… whenever I start laughing, I always end up winning somehow.”*
+“But… strangely enough, whenever I laugh, I end up winning.”
 
 Choi Minwoo didn’t know why that passing conversation had come to mind now.
 
