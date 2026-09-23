@@ -1348,3 +1348,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | friend_and_ally | Go | casual imperative | Urges Jin forward during their coordinated attack. |
 | 도플갱어 | 진태경 | enemy | you | measured and informal | Replies to Jin’s taunt without using a name or title. |
 | 진태경 | 스켈레톤 킹 | friends and allies | you; no explicit name or title in the Sound Transmissions | terse informal imperatives | Jin directs the Skeleton King’s movements by Sound Transmission while the latter is blinded. |
+| 스켈레톤 킹 | 진태경 | ally | Human | plain | Addresses Jin as 인간 before asking if he is all right; Jin responds directly. |
