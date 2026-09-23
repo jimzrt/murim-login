@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is faithful overall, with two minor losses of source detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 7",
+      "current": "a pair of river bandits famous in the area for being inseparable",
+      "defect": "The Korean describes the parents as a famous lovebird couple. “Inseparable” preserves closeness but loses the affectionate, couple-like image conveyed by 잉꼬부부 and present in the accepted baseline.",
+      "replacement": "a famous local pair of lovebird river bandits",
+      "rationale": "잉꼬부부 characterizes them as a lovey-dovey couple, not merely as people who are inseparable.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 321",
+      "current": "when your battery falls below fifteen percent",
+      "defect": "“Below” excludes exactly fifteen percent, while 이하 includes fifteen percent.",
+      "replacement": "when your battery falls to fifteen percent or lower",
+      "rationale": "The Korean says the warning appears when the battery reaches 15% or less.",
+      "confidence": 0.99
+    }
+  ]
+}

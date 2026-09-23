@@ -62,7 +62,7 @@ Mu Song already had a fearsome face. The river bandit who had dropped the barrel
 
 “I-I’m sorry!”
 
-“You bastard. You don’t know the value of liquor? I ought to hang you upside down and… What was it? The Yangtze, the Yangtze… Right. I might just sentence you to the Yangtze’s dip-and-taste punishment.”
+“You bastard. Don’t you know how precious liquor is? I ought to hang you upside down and… What was it? The Yangtze, the Yangtze… Right. I might just sentence you to the dip-and-taste punishment.”
 
 “I deserve to die. Please, anything but that…”
 
@@ -78,13 +78,13 @@ Mu Song already had a fearsome face. The river bandit who had dropped the barrel
 
 “A-at once, sir!”
 
-As the subordinate hurried away, shouting frantic acknowledgments, Mu Song let out a deep sigh.
+Mu Song let out a deep sigh as his subordinate hurried away, frantically repeating the order.
 
 *Nothing is going right.*
 
 It wasn’t just a complaint. Nothing was going right.
 
-Even good fortune would not have been enough to make up for it, yet one bad thing after another kept happening.
+At a time when even one stroke of good luck after another would barely have been enough, bad things kept happening instead.
 
 He had reluctantly left his home base in Sichuan for Hubei. Not long ago, he had also had to part with Hwang Chung, the Yangtze One Saber, who had been like family to him.
 
@@ -94,7 +94,7 @@ Thinking he had to repay the gratitude and grudges he owed Hwang Chung, Mu Song 
 
 An unidentified old master who had clearly achieved Returned to Youth.
 
-That beast wearing the guise of a young medical apprentice had realized that his identity had been exposed.
+That beast disguised as a young medical apprentice had realized Mu Song knew what he was.
 
 *That monstrous old man. Who the hell is he?*
 
@@ -154,7 +154,7 @@ The senior river bandit finally pulled free and stammered, “I-I’m sorry, sir
 
 The senior river bandit was one of the few who had seen Mungyeong’s true identity for himself.
 
-Mu Song sighed deeply at the man’s anxious, darting eyes before speaking.
+Mu Song sighed at the man’s anxious, darting eyes.
 
 “More importantly, did you make sure everyone understood the orders I gave earlier?”
 
@@ -172,15 +172,15 @@ Mu Song ground his teeth.
 
 “I knew it’d be that bastard. Where’s Chunsam now?”
 
-“We dunked him in the Yangtze and hauled him back out. He’s been tossed down below. He won’t be saying anything like that again.”
+“We dunked him in the Yangtze and hauled him back out. He’s down below now. He won’t ask again.”
 
-“Whew. Good work. Keep the others in line even when I’m away. One slip, and every last one of us could end up drowned at the bottom of the Yangtze along with the swift ship.”
+“Whew. Good work. Keep the others in line even when I’m away. One slip, and we could all end up at the bottom of the Yangtze, swift ship and all.”
 
 Mu Song’s expression darkened.
 
 As if the monster known as the Fire King, Jeok Cheongang, weren’t enough, now an unidentified old monster who had achieved Returned to Youth was aboard as well. Mu Song almost missed the days when he hadn’t known.
 
-“At this rate, are we ever going to make it back to Sichuan? We’ve already been away from the Water Dragon Stronghold for nearly two months. I’m worried it might stay vacant forever.”
+Seeing their towering Stronghold Lord in such a state, the senior river bandit asked anxiously, “Are we ever going to make it back to Sichuan? We’ve been away from the stronghold for nearly two months already. I’m worried it’ll stay empty forever.”
 
 “Don’t say such unlucky things. They say you can survive even in a tiger’s den if you keep your head.”
 
@@ -208,7 +208,7 @@ The senior river bandit was staring over Mu Song’s shoulder, mouth hanging ope
 
 Something else he’d forgotten flashed through his mind.
 
-*Ah. I left a spare liquor barrel at the stern.*
+*Ah. The spare liquor barrels are at the stern.*
 
 No wonder his subordinate had started to say something when Mu Song told him to bring another one, then stopped.
 
@@ -244,9 +244,9 @@ Mu Song fought down the urge to tear the man’s mouth apart.
 
 Mu Song felt Mungyeong’s gaze travel from one part of his body to another.
 
-It had to be his imagination that made him feel as though Mungyeong was looking at his lethal acupoints.
+Surely it was only his imagination that Mungyeong was looking at his lethal acupoints. It had to be.
 
-Fortunately, perhaps his desperate wish had reached the heavens. Mungyeong soon withdrew his gaze and spoke.
+Fortunately, perhaps his desperate wish reached the heavens. Mungyeong withdrew his gaze and spoke.
 
 “Great Hero Jeok was beside himself with rage. He said that if it happened again, you’d better be prepared.”
 
@@ -276,13 +276,13 @@ Mungyeong headed back toward the stern, leaving Mu Song behind. Then he stopped 
 
 “Oh, and one more thing.”
 
-“What else? Is there still something you need to tell me?”
+“W-what else?”
 
 “Two portions will be enough for each meal until we reach Henan.”
 
 “Huh?”
 
-“Young Master Jin is going to have no appetite for the time being, so keep that in mind.”
+“Young Master Jin won’t have much of an appetite for a while. Keep that in mind.”
 
 They had at least ten days left before they reached Henan. No matter how poor someone’s appetite was, going ten whole days without eating was absurd.
 
@@ -294,7 +294,7 @@ A dimple appeared beside Mungyeong’s mouth.
 
 His smile was so natural that even Mu Song, who thought of him as a monster, mistook him for an innocent boy for an instant.
 
-“He must be busy right now. Very busy.”
+“He should be busy right now. Very busy.”
 
 * * *
 
@@ -313,7 +313,7 @@ But why was I more puzzled than alarmed?
 
 If I ran out of internal energy right now, I’d sink in the middle of this vast stretch of the Yangtze. Yet the danger bothered me less than the questions.
 
-And one reason for that was surely the presence of something approaching from far away.
+And at least one of those questions had to do with whatever was approaching from far away.
 
 Ssssh.
 

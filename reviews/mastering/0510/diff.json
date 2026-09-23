@@ -1,0 +1,2421 @@
+{
+  "baseline_blocks": 172,
+  "baseline_sha256": "47eb32ae4fc01222930d1e55cbe0a6722f34658664d83e443dada4ffc0042028",
+  "global_terminology_alerts": [],
+  "hunk_count": 128,
+  "hunks": [
+    {
+      "baseline": "His parents, whose faces he could no longer remember, had been a famous pair of lovebird river bandits in the area. His maternal and paternal family lines were also full of river bandits and fishermen.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "His parents, whose faces he could no longer remember, had been a pair of river bandits famous in the area for being inseparable. Both sides of his family were full of river bandits and fishermen, too.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He came from a river-bandit family to the bone.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "River banditry ran deep in his blood.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe that was why Mu Song much preferred spending time aboard a boat to being on land.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "Maybe that was why Mu Song much preferred being aboard a boat to being on land.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whenever he saw dense forests and open fields, his hands and feet tingled and his breath grew tight, as though he had swallowed deadly poison. But whenever he saw a wide-open river or sea, his vitality returned.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "Dense forests and open fields made his hands and feet tingle and left him short of breath, as though he had swallowed deadly poison. But the sight of a wide-open river or sea brought him back to life.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that wasn’t all. While other stronghold lords who had made fortunes as river bandits bought impressive estates and indulged in wine, women, and gambling at pleasure houses, Mu Song decorated his boat, lay on a bed woven from nets, and watched the Yangtze.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "And that wasn’t all. While other stronghold lords who had made fortunes as river bandits bought grand estates and indulged in wine, women, and gambling at pleasure houses, Mu Song decorated his boat, lay on a bed woven from nets, and watched the Yangtze.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whenever he did, he always had the same thought.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "Whenever he did, he had the same thought.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I wish the entire world were made of water. Then I could spend my whole life on a boat.*",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "19",
+      "sol": "*I wish the whole world were made of water. Then I could spend my entire life on a boat.*",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But now, Mu Song was staring blankly at the Yangtze and muttering,",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "But now, Mu Song was staring blankly at the Yangtze and muttering to himself.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The atmosphere instantly turned icy.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "The mood turned icy.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Water Dragon Stronghold river bandits nearby doubted their own ears.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "31",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "수룡채",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Water Dragon Stronghold"
+        }
+      ]
+    },
+    {
+      "baseline": "After rolling their eyes around and exchanging glances, they soon reached a clear conclusion.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "33",
+      "sol": "The nearby Water Dragon Stronghold river bandits doubted their ears. They rolled their eyes toward one another, exchanged glances, and soon reached an obvious conclusion.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That’s right. All our ears must have malfunctioned at once.*",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "*That’s it. All our ears must have gone bad at once.*",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Our Stronghold Lord would never say something like that.*",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "*The Stronghold Lord would never say that.*",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone in the Yangtze River Channel League knew what kind of person Mu Song was, from the most senior Water Dragon Stronghold river bandit to the newest recruit.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "41",
+      "sol": "Everyone in the Yangtze River Channel League knew what kind of man Mu Song was, from the most senior Water Dragon Stronghold river bandit to the youngest recruit.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I should quit this whole damn business. It’s fucking miserable.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "“I should quit this whole damn business. Fuck this.”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An invisible shock swept across the deck.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "53",
+      "sol": "",
+      "sol_paragraphs": "after P24",
+      "sol_range": [
+        24,
+        24
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The surroundings fell silent at Mu Song’s sudden declaration of his intention to retire and the threat of the Water Dragon Stronghold being disbanded.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "55",
+      "sol": "An invisible shock swept across the deck. Mu Song’s sudden talk of retirement left everyone silent, faced with the prospect of Water Dragon Stronghold itself disbanding.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The silence, which seemed as though it might last forever, was broken when a liquor barrel slipped from the shoulder of a dazed river bandit.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "57",
+      "sol": "The silence might have gone on forever if a liquor barrel hadn’t slipped from a dazed river bandit’s shoulder.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Boom! Crash!",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "59",
+      "sol": "Thud! Crack!",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The barrel had been filled with liquor, so it was quite heavy. The wooden cask shattered when it hit the deck, sending alcohol splashing in every direction.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "61",
+      "sol": "Full of liquor, it was heavy enough to shatter when it struck the deck. Alcohol splashed everywhere.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only then did Mu Song snap out of his thoughts and glare.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "63",
+      "sol": "Only then did Mu Song snap out of his thoughts. He glared.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song already had a fearsome face. The river bandit who had dropped the barrel went pale and bowed deeply at the waist.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "67",
+      "sol": "Mu Song already had a fearsome face. The river bandit who had dropped the barrel went pale and bent sharply at the waist.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You bastard. You don’t know the value of liquor? I ought to hang you upside down and… What was it? The Yangtze, the Yangtze… Right. I might just sentence you to the Yangtze’s dip-and-taste punishment.”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "71",
+      "sol": "“You bastard. Don’t you know how precious liquor is? I ought to hang you upside down and… What was it? The Yangtze, the Yangtze… Right. I might just sentence you to the dip-and-taste punishment.”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ve committed a crime worthy of death. Please, anything but that…”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "73",
+      "sol": "“I deserve to die. Please, anything but that…”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Be careful. I’m already in a shitty mood, so don’t make things worse.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "75",
+      "sol": "“Watch yourself. I’m in a shitty enough mood without you making it worse.”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Enough. Clean everything up and put things back the way they were. And bring another barrel of liquor to replace it.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "79",
+      "sol": "“Enough. Clean this up and put everything back the way it was. Bring another barrel of liquor, too.”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Are you insane? How dare you talk back to me? Get moving!”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "83",
+      "sol": "“Are you insane? How dare you talk back? Get moving!”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Y-yes, sir!”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "85",
+      "sol": "“A-at once, sir!”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the subordinate hurried away, shouting frantic acknowledgments, Mu Song let out a deep sigh.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "87",
+      "sol": "Mu Song let out a deep sigh as his subordinate hurried away, frantically repeating the order.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This wasn’t a simple complaint. It was the truth.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "91",
+      "sol": "It wasn’t just a complaint. Nothing was going right.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even good fortune would not have been enough to make up for it, yet one bad thing after another kept happening.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "93",
+      "sol": "At a time when even one stroke of good luck after another would barely have been enough, bad things kept happening instead.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had been forced to leave his home base in Sichuan and come to Hubei. Not long ago, he had also had to say goodbye to Hwang Chung, the Yangtze One Saber, who had been like family to him.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "95",
+      "sol": "He had reluctantly left his home base in Sichuan for Hubei. Not long ago, he had also had to part with Hwang Chung, the Yangtze One Saber, who had been like family to him.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Believing he had to settle what he owed Hwang Chung, he had agreed to take Jin Taekyung’s group as far as Henan. But as expected, the worst possible situation had come to pass.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "97",
+      "sol": "Thinking he had to repay the gratitude and grudges he owed Hwang Chung, Mu Song had agreed to take Jin Taekyung’s group as far as Henan. And sure enough, the worst had happened.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I was going to keep pretending not to know until the end.*",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "99",
+      "sol": "*I was going to keep pretending I didn’t know.*",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That beast wearing the guise of a young medical apprentice had realized that his identity had been exposed.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "103",
+      "sol": "That beast disguised as a young medical apprentice had realized Mu Song knew what he was.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What kind of monster is that old man? Who the hell is he?*",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "105",
+      "sol": "*That monstrous old man. Who the hell is he?*",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Based on Mu Song’s careful observations, only a tiny number of people among the group traveling with them knew the truth. At most, the Fire King, Jeok Cheongang, and Jin Taekyung?",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "107",
+      "sol": "From what Mu Song had observed, very few people in the traveling party knew the truth. The Fire King, Jeok Cheongang, and Jin Taekyung, at most?",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheongpung was impossible to predict, but the fact that even he became quiet in front of Mungyeong made it highly likely that he knew too.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "109",
+      "sol": "Cheongpung was impossible to predict, but even he quieted down in front of Mungyeong. Chances were he knew, too.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Damn it. If I’d known this would happen, I should have taken the other ship.*",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "111",
+      "sol": "*Damn it. If I’d known this would happen, I should’ve taken the other ship.*",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Water Dragon Stronghold currently had two swift ships heading toward Henan. Jeok Cheongang had insisted that they split up because there were so many people, and Mu Song had not possessed the courage to defy the Fire King.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "113",
+      "sol": "Water Dragon Stronghold had two swift ships heading toward Henan. Jeok Cheongang had insisted on splitting the passengers between them because there were so many, and Mu Song hadn’t dared defy the Fire King.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When Mu Song thought of the deputy Stronghold Lord, who was probably enjoying a comfortable journey aboard the other swift ship more than a thousand feet ahead, his stomach hurt.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "115",
+      "sol": "Thinking of the Deputy Stronghold Lord traveling comfortably aboard the other swift ship, more than a hundred jang ahead, was enough to make his stomach hurt.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무송",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mu Song"
+        }
+      ]
+    },
+    {
+      "baseline": "*Compared to this, that ship is a flower garden. A goddamn flower garden.*",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "117",
+      "sol": "*Compared to this, that ship’s a flower garden. A goddamn flower garden.*",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least the other ship had people he could communicate with.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "119",
+      "sol": "At least the people aboard the other ship could be reasoned with.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Gung Gibang’s smell could be dealt with by holding his breath for a moment, and watching the bizarre snake Cheongpung called Mimi perform its tricks was surprisingly entertaining.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "121",
+      "sol": "Gung Gibang’s smell was a problem you could solve by holding your breath for a moment, and the strange snake Cheongpung called Mimi was surprisingly entertaining to watch when it performed tricks.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Calling it a gathering of monsters would not be an exaggeration.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "127",
+      "sol": "It was a gathering of monsters.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least Jin Taekyung, who was technically his junior, still used formal speech with Mu Song. And since Mu Song saw Jeok Cheongang so often, the Fire King treated him more or less like a person.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "129",
+      "sol": "At least Jin Taekyung, his junior in name only, still spoke politely to him. And after seeing Mu Song so often, Jeok Cheongang treated him more or less like a person.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "화왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Fire King"
+        }
+      ]
+    },
+    {
+      "baseline": "But the last man was the problem.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "131",
+      "sol": "The last one was the problem.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As he recalled Mungyeong’s cold gaze, Mu Song shuddered involuntarily.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "135",
+      "sol": "Mu Song shuddered involuntarily at the memory of Mungyeong’s cold gaze.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One of the senior river bandits, who had been watching the Stronghold Lord’s strange behavior for some time, approached and cautiously asked,",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "137",
+      "sol": "One of the senior river bandits, who had been watching his Stronghold Lord’s strange behavior for some time, came over and asked cautiously, “Stronghold Lord, are you all right?”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Stronghold Lord, are you all right?”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "139",
+      "sol": "",
+      "sol_paragraphs": "after P66",
+      "sol_range": [
+        66,
+        66
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "채주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Stronghold Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "“Then why ask? You already know the whole situation.”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "145",
+      "sol": "“Then why ask? You know what’s going on.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What a thing to say when I’m worried about you. Anyway, what in the world did that old monster threaten you with to make you look so—”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "147",
+      "sol": "“I worry about you, and that’s the thanks I get? Anyway, what did that old monster threaten you with to make you look so—mmph!”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ugh!”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "149",
+      "sol": "",
+      "sol_paragraphs": "after P70",
+      "sol_range": [
+        70,
+        70
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song’s hand shot out at the speed of light and clamped over his subordinate’s mouth. He looked around with tense eyes.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "151",
+      "sol": "Mu Song’s hand shot out at the speed of light and clamped over his subordinate’s mouth. His eyes darted around the deck.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only after checking twice, then a third time, that no one had heard did his anger finally boil over.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "153",
+      "sol": "Only after checking twice, then a third time, that no one had heard did his anger surge.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Have you lost your mind? Are you dying to die?”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "155",
+      "sol": "“Have you lost your mind? Do you have a death wish?”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ugh—pfft!”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "157",
+      "sol": "“Mmph, phew!”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The senior river bandit barely escaped Mu Song’s grip and stammered,",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "159",
+      "sol": "",
+      "sol_paragraphs": "after P74",
+      "sol_range": [
+        74,
+        74
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "무송",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mu Song"
+        }
+      ]
+    },
+    {
+      "baseline": "“I-I’m sorry, sir. It just slipped out.”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "161",
+      "sol": "The senior river bandit finally pulled free and stammered, “I-I’m sorry, sir. It just slipped out.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’ve already told you several times, but you and everyone else are not to utter a single word about him. Understood?”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "163",
+      "sol": "“I’ve told you again and again. Neither you nor the others are to say a word about him. Understood?”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The senior river bandit was one of the few who had personally witnessed Mungyeong reveal his true power.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "167",
+      "sol": "The senior river bandit was one of the few who had seen Mungyeong’s true identity for himself.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song sighed deeply at the man’s anxious, darting eyes before speaking.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "169",
+      "sol": "Mu Song sighed at the man’s anxious, darting eyes.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "“More importantly, did you make sure everyone thoroughly understood the orders I gave earlier?”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "171",
+      "sol": "“More importantly, did you make sure everyone understood the orders I gave earlier?”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes, sir. Just as you ordered, I firmly told everyone not to go anywhere near the stern.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "175",
+      "sol": "“Yes, sir. Just as you said, I made it clear they’re not to go anywhere near the stern.”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Did anyone get suspicious?”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "177",
+      "sol": "“Anyone get suspicious?”",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were dozens of river bandits aboard. With that many people, there was always at least one idiot with no sense of discretion.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "179",
+      "sol": "There were dozens of river bandits aboard. With that many people, there was bound to be an idiot or two who couldn’t take a hint.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There was one. Chunsam. Even after I told him it was the Stronghold Lord’s order, he kept asking questions three times. Nearly gave me a heart attack.”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "181",
+      "sol": "“One did. Chunsam. Even after I said it was your order, he asked me about it three times. Nearly gave me a heart attack.”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "채주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Stronghold Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "“I knew it would be that bastard. Where is Chunsam now?”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "185",
+      "sol": "“I knew it’d be that bastard. Where’s Chunsam now?”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We dunked him in the Yangtze and hauled him back out. He’s been tossed down below. He won’t be saying anything like that again.”",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "187",
+      "sol": "“We dunked him in the Yangtze and hauled him back out. He’s down below now. He won’t ask again.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Whew. Good work. Keep the others in line even when I’m away. One slip, and every last one of us could end up drowned at the bottom of the Yangtze along with the swift ship.”",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "189",
+      "sol": "“Whew. Good work. Keep the others in line even when I’m away. One slip, and we could all end up at the bottom of the Yangtze, swift ship and all.”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song’s face was dark.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "191",
+      "sol": "Mu Song’s expression darkened.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The monster known as the Fire King, Jeok Cheongang, had not been enough. Now they had an unidentified old monster who had achieved Returned to Youth as well. He almost missed the days when he had known nothing about it.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "193",
+      "sol": "As if the monster known as the Fire King, Jeok Cheongang, weren’t enough, now an unidentified old monster who had achieved Returned to Youth was aboard as well. Mu Song almost missed the days when he hadn’t known.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Seeing their godlike Stronghold Lord show such weakness, the senior river bandit asked anxiously,",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "195",
+      "sol": "",
+      "sol_paragraphs": "after P91",
+      "sol_range": [
+        91,
+        91
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "채주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Stronghold Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "“At this rate, are we ever going to make it back to Sichuan? We’ve already been away from the Water Dragon Stronghold for nearly two months. I’m worried it might stay vacant forever.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "197",
+      "sol": "Seeing their towering Stronghold Lord in such a state, the senior river bandit asked anxiously, “Are we ever going to make it back to Sichuan? We’ve been away from the stronghold for nearly two months already. I’m worried it’ll stay empty forever.”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "수룡채",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Water Dragon Stronghold"
+        }
+      ]
+    },
+    {
+      "baseline": "“Don’t say such unlucky things. They say that even if you enter a tiger’s den, you can survive as long as you keep your head.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "199",
+      "sol": "“Don’t say such unlucky things. They say you can survive even in a tiger’s den if you keep your head.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That works for a tiger. But against a Returned to Youth Supreme Peak master, I don’t think keeping your head a hundred times would do a thing…”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "201",
+      "sol": "“That’s a tiger. Against a Returned to Youth Supreme Peak master, I don’t think keeping your head a hundred times over would help…”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song quietly closed his mouth, unable to think of a reply.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "205",
+      "sol": "Mu Song had no answer. He shut his mouth.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only one person in this situation would talk about a liquor barrel.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "211",
+      "sol": "There was only one person who would be talking about a liquor barrel right now.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Irritation surged through Mu Song. Without even turning around, he snapped,",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "213",
+      "sol": "",
+      "sol_paragraphs": "after P99",
+      "sol_range": [
+        99,
+        99
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "무송",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mu Song"
+        }
+      ]
+    },
+    {
+      "baseline": "“Now that I’ve been letting this slide, that worthless bastard has been—”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "215",
+      "sol": "Irritation flared. Without even turning around, Mu Song snapped, “I’ve been letting it slide, but that useless bastard has been getting on my nerves since—”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Did you just call me a worthless bastard?”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "217",
+      "sol": "“Did you just call me a useless bastard?”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An instant that felt like an eternity.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "221",
+      "sol": "A moment passed that felt like an eternity.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the sight of the senior river bandit staring over his shoulder with his mouth hanging open, Mu Song realized that he was thoroughly fucked.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "223",
+      "sol": "The senior river bandit was staring over Mu Song’s shoulder, mouth hanging open. Mu Song knew at once that he was thoroughly fucked.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, he remembered one fact he had forgotten.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "225",
+      "sol": "Something else he’d forgotten flashed through his mind.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Ah. I left a spare liquor barrel at the stern.*",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "227",
+      "sol": "*Ah. The spare liquor barrels are at the stern.*",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No wonder that subordinate had started to say something when Mu Song told him to bring another one, then stopped.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "229",
+      "sol": "No wonder his subordinate had started to say something when Mu Song told him to bring another one, then stopped.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song’s vision blurred.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "231",
+      "sol": "",
+      "sol_paragraphs": "after P107",
+      "sol_range": [
+        107,
+        107
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "무송",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mu Song"
+        }
+      ]
+    },
+    {
+      "baseline": "He had not even felt afraid when he was caught in the whirlpool at Tianling Falls. But now, he was sweating hard enough to wash his neck in it.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "233",
+      "sol": "Mu Song felt faint. He hadn’t been afraid even when he was caught in the whirlpool at Tianling Falls, but now he was sweating enough to bathe his neck in it.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song squeezed his eyes shut, then slowly turned around with a forced smile.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "237",
+      "sol": "Mu Song squeezed his eyes shut. Then he slowly turned around, forcing a smile.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mungyeong smiled brightly, like an ordinary boy his age, and answered,",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "245",
+      "sol": "Mungyeong smiled like any other boy his age.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I was watching the Yangtze from the stern when your subordinate came over. I heard that Great Hero Mu Song had ordered him to bring a liquor barrel…”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "247",
+      "sol": "“I was watching the Yangtze from the stern when your subordinate came by. He said Great Hero Mu Song had ordered him to bring a liquor barrel…”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, I… I don’t remember giving such an order…”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "253",
+      "sol": "“Well, I… I don’t remember giving an order like that…”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, a river bandit appeared from behind Mungyeong with a barrel slung over his shoulder and called out briskly,",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "255",
+      "sol": "A river bandit appeared behind Mungyeong with a barrel on his shoulder and called out briskly, “Stronghold Lord! I brought the liquor barrel you ordered!”",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Stronghold Lord! I brought the liquor barrel as ordered!”",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "257",
+      "sol": "",
+      "sol_paragraphs": "after P119",
+      "sol_range": [
+        119,
+        119
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "채주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Stronghold Lord"
+        }
+      ]
+    },
+    {
+      "baseline": "Mu Song suppressed the urge to tear that subordinate’s mouth apart and continued,",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "259",
+      "sol": "Mu Song fought down the urge to tear the man’s mouth apart.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I… I do remember giving that order. Right. I did give it. It was obviously a mistake.”",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "261",
+      "sol": "“I… I do remember giving that order. Yes. I did. It was a clear mistake.”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song felt Mungyeong’s gaze moving methodically over various parts of his body.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "265",
+      "sol": "Mu Song felt Mungyeong’s gaze travel from one part of his body to another.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had to be his imagination that made him feel as though Mungyeong was looking at his lethal acupoints.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "267",
+      "sol": "Surely it was only his imagination that Mungyeong was looking at his lethal acupoints. It had to be.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had to be.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "269",
+      "sol": "",
+      "sol_paragraphs": "after P124",
+      "sol_range": [
+        124,
+        124
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fortunately, perhaps his desperate wish had reached the heavens. Mungyeong soon withdrew his gaze and spoke.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "271",
+      "sol": "Fortunately, perhaps his desperate wish reached the heavens. Mungyeong withdrew his gaze and spoke.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The enraged Great Hero Jeok was furious. He said that if something like this happened one more time, you had better be prepared.”",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "273",
+      "sol": "“Great Hero Jeok was beside himself with rage. He said that if it happened again, you’d better be prepared.”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, Jeok Cheongang had not gone berserk, nor had he said any such thing.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "275",
+      "sol": "Of course, Jeok Cheongang hadn’t flown into a rage or said anything of the sort.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "But Mu Song was not stupid enough to misunderstand what Mungyeong meant.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "277",
+      "sol": "But Mu Song wasn’t stupid enough to miss what Mungyeong meant.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Y-yes, I understand. Tell Great Hero Jeok that I’ll bear it in mind. But there is one thing…”",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "279",
+      "sol": "“Y-yes, I understand. Tell Great Hero Jeok I’ll bear it in mind. But…”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What should I do if there is something I absolutely have to take care of? Something needed for ship operations, for instance. Or meals.”",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "283",
+      "sol": "“What if someone absolutely has to go to the stern? For ship’s business, say. Or to bring meals.”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mungyeong thought for a moment before answering,",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P131",
+      "sol_range": [
+        131,
+        131
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "문경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mungyeong"
+        }
+      ]
+    },
+    {
+      "baseline": "“Great Hero Jeok told me to pass along further instructions. In the former case, Great Hero Mu Song is to come alone and take care of whatever needs doing. In the latter, you are to deliver the meals yourself.”",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "287",
+      "sol": "Mungyeong thought for a moment before answering. “Great Hero Jeok told me to pass along instructions for that, too. If it’s ship’s business, you’re to come alone and take care of it. And you’re to deliver the meals yourself.”",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무송",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mu Song"
+        }
+      ]
+    },
+    {
+      "baseline": "“Does that displease you?”",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "291",
+      "sol": "“Would you rather not?”",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P145",
+      "baseline_range": [
+        145,
+        145
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "291",
+      "sol": "Mu Song’s face went rigid.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It was my lifelong wish. I couldn’t be happier.”",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "293",
+      "sol": "“It’s been my lifelong wish. I couldn’t be happier.”",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I see. Then I’ll be going now. I’ll see you at dinner.”",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "295",
+      "sol": "“I see. Then I’ll be going. See you at dinner.”",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mungyeong left Mu Song behind and started walking back toward the stern. Then he suddenly stopped and turned around.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "297",
+      "sol": "Mungyeong headed back toward the stern, leaving Mu Song behind. Then he stopped and turned around.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What else? Is there still something you need to tell me?”",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "301",
+      "sol": "“W-what else?”",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Two portions will be enough for meals. All the way until we reach Henan.”",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "303",
+      "sol": "“Two portions will be enough for each meal until we reach Henan.”",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hmm?”",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "305",
+      "sol": "“Huh?”",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Young Master Jin is going to have no appetite for the time being, so keep that in mind.”",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "307",
+      "sol": "“Young Master Jin won’t have much of an appetite for a while. Keep that in mind.”",
+      "sol_paragraphs": "P143",
+      "sol_range": [
+        142,
+        143
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "There were still at least ten days until they reached Henan. No matter how poor his appetite was, going ten full days without eating was absurd.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "309",
+      "sol": "They had at least ten days left before they reached Henan. No matter how poor someone’s appetite was, going ten whole days without eating was absurd.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Curiosity got the better of Mu Song, and he summoned his courage to ask,",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "311",
+      "sol": "Curiosity got the better of Mu Song. He mustered his courage and asked, “Um… did something happen to Junior Jin?”",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Um, did something happen to Junior Jin?”",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "315",
+      "sol": "",
+      "sol_paragraphs": "after P145",
+      "sol_range": [
+        145,
+        145
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was such a natural smile that even Mu Song, who considered him a monster, mistook him for an innocent boy for an instant.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "323",
+      "sol": "His smile was so natural that even Mu Song, who thought of him as a monster, mistook him for an innocent boy for an instant.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He must be busy right now. Very busy.”",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "327",
+      "sol": "“He should be busy right now. Very busy.”",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sometimes, I get the feeling I’ve become a human smartphone.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "333",
+      "sol": "Sometimes I feel like I’ve become a human smartphone.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like the warning message that tells you when your battery drops below fifteen percent, a similar System window had appeared in front of my eyes.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "335",
+      "sol": "A System window had appeared before my eyes, much like the warning you get when your battery falls below fifteen percent.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> - Most of your **internal energy** has been depleted.\n>\n> - **Circulate your qi** to replenish your internal energy. If your internal energy is completely depleted, you may suffer a Status abnormality!",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "339",
+      "sol": "> **System**\n>\n> - Most of your **internal energy** has been depleted.\n> - **Circulate your qi** to replenish your internal energy. If it runs out completely, you may suffer a Status abnormality!",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But why?",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "341",
+      "sol": "But why was I more puzzled than alarmed?",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If all my internal energy ran out right now, I would sink into the middle of this vast Yangtze. Yet instead of feeling a sense of crisis, I was more puzzled than alarmed.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "343",
+      "sol": "If I ran out of internal energy right now, I’d sink in the middle of this vast stretch of the Yangtze. Yet the danger bothered me less than the questions.",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And one reason for that was surely the presence of something approaching from far away.",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "343",
+      "sol": "And at least one of those questions had to do with whatever was approaching from far away.",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A large body was drawing closer with extraordinary stealth. The fin jutting above the surface looked oddly familiar.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "343",
+      "sol": "A large body drew closer with remarkable stealth. The fin poking above the water looked oddly familiar.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 161,
+  "sol_sha256": "bd6926b13932b6674386a42ab42d67c59f2f193175e7391f38212b2098a38855",
+  "version": 1
+}
