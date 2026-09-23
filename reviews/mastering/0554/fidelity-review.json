@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Search Efforts Exhausted",
+      "defect": "The Korean says the search was carried out with all their might, but the hero’s remains were ultimately not found. “Efforts Exhausted” can instead suggest the efforts or resources ran out.",
+      "id": "F01",
+      "rationale": "The headline emphasizes the intensity of the search, not that search efforts were exhausted.",
+      "replacement": "The Search Was Exhaustive, but the Hero’s Remains Were Never Found",
+      "severity": "minor",
+      "source": "Line 13"
+    },
+    {
+      "confidence": 0.89,
+      "current": "handsome enough to put a celebrity to shame",
+      "defect": "The Korean uses a vivid image of turning a celebrity’s jaw; the current phrasing replaces that physical image with a general comparison.",
+      "id": "F02",
+      "rationale": "The source’s colloquial image is specific, and the accepted baseline preserves it.",
+      "replacement": "handsome enough to knock a celebrity’s jaw sideways",
+      "severity": "minor",
+      "source": "Line 195"
+    },
+    {
+      "confidence": 0.86,
+      "current": "Cheon Taemin’s only living blood relative",
+      "defect": "“Living” is not stated in the Korean. The source says he is Cheon Taemin’s only blood relative.",
+      "id": "F03",
+      "rationale": "The added qualifier narrows the claim beyond what 유일한 혈육 establishes.",
+      "replacement": "Cheon Taemin’s only blood relative",
+      "severity": "minor",
+      "source": "Line 197"
+    },
+    {
+      "confidence": 0.83,
+      "current": "suspected there was more to me than he’d been told",
+      "defect": "The source specifically says Team Leader Choi had doubts about the narrator’s identity. The current phrasing shifts this to suspecting undisclosed information about him.",
+      "id": "F04",
+      "rationale": "의구심을 품고 있다는 refers to doubts about the narrator’s 정체, or identity.",
+      "replacement": "had long had doubts about my identity",
+      "severity": "minor",
+      "source": "Line 221"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, with a few minor losses or additions in physical detail and meaning.",
+  "version": 1
+}

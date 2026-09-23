@@ -1,0 +1,45 @@
+{
+  "summary": "The assembled copy is largely faithful, with a few minor losses or additions in physical detail and meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 13",
+      "current": "Search Efforts Exhausted",
+      "defect": "The Korean says the search was carried out with all their might, but the hero’s remains were ultimately not found. “Efforts Exhausted” can instead suggest the efforts or resources ran out.",
+      "replacement": "The Search Was Exhaustive, but the Hero’s Remains Were Never Found",
+      "rationale": "The headline emphasizes the intensity of the search, not that search efforts were exhausted.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 195",
+      "current": "handsome enough to put a celebrity to shame",
+      "defect": "The Korean uses a vivid image of turning a celebrity’s jaw; the current phrasing replaces that physical image with a general comparison.",
+      "replacement": "handsome enough to knock a celebrity’s jaw sideways",
+      "rationale": "The source’s colloquial image is specific, and the accepted baseline preserves it.",
+      "confidence": 0.89
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 197",
+      "current": "Cheon Taemin’s only living blood relative",
+      "defect": "“Living” is not stated in the Korean. The source says he is Cheon Taemin’s only blood relative.",
+      "replacement": "Cheon Taemin’s only blood relative",
+      "rationale": "The added qualifier narrows the claim beyond what 유일한 혈육 establishes.",
+      "confidence": 0.86
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 221",
+      "current": "suspected there was more to me than he’d been told",
+      "defect": "The source specifically says Team Leader Choi had doubts about the narrator’s identity. The current phrasing shifts this to suspecting undisclosed information about him.",
+      "replacement": "had long had doubts about my identity",
+      "rationale": "의구심을 품고 있다는 refers to doubts about the narrator’s 정체, or identity.",
+      "confidence": 0.83
+    }
+  ]
+}
