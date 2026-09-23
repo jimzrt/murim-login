@@ -42,9 +42,9 @@ Having grasped everything in an instant, the Southern Heaven Demon Empress smoot
 
 “Then you must also know that I won’t answer you.”
 
-It was all still vivid. The traces of the Gate I had glimpsed through fragments of memory. And the sight of the Water God Dragon being tainted by the demonic qi that had flowed from it.
+It was all still vivid. The traces of the Gate I had glimpsed through the Memory Fragment. The sight of the Water God Dragon being corrupted by the demonic qi flowing from it.
 
-That was something that could not—and should not—have happened.
+That was something that could not—and must not—have happened.
 
 At least not here in Murim. It was an incomprehensible phenomenon that should never have appeared in this world.
 
@@ -120,13 +120,13 @@ The Southern Heaven Demon Empress was never going to answer my questions. In tha
 
 Once I had climbed onto the back of a raging tiger, there were only two paths left.
 
-And rather than be thrown from its back, I would end this insane struggle even if I had to smash the tiger’s skull to do it.
+And rather than let it throw me off, I would end its mad struggle even if I had to smash its skull to do it.
 
 No. I had to.
 
 “Phew…”
 
-I exhaled the breath I had been holding, then leaned close to the military officer. Looking through the soul-less eyes at some distant place, I spoke.
+I exhaled the breath I had been holding and leaned close to the military officer. I stared past his soulless eyes at someone far away.
 
 “When we meet again… you’re going to die.”
 
@@ -150,7 +150,7 @@ But the Southern Heaven Demon Empress, borrowing someone else’s body, did not 
 
 She might have known his public identity as the Divine Physician’s Disciple, but the connection between the Slaughter Saint who had vanished forty years ago and a young medical apprentice was far too tenuous.
 
-And before the Southern Heaven Demon Empress’s suspicions about Mungyeong could deepen, Jin Wikyung spoke in a heavy voice.
+Before her suspicions about Mungyeong could deepen, Jin Wikyung spoke in a heavy voice.
 
 “I swear on the name of the Jin Family of Taiyuan that you will never touch so much as a hair on our youngest’s head.”
 
@@ -186,7 +186,7 @@ Through his mouth, now twisted into a grotesque smile that threatened to split h
 
 Her voice faded like a dying campfire.
 
-By then, dark red blood was already flowing from between the officer’s lips. Without hesitation, I seized his wrist and felt for his pulse.
+Dark red blood began trickling from between the officer’s lips. Without hesitation, I seized his wrist and felt for his pulse.
 
 *Whoosh.*
 
@@ -198,13 +198,13 @@ Perhaps that was why the Southern Heaven Demon Empress had kept the officer aliv
 
 *A puppet whose body she could borrow for a while.*
 
-Blood gushed from his mouth, then spilled in a stream.
+*Gush. Drip.*
 
 And it wasn’t only his mouth.
 
 Dark red blood poured from his eyes, nose, and ears—from the seven apertures of the human body.
 
-A death that could not be stopped by several jiazi of internal energy or even a Pressure-Point Strike loomed before the officer’s eyes.
+Death had already descended upon him, beyond the power of several jiazi of internal energy or even a Pressure-Point Strike to stop.
 
 “It’s too late.”
 
@@ -250,7 +250,7 @@ Cheongpung’s eyes lit up.
 
 “It’s exactly the place you described, Benefactor.”
 
-That place was the very location from the Water God Dragon’s memories.
+The place from the Water God Dragon’s memories.
 
 Yeah. The damn Gate.
 
@@ -262,15 +262,15 @@ She lifted the silk curtain of the gently swaying four-horse carriage. Beyond th
 
 “Hmm.”
 
-With her chin resting in her hand as she gazed out the window, the Southern Heaven Demon Empress looked like a painting all by herself.
+Chin propped on one hand as she gazed out the window, the Southern Heaven Demon Empress looked like a figure from a painting.
 
 Then a furious shout thundered over the heads of the Escort Bureau men stealing entranced glances at her.
 
-“Stop gawking and focus on the delivery! Unless you want to get yourselves killed by the Miao people we’ll meet in a few days!”
+“Stop gawking and focus on the cargo! Unless you want the Miao people we’ll meet in a few days to kill you!”
 
 Despite the rough language, the speaker was a woman of dazzling beauty.
 
-Beneath the bamboo hat pulled low to block the sunlight, her long, straight nose was sharp as a blade, and her lightly tanned skin was pleasing to the eye.
+Beneath the bamboo hat pulled low to shield her from the sun, the straight bridge of her nose was sharp as a blade, and her lightly tanned skin suited her well.
 
 *A female escort? You don’t see that every day.*
 
@@ -284,7 +284,7 @@ She eased the reins, drew alongside the carriage, and addressed her through the 
 
 “Then why are you looking at me like…?”
 
-“Just because.”
+“No reason.”
 
 “Pardon?”
 
@@ -296,7 +296,7 @@ The Southern Heaven Demon Empress smiled sweetly.
 
 The female escort, the Young Bureau Head of a small-to-medium Escort Bureau, was flustered but did her best to hide it.
 
-The fact that the woman complimenting her was beautiful enough to make even other women fall for her was one thing. More importantly, she was a passenger who had paid a considerable sum, so the Young Bureau Head’s reaction was only natural.
+It was one thing for the compliment to come from a beauty enchanting enough to charm even another woman. More importantly, she was a passenger who had paid a considerable sum, so the Young Bureau Head could hardly respond rudely.
 
 But at the next words, she could no longer conceal her bewilderment.
 
@@ -314,4 +314,4 @@ At that moment, the Southern Heaven Demon Empress could barely contain her delig
 
 Delight at the screams and deaths that would soon be heard in another place.
 
-And delight at having met a new face.
+And delight at having found a new face.

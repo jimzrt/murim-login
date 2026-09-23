@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I stared at the military officer’s vacant face.",
+      "defect": "The source says the narrator stared at the officer and opened his mouth before speaking. The physical action is omitted.",
+      "id": "F01",
+      "rationale": "응시하며 입을 열었다 explicitly includes opening his mouth as part of the beat before the question.",
+      "replacement": "I stared at the military officer’s vacant face and opened my mouth.",
+      "severity": "minor",
+      "source": "Korean lines 25–27"
+    },
+    {
+      "confidence": 0.87,
+      "current": "a five-hundred-year-old imugi would certainly qualify as a divine being.",
+      "defect": "“Divine being” elevates the imugi to a deity-like status that the source does not establish. The source describes it as a spiritual or mystical being.",
+      "id": "F02",
+      "rationale": "신령스러운 존재 means a spiritual or mystical entity, not necessarily a divine being.",
+      "replacement": "a five-hundred-year-old imugi would certainly qualify as a mystical being.",
+      "severity": "minor",
+      "source": "Korean lines 41–42"
+    },
+    {
+      "confidence": 0.86,
+      "current": "I am merely a lowly servant who moves according to orders.",
+      "defect": "The source’s 역시 (“too” or “also”) is omitted, weakening the character’s explicit comparison of herself to the other servants.",
+      "id": "F04",
+      "rationale": "나 역시 명에 따라 움직이는 adds the meaning “I, too,” not merely “I am.”",
+      "replacement": "I, too, am merely a lowly servant who moves according to orders.",
+      "severity": "minor",
+      "source": "Korean lines 61–63"
+    },
+    {
+      "confidence": 0.95,
+      "current": "A young man cautiously poked his head through the slowly opening door.",
+      "defect": "The source also explicitly says that he opened his mouth and spoke after poking his head through the door.",
+      "id": "F05",
+      "rationale": "입을 열었다 records the action of speaking; the dialogue follows but does not preserve that source action as narration.",
+      "replacement": "A young man cautiously poked his head through the slowly opening door and spoke.",
+      "severity": "minor",
+      "source": "Korean lines 227–231"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Cheongpung’s eyes lit up.",
+      "defect": "The source says Cheongpung’s eyes lit up as he continued speaking. The continuation cue is omitted.",
+      "id": "F06",
+      "rationale": "눈을 빛내며 말을 이었다 includes both the brightened eyes and the fact that he continued his statement.",
+      "replacement": "Cheongpung’s eyes lit up as he continued speaking.",
+      "severity": "minor",
+      "source": "Korean lines 245–251"
+    }
+  ],
+  "summary": "Mostly faithful, but several small source details were dropped and one sentence changes the agency behind Dark Heaven's achievement.",
+  "version": 1
+}

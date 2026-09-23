@@ -1,0 +1,65 @@
+{
+  "summary": "Mostly faithful, but several small source details were dropped and one sentence changes the agency behind Dark Heaven's achievement.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 25–27",
+      "current": "I stared at the military officer’s vacant face.",
+      "defect": "The source says the narrator stared at the officer and opened his mouth before speaking. The physical action is omitted.",
+      "replacement": "I stared at the military officer’s vacant face and opened my mouth.",
+      "rationale": "응시하며 입을 열었다 explicitly includes opening his mouth as part of the beat before the question.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean lines 41–42",
+      "current": "a five-hundred-year-old imugi would certainly qualify as a divine being.",
+      "defect": "“Divine being” elevates the imugi to a deity-like status that the source does not establish. The source describes it as a spiritual or mystical being.",
+      "replacement": "a five-hundred-year-old imugi would certainly qualify as a mystical being.",
+      "rationale": "신령스러운 존재 means a spiritual or mystical entity, not necessarily a divine being.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F03",
+      "severity": "major",
+      "source": "Korean lines 51–53",
+      "current": "Yet the Southern Heaven Demon Empress and Dark Heaven had dragged the impossible into reality.",
+      "defect": "The assembled sentence makes the Southern Heaven Demon Empress a co-agent of bringing the impossible into reality. The Korean clause assigns that action to Dark Heaven, with the Southern Heaven Demon Empress as the topic.",
+      "replacement": "Yet Dark Heaven had dragged the impossible into reality.",
+      "rationale": "암천은 is the grammatical subject of 불가능을 현실로 끌어 올렸다; the Southern Heaven Demon Empress is not stated to have performed that action herself.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean lines 61–63",
+      "current": "I am merely a lowly servant who moves according to orders.",
+      "defect": "The source’s 역시 (“too” or “also”) is omitted, weakening the character’s explicit comparison of herself to the other servants.",
+      "replacement": "I, too, am merely a lowly servant who moves according to orders.",
+      "rationale": "나 역시 명에 따라 움직이는 adds the meaning “I, too,” not merely “I am.”",
+      "confidence": 0.86
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Korean lines 227–231",
+      "current": "A young man cautiously poked his head through the slowly opening door.",
+      "defect": "The source also explicitly says that he opened his mouth and spoke after poking his head through the door.",
+      "replacement": "A young man cautiously poked his head through the slowly opening door and spoke.",
+      "rationale": "입을 열었다 records the action of speaking; the dialogue follows but does not preserve that source action as narration.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Korean lines 245–251",
+      "current": "Cheongpung’s eyes lit up.",
+      "defect": "The source says Cheongpung’s eyes lit up as he continued speaking. The continuation cue is omitted.",
+      "replacement": "Cheongpung’s eyes lit up as he continued speaking.",
+      "rationale": "눈을 빛내며 말을 이었다 includes both the brightened eyes and the fact that he continued his statement.",
+      "confidence": 0.93
+    }
+  ]
+}
