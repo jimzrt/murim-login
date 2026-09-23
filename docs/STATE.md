@@ -1,22 +1,22 @@
 # Translation State
 
-- Last completed: 906
-- Next chapter: 907
-- Current block: 905–909 (2/5)
-- Latest translation: `translations/0906.md`
-- Latest summary: `summaries/beats/0906.md`
-- Safe profiles through: chapter 906
+- Last completed: 907
+- Next chapter: 908
+- Current block: 905–909 (3/5)
+- Latest translation: `translations/0907.md`
+- Latest summary: `summaries/beats/0907.md`
+- Safe profiles through: chapter 907
 
 ## Current Block
 
-- As traitors attack the banquet, Ma Sanbao reveals that he is the disciple of Cang Gong, now known as the Eastern Heaven Demon Lord, and claims the Emperor has used Taekyung and Jeok Cheongang as expendable weapons. Taekyung defeats Ma despite his injuries and depleted internal energy, killing him with a short spear.
+- Despite his injuries and the System being effectively sealed, Jin Taekyung kills Ma Sanbao and reenters the banquet-hall battle, cutting through Dark Heaven’s elite while trying to reach Jeok Cheongang. Hundreds of arrows target him, but Jeong Hogun and the Embroidered Uniform Guard shield him and declare themselves allies of the Emperor. Hogun cannot vouch for So Gyo, whose allegiance remains unknown. As Taekyung prepares to face the next wave, Hyuk Mujin and the Fire Dragon Pavilion members arrive, followed by numerous black figures.
 
 ## Open Questions
 
 - Who is So Gyo, and where does her allegiance lie?
-- What is the nature of Cang Gong's power and his relationship to the Lord of Heaven?
-- Why are the Emperor and So Gyo staying out of the battle, and is Ma's claim that the Emperor used Taekyung true?
-- Who are the silent figures surrounding Mujin's group?
+- What is the nature of Cang Gong’s power and his relationship to the Lord of Heaven?
+- What forces are the Emperor and Cang Gong still withholding?
+- Who are the black figures following Hyuk Mujin’s group?
 
 ## Exceptional Decision
 
