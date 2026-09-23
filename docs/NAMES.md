@@ -2360,3 +2360,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 옥화산 | **Yuhua Mountain** | Mountain in Chongqing where the caravan was attacked. |
 | 정천호 | **Commander Jeong** | Commander of the Embroidered Uniform Guard procession. |
 | 정호군 | **Jeong Hogun** | Commander of the Embroidered Uniform Guard force confronting Jin. |
+| 십상남자 | **Tenfold Man** | A joking title Zhu Bao grants Hyuk Mujin, who inscribes it on a bronze token. |
