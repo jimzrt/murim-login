@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.89,
+      "current": "“Dongting Lake! A ship has sunk in Dongting Lake!”",
+      "defect": "The source uses the generic 배, while “ship” adds a larger-vessel distinction not established here.",
+      "id": "F01",
+      "rationale": "The source does not specify that the sunken vessel is a ship; the established baseline also preserves the neutral “boat.”",
+      "replacement": "“Dongting Lake! A boat has sunk in Dongting Lake!”",
+      "severity": "minor",
+      "source": "Lines 5–5"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Screams rang out in the distance, and the sharp peal of warning bells echoed through the darkness.",
+      "defect": "The source describes scream-like shouts, not simply screams, and uses the sound of an alarm bell in the singular. The current wording loses the distinction between shouted calls and screams and pluralizes the bell image.",
+      "id": "F02",
+      "rationale": "비명 같은 외침 is a shout resembling a scream, while 경종 소리 is the sound of an alarm bell; both qualifiers are source details.",
+      "replacement": "Along with the scream-like shouts rising in the distance, the sharp sound of an alarm bell rang out from beyond the darkness.",
+      "severity": "minor",
+      "source": "Lines 10–11"
+    },
+    {
+      "confidence": 0.86,
+      "current": "As my hand met damp, solid wood, I spoke the command only I could use.",
+      "defect": "“Spoke” weakens the source’s explicit action of shouting the command.",
+      "id": "F03",
+      "rationale": "The source verb 외쳤다 means he called or shouted the command, preserving a louder, more forceful physical action than merely speaking it.",
+      "replacement": "As my hand met damp, solid wood, I shouted the command only I could use.",
+      "severity": "minor",
+      "source": "Lines 203–205"
+    },
+    {
+      "confidence": 0.9,
+      "current": "As if possessed, I raced across the water from fragment to fragment, using Qi Sense without restraint in search of even a single survivor.",
+      "defect": "“Raced” changes the described movement. The source says he traversed the water while stepping on the fragments, without specifying that he ran.",
+      "id": "F04",
+      "rationale": "파편을 밟으며 강물 위를 누볐다 specifies movement across the water by stepping on the fragments; the current wording adds a faster running action.",
+      "replacement": "As if possessed, I traversed the water, stepping from fragment to fragment, using Qi Sense without restraint to search for even a single survivor.",
+      "severity": "minor",
+      "source": "Lines 299–301"
+    },
+    {
+      "confidence": 0.84,
+      "current": "The System was faster and more direct than anything.",
+      "defect": "“Direct” does not preserve 직관적, which describes the System as intuitive rather than merely straightforward or direct.",
+      "id": "F05",
+      "rationale": "The source contrasts the System’s speed with its intuitive, immediately understandable operation.",
+      "replacement": "The System was quicker and more intuitive than anything else.",
+      "severity": "minor",
+      "source": "Lines 337–339"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but several minor wording changes alter source-established physical or semantic details.",
+  "version": 1
+}

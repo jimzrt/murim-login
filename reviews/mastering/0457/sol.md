@@ -2,7 +2,7 @@
 
 “Dongting Lake! A ship has sunk in Dongting Lake!”
 
-“P-please, help us! People have fallen into the water!”
+“P-please, help! People are drowning!”
 
 *Clang, clang—!*
 
@@ -59,7 +59,7 @@ Damn it. Less than an hour.
 
 There wasn’t even time to wonder how such a catastrophe had happened. Someone’s life might depend on every minute—maybe even every second.
 
-I drew as much internal energy as possible from my dantian and opened my mouth.
+I drew as much internal energy as possible from my dantian.
 
 “From this moment on, run to Dongting Lake as if your lives depend on it. We save the people first.”
 
@@ -97,9 +97,9 @@ Even I, with martial arts that more than qualified me as a superhuman, felt my b
 
 I had heard plenty about the vastness of Dongting Lake, but seeing it for myself, I realized it was far larger than I had imagined.
 
-There was no way the vessels would be packed close together on such a vast lake. Judging from the distances between them, every ship must have been out enjoying itself at least several hundred zhang from the others.[^1]
+There was no reason for ships on such a vast lake to stay clustered together. Judging by the distances between them, each vessel must have been sailing at least several hundred zhang from the next.[^1]
 
-And this was only what I could see immediately. How many more boats and people were submerged beyond my sight?
+And this was only what I could see. How many more ships and people had sunk beyond my sight?
 
 *Damn it.*
 
@@ -121,25 +121,25 @@ Leaving the dumbfounded officer behind, I thundered an order.
 
 *Whoosh!*
 
-There was no hesitation or doubt in either man’s movements.
+Neither man hesitated or questioned me.
 
 Gung Gibang and Hyuk Mujin shot past me with forceful shouts, unleashing palm force and sword strikes.
 
 *Slash, boom!*
 
-The two ferries being hurriedly moved by the people were transformed into hundreds of pieces of wood in an instant.
+In the blink of an eye, the two ferryboats people had been hurrying to launch became hundreds of wooden fragments.
 
-The military officer, momentarily stunned by what had happened before he could even say anything, screamed,
+The officer stared blankly for a moment, then screamed.
 
-“What in the world are you doing!”
+“What in the world are you doing?”
 
-Shocked cries erupted from every direction.
+Cries of outrage erupted from every direction.
 
 “T-the ferryboats…!”
 
-“Those bastards are the villains who caused this disaster! They must be trying to keep us from rescuing the people!”
+“Those bastards must be behind this disaster! They’re trying to stop us from rescuing people!”
 
-Shock and anger spread rapidly. All manner of curses poured in from every side, along with gazes brimming with killing intent.
+Shock and anger spread like wildfire. Curses poured in from every side, along with murderous glares.
 
 But I didn’t care.
 
@@ -169,7 +169,7 @@ Dozens of wooden fragments sliced through the darkness and scattered across the 
 
 “W-what!”
 
-“Could this be…?”
+“Could they be…?”
 
 A few people finally realized what we were doing, their eyes widening. But there still weren’t enough fragments.
 
@@ -183,9 +183,9 @@ The instant I reached that decision, I stamped down hard.
 
 *Boom!*
 
-The sand and dust piled along the shore surged into the air all at once, making the unprepared people cough.
+Sand and dust exploded from the shore, sending the unprepared crowd into coughing fits.
 
-Taking advantage of the moment when everyone’s vision was obscured, I reached out.
+The moment their vision was obscured, I reached out.
 
 As my hand met damp, solid wood, I spoke the command only I could use.
 
@@ -200,7 +200,7 @@ As my hand met damp, solid wood, I spoke the command only I could use.
 
 Notifications rang in my ears as the wooden fragments dissolved into thin air.
 
-I left behind only enough fragments to avoid arousing suspicion, then shouted forcefully,
+I left just enough behind to avoid arousing suspicion, then shouted,
 
 “Cheongpung and Gung Gibang, come with me! Hyuk Mujin, stay here and gather boats and people!”
 
@@ -218,23 +218,23 @@ Formidable internal energy flooded a body whose muscles and elasticity were so p
 
 *Boom!*
 
-A massive shock wave burst from my toes, pressed down against the ground, and shoved back the rippling water. Sand and gravel scattered as dust, while a cool wind swept across my entire body.
+A massive shock wave erupted from my toes, crushing the ground beneath me and driving back the rippling water. Sand and gravel burst into powder as a cool wind swept over my body.
 
-If I reached out, I felt as though I could pluck the stars scattered across the night sky from the heavens.
+For a moment, it felt as though I could reach out and pluck the stars scattered across the night sky.
 
 But only for a moment.
 
-Every leap was followed by a fall.
+What rose had to fall.
 
 *Whoooosh!*
 
-The black water, surging violently, rushed toward us.
+The violently churning black water rushed up to meet me.
 
 My eyes, as keen as a wild animal’s, easily picked out a half-submerged piece of wood.
 
 *Tap. Thump!*
 
-My landing was light, but the second leap that followed was heavy.
+The landing was light. The leap that followed was powerful.
 
 Cheongpung, Gung Gibang, and I launched ourselves forward again.
 
@@ -244,17 +244,17 @@ Only after repeating the process several times did the vessel that had seemed so
 
 But as the distance shrank, the foreboding in my heart grew.
 
-*I can’t feel any life force.*
+*I can’t feel any life.*
 
 There were no survivors’ screams, no movement—nothing that should have been there if anyone was still alive.
 
-And it did not take long for the foreboding I felt to become reality.
+It didn’t take long for my fears to become reality.
 
 *Tap.*
 
 Most of the vessel’s hull was already underwater.
 
-On the vessel, most of whose hull was already submerged, Gung Gibang and Cheongpung landed on the bow and muttered like men groaning in pain.
+Gung Gibang and Cheongpung landed on the bow and spoke in voices like groans.
 
 “This is…”
 
@@ -270,7 +270,7 @@ They were dead.
 
 All of them.
 
-A potbellied man who appeared to be a merchant, dressed in splendid silk. A gaunt, shabby-looking boatman. Musicians and courtesans who seemed to have been hired to liven up the festivities.
+A potbellied man who looked like a merchant, dressed in splendid silk. A gaunt sailor in shabby clothes. Even musicians and courtesans who had likely been brought aboard to liven up the festivities.
 
 There were hundreds within sight alone.
 
@@ -295,15 +295,15 @@ But…
 
 The System was more merciless than ever.
 
-The translucent holographic window and grating failure notification told me that there was not a single survivor nearby.
+The translucent holographic window and grating failure tone told me there wasn’t a single survivor nearby.
 
-“What in the world…”
+“What the hell is this…?”
 
 I muttered in despair—and then a thought flashed through my mind like lightning.
 
 *Wait. The System?*
 
-I hurriedly raised my head and stared into the air.
+I jerked my head up and stared into the air.
 
 The translucent holographic window was still there.
 
@@ -315,13 +315,13 @@ The translucent holographic window was still there.
 
 It felt as if someone had struck me hard in the back of the head.
 
-If there truly were no survivors, the Quest should have been canceled or a failure notification should have appeared. The System was faster and more direct than anything.
+If there truly were no survivors, the Quest should have been canceled or declared a failure. Nothing was faster or more direct than the System.
 
 But the Quest was still in progress, and the System window displaying the time limit hadn’t disappeared.
 
 That could only mean one thing.
 
-As I stood there, frozen stiff, Gung Gibang spoke to me in a cautious voice.
+As I stood frozen, Gung Gibang spoke cautiously.
 
 “Unfortunately, it seems pointless to keep searching for survivors…”
 
@@ -331,7 +331,7 @@ As I stood there, frozen stiff, Gung Gibang spoke to me in a cautious voice.
 
 “We just can’t see them. There are survivors somewhere much farther away. I’m sure of it.”
 
-Gung Gibang had been about to say something, but his expression hardened when he saw the certainty on my face.
+Gung Gibang looked ready to argue, but his expression hardened when he saw the certainty on my face.
 
 Cheongpung spoke in a voice more serious than usual.
 
@@ -367,7 +367,7 @@ Watching the time limit dwindle by the second, I pushed my internal energy and s
 
 *Am I too late?*
 
-And just as I was about to give up on everything—
+Then, just as I was about to give up—
 
 “P-please, save me…”
 
