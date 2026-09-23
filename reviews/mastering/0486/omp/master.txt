@@ -16,15 +16,15 @@ Jeok Cheongang approached without the slightest hesitation. Mungyeong’s brow t
 
 “Young punk, is that any way to speak to an elder? This old man has at least six or seven years on you.”
 
-“Just how old are you to say some—”
+“Just how many years old are you to—”
 
 “Thigh meat, you wet-behind-the-ears brat.”[^1]
 
 [^1]: The Korean word *sal* can mean both “years of age” and “flesh,” allowing Jeok Cheongang to twist Mungyeong’s question about his age into “thigh meat.”
 
-“What a goddamn—Forget it. I shouldn’t bother talking to you.”
+“You miserable son of a—Forget it. I shouldn’t bother talking to you.”
 
-Mungyeong, who had felt his temper flare for a moment, shook his head over and over.
+Mungyeong felt his temper flare, then shook his head.
 
 He looked like a boy—so young as to seem almost childish—but he, too, had lived for more than a century.
 
@@ -78,7 +78,7 @@ Mungyeong frowned for a moment before speaking.
 
 “By ‘that brat,’ you mean Jin Taekyung?”
 
-“Yes. Who else would I mean besides that brat Jin Taekyung?”
+“Yes. Who else would I mean?”
 
 “Why are you asking me?”
 
@@ -130,7 +130,7 @@ The Heart Demon had no fixed form. It was any obstacle that disturbed the heart 
 
 The Heart Demon gripping Jeok Cheongang now was anxiety.
 
-“I wish I’d met that boy twenty years earlier. No, even ten years earlier would have been good… But I met him too late.”
+“I wish I’d met that boy twenty years earlier. No, even ten years earlier would have been enough… But I met him too late.”
 
 Jeok Cheongang raised a hand to cover the moon. He hated how its bright light—unaged, unlike him—shone upon his wrinkled face.
 
@@ -138,7 +138,7 @@ Jeok Cheongang raised a hand to cover the moon. He hated how its bright light—
 
 Jin Taekyung was not the only one who had grown during the year they spent on Mount Jiuhua.
 
-Through teaching Taekyung, Jeok Cheongang had also gained a small measure of enlightenment, and thanks to that, he had managed to halt the rapid advance of his infirmities of old age.
+Through teaching Taekyung, Jeok Cheongang had also gained a measure of enlightenment. Thanks to that, he had managed to slow the rapid advance of his infirmities of old age.
 
 But—
 
@@ -156,7 +156,7 @@ Desperate enough for him to draw upon the innate qi that was practically his lif
 
 The Dance of the Fire God and Demon, which had once dragged the Blood Lord to the brink of death, carried the resolve of an old Master who had burned his own life force as fuel.
 
-“I had fully prepared myself for it. Even if I survived, I knew I wouldn’t be the same as before.”
+“I was prepared for it. Even if I survived, I knew I would never be the same.”
 
 Mungyeong watched him in silence before replying in a low voice.
 
@@ -170,7 +170,7 @@ Not even the Thousand-Year Snow Ginseng, an elixir seldom seen in any age, combi
 
 All of it was merely a stopgap.
 
-Even if one blocked a collapsed dam with a massive boulder, the water trapped behind the dam would continue to seep through a small gap—slowly, little by little, without pause.
+Even if a massive boulder blocked the breach in a collapsed dam, the water trapped behind it would keep seeping through the smallest gap—slowly, little by little, without pause.
 
 “Is that why you came to me? To ask me to look after him?”
 
@@ -188,7 +188,7 @@ He would slowly lose strength as his innate qi continued to drain away, but Mung
 
 “This is my body. I know it well. At least I won’t die today.”
 
-“Then stop thinking foolish thoughts and go back. You’d be better off spending this time grabbing that brat and teaching him one more move.”
+“Then stop thinking such foolish thoughts and go back. You’d be better off spending this time teaching that brat one more move.”
 
 “But no one knows what might happen tomorrow.”
 
@@ -208,7 +208,7 @@ Dharma King Hong Dao’s prediction had become reality.
 
 Only a year later, Shaolin—the Mount Tai and Northern Dipper of the Murim—had been covered in blood and corpses, and the wise high monk who loved alcohol and meat had met his death.
 
-By then, the dark cloud called Dark Heaven had spread over Henan, Sichuan, and Hubei.
+Now the dark cloud called Dark Heaven had spread across Henan, Sichuan, and Hubei.
 
 And Jeok Cheongang knew that before long, it would cover the entire world.
 
@@ -224,13 +224,13 @@ People often compared the Murim to the Yangtze.
 
 But the strange phenomena and events Dark Heaven was causing throughout the world were nothing like the Yangtze. They were an act of defying heaven itself, overturning heaven and earth.
 
-Everything Jeok Cheongang and Mungyeong had known, every law they had understood across more than a century of life, was shattering and collapsing.
+Everything Jeok Cheongang and Mungyeong had known, every law they had understood over more than a century of life, was shattering around them.
 
-*If what Jin Taekyung said is true, then even more so. No. No, that can’t be. It mustn’t be.*
+*All the more so if what Jin Taekyung said was true. No. No, that can’t be. It mustn’t be.*
 
-Jeok Cheongang forcibly brushed the thought from his mind as it flashed through it.
+Jeok Cheongang forced the thought from his mind.
 
-It was nothing more than another ridiculous piece of nonsense tossed out like a joke, just as Jin Taekyung always did.
+It was only another ridiculous piece of nonsense Taekyung had tossed out like a joke, as he always did.
 
 More precisely, that was what Jeok Cheongang wanted to believe.
 
@@ -238,13 +238,13 @@ His body and heart had already grown old and worn. He was not yet ready to accep
 
 “Anyway, I’m only asking to put my mind at ease. Anything can happen in this goddamn Murim. It would hardly be surprising if one old man growing weaker by the day were to die.”
 
-Mungyeong stared at Jeok Cheongang with a strange look in his eyes.
+Mungyeong regarded Jeok Cheongang with an inscrutable look.
 
-The giant known as the Fire King seemed unusually small today, and his calm voice as he spoke of a death that could come at any moment lingered in Mungyeong’s ears.
+The giant known as the Fire King seemed unusually small tonight, and his calm voice as he spoke of a death that could come at any moment lingered in Mungyeong’s ears.
 
-*Asking. He’s asking me.*
+*A favor. He asked me for a favor.*
 
-It was hard to believe that word had come from the mouth of the Fire King himself.
+It was hard to believe those words had come from the Fire King himself.
 
 Mungyeong silently watched Jeok Cheongang rise to his feet.
 
@@ -276,13 +276,13 @@ Mungyeong’s mind briefly stopped working. He barely managed to speak.
 
 “Wait. What are you—”
 
-“I heard your answer loud and clear, young friend.”
+“I heard you loud and clear, young friend.”
 
 “No, what kind of crazy old bastard—”
 
-The composure that rarely broke came crashing down all at once.
+His composure, which rarely ever broke, came crashing down.
 
-Mungyeong stared at Jeok Cheongang’s retreating back with an incredulous expression and shouted,
+Mungyeong stared incredulously at Jeok Cheongang’s retreating back and shouted.
 
 “What do you expect me to do?”
 
