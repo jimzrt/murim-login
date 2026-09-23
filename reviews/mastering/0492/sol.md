@@ -2,11 +2,11 @@
 
 It went without saying that so many people had gathered here for reasons other than praying for the Water God Dragon’s soul.
 
-And one person in particular was showing rather obvious ulterior motives.
+One person in particular wasn’t hiding his personal interest.
 
 “Incredible. Simply incredible.”
 
-Zhuge Feng’s eyes shone with rapture as he stroked the silver scales.
+Zhuge Feng’s eyes shone as he stroked the silver scales.
 
 “This strength. This beauty. I can hardly believe it.”
 
@@ -24,9 +24,9 @@ Even in the modern age, with its advanced Magic-powered forging, material like t
 
 *It may not be on the level of Ten-Thousand-Year Cold Iron, but… it’s an incredible treasure.*
 
-The Water God Dragon’s body stretched for more than a hundred zhang,[^1] and every inch of it was made up of treasures like those.
+The Water God Dragon’s body stretched for around a hundred zhang,[^1] and all of it was made of treasures like these.
 
-Armor made from those scales would not be pierced even by a crossbow. A weapon made from its bones would be harder and sharper than one made from meteorite iron.
+Armor made from its scales could withstand a crossbow bolt. A weapon made from its bones would be harder and sharper than one made from meteorite iron.
 
 Martial arts manuals, elixirs, and exceptional weapons—the three things every martial artist went crazy for.
 
@@ -64,9 +64,9 @@ Gung Gibang and Hyuk Mujin each took a smack to the back of the head. They turne
 
 These bastards still didn’t get it.
 
-I frowned and shook a large fist at them threateningly.
+I frowned and shook my fist at them.
 
-“You two useless bastards couldn’t do a damn thing when we were fighting, and now you’re talking about Dog-Beating Staffs? Swords? Reservations?”
+“You couldn’t do a damn thing during the fight, and now you’re calling dibs on staffs and swords?”
 
 “Well, that’s…”
 
@@ -100,7 +100,7 @@ He’d been directly exposed to the corrupted Water God Dragon’s Fear. He’d 
 
 His limbs might have been broken, but at least he was alive. Come to think of it, getting beaten to a pulp by me had freed him from the Fear.
 
-*A fist beat Fear.*
+*My fists beat Fear.*
 
 A triumph of humanity…
 
@@ -116,7 +116,7 @@ I was still shaking my fist at the two of them when another voice spoke.
 
 There was wisdom in the voice alone. Perfected Being Hyeongong of Wudang stepped forward, his expression troubled.
 
-“I had my doubts when I heard what happened, but seeing it with my own eyes, I understand now. It truly is a divine creature blessed by the heavens.”
+“When I heard about this, I could scarcely believe it. But now that I see it for myself, I understand. It truly was a divine creature sent by the heavens.”
 
 Jin Wikyung, who was also seeing the Water God Dragon for the first time, nodded solemnly.
 
@@ -124,7 +124,7 @@ Jin Wikyung, who was also seeing the Water God Dragon for the first time, nodded
 
 “A terrible loss. We owe it so much. Should we not all pray for its soul together?”
 
-Perfected Being Hyeongong was exactly what one would expect from an old Daoist who had cultivated profound Daoist mastery at Wudang, the sacred ground of Daoism.
+Perfected Being Hyeongong was everything I’d expect from an old Daoist who had cultivated his spiritual understanding at Wudang, the sacred ground of Daoism.
 
 He was nothing like the human garbage beside me, who couldn’t muster a shred of gratitude.
 
@@ -150,7 +150,7 @@ Hyeongong, who had been reciting a Daoist prayer, flinched and turned to me.
 
 Hyeongong smiled like a Civilization player going for a religious victory. After a short prayer, he looked up at the sky.
 
-“You, divine imugi. I pray that you become an Azure Dragon there and soar across the heavens.”
+“Divine imugi, I pray that in the next world, you become an Azure Dragon and soar through the heavens.”
 
 “Ah…”
 
@@ -232,7 +232,7 @@ I cut him off with a quiet laugh.
 
 “Am I wrong? I respect you, Sir Zhuge, but this isn’t right.”
 
-*Ten percent, when he didn’t do a damn thing? How dare he try to sneak in and rob us blind?*
+*Ten percent when he barely did a thing? The nerve of him, trying to slip that past us.*
 
 Zhuge Feng flinched at my glare, then tried again.
 
@@ -242,7 +242,7 @@ Zhuge Feng flinched at my glare, then tried again.
 
 “Ghk!”
 
-“The conclusion you reached from that information was that the Dongting Fisherman was the culprit. Wasn’t it? You’re telling me that the Dongting Fisherman, lying there injured, suddenly got up, did five somersaults, and then used Stepping on Empty Air to hop all the way here?”
+“And what did you conclude from that information? That the Dongting Fisherman was the culprit! Wasn’t that it? Keep talking like that and the Dongting Fisherman will spring up from his sickbed, turn five somersaults, and come running here on Stepping on Empty Air.”
 
 “That… that was…”
 
@@ -294,7 +294,7 @@ Zhuge Feng cried out desperately and waved a hand, looking thoroughly fed up.
 
 “I’m sorry, Sir Zhuge!”
 
-“Yes, yes, I understand. Now both of you, stop.”
+“Yes, yes, I accept it. Now will you both stop?”
 
 “Thank you. Even if it isn’t ten percent, we’ll make sure the Zhuge Clan gets a share it can be happy with.”
 
@@ -322,7 +322,7 @@ This was a battle we couldn’t retreat from—and shouldn’t.
 
 Only by standing our ground against anyone who challenged us could we become true Hunters and true martial artists.
 
-—Ten percent. Hand it over. Or hand over your neck.
+—Ten percent. Hand it over. Or hand over your head.
 
 —We’ll hand it over.
 

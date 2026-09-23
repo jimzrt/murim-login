@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled translation is faithful overall, with one minor change to who is described as Hubei’s wealthiest.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 221",
+      "current": "The first was the Family Head of the Zhuge Clan, arguably the wealthiest family in Hubei.",
+      "defect": "The Korean describes the Zhuge Clan’s Family Head as arguably Hubei’s wealthiest person, not the clan as the wealthiest family. This changes the subject of the wealth claim.",
+      "replacement": "The first was the Family Head of the Zhuge Clan, arguably the wealthiest man in Hubei.",
+      "rationale": "The phrase “호북 제일의 거부” characterizes the person as Hubei’s wealthiest; it does not say that the Zhuge Clan is Hubei’s wealthiest family.",
+      "confidence": 0.91
+    }
+  ]
+}
