@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "and Lee Jungryong had shut him out afterward.",
+      "defect": "The source says Lee Jungryong thoroughly excluded him; “shut him out” omits the emphasis of 철저히.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says 이정룡에 의해 철저히 배제되었다, meaning he was thoroughly or completely excluded by Lee Jungryong.",
+      "replacement": "and Lee Jungryong had completely shut him out afterward.",
+      "severity": "minor",
+      "source": "Lines 327–329"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor omission of emphasis in the description of Team Leader Choi’s exclusion.",
+  "version": 1
+}
