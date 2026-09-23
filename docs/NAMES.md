@@ -2384,3 +2384,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 독각살귀 | **One-Legged Ghost Killer** | Namho's name for the feared assassin; possibly the same person Sama Pyo calls 독각귀살. |
 | 위충 | **Wei Zhong** | The pledge’s first signer and the personal name of Lord Cang Gong. |
 | 적 | **Jeok** | Name of the Great Hero who may join Taekyung in the coming gamble. |
+| 앵속 | **poppy** | The dried poppy sap Hong Jin describes; Taekyung identifies it as opium. |

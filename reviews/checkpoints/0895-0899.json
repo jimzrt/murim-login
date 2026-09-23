@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the East Depot’s Brush-Holding Eunuch",
+      "defect": "The title conflicts with the established “Seal-Holding Eunuch of the East Depot” used in Chapter 896 and the checkpoint decisions.",
+      "id": "C01",
+      "rationale": "Keeps one rendering for the established title.",
+      "replacement": "the East Depot’s Seal-Holding Eunuch",
+      "severity": "minor",
+      "source": "Chapter 895, Ma Sanbao’s dialogue"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I could drink straight from the jar and still hardly get drunk",
+      "defect": "The vessel Ma Sanbao hands him is consistently a flask, not a jar.",
+      "id": "C02",
+      "rationale": "Preserves the action without changing the prop.",
+      "replacement": "I could drink straight from the flask and still hardly get drunk",
+      "severity": "minor",
+      "source": "Chapter 895, Taekyung drinking"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Tomorrow. The hour of the Goat.\n\nThe grand banquet for the imperial prince’s birthday. Begins.",
+      "defect": "The printed proclamation is set off with blank lines alone rather than formatted as a non-System notice.",
+      "id": "C03",
+      "rationale": "Distinguishes the posted text from narration without incorrectly presenting it as a System panel.",
+      "replacement": "> Tomorrow. The hour of the Goat.\n>\n> The grand banquet for the imperial prince’s birthday. Begins.",
+      "severity": "minor",
+      "source": "Chapter 897, text of the posted proclamation"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Emperor announced a three-day birthday banquet for the imperial prince, beginning the day after the flood.",
+      "defect": "The rumors spread for two days after the flood before the proclamations announce that the banquet begins tomorrow.",
+      "id": "C04",
+      "rationale": "Corrects the timeline established across Chapters 896–897.",
+      "replacement": "After the flood, the Emperor announced a three-day birthday banquet for the imperial prince, set to begin the day after the proclamations went up.",
+      "severity": "major",
+      "source": "Checkpoint continuity, banquet timing"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The Emperor is preparing to leave Qianqing Palace for the banquet. Taekyung and his Master are present, while the other martial artists have left the palace.",
+      "defect": "“Present” implies Taekyung and his Master are with the Emperor at Qianqing Palace; by the end of Chapter 899, they have attended the banquet hall.",
+      "id": "C05",
+      "rationale": "Separates the Emperor’s location from theirs and reflects the chapter’s endpoint.",
+      "replacement": "The Emperor has left Qianqing Palace for the banquet; Taekyung and Jeok Cheongang are at the Grand Banquet Hall, while the other martial artists have left the palace.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.96,
+      "current": "What purpose do the departed martial artists have, and where are they going?",
+      "defect": "Chapter 898 already answers this: Hyuk Mujin leads the Fire Dragon Pavilion members to await Murim Alliance reinforcements at the destination in Taekyung’s note.",
+      "id": "C06",
+      "rationale": "Retains the unresolved outcome without treating an answered question as an open hook.",
+      "replacement": "Will Hyuk Mujin and the Fire Dragon Pavilion members safely meet the Murim Alliance reinforcements?",
+      "severity": "minor",
+      "source": "Durable state, open_questions"
+    }
+  ],
+  "summary": "The reading copies largely maintain the established voice and hooks. Actionable issues are a title mismatch, a prop inconsistency, proclamation formatting, and several stale or inaccurate continuity entries.",
+  "version": 1
+}

@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“How curious. The martial artists I know will drink without a second thought, but they don’t usually smoke opium.”\n\n“Opium?”",
+      "defect": "Hong Jin names poppy, not opium. Naming opium in both lines gives away the realization Taekyung has only after hearing the explanation.",
+      "id": "F01",
+      "rationale": "앵속 means poppy; Taekyung identifies its dried sap as opium in the following beat.",
+      "replacement": "“How curious. The martial artists I know drink readily enough, but they rarely touch poppy.”\n\n“Poppy…?”",
+      "severity": "major",
+      "source": "“희한하네. 내가 아는 무인들은 술은 곧잘 마셔도 앵속(罌粟)은 잘 안 하던데.”\n\n“앵속이라면…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Opium. No, that distinctive scent of the opium Hong Jin calls yingsu… I’ve smelled it before. And much stronger than this.*",
+      "defect": "The thought equates Hong Jin’s word for poppy with opium and adds an unnecessary romanization.",
+      "id": "F02",
+      "rationale": "Taekyung corrects his own thought from 아편 to 앵속 and recalls a stronger instance of the scent.",
+      "replacement": "*Opium. No, that distinctive scent of poppy… I’ve smelled it before. Stronger than Hong Jin’s.*",
+      "severity": "major",
+      "source": "‘아편. 아니 앵속의 그 독특한 향…… 이미 맡아 본 적이 있어. 홍진의 것보다도 더욱 진하게.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "*“What? The Blue Opium War?”*\n\n*“The Blue Opium… Hey, class president! Kim Minjeong!”*\n\n*“Yes?”*\n\n*“Call the cops right now. I’m going to beat this punk and get arrested for assaulting a student.”*",
+      "defect": "“Blue Opium” invents a different mistake and loses the Korean joke’s reference to child-and-youth sex-crime protections.",
+      "id": "F03",
+      "rationale": "아청 is the source’s mistaken word, not a color or a kind of opium. The brief note preserves the reference without making the spoken line more explicit than the Korean.",
+      "replacement": "*“What? The Youth Protection War?[^1]”*\n\n*“Youth Protection… Hey, class president! Kim Minjeong!”*\n\n*“Yes?”*\n\n*“Call the cops right now. I’m going to beat this punk and get arrested for assaulting a student.”*\n\n[^1]: Taekyung mishears *apyeon* (opium) as *acheong*, shorthand associated with Korea’s law protecting children and youth from sexual crimes.",
+      "severity": "major",
+      "source": "‘아청 전쟁이요?’\n\n‘아청…… 야, 반장아. 김민정이.’\n\n‘네?’\n\n‘지금 바로 경찰 불러라. 그냥 내 오늘 점마 조지고 폭력 교사로 잡혀 들어갈란다.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "the white-skinned islander bastards invaded the real mainland bastards.",
+      "defect": "“Bastards” softens and changes the repeated ethnic slur that carries Taekyung’s crude account of the Opium War.",
+      "id": "F04",
+      "rationale": "The narrator applies 짱깨 first to the white-skinned islanders and then to the mainlanders; the repetition and offensiveness are intentional.",
+      "replacement": "the white-skinned island chinks invaded the genuine mainland chinks.",
+      "severity": "major",
+      "source": "흰 피부의 섬나라 짱깨가 진또배기 대륙 짱깨를 침략했다는 사실"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“Jin Taekyung.”*",
+      "defect": "Dropping 마 makes Taekyung’s answer an incomplete repetition of what the teacher actually shouted.",
+      "id": "F05",
+      "rationale": "He repeats the teacher’s opening “마! 진태경!” instead of recalling the lesson.",
+      "replacement": "*“Hey, Jin Taekyung.”*",
+      "severity": "minor",
+      "source": "‘마 진태경이요.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Right. The day we returned from meeting the Emperor.*",
+      "defect": "The draft drops “immediately after” and supplies an unsupported “we.”",
+      "id": "F06",
+      "rationale": "직후 pins the remembered scent to the period immediately after the audience; the thought does not specify a group returning.",
+      "replacement": "*Right. Immediately after I returned from my audience with the Emperor. That very day.*",
+      "severity": "minor",
+      "source": "‘그래, 황제를 알현하고 돌아온 직후. 바로 그날이었어.’"
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Five hours late. Is that right?”",
+      "defect": "“Is that right?” reads as a request to verify the time rather than Taekyung’s incredulous reaction.",
+      "id": "F07",
+      "rationale": "이거 맞냐 is a colloquial expression of disbelief here, not a literal request for confirmation.",
+      "replacement": "“Five hours late. Are you kidding me?”",
+      "severity": "minor",
+      "source": "“다섯 시간 지각. 이거 맞냐?”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it names opium before Taekyung’s realization, changes a classroom joke, and softens a pointed slur.",
+  "version": 1
+}
