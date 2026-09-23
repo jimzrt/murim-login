@@ -1,0 +1,89 @@
+{
+  "chapter": 861,
+  "files": {
+    "characters/Divine Physician.md": "a2ad871217f4a8583c3fd88b2b5dfa8b9bf415b4e842b5da1ed1597fba12b976",
+    "characters/Hong Jin.md": "cb771920ff9836f9789512b5b326f2829fbcfa39b68f4f912459e342981f808a",
+    "characters/Hyuk Mujin.md": "ad01fd92b306f205a2e1411df7d754d5f5976c2c9649d226a568b077e4bf5bca",
+    "characters/Jeong Hogun.md": "2dadb959b00fd5b9fdfcadf8548cbd5cc14ee3601f277735a445ca13fa5473b8",
+    "characters/Jung Ho.md": "3c11f4e9834d4856c5a8b625b448ba4efc294983217498c856958c2a85252970",
+    "characters/Prince Shangshan.md": "981dbbc3212facab1f9230121860ea4ad1875b3b3e106fe94d2084eb92c30f73",
+    "docs/ADDRESS.md": "b840487442daf61bf05a414cdd77c57af7a509e056f4f451ca28ac839eb396b6",
+    "docs/CONTEXT.json": "5822067acd17094d78cd36b58190c3973294ed8362fbf420a1aadd9f725536ae",
+    "docs/NAMES.md": "3552b1247d3798af00bad212f7d26401033d6b11d5c919211e41228f01decd15",
+    "docs/STATE.md": "0bcba90a728ebf6c30922271560595d2e6f9eef885f1a14469cca73e7d2c40ac",
+    "summaries/beats/0861.md": "afb13b2804c7d5f3691b58d9d6469497d894f55be587a776d6611a8cd672178f"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진 공자",
+        "kinship": "loyal aide and ally addressing Taekyung",
+        "normal_address": "Young Master Jin",
+        "notes": "Uses 진 공자 when asking Taekyung about the East Depot and his hidden allies.",
+        "speaker": "홍진",
+        "speech_level": "polite and familiar"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Prince Shangshan and his party have reached the imperial palace under an unusually large Embroidered Uniform Guard escort; the Emperor’s intentions toward the prince remain uncertain.",
+        "Hong Jin became a eunuch to escape poverty and save his family; the late Emperor later recognized his abilities and told him they could be put to use.",
+        "Hong Jin has asked Taekyung whether he knows of the East Depot; the chapter does not explain Hong Jin’s connection to it.",
+        "Taekyung’s other helpers have not yet appeared, and Hong Jin wants to know where they are."
+      ],
+      "plot": [
+        "Jeong Hogun’s force of nearly a thousand Embroidered Uniform Guards escorts Prince Shangshan into the imperial capital. Hong Jin remembers the purge that once threatened the prince and vows that events will not unfold as the Emperor wishes. In Hangzhou, Jin Taekyung’s party finds the city under unusually heavy guard and reaches the imperial palace, where Taekyung presses Hong Jin about his knowledge and hidden allies. Hong Jin recounts how poverty drove him to become a eunuch, how the late Emperor recognized his abilities, and asks Taekyung whether he has heard of the East Depot."
+      ],
+      "translation_decisions": [
+        "Render 동창 as “East Depot.”",
+        "Hong Jin addresses Taekyung as “Young Master Jin.”"
+      ]
+    },
+    "chapter": 861,
+    "context": {
+      "active_continuity": [
+        "Prince Shangshan and his party have reached the imperial palace; the Emperor’s intentions toward the prince remain uncertain.",
+        "Hong Jin became a eunuch to escape poverty and save his family; the late Emperor recognized his abilities and told him they could be put to use.",
+        "Hong Jin has asked Taekyung whether he knows of the East Depot; his connection to it is unexplained.",
+        "Taekyung’s other helpers have not yet appeared, and Hong Jin wants to know where they are.",
+        "The Emperor is regarded as capable but ruthless and rose to the throne after the Crown Prince was killed in a purge."
+      ],
+      "continuity_sources": [
+        861
+      ],
+      "open_questions": [
+        "What does the Emperor intend for Prince Shangshan?",
+        "What is Hong Jin’s connection to the East Depot?",
+        "Where are Taekyung’s other helpers, and when will they reveal themselves?"
+      ],
+      "safe_through": 861,
+      "temporary_decisions": [
+        "Render 동창 as “East Depot.”",
+        "Render 금의위 as “Embroidered Uniform Guard” and 금위군 as “Imperial Guards.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "East Depot",
+        "korean": "동창",
+        "notes": "Imperial agency named by Hong Jin."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Hong Jin is a Level 22 Deputy Military Commissioner of Shanxi Province, a eunuch who served the late Emperor and has been entrusted with Prince Shangshan’s protection since the prince’s infancy.",
+        "path": "characters/Hong Jin.md",
+        "replacement": "- **Role:** Hong Jin is a Level 22 Deputy Military Commissioner of Shanxi Province, a eunuch and trusted aide charged with protecting Prince Shangshan, whose abilities drew the late Emperor’s attention."
+      },
+      {
+        "current": "- **Personality:** Composed and socially deft, Hong Jin is considerate toward those beneath him and dislikes excessive deference, which recalls his impoverished past.",
+        "path": "characters/Hong Jin.md",
+        "replacement": "- **Personality:** Composed, socially deft, and ambitious, Hong Jin became a eunuch to escape poverty and save his family, then used his abilities to pursue a broader life."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

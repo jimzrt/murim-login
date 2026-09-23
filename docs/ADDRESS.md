@@ -1367,3 +1367,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 정호군 | young martial artist to senior imperial officer | Commander Jeong | casual and teasing, then conciliatory | Jin addresses him by rank while trying to defuse the standoff. |
 | 주표 | 혁무진 | prince_to_subordinate_of_his_companion | Tenfold Man Hyuk Mujin | formal and playful | Zhu Bao takes Mujin’s boast literally and grants him the title. |
 | 홍진 | 혁무진 | imperial aide addressing a martial artist accompanying the prince | Martial artist Hyuk | polite and conversational | Uses 혁 무인 when asking whether Mujin knows of an exception. |
+| 홍진 | 진 공자 | loyal aide and ally addressing Taekyung | Young Master Jin | polite and familiar | Uses 진 공자 when asking Taekyung about the East Depot and his hidden allies. |

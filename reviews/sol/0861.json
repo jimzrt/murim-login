@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Nor could this carriage, now traveling to meet the Son of Heaven’s blade once more, turn back.",
+      "defect": "The draft says the carriage cannot turn back; the source says nothing can stop it as it heads toward the Emperor’s returning blade.",
+      "id": "F01",
+      "rationale": "This clause continues the preceding assertion that nothing can stand in the Son of Heaven’s way. It does not describe an inability to reverse the carriage.",
+      "replacement": "Nor could anything stop this carriage as it headed toward the Son of Heaven’s returning blade.",
+      "severity": "critical",
+      "source": "그리고 다시 돌아온 천자의 칼날을 향해 나아가고 있는 이 마차도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "After hiding their identities in worn martial artists’ clothes for thousands of miles, Jeong Hogun and the Embroidered Uniform Guard under his command now wore dazzling brocade and armor befitting their name.",
+      "defect": "Thousands of li has become thousands of miles, substantially increasing the stated distance.",
+      "id": "F02",
+      "rationale": "The source specifies 수천 리, not miles.",
+      "replacement": "After hiding their identities in worn martial artists’ clothes for thousands of li, Jeong Hogun and the Embroidered Uniform Guard under his command now wore dazzling brocade and armor befitting their name.",
+      "severity": "critical",
+      "source": "수천 리 동안 해진 무복으로 정체를 감추고 있던 정호군과 휘하의 금의위들은"
+    },
+    {
+      "confidence": 0.9,
+      "current": "He could see it, though it wasn’t there. He could hear it, though no sound reached him.",
+      "defect": "“It wasn’t there” changes something Hong Jin cannot see into something absent.",
+      "id": "F03",
+      "rationale": "The dragon’s dwelling is hidden behind the wall, while the screams belong to his memories; the source does not say the dwelling is nonexistent.",
+      "replacement": "He could see what lay out of sight. He could hear what no longer made a sound.",
+      "severity": "major",
+      "source": "보이지 않지만 보인다. 들을 수 없지만 들린다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "But one thing was certain: the prince would be dealt with in a way that didn’t violate the accepted rules of justice.",
+      "defect": "“Accepted rules of justice” substitutes a rule-bound standard for a publicly defensible justification.",
+      "id": "F04",
+      "rationale": "대의명분 concerns the legitimacy or justification the emperor can claim, especially in the context of his public standing.",
+      "replacement": "But one thing was certain: the prince would be dealt with in a way the emperor could publicly justify.",
+      "severity": "major",
+      "source": "대의명분(大義名分)에 어긋나지 않는 선에서 상산왕을 처리할 것은 분명했다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "A fine man who treated people according to their character, regardless of status, and showed every quality needed to lead the Great Nation.",
+      "defect": "The Crown Prince’s benevolent way of treating people becomes a judgment of their character.",
+      "id": "F05",
+      "rationale": "인의 describes the prince’s conduct toward people, not a criterion by which he assessed them.",
+      "replacement": "A fine man who treated people with kindness and integrity regardless of their status, and showed every quality needed to lead the Great Nation.",
+      "severity": "major",
+      "source": "신분의 고하에 상관없이 오직 인의(人意)로 사람을 대하며, 능히 대국을 이끌기에 충분한 자질을 보여 준 훌륭한 재목."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hong Jin silently met my unwavering gaze. Then, without warning, he flung open the carriage door.",
+      "defect": "The draft replaces the firmness of Jin’s Sound Transmission with an invented unwavering gaze and omits how the demand was delivered.",
+      "id": "F06",
+      "rationale": "전음 identifies the communication method; 단호함 describes the transmitted message, not Jin’s gaze.",
+      "replacement": "At my firm Sound Transmission, Hong Jin stared at me in silence. Then, without warning, he flung open the carriage door.",
+      "severity": "major",
+      "source": "단호함이 묻어나오는 전음에 말없이 나를 응시하던 홍진이 돌연 마차의 문을 열어젖혔다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Hangzhou was a fine city.",
+      "defect": "The draft omits that this is the narrator’s first sight of Hangzhou.",
+      "id": "F07",
+      "rationale": "처음 본 explicitly frames the description as his first encounter with the city.",
+      "replacement": "Hangzhou made a fine first impression.",
+      "severity": "minor",
+      "source": "처음 본 항주(杭州)는 좋은 도시였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*“It won’t go as Your Majesty wishes. Not this time.”*",
+      "defect": "Hong Jin’s direct thought is set inside quotation marks, contrary to the packet’s thought-formatting rule.",
+      "id": "F08",
+      "rationale": "This is Hong Jin’s unspoken response to the remembered voice; direct thoughts take italics without quotation marks.",
+      "replacement": "*It won’t go as Your Majesty wishes. Not this time.*",
+      "severity": "minor",
+      "source": "‘폐하의 뜻대로 되진 않을 겁니다. 이번만큼은.’"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes the carriage’s action and the journey’s distance, and loses several meaningful cues.",
+  "version": 1
+}
