@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "something would eventually be caught once we drew the net tight enough.",
+      "defect": "The source explicitly preserves the fish image and says the net is narrowed gradually. The current wording generalizes the fish to 'something' and drops the gradual narrowing.",
+      "id": "F01",
+      "rationale": "물고기가 걸려들 테니까 means that a fish will get caught, continuing the net-and-fish metaphor that also underlies the following line about it jumping out.",
+      "replacement": "a fish would eventually get caught as we slowly tightened the net.",
+      "severity": "minor",
+      "source": "Lines 167-169"
+    },
+    {
+      "confidence": 0.95,
+      "current": "It wasn’t because my face had somehow grown hot, or because the faint scent clinging to Honglan’s silver hairpin kept tickling my nose.",
+      "defect": "The current omits that his face had been hot since earlier; 'had somehow grown hot' changes an ongoing condition into a newly arising one.",
+      "id": "F02",
+      "rationale": "아까부터 왠지 모르게 establishes that the facial heat had persisted from earlier, an intentional part of the narrator’s comic denial.",
+      "replacement": "It wasn’t because my face had been inexplicably hot for some time, or because the faint scent clinging to Honglan’s silver hairpin kept tickling my nose.",
+      "severity": "minor",
+      "source": "Lines 211-215"
+    }
+  ],
+  "summary": "The assembled chapter is substantially faithful, with two minor omissions of source-established detail.",
+  "version": 1
+}

@@ -8,7 +8,7 @@ The ferryboat rocked in the fierce wind and churning current.
 
 Its small hull offered little resistance to the elements. Veins bulged along the arms of the old boatman gripping the oars.
 
-As befitted an experienced boatman, he had guided the ferryboat skillfully despite the bad weather. But the closer we came to our destination, the more violent the current grew, and he was nearing his limit.
+True to his experience, he had guided the ferryboat skillfully through the bad weather. But the closer we came to our destination, the more violent the current grew, and he was nearing his limit.
 
 *This is probably as far as he can take us.*
 
@@ -46,7 +46,7 @@ The ferryboat was far smaller and lighter than even the sleek-hulled swift ships
 
 The boatman’s scream mingled with the wind tearing past us.
 
-Using that scream as my signal, I stepped forward.
+Using that scream as my signal, I moved.
 
 *Now.*
 
@@ -64,9 +64,9 @@ The boatman’s eyes bulged. He pointed ahead with a trembling finger.
 
 Did anyone really think the Dongting Fisherman would establish one of his secret refuges somewhere easy to reach?
 
-The route we were taking was too narrow for ordinary vessels to enter. The current was also unusually strong, making it difficult for a light boat like a ferryboat to escape once it was caught in the flow.
+The passage we were taking was too narrow for ordinary vessels to enter, and the current was unusually fierce. A light boat like ours would have a hard time escaping once it was caught in the flow.
 
-Once the current swept a boat away, it would be easy for it to crash against one of the reefs scattered throughout the passage.
+And once the current swept it away, the boat would inevitably smash against one of the reefs scattered throughout the passage.
 
 “You fucking bastards! I told you I wasn’t coming!”
 
@@ -76,7 +76,7 @@ The old boatman’s heartfelt scream rang out. At that exact moment, I shouted a
 
 “Got it!”
 
-Gung Gibang answered energetically and flung his sleeves, which were little more than rags.
+Gung Gibang answered loudly and flung out his ragged sleeves.
 
 The Eighteen Dragon-Subduing Palms—said to be passed down to only two people among the Beggars’ Sect’s hundred thousand disciples, the Sect Leader and the Successor Beggar—erupted through the air.
 
@@ -88,9 +88,9 @@ The second and third reefs that appeared beyond it could not withstand the might
 
 *Kraaaaaash!*
 
-The ferryboat broke through the scattered fragments of reef and landed on the surface.
+The ferryboat burst through the shattered reefs and landed on the water.
 
-Spray surged up on both sides of the hull, and several fish that had leaped from somewhere slapped the old boatman across the cheeks.
+Spray surged up on both sides of the hull, and several fish leaping from the water slapped the old boatman across the cheeks.
 
 “Gah… Uhhh…”
 
@@ -100,7 +100,7 @@ I shook the drooling boatman by the shoulder. His eyes had gone half vacant.
 
 “Wake up. Stay with us.”
 
-“Ugh… Uhhh. You fucking…”
+“Ugh… Uhhh. You fuck…”
 
 “This isn’t working. Mujin.”
 
@@ -156,7 +156,7 @@ That was certainly good news, but it was too early to celebrate.
 
 At Gung Gibang’s question, I scanned our surroundings.
 
-“I don’t know. The information Young Lady Hong gave us wasn’t exact, either. We’ll have to search the area thoroughly.”
+“Who knows? The information Young Lady Hong gave us wasn’t exact. We’ll have to search the entire area.”
 
 “Ugh. This is going to take forever.”
 
@@ -206,9 +206,9 @@ At that rate, he could quit being a martial artist and become a novelist.
 
 His pen name could be Huashan Divine Dragon. If he published under Huashan’s name and got Sword Saint Mae Jonghak to write a blurb, his books would sell like crazy.
 
-Of course, if he made me the protagonist, he would get the shit beaten out of him just as quickly.
+Of course, if he made me the protagonist, he would get beaten like crazy too.
 
-“Good grief. What is wrong with you people…? Never mind. Forget it.”
+“What the hell is wrong with you people…? Forget it. I shouldn’t have asked.”
 
 There was no point wasting my breath. I sighed and quickly issued new orders.
 
@@ -226,13 +226,13 @@ I did not know exactly how powerful he was, but if a Supreme Peak master of the 
 
 “Remember this. If you let your guard down, you die.”
 
-Of course, we would do everything in our power to prevent that from happening. But in the world of martial artists, life and death could be decided in an instant.
+Of course, I would do everything in my power to prevent that from happening. But for a martial artist, life and death could be decided in an instant.
 
 Everyone nodded gravely. I was about to turn away when Hyuk Mujin suddenly spoke.
 
 “What are you doing?”
 
-“We’re searching together. Did you think I was going to sit around and have fun by myself?”
+“I’m helping with the search. Did you think I was going to sit around by myself?”
 
 “No, that isn’t what I meant. Weren’t you planning to remain on the ferryboat?”
 
@@ -248,7 +248,7 @@ Hyuk Mujin stopped mid-sentence.
 
 I looked down at the churning river.
 
-“We have to search underwater too. If it were anyone else, I might not consider it, but this is the Dongting Fisherman’s refuge. It’s a perfectly reasonable possibility.”
+“We need to search underwater too. If it were anyone else’s refuge, I might not consider it, but this is the Dongting Fisherman. It’s entirely possible.”
 
 “But you’ve never learned water arts, have you?”
 
@@ -278,9 +278,9 @@ That was also why Jeok Cheongang hated the Yangtze so much. He knew that if a li
 
 “…”
 
-Hmm. I take that back. Thinking about it again, he probably just hated water itself.
+Hmm. I take that back. Now that I thought about it, he probably just hated water.
 
-Regardless, it would not have been particularly surprising if the Dongting Fisherman had established a secret refuge underwater, away from other people’s eyes and footsteps.
+In any case, it would hardly be surprising if the Dongting Fisherman had established a secret refuge underwater, beyond the reach of other people’s eyes and feet.
 
 He was a master of water arts who could breathe like a fish and move even faster than one.
 
@@ -298,7 +298,7 @@ Before Hyuk Mujin could recover from his surprise and stop me, I leaped straight
 
 The water was as cold as ice, yet crystal clear.
 
-Schools of brightly colored fish swam together. Far below, unidentifiable aquatic plants swayed in the depths.
+Schools of brightly colored fish swam past. Far below, unidentified aquatic plants swayed in the depths.
 
 And then… at last, the sound I had been waiting for rang out.
 
@@ -328,7 +328,7 @@ A faint light visible only to me swept over my entire body. Transparent webbing 
 
 Even underwater, I felt as light and mobile as I did on land.
 
-My vision grew even clearer. When I exhaled the breath I had been holding, the cold water turned into air and rushed into my lungs.
+My vision grew clearer still. When I released the breath I had been holding, the cold water turned to air and flowed into my lungs.
 
 *This works even better than I expected.*
 
@@ -336,6 +336,6 @@ I had never imagined the **Water Rescue Worker** Title I’d earned by completin
 
 *This should be more than enough.*
 
-Grinning, I began to swim smoothly.
+I grinned and began to swim.
 
 My transparent webbing sliced through the fierce current, propelling me into the distance faster than a fish.
