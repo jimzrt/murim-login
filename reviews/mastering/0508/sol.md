@@ -106,7 +106,7 @@ Jeok Cheongang, of course, didn’t care. He looked ready to break out the popco
 
 Jeok Cheongang stopped laughing dead. Mungyeong clicked his tongue softly and fixed his gaze on Mu Song.
 
-“I clearly warned you through Sound Transmission, but it seems you have more loyal subordinates than I expected.”
+“I warned them through Sound Transmission. It seems your subordinates are more loyal than I thought.”
 
 “Gasp!”
 
@@ -124,7 +124,7 @@ Mu Song, Jeok Cheongang, and I all stared at him wide-eyed.
 
 “What? Y-you won’t?”
 
-“You’re not going to kill me?”
+“You’re not going to kill him?”
 
 “That old man’s gone mad—wait. Can infirmities of old age spread to other people?”
 
@@ -150,7 +150,7 @@ Mungyeong stared down at him in disbelief and sighed.
 
 “Y-yes, Senior. We’ve been together for many years, and they know how to keep their mouths shut.”
 
-“I have never had a junior like you, and I am no longer a martial artist. But if you fail to keep them quiet, I can make all six of you disappear without leaving a trace.”
+“I’ve never had a junior like you, and I’m no longer a martial artist. But if you don’t keep them quiet, I can make you disappear without a trace.”
 
 “……!”
 
@@ -194,7 +194,7 @@ Mungyeong was glaring our way, plainly not amused. He looked ready to grab the n
 
 Panicking would only make this worse. I answered calmly.
 
-“I meant, ‘Admittedly, I have a conscience. How could I do such a thing?’”
+“I was going to say, ‘In all conscience, how could I agree?’”
 
 “That didn’t sound like it.”
 
@@ -298,7 +298,7 @@ A mace swung at me.
 
 No. It was a single, swift, stealthy wave of palm force.
 
-I hastily crossed both arms to block it when the sound of splitting air pierced my ears, but the palm force fired by a once-in-an-age master known as the Slaughter Saint was not something I could block so easily.
+The sound of it cutting through the air pierced my ears, and I hastily crossed my arms to block. But palm force from a master like the Slaughter Saint wasn’t so easily stopped.
 
 Boom!
 
