@@ -2357,3 +2357,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 낙조표국 | **Nakjo Escort Bureau** | Source of the Hidden Shadow Pavilion's concealed escort order. |
 | 호남 | **Hunan** | Province where suspected Embroidered Uniform Guard members appeared. |
 | 산동 | **Shandong** | Province on the suspected route into Shanxi. |
+| 옥화산 | **Yuhua Mountain** | Mountain in Chongqing where the caravan was attacked. |
