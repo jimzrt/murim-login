@@ -1,0 +1,35 @@
+{
+  "summary": "Mostly faithful, but three minor meaning shifts remain.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 79–81",
+      "current": "The moment someone’s voice echoed inside my head, the strength drained from the hand that had been about to drive the spear in again and finish the job.",
+      "defect": "The assembled copy drops the specific action and object: he was about to push the spear in again to completely sever the dragon’s windpipe.",
+      "replacement": "The moment someone’s voice echoed inside my head, the strength drained from the hand that had been about to drive the spear in again and finish severing the dragon’s windpipe.",
+      "rationale": "The source explicitly identifies the intended follow-up attack as finishing the severing of the throat, not merely finishing the job.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 229",
+      "current": "Humans constantly fought among themselves, and whenever they did, countless rivers of blood and corpses were scattered across the waters.",
+      "defect": "“Countless rivers of blood” adds an image and quantity not present in the source. The source says that countless blood and corpses were scattered into the river.",
+      "replacement": "Humans constantly fought among themselves, and whenever they did, the waters were strewn with blood and countless corpses.",
+      "rationale": "The Korean describes blood and corpses being scattered across the water, not multiple rivers of blood.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean lines 235–237",
+      "current": "For the Water God Dragon, ascension was practically a destiny determined at birth.",
+      "defect": "“Destiny” changes the source’s concrete sense of ascension being a goal established at birth into a stronger claim of predestination.",
+      "replacement": "For the Water God Dragon, ascension was practically a goal set at birth.",
+      "rationale": "The source calls ascension a 목표, or goal, not a destiny.",
+      "confidence": 0.98
+    }
+  ]
+}

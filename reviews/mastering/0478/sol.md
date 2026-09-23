@@ -14,7 +14,7 @@ But…
 
 There it was.
 
-A weakness capable of severing the windpipe of this gigantic monster.
+A weakness that could end this gigantic monster’s stubborn life.
 
 And I did not let the perfect opportunity to finish the fight slip away.
 
@@ -36,7 +36,7 @@ And I hadn’t missed it.
 
 “You’ve worked hard.”
 
-Those final words of encouragement were a privilege only the victor could enjoy.
+Those final words were a privilege reserved for the victor.
 
 I had driven my spearhead precisely into the underside of its neck—where a human’s Adam’s apple would have been. Tightening my grip on the shaft, I shoved it deeper.
 
@@ -64,7 +64,7 @@ Once again, I had survived and buried my spearhead in the neck of a powerful ene
 
 Vertical and horizontal.
 
-The victor standing tall and the loser collapsing.
+The victor standing tall and the loser lying fallen.
 
 Even an evil beast that had lived for an unfathomable span of time was no exception to that absolute law of the jungle.
 
@@ -96,7 +96,7 @@ Like dark clouds parting after a day of driving rain, an eye as clear and deep a
 
 “Sound Transmission?”
 
-—Perhaps it would be more accurate to call it mental intent.
+—Perhaps it would be more accurate to call it a transmission of thought.
 
 The Mutated Water God Dragon—or rather, the divine being also known as the Two-Horned Beast of Dongting Lake—calmly sent its thoughts into my mind.
 
@@ -114,7 +114,7 @@ My fumbling for words must have struck it as amusing. A growling laugh rumbled f
 
 —You cannot understand, so do not try. These are merely the ramblings of an old imugi whose cultivation proved insufficient to ascend. My only regret is that I have no time left.
 
-The Water God Dragon’s words were true. Its body had already reached its limit and stood on the verge of death, while the light was gradually fading from its deep eyes.
+The Water God Dragon was right. Its body had already reached its limit and stood on the verge of death. The light was slowly fading from its deep eye.
 
 *Damn it.*
 
@@ -124,7 +124,7 @@ I bit my lip.
 
 Part of me mourned the Water God Dragon’s impending death. To be coldly honest, another part simply regretted the loss.
 
-This mystical being had regained its senses moments before death. It was an important key to solving the mystery.
+This mystical being had regained its senses just before death. It could have been the key to unraveling the mystery.
 
 *Dark Heaven.*
 
@@ -196,7 +196,7 @@ As it cut through the waters of Dongting Lake with supple, powerful movements, i
 
 Silver scales sprouted across its once-small, soft pink body, and imposing whiskers grew long beneath its snout.
 
-It was probably around then.
+It must have been around then.
 
 Those who caught sight of this divine being once every few decades—or even less often—gave it a new name out of reverence.
 
@@ -222,11 +222,11 @@ It was a benevolent imugi possessed of tremendous power and profound wisdom, and
 
 Yet even the Water God Dragon had one concern.
 
-—Huh. Fighting never ends in the Lower Realm.
+—Hah. The fighting in the Lower Realm never ends.
 
 The horrors it had witnessed over its long life were truly appalling.
 
-Humans constantly fought among themselves, and whenever they did, countless rivers of blood and corpses were scattered across the waters.
+Humans constantly fought among themselves, and each time they did, untold blood and corpses spilled into the river.
 
 Two empires fell and war followed war. The Water God Dragon grew troubled and weary.
 
@@ -330,7 +330,7 @@ It was the will of an old imugi determined to find the culprit behind this terri
 
 On a dark night, the blackened waters parted.
 
-The Water God Dragon rose as though ascending to heaven, and its red pupil reflected a person sitting on a moss-covered rock and splashing their feet in the water.
+The Water God Dragon rose as though ascending to heaven, and reflected in its red pupil was a person sitting on a moss-covered rock, kicking their feet idly through the water.
 
 “The energy here is lovely. Coming all this way was worth it.”
 
