@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, but a few phrases add or omit source-specific meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 223–227",
+      "current": "Three months of anguish and suffering.",
+      "defect": "The source explicitly says the past three months were like hell for the unnamed person. This line conveys suffering but drops that comparison.",
+      "replacement": "The past three months had been hellish.",
+      "rationale": "The preceding source sentence describes the unnamed person's three months as 지옥 같은 시간, literally a hell-like time.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 257",
+      "current": "Because I followed that star when I first went to bring you back.",
+      "defect": "“Back” adds the implication that the Disciple was being returned to a previous place, which the Korean does not establish.",
+      "replacement": "Because I followed that star when I first went to bring you here.",
+      "rationale": "데려오다 means to bring someone; it does not by itself mean to bring them back.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 299",
+      "current": "That’s… our youngest!",
+      "defect": "“Our” adds a relationship or group affiliation not stated in the Korean.",
+      "replacement": "That’s… the youngest!",
+      "rationale": "막내야 is an address identifying the person as the youngest; it does not specify “our.”",
+      "confidence": 0.78
+    }
+  ]
+}

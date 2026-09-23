@@ -48,7 +48,7 @@ Sama Pyo took his hand off the hilt of his saber. He hadn’t noticed it settlin
 
 “I know how to conduct myself. Surely you don’t think I’d show disrespect to Shaolin.”
 
-“Amitabha. It would be best to refrain from actions that could invite misunderstanding, Benefactor Sama Pyo.”
+“Amitabha. Then I suggest you avoid giving anyone reason to think otherwise, Benefactor Sama.”
 
 “I will. But…”
 
@@ -94,7 +94,7 @@ But it wasn’t only the monk’s aura that startled Sama Pyo.
 
 *Martial Nephew? Did he call Jung Ho his Martial Nephew?*
 
-As Sama Pyo stood momentarily frozen, the monk in the conical hat spoke quietly.
+The monk spoke quietly to him.
 
 “Return the sword to its owner. Here in Henan, we will tolerate no disturbances.”
 
@@ -106,15 +106,13 @@ That was all. Having let the words fall as lightly as if he were giving them to 
 
 Sama Pyo watched them go without a word.
 
-The giant turned toward Sama Pyo and spoke in his halting voice.
-
 “Young Sect Leader,” the giant said in his halting voice. “That monk. Who is he? I cannot beat him.”
 
 “…”
 
 “No hair. But skill. Very strong.”
 
-He recalled the faint righteous gleam he had glimpsed in the monk’s eyes beneath the conical hat at the final moment, then muttered.
+Sama Pyo gave no answer. He was remembering the faint, clear light in the eyes he had glimpsed beneath the hat.
 
 “The Discipline Hall Master’s young Martial Uncle.”
 
@@ -124,7 +122,7 @@ The glimpse had been brief, but enough to judge his age. The face beneath the ha
 
 “Yes, I heard you, you idiot.”
 
-Sama Pyo returned from his thoughts and clicked his tongue softly. He tossed the sword back to the merchant cowering and trembling in a corner, then looked up at the sky and stretched.
+Sama Pyo clicked his tongue. He tossed the sword to the merchant huddled and trembling in a corner, looked up at the sky, and stretched.
 
 “Come on. I could use a drink.”
 
@@ -146,7 +144,7 @@ On the way to the ferry landing, Jung Ho quickened his steps to draw alongside t
 
 “No. I should have settled the matter myself. I never imagined that young Benefactor would behave that way…”
 
-At a time like this, on a main road under countless eyes, the young man had not only beaten Blood Cudgel to death but had also tried to provoke one of Shaolin’s senior figures.
+His displeasure showed plainly. He was still offended by Sama Pyo’s conduct. At a time like this, on a main road before countless witnesses, Sama Pyo’s subordinate had beaten Blood Cudgel to death. And as if that weren’t enough, Sama Pyo had tried to provoke a senior figure of Shaolin.
 
 “I’d heard the Black Dragon Demon Gate held considerable power in Gansu, but its Young Sect Leader is more insolent than I expected.”
 
@@ -170,9 +168,9 @@ The voice beneath the hat was rough, but the monk’s manner was perfectly calm.
 
 “The Black Dragon Demon Gate has the longest history of any unorthodox faction in the Murim. It was once one of the Twelve Branches of the Demonic Cult.”
 
-“Did they betray the Demonic Cult?”
+“Did they betray the Cult?”
 
-“Amitabha. I think ‘compromise’ would be more accurate.”
+“Amitabha. ‘Compromised’ would be closer to the truth.”
 
 The Black Dragon Demon Gate’s compromise had succeeded. Victory in the long, brutal war had ultimately gone to the orthodox faction, but the Black Dragon Demon Gate had drawn together the unorthodox martial artists scattered like grass roots across the Central Plains, recovered from its losses, and grown stronger.
 
@@ -188,13 +186,11 @@ As though he could read his thoughts, the monk beside him spoke softly.
 
 “Everyone in Shaolin was deeply wounded. Some lost the Senior Brothers and Junior Brothers who had shared their hardships. Others lost Disciples. I’m no different.”
 
-Step. Step.
-
 Step by step, their pace quickened. The rough voice continued from beneath the hat.
 
 “I was… more grief-stricken than I thought I could bear. But just because that person has gone somewhere he can never return from doesn’t mean his will has vanished too.”
 
-Jung Ho and the other Shaolin monks bit their lips.
+Jung Ho and the other monks bit their lips.
 
 How could they forget that day? How could they fail to understand his grief?
 
@@ -202,9 +198,9 @@ They all remembered. They all knew.
 
 “I will carry on his will—my Master’s will. That one thought carried me through my time in Repentance Cave.”
 
-The skin glimpsed beneath the conical hat was as rough as the monk’s voice, covered with countless scars.
+The skin visible beneath the hat was as rough as the monk’s voice, and covered in scars.
 
-Every day, he had repeated treatment and training while writhing in terrible pain. Those who heard the screams echoing from Repentance Cave could not keep themselves from shedding tears.
+The past three months had been hell for the man once known as Unnamed. Day after day, he had endured treatment and training, writhing in terrible pain. Those who heard his screams echoing from Repentance Cave had wept.
 
 Three months of anguish and suffering.
 
@@ -216,7 +212,7 @@ And at the end, enlightenment had come to him like a single ray of light.
 
 “Yes, Martial Uncle?”
 
-“My Master would sometimes say this. Everything begins with one person. If one is not enough, then two. If even that is difficult, then three should step forward. That is how we raise up what has fallen and move onward.”
+“My Master used to say that everything begins with one person. If one isn’t enough, let two step forward. If that still isn’t enough, let there be three. That is how we raise what has fallen and keep moving.”
 
 His master, who had gone where he could not return, had loved wine and meat.
 
@@ -224,11 +220,11 @@ He would lie on a rock and sleep all day, waking only when the world had grown d
 
 *Look. You’re up there too.*
 
-The Disciple, rousing himself with disheveled hair, would rub his eyes and ask in return.
+The Disciple would sit up, rub his eyes, and ask:
 
 *Why do you call that star your Disciple?*
 
-*Because I followed that star when I first went to bring you back.*
+*Because I followed that star when I first came to find you.*
 
 *But… it’s so small and faint.*
 
@@ -238,11 +234,9 @@ The Disciple, rousing himself with disheveled hair, would rub his eyes and ask i
 
 *The star that shines brightest and clearest will soon disappear. Yours will stay there and light the sky for a very long time.*
 
-The Disciple still remembered what his Master had told him that day.
+The Disciple still remembered what his master had told him that day.
 
-Even after a long time had passed, the heavenly patterns had become distorted, and a new star had risen somewhere in the north.
-
-Even on the day his Master departed on a distant road and the grounds of Shaolin were stained with blood.
+He remembered even after the heavenly patterns warped and a new star rose somewhere in the north. Even on the day his master departed and blood stained the grounds of Shaolin.
 
 He remembered. Part of him still lingered in that place, on that day.
 
@@ -276,6 +270,8 @@ Light flickered before his eyes, where a moment ago there had been nothing but d
 
 It was the Morning Star that had risen in the north. A trace of his master.
 
-*Have you come?*
+*You’ve come.*
 
-A smile formed on the stiff lips of the monk in the conical hat, Unnamed.
+A smile touched the stiff lips of the monk in the conical hat.
+
+Unnamed.
