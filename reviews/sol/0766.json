@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I had been fighting constantly for as long as I could remember.",
+      "defect": "The draft changes an unspecified point in the past into Jin’s entire remembered life.",
+      "id": "F01",
+      "rationale": "언젠가부터 means “from some point onward,” not “for as long as I could remember.”",
+      "replacement": "At some point, I had begun fighting without end.",
+      "severity": "major",
+      "source": "나는 언젠가부터 끊임없이 투쟁하고 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Without retreating even an inch, I slowly pulled back the fist pressed against the Sword God’s blade.",
+      "defect": "The draft misreads 검신 as the title “Sword God” and invents that the blade belongs to that person.",
+      "id": "F02",
+      "rationale": "Here 검신 denotes the body or blade of Michael’s sword, as confirmed by the ongoing fist-versus-sword clash.",
+      "replacement": "Without retreating even an inch, I slowly drew back the fist that had been locked against the sword blade.",
+      "severity": "critical",
+      "source": "나는 한 치의 물러섬도 없이 검신을 향해 맞닿아 있던 주먹을 천천히 거두어들였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "And at the moment powerful killing intent and the sound of blades cutting through the air shot toward me—",
+      "defect": "The draft specifies blades as the source of the air-splitting sounds, although the source does not identify what produced them.",
+      "id": "F03",
+      "rationale": "파공성 describes sounds produced by something tearing through the air; “blades” is an unsupported addition.",
+      "replacement": "And at the moment powerful killing intent and sharp, air-splitting sounds hurtled toward me—",
+      "severity": "minor",
+      "source": "그리고 강렬한 살기(殺氣)와 파공성이 뒤섞여 나를 향해 쏘아지던 그 순간."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A dry laugh seeped into the voice that followed, impossible to hide.",
+      "defect": "The draft turns an amused quality in Michael’s dry voice into an actual laugh.",
+      "id": "F04",
+      "rationale": "웃음기 is a trace or note of amusement in the voice, not a separate vocalized laugh.",
+      "replacement": "An unmistakable note of amusement seeped into the dry voice that followed.",
+      "severity": "minor",
+      "source": "그리고 뒤이어 들려오는 건조한 목소리에는, 숨길 수 없는 웃음기가 스며들어 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "That horrifying sensation of being dragged into a deep swamp made me reflexively lash out with my sword.",
+      "defect": "The draft reverses the physical action by making Jin attack with a sword instead of knocking Michael’s sword blade away.",
+      "id": "F05",
+      "rationale": "검신을 뿌리쳤다 means Jin shook or knocked away the sword blade with which his fist was locked; it does not say he wielded a sword.",
+      "replacement": "That horrifying sensation of being dragged into a deep swamp made me reflexively knock the sword blade away.",
+      "severity": "critical",
+      "source": "마치 깊은 늪으로 끌려 들어가는 그 소름 끼치는 감각에 나는 반사적으로 검신을 뿌리쳤다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Before I had time to think, I twisted my body and staggered away, breathing harshly.",
+      "defect": "The draft changes an involuntary stagger into a deliberate twisting movement and adds that Jin moved away.",
+      "id": "F06",
+      "rationale": "신형을 비틀거린 describes Jin’s body staggering; it does not mean he intentionally twisted it, and the source gives no direction of movement.",
+      "replacement": "Before I even realized it, I was staggering and breathing harshly.",
+      "severity": "critical",
+      "source": "마지막으로 번쩍이는 섬광 속에서 낯익은 얼굴들이 눈앞을 스쳤고, 의식할 새도 없이 신형을 비틀거린 나는 거칠게 호흡했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It had been custom-built with every kind of cutting-edge equipment and even Magic, at a cost of hundreds of billions.",
+      "defect": "The monetary quantity is left without its implied Korean currency, making the scale ambiguous and potentially suggesting hundreds of billions of dollars.",
+      "id": "F07",
+      "rationale": "수천억 in this Korean setting denotes hundreds of billions of won; retaining the currency is necessary to preserve the actual quantity.",
+      "replacement": "It had been custom-built with every kind of cutting-edge equipment and even Magic, at a cost of hundreds of billions of won.",
+      "severity": "major",
+      "source": "온갖 최첨단 설비에 마법까지, 수천억을 들여 주문 제작한 것이었지만 별다른 감정은 들지 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He recalled the young man from head to toe—a young man who had not even lived half of his life—and the enormous power coiled within him.",
+      "defect": "The draft makes the comparison against the young man’s own lifespan, producing an illogical claim and losing the intended age comparison with Michael.",
+      "id": "F08",
+      "rationale": "자신이 살아온 인생 refers to the life Michael himself has lived: Jin is not yet half Michael’s age.",
+      "replacement": "He pictured the young man, not even half his own age, from head to toe, and once more considered the enormous power coiled within him.",
+      "severity": "major",
+      "source": "아직 자신이 살아온 인생의 절반도 지나지 않은 청년의 머리부터 발끝까지. 또 그 안에 웅크린 거대한 힘을 다시금 떠올리며 생각했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Even after the entire story had ended, the spacious suite remained filled with heavy air and silence.",
+      "defect": "The draft suggests that a narrative or sequence of events ended rather than that Jin finished telling the others everything.",
+      "id": "F09",
+      "rationale": "In context, 모든 이야기가 끝난 이후 refers to the completion of Jin’s account to Team Leader Choi and the Skeleton King.",
+      "replacement": "Even after I had finished telling them everything, the spacious suite remained filled with heavy air and silence.",
+      "severity": "minor",
+      "source": "모든 이야기가 끝난 이후에도, 넓은 스위트룸 내부는 무거운 공기와 침묵으로 가득 차 있었다."
+    }
+  ],
+  "summary": "The draft contains two critical physical-action reversals, along with altered timeframe, currency, age comparison, and several localized fidelity issues.",
+  "version": 1
+}

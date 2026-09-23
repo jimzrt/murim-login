@@ -1,23 +1,25 @@
 # Translation State
 
-- Last completed: 765
-- Next chapter: 766
-- Current block: 765–769 (1/5)
-- Latest translation: `translations/0765.md`
-- Latest summary: `summaries/beats/0765.md`
-- Safe profiles through: chapter 765
+- Last completed: 766
+- Next chapter: 767
+- Current block: 765–769 (2/5)
+- Latest translation: `translations/0766.md`
+- Latest summary: `summaries/beats/0766.md`
+- Safe profiles through: chapter 766
 
 ## Current Block
 
-- Aboard his private aircraft, Michael Silbert uses the Skeleton King's exposed identity to pressure Jin into supporting the World Hunter Federation. He reveals a staged plan in which Cheon Taemin would be asked to lead the federation, refuse because of his illness, and recommend Michael instead, allowing Michael to assume power with Jin's and Cheon Taemin's apparent support.
-- Furious at Michael's plan to seize power through the federation after causing mass destruction, Jin attacks with the Flame-Extinguishing Divine Fist. Michael blocks the punch with a sword and warns Jin that continuing will make the situation irreversible. With Huginn and the personal guards approaching, Jin withdraws his fist.
+- Jin Taekyung and Michael Silbert clash again, but Jin realizes that killing Michael would endanger the lives of everyone he has come to care about. He refuses Michael's offered hand and withdraws from the confrontation in Munich.
+- Michael tells Huginn that Jin's emotions and attachments make him vulnerable and insists that Jin will cooperate. He expects the plan to restore the World Hunter Federation and secure his dominion to conclude within days, while recognizing Jin as a greater obstacle than anticipated.
+- After Jin explains the situation to Team Leader Choi and the Skeleton King, the Skeleton King's joke about being barred from clubs earns him a spear strike to the ribs. Team Leader Choi restrains Jin before his rage causes qi deviation, and a visitor arrives at the suite.
 
 ## Open Questions
 
-- Can Jin prevent Michael's staged succession plan from making him Alliance Leader of the World Hunter Federation?
-- Will Cheon Taemin be used as the public source of Michael's legitimacy, and would he actually recommend Michael?
-- Is Michael's claim that global magical power has crossed its critical point true?
-- How can Jin oppose or kill Michael while Michael's knowledge of the Skeleton King's identity remains a fatal liability?
+- Will Jin submit to Michael's coercion or find a way to protect his people while opposing him?
+- Who is the visitor who arrives at the suite?
+- What action will Michael take against Jin after identifying him as a major obstacle?
+- Can Michael complete his staged succession and seize the World Hunter Federation within days?
+- Will Huginn's fear that releasing Jin was an irreversible mistake prove justified?
 
 ## Exceptional Decision
 
