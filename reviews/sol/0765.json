@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "By then, the energy flowing from Michael Silbert and me had taken an invisible line as its boundary and was surging toward one another.",
+      "defect": "The singular subject cannot naturally surge toward “one another,” and “surging” changes the opposed auras from facing each other across a boundary to actively rushing forward.",
+      "id": "F01",
+      "rationale": "The source describes the two characters’ respective auras confronting each other with an invisible line between them.",
+      "replacement": "By then, the auras flowing from Michael Silbert and me were facing each other across an invisible boundary.",
+      "severity": "minor",
+      "source": "어느덧 미카엘 실베르트와 나를 중심으로 흘러나온 기운이 보이지 않는 선을 경계 삼아 서로를 향하고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "At the same time, I sensed dozens of presences shooting toward us at the speed of light.",
+      "defect": "The draft turns a comparison to rays of light into the literal physical speed of light.",
+      "id": "F02",
+      "rationale": "The construction 빛살과도 같은 속도로 is explicitly comparative rather than a precise claim about their velocity.",
+      "replacement": "At the same time, I sensed dozens of presences shooting toward us as swiftly as rays of light.",
+      "severity": "minor",
+      "source": "그와 동시에 이곳을 향해 빛살과도 같은 속도로 쏘아지는 수십의 인기척이 느껴졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You seem to be feeling better now.”",
+      "defect": "Michael is commenting that the situation or atmosphere has improved after Jin retracts his aura, not expressing concern for Jin’s well-being.",
+      "id": "F03",
+      "rationale": "The line immediately follows Jin reining in his aura, and 한결 낫군 marks approval of the resulting de-escalation.",
+      "replacement": "“That is much better.”",
+      "severity": "minor",
+      "source": "“이제 좀 한결 낫군.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A powerful armed organization that disregarded every country and restriction would fall into the hands of a monster wearing a human face.",
+      "defect": "The draft replaces Michael’s public disguise as a hero with the unrelated image of a monster wearing a human face, losing the contrast between his heroic reputation and true nature.",
+      "id": "F04",
+      "rationale": "영웅의 탈 specifically means a hero’s mask or guise; the distinct “human skin” image appears later in the chapter as 인두겁.",
+      "replacement": "A powerful armed organization that disregarded every country and restriction would fall into the hands of a monster wearing a hero’s mask.",
+      "severity": "major",
+      "source": "어떤 국가와 제약도 무시하는 강력한 힘을 가진 무력 단체가, 영웅의 탈을 뒤집어쓴 괴물의 손아귀에 들어가는 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The next moment, following the fury that had seized my entire body, I thrust out my fist, infusing it with the killing intent that had risen alongside it.\n\n*Flame-Extinguishing Divine Fist.*",
+      "defect": "The two impact and rushing-air sound effects accompanying the punch are omitted.",
+      "id": "F05",
+      "rationale": "후웅 and 콰아아 are separate audible beats between the launched punch and the technique name and should be preserved like the chapter’s other sound effects.",
+      "replacement": "The next moment, following the fury that had seized my entire body, I thrust out my fist, infusing it with the killing intent that had risen alongside it.\n\n*Whoom! Roooar!*\n\n*Flame-Extinguishing Divine Fist.*",
+      "severity": "minor",
+      "source": "다음 순간 나는 전신을 사로잡은 분노를 따라, 동시에 함께 일어난 살기(殺氣)를 실어 주먹을 내뻗었다.\n\n후웅. 콰아아!\n\n멸염신권(滅炎神拳)."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At this moment, I forgot everything to my anger and entrusted everything to it.",
+      "defect": "“Forgot everything to my anger” is unidiomatic English and obscures the deliberate repetition of anger as both the cause of his oblivion and the force to which he surrenders.",
+      "id": "F06",
+      "rationale": "The replacement preserves both clauses and the repeated causal role of 분노 while reading naturally in English.",
+      "replacement": "At that moment, I forgot everything in my rage and surrendered everything to it.",
+      "severity": "minor",
+      "source": "지금 이 순간만큼은 분노에 모든 것을 잊고, 분노에 모든 것을 맡겼다."
+    }
+  ],
+  "summary": "One major characterization error and several localized action, nuance, and prose issues.",
+  "version": 1
+}

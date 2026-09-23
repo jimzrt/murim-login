@@ -1272,3 +1272,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 미카엘 | 진태경 | rival_to_target | you | quietly polite but threatening | Michael warns Jin to reconsider for the sake of Jin's monster friend. |
 | 진태경 | 미카엘 | target_to_rival | Go fuck yourself | blunt and profane | Jin rejects Michael's proposal to resurrect the World Hunter Federation. |
 | 진태경 | 최 팀장 | Hunter commander to trusted subordinate and team leader | Team Leader Choi | formal, urgent, and commanding through Sound Transmission | Jin orders Choi to contact Magic Johnson and retrieve the complete investigation into Michael Silbert. |
+| 미카엘 | 진 | manipulative adversary addressing the person he is coercing | Jin | familiar, polite, and coercive | Michael directly calls Jin 진 and repeatedly addresses him as 자네 during the negotiation. |
