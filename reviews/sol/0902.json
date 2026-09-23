@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Cang Gong no longer looked toward the throne where the Emperor sat, nor did he bow toward it.",
+      "defect": "The draft places the Emperor sitting when the source says he is standing.",
+      "id": "F01",
+      "rationale": "서 있는 explicitly describes the Emperor as standing.",
+      "replacement": "Cang Gong no longer looked toward the throne where the Emperor stood, nor did he bow toward it.",
+      "severity": "critical",
+      "source": "창공은 더 이상 황제가 서 있는 옥좌를 바라보지도, 그곳을 향해 허리를 굽히지도 않았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Definitely delicious.”\n\n“What was that?”\n\n“Definitely delicious.”\n\n“Right. But you should probably finish what’s in your mouth first.”",
+      "defect": "The draft invents a request for repetition and a second answer, while losing the muffled, mouth-full delivery of the only answer.",
+      "id": "F02",
+      "rationale": "The source has one garbled answer followed directly by Cang Gong’s response; the narrator repeats himself only after swallowing.",
+      "replacement": "“Definithely delishious.”\n\n“I see. But you should probably finish what’s in your mouth first.”",
+      "severity": "major",
+      "source": "“확시히 마힛헤오.”\n\n“그렇군. 하지만 우선 입에 든 것부터 처리하는 게 좋겠어.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Long live His Highness! Long live! Long, long live!”",
+      "defect": "The acclamation becomes a generic cheer and adds an address absent from the chant, losing its thousand-year wording.",
+      "id": "F03",
+      "rationale": "The repeated 천세 and concluding 천천세 specify thousand-year acclamations for the heir.",
+      "replacement": "“A thousand years! A thousand years! A thousand thousand years!”",
+      "severity": "major",
+      "source": "“천세(千歲)! 천세(千歲)! 천천세(千千世)!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "An unspoken, chilling energy sealed off the area so completely that I wouldn’t have noticed it if I hadn’t been paying attention.",
+      "defect": "“Unspoken” misreads the energy’s subtlety, and the sentence makes its perceptibility depend specifically on the narrator.",
+      "id": "F04",
+      "rationale": "은밀하고 describes the energy as discreet or subtle; 집중하지 않는다면 states the condition for sensing it without specifying a particular observer.",
+      "replacement": "A subtle, chilling qi sealed off the area so tightly that it would have gone unnoticed without careful attention.",
+      "severity": "minor",
+      "source": "집중하지 않는다면 느껴지지 않을 만큼 은밀하고 서늘한 기운이 주위를 단단히 틀어막았다."
+    }
+  ],
+  "summary": "The draft adds a dialogue exchange, changes the Emperor’s position, and loses a distinction in the succession acclamation.",
+  "version": 1
+}
