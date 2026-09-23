@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He could not die until he had watched with his own two eyes as the imperial family, cursed with that bloodline, was wiped out—and offered a memorial rite for his Master and fellow disciples, who had died screaming.",
+      "defect": "“Died screaming” invents how his Master and fellow disciples died.",
+      "id": "F01",
+      "rationale": "비명에 간 means they met untimely deaths; it does not say they screamed.",
+      "replacement": "He could not die until he had watched with his own two eyes as the imperial family, heirs to that cursed bloodline, was wiped out—and offered a memorial rite for his Master and fellow disciples, who had met untimely deaths.",
+      "severity": "critical",
+      "source": "저주받은 핏줄을 이어받은 황가가 몰살당하는 광경을 이 두 눈으로 똑똑히 지켜보고, 비명에 간 스승과 사형제들을 위해 제를 올리기 전까지는 죽을 수 없었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Don’t call my name. You’ll get attached.”",
+      "defect": "The punchline assigns the attachment to the Demon Lord instead of Taekyung.",
+      "id": "F02",
+      "rationale": "The omitted subject of 정들어 is naturally the speaker in this retort.",
+      "replacement": "“Don’t say my name. I might get attached.”",
+      "severity": "major",
+      "source": "“이름 부르지 마. 정들어.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He silently looked at his Disciple, back as if nothing had changed. Then he burst out laughing.",
+      "defect": "“As if nothing had changed” replaces the recurring action of the Disciple coming back as he always did.",
+      "id": "F03",
+      "rationale": "여느 때와 다름없이 modifies the Disciple’s return, not whether the ordeal changed anything.",
+      "replacement": "He silently gazed at his Disciple, who had come back as he always did. Then he burst out laughing.",
+      "severity": "major",
+      "source": "그는 여느 때와 다름없이 돌아온 제자의 모습을 말없이 바라보다가, 이내 크게 소리 내어 웃었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The shadow of death stirring at the edge of his life as he coughed up bloody phlegm mixed with pieces of his organs.",
+      "defect": "“Phlegm” adds a substance absent from the injury description.",
+      "id": "F04",
+      "rationale": "핏물 is blood, not phlegm.",
+      "replacement": "The shadow of death stirring at the edge of his life as he coughed up blood mixed with pieces of his organs.",
+      "severity": "minor",
+      "source": "내장 조각이 섞인 핏물을 토해 내며 삶의 끝자락에서 꿈틀거리던 죽음의 그림자를."
+    },
+    {
+      "confidence": 1.0,
+      "current": "He saw Jin Taekyung, still wrapped in concealment techniques, staring straight at him. He felt that gaze pierce his entire body.",
+      "defect": "The draft puts Jin Taekyung in concealment instead of Heaven’s Slaughter, reversing who has detected whom.",
+      "id": "F05",
+      "rationale": "자신 refers to Heaven’s Slaughter: Jin is looking directly at him despite his concealment.",
+      "replacement": "Though he himself was still cloaked by his concealment technique, he saw Jin Taekyung staring straight at him. He felt that gaze pierce his entire body.",
+      "severity": "critical",
+      "source": "아직 은영술에 휩싸인 자신을 정확히 응시하는 진태경의 모습을 보며. 전신을 꿰뚫는 듯한 그 시선을 느끼며."
+    }
+  ],
+  "summary": "The draft has several actionable fidelity errors, including a reversed subject in the final confrontation.",
+  "version": 1
+}
