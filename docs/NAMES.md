@@ -2333,3 +2333,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 야흐야 | **Yahya** | First element of the commander’s name. |
 | 아흐마드 | **Ahmad** | Third element of the commander’s name. |
 | 베두인 | **Bedouin** | Final element of the commander’s name. |
+| 아쿠아 스톰 | **Aqua Storm** | Named water spell used by the fanatics’ War Mages. |
+| 파이어 스톰 | **Fire Storm** | Magic Johnson’s named fire spell. |
+| 한스 | **Hans** | Hunter killed by a dagger during the battle. |

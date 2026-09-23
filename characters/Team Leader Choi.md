@@ -1,6 +1,6 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 815
+- **Safe through:** Chapter 819
 - **Aliases:** Choi Minwoo (최민우)
 - **Role:** Team Leader Choi is Jin Taekyung's meticulous intelligence and operations lead, a trusted ally and natural leader capable of guiding the reestablished World Hunter Federation.
 - **Personality:** Calm, pragmatic, meticulous, and resolute under pressure.
