@@ -2257,3 +2257,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 베를린 | **Berlin** | City facing a probable Monster Wave. |
 | 마쿠스 | **Markus** | German prime minister who announces the emergency request. |
 | 조자룡 | **Zhao Zilong** | Historical figure used in Jin's comparison of his press-conference performance. |
+| 남아프리카 공화국 | **South Africa** | Country where the Cape Town Monster Wave is occurring. |
+| 남아공 | **South Africa** | Korean abbreviation for South Africa. |
+| 케이프 타운 | **Cape Town** | South African capital attacked by the Troll horde. |
