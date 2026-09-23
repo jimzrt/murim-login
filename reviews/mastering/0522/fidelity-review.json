@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And the second and third Gates would be the enormous sparks that set it off.",
+      "defect": "The assembled copy omits the preceding statement that present-day Murim itself is a gigantic powder keg on the verge of exploding. This removes an established image and the setup for the Gates as the sparks that will ignite it.",
+      "id": "F01",
+      "rationale": "The Korean explicitly compares current Murim to a huge powder keg about to explode, then says the second and third Gates will be the sparks that set it off. The accepted baseline preserves both parts.",
+      "replacement": "The Murim of today was no different from a gigantic powder keg on the verge of exploding.\n\nAnd the second and third Gates would be the enormous sparks that set it off.",
+      "severity": "minor",
+      "source": "Lines 199–201"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it drops a source image that the accepted baseline preserved.",
+  "version": 1
+}
