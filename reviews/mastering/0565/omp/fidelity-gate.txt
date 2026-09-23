@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is broadly faithful, but it redundantly states that the office is a training ground.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 11–13",
+      "current": "It was called an office. Really, it was a training ground.",
+      "defect": "This adds a second statement that the office is a training ground; the next paragraph already renders the source’s office/training-ground contrast.",
+      "replacement": "The place was over a hundred pyeong, but all it held was a small desk and a single chair.",
+      "rationale": "Line 11 describes the space and its sparse furnishings. The office/training-ground contrast appears in line 13 and is already translated in the following paragraph.",
+      "confidence": 0.99
+    }
+  ]
+}

@@ -4,11 +4,11 @@ After Magic Johnson left, I texted Team Leader Choi, who still wasn’t answerin
 
 *Bang.*
 
-Hearing the door slam shut behind me, I dropped heavily onto the floor.
+The door slammed behind me, and I dropped onto the floor.
 
 The place was over a hundred pyeong, but all it held was a small desk and a single chair.[^1] It was called an office. Really, it was a training ground.
 
-The place was called an office, but it was really a training ground. I immediately took out my smartphone and inserted the chip.
+I took out my smartphone and slid in the chip.
 
 *Click.*
 
@@ -24,7 +24,7 @@ Static.
 
 *Boom! Kraaang!*
 
-A deafening roar.
+An explosion.
 
 *Shrieeeek!*
 
@@ -58,7 +58,7 @@ Then, the next moment—
 
 “Aaaah! G-God is great!”
 
-Along with the terrified cry of a little boy, countless firearms in their hands opened fire.
+At the terrified boy’s cry, the firearms in their hands opened fire.
 
 *Rat-tat-tat-tat!*
 
@@ -124,7 +124,7 @@ Those who fought while calling on their god and those who fled in terror alike f
 
 *Shunk!*
 
-A scythe-like foreleg slashed through the rebel’s back and shattered his breastbone.
+A scythe-like foreleg sliced into a rebel’s back and shattered his breastbone.
 
 Having struck down the last rebel still resisting, the Giant Mantis suddenly turned. A red eye protruding from the side of its head fixed on the camera.
 
@@ -132,7 +132,7 @@ Having struck down the last rebel still resisting, the Giant Mantis suddenly tur
 
 It saw the camera, and I saw it.
 
-Then, just as the Giant Mantis sensed something strange and cautiously began approaching the camera—
+The Giant Mantis seemed to sense something strange. It began to approach cautiously—
 
 “May the flames of God descend upon this place. Fire Rain!”
 
@@ -174,7 +174,7 @@ Some idiots might call that *only* seven percent. But a drop of even a few perce
 
 No. Maybe…
 
-*This could be the beginning of the second Great Cataclysm.*
+*This could be the beginning of a second Great Cataclysm.*
 
 As I watched the remaining videos one by one, my fears began to take shape.
 
@@ -186,7 +186,7 @@ A new Gate appeared among the green hills of Switzerland, where I could picture 
 
 A few places had been prepared well enough to suppress the outbreaks early. In more than half the videos, though, the monsters were defeated only after causing considerable damage.
 
-*This…*
+*Wait.*
 
 I kept replaying the footage, my brow furrowing. The damage wasn’t simply due to poor Gate defenses.
 
@@ -222,7 +222,7 @@ Butler Kim had hardly shown his face at the Guild lately. What important busines
 
 It had been about a week since I’d seen him, and the question lingered. But something more urgent needed our attention. Team Leader Choi knew it too.
 
-“We can discuss this later. For now, we should check the information Mr. Johnson gave us.”
+“We can discuss that later. First, let’s look at the information Mr. Johnson gave you.”
 
 “Oh. Here.”
 
@@ -230,7 +230,7 @@ I played the footage again. By the time they’d gone through every video and th
 
 “Worldwide magical power readings up seven percent?”
 
-Butler Kim’s usually gentle voice came out cracked.
+Butler Kim’s usually gentle voice cracked. He turned to Team Leader Choi.
 
 “Young Master.”
 
@@ -238,7 +238,7 @@ Butler Kim’s usually gentle voice came out cracked.
 
 Seven percent wasn’t merely a rise. *Surge* was closer to the mark.
 
-And that sharp change in mana levels was especially obvious in the footage.
+And the effect of that surge was plain in the footage.
 
 “The monsters…”
 
@@ -262,7 +262,7 @@ Things were moving at a ridiculous pace. Keep this up, and monsters might be par
 
 A pretty weathercaster would point to a map of the Korean Peninsula no bigger than a booger and explain it all:
 
-“Tomorrow, goblins are expected to fall in Cheorwon, Gangwon Province, instead of heavy snow. They’re expected to pile up to a height of twenty meters, so residents should grab their shields and antidotes and evacuate immediately.”
+“Tomorrow, goblins are expected in Cheorwon, Gangwon Province, instead of heavy snow. They may pile up to twenty meters, so residents should grab their shields and antidotes and evacuate immediately.”
 
 “…”
 
@@ -286,11 +286,11 @@ He turned off the hologram. His voice was low.
 
 This wasn’t a wave that would pass. It was a tsunami that might sweep whole cities away.
 
-“What are you planning to do, Team Leader Choi?”
+I sighed. “What are you planning to do?”
 
 “Gate defenses come first right now. We need a breakwater before the tsunami hits.”
 
-“Strengthen the Gate defenses?”
+“Strengthen the defenses?”
 
 “That will leave us with fewer Hunters for raids, and we won’t be able to make full use of all the Gates Peace Guild owns. But I know which matters more.”
 
@@ -300,7 +300,7 @@ I let out a quiet laugh. Team Leader Choi knew where to draw the line. He had gr
 
 *That’s the biggest difference between him and Lee Jungryong.*
 
-“Then we should focus on the Gates for now. It’s unfortunate, but we’ll have to put matters concerning Ares Guild on hold for a while…”
+“Then we should focus on the Gates,” I said. “It’s a shame, but we’ll have to put Ares Guild on hold for a while…”
 
 “Mr. Jin Taekyung.”
 
@@ -308,7 +308,7 @@ I let out a quiet laugh. Team Leader Choi knew where to draw the line. He had gr
 
 Team Leader Choi’s clear eyes were fixed on me.
 
-“I said that I would make Gate defenses my top priority. I never said I would put matters concerning Ares Guild on hold.”
+“I said Gate defenses would be my top priority. I never said I would put Ares Guild on hold.”
 
 “…!”
 
