@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "A streak of flame-wreathed light burst through his legs and buried itself in the ground.",
+      "defect": "“Burst through his legs” suggests the light passed through them, whereas the Korean says it burst his legs apart as it embedded itself in the ground.",
+      "id": "F01",
+      "rationale": "The source uses 터트리며: the spear’s impact bursts the legs, rather than merely passing through them.",
+      "replacement": "A streak of flame-wreathed light blew his legs apart and buried itself in the ground.",
+      "severity": "minor",
+      "source": "Korean line 305"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one physical-action detail that changes how the spear strikes.",
+  "version": 1
+}

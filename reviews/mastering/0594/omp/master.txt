@@ -12,7 +12,7 @@ But not this time. As I looked down at the dying man, I felt no bitterness at al
 
 “Kh……!”
 
-A final groan escaped with a deflating sound. At the same time, the solidly built man dropped to his knees.
+A final gasp escaped him like air from a punctured tire, and the solidly built man dropped to his knees.
 
 *Thud.*
 
@@ -58,7 +58,7 @@ He had deliberately caused two Monster Waves, leaving thousands dead or injured 
 
 Then why did I feel so hollow? I had taken my revenge, yet it felt as though the hole was in my chest, not Go Jun’s.
 
-It was probably because I knew that the people who had left my side would never return.
+Maybe it was because I knew the people who had left us would never come back.
 
 *Are you still cold? Is it still dark?*
 
@@ -68,17 +68,17 @@ Fatigue and drowsiness weighed on me more heavily than I could have imagined. I 
 
 *Step.*
 
-With every step, faces and memories rose before my eyes and obscured my vision.
+With every step, faces and memories rose before my eyes.
 
 I saw Gwangan Bridge collapsing. I heard people screaming in terror. A family photograph dangling from a car’s rearview mirror brought back a promise I had made long ago, pinkies linked with someone I missed more than words could say.
 
-“When Hayeon gets a little older, and you, Taekyung, start middle school, let’s come see the sea again. All right?”
+“When Hayeon’s a little older, and you start middle school, Taekyung, we’ll come back to see the sea. Okay?”
 
 “Really?”
 
 “Of course. Come on, pinky promise.”
 
-But today, the place from the promise I had kept deep in my heart had collapsed.
+But today, the place I had kept with that promise deep in my heart had collapsed.
 
 Innocent people had died, and monsters had spread like a plague. I had done everything I could, but I hadn’t saved more of them.
 
@@ -100,17 +100,17 @@ And… that he had believed my lie to the very end—the lie that the person he 
 
 *Step.*
 
-There is no process without a result. Someone had to pay the price. I believed it was only natural to be punished for doing wrong.
+Every action had an outcome. Someone had to pay the price. I had believed it was only natural for a person who did wrong to be punished.
 
-That was why I had come here. I had thrown open the gates of a palace no one had dared approach and brought down an impregnable fortress.
+That was why I had come here. I had thrown open the gates of a palace no one could touch and brought down an impregnable fortress.
 
-I had fought, and fought, and fought again. And after finally killing the monster wearing a human face, I suddenly felt hollow inside and found myself wondering:
+I had fought, and fought, and fought again. But after finally killing the monster wearing a human skin, I felt a sudden emptiness in my chest. One question came to mind.
 
 *What am I supposed to do now?*
 
 I had thought that killing Go Jun, the cause of it all, would ease my anger, even a little. I had thought I might laugh out loud with relief.
 
-But that wasn’t what happened.
+I couldn’t.
 
 With one gesture, I could make a massive pit and fill it again. But I couldn’t fill the empty place in my heart.
 
@@ -138,7 +138,7 @@ I stood there for a moment. Then I realized what was wrong.
 
 Why hadn’t the System window announcing the kill appeared?
 
-I had driven a spearhead into the center of his chest and burned his organs. I had watched and felt him stop breathing with my own eyes.
+I had driven my spearhead into the center of his chest and burned his organs. I had seen his face fall into that pool of blood and felt his breathing stop.
 
 “Don’t tell me.”
 
@@ -148,7 +148,7 @@ I muttered the words and turned around. An unusually deep darkness had settled o
 
 The System was absolute, and it was immediate.
 
-I knew that better than anyone. I simply had not noticed anything strange because I had been overwhelmed by exhaustion and deep thoughts in the moment of victory.
+I knew that better than anyone. Exhaustion and the thoughts that had consumed me after my apparent victory had kept me from noticing sooner.
 
 So when I found the pool of blood empty, I was not especially surprised.
 
@@ -214,7 +214,7 @@ Fear and hatred mingled in his eyes as he looked at me. I took in the sight of h
 
 “Did you want to live that badly? Even if it meant becoming a monster?”
 
-“Shut…… up. This…… this wasn’t what I wanted either—”
+“Shut… up. This… this isn’t what I wanted either—”
 
 *Crack! KRAK!*
 
@@ -226,7 +226,7 @@ As he screamed, his grotesque body began changing rapidly.
 
 *Shlk. Crackle!*
 
-The thick skin covered in hide and scales like a monster’s began to heal, while his crushed joints fitted themselves back together like puzzle pieces.
+The hide- and scale-covered skin healed. Crushed bones fitted themselves back together like pieces of a puzzle.
 
 “Hah. Hah.”
 
@@ -242,7 +242,7 @@ Trolls had extraordinary regenerative abilities. The Named Monster that had orig
 
 And…
 
-*The S-grade Magic Gem he absorbed wasn’t the only one, was it?*
+*That wasn’t the only S-grade Magic Gem he absorbed.*
 
 One look at him was enough to tell me. His swollen body and incredible regeneration were Troll traits, but the scales and hide covering half of him had come from another monster.
 
@@ -266,7 +266,7 @@ I moved toward him. Go Jun stared at me, eyes wide, and shouted as though he wer
 
 “Don’t come closer! Krrk! Stay away!”
 
-“That’s a problem. There’s a monster right in front of me.”
+“That’s going to be hard. There’s a monster right in front of me.”
 
 “T-This can’t be!”
 
@@ -298,7 +298,7 @@ I didn’t blink. I kept moving.
 
 *Slice! Stab!*
 
-I pulled the spear from the ground and slashed and stabbed his body in several places. I seared the sections trying to regenerate with the Flame Divine Palm, then gripped them tightly and tore them apart.
+I pulled the spear from the ground and slashed and stabbed him again and again. I seared the wounds that tried to close with the Flame Divine Palm, then gripped the regenerating flesh and tore it away.
 
 Under ordinary circumstances, I would never have done anything so brutal. Now I did not hesitate.
 
@@ -312,7 +312,7 @@ Go Jun was the first to give out under the endless pain.
 
 His voice was hoarse, and his eyes were not as red as before. His regeneration had been slowing for some time. Now it had stopped altogether.
 
-“Now…… kill me……”
+“Th-then kill me…”
 
 “I was going to.”
 
@@ -334,7 +334,7 @@ I did not wait for an answer. Without a moment’s hesitation, I brought the tra
 
 His head came free with a sharp cutting sound and rolled across the floor.
 
-That was the end of the monster who had become neither a hero like Cheon Taemin nor an ambitious warlord like his Master, Lee Jungryong.
+That was the end of a monster who had become neither a hero like Cheon Taemin nor an ambitious warlord like his Master, Lee Jungryong.
 
 *Ding.*
 
