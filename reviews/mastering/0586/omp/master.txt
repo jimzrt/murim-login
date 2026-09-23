@@ -4,13 +4,13 @@ Some truths are cruel and cold.
 
 When people face them, they sometimes turn away, unable—or unwilling—to believe what has happened.
 
-Like me right now.
+Like me.
 
 “…Human.”
 
 Skeleton King’s voice broke the silence. I felt as though I had woken from a long, terrible dream.
 
-And in the next moment, I realized that none of it had been a dream. It was reality.
+Then I realized it hadn’t been a dream at all.
 
 *He’s gone. He really is.*
 
@@ -24,7 +24,7 @@ Perhaps the old butler I remembered was wandering an endless winter night even n
 
 I couldn’t stop. I had to keep putting warmth into his body as it slowly grew cold.
 
-Thud.
+Tap.
 
 A cold hand came to rest on my shoulder. Skeleton King spoke in a subdued voice.
 
@@ -36,9 +36,9 @@ A cold hand came to rest on my shoulder. Skeleton King spoke in a subdued voice.
 
 He was wrong. It wasn’t enough, so I couldn’t stop.
 
-Just as I was about to roughly shake off the hand on my shoulder, Skeleton King continued.
+I was about to wrench his hand off my shoulder when he went on.
 
-“He will not be cold anymore, so let that human go…… Let that person rest.”
+“He won’t be cold anymore. Let that human… let him go.”
 
 “…!”
 
@@ -60,7 +60,7 @@ I turned toward the sound and saw five men and women emerge. I recognized their 
 
 They must have realized the situation had changed and come back.
 
-They had already fought Behemoth desperately ahead of me, exhausting themselves and suffering injuries. With vacant eyes, they stared at the monster collapsed before them. Then they turned their heads and looked in this direction.
+They had fought Behemoth before I arrived. Exhausted and wounded, they stared blankly at the monster lying before them. Then they looked our way.
 
 And—
 
@@ -72,21 +72,21 @@ Shouts and screams rang out together.
 
 They hurried over Behemoth’s corpse and found Kim Hwajong in a deep sleep from which he would never wake.
 
-“H-How could this happen?”
+“H-How could this…”
 
 “…Damn it. I knew this would happen. I knew it!”
 
-Their voices were filled with grief and tears.
+Their voices shook with grief.
 
 I hadn’t been there, but I could picture what had happened.
 
-*He must have told them to go. Told them to run with Team Leader Choi because he was all right.*
+*He told them to go. Said he’d be fine and told them to escape with Team Leader Choi.*
 
 That was the kind of person Kim Hwajong was.
 
 Someone mattered more to him than his own life: a young man he called Young Master and thought of as his grandson.
 
-I had stood there as though nailed to the ground, watching everything. Then I suddenly opened my mouth.
+I stood rooted to the spot, watching them. Then I spoke.
 
 “Team Leader Choi.”
 
@@ -98,7 +98,7 @@ My voice came out rough and hollow, so unfamiliar it might have belonged to some
 
 “…!”
 
-“Hurry.”
+“Please. Hurry.”
 
 The Guild members stared at me for a moment, then understood and nodded. They carefully laid Team Leader Choi, unconscious after exhausting all his strength, on the ground.
 
@@ -120,7 +120,7 @@ I shook my head at the Guild member who had spoken.
 
 “We can’t. Not right now.”
 
-I cut him off firmly. It wasn’t as though I hadn’t considered it myself.
+I cut him off. I’d considered it too.
 
 If Kim Hwajong had still been alive, I would have done whatever it took to wake Team Leader Choi and let them see each other.
 
@@ -138,11 +138,9 @@ I’d learned that three years ago. I couldn’t wake Team Leader Choi in that c
 
 But I could promise him one thing.
 
-Before Team Leader Choi regained consciousness, I would bring him a gift that could soothe even a little of the rage and grief he would feel.
+Before he woke, I would bring back a gift that might ease even a little of the grief and rage awaiting him.
 
 Whoosh! Slash!
-
-The tip of the spear I swung without any preparation split the air.
 
 I swung my spear without warning. Its tip split the air, sending a crescent of Force through Behemoth’s enormous body. Skeleton King murmured, almost with a sigh.
 
@@ -162,13 +160,13 @@ I cut through it without hesitation, like a butcher, until Skeleton King could s
 
 “I said stop! What difference do you think this will—”
 
-“It can make enough of a difference. That’s why I’m doing this.”
+“It could make all the difference,” I said quietly. “That’s why I’m doing it.”
 
 “What?”
 
 He stared at me, puzzled.
 
-“What in the world are you talking about?”
+“What are you talking about?”
 
 I didn’t answer. One step carried me several meters, bringing Behemoth’s corpse right before me.
 
@@ -180,13 +178,13 @@ Vrrrr.
 
 A faint vibration passed through the air. With it came a murky, powerful energy.
 
-“……Found it.”
+“…There you are.”
 
-I had worried that it might have been erased by the One Annihilation I had fired earlier, but fortunately, *it* was unharmed.
+I’d worried that the One Annihilation I’d used earlier might have erased it. Relief flickered through me as I reached out.
 
 Whoosh. Clack!
 
-Seizing an Object Through Empty Space sent *it* flying into my hand. I stared at it with a solemn gaze.
+Seizing an Object Through Empty Space sent it flying into my hand. I gazed down at it, then spoke silently to myself.
 
 *Item Appraisal.*
 
@@ -210,7 +208,7 @@ Ding.
 
 My eyes grew hot as I read the System Window floating before me.
 
-But my mind was colder and clearer than ever as it turned over the information.
+My mind, though, had never felt colder or clearer.
 
 *Behemoth’s Turbid Abyss.*
 
@@ -218,7 +216,7 @@ The System had never lied to me. Not once. Every word of that description had to
 
 *It absorbed another source of magical power. For some reason. I see.*
 
-The questions that had been drifting through my head for the past several hours, ever since my conversation with Kraken, began to fall into place one after another.
+The questions that had filled my head for the past several hours, ever since I’d spoken with Kraken, began to fall into place.
 
 Who had given Kraken a Magic Gem to cause a Monster Wave? Who had ordered him to do it?
 
@@ -248,7 +246,7 @@ I was speaking to the Peace Guild members. Their eyes turned toward a middle-age
 
 “I’m sorry, but none of us know. I don’t know who he was either.”
 
-I had heard the man’s identity directly from Team Leader Choi himself not long ago. Even the temporary Head of Security had not been informed.
+The man was probably telling the truth. I wasn’t disappointed. Team Leader Choi had told me himself not long ago who the visitor was, even though he hadn’t told the acting Head of Security.
 
 *Song Cheonwoo.*
 
@@ -274,19 +272,19 @@ The final piece fell into place. I knew what I had to do—and that the conseque
 
 *Then…*
 
-I slowly closed my eyes.
+I closed my eyes.
 
 There was no turning back. Right or wrong, I had to do this.
 
 When I opened my eyes again, neither my resolve nor my voice wavered.
 
-“If Team Leader Choi wakes up while I’m gone, please make sure someone tells him.”
+“If Team Leader Choi wakes while I’m gone, someone tell him this.”
 
 “Pardon? Tell him what…?”
 
 “S-grade Hunter Jin Taekyung…”
 
-The unfamiliar, dry voice that sounded as though it belonged to someone else continued.
+That dry, unfamiliar voice went on.
 
 “…is leaving the Peace Guild as of this moment.”
 
@@ -294,7 +292,7 @@ The unfamiliar, dry voice that sounded as though it belonged to someone else con
 
 “…!”
 
-The frozen expressions of the people before me came into view.
+I saw the Guild members’ stunned faces. I saw another face twist in anger.
 
 “You bastard. Don’t tell me you’re—”
 
@@ -302,13 +300,13 @@ The frozen expressions of the people before me came into view.
 
 The one who had to leave would leave. The one who had to stay would stay.
 
-I shook my head at Skeleton King when he tried to stop me again, then asked the Guild members who had gone rigid like statues.
+I shook my head at Skeleton King before he could try to stop me again, then turned to the Guild members, who stood frozen like statues.
 
 “Anyone here capable of Teleport? Hands up.”
 
 “H-Hand.”
 
-A mage raised his hand without thinking and asked with a dazed expression,
+A mage raised his hand before he seemed to realize what he was doing. He stared at me.
 
 “B-But where to?”
 

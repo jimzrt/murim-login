@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I swung my spear without warning. Its tip split the air, sending a crescent of Force through Behemoth’s enormous body.",
+      "defect": "The source describes one spear swing: its tip splits the air, and the crescent-shaped Force cuts Behemoth. The preceding sentence already says the swing split the air, so this sentence repeats the swing and can read as a second attack.",
+      "id": "F01",
+      "rationale": "The Korean has one unprepared swing, followed by the crescent-shaped Force cutting the monster; it does not introduce another swing before Skeleton King speaks.",
+      "replacement": "A crescent of Force shot from the spear in a half-moon arc, cutting through Behemoth’s enormous body where it lay collapsed.",
+      "severity": "minor",
+      "source": "Lines 159–161"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The frozen expressions of the people before me came into view.",
+      "defect": "The translation omits the additional image of someone’s contorted face.",
+      "id": "F02",
+      "rationale": "The source says the narrator sees both the people’s frozen expressions and, together with them, someone’s distorted face. The accepted baseline also preserves this detail.",
+      "replacement": "The frozen expressions of the people before me came into view, along with someone’s twisted face.",
+      "severity": "minor",
+      "source": "Line 333"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but one passage repeats a single spear attack as if it were two, and another drops a facial detail preserved in the source and accepted baseline.",
+  "version": 1
+}
