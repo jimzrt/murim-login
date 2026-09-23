@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "one follows two, two follows three",
+      "defect": "Reverses the first step of the sequence.",
+      "id": "F01",
+      "rationale": "The source says two follows one, then three follows two.",
+      "replacement": "one is followed by two, and two by three",
+      "severity": "critical",
+      "source": "하나 다음은 둘. 둘 다음이 셋인 것처럼"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Or had the enormous calamity I’d tried to stop been in preparation for so long that no ordinary human could have prevented it?",
+      "defect": "“Ordinary human” implies an exceptional human might have stopped it; the narrator questions whether human power itself was enough.",
+      "id": "F02",
+      "rationale": "한낱 인간의 힘 frames the limitation as that of a mere human, not specifically an ordinary one.",
+      "replacement": "Or had the enormous calamity I’d tried to stop been in preparation for so long that no mere human could have prevented it?",
+      "severity": "major",
+      "source": "한낱 인간의 힘으로 막아서기에는 너무나도 오랫동안 준비되어 있었던 것일까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "for Ahomed, who had lived his whole life following God’s will",
+      "defect": "Omits that Ahomed’s family had followed God’s will for generations.",
+      "id": "F03",
+      "rationale": "조상 대대로 explicitly extends the devotion back through his ancestors.",
+      "replacement": "for Ahomed, whose family had followed God’s will for generations",
+      "severity": "major",
+      "source": "조상 대대로 신의 뜻을 따르며 살아왔던 아호메드에게도"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> Main Quest [Cataclysm] has failed!",
+      "defect": "Retains square brackets around a UI term inside a System panel.",
+      "id": "F04",
+      "rationale": "The panel formatting already identifies System text; the binding Markdown rule excludes square brackets around UI terms there.",
+      "replacement": "> Main Quest Cataclysm has failed!",
+      "severity": "minor",
+      "source": "- 메인 퀘스트, [격변]이 실패했습니다!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> You have defeated Level 10 “Final Abyss” Doppelganger.\n> \n> Due to the extreme level difference, you receive no Reward.\n> \n> With the death of this target, the [Doppelganger] species has been completely wiped out.\n> \n> You have completely eradicated a species. The name [Doppelganger] will now slowly be forgotten as time passes.\n> \n> You have achieved the very rare achievement, [Where’s Your Do Clan From?][^1]\n> \n> As a Reward for achieving a very rare achievement, you have gained a massive amount of EXP and Fame!\n> \n> You have acquired the Title [Species Slayer]!\n> \n> Level Up!",
+      "defect": "Retains square brackets around species, achievement, and Title terms inside the System panel.",
+      "id": "F05",
+      "rationale": "The binding rule calls for one blockquoted System window without square brackets around its UI terms.",
+      "replacement": "> **System**\n> You have defeated Level 10 “Final Abyss” Doppelganger.\n> \n> Due to the extreme level difference, you receive no Reward.\n> \n> With the death of this target, the Doppelganger species has been completely wiped out.\n> \n> You have completely eradicated a species. The name Doppelganger will now slowly be forgotten as time passes.\n> \n> You have achieved the very rare achievement, Where’s Your Do Clan From?[^1]\n> \n> As a Reward for achieving a very rare achievement, you have gained a massive amount of EXP and Fame!\n> \n> You have acquired the Title Species Slayer!\n> \n> Level Up!",
+      "severity": "minor",
+      "source": "- [Lv.10 “최후의 심연” 도플갱어]를 처치하셨습니다.\n\n- 극심한 레벨 격차로 인하여 아무런 처치 보상도 주어지지 않습니다.\n\n- 해당 목표의 죽음으로 인하여, [도플갱어]의 명맥이 완전히 끊어졌습니다.\n\n- 당신은 하나의 종족을 완전히 소멸시켰습니다. 이제 [도플갱어]라는 이름은 흐르는 시간 속에서 서서히 잊힐 것입니다.\n\n- 매우 희귀한 업적, [어데 도씹니꺼]를 달성하셨습니다!\n\n- 매우 희귀한 업적을 달성한 보상으로, 막대한 경험치와 명성치를 획득하셨습니다!\n\n- 칭호, [종족 학살자]를 획득하셨습니다!\n\n- 레벨 업!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> Main Quest [Cataclysm] has failed.\n> \n> Some details in the Quest window have been updated.\n> \n> Mission: Stop the Summoning (Failed)\n> \n> You have failed to complete the mission.\n> \n> The boundary of the [Demon Realm] has temporarily opened. Unidentified beings are invading this world.\n> \n> A page of history is turning, and a new age is right around the corner.\n> \n> The [Rift] has begun.\n> \n> Current [Rift] progress: 10%\n> \n> As the [Rift] progresses, the distribution and concentration of [magical power] will rise sharply. This may vary depending on location and the passage of time, and may have greater or lesser effects on the laws and living beings of this world.",
+      "defect": "Retains square brackets around UI terms throughout this System panel.",
+      "id": "F06",
+      "rationale": "The binding Markdown rule excludes square brackets around UI terms within System panels.",
+      "replacement": "> **System**\n> Main Quest Cataclysm has failed.\n> \n> Some details in the Quest window have been updated.\n> \n> Mission: Stop the Summoning (Failed)\n> \n> You have failed to complete the mission.\n> \n> The boundary of the Demon Realm has temporarily opened. Unidentified beings are invading this world.\n> \n> A page of history is turning, and a new age is right around the corner.\n> \n> The Rift has begun.\n> \n> Current Rift progress: 10%\n> \n> As the Rift progresses, the distribution and concentration of magical power will rise sharply. This may vary depending on location and the passage of time, and may have greater or lesser effects on the laws and living beings of this world.",
+      "severity": "minor",
+      "source": "- 메인 퀘스트, [격변]이 실패했습니다.\n\n- 해당 퀘스트 창의 일부 항목이 갱신되었습니다.\n\n- 임무 : 소환 저지 (실패)\n\n- 당신은 임무를 달성하지 못했습니다.\n\n- 일시적으로 [마계]의 경계가 개방되었습니다. 아직 파악되지 않은 존재들이 이 세상을 침범합니다.\n\n- 바야흐로 역사의 한 페이지가 넘어가고, 새로운 시대가 코앞으로 다가왔습니다.\n\n- [균열]이 시작되었습니다.\n\n- [균열]의 현재 진행도 : 10%\n\n- [균열]의 진행도에 따라, [마력]의 분포도와 농도가 폭등합니다. 이는 해당 위치와 시간의 흐름에 따라 변동될 수 있으며, 이 세상에 존재하는 섭리와 생물체에 크고 작은 영향을 미칠 수 있습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> The [System] is automatically executing a new update.\n> \n> The [System] wishes to move the [Player] under its authority. Do you accept this offer?\n> \n> The [Player] has not responded. Proceeding automatically.\n> \n> Connecting to [Murim].\n> \n> Countdown begins.\n> \n> 10, 9, 8……",
+      "defect": "Retains square brackets around UI terms in the update panel.",
+      "id": "F07",
+      "rationale": "The System blockquote already frames these notices, so the binding rule removes their UI-term brackets.",
+      "replacement": "> **System**\n> The System is automatically executing a new update.\n> \n> The System wishes to move the Player under its authority. Do you accept this offer?\n> \n> The Player has not responded. Proceeding automatically.\n> \n> Connecting to Murim.\n> \n> Countdown begins.\n> \n> 10, 9, 8……",
+      "severity": "minor",
+      "source": "- [시스템]이 새로운 업데이트를 자동 실행합니다.\n\n- [시스템]의 권한으로 [플레이어]를 이동시키고자 합니다. 해당 제안을 승낙하시겠습니까?\n\n- [플레이어]가 응답하지 않았으므로, 자동 진행됩니다.\n\n- [무림]에 접속합니다.\n\n- 카운트 다운 시작.\n\n- 10, 9, 8……."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> [Login] successful.\n> \n> May fortune favor you in battle.",
+      "defect": "Retains square brackets around Login inside a System panel.",
+      "id": "F08",
+      "rationale": "The binding Markdown rule excludes square brackets around UI terms in System notices.",
+      "replacement": "> **System**\n> Login successful.\n> \n> May fortune favor you in battle.",
+      "severity": "minor",
+      "source": "- [로그인]에 성공했습니다.\n\n- 부디 무운(武運)을 빕니다."
+    }
+  ],
+  "summary": "The draft reverses the opening sequence, narrows a key reflection about human power, and omits Ahomed’s ancestral devotion. System panels also retain square brackets around UI terms.",
+  "version": 1
+}
