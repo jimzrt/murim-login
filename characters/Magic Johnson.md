@@ -1,9 +1,9 @@
 # Magic Johnson (매직 존슨)
 
-- **Safe through:** Chapter 564
+- **Safe through:** Chapter 740
 - **Aliases:** Grand Mage
-- **Role:** Magic Johnson is a Grand Mage and powerful mage who visits the Peace Guild to deliver intelligence and a data chip to Team Leader Choi.
-- **Personality:** Playful, perceptive, and theatrically sensitive in jest, but serious when discussing threats.
-- **Voice:** Bantering, teasing, and conversational; grave and precise when presenting intelligence.
-- **Relationships:** Friendly acquaintance of Jin Taekyung who maintains an information-sharing relationship with Team Leader Choi.
+- **Role:** Magic Johnson is one of the world's three Grand Mages, a key figure who created Ares Guild's A Area and knows about Cheon Taemin's condition.
+- **Personality:** Not established.
+- **Voice:** Not established.
+- **Relationships:** Has contact with Team Leader Choi and investigates figures connected to Michael Silbert.
 - **Sources:** Korean source and accepted translation, Chapter 384

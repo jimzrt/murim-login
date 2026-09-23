@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "And since it required a state of supreme concentration, it went without saying that all five senses were heightened to their limits.",
+      "defect": "The draft says circulating qi requires supreme concentration, while the source explains that the practice itself places the practitioner in that concentrated state, which in turn heightens the senses.",
+      "id": "F01",
+      "rationale": "인 만큼 gives the concentrated state as the reason the five senses are maximized; it does not describe concentration as an external prerequisite.",
+      "replacement": "And since circulating qi brought one into a state of supreme concentration, it went without saying that all five senses were heightened to their limits.",
+      "severity": "major",
+      "source": "물론, 최고의 집중 상태인 만큼 오감(五感)이 극대화되는 것은 말할 것도 없고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I thought I told you not to let anyone in until I came out on my own… Are you unable to understand human speech because you’re a monster? Or do you just have no intention of understanding it?”",
+      "defect": "The draft changes a general prohibition against anyone entering into an instruction for the Skeleton King to act as a gatekeeper and keep other people out.",
+      "id": "F02",
+      "rationale": "아무도 들어오지 말라고 means that no one was supposed to enter, including the intruder now opening the door.",
+      "replacement": "“I thought I said no one was to come in until I came out on my own… Are you unable to understand human speech because you’re a monster? Or do you just have no intention of understanding it?”",
+      "severity": "critical",
+      "source": "“알아서 나올 때까지 아무도 들어오지 말라고 했던 것 같은데…… 몬스터라 사람 말을 못 알아듣는 거냐. 아니면 아예 알아들을 생각이 없는 거냐?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“…”\n\n“That makes a strange amount of sense, but it’s still unpleasant.”",
+      "defect": "Splitting this single utterance into two separately quoted paragraphs conventionally signals a speaker change and risks assigning the second sentence to Taekyung rather than the Skeleton King.",
+      "id": "F03",
+      "rationale": "The source presents the hesitation and complaint as one continuous response from the Skeleton King.",
+      "replacement": "“…That makes a strange amount of sense, but it’s still unpleasant.”",
+      "severity": "critical",
+      "source": "“……묘하게 납득이 가면서도 기분이 나쁜데.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Normally, he would have been deeply offended by now, his mouth sticking out a good five feet.",
+      "defect": "The draft reduces 댓 발, roughly five armspans in this comic exaggeration, to only five feet and renders the pout as his whole mouth physically protruding.",
+      "id": "F04",
+      "rationale": "The source uses an intentionally enormous distance to exaggerate how visibly the Skeleton King would usually pout.",
+      "replacement": "Normally, he would have been sulking hard by now, his pout stretching a good thirty feet.",
+      "severity": "minor",
+      "source": "평소였다면 이미 단단히 삐쳐서 주둥이가 한 댓 발은 나왔을 거다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Your sibling.”",
+      "defect": "The draft omits the relative age encoded by 동생 and uses an unnaturally generic term despite the established identity of Taekyung’s younger sister.",
+      "id": "F05",
+      "rationale": "동생 means a younger sibling, and the safe character information identifies this family member as Taekyung’s sister Hayeon.",
+      "replacement": "“Your younger sister.”",
+      "severity": "major",
+      "source": "“네 동생.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You would have to combine Ares and Peace, then add three or four major Guilds on top of that.”",
+      "defect": "The draft truncates the established Guild names, making Peace in particular read like the ordinary noun rather than Peace Guild.",
+      "id": "F06",
+      "rationale": "아레스 and 평화 refer to the established organizations Ares Guild and Peace Guild.",
+      "replacement": "“You would have to combine Ares Guild and Peace Guild, then add three or four major Guilds on top of that.”",
+      "severity": "minor",
+      "source": "“아레스와 평화 길드를 하나로 합치고, 거기에 거대 길드 서너 개는 합쳐야 할 겁니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You mean they’re under borrowed names?”",
+      "defect": "“Borrowed names” is an unnatural calque for assets or businesses legally registered under someone else’s name.",
+      "id": "F07",
+      "rationale": "차명 denotes nominee ownership or registration under another person’s name; Taekyung’s plainspoken question calls for ordinary English rather than technical jargon.",
+      "replacement": "“You mean they’re in other people’s names?”",
+      "severity": "minor",
+      "source": "“차명이라는 겁니까?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Even if many of them passed through unofficial channels, controlling more than two hundred Gates put Odin Guild on a level comparable to that of a small country.",
+      "defect": "The pronoun makes the Gates themselves pass through unofficial channels, obscuring that Odin Guild controls many of its holdings through unofficial arrangements.",
+      "id": "F08",
+      "rationale": "비공식적인 루트를 통했다 describes the unofficial means surrounding Odin Guild’s holdings, not physical Gates moving through channels.",
+      "replacement": "Even if a considerable number of those holdings were controlled through unofficial channels, having control of around two hundred Gates put Odin Guild on the level of a small country.",
+      "severity": "major",
+      "source": "비록 이중 상당수가 비공식적인 루트를 통했다 하더라도, 이백여 개의 게이트를 보유했다면 어지간한 소국(小國)과 비슷한 수준이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the three words that slipped from my mouth, Team Leader Choi nodded with a grim expression.",
+      "defect": "선지자 consists of three Korean syllabic characters, not three English words; the translated title “The Prophet” has two words.",
+      "id": "F09",
+      "rationale": "Referring to the utterance as a name preserves the beat without introducing a visibly false English word count.",
+      "replacement": "At the name that slipped from my mouth, Team Leader Choi nodded with a grim expression.",
+      "severity": "minor",
+      "source": "내가 불쑥 내뱉은 세 글자에, 최 팀장이 굳은 얼굴로 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I searched thoroughly for information on him as well.”\n\n“What kind of bastard is he?”\n\nI was genuinely curious.\n\nWho was the madman who had beheaded the leaders of two massive terrorist organizations, rallied the scattered terrorists, and shaken the entire world?\n\nBut the answer I heard from Team Leader Choi fell far short of my expectations.\n\n“We don’t know.”\n\n“You don’t know?”\n\n“No. Even after taking every circumstance into account, there is absolutely no information about the Prophet. He completely vanished after that declaration as well.”\n\n“Wait. Even the United States?”\n\n“Not just the United States. The entire world is searching for him, and the situation is still the same.”",
+      "defect": "The draft repeatedly assigns the Prophet male pronouns even though the identity remains deliberately unspecified and the established presentation is gender-indeterminate.",
+      "id": "F10",
+      "rationale": "Korean permits these references without establishing gender, and the scene emphasizes that virtually nothing is known about the Prophet; masculine English pronouns add identity information absent from the source.",
+      "replacement": "“I searched thoroughly for information on the Prophet as well.”\n\n“What kind of bastard is the Prophet?”\n\nI was genuinely curious.\n\nWho was the madman who had beheaded the leaders of two massive terrorist organizations, rallied the scattered terrorists, and shaken the entire world?\n\nBut the answer I heard from Team Leader Choi fell far short of my expectations.\n\n“We don’t know.”\n\n“You don’t know?”\n\n“No. Even after taking every circumstance into account, there is absolutely no information about the Prophet. The Prophet completely vanished after that declaration as well.”\n\n“Wait. Even the United States?”\n\n“Not just the United States. Even with the entire world searching, the situation is still the same.”",
+      "severity": "critical",
+      "source": "“그렇지 않아도 그에 관한 정보 역시 샅샅이 찾았습니다.”\n\n“어떤 놈입니까?”\n\n진심으로 궁금했다.\n\n두 거대 테러 집단의 우두머리를 참수하고, 사분오열된 테러리스트들을 규합하여 전 세계를 뒤흔든 그 미친놈의 정체가.\n\n그러나 다음 순간 들려온 최 팀장의 목소리는, 내 기대를 한참이나 벗어났다.\n\n“모릅니다.”\n\n“모른다고요?”\n\n“예. 여러 가지 사정을 고려하더라도 선지자에 관해서는 알려진 바가 전무합니다. 심지어는 그날의 선언 이후 완전히 자취를 감췄고요.”\n\n“아니 잠깐. 미국도요?”\n\n“미국뿐만 아니라, 전 세계가 나선 지금도 마찬가집니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*What the hell does this guy do?*",
+      "defect": "The draft turns Taekyung’s question about the Prophet’s identity or nature into a question about the Prophet’s occupation.",
+      "id": "F11",
+      "rationale": "뭐 하는 놈이지 asks what sort of person this mysterious figure is in context, not what job the person performs.",
+      "replacement": "*Who the hell is this guy?*",
+      "severity": "minor",
+      "source": "‘도대체 뭐 하는 놈이지?’"
+    }
+  ],
+  "summary": "Several actionable fidelity issues alter an instruction, dialogue attribution, causal mechanics, kinship detail, quantity, and the Prophet’s deliberately unspecified identity; additional localized terminology and wording corrections are needed.",
+  "version": 1
+}

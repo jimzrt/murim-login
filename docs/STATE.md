@@ -1,25 +1,24 @@
 # Translation State
 
-- Last completed: 739
-- Next chapter: 740
-- Current block: 735–739 (5/5)
-- Latest translation: `translations/0739.md`
-- Latest summary: `summaries/beats/0739.md`
-- Safe profiles through: chapter 739
+- Last completed: 740
+- Next chapter: 741
+- Current block: 740–744 (1/5)
+- Latest translation: `translations/0740.md`
+- Latest summary: `summaries/beats/0740.md`
+- Safe profiles through: chapter 740
 
 ## Current Block
 
-- The ten Monster Waves are revealed to have been coordinated terrorist attacks using bombs and unrefined A-rank Magic Gems near high-mana Gates. Michael Silbert releases Odin Guild footage, while media and online communities debate the attackers' origins, motives, and the scale of the catastrophe, which has killed thousands.
-- The Prophet broadcasts a threatening declaration beside the severed heads of the former IS and Al Qaeda leaders, promising judgment and punishment while claiming that everything began with the audience. A second transmission shows a masked figure whose face resembles someone famous, and subsequent coverage alleges a 99.99% match with another identity of a young hero.
-- The Skeleton King reads the news and public condemnation targeting Jin Taekyung, recognizing that revealing the truth immediately could cause an even greater backlash. He carries a silver tray to a large room, where someone is sitting cross-legged beyond the opening door.
+- After more than three days of isolating himself in qi circulation and contemplation, Jin Taekyung accepts a meal from the Skeleton King, resumes eating, and decides to leave after bathing.
+- Jin acknowledges that his actions contributed to the terrorist attacks but resolves to pursue Michael Silbert and the Prophet regardless of public opinion. Team Leader Choi reports that Odin Guild controls more than two hundred effectively owned Gates through a vast asset network, while the Prophet remains unidentified and unlocated. Magic Johnson then reports that a Grand Mage likely connected to Michael has been found, only for a call to reveal that the person is dead.
 
 ## Open Questions
 
-- Who is the masked figure shown in the Prophet's transmission?
-- What does the Prophet mean by saying that all of this began with the audience?
-- How will the Prophet's promised further judgment and punishment proceed?
-- Why is the Skeleton King bringing a silver tray to the unidentified person?
-- What is the identity and condition of the person sitting cross-legged inside the room?
+- Who is the masked figure linked to Jin Taekyung, and why is the public being directed toward that connection?
+- Who is the Prophet, and how did the Prophet disappear beyond the reach of a worldwide search?
+- Were Odin Guild's Gates or Magic Gems indirectly involved in the terrorist attacks despite the lack of documentary evidence?
+- Which Grand Mage died, and what did that person know about Michael Silbert?
+- What further attacks, judgment, or punishment will the Prophet attempt?
 
 ## Exceptional Decision
 

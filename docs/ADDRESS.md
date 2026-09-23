@@ -1213,3 +1213,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 후긴 | 미카엘 실베르트 | Odin Guild subordinate to Guild Master | Guild Master | formal and deferential | Huginn reports the casualty count, media preparations, and progress of the terrorist operation. |
 | 진태경 | 최 팀장 | allied_subordinate_to_team_leader | Team Leader Choi | polite and familiar | Jin asks Choi whether he should apologize and discusses the attacks with him. |
 | 최 팀장 | 진태경 | allied_team_leader_to_subordinate | Mr. Jin Taekyung | formal-polite | Choi refers to Jin as 진태경 씨 while responding to him. |
+| 진태경 | 스켈레톤 킹 | human to undead ally and companion | Skeleton King | insulting-casual | Jin uses blunt banter while accepting the Skeleton King's concern and assistance. |
+| 스켈레톤 킹 | 진태경 | undead ally to human companion | Jin Taekyung | imperious-familiar | The Skeleton King addresses Jin with familiar, self-important concern while delivering food. |
+| 진태경 | 최 팀장님 | allied Hunter to intelligence Team Leader | Team Leader Choi | polite and respectful | Jin addresses Team Leader Choi during the intelligence briefing. |
+| 최 팀장 | 진태경 | intelligence Team Leader to allied Hunter | Jin Taekyung | polite and professional | Choi addresses Jin formally while discussing responsibility and the investigation. |
