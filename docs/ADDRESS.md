@@ -1424,3 +1424,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 동천마군 | 천살 | summoner_to_assassin | Heaven's Slaughter | controlled, familiar command | The Eastern Heaven Demon Lord calls him out as a concealed last resort. |
 | 동천마군 | 진태경 | enemy recognizing the spear wielder | Jin Taekyung | shouted, informal | The Demon Lord cries Taekyung's name after identifying him as the spear's owner. |
 | 계야부 | 문경 | former Salcheonmun associate | Mungyeong | informal | Asks whether Mungyeong is still the same. |
+| 황제 | 백연 | Emperor to the imperial court’s foremost military commander and trusted comrade | Baek Yeon | Direct and familiar; framed as a request rather than an order | The Emperor asks Baek Yeon to sound the war drum. |
