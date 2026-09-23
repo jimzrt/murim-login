@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Jin-ho had tried to stop me",
+      "defect": "The current copy omits the explicit address and relationship marker “hyung” from 진호 형.",
+      "id": "F01",
+      "rationale": "형 identifies Jin-ho as the narrator’s older male friend and is an established rendering preserved by the baseline and glossary context. The omission weakens the source’s hierarchy and continuity detail.",
+      "replacement": "Jin-ho hyung had tried to stop me",
+      "severity": "minor",
+      "source": "Source line 153"
+    },
+    {
+      "confidence": 0.97,
+      "current": "toward Jin-ho and thought of the women who had now become memories",
+      "defect": "The current copy again drops the explicit “hyung” in 진호 형에게.",
+      "id": "F02",
+      "rationale": "The Korean explicitly retains the older-brother address here, and the accepted baseline renders it as “Jin-ho hyung.”",
+      "replacement": "toward Jin-ho hyung and thought of the women who had now become memories",
+      "severity": "minor",
+      "source": "Source line 171"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but it drops the established older-brother address for Jin-ho in two places, weakening an explicit relationship detail preserved in the baseline.",
+  "version": 1
+}

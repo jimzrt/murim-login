@@ -34,11 +34,11 @@ Its enormous body writhed in excruciating pain. At the same time, a familiar Sys
 
 > **System**
 >
-> - **Lv. ??? Mutated Water God Dragon** is overwhelmed by pain and rage it has never experienced before!
+> - **Lv. ??? Mutated Water God Dragon** is overwhelmed by pain and rage unlike anything it has ever experienced!
 >
-> - Enters **Berserk** Status!
+> - The target has entered the **Berserk** state!
 >
-> - Due to **Berserk**, all of the target’s stats increase! However, because it has momentarily lost its reason, its judgment in combat is clouded!
+> - Due to **Berserk**, all of the target’s stats have increased! However, its momentary loss of reason has clouded its judgment in combat!
 
 “…Huh?”
 
@@ -46,11 +46,11 @@ The moment I heard the System notification, I nearly lost my own reason.
 
 *Damn it. What the hell is this Berserk bullshit?*
 
-Do your damn job properly, System. It was already a monster. If it got even stronger, how was I supposed to make a living?
+Do your damn job properly, System. It was already a monster. If it got even stronger, how the hell was I supposed to survive?
 
-But the System had already activated, and the water was already spilled.
+But the System had already activated, and there was no undoing it.
 
-The Water God Dragon’s only remaining eye turned completely bloodred, and its Berserk Status began in earnest.
+The Water God Dragon’s only remaining eye turned completely blood-red as it went fully berserk.
 
 —Kyaaaaaaaaaow!
 
@@ -74,7 +74,7 @@ Once a monster that enormous began rampaging like a mad thing, nothing could sto
 
 *Kwaang! Kwang! Kwagwagwagwang!*
 
-It repeatedly smashed its head into the cliff and the river, lashed out with its tail, and sometimes flapped its entire body like a fish caught on a hook.
+It smashed its head into the cliff and the water without pause, lashed out with its tail, and sometimes thrashed its entire body like a fish caught on a hook.
 
 Every movement devastated the surrounding area, sending countless fragments of rock and blasts of wind crashing down on me.
 
@@ -150,7 +150,7 @@ After shattering bone and slicing through flesh, the blade withdrew and shot for
 
 *Huh. This is actually useful at a time like this.*
 
-My physical abilities, which could be called superhuman, certainly played a part. But the wrist snap I had trained through the USB—a treasure of humanity—was enough to make even a Peak sword master yield a move.
+My physical abilities, which could be called superhuman, certainly played a part. But the wrist snap I had honed through the USB—a treasure of humanity—was enough to make even a Peak swordsman admit defeat.
 
 *Ah. So this is All Streams Returning to the Source…*
 
@@ -208,7 +208,7 @@ But from where I was, there was nothing funny about it.
 
 No matter how enormous the Mutated Water God Dragon’s eye was, the space was far too narrow for me to avoid dozens of whiskers.
 
-Even though I twisted my body as much as possible, the streaks of light moved with the same cunning subtlety as the black-wood fishing rod, slipping past my Fire Dragon Armor and slicing into my bare flesh.
+Even though I twisted my body as far as it would go, the streaks of light snaked around as deftly as the Dongting Fisherman’s black-wood fishing rod had, slipping past my Fire Dragon Armor and slicing into my bare flesh.
 
 *Puhwak!*
 
@@ -232,7 +232,7 @@ The silver whiskers, each possessing terrifying cutting power, missed me by a ha
 
 Perhaps it was that sense of crisis that made me hesitate.
 
-While I hesitated, a spear of light, twisted together like a rope into the shape of a spearhead, flew toward my face.
+In that instant, dozens of strands twisted together like a rope, forming a spear of light that hurtled toward my face.
 
 *Shwing!*
 
@@ -242,7 +242,7 @@ It was unbelievably fast.
 
 In the slowed-down world, I stared wide-eyed at the streak of light flying toward me with a sharp sound as it tore through the air.
 
-Countless possibilities and thoughts flashed through my mind.
+Countless possibilities raced through my mind.
 
 *If I pull out White Flame right now and swing it… No. It’s already too late. And I might lose my balance before then.*
 
@@ -252,9 +252,9 @@ If I pulled out White Flame, which was practically acting as a support, I would 
 
 That would be the end.
 
-*There has to be a better way. There has to be some better way…*
+*There has to be a better way. There has to be…*
 
-But the time I had been given amounted to no more than a fleeting instant, and the short sword I swung in haste was helplessly knocked away the moment it collided with the streak of light.
+But I had only a fleeting instant to act. The short sword I swung in desperation was helplessly knocked away the moment it collided with the streak of light.
 
 No—it shattered into hundreds of fragments.
 
@@ -268,15 +268,15 @@ With that much energy gathered together, there was no way the traitorous sword t
 
 *Whoom!*
 
-*Am I going to get hit like this?*
+*Is this how I go down?*
 
-I stared blankly at the destructive force erasing the space between us and rushing toward my face.
+I stared blankly at the destructive force erasing the space before it as it rushed toward me.
 
 What moved me was something close to pure instinct.
 
 *Fwoosh—Kwaddeudeuk!*
 
-Just as the streak of light was about to pierce through my chest, I found myself gripping it with a hand wreathed in blue-white flames.
+Just as the streak of light was about to pierce my chest, I found myself gripping it with a hand wreathed in blue-white flames.
 
 It was neither Flame Divine Palm nor Flame-Extinguishing Divine Fist.
 
@@ -288,7 +288,7 @@ It did not take long for the result of that clash to reveal itself.
 
 Two powerful energies collided, filling my vision with a blinding flash.
 
-And beyond that dazzling radiance, I could see my hand hanging in tatters like a rag and the streak of light, its thickness reduced ever so slightly.
+Beyond that dazzling radiance, I could see my hand torn to ribbons and the streak of light, its thickness reduced ever so slightly.
 
 There was no question who held the advantage.
 
@@ -300,7 +300,7 @@ But I could not compare with the bastard, a spiritual creature that had accumula
 
 *Kwa-deu-deuk!*
 
-Even this grueling contest of strength was slowly reaching its limit.
+I was slowly reaching my limit in this grueling contest of strength.
 
 I gritted my teeth as pain tore through my hand.
 
@@ -342,7 +342,7 @@ My Strength was high enough to knead steel like dough. What was pulling out a fe
 
 No matter how enormous a monster the size of an aircraft carrier was, everything had its limits.
 
-Unlike its scales and bones, which boasted tremendous durability, its hair roots were apparently weak enough for my Strength to pull out.
+Unlike its scales and bones, which boasted tremendous durability, its roots were apparently weak enough for my Strength to tear them out.
 
 *So this is how it works.*
 
@@ -352,7 +352,7 @@ Until now, I had thought only about dodging and cutting.
 
 It had never occurred to me to tear the whiskers out.
 
-With that great enlightenment, I retrieved White Flame and stepped forward.
+With that great enlightenment, I yanked White Flame free and pushed off.
 
 *Shwaaaaaaaaaak!*
 

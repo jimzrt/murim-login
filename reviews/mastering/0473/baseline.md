@@ -20,7 +20,7 @@ Its head was so enormous that even after I drove White Flame in as far as it wou
 
 On top of that, the bones and flesh within were absurdly tough.
 
-I was still reeling from resistance far beyond anything I had expected when the Mutated Water God Dragon let out a scream of agony.
+I was still reeling from the resistance that far exceeded my expectations when the Mutated Water God Dragon let out a scream of agony.
 
 —Kraaaaaaaaaah!
 
@@ -28,7 +28,7 @@ I had failed to finish it with my decisive strike, but that did not mean I had f
 
 The Scorching Yang Qi carried by the spearhead had melted one of its eyes.
 
-Its enormous body writhed in excruciating pain. At the same time, a familiar System notification pierced my ears.
+Its enormous body writhed in horrible pain. At the same time, a familiar System notification pierced my ears.
 
 *Ding.*
 
@@ -40,7 +40,7 @@ Its enormous body writhed in excruciating pain. At the same time, a familiar Sys
 >
 > - Due to **Berserk**, all of the target’s stats increase! However, because it has momentarily lost its reason, its judgment in combat is clouded!
 
-“…Huh?”
+“... Huh?”
 
 The moment I heard the System notification, I nearly lost my own reason.
 
@@ -54,21 +54,21 @@ The Water God Dragon’s only remaining eye turned completely bloodred, and its 
 
 —Kyaaaaaaaaaow!
 
-A roar shook heaven and earth, and an enormous gust of wind slammed into my entire body.
+Along with a roar that shook heaven and earth, an enormous gust of wind slammed into my entire body.
 
-Before I could even blink, a cliff rushed right up to my face.
+Before I could even blink, I saw a cliff rush right up to my face.
 
 *Oh. I’m fucked.*
 
 *Kwaang!*
 
-A tremendous shock wave crashed over me with a roar that seemed to split the sky apart. My vision blurred, and my eyes lost focus.
+A tremendous shock wave crashed over my entire body with a roar that seemed to split the sky apart. My vision blurred, and my eyes lost focus.
 
-The Water God Dragon had slammed its head into the cliff with tens of thousands—perhaps hundreds of thousands—of *geun* of force, but it did not stop there.
+The Water God Dragon slammed its head into the cliff with tens of thousands—perhaps hundreds of thousands—of *geun* of force, but it did not stop there.
 
 *Whoooooosh!*
 
-The length of its torso exposed above the water alone was more than thirty *jang*. Counting the portion still submerged, it was comparable in size to a modern aircraft carrier.
+The length of its torso exposed above the surface of the water alone was more than thirty *jang*. If I counted the part hidden beneath the water, it was comparable in size to a modern aircraft carrier.
 
 Once a monster that enormous began rampaging like a mad thing, nothing could stop it.
 
@@ -76,25 +76,27 @@ Once a monster that enormous began rampaging like a mad thing, nothing could sto
 
 It repeatedly smashed its head into the cliff and the river, lashed out with its tail, and sometimes flapped its entire body like a fish caught on a hook.
 
-Every movement devastated the surrounding area, sending countless fragments of rock and blasts of wind crashing down on me.
+Every movement reduced the surrounding area to a wasteland, and countless fragments of rock and blasts of wind came crashing down on me.
 
 Just like now.
 
 *Ppeok!*
 
-“…Hng!”
+“... Hng!”
 
-Damn it. Of all places, my back had slammed into a sharp, jutting rock.
+Damn it. Of all places, my back had slammed into a sharply jutting rock.
 
-Searing pain raced up my spine, but I gritted my teeth and swallowed my groan.
+A searing pain raced up my spine. But I gritted my teeth and held back my groan.
 
-This was the Water God Dragon’s desperate attempt to throw me off. If I fell now, it might counterattack instead.
+This was the Water God Dragon’s desperate struggle to throw me off.
 
-I tightened my grip on White Flame, still driven deep into the bastard’s eye, and fought to keep my balance as its enormous body bucked wildly beneath me.
+If I fell now, it might counterattack instead.
 
-“You… fucking bastard!”
+I tightened my grip on White Flame, driven deep into the bastard’s eye, and steadied the center of my body as it bucked wildly with the enormous body’s movements.
 
-If it thought something this pathetic would throw me off, it had another thing coming.
+“You… you fucking bastard!”
+
+If it thought I would be thrown off by something this pathetic, it was gravely mistaken.
 
 I wrapped one hand tightly around the spear shaft and grasped at something invisible with the other.
 
@@ -110,29 +112,29 @@ I had a magical command that only I could use.
 
 The instant I gave the command, the hilt of a sharp short sword appeared in my hand.
 
-The only sword technique I had ever learned was the basic swordsmanship taught at the Hunter training center.
+The only sword technique I had learned was the basic swordsmanship taught at the Hunter training center.
 
 But in a situation like this, who cared about sword technique?
 
-Faster than anyone else, different from everyone else. It was time to become a sashimi master, working to a whole new rhythm atop his cutting board.
+Faster than anyone else, different from everyone else. This was the moment to become a sashimi master riding a different rhythm on the cutting board.
 
 “From now on, your name is live-fish sashimi. Or maybe bone-in sashimi.”[^1]
 
-I made the solemn declaration and drove the short sword, its blade wrapped in blue-white Scorching Yang Qi, straight into its flesh.
+I made the solemn declaration and drove the blade of the short sword, wrapped in blue-white Scorching Yang Qi, straight into it.
 
 *Puk!*
 
-The blade was too short to stab very deeply, but the creature’s reaction made it clear that it hurt.
+The sword was too short to stab very deeply, but I definitely felt the signal of pain.
 
-Its firm, pale flesh split apart as though consumed by fire, and dark-blue blood burst out.
+Its firm, pale flesh split open as though it were burning, and dark-blue blood burst out.
 
-“You’re pink on the inside? Doesn’t suit you, asshole.”
+“You’ve got pink flesh, of all things, you bastard.”
 
 —Krrrk!
 
-A groan burst from the creature’s maw, and its body faltered for a moment.
+A groan burst from the creature’s maw, and its body stopped for a moment.
 
-I did not miss the opening. I swung the short sword again.
+I did not miss the opening and swung the short sword again.
 
 *Schk! Puhuk!*
 
@@ -144,9 +146,11 @@ I did not miss the opening. I swung the short sword again.
 
 Sword technique? There was no such thing.
 
-I simply hacked and stabbed wherever my hand went and wherever my eyes landed.
+I simply cut and stabbed wherever my hands moved and wherever my eyes saw.
 
-After shattering bone and slicing through flesh, the blade withdrew and shot forward again faster than a flash of light. Each time it did, the creature’s screams and thrashing grew more violent.
+The speed at which the blade emerged after crushing and splitting through bone and flesh, then shot forward again, was faster than a flash of light.
+
+Each time it did, the creature’s screams and thrashing grew more violent.
 
 *Huh. This is actually useful at a time like this.*
 
@@ -156,11 +160,11 @@ My physical abilities, which could be called superhuman, certainly played a part
 
 When had it been?
 
-Shortly after I attained sagehood, I had decided to destroy the USB, and Jin-ho had tried to stop me.
+Just after I became a Sage, Jin-ho hyung had tried to stop me when I decided to destroy the USB.
 
 His words flashed through my mind.
 
-*Taekyung, remember the words left behind by our ancient ancestors. A ghost who dies after getting one off has a healthy glow. Getting one off is always worth it.*
+*Taekyung, remember the words left behind by our ancient ancestors. A ghost that dies after getting one in has a beautiful complexion. It’s getting one in that counts.*
 
 *…Which ancestor said that?*
 
@@ -168,15 +172,15 @@ His words flashed through my mind.
 
 *Is he insane?*
 
-What did he mean, getting one off? And what was this nonsense about a healthy glow?
+What did he mean, getting one in? And what did he mean, a beautiful complexion?
 
-Back then, I had nearly taken a swing at him.
+Back then, I had nearly hit him.
 
-But looking back now, those words were unquestionably the greatest saying since the founding of Korea.
+But looking back now, those words were without question the greatest saying since the founding of Korea.
 
-I felt profound gratitude toward Jin-ho and thought of the women who had now become memories.
+I felt profound gratitude toward Jin-ho hyung and thought of the women who had now become memories.
 
-*Thank you, Uehara. I love you, dutiful daughter of the mapo tofu restaurant.*
+*Thank you, Uehara. I love you, filial daughter of the mapo tofu restaurant.*
 
 *Schk! Puh-puh-puh-puh-puhuk!*
 
@@ -184,25 +188,25 @@ I felt profound gratitude toward Jin-ho and thought of the women who had now bec
 
 Ah, what a *sugoi* scream.
 
-My gratitude-filled pro-Japanese sword technique gouged into the gaping pupil and drove deeper and deeper inside.
+The pro-Japanese sword technique filled with my gratitude gouged into the gaping pupil and drove deeper and deeper inside.
 
-The Mutated Water God Dragon had no choice but to stop attacking its other enemies far below on the ground.
+The Mutated Water God Dragon had no choice but to stop attacking the other enemies far below on the ground.
 
 *Whoooooosh—Kwaang!*
 
 I could not see what had happened, but I could tell from the sound.
 
-As the enormous body convulsed in pain, the tail that had been crashing down toward the ground struck somewhere completely different.
+As the enormous body shook in pain, the tail that had been coming down toward the ground had struck somewhere completely different.
 
-Then, amid the rising dirt and spray, a streak of silver light changed targets and flew toward me.
+Then, amid the rising dirt and spray, a streak of silver light flew toward me after changing targets.
 
 *Chiririririk!*
 
 From the outside, it must have been a bizarre sight.
 
-The monster was using its own whiskers to gouge at its melted eye.
+A monster was using its own whiskers to gouge at its melted eye.
 
-But from where I was, there was nothing funny about it.
+But from my position, there was nothing funny about it.
 
 *Damn it.*
 
@@ -214,9 +218,9 @@ Even though I twisted my body as much as possible, the streaks of light moved wi
 
 “Ghk!”
 
-Red blood sprayed out, and searing pain flared all over me.
+Red blood sprayed out, and searing pain spread through every part of my body.
 
-I had circulated my internal energy as I dodged to protect myself as much as possible, which was the only reason the damage ended there.
+I had managed to protect myself by circulating my internal energy at the same time as I dodged, so this was all that happened.
 
 If I had been even slightly slower, one of my limbs might have been severed.
 
@@ -226,17 +230,17 @@ Dozens of streaks of light flew toward me again.
 
 I endured the rapidly spreading pain and twisted my body.
 
-The silver whiskers, each possessing terrifying cutting power, missed me by a hair’s breadth. A chill ran down my spine.
+When the silver whiskers, which possessed terrifying cutting power, missed by less than the width of a hair, a chill ran down my spine.
 
 *The space is too narrow. I’ll be cut to pieces if this continues.*
 
-Perhaps it was that sense of crisis that made me hesitate.
+Perhaps it was because of that sense of crisis.
 
 While I hesitated, a spear of light, twisted together like a rope into the shape of a spearhead, flew toward my face.
 
 *Shwing!*
 
-“…!”
+“...!”
 
 It was unbelievably fast.
 
@@ -248,7 +252,7 @@ Countless possibilities and thoughts flashed through my mind.
 
 Even now, the bastard’s head was shaking like mad.
 
-If I pulled out White Flame, which was practically acting as a support, I would lose my balance for a split second.
+If I pulled out White Flame, which was practically acting as a support, I would lose my balance for just an instant.
 
 That would be the end.
 
@@ -272,7 +276,7 @@ With that much energy gathered together, there was no way the traitorous sword t
 
 I stared blankly at the destructive force erasing the space between us and rushing toward my face.
 
-What moved me was something close to pure instinct.
+What moved me was something close to instinct itself.
 
 *Fwoosh—Kwaddeudeuk!*
 
@@ -280,9 +284,9 @@ Just as the streak of light was about to pierce through my chest, I found myself
 
 It was neither Flame Divine Palm nor Flame-Extinguishing Divine Fist.
 
-It was nothing more than a crude contest of strength. I had dragged up every last trace of energy in my body and thrown it against the attack.
+It was nothing more than a crude contest of strength, in which I dragged up every ounce of energy in my entire body and forced it against the attack.
 
-It did not take long for the result of that clash to reveal itself.
+The result of that clash did not take long to reveal itself.
 
 *Pajik—Puhwak!*
 
@@ -292,21 +296,21 @@ And beyond that dazzling radiance, I could see my hand hanging in tatters like a
 
 There was no question who held the advantage.
 
-*Damn it. The amount of energy inside us isn’t even comparable.*
+*Damn it. The amount of energy we possess is on completely different levels.*
 
 I had accumulated a tremendous amount of internal energy through the System’s accelerated growth.
 
-But I could not compare with the bastard, a spiritual creature that had accumulated qi for hundreds of years.
+But I could not compare with the bastard, which had accumulated qi for hundreds of years as a spirit beast.
 
 *Kwa-deu-deuk!*
 
 Even this grueling contest of strength was slowly reaching its limit.
 
-I gritted my teeth as pain tore through my hand.
+I gritted my teeth as pain traveled through my hand.
 
 “You live-fish-sashimi bastard!”
 
-I could not let it end here.
+I could not end things here.
 
 I summoned every last ounce of strength I possessed, twisted my body, and yanked hard on the creature’s whiskers as though executing a shoulder throw.
 
@@ -316,7 +320,7 @@ But even if it was, I had to try—
 
 *Kwadeudeudeudeuk—Ppok!*
 
-“…Huh?”
+“... Huh?”
 
 —Krrk?
 
@@ -330,7 +334,7 @@ In the slowed-down world, dozens of whiskers had been torn out by the roots and 
 
 Countless thoughts flashed through my mind.
 
-Could they really just come out like that? Were its roots weaker than the whiskers themselves? No, but even so, could this really happen…?
+Was it really okay for them to come out this easily? Were its roots weaker than its hair? No, but even so, could this really happen…?
 
 At last, I reached one conclusion.
 
@@ -338,7 +342,7 @@ At last, I reached one conclusion.
 
 When I thought about it, this was entirely possible.
 
-My Strength was high enough to knead steel like dough. What was pulling out a few whiskers compared to that?
+I had enough muscle to knead steel like dough. What was pulling out a few whiskers compared to that?
 
 No matter how enormous a monster the size of an aircraft carrier was, everything had its limits.
 
@@ -346,9 +350,9 @@ Unlike its scales and bones, which boasted tremendous durability, its hair roots
 
 *So this is how it works.*
 
-This was something only I could do, with my superhuman Strength.
+This was something only I could do, with my strength worthy of being called superhuman.
 
-Until now, I had thought only about dodging and cutting.
+Until now, I had only thought about dodging and cutting.
 
 It had never occurred to me to tear the whiskers out.
 
@@ -356,7 +360,7 @@ With that great enlightenment, I retrieved White Flame and stepped forward.
 
 *Shwaaaaaaaaaak!*
 
-As I emerged from the pupil, I saw the creature’s enormous body frozen stiff in confusion and its remaining eye blinking rapidly.
+When I emerged from the pupil, I saw the creature’s enormous body frozen stiff in confusion and its eye blinking rapidly.
 
 “You bastard…”
 
