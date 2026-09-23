@@ -1247,3 +1247,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 킹 | allied companion | Skeleton King; you | playful-casual | Jin comments on the Skeleton King's fear and lightning-rod tactic, then says they can finally fight together. |
 | 스켈레톤 킹 | 진태경 | allied companion | you | casual and self-defensive | The Skeleton King responds to Jin's recognition of his improvised strategy. |
 | 스켈레톤 킹 | 진태경 | ally addressing a fellow combatant | human | urgent-commanding | The Skeleton King urgently tells Jin to get out of the way as Leviathan charges. |
+| 진태경 | 스켈레톤 킹 | allied human Hunter to allied undead king | you | casual and familiar | Jin asks the Skeleton King whether he will keep Leviathan alive after asking Choi the same question. |
+| 스켈레톤 킹 | 진태경 | allied undead king to allied human Hunter | you | curt, familiar, and mocking-casual | The Skeleton King dismisses Jin's suggestion that Leviathan might be spared. |
+| 스켈레톤 킹 | 최민우 | allied undead king to allied team leader | Team Leader Choi | imperative and mocking-casual | The Skeleton King tells Choi to silence the cheering sailors and steer the carrier quietly. |

@@ -2247,3 +2247,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대치동 | **Daechi-dong** | Seoul neighborhood referenced for its elite cram-school instructors. |
 | 워터 볼 | **Water Ball** | Mage-named water attack spell. |
 | 본 바인딩 | **Bone Binding** | Bone-based restraining technique used by the Skeleton King. |
+| 야마모토 | **Yamamoto** | Japanese S-rank Hunter named in post-Leviathan media coverage. |
