@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Through his blurred vision, he saw a spearhead flash through the air and graze the neck of a middle-aged man.",
+      "defect": "“Graze” describes a glancing touch, but the next lines show the man’s head being severed.",
+      "id": "C01",
+      "rationale": "The action should account for the body and severed head that fall immediately afterward.",
+      "replacement": "Through his blurred vision, he saw a spearhead flash through the air and slice through the neck of a middle-aged man.",
+      "severity": "major",
+      "source": "Chapter 784, Michael’s view of the decapitation"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Michael Silbert looked at Jin Taekyung. Or rather, Jin Taekyung looked at Michael Silbert.\n\nAt him, with black eyes swallowed by absolute darkness—not the gray of before, not even the whites of his eyes remaining.\n\nAnd…… at the monster spreading enormous wings made of magical power.",
+      "defect": "The shifting subject makes it unclear whose eyes have turned black, obscuring the description of Michael’s transformation.",
+      "id": "C02",
+      "rationale": "This keeps Jin as the observer and makes clear that the changed eyes and wings belong to Michael.",
+      "replacement": "Michael Silbert looked at Jin Taekyung. Jin Taekyung was looking back—at Michael’s eyes, now swallowed by absolute darkness, with no trace of gray or even white left.\n\nAnd at the monster spreading enormous wings of magical power.",
+      "severity": "major",
+      "source": "Chapter 784, Michael’s transformation seen by Jin"
+    }
+  ],
+  "summary": "The packet is broadly consistent in voice and terminology. Two action descriptions in Chapter 784 need clarification.",
+  "version": 1
+}

@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "With a sharp, startled gasp, the two barely evaded my attack and landed on either side of me.",
+      "defect": "The Hunters land in front of and behind Jin, not to his left and right.",
+      "id": "F01",
+      "rationale": "내 앞뒤로 specifies positions before and behind the narrator.",
+      "replacement": "With a sharp, startled gasp, the two barely evaded my attack and landed in front of and behind me.",
+      "severity": "critical",
+      "source": "흡, 하고 헛숨을 들이키는 소리와 함께 아슬아슬하게 공격을 피해 낸 두 사람이 내 앞뒤로 내려앉았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He’d covered up the murder of a powerful rival by disguising it as an accident.",
+      "defect": "The draft says he covered up a murder; the source says he eliminated the rival and made the death look accidental.",
+      "id": "F02",
+      "rationale": "제거하고 is the act of eliminating the rival, while 사고사로 위장해 describes how that death was disguised.",
+      "replacement": "He’d eliminated a powerful rival and made it look like an accidental death.",
+      "severity": "critical",
+      "source": "강력한 경쟁자를 사고사로 위장해 제거하고"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even with death before her, she’d managed to slip a dagger through the gap in her broken armor. Her back arched like a bow.",
+      "defect": "The draft makes the gap part of the woman’s armor and leaves out that she drives the dagger into her opponent.",
+      "id": "F03",
+      "rationale": "박아 넣은 describes her thrust into the armor gap; the surrounding exchange places her against Jin’s spear.",
+      "replacement": "Even on the brink of death, she drove a dagger into a gap in his damaged armor. Her back arched like a bow.",
+      "severity": "critical",
+      "source": "죽음 앞에서도 한 자루 비수를 부서진 갑옷 틈새로 박아 넣은 그녀의 등줄기가 활처럼 휘었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Before the corpse crumpled like a rotten log, the reflection of a young man standing tall as an iron tower entered Michael Silbert’s eyes.",
+      "defect": "The draft turns ‘in front of the collapsed corpse’ into ‘before the corpse collapsed,’ changing a location into a sequence of events.",
+      "id": "F04",
+      "rationale": "시신 앞에 locates the young man before the already-collapsed corpse.",
+      "replacement": "In front of the corpse that had crumpled like a rotten log stood a young man, tall as an iron tower. Michael Silbert saw him.",
+      "severity": "critical",
+      "source": "썩은 통나무처럼 허물어진 시신 앞에, 철탑처럼 우뚝 선 청년의 모습이 미카엘 실베르트의 눈동자에 비쳤다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "A second Lee Jungryong. A second Go Jun. A second Michael Silbert.",
+      "defect": "The draft omits that Jin sees their counterparts standing before him, weakening the immediate identification of the Hunters he is confronting.",
+      "id": "F05",
+      "rationale": "눈앞에 있었다 makes the comparison immediate and applies it to the people present in the scene.",
+      "replacement": "Right before my eyes stood another Lee Jungryong, another Go Jun, another Michael Silbert.",
+      "severity": "major",
+      "source": "제2의 이정룡이, 석고준이, 미카엘 실베르트가 눈앞에 있었다."
+    }
+  ],
+  "summary": "Four actionable fidelity findings: an altered killing, two changed spatial actions, and one omitted comparison.",
+  "version": 1
+}

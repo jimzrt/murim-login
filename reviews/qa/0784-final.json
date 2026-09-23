@@ -1,0 +1,47 @@
+{
+  "chapter": 784,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.033,
+    "source_characters": 5529,
+    "source_paragraphs": 141,
+    "translation_characters": 11240,
+    "translation_paragraphs": 140
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "황하",
+        "preferred": "Yellow River"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "이전",
+        "preferred": "Two Halls"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
