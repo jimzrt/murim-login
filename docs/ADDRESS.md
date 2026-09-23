@@ -1200,3 +1200,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 후긴 | guild authority to Odin Guild messenger and adversary | Mr. Huginn | formal and controlled | Team Leader Choi uses a restrained warning to stop Huginn from escalating. |
 | 진태경 | 최 팀장님 | younger allied Hunter to senior team leader and official associate | Team Leader Choi | casual-polite | Jin addresses Team Leader Choi while discussing the dead Wu family and proposing a trip to Paris. |
 | 최 팀장 | 진태경 | team leader and official associate to celebrated allied Hunter | Mr. Jin Taekyung | formal-polite | Team Leader Choi consistently addresses Jin as 진태경 씨 during their breakfast conversation and briefing. |
+| 진태경 | 최 팀장 | close ally to senior team leader | Team Leader Choi | polite, familiar, and teasing | Jin directly addresses Choi as 최 팀장님 while discussing Odin Guild. |
+| 최 팀장 | 진태경 | senior ally advising Jin | Mr. Jin Taekyung | formal-polite with dry familiarity | Choi repeatedly addresses Jin as 진태경 씨 while challenging his plan. |
+| 스켈레톤 킹 | 진태경 | ally and nonhuman companion addressing Jin | treacherous human | informal and insulting | The Skeleton King addresses Jin as 간악한 인간 while testing whether he has been replaced by a doppelganger. |
