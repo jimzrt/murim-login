@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "*It wasn’t this big when I first saw it.*",
+      "defect": "The draft asserts that the estate grew in physical size. The source leaves what has changed open, then explains the family's reversal of fortune.",
+      "id": "F01",
+      "rationale": "저 정도까지는 아니었는데 does not specify that the land or estate was smaller.",
+      "replacement": "*It was nothing like this when I first saw it.*",
+      "severity": "critical",
+      "source": "‘처음 봤을 때만 해도 저 정도까지는 아니었는데.’"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The martial artists, supplied with fine weapons and elixirs, now had a vital essence in their eyes the coachman had never seen before.",
+      "defect": "Vital essence reads as life energy, while 正氣 here describes upright spirit or conviction visible in their eyes.",
+      "id": "F02",
+      "rationale": "The supplied characters 正氣 distinguish this use of 정기 from vital essence.",
+      "replacement": "The martial artists, supplied with fine weapons and elixirs, now had a righteous spirit in their eyes the coachman had never seen before.",
+      "severity": "major",
+      "source": "무인들의 눈동자는 전에 찾아볼 수 없던 정기(正氣)로 번뜩였다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Have you considered that one good whack from your wife might make everything go dark? And she’s not just Shanxi’s foremost beauty. She’s an outstanding woman who leads the Mount Heng Sword Sect. If you cross her the wrong way, you won’t walk away in one piece.”",
+      "defect": "The description loses the speaker's pointed observation that she leads the sect despite being a woman.",
+      "id": "F03",
+      "rationale": "여인의 몸으로 explicitly frames her leadership as exceptional in the speaker's eyes.",
+      "replacement": "“Have you considered that one good whack from your wife might make everything go dark? And calling her Shanxi’s foremost beauty hardly does her justice. She leads the Mount Heng Sword Sect despite being a woman—and she’s formidable. If you cross her the wrong way, you won’t walk away in one piece.”",
+      "severity": "major",
+      "source": "“자네 마누라한테 한 대 얻어맞으면 눈앞이 캄캄해질 건 생각 못 하나? 그리고 말이 좋아서 산서제일미지, 여인의 몸으로 항산검문(恒山劍門)을 이끄시는 출중한 분이야. 괜히 잘못 걸리는 날에는 뼈도 못 추릴 걸세.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That’s because the craftsmen Elder Jang brought with him are so good.”\n\n“Hey, don’t call him Elder Jang. The Jin Family of Taiyuan trusts him with important work. We ought to call him Master Jang Taebo now.”",
+      "defect": "Calling him “Elder Jang” already grants him respect, undermining the next speaker's correction of the casual “Old Man Jang.”",
+      "id": "F04",
+      "rationale": "The repeated 장 노인 is the form of address being rebuked; 장태보 어르신 is the respectful alternative.",
+      "replacement": "“That’s because the craftsmen Old Man Jang brought with him are so good.”\n\n“Hey, don’t call him Old Man Jang. The Jin Family of Taiyuan trusts him with important work. We ought to call him Master Jang Taebo now.”",
+      "severity": "major",
+      "source": "“그야 뭐, 장 노인이 데려온 장인들의 솜씨가 좀 좋아야지.”\n\n“예끼. 장 노인이 뭔가, 장 노인이. 태원진가에서도 믿고 중책을 맡기는 분이신데, 이제 장태보 어르신이라고 불러야지.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The entrance, once crowded with debt collectors demanding payment for the Third Young Master’s bar tabs,",
+      "defect": "“Bar tabs” invents a drinking-related source for the debts.",
+      "id": "F05",
+      "rationale": "외상값 means purchases made on credit; the passage does not specify a bar.",
+      "replacement": "The entrance, once crowded with debt collectors demanding payment for the reckless Third Young Master’s unpaid bills,",
+      "severity": "minor",
+      "source": "한때 망나니 삼 공자의 외상값을 요구하러 온 빚쟁이들로 붐볐던 문전은"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Then he set off toward his young master.",
+      "defect": "“Young master” obscures Hong Jin's fealty to the prince and can suggest a household employer's son.",
+      "id": "F06",
+      "rationale": "주군 denotes the lord to whom Hong Jin owes allegiance, here Prince Shangshan.",
+      "replacement": "Then he set off toward his young lord.",
+      "severity": "major",
+      "source": "그리고 자신의 어린 주군을 향해 걸음을 옮겼다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it invents an expansion of the estate and loses several distinctions in characterization and hierarchy.",
+  "version": 1
+}

@@ -2349,3 +2349,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 애향 | **Aehyang** | The City Lord’s favored concubine. |
 | 동방삭 | **Dongfang Shuo** | Long-lived figure invoked in the reference to 삼천갑자. |
 | 혈혼고 | **Blood Soul Gu** | Rare gu poison found deep in Nanman. |
+| 금의위 | **Embroidered Uniform Guard** | Imperial guard force mentioned by Hong Jin. |
+| 고현 | **Gohyeon** | Town mentioned as a source of farming tools. |
