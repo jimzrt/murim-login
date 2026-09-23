@@ -42,7 +42,7 @@ The Lower District Sect member who had survived the tragedy at Dongting Lake alo
 
 The owner of the hairpin in my hair was the one who had corrupted a benevolent imugi and stained Dongting Lake and the Yangtze with blood—the culprit behind every incident that had occurred in Hubei Province.
 
-*Why hadn’t I realized it? Where had the lies begun, and where had the truth ended?*
+*Why hadn’t I realized? How much had been lies, and how much truth?*
 
 *Gate. Magical power. Honglan. Dark Heaven.*
 
@@ -58,7 +58,7 @@ Thinking about it, the scene was easy to misread.
 
 My conversation with the Water God Dragon and the time I had spent inside the Memory Fragment had both taken place within an incredibly brief instant. To everyone else, I had been standing there perfectly fine before suddenly starting to act strangely.
 
-Jeok Cheongang’s furious bellow snapped me back to reality, and I shouted like a bolt of lightning.
+Jeok Cheongang’s furious roar snapped me back to my senses, and I shouted at once.
 
 “Old Master!”
 
@@ -66,7 +66,7 @@ Jeok Cheongang’s furious bellow snapped me back to reality, and I shouted like
 
 We could understand each other’s intentions with nothing more than a glance.
 
-The moment Jeok Cheongang recognized the emotion in my shout, an exclamation mark appeared in his eyes. At the same time, the fist he had been driving forward forcefully changed direction.
+The moment Jeok Cheongang caught the emotion in my voice, realization flashed through his eyes. At the same time, the fist hurtling forward changed direction.
 
 *Whoom, kwaaaaaang!*
 
@@ -86,7 +86,7 @@ If that attack had struck it, there would not even have been time for a final co
 
 “Gasp!”
 
-It was obvious that the mental intent the Water God Dragon had sent out had not reached me alone.
+The thought the Water God Dragon sent out had clearly reached more than just me.
 
 Jeok Cheongang sucked in a short breath and stepped back. Mungyeong and Cheongpung arrived immediately afterward, both looking as though they had seen a ghost.
 
@@ -94,7 +94,7 @@ Jeok Cheongang sucked in a short breath and stepped back. Mungyeong and Cheongpu
 
 “Uh, even Mimi can’t do anything like that.”
 
-……*Shlick.*
+…*Hiss.*
 
 Our reflections appeared in the Water God Dragon’s deep, clear eyes. Jeok Cheongang asked in a trembling voice,
 
@@ -104,11 +104,11 @@ Our reflections appeared in the Water God Dragon’s deep, clear eyes. Jeok Cheo
 
 *Grrr.*
 
-The Water God Dragon exhaled with difficulty and continued sending its mental intent.
+The Water God Dragon exhaled with difficulty and continued.
 
 —Before the end, I should thank you. Had you not intervened, I would have remained a hideous evil beast until my final breath…
 
-The mental intent that had rung clearly inside our minds gradually faded.
+The thought that had rung so clearly through our minds began to fade.
 
 The light was already draining from the Water God Dragon’s clear eyes.
 
@@ -126,11 +126,11 @@ Mungyeong’s neatly shaped brows twitched at the words that had seen straight t
 
 —Though I failed to ascend to the heavens, I cultivated for many long years. I saw every one of you here in my dreams.
 
-What exactly had been happening in the dreams the Water God Dragon claimed to have?
+What exactly had happened in the dreams the Water God Dragon spoke of?
 
 It was an imugi that had lived for five hundred years. Even now, with all its strength exhausted and death close at hand, it possessed a depth and mystery beyond anything I could fathom.
 
-As though gazing at something beyond human understanding, the Water God Dragon stared into the empty air over our shoulders and sent out its mental intent.
+As though gazing upon something no human could perceive, the Water God Dragon stared past our shoulders into empty space and sent out another thought.
 
 —Unfortunately, this is as far as I am permitted to go. Though I cannot speak of the heavenly patterns… yes, I suppose I may leave one gift behind before I depart.
 
@@ -176,9 +176,9 @@ It was an incredibly powerful crystal of qi.
 
 As all of us stared at it in awe—
 
-*Slither.*
+*Swish.*
 
-The crystal of energy slowly drifted through the air and stopped in front of me. At the same time, the Water God Dragon’s mental intent rang out.
+The crystal slowly drifted through the air and stopped in front of me. At the same time, the Water God Dragon’s thought rang through our minds.
 
 —This is my Origin Essence. Humans call it an inner core.
 
@@ -206,11 +206,11 @@ A faint smile lingered in its eyes as it gazed up at the clear sky.
 
 *Grrr.*
 
-Along with the fading mental intent, the final breath of the imugi that had failed to become a dragon escaped from its blood-soaked mouth.
+Along with its fading thought, the final breath of the imugi that had failed to become a dragon escaped its blood-soaked mouth.
 
 Then everything stopped, and silence descended.
 
-I reached out and closed the Water God Dragon’s eyes, which had grown cold and stiff.
+I reached out and closed the Water God Dragon’s cold, fixed eye.
 
 *You’ve worked hard.*
 
@@ -222,7 +222,7 @@ So at least in its final moment, it deserved the right to meet death on its own 
 
 Not as a sacrifice for someone else’s Level Up, but as a natural death.
 
-But there was one person—no, one bitch—who was the exception, no matter what.
+But there was one person—no, one bitch—for whom none of that mattered.
 
 *…Honglan.*
 
@@ -248,7 +248,7 @@ Every man with eyes had been stealing glances at her since before they boarded t
 
 “Good heavens. Even her laughter is beautiful.”
 
-When a middle-aged man in a military uniform muttered wistfully, the colleague beside him scolded him.
+A middle-aged man dressed as a government soldier muttered wistfully, and the colleague beside him clicked his tongue.
 
 “Your wife should have seen you just now.”
 
@@ -278,7 +278,7 @@ His fellow soldier solemnly declared,
 
 He was telling the truth. A military officer with striking, handsome features was already striding confidently toward the woman.
 
-“Young Lady. I assume something pleasant has happened?”
+“Young Lady. Has something pleasant happened?”
 
 Officer Song, who was in charge of the military vessel, flashed his white teeth in a broad grin.
 
@@ -298,7 +298,7 @@ Officer Song began to stammer without realizing it.
 
 “I-is, is that so?”
 
-At his flustered appearance, the woman—Honglan—covered her mouth and laughed.
+At his flustered response, the woman—Honglan—covered her mouth and laughed.
 
 Her eyes curved like half-moons, drawing anguished groans from the officers who had been stealing glances at her.
 
@@ -308,9 +308,9 @@ Officer Song glared at his subordinates, then spoke over the pounding of his hea
 
 “What a shame. If only I could share that pleasure with you, Young Lady…”
 
-Honglan smiled faintly at his deliberately trailing words.
+Honglan smiled at the deliberate way he trailed off.
 
-“I’m not sure. I’m hesitant to say anything careless in case I unsettle our Officer Song’s heart.”
+“I’m not sure. I’m hesitant to say anything careless in case I unsettle our dear Officer Song’s heart.”
 
 *Our dear Officer Song?*
 
@@ -322,11 +322,11 @@ Emboldened, Officer Song bellowed,
 
 “Oh my, how brave. Then I’ll let only you in on it, Officer Song. Bring your ear a little closer…”
 
-“Yes, yes!”
+“Yes, ma’am!”
 
 Officer Song leaned his ear toward Honglan, his heart pounding.
 
-Then her sweet, warm breath tickled his ear.
+Her sweet, warm breath tickled his ear.
 
 “The truth is, I used the imugi living in Dongting Lake to kill a great many people.”
 
@@ -338,9 +338,9 @@ Officer Song slowly lifted his head and stared blankly at Honglan.
 
 He had no idea what the woman before him was talking about, or what he had just heard.
 
-“Young Lady, what does that—”
+“Young Lady, what do you—”
 
-“It’s exactly what you heard. I believe you’ll understand me, Officer Song.”
+“I meant exactly what I said. I trust you’ll understand me, Officer Song.”
 
 For some reason, Honglan’s languid voice made Officer Song’s expression go hazy.
 

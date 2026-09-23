@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "it deserved the right to meet death on its own terms",
+      "defect": "“On its own terms” adds the implication that the Water God Dragon chose or controlled the conditions of its death. The source says it deserved to face death itself rather than be used as a leveling sacrifice, emphasizing a natural death rather than personal autonomy.",
+      "id": "F01",
+      "rationale": "스스로 죽음을 맞이할 권리 means having the right to meet death itself, in contrast with being made into a sacrifice for Level Up.",
+      "replacement": "it deserved the right to face its own death",
+      "severity": "minor",
+      "source": "Lines 223–227; P103"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Are you trying to jinx me before I’ve even started?",
+      "defect": "“Jinx” changes 초치다 from trying to spoil or dampen someone's excitement into trying to cause bad luck. That shifts the mechanism and weakens the exchange's joke.",
+      "id": "F02",
+      "rationale": "초치다 means to throw cold water on something or spoil the mood, not to curse or bring bad luck.",
+      "replacement": "Are you trying to ruin my mood before I’ve even started?",
+      "severity": "minor",
+      "source": "Lines 279–281; P130"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Our dear Officer Song?",
+      "defect": "“Dear” adds an affectionate endearment that is not present in the source and obscures the narrator's comic focus on Honglan's sudden use of “our” and the formal title “Officer Song.”",
+      "id": "F03",
+      "rationale": "The source repeats and questions the two notable terms separately: 우리? 송 군관님? The added “dear” changes the implication of Honglan's wording.",
+      "replacement": "*Our? Officer Song?*",
+      "severity": "minor",
+      "source": "Lines 319–323; P150"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with three minor fidelity defects involving an added implication, a changed joke mechanism, and an added term of endearment.",
+  "version": 1
+}
