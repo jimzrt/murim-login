@@ -1,0 +1,55 @@
+{
+  "summary": "The chapter is broadly faithful, but the assembled copy drops or alters several concrete details preserved by the Korean and the accepted baseline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 81–83",
+      "current": "the human had killed everyone who stood in his way",
+      "defect": "This omits that the people the human killed were his fellow humans, a relationship stated by 동족들 and preserved in the accepted baseline.",
+      "replacement": "the human had killed all his fellow humans who stood in his way",
+      "rationale": "동족들 identifies the people blocking him as his own kind; the current wording removes that detail.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 217",
+      "current": "The wide-ranging defensive magic installed for emergencies shattered under its immense power",
+      "defect": "The sentence no longer states that the wave’s power was magical power.",
+      "replacement": "The wide-ranging defensive magic installed for emergencies shattered under the immense magical power in the wave",
+      "rationale": "The source specifies that the wave, carrying immense magical power, broke the defensive magic. The accepted baseline also preserves this mechanism.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 235–247",
+      "current": "The human stepped into a pool of green blood and stared straight at it.",
+      "defect": "The assembled copy drops the image of sunlight shattering against the angled spearhead.",
+      "replacement": "The human stepped into a pool of green blood and stared straight at it. Sunlight shattered against the angled spearhead.",
+      "rationale": "The source explicitly describes the sunlight breaking across the spearhead before the creature groans at the dazzling light; the accepted baseline retains this image.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 235",
+      "current": "reducing some two hundred Mermen to pools of blood",
+      "defect": "“Pools” changes the source’s image of the Mermen becoming a handful of blood.",
+      "replacement": "reducing some two hundred Mermen to a handful of blood",
+      "rationale": "한 줌의 핏물 means a handful of blood, and the accepted baseline preserves that quantity and image.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Line 359",
+      "current": "The spearhead held upright plunged down, slicing through the fierce wind.",
+      "defect": "The assembled copy omits the compressed air bursting from the narrator’s foot.",
+      "replacement": "Compressed air burst from the tip of my foot. The spearhead held upright plunged down, slicing through the fierce wind.",
+      "rationale": "The source explicitly gives the foot-generated burst of compressed air immediately before the spear thrust.",
+      "confidence": 0.99
+    }
+  ]
+}

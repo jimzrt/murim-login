@@ -32,7 +32,7 @@ He looked ordinary. Smaller than a Merman, and nowhere near as beautiful as a Si
 
 Yet *the thing* knew instinctively: of everyone there, this was the only human who could kill it on his own.
 
-The other humans, however, were different.
+The other humans did not seem to realize that.
 
 “Mr. Dongseok, sorry, what did you just say?”
 
@@ -100,7 +100,7 @@ The answer could not have been clearer. Reborn as something new, *the thing* loo
 
 “…!”
 
-And that was the end.
+That was the end of him.
 
 *Crack! Crunch!*
 
@@ -186,7 +186,7 @@ At least until that happened.
 
 In an instant, flashes of light rained down from the sky without pause, reducing some two hundred Mermen to pools of blood.
 
-And then *the thing* noticed the presence of a human floating high above.
+Then *the thing* noticed a human high above.
 
 —Sky?
 
@@ -196,13 +196,13 @@ The question had barely formed when the human descended gently and landed.
 
 *Splash.*
 
-The human stepped into a pool of green blood and stared straight at it.
+Standing in a pool of green blood, the human stared straight at it. Sunlight shattered against the angled spearhead.
 
 —Guh…!
 
 *The thing* groaned at the painfully bright glare. Then it made its decision.
 
-—I. Will. Kill. You.
+—Kill. You.
 
 A savage red light flashed in the eyes on either side of its head. With a surge of immense magic power, dozens of legs struck the water.
 
@@ -220,7 +220,7 @@ Of course the wave that struck Gwangan Bridge hadn’t formed naturally.
 
 Soon after the Great Cataclysm, many structures had been rebuilt to combine the best of magic and science. Gwangan Bridge, one of Busan’s landmarks, was no exception.
 
-*But the fact that the powerful defensive magic on Gwangan Bridge was shattered by that wave……*
+*But if that wave broke the bridge’s powerful defensive magic…*
 
 The answer was clear. There was more than salt and seaweed in that water.
 
@@ -240,29 +240,29 @@ Dozens of tentacles came at me with a tremendous shriek of displaced air. Their 
 
 Who the hell said octopuses only had eight arms?
 
-Internally clicking my tongue at the greater-than-expected number, I circulated internal energy through my legs.
+I clicked my tongue at the number coming my way and sent internal energy into my legs.
 
 *Crack. Boom!*
 
 Spiderweb cracks raced across the hard ground, which burst apart beneath me. The recoil launched me between the Kraken’s enormous tentacles.
 
-An arc of White Flame slashed down like a flash of lightning.
+White Flame cut downward in a flash.
 
 *Slash!*
 
-Three or four tentacles as thick as logs were cleanly severed.
+Three or four tentacles as thick as logs fell away, cleanly severed. They were only the comparatively thin tips, but even an octopus could feel pain.
 
-The Kraken’s tentacle, which had been about to strike the section of Gwangan Bridge where I had stood only moments earlier, twitched and trembled before slapping against the surface of the water.
+The tentacles that had been about to strike the section of Gwangan Bridge where I’d stood twitched and slammed into the water instead.
 
 *Splash!*
 
-I had avoided the attack, but it was not over.
+I’d dodged the attack, but that didn’t solve the problem.
 
 *This is a bad place to fight.*
 
-Gwangan Bridge had already collapsed, almost split in two, but survivors were still scattered everywhere nearby.
+Gwangan Bridge had all but split in two, yet survivors were still scattered nearby. The screams behind me were proof enough.
 
-If I fought the Kraken here, there was a high chance of causing many unexpected casualties.
+If I fought the Kraken here, people could die without either of us even aiming at them.
 
 *At this rate…*
 
@@ -270,7 +270,7 @@ The battlefield, the surroundings, what I needed to do—there was only one answ
 
 *Step. Tap.*
 
-The tip of my foot gently touched empty air.
+My foot came down gently on empty air.
 
 **Stepping on Empty Air.** It consumed internal energy at a punishing rate, so I couldn’t keep it up for long. I had no intention of dragging this fight out anyway.
 
@@ -296,13 +296,13 @@ The Scorching Yang Qi carried by the Force burned the flesh even as it cut throu
 
 —Grrrrrrooooooar!
 
-Of all kinds of pain, burns were the most agonizing.
+Of all kinds of pain, burns were among the worst.
 
 I didn’t miss the moment it faltered.
 
 *Bang!*
 
-The spearhead held upright plunged down, slicing through the fierce wind.
+Compressed air burst beneath my foot. I drove my upright spearhead down through the rushing wind.
 
 At its tip was the face of a gigantic octopus.
 
