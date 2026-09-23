@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, but it adds a smile and loses two specific physical details from the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 17",
+      "current": "He answered with an easy smile.",
+      "defect": "The source describes him answering with a relaxed expression; it does not specify a smile.",
+      "replacement": "He answered with a relaxed expression.",
+      "rationale": "느긋한 표정 means a relaxed or unhurried expression, not necessarily a smile.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 13",
+      "current": "He had on suit pants with razor-sharp creases",
+      "defect": "The source explicitly says the suit pants have not a single wrinkle, a detail omitted here.",
+      "replacement": "He had on suit pants without a wrinkle, with razor-sharp creases",
+      "rationale": "주름 하나 없이 states that there is not one wrinkle; the accepted baseline preserved this detail.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 61",
+      "current": "I punched him in the face.",
+      "defect": "The source specifies a punch to the mouth, while “in the face” broadens the impact location.",
+      "replacement": "I punched him in the mouth.",
+      "rationale": "아구창을 처맞은 identifies the mouth as the target of the hit.",
+      "confidence": 0.88
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He answered with an easy smile.",
+      "defect": "The source describes him answering with a relaxed expression; it does not specify a smile.",
+      "id": "F01",
+      "rationale": "느긋한 표정 means a relaxed or unhurried expression, not necessarily a smile.",
+      "replacement": "He answered with a relaxed expression.",
+      "severity": "minor",
+      "source": "Korean line 17"
+    },
+    {
+      "confidence": 0.88,
+      "current": "I punched him in the face.",
+      "defect": "The source specifies a punch to the mouth, while “in the face” broadens the impact location.",
+      "id": "F03",
+      "rationale": "아구창을 처맞은 identifies the mouth as the target of the hit.",
+      "replacement": "I punched him in the mouth.",
+      "severity": "minor",
+      "source": "Korean line 61"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it adds a smile and loses two specific physical details from the source.",
+  "version": 1
+}

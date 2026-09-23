@@ -10,11 +10,11 @@ A vigorous round of applause rang out. At the same time, the voice of someone I�
 
 Shiny black dress shoes came toward me. The man wearing them had on suit pants with razor-sharp creases and a leather coat that reached his knees. He stopped in front of me.
 
-“Mr. Jin, I’ve heard a great deal about you…… but coming all the way here was worth it. You’re even more impressive than I expected.”
+“Mr. Jin, I’d heard about you, but… coming all this way was worth it. You’re more than I expected.”
 
 I had no idea what was going on, and it must have shown. He answered with an easy smile.
 
-“There’s no need to be so flustered. The time has simply come.”
+“There’s no need to be so surprised. The time has simply come.”
 
 “The time has come?”
 
@@ -22,11 +22,11 @@ I had no idea what was going on, and it must have shown. He answered with an eas
 
 “What?”
 
-“From this moment on, you’ve become part of a much greater world. You simply don’t know it yet.”
+“From this moment on, you’re part of a much greater world. You simply don’t know it yet.”
 
 “…!”
 
-A sharp current ran through my entire body. I let out a low groan and glared at the unwelcome guest.
+A sharp current ran through me. I let out a low groan and glared at the uninvited guest.
 
 “What the hell are you?”
 
@@ -66,7 +66,7 @@ I punched him in the face. The Skeleton King staggered like a drunk, and I follo
 
 This guy needed a beating.
 
-While some people were working their asses off day and night to build a bright future even in times like these, he had suddenly popped up dressed like a movie character.
+Some of us were working our asses off day and night to build a brighter future, even in times like these. Meanwhile, he’d shown up out of nowhere cosplaying a movie character.
 
 I’d wondered why he was wearing a leather coat all of a sudden.
 
@@ -80,7 +80,7 @@ The Skeleton King, who’d been getting pummeled nonstop, suddenly set his face 
 
 “I hate them three thousand.”
 
-“What the hell is wrong with you?”
+“You little—”
 
 “Wait! You’ve cracked a bone!”
 
@@ -132,7 +132,7 @@ While I was still at a loss for words, the Skeleton King lowered the collar of h
 
 I’d doubted my ears before. Now I doubted my eyes.
 
-Peeking proudly out from between the coat collars was none other than a cheap cross necklace.
+Displayed proudly between the folds of his coat was a cheap cross necklace.
 
 “This is the symbol of a noble king.”
 
@@ -148,7 +148,7 @@ His social media followers, whose numbers had grown exponentially, were proof of
 
 “…You’re taking a selfie right now? Want me to smash your phone?”
 
-“I bought it with my own money. A vile human has no right to say anything, so keep your mouth shut.”
+“I bought it with my own money. You have no right to complain, vile human. Be silent.”
 
 A monster who’d adapted to capitalism. Maybe that was the real monster.
 
@@ -162,7 +162,7 @@ Welcome to ten years of slavery.
 
 If the Skeleton King were a Hunter, he’d qualify for S-rank with room to spare. Yet Team Leader Choi had him working for a mid-level Hunter’s salary.
 
-Team Leader Choi’s cruelty made me want to give Hyuk Mujin’s balls a sharp tap.
+Choi was so ruthless I wanted to give Hyuk Mujin’s balls a sharp tap.
 
 “What’s that look for?”
 
@@ -216,7 +216,7 @@ He blinked at me, mouth hanging open.
 
 The Skeleton King was a Named Monster in every sense of the word.
 
-He had possessed powerful abilities even back when he was called a Warlord, but after his battle with the Arch Lich, he had evolved into an even more powerful being.
+He’d been powerful even back when he was called a Warlord, and his battle with the Arch Lich had made him stronger still.
 
 *An ordinary Named Monster wouldn’t stand a chance against him.*
 
@@ -232,7 +232,7 @@ The Skeleton King was an undead Lü Bu who could sweep a Gate by himself. There 
 
 He’d never come right out and announced what he was, but he went around advertising that he was born to be a monster.
 
-If I had taken him to the official Blue House press conference last time, he would have referred to President Baek Hanseong as a “human male.” Then the Liberation Army, led by the Lady of the House, would surely have risen up, waving Korean flags and demanding that they investigate the identity of that long-nosed bastard.
+If I’d taken him to that Blue House press conference, he would have called President Baek Hanseong a “human male.” Then the Liberation Army, with the Lady of the House as its commander, would have risen up waving Korean flags and demanding an investigation into that long-nosed bastard.
 
 But now…
 
@@ -266,7 +266,7 @@ His golden eyelids quivered. He looked at me with an expression I couldn’t qui
 
 “Oh, shit. Don’t say anything.”
 
-“But I have to say this.”
+“But I must say this.”
 
 “Don’t. Seriously. I hate this kind of mood.”
 
@@ -282,7 +282,7 @@ I could almost hear soft background music playing somewhere. I looked off toward
 
 Noble bump-and-grind, my ass.
 
-Give me back my emotions, you bastard.
+Give me back that moment, you bastard.
 
 “Please, vile human. I swear I’ll be back before midnight!”
 
@@ -296,13 +296,13 @@ Give me back my emotions, you bastard.
 
 “You crazy bastard. A club? What kind of trouble would you get into there?”
 
-Hearing that he had gone to a gay bar twice did make me feel a little sorry for him, but the Skeleton King still wasn’t socially developed enough for that.
+Hearing he’d been sent to a gay bar twice did soften me up a little, but the Skeleton King still wasn’t socialized enough for a club.
 
 This had nothing to do with the fact that I’d never been to one myself.
 
 …Really.
 
-“Why? How can this happen when I’m so handsome!”
+“Why? I’m so handsome!”
 
 As the Skeleton King howled in anguish, the smartphone in his hand vibrated.
 
@@ -332,7 +332,7 @@ I gave a quiet laugh and raised a hand instead of answering. He caught the hint 
 
 *Bang!*
 
-It did not open again from sunset until the following morning.
+The door slammed shut. It didn’t open again before sunset, or through the night that followed.
 
 And then…
 
@@ -352,13 +352,13 @@ When had it started? A drop of cold sweat that had run down the back of his neck
 
 “W-what did you just say?”
 
-He had the imposing build of a man whose age of seventy seemed impossible, along with the face of a middle-aged man. But the voice that slipped between his lips was as faint as that of someone standing on the brink of death.
+At seventy, he still had an imposing build and the face of a middle-aged man. But his voice was as faint as that of someone on the brink of death.
 
 What he’d just heard was that shocking.
 
-“Th-that is……”
+“Th-then…”
 
-Even remembering what he had heard made his vision swim. The old man barely pulled himself together and forced out his trembling voice.
+Merely recalling it made his vision swim. The old man struggled to collect himself and forced the words out.
 
 “You—you kidnapped our children?”
 
@@ -372,7 +372,7 @@ Across a table laden with an elaborate feast, Go Jun answered brightly and took 
 
 Juice from the rare beef ran down his angular jaw. His next words, added almost in passing, cut into the old man’s ears.
 
-“For now, at least.”
+“For now, that is.”
 
 “…!”
 
