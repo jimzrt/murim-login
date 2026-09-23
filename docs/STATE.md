@@ -1,32 +1,33 @@
 # Translation State
 
-- Last completed: 738
-- Next chapter: 739
-- Current block: 735–739 (4/5)
-- Latest translation: `translations/0738.md`
-- Latest summary: `summaries/beats/0738.md`
-- Safe profiles through: chapter 738
+- Last completed: 739
+- Next chapter: 740
+- Current block: 735–739 (5/5)
+- Latest translation: `translations/0739.md`
+- Latest summary: `summaries/beats/0739.md`
+- Safe profiles through: chapter 739
 
 ## Current Block
 
-- Within twenty-four hours of the Paris disaster, ten coordinated Monster Waves strike major cities and landmarks around the world, leaving governments, civilians, and Hunters in chaos. Odin Guild successfully suppresses five waves, and Michael Silbert publicly presents himself as a grieving hero while declaring that the attacks were deliberate terrorism.
-- Jin and Team Leader Choi realize that the attacks targeted crowded landmarks, major corporations, and especially the overseas branches of major Guilds in order to isolate Ares Guild. Meanwhile, a hidden Prophet confirms that ten fanatical warriors completed their missions and died, then orders the world to learn what caused the disaster.
+- The ten Monster Waves are revealed to have been coordinated terrorist attacks using bombs and unrefined A-rank Magic Gems near high-mana Gates. Michael Silbert releases Odin Guild footage, while media and online communities debate the attackers' origins, motives, and the scale of the catastrophe, which has killed thousands.
+- The Prophet broadcasts a threatening declaration beside the severed heads of the former IS and Al Qaeda leaders, promising judgment and punishment while claiming that everything began with the audience. A second transmission shows a masked figure whose face resembles someone famous, and subsequent coverage alleges a 99.99% match with another identity of a young hero.
+- The Skeleton King reads the news and public condemnation targeting Jin Taekyung, recognizing that revealing the truth immediately could cause an even greater backlash. He carries a silver tray to a large room, where someone is sitting cross-legged beyond the opening door.
 
 ## Open Questions
 
-- What is the source and reach of Michael's unusually reliable intelligence, including his knowledge of the Pentagon's operations?
-- What were the gifts delivered by Huginn, and what purpose did they serve?
-- How did Odin Guild obtain or prepare its Mana Cultivation Method?
-- Why is Michael so certain that Cheon Taemin will not intervene?
-- Who is the Prophet, and what final action will be used to isolate Ares Guild and reveal the alleged cause of the disasters?
+- Who is the masked figure shown in the Prophet's transmission?
+- What does the Prophet mean by saying that all of this began with the audience?
+- How will the Prophet's promised further judgment and punishment proceed?
+- Why is the Skeleton King bringing a silver tray to the unidentified person?
+- What is the identity and condition of the person sitting cross-legged inside the room?
 
 ## Exceptional Decision
 
-- Render 최 팀장 as Team Leader Choi and 미카엘 실베르트 as Michael Silbert.
-- Render 매직 존슨 as Magic Johnson.
-- Render 선지자 as the Prophet and 인샬라 as Inshallah.
-- Render 수수방관 as Idle Bystander.
-- Render 연쇄 테러 as Chain of Terror Attacks.
+- Render 선지자 as The Prophet.
+- Render 인샬라 as Inshallah.
+- Render 시벌좌 as Lord Fuck.
+- Render 스켈레톤 킹 as Skeleton King.
+- Render 조국일보 as Joguk Ilbo.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

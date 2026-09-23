@@ -1,6 +1,6 @@
 # Michael (미카엘)
 
-- **Safe through:** Chapter 738
+- **Safe through:** Chapter 739
 - **Aliases:** None
 - **Role:** Michael is the Guild Master of Odin Guild, a public hero who helped suppress five Monster Waves, and the hidden architect of a coordinated terrorist campaign designed to isolate Ares Guild.
 - **Personality:** Controlled, calculating, condescending, and confident in his intelligence and ability to manipulate events.
