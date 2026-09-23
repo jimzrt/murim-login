@@ -6,7 +6,7 @@ Even counting me, the Fire Dragon Pavilion had only six members. Half an hour wa
 
 “Everyone, listen up.”
 
-Even Hyuk Mujin, who had gone to summon them, still had no idea what was going on.
+I skipped the greetings and formalities. The five of them caught the urgency in my voice and turned to me. Even Hyuk Mujin, who had gone to summon the others, didn’t know what was going on.
 
 I looked from one questioning face to the next, then began.
 
@@ -50,7 +50,7 @@ I couldn’t imagine what it was like in person. I was beginning to understand w
 
 *Though from a modern perspective, it really is a foreign country.*
 
-In the modern world, was Yunnan Vietnam or Myanmar? It had to be somewhere around there, but my memory was hazy because I’d spent world geography class sleeping my ass off.
+Was modern-day Yunnan in Vietnam or Myanmar? Somewhere around there, probably. I’d slept through too many world geography classes to remember.
 
 While I was trying to dredge it up, Hyuk Mujin shot his hand into the air.
 
@@ -78,7 +78,7 @@ That was important. The others must have been so focused on where we were going 
 
 I looked at each of them in turn and dropped the answer.
 
-“Today. Right now.”
+“Today.”
 
 “……!”
 
@@ -108,7 +108,7 @@ I turned to Hyuk Mujin. “You heard him. Bring jerky too.”
 
 “Jerky! Tastes bad!”
 
-“……Just shut up and eat whatever the hell you get.”
+“…Shut up and eat whatever you get.”
 
 The guy looked capable of chewing up a pair of chopsticks, and *he* was picky?
 
@@ -122,7 +122,7 @@ Sama Pyo caught the look I gave him and shrugged.
 
 “Taishan. Won’t do it. Forgive Taishan, Lord.”
 
-The enormous man looked so dejected that I actually felt sorry for him.
+The giant looked so crushed that I almost felt bad for him.
 
 *I’ll leave Taishan to Sama Pyo from now on.*
 
@@ -136,7 +136,7 @@ He clicked his tongue.
 
 “But I’ll act as though I don’t. Unfortunately, I’ve already taken a hefty advance, and I can’t afford to pay a penalty ten times that amount.”
 
-“You’re much more straightforward than I expected. I like it.”
+“That’s a lot simpler than I expected. I like it.”
 
 “When I make a contract, I honor it. If I didn’t, I’d never have earned the name Soul-Chasing Guest.”
 
@@ -220,11 +220,11 @@ Even Song Ilseom, who had roamed the realm as a wandering martial artist since h
 
 Ju Hwaran nodded with confidence.
 
-“Of course. According to my grandfather’s records, it’s definitely there.”
+“Of course. It’s in my grandfather’s records.”
 
 “I spent about a year there myself. But as far as I know…”
 
-“According to my grandfather’s records, it’s definitely there.”
+“It’s in my grandfather’s records.”
 
 “Yes, I know. What I’m saying is—”
 
@@ -234,7 +234,7 @@ Ju Hwaran nodded with confidence.
 
 “The Escort King.”
 
-“……I believe you. I believe you, so please continue.”
+“…I believe you. Please continue.”
 
 And who was the Escort King? The legend among legends who had completed his legendary Ten-Thousand-Li Journey while a hundred thousand Demonic Cultists covered the realm.
 
@@ -248,7 +248,7 @@ An arm thick enough to make me suspect it belonged to a Troll shot up.
 
 “Yes? Ask away.”
 
-Tiger Giant Child Taishan opened his mouth with a stiff expression.
+Taishan’s face was rigid.
 
 “Taishan. Understood nothing after jerky.”
 
@@ -274,13 +274,13 @@ Sama Pyo clamped a hand over Taishan’s mouth at once, then gave Ju Hwaran a sm
 
 “…It’s all right.”
 
-Her tone was calm, but she could not hide the lowered voice that accompanied it. Given the circumstances, it could not be helped.
+Her words were composed, but she couldn’t hide the subdued note in her voice. Given the circumstances, how could she?
 
 *Even if it was a political marriage, they were engaged.*
 
 Maybe those big-nosed Hollywood bastards, supposedly as cool as ice magic, could shrug off something like that. But the Korea I’d lived in and Murim were both full of Confucian girls and Confucian boys.
 
-It was awkward even for me to watch. How much worse must it have been for Ju Hwaran?
+It was awkward enough for me to watch. How must Ju Hwaran feel?
 
 *And I don’t even know what happened between them.*
 
@@ -310,6 +310,6 @@ This wasn’t a public mission. We had to move as quickly as possible, but discr
 
 “Good idea.”
 
-Ju Hwaran and the others nodded at the answer I had settled on after careful thought.
+Ju Hwaran and the others nodded at the answer I’d arrived at after some thought.
 
 [^1]: A shichen is a traditional time unit lasting approximately two hours.

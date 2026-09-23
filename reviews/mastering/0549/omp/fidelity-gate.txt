@@ -1,0 +1,25 @@
+{
+  "summary": "Mostly faithful, but the assembled copy omits an initial reaction beat and adds specificity to the packing discussion.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 11–13",
+      "current": "“Everyone, listen up.”",
+      "defect": "The translation omits that the five listeners focused their gazes on the speaker after sensing something unusual in his abrupt remark, which came without a greeting or honorific.",
+      "replacement": "“Everyone, pay attention.” The five of them focused their gazes on me, sensing something unusual in the abrupt words I’d spoken without even a greeting or honorific.",
+      "rationale": "The source explicitly gives this reaction and its cause; the assembled version moves directly to Hyuk Mujin’s lack of information.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 231",
+      "current": "We won’t need extra clothing",
+      "defect": "“Extra” implies that some clothing is still needed, whereas the source says clothing is not needed.",
+      "replacement": "We won’t need clothing",
+      "rationale": "The Korean says 의복은 필요 없고, without limiting that statement to extra clothing.",
+      "confidence": 0.88
+    }
+  ]
+}
