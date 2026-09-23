@@ -1,0 +1,92 @@
+{
+  "chapter": 895,
+  "files": {
+    "characters/Baek Yeon.md": "cd4584e82213c9c3e1eec24a60ff869539ae187f92e39c730dbce5d0146581da",
+    "characters/Divine Physician.md": "f4da4733288019eadead86f47184b6a24e76642100a93446b3d16d24054e663d",
+    "characters/Hanga.md": "fe149801204239d7e83215fd88e696bdb8bbca76b4557664271fa5a0f11fdb7e",
+    "characters/Hong Jin.md": "00dc10677e56ea1ffeefb4e3dc27b73962947bcde0f639244aee240b81682891",
+    "characters/Jeok Cheongang.md": "26801fb6e833bb94002fbabd4fc8bc82cdee458d770437159064e921a5615237",
+    "characters/Jin Taekyung.md": "c0df92778bf1a150720fdc30175286b423aab3b520b51706ebe5df7788853163",
+    "characters/Jintae.md": "94492124055911f2fecfa079be847dbf67c7868e98a241588f4a8b63199011ed",
+    "characters/Ma Sanbao.md": "07655934a7cbb3b97878cccfd9f5912b8eab6966dc7d7c58ff0baeaccd846cfa",
+    "characters/Mae Jonghak.md": "409dab31f1bbc82e20617d2a135087957b67d51a1c57f57b678f45daa03a7e4f",
+    "characters/Prince Shangshan.md": "df749591daed38f8a657edf4c82529975baa39d13fd4cfe20c3082712f54df76",
+    "characters/So Gyo.md": "b4ba33803d79470cefad4df5c0ec8f5b04ee197cabbfd621720172b387fdb32d",
+    "docs/ADDRESS.md": "8ead4207b37bea0c8bdc317b844fae2124946506bd434491dd7489b0ce8d1c7b",
+    "docs/CONTEXT.json": "bc5f961e6ae2a299e12337b698ebed47c296ab984d9926f2230167c7c7603f42",
+    "docs/STATE.md": "adfc87a441425d93d8c98ad9f2c464213d3e76cc108538a9ea5b17eadd3928ba",
+    "summaries/beats/0895.md": "a5a9d59d24941667048b175bf206e91ac81e1bd815cb54ef111a07a96364ad68"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "political ally recruiting a young martial artist",
+        "normal_address": "you; my friend",
+        "notes": "Ma uses 자네 and 이보게 while explaining his choice of Jin and inviting him to join the restoration army.",
+        "speaker": "마삼보",
+        "speech_level": "courteous and familiar"
+      },
+      {
+        "addressee": "마삼보",
+        "kinship": "young martial artist addressing the East Depot’s Brush-Holding Eunuch and prospective ally",
+        "normal_address": "you; Brush-Holding Eunuch",
+        "notes": "Jin asks Ma why he withheld information and presses him for a clear answer; he refers to him as 태감.",
+        "speaker": "진태경",
+        "speech_level": "polite and direct"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "So Gyo first appeared during the coup more than ten years ago; with Baek Yeon, she defeated Cang Gong, whose severe Internal Injuries left him bedridden. Ma Sanbao identifies her intervention as the coup’s decisive advantage.",
+        "Ma Sanbao selected Jin Taekyung and Jeok Cheongang as discreet allies for the restoration army because of their loyalty to Prince Shangshan and their ability to confront So Gyo; he avoided formal Murim Alliance involvement to keep the coup secret.",
+        "After Ma Sanbao invites him to join the restoration effort, Jin asks whether the joint pledge is still available, signaling his willingness to join."
+      ],
+      "plot": [
+        "Ma Sanbao explains that So Gyo first appeared during the coup more than ten years ago and, fighting alongside Baek Yeon, overwhelmed Cang Gong, leaving him gravely injured; Sanbao says her intervention made the coup succeed. He reveals that he chose Jin Taekyung and Jeok Cheongang as discreet allies because they would help Prince Shangshan and could oppose So Gyo, while formal Murim Alliance involvement would expose the restoration army and risk political fallout. Sanbao asks Jin to join the effort to restore order and place Prince Shangshan on the throne. Jin asks whether Sanbao still has the joint pledge he showed him, and Sanbao smiles at the implication."
+      ],
+      "translation_decisions": [
+        "Keep So Gyo’s identity unresolved: Ma Sanbao recounts her earlier appearance as an unidentified master and says the East Depot did not know much about her."
+      ]
+    },
+    "chapter": 895,
+    "context": {
+      "active_continuity": [
+        "So Gyo first appeared during the coup more than ten years ago and, alongside Baek Yeon, defeated Cang Gong, leaving him gravely injured; Ma Sanbao says her intervention made the coup succeed.",
+        "Ma Sanbao chose Jin Taekyung and Jeok Cheongang as discreet allies for the restoration army because they would help Prince Shangshan and could face So Gyo; he avoided formal Murim Alliance involvement to preserve secrecy.",
+        "Jin responds to Ma Sanbao’s invitation to join the restoration army by asking about the joint pledge, signaling willingness to join."
+      ],
+      "continuity_sources": [
+        895
+      ],
+      "open_questions": [
+        "Who is So Gyo, and what are her true aims and allegiance?",
+        "How much of her strength did So Gyo use during the coup and in her later encounters with Jin?"
+      ],
+      "safe_through": 895,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Ma Sanbao is the East Depot’s Brush-Holding Eunuch and Supreme Peak martial artist, leading the Depot in place of its bedridden leader, Cang Gong.",
+        "path": "characters/Ma Sanbao.md",
+        "replacement": "- **Role:** Ma Sanbao is the East Depot’s Brush-Holding Eunuch and Supreme Peak martial artist, leading it in place of the bedridden Cang Gong and organizing a secret restoration effort for Prince Shangshan."
+      },
+      {
+        "current": "- **Relationships:** Ma Sanbao is a longtime friend and former East Depot cohort of Hong Jin, leads the effort to enthrone Prince Shangshan, and confirms he hired the assassins, though his reason remains unknown.",
+        "path": "characters/Ma Sanbao.md",
+        "replacement": "- **Relationships:** Ma Sanbao is a longtime friend and former East Depot cohort of Hong Jin, leads the restoration effort for Prince Shangshan, and recruited Jin Taekyung and Jeok Cheongang as discreet allies; he hired assassins for their loyalty when fairly paid."
+      },
+      {
+        "current": "- **Relationships:** Jin Mukyung is his older brother, and Jeok Cheongang is his Master and trusted confidant; they trust each other deeply, though their bond remains unformalized. Cheongpung is his trusted companion and only true martial rival; Choi Minwoo is his subordinate and trusted manager of media and official arrangements as well as the Peace Guild's Guild Master; Ju Hwaran is a trusted Fire Dragon Pavilion member; Magic Johnson and Chuck Hagel are allied to him; his mother and sister Hayeon are among those he protects; the Skeleton King is his friend and ally; Xiao Shen regards him as an older brother; Jin-ho is his older friend and trusted confidant; he once saved Ju Wongong’s life.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Relationships:** Jin Mukyung is his older brother, and Jeok Cheongang is his Master and trusted confidant; they trust each other deeply, though their bond remains unformalized. Ma Sanbao recruited Jin and Jeok as discreet allies for the restoration effort supporting Prince Shangshan, and Jin signals willingness to join by asking for the joint pledge. Cheongpung is his trusted companion and only true martial rival; Choi Minwoo is his subordinate and trusted manager of media and official arrangements as well as the Peace Guild's Guild Master; Ju Hwaran is a trusted Fire Dragon Pavilion member; Magic Johnson and Chuck Hagel are allied to him; his mother and sister Hayeon are among those he protects; the Skeleton King is his friend and ally; Xiao Shen regards him as an older brother; Jin-ho is his older friend and trusted confidant; he once saved Ju Wongong’s life."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

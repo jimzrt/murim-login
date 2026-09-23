@@ -1,0 +1,146 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Baek Yeon and the man in black.",
+      "defect": "“Man” assigns a male identity to the black-clad master, whom this account identifies as So Gyo.",
+      "id": "F01",
+      "rationale": "흑의인 identifies the person by clothing, not gender.",
+      "replacement": "Baek Yeon and the figure in black.",
+      "severity": "critical",
+      "source": "백연과 흑의인."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The only reason we lost was that man in black… No, that unidentified master I should now call So Gyo.",
+      "defect": "Again assigns a male identity to the person Ma Sanbao now calls So Gyo.",
+      "id": "F02",
+      "rationale": "흑의인 remains gender-neutral here; the correction concerns what to call the master.",
+      "replacement": "The only reason we lost was that figure in black… No, that unidentified master I should now call So Gyo.",
+      "severity": "critical",
+      "source": "유일한 패인(敗因)은 바로 그 흑의인…… 아니, 이제는 소교라고 불러야 할 정체불명의 고수였지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "So Gyo was a master for whom even *a match for ten thousand men* seemed an inadequate description.",
+      "defect": "Reverses the judgment: the source says the description would not be inadequate, not that it falls short.",
+      "id": "F03",
+      "rationale": "부족하지 않을 만한 explicitly affirms that the description fits.",
+      "replacement": "So Gyo, too, was a master who could rightly be called *a match for ten thousand men*.",
+      "severity": "critical",
+      "source": "소교 역시 만부부당(萬夫不當)이라는 표현이 부족하지 않을 만한 고수였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It wasn’t hard to guess that if his one and only Disciple risked going to the imperial palace, his Master would come along.",
+      "defect": "After the preceding mention of Hong Jin, “his” can make Jin sound like Hong Jin’s Disciple rather than Jeok Cheongang’s.",
+      "id": "F04",
+      "rationale": "The Disciple is Jin Taekyung, and the Master Ma expected to follow him is Jeok Cheongang.",
+      "replacement": "It wasn’t hard to guess that if you, Jeok Cheongang’s only Disciple, risked going to the imperial palace, your Master would come along.",
+      "severity": "major",
+      "source": "하나뿐인 제자가 위험을 무릅쓰고 황궁으로 향한다면, 그 스승 역시 함께하리라는 것은 어렵지 않게 예상할 수 있었으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“It was more than ten years ago. That was when So Gyo—or rather, the unidentified master—first appeared.”",
+      "defect": "The draft jumps straight to the scene break, omitting Ma Sanbao’s voice carrying through rain that has begun to ease.",
+      "id": "F05",
+      "rationale": "The transition marks the rain’s gradual change before the account ends.",
+      "replacement": "“It was more than ten years ago. That was when So Gyo—or rather, the unidentified master—first appeared.”\n\nAs the rain slowly began to ease, his voice filtered through it.",
+      "severity": "major",
+      "source": "서서히 잦아들기 시작한 빗소리 너머로, 그의 목소리가 스며들었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Chief Eunuch wouldn’t be bedridden as he is now, either.",
+      "defect": "Replaces the established name Cang Gong with a generic title.",
+      "id": "F06",
+      "rationale": "창공 is mapped to Cang Gong in the packet’s binding glossary.",
+      "replacement": "Cang Gong wouldn’t be bedridden as he is now, either.",
+      "severity": "major",
+      "source": "창공(廠公)께서 지금처럼 병석에 누워 계실 일도 없었겠지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "If Ma Sanbao’s story was true, then the Chief Eunuch, now fallen to illness, had been a remarkable man.",
+      "defect": "Replaces Cang Gong’s name with a generic title.",
+      "id": "F07",
+      "rationale": "The narration names 창공, not merely his office.",
+      "replacement": "If Ma Sanbao’s story was true, then Cang Gong, now fallen to illness, had been a remarkable man.",
+      "severity": "major",
+      "source": "지금은 병마를 이기지 못해 쓰러진 창공은 대단한 걸물이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Chief Eunuch was the first to sense something was wrong.",
+      "defect": "Drops both Cang Gong’s established name and Ma Sanbao’s respectful form of reference.",
+      "id": "F08",
+      "rationale": "창공 어른 names Cang Gong while expressing respect.",
+      "replacement": "Lord Cang Gong was the first to sense something was wrong.",
+      "severity": "major",
+      "source": "가장 먼저 낌새를 알아차린 것도 창공 어른이셨지."
+    },
+    {
+      "confidence": 1.0,
+      "current": "At the time, Ma Sanbao had also served under Chief Eunuch.",
+      "defect": "Replaces Cang Gong’s name with a generic title.",
+      "id": "F09",
+      "rationale": "창공 is the named person Ma Sanbao served under.",
+      "replacement": "At the time, Ma Sanbao had also served under Cang Gong.",
+      "severity": "major",
+      "source": "당시의 마삼보 역시 창공의 휘하에 있었고"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The life-and-death duel between Baek Yeon and Chief Eunuch was evenly matched.",
+      "defect": "Drops Cang Gong’s name and Ma Sanbao’s respectful address.",
+      "id": "F10",
+      "rationale": "창공 어른 identifies and respectfully refers to the East Depot leader.",
+      "replacement": "The life-and-death duel between Baek Yeon and Lord Cang Gong was evenly matched.",
+      "severity": "major",
+      "source": "백연과 창공 어른 간의 생사결은 백중세(伯仲勢)였네."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Chief Eunuch couldn’t withstand the combined assault of the two Supreme Peak masters.",
+      "defect": "Replaces the named combatant Cang Gong with a generic title.",
+      "id": "F11",
+      "rationale": "The source identifies the fallen combatant as 창공.",
+      "replacement": "Cang Gong couldn’t withstand the combined assault of the two Supreme Peak masters.",
+      "severity": "major",
+      "source": "두 초절정 고수의 합공을 이기지 못한 창공은 극심한 내상과 함께 쓰러졌고"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Chief Eunuch once called him one of the few true chivalrous heroes left in this age.",
+      "defect": "Replaces Cang Gong’s name with a generic title.",
+      "id": "F12",
+      "rationale": "Ma Sanbao attributes the assessment specifically to 창공.",
+      "replacement": "Cang Gong once called him one of the few true chivalrous heroes left in this age.",
+      "severity": "major",
+      "source": "창공께서는 그를 가리켜 이 시대에 몇 안 남은 진정한 협객이라고도 하셨고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "You must be from the north. You certainly know how to drink.",
+      "defect": "Turns Ma Sanbao’s explanation for Jin’s hearty drinking into a guess about where Jin is from.",
+      "id": "F13",
+      "rationale": "북방이 고향이라 그런지 treats Jin’s northern home as given and speculates about its effect on his drinking.",
+      "replacement": "Maybe it’s because you’re from the north, but you certainly drink with gusto.",
+      "severity": "minor",
+      "source": "북방이 고향이라 그런지, 화통하게도 마시는군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The remaining liquor spilled out in a rush.",
+      "defect": "Omits that the flask was still half full.",
+      "id": "F14",
+      "rationale": "반쯤 남았던 specifies how much liquor remained when it fell.",
+      "replacement": "The flask was still half full, and the liquor spilled out in a rush.",
+      "severity": "minor",
+      "source": "반쯤 남았던 술이 울컥 흘러넘친다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it assigns a male identity to the black-clad master, reverses a comparison of So Gyo’s strength, obscures whose Disciple Jin is, omits a rain transition, and replaces Cang Gong’s established name throughout.",
+  "version": 1
+}
