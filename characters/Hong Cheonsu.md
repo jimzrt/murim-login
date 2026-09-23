@@ -1,6 +1,6 @@
 # Hong Cheonsu (홍천수)
 
-- **Safe through:** Chapter 220
+- **Safe through:** Chapter 774
 - **Aliases:** Cheonsu hyung
 - **Role:** Deceased ten-year veteran Hunter and Jin Taekyung’s senior comrade; saved Taekyung from goblins before dying in the incident three years earlier.
 - **Personality:** Kind and protective toward younger Hunters; treated Taekyung well because he was reminded of his youngest sibling.

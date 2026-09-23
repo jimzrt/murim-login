@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“2000.”",
+      "defect": "The birth year is changed from 2020 to 2000, altering Taekyung’s age and the scene’s timeline while undermining the Team Leader’s joke.",
+      "id": "F01",
+      "rationale": "In this context, 20년생 means someone born in 2020; the following disbelief that people were born in that year confirms the futuristic date.",
+      "replacement": "“2020.”",
+      "severity": "critical",
+      "source": "‘20년생이요.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I didn’t know that I would spend the next few years living and dying alongside that foul-tempered Team Leader like we were brothers.",
+      "defect": "The draft turns an apparent trait into an established one, adds an unsupported duration, and renders 동고동락 as “living and dying,” introducing death imagery absent from this sentence.",
+      "id": "F02",
+      "rationale": "성질 더러워 보이는 means he looked foul-tempered, while 동고동락 means sharing hardships and joys; the source does not specify that this lasted for the next few years.",
+      "replacement": "I didn’t know that I would share thick and thin like brothers with that Team Leader who looked so foul-tempered.",
+      "severity": "major",
+      "source": "저 성질 더러워 보이는 팀장과 형제처럼 동고동락하게 될 줄은."
+    },
+    {
+      "confidence": 0.98,
+      "current": "At least, not until I saw him again a little later with a bottle of soju in each hand and a bag of ramen.",
+      "defect": "The draft invents two bottles of soju and creates awkward physical staging by also adding a ramen bag.",
+      "id": "F03",
+      "rationale": "The source only says that he returned carrying soju and a bag of ramen in both hands; it does not say that each hand held a separate bottle.",
+      "replacement": "At least, not until I saw him again a little later, carrying soju and a bag of ramen in his hands.",
+      "severity": "minor",
+      "source": "잠시 후, 양손에 소주와 라면 봉지를 든 그의 모습을 보기 전까지는."
+    },
+    {
+      "confidence": 1.0,
+      "current": "My upper body rose with my hoarse voice.",
+      "defect": "The sentence unnaturally makes his upper body rise alongside his voice instead of stating that he sits up while speaking hoarsely.",
+      "id": "F04",
+      "rationale": "상반신을 일으켰다 is the deliberate action of raising his upper body or sitting up, and 갈라진 목소리 describes his voice.",
+      "replacement": "I sat up, my voice hoarse.",
+      "severity": "minor",
+      "source": "나는 갈라진 목소리와 함께 상반신을 일으켰다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The clouds that had covered the entire capital region before dawn poured down a light drizzle, and the air against my skin was chilly.",
+      "defect": "The draft changes the clouds’ arrival from occurring under cover of dawn to having occurred before dawn, and omits that they are dark clouds.",
+      "id": "F05",
+      "rationale": "새벽을 틈타 means taking advantage of or under cover of dawn, not before dawn; 먹구름 specifically means dark storm clouds.",
+      "replacement": "Dark clouds had spread across the capital region under cover of dawn, spilling a light drizzle, and the air against my skin was chilly.",
+      "severity": "major",
+      "source": "새벽을 틈타 수도권 일대를 뒤덮은 먹구름은 부슬비를 쏟아냈고, 피부에 와닿는 공기는 서늘했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Stained glass depicting the victory of the Great Cataclysm immediately after the war’s end glittered on every side.",
+      "defect": "The placement of “immediately after the war’s end” makes it modify the depicted victory, implying that the Great Cataclysm’s victory occurred after the war ended rather than that the stained glass was created then.",
+      "id": "F06",
+      "rationale": "종전 직후 establishes when the stained glass was made, while 대격변의 승리 과정을 담아 그려낸 describes the historical process depicted in it.",
+      "replacement": "Stained glass created just after the war ended, depicting the course of humanity’s victory in the Great Cataclysm, glittered on every side.",
+      "severity": "major",
+      "source": "종전 직후, 대격변의 승리 과정을 담아 그려낸 스테인 글라스(Stained glass)가 사방에서 반짝거렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What a load of bullshit. What a load of bullshit.”[^2]\n\n[^1]: A *goshiwon* is a very small, inexpensive room-for-rent housing arrangement, often used by students and people with limited means.\n\n[^2]: The Korean line repeats a crude expression of contempt, emphasizing that Michael’s declaration is delusional nonsense.",
+      "defect": "The second footnote explains an already intelligible profane punchline, weakening its abrupt comic timing and violating the requirement not to footnote ordinary vocabulary or explain jokes.",
+      "id": "F07",
+      "rationale": "The repeated contempt and profanity are fully conveyed in English without cultural explanation; only the goshiwon footnote materially assists comprehension.",
+      "replacement": "“What a load of bullshit. What a load of bullshit.”\n\n[^1]: A *goshiwon* is a very small, inexpensive room-for-rent housing arrangement, often used by students and people with limited means.",
+      "severity": "minor",
+      "source": "“지랄을 한다, 지랄을.”"
+    }
+  ],
+  "summary": "The draft contains one critical timeline error, several altered physical or temporal details, and an unnecessary footnote that explains the final punchline.",
+  "version": 1
+}
