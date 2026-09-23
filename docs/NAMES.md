@@ -2293,3 +2293,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마사야 | **Masa** | Name referenced by an online commenter. |
 | 한국 | **Korea** | Destination of the international Hunters and Guild Masters. |
 | 진 | **Jin** | Public shorthand for Jin Taekyung used in online discussion. |
+| 제1 국회의사당 | **First National Assembly Hall** | Venue of the inaugural ceremony. |
