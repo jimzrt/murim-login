@@ -14,7 +14,7 @@ A good deal of time must have passed while I was unconscious. I lay sprawled on 
 
 *What the hell happened?*
 
-I had moved almost entirely unconsciously, and since I’d passed out while poisoned by the Blindness Powder, I hadn’t seen what happened at the time. I felt my dirt-covered body all over.
+I’d moved almost without thinking, and I’d passed out while still blinded by the powder. I hadn’t seen what happened. I felt around my dirt-covered body.
 
 *Nothing else seems to be hurt. I must have stopped it somehow.*
 
@@ -56,7 +56,7 @@ Beep.
 
 “……”
 
-As someone who had nearly crossed the Jordan River instead of Dongting Lake, I was furious.
+*Agh,* my ass. I’d nearly crossed the Jordan River instead of Dongting Lake. Just thinking about it made me shudder.
 
 *A Follow-up Quest.*
 
@@ -68,7 +68,7 @@ At least the rewards were generous.
 
 I hadn’t leveled up, but I’d gained a considerable amount of EXP and recovered the points I’d lost after being poisoned by Seven-Step Soul-Chasing Powder.
 
-And…
+And then there were the Achievements.
 
 *Which asshole came up with those titles?*
 
@@ -102,7 +102,7 @@ When I asked why they’d do something so stupid, his answer was simple.
 
 A short answer, but it explained everything.
 
-Martial artists were creatures like that. They were the sort of people who would do anything if it meant becoming stronger. They were more intoxicated by martial arts than by opium, and they had become addicted to power.
+That was what martial artists were like. They’d do anything to grow stronger. They were more intoxicated by martial arts than by opium, more addicted to power than to any drug.
 
 And I wasn’t so different.
 
@@ -146,13 +146,13 @@ The Beggars’ Sect disciple shrugged. His patched clothes and the two knots han
 
 “Visitors?”
 
-Since the place was being treated as highly classified, I couldn’t immediately think of anyone who might come here. At most, there were the three sects gathered here and the authorities.
+This wasn’t a tourist attraction. With everything here being kept secret, I couldn’t think who would come. Someone from one of the three sects gathered here, maybe, or the authorities. But if they were sending more people, the guards wouldn’t call them visitors.
 
 “Where from? The Zhuge Clan? Wudang? Oh, did Wudang’s Sect Leader finally arrive?”
 
 “Sorry?”
 
-The Beggars’ Sect disciple and the other martial artists stared at me as if they had never seen such a strange person before.
+The Beggars’ Sect disciple and the other guards stared at me as though I’d said something bizarre.
 
 “Uh… you haven’t heard?”
 
@@ -174,7 +174,7 @@ From where?
 
 Splash! Splish, splash!
 
-Disciplined footsteps crossed the moonlit river and left fresh tracks in the sand.
+Boots struck the river in disciplined unison, sending ripples through the moon’s reflection. Fresh footprints appeared in the sand beyond.
 
 Around fifty martial artists moved as one, forming lines on either side. A man walked slowly between them, spotted me, and stopped.
 
@@ -188,7 +188,7 @@ His eyes were as sharp as ever, and he had more scars than I remembered. I gave 
 
 “Just tell me who. I’ll deal with them.”
 
-“There’s no need. They’ve already left for a place beyond anyone’s reach. And…”
+“No need. They’ve already gone somewhere neither of us can reach. Besides…”
 
 His narrowed eyes held a smile, and his voice carried both fondness and joy.
 
@@ -200,7 +200,7 @@ Ghost Sword Wipeng—Jin Wikyung’s right-hand man and the person once charged 
 
 “Greetings, Third Young Master!”
 
-Powerful energy radiated from the bodies of the martial artists standing in lines like iron towers on either side. They were just like the two characters embroidered across every one of their chests: Jin Dragon.
+Their shout broke the deep-night silence. Powerful qi radiated from the martial artists lined up like iron towers on either side. Every one of them seemed worthy of the two characters embroidered on his chest: Jin Dragon.
 
 *Wow. When did the Jin Family of Taiyuan get this big?*
 
@@ -212,7 +212,7 @@ The Jin Family of Taiyuan had been slowly declining: the Family Head had been ab
 
 Seeing how far the family had risen made my chest swell with pride.
 
-*Is this why people build families?*
+*Is this why people build up a family?*
 
 I was gazing at Wipeng and the Jin Dragon Squad when a voice behind him spoiled the moment.
 
@@ -236,7 +236,7 @@ The answer came from someone other than Jang Taebo.
 
 “I asked him to come.”
 
-The people who had hurried over after hearing that the Jin Family of Taiyuan had arrived murmured among themselves and parted to either side.
+People who’d hurried over at the news of the Jin Family’s arrival murmured and parted to either side. As a man approached through the crowd, an even louder shout rang out.
 
 “Wipeng, Commander of the Jin Dragon Squad of the great Jin Family of Taiyuan, pays his respects to his lord.”
 
@@ -244,19 +244,19 @@ The people who had hurried over after hearing that the Jin Family of Taiyuan had
 
 “That’s enough.”
 
-Under different circumstances, I would have grabbed Wipeng’s hand and danced a waltz with him, but countless eyes were watching us.
+Under other circumstances, Jin Wikyung might have grabbed Wipeng’s hand and danced a waltz with him. Tonight, countless eyes were watching. He waved a hand, his expression grave and dignified, and spoke in a deep voice.
 
-“Commander of the Jin Dragon Squad. And Old Master Jang. You’ve both had a difficult journey.”
+“Commander. Old Master Jang. You must have had a tiring journey.”
 
 “Not at all, my lord.”
 
 “Don’t concern yourself with this old man, Lesser Family Head.”
 
-Wipeng was obviously a trusted retainer, but even Jang Taebo, who called me this brat and that bastard, was unfailingly respectful toward Jin Wikyung.
+Wipeng was Wikyung’s trusted retainer, of course. But even Jang Taebo, who called me every insult under the sun, treated him with unfailing respect. I thought Jang had retired ages ago. Had he taken on work for the Jin Family while I’d been away?
 
-Ignoring my question, Jin Wikyung spoke again.
+Before I could make sense of it, Jin Wikyung spoke again.
 
-“The journey must have been tiring. Let’s all move somewhere else first.”
+“You must be tired from the road. Let’s all go somewhere we can talk.”
 
 I could tell I was included in that “all.” I could also tell the man running toward us, panting hard, wasn’t.
 
@@ -264,7 +264,7 @@ I could tell I was included in that “all.” I could also tell the man running
 
 “……”
 
-Some guard duty.
+Guard duty, my ass.
 
 If you’re going to lie, wipe the sleep from your eyes first, you bastard.
 

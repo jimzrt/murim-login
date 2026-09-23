@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "As someone who had nearly crossed the Jordan River instead of Dongting Lake, I was furious.",
+      "defect": "The source first dismisses the system's “Agh!” notice with a sarcastic retort (“Agh, my ass” / “What do you mean, ‘Agh’?”) before explaining his fury. That reaction is missing.",
+      "id": "F01",
+      "rationale": "“악 같은 소리 하고 자빠졌네” is a direct, dismissive response to the preceding “악!” notice; the following sentence gives the reason for his anger.",
+      "replacement": "Agh, my ass. As someone who had nearly crossed the Jordan River instead of Dongting Lake, I was furious.",
+      "severity": "minor",
+      "source": "Lines 59–65"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Since the place was being treated as highly classified, I couldn’t immediately think of anyone who might come here. At most, there were the three sects gathered here and the authorities.",
+      "defect": "This omits both the narrator’s tourist-attraction quip and his reasoning that reinforcements would not be described as visitors.",
+      "id": "F02",
+      "rationale": "The source explicitly includes the tourist-attraction joke and then rules out personnel reinforcements as the visitors, a step in his reasoning.",
+      "replacement": "This wasn’t exactly a tourist attraction. Since the place was being treated as highly classified, I couldn’t immediately think of anyone who might come here. At most, there were the three sects gathered here and the authorities. If they were sending reinforcements, there’d be no reason to call them visitors.",
+      "severity": "minor",
+      "source": "Lines 153–159"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Powerful energy radiated from the bodies of the martial artists standing in lines like iron towers on either side. They were just like the two characters embroidered across every one of their chests: Jin Dragon.",
+      "defect": "The scene omits the huge shout shattering the deep-night silence.",
+      "id": "F03",
+      "rationale": "The source explicitly describes the shout and its effect before describing the martial artists’ presence.",
+      "replacement": "Their tremendous shout shattered the silence of the deep night. Powerful energy radiated from the bodies of the martial artists standing in lines like iron towers on either side. They were just like the two characters embroidered across every one of their chests: Jin Dragon.",
+      "severity": "minor",
+      "source": "Lines 211–215"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Under different circumstances, I would have grabbed Wipeng’s hand and danced a waltz with him, but countless eyes were watching us.",
+      "defect": "The assembled copy drops Jin Wikyung’s gesture and the description of his solemn, dignified expression and deep, weighty voice before he speaks.",
+      "id": "F04",
+      "rationale": "Those physical and vocal details are explicit in the source and were preserved in the accepted baseline.",
+      "replacement": "Under different circumstances, I would have grabbed Wipeng’s hand and danced a waltz with him, but countless eyes were watching us. Jin Wikyung waved a hand with a solemn, dignified expression and spoke in a deep, weighty voice.",
+      "severity": "minor",
+      "source": "Line 259"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Wipeng was obviously a trusted retainer, but even Jang Taebo, who called me this brat and that bastard, was unfailingly respectful toward Jin Wikyung.",
+      "defect": "The narrator’s follow-up speculation about Jang Taebo having retired long ago but perhaps doing subcontracting work for the Jin Family is omitted.",
+      "id": "F05",
+      "rationale": "The source includes this question as the narrator’s reaction to Jang Taebo’s deference; the accepted baseline also preserves it.",
+      "replacement": "Wipeng was obviously a trusted retainer, but even Jang Taebo, who called me this brat and that bastard, was unfailingly respectful toward Jin Wikyung. He’d said he retired a long time ago. Had he taken on some subcontracting work for the Jin Family while I was away?",
+      "severity": "minor",
+      "source": "Lines 265–269"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful, but it drops several source-specific reactions, reasoning beats, and scene details preserved in the accepted baseline.",
+  "version": 1
+}
