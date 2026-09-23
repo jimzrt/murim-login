@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 921
-- Next chapter: 922
-- Current block: 920–924 (2/5)
-- Latest translation: `translations/0921.md`
-- Latest summary: `summaries/beats/0921.md`
-- Safe profiles through: chapter 921
+- Last completed: 922
+- Next chapter: 923
+- Current block: 920–924 (3/5)
+- Latest translation: `translations/0922.md`
+- Latest summary: `summaries/beats/0922.md`
+- Safe profiles through: chapter 922
 
 ## Current Block
 
-- So Gyo’s Force arrows decimate the charging rebel army, while Jin Taekyung and Jeok Cheongang kill or disable its leaders; Jeok orders the apparent ringleaders kept alive for questioning. Imperial troops arrive, and the remaining rebels are defeated or surrender. The battle is over in fifteen minutes.
-- Afterward, So Gyo approaches Taekyung and says he is the one the Martial God spoke of—the chosen one. Taekyung does not understand what she means.
+- After the battle, So Gyo tells Jin Taekyung through Sound Transmission that he is the chosen one the Martial God spoke of, promising to explain later. Taekyung reunites with his surviving allies, thanks Jeok Cheongang, and walks to confront the Eastern Heaven Demon Lord.
+- The Demon Lord recalls his murdered mother and Master, then claims that Dark Heaven’s agents are spread throughout the land and that civil war will engulf the Great Nation before Dark Heaven advances into the Central Plains.
 
 ## Open Questions
 
 - What enabled Jin Taekyung to return from his seemingly fatal injuries?
-- What is the Eastern Heaven Demon Lord’s current condition, and what information does he hold about Dark Heaven and the Lord of Heaven?
+- What is the Eastern Heaven Demon Lord’s condition, and what information does he hold about Dark Heaven and the Lord of Heaven?
 - Where is Ma Sanbao, and what is his current status?
-- What does the Martial God’s reference to a chosen one mean for Jin Taekyung?
+- What does the Martial God’s reference to a chosen one mean for Jin Taekyung, and what story has So Gyo kept to herself?
 - Will the Salcheonmun pursue Mungyeong or discover that Jin Taekyung killed Gye Yabu?
 
 ## Exceptional Decision

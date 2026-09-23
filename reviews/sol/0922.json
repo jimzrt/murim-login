@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "His mother’s piercing scream as she resisted the soldiers trying to violate her to protect her only surviving child, his Master’s final words—those memories were so vivid.",
+      "defect": "“Trying to violate her” makes the soldiers’ completed abuse an attempt and makes her resistance sound like it succeeded.",
+      "id": "F01",
+      "rationale": "유린당한 describes what the soldiers did to her, not merely what they tried to do. “Brutalized” preserves the source’s restraint without changing the event.",
+      "replacement": "His mother’s piercing scream as the soldiers brutalized her while she fought to protect her only surviving child, and his Master’s final words—those memories were so vivid.",
+      "severity": "critical",
+      "source": "유일하게 남은 자식을 지키기 위해 저항하다 병사들에게 유린당한 어머니의 찢어지는 비명은"
+    },
+    {
+      "confidence": 0.96,
+      "current": "There wasn’t a single person who hadn’t taken shelter beneath his vast shadow, and there wasn’t a place Dark Heaven’s hand hadn’t reached.",
+      "defect": "The second clause changes Dark Heaven’s reach from people to places, obscuring the network of people established by both clauses.",
+      "id": "F02",
+      "rationale": "Both clauses end in 자, referring to people; the following account describes officials spreading throughout the land.",
+      "replacement": "There wasn’t a single person who hadn’t taken shelter beneath his vast shadow, and not one of them was beyond Dark Heaven’s reach.",
+      "severity": "major",
+      "source": "그의 넓은 그늘에 잠시 몸을 의탁하지 않은 자가 없고, 암천의 손이 닿지 않은 자가 없다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Mom’s smack hits your soul. Not your body.”",
+      "defect": "“Smack” drops the mock martial-arts technique name that delivers the joke.",
+      "id": "F03",
+      "rationale": "엄마신장 casts his mother’s blow as a named palm technique; the contrast with a bodily blow is the punchline.",
+      "replacement": "“Mom’s Divine Palm hits your soul. Not your body.”",
+      "severity": "major",
+      "source": "“엄마신장은 영혼을 때리는 거야. 몸이 아니라.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Just as the curtain falling on a performance didn’t mean the curtain call was over.",
+      "defect": "The draft implies a curtain call already underway rather than one still to come.",
+      "id": "F04",
+      "rationale": "남아 있듯이 says the curtain call remains after the curtain falls, paralleling the roles that remain after the battle.",
+      "replacement": "Just as a curtain call still follows when the curtain falls on a performance.",
+      "severity": "minor",
+      "source": "공연의 막이 내려도 커튼콜(Curtain call)이 남아 있듯이."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Past dozens of flags rising high into the air.",
+      "defect": "The draft turns looking at the flags into physically passing them.",
+      "id": "F05",
+      "rationale": "바라보며 specifies an act of looking, not a route past the flags.",
+      "replacement": "Looking toward the dozens of flags rising high into the air.",
+      "severity": "minor",
+      "source": "높게 솟아오른 수십여 개의 깃발을 바라보며."
+    },
+    {
+      "confidence": 0.87,
+      "current": "My Master was usually a kind man, but sometimes he’d take up the switch.",
+      "defect": "“Man” and “he” assign a gender the passage does not specify.",
+      "id": "F06",
+      "rationale": "스승님 and 분 identify the teacher respectfully without establishing gender.",
+      "replacement": "My Master was usually gentle, too, but sometimes the switch would come out.",
+      "severity": "minor",
+      "source": "스승님도 평소에는 온화하신 분이었지만 종종 회초리를 드시곤 했어."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes a completed assault into an attempted one, shifts Dark Heaven’s reach from people to places, and loses a martial-arts joke.",
+  "version": 1
+}
