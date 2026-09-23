@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Namho knew some of what had happened, but he didn’t go into detail.\n\nThere was nothing more embarrassing than praising myself, and I’d find out naturally anyway.",
+      "defect": "The draft makes Namho the one withholding details and Jin the one who will learn them. Both actions belong the other way around.",
+      "id": "F01",
+      "rationale": "Jin chooses not to elaborate because it would feel like praising himself; Namho will learn the rest in time.",
+      "replacement": "Namho knew some of what had happened, but I didn’t go into detail.\n\nThere was nothing more embarrassing than praising myself, and he’d find out naturally anyway.",
+      "severity": "critical",
+      "source": "남호도 어느 정도의 사정은 알고 있었지만, 굳이 자세히 말하지는 않았다.\n\n내 얼굴에 스스로 금칠하는 것만큼 낯간지러운 일도 없고, 어차피 자연스럽게 알게 될 일이니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "When I first visited the Sichuan Tang Clan a few months ago, I was pretty sure hidden weapons had come flying at me. This time, the gate opened before anyone had even finished speaking.",
+      "defect": "The gate opens before Jin can so much as open his mouth, not before someone finishes speaking.",
+      "id": "F02",
+      "rationale": "입 벙긋하기도 전에 describes Jin not getting a chance to speak, emphasizing how quickly he is recognized.",
+      "replacement": "When I first visited the Sichuan Tang Clan a few months ago, I was pretty sure hidden weapons had come flying at me. This time, the gate opened before I could even open my mouth.",
+      "severity": "major",
+      "source": "몇 달 전 처음 사천당가를 찾았을 때만 해도 암기부터 날아왔던 것 같은데, 지금은 입 벙긋하기도 전에 문이 열렸다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The invisible rift that had kept them divided all this time had closed. They had united, and together they were rising from their grief.",
+      "defect": "The draft turns the halting of an ongoing rift into its complete closure.",
+      "id": "F03",
+      "rationale": "멈추고 says they stopped its continuation; it does not establish that the rift has fully closed.",
+      "replacement": "They had stopped the invisible rift that had persisted all this time, coming together to rise above their grief.",
+      "severity": "major",
+      "source": "지금까지 줄곧 이어졌던 보이지 않는 균열을 멈추고, 하나가 되어 슬픔을 딛고 일어나고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Warfare?”",
+      "defect": "Jin supplies the word for martial fortune, not a wish for warfare.",
+      "id": "F04",
+      "rationale": "Ju Wongong is struggling to recall 무운, which he then repeats in his blessing.",
+      "replacement": "“Martial fortune?”",
+      "severity": "major",
+      "source": "“무운?”"
+    }
+  ],
+  "summary": "Several localized errors alter who acts or what happens, including the account of Namho and the timing of the gate opening.",
+  "version": 1
+}

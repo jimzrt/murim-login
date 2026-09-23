@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I gazed fondly at Ju Wongong, who was still streaming tears, and continued.\n\n“W-what do you mean?”\n\nI gazed fondly at Ju Wongong, who was still streaming tears, and continued.",
+      "defect": "The narration repeats around Ju Wongong’s reply.",
+      "id": "C01",
+      "rationale": "Removing the first instance restores the dialogue sequence without losing the action.",
+      "replacement": "“W-what do you mean?”\n\nI gazed fondly at Ju Wongong, who was still streaming tears, and continued.",
+      "severity": "minor",
+      "source": "Chapter 838, carriage conversation"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The pleasure boat that should have sunk long ago was speeding closer.",
+      "defect": "The approaching target is Jin’s swift ship, not the pleasure boat carrying Ju Wongong.",
+      "id": "C02",
+      "rationale": "The vessel’s identity matters to the geography of the attack.",
+      "replacement": "The swift ship that should have sunk long ago was speeding closer.",
+      "severity": "major",
+      "source": "Chapter 837, cannon attack viewed from the pleasure boat"
+    },
+    {
+      "confidence": 0.94,
+      "current": "They had stopped the invisible rift that had persisted all this time, coming together to rise above their grief.",
+      "defect": "“Rift” risks invoking the established supernatural phenomenon where the passage means a division among people.",
+      "id": "C03",
+      "rationale": "“Divide” preserves the social meaning and keeps the two continuity threads distinct.",
+      "replacement": "They had closed the invisible divide that had persisted all this time, coming together to rise above their grief.",
+      "severity": "minor",
+      "source": "Chapter 839, Jin’s reflection on Sichuan Murim"
+    }
+  ],
+  "summary": "The packet is largely consistent. Three English-copy issues are actionable: a duplicated sentence, a mislabeled vessel, and wording that risks confusing a social division with the supernatural Rift.",
+  "version": 1
+}
