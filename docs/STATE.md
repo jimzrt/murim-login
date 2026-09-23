@@ -1,20 +1,21 @@
 # Translation State
 
-- Last completed: 827
-- Next chapter: 828
-- Current block: 825–829 (3/5)
-- Latest translation: `translations/0827.md`
-- Latest summary: `summaries/beats/0827.md`
-- Safe profiles through: chapter 827
+- Last completed: 828
+- Next chapter: 829
+- Current block: 825–829 (4/5)
+- Latest translation: `translations/0828.md`
+- Latest summary: `summaries/beats/0828.md`
+- Safe profiles through: chapter 828
 
 ## Current Block
 
-- The Doppelganger claims to have served Demon King Asmodeus and says the temple was built for his return. Jin doubts its story but attacks to stop the possible resurrection; after the Doppelganger blocks his spear with a magic circle, Jin uses his Middle Dantian to destroy the temple’s seventy-two stone constructs and magic circles. A dazzling radiance fills the temple before the Doppelganger answers Jin’s challenge.
+- Jin’s white-blue flames destroy the Doppelganger’s seventy-two Golems and magic circles, causing mana backlash. As the Doppelganger tries to escape, it blinds the Skeleton King with an enhanced Light spell. Jin guides the temporarily blinded Skeleton King by Sound Transmission, helping him evade the Doppelganger’s spells and anticipate its Blink. The Skeleton King then cleaves the Doppelganger in two; its fate is not confirmed, and its final thought laments losing its EXP.
 
 ## Open Questions
 
 - Is Demon King Asmodeus truly dead, and will he return?
 - Are the Doppelganger’s claims about Asmodeus and the temple true?
+- Did the Doppelganger survive being cleaved in two?
 - What caused the radiance that filled the temple?
 
 ## Exceptional Decision
