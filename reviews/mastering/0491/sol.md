@@ -4,7 +4,7 @@
 
 Hyuk Mujin entered my temporary tent in the dim light before dawn, then fell silent as if he’d seen a ghost.
 
-“Why?”
+“What?”
 
 “Uh, well…”
 
@@ -14,11 +14,11 @@ Hyuk Mujin entered my temporary tent in the dim light before dawn, then fell sil
 
 “…Hoo.”
 
-Tired? Tired. Was that all I could call this?
+Tired. Was that all I could call this?
 
 I glared at the bronze basin of wash water. My hair was a mess, and my eyes were bloodshot. When I looked up, I saw that the entire tent was in shambles.
 
-Hyuk Mujin belatedly noticed the same thing, and his pupils began quaking.
+Mujin finally noticed too. His eyes widened.
 
 “What in the world happened here?”
 
@@ -40,9 +40,9 @@ I’d said it quietly, but not quietly enough. Mujin jumped at the word *assassi
 
 “I said you heard wrong.”
 
-Of course, it was true.
+Of course, he hadn’t.
 
-Some vicious assassin bastard had installed a dozen or so hidden weapons inside the tent, and I had managed to trigger every single one of them. With a one-hundred-percent success rate, I had been reduced to a bloody rag.
+Some vicious assassin bastard had set a dozen or so hidden weapons around the tent, and I’d managed to trigger every last one. A perfect hundred-percent success rate. By morning, I was a bloody rag.
 
 The maddening part was that I couldn’t tell anyone.
 
@@ -138,15 +138,13 @@ I swallowed the words rising in my throat and started toward the exit. Then I st
 
 “Yes?”
 
-“Go first. I’ll follow right behind you.”
+“You go first. I’ll stay right behind you.”
 
 “Pardon?”
 
 I could almost hear a System notification ringing in my ears.
 
-> **System**
->
-> - You have acquired **Meat Shield**!
+*Ding. You have acquired **Meat Shield**!*
 
 * * *
 
@@ -154,7 +152,7 @@ When I boarded the small vessel waiting for us, I found several familiar faces.
 
 Perfected Being Hyeongong, dressed in a heavily patched Daoist robe with an old Pine-Pattern Ancient Sword at his waist, greeted me with a gentle smile.
 
-“A young fellow Daoist has arrived. It is good to see you again.”
+“Our young fellow Daoist has arrived. It’s good to see you again.”
 
 “Greetings, Perfected Being Hyeongong.”
 
@@ -178,9 +176,9 @@ Don’t laugh. Don’t even show me your teeth.
 
 Without the Myriad-Poison Ring, I doubted I’d be standing right now.
 
-I had been soaked in so much poison that I had seriously considered whether I should change my sobriquet from the Blazing Flame Divine Dragon to something like Poisoned Pickle.
+I’d been poisoned so many times that I’d seriously considered changing my sobriquet from Blazing Flame Divine Dragon to something like Poison Pickle.
 
-*Look at him, sitting there shamelessly.*
+*And look at him, sitting there without a care in the world.*
 
 I glared at Mungyeong, who had already claimed a seat on the swift ship.
 
@@ -194,17 +192,17 @@ If he said lower them, I lowered them.
 
 I quietly looked away, and another Sound Transmission followed.
 
-—Judging by your condition, you must have fallen for every trap from the first day. How pathetic. If you hadn’t had the Myriad-Poison Ring and Scorching Yang Qi, you would have been dead by now.
+—Judging by the state of you, you fell for every trap on your first night. Pathetic. Without the Myriad-Poison Ring and Scorching Yang Qi, you’d have died last night.
 
-—…How do you know whether I would have died or survived?
+—…How do you know whether I would’ve died?
 
-—Want me to tell you?
+—Want me to show you?
 
 —I misspoke.
 
 He wasn’t wrong. Every hidden weapon he’d set was coated with powerful poison.
 
-I had once heard that medicine and poison shared the same source. I didn’t know who had said it, but they had been completely right. Somehow, every poison I suffered came with the adjective *potent* attached to it.
+I’d once heard that medicine and poison were closely connected. Whoever had said it was absolutely right. Somehow, every poison I’d been hit with came with the word *Potent* attached to its name.
 
 Only the Myriad-Poison Ring’s absurd effectiveness and my Scorching Yang Qi—a natural counter to poison—had kept me from suffering anything worse than a few puncture wounds.
 
@@ -246,7 +244,7 @@ Zhuge Feng looked puzzled by my sudden objection.
 
 “…Is that so?”
 
-“You didn’t know? That explains why he didn’t pass the message along through his Disciple.”
+“You didn’t know? I did wonder why he hadn’t told you himself.”
 
 This was the first I’d heard of it.
 
@@ -276,7 +274,7 @@ There were only two possibilities.
 
 Either Cheongpung was a System user with ten tons of candy in his Inventory, or there was a tree nearby that grew the stuff.
 
-“Either way, thanks.”
+“Anyway, thanks.”
 
 Normally I wouldn’t have given it a second glance, but with so much on my mind, I could use the sugar. I bit into the candy and asked, “Finding candy at a time like this takes some skill. Did you buy it on your last visit to the Zhuge Clan?”
 
@@ -284,7 +282,7 @@ Normally I wouldn’t have given it a second glance, but with so much on my mind
 
 “Hm? Then where did this come from?”
 
-“Slaugh—no, Mungyeong gave it to me. He told me to give this one specially to you, Benefactor. He’s a really good person!”
+“Slaugh—no, Mungyeong gave it to me. He said this one was especially for you, Benefactor. He’s such a good person!”
 
 “…Who?”
 
@@ -302,7 +300,7 @@ The answer came from somewhere else.
 
 “……”
 
-Fuck. No wonder the candy had tasted unusually sweet.
+Fuck. No wonder the candy tasted unusually sweet.
 
 I quietly took out the Myriad-Poison Ring.
 
@@ -310,7 +308,7 @@ I quietly took out the Myriad-Poison Ring.
 
 They say people leave their names behind when they die, while beasts leave their hides.
 
-The same was true of the spirit creature that had ruled Dongting Lake and the Yangtze for five hundred years.
+The same held true for the sacred creature that had ruled Dongting Lake and the Yangtze for five hundred years.
 
 The Water God Dragon’s spirit had already left its body, but the body remained where it had last lain, retaining all the majesty and beauty it had possessed in life.
 
@@ -322,7 +320,7 @@ The sight of the Water God Dragon’s body was that overwhelming.
 
 Even Gung Gibang, who had seen it before, stood with his mouth hanging open and kept exclaiming in awe.
 
-“It’s incredible even the second time around. Don’t you think?”
+“It’s enormous, even the second time around. Don’t you think?”
 
 I answered as politely as I could.
 
@@ -332,17 +330,17 @@ I answered as politely as I could.
 
 “What?”
 
-“Of the ten silver nyang you promised me yesterday, I still haven’t received five. I knew you were shameless, but I never thought you’d go so far as to prey on a beggar.”
+“You promised me ten silver nyang yesterday, and I’m still owed five. I knew you were shameless, but I never thought you’d stoop to cheating a beggar.”
 
 “I’ll pay you. Just keep it short. I’m starting to see things.”
 
 I could hardly tell whether that was his mouth or a sewer.
 
-“Stop exaggerating. And if you mean hallucinations, I’ve had more than enough of those myself. I’ve been having strange dreams for the past few days.”
+After wringing the remaining five silver nyang out of me, Gung Gibang grumbled, “Stop exaggerating. Besides, I’ve seen enough visions myself. I’ve had strange dreams these past few days.”
 
 “Dreams?”
 
-“Yes. Dreams.”
+“Dreams.”
 
 Gung Gibang gave a quiet laugh and pointed at Mungyeong.
 
@@ -352,9 +350,9 @@ Gung Gibang gave a quiet laugh and pointed at Mungyeong.
 
 *He is the Slaughter Saint.*
 
-I continued staring at the Water God Dragon’s body, doing my best to ignore Gung Gibang’s endless chatter.
+I did my best to ignore Gung Gibang’s chatter and looked at the Water God Dragon’s body.
 
-Its scales, once stained black, now scattered dazzling silver light, while countless wounds were carved across its body.
+From head to tail, it stretched a hundred or so zhang.[^1] Its scales, once stained black, now gleamed dazzling silver. Countless wounds marked its body.
 
 I ran my hand over one of the gaping wounds and apologized silently.
 
@@ -362,7 +360,7 @@ I ran my hand over one of the gaping wounds and apologized silently.
 
 Of course I knew the battle had been unavoidable. I had no reason to apologize. If anything, the Water God Dragon had been grateful to us for stopping it, even if this was what it had taken.
 
-But I was apologizing because I couldn’t bury its body as it was.
+But I was apologizing because we couldn’t bury its body as it was.
 
 *The corpse.*
 

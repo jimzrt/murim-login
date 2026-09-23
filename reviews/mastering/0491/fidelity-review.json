@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“I’ll pay you. Just keep it short. I’m starting to see things.”",
+      "defect": "The translation omits that Gung Gibang eventually extracts the remaining five silver nyang before grumbling.",
+      "id": "F02",
+      "rationale": "The source confirms the payment was collected, not merely promised. The accepted baseline preserves that transaction.",
+      "replacement": "After finally extracting another five silver nyang from me, Gung Gibang grumbled:",
+      "severity": "minor",
+      "source": "Korean line 361"
+    },
+    {
+      "confidence": 0.99,
+      "current": "- You have acquired **Meat Shield**!",
+      "defect": "The source includes a “띠링” notification chime immediately before the System message, but the assembled English omits it.",
+      "id": "F03",
+      "rationale": "The chime is an explicit audio detail in the source and was retained in the accepted baseline.",
+      "replacement": "*Ding.*",
+      "severity": "minor",
+      "source": "Korean lines 151–153"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it omits the dragon’s stated length and a payment that the source confirms Gung Gibang collected; it also drops the notification chime.",
+  "version": 1
+}

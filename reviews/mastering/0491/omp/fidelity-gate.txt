@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, but it omits the dragon’s stated length and a payment that the source confirms Gung Gibang collected; it also drops the notification chime.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 379",
+      "current": "I continued staring at the Water God Dragon’s body, doing my best to ignore Gung Gibang’s endless chatter.",
+      "defect": "The assembled English omits the description that the dragon’s body stretched for more than a hundred zhang from head to tail.",
+      "replacement": "From head to tail, its enormous body stretched for more than a hundred zhang.[^1]",
+      "rationale": "The source explicitly gives the body’s length; the accepted baseline preserved this physical detail.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 361",
+      "current": "“I’ll pay you. Just keep it short. I’m starting to see things.”",
+      "defect": "The translation omits that Gung Gibang eventually extracts the remaining five silver nyang before grumbling.",
+      "replacement": "After finally extracting another five silver nyang from me, Gung Gibang grumbled:",
+      "rationale": "The source confirms the payment was collected, not merely promised. The accepted baseline preserves that transaction.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean lines 151–153",
+      "current": "- You have acquired **Meat Shield**!",
+      "defect": "The source includes a “띠링” notification chime immediately before the System message, but the assembled English omits it.",
+      "replacement": "*Ding.*",
+      "rationale": "The chime is an explicit audio detail in the source and was retained in the accepted baseline.",
+      "confidence": 0.99
+    }
+  ]
+}
