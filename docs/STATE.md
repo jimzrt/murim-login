@@ -1,21 +1,25 @@
 # Translation State
 
-- Last completed: 876
-- Next chapter: 877
-- Current block: 875–879 (2/5)
-- Latest translation: `translations/0876.md`
-- Latest summary: `summaries/beats/0876.md`
-- Safe profiles through: chapter 876
+- Last completed: 877
+- Next chapter: 878
+- Current block: 875–879 (3/5)
+- Latest translation: `translations/0877.md`
+- Latest summary: `summaries/beats/0877.md`
+- Safe profiles through: chapter 877
 
 ## Current Block
 
-- While Hong Jin anxiously waits outside Qianqing Palace, Hyuk Mujin calms him and explains his confidence in Jin Taekyung, even revealing that he witnessed Taekyung kill an imugi. Taekyung returns without Prince Shangshan and reports that the Emperor has confined the prince in Qianqing Palace. He also says Aehyang, the City Lord of Sichuan Province’s former concubine, is there. Hong Jin explains that imperial consorts do not normally stay in Qianqing Palace; he and Taekyung conclude that Aehyang is pregnant and that the Emperor may intend her child to replace Shangshan as heir.
+- Jin Taekyung explains that Aehyang’s medicinal decoction and the Emperor’s secrecy make it highly likely she is pregnant, and Hong Jin and Hyuk Mujin recognize that a new heir could put Prince Shangshan in danger.
+- Hong Jin recounts how the Fourth Prince spared him after the purge of the late Emperor’s family and how the late Emperor entrusted Shangshan to his care. Taekyung suspects the late Emperor may have suffered from Blood Soul Gu, as the City Lord of Sichuan Province did, but the cause remains unconfirmed.
+- Hong Jin plans to contact Ma Sanbao about Shangshan’s danger, and Taekyung says the Myriad-Poison Ring should protect the prince. Taekyung also makes a personal request of Ma Sanbao. In Hangzhou, Jeok Cheongang receives a message from someone claiming to bring word from the Blazing Flame Divine Dragon.
 
 ## Open Questions
 
-- What does the Emperor intend for Shangshan, and what are the palace attendants’ true orders?
-- What is Aehyang’s situation in the restricted part of Qianqing Palace, and is she pregnant?
-- What is the nature of the Emperor’s connection to Dark Heaven?
+- Is Aehyang pregnant, and what does the Emperor intend for her and Shangshan?
+- Did the Emperor or Dark Heaven use Blood Soul Gu against the late Emperor and the City Lord of Sichuan Province?
+- Will the Myriad-Poison Ring protect Shangshan from Blood Soul Gu?
+- What personal task has Taekyung asked Ma Sanbao to perform?
+- Who brought Jeok Cheongang the message, and what does it say?
 
 ## Exceptional Decision
 
