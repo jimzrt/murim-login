@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "*Even being generous, he looks well into his fifties.*",
+      "defect": "“Well into his fifties” makes him appear older than the source specifies.",
+      "id": "F01",
+      "rationale": "오십 줄은 넘어 means past fifty, not necessarily well into that decade.",
+      "replacement": "*Even being generous, he looks over fifty.*",
+      "severity": "minor",
+      "source": "‘아무리 좋게 봐줘도 오십 줄은 넘어 보여.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "after the coup led by the Embroidered Uniform Guard succeeded, the East Depot became something of a liability to the Emperor.",
+      "defect": "“Liability” loses the dilemma in 계륵: something of little use that one is nevertheless reluctant to discard.",
+      "id": "F02",
+      "rationale": "Ma Sanbao describes an awkward institution the Emperor keeps despite finding it of limited value, not merely a harmful one.",
+      "replacement": "after the coup led by the Embroidered Uniform Guard succeeded, the East Depot became something the Emperor had little use for but couldn’t simply discard.",
+      "severity": "major",
+      "source": "금의위가 주도한 역모가 성공한 이후부터 동창은 계륵(鷄肋)과 같은 존재였네."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Hong Jin was a loyal subject whom the late Emperor had trusted enough to put in charge of Prince Shangshan.",
+      "defect": "“Put in charge of” suggests authority over the prince rather than responsibility for his care, and drops the late Emperor’s affection for Hong Jin.",
+      "id": "F03",
+      "rationale": "The late Emperor valued Hong Jin and entrusted the prince to him; Hong Jin was not placed in command of the prince.",
+      "replacement": "Hong Jin was a loyal retainer the late Emperor had cherished enough to entrust with Prince Shangshan’s care.",
+      "severity": "major",
+      "source": "홍진은 상산왕을 맡길 만큼 선황이 아끼던 충복이고"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“They’re not only loyal. Though perhaps not as much as the Slaughter Saint, who is close to you.”",
+      "defect": "The English leaves the comparison attached to loyalty, whereas the Emperor is adding that the guards are skilled, though not as skilled as the Slaughter Saint.",
+      "id": "F04",
+      "rationale": "충성심만 대단한 것은 아니지 shifts from loyalty to the guards’ other abilities; the Slaughter Saint comparison qualifies those abilities.",
+      "replacement": "“Loyalty isn’t all they have. They’re no match for the Slaughter Saint you’re close to, of course.”",
+      "severity": "major",
+      "source": "“충성심만 대단한 것은 아니지. 그대와 가까운 사이인 살성(殺星)만큼은 아니겠지만.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You should be.”",
+      "defect": "The Emperor actually recites the deferential phrase he expects Taekyung to use. “You should be” turns the etiquette correction into a menacing retort and weakens the reason for Taekyung’s confusion.",
+      "id": "F05",
+      "rationale": "The Emperor says 황공하옵니다 as a model, then explains that Taekyung should say it instead of apologizing.",
+      "replacement": "“I stand in fear and awe, Your Majesty.”",
+      "severity": "major",
+      "source": "“황공하옵니다.”\n\n“예?”\n\n“죄송한 것이 아니라, 황공해야 한다는 말이다. 짐을 대하는 모두가 그렇게 하는 것처럼.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "They melted away into various corners of the room, leaving behind only the faintest trace of their presence.",
+      "defect": "“Corners of the room” narrows their disappearance to one room; the source places them throughout the Emperor’s quarters.",
+      "id": "F06",
+      "rationale": "처소 곳곳 refers to various parts of the quarters, not specifically the room’s corners.",
+      "replacement": "They seemed to melt away throughout the Emperor’s quarters, leaving behind only the faintest trace of their presence.",
+      "severity": "minor",
+      "source": "처소 곳곳으로 녹아들 듯 사라지는 은잠술은 가히 신기(神技)에 가까웠다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Though I don’t know whether it will be a curse or a blessing.”",
+      "defect": "“Curse” drops the Emperor’s pointed image of the inherited trait becoming poison.",
+      "id": "F07",
+      "rationale": "독 and 득 set up a sharp contrast between poison and benefit as he assesses his brother’s inherited aptitude.",
+      "replacement": "“Though I don’t know whether that will prove a poison or a boon.”",
+      "severity": "minor",
+      "source": "“그것이 독이 될지, 득이 될지는 모르겠지만.”"
+    }
+  ],
+  "summary": "The draft is largely faithful, but several lines alter the Emperor’s meaning or blur political and family relationships.",
+  "version": 1
+}

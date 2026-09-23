@@ -1382,3 +1382,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 정호군 | 상산왕 | imperial guard officer escorting the prince | His Highness | formal and deferential | Hogun formally reports that he has come to escort the prince. |
 | 정호군 | 홍진 | Embroided Uniform Guard officer addressing a senior imperial official | Deputy Military Commissioner | formal and admonishing | Hogun tells Hong Jin to mind his words. |
 | 중년인 | 상산왕 | unknown imperial subject addressing a prince | His Highness, Prince Shangshan | formal and deferential | Addresses him as 상산왕 전하 while remarking on seeing him grown. |
+| 황제 | 상산왕 주표 | elder brother addressing his youngest younger brother | you | authoritative and familiar | Summons him directly and uses 너. |
+| 상산왕 주표 | 황제 | younger brother addressing the Emperor | Your Majesty, my imperial brother | formal and deferential | Greets him as 형님 폐하. |
