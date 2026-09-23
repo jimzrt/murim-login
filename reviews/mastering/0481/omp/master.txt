@@ -82,11 +82,11 @@ It still sounded as loud as thunder to Mungyeong.
 
 “The Yangtze One Saber?”
 
-“That’s the name—or rather, the sobriquet—of the river bandit chief who suffered a disaster this time. Apparently, his martial arts are so powerful that there isn’t a martial artist anywhere who hasn’t heard of him.”
+“That’s the name—or rather, the sobriquet—of the river bandit chief who was killed this time. Apparently, his martial arts were so formidable that every martial artist in Murim had heard of him.”
 
 “…And?”
 
-“According to what the wandering martial artist said, the authorities rounded up so many dark-path figures this time to cover something up.”
+“According to the wandering martial artist, the authorities rounded up all those dark-path figures to cover something up.”
 
 Mungyeong gave a silent, derisive laugh. The middle-aged medical apprentice’s face stiffened.
 
@@ -94,7 +94,7 @@ Mungyeong gave a silent, derisive laugh. The middle-aged medical apprentice’s 
 
 “No. I’d only just heard it when Physician Song called for me, so I came straight here.”
 
-“What about Medical Apprentice Hwang? Did anyone else hear it besides you?”
+“What about Medical Apprentice Hwang? Did anyone besides you hear her?”
 
 “Why are you suddenly acting like this, Physician Song?”
 
@@ -122,11 +122,11 @@ The middle-aged medical apprentice gently patted the cowed young woman on the he
 
 “This is all thanks to the City Lord, who acted on the orders of His Majesty the Emperor, and to Great Hero Jin Taekyung of the Jin Family of Taiyuan, who personally exterminated the culprits. So don’t be swayed by false rumors. All you need to do is praise them.”
 
-“Yes, yes.”
+“Y-yes.”
 
 “No, not like that. Repeat after me. May His Majesty the Emperor live ten thousand years! A thousand years to the City Lord! A thousand years to Great Hero Jin Taekyung!”
 
-“L-long live His Imperial Majesty the Emperor…”
+“M-may His Majesty the Emperor live ten thousand years…”
 
 “Louder!”
 
@@ -134,7 +134,7 @@ The middle-aged medical apprentice gently patted the cowed young woman on the he
 
 Mungyeong stared at the middle-aged medical apprentice in disbelief and clicked his tongue inwardly.
 
-If even a medical apprentice who could be considered educated acted like this, then the reaction of ordinary people was obvious.
+If even an educated man like him reacted this way, there was no need to wonder how ordinary people would respond.
 
 *They’ll praise the Son of Heaven without a shred of doubt. It’s only been two days, so the report on this incident probably hasn’t even reached the imperial palace yet.*
 
@@ -208,7 +208,7 @@ As I groaned and clutched my chest, Jeok Cheongang spoke in a sinister voice.
 
 “Master?”
 
-“Ahem. Not merely a master as high as the heavens, but this old man, who is even higher than the heavens. Do you think I raised you so I could be treated like this?”
+“Ahem. Not merely a master as high as the heavens, but this old man, who stands even higher than the heavens. Do you think I raised you to be treated like this?”
 
 “…My mother raised me, though. Why are you taking credit, Old Master?”
 
@@ -250,7 +250,7 @@ The moment Jeok Cheongang graciously yielded his place to the next batter, a bri
 
 *Swish. Shhk!*
 
-A chill ran down my spine, and cool air slipped through the gap in my severed clothes.
+A chill ran down my spine, and cool air slipped through my severed clothes.
 
 I swallowed hard as my shirt split cleanly into two halves, falling open to either side.
 
@@ -268,9 +268,9 @@ I stood there with my heart pounding while Mungyeong gazed impassively at me.
 
 “What would’ve been the point? If I dodged, I’d only get hit twice instead of once. You weren’t planning to kill me anyway, were you?”
 
-“As expected, you’re strange. Strange enough to put me in a bad mood.”
+“As expected, you’re strange. Strange enough to make me uncomfortable.”
 
-*Really? For someone who’s in a bad mood, your expression is pretty ambiguous.*
+*Really? For someone who’s uncomfortable, your expression is pretty hard to read.*
 
 Jeok Cheongang, on the other hand, looked unmistakably pissed off.
 
@@ -340,7 +340,7 @@ The culprit behind this entire incident.
 
 The woman who had corrupted the imugi that had guarded the Yangtze and Dongting Lake for more than five hundred years and caused countless deaths.
 
-And the woman I had never managed to find.
+The woman we had failed to find in the end.
 
 *Where the hell did she run off to?*
 

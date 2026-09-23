@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He recalled how Jin Taekyung had not shrunk back before that enormous, unprecedented monster. If anything, he had rampaged even more wildly. Mungyeong’s brow furrowed.",
+      "defect": "The source describes the monster as something Mungyeong had never seen or heard of. “Unprecedented” loses the explicit auditory component and weakens the source-specific image.",
+      "id": "F01",
+      "rationale": "듣도 보도 못한 means “never heard or seen,” preserving both senses of unfamiliarity.",
+      "replacement": "He recalled how Jin Taekyung had not shrunk back before that enormous monster, unlike anything he had ever seen or heard of. If anything, he had rampaged even more wildly. Mungyeong’s brow furrowed.",
+      "severity": "minor",
+      "source": "Lines 41-43"
+    },
+    {
+      "confidence": 0.94,
+      "current": "But that imugi must have gotten him good.",
+      "defect": "“Must have” is more certain than the source’s tentative inference that it seemed the imugi had badly injured him.",
+      "id": "F02",
+      "rationale": "아무래도 ... 제대로 당한 것 같더군 expresses an apparently/it-seems inference rather than near-certainty.",
+      "replacement": "But it seemed that imugi had really done a number on him.",
+      "severity": "minor",
+      "source": "Line 329"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with two minor shifts in source detail and epistemic force.",
+  "version": 1
+}
