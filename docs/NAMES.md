@@ -2285,3 +2285,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 사우디아라비아 | **Saudi Arabia** | Country whose representative supports reestablishing the Federation. |
 | 임마누엘 | **Emmanuel** | The President of France who congratulates Michael Silbert directly. |
 | 영웅의 검 | **Hero's Sword** | The sword Team Leader Choi draws to confront Jin. |
+| 엑스칼리버 | **Excalibur** | Legendary sword reference used as a comparison for the Hero's Sword. |
+| 워싱턴 포스트지 | **Washington Post** | Newspaper represented among the reporters questioning Michael. |
+| 서울 | **Seoul** | Location announced for the World Hunter Federation's inaugural ceremony. |
