@@ -2,7 +2,7 @@
 
 “Cough, cough.”
 
-Hunched over like a shrimp, the old man coughed with difficulty.
+Hunched over like a shrimp, the old man coughed painfully.
 
 Whenever he moved, the chill rising from the underground prison’s cold stone floor seeped into his bones.
 
@@ -20,19 +20,19 @@ Once, he had crossed the continent and left countless storms of blood in his wak
 
 “Then kill me! If you’re going to subject me to such humiliation, just kill me already!”
 
-As the old man writhed and let out a tearing scream, the chains binding his body tightly grated against one another.
+The old man thrashed and let out a shrill roar. The chains binding him from head to toe grated harshly.
 
 But like the internal energy sealed within his dantian, the dozen or so iron balls attached to those chains did not budge an inch.
 
-“You bastaaaardsss!”
+“You bastaaards!”
 
 Though his martial arts had been sealed and he could no longer display his former might, his innate viciousness remained unchanged.
 
-The old man glared through the thick iron bars with bloodshot eyes. Faces that must have been laughing at him somewhere flashed before his eyes like hallucinations.
+The old man glared through the thick iron bars with bloodshot eyes. The faces of those who must have been laughing at him somewhere flashed before his eyes like visions.
 
 “You bastards…!”
 
-A grudge etched into his bones and soul.
+The hatred was carved into his bones and soul.
 
 They had killed his two brothers, born on the same day and hour as him, with whom he had spent his entire life. The old man himself had been captured and subjected to every humiliation imaginable.
 
@@ -40,7 +40,7 @@ They had even crushed his testicles as though castrating livestock. Calling them
 
 “Fine. Then I’ll survive, no matter what it takes.”
 
-Flames poured from the old man’s eyes.
+Flames blazed in the old man’s eyes.
 
 “I will escape this place and rip you bastards apart alive!”
 
@@ -62,23 +62,23 @@ The smile on the young man’s lips sent a chill through his chest.
 
 “How’s the busted part? Must hurt every time you take a piss.”
 
-The old man almost nodded without realizing it.
+The old man almost nodded without thinking.
 
 But this young man’s name stood alongside the others at the very top of his kill list. He was someone the old man had to kill, whatever the cost.
 
 The old man glared at him through the bars, eyes gleaming.
 
-“If you’re curious, lift the seal on my martial arts right now. I’ll show you myself.”
+“If you’re curious, remove the seal right now. This old man will show you himself.”
 
 “I’m not particularly curious about that…”
 
-The smile on the young man’s lips—Jin Taekyung’s lips—vanished as if wiped away.
+The smile vanished from the young man’s face—Jin Taekyung’s face.
 
 “You’ll have to tell me everything else you know, Three Fiends.”
 
 * * *
 
-In the modern world, torturing prisoners was classified as an illegal act. If such a fact became known, even a Great Nation would be condemned by the international community.
+In the modern world, torturing prisoners was illegal. If word got out, even a powerful nation would face condemnation from the international community.
 
 But this was Murim. The authority of the law was hazy, and the line between man and beast even hazier.
 
@@ -86,7 +86,7 @@ And as far as I was concerned, the Three Fiends was closer to a beast wearing hu
 
 *There’s no reason to hesitate.*
 
-He had harmed countless people over the course of many years.
+He had taken countless lives over the long years.
 
 He was a fiend who had slaughtered hundreds—thousands—of people merely to satisfy his bloodlust.
 
@@ -98,7 +98,7 @@ I stared coldly at the Three Fiends.
 
 His body hung limp, bound to an iron chair.
 
-Bloodstained saliva dripped from his open mouth, and his limbs, torn and broken all over, spasmed with pain.
+Bloodstained drool ran from his open mouth, and his shredded, broken limbs twitched with pain.
 
 “How is he?”
 
@@ -106,7 +106,7 @@ At my question, the old man examining him scratched his head with a bloodstained
 
 “He has already reached his limit. At this point, we must assume he has confessed everything he knows.”
 
-If torture skill were divided into realm stages, I was barely First Rate. The old man before me was a Supreme Peak master.
+If skill in torture were divided into martial realms, I was barely First Rate. The old man before me was a Supreme Peak master.
 
 He had handled prisoners with such efficient cruelty during the Great Faction War that Zhuge Gonghu, the Fan-Wisdom King, had taken note of his methods and invited him to join the Zhuge Clan after the war.
 
@@ -116,7 +116,7 @@ He had handled prisoners with such efficient cruelty during the Great Faction Wa
 
 The old man’s voice rang with certainty.
 
-The appearance of the Three Fiends, who had become half a corpse, and his aura, which seemed ready to go out at any moment, lent even greater weight to those words.
+The Three Fiends looked half dead already, and his fading qi seemed ready to sputter out at any moment. Both lent weight to the old man’s judgment.
 
 But this wasn’t enough. I stared at the Three Fiends as he trembled, nearly senseless.
 
@@ -126,19 +126,19 @@ It wasn’t as though he had known nothing.
 
 For the first few shichen,[^2] he had held out through sheer spite. But as the torture neared its final stages, he had grown talkative enough to fill five bamboo slips with densely packed writing.
 
-Yet most of it was useless or concerned events from the past, and the information I needed most had never come out.
+Most of it, however, was either useless or concerned things long past. The information we needed most had never come out.
 
-*The series of incidents happening in Hubei Province right now.*
+*The string of incidents unfolding in Hubei Province.*
 
 The Sea Serpent Society had fallen, and Donghu Stronghold had been massacred.
 
-The casualties had already far exceeded a thousand, including innocent commoners who did not know even a single martial move or half a stance.
+The death toll had already soared past a thousand, including innocent civilians who knew nothing of martial arts—not even a single move or half a stance.
 
 As far as I knew, only one group possessed both the power and the sheer brutality to commit such madness.
 
 *Dark Heaven.*
 
-The problem was that I could not get hold of their trail.
+The problem was that we couldn’t catch their trail.
 
 Where and how had they attacked the Sea Serpent Society and Donghu Stronghold? Where had they hidden the Moving Formation?
 
@@ -170,7 +170,7 @@ His body was already ruined inside and out. It could not endure the heat of Scor
 
 “Ghk… Gack.”
 
-His painful, gasping breaths carried the smell of meat being cooked. But I continued staring at the Three Fiends without wavering.
+The smell of cooking flesh mingled with his ragged gasps. But I held his gaze without wavering.
 
 “That’s not the answer I want.”
 
@@ -208,7 +208,7 @@ I knew. I had controlled my strength as carefully as possible to keep him alive.
 
 The Three Fiends was one of the great fiends of the previous generation and a Supreme Peak master of Dark Heaven.
 
-If we kept him alive and escorted him to Henan, there might be a way to learn even more information.
+If we kept him alive and transported him to Henan, we might find some other way to extract more information.
 
 Of course, I couldn’t dismiss the possibility that those bamboo slips contained everything he knew.
 
@@ -222,7 +222,7 @@ Yet the Three Fiends had begged me—someone no different from his mortal enemy�
 
 And still, he had never changed his story.
 
-*I—I and my brothers only followed orders under the Demon Lord! I don’t know anything about Dark Heaven’s headquarters or what happened elsewhere, I tell you!*
+*I—I and my brothers only followed the Demon Lord’s orders! I know nothing about Dark Heaven’s headquarters or what happened elsewhere, I tell you!*
 
 Remembering the cries he had repeated throughout the torture, I called out a name.
 
@@ -278,7 +278,7 @@ Zhuge Gyun, the Divine Marvel Dragon and Lesser Family Head of the Zhuge Clan, h
 
 “What brings you here in such haste? My ancestor Zhuge Wuhou said that a junzi[^3] should always conduct himself properly and remain tranquil…”
 
-“Shut up. Are the people ready?”
+“Shut it. Are the men ready?”
 
 “The people my fath—no, the Family Head mentioned are already prepared to leave. Do you intend to depart immediately?”
 

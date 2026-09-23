@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Three Supreme Peak masters—or hundreds of people and ships—must have been mobilized.",
+      "defect": "The source says more than several hundred people and vessels, but the translation reduces this to merely hundreds.",
+      "id": "F01",
+      "rationale": "수백이 넘는 explicitly exceeds several hundred; the current wording weakens the stated quantity.",
+      "replacement": "Three Supreme Peak masters—or more than several hundred people and ships—must have been mobilized.",
+      "severity": "minor",
+      "source": "Lines 239–240"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hundreds of large ships travel the Hubei stretch of the Yangtze every day",
+      "defect": "The translation drops the source's explicit 'more than several hundred' quantity.",
+      "id": "F02",
+      "rationale": "수백 척이 넘는 means more than several hundred vessels, not simply hundreds.",
+      "replacement": "More than several hundred large ships travel the Hubei stretch of the Yangtze every day",
+      "severity": "minor",
+      "source": "Line 241"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the Three Fiends was closer to a beast wearing human skin",
+      "defect": "“Wearing human skin” adds a literal skin-as-covering image that the source does not establish.",
+      "id": "F03",
+      "rationale": "사람의 모습을 한 means having a human appearance or form; it does not specify human skin as a physical covering.",
+      "replacement": "the Three Fiends was closer to a beast in human form",
+      "severity": "minor",
+      "source": "Lines 87–89"
+    }
+  ],
+  "summary": "Mostly faithful, with two quantity weakenings and one added physical implication.",
+  "version": 1
+}
