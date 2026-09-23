@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "In the chaos of enemies who’d already died returning as their comrades, they’d seen through his weakness.",
+      "defect": "The draft turns dead enemies into comrades; the source says enemies and comrades alike are rising again.",
+      "id": "F01",
+      "rationale": "적들이, 동료들이 names both groups as subjects of 되살아나는.",
+      "replacement": "Amid the chaos of fallen enemies and comrades alike rising again, they’d seen through his weakness.",
+      "severity": "critical",
+      "source": "이미 한 번 죽은 적들이, 동료들이 되살아나는 이 혼란스러운 상황 속에서 약점을 간파해 냈다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "More than ten streams of blood burst through flesh and bone like flashes of light.",
+      "defect": "Blood streams replace the greatsword fragments that lodge in Golden Ox Palace’s body.",
+      "id": "F02",
+      "rationale": "The preceding sentence sends the shattered blade’s fragments toward him; 틀어박힌 says they lodge in his flesh.",
+      "replacement": "More than ten blood-streaked shards shot into him like flashes of light, shattering flesh and bone as they lodged inside.",
+      "severity": "critical",
+      "source": "마치 섬광처럼 살과 뼈를 부수며 틀어박힌 십여 개의 핏줄기."
+    },
+    {
+      "confidence": 0.98,
+      "current": "And to fulfill his master’s order—to use himself as a shield to bring that giant down.",
+      "defect": "The draft makes Golden Ox Palace choose to use himself as a shield. His master intends to use him as one.",
+      "id": "F03",
+      "rationale": "방패막이로 삼아 그 거인을 쓰러트리려 하는 modifies 주인, identifying the master as the one using him.",
+      "replacement": "And to carry out the order of his master, who meant to use him as a shield to bring that giant down.",
+      "severity": "critical",
+      "source": "그리고 자신을 방패막이로 삼아 그 거인을 쓰러트리려 하는 주인의 명령을 완수하기 위해."
+    },
+    {
+      "confidence": 0.96,
+      "current": "But famous generals were rare.",
+      "defect": "“Famous” loses the contrast between fierce battlefield fighters and exceptional commanders.",
+      "id": "F04",
+      "rationale": "명장 contrasts a commander distinguished by ability with the 맹장 mentioned immediately before, not merely someone widely known.",
+      "replacement": "But truly great commanders were rare.",
+      "severity": "major",
+      "source": "하지만 명장(名將)은 드물다."
+    }
+  ],
+  "summary": "The draft has three substantive action and subject errors, plus a loss of meaning in the contrast between kinds of generals.",
+  "version": 1
+}

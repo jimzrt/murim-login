@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 914
-- Next chapter: 915
-- Current block: 910–914 (5/5)
-- Latest translation: `translations/0914.md`
-- Latest summary: `summaries/beats/0914.md`
-- Safe profiles through: chapter 914
+- Last completed: 915
+- Next chapter: 916
+- Current block: 915–919 (1/5)
+- Latest translation: `translations/0915.md`
+- Latest summary: `summaries/beats/0915.md`
+- Safe profiles through: chapter 915
 
 ## Current Block
 
-- The Emperor recalls the Maoshan Rebellion: Taizu ordered the sect destroyed after it resisted the relocation of the capital, but one survivor endured. The Eastern Heaven Demon Lord reveals that his family and the Maoshan Sect were taken from him, declares that the rulers and the world betrayed him, and explains how he used the Cang Gong identity to gain power within the Great Nation.
-- The Demon Lord raises more than a thousand dead Imperial Guards and advances on the Emperor. So Gyo reveals immense power, halts his attack, and proves dangerous enough to make him hesitate. As the undead press forward, Baek Yeon and So Gyo defend the Emperor; then Jeok Cheongang and Jin Taekyung return to face the Demon Lord.
+- After breaking through the undead, Jin Taekyung and Jeok Cheongang confront the Eastern Heaven Demon Lord, aiming to end the battle by defeating the one who raises the dead. The allies left behind are badly outnumbered, and Jin and Jeok have already spent much of their internal energy. Jeok steadies Jin through Sound Transmission, and they attack together.
+- The Eastern Heaven Demon Lord recognizes Jin’s battlefield judgment and considers him a candidate to fill the power vacuum left by the deaths of the Western Heaven Demon Lord and Southern Heaven Demon Empress. As the fight continues, Golden Ox Palace attacks Jeok under the Demon Lord’s command. Jeok faces the attack while another strike closes in; Jin cries out as hot blood falls.
 
 ## Open Questions
 
 - What caused Jeok Cheongang’s unexplained cold pain?
-- What is So Gyo's identity and allegiance?
-- Can Jeok Cheongang and Jin Taekyung stop the Eastern Heaven Demon Lord and protect the Emperor?
-- What will happen to the Emperor and Prince Shangshan as the battle continues?
+- What is So Gyo’s identity and allegiance?
+- Can Jin Taekyung and Jeok Cheongang defeat the Eastern Heaven Demon Lord and protect their allies?
+- Who is the person the Eastern Heaven Demon Lord says wants Jin Taekyung?
 
 ## Exceptional Decision
 

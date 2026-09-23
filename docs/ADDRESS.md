@@ -1420,3 +1420,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 동천마군 | 소교 | enemies | you; you woman | hostile and demanding | He demands that So Gyo reveal her identity. |
 | 소교 | 동천마군 | enemies | you | casual, taunting, and threatening | She warns him to stop and taunts him about whether suicide would still kill him. |
 | 진태경 | 동천마군 | young martial artist confronting an enemy | ugly-ass big bro | casual, profane, and taunting | Jin calls out to the Demon Lord after returning to the hall. |
+| 동천마군 | 금우궁 | master to commanded undead subordinate | Fire King | commanding | The Eastern Heaven Demon Lord’s bell-imprinted order directs Golden Ox Palace to kill the Fire King. |
