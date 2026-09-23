@@ -1,6 +1,6 @@
 # Hwangcheon (황천)
 
-- **Safe through:** Chapter 325
+- **Safe through:** Chapter 835
 - **Aliases:** None
 - **Role:** Second-generation disciple of the Zhongnan Sect and Commander of the Taeeul Sword Unit, Hwangcheon is a Peak master who serves under Hwangbo Eom.
 - **Personality:** Loyal to Zhongnan and its elders, initially reactive and defensive, but willing to obey Hyuk Sopyung's corrective command.

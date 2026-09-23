@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 834
-- Next chapter: 835
-- Current block: 830–834 (5/5)
-- Latest translation: `translations/0834.md`
-- Latest summary: `summaries/beats/0834.md`
-- Safe profiles through: chapter 834
+- Last completed: 835
+- Next chapter: 836
+- Current block: 835–839 (1/5)
+- Latest translation: `translations/0835.md`
+- Latest summary: `summaries/beats/0835.md`
+- Safe profiles through: chapter 835
 
 ## Current Block
 
-- After waking in Nanman, Jin reunites with the Fire Dragon Pavilion party and learns he briefly woke three days earlier; Jeok Cheongang has gone to Sichuan to bring back the Divine Physician. Jin’s [Broken Body] injury still causes pain around his lower dantian, and he accepts that using One Annihilation to survive came with a cost.
-- Taishan returns carrying a giant beehive as a supposed cure for Jin. The party quietly retreats to the carriage as the bees swarm.
+- On the swift ship bound for Sichuan, Sudal struggles to keep Taishan supplied with food and grows exasperated with his unruly passengers. He meets Namho, whose swollen forehead came from a Black Gold Bee sting—not Iron Head Technique—and whose grand claims about his wartime exploits turn out to be boasts about sending messages from the rear. Jin Taekyung emerges after five days of rest, and the ship reaches Sichuan that night; Sudal decides to retire.
 
 ## Open Questions
 

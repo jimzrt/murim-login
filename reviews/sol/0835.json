@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They weren’t just being allowed to keep what they owned—they’d even offered the use of their ship. And yet Sudal still had to worry about this.",
+      "defect": "Reverses who would take whose possessions and turns transporting the passengers into offering them use of the ship.",
+      "id": "F01",
+      "rationale": "Sudal laments that, as a pirate, he cannot rob these people and is instead carrying them aboard his ship.",
+      "replacement": "Instead of taking their possessions, he was giving them a ride—and he still had to worry about this.",
+      "severity": "critical",
+      "source": "가진 것을 뺏지는 못할망정, 배까지 태워 주는 마당에 이런 걱정까지 해야 하다니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*The heavens are so cruel. How could they do this to a man like me?*",
+      "defect": "Changes the target of Sudal’s complaint from Cheongpung to himself.",
+      "id": "F02",
+      "rationale": "Sudal has just reflected on Cheongpung’s extraordinary backing and talent; 그런 놈 refers to Cheongpung.",
+      "replacement": "*The heavens are cruel. Why give all that to a bastard like him?*",
+      "severity": "major",
+      "source": "‘하늘도 무심하시지. 어찌 그런 놈에게.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“This is bad. He’s already at level two.”\n\n“Level two?”\n\n“I’ve been watching him for the past five days and keeping track of the stages. Once he reaches level three, he’s barely human.”",
+      "defect": "Invents numbered levels for Taishan’s anger and loses the contrast between moderate rage and great rage.",
+      "id": "F03",
+      "rationale": "중노 and 대노 name degrees of anger, not numbered stages; the subordinate says he has classified Taishan’s behavior.",
+      "replacement": "“This is bad. He’s already at moderate rage.”\n\n“Moderate rage?”\n\n“I’ve watched him for the past five days and worked out the stages. Once he reaches full-blown rage, he’s barely human.”",
+      "severity": "major",
+      "source": "“큰일이군. 저 정도면 벌써 중노(中怒)요.”\n\n“중노?”\n\n“지난 닷새 동안 동태를 파악하며 단계를 매겨뒀소. 대노(大怒)부터는 거의 사람 새끼가 아니오.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Some beastly bastard disturbed a Black Gold Bee’s hive because he wanted to eat the honey. I barely managed to draw out the poison, but the swelling just won’t go down.”",
+      "defect": "Omits that the bee attack nearly killed Namho.",
+      "id": "F04",
+      "rationale": "황천길 건널 뻔했지 explicitly says he almost crossed into the afterlife.",
+      "replacement": "“Some beastly bastard disturbed a Black Gold Bee’s hive because he wanted the honey, and I nearly died for it. We somehow managed to draw out the venom, but this swelling just won’t go down.”",
+      "severity": "major",
+      "source": "“어떤 금수 같은 놈이 꿀을 처먹겠답시고 흑금봉(黑金蜂)의 벌집을 건드린 덕분에 황천길 건널 뻔했지. 어찌어찌 독기는 간신히 빼내긴 했는데, 붓기가 너무 안 빠지네 이거.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Sudal’s body had already started to give out. But it wasn’t a stroke. He was trembling with rage.",
+      "defect": "Makes Namho’s mistaken diagnosis partly true by asserting physical decline; the narration instead jokes that Sudal has already lost it.",
+      "id": "F05",
+      "rationale": "맛탱이가 가 버렸다 plays on Namho’s claim that Sudal is falling apart, while the next sentence identifies anger, not illness, as the cause.",
+      "replacement": "Sudal had already lost it. But he wasn’t trembling from a stroke—he was trembling with rage.",
+      "severity": "major",
+      "source": "수달은 이미 맛탱이가 가 버렸다. 단, 중풍이 아닌 분노로 몸을 떨고 있을 뿐이었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“What are you talking about? He’d gobble that up in no time, then throw a fit demanding candied hawthorn skewers.[^1] The bastard was a little shit through and through.”",
+      "defect": "Adds a separate insult not spoken here, weakening the timing of Sudal’s surprised reply and the subordinate’s ensuing complaint.",
+      "id": "F06",
+      "rationale": "The source confines this turn to contradicting Sudal and recalling the demand; the subordinate elaborates on the insult after Sudal asks whether it really happened.",
+      "replacement": "“What the hell are you talking about? He’d gobble it all up, then raise hell demanding candied hawthorn skewers.[^1]”",
+      "severity": "minor",
+      "source": "“무슨 개소리요? 그거 금방 다 처먹고 빙당호로 달라고 얼마나 지랄을 떨었는데.”"
+    }
+  ],
+  "summary": "Several passages change Sudal’s meaning or the mechanics of the scene; the rest of the draft is largely faithful.",
+  "version": 1
+}
