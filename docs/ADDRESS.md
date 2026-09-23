@@ -1309,3 +1309,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 필릭스 | 스켈레톤 킹 | prince_to_allied_monster_friend | Mr. King | courteous and friendly | Felix asks the Skeleton King to call him Felix and addresses him as a friend. |
 | 임마누엘 | 후긴 | political superior to Michael Silbert’s loyal operative | Huginn | formal-polite | Emmanuel thanks Huginn over the phone before realizing Chuck Hagel is speaking. |
 | 척 헤이글 | 임마누엘 | Federation operative confronting Michael Silbert’s loyalist | Emmanuel | hostile and informal | Hagel addresses Emmanuel by name and insults him. |
+| 진태경 | 최 팀장 | Federation Alliance Leader to Team Leader Choi | Team Leader Choi | polite-familiar | Jin addresses Choi respectfully while asking about The Prophet. |
+| 최 팀장 | 진태경 | Team Leader Choi to Federation Alliance Leader | Mr. Jin Taekyung | polite-familiar | Choi addresses Jin as 진태경 씨. |

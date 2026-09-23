@@ -2305,3 +2305,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마르셀 | **Marcel** | One of Michael’s former supporters. |
 | 할리드 | **Khalid** | One of Michael’s former supporters. |
 | 엘리제 궁전 | **Élysée Palace** | The French presidential palace. |
+| 베르너 | **Werner** | Swiss Interior Minister arrested for ties to Michael Silbert. |
