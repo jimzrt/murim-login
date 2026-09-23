@@ -1,0 +1,55 @@
+{
+  "summary": "The assembled chapter is broadly faithful, but several minor source-fidelity details were weakened or shifted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 39-40",
+      "current": "You’ve been shooting up lately.",
+      "defect": "The source explicitly attributes Hyuk Mujin’s rapid rise to this particular incident (이번 일로), but the current line reduces that causal link to a generic recent improvement.",
+      "replacement": "You’ve really shot up because of this whole affair.",
+      "rationale": "The causal relationship is part of the narrator’s praise and should not be omitted.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 129-130",
+      "current": "Right. Of course. Catching fish must be so hard.",
+      "defect": "The source uses a sarcastic rhetorical question—effectively, “How hard could catching fish be?”—while the current wording sounds like sincere agreement that fishing is very difficult.",
+      "replacement": "Oh, right. Of course. How hard could catching fish be?",
+      "rationale": "The sarcastic attitude sets up the following punchline and is an intentional part of the exchange.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 138-139",
+      "current": "But if some infectious agent caused mutated creatures to flood onto land, then it would be the end of everything.",
+      "defect": "The current wording adds a specific causal claim that the infectious agent causes the creatures to flood onto land. The source presents the infectious element and the spread of mutated creatures as the dangerous conditions, without assigning that precise causality.",
+      "replacement": "But if there’s an infectious element and mutated creatures start flooding onto land, it’ll be the end of everything.",
+      "rationale": "The source preserves uncertainty about the infection risk and the resulting spread; it does not establish the exact mechanism expressed by “caused.”",
+      "confidence": 0.84
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 345-347",
+      "current": "I looked at Hyuk Mujin with deep emotion and asked, “Great Hero Zhuge Feng knows about this too?”",
+      "defect": "The source says he asked again (재차 물었다), but the current line drops that continuity cue.",
+      "replacement": "I looked at Hyuk Mujin with deep emotion and asked again, “Great Hero Zhuge Feng knows about this too?”",
+      "rationale": "The repeated question is an explicit small action linking this exchange to the immediately preceding questions.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Lines 381-383",
+      "current": "A clear, infuriatingly sweet voice came from behind me.",
+      "defect": "가증스러운 means detestable, hateful, or loathsome; “sweet” adds a quality not established by the source and changes the characterization of the voice.",
+      "replacement": "A clear, detestable voice came from behind me.",
+      "rationale": "The source contrasts the voice’s clarity with its hateful or repellent quality, not with sweetness.",
+      "confidence": 0.9
+    }
+  ]
+}

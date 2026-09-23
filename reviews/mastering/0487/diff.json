@@ -1,0 +1,1594 @@
+{
+  "baseline_blocks": 185,
+  "baseline_sha256": "4200ade57172ab885184023461742e0160fe846c2a06a9a32269c35e8701b303",
+  "global_terminology_alerts": [
+    {
+      "korean": "경지",
+      "preferred": "realm / realm stage"
+    }
+  ],
+  "hunk_count": 85,
+  "hunks": [
+    {
+      "baseline": "“...”",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "“…”",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I encountered Hyuk Mujin later, he saw me groaning and gave me a thumbs-up.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "When I ran into Hyuk Mujin later, he saw me groaning and gave me a thumbs-up.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Put that thumb away while I’m still asking nicely. Before I pound the top of your head and turn you into Thumb Princess.”",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "19",
+      "sol": "“Put that thumb away while I’m still asking nicely. Before I hammer it into the top of your head and turn you into Thumb Princess.”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With my Strength, a compression press would be totally doable.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "21",
+      "sol": "With my Strength, I could totally pull off a compression press.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin hastily lowered his thumb and muttered,",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "25",
+      "sol": "",
+      "sol_paragraphs": "after P11",
+      "sol_range": [
+        11,
+        11
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혁무진",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hyuk Mujin"
+        }
+      ]
+    },
+    {
+      "baseline": "“He’s always picking on me. If only he’d stayed laid up with his injuries...”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "27",
+      "sol": "Hyuk Mujin hastily lowered his thumb and muttered, “He’s always picking on me. If only he’d stayed laid up with his injuries…”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "33",
+      "sol": "“…”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Look at that heartfelt lie.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "35",
+      "sol": "Now that was a heartfelt lie.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It would not be an exaggeration to say he had elevated quick thinking to the realm of art. Feeling a sudden pang of pity, I patted Hyuk Mujin on the shoulder.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "37",
+      "sol": "It wouldn’t be an exaggeration to say he had elevated quick thinking to an art form. Feeling a sudden pang of pity, I patted Hyuk Mujin on the shoulder.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "경지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "realm / realm stage"
+        }
+      ]
+    },
+    {
+      "baseline": "“Yeah. You hang in there, too. You’ve been shooting up lately.”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "39",
+      "sol": "“Yeah. You hang in there too. You’ve been shooting up lately.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Listening to the commoners talk, you sounded like some legendary war hero.”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "49",
+      "sol": "“Listening to the townspeople talk, you sounded like some battle-hardened veteran.”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin had been grinning happily when he suddenly looked me up and down suspiciously.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "55",
+      "sol": "Hyuk Mujin had been grinning happily, but now he looked me up and down suspiciously.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I thought you might say I was on the rise, then hit me and leave me laid up.”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "59",
+      "sol": "“I thought you might say I’d shot up, then hit me and leave me laid up.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...You crazy bastard.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "61",
+      "sol": "“…You crazy bastard.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a decent scenario, though. But still, was my image really that bad?",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "63",
+      "sol": "It was a decent scenario, though. Still, was my image really that bad?",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I suddenly felt sorry for him. How many times had he been hit for him to develop this level of persecution complex?",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "67",
+      "sol": "I suddenly felt sorry for him. How many times had he been hit to develop this much of a persecution complex?",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "레벨",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Level"
+        }
+      ]
+    },
+    {
+      "baseline": "I gazed at Hyuk Mujin with pity, let out a deep sigh, and spoke.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "69",
+      "sol": "I gazed at Hyuk Mujin with pity, let out a deep sigh, and said, “No. I told you, I heard it in the marketplace myself.”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No. I told you, I heard it in the marketplace myself.”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "71",
+      "sol": "",
+      "sol_paragraphs": "after P33",
+      "sol_range": [
+        33,
+        33
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I stake both your balls.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "75",
+      "sol": "“I stake both your balls on it.”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What the hell does that even mean...”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "95",
+      "sol": "“What the hell does that even mean…”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If I lost every single one of the countless bets I had made involving Hyuk Mujin, saying that even thirty balls wouldn’t be enough would hardly be an exaggeration. There was no need to spell that out.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "99",
+      "sol": "If I lost every one of the countless bets I had made with Hyuk Mujin’s balls on the line, even thirty of them wouldn’t be enough. There was no need to spell that out.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Want to cut one off and plant it? A tree might grow.”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "101",
+      "sol": "“Ever thought about cutting one off and planting it? A tree might grow.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Following my gaze, Hyuk Mujin answered with the expression of someone looking at a lunatic.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "107",
+      "sol": "Hyuk Mujin followed my gaze and stared at me like I was a lunatic.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Well, obviously. How hard could catching fish be?",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "129",
+      "sol": "Right. Of course. Catching fish must be so hard.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I looked back and forth between Hyuk Mujin and the net, where fish were thrashing around, then nodded faintly.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "131",
+      "sol": "I looked back and forth between Hyuk Mujin and the net full of thrashing fish, then nodded faintly.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You call that draining you dry? You abandoned your direct superior, the person you’re supposed to serve with all your loyalty, and came here to enjoy fishing? Just looking at you is draining me dry!”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "141",
+      "sol": "“Drained you dry? You abandoned your direct superior, the man you’re supposed to serve with undying loyalty, and came here to enjoy a little fishing? Just looking at you is draining me dry!”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin staggered backward while clutching his head, then shouted furiously,",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "143",
+      "sol": "Hyuk Mujin staggered backward, clutching his head, then shouted furiously, “That’s not what you think!”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s not what you think!”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "145",
+      "sol": "",
+      "sol_paragraphs": "after P69",
+      "sol_range": [
+        69,
+        69
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheongpung, who had been loitering nearby, rushed over and seized Hyuk Mujin.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "155",
+      "sol": "Cheongpung, who had been lingering nearby, rushed over and seized Hyuk Mujin.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I looked down at Hyuk Mujin, who had been subdued without the slightest resistance, and solemnly declared,",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "159",
+      "sol": "",
+      "sol_paragraphs": "after P75",
+      "sol_range": [
+        75,
+        75
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혁무진",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hyuk Mujin"
+        }
+      ]
+    },
+    {
+      "baseline": "“Even if the Murim perishes tomorrow, I shall plant a single testicle tree.”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "161",
+      "sol": "I looked down at the helplessly subdued Hyuk Mujin and solemnly declared, “Even if the Murim perishes tomorrow, I shall plant a single testicle tree.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I have a question. Is the left one yours, or is the right one yours?”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "165",
+      "sol": "“I ask you: Is the left ball yours, or the right?”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was exactly when Hyuk Mujin’s screams rang through the air.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "173",
+      "sol": "Just then, as Hyuk Mujin’s screams rang through the air—",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If we bury it somewhere sunny, it’ll grow nice and strong... Whoa, that startled me.”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "177",
+      "sol": "“If we bury them somewhere sunny, they’ll grow nice and strong… Whoa, that startled me.”",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Finally freed from Cheongpung’s hold, Hyuk Mujin pointed at the net he had dropped on the ground and shouted,",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "187",
+      "sol": "Finally freed from Cheongpung’s hold, Hyuk Mujin pointed at the net he had dropped and shouted, “Capture! Not fishing—capture! See for yourself!”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Capture! Not fishing—capture! See for yourself!”",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "189",
+      "sol": "",
+      "sol_paragraphs": "after P89",
+      "sol_range": [
+        89,
+        89
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment Mimi sprang out of Cheongpung’s arms and headed for the net, my gaze had already locked onto her.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "193",
+      "sol": "The moment Mimi sprang from Cheongpung’s arms and darted toward the net, my gaze had already locked onto her.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the moment I saw the scene unfolding before me, a single thought crossed my mind.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "195",
+      "sol": "And as soon as I saw the scene unfolding before me, a single thought crossed my mind.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*One mountain after another.*",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "197",
+      "sol": "*Just one problem after another.*",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Hiss! Snap!*",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "199",
+      "sol": "*Hiss! Chomp!*",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mimi flicked her tongue, slipped between the gaps in the net, and tore into one of the fish’s gills.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "201",
+      "sol": "Flicking her tongue, Mimi slipped between the gaps in the net and tore into one of the fish’s gills.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’m not even sure that thing should be called a fish.*",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "203",
+      "sol": "Though I wasn’t sure that thing should even be called a fish.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its eyes were bright blood-red. Its teeth were sharp as saw blades, and its body was larger than an adult man’s forearm.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "207",
+      "sol": "Its eyes were bright blood-red. Its teeth were sharp as saw blades, and its body was thicker than a grown man’s forearm.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...A spike?”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "211",
+      "sol": "",
+      "sol_paragraphs": "after P99",
+      "sol_range": [
+        99,
+        99
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stared at it in disbelief and muttered.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "213",
+      "sol": "I stared in disbelief and muttered, “…A spike?”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin, who had gotten back to his feet while panting, answered gruffly,",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "215",
+      "sol": "Hyuk Mujin, who had gotten to his feet while panting, answered gruffly, “You may be hard of hearing when people talk, but your eyesight is excellent.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You may be hard of hearing when it comes to what people say, but your eyesight is excellent.”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "217",
+      "sol": "",
+      "sol_paragraphs": "after P101",
+      "sol_range": [
+        101,
+        101
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...Are you going to keep talking bullshit?”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "223",
+      "sol": "“…Are you going to keep talking bullshit?”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I told you, didn’t I? What fishing? Fishing, my ass. It was capturing. Capturing! How could you catch something like that with a fishing rod?”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "225",
+      "sol": "“I told you, didn’t I? Fishing, my ass. It was capturing. Capturing! How could you catch something like that with a fishing rod?”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Grumbling to himself, Hyuk Mujin walked over and picked up the net he had dropped. I only realized it then, but it wasn’t an ordinary net. It was a metal mesh reinforced with iron and steel.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "231",
+      "sol": "Grumbling to himself, Hyuk Mujin walked over and picked up the net he had dropped. Only then did I realize it wasn’t an ordinary net, but a heavy mesh woven from iron and steel.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“As you can see, their teeth are incredibly sharp. An ordinary net would be cut apart with a single bite—”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "235",
+      "sol": "“As you can see, their teeth are incredibly sharp. One bite would tear through an ordinary net—”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m not talking about the net. What are the things inside it?”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "237",
+      "sol": "“I’m not talking about the net. What are those things inside it?”",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin frowned as the things inside thrashed violently, nearly tearing the metal mesh apart.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "243",
+      "sol": "Hyuk Mujin frowned at the creatures thrashing violently enough to nearly tear the metal mesh apart.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Whoosh... Beep.*",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "255",
+      "sol": "*Whoosh… Beep.*",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the wave of Qi Sense spreading from me reached them, a System notification appeared, and Level windows rose above their massive bodies.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "257",
+      "sol": "The wave of Qi Sense spread outward from me and reached them. A System notification appeared, and Level windows rose above their massive bodies.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> **Level 5 Mutated Minnow**\n>\n> - A new fish species has been discovered!\n>\n> - Information on **Mutated Minnow** has been updated!\n>\n> **Item Window**\n>\n> **Mutated Minnow**\n>\n> **Type:** Fish\n>\n> **Grade:** None\n>\n> **Restriction:** None\n>\n> **Description:** A mutated species born from exposure to weak mana. It has grown incomparably stronger and possesses considerable toxicity, but it might taste delicious once cooked.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "261",
+      "sol": "> **System**\n>\n> **Lv. 5 Mutated Minnow**\n>\n> - A new fish species has been discovered!\n>\n> - Information on **Mutated Minnow** has been updated!\n>\n> **Item Window**\n>\n> **Mutated Minnow**\n>\n> **Type:** Fish\n>\n> **Grade:** None\n>\n> **Restriction:** None\n>\n> **Description:** A mutated species born from exposure to weak magical power. It has grown incomparably stronger and possesses considerable toxicity, but it might taste delicious once cooked.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "레벨",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Level"
+        }
+      ]
+    },
+    {
+      "baseline": "“...”",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "265",
+      "sol": "“…”",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stared at the thing, which was larger than an ordinary adult man’s forearm.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "271",
+      "sol": "I stared at the thing, which was thicker than a grown man’s forearm.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Where did the minnows I know go?*",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "275",
+      "sol": "*What happened to the minnows I know?*",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*At this point, they might as well tell me this isn’t Dongting Lake but the Amazon.*",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "277",
+      "sol": "*They might as well tell me this isn’t Dongting Lake but the Amazon.*",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "First, I was shocked that this monster was a fish with a Level as high as 5. Then I was shocked all over again by the System window’s bullshit saying that it was incredibly strong and poisonous but might taste good.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "279",
+      "sol": "First, I was shocked that this monster of a fish was Level 5. Then I was shocked all over again by the System window’s bullshit claim that it was incredibly strong and poisonous but might taste good.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It might taste good once cooked? You said it was poisonous, you crazy bastards.*",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "281",
+      "sol": "*It might taste good once cooked? You just said it was poisonous, you crazy bastards.*",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This transformation had undoubtedly been caused by the mana flowing out of the Gate.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "289",
+      "sol": "This transformation had undoubtedly been caused by the magical power leaking from the Gate.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Water God Dragon had sacrificed itself to absorb most of the Gate’s mana, but it couldn’t have done anything about the residue.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "291",
+      "sol": "The Water God Dragon had sacrificed itself to absorb most of the Gate’s magical power, but it couldn’t have done anything about the residue.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And according to what I had confirmed personally just one or two shichen earlier, the Gate was still leaking a faint amount of mana despite having ceased to function.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "293",
+      "sol": "And from what I had personally confirmed just one or two shichen ago, the Gate was still leaking a faint trace of magical power despite having ceased to function.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What will happen if things like these spread throughout the world? What if they’re contagious?*",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "295",
+      "sol": "*What happens if things like these spread throughout the world? What if it’s contagious?*",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I already knew the answer to that question.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "297",
+      "sol": "I already knew the answer.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tributaries of Dongting Lake flowed into the Yangtze, and the Yangtze was both a vast natural ecosystem and a maritime route traveled by countless people.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "301",
+      "sol": "The tributaries of Dongting Lake flowed into the Yangtze, and the Yangtze was both a vast natural ecosystem and a waterway traveled by countless people.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I wasn’t part of some environmental organization, so the destruction of the ecosystem was a secondary concern. But if some infectious agent caused mutated creatures to flood onto land, then it would be the end of everything.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "303",
+      "sol": "I wasn’t part of some environmental organization, so the destruction of the ecosystem was a secondary concern. But if this mutation could spread and mutated creatures started spilling onto land, then it was all over.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...This is driving me insane.”",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "305",
+      "sol": "“…This is driving me insane.”",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why do you say that?”",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "307",
+      "sol": "“What’s wrong?”",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Benefactor. Are you all right?”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "309",
+      "sol": "“Benefactor, are you all right?”",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cheongpung gazed at Mimi with an expression of utter adoration. She had already swallowed a Blood Fish several times larger than her own body.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "319",
+      "sol": "Cheongpung gazed adoringly at Mimi, who had already swallowed a Blood Fish several times larger than her own body.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...Right. Asking you makes me the idiot. Then, Mujin.”",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "323",
+      "sol": "“…Right. I’m the idiot for asking you. Mujin?”",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I looked at Hyuk Mujin with a deeply moved expression and asked again,",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "329",
+      "sol": "",
+      "sol_paragraphs": "after P150",
+      "sol_range": [
+        150,
+        150
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "혁무진",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hyuk Mujin"
+        }
+      ]
+    },
+    {
+      "baseline": "“Great Hero Zhuge Feng knows about this too?”",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "331",
+      "sol": "I looked at Hyuk Mujin with deep emotion and asked, “Great Hero Zhuge Feng knows about this too?”",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course. As soon as the Blood Fish were discovered, Great Hero Zhuge Feng ordered the waterway by the entrance to be completely sealed off.”",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "333",
+      "sol": "“Of course. As soon as the Blood Fish were discovered, Great Hero Zhuge Feng ordered the waterway at the entrance completely sealed off.”",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, for now, it seems there are hardly any.”",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "337",
+      "sol": "“Well, for now, it seems there were hardly any.”",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Judging by the fact that the Gate was still leaking faint mana, a considerable number of fish should have mutated by now...",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "343",
+      "sol": "Judging by the fact that it was still leaking faint magical power, a considerable number of fish should have mutated by now…",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "게이트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Gate"
+        }
+      ]
+    },
+    {
+      "baseline": "“They’ve become so ferocious that they seem to have lost the concept of allies. They’re probably killing one another even now.”",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "351",
+      "sol": "“They’ve become so ferocious that they seem to have lost any concept of allies. They’re probably still killing one another right now.”",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...”",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "353",
+      "sol": "“…”",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their ferocity meant they were dangerous, but since they had started a war among themselves and were reducing their own numbers, it was certainly something to celebrate.",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "357",
+      "sol": "Their ferocity made them dangerous, but since they had started a war among themselves and were reducing their own numbers, it was certainly something to celebrate.",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I turned around, Mungyeong was already standing there and looking at me.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "367",
+      "sol": "When I turned, Mungyeong was already standing there, looking at me.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...I was told to bring you no matter what. They have something to say to you.”",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "373",
+      "sol": "“…I was told to bring you no matter what. They have something to say to you.”",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“...Oh.”",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "381",
+      "sol": "“…Oh.”",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 177,
+  "sol_sha256": "bbfbb8696b4a251e261d52391a1c55522c64f99f8cdfd7fe432f5e5c2d36102c",
+  "version": 1
+}

@@ -14,7 +14,7 @@ When I ran into Hyuk Mujin later, he saw me groaning and gave me a thumbs-up.
 
 “Yes?”
 
-“Put that thumb away while I’m still asking nicely. Before I pound the top of your head and turn you into Thumb Princess.”
+“Put that thumb away while I’m still asking nicely. Before I hammer it into the top of your head and turn you into Thumb Princess.”
 
 With my Strength, I could totally pull off a compression press.
 
@@ -30,7 +30,7 @@ Hyuk Mujin hastily lowered his thumb and muttered, “He’s always picking on m
 
 Now that was a heartfelt lie.
 
-It would not be an exaggeration to say he had elevated quick thinking to the realm of art. Feeling a sudden pang of pity, I patted Hyuk Mujin on the shoulder.
+It wouldn’t be an exaggeration to say he had elevated quick thinking to an art form. Feeling a sudden pang of pity, I patted Hyuk Mujin on the shoulder.
 
 “Yeah. You hang in there too. You’ve been shooting up lately.”
 
@@ -90,7 +90,7 @@ I answered calmly.
 
 His expression was a sight to behold.
 
-If I lost every single one of the countless bets I had made involving Hyuk Mujin, saying that even thirty balls wouldn’t be enough would hardly be an exaggeration. There was no need to spell that out.
+If I lost every one of the countless bets I had made with Hyuk Mujin’s balls on the line, even thirty of them wouldn’t be enough. There was no need to spell that out.
 
 “Ever thought about cutting one off and planting it? A tree might grow.”
 
@@ -192,7 +192,7 @@ Though I wasn’t sure that thing should even be called a fish.
 
 *Thud! Flap-flap!*
 
-Its eyes were bright blood-red. Its teeth were sharp as saw blades, and its body was larger than an adult man’s forearm.
+Its eyes were bright blood-red. Its teeth were sharp as saw blades, and its body was thicker than a grown man’s forearm.
 
 And on its tail… Fuck. What the hell was that?
 
@@ -242,7 +242,7 @@ The wave of Qi Sense spread outward from me and reached them. A System notificat
 
 > **System**
 >
-> **Level 5 Mutated Minnow**
+> **Lv. 5 Mutated Minnow**
 >
 > - A new fish species has been discovered!
 >
@@ -264,7 +264,7 @@ The wave of Qi Sense spread outward from me and reached them. A System notificat
 
 *This is a minnow?*
 
-I stared at the thing, which was larger than an ordinary adult man’s forearm.
+I stared at the thing, which was thicker than a grown man’s forearm.
 
 *What happened to the minnows I know?*
 
@@ -290,7 +290,7 @@ I already knew the answer.
 
 The tributaries of Dongting Lake flowed into the Yangtze, and the Yangtze was both a vast natural ecosystem and a waterway traveled by countless people.
 
-I wasn’t part of some environmental organization, so the destruction of the ecosystem was a secondary concern. But if some infectious agent caused mutated creatures to flood onto land, then it would be the end of everything.
+I wasn’t part of some environmental organization, so the destruction of the ecosystem was a secondary concern. But if this mutation could spread and mutated creatures started spilling onto land, then it was all over.
 
 “…This is driving me insane.”
 
@@ -310,7 +310,7 @@ Cheongpung gazed adoringly at Mimi, who had already swallowed a Blood Fish sever
 
 “Eat lots, Mimi!”
 
-“...Right. Asking you makes me the idiot. Then, Mujin.”
+“…Right. I’m the idiot for asking you. Mujin?”
 
 “Yes. We’ve captured around a hundred Blood Fish so far, but we haven’t determined how many more there are.”
 
