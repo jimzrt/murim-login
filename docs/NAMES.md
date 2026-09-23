@@ -2371,3 +2371,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 혈사자 | **Blood Envoy** | Baek Yeon’s sobriquet. |
 | 마삼보 | **Ma Sanbao** | The East Depot’s Brush-Holding Eunuch and second-in-command. |
 | 건청궁 | **Qianqing Palace** | The Emperor's palace, where Baek Yeon meets him. |
+| 흠천감 | **Imperial Astronomical Bureau** | Imperial institution that observes and analyzes the heavens. |
+| 형부 | **Ministry of Punishments** | Imperial punishment authority referenced as the destination for prisoners. |

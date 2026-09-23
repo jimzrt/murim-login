@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "And yet the Emperor, born of the dragon’s blood and having seized the realm through rebellion, had summoned me to an audience Prince Shangshan wasn’t even allowed to attend.",
+      "defect": "Replaces the excluded Hong Jin with Prince Shangshan, who has been summoned.",
+      "id": "F01",
+      "rationale": "홍진도 허락받지 않은 identifies Hong Jin as the person not permitted to attend.",
+      "replacement": "And yet the Emperor, born of the dragon’s blood and having seized the realm through rebellion, had summoned me to an audience even Hong Jin wasn’t allowed to attend.",
+      "severity": "critical",
+      "source": "그런데 용의 핏줄로 태어나 반역으로 천하를 움켜쥔 황제가, 홍진도 허락받지 않은 자리에 나를 부르다니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Guards. Contact the Ministry of Punishments at once. Tell them to prepare their largest cell.”",
+      "defect": "Adds “cell” before Jeong reveals what he means by sending Jin to the Ministry of Punishments.",
+      "id": "F02",
+      "rationale": "가장 넓은 곳 means the most spacious place; the source leaves its purpose unstated for the ensuing exchange.",
+      "replacement": "“Guards. Contact the Ministry of Punishments at once. Tell them to prepare the most spacious accommodations.”",
+      "severity": "major",
+      "source": "여봐라. 지금 즉시 형부(刑部)에 연통을 넣어라. 가장 넓은 곳으로 준비하라고."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Hey, can I ask you something? Do you know what the age of criminal responsibility is?”\n\n“The age of what?”\n\n“The age of criminal responsibility.”\n\n“What’s that? I’ve never heard of it.”\n\n“……Never mind.”",
+      "defect": "Changes a category of child who cannot be criminally prosecuted into the legal age threshold itself, weakening the setup for Jin’s fantasy.",
+      "id": "F03",
+      "rationale": "촉법소년 names the child, not the age; the distinction is what Jin hopes Prince Shangshan could exploit.",
+      "replacement": "“Hey, can I ask you something? Ever heard of *chokbeop sonyeon*[^1]?”\n\n“Chokbeop what?”\n\n“*Chokbeop sonyeon*.”\n\n“What’s that? Never heard of it.”\n\n“…Never mind.”\n\n[^1]: A Korean legal term for a child too young to be criminally prosecuted.",
+      "severity": "major",
+      "source": "“뭐 좀 물어볼 게 있는데. 혹시 촉법소년이라고 아나?”\n\n“촉법, 뭐?”\n\n“촉법소년.”\n\n“그게 뭐지? 처음 들어보는데.”\n\n“……아냐. 됐다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Yeah. I’m still underage!",
+      "defect": "Being underage alone does not convey Jin’s imagined exemption from prosecution.",
+      "id": "F04",
+      "rationale": "The punchline relies on the specific legal consequence Jin associates with 촉법소년.",
+      "replacement": "—Yep. I’m still too young to be prosecuted!",
+      "severity": "major",
+      "source": "- 응. 나 아직 촉법소년~"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He’d become Emperor because he was underage.",
+      "defect": "Repeats the broader underage claim rather than the imagined immunity that makes the succession joke work.",
+      "id": "F05",
+      "rationale": "Jin is imagining the prince escaping punishment for killing the Emperor, not merely succeeding him while young.",
+      "replacement": "Becoming Emperor because he was too young to be prosecuted.",
+      "severity": "major",
+      "source": "촉법소년이라서 황제가 되다니."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If this were a Western fantasy setting, wouldn’t they call him the First Emperor, Kiddo?",
+      "defect": "Turns a mock regnal name into an address to “Kiddo” and adds “Emperor” to the name.",
+      "id": "F06",
+      "rationale": "잼민 1세 is a joking royal name built from slang for a bratty kid and the regnal number “the First.”",
+      "replacement": "If this were a Western fantasy setting, wouldn’t they call him Brat the First?",
+      "severity": "minor",
+      "source": "만약 여기가 서구권 세계관이라면 잼민 1세 정도로 불리지 않았을까."
+    }
+  ],
+  "summary": "The draft reverses who is excluded from the audience and makes a deliberately vague threat explicit. The juvenile-immunity joke also loses its legal premise.",
+  "version": 1
+}
