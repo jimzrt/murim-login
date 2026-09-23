@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "I wanted, if only for a moment, to feel the power coiled within him, hidden beneath the deep darkness.",
+      "defect": "Omits Jin’s wish to perceive Asmodeus’s appearance, which the darkness conceals.",
+      "id": "F01",
+      "rationale": "The source names both his obscured appearance and the power within the darkness.",
+      "replacement": "I wanted to catch even a glimpse of him buried in the deep darkness, to feel the power coiled within him, if only for a moment.",
+      "severity": "major",
+      "source": "짙은 어둠에 파묻혀 보이지 않는 놈의 모습을, 그 안에 웅크린 힘을 잠시나마 느끼고 싶었다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "I saw your last-ditch effort. Nice work.",
+      "defect": "Adds an approving remark where Jin only says he saw the attempt.",
+      "id": "F02",
+      "rationale": "잘 봤다 describes Jin’s observation, not praise for the Doppelganger’s work.",
+      "replacement": "I got a good look at your last-ditch effort.",
+      "severity": "minor",
+      "source": "마지막 발악, 잘 봤다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I thought of Demon King Asmodeus’s final form, which I’d had to leave without ever seeing clearly.",
+      "defect": "“Final form” suggests a transformed state rather than the last sight Jin had of Asmodeus.",
+      "id": "F03",
+      "rationale": "마지막 모습 refers to Asmodeus’s appearance at the end of the vision; no transformation is stated.",
+      "replacement": "I thought of that last glimpse of Demon King Asmodeus, whose appearance I’d never managed to make out clearly.",
+      "severity": "major",
+      "source": "끝끝내 확인하지 못한 채로 떠나보내야 했던 마왕 아스모데우스의 마지막 모습을"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“An illusion is just an illusion. We’ll have to wait and see how the future changes… but I don’t give a shit about some bastard who’s already out of this world and about to die.”",
+      "defect": "Says the Doppelganger is already dead while still about to die, and changes the point of the taunt: it will not be around to learn how the future changes.",
+      "id": "F04",
+      "rationale": "당장 뒈질 것 같은 describes its imminent death; 이미 세상에 없을 테니 places its absence at the future point when the outcome becomes known.",
+      "replacement": "“An illusion is just an illusion. We’ll have to wait and see how the future changes… but some bastard who’s about to drop dead won’t be around to find out, so it’s none of his business.”",
+      "severity": "critical",
+      "source": "허상은 그저 허상일 뿐이야. 미래가 어떻게 바뀔지는 두고 봐야 알겠지만…… 당장 뒈질 것 같은 어떤 새끼는 이미 세상에 없을 테니 알 바 아니고."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> You are the Chosen One. The Master of the Ark.\n>\n> The [System] automatically activates its firewall.\n>\n> The [System] blocks a newly detected virus.\n>\n> [Abyssal Swamp] has been dispelled.\n>\n> [Power of the Abyss] dissipates.\n>\n> [Level 10 “Final Abyss” Doppelganger] has been blocked.",
+      "defect": "Retains square brackets around terms and notices inside a System panel.",
+      "id": "F05",
+      "rationale": "The binding Markdown rule says the headed blockquote identifies a System panel and forbids enclosing its notices or UI terms in square brackets.",
+      "replacement": "> **System**\n> You are the Chosen One. The Master of the Ark.\n>\n> The System automatically activates its firewall.\n>\n> The System blocks a newly detected virus.\n>\n> Abyssal Swamp has been dispelled.\n>\n> Power of the Abyss dissipates.\n>\n> Level 10 “Final Abyss” Doppelganger has been blocked.",
+      "severity": "minor",
+      "source": "- 당신은 선택받은 자. 방주의 주인.\n\n- [시스템]이 자동으로 방화벽을 실행합니다.\n\n- [시스템]이 새롭게 감지된 바이러스를 차단합니다.\n\n- [심연의 늪]이 해제되었습니다.\n\n- [심연의 힘]이 흩어집니다.\n\n- [Lv.10 “최후의 심연” 도플갱어]가 차단되었습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> Main Quest [Cataclysm] has failed!",
+      "defect": "Retains square brackets around the quest title in a System panel.",
+      "id": "F06",
+      "rationale": "The binding Markdown rule prohibits square brackets around UI terms in System panels.",
+      "replacement": "> Main Quest Cataclysm has failed!",
+      "severity": "minor",
+      "source": "- 메인 퀘스트, [격변]이 실패했습니다!"
+    }
+  ],
+  "summary": "Several localized fidelity issues, including an omitted visual detail and a reversed time relationship in Jin’s taunt. The System panels also retain brackets prohibited by the binding Markdown rules.",
+  "version": 1
+}
