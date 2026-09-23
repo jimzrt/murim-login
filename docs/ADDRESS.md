@@ -1349,3 +1349,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 도플갱어 | 진태경 | enemy | you | measured and informal | Replies to Jin’s taunt without using a name or title. |
 | 진태경 | 스켈레톤 킹 | friends and allies | you; no explicit name or title in the Sound Transmissions | terse informal imperatives | Jin directs the Skeleton King’s movements by Sound Transmission while the latter is blinded. |
 | 스켈레톤 킹 | 진태경 | ally | Human | plain | Addresses Jin as 인간 before asking if he is all right; Jin responds directly. |
+| 선지자 | 아호메드 | The Prophet regards Ahomed as his brother and Disciple. | Ahomed | Familiar but respectful. | The Prophet entrusts Ahomed with carrying on the mission. |
+| 아호메드 | 선지자 | Ahomed is the Prophet’s Disciple and regards him as a spiritual brother. | Prophet | Honorific and deferential. | Ahomed addresses him as 선지자시여. |

@@ -2340,3 +2340,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 에어 슬래시 | **Air Slash** | The Doppelganger’s wind-blade spell. |
 | 실드 | **Shield** | Spell used by the Doppelganger to create layered barriers. |
 | 최 | **Choi** | Surname of the Team Leader in Jin’s vision. |
+| 아호메드 제말 파샤 | **Ahomed Jemal Pasha** | Mage leading the Prophet’s remaining followers at the summoning ritual. |
