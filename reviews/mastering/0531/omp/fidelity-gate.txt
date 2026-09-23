@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, with two minor omissions or reductions in source detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 49–51",
+      "current": "Quick to catch on, Gung Gibang understood what I meant and began evacuating the civilians who had been unable to escape and were still sitting on the ground.",
+      "defect": "The next source sentence says the giant watched Gung Gibang evacuate the civilians, rolling his large eyes from side to side. That physical beat is omitted.",
+      "replacement": "Quick to catch on, Gung Gibang understood what I meant and began evacuating the civilians who had been unable to escape and were still sitting on the ground. The giant watched him, his huge eyes rolling from side to side.",
+      "rationale": "The Korean explicitly includes the giant watching the evacuation and moving his eyes; this is a concrete action and characterization detail.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 77",
+      "current": "some Third Rate dark-path figures",
+      "defect": "The source specifies Third Rate dark-path blade-wielders, not merely figures from the dark path.",
+      "replacement": "some Third Rate dark-path swordsmen",
+      "rationale": "칼잡이 identifies people who wield blades; the current wording drops that detail.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 43",
+      "current": "civilians could get caught in it.",
+      "defect": "This weakens the stated danger: the source says civilian casualties could occur, not merely that civilians might get caught up in the fight.",
+      "replacement": "civilians could be injured.",
+      "rationale": "인명 피해 means harm to people or casualties. The English should preserve the explicit risk of physical injury.",
+      "confidence": 0.93
+    }
+  ]
+}

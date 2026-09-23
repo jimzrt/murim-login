@@ -42,7 +42,7 @@ But we were in the middle of a main street in Henan. If the fight continued, civ
 
 I kept my voice gentle and glanced at Gung Gibang.
 
-Quick to catch on, Gung Gibang understood what I meant and began evacuating the civilians who had been unable to escape and were still sitting on the ground.
+He caught on at once and began moving the civilians who hadn’t managed to flee and were still sitting on the ground. The giant watched him, his huge eyes rolling from side to side.
 
 “That guy. Insulted me.”
 
@@ -64,7 +64,7 @@ Hwangbo Ak was the Lesser Family Head of the Hwangbo Family, which held sway ove
 
 No wonder the aura coming off him had felt unusual.
 
-Aside from some Third Rate dark-path figures, I had never met a proper martial artist who practiced demonic, heterodox arts. I had to forcibly suppress the curiosity that suddenly rose inside me.
+Aside from Third Rate dark-path swordsmen, I’d never met a proper martial artist of that sort. Curiosity stirred, but I forced it down. Another thought had occurred to me.
 
 “Did you lay a hand on anyone else?”
 
@@ -116,7 +116,7 @@ I turned. Hwangbo Ak had straightened up and was glaring at us, his eyes blazing
 
 We’d never met, but apparently he knew me. Neither of us had time for introductions anyway, so that was convenient.
 
-I calmly gestured toward Hwangbo Ak.
+I beckoned to him.
 
 “You’re up. Come over here and make up with him.”
 
@@ -128,7 +128,7 @@ Hwangbo Ak’s eyes went wide, like someone who’d picked Yasuo and immediately
 
 “How can you do this?”
 
-“I can do it just fine. Come over while I’m asking nicely.”
+“Easily. Come over while I’m asking nicely.”
 
 “A fellow orthodox martial artist has been harmed by a practitioner of demonic, heterodox arts. How can you take the side of that vile unorthodox whelp?”
 
@@ -142,7 +142,7 @@ Hwangbo Ak’s eyes went wide, like someone who’d picked Yasuo and immediately
 
 *Whoosh.*
 
-A warm breeze suddenly blew over my head. It was the giant’s breath.
+Warm air blew over my head. It was the giant’s breath. He was a head taller than me—no, two.
 
 “Kneel? You. Me?”
 
@@ -156,7 +156,7 @@ The giant’s eyes went cold.
 
 *Fwoosh—whoosh!*
 
-A piercing sound tore into my ears.
+A sharp sound cut through the air beside my ear.
 
 Hwangbo Ak shot forward like a ray of light, his body twisting fiercely. His leg whipped out, sheathed in visible internal energy.
 
@@ -232,7 +232,7 @@ The giant kept stealing bewildered glances at me. Hwangbo Ak trembled with humil
 
 “Blazing Flame Divine Dragon. Can you still call yourself orthodox after this?”
 
-“Wow. That’s exactly what I was about to ask you.”
+“Funny. I was about to ask you the same thing.”
 
 “I see. You must be acting this way because you don’t know who this Young Master is…”
 
@@ -302,7 +302,7 @@ He must have heard what had happened to the Zhongnan Sect Leader’s two Senior 
 
 I patted his trembling shoulder and smiled.
 
-“You look like you’re having a hard time. I’ll explain things to the others, so go home.”
+“You look worn out. I’ll explain things to the others, so go on back.”
 
 “B-But…”
 
