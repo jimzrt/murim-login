@@ -1,8 +1,8 @@
 # Michael (미카엘)
 
-- **Safe through:** Chapter 737
+- **Safe through:** Chapter 738
 - **Aliases:** None
-- **Role:** Michael is the Guild Master of Odin Guild, one of the world's most powerful absolute authorities, and the hidden architect of a coordinated chain of terrorist attacks using recruited fanatic Hunters.
+- **Role:** Michael is the Guild Master of Odin Guild, a public hero who helped suppress five Monster Waves, and the hidden architect of a coordinated terrorist campaign designed to isolate Ares Guild.
 - **Personality:** Controlled, calculating, condescending, and confident in his intelligence and ability to manipulate events.
 - **Voice:** Polite and conversational when relaxed, but quietly authoritative and coercive when asserting control.
 - **Relationships:** Michael personally selected and trained Huginn, commands Odin Guild's hidden alliance, and regards Jin Taekyung as a serious adversary.

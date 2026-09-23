@@ -1211,3 +1211,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 미카엘 실베르트 | Ares Guild Vice Guild Master to rival Guild Master | you | formal, cold, and controlled | Choi answers Michael's question about Cheon Taemin and states that he will report exactly what he saw and heard. |
 | 미카엘 실베르트 | 최 팀장 | rival Guild Master to young Vice Guild Master | young Vice Guild Master; you | polite, patronizing, and threatening beneath the surface | Michael asks about Choi's maternal grandfather and requests that Choi put in a good word for him. |
 | 후긴 | 미카엘 실베르트 | Odin Guild subordinate to Guild Master | Guild Master | formal and deferential | Huginn reports the casualty count, media preparations, and progress of the terrorist operation. |
+| 진태경 | 최 팀장 | allied_subordinate_to_team_leader | Team Leader Choi | polite and familiar | Jin asks Choi whether he should apologize and discusses the attacks with him. |
+| 최 팀장 | 진태경 | allied_team_leader_to_subordinate | Mr. Jin Taekyung | formal-polite | Choi refers to Jin as 진태경 씨 while responding to him. |
