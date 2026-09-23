@@ -1,11 +1,11 @@
 /loop
 
-Translate the next available chapter using the repository's translating workflow.
+Master the next available chapter using the repository's mastering workflow.
 
 In the current iteration, run:
 
 ```bash
-python tools/run_next.py
+python tools/run_next_mastering.py
 ```
 
 Wait for the command to finish before doing anything else.
@@ -22,4 +22,4 @@ If OpenAI/Codex quota is exhausted, inspect the actual quota and reset time, wai
 
 Use the existing repository workflow and locks. Do not use parallel agents, TODO items, planning steps, or a separate implementation path for this campaign.
 
-Stop only when `python tools/run_next.py` explicitly reports that no chapters remain, or when a genuinely unsafe and unresolvable blocker is proven. A tool interruption, repeated-command guard, timeout, session boundary, malformed model response, or transient provider error is not completion; recover and continue.
+Stop only when `python tools/run_next_mastering.py` explicitly reports that no chapters remain, or when a genuinely unsafe and unresolvable blocker is proven. A tool interruption, repeated-command guard, timeout, session boundary, malformed model response, or transient provider error is not completion; recover and continue.
