@@ -1,21 +1,23 @@
 # Translation State
 
-- Last completed: 798
-- Next chapter: 799
-- Current block: 795–799 (4/5)
-- Latest translation: `translations/0798.md`
-- Latest summary: `summaries/beats/0798.md`
-- Safe profiles through: chapter 798
+- Last completed: 799
+- Next chapter: 800
+- Current block: 795–799 (5/5)
+- Latest translation: `translations/0799.md`
+- Latest summary: `summaries/beats/0799.md`
+- Safe profiles through: chapter 799
 
 ## Current Block
 
-- Jin reaches the J1 battlefield and finds hundreds dead, but The Prophet has already escaped. After six hours of searching a 700-kilometer radius with no result, Magic Johnson concludes that The Prophet is a mage capable of evading detection; Johnson is certain The Prophet acted alone. Jin learns that Yamamoto Genji is J1’s sole survivor. Yamamoto was critically injured but has awakened and is recovering. Jin treats him with internal energy, and Yamamoto responds by calling Jin “Chōsenjin.”
-- Jin blames himself for sending the Hunters into danger and feels he has no right to condemn Yamamoto for being the lone survivor. He still resents Yamamoto for arriving late during the battle against Leviathan.
+- Yamamoto apologizes to Jin and recounts the J1 attack: The Prophet stopped all ten transport vehicles, killed the team, and drained blood and a pale mist from the corpses. Yamamoto admits by implication that he tried to flee and says The Prophet left when reinforcements arrived. Magic Johnson concludes the corpse-draining was not human magic; Jin recognizes The Prophet as a monster. The Prophet left a message intended to draw Jin in.
+- Elsewhere, Amir’s hidden group watches a convoy of more than five hundred people approach. Protected by an unseen veil, they remain undetected; Amir orders Hamid to wait for The Prophet and the coming holy war.
 
 ## Open Questions
 
-- Where is The Prophet, and what magic or other means allowed him to evade detection?
-- What information can Yamamoto provide about the J1 attack once he has recovered?
+- What message did The Prophet leave for Jin, and where is The Prophet now?
+- Why did The Prophet spare Yamamoto, and what happened when Yamamoto tried to flee?
+- What was the pale mist absorbed from the J1 victims, and what is the nature of The Prophet’s power?
+- Where is Amir’s concealed group, and what is its intended target?
 
 ## Exceptional Decision
 
