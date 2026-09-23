@@ -2358,3 +2358,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 호남 | **Hunan** | Province where suspected Embroidered Uniform Guard members appeared. |
 | 산동 | **Shandong** | Province on the suspected route into Shanxi. |
 | 옥화산 | **Yuhua Mountain** | Mountain in Chongqing where the caravan was attacked. |
+| 정천호 | **Commander Jeong** | Commander of the Embroidered Uniform Guard procession. |
