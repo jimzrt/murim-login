@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 904
-- Next chapter: 905
-- Current block: 900–904 (5/5)
-- Latest translation: `translations/0904.md`
-- Latest summary: `summaries/beats/0904.md`
-- Safe profiles through: chapter 904
+- Last completed: 905
+- Next chapter: 906
+- Current block: 905–909 (1/5)
+- Latest translation: `translations/0905.md`
+- Latest summary: `summaries/beats/0905.md`
+- Safe profiles through: chapter 905
 
 ## Current Block
 
-- Cang Gong repels Jin Taekyung with an unfamiliar chilling power, but Jeok Cheongang arrives as the banquet hall erupts into a battle between loyalists and hidden attackers. A rain of arrows falls on the combatants and the Emperor; Taekyung burns it away and fights through the attackers. Ma Sanbao appears, kills a group of Embroidered Uniform Guards, and confronts Taekyung, who answers by striking at him.
+- As the banquet hall battle rages, the Emperor sends a hundred elite Embroidered Uniform Guards into the fight. Cang Gong devastates the imperial forces with his cold power until Jeok Cheongang intervenes, and the two clash. Baek Yeon tells the Emperor that he would lose to either man as a martial artist, though he would win if he fought as Commander of the Embroidered Uniform Guard; he also reveals that the late Emperor’s final order was for him to plan for the future alongside the fourth prince. Prince Shangshan pleads with the Emperor to save Jin Taekyung, his only friend, but the Emperor cannot intervene because he entrusted this battlefield to someone long ago. In a Sound Transmission, So Gyo tells the Emperor she is watching Taekyung until he reveals his true self.
 
 ## Open Questions
 

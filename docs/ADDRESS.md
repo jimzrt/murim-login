@@ -1409,3 +1409,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 백연 | 위충 | imperial commander confronting the East Depot’s Seal-Holding Eunuch | Wei Zhong | stern and direct | Baek Yeon uses Wei Zhong’s name to order him to stop speaking. |
 | 적천강 | 창공 | hostile opponents | you; you bastard | blunt and threatening | Jeok Cheongang uses 네놈, 이 불알 없는 놈, and 호로새끼 while taunting Cang Gong. |
 | 창공 | 적천강 | hostile opponents | Fire King Jeok Cheongang | taunting and sardonic | Cang Gong names Jeok by his title, then comments on how alike master and disciple are. |
+| 황제 | 소교 | Emperor questioning a political ally | you | quiet and direct | The Emperor questions So Gyo through Sound Transmission about why she is only watching. |
+| 소교 | 황제 | political ally answering the Emperor | Your Majesty | calm and direct | So Gyo answers the Emperor through Sound Transmission without wavering. |

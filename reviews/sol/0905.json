@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "They were arsonists who deserved to burn.",
+      "defect": "Softens Jeok Cheongang’s anger: burning them to death would not have satisfied him, rather than being a fitting punishment.",
+      "id": "F01",
+      "rationale": "태워 죽여도 시원치 않을 says that even burning them to death would not have been enough.",
+      "replacement": "They were arsonists I wouldn’t have been satisfied with even if I’d burned them alive.",
+      "severity": "major",
+      "source": "태워 죽여도 시원치 않을 방화범들이었지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Why?”\n\nHe struggled as if he might shake off the palace attendants’ hands at any moment and rush onto the battlefield.\n\n“Why would you do this?”",
+      "defect": "Changes the prince’s repeated, incredulous demand about what the Emperor is thinking into questions about a deed.",
+      "id": "F02",
+      "rationale": "무슨 생각이신 겁니까 challenges the Emperor’s thinking amid his refusal to intervene; the preceding 도대체 begins the same outburst.",
+      "replacement": "“What on earth—”\n\nHe struggled as if he might shake off the palace attendants’ hands at any moment and rush onto the battlefield.\n\n“What on earth are you thinking?”",
+      "severity": "major",
+      "source": "“도대체!”\n\n당장이라도 자신을 붙잡은 궁인들의 손을 뿌리치고 전장으로 달려 나갈 듯이 몸부림치며.\n\n“도대체 무슨 생각이신 겁니까!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If there is anything you wish of me, I will do it. If you order me to leave the Great Nation, I will obey. But please, do not refuse this one request—my first and last.”",
+      "defect": "Omits both self-references as the Emperor’s younger brother, flattening the familial appeal that immediately precedes the Emperor’s unspoken wish to be called older brother.",
+      "id": "F03",
+      "rationale": "소제 and 이 아우 both explicitly identify the speaker as the Emperor’s younger brother.",
+      "replacement": "“If there is anything you wish of me, I will do it. If you order your younger brother to leave the Great Nation, I will obey. But please, do not refuse this request from your brother—the first and last I will ever make of you.”",
+      "severity": "major",
+      "source": "“원하시는 바가 있다면 무엇이든 하겠습니다. 소제(小弟)더러 대국을 떠나라 하시면, 그 역시 명을 따르겠습니다. 다만 이 아우가 처음이자 마지막으로 드리는 부탁만큼은 거절하지 마시옵소서.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Please, please spare him.”",
+      "defect": "“Spare him” suggests withholding punishment or an intended killing; the prince is asking the Emperor to save a friend caught in the fighting.",
+      "id": "F04",
+      "rationale": "살려 주십시오 asks for his life to be saved, and the prince has just seen Jin Taekyung struggling on the battlefield.",
+      "replacement": "“Please, please save him.”",
+      "severity": "minor",
+      "source": "“부디, 부디 저자를 살려 주십시오.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Could I become like you?*",
+      "defect": "Formats a remembered spoken question as a direct thought.",
+      "id": "F05",
+      "rationale": "The narration calls it a question the prince put to Jin Taekyung, who answered aloud.",
+      "replacement": "“Could I become like you?”",
+      "severity": "minor",
+      "source": "‘과인도 그대처럼 될 수 있을까?’"
+    }
+  ],
+  "summary": "The draft preserves the battle’s main sequence, but it weakens Jeok Cheongang’s threat and loses key cues in Prince Shangshan’s plea.",
+  "version": 1
+}
