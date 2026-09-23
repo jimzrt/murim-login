@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "None of them knew why—not the physicians who understood poison and medicine, nor the holy priestesses.",
+      "defect": "The source does not identify the priests as women; the draft invents their gender.",
+      "id": "F01",
+      "rationale": "제사장 does not specify gender, while 영험한 describes spiritual power.",
+      "replacement": "Neither the physicians versed in poison and medicine nor the spiritually gifted priests knew why.",
+      "severity": "major",
+      "source": "독과 약에 통달한 의원도, 영험한 제사장도 그 이유를 몰랐다고 하더군요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At first, it wandered through the small intestine and the acupoints, using mild poison to cause auditory and visual Hallucinations. In the end, it gradually ate away at the brain and drove its host to death.",
+      "defect": "The draft replaces the specifically named duodenum with the broader small intestine.",
+      "id": "F02",
+      "rationale": "십이지장 means duodenum; the organ is part of the explanation of how the gu acts.",
+      "replacement": "At first, it wandered through the duodenum and the acupoints, using mild poison to cause auditory and visual hallucinations. In the end, it gradually ate away at the brain and drove its host to death.",
+      "severity": "major",
+      "source": "처음에는 십이지장과 혈도를 누비며 미약한 독으로 환청과 환각을 불러일으키다가, 끝내는 뇌수를 조금씩 파먹으며 숙주를 죽음으로 몰아간다더군."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Perhaps that’s why they didn’t manage to create many of them before the sect was destroyed.",
+      "defect": "The draft turns a scarcity of improved specimens into a scarcity of gu created at all.",
+      "id": "F03",
+      "rationale": "개량해 낸 개체 specifies specimens the sect had improved, not every specimen it created.",
+      "replacement": "Perhaps that’s why they managed to improve so few specimens before the sect was destroyed.",
+      "severity": "major",
+      "source": "그래서인지 오독문이 멸문(滅門)을 맞이하기 전까지 개량해 낸 개체 수가 그리 많지 않았다더군."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The gu poisons you’re thinking of cause no trouble as long as the host takes the antidote at regular intervals.",
+      "defect": "Namho’s respectful address to Jeok Cheongang is dropped.",
+      "id": "F04",
+      "rationale": "적 선배 explicitly marks Namho’s deference to Jeok, especially while correcting his understanding.",
+      "replacement": "Senior Jeok, the gu poisons you’re thinking of cause no trouble as long as the host takes the antidote at regular intervals.",
+      "severity": "major",
+      "source": "적 선배께서 생각하시는 고독이란 일정 주기로 해약(解藥)을 복용한다면 아무런 문제도 없지요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "My voice trailed off as I looked down at the Sichuan City Lord’s corpse.",
+      "defect": "The established title is changed to “Sichuan City Lord.”",
+      "id": "F05",
+      "rationale": "The binding ledger renders 사천성주 as “City Lord of Sichuan Province.”",
+      "replacement": "My voice trailed off as I looked down at the City Lord of Sichuan Province’s corpse.",
+      "severity": "minor",
+      "source": "나는 말꼬리를 흐리며 사천성주의 시신을 내려다보았다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "*This is the first time I’ve ever seen a gu poison up close.*",
+      "defect": "“Up close” implies he may have seen one from a distance before, and the concessive aside is lost.",
+      "id": "F06",
+      "rationale": "직접 보는 것도 처음 says this is his first time seeing one firsthand; 애초에 and 지만 frame it as an aside.",
+      "replacement": "*Not that I’d ever seen a gu poison in person before.*",
+      "severity": "minor",
+      "source": "‘애초에 고독을 직접 보는 것도 처음이지만.’"
+    }
+  ],
+  "summary": "The draft largely preserves the scene, but it changes two details of Blood Soul Gu’s history, assigns an unsupported gender to the priests, and loses a respectful address.",
+  "version": 1
+}
