@@ -10,9 +10,9 @@ Yet most people knew neither his age nor his face—not even his name. Assassins
 
 Decades passed, and the veil over the Slaughter Saint never lifted.
 
-The Slaughter Saint had vanished without a trace immediately after the war ended. He did not show himself even once for a long time, and the words that spilled from the mouths of ordinary people traveled a thousand li, ten thousand li, without needing feet.
+He vanished soon after the war ended and did not show himself again. Meanwhile, rumors traveled a thousand li, ten thousand li, without a foot to carry them.
 
-The Slaughter Saint is dead!
+The Slaughter Saint was dead!
 
 That was half true and half false.
 
@@ -40,7 +40,7 @@ Black cat, white cat. As long as it caught mice, what did the color matter?
 
 It was a shame my first recruitment target wasn’t a cute little deer with horns, but a former assassin who wanted to kill me roughly three times a day. I didn’t have much choice.
 
-*Who cares about his personality? He has the strongest damage output and healer abilities, too.*
+*Who cares about his personality? He’s got top-tier damage output and healing abilities.*
 
 Right. That was enough.
 
@@ -68,7 +68,7 @@ I stared at Cheongpung, my eyes trembling, and finally managed to speak.
 
 “No, I know why you came here. I mean—”
 
-This was driving me insane. Seriously.
+Fuck. I couldn’t even get the words out.
 
 Mungyeong watched me stammer without a trace of expression and answered for him.
 
@@ -78,17 +78,17 @@ Cheongpung smiled brightly.
 
 “Hehe. That’s how it happened, Benefactor.”
 
-It was the one blow that turned my suspicion into certainty.
+There went any doubt I’d had. I looked from one to the other in silence before forcing my mouth open.
 
 “Is this for real?”
 
 Mungyeong nodded.
 
-“It probably isn’t a legend.”
+“It’s hardly a legend.”
 
-“Then it really happened?”
+“So you really did?”
 
-“Yes. It really happened.”
+“Yes. We did.”
 
 “Why?”
 
@@ -100,7 +100,7 @@ Mungyeong clicked his tongue.
 
 “You’re making an ugly business of it.”
 
-“What if I still want to hear it, even if I have to be filthy?”
+“What if I still want to know?”
 
 “Then I’ll have to find a cleaner way to settle it.”
 
@@ -110,7 +110,7 @@ Something silver glinted at the end of his long sleeve. I rubbed my eyes at the 
 
 “Maybe I’m tired and my eyes are going bad. Why is *that* coming out now?”
 
-“Because using this would be clean.”
+“It would settle things cleanly.”
 
 “Maybe, but wouldn’t it make a mess around here?”
 
@@ -142,7 +142,7 @@ Hyuk Mujin was loitering by the clinic entrance. He hurried over when he spotted
 
 “Did it go well—… From your face, I’m guessing not.”
 
-Hyuk Mujin blinked after hurriedly correcting himself upon seeing my face.
+He blinked, having changed course the instant he saw my expression.
 
 “I don’t see Mungyeong. Does that mean…?”
 
@@ -150,9 +150,9 @@ Hyuk Mujin blinked after hurriedly correcting himself upon seeing my face.
 
 “Huh. He turned down the Captain’s offer? He’s better at judging a situation than he looks— I mean, I’m joking. Please, I’m begging you. Put your fist down.”
 
-“Make one more joke and it will become your last will.”
+“One more joke and it’ll be your last words.”
 
-Hyuk Mujin backed away to secure a safe distance before speaking in a solemn voice.
+Mujin backed away to a safe distance and adopted a grave tone.
 
 “There is one way.”
 
@@ -164,35 +164,35 @@ He sounded so sure of himself that I couldn’t help listening. I was grasping a
 
 “What is it?”
 
-“How about I try talking some sense into him? That fellow Mungyeong would do anything I say.”
+“Should I have a word with him? Mungyeong hangs on everything I say.”
 
 “……”
 
 Hangs on your words, my ass. He’d kill you in the blink of an eye.
 
-If Mungyeong wished, he could turn Hyuk Mujin into a corpse with a single inhale and reduce him to powder with a single exhale.
+If Mungyeong wanted to, he could turn Mujin into a corpse on an inhale and reduce him to dust on the exhale.
 
 “Mujin…”
 
-“Don’t worry. We’ve built up a fair amount of affection over the years. If Young Hero Gung and I go and persuade him, he won’t refuse us coldly.”
+“Don’t worry. We’ve been through a lot together. If Young Hero Gung and I go talk to him, he won’t turn us down cold.”
 
 “That’s not it, you bastard…”
 
-This bastard was actually trying to commit group suicide now.
+Now he was trying to drag someone else into his suicide attempt.
 
-I looked at Hyuk Mujin with pity.
+I looked at him with a pang of pity.
 
-“You really hate brothels, huh?”
+“You really hate Gibang, don’t you?”
 
 “What?”
 
-“Never mind. Anyway, don’t try to marry him—no, persuade him. Absolutely not.”
+“Never mind. Anyway, don’t get married—no, don’t try to persuade him. Ever.”
 
 “Why?”
 
 “Just don’t, you bastard.”
 
-Hyuk Mujin did not know Mungyeong’s true identity, so there was no way their conversation could go anywhere.
+Mujin didn’t know who Mungyeong really was. There was no talking sense into him about this.
 
 I sighed at his aggrieved expression.
 
@@ -200,7 +200,7 @@ I sighed at his aggrieved expression.
 
 “Write? I’d make Wang Xizhi weep.”
 
-“Answer properly before I beat you until you cry.”
+“Give me a straight answer before I make *you* weep.”
 
 “……I write well enough. Believe it or not, people called me a prodigy when I was little.”
 
@@ -214,9 +214,9 @@ The world was vast, and masters were plentiful.
 
 Henan, right now, was a prince’s residence teeming with dragons and tigers.
 
-*What’s so special about holding a public audition?*
+*What’s a public audition, anyway?*
 
-If you thought about it, even the imperial examinations were the most traditional audition program in existence. With my fame and eye for talent, it was worth trying.
+The imperial examinations were the oldest audition program around, if you thought about it. With my reputation and my eye for talent, it was worth a shot.
 
 I pictured applicants flooding in.
 
@@ -226,11 +226,11 @@ I pictured applicants flooding in.
 
 Shik, sssshk!
 
-Whenever his hands moved as if dancing, the tip of the large needle flashed, and thread stitched the wound closed.
+The movements were quick and supple, unlike anything the onlookers had ever seen. Each time the hands danced, the tip of a long needle flashed and its thread drew the wound shut.
 
 In mere moments, a swordsman who had been slowly dying from a deep slash across his abdomen had a chance to live.
 
-“How can someone so young possess medical skills of this level…!”
+“How can someone so young have such skill…?”
 
 “I’ve never even heard of a medical apprentice like him.”
 
@@ -246,13 +246,13 @@ The treatment was over in a flash. More astonishing than its speed was the fact 
 
 Mouths agape, the physicians turned to the speaker as he rose from his seat.
 
-“H-How can this be?”
+“H-How did you…?”
 
-“Hey!”
+“Wait!”
 
 He looked too young to call a young man, yet something about him made *boy* seem wrong as well.
 
-Mungyeong gathered his belongings and stood.
+Mungyeong gathered his belongings.
 
 “Are there any patients left?”
 
@@ -260,7 +260,7 @@ The physicians exchanged glances, then shook their heads all at once.
 
 “N-No, but…”
 
-“Th-That’s right. It’s all thanks to you.”
+“That’s right. Thanks to you, they’ve all been treated.”
 
 This was hardly the first time the young medical apprentice had astonished them.
 
@@ -274,9 +274,9 @@ Then he’d begun treating them one by one, so quickly and so thoroughly that th
 
 *Who is he?*
 
-They had waited until now to ask about his identity. But when they finally did, the young medical apprentice’s answer was utterly calm.
+They had waited to ask him exactly that. Mungyeong’s answer, however, was perfectly calm.
 
-“Then that settles it. I’ll be going now.”
+“Then I’ll be going.”
 
 “W-Wait! I have a mountain of questions for you!”
 
@@ -286,7 +286,7 @@ Questions came at him from every side. Mungyeong inclined his head slightly.
 
 “If I have time, I’ll stop by once more before I leave and check on the patients.”
 
-“You may have been free to enter, but you’re not free to leave!”
+“You may have come in whenever you pleased, but you’re not leaving!”
 
 “Grab him!”
 
@@ -304,7 +304,7 @@ As they stared about in confusion, Mungyeong’s voice rang out.
 
 “Where? Where are they?”
 
-To physicians, a renowned doctor’s prescriptions were like a peerless master’s martial arts manual.
+To a physician, prescriptions left by a master doctor were like a peerless martial artist’s martial arts manual.
 
 Their eyes all but rolling back, the physicians launched into a fierce struggle over the dozens of prescriptions. Mungyeong slipped outside and walked on, then spoke without warning.
 
@@ -316,7 +316,7 @@ With a faint rustle, a figure emerged from behind a large pillar.
 
 “Oh! How did you know?”
 
-“Just because.”
+“I just did.”
 
 “You really are amazing. I thought I’d fool you this time. Hehe.”
 
@@ -326,7 +326,7 @@ Mungyeong studied Cheongpung’s cheerful face.
 
 “A footwork technique.”
 
-“I know that.”
+“I can see that.”
 
 “Oh. I named it Mimi Step.”
 
@@ -336,7 +336,7 @@ Mungyeong studied Cheongpung’s cheerful face.
 
 Cheongpung’s eyes shone. Mungyeong’s reply was cold.
 
-“……What an utterly ridiculous name.”
+“……It’s a ridiculous name.”
 
 “Oh. Ah…”
 
@@ -352,13 +352,13 @@ Most martial artists spent their entire lives trying to understand a single mart
 
 Then, having made it his own, he had recreated it entirely.
 
-*This boy… has the makings of a Grandmaster.*
+*He has the makings of a Grandmaster.*
 
 Jin Taekyung wasn’t the only genius. In some ways, this boy’s genius far surpassed his.
 
 *Sword Saint, you’ve raised a monster.*
 
-Mungyeong muttered inwardly, then spoke to Cheongpung, who was still looking dejected.
+Mungyeong turned to Cheongpung, who still looked dejected.
 
 “So why did you offer me your hand?”
 
@@ -392,7 +392,7 @@ Yet Mungyeong didn’t mind.
 
 “……I did not.”
 
-“You did. You smiled.”
+“You did. I saw you.”
 
 “You impudent little brat.”
 
@@ -400,8 +400,8 @@ Yet Mungyeong didn’t mind.
 
 “……Brat.”
 
-“Would you like some dumplings?”
+“Would you like a dumpling?”
 
 Mungyeong hesitated, wondering whether to draw his short sword. Instead, he took the dumpling Cheongpung offered and bit into it.
 
-The taste was not bad.
+It tasted rather good.

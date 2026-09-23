@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Shik, sssshk!",
+      "defect": "The next source sentence, describing a fast, supple movement unlike anything the observers had ever seen, is omitted. The accepted baseline preserved this image.",
+      "id": "F01",
+      "rationale": "The Korean explicitly calls attention to the movement’s unprecedented speed and flexibility before describing the needle and thread.",
+      "replacement": "Shik, sssshk!\n\nIt was a fast, supple movement unlike anything anyone had ever seen.",
+      "severity": "minor",
+      "source": "Korean lines 243–245"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Even if he never saved me, he might save someone traveling with us when their life was in danger.",
+      "defect": "“Never saved me” makes the hypothetical absolute, whereas the Korean means that even if Mungyeong did not save the narrator specifically, he could save someone traveling with them at least once. “At least once” is also absent.",
+      "id": "F02",
+      "rationale": "The source says “굳이 내가 아니더라도” (even if it isn’t me specifically) and “한 번쯤은” (at least once / sometime).",
+      "replacement": "Even if it wasn’t me, he might save someone traveling with us at least once when they were in grave danger.",
+      "severity": "minor",
+      "source": "Korean lines 55"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Hangs on your words, my ass. He’d kill you in the blink of an eye.",
+      "defect": "The Korean joke repeats the “die” idea and flips it: Mungyeong supposedly “dies for” Hyuk Mujin, but in reality would “kill” him. “Hangs on your words” replaces that setup, weakening the wordplay.",
+      "id": "F03",
+      "rationale": "The source contrasts 껌뻑 죽습니다 with 껌뻑 죽이는 거겠지, turning “he’d die for me” into “he’d kill you.”",
+      "replacement": "“Drop dead for me,” my ass. He’d make you drop dead.",
+      "severity": "minor",
+      "source": "Korean lines 179, 183–185"
+    }
+  ],
+  "summary": "The assembled translation has one omitted source image and one small shift in the description of who might be saved. The exchange about Hyuk Mujin also loses the Korean wordplay contrasting “die for me” with “kill you.”",
+  "version": 1
+}
