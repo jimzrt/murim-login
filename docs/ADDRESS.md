@@ -1328,3 +1328,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 아미르 | 하미드 | leader to subordinate | Hamid | formal, authoritative | Addresses him as Hassan’s son Hamid. |
 | 진태경 | 선지자 | enemy commander addressed by Jin | The Prophet | blunt and informal | Jin asks where The Prophet is while confronting the Manticore Lord. |
 | 만티코어 로드 | 진태경 | enemy combatant | you | composed and formal | The Manticore Lord recognizes Jin as the human The Prophet spoke of. |
+| 야마모토 겐지 | 진 사마 | Hunter colleague; Yamamoto addresses Jin deferentially. | Jin Sama | Polite and deferential | Yamamoto calls out to Jin on arriving. |
+| 진태경 | 야마모토 겐지 | Hunter colleague; Jin is the World Hunter Federation’s Alliance Leader. | you | Informal and blunt | Jin addresses Yamamoto directly while rebuking him. |
