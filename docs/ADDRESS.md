@@ -1345,3 +1345,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 아미르 | enemy commander | old man | blunt and insulting | Jin tells Amir to die, addressing him as 늙은이. |
 | 진태경 | 하미드 샤 마수드 | enemy commander to opposing fighter | Hamid Shah Masoud | blunt and informal | Jin addresses him by his full name before confronting the fanatics. |
 | 스켈레톤 킹 | 진태경 | friend and ally | human | insulting and familiar | Calls Jin 인간아 and teases him while checking his condition. |
+| 스켈레톤 킹 | 진태경 | friend_and_ally | Go | casual imperative | Urges Jin forward during their coordinated attack. |
+| 도플갱어 | 진태경 | enemy | you | measured and informal | Replies to Jin’s taunt without using a name or title. |
