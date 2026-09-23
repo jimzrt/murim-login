@@ -1,22 +1,23 @@
 # Translation State
 
-- Last completed: 832
-- Next chapter: 833
-- Current block: 830–834 (3/5)
-- Latest translation: `translations/0832.md`
-- Latest summary: `summaries/beats/0832.md`
-- Safe profiles through: chapter 832
+- Last completed: 833
+- Next chapter: 834
+- Current block: 830–834 (4/5)
+- Latest translation: `translations/0833.md`
+- Latest summary: `summaries/beats/0833.md`
+- Safe profiles through: chapter 833
 
 ## Current Block
 
-- Jin is stunned when the Main Quest [Cataclysm] fails after he erases the Doppelganger. The System reports that the mission to stop the summoning failed, the Demon Realm’s boundary has temporarily opened, and the Rift has begun at 10% progress. Magical power will rise as the Rift progresses, while unidentified beings invade the world.
-- Jin tells the Skeleton King to alert the World Hunter Federation, then collapses from exhaustion. The System automatically transfers him to Murim, where Login succeeds. Elsewhere, Ahomed Jemal Pasha and the Prophet’s mages complete their prepared summoning ritual; a being with red eyes appears in the darkness.
+- Jin Taekyung dreams—or receives a vision—of Ahomed’s ritual opening a rift and summoning a black-haired, red-eyed man who kills Ahomed and unleashes a storm of magical power on the gathered crowd. Jin wakes in a carriage in Nanman, finds the System unavailable after an apparent update, and suspects the vision showed the calamity he failed to prevent, though he does not know whether it was real or prophetic. He then catches Hyuk Mujin loudly boasting to others about his closeness to Jin.
 
 ## Open Questions
 
-- Why did the Main Quest fail despite the Doppelganger’s erasure, and what is the identity of the summoned being?
+- Why did the Main Quest fail despite the Doppelganger’s erasure, and who or what was summoned?
+- Was Jin’s vision of the summoned being real, System-delivered, or prophetic?
 - What will happen as the Rift progresses and more beings enter the world?
 - Who or what chose Jin, and what is the Ark?
+- What changed in the System update, and when will its functions return?
 
 ## Exceptional Decision
 

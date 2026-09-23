@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I felt dazed.",
+      "defect": "Introduces first-person narration before the source identifies Jin Taekyung in third person.",
+      "id": "F01",
+      "rationale": "The opening is a subjectless impression; the explicit first-person viewpoint begins after the nightmare.",
+      "replacement": "Dazed.",
+      "severity": "major",
+      "source": "몽롱하다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "On and on. Until every last bit of energy had been poured out and turned to ash.",
+      "defect": "Makes the energy, rather than the Magic Gems, appear to turn to ash.",
+      "id": "F02",
+      "rationale": "The next lines show the spent Magic Gems crumbling and scattering.",
+      "replacement": "On and on. Until the Magic Gems had poured out all their energy and crumbled to ash.",
+      "severity": "major",
+      "source": "끝없이. 모든 기운을 쏟아붓고 잿가루가 되어 사라질 때까지."
+    },
+    {
+      "confidence": 0.88,
+      "current": "Then, making the red glow he’d shown just moments ago seem dull by comparison, his eyes turned pitch-black. He took in the new world with his gaze, looking around and sensing everything.",
+      "defect": "“Dull by comparison” suggests the black eyes outshine the red glow, rather than replacing its striking appearance.",
+      "id": "F03",
+      "rationale": "The contrast is between his earlier red gaze and his now-black eyes.",
+      "replacement": "Then, with the red glint from moments ago all but forgotten, he took in the new world through eyes that had turned pitch-black. He looked around and sensed everything.",
+      "severity": "minor",
+      "source": "그리고 조금 전 보였던 안광이 무색할 만큼, 어느덧 새카맣게 물든 눈동자로 새로운 세상을 눈에 담았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I blinked at the single groan.",
+      "defect": "Makes the groan sound like something he reacts to rather than something he utters.",
+      "id": "F04",
+      "rationale": "The groan and blink are his simultaneous actions.",
+      "replacement": "I let out a short groan and blinked.",
+      "severity": "minor",
+      "source": "외마디 신음과 함께 눈을 깜빡였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Now, who does the Central Plains martial world revolve around, Captain? It revolves around our Captain, the Blazing Flame Divine Dragon of the great Jin Family of Taiyuan.",
+      "defect": "Treats “Captain” as a vocative addressed to the listener, when Hyuk Mujin is naming his absent captain as the answer.",
+      "id": "F05",
+      "rationale": "우리 조장님 answers Mujin’s rhetorical question; it does not address the person hearing his boast.",
+      "replacement": "Now, who does the Central Plains martial world revolve around? Our Captain. The Blazing Flame Divine Dragon of the great Jin Family of Taiyuan—that’s who.",
+      "severity": "major",
+      "source": "지금 중원 무림은 누구 중심으로 돌아가는 것이냐, 우리 조장님. 대태원진가의 열화신룡을 중심으로 돌아가게 되어 있다고."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Because I’ve got a firm grip on the Captain’s support! Because I’m his most trusted subordinate!",
+      "defect": "Reverses the support relationship: Mujin claims a secure place assisting the Captain, not that he controls the Captain’s support for him.",
+      "id": "F06",
+      "rationale": "조장님의 보좌 refers to Mujin’s position as the Captain’s aide; his repeated 딱 잡고 sets up the listener’s question.",
+      "replacement": "Because I’ve got my place at the Captain’s side locked down! I’m his most trusted subordinate—that’s why my place is secure.",
+      "severity": "major",
+      "source": "나는 조장님의 보좌를 딱 잡고 살기 때문에! 가장 신뢰하는 수하이기 때문에 딱 잡고 있어요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Captain! Don’t move! If the Blazing Flame Divine Dragon gets fresh with me, I’ll kill him!",
+      "defect": "Changes Mujin’s mock direct threat to his captain into a conditional statement about a third party; “gets fresh with me” also introduces a sexual implication absent from 까불면.",
+      "id": "F07",
+      "rationale": "Mujin is acting out how boldly he supposedly speaks to Taekyung, using both addresses for the same person.",
+      "replacement": "Captain, don’t move! Blazing Flame Divine Dragon, mess with me and you’re dead!",
+      "severity": "major",
+      "source": "조장님. 꼼짝 마! 열화신룡 까불면 나한테 죽어!"
+    }
+  ],
+  "summary": "Several localized fidelity errors affect viewpoint, the ritual’s mechanics, and Hyuk Mujin’s boast.",
+  "version": 1
+}
