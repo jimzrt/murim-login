@@ -10,13 +10,13 @@ He couldn’t say where or how things had gone wrong. But one thing was certain.
 
 *Boom!*
 
-The thunderous roar that had suddenly erupted the moment he entered the privy had ended everything for him.
+The crash that rang out the moment he entered the privy had finished him.
 
 “Ahhh, so warm…”
 
 His Captain had once told him that giving up made things easier.
 
-He had been right. The pleasure was heavenly, and warmth like a mother’s embrace spread through the young man’s lower body.
+He’d been right. The relief was heavenly, and warmth like a mother’s embrace spread through the young man’s lower body.
 
 So why were tears running down his cheeks?
 
@@ -28,7 +28,7 @@ In the privy of a large inn on a crowded main street.
 
 It was an expensive inn that only people with money to spare could afford to enter. The partitions between the privies offered a little comfort, but they didn’t change the fact that he could never leave like this.
 
-*If anyone finds out what happened, I’m finished.*
+*If anyone sees me, I’m finished.*
 
 His spine prickled and his insides twisted at the thought.
 
@@ -48,7 +48,7 @@ What if he took everything off, pulled his shirt over his face, and ran across t
 
 In Murim, it was practically legal to beat a man to death for sprinting down the main street with everything dangling.
 
-Every passing martial artist would rush out and start swinging their weapons. He might even receive an attack worse than anything a Dark Heaven fiend could unleash.
+Every passing martial artist would rush out swinging a weapon. He might face an assault worse than anything a Dark Heaven fiend could dish out.
 
 *Then I’ll have to ask someone for help. An inn attendant, maybe.*
 
@@ -62,7 +62,7 @@ Hyuk Mujin made a solemn vow.
 
 Unfortunately, his traveling companions were more persistent than venomous snakes. If they got hold of a weakness like this, they’d tease him for ten years at least. Maybe twenty or thirty.
 
-No, they would probably keep going until the very moment Hyuk Mujin was on his deathbed.
+No, they’d probably keep at it until the moment he died.
 
 *“Mujin…”*
 
@@ -70,7 +70,7 @@ No, they would probably keep going until the very moment Hyuk Mujin was on his d
 
 *“Heh heh. You arrived right on time, Captain. And Great Hero Gung.”*
 
-*“Sob. Of course I had to arrive on time! You were late that day and shit your pants, but I’m not going to be late!”*
+*“Sob. Of course I came on time! You were late that day and shit your pants, but I won’t be late!”*
 
 *“Rest easy, Hyuk. You can stink up the place behind the folding screen all you want now.”*
 
@@ -80,7 +80,7 @@ A miserable end, even to imagine.
 
 For a moment, he considered asking an attendant to fetch Cheongpung from their lodgings. But that would be digging his own grave.
 
-*“Wow! This is the first time I’ve seen someone who shit his pants! At first, I thought you were a snake! You’re a Thousand-Year Dung-Horned Snake that looks just like Mimi!”*
+*“Wow! I’ve never seen someone who shit his pants before! At first I thought you were a snake! You’re a Thousand-Year Dung-Horned Snake, just like Mimi!”*
 
 *“Wait. Young Hero Cheongpung! Wait!”*
 
@@ -90,11 +90,11 @@ For a moment, he considered asking an attendant to fetch Cheongpung from their l
 
 He’d be a hundred times better off walking around with a sign around his neck that read *I Shit My Pants*.
 
-Hyuk Mujin was trembling from the chills brought on by the horrifying images filling his mind when it happened.
+Hyuk Mujin shuddered at the horrible scenes filling his mind.
 
 *Rattle.*
 
-The door opened, and he sensed someone’s presence.
+A door opened. Someone had come in.
 
 Hyuk Mujin’s eyes flew open, and he cleared his throat.
 
@@ -102,7 +102,7 @@ Hyuk Mujin’s eyes flew open, and he cleared his throat.
 
 When no one answered, he coughed louder.
 
-“Ahem! Ahem! Is anyone there? Cough, cough!”
+“Ahem! Is anyone there? Cough, cough!”
 
 “Hm?”
 
@@ -112,7 +112,7 @@ At last, a response. Hyuk Mujin swallowed and forced his voice into a dignified 
 
 Someone outside answered. The young man’s voice was soft, but he spoke with the easy familiarity of someone addressing an inferior.
 
-“You seem to be looking for an attendant, but unfortunately, I don’t have time to worry about that. You heard it yourself, so you know there’s quite a commotion going on.”
+“You must be looking for an attendant. Unfortunately, they’ve got their hands full. You heard it yourself—there’s quite a commotion going on.”
 
 How could Hyuk Mujin not have heard? That damned crash was the reason he was in this mess. The building hadn’t collapsed, but everyone seemed busy dealing with the damage.
 
@@ -132,7 +132,7 @@ Hyuk Mujin’s heart dropped.
 
 “Well, I’m busy myself.”
 
-“A small problem has come up.”
+“I’ve had a small problem.”
 
 “If it’s small, you can take care of it yourself.”
 
@@ -186,7 +186,7 @@ At least he’d stopped the man from leaving.
 
 *Flap.*
 
-Just as Hyuk Mujin was wondering what he meant, a silk outer robe fluttered down over his head, accompanied by a low chuckle whose meaning he could not understand.
+As Hyuk Mujin wondered what he meant, a silk outer robe fluttered down over his head. The man gave a low chuckle.
 
 Hyuk Mujin caught the robe and stammered his thanks.
 
@@ -200,7 +200,7 @@ Hyuk Mujin caught the robe and stammered his thanks.
 
 The soft voice continued.
 
-“Not when I’m the benefactor who helped his little toe—or rather, his right arm.”
+“Not when I helped his little toe—no, his right arm.”
 
 “…!”
 
@@ -208,7 +208,7 @@ Hyuk Mujin didn’t know who the man was, but he knew he’d gotten himself into
 
 It was too late for regrets. His face stiff, he asked, “Is that why you gave me the robe?”
 
-“Why? Have you changed your mind? Then I’ll throw the robe back—”
+“Why? Changed your mind? Then throw the robe back—”
 
 “If we’re doing this, could you get me some clothes to wear too? Wiping myself down won’t be enough.”
 
@@ -240,7 +240,7 @@ I cut him off.
 
 “What?”
 
-The owner had gone out on a limb and asked for two hundred nyang, only for me to counter with three hundred. From his perspective, he probably had no idea what kind of person I was.
+Only part of the third-floor railing and a section of wall had come down. He’d taken a chance asking for two hundred nyang, and I’d come back with three hundred. He must have wondered what kind of idiot I was.
 
 But I had no qualms about offering an enormous sum.
 
@@ -248,13 +248,13 @@ The reason was simple.
 
 *It wasn’t my money.*
 
-“Put it on the Hwangbo Family’s tab. If that Lesser Family Head bastard gives you trouble when you go to collect, tell him Jin Taekyung sent you.”
+“Put it on the Hwangbo Family’s tab. If that bastard Lesser Family Head gives you trouble when you go to collect, tell him Jin Taekyung sent you.”
 
 “How am I supposed to say— Wait. Jin Taekyung?”
 
-The owner and the hired blades, who had been studying me suspiciously, opened their eyes wide.
+The owner and his hired blades, who’d been eyeing me suspiciously, stared.
 
-“J-Jin Taekyung? The Jin Taekyung of the Jin Family of Taiyuan?”
+“J-Jin Taekyung? Of the Jin Family of Taiyuan?”
 
 “The Blazing Flame Divine Dragon! It’s the Blazing Flame Divine Dragon!”
 
@@ -290,7 +290,7 @@ The dispute between the Yongbong Escort Bureau and the Zhongnan Sect.
 
 I’d stumbled into it on my way to Sichuan to seek treatment for Jeok Cheongang. After putting a stop to the Taeeul Merciless Sword’s attempt to settle things by force, I’d even taken part in the negotiations.
 
-*I uprooted two or three of Zhongnan Sect’s foundation pillars back then.*
+*I pulled two or three of Zhongnan’s foundation pillars out from under them that day.*
 
 Hwaran was clearly remembering it too. Her eyes shone softly as she looked at me.
 
@@ -348,9 +348,9 @@ For some reason, he’d since developed a round bald patch. He flinched when I l
 
 *—Infinite Life Buddha. I’m not busy.*
 
-*—I don’t think so. I think you’ve just remembered something urgent and need to leave right away.*
+*—I don’t think so. You’ve just remembered something urgent, and you need to leave.*
 
-*—I have already received permission from my sect regarding today’s appointment. There’s no urgent matter that I need to attend to—*
+*—My sect has already given me permission to attend today’s gathering. I have no urgent business—*
 
 *—Hey, Hak.*
 
@@ -372,7 +372,7 @@ To a balding man, every hair was as precious as his life. Hak Woo finally got th
 
 “But it’s still rude of me to—”
 
-“I can’t walk you out very far. Take care.”
+“I can’t walk you out. Take care on your way back.”
 
 “Wait. Could you at least let me finish…”
 
@@ -380,11 +380,11 @@ To a balding man, every hair was as precious as his life. Hak Woo finally got th
 
 Now that I thought about it, Hwaran seemed a little impatient.
 
-Kunlun Cloud Dragon Hak Woo looked back and forth between Ju Hwaran and me with eyes on the verge of tears before disappearing, and my gaze naturally shifted to the two people I had yet to deal with.
+Hak Woo looked between us with tears in his eyes, then left. That brought my attention to the two people still remaining.
 
 “I’ll tell you now: I’m not leaving. I’m the Young Bureau Head’s personal escort.”
 
-Song Ilseom, an escort sitting crookedly with a single sword tucked against his chest, spoke flatly.
+Song Ilseom sat at an angle with a sword cradled against his chest. I shrugged at his blunt declaration.
 
 “I didn’t ask you to. Wasn’t planning to, either.”
 
@@ -398,7 +398,7 @@ He was the last descendant of the Guangdong Chen Family, an iron-blooded martial
 
 I’d been famous when we first met, but it was nothing compared to now. Song Ilseom was still as calm and prickly as he’d been back then.
 
-Maybe that was why I liked him even more.
+Maybe that was why I liked him.
 
 But the last one…
 
@@ -416,7 +416,7 @@ Qi Sense could tell me little more than his Level and name. If I wanted to know 
 
 “Yes. I, very hungry.”
 
-The giant continued with a serious expression.
+The giant’s expression grew grave.
 
 “Today, only ate six meals. Feel like dying.”
 
