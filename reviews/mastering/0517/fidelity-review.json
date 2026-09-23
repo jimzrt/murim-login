@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "please stay and rest as long as you need",
+      "defect": "Adds an open-ended duration to the invitation. The Korean asks him to stay and rest well but does not specify that he may stay as long as necessary.",
+      "id": "F01",
+      "rationale": "머무르십시오 invites him to stay, and 푹 쉬시며 asks him to rest well; neither phrase establishes a duration.",
+      "replacement": "please stay here and get plenty of rest",
+      "severity": "minor",
+      "source": "Korean line 143"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor added implication about how long the invitation to stay lasts.",
+  "version": 1
+}

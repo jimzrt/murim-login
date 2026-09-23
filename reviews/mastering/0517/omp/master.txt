@@ -6,7 +6,7 @@ I almost didn’t recognize him. Unnamed had changed that much since I’d met h
 
 And the reason he’d changed was probably…
 
-*It must be because of what happened that day, three months ago.*
+*What happened that day, three months ago.*
 
 What was I supposed to say? I had a bitter taste in my mouth. I waited until Jung Ho and Hyuk Mujin had taken the others out of the room before I spoke.
 
@@ -66,7 +66,7 @@ Shaolin’s Great Restoration Pill was among the finest elixirs in the world.
 
 *Right. With the Great Restoration Pill, it might have been possible.*
 
-The pill’s effects were one thing, but Unnamed was the Disciple whom Dharma King Hong Dao, a man capable of reading heavenly patterns, had personally brought in and raised with all his heart. He was a genius born with tremendous martial talent—not quite on Cheongpung’s level, perhaps, but still extraordinary. There was no doubt that he was worthy of the Great Restoration Pill.
+The pill was extraordinary, but so was Unnamed. Dharma King Hong Dao, who could read the heavenly patterns, had brought him to Shaolin himself and poured his heart into raising him. Unnamed was a genius with tremendous martial talent—not quite on Cheongpung’s level, perhaps, but surely worthy of the Great Restoration Pill.
 
 He had reached the Supreme Peak realm while still in his thirties. That proved both his Master’s eye for talent and his own ability.
 
@@ -76,9 +76,9 @@ He had reached the Supreme Peak realm while still in his thirties. That proved b
 
 A faint smile touched Unnamed’s lips. He gazed into the distance for a moment, as though remembering his Master, then went on.
 
-“Oh, my Senior Brother Abbot would also like to meet Benefactor Jin.”
+“Oh, the Abbot would like to meet you too, Benefactor Jin.”
 
-“Your Senior Brother Abbot?”
+“The Abbot?”
 
 I hadn’t heard who had succeeded Dharma King Hong Dao. Gung Gibang had said it would be one of the Dharma King’s direct Disciples, but one spectacular disaster after another had kept me too busy to think about it.
 
@@ -166,7 +166,7 @@ That made sense. The stakes were entirely different, so of course more people ha
 
 *They can feel it too. They know what’s happening here.*
 
-As I thought that to myself, a group of Murim practitioners crossing the main road suddenly caught my eye. Their aura was unusual enough that they could not be mistaken for ordinary martial artists. They clearly belonged to one of the great prestigious factions.
+As I thought that, a group of martial artists crossing the main road caught my eye. Their qi was too remarkable for them to be ordinary fighters. They had to belong to a prestigious faction.
 
 *Their clothes are strange, too. Who are they?*
 
@@ -180,7 +180,7 @@ I didn’t need to ask Unnamed. Wrapped in furs despite the warm spring day and 
 
 “They’re said to have the blood of horse-riding nomads for a reason. What luck. I never thought I’d see members of the Murong Family in my lifetime.”
 
-It was my first time seeing the Murong Family, too. Shanxi Province, where the Jin Family of Taiyuan was located, was also considered a frontier region, but Liaoning lay far to the northeast beyond Hebei. It was not somewhere one could visit as casually as the neighborhood next door.
+It was my first time seeing them too. Shanxi Province, home to the Jin Family of Taiyuan, counted as a frontier region, but Liaoning was a long way northeast, beyond Hebei. It wasn’t the sort of place you visited like the neighborhood next door.
 
 It was so far away that I’d heard members of the Murong Family rarely came to the Central Plains.
 
@@ -188,18 +188,18 @@ It was so far away that I’d heard members of the Murong Family rarely came to 
 
 They were among the stronger of the Five Great Families, and I’d heard of their reputation until I was sick of it. Unlike other factions, they even maintained a cavalry unit, or so I’d been told. Maybe that was why every one of them had muscles like a horse.
 
-*The orthodox Murim, led by the Nine Sects and One Gang and the Five Great Families. It sounds like the unorthodox Murim has joined in, too. And on top of that, all the martial artists who belong nowhere at all…*
+*The orthodox Murim, led by the Nine Sects and One Gang and the Five Great Families. Sounds like the unorthodox Murim is here too. Add in all the martial artists who don’t belong to either side…*
 
 People often called the United States a melting pot of races. Right now, Henan looked exactly like that to me. Granted, the people here were of the same or similar races, but every kind of martial artist I’d seldom get to see had gathered in one place.
 
 *Three days.*
 
-Three days from now, countless martial artists would gather beneath a single banner. United under the name of the Murim Alliance, they would raise their weapons and stand against Dark Heaven.
+In three days, countless martial artists would gather under a single banner. United in the name of the Murim Alliance, they would take up their weapons against Dark Heaven.
 
 I was looking out at them and thinking just that when—
 
-Boom!
+*Boom!*
 
 A tremendous roar sounded from somewhere.
 
-[^1]: Jindotgae One is South Korea’s highest military alert level, used when an enemy attack is considered imminent.
+[^1]: Jindotgae One is South Korea’s highest alert level for a local enemy infiltration or provocation.
