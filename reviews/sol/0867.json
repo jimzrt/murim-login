@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“Don’t tell me he made it into the inner palace.”",
+      "defect": "“Inner palace” specifies a distinct part of the palace that the source does not name.",
+      "id": "F01",
+      "rationale": "Baek Yeon asks whether the intruder entered the palace, not whether he reached an inner-palace precinct.",
+      "replacement": "“Don’t tell me he got inside the palace.”",
+      "severity": "critical",
+      "source": "설마 궁 안까지 발을 디딘 것은 아니겠지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "the silhouette of someone in dazzling white showed through the thin curtains.",
+      "defect": "The draft omits that the person is seen from behind.",
+      "id": "F02",
+      "rationale": "뒷모습 specifically identifies a view of the person’s back.",
+      "replacement": "the back of a figure dressed in dazzling white showed through the thin curtains.",
+      "severity": "minor",
+      "source": "얇은 비단 사이로 눈부신 백의(白衣)를 걸친 누군가의 뒷모습이 비쳤다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Please don’t forget the promise you made that day.”",
+      "defect": "The draft assigns the promise solely to the Emperor, though the source leaves who made it unstated.",
+      "id": "F03",
+      "rationale": "그날의 약조 identifies the promise by its occasion, without specifying its maker.",
+      "replacement": "“Please don’t forget the promise from that day.”",
+      "severity": "minor",
+      "source": "“부디 잊지 마시오. 그날의 약조를.”"
+    },
+    {
+      "confidence": 0.84,
+      "current": "The Son of Heaven muttered with a scornful laugh.",
+      "defect": "“Scornful” adds contempt to the Emperor’s reaction.",
+      "id": "F04",
+      "rationale": "실소 suggests an involuntary or incredulous laugh here, not necessarily scorn.",
+      "replacement": "The Son of Heaven muttered with a short, incredulous laugh.",
+      "severity": "major",
+      "source": "천자가 실소하듯 중얼거렸다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes one location detail and loses or adds several meaningful cues.",
+  "version": 1
+}

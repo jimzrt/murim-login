@@ -1,0 +1,104 @@
+{
+  "chapter": 867,
+  "files": {
+    "characters/Baek Yeon.md": "33f5117883ab99ee40d14224e6f25055f783cd9b9c2e13e1ddd29ae953db8e79",
+    "characters/Divine Physician.md": "8e69b28ef0c269b04ef2b86bcfc165fb66b9d9bdfc874e443fd9e0d38efce215",
+    "characters/Jin Taekyung.md": "5136c541e8d942b6d3a8385f912dcf33788c73fd87d4966be7984923bf1f7c7a",
+    "characters/Jintae.md": "cba1a9b0ad62b131d34f70e2abd8299a18e0a79719b2b83ec3ebcf4582bdc47d",
+    "characters/Prince Shangshan.md": "325742976b73247cac894421d289d3d936a2e8fafb8c8663baab8683aff8e29e",
+    "docs/ADDRESS.md": "a8141ce654787037f0430ec4bd957cdee026a5e328c854706643cba086a917a7",
+    "docs/CONTEXT.json": "0eb02e3f1fb04bae20b326e472830c41ab575d03c972ed0392e595f8b8468d94",
+    "docs/NAMES.md": "c6aa7ac66627729312c888562b57669d8c199736b3a54a323fd416b739461b8d",
+    "docs/STATE.md": "2f69d4e8643f7f0905314c7919d90d9a49d979f6271c08c2f5a69017aefb0640",
+    "summaries/beats/0867.md": "f9451e6e5913676a70024aa3d316992ebdeee5aefa1c0ab7bbb1e41029dd9b97"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "천자",
+        "kinship": "imperial officer addressing the Emperor",
+        "normal_address": "Your Majesty",
+        "notes": "Baek uses formal honorifics while sharply confronting the Emperor over their shared undertaking.",
+        "speaker": "백연",
+        "speech_level": "formal, deferential in address but openly defiant in private counsel"
+      },
+      {
+        "addressee": "백연",
+        "kinship": "Emperor addressing his military commander",
+        "normal_address": "Baek Yeon",
+        "notes": "The Emperor addresses Baek by name and gives him a direct warning.",
+        "speaker": "천자",
+        "speech_level": "familiar and authoritative"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Emperor plans to meet his younger brother, Prince Shangshan Zhu Bao, in the audience hall tomorrow.",
+        "An unidentified assassin reached Qianqing Palace, hid poison beneath a molar, and died by suicide before capture; the assassin's identity and backer remain unknown.",
+        "The Emperor and Baek Yeon share an old promise tied to a great undertaking; Baek says the Emperor must restore things to their proper place before their adversaries' moves unravel everything.",
+        "The Emperor relies on opium, which he calls medicine; he breaks his pipe to clear his mind."
+      ],
+      "plot": [
+        "A powerful, unnamed man crosses the imperial palace in the storm and reaches Qianqing Palace, where he learns that an assassin came before him, concealed poison, and killed himself before he could be captured. The man is Baek Yeon, summoned by the Emperor. In private, Baek confronts the Emperor for relying on opium despite their great undertaking and an old promise. The Emperor breaks his pipe to clear his head, says he will meet Prince Shangshan Zhu Bao tomorrow, and warns Baek that another incident like the assassination must not happen. Asked what he thinks of Jin Taekyung, Baek can only say that he does not know."
+      ],
+      "translation_decisions": [
+        "Render 건청궁 as “Qianqing Palace.”",
+        "Render 앵속 as “opium” and 곰방대 as “long-stemmed tobacco pipe.”"
+      ]
+    },
+    "chapter": 867,
+    "context": {
+      "active_continuity": [
+        "Prince Shangshan and his party remain inside the imperial palace under surveillance; the Emperor has scheduled Shangshan's audience for tomorrow.",
+        "Baek Yeon helped the fourth prince seize the throne, betrayed the late Emperor and Crown Prince, and led a purge in which 30,000 people were arrested and killed.",
+        "Hong Jin is devoted to protecting Shangshan and trusts Jin Taekyung to help keep him safe.",
+        "Ma Sanbao, the East Depot's second-in-command, has secretly remained in the palace loyal to the late Emperor and is ready to act against the current ruler.",
+        "Ma Sanbao and Hong Jin are longtime friends and allies; Ma's intelligence about disguised Embroidered Uniform Guard members heading toward Shanxi helped Hong prepare before seeking Taekyung's aid.",
+        "An unidentified assassin reached Qianqing Palace, concealed poison beneath a molar, and died by suicide before capture; the assassin's identity and backer are unknown.",
+        "The Emperor and Baek Yeon share an old promise tied to a great undertaking; Baek urges the Emperor to restore things to their proper place before their adversaries' moves unravel them.",
+        "The Emperor relies on opium, which he calls medicine, and breaks his pipe to clear his mind."
+      ],
+      "continuity_sources": [
+        866,
+        867
+      ],
+      "open_questions": [
+        "What action do Ma Sanbao and Hong Jin intend to take against the current ruler, and when?",
+        "What does the Emperor intend for Prince Shangshan, and why was his audience postponed?",
+        "Who sent the assassin to Qianqing Palace, and what was the intended target?",
+        "What was the old promise between Baek Yeon and the Emperor, and what does Baek mean by restoring things to their proper place?",
+        "What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?"
+      ],
+      "safe_through": 867,
+      "temporary_decisions": [
+        "Render 동창 병필태감 as “Brush-Holding Eunuch of the East Depot.”",
+        "Render 첩형 as “Constable” and 태감 as “Eunuch” in forms of address.",
+        "Render 앵속 as “opium” and 곰방대 as “long-stemmed tobacco pipe.”",
+        "Render 건청궁 as “Qianqing Palace.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Qianqing Palace",
+        "korean": "건청궁",
+        "notes": "The Emperor's palace, where Baek Yeon meets him."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Personality:** Politically assured and controlled, he asserts imperial authority while tactically conceding the prince’s authority and enforcing protocol with ruthless decisiveness.",
+        "path": "characters/Baek Yeon.md",
+        "replacement": "- **Personality:** Politically assured and controlled, he enforces authority with ruthless decisiveness but speaks with striking defiance to the Emperor in private when their shared undertaking is at stake."
+      },
+      {
+        "current": "- **Relationships:** He commands the Embroidered Uniform Guard and serves the Emperor; he orders Jeong Hogun to surveil Prince Shangshan’s party while leaving openings for an approach, and treats Taekyung as a dangerous potential obstacle.",
+        "path": "characters/Baek Yeon.md",
+        "replacement": "- **Relationships:** He commands the Embroidered Uniform Guard and serves the Emperor; they share an old promise tied to a great undertaking, and Baek urges the Emperor to restore matters before their adversaries' moves unravel it. He orders Jeong Hogun to surveil Prince Shangshan’s party while leaving openings for an approach, and treats Taekyung as a dangerous potential obstacle."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
