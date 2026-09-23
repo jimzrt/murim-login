@@ -2173,3 +2173,12 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 쑤이닝 | **Suining** | City in Sichuan Province. |
 | 미카엘 | **Michael** | Guild Master of Odin Guild. |
 | 파리 | **Paris** | The city containing Ares Guild's branch attacked at the chapter's end. |
+| 미카엘 실베르트 | **Michael Silbert** | Full name of Odin Guild's Guild Master. |
+| 자이언트 오우거 | **Giant Ogre** | Named Monster defeated by Michael. |
+| 루브르 박물관 | **Louvre Museum** | Paris landmark near the disaster. |
+| 소르본 대학교 | **Sorbonne University** | University whose students witness the Monster Wave. |
+| 뤽상부르크 공원 | **Luxembourg Gardens** | Paris park where civilians witness the disaster. |
+| 파리 6구 | **Paris's 6th arrondissement** | Location of Ares Guild's Paris branch. |
+| 파리 10구 | **Paris's 10th arrondissement** | Paris district mentioned during the initial tremor. |
+| 매직 스크롤 | **Magic Scroll** | Scroll used for emergency teleportation. |
+| 텔레포트 스크롤 | **Teleport Scroll** | Scrolls used to travel rapidly to Paris. |
