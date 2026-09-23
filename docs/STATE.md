@@ -1,33 +1,30 @@
 # Translation State
 
-- Last completed: 764
-- Next chapter: 765
-- Current block: 760–764 (5/5)
-- Latest translation: `translations/0764.md`
-- Latest summary: `summaries/beats/0764.md`
-- Safe profiles through: chapter 764
+- Last completed: 765
+- Next chapter: 766
+- Current block: 765–769 (1/5)
+- Latest translation: `translations/0765.md`
+- Latest summary: `summaries/beats/0765.md`
+- Safe profiles through: chapter 765
 
 ## Current Block
 
-- Michael Silbert reveals that he has discovered the Skeleton King's identity and forces Jin to choose between allowing the truth to be exposed before the world's cameras or meeting him privately. Michael publicly reframes Jin's rejection of the World Hunter Federation as youthful exhaustion, declares that the war has begun again, and presents the Federation as humanity's ark.
-- Jin orders Team Leader Choi to contact Magic Johnson and obtain all of Johnson's investigative results based on Siegfried Wassman's hideout materials, along with every piece of information about Michael. Jin then boards Michael's private aircraft, where Michael confirms that he knows the Skeleton King is a monster and sends Huginn away.
-- Jin and Michael trade threats and insults. Jin refuses to be intimidated, identifies himself as the Blazing Flame Divine Dragon, and threatens Michael with death if he exposes the Skeleton King's identity.
+- Aboard his private aircraft, Michael Silbert uses the Skeleton King's exposed identity to pressure Jin into supporting the World Hunter Federation. He reveals a staged plan in which Cheon Taemin would be asked to lead the federation, refuse because of his illness, and recommend Michael instead, allowing Michael to assume power with Jin's and Cheon Taemin's apparent support.
+- Furious at Michael's plan to seize power through the federation after causing mass destruction, Jin attacks with the Flame-Extinguishing Divine Fist. Michael blocks the punch with a sword and warns Jin that continuing will make the situation irreversible. With Huginn and the personal guards approaching, Jin withdraws his fist.
 
 ## Open Questions
 
-- Is a second Great Cataclysm truly imminent, and what caused global magical power to cross its critical point?
-- Was Demon King Asmodeus actually erased during the original victory?
-- How did Michael obtain certainty about the Skeleton King's identity, and what evidence does he possess?
-- Can Jin prevent Michael from reviving the World Hunter Federation and turning it into a personal kingdom?
-- What exactly does the Main Quest: Cataclysm require before it can end?
+- Can Jin prevent Michael's staged succession plan from making him Alliance Leader of the World Hunter Federation?
+- Will Cheon Taemin be used as the public source of Michael's legitimacy, and would he actually recommend Michael?
+- Is Michael's claim that global magical power has crossed its critical point true?
+- How can Jin oppose or kill Michael while Michael's knowledge of the Skeleton King's identity remains a fatal liability?
 
 ## Exceptional Decision
 
-- Render 스켈레톤 킹 consistently as Skeleton King, not Stone King.
-- Render 세계 헌터 연맹 as World Hunter Federation and 국제 헌터 연맹 as International Hunter Federation, keeping the historical and surviving organizations distinct.
-- Render 좆 까 as Go fuck yourself to preserve Jin's blunt, profane rejection.
-- Render 간웅 as unscrupulous schemer.
-- Continue rendering 마력 as magical power, distinct from mana.
+- Render 맹주 as Alliance Leader.
+- Render 추대 as elevation to power in this political context.
+- Render 친위대 as personal guards.
+- Keep Michael's 자네 address to Jin familiar, polite, and coercive.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
