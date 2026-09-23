@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Unlike Cheongpung, who had been born a bug, he became an earthworm",
+      "defect": "The draft makes Cheongpung the one born a bug. The source says Jin Taekyung was born a bug, unlike Cheongpung.",
+      "id": "F01",
+      "rationale": "태생부터 버러지였던 놈 refers to Jin Taekyung.",
+      "replacement": "Unlike Cheongpung, Jin Taekyung had been born a bug. Then he became an earthworm",
+      "severity": "critical",
+      "source": "청풍과는 달리 태생부터 버러지였던 놈이 지렁이가 되더니"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just a month ago, one had even shaken an entire province.\n\nNo—more precisely, it had *almost* shaken one.",
+      "defect": "성(城) is a city here, not a province; the draft changes the scale of the near-disaster.",
+      "id": "F02",
+      "rationale": "The 城 character specifies a city, and the following sentence retracts the claim that it was actually shaken.",
+      "replacement": "Just a month ago, one had even shaken an entire city.\n\nNo—more precisely, it had *almost* shaken one.",
+      "severity": "critical",
+      "source": "불과 한 달 전에는 한 성(城)을 뒤흔들었던 적도 있었다.\n\n아니, 정확히는 뒤흔들 ‘뻔’했었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Even the martial arts of demonic, heterodox arts, which were mastered far faster than orthodox techniques, were no exception.",
+      "defect": "“Martial arts of demonic, heterodox arts” is redundant and ungrammatical.",
+      "id": "F03",
+      "rationale": "사마외도의 무공 refers to heterodox martial arts themselves.",
+      "replacement": "Even demonic, heterodox martial arts, which could be mastered far faster than orthodox techniques, were no exception.",
+      "severity": "minor",
+      "source": "사마외도(邪魔外道)의 무공도 예외는 아니었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The less pure and profound the martial arts, the countless more people who faltered before the Peak realm.",
+      "defect": "The English comparative is grammatically incomplete and obscures the point.",
+      "id": "F04",
+      "rationale": "The source links the arts’ lack of purity and depth to the countless practitioners unable to cross into the Peak realm.",
+      "replacement": "With martial arts that lacked purity and depth, countless people faltered before the wall of the Peak realm.",
+      "severity": "minor",
+      "source": "무공의 정순함과 깊이가 떨어지는 만큼, 절정의 벽 앞에서 좌절하는 이들의 숫자는 셀 수도 없이 많았다."
+    }
+  ],
+  "summary": "Two scene facts are changed; two passages need localized correction.",
+  "version": 1
+}

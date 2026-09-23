@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "But it wasn’t easy.\n\nBut it wasn’t easy.",
+      "defect": "The sentence appears twice in succession.",
+      "id": "C01",
+      "rationale": "Removing the duplicate preserves the beat without interrupting it.",
+      "replacement": "But it wasn’t easy.",
+      "severity": "minor",
+      "source": "Chapter 840, reunion narration"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The Blood Lord has ordered the sorcerers to prepare selected seeds for later deployment and sent missives by hawk.",
+      "defect": "Chapter 844 orders the sorcerers to choose people fit to become seeds, not to prepare seeds already selected.",
+      "id": "C02",
+      "rationale": "The distinction leaves the candidates’ transformation and the seeds’ precise nature unresolved.",
+      "replacement": "The Blood Lord has ordered the sorcerers to choose people fit to become seeds and prepare them for later deployment, and has sent missives by hawk.",
+      "severity": "minor",
+      "source": "Checkpoint continuity, Chapter 844"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The Blood Lord orders the sorcerers to prepare selected seeds for later deployment and sends missives by hawk.",
+      "defect": "The active state repeats the implication that the newly selected candidates are already seeds.",
+      "id": "C03",
+      "rationale": "This matches the order given in the reading copy without prematurely defining the candidates as seeds.",
+      "replacement": "The Blood Lord orders the sorcerers to choose people fit to become seeds and prepare them for later deployment, then sends missives by hawk.",
+      "severity": "minor",
+      "source": "Durable state, active continuity for Chapter 844"
+    }
+  ],
+  "summary": "The reading copies and checkpoint state are largely consistent. One duplicated sentence disrupts Chapter 840, and two state entries describe prospective seed candidates as existing seeds.",
+  "version": 1
+}
