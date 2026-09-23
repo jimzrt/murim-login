@@ -2373,3 +2373,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 건청궁 | **Qianqing Palace** | The Emperor's palace, where Baek Yeon meets him. |
 | 흠천감 | **Imperial Astronomical Bureau** | Imperial institution that observes and analyzes the heavens. |
 | 형부 | **Ministry of Punishments** | Imperial punishment authority referenced as the destination for prisoners. |
+| 삼영 | **Third Shadow** | Assassin named by the Emperor. |
+| 일영 | **First Shadow** | Masked assassin ordered to execute Third Shadow. |
+| 관내후 | **Marquis Within the Passes** | Title the Emperor proposes granting Prince Shangshan. |
