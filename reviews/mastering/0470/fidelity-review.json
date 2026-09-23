@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "When we needed every hand we could get, having Cheongpung unaffected by Fear was a tremendous help.",
+      "defect": "The translation drops the source's vivid image of being desperate enough to borrow even a cat's paw.",
+      "id": "F01",
+      "rationale": "고양이 손이라도 빌려야 할 판국에 explicitly uses the cat's paw image to emphasize the desperation of the situation. “Every hand we could get” preserves the general function but loses that source-specific image and comic texture.",
+      "replacement": "With the situation desperate enough to borrow even a cat’s paw, Cheongpung’s resistance to Fear was a tremendous help.",
+      "severity": "minor",
+      "source": "Lines 43–45"
+    }
+  ],
+  "summary": "The chapter is largely faithful. One minor source image is weakened by a generalized English recast.",
+  "version": 1
+}

@@ -20,15 +20,15 @@ I’d known for a long time that Cheongpung was a little unhinged, but I’d nev
 
 *What kind of person is this?*
 
-Even a veteran Hunter who encountered monsters more often than his own parents would naturally feel fear upon facing a supermassive monster of that size.
+Even a veteran Hunter who encountered monsters more often than his own parents would naturally feel afraid when faced with a supermassive monster of that size.
 
 But Cheongpung wasn’t merely unaffected by Fear. He was practically beside himself with excitement.
 
-I had underestimated him without realizing it. He wasn’t a little crazy. He was thoroughly insane.
+I’d underestimated him. He wasn’t a little crazy. He was completely out of his mind.
 
 *Still, this is much better than having him tremble like the others.*
 
-He was different from ordinary people from the very beginning. The fear of the unknown—of an existence no one had ever seen or heard of before—did not apply to Cheongpung.
+He was fundamentally different from ordinary people. The fear of the unknown—of something no one had ever seen or heard of before—simply didn’t apply to Cheongpung.
 
 Because that bastard found everything new and exciting.
 
@@ -48,7 +48,7 @@ I grabbed Cheongpung by the shoulder as he stared with glittering eyes, looking 
 
 “What about you, Benefactor?”
 
-“I need to get those two back to their senses first.”
+“I need to get those two back to their senses.”
 
 Before I’d even finished speaking, I raced forward and slapped Gung Gibang and Hyuk Mujin across the face.
 
@@ -56,7 +56,7 @@ Before I’d even finished speaking, I raced forward and slapped Gung Gibang and
 
 Two bodies went tumbling away with a pair of satisfyingly meaty cracks.
 
-The two men flailed like people waking from nightmares, then looked up at me with unsteady eyes.
+The two men flailed like people waking from nightmares, then looked up at me with unfocused eyes.
 
 “Gasp—cough.”
 
@@ -82,7 +82,7 @@ Or what was making that terrifying sound as it tore through the air toward us.
 
 “Cheongpung!”
 
-I shouted as I grabbed Gung Gibang and Hyuk Mujin by the backs of their necks and threw myself aside.
+I grabbed Gung Gibang and Hyuk Mujin by the backs of their necks and threw myself aside.
 
 At the same instant, something enormous slammed into the spot where we’d been standing.
 
@@ -94,9 +94,9 @@ The object that had missed us by only a few steps was a jagged boulder nearly on
 
 *…It threw that all the way here?*
 
-The boulder must have weighed several thousand *geun* at least, yet it had been hurled from far away.
+The boulder must have weighed several thousand *geun*, yet the monster had hurled it from that distance.
 
-Its strength was terrifying, but its aim was accurate, too. If I hadn’t moved quickly, I would have been crushed to death on the spot.
+Its strength was terrifying enough, but its aim was dead-on too. If I hadn’t moved quickly, we would have been crushed to death on the spot.
 
 *Look at that control. Did it pitch in the majors?*
 
@@ -168,19 +168,19 @@ Faced with that incredible sight, Hyuk Mujin and Gung Gibang muttered blankly.
 
 “Stars are all like that these days.”
 
-“Come to think of it, that’s true. Captain, you always tell me to throw away my preconceptions, but……”
+“Come to think of it, you’re right. Captain is always telling me to let go of my preconceptions…”
 
 “You two crazy bastards!”
 
 *Grab—whoooooosh!*
 
-I seized the two men, who still hadn’t come to their senses and were spouting nonsense, and threw myself aside.
+I seized the two men, who were still spouting nonsense, and hurled myself aside.
 
 Cheongpung was already moving too, with the Dongting Fisherman—who had passed out again after delivering his warning—tucked under one arm and the old boatman under the other.
 
 “Benefactor! They’re big! And there are lots of them!”
 
-His language skills were on an elementary-school level, but that was more than enough to understand what he meant. Even I could see that there were far too many of those bizarre boulders falling toward us.
+His vocabulary was on an elementary-school level, but it was more than enough to get the point across. Even I could see there were far too many jagged boulders falling toward us.
 
 They would blanket every inch of the narrow patch of ground beneath us—and then some.
 
@@ -198,7 +198,7 @@ Without hesitation, I drew up every bit of internal energy in my body and swept 
 
 *Shh-shh-shh-shing!*
 
-Blue-white Force erupted from the spearhead and tore through the air.
+Blue-white Force erupted from the blade and tore through the air.
 
 It shot toward the jagged boulders that had spent countless ages accumulating sediment and weathering as part of the cliff.
 
@@ -206,11 +206,11 @@ It shot toward the jagged boulders that had spent countless ages accumulating se
 
 *Schk!*
 
-Force was a concentrated manifestation of energy capable of cutting steel like soft tofu. The bizarre boulders caught in the arc traced by my spearhead broke into pieces and began to fall.
+Force was qi compressed to such density that it could cut through steel like soft tofu. The boulders caught in the arc of my spear shattered into pieces and crashed down around us.
 
 *Boom!*
 
-Sand and river water surged upward with a boom that shook the ground.
+Sand and river water surged upward with an impact that shook the ground.
 
 Amid the shrill screams of Hyuk Mujin and Gung Gibang, I saw Cheongpung escape the same way I had.
 
@@ -250,9 +250,9 @@ A familiar face—mine—was reflected in its long, vertical, blood-red pupils.
 
 —Grrrrrrrr.
 
-The breath spilling from the maw of that corrupted evil beast was chillingly cold. Its enormous body, larger than any monster I had ever seen, radiated killing intent and pressure that crushed down on everything around it.
+The breath spilling from the corrupted creature’s maw was chillingly cold. Its body, larger than any monster I had ever seen, radiated killing intent and an oppressive presence that crushed everything around it.
 
-*What kind of monster is this……!*
+*What kind of monster is this…?*
 
 I was staring up at it in shock when it happened.
 
@@ -260,7 +260,7 @@ I was staring up at it in shock when it happened.
 
 Countless streaks of light rained down from every direction.
 
-The whiskers surrounding the bridge of its nose, which was covered in hard scales, split into hundreds of strands and plunged toward me.
+The whiskers surrounding its scale-covered snout split into hundreds of strands and plunged toward me.
 
 Each was several *jang* long. Some shot forward in straight lines, while others curved like living creatures to attack from my blind spots.
 
@@ -282,13 +282,13 @@ Now it was time to make the monster pay a much higher price.
 
 *Schk!*
 
-The spearhead I swung with a battle cry cut through dozens of whiskers.
+My spearhead cut through dozens of whiskers.
 
-The long, flaming tail of the **Fire Dragon’s Single Tail**, befitting the form’s name, did not stop there. It cut through the air and swept toward the monster’s jaw.
+The long tail of flame befitting the name **Fire Dragon’s Single Tail** did not stop there. It sliced through the air toward the monster’s jaw.
 
 *Whoooooosh!*
 
-Alongside a deafening sound of something splitting the air, everything around me turned black.
+An air-splitting roar deafened me, and everything around me went black.
 
 In a world so slow it seemed to have stopped, I finally saw it.
 
@@ -300,7 +300,7 @@ The instant I realized what it was, an enormous impact tore through my entire bo
 
 *Boom!*
 
-My clear vision blurred.
+My vision blurred.
 
 In less than a second, heaven and earth flipped over countless times, and everything around me shook as though an earthquake had struck.
 
@@ -322,7 +322,7 @@ I tried to brace myself.
 
 *Thud. Krrrraaaack!*
 
-A light impact reached me through my back. Then my speed began to decrease as the ground was churned up beneath me.
+A light impact struck my back. Then my speed began to drop as something behind me plowed through the ground.
 
 As I blinked, someone’s voice reached my ears.
 
