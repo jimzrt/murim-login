@@ -1,0 +1,35 @@
+{
+  "summary": "The scene is broadly faithful, but the assembled copy omits a brief reaction and adds redundant actions and exposition.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 27–29: the merchant gasps, then no longer notices the handsome face that first caught his attention, before seeing the uniform’s insignia.",
+      "current": "The moment he saw the three characters embroidered in black thread across the young martial artist’s dark blue silk uniform, along with the dragon pattern, the merchant let out a cry that sounded almost like a moan.",
+      "defect": "The assembled English skips the merchant’s initial startled gasp and the detail that the insignia eclipses the handsome face that first drew his attention. Both beats are present in the accepted baseline.",
+      "replacement": "The merchant, who had been chatting away with impressive smoothness, swallowed a startled breath. The handsome face that had first caught his attention vanished from his thoughts. The moment he saw the three characters embroidered in black thread across the young martial artist’s dark blue silk uniform, along with the dragon pattern, he let out a cry that sounded almost like a moan.",
+      "rationale": "The source gives these as distinct reactions in sequence: he gasps, stops noticing the face, then cries out at the insignia.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 109–111: one statement that the man facing the merchant is from the Black Dragon Demon Gate, followed by the explanation of the merchant’s fear.",
+      "current": "The man facing him belonged to the Black Dragon Demon Gate, an unorthodox faction.",
+      "defect": "This repeats the preceding sentence, “His customer was a martial artist from the Black Dragon Demon Gate, an unorthodox faction.” The source states this only once.",
+      "replacement": "With a knife at his throat, the merchant had no time to think things through. Fear that he might lose his head if he tried to pass off another weapon had paralyzed him.",
+      "rationale": "The repeated faction identification adds redundant exposition absent from the source.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 161–165: the merchant swallows hard once, then reflects on the sword’s value and the small sum in the pouch.",
+      "current": "The merchant swallowed hard at the young man’s puzzled look.",
+      "defect": "This repeats the immediately preceding sentence, “As the young martial artist tilted his head, the merchant swallowed hard.” The source has only one swallow.",
+      "replacement": "The sword was a family heirloom, and by its value alone, he ought to receive at least several hundred silver nyang.",
+      "rationale": "The second swallow adds a physical action that does not occur in the source.",
+      "confidence": 1.0
+    }
+  ]
+}

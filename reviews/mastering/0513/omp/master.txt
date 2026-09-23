@@ -1,6 +1,6 @@
 # Chapter 513
 
-Xixia in Henan Province, situated along a tributary of the Yangtze, was packed with people again today.
+Xixia, where Henan Province met a tributary of the Yangtze, was packed with people again today.
 
 Boats of every size crowded the ferry landing. Merchants stood beside piles of goods, haggling with fire in their eyes.
 
@@ -20,13 +20,13 @@ But in the end, the atmosphere of a place depended on the kind of people gathere
 
 “Sir, you look like a martial hero on your way to Mount Song. Could I interest you in a well-honed wea—ah!”
 
-The moment he saw the three characters embroidered in black thread across the young martial artist’s dark blue silk uniform, along with the dragon pattern, the merchant let out a cry that sounded almost like a moan.
+The merchant broke off with a sharp intake of breath. The handsome face that had first caught his eye no longer registered. He had seen the three characters and the dragon embroidered in black thread on the young man’s dark blue silk uniform.
 
 “B-Black Dragon Demon Gate!”
 
 “…!”
 
-Though the cry had not been particularly loud, the four-character name Black Dragon Demon Gate was enough to plunge the bustling thoroughfare into a pit of silence.
+The cry was not particularly loud, but the name was enough to plunge the bustling thoroughfare into silence.
 
 “B-Black Dragon Demon Gate?”
 
@@ -66,15 +66,15 @@ The merchant sensed greed in the eyes of several martial artists and drew his sh
 
 “M-my late father left it to me.”
 
-“Was your late father a martial artist?”
+“Was your father a martial artist?”
 
-“Th-that’s impossible. Somehow, he came to own the sword, but he only told me to keep it secret from others and preserve it as a family heirloom for generations…”
+“Th-there’s no chance of that. He came into possession of it somehow, but all he told me was to keep it secret and pass it down as a family heirloom…”
 
 “No wonder. There must have been plenty of people who wanted a sword like this.”
 
 Too much greed led to bloodshed. Most martial artists would rather take a famed sword by force than pay several hundred silver nyang for it. Threatening someone with a cheap iron sword was far easier than coming up with the silver.
 
-“Your late father must have been quite wise.”
+“Your father was a wise man.”
 
 “Y-yes. He was.”
 
@@ -84,27 +84,23 @@ Too much greed led to bloodshed. Most martial artists would rather take a famed 
 
 The merchant could not finish. The young martial artist let out a quiet laugh. He knew exactly what the merchant had swallowed back.
 
-His customer was a martial artist from the Black Dragon Demon Gate, an unorthodox faction.
-
 The man facing him belonged to the Black Dragon Demon Gate, an unorthodox faction. With a knife at his throat, the merchant had no time to think things through. Fear that he might lose his head if he tried to pass off another weapon had paralyzed him.
 
 This was a first for the merchant. For the young martial artist, it was familiar.
 
 “I understand. Most people who meet me think and act just as you did.”
 
-The young martial artist looked the merchant up and down. The merchant sat with his mouth shut, like someone who had swallowed his tongue.
+He looked the speechless merchant up and down.
 
 “So I’ll save you.”
 
-Suspicion flickered across the merchant’s eyes.
+Confusion flickered in the merchant’s eyes.
 
 “Wh-what do you mean?”
 
 “I’ll pay for the sword and take it.”
 
 “Ah!”
-
-His heart had already been burning with anxiety.
 
 The merchant’s face lit up. He had brought out the sword because staying alive came first, but now more than a few people had seen it. Once this young man left, wandering martial artists and petty thieves would surely catch the scent and come after him.
 
@@ -132,8 +128,6 @@ The young man had taken the sword from the chest and was examining it from every
 
 “The amount?”
 
-As the young martial artist tilted his head, the merchant swallowed hard.
-
 The merchant swallowed hard at the young man’s puzzled look. The sword was a family heirloom, and by its value alone, he ought to receive at least several hundred silver nyang. The sum in the pouch was absurdly small.
 
 “Twenty silver nyang is a little…”
@@ -150,7 +144,7 @@ The commoners watching with mingled curiosity and fear shuddered. The neighborin
 
 But not everyone there stayed silent.
 
-“The Black Dragon Demon Gate must have quite a reputation if even some wet-behind-the-ears brat is throwing his weight around like this.”
+“The Black Dragon Demon Gate must think highly of itself if even some wet-behind-the-ears brat can throw his weight around like this.”
 
 A rough voice rang out, and the crowd parted. A middle-aged man walked through the gap, baring yellow teeth in a grin at the young martial artist.
 
@@ -160,7 +154,7 @@ The young man blinked.
 
 “Were you speaking to me?”
 
-“Ha! Look at this brat. Who else would I be talking to?”
+“Ha! Who else would I be talking to?”
 
 “Don’t misunderstand. I heard you perfectly well…”
 
@@ -168,7 +162,7 @@ He looked the middle-aged man up and down before continuing.
 
 “I just never imagined someone like you would dare say it to my face.”
 
-“…Someone like me? Say something like that?”
+“…Someone like me? Dare?”
 
 The middle-aged man stared at him for a moment, then burst into laughter.
 
@@ -240,7 +234,7 @@ The young martial artist clicked his tongue softly.
 
 “I, Blood Cudgel Do Sangho, may forget a favor, but I never forget a grudge! I’ll retreat today, but the next time we meet will be the day of your funeral—”
 
-Thud!
+*Crunch!*
 
 Blood sprayed in every direction.
 
@@ -250,9 +244,9 @@ The young martial artist looked at Blood Cudgel’s corpse, its head crushed, an
 
 When had he appeared?
 
-An eight-foot-tall man who had crushed Blood Cudgel’s head with a swing of his massive two-section staff answered in a halting voice.
+The eight-foot-tall man who had crushed Blood Cudgel’s head with a swing of his massive two-section staff answered in a halting voice.
 
-“Dare… insult Young Sect Leader. This subordinate… will not tolerate it.”
+“Dared… insult Young Sect Leader. This subordinate… could not stand it.”
 
 “Well, Blood Cudgel should be all right. You could hardly call him orthodox.”
 
@@ -266,7 +260,7 @@ The young martial artist clicked his tongue. Only then did the people grasp what
 
 Even the martial artists had frozen at the sudden violence. Just then, the young man spotted something beyond the fleeing crowd.
 
-“See? I knew there’d be trouble.”
+“I knew this would cause trouble.”
 
 A group of monks in yellow kasayas was approaching.
 
