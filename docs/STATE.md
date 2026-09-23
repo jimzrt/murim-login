@@ -1,22 +1,22 @@
 # Translation State
 
-- Last completed: 892
-- Next chapter: 893
-- Current block: 890–894 (3/5)
-- Latest translation: `translations/0892.md`
-- Latest summary: `summaries/beats/0892.md`
-- Safe profiles through: chapter 892
+- Last completed: 893
+- Next chapter: 894
+- Current block: 890–894 (4/5)
+- Latest translation: `translations/0893.md`
+- Latest summary: `summaries/beats/0893.md`
+- Safe profiles through: chapter 893
 
 ## Current Block
 
-- Jin, Jeok Cheongang, and Namho question why their enemies are pursuing a decisive battle despite the risks and Jeok’s strength. Jin suspects Ma Sanbao may know more and asks Namho about the Hidden Shadow Pavilion’s history with the imperial household.
-- Namho recounts that the Pavilion sought an alliance with the imperial household during the Great Faction War, but the late Emperor refused and later ordered closer surveillance of martial artists, preventing the Pavilion from sending agents to the imperial capital. Jin then asks whether Ma Sanbao might personally recruit martial artists; when he reveals they are assassins, the group looks toward Sama Pyo and the Divine Physician, who both protest.
+- Jin asks Sama Pyo and the Divine Physician about their ties to assassins. The Divine Physician recalls his Master, the former Slaughter Saint, and Sama Pyo and Namho connect the old assassin Jin encountered to the feared One-Legged Ghost Killer, though Namho says the identification is uncertain and the man is currently an ally. Jin struggles with the moral cost of joining forces with a killer who takes lives for money, then sets out to ask Ma Sanbao why he brought the assassins into the cause.
+- The Divine Physician recounts that his Master destroyed Salcheonmun because its members felt no regret or remorse for their deeds.
 
 ## Open Questions
 
-- What accounts for the enemy’s confidence that the decisive battle’s outcome is assured?
-- What does Ma Sanbao know about the current crisis, and did he recruit assassins?
-- Who are the assassins Jin has in mind?
+- What accounts for the enemy's confidence that the decisive battle's outcome is assured?
+- Did Ma Sanbao recruit the assassins, and why did he bring them into the cause?
+- Is the old assassin Jin encountered truly the One-Legged Ghost Killer?
 - What will happen at the approaching grand banquet?
 - Who is So Gyo, and why did she release Jin?
 

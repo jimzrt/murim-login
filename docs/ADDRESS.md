@@ -1400,3 +1400,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 정호군 | 마삼보 | Embroidered Uniform Guard Thousand Captain to East Depot official | Eunuch Ma | formal and guarded | Jeong Hogun addresses him as 마 태감 and shows wariness despite his restrained replies. |
 | 신의 | 주화란 | senior physician to younger ally | Young Lady Ju | warm and teasing | The Divine Physician lightly teases Hwaran about being more worried for Jin than he is. |
 | 남호 | 적천강 | junior_to_senior | Senior | respectful and formal | Namho refers to Jeok as 노선배님 while agreeing with him. |
+| 신의 | 진 소협 | senior physician to younger martial ally | Young Hero Jin | respectful and polite | The Divine Physician refers to Jin as 진 소협 while discussing the assassin. |

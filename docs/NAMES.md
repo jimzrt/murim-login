@@ -2380,3 +2380,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소교 | **So Gyo** | The palace attendant leading the group assigned to serve Prince Shangshan. |
 | 금룡 | **Golden Dragon** | Name of Baek Yeon’s crescent blade. |
 | 창공 | **Cang Gong** | The bedridden East Depot leader for whom Ma Sanbao acts. |
+| 독각귀살 | **One-Legged Ghost Killer** | Sama Pyo's name for the feared assassin; possibly the same person Namho calls 독각살귀. |
+| 독각살귀 | **One-Legged Ghost Killer** | Namho's name for the feared assassin; possibly the same person Sama Pyo calls 독각귀살. |
