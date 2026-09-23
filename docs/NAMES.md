@@ -2316,3 +2316,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아미르 | **Amir** | Title used to address the group’s leader. |
 | 룹 알 할리 | **Rub’ al Khali** | Desert where the battle takes place. |
 | 압둘라 빈 압둘아지즈 알리 | **Abdullah bin Abdulaziz Ali** | The elder identified by name in the opening scene; addressed as Amir. |
+| 병졸 스콜피온 | **Soldier Scorpion** | System label for a scorpion type. |
+| 일꾼 스콜피온 | **Worker Scorpion** | System label for a scorpion type. |
+| 정예 스콜피온 | **Elite Scorpion** | System label for a scorpion type. |
+| 스콜피온 킹 | **Scorpion King** | Level 140 monster. |

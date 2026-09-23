@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.86,
+      "current": "With mana levels rising by the day and concentrations growing denser, even the most advanced equipment couldn’t function properly.",
+      "defect": "Uses mana for the environmental concentration elsewhere described as magical power, contrary to the packet’s terminology decision.",
+      "id": "C01",
+      "rationale": "Keeps the environmental phenomenon distinct from Hunter mana and removes the redundant description of its concentration.",
+      "replacement": "With magical power growing denser by the day, even the most advanced equipment couldn’t function properly.",
+      "severity": "minor",
+      "source": "Chapter 801, Arabian Desert search"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Behind them, nearly a hundred tanks drove tower shields larger than their own bodies deep into the sand.",
+      "defect": "Without a cue that “tanks” means Hunters in a defensive role, the sentence initially reads as though armored vehicles are wielding shields.",
+      "id": "C02",
+      "rationale": "Clarifies who is holding the shields without changing the formation or action.",
+      "replacement": "Behind them, nearly a hundred Hunters serving as tanks drove tower shields larger than their own bodies deep into the sand.",
+      "severity": "minor",
+      "source": "Chapter 802, defensive formation"
+    },
+    {
+      "confidence": 0.96,
+      "current": "It ended only after sinking three island nations in the Cayman Islands deep beneath the sea.",
+      "defect": "Calls the Cayman Islands three island nations, creating a geographic contradiction.",
+      "id": "C03",
+      "rationale": "Preserves the number and the catastrophe without treating the islands as separate nations.",
+      "replacement": "It ended only after sinking the three Cayman Islands deep beneath the sea.",
+      "severity": "minor",
+      "source": "Chapter 802, Chuck Hagel’s recollection of Cuba"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Team Leader Choi raised the **[Hero’s Sword]**, its blade shining with transparent light, and answered.",
+      "defect": "Encloses an item name in square brackets outside a System panel.",
+      "id": "C04",
+      "rationale": "Follows the packet’s instruction not to bracket UI terms while retaining the established name.",
+      "replacement": "Team Leader Choi raised the **Hero’s Sword**, its blade shining with transparent light, and answered.",
+      "severity": "minor",
+      "source": "Chapter 804, Team Leader Choi’s response"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the same time, the blue circle of **[Qi Sense]** that extended with my spearhead reached the monster’s hard body.",
+      "defect": "Encloses the Qi Sense UI term in square brackets outside a System panel.",
+      "id": "C05",
+      "rationale": "Matches the unbracketed Qi Sense label in the following System panel.",
+      "replacement": "At the same time, the blue circle of **Qi Sense** that extended with my spearhead reached the monster’s hard body.",
+      "severity": "minor",
+      "source": "Chapter 804, Scorpion King detection"
+    }
+  ],
+  "summary": "The packet is broadly coherent. Five localized wording and formatting issues are actionable; no clear spoiler or dropped hook emerged.",
+  "version": 1
+}

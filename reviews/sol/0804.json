@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "If I died, they’d remember me, too.",
+      "defect": "Changes the consequence of Jin’s death from the Hunters dying as well to the Hunters remembering him.",
+      "id": "F01",
+      "rationale": "그들 역시 그러할 refers to dying, not remembering Jin.",
+      "replacement": "If I died, they would, too.",
+      "severity": "critical",
+      "source": "내가 죽는다면 그들 역시 그러할 테니."
+    },
+    {
+      "confidence": 0.92,
+      "current": "who’d led his forces to victory in more than a dozen major battles",
+      "defect": "Changes approximately ten battles to more than twelve.",
+      "id": "F02",
+      "rationale": "십여 차례 indicates roughly ten occasions, not more than a dozen.",
+      "replacement": "who’d led his forces to victory in around a dozen major battles",
+      "severity": "critical",
+      "source": "그 속에서 십여 차례의 대규모 전투를 승리로 이끈"
+    },
+    {
+      "confidence": 0.95,
+      "current": "So did Yamamoto Genji, an S-rank Hunter in name and deed, and Team Leader Choi, whose Qi Sense was nearly as sharp.",
+      "defect": "“In name and deed” asserts proven S-rank ability where the narration only invokes Yamamoto’s nominal status.",
+      "id": "F03",
+      "rationale": "명색이 invokes Yamamoto’s standing despite his shortcomings; it does not endorse his skill.",
+      "replacement": "So did Yamamoto Genji, an S-rank Hunter at least in name, and Team Leader Choi, whose Qi Sense was nearly as sharp.",
+      "severity": "major",
+      "source": "명색이 S급 헌터라 할 수 있는 야마모토 겐지와 그에 버금갈 만큼 예리한 기감을 지닌 최 팀장도 얼굴을 굳혔다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Watch the air and focus on protecting our allies. The Hunters under your command will follow your orders until I give further instructions.”",
+      "defect": "Turns an order to keep airborne enemies in check into observation, and presumes the Hunters are already under Johnson’s command.",
+      "id": "F04",
+      "rationale": "견제 calls for countering or containing the aerial threat; the second sentence assigns the Hunters to follow Johnson’s orders.",
+      "replacement": "“Keep the enemies in the air in check and focus on protecting our allies. All subordinate Hunters are to follow Magic Johnson’s orders until I give them another command.”",
+      "severity": "major",
+      "source": "공중을 견제하고 아군 보호에 주력한다. 예하 헌터들은 내 명령이 떨어지기 전까지 매직 존슨의 지시에 따르도록."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> **KILL. THE. HUMANS.**",
+      "defect": "Presents a monster’s shouted command as a System notification.",
+      "id": "F05",
+      "rationale": "The following sentence identifies this as Demon Realm language roared by an S-rank monster, not a System message.",
+      "replacement": "“Kill. The. Humans!”",
+      "severity": "major",
+      "source": "- 인. 간. 들. 을. 죽. 여. 라!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "> **System**\n>\n> Your **[Qi Sense]** has reached the eighth realm stage.\n>\n> You have detected targets within range using **[Qi Sense]**!\n>\n> **[Lv. 87 Soldier Scorpion]**\n>\n> **[Lv. 76 Worker Scorpion]**\n>\n> **[Lv. 99 Elite Scorpion]**",
+      "defect": "Changes Qi Sense’s current eight-star level into a newly reached eighth realm stage, and retains square brackets around System terms.",
+      "id": "F06",
+      "rationale": "현재 states the present level, and 팔 성 specifies eight stars. The binding Markdown rule excludes square brackets from System notices and UI terms.",
+      "replacement": "> **System**\n>\n> Your **Qi Sense** is currently at eight stars.\n>\n> You have detected targets within range using **Qi Sense**!\n>\n> Lv. 87 Soldier Scorpion\n>\n> Lv. 76 Worker Scorpion\n>\n> Lv. 99 Elite Scorpion",
+      "severity": "major",
+      "source": "- 현재 [기감]의 경지는 팔 성입니다.\n\n- [기감]으로 범위 안의 대상을 파악했습니다!\n\n[Lv.87 병졸 스콜피온]\n\n[Lv.76 일꾼 스콜피온]\n\n[Lv.99 정예 스콜피온]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> Defeated **[Lv. 95 Ogre]**!\n>\n> Gained a tiny amount of EXP!\n>\n> The effect of the Title **[One Against a Thousand]** activates!\n>\n> **[Intimidation]** has greatly increased!\n>\n> Enemies are rapidly losing confidence due to your **[Intimidation]**!\n>\n> The status effect **[Fear]**, which had been applied to numerous allies, has been removed!\n>\n> Ally morale has greatly increased. Those who follow your leadership will have a strong bond and perform even better!\n>\n> Certain stats increase when facing numerous enemies!",
+      "defect": "Retains square brackets around System notices and UI terms against the specified panel format.",
+      "id": "F07",
+      "rationale": "The System heading and blockquote already frame the notices; the binding rule explicitly removes their square brackets.",
+      "replacement": "> **System**\n>\n> Defeated Lv. 95 Ogre!\n>\n> Gained a tiny amount of EXP!\n>\n> The effect of the Title **One Against a Thousand** activates!\n>\n> **Intimidation** has greatly increased!\n>\n> Enemies are rapidly losing confidence due to your **Intimidation**!\n>\n> The status effect **Fear**, which had been applied to numerous allies, has been removed!\n>\n> Ally morale has greatly increased. Those who follow your leadership will have a strong bond and perform even better!\n>\n> Certain stats increase when facing numerous enemies!",
+      "severity": "minor",
+      "source": "- [Lv.95 오우거]를 처치했습니다!\n\n- 극소량의 경험치를 획득했습니다!\n\n- 칭호, [일기당천(一騎當千)]의 효과가 발동됩니다!\n\n- [위압]이 크게 상승합니다!\n\n- 당신의 [위압]으로 인해 적들이 급격히 위축됩니다!\n\n- 다수의 아군에게 적용되었던 상태 이상, [피어]가 해제됩니다!\n\n- 아군의 사기가 크게 상승합니다. 당신의 통솔을 따르는 이들은 끈끈한 결속력을 지니며, 더욱 뛰어난 활약을 펼칠 것입니다!\n\n- 다수의 적을 상대할 시 일정 스탯이 상승합니다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> **[Lv. 140 Scorpion King]**",
+      "defect": "Retains square brackets and bolds an entire System notice.",
+      "id": "F08",
+      "rationale": "The binding System-panel format uses the blockquote frame without square brackets or outer bold on a complete notice.",
+      "replacement": "> **System**\n>\n> Lv. 140 Scorpion King",
+      "severity": "minor",
+      "source": "[Lv.140 스콜피온 킹]"
+    }
+  ],
+  "summary": "The draft changes one consequence of Jin’s possible death, overstates a Hunter’s standing and a battle count, and misformats System and monster speech.",
+  "version": 1
+}
