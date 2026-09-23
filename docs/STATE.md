@@ -1,26 +1,27 @@
 # Translation State
 
-- Last completed: 754
-- Next chapter: 755
-- Current block: 750–754 (5/5)
-- Latest translation: `translations/0754.md`
-- Latest summary: `summaries/beats/0754.md`
-- Safe profiles through: chapter 754
+- Last completed: 755
+- Next chapter: 756
+- Current block: 755–759 (1/5)
+- Latest translation: `translations/0755.md`
+- Latest summary: `summaries/beats/0755.md`
+- Safe profiles through: chapter 755
 
 ## Current Block
 
-- Jin Taekyung continues his aerial battle against Leviathan despite the Broken Body debuff, using Flame-Extinguishing Divine Fist and the second form of Fire Dragon Divine Spear, Heavenly Strike, to destroy its water attacks and pierce its brow. Leviathan retaliates with a lightning strike, but the Skeleton King draws the attack and survives because he is made of bones.
-- Badly wounded and terrified after mistaking Jin for the human who defeated Asmodeus, Leviathan flees toward the deep sea with Jin clinging to its body and attacking it. Jin declares that they can finally fight together, but countless bones gather in the abyss and block Leviathan's path.
+- The newly enthroned Skeleton King reveals his crown and commands the bones and wraiths of countless dead marine creatures, forming an undead legion that blocks Leviathan and attacks it with Raise Skeleton while Jin Taekyung continues inflicting severe injuries.
+- Leviathan breaks free and charges toward a seabed cliff to escape, but Jin's Aquatic Rescue Worker Title expires during the pursuit, removing his underwater adaptations. After Leviathan crashes into the cliff and escapes Bone Binding, Jin launches a final hellfire-infused spear and hears Leviathan scream.
 
 ## Open Questions
 
-- What is the source or identity of the bones blocking Leviathan?
-- Can Jin Taekyung and the Skeleton King stop Leviathan in the deep sea?
-- Will Leviathan survive the injuries to its brow and body?
+- Did Jin's final spear strike kill Leviathan?
+- What are the consequences of Jin losing his underwater adaptations during the deep-sea battle?
 
 ## Exceptional Decision
 
 - Render 망가진 신체 as Broken Body.
+- Render 수상 구조대원 as Aquatic Rescue Worker.
+- Render 본 바인딩 as Bone Binding.
 - Retain Skeleton King as the English title for 스켈레톤 킹.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
