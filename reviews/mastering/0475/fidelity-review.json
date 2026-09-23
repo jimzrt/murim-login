@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "its pupil suddenly turning black",
+      "defect": "The source describes the dragon's eyes/pupils collectively, while the singular creates the image of only one black pupil.",
+      "id": "F01",
+      "rationale": "눈동자 refers to the dragon's eyes/pupils as a set in this visual description; the accepted baseline also preserves the plural.",
+      "replacement": "its pupils suddenly turning black",
+      "severity": "minor",
+      "source": "Lines 55–57"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Its pitch-black pupil gleamed.",
+      "defect": "The repeated singular again reduces the dragon's fully black eyes to one pupil.",
+      "id": "F02",
+      "rationale": "온통 시커멓게 물든 눈동자 presents the eyes as wholly black, not a single isolated pupil.",
+      "replacement": "Its pitch-black pupils gleamed.",
+      "severity": "minor",
+      "source": "Lines 61–65"
+    },
+    {
+      "confidence": 0.96,
+      "current": "They called me a Killing Ghost of an old man who could kill a thousand people without batting an eye.",
+      "defect": "The construction turns the comparison into an awkward apparent title or identity. The source says he was called an old man like a Killing Ghost.",
+      "id": "F03",
+      "rationale": "살귀 같은 늙은이 uses 살귀 as the comparison, not as a literal name for Jeok Cheongang in this sentence.",
+      "replacement": "They called me an old man like a Killing Ghost who could kill a thousand people without batting an eye.",
+      "severity": "minor",
+      "source": "Lines 217–218"
+    },
+    {
+      "confidence": 0.94,
+      "current": "So after all that, you never learned water arts.",
+      "defect": "The current line states the conclusion directly and removes Mungyeong's explicit evidential hedge.",
+      "id": "F04",
+      "rationale": "이야기로 들리는데 means that, based on what was said, it sounds as though he did not learn water arts.",
+      "replacement": "So it sounds like you never learned water arts.",
+      "severity": "minor",
+      "source": "Lines 229–230"
+    },
+    {
+      "confidence": 0.95,
+      "current": "We’re hardly friends, but even I feel compelled to tell you to be careful.",
+      "defect": "“Even I feel compelled” adds an obligation and personal contrast absent from the source, which simply says he wants to tell Jeok to be careful.",
+      "id": "F05",
+      "rationale": "우리 사이에 우정 따위는 없지만 establishes the lack of friendship, while 말해 주고 싶군 expresses a desire to say this, not compulsion.",
+      "replacement": "There’s no such thing as friendship between us, but I’d like to tell you to be careful.",
+      "severity": "minor",
+      "source": "Lines 233–234"
+    },
+    {
+      "confidence": 0.97,
+      "current": "What the hell was that supposed to mean?",
+      "defect": "The current line softens the source's vulgar reaction and changes it from calling the statement bullshit to asking what it meant.",
+      "id": "F06",
+      "rationale": "개소리 is a crude “bullshit” judgment; the binding rules require preserving the source's level of profanity.",
+      "replacement": "What kind of bullshit was that?",
+      "severity": "minor",
+      "source": "Lines 269–273"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but several local wording choices alter established number, metaphor, evidential force, or register.",
+  "version": 1
+}

@@ -4,7 +4,7 @@ The Mutated Water God Dragon.
 
 When you got right down to it, this bastard was a dragon too.
 
-It might have been closer to an *imugi* than a true dragon, considering it could neither roam beneath the azure heavens nor wield a dragon pearl.
+Granted, it seemed closer to an *imugi* than a true dragon, considering it could neither roam the azure heaven nor possessed a dragon pearl.
 
 But there was one problem…
 
@@ -14,7 +14,7 @@ And not just any Breath. A fucking powerful one.
 
 *Kwaaaaaaaaaah!*
 
-I stared with my mouth hanging open as an enormous sphere of water spread across a radius of several dozen *jang*.
+I stared with my mouth hanging open as an enormous sphere of water engulfed a radius of several dozen *jang*.
 
 The ground, built up layer upon layer over centuries by sediment flowing from the Yangtze, collapsed by nearly half in an instant.
 
@@ -30,13 +30,13 @@ With the Mutated Water God Dragon’s immense qi infused into the sphere, it was
 
 It would have been more natural if some insane undead monster had insisted it was from Atlanta, Georgia, in the United States.
 
-I stared in horror as the Water Breath vomited by the Water God Dragon pulverized everything in its path.
+I stared in horror as the Water Breath unleashed by the Water God Dragon pulverized everything in its path.
 
 At the same moment, three figures shot away from the ground being reduced to a wasteland.
 
 “Mimi, blow up the water orb!”
 
-“…You’re completely insane. I felt murderous intent for a moment there without even realizing it.”
+“…You’re completely insane. I felt the urge to kill you for a moment without even realizing it.”
 
 “That’s normal. This old man has wanted to kill you about five times already.”
 
@@ -48,7 +48,7 @@ Once I confirmed that all three were safe, a sigh of relief escaped me.
 
 If they took a direct hit from Breath with that level of destructive power, even a Supreme Peak master could not escape unharmed.
 
-The Water Breath fired by the Mutated Water God Dragon was that powerful. It contained qi that far surpassed the Breath of the Black Wyvern I had personally killed in the past.
+The Mutated Water God Dragon’s Water Breath was that powerful. It contained power far beyond the Breath of the Black Wyvern I had personally killed in the past.
 
 *What the hell? It was strong before, but I don’t remember it being this strong…*
 
@@ -128,7 +128,7 @@ The immense flames summoned by burning internal energy split the scales. They bu
 
 Even flesh of astonishing toughness could not stop a strike that fused Ten-Thousand-Year Cold Iron with Force.
 
-Behind everything cleaved apart to either side of the spearhead was the nearly completed sphere of water.
+Beyond everything cleaved apart to either side of the spearhead was the nearly completed sphere of water.
 
 *Cut.*
 
@@ -140,7 +140,7 @@ They collided head-on.
 
 *Gooooooong—*
 
-Along with a deafening boom that numbed my ears, red and blue flashes filled my vision.
+A deafening boom numbed my ears as red and blue light filled my vision.
 
 * * *
 
@@ -168,13 +168,13 @@ Deep in a part of Dongting Lake that no one ever visited, the battle between tha
 
 —Kroaaaaaaaaah!
 
-A pained roar shook heaven and earth in every direction.
+A pained roar shook heaven and earth.
 
-The monster, its maw torn open, writhed and threw its body onto the waters of Dongting Lake.
+The monster, its maw torn open, writhed and flung itself into the waters of Dongting Lake.
 
 *Kwa-gwa-gwa-gwa!*
 
-The river water, mixed with dark-blue blood, surged to a distant height in an instant.
+Water mixed with dark-blue blood surged to a dizzying height.
 
 Waves fit for the distant open sea rose and crashed in every direction. Three figures no larger than specks beside the monster’s enormous body darted just ahead of them.
 
@@ -232,7 +232,7 @@ Mungyeong frowned at Jeok Cheongang’s attitude. The old man was not even looki
 
 Jeok Cheongang walked toward the writhing monster, his eyes blazing as he continued,
 
-“That damned bastard doesn’t seem to know that. Then again, if it had known, it wouldn’t have touched my Disciple without a shred of fear.”
+“That damned bastard doesn’t seem to know that. Then again, if it had known, it wouldn’t have dared lay a hand on my Disciple.”
 
 “You really do whatever you please. So after all that, you never learned water arts.”
 
@@ -264,7 +264,7 @@ If the battle took place underwater, it went without saying that the Water God D
 
 But there was no other choice.
 
-If they did not step in, Jin Taekyung would drown.
+If they did not act, Jin Taekyung would drown.
 
 Just as Jeok Cheongang and Mungyeong exchanged determined looks, Cheongpung suddenly spoke.
 
@@ -298,9 +298,9 @@ Jeok Cheongang’s jaw dropped when he recognized the familiar face amid the spr
 
 There was no time to resolve his confusion.
 
-The instant the words left his mouth, a huge shadow rippled across the rolling surface.
+The instant the words left Jin Taekyung’s mouth, an enormous shadow rippled beneath the churning surface.
 
-At the same time, a thunderous shout burst from Jin Taekyung’s lips as he landed on the ground.
+At the same time, a thunderous shout burst from his lips as he landed on the ground.
 
 “Form an attack formation!”
 
