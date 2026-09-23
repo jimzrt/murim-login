@@ -2278,3 +2278,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 세계 헌터 연맹 | **World Hunter Federation** | Historical federation of Hunters that followed Cheon Taemin during the Great Cataclysm. |
 | 국제 헌터 연맹 | **International Hunter Federation** | Name of the surviving remnant of the historical World Hunter Federation. |
 | 독일 연방군 | **German Armed Forces** | Military personnel controlling the reporters at the Munich event. |
+| 명륜 진사 갈비 | **Myeongnyun Jinsa Galbi** | Korean all-you-can-eat pork-rib restaurant chain used in Jin's absurd comparison. |
