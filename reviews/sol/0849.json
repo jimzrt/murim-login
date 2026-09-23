@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I was informed in advance that you were coming. This way, please.",
+      "defect": "Omits that the people who arrived earlier gave the Captain the advance notice.",
+      "id": "F01",
+      "rationale": "앞서 오신 분들 identifies the source of the information.",
+      "replacement": "Those who arrived before you told me to expect you. This way, please.",
+      "severity": "major",
+      "source": "앞서 오신 분들께 미리 언질을 들었습니다. 우선 이리로."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Taishan giggled at the tickling while Namho prepared to unleash a torrent of curses at him. Then they both looked at the Captain of the Guards and gave him an awkward laugh.",
+      "defect": "Makes both men laugh at the Captain; only Namho does. Taishan is laughing because he is ticklish.",
+      "id": "F02",
+      "rationale": "남호가 is the subject of the laugh directed at the Captain.",
+      "replacement": "Taishan giggled at the tickling. Namho was about to unleash a torrent of curses at him, but instead gave the Captain of the Guards, who was watching him, a hearty laugh.",
+      "severity": "critical",
+      "source": "간지러움에 꺄르르 웃는 태산과, 그런 녀석에게 한바탕 쌍욕을 퍼부으려던 남호가 자신을 응시하는 호위장을 향해 허허 웃어 보였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "If the bastard who used those expensive night-shining pearls was the City Lord who just died, then at least he died well.",
+      "defect": "“Died well” suggests a good manner of death rather than Namho’s contemptuous approval that the man is dead.",
+      "id": "F03",
+      "rationale": "잘 뒈졌군 is a hostile judgment about the death, not a description of how he died.",
+      "replacement": "If the bastard who put up those expensive night-shining pearls was the City Lord who just died, then good riddance to him.",
+      "severity": "major",
+      "source": "저 값비싼 야명주를 쓴 미친놈이 이번에 죽은 성주라면, 그럭저럭 잘 뒈졌군."
+    },
+    {
+      "confidence": 0.95,
+      "current": "When I saw Namho let his guard down and show this side of himself, I could tell he really did have years of experience behind him.",
+      "defect": "Adds that Namho lets his guard down; the source says his experience occasionally shows through.",
+      "id": "F04",
+      "rationale": "슬쩍 내비치는 describes a subtle glimpse, not a lapse in vigilance.",
+      "replacement": "Whenever Namho let this side of himself show, even for a moment, I could tell he had years of experience behind him.",
+      "severity": "minor",
+      "source": "간혹 남호가 슬쩍 내비치는 이런 모습들을 보면 확실히 짬밥이라는 게 있구나 싶다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Do you have to taste-test shit to know it isn’t soybean paste?",
+      "defect": "Soybean paste is not 춘장, weakening the comparison behind the joke.",
+      "id": "F05",
+      "rationale": "춘장 is the dark sauce used for jjajangmyeon; its appearance makes the comparison work.",
+      "replacement": "Do you have to taste shit to tell it from black bean sauce?",
+      "severity": "minor",
+      "source": "똥인지 춘장인지 꼭 찍어 먹어 봐야 압니까?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was how long it took us to reach the City Lord’s residence—the City Lord’s residence and government offices, known as the City Lord’s Hall.",
+      "defect": "Repeats “the City Lord’s residence” and obscures the building’s dual purpose.",
+      "id": "F06",
+      "rationale": "거처인 동시에 관청 states those two functions once.",
+      "replacement": "That was how long it took us to reach the City Lord’s Hall, which served as both his residence and his government offices.",
+      "severity": "minor",
+      "source": "우리가 사천성주의 거처인 동시에 관청인 성주부(星州府)에 도착하기까지 걸린 시간이었다."
+    }
+  ],
+  "summary": "The draft has one changed subject and several losses of meaning or tone.",
+  "version": 1
+}

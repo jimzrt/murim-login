@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Still, “weakling”? That hurt.",
+      "defect": "The preceding exchange calls Jin a “nobody,” not a “weakling,” so the callback has no matching line.",
+      "id": "C01",
+      "rationale": "The reaction should refer to the insult the reader just saw.",
+      "replacement": "Still, “nobody”? That hurt.",
+      "severity": "minor",
+      "source": "Chapter 845, after the Sound Transmission exchange"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Yet just as the two characters that made up *天下*—“all under Heaven”—suggested, there was Heaven above it all.",
+      "defect": "The Korean source characters remain in an English-only reading copy.",
+      "id": "C02",
+      "rationale": "This preserves the thought without leaving source-language text in the reading copy.",
+      "replacement": "Yet just as the phrase “all under Heaven” suggested, there was Heaven above it all.",
+      "severity": "minor",
+      "source": "Chapter 847, opening reflection"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Pushing the meridians and passing through the acupoints.”\n\nAt my offhand reply, Hyuk Mujin nodded.\n\n“Oh, right. That thing I’d only ever heard about.”\n\nHe could only have heard about it. Pushing the meridians and passing through the acupoints required",
+      "defect": "The treatment is named twice with a literal rendering that differs from Chapter 845’s “working the channels and pressure points” and the checkpoint’s stated terminology decision.",
+      "id": "C03",
+      "rationale": "Both references should use the established descriptive rendering for the same treatment.",
+      "replacement": "“Working the channels and pressure points.”\n\nAt my offhand reply, Hyuk Mujin nodded.\n\n“Oh, right. That thing I’d only ever heard about.”\n\nHe could only have heard about it. Working the channels and pressure points required",
+      "severity": "minor",
+      "source": "Chapter 848, Jin naming Jeok Cheongang’s treatment"
+    },
+    {
+      "confidence": 0.9,
+      "current": "The Divine Physician is summoned to treat City Lord Won Gyun of Seongju Prefecture.",
+      "defect": "The summary assigns Won Gyun a jurisdiction different from the “City Lord of Sichuan Province” title used in Chapters 848–849.",
+      "id": "C04",
+      "rationale": "The summary should match the title used by the reading copies; Chapter 846 separately identifies Seongju Prefecture as where the visiting guards came from.",
+      "replacement": "The Divine Physician is summoned to treat Won Gyun, the City Lord of Sichuan Province.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot"
+    }
+  ],
+  "summary": "The packet’s main continuity is intact. Four localized issues need correction: a mismatched callback, a non-English span, inconsistent technique terminology, and a summary title that conflicts with the reading copies.",
+  "version": 1
+}
