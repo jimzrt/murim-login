@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Of all the many cameras installed throughout the National Assembly to capture a moment in history, it was the only one to survive the aftermath of the tremendous battle.",
+      "defect": "“It” refers grammatically to the microchip in Choi Minwoo’s hand, not a camera.",
+      "id": "C01",
+      "rationale": "Clarifies which object survived without changing the account of the footage.",
+      "replacement": "The chip held footage from the only camera to survive the aftermath of the tremendous battle, out of the many installed throughout the National Assembly to capture a moment in history.",
+      "severity": "major",
+      "source": "Chapter 790, National Assembly footage"
+    },
+    {
+      "confidence": 0.99,
+      "current": "└ OMG……",
+      "defect": "Uses two ellipsis characters where the required convention is a single ellipsis character.",
+      "id": "C02",
+      "rationale": "Brings the comment into the reading copy’s specified punctuation style.",
+      "replacement": "└ OMG…",
+      "severity": "minor",
+      "source": "Chapter 790, online comments"
+    },
+    {
+      "confidence": 0.91,
+      "current": "the Skeleton King reports that an unidentified presence appeared and vanished without a trace.",
+      "defect": "“Appeared” presents the unidentified thing as an observed arrival; the Skeleton King says he could not find it and that it had vanished.",
+      "id": "C03",
+      "rationale": "Preserves the uncertainty around the killer without inventing an appearance.",
+      "replacement": "the Skeleton King reports that whatever killed them had vanished without a trace.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The unidentified presence the Skeleton King saw disappeared without leaving a trace.",
+      "defect": "Says the Skeleton King saw the presence, although the reading copy explicitly says he could not see it.",
+      "id": "C04",
+      "rationale": "Keeps the unresolved presence unidentified and distinguishes his inference from direct sight.",
+      "replacement": "Whatever killed them disappeared without leaving a trace; the Skeleton King did not see it.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jin recognizes that Huginn and Muninn are Odin’s two ravens: there was never only one Prophet.",
+      "defect": "The ending establishes two ravens, not two people called The Prophet.",
+      "id": "C05",
+      "rationale": "Preserves the chapter’s final realization without asserting an additional Prophet.",
+      "replacement": "Jin recognizes Huginn and Muninn as Odin’s two ravens: there was never only one crow.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot"
+    }
+  ],
+  "summary": "The reading copies are largely consistent, but one camera description has an unclear referent, one comment breaks the ellipsis convention, and the checkpoint summary overstates what Jin and the Skeleton King learned.",
+  "version": 1
+}

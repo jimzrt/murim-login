@@ -1,7 +1,7 @@
 # The Prophet (선지자)
 
-- **Safe through:** Chapter 793
-- **Aliases:** None
+- **Safe through:** Chapter 794
+- **Aliases:** Muninn (무닌)
 - **Role:** The Prophet is the mysterious leader of the revived Hasasin, a Middle Eastern terrorist organization preparing further attacks against apostates and Western heretics.
 - **Personality:** Religiously fervent, commanding, and shrouded in an intentionally indistinct identity.
 - **Voice:** Mysterious, genderless, and age-indeterminate, speaking in solemn religious imperatives.

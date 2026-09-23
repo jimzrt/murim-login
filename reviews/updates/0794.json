@@ -1,0 +1,97 @@
+{
+  "chapter": 794,
+  "files": {
+    "characters/Huginn.md": "ae5c2fee233f0ef755ba2d320f8148f2428b09adbbdf25d01708b398e9bf86dd",
+    "characters/Michael.md": "8c4424e0c2adbfa85044d4f303aaa4d539e6ab42fff241eea7408f4c0861b786",
+    "characters/The Prophet.md": "a53392133f77b265cdae83297f98c3ed732457044d28e33a14172da700afdac5",
+    "docs/CONTEXT.json": "b651cd2f3d153e9991a122cd6565a74bf6da256eceb0a2fe309e5babf218d101",
+    "docs/STATE.md": "22dd6fd2065a875afccaa5f3b3df71a5dad5bb883ace79c0a03a56497eff3680",
+    "summaries/beats/0794.md": "989a11c2fc42ebdd1a4258e1e15534ea694d3b8ba40977afd37387d5b8553c3d"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "후긴",
+        "kinship": "interrogator to captive",
+        "normal_address": "you",
+        "notes": "Jin questions and taunts Huginn during the interrogation.",
+        "speaker": "진태경",
+        "speech_level": "informal, confrontational, and coercive"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "captive to interrogator",
+        "normal_address": "you",
+        "notes": "Huginn resists Jin, then gives information and asks him to stop.",
+        "speaker": "후긴",
+        "speech_level": "informal and hostile, becoming pleading"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Huginn says The Prophet, also known as Muninn, killed Siegfried Wassmann; Jin is certain Huginn is telling the truth.",
+        "Huginn remains a captive and has begun disclosing what he knows about The Prophet. Jin promises to kill him if that is what Huginn wants, but does not promise to release him.",
+        "The Prophet’s identity as Muninn is revealed; the relationship between Muninn and Michael Silbert remains unclear.",
+        "Jin’s Supreme Peak Quest [An Unknown Death] remains incomplete despite learning who killed Siegfried Wassmann.",
+        "Jin is pursuing the Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit; The Prophet is hiding somewhere in the Middle East."
+      ],
+      "plot": [
+        "Jin Taekyung interrogates the captive Huginn, who had resisted earlier interrogators. Jin’s threats and violent, potion-fueled torment finally get Huginn to speak; Huginn says The Prophet killed Siegfried Wassmann.",
+        "When pressed about The Prophet, Huginn reveals that the person called The Prophet is Muninn. Jin recalls that Huginn and Muninn are Odin’s two ravens, realizing there was never only one."
+      ],
+      "translation_decisions": [
+        "Render 무닌 as Muninn; The Prophet is revealed to be Muninn."
+      ]
+    },
+    "chapter": 794,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and is pursuing the Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet, also known as Muninn, is hiding somewhere in the Middle East; Jin suspects they are preparing a major attack.",
+        "Huginn says The Prophet/Muninn killed Siegfried Wassmann, and Jin is certain Huginn is telling the truth.",
+        "Huginn remains a captive and has begun disclosing what he knows about The Prophet.",
+        "The Supreme Peak Quest [An Unknown Death] remains incomplete; Jin now knows The Prophet/Muninn killed Siegfried Wassmann.",
+        "The Skeleton King and his undead army remain with Xiao Shen after defeating the desert Monster Wave without casualties.",
+        "Twenty people were found dead in the desert in the same desiccated condition as Siegfried Wassmann; the cause remains unknown."
+      ],
+      "continuity_sources": [
+        793,
+        794
+      ],
+      "open_questions": [
+        "What caused the deaths of Siegfried Wassmann and the twenty people in the desert?",
+        "What is the relationship between Muninn and Michael Silbert?",
+        "What disappeared from the desert without leaving a trace, as described by the Skeleton King?",
+        "Can Jin find and eliminate The Prophet before the Main Quest’s time limit expires?"
+      ],
+      "safe_through": 794,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Do not identify the cause of the deaths or the vanished presence until revealed."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Siegfried Wassmann",
+        "korean": "지크프리트 바스만",
+        "notes": "Hunter whose death is the subject of Jin’s unresolved quest."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Huginn is a powerful Odin Guild messenger, trusted field operative, and elite fixer personally selected and trained by Michael.",
+        "path": "characters/Huginn.md",
+        "replacement": "- **Role:** Huginn is a powerful Odin Guild operative and elite fixer personally selected and trained by Michael, now held captive by Jin Taekyung."
+      },
+      {
+        "current": "- **Aliases:** None",
+        "path": "characters/The Prophet.md",
+        "replacement": "- **Aliases:** Muninn (무닌)"
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
