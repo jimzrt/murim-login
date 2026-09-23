@@ -14,7 +14,7 @@ Their deliberation lasted less than a minute. Then the Kraken tore through space
 
 *Boom!*
 
-And the flames of disaster spread in every direction in an instant.
+Disaster spread in every direction.
 
 The Kraken was the terror of the black sea, a king of immense power. And a king like that had savage, loyal soldiers.
 
@@ -32,11 +32,11 @@ The question went unfinished.
 
 It happened in an instant.
 
-A barnacle-covered trident pierced through a human body and continued flying, punching straight through even a vehicle waiting at the light.
+A barnacle-covered trident pierced a person and kept flying, punching through a car waiting at the light.
 
 *Boom!*
 
-Vehicle fragments flew in every direction with the sound of an explosion.
+The car exploded, scattering wreckage in every direction.
 
 As people stared at the impossible sight, alarms around the intersection sounded and warnings arrived on their smartphones.
 
@@ -134,17 +134,17 @@ No—it *was* impossible without high-rank Hunters to back them up.
 
 “Hold out?”
 
-A middle-aged Hunter muttered through clenched teeth in response to someone’s almost desperate suggestion.
+The middle-aged Hunter spat the words back at the man who had made that desperate suggestion.
 
 “We’d get hacked to death a thousand times faster.”
 
 “…Damn it.”
 
-His entire body felt as heavy as cotton soaked in water. He had to fight, but he could not bring himself to do it.
+His whole body felt as heavy as waterlogged cotton. He had to fight, but he couldn’t bring himself to move.
 
 They had families. They wanted to live. Only their duty and resolve as Hunters kept them from backing away.
 
-But they would not be able to hold themselves back much longer.
+They couldn’t hold themselves there much longer.
 
 —Aah, aaaaaah!
 
@@ -208,7 +208,7 @@ The question had barely left the middle-aged Hunter’s lips when—
 
 *Whooooooosh!*
 
-A strange noise rang out, and a shadow fell over everyone’s heads.
+A strange sound came from overhead, and a shadow fell across the intersection.
 
 Everyone looked up.
 
@@ -216,9 +216,9 @@ Something enormous and pure white covered the sky far above them. At its center 
 
 “This body. Descends.”
 
-The arrogant yet powerful voice pierced everyone’s ears.
+His voice was arrogant and full of power.
 
-When golden hair flashed briefly in their vision, the unidentified man pointed toward the hundreds of Mermen and continued speaking.
+They caught a glimpse of golden hair. The stranger pointed at the hundreds of Mermen.
 
 “You. Die.”
 
@@ -234,17 +234,17 @@ Sharper than spearheads and as fast as arrows, bone fragments rained down on the
 
 *Fwooooosh! Thud-thud-thud-thud!*
 
-A Merman that barely managed to knock away several bone fragments with its spear was immediately turned into a pincushion by another fragment that came flying at it, then collapsed.
+Thousands struck at once, shattering scales and tearing fins. One Merman managed to knock several aside with its spear, only to be riddled by the next volley and collapse.
 
 *Thud-thud-thud!*
 
 The downpour of bones struck monsters alone.
 
-Amid that horrifying spectacle, the humans stood frozen as they watched the neatly paved asphalt road become stained with monster blood in an instant.
+The humans stood frozen, watching the neatly paved road turn red with monster blood.
 
 *Thump. Thump. Crash!*
 
-Nearly half of the two hundred Mermen collapsed in an instant.
+In just over ten seconds, nearly half of the two hundred Mermen had fallen.
 
 No. They had melted.
 
@@ -300,7 +300,7 @@ The Skeleton King whipped his head toward the distant sky, in the direction Jin 
 
 Even from here, he could clearly see enormous tentacles and hear the explosions.
 
-The Skeleton King silently watched the scene, then turned his gaze back toward the cluster of Mermen gathered below.
+He watched in silence, then looked back at the Mermen huddled below.
 
 “…On second thought, they look like a girl group.”
 
@@ -324,7 +324,7 @@ No. Eight now.
 
 “Now that’s a proper octopus.”
 
-I shot forward with all my strength toward the roaring Kraken.
+I shot toward the roaring Kraken.
 
 I dodged an incoming tentacle and stepped on empty air, leaping higher. Beneath my feet was a gigantic pair of eyes.
 
@@ -332,6 +332,6 @@ Time to finish this.
 
 *Fwoosh.*
 
-I poured all my internal energy into it and drove the spear down toward the creature’s eye.
+The flames around my spearhead spun faster. I put all my internal energy behind the strike and drove the spear down toward its eye.
 
 Fire Dragon Divine Spear, Third Form: Takoyaki.

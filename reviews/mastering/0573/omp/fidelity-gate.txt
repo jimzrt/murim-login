@@ -1,0 +1,45 @@
+{
+  "summary": "The scene is mostly faithful, but the assembled version drops a time marker and attack details, and adds an unsupported traffic-light color.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 71–73",
+      "current": "A car sped through a red light and struck a pedestrian in the crosswalk.",
+      "defect": "The Korean says the car ignored the signal, but does not specify that it was red. The translation adds that detail.",
+      "replacement": "A car sped through without regard for the signal and struck a pedestrian in the crosswalk.",
+      "rationale": "신호를 무시하고 means the driver ignored the signal; it does not establish the signal’s color.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 235–239",
+      "current": "Sharper than spearheads and as fast as arrows, bone fragments rained down on the intersection.",
+      "defect": "The translation omits that thousands of bone fragments were fired simultaneously and that they broke scales and tore fins.",
+      "replacement": "Thousands of bone fragments shot down at once, sharper than spearheads and as fast as arrows, crushing scales and tearing through fins.",
+      "rationale": "The source explicitly describes 수천 개 (thousands) being fired at once, breaking scales, and tearing fins. The accepted baseline also preserved these details.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 251",
+      "current": "Nearly half of the two hundred Mermen collapsed in an instant.",
+      "defect": "The assembled version drops the source’s time marker: this happened in only a dozen or so seconds.",
+      "replacement": "In barely a dozen seconds, nearly half of the two hundred Mermen collapsed.",
+      "rationale": "불과 십여 초 specifies that only around a dozen seconds had passed. The accepted baseline retained this duration.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 345–348",
+      "current": "I poured all my internal energy into it and drove the spear down toward the creature’s eye.",
+      "defect": "The translation omits the flames wrapped around the spearhead and their sharp rotation.",
+      "replacement": "The flames wrapped around the spearhead spun sharply. I poured all my internal energy into the strike and drove the spear down toward the creature’s eye.",
+      "rationale": "The source explicitly describes the flames around the spearhead rotating sharply before the strike; the accepted baseline preserved that physical detail.",
+      "confidence": 0.99
+    }
+  ]
+}
