@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“What an idiot…”",
+      "defect": "The translation sanitizes a strongly abusive insult, weakening the escalating profanity and comic hostility of the argument.",
+      "id": "F01",
+      "rationale": "병신 is substantially harsher than the neutral English “idiot,” and the source deliberately escalates into explicit profanity.",
+      "replacement": "“What a fucking moron…”",
+      "severity": "major",
+      "source": "뭐 이런 병신……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Hey, watch your language. He’s a year younger than me.”",
+      "defect": "The draft changes the subject from the person being directly addressed to an unidentified third party, altering who is younger than the speaker.",
+      "id": "F02",
+      "rationale": "The omitted Korean subject is the interlocutor being reprimanded; 나보다 나이도 한 살 어리던데 means that person is one year younger than the speaker.",
+      "replacement": "“Come on, now. You’re a year younger than me, so watch your language.”",
+      "severity": "critical",
+      "source": "어허, 이 사람이. 나보다 나이도 한 살 어리던데 욕은 하지 말지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Even as they grabbed one another by the collars, the news channel next door was reporting breaking news about mutation Gates or monster waves occurring somewhere in the world.",
+      "defect": "“The news channel next door” sounds as though the channel occupies a neighboring physical location rather than being an adjacent television channel.",
+      "id": "F03",
+      "rationale": "옆 채널 means another or adjacent television channel; “the news on the next channel” conveys that naturally.",
+      "replacement": "Even as they grabbed one another by the collars, the news on the next channel was reporting breaking developments about mutation Gates or monster waves somewhere in the world.",
+      "severity": "minor",
+      "source": "그들이 서로의 멱살을 잡는 그 순간에도, 옆 채널 뉴스에서는 세계 어딘가에서 발생한 변이 게이트나 몬스터 웨이브 속보를 알리고 있었으니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Your human race is truly a complete mess.”",
+      "defect": "The line is stiff and sanitizes the Skeleton King’s blunt, coarse assessment, weakening both his voice and the joke that follows.",
+      "id": "F04",
+      "rationale": "너희 인간들은 directly addresses “you humans,” while 개판 is a coarse colloquial description of utter disorder rather than the formal-sounding “complete mess.”",
+      "replacement": "“You humans… are a real shitshow.”",
+      "severity": "major",
+      "source": "너희 인간들은…… 참으로 개판이군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I looked back and forth between the handkerchief and Song Song, then clicked my tongue.",
+      "defect": "The draft substitutes clicking the tongue for smacking the lips, changing the narrator’s physical action.",
+      "id": "F05",
+      "rationale": "입맛을 다시다 describes smacking or licking one’s lips, not clicking one’s tongue.",
+      "replacement": "I looked back and forth between the handkerchief and Song Song, then smacked my lips.",
+      "severity": "critical",
+      "source": "손수건과 송송이를 번갈아 바라보던 나는 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You must have had a hard time on the long journey. But…”",
+      "defect": "The draft turns a deferential expression of appreciation into an observation about presumed hardship, losing Team Leader Choi’s courteous subordinate register.",
+      "id": "F06",
+      "rationale": "고생하셨습니다 here is a polite acknowledgment of the addressee’s effort, not speculation that the journey was difficult.",
+      "replacement": "“Thank you for your hard work on such a long trip. But…”",
+      "severity": "major",
+      "source": "먼 길 다녀오시느라 고생하셨습니다. 그런데……."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains two altered physical/subject actions, several softened register choices, one hierarchy loss, and a few localized English issues.",
+  "version": 1
+}

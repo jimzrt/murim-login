@@ -2218,3 +2218,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무함마드 | **Muhammad** | Prophet whose death is referenced in the history of the Islamic world. |
 | 도쿄만 | **Tokyo Bay** | Port area where Sugihara Gyoiku works. |
 | 스기하라 교이쿠 | **Sugihara Gyoiku** | Tokyo native and longtime cargo-shipping laborer. |
+| 속초 | **Sokcho** | City in Gangwon Province where the mutation Gate and monster wave occur. |
