@@ -2376,3 +2376,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 삼영 | **Third Shadow** | Assassin named by the Emperor. |
 | 일영 | **First Shadow** | Masked assassin ordered to execute Third Shadow. |
 | 관내후 | **Marquis Within the Passes** | Title the Emperor proposes granting Prince Shangshan. |
+| 무영 | **No Shadow** | The concealed Supreme Peak assassin serving the Emperor. |
+| 소교 | **So Gyo** | The palace attendant leading the group assigned to serve Prince Shangshan. |
