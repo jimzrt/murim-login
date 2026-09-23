@@ -1282,3 +1282,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 프랑스 대통령 | 미카엘 실베르트 | French President to Odin Guild Master | Guild Master | formal-polite | He congratulates Michael immediately after the World Hunter Federation's reestablishment is approved. |
 | 최 팀장 | 진태경 | official manager and ally to Hunter under his management | Mr. Jin Taekyung | formal-polite and urgent | He presses Jin to choose a course of action and argues that the Skeleton King's identity is an exploitable weakness. |
 | 스켈레톤 킹 | 진태경 | monster ally to human companion | wicked human | calm, provocative, and intimate | He addresses Jin while proposing that Jin publicly erase him. |
+| 스켈레톤 킹 | 진태경 | trusted allied friend and comrade | you | plain and resolute | The Skeleton King argues directly with Jin about accepting his identity as a monster and publicly erasing him. |
