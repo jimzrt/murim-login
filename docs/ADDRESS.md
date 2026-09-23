@@ -1386,3 +1386,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 상산왕 주표 | 황제 | younger brother addressing the Emperor | Your Majesty, my imperial brother | formal and deferential | Greets him as 형님 폐하. |
 | 진태경 | 황제 | guest of the Emperor’s younger brother addressing the Emperor | Your Majesty | formal and deferential in address, despite blunt challenges | Taekyung repeatedly addresses the Emperor as 폐하. |
 | 상산왕 | 황제 | younger brother addressing the Emperor | Your Majesty | deferential royal address | Shangshan addresses the Emperor as 폐하 while pleading for Taekyung. |
+| 황제 | 무영 | employer addressing a hidden assassin in his service | No Shadow | authoritative | The Emperor calls him by name and tells him to withdraw. |

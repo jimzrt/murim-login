@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The thirteen-year-old Prince Shangshan had already proved on his own that he could do what even adults who’d done nothing but age with the time handed to them could not.",
+      "defect": "Shangshan says he is twelve in Chapter 872, and both speakers refer to him as twelve earlier in Chapter 873.",
+      "id": "C01",
+      "rationale": "Keeps the narration consistent with his stated age.",
+      "replacement": "The twelve-year-old Prince Shangshan had already proved on his own that he could do what even adults who’d done nothing but age with the time handed to them could not.",
+      "severity": "major",
+      "source": "Chapter 873, Taekyung’s assessment of Prince Shangshan"
+    },
+    {
+      "confidence": 1.0,
+      "current": "After wiping Samyeong’s blood from my face, I stepped in front of Prince Shangshan, who was breathing in short, shallow gasps.",
+      "defect": "Samyeong is an unmapped romanization of the assassin called Third Shadow throughout the scene.",
+      "id": "C02",
+      "rationale": "Uses the established rendering at a moment when the assassin’s identity matters.",
+      "replacement": "After wiping Third Shadow’s blood from my face, I stepped in front of Prince Shangshan, who was breathing in short, shallow gasps.",
+      "severity": "minor",
+      "source": "Chapter 873, immediately after Third Shadow’s execution"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Are you saying you really don’t know, or that you know but won’t tell me?",
+      "defect": "The line lacks the dash marking Sound Transmission, although Jeong immediately answers it through Sound Transmission.",
+      "id": "C03",
+      "rationale": "Makes the exchange legible without implying Jeong answered an unspoken thought.",
+      "replacement": "—Are you saying you really don’t know, or that you know but won’t tell me?",
+      "severity": "minor",
+      "source": "Chapter 871, Taekyung’s exchange with Jeong Hogun"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He threw open the door before them, decorated with gold, silver, and jewels, without the slightest hesitation, then spoke.",
+      "defect": "The first-person narration slips into “them,” and the modifier makes it unclear whether the door or the people are decorated.",
+      "id": "C04",
+      "rationale": "Restores Taekyung’s viewpoint and makes the decoration attach clearly to the door.",
+      "replacement": "Without the slightest hesitation, he threw open the door before us, decorated with gold, silver, and jewels, then spoke.",
+      "severity": "minor",
+      "source": "Chapter 871, entrance to the Emperor’s bedchamber"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Was this the same “brother-in-law” as the one who’d married your wife’s older sister?",
+      "defect": "The kinship explanation does not support the following joke about Jeong Hogun being transgender: it describes the wife’s sister rather than the speaker’s older sister.",
+      "id": "C05",
+      "rationale": "Makes the English setup lead into Taekyung’s next thought.",
+      "replacement": "Was this the same “brother-in-law” a woman would call her older sister’s husband?",
+      "severity": "minor",
+      "source": "Chapter 870, Taekyung’s Ministry of Punishments wordplay"
+    }
+  ],
+  "summary": "The packet largely maintains its voice and continuity. The actionable issues are an age contradiction, a name drift, a missing Sound Transmission marker, and two localized prose errors.",
+  "version": 1
+}

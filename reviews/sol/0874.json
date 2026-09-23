@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Were the people who had signed the blood-signed pact he’d mentioned the night before fully prepared?",
+      "defect": "“Blood-signed” invents a blood oath; the source only says they signed a collective pledge.",
+      "id": "F01",
+      "rationale": "연판장 identifies a document signed jointly, not a pledge signed in blood.",
+      "replacement": "Were the people who had signed the collective pledge he’d mentioned the night before fully prepared?",
+      "severity": "major",
+      "source": "그가 전날 밤 언급했던 연판장(連判狀)에 서명한 이들은 충분한 준비가 되었을까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "One of the divine weapons that had once been a sacred treasure of the Sichuan Tang Clan and a target of Dark Heaven.",
+      "defect": "“Had once been” implies the ring is no longer the clan’s artifact, and “sacred treasure” misses the binding rendering of 신물.",
+      "id": "F02",
+      "rationale": "The source states the ring’s status as the clan’s 신물 and places the past tense on Dark Heaven’s targeting.",
+      "replacement": "A divine artifact of the Sichuan Tang Clan, and one of the divine weapons Dark Heaven had targeted.",
+      "severity": "major",
+      "source": "사천당가의 신물이자 암천의 표적이 되었던 신병이기 중 하나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Emperor watched me and clicked his tongue, then suddenly spoke.",
+      "defect": "Clicking his tongue changes the Emperor’s lip-smacking reaction into a gesture of disapproval.",
+      "id": "F03",
+      "rationale": "입맛을 다시다 describes smacking or licking one’s lips, not clicking one’s tongue.",
+      "replacement": "The Emperor watched me and smacked his lips, then suddenly spoke.",
+      "severity": "major",
+      "source": "그리고 그런 나를 바라보며 입맛을 다신 황제가 문득 입을 열었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The Emperor cared enough about appearances to summon Prince Shangshan to the imperial capital and bring him under his control.",
+      "defect": "“Appearances” weakens the need for political justification that underpins the narrator’s prediction of poisoning.",
+      "id": "F04",
+      "rationale": "명분 is a defensible justification for an action, not merely how it looks.",
+      "replacement": "The Emperor cared enough about having a legitimate pretext to summon Prince Shangshan to the imperial capital before bringing him under his control.",
+      "severity": "major",
+      "source": "상산왕을 황도까지 불러 손아귀에 넣을 만큼 명분을 중요시하는 황제가, 자신의 하나뿐인 동생을 죽이고자 한다면 가장 큰 가능성은 바로 독살(毒殺)이었다."
+    }
+  ],
+  "summary": "Four actionable findings: an invented blood oath, a changed artifact history, a mistranslated reaction, and a weakened political motive.",
+  "version": 1
+}
