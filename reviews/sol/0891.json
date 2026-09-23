@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "“The privy’s in the imperial palace, so they’d even oiled the ceiling beams. I was holding on to one, but my strength gave out.”",
+      "defect": "The draft puts oil on the ceiling beams, changing Namho’s sarcastic explanation into a physical cause of his fall.",
+      "id": "F01",
+      "rationale": "Namho jokes that even the privy was well oiled, then says his strength failed while he held on to a ceiling support. He does not say the support was oiled.",
+      "replacement": "“Palace privy or not, the place might as well have been greased. I was hanging on to a ceiling beam when my strength gave out.”",
+      "severity": "critical",
+      "source": "황궁이라 그런지 측간에까지 기름칠을 잘 해 놨더군. 천장 기둥을 붙잡고 있는데 힘이 빠지지 뭐냐."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I agree with Senior Namho.",
+      "defect": "Namho is speaking and refers to Jeok Cheongang, not himself.",
+      "id": "F02",
+      "rationale": "The preceding assessment is Jeok Cheongang’s; Namho follows it by agreeing with the elder senior.",
+      "replacement": "“I agree with Senior Jeok.",
+      "severity": "critical",
+      "source": "저 역시 노 선배의 말에 동감합니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Why had she let me go when she’d had me completely under control?",
+      "defect": "The draft says So Gyo already had Taekyung under control; the source says she was in a position to subdue him.",
+      "id": "F03",
+      "rationale": "제압 가능한 describes her capacity to overpower him, not a completed capture.",
+      "replacement": "Why had she let me go when she could have subdued me?",
+      "severity": "critical",
+      "source": "충분히 제압 가능한 상황에서도 나를 풀어준 이유."
+    },
+    {
+      "confidence": 0.95,
+      "current": "she must belong to the demonic, heterodox arts.",
+      "defect": "A person cannot belong to martial arts; the source places her among heterodox people or factions.",
+      "id": "F04",
+      "rationale": "속한 인물 identifies the kind of person she is inferred to be, rather than naming an art she belongs to.",
+      "replacement": "she must be one of the demonic or heterodox martial artists.",
+      "severity": "major",
+      "source": "암천의 주구 노릇을 하는 것을 보면 필시 사마외도(邪魔外道)에 속한 인물일 터인데"
+    },
+    {
+      "confidence": 0.96,
+      "current": "But the army prepared over more than ten years under Ma Sanbao’s leadership was no joke either.",
+      "defect": "Calling it merely an army loses its purpose as a force seeking to restore legitimate rule.",
+      "id": "F05",
+      "rationale": "반정군 specifies a restoration force, a distinction relevant to the planned struggle against the current Emperor.",
+      "replacement": "But the restoration army that had spent more than a decade preparing under Ma Sanbao’s leadership was no joke either.",
+      "severity": "major",
+      "source": "마삼보를 중심으로 십 년이 넘는 세월 동안 준비해 온 반정군(反正軍)의 전력 역시 만만치 않을 것이다."
+    }
+  ],
+  "summary": "The draft has three scene-fact errors and two meaningful terminology or context losses.",
+  "version": 1
+}
