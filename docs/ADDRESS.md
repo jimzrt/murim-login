@@ -1364,3 +1364,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 주화란 | 적천강 | younger ally to legendary martial master | Great Hero Jeok | formal and deferential | Ju Hwaran addresses Jeok as 적 대협 while asking whether he is all right. |
 | 주표 | 홍진 | prince to loyal subject | you | formal and reassuring | Zhu Bao refers to Hong Jin as 그대 while apologizing for the hardship he has endured. |
 | 혁무진 | 정천호 | strangers; commander and guarded outsider | Commander Jeong | informal-polite shifting to casual | Hyuk initially uses deferential -오 forms, then switches to casual speech and profanity. |
+| 진태경 | 정호군 | young martial artist to senior imperial officer | Commander Jeong | casual and teasing, then conciliatory | Jin addresses him by rank while trying to defuse the standoff. |

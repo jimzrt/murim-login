@@ -1,6 +1,6 @@
 # Jung Ho (정호)
 
-- **Safe through:** Chapter 838
+- **Safe through:** Chapter 858
 - **Aliases:** None
 - **Role:** Middle-aged Shaolin martial monk and Master of Shaolin's Discipline Hall who leads the traveling group and wields a Zen staff hung with prayer beads.
 - **Personality:** Humble, observant, principled, and concerned with the safety of commoners.
