@@ -2210,3 +2210,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마력 | **magical power** | Distinct from mana; the Skeleton King's area of expertise. |
 | 베르세 | **Berse** | Swiss Minister of the Interior expected to become the next president. |
 | 도쿄 | **Tokyo** | City visible behind Huginn's departing ship. |
+| 스위스 연방 경찰국 | **Swiss Federal Police** | Swiss law-enforcement organization whose Hunters investigate Siegfried's death. |
+| 아공간 포켓 | **subspace pocket** | Magical storage pouch containing Siegfried's research materials. |
+| 심해 | **deep sea** | Unexplored ocean depths where the ancient monster awakens. |

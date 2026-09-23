@@ -1,9 +1,9 @@
 # Magic Johnson (매직 존슨)
 
-- **Safe through:** Chapter 741
+- **Safe through:** Chapter 744
 - **Aliases:** Grand Mage
-- **Role:** Magic Johnson is a Grand Mage and the master of Wizard Guild who is investigating the death of the retired Grand Mage who designed A Area.
-- **Personality:** He is candid, protective of his allies, and resolute about the vigilante operation despite its consequences.
-- **Voice:** He speaks plainly and warmly with friends, but firmly and authoritatively when directing armed personnel or addressing serious matters.
-- **Relationships:** He is a friend of the deceased A Area designer, an ally of Jin Taekyung and Team Leader Choi, and a fellow vigilante with Chuck Hagel.
+- **Role:** Magic Johnson is a Grand Mage and expert magic researcher who assists Jin's group with investigating magical threats and containing damage from the rising distribution of magical power.
+- **Personality:** Serious and practical when confronting dangerous magical phenomena, but easily startled by unexpected discoveries.
+- **Voice:** Measured and grave when discussing threats, with direct and conversational speech among allies.
+- **Relationships:** An ally of Jin Taekyung and Team Leader Choi; he is entrusted with Siegfried Wassmann's stolen research materials and is helping investigate Michael Silbert and The Prophet.
 - **Sources:** Korean source and accepted translation, Chapter 384

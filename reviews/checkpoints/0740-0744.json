@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Along with the ten terrorist attacks accompanied by Monster Waves, the mana distribution continued to rise at an even steeper rate, and mutation Gate phenomena were now occurring dozens of times a day.",
+      "defect": "“Mana distribution” conflicts with the packet’s binding distinction between mana and the distribution of magical power, and it drifts from the terminology used in Chapter 744 and the checkpoint state.",
+      "id": "C01",
+      "rationale": "Using “magical power” preserves the established distinction and keeps the same ongoing phenomenon consistent across the packet.",
+      "replacement": "Along with the ten terrorist attacks accompanied by Monster Waves, the distribution of magical power continued to rise at an even steeper rate, and mutation Gate phenomena were now occurring dozens of times a day.",
+      "severity": "major",
+      "source": "Chapter 741, discussion of worsening global conditions"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I smacked my lips bitterly and firmly grasped the hand he held out.\n\n“Not at all.”",
+      "defect": "“Not at all” is not a natural answer to “How have you been?” and makes Jin’s intended bleak, blunt response sound grammatically incomplete.",
+      "id": "C02",
+      "rationale": "The replacement retains the terse deadpan delivery while making the exchange idiomatic in contemporary English.",
+      "replacement": "I smacked my lips bitterly and firmly grasped the hand he held out.\n\n“Not well at all.”",
+      "severity": "minor",
+      "source": "Chapter 741, Jin greeting Magic Johnson"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The greatest Hunter Switzerland, a perpetually neutral nation, had ever produced—and a Grand Mage who had displayed exceptional talent in summoning and barrier magic.",
+      "defect": "The relative clause is missing “that,” producing an obvious grammatical error.",
+      "id": "C03",
+      "rationale": "Adding the missing relative pronoun repairs the sentence without changing its meaning or rhythm.",
+      "replacement": "The greatest Hunter that Switzerland, a perpetually neutral nation, had ever produced—and a Grand Mage who had displayed exceptional talent in summoning and barrier magic.",
+      "severity": "minor",
+      "source": "Chapter 742, introduction of Siegfried Wassmann"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How dare this treacherous human insult whom!”",
+      "defect": "The use of “whom” is ungrammatical and sounds like a literal syntax carryover rather than the Skeleton King’s established grandiose but intelligible speech.",
+      "id": "C04",
+      "rationale": "The replacement preserves his characteristic self-reference and indignation while making the line natural and immediately comprehensible.",
+      "replacement": "“How dare you insult this body, you treacherous human!”",
+      "severity": "minor",
+      "source": "Chapter 742, Skeleton King reacting to Jin’s insult"
+    },
+    {
+      "confidence": 0.9,
+      "current": "A tremendous qi wave erupted from the man's body and swept in every direction.",
+      "defect": "Calling Michael’s unidentified modern-world power “qi” imports the Murim-specific energy term and prematurely characterizes the mechanism of his unexplained transformation.",
+      "id": "C05",
+      "rationale": "The neutral wording preserves the force of the event without conflating qi with modern Hunter power or resolving a mechanism the packet deliberately leaves unknown.",
+      "replacement": "A tremendous burst of energy erupted from the man's body and swept in every direction.",
+      "severity": "major",
+      "source": "Chapter 743, Michael Silbert’s transformation"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The sky was clear as hell, and the surrounding scenery, which still retained the beauty of northern Europe, was beautiful in contrast to the situation we were in.",
+      "defect": "Switzerland is not in northern Europe, and the sentence also awkwardly repeats “beauty” and “beautiful.”",
+      "id": "C06",
+      "rationale": "“Alpine” matches the established Swiss location while removing the repetitive construction and preserving Jin’s conversational narration.",
+      "replacement": "The sky was clear as hell, and the surrounding Alpine scenery was beautiful—a sharp contrast to the situation we were in.",
+      "severity": "minor",
+      "source": "Chapter 744, outside Siegfried’s Swiss hideout"
+    }
+  ],
+  "summary": "The packet preserves the major hooks, uncertainty, and spoiler boundary, but contains two terminology drifts, several conspicuous English-language errors, and one geographic inconsistency.",
+  "version": 1
+}

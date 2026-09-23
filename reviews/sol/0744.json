@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "After undergoing a thorough body search and a brief interrogation, we were released.",
+      "defect": "“Interrogation” makes the neutral 조사 sound more coercive and adversarial than the source.",
+      "id": "F01",
+      "rationale": "The source describes a short inquiry or questioning, not an explicitly coercive interrogation.",
+      "replacement": "After undergoing a thorough body search and brief questioning, we were released.",
+      "severity": "minor",
+      "source": "철저한 몸수색과 짧은 조사를 끝마친 뒤 풀려났다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Michael? Even getting dragged into this case would be a loss for us.”",
+      "defect": "The translation drops 그놈이, losing Taekyung’s contemptuous register, and obscures the incredulous reference to Michael deliberately letting them go.",
+      "id": "F02",
+      "rationale": "그놈 marks Michael contemptuously, while the elliptical question challenges the claim in the immediately preceding line that they were deliberately released.",
+      "replacement": "“That bastard Michael let us go on purpose? Just getting dragged into this case would already hurt us.”",
+      "severity": "minor",
+      "source": "“미카엘 그놈이? 일단 이번 사건에 엮이는 것만으로도 우리 입장에선 손해일 텐데?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And once the winner of that world’s greatest malicious-comment contest had been decided by the number of recommendations, some new fact would come to light and the situation would be reversed. Then the swarm would change its face in an instant.",
+      "defect": "“Number of recommendations” and “change its face” are literal calques that obscure the online-comment context and the idiomatic shift in attitude.",
+      "id": "F03",
+      "rationale": "추천 수 refers to user recommendations or upvotes, while 안면을 바꿨다 means that the commenters abruptly changed their attitude.",
+      "replacement": "And around the time the winner of that world’s greatest malicious-comment contest was crowned by upvotes, a new fact would emerge and turn the situation around, and the swarm would change its tune in an instant.",
+      "severity": "minor",
+      "source": "그리고 그렇게 열린 천하 제일 악플 대회에서 추천 수로 우승자가 가려질 때쯤, 새로운 사실이 밝혀지고 상황이 반전되면 벌떼들은 순식간에 안면을 바꿨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Because they no longer had a justification for hating them.*",
+      "defect": "The draft changes the concrete action of continuing to curse or abuse someone into the internal emotion of hatred.",
+      "id": "F04",
+      "rationale": "더 욕할 means to continue cursing, insulting, or attacking the target verbally; it does not simply mean continuing to hate them.",
+      "replacement": "*Because they no longer had an excuse to keep cursing them.*",
+      "severity": "minor",
+      "source": "‘더 욕할 명분이 없으니까.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Don’t open it here. Take it with you and examine it carefully.",
+      "defect": "The draft changes the explicit temporal restriction “not now” into a location-based restriction, “not here.”",
+      "id": "F05",
+      "rationale": "지금 specifies when Magic Johnson should not open the pocket; the following instruction to take it away does not license replacing that timing with a location.",
+      "replacement": "“Don’t open it now. Take it with you and examine it carefully.",
+      "severity": "minor",
+      "source": "“지금 열어 보진 마시고. 가져가서 자세히 살펴보세요."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Each time the scales covering a colossal creature spanning several meters shifted, the surrounding space alternately brightened and darkened.",
+      "defect": "The draft prematurely identifies the still-concealed “something” as a creature and changes its stated radius of several meters into an unspecified span.",
+      "id": "F06",
+      "rationale": "The source deliberately withholds the entity’s identity until the later eye reveal, and 반경 explicitly gives a radius rather than merely saying it spans several meters.",
+      "replacement": "Each time the scales covering something enormous, several meters in radius, shifted, the surrounding space alternately brightened and darkened.",
+      "severity": "major",
+      "source": "반경 수 미터에 이르는 거대한 무언가를 덮은 비늘이 움직일 때마다, 주위의 공간이 환해지고 어두워지길 반복했다."
+    }
+  ],
+  "summary": "One major suspense and quantity error, plus five localized fidelity, register, and natural-English issues.",
+  "version": 1
+}
