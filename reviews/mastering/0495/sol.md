@@ -16,13 +16,13 @@ I’d shit myself. At twenty-seven. Not peed myself—shit myself. In front of M
 
 *Ah, ahh. Anastasia!*
 
-*……Take your time cleaning up and come back.*
+*…Take your time cleaning up.*
 
 After a long silence, Mungyeong left me with those words.
 
 He seemed less concerned for me than he was about getting shit on his short sword. That damn old man.
 
-Every time I thought about what had just happened, I wanted to log out and never return to Murim again. To hell with Dark Heaven and everything else.
+Every time I remembered what had happened, I wanted to log out and never come back. To hell with Dark Heaven and everything else.
 
 *Should I just leave Murim altogether?*
 
@@ -82,13 +82,13 @@ He gave me a suspicious look, then pointed toward the people in the distance.
 
 “……”
 
-What was he, Detective Kindaichi?
+What was he, Wudang’s own Kindaichi?
 
-He must have completely lost his mind after helping with the Taiji Wisdom Sword just to obtain some bones, only to think someone had snatched them away.
+He’d gone so far as to use the Taiji Wisdom Sword to get his share of bones. The thought that someone had made off with them must have sent him over the edge.
 
-The more I listened, the more absurd it seemed, so I asked Hyuk Mujin,
+The more I listened, the more ridiculous it sounded.
 
-“How could anyone steal it? And it’s not like only a little went missing. It must be well over a thousand geun.[^1] How could anyone hide that without us noticing?”
+“How would anyone sneak that much away? It’s not some little scrap that’s missing. It must be over a thousand geun.[^1] Who could hide that without us noticing?”
 
 “Exactly. Hardly anyone even knows about this place—”
 
@@ -102,11 +102,11 @@ Mujin broke off and turned to me.
 
 “Just a rough guess. They’ve been making a racket over there for a while.”
 
-I answered as calmly as I could, but I felt a sudden stab of guilt.
+I kept my voice as steady as I could, but I’d given myself a scare.
 
-*He’s sharp. I need to watch what I say.*
+*Sharp bastard. I need to watch what I say.*
 
-The culprit Perfected Being Hyeongong had sworn to find was me.
+Because the culprit Hyeongong had sworn to find was me.
 
 Just thinking about the haul piled up in my Inventory made me feel full.
 
@@ -120,7 +120,7 @@ The sharpest tailbone. The unusually hard scales around its neck. Even some fles
 
 Pile up everything I’d smuggled away, and it would dwarf a decent-sized manor.
 
-“……Why are you smiling so contentedly?”
+“…Why are you smiling like that?”
 
 “Me? What smile?”
 
@@ -168,7 +168,7 @@ Ding.
 >
 > **Description:** The bones of the Water God Dragon, an imugi that lived for countless years. They are exceptionally strong and contain an unknown, mystical qi. A craftsman who has reached the proper realm may be able to draw out their true power.
 
-Although there were slight differences, the System’s description of the scales was similar.
+The Item Window described the scales in much the same way, with a few minor differences.
 
 They, too, were Supreme Peak materials of exceptional strength with mystical qi inside them. As for the flesh, eating it regularly over time could increase internal energy and stat points.
 
@@ -208,13 +208,13 @@ Having been contaminated by magical power, it couldn’t contain as much qi as t
 
 The Water God Dragon had lived for over five hundred years. By simple calculation, that meant it had accumulated at least ten jiazi of qi.
 
-From that perspective, the reduction in the Origin Essence’s power was practically a blessing in disguise.
+Seen that way, the loss of some of the Origin Essence’s power might even be a blessing in disguise.
 
 *Pour too much water into a small vessel, and it overflows.*
 
-As the final line of the item description suggested, even I would burst like a balloon if I tried to take in that much qi all at once.
+As the last line of the description warned, even I’d burst like a balloon if I took in that much qi at once.
 
-*The question is when and where to use it.*
+*The question is when to use it, and on whom.*
 
 Several faces came to mind. One old face in particular kept returning.
 
@@ -226,7 +226,7 @@ Strangely enough, it was because of Mungyeong’s poison.
 
 After Seven-Step Soul-Chasing Powder had cost me ten precious stat points, and a Severe Stomachache had made me shit myself, a thought had struck me.
 
-*If Seven-Step Soul-Chasing Powder did this much… What condition must Old Master be in after being poisoned by the Formless Ultimate Poison?*
+*If Seven-Step Soul-Chasing Powder did this to me, what state is Old Master in after the Formless Ultimate Poison?*
 
 Seven-Step Soul-Chasing Powder was undoubtedly an extreme poison, but it wasn’t enough to threaten the life of a Supreme Peak master.
 
@@ -236,21 +236,21 @@ Even the Luoyang Strange Physician, one of the most renowned physicians in the w
 
 *Fortunately, the Thousand-Year Snow Ginseng let us finish treating him…*
 
-But had he really recovered without any significant aftereffects?
+But had he really recovered without any aftereffects?
 
 I stared at the **Water God Dragon’s Origin Essence**, doubt and worry mingling in my mind.
 
-Perhaps this was an item whose purpose had been decided from the very beginning.
+Maybe I’d known what this was for from the moment I found it.
 
-“Little Brother!”
+“My youngest!”
 
 *Inventory open. Store.*
 
-I hurriedly put the **Water God Dragon’s Origin Essence** back into my inventory at Jin Wikyung’s shout from behind me, then turned around with an awkward smile.
+At Jin Wikyung’s shout from behind me, I hurriedly put the **Water God Dragon’s Origin Essence** away. Then I turned with a forced smile.
 
 “Yes, I’m coming!”
 
-Today had been a day of many satisfying gains.
+We’d gained plenty today. I ought to have been satisfied.
 
 Yet something weighed on my heart, and for some reason, my stomach felt as though it were twisting.
 
@@ -266,7 +266,7 @@ Humans were not the only creatures that settled near water. Animals did too.
 
 Birds nested along the cliffs above the broad waters of Dongting Lake. Wild boars, foxes, wolves, and even tigers lived there as well.
 
-If Dongting Lake below the cliffs was territory permitted to humans, then the cliffs above belonged to the animals.
+If the lake below the cliffs belonged to humans, the heights above belonged to the animals.
 
 It was a peaceful place untouched by human feet.
 
@@ -312,13 +312,13 @@ The tiger flinched.
 
 It couldn’t have said why, but every hair on its body stood on end. It approached the old man with uncertain steps.
 
-When the wrinkled hand gently scratched its chin, it felt good despite itself.
+When a wrinkled hand gently scratched under its chin, it felt good despite itself.
 
 - Prrrrr.
 
-Watching the great tiger purr, the old man—Fire King Jeok Cheongang—murmured softly.
+Watching the great tiger purr, the old man—Fire King Jeok Cheongang—murmured,
 
-“Yes. I’ve already grown old.”
+“Yes. Already old.”
 
 The sky above the cliff was clear. His heart was dark.
 
