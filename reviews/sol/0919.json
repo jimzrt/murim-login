@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A few months ago, while I was in Sichuan, the Slaughter Saint had casually mentioned him. He was one of the few things known about the Saint’s past, a past otherwise shrouded in mystery.",
+      "defect": "The draft makes the old man the subject of the Slaughter Saint’s earlier disclosure; the disclosed information was about Salcheonmun.",
+      "id": "F01",
+      "rationale": "The realization leads directly to Jin naming 살천문; the source does not say the Slaughter Saint mentioned this old man.",
+      "replacement": "A few months ago, while I was in Sichuan, the Slaughter Saint had mentioned Salcheonmun in passing. It was one of the few things he’d revealed about his otherwise shrouded past.",
+      "severity": "major",
+      "source": "몇 달 전 사천에 머무를 당시 살성이 지나가듯 언급했던, 모든 것이 베일에 싸여 있는 그의 과거에서 유일하게 드러난 몇 안 되는 정보였으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Judging by that, it definitely wasn’t some Salcheonmun class reunion.",
+      "defect": "The specific twelfth cohort is omitted from the reunion joke.",
+      "id": "F02",
+      "rationale": "12기 specifies the cohort, adding a deliberately mundane detail to the joke.",
+      "replacement": "Judging by that, it definitely wasn’t a reunion for Salcheonmun’s twelfth class.",
+      "severity": "minor",
+      "source": "보아하니 살천문 12기 동문회, 뭐 그런 목적이 아닌 건 확실하다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "not to level up even after killing an enemy a full 140 levels high",
+      "defect": "“140 levels high” suggests a 140-level difference rather than an enemy whose Level is 140.",
+      "id": "F03",
+      "rationale": "140레벨의 적 identifies the enemy’s Level, not the gap between the enemy and Jin.",
+      "replacement": "not to level up even after killing a Level 140 enemy",
+      "severity": "critical",
+      "source": "무려 140레벨의 적을 죽여도 레벨이 오르지 않을 정도로"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> You have defeated [Lv. 140 Gye Yabu]!\n>\n> You have gained a large amount of Fame!\n>\n> You have gained a large amount of EXP!\n>\n> If this becomes known, you will be pursued by the [Salcheonmun].\n>\n> The [Salcheonmun] will not forget [Gye Yabu]’s death.",
+      "defect": "The System window retains source-style square brackets around names and the Level designation, contrary to the packet’s Markdown rule.",
+      "id": "F04",
+      "rationale": "The framed System panel already distinguishes notices and UI terms; the binding rule expressly excludes square brackets around them.",
+      "replacement": "> **System**\n>\n> You have defeated Lv. 140 Gye Yabu!\n>\n> You have gained a large amount of Fame!\n>\n> You have gained a large amount of EXP!\n>\n> If this becomes known, you will be pursued by the Salcheonmun.\n>\n> The Salcheonmun will not forget Gye Yabu’s death.",
+      "severity": "major",
+      "source": "- [Lv.140 계야부]를 처치하셨습니다!\n\n- 대량의 명성을 획득하셨습니다!\n\n- 대량의 경험치를 획득하셨습니다!\n\n- 이 사실이 알려질 시, 당신은 [살천문]의 추적을 받게 됩니다.\n\n- [살천문]은 [계야부]의 죽음을 잊지 않을 것입니다."
+    }
+  ],
+  "summary": "The draft has two substantive fidelity errors and two actionable presentation or detail omissions.",
+  "version": 1
+}

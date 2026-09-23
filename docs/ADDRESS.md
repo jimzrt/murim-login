@@ -1423,3 +1423,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 동천마군 | 금우궁 | master to commanded undead subordinate | Fire King | commanding | The Eastern Heaven Demon Lord’s bell-imprinted order directs Golden Ox Palace to kill the Fire King. |
 | 동천마군 | 천살 | summoner_to_assassin | Heaven's Slaughter | controlled, familiar command | The Eastern Heaven Demon Lord calls him out as a concealed last resort. |
 | 동천마군 | 진태경 | enemy recognizing the spear wielder | Jin Taekyung | shouted, informal | The Demon Lord cries Taekyung's name after identifying him as the spear's owner. |
+| 계야부 | 문경 | former Salcheonmun associate | Mungyeong | informal | Asks whether Mungyeong is still the same. |

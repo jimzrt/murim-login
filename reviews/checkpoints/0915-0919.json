@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "[Lv. 140 Gye Yabu]",
+      "defect": "The roster uses square brackets around a UI label.",
+      "id": "C01",
+      "rationale": "The formatting rules prohibit square brackets around UI terms. This floating roster is not a System-message panel.",
+      "replacement": "Lv. 140 Gye Yabu",
+      "severity": "minor",
+      "source": "Chapter 919, floating character roster"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Salcheonmun vowed to pursue Mungyeong, the Slaughter Saint, regardless of the cost or delay.",
+      "defect": "The state attributes Gye Yabu’s vow to the sect as a whole.",
+      "id": "C02",
+      "rationale": "Chapter 919 establishes what Gye Yabu said, not an independently confirmed commitment by the sect. The checkpoint summary already preserves that distinction.",
+      "replacement": "Gye Yabu vowed that the Salcheonmun would pursue Mungyeong, the Slaughter Saint, regardless of the cost or delay.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.96,
+      "current": "My long-lost weapon, White Flame, at last, cut through bone and flesh like tofu and reached his heart.",
+      "defect": "The commas strand “at last” between the subject and verb, disrupting the action.",
+      "id": "C03",
+      "rationale": "Moving the adverb preserves the action and emphasis while making the sentence read naturally.",
+      "replacement": "At last, my long-lost weapon, White Flame, cut through bone and flesh like tofu and reached his heart.",
+      "severity": "minor",
+      "source": "Chapter 919, Gye Yabu’s death"
+    }
+  ],
+  "summary": "The reading copies and checkpoint state are largely consistent. Three localized issues are actionable.",
+  "version": 1
+}

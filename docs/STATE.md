@@ -1,24 +1,24 @@
 # Translation State
 
-- Last completed: 918
-- Next chapter: 919
-- Current block: 915–919 (4/5)
-- Latest translation: `translations/0918.md`
-- Latest summary: `summaries/beats/0918.md`
-- Safe profiles through: chapter 918
+- Last completed: 919
+- Next chapter: 920
+- Current block: 915–919 (5/5)
+- Latest translation: `translations/0919.md`
+- Latest summary: `summaries/beats/0919.md`
+- Safe profiles through: chapter 919
 
 ## Current Block
 
-- Jin Taekyung returns at the last moment, hurling a blazing spear that interrupts Heaven's Slaughter's ambush on Jeok Cheongang. Taekyung appears healed and restored despite having been at death's door, though the cause is unexplained. Jeok tearfully thanks him for coming back, and the two prepare to face their enemies together.
-- Heaven's Slaughter watches his elite assassins fall and weighs escape against his mission, but Dark Heaven's coercion leaves him believing he has no choice. Seeing Jeok exhausted, he launches another ambush; Taekyung spots him through his concealment, but Heaven's Slaughter's attack reaches his chest.
+- Jin Taekyung and Jeok Cheongang spring their trap on the concealed assassin Gye Yabu and his remaining followers. Taekyung kills Gye Yabu, learns that the Salcheonmun will pursue the Slaughter Saint, and receives a System warning that the sect will also pursue him if his role becomes known.
+- The Eastern Heaven Demon Lord survives but is left without limbs. He reveals that his rebellion reaches far beyond the banquet hall and that he holds information about Dark Heaven and the Lord of Heaven. As thousands of soldiers arrive, a tremendous beam of light strikes them, and the Demon Lord cries out So Gyo’s name.
 
 ## Open Questions
 
 - What enabled Jin Taekyung to return from his seemingly fatal injuries?
-- What is the outcome of Heaven's Slaughter's strike on Jin Taekyung?
-- Will Jeok Cheongang and Jin Taekyung defeat Heaven's Slaughter?
-- Did the Eastern Heaven Demon Lord survive the spear's impact?
-- What is So Gyo's identity and allegiance?
+- Will the Salcheonmun pursue Mungyeong, and will it discover Taekyung killed Gye Yabu?
+- What happened to the thousands of soldiers struck by the beam of light?
+- What is So Gyo's identity and allegiance, and why did the Eastern Heaven Demon Lord call her name?
+- What information does the Eastern Heaven Demon Lord hold about Dark Heaven and the Lord of Heaven?
 
 ## Exceptional Decision
 
