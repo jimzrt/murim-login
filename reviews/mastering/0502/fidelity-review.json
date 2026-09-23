@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He stared in silence at the man blocking it before asking, “How did you know I was here?”",
+      "defect": "This repeats the preceding sentence’s description of Jeok Cheongang silently staring at the man blocking the cave entrance before speaking. The Korean has that action only once.",
+      "id": "F01",
+      "rationale": "The source describes the silent stare once, then has Jeok Cheongang ask how Mungyeong found him.",
+      "replacement": "“How did you know I was here?”",
+      "severity": "minor",
+      "source": "Lines 43–45; assembled P20–P21"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A fine sword kept its edge no matter how many years passed.",
+      "defect": "The source specifically attributes the sword’s lasting sharpness to the skill of the blacksmith who forged it; this version omits that image.",
+      "id": "F02",
+      "rationale": "The Korean says that a sword forged by an outstanding blacksmith does not grow dull with time; the accepted baseline preserves the forging image.",
+      "replacement": "A sword forged by a master blacksmith never lost its edge, no matter how many years passed.",
+      "severity": "minor",
+      "source": "Line 59; assembled P27"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Reading the confidence in Mungyeong’s calm expression, Jeok Cheongang muttered,",
+      "defect": "The narration omits the source’s statement that an assassin is a master of assassination and pursuit, which the accepted baseline preserves.",
+      "id": "F03",
+      "rationale": "살수는 암살과 추격의 달인이다 explicitly characterizes an assassin’s expertise in both assassination and pursuit.",
+      "replacement": "An assassin was a master of assassination and pursuit.\n\nReading the confidence in Mungyeong’s calm expression, Jeok Cheongang muttered,",
+      "severity": "minor",
+      "source": "Line 69; assembled P31–P32"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had simply laughed because he did not know what else to do.",
+      "defect": "The translation drops the explicit contrast that he was laughing neither from happiness nor from feeling hollow.",
+      "id": "F04",
+      "rationale": "The Korean explicitly rules out both happiness and 허탈함 before explaining that he laughed because he did not know what else to do; the accepted baseline preserves both contrasts.",
+      "replacement": "He hadn’t laughed because he was happy or because he felt hollow. He had simply laughed because he did not know what else to do.",
+      "severity": "minor",
+      "source": "Lines 227–229; assembled P100–P101"
+    }
+  ],
+  "summary": "The assembled copy is mostly faithful, but it duplicates an action and drops several source details preserved in the accepted baseline.",
+  "version": 1
+}

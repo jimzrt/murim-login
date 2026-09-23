@@ -8,17 +8,17 @@ At the sudden voice behind him, the old man sitting cross-legged with his eyes c
 
 “Not my problem. Still, it’s narrower than I expected. Absurdly so.”
 
-“It has to be narrow. I didn’t set aside any room for uninvited guests.”
+“It would be. I didn’t make room for uninvited guests.”
 
-“Was it around seven days and nights ago? I’m sure I said something similar to someone…”
+“Was it seven days and nights ago? I’m sure I said something similar to someone…”
 
 For some reason, the old man’s small back shuddered at those words.
 
 Before his uninvited guest could wonder why, a sharp voice cut through the cave.
 
-“Leave. You’re disturbing my meditation.”
+“Leave. You’re disturbing my training.”
 
-“Continue your meditation. I’ll personally stand guard for you.”
+“Keep training. I’ll personally stand guard.”
 
 The old man—Jeok Cheongang, the Fire King—opened his eyes.
 
@@ -26,7 +26,7 @@ The darkness gave way to damp cave walls mottled with moss. A testy voice escape
 
 “You expect this old man to let the Slaughter Saint stand guard over him? What a ridiculous joke.”
 
-“I thought you could trust me with an old man’s life, if not your precious Disciple’s. Was I mistaken?”
+“I thought you might trust me with your old life, even if you wouldn’t trust me with your precious Disciple’s. Was I wrong?”
 
 “…!”
 
@@ -35,8 +35,6 @@ Jeok Cheongang’s eyelids trembled. Then—
 *Shuuk.*
 
 Still sitting cross-legged, his small figure rose into the air, turned slowly, and landed facing the cave entrance.
-
-Jeok Cheongang silently stared at the man blocking the narrow cave entrance before suddenly opening his mouth.
 
 He stared in silence at the man blocking it before asking, “How did you know I was here?”
 
@@ -58,7 +56,7 @@ More than forty years had passed, and the blade called the Slaughter Saint was a
 
 “It would have taken me a little longer.”
 
-Reading the confidence in Mungyeong’s calm expression, Jeok Cheongang muttered,
+Assassins were masters of both killing and pursuit. Reading the confidence in Mungyeong’s calm expression, Jeok Cheongang muttered, “Damn it. What an obnoxious assassin.”
 
 “I can hear you.”
 
@@ -66,7 +64,7 @@ Reading the confidence in Mungyeong’s calm expression, Jeok Cheongang muttered
 
 “Cursing me out of nowhere. What a foul-tempered host.”
 
-“Are you any better, barging in on someone’s secluded meditation without warning?”
+“Not as foul-tempered as someone who barges in on another man’s secluded meditation.”
 
 “The Fire King, in secluded meditation.”
 
@@ -82,7 +80,7 @@ Cracked lips. Knobby bones standing out beneath his skin. Mungyeong’s gaze dar
 
 From his gaunt appearance, he clearly hadn’t eaten a thing in seven days and nights—not even taken a drop of water. Even for a Supreme Peak master, that would take a toll.
 
-“You’re doing something foolish.”
+“You’re being a fool.”
 
 Jeok Cheongang understood what Mungyeong meant. A fierce light shone from his sunken eyes.
 
@@ -198,7 +196,7 @@ Jeok Cheongang had let them flow downriver without gaining the slightest enlight
 
 He had laughed like that on the day the infirmities of old age first came upon him.
 
-He had simply laughed because he did not know what else to do.
+Not out of happiness or resignation. He had laughed because he didn’t know what else to do.
 
 It was only when that first lost half-day became two full days that Jeok Cheongang knew what he had to do.
 
@@ -214,19 +212,19 @@ After meeting Jin Taekyung, though, Jeok Cheongang had realized that wasn’t th
 
 His gaze and tone had changed. Both were gentler than Mungyeong had ever known them.
 
-“If I am not here, become that boy’s dependable shelter. Become his new Master.”
+“If I’m no longer here, be a shelter for that boy. Be his new Master.”
 
 A deep furrow formed on Mungyeong’s smooth forehead. He stared at Jeok Cheongang through narrowed eyes.
 
 “Do you mean that?”
 
-“More than anything I have ever said.”
+“More than anything.”
 
 “Why?”
 
 “Just as I said. I have no time left.”
 
-“What is this…”
+“What are you…”
 
 A new Master, out of nowhere? No time left?
 
@@ -240,13 +238,11 @@ This was too soon.
 
 Jeok Cheongang bowed his head. The Fire King himself.
 
-Mungyeong was faced with a sight no one else in the Murim had ever witnessed: the Fire King Jeok Cheongang lowering his head before another person.
-
-He was so bewildered that he could hardly believe what he was seeing.
+Faced with a sight no one else in Murim had likely ever seen, Mungyeong was at a loss.
 
 “Why? Seven days and nights ago, you were clearly…”
 
-Mungyeong’s voice cut off abruptly. He swallowed the rest of his words and silently stared at the ripples stirring in Jeok Cheongang’s eyes.
+His voice stopped. He swallowed the rest and stared at the disturbance in Jeok Cheongang’s eyes.
 
 A thought struck him in the suffocating silence.
 
@@ -254,9 +250,9 @@ A thought struck him in the suffocating silence.
 
 If he was right, it explained everything: Jeok Cheongang’s excessive worry, his disappearance from Jin Taekyung and the others, and his strange reactions throughout their conversation.
 
-“It wasn’t seven days and nights ago, was it?”
+Mungyeong spoke on a sigh. “It wasn’t seven days and nights ago, was it?”
 
-“No. It was definitely seven days and nights ago.”
+“No. It was seven days and nights.”
 
 Jeok Cheongang smiled bitterly.
 
@@ -272,13 +268,13 @@ The first uninvited guest, arriving a step ahead of Mungyeong, had been the infi
 
 “Sichuan? But when I took your pulse, you were clearly…”
 
-“The symptoms appeared immediately after I left Sichuan. After that, I did my best to avoid you.”
+“The symptoms appeared just after we left Sichuan. After that, I took care to avoid you.”
 
 Why had he hidden it? Why?
 
 The question died on Mungyeong’s tongue. He already knew.
 
-How much fear he felt when he discovered that his mind had begun to come and go because of the infirmities of old age.
+He knew how small a person could feel on realizing he had grown old. How frightening it was to discover that the infirmities of old age were making his mind come and go.
 
 Seeing Mungyeong fall silent, Jeok Cheongang gave a rueful smile.
 
@@ -300,6 +296,6 @@ Jeok Cheongang had searched desperately for a way to stop it, to no avail.
 
 “So that’s why you began this secluded meditation.”
 
-“I wanted to live as the Fire King Jeok Cheongang. Not as an old man with infirmities who cannot even remember his own name, but as the current Sect Leader of the Fire Gate Clan and someone’s Master.”
+“I wanted to live as Jeok Cheongang, the Fire King. Not as an old man who couldn’t remember his own name, but as the current Sect Leader of the Fire Gate Clan and someone’s Master.”
 
 His desolate voice echoed through the cave. Drops gathered on the damp ceiling and fell, like an old man’s tears.
