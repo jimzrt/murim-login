@@ -1,9 +1,9 @@
 # The Prophet (선지자)
 
-- **Safe through:** Chapter 812
+- **Safe through:** Chapter 813
 - **Aliases:** Muninn (무닌)
-- **Role:** The Prophet is a monster revealed as Yamamoto Genji, who Jin concludes has been the same Muninn for more than thirty years and taught Michael Silbert to use magical power.
+- **Role:** The Prophet is a Level 170 Doppelganger titled “The Final Abyss,” who concealed itself for decades as Muninn.
 - **Personality:** Religiously fervent, commanding, and shrouded in an intentionally indistinct identity.
 - **Voice:** Mysterious, genderless, and age-indeterminate, speaking in solemn religious imperatives.
-- **Relationships:** The Prophet commands the ten warriors, is revered by the followers, and secretly communicates with Michael Silbert through a magic mirror.
+- **Relationships:** The Prophet commands the ten warriors and is revered by its followers; it made a pact with Michael Silbert during the 2020 Battle of Paris, where Michael killed the surviving humans in exchange for being spared.
 - **Sources:** Korean source and accepted translation, Chapter 738

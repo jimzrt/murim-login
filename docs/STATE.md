@@ -1,22 +1,20 @@
 # Translation State
 
-- Last completed: 812
-- Next chapter: 813
-- Current block: 810–814 (3/5)
-- Latest translation: `translations/0812.md`
-- Latest summary: `summaries/beats/0812.md`
-- Safe profiles through: chapter 812
+- Last completed: 813
+- Next chapter: 814
+- Current block: 810–814 (4/5)
+- Latest translation: `translations/0813.md`
+- Latest summary: `summaries/beats/0813.md`
+- Safe profiles through: chapter 813
 
 ## Current Block
 
-- Jin Taekyung blocks the canyon exit with the Skeleton King and confronts Magic Johnson, having reviewed the evidence about The Prophet and Michael Silbert. Jin concludes that The Prophet was not the fifth Muninn: one individual had been Muninn for more than thirty years and taught Michael to use magical power.
-- Jin questions why Johnson helped him and admits he still doubts that a monster could use mana and potions. Johnson answers that he helped because they are friends, then raises his staff as the Skeleton King’s forces fill the canyon.
-- Jin’s flash blinds the group, letting him strike Yamamoto Genji. As Genji staggers, Jin asks what he is; Genji is revealed to be The Prophet.
+- Jin uses the Truthful Eye on The Prophet and discovers he is a Level 170 Doppelganger titled “The Final Abyss.” The creature reveals that it met Michael Silbert during the 2020 Battle of Paris, made a pact with him, and had him kill the surviving humans in exchange for his own survival. When Jin asks why the Doppelganger wanted to live among humans, a distant tremor interrupts.
 
 ## Open Questions
 
-- What will happen in the confrontation between Jin and The Prophet?
-- What unresolved pieces of evidence are needed to complete Jin’s understanding of the conspiracy?
+- Why did the Doppelganger want to live among humans?
+- What is causing the tremor in the canyon?
 - Is Magic Johnson human?
 
 ## Exceptional Decision

@@ -1,6 +1,6 @@
 # Yamamoto (야마모토)
 
-- **Safe through:** Chapter 812
+- **Safe through:** Chapter 813
 - **Aliases:** None
 - **Role:** Yamamoto Genji is revealed to be The Prophet, the monster who has posed as Muninn.
 - **Personality:** Prideful and easily offended, prone to self-aggrandizement and self-serving assumptions, and cowardly under mortal threat.
