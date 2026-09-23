@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 887
-- Next chapter: 888
-- Current block: 885–889 (3/5)
-- Latest translation: `translations/0887.md`
-- Latest summary: `summaries/beats/0887.md`
-- Safe profiles through: chapter 887
+- Last completed: 888
+- Next chapter: 889
+- Current block: 885–889 (4/5)
+- Latest translation: `translations/0888.md`
+- Latest summary: `summaries/beats/0888.md`
+- Safe profiles through: chapter 888
 
 ## Current Block
 
-- Jin Taekyung confronts So Gyo after she reveals she can read the instability in his internal energy and has concealed the strength of a Supreme Peak master. Her knowledge of his past opponents and her stated interest in the imperial palace’s intelligence network lead him to suspect she serves Dark Heaven and sought to control the Emperor, though her identity and allegiance remain unconfirmed. Taekyung refuses to back down, saying he is willing to die if it means fewer of his people will be killed. So Gyo draws a flexible sword and bears down on him with overwhelming internal energy; Taekyung withstands the pressure through his superhuman physical ability, breaks free, and strikes her with the Flame-Extinguishing Divine Fist. She lands lightly and appears unhurt. Though his dantian is overtaxed and his internal energy weakened, Taekyung charges again, just as a streak of light hurtles toward him.
+- Baek Yeon arrives to confront Jin Taekyung alongside So Gyo. Taekyung prepares to fight but stops when So Gyo reveals that Prince Shangshan remains in the Emperor’s power and says she has a mission to keep Taekyung alive. Taekyung infers that the Lord of Heaven still wants him alive, returns Baek Yeon’s weapon, and leaves rather than risk Shangshan’s life. He intends to face the coming imperial banquet as the decisive battleground.
 
 ## Open Questions
 
 - Who is So Gyo, and whom does she serve?
-- Who or what is the streak of light approaching Taekyung?
-- Will the banquet become a confrontation, and what does the Emperor intend?
+- Why does the Lord of Heaven want Taekyung alive, and what mission was So Gyo given?
+- What does the Emperor intend at the banquet, and will it become a confrontation?
 - Did the Emperor or Dark Heaven use Blood Soul Gu against the late Emperor and the City Lord of Sichuan Province?
 - What preparations has Ma Sanbao’s faction made, and who is the person his allies asked about?
 
