@@ -2,7 +2,7 @@
 
 *Click.*
 
-The short call ended. The signal ringing from the smartphone stopped, but the hand Choi Minwoo had raised to his ear did not come down easily.
+The short call ended. The signal from the smartphone stopped, but Choi Minwoo kept the phone to his ear.
 
 He crossed the Green Garden in front of the Blue House residence, his expression conflicted. His steps had slowed. One thought filled his mind.
 
@@ -40,9 +40,9 @@ Butler Kim’s next words confirmed Choi’s suspicion.
 
 “We were waiting to escort you.”
 
-“I’m sorry. Given where I was, I failed to check in time. More importantly, I heard that Mr. Jin Taekyung defeated a named monster. What is the current situation?”
+“I’m sorry. Given where I was, I didn’t check my phone in time. More importantly, I heard Mr. Jin Taekyung defeated a named monster. What’s the situation now?”
 
-“As you said, the named monster that appeared during this wave, the Kraken, has been eliminated. However, over a thousand Mermen have spread throughout Haeundae and Gwangalli.”
+“As you heard, the Kraken—the named monster that appeared during this wave—has been eliminated. Over a thousand Mermen have spread through Haeundae and Gwangalli.”
 
 “The damage must be severe,” Choi said quietly.
 
@@ -58,13 +58,13 @@ But Butler Kim calmly shook his head.
 
 “Ah.”
 
-The face of the blond foreigner who always wore an arrogant, self-assured expression flashed before Choi Minwoo's eyes. He gave a small exclamation and nodded.
+The blond foreigner’s perpetually arrogant, self-assured face flashed through Choi’s mind. He nodded.
 
 *With him there, it’s possible.*
 
 Only a handful of people knew the truth about the undead monster caught in an identity crisis between monster and American. Choi also knew he was every bit as powerful as an S-rank Hunter.
 
-“Yes. Fortunately, thanks to the efforts of those two, the damage is not particularly severe.”
+“Yes. Thanks to those two, the damage has not been as severe as we feared.”
 
 It was extraordinary luck. Jin Taekyung and the Skeleton King were each a one-man army. And unlike the Skeleton King, whose abilities came with various restrictions, Jin Taekyung ranked among the strongest in Korea. No, in the entire world.
 
@@ -88,7 +88,7 @@ Choi’s reply was quiet and final, but his lips moved again as he walked toward
 
 The words reached Butler Kim’s ear through what could no longer properly be called message magic. It was Sound Transmission.
 
-—He has requested a meeting.
+—He’s asked to meet me.
 
 “……!”
 
@@ -120,7 +120,7 @@ Still, not everyone avoided *Yeti’s Winter Range*. Some Hunters continued to v
 
 “……You’re worse than a yeti. We couldn’t even get into the Gate because the magic power went up, and you’re asking about pay? Have you got no shame?”
 
-“Aw, I got my hopes up for nothing. By the way, who were those people up there? The handsome guy wearing the mask looked kind of familiar.”
+“Aw, there goes my money. Anyway, who were those people up there? That good-looking guy in the mask seemed kind of familiar.”
 
 “Beats me. How would I know—huh?”
 
@@ -128,7 +128,7 @@ The thirty-odd Hunters came down the path grumbling. Their Team Leader, walking 
 
 A man was walking up toward them at an unhurried pace.
 
-“Tsk, tsk. Looks like he’s going to strike out too.”
+“Tsk. Looks like he’s going to come away empty-handed too.”
 
 The man had obviously come for a raid. The Team Leader called out to him. He looked to be in his forties.
 
@@ -140,23 +140,23 @@ The Team Leader clicked his tongue. “Then you’re out of luck too, Boss. Don�
 
 “……”
 
-“They say the magic power reading suddenly went up or something. Anyway, entry’s prohibited. That’s why we got turned back too.”
+“Magic power reading went up suddenly, or something. Anyway, no one’s allowed in. That’s why we’re heading back.”
 
 “……”
 
 “……Hello? Did you hear me?”
 
-The Team Leader frowned when he sensed something strange. Without answering a single word, the middle-aged man who had merely listened to him walked past the group.
+The Team Leader frowned. The man had listened to everything without saying a word, and now he simply walked past them.
 
 *Step. Step.*
 
 “What’s with that guy?” the Team Leader muttered as the man receded up the path.
 
-To the middle-aged man, however, the Team Leader's goodwill was nothing more than needless meddling.
+To the middle-aged man, however, the warning was nothing but needless meddling.
 
 *Clatter.*
 
-The man rode the lift up with a slight jolt and found dozens of pairs of eyes waiting for him.
+The lift carried him up with a slight jolt. At the top, dozens of pairs of eyes turned toward him.
 
 A Hunter who looked quite capable stepped forward to bar his way.
 
@@ -170,7 +170,7 @@ Two people stood at the end of the path they made.
 
 “You’re late.”
 
-At Choi Minwoo's flat voice, the middle-aged man whose appearance had been changed by an illusion spell—Song Cheonwoo—finally parted his tightly closed lips.
+The middle-aged man—Song Cheonwoo, his appearance changed by an illusion spell—finally spoke at Choi Minwoo’s flat greeting.
 
 “I had to be careful. And you were the one who chose this place, Minwoo.”
 
@@ -196,7 +196,7 @@ Song Cheonwoo’s eyelids trembled at Butler Kim’s glacial stare.
 
 Once, they had been close enough to call each other brothers. Then their paths had split between loyalty and ambition.
 
-As an icy chill settled between them, a quiet voice rang out.
+As the chill settled between them, Choi spoke.
 
 “I believe there’s something more important we need to discuss first.”
 
@@ -222,7 +222,7 @@ The three men remained unmoved by the bitter cold and the chilling cry. They wer
 
 Song gave a bitter smile at the direct demand.
 
-“Although I have not watched you for long… your personality has not changed.”
+“I haven’t seen much of you over the years, but… you haven’t changed.”
 
 “Just get to the point. I don’t think I’m asking much.”
 
@@ -286,32 +286,32 @@ Song’s eyes widened at the unexpected question.
 
 “I put in more effort than you might imagine. What I need now isn’t praise, though. I need details. What does Area A have to do with my maternal grandfather’s safety?”
 
-“Because that person is there.”
+“He’s there.”
 
 *Crunch.*
 
 Choi stopped dead at those two words. After a moment of silence, he began walking again.
 
-“That information is not certain.”
+“You can’t be certain of that.”
 
 “Why do you say that?”
 
-“You were pushed out of the Ares Guild's inner circle long ago, Director Song.”
+“You were pushed out of the Ares Guild’s inner circle long ago, Regional Director.”
 
 “……That stings. But you’re right. I can’t be certain.”
 
 “I also can’t see why my maternal grandfather would be there. No—I can’t understand it.”
 
-“A reason……”
+“Why…”
 
 Song sighed softly.
 
-“You wouldn’t understand. No one knows what happened to that person—not even you.”
+“Of course you can’t. No one knows what happened to him. Not even you.”
 
 “What are you—”
 
-Choi Minwoo turned to him with a questioning expression. Then, at the next words, he froze.
+Choi turned to him, questioning. Song’s next words stopped him cold.
 
-“It happened more than twenty years ago. That person lost consciousness.” 
+“It’s been more than twenty years since he lost consciousness.”
 
 “……!”

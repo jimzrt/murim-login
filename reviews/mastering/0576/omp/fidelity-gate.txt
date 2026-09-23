@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled translation is faithful overall, with one minor overstatement in Butler Kim’s response.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 217–219",
+      "current": "Do not call me by my name.",
+      "defect": "The Korean says not to address him by name casually or presumptuously (함부로), rather than forbidding the use of his name outright.",
+      "replacement": "Don't presume to call me by my name.",
+      "rationale": "The omitted qualification changes the force of Butler Kim’s rebuke: he objects to Song’s presumption, not necessarily to the name itself.",
+      "confidence": 0.91
+    }
+  ]
+}
