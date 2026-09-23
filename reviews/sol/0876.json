@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "So get the hell out of my way. Unless you want to keep wearing that shiny armor.",
+      "defect": "The condition is reversed: Hong Jin threatens their positions if they do not move.",
+      "id": "F01",
+      "rationale": "The source makes continued service in uniform conditional on obeying him.",
+      "replacement": "So get the hell out of my way, if you want to keep wearing that shiny armor.",
+      "severity": "critical",
+      "source": "그러니 썩 꺼져. 앞으로도 그 번쩍이는 갑옷을 걸치고 싶다면."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Two hours had passed since his young lord left to meet the Emperor.",
+      "defect": "Two shichen are approximately four hours, not two.",
+      "id": "F02",
+      "rationale": "The draft halves the elapsed time that drives Hong Jin’s anxiety.",
+      "replacement": "Around four hours had passed since his young lord left to meet the Emperor.",
+      "severity": "critical",
+      "source": "어린 주군이 황제를 알현하기 위해 떠난 지 어언 두 시진."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just as Hong Jin clenched his teeth without realizing it—",
+      "defect": "He bites his lip, not clenches his teeth.",
+      "id": "F03",
+      "rationale": "The source specifies a different physical action.",
+      "replacement": "Just as Hong Jin bit down hard on his lip without realizing it—",
+      "severity": "critical",
+      "source": "홍진이 자신도 모르게 입술을 질끈 깨문 그때였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Well, it definitely wasn’t a dragon, since it couldn’t fly through the sky.",
+      "defect": "The draft claims the creature was unable to fly; Hyuk says only that it did not fly.",
+      "id": "F04",
+      "rationale": "Not observing flight does not establish an inability to fly.",
+      "replacement": "Well, it didn’t fly through the sky, so it definitely wasn’t a dragon—it was an imugi.",
+      "severity": "critical",
+      "source": "뭐 그래도 하늘을 날아다니지는 않았으니 용이 아니라 이무기였던 건 확실합니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Oh, and he was a Supreme Peak master who looked about a hundred years old.",
+      "defect": "The draft invents a numerical apparent age; the source says he looked much older than his age.",
+      "id": "F05",
+      "rationale": "겉늙었음 describes premature aging, not an appearance of being a hundred.",
+      "replacement": "Oh, and he was a Supreme Peak master who looked way older than he was.",
+      "severity": "major",
+      "source": "아, 초절정 고수고 엄청 겉늙었음."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Carrying an heir.”",
+      "defect": "Hong Jin says a formal word for pregnancy, not that the child is already an heir.",
+      "id": "F06",
+      "rationale": "This preserves his more formal register against Taekyung’s blunt “Pregnant” without adding a claim about succession.",
+      "replacement": "“With child.”",
+      "severity": "major",
+      "source": "“회임(懷妊).”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I paid a thousand nyang for that information",
+      "defect": "The draft changes the stated payment from a thousand in gold to a thousand nyang.",
+      "id": "F07",
+      "rationale": "천금 specifies gold; nyang is not stated here.",
+      "replacement": "I paid a thousand gold pieces for that information",
+      "severity": "major",
+      "source": "천금(千金)이나 주고 구한 정보였는데"
+    },
+    {
+      "confidence": 0.94,
+      "current": "would you be willing to spend another thousand nyang?",
+      "defect": "Hyuk refers back to the same payment in gold, not nyang.",
+      "id": "F08",
+      "rationale": "His proposed deal repeats the source’s 천금 amount.",
+      "replacement": "would you be willing to spend another thousand gold pieces?",
+      "severity": "major",
+      "source": "혹시 천금 한 번 더 쓰실 용의 있으십니까?"
+    }
+  ],
+  "summary": "Several scene facts change in the draft, including a reversed threat, elapsed time, and physical actions. The ending also adds certainty to Hong Jin’s formal wording.",
+  "version": 1
+}

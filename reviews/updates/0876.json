@@ -1,0 +1,83 @@
+{
+  "chapter": 876,
+  "files": {
+    "characters/Divine Physician.md": "3de1f8e5a93c04e8a977dadc6905f5851ff36752f5559f9e89cbdbe61f3583b0",
+    "characters/Hong Jin.md": "e93f09e2ef790eb250d649f2e95419fdd684419d0e503f4ed665fd355239e149",
+    "characters/Human Butcher.md": "d79679d14ce5b252f53df8ca8bb10ab2581debc53faf81c701284c0e650a434c",
+    "characters/Hyuk Mujin.md": "918925b4e066cc88460a76808b6b79048b892813f22abf9986d0f8d48c01222a",
+    "characters/Jin Taekyung.md": "330e40f40057700a658fd560e57a5a9ed71c39634b3ec4f6f0830ae147a64a4c",
+    "characters/Jintae.md": "0624e3afd81f243d7fe30310b07a235f09f07f93bfd5467083df73d748f95400",
+    "characters/Jung Ho.md": "88bd394265e6f51bf7c0b3221f38d53a0091e34d181851782708853ab30fe545",
+    "characters/Li Feng.md": "97c5c9d3715266a6bc2bf6adf52c3f57d4676f7530306d60c5bee88630145dbc",
+    "characters/Ma Sanbao.md": "73d85108fce06b92873109acf8db60adede7b3bf586f8168d15e12553c773a01",
+    "characters/Prince Shangshan.md": "811e9bbf9b17eed4a564a962f2c6bdbfe410b7c2cf24d2a1853578d647fd108b",
+    "docs/ADDRESS.md": "d9384e9ac1b5e8435b4526eb3ad43743df747a3184af7f49792e9027db164ec5",
+    "docs/CONTEXT.json": "29489f2cdfe0319533f71686539f46196be6358ce735568e5d392a127f5ae59f",
+    "docs/STATE.md": "0aea29b7f873b9274db2c7f5841cd05f2f2643179a72f41ef2c2411f08263d93",
+    "summaries/beats/0876.md": "e24deac7c01b4ec99eec062cba723336ff08c9eafea5f0ad09eeaa3045e56fd0"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "홍진",
+        "kinship": "martial artist addressing a senior official and political ally",
+        "normal_address": "Comrade Hong",
+        "notes": "Hyuk Mujin addresses Hong Jin as 홍 동지님 while trying to calm him and de-escalate the confrontation.",
+        "speaker": "혁무진",
+        "speech_level": "casual and coaxing"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Emperor has confined Prince Shangshan in Qianqing Palace; Taekyung returns without the prince, and Hong Jin fears the Emperor has moved against him.",
+        "Taekyung reports that Aehyang, the City Lord of Sichuan Province’s former concubine, is in Qianqing Palace. Hong Jin and Taekyung conclude she is pregnant, raising the possibility that the Emperor intends her child to replace Shangshan as heir.",
+        "Hyuk Mujin says he has never met anyone as strong as Taekyung, describing him as formidable as a person as well as in martial arts; he witnessed Taekyung kill an imugi at Dongting Lake."
+      ],
+      "plot": [
+        "While Hong Jin anxiously waits outside Qianqing Palace, Hyuk Mujin calms him and explains his confidence in Jin Taekyung, even revealing that he witnessed Taekyung kill an imugi. Taekyung returns without Prince Shangshan and reports that the Emperor has confined the prince in Qianqing Palace. He also says Aehyang, the City Lord of Sichuan Province’s former concubine, is there. Hong Jin explains that imperial consorts do not normally stay in Qianqing Palace; he and Taekyung conclude that Aehyang is pregnant and that the Emperor may intend her child to replace Shangshan as heir."
+      ],
+      "translation_decisions": [
+        "Use “imugi,” not “dragon,” for the creature Taekyung killed at Dongting Lake."
+      ]
+    },
+    "chapter": 876,
+    "context": {
+      "active_continuity": [
+        "Prince Shangshan remains in the imperial capital under the care of palace attendants led by So Gyo; Taekyung gave him the Myriad-Poison Ring for protection against poisoning.",
+        "The palace attendants assigned to Shangshan are First Rate martial artists who carry flexible swords.",
+        "The Emperor has a concealed Supreme Peak assassin, No Shadow.",
+        "Taekyung suspects the Emperor is connected to Dark Heaven, but this is unconfirmed.",
+        "Qianqing Palace is defended by mechanisms and formations, at least three Supreme Peak masters, and more than a hundred elite assassins.",
+        "Taekyung heard Aehyang’s voice in a restricted part of Qianqing Palace and recognized her as the concubine the City Lord of Sichuan Province lost to the Emperor.",
+        "The Emperor has confined Prince Shangshan in Qianqing Palace; Taekyung returned without him.",
+        "Hong Jin and Taekyung conclude Aehyang is pregnant; they suspect the Emperor may intend her child to replace Shangshan as heir."
+      ],
+      "continuity_sources": [
+        875,
+        876
+      ],
+      "open_questions": [
+        "What does the Emperor intend for Shangshan, and what are the palace attendants’ true orders?",
+        "What is Aehyang’s situation in the restricted part of Qianqing Palace, and is she pregnant?",
+        "What is the nature of the Emperor’s connection to Dark Heaven?"
+      ],
+      "safe_through": 876,
+      "temporary_decisions": [
+        "Render 기관진식 as “mechanisms and formations”; retain “Third Shadow,” “First Shadow,” “No Shadow,” and “Marquis Within the Passes.”",
+        "Use “imugi,” not “dragon,” for the creature Taekyung killed at Dongting Lake."
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Voice:** Formal and clipped in official duties; blunt, moralizing, and occasionally incredulous with Taekyung.",
+        "path": "characters/Hyuk Mujin.md",
+        "replacement": "- **Voice:** Formal and clipped in official duties; with Taekyung, blunt and occasionally incredulous, while using breezy, irreverent banter to defuse tense situations."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
