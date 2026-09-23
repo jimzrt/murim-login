@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Me. I mean, me?”",
+      "defect": "The identical English pronouns erase the Skeleton King’s self-conscious switch from the informal first-person pronoun 나 to the deferential 저.",
+      "id": "F01",
+      "rationale": "Adding “sir” makes the attempted shift into respectful speech perceptible in English while preserving his awkward correction.",
+      "replacement": "“Me? I mean… me, sir?”",
+      "severity": "major",
+      "source": "“나를. 아니, 저를?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I said Stone King. Here. Repeat after me slowly. Stone. King.”\n\n“Stone. King.”\n\n“This time, make it a little longer. Stone. King.”\n\n“Stone. King.”\n\n“Very excellent! Now, say it together.”\n\n“Stomu-King.”",
+      "defect": "Both pronunciation exercises are rendered identically, so the progression from three separately pronounced units to two combined units disappears and “say it together” no longer follows coherently.",
+      "id": "F02",
+      "rationale": "The source first separates 스, 톤, and 킹, then combines 스톤 before asking Koizumi to join the whole name; preserving those stages is necessary for the pronunciation joke.",
+      "replacement": "“I said Stone King. Here. Repeat after me slowly. S. Tone. King.”\n\n“S. Tone. King.”\n\n“This time, join the first two. Stone. King.”\n\n“Stone. King.”\n\n“Very excellent! Now put it all together.”\n\n“Stomu-King.”",
+      "severity": "major",
+      "source": "“스톤 킹이라니까. 자. 천천히 따라해 보시라. 스. 톤. 킹.”\n\n“스. 톤. 킹.”\n\n“이번엔 좀 길게. 스톤. 킹.”\n\n“스톤. 킹.”\n\n“매우 훌륭하구나요! 이제 이어서 해 보십시오.”\n\n“스토무-킹.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At Team Leader Choi’s protest, I scratched the back of my head.",
+      "defect": "만류 means that Team Leader Choi intervenes to restrain or dissuade Taekyung, not that he merely protests.",
+      "id": "F03",
+      "rationale": "The current wording changes Choi’s action from stopping Taekyung’s habitual threat to expressing an objection.",
+      "replacement": "At Team Leader Choi’s intervention, I scratched the back of my head.",
+      "severity": "critical",
+      "source": "최 팀장의 만류에 뒤통수를 긁적이는 내 모습에"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Skeleton King clicked his tongue and added in a regretful voice,",
+      "defect": "입맛을 다시다 describes smacking one’s lips, whereas clicking one’s tongue is a different physical action with a more openly disapproving connotation.",
+      "id": "F04",
+      "rationale": "The replacement preserves both the source action and his lingering regret over the unusable Magic Gems.",
+      "replacement": "The Skeleton King smacked his lips and added regretfully,",
+      "severity": "critical",
+      "source": "입맛을 다신 스켈레톤 킹이 아쉬운 목소리로 덧붙였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Welcome to the twenty-first century, all smiles. It’s surprisingly fucking hard to live here.”",
+      "defect": "“Welcome to the twenty-first century, all smiles” is unnatural and makes “all smiles” appear to describe the person being welcomed rather than sarcastically characterizing the supposedly cheerful modern age.",
+      "id": "F05",
+      "rationale": "싱글벙글 supplies a pointedly cheerful image that contrasts with the profane complaint about how difficult modern life is.",
+      "replacement": "“Welcome to the bright and cheerful twenty-first century. It’s surprisingly fucking hard to live here.”",
+      "severity": "minor",
+      "source": "“싱글벙글 21세기에 온 것을 환영한다. 여기 의외로 존나 살기 힘들어.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Then, watching the Skeleton King’s temper rise, I slowly opened my mouth.",
+      "defect": "The draft says Taekyung watches the Skeleton King become angrier, but the source says he cautiously gauges the already-angry Skeleton King’s mood or reaction before speaking.",
+      "id": "F06",
+      "rationale": "눈치를 살피다 conveys cautious social assessment, which matters because Taekyung and Team Leader Choi are deliberately maneuvering the Skeleton King into volunteering.",
+      "replacement": "Then, carefully gauging the angry Skeleton King’s reaction, I slowly began.",
+      "severity": "major",
+      "source": "그리고 성을 내는 스켈레톤 킹의 눈치를 살피며 천천히 말문을 뗐다."
+    }
+  ],
+  "summary": "Six actionable findings: two altered physical/pragmatic actions, two lost register or joke mechanisms, one mischaracterized reaction, and one unnatural punchline.",
+  "version": 1
+}

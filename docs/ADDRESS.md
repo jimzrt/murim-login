@@ -1235,3 +1235,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 방위대신 | 스켈레톤 킹 | Japanese Defense Minister confronting foreign monster | fur-covered Yankee | hostile-shouting | The Defense Minister condemns the Skeleton King for touching him and invokes imperial grievances. |
 | 진태경 | 고이즈미 총리 | foreign Hunter to Japanese Prime Minister | Prime Minister Koizumi | formal-polite | Jin greets Koizumi formally and attempts to redirect the conversation to tracking Leviathan. |
 | 고이즈미 총리 | 진태경 | Japanese Prime Minister to foreign Hunter | Jinsang, then Gyeongsang | friendly-formal | Koizumi uses Jinsang and proposes Gyeongsang without realizing the Korean meanings. |
+| 고이즈미 | 진태경 | Japanese Prime Minister to allied foreign Hunter | Jinsang | formal and cordial | Koizumi addresses Jin with the retained Korean pun and later uses Mr. Jin Taekyung. |
+| 진태경 | 고이즈미 | foreign Hunter to Japanese Prime Minister | Prime Minister | casual, familiar, and coercively playful | Jin asks Koizumi to lend Japan's S-rank Magic Gems and promises to return them. |
+| 스켈레톤 킹 | 진태경 | monster ally to human ally | wicked human | archaic, angry, and accusatory | The Skeleton King denounces Jin after learning that he will be excluded from the raid. |
+| 진태경 | 스켈레톤 킹 | human ally confronting a monster ally | Fucking | mocking and casually profane | Jin uses the newly improvised nickname 퍽킹 while directing the Skeleton King back to the Leviathan plan. |
