@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "As the Eastern Heaven Demon Lord’s view spun around and around amid a fierce rush of air, Jeok Cheongang stepped toward him, hurtling like a cannonball, unable to withstand the impact.",
+      "defect": "The English makes Jeok Cheongang the one hurtling away from the impact.",
+      "id": "F01",
+      "rationale": "The source says Jeok steps toward the Demon Lord as the latter is sent flying.",
+      "replacement": "As the Eastern Heaven Demon Lord’s view spun around and around amid a fierce rush of air, Jeok Cheongang stepped toward him. It was the Demon Lord who had been hurled away like a cannonball by the impact.",
+      "severity": "critical",
+      "source": "동천마군의 시야가 수없이 뒤집히던 그때. 적천강은 충격을 이기지 못하고 포탄처럼 쏘아지는 그를 향해 걸음을 떼었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Flame-Extinguishing Divine Fist, which had reached the tenth stage—or perhaps now gone beyond even that—washed the space in white.",
+      "defect": "“Tenth stage” turns ten-tenths mastery of the technique into a numbered stage.",
+      "id": "F02",
+      "rationale": "십성 describes the degree to which the technique has been perfected, not its tenth stage.",
+      "replacement": "The Flame-Extinguishing Divine Fist, brought to full mastery—or perhaps now beyond even that—washed the space in white.",
+      "severity": "major",
+      "source": "십성(十成)의 경지에 다다른, 아니 이제는 어쩌면 그것마저 넘어선 멸염신권이 공간을 새하얗게 물들였다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "while Flame Divine Palms shot across the space and swept fiercely over the approaching enemies.",
+      "defect": "The established technique name is changed to a plural.",
+      "id": "F03",
+      "rationale": "화염신장 names the Flame Divine Palm; the source does not specify multiple palm strikes here.",
+      "replacement": "while the Flame Divine Palm shot across the space and swept fiercely over the approaching enemies.",
+      "severity": "minor",
+      "source": "공간을 격하고 쏘아진 화염신장은 다가오던 적들을 맹렬하게 휩쓸었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yang Qi, hot as lava, swallowed dozens of enemies.",
+      "defect": "The established term is shortened, losing its specified scorching quality.",
+      "id": "F04",
+      "rationale": "열양지기 has the binding rendering “Scorching Yang Qi.”",
+      "replacement": "Scorching Yang Qi, hot as lava, swallowed dozens of enemies.",
+      "severity": "minor",
+      "source": "용암과도 같은 열양지기가 수십여 명의 적들을 집어삼킨다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "That was the distance between Jeok Cheongang and the Eastern Heaven Demon Lord. Far too short to decide which of them would live or die.",
+      "defect": "The English suggests the distance prevents a decisive outcome, rather than emphasizing how close they are to a fatal one.",
+      "id": "F05",
+      "rationale": "The source treats five steps as a dangerously short distance with either combatant’s life at stake.",
+      "replacement": "That was the distance between Jeok Cheongang and the Eastern Heaven Demon Lord. At such close range, one of them could be dead in an instant.",
+      "severity": "critical",
+      "source": "그건 적천강과 동천마군 사이에 놓인 거리였고, 그들 중 누군가의 생사(生死)를 가르기에는 너무나도 짧은 거리였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "With the azure dragon’s roar shaking the battlefield, the energy carried by his shout burst the compressed air.",
+      "defect": "Generic “energy” loses the mechanism: internal energy carried in the shout bursts the compressed air.",
+      "id": "F06",
+      "rationale": "공력 is internal energy, specifically identified as the force carried by the cry.",
+      "replacement": "As the azure dragon’s roar shook the battlefield, the internal energy carried in his shout burst the compressed air.",
+      "severity": "major",
+      "source": "전장을 떨어 울리는 창룡후(蒼龍吼)와 함께, 외침에 실린 공력이 압축된 공기를 터트렸다."
+    }
+  ],
+  "summary": "Two passages misstate the action or its consequence; several others lose martial-technique precision.",
+  "version": 1
+}
