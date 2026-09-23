@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 817
-- Next chapter: 818
-- Current block: 815–819 (3/5)
-- Latest translation: `translations/0817.md`
-- Latest summary: `summaries/beats/0817.md`
-- Safe profiles through: chapter 817
+- Last completed: 818
+- Next chapter: 819
+- Current block: 815–819 (4/5)
+- Latest translation: `translations/0818.md`
+- Latest summary: `summaries/beats/0818.md`
+- Safe profiles through: chapter 818
 
 ## Current Block
 
-- The Doppelganger, wearing Siegfried Bassman’s face and wielding his Grand Mage abilities, repeatedly uses Blink to evade Jin Taekyung, but Jin tracks and catches it, crushing its left hand and tearing off its arm. To escape, the badly injured Doppelganger forces Blink beyond its normal range and reaches the rear battlefield, where its followers and Amir are waiting. It orders them to hold off Jin and the other heretics, believing it has escaped—until Jin, who was lying motionless behind it, wakes and asks where he is.
+- Jin Taekyung survives the taboo-breaking Blink spell after interfering with it, though the ride leaves him badly nauseated and weaker than usual. He lands among the Prophet’s hundreds of skilled fanatics, fights through them with the Prophet’s severed arm, Finger Qi, and his martial skills, and sees the Doppelganger fleeing while its followers hold him back. A seasoned black-robed fighter named Yahya Muhammad Ahmad Bedouin, revealed as the fanatics’ real commander, confronts Jin with more than thirty elite assassins. Jin summons White Flame and charges into the group.
 
 ## Open Questions
 
 - Who is the Doppelganger’s master, what is the plan, and why must the target be avoided until it is complete?
 - What does the Chosen One designation mean?
-- How did Jin Taekyung reach the Doppelganger’s rear battlefield, and what will happen next?
+- What will happen in Jin’s confrontation with Yahya and the assassins?
 - Is Magic Johnson human?
 
 ## Exceptional Decision
