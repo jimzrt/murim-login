@@ -4,7 +4,7 @@
 
 It was a storm unlike anything anyone had ever experienced.
 
-Every time thunder boomed alongside the lightning, the rain grew heavier, and the river thrashed like a violent dragon.
+Every time thunder boomed and lightning split the sky, the rain intensified and the water writhed violently.
 
 And one ship was trying to fight its way against it all.
 
@@ -34,7 +34,7 @@ Disbelief flashed through Mu Song’s eyes at the impossible sight.
 
 Martial arts were not the only thing he had learned from his Master, the Seafaring King.
 
-If anything, he had first learned how to steer all sorts of ships, predict the weather, and read the currents—before he had learned martial arts.
+If anything, he had first learned how to handle all manner of ships, predict the weather, and read the currents.
 
 Mu Song had been a sailor before he was a Murim martial artist, and no river bandit would follow an incompetent captain.
 
@@ -82,7 +82,7 @@ Or rather, they had tried to.
 
 Unlike at the beginning, the weather had grown steadily worse the closer they came to their destination.
 
-It was as though they had crossed some invisible line. Strange phenomena that should not have been possible on a lake were appearing everywhere.
+It was as though they had crossed some invisible line. Strange phenomena that should never have occurred on a lake were appearing everywhere.
 
 *Whoooooosh.*
 
@@ -106,13 +106,13 @@ And then—
 
 *Swish!*
 
-Behind Mu Song, a small figure that had remained perfectly balanced leaped from the mast.
+Behind Mu Song, a small figure that had remained perfectly balanced stepped off the mast and soared upward.
 
 He shot toward the waterspout through the driving rain and wind, then clenched his fist.
 
 *Hooooong.*
 
-A single stream of wind wrapped around the fist mottled with age spots. The air stopped moving, and not a single drop of rain dared approach.
+A stream of wind wrapped around the fist mottled with age spots. The air stopped moving, and not a single drop of rain dared approach.
 
 At the tip of that fist, hellfire capable of burning everything took shape.
 
@@ -134,19 +134,19 @@ Then—
 
 *Boom!*
 
-The heavy sound of something splitting the air scattered the steam.
+A heavy burst split the air and scattered the steam.
 
 Jeok Cheongang stood tall in midair, looking down at the merchant vessel. His voice, more deeply subdued than usual, drifted from his lips.
 
 “What are you waiting for? Hurry up and follow me.”
 
-He was not speaking to Mu Song or the river bandits under his command. Their roles had been decided from the beginning, and they had more than fulfilled them.
+He was not speaking to Mu Song or the river bandits under his command. Their role had been decided from the beginning, and they had more than fulfilled it.
 
 Only true masters belonged on the battlefield ahead.
 
 And as everyone watched, one person stepped forward.
 
-“Single Reed Crossing the River. Even Master Bodhidharma of Shaolin used a reed leaf to cross a river. From now on, you’d better come down instead of wasting your internal energy for no reason.”
+“Single Reed Crossing the River. Even Master Bodhidharma of Shaolin used a reed leaf to cross a river. You’d better come down instead of wasting your internal energy for no reason.”
 
 Not a trace of emotion could be found in the flat, dry voice.
 
@@ -178,7 +178,7 @@ With a dry chuckle, he stepped forward. Behind him appeared a middle-aged man in
 
 At the words of Zhuge Feng, the current Family Head of the Zhuge Clan and the Crouching Dragon Guest, Mungyeong answered in a dry voice.
 
-“Of course you should. Why else would I bring a burden like you?”
+“Of course you will. Why else would I have brought along a burden like you?”
 
 “You certainly have a talent for embarrassing people.”
 
@@ -188,7 +188,7 @@ Mungyeong made a show of frowning. He had no intention of listening to Zhuge Fen
 
 “You underestimate this junior. My enlightenment may not match that of the other Family Heads of the Five Great Families, but when it comes to internal energy alone…”
 
-“There’s a reason I brought you here. If I had prioritized martial arts, I would have brought that youngster Hyeongong of Wudang instead. But shouldn’t someone remain back there?”
+“There’s a reason I brought you here. If martial arts had been the priority, I would have brought that youngster Hyeongong of Wudang instead. But someone had to remain back there, didn’t they?”
 
 “……!”
 
@@ -212,7 +212,7 @@ A movement technique both stealthy and impossibly elusive.
 
 Not a single person left aboard the ship could recognize the Ghost Illusory Slaughter Step at its pinnacle.
 
-Leaving the stunned men behind, Mungyeong’s body shot forward as though folding space.
+Leaving the stunned men behind, Mungyeong shot forward as though folding space beneath him.
 
 “Is this the right direction?”
 
@@ -236,9 +236,9 @@ After hesitating for a moment, Zhuge Feng continued.
 
 “He is. Without a doubt.”
 
-Jeok Cheongang immediately shook his head. His tone was nearly one of certainty.
+Jeok Cheongang immediately shook his head, his tone filled with certainty.
 
-“This weather… It isn’t a coincidence. Something unknown came here, and Taekyung is clearly after it.”
+“This weather… It isn’t a coincidence. Something unknown has come here, and it is clearly after Taekyung.”
 
 “It’s too early to jump to conclusions. We must first identify what it is.”
 
@@ -260,7 +260,7 @@ All three men’s eyes widened.
 
 “This is…”
 
-It was not thunder and lightning rumbling across the sky.
+It was not thunder rumbling across the sky.
 
 The black heavens above them were silent. The enormous sound had clearly come from somewhere several hundred *jang* ahead.
 
@@ -268,7 +268,7 @@ The black heavens above them were silent. The enormous sound had clearly come fr
 
 Jeok Cheongang’s furious roar rang out as he shot forward first. Mungyeong followed close behind, holding Zhuge Feng firmly in his grasp as the water split to either side.
 
-But before even an instant had passed, the three men were forced to stop simultaneously.
+But less than a moment later, all three men were forced to stop at once.
 
 “……!”
 
@@ -276,7 +276,7 @@ The shock was so immense that none of them could speak.
 
 They did not even need to move closer to confirm what had caused it.
 
-At last, the identity of “it” appeared in the distance.
+At last, “it” appeared in the distance.
 
 The three men stood frozen, utterly speechless.
 
@@ -286,7 +286,7 @@ The three men stood frozen, utterly speechless.
 
 The cliff collapsed with a deafening roar.
 
-Massive boulders that had clearly been part of it for centuries came pouring down like a rain shower, and an enormous spray of water surged upward.
+Massive boulders that had clearly been part of it for centuries poured down like rain, and an enormous spray of water surged upward.
 
 But none of that mattered.
 

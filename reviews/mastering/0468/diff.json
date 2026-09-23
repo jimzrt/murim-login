@@ -1,0 +1,1235 @@
+{
+  "baseline_blocks": 149,
+  "baseline_sha256": "8acebc9d78ec71c8b94e7018e7f981b9adffbe8c8e5d04765813b514782481f5",
+  "global_terminology_alerts": [],
+  "hunk_count": 67,
+  "hunks": [
+    {
+      "baseline": "Every time thunder boomed alongside the lightning, the rain grew heavier, and the river thrashed like a violent dragon.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "9",
+      "sol": "Every time thunder boomed and lightning split the sky, the rain intensified and the water writhed violently.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "And one ship was trying to make its way against it all.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "And one ship was trying to fight its way against it all.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Ship-Fire Boy Mu Song’s shout from the stern of the ship, which rocked like a willow leaf before the raging waves, the river bandits of Water Dragon Stronghold gritted their teeth.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "The ship rocked like a willow leaf amid the raging waves. At Ship-Fire Boy Mu Song’s shout from the stern, the river bandits of Water Dragon Stronghold gritted their teeth.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every one of them was an experienced, highly skilled sailor.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "25",
+      "sol": "Every one of them was a seasoned, highly skilled sailor.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But despite Mu Song’s seasoned commands and the river bandits’ efforts to summon every last ounce of strength they possessed, the worst weather they had ever encountered refused to let the ship advance any farther.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "27",
+      "sol": "But despite Mu Song’s experienced commands and the river bandits’ efforts to summon every last ounce of strength, the worst weather they had ever encountered refused to let the ship advance any farther.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sail, stretched to the point of tearing, gave way beneath the force of the wind. Rocks of every size came flying from all directions and slammed into the deck.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "31",
+      "sol": "The sail, swollen almost to the point of tearing, was driven back by the force of the wind. Rocks large and small flew in from every direction and slammed into the deck.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song’s eyes flashed with disbelief at the impossible sight.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "33",
+      "sol": "Disbelief flashed through Mu Song’s eyes at the impossible sight.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What he had learned from his Master, the Seafaring King, was not limited to martial arts.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "37",
+      "sol": "Martial arts were not the only thing he had learned from his Master, the Seafaring King.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If anything, he had first learned how to steer all sorts of ships, predict the weather, and read the currents—before he had learned martial arts.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "39",
+      "sol": "If anything, he had first learned how to handle all manner of ships, predict the weather, and read the currents.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무공",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial arts"
+        }
+      ]
+    },
+    {
+      "baseline": "Mu Song had been a sailor before he was a Murim martial artist, and no river bandit would follow a captain without the ability to lead.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "41",
+      "sol": "Mu Song had been a sailor before he was a Murim martial artist, and no river bandit would follow an incompetent captain.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The little boy who had yearned for the Yangtze had grown into a captain so skilled that even old sailors acknowledged him. Even his bleak Master, who possessed not a trace of affection for his Disciple, had once said:",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "43",
+      "sol": "The little boy who had once yearned for the Yangtze had grown into a captain skilled enough to earn the respect of even old sailors. Even his coldhearted Master, who had not shown his Disciple the slightest hint of affection, had once said:",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Seafaring King, who had chosen his Senior Disciple as his successor, sent Mu Song to Sichuan. After founding Water Dragon Stronghold, Mu Song soon distinguished himself and seized control of Sichuan’s Yangtze at a young age.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "53",
+      "sol": "The Seafaring King had already chosen his Senior Disciple as his successor, so he sent Mu Song to Sichuan. After founding Water Dragon Stronghold, Mu Song soon distinguished himself and seized control of Sichuan’s stretch of the Yangtze at a young age.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A sudden change in the weather—so drastic that it was shocking.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "63",
+      "sol": "The weather had changed with shocking speed.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their current location was none other than Dongting Lake.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "65",
+      "sol": "And they were currently on none other than Dongting Lake.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After receiving Zhuge Feng’s sudden summons, Mu Song had selected his most capable subordinates, crossed Tianling Falls, and immediately set out for Dongting Lake after asking around for Jin Taekyung’s whereabouts.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "67",
+      "sol": "After receiving Zhuge Feng’s sudden summons, Mu Song had selected his most capable subordinates, crossed Tianling Falls, and immediately headed for Dongting Lake after asking around for Jin Taekyung’s whereabouts.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how bad the weather became, it should not have been worse than the Yangtze’s current. Compared to the unpredictable whirlpools of the sea, it should have been laughable.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "77",
+      "sol": "No matter how bad the weather became, it should not have been worse than the Yangtze’s currents. Compared to the unpredictable whirlpools of the sea, it should have been laughable.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least until two shichen ago.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "81",
+      "sol": "At least until two *shichen* ago.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike at the beginning, the weather had worsened the closer they came to their destination.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "89",
+      "sol": "Unlike at the beginning, the weather had grown steadily worse the closer they came to their destination.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was as though they had crossed some invisible line. Strange phenomena that should not have been possible on a lake were appearing everywhere.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "91",
+      "sol": "It was as though they had crossed some invisible line. Strange phenomena that should never have occurred on a lake were appearing everywhere.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It towered to a dizzying height, blocking the narrow waterway as it advanced toward the merchant vessel, a groan slipped between Mu Song’s clenched teeth.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "97",
+      "sol": "It towered to a dizzying height, blocking the narrow waterway as it advanced toward the merchant vessel. A groan slipped between Mu Song’s clenched teeth.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If they were caught in that, it was over. Even if they managed to get past the waterspout, the merchant vessel’s poor durability would not let it survive for long.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "101",
+      "sol": "If they were caught in that, it was over. Even if they managed to get past the waterspout, a merchant vessel this flimsy would not survive for long.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Torn between concern for the safety of his subordinates and his desire for revenge against Dark Heaven, which had killed Yangtze One Saber, Mu Song finally moved his lips.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "103",
+      "sol": "Torn between concern for his subordinates’ safety and his desire for revenge against Dark Heaven, which had killed Yangtze One Saber, Mu Song finally spoke.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Snap!*",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "113",
+      "sol": "*Swish!*",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Behind Mu Song, a small figure that had remained perfectly balanced leaped from the mast.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "115",
+      "sol": "Behind Mu Song, a small figure that had remained perfectly balanced stepped off the mast and soared upward.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The figure shot toward the waterspout through the driving rain and wind, then clenched a fist.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "117",
+      "sol": "He shot toward the waterspout through the driving rain and wind, then clenched his fist.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single stream of wind wrapped around the fist mottled with age spots. The air stopped moving, and not a single drop of rain dared approach.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "121",
+      "sol": "A stream of wind wrapped around the fist mottled with age spots. The air stopped moving, and not a single drop of rain dared approach.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Alongside a voice like boiling lava, Fire King Jeok Cheongang threw a punch.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "127",
+      "sol": "With a voice like boiling lava, Fire King Jeok Cheongang threw a punch.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The churning water collapsed in an instant beneath the overwhelming Scorching Yang Qi, and all its moisture evaporated. The waterspout, which had been approaching the merchant vessel with the power of ten thousand *geun*, became a dense cloud of steam that spread like fog around them.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "137",
+      "sol": "The churning water collapsed in an instant beneath the overwhelming Scorching Yang Qi, every trace of moisture evaporating. The waterspout, which had been bearing down on the merchant vessel with the force of ten thousand *geun*, became a dense cloud of steam that spread around them like fog.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The heavy sound of something splitting the air scattered the steam.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "143",
+      "sol": "A heavy burst split the air and scattered the steam.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was not speaking to Mu Song or the river bandits under his command. Their roles had been decided from the beginning, and they had more than fulfilled them.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "149",
+      "sol": "He was not speaking to Mu Song or the river bandits under his command. Their role had been decided from the beginning, and they had more than fulfilled it.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The battlefield that was about to unfold was a place permitted only to true masters.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "151",
+      "sol": "Only true masters belonged on the battlefield ahead.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Single Reed Crossing the River. Even Master Bodhidharma of Shaolin used a reed leaf to cross a river. From now on, you’d better come down instead of wasting your internal energy for no reason.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "155",
+      "sol": "“Single Reed Crossing the River. Even Master Bodhidharma of Shaolin used a reed leaf to cross a river. You’d better come down instead of wasting your internal energy for no reason.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was not even a trace of emotion in the dry, monotonous voice.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "157",
+      "sol": "Not a trace of emotion could be found in the flat, dry voice.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Mu Song and the river bandits flinched and stepped aside, Mungyeong clicked his tongue inwardly.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "161",
+      "sol": "As Mu Song and the river bandits flinched and moved aside, Mungyeong clicked his tongue inwardly.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With hands that had taken more than a thousand lives, he had treated and cared for sick patients.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "167",
+      "sol": "With hands that had taken more than a thousand lives, he had treated and cared for the sick.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Instead of fiends, he had fought the bastard called plague. He had gained the undeserved reputation of being a Divine Physician, but he had never once taken wealth or chased fame.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "169",
+      "sol": "Instead of fiends, he had hunted the bastard called plague. He had gained the undeserved reputation of being a Divine Physician, but he had never once accepted wealth or sought fame.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—perhaps the stone pagoda had collapsed on the day he boarded the swift ship leaving Sichuan.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "177",
+      "sol": "No—perhaps it had collapsed the day he boarded the swift ship leaving Sichuan.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*This is also the path this old man chose. How could I blame anyone else?*",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "179",
+      "sol": "*This too is the path this old man chose. How could I blame anyone else?*",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a dry chuckle, he stepped forward. Behind him, a middle-aged man in disheveled scholar’s robes appeared.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "181",
+      "sol": "With a dry chuckle, he stepped forward. Behind him appeared a middle-aged man in disheveled scholar’s robes.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course you should. Why else would I bring a burden like you?”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "187",
+      "sol": "“Of course you will. Why else would I have brought along a burden like you?”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mungyeong made a show of frowning. He had no intention of listening to Zhuge Feng’s rambling, especially when the man was no more than a babe compared to him.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "191",
+      "sol": "Mungyeong made a show of frowning. He had no intention of listening to Zhuge Feng ramble, especially when the man was no more than a babe compared to him.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s a reason I brought you here. If I had prioritized martial arts, I would have brought that youngster Hyeongong of Wudang instead. But shouldn’t someone remain back there?”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "197",
+      "sol": "“There’s a reason I brought you here. If martial arts had been the priority, I would have brought that youngster Hyeongong of Wudang instead. But someone had to remain back there, didn’t they?”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……”",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "199",
+      "sol": "“……!”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perfected Being Hyeongong was a master senior enough to stand shoulder to shoulder with the Sect Leaders of the Nine Sects and One Gang.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "201",
+      "sol": "Perfected Being Hyeongong was a master whose seniority placed him alongside the Sect Leaders of the Nine Sects and One Gang.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mu Song and the river bandits had been unable to determine Mungyeong’s identity beyond knowing that he was a Returned to Youth master. They were shocked by the way he referred to the respected elder, Perfected Being Hyeongong, as a child.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "203",
+      "sol": "Mu Song and the river bandits had been unable to determine Mungyeong’s identity beyond knowing that he was a Returned to Youth master. They were shocked to hear him refer to Perfected Being Hyeongong, a respected elder throughout Murim, as a child.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He stretched out his hand, and Zhuge Feng’s body came sliding toward him.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "211",
+      "sol": "He extended a hand, and Zhuge Feng’s body came sliding toward him.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After seizing none other than the current Family Head of the Zhuge Clan with Seizing an Object Through Empty Space, Mungyeong lightly stepped off the deck and leaped like a bird.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "213",
+      "sol": "After seizing none other than the current Family Head of the Zhuge Clan with Seizing an Object Through Empty Space, Mungyeong lightly pushed off the deck and soared like a bird.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Snap!*",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "215",
+      "sol": "*Swish!*",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not a single person left aboard the ship could recognize the Ghost Illusory Slaughter Step, perfected to its ultimate stage.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "219",
+      "sol": "Not a single person left aboard the ship could recognize the Ghost Illusory Slaughter Step at its pinnacle.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Leaving the stunned men behind, Mungyeong’s body shot forward as though folding space.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "221",
+      "sol": "Leaving the stunned men behind, Mungyeong shot forward as though folding space beneath him.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Two—no, three figures moved swiftly across the surface of the river.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "227",
+      "sol": "Two—no, three figures sped across the water.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“According to what Ship-Fire Boy told us, we only need to move straight ahead from here.”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "231",
+      "sol": "“According to what Ship-Fire Boy told us, we only need to keep heading straight from here.”",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang immediately shook his head. His tone was nearly one of certainty.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "245",
+      "sol": "Jeok Cheongang immediately shook his head, his tone filled with certainty.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This weather… It isn’t a coincidence. Something unknown came here, and Taekyung is clearly after it.”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "247",
+      "sol": "“This weather… It isn’t a coincidence. Something unknown has come here, and it is clearly after Taekyung.”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s too early to jump to conclusions. Identifying what it is must come first.”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "249",
+      "sol": "“It’s too early to jump to conclusions. We must first identify what it is.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just then, as the unease rapidly swelling in the old man’s chest grew, so did the speed at which he crossed the river with Rising on Duckweed, Crossing Water.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "259",
+      "sol": "The unease in the old man’s chest swelled rapidly, and his speed increased with it as he crossed the water using Rising on Duckweed, Crossing Water.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The three men opened their eyes wide.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "265",
+      "sol": "All three men’s eyes widened.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was not thunder and lightning rumbling across the sky.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "269",
+      "sol": "It was not thunder rumbling across the sky.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The black sky above their heads was quiet. The enormous sound from a moment earlier had clearly come from somewhere several hundred *jang* ahead of them.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "271",
+      "sol": "The black heavens above them were silent. The enormous sound had clearly come from somewhere several hundred *jang* ahead.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang’s furious roar rang out, and his body shot forward first. Mungyeong followed with Zhuge Feng held firmly in his grasp, splitting the water on either side.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "275",
+      "sol": "Jeok Cheongang’s furious roar rang out as he shot forward first. Mungyeong followed close behind, holding Zhuge Feng firmly in his grasp as the water split to either side.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But before even an instant had passed, the three men were forced to stop simultaneously.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "277",
+      "sol": "But less than a moment later, all three men were forced to stop at once.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……”",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "279",
+      "sol": "“……!”",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The impact was so immense that none of them could open their mouths.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "283",
+      "sol": "The shock was so immense that none of them could speak.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, the identity of “it” appeared in the distance.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "289",
+      "sol": "At last, “it” appeared in the distance.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The three men stood frozen, speechless.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "291",
+      "sol": "The three men stood frozen, utterly speechless.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Massive boulders that had clearly been part of it for centuries came pouring down like a rain shower, and an enormous spray of water surged upward.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "301",
+      "sol": "Massive boulders that had clearly been part of it for centuries poured down like rain, and an enormous spray of water surged upward.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I stared with trembling eyes at “it” rising from among the destruction.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "301",
+      "sol": "I stared with trembling eyes at “it” rising amid the destruction.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 149,
+  "sol_sha256": "494e5b76f8ddd9197fd1c37d40f656b1f7ed71ab9c944e086f6d12919f0faf64",
+  "version": 1
+}
