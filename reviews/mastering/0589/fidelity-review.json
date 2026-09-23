@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "massive pillar.",
+      "defect": "The source specifies a pillar of light; the translation omits that image.",
+      "id": "F01",
+      "rationale": "빛의 기둥 means “pillar of light,” not merely a pillar.",
+      "replacement": "massive pillar of light.",
+      "severity": "minor",
+      "source": "Line 5"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I plunged deep into their formation and tore through it, wrecking it from within—without killing them.",
+      "defect": "The translation omits the explicitly frantic manner of the narrator’s attack.",
+      "id": "F02",
+      "rationale": "미친 듯이 means “like a madman” or “frantically”; it characterizes how he tears through the formation.",
+      "replacement": "I plunged deep into their formation and tore through it like a madman, wrecking it from within—without killing them.",
+      "severity": "minor",
+      "source": "Line 175"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it drops the source’s explicit image of a pillar of light and the narrator’s frantic manner of tearing through the formation.",
+  "version": 1
+}

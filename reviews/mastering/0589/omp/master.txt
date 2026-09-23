@@ -16,7 +16,7 @@ As I stepped forward, I slashed White Flame diagonally downward. Scorching heat 
 
 Sssshhhhh!
 
-Space warped. The searing blue-white hellfire forcibly dispelled every spell and devoured the weapons hurtling toward me at tremendous speed, still infused with mana.
+Space warped. Searing blue-white hellfire forcibly dispelled every spell and devoured the weapons hurtling toward me, still infused with mana.
 
 Whoooosh!
 
@@ -36,7 +36,7 @@ His quick judgment and precise attack were impressive, as befitted an A-rank Hun
 
 *This time, you picked the wrong opponent.*
 
-I muttered the thought inwardly and thrust out my fist. The single punch driven along my smoothly rotating shoulder and arm smashed through the empty air.
+I thrust out my fist. My shoulder and arm rotated smoothly as the punch struck empty air.
 
 Whoom! Bang!
 
@@ -48,25 +48,25 @@ Swish-swish-swish! Boom!
 
 As the deflected arrows slammed into the lobby, I launched myself ahead of them. I crossed the dozen or so meters between us and appeared before the Security Team Leader.
 
-“You should’ve shot more gently. Then I would’ve made it hurt less.”
+“You should’ve shot a little softer. Then I wouldn’t have to hit you so hard.”
 
 “……!”
 
 I was far too close for him to draw his bowstring again.
 
-Instead of answering, the Security Team Leader swung the bow in his hand. With a faint metallic click, a blade sprang from the tip of the bow and flew toward my chest.
+Instead of answering, he swung his bow. With a faint click, a blade sprang from its tip and flew toward my chest.
 
 Sssshhh!
 
 He had probably mastered that move through thousands, perhaps tens of thousands, of repetitions.
 
-But speed was relative. To my eyes, his attack was so slow and feeble that it made me want to yawn.
+But speed was relative. To my eyes, his attack was so slow and clumsy I could have yawned.
 
 Slow enough to catch with one hand.
 
 Clack.
 
-The blade stopped half a handspan from me and trembled.
+The blade stopped half a handspan from my chest and trembled.
 
 In a moment too brief to call an instant, I saw unmistakable shock flash across the Security Team Leader’s eyes. I tightened my grip on the middle of his bow.
 
@@ -142,7 +142,7 @@ I drove my elbow into another Hunter’s solar plexus and knocked him down.
 
 Tap—swish-swish-swish!
 
-I snatched an arrow flying toward my throat and flung it back the way it had come.
+I snatched the arrows flying toward my throat and scattered them back the way they had come.
 
 As I turned toward the enemies closing in from all sides, short screams pierced my ears.
 
@@ -178,7 +178,7 @@ Crack-crack-crack!
 
 Boom!
 
-Before one person’s scream had even ended, three people fell. By the time three screams rang out, five had collapsed.
+Before one person’s scream ended, three more fell. By the time those three screams rang out, five more were down.
 
 They were sheep, and I was a great tiger.
 
@@ -186,13 +186,13 @@ With one difference: I had the patience to hold back from slaughtering them.
 
 *I’m not a monster. I’m not a monster.*
 
-I had to repeat it endlessly in my mind to calm the rage swelling inside me to the point of bursting.
+I had to repeat it without pause to quiet the rage swelling inside me.
 
 Those who crossed to the other side of the river never returned. Jopil hadn’t. Neither had the forces of Dark Heaven, or Go Jun, who had stepped into the realm of monsters for the sake of his goal.
 
 But I was a Hunter. A martial artist of Murim.
 
-I suddenly remembered something a certain person had once told me—a person who had gone from being the greatest assassin of all time to the greatest physician under heaven.
+Something someone had once told me came suddenly to mind. He had gone from the greatest assassin of all time to the greatest physician under heaven.
 
 *The weak kill, but the truly strong can save lives instead. It means they can prevent innocent deaths, no matter the circumstances.*
 
@@ -200,11 +200,11 @@ If I had been less powerful than I was now—if I had been both weak and evil—
 
 But I was human, not a monster. And I had the strength to save them.
 
-“Everyone… move aside.”
+“Everyone… move.”
 
 Boom!
 
-The palm force I thrust out swept away dozens of people and sent them flying.
+The force of my palm strike swept dozens of people away.
 
 Maybe it was the battle that had gone on for hours without a break. Maybe it was the aftermath of One Annihilation. I was exhausted beyond measure.
 
@@ -234,7 +234,7 @@ But this was Ares Guild headquarters, a place said to recruit only the best. Hig
 
 Shrrrriiiip!
 
-Between the broken marble, vines burst from the wall where an unknown oil painting had once hung and wrapped around my ankles like whips.
+Vines burst from cracks in the marble and from the wall where an unfamiliar oil painting had hung. They whipped around my ankles.
 
 Crack!
 
@@ -250,7 +250,7 @@ Swish!
 
 The air above my head rippled. A pale shadow, faint as mist, dropped toward the crown of my head.
 
-Realizing that the sound cutting through the air came from a short sword, I let out a hollow laugh inwardly.
+I recognized the sound cutting through the air as that of a short sword and nearly laughed.
 
 *Look at these bastards.*
 
@@ -264,11 +264,11 @@ I welcomed it.
 
 Boom!
 
-The instant a short flame erupted, the assassin was flung away with his limbs twisted, unable even to scream amid the explosive roar.
+A brief burst of flame erupted. The assassin flew away with his limbs twisted, unable even to scream.
 
 The A-rank mage stared wide-eyed as I burned through every rope and vine, turning the assassin’s short sword over in my hand.
 
-“What are you doing? Why aren’t you using Magic?”
+“What are you waiting for? Aren’t you going to use magic?”
 
 “I-Ice Blo—!”
 
@@ -276,15 +276,15 @@ Crash! Thunk!
 
 The short sword streaked forward like a ray of light, shattered the Magic Gem in his staff, and buried itself deep in his abdomen. The backflow of mana must have made the pain unbearable.
 
-I struck the chest of the mage, who was screaming loudly enough to shake the lobby.
+I struck the screaming mage in the chest.
 
 Boom!
 
-The Inner-Family Heavy Hand was fatal to anyone, but it possessed even greater destructive power against those who directly handled mana, such as mages and healers.
+The Inner-Family Heavy Hand could be fatal to anyone, but it was even more destructive against those who handled mana directly, like mages and healers.
 
 Even if this one survived, he was in no shape to call himself a mage again. His eyes rolled back, and he collapsed.
 
-I stared calmly at the mage, unconscious with an irrecoverable injury, and suddenly opened my mouth.
+I looked down at him, unconscious with an injury he would never recover from, and spoke.
 
 “Anyone else want to retire while we’re at it?”
 
@@ -306,7 +306,7 @@ Tanks were embedded in the walls. Damage dealers gasped in pain. Mages lay stiff
 
 And there I stood, looking down at them all.
 
-My voice came out through parted lips, hoarse and cracked.
+My voice came out hoarse.
 
 “Don’t stand in my way again. There won’t be a second time.”
 
@@ -326,7 +326,7 @@ Then I channeled three jiazi of internal energy, kicked off the floor, and shot 
 
 Screeeeech!
 
-The lobby ceiling rushed toward me with the fierce wind. At the same time, blue-white flames flickered over my clenched fist.
+The lobby ceiling rushed toward me through the fierce wind. Blue-white flames flickered over my clenched fist.
 
 The Flame-Extinguishing Divine Fist burst forth, burning through the air.
 
