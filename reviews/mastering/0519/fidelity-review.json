@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "nearly twenty people had been carried to the medical clinic",
+      "defect": "The source says the number carried to the clinic reached twenty (스무 명에 달한다), not that it was nearly twenty.",
+      "id": "F01",
+      "rationale": "The source’s quantity expression 달한다 indicates reaching twenty; “nearly” places the count below twenty.",
+      "replacement": "twenty people had been carried to the medical clinic",
+      "severity": "minor",
+      "source": "Paragraph 209"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Everyone seemed to understand that provoking Jeok Cheongang right now would be a bad idea.",
+      "defect": "The source adds that this was understood even without the narrator’s involvement or prompting. The assembled line drops that contrast, which the accepted baseline preserved.",
+      "id": "F02",
+      "rationale": "굳이 내가 아니어도 means the narrator need not be the one to point it out; the martial artists themselves understood not to provoke Jeok Cheongang.",
+      "replacement": "And it seemed everyone understood that, even without me, provoking Jeok Cheongang in his current mood was a bad idea.",
+      "severity": "minor",
+      "source": "Paragraph 119"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, but it understates one quantity and drops a narrator-side contrast preserved in the source and accepted baseline.",
+  "version": 1
+}

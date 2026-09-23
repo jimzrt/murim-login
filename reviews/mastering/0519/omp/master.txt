@@ -18,7 +18,7 @@ Silence fell. Unnamed stared at me, his gaze shaking as though an earthquake had
 
 *Wasn’t he Dark Heaven?*
 
-*That’s what I want to ask.*
+*That’s what I want to ask you.*
 
 *Amitabha. Could you be Dark Heaven?*
 
@@ -26,7 +26,7 @@ Silence fell. Unnamed stared at me, his gaze shaking as though an earthquake had
 
 *If we’re Dark Heaven, does that make you a member of the Vatican?*
 
-I wasn’t the only one dumbfounded by Unnamed’s words. Jeok Cheongang, who was exceptionally skilled at eavesdropping on Sound Transmission, already had a face twisted like an evil spirit.
+I wasn’t the only one dumbfounded by Unnamed’s words. Jeok Cheongang, who had a knack for eavesdropping on Sound Transmission, already looked like an enraged fiend.
 
 “What? This old man is Dark Heaven?”
 
@@ -36,7 +36,7 @@ My attempt to clear up that misunderstanding went nowhere. More precisely, our p
 
 “Dark Heaven!”
 
-“The fiend just declared himself Dark Heaven!”
+“The fiend just admitted he’s Dark Heaven!”
 
 *Keyword entered.*
 
@@ -48,7 +48,7 @@ My attempt to clear up that misunderstanding went nowhere. More precisely, our p
 
 *Miraculous logic.*
 
-“You fiend! You look like a demon straight out of hell!”
+“You fiend! You look like a fearsome demon!”
 
 “And that hair, all bright red! He looks like he’ll dye the world in blood!”
 
@@ -64,7 +64,7 @@ All of this happened in the blink of an eye. Faced with the collective madness o
 
 “No! That’s not it!”
 
-“Amitabha! Everyone, stop! That man is not a fiend! He is the late Master Hong Dao’s…”
+“Amitabha! Everyone, stop! That man is my master, Master Hong Dao’s…”
 
 At Unnamed’s shout, the martial artists nearest us widened their eyes.
 
@@ -92,7 +92,7 @@ Would these martial artists suffer qi deviation if they listened to someone fini
 
 The grand finale of this collective madness came courtesy of a stranger emerging from the wreckage of the collapsed building.
 
-“Stop, you wicked fiend! How dare you commit such a heinous crime in Henan!”
+“Stop, villain! How dare you do something so terrible in Henan!”
 
 Jeok Cheongang, who had been staring at this insanity with his mouth open, muttered with a pained expression.
 
@@ -104,7 +104,7 @@ Jeok Cheongang, who had been staring at this insanity with his mouth open, mutte
 
 Fair enough. For Jeok Cheongang, he’d held back a long time.
 
-Whoosh. Fwoom!
+Whoosh. Pow!
 
 *Bye-bye, Moon Beauty Saber. Enjoy the Disco Pang Pang.*
 
@@ -124,11 +124,11 @@ Everyone seemed to understand that provoking Jeok Cheongang right now would be a
 
 With everyone silent, I had one chance to clear up the misunderstanding. I cleared my throat and opened my mouth.
 
-Or rather, I was about to.
+Or tried to.
 
 “There’s been a serious misunderstanding. The man over there isn’t a fiend, he’s—”
 
-“Halt! Make way!”
+“Silence! Make way!”
 
 “Oh, for fuck’s sake!”
 
@@ -158,11 +158,11 @@ Sure enough, the Thunderbolt Saber King looked him up and down, then opened his 
 
 “It’s a long story. Send these people away first.”
 
-“Answer my question first.”
+“Answer my question.”
 
 “Hm?”
 
-“I asked what a bastard fiend who deserves to be torn limb from limb is doing here.”
+“I asked what a fiend who deserves to be torn limb from limb is doing here.”
 
 “…”
 
@@ -184,8 +184,6 @@ With everyone watching, the Thunderbolt Saber King continued in a solemn voice.
 
 “I see.”
 
-I nodded, then asked,
-
 I nodded, then asked, “So why did you start swinging your saber?”
 
 “That was…”
@@ -202,9 +200,7 @@ A heavy silence settled over the carriage. Faced with everyone’s distrustful s
 
 “Think of it as preparation for the coming fight against Dark Heaven. Facing the Fire King, Jeok Cheongang, would be valuable experience for all of them.”
 
-I asked seriously,
-
-“By ‘experience,’ do you mean experience of the afterlife?”
+I looked him in the eye. “Experience of the afterlife?”
 
 “…”
 
@@ -212,7 +208,7 @@ That shut him up. If he had a conscience, it had to: nearly twenty people had be
 
 *We’re lucky it stopped there.*
 
-If the poet Yun Dong-ju suffered at even the wind stirring a leaf, they suffered like hell in the howling blade wind.[^1]
+The poet Yun Dong-ju had suffered at even the wind stirring a leaf. Those people had suffered like hell in a howling blade wind.[^1]
 
 “Still… I heard they’re all safe.”
 
@@ -222,7 +218,7 @@ Their taste of the afterlife had left its mark.
 
 Martial artists might live on the edge of a blade, but PTSD was no joke. I’d visited the victims. Their faces were pale, and they couldn’t even speak.
 
-The worst of all was the wandering martial artist called Moon Beauty Saber. He was trembling so violently that I almost mistook Henan for Antarctica’s King Sejong Station.
+Moon Beauty Saber was in the worst shape. He trembled so hard I could have mistaken Henan for Antarctica’s King Sejong Station.
 
 “None of this would have happened if you hadn’t ordered that all-out attack, Great Hero Peng.”
 
@@ -234,11 +230,11 @@ The Thunderbolt Saber King’s round eyes widened at my continued criticism.
 
 “Yes, you! Weren’t you the one who rounded up every martial artist nearby and brought them here?”
 
-“I admit that part. But given the circumstances, it was unavoidable. Isn’t that right?”
+“I admit it. But given what we thought was happening, I couldn’t help it. Right?”
 
 At my question, Unnamed, my accomplice in the corner, ran his fingers over his prayer beads.
 
-“Benefactor Jin is correct. Even if Shakyamuni had been in my position, he would have rushed forward crying out for the destruction of demons.”
+“Benefactor Jin is right. Even if Shakyamuni had been in my position, he would have rushed forward crying out to destroy the fiends.”
 
 “Could you uproot a bodhi tree and crush a fiend’s skull with it?”
 
@@ -278,7 +274,7 @@ The Thunderbolt Saber King’s face flushed red. He was about to leap to his fee
 
 “Quiet. All of you, shut your mouths.”
 
-Perhaps the only thing connecting the two men was the two characters in their title: Ten Kings.
+Their voices and manner could hardly have been more different. Perhaps the only thing the two men had in common was their place among the Ten Kings.
 
 “I was rash,” the Azure Sky Sword King said plainly. “It had been so long since I last felt my blood stir. I let it get the better of me.”
 
@@ -312,13 +308,13 @@ If Jeok Cheongang hadn’t Returned to Youth, a few of them probably would have 
 
 “That was almost a catastrophe!”
 
-“I could have explained everything. And it happened because your eyes are as bad as a dog’s, you Peng bastard.”
+“I could have explained. It happened because your eyes are as bad as a dog’s, Peng.”
 
 “The inn collapsed! People got hurt!”
 
 “Ahem.”
 
-Perhaps he felt a bit guilty himself. Jeok Cheongang cleared his throat, then opened his mouth with a shameless expression.
+Perhaps that hit a nerve. Jeok Cheongang cleared his throat, then put on a shameless face.
 
 “Given the location, I held back. At worst, they got bumped by a little falling debris. Put some spit on it and they’ll be fine. I’ll compensate the innkeeper properly. Even I could see the place burned quite badly.”
 
@@ -332,17 +328,17 @@ Perhaps he felt a bit guilty himself. Jeok Cheongang cleared his throat, then op
 
 It was utter nonsense, yet somehow it had a logic of its own.
 
-“Returned to Youth only changed the skin you’re wearing. The contents are still the same. Your personality is still completely fucked.”
+The Thunderbolt Saber King was speechless for a moment. Then he muttered, “Returned to Youth only changed the skin you’re wearing. You’re still the same underneath. Still a complete bastard.”
 
 “You ought to do something about the skin on your face, Peng. All you’ve done is get old without Returning to Youth.”
 
 “What did you say?”
 
-“Ho. They say a man who failed to Return to Youth gets angry when reminded of it. You’re a perfect example.”
+“Ah, so it’s true. A man who hasn’t Returned to Youth gets angry when you point it out.”
 
 “How dare you, Jeok!”
 
-“Hm? What did you say? I can’t hear you. The words of an insignificant nobody who couldn’t even Return to Youth are hard to make out.”
+“Hm? What was that? I can’t hear what some nobody who hasn’t even Returned to Youth is saying.”
 
 *Would you look at him dishing out area-of-effect damage.*
 
