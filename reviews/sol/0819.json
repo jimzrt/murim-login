@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "could be described in just four words:\n\nA back-and-forth struggle.",
+      "defect": "The source says four characters, not four words.",
+      "id": "F01",
+      "rationale": "일진일퇴 is a four-character expression for the battle’s back-and-forth course.",
+      "replacement": "could be summed up in four characters:\n\nAdvance and retreat.",
+      "severity": "minor",
+      "source": "단 네 글자로 설명할 수 있었다.\n\n일진일퇴(一進一退)."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But the comrade who had saved his life countless times never answered.",
+      "defect": "The draft turns repeated mutual rescues into one comrade repeatedly saving the other.",
+      "id": "F02",
+      "rationale": "서로의 목숨을 구해 준 makes the rescues reciprocal.",
+      "replacement": "But the comrade with whom he had saved each other’s life time and again never answered.",
+      "severity": "major",
+      "source": "지금껏 몇 번이나 서로의 목숨을 구해 준 전우는 대답하지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A war of attrition, made possible by their more-than-tenfold numbers.",
+      "defect": "A war of attrition loses the specific tactic of rotating fighters against the enemy.",
+      "id": "F03",
+      "rationale": "차륜전 describes successive, rotating attacks, not merely wearing an opponent down.",
+      "replacement": "They used their more-than-tenfold numbers to attack in rotating waves.",
+      "severity": "major",
+      "source": "열 배가 넘는 머릿수를 바탕으로 펼치는 차륜전."
+    },
+    {
+      "confidence": 0.99,
+      "current": "dazzling flashes cut through the air and shot toward the Skeleton King.",
+      "defect": "The flashes cut through the falling bodies, not the air.",
+      "id": "F04",
+      "rationale": "시신을 가르며 identifies the bodies as what the flashes cut through.",
+      "replacement": "dazzling flashes cut through the falling bodies and shot toward the Skeleton King.",
+      "severity": "critical",
+      "source": "눈부신 섬광이 시신을 가르며 스켈레톤 킹을 향해 날아들었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Which one of us is the demon?”",
+      "defect": "The Skeleton King is objecting to being called a demon, rather than asking which of the two is one.",
+      "id": "F05",
+      "rationale": "누가 악마라는 거냐 is a direct retort to the fanatic’s “이 악마야!”",
+      "replacement": "“Who are you calling a demon?”",
+      "severity": "minor",
+      "source": "“누가 악마라는 거냐.”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "He muttered a string of curses as his blond hair fluttered, then faced forward.",
+      "defect": "The draft omits that he looks at the blond hair and assumes it is his.",
+      "id": "F06",
+      "rationale": "흩날리는 금발을 보며 states what he sees but does not explicitly identify whose hair it is.",
+      "replacement": "He watched blond hair flutter through the air, muttered a string of curses, then faced forward.",
+      "severity": "minor",
+      "source": "흩날리는 금발을 보며 쌍욕을 중얼거린 그가 정면을 응시했다."
+    }
+  ],
+  "summary": "Several action and tactical details are altered, including a mutual bond between comrades and how the fanatics use their numbers.",
+  "version": 1
+}
