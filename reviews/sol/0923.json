@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "All the more so when a full course of unspeakably horrific torture is waiting just beyond it.",
+      "defect": "Places the torture beyond death rather than before it.",
+      "id": "F01",
+      "rationale": "그 죽음 앞에 places the torture ahead of death.",
+      "replacement": "All the more so when a full course of unspeakably horrific torture awaits you before death.",
+      "severity": "critical",
+      "source": "더군다나 그 죽음 앞에, 차마 입에 담을 수 없는 끔찍한 고문 풀코스가 예약되어 있다면 더더욱."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Those you call lawless ruffians from the martial world fought a desperate battle and ended up covered in blood, while those of you who call yourselves ministers of the court somehow look untouched after such a fierce battle.",
+      "defect": "Turns the single bloodied martial artist the Emperor is defending into a group.",
+      "id": "F02",
+      "rationale": "The Emperor contrasts the singular 무뢰배, visibly bloodied, with the unscathed officials.",
+      "replacement": "The martial-world ruffian you speak of fought desperately and ended up covered in blood, while you ministers of the court somehow look untouched after such a fierce battle.",
+      "severity": "major",
+      "source": "그대들이 말하는 강호의 무뢰배는 악전고투를 치르며 저리 피투성이가 되었는데, 조정의 중신들이라는 자들은 이 치열한 전투 속에서도 어찌 그리 멀쩡한 모습들인지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even if the poison that cast its long shadow of death over the imperial family had been the Blood Soul Gu, the Slaughter Saint and the Divine Physician I knew would have found some way to deal with it.",
+      "defect": "Makes a possible cure certain.",
+      "id": "F03",
+      "rationale": "찾을 수도 있었을 테니까 preserves Taekyung’s uncertainty.",
+      "replacement": "Even if the poison that cast its long shadow of death over the imperial family had been the Blood Soul Gu, the Slaughter Saint and the Divine Physician I knew might have found some way to deal with it.",
+      "severity": "major",
+      "source": "설령 황실에 짙은 죽음의 그림자를 드리운 독의 정체가 혈혼고(血魂蠱)라 해도, 내가 아는 살성과 신의라면 어떻게든 방법을 찾을 수도 있었을 테니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "But the cruel twist of fate ended with the deaths of the late Emperor, the Crown Prince, and several other members of the imperial family.",
+      "defect": "Changes the plural crown princes into one Crown Prince.",
+      "id": "F04",
+      "rationale": "황태자들 is plural.",
+      "replacement": "But the cruel twist of fate ended with the deaths of the late Emperor, the crown princes, and several other members of the imperial family.",
+      "severity": "critical",
+      "source": "하지만 그 공교로운 운명의 끝은 선황과 황태자들을 비롯한 여러 황족들의 죽음이었고"
+    },
+    {
+      "confidence": 1.0,
+      "current": "He’d fought against the imperial palace and Baek Yeon, and suffered injuries so severe he could never recover.",
+      "defect": "Mistakes the Bow Saint’s title for the imperial palace.",
+      "id": "F05",
+      "rationale": "궁성 is the established title Bow Saint; the passage names two opponents.",
+      "replacement": "He’d fought against the Bow Saint and Baek Yeon, and suffered injuries so severe he could never recover.",
+      "severity": "critical",
+      "source": "그는 궁성과 백연에 맞서 싸우다가 회복할 수 없는 극심한 부상을 입었고"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Me, the Emperor, Baek Yeon, and the Fire King.",
+      "defect": "Substitutes Baek Yeon for the Bow Saint among those left speechless.",
+      "id": "F06",
+      "rationale": "궁성 refers to the Bow Saint, not Baek Yeon.",
+      "replacement": "Me, the Emperor, the Bow Saint, and the Fire King.",
+      "severity": "critical",
+      "source": "나도, 황제도, 궁성과 화왕도."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Toward the enemy who had killed his parents and elder brother.",
+      "defect": "Changes his brothers into one elder brother.",
+      "id": "F07",
+      "rationale": "형제 is plural here and does not specify an elder brother.",
+      "replacement": "Toward the enemy who had killed his parents and brothers.",
+      "severity": "critical",
+      "source": "다름 아닌 자신의 부모와 형제를 죽인 원수를 향해."
+    },
+    {
+      "confidence": 0.87,
+      "current": "“What a fucking mess.”",
+      "defect": "Intensifies the Demon Lord’s restrained curse.",
+      "id": "F08",
+      "rationale": "빌어먹을 conveys a curse, but not the stronger profanity of “fucking”; his phrasing remains measured.",
+      "replacement": "“What a damnable thing.”",
+      "severity": "major",
+      "source": "“참으로 빌어먹을 일이로군.”"
+    }
+  ],
+  "summary": "The draft changes two identities, several quantities and relationships, and the timing of the torture. It also makes one medical possibility certain and intensifies the closing profanity.",
+  "version": 1
+}
