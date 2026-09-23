@@ -1,28 +1,29 @@
 # Translation State
 
-- Last completed: 889
-- Next chapter: 890
-- Current block: 885–889 (5/5)
-- Latest translation: `translations/0889.md`
-- Latest summary: `summaries/beats/0889.md`
-- Safe profiles through: chapter 889
+- Last completed: 890
+- Next chapter: 891
+- Current block: 890–894 (1/5)
+- Latest translation: `translations/0890.md`
+- Latest summary: `summaries/beats/0890.md`
+- Safe profiles through: chapter 890
 
 ## Current Block
 
-- So Gyo tells Baek Yeon that Jin Taekyung may be the person she has been searching for—the one foretold by a figure she calls “that person”—and says she must confirm more before acting against him. She retrieves two buried, curved saber-like objects and says the coming battle may be fiercer than the one over a decade ago. Baek Yeon worries that Jeok Cheongang could join Taekyung’s side, but So Gyo says that might be preferable; she keeps the reason from Baek Yeon, noting that only she and the Emperor know the secret. With the banquet three days away and Prince Shangshan in enemy hands, Taekyung decides the confrontation cannot be avoided. In heavy rain, he slips out toward the Outer Palace, intending to bring in Jeok Cheongang, but encounters Jeong Hogun inspecting the guards.
+- While Jin Taekyung hides near the Inner Palace, Jeong Hogun orders two Imperial Guard soldiers dismissed for abandoning their posts. Ma Sanbao intervenes, insists on proper procedure, and draws Jeong Hogun away; he has already noticed Taekyung and warns him through Sound Transmission to be careful, promising to contact him later.
+- Taekyung follows a food delivery to find the group’s lodging in the Outer Palace, learning that Taishan has eaten more than twenty plates of five-spice pork in less than half a shichen. He slips into Jeok Cheongang’s pavilion and announces his arrival.
 
 ## Open Questions
 
 - Who is the person So Gyo seeks, and who foretold them?
-- What secret do So Gyo and the Emperor share, and why would Jeok Cheongang joining Taekyung’s side be preferable to So Gyo?
-- What will happen at the imperial banquet, and can Taekyung reach Jeok Cheongang?
-- Who is So Gyo, and whom does she serve?
-- What is the purpose of the two curved saber-like objects So Gyo recovered?
+- What secret do So Gyo and the Emperor share, and why might Jeok Cheongang joining Taekyung’s side be preferable to So Gyo?
+- What will happen at the imperial banquet?
+- What is the purpose of So Gyo’s two curved saber-like objects?
+- Why, and by what process, were Murim assassins drawn into the conflict?
 
 ## Exceptional Decision
 
-- Render 곡도 descriptively as “curved saber”; do not treat it as a proper name.
-- Retain “that person” for 그분; the foreteller is not identified in this chapter.
+- Retain “that person” for 그분; the foreteller is unidentified.
+- Render 곡도 descriptively as “curved saber,” not as a proper name.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
