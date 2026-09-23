@@ -84,7 +84,7 @@ This training had helped me make up for some of that weakness.
 
 *I can do this. As long as I keep my head clear, I can do it.*
 
-It was warm. The Three Flowers Gather at the Crown trembled above my head.
+Warmth hovered above my head. The Three Flowers Gather at the Crown trembled.
 
 *Don’t worry. Internal energy is faster than hands.*
 
@@ -100,7 +100,7 @@ Crack!
 
 The sudden voice shattered my concentration. The internal energy taking shape as Five Qi Returning to Origin scattered, then reversed its flow.
 
-At the same time, my internal energy reversed its flow. Gastric juices surged up from deep inside my body, and I vomited.
+Something surged up from deep inside me, and I vomited.
 
 “Oooooogh!”
 
@@ -116,7 +116,7 @@ I poured out what had come up and stood panting. Then I saw the side dishes I’
 
 Ah. Couldn’t hold that back.
 
-Only after emptying my stomach several more times did my mind finally clear. I glared at the owner of the leather shoes who had already moved a considerable distance away.
+Only after throwing up several more times did I come to my senses. I glared at the owner of a pair of leather shoes, now standing well out of range.
 
 “What are you doing?”
 
@@ -126,7 +126,7 @@ Mungyeong inspected the shoes on his feet before answering.
 
 “Not that. Why did you talk to me while I was circulating my qi?”
 
-“I didn’t even touch you, so what’s the problem? You’ve reached that realm, yet your composure is shattered by a few words. That is your deficiency.”
+“I didn’t shake you. What’s the problem? If a few words are enough to break your concentration at your level, you’re the one who’s lacking.”
 
 “You startled me!”
 
@@ -162,9 +162,7 @@ My voice trailed off.
 
 Slide. Thump!
 
-A figure collapsed with a faint flop through the half-open doorway.
-
-The back of the head was so familiar that my eyes widened before I could stop them.
+Someone toppled through the half-open doorway. I knew the back of that head anywhere.
 
 “Mujin! Hyuk Mujin!”
 
@@ -174,9 +172,7 @@ He wouldn’t wake up even if I shook him?
 
 That blood-crazed Killing Ghost had finally done it.
 
-I roared furiously.
-
-“You cold-blooded murderer! You’re just like that bastard the Slaughter Saint!”
+“You cold-blooded murderer! You Slaughter Saint bastard!”
 
 “He was asleep in front of the door. I tried to wake him, but he wouldn’t budge… What did you just say?”
 
@@ -210,7 +206,7 @@ Our gazes met in silence. I gave Mungyeong a charming smile.
 
 “Why couldn’t I? Do you have a problem with it?”
 
-I did have a problem with it, and his cochlea also seemed to have a serious problem, but I lacked the courage to point that out.
+I did. His hearing seemed to have a serious problem too, but I didn’t have the courage to point it out.
 
 “I was wrong.”
 
@@ -244,15 +240,13 @@ Mungyeong looked at me as if calculating how many pieces he’d have to cut me i
 
 “Enough. Every time I talk to you, it drains me.”
 
-“……”
-
 *He’s one to talk. I’m losing life force by the second.*
 
 I’d bet Hyuk Mujin’s left atrium that conversation had shaved at least three days off my life.
 
 *I told that bastard Hyuk Mujin to stand guard. He couldn’t even resist falling asleep again.*
 
-Mungyeong was something else, but Hyuk Mujin was no less impressive.
+Mungyeong was something else, but Mujin was impressive in his own way.
 
 “So what brings you here…?”
 
@@ -272,7 +266,7 @@ Mungyeong sighed quietly and tossed me the bundle in his hand.
 
 Thump.
 
-I caught it reflexively and stared at it with wide eyes.
+I caught it on reflex and stared.
 
 “What’s this?”
 
@@ -290,7 +284,7 @@ They said you could tell how potent some elixirs were before you even saw them. 
 
 Click.
 
-When I opened the case, a reddish pill came into view. Even at first glance, it was clearly no ordinary pill.
+Inside lay a single reddish pill. It looked extraordinary at a glance.
 
 I stared at it for a moment, then looked up at Mungyeong.
 

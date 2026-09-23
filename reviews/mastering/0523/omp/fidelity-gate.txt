@@ -1,0 +1,45 @@
+{
+  "summary": "The scene is largely faithful, but a few wording choices add a physical detail, omit a source image, or weaken the joke logic.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 115–117",
+      "current": "The internal energy taking shape as Five Qi Returning to Origin scattered, then reversed its flow.",
+      "defect": "The source says the energy scattered, then separately describes the resulting reversal. This sentence adds that the energy reversed as part of its scattering, and the next sentence repeats the reversal.",
+      "replacement": "The internal energy taking shape as Five Qi Returning to Origin scattered to pieces.",
+      "rationale": "The Korean first says the forming energy scatters, then says the reversal of internal energy arrives at the same time as the vomiting.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 223–225",
+      "current": "“Can’t we just agree that good is good?”",
+      "defect": "This renders the Korean idiom literally, making the line unnatural and weakening the setup for Mungyeong’s “Dead is dead?” retort.",
+      "replacement": "“Can’t we just let bygones be bygones?”",
+      "rationale": "좋은 게 좋은 거 아니겠습니까 functions as an appeal to let the matter go, not as a literal claim that good is good.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 47",
+      "current": "the blank canvas of my mind",
+      "defect": "The source describes the canvas as clean as well as blank; that image is lost here.",
+      "replacement": "the clean, blank canvas of my mind",
+      "rationale": "The Korean says 깨끗한 도화지, preserving the clean-slate image that the accepted baseline also retained.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 127",
+      "current": "I poured out what had come up and stood panting.",
+      "defect": "“Stood” adds a posture not established by the source.",
+      "replacement": "I poured out what had come up and panted for breath.",
+      "rationale": "The Korean says he expels what surged up and pants; it does not say he stands.",
+      "confidence": 0.96
+    }
+  ]
+}

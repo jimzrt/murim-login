@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The internal energy taking shape as Five Qi Returning to Origin scattered, then reversed its flow.",
+      "defect": "The source says the energy scattered, then separately describes the resulting reversal. This sentence adds that the energy reversed as part of its scattering, and the next sentence repeats the reversal.",
+      "id": "F01",
+      "rationale": "The Korean first says the forming energy scatters, then says the reversal of internal energy arrives at the same time as the vomiting.",
+      "replacement": "The internal energy taking shape as Five Qi Returning to Origin scattered to pieces.",
+      "severity": "minor",
+      "source": "Lines 115–117"
+    },
+    {
+      "confidence": 0.87,
+      "current": "“Can’t we just agree that good is good?”",
+      "defect": "This renders the Korean idiom literally, making the line unnatural and weakening the setup for Mungyeong’s “Dead is dead?” retort.",
+      "id": "F02",
+      "rationale": "좋은 게 좋은 거 아니겠습니까 functions as an appeal to let the matter go, not as a literal claim that good is good.",
+      "replacement": "“Can’t we just let bygones be bygones?”",
+      "severity": "minor",
+      "source": "Lines 223–225"
+    },
+    {
+      "confidence": 0.96,
+      "current": "the blank canvas of my mind",
+      "defect": "The source describes the canvas as clean as well as blank; that image is lost here.",
+      "id": "F03",
+      "rationale": "The Korean says 깨끗한 도화지, preserving the clean-slate image that the accepted baseline also retained.",
+      "replacement": "the clean, blank canvas of my mind",
+      "severity": "minor",
+      "source": "Line 47"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I poured out what had come up and stood panting.",
+      "defect": "“Stood” adds a posture not established by the source.",
+      "id": "F04",
+      "rationale": "The Korean says he expels what surged up and pants; it does not say he stands.",
+      "replacement": "I poured out what had come up and panted for breath.",
+      "severity": "minor",
+      "source": "Line 127"
+    }
+  ],
+  "summary": "The scene is largely faithful, but a few wording choices add a physical detail, omit a source image, or weaken the joke logic.",
+  "version": 1
+}
