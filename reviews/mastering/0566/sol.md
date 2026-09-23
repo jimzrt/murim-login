@@ -28,7 +28,7 @@ It was a handkerchief. I blinked at him, and Team Leader Choi pointed awkwardly 
 
 “…Oh.”
 
-“It looks like it’s about to dr—ugh.”
+“It looks like it’s about to drip. Ugh.”
 
 What was with the *ugh*? A man could drool a little.
 
@@ -60,7 +60,7 @@ From everything I’d seen and heard, Butler Kim was practically up there with J
 
 *Who the hell is this guy?*
 
-Judging by how severely he was criticizing the man’s entire life, they clearly knew each other well. But there were so many Ares Guild executives who wielded considerable influence that no name immediately came to mind.
+Butler Kim clearly knew him well enough to judge the life he’d led. The trouble was, Ares had so many influential executives that I couldn’t put a name to him.
 
 As if he’d read my mind, Team Leader Choi spoke.
 
@@ -90,7 +90,7 @@ That was before the rules for the position had been properly established, but ev
 
 For someone with his reputation, though, there was barely anything about him online. A man like this had to have plenty of accomplishments and stories to his name, yet his biography was only two or three lines long. His profile hadn’t even been updated in three years.
 
-*Three years ago?*
+*Three years?*
 
 Even a B-list celebrity would have more written about them. I frowned and tapped around for another source.
 
@@ -100,9 +100,7 @@ My phone vibrated faintly. A notification appeared on the screen.
 
 > **Team Leader Choi**
 >
-> **Team Leader Choi**
->
-> *[File attached]*
+> File attached
 
 “What’s this all of a sudden?”
 
@@ -150,7 +148,7 @@ I read the line aloud. Team Leader Choi nodded.
 
 “What makes you think so?”
 
-“Who do you take me for, an idiot? Cheon Tae—sorry. Anyway, you seem to have quite a connection with that person, and Butler Kim knows him too, so there has to be a link. To give one more example……”
+“Do you take me for an idiot? Cheon Tae—sorry. Anyway, he seems to have had a close connection to your grandfather, and Butler Kim knows him too. There’s a link there. And one more thing…”
 
 “What would that be?”
 
@@ -198,7 +196,7 @@ It wasn’t a collection of Internet gossip. Experts had compiled and polished t
 
 *So that’s why he sent it separately.*
 
-Unlike the online profile, whose updates had stopped five years ago, the final page of the file dealt with recent events.
+I looked back down at my phone. Unlike the online profile, which hadn’t been updated in years, the last page of the file covered recent events.
 
 - **November 15, 2046.** Discussed retirement at a party hosted by the British ambassador. Audio file attached.
 - **November 28, 2046.** Purchased a two-story mansion of approximately 300 pyeong in Samseong-dong, Seoul. Appears intended as a residence after retirement.
@@ -216,7 +214,7 @@ The file was packed with information on Song Cheonwoo’s movements over the pas
 
 Team Leader Choi nodded.
 
-“In November, he subtly expressed his intention to resign in a private setting, and he even purchased a mansion in Korea where he could stay after retirement. But……”
+“In November, he privately hinted that he intended to retire. He even bought a mansion in Korea to live in afterward. But…”
 
 “Lee Jungryong died.”
 
@@ -252,7 +250,7 @@ The savior of the twenty-first century. The immortal hero who had saved humanity
 
 He hadn’t shown himself even when his only blood relative was in danger. Not even after Lee Jungryong died.
 
-And his maternal grandson, born of the hero’s blood, spoke with the smile gone from his face.
+Now the hero’s grandson spoke, the smile gone from his face.
 
 “Song Cheonwoo knew where my maternal grandfather was.”
 
@@ -272,11 +270,11 @@ But there was nothing else he could do. His job was to report the facts as they 
 
 His superior’s next words proved how badly he’d misjudged the situation.
 
-“Kill him.”
+“Kill them.”
 
 “Sir?”
 
-“I said kill him. His children. His grandchildren. His daughters-in-law. All of them.”
+“I said kill them. His children, his grandchildren, his daughters-in-law. All of them.”
 
 *Thud.*
 
