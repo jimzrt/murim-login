@@ -1,27 +1,25 @@
 # Translation State
 
-- Last completed: 872
-- Next chapter: 873
-- Current block: 870–874 (3/5)
-- Latest translation: `translations/0872.md`
-- Latest summary: `summaries/beats/0872.md`
-- Safe profiles through: chapter 872
+- Last completed: 873
+- Next chapter: 874
+- Current block: 870–874 (4/5)
+- Latest translation: `translations/0873.md`
+- Latest summary: `summaries/beats/0873.md`
+- Safe profiles through: chapter 873
 
 ## Current Block
 
-- Taekyung realizes the gaunt guide is the Emperor, a Supreme Peak master who has concealed his strength and identity even from Ma Sanbao. The Emperor probes what Hong Jin told Taekyung, briefly surrounds him with hidden guards, then dismisses them and corrects his manner of address. Prince Shangshan obeys the Emperor’s summons and prostrates himself; the Emperor questions him about his age and martial training, recalls their family’s martial tradition, and says he will take care of him, leaving Taekyung wary of the Emperor’s intentions.
+- In the Emperor’s bedchamber, Taekyung argues that Prince Shangshan is mature enough to live without the Emperor’s care. The Emperor grants Taekyung fifteen minutes to speak freely, then proposes revoking Shangshan’s Shanxi posting and keeping him in the palace. When Taekyung questions why the Emperor is acting as a brother after neglecting Shangshan for over a decade, assassins surround and wound him. Shangshan prostrates himself to beg for Taekyung’s life. The Emperor keeps his promise to Taekyung but orders First Shadow to execute Third Shadow for disobeying him. The Emperor gives Taekyung a chance to say farewell to Shangshan as the assassins close in; Taekyung realizes he can no longer protect the prince there.
 
 ## Open Questions
 
-- What does the Emperor intend for Prince Shangshan and Taekyung?
-- Will Taekyung agree to help Ma Sanbao enthrone Prince Shangshan, and what would the plan require?
-- What do the twin Supreme Peak masters want, and why have they blocked the procession?
-- What does Ma Sanbao know about Dark Heaven, and what reward is he offering?
+- What does the Emperor intend to do with Prince Shangshan in the palace?
+- Can Taekyung protect Shangshan or escape the assassins?
+- What will happen to Taekyung after the Emperor’s final offer?
 
 ## Exceptional Decision
 
-- Render 흠천감 as “Imperial Astronomical Bureau.”
-- Render 형부 as “Ministry of Punishments.”
+- Render 삼영 as “Third Shadow,” 일영 as “First Shadow,” and 관내후 as “Marquis Within the Passes.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

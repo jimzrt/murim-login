@@ -1,6 +1,6 @@
 # Ju Wongong (주원공)
 
-- **Safe through:** Chapter 850
+- **Safe through:** Chapter 873
 - **Aliases:** Qingxia Hall young master
 - **Role:** Ju Wongong is an exiled Qingxia Hall young master and distant imperial relative who, while still under punishment, has been temporarily appointed acting City Lord of Sichuan Province by imperial order.
 - **Personality:** Entitled, status-conscious, theatrical, and amused by violence until his own protection is overcome.

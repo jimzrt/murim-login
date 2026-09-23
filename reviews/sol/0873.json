@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Or those lawless martial-world ruffians who disregard the Great Nation’s laws and roam the land?",
+      "defect": "The plural obscures that the Emperor is singling out Taekyung; 법도 refers to propriety or established order, not just laws.",
+      "id": "F01",
+      "rationale": "The source uses a singular ruffian, whom the narrator immediately identifies as himself.",
+      "replacement": "Or that martial-world ruffian who flouts the Great Nation’s rules of propriety and roams the land?",
+      "severity": "major",
+      "source": "아니면 대국의 법도를 무시하고 천하를 종횡하는 강호의 무뢰배?"
+    },
+    {
+      "confidence": 0.94,
+      "current": "In the time he’d been given without earning it, the thirteen-year-old Prince Shangshan had already proved by himself what even grown men, who’d done nothing but get older, couldn’t.",
+      "defect": "The draft attaches the unearned passage of time to Prince Shangshan rather than to adults who have merely aged.",
+      "id": "F02",
+      "rationale": "The source contrasts the prince’s independent action with adults who have received time for free and only grown older.",
+      "replacement": "The thirteen-year-old Prince Shangshan had already proved on his own that he could do what even adults who’d done nothing but age with the time handed to them could not.",
+      "severity": "major",
+      "source": "아무런 대가 없이 주어지는 시간 속에서 나이만 먹은 성인들조차 할 수 없는 일을, 열셋의 상산왕은 이미 홀로 입증해 보였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "What if I were to revoke the Shanxi Province post granted to Prince Shangshan by imperial command, appoint him a Baron of Guannei, and keep him by my side?",
+      "defect": "관내후 is a marquis title, not a barony; 임지 is his assigned territory, not an administrative post.",
+      "id": "F03",
+      "rationale": "The Emperor threatens to take away the prince’s Shanxi territory and confer a different noble title.",
+      "replacement": "What if I issued an imperial command right here and now to revoke Prince Shangshan’s assigned territory in Shanxi Province, grant him the title Marquis Within the Passes, and keep him by my side?",
+      "severity": "critical",
+      "source": "짐이 이 자리에서 당장 황명으로 상산왕에게 주어진 산서성 임지를 철회하고, 관내후(關內侯)에 봉하여 내 곁에 둔다면 어찌하겠느냐?"
+    },
+    {
+      "confidence": 0.93,
+      "current": "If that happens, what will become of His Highness?",
+      "defect": "The question specifically asks where the prince will go or reside, rather than broadly what will become of him.",
+      "id": "F04",
+      "rationale": "거취 concerns the prince’s whereabouts, which the Emperor answers by describing life in the palace.",
+      "replacement": "If you do that, where will His Highness stay?",
+      "severity": "minor",
+      "source": "만약 그렇게 된다면, 상산왕 전하의 거취는 어찌 되시는 겁니까."
+    },
+    {
+      "confidence": 0.88,
+      "current": "the Emperor, gazing down at the sight with proud composure, suddenly spoke.",
+      "defect": "“Proud composure” makes the Emperor sound dignified rather than aloof and haughty.",
+      "id": "F05",
+      "rationale": "오연히 conveys an imperious, aloof bearing as he watches the prince abase himself.",
+      "replacement": "the Emperor, looking down on the scene with cool arrogance, suddenly spoke.",
+      "severity": "minor",
+      "source": "그 광경을 오연히 굽어보던 황제는 불현듯 입을 열었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Isn’t that right, Samyeong?",
+      "defect": "The untranslated designation hides the assassin’s numbered Shadow title.",
+      "id": "F06",
+      "rationale": "三影 literally identifies this assassin as the third Shadow, paired with 一影 later in the scene.",
+      "replacement": "Isn’t that right, Third Shadow?",
+      "severity": "minor",
+      "source": "그렇지 않나, 삼영(三影)?"
+    },
+    {
+      "confidence": 0.93,
+      "current": "The assassin called Samyeong, who had been holding his dagger down as if ready to cut my throat at any moment, fell silent.",
+      "defect": "The narration repeats the untranslated designation.",
+      "id": "F07",
+      "rationale": "The designation should remain intelligible and consistent after its first use.",
+      "replacement": "The assassin called Third Shadow, who had been holding his dagger down as if ready to cut my throat at any moment, fell silent.",
+      "severity": "minor",
+      "source": "삼영이라 불린 살수가 잠시 침묵했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Il Yeong. Carry it out.",
+      "defect": "The parallel numbered designation is left untranslated.",
+      "id": "F08",
+      "rationale": "一影 identifies the assassin ordered to act as First Shadow.",
+      "replacement": "First Shadow. Carry it out.",
+      "severity": "minor",
+      "source": "일영(一影). 행하라."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Another masked man dropped from the air and, without the slightest hesitation, slashed Samyeong across the throat. Then he bowed before the Emperor.",
+      "defect": "The final occurrence of the assassin’s designation remains inconsistent with the translated title.",
+      "id": "F09",
+      "rationale": "This is the same Third Shadow the Emperor addressed earlier.",
+      "replacement": "Another masked man dropped from the air and, without the slightest hesitation, slashed Third Shadow across the throat. Then he bowed before the Emperor.",
+      "severity": "minor",
+      "source": "삼영의 목젖을 그어 버린 또 다른 복면인이 황제를 향해 부복했다."
+    }
+  ],
+  "summary": "The draft preserves the confrontation, but changes the proposed noble rank and misassigns a key comparison about maturity. Several smaller wording choices obscure whom the Emperor is targeting.",
+  "version": 1
+}

@@ -1384,3 +1384,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 중년인 | 상산왕 | unknown imperial subject addressing a prince | His Highness, Prince Shangshan | formal and deferential | Addresses him as 상산왕 전하 while remarking on seeing him grown. |
 | 황제 | 상산왕 주표 | elder brother addressing his youngest younger brother | you | authoritative and familiar | Summons him directly and uses 너. |
 | 상산왕 주표 | 황제 | younger brother addressing the Emperor | Your Majesty, my imperial brother | formal and deferential | Greets him as 형님 폐하. |
+| 진태경 | 황제 | guest of the Emperor’s younger brother addressing the Emperor | Your Majesty | formal and deferential in address, despite blunt challenges | Taekyung repeatedly addresses the Emperor as 폐하. |
+| 상산왕 | 황제 | younger brother addressing the Emperor | Your Majesty | deferential royal address | Shangshan addresses the Emperor as 폐하 while pleading for Taekyung. |

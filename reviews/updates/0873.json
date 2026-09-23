@@ -1,0 +1,101 @@
+{
+  "chapter": 873,
+  "files": {
+    "characters/Baek Yeon.md": "62dae01f7c8949a7b7f05b12fd52bb5370e6a5244156e12e837676f271d199d8",
+    "characters/Divine Physician.md": "681452401a2fcd812211531c0932c6d0af41f3b4132aa66ff62ff084b5881acc",
+    "characters/Hong Jin.md": "7c02bcaff55223ee284990d0d55e10ec3045ec9db6ae48653429f7a35c0b7c1f",
+    "characters/Jin Taekyung.md": "38b04805b9ccf8ef2d8129b91a6cd375fb090c66896d2239bc24b4176557665f",
+    "characters/Jintae.md": "bfce1b2d5b0f6921ab2390db49ca9e3bca5b8c126462e7c8894aaea7a3f47b66",
+    "characters/Ju Wongong.md": "30cd2b23ba48a1490d6d4a0feb30a9c90efc64a7ab226958cc68e41c384a6b99",
+    "characters/Masked Man.md": "be20b92b87bdb1f2a0fb4b0837e5a8bd44ed2938b52275bbcb89d1fdd10058b0",
+    "characters/Prince Shangshan.md": "d236324b1b2dd01df437b0ee105eecbc498871ab9aac4bd961fa8b78a840a60c",
+    "docs/ADDRESS.md": "747f2b42f594e0c9f7fa0dba71a336918b1c226c9df72e6ab2a5948179aca6bf",
+    "docs/CONTEXT.json": "6dd81a73c0bf4354531f31e9dde4a328d09aec1189ae3be109bf017a785ce7c0",
+    "docs/NAMES.md": "a0000139fa1d2bae96120b59075e9f668e6032709b689eac2cb8719aefa088e0",
+    "docs/STATE.md": "44d271158ec8d3e389b243ff52d95a9149e3b6d4ef18d03f1f6c710f4d0358d8",
+    "summaries/beats/0873.md": "101fdd8cc500bae77b77ad013b7429186b4c25d036e0b4a8219414f1308bcd42"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "황제",
+        "kinship": "guest of the Emperor’s younger brother addressing the Emperor",
+        "normal_address": "Your Majesty",
+        "notes": "Taekyung repeatedly addresses the Emperor as 폐하.",
+        "speaker": "진태경",
+        "speech_level": "formal and deferential in address, despite blunt challenges"
+      },
+      {
+        "addressee": "황제",
+        "kinship": "younger brother addressing the Emperor",
+        "normal_address": "Your Majesty",
+        "notes": "Shangshan addresses the Emperor as 폐하 while pleading for Taekyung.",
+        "speaker": "상산왕",
+        "speech_level": "deferential royal address"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Emperor says he will take care of Prince Shangshan and proposes bringing him to the palace, away from his Shanxi posting; Taekyung suspects the Emperor’s people would watch or endanger him.",
+        "Taekyung argues that Shangshan has shown independent judgment and is mature despite his youth; Shangshan calls Taekyung his guest and friend and begs the Emperor to spare him.",
+        "The Emperor’s assassins surround Taekyung and wound his neck. The Emperor orders First Shadow to execute Third Shadow for disobeying him, then permits Taekyung a final farewell with Shangshan as the assassins close in."
+      ],
+      "plot": [
+        "In the Emperor’s bedchamber, Taekyung argues that Prince Shangshan is mature enough to live without the Emperor’s care. The Emperor grants Taekyung fifteen minutes to speak freely, then proposes revoking Shangshan’s Shanxi posting and keeping him in the palace. When Taekyung questions why the Emperor is acting as a brother after neglecting Shangshan for over a decade, assassins surround and wound him. Shangshan prostrates himself to beg for Taekyung’s life. The Emperor keeps his promise to Taekyung but orders First Shadow to execute Third Shadow for disobeying him. The Emperor gives Taekyung a chance to say farewell to Shangshan as the assassins close in; Taekyung realizes he can no longer protect the prince there."
+      ],
+      "translation_decisions": [
+        "Render 삼영 as “Third Shadow” and 일영 as “First Shadow.”",
+        "Render 관내후 as “Marquis Within the Passes.”"
+      ]
+    },
+    "chapter": 873,
+    "context": {
+      "active_continuity": [
+        "The Emperor says he will take care of Prince Shangshan and proposes bringing him to the palace, away from his Shanxi posting.",
+        "Taekyung argues that Shangshan is mature and independent; Shangshan calls Taekyung his guest and friend and begs for his life.",
+        "The Emperor’s assassins have wounded Taekyung and are closing in. The Emperor permits a final farewell with Shangshan.",
+        "First Shadow executed Third Shadow on the Emperor’s order after Third Shadow disobeyed him."
+      ],
+      "continuity_sources": [
+        873
+      ],
+      "open_questions": [
+        "What does the Emperor intend to do with Prince Shangshan in the palace?",
+        "Can Taekyung protect Shangshan or escape the assassins?",
+        "What will happen to Taekyung after the Emperor’s final offer?"
+      ],
+      "safe_through": 873,
+      "temporary_decisions": [
+        "Render 삼영 as “Third Shadow,” 일영 as “First Shadow,” and 관내후 as “Marquis Within the Passes.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Third Shadow",
+        "korean": "삼영",
+        "notes": "Assassin named by the Emperor."
+      },
+      {
+        "english": "First Shadow",
+        "korean": "일영",
+        "notes": "Masked assassin ordered to execute Third Shadow."
+      },
+      {
+        "english": "Marquis Within the Passes",
+        "korean": "관내후",
+        "notes": "Title the Emperor proposes granting Prince Shangshan."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** Prince Shangshan Zhu Bao is the Emperor’s youngest younger brother; the late Emperor entrusted Hong Jin with his care, and Zhu Bao admires Jin Taekyung and seeks to emulate him. The Emperor regards him warily but says he will take care of him.",
+        "path": "characters/Prince Shangshan.md",
+        "replacement": "- **Relationships:** Prince Shangshan Zhu Bao is the Emperor’s youngest younger brother; the late Emperor entrusted Hong Jin with his care. Zhu Bao admires Jin Taekyung, seeks to emulate him, and calls him a friend; the Emperor says he will take care of Zhu Bao."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
