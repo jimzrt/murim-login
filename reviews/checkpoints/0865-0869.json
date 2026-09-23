@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“Don’t tell me he got inside the palace.”",
+      "defect": "The intruder reached Qianqing Palace, which is already within the imperial palace. This question makes the twins’ answer contradict their account.",
+      "id": "C01",
+      "rationale": "Specifying the building preserves the distinction between reaching its entrance and getting inside.",
+      "replacement": "“Don’t tell me he got inside Qianqing Palace.”",
+      "severity": "major",
+      "source": "Chapter 867, Baek Yeon questioning the twins at Qianqing Palace"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Zhu Bao. The Murim martial artist who came with him.”",
+      "defect": "The phrasing momentarily identifies Zhu Bao as the martial artist, rather than the person the martial artist accompanied.",
+      "id": "C02",
+      "rationale": "This makes the Emperor’s intended subject unambiguous without naming Taekyung before the narration does.",
+      "replacement": "“The Murim martial artist who came with Zhu Bao.”",
+      "severity": "major",
+      "source": "Chapter 867, the Emperor asking Baek Yeon about Jin Taekyung"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Right. Four characters: brothers reunited.”\n\n“You’re a lawless thug from the martial world, so it seems you can’t understand. This is not merely a reunion between brothers. It’s…”\n\n“Oh, I get it.”\n\nI nodded with a solemn expression.\n\n“A somewhat complicated reunion of brothers. Right?”\n\n“……”\n\n“Not quite? Too long? How about a chaotic reunion of brothers? One word shorter, but pretty much the same thing.”",
+      "defect": "The English phrase has two words, not four characters; the two subsequent alternatives have the same word count despite the claim that one is shorter.",
+      "id": "C03",
+      "rationale": "The proposed phrases have four, five, and four words respectively, so the escalating interruption and final word-count jab work in English.",
+      "replacement": "“Right. Four words: a reunion of brothers.”\n\n“You’re a lawless thug from the martial world, so it seems you can’t understand. This is not merely a reunion between brothers. It’s…”\n\n“Oh, I get it.”\n\nI nodded with a solemn expression.\n\n“A complicated reunion of brothers. Right?”\n\n“……”\n\n“Not quite? Too long? How about a chaotic brothers’ reunion? One word shorter, but pretty much the same thing.”",
+      "severity": "minor",
+      "source": "Chapter 869, Taekyung teasing Jeong Hogun about the brothers’ reunion"
+    }
+  ],
+  "summary": "The reading copies and state are broadly consistent. Three passages need correction: two create location or referent confusion, and one word-count joke does not work in English.",
+  "version": 1
+}

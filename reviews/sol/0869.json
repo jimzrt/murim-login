@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Right. And if you boil that down to four words, it’s a family reunion.”\n\n“You’re a lawless thug from the martial world, so it seems you can’t understand. This is not merely a reunion between brothers. It’s…”\n\n“Oh, I get it.”\n\nI nodded with a solemn expression.\n\n“A complicated family reunion. Right?”\n\n“……”\n\n“Not quite? Too long? Should we call it a chaotic family reunion instead? One word shorter, but pretty much the same thing.”",
+      "defect": "“Family reunion” loses the specific brotherhood, while “four words” and “one word shorter” contradict the English phrases’ word counts. The second proposed phrase is no shorter than the first in the draft.",
+      "id": "F01",
+      "rationale": "형제 specifies brothers. The joke first compresses the encounter into four characters, then offers a second, shorter variation; the proposed English variations differ by one word.",
+      "replacement": "“Right. Four characters: brothers reunited.”\n\n“You’re a lawless thug from the martial world, so it seems you can’t understand. This is not merely a reunion between brothers. It’s…”\n\n“Oh, I get it.”\n\nI nodded with a solemn expression.\n\n“A somewhat complicated reunion of brothers. Right?”\n\n“……”\n\n“Not quite? Too long? How about a chaotic reunion of brothers? One word shorter, but pretty much the same thing.”",
+      "severity": "major",
+      "source": "“그래. 그걸 네 글자로 줄이면 형제 상봉이잖아.”\n\n“강호의 무뢰배라 그런지 도무지 이해를 못 하는군. 이건 단순한 형제간의 상봉이 아니라…….”\n\n“아, 이해했다.”\n\n진지한 얼굴로 고개를 끄덕인 내가 말을 이었다.\n\n“다소 복잡한 형제 상봉. 맞지?”\n\n“…….”\n\n“이것도 좀 아닌 것 같아? 너무 길면 우당탕탕 형제 상봉으로 바꿀까? 한 글자가 줄긴 했어도 의미는 비슷해.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“His Highness Prince Shangshan is to meet with His Majesty the Emperor.”",
+      "defect": "“Meet with” flattens a formal, hierarchical imperial audience into an ordinary meeting.",
+      "id": "F02",
+      "rationale": "알현 denotes a formal audience with a sovereign, which is precisely the distinction Jeong tries to make against Taekyung’s description of a brothers’ reunion.",
+      "replacement": "“His Highness Prince Shangshan is to have an audience with His Majesty the Emperor.”",
+      "severity": "major",
+      "source": "“상산왕 전하께서 황제 폐하를 알현(謁見)하는 것이다.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“You need a comfortable bed to sleep well. Could you get a good night’s sleep with a bunch of men in black surrounding you on every side?”",
+      "defect": "The draft turns uncomfortable sleeping circumstances into a problem with the bed and asserts that the men wear black.",
+      "id": "F03",
+      "rationale": "잠자리 refers here to the circumstances in which he sleeps; 시커먼 사내놈들 describes the men disparagingly without establishing black clothing.",
+      "replacement": "“You need to feel comfortable to get any sleep. Could you sleep soundly with a bunch of menacing men surrounding you on every side?”",
+      "severity": "minor",
+      "source": "“잠자리가 편안해야 잠이 오지. 당신 같으면 시커먼 사내놈들이 사방을 포위하고 있는 상황에서 숙면을 취할 수 있겠어?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "He finally opened his mouth after I asked whether the Embroidered Uniform Guard’s benefits were any good—and then started digging into his family tree.",
+      "defect": "“Benefits” replaces a question about the Guard’s food.",
+      "id": "F04",
+      "rationale": "짬밥 is military chow in this run of questions about Jeong’s working life.",
+      "replacement": "He finally opened his mouth after I asked whether the Embroidered Uniform Guard’s chow was any good—and then started digging into his family tree.",
+      "severity": "minor",
+      "source": "내가 금의위 짬밥이 만족스럽냐는 질문 이후 가족 관계도에 대해 캐묻기 시작했을 때였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Don’t get me wrong. I’m not criticizing you for being unmarried at your age. I mean, I’m not your parents. And staying single isn’t so bad—you won’t ruin someone else’s life by accident. So don’t let it get you down. Stand tall—your dick, I mean, your shoulders…”",
+      "defect": "The explicit “dick” removes the source’s euphemistic slip.",
+      "id": "F05",
+      "rationale": "고추 is a crude but indirect euphemism here; Taekyung catches himself and substitutes “shoulders.”",
+      "replacement": "“Don’t get me wrong. I’m not criticizing you for being unmarried at your age. I mean, I’m not your parents. And staying single isn’t so bad—you won’t ruin someone else’s life by accident. So don’t let it get you down. Keep your package—no, your shoulders—up…”",
+      "severity": "major",
+      "source": "“오해하지 마. 그 나이에 혼례도 안 올린다고 뭐라고 하는 거 아니다. 막말로 내가 그쪽 부모님도 아닌데 뭘. 그리고 괜히 누구 신세 망칠 일 없으니까 미혼도 나쁘지 않은 것 같아. 이런 일로 기죽을 필요 없으니까 고추, 아니 어깨 쭉 펴고…….”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I don’t know a thing about the East Depot or any of that. I got tangled up in something complicated and spent a while thinking it over. If you really don’t believe me, go ahead and try to frame me.”",
+      "defect": "The draft turns a profanely dismissive rejection of the East Depot allegation into a neutral claim of ignorance about the institution.",
+      "id": "F06",
+      "rationale": "동창이고 나발이고 dismisses the subject contemptuously; it does not assert that Taekyung has no knowledge of the East Depot itself.",
+      "replacement": "“To hell with the East Depot. I don’t know anything about that. I got tangled up in something complicated and spent a while thinking it over. If you really don’t believe me, go ahead and try to frame me.”",
+      "severity": "major",
+      "source": "“동창이고 나발이고, 난 몰라. 어쩌다가 복잡한 일에 얽혀서 머리 좀 싸매고 생각에 잠기긴 했지. 정 못 믿겠으면 뭐, 누명이라도 씌워 보든가.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "With a voice low and heavy, a calloused palm blocked him.",
+      "defect": "The draft drops the precise image of the hand stopping the guard’s golden armor.",
+      "id": "F07",
+      "rationale": "The palm physically bars 황금빛 갑옷, making the interception more concrete than simply blocking “him.”",
+      "replacement": "With a voice low and heavy, a calloused palm stopped the guard’s golden armor in its tracks.",
+      "severity": "minor",
+      "source": "굳은살로 가득한 손바닥이 황금빛 갑옷을 가로막는다."
+    }
+  ],
+  "summary": "The draft changes the brothers’ reunion joke, weakens the formal audience with the Emperor, and makes one sexual euphemism explicit. Several smaller details also need correction.",
+  "version": 1
+}
