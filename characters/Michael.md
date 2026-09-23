@@ -1,6 +1,6 @@
 # Michael (미카엘)
 
-- **Safe through:** Chapter 777
+- **Safe through:** Chapter 778
 - **Aliases:** None
 - **Role:** Michael Silbert is Odin Guild Master and a public hero positioning himself to lead the World Hunter Federation; he intends to eliminate Jin Taekyung as soon as possible.
 - **Personality:** Controlled, calculating, condescending, and confident in his intelligence and ability to manipulate events, but increasingly impatient and anxious since learning of Jin Taekyung.

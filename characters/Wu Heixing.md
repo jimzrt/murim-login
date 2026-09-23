@@ -1,6 +1,6 @@
 # Wu Heixing (우헤이싱)
 
-- **Safe through:** Chapter 733
+- **Safe through:** Chapter 778
 - **Aliases:** None
 - **Role:** Deceased S-rank Hunter who learned the Wu family's inherited Mana Cultivation Method and joined forces with Lee Jungryong to try to kill Jin Taekyung.
 - **Personality:** Not established.

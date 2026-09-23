@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Yeah. How could he forget?",
+      "defect": "The draft assigns the recollection to the Skeleton King, but the narrator is recalling a memory etched in his own mind.",
+      "id": "F01",
+      "rationale": "The next sentence locates the memory in the first-person narrator’s mind.",
+      "replacement": "Yeah. How could I forget?",
+      "severity": "critical",
+      "source": "그래, 어찌 잊을 수 있을까.\n\n치열했던 그 날의 기억은 지금도 선명하게 뇌리에 각인되어 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "And just as Team Leader Choi’s eyes rolled back and he shot to his feet, ready to lose his temper, two enormous hands reached out from behind him and grabbed him.",
+      "defect": "Choi is grabbed as he is about to spring up, not after he has stood; he is also already losing control rather than merely preparing to lose his temper.",
+      "id": "F02",
+      "rationale": "일어나려던 marks an action he was about to take, while 이성을 상실하고 describes his loss of control before he is grabbed.",
+      "replacement": "And just as Team Leader Choi’s eyes rolled back and he lost control, about to spring to his feet, two enormous hands reached out from behind him and grabbed him.",
+      "severity": "critical",
+      "source": "그리고 눈깔이 뒤집힌 최 팀장이 이성을 상실하고 벌떡 일어나려던 그 순간. 등 뒤에서 불쑥 뻗어 나온 커다란 두 손이 그의 몸을 붙잡았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Team Leader Choi, haven’t you heard the saying, ‘All roads lead to Rome’?”\n\n“I don’t want to hear it. And we’re already in Rome.”",
+      "defect": "Changing Seoul to Rome erases Choi’s joke that they are already in the city named by the Korean saying.",
+      "id": "F03",
+      "rationale": "The source names Seoul in both the saying and Choi’s literal-minded retort.",
+      "replacement": "“Team Leader Choi, haven’t you heard the saying, ‘It doesn’t matter how you get there as long as you get to Seoul’?”\n\n“I don’t want to hear it. And we’re already in Seoul.”",
+      "severity": "major",
+      "source": "“최 팀장님, 모로 가도 서울로만 가면 된다는 말 못 들어 봤어요?”\n\n“듣기 싫습니다. 그리고 이미 서울이에요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What was that? You got something else to say?”",
+      "defect": "The question no longer sets up the Skeleton King’s answer that he has not finished speaking.",
+      "id": "F04",
+      "rationale": "말 다 했냐 asks whether he is done talking; 아직 다 안 했다 answers that exact question.",
+      "replacement": "“What, a lunatic? Are you finished?”",
+      "severity": "major",
+      "source": "“뭐, 미친놈? 말 다 했냐?”\n\n“아직 다 안 했다. 관심종자 새끼야.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Team Leader Choi had been suddenly called out. His expression said he’d just come back to reality as he clenched his teeth.",
+      "defect": "현타 is a dispiriting reality check, not a return to awareness; the draft loses Choi’s sudden exasperation.",
+      "id": "F05",
+      "rationale": "His resigned apology follows the unpleasant realization that Jin has put him in this position.",
+      "replacement": "Suddenly singled out, Team Leader Choi clenched his teeth, looking as if grim reality had just hit him.",
+      "severity": "major",
+      "source": "갑작스럽게 지목당한 최 팀장이 현타가 온 표정으로 이를 악물었다.\n\n“예, 맞습니다. 죄송합니다. 이 모든 것이 진태경 씨를 관리하지 못한 제 잘못입니다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Chuck Hagel answered with the mournful air of a terminal lung cancer patient and puffed away at his cigar twice as fast.",
+      "defect": "The draft omits that Hagel is pretending to give a grim answer, undercutting the joke of his accelerated smoking.",
+      "id": "F06",
+      "rationale": "대답한 척 explicitly marks his response as an act.",
+      "replacement": "Chuck Hagel pretended to answer with the bleak resignation of a terminal lung cancer patient, all while puffing on his cigar twice as fast.",
+      "severity": "major",
+      "source": "폐암 말기 환자처럼 착잡하게 대답한 척 헤이글은 두 배나 빨라진 속도로 시가를 피워 댔고."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Michael Silbert clenched his teeth. He seemed unable to step into that space, as if an invisible wall were blocking his way.",
+      "defect": "The draft suggests a possible physical impediment where the source says Michael cannot bring himself to enter; the invisible wall is a simile.",
+      "id": "F07",
+      "rationale": "차마 … 못하고 expresses reluctance or inability to bring oneself to act, not an established physical barrier.",
+      "replacement": "I saw Michael Silbert clench his teeth, unable to bring himself to step into that space, as though an invisible wall held him back.",
+      "severity": "major",
+      "source": "마치 보이지 않는 벽에 막히기라도 한 것처럼, 차마 그 공간으로 발을 디디지 못하고 있던 미카엘 실베르트가 이를 악무는 것이 보였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Everyone looked as if they’d just witnessed Demon King Asmodeus come back to life through some bizarre resurrection.",
+      "defect": "The generic description omits the specific Edo Tensei reference that makes the comparison absurd.",
+      "id": "F08",
+      "rationale": "예토 전생 names a specific fictional resurrection technique; the brief note preserves the reference without assuming readers know it.",
+      "replacement": "Everyone looked as if they’d just seen Demon King Asmodeus brought back with Edo Tensei[^1].\n\n[^1]: A technique from *Naruto* that summons the dead back to life.",
+      "severity": "minor",
+      "source": "모두가 예토 전생으로 부활한 마왕 아스모데우스를 목격한 듯한 얼굴들을 하고 있었다."
+    }
+  ],
+  "summary": "The draft changes two subjects or actions and loses several deliberate comic cues.",
+  "version": 1
+}
