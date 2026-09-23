@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 779
-- Next chapter: 780
-- Current block: 775–779 (5/5)
-- Latest translation: `translations/0779.md`
-- Latest summary: `summaries/beats/0779.md`
-- Safe profiles through: chapter 779
+- Last completed: 780
+- Next chapter: 781
+- Current block: 780–784 (1/5)
+- Latest translation: `translations/0780.md`
+- Latest summary: `summaries/beats/0780.md`
+- Safe profiles through: chapter 780
 
 ## Current Block
 
-- Jin Taekyung repeatedly declares that the Stone King is a monster until the gathered Hunters accept it as true and turn their weapons on him. Jin steps between them, saying the Stone King is his friend and a comrade-in-arms who saved his life. When the Kronos Guild Master, Fabian, threatens to revoke Jin’s Hunter status and execute him, Magic Johnson and several allies—including Choi Minwoo, Faye Chen, and Felix—stand with Jin. Jin confronts Michael Silbert, who threatens a Federation vote to expel Jin permanently and promises legal proceedings or summary execution. Jin asks whether Michael himself is already no different from a monster, then asks whether the wound on Michael’s neck has healed.
+- Jin Taekyung confronts Michael Silbert with evidence that he can absorb monsters’ magical power while containing mana, explaining how Michael concealed his nature and grew powerful. Michael effectively confirms the revelation, recalls that Cheon Taemin once saw through him, then awakens a vast, increasingly dark power and declares that the only person he fears is absent.
 
 ## Open Questions
 
 - Who will lead the World Hunter Federation, and will its members vote to expel Jin?
-- Will Michael act on his threat against Jin, and what does Jin’s reference to Michael’s neck wound imply?
+- What will Michael do now that Jin has exposed his secret and what power has he awakened?
 - Can Cheon Taemin recover from his coma?
 
 ## Exceptional Decision

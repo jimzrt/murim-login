@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "In case Cheon Taemin—and the one person who could see through him—might be there.",
+      "defect": "The wording suggests Cheon Taemin and the person who could see through Michael are two people.",
+      "id": "F01",
+      "rationale": "The source identifies Cheon Taemin as the sole person who could discern Michael’s true nature.",
+      "replacement": "In case he ran into Cheon Taemin there—the one person who could see through him.",
+      "severity": "critical",
+      "source": "천태민이, 자신의 실체를 꿰뚫어 볼 수 있는 유일한 존재를 그곳에서 마주칠지도 모르니까."
+    },
+    {
+      "confidence": 0.89,
+      "current": "“From what I saw earlier, plenty of you were working hard to suck up to him. Guess none of you managed to tell him anything useful. Well, I suppose that makes sense. Doesn’t it?”",
+      "defect": "The draft makes the supporters fail to inform Michael, though Jin is mocking how little they themselves were told.",
+      "id": "F02",
+      "rationale": "Michael already knows his own secret; the jab is aimed at his supporters’ ignorance despite their devotion.",
+      "replacement": "“From what I saw earlier, you were all busy kissing his ass. Guess none of you had anyone to tell you what was really going on. Well, that figures. Doesn’t it?”",
+      "severity": "major",
+      "source": "아까 보니까 다들 앞뒤로 열심히 빨아 주던데, 그중에 뭐 하나 제대로 알려 준 놈이 없었나 보네. 하긴, 그럴 만도 하겠지. 안 그래?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“When a crime happens, the local criminal is naturally the first person people suspect.”",
+      "defect": "“Local criminal” omits the prior conviction that makes this person an obvious suspect.",
+      "id": "F03",
+      "rationale": "전과자 means someone with a criminal record, which is the point of Jin’s analogy.",
+      "replacement": "“When a crime happens, it’s only natural to suspect the ex-convict who lives nearby first.”",
+      "severity": "major",
+      "source": "범죄가 벌어지면, 근처에 사는 전과자가 가장 먼저 의심을 받는 건 당연한 이치니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Why he’d risen from being one hero among hundreds during the Great Cataclysm to becoming a leader rather than a follower.",
+      "defect": "The draft replaces the specific image of rising from a dragon’s tail to its head with a generic leader-versus-follower contrast.",
+      "id": "F04",
+      "rationale": "The source uses the dragon’s tail and head to mark Michael’s ascent within an already formidable group.",
+      "replacement": "Why a man who’d been just one hero among hundreds during the Great Cataclysm had risen from the dragon’s tail to its head.",
+      "severity": "major",
+      "source": "대격변 당시에는 수백 명의 영웅 중 한 사람에 불과했던 그가, 용의 꼬리에서 머리로 성장할 수 있었던 이유."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“They say that before he was a Grand Mage, he was the greatest monster scholar of his age. Looks like he researched just about everything.”",
+      "defect": "“Before he was” imposes a chronological sequence on a comparison of what Siegfried was known for.",
+      "id": "F05",
+      "rationale": "대마도사이기 전에 emphasizes his scholarly distinction over his title, not that one career preceded the other.",
+      "replacement": "“They say he was the greatest monster scholar of his age, even before you count his being a Grand Mage. Looks like he researched just about everything.”",
+      "severity": "minor",
+      "source": "대마도사이기 전에 당대 최고의 몬스터 학자였다더니."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A power in which light and darkness had mingled long ago, but whose darkness had grown and deepened until it stained everything.",
+      "defect": "The draft loses the distinct point when the darkness began to intensify and makes “everything,” rather than the power itself, what it stained.",
+      "id": "F06",
+      "rationale": "The source distinguishes the long-standing mixture from a later increase in darkness within that same power.",
+      "replacement": "That unprecedented, turbulent power in which light and darkness had mingled for years—but which, from a certain day onward, had been stained a deeper and deeper shade by the swelling darkness.",
+      "severity": "major",
+      "source": "이미 오래전부터 빛과 어둠이 뒤섞였던, 그러나 어느 날부터 증폭된 어둠으로 짙게 물들어 버린 그 혼탁한 미증유(未曾有)의 기운을."
+    }
+  ],
+  "summary": "Several meaningful details are altered, including who lacked information, the basis for Jin’s suspicion, and whom Michael feared encountering.",
+  "version": 1
+}
