@@ -2185,3 +2185,17 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 런던 | **London** | City targeted in the next terrorist attack. |
 | 버킹엄 궁전 | **Buckingham Palace** | Royal residence mentioned as a location spared by the London attack. |
 | 런던 브릿지 | **London Bridge** | London landmark Michael says will collapse. |
+| 프랑스 | **France** | Country containing Paris and Luxembourg Gardens. |
+| 런던 브리지 | **London Bridge** | London landmark destroyed in the second wave. |
+| 뭄바이 | **Mumbai** | Indian city struck by the third wave. |
+| 구세주 그리스도 | **Christ the Redeemer** | Rio de Janeiro landmark that collapsed during a wave. |
+| 리우데자네이루 | **Rio de Janeiro** | Brazilian city containing Christ the Redeemer. |
+| 브라질 | **Brazil** | Country containing Rio de Janeiro. |
+| 자금성 | **Forbidden City** | Chinese landmark engulfed in flames. |
+| 우르바노 8세 | **Urban VIII** | Pope quoted in the news report. |
+| 뉴욕 | **New York** | City struck by the sixth wave. |
+| 월 스트리트 | **Wall Street** | New York financial district affected by the sixth wave. |
+| 도쿄 타워 | **Tokyo Tower** | Landmark seized by flying monsters. |
+| 항공자위대 | **Air Self-Defense Force** | Japanese force whose crashed aircraft caused secondary damage. |
+| 카이로 | **Cairo** | Egyptian city where the final wave occurred. |
+| 선지자 | **The Prophet** | Mysterious religious leader directing the terrorist warriors. |

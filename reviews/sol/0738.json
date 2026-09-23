@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And Brazil’s colossal, six-hundred-ton statue of Jesus toppled over, crushing buildings and people beneath it.",
+      "defect": "The draft changes the statue’s weight from more than six hundred tons to exactly six hundred tons.",
+      "id": "F01",
+      "rationale": "The source explicitly says the statue weighs more than six hundred tons.",
+      "replacement": "And Brazil’s colossal statue of Jesus, weighing over six hundred tons, toppled over, crushing buildings and people beneath it.",
+      "severity": "minor",
+      "source": "600톤이 넘는 브라질의 거대 예수상이 건물과 인간을 덮치며 쓰러졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "[Five Monster Waves in a single day. Upon hearing the news, Pope Urban VIII says, “Oh, my God.”]",
+      "defect": "The colloquial exclamation “Oh, my God” loses the Pope’s solemn, prayer-like invocation.",
+      "id": "F02",
+      "rationale": "신이시여 directly addresses God in a reverent register rather than functioning as an ordinary expression of surprise.",
+      "replacement": "[Five Monster Waves in a single day. Upon hearing the news, Pope Urban VIII says, “O God.”]",
+      "severity": "major",
+      "source": "[하루 만에 일어난 다섯 번의 몬스터 웨이브. 소식을 접한 교황 우르바노 8세, “오, 신이시여.”]"
+    },
+    {
+      "confidence": 0.96,
+      "current": "[Tokyo Tower seized by flying monsters. The crash of the Air Self-Defense Force brings secondary casualties.]",
+      "defect": "The draft nonsensically makes the Air Self-Defense Force itself crash and narrows the resulting 피해 from general secondary damage to casualties.",
+      "id": "F03",
+      "rationale": "The headline refers elliptically to crashed Air Self-Defense Force aircraft causing further damage.",
+      "replacement": "[Tokyo Tower seized by flying monsters. Crashed Air Self-Defense Force aircraft cause secondary damage.]",
+      "severity": "major",
+      "source": "[비행 몬스터에 의해 점령된 도쿄 타워. 추락한 항공자위대가 불러온 2차 피해.]"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Most businesses and roads came to a standstill, proving that the offices had been emptied, and the people crowding into the subways could not bring themselves to put down their smartphones.",
+      "defect": "업무 means work or business operations, not businesses themselves, and the draft reverses the source’s evidentiary framing by making the shutdown prove that the offices were empty.",
+      "id": "F04",
+      "rationale": "The empty offices serve as the visible sign accompanying the paralysis of work and traffic; they are not presented as a conclusion proven by it.",
+      "replacement": "As if to attest to the empty offices, most work and road traffic had ground to a halt, and the people crowding into the subways could not bring themselves to put down their smartphones.",
+      "severity": "minor",
+      "source": "텅텅 빈 사무실을 증명하듯 대부분의 업무와 도로는 마비되었고, 지하철에 모여든 사람들은 스마트폰을 손에서 놓지 못했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "And one of the heroes who had successfully stopped five of those Monster Waves stepped before countless cameras.",
+      "defect": "The draft invents multiple heroes and identifies Michael as merely one of them, whereas the source presents a single hero credited with stopping five Monster Waves.",
+      "id": "F05",
+      "rationale": "그중 modifies the ten Monster Waves, while 영웅 is singular; it does not mean “one of the heroes.”",
+      "replacement": "And the hero who had successfully stopped five of those Monster Waves stepped before countless cameras.",
+      "severity": "critical",
+      "source": "그리고 그중 다섯 번의 몬스터 웨이브를 성공적으로 막아 낸 영웅이 수많은 카메라 앞으로 나섰다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The white wool carpet was gradually becoming stained red and blue, but no one in the room cared.",
+      "defect": "The monster blood was explicitly described as green immediately beforehand, so rendering 푸르게 as blue creates a physical continuity error.",
+      "id": "F06",
+      "rationale": "In this context 푸르게 denotes the green stain left by the monster blood, contrasted with the red human blood.",
+      "replacement": "The white wool carpet was gradually becoming stained red and green, but no one in the room cared.",
+      "severity": "minor",
+      "source": "새하얀 양털 카펫이 붉고 푸르게 물들어 가고 있었지만, 방 안의 누구도 신경 쓰지 않았다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“This lowly servant of Allah stands before the great Prophet.”",
+      "defect": "“Stands before” reduces the deferential audience formula 뵙나이다 to a statement of physical position, weakening the cult’s hierarchy and ceremonial register.",
+      "id": "F07",
+      "rationale": "뵙나이다 is an extremely deferential declaration of meeting or greeting a superior, reinforced here by 미천한 and 위대하신.",
+      "replacement": "“This lowly servant of Allah humbly greets the great Prophet.”",
+      "severity": "major",
+      "source": "“미천한 알라의 종이, 위대하신 선지자를 뵙나이다.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "And now it was time to reclaim the price paid in blood.",
+      "defect": "The draft suggests recovering something the warriors themselves paid, while the source means collecting recompense or vengeance for shed blood.",
+      "id": "F08",
+      "rationale": "핏값을 돌려받다 means to exact or receive payment for bloodshed, not to reclaim a price that was previously paid.",
+      "replacement": "And now it was time to collect the blood price.",
+      "severity": "major",
+      "source": "그리고 이제는 핏값을 돌려받아야 할 때."
+    }
+  ],
+  "summary": "The draft contains one critical attribution error, several meaningful mechanical or register shifts, and localized quantity and wording inaccuracies.",
+  "version": 1
+}
