@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 823
-- Next chapter: 824
-- Current block: 820–824 (4/5)
-- Latest translation: `translations/0823.md`
-- Latest summary: `summaries/beats/0823.md`
-- Safe profiles through: chapter 823
+- Last completed: 824
+- Next chapter: 825
+- Current block: 820–824 (5/5)
+- Latest translation: `translations/0824.md`
+- Latest summary: `summaries/beats/0824.md`
+- Safe profiles through: chapter 824
 
 ## Current Block
 
-- After Jin Taekyung defeats Hamid Shah Masoud and forces the fanatics to surrender, his exhausted Middle Dantian and depleted mental strength leave him barely able to stand. Still intent on pursuing the Doppelganger, he persuades Magic Johnson to teleport him to the place the Doppelganger first revealed; the Skeleton King joins him, while Johnson agrees to send them and asks them to return alive.
+- The Doppelganger flees west with the Prophet’s black-clad personal guard, lamenting its losses and confirming that Jin Taekyung is the Chosen One. At a ruined oil field where its master once stayed during the Great Cataclysm, it exploits the guards’ doubts with false sympathy, then massacres twenty of them and absorbs their life force and souls. As it believes it has replenished itself, blue-white flames erupt from above and engulf it.
 
 ## Open Questions
 
 - Who is the Doppelganger’s master, what is the plan, and why must the target be avoided until it is complete?
 - What does the Chosen One designation mean?
-- Will Jin and the Skeleton King reach the Doppelganger and stop it?
+- What caused the blue-white flames, and what happened to the Doppelganger?
 - Is Magic Johnson human?
 
 ## Exceptional Decision

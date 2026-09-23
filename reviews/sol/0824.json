@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Having died at Jin Taekyung’s hands more than a hundred times",
+      "defect": "Reduces the number of deaths from more than several hundred to more than one hundred.",
+      "id": "F01",
+      "rationale": "수백 번도 넘는 describes deaths numbering in the hundreds, not merely exceeding one hundred.",
+      "replacement": "Having died at Jin Taekyung’s hands hundreds of times",
+      "severity": "critical",
+      "source": "진태경에 의해 수백 번도 넘는 죽음을 겪은 도플갱어는"
+    },
+    {
+      "confidence": 0.94,
+      "current": "They had believed it was a holy war to set God’s will right.",
+      "defect": "Implies that God’s will itself needed correcting.",
+      "id": "F02",
+      "rationale": "바로 세우기 refers to establishing or upholding God's will through their war.",
+      "replacement": "They had believed it was a holy war to uphold God’s will.",
+      "severity": "major",
+      "source": "신의 뜻을 바로 세우기 위한 성전(聖戰)이라 생각했으니까."
+    },
+    {
+      "confidence": 0.85,
+      "current": "Wind roared around the figures shooting forward at a steep angle.",
+      "defect": "Introduces a steep trajectory where the source describes rapid movement.",
+      "id": "F03",
+      "rationale": "The passage conveys the speed of their flight, not a change in elevation.",
+      "replacement": "Wind roared around the figures hurtling forward.",
+      "severity": "minor",
+      "source": "가파르게 쏘아지는 신형들을 따라 휘몰아치는 바람."
+    },
+    {
+      "confidence": 0.92,
+      "current": "It was leading them into a dreadful abyss, deeper than death or anything else.",
+      "defect": "Turns the contrast with death into a comparison of depth.",
+      "id": "F04",
+      "rationale": "죽음도 무엇도 아닌 rules out death as their destination; it does not say the abyss is deeper than death.",
+      "replacement": "It was leading them not to death, or anything else, but into a bottomless pit within a dreadful abyss.",
+      "severity": "major",
+      "source": "죽음도 무엇도 아닌, 끔찍한 심연 속 무저갱으로 인도하고 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Dozens of pale souls flowed as if entranced toward the darkness that was them.",
+      "defect": "Makes the darkness identical to the victims and directs the souls toward them rather than toward the Doppelganger.",
+      "id": "F05",
+      "rationale": "자신 refers to the Doppelganger: the souls flow toward it inside the darkness as it absorbs their lives.",
+      "replacement": "Dozens of pale souls flowed as if entranced toward the Doppelganger within the darkness.",
+      "severity": "critical",
+      "source": "희끄무레한 수십의 영혼이 홀린 듯이 어둠 속 자신을 향해 흘러 들어갔다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes a death count and misidentifies where the absorbed souls go. Several smaller choices alter the followers’ beliefs or the scene’s imagery.",
+  "version": 1
+}

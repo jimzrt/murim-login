@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "My relaxed muscles loosened, and the flames coiling around my spearhead flickered.",
+      "defect": "The description repeats the same physical action.",
+      "id": "C01",
+      "rationale": "Removes the awkward repetition without changing the action.",
+      "replacement": "My muscles relaxed, and the flames coiling around my spearhead flickered.",
+      "severity": "minor",
+      "source": "Chapter 820, Fire Dragon’s Single Tail"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Skeleton King held the [Hero’s Sword], shining with a brilliant light reserved for the chosen, and stared at him.",
+      "defect": "Square brackets around the item name conflict with the packet’s English-formatting rule.",
+      "id": "C02",
+      "rationale": "Retains the established item name while removing UI-style brackets from prose.",
+      "replacement": "The Skeleton King held the Hero’s Sword, shining with a brilliant light reserved for the chosen, and stared at him.",
+      "severity": "minor",
+      "source": "Chapter 822, Skeleton King confronting Hamid Shah Masoud"
+    },
+    {
+      "confidence": 0.95,
+      "current": "His physical wounds and fatigue had recovered, but his Middle Dantian was beyond the System’s power to heal.",
+      "defect": "The categorical claim that his wounds recovered contradicts the panel’s partial healing and the Broken Body debuff rejecting healing.",
+      "id": "C03",
+      "rationale": "Keeps the narration consistent with the immediately preceding System notices and Jin’s continuing condition.",
+      "replacement": "The Level Up had eased his wounds and fatigue, but it could not heal his Broken Body debuff, depleted mental strength, or overtaxed Middle Dantian.",
+      "severity": "major",
+      "source": "Chapter 823, narration immediately after the Level Up panel"
+    },
+    {
+      "confidence": 0.92,
+      "current": "He was ashamed of himself for having no choice but to make it.",
+      "defect": "“Make it” has no clear antecedent, obscuring the decision Magic Johnson dreads.",
+      "id": "C04",
+      "rationale": "Makes the reference intelligible without stating the decision before he reaches it.",
+      "replacement": "He was ashamed of the decision he knew he had to make.",
+      "severity": "minor",
+      "source": "Chapter 823, Magic Johnson considering Jin’s request"
+    }
+  ],
+  "summary": "The packet is largely consistent in voice and continuity. Four English-copy issues are actionable.",
+  "version": 1
+}
