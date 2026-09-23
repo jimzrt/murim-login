@@ -1,0 +1,96 @@
+{
+  "chapter": 785,
+  "files": {
+    "characters/Divine Physician.md": "523824d72c0ec04d4e6b8f9217150791ff499cc794f6128c621be096a988f801",
+    "characters/Jin Taekyung.md": "6c4f3c2bf30869f2460b477a2319b05dec1a10cb4846c92a618c82c7a6ae9873",
+    "characters/Jintae.md": "3ab6f51f600d2ddf5a5e5ca695bd022f661e8383988ae90a0b13e208c55b1fd3",
+    "characters/Michael.md": "81335fda13db3faa01086801bbf1b58b0de63b205949297374db2763c22d976f",
+    "characters/Team Leader Choi.md": "58736b3b9890709acf99d2a7df88eb0e03aa5b58dacc65ac63d318d4e5de364e",
+    "docs/ADDRESS.md": "8d63f3850c1cfa0b4c1a97bd8a0f2335b332e89b0faa0c9cbde758a67674220c",
+    "docs/CONTEXT.json": "4b55764a3d4256cd2a67f76da5915587c969622cf0d70366a652ee0344590e40",
+    "docs/STATE.md": "bcc68d181e28aec3ebe220046060e949c575259f9b1f1bd845935776abdf91cd",
+    "summaries/beats/0785.md": "4d724edfe7d5663111d0fe66ec731936dff3549906be74ec368af9b95849b1a0"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "존슨",
+        "kinship": "allied Hunter to allied Grand Mage",
+        "normal_address": "Mr. Johnson",
+        "notes": "Minwoo calls out to Johnson during the battle.",
+        "speaker": "최민우",
+        "speech_level": "formal-polite"
+      },
+      {
+        "addressee": "미카엘",
+        "kinship": "newcomer confronting defeated enemy",
+        "normal_address": "you",
+        "notes": "Stone King corrects Michael and calls him a hideous monster.",
+        "speaker": "스톤 킹",
+        "speech_level": "blunt and contemptuous"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Michael Silbert is defeated and dying; his transformed features and regenerative ability are gone after he exhausted his magical power.",
+        "Jin Taekyung is gravely injured but remains standing and confronts Michael.",
+        "Magic Johnson's Absolute Shield covers the National Assembly and a radius of several hundred meters during the blast.",
+        "Stone King appears behind Jin; Michael's missing horn pierces Stone King's palm, and Stone King names himself."
+      ],
+      "plot": [
+        "As Jin Taekyung and Michael Silbert's clash threatens to devastate the National Assembly and the surrounding city, Magic Johnson casts Absolute Shield over the area. When the light fades, Michael is on his knees: his transformation has vanished, his magical power is spent, and his regeneration is gone. Jin, severely injured but standing with White Flame, approaches him while the battle against Michael's traitors turns in the Hunters' favor. Just as Jin demands an answer from the dying Michael, a horn pierces the palm of someone behind him. The newcomer identifies himself as Stone King."
+      ],
+      "translation_decisions": [
+        "Keep magical power distinct from mana.",
+        "Render 스톤 킹 as Stone King."
+      ]
+    },
+    "chapter": 785,
+    "context": {
+      "active_continuity": [
+        "Michael Silbert is defeated and dying; his transformation and regeneration are gone after exhausting his magical power.",
+        "Jin Taekyung is gravely injured but still standing after the clash.",
+        "Magic Johnson shielded the National Assembly and the surrounding area with Absolute Shield.",
+        "Stone King has appeared behind Jin; Michael's missing horn pierced Stone King's palm."
+      ],
+      "continuity_sources": [
+        785
+      ],
+      "open_questions": [
+        "Will Michael die, and what will Stone King do?"
+      ],
+      "safe_through": 785,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Pai Chen",
+        "korean": "파이 첸",
+        "notes": "Hunter fighting with a bow."
+      },
+      {
+        "english": "Chuck Hagel",
+        "korean": "척 헤이글",
+        "notes": "Ally fighting the traitors with a war hammer."
+      },
+      {
+        "english": "Stone King",
+        "korean": "스톤 킹",
+        "notes": "Name given by the newcomer who appears behind Jin."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Michael Silbert is the Odin Guild Master and former public hero, now transformed into a dragon-like monster with immense magical power and regeneration.",
+        "path": "characters/Michael.md",
+        "replacement": "- **Role:** Michael Silbert is the defeated former Odin Guild Master, dying after his transformation and regeneration vanished when he exhausted his magical power."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
