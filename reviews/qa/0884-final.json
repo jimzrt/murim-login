@@ -1,0 +1,71 @@
+{
+  "chapter": 884,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.1,
+    "source_characters": 5453,
+    "source_paragraphs": 139,
+    "translation_characters": 11452,
+    "translation_paragraphs": 137
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정호",
+        "preferred": "Jung Ho"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소원",
+        "preferred": "Sowon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대성",
+        "preferred": "Great Completion"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마도",
+        "preferred": "Demonic Path"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "심해",
+        "preferred": "deep sea"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "novel_name",
+      "details": {
+        "korean": "충무로",
+        "romanization": "chungmuro"
+      },
+      "message": "source term was romanized without a ledger entry; use the established English or footnote the first use"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Thus, their fervent hopes and wishes came together, and at last a document bearing all their signatures was born.",
+      "defect": "The reading copy calls the signed pact a document, dropping the agreed rendering and obscuring what the signatories have committed to.",
+      "id": "C01",
+      "rationale": "The packet’s translation decision specifies “a pact bearing their signatures.”",
+      "replacement": "Thus, their fervent hopes and wishes came together, and at last there was a pact bearing all their signatures.",
+      "severity": "minor",
+      "source": "Chapter 881, signing of the faction’s pact"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Who is the familiar young man who approached Jeong Hogun, and what will happen when Hogun questions Taishan?",
+      "defect": "Both parts are resolved in Chapter 884: the young man is Taekyung, and Hogun lets the troupe through.",
+      "id": "C02",
+      "rationale": "The replacement tracks the still-open risk without presenting resolved events as mysteries.",
+      "replacement": "Will Taekyung’s companions remain undetected inside the palace?",
+      "severity": "minor",
+      "source": "Durable state, open_questions"
+    }
+  ],
+  "summary": "The reading copies and summary are largely consistent. Two actionable issues remain: a terminology decision is not reflected in Chapter 881, and an open question in the active state was resolved in Chapter 884.",
+  "version": 1
+}

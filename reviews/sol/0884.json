@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“It’s nice to see you admit I’m right for once. How about lending a hand while I’m here?”\n\n“Lend a hand?”",
+      "defect": "The draft makes Jin ask Jeong for help; Jin is offering to help Jeong.",
+      "id": "F01",
+      "rationale": "Jeong’s reply, 돕겠다고?, questions Jin’s offer to help.",
+      "replacement": "“It’s nice to see you admit I’m right for once. How about I lend you a hand while I’m here?”\n\n“You want to help?”",
+      "severity": "critical",
+      "source": "“모처럼 인정하는 모습이 보기 좋네. 어때, 기왕 온 김에 한 손 거들어 줘?”\n\n“돕겠다고?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ma Sanbao had moved the East Depot and planted allies where they wouldn’t be seen instead of drawing attention to himself.",
+      "defect": "The draft says Ma mobilized the East Depot, reversing the stated alternative.",
+      "id": "F02",
+      "rationale": "동창을 움직여 눈에 띄는 대신 contrasts a conspicuous East Depot intervention with planting unseen allies.",
+      "replacement": "Rather than mobilize the East Depot and draw attention, Ma Sanbao must have planted allies where no one would notice them.",
+      "severity": "critical",
+      "source": "마삼보는 동창을 움직여 눈에 띄는 대신, 보이지 않는 아군을 심어 둔 것이 틀림없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "that his circus troupe operated far north of the imperial capital",
+      "defect": "The draft relocates the troupe north of the capital rather than north of the Yangtze and far from the capital.",
+      "id": "F03",
+      "rationale": "장강 이북 specifies the Yangtze as the north–south reference; 황도와 엄청나게 떨어진 specifies distance from the capital.",
+      "replacement": "that his circus troupe operated north of the Yangtze, far from the imperial capital",
+      "severity": "critical",
+      "source": "그들이 속한 마희단은 황도와 엄청나게 떨어진 장강 이북에서 활동하고 있었으며"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Who are you calling ‘Hogun’?”\n\n“Then, who’s hogun?”",
+      "defect": "The draft drops the possessive Jeong objects to and loses Jin’s retort.",
+      "id": "F04",
+      "rationale": "Jeong objects to 우리 호군이; Jin immediately changes 우리 to 느그.",
+      "replacement": "“Who are you calling ‘our Hogun’?”\n\n“Fine, then. Your Hogun.”",
+      "severity": "major",
+      "source": "“누구더러 우리 호군이냐.”\n\n“그럼 느그 호군이.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Captain, you’re absolutely right. I’ll escort you and bring you back in no time, so Deputy Military Commissioner Hong can relax.”",
+      "defect": "Mujin calls Hong a comrade, not by his official rank; the draft changes the familiarity of his address.",
+      "id": "F05",
+      "rationale": "홍 동지 is a direct, familiar form of address rather than 홍 부사.",
+      "replacement": "“Captain, you’re absolutely right. I’ll escort you and bring you back in no time, so Comrade Hong can relax.”",
+      "severity": "major",
+      "source": "‘조장님 말씀이 백번 옳습니다. 제가 모시고 금방 다녀올 테니 홍 동지께서는 마음 푹 놓고 기다리십쇼.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*That bastard’s going to go start another mess.*",
+      "defect": "The draft formats Jin’s line as an unspoken thought, though the source presents it as spoken dialogue.",
+      "id": "F06",
+      "rationale": "The source uses dialogue quotation marks here, unlike the marked internal thoughts elsewhere in the passage.",
+      "replacement": "“That bastard’s going to go start another mess.”",
+      "severity": "major",
+      "source": "‘이 새끼가 가서 또 무슨 사고를 치려고.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "After I’d walked about ten yards",
+      "defect": "Ten yards substantially understates a distance of a little over ten jang.",
+      "id": "F07",
+      "rationale": "A jang is roughly three meters; 십여 장 is several dozen yards, not ten.",
+      "replacement": "After I’d walked several dozen yards",
+      "severity": "minor",
+      "source": "그렇게 천천히 십여 장을 걸었을 때쯤"
+    }
+  ],
+  "summary": "Several scene facts and dialogue cues need correction, especially who offers help, how Ma Sanbao intervened, and where the troupe operates.",
+  "version": 1
+}

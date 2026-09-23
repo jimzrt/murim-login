@@ -1,6 +1,6 @@
 # Ma Sanbao (마삼보)
 
-- **Safe through:** Chapter 881
+- **Safe through:** Chapter 884
 - **Aliases:** None
 - **Role:** Ma Sanbao is the East Depot’s Brush-Holding Eunuch and second-in-command, a Supreme Peak martial artist who has secretly remained in the imperial palace.
 - **Personality:** He is vigilant and patient, concealing his loyalties while awaiting the moment to act for the late Emperor.
