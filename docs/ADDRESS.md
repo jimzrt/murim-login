@@ -1224,3 +1224,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 후긴 | 미카엘 | loyal retainer to Guild Master | Guild Master | formal-polite and deferential | Huginn reports the Swiss investigation, accepts Michael's orders, and promises to complete the mission. |
 | 진 | 매직 존슨 | Ally | Magic Johnson | polite and familiar | Jin gives Magic Johnson the stolen research materials and asks him to investigate them. |
 | 매직 존슨 | 진 | Ally | Jin | familiar and conversational | Magic Johnson addresses Jin by name while reacting to the stolen research materials. |
+| 알 니자르 | 선지자 | Devoted Hasasin subordinate addressing The Prophet | Prophet | Extremely deferential and formal | Al-Nizar addresses The Prophet with religious reverence. |
+| 선지자 | 알 니자르 | Prophet commanding the Hasasin leader | Al-Nizar | Flat, solemn, and commanding | The Prophet addresses him by name while issuing warnings and orders. |

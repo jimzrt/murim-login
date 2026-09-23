@@ -2213,3 +2213,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 스위스 연방 경찰국 | **Swiss Federal Police** | Swiss law-enforcement organization whose Hunters investigate Siegfried's death. |
 | 아공간 포켓 | **subspace pocket** | Magical storage pouch containing Siegfried's research materials. |
 | 심해 | **deep sea** | Unexplored ocean depths where the ancient monster awakens. |
+| 하샤신 | **Hasasin** | Ancient assassin order revived after the Great Cataclysm. |
+| 알-니자르 | **Al-Nizar** | Leader of the Hasasin and an S-rank Hunter. |
+| 무함마드 | **Muhammad** | Prophet whose death is referenced in the history of the Islamic world. |
+| 도쿄만 | **Tokyo Bay** | Port area where Sugihara Gyoiku works. |
+| 스기하라 교이쿠 | **Sugihara Gyoiku** | Tokyo native and longtime cargo-shipping laborer. |
