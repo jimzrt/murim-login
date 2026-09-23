@@ -14,13 +14,13 @@ Ding.
 
 My thoughts must have shown on my face. Mungyeong’s eyebrows twitched as he looked at me.
 
-“I clearly told you there would be another training session. Don’t tell me you forgot?”
+“I clearly told you there would be another training session. Don’t tell me you forgot.”
 
 “Excuse me?”
 
 *Forgot? Is he messing with me right now?*
 
-Dumbfounded, I looked back at Mungyeong.
+I stared at him in disbelief.
 
 “How could I forget after shitting blood so many times? Even thinking about it makes my asshole twitch.”
 
@@ -32,7 +32,7 @@ The head might forget, but the asshole—no, the body—remembered.
 
 Even now, whenever I closed my eyes, memories of shitting blood day and night came flooding back.
 
-To exaggerate a little, if all the bloody liquid I’d passed over the past seven days and nights were collected in a tub, every mosquito in Hubei Province could gather for a feast.
+To exaggerate a little, if I’d collected all the blood I’d passed over those seven days and nights in a tub, every mosquito in Hubei Province could have gathered for a feast.
 
 *It was horrible.*
 
@@ -42,11 +42,11 @@ It hadn’t been long ago, and it was far too important to forget. I’d have to
 
 “Anyway, I haven’t forgotten. I remember every single thing you said back then.”
 
-“Is that so?”
+“Do you?”
 
 Mungyeong studied me.
 
-“Then your reaction makes even less sense. I even warned you in advance. Why do you look as though someone just hit you in the back of the head?”
+“Then your reaction makes even less sense. I warned you in advance, so why do you look like someone just hit you in the back of the head?”
 
 “……Uh.”
 
@@ -58,7 +58,7 @@ There was only so much he could teach me aboard this swift ship, which was even 
 
 *At most, a cultivation technique?*
 
-But a cultivation technique, the foundation of martial arts and internal energy, was not something that could be swapped out as easily as a machine part.
+But a cultivation technique—the foundation of martial arts and internal energy—wasn’t a part you could simply swap out.
 
 *Especially not in my case.*
 
@@ -70,7 +70,7 @@ Mungyeong of all people had to know that, but I asked just in case.
 
 Whoosh! Slash!
 
-I turned my head at the sound of the wind. A throwing blade shot past like a streak of light, missing my neck by a hair before slicing through the river behind me.
+I turned my head at the sound of wind. A throwing blade shot past like a streak of light, grazing my neck before slicing through the river behind me.
 
 “……I heard your answer loud and clear.”
 
@@ -116,9 +116,9 @@ The greatest advantage of the Fire Gate Divine Technique was the explosive force
 
 Bang!
 
-The internal energy released from my toes slammed into the water. The river surged upward like a massive wall from the shockwave, and a fierce wind swept across my entire body.
+Internal energy burst from my toes and slammed into the water. The shockwave sent the river surging upward like a massive wall, and a fierce wind swept over me.
 
-In a moment so brief it could not even be called an instant, I covered over a hundred feet and landed on the stern of the swift ship—
+In less than a moment, I covered more than ten *jang* and landed on the swift ship’s stern—
 
 Thwack!
 
@@ -130,9 +130,9 @@ I’d been plunging headfirst toward the river, but I regained my balance just i
 
 *What is this, déjà vu?*
 
-I looked at Mungyeong, who stood tall on the stern, with a thoroughly displeased expression.
+I looked sourly at Mungyeong, who stood on the stern.
 
-“What was that just now?”
+“What was that?”
 
 “What was what?”
 
@@ -152,17 +152,17 @@ Mungyeong waved the large object he was holding.
 
 “To be precise, I said I wouldn’t throw a hidden weapon. This isn’t a hidden weapon.”
 
-“Oh, I see. You used a lethal weapon instead of a hidden weapon.”
+“Oh, I see. You used a lethal weapon instead.”
 
 “Something like that.”
 
 *Is he insane? Seriously.*
 
-Mungyeong stared at me with a profound gaze. No—with a profound gaze at the water rippling around me.
+Mungyeong gave me a searching look. No—he was looking at the water rippling around me.
 
-“The Yangtze River is still calm, yet chaos breaks out wherever your feet touch.”
+“The Yangtze is still calm, yet wherever your feet touch, the water erupts.”
 
-“If you keep pulling stunts like this, I’ll be the one making a scene. Seriously.”
+“If you keep pulling stunts like this, *I’m* going to erupt. Seriously.”
 
 “Do you know why it happens to you in particular?”
 
@@ -172,7 +172,7 @@ Mungyeong ignored my question.
 
 “It isn’t because your movements are clumsy and rough.”
 
-“You’re making my personality rough.”
+“You’re going to make *me* rough.”
 
 “Every movement a master of a certain realm makes has its own reason and purpose. In your case, the cause is your internal energy itself. It’s too violent. This is one of the longstanding problems with the Fire Gate Clan’s martial arts.”
 
@@ -202,7 +202,7 @@ After a moment’s thought, I asked, “What does that have to do with Rising on
 
 “Rising on Duckweed, Crossing Water is one measure of those qualities. The more stable and precise your internal energy, the more freely you can perform it. It’s an advanced movement technique, but a Peak master with deep enough attainment can use it without much difficulty.”
 
-Mungyeong continued without pause, then suddenly leaped down from the stern.
+Mungyeong finished speaking and suddenly leaped down from the stern.
 
 He was far enough away that an ordinary person wouldn’t have been able to make out his face. But my senses were keen enough to see and hear him clearly.
 
@@ -214,7 +214,7 @@ Mungyeong turned his dry gaze on me.
 
 “……!”
 
-I instinctively lowered my head and looked at the water beneath my feet.
+I lowered my head to look beneath my feet, though I already knew what I’d find.
 
 The path I’d taken chasing the swift ship was covered in white foam, as though another boat had passed through it.
 
@@ -230,7 +230,7 @@ I might have felt less embarrassed if he’d sounded scornful. Instead, his flat
 
 “Do you understand what I meant now?”
 
-“……I think I understand it to some extent.”
+“……I think I’m starting to.”
 
 As Mungyeong had said, Rising on Duckweed, Crossing Water was an important measure of the stability and precision of one’s internal energy.
 
@@ -250,7 +250,7 @@ Each second seemed to stretch into a minute as I thought it over. Then the answe
 
 “Amplification.”
 
-“Explain further.”
+“Explain.”
 
 “What I’ve said so far would let me apply the right amount of force where and when I need it. If I can control my internal energy that precisely… I can amplify it more than I do now, too.”
 
@@ -258,7 +258,7 @@ Each second seemed to stretch into a minute as I thought it over. Then the answe
 
 “This isn’t just about stability and precision. The martial arts I’ve learned will become more powerful. Am I right?”
 
-Mungyeong stared at me in silence before tossing out a single remark.
+Mungyeong stared at me for a moment, then tossed out a single remark.
 
 “……You’re not a complete idiot.”
 
@@ -266,7 +266,7 @@ Mungyeong stared at me in silence before tossing out a single remark.
 
 But the strange thrill I felt wasn’t from winning a little praise from Mungyeong.
 
-*If I can complete this training successfully, I can become stronger than I am now.*
+*If I can complete this training, I can become stronger than I am now.*
 
 I’d hit a kind of stagnation. Maybe I’d grown too quickly. After advancing by leaps and bounds, my martial arts had stopped progressing, and I could feel a high wall blocking my path.
 
@@ -286,7 +286,7 @@ Mungyeong had shown me that I still had another five hundred gigabytes for porn�
 
 A halo seemed to shine behind Mungyeong’s shoulder.
 
-At the sight of my eyes brimming with those feelings, Mungyeong opened his mouth.
+He caught the look in my eyes and spoke.
 
 “Keep your eyes straight ahead before I gouge them out.”
 
@@ -318,7 +318,7 @@ I answered without hesitation.
 
 “Yes.”
 
-If it meant becoming stronger than I was now, what wouldn’t I do?
+If it meant getting stronger, what wouldn’t I do?
 
 I bowed to Mungyeong. Then I realized I’d forgotten the most important question.
 
@@ -340,7 +340,7 @@ Mungyeong spread both hands as though the answer were obvious.
 
 “Excuse me?”
 
-“Not ten shichen. Ten days. Follow me the entire way until we reach Henan.”
+“Not ten shichen. Ten days. Follow us all the way to Henan.”
 
 “……Excuse me?”
 
@@ -351,7 +351,7 @@ Ding.
 > **System**
 >
 > - The training method for **Fake Murim Martial Artist—Stage 2** has been newly established!
-> - The Instructor has set the training period to **10 days**! This period may become shorter or longer depending on how long it takes to reach the destination!
+> - The Instructor has set the training period to **10 days**! This period may become shorter or longer depending on when you reach the destination!
 > - The countdown begins now! Hang in there—argh!
 > - **Time limit:** 9 days 23 hours 59 minutes 59 seconds.
 
