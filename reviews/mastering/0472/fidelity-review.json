@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.85,
+      "current": "*Shnk!*",
+      "defect": "The source sound effect indicates a forceful puncturing or plunging impact, matching the heat boring through the pupil. “Shnk!” suggests a metallic slash or unsheathing sound instead.",
+      "id": "F01",
+      "rationale": "The source’s 푸푹! is a penetration-impact sound, not a slicing or metallic sound effect.",
+      "replacement": "*Puhuk!*",
+      "severity": "minor",
+      "source": "Lines 5–7"
+    },
+    {
+      "confidence": 0.92,
+      "current": "Mungyeong vanished like an illusion, then sprang upward from a fragment of stone suspended in midair.",
+      "defect": "The English omits the explicit action of stepping on the floating stone fragment before springing upward. “From” implies the launch point but does not clearly preserve the footstep.",
+      "id": "F02",
+      "rationale": "허공에 떠오른 돌조각을 밟고 솟구친다는 the character’s specific movement mechanism: he steps on the airborne fragment and uses it to launch himself.",
+      "replacement": "Mungyeong vanished like an illusion, then sprang upward after stepping on a fragment of stone suspended in midair.",
+      "severity": "minor",
+      "source": "Lines 131–132"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Mungyeong turned toward the monster’s enormous body. Cheongpung, who had just returned to the battlefield, did the same.",
+      "defect": "The assembled English adds an explicit head-turning action for Cheongpung that the source assigns only to Mungyeong. The source identifies Cheongpung by his return to the battlefield and then has both men see the scene, preserving ambiguity about his exact movement.",
+      "id": "F03",
+      "rationale": "The Korean modifies Mungyeong with “turned his head toward the monster’s enormous body,” while Cheongpung is separately described as having just returned; it does not state that Cheongpung turned in the same way.",
+      "replacement": "Mungyeong turned toward the monster’s enormous body, while Cheongpung had just returned to the battlefield.",
+      "severity": "minor",
+      "source": "Lines 291–292"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, but three minor physical-detail regressions remain: one impact sound and two action details were weakened or added.",
+  "version": 1
+}

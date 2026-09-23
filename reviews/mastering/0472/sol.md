@@ -8,7 +8,7 @@ As agony spread through it like fire, the Mutated Water God Dragon unleashed a p
 
 —Kraaaaaaaaaah!
 
-Its torso was as thick as a dozen or so full-grown trees bundled together, and its length easily exceeded thirty *jang*.
+Its torso was as thick as a dozen full-grown trees bundled together, and its length easily exceeded thirty *jang*.
 
 When that enormous body, like a small mountain, began thrashing wildly, the shock waves swept through everything around it.
 
@@ -24,13 +24,13 @@ Some charged toward the monster. Others retreated beyond the reach of its thrash
 
 Having finally regained his senses, he stared in bewilderment at the scene before him.
 
-*It isn’t enough that the heavenly patterns are becoming distorted. Now beings of supernatural powers are appearing too?*
+*As if the distortion in the heavenly patterns weren’t enough, now even beings with supernatural powers have appeared.*
 
 Zhuge Feng possessed extensive knowledge of creatures known as spiritual creatures or evil creatures, but this dragon-like monster defied everything he knew.
 
 If word of what had happened here today reached the outside world, not only Murim but the entire realm would be thrown into an uproar.
 
-*How could something like this happen…?*
+*How could something like this…?*
 
 Zhuge Feng was still trembling from the fear that had yet to fade completely when someone spoke to him.
 
@@ -38,7 +38,7 @@ Zhuge Feng was still trembling from the fear that had yet to fade completely whe
 
 Any martial artist would have felt his pride wounded by those words. Martial artists were the sort of people who staked their lives on their martial arts and a single sword as they wandered through a mountain of sabers and a forest of swords.
 
-Zhuge Feng looked at the other person with a stiff expression and opened his mouth.
+Zhuge Feng stared stiffly at the speaker.
 
 “Who am I?”
 
@@ -50,7 +50,7 @@ Cheongpung answered.
 
 “Yes. Great Hero Zhuge Pong.”
 
-“It’s Zhuge Feng, not Zhuge Pong. In any case, you do know that I’m the Family Head of the Zhuge Clan.”
+“It’s Zhuge Feng, not Zhuge Pong. In any case, you must know that I’m the Family Head of the Zhuge Clan.”
 
 “Uh, yes, I do…”
 
@@ -68,19 +68,19 @@ Cheongpung thought for a moment, then nodded.
 
 “…?”
 
-“Don’t look at me like that. It’s simply that this isn’t a battle I need to fight today. It’s the same reason Zhuge Wuhou, our family’s ancestor, did not stand at the vanguard and cut down the enemy.”
+“Don’t look at me like that. This simply isn’t a battle I need to fight today. It’s the same reason our ancestor Zhuge Wuhou did not stand in the vanguard cutting down the enemy himself.”
 
 Zhuge Feng knew exactly where he stood and what he needed to do.
 
-He was too clearheaded to wager his life on a martial artist’s pride, and as a Family Head, he was responsible for countless members of his household.
+He was far too levelheaded to stake his life on a martial artist’s pride, and he was the head of a family with countless people under his care.
 
 “This great war has only just begun. The day will come when I prove my worth in the battles ahead. So go on. I’ll protect these people.”
 
-Cheongpung regarded Zhuge Feng with a strange look, then turned away with a small bow.
+Cheongpung regarded Zhuge Feng with an odd look, then bowed and turned away.
 
 As the young man became a gust of wind and vanished into the distance, Zhuge Feng’s gaze grew somber.
 
-*Yes. The beginning of another age of chaos.*
+*Yes. Another age of chaos has begun.*
 
 The peace that had lasted for more than fifty years was over. Dark clouds filled the blackened sky, and new winds were blowing in from every direction.
 
@@ -186,7 +186,7 @@ His small, slender figure was flung backward through the air.
 
 Mungyeong twisted in midair and landed with a rough movement wholly unsuited to the name Ghost Illusory Slaughter Step. Beside him, Jeok Cheongang melted an incoming boulder with a single palm strike and spoke in a mocking tone.
 
-“Did your martial arts become childish too after you Returned to Youth?”
+“Did your martial arts turn into a child’s too when you Returned to Youth?”
 
 “Its strength and speed both far exceeded my expectations. Even with the principle of Four Ounces Deflecting a Thousand Catties, I couldn’t redirect it completely.”
 
@@ -194,9 +194,9 @@ Mungyeong twisted in midair and landed with a rough movement wholly unsuited to 
 
 Mungyeong gave Jeok Cheongang a dry sidelong glance.
 
-“If you’re trying to taunt me, stop here. The timing seems rather poor.”
+“If you’re trying to provoke me, stop. This hardly seems like the time.”
 
-“It isn’t a taunt. It’s an undeniable fact. Didn’t you see that thing crumple when this old man hit it once?”
+“I’m not provoking you. I’m stating a fact. Didn’t you see that thing crumple when this old man hit it?”
 
 “That was after I had already cut off its horn—”
 
@@ -214,15 +214,15 @@ The spot where they had stood moments earlier had been completely devastated.
 
 Harboring energy and being able to use or release that energy were entirely different matters.
 
-In that respect, the monster before them had far surpassed the common sense of both men.
+In that respect, the monster before them far exceeded everything either man considered possible.
 
-*Was that thing also responsible for wiping out Yangtze One Saber and Donghu Stronghold?*
+*Was that thing responsible for wiping out Yangtze One Saber and Donghu Stronghold?*
 
 Mungyeong dodged another incoming attack and regarded the monster with a deep gaze.
 
-He had assumed that at least two Supreme Peak masters had attacked Donghu Stronghold. But after encountering that unimaginable monster, he finally felt that he understood what had happened.
+He had assumed that at least two Supreme Peak masters had attacked Donghu Stronghold. But after confronting this unimaginable monster, he finally understood what might have happened.
 
-*Those bizarre whiskers and that enormous body… There’s no mistake. They resemble the traces left on the corpses.*
+*Those bizarre whiskers and that enormous body… There’s no mistake. They match the traces left on the corpses.*
 
 He could clearly picture the monster crushing and cutting down everything in its path with its tail and whiskers.
 
@@ -258,29 +258,29 @@ Mungyeong suddenly remembered something and turned toward Jeok Cheongang. A broa
 
 An enormous shadow descended with enough momentum to split the world apart.
 
-Jeok Cheongang looked up at the black tail falling toward his small body and slowly continued.
+Jeok Cheongang looked up at the black tail crashing toward his small body and slowly continued.
 
-“That one is the strangest and most terrifying monster this old man has ever seen.”
+“That guy is the strangest and most terrifying monster this old man has ever seen.”
 
-“Look out!”
+“Look out—!”
 
 Mungyeong’s eyes widened.
 
 *Boom-boom-boom! Fwoooosh!*
 
-A tremendous roar and vibration spread across a radius of several dozen *jang*.
+A tremendous crash and violent tremors engulfed everything within dozens of *jang*.
 
 At the center of it all, Jeok Cheongang stood tall and completely unscathed.
 
 He had not moved a single step from where he had been standing, yet the black-scaled tail had struck far off to one side.
 
-“Yes, that’s right. A monster should be fought by a monster.”
+“Yes, indeed. The best way to fight a monster is with another monster.”
 
 “……!”
 
 *Drip-drip-drip.*
 
-Above Jeok Cheongang’s head, where he laughed aloud, the monster’s dark-blue blood poured down mixed with the rain and wind.
+Jeok Cheongang threw back his head and laughed as the monster’s dark-blue blood rained down, mingling with the wind and rain.
 
 Mungyeong turned toward the monster’s enormous body. Cheongpung, who had just returned to the battlefield, did the same.
 
