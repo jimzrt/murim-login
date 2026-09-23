@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "At the shout that rang out from atop the stone wall, more than a dozen arrows shot forth like flashes of light, piercing the horsemen’s helmet plumes.",
+      "defect": "The arrows pierce parts of the helmets, not decorative plumes.",
+      "id": "F01",
+      "rationale": "투구 깃 refers to an edge or flap of a helmet; 십여 발 means approximately a dozen arrows, not necessarily more than twelve.",
+      "replacement": "At the shout from atop the stone wall, a dozen or so arrows flashed through the air and pierced the edges of the horsemen’s helmets.",
+      "severity": "critical",
+      "source": "석벽 위에서 터져 나온 고함과 함께, 섬광처럼 쏘아진 십여 발의 화살이 기마병들의 투구 깃을 관통한 것은."
+    },
+    {
+      "confidence": 0.85,
+      "current": "It was also a threat: if they ignored it and came any closer, the arrows would pierce their throats instead of their helmet plumes.",
+      "defect": "Repeats the mistaken target and generalizes the threatened target from the throat’s vulnerable front to the whole throat.",
+      "id": "F02",
+      "rationale": "The warning contrasts 투구 깃 with 목젖; the helmet target is not a plume.",
+      "replacement": "It was also a threat: if they ignored the warning and came any closer, the arrows would pierce their throats instead of the edges of their helmets.",
+      "severity": "critical",
+      "source": "만약 경고를 무시하고 더 가까이 접근한다면, 그때는 투구 깃이 아닌 목젖을 꿰뚫으리라는 협박이기도 했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "His speech had shifted from casual to deferential so naturally that even he hadn’t noticed.",
+      "defect": "Calls his earlier 하오체 casual, erasing the shift between levels of polite address.",
+      "id": "F03",
+      "rationale": "하오체 is already a polite speech level; 존대 marks greater deference here.",
+      "replacement": "His speech had slipped from polite address into outright deference so naturally that even he hadn’t noticed.",
+      "severity": "major",
+      "source": "어느덧 하오체에서 존대로 뒤바뀐 말투는 호위장 자신도 알아채지 못할 만큼 자연스러웠다."
+    },
+    {
+      "confidence": 0.89,
+      "current": "Then again, that Jeok Cheongang would refer to the famous physician so casually, as if he were Jang Sam from next door.",
+      "defect": "Makes the comparison sound like a reference to the established character Jang Sam rather than an ordinary neighbor.",
+      "id": "F04",
+      "rationale": "옆집 장삼 is a generic everyman comparison in this sentence, not an identification of the physician with the named character.",
+      "replacement": "Then again, that Jeok Cheongang would refer to the renowned physician as casually as if he were some guy next door.",
+      "severity": "major",
+      "source": "그리고 그 명망 높은 신의를 옆집 장삼이마냥 대수롭지 않게 부르는 적천강의 모습에 또 한 번."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Now you’re seeing things, too. Your mouth’s still shut, though.”",
+      "defect": "Assigns the hallucination to the Captain of the Guards and breaks Jeok’s causal joke.",
+      "id": "F05",
+      "rationale": "Jeok sarcastically suggests that he himself must be seeing things if the threatened man still has not opened his mouth.",
+      "replacement": "“I must be seeing things. Your mouth still looks shut to me.”",
+      "severity": "critical",
+      "source": "“이제 헛것까지 보이는구나. 아직도 주둥이가 닫혀 있는 걸 보면.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Yes. We’ve done everything we can, but there’s been no improvement. His condition is only getting worse.”",
+      "defect": "Changes substantial effort into an exhaustive claim that everything possible has been done.",
+      "id": "F06",
+      "rationale": "이 정도로 노력을 기울였으면 expresses the expectation of some improvement after considerable effort, not that every possible treatment has been tried.",
+      "replacement": "“Yes. After all the effort we’ve put in, there should have been at least some improvement. Instead, his condition keeps getting worse.”",
+      "severity": "major",
+      "source": "이 정도로 노력을 기울였으면 최소한의 차도는 있어야 하는데, 점점 상태가 악화되고 있는 중입니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I used to be part of Murim myself, but honestly, doesn’t authority and face matter wherever you go?”",
+      "defect": "The subject–verb disagreement jars in otherwise natural dialogue.",
+      "id": "F07",
+      "rationale": "권위와 체면 names two concerns; the revision retains the guard’s point while making the line idiomatic English.",
+      "replacement": "“I used to be part of Murim myself, but honestly, don’t authority and saving face matter wherever you go?”",
+      "severity": "minor",
+      "source": "“저도 무림에 몸담았던 몸이지만, 솔직히 어느 곳에서나 권위와 체면이 중요한 것 아니겠습니까.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“That, too. But the worst part was that he lost something he treasured most in the Imperial Capital.”",
+      "defect": "Turns a stated cause of the City Lord’s illness into an assessment of which event was worst.",
+      "id": "F08",
+      "rationale": "때문입니다 explicitly connects the loss to his illness; the court’s reprimand is acknowledged without ranking the two events as ‘worst.’",
+      "replacement": "“The court’s reprimand was part of it, but he also fell ill because he lost what he cherished most in the Imperial Capital.”",
+      "severity": "major",
+      "source": "“조정의 질책도 질책이지만, 가장 아끼던 것을 황도에서 잃었기 때문입니다.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but several details change the physical action, a speaker’s meaning, or the characters’ register.",
+  "version": 1
+}

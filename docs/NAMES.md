@@ -2346,3 +2346,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 철혈노 | **Ironblood Elder** | The purported martial artist Namho dismisses as a wartime scoundrel. |
 | 천리경 | **thousand-li lens** | Optical instrument Ju Wongong received as a gift. |
 | 황족명 | **imperial-family command** | Ju Wongong’s claimed authority to command the troops, distinct from an imperial edict. |
+| 애향 | **Aehyang** | The City Lord’s favored concubine. |
