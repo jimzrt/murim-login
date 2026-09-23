@@ -2379,3 +2379,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무영 | **No Shadow** | The concealed Supreme Peak assassin serving the Emperor. |
 | 소교 | **So Gyo** | The palace attendant leading the group assigned to serve Prince Shangshan. |
 | 금룡 | **Golden Dragon** | Name of Baek Yeon’s crescent blade. |
+| 창공 | **Cang Gong** | The bedridden East Depot leader for whom Ma Sanbao acts. |

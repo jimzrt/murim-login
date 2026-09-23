@@ -1,0 +1,100 @@
+{
+  "chapter": 890,
+  "files": {
+    "characters/Jeok Cheongang.md": "63a3853555a1826413a62f52bf4874b23cb753cdc3b38d669817ea5812e94a3c",
+    "characters/Jeong Hogun.md": "65d26cc4faf55b70586551f1fe0a34bceb0895a54d90ed9274cfd7bec7ec70aa",
+    "characters/Jung Ho.md": "2bda1f52ef3f288db86d6f40556e98307b40a7f81ef4bab5d506f1024fc73b69",
+    "characters/Ma Sanbao.md": "d5adf3625d28d65df926800cdaeaf5e64bea44e72ef039bdd567569ca29863cf",
+    "characters/Taishan.md": "8713494a6fe9c012e3b60b28f2f90dca15db17fe1c91ef5bb06131be461d52b0",
+    "docs/ADDRESS.md": "48ddcbbc20bbd83a294df54034c4472ba72cc667bc095f1c343ef75d9c343115",
+    "docs/CONTEXT.json": "74b6aadd0b97454144a0a4fe90daf4ba48ede79716db055aaca76c6890a6fdd3",
+    "docs/NAMES.md": "42391788f53c6c5ac3e1dcd23d6389823b2c8658da1a82bb5b05e797a4f8f5b6",
+    "docs/STATE.md": "4f72d79b1e19cf2eacb610e0eb77aba26f31fe8b10e68c79806a9dd8c9ab3ffe",
+    "summaries/beats/0890.md": "c536d60cab5c4c41748551470d03039f9f3f532150fc8a0764e021a19a3567fd"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "정호군",
+        "kinship": "East Depot de facto leader to Embroidered Uniform Guard Thousand Captain",
+        "normal_address": "Commander Jeong",
+        "notes": "Ma Sanbao addresses him as 정 천호 while asserting procedural limits and drawing him into a conversation.",
+        "speaker": "마삼보",
+        "speech_level": "courteous and controlled"
+      },
+      {
+        "addressee": "마삼보",
+        "kinship": "Embroidered Uniform Guard Thousand Captain to East Depot official",
+        "normal_address": "Eunuch Ma",
+        "notes": "Jeong Hogun addresses him as 마 태감 and shows wariness despite his restrained replies.",
+        "speaker": "정호군",
+        "speech_level": "formal and guarded"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Ma Sanbao knows Taekyung was hiding nearby and helps him avoid attention; he says he will contact Taekyung later.",
+        "Taekyung reaches Jeok Cheongang’s pavilion in the Outer Palace. Taishan is staying with the group and is eating an extraordinary amount of five-spice pork."
+      ],
+      "plot": [
+        "While Jin Taekyung hides near the Inner Palace, Jeong Hogun orders two Imperial Guard soldiers dismissed for abandoning their posts. Ma Sanbao intervenes, insists on proper procedure, and draws Jeong Hogun away; he has already noticed Taekyung and warns him through Sound Transmission to be careful, promising to contact him later.",
+        "Taekyung follows a food delivery to find the group’s lodging in the Outer Palace, learning that Taishan has eaten more than twenty plates of five-spice pork in less than half a shichen. He slips into Jeok Cheongang’s pavilion and announces his arrival."
+      ],
+      "translation_decisions": [
+        "Distinguish the Imperial Guard (금위군) from the Embroidered Uniform Guard (금의위).",
+        "Render Ma Sanbao’s repeated 절차대로 as “Follow procedure.”"
+      ]
+    },
+    "chapter": 890,
+    "context": {
+      "active_continuity": [
+        "The imperial banquet is three days away; So Gyo says the coming battle may be fiercer than the one over a decade ago.",
+        "So Gyo believes Jin Taekyung may be the person she seeks and the person foretold by “that person,” but has not confirmed it; only she and the Emperor know the secret she withheld from Baek Yeon.",
+        "So Gyo wears two matching, curved saber-like objects recovered from the flower garden; their purpose is unknown.",
+        "Prince Shangshan remains in the enemy’s grasp, and Taekyung believes confrontation cannot be avoided.",
+        "Ma Sanbao noticed Taekyung hiding near the Inner Palace and warned him to proceed carefully; he plans to contact Taekyung later.",
+        "Taekyung has reached Jeok Cheongang’s pavilion in the Outer Palace.",
+        "Taishan is staying with the group in the Outer Palace and has an enormous appetite for five-spice pork."
+      ],
+      "continuity_sources": [
+        889,
+        890
+      ],
+      "open_questions": [
+        "Who is the person So Gyo seeks, and who foretold them?",
+        "What secret do So Gyo and the Emperor share, and why might Jeok Cheongang joining Taekyung’s side be preferable to So Gyo?",
+        "What will happen at the imperial banquet?",
+        "What is the purpose of So Gyo’s two curved saber-like objects?",
+        "Why, and by what process, were Murim assassins drawn into the conflict?"
+      ],
+      "safe_through": 890,
+      "temporary_decisions": [
+        "Retain “that person” for 그분; the foreteller is unidentified.",
+        "Render 곡도 descriptively as “curved saber,” not as a proper name."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Cang Gong",
+        "korean": "창공",
+        "notes": "The bedridden East Depot leader for whom Ma Sanbao acts."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Ma Sanbao is the East Depot’s Brush-Holding Eunuch and second-in-command, a Supreme Peak martial artist who has secretly remained in the imperial palace.",
+        "path": "characters/Ma Sanbao.md",
+        "replacement": "- **Role:** Ma Sanbao is the East Depot’s Brush-Holding Eunuch and Supreme Peak martial artist, leading the Depot in place of its bedridden leader, Cang Gong."
+      },
+      {
+        "current": "- **Voice:** He speaks in measured, courteous language, using calm reassurances and strategic metaphors to maintain unity while keeping sensitive details guarded.",
+        "path": "characters/Ma Sanbao.md",
+        "replacement": "- **Voice:** He speaks in measured, courteous language and uses calm repetition, feigned agreement, and procedural reminders to steer conversations while keeping sensitive details guarded."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

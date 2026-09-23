@@ -1,0 +1,146 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Hidden in the darkness just ten feet away",
+      "defect": "Three jang is approximately thirty feet, not ten.",
+      "id": "F01",
+      "rationale": "The draft reduces the initial distance by two-thirds.",
+      "replacement": "Hidden in the darkness just thirty feet away",
+      "severity": "critical",
+      "source": "불과 삼 장 거리의 어둠 속에 숨어 있던 나는"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeong Hogun had now come within an arm’s length.",
+      "defect": "One jang is approximately ten feet, not an arm’s length.",
+      "id": "F02",
+      "rationale": "The source places him one jang away.",
+      "replacement": "Jeong Hogun had now come within ten feet.",
+      "severity": "critical",
+      "source": "어느새 일장 앞까지 다가온 정호군은"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Having lost control of the conversation in an instant, Jeong Hogun could only follow him away, his face rigid as a rock.",
+      "defect": "The draft reverses who follows whom.",
+      "id": "F03",
+      "rationale": "The Korean explicitly says he follows Jeong Hogun.",
+      "replacement": "Having lost control of the conversation in an instant, he could only leave with his face rigid as a rock, following Jeong Hogun.",
+      "severity": "critical",
+      "source": "그는 바위처럼 굳은 얼굴로 정호군을 따라 자리를 뜰 수밖에 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "he was interrogating the Embroidered Uniform Guard soldiers who’d neglected their duty.",
+      "defect": "Identifies the soldiers as members of Jeong Hogun’s Embroidered Uniform Guard rather than the Imperial Guard.",
+      "id": "F04",
+      "rationale": "The source distinguishes 금위군 from 금의위 throughout this confrontation.",
+      "replacement": "he was interrogating the Imperial Guard soldiers who’d neglected their duty.",
+      "severity": "major",
+      "source": "경계를 소홀히 한 금위군들을 추궁하고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "perhaps you didn’t want to serve in the Embroidered Uniform Guard at all?",
+      "defect": "Changes the soldiers’ service branch.",
+      "id": "F05",
+      "rationale": "Jeong names 금위군, not his own 금의위.",
+      "replacement": "perhaps you didn’t want to serve in the Imperial Guard at all?",
+      "severity": "major",
+      "source": "금위군으로 복무하는 것 자체가 싫었던 건가?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "As of today, you are no longer members of the Embroidered Uniform Guard.",
+      "defect": "Misidentifies the force from which Jeong purports to dismiss them.",
+      "id": "F06",
+      "rationale": "His attempted dismissal of Imperial Guard soldiers is the jurisdictional issue Ma Sanbao challenges.",
+      "replacement": "As of today, you are no longer members of the Imperial Guard.",
+      "severity": "major",
+      "source": "너희들은 오늘부로 금위군이 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I fervently cheered on the middle-aged reservists—I mean, the Embroidered Uniform Guard soldiers",
+      "defect": "Changes the corrected identification in Jin’s reservist joke.",
+      "id": "F07",
+      "rationale": "Jin corrects himself to 금위군, not 금의위.",
+      "replacement": "I fervently cheered on the middle-aged reservists—I mean, the Imperial Guard soldiers",
+      "severity": "major",
+      "source": "나는 간절한 마음으로 예비군. 아니 금위군 아저씨들을 응원했지만"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Since when has the Embroidered Uniform Guard been able to dismiss its own guards on a whim?",
+      "defect": "“Its own guards” erases Ma Sanbao’s point that one organization is dismissing members of another.",
+      "id": "F08",
+      "rationale": "The source explicitly contrasts 금의위 and 금위군.",
+      "replacement": "Since when has the Embroidered Uniform Guard been able to dismiss Imperial Guard soldiers on a whim?",
+      "severity": "major",
+      "source": "언제부터 금의위가 금위군의 해임을 그리 즉흥적으로 결정할 수 있었지?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Not before leaving a stern warning for the two Embroidered Uniform Guard soldiers who’d escaped the threat of a surprise firing, though.",
+      "defect": "Again assigns the reprieved soldiers to the wrong guard force.",
+      "id": "F09",
+      "rationale": "The reprieved pair are 금위군.",
+      "replacement": "Not before leaving a stern warning for the two Imperial Guard soldiers who’d escaped the threat of a surprise firing, though.",
+      "severity": "major",
+      "source": "깜짝 해고 이벤트의 위기를 벗어난 두 금위군에게 엄중한 경고를 남기는 것을 잊지 않은 채."
+    },
+    {
+      "confidence": 0.99,
+      "current": "the remaining Embroidered Uniform Guard soldiers weren’t skilled enough to detect my presence.",
+      "defect": "Misidentifies the guards Jin judges unable to detect him.",
+      "id": "F10",
+      "rationale": "The source calls them 금위군.",
+      "replacement": "the remaining Imperial Guard soldiers weren’t skilled enough to detect my presence.",
+      "severity": "major",
+      "source": "주위에 남아 있는 금위군 수준으로는 내 기척을 눈치챌 수 없다는 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I picked up a timely hint from a conversation between some other Embroidered Uniform Guard soldiers.",
+      "defect": "Changes the affiliation of the soldiers discussing Taishan.",
+      "id": "F11",
+      "rationale": "They are also identified as 금위군.",
+      "replacement": "I picked up a timely hint from a conversation between some other Imperial Guard soldiers.",
+      "severity": "major",
+      "source": "다른 금위군들의 대화 속에서 시기적절한 힌트를 얻을 수 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "a good old-fashioned brawl had become my only real specialty—and my sole extracurricular activity.",
+      "defect": "Turns the joke’s required general-education course into an extracurricular activity.",
+      "id": "F12",
+      "rationale": "전공 and 교양 과목 contrast a major with a general-education course, not an optional extracurricular.",
+      "replacement": "a good old-fashioned brawl had become both my only major and my general-education requirement.",
+      "severity": "major",
+      "source": "화끈한 맞다이가 유일한 전공이자 교양 과목이 되어 버렸으니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Have some respect for the imperial family. They can’t treat people brought here for the grand banquet poorly just because they eat a little pork.",
+      "defect": "Changes an explanation of the imperial family’s need to save face into a rebuke of the listener.",
+      "id": "F13",
+      "rationale": "황실 체면이 있지 supplies the reason they cannot turn the guests away.",
+      "replacement": "The imperial family has its reputation to consider. They can’t treat people brought here for the grand banquet poorly just because they eat a little pork.",
+      "severity": "major",
+      "source": "황실 체면이 있지, 대연회를 위해 데려온 자들을 돼지고기 좀 먹는다고 박대할 수는 없지 않나."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Who knew what they’d say now.",
+      "defect": "Makes Jin uncertain about their response rather than dryly observing that they would agree to anything now.",
+      "id": "F14",
+      "rationale": "The rhetorical question comments on their sudden obedience after narrowly avoiding dismissal.",
+      "replacement": "Of course they’d say yes now.",
+      "severity": "minor",
+      "source": "지금이야 무슨 말을 못 할까."
+    }
+  ],
+  "summary": "The draft preserves the scene’s broad arc, but changes two distances, reverses who follows whom, and repeatedly conflates the Imperial Guard with the Embroidered Uniform Guard.",
+  "version": 1
+}
