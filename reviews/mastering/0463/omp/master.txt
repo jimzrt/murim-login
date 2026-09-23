@@ -12,7 +12,7 @@ Three flower buds bloomed above the old man’s snow-white hair, then vanished.
 
 As the buds formed, the energy they scattered took on a new shape: five rings radiant with dazzling, multicolored light.
 
-It was a phenomenon that could only be displayed by one of the chosen few among Supreme Peak masters who had reached the realm of Five Qi Returning to Origin.
+It was a phenomenon manifested only by the chosen few among Supreme Peak masters who had attained Five Qi Returning to Origin.
 
 But the changes surrounding the old man did not end there.
 
@@ -160,9 +160,7 @@ Though he had not reached the Supreme Peak realm, Zhuge Feng was still a master 
 
 Yet he had sensed no presence. Heard no sound.
 
-Even though he had left three guards who followed him like shadows at the entrance to the cave, he had noticed no sign of anything.
-
-That meant the owner of the voice was at least a Supreme Peak master.
+He had left three guards who followed him like shadows outside the cave, but none of them had given the slightest warning. That meant the owner of the voice was at least a Supreme Peak master.
 
 *If he’s that powerful…*
 
@@ -180,7 +178,7 @@ The moment he saw the young medical apprentice he had encountered several times 
 
 “The Slaughter Saint.”
 
-The young medical apprentice, Mungyeong, twitched an eyebrow.
+Mungyeong’s eyebrow twitched.
 
 “You already knew?”
 
@@ -208,7 +206,7 @@ Jeok Cheongang shrugged and fixed his gaze on Mungyeong.
 
 “What brings you here? Why has an old man who’s been playing at being a child, despite it not suiting him in the slightest, come rushing over?”
 
-“I’ll keep it short. You must leave this place immediately.”
+“I’ll keep it short. We must leave this place immediately.”
 
 “What?”
 
@@ -226,7 +224,7 @@ Mungyeong continued in a low, grave voice.
 
 “……!”
 
-The moment he heard those words, Jeok Cheongang realized that he needed no further reason.
+The moment he heard those words, Jeok Cheongang realized he needed no further explanation.
 
 He turned toward Zhuge Feng. Blue flames had already kindled in his aged eyes.
 
@@ -262,7 +260,7 @@ Gung Gibang spoke with a determined expression.
 
 “I can dog-paddle a little.”
 
-“Go to land before you get beaten like a dog.”
+“Get onto land before I beat you like a dog.”
 
 “Hmm. That would probably be better.”
 

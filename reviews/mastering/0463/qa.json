@@ -1,0 +1,80 @@
+{
+  "chapter": 463,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.16,
+    "source_characters": 5659,
+    "source_paragraphs": 147,
+    "translation_characters": 12226,
+    "translation_paragraphs": 160
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "20"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정호",
+        "preferred": "Jung Ho"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "피어",
+        "preferred": "Fear"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "살귀",
+        "preferred": "Killing Ghost"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소하",
+        "preferred": "Xiao He"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "만족",
+        "preferred": "Man people"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

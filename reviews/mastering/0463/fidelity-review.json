@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "sat cross-legged in quiet contemplation",
+      "defect": "The translation drops the explicit object of contemplation: the old man was contemplating himself, not merely sitting in unspecified contemplation.",
+      "id": "F01",
+      "rationale": "자신을 관조하고 있었다 explicitly identifies himself as the object of 관조하다.",
+      "replacement": "sat cross-legged, contemplating himself",
+      "severity": "minor",
+      "source": "Lines 5–6"
+    },
+    {
+      "confidence": 0.97,
+      "current": "As the buds formed, the energy they scattered took on a new shape",
+      "defect": "The pronoun makes the flower buds the agents scattering the energy. The source instead says that the energy dispersed as the buds formed then created a new shape.",
+      "id": "F02",
+      "rationale": "꽃봉오리를 이룸과 동시에 흩어진 기운은 presents 흩어진 기운, the dispersed energy, as the subject; the buds do not scatter it.",
+      "replacement": "As the buds formed, the scattered energy took on a new shape",
+      "severity": "minor",
+      "source": "Lines 13–15"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but two local details lose or alter the source's meaning.",
+  "version": 1
+}
