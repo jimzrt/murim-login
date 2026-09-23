@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is broadly faithful, but a few mastered lines weaken source-specific terminology and imagery.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 59–61",
+      "current": "a faint presence was sinking farther beneath the surface with every passing moment.",
+      "defect": "The source identifies the sensed thing as faint qi or energy (미약한 기운), not merely a generic presence. This also weakens the mechanism of Qi Sense.",
+      "replacement": "a faint qi was sinking beneath the surface by the second.",
+      "rationale": "기운 is the energy detected by the protagonist's Qi Sense; reducing it to presence loses a source-established supernatural detail.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 171–185",
+      "current": "There I stood, like a rock battered again and again over years, worn and ground down until it had finally grown accustomed to the blows.",
+      "defect": "The mastered version replaces the source's deliberately unspecified image of a rock repeatedly colliding with something with the more specific image of being battered by blows.",
+      "replacement": "There, like a rock that had spent years colliding again and again with something, worn and ground down until it had finally grown accustomed to it, was the person I had become.",
+      "rationale": "The Korean leaves both the thing struck and the nature of the repeated impact unspecified; “blows” adds a more concrete mechanism and changes the image.",
+      "confidence": 0.86
+    }
+  ]
+}

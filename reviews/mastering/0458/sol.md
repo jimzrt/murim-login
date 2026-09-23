@@ -4,7 +4,7 @@
 
 Like a dying ember, the voice was tiny and faint.
 
-But that alone was enough. My heart, weighed down by the helplessness of having failed to save anyone, began pounding fiercely, and strength surged through my limp body.
+But that alone was enough. My heart, weighed down by the helplessness of having failed to save anyone, began pounding, and strength surged back into my limp body.
 
 I launched myself toward the voice.
 
@@ -64,7 +64,7 @@ I opened my eyes halfway.
 
 The Scorching Yang Qi circulating through my body rushed toward my lower half.
 
-When I stepped on empty air with the tips of my toes, the compressed air exploded outward, and a cold wind swept across my entire body.
+I stepped on empty air with the tips of my toes. Compressed air exploded beneath them, and a cold wind swept over my entire body.
 
 *Boom! Fwoooooosh!*
 
@@ -112,15 +112,15 @@ And then—
 
 I expelled the breath I had been holding.
 
-Air cold enough to sting flowed deep into my lungs.
+Air cold enough to sting flooded deep into my lungs.
 
-But pulling the survivors out of the water did not mean everything was over.
+But pulling the survivors out of the water did not mean it was over.
 
 > **System**
 >
 > **Time Limit:** 3 seconds
 
-In that moment, I instinctively realized what I had to do.
+At that moment, I instinctively knew what I had to do.
 
 *Save them.*
 
@@ -176,11 +176,11 @@ As the notifications rang in my ears, I muttered,
 
 Joy and relief at having finally succeeded were secondary. Worn down by the forced march that had begun at the Zhuge Clan, my body felt unbearably heavy.
 
-Maybe it was because the tension I’d barely managed to hold suddenly let go.
+Maybe it was because the thread of tension holding me together had finally snapped.
 
 *…Damn it. It’ll take forever to get back to land.*
 
-At this rate, would I end up needing to be rescued too?
+At this rate, I might end up needing to be rescued too.
 
 I was floating there with the two survivors, buoyed by the water, when—
 
@@ -206,7 +206,7 @@ I hurriedly shouted at the creature as it flicked its tongue and turned away.
 
 Was this its way of showing that it was sulking?
 
-One thought suddenly came to mind, and I opened my mouth in an earnest yet cautious voice.
+A thought suddenly occurred to me, and I called out in an earnest yet cautious voice.
 
 “Mimi… Mimi-chan?”
 
@@ -248,7 +248,7 @@ And the countless deaths left behind by today’s tragedy had given rise to even
 
 By then, over a thousand people had gathered along the shore of Dongting Lake, giving voice to every kind of emotion.
 
-A Confucian scholar lamented, unable to continue speaking. Behind a government soldier clutching a fallen comrade’s corpse and weeping came the wails of a woman with an infant strapped to her back. An old man, the veins standing out on his neck, even swung his long-stemmed tobacco pipe at some unseen culprit.
+A Confucian scholar could only sigh, unable to continue speaking. A government soldier wept as he clutched the corpse of a fallen comrade, while behind him, a woman with an infant strapped to her back wailed in grief. An old man, the veins bulging in his neck, swung his long-stemmed tobacco pipe at some unseen culprit.
 
 There was no longer any laughter or singing to be found at Dongting Lake, one of the most famous scenic sites under heaven.
 
@@ -262,7 +262,7 @@ The waters of Dongting Lake had grown calm, as if nothing had happened, while th
 
 I stared silently at the scene before me, then spoke without warning.
 
-“This feels like… something, doesn’t it?”
+“Feels like… you know. Doesn’t it?”
 
 I was not talking to myself.
 
@@ -274,7 +274,7 @@ Under normal circumstances, I would have snorted with laughter despite myself. B
 
 I fidgeted with a pebble and asked,
 
-“I only said ‘something.’ I didn’t know Young Hero Cheongpung knew how to swear.”
+“I only said ‘you know.’ I didn’t realize Young Hero Cheongpung knew how to swear like that.”
 
 “I didn’t at first, but I know a little now. I learned by watching someone.”
 
@@ -310,9 +310,7 @@ We also knew that none of this would make us feel any better.
 
 I muttered the curse like a lament.
 
-I did not know whether today was simply an unusual day, or whether those creatures also understood the circumstances and were grieving.
-
-There was no birdsong.
+Whether there was something strange about the day, or the birds knew what had happened and were grieving too, there was no birdsong.
 
 Only the wails and sobs of the people filled the air around us.
 
@@ -322,9 +320,9 @@ I listened quietly to those stifling, unbearable sounds, then clenched the pebbl
 
 A handful of powder spilled from my fist.
 
-No—it was carried by a breeze that had blown in from somewhere and settled lightly on the surface of the water.
+No—it was caught by a breeze that had blown in from somewhere and settled lightly on the surface of the water.
 
-As if they were mortal remains imbued with someone’s spirit.
+Like the ashes of someone’s remains, still bearing the departed soul.
 
 Cheongpung watched in silence before suddenly speaking.
 
@@ -352,7 +350,7 @@ I turned my head and finally met Cheongpung’s gaze.
 
 His usually crystal-clear eyes were swirling with a mixture of emotions.
 
-Within that confusion, I saw my past self—and the present me staring at Cheongpung now.
+Within that confusion, I saw my past self—and the present me staring back at Cheongpung.
 
 *Was I like this?*
 
@@ -366,7 +364,7 @@ I had merely learned to contain them.
 
 There I stood, like a rock battered again and again over the years, worn and ground down until it had finally grown accustomed to the blows.
 
-“Who knows? What did I do back then?”
+“Who knows? What did I do?”
 
 After thinking for a moment, I slowly continued.
 
@@ -392,9 +390,9 @@ Just then—
 
 Hyuk Mujin approached us, exhaustion plainly visible on his face.
 
-“The survivors have regained consciousness.”
+“One of the survivors has regained consciousness.”
 
-“That’s good. Both of them?”
+“That’s good. What about the other one?”
 
 “No, sir. Only one of them, for now.”
 
@@ -412,7 +410,7 @@ At last, we came face-to-face with the survivor who had regained consciousness.
 
 At my greeting, Honglan, the dazzlingly beautiful singing courtesan, bowed with the utmost respect.
 
-“It is an honor to see you, Benefactor.”
+“My greetings, Benefactor.”
 
 [^1]: A **zhang** is a traditional Chinese unit of distance, roughly 3.3 meters.
 

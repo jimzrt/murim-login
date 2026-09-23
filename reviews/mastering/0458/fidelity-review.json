@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "a faint presence was sinking farther beneath the surface with every passing moment.",
+      "defect": "The source identifies the sensed thing as faint qi or energy (미약한 기운), not merely a generic presence. This also weakens the mechanism of Qi Sense.",
+      "id": "F01",
+      "rationale": "기운 is the energy detected by the protagonist's Qi Sense; reducing it to presence loses a source-established supernatural detail.",
+      "replacement": "a faint qi was sinking beneath the surface by the second.",
+      "severity": "minor",
+      "source": "Lines 59–61"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but a few mastered lines weaken source-specific terminology and imagery.",
+  "version": 1
+}
