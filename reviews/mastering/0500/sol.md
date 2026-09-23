@@ -12,15 +12,15 @@ Trembling like a kindergartener who needed to pee, Jang Taebo threw himself betw
 
 His eyes had gone hazy, and his voice shook. He ran his hands over the scales and stroked the bones, unable to contain his excitement.
 
-“I’d be happy to be buried here and die! No, I want to die here!”
+“I could die buried in these! No, I want to!”
 
 “Get the Old Master out of there! The pile’s about to collapse!”
 
 “Y-yes, sir!”
 
-The Jin Dragon Squad martial artists had been staring blankly at the remains of a gigantic creature unlike anything they had ever seen. Now they rushed forward and dragged Jang Taebo out.
+The Jin Dragon Squad martial artists, who had been staring at the remains of a creature unlike anything they had ever seen, rushed over and dragged Jang Taebo free.
 
-Only then did the old Master Artisan come to his senses. He looked at me with moist eyes.
+Only then did the old Master Artisan come to his senses. He looked at me with tears in his eyes.
 
 “So everything you told me was true.”
 
@@ -38,7 +38,7 @@ I gave him a warm look.
 
 “You little…”
 
-“You still have plenty of Stamina and life left to grind into the forge. Where are you trying to run off to—the afterlife?”
+“You’ve got plenty of strength and years left to pour into the forge. Where do you think you’re going, running off to the afterlife?”
 
 “You little…!”
 
@@ -74,7 +74,7 @@ The reality Jang Taebo had briefly forgotten began to sink in. His face darkened
 
 Jang Taebo studied the mountain of remains before continuing.
 
-“The bones are far stronger than meteorite iron, though not quite as strong as Ten-Thousand-Year Cold Iron. They should be workable.”
+“The bones are at least as strong as meteorite iron, though not as strong as Ten-Thousand-Year Cold Iron. I believe I can work them.”
 
 “And the hide and scales?”
 
@@ -82,7 +82,7 @@ Jang Taebo studied the mountain of remains before continuing.
 
 “Oh!”
 
-“With this much material, there will be enough to arm every martial artist in the Jin Family of Taiyuan—or rather, in our family—and still have some left over. I should be able to show results soon, so I trust you’ll forgive the first few failures.”
+“With this much material, there should be more than enough to equip every martial artist in the Jin Family of Taiyuan—no, in our family. I’ll have results for you soon. I trust you’ll allow me a few failures at the start.”
 
 “Of course.”
 
@@ -104,9 +104,9 @@ Jin Wikyung’s face lit up at the high-quality slave’s calm, well-founded con
 
 The war had already begun.
 
-From the small and mid-sized sects scattered throughout Murim to the Nine Sects and One Gang, everyone wanted weapons and armor to prepare for the war that had drawn so close. The fires of the forges would not go out until the war ended.
+From the smaller sects scattered across Murim to the Nine Sects and One Gang, everyone wanted weapons and armor for the conflict drawing near. The forge fires would burn until the war was over.
 
-In the current state of Murim, it was not only the flames of war that had begun to blaze fiercely.
+And those weren’t the only fires beginning to rage across the world.
 
 “Time is short, Lesser Family Head.”
 
@@ -176,7 +176,7 @@ The Demon-Sealing Formation. Considering where that power came from, I couldn’
 
 Not that the name mattered if the formation worked.
 
-As I carefully examined the Demon-Sealing Formation, Jin Wikyung whispered to me.
+As I examined it, Jin Wikyung leaned over and whispered, “What do you think?”
 
 “Of what?”
 
@@ -192,7 +192,7 @@ I could at least sense the qi flowing through it.
 
 Compared with modern magic circles, though, the formations I’d seen and heard about in Murim were much more limited in variety and power. Murim’s emphasis on martial arts themselves probably had a lot to do with that.
 
-*They did this faster and better than I expected.*
+*This is better—and faster—than I expected.*
 
 The natural qi flowing through the formation was enough to block the magical power leaking from the Gate completely. For now, it was the best solution we had.
 
@@ -218,7 +218,7 @@ Clang!
 
 “Someone shut the Family Head’s mouth!”
 
-The atmosphere had suddenly turned murderous.
+Things had turned ugly fast.
 
 Before blood could be spilled among the relatives, I hurried to speak to Zhuge Feng, who was using a grappling technique against the family members rushing him.
 
@@ -238,7 +238,7 @@ For the benefit of the Zhuge Clan members who had stopped in their tracks, I sai
 
 “……!”
 
-The air around us instantly turned cold.
+The air turned cold.
 
 Zhuge Feng, still held by the collar by an old man, straightened his clothes. When he looked at me again, his eyes were steady and his voice had gone quiet.
 
@@ -246,7 +246,7 @@ Zhuge Feng, still held by the collar by an old man, straightened his clothes. Wh
 
 I clicked my tongue bitterly.
 
-“It’s obvious, isn’t it? You already know, Sir Zhuge.”
+“You already know, Sir Zhuge.”
 
 “I do. If it happened once, it could happen ten times. A hundred.”
 
@@ -256,7 +256,7 @@ I clicked my tongue bitterly.
 
 Something unreadable flashed in Zhuge Feng’s eyes.
 
-“Why are you so certain that things like this will continue happening? What grounds do you have for speaking with such confidence?”
+“What makes you so sure this will keep happening? What grounds do you have?”
 
 Plenty. I just couldn’t tell him.
 
@@ -270,7 +270,7 @@ Once a dam starts to crack, no matter how sturdy it is, there’s no telling how
 
 That was Murim now.
 
-*I can’t exactly tell them all of this.*
+*Not that I can tell him any of this.*
 
 In the end, there was only one answer I could give.
 
@@ -282,7 +282,7 @@ In the end, there was only one answer I could give.
 
 “I can’t believe you. No—that’s not quite true. I don’t want to.”
 
-“Zhuge Wuhou must have felt the same way. And yet he still served that stupid emperor until the very end. Even if it fucking sucks, you have to accept it.”
+“Zhuge Wuhou probably felt the same way. He still served that stupid emperor to the end, didn’t he? Even if it fucking sucks, you have to accept it.”
 
 “Even if it fucking sucks, you have to accept it…”
 
@@ -296,7 +296,7 @@ Zhuge Feng gave a short laugh and turned to Jin Wikyung.
 
 “Then why don’t we ask them?”
 
-“What does that mean…?”
+“What do you…”
 
 Zhuge Feng studied Jin Wikyung. Then he murmured, “Henan.”
 

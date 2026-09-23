@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is largely faithful, with one omitted dialogue turn and one small added qualification.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 185–193",
+      "current": "“Of what?”\n“……”\n“I’m just looking at it. How would I know?”",
+      "defect": "The exchange omits Jin Wikyung’s question, “What do you think?”, and changes the narrator’s “About what?” to “Of what?” The source then has Jin pause before the narrator explains that he is only looking.",
+      "replacement": "“What do you think?”\n“About what?”\n“……?”\n“I’m just looking at it. How would I know?”",
+      "rationale": "The Korean explicitly gives both the initial question and the narrator’s clarifying response before the pause. The assembled version loses that conversational beat.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 247",
+      "current": "“Keep installing them. Dozens of times. Hundreds, if necessary.”",
+      "defect": "“If necessary” adds a condition not present in the source, which states emphatically that they should keep installing the formations—dozens or hundreds of times.",
+      "replacement": "“Keep installing them. Dozens of times. Hundreds.”",
+      "rationale": "The Korean “수십, 수백 번” gives the repeated quantities without making hundreds contingent on necessity.",
+      "confidence": 0.94
+    }
+  ]
+}

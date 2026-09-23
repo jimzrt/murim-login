@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“Keep installing them. Dozens of times. Hundreds, if necessary.”",
+      "defect": "“If necessary” adds a condition not present in the source, which states emphatically that they should keep installing the formations—dozens or hundreds of times.",
+      "id": "F02",
+      "rationale": "The Korean “수십, 수백 번” gives the repeated quantities without making hundreds contingent on necessity.",
+      "replacement": "“Keep installing them. Dozens of times. Hundreds.”",
+      "severity": "minor",
+      "source": "Line 247"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, with one omitted dialogue turn and one small added qualification.",
+  "version": 1
+}
