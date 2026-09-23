@@ -1387,3 +1387,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 황제 | guest of the Emperor’s younger brother addressing the Emperor | Your Majesty | formal and deferential in address, despite blunt challenges | Taekyung repeatedly addresses the Emperor as 폐하. |
 | 상산왕 | 황제 | younger brother addressing the Emperor | Your Majesty | deferential royal address | Shangshan addresses the Emperor as 폐하 while pleading for Taekyung. |
 | 황제 | 무영 | employer addressing a hidden assassin in his service | No Shadow | authoritative | The Emperor calls him by name and tells him to withdraw. |
+| 소교 | 진태경 | palace attendant addressing a martial artist and guest under escort | Young Master Jin | formal and respectful, but firm | Addresses him as 진 공자 while escorting him and warning him not to investigate. |
