@@ -2245,3 +2245,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 72군단장 | **Seventy-Two Legion Commanders** | Collective title for elite S-rank monsters in the Demon Realm. |
 | 필리핀해 | **Philippine Sea** | Sea where the Leviathan trap is set. |
 | 대치동 | **Daechi-dong** | Seoul neighborhood referenced for its elite cram-school instructors. |
+| 워터 볼 | **Water Ball** | Mage-named water attack spell. |
