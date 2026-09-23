@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "That night, the beat-up capsule had fearlessly crawled inside itself, then tossed the fool who’d settled down to sleep into a new world.",
+      "defect": "The draft makes the capsule crawl inside itself. Jin is the one who climbed into it to sleep.",
+      "id": "F01",
+      "rationale": "The Korean describes the fool entering the capsule; the capsule throws him into a new world.",
+      "replacement": "That night, the beat-up capsule had tossed the fool who’d been reckless enough to crawl inside it for a nap into a new world.",
+      "severity": "critical",
+      "source": "그날 밤, 고물 캡슐은 겁도 없이 자신의 안으로 기어들어 와 잠을 청한 멍청이를 새로운 세상으로 내던졌고"
+    },
+    {
+      "confidence": 0.91,
+      "current": "One of the beings who’d been replaced like a part, over and over, until Michael Silbert became who he is now.",
+      "defect": "The wording suggests one being was repeatedly replaced, rather than that successive beings were swapped out like parts.",
+      "id": "F02",
+      "rationale": "Jin is describing a succession of Muninns that contributed to Michael’s present state.",
+      "replacement": "One of a series of beings swapped out like spare parts to make Michael Silbert who he is today.",
+      "severity": "major",
+      "source": "몇 번이나 부품처럼 교체되며 지금의 미카엘 실베르트를 있게 만든 존재 중 하나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "During the Lich subjugation.",
+      "defect": "The opponent’s designation loses “Arch.”",
+      "id": "F03",
+      "rationale": "The source specifies 아크 리치, not simply 리치.",
+      "replacement": "During the Arch Lich subjugation.",
+      "severity": "minor",
+      "source": "아크 리치 토벌전."
+    },
+    {
+      "confidence": 0.97,
+      "current": "He’d already realized that the situation was getting serious. Jin Taekyung gestured to him with his chin.",
+      "defect": "The draft omits Genji’s eyes darting around as he gauges the situation.",
+      "id": "F04",
+      "rationale": "눈동자만 뒤룩뒤룩 굴리는 supplies a visible cue to Genji’s nerves.",
+      "replacement": "He’d already realized that the situation was getting serious. As his eyes darted around, Jin Taekyung jerked his chin at him.",
+      "severity": "minor",
+      "source": "눈동자만 뒤룩뒤룩 굴리는 그를 향해 진태경이 턱짓했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "慎重ness is a leader’s virtue.",
+      "defect": "An untranslated fragment breaks the English-only reading copy.",
+      "id": "F05",
+      "rationale": "신중함 means caution or prudence here.",
+      "replacement": "Caution is a leader’s virtue.",
+      "severity": "minor",
+      "source": "신중함은 리더의 덕목이지."
+    },
+    {
+      "confidence": 0.92,
+      "current": "I didn’t want anyone else getting caught up in this.",
+      "defect": "“Anyone else” broadens Jin’s concern beyond the people he considers uninvolved.",
+      "id": "F06",
+      "rationale": "괜한 사람들 identifies people who need not be drawn into the confrontation.",
+      "replacement": "I didn’t want people who had nothing to do with this getting caught up in it.",
+      "severity": "minor",
+      "source": "괜한 사람들이 휘말리게 하고 싶지 않았어요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He’d spent each day in a cramped, musty goshiwon room, a tiny, inexpensive room-for-rent lodging.[^1]",
+      "defect": "The in-line definition repeats the footnote and awkwardly equates a room with a lodging.",
+      "id": "F07",
+      "rationale": "The existing footnote already supplies the useful explanation of 고시원.",
+      "replacement": "He’d spent each day in a cramped, musty goshiwon room.[^1]",
+      "severity": "minor",
+      "source": "좁고 곰팡내 나는 고시원 방에서 하루하루를 보냈다."
+    }
+  ],
+  "summary": "One action is reversed, Muninn’s succession is blurred, and several smaller details need correction.",
+  "version": 1
+}

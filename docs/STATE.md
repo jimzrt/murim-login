@@ -1,21 +1,23 @@
 # Translation State
 
-- Last completed: 811
-- Next chapter: 812
-- Current block: 810–814 (2/5)
-- Latest translation: `translations/0811.md`
-- Latest summary: `summaries/beats/0811.md`
-- Safe profiles through: chapter 811
+- Last completed: 812
+- Next chapter: 813
+- Current block: 810–814 (3/5)
+- Latest translation: `translations/0812.md`
+- Latest summary: `summaries/beats/0812.md`
+- Safe profiles through: chapter 812
 
 ## Current Block
 
-- The Skeleton King realizes Jin lied about the monsters fleeing east, but trusts Jin and repeats the lie to Magic Johnson. Jin divides the forces, sending the main pursuit east while taking the Skeleton King, Magic Johnson, and Yamamoto west toward the oil fields indicated by The Prophet’s message about buried black jewels.
-- Jin orders Team Leader Choi to avoid clashes while pursuing the remaining monsters, then leads the four-person group to a canyon. He spots an eagle overhead and blocks the canyon entrance.
+- Jin Taekyung blocks the canyon exit with the Skeleton King and confronts Magic Johnson, having reviewed the evidence about The Prophet and Michael Silbert. Jin concludes that The Prophet was not the fifth Muninn: one individual had been Muninn for more than thirty years and taught Michael to use magical power.
+- Jin questions why Johnson helped him and admits he still doubts that a monster could use mana and potions. Johnson answers that he helped because they are friends, then raises his staff as the Skeleton King’s forces fill the canyon.
+- Jin’s flash blinds the group, letting him strike Yamamoto Genji. As Genji staggers, Jin asks what he is; Genji is revealed to be The Prophet.
 
 ## Open Questions
 
-- Is The Prophet at the oil fields, and what is the significance of the buried black jewels?
-- What will Jin find at the canyon, and what is the eagle’s role?
+- What will happen in the confrontation between Jin and The Prophet?
+- What unresolved pieces of evidence are needed to complete Jin’s understanding of the conspiracy?
+- Is Magic Johnson human?
 
 ## Exceptional Decision
 
