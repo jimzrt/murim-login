@@ -52,7 +52,7 @@ I even got him to carry me on his shoulders by threatening him, despite his comp
 
 *“I haven’t had much of an appetite, so only five!”*
 
-*“……That’s my good boy. No wonder the night sky looked yellow.”*
+*“…That’s my boy. No wonder the night sky looks yellow.”*
 
 It was a happy memory. We talked about all sorts of things that day, and when we got back to the hotel, I excitedly told my little sister Hayeon and Mom all about it.
 
@@ -82,7 +82,7 @@ Gwangan Bridge was collapsing before my eyes.
 
 “Ah.”
 
-A sigh escaped between my lips before I could stop it.
+A sound escaped my lips before I knew it.
 
 My mind screamed at me to get over there with everything I had, but my body wouldn’t move. It was as if an invisible hand held me in place.
 
@@ -94,7 +94,7 @@ The Skeleton King, who had come with me, and the mage who had brought us here wa
 
 “N-no!”
 
-The cry of the mage whose name I did not know was hollow, and the scene spread out in the distance below us was overwhelming.
+The nameless mage’s cry sounded hollow. The sight spread out below us in the distance was overwhelming.
 
 *That’s…*
 
@@ -104,7 +104,7 @@ A wave dozens of meters high had struck the place where my father’s promise co
 
 *Whoooosh!*
 
-Carrying tremendous weight and force, the wave slammed into the middle of Gwangan Bridge, a suspension bridge thirty-five meters high and 7,420 meters long.
+The immense weight of the wave slammed into the middle of Gwangan Bridge, thirty-five meters high and 7,420 meters long.
 
 Spray burst in every direction, and screams were swallowed by blinding white foam. Hundreds of cars cruising along at the speed limit were flung away like toys.
 
@@ -120,7 +120,7 @@ It happened in an instant.
 
 People and cars that looked like ants were swept away by the cables and vanished.
 
-Red blood flowed where they had stood, unable even to leave a final scream behind. Chain explosions, the screams of those who had survived by sheer luck, and the frantic blaring of car horns all reached my heightened senses.
+Blood ran across the places where they had stood, unable even to leave a final scream behind. Chain explosions, the screams of those who had survived by sheer luck, and the frantic blaring of car horns reached my sharpened senses.
 
 *Honk! Hooooonk!*
 
@@ -128,7 +128,7 @@ Red blood flowed where they had stood, unable even to leave a final scream behin
 
 —Aaaaaaah!
 
-—Please! Please get my child out! There’s a kid here……!
+—My child! Please get my child out! There’s a kid here…!
 
 I felt dazed, as though I were dreaming.
 
@@ -170,11 +170,9 @@ No. I launched him.
 
 The magically reinforced floor-to-ceiling glass shattered, and the Skeleton King shot out like a cannonball.
 
-Hearing his scream disappear into the wind, I kicked off the ground with all my strength as well.
+His scream disappeared into the wind as I kicked off the floor with all my strength. I didn’t forget to call back to the mage, who had collapsed from exhaustion.
 
-I did not forget to leave one instruction for the mage, who had already collapsed from exhaustion.
-
-“Call for rescue using my name. Anywhere—right now!”
+“Use my name and call for rescue. Anyone—right now!”
 
 I didn’t know whether he’d heard me properly in his exhausted state, or where he would send the request.
 
@@ -182,7 +180,7 @@ Nothing mattered more than what was happening in front of me.
 
 *Boom!*
 
-The force of my leap made the high-rise building where the Teleport magic circle had been installed tremble.
+The force of my leap made the high-rise building that housed the Teleportation magic circle tremble.
 
 As I shot through the sky, an angry shout reached me.
 
@@ -212,15 +210,15 @@ I didn’t have time to say more, but the Skeleton King understood.
 
 He swallowed hard and looked far below.
 
-His gaze swept over the road swallowed by screams and chaos and the people running for their lives. Then it suddenly began to tremble.
+His gaze swept across the road, where screams and chaos engulfed people fleeing for their lives. Then his eyes began to tremble.
 
 “Fuck. What are those?”
 
 “What do you think?”
 
-I answered shortly, pulled a spare spear from my inventory, and aimed it at the ground.
+I pulled a spare spear from my Inventory and aimed it at the ground.
 
-Through my greatly enhanced eyesight, it looked as grotesque as any other monster. The scales covering its entire body and the fins extending down to its jaw were repulsive.
+My enhanced eyesight picked out something as grotesque as any other monster. Scales covered its entire body, and fins ran down to its jaw.
 
 *Merman.*
 
@@ -236,7 +234,7 @@ The hundreds of Mermen surging out of the sea and descending on the people below
 
 They charged with unintelligible cries, barnacle-covered tridents flashing in their hands.
 
-Beyond those flashing points sat a little girl, collapsed on the ground and crying.
+At the points of those tridents sat a little girl, crying on the ground.
 
 “Waaaaah! Mommy!”
 
@@ -256,7 +254,7 @@ My body, angled through the wind, turned sharply downward. Internal energy flowe
 
 I began a steep descent, using **Stepping on Empty Air** to kick off the air itself.
 
-But no matter how quickly I hurried, the girl would inevitably die before I arrived if things continued like this.
+But no matter how fast I went, the girl would die before I reached her.
 
 *Go.*
 
@@ -264,15 +262,15 @@ With a short breath, I hurled the spear I’d aimed at the ground.
 
 *Whoooosh!*
 
-A single spear plunged down like a bolt of lightning from an unreachable height.
+It plunged from high above like a bolt of lightning.
 
-Cutting through the wind, erasing space, carrying the two characters for *certain death*—
+Cutting through the wind, erasing the distance, carrying the two characters for *certain death*—
 
 It pierced its target.
 
 *Splurch! Crunch-crunch-crunch!*
 
-The Merman leading the charge toward the girl, along with a dozen or so monsters around it, turned into a handful of blood.
+The Merman at the front of the charge and a dozen or so monsters around it turned into a spray of blood.
 
 Hundreds of Mermen stopped at once and stared up at the sky, mouths hanging open.
 
@@ -306,7 +304,7 @@ Sticky blood trickled down the railing of the tilted Gwangan Bridge.
 
 *Open. Summon. And summon. Summon again.*
 
-It happened in the blink of an eye. The System operated instantly, and my movements were faster than the wind and more powerful than lightning.
+It all happened in an instant. The System responded immediately, and I moved faster than the wind, striking harder than lightning.
 
 As soon as I thought of it, my hand shot out. In only a few seconds, I seized dozens of spears and hurled them at the ground.
 
@@ -318,9 +316,9 @@ They split apart. They burst.
 
 Those who tried to block the spears died along with their tridents. Those who tried to run died before they could take a step.
 
-When the girl who had been crouched and crying just three meters away began to hiccup, there was nothing left around her.
+By the time the little girl, crying on the ground only three meters away, began to hiccup, nothing remained around her.
 
-“ hic. Sob.”
+“Hic. Hic.”
 
 She looked about nine years old. Sobbing hiccups escaped through the little hands clamped over her mouth.
 

@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is largely faithful, with two small action-detail shifts.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 125",
+      "current": "Hundreds of cars cruising along at the speed limit were flung away like toys.",
+      "defect": "The Korean says the cars were moving leisurely in accordance with the speed limit, not necessarily at the exact speed limit.",
+      "replacement": "Hundreds of cars moving leisurely within the speed limit were flung away like toys.",
+      "rationale": "“At the speed limit” adds a precise speed the source does not establish.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 339",
+      "current": "Those who tried to block the spears died along with their tridents.",
+      "defect": "The source specifies that they tried to block the spears using their tridents. The current sentence leaves that action unspecified.",
+      "replacement": "Those who tried to block the spears with their tridents died along with them.",
+      "rationale": "The Korean says “삼지창으로 막으려 했던,” explicitly identifying the tridents as the means of blocking.",
+      "confidence": 0.98
+    }
+  ]
+}
