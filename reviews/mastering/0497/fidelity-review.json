@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "no one could ignore either the standing or the number of those gathered.",
+      "defect": "“면면” refers to the gathered people themselves—their makeup or lineup—not their standing or rank. The translation adds a status claim absent from the source.",
+      "id": "F01",
+      "rationale": "The source says that, despite selecting only trusted elites, the people gathered and their numbers were impossible to ignore.",
+      "replacement": "no one could ignore the lineup or the number of those gathered.",
+      "severity": "minor",
+      "source": "Korean source, line 293"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor shift in the description of the gathered martial artists.",
+  "version": 1
+}

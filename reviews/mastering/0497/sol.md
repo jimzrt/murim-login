@@ -26,7 +26,7 @@ Mungyeong was sitting on a rock about thirty feet away.
 
 “Twelve.”
 
-Five times, my Sinews and Meridians had been severed in all four limbs. Three times, I had died from a Pressure-Point Strike to a lethal acupoint. Three more times, my heart had been pierced. And just now, my throat had been cut.
+Five times, the Sinews and Meridians in my limbs had been severed. Three times, I’d died from a Pressure-Point Strike to a lethal acupoint. Three more times, my heart had been pierced. And just now, my neck had been cut.
 
 I hadn’t actually died, but I might as well have. I wiped the sticky blood from my neck with my sleeve and looked at Mungyeong.
 
@@ -84,7 +84,7 @@ Mungyeong stared at me for a while, then tossed out a single remark.
 
 “Oh, was that a compliment?”
 
-“It means you’ve only just reached the basics.”
+“It means you’ve only just mastered the basics.”
 
 “Exactly. Thank you for the compliment.”
 
@@ -96,7 +96,7 @@ Mungyeong frowned.
 
 “…You have a gift for getting on people’s nerves.”
 
-“Either way, reaching the basics means it was a compliment. Why are you so bad at being honest? Are you going through puberty?”
+“If I’ve mastered the basics, it was a compliment. Why can’t you just admit it? Are you going through puberty?”
 
 “I said I’m not!”
 
@@ -174,11 +174,11 @@ My stomach knotted with panic as I turned back around. Fine. Since I was stuck h
 
 “They were assassins. They belonged to Salcheonmun with me.”[^2]
 
-Even the name smelled of blood.
+*Salcheonmun.* The name alone sounded bloody.
 
 *So he belonged to a sect, too.*
 
-It made sense when I thought about it. No matter how extraordinary Mungyeong was, he hadn’t been born an assassin.
+It made sense. Mungyeong hadn’t been born an assassin.
 
 *Still, a sect the Slaughter Saint belonged to should be fairly well known.*
 
@@ -194,11 +194,11 @@ There was only one way for a sect to vanish. Watching his expression, I carefull
 
 “Yes.”
 
-“How did that happen? No, before that—weren’t you the Sect Leader?”
+“How did that happen? Wait, weren’t you the Sect Leader?”
 
 “They chose the wrong path and paid the price. That’s all I’ll say.”
 
-Mungyeong finished speaking and rose to his feet. A short sword in his hand was already radiating vivid blue sword energy.
+Mungyeong rose. At some point, a short sword had appeared in his hand, its keen edge gleaming blue.
 
 “Now it’s time for you to pay.”
 
@@ -206,7 +206,7 @@ Mungyeong finished speaking and rose to his feet. A short sword in his hand was 
 
 “Dodge one sword stroke. That’s the condition.”
 
-Most people would probably think, *How am I supposed to evade that?* But from my perspective, it was worth trying.
+Most people would think, *How the hell am I supposed to dodge that?* But I had a decent shot.
 
 I’d lasted half an hour against the Slaughter Saint while doing a lousy imitation of an assassin. Surely I could dodge one stroke.
 
@@ -220,7 +220,7 @@ Mungyeong added, “Close your eyes.”
 
 “Fuck. Are you kidding me?”
 
-“Then you will die. Not the thirteenth time, but for the first and last time.”
+“Then you’ll die. Not for the thirteenth time, but for the first and last.”
 
 Before he’d finished speaking, Mungyeong’s sleeve fluttered.
 
@@ -280,7 +280,7 @@ Wudang, the Zhuge Clan, and the Beggars’ Sect.
 
 They had chosen only trustworthy elites to preserve secrecy, but no one could ignore either the standing or the number of those gathered.
 
-Among the several hundred martial artists from prestigious great sects, the figure of a young medical apprentice was bound to stand out wherever he went.
+Among the hundreds of martial artists from those renowned sects, a young medical apprentice was bound to stand out wherever he went.
 
 “Oh, it’s you. Just coming out?”
 
@@ -296,21 +296,21 @@ Among the several hundred martial artists from prestigious great sects, the figu
 
 The Zhuge martial artist standing guard let out a short laugh at the young medical apprentice’s innocent remark. Boredom had led him to bother a child who’d learned nothing but medicine, and now he felt a little guilty.
 
-“He is incredible. No doubt about it. You’ll understand someday, too.”
+“He is. You’ll understand someday.”
 
-“Hmm. Is that so?”
+“Hmm. Will I?”
 
 “If you’re not involved in Murim, you might not know. Anyway, is his training over for today?”
 
-As though he knew nothing, Mungyeong tilted his head and answered.
+Mungyeong tilted his head as though he knew nothing.
 
 “No. He said no one should come near him for the next two shichen.”
 
-“Understood. This is Great Hero Jin we’re talking about—we can’t interrupt his training. I’ll pass that along to the next guards.”
+“Understood. We can’t interrupt Great Hero Jin’s training. I’ll tell the guards on the next shift.”
 
-“Yes. Then take care.”
+“Thank you. Take care.”
 
-Mungyeong politely bowed at the waist and was about to leave when the martial artist suddenly spoke.
+Mungyeong bowed politely and was about to leave when the martial artist spoke again.
 
 “My, his training must be rougher than I thought.”
 
@@ -326,9 +326,9 @@ The guard’s follow-up question never reached Mungyeong. He looked down at the 
 
 “Ah. Good. All right.”
 
-Leaving the martial artist behind with an uneasy expression, Mungyeong walked away.
+Mungyeong walked away, leaving the uneasy-looking guard behind.
 
-Several faces had grown familiar enough to speak to him and acknowledge him as they passed, but the young medical apprentice’s mind held only one person.
+Several familiar faces greeted him as he passed, but the young medical apprentice had only one person on his mind.
 
 *Jin Taekyung. Jin Taekyung…*
 
@@ -340,7 +340,7 @@ The results of the past several days of testing, and of today, had exceeded Mung
 
 Everything he’d told Jin Taekyung was true.
 
-He had once had people who could properly be called Disciples, and every one of them had possessed the “basics.”
+He had once taught people he could fairly call Disciples, and all of them had mastered the “basics.”
 
 But there was one thing he hadn’t mentioned: how long that had taken.
 
@@ -360,7 +360,7 @@ The skin had been cut by something sharp, and beads of blood had formed along th
 
 *Now I understand how the Fire King feels.*
 
-But Mungyeong did not realize that a faint smile had formed at the corner of his mouth.
+But Mungyeong didn’t realize a faint smile had appeared on his face.
 
 [^1]: Teacher’s Day is a Korean holiday observed on May 15 to honor teachers.
 
