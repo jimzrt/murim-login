@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "So, what do you think would happen if a certain kind of story got around Murim right now?",
+      "defect": "Jeok asks how he would feel, not what would happen. Tang Sadok’s answer about Jeok being displeased responds to the former.",
+      "id": "F01",
+      "rationale": "The following answer, “불쾌하실 것 같습니다,” identifies Jeok’s feelings as the question’s subject.",
+      "replacement": "So, how do you think I’d feel if a certain kind of story got around Murim right now?",
+      "severity": "major",
+      "source": "그러면 어떨 것 같으냐?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "then suddenly beat my father half to death three months later…",
+      "defect": "“Half to death” adds an unreported degree of injury.",
+      "id": "F02",
+      "rationale": "두들겨 패셨다고 says Jeok beat his father up; it does not say the beating nearly killed him.",
+      "replacement": "then suddenly beat my father up three months later…",
+      "severity": "major",
+      "source": "석 달 뒤에 갑자기 제 선친을 두들겨 패셨다고……."
+    },
+    {
+      "confidence": 0.97,
+      "current": "His eyes, however, were filled with affection and relief.",
+      "defect": "“Relief” replaces the pleasure of seeing Jin again.",
+      "id": "F03",
+      "rationale": "반가움 conveys gladness at a reunion, not relief that a danger has passed.",
+      "replacement": "His eyes, however, held affection and joy at seeing me again.",
+      "severity": "major",
+      "source": "그러나 그와는 반대로 애정과 반가움이 묻어나오는 그의 눈빛을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Stop acting like a coward and get up already.",
+      "defect": "Jeok accuses Jin of making a fuss, not cowardice.",
+      "id": "F04",
+      "rationale": "엄살떨다 means exaggerating one’s pain or distress; “coward” changes the character of the rebuke.",
+      "replacement": "Stop making such a fuss and get up already.",
+      "severity": "major",
+      "source": "엄살떨지 말고 냉큼 일어나지 못하겠느냐."
+    },
+    {
+      "confidence": 0.94,
+      "current": "They’d come together because each needed what the other had. And so the nine-bow ritual was nothing but an empty formality, meaningless to either of them.",
+      "defect": "“To either of them” adds a claim about both people’s feelings that the narration does not make.",
+      "id": "F05",
+      "rationale": "The source calls the ritual meaningless without assigning that judgment separately to both characters; Jin immediately admits that Jeok’s dismissal stings.",
+      "replacement": "They’d come together because each needed what the other had. And so the nine-bow ritual was nothing but meaningless ceremony.",
+      "severity": "minor",
+      "source": "그들은 서로가 가진 것을 필요로 했기에 맺어졌고, 그렇기에 구배지례는 아무런 의미도 없는 허례허식에 불과했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A bead of cold sweat rolled down Tang Sadok’s neck.",
+      "defect": "The draft drops the cue that the sweat appeared without Tang Sadok noticing when.",
+      "id": "F06",
+      "rationale": "언제 맺혔는지 모를 makes his involuntary fear more immediate.",
+      "replacement": "A bead of cold sweat he hadn’t even noticed forming rolled down Tang Sadok’s neck.",
+      "severity": "minor",
+      "source": "언제 맺혔는지 모를 식은땀 한 방울이 당사독의 목덜미를 타고 굴러떨어졌다."
+    }
+  ],
+  "summary": "Several lines change the degree of violence or lose cues in Jeok Cheongang’s threats and reunion with Jin.",
+  "version": 1
+}

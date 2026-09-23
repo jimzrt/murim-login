@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 840
-- Next chapter: 841
-- Current block: 840–844 (1/5)
-- Latest translation: `translations/0840.md`
-- Latest summary: `summaries/beats/0840.md`
-- Safe profiles through: chapter 840
+- Last completed: 841
+- Next chapter: 842
+- Current block: 840–844 (2/5)
+- Latest translation: `translations/0841.md`
+- Latest summary: `summaries/beats/0841.md`
+- Safe profiles through: chapter 841
 
 ## Current Block
 
-- At the Sichuan Tang Clan, Tang Sadok explains that allied martial artists remain to guard the clan against another Dark Heaven attack. He escorts Jin to the Rear Court, where Jin finds Jeok Cheongang arguing with a physician who refuses to leave his patients to treat Jin. Jeok and Jin reunite awkwardly after Jin overhears the argument.
+- Jeok Cheongang warns Tang Sadok to keep quiet about what he has seen, then recounts an old, inexplicable beating of Tang Sadok’s father, the Poison King. After Tang Sadok leaves, Jeok and Jin Taekyung tease and argue as usual, but their exchange turns sincere: they acknowledge their affection and relief at being together again. Though they have never formally established a Master-Disciple bond, Jeok hints that they may do so when the time comes and everything is set right, then welcomes Jin back.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Was Jin’s vision of the summoned being real, System-delivered, or prophetic?
 - What will happen as the Rift progresses and more beings enter the world?
 - Who or what chose Jin, and what is the Ark?
-- What changed in the System update, and when will its functions return?
+- What did Jeok mean by the time when everything returns to its proper place?
 
 ## Exceptional Decision
 
