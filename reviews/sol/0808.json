@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "As its body fell apart, exactly in two, eyes full of fear stared out from between its two halves.",
+      "defect": "The draft makes the fearful eyes appear to belong to the bisected monster. Jin sees them beyond its falling halves.",
+      "id": "F01",
+      "rationale": "The body falls to either side, revealing fearful eyes between the halves; the source does not place eyes in the severed body.",
+      "replacement": "Its body split cleanly in two and fell to either side. Between the halves, I saw eyes filled with fear.",
+      "severity": "critical",
+      "source": "정확히 반으로 갈라지며 좌우로 쓰러지는 신형 사이로 두려움에 찬 눈동자들이 보였다."
+    },
+    {
+      "confidence": 0.85,
+      "current": "The increase in magical power had made the monster army stronger than before.",
+      "defect": "The draft drops the change in magical-power distribution, reducing the stated cause to an unspecified increase in power.",
+      "id": "F02",
+      "rationale": "마력 분포도의 증가 describes a change in the distribution or concentration of magical power, not simply an increase in the monsters’ own power.",
+      "replacement": "The monster army had grown stronger than before as magical power became more concentrated.",
+      "severity": "major",
+      "source": "마력 분포도의 증가로 전보다 강력하게 거듭난 몬스터 군단."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Born to a fate of struggle, they barely even had a concept of kinship.",
+      "defect": "“Kinship” suggests familial bonds rather than recognition of others of their own kind.",
+      "id": "F03",
+      "rationale": "동족 refers to members of the same kind or species, which matters to the explanation of why the monster groups fall into chaos.",
+      "replacement": "Born to a fate of struggle, they barely even recognized their own kind.",
+      "severity": "major",
+      "source": "탄생과 함께 투쟁의 운명을 부여받은 놈들에게는 동족(同族)이라는 개념조차 희미하다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "And if The Prophet, who still hadn’t shown himself, was watching me now, I couldn’t let him see me getting any weaker.",
+      "defect": "The draft assigns the unseen Prophet a male pronoun and changes Jin’s resolve not to appear weakened into a concern about becoming weaker.",
+      "id": "F04",
+      "rationale": "The source leaves the Prophet’s identity unstated here and concerns the weakness Jin might display, not a further loss of strength.",
+      "replacement": "If The Prophet, still nowhere in sight, was watching me now, all the more reason not to show any weakness.",
+      "severity": "major",
+      "source": "아직까지도 모습을 드러내지 않은 선지자가 지금의 내 모습을 지켜보고 있다면, 더더욱 약해진 모습을 보일 수 없었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A rain of arrows poured down over the Orcs, who were left scrambling after losing their leaders in an instant.",
+      "defect": "The draft gives the Orcs multiple lost leaders where the source names one.",
+      "id": "F05",
+      "rationale": "우두머리 is singular here, referring to the Orc chieftain Jin has just struck.",
+      "replacement": "A rain of arrows poured down over the Orcs, who were left scrambling after losing their chieftain in an instant.",
+      "severity": "minor",
+      "source": "순식간에 우두머리를 잃고 우왕좌왕하는 오크들의 머리 위로 화살 비가 쏟아져 내렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Hunters flinched at the sight, but when they spotted the Skeleton King, they simply carried on fighting.",
+      "defect": "The draft loses the pointed shift to acting as though the undead monster’s return were nothing unusual.",
+      "id": "F06",
+      "rationale": "아무렇지 않게 explicitly marks their suddenly untroubled reaction.",
+      "replacement": "The Hunters flinched at the sight, but once they spotted the Skeleton King, they went right back to fighting as if nothing had happened.",
+      "severity": "minor",
+      "source": "그 광경에 흠칫하던 헌터들이 이내 스켈레톤 킹의 모습을 발견하고 아무렇지 않게 전투를 계속해 갔다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A promised movement, with not a hint of hesitation or wasted effort.",
+      "defect": "“A promised movement” is an unnatural literal rendering of their coordinated attack.",
+      "id": "F07",
+      "rationale": "약속된 움직임 describes movements executed in concert, not a promise made to someone.",
+      "replacement": "Their movements were perfectly coordinated, without a hint of hesitation or wasted effort.",
+      "severity": "minor",
+      "source": "한 치의 망설임도, 군더더기도 없는 약속된 움직임."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Curses and screams mingled as Force and magic, light and darkness, clashed all around us.",
+      "defect": "“Magic” replaces the source’s magical power.",
+      "id": "F08",
+      "rationale": "마력 is magical power under the supplied terminology, distinct from 마법, magic.",
+      "replacement": "Curses and screams mingled as Force and magical power, light and darkness, clashed all around us.",
+      "severity": "minor",
+      "source": "욕설과 비명이 뒤섞이고 오러와 마력이, 빛과 어둠이 사방에서 격돌한다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> You have defeated **[Lv. 101 Minotaur Warrior]**!\n>\n> You have gained a small amount of **EXP**!",
+      "defect": "The System notice retains square brackets around the defeated monster, contrary to the panel formatting rule.",
+      "id": "F09",
+      "rationale": "The blockquote already frames the System message; its contents should not retain source UI brackets.",
+      "replacement": "> **System**\n>\n> You have defeated the Lv. 101 Minotaur Warrior!\n>\n> You have gained a small amount of EXP!",
+      "severity": "minor",
+      "source": "- [Lv.101 미노타우로스 대전사]를 처치하셨습니다!\n\n- 소량의 경험치를 획득했습니다!"
+    }
+  ],
+  "summary": "The draft largely follows the battle, but it changes whose eyes Jin sees after a kill, loses a few tactical and characterization details, and formats the System notice incorrectly.",
+  "version": 1
+}
