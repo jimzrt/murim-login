@@ -50,13 +50,13 @@ I kept my eyes on the man.
 
 “I figured it was something like that. We’ll talk later. Step aside.”
 
-As Hyuk Mujin backed away with an expression like he wanted to kill himself, the smile at the corners of the man’s mouth deepened.
+Mujin backed away looking like he wanted to kill himself. The man’s smile deepened.
 
 “Well, now. You’re quicker on the uptake than I expected.”
 
 “Not really. It’d be stranger if a textile-shop owner’s son had a friend like you.”
 
-“Hm. I didn’t know that. Though, to be honest, I didn’t have particularly high expectations.”
+“Hm. I didn’t know that. Though I can’t say I expected much from his story.”
 
 “You’re taking your time introducing yourself. Who are you?”
 
@@ -74,7 +74,7 @@ He laughed aloud.
 
 “I’d only heard rumors about the Blazing Flame Divine Dragon. You’re more entertaining than they led me to believe.”
 
-“It’s not exactly a fun situation from where I’m standing. Anyway, are you still planning to introduce yourself as a passing traveler?”
+“Not that entertaining from where I’m standing. Are you sticking with ‘traveler passing through’ as your introduction?”
 
 “You don’t know me, then. A few people here seem to.”
 
@@ -104,9 +104,9 @@ I studied the man.
 
 He shrugged.
 
-“If Kongtong found out it had been associated with a demonic, heterodox practitioner like me, it would be displeased. Of course, I feel the same way.”
+“Kongtong wouldn’t be pleased to hear it had been associated with someone from the demonic, heterodox arts like me. Nor would I, for that matter.”
 
-“A demonic, heterodox practitioner?”
+“Demonic, heterodox arts?”
 
 “Ever heard of the Black Dragon Demon Gate?”
 
@@ -138,7 +138,7 @@ The man’s brow furrowed.
 
 “…Black Dragon Saber. Sama Pyo.”
 
-“I didn’t ask for your name. But all right, now I know.”
+“I didn’t ask for your name. But all right.”
 
 “…”
 
@@ -146,7 +146,7 @@ The man’s brow furrowed.
 
 “What?”
 
-“What do you mean, what? Sima Yi. The one from *Romance of the Three Kingdoms*.”
+“You know, Sima Yi. From *Romance of the Three Kingdoms*.”
 
 [^1]: “Sama” and “Sima” are Korean and Mandarin readings of the same surname, 司馬.
 
@@ -154,13 +154,13 @@ Sama Pyo looked taken aback.
 
 “We share a surname. That’s all.”
 
-“Really? What a shame. If you were sworn enemies of the Zhuge Clan, I was going to introduce you to someone I know.”
+“Really? Shame. If you were sworn enemies with the Zhuge Clan, I was going to introduce you to someone.”
 
 “…That doesn’t mean I’m on good terms with the Zhuge Clan.”
 
 “Yeah, fair enough. So why are you here?”
 
-Sama Pyo studied me with a strange gaze before speaking.
+He gave me a curious look before answering.
 
 “I came for my subordinate.”
 
@@ -192,7 +192,7 @@ Sama Pyo clicked his tongue.
 
 “Cannot. Food not here yet.”
 
-“What a bear of a man. You’ve eaten that much and you’re still not full?”
+“You great bear. You’ve eaten all that and still aren’t full?”
 
 “Today. Only six meals. Barely ate.”
 
@@ -242,19 +242,19 @@ Their sudden wariness had one target.
 
 *Sama Pyo.*
 
-His eyes widened slightly, and he merely stared at me with an unreadable look.
+But he didn’t move. His eyes widened a fraction, and he studied me with an unreadable expression.
 
-Then his tightly closed lips parted, and a gentle voice flowed out.
+Then his lips parted, and he spoke softly.
 
-“How refreshing. I’ve never had an experience like this in Gansu—or in my entire life.”
+“How novel. I’ve never experienced anything like this in Gansu—or anywhere else in my life.”
 
-“The first time is the hardest. It gets easier from the second time onward. I’ll give you plenty more of it from now on, so don’t worry.”
+“The first time’s the hard part. It gets easier after that. Don’t worry, I’ll give you plenty more chances.”
 
-“Plenty more in the future, too?”
+“Plenty more?”
 
 “I get the feeling we’ll be seeing each other often. Could be wrong.”
 
-“You’re certainly different. Very different. Don’t you agree?”
+“You really are different. Aren’t you?”
 
 The question wasn’t for me.
 
@@ -266,7 +266,7 @@ Taishan, whose huge eyes had been darting around, nodded.
 
 A smile I couldn’t read appeared on Sama Pyo’s face, then vanished.
 
-The next moment, Sama Pyo reached up and grabbed Taishan by the nape of his neck, far above his own head, then hauled him upright.
+The next moment, he reached up, grabbed Taishan by the back of the neck, and hauled him to his feet.
 
 “Hard to linger where we aren’t welcome. Come on, you fool.”
 
@@ -286,11 +286,11 @@ That only deepened the question I’d been turning over.
 
 From their reactions, they’d clearly met before. More than that, something had happened between them.
 
-*What was it?*
+*What?*
 
-Perhaps someone noticed my expression, because a foot tapped mine beneath the table.
+Someone tapped my foot beneath the table.
 
-Tap. Tap.
+*Tap. Tap.*
 
 I didn’t need to look. It was Gung Gibang. He moved his chapped lips.
 
@@ -312,7 +312,7 @@ But that was how people worked. Even if I wasn’t going to ask Hwaran herself, 
 
 *—You’re better off not knowing.*
 
-At that moment, Ju Hwaran, who was sitting right beside Gung Gibang and directly across from me, handed me a plate with a smile.
+Just then, Hwaran, seated beside Gibang and directly across from me, smiled and handed me a plate.
 
 “Try this, Great Hero Jin.”
 
@@ -340,7 +340,7 @@ I was about to send another Sound Transmission when Hwaran spoke.
 
 “Tell me while I’m still asking nicely, okay?”
 
-I nearly made a huge mistake.
+I nearly made a terrible mistake.
 
 I looked up, my mouth full of food, and Hwaran continued.
 
