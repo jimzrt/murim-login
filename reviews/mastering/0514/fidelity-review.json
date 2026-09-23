@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "Behind them stood someone with a conical hat pulled low over their face.",
+      "defect": "The source says only that someone was there; it does not establish that the person stood behind the monks.",
+      "id": "F01",
+      "rationale": "The added location changes the physical staging without support from the Korean.",
+      "replacement": "There stood someone wearing a conical hat pulled low over their face.",
+      "severity": "minor",
+      "source": "Korean line 41"
+    },
+    {
+      "confidence": 0.85,
+      "current": "They were the last people he wanted to meet, especially now, when his simple-minded subordinate had killed someone in the middle of a main road.",
+      "defect": "“The last people he wanted to meet” makes his reaction stronger than the source’s description of them as an awkward or difficult opponent to encounter.",
+      "id": "F02",
+      "rationale": "마주치기 껄끄러운 상대 describes an uncomfortable or difficult encounter, not necessarily the people he least wanted to meet.",
+      "replacement": "They were an awkward group to run into, especially now, when his simple-minded subordinate had killed someone in the middle of a main road.",
+      "severity": "minor",
+      "source": "Korean line 81"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The Murim was full of masters far above his level. To know this much about a man like Blood Cudgel suggested an intelligence network woven as tightly as a spiderweb.",
+      "defect": "“Suggested” weakens the source’s explicit statement that this degree of knowledge was evidence of a densely woven intelligence network.",
+      "id": "F03",
+      "rationale": "The Korean says this knowledge “was evidence” (증거였다), rather than merely suggesting the network’s existence.",
+      "replacement": "The Murim was full of masters far above his level. To know this much about a man like Blood Cudgel was proof of an intelligence network woven as tightly as a spiderweb.",
+      "severity": "minor",
+      "source": "Korean line 203"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He was displeased that this had happened, and he was not particularly impressed by the attitude of the Black Dragon Demon Gate’s Young Sect Leader, whose reputation he had already heard.",
+      "defect": "The assembled copy omits the detail that Jung Ho, though a martial monk, had spent many years at Shaolin following the Buddhist path. The accepted baseline preserved it.",
+      "id": "F04",
+      "rationale": "The source explicitly gives Jung Ho’s long Buddhist practice as context before describing his displeasure; the detail is absent from the assembled copy.",
+      "replacement": "Though he was a martial monk, he had spent many years at Shaolin walking the path of a Buddhist. He was displeased that this had happened, and he was not particularly impressed by the attitude of the Black Dragon Demon Gate’s Young Sect Leader, whose reputation he had already heard.",
+      "severity": "minor",
+      "source": "Korean line 267"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it adds a spatial detail, slightly intensifies one reaction, weakens a stated inference, and omits a source detail preserved in the accepted baseline.",
+  "version": 1
+}

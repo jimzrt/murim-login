@@ -18,7 +18,7 @@ Not a breath of wind stirred on that clear spring day, but the monks’ swift mo
 
 “Xixia is in sight.”
 
-There were twenty Shaolin monks. At the words of the martial monk leading them, a middle-aged monk nodded.
+At the words of the martial monk leading the group of twenty, a middle-aged monk nodded.
 
 “Good. We won’t be late.”
 
@@ -46,7 +46,7 @@ The middle-aged monk spoke with utmost respect. Beneath the hat, tightly pressed
 
 The voice was so hoarse that there was no guessing the speaker’s age. Grief and pity flickered across every face, including the middle-aged monk’s.
 
-“Thank you for granting permission, Martial… Uncle.”
+“Thank you, Martial… Uncle.”
 
 That form of address still felt unfamiliar. The middle-aged monk turned, and the others resumed walking toward Xixia.
 
@@ -102,7 +102,7 @@ The young martial artist turned with a faint smile. Facing the stern middle-aged
 
 “An honor to meet Shaolin’s esteemed monks. I didn’t expect to meet Master Jung Ho quite so soon.”
 
-The middle-aged monk, Jung Ho, twitched his thick eyebrows.
+The middle-aged monk’s thick eyebrows twitched.
 
 “You know me? I don’t believe we’ve met.”
 
@@ -124,7 +124,7 @@ The young martial artist glanced at the Zen staff in Jung Ho’s hand.
 
 “I’m glad you’re the man I thought you were. This would have been rather embarrassing otherwise.”
 
-Jung Ho regarded the young martial artist with a grave gaze, then spoke abruptly.
+Jung Ho studied him with a grave gaze.
 
 “That is fortunate. As I listen to you, a few things occur to me as well.”
 
@@ -140,9 +140,9 @@ The young martial artist smiled and bowed his head.
 
 A murmur passed through the monks behind Jung Ho.
 
-The sobriquet Black Dragon Saber was that widely known. And as the Young Sect Leader of the Black Dragon Demon Gate, a force counted among the three strongest unorthodox factions, Sama Pyo possessed an impressive background as well.
+The sobriquet Black Dragon Saber was widely known. As Young Sect Leader of a force counted among the three strongest in the unorthodox faction, Sama Pyo had a formidable background too.
 
-But none of them saw the sneer that brushed across Sama Pyo’s lips as he lowered his head.
+But none of them saw the sneer that crossed his lips while his head was bowed.
 
 When Sama Pyo looked up, he was smiling broadly.
 
@@ -158,19 +158,19 @@ Sama Pyo rubbed his stubbled chin.
 
 “Well, that’s a long story.”
 
-“There is no need to worry. There is a faster way.”
+“No need to tell it. There’s a faster way.”
 
 *Clatter.*
 
 At Jung Ho’s signal, a lean martial monk stepped forward and examined the body.
 
-Before joining Shaolin, he had traveled as a wandering martial artist and accumulated a wealth of experience. It did not take him long to identify the corpse.
+Before entering Shaolin, he had worked as a wandering martial artist and seen much of the world. It took him little time to recognize the dead man.
 
 “It’s Blood Cudgel.”
 
 “Blood Cudgel Do Sangho? Are you certain?”
 
-“Yes. His head was crushed, but I am certain.”
+“Yes. His head is crushed, but I’m certain.”
 
 “Blood Cudgel. Blood Cudgel…”
 
@@ -194,7 +194,7 @@ Blood Cudgel’s crime wasn’t what troubled him. What troubled him was the int
 
 *Is this the Murim Alliance’s reach, or Shaolin’s strength?*
 
-Blood Cudgel Do Sangho was a fairly well-known wandering martial artist, but that was because his methods were cruel and he went around boasting about himself.
+Blood Cudgel Do Sangho was fairly well known, but only because he was brutal and liked to talk about himself.
 
 The Murim was full of masters far above his level. To know this much about a man like Blood Cudgel suggested an intelligence network woven as tightly as a spiderweb.
 
@@ -210,13 +210,13 @@ Sama Pyo gave nothing away.
 
 Jung Ho’s gaze darkened.
 
-“You were not unaware of that fact.”
+“You didn’t know that, did you?”
 
 “The outcome was good. Doesn’t that settle it?”
 
 “How you reach an outcome matters just as much. Whatever you say, killing a man on a busy main road was unwise.”
 
-“It was a dangerous situation. He had to be killed before he killed me. Ah, of course, that was not my intention either.”
+“It was dangerous. He had to die before he killed me. Ah, but that wasn’t my decision, of course.”
 
 Sama Pyo pointed to the eight-foot-tall giant beside him.
 
@@ -258,13 +258,13 @@ Even an illiterate old villager who had never finished the Thousand Character Cl
 
 Jung Ho’s eyebrow twitched.
 
-He was displeased that this had happened, and he was not particularly impressed by the attitude of the Black Dragon Demon Gate’s Young Sect Leader, whose reputation he had already heard.
+Martial monk though he was, he had spent many years at Shaolin following the Buddhist path. He was unhappy that this had happened, and the attitude of the Black Dragon Demon Gate’s Young Sect Leader was doing little to improve his opinion.
 
 But what could he do? Sama Pyo was nodding along obediently, at least on the surface. Jung Ho could only turn away.
 
 “Then… that will be all.”
 
-“We have met by fate. Why don’t we move somewhere else for a while?”
+“Now that fate has brought us together, why don’t we go somewhere and talk?”
 
 “Amitabha. I’m afraid I must decline. There is a guest I must receive.”
 
@@ -276,13 +276,13 @@ Jung Ho looked anything but regretful. He was about to turn when—
 
 “You don’t appear to use a sword.”
 
-The voice was hoarse, like metal scraping against metal. Someone wearing a conical hat pulled low over their face continued.
+The voice was hoarse as scraping metal. The person beneath the low-pulled conical hat continued.
 
 “That sword doesn’t seem to belong with you. Return it to its owner.”
 
 “Ah, this?”
 
-Sama Pyo smiled faintly as he looked at the sword in his hand.
+Sama Pyo smiled down at the sword in his hand.
 
 “It’s mine.”
 
@@ -292,7 +292,7 @@ Sama Pyo smiled faintly as he looked at the sword in his hand.
 
 “That has nothing to do with this.”
 
-The smile at the corner of Sama Pyo’s mouth faded.
+Sama Pyo’s smile began to fade.
 
 Then someone shouted from far away.
 
