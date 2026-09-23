@@ -1,6 +1,6 @@
 # So Gyo (소교)
 
-- **Safe through:** Chapter 901
+- **Safe through:** Chapter 902
 - **Aliases:** None
 - **Role:** A palace attendant assigned to Prince Shangshan who is a Supreme Peak master and has a mission to keep Jin Taekyung alive; her identity and allegiance remain unconfirmed.
 - **Personality:** Calm, calculating, and self-possessed; she conceals her strength and identity and can be openly taunting.
