@@ -1339,3 +1339,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 도플갱어 | enemy | you; the Doppelganger | blunt and informal | Jin directly challenges the Doppelganger and demands to know what it wants. |
 | 선지자 | 아미르 | religious leader to subordinate | Amir | authoritative | The Prophet addresses Amir by name and orders him to hold back Jin and the other heretics. |
 | 아미르 | 선지자 | devotee to religious leader | Prophet | formal and deferential | Amir kneels and addresses the Prophet with reverence. |
+| 야흐야 무함마드 아흐마드 베두인 | 진태경 | fanatic commander to enemy Hunter | Jin Taekyung | formal, condemnatory | Calls Jin the king of wicked heretics and later a demon. |
+| 진태경 | 야흐야 무함마드 아흐마드 베두인 | enemy Hunter to fanatic commander | sir; you | casual, mocking | Uses “sir” in a sarcastic remark and otherwise addresses him informally. |

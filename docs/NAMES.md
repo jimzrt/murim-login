@@ -2330,3 +2330,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 최후의 심연 | **The Final Abyss** | The Doppelganger’s title. |
 | 이노우에 히로시 | **Hiroshi Inoue** | A J1 Hunter whose appearance and memories the Doppelganger has taken. |
 | 쟝 피에르 | **Jean Pierre** | French Hunter whose absorbed memories identify him as Jean the Swift. |
+| 야흐야 | **Yahya** | First element of the commander’s name. |
+| 아흐마드 | **Ahmad** | Third element of the commander’s name. |
+| 베두인 | **Bedouin** | Final element of the commander’s name. |
