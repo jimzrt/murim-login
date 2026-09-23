@@ -1,6 +1,6 @@
 # Michael (미카엘)
 
-- **Safe through:** Chapter 735
+- **Safe through:** Chapter 736
 - **Aliases:** None
 - **Role:** Michael is the Guild Master of Odin Guild and one of the world's most powerful absolute authorities.
 - **Personality:** Controlled, calculating, condescending, and confident in his intelligence and ability to manipulate events.
