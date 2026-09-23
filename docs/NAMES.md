@@ -2325,3 +2325,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 만티코어 로드 | **Manticore Lord** | S-rank monster commander. |
 | 만티코아 로드 | **Manticore Lord** | S-rank monster commander; source spelling variant of Manticore. |
 | 데스 나이트 군단장 | **Death Knight Legion Commander** | Monster commander fighting the Skeleton King. |
+| 도플갱어 | **Doppelganger** | The Prophet’s revealed species. |
+| 진실의 눈 | **Truthful Eye** | Single-target item Jin uses to reveal The Prophet’s identity. |
+| 최후의 심연 | **The Final Abyss** | The Doppelganger’s title. |

@@ -1,0 +1,95 @@
+{
+  "chapter": 813,
+  "files": {
+    "characters/Divine Physician.md": "aebdbadbe1ecaebbc3f364493d6a52ad11588ce508be0a463bc694d7ac0f90bf",
+    "characters/Jin Taekyung.md": "a2b83c3e2986a913c3a68cfdd29362f52d6d62294360c1032ccecda2732682f4",
+    "characters/Jintae.md": "46e905c12d13364a74f999edd348166128f32a2ce53d6ede089a8ffb2b961b8e",
+    "characters/Michael.md": "7995ae2b48828d9af87ff5ca88bcaf6ce2b84426d01fda48bd300e6cad421f80",
+    "characters/The Prophet.md": "aa39ffa04fe4d19e5cc53cb8203d994c758cd1b7e7450e881abb393522d7cf7e",
+    "characters/Yamamoto.md": "78e9633fb316cfb5c1c42d22595b09f254579075ac28ece5e54952500b423c6c",
+    "docs/CONTEXT.json": "cc394e5d9093896a869041e9896dd25eea3f9e86b51270dede67f57d9f63769b",
+    "docs/NAMES.md": "d35561e9eeda408d2d3d95f408c0701d3a519a2572131960be203de4940f932c",
+    "docs/STATE.md": "2586bb0ceef4b3e29fcc5762692c6d71eff7c84384909d2ab472e2062d559b27",
+    "summaries/beats/0813.md": "dc8859e5f8f2deb01af5364893db05d7dafdfa9e23174a66d6e742a8a1146bee"
+  },
+  "update": {
+    "address_pairs": [],
+    "beat": {
+      "continuity": [
+        "The Prophet is a Level 170 Doppelganger called “The Final Abyss.” It has devoured countless lives and concealed itself for more than thirty years, including under the name Muninn.",
+        "The Doppelganger says it met Michael Silbert on December 25, 2020, during the Battle of Paris. Michael agreed to serve it and personally killed the remaining humans in exchange for being spared.",
+        "Jin applied the single-target Truthful Eye to The Prophet, revealing its identity. The Prophet remains alive, pinned to the cliff and gravely injured; a tremor interrupts the confrontation.",
+        "The Doppelganger has not revealed why it wanted to live among humans. The source of the tremor is unknown."
+      ],
+      "plot": [
+        "Jin uses the Truthful Eye on The Prophet and discovers he is a Level 170 Doppelganger titled “The Final Abyss.” The creature reveals that it met Michael Silbert during the 2020 Battle of Paris, made a pact with him, and had him kill the surviving humans in exchange for his own survival. When Jin asks why the Doppelganger wanted to live among humans, a distant tremor interrupts."
+      ],
+      "translation_decisions": [
+        "Render 도플갱어 as “Doppelganger,” 진실의 눈 as “Truthful Eye,” and 최후의 심연 as “The Final Abyss.”"
+      ]
+    },
+    "chapter": 813,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and pursues Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet is a Level 170 Doppelganger titled “The Final Abyss”; it has devoured countless lives and concealed itself for more than thirty years, including under the name Muninn.",
+        "The Doppelganger says it met Michael Silbert during the 2020 Battle of Paris, made a pact with him, and had him kill the remaining humans in exchange for sparing him.",
+        "Jin used the single-target Truthful Eye on The Prophet, revealing its identity. The item has been used.",
+        "The Prophet is alive and pinned to the cliff after Jin, Magic Johnson, and the Skeleton King attacked it; a distant tremor interrupts them.",
+        "Magic Johnson says he helped Jin because they are friends; whether Johnson is human remains uncertain."
+      ],
+      "continuity_sources": [
+        812,
+        813
+      ],
+      "open_questions": [
+        "Why did the Doppelganger want to live among humans?",
+        "What is causing the tremor in the canyon?",
+        "Is Magic Johnson human?"
+      ],
+      "safe_through": 813,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Keep the Demon Realm language distinct from other languages."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Doppelganger",
+        "korean": "도플갱어",
+        "notes": "The Prophet’s revealed species."
+      },
+      {
+        "english": "Truthful Eye",
+        "korean": "진실의 눈",
+        "notes": "Single-target item Jin uses to reveal The Prophet’s identity."
+      },
+      {
+        "english": "The Final Abyss",
+        "korean": "최후의 심연",
+        "notes": "The Doppelganger’s title."
+      },
+      {
+        "english": "Battle of Paris",
+        "korean": "파리 대전투",
+        "notes": "The 2020 battle during which the Doppelganger met Michael Silbert."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** The Prophet is a monster revealed as Yamamoto Genji, who Jin concludes has been the same Muninn for more than thirty years and taught Michael Silbert to use magical power.",
+        "path": "characters/The Prophet.md",
+        "replacement": "- **Role:** The Prophet is a Level 170 Doppelganger titled “The Final Abyss,” who concealed itself for decades as Muninn."
+      },
+      {
+        "current": "- **Relationships:** The Prophet commands the ten warriors, is revered by the followers, and secretly communicates with Michael Silbert through a magic mirror.",
+        "path": "characters/The Prophet.md",
+        "replacement": "- **Relationships:** The Prophet commands the ten warriors and is revered by its followers; it made a pact with Michael Silbert during the 2020 Battle of Paris, where Michael killed the surviving humans in exchange for being spared."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

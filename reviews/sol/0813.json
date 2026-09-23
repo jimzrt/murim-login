@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "My very first strike had gone straight for the area around his heart.",
+      "defect": "“Gone straight for” describes the strike’s aim, not its successful penetration.",
+      "id": "F01",
+      "rationale": "파고들었다 says the blow drove into the area around his heart.",
+      "replacement": "My very first strike had pierced the area around his heart.",
+      "severity": "critical",
+      "source": "가장 처음의 일격은 심장 어림을 정확히 파고들었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **Type:** Consumable Item",
+      "defect": "“Consumable” does not convey that the item can be used only once.",
+      "id": "F02",
+      "rationale": "일회용 explicitly specifies one use.",
+      "replacement": "> **Type:** Single-Use Item",
+      "severity": "major",
+      "source": "종류 : 일회용 아이템"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“What the hell are you?”",
+      "defect": "The insult is softened, blunting Jin’s hostile address.",
+      "id": "F03",
+      "rationale": "새끼 is a forceful insult directed at the person he is confronting.",
+      "replacement": "“What the fuck are you?”",
+      "severity": "major",
+      "source": "“너, 뭐 하는 새끼냐?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The Grand Mage, who had weathered the Great Cataclysm with his whole body, couldn’t hold back a groan.",
+      "defect": "“Weathered ... with his whole body” is an unnatural literal rendering.",
+      "id": "F04",
+      "rationale": "온몸으로 헤쳐나온 emphasizes that he endured the catastrophe himself.",
+      "replacement": "The Grand Mage, who had lived through the Great Cataclysm firsthand, couldn’t hold back a groan.",
+      "severity": "minor",
+      "source": "대격변이라는 파도를 온몸으로 헤쳐나온 대마도사는 참지 못하고 신음을 흘렸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Unlike the other humans, he was quick to calculate.",
+      "defect": "“Quick to calculate” sounds like doing arithmetic rather than rapidly assessing his situation.",
+      "id": "F05",
+      "rationale": "계산이 빨랐어 describes Michael’s fast, self-interested judgment before he surrendered.",
+      "replacement": "Unlike the other humans, he was quick to size up the situation.",
+      "severity": "minor",
+      "source": "다른 인간들과는 달리 녀석은 계산이 빨랐어."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes whether the first strike landed and loses the item’s single-use limit. Several lines also soften or obscure the source.",
+  "version": 1
+}
