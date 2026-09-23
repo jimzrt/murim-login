@@ -1,0 +1,106 @@
+{
+  "chapter": 862,
+  "files": {
+    "characters/Baek Yeon.md": "b4cdb4267297cfff6a714d674cf6e78b24b04981f0c4bd7c1f3e158f1c64cd50",
+    "characters/Hong Jin.md": "6d46513ab0594122f93749e95680fb94db8b0156e5b8d8dd45cd50eb1d5fe56a",
+    "characters/Hyuk Mujin.md": "64ec0062c78ae4b4a5e2be771be236ef1899d027fb5242d9b2044fd43e32a5d1",
+    "characters/Jeong Hogun.md": "c0394aaae4ab9aabc0c235879e5119bb3c96b0d15993cb8fca1ff8cfa5b0a257",
+    "characters/Jin Taekyung.md": "bfd584b311b97cca66093ccedb184d2a09fb2817db07c2916033a9ad274187fe",
+    "characters/Jintae.md": "615d8e2f62ab41bc790b46e360cb02b313068109d6e45489aa6642aa3f3950ee",
+    "characters/Jung Ho.md": "f4289f5659ee79c4d0bbf2fe06cd03ce0fefd0d1e6ff0d22446b859e55487e4c",
+    "characters/Prince Shangshan.md": "5a139ff9104eaff0255350ce5503ac373f839ff6d5e90c91d736a384e31c3286",
+    "docs/ADDRESS.md": "c84c0036653f27312308f679e291f60453cb7f3f78592361a78728641c5a2187",
+    "docs/CONTEXT.json": "10ff3aae46a688b3f1b22f37151448da89c8285aa978df0dfa16d271ede5bd15",
+    "docs/NAMES.md": "4c101b31c65ea71d45efd4357ef39f4e35dc7c82b77dbe6d7cdd92374a1106dc",
+    "docs/STATE.md": "757fa78c844110dd7de31aa40779da2894dda6e7d764db9a819e11ae70c58532",
+    "summaries/beats/0862.md": "bf2f45bca33968549bcefebc7a9f215618bb87dc6d9876bfac4cba1baba47878"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "홍진",
+        "kinship": "former East Depot associates",
+        "normal_address": "Hong Cheophyeong",
+        "notes": "The old eunuch addresses Hong Jin by his former title, 첩형.",
+        "speaker": "늙은 환관",
+        "speech_level": "casual and familiar"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Hong Jin was formerly a member of the East Depot; he and an old eunuch share a fraught history, including an absence of eleven years and nine days.",
+        "Baek Yeon commands the Embroidered Uniform Guard and is trusted by the Emperor; his arrival raises the stakes of the confrontation at the palace entrance.",
+        "Prince Shangshan asks Taekyung for candid advice as a royal command and appears more mature than when they last met."
+      ],
+      "plot": [
+        "Hong Jin reveals that he was part of the East Depot, and an old eunuch confronts him over bringing outsiders into the palace. When a Guard draws his sword, Taekyung stops him and urges everyone not to escalate. Baek Yeon, Commander of the Embroidered Uniform Guard, arrives and seeks to end the confrontation under the Emperor’s authority. Prince Shangshan asks Taekyung what he would do in his place; Taekyung answers that he would have beaten them all."
+      ],
+      "translation_decisions": [
+        "Continue rendering 동창 as “East Depot” and 금의위 as “Embroidered Uniform Guard.”",
+        "Render 금의위 지휘사 as “Commander of the Embroidered Uniform Guard.”"
+      ]
+    },
+    "chapter": 862,
+    "context": {
+      "active_continuity": [
+        "Prince Shangshan and his party are at the imperial palace, where Hong Jin’s party has encountered the East Depot and Embroidered Uniform Guard.",
+        "Hong Jin was formerly in the East Depot and shares an unresolved history with an old eunuch; he has been away for eleven years and nine days.",
+        "Baek Yeon commands the Embroidered Uniform Guard and asserts the Emperor’s authority at the palace entrance.",
+        "Prince Shangshan has asked Taekyung for candid advice on how to handle the confrontation."
+      ],
+      "continuity_sources": [
+        861,
+        862
+      ],
+      "open_questions": [
+        "What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?",
+        "What does the Emperor intend for Prince Shangshan?",
+        "How will Prince Shangshan respond to Taekyung’s advice?"
+      ],
+      "safe_through": 862,
+      "temporary_decisions": [
+        "Render 동창 as “East Depot.”",
+        "Render 금의위 as “Embroidered Uniform Guard” and 금위군 as “Imperial Guards.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Baek Yeon",
+        "korean": "백연",
+        "notes": "Commander of the Embroidered Uniform Guard."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [],
+        "english": "Baek Yeon",
+        "filename": "Baek Yeon.md",
+        "korean": "백연",
+        "personality": "Politically assured, he asserts imperial authority while presenting his demand to end a confrontation as formal deference.",
+        "relationships": "He commands the Embroidered Uniform Guard and serves the Emperor; his relationship with Prince Shangshan is marked by conspicuous lack of deference.",
+        "role": "Baek Yeon is the Commander of the Embroidered Uniform Guard and a military officer trusted by the Emperor.",
+        "voice": "Not established"
+      }
+    ],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Hong Jin is a Level 22 Deputy Military Commissioner of Shanxi Province, a eunuch and trusted aide charged with protecting Prince Shangshan, whose abilities drew the late Emperor’s attention.",
+        "path": "characters/Hong Jin.md",
+        "replacement": "- **Role:** Hong Jin is a Level 22 Deputy Military Commissioner of Shanxi Province, a eunuch and trusted aide to Prince Shangshan, and a former member of the East Depot."
+      },
+      {
+        "current": "- **Relationships:** Hong Jin is devoted to Prince Shangshan, whom the late Emperor entrusted to his care, and trusts Jin Taekyung as the person best able to keep the prince safe.",
+        "path": "characters/Hong Jin.md",
+        "replacement": "- **Relationships:** Hong Jin is devoted to Prince Shangshan, whom the late Emperor entrusted to his care, trusts Jin Taekyung to keep the prince safe, and has unresolved ties to former East Depot associates."
+      },
+      {
+        "current": "- **Personality:** Earnest, compassionate, and eager to emulate Jin Taekyung; he takes responsibility for his loyal subjects’ hardship, though his trust in his elder brother shows his youth.",
+        "path": "characters/Prince Shangshan.md",
+        "replacement": "- **Personality:** Earnest and compassionate, he takes responsibility for his loyal subjects’ hardship, admires Jin Taekyung, and seeks candid counsel when making difficult decisions."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
