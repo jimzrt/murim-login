@@ -4,7 +4,7 @@ Whoooosh.
 
 Red mist rose with his exhaled breath.
 
-It was a long, slow breath—so long and slow that one might mistake him for not breathing at all. It was also a secret technique he had learned from his Master long ago.
+He breathed so slowly, so deeply, that he might have been mistaken for someone who did not breathe at all. It was a secret technique his Master had taught him long ago.
 
 “I’ve been watching you all this time.”
 
@@ -38,7 +38,7 @@ He did not even know who had originally owned this cheap necklace. Yet it had be
 
 *Are you watching, Master?*
 
-Go Jun clenched his fist. Red qi shimmered like heat haze over the skin stretched taut across his prominent veins.
+Go Jun clenched his fist. Red energy shimmered like heat haze over the skin stretched across his prominent veins.
 
 Only two months ago, Jin Taekyung had trampled him mercilessly. But things were different now.
 
@@ -54,19 +54,19 @@ At that very moment, the black jewel set into the necklace gave off a strange li
 
 A tremendous vibration shook the space.
 
-This was a place where anyone who had not been granted permission could not even become aware of its existence. Now, at last, it had allowed someone to intrude.
+The meaning was obvious. No one without permission should even have been able to sense this place existed. Now, at last, someone had forced their way in.
 
-Countless spells and barriers that had never once been broken since their creation were collapsing even now.
+Countless spells and barriers that had never been broken since their creation were collapsing.
 
 “He’s here.”
 
-Go Jun muttered quietly, released his cross-legged position, and slowly rose to his feet. Top-grade magic armor surged up around his body, wrapping around him according to his will.
+Go Jun quietly uncrossed his legs and rose. At his will, top-grade magic armor surged up and wrapped around his body.
 
 *Clatter-clatter-clatter!*
 
 The transformation began and ended in an instant.
 
-By the time Go Jun stood firmly on both feet in blackened full-body armor, blue-white flames were flickering like will-o’-the-wisps at the end of the unlit corridor.
+By the time Go Jun stood in his blackened full-body armor, a blue-white flame flickered like a will-o’-the-wisp at the end of the unlit corridor.
 
 No. It was the glow in someone’s eyes.
 
@@ -78,7 +78,7 @@ He spat the three syllables with hatred. The man whose name he had called answer
 
 Unlike the burning glow in his eyes, his voice was cold.
 
-But Go Jun could clearly feel it—the ember hidden inside that voice. The fuse that had refused to burn while waiting for this one moment.
+But Go Jun could hear the ember hidden within it. The wick that had waited for this moment without catching fire.
 
 And then—
 
@@ -102,7 +102,7 @@ The instant the blue and red streaks met—
 
 *Whoom, KABOOM!*
 
-A blinding flash and a deafening roar that seemed to split the sky erupted, coloring the entire area.
+A blinding flash and a roar that seemed to split the sky burst out, filling the space around them.
 
 * * *
 
@@ -116,7 +116,7 @@ But…
 
 “Jin Taekyung.”
 
-The moment I saw that fucking face clearly beyond the dark corridor.
+The moment I heard the hatred in his voice, the moment I saw that fucking face beyond the dark corridor, I realized something.
 
 Composure was no shield against anger reason could not contain.
 
@@ -146,15 +146,15 @@ With that one thought, I stepped forward.
 
 *Flamefire Path.*
 
-Flames rose from the tips of my feet as I kicked off the ground and surged forward. They drove back the darkness that had conquered the corridor and illuminated the way.
+Flames rose from my feet as I kicked off the ground. They drove back the darkness filling the corridor and lit my way.
 
-At the far end, a figure was streaking across the corridor as a beam of light.
+At the far end, a figure streaked toward me like a beam of light.
 
 *Go Jun.*
 
 I could see the red glow of his eyes between his clenched teeth and the helmet pulled low over his face.
 
-The instant light flashed from the waist of the man charging toward me without hesitation, I raised White Flame’s shaft.
+Light flashed at his waist as he charged straight at me. I raised White Flame’s shaft.
 
 *Whoom, KABOOM!*
 
@@ -164,7 +164,7 @@ The collision sent a tremendous force back through my weapon. A wave of energy s
 
 Beyond our locked weapons, I saw his red eyes. Then his voice reached me.
 
-“You’re not much, are you? Don’t you think?”
+“You’re not much, are you?”
 
 “…!”
 
@@ -176,9 +176,9 @@ And that was not the only thing I had failed to anticipate.
 
 *Crunch. Crrrunch.*
 
-An unbelievable pressure traveled up White Flame’s shaft. An enormous power, large enough that it would not have been strange for it to explode at any moment, continued to flow out and wrap around the sword blade.
+Unbelievable pressure traveled up White Flame’s shaft. Power great enough to seem on the verge of bursting poured out and wrapped around his sword blade.
 
-Slowly, but without stopping, it continued to grow in size and crushed White Flame’s shaft.
+It swelled slowly, steadily, bearing down on the spear shaft.
 
 *What is this?*
 
@@ -202,7 +202,7 @@ Before I could fully feel the wind rushing past my ears, my back struck a solid 
 
 The layers of defensive Magic surrounding it scattered, and the whole wall caved in.
 
-I was embedded in the exact center of the wall, leaving behind a crater large enough for three or four people to stand inside. I blinked.
+I was embedded in its center, in a crater big enough to hold three or four people. I blinked.
 
 My vision trembled from the impact to my head. Through it, I saw Go Jun charging at me with his teeth bared.
 
@@ -212,7 +212,7 @@ My vision trembled from the impact to my head. Through it, I saw Go Jun charging
 
 He moved faster than he spoke. His sword cut diagonally down through the air, sending out a burst of red light.
 
-Then, in the next instant, a crescent-shaped Aura Blade that had crossed dozens of meters came rushing right up to my face.
+An instant later, the crescent-shaped Aura Blade had crossed dozens of meters and reached my face.
 
 *Slice! KRAAAAAASH!*
 
@@ -242,19 +242,19 @@ I watched him approach, his voice almost cheerful. Then a thought struck me.
 
 “What?”
 
-“No, wait. In this case, should I call it a Magic Gem instead of drugs?”
+“No, wait. In this case, should I say a Magic Gem instead of drugs?”
 
 “…!”
 
-At that moment, the smile on Go Jun’s lips faded.
+The smile on Go Jun’s lips faded.
 
 I no longer needed an answer. His face had given me one.
 
 “Hah.”
 
-I let out a small, hollow laugh.
+I let out a hollow laugh.
 
-The rage that had paralyzed my mind and body for a moment began to fade, and only then was I finally able to see the cold reality in front of me.
+The rage that had briefly paralyzed my mind and body ebbed, and I could finally see the situation clearly.
 
 “Of course. That’s how you did it.”
 
@@ -268,7 +268,7 @@ No one became this strong in only two months.
 
 There had only ever been one answer.
 
-“You juiced up. You really did. You fucking idiot.”
+“You took one. You really did, you fucking idiot.”
 
 I couldn’t hold back my laughter.
 
@@ -300,7 +300,7 @@ I cracked my stiff neck from side to side and stared at him.
 
 A gale rose with a tremendous wave of energy and swept through the area.
 
-But I calmly answered as I watched that unprecedented power swell until it looked ready to burst.
+I watched his power swell as if it were about to burst and answered calmly.
 
 “What, you fucking idiot?”
 
@@ -320,7 +320,7 @@ I bit out the words with all my heart. Go Jun’s blood-red figure blurred.
 
 The red Aura Blade stopped above my head.
 
-The tremendous pressure transmitted through White Flame’s spearhead made my wrists throb, and my ankles sank deep into the ground.
+The tremendous pressure coming through White Flame’s spear blade made my wrists throb, and my ankles sank deep into the ground.
 
 But I did not give way. At least the power I wielded had been built through countless hours of training and insight, with the good fortune of the System added on top.
 
@@ -328,6 +328,6 @@ But I did not give way. At least the power I wielded had been built through coun
 
 *Rrrrmmble!*
 
-I grinned as I looked into Go Jun’s wide-open eyes, then thrust my fist forward with all my strength.
+I grinned into Go Jun’s wide eyes and drove my fist forward with all my strength.
 
 *Wham!*

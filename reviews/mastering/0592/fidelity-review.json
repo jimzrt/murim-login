@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "Did you take something?",
+      "defect": "This makes the question vague, while the Korean directly accuses him of taking drugs. The following Magic Gem line works as a correction from “drugs” to the actual substance.",
+      "id": "F02",
+      "rationale": "약 빨았냐? is a blunt, colloquial accusation of drug use, not a nonspecific question about taking something.",
+      "replacement": "Did you take drugs?",
+      "severity": "minor",
+      "source": "Line 251"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but one emotional trigger is omitted and one accusation is softened.",
+  "version": 1
+}

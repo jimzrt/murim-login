@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, but one emotional trigger is omitted and one accusation is softened.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Lines 135–137",
+      "current": "The moment I saw that fucking face clearly beyond the dark corridor. Composure was no shield against anger reason could not contain.",
+      "defect": "The Korean names two triggers: hearing the hatred in Go Jun’s voice and seeing his face. The first is missing, weakening the cause of the narrator’s sudden anger.",
+      "replacement": "The moment I heard the hatred in his voice. The moment I saw that fucking face clearly beyond the dark corridor, I realized composure was no shield against anger reason could not contain.",
+      "rationale": "The source says the narrator realizes this upon hearing the hateful voice and then seeing the face; the assembled English preserves only the second trigger.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 251",
+      "current": "Did you take something?",
+      "defect": "This makes the question vague, while the Korean directly accuses him of taking drugs. The following Magic Gem line works as a correction from “drugs” to the actual substance.",
+      "replacement": "Did you take drugs?",
+      "rationale": "약 빨았냐? is a blunt, colloquial accusation of drug use, not a nonspecific question about taking something.",
+      "confidence": 0.93
+    }
+  ]
+}
