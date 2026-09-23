@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.9,
+      "current": "How much sincerity had been in the back of him as he left, with anger and bitterness hanging over him?",
+      "defect": "“Sincerity had been in the back of him” is an unnatural English collocation that obscures what So Gyo is trying to read from his departure.",
+      "id": "C01",
+      "rationale": "Keeps her focus on his retreating figure and her uncertainty about his sincerity while making the thought readable.",
+      "replacement": "How much of his sincerity had shown in his retreating back, beneath all that anger and bitterness?",
+      "severity": "minor",
+      "source": "Chapter 889, So Gyo watching Taekyung leave"
+    }
+  ],
+  "summary": "The reading copies, summary, and active state are broadly consistent. One awkward sentence in Chapter 889 disrupts an otherwise clear shift to So Gyo’s viewpoint.",
+  "version": 1
+}

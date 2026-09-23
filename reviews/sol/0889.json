@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You know what I mean.”\n\n“Of course. But before we wipe them all out in one place, we should go after Jin Taekyung right now—”",
+      "defect": "The draft removes a turn and assigns Baek Yeon’s proposal to So Gyo, reversing who argues for acting against Jin immediately.",
+      "id": "F01",
+      "rationale": "Baek confirms his question, So Gyo says he already has an idea, and Baek then proposes targeting Jin.",
+      "replacement": "“That’s right.”\n\n“You must have guessed already.”\n\n“Of course I have. But before we wipe them all out in one place, we should go after Jin Taekyung right now—”",
+      "severity": "critical",
+      "source": "“그렇소.”\n\n“당신도 이미 짐작하고 있을 텐데?”\n\n“물론이오. 그러나 놈들을 한자리에서 일망타진(一網打盡)하는 것보다 먼저 지금 당장 진태경부터…….”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*From here, east-northeast.*",
+      "defect": "East-northeast changes the stated direction; the source says east-west.",
+      "id": "F02",
+      "rationale": "동서쪽 specifies east-west, not northeast.",
+      "replacement": "*From here, along the east-west axis.*",
+      "severity": "critical",
+      "source": "‘여기서 동서쪽.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Embroidered Uniform Guard soldiers grumbled as they gazed up at the sky from beneath the eaves.",
+      "defect": "The draft identifies these soldiers as members of the Embroidered Uniform Guard, but the source calls them imperial guards, distinguishing them from the 금의위 stationed earlier.",
+      "id": "F03",
+      "rationale": "금위군 and 금의위 are different designations in this passage.",
+      "replacement": "The imperial guards grumbled as they gazed up at the sky from beneath the eaves.",
+      "severity": "critical",
+      "source": "처마 밑에서 하늘을 바라보며 투덜거리던 금위군들은 꿈에도 몰랐을 것이다."
+    },
+    {
+      "confidence": 0.86,
+      "current": "“They won’t. And there’s no way they’ll be in a position to. You heard everything yourself, so you know that.”",
+      "defect": "The draft turns Jin’s assessment of the situation into a claim that the watchers cannot catch him.",
+      "id": "F04",
+      "rationale": "그럴 상황도 아니고 refers to the circumstances, which the following exchange explains through the enemy’s plan; it does not say the watchers are unable to act.",
+      "replacement": "“They won’t. Not in this situation. You were there and heard it too, so you know.”",
+      "severity": "major",
+      "source": "“그럴 일 없어. 그럴 상황도 아니고. 너도 옆에서 들었으니까 알잖아.”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "As an enormous, unseen force shook the air, two objects buried deep in the ground shot up into So Gyo’s hands.",
+      "defect": "Calling the 기운 an unspecified force loses the Murim qi mechanism of So Gyo’s action.",
+      "id": "F05",
+      "rationale": "The source names 기운 rather than an unspecified external force.",
+      "replacement": "As an enormous, unseen surge of qi shook the air, two objects buried deep in the ground shot up into So Gyo’s hands.",
+      "severity": "major",
+      "source": "보이지 않는 거대한 기운이 공기를 뒤흔듦과 동시에, 땅 깊숙이 박혀 있던 두 개의 물체가 솟구치듯 소교의 양손에 잡혔다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Their edges curved gently toward the tips.",
+      "defect": "The draft makes the edges specifically curved, while the source describes the objects’ overall curve toward their tips.",
+      "id": "F06",
+      "rationale": "곡선 describes their curved shape without specifying an edge.",
+      "replacement": "Each also curved gently toward its tip.",
+      "severity": "minor",
+      "source": "거기에 더해 끝으로 갈수록 부드럽게 휘어진 곡선까지."
+    }
+  ],
+  "summary": "The draft has a misassigned dialogue exchange, an altered direction, and a guard-unit mix-up, along with smaller losses of meaning.",
+  "version": 1
+}
