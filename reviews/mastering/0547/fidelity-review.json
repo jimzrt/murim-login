@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.86,
+      "current": "Outer Hall Squad Leader charged with defending one region.",
+      "defect": "The source calls Hwangbo Gun an Outer Hall danju (團主), not a squad leader. “Squad Leader” renders a different, more specific unit rank; the source only establishes that he heads an Outer Hall unit.",
+      "id": "F01",
+      "rationale": "The source uses 단주 here, while it uses 분대장 for “squad leader” in the military analogy.",
+      "replacement": "Outer Hall unit chief, responsible for defending one region.",
+      "severity": "minor",
+      "source": "Lines 123–125"
+    },
+    {
+      "confidence": 0.82,
+      "current": "a divine artifact at home that you guard like an ancestral shrine.",
+      "defect": "The Korean image is of keeping a sacred object enshrined like a household deity’s shrine jar. “Guard like an ancestral shrine” changes that specific image.",
+      "id": "F02",
+      "rationale": "신줏단지처럼 모셔 둔 evokes reverently enshrining an object like a household deity’s sacred jar, rather than guarding it like an ancestral shrine.",
+      "replacement": "a divine artifact at home that you keep enshrined like a household god.",
+      "severity": "minor",
+      "source": "Line 301"
+    },
+    {
+      "confidence": 0.91,
+      "current": "as though warning him this was no time to sit still.",
+      "defect": "“To sit still” adds an implied action that the Korean does not specify. The source leaves “this isn’t the time” open-ended.",
+      "id": "F03",
+      "rationale": "The source says 마치 이럴 때가 아니라고 경고하는 것처럼—“as if warning him that this was no time”—without specifying what he should not do.",
+      "replacement": "as though warning him that now was not the time.",
+      "severity": "minor",
+      "source": "Line 313"
+    },
+    {
+      "confidence": 0.84,
+      "current": "*It was more like a prophecy.*",
+      "defect": "“More like” weakens the source’s emphatic self-correction, and the current line omits its deliberate repetition of “prophecy.”",
+      "id": "F04",
+      "rationale": "The Korean repeats 예언—first as the corrected thought, then in 예언과도 같았지—to emphasize that the warning felt like a prophecy.",
+      "replacement": "*A prophecy. It was like a prophecy.*",
+      "severity": "minor",
+      "source": "Lines 319–321"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but a few details shift the source’s rank terminology, ritual image, or implication.",
+  "version": 1
+}

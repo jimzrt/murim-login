@@ -38,7 +38,7 @@ Hwangbo Gun’s face twisted as he watched us.
 
 “Do you not understand what kind of gathering this is?”
 
-“Is there anyone here who didn’t know?”
+“Does anyone here not understand?”
 
 “And yet you speak so crudely in front of these esteemed Seniors!”
 
@@ -46,7 +46,7 @@ Hwangbo Gun’s face twisted as he watched us.
 
 At my sudden question, Mae Jonghak nodded.
 
-“Fire Dragon Pavilion Master Jin is right. I have no problem with it. His words may be rough, but we need to face reality.”
+“Pavilion Master Jin is right. I don’t mind. His words are rough, but we must face reality.”
 
 “A-Alliance Leader!”
 
@@ -108,7 +108,7 @@ The voice was gentle, with a firmness beneath it. Jin Wikyung’s eyes had gone 
 
 “……!”
 
-“Regardless of how young the Fire Dragon Pavilion Master may be, he is the successor to Great Hero Jeok, the Fire King, and a Pavilion Master of the Murim Alliance. Even if we consider seniority within the martial world, he is certainly not beneath you, Family Head Hwangbo.”
+“The Fire Dragon Pavilion Master may be young, but he has inherited the martial legacy of Great Hero Jeok, the Fire King, and he is a Pavilion Master of the Murim Alliance. Even by the martial world’s rules of seniority, he is certainly not beneath you.”
 
 That hit the sore spot. Hwangbo Gun’s face stiffened.
 
@@ -136,7 +136,7 @@ I answered without a hint of shame.
 
 It was obvious whom he meant.
 
-Hwangbo Gun was torn between his rational judgment, which told him he needed to stop, and the last shred of pride possessed by the hegemon of Shandong and Family Head of a great family.
+Hwangbo Gun was caught between the good sense telling him to stop and the last shred of pride he had as Shandong’s hegemon and the head of his family.
 
 One remark settled his indecision.
 
@@ -170,7 +170,7 @@ Jeok Cheongang’s aura was that powerful, that overwhelming—like another sun.
 
 The mountain range called martial arts was vast and treacherous. Sometimes one had to cross a steep ravine or scale a sheer cliff.
 
-He was a great martial artist standing proudly atop the peak at the very end.
+And Jeok Cheongang stood atop the peak at its farthest end.
 
 He had become something beyond his title of Fire King. So had one other person in this room.
 
@@ -200,13 +200,13 @@ Mae Jonghak gave him a gently reproachful look, then turned to me.
 
 *Gotten dragged into it* would have been more accurate, but I nodded.
 
-This was the great conference hall of the Murim Alliance. Dealing with Hwangbo Gun and discussing matters of such importance were two entirely different things.
+This was the Murim Alliance’s great conference hall. Sparring with Hwangbo Gun was one thing; discussing what came next was another.
 
 “That’s right.”
 
 “I expect few people know Dark Heaven as well as you. I would like to hear your opinion.”
 
-“I was merely present at those incidents. Hidden Shadow Pavilion probably knows the concrete details and what is happening throughout the world better than I do. I already told you everything I knew.”
+“I was only there when those things happened. The Hidden Shadow Pavilion knows more about the concrete evidence and what’s happening across the realm. I’ve already told them everything I know.”
 
 “I want to hear what you saw and experienced yourself. What the man who went through it all truly thinks.”
 
@@ -228,11 +228,11 @@ I sorted through my thoughts and raised my head. Everyone in the hall was lookin
 
 Dozens of pairs of eyes.
 
-They were people who could save—or kill—hundreds, even thousands, of lives in a war that had already begun.
+These people could save hundreds, even thousands of lives in the war that had already begun. Or they could get them killed.
 
 How much heed they would pay to a kid barely past twenty, I couldn’t say.
 
-*It doesn’t matter. If we can win this war. If I can reduce the danger and sacrifice even a little.*
+*It doesn’t matter. If we can win this war—if I can reduce the danger and the losses even a little—*
 
 I had to do what I could. Right now.
 
@@ -286,7 +286,7 @@ The pain had returned at some point and begun tormenting him in his old age, as 
 
 And today, that young man was here too.
 
-*It was as though he knew. As though he had experienced something in advance and was predicting some truth that I and the Hidden Shadow Pavilion—no, that everyone else—knew nothing about.*
+*It was as though he knew. As though he’d already experienced something and could foresee a truth hidden from me and the Hidden Shadow Pavilion—no, from everyone else.*
 
 Foresee? No. Song Ho corrected himself.
 
@@ -328,4 +328,4 @@ Mae Jonghak rose slowly from his seat.
 
 “Summon him. It’s time to give the Fire Dragon Pavilion its first mission.”
 
-[^1]: A shichen is a traditional Chinese time unit lasting approximately two hours.
+[^1]: A shichen is a traditional time unit lasting approximately two hours.

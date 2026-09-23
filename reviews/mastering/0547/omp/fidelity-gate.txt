@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is broadly faithful, but a few details shift the source’s rank terminology, ritual image, or implication.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 123–125",
+      "current": "Outer Hall Squad Leader charged with defending one region.",
+      "defect": "The source calls Hwangbo Gun an Outer Hall danju (團主), not a squad leader. “Squad Leader” renders a different, more specific unit rank; the source only establishes that he heads an Outer Hall unit.",
+      "replacement": "Outer Hall unit chief, responsible for defending one region.",
+      "rationale": "The source uses 단주 here, while it uses 분대장 for “squad leader” in the military analogy.",
+      "confidence": 0.86
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 301",
+      "current": "a divine artifact at home that you guard like an ancestral shrine.",
+      "defect": "The Korean image is of keeping a sacred object enshrined like a household deity’s shrine jar. “Guard like an ancestral shrine” changes that specific image.",
+      "replacement": "a divine artifact at home that you keep enshrined like a household god.",
+      "rationale": "신줏단지처럼 모셔 둔 evokes reverently enshrining an object like a household deity’s sacred jar, rather than guarding it like an ancestral shrine.",
+      "confidence": 0.82
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 313",
+      "current": "as though warning him this was no time to sit still.",
+      "defect": "“To sit still” adds an implied action that the Korean does not specify. The source leaves “this isn’t the time” open-ended.",
+      "replacement": "as though warning him that now was not the time.",
+      "rationale": "The source says 마치 이럴 때가 아니라고 경고하는 것처럼—“as if warning him that this was no time”—without specifying what he should not do.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 319–321",
+      "current": "*It was more like a prophecy.*",
+      "defect": "“More like” weakens the source’s emphatic self-correction, and the current line omits its deliberate repetition of “prophecy.”",
+      "replacement": "*A prophecy. It was like a prophecy.*",
+      "rationale": "The Korean repeats 예언—first as the corrected thought, then in 예언과도 같았지—to emphasize that the warning felt like a prophecy.",
+      "confidence": 0.84
+    }
+  ]
+}
