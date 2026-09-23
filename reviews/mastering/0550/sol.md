@@ -52,13 +52,13 @@ I could barely look after myself, and now I was responsible for other people. Th
 
 “Um…”
 
-A voice abruptly slipped into my ear.
+A voice broke into my thoughts.
 
 I turned to find Cheongpung standing before the half-destroyed door, a bundle in his hands, staring at me blankly.
 
 “Benefactor, may I come in?”
 
-“Anyone listening would think you always ask permission before coming in.”
+“Anyone listening would think you always ask permission.”
 
 When the door was intact, he’d barged in without so much as a knock. Now he was asking permission in front of the wreckage. I couldn’t believe him.
 
@@ -82,7 +82,7 @@ Mungyeong strolled into the annex and glanced at the cups on the table and the c
 
 “I can tell by looking.”
 
-“I saw the others leaving. I thought I should come when no one else was here.”
+At Mungyeong’s dry answer, Cheongpung added innocently, “We saw the others leaving. I thought we should come when no one else was here.”
 
 “…”
 
@@ -132,7 +132,7 @@ Cheongpung’s eyes widened. Mungyeong thought for a moment, then murmured, “N
 
 “Yes.”
 
-“That strange phenomenon. It must be because of the rift.”
+“Because of that strange phenomenon. The rift.”
 
 “That’s right. If a second rift opens, Dark Heaven would have a hard time finding a better place for it.”
 
@@ -194,7 +194,7 @@ I studied Cheongpung, then shrugged. “I know. I was joking.”
 
 I didn’t need anyone to tell me why he’d sought out Mungyeong, or what he hoped to gain from him.
 
-*To become stronger. To change himself to fit this world.*
+*To grow stronger. To change so he can live in this world.*
 
 It had been more than a year.
 
@@ -238,7 +238,7 @@ Maybe it was because this would be the first time since I’d met Jeok Cheongang
 
 Jeok Cheongang’s arms were wide enough to shelter me, but I’d grown too quickly to stay in them. And with everything changing around us, we could no longer keep traveling together.
 
-*Could it be…?*
+*Could he…?*
 
 A thought struck me, and I glanced out the window.
 
@@ -264,7 +264,7 @@ That would have been an ordinary sight anywhere, not just in Henan—if the man 
 
 Finally.
 
-Ju Hwaran must have finished all the preparations within half a shichen, just as she had boasted, and sent a carriage that could leave Henan discreetly.
+Ju Hwaran must have finished the preparations within half a shichen, just as she’d promised, and sent the carriage that would take us discreetly out of Henan.
 
 I could already sense Hyuk Mujin coming up the stairs.
 
@@ -294,16 +294,16 @@ I’d known what was in the bundle from the smell, but I was touched all the sam
 
 I laughed quietly, took the bundle, and turned away. Then a line of Sound Transmission reached my ear.
 
-—Do you know? Everyone who has received my teachings up to now has died.
+—Do you know? Everyone I’ve taught before you has died.
 
 “…!”
 
-—So don’t die a pointless death. If you die in Nanman, all that I’ve put up with until now will have been for nothing.
+—So don’t throw your life away. If you die in Nanman, everything I’ve put up with until now will have been for nothing.
 
 What a terrifying way to show concern. But like the dumplings in my hands, his feelings had come through clearly.
 
-I stood there and gave a small nod before immediately setting off.
+I stopped and gave a small nod, then set off.
 
 *Step.*
 
-It was a powerful stride that echoed unusually loudly.
+My stride was firm, and it rang out louder than usual.
