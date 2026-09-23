@@ -2239,3 +2239,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 진주만 | **Pearl Harbor** | Location invoked in the Skeleton King's supernatural declaration. |
 | 미합중국 | **United States** | Formal Korean reference used during the Defense Minister's imperialist rant. |
 | 아틀란티스 | **Atlantis** | Jin's comparison for Tokyo after a hypothetical second Leviathan attack. |
+| 스토무-킹 | **Stomu-King** | The Japanese prime minister's recurring mispronunciation of Stone King. |

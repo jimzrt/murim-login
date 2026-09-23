@@ -1,6 +1,6 @@
 # Leviathan (레비아탄)
 
-- **Safe through:** Chapter 750
+- **Safe through:** Chapter 751
 - **Aliases:** None
 - **Role:** Leviathan is an ancient S-rank sea monster and ruler of the sea that has been severely wounded by Jin Taekyung's One Annihilation, swallowed the Magic Gem it sought, and escaped Jin's follow-up spear attack into the deep sea.
 - **Personality:** Ravenous, domineering, and driven by instinctive hunger for magical power and food.
