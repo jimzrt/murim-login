@@ -1,0 +1,136 @@
+{
+  "chapter": 754,
+  "files": {
+    "characters/Divine Physician.md": "d1bcedca37e55509fbe1e846e218fca312e5df6b625e0cb51641be2e29aa4258",
+    "characters/Jin Taekyung.md": "ccfc855f55312ec12467adaa4cf44ec3ef31256e5d5fdb0c586d556332ff0c70",
+    "characters/Jintae.md": "832c79600e4f2d026972e0f7aea18cd118bfaca4c0dbbabd6676bf07a1f59334",
+    "characters/Leviathan.md": "1ba1321af788ea90a2e4eda8e249349f4cd247897ba5041e39c6c7703ba9d7cd",
+    "characters/Skeleton King.md": "a6d82160b6b6588cdb82c6d3265cd7fbc4613fbf89f6e6a2bce9983836d22450",
+    "docs/ADDRESS.md": "9cb3f55b4a97e46513878b680d6969a2f5f5f3ef63f6bde22a80ed2ef1186f33",
+    "docs/CONTEXT.json": "8da19a45a52b245edeb4f4b81f8b61ef0d4b44aead5b84d76042efd8a07d8be0",
+    "docs/NAMES.md": "1c194b7ea34a08f4c9fccdfb93409df0ce999feea07887b709b1a47dc5bc35b1",
+    "docs/STATE.md": "a51c7da4fc22c98d1ed956ff87fab2a2df3a47dcbc3fa6ff0c16c873287c0226",
+    "summaries/beats/0754.md": "eb33481d6ef2ea0e725499cc0df1899e45f9a835e82d929b37e94527997e0558"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "레비아탄",
+        "kinship": "enemy and hunted monster",
+        "normal_address": "Leviathan; you",
+        "notes": "Jin orders Leviathan to leave and dismisses its attempt to kill the Skeleton King.",
+        "speaker": "진태경",
+        "speech_level": "insulting-casual"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "attacking enemy",
+        "normal_address": "you bastard",
+        "notes": "Leviathan directly curses Jin while resisting his attacks.",
+        "speaker": "레비아탄",
+        "speech_level": "enraged-insulting"
+      },
+      {
+        "addressee": "스켈레톤 킹",
+        "kinship": "allied companion",
+        "normal_address": "Skeleton King; you",
+        "notes": "Jin comments on the Skeleton King's fear and lightning-rod tactic, then says they can finally fight together.",
+        "speaker": "진태경",
+        "speech_level": "playful-casual"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "allied companion",
+        "normal_address": "you",
+        "notes": "The Skeleton King responds to Jin's recognition of his improvised strategy.",
+        "speaker": "스켈레톤 킹",
+        "speech_level": "casual and self-defensive"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin Taekyung's Broken Body debuff has drastically reduced his physical attributes, making his body heavy, slowing his movement, and accelerating his internal-energy consumption.",
+        "Jin Taekyung has driven his flaming spear into Leviathan's brow and remains mounted on its body while continuing the attack.",
+        "The Skeleton King can survive Leviathan's lightning because his skeletal body functions as a lightning rod.",
+        "Leviathan now fears Jin Taekyung as the possible human who defeated its former master, Asmodeus, and is fleeing toward the deep sea.",
+        "An unknown mass of bones has formed in the deep sea and is blocking Leviathan's path as Jin and the Skeleton King prepare to fight together."
+      ],
+      "plot": [
+        "Jin Taekyung continues his aerial battle against Leviathan despite the Broken Body debuff, using Flame-Extinguishing Divine Fist and the second form of Fire Dragon Divine Spear, Heavenly Strike, to destroy its water attacks and pierce its brow. Leviathan retaliates with a lightning strike, but the Skeleton King draws the attack and survives because he is made of bones.",
+        "Badly wounded and terrified after mistaking Jin for the human who defeated Asmodeus, Leviathan flees toward the deep sea with Jin clinging to its body and attacking it. Jin declares that they can finally fight together, but countless bones gather in the abyss and block Leviathan's path."
+      ],
+      "translation_decisions": [
+        "Render 망가진 신체 as Broken Body.",
+        "Render 스켈레톤 킹 as Skeleton King and retain it as a title."
+      ]
+    },
+    "chapter": 754,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is fighting Leviathan while weakened by the Broken Body debuff.",
+        "Jin Taekyung has pierced Leviathan's brow with his flaming spear and is attacking from its body.",
+        "The Skeleton King's skeletal body can draw and survive Leviathan's lightning.",
+        "Leviathan believes Jin may be the human who defeated Asmodeus and is fleeing in fear toward the deep sea.",
+        "Jin intends to fight Leviathan together with the Skeleton King.",
+        "An unknown mass of bones blocks Leviathan's path in the deep sea."
+      ],
+      "continuity_sources": [
+        754
+      ],
+      "open_questions": [
+        "What is the source or identity of the bones blocking Leviathan?",
+        "Can Jin Taekyung and the Skeleton King stop Leviathan in the deep sea?",
+        "Will Leviathan survive the injuries to its brow and body?"
+      ],
+      "safe_through": 754,
+      "temporary_decisions": [
+        "Render 망가진 신체 as Broken Body.",
+        "Retain Skeleton King as the English title for 스켈레톤 킹."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Skeleton King",
+        "korean": "스켈레톤 킹",
+        "notes": "Title of Jin Taekyung's undead ally."
+      },
+      {
+        "english": "Broken Body",
+        "korean": "망가진 신체",
+        "notes": "System debuff reducing Jin Taekyung's attributes."
+      },
+      {
+        "english": "Water Ball",
+        "korean": "워터 볼",
+        "notes": "Mage-named water attack spell."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [],
+        "english": "Skeleton King",
+        "filename": "Skeleton King.md",
+        "korean": "스켈레톤 킹",
+        "personality": "Humorous, improvisational, self-deprecating, and quick to claim credit for a successful tactic.",
+        "relationships": "The Skeleton King is allied with Jin Taekyung and is targeted by Leviathan during their confrontation.",
+        "role": "The Skeleton King is an undead ally assisting Jin Taekyung in battle against Leviathan and can survive lightning because of his skeletal body.",
+        "voice": "Casual and comedic, with awkward self-defense and deadpan reactions."
+      }
+    ],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Jin Taekyung is the Third Young Master of the Jin Family of Taiyuan, Jeok Cheongang's publicly acknowledged Disciple, the Fire Gate Clan's nineteenth successor, and the Pavilion Master of the Fire Dragon Pavilion within the Murim Alliance, a Supreme Peak master with the Heavenly Martial Physique and Force, a publicly recognized S-rank-level Hunter who formally retains an A-rank license, a traveler between Murim and another world resembling the realm of immortals, the creator of the beginner-accessible Smiling Mana Cultivation Method, and a practitioner of the Turtle Breath Technique learned from the Slaughter Saint.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Role:** Jin Taekyung is the Third Young Master of the Jin Family of Taiyuan, Jeok Cheongang's publicly acknowledged Disciple, the Fire Gate Clan's nineteenth successor, and the Pavilion Master of the Fire Dragon Pavilion within the Murim Alliance, a Supreme Peak master with the Heavenly Martial Physique and Force, a publicly recognized S-rank-level Hunter who formally retains an A-rank license, a traveler between Murim and another world resembling the realm of immortals, the creator of the beginner-accessible Smiling Mana Cultivation Method, and a practitioner of the Turtle Breath Technique learned from the Slaughter Saint who is currently fighting Leviathan while weakened by the Broken Body debuff."
+      },
+      {
+        "current": "- **Role:** Leviathan is an ancient S-rank sea monster and ruler of the sea that emerged near an uninhabited island in the Philippine Sea, attacked the bait boat, and is now confronting Jin Taekyung after being struck in the mouth by his blue-white flame spear.",
+        "path": "characters/Leviathan.md",
+        "replacement": "- **Role:** Leviathan is an ancient S-rank sea monster and ruler of the sea that has been severely wounded by Jin Taekyung, is fleeing toward the deep sea in fear after mistaking him for the human who defeated Asmodeus, and is now blocked by an unknown mass of bones."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

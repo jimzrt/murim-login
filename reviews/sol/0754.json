@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The spearhead, attached to scales that could easily stop a missile, sliced straight through them. Merely grazing Leviathan was enough to cut away dozens of kilograms of flesh.",
+      "defect": "The draft says the spearhead is attached to Leviathan’s scales, reversing the grammatical relationship and changing the physical action. The spearhead cuts through the scales.",
+      "id": "F01",
+      "rationale": "The source makes the missile-resistant scales the object cut through by the spearhead, not something attached to it.",
+      "replacement": "The spearhead sliced clean through scales that could shrug off missiles. A mere graze sheared dozens of kilograms of flesh from Leviathan.",
+      "severity": "critical",
+      "source": "미사일도 우습게 막아 내는 비늘을 단번에 가르고 들어간 창날은 단순히 스친 것만으로도 수십 킬로그램의 살점을 베어 냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Its wounds had not yet healed, but the quality and quantity of its magical power were incomparable to the day before.",
+      "defect": "The comparison is grammatically malformed and loses the source’s directional meaning that Leviathan’s magical power is now far greater than it was a day ago.",
+      "id": "F02",
+      "rationale": "비할 바가 아니다 here means the current power is beyond comparison with, and specifically superior to, its prior state.",
+      "replacement": "Its wounds had not yet healed, but both the quality and quantity of its magical power far surpassed what they had been a day earlier.",
+      "severity": "major",
+      "source": "비록 상처는 아물지 않았으나, 마력의 질과 양은 하루 전에 비할 바가 아니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "If the condition had never existed in the first place, that would have been one thing. But with every attribute except Intelligence drastically reduced, his body had been left with a massive gap and was failing to properly carry out the commands sent by his mind.",
+      "defect": "The draft makes the nonexistent thing the debuff itself, which obscures the mechanism. The point is that Jin’s body had once possessed the now-lost capabilities, so their sudden reduction left a gap between his commands and what his body could execute.",
+      "id": "F03",
+      "rationale": "The contrast introduced by 처음부터 존재하지 않았다면 모를까 explains why losing established physical capabilities is more disruptive than never having possessed them.",
+      "replacement": "It might have been different if he had never possessed those capabilities in the first place. But with every attribute except Intelligence drastically reduced, the resulting void left his body unable to properly carry out the commands from his mind.",
+      "severity": "major",
+      "source": "처음부터 존재하지 않았다면 모를까, 지능을 제외한 모든 능력치가 대폭 하락하면서 커다란 공백이 생긴 신체가 머리에서 전달된 명령을 제대로 수행하지 못하고 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Leviathan’s assumption swelled into fear.",
+      "defect": "Calling it an assumption omits the narrator’s explicit statement that Leviathan’s conclusion is a misunderstanding.",
+      "id": "F04",
+      "rationale": "오해 identifies Leviathan’s identification of Jin as factually mistaken, which is important to the viewpoint and ensuing decision to flee.",
+      "replacement": "Leviathan’s misunderstanding swelled into fear.",
+      "severity": "major",
+      "source": "레비아탄은 오해는 두려움이 되어 부풀어 올랐다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Under his tremendous grip, scales harder than stone were ripped out like leaves from a cabbage, while the flames wrapped around his fists crushed flesh and bone.",
+      "defect": "The draft adds an unsupported stone comparison and changes scales being pulled out like whole cabbages into leaves being removed from a cabbage.",
+      "id": "F05",
+      "rationale": "배추처럼 뽑혀 나갔다 evokes cabbages being pulled up whole, not leaves being stripped from one.",
+      "replacement": "Under his tremendous grip, the incredibly tough scales were yanked out like cabbages, while the flames riding his punches crushed flesh and bone.",
+      "severity": "minor",
+      "source": "엄청난 악력에 단단하기 그지없는 비늘이 배추처럼 뽑혀 나갔고, 주먹 끝에 실린 화염은 살과 뼈를 으스러트렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Well, he’s always been scared.”",
+      "defect": "The draft drops Jin’s hesitant opening and changes a habitual characterization—being easily frightened—into an ongoing state of fear.",
+      "id": "F06",
+      "rationale": "그 conveys hesitation, while 원래 겁이 많아 describes the Skeleton King’s generally fearful disposition and carries the scene’s teasing humor.",
+      "replacement": "“Uh, he’s always been a scaredy-cat.”",
+      "severity": "minor",
+      "source": "그, 쟤가 원래 겁이 많아."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the moment the spearhead met the membrane of magical power wrapped around Leviathan like a shield, a dazzling flash spread across the blackened sky.",
+      "defect": "“Membrane of magical power” is an unnatural literal rendering for a defensive magical barrier.",
+      "id": "F07",
+      "rationale": "막 denotes the defensive layer surrounding Leviathan; “barrier” conveys its function naturally without changing the mechanism.",
+      "replacement": "At the moment the spearhead met the barrier of magical power wrapped around Leviathan like a shield, a dazzling flash spread across the blackened sky.",
+      "severity": "minor",
+      "source": "레비아탄의 몸뚱어리를 방패처럼 감싼 마력의 막(膜)과 창날이 맞닿은 그 순간, 검게 물든 하늘에서 눈부신 섬광이 번뜩였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "But they had no effect on the someone who had already made a nest on its enormous body.",
+      "defect": "“The someone” is ungrammatical English and disrupts the otherwise brisk action.",
+      "id": "F08",
+      "rationale": "누군가 is deliberately indefinite; “the figure” preserves that phrasing naturally in English.",
+      "replacement": "But they had no effect on the figure who had already made a nest on its enormous body.",
+      "severity": "minor",
+      "source": "그러나 거대한 몸뚱어리에 이미 둥지를 튼 누군가에게는 아무런 영향도 주지 못했다."
+    }
+  ],
+  "summary": "The draft contains one critical action/subject error, several meaningful losses in combat mechanics and viewpoint, and localized register and prose issues.",
+  "version": 1
+}

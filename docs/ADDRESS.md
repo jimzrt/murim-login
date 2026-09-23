@@ -1242,3 +1242,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 스켈레톤 킹 | ally_to_reluctant_bait | Skeleton King | informal-teasing | Jin addresses the Skeleton King casually while coercing him into serving as bait. |
 | 진태경 | 최 팀장님 | subordinate_to_trusted_manager | Team Leader Choi | polite-teasing | Jin addresses Choi while asking him to restrain the Skeleton King. |
 | 스켈레톤 킹 | 최 팀장님 | ally_to_team_leader | Team Leader Choi | formal-polite | The Skeleton King appeals to Choi while pleading to be rescued. |
+| 진태경 | 레비아탄 | enemy and hunted monster | Leviathan; you | insulting-casual | Jin orders Leviathan to leave and dismisses its attempt to kill the Skeleton King. |
+| 레비아탄 | 진태경 | attacking enemy | you bastard | enraged-insulting | Leviathan directly curses Jin while resisting his attacks. |
+| 진태경 | 스켈레톤 킹 | allied companion | Skeleton King; you | playful-casual | Jin comments on the Skeleton King's fear and lightning-rod tactic, then says they can finally fight together. |
+| 스켈레톤 킹 | 진태경 | allied companion | you | casual and self-defensive | The Skeleton King responds to Jin's recognition of his improvised strategy. |
