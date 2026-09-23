@@ -2388,3 +2388,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황도십이궁 | **Twelve Palaces of the Zodiac** | Collective title for twelve Supreme Peak masters representing the imperial court. |
 | 금우궁 | **Golden Ox Palace** | Palace title held by the Imperial Guard commander. |
 | 금위군 | **Imperial Guards** | Imperial force distinct from the Embroidered Uniform Guard. |
+| 언데드 | **undead** | Supernatural beings that are neither dead nor alive. |
+| 무림서열록 | **Murim Ranking Record** | Title of the book ranking Murim masters. |

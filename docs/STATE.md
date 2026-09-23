@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 909
-- Next chapter: 910
-- Current block: 905–909 (5/5)
-- Latest translation: `translations/0909.md`
-- Latest summary: `summaries/beats/0909.md`
-- Safe profiles through: chapter 909
+- Last completed: 910
+- Next chapter: 911
+- Current block: 910–914 (1/5)
+- Latest translation: `translations/0910.md`
+- Latest summary: `summaries/beats/0910.md`
+- Safe profiles through: chapter 910
 
 ## Current Block
 
-- Hyuk Mujin, Taishan, Namho, and the Divine Physician flee from the black-clad pursuers. Taishan saves Mujin when his legs give out, and their argument over whether two hundred plates of five-spice pork means “one hundred two” continues even as the pursuers close in. Jin Taekyung arrives, reuniting with them and with Ju Hwaran, Song Ilseom, and Sama Pyo, who are still being chased.
-- Taekyung uses the first form of the Blazing Flame Divine Spear, Fire Dragon’s Single Tail, to unleash a huge blue-white fire attack against the pursuers. Hwaran, Ilseom, and Sama Pyo survive by dropping at his signal. The attack leaves Taekyung severely depleted and in pain. As the smoke begins to clear, the group sees something that explains their urgency and Ma Sanbao’s confidence in the rebellion, but the chapter ends before revealing what it is.
+- After Jin Taekyung’s Scorching Yang Qi attack, roughly half of the first hundred black-clad pursuers rise again despite catastrophic burns, showing no pain or signs of life. Taekyung recognizes them as undead and orders the group to run as an army of the dead advances.
+- During his fight with the Eastern Heaven Demon Lord, Jeok Cheongang recalls Hong Dao’s wager that he would surpass the Three Saints. Realizing his current realm is not his final limit, Jeok resolves to keep striving and strikes the Demon Lord with a blaze greater than any he has shown before.
 
 ## Open Questions
 
-- What is the scene revealed as the smoke clears?
-- Who are the black-clad pursuers, and what are their capabilities?
-- Who is So Gyo, and where does her allegiance lie?
-- What is the nature of Cang Gong’s power and his relationship to the Lord of Heaven?
-- What forces are the Emperor and Cang Gong still withholding?
+- Who created or commands the undead, and how can they be stopped?
+- Can Taekyung’s group escape the advancing undead?
+- Can Jeok Cheongang defeat the Eastern Heaven Demon Lord?
+- Will Jeok Cheongang surpass the Three Saints?
 
 ## Exceptional Decision
 

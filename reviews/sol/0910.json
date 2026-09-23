@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "One person or another, once revered as a great warrior, died. Then died again. And again.",
+      "defect": "“Then died again” makes it sound as though the same person dies repeatedly.",
+      "id": "F01",
+      "rationale": "The repeated deaths are of successive people once revered as powerful martial artists.",
+      "replacement": "One revered master died, then another, and another.",
+      "severity": "critical",
+      "source": "강자로 추앙받던 어디의 누군가가 죽고, 죽고, 또 죽고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What is that…?”\n\nI couldn’t bring myself to say the rest aloud.",
+      "defect": "The draft voices the question that Taekyung cannot bring himself to say, removing the distinction between his speech and thought.",
+      "id": "F02",
+      "rationale": "He begins aloud, asks what it is internally, then explains why he cannot speak the rest.",
+      "replacement": "“That’s…”\n\n*What the hell is that?*\n\nI couldn’t bring myself to say the rest aloud.",
+      "severity": "major",
+      "source": "“저건…….”\n\n도대체 뭐지?\n\n그 뒷말은 차마 소리 내어 내뱉지도 못했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Undead? What the hell is tha—”",
+      "defect": "Mujin mishears “undead” as “Eom Dae-du”; the draft removes the misunderstanding and adds profanity to his polite question.",
+      "id": "F03",
+      "rationale": "The phonetic mishearing and deferential question are both present in the Korean.",
+      "replacement": "“Eom Dae-du? What does that mea—”",
+      "severity": "major",
+      "source": "“엄대두요? 도대체 그게 뭡니…….”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even in a situation like this, they showed no fear or agitation—not even the pain they should’ve been feeling.",
+      "defect": "The draft replaces the absence of screams with an absence of fear.",
+      "id": "F04",
+      "rationale": "비명 means screams; the unnerving observation is that the burned figures make no cry of pain.",
+      "replacement": "Even in a situation like this, they neither screamed nor showed any agitation—not even a sign of the pain they should’ve been feeling.",
+      "severity": "major",
+      "source": "이런 상황에서도 그 어떤 비명이나 동요도, 심지어 당연히 느껴야 할 고통조차 보이지 않은 채."
+    },
+    {
+      "confidence": 0.95,
+      "current": "There are plenty of strong people among the demonic, heterodox arts, too.",
+      "defect": "“People among … arts” is an unnatural English construction.",
+      "id": "F05",
+      "rationale": "The speaker is pointing out powerful martial artists outside the orthodox faction.",
+      "replacement": "Plenty of powerful fighters practice demonic and heterodox arts, too.",
+      "severity": "minor",
+      "source": "사마외도 중에도 강한 놈들이 얼마나 많은데."
+    }
+  ],
+  "summary": "The draft preserves the scene overall, but changes a sequence of deaths into repeated deaths of one person and misses several character and dialogue cues.",
+  "version": 1
+}
