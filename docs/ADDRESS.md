@@ -1354,3 +1354,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 수달 | 남호 | junior_martial_artist_to_older_stranger | Senior No | respectful | Sudal calls Namho 노 선배님 while mistaking him for a martial master. |
 | 남호 | 수달 | older_stranger_to_junior | you | blunt and familiar | Namho addresses Sudal as 네놈 while teasing him about his age and health. |
 | 진태경 | 수달 | traveler_to_river_pirate | mister | casual | Jin calls Sudal 아저씨 when asking how far they have traveled. |
+| 혁무진 | 주화란 | Fire Dragon Pavilion member to fellow member | Young Lady Ju | polite and deferential | Mujin addresses Hwaran as 주 소저 while asking her to call a physician. |
