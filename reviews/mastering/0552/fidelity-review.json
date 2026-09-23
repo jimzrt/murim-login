@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "“A Western dragon?”",
+      "defect": "“Western” adds a specific kind of dragon that the Korean does not state; the line asks whether it was a dragon.",
+      "id": "F01",
+      "rationale": "The source says “드래곤 말입니까?” (“A dragon?”), without specifying that it was Western.",
+      "replacement": "“A dragon?”",
+      "severity": "minor",
+      "source": "Korean source, line 95"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor added detail in the dragon exchange.",
+  "version": 1
+}

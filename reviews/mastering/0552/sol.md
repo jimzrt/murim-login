@@ -38,7 +38,7 @@ I lay under the soft blankets, staring at the ceiling for a long while. Then I a
 
 A quiet answer came from nearby.
 
-“The official title is the Sistine Chapel ceiling frescoes, but in Korea, it’s better known as *The Creation*—*The Genesis*. It’s a masterpiece created by Michelangelo Buonarroti, a sculptor and painter of the Renaissance.”
+“The official title is the Sistine Chapel ceiling frescoes, but in Korea they’re better known as *The Creation*—*The Genesis*. They’re a masterpiece by Michelangelo Buonarroti, a Renaissance sculptor and painter.”
 
 “Ah, Michelangelo. Right.”
 
@@ -70,11 +70,11 @@ Team Leader Choi, handsome as ever in a silk robe, stopped in his tracks.
 
 I’d spent more than two months in Murim, so it wasn’t a lie. Considering everything that had happened, two months almost felt too short.
 
-“It must not have been a bad dream.”
+“It must have been a good dream.”
 
 “Not really. I had to fight a dragon right at the start.”
 
-“A Western dragon?”
+“A dragon?”
 
 “Something a little different, but close.”
 
@@ -90,11 +90,11 @@ Team Leader Choi set the cup he was holding on the bedside table.
 
 If it was coffee made from cat shit—or Hyuk Mujin’s shit—like last time, I was going to refuse.
 
-I glared suspiciously at the cup, but then my eyes widened as a familiar scent reached deep into my nose.
+I eyed the cup suspiciously. Then a familiar aroma reached me, and my eyes widened.
 
 “Huh?”
 
-When I looked at him with an expression that said *surely not*, Team Leader Choi gave a quiet laugh.
+I looked up at him. Team Leader Choi gave a quiet laugh.
 
 “It’s instant. Gold. Made strong.”
 
@@ -130,7 +130,7 @@ I yawned and stretched.
 
 I sat up groggily and reached out. The smartphone on the bedside table flew toward me through *Seizing an Object Through Empty Space* and snapped into my hand like a magnet.
 
-*Maybe it’s because I haven’t seen this in a while, but it feels really strange.*
+*Maybe it’s because I haven’t used one in a while, but this feels really strange.*
 
 It was part of the disorientation I felt every time I returned to reality.
 
@@ -142,9 +142,9 @@ Seven in the morning. I’d gone to bed not long after midnight, so I’d slept 
 
 “Hm?”
 
-What was this? The date looked strange.
+Wait. The date was wrong.
 
-I stared at the smartphone screen. Then a thought flashed through my mind, and my eyes widened.
+I stared at the screen until a thought struck me.
 
 “Ah.”
 
@@ -156,7 +156,7 @@ Just as I remembered, Team Leader Choi spoke.
 
 *Swish.*
 
-He held out his hand, his quiet voice following close behind.
+He held out his hand.
 
 “I look forward to working with you this year as well, Mr. Jin Taekyung.”
 
@@ -176,11 +176,11 @@ The number thirty loomed so close that my vision went dark. Then two people burs
 
 “Hey, Twenty-Eight! Mom says to come eat seaweed soup!”[^1]
 
-“I hereby congratulate you on the day of your birth!”
+“I congratulate you upon the day of your birth!”
 
 I take it back. They weren’t people. They were two monsters.
 
-Jin Hayeon, my old enemy on the family register, whom I was seeing for the first time in a while—and the blond foreigner beside her, the Skeleton King.
+One was Hayeon, my old enemy on the family register, whom I hadn’t seen in ages. The other was the blond foreigner beside her: the Skeleton King.
 
 I sighed at the sight of them.
 
@@ -230,7 +230,7 @@ The Skeleton King—given a human appearance by Magic Johnson’s illusion magic
 
 “…”
 
-The Skeleton King was silent for a moment before squeezing out his voice.
+For a moment, the Skeleton King was at a loss for words.
 
 “What I mean is…”
 
@@ -256,7 +256,7 @@ Hayeon and I answered together.
 
 That was written all over his face as he looked from one of us to the other. Finally, he shook his head in defeat.
 
-“All right. All right, so stop it, both of you. And you, insolent human girl. If you ever call me an old man again…”
+“All right. Just stop it, both of you. And you, insolent human girl—if you ever call me an old man again…”
 
 *Step.*
 
@@ -264,7 +264,7 @@ He never finished.
 
 Hayeon had stopped walking. She was staring at him blankly.
 
-“What did you say?”
+“What… did you call me?”
 
 “No. That isn’t what I meant. I misspoke.”
 
@@ -282,7 +282,7 @@ I blinked at him.
 
 “Pardon?”
 
-“No, why? Why do I have to calm her down?”
+“Why would I need to calm her down?”
 
 “Why? Miss Hayeon was just insulted—”
 
@@ -300,13 +300,13 @@ Here we go. I smiled warmly.
 
 Yes. This was Jin Hayeon.
 
-As my capillaries swelled magnificently, I finally felt that I had truly returned to the modern world.
+My capillaries swelled with pride. At last, I truly felt like I’d returned to the modern world.
 
 Hayeon whipped around to face me.
 
 “Did you hear what that Yankee bastard just said?”
 
-I nodded silently.
+I nodded solemnly.
 
 “I heard.”
 
@@ -316,9 +316,9 @@ I nodded silently.
 
 “Oh, right,” I said, impressed. “He really isn’t human.”
 
-“He called me an insolent human girl. Is that psycho seriously saying things like that?”
+“He called me an insolent human girl. Who the hell says that?”
 
-“Well, they are words. Just bad ones.”
+“Well, he said it. It was just a bad thing to say.”
 
 “If he’d called me a crazy bitch or something normal, I wouldn’t even complain. But *human girl*? It feels so gross. Seriously.”
 
@@ -352,7 +352,7 @@ Hayeon’s eyes turned cold.
 
 *Wham!*
 
-Eyes bulging, I grabbed someone by the collar with all my strength.
+Eyes bulging, I grabbed a collar with all my strength.
 
 Not Hayeon’s, of course. The Skeleton King’s.
 
@@ -378,9 +378,9 @@ It was Hayeon’s anger gauge bursting. She picked up the nearest plaster statue
 
 *Whoosh! Clang!*
 
-The hallway descended into chaos, beginning with the daily clang.
+One clang a day was enough to turn the hallway into chaos.
 
-Hayeon charged at us like a brave Viking warrior, while Team Leader Choi stared at the scene unfolding before him in stunned disbelief.
+Hayeon charged at us like a valiant Viking warrior. Team Leader Choi stared at the scene in disbelief.
 
 That was when—
 
@@ -392,7 +392,7 @@ Dear Lady Kim Jeonghee.
 
 My mother.
 
-“...What are you doing, all of you?”
+“…What are you two doing?”
 
 From her tiny body—not even 160 centimeters tall—I felt an aura to rival at least one of the Ten Kings.
 
