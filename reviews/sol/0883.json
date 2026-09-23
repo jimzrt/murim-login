@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“T-Twelve years ago. Grrk. My father and mother, my little brother… Cough.”",
+      "defect": "The draft identifies the younger sibling as a brother, though the source gives no gender.",
+      "id": "F01",
+      "rationale": "동생 specifies a younger sibling, not a brother.",
+      "replacement": "“T-Twelve years ago. Grrk. My father and mother, my younger sibling… Cough.”",
+      "severity": "critical",
+      "source": "아버지와 어머니, 내 동생……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Embroidered Uniform Guard is responsible for the Inner Palace, though the Imperial Guard protecting the Outer Palace is elite enough in its own right.",
+      "defect": "The draft omits that the Embroidered Uniform Guard is the Emperor’s personal guard.",
+      "id": "F02",
+      "rationale": "황제 직속 친위대 establishes the Guard’s direct relationship to the Emperor and the hierarchy between the two palace defenses.",
+      "replacement": "The Imperial Guard protecting the Outer Palace is elite enough, but the Inner Palace is guarded by the Embroidered Uniform Guard—the Emperor’s personal guard.",
+      "severity": "major",
+      "source": "외궁을 지키는 금위군도 충분히 정예병이지만, 내궁 경비는 황제 직속 친위대인 금의위가 맡고 있죠."
+    },
+    {
+      "confidence": 1.0,
+      "current": "If the proud ancestors of Fire Gate had seen this, they would have wept underground… or maybe not.",
+      "defect": "The established organization name is shortened.",
+      "id": "F03",
+      "rationale": "열화문 has the binding rendering “Fire Gate Clan.”",
+      "replacement": "If the proud ancestors of the Fire Gate Clan had seen this, they would have wept underground… or maybe not.",
+      "severity": "minor",
+      "source": "자랑스러운 열화문의 선조들께서 이 광경을 보았다면"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Isn’t dying young practically a Fire Gate tradition?",
+      "defect": "The established organization name is shortened again.",
+      "id": "F04",
+      "rationale": "The source names 열화문 and says 우리, “our.”",
+      "replacement": "Isn’t dying young practically a tradition in our Fire Gate Clan?",
+      "severity": "minor",
+      "source": "툭하면 요절(夭折)하는 게 우리 열화문의 전통 아닙니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Taishan—or Geosan, as you called him—is enormous.",
+      "defect": "“As you called him” assigns the mistaken name to the listener rather than preserving the speaker’s own correction.",
+      "id": "F05",
+      "rationale": "The Divine Physician says the first name, corrects himself, and then continues; he does not attribute the name to Jeok Cheongang.",
+      "replacement": "Taishan—no, Geosan—that fellow is enormous.",
+      "severity": "minor",
+      "source": "태산. 아니, 거산 저 친구의 덩치가 워낙 거대하니"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Her eyes widened in surprise, then she threw herself face-first onto the ground.",
+      "defect": "The draft changes her surprised blink into widened eyes.",
+      "id": "F06",
+      "rationale": "눈을 깜빡이더니 describes blinking, not widening her eyes.",
+      "replacement": "She blinked in surprise, then threw herself face-first onto the ground.",
+      "severity": "minor",
+      "source": "청초한 미모를 자랑하는 기녀는 깜짝 놀라 눈을 깜빡이더니 이내 몸을 내던지듯 바닥에 엎드렸다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "As Taishan blinked vacantly, Jeok Cheongang lowered his head and thought.",
+      "defect": "Taishan looks around blankly; he does not blink.",
+      "id": "F07",
+      "rationale": "눈을 굴리는 describes his eyes moving, while 멀뚱멀뚱 conveys his blank expression.",
+      "replacement": "As Taishan looked around blankly, Jeok Cheongang lowered his head and thought.",
+      "severity": "minor",
+      "source": "멀뚱멀뚱 눈을 굴리는 태산의 모습에, 적천강은 고개를 숙이며 생각했다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it assigns an unspecified sibling a gender, omits who commands the Inner Palace guard, and alters several smaller details.",
+  "version": 1
+}
