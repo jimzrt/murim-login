@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He trusted the Prophet without limit, but this time, he could not help asking.\n\nHe turned his head.\n\nThen he met the Prophet’s eyes, which shed a faint light between the folds of his robe.",
+      "defect": "The draft states that Al-Nizar asks his question, but the source suspends and reverses that intention: he feels compelled to ask only until he meets The Prophet’s gaze, at which point he stops. It also assigns a male possessive to the deliberately gender-indeterminate Prophet.",
+      "id": "F01",
+      "rationale": "The Korean fragment ending in 전까지는 means his intention lasted only until he met the gaze; no question is actually voiced.",
+      "replacement": "Despite his boundless faith in The Prophet, this time he could not help but ask—or so he thought.\n\nThe moment he turned his head, he met the faint glow of The Prophet’s eyes between the folds of the robe.",
+      "severity": "critical",
+      "source": "선지자에게 무한한 신뢰를 보내는 그지만, 이번만큼은 묻지 않을 수 없었다.\n\n고개를 돌린 그 순간. 로브 사이로 은은한 빛을 흘리는 안광을 마주하기 전까지는."
+    },
+    {
+      "confidence": 1.0,
+      "current": "His words revealed that he had seen through everything from the beginning. The dozen pairs of eyes visible above the masks trembled.",
+      "defect": "The male pronouns establish The Prophet as a man even though the source avoids gendering the character and later explicitly states that the voice reveals no gender.",
+      "id": "F02",
+      "rationale": "The Korean uses the title 선지자 and contains no gendered pronoun.",
+      "replacement": "Those words made it clear that The Prophet had seen through everything from the beginning. The dozen pairs of eyes visible above the masks trembled.",
+      "severity": "critical",
+      "source": "처음부터 모든 것을 꿰뚫고 있었음을 의미하는 선지자의 한 마디에, 복면 위로 드러난 십여 쌍의 눈동자가 흔들렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "His great Prophet stood with a sky scattered with stars behind him, gazing down at him.\n\nBetween the strangely dark folds of his robe, his eyes shone with a mysterious light.",
+      "defect": "The repeated masculine pronouns identify The Prophet as male, contradicting the source’s deliberate concealment of both age and gender.",
+      "id": "F03",
+      "rationale": "The source distinguishes Al-Nizar with 그를 but never supplies a gendered pronoun for The Prophet.",
+      "replacement": "The great Prophet stood against a sky scattered with stars, gazing down at him.\n\nA mysterious light shone from the eyes framed by the strangely dark folds of the robe.",
+      "severity": "critical",
+      "source": "위대하기 그지없는 자신의 선지자가 별 무리가 흩뿌려진 밤하늘을 등진 채 그를 내려다보고 있었다.\n\n이상하리만치 어두운 로브 사이, 신비롭게 빛나는 안광(眼光)과 함께."
+    },
+    {
+      "confidence": 0.99,
+      "current": "An immense force pushed out the edges of his robe and swelled around him. The wind died, and the air vibrated.",
+      "defect": "The added masculine pronouns again disclose a gender the source withholds, and “around him” is not stated in the source.",
+      "id": "F04",
+      "rationale": "The Korean describes the force swelling and pushing out the robe’s edges without identifying The Prophet’s gender or adding a location around a male body.",
+      "replacement": "An immense force swelled, pushing out the edges of The Prophet’s robe. The wind died, and the air vibrated.",
+      "severity": "critical",
+      "source": "거대한 기운이 로브 자락을 밀어 내며 부풀어 올랐다. 바람이 멎고 공기가 진동했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "And again, because he had called even lowly servants like them “us.”",
+      "defect": "The masculine pronoun supplies an identity detail intentionally absent from the source.",
+      "id": "F05",
+      "rationale": "The source refers only to 선지자 and does not gender the character.",
+      "replacement": "And again, because The Prophet had called even lowly servants like them “us.”",
+      "severity": "critical",
+      "source": "자신들의 선지자가 이토록 놀라운 능력을 가졌다는 것에 한 번. 또 하찮은 종복에 불과한 그들을 ‘우리’라 칭해 주었다는 것에서 다시 한번."
+    },
+    {
+      "confidence": 1.0,
+      "current": "As the sleeve of his full, flowing robe fluttered, the crescent-shaped dune beneath their feet began to shake.",
+      "defect": "The masculine possessive identifies The Prophet as male despite the source’s deliberate gender ambiguity.",
+      "id": "F06",
+      "rationale": "The Korean names only the robe and supplies no gendered possessive.",
+      "replacement": "As the long, voluminous sleeve of The Prophet’s robe fluttered, the crescent-shaped dune beneath their feet began to shake.",
+      "severity": "critical",
+      "source": "풍성하고 긴 로브의 옷소매가 펄럭인 그때, 그들이 서 있던 초승달 모양의 모래 언덕이 흔들렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "If he gave the order, they were prepared to eliminate their own leader without a moment’s hesitation.\n\nBecause he was the prophet who conveyed God’s word, the Prophet who led them all.",
+      "defect": "The English repeatedly makes The Prophet male, whereas Korean pronouns do not encode gender and the character’s gender remains explicitly unknowable.",
+      "id": "F07",
+      "rationale": "Using the title rather than masculine pronouns preserves the source’s intentionally indistinct identity.",
+      "replacement": "If The Prophet gave the order, they were prepared to eliminate their own leader without a moment’s hesitation.\n\nBecause The Prophet was a prophet who conveyed God’s word and the one who led them all.",
+      "severity": "critical",
+      "source": "만약 그가 명령을 내린다면, 그들은 일말의 망설임도 없이 자신들의 수장을 제거할 준비가 되어 있었다.\n\n그는 신의 말씀을 전하는 예언가요, 모두를 이끄는 선지자니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "It was a protective barrier that could not be detected by any product of science—not even by Magic. At the same time, it concealed their presence from the eyes of their enemies.",
+      "defect": "The draft says the barrier itself cannot be detected, but the source says science and Magic cannot see through or penetrate it. This changes the barrier’s defensive mechanism.",
+      "id": "F08",
+      "rationale": "간파할 수 없는 modifies the barrier’s resistance to being seen through or penetrated, while the following clause separately explains that it hides the group.",
+      "replacement": "It was both a protective barrier that no product of science—not even Magic—could see through and a screen that concealed them from their enemies’ eyes.",
+      "severity": "major",
+      "source": "그리고 그것은 어떤 과학의 산물로도, 심지어는 마법으로도 간파할 수 없는 보호막인 동시에 적들의 시선으로부터 그들의 모습을 감추는 가림막이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“If you would punish us for our disobedience, we would gladly pay for it with our lives. But we, the Hasasin—or Assassins—will never leave your side, no matter the circumstances.”",
+      "defect": "The explanatory alias “or Assassins” is inserted into the follower’s solemn declaration even though the source introduces that alias only in the following narration.",
+      "id": "F09",
+      "rationale": "The dialogue contains only 하샤신; the separate narrative sentence 하샤신. 혹은 어쌔신. provides the alias afterward.",
+      "replacement": "“If you would punish us for our disobedience, we would gladly pay for it with our lives. But we, the Hasasin, will never leave your side, no matter the circumstances.”",
+      "severity": "major",
+      "source": "불복한 죄를 물으신다면 기꺼이 죽음으로 값을 치르겠나이다. 하지만 저희, 하샤신(Hasasin)은 어떤 상황에서도 당신을 곁을 떠나지 않을 것입니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Inshallah. We have come to behold the great Prophet who has returned to this land.”",
+      "defect": "“Behold” describes seeing The Prophet but does not preserve the highly deferential greeting and homage expressed by 뵙나이다.",
+      "id": "F10",
+      "rationale": "뵙나이다 is an elevated humble form of meeting or addressing a revered superior, not merely looking upon that person.",
+      "replacement": "“Inshallah. We pay our respects to the great Prophet who has returned to this land.”",
+      "severity": "major",
+      "source": "“인샬라. 이 땅에 다시 임하신 위대한 선지자를 뵙나이다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“God desires it. Bring down God’s hammer upon the apostates gnawing away at us from within and the Western heretics.”",
+      "defect": "“God desires it” is an unnatural literal rendering of the solemn religious declaration 신께서 원하신다.",
+      "id": "F11",
+      "rationale": "“God wills it” preserves the imperative religious register while conveying the same meaning naturally in English.",
+      "replacement": "“God wills it. Bring down God’s hammer upon the apostates gnawing away at us from within and the Western heretics.”",
+      "severity": "minor",
+      "source": "“신께서 원하신다. 내부를 좀 먹는 배교자들과 서방의 이단자들에게 신의 철퇴를 내려라.”"
+    }
+  ],
+  "summary": "The draft repeatedly assigns The Prophet a male identity that the source deliberately leaves indeterminate, reverses whether Al-Nizar actually voices his question, and alters the barrier’s mechanism. Several smaller additions and register issues also need correction.",
+  "version": 1
+}
