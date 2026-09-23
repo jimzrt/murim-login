@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Prepare to become the best—the one no one can deny.”",
+      "defect": "The translation makes Huginn the person who will become the best, but Michael is commanding Huginn to prepare for Michael’s own rise to an indisputably supreme position.",
+      "id": "F01",
+      "rationale": "Michael’s subsequent desire to overwrite the world with his own name establishes him, not Huginn, as the intended subject of 최고가 될.",
+      "replacement": "“Prepare for me to become the undisputed best.”",
+      "severity": "critical",
+      "source": "“그 누구도 부정할 수 없는, 최고가 될 준비를.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Jin Taekyung could not expect outside assistance this time, apart from Japan’s own forces.",
+      "defect": "The draft reduces all available support to Japan’s forces and omits Jin’s assembled Korean forces. The source says he has no outside help beyond the forces already at his disposal, with Japan included among them.",
+      "id": "F02",
+      "rationale": "자체 전력 includes Jin’s existing side as a whole, while 일본을 포함한 explicitly identifies Japan as only one component of those available forces.",
+      "replacement": "Jin Taekyung could not expect any outside assistance this time beyond the forces already at his disposal, including Japan’s.",
+      "severity": "major",
+      "source": "지금의 진태경은 일본을 포함한 자체 전력 외에는 외부의 도움을 기대할 수 없다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*They are paying the price for siding with Jin Taekyung in full.*",
+      "defect": "The pronoun is ambiguous after a sentence about Shanghai’s prospective victims, and “paying the price … in full” is an unnatural rendering of 톡톡히.",
+      "id": "F03",
+      "rationale": "The surrounding passage identifies China as the party being punished, while 톡톡히 means suffering the consequences severely or dearly.",
+      "replacement": "*China is certainly paying a steep price for siding with Jin Taekyung.*",
+      "severity": "minor",
+      "source": "‘진태경의 편에 선 대가를 톡톡히 치르는군.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Much like the being now driving the world toward catastrophe.",
+      "defect": "The object of the threat has been changed from humanity to the world.",
+      "id": "F04",
+      "rationale": "그들을 refers back to 인류, so the sentence specifically describes Leviathan as driving humankind toward disaster.",
+      "replacement": "Much like the being now driving humanity toward catastrophe.",
+      "severity": "major",
+      "source": "지금 이 순간, 그들을 재앙으로 몰아가는 한 존재처럼."
+    },
+    {
+      "confidence": 0.97,
+      "current": "This was the source of a monster’s power—the appetizing scent of a magic crystal.",
+      "defect": "The established plot-relevant item terminology is replaced with the generic and inconsistent “magic crystal.”",
+      "id": "F05",
+      "rationale": "The object is the untouched magical-power-bearing Magic Gem used to lure and awaken Leviathan, matching the established terminology and active continuity.",
+      "replacement": "This was the source of a monster’s power—the appetizing scent of a Magic Gem.",
+      "severity": "major",
+      "source": "틀림없다. 이것은 몬스터가 가진 힘의 원천. 마정(魔定)이 풍기는 먹음직스러운 냄새였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Disappear.”",
+      "defect": "The draft turns a blunt, contemptuous dismissal into a command that can imply literal magical erasure.",
+      "id": "F06",
+      "rationale": "꺼져라 is an aggressive dismissal meaning “get lost” or “go away,” not an instruction to vanish from existence.",
+      "replacement": "“Get lost.”",
+      "severity": "minor",
+      "source": "- 꺼져라."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one critical subject error in Michael’s command, along with several meaningful scope, terminology, and register issues.",
+  "version": 1
+}
