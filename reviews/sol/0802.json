@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Fuck. I’m done.”",
+      "defect": "The Skeleton King threatens to stop sharing his vision; the draft says he has finished.",
+      "id": "F01",
+      "rationale": "나 안 해 means he refuses to continue, which prompts Jin’s apology. His later admission that he had already finished is the reveal.",
+      "replacement": "“Fuck. I’m not doing this anymore.”",
+      "severity": "critical",
+      "source": "“시발. 나 안 해.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Any word from the support team?”",
+      "defect": "The draft invents a support team and changes the question from whether a request for support has arrived.",
+      "id": "F02",
+      "rationale": "지원 요청 is a request for support; no support team is named here.",
+      "replacement": "“Any request for backup?”",
+      "severity": "major",
+      "source": "“지원 요청은?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Fuck. Let’s all do our best. Killing every last one of those bastards is going to be a real pain in the ass.”",
+      "defect": "“Let’s all do our best” sounds formal, while “a real pain in the ass” softens the crude, exhausting prospect that makes the line funny.",
+      "id": "F03",
+      "rationale": "힘내자 is an informal exhortation, and 좆 빠지겠다 is emphatically vulgar about how hard the work will be.",
+      "replacement": "“Fuck. Hang in there, everyone. We’re going to bust our fucking asses killing all those bastards.”",
+      "severity": "major",
+      "source": "“씨발. 다들 힘내자. 저 새끼들 다 죽이려면 진짜 좆 빠지겠다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "More than a dozen vultures glided through the sky, letting out cries like screams.",
+      "defect": "“More than a dozen” imposes a lower bound of thirteen that the source does not give.",
+      "id": "F04",
+      "rationale": "십여 마리 means around ten or a dozen, not necessarily more than twelve.",
+      "replacement": "A dozen or so vultures glided through the sky, letting out cries like screams.",
+      "severity": "minor",
+      "source": "십여 마리의 독수리가 하늘을 유영한다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "But that young, dark-haired man from the East was Jin Taekyung, the new Alliance Leader of the World Hunter Federation.",
+      "defect": "“Dark-haired” adds a physical detail absent from the source, while losing its emphasis on his striking youth.",
+      "id": "F05",
+      "rationale": "새파랗게 젊은 emphasizes how young he is; the passage says nothing about his hair.",
+      "replacement": "But that startlingly young Asian man was Jin Taekyung, the new Alliance Leader of the World Hunter Federation.",
+      "severity": "minor",
+      "source": "저 새파랗게 젊은 동양인 청년의 이름은 진태경이었고"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I don’t give a damn about that. If anything happens to the others who went with that punk after he ran off on his own…”\n\nHe clenched his jaw.\n\n“I’ll kill the bastards who made those fucking paper airplanes with my own two hands.”",
+      "defect": "The draft inserts a jaw-clenching action and drops Hagel’s pointed “you know” from the threat.",
+      "id": "F06",
+      "rationale": "The source keeps the threat in one speech turn, contains no intervening physical action, and ends with a pointed 알지.",
+      "replacement": "“I don’t know about any of that. If anything happens to the others with that punk who ran off on his own… you know the bastards who made those fucking paper airplanes will die by my hand.”",
+      "severity": "minor",
+      "source": "“난 그딴 거 몰라. 만약 혼자 멋대로 뛰쳐나간 그 애송이와 함께 있는 다른 녀석들에게 무슨 문제라도 생긴다면…… 저 Fucking 종이비행기를 만든 놈들이 내 손에 뒈질 거라는 건 알지.”"
+    }
+  ],
+  "summary": "The draft preserves the scene’s main sequence, but changes a threat to stop working into a claim of completion, misreads a request for backup, and softens a profane punchline.",
+  "version": 1
+}
