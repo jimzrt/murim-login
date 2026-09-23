@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "On top of a high sand dune, The Prophet spotted evacuation vehicles moving through a thick cloud of dust. His eyes lit up.",
+      "defect": "The draft places the Prophet on the dune. The source places the moving vehicles there and says they are kicking up the dust.",
+      "id": "F01",
+      "rationale": "높은 모래 언덕 위 describes where the vehicles are moving; 일으키며 makes them the cause of the dust cloud.",
+      "replacement": "The Prophet’s eyes lit up as he spotted transport vehicles moving along a high sand dune, kicking up a thick cloud of dust.",
+      "severity": "critical",
+      "source": "높은 모래 언덕 위, 자욱한 먼지구름을 일으키며 움직이는 후송 차량들을 확인한 선지자는 눈을 빛냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "People had found out that he’d missed the ceremony twice in a row—first the Leviathan incident, and now the launch ceremony.",
+      "defect": "The draft turns two different absences into two missed ceremonies.",
+      "id": "F02",
+      "rationale": "The Leviathan incident was the first occasion; only the second was a ceremony.",
+      "replacement": "People had found out that he’d failed to show up twice in a row: first during the Leviathan incident, then at the launch ceremony.",
+      "severity": "critical",
+      "source": "그가 레비아탄 사태에 이어, 발족식까지 2연속 불참했다는 사실이 알려졌기 때문이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "└ He’s really good at Swift Retreat.",
+      "defect": "“Retreat” changes the joke from repeatedly failing to show up to fleeing a fight.",
+      "id": "F03",
+      "rationale": "질풍불참 substitutes 불참, nonattendance, into the preceding 질풍참 technique name.",
+      "replacement": "└ He’s great at Swift No-Show.",
+      "severity": "major",
+      "source": "└ 질풍불참은 잘함"
+    },
+    {
+      "confidence": 0.96,
+      "current": "└ ;;;; These bastards are jumping straight into Jin-construction the second they get a chance to kill him.",
+      "defect": "The draft makes 킬각 a literal chance to kill Jin, although the comment is about an opening to claim him as Chinese.",
+      "id": "F04",
+      "rationale": "The preceding comment claims Jin’s family originated in China; 킬각 is figurative internet slang for a timely opening, not a threat to kill him.",
+      "replacement": "└ ;;;; The second they see an opening, these bastards launch straight into their Jin-is-Chinese campaign.",
+      "severity": "major",
+      "source": "└ ;;;;이 새끼들 킬각 나오자마자 바로 진북공정 들어오네."
+    },
+    {
+      "confidence": 0.97,
+      "current": "the Prime Minister was broadcasting the fact that Japan’s head of state was a lunatic through the loudspeaker that was the media.",
+      "defect": "“Head of state” assigns the prime minister an office the source does not; 국가 지도자 means national leader.",
+      "id": "F05",
+      "rationale": "The sentence mocks the prime minister for publicly exposing his own unfitness, without identifying him as head of state.",
+      "replacement": "the Prime Minister was using the media as a loudspeaker to announce, without a hint of restraint, that Japan’s leader was a lunatic.",
+      "severity": "minor",
+      "source": "총리는 언론이라는 확성기에 대고 일본의 국가 지도자가 미친놈이라는 사실을 가감 없이 밝히고 있다."
+    }
+  ],
+  "summary": "Several localized errors alter the Prophet’s position, Yamamoto’s record of absences, and an internet joke.",
+  "version": 1
+}
