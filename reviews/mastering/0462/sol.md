@@ -20,19 +20,19 @@ Most of the martial artists who used his ferryboat were wandering martial artist
 
 *I had my suspicions when the government troops suddenly showed up and ordered me to follow them…*
 
-He had seen it clearly: Officer Gwak, who was in charge of Dongting Lake, had been visibly flustered as he addressed these people with honorifics.
+He had seen it clearly. Officer Gwak, who was in charge of Dongting Lake, had been visibly flustered as he addressed these people with the utmost respect.
 
 Considering how arrogant the man usually was, there was no doubt that today’s passengers were important figures who carried considerable weight even in the Murim.
 
 *If this goes well, I might make a tidy sum.*
 
-He had been considering retirement lately. Whenever he heard about the nonstop tragedies of the past month, unease had settled in one corner of his heart, and his old bones had begun aching more than usual.
+He had been considering retirement lately. Whenever he heard about the nonstop tragedies of the past month, unease had settled in one corner of his heart, and his old bones had ached more than usual.
 
 He had nearly made up his mind after hearing that hundreds of people had been slaughtered en masse on Dongting Lake the previous night.
 
 *The spirit of Dongting Lake must have grown enraged. The heavenly patterns are ominous, so evil spirits like the Hidden Shadow Ghost are running wild.*
 
-Boatmen were famous for believing in all sorts of superstitions, and old men were prone to retelling legends as though they were facts.
+Boatmen were famous for believing in all sorts of superstitions, and old men were prone to repeating legends as though they were facts.
 
 It was only natural that a man who had spent his entire life as a boatman—and had grown old doing it—would decide to retire.
 
@@ -58,7 +58,7 @@ What kind of human being had webbed feet and gills? Whenever that young man ente
 
 He had already repeated that impossible feat three times. If anyone deserved to be called a martial master, it was him.
 
-*Masters like these could deal with some miscellaneous Fiend like the Hidden Shadow Ghost in an instant.*
+*Masters like these could deal with a petty ghost like the Hidden Shadow Ghost in an instant.*
 
 If he could only make it out alive, retiring with a fortune would be easy.
 
@@ -152,7 +152,7 @@ For some reason, the weather was ominously foul today. The sky, which should hav
 
 *I’ve got a bad feeling about this.*
 
-The foreboding he had felt only in the past, when floods or storms were bearing down on them, pricked at every inch of the veteran boatman’s body.
+The sense of foreboding he had only ever felt when floods or storms were bearing down pricked at every inch of the veteran boatman’s body.
 
 But he forced himself to ignore the unease seeping into his chest.
 
@@ -172,7 +172,7 @@ The boatman was still mulling it over when he realized that a large hand had set
 
 At Hyuk Mujin’s weighty voice, the boatman slowly began turning the ferryboat.
 
-Of course, he did not forget to curse inwardly at the rude fellow who looked like the weakest of the group.
+Of course, he did not forget to curse inwardly at the rude bastard who looked like the weakest of the group.
 
 “Boatman. Were you cursing me just now?”
 
@@ -218,7 +218,7 @@ Dark Heaven was like a three-headed, six-armed monster. Killing the Dongting Fis
 
 His quiet mutter scattered into the wind.
 
-Without realizing it, Taekyung touched the silver hairpin holding back his hair and suddenly thought of one person.
+Without realizing it, Taekyung touched the silver hairpin holding back his hair and thought of someone.
 
 He also remembered the hundreds of corpses that had filled the clear waters of Dongting Lake, and the wails of those left behind.
 
@@ -254,13 +254,13 @@ Yet even the countless eyes and ears spread throughout the area, aided by bright
 
 His movements made no sound and gave off no presence.
 
-The small, lithe figure quietly and stealthily headed toward the cliff. He passed dozens of people at the very least, yet not one of them noticed who he was.
+The small, lithe figure quietly and stealthily headed toward the cliff. He passed dozens of people at the very least, yet not one of them noticed him.
 
 Nor did anyone detect the Ghost Illusory Slaughter Step, wielded by the greatest assassin in history.
 
 *What a nuisance.*
 
-Mungyeong muttered inwardly as he stepped forward.
+Mungyeong grumbled inwardly and stepped forward.
 
 Treading on empty air, he soared like a bird and swiftly crossed the cliff.
 

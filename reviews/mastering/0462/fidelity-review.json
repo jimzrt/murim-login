@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "But even after searching thoroughly above and below the water, they had found no trace of the Dongting Fisherman’s secret refuge.",
+      "defect": "“Above and below the water” changes the physical scope of the search. The source explicitly says they searched both in and outside the water, which includes the surrounding land or area rather than only vertical positions above and beneath the surface.",
+      "id": "F01",
+      "rationale": "물 안과 밖 means “in and out of the water,” preserving the distinction between underwater and the surrounding area.",
+      "replacement": "But even after searching thoroughly both in and out of the water, they had found no trace of the Dongting Fisherman’s secret refuge.",
+      "severity": "minor",
+      "source": "Lines 191–193 / P98"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one minor physical-detail drift in the search description.",
+  "version": 1
+}
