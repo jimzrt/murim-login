@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Withdraw!”",
+      "defect": "The command tells the assassins to leave when the command is followed by their sudden appearance.",
+      "id": "F01",
+      "rationale": "At So Gyo’s cry, the concealed assassins drop from the ceiling and surround Taekyung; she dismisses them only later.",
+      "replacement": "“Out!”",
+      "severity": "critical",
+      "source": "“출(黜)!”\n\n쉬쉬쉬쉭!\n\n그야말로 한순간이었다.\n\n높은 천장에서 뚝 떨어져 내린 십여 개의 날붙이가 내 전신을 에워쌌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Unless he noticed the Myriad-Poison Ring too late and forcibly took it.",
+      "defect": "“Too late” implies the Emperor has missed his chance, contradicting the possibility that he discovers and seizes the ring.",
+      "id": "F02",
+      "rationale": "뒤늦게 means he notices its existence belatedly, not after seizure has become impossible.",
+      "replacement": "Unless he eventually discovered the Myriad-Poison Ring and took it by force.",
+      "severity": "critical",
+      "source": "뒤늦게 만독지환의 존재를 눈치채고 강제로 빼앗지 않는 한은."
+    },
+    {
+      "confidence": 0.96,
+      "current": "and if we let them take over the imperial court, it was all over.",
+      "defect": "The threatened target changes from the imperial family or house to the imperial court.",
+      "id": "F03",
+      "rationale": "황실 denotes the imperial family or house; the concern here is their falling into the Emperor and Dark Heaven’s grasp.",
+      "replacement": "and if the imperial family fell into their hands, it was all over.",
+      "severity": "critical",
+      "source": "이대로 놈들의 손아귀에 황실이 넘어간다면 끝장이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It won’t. As long as you turn around and leave quietly.”",
+      "defect": "The draft omits So Gyo reaching for her weapon as she delivers the threat.",
+      "id": "F04",
+      "rationale": "The hand moving to her flexible sword makes the warning an immediate physical threat.",
+      "replacement": "So Gyo put a hand on the flexible sword at her waist. “It won’t. As long as you turn around and leave quietly.”",
+      "severity": "major",
+      "source": "소교가 허리춤에 찬 연검에 손을 가져가며 대답했다.\n\n“없을 겁니다. 이대로 얌전히 돌아간다면.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "More than a dozen blades dropped from the high ceiling and surrounded my whole body.",
+      "defect": "“More than a dozen” asserts a higher lower bound than 십여 개 warrants.",
+      "id": "F05",
+      "rationale": "십여 개 gives an approximate count of ten-odd blades, not necessarily more than twelve.",
+      "replacement": "A dozen or so blades dropped from the high ceiling and surrounded me.",
+      "severity": "minor",
+      "source": "높은 천장에서 뚝 떨어져 내린 십여 개의 날붙이가 내 전신을 에워쌌다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "I murmured to myself and watched the young prince’s back, glimpsed now and then between the attendants.",
+      "defect": "The narration turns an inward thought into a potentially audible murmur.",
+      "id": "F06",
+      "rationale": "내심 places the remark in Taekyung’s mind.",
+      "replacement": "I thought to myself as I watched the young prince’s back, glimpsed now and then between the attendants.",
+      "severity": "minor",
+      "source": "내심 중얼거린 나는 궁인들 사이로 언뜻언뜻 드러나는 어린 왕의 뒷모습을 지켜보았다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it reverses the assassins’ summons and changes several concrete details.",
+  "version": 1
+}
