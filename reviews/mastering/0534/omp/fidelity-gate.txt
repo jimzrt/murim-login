@@ -1,0 +1,15 @@
+{
+  "summary": "Mostly faithful. One brief but explicit thought about Sama Pyo’s uncertainty over coincidence versus fate was omitted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 175",
+      "current": "The woman who had been his fiancée, if only for a short time—Dagger Hidden Flower Ju Hwaran—would consider everything connected to him an ill-fated relationship.",
+      "defect": "The assembled English omits Sama Pyo’s preceding thought that he cannot tell whether their meeting was coincidence or fate.",
+      "replacement": "He couldn’t tell whether it was coincidence or fate. The woman who had been his fiancée, if only for a short time—Dagger Hidden Flower Ju Hwaran—would consider everything connected to him an ill-fated relationship.",
+      "rationale": "The Korean explicitly says he has no way of knowing whether this was coincidence or fate. That uncertainty is absent from the assembled passage.",
+      "confidence": 0.99
+    }
+  ]
+}

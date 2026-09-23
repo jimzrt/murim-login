@@ -12,7 +12,7 @@ But Sama Pyo already knew this wasn’t the end. It was another beginning.
 
 “I’m certain. That’s the Black Dragon Saber, Sama Pyo—the Young Sect Leader of the Black Dragon Demon Gate. And the huge fellow beside him is the monster who crushed Blood Cudgel’s skull seven days and nights ago.”
 
-“I heard he got into a fight with the Hwangbo Family’s Lesser Family Head earlier. Making trouble like that at a time like this… Tsk, tsk.”
+“I heard they got into a fight with the Hwangbo Family’s Lesser Family Head earlier. Causing trouble over and over at a time like this… Tsk, tsk.”
 
 “Leave them be. What else would you expect from demonic, heterodox practitioners? We need even their help to drive out Dark Heaven.”
 
@@ -64,7 +64,7 @@ Sama Pyo slowed.
 
 *—Like him. Very strong. Good. Taishan praised him.*
 
-Sama Pyo gazed at Taishan’s profile as the giant strode along excitedly.
+Sama Pyo watched the giant stride along, plainly delighted.
 
 Taishan had been born with outstanding martial talent and divine strength, but an accident long ago had injured his head and left him much like a child. Perhaps because he remembered the accident, he was wary of strangers and slow to trust anyone but Sama Pyo.
 
@@ -88,9 +88,7 @@ But…
 
 Blazing Flame Divine Dragon Jin Taekyung.
 
-Although their meeting had been brief, Sama Pyo had realized one thing for certain.
-
-His astonishing martial power, which far surpassed that of any young prodigy, was one reason. But what made him feel even more extraordinary was his attitude—the way he differed from everyone else.
+Their meeting had been brief, but Sama Pyo had learned enough to know Taekyung was special. His martial prowess far surpassed that of a young prodigy. More striking still was the way he treated Sama Pyo.
 
 Their conversation from moments ago came back to him.
 
@@ -116,7 +114,7 @@ His lips moved soundlessly around the thought. Then he turned to Taishan.
 
 *—If you had to fight Blazing Flame Divine Dragon Jin Taekyung, what would you do?*
 
-Then a Sound Transmission arrived without the slightest hesitation.
+In an instant, Taishan’s cheerful face went rigid. His answer came without the slightest hesitation.
 
 *—Taishan owes Lord a great debt. If Lord commands it, Taishan fights anyone.*
 
@@ -150,11 +148,11 @@ Sama Pyo stopped dead. Taishan noticed and tilted his head.
 
 “Lord?”
 
-“No. Was she really that pretty?”
+“It’s nothing. Was she really that pretty?”
 
 “Yes. Pretty and good.”
 
-“They say you can see ten fathoms into the water, but not one fathom into a person’s heart. How could you know what was hidden inside her after seeing only her face for a moment?”
+“They say you can know the depths of deep water, but not the depths of a person’s heart. How could you know what she’s like from one look at her face?”
 
 Taishan shook his head fiercely.
 
@@ -164,17 +162,17 @@ Taishan shook his head fiercely.
 
 “Admit it! Taishan is right! Pretty means good!”
 
-“Whew. You damned fool. I’m going on ahead.”
+“Whew. Damn you. I’m going on ahead.”
 
 “Lord! Lord!”
 
-Sama Pyo walked away, leaving Taishan’s desperate cries behind him. His face was as dry and expressionless as sand.
+Sama Pyo left Taishan’s plaintive calls behind. His face was as dry as sand.
 
 *Ju Hwaran… I never expected to meet her here.*
 
-The woman who had been his fiancée, if only for a short time—Dagger Hidden Flower Ju Hwaran—would consider everything connected to him an ill-fated relationship.
+Whether it was coincidence or fate, he couldn’t say. One thing, though, was certain: Dagger Hidden Flower Ju Hwaran, who had been his fiancée for a short time, would think of everything connected to him as an ill-fated tie.
 
-*An ill-fated relationship… It wouldn’t be wrong.*
+*An ill-fated tie… She wouldn’t be wrong.*
 
 His gaze turned cold.
 
@@ -182,7 +180,7 @@ His gaze turned cold.
 
 The rest of the meal went smoothly. The innkeeper gave us a lavish send-off, everyone else kept staring, and outside the inn we exchanged farewells.
 
-No. To be precise, it would be more accurate to say that Ju Hwaran said farewell to us.
+No, to be precise, Ju Hwaran tried to say goodbye to us.
 
 “I should get going. I have some Escort Bureau matters to take care of.”
 
@@ -240,8 +238,6 @@ Hwaran smiled and turned away. Her fine, silken hair swayed, carrying a faint fr
 
 I stood watching the two of them walk away.
 
-That was when—
-
 “This guy really is a fucking idiot.”
 
 “Wow. You’re something else, Captain.”
@@ -250,11 +246,11 @@ That was when—
 
 I didn’t need to turn to know who’d spoken. I looked at Gung Gibang and Hyuk Mujin with a mournful gaze.
 
-“Where did I go wrong, and when?”
+“Where did it all go wrong?”
 
 They answered at the same time, as if they’d been waiting.
 
-“Since you spat food in Young Lady Ju’s face.”
+“When you spat food in Young Lady Ju’s face.”
 
 “Wasn’t Captain himself the problem from the start?”
 
@@ -262,7 +258,7 @@ Different answers, but they had two things in common: both pissed me off, and bo
 
 “Damn it.”
 
-Honestly, I felt a little aggrieved. How was I supposed to have stayed calm in that situation?
+I kicked at the innocent ground. Honestly, I felt a little wronged. How was I supposed to stay calm after hearing that?
 
 *A fiancé, out of nowhere.*
 
@@ -270,7 +266,7 @@ Just thinking about it made my head spin. Forget a grenade—that was a ballisti
 
 “I told you not to ask,” Gung Gibang said.
 
-“If I’d known it would be like this, I wouldn’t have asked. Besides, Young Lady Ju brought it up first.”
+“If I’d known it was this, I wouldn’t have. Besides, Young Lady Ju brought it up first.”
 
 “Because you made it so obvious you wanted to know.”
 
@@ -312,15 +308,15 @@ Gung Gibang and Hyuk Mujin gave me warm smiles.
 
 “…”
 
-*I get it, so stop it, you fucking bastards.*
+*I get it. Shut up, you fucking bastards.*
 
 I wanted to beat the hell out of them, but I didn’t have the energy. Trudging along was about all I could manage. I couldn’t even be bothered to hide my face beneath my crooked bamboo hat, let alone care when people recognized me.
 
 “Th-that man, could he be…?”
 
-“Gasp! It is! It’s Blazing Flame Divine Dragon Jin Taekyung!”
+“Oh! It is! Blazing Flame Divine Dragon Jin Taekyung!”
 
-“But why is he walking like that?”
+“Why does he look like that?”
 
 “How would I know?”
 
