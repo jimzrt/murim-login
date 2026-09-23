@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "They held undisguised shock and the fear of someone who’d glimpsed something beyond comprehension.\n\nAlong with a sight before us that was impossible to believe.",
+      "defect": "The second sentence is a dangling fragment that appears to make the physician’s eyes hold the sight before the group.",
+      "id": "C01",
+      "rationale": "Separates his reaction from what the group sees without changing either beat.",
+      "replacement": "They held undisguised shock and the fear of someone who’d glimpsed something beyond comprehension.\n\nBefore us lay a sight impossible to believe.",
+      "severity": "minor",
+      "source": "Chapter 910, Divine Physician’s reaction"
+    },
+    {
+      "confidence": 0.82,
+      "current": "They weren’t stiff or slow like jiangshi, nor were they weak like undead.",
+      "defect": "The unqualified comparison treats jiangshi and undead as separate kinds of creature, though this passage has just presented them as different terms for the risen dead.",
+      "id": "C02",
+      "rationale": "Makes the contrast one of expected traits versus these unusually capable corpses, preserving the established distinction between Jeok’s and Jin’s terms.",
+      "replacement": "They weren’t stiff or slow like the jiangshi of legend, nor were they weak like ordinary undead.",
+      "severity": "minor",
+      "source": "Chapter 913, description of the attacking corpses"
+    },
+    {
+      "confidence": 0.97,
+      "current": "So Gyo has revealed power comparable to Jeok Cheongang's and stopped the Eastern Heaven Demon Lord; her identity remains unknown.",
+      "defect": "The active state omits Chapter 914’s reveal that an injury inflicted by So Gyo forced the Demon Lord to become a jiangshi. “Stopped” also overstates her interruption of his charge.",
+      "id": "C03",
+      "rationale": "Retains a consequential explanation of his survival while accurately describing the confrontation’s current state.",
+      "replacement": "So Gyo has revealed power comparable to Jeok Cheongang's and halted the Eastern Heaven Demon Lord's charge; her identity remains unknown. An Internal Injury she inflicted on him never healed, forcing him to turn himself into a jiangshi.",
+      "severity": "major",
+      "source": "Durable state, active_continuity entry about So Gyo"
+    }
+  ],
+  "summary": "The reading copies are largely consistent. Two passages need clearer prose or terminology, and the active state drops a consequential reveal from Chapter 914.",
+  "version": 1
+}

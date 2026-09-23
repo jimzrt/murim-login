@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "And that day, the young man became a Demon Lord.",
+      "defect": "魔軍 refers to a demonic army or force, not the Demon Lord title. The draft gives him a title at this point rather than saying he joined that force.",
+      "id": "F01",
+      "rationale": "The source explicitly writes 魔軍, whereas Demon Lord would require a different character for 군.",
+      "replacement": "And that day, the young man became part of the demonic army.",
+      "severity": "critical",
+      "source": "그리고 그날, 청년은 마군(魔軍)이 되었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Who the hell are you?”",
+      "defect": "The translation drops the gendered insult in 네년.",
+      "id": "F02",
+      "rationale": "His address is contemptuous and specifically directed at a woman, not merely a generic expletive.",
+      "replacement": "“Who the hell are you, woman?”",
+      "severity": "major",
+      "source": "도대체, 네년은 누구냐."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His Disciple Ma Sanbao and the masters of the Twelve Palaces of the Zodiac, returned from the dead, flanked him on either side",
+      "defect": "The draft turns one resurrected master into multiple masters.",
+      "id": "F03",
+      "rationale": "고수를 is singular here; Ma Sanbao and that master occupy the two flanking positions.",
+      "replacement": "His Disciple Ma Sanbao and a master of the Twelve Palaces of the Zodiac, returned from the dead, flanked him on either side",
+      "severity": "critical",
+      "source": "제자인 마삼보와 죽음에서 부활한 황도십이궁의 고수를 좌우로 거느린 채"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Hey, you ugly-ass bastard. If you’re not too busy, spare us a little time.”",
+      "defect": "“Bastard” replaces the deliberately familiar, mocking 오빠, while “us” adds an addressee-side plural absent from the request.",
+      "id": "F04",
+      "rationale": "The speaker uses a provocative older-brother address alongside strong profanity and asks him to make time.",
+      "replacement": "“Hey, ugly-ass big bro. If you’re not too busy, make some time for me.”",
+      "severity": "major",
+      "source": "거기 존나 못생긴 오빠. 많이 안 바쁘면 시간 좀 내주라."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“If you bite down on a sword and kill yourself right now, I might consider telling you once.”",
+      "defect": "“Once” attaches to telling him, rather than to her willingness to consider telling him.",
+      "id": "F05",
+      "rationale": "한 번 정도는 고민해 볼게 qualifies the consideration, not the number of times she would answer.",
+      "replacement": "“If you bite down on a sword and kill yourself right now, I might think about telling you.”",
+      "severity": "minor",
+      "source": "지금이라도 칼 물고 자결하면, 그럼 한 번 정도는 고민해 볼게."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes one affiliation into a title, pluralizes a single fighter, and flattens two pointed forms of address.",
+  "version": 1
+}
