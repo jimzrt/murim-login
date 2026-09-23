@@ -1291,3 +1291,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 척 헤이글 | 필릭스 | older_operative_to_prince | Prince | irritable-casual | Chuck responds to Felix's call with an irritated form of address. |
 | 최민우 | 필릭스 | allied_operations_lead_to_prince | Your Highness | polite-formal | Choi greets Felix during the secret meeting. |
 | 최 팀장 | 진태경 | senior_team_leader_to_junior_Hunter | Mr. Jin Taekyung | formal-polite | Team Leader Choi wakes Taekyung and checks whether he is all right. |
+| 리암 | 선배님 | younger former civilian survivor addressing an older veteran | Senior | formal-polite | Liam greets the veteran he remembers from the Defense of Frankfurt. |

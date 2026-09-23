@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Even Magic Johnson, who had enjoyed remarkable achievements and widespread popularity, was a level below Cheon Taemin when it came to fame and reputation.",
+      "defect": "The draft makes Cheon Taemin the person Magic Johnson cannot rival, but the surrounding internal monologue refers to Michael Silbert’s own fame and name. This changes the basis of Michael’s conclusion that he is the only viable candidate remaining.",
+      "id": "F01",
+      "rationale": "The possessive 그의 points to Michael within his self-aggrandizing internal monologue, immediately before he concludes that only he remains.",
+      "replacement": "Even Magic Johnson, despite his remarkable achievements and widespread popularity, could not compare to Michael Silbert in fame or reputation.",
+      "severity": "critical",
+      "source": "뛰어난 업적과 대중적인 인기를 누려 온 매직 존슨조차 그의 명성과 이름 앞에서는 한 수 아래다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Crack.\n\nA sound rang out as the bones in the fist he had clenched without realizing it shifted out of place.",
+      "defect": "The draft turns Michael’s tightening handshake grip into a separately clenched fist, obscuring that he is crushing the follower’s hand—the action that directly causes the follower’s pain and protest.",
+      "id": "F02",
+      "rationale": "손아귀 denotes his grip, and the following lines establish that Michael is still shaking the follower’s hand when he releases the pressure.",
+      "replacement": "Crack.\n\nA sound rang out from his unconsciously tightening grip as bones shifted out of place.",
+      "severity": "major",
+      "source": "꾸국.\n\n자신도 모르는 사이에 힘이 들어간 손아귀에서 뼈가 어긋나는 소리가 울려 퍼진 그때."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His grandson, who had inherited nothing but Cheon Taemin’s bloodline?",
+      "defect": "The draft drops the explicit maternal-line kinship encoded by 외손자.",
+      "id": "F03",
+      "rationale": "외손자 specifically means a daughter’s son, not merely an unspecified grandson.",
+      "replacement": "His maternal grandson, whose only claim was sharing Cheon Taemin’s blood?",
+      "severity": "major",
+      "source": "단지 그의 핏줄을 이은 것뿐인 외손자?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Whether you wanted it or not, whether you welcomed it or not, only one person remains in the end.*",
+      "defect": "The draft adds a second invented contrast, “whether you welcomed it or not,” which is not present in the source and redundantly expands Michael’s thought.",
+      "id": "F04",
+      "rationale": "원했던, 원치 않았던 is a single wanted-it-or-not contrast.",
+      "replacement": "*Whether you wanted it or not, only one person remains in the end.*",
+      "severity": "minor",
+      "source": "‘당신들이 원했던, 원치 않았던. 남은 건 결국 한 사람뿐이다.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "*But… I should always prepare for the possibility of failure.*",
+      "defect": "The draft narrows the unspecified contingency to failure, adding a particular outcome Michael does not name.",
+      "id": "F05",
+      "rationale": "만일 means an eventuality or contingency here; the source does not explicitly frame it as Michael’s failure.",
+      "replacement": "*But… one should always prepare for contingencies.*",
+      "severity": "minor",
+      "source": "‘하지만…… 언제나 만일을 대비해야겠지.’"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it contains one critical subject error in Michael’s comparison, plus localized losses of kinship specificity and action clarity.",
+  "version": 1
+}
