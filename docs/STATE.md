@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 885
-- Next chapter: 886
-- Current block: 885–889 (1/5)
-- Latest translation: `translations/0885.md`
-- Latest summary: `summaries/beats/0885.md`
-- Safe profiles through: chapter 885
+- Last completed: 886
+- Next chapter: 887
+- Current block: 885–889 (2/5)
+- Latest translation: `translations/0886.md`
+- Latest summary: `summaries/beats/0886.md`
+- Safe profiles through: chapter 886
 
 ## Current Block
 
-- While crossing the imperial palace grounds, Taekyung recognizes that laborers hauling banquet supplies are concealed martial artists. Their elderly leader admits they are working with Eunuch Ma and tells Taekyung to return and wait rather than draw attention. Taekyung realizes the disguised group are assassins and wonders why Ma brought them into the palace. A woman’s voice tells him to stop.
+- Taekyung finds himself in an abandoned imperial forbidden ground where the late Emperor and direct imperial relatives were once confined after the rebellion. So Gyo explains that she is there to find someone and asks how long Taekyung has practiced martial arts. He lies that it has been fifteen years; So Gyo sees through him, reveals movement skill beyond First Rate, and says the imperial family’s intelligence network is why she remains there.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Will the banquet become a confrontation, and what does the Emperor intend?
 - Did the Emperor or Dark Heaven use Blood Soul Gu against the late Emperor and the City Lord of Sichuan Province?
 - Who is the person Ma Sanbao’s allies asked about, and what preparations has the faction made?
-- Who is the familiar young man who approached Jeong Hogun, and what will happen when Hogun questions Taishan?
+- Who is So Gyo searching for?
 
 ## Exceptional Decision
 

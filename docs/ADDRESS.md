@@ -1392,3 +1392,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 홍진 | 정호군 | Embroided Uniform Guard officers of equal rank | Thousand Captain Jeong | polite and direct | Hong Jin addresses Jeong Hogun by rank and surname. |
 | 정호군 | 기녀 | guard officer addressing a courtesan under examination | you | formal and controlled | He tells her that she knows the reason for the questioning and asks whether she will explain herself. |
 | 정호군 | 태산 | guard officer questioning a performer | you | blunt and direct | He calls Taishan forward and asks whether he belongs to the circus troupe. |
+| 진태경 | 소교 | palace attendant and martial artist under imperial scrutiny | you | formal-polite, controlled and challenging | Taekyung addresses So Gyo as 당신 while questioning her presence and demanding an explanation. |

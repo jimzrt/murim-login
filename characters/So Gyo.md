@@ -1,8 +1,8 @@
 # So Gyo (소교)
 
-- **Safe through:** Chapter 875
+- **Safe through:** Chapter 886
 - **Aliases:** None
-- **Role:** A palace attendant loyal to the Emperor who leads the attendants assigned to Prince Shangshan.
+- **Role:** A palace attendant loyal to the Emperor who leads the attendants assigned to Prince Shangshan; her movement skill is beyond First Rate, and she is searching for someone she must find.
 - **Personality:** Loyal and vigilant, she remains controlled while firmly enforcing the Emperor’s orders.
 - **Voice:** Measured and formal, using deferential official phrasing that can turn into pointed warnings.
 - **Relationships:** She serves the Emperor and leads the palace attendants assigned to Prince Shangshan.
