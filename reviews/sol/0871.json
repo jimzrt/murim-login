@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Jeong Hogun led Prince Shangshan and me along behind one of the middle-aged twins whose names I didn’t know, and sent us a brief Sound Transmission.",
+      "defect": "Jeong leads them to the twins, not along behind one twin.",
+      "id": "F01",
+      "rationale": "쌍둥이 중년인에게 나와 상산왕을 인도하며 makes the twins the people to whom Jeong brings the pair.",
+      "replacement": "Jeong Hogun led Prince Shangshan and me over to the middle-aged twins, whose names I didn’t know, and sent us a brief Sound Transmission.",
+      "severity": "critical",
+      "source": "정호군은 이름 모를 쌍둥이 중년인에게 나와 상산왕을 인도하며 짧은 전음을 남겼다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "What the hell was he trying to scare us for?",
+      "defect": "Changes the accusation from insulting or messing with someone to trying to frighten them, while softening the insult.",
+      "id": "F02",
+      "rationale": "누굴 놀리나 questions whom Jeong thinks he is fooling; 시벌놈이 is a direct, strong insult.",
+      "replacement": "Who the fuck did that bastard think he was kidding?",
+      "severity": "major",
+      "source": "시벌놈이 누굴 놀리나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I clenched my teeth to hold back a sigh.",
+      "defect": "Replaces biting his lip with clenching his teeth.",
+      "id": "F03",
+      "rationale": "입술을 질끈 깨물었다 explicitly describes biting his lip.",
+      "replacement": "I bit my lip hard to hold back a sigh.",
+      "severity": "critical",
+      "source": "나는 흘러나오려는 한숨을 삼키기 위해 입술을 질끈 깨물었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The middle-aged man gazed at Prince Shangshan, his face set, and at me, standing at an angle to shield him. Only when the echoes had faded did he speak.",
+      "defect": "The placement of “his face set” makes it appear to describe the middle-aged man rather than Prince Shangshan.",
+      "id": "F04",
+      "rationale": "굳은 얼굴을 한 modifies 상산왕; the man's expression is not specified there.",
+      "replacement": "The middle-aged man gazed at the tense-faced Prince Shangshan and at me, standing slightly in front of him to shield him. Only when the echoes had faded did he speak.",
+      "severity": "major",
+      "source": "굳은 얼굴을 한 상산왕과 비스듬히 그 앞을 가로막은 나를 물끄러미 바라보던 중년인이 입을 연 것은 메아리가 사라진 그때였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I forgot to mention that the accounts I heard were considerably more flattering than the truth.",
+      "defect": "Reverses who softened the account: the speaker toned down his own description of Jin, not the reports he heard.",
+      "id": "F05",
+      "rationale": "The speaker is qualifying his immediately preceding description against the harsher things reported to him.",
+      "replacement": "I forgot to mention that ‘making people laugh’ was a considerably toned-down version of what I’d heard.",
+      "severity": "major",
+      "source": "전해 들은 여러 말에서 상당히 순화했다는 표현을 깜빡했군."
+    },
+    {
+      "confidence": 0.95,
+      "current": "He opened a golden door decorated with jewels without the slightest hesitation, then spoke.",
+      "defect": "Makes the door itself golden and omits its silver decoration.",
+      "id": "F06",
+      "rationale": "금은보화로 장식된 describes a door decorated with gold, silver, and treasures, not necessarily one made of gold.",
+      "replacement": "He threw open the door before them, decorated with gold, silver, and jewels, without the slightest hesitation, then spoke.",
+      "severity": "critical",
+      "source": "어느덧 앞을 가로막은, 금은보화로 장식된 문을 망설임 없이 열어젖힌 그가 입을 열었다."
+    }
+  ],
+  "summary": "Several action, subject, and register changes need correction; the remaining terminology warnings do not establish defects.",
+  "version": 1
+}

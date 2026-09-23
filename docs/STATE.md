@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 870
-- Next chapter: 871
-- Current block: 870–874 (1/5)
-- Latest translation: `translations/0870.md`
-- Latest summary: `summaries/beats/0870.md`
-- Safe profiles through: chapter 870
+- Last completed: 871
+- Next chapter: 872
+- Current block: 870–874 (2/5)
+- Latest translation: `translations/0871.md`
+- Latest summary: `summaries/beats/0871.md`
+- Safe profiles through: chapter 871
 
 ## Current Block
 
-- Jin Taekyung learns that only he and Prince Shangshan have been summoned to meet the Emperor. Jeong Hogun makes clear that refusing the summons would mean being sent to the Embroidered Uniform Guard’s prison. As the procession crosses the palace, Taekyung sees bloodied officials being taken away for failing to predict the previous night’s storm, and observes how fear governs the palace. With the System and Inventory unavailable, no divine weapons at hand, and his illness dependent on the Divine Physician’s foul-smelling pills, Taekyung prepares for the worst while escorting the prince. Two identical Supreme Peak masters block their way at the chapter’s end.
+- Jeong Hogun warns Jin Taekyung and Prince Shangshan to watch every word and move as the twin Supreme Peak masters escort them deeper into Qianqing Palace. Taekyung notices Shangshan trembling, recognizes his own childhood grief in the boy’s fear, and comforts him with a pat on the head. After the twins leave them at an iron door, a gaunt Supreme Peak master guides them onward, trades jokes with Taekyung, and claims the Emperor is enjoying a diversion. At the bedchamber, he announces that he has delivered the two people summoned by imperial command, but no one else is present; he turns to them with a smile and says he enjoyed the brief diversion.
 
 ## Open Questions
 
-- What does the Emperor intend for Prince Shangshan and Taekyung?
+- Who is the gaunt Supreme Peak guide, and what does he mean by having enjoyed a diversion?
+- Where is the Emperor, and what does he intend for Prince Shangshan and Taekyung?
 - Who are the twin Supreme Peak masters, and why have they blocked the procession?
 - Will Taekyung agree to help Ma Sanbao enthrone Prince Shangshan, and what would the plan require?
 - What does Ma Sanbao know about Dark Heaven, and what reward is he offering?
-- Who sent the assassin to Qianqing Palace, and what was the intended target?
 
 ## Exceptional Decision
 
