@@ -1285,3 +1285,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | trusted allied friend and comrade | you | plain and resolute | The Skeleton King argues directly with Jin about accepting his identity as a monster and publicly erasing him. |
 | 진태경 | 최 팀장 | trusted_allied_team_leader | Team Leader Choi | polite honorific with teasing familiarity | Jin addresses Choi as 팀장님 while telling him to put away the Hero's Sword and calm the people outside. |
 | 매직 존슨 | 진 | allied_Grand_Mage_to_younger_ally | Jin | casual and familiar | Magic Johnson repeatedly addresses Jin as 진 while urging him to deal with the nosebleed and explain the fourth path. |
+| 선지자 | 미카엘 실베르트 | secret terrorist ally or collaborator | Michael | neutral and enigmatic | The Prophet speaks directly to Michael through the magic mirror while praising his speech. |

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The incitement, the speech, and the declaration were over.",
+      "defect": "The draft presents three separate things ending, whereas the source describes one act as simultaneously incitement, a speech, and a declaration.",
+      "id": "F01",
+      "rationale": "The constructions 선동이자 and 연설이며 identify multiple aspects of the same act rather than items in a list.",
+      "replacement": "The incitement—at once a speech and a declaration—was over.",
+      "severity": "minor",
+      "source": "선동이자, 연설이며, 선언이 끝났다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The back of a hero who had always seemed so strong was this beautiful.\n\nThe back of him.",
+      "defect": "The rendering is unnatural English and blunts the repeated 뒷모습 punchline contrasting the hero’s public appearance with what is seen after he turns away.",
+      "id": "F02",
+      "rationale": "The repetition of 뒷모습 is deliberate and should land as a short corrective punchline rather than the unidiomatic phrase “the back of him.”",
+      "replacement": "A hero who had always seemed so strong could look this beautiful from behind.\n\nFrom behind, that is.",
+      "severity": "minor",
+      "source": "언제나 강해 보였던 영웅의 뒷모습은 이토록 아름다웠다.\n\n뒷모습은."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A sudden heat reached me from far away, making me feel as though my entire body were standing on end.",
+      "defect": "The literal construction makes Michael’s entire body seem to stand upright rather than conveying the physical sensation of bristling or getting goose bumps.",
+      "id": "F03",
+      "rationale": "전신이 곤두설 것 같았다 describes a whole-body bristling reaction, naturally expressed in English through hair standing on end.",
+      "replacement": "The sudden heat reaching me from so far away made every hair on my body stand on end.",
+      "severity": "minor",
+      "source": "갑작스럽게 저 멀리서 전해지던 열기에 전신이 곤두설 것 같았지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "According to the watchers’ report, the area was shaken not long after the Skeleton King left the hotel.",
+      "defect": "The draft changes the source title “Stone King” to “Skeleton King” and omits that he was the first to leave.",
+      "id": "F04",
+      "rationale": "The source explicitly says 스톤 킹 and 먼저; changing a proper title and dropping the sequence marker alters both identification and event order.",
+      "replacement": "According to the watchers’ report, the Stone King left the hotel first, and the surrounding area shook not long afterward.",
+      "severity": "critical",
+      "source": "감시원들의 보고에 따르면, 스톤 킹이 먼저 호텔을 빠져나가고 얼마 지나지 않아 인근이 뒤흔들렸다고 합니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“The monster left first. What else?”",
+      "defect": "The declarative wording loses Michael’s repetition of the report as newly received information.",
+      "id": "F05",
+      "rationale": "The ending -다라 reflects Michael turning the reported detail over questioningly before asking for additional information.",
+      "replacement": "“The monster left first, you say? What else?”",
+      "severity": "minor",
+      "source": "“몬스터가 먼저 나갔다라, 그 밖에는?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even if he was remembered as one of the heroes of the Great Cataclysm, there had been many walls standing in his way.",
+      "defect": "“Even if” makes Michael’s status as a remembered hero sound hypothetical, although the source treats it as an established fact and contrasts it with the obstacles he still faced.",
+      "id": "F06",
+      "rationale": "Here -었어도 is concessive—“although” or “even though”—not a conditional casting doubt on his reputation.",
+      "replacement": "Though he was remembered as one of the heroes of the Great Cataclysm, many walls still stood in his way.",
+      "severity": "major",
+      "source": "대격변의 영웅 중 한 사람으로 기억되었어도 그를 가로막는 벽은 많았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The scenery of the spacious room, the various pieces of furniture and equipment placed here and there, and finally the person himself all changed.",
+      "defect": "“The person himself” implies that Michael physically transforms, while the source describes the person shown within the mirror changing along with the reflected surroundings.",
+      "id": "F07",
+      "rationale": "The preceding sentence locates everything within the rippling mirror, and the resulting image contains darkness and the robed Prophet; the transformation is of the mirror’s contents, not Michael’s body.",
+      "replacement": "The spacious room changed, along with the furniture and fixtures scattered throughout it. Finally, the person reflected there changed as well.",
+      "severity": "critical",
+      "source": "넓은 방 안의 풍경도, 군데군데 놓인 각종 가구와 집기도. 마지막으로 사람도 변했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hope that someone would protect them and the people precious to them from those monsters.",
+      "defect": "The draft changes the singular 저 괴물 into plural “those monsters,” altering the specific threat the public hopes to be protected from.",
+      "id": "F08",
+      "rationale": "저 괴물 is explicitly singular and demonstrative; both the number and specificity must be retained.",
+      "replacement": "Hope that someone would protect them and their loved ones from that monster.",
+      "severity": "critical",
+      "source": "누군가가 저 괴물로부터 자신들을, 소중한 사람들을 지켜 주리라는 희망."
+    }
+  ],
+  "summary": "The draft contains several fidelity errors affecting a proper title, a confirmed historical fact, the mirror’s mechanism, and the number of monsters referenced, plus localized losses of nuance and naturalness.",
+  "version": 1
+}
