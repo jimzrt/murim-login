@@ -1293,3 +1293,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | senior_team_leader_to_junior_Hunter | Mr. Jin Taekyung | formal-polite | Team Leader Choi wakes Taekyung and checks whether he is all right. |
 | 리암 | 선배님 | younger former civilian survivor addressing an older veteran | Senior | formal-polite | Liam greets the veteran he remembers from the Defense of Frankfurt. |
 | 최민우 | 선배님들 | junior Hunter addressing senior Hunters | Seniors | polite and respectful | Choi acknowledges the elders’ feelings while explaining that he once shared their disbelief. |
+| 진태경 | 스켈레톤 킹 | friends; the Skeleton King calls Jin his first friend | you | casual and insulting, with affectionate familiarity | Jin calls the King a dumbass and trades teasing insults with him. |
+| 스켈레톤 킹 | 진태경 | first friend | you | casual and insulting, with affectionate familiarity | The King calls Jin a crafty human, a lunatic, and an attention-seeking bastard. |
+| 진태경 | 최 팀장 | Hunter addressing the team leader managing the gathering | Team Leader Choi | casual and teasing | Jin asks whether Choi will manage him and jokes with him about the disrupted plan. |
+| 최 팀장 | 진태경 | team leader addressing Jin Taekyung | Jin Taekyung | polite, exasperated | Choi addresses Jin as 진태경 씨 while complaining about his disregard for the plan. |
