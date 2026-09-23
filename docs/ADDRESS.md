@@ -1358,3 +1358,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 적천강 | 호위장 | martial artist to official subordinate | you; bastard | blunt and threatening | Jeok uses familiar, insulting address while interrogating the Captain of the Guards. |
 | 호위장 | 적천강 | official subordinate to senior martial artist | Sir | deferential | The Captain shifts to respectful speech after sensing Jeok’s status and danger. |
 | 호위장 | 남호 | government guard captain to visiting martial artist | Great Hero Nam | formal and courteous | The Captain of the Guards identifies Namho by his title while recognizing him among Jin Taekyung’s companions. |
+| 적천강 | 멸절신니 | senior martial master to Emei Sect Leader | old hag | blunt and insulting | Jeok calls her 할망구 and trades deliberately provocative barbs with her. |
+| 멸절신니 | 적천강 | Emei Sect Leader to legendary martial master | Benefactor Jeok | familiar-polite | She addresses him as 적 시주 and answers his insults with composed reproach. |
+| 진태경 | 멸절신니 | younger martial artist to Emei Sect Leader | Venerable Nun; Sect Leader | polite and deferential | Jin addresses her as 신니, then corrects himself to 장문인. |
