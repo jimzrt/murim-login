@@ -1,6 +1,6 @@
 # Lee Jungryong (이정룡)
 
-- **Safe through:** Chapter 734
+- **Safe through:** Chapter 737
 - **Aliases:** None
 - **Role:** Former Vice Guild Master of Ares Guild, one of Korea's two S-rank Hunters, and a Supreme Peak-level martial artist who was killed by Jin Taekyung.
 - **Personality:** Outwardly genial, calm, and humorous; calculating, opportunistic, manipulative, coercive, and ruthless when challenged

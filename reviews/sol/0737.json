@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "People loved Michael Silbert for saving them at the cost of his own life.",
+      "defect": "The draft says Michael gave up his life and therefore died. The Korean means he risked or devoted his life to saving people.",
+      "id": "F01",
+      "rationale": "목숨 바쳐 describes risking or dedicating one’s life, not necessarily dying, and Michael is alive in the scene.",
+      "replacement": "People loved Michael Silbert, who had risked his life to save them.",
+      "severity": "critical",
+      "source": "사람들은 목숨 바쳐 자신들을 구해 준 미카엘 실베르트를 사랑했고, 나 역시 그를 동경했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A man standing atop the hot, ash-covered ruins, staring blankly in my direction.",
+      "defect": "“Blankly” assigns Michael a vacant expression absent from the source; 물끄러미 indicates a steady, silent gaze.",
+      "id": "F02",
+      "rationale": "The source describes the sustained manner of his gaze, not mental blankness.",
+      "replacement": "A man standing atop the heat-soaked ash and ruins, gazing steadily in my direction.",
+      "severity": "minor",
+      "source": "뜨거운 열기를 머금은 잿더미와 폐허 위, 물끄러미 이쪽을 응시하는 한 남자를."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Let me give you one piece of advice. There are no perfect secrets in this world. Not even if you’re the Pentagon.”",
+      "defect": "“If you’re the Pentagon” unnaturally treats the institution as the addressee rather than saying even the Pentagon cannot keep a perfect secret.",
+      "id": "F03",
+      "rationale": "설령 펜타곤이라 할지라도 extends the claim about secrecy to the Pentagon.",
+      "replacement": "“Let me give you one piece of advice. There are no perfect secrets in this world—not even in the Pentagon.”",
+      "severity": "minor",
+      "source": "한 가지 충고해 주지. 이 세상에 완전한 비밀은 없어. 설령 펜타곤이라 할지라도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Considering that our opponents were insane fanatics, it was a perfectly reasonable transaction. I wanted payment for ignoring my warning, and they wanted a weapon with which to take revenge.”",
+      "defect": "“Our opponents” incorrectly casts the fanatics as shared enemies. Here 상대 means the other party to Michael’s transaction, and the payment is specifically the price they owed for disregarding his warning.",
+      "id": "F04",
+      "rationale": "Michael is explaining the reciprocal bargain through which he armed the fanatics, not identifying them as opponents shared with Jin.",
+      "replacement": "“Considering that the other party was a bunch of insane fanatics, it was a perfectly reasonable deal. I wanted them to pay for ignoring my warning, and they wanted a weapon for revenge.”",
+      "severity": "major",
+      "source": "상대가 정신 나간 광신도들인 것을 감안하면 아주 합리적인 거래였지. 나는 경고를 무시한 대가를, 그들은 복수를 위한 무기를 원했으니."
+    },
+    {
+      "confidence": 0.9,
+      "current": "The space before my eyes grew scorching hot.",
+      "defect": "The draft awkwardly turns Jin’s heated vision into an externally defined physical space.",
+      "id": "F05",
+      "rationale": "눈앞 here describes Jin’s immediate visual perception as his anger and qi flare, not a separately identified area of space.",
+      "replacement": "My vision burned hot.",
+      "severity": "minor",
+      "source": "눈앞이 뜨겁게 달아올랐다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If this were a mouth that could be torn apart so easily, someone else would have done it hundreds of times by now. But do you know something?”",
+      "defect": "“If this were a mouth” is an unnatural literal construction that obscures Michael’s reference to his own mouth.",
+      "id": "F06",
+      "rationale": "The possessive is clear from the exchange and produces natural English without changing the threat.",
+      "replacement": "“If my mouth were that easy to tear apart, someone else would have done it hundreds of times already. But do you know something?”",
+      "severity": "minor",
+      "source": "그렇게 쉽게 찢어질 주둥이였다면 이미 다른 누군가에 의해 수백 번은 찢어졌겠지. 하지만 그거 알고 있나?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I regret that things turned out this way as much as anyone. I personally respect your grandfather, as well. So please be sure to explain the situation to him properly.”",
+      "defect": "The final sentence loses Michael’s pointedly courteous request that Choi speak well of him to Cheon Taemin, which sets up Choi’s cutting promise to report exactly what he witnessed.",
+      "id": "F07",
+      "rationale": "잘 말씀드려 주게 is a request to speak favorably on Michael’s behalf, not merely to explain events correctly.",
+      "replacement": "“I regret that things turned out this way too. I personally respect your grandfather as well. So please put in a good word for me.”",
+      "severity": "major",
+      "source": "일이 이렇게 된 건 나로서도 유감이야. 개인적으로 자네 외조부님을 존경하기도 하고. 그러니 모쪼록 잘 말씀드려 주게."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“We were fortunate. The foreign media were already on high alert because of the release of the new Mana Cultivation Method.”",
+      "defect": "“On high alert” suggests alarm or danger, while the source says the international media were paying close attention.",
+      "id": "F08",
+      "rationale": "촉각을 곤두세우다 here denotes heightened interest and attention surrounding the announcement.",
+      "replacement": "“We were fortunate. The international press was already watching closely because of the release of the new Mana Cultivation Method.”",
+      "severity": "minor",
+      "source": "때마침 새로운 마나 연공법 공개로 외신까지 촉각을 곤두세우고 있었으니까요."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But the bigger problem was that the madmen’s plan was rooted in undeniable reality.",
+      "defect": "The draft changes “their thinking is an undeniable reality” into a claim that their plan is realistic. The source confirms their assessment that the established narrative cannot be overcome by force or unsupported truth-telling.",
+      "id": "F09",
+      "rationale": "생각 refers to what they believe or have concluded, while 현실 confirms that conclusion as the actual situation.",
+      "replacement": "But the bigger problem was that those madmen’s assessment was undeniably true.",
+      "severity": "major",
+      "source": "하지만 더욱 큰 문제는 저 미친놈들의 생각이 부정할 수 없는 현실이라는 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Michael Silbert exchanged a final nod with me, Team Leader Choi, and the Skeleton King before slowly turning away.",
+      "defect": "The draft changes an acknowledging look into a mutual physical nod and misreads 마지막으로 as “final” rather than “lastly.”",
+      "id": "F10",
+      "rationale": "눈인사를 건넨 describes Michael offering a greeting or acknowledgment with his eyes; it does not state that anyone nodded back.",
+      "replacement": "Michael Silbert acknowledged me, Team Leader Choi, and finally the Skeleton King with a glance before slowly turning away.",
+      "severity": "minor",
+      "source": "나와 최 팀장, 마지막으로 스켈레톤 킹에게까지 눈인사를 건넨 미카엘 실베르트는 천천히 돌아섰다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A sudden Quest, **Serial Terrorism**, has been generated!",
+      "defect": "“Serial Terrorism” is an unnatural English Quest title for a linked series of terrorist attacks.",
+      "id": "F11",
+      "rationale": "연쇄 테러 denotes a succession or chain of terrorist attacks rather than the abstract phenomenon “serial terrorism.”",
+      "replacement": "A sudden Quest, **Chain of Terror Attacks**, has been generated!",
+      "severity": "minor",
+      "source": "― 돌발 퀘스트, [연쇄 테러]가 생성되었습니다!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "By the authority of the System, the Quest will proceed by force!",
+      "defect": "“Proceed by force” is an unnatural collocation and weakens the System’s direct enforcement.",
+      "id": "F12",
+      "rationale": "시스템의 권한으로 and 강제 진행 together state that the System itself compels the Quest to continue.",
+      "replacement": "The System will force the Quest to proceed!",
+      "severity": "minor",
+      "source": "― 해당 퀘스트는 승낙 여부를 결정할 수 없습니다. 시스템의 권한으로 퀘스트가 강제 진행됩니다!"
+    }
+  ],
+  "summary": "One critical factual error implies Michael died while saving people. Additional findings concern the terrorists’ role as his transactional counterpart, a weakened threat disguised as courtesy, altered reasoning, physical-action fidelity, and several localized wording issues.",
+  "version": 1
+}

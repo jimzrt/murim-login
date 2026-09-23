@@ -1204,3 +1204,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | senior ally advising Jin | Mr. Jin Taekyung | formal-polite with dry familiarity | Choi repeatedly addresses Jin as 진태경 씨 while challenging his plan. |
 | 스켈레톤 킹 | 진태경 | ally and nonhuman companion addressing Jin | treacherous human | informal and insulting | The Skeleton King addresses Jin as 간악한 인간 while testing whether he has been replaced by a doppelganger. |
 | 미카엘 | 후긴 | Odin Guild Master to personally selected fixer | Huginn | formal, familiar, and commanding | Michael calls Huginn by name while inviting him into the study. |
+| 진태경 | 미카엘 실베르트 | adversarial Hunter to enemy Guild Master | you; you bastard | insulting-casual and openly hostile | Taekyung confronts Michael and threatens him after learning that he caused the disaster. |
+| 미카엘 실베르트 | 진태경 | enemy Guild Master to manipulated adversary | you | polite, condescending, and coercive | Michael addresses Taekyung as 자네 while explaining the consequences of rejecting his proposal. |
+| 최 팀장 | 진태경 | trusted subordinate and manager to Guild Master | Mr. Jin Taekyung | urgent-formal | Choi calls out to Taekyung and restrains him from attacking Michael. |
+| 스켈레톤 킹 | 진태경 | trusted ally to ally | you | terse and cautionary | The Skeleton King tells Taekyung that people are watching and that he must not attack yet. |
+| 최 팀장 | 미카엘 실베르트 | Ares Guild Vice Guild Master to rival Guild Master | you | formal, cold, and controlled | Choi answers Michael's question about Cheon Taemin and states that he will report exactly what he saw and heard. |
+| 미카엘 실베르트 | 최 팀장 | rival Guild Master to young Vice Guild Master | young Vice Guild Master; you | polite, patronizing, and threatening beneath the surface | Michael asks about Choi's maternal grandfather and requests that Choi put in a good word for him. |
+| 후긴 | 미카엘 실베르트 | Odin Guild subordinate to Guild Master | Guild Master | formal and deferential | Huginn reports the casualty count, media preparations, and progress of the terrorist operation. |

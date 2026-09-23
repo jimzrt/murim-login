@@ -2182,3 +2182,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 파리 10구 | **Paris's 10th arrondissement** | Paris district mentioned during the initial tremor. |
 | 매직 스크롤 | **Magic Scroll** | Scroll used for emergency teleportation. |
 | 텔레포트 스크롤 | **Teleport Scroll** | Scrolls used to travel rapidly to Paris. |
+| 런던 | **London** | City targeted in the next terrorist attack. |
+| 버킹엄 궁전 | **Buckingham Palace** | Royal residence mentioned as a location spared by the London attack. |
+| 런던 브릿지 | **London Bridge** | London landmark Michael says will collapse. |
