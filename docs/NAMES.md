@@ -2367,3 +2367,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소주 | **Suzhou** | The party’s destination in Jiangsu Province. |
 | 동창 | **East Depot** | Imperial agency named by Hong Jin. |
 | 백연 | **Baek Yeon** | Commander of the Embroidered Uniform Guard. |
+| 창위 | **Changwei** | Collective term for the East Depot and Embroidered Uniform Guard. |
+| 혈사자 | **Blood Envoy** | Baek Yeon’s sobriquet. |

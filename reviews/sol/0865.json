@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "As everyone stood there, stunned, the fourth prince alone rose to his feet and stepped onto the stage prepared for him, his expression calm.",
+      "defect": "The draft has everyone standing, although the fourth prince alone rises.",
+      "id": "F01",
+      "rationale": "홀로 일어선 singles out the fourth prince’s action; the others are described as shocked, not standing.",
+      "replacement": "As everyone looked on in shock, the fourth prince alone rose to his feet and stepped onto the stage prepared for him, his expression calm.",
+      "severity": "critical",
+      "source": "하나같이 경악을 금치 못하는 좌중 속에서 홀로 일어선 사 황자는 담담한 얼굴로 자신을 위해 준비된 무대에 올랐다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I looked from Hong Jin to the black figure that had appeared in midair, then spoke.",
+      "defect": "“In midair” places the figure above the ground; the source says it appeared out of empty air.",
+      "id": "F02",
+      "rationale": "텅 빈 허공에서 나타난 describes its sudden appearance, not a suspended position.",
+      "replacement": "I looked back and forth between Hong Jin and the black figure that had appeared out of thin air, then spoke.",
+      "severity": "critical",
+      "source": "텅 빈 허공에서 나타난 검은 인영(人影)과 홍진을 번갈아 바라보던 나는 입을 열었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "How did the fourth prince, already pushed out of the line of succession, manage to seize the throne of a Great Nation?",
+      "defect": "“Pushed out of the line of succession” implies he was no longer eligible; the source says he had lost ground in the succession struggle.",
+      "id": "F03",
+      "rationale": "후계 구도에서 밀려난 describes his disadvantaged position, not formal removal from succession.",
+      "replacement": "How did the fourth prince, already sidelined in the struggle for succession, manage to seize the throne of a Great Nation?",
+      "severity": "major",
+      "source": "이미 후계 구도에서 밀려난 네 번째 황자가 어떻게 대국의 황위(皇位)을 손에 넣을 수 있었을까?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Only thirteen—and already able to make the Commander of the Embroidered Uniform Guard, a man who can bring down flying birds, bow his head.",
+      "defect": "The bird image is rendered as a literal ability rather than an expression of the commander’s power.",
+      "id": "F04",
+      "rationale": "나는 새도 떨어트리는 emphasizes formidable influence; the point is that even such a man bows to the prince.",
+      "replacement": "Only thirteen—and already able to make the Commander of the Embroidered Uniform Guard, a man whose influence could knock birds from the sky, bow his head.",
+      "severity": "major",
+      "source": "나는 새도 떨어트리는 금의위 지휘사를 고개 숙이게 만들고"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I failed as a servant because I didn’t realize there was a rebellion, and I was powerless because all I could do was watch it happen.",
+      "defect": "“Servant” makes Hong Jin’s failure sound domestic rather than a failure of duty to his sovereign.",
+      "id": "F05",
+      "rationale": "신하로서 invokes his political duty, while 무능 and 무력 form a deliberate contrast.",
+      "replacement": "I was incompetent as a subject: I failed to detect the treason. And I was powerless: all I could do was watch it happen.",
+      "severity": "major",
+      "source": "역모를 알아차리지 못했으니 신하로서 무능(無能)했고, 그 모든 것을 그저 바라만 볼 수밖에 없었으니 무력(無力)했지."
+    },
+    {
+      "confidence": 0.93,
+      "current": "In fact, when dealing with Jeong Hogun and the other guards, or the East Depot eunuchs, he’d even seemed amused.",
+      "defect": "“Seemed amused” softens his openly scornful reaction.",
+      "id": "F06",
+      "rationale": "비웃음마저 내비쳤었다 indicates that he let his derision show.",
+      "replacement": "In fact, when dealing with Jeong Hogun and the other guards, or the East Depot eunuchs, he’d even shown open contempt.",
+      "severity": "minor",
+      "source": "실제로 정호군을 위시한 여타 금의위들이나 동창의 환관들을 상대하면서도 비웃음마저 내비쳤었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "At a time when you should be bending over backward to please the Emperor, handing him your gallbladder and your liver,",
+      "defect": "The literal organ list appended to an English idiom is awkward and obscures the point.",
+      "id": "F07",
+      "rationale": "간과 쓸개까지 빼 주며 비위를 맞추다 is emphatic imagery for going to extremes to curry favor; the English idiom carries that meaning.",
+      "replacement": "At a time when you should be bending over backward to please the Emperor,",
+      "severity": "minor",
+      "source": "황제에게 간과 쓸개까지 빼 주며 비위를 맞춰야 할 판국에"
+    }
+  ],
+  "summary": "Several passages alter physical staging or political meaning; others flatten Hong Jin’s register or read unnaturally.",
+  "version": 1
+}

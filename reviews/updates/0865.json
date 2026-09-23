@@ -1,0 +1,115 @@
+{
+  "chapter": 865,
+  "files": {
+    "characters/Baek Yeon.md": "971bbe9d19948fb4aea0e62b68fca58e2aae3869427a1c40653f0601221613df",
+    "characters/Divine Physician.md": "ec63215444fe42130f8c7b5d52890ab33b6b6931f2f782fb23ee38ac08b93004",
+    "characters/Hong Jin.md": "02a15fd64a3c5d8163922f4aea207aea5e56383c49bde92113ebf606cde055c6",
+    "characters/Hyuk Mujin.md": "9085360faf76713d6fdfa749331dc5eba8c82470bffb262d3fc353fe2ca87a9e",
+    "characters/Jeong Hogun.md": "6ea17d031e48fd89678663124dff9ee9f94ca2913d210d5692becff9408d9bfd",
+    "characters/Jung Ho.md": "28315a80bbda8b6b9f01ebca580cc12331ba741519eceac9a9e671fa14fca260",
+    "characters/Prince Shangshan.md": "6af5d6c2e203d26c7f6a30d472a72bc2d9259b10a0e4a32d813762724a2fe10e",
+    "docs/CONTEXT.json": "598e88da59845a3a2ca3e9e626fffb22966020806208cf959a8382e10ee656b2",
+    "docs/NAMES.md": "254e3ed5b743b438f8b2efd684a89f59a630ff2ef07a9f703967ee02b375d05a",
+    "docs/STATE.md": "0c97d36bc9b77c34d4c16c9d4904d941fc83e94fdb4f6863d17430b086a375bf",
+    "summaries/beats/0865.md": "576cf657bfd98339da271cc933dcd8ea22ea45b79a19298fc511a95bcc79fff1"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "imperial aide addressing a martial artist accompanying the prince",
+        "normal_address": "Young Master Jin",
+        "notes": "Addresses him as 진 공자; warns him about Baek Yeon and later challenges his reading of Hong Jin’s motives.",
+        "speaker": "홍진",
+        "speech_level": "polite and conversational"
+      },
+      {
+        "addressee": "홍진",
+        "kinship": "martial artist accompanying the prince addressing an imperial aide",
+        "normal_address": "Deputy Military Commissioner",
+        "notes": "Addresses him as 도지휘동지.",
+        "speaker": "진태경",
+        "speech_level": "polite and direct"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Baek Yeon, once trusted by the late Emperor and a martial arts instructor to the Crown Prince, helped the fourth prince seize the throne and led the purge; Hong Jin says 30,000 people were arrested and killed.",
+        "Hong Jin was unable to detect or stop the coup and remains resolved to protect Prince Shangshan, both in fulfillment of the late Emperor’s final wish and out of personal devotion.",
+        "Prince Shangshan is thirteen and has already shown composure in the face of death and the ability to make Baek Yeon bow his head.",
+        "An unidentified guest has entered the pavilion at night, apparently brought there by Hong Jin without the Embroidered Uniform Guard noticing."
+      ],
+      "plot": [
+        "After Prince Shangshan falls asleep, Hong Jin warns Jin Taekyung to keep his distance from Baek Yeon and reveals that Baek led the coup that put the fourth prince on the throne, betraying the late Emperor and Crown Prince and killing 30,000 people in the purge. Hong admits his determination to protect Shangshan is both the late Emperor’s final wish and a personal devotion; Taekyung argues that Shangshan is already a king, not merely a child to be protected. Hong has secretly brought an uninvited guest past the guards, and the stranger appears when the candles go out."
+      ],
+      "translation_decisions": [
+        "Render 창위 as “Changwei,” the collective term for the East Depot and Embroidered Uniform Guard.",
+        "Render 혈사자 as “Blood Envoy,” Baek Yeon’s sobriquet."
+      ]
+    },
+    "chapter": 865,
+    "context": {
+      "active_continuity": [
+        "Prince Shangshan and his party remain inside the imperial palace under surveillance; the Emperor postponed Shangshan’s audience until the next day.",
+        "Baek Yeon helped the fourth prince seize the throne in a coup, betrayed the late Emperor and Crown Prince, and led a purge in which 30,000 people were arrested and killed.",
+        "Hong Jin was unable to detect or stop the coup and is resolved to protect Shangshan in fulfillment of the late Emperor’s final wish and out of personal devotion.",
+        "Shangshan is thirteen and has demonstrated composure in the face of death and the ability to make Baek Yeon bow his head.",
+        "An unidentified guest has entered the pavilion at night, apparently brought there by Hong Jin past the guards."
+      ],
+      "continuity_sources": [
+        865
+      ],
+      "open_questions": [
+        "Who is the uninvited guest Hong Jin brought into the pavilion?",
+        "What does the Emperor intend for Prince Shangshan, and why was his audience postponed?",
+        "What does Hong Jin hope to accomplish by bringing the guest to the pavilion?",
+        "What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?"
+      ],
+      "safe_through": 865,
+      "temporary_decisions": [
+        "Render 창위 as “Changwei,” the collective term for the East Depot and Embroidered Uniform Guard.",
+        "Render 혈사자 as “Blood Envoy,” Baek Yeon’s sobriquet.",
+        "Render 동창 as “East Depot.”",
+        "Render 금의위 as “Embroidered Uniform Guard” and 금위군 as “Imperial Guards.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Changwei",
+        "korean": "창위",
+        "notes": "Collective term for the East Depot and Embroidered Uniform Guard."
+      },
+      {
+        "english": "Blood Envoy",
+        "korean": "혈사자",
+        "notes": "Baek Yeon’s sobriquet."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Aliases:** None",
+        "path": "characters/Baek Yeon.md",
+        "replacement": "- **Aliases:** Blood Envoy"
+      },
+      {
+        "current": "- **Role:** Baek Yeon is the Commander of the Embroidered Uniform Guard and a military officer trusted by the Emperor.",
+        "path": "characters/Baek Yeon.md",
+        "replacement": "- **Role:** Baek Yeon is the Commander of the Embroidered Uniform Guard, a former martial arts instructor to the Crown Prince, and the Blood Envoy who helped the fourth prince seize the throne and led the purge."
+      },
+      {
+        "current": "- **Personality:** Earnest and compassionate, he takes responsibility for his loyal subjects’ hardship, admires Jin Taekyung, and seeks candid counsel when making difficult decisions.",
+        "path": "characters/Prince Shangshan.md",
+        "replacement": "- **Personality:** Earnest and compassionate, he takes responsibility for his loyal subjects’ hardship, admires Jin Taekyung, seeks candid counsel, and shows composure beyond his years in the face of death and political danger."
+      },
+      {
+        "current": "- **Relationships:** Hong Jin is devoted to Prince Shangshan, whom the late Emperor entrusted to his care, trusts Jin Taekyung to keep the prince safe, and has unresolved ties to former East Depot associates.",
+        "path": "characters/Hong Jin.md",
+        "replacement": "- **Relationships:** Hong Jin is devoted to Prince Shangshan, whom the late Emperor entrusted to his care, and sees protecting him as both a final imperial duty and a personal commitment; he trusts Jin Taekyung to keep the prince safe and has unresolved ties to former East Depot associates."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

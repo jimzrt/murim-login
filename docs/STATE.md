@@ -1,25 +1,27 @@
 # Translation State
 
-- Last completed: 864
-- Next chapter: 865
-- Current block: 860–864 (5/5)
-- Latest translation: `translations/0864.md`
-- Latest summary: `summaries/beats/0864.md`
-- Safe profiles through: chapter 864
+- Last completed: 865
+- Next chapter: 866
+- Current block: 865–869 (1/5)
+- Latest translation: `translations/0865.md`
+- Latest summary: `summaries/beats/0865.md`
+- Safe profiles through: chapter 865
 
 ## Current Block
 
-- Baek Yeon defends the execution of a man who drew his sword before Prince Shangshan, asserting that the Embroidered Uniform Guard answers only to the Emperor. When Taekyung challenges him, Baek says he can be punished only by the Emperor or himself, then warns that no one who enters the palace will be allowed to leave. He orders Jeong Hogun to make the party’s surveillance appear tight while leaving openings for someone to approach, and recalls an earlier assignment that has not succeeded. Shangshan tells Baek that he will not seek punishment because Baek serves the Emperor, not him. Baek privately recalls that Shangshan is the Emperor’s only younger brother and the sole direct imperial relative to survive a brutal power struggle; he considers the now-grown prince more dangerous. The chapter ends with Baek’s order that nobody leave the palace, including Taekyung.
+- After Prince Shangshan falls asleep, Hong Jin warns Jin Taekyung to keep his distance from Baek Yeon and reveals that Baek led the coup that put the fourth prince on the throne, betraying the late Emperor and Crown Prince and killing 30,000 people in the purge. Hong admits his determination to protect Shangshan is both the late Emperor’s final wish and a personal devotion; Taekyung argues that Shangshan is already a king, not merely a child to be protected. Hong has secretly brought an uninvited guest past the guards, and the stranger appears when the candles go out.
 
 ## Open Questions
 
-- Why did the Emperor postpone Prince Shangshan’s audience, and what does he intend for the prince?
-- What was Baek Yeon’s earlier assignment, and who has so far eluded it?
-- Who is meant to approach Shangshan’s party through the surveillance gaps?
+- Who is the uninvited guest Hong Jin brought into the pavilion?
+- What does the Emperor intend for Prince Shangshan, and why was his audience postponed?
+- What does Hong Jin hope to accomplish by bringing the guest to the pavilion?
 - What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?
 
 ## Exceptional Decision
 
+- Render 창위 as “Changwei,” the collective term for the East Depot and Embroidered Uniform Guard.
+- Render 혈사자 as “Blood Envoy,” Baek Yeon’s sobriquet.
 - Render 동창 as “East Depot.”
 - Render 금의위 as “Embroidered Uniform Guard” and 금위군 as “Imperial Guards.”
 
