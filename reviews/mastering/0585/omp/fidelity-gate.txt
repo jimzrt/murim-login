@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, with a few minor physical-detail and emphasis issues.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 137",
+      "current": "The top-grade potion bottle lying empty at the Skeleton King’s feet had rolled to a stop.",
+      "defect": "The Korean says the empty bottle was rolling weakly around at the Skeleton King’s feet. Saying it had rolled to a stop changes its physical state.",
+      "replacement": "The empty top-grade potion bottle was rolling weakly around at the Skeleton King’s feet.",
+      "rationale": "The source describes the bottle as 힘없이 굴러다니는, still rolling or wandering weakly, not as having come to a stop.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 213–215",
+      "current": "Why was this guy apologizing?\n\nWhy was he the one apologizing? How had Kim Hwajong, who’d eaten with us and laughed with us just a few days ago, ended up lying here beyond recovery?",
+      "defect": "The assembled English repeats the question of why the Skeleton King is apologizing, while omitting the source’s transition that frames the narrator’s questions as being about the entire situation.",
+      "replacement": "A question suddenly occurred to me. It was about everything happening to me right now.\n\nWhy was this guy apologizing? How had Kim Hwajong, who’d eaten with us and laughed with us just a few days ago, ended up lying here beyond recovery?",
+      "rationale": "The Korean first establishes that a question has occurred to the narrator about the whole situation, then asks why the Skeleton King is apologizing and how Kim Hwajong came to be beyond recovery.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 255",
+      "current": "The end came closer anyway.",
+      "defect": "This drops the source’s emphasis that the end was approaching at a rapid pace.",
+      "replacement": "But despite my attempts, the end was drawing near at a frightening speed.",
+      "rationale": "The Korean says the end was arriving 가파른 속도로—at a steep or rapid pace—despite his attempts.",
+      "confidence": 0.96
+    }
+  ]
+}

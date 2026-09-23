@@ -120,11 +120,11 @@ I was afraid of what I’d find. Afraid he wouldn’t look the way I hoped. Afra
 
 Tap. Shrrr…
 
-When I carefully placed my hand against it, the membrane made of bones scattered as though it were melting. And then I could finally see.
+I touched the barrier carefully. Its bones scattered as though melting away.
 
 Inside was a grim-faced blond foreigner. Leaning against him was a middle-aged man with half-gray hair, each faint breath seeming to be his last.
 
-*This is…*
+*No…*
 
 For a moment, my heart seemed to stop.
 
@@ -144,11 +144,11 @@ His half-closed eyelids fluttered at my voice. When his fading gaze met mine, hi
 
 I clenched my teeth to hold back a groan. Butler Kim had already accepted what was happening to him. That was probably why he sounded different.
 
-The man before my eyes was neither Butler Kim nor the Guild Master of the Peace Guild. He was simply a human being, Kim Hwajong, saying goodbye.
+The man before me was neither Butler Kim nor the Peace Guild’s Guild Master. He was simply Kim Hwajong, saying goodbye.
 
 But…
 
-*I’m not ready yet.*
+*I haven’t accepted it.*
 
 I couldn’t accept this sudden farewell. I wasn’t going to smile and let him go. I would do anything to bring Kim Hwajong back—to make him Butler Kim, the Guild Master, again.
 
@@ -166,13 +166,13 @@ I forced a smile.
 
 As the warmth seeped into him, Kim Hwajong smiled faintly.
 
-“It really is. Just as you said.”
+“You’re right. It is warmer.”
 
 “You’ll be all right. Don’t worry. I’ll take care of—”
 
 My voice failed me, and not only because my chest had tightened. The internal energy I’d sent through him had shown me the state of his body.
 
-*What in the world…*
+*What the hell…*
 
 Everyone was born with innate qi, the root and source of all the body’s energy. Almost none remained in Kim Hwajong.
 
@@ -204,7 +204,7 @@ I knew. I couldn’t blame him when he’d done everything he could. His entire 
 
 —*…I’m sorry, human.*
 
-Why was this guy apologizing?
+Suddenly I had questions about all of it.
 
 Why was he the one apologizing? How had Kim Hwajong, who’d eaten with us and laughed with us just a few days ago, ended up lying here beyond recovery?
 
@@ -212,7 +212,7 @@ And why hadn’t I stopped it?
 
 *Why?*
 
-I had power. The power to stop disasters and prevent tragic deaths.
+I had power. Enough to stop disasters and prevent senseless deaths.
 
 It had started with a mysterious capsule that appeared in my life one day. It let me change the fate I’d been given and meet people who became precious to me. Now one of those bonds was about to break. One of those people was about to leave me.
 
@@ -220,7 +220,7 @@ So why couldn’t I stop it?
 
 In Shanxi, Henan, Sichuan, Hubei. In Sichuan, in Busan…
 
-I had saved so many lives while traveling between the Murim and the modern world. So why couldn’t I save the one person about to leave before my eyes?
+I’d saved so many lives traveling between Murim and the modern world. Why couldn’t I save the one person dying in front of me?
 
 *Why?*
 
@@ -260,7 +260,7 @@ I struggled to speak to the old butler as his breaths grew thinner.
 
 “It’s all right. You’ll see Team Leader Choi soon. Just trust me and…”
 
-Thud.
+Clasp.
 
 A hand closed around my wrist. The Skeleton King shook his head, his face grim.
 
@@ -282,15 +282,15 @@ His eyes had turned milky. He’d asked me already, but that didn’t matter. I 
 
 “Yes. Ah, there he is.”
 
-It was a lie. A bright red, pure white lie.
+It was a lie. A red lie, and a white one.
 
-On the nameless mountainside swept by a wave of chaos, there were only the three of us and the monster’s corpse.
+The three of us and the monster’s corpse were alone on that nameless mountainside, still scarred by the chaos that had swept over it.
 
 But Kim Hwajong could no longer tell. With his sight clouded and his mind fading, he reached into empty air as though the person he’d been waiting for would take his hand.
 
-Grab.
+Clasp.
 
-At my call and the look that accompanied it, Skeleton King firmly took that hand. The old butler’s eyes curved like crescent moons, and a radiant smile spread across his lips.
+At my glance, the Skeleton King took it firmly. The old butler’s eyes curved like crescent moons, and a radiant smile spread across his face.
 
 “You’ve come.”
 
@@ -298,7 +298,7 @@ And then—
 
 “My grand…son.”
 
-The flame that had burned for one person and refused to go out for this moment finally guttered.
+The flame that had burned for one person, that had held on until this moment, finally went out.
 
 Sssrrk. Tap.
 
