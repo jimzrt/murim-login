@@ -2260,3 +2260,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 남아프리카 공화국 | **South Africa** | Country where the Cape Town Monster Wave is occurring. |
 | 남아공 | **South Africa** | Korean abbreviation for South Africa. |
 | 케이프 타운 | **Cape Town** | South African capital attacked by the Troll horde. |
+| 숄츠 | **Scholz** | Commander responsible for Munich's blockade. |
+| 슈마허 | **Schumacher** | Surname of Germany's S-rank Hunter Joel Schumacher. |
+| 조엘 슈마허 | **Joel Schumacher** | Germany's S-rank Hunter and former fencing gold medalist. |
+| 미노타우로스 로드 | **Minotaur Lord** | S-rank monster leading the Munich Monster Wave. |
+| 프리드리히 니체 | **Friedrich Nietzsche** | German philosopher cited in the discussion of the Übermensch. |
+| 위버맨쉬 | **Übermensch** | Nietzschean ideal of a superhuman overcomer. |

@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "> - **Leviathan** is a powerful S-rank monster and the only Named monster. Since you have accumulated remarkable achievements, an additional **Reward** will be granted!",
+      "defect": "Calling Leviathan “the only Named monster” contradicts Chapter 755, which explicitly identifies the Arch Lich and Behemoth as named monsters.",
+      "id": "C01",
+      "rationale": "This preserves Leviathan’s status as a unique individual without falsely claiming that no other Named monsters exist.",
+      "replacement": "> - **Leviathan** is a powerful S-rank monster and a one-of-a-kind Named monster. Since you have accumulated remarkable achievements, an additional **Reward** will be granted!",
+      "severity": "major",
+      "source": "Chapter 756, Leviathan defeat System panel"
+    },
+    {
+      "confidence": 0.99,
+      "current": "For an instant, Leviathan's vision turned white. The mythical monster, screaming from the pain, ground its broken teeth together.\n\n*I won't die. This body won't die. Never!*",
+      "defect": "Chapter 756 uses straight apostrophes throughout, unlike the curly typography consistently used in the surrounding chapters.",
+      "id": "C02",
+      "rationale": "Normalizing the chapter’s apostrophes removes a conspicuous formatting discontinuity within the packet.",
+      "replacement": "For an instant, Leviathan’s vision turned white. The mythical monster, screaming from the pain, ground its broken teeth together.\n\n*I won’t die. This body won’t die. Never!*",
+      "severity": "minor",
+      "source": "Chapter 756, throughout; representative span near the opening"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Humanity had recorded that horrific past in those three characters. But at this very moment, a question suddenly occurred to me.",
+      "defect": "“Great Cataclysm” is two English words, not three characters; the sentence retains a Korean writing-system count that is false in the reading copy.",
+      "id": "C03",
+      "rationale": "The replacement preserves the emphasis on the established historical name without making an inaccurate language-specific count.",
+      "replacement": "Humanity had recorded that horrific past under that name. But at this very moment, a question suddenly occurred to me.",
+      "severity": "minor",
+      "source": "Chapter 758, discussion of the Great Cataclysm"
+    },
+    {
+      "confidence": 1.0,
+      "current": "But more than anything else, what weighed heavily on my chest was the brief line written under the quest’s grade.\n\nThose five characters that stabbed painfully into my eyes.\n\n*Main Quest.*",
+      "defect": "“Main Quest” is two English words, not five characters; the literal Korean character count contradicts the displayed English term.",
+      "id": "C04",
+      "rationale": "The correction retains the dramatic focus while making the count agree with the term the reader actually sees.",
+      "replacement": "But more than anything else, what weighed heavily on my chest was the brief line written under the quest’s grade.\n\nThose two words that stabbed painfully into my eyes.\n\n*Main Quest.*",
+      "severity": "minor",
+      "source": "Chapter 758, reaction to the Cataclysm quest panel"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Uran.\n\nThose two characters, treated as the most classified of secrets, stood for uranium. In other words, nuclear weapons.",
+      "defect": "The English codename “Uran” is not two characters, and “the most classified of secrets” is an unnatural collocation.",
+      "id": "C05",
+      "rationale": "This removes the inapplicable Korean character count and states the secrecy classification naturally without changing the meaning.",
+      "replacement": "Uran.\n\nThat codename was treated as top secret and stood for uranium. In other words, nuclear weapons.",
+      "severity": "minor",
+      "source": "Chapter 759, command-center explanation of Uran"
+    },
+    {
+      "confidence": 1.0,
+      "current": "*Them.*\n\nIt was only two words, with no name attached, but no one in the command center failed to understand what they meant.",
+      "defect": "The emphasized English pronoun “Them” is one word, not two, and the following plural pronoun compounds the mismatch.",
+      "id": "C06",
+      "rationale": "The replacement makes the narration agree with the exact English expression being discussed.",
+      "replacement": "*Them.*\n\nIt was only a single word, with no name attached, but no one in the command center failed to understand what it meant.",
+      "severity": "minor",
+      "source": "Chapter 759, command-center request for reinforcements"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Rumble-rumble-rumble!\n\nA tremendous vibration swept through Munich.\n\nThe concrete-covered ground split apart, and high-rise buildings designed to withstand even earthquakes collapsed like dominoes.\n\nKaboom!",
+      "defect": "Chapter 759 drops the established italic formatting from its sound effects throughout, creating a visible Markdown discontinuity from Chapters 755–758.",
+      "id": "C07",
+      "rationale": "Restoring italics aligns the chapter’s sound-effect presentation with the rest of the packet; the same normalization is needed for the chapter’s other bare sound effects.",
+      "replacement": "*Rumble-rumble-rumble!*\n\nA tremendous vibration swept through Munich.\n\nThe concrete-covered ground split apart, and high-rise buildings designed to withstand even earthquakes collapsed like dominoes.\n\n*Kaboom!*",
+      "severity": "minor",
+      "source": "Chapter 759, throughout; representative opening of the Munich breach scene"
+    }
+  ],
+  "summary": "Continuity, voice, summaries, and active state are otherwise consistent. One System notice creates a Named-monster contradiction, several Korean character-count references remain literal in English, and Chapters 756 and 759 contain chapter-wide typography drift.",
+  "version": 1
+}
