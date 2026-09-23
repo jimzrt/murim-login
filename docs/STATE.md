@@ -1,21 +1,22 @@
 # Translation State
 
-- Last completed: 902
-- Next chapter: 903
-- Current block: 900–904 (3/5)
-- Latest translation: `translations/0902.md`
-- Latest summary: `summaries/beats/0902.md`
-- Safe profiles through: chapter 902
+- Last completed: 903
+- Next chapter: 904
+- Current block: 900–904 (4/5)
+- Latest translation: `translations/0903.md`
+- Latest summary: `summaries/beats/0903.md`
+- Safe profiles through: chapter 903
 
 ## Current Block
 
-- At the Emperor’s banquet, Jin Taekyung eats and speaks privately with Cang Gong, who says he will signal when they should act and that the Fire King is needed to defeat So Gyo. Cang Gong reveals that the Murim Alliance has sent reinforcements. The Emperor publicly declares an heir; Aehyang arrives under Embroidered Uniform Guard protection, and Prince Shangshan follows her. Taekyung confirms Shangshan still has the Myriad-Poison Ring. After Cang Gong questions why the Emperor forgave Taekyung, Taekyung concludes that the Emperor does not want Shangshan put in danger.
+- Taekyung realizes the Emperor does not want Prince Shangshan endangered and identifies So Gyo’s inexplicable decision to let him go as the clue that exposed the scheme. Cang Gong confirms So Gyo was the plan’s only flaw but admits he does not know her identity or allegiance. He reveals the Lord of Heaven’s interest in Taekyung and displays a chilling power unlike Yin-Cold Qi. Taekyung provokes Cang Gong and attacks as a signal; someone blocks his punch, and the Fire King bursts into the banquet hall. As Taekyung follows with the Flame Divine Palm, the confrontation continues.
+- Hyuk Mujin and the Fire Dragon Pavilion party leave the Imperial Capital for the Jiangsu–Zhejiang border on Taekyung’s mission. Mujin senses something is wrong and learns that the others were warned by Jeok Cheongang that Taekyung would send him away to keep him safe. The group then spots countless silent figures moving through the forest and reacts on instinct.
 
 ## Open Questions
 
-- Why might the Emperor be smoking opium?
-- What signal will Cang Gong give, and when will they act?
-- What is So Gyo’s purpose in remaining beside Prince Shangshan?
+- Who is So Gyo, and is she an ally or enemy?
+- Who blocked Taekyung’s attack, and what is the unfamiliar power Cang Gong used?
+- Who are the silent figures surrounding Mujin’s group?
 
 ## Exceptional Decision
 
