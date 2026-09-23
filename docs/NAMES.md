@@ -2323,3 +2323,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 라이칸스로프 챔피언 | **Lycanthrope Champion** | S-rank monster commander. |
 | 데스나이트 군단장 | **Death Knight Legion Commander** | S-rank monster commander. |
 | 만티코어 로드 | **Manticore Lord** | S-rank monster commander. |
+| 만티코아 로드 | **Manticore Lord** | S-rank monster commander; source spelling variant of Manticore. |
+| 데스 나이트 군단장 | **Death Knight Legion Commander** | Monster commander fighting the Skeleton King. |
