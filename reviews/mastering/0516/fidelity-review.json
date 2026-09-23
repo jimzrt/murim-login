@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Who was Jung Ho?",
+      "defect": "The English omits that the narrator paused to think briefly, then asked in a hoarse, halting voice. This loses a small but explicit delivery detail preserved in the accepted baseline.",
+      "id": "F01",
+      "rationale": "The source says, “잠깐 고민하던 나는 잔뜩 잠긴 목소리로 더듬더듬 물었다”—he briefly thinks, then asks in a very hoarse, halting voice.",
+      "replacement": "Who was Jung Ho? After thinking briefly, I asked in a hoarse, halting voice.",
+      "severity": "minor",
+      "source": "Korean lines 237–239"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits the narration describing the pause and the narrator’s hoarse, halting delivery before his question to Jung Ho.",
+  "version": 1
+}

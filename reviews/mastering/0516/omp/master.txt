@@ -4,7 +4,7 @@ The closer you get to your destination, the harder the last stretch feels. That�
 
 *Dad, I’m coming.*
 
-Was this really how a father and son were going to reunite after so long? That was the moment the strength drained from my flailing limbs.
+Was this how we were going to reunite after all this time? The strength drained from my flailing limbs.
 
 Grab!
 
@@ -20,7 +20,7 @@ The moment I saw his face, all the tension left my body.
 
 “…Hah.”
 
-As I exhaled the breath I had been holding, Jeok Cheongang's grin deepened.
+I let out the breath I’d been holding, and his grin deepened.
 
 “You’re still breathing, at least.”
 
@@ -44,7 +44,7 @@ He hauled me up by the wrist. River water poured off my swollen body, taking the
 
 Exhausted, I blinked. The crowd gathered like clouds at the distant ferry landing was rapidly drawing closer, and I could make out several familiar faces among them.
 
-Cheongpung, waving both arms frantically. Gung Gibang and Hyuk Mujin, their eyes opened wide. Jin Wikyung, who was practically bawling his eyes out.
+Cheongpung was waving both arms. Gung Gibang and Hyuk Mujin stared with their eyes wide. Jin Wikyung was practically sobbing.
 
 And… Mungyeong was quietly watching us.
 
@@ -96,13 +96,13 @@ I blinked slowly and looked around. Pitch-black darkness surrounded me. As my ey
 
 *A swamp.*
 
-White bones of uncertain origin—human or beast—were scattered everywhere, and a horrific stench filled the air, strong enough to make me gag.
+Bones lay scattered everywhere, too bare to tell whether they belonged to humans or animals. The stench was enough to make me gag.
 
 Worse, my body was moving on its own.
 
 *Splosh.*
 
-My bare foot, without even a shoe on it, stepped into the sticky mud. I struggled with all my might to stop, but my body had already escaped my control.
+My bare foot sank into sticky mud. I struggled to stop, but my body was beyond my control.
 
 One step. Then another.
 
@@ -120,7 +120,7 @@ It wasn’t a flame. It looked more like someone’s eyes.
 
 The chilling gaze held not a trace of warmth. It stared at me as if to say, *Come closer if you can.*
 
-If this were an ordinary protagonist from a movie or novel, he would struggle and crawl toward it…
+An ordinary protagonist in a movie or novel would struggle toward it…
 
 *You come here, asshole.*
 
@@ -128,7 +128,7 @@ If this were an ordinary protagonist from a movie or novel, he would struggle an
 
 I’d already sized up the situation. After everything I’d been through lately, I was apparently having a nightmare. I didn’t need to play along.
 
-An ordinary person would have felt the urge to piss himself the moment he saw those red eyes, but I was the kind of person who felt the urge to use Flame Divine Palm.
+An ordinary person might have felt the urge to piss himself at the sight of those red eyes. Me? I felt the urge to use Flame Divine Palm.
 
 There was just one tiny problem…
 
@@ -172,9 +172,9 @@ Unable to move, I sank farther into the swamp—and met that red gaze.
 
 A chill shot up my spine.
 
-A vivid fear, sharp enough to jolt my mind fully awake, swept over me. This couldn't be an ordinary nightmare. It couldn't be.
+Fear struck so sharply that it jolted me awake within the dream. This couldn’t be an ordinary nightmare.
 
-At the same time, a horrifying sense of incongruity enveloped me.
+At the same time, an eerie sense of familiarity came over me.
 
 *This feeling… Why do I know it?*
 
@@ -194,13 +194,13 @@ Warmth wrapped around my body. I reached toward the light now right in front of 
 
 Thoughts raced through my head.
 
-Why could I grab the light? Why did it feel so good? I had definitely woken up from the dream, so why could I still feel it?
+How had I grabbed light? Why did it feel so nice? I was definitely awake now, so why could I still feel it?
 
 *Rub, rub.*
 
 What the hell was this?
 
-After thinking for a moment, I opened my eyes, which I had closed slightly.
+After a moment, I opened my eyes.
 
 The bright light was someone’s smooth, shiny head.
 
@@ -208,7 +208,7 @@ A Buddhist precept seal marked his forehead.
 
 “Krillin?”
 
-The monk, whom I had never seen before—not Krillin—opened his mouth with an awkward expression.
+The monk—whom I’d never seen before, and who was not Krillin—looked distinctly uncomfortable.
 
 “You have finally awakened, Benefactor Jin.”
 
@@ -218,13 +218,13 @@ The monk, whom I had never seen before—not Krillin—opened his mouth with an 
 
 Who was Jung Ho?
 
-“Were you perhaps Park Jung Ho from Class 6, Grade 3 at Garam Middle School…?”
+I thought for a moment, then asked in a hoarse, halting voice, “Park Jung Ho from Class 6 in our third year at Garam Middle School…?”
 
 “Pardon?”
 
 “When did you become a monk?”
 
-“A good forty years, at least… No, wait. Could you please listen to me, Benefactor?”
+“A good forty years ago… No, wait. Could you please listen to me, Benefactor?”
 
 “Oh, right, you bastard. Didn’t you say you were going to become a priest? When did you switch? Apostate. Apostate. Did the Full Gospel Church Crusaders beat you up? Look how much your face has aged. Which temple hired you?”
 
@@ -240,7 +240,7 @@ My old classmate answered with a half-resigned expression.
 
 Oh. Fuck. What?
 
-Only then did my mind fully clear. I hurriedly shook my head to dispel the sleep and cautiously opened my mouth.
+My head finally cleared. I hurriedly shook off the last of my sleep and spoke more carefully.
 
 “Ah, I’m sorry. I wasn’t fully awake.”
 
@@ -268,7 +268,7 @@ They were sprawled all around me.
 
 No wonder it had felt so vivid.
 
-I let out a deep sigh, then first kicked the lump curled up asleep at my feet.
+I sighed and kicked the lump curled up asleep at my feet.
 
 *Thump!*
 
@@ -278,7 +278,7 @@ I let out a deep sigh, then first kicked the lump curled up asleep at my feet.
 
 What kind of wake-up cry was that?
 
-Cheongpung sprang awake from the sudden impact and opened his sleepy eyes.
+Cheongpung sprang up and blinked at me through sleepy eyes.
 
 “Ah, Benefactor. Did you sleep well?”
 
@@ -294,15 +294,15 @@ Cheongpung finally noticed the pet snake coiled around my neck. At his call, its
 
 Wait. *Thick?*
 
-I stared open-mouthed at the Thousand-Year Poison Horned Snake, which looked practically like a python now.
+I stared at the Thousand-Year Poison Horned Snake. It looked practically like a python now.
 
 “Young Hero Cheongpung. Was it always that big?”
 
-“No. It has grown a lot lately. It's right in the middle of its growth period.”
+“No. It’s grown a lot lately. It’s at that age.”
 
 “How old is it?”
 
-“Grandpa Tang says it isn't even a hundred years old yet.”
+“Grandpa Tang says it isn’t even a hundred yet.”
 
 “…Oh. I see.”
 
@@ -322,7 +322,7 @@ I gave Cheongpung a troubled look and gave up trying to convince him. Instead, I
 
 “Urgh!”
 
-“I told you to brush your teeth before bed. You damn beggar, your mouth is a swamp. A goddamn swamp.”
+“I told you to brush your teeth before bed. You damn beggar, your mouth’s a swamp. A fucking swamp.”
 
 “Guh. Guhhh.”
 
@@ -332,7 +332,7 @@ Gung Gibang woke up and glared at me, his eyes watering.
 
 “I don’t pick on *only* you. I’m going to deal with this guy the same way.”
 
-People had to be treated equally.
+People ought to be treated equally.
 
 A moment later, Hyuk Mujin, who had been sleeping soundly with one of my legs clutched in his arms, met the same fate.
 
@@ -346,9 +346,9 @@ A moment later, Hyuk Mujin, who had been sleeping soundly with one of my legs cl
 
 “…Hah. You hateful bastards.”
 
-I kicked Hyuk Mujin hard enough to send him tumbling beneath the bed while he muttered under his breath.
+I gave the muttering Hyuk Mujin a kick that sent him tumbling off the bed.
 
-Because of these idiots, I'd even had a dream when I hardly ever dreamed at all—and an incredibly unsettling nightmare at that.
+Because of these idiots, I’d had a dream when I hardly ever dreamed at all. And it had been an unsettling nightmare.
 
 *That gaze.*
 
@@ -374,7 +374,7 @@ Jung Ho’s Martial Uncle had to be a senior monk of Shaolin. But someone who wa
 
 *Who is it? The way he put it, we’ve definitely met before.*
 
-Besides the Dharma King, was there anyone at Shaolin with whom I had formed that kind of connection?
+Besides the Dharma King, had I grown that close to anyone else at Shaolin?
 
 I nodded readily enough.
 
@@ -384,7 +384,7 @@ No sooner had I spoken than someone came through the door. I frowned.
 
 “Excuse me, but who…?”
 
-He had a slender build, and every inch of exposed skin was covered in scars. A rough voice came from the lips of the fierce-looking monk I had never seen before.
+The monk was slender, with scars covering every bit of exposed skin. He had a fierce look about him, and his voice was rough.
 
 “I’m glad. Though the heavens have grown dim, the Morning Star that rose in the north seems to shine even brighter.”
 
