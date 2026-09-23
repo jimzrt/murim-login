@@ -1,9 +1,9 @@
 # Xiao Yang (샤오 양)
 
-- **Safe through:** Chapter 304
+- **Safe through:** Chapter 752
 - **Aliases:** None
-- **Role:** General Secretary of China's Central Committee; the official who specifically requests Jin Taekyung's participation in the Monster Wave crisis.
-- **Personality:** Not established in this chapter.
-- **Voice:** Not heard directly; his request is relayed by Team Leader Choi.
-- **Relationships:** Seeks Jin Taekyung's participation in China's response to the Monster Wave.
+- **Role:** Xiao Yang is China's Chairman, who publicly praises Jin Taekyung as a true hero.
+- **Personality:** Not established.
+- **Voice:** Publicly supportive of Jin Taekyung and contemptuous toward his critics.
+- **Relationships:** He publicly supports Jin Taekyung.
 - **Sources:** Korean source and accepted translation, Chapter 304

@@ -1,32 +1,28 @@
 # Translation State
 
-- Last completed: 751
-- Next chapter: 752
-- Current block: 750–754 (2/5)
-- Latest translation: `translations/0751.md`
-- Latest summary: `summaries/beats/0751.md`
-- Safe profiles through: chapter 751
+- Last completed: 752
+- Next chapter: 753
+- Current block: 750–754 (3/5)
+- Latest translation: `translations/0752.md`
+- Latest summary: `summaries/beats/0752.md`
+- Safe profiles through: chapter 752
 
 ## Current Block
 
-- Japan's prime minister grants the Korean forces independent operational authority and promises supplies and military support through the Defense Ministry. The Skeleton King explains that Leviathan should not be tracked at sea but lured toward land while it remains severely wounded and hungry. Jin identifies S-rank Magic Gems as the only viable bait.
-- Japan provides two refined S-rank Magic Gems, but their remaining magical power is insufficient to lure Leviathan. Five more refined gems hidden in Ares Guild's Area A are politically dangerous to use, and gathering unrefined gems from nearby Gates would violate international law. Jin proposes organizing an elite raid team while excluding the Skeleton King to protect his identity. Furious, the Skeleton King declares that he will do anything to save the victims of Leviathan's disaster, and Jin realizes he has found the leverage he needs.
+- Huginn realizes that public opinion is turning against Japan's Defense Ministry and back toward Jin Taekyung, threatening Odin Guild's carefully prepared plan. Michael dismisses the concern, stating that every condition is ready and that Jin's death during a struggle with Leviathan would be the best possible outcome. Michael and Huginn prepare for a press conference and an immediate departure for another undisclosed operation, while Michael privately reveals his growing impatience and anxiety toward Jin and reaffirms his certainty that he alone will win.
+- In the deep sea, Leviathan feeds on marine life and absorbs their energy and memories while nursing severe wounds and fearing the human who injured it. The memories reveal a small boat near an uninhabited island, carrying an immense amount of magical power. Although Leviathan recognizes the boat as a likely human trap, its hunger overwhelms its caution; sensing no human vitality, it rises toward the bait.
 
 ## Open Questions
 
-- Who killed Siegfried Wassmann, by what magic, and did Michael Silbert order his death?
-- What is The Prophet's identity, and how are the Prophet's terrorist campaign and Leviathan's reappearance connected?
-- What is Huginn's undisclosed operation, and can its consequences actually bring Jin down?
-- Will Jin's proposed bait and lure succeed in bringing Leviathan close enough to kill?
-- How will Jin persuade the Skeleton King to remain out of the raid without abandoning the effort to save the victims?
+- What is Odin Guild's next destination and operation after the Japanese press conference?
+- Will Leviathan reach the bait vessel and trigger the humans' planned trap?
+- What are the full conditions of Michael's prepared plan against Jin Taekyung?
 
 ## Exceptional Decision
 
-- Render 선지자 as The Prophet; render 레비아탄 as Leviathan and 스사누오 as Susanoo.
 - Render 마력 as magical power, distinct from mana.
-- Render 마정 and 마정석 as Magic Gem.
-- Render 마계어 as Demon Realm language, 광염 as light-flames, and 진주만의 원혼 as the vengeful spirits of Pearl Harbor.
-- Render 스켈레톤 킹 as Skeleton King, 스톤 킹 as Stone King, and 스토무-킹 as Stomu-King; retain 진상 as Jinsang and 방위성 as Defense Ministry.
+- Render 마정석 and 마정 as Magic Gem when referring to monster power sources.
+- Render 심해 as the deep sea and 생기 as vital energy.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
