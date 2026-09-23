@@ -1,32 +1,32 @@
 # Translation State
 
-- Last completed: 772
-- Next chapter: 773
-- Current block: 770–774 (3/5)
-- Latest translation: `translations/0772.md`
-- Latest summary: `summaries/beats/0772.md`
-- Safe profiles through: chapter 772
+- Last completed: 773
+- Next chapter: 774
+- Current block: 770–774 (4/5)
+- Latest translation: `translations/0773.md`
+- Latest summary: `summaries/beats/0773.md`
+- Safe profiles through: chapter 773
 
 ## Current Block
 
-- Michael Silbert's speech successfully turns worldwide fear into hope, and the public celebrates him as the hero who restored the World Hunter Federation. In private, he admits that his tears were sincere, though he cannot fully identify the emotions behind them.
-- Michael sensed the intense qi or heat released during the disturbance at Jin Taekyung's hotel and orders Huginn to increase security and surveillance until the inaugural ceremony, especially around the monster. He recognizes that Jin has come to regard the monster as a friend and intends to exploit that emotional weakness.
-- Michael secretly enters a conversation with The Prophet through a magic mirror. Meanwhile, public enthusiasm spreads across the world, the inaugural ceremony approaches tomorrow, and prominent Hunters and Guild Masters—including Jin—travel toward Korea.
+- Jin Taekyung and Team Leader Choi return to Korea, where Im Kkeokjeong and Song Song welcome them. Song reports that fewer than ten trusted senior members of the Peace and Ares Guilds have received Choi's covert instructions, while Choi assumes direct control of further communications.
+- Baek Hanseong escorts Jin and Choi through a heavily secured airport and briefs them on the World Hunter Federation's inaugural ceremony, which will take place at the National Assembly in less than twenty-four hours. Jin refuses to visit his mother and Hayeon before the ceremony and continues concealing the discovered clue from Baek because Michael Silbert may have spies or surveillance around him.
+- The world focuses on the secretive inaugural ceremony, while online discussion speculates about its attendees and representative. Felix arrives in Korea and encounters Magic Johnson and Chuck Hagel before secretly joining Choi, Magic Johnson, Chuck Hagel, and Faye Chen for a private meeting.
 
 ## Open Questions
 
-- What did Magic Johnson's documents reveal, and is Jin's fourth path viable?
-- How will Jin and his allies act before the World Hunter Federation's ceremony tomorrow?
+- Is the clue discovered by Jin and his allies genuine, and is their fourth path viable?
+- What will the secret meeting involving Choi, Felix, Magic Johnson, Chuck Hagel, and Faye Chen decide before the ceremony?
+- Who will become the World Hunter Federation's representative while Cheon Taemin remains absent?
 - What coordinated plan do Michael and The Prophet have for the Federation and the coming crisis?
-- Can Jin protect his monster friend if Michael forces him to choose between that friend and the world?
+- Why has the Skeleton King remained silent inside the concealed space?
 
 ## Exceptional Decision
 
-- Render 네 번째 길 as fourth path.
-- Render 발족식 as inaugural ceremony.
-- Render 기파 as qi wave and preserve 공력이 실린 as infused with internal energy.
-- Retain World Hunter Federation, Hero's Sword, Magic Johnson, and Cheon Taemin as established renderings.
-- Render 스톤 킹 as Stone King.
+- Render 파이 첸 as Faye Chen.
+- Render 척 헤이글 as Chuck Hagel.
+- Retain World Hunter Federation and inaugural ceremony.
+- Render 왕자 전하 as Your Highness.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

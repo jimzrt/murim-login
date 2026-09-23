@@ -1,6 +1,6 @@
 # Baek Hanseong (백한성)
 
-- **Safe through:** Chapter 768
+- **Safe through:** Chapter 773
 - **Aliases:** None
 - **Role:** Twenty-seventh President of Korea and the youngest president elected in Korean history who opposed the immediate reestablishment of the World Hunter Federation, tried to buy time for preparations for war, and cast the final vote in the decision that approved its reestablishment.
 - **Personality:** Confident, politically shrewd, composed, and willing to needle Lee Jungryong while advancing his anti-Ares stance.

@@ -1,9 +1,9 @@
 # Faye Chen (파이 첸)
 
-- **Safe through:** Chapter 414
+- **Safe through:** Chapter 773
 - **Aliases:** None
-- **Role:** S-rank Hunter who joins the Arch Lich operation with the Eastern and Western Front reinforcements.
-- **Personality:** Playful, warm, and amused by Jin Taekyung's teasing.
-- **Voice:** Teasing and affectionate, with a casual big-sister manner toward Jin Taekyung.
-- **Relationships:** Treats Jin Taekyung as a younger brother and travels with Prince Felix and Magic Johnson.
+- **Role:** Comrade of Felix and Magic Johnson from the fighting in China who has come to Korea for the World Hunter Federation's inaugural ceremony.
+- **Personality:** Not established.
+- **Voice:** Not established.
+- **Relationships:** Comrade of Felix and Magic Johnson from their fighting in China.
 - **Sources:** Korean source and accepted translation, Chapter 385
