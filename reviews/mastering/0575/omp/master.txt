@@ -58,15 +58,15 @@ I sighed, looking at the Kraken’s corpse half-submerged in the sea.
 
 There had been no other choice. If I hadn’t killed it with that one strike, someone would have died right in front of me.
 
-People talked about sacrificing the small for the sake of the greater good, but that was just a pretty phrase. In the end, it was still a sacrifice—doing nothing while someone died pointlessly, despite having the power to prevent it.
+“Sacrificing the few for the many” sounded noble enough. But it was still a sacrifice. If I had the power to stop someone from dying for nothing and stood by instead, that was all I’d be doing.
 
 *I shouldn’t have let my guard down. Not until it was over…*
 
 But what was done was done.
 
-I was anxious and regretful that I had ultimately failed to uncover the truth behind the disaster. But I did not regret killing the Kraken.
+I was anxious about failing to uncover who was behind the disaster, and I regretted letting my guard down. I didn’t regret killing the Kraken.
 
-People had survived because of my choice.
+People were alive because I had.
 
 “Over here! Please, help us!”
 
@@ -104,7 +104,7 @@ Ordinary civilians couldn’t hear what I could, but my senses had already told 
 
 —Tank! Three steps forward!
 
-—The building! The building is collapsing! The civilians are in danger!
+—The building! It’s coming down! There are civilians inside!
 
 —Aaaaaagh!
 
@@ -130,9 +130,9 @@ Everyone ate. But who you ate with, and where, made a difference to how formal t
 
 By that measure, the breakfast shared by the two people sitting across from each other had been formal indeed.
 
-The late-starting breakfast had continued for a full two hours amid quiet conversation. By then, a beautifully decorated dish of sujeonggwa[^1] had been placed on the spotless white tablecloth.
+They had started late, but quiet conversation had stretched the meal to a full two hours. Now beautifully garnished sujeonggwa[^1] sat on the white tablecloth.
 
-“Since Seollal is just around the corner, I had tteokguk prepared… I’m not sure whether the meal suited your taste, Team Leader Choi.”
+“With Seollal coming up, I had them prepare tteokguk… I hope you enjoyed it, Team Leader Choi.”
 
 Choi Minwoo wiped his mouth with a napkin before answering the gentle, courteous voice.
 
@@ -142,7 +142,7 @@ Choi Minwoo wiped his mouth with a napkin before answering the gentle, courteous
 
 The middle-aged man across from him, President Baek Hanseong, smiled warmly.
 
-“You’ve been so busy lately that I was worried you weren’t eating properly. So I repeatedly impressed upon the head chef here at the Blue House that you were an important guest and that he needed to take special care with your meal.”
+“You’ve been so busy lately that I worried you weren’t eating properly. I told our head chef here at the Blue House to take special care. I said we had an important guest.”
 
 “Important guest” was no empty compliment.
 
@@ -150,11 +150,11 @@ An invitation to breakfast at the Blue House already marked a person as powerful
 
 Baek Hanseong valued Choi Minwoo that highly.
 
-“You eat well. It’s nice to see. Makes me proud, too.”
+“It’s good to see you eat so well. Makes me feel I did something right, too.”
 
 Choi Minwoo dipped his head.
 
-“Thank you. Still, I don’t go hungry as often as you seem to think, Mr. President. I feel I may have caused you unnecessary concern.”
+“Thank you. But I’m not skipping meals as often as you think. I’m sorry to have worried you.”
 
 “Oh? Well, I suppose you have a personal chef.”
 
@@ -170,7 +170,7 @@ Choi Minwoo gave a small nod.
 
 “Yes. I’ve tried to refuse—it doesn’t feel right—but she won’t hear of it.”
 
-President Baek Hanseong let out a quiet exclamation.
+President Baek let out a quiet sound of surprise.
 
 He already knew Jin Taekyung’s family was staying temporarily at Choi Minwoo’s estate. Hearing Choi himself speak about it, though, gave that fact new significance.
 
@@ -178,7 +178,7 @@ He already knew Jin Taekyung’s family was staying temporarily at Choi Minwoo�
 
 Jin Taekyung and Choi Minwoo. Choi Minwoo and Jin Taekyung.
 
-From President Baek Hanseong’s perspective, the two men were not only enormous fish he could never afford to let go, but also the only means of restraining the Ares Guild, which wielded tremendous influence.
+To President Baek, they were two enormously valuable men he could not afford to lose. They were also his only means of keeping the immensely influential Ares Guild in check.
 
 Jin Taekyung, with his extraordinary standing. Choi Minwoo, Cheon Taemin’s maternal grandson and only living blood relative.
 
@@ -186,7 +186,7 @@ With those two on his side, Baek could rise still higher. After becoming the you
 
 *Whatever it takes, I have to bring them both over to my side.*
 
-While President Baek Hanseong entertained thoroughly political thoughts, Choi Minwoo was thinking about something completely different as he drank his coffee.
+While President Baek’s thoughts ran to politics, Choi Minwoo sipped his coffee and thought about something else entirely.
 
 *She said she was making dinner tonight… Kimchi stew, was it?*
 
@@ -196,11 +196,11 @@ He wanted Jin Taekyung’s mother’s kimchi stew more than the tteokguk the Blu
 
 Fluffy white rice from a pressure cooker of a kind rarely seen these days. Pork cooked until tender, and well-aged kimchi.
 
-And the people huddled around the same table, frantically moving their spoons.
+And people sitting close together around one table, too busy eating to put down their spoons.
 
 *Hmm.*
 
-As Choi Minwoo realized he was unconsciously smacking his lips, he let out a faint, bemused laugh.
+Choi Minwoo caught himself smacking his lips and gave a quiet, rueful laugh.
 
 *So that’s what it is.*
 
@@ -228,7 +228,7 @@ At the thought of the grandfather who had shut himself away for decades, a feeli
 
 President Baek noticed the change in his expression.
 
-Noticing that Choi Minwoo’s mood had changed, President Baek Hanseong asked with concern, “Is something troubling you?”
+“Is something troubling you?”
 
 “Ah. No. It’s nothing.”
 
@@ -258,9 +258,9 @@ Dread rose in him.
 
 He opened the messages. One of his neatly groomed eyebrows twitched.
 
-> **Butler Kim**
+> Butler Kim
 >
-> **Butler Kim**
+> Butler Kim
 >
 > Emergency Monster Wave in Busan
 >
@@ -268,7 +268,7 @@ He opened the messages. One of his neatly groomed eyebrows twitched.
 >
 > Young Master, where are you?
 >
-> Young Maㄴter
+> Young Mster
 
 The messages were from Butler Kim. They were short, but there was nothing small about the news.
 
@@ -278,7 +278,7 @@ Busan was Korea’s second-largest city, home to millions. An extra-large named 
 
 And what the aide said next made matters worse.
 
-“The emergency alert was delayed for about ten minutes. The Monster Wave happened so suddenly, and the Gate management office and all the surrounding facilities were destroyed…”
+“The emergency alert was delayed by a little over ten minutes. The Monster Wave happened so suddenly, and the Gate management office and the surrounding facilities were all destroyed…”
 
 “You idiot! Do you hear yourself?”
 
@@ -286,15 +286,15 @@ And what the aide said next made matters worse.
 
 Sweat poured down the aide’s face as he continued.
 
-“But according to the report that came in one minute ago, the extra-large named monster has been subdued. Hunter Jin Taekyung happened to arrive at the scene just in time…”
+“But according to a report from one minute ago, the extra-large named monster has been subdued. Hunter Jin Taekyung happened to arrive at the scene…”
 
 “What? Are you certain?”
 
 “Yes. The remaining monsters are being dealt with, and survivors are being rescued.”
 
-“……Phew. At least that’s a relief.”
+“…Phew. At least there’s that.”
 
-President Baek Hanseong exhaled in relief, while Choi Minwoo rose from his seat without hesitation.
+President Baek let out a sigh of relief. Choi Minwoo rose without hesitation.
 
 The worst of the immediate crisis might have passed, but this was no time to sit and talk.
 
@@ -306,7 +306,7 @@ They exchanged brief farewells. Choi Minwoo had just left the Blue House when—
 
 *Bzzzzzt.*
 
-The smartphone he had turned back on began vibrating forcefully again.
+His phone, now turned back on, vibrated forcefully.
 
 Team Leader Choi thought he knew who was calling and answered at once.
 
@@ -320,6 +320,6 @@ Choi Minwoo stopped dead.
 
 Song Cheonwoo’s aged voice came through the phone.
 
-—Let’s talk for a moment. It’s urgent.
+—We need to talk. It’s urgent.
 
 [^1]: Sujeonggwa is a traditional Korean cinnamon punch, often served chilled with dried persimmons and pine nuts.

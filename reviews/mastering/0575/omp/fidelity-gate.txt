@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is largely faithful, with one minor quantity discrepancy.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 15",
+      "current": "some ten meters tall",
+      "defect": "This suggests an approximate height of ten meters, while the Korean says the monster’s head measured more than ten meters vertically.",
+      "replacement": "more than ten meters tall",
+      "rationale": "“세로 길이만 십여 미터” establishes a vertical length exceeding ten meters; the current wording weakens that quantity.",
+      "confidence": 0.91
+    }
+  ]
+}
