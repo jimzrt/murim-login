@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "This woman was engaged to the man you just killed. I guess they were planning to get married before the end of the year.",
+      "defect": "The draft makes the couple engaged, while the source says they were lovers and only suggests they planned to marry.",
+      "id": "F01",
+      "rationale": "연인 identifies their relationship; 결혼할 생각이었나 봐 expresses an apparent plan, not an engagement.",
+      "replacement": "This woman was the lover of the man you just killed. Looks like they were planning to get married this year.",
+      "severity": "critical",
+      "source": "이 여자, 방금 네가 죽인 그 인간의 연인이었어. 올해 안에 결혼할 생각이었나 봐."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The low bridge of its nose and the buck teeth visible inside its mouth.",
+      "defect": "Buck teeth describes protruding front teeth, not 덧니.",
+      "id": "F02",
+      "rationale": "덧니 refers to teeth growing out of alignment.",
+      "replacement": "The low bridge of its nose and the crooked teeth visible in its mouth.",
+      "severity": "minor",
+      "source": "낮은 콧대와 입안으로 보이는 덧니."
+    },
+    {
+      "confidence": 0.88,
+      "current": "Heat surged from my dantian, raced along my acupoints, and flowed into the blade.",
+      "defect": "“Along my acupoints” treats points as a continuous route and obscures the movement into the dagger.",
+      "id": "F03",
+      "rationale": "The heat travels via 혈도 from the dantian into the dagger.",
+      "replacement": "Heat surged from my dantian, raced through my acupoints, and flowed into the dagger.",
+      "severity": "minor",
+      "source": "단전에서 솟구친 열기가 혈도를 타고 단검으로 내달렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Defeated **[Lv. 120 Yamamoto Genji]**!",
+      "defect": "The System notice retains square brackets despite the packet’s System-panel formatting rule.",
+      "id": "F04",
+      "rationale": "The framed System panel already identifies the notice; its UI terms should not be enclosed in square brackets.",
+      "replacement": "Defeated Lv. 120 Yamamoto Genji!",
+      "severity": "minor",
+      "source": "- [Lv.120 야마모토 겐지]를 처치했습니다!"
+    },
+    {
+      "confidence": 0.91,
+      "current": "The heat curling around the blade of **White Flame** burned red in its eyes.",
+      "defect": "The draft suggests reflected red light rather than heat making the Doppelganger’s eyes reddish.",
+      "id": "F05",
+      "rationale": "달구고 있었다 describes the heat acting on its eyes.",
+      "replacement": "The heat blazing around **White Flame**’s spearhead was turning its eyes red.",
+      "severity": "minor",
+      "source": "백염의 창날을 휘감으며 타오르는 열기가 놈의 눈동자를 불그스름하게 달구고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "What the fuck are you, some Ditto with a failed connection? Quit trying to pull that crap on me.",
+      "defect": "“Failed connection” drops the Pokémon trading reference that carries the joke.",
+      "id": "F06",
+      "rationale": "통신 교환 refers to trading Pokémon over a link, not merely losing a connection.",
+      "replacement": "What the fuck are you, some Ditto from a failed link trade? Quit trying to pull that crap on me.",
+      "severity": "minor",
+      "source": "무슨 씨벌 통신 교환 실패한 메타몽 같은 새끼가. 어디서 개수작 부리고 있어?"
+    },
+    {
+      "confidence": 0.94,
+      "current": "My dream is to be the mayor of a longevity village.",
+      "defect": "A village head is not a mayor; the specific village-level title is part of the deadpan joke.",
+      "id": "F07",
+      "rationale": "촌장 means village head, and 장수마을 evokes a village known for its long-lived residents.",
+      "replacement": "My dream is to be the head of a village where everyone lives to a hundred.",
+      "severity": "minor",
+      "source": "내 장래희망이 장수마을 촌장이야."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it adds an engagement, misdescribes a facial feature, and loses a few mechanical and comic details.",
+  "version": 1
+}

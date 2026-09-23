@@ -1,0 +1,82 @@
+{
+  "chapter": 814,
+  "files": {
+    "characters/Divine Physician.md": "4adb05a4cc0e98bf1d21d7e9be0f2186f825238e85dd0ffdd089b2373b422eeb",
+    "characters/Jin Taekyung.md": "37dfd24645957df68523e9faeb302fb022b8ce29536b2ccc1f39e3a355a8decd",
+    "characters/Jintae.md": "0b475604468d81bed554749064f4215d346dacf180b9d4e1fb7e52329ae8da34",
+    "characters/The Prophet.md": "2b13fd737a8941c4e948cd9d786823cbadd48cc1c5e232d89ef161ba8c6a25bf",
+    "characters/Yamamoto.md": "02f356c1fdc44da539cec5cb71f6d3342d814222333b5e20902e517fa23c9b12",
+    "docs/ADDRESS.md": "129974e6f11f14cc393ae3bd0f5641ba588160bd005872ba6c36f3b8580fa33e",
+    "docs/CONTEXT.json": "d66cdd61cfadbde7a936ba06972360fdc097e91fb11bf402035565c09218cc3c",
+    "docs/NAMES.md": "c8fff61ffde9ce550b4d1184cab823120a209474f19e6e8c4529997f78f8d1ba",
+    "docs/STATE.md": "5ab20a43a637d0c6e18d3ce9aa80701f68e17004cbc44bb6e28122c705250ac8",
+    "summaries/beats/0814.md": "9eeddef17f85a8c0784932521411fe5adaad822072b29e0e0410639b6f8ffa0c"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "도플갱어",
+        "kinship": "enemy",
+        "normal_address": "you; the Doppelganger",
+        "notes": "Jin directly challenges the Doppelganger and demands to know what it wants.",
+        "speaker": "진태경",
+        "speech_level": "blunt and informal"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Doppelganger can revive by consuming the lives of its victims and can reproduce their appearances, abilities, and memories.",
+        "Jin destroyed the Doppelganger's Level 120 Yamamoto Genji identity; the Doppelganger survived in another victim's appearance.",
+        "Fanatics are advancing through the canyon, and Hunters who had been expected to travel east arrive on eagles and griffins."
+      ],
+      "plot": [
+        "With fanatics closing in and the Doppelganger regenerating by drawing on the lives, abilities, and memories of its victims, Jin destroys its Yamamoto Genji identity with Scorching Yang Qi. The Doppelganger tries to manipulate Jin into fleeing by invoking the suffering his death would cause, but Jin sees through the ploy and attacks again. Reinforcements arrive over the canyon on eagles and griffins."
+      ],
+      "translation_decisions": [
+        "Render 이노우에 히로시 as Hiroshi Inoue."
+      ]
+    },
+    "chapter": 814,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and pursues Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet is a Level 170 Doppelganger titled “The Final Abyss” and has concealed itself for decades, including under the name Muninn.",
+        "The Prophet can revive by drawing on the lives of its victims and can reproduce their appearances, abilities, and memories.",
+        "Jin destroyed the Doppelganger's Level 120 Yamamoto Genji identity with Scorching Yang Qi, but The Prophet survived in another appearance.",
+        "Fanatics are advancing through the canyon; Hunters arrive as reinforcements on eagles and griffins.",
+        "Magic Johnson says he helped Jin because they are friends; whether Johnson is human remains uncertain."
+      ],
+      "continuity_sources": [
+        813,
+        814
+      ],
+      "open_questions": [
+        "Why does The Prophet want Jin to flee, and what does it ultimately want?",
+        "Is Magic Johnson human?"
+      ],
+      "safe_through": 814,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Keep the Demon Realm language distinct from other languages."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Hiroshi Inoue",
+        "korean": "이노우에 히로시",
+        "notes": "A J1 Hunter whose appearance and memories the Doppelganger has taken."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Yamamoto Genji is revealed to be The Prophet, the monster who has posed as Muninn.",
+        "path": "characters/Yamamoto.md",
+        "replacement": "- **Role:** Yamamoto Genji was a Level 120 identity of The Prophet, destroyed by Jin while the Doppelganger survived in another appearance."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

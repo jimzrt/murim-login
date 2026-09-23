@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "“No. I’m not leaving you out. I have no intention of leaving you out. Go back.”",
+      "defect": "“Go back” reverses the instruction to accompany Jin and conflicts with Jin’s repeated refusal to leave Genji behind.",
+      "id": "C01",
+      "rationale": "Keeps Jin’s emphatic repetition while making the order consistent with the party that sets out west.",
+      "replacement": "“No. I’m not leaving you out. I have no intention of leaving you out. You’re coming with us.”",
+      "severity": "minor",
+      "source": "Chapter 811, Jin’s reply to Yamamoto Genji after assigning the westward party"
+    }
+  ],
+  "summary": "The reading copies and active state largely agree on the reveal, the westward pursuit, and the unresolved questions. One line in Chapter 811 contradicts the order Jin has just given.",
+  "version": 1
+}
