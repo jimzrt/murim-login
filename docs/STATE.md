@@ -1,20 +1,22 @@
 # Translation State
 
-- Last completed: 911
-- Next chapter: 912
-- Current block: 910–914 (2/5)
-- Latest translation: `translations/0911.md`
-- Latest summary: `summaries/beats/0911.md`
-- Safe profiles through: chapter 911
+- Last completed: 912
+- Next chapter: 913
+- Current block: 910–914 (3/5)
+- Latest translation: `translations/0912.md`
+- Latest summary: `summaries/beats/0912.md`
+- Safe profiles through: chapter 912
 
 ## Current Block
 
-- Jeok Cheongang’s breakthrough gives him the strength to overwhelm and kill the Eastern Heaven Demon Lord. He says he vowed to kill every member of Dark Heaven after Hong Dao’s death; as he turns from the fallen Demon Lord, an inexplicable cold pain suddenly sweeps through his body.
+- The Eastern Heaven Demon Lord, believed dead, returns and grievously wounds Jeok Cheongang before they clash in a devastating exchange. Jin Taekyung shields the Fire Dragon Pavilion members from the shock wave while Jeok protects them from the blast. The Demon Lord reveals that he was once part of the Maoshan Sect, whose members died resisting the forced relocation of the capital, and Ma Sanbao returns alive as his disciple. As the undead army breaches the banquet hall, Jeok and the Demon Lord face each other again.
 
 ## Open Questions
 
-- What caused the sudden pain that struck Jeok Cheongang after the duel?
-- Can Jeok Cheongang fulfill his vow to kill every member of Dark Heaven?
+- What caused Jeok Cheongang’s unexplained cold pain?
+- How did the Eastern Heaven Demon Lord survive what appeared to be his death?
+- Can Jeok Cheongang defeat the Demon Lord despite his injuries?
+- What will happen as the undead army enters the banquet hall?
 
 ## Exceptional Decision
 
