@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it softens one characterization and omits a physical action at the scene’s close.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 267–269",
+      "current": "The thrill of revenge mingled with his obsession with one man.",
+      "defect": "The source says madness directed at one person (광기), not merely obsession. “Obsession” softens the intensity of Go Jun’s state.",
+      "replacement": "The thrill of revenge mingled with the madness focused on one man.",
+      "rationale": "The source explicitly describes his gaze as filled with madness toward one person; the accepted baseline also preserves that sense as “the madness directed at one person.”",
+      "confidence": 0.87
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 305",
+      "current": "Carrying both his gratitude for everything until now and his disgust toward Go Jun as a human being, Go Se-won bowed deeply.",
+      "defect": "The next physical action—Go Se-won opening the tightly closed door—is omitted.",
+      "replacement": "Carrying both his gratitude for everything until now and his disgust toward Go Jun as a human being, Go Se-won bowed deeply. Then he opened the tightly closed door.",
+      "rationale": "The source explicitly says that after bowing, Go Se-won opened the tightly closed door before the emergency sirens sounded.",
+      "confidence": 0.99
+    }
+  ]
+}

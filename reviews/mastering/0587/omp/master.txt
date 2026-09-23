@@ -4,7 +4,7 @@ The air. Time.
 
 Everything seemed to have stopped.
 
-That was how it felt to the master of Area A, hidden in the strictest secrecy within Ares Guild in Jongno, Seoul.
+That was how it felt to the master of Area A, hidden in the strictest secrecy within Ares Guild headquarters in Jongno, Seoul.
 
 *How?*
 
@@ -22,7 +22,7 @@ It was the voice of the public broadcaster’s nine o’clock news anchor. Usual
 
 Go Jun’s eyelids trembled.
 
-The brutally dismembered corpse of the monster. The survivors. The voices of the Peace Guild members and the anchor explaining the situation.
+The monster’s dismembered corpse. The survivors. The voices of the Peace Guild members and the anchor explaining what had happened.
 
 All of it fed his fury.
 
@@ -38,7 +38,7 @@ The instant Choi Minwoo appeared on the screen, being evacuated with a respirato
 
 The knowledge weighed on him.
 
-To Go Jun, Choi Minwoo was a bastard who deserved to die. A bastard who had to die.
+To Go Jun, Choi Minwoo deserved to die. He had to die.
 
 That was why Go Jun had laid the trap.
 
@@ -70,7 +70,7 @@ Even after Go Jun had set a trap there was no escaping. Even then, again!
 
 Crkkkk!
 
-Instead of a roar filled with resentment, a chilling grinding sound filled the office.
+Instead of a furious shout, a chilling grinding sound filled the office.
 
 Go Jun forced down his surging anger and barely managed to speak.
 
@@ -90,9 +90,9 @@ Go Se-won, the Head of Security, had watched his superior’s fury in silence. H
 
 “What about the Gate access records?”
 
-“Nothing there either. We believe the Peace Guild, which effectively owns that Gate, deliberately left no traces behind.”
+“Nothing there either. We believe the Peace Guild, which effectively owns that Gate, deliberately left no trace of his visit.”
 
-“Of course. That makes sense. Even if Choi Minwoo is a little bastard, he’s extremely careful. Isn’t he?”
+“Of course. Choi Minwoo may be a little bastard, but he’s careful. Isn’t he?”
 
 “……Yes.”
 
@@ -114,7 +114,7 @@ A chill seized Go Se-won’s entire body. His frozen figure was reflected in Go 
 
 “……!”
 
-Go Se-won’s eyes trembled violently. The malice radiating from one man, along with his horrifying aura, pressed down on him.
+Go Se-won’s eyes trembled. The malice pouring from one man, and the terrifying aura that came with it, pressed down on him.
 
 *How can someone become like this…?*
 
@@ -134,7 +134,7 @@ He had exploited his subordinates’ near-religious loyalty and sent them to the
 
 All to eliminate his enemies.
 
-*A monster that has forgotten even the minimum duty a human being should possess.*
+*A monster that has forgotten the bare minimum of what it means to be human.*
 
 Go Se-won was struggling to hide how shaken he felt when Go Jun spoke again.
 
@@ -156,17 +156,17 @@ Cheon Taemin had laid the foundation, but after he lost consciousness, Lee Jungr
 
 Young politicians Ares had supported long ago had become prime ministers, ruling-party leaders, and opposition heavyweights. It was the same in business, the prosecutors’ office, and the media.
 
-Some portion of the astronomical sums Ares Guild earned from Gates—the diamond mines of this world—had been scattered everywhere as dirty money. Those seeds had grown into a dense forest surrounding an impregnable fortress.
+A portion of the astronomical sums Ares Guild earned from Gates—diamond mines in all but name—had been scattered far and wide as dirty money. Those seeds had grown into a dense forest around an impregnable fortress.
 
-Go Jun was one of the people who knew that fact better than anyone.
+Go Jun knew that better than most.
 
 Among the things he had inherited from his Master was a ledger packed with records of corruption and weaknesses.
 
-“Even if everyone points fingers at us, this world itself is what protects us.”
+“Even if everyone points fingers at us, the world itself will protect us.”
 
 In his impatience and anger, he had forgotten how much power he held.
 
-And just as Go Jun’s confidence fully returned and a deep smile spread across his lips—
+His confidence returned. A broad smile spread across his face.
 
 “You’re wrong.”
 
@@ -186,7 +186,7 @@ Go Jun froze.
 
 The thought of grabbing the Head of Security by the collar for daring to spout nonsense to his face vanished.
 
-It was because of the name of the one person who had struck him in the mind.
+One name had struck him.
 
 *Jin Taekyung.*
 
@@ -202,7 +202,7 @@ Unfortunately, the bastard in front of him was not talking nonsense. Every word 
 
 *Master.*
 
-It was true. Lee Jungryong—Ares’s master and a man who had been no different from the king of Korea—had ultimately been killed by Jin Taekyung’s hand.
+Lee Jungryong. Go Jun’s Master had ruled Ares and been as good as the king of Korea. Yet Jin Taekyung had killed him.
 
 The whole world had been his, and no one in it had protected him.
 
@@ -220,7 +220,7 @@ Go Jun spoke through clenched teeth, his voice seething.
 
 Rumble!
 
-A massive aura burst from Go Jun’s entire body like an explosion. The office shook as though an earthquake had struck.
+An immense surge of qi erupted from Go Jun’s body. The office shook as though an earthquake had struck.
 
 Go Se-won’s face went pale before that overwhelming power, but his fear was nothing beside the disgust he felt.
 
@@ -232,11 +232,11 @@ Go Jun saw it in his eyes and bared his teeth.
 
 “……”
 
-“I only put you in the position of team leader because your abilities were at least useful. Did wearing a title that was never meant for you suddenly make the world look different?”
+“I only made you team leader because you had some useful skills. Did getting a title you never deserved change the way you see the world?”
 
 He gave an angry laugh and went on.
 
-“Team Leader Go, you’re a coward and a piece of trash. You wrapped it in pretty words and called it loyal counsel, but you’re more afraid of Jin Taekyung than you are of my Master and me.”
+“You’re a coward and a piece of trash. You dress this up as loyal advice, but the truth is you’re more afraid of Jin Taekyung than you are of my Master or me.”
 
 “……That isn’t true.”
 
@@ -244,13 +244,13 @@ He gave an angry laugh and went on.
 
 Crk. Crk!
 
-“It’s only a matter of time. Now that I—now that I’ve decided to kill that bastard—I’ll find a way worthy of it… Damn it. Do you understand?”
+“It’s only a matter of time. Now that I’ve decided to kill him, I’ll find a way. More than enough of a way… Damn it. Do you understand?”
 
 Crkkkk!
 
 His chilling voice mingled with the grinding of the Magic Gems. Go Jun glared at Go Se-won, his eyes so red they were nearly the color of blood.
 
-He leaned his upper body forward toward the subordinate who had dared to commit an unforgivable crime. An old necklace slipped out and spun slowly in front of Go Se-won’s eyes.
+He leaned toward the subordinate who had dared commit this unforgivable offense. An old necklace slipped out from his clothes and swung in circles before Go Se-won’s eyes.
 
 “Team Leader Go. Go Se-won. You ungrateful piece of trash.”
 
@@ -274,11 +274,11 @@ The thrill of revenge mingled with his obsession with one man. Go Se-won watched
 
 “Yes.”
 
-At the short answer, Go Jun laughed aloud. He laughed until his face twisted and the office seemed ready to fall apart from the sound. Then, suddenly, his expression sank, and he parted his lips.
+Go Jun burst out laughing. He laughed until his face twisted and his voice seemed to shake the office. Then his expression went flat.
 
 “You fucking idiot. This is Ares Guild. Fall forward and you land at the Blue House; fall backward and you land at the National Assembly. Do you really think he’ll do something insane enough to turn the whole world against him?”
 
-“I hear someone I know artificially caused a Monster Wave. Do you really think Jin Taekyung is incapable of doing something less insane than that?”
+“I hear someone I know deliberately caused a Monster Wave. Why wouldn’t Jin Taekyung do something less insane than that?”
 
 “……!”
 
@@ -300,6 +300,6 @@ As the roar began to fade, Go Se-won’s voice reached him.
 
 “Dealing with that lunatic will probably be my final assignment. Thank you for everything, Vice Guild Master. If I survive, I’ll submit my resignation formally.”
 
-Carrying both his gratitude for everything until now and his disgust toward Go Jun as a human being, Go Se-won bowed deeply.
+With gratitude for the years behind them and disgust for what Go Jun had become, Go Se-won bowed deeply. Then he flung open the door.
 
 Emergency sirens were waking Ares Guild.
