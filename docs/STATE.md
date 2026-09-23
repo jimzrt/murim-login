@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 833
-- Next chapter: 834
-- Current block: 830–834 (4/5)
-- Latest translation: `translations/0833.md`
-- Latest summary: `summaries/beats/0833.md`
-- Safe profiles through: chapter 833
+- Last completed: 834
+- Next chapter: 835
+- Current block: 830–834 (5/5)
+- Latest translation: `translations/0834.md`
+- Latest summary: `summaries/beats/0834.md`
+- Safe profiles through: chapter 834
 
 ## Current Block
 
-- Jin Taekyung dreams—or receives a vision—of Ahomed’s ritual opening a rift and summoning a black-haired, red-eyed man who kills Ahomed and unleashes a storm of magical power on the gathered crowd. Jin wakes in a carriage in Nanman, finds the System unavailable after an apparent update, and suspects the vision showed the calamity he failed to prevent, though he does not know whether it was real or prophetic. He then catches Hyuk Mujin loudly boasting to others about his closeness to Jin.
+- After waking in Nanman, Jin reunites with the Fire Dragon Pavilion party and learns he briefly woke three days earlier; Jeok Cheongang has gone to Sichuan to bring back the Divine Physician. Jin’s [Broken Body] injury still causes pain around his lower dantian, and he accepts that using One Annihilation to survive came with a cost.
+- Taishan returns carrying a giant beehive as a supposed cure for Jin. The party quietly retreats to the carriage as the bees swarm.
 
 ## Open Questions
 
