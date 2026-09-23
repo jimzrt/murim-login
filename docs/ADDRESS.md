@@ -1301,3 +1301,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 미카엘 실베르트 | 파비안 | rival leaders of major Guilds | Fabian | familiar, controlled | Michael addresses Fabian while naming former supporters. |
 | 척 헤이글 | 파비안 | former comrades-in-arms turned enemies | Fabian | casual and insulting | Chuck confronts Fabian over his choice to side with Michael. |
 | 파비안 | 척 헤이글 | former comrades-in-arms turned enemies | Chuck Hagel | strained, confrontational | Fabian identifies Chuck when they face one another. |
+| 진태경 | 미카엘 실베르트 | Opponents | you | Informal speech | Taekyung addresses Michael with 너 and hostile insults. |
+| 미카엘 실베르트 | 진태경 | Opponents | you | Polite familiar speech | Michael addresses Taekyung as 자네. |

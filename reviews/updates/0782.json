@@ -1,0 +1,85 @@
+{
+  "chapter": 782,
+  "files": {
+    "characters/Michael.md": "5afb183d0ece3403e85dd1a09a0a96433de4c1b3e81a68c04bbc004c8beae3d9",
+    "characters/The Prophet.md": "70d11b238d79ac0c6491bee7e017d77c65dacef3b5423a76950aa693ba449e39",
+    "docs/ADDRESS.md": "8db9e79ef5ea3bb4279d4c11d5c9e6e23a49de5f2010abaf0bfb116c09d99a97",
+    "docs/CONTEXT.json": "19bebbae3ce5c86bbc89beb788962ab3cb0371dcf3daedc7e1dfe84a1fa73fad",
+    "docs/STATE.md": "3ea6584a78f8419bcf7399acb594a8cc9c52dc512bc8f531cc17df40699696ab",
+    "summaries/beats/0782.md": "9298d0572ef5e767ad4e80625050995881066393302156921a2a95327faa38a8"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "미카엘 실베르트",
+        "kinship": "Opponents",
+        "normal_address": "you",
+        "notes": "Taekyung addresses Michael with 너 and hostile insults.",
+        "speaker": "진태경",
+        "speech_level": "Informal speech"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "Opponents",
+        "normal_address": "you",
+        "notes": "Michael addresses Taekyung as 자네.",
+        "speaker": "미카엘 실베르트",
+        "speech_level": "Polite familiar speech"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin and Michael’s fight at the National Assembly is still underway; Taekyung has resolved to kill Michael rather than yield to him.",
+        "Michael’s absorbed magical power has repeatedly fallen out of balance with his mana; he has contemplated succeeding Asmodeus as a new Demon King.",
+        "Some cameras at the National Assembly remain operational, but the confrontation is not being broadcast; the location of Michael’s pet crow and the reason for the silence outside remain unclear.",
+        "Taekyung used the Flame-Extinguishing Divine Fist and Flame Divine Palm together to disrupt and redirect Michael’s aura, limiting its danger to nearby people."
+      ],
+      "plot": [
+        "Jin Taekyung clashes with Michael Silbert at the National Assembly, redirecting Michael’s overwhelming power away from the nearby fighters before confronting him again. Michael reveals that his magical power has repeatedly fallen out of balance with his mana and says he considered becoming a new Demon King if he could not reach the human pinnacle. Taekyung rejects the idea that surrendering the world to Michael would stop future disasters, resolves to kill him, and charges forward as a Hunter; the outcome remains unknown."
+      ],
+      "translation_decisions": [
+        "Keep magical power distinct from mana.",
+        "Render 스켈레톤 킹 as Skeleton King."
+      ]
+    },
+    "chapter": 782,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung and Michael Silbert are still fighting at the National Assembly; Taekyung has resolved to kill Michael.",
+        "Michael’s absorbed magical power has repeatedly fallen out of balance with his mana; he has considered becoming a new Demon King.",
+        "Some National Assembly cameras remain operational, but the fight is not being broadcast.",
+        "Taekyung can combine the Flame-Extinguishing Divine Fist and Flame Divine Palm to disrupt and redirect Michael’s aura."
+      ],
+      "continuity_sources": [
+        782
+      ],
+      "open_questions": [
+        "Who will prevail in the fight at the National Assembly?",
+        "Where is Michael’s pet crow, and why is the outside world silent despite the fighting?",
+        "What truth does Michael intend to keep from becoming public?"
+      ],
+      "safe_through": 782,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Skeleton King",
+        "korean": "스켈레톤 킹",
+        "notes": "Undead ally fighting at the National Assembly."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Michael Silbert is Odin Guild Master and a public hero positioning himself to lead the World Hunter Federation, secretly able to absorb monsters’ magical power while concealing it alongside mana.",
+        "path": "characters/Michael.md",
+        "replacement": "- **Role:** Michael Silbert is Odin Guild Master and a public hero who absorbs monsters’ magical power, which has repeatedly fallen out of balance with his mana, and has contemplated becoming a new Demon King."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

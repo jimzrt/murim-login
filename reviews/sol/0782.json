@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "We’ve had imbalances like this several times before.",
+      "defect": "“We” makes the past imbalances a shared experience rather than Michael’s own.",
+      "id": "F01",
+      "rationale": "Michael describes his own recurring imbalance between magical power and mana.",
+      "replacement": "I’ve experienced imbalances like this several times before.",
+      "severity": "critical",
+      "source": "이미 오늘과 같은 불균형은 과거에도 몇 번이나 겪었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "I thought it wouldn’t be so bad to become a new Demon King, to follow in Asmodeus’s footsteps.",
+      "defect": "“Follow in Asmodeus’s footsteps” suggests emulating him rather than succeeding him as Demon King.",
+      "id": "F02",
+      "rationale": "뒤를 이은 specifies succession.",
+      "replacement": "I thought it wouldn’t be so bad to succeed Asmodeus as the new Demon King.",
+      "severity": "major",
+      "source": "아스모데우스의 뒤를 이은 새로운 마왕이 되는 것도 나쁘지는 않겠구나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As I charged toward the wave of Michael Silbert’s energy, surging like a wave in a boundless ocean, I suddenly wondered why the enormous power he wielded felt so insufficient to frighten me.",
+      "defect": "The draft omits that Michael’s power makes even Jin’s three jiazi of internal energy feel hopelessly inadequate.",
+      "id": "F03",
+      "rationale": "Jin’s lack of fear is striking precisely because he recognizes how far his own internal energy falls short.",
+      "replacement": "As I charged toward his energy, surging like waves across a boundless sea, I suddenly wondered why that immense power—enough to make even my three jiazi of internal energy feel hopelessly inadequate—didn’t frighten me.",
+      "severity": "major",
+      "source": "내가 지닌 삼 갑자의 공력마저 턱없이 부족하게 느껴질 만큼 거대한 저 기운이, 왜 두렵게 느껴지지 않는지."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes who experienced Michael’s past imbalances and omits a key comparison in Jin’s final assessment of his power.",
+  "version": 1
+}
