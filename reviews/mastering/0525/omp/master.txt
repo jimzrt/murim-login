@@ -14,7 +14,7 @@ The monster known as the Great Faction War had claimed countless lives and turne
 
 *But in the end… here we are again.*
 
-Enough time had passed for the mountains and rivers to change four times over.
+More than forty years had passed.
 
 Peace had come to the world. The pain and sorrow of war had faded, and orthodox Murim had sung of the glory of victory.
 
@@ -22,15 +22,15 @@ Then a dark cloud called Dark Heaven appeared in a sky that had seemed destined 
 
 *Peace is over.*
 
-The runny-nosed child who had not understood the horrors of war had become middle-aged, while the young man who had drawn his weapon and burned with righteous indignation had grown old.
+The runny-nosed children who had been too young to understand the horrors of war were now middle-aged. The young men who had drawn their weapons, burning with righteous spirit, had grown old.
 
 Those who had not even been born back then had come to Henan seeking glory rather than justice.
 
 Their lives, personalities, and goals were all different.
 
-And Sword Saint Mae Jonghak knew it well. He—and no one else—would have to lead them all into battle once again. He would have to defeat Dark Heaven, which sought to plunge the world into misery.
+Mae Jonghak knew better than anyone that he would have to lead them all into battle once more. He would have to defeat Dark Heaven before it plunged the world into misery.
 
-That was when a low voice slipped between Mae Jonghak’s firmly closed lips.
+That was when he broke the silence.
 
 “Every now and then, I wonder whether I can truly do it.”
 
@@ -42,9 +42,9 @@ Thousand-Faced Fox Song Ho, a sturdy old man, stepped forward as he answered.
 
 Clack.
 
-The tip of his prosthetic leg struck the floor, the sound echoing unusually loudly. Beneath his hanging white hair, his shrewd eyes shone with force.
+The tip of his prosthetic leg struck the floor, the sound echoing unusually loudly. Beneath his hanging white hair, his shrewd eyes shone with resolve.
 
-“No—you must.”
+“No. You must.”
 
 “I know.”
 
@@ -64,13 +64,13 @@ When the Great Faction War ended and Huashan’s former Sect Leader passed away,
 
 “But you refused. In the end, the Sect Leader’s Command Token went to your Disciple, Heavenly Sword True Person.”
 
-“It was only natural. He was more suited to becoming Huashan’s Sect Leader than I was. And…”
+“It was only natural. He was better suited to lead Huashan than I was. And…”
 
-Mae Jonghak ran his fingers over the treasured sword at his waist before continuing.
+Mae Jonghak touched the treasured sword at his waist before continuing.
 
 “I simply liked the sword.”
 
-The Thousand-Faced Fox gazed quietly at Mae Jonghak, then suddenly spoke.
+The Thousand-Faced Fox studied him for a moment, then spoke.
 
 “I don’t know if I ever told you this.”
 
@@ -82,11 +82,11 @@ The Thousand-Faced Fox gazed quietly at Mae Jonghak, then suddenly spoke.
 
 The Thousand-Faced Fox gave a small nod.
 
-“To the people of the world, that person seemed perfect in every way.”
+“To the people of the world, he seemed perfect in every way.”
 
 “I know. The Martial God excelled at everything. No—he was overwhelming.”
 
-“But he was a person too. And in the end, he succeeded. For some reason, these old eyes see the two of you overlapping.”
+“But he was human too. And in the end, he did it. For some reason, when I look at you now, I see the two of you together.”
 
 “…!”
 
@@ -108,7 +108,7 @@ Mae Jonghak went still. For a while, he said nothing, gazing at the old martial 
 
 “You’re not late. This is only the beginning.”
 
-Sword Saint Mae Jonghak turned his head. Powerful sunlight poured through the wide-open window.
+Sword Saint Mae Jonghak turned his head. Bright sunlight poured through the wide-open window.
 
 *Yes. It truly is a fine day.*
 
@@ -118,7 +118,7 @@ At that moment, the Thousand-Faced Fox realized that the young man before him wa
 
 “Chief of the Hidden Shadow Pavilion.”
 
-The quiet voice pierced Song Ho’s ears.
+The quiet voice reached Song Ho’s ears.
 
 The Hidden Shadow Pavilion answered directly to the Alliance Leader’s Hall, and only one person had the authority to command its chief.
 
@@ -182,13 +182,13 @@ Shhk-shhk-shhk!
 
 Thousands of martial artists parted at once.
 
-No cheers or exclamations could be heard.
+No cheers rose. No one even gasped aloud.
 
-Some were stunned by Sword Saint Mae Jonghak’s youthful appearance, while others shuddered at the overwhelming aura they could feel against their skin. But not one dared voice a question or say anything aloud.
+Some must have been stunned by Mae Jonghak’s youthful appearance, others shaken by the overwhelming aura they could feel against their skin. But none dared voice a question.
 
 *No. They couldn’t doubt him.*
 
-This was a path meant for one person alone.
+The path they had opened was meant for one person alone.
 
 Mae Jonghak passed through the ranks and ascended the high platform. Standing there like a giant, he swept his calm gaze over the crowd.
 
@@ -220,7 +220,7 @@ It shook heaven and earth.
 
 “…!”
 
-The air surrounding us burst apart.
+The air around us seemed to burst apart.
 
 A towering tree trembled, and the heroes gathered below the platform froze like statues.
 
@@ -234,7 +234,7 @@ Fear and anger filled the eyes of the older martial artists. The younger ones tr
 
 “Dharma King Hong Dao.”
 
-At Mae Jonghak’s next words, the monks of Shaolin softly murmured Buddhist invocations.
+At Mae Jonghak’s words, the monks of Shaolin murmured Buddhist invocations.
 
 “Poison King Tang Taesang. And the Heaven-Shaking Venerable Nun of Emei.”
 
@@ -260,9 +260,9 @@ But I knew why they had taken up their swords.
 
 *To protect something precious.*
 
-Boom!
+Whoosh!
 
-An unprecedented aura burst from Mae Jonghak’s entire body.
+A tremendous aura burst from Mae Jonghak’s body.
 
 Purple qi rooted in the Zaha Divine Technique rolled over his shoulders like waves.
 
@@ -272,7 +272,7 @@ His manner of speaking and his aura weren’t the only things that had changed.
 
 Right now, before he was the Sword Saint or the Number One Sword Under Heaven, Mae Jonghak was the Alliance Leader guiding us all.
 
-“For the sake of the families who share our blood. For the sake of the Senior Brothers and fellow disciples, and the sects with which we have shared joy and hardship. And…”
+“For the families who share your blood. For the fellow disciples and sects with whom you’ve shared hardship and joy. And…”
 
 A mighty shout erupted from his lips.
 
@@ -310,7 +310,7 @@ But what he did next caught everyone by surprise.
 
 “…!”
 
-I could feel the crowd’s agitation against my skin. Jeok Cheongang, who had been silently staring at Mae Jonghak, suddenly spoke.
+I could feel the crowd’s agitation. Jeok Cheongang stared silently at Mae Jonghak for a moment, then spoke.
 
 “Is the flag heavy?”
 
@@ -322,6 +322,6 @@ I knew what I had to do.
 
 At Jeok Cheongang’s signal, Cheongpung and I stepped forward and took hold of the flag together.
 
-Then we pulled it upright with all our strength.
+Then we heaved it upright.
 
 The Murim Alliance had been born.

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Few people alive still shared those old memories.",
+      "defect": "The source says few people remain who remember the stale old memory; “shared” instead suggests that few people shared the memories with Mae Jonghak.",
+      "id": "F01",
+      "rationale": "이제는 기억하는 이조차 몇 남지 않은 means that few people remain who even remember it, not that few people shared it.",
+      "replacement": "Few people alive still remembered them.",
+      "severity": "minor",
+      "source": "Korean line 11"
+    }
+  ],
+  "summary": "The chapter is broadly faithful. One minor wording shift changes who remembers the old memories.",
+  "version": 1
+}

@@ -1,0 +1,2109 @@
+{
+  "baseline_blocks": 167,
+  "baseline_sha256": "a8f451c87b061e0070cf4bd37ea16b3e8d9b1347eb15567d9b7322d6619f84d0",
+  "global_terminology_alerts": [
+    {
+      "korean": "사형",
+      "preferred": "Senior Brother"
+    }
+  ],
+  "hunk_count": 111,
+  "hunks": [
+    {
+      "baseline": "The Alliance Leader’s Hall was quiet in every direction. Only one person remained in the hall where countless people had come and gone just one shichen—approximately two hours—earlier.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "The Alliance Leader’s Hall was silent. Only one person remained where countless people had come and gone just one shichen—approximately two hours—earlier.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young man, Sword Saint Mae Jonghak, murmured the words under his breath.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "Sword Saint Mae Jonghak murmured the words under his breath. His youthful face was turned toward empty space, but his gaze was searching a distant past. Few people alive still shared those old memories.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His gaze was fixed on empty space, reaching back toward some distant point in the past. It was a stale old memory that hardly anyone alive still remembered.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*They all went that way.*",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "*They’re all gone now.*",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of the people who shared the same memories as Mae Jonghak, very few had lived out their natural spans.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "",
+      "sol_paragraphs": "after P5",
+      "sol_range": [
+        5,
+        5
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "매종학",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mae Jonghak"
+        }
+      ]
+    },
+    {
+      "baseline": "Most had fallen in nameless wastelands and fields, never to rise again.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "Of those who shared Mae Jonghak’s memories, very few had lived out their natural spans. Most had fallen in nameless wastelands and fields, never to rise again.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The monster known as the Great Faction War had given birth to countless deaths and turned those who survived into heroes.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "19",
+      "sol": "The monster known as the Great Faction War had claimed countless lives and turned the survivors into heroes.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But in the end… it’s happening again.*",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "*But in the end… here we are again.*",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Enough time had passed for the mountains and rivers to change four times over.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "23",
+      "sol": "More than forty years had passed.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Peace had come to the world. The pain and sorrow endured in the whirlpool of war had faded, and the orthodox Murim had sung of the glory of victory.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "25",
+      "sol": "Peace had come to the world. The pain and sorrow of war had faded, and orthodox Murim had sung of the glory of victory.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, beneath a sky that had seemed destined to remain blue forever, a dark cloud called Dark Heaven had appeared.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "27",
+      "sol": "Then a dark cloud called Dark Heaven appeared in a sky that had seemed destined to remain blue forever.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Peace is over now.*",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "29",
+      "sol": "*Peace is over.*",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The runny-nosed child who had not understood the horrors of war had become middle-aged, while the young man who had drawn his weapon and burned with righteous indignation had grown old.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "31",
+      "sol": "The runny-nosed children who had been too young to understand the horrors of war were now middle-aged. The young men who had drawn their weapons, burning with righteous spirit, had grown old.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those who had not even been born back then had come to Henan in pursuit of glory rather than justice.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "33",
+      "sol": "Those who had not even been born back then had come to Henan seeking glory rather than justice.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Sword Saint Mae Jonghak knew it well. He—and no one else—would have to lead them all into battle once again. He would have to defeat Dark Heaven, which sought to plunge the world into misery.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "37",
+      "sol": "Mae Jonghak knew better than anyone that he would have to lead them all into battle once more. He would have to defeat Dark Heaven before it plunged the world into misery.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "검성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Sword Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "That was when a low voice slipped between Mae Jonghak’s firmly closed lips.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "39",
+      "sol": "That was when he broke the silence.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "매종학",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mae Jonghak"
+        }
+      ]
+    },
+    {
+      "baseline": "“Every now and then, I find myself wondering. Wondering whether I can truly do this.”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "41",
+      "sol": "“Every now and then, I wonder whether I can truly do it.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was not a soliloquy. Mae Jonghak knew it, as did the person who had been quietly standing guard outside the door for some time.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "43",
+      "sol": "He was not talking to himself. Mae Jonghak knew it, and so did the person who had been quietly standing guard by the door.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sturdy old man, Thousand-Faced Fox Song Ho, stepped forward as he answered.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "45",
+      "sol": "Thousand-Faced Fox Song Ho, a sturdy old man, stepped forward as he answered.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tip of his prosthetic leg struck the floor, the sound echoing unusually loudly. Beneath his hanging white hair, his shrewd eyes shone with force.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "51",
+      "sol": "The tip of his prosthetic leg struck the floor, the sound echoing unusually loudly. Beneath his hanging white hair, his shrewd eyes shone with resolve.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No—you must.”",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "53",
+      "sol": "“No. You must.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But I’ve known nothing but the sword my entire life. Thanks to that, I even gained the empty title of Sword Saint.”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "59",
+      "sol": "“But I’ve known nothing but the sword my entire life. That’s how I came by the empty title of Sword Saint.”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It is precisely because you are the Sword Saint that everyone will trust and follow you.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "61",
+      "sol": "“It’s precisely because you are the Sword Saint that everyone will trust and follow you.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The vessel of a martial artist and the vessel of a leader are different. I couldn’t even become the Sect Leader of a faction.”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "63",
+      "sol": "“Being a martial artist is different from being a leader. I never even became the Sect Leader of a single faction.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s not that you couldn’t. You simply chose not to.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "65",
+      "sol": "“It’s not that you couldn’t. You chose not to.”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Thousand-Faced Fox was speaking the truth.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "67",
+      "sol": "The Thousand-Faced Fox was right.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "When the Great Faction War ended and the former Sect Leader passed away, every disciple of Huashan had firmly believed that Sword Saint Mae Jonghak would become their new Sect Leader.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "69",
+      "sol": "When the Great Faction War ended and Huashan’s former Sect Leader passed away, every disciple of Huashan had been certain that Sword Saint Mae Jonghak would become their new Sect Leader.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It was only natural. He was more suited to becoming Huashan’s Sect Leader than I was. And…”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "73",
+      "sol": "“It was only natural. He was better suited to lead Huashan than I was. And…”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "문주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Sect Leader"
+        },
+        {
+          "korean": "장문인",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Sect Leader"
+        }
+      ]
+    },
+    {
+      "baseline": "Mae Jonghak ran his fingers over the treasured sword at his waist before continuing.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "75",
+      "sol": "Mae Jonghak touched the treasured sword at his waist before continuing.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Thousand-Faced Fox gazed quietly at Mae Jonghak, then suddenly spoke.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "79",
+      "sol": "The Thousand-Faced Fox studied him for a moment, then spoke.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "매종학",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mae Jonghak"
+        }
+      ]
+    },
+    {
+      "baseline": "“I don’t know whether I ever told you this.”",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "81",
+      "sol": "“I don’t know if I ever told you this.”",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“To the people of the world, that person seemed perfect in every way.”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "91",
+      "sol": "“To the people of the world, he seemed perfect in every way.”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "그분",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "that person"
+        }
+      ]
+    },
+    {
+      "baseline": "“But he was a person too. And in the end, he succeeded. For some reason, these old eyes see the two of you overlapping.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "95",
+      "sol": "“But he was human too. And in the end, he did it. For some reason, when I look at you now, I see the two of you together.”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "97",
+      "sol": "“…!”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mae Jonghak’s body abruptly stiffened. After silently regarding the old martial artist standing upright before him for some time, he suddenly spoke.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "99",
+      "sol": "Mae Jonghak went still. For a while, he said nothing, gazing at the old martial artist who stood straight before him. Then he spoke.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sword Saint Mae Jonghak turned his head. Powerful sunlight poured through the wide-open window.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "117",
+      "sol": "Sword Saint Mae Jonghak turned his head. Bright sunlight poured through the wide-open window.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He repeated the words once more in his heart. After taking in the blue sky, he slowly turned around.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "121",
+      "sol": "He repeated the words to himself. After taking in the blue sky, he slowly turned around.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, the Thousand-Faced Fox realized it.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "123",
+      "sol": "",
+      "sol_paragraphs": "after P58",
+      "sol_range": [
+        58,
+        58
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "천면호리",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Thousand-Faced Fox"
+        }
+      ]
+    },
+    {
+      "baseline": "The young man standing before him was no longer merely a martial artist.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "125",
+      "sol": "At that moment, the Thousand-Faced Fox realized that the young man before him was no longer merely a martial artist.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The quiet voice pierced Song Ho’s ears.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "129",
+      "sol": "The quiet voice reached Song Ho’s ears.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Hidden Shadow Pavilion was directly subordinate to the Alliance Leader’s Hall, and there was only one person with the authority to command its chief.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "131",
+      "sol": "The Hidden Shadow Pavilion answered directly to the Alliance Leader’s Hall, and only one person had the authority to command its chief.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, the words that slipped from Mae Jonghak’s lips were the beginning of the New Murim Alliance and the first order of its new Alliance Leader.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "137",
+      "sol": "Mae Jonghak’s next words marked the beginning of the New Murim Alliance—and its new Alliance Leader’s first order.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old martial artist’s eyelids trembled. Then a powerful cry, as forceful as any young man’s, followed.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "141",
+      "sol": "The old martial artist’s eyelids trembled. Then he answered with a cry as strong as any young man’s.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I raised my head and looked at the sky. The sun, already hanging high in the middle of the blue heavens, poured down fierce sunlight.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "151",
+      "sol": "I looked up at the sky. The sun had climbed high into the blue and was pouring down fierce sunlight.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not even a cool breeze stirred in the heat. A thought suddenly flashed through my mind.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "153",
+      "sol": "Not even a cool breeze stirred. One thought flashed through my mind.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was hot, but not sweltering.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "157",
+      "sol": "The heat was intense, but I wasn’t uncomfortably warm.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was not merely because I had reached the state of Unaffected by Cold and Heat after attaining the Supreme Peak realm.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "159",
+      "sol": "That wasn’t just because I’d become Unaffected by Cold and Heat after reaching the Supreme Peak realm.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What felt hot at this very moment was not the sunlight, but the heat itself. It would have been just as accurate to call it the aura radiating from countless people.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "161",
+      "sol": "It wasn’t the sunlight I could feel now. It was the heat rising from the crowd—the aura pouring off countless people.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Below the high platform, the aura released by an immeasurable number of martial artists seemed to have brought even the wind to a halt.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "165",
+      "sol": "Below the high platform, so many martial artists stood gathered that I couldn’t begin to count them. Their combined aura seemed to have stopped even the wind.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The qi rising like a heat haze burned hotter and fiercer than the sunlight pouring down from the sun.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "167",
+      "sol": "Qi rose from them like a heat haze, burning hotter and fiercer than the sunlight overhead.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, cutting through that heat, the person everyone had been waiting for finally appeared.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "169",
+      "sol": "Then, through that heat, the person everyone had been waiting for finally appeared.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The forceful sound of his footsteps pierced everyone’s ears. That alone was enough to tense their entire bodies and clear their minds.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "173",
+      "sol": "His firm footsteps reached every ear. The sound alone was enough to make bodies tense and minds snap to attention.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wandering martial artist who had been causing a drunken disturbance only yesterday, as well as the orthodox and unorthodox martial artists who had gotten into a full-blown brawl with each other, all swallowed dryly.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "175",
+      "sol": "The wandering martial artist who had caused a drunken disturbance only yesterday swallowed hard. So did the orthodox and unorthodox martial artists who had gotten into a brawl with each other.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything was because of the presence radiating from a single person.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "177",
+      "sol": "All because of one man’s presence.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If the Nine Sects and One Gang and the Five Great Families were the fifteen pillars supporting the world, then the people bearing those titles were the heroes who had given the world a new beginning.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "183",
+      "sol": "If the Nine Sects and One Gang and the Five Great Families were the fifteen pillars supporting the world, then the people bearing those titles were the heroes who had made that world anew.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ten kings stood upon the earth. Above them stretched the unreachable sky of the Martial God, and three stars adorned that sky.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "185",
+      "sol": "Ten kings stood upon the earth. Above them stretched the unreachable sky of the Martial God, adorned with three stars.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sword Saint Mae Jonghak. Also known as the Number One Sword Under Heaven.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "191",
+      "sol": "Sword Saint Mae Jonghak. The Number One Sword Under Heaven.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The thousands of martial artists split apart all at once.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "195",
+      "sol": "Thousands of martial artists parted at once.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No cheers or exclamations could be heard.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "197",
+      "sol": "No cheers rose. No one even gasped aloud.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some were stunned by Sword Saint Mae Jonghak’s youthful appearance, while others shuddered at the overwhelming aura they could feel against their skin. But not one dared voice a question or say anything aloud.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "199",
+      "sol": "Some must have been stunned by Mae Jonghak’s youthful appearance, others shaken by the overwhelming aura they could feel against their skin. But none dared voice a question.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "검성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Sword Saint"
+        }
+      ]
+    },
+    {
+      "baseline": "*No. There’s no room for doubt.*",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "201",
+      "sol": "*No. They couldn’t doubt him.*",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This was a path meant for one person alone.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "203",
+      "sol": "The path they had opened was meant for one person alone.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the giant who finally stepped through the ranks of people and climbed onto the high platform swept his calm gaze across the surroundings.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "205",
+      "sol": "Mae Jonghak passed through the ranks and ascended the high platform. Standing there like a giant, he swept his calm gaze over the crowd.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The platform was a place reserved for the chosen.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "209",
+      "sol": "The platform was reserved for a select few.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Sect Leaders of factions known as prestigious great sects and the Family Heads of great families. Or, regardless of their origins, heroes and masters who had built up immense fame. They were the people who belonged on this platform.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "211",
+      "sol": "Sect Leaders of prestigious great sects, Family Heads of great families, and heroes and masters who had earned great fame regardless of their origins. They were the people who belonged here.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Jeok Cheongang and I, as well as the Jin Family of Taiyuan, are no different.*",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "213",
+      "sol": "*Jeok Cheongang, the Jin Family of Taiyuan, and I are among them.*",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But if the people on the platform were the pillars of the new Murim Alliance, Sword Saint Mae Jonghak was its foundation and its head.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "215",
+      "sol": "But if those on the platform were the pillars of the new Murim Alliance, Sword Saint Mae Jonghak was its foundation and its head.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Without anyone needing to take the lead, everyone including me rose from their seats and clasped their hands toward Mae Jonghak.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "217",
+      "sol": "Without anyone taking the lead, we all rose from our seats and clasped our hands toward him.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "매종학",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mae Jonghak"
+        }
+      ]
+    },
+    {
+      "baseline": "Dozens of people spoke at once, but the voices that followed sounded as if they belonged to a single person.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "219",
+      "sol": "Dozens of us spoke at once, our voices so perfectly matched they sounded like one.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No one held back—not even Jeok Cheongang and Cheongpung, who were seated on either side of me. They all adopted solemn expressions and paid their respects.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "223",
+      "sol": "Everyone paid their respects with solemn faces—even Jeok Cheongang and Cheongpung, seated on either side of me.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mae Jonghak watched them with a faint smile, nodded, and turned away.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "225",
+      "sol": "Mae Jonghak gave us a faint smile, nodded, and turned away.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, the next moment, the martial artists numbering in the thousands—or perhaps ten thousand—heard it clearly.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "227",
+      "sol": "The next moment, every martial artist below—thousands of them, perhaps even ten thousand—heard his voice clearly.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The giant’s voice shook heaven and earth.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "229",
+      "sol": "It shook heaven and earth.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "233",
+      "sol": "“…!”",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The air surrounding us burst apart.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "235",
+      "sol": "The air around us seemed to burst apart.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The towering trees trembled, and the bodies of the heroes gathered below the platform stiffened like statues.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "237",
+      "sol": "A towering tree trembled, and the heroes gathered below the platform froze like statues.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Mae Jonghak continued speaking with unprecedented internal energy behind his words, there was no trace left of the eccentric figure we had seen until now.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "239",
+      "sol": "Mae Jonghak continued, his words carrying an extraordinary force of internal energy. Nothing remained of the eccentric man I’d known until now.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        }
+      ]
+    },
+    {
+      "baseline": "“The war has already begun, and another hundred thousand Demonic Path fighters are approaching the Central Plains.”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "241",
+      "sol": "“War has already begun. Another hundred thousand followers of the Demonic Path are approaching the Central Plains.”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There might have been people who had never experienced the Great Faction War, but there was no one who knew nothing of that terrible conflict.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "243",
+      "sol": "Some in the crowd had never lived through the Great Faction War, but none were ignorant of its horrors.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fear and anger clouded the eyes of the elderly martial artists, while the young martial artists trembled with an inexplicable shiver.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "245",
+      "sol": "Fear and anger filled the eyes of the older martial artists. The younger ones trembled at a feeling they could not name.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Mae Jonghak’s next words, the monks of Shaolin softly murmured Buddhist invocations.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "249",
+      "sol": "At Mae Jonghak’s words, the monks of Shaolin murmured Buddhist invocations.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Poison King Tang Taesang and the Heaven-Shaking Venerable Nun of Emei.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "251",
+      "sol": "“Poison King Tang Taesang. And the Heaven-Shaking Venerable Nun of Emei.”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tang Sadok, the Myriad-Poison Asura, had traveled a long way despite his ailing body, and his green eyes gleamed. The nuns of Emei Sect shed tears.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "253",
+      "sol": "Tang Sadok, the Myriad-Poison Asura, had made the long journey despite his ailing body. His green eyes gleamed, while the nuns of Emei Sect wept.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The blood that began flowing from Shanxi Province continued into Henan and reached Sichuan and Hubei.”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "255",
+      "sol": "“The bloodshed that began in Shanxi Province spread to Henan, then reached Sichuan and Hubei.”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old martial artists praised by everyone and the young people who were still mere greenhorns alike had fallen before they could ever bloom.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "259",
+      "sol": "Old martial artists praised by all and young greenhorns alike had fallen before their lives could fully bloom.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The memory still came to me whenever I closed my eyes.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "263",
+      "sol": "I could still see it whenever I closed my eyes.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Who were the people who had fallen in Henan, Sichuan, and Hubei?",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "267",
+      "sol": "Who had fallen in Henan, Sichuan, and Hubei?",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I did not know their names or the dreams they had held in life.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "269",
+      "sol": "I didn’t know their names or the dreams they’d held while they were alive.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But I knew what they had taken up their swords to protect.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "271",
+      "sol": "But I knew why they had taken up their swords.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Something precious.*",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "273",
+      "sol": "*To protect something precious.*",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Boom!",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "275",
+      "sol": "Whoosh!",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An unprecedented aura burst from Mae Jonghak’s entire body.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "277",
+      "sol": "A tremendous aura burst from Mae Jonghak’s body.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Purple energy rooted in the Zaha Divine Technique rolled over his shoulders like waves.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "279",
+      "sol": "Purple qi rooted in the Zaha Divine Technique rolled over his shoulders like waves.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was not only his manner of speaking and his aura that had changed.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "283",
+      "sol": "His manner of speaking and his aura weren’t the only things that had changed.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Mae Jonghak of this moment was not merely the Sword Saint or the Number One Sword Under Heaven. He was the Alliance Leader guiding everyone.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "285",
+      "sol": "Right now, before he was the Sword Saint or the Number One Sword Under Heaven, Mae Jonghak was the Alliance Leader guiding us all.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“For the sake of the families who share our blood. For the sake of the Senior Brothers and fellow disciples, and the sects with which we have shared joy and hardship. And…”",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "287",
+      "sol": "“For the families who share your blood. For the fellow disciples and sects with whom you’ve shared hardship and joy. And…”",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "사형",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Senior Brother"
+        }
+      ]
+    },
+    {
+      "baseline": "A mighty cry erupted from between Mae Jonghak’s lips.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "289",
+      "sol": "A mighty shout erupted from his lips.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "매종학",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mae Jonghak"
+        }
+      ]
+    },
+    {
+      "baseline": "“To protect this Murim where we live, take up your weapons!”",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "291",
+      "sol": "“To protect the Murim in which we live, take up your weapons!”",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The giant roared. A shiver rose along my spine.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "293",
+      "sol": "The giant roared. A shiver ran up my spine.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The martial artists filling every direction exhaled the breaths they had been holding and let out a thunderous cheer.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "295",
+      "sol": "The martial artists filling the grounds let out the breaths they’d been holding and raised a thunderous cheer.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“For the annihilation of the Demonic Path!”",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "299",
+      "sol": "“For the destruction of the Demonic Path!”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The world was flooded with light. Countless weapons flashed as they caught the sunlight pouring down overhead.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "303",
+      "sol": "The world flooded with light. Countless weapons flashed in the sunlight pouring down overhead.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The world was flooded with light. Countless weapons flashed as they caught the sunlight pouring down overhead.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "311",
+      "sol": "The world flooded with light. Countless weapons flashed in the sunlight pouring down overhead.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Mae Jonghak stared at the dazzling and magnificent sight, he reached down and grasped the enormous flag lying at his feet.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "313",
+      "sol": "Mae Jonghak gazed at the dazzling, magnificent sight, then grasped the enormous flag lying at his feet.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Those three characters had been written across the flag in a vigorous, flying script. Once he raised it, a new era would begin.",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "317",
+      "sol": "Those three characters had been written across it in bold, flowing strokes. Once he raised the flag, a new era would begin.",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "But the next thing Mae Jonghak did was beyond everyone’s expectations.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "319",
+      "sol": "But what he did next caught everyone by surprise.",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "매종학",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mae Jonghak"
+        }
+      ]
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "323",
+      "sol": "“…!”",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I could feel the crowd’s agitation against my skin. Jeok Cheongang, who had been silently staring at Mae Jonghak, suddenly spoke.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "325",
+      "sol": "I could feel the crowd’s agitation. Jeok Cheongang stared silently at Mae Jonghak for a moment, then spoke.",
+      "sol_paragraphs": "P157",
+      "sol_range": [
+        156,
+        157
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, I realized what I needed to do.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "333",
+      "sol": "I knew what I had to do.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Jeok Cheongang’s signal, Cheongpung and I stepped forward and grabbed the flag at the same time.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "335",
+      "sol": "At Jeok Cheongang’s signal, Cheongpung and I stepped forward and took hold of the flag together.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then we pulled it upright with all our strength.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "337",
+      "sol": "Then we heaved it upright.",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 164,
+  "sol_sha256": "2ddc696114d2b86c47050f342c09f3782f4e593ff80454c930998bd29229ecf7",
+  "version": 1
+}
