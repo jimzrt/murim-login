@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "That blinding streak of light, with power no one could believe came from an arrow, had appeared from nowhere.",
+      "defect": "The draft says the streak appeared from nowhere; the source says it had been nowhere to be seen a moment earlier.",
+      "id": "F01",
+      "rationale": "The leaders are puzzled because the visible streak was absent just before the commander fell.",
+      "replacement": "That terrifying streak of light, too powerful to seem like an arrow, had been nowhere to be seen a moment ago.",
+      "severity": "critical",
+      "source": "도무지 화살이라고는 믿을 수 없는, 무시무시한 위력을 지닌 빛줄기는 조금 전 어디에서도 찾아볼 수 없었으니까."
+    },
+    {
+      "confidence": 0.85,
+      "current": "They were powerful figures who had pledged their loyalty to Dark Heaven and the Eastern Heaven Demon Lord, powerful enough to pass their positions down to their heirs.",
+      "defect": "The draft turns the generational depth of their allegiance into an assertion that their positions were hereditary.",
+      "id": "F02",
+      "rationale": "대를 이을 만큼 qualifies the enduring commitment to Dark Heaven and the Demon Lord; the passage does not say these figures could bequeath their offices.",
+      "replacement": "They were powerful figures whose families had pledged loyalty to Dark Heaven and the Eastern Heaven Demon Lord for generations.",
+      "severity": "major",
+      "source": "하나같이 화려한 복장을 한 그들은 이미 대(代)를 이을 만큼 암천과 동천마군에게 충성을 맹세한 거물들이었고, 두 번 다시 돌아올 수 없는 강을 건넌 이들이었으니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "instead of suffering horribly under cruel torture before being torn limb from limb by the wheel",
+      "defect": "The execution method becomes breaking on the wheel rather than dismemberment by carts.",
+      "id": "F03",
+      "rationale": "거열형 is an execution in which carts pull the condemned person's limbs apart; no wheel is specified.",
+      "replacement": "instead of suffering through brutal torture before being torn limb from limb by carts",
+      "severity": "critical",
+      "source": "모진 고문으로 끔찍하게 고통받다가 거열형(車裂刑)에 사지가 찢겨 나가는 대신"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The wet, meaty sounds announcing the end of the banquet—once soaked in blood—mixed with the ceaseless screams of the wounded, like a powerful drumbeat.",
+      "defect": "The draft removes the actual drums, making the screams sound like a drumbeat instead of having both the screams and sounds of pierced flesh mingle with it.",
+      "id": "F04",
+      "rationale": "The source has three concurrent sounds: pierced flesh, screams, and drums that keep ringing.",
+      "replacement": "The sounds of flesh being pierced announced the end of the blood-soaked banquet. Screams of pain joined them, mingling with the powerful, unceasing beat of drums.",
+      "severity": "major",
+      "source": "피로 물들었던 연회의 끝을 알리는 파육음이, 고통에 찬 비명이 쉬지 않고 울려 퍼지는 힘찬 북소리와 뒤섞였다."
+    },
+    {
+      "confidence": 0.89,
+      "current": "A blade-sharp energy rose from her entire body.",
+      "defect": "The draft assigns the rising energy to So Gyo instead of the first-person narrator.",
+      "id": "F05",
+      "rationale": "Taekyung is watching her approach with a cold gaze; So Gyo then stops and looks at him. The unmarked body in this first-person narration is his.",
+      "replacement": "Blade-sharp qi rose from every part of my body.",
+      "severity": "critical",
+      "source": "스아아아.\n\n칼날과도 같은 기운이 전신에서 솟아오른다. 몇 걸음 앞에서 멈춰선 궁성이 말없이 나를 바라보다, 불현듯 입을 열었다."
+    }
+  ],
+  "summary": "Five actionable fidelity findings, including an altered observation, a changed execution method, and a reversed subject.",
+  "version": 1
+}
