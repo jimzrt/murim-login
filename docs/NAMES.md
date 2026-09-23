@@ -2314,3 +2314,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 하루카 | **Haruka** | J1 team member killed by The Prophet. |
 | 하미드 | **Hamid** | Amir’s subordinate, addressed by name. |
 | 아미르 | **Amir** | Title used to address the group’s leader. |
+| 룹 알 할리 | **Rub’ al Khali** | Desert where the battle takes place. |

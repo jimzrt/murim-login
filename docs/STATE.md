@@ -1,22 +1,22 @@
 # Translation State
 
-- Last completed: 801
-- Next chapter: 802
-- Current block: 800–804 (2/5)
-- Latest translation: `translations/0801.md`
-- Latest summary: `summaries/beats/0801.md`
-- Safe profiles through: chapter 801
+- Last completed: 802
+- Next chapter: 803
+- Current block: 800–804 (3/5)
+- Latest translation: `translations/0802.md`
+- Latest summary: `summaries/beats/0802.md`
+- Safe profiles through: chapter 802
 
 ## Current Block
 
-- Jin orders Yamamoto to join the expedition and confirms The Prophet’s message: “Rub’ al Khali. Come find me in the land where the black jewel sleeps, before it’s too late.” The thousand-Hunter force reaches the Rub’ al Khali, where magical power is too dense for their instruments to measure. Jin refuses to request reinforcements, wary of leaving the rear vulnerable or driving The Prophet away. As the force advances, their vehicles stop and an enemy approaches; Magic Johnson orders everyone to prepare for battle.
-- Team Leader Choi identifies the “black jewel” as a likely reference to the oil fields in the Rub’ al Khali, once among the world’s largest. A substantial force led by Chuck Hagel, Faye Chen, Prince Felix, and other S-rank Hunters guards the encirclement behind Jin’s group.
+- The Skeleton King’s undead scouts spot an approaching monster army of at least ten thousand, led by four likely S-rank monsters. Jin Taekyung steadies the nearly one thousand Hunters, orders them into formation, and leads the opening attack of the battle later called the Desert Storm.
+- At the rear, Chuck Hagel waits anxiously for word from Jin’s force while magical-power interference disables surveillance and drones. An emergency report says part of an outside search party has been attacked—and the enemy is not a monster.
 
 ## Open Questions
 
-- What are The Prophet’s identity, abilities, and limits, and what was the pale mist absorbed from the J1 victims?
-- Why did The Prophet spare Yamamoto, and what happened when Yamamoto tried to flee?
-- Who is approaching Jin’s force in the Rub’ al Khali, and what will happen when the forces meet?
+- Which of the four apparent S-rank monsters is The Prophet, and what are The Prophet’s identity, abilities, and limits?
+- What was the pale mist absorbed from the J1 victims?
+- What is the identity and objective of the non-monster enemy that attacked Chuck Hagel’s search party?
 - Where is Amir’s concealed group now, and what is its intended target?
 
 ## Exceptional Decision
