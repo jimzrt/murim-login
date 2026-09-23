@@ -10,7 +10,7 @@ The moment I saw the familiar face come through the door, I spoke without hesita
 
 “Have you been—listen to this damn bastard.”
 
-Gung Gibang, who had been grinning brightly despite his grimy face, scowled.
+Gung Gibang’s broad grin vanished from his grimy face.
 
 “I go out of my way to make time for you, and that’s how you greet me?”
 
@@ -42,7 +42,7 @@ Gung Gibang glared at me in silence. Then his gaze softened, and a faint smile a
 
 Gung Gibang gave a quiet laugh and shook his head.
 
-“I may be destined to beg for the rest of my life, but I’m not stupid enough to think that way. No matter what, war must never happen.”
+“I may be doomed to beg for the rest of my life, but I’m not that thoughtless. War should never happen, no matter what.”
 
 “You could distinguish yourself in battle and become a hero.”
 
@@ -56,7 +56,7 @@ I’d asked because I wanted to know what he really thought. I gave him a sincer
 
 Clap, clap, clap.
 
-“What are you doing?”
+“What?”
 
 “Nothing. Just thinking how our Gibang’s all grown up, having thoughts like that.”
 
@@ -64,7 +64,7 @@ Clap, clap, clap.
 
 “If getting older made everyone mature, the world would be a much nicer place. Time passes without anyone having to work at it.”
 
-In that sense, Gung Gibang’s thinking really was remarkably sound for someone his age in Murim.
+In that sense, Gung Gibang had his head on straight for a martial artist his age.
 
 This wasn’t the twenty-first-century modern world. This was Murim, where the primal law of the strong devouring the weak held sway.
 
@@ -94,9 +94,9 @@ Ssss—
 
 “Agh! What the fuck?”
 
-“Hehe. This is the new footwork technique I made, Mimi Step. It really looks like Mimi, doesn’t it?”
+“Hehe. It’s the new footwork technique I made—Mimi Step. I really look like Mimi, don’t I?”
 
-“Like Mimi, my ass. It looks like a dog! Like a damn beggar!”
+“Like Mimi, my ass. You look like a dog! A damn beggar!”
 
 At Gung Gibang’s shriek, Hyuk Mujin spoke with the happiest expression in the world.
 
@@ -158,7 +158,7 @@ Realizing he wasn’t going to get anywhere with me, Gung Gibang quickly changed
 
 Sssssss—
 
-Cheongpung had been closely observing Mimi, the Thousand-Year Poison Horned Snake, who had somehow turned into a giant snake while drawing everyone’s attention. Without even turning around, he answered.
+Cheongpung was studying Mimi, the Thousand-Year Poison Horned Snake, who had somehow grown into a python while everyone’s attention was elsewhere. He answered without looking back.
 
 “Hmm. I don’t want to go.”
 
@@ -176,7 +176,7 @@ Gung Gibang stared at him as if he’d been stabbed.
 
 Hyuk Mujin and I were just as shocked.
 
-*What the hell? Is he really insane?*
+*Has he lost his mind?*
 
 *Captain, did I hear that wrong?*
 
@@ -192,7 +192,7 @@ That was how shocking Cheongpung’s announcement was.
 
 *Cheongpung, of all people, has no appetite?*
 
-It was news as astonishing as the founding of the New Murim Alliance. Yet Cheongpung didn’t so much as flinch beneath the astonished stares of everyone around him.
+It was news as astonishing as the founding of the New Murim Alliance. Yet Cheongpung didn’t so much as flinch under our stunned stares.
 
 “Anyway, I’m fine. You go ahead, Benefactor.”
 
@@ -202,11 +202,11 @@ It was news as astonishing as the founding of the New Murim Alliance. Yet Cheong
 
 I had no idea why he was acting like this, but one thing seemed certain.
 
-As time passed and the circumstances around him changed, some kind of change had begun in Cheongpung as well.
+As time passed and the world around him changed, something in Cheongpung was beginning to change too.
 
 *That guy…*
 
-I stared at Cheongpung in silence, then turned toward Gung Gibang.
+I watched him in silence for a moment, then turned to Gung Gibang.
 
 “Anyway, you’d better get going.”
 
@@ -238,7 +238,7 @@ A memory came back to me.
 
 In Murim, it had been only two or three months ago, yet somehow it felt impossibly distant.
 
-Ironically, it was also one of the clearest memories left behind by all that time.
+Strangely enough, it was also one of my clearest memories from that time.
 
 *The moon is so bright tonight.*
 
@@ -246,7 +246,7 @@ Yes. The moon had been unusually bright that night.
 
 Or perhaps the moon hadn’t been the brightest thing there. Perhaps it had been someone’s face.
 
-I hadn’t been looking at the moon then.
+I hadn’t been looking at the moon.
 
 *Great Hero Jin.*
 
@@ -258,9 +258,7 @@ I could almost hear her voice again, damp and desolate, drifting through the flo
 
 What had I told her?
 
-I thought for a moment before muttering blankly,
-
-“……It’s all right even if you can’t.”
+Lost in thought, I murmured, “…It’s all right even if you can’t.”
 
 “What? What’s all right?”
 
@@ -280,7 +278,7 @@ A small sigh escaped me.
 
 “…?”
 
-“I’m sorry, but I mean it. Actually, I don’t think I’m all that sorry. Things were going so well.”
+“Sorry, but I mean it. Actually, I don’t think I’m sorry at all. I was enjoying that.”
 
 Gung Gibang’s ugly face contorted.
 
@@ -296,7 +294,7 @@ I shook my head, cutting him off.
 
 “Stop asking and let’s go meet the Ten Dragons and Phoenixes or whoever they are. Hearing about that feast made me hungry.”
 
-“Uh, uh-huh?”
+“Uh… what?”
 
 Gung Gibang forgot to be angry. He blinked at me, then nodded hurriedly.
 
@@ -306,13 +304,13 @@ I didn’t much care who would be glad.
 
 It was just… well, how should I put it?
 
-*I just felt like seeing her after all this time.*
+*I felt like seeing her again. That’s all.*
 
 Yes. That was all. Besides, I owed her thanks for something concerning Jeok Cheongang. I had every reason to go.
 
 *It’s only right. Anyone decent would go.*
 
-Muttering that to myself, I started walking. Gung Gibang’s shout that he was coming with me rang noisily from behind.
+I told myself that as I started walking. Behind me, Gung Gibang noisily shouted for me to wait up.
 
 * * *
 
@@ -332,9 +330,9 @@ She no longer heard a word they were saying.
 
 At some point, she had stopped leaning back in her chair and begun tilting toward the window instead. Her eyes kept darting between the half-open window and the stairs.
 
-*Young Hero Gung made such a bold promise. Should I go out and see for myself?*
+*Young Hero Gung sounded so certain. Should I go and look for him?*
 
-And just as all those worries and thoughts began chasing one another in endless circles—
+Her worries and thoughts chased one another around and around.
 
 Jingle.
 

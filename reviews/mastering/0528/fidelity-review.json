@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“Have you been—listen to this damn bastard.”",
+      "defect": "The Korean greeting is interrupted by a remark about the way the narrator speaks. “Listen to this damn bastard” shifts the reaction to the person rather than his manner of speaking.",
+      "id": "F01",
+      "rationale": "The phrase “이 빌어먹을 놈이 말하는 본새 보게” specifically calls out how the bastard talks.",
+      "replacement": "“Have you been—look at the way this damn bastard talks.”",
+      "severity": "minor",
+      "source": "Lines 13–14"
+    },
+    {
+      "confidence": 0.91,
+      "current": "And just as all those worries and thoughts began chasing one another in endless circles—",
+      "defect": "“Endless circles” adds a sense of unending repetition and circular motion not established by the Korean idiom.",
+      "id": "F03",
+      "rationale": "“꼬리와 꼬리를 물고 이어지던” describes thoughts following one another in a chain, not circling endlessly.",
+      "replacement": "And just as one worry and thought led to another—",
+      "severity": "minor",
+      "source": "Lines 355"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but a few lines alter or omit source-specific details.",
+  "version": 1
+}

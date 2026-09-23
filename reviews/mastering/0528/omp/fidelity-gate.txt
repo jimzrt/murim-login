@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is broadly faithful, but a few lines alter or omit source-specific details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 13–14",
+      "current": "“Have you been—listen to this damn bastard.”",
+      "defect": "The Korean greeting is interrupted by a remark about the way the narrator speaks. “Listen to this damn bastard” shifts the reaction to the person rather than his manner of speaking.",
+      "replacement": "“Have you been—look at the way this damn bastard talks.”",
+      "rationale": "The phrase “이 빌어먹을 놈이 말하는 본새 보게” specifically calls out how the bastard talks.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 191",
+      "current": "Hyuk Mujin and I carried on a silent conversation with our eyes.",
+      "defect": "The source explicitly places the unspoken exchange in the air between them; the assembled line drops that image.",
+      "replacement": "An inaudible conversation passed between us through our gazes in midair.",
+      "rationale": "“허공에서” establishes the image of the exchange passing through the empty space between them, preserved in the accepted baseline.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 355",
+      "current": "And just as all those worries and thoughts began chasing one another in endless circles—",
+      "defect": "“Endless circles” adds a sense of unending repetition and circular motion not established by the Korean idiom.",
+      "replacement": "And just as one worry and thought led to another—",
+      "rationale": "“꼬리와 꼬리를 물고 이어지던” describes thoughts following one another in a chain, not circling endlessly.",
+      "confidence": 0.91
+    }
+  ]
+}
