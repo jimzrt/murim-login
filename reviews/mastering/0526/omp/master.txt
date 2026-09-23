@@ -12,13 +12,13 @@ A flag flew high above them. Each had a different name, a different nature, a di
 
 **Murim Alliance.**
 
-Those three words were all that had been written across the pure white cloth.
+Those three words were all that appeared on the white cloth.
 
 The flag was neither as splendid as an emperor’s nor as enormous as the Demonic Cult’s standard had been when its army invaded the Central Plains.
 
 But it was enough.
 
-Everything was contained within those three words: Murim Alliance.
+Those three words held everything.
 
 Now the martial artists of the Central Plains would become one beneath that flag. In the new era they had opened for themselves, they would fight a new enemy.
 
@@ -26,7 +26,7 @@ And…
 
 “A new hero will be born.”
 
-The quiet mutter came from somewhere.
+The words were murmured quietly.
 
 From atop a towering tree now thick with leaves, Mungyeong watched the scene below. His gaze came to rest on one person.
 
@@ -56,11 +56,11 @@ Some would fall on nameless fields and never rise again. Others would carve thei
 
 Life and death. Humiliation and glory.
 
-Right here, on Mount Song, the prelude to a massive war for the world was beginning.
+Here, on Mount Song, the opening act of a great war for the world had begun.
 
 * * *
 
-The world trembled. No—it was undergoing a tremendous upheaval.
+The world was in turmoil. No—it was an upheaval.
 
 Until something happened, it was only rumor, no more real than fiction. But once it became reality, its impact was enormous.
 
@@ -88,7 +88,7 @@ Those who had been unable to make the journey to Henan for one reason or another
 
 “Huh. Qingcheng and Emei may still stand, but if Dark Heaven heads to Sichuan first, as the Demonic Cult once did, the region could become a demon-slaying battleground.”
 
-“That is precisely why I must go to Sichuan. Shouldn’t I lend whatever aid I can?”
+“That’s all the more reason for me to go. I ought to lend what help I can.”
 
 Some carried the words *righteous chivalry* in their hearts.
 
@@ -98,7 +98,7 @@ Some carried the words *righteous chivalry* in their hearts.
 
 “My name? Never mind that. I’m just a wandering martial artist who makes his living by the sword, so spare me that embarrassing ‘hero’ business. I don’t know how strong these Dark Heaven bastards are, but if I kill enough of them, I’ll make a name for myself and earn a decent sum.”
 
-Others took up their weapons, driven by competitive spirit and dreams of making a name for themselves.
+Others took up their weapons with competitive fire in their hearts, dreaming of fame and fortune.
 
 Among those who belonged to no particular sect and set out for their own reasons were unfamiliar faces—people who had not appeared in Murim for years, or had never appeared at all.
 
@@ -106,7 +106,7 @@ Among those who belonged to no particular sect and set out for their own reasons
 
 “The weather was pleasant, so I came out for some air. But you look troubled. What happened?”
 
-“Well, I was wandering through the mountains looking for snow ginseng to give you, Master, when I met a herb gatherer. He told me that…”
+“Well, I was searching the mountains for snow ginseng to give you when I met an herb gatherer. He told me…”
 
 Rumors that the Murim Alliance would be restored in Henan had spread well before the Mount Song Resolution.
 
@@ -140,7 +140,7 @@ An old master who had spent his remaining years in a nameless valley set out for
 
 “A calamity? Tell me more.”
 
-“They say something called the Murim Alliance has been formed in Henan, and that it’s going to fight Dark Heaven, which is said to be the successor to that Demonic Cult. No one knows what might happen, so I was going to take my family and leave for a while… Old Master? What are you doing?”
+“They’ve formed something called the Murim Alliance in Henan, and it’s going to fight Dark Heaven—the ones they say succeeded the Demonic Cult. We don’t know what might happen right away, so I’m taking my family away for a while… Old Master? What are you doing?”
 
 “Can’t you see? I’m getting ready to leave.”
 
@@ -154,7 +154,7 @@ An old master who had spent his remaining years in a nameless valley set out for
 
 The white-haired old man who had spent his days beside a secluded lake departed with a spear on his back instead of a fishing rod.
 
-Some of the old martial artists who had once dominated an era—or some of the reclusive masters from remote valleys who had devoted their entire lives to the single character *martial*—stepped back into the secular world and flowed into the wider world.
+Some were veterans who had made their mark on an era long ago. Others were reclusive masters who had devoted their lives to the single word *martial*. They stepped back into the world and made their way across the land.
 
 “Is this the Murim Alliance?”
 
@@ -168,15 +168,13 @@ Some of the old martial artists who had once dominated an era—or some of the r
 
 “Th-the Fist King…!”
 
-Names swept away by the waves of time, sobriquets that had vanished from sight.
-
-And yet, despite everything, titles clearly etched into the memories of ordinary people began appearing everywhere.
+Names swept from view by the passing years appeared again, along with sobriquets still etched in people’s memories.
 
 Even when the sun set and darkness fell, their presence shone like torches.
 
 And rumors of the newly risen stars continued to pass from mouth to mouth.
 
-“I’ll guarantee the Ten Dragons and Phoenixes will play a major role in this war.”
+“I’ll wager the Ten Dragons and Phoenixes will play a major part in this war.”
 
 At the middle-aged man’s words, the narrow-eyed man snorted. The speaker had a chin shaped like a spatula.
 
@@ -192,7 +190,7 @@ Spatula Chin narrowed his eyes.
 
 “What!”
 
-Bird Eyes bristled and shouted.
+Bird Eyes bristled.
 
 “They say even a crooked mouth ought to speak straight. Don’t say something that could get me killed! Why would I be with Dark Heaven?”
 
@@ -258,7 +256,7 @@ The goateed man stroked his beard as he answered.
 
 Spatula Chin, who had been waiting for an opening, cut in with a mocking grin.
 
-“The Heaven Shaking Sword is impressive, but Murong Yeonghwi, a blood relative of the Murong Family, is overwhelming too. Still, what could a nobody like you possibly know?”
+“The Heaven Shaking Sword is impressive, but Murong Yeonghwi of the Murong Family is overwhelming too. Not that a nobody like you would know.”
 
 “What did you say, you bastard? If you fell in the water, that chin would float…”
 

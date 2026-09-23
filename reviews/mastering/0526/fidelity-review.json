@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "if I kill enough of them",
+      "defect": "“Enough” adds a quantity or threshold. 닥치는 대로 쳐 죽이면 means killing them indiscriminately or as they come, not killing a sufficient number.",
+      "id": "F01",
+      "rationale": "The speaker boasts that he will kill Dark Heaven members indiscriminately, make a name for himself, and earn money; the Korean does not specify how many he must kill.",
+      "replacement": "if I kill them as they come",
+      "severity": "minor",
+      "source": "Lines 99–103"
+    },
+    {
+      "confidence": 0.87,
+      "current": "Hong Jeok, Red Turbans, whatever you call yourself",
+      "defect": "This makes “Red Turbans” sound like another name the visitor uses for himself. The Korean contrasts Hong Jeok with the Red Turban bandits, not two possible names for the visitor.",
+      "id": "F02",
+      "rationale": "The guard dismissively says that whether the visitor is Hong Jeok or a Red Turban, he still has to undergo verification.",
+      "replacement": "Hong Jeok, Red Turbans, whatever—you still have to go through verification",
+      "severity": "minor",
+      "source": "Line 169"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Spatula Chin! That chin takes my breath away! Chin-chin, ka-thunk-thunk-chin!”",
+      "defect": "The source repeats “Spatula Chin!” twice before the next phrase. The English drops one repetition, weakening the deliberately escalating chant.",
+      "id": "F03",
+      "rationale": "The Korean explicitly repeats 주걱턱 twice as part of the taunting chant.",
+      "replacement": "“Spatula Chin! Spatula Chin! That chin takes my breath away! Chin-chin, ka-thunk-thunk-chin!”",
+      "severity": "minor",
+      "source": "Line 211"
+    },
+    {
+      "confidence": 0.96,
+      "current": "departed with a spear on his back instead of a fishing rod",
+      "defect": "The translation omits the suddenness of his departure.",
+      "id": "F04",
+      "rationale": "홀연히 떠났다 describes the old man leaving suddenly; the accepted baseline also preserved that detail.",
+      "replacement": "abruptly departed with a spear on his back instead of a fishing rod",
+      "severity": "minor",
+      "source": "Line 159"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but a few lines add or alter source details and one comic beat loses an explicit repetition.",
+  "version": 1
+}
