@@ -2,13 +2,13 @@
 
 “We found a trace of Honglan.”
 
-Gung Gibang’s announcement did not agitate only me. Immediately after the battle with the Water God Dragon ended, Jeok Cheongang and Mungyeong—both of whom already knew what we had learned about Honglan’s identity—reacted as well.
+I wasn’t the only one shaken by Gung Gibang’s announcement. Jeok Cheongang and Mungyeong, who had both learned the truth about Honglan after the battle with the Water God Dragon, reacted at once.
 
 “You found that goddamned bitch?”
 
 “What happened?”
 
-After Jeok Cheongang’s blunt question and Mungyeong’s shameless question, asked while he was still concealing his identity—I spoke grimly.
+After Jeok Cheongang’s blunt question and Mungyeong’s shamelessly innocent one—still pretending to be nothing more than a medical apprentice—I spoke grimly.
 
 “A trace?”
 
@@ -24,7 +24,7 @@ Gung Gibang had finally caught his breath. He nodded.
 
 “No. You won’t find her.”
 
-I answered firmly and continued.
+I cut him off firmly.
 
 “If she were that easy to catch, we would’ve picked up her trail long ago.”
 
@@ -74,11 +74,11 @@ Except—
 
 That, I had not expected.
 
-I blinked silently, then somehow managed to force out my voice.
+I stared at him, blinking silently, then finally managed to force out my voice.
 
 “All those people… committed suicide together?”
 
-“Without a doubt. They used the daggers issued to them as standard equipment and stabbed themselves in the throat. When the bodies were examined, they were said to have died with smiles on their faces. Of course, Honglan was nowhere to be found.”
+“Without a doubt. They used the daggers issued to them as standard equipment and stabbed themselves in the throat. When the bodies were examined, every last one of them had died smiling. Of course, Honglan was nowhere to be found.”
 
 “What the hell?”
 
@@ -98,7 +98,7 @@ For a moment, I could not speak. Then Mungyeong and Jeok Cheongang opened their 
 
 The Soul-Seizing Technique.
 
-As the name suggested, it was one of the monstrous martial arts and supreme techniques that bewitched and controlled an opponent’s soul.
+As its name suggested, it was a monstrous martial art and supreme technique that bewitched and controlled an opponent’s soul.
 
 I knew what it was because it had often appeared in the wuxia novels I had read, but this was the first time I had encountered it since coming to Murim.
 
@@ -154,11 +154,11 @@ Then Jeok Cheongang spoke, his expression stiff.
 
 “…I-I wasn’t speaking to you, Great Hero Jeok.”
 
-“You won’t come to your senses until you’ve been beaten like a dog on slaughter day. Get down.”
+“You won’t come to your senses until you’ve been beaten like a dog on slaughter day. Lie down.”
 
 * * *
 
-“His name is Song Ho. He is the son of a prominent merchant family in Hubei Province, and thanks to his father’s efforts, he was summoned by the City Lord of Hubei Province. Two days ago, the City Lord dispatched him with orders to bring in the culprit.”
+“His name is Song Ho. He is the son of a prominent merchant family in Hubei Province, and his father pulled strings to secure him a post under the City Lord of Hubei Province. Two days ago, the City Lord dispatched him with orders to bring in the culprit.”
 
 The middle-aged man, whose looks must have broken plenty of women’s hearts in his youth, continued anxiously.
 
@@ -176,9 +176,9 @@ Jeok Cheongang watched the young officer drool vacantly and furrowed his brow.
 
 “He’s been completely ensnared by the Soul-Seizing Technique. He’s already lost his mind.”
 
-I agreed with Jeok Cheongang completely.
+I agreed completely.
 
-There was no trace of reason left in the young man before us. Instead of a promising military officer, a doll with its soul pulled out was sitting there.
+There was no trace of reason left in the young man before us. A promising military officer no longer sat there. In his place was a doll whose soul had been torn out.
 
 “How is his condi—how is he?”
 
@@ -186,13 +186,13 @@ At my hurried correction, Mungyeong slowly shook his head.
 
 “It’s hopeless. I cannot say what prolonged observation might reveal, but for now, there does not appear to be even the slightest chance of recovery.”
 
-“If there’s no hope, how bad is he?”
+“What exactly do you mean by no chance?”
 
 “To lose one’s soul is no different from dying. In this state, he will be unable to speak or act on his own.”
 
 His condition was far worse than I had expected.
 
-Jin Wikyung, who had hurried over after hearing that the sole survivor had been escorted here, spoke up.
+Jin Wikyung, who had hurried over after hearing that the sole survivor had been brought here, spoke up.
 
 “Would another renowned physician have a different opinion?”
 
@@ -214,7 +214,7 @@ Then, just as the room fell silent—
 
 A cold chill raced up my spine.
 
-Everyone around me, myself included, stared at the young officer with our eyes wide open.
+Everyone around me stared at the young officer with wide eyes.
 
 His eyes remained hazy and unfocused. In contrast, his slack mouth began to twitch, and a voice slowly seeped out.
 
@@ -224,7 +224,7 @@ His eyes remained hazy and unfocused. In contrast, his slack mouth began to twit
 
 Mungyeong muttered in disbelief.
 
-He had cared for and treated countless patients. With medical skill worthy of the title Divine Physician and the martial prowess of a Supreme Peak master, Mungyeong’s confident diagnoses were practically absolute laws.
+He had cared for and treated countless patients. With medical skill worthy of the title Divine Physician and the martial prowess of a Supreme Peak master, Mungyeong’s confident diagnoses might as well have been absolute.
 
 Or at least they had been until a few seconds ago.
 
@@ -232,7 +232,7 @@ Or at least they had been until a few seconds ago.
 
 Mungyeong rarely raised his voice, but now he did as he swiftly took the officer’s pulse.
 
-His expression grew as complex and subtle as it had been when he looked at the Water God Dragon.
+His expression became as complicated as it had been when he looked upon the Water God Dragon.
 
 “His condition is completely unchanged. Then why?”
 
@@ -252,7 +252,7 @@ It felt as though a bolt of lightning had pierced the crown of my head.
 
 If Hyuk Mujin and Cheongpung had been here, they would have reacted the same way.
 
-I looked at the young officer—or rather, at Honglan, confronting me from some distant place through the officer’s body—with a sunken gaze and spoke.
+My gaze cold and steady, I looked at the young officer—or rather, at Honglan, confronting me from some distant place through his body.
 
 “Where are you, you fucking bitch?”
 
@@ -260,7 +260,7 @@ I looked at the young officer—or rather, at Honglan, confronting me from some 
 
 “Fuck off. I’ve never been popular anyway.”
 
-“I didn’t expect that answer. You really are a masterpiece.”
+“I didn’t expect that answer. You really are a piece of work.”
 
 “Cut the bullshit and tell me where you are. I’ll leave you in tatters.”
 
@@ -268,7 +268,7 @@ I looked at the young officer—or rather, at Honglan, confronting me from some 
 
 Her familiar, clear laughter slipped out through the officer’s lips.
 
-The corners of his mouth remained the same, yet her voice continued to flow from it. The sight was enough to raise goose bumps.
+His mouth never changed shape, yet her voice continued to flow from it. The sight was enough to raise goose bumps.
 
 Even then, I did not miss one important phrase.
 
@@ -280,13 +280,11 @@ Even then, I did not miss one important phrase.
 
 Even a 99.9 percent possibility was still only a guess without that final 0.1 percent.
 
-Honglan had revealed her identity without the slightest hesitation. She continued brightly.
+Honglan had revealed her affiliation without the slightest hesitation. She continued brightly.
 
 “I was surprised. You’ve become much stronger than Blood Lord said you were. Then again, if that were still all you amounted to, the Western Heaven Demon Lord would have killed you before the imugi got the chance.”
 
-Why was this happening?
-
-My anger showed no sign of fading, yet my mind and voice were growing calmer instead.
+For some reason, though my anger showed no sign of fading, my mind and voice only grew calmer.
 
 Unlike before, I asked in a remarkably composed voice,
 
@@ -296,10 +294,10 @@ It was a genuine question.
 
 Even as I asked, I did not expect her to answer willingly.
 
-But Honglan shattered my expectations with a single word.
+But Honglan shattered my expectations with a single phrase.
 
 “The Southern Heaven Demon Empress.”
 
 “The Southern… Heaven Demon Empress?”
 
-*These fucking bastards are really screwing around in every direction—east, west, south, and north.*
+*These fucking bastards really had every point of the compass covered.*

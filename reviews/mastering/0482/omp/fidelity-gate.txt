@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, with two minor fidelity defects involving rank and the mechanism by which the soldiers possessed their daggers.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "P24; Korean line 47",
+      "current": "On the surface, she was also one of the chief contributors to his rescue, alongside me.",
+      "defect": "The source calls Honglan the 일등 공신—the foremost or chief contributor—not one member of a group of chief contributors.",
+      "replacement": "On the surface, she was also the chief contributor to his rescue, alongside me.",
+      "rationale": "“One of the chief contributors” weakens the specific rank and public credit assigned to Honglan in the source.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "P41; Korean line 79",
+      "current": "They used the daggers issued to them as standard equipment and stabbed themselves in the throat.",
+      "defect": "“Issued to them” adds an institutional provisioning mechanism that the source does not establish. The source says the government troops normally carried daggers as basic equipment.",
+      "replacement": "They used the daggers government troops normally carried as standard equipment and stabbed themselves in the throat.",
+      "rationale": "소지하고 있던 describes what the soldiers carried or possessed, not necessarily weapons formally issued to them.",
+      "confidence": 0.91
+    }
+  ]
+}
