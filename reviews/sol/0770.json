@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“The Skeleton King… he’s a monster.”",
+      "defect": "The translation turns Choi’s causal explanation into a simple assertion, omitting the explicit “because” conveyed by 몬스터니까요.",
+      "id": "F01",
+      "rationale": "The connective ending -니까요 presents the Skeleton King’s being a monster as the reason for Choi’s preceding conclusion.",
+      "replacement": "“As for the Skeleton King… it’s because he’s a monster.”",
+      "severity": "major",
+      "source": "“스켈레톤 킹은, 그는 몬스터니까요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Monster… He’s a monster.*",
+      "defect": "The added pronoun turns the second phrase into a declarative statement and loses the Skeleton King’s ruminative reaction.",
+      "id": "F02",
+      "rationale": "The sentence-ending 라 marks him dwelling bitterly on the word itself rather than merely restating that he is a monster.",
+      "replacement": "*A monster… A monster, huh.*",
+      "severity": "minor",
+      "source": "‘몬스터…… 몬스터라.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He was a monster incapable of possessing even ordinary emotions, let alone a heart.",
+      "defect": "The “let alone” construction reverses the source’s order of emphasis, which begins with his lack of a heart and then stresses that even ordinary emotions should be beyond him.",
+      "id": "F03",
+      "rationale": "심장은커녕 establishes the absence of a heart before 평범한 감정조차 heightens the contradiction created by his emotional relief.",
+      "replacement": "He was a monster who had no heart and could not even harbor ordinary emotions.",
+      "severity": "minor",
+      "source": "자신은 심장은커녕, 평범한 감정조차 품지 못할 몬스터인데."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I didn’t know either.",
+      "defect": "“Either” incorrectly implies agreement with another stated lack of knowledge and sounds unnatural in context.",
+      "id": "F04",
+      "rationale": "Here 나도 모르겠다 conveys Jin’s bewilderment at his own sudden actions, not a response to someone else saying they did not know.",
+      "replacement": "I didn’t even know.",
+      "severity": "minor",
+      "source": "나도 모르겠다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "I took a step backward, like someone who had just been released from some kind of possession.",
+      "defect": "The draft adds an explicit release from possession and reduces the continuing backward movement to a single step.",
+      "id": "F05",
+      "rationale": "The source directly compares Jin to someone who had briefly been possessed and uses 뒷걸음질 쳤다 for backing away.",
+      "replacement": "I backed away like someone who had been possessed for a moment.",
+      "severity": "minor",
+      "source": "나는 잠시 뭔가에 사로잡혀 있던 사람처럼 뒷걸음질 쳤다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "To humanity, monsters were like a forbidden nerve that must never be touched.",
+      "defect": "“Forbidden nerve” is an unnatural literal rendering of 역린 and obscures the intended image of an exceptionally sensitive taboo that provokes a severe reaction when touched.",
+      "id": "F06",
+      "rationale": "“Raw nerve” naturally conveys the dangerous sensitivity and untouchable quality of 역린 without changing the source’s comparison.",
+      "replacement": "To humanity, monsters were a raw nerve that must never be touched.",
+      "severity": "minor",
+      "source": "인류에게 있어 몬스터는 건드려서는 안 될 역린(逆鱗)과도 같다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Still, I’ll give you one more warning, just in case.",
+      "defect": "당부 is a request or charge entrusted to Choi, not a warning issued to him, so the draft mischaracterizes Jin’s contingency instructions.",
+      "id": "F07",
+      "rationale": "Jin is entrusting Choi with a final task concerning Michael’s remaining organization rather than cautioning him about danger.",
+      "replacement": "“Still, just to be safe, there’s one more thing I need to ask of you.",
+      "severity": "minor",
+      "source": "그래도 노파심에 하나만 더 당부할게."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Returning my own words to me, Team Leader Choi stepped forward.",
+      "defect": "The draft reverses the physical action’s subject: Jin advances toward Team Leader Choi, not the other way around.",
+      "id": "F08",
+      "rationale": "나는 is the explicit subject of 걸음을 뻗었다, while 최 팀장을 향해 identifies the person Jin moves toward.",
+      "replacement": "Team Leader Choi threw my own words back at me, and I stepped toward him.",
+      "severity": "critical",
+      "source": "앞서 했던 말을 그대로 돌려준 최 팀장을 향해, 나는 걸음을 뻗었다."
+    }
+  ],
+  "summary": "One critical subject reversal changes who advances, while several localized issues lose causal, introspective, or relational nuances.",
+  "version": 1
+}

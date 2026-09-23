@@ -2284,3 +2284,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 중화인민국 | **Zhonghua People's Republic** | Country represented by Chairman Xiao Yang. |
 | 사우디아라비아 | **Saudi Arabia** | Country whose representative supports reestablishing the Federation. |
 | 임마누엘 | **Emmanuel** | The President of France who congratulates Michael Silbert directly. |
+| 영웅의 검 | **Hero's Sword** | The sword Team Leader Choi draws to confront Jin. |
