@@ -1,6 +1,6 @@
 # Cang Gong (창공)
 
-- **Safe through:** Chapter 904
+- **Safe through:** Chapter 905
 - **Aliases:** None
 - **Role:** Cang Gong is the East Depot leader and a formidable martial artist who intends to take Jin Taekyung to the Lord of Heaven for recruitment.
 - **Personality:** Calculating and self-assured, he admires Taekyung's ability while believing the Lord of Heaven's power will make him submit.
