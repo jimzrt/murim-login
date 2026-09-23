@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The hairline cracks spreading across the ceiling darkened, and the gaps opened wide.",
+      "defect": "The translation omits the source’s image of the cave as a gigantic egg cracking open. The accepted baseline preserved this comparison.",
+      "id": "F01",
+      "rationale": "The Korean explicitly compares the scene to a gigantic egg—the cave—breaking. This is a concrete image, not merely an optional elaboration.",
+      "replacement": "The hairline cracks spreading across the ceiling darkened, and the gaps opened their mouths. It looked as though a gigantic egg in the shape of a cave were breaking apart.",
+      "severity": "minor",
+      "source": "Lines 263–264"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was a level of mana that would be difficult to sense even in an A-rank Gate.",
+      "defect": "The source term 마력 is rendered as “mana,” despite the chapter’s established rendering of 마력 as “magical power.”",
+      "id": "F02",
+      "rationale": "The glossary distinguishes 마력 (“magical power”) from mana, and the surrounding passage consistently uses “magical power” for this phenomenon.",
+      "replacement": "It was a level of magical power that would be difficult to sense even in an A-rank Gate.",
+      "severity": "minor",
+      "source": "Line 293"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it drops a source-specific image and inconsistently renders a key term.",
+  "version": 1
+}

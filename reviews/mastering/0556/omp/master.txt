@@ -10,11 +10,11 @@ A damp, chilly cave. Narrow passages tangled together like a maze. Sharp stalact
 
 Three years ago. No—if I counted the time I’d spent in Murim, it had been four.
 
-The accident that day remained seared into my heart like an indelible brand, and even now, after taking my revenge, I still couldn’t completely forget it.
+What happened that day had left a brand on my heart that wouldn’t fade. Even now, after taking my revenge, I still couldn’t completely forget it.
 
 “Fuck. Brings back old memories.”
 
-Unlike me, muttering gruffly, the Skeleton King smiled fondly.
+The Skeleton King, unlike me, smiled fondly.
 
 “I feel the same. It is as though I have returned to what you humans call home.”
 
@@ -30,7 +30,7 @@ We seemed to be remembering entirely different things. For all I knew, this guy 
 
 *That wave of magical power is much stronger than I expected.*
 
-It was lucky we had been nearby. Otherwise, twenty hardworking living people would almost have been wiped out.
+Good thing we’d been nearby. Otherwise, twenty people just trying to make a living might have died.
 
 I beckoned to the Hunters staring blankly at us.
 
@@ -44,13 +44,13 @@ A man in his late twenties who looked like the Team Leader blinked.
 
 “W-Who are you?”
 
-The cave was dark, and they were standing a considerable distance away. Their level was far too low for them to make out my face from that far.
+The cave was dark, and they were a fair distance away. They weren’t skilled enough to make out my face from there.
 
 I scratched my chin awkwardly. “I’m… Uh, look behind you.”
 
 “What?”
 
-Their reaction was slow. Instead of answering, I snapped my fingers.
+Too slow. Instead of answering, I flicked a finger.
 
 *Whoosh—boom!*
 
@@ -64,13 +64,13 @@ Then its headless body collapsed like a rotten log.
 
 “Behind you! Watch your backs!”
 
-“What the hell is this?”
+“What the hell was that?”
 
 What else? Finger Qi.
 
-I muttered inwardly as I watched the Hunters hurriedly reform their ranks, then realized something.
+As I watched the Hunters hastily reform their ranks, I realized something.
 
-*It’ll be faster if I go to them than if they come to me.*
+*It’ll be faster if I go to them.*
 
 They were struggling against goblins before they’d even made it halfway through the Gate. Being low-level Hunters was one thing, but they couldn’t have much experience, either.
 
@@ -78,7 +78,7 @@ The Skeleton King swept back his blond hair and put on a solemn expression.
 
 “Hmph. It seems the time has come for this body to take the field.”
 
-“Stay put. Don’t get cocky.”
+“Stay put. Don’t show off.”
 
 “……”
 
@@ -112,7 +112,7 @@ With my third and final step, a sphere of light summoned by an unknown mage’s 
 
 “……!”
 
-An invisible shock wave and wave of agitation swept through the cave.
+Shock and agitation swept through the cave. For a moment, everyone could only stare at my face. Then cries burst out from all sides like water through a broken dam.
 
 “L-Lord Fuck!”
 
@@ -200,7 +200,7 @@ The ground split, and cracks spread across the ceiling like a spiderweb. One of 
 
 Half right. Half wrong.
 
-While everyone stared at the ceiling, which looked ready to come crashing down at any moment, I was the only one who knew what was happening below as well.
+Everyone else was staring at the ceiling, which looked ready to come down at any moment. I was watching what was happening beneath our feet, too.
 
 *Crack. Crack-crack.*
 
@@ -222,7 +222,7 @@ It produced thorns. A flower bud burst open, scattering seeds that soon began sp
 
 The Hunters finally noticed and sprang into action. But screaming and hacking at the undergrowth did nothing to stop it from spreading.
 
-Because this wasn’t happening only here.
+This wasn’t happening only here.
 
 Even if the Skeleton King and I stepped in, we couldn’t make it through the entire Gate and deal with all of it in so little time.
 
@@ -238,7 +238,7 @@ Before everyone’s horrified eyes, the Mutated Gate neared the end of its trans
 
 *Rumble-rumble-rumble. Boom!*
 
-The hairline cracks spreading across the ceiling darkened, and the gaps opened wide.
+The hairline cracks in the ceiling deepened, and the gaps gaped open. It was as if the cave were a giant egg cracking apart.
 
 And then…
 
@@ -266,7 +266,7 @@ I couldn’t see it. But I could feel it.
 
 Immense magical power filled the air. It had swelled almost to bursting, pressing down on the jungle.
 
-It was a level of mana that would be difficult to sense even in an A-rank Gate. There was no chance ordinary low-level Hunters could withstand it.
+Even in an A-rank Gate, it would be hard to find this much magical power. Ordinary low-level Hunters had no chance of enduring it.
 
 “Hhk. Hhk.”
 
@@ -284,7 +284,7 @@ Their pupils gradually lost focus, and they staggered. Not one of the twenty Hun
 
 “……!”
 
-I had to conceal the Skeleton King’s existence as much as possible. If so, it was better to remove these people from the situation from the beginning, as long as doing so didn’t endanger their lives.
+I had to keep the Skeleton King’s existence hidden as best I could. Better to take the Hunters out of the picture now, so long as their lives weren’t in danger.
 
 The fewer witnesses, the better.
 
@@ -296,15 +296,15 @@ Once the last Hunter had lost consciousness, the Skeleton King nodded at my sign
 
 Countless bones rose from somewhere and closed around the Hunters without leaving a gap. The Skeleton King looked smug.
 
-“Done. Since this body has personally demonstrated its abilities, the safety of those humans is guaranteed.”
+“There. This body has personally exercised its power. Those humans’ safety is assured.”
 
 I studied the small dome. “I don’t know. I think you should reinforce it.”
 
 “Tsk, tsk. Wretched human, you are distrustful indeed. This would hold firm even against a horde of ogres.”
 
-Ogres were monsters whose terrifying strength was always considered among the highest, regardless of their Grade.
+Whatever their rank, ogres were always among the strongest monsters in terms of sheer muscle. But the Skeleton King’s confidence didn’t change my mind.
 
-“It’d probably be fine against ogres. But those things look a little different.”
+“It’d be fine against ogres. Those look a little different, though.”
 
 “Huh?”
 
@@ -322,7 +322,7 @@ Mist shrouded the mythical giant from head to toe. Its single eye turned toward 
 
 —Intruders. Humans. Kill.
 
-And the next moment—
+And then—
 
 > **System**
 >
@@ -332,7 +332,7 @@ And the next moment—
 
 *Rumble-rumble-rumble!*
 
-Along with the System notification drilling into my ears, the jungle shook.
+The System notification rang in my ears as the jungle shook.
 
 No. It came alive.
 
@@ -360,7 +360,7 @@ The Skeleton King took care to finish the reinforcement, then fixed a grave star
 
 “Ready, Jin?”
 
-“Of course, King… Wait, where the hell did you learn this kind of thing?”
+“Of course, King… Wait. Where the hell did you learn that?”
 
 “The internet. It is entertaining.”
 
