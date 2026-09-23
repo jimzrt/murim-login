@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Perhaps instinct was another name for foresight.",
+      "defect": "Changes intuition to instinct and renders 叡智, meaning wisdom, as foresight.",
+      "id": "F01",
+      "rationale": "The sentence equates 직감 with 예지(叡智), not an instinctive prediction of the future.",
+      "replacement": "Perhaps intuition was just another name for wisdom.",
+      "severity": "major",
+      "source": "직감이라는 것은 어쩌면 예지(叡智)의 다른 이름일지도 모른다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I’m fine. I might’ve pissed myself a little, though.”\n\n“What?”\n\n“Just so you don’t get the wrong idea, I’m a big man in every way—but this time, I mean small.”",
+      "defect": "Makes Johnson’s euphemism explicit and leaves the punchline sounding as though he means a part of his body is small.",
+      "id": "F02",
+      "rationale": "살짝 지린 것 같긴 하지만 is evasive, and 작은 refers back to how much he leaked; his claim that everything about him is big sets up that contrast.",
+      "replacement": "“I’m fine. Though I might’ve had a little accident.”\n\n“What?”\n\n“Just so you don’t get the wrong idea, I’m big in every way. This time, though, it was only a little.”",
+      "severity": "major",
+      "source": "“괜찮아. 살짝 지린 것 같긴 하지만.”\n\n“네?”\n\n“오해할 것 같아서 덧붙이자면, 나는 모든 게 큰 사람이지만 이번만큼은 작은 거야.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The two characters that formed the word *selflessness* didn’t apply only to martial arts.",
+      "defect": "“Selflessness” suggests altruism rather than losing awareness of oneself and passing time.",
+      "id": "F03",
+      "rationale": "The following sentence explains that Jin was so absorbed in his questions he failed to notice time passing.",
+      "replacement": "The two characters meaning *self-forgetfulness* didn’t apply only to martial arts.",
+      "severity": "major",
+      "source": "무아(無我)라는 두 글자는 무공에만 적용되는 것이 아니다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "At my call, Xiao Shen immediately understood what I meant. He drew his sword in a flash and plunged it deep into the ground beneath our feet.",
+      "defect": "Omits Jin stopping and changes the sword’s target from the ground beneath Xiao Shen’s feet to beneath the group’s feet.",
+      "id": "F04",
+      "rationale": "발걸음을 멈춘 describes Jin stopping before the call; 발밑 refers to where Xiao Shen drives his sword.",
+      "replacement": "I stopped and called out. Xiao Shen immediately understood what I meant. He drew his sword in a flash and plunged it deep into the ground beneath his feet.",
+      "severity": "minor",
+      "source": "발걸음을 멈춘 내 부름에, 그 의미를 즉각 깨달은 샤오 쉔이 벼락처럼 뽑아 든 검을 발밑 깊숙이 찔러넣었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The distance of more than twenty meters vanished in an instant.",
+      "defect": "Turns an approximate twenty meters into a distance exceeding twenty meters.",
+      "id": "F05",
+      "rationale": "이십여 미터 gives an approximate distance.",
+      "replacement": "A distance of around twenty meters vanished in an instant.",
+      "severity": "minor",
+      "source": "단숨에 이십여 미터의 공간이 사라진다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The title “The Prophet” was something the monster had announced to the world itself.",
+      "defect": "“The monster” could refer to the Ant Lion Jin is questioning rather than the figure who disclosed the title.",
+      "id": "F06",
+      "rationale": "놈 refers to The Prophet here; the Ant Lion’s ignorance is why Jin realizes the question was mistaken.",
+      "replacement": "The Prophet had personally announced that title to the world.",
+      "severity": "minor",
+      "source": "선지자라는 명칭은 놈이 스스로 세상에 밝힌 것이다."
+    }
+  ],
+  "summary": "Several meaningful shifts affect the opening idea, Jin’s absorption, and Johnson’s joke; a few action and quantity details also need correction.",
+  "version": 1
+}

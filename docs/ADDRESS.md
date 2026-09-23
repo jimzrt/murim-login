@@ -1332,3 +1332,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 야마모토 겐지 | Hunter colleague; Jin is the World Hunter Federation’s Alliance Leader. | you | Informal and blunt | Jin addresses Yamamoto directly while rebuking him. |
 | 매직 존슨 | 진 | Allies | Jin | Informal | Magic Johnson addresses Jin by name while urging him to consider the pursuit. |
 | 스켈레톤 킹 | 진 | Allies | Jin | Informal | The Skeleton King addresses Jin as “Human” when asking if he is all right. |
+| 존슨 | 진태경 | allied friend and comrade-in-arms | Jin | familiar and conversational | Johnson calls Jin 진 while asking what he was thinking. |
