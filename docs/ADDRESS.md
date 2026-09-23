@@ -1221,3 +1221,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 대령 | military subordinate or local commander | Colonel | formal and commanding | Magic Johnson orders the armed commander not to act rashly. |
 | 스켈레톤 킹 | 매직 존슨 | S-rank monster addressing an allied Grand Mage | Large human | formal, contemptuous, and archaic | The Skeleton King addresses Magic Johnson while discussing the concentration of magical power. |
 | 스켈레톤 킹 | 진태경 | allied S-rank monster addressing a younger human ally | treacherous human | insulting and indignant | The Skeleton King uses this address after Jin insults his reasoning. |
+| 후긴 | 미카엘 | loyal retainer to Guild Master | Guild Master | formal-polite and deferential | Huginn reports the Swiss investigation, accepts Michael's orders, and promises to complete the mission. |

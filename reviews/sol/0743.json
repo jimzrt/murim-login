@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "the void it left behind",
+      "defect": "The pronoun makes the void belong to the Ares Guild, but the preceding thought identifies it as the void left by Cheon Taemin. This changes the subject of the causal relationship.",
+      "id": "F01",
+      "rationale": "그 빈자리 refers back to Cheon Taemin’s absence in Michael’s immediately preceding thought, not to an absence created by the Ares Guild.",
+      "replacement": "the void Cheon Taemin had left behind",
+      "severity": "critical",
+      "source": "한때는 세계 최고라 불리었던 아레스 길드도, 그 빈자리를 차지한 이정룡도, 매직 존슨을 비롯한 대격변의 영웅들조차 자신의 상대는 아니었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "For a young man from a slum whose only possession had been poverty, reaching his current position should have required a very long time and an immense amount of patience.",
+      "defect": "The generic construction obscures that the slum youth is Michael himself and incorrectly frames his experience as a hypothetical claim about what should have been required.",
+      "id": "F02",
+      "rationale": "The sentence explains why Michael cannot comprehend Jin Taekyung’s rapid rise by contrasting it with Michael’s own long, impoverished ascent.",
+      "replacement": "It had taken Michael—a young man from the slums with nothing to his name but poverty—a very long time and immense patience to reach his current position.",
+      "severity": "major",
+      "source": "가진 것이라고는 가난밖에 없던 빈민가의 청년이 지금의 자리에 오르기까지는 아주 긴 시간과 인내가 필요했으니까."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“What about them?”",
+      "defect": "The neutral pronoun removes Michael’s explicitly contemptuous reference to his adversaries.",
+      "id": "F03",
+      "rationale": "놈들 is derogatory here, and the narration immediately repeats the term to emphasize Michael’s dismissive way of referring to the group.",
+      "replacement": "“What about those bastards?”",
+      "severity": "major",
+      "source": "“놈들은?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was a full-length mirror that glowed with a faint vibration.",
+      "defect": "“Glowed with a faint vibration” incorrectly treats the vibration as a quality of the light and is not natural English.",
+      "id": "F04",
+      "rationale": "The source presents two simultaneous phenomena: the mirror is shining and faintly vibrating.",
+      "replacement": "The full-length mirror glowed as it faintly vibrated.",
+      "severity": "minor",
+      "source": "희미한 진동과 함께 빛나는 전신 거울."
+    },
+    {
+      "confidence": 0.99,
+      "current": "All we have to do is fill them up as much as they want.",
+      "defect": "“Fill them up” sounds as though the people themselves are containers and obscures that Huginn means paying the requested amount.",
+      "id": "F05",
+      "rationale": "원하는 만큼 채워 주면 means satisfying their demand to the desired amount, which the surrounding exchange identifies as money.",
+      "replacement": "All we have to do is give them as much as they want.",
+      "severity": "minor",
+      "source": "그저 원하는 만큼 채워 주면 그만이니까요."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I learned from the best.”",
+      "defect": "The idiom turns Huginn’s coy, pointed reference to Michael into an overt compliment.",
+      "id": "F06",
+      "rationale": "어떤 분 deliberately avoids naming Michael while plainly implying him, preserving the restrained teasing between superior and retainer.",
+      "replacement": "“I learned a great deal from a certain someone.”",
+      "severity": "minor",
+      "source": "“어떤 분께 많이 배웠습니다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“There’s an interesting saying among Easterners. When three people gather, they can make a tiger…”[^1] “Keep the media under control until everything is finished. Just as you are now.”",
+      "defect": "The draft unnecessarily closes and reopens Michael’s quotation after the footnote marker, visually splitting one continuous speech turn.",
+      "id": "F07",
+      "rationale": "The source contains one uninterrupted utterance, and nesting the proverb preserves both that continuity and the useful footnote.",
+      "replacement": "“There’s an interesting saying among Easterners: ‘When three people gather, they can make a tiger.’[^1] Keep the media under control until everything is finished. Just as you are now.”",
+      "severity": "minor",
+      "source": "“동양인들의 격언 중 제법 흥미로운 말이 있더군. 사람 셋이 모이면 호랑이도 만들어 낸다……. 모든 일이 마무리될 때까지 언론을 잡고 있어야 해. 지금처럼.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“This mission must not suffer even the slightest mistake or variable.”\n\n“Don’t worry. I handled everything without a single gap, exactly as you ordered.”",
+      "defect": "“Suffer a variable” and “without a single gap” are literal calques that make an otherwise controlled, professional exchange sound unnatural.",
+      "id": "F08",
+      "rationale": "변수 means an unforeseen factor or complication in this context, while 빈틈없이 means thoroughly or flawlessly rather than literally having no gaps.",
+      "replacement": "“There can be no mistakes or unforeseen complications in this mission.”\n\n“Don’t worry. I handled everything flawlessly, exactly as you ordered.”",
+      "severity": "minor",
+      "source": "“이번 임무는 조금의 실수나 변수도 없어야 하네.”\n\n- 걱정하지 마십시오. 말씀하신 대로 빈틈없이 처리했습니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*No later than three days. It will probably begin within that time.*",
+      "defect": "The deadline is expressed unnaturally and ambiguously; the intended meaning is that the event will begin within three days at the latest.",
+      "id": "F09",
+      "rationale": "늦어도 사흘 establishes a maximum wait of three days, and 그 안에 means by or within that deadline.",
+      "replacement": "*Three days at the latest. It’ll probably begin by then.*",
+      "severity": "minor",
+      "source": "‘늦어도 사흘. 아마 그 안에 시작되겠지.’"
+    }
+  ],
+  "summary": "One critical subject-reference error changes whose absence Lee Jungryong filled; the draft also obscures Michael’s personal history, softens a contemptuous address, and contains several localized register and natural-English issues.",
+  "version": 1
+}
