@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Not in Anhui Province, but in Zhejiang Province, where the Great Nation’s capital and the Emperor’s residence were located.",
+      "defect": "Reverses where the Embroidered Uniform Guard appeared.",
+      "id": "F01",
+      "rationale": "The source places their appearance in Anhui, contrasting it with Zhejiang.",
+      "replacement": "In Anhui Province, not Zhejiang Province, where the Great Nation’s capital and the Emperor’s residence were located.",
+      "severity": "critical",
+      "source": "대국의 수도이자 천자가 머무르는 황도가 위치한 절강성(浙江省)도 아닌 안휘성에서."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Extinction Divine Nun’s wooden prayer beads would’ve come down on Jeok Cheongang’s skull.",
+      "defect": "Changes the object she would have struck him with.",
+      "id": "F02",
+      "rationale": "목탁 is a wooden percussion block, not prayer beads.",
+      "replacement": "Extinction Divine Nun’s wooden prayer block would’ve come down on Jeok Cheongang’s skull.",
+      "severity": "critical",
+      "source": "멸절신니의 목탁이 적천강의 뚝배기로 내리꽂혔을 테니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "News traveled on two legs, even without them.",
+      "defect": "Contradicts the image and loses its point about how far word travels.",
+      "id": "F03",
+      "rationale": "The source says words can travel a thousand li despite having no legs.",
+      "replacement": "Words could travel a thousand li without legs.",
+      "severity": "major",
+      "source": "두 다리 없이도 능히 천 리를 가는 것이 바로 말이다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*Damn, he really is treating her carelessly.*",
+      "defect": "Softens Taekyung’s strong profanity and makes his blunt reaction sound detached.",
+      "id": "F04",
+      "rationale": "존나 is emphatically profane; the thought is an immediate, incredulous reaction.",
+      "replacement": "*He’s treating her however the fuck he wants. Seriously.*",
+      "severity": "major",
+      "source": "‘존나 함부로 대하네, 진짜.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I was asking how his grave was holding up. No matter how busy you are, you should visit often and pull the weeds.”",
+      "defect": "“How his grave was holding up” obscures Jeok Cheongang’s attempted cover: he claims to be asking whether the grave has been tended.",
+      "id": "F05",
+      "rationale": "벌초 refers to clearing vegetation from a grave; that chore is the subject of his excuse.",
+      "replacement": "“I was asking whether you’ve been tending his grave. No matter how busy you are, visit often and pull the weeds.”",
+      "severity": "minor",
+      "source": "“벌초 상태를 물어본 게다. 아무리 바빠도 자주자주 찾아가서 잡초도 뽑고 해.”"
+    }
+  ],
+  "summary": "Two scene details are changed, and several lines lose source meaning or register.",
+  "version": 1
+}
