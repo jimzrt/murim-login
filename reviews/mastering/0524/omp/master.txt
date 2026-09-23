@@ -2,13 +2,13 @@
 
 Hyuk Mujin woke up fifteen minutes after Mungyeong left.
 
-He poked his head through the gap in the open door. The moment our eyes met, he spoke with a solemn expression.
+He poked his head through the gap in the open door. The moment our eyes met, he put on a solemn expression.
 
 “Your qi circulation is complete.”
 
 “Yeah. Your life is about to be over, too.”
 
-“Hyuk Mujin, Vice Squad Leader of the Jin Dragon Squad of the great Jin Family of Taiyuan. As the Captain ordered, I was guarding the door so that not even a single ant could get inside.”
+“Hyuk Mujin, Vice Squad Leader of the Jin Dragon Squad of the great Jin Family of Taiyuan. As ordered, Captain, I stood guard and kept out every last ant.”
 
 “…Are you seriously insane?”
 
@@ -20,7 +20,7 @@ It was ridiculous, but I decided to give him high marks for the sheer nerve it t
 
 “Yes, sir.”
 
-Perhaps he felt guilty, because he didn’t offer even a word of protest before scampering away.
+He must have known he was guilty, because he didn’t offer a word of protest before scurrying off.
 
 Just as he was about to shut the door, something occurred to me.
 
@@ -36,7 +36,7 @@ Hyuk Mujin thought for a moment.
 
 “The Sect Leaders and Family Heads?”
 
-“Yes. It seems he’s been meeting with them more often for the past two days.”
+“Yes. He’s been meeting with them more often for the past two days.”
 
 Two days ago. That was when a few of us, including Jeok Cheongang and me, had gone to the Murim Alliance.
 
@@ -44,7 +44,7 @@ Two days ago. That was when a few of us, including Jeok Cheongang and me, had go
 
 At the very least, the heads of the Nine Sects and One Gang and the Five Great Families should have received some warning.
 
-With all sorts of information and problems related to Dark Heaven coming to light, it was only natural for them to put their heads together and devise a countermeasure.
+With all sorts of information and problems related to Dark Heaven coming to light, it was only natural for them to put their heads together and come up with a plan.
 
 “Oh, and we handed the Three Fiend over to the Murim Alliance. I heard they were going to bring in some master to interrogate him…”
 
@@ -54,17 +54,17 @@ The third of the Qilian Three Fiends, who had stained Sichuan with blood under t
 
 Plenty had happened while he was bound and brought all the way to Henan, yet unlike his two brothers, his head was still attached to his neck. That alone proved how lucky the bastard was.
 
-It was just a different part that had fallen off instead.
+A different part had fallen off instead.
 
 *If he kept saying he didn’t know anything even while they were cutting off his balls, I doubt an interrogation will get much more out of him.*
 
-Even for a Supreme Peak master—hell, for anyone—one’s balls were precious.
+Even to a Supreme Peak master—hell, to anyone—his balls were precious.
 
 Gung Gibang and Hyuk Mujin had once held a hundred-minute debate over which mattered most: a man’s life, his dantian, or his balls.
 
 *Anyway, I handed the Three Fiend over as ordered. The Murim Alliance can handle the rest.*
 
-Well, what happened after that was none of my concern. I could only hope the Murim Alliance managed to obtain more information about Dark Heaven through further interrogation.
+What happened after that was none of my concern. I just hoped they could get more information about Dark Heaven out of him.
 
 “Forget my eldest brother. What about the others? I haven’t seen them anywhere.”
 
@@ -82,7 +82,7 @@ Well, what happened after that was none of my concern. I could only hope the Mur
 
 I raised my fist, and Hyuk Mujin hurried on.
 
-“The Beggars’ Sect! He said he would be staying at the Henan branch of the Beggars’ Sect, so we should come find him anytime something happens.”
+“The Beggars’ Sect! He said he’d be at the Beggars’ Sect’s Henan branch, so we can come find him anytime we need him.”
 
 I stopped just short of hitting him.
 
@@ -92,7 +92,7 @@ I stopped just short of hitting him.
 
 Hyuk Mujin looked at me as though I’d said something absurd.
 
-“May I ask which faction you belong to, Captain?”
+“Which faction do you belong to, Captain?”
 
 “What kind of stupid question is that? The Jin Family of Taiyuan or the Fire Gate Clan, obviously.”
 
@@ -100,7 +100,7 @@ Hyuk Mujin looked at me as though I’d said something absurd.
 
 “…Oh, shit. Right. He’s the Beggars’ Sect’s Successor Beggar.”
 
-I had forgotten because he clung to me like a burr. Come to think of it, he had a master and a sect of his own. It would be unreasonable for him to stay with us even in Henan.
+I’d forgotten because he stuck to me like a burr. Come to think of it, he had a master and a sect of his own. He couldn’t keep tagging along with us even in Henan.
 
 “Wait. Did Cheongpung leave too?”
 
@@ -112,9 +112,9 @@ I had forgotten because he clung to me like a burr. Come to think of it, he had 
 
 And yet I felt both relieved and disappointed. I’d keep seeing them both, of course, but without those two making a racket all the time, I could already feel the empty space they’d left behind.
 
-“They could’ve at least said goodbye before leaving.”
+“They could’ve at least said goodbye.”
 
-At my mutter, Hyuk Mujin looked me up and down as though I were some strange creature.
+Hyuk Mujin looked me up and down as though I were a strange creature.
 
 “Why would they say goodbye?”
 
@@ -128,9 +128,9 @@ At my mutter, Hyuk Mujin looked me up and down as though I were some strange cre
 
 “…”
 
-*Shit. Give me back my sentimentality.*
+*Fuck. Give me back my sentimental moment.*
 
-I was momentarily speechless. Hyuk Mujin cast me a meaningful look.
+For a moment, I had nothing to say. Hyuk Mujin gave me a knowing look.
 
 “Captain.”
 
@@ -144,7 +144,7 @@ I was momentarily speechless. Hyuk Mujin cast me a meaningful look.
 
 “…Please get away from me.”
 
-“Come on. You like it, so why are you acting like this?”
+“Come on. You like it.”
 
 I was annoyed, but worse than that, I was embarrassed as hell.
 
@@ -154,7 +154,7 @@ I sighed. Hyuk Mujin, still needling me, suddenly seemed to remember something.
 
 “I already saw him.”
 
-“You did? He’s seemed pretty busy lately, too. He’s been gathering strange medicinal ingredients, boiling them, pounding them… He looked completely swamped. When did you see him?”
+“You did? He’s seemed pretty busy lately. Gathering strange medicinal ingredients, boiling them, pounding them… He’s been all over the place. When did you see him?”
 
 “While you were asleep, you bastard!”
 
@@ -164,7 +164,7 @@ Wham! Wham! Wham!
 
 “Go! Get out right now!”
 
-After taking a thorough beating, Hyuk Mujin looked at me with tears welling in his eyes.
+After taking a thorough beating, Hyuk Mujin looked at me with tears in his eyes.
 
 “Do you hate me that much?”
 
@@ -184,9 +184,9 @@ Tap-tap-tap. Slam!
 
 I was speechless as Hyuk Mujin ran off, scattering tears behind him.
 
-*What the hell.*
+*What the hell is wrong with him?*
 
-The guy was well past his mid-twenties, and that was what he came out with? My fists were growing grander by the second.
+The guy was well past his mid-twenties, and that was what he came out with? My fists were swelling with purpose.
 
 I was letting out a heartfelt sigh when the door opened again and Hyuk Mujin poked his head through the gap.
 
@@ -194,15 +194,15 @@ I was letting out a heartfelt sigh when the door opened again and Hyuk Mujin pok
 
 “Welcome back. Our Mujin has come to pick out his burial plot.”
 
-“No. That’s not it. I came because I was worried you might misunderstand.”
+“No. I was worried you might misunderstand.”
 
 “What?”
 
-“I didn’t shut the door that hard on purpose. The wind was strong.”
+“I didn’t slam the door on purpose. The wind blew it shut.”
 
 “…”
 
-“Well, I’ll be going now. Good work, sir. Loyalty.”
+“Well, I’ll be going. Keep up the good work, sir. Loyalty.”
 
 Should I really kill him?
 
@@ -240,11 +240,11 @@ But my mind was already on the conversation I’d had with Mungyeong before he l
 
 *Why? Are you disappointed?*
 
-A lot of emotions seemed to pass through me in that moment. After hesitating, I answered,
+A lot of emotions passed through me in that moment. I hesitated before answering.
 
 *…To be honest, I can’t say I’m glad to hear it.*
 
-*Why?*
+*Why not?*
 
 *I want to get stronger. Much stronger than I am now.*
 
@@ -252,15 +252,15 @@ A lot of emotions seemed to pass through me in that moment. After hesitating, I 
 
 *Isn’t that how people are? No matter how much we have, we always want more.*
 
-Mungyeong stared at me for a long time after I questioned him in return, then let out a quiet laugh.
+Mungyeong gazed at me for a long while, then gave a quiet laugh.
 
 It was the first time I’d seen him smile since we met.
 
-*You’re finally starting to sound like a Murim practitioner.*
+*Now you sound like a martial artist.*
 
-*I am a Murim practitioner.*
+*I am a martial artist.*
 
-*Then let me ask you again. Do you want to become an assassin, or a Murim practitioner?*
+*Then let me ask you again. Do you want to be an assassin or a martial artist?*
 
 *I want to be strong. So strong no one would dare touch me. Strong enough that everyone around me would be safe just because I’m there.*
 
@@ -272,13 +272,13 @@ Even the Martial God had enemies. The Heavenly Demon, master of the Demonic Cult
 
 *You really do dream big.*
 
-*Even if reality is a cesspit, your dreams should be big and lofty.*
+*Even if reality is a cesspit, you should aim high.*
 
 *Funny. That’s obviously ridiculous bluster, but coming from you, it sounds almost plausible.*
 
 *Pardon?*
 
-*Nothing. And if that’s your reason, then you must not learn my martial arts.*
+*Nothing. And if that’s what you want, you have even less reason to learn my martial arts.*
 
 *Why?*
 
@@ -290,7 +290,7 @@ Even the Martial God had enemies. The Heavenly Demon, master of the Demonic Cult
 
 *No, that’s not what I meant.*
 
-*I made this decision after a great deal of thought. Keep that in mind.*
+*I’ve given this a great deal of thought. Accept my decision.*
 
 *Is it because I lack talent?*
 
@@ -304,13 +304,13 @@ His answer was short.
 
 *If you were weak and untalented, I’d have taught you more. You’d need to learn whatever you could to survive.*
 
-Those words suddenly brought back my days as an F-rank Hunter.
+His words brought back my days as an F-rank Hunter.
 
 No matter how carefully you chose your position and approached a fight, danger could be lurking anywhere.
 
-Without a tank’s protection or cover from a mage or archer, you were ultimately on your own.
+Without a tank to protect you or a mage or archer to cover you, you were on your own.
 
-If I dropped my spear by mistake, I cut a goblin’s throat with the dagger I carried. If the dagger broke, I picked up a rock and smashed in its head.
+If I dropped my spear, I’d cut a goblin’s throat with the dagger I carried. If the dagger broke, I’d pick up a big rock and bash its head in.
 
 I did whatever it took to survive.
 
@@ -332,7 +332,7 @@ I hadn’t picked a spear because I had any special talent for it. I’d figured
 
 I could still remember the look in his eyes. I couldn’t begin to tell what lay behind it.
 
-And I could still remember his voice.
+And I remembered his voice.
 
 *There were three hundred of us at first. We all learned the same martial arts and underwent the same training. Ten years later, only twenty of those three hundred raised as assassins remained. Ten years after that, only one remained.*
 
@@ -348,13 +348,13 @@ I came out of my thoughts. A familiar presence outside was knocking on the door.
 
 “Hyuk Mujin?”
 
-“Captain. It’s time. You should come out.”
+“Captain. It’s time. You need to come out.”
 
 *It’s time?*
 
 The question vanished almost as soon as it arose.
 
-I suddenly realized what day it was.
+I suddenly remembered what day it was.
 
 *The Murim Alliance.*
 

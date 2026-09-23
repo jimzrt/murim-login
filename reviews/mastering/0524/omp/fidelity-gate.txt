@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but two small wording shifts alter the source’s nuance or imagery.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 47–49",
+      "current": "should have received some warning",
+      "defect": "“언질” means they would have been given at least a heads-up or advance word; “warning” can imply they were cautioned about a danger, which the source does not establish.",
+      "replacement": "should have gotten at least a heads-up",
+      "rationale": "The narration says information about Dark Heaven has surfaced and the faction heads would have been informed, not necessarily warned.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 381",
+      "current": "but principles have no such divide",
+      "defect": "The source contrasts martial arts with different “grain” or texture against principles that have no such grain. “Divide” drops that source-specific image.",
+      "replacement": "but principles have no such grain",
+      "rationale": "The same contrast is expressed as “different textures” in the accepted baseline; the Korean repeats 결, an image of grain or texture, rather than a divide.",
+      "confidence": 0.84
+    }
+  ]
+}
