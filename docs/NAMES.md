@@ -2295,3 +2295,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 진 | **Jin** | Public shorthand for Jin Taekyung used in online discussion. |
 | 제1 국회의사당 | **First National Assembly Hall** | Venue of the inaugural ceremony. |
 | 파리 대전투 | **Great Battle of Paris** | Major battle during the Great Cataclysm commemorated in the First National Assembly Hall. |
+| 폴 | **Paul** | Michael's follower whose handshake is painfully overpowered. |
+| 프랑크푸르트 | **Frankfurt** | Location of the defense during which Liam's life was saved. |
