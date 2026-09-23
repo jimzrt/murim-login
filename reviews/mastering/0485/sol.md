@@ -66,11 +66,11 @@ More importantly, inexplicable phenomena had occurred along the way.
 
 *The Blood Lord, the Western Heaven Demon Lord, and the Moving Formation.*
 
-I could still vividly recall the sight of the Blood Lord recovering even after being struck by Jeok Cheongang’s Dance of the Fire God and Demon—a technique that staked his life itself.
+I could still vividly recall the Blood Lord regenerating even after Jeok Cheongang struck him with the Dance of the Fire God and Demon, staking his own life on the attack.
 
 *No. It wasn’t even accurate to call that recovery.*
 
-That was right. What the Blood Lord had shown was closer to regeneration than recovery.
+Right. What the Blood Lord had displayed was closer to regeneration.
 
 New flesh had sprouted as if time itself were reversing. Bones had slid back into place. Everything charred pitch-black like ash had regenerated in an instant.
 
@@ -78,7 +78,7 @@ As I watched that unbelievable sight, one very familiar creature had come to min
 
 *A Troll. Yeah, he was just like a Troll.*
 
-Or maybe a potion…
+Or maybe he’d used a potion…
 
 Damn it. A Troll and a potion? It was my own idea, but it sounded insane.
 
@@ -132,7 +132,7 @@ And I had realized that the strange abilities of Dark Heaven—which martial art
 
 *Magic.*
 
-At the single word filling my mind, my vision brightened, and my forehead, which had been burning hot, slowly cooled.
+That one word filled my mind. My vision cleared, and my burning forehead slowly cooled.
 
 At the same time, the title of another being who had yet to reveal himself slipped from between my lips.
 
@@ -160,7 +160,7 @@ I snapped out of my thoughts as if I’d been doused in cold water. When I turne
 
 His voice was gruff, but the eyes peering out from between the deep wrinkles on his face were filled with concern.
 
-I let out a quiet laugh at Jeok Cheongang’s expression and opened my mouth.
+I let out a quiet laugh at Jeok Cheongang’s expression.
 
 “You startled me. What brings you here?”
 
@@ -264,11 +264,11 @@ After a long hesitation, I finally forced the words out.
 
 As I opened my mouth, my heart trembling, Jeok Cheongang smiled kindly and nodded.
 
-“I understood you perfectly. You sure take a long time to say that you want to die.”
+“I understand. You sure took the long way around to say you want to die.”
 
-“M—yes?”
+“Ma—pardon?”
 
-“What do you mean, ‘yes,’ you damn bastard.”
+“Don’t ‘pardon’ me, you damn bastard.”
 
 *Whap-whap-whap!*
 
@@ -284,7 +284,7 @@ My brain ground to a halt. I stared blankly, mouth hanging open and both hands c
 
 “Whoa, whoa. Hold on!”
 
-“‘Hold on’? After all the times I’ve beaten you, you still haven’t come to your senses, and now you’re talking to me like an equal again, you insolent little…!”
+“‘Hold on’? After all the times I’ve beaten you, you still haven’t come to your senses, and now you’re speaking informally to me again, you wretched little bastard—!”
 
 *Whap-whap-whap!*
 
@@ -314,9 +314,7 @@ After delivering one final blow to Jin Taekyung, who had once again spouted some
 
 The murderous aura radiating from his entire body made everyone swallow hard and clear a path.
 
-Step. Step.
-
-He walked toward somewhere.
+Step by step, he continued on his way.
 
 Now alone, Jeok Cheongang wore a complicated expression that was impossible to decipher.
 

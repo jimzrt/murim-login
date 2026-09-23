@@ -1,0 +1,105 @@
+{
+  "summary": "Mostly faithful, with several minor fidelity leaks involving source-specific wording, physical mechanisms, omitted qualifiers, and one continuity fragment.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 13; P6",
+      "current": "I learned the true source of that ominous feeling.",
+      "defect": "실체 refers to the true nature or identity of the ominous thing, not its causal source.",
+      "replacement": "I was able to confirm the true nature of that ominous feeling.",
+      "rationale": "The narrator confirms what the ominous presence actually is—the Gate—rather than merely identifying what caused the feeling.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 54; P54",
+      "current": "The Moving Formation was the same.",
+      "defect": "The current line drops the explicit reference to the existence of the Moving Formation and becomes ambiguous about what is 'the same.'",
+      "replacement": "The Moving Formation’s existence was no different.",
+      "rationale": "이동진의 존재도 마찬가지 means that the existence of the Moving Formation was likewise another inexplicable fact.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 135; P63",
+      "current": "could be explained with a single word.",
+      "defect": "The source specifies 단 두 글자, 'just two characters,' emphasizing the compact two-syllable label 마법; the current wording loses that quantity and compactness.",
+      "replacement": "could be explained with just two syllables.",
+      "rationale": "The following word, 마법, is specifically presented as a two-character/two-syllable explanation.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 141; P66",
+      "current": "the title of another being who had yet to reveal himself",
+      "defect": "The source calls it a word referring to an unrevealed being, not specifically a title.",
+      "replacement": "a word referring to another being who had yet to reveal himself",
+      "rationale": "말 establishes a word or term; calling it a title adds a formal category not stated at this point.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Korean line 153; P72",
+      "current": "the very being that had surfaced in my mind",
+      "defect": "The current wording omits that the being was recalled unconsciously and at this very moment.",
+      "replacement": "the very being I’d unconsciously thought of just now",
+      "rationale": "무의식중에 떠올린 바로 그 존재 explicitly marks the thought as unconscious and immediate.",
+      "confidence": 0.86
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "Korean line 183; P87",
+      "current": "A vicious rush of air brushed my hair and tore through the space where my head had been.",
+      "defect": "파공성 is an air-splitting sound, but the current rendering turns it into a physical rush of air.",
+      "replacement": "A harsh air-splitting sound brushed past my hair and struck the empty air.",
+      "rationale": "The source describes the sound of the failed attack grazing his hair and striking the empty air, not wind physically tearing through the space.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F07",
+      "severity": "minor",
+      "source": "Korean line 213; P103",
+      "current": "Jeok Cheongang had even used a grappling technique to make sure he landed the blow on the back of my head. He glared at me.",
+      "defect": "The current wording adds a deliberate purpose—using the technique 'to make sure'—and drops the source's emphasis that he finally succeeded.",
+      "replacement": "Jeok Cheongang finally landed the blow on the back of my head, even using a grappling technique, and glared at me.",
+      "rationale": "기어코 ... 성공한 means he ultimately managed to land the blow, while the source does not state that the grappling technique was used specifically to ensure success.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F08",
+      "severity": "minor",
+      "source": "Korean line 277; P136",
+      "current": "My brain ground to a halt. I stared blankly, mouth hanging open and both hands clutching the back of my head, as his furious voice rang out.",
+      "defect": "The source does not specify both hands.",
+      "replacement": "My brain ground to a halt. I stared blankly, mouth hanging open, clutching the back of my head as his furious voice rang out.",
+      "rationale": "뒤통수를 감싸 안은 describes holding or covering the back of his head without establishing the number of hands.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F09",
+      "severity": "minor",
+      "source": "Korean line 307; P149",
+      "current": "who had been beaten mercilessly for fifteen minutes",
+      "defect": "무차별 폭행당한 means beaten indiscriminately, not specifically beaten mercilessly.",
+      "replacement": "who had been beaten indiscriminately for fifteen minutes",
+      "rationale": "The source emphasizes the indiscriminate nature of the assault; 'mercilessly' changes the manner of the beating.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F10",
+      "severity": "minor",
+      "source": "Korean line 333; P163",
+      "current": "“Ma…”",
+      "defect": "The current fragment adds an 'a' sound that the source does not establish and loses the baseline's intentionally incomplete single-sound fragment.",
+      "replacement": "“M—”",
+      "rationale": "The source only indicates that Taekyung seemed to begin saying something with 스; the continuation is deliberately unresolved.",
+      "confidence": 0.96
+    }
+  ]
+}
