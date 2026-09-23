@@ -35,7 +35,7 @@ Notifications poured in all at once. But the System had more rewards in store.
 
 *Oh, shit.*
 
-Was today Christmas or something?
+Was it Christmas?
 
 I’d stopped paying much attention to Fame, but the huge amount I’d just gained had pushed my total past 10,000 and earned me an unexpected extra reward.
 
@@ -53,11 +53,11 @@ Was the last time I checked my Status Window right after I defeated the Water Go
 
 When I first came to Murim, I’d been so anxious that I opened it dozens of times a day. Gradually, I’d checked it less and less. These days, I hardly looked at it at all.
 
-That was because, once my stats had reached a certain level, I had realized that they were little more than luck. What truly determined the outcome of a decisive moment was martial arts.
+Once my stats reached a certain level, I’d realized they could only give me an edge. At the decisive moment, it was martial arts that mattered.
 
 *Still, I should sort everything out soon.*
 
-It felt like only yesterday that I had been called the disgrace of my family at Level 10. Now I was a monster who had sailed past Level 100, as well as a nationally famous Supreme Peak master whom no one in Murim failed to recognize.
+It felt like only yesterday that I was the disgrace of my family at Level 10. Now I was a monster well past Level 100 and a Supreme Peak master known throughout Murim.
 
 I was smiling to myself at the thought of how far I’d come when Jeok Cheongang spoke in a disgruntled voice.
 
@@ -81,7 +81,7 @@ His eyes bulged, and he gave a mighty snort.
 
 “…Easy with the snorting. Your boogers are flying. And with a reaction like that, even a passing mutt could tell.”
 
-“You ill-mannered brat! What do you think you know?”
+“You ill-mannered brat! Tell what?”
 
 *Well, that settles it.*
 
@@ -89,7 +89,7 @@ I took a step back from Jeok Cheongang’s flying spit and tried to calm him dow
 
 “It can’t be helped. It’s not my fault you joined the Five Kings Hall.”
 
-The Five Kings Hall was an organization newly established by the new Murim Alliance, which had carried over the old Murim Alliance’s structure.
+The Five Kings Hall was a new organization formed by the restored Murim Alliance, which had carried over the old Alliance’s structure.
 
 It had only five members, but you could call it the strongest fighting force in the Murim Alliance—perhaps in all of Murim.
 
@@ -137,11 +137,11 @@ Hyuk Mujin, who had been watching him closely, raised a tentative hand.
 
 Jeok Cheongang and I fell silent. Then Jeok Cheongang fixed Hyuk Mujin with a long look.
 
-“Go. Unless you want to die.”
+“Get out. Unless you want to die.”
 
 “Yes, sir. I’m sorry.”
 
-“If you flap that twitchy mouth of yours one more time, this old man will have something to apologize to your parents for.”
+“Flap that restless mouth of yours one more time, and this old man will owe your parents an apology.”
 
 After delivering the threat in a chilling voice, he turned his glare on me.
 
@@ -159,7 +159,7 @@ I quickly waved my hands.
 
 He was asking about more than my next move. Pride and worry mingled in his eyes as he looked at me.
 
-“You’ve done well to come this far. I’ll give you that. But from here on…”
+“I’ll praise you for coming this far. But from now on…”
 
 “Old Master.”
 
@@ -175,11 +175,11 @@ I wasn’t lying. I could guess well enough what Jeok Cheongang wanted to tell m
 
 The real war was about to begin. Not a battle—a war. Countless lives would be sacrificed to decide who would rule the world.
 
-The fights I had faced until now had never been easy, but it was obvious that even greater dangers would come crashing down upon us from here on out.
+The fights so far hadn’t been easy, but greater dangers were coming. That much was certain.
 
 But…
 
-“You said it yourself a moment ago. You asked me what I was hesitating for. You told me to simply move forward.”
+“You said it yourself a moment ago. What was I hesitating for? I should just move forward.”
 
 That was right. I’d keep moving forward, as I always had. In my own way.
 
@@ -191,15 +191,15 @@ Jeok Cheongang watched me smile. Then he gave a quiet laugh.
 
 “I can’t help it. Somehow, I’ve ended up with a lot to protect.”
 
-I had blood relatives who were as precious to me as my own life. I had companions and subordinates to whom I could entrust my life. And I had a Master with whom I had formed a bond deep enough for me to throw my life away.
+I had family as dear to me as my own life, companions and subordinates I could trust with that life, and a master I cared for enough to give it up.
 
-I could not—and should not—ever lose something precious again as I had in the past.
+I could never lose something precious again. I wouldn’t let it happen.
 
 “I’ll protect everything I have as I go.”
 
 “Hah. Greedy bastard.”
 
-Jeok Cheongang let out a short, hollow laugh before continuing.
+Jeok Cheongang let out a short laugh.
 
 “But that’s the right answer.”
 
@@ -211,7 +211,7 @@ Jeok Cheongang let out a short, hollow laugh before continuing.
 
 “And remember.”
 
-His voice was different from usual. It was calm and warm, and it slipped into my ears.
+His voice was calm and warm, unlike the one I was used to hearing.
 
 “You’re someone another person wants to protect, too.”
 
@@ -273,7 +273,7 @@ Jin Taekyung watched Cheongpung cram dumplings and meat into his mouth and mutte
 
 “Wahn one?”
 
-“Afraid? What would I be afraid of? You’re the one who scares me. And no, I don’t want one, so swallow before you speak. Dumpling filling is flying all the way over here.”
+“Want one? No. You’re the one who scares me. Swallow before you talk—dumpling filling is flying all the way over here.”
 
 With a voice of utter resignation, Jin Taekyung reached toward the flying bits of filling.
 
@@ -289,13 +289,13 @@ The world was vast and masters were many, but not all of the several dozen peopl
 
 Even so, a simple movement could reveal something of a martial artist’s ability.
 
-Jin Taekyung was a Supreme Peak master who had opened his Middle Dantian. It would not be an exaggeration to say that his movements belonged to an entirely different realm.
+Jin Taekyung had reached Supreme Peak and opened his Middle Dantian. His movements seemed to belong to another realm altogether.
 
 *The Fire King’s successor… He lives up to his reputation. The rumors weren’t exaggerated.*
 
 *Damn it. What kind of monster is he?*
 
-*If the Huashan Divine Dragon has reached the same realm… Hah. Astonishing.*
+*And if the Huashan Divine Dragon has reached that level too… Astonishing.*
 
 As everyone watched the two young men with their own thoughts, a deep voice rang through the conference hall.
 
