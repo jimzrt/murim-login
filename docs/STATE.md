@@ -1,26 +1,26 @@
 # Translation State
 
-- Last completed: 803
-- Next chapter: 804
-- Current block: 800–804 (4/5)
-- Latest translation: `translations/0803.md`
-- Latest summary: `summaries/beats/0803.md`
-- Safe profiles through: chapter 803
+- Last completed: 804
+- Next chapter: 805
+- Current block: 800–804 (5/5)
+- Latest translation: `translations/0804.md`
+- Latest summary: `summaries/beats/0804.md`
+- Safe profiles through: chapter 804
 
 ## Current Block
 
-- In the desert, Amir and Hamid’s fanatics kill an A-rank Hunter and his remaining men, then begin advancing toward the promised land at the time the Prophet foretold.
-- Jin Taekyung and the Hunters hold formation against the monster army. Taekyung fights with White Flame and daggers, imitating the Slaughter Saint’s Ghost Illusory Slaughter Step, while the Skeleton King’s undead buy time for the Hunters’ attacks. The Prophet and the S-rank monsters remain unseen, and a tremendous surge of magical power begins to shake the desert.
+- The arrival of the S-rank monsters renews the battle. Jin Taekyung restores the Hunters’ morale with the effect of One Against a Thousand, keeps command, and assigns Magic Johnson to protect the force from aerial threats while Team Leader Choi holds the front. Taekyung uncovers and attacks the Scorpion King, then charges toward the S-rank monsters as their armies advance across the ground and sky.
 
 ## Open Questions
 
-- Where are The Prophet and the S-rank monsters, and when will they enter the battle?
-- What is causing the immense magical-power surge?
-- Are Amir’s fanatics the non-monster enemy that attacked Chuck Hagel’s search party, and what is their intended target?
+- Where is The Prophet, and when will he enter the battle?
+- What are the identities and capabilities of the other S-rank monsters?
+- How will the battle against the advancing ground and aerial forces unfold?
 
 ## Exceptional Decision
 
 - Keep magical power distinct from mana.
+- Render 강기 as Force, distinct from Sword Force.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
