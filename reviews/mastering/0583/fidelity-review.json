@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Fifteen Hunters.",
+      "defect": "The next Korean sentence says the cost was absurdly high compared with the value of his own life. The assembled copy omits that thought, losing the source’s grim calculation.",
+      "id": "F01",
+      "rationale": "The source reads, “열다섯 명의 헌터. 그리고 자신의 목숨값에 비하면 턱없이 비싼 금액이다.” The accepted baseline also preserves the comparison.",
+      "replacement": "Fifteen Hunters. And an absurdly high price compared to the value of his own life.",
+      "severity": "minor",
+      "source": "Line 229"
+    },
+    {
+      "confidence": 0.96,
+      "current": "An announcer’s voice came through the static.",
+      "defect": "The source explicitly says the announcer’s face is not visible; that visual detail is omitted.",
+      "id": "F02",
+      "rationale": "The Korean specifies “얼굴이 보이지 않는 아나운서,” and the accepted baseline preserves the unseen-face detail.",
+      "replacement": "The voice of an announcer whose face I couldn’t see came through the static.",
+      "severity": "minor",
+      "source": "Line 41"
+    }
+  ],
+  "summary": "The assembled copy is largely faithful, but it drops one meaningful thought and one explicit visual detail preserved in the accepted baseline.",
+  "version": 1
+}

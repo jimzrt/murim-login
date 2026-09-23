@@ -52,7 +52,7 @@ My shout, charged with internal energy, jolted them as though they’d woken fro
 
 One A-grade mage and six B-grade mages. But their faces were grim.
 
-“I-I’m sorry, but it would be difficult for us to cast Teleport on our own.”
+“I-I’m sorry, but we can’t cast Teleport on our own.”
 
 “What?”
 
@@ -100,7 +100,7 @@ That told me enough. I urged him again to hurry, then clenched my teeth.
 
 Their opponent was a named monster. One as powerful as the Kraken, or worse.
 
-How much longer could they hold out against a monster whose might was conveyed even through the footage? How many of them would survive?
+Its strength came through even on a screen. How much longer could they hold out against it? How many would survive?
 
 *Just a little longer. Please, hold out a little longer.*
 
@@ -154,7 +154,7 @@ Two Peace Guild Hunters had strayed beyond the light of **Hero’s Soul**. They 
 
 Without their extensive combat experience and strong wills, they might have fainted or gone mad on the spot.
 
-But even the momentary chaos brought on by Fear was enough for the cunning monster to achieve the result it wanted.
+But that moment of confusion was all the cunning monster needed.
 
 “No!”
 
@@ -162,7 +162,7 @@ Behemoth moved half a beat before Choi Minwoo’s warning. That was enough to se
 
 Whoom—CRUNCH!
 
-A gust of wind erupted from empty air and slammed into the earth.
+A gust tore through the air and slammed into the ground.
 
 Their armor bore high-level defensive magic. Their muscles had been trained to their limits, and their vitality was tenacious.
 
@@ -176,7 +176,7 @@ For an instant, Choi Minwoo met both pairs of fading eyes. He gritted his teeth.
 
 *Again…!*
 
-They had died. Died, and died again.
+They had died. One after another.
 
 Trampled beneath enormous forefeet. Impaled on tusks. Crushed by that swinging trunk.
 
@@ -220,7 +220,7 @@ He wanted to dodge the blood, but he couldn’t. His body shook from the strengt
 
 He murmured through a vision stained entirely green.
 
-Fifteen Hunters.
+Fifteen Hunters. And his own life. A far too costly price.
 
 Still, Behemoth’s scream of pain was not unpleasant to hear.
 
@@ -282,7 +282,7 @@ They had no regrets.
 
 “Fuck. I signed the contract on my house two days ago.”
 
-A snort of laughter escaped the Hunters at someone’s mutter.
+A few Hunters let out startled laughs.
 
 “Crazy bastard.”
 
@@ -290,7 +290,7 @@ A snort of laughter escaped the Hunters at someone’s mutter.
 
 But no one moved. Not even the Hunter who had spoken first.
 
-“How are we supposed to leave? I’d rather die fighting.”
+He gazed at his trembling legs and muttered, “How am I supposed to go? Might as well die fighting.”
 
 They all felt the same. Thousands of people were still evacuating behind them.
 
@@ -310,7 +310,7 @@ At the quiet voice, the thick fog parted. It was fire, not light, that drove bac
 
 Fwoooosh!
 
-A man appeared through the fog amid fierce flames and continued,
+A man emerged through the fog amid fierce flames.
 
 “At least, you don’t.”
 
@@ -352,13 +352,13 @@ Kim Hwajong watched them slide away. A faint smile returned to his lips.
 
 *You must make it out safely. You must.*
 
-When he turned away after murmuring the small plea that would never reach them, hellfire flickered in his one remaining hand.
+He murmured the plea too softly for them to hear. When he turned back, hellfire flickered in his one remaining hand.
 
 “Come on, you fucking bastard.”
 
 —GRAAAAAAAH!
 
-Behemoth’s enormous eyes and Kim Hwajong’s flame-filled gaze collided in midair.
+Behemoth’s enormous eyes met Kim Hwajong’s flame-filled gaze.
 
 The old butler had sent everyone away and stood alone at the edge of the cliff. He began to recite what might be his final spell.
 
