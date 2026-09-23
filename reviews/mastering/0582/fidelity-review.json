@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "So were the tires of the car spinning uselessly after slamming into the side of a bus.",
+      "defect": "The source also says the asphalt melting in the extreme heat was hot. That image is omitted.",
+      "id": "F01",
+      "rationale": "The Korean explicitly lists the melting asphalt, the spinning tires, and the narrator’s heart as hot.",
+      "replacement": "The asphalt melting in the extreme heat was hot, too. So were the tires of the car spinning uselessly after it slammed into the side of a bus.",
+      "severity": "minor",
+      "source": "Chapter 582, line 257"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then I grabbed the warm, pulpy thing my hand had touched and tore it out.",
+      "defect": "The translation omits the narrator silently looking at the Merman, which gives a short groan, before tearing out the pulpy object.",
+      "id": "F02",
+      "rationale": "The source includes both the Merman’s brief groan and the narrator’s silent look before the action; the accepted baseline preserves them.",
+      "replacement": "I silently looked at the Merman as it let out a short groan, then grabbed the warm, pulpy thing my hand had touched and tore it out.",
+      "severity": "minor",
+      "source": "Chapter 582, line 291"
+    },
+    {
+      "confidence": 1.0,
+      "current": "answered,",
+      "defect": "The superior-looking Hunter’s spoken response, “Pardon? Ah, yes. Yes,” is missing.",
+      "id": "F03",
+      "rationale": "The source includes this startled acknowledgment before the narrator asks about the other areas, and the accepted baseline preserves it.",
+      "replacement": "answered, “Pardon? Ah, yes. Yes.”",
+      "severity": "minor",
+      "source": "Chapter 582, line 325"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but the assembled copy drops several concrete details and one spoken response preserved in the source and accepted baseline.",
+  "version": 1
+}

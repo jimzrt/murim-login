@@ -76,13 +76,13 @@ Twenty-odd pairs of eyes found a young man holding a sword that blazed with ligh
 
 The moment his calm voice reached them, the Peace Guild Hunters realized they had broken free of the Fear emanating from Behemoth.
 
-And one person watching the scene trembled with emotion.
+One man watching the scene trembled.
 
 *This is…*
 
 The feeling was deeply familiar and achingly distant. Kim Hwajong remembered a face whose features had grown faint with time and murmured, “So you were here.”
 
-What Kim Hwajong saw reflected in his eyes was Cheon Taemin and Choi Minwoo at the same time—and Choi Minwoo and Cheon Taemin at the same time.
+Past and present overlapped. In the young man before Kim Hwajong stood both Cheon Taemin and Choi Minwoo—Choi Minwoo and Cheon Taemin.
 
 Song Cheonwoo had seen the same thing and felt despair. But even in this perilous moment, joy welled up from deep within the old butler’s chest.
 
@@ -110,7 +110,7 @@ Choi Minwoo, Kim Hwajong, and the Peace Guild Hunters knew it. They also knew th
 
 “T-Team Leader.”
 
-They all possessed the strength of high-level Hunters, but their opponent was a monster that appeared only in mythology.
+Every Hunter there possessed the strength of a high-level Hunter. Their opponent, though, was a creature out of myth.
 
 Choi Minwoo answered the frightened voice.
 
@@ -136,13 +136,13 @@ By then, Choi Minwoo’s eyes had turned golden. Reflected in them was Behemoth,
 
 Not one person here was an exception. Each had been chosen one day by someone unknown and given power beyond the ordinary.
 
-And that power came with duty and a sense of responsibility.
+And with that power came duty and a sense of purpose.
 
 Hunters.
 
 Swords that defended humanity. Shields against the threats it faced. Guardians who had to stand at the forefront of every battle against monsters.
 
-Their wealth and fame might have dulled that ideal, but its pure essence remained.
+Wealth and fame might have dulled that ideal, but its essence remained.
 
 “Attack formation. Take your positions.”
 
@@ -202,7 +202,7 @@ I didn’t bother checking whether it was dead. Before the body hit the ground, 
 
 Their cries were desperate pleas to live. Too late. They were monsters, and I was human.
 
-Besides, if they had crawled all the way to Busan and shit everywhere, they had to pay compensation for it.
+Besides, if they had crawled all the way to Busan to shit everywhere, they had to pay for the damage.
 
 An eye for an eye. A life for a life.
 
@@ -236,7 +236,7 @@ Limbs flew amid sprays of blood. Everything in my spear’s path was severed. Fr
 
 It was hot.
 
-So were the tires of the car spinning uselessly after slamming into the side of a bus.
+The asphalt melting in the extreme heat. The tires of a car idling where it had crashed into the side of a bus.
 
 And my heart, as I looked at the driver dead behind the wheel, his foot still on the accelerator.
 
@@ -270,7 +270,7 @@ Maybe the father and son had looked toward nearby Gwangan Bridge and made a prom
 
 My fist punched through hard scales and crushed bone and flesh.
 
-Then I grabbed the warm, pulpy thing my hand had touched and tore it out.
+The Merman gave a short grunt. I stared at it in silence, then gripped the soft thing my fingers had found and tore it free.
 
 *SPURT! Thud!*
 
@@ -290,7 +290,7 @@ I stood in a pool of green blood, breathing hard, when—
 
 “…Wicked human. You.”
 
-“Why?”
+“What?”
 
 The Skeleton King met my eyes as I turned. It sighed.
 
@@ -300,7 +300,7 @@ For a moment, I wondered what I looked like to it. I didn’t ask. The eyes of t
 
 “We’re done here.”
 
-At the dry voice that sounded strangely unfamiliar even to me, a Hunter who appeared to be a superior jolted and answered,
+My voice sounded dry and strange even to me. A Hunter who seemed to be in charge startled and answered, “Pardon? Ah, yes. Yes.”
 
 “How are things elsewhere?”
 
@@ -310,7 +310,7 @@ At the dry voice that sounded strangely unfamiliar even to me, a Hunter who appe
 
 He swallowed and went on.
 
-“It looks like everything has been taken care of.”
+“Looks like you’ve taken care of them.”
 
 “Good, then. You worked hard too.”
 
@@ -332,7 +332,7 @@ My foot left a print of green blood on the city asphalt.
 
 An irritating electronic buzz sounded, and a billboard high on a building flickered. Through the static appeared a familiar face.
 
-A face so handsome it was almost irritating.
+So handsome it pissed me off.
 
 Team Leader Choi.
 
@@ -340,4 +340,4 @@ A small inset image appeared beside him, along with a caption.
 
 > **Peace Guild Hunter Choi Minwoo. Caught up in the Monster Wave in Pyeongchang…**
 
-God fucking damn it.
+Fuck.
