@@ -11,3 +11,29 @@ Do not load this file unless creating or restructuring a profile.
 - Update existing fields instead of appending chapter recaps.
 
 Profiles currently include Jin Taekyung and Seong Jinho; create or update profiles only after the relevant chapter is accepted.
+
+## Profile Retrofit
+
+`python tools/profile_retrofit.py inventory` ranks profiles with weak voice
+fields by recurrence in chapters that have both Korean source and accepted
+translation. Build a bounded, history-spanning proposal for one profile with:
+
+```bash
+python tools/profile_retrofit.py propose "Jin Taekyung" --samples 6
+```
+
+For a name shared by distinct characters, restrict evidence to the identity's
+first known chapter:
+
+```bash
+python tools/profile_retrofit.py propose "Jang Sam" --samples 6 --from-chapter 546
+```
+
+Review and edit the proposal under `.work/profile-retrofit/` before applying it:
+
+```bash
+python tools/profile_retrofit.py apply .work/profile-retrofit/Jin Taekyung.proposal.json
+```
+
+Applying checks that the profile and cited source/translation chapters have not
+changed. The tool never applies model output automatically.

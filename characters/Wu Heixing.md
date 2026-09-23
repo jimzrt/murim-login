@@ -2,8 +2,8 @@
 
 - **Safe through:** Chapter 778
 - **Aliases:** None
-- **Role:** Deceased S-rank Hunter who learned the Wu family's inherited Mana Cultivation Method and joined forces with Lee Jungryong to try to kill Jin Taekyung.
-- **Personality:** Not established.
-- **Voice:** Not established.
-- **Relationships:** Son of Wu Shaiming and member of the Wu family; his Mana Cultivation Method became the reason Xiao Yang sought to persuade his father.
-- **Sources:** Korean source and accepted translation, Chapter 385
+- **Role:** Deceased S-rank Hunter and son of a leading Crown Prince Party figure; he used the Wu family's inherited Mana Cultivation Method and was killed after joining Lee Jungryong's betrayal.
+- **Personality:** Entitled and attention-seeking, he avoids personal risk, reacts to criticism with explosive anger, and holds grudges when challenged.
+- **Voice:** He uses blunt, contemptuous challenges and insults, but shifts to deferential, formal address when speaking to powerful seniors.
+- **Relationships:** Son of Wu Shaiming, he clashed with Jin Taekyung and Faye Chen; his inherited Mana Cultivation Method also prompted Xiao Yang to approach his father.
+- **Sources:** Korean source and accepted translation, Chapter 385; Profile retrofit evidence: Chapters 385, 393, 408, 778

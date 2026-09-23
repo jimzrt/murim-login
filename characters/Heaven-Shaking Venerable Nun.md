@@ -2,8 +2,8 @@
 
 - **Safe through:** Chapter 525
 - **Aliases:** Blood Rakshasa
-- **Role:** Former Emei Sect Leader and the sect's sole Supreme Peak master, killed on Mount Emei by a one-armed middle-aged man.
-- **Personality:** Forthright and fearless against enemies.
+- **Role:** Former Emei Sect Leader and its sole Supreme Peak master, she was killed with three Elders by the one-armed Western Heaven Demon Lord.
+- **Personality:** Forthright and fearless toward enemies.
 - **Voice:** Not established.
-- **Relationships:** Respected leader of the Emei Sect; she and three Emei Elders were killed in the same attack.
-- **Sources:** Korean source and accepted translation, Chapter 340
+- **Relationships:** She was the respected Emei leader; Venerable Myoryeong survived the massacre and sought help.
+- **Sources:** Korean source and accepted translation, Chapter 340; Profile retrofit evidence: Chapters 340, 348, 352

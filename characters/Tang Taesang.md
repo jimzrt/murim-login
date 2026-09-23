@@ -2,8 +2,8 @@
 
 - **Safe through:** Chapter 525
 - **Aliases:** Poison King
-- **Role:** Former Family Head of the Sichuan Tang Clan and Supreme Peak master once renowned as the world’s greatest authority on poison and hidden weapons; he was murdered before the current events.
+- **Role:** Former Family Head of the Sichuan Tang Clan and Supreme Peak master, he was renowned as the world's leading authority on poison and hidden weapons; after retiring to Meishan, he was tortured and killed by the Western Heaven Demon Lord.
 - **Personality:** Not established.
 - **Voice:** Not established.
-- **Relationships:** Tang Sadok was his only child and successor as Family Head; his murder has placed the Sichuan Tang Clan on a campaign against the unidentified perpetrators.
-- **Sources:** Korean source and accepted translation, Chapter 336
+- **Relationships:** His only child, Tang Sadok, succeeded him as Family Head; Taesang gave him the Thousand-Year Poison Horned Snake as his first and last gift, and Sadok pursued his father's killer.
+- **Sources:** Korean source and accepted translation, Chapter 336; Profile retrofit evidence: Chapters 336, 337, 344, 352
