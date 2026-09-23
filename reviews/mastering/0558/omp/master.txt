@@ -72,7 +72,7 @@ That casual mention made his eyes fly open.
 
 She delivered the answer without missing a beat, then continued.
 
-“And to answer your earlier question, I checked your belongings. Thanks to that, we were able to complete your identity verification quickly.”
+“And to answer your earlier question, I checked your belongings. That let us confirm your identity faster than anyone else’s.”
 
 *Tap.*
 
@@ -153,8 +153,6 @@ Song Song gave a quiet laugh.
 “Volunteer… work?”
 
 “Oh, I and the others get paid, of course.”
-
-He opened his eyes wide and looked over Song Song’s shoulder.
 
 He stared past Song Song’s shoulder. Hunters were hurrying in every direction, each with the Peace Guild emblem on their chest.
 
@@ -276,13 +274,13 @@ Familiar faces were waiting there.
 
 Im Kkeokjeong spread both arms to greet me. Beside him, Team Leader Choi was busy dealing with something.
 
-“Take it easy, Kkeokjeong hyung. Take it easy. What if you reopen your wounds?”
+“Take it easy, Kkeokjeong hyung. What if your wounds reopen?”
 
 “I’m just happy to see you, punk.”
 
 “We see each other every day.”
 
-As soon as I sat Im Kkeokjeong down—he was still undergoing rehabilitation training—Team Leader Choi suddenly spoke.
+Kkeokjeong was still undergoing rehabilitation. As soon as I got him to sit down, Team Leader Choi spoke.
 
 “I received a report over the hotline. A Named Monster appeared?”
 
@@ -290,7 +288,7 @@ As soon as I sat Im Kkeokjeong down—he was still undergoing rehabilitation tra
 
 “A Cyclops in an F-rank Gate… It was fortunate you happened to be nearby, Mr. Jin Taekyung.”
 
-“They all knelt before this body’s majesty.”
+The Skeleton King puffed himself up. “They all knelt before this body’s majesty.”
 
 “One more word and you’ll be listening on your knees.”
 
@@ -340,9 +338,7 @@ I knew that flow of mana. And I recognized the distinctive presence within it.
 
 “It’s the person you’re thinking of. Though I didn’t expect him to come in person.”
 
-At Team Leader Choi’s calm answer, the Skeleton King turned to me with a bewildered expression.
-
-“Wretched human. Whom are you talking about?”
+The Skeleton King looked from him to me, bewildered. “Wretched human. Whom do you mean?”
 
 “Your dad.”
 

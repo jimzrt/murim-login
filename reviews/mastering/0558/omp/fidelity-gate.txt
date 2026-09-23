@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, but two lines narrow or flatten source imagery.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 215",
+      "current": "What it meant to care about people.",
+      "defect": "사람 냄새라는 것이 무엇인지 refers to humane warmth or having a human quality, not specifically to caring about people. The current wording narrows that idea.",
+      "replacement": "What it meant to have a human heart.",
+      "rationale": "The source describes what Song Song came to understand about a true Hunter and human warmth; the accepted baseline’s “human heart” preserves that broader sense.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 379",
+      "current": "Someone’s message magic entered all our minds",
+      "defect": "파고드는 describes the message magic burrowing into everyone’s brains. “Entered” preserves the general mechanism but drops the source’s forceful intrusion image.",
+      "replacement": "Someone’s message magic burrowed into everyone’s brains",
+      "rationale": "The Korean explicitly invokes the brain and uses a verb meaning to dig or burrow into it; the accepted baseline also preserved this image.",
+      "confidence": 0.94
+    }
+  ]
+}
