@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, with three minor fidelity issues involving timing, idiom function, and vessel specificity.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 57; assembled P27",
+      "current": "they would eventually have found suitable men elsewhere",
+      "defect": "The translation changes 곧 (soon) to “eventually” and adds “suitable,” weakening and altering the source’s timing and wording.",
+      "replacement": "they would soon have been able to find people from another region",
+      "rationale": "The source says that, even without Mu Song and the Water Dragon Stronghold bandits, they could soon recruit people from another region.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 111; assembled P54",
+      "current": "The darkest place is directly beneath the lamp…",
+      "defect": "This renders 등하불명 as a literal statement about darkness rather than conveying its idiomatic sense: failing to notice what is right nearby or under one’s nose.",
+      "replacement": "Unable to see what is right beneath one’s nose…",
+      "rationale": "The source invokes the idiom to suggest that the target may be close by and overlooked; the functional meaning drives the following speculation about the Moving Formation.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 281; assembled P137",
+      "current": "A ship has sunk in Dongting Lake!",
+      "defect": "“Ship” over-specifies the generic vessel term 배 and changes the established image from a boat to a larger-seeming vessel.",
+      "replacement": "A boat has sunk in Dongting Lake!",
+      "rationale": "The source does not establish a ship-sized vessel here, and the accepted baseline preserves the generic “boat.”",
+      "confidence": 0.79
+    }
+  ]
+}
