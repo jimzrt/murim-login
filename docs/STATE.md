@@ -1,22 +1,24 @@
 # Translation State
 
-- Last completed: 917
-- Next chapter: 918
-- Current block: 915–919 (3/5)
-- Latest translation: `translations/0917.md`
-- Latest summary: `summaries/beats/0917.md`
-- Safe profiles through: chapter 917
+- Last completed: 918
+- Next chapter: 919
+- Current block: 915–919 (4/5)
+- Latest translation: `translations/0918.md`
+- Latest summary: `summaries/beats/0918.md`
+- Safe profiles through: chapter 918
 
 ## Current Block
 
-- Jeok Cheongang overwhelms the Eastern Heaven Demon Lord with the Flame-Extinguishing Divine Fist, destroying both arms and a leg and driving him into the ground. As the Demon Lord faces defeat, he summons the assassin Heaven's Slaughter; just as the assassin launches a surprise attack, a flaming spear cuts through the air.
+- Jin Taekyung returns at the last moment, hurling a blazing spear that interrupts Heaven's Slaughter's ambush on Jeok Cheongang. Taekyung appears healed and restored despite having been at death's door, though the cause is unexplained. Jeok tearfully thanks him for coming back, and the two prepare to face their enemies together.
+- Heaven's Slaughter watches his elite assassins fall and weighs escape against his mission, but Dark Heaven's coercion leaves him believing he has no choice. Seeing Jeok exhausted, he launches another ambush; Taekyung spots him through his concealment, but Heaven's Slaughter's attack reaches his chest.
 
 ## Open Questions
 
-- What does the System’s chime signal, and will it help Taekyung survive?
-- Can Jeok Cheongang defeat the Eastern Heaven Demon Lord despite Heaven's Slaughter's intervention?
-- Who threw the flaming spear?
-- What is So Gyo’s identity and allegiance?
+- What enabled Jin Taekyung to return from his seemingly fatal injuries?
+- What is the outcome of Heaven's Slaughter's strike on Jin Taekyung?
+- Will Jeok Cheongang and Jin Taekyung defeat Heaven's Slaughter?
+- Did the Eastern Heaven Demon Lord survive the spear's impact?
+- What is So Gyo's identity and allegiance?
 
 ## Exceptional Decision
 
