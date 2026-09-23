@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Right? I thought you were spouting some bullshit.”",
+      "defect": "The added “you” makes Jin accuse the Skeleton King of spouting bullshit, whereas he is dismissing Leviathan’s demand to be killed.",
+      "id": "F01",
+      "rationale": "The context and omitted Korean subject point back to Leviathan’s preceding demand, not the Skeleton King’s response.",
+      "replacement": "“Right? I was wondering what the hell that bullshit was about.”",
+      "severity": "critical",
+      "source": "“그치? 난 또 뭔 개소린가 했네.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Tell them to stop playing catch-up and just steer the ship quietly.",
+      "defect": "“Playing catch-up” means trying to reach the same level as others and does not convey 뒷북치다, which mocks a belated fuss or reaction after the event is already over.",
+      "id": "F02",
+      "rationale": "The Skeleton King is deriding the sailors for celebrating only after the battle has been won.",
+      "replacement": "“Tell them to quit making a fuss after everything’s already over and just steer the ship quietly.",
+      "severity": "minor",
+      "source": "“뒷북치지 말고 얌전히 배나 몰라고 해라.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was how much Odin Guild—and Michael Silbert—represented in the world right now.",
+      "defect": "“Represented in the world” is an unnatural and inaccurate rendering of occupying a position of immense standing.",
+      "id": "F03",
+      "rationale": "위치를 차지하고 있었다 describes their present status or standing, not what they represented.",
+      "replacement": "That was the kind of standing Odin Guild—and Michael Silbert—currently enjoyed in the world.",
+      "severity": "minor",
+      "source": "지금의 오딘 길드는, 미카엘 실베르트는 세계에서 그 정도의 위치를 차지하고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*If this were any other time, it would be impossible no matter how many times I died and came back… But things are different now.*",
+      "defect": "The draft adds an unsupported repeated quantity with “no matter how many times.”",
+      "id": "F04",
+      "rationale": "죽었다 깨어나도 is a single idiomatic hypothetical meaning “even if I died and came back to life,” not repeated resurrections.",
+      "replacement": "*Normally, it would be impossible even if I died and came back to life… But things are different now.*",
+      "severity": "minor",
+      "source": "‘평소라면 죽었다 깨어나도 무리지만…… 이제는 상황이 달라졌지.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "To those living in the present rather than the past, Cheon Taemin was a great but unreachable figure, someone they remained grateful to yet found more frustrating than anyone else.",
+      "defect": "“Frustrating” weakens 야속한, which expresses hurt resentment toward someone perceived as distant, absent, or neglectful.",
+      "id": "F05",
+      "rationale": "The sentence deliberately contrasts gratitude with the public’s personal bitterness toward the withdrawn hero.",
+      "replacement": "To those living in the present rather than the past, Cheon Taemin was a great but unreachable figure—someone they remained grateful to, yet resented more than anyone else.",
+      "severity": "major",
+      "source": "과거가 아닌 현재를 살아가는 사람들에게 있어 천태민은 위대하지만 손에 닿지 않을 만큼 멀고, 여전히 고마우면서도 누구보다 야속한 존재다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The world now cheered for heroes who moved before everyone, rather than heroes who had withdrawn from the world.",
+      "defect": "“Moved before everyone” can mean moving ahead of or leading others; the source contrasts a publicly active hero with a reclusive one.",
+      "id": "F06",
+      "rationale": "모두의 앞에서 describes acting publicly before everyone’s eyes, which establishes the contrast between Michael and the secluded Cheon Taemin.",
+      "replacement": "The world now cheered for a hero who acted in full view of everyone rather than one who had withdrawn from the world.",
+      "severity": "minor",
+      "source": "이제 세상은 은둔한 영웅보다 모두의 앞에서 움직이는 영웅에게 환호를 보내고 있다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - You have defeated **[Lv. 170 Leviathan]**!\n>\n> - You have successfully completed **Quest [Calamity of the Sea]**!\n>\n> - You have acquired a massive amount of **EXP** and **Fame**!\n>\n> - **Level Up!**\n>\n> - Special **Debuff [Broken Body]** rejects the power of healing!\n>\n> - **[Leviathan]** is a powerful S-rank monster and the only Named monster. Since you have accumulated remarkable achievements, additional **Rewards** will be granted!\n>\n> - The effects of **Title [Aquatic Rescue Worker]** have been enhanced!\n>\n> - The name of **Title [Aquatic Rescue Worker]** will be changed!\n>\n> - You have newly acquired **Title [Hope of the Sea]**!\n>\n> - …\n>\n> - …\n>\n> - …",
+      "defect": "The System window encloses notices and UI terms in forbidden square brackets and pluralizes the singular glossary term “Reward.”",
+      "id": "F07",
+      "rationale": "The binding Markdown rules prohibit square brackets around System notices and UI terms because the blockquote window already identifies them as System content; 보상 is the established singular term “Reward.”",
+      "replacement": "> **System**\n>\n> - You have defeated **Lv. 170 Leviathan**!\n>\n> - You have successfully completed **Quest: Calamity of the Sea**!\n>\n> - You have acquired a massive amount of **EXP** and **Fame**!\n>\n> - **Level Up!**\n>\n> - Special **Debuff: Broken Body** rejects the power of healing!\n>\n> - **Leviathan** is a powerful S-rank monster and the only Named monster. Since you have accumulated remarkable achievements, an additional **Reward** will be granted!\n>\n> - The effects of **Title: Aquatic Rescue Worker** have been enhanced!\n>\n> - The name of **Title: Aquatic Rescue Worker** will be changed!\n>\n> - You have newly acquired **Title: Hope of the Sea**!\n>\n> - …\n>\n> - …\n>\n> - …",
+      "severity": "minor",
+      "source": "- [Lv.170 레비아탄]을 처치했습니다!\n\n- 퀘스트, [바다의 재앙]을 성공적으로 완료하셨습니다!\n\n- 막대한 경험치와 명성을 획득했습니다!\n\n- 레벨 업!\n\n- 특수 디버프, [망가진 신체]가 치유의 힘을 거부합니다!\n\n- [레비아탄]은 강력한 S급 몬스터인 동시에, 오직 하나뿐인 네임드 몬스터입니다. 놀라운 업적을 누적 달성했으므로 추가 보상이 주어집니다!\n\n- 칭호, [수상 구조대원]의 효과가 한층 강화됩니다!\n\n- [수상 구조대원]의 칭호 명칭이 변경됩니다!\n\n- 칭호, [바다의 희망]을 새롭게 획득했습니다!\n\n.\n\n.\n\n."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - **Main Quest [Cataclysm]** has been generated!",
+      "defect": "The Main Quest name is enclosed in forbidden square brackets inside a System window.",
+      "id": "F08",
+      "rationale": "System UI terms must not be wrapped in square brackets under the binding Markdown rules.",
+      "replacement": "> **System**\n>\n> - **Main Quest: Cataclysm** has been generated!",
+      "severity": "minor",
+      "source": "- 메인 퀘스트, [격변]이 생성되었습니다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A change too vast to measure had, before I knew it, drawn close enough to take a step toward this world.",
+      "defect": "The draft makes the change merely close enough to begin taking a step, while the source says it has already come striding toward the world.",
+      "id": "F09",
+      "rationale": "성큼 다가와 있다는 describes forceful approach already in progress, which is the chapter’s central foreshadowing beat.",
+      "replacement": "A change too vast to measure had already come striding toward this world.",
+      "severity": "major",
+      "source": "그 크기를 가늠할 수 없을 만큼 거대한 변화가, 어느덧 이 세상을 향해 성큼 다가와 있다는 것을."
+    },
+    {
+      "confidence": 1.0,
+      "current": "[**Korean netizens: “Yamamoto must have been cleaning.” South Korea mocks Japan.**]",
+      "defect": "The draft changes the subject of the mockery from Korean netizens to South Korea as a country.",
+      "id": "F10",
+      "rationale": "한국 네티즌 is the explicit subject, and 일본 is the object of their ridicule.",
+      "replacement": "[**Korean netizens mock Japan: “Yamamoto must have been cleaning.”**]",
+      "severity": "critical",
+      "source": "[한국 네티즌, “야마모토는 청소 중이었을 거다.” 일본 조롱.]"
+    }
+  ],
+  "summary": "Several actionable findings, including altered subjects, weakened characterization, a distorted foreshadowing action, and System-panel formatting violations.",
+  "version": 1
+}
