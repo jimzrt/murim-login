@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 923
-- Next chapter: 924
-- Current block: 920–924 (4/5)
-- Latest translation: `translations/0923.md`
-- Latest summary: `summaries/beats/0923.md`
-- Safe profiles through: chapter 923
+- Last completed: 924
+- Next chapter: 925
+- Current block: 920–924 (5/5)
+- Latest translation: `translations/0924.md`
+- Latest summary: `summaries/beats/0924.md`
+- Safe profiles through: chapter 924
 
 ## Current Block
 
-- The Emperor explains that the Eastern Heaven Demon Lord poisoned and manipulated the former Emperor and imperial family, and that the fourth prince’s bloody restoration was an attempt to save the Great Nation after the court had been seized by traitors. He says he spared the Demon Lord years earlier because killing him would have plunged the country into civil war. After Jin Taekyung agrees that the explanation is enough, the Emperor moves to execute the Demon Lord.
-- Prince Shangshan stops the execution long enough to apologize to the Demon Lord for his grandfather’s actions. The Demon Lord reacts with a faint smile, and the Emperor’s blade pierces his throat.
+- The Eastern Heaven Demon Lord recounts how he spared Zhu Bao as a child because he recognized his own lonely past in him. Zhu Bao declares his dream of building an age of peace in which no one suffers the misfortunes they endured, and explains that the people who supported him—including Hong Jin, the Emperor, and Jin Taekyung’s companions—made their paths different. His compassion moves the Demon Lord to let go of his hatred and ask Jin Taekyung to listen to a final message. With the Emperor and Zhu Bao clearing the way, Taekyung prepares to execute him, promises that he should be born human again in his next life, and engulfs him in warm blue-white flames. The Demon Lord is revealed to be Wei Zhong.
 
 ## Open Questions
 
-- What enabled Jin Taekyung to return from his seemingly fatal injuries?
+- What did Wei Zhong tell Jin Taekyung through Sound Transmission?
 - Where is Ma Sanbao, and what is his current status?
 - What does the Martial God’s reference to a chosen one mean for Jin Taekyung, and what story has So Gyo kept to herself?
 - Will the Salcheonmun pursue Mungyeong or discover that Jin Taekyung killed Gye Yabu?
+- What enabled Jin Taekyung to return from his seemingly fatal injuries?
 
 ## Exceptional Decision
 

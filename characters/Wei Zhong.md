@@ -1,6 +1,6 @@
 # Wei Zhong (위충)
 
-- **Safe through:** Chapter 901
+- **Safe through:** Chapter 924
 - **Aliases:** None
 - **Role:** Wei Zhong, addressed as Cang Gong, is the East Depot’s Seal-Holding Eunuch and has recovered enough from a prolonged illness to move about.
 - **Personality:** Politically perceptive and self-possessed, he uses courteous remarks and veiled barbs to challenge the Emperor.
