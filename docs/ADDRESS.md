@@ -1303,3 +1303,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 파비안 | 척 헤이글 | former comrades-in-arms turned enemies | Chuck Hagel | strained, confrontational | Fabian identifies Chuck when they face one another. |
 | 진태경 | 미카엘 실베르트 | Opponents | you | Informal speech | Taekyung addresses Michael with 너 and hostile insults. |
 | 미카엘 실베르트 | 진태경 | Opponents | you | Polite familiar speech | Michael addresses Taekyung as 자네. |
+| 최민우 | 존슨 | allied Hunter to allied Grand Mage | Mr. Johnson | formal-polite | Minwoo calls out to Johnson during the battle. |
+| 스톤 킹 | 미카엘 | newcomer confronting defeated enemy | you | blunt and contemptuous | Stone King corrects Michael and calls him a hideous monster. |

@@ -1,20 +1,19 @@
 # Translation State
 
-- Last completed: 784
-- Next chapter: 785
-- Current block: 780–784 (5/5)
-- Latest translation: `translations/0784.md`
-- Latest summary: `summaries/beats/0784.md`
-- Safe profiles through: chapter 784
+- Last completed: 785
+- Next chapter: 786
+- Current block: 785–789 (1/5)
+- Latest translation: `translations/0785.md`
+- Latest summary: `summaries/beats/0785.md`
+- Safe profiles through: chapter 785
 
 ## Current Block
 
-- Jin Taekyung turns on the former S-rank Hunters who continue fighting for their own interests after the truth about them has been exposed. He kills Fernando Lucas and two other Hunters while Michael Silbert, badly wounded, uses the time bought by his allies’ resistance to transform into a dragon-like monster. The battle pauses as Michael and Jin face each other, then Michael’s darkness collides with the blue-white flames from Jin’s spear, ending in a blinding flash.
+- As Jin Taekyung and Michael Silbert's clash threatens to devastate the National Assembly and the surrounding city, Magic Johnson casts Absolute Shield over the area. When the light fades, Michael is on his knees: his transformation has vanished, his magical power is spent, and his regeneration is gone. Jin, severely injured but standing with White Flame, approaches him while the battle against Michael's traitors turns in the Hunters' favor. Just as Jin demands an answer from the dying Michael, a horn pierces the palm of someone behind him. The newcomer identifies himself as Stone King.
 
 ## Open Questions
 
-- What was the outcome of the clash between Jin Taekyung and Michael Silbert?
-- What is the full extent and nature of Michael Silbert’s transformation?
+- Will Michael die, and what will Stone King do?
 
 ## Exceptional Decision
 
