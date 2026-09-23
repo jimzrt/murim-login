@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled copy contains a few source-fidelity defects: one changes the Jin family’s status, one weakens the stated meaning of chivalry, and one adds a physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 33–35",
+      "current": "The Jin Family of Taiyuan had roots deep and strong enough to earn its place among the great families.",
+      "defect": "The Korean says the family’s roots were deep and firm enough for it to be called a prestigious family. “Earn its place among the great families” instead implies membership in the distinct group of great families.",
+      "replacement": "The Jin Family of Taiyuan had roots deep and strong enough to be called an illustrious family.",
+      "rationale": "명문가 means a prestigious or illustrious family here; it does not establish that the Jin Family belonged to the category of great families.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 163",
+      "current": "Facing the fear of death and helping another in need. That is chivalry.",
+      "defect": "“Facing” the fear weakens the source’s claim that chivalry means overcoming it.",
+      "replacement": "Overcoming the fear of death and helping another in need. That is chivalry.",
+      "rationale": "The Korean says 죽음에 대한 두려움을 이기고—overcoming the fear of death—before helping someone in trouble.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 105",
+      "current": "Cheongpung stared at him with wide, clear eyes before answering hesitantly.",
+      "defect": "“Wide” adds an eye expression not present in the source, which describes Cheongpung gazing blankly with clear eyes.",
+      "replacement": "Cheongpung gazed blankly at Mae Jonghak with clear eyes before answering hesitantly.",
+      "rationale": "The Korean says 맑은 눈동자로 멍하니 바라보던: he looked blankly with clear eyes; it does not say his eyes were wide.",
+      "confidence": 0.94
+    }
+  ]
+}

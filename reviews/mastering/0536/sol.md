@@ -34,7 +34,7 @@ The Jin Family of Taiyuan had roots deep and strong enough to earn its place amo
 
 “Two years ago, in winter, you personally cut down Blade of Flowers Jin Baekyang, your own blood relative and the family’s Head Elder. Chief of the Hidden Shadow Pavilion, why was that?”
 
-The leader of the Hidden Shadow Pavilion, Thousand-Faced Fox Song Ho, who had been standing silently at attention, opened his mouth with a stiff expression.
+Thousand-Faced Fox Song Ho, who had been standing quietly at attention, answered with a grave expression.
 
 “Because he was a traitor. He had long been acting on Dark Heaven’s orders. He betrayed not only the Jin Family of Taiyuan, but all of Murim.”
 
@@ -112,9 +112,9 @@ That was right. He’d said the same thing when we fought the Blood Lord.
 
 Cut and torn, bleeding heavily and writhing in pain, Cheongpung had refused to retreat. He’d known he was no match for the Blood Lord, but he kept charging at him.
 
-*What the hell? Why are you acting like you’re so desperate to die first?*
+*What the hell is wrong with you? Why are you all so desperate to die before me?*
 
-And when the Blood Lord had asked him that with confusion and anger, Cheongpung had answered with a clear smile.
+The Blood Lord had demanded an answer, furious and bewildered. Cheongpung had smiled brightly at him.
 
 *If I retreat… I think I’ll regret it for the rest of my life.*
 
@@ -124,7 +124,7 @@ Maybe I’d been more afraid of living alone with that regret than I was of dyin
 
 “Regret. Regret…”
 
-Mae Jonghak muttered quietly, then turned his gaze toward me.
+Mae Jonghak turned back to me.
 
 “And you?”
 
@@ -132,7 +132,7 @@ Mae Jonghak muttered quietly, then turned his gaze toward me.
 
 My answer hadn’t changed since I first started working as a Hunter.
 
-I gave a short, quiet laugh and answered.
+I let out a short laugh.
 
 “Death is always scary. I’m afraid of dying.”
 
@@ -170,7 +170,7 @@ But the world has another name for someone who feels that fear, refuses to yield
 
 Someone’s murmur rang strangely loud in the silence.
 
-That was when a graying middle-aged man with a faint smile opened his mouth.
+A graying middle-aged man smiled faintly.
 
 “A knight-errant. Now there’s a word I like.”
 
@@ -178,7 +178,7 @@ His hands were strangely large and thick for a man of his modest build. Only the
 
 *Fist King Yan Hwapyeong.*
 
-The last descendant of the Jinzhou Yan Family, which had been utterly ruined by power struggles between orthodox factions.
+He was the last descendant of the Jinzhou Yan Family, brought to ruin by power struggles among the orthodox factions long before he was born. That was ancient history now.
 
 He had turned his back on the world and lived atop an unnamed mountain. But when news reached him that a hundred thousand demonic soldiers had invaded the Central Plains, he joined the Murim Alliance without hesitation.
 
@@ -216,7 +216,7 @@ Our eyes met. The corner of his wrinkled mouth lifted slightly, and he spoke.
 
 The unexpected announcement drew every eye to him. Mae Jonghak gave a small nod, and Tang Sadok continued in his hissing voice.
 
-“Being a pavilion master of the Murim Alliance is a position of tremendous weight and responsibility. I believe it requires not only outstanding martial arts, but also the experience to match. It would be unreasonable to entrust it to young people who are not even thirty, let alone forty.”
+“A pavilion master of the Murim Alliance bears a heavy responsibility. Outstanding martial arts alone are not enough; the position requires experience to match. Entrusting it to young men who have yet to reach thirty, let alone forty, would be unreasonable.”
 
 A stir ran through the room. Several expressions shifted. Joy crossed some faces, displeasure others.
 
@@ -230,9 +230,9 @@ Tang Sadok’s next words confirmed my suspicion.
 
 Voices of agreement rose around the room.
 
-They belonged to the heads of sects and families who had crossed paths with me personally throughout the Murim, or through Jeok Cheongang or the Jin Family of Taiyuan.
+Some belonged to the heads of sects and families I’d encountered in my travels, whether personally or through Jeok Cheongang or the Jin Family of Taiyuan. Others nodded as though it were obvious, despite having no connection to me at all.
 
-Encouraged by this response, Myriad-Poison Asura Tang Sadok continued in a clear voice.
+With their support, Tang Sadok went on, his voice clear.
 
 “If these two take on important positions within the Murim Alliance, who would dare question their qualifications—or object to the Alliance Leader’s command?”
 
@@ -270,7 +270,7 @@ Neither Cheongpung nor I took long to decide. Our eyes met, and we answered as o
 
 “We do.”
 
-“Then I hereby formally decree this. From this moment onward, the two of you shall belong to the Two Dragons Pavilion, directly under the Alliance Leader’s Office and answerable only to the Alliance Leader’s commands. Each of you shall become a pavilion master, with the authority to select the personnel you require…”
+“Then I formally appoint you. From this moment onward, you shall belong to the Two Dragons Pavilion, directly under the Alliance Leader’s Office and answerable only to the Alliance Leader. Each of you shall serve as a pavilion master, with the authority to select the personnel you require…”
 
 I couldn’t make out what came next. No—I couldn’t hear it properly.
 
