@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Around the round table at its center, more than a dozen figures waited for him, appearing amid the green glow unique to holograms.",
+      "defect": "십여 명 means approximately or slightly more than ten people, not more than twelve; the draft changes the stated quantity.",
+      "id": "F01",
+      "rationale": "The replacement preserves the source quantity without inflating the group beyond a dozen.",
+      "replacement": "At the round table in its center, over ten figures waited for him, appearing amid the green glow unique to holograms.",
+      "severity": "critical",
+      "source": "그 중심에 자리한 원탁(圓卓)에는, 홀로그램 특유의 초록색 빛무리와 함께 나타난 십여 명의 인물들이 그를 기다리고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "—Damn it. Thirty years ago was the Great Cataclysm. I don’t even want to remember how hard we had it back then, so let’s stop.",
+      "defect": "“How hard we had it” sanitizes the strongly colloquial 개고생 and “let’s stop” weakens the speaker’s blunt command.",
+      "id": "F02",
+      "rationale": "개고생 conveys severe, crudely expressed hardship, while 그만둬 is a direct command to stop the topic.",
+      "replacement": "—Damn it. Thirty years ago was the Great Cataclysm. I don’t even want to remember the hell we went through, so drop it.",
+      "severity": "major",
+      "source": "- 빌어먹을. 30년 전이라면 대격변 때잖아. 개고생하던 기억은 떠올리기도 싫으니까 그만둬."
+    },
+    {
+      "confidence": 0.99,
+      "current": "There was not a single person attending the meeting who could not be called a major figure. Yet none of them dared approach the middle-aged man.",
+      "defect": "“Dared approach” reads as physical proximity, whereas 범접할 수 없었다 means that none of these powerful people could rival, challenge, or stand on equal footing with him.",
+      "id": "F03",
+      "rationale": "The source contrasts the attendees’ status with Michael’s overwhelming superiority rather than describing their willingness to move near him.",
+      "replacement": "Every person attending the meeting was a major figure, yet none of them could hope to rival the middle-aged man.",
+      "severity": "major",
+      "source": "당장 이 회의에 참석한 인원 중 거물(巨物)이라 불리지 않는 사람은 누구도 없었지만, 중년인에게는 감히 범접할 수 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I sent Huginn, and they still did not understand what they were told. It is unbelievably reckless… but that also means they must be confident in themselves.”",
+      "defect": "말귀를 알아듣지 못하다 here means that they refused to listen or take the warning, not that they literally failed to understand it.",
+      "id": "F04",
+      "rationale": "The context establishes that Huginn delivered an ultimatum which Jin and Choi rejected; the source disparages their refusal to heed it.",
+      "replacement": "“I sent Huginn, but they still refused to listen. Unbelievably reckless… though I suppose that means they’re just that confident.”",
+      "severity": "major",
+      "source": "“후긴을 보냈는데도 말귀를 알아듣지 못하더군. 믿을 수 없이 무모하지만…… 그만큼 자신이 있다는 뜻이겠지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "—If—just hypothetically—what they believe in is Sky…",
+      "defect": "“What they believe in” is unnatural and suggests faith or ideology, while 저들이 믿는 것이 refers to Sky as the person they are relying on.",
+      "id": "F05",
+      "rationale": "The concern is that Jin and Choi may be relying on Cheon Taemin’s intervention or power.",
+      "replacement": "—If—just hypothetically—the one they’re counting on is Sky…",
+      "severity": "major",
+      "source": "- 만약, 정말 만약에 저들이 믿는 것이 스카이(Sky)라면."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No one knew who provided it or what methods he used to obtain it, but as long as they trusted and followed the information he brought them, they gained everything they wanted.",
+      "defect": "“Gained everything they wanted” materially overstates 이익을 얻을 수 있었다, which only says they could profit or benefit.",
+      "id": "F06",
+      "rationale": "The following fragments specify the kinds of benefits involved—wealth, fame, and status—without claiming that every desire was fulfilled.",
+      "replacement": "No one knew who provided it or what methods he used to obtain it, but as long as they trusted and acted on the information he brought them, they profited.",
+      "severity": "major",
+      "source": "누구를 통해 그런 정보를 얻는지, 어떤 방식을 이용했는지는 아무도 몰랐지만 그가 가져온 정보를 믿고 따르기만 한다면 이익을 얻을 수 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "There had certainly been a time when that was true.",
+      "defect": "The draft makes “that” point back to the claim that Jin could not break through their wall, reversing the source’s transition into an era when extraordinary upheaval and otherwise impossible actions were possible.",
+      "id": "F07",
+      "rationale": "The following description of the Great Cataclysm explains that the turbulent era once allowed an individual to overcome established barriers and overturn the existing order.",
+      "replacement": "There had certainly been a time when such a thing was possible.",
+      "severity": "critical",
+      "source": "분명 그럴 수 있던 시절도 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "—Exactly. In the end, even the media did not dare criticize us. Above all, it was thanks to our Guild Master Michael acting so quickly.",
+      "defect": "The draft invents the possessive “our” and replaces the deferential title 오딘 길드장님 with the awkward third-person form “Guild Master Michael,” weakening the speaker’s direct respect toward Michael.",
+      "id": "F08",
+      "rationale": "The speaker is addressing Michael directly and credits him through a deferential title rather than identifying him by name.",
+      "replacement": "—Exactly. In the end, even the media did not dare criticize us. Above all, it was thanks to your swift action, Guild Master.",
+      "severity": "major",
+      "source": "- 맞습니다. 결과적으로는 언론도 감히 우리를 비난하지 못했고, 무엇보다 오딘 길드장님께서 발 빠르게 나서 주신 덕분이지요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Yes. When they heard why I had come, they volunteered to cooperate. Unlike the treatment we received in Korea, everyone was very kind to us.”",
+      "defect": "The draft changes Huginn’s singular experience into a shared one by adding “we” and “us,” even though he says 제가 and contrasts how the new collaborators treated him with the reception he personally received in Korea.",
+      "id": "F09",
+      "rationale": "The source centers Huginn as the visitor and recipient of both the Korean rejection and the collaborators’ kindness.",
+      "replacement": "“Yes. When they heard why I had come, they volunteered to cooperate. Unlike the reception I received in Korea, they were all very kind to me.”",
+      "severity": "critical",
+      "source": "“예, 제가 찾아온 이유를 듣더니 자발적으로 협력하겠다며 나서더군요. 한국에서 받은 대접과는 달리 모두가 친절하게 대해 줬습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“They were delivered without fail.”",
+      "defect": "“Delivered” implies that the gifts have already reached their targets, contradicting the subsequent statement that the first gift will be delivered in an hour. 전달 here is the handoff to those who will carry out the attacks, distinct from the later 배달.",
+      "id": "F10",
+      "rationale": "The replacement preserves the two-stage mechanism: Huginn has passed the gifts to the collaborators, and the first will reach its target an hour later.",
+      "replacement": "“I handed them over without fail.”",
+      "severity": "major",
+      "source": "“틀림없이 전달했습니다.”"
+    }
+  ],
+  "summary": "Two critical factual changes and several meaningful losses of register, hierarchy, agency, and delivery mechanics require correction.",
+  "version": 1
+}

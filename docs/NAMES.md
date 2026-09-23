@@ -2171,3 +2171,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 메이산 | **Meishan** | City in Sichuan Province. |
 | 쯔양 | **Ziyang** | City in Sichuan Province. |
 | 쑤이닝 | **Suining** | City in Sichuan Province. |
+| 미카엘 | **Michael** | Guild Master of Odin Guild. |
+| 파리 | **Paris** | The city containing Ares Guild's branch attacked at the chapter's end. |
