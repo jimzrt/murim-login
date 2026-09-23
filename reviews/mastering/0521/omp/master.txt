@@ -18,7 +18,7 @@ They didn’t say it aloud, but their faces did.
 
 The last person there, Jeok Cheongang, looked astonishingly calm when he spoke.
 
-“An ordinary person would be unable to continue speaking at a moment like this. But this old man is different. I have met an awful lot of crazy bastards lately.”
+“An ordinary man would be at a loss for words right now. But this old man is different. I’ve met plenty of lunatics lately.”
 
 The moment our eyes met, I turned around.
 
@@ -52,7 +52,7 @@ I’d come dead last a few times in school, but this was my first time coming fi
 
 *Jeok Cheongang, of all people, calling me a lunatic. And I ranked above Cheongpung.*
 
-The psychological damage made my vision swim. I stared at Jeok Cheongang and opened my mouth.
+The psychological damage made my vision swim. I stared steadily at Jeok Cheongang.
 
 “There’s this guy I know, Tess hyung. He once said, ‘Know thyself.’”
 
@@ -66,7 +66,7 @@ His half-raised fist stopped. Sensing the stares gathering around us, Jeok Cheon
 
 “In any case, I’ll give you a straight answer. No.”
 
-“Ho. Why?”
+“Ho. Why not?”
 
 “Too much trouble.”
 
@@ -78,13 +78,13 @@ What an answer. You’d think he might at least be tempted, but he’d turned do
 
 That was even better.
 
-*Please don’t agree with him. Can’t you see people slowly gathering around us?*
+*Please don’t agree with him. Can’t you see people gathering around us?*
 
 *We’re screwed.*
 
 A dreadful thought crept up on me: if this conversation spread, the group project—the Murim Alliance—might fall apart.
 
-Unfortunately, the two masterpieces facing each other were both shamelessly manly men who did not care about such things.
+Unfortunately, the two men facing each other didn’t care about any of that.
 
 “A title like that doesn’t suit me, and I don’t like dealing with people.”
 
@@ -116,7 +116,7 @@ The words were brief, but they carried weight. Jeok Cheongang gazed at Mae Jongh
 
 Mae Jonghak’s eyes widened.
 
-“Yesterday? What are you talking about? That happened at least several decades ago.”
+“Yesterday? What are you talking about? That was decades ago.”
 
 “…”
 
@@ -132,9 +132,9 @@ All trace of laughter vanished from Jeok Cheongang’s face.
 
 “…You really haven’t changed. I can feel my insides rotting.”
 
-“Are you still unwell? I heard you had recovered fully from the poisoning.”
+“Are you still unwell? I heard you’d recovered from the poisoning.”
 
-“Shut that mouth of yours. If you keep talking, I don’t know what this old man might do.”
+“Shut your mouth. If you keep talking, I can’t say what this old man might do.”
 
 “Come to think of it, Great Hero Jeok, you were the first person ever to say that to me. This is why I like you.”
 
@@ -236,11 +236,11 @@ The Thunderbolt Saber King, who’d been glancing at me for some time, muttered,
 
 “Pengdori?[^1] Sure, he’s a good starter Pokémon. Cute, too.”
 
-“What the hell are you talking about? Peng Dojin! Peng Dojin! The one who gave you a close fight at the Star-Array Grand Banquet!”
+“What the hell are you talking about? Peng Dojin! Peng Dojin—the one who fought you at the Star-Array Grand Banquet!”
 
 Jeok Cheongang, who’d been swaggering along like a back-alley thug, kindly supplied the details.
 
-“The one you beat like a dog for fifteen minutes until he surrendered. Was he thirty?”
+“The one you beat like a dog for fifteen minutes before he surrendered. Wasn’t he thirty?”
 
 “Oh, right. I remember now. By the end, he was using his saber as a cane.”
 
@@ -280,17 +280,17 @@ Tadadadak!
 
 “A letter from Jiangsu!”
 
-“What’s the Grade?”
+“What’s its grade?”
 
 “Earth Grade.”
 
-“Organize the related matters and relay them. Have So Pyeong, Hwangso, and Jang Il-pal submit their reports within half an hour.”
+“Organize the related matters and send them on. So Pyeong, Hwangso, Jang Il-pal—submit a report within half an hour.”
 
 Shff, shff, shff!
 
 People hurried around the pavilion. Bamboo slips and documents traveled through a bewildering network of cylinders running throughout the building.
 
-Thousand-Faced Fox Song Ho watched the entire chaotic scene carefully before opening his mouth.
+Song Ho watched the bustle for a moment, then spoke.
 
 “Hubei. Wudang. Heaven Grade.”
 
@@ -302,7 +302,7 @@ Whoosh! Thunk!
 
 A bamboo slip dropped through the cylinder beside us and unfurled.
 
-“This is why we summoned you here. It is an urgent report that arrived from the Wudang Sect of Hubei five days ago.”
+“This is why I brought you here. An urgent report arrived from the Wudang Sect in Hubei five days ago.”
 
 I didn’t hear a word he said.
 
@@ -312,6 +312,6 @@ I was staring at what was on the bamboo slip—not the writing, but the drawing.
 
 Something unidentifiable had been drawn in black ink.
 
-It was a monster unfamiliar to some, yet strangely familiar to others.
+To some, the monster would be unfamiliar. To others, it would look all too familiar.
 
 [^1]: Pengdori is the Korean name for Piplup, a penguin Pokémon that players can choose as a starter.

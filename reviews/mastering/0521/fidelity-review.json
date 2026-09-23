@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Tadadadak!",
+      "defect": "This is a romanization of the Korean sound effect rather than an English rendering of the rapid footsteps.",
+      "id": "F01",
+      "rationale": "The source uses 타다다닥 as a sound effect for quick, pattering movement; the assembled English leaves it untranslated.",
+      "replacement": "Tap-tap-tap-tap!",
+      "severity": "minor",
+      "source": "Line 307"
+    }
+  ],
+  "summary": "The chapter is faithful overall. One untranslated Korean sound effect remains in the English copy.",
+  "version": 1
+}
