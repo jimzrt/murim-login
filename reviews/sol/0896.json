@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Wei Zhong, Director of the East Depot.",
+      "defect": "The specific eunuch office is replaced with the generic title “Director.”",
+      "id": "F01",
+      "rationale": "掌印太監 identifies an eunuch who holds the seal, not simply a director.",
+      "replacement": "Wei Zhong, Seal-Holding Eunuch of the East Depot.",
+      "severity": "major",
+      "source": "동창장인태감(東廠掌印太監) 위충(魏忠)."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Of course, if he hadn’t been injured that badly, he might not have lived this long.",
+      "defect": "“Might not” weakens Ma Sanbao’s definite counterfactual about why Cang Gong survived.",
+      "id": "F02",
+      "rationale": "Ma states that without the severe injury, Cang Gong would not have survived until now; he immediately explains why the Emperor spared him.",
+      "replacement": "Of course, if he hadn’t been injured that badly, he wouldn’t still be alive.",
+      "severity": "major",
+      "source": "물론 그만한 부상을 입지 않았다면 지금까지 살아 계시지도 못했겠지만 말일세."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Nearly a hundred high-ranking officials sacrificed themselves to save His Highness Prince Shangshan. Not just them—their entire families.",
+      "defect": "“Sacrificed themselves” assigns the officials a voluntary choice the source does not establish.",
+      "id": "F03",
+      "rationale": "The Korean uses a passive construction and includes the officials’ families among those sacrificed.",
+      "replacement": "Nearly a hundred high-ranking officials were sacrificed to save His Highness Prince Shangshan. Not just them—their entire families.",
+      "severity": "major",
+      "source": "상산왕 전하를 살리기 위해 일백에 달하는 중신(重臣)들이 희생되었지. 그들 자신은 물론 가문 전체가."
+    },
+    {
+      "confidence": 0.94,
+      "current": "we had to protect His Highness Prince Shangshan, our last hope, by whatever means we could. It was the only way.",
+      "defect": "“By whatever means we could” broadens a reference to the specific, terrible bargain into an unrestricted willingness to use any means.",
+      "id": "F04",
+      "rationale": "그렇게라도 points back to the sacrifice Ma has just described.",
+      "replacement": "we had to protect His Highness Prince Shangshan, our last hope, even at that cost. It was the only way.",
+      "severity": "major",
+      "source": "그렇게라도 우리의 마지막 희망인 상산왕 전하를 지켜야 했네. 그것만이 유일한 방법이었어."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Lord Cang Gong calmed the forces that had resisted the new Emperor and tried to fight him.",
+      "defect": "The draft says those forces had already resisted the Emperor, whereas they intended to fight him.",
+      "id": "F05",
+      "rationale": "맞서 싸우려 했던 describes an intended confrontation; calming that opposition bought the Emperor time.",
+      "replacement": "Lord Cang Gong calmed the opposition forces that had wanted to fight the new Emperor.",
+      "severity": "major",
+      "source": "창공 어른은 새로운 황제에 맞서 싸우려 했던 반발 세력을 진정시켰지."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Commanders guarding the capital and its outer borders.",
+      "defect": "“And” turns the source’s alternative postings into a combined responsibility.",
+      "id": "F06",
+      "rationale": "혹은 distinguishes commanders posted in the capital from those guarding borders outside it.",
+      "replacement": "Commanders guarding either the capital or the borders beyond it.",
+      "severity": "major",
+      "source": "황도, 혹은 황도 밖의 경계선을 지키는 지휘관들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Even His Highness the Crown Prince, who was so intelligent, and the other two princes, who were every bit as fit to be members of the imperial family, all wasted away and died. Just like someone you know.”",
+      "defect": "The draft omits the other members of the imperial family who also died.",
+      "id": "F07",
+      "rationale": "다른 황족들도 explicitly extends the deaths beyond the Crown Prince and two princes.",
+      "replacement": "“Even His Highness the Crown Prince, who was so intelligent, and the two princes, who were every bit as fit to be members of the imperial family, along with other members of the imperial family, all wasted away and died. Just like someone you know.”",
+      "severity": "major",
+      "source": "그토록 영민하시던 황태자 전하께서도, 황실의 일원으로서 부족함이 없던 두 황자님과 다른 황족들도 모두 시름시름 앓다 세상을 떴네."
+    },
+    {
+      "confidence": 0.91,
+      "current": "When the Emperor heard the rumors, he gave a sharp laugh.",
+      "defect": "“Sharp” loses the Emperor’s impatience.",
+      "id": "F08",
+      "rationale": "성마른 describes an impatient or short-tempered reaction.",
+      "replacement": "When the Emperor heard the rumors, he gave an impatient laugh.",
+      "severity": "minor",
+      "source": "그리고 그 소문을 들은 황제는 성마른 웃음을 지었다."
+    }
+  ],
+  "summary": "Several changes to the bargain’s terms and the political balance need correction, along with a few omissions.",
+  "version": 1
+}

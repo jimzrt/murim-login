@@ -2382,3 +2382,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 창공 | **Cang Gong** | The bedridden East Depot leader for whom Ma Sanbao acts. |
 | 독각귀살 | **One-Legged Ghost Killer** | Sama Pyo's name for the feared assassin; possibly the same person Namho calls 독각살귀. |
 | 독각살귀 | **One-Legged Ghost Killer** | Namho's name for the feared assassin; possibly the same person Sama Pyo calls 독각귀살. |
+| 위충 | **Wei Zhong** | The pledge’s first signer and the personal name of Lord Cang Gong. |

@@ -1,24 +1,26 @@
 # Translation State
 
-- Last completed: 895
-- Next chapter: 896
-- Current block: 895–899 (1/5)
-- Latest translation: `translations/0895.md`
-- Latest summary: `summaries/beats/0895.md`
-- Safe profiles through: chapter 895
+- Last completed: 896
+- Next chapter: 897
+- Current block: 895–899 (2/5)
+- Latest translation: `translations/0896.md`
+- Latest summary: `summaries/beats/0896.md`
+- Safe profiles through: chapter 896
 
 ## Current Block
 
-- Ma Sanbao explains that So Gyo first appeared during the coup more than ten years ago and, fighting alongside Baek Yeon, overwhelmed Cang Gong, leaving him gravely injured; Sanbao says her intervention made the coup succeed. He reveals that he chose Jin Taekyung and Jeok Cheongang as discreet allies because they would help Prince Shangshan and could oppose So Gyo, while formal Murim Alliance involvement would expose the restoration army and risk political fallout. Sanbao asks Jin to join the effort to restore order and place Prince Shangshan on the throne. Jin asks whether Sanbao still has the joint pledge he showed him, and Sanbao smiles at the implication.
+- Ma Sanbao explains the decade-long standoff between the Emperor and the restoration faction, including the bargain that saved Prince Shangshan at the cost of nearly a hundred officials and their families. Jin Taekyung signs the pledge alone, then gives Ma a cipher to send for Murim Alliance reinforcements for the coming banquet, insisting the coup must succeed. Two days after a devastating flood, ominous rumors reach the palace, and the Emperor says the time has come.
 
 ## Open Questions
 
-- Who is So Gyo, and what are her true aims and allegiance?
-- How much of her strength did So Gyo use during the coup and in her later encounters with Jin?
+- Who is the cipher’s intended recipient, and what information does it contain?
+- Will the expected Murim Alliance reinforcements arrive for the banquet, and who will be among them?
+- Are Ma’s suspicions about the Emperor, Baek Yeon, and So Gyo’s ties to Dark Heaven correct?
 
 ## Exceptional Decision
 
-- None.
+- Use “Twelve Palaces of the Zodiac” for 黃道十二宮.
+- Use “Seal-Holding Eunuch of the East Depot” for 東廠掌印太監.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
