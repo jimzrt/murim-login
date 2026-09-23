@@ -2283,3 +2283,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 블라디미르 푸린 | **Vladimir Furin** | President for life of Russia. |
 | 중화인민국 | **Zhonghua People's Republic** | Country represented by Chairman Xiao Yang. |
 | 사우디아라비아 | **Saudi Arabia** | Country whose representative supports reestablishing the Federation. |
+| 임마누엘 | **Emmanuel** | The President of France who congratulates Michael Silbert directly. |

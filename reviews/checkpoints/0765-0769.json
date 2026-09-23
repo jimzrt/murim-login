@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "There must also have been a close connection between the reason he had been able to carry out the second terrorist attack so boldly and the International Hunter Federation.",
+      "defect": "The central organization is called the World Hunter Federation throughout the packet and in the binding terminology decisions; no separate International Hunter Federation is established here.",
+      "id": "C01",
+      "rationale": "The following sentence explicitly connects the attack’s damage to the reestablishment of the Federation, confirming that this refers to the World Hunter Federation.",
+      "replacement": "There must also have been a close connection between the reason he had been able to carry out the second terrorist attack so boldly and the World Hunter Federation.",
+      "severity": "major",
+      "source": "Chapter 767, analysis of Michael Silbert’s objective"
+    },
+    {
+      "confidence": 1.0,
+      "current": "And during this UN General Assembly, five of the greatest powers in the world—all permanent members of the Security Council—had joined forces to oppose the reestablishment of the World Hunter Federation.",
+      "defect": "The number contradicts Chapter 768, where the United Kingdom remains neutral, France supports reestablishment, and only Korea, the United States, Russia, and China oppose it.",
+      "id": "C02",
+      "rationale": "Chapter 768 explicitly identifies six permanent members and leaves exactly four in the opposition camp after excluding neutral Britain and supporting France.",
+      "replacement": "And during this UN General Assembly, four of the greatest powers in the world—all permanent members of the Security Council—had joined forces to oppose the reestablishment of the World Hunter Federation.",
+      "severity": "major",
+      "source": "Chapter 769, Jin Taekyung’s assessment of the UN vote"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Jin Taekyung, Team Leader Choi, and the Skeleton King found no actionable evidence after three days investigating Siegfried Wassman's materials and Michael Silbert's history.",
+      "defect": "The active-state entry omits Magic Johnson, even though the summary includes him and Chapter 769 says he was responsible for examining the material from Siegfried Wassman’s hideout.",
+      "id": "C03",
+      "rationale": "Including Magic Johnson preserves the established composition of the investigating group and his specific role in reviewing the recovered material.",
+      "replacement": "Jin Taekyung, Team Leader Choi, Magic Johnson, and the Skeleton King found no actionable evidence after three days investigating Siegfried Wassman's materials and Michael Silbert's history.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.94,
+      "current": "It was an entirely different matter if that fire extinguisher turned out to be a flamethrower.",
+      "defect": "The demonstrative refers back to a fire hydrant, not a fire extinguisher, creating a distracting mixed metaphor.",
+      "id": "C04",
+      "rationale": "This preserves the intended contrast while aligning with the surrounding comparison of the Federation to firefighters and Michael Silbert to the person who started the fire.",
+      "replacement": "It was an entirely different matter if the firefighter turned out to be an arsonist.",
+      "severity": "minor",
+      "source": "Chapter 769, Jin Taekyung’s fire-response analogy"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Even the most clearheaded person in the world could not maintain their composure every moment of every day.",
+      "defect": "“Most clearheaded” is an awkward comparative collocation in otherwise contemporary narration.",
+      "id": "C05",
+      "rationale": "“Most levelheaded” is the natural contemporary expression and preserves the meaning and register.",
+      "replacement": "Even the most levelheaded person in the world could not maintain their composure every moment of every day.",
+      "severity": "minor",
+      "source": "Chapter 769, opening sentence"
+    }
+  ],
+  "summary": "The packet is coherent overall, but it contains two central-organization continuity errors, one omission from active state, and two minor prose issues.",
+  "version": 1
+}
