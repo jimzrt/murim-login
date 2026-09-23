@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "Do you know what it’s like to have the top of your head stepped on after using the Cloud-Dragon Eight Forms?",
+      "defect": "The wording makes the head-stomping merely subsequent to using the technique, losing the source’s emphasis that it happened despite him performing it.",
+      "id": "F02",
+      "rationale": "펼치고도 marks a concessive contrast: even after performing the Cloud-Dragon Eight Forms, he had the top of his head stepped on.",
+      "replacement": "Do you know what it’s like to have the top of your head stepped on even after using the Cloud-Dragon Eight Forms?",
+      "severity": "minor",
+      "source": "Chapter 529, line 195"
+    }
+  ],
+  "summary": "The translation is largely faithful, but one line reverses who takes the credit, and another loses the source’s concessive emphasis.",
+  "version": 1
+}

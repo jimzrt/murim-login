@@ -18,7 +18,7 @@ No—if it had been him, she might have known him by his shadow alone.
 
 Hwaran sighed softly and looked down at the first floor once more, reluctant to look away. Staring wouldn’t change anything, yet she couldn’t quite give up.
 
-The men seated with her cleared their throats at the sight.
+The men seated with her cleared their throats.
 
 “Ahem.”
 
@@ -32,7 +32,7 @@ Three men sat across the table from her. Two of them exchanged a glance—but th
 
 The question came from Baek Woo, the Kunlun Cloud Dragon. Handsome, clear-skinned, and dressed in spotless white, he was widely acknowledged as the Kunlun Sect’s finest young prodigy and was one of the Ten Dragons and Phoenixes.
 
-At his Sound Transmission, the beautiful young man with a sharp nose slightly furrowed his brow.
+The handsome young man with the sharp nose furrowed his brow slightly.
 
 —No idea.
 
@@ -40,7 +40,7 @@ At his Sound Transmission, the beautiful young man with a sharp nose slightly fu
 
 —Drop it.
 
-Hwangbo Ak, the beautiful young man who had coldly cut him off, was the Lesser Family Head of the Hwangbo Family and another member of the Ten Dragons and Phoenixes.
+The young man who had cut him off so coldly was Hwangbo Ak, Lesser Family Head of the Hwangbo Family, the Shandong Fist Dragon, and another of the Ten Dragons and Phoenixes.
 
 He was in a foul mood.
 
@@ -70,7 +70,7 @@ Hwangbo Ak gazed at Hwaran as though entranced. Every small movement she made, e
 
 But then…
 
-“Phew.”
+“Haa.”
 
 Hwaran sighed again, and his brow tightened.
 
@@ -88,7 +88,7 @@ The details of what had happened between the Yongbong Escort Bureau and the Zhon
 
 *Impossible.*
 
-It was something that could not and should not have happened. Hwangbo Ak had dismissed it as a ridiculous rumor and clicked his tongue.
+It couldn’t have happened. It *shouldn’t* have happened. Hwangbo Ak had dismissed the story as an absurd rumor.
 
 More troubling, though, was his suspicion that the incident had left Hwaran with feelings for Jin Taekyung.
 
@@ -98,7 +98,7 @@ Baek Woo perked up at the sudden Sound Transmission.
 
 —Hm?
 
-—I asked whether what you said earlier was certain. The Blazing Flame Divine Dragon, Jin Taekyung. Is the person Young Lady Ju is waiting for really that bastard?
+—I asked if you’re sure about what you said. The Blazing Flame Divine Dragon, Jin Taekyung. Is he really the one Young Lady Ju is waiting for?
 
 —Do you think she’s waiting for the Successor Beggar?
 
@@ -110,21 +110,21 @@ Whatever peculiar tastes Hwaran might have, she couldn’t possibly like Gung Gi
 
 —So it really is that bastard? Are you saying this Young Master is less than a worm that crawled out of some backwater corner of Shanxi Province?
 
-—Not a worm. A Divine Dragon. And Shanxi Province is no longer a backwater corner. It is the hidden residence from which the dragon named Jin Taekyung rose, as well as the center of the trade routes running through northern Gaoyuan.
+—A Divine Dragon, not a worm. And Shanxi Province is no longer a backwater. It’s where the dragon Jin Taekyung rose from obscurity, and it’s the center of the trade routes through the northern plateau.
 
 Having lightly corrected him, Baek Woo continued.
 
 —Fellow Daoist Hwangbo, this isn’t the Jin Family of Taiyuan you used to know. Now that I think about it, I could tell the moment I met the Heaven Shaking Sword.
 
-—The Heaven Shaking Sword? Heaven Shaking Sword Jin Mukyung?
+—The Heaven Shaking Sword? Jin Mukyung?
 
 —Is there another Heaven Shaking Sword we both know?
 
 Hwangbo Ak’s eyebrows twitched.
 
-If Ju Hwaran, who kept sighing across the table, and that young escort who looked like he had crawled in from who knew where had not been watching him, he would have scowled long ago.
+If Hwaran hadn’t been sitting across from him, sighing over and over, and if that young escort who’d crawled in from who knew where hadn’t been watching, he would have scowled openly.
 
-—Don’t bring up that name. Do you think I’m asking because I don’t know who that bastard is?
+—Don’t bring up that name. Do you think I asked because I don’t know who he is?
 
 —Ah, that’s right. You and the Heaven Shaking Sword were at Heaven’s Gate Temple together—
 
@@ -148,11 +148,11 @@ Seeing the anger on Hwangbo Ak’s face, Baek Woo moved his lips cautiously.
 
 —What now?
 
-—You remember what you said to me. If the Blazing Flame Divine Dragon comes, don’t ever mention it out loud. No—don’t even move your lips.
+—What you said to me just now? If the Blazing Flame Divine Dragon comes, don’t say it out loud. Better yet, don’t open your mouth at all.
 
 —Hmph. Worried we might come to blows?
 
-—No, that’s not it. I’m worried I might get dragged into it too.
+—No. I’m worried I’ll get dragged into it.
 
 —…What?
 
@@ -162,15 +162,15 @@ Baek Woo regarded him with a look full of concern and pity.
 
 —…!
 
-—You were in closed-door training at your family’s estate during the Star-Array Grand Banquet, so you probably don’t know. But even now, whenever I think about that man, I feel—ugh. Anyway, keep that in mind. Understood?
+—You were in closed-door training at your family’s estate during the Star-Array Grand Banquet, so you wouldn’t know. But even now, just thinking about him makes me… Ugh. Anyway, remember what I said. Understood?
 
-What in the world was he talking about? Die alone?
+What the hell was that supposed to mean? *Die alone?*
 
-Hwangbo Ak remained silent for a moment, staring at Baek Woo in disbelief. Then he sent another Sound Transmission.
+Hwangbo Ak stared at him in disbelief for a moment before sending another Sound Transmission.
 
 —Are you… serious?
 
-—Infinite Life Buddha. I swear before the Primordial Heavenly Venerable that I’m completely serious.
+—Infinite Life Buddha. I swear before the Primordial Heavenly Venerable, I’m completely serious.
 
 —Have you no pride as a martial artist?
 
@@ -182,9 +182,9 @@ Hwangbo Ak remained silent for a moment, staring at Baek Woo in disbelief. Then 
 
 —W-What happened to the Kunlun Cloud Dragon, that proud, lofty crane? Where’s the Baek Woo I knew?
 
-Baek Woo gazed into the past with a nostalgic look in his eyes.
+Baek Woo looked into the distance, his eyes full of nostalgia.
 
-—Come to think of it, the Successor Beggar said something similar to me back then. Then, in the very next test, he was beaten like a dog by Jin Taekyung. You heard what happened, didn’t you? Gung Gibang fell behind in movement technique, his eyes rolled back, and he tried to grab Jin Taekyung by the hair. He nearly got his head knocked off.
+—Come to think of it, the Successor Beggar said something similar to me back then. In the very next test, Jin Taekyung beat him like a dog. You heard about that, didn’t you? Gung Gibang fell behind in movement technique, lost his head, and tried to grab Taekyung by the hair. He nearly got his own head knocked off.
 
 —…!
 
@@ -204,11 +204,11 @@ At last, a sensible answer. Hwangbo Ak nodded with conviction.
 
 —Exactly. The Fire King Jeok Cheongang must have stepped in and handed his Disciple the credit.
 
-—I’m saying this again because I’m worried about you: don’t tell the Blazing Flame Divine Dragon that his master handed him the credit. I don’t want to be paired with you as a battle partner and have my face beaten in.
+—I’m telling you again because I’m worried: don’t say that in front of the Blazing Flame Divine Dragon. I don’t want to be lumped in with you and get my face beaten in.
 
 —…What are you playing at?
 
-—Infinite Life Buddha. It’s simple. Don’t try to reason it out with common sense. Don’t even try to understand it. Just accept it.
+—Infinite Life Buddha. It’s simple. Don’t judge him by common sense. Don’t try to understand him. Just accept it.
 
 For a moment, Baek Woo’s almost enlightened tone left Hwangbo Ak speechless. Then he tried another angle.
 
@@ -216,7 +216,7 @@ For a moment, Baek Woo’s almost enlightened tone left Hwangbo Ak speechless. T
 
 —Young Lady Ju? Of course I like her. What man wouldn’t?
 
-—That very Young Lady Ju has feelings for Jin Taekyung. And you still intend to protect your rival?
+—And she has feelings for Jin Taekyung. You’re still going to defend your rival?
 
 —My life matters more to me than Young Lady Ju. So does my hair.
 
@@ -230,13 +230,13 @@ A strangely bare patch showed between the neatly arranged strands at his crown.
 
 —What on earth happened to your—
 
-Hwangbo Ak could not finish his Sound Transmission. Baek Woo gave him a sorrowful smile.
+Hwangbo Ak couldn’t finish. Baek Woo gave him a mournful smile.
 
-—My hair stopped growing after my head was stepped on during the Star-Array Grand Banquet……
+—Ever since he stepped on my head at the Star-Array Grand Banquet, the hair there hasn’t grown back…
 
 —…!
 
-—Give up. Giving up makes life easier. But if you absolutely can’t give up, please do it when I’m not around. I’d like to live, too.
+—Give up. You’ll feel better. But if you absolutely can’t, please wait until I’m not around. I’d like to live.
 
 What kind of insane nonsense was this?
 
@@ -254,9 +254,9 @@ But if—if there wasn’t a shred of falsehood in them…
 
 Yes. An undeniable monster.
 
-And at the same time, an unbearable humiliation wrapped itself around Hwangbo Ak’s entire body.
+At the same time, unbearable humiliation swept through him.
 
-*What a damnable mess.*
+*Damn it all.*
 
 His fist tightened. A groan escaped through his parted teeth, and Hwaran, sensing that something was wrong, spoke.
 
@@ -266,7 +266,7 @@ His fist tightened. A groan escaped through his parted teeth, and Hwaran, sensin
 
 At his strained reply, the young escort who had done nothing but occupy a seat at their table gave a quiet laugh.
 
-“You look very much like something’s wrong.”
+“It certainly looks like nothing.”
 
 “…I said it’s nothing.”
 
@@ -280,7 +280,7 @@ A mutter slipped through his twisted lips.
 
 “This is the trouble with people who have no pedigree…”
 
-Ju Hwaran was not a fool. A cold chill passed over her beautiful face, which had been filled with troubled thoughts only a moment earlier.
+Hwaran was no fool. The troubled look on her face gave way to a cold one.
 
 “Young Hero Hwangbo.”
 
@@ -288,9 +288,9 @@ Ju Hwaran was not a fool. A cold chill passed over her beautiful face, which had
 
 Hwangbo Ak put on a false smile and pointed to a table some distance away.
 
-“I was talking about those bastards who practice demonic, heterodox arts over there.”
+“I meant those demonic, heterodox bastards over there.”
 
-And at the moment his voice, neither loud nor soft, rang through the inn—
+His voice carried through the inn, neither loud nor soft.
 
 Scrape.
 

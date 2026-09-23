@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but one line reverses who takes the credit, and another loses the source’s concessive emphasis.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Chapter 529, line 217",
+      "current": "His master, the Fire King, must have handled everything and given his Disciple the credit!",
+      "defect": "The Korean says the Fire King resolved everything and took the credit. This reverses the direction of credit in this line, which matters because Hwangbo Ak phrases his claim differently later.",
+      "replacement": "His master, the Fire King, must have handled everything and taken the credit!",
+      "rationale": "공을 가져간 것이 분명하지 means the Fire King clearly took the credit; line 223 instead says 공을 제자에게 돌린, giving the credit to the Disciple.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Chapter 529, line 195",
+      "current": "Do you know what it’s like to have the top of your head stepped on after using the Cloud-Dragon Eight Forms?",
+      "defect": "The wording makes the head-stomping merely subsequent to using the technique, losing the source’s emphasis that it happened despite him performing it.",
+      "replacement": "Do you know what it’s like to have the top of your head stepped on even after using the Cloud-Dragon Eight Forms?",
+      "rationale": "펼치고도 marks a concessive contrast: even after performing the Cloud-Dragon Eight Forms, he had the top of his head stepped on.",
+      "confidence": 0.95
+    }
+  ]
+}
