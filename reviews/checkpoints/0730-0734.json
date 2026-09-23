@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the Mana Cultivation Method that will be revealed to the world tomorrow",
+      "defect": "The future-tense wording contradicts the release that Jin completed moments earlier.",
+      "id": "C01",
+      "rationale": "This preserves the originally announced schedule while acknowledging that Jin has already published the method ahead of time.",
+      "replacement": "the Mana Cultivation Method that was supposed to be revealed to the world tomorrow",
+      "severity": "minor",
+      "source": "Chapter 732, after Huginn leaves the office"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Just as when they assassinated Wu Shaiming’s family this time",
+      "defect": "The sentence states as fact that Odin Guild assassinated the Wu family, contradicting the explicit uncertainty maintained in Chapter 733 and the checkpoint summary.",
+      "id": "C02",
+      "rationale": "The evidence only makes Odin Guild the most likely culprit; the responsible party has not been established.",
+      "replacement": "Just as with the suspected assassination of Wu Shaiming’s family this time",
+      "severity": "major",
+      "source": "Chapter 734, Team Leader Choi discussing Odin Guild's constraints"
+    },
+    {
+      "confidence": 1.0,
+      "current": "\"How did Odin Guild obtain or prepare its Mana Cultivation Method?\"",
+      "defect": "The active state drops two unresolved hooks carried by the packet: whether Odin ordered the Wu family's extermination and who stole Go Jun's necklace.",
+      "id": "C03",
+      "rationale": "Both mysteries remain unresolved and are explicitly identified as open questions in the checkpoint continuity summary.",
+      "replacement": "\"How did Odin Guild obtain or prepare its Mana Cultivation Method?\",\n      \"Did Odin Guild order the extermination of the Wu family?\",\n      \"Who stole Go Jun's necklace from secured evidence storage, and why?\"",
+      "severity": "major",
+      "source": "Durable state, open_questions after the final entry"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Wu Shaiming, Wu Heixing’s family, and more than fifty Wu relatives were killed simultaneously by apparent sudden cardiac arrest while imprisoned in Beijing.",
+      "defect": "The wording changes the reading copy's approximate quantity of 'some fifty' relatives into more than fifty relatives and redundantly separates Wu Heixing's family from the Wu relatives.",
+      "id": "C04",
+      "rationale": "This matches Chapter 733's stated quantity and family grouping without introducing greater numerical certainty.",
+      "replacement": "Wu Shaiming and some fifty of his relatives, including children, died simultaneously of apparent sudden cardiac arrest while imprisoned in Beijing.",
+      "severity": "minor",
+      "source": "Checkpoint Continuity, Wu-family casualty bullet"
+    }
+  ],
+  "summary": "The reading copies are largely consistent in voice, terminology, and formatting, but one timeline reference and one attribution overstate established facts. The durable state also drops two unresolved hooks, and its Wu-family casualty wording drifts from the reading copy.",
+  "version": 1
+}

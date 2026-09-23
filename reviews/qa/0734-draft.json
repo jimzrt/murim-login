@@ -1,0 +1,39 @@
+{
+  "chapter": 734,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.269,
+    "source_characters": 5625,
+    "source_paragraphs": 153,
+    "translation_characters": 12762,
+    "translation_paragraphs": 155
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마도",
+        "preferred": "Demonic Path"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

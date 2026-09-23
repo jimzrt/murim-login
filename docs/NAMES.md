@@ -2167,3 +2167,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 크로노스 길드 | **Chronos Guild** | A major Guild included among the world's Ten Great Guilds. |
 | 우 쉐이밍 | **Wu Shaiming** | Former Chinese premier, Crown Prince Party leader, and father of Wu Heixing. |
 | 우 헤이싱 | **Wu Heixing** | Deceased S-rank Hunter who learned the Wu family's Mana Cultivation Method. |
+| 샤오 양 주석 | **Chairman Xiao Yang** | Chinese leader who provided the unofficial Odin Guild proposal. |
+| 메이산 | **Meishan** | City in Sichuan Province. |
+| 쯔양 | **Ziyang** | City in Sichuan Province. |
+| 쑤이닝 | **Suining** | City in Sichuan Province. |
