@@ -2266,3 +2266,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 미노타우로스 로드 | **Minotaur Lord** | S-rank monster leading the Munich Monster Wave. |
 | 프리드리히 니체 | **Friedrich Nietzsche** | German philosopher cited in the discussion of the Übermensch. |
 | 위버맨쉬 | **Übermensch** | Nietzschean ideal of a superhuman overcomer. |
+| 위버 | **Über** | Name used when Jin addresses the Skeleton King. |
+| 마장동 창잡이 | **the Majang-dong Spearman** | Jin's self-introduced epithet. |
