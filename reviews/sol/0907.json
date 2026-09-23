@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "and the young prince, kneeling for some reason.",
+      "defect": "Calls the kneeling child a prince rather than a king.",
+      "id": "F01",
+      "rationale": "어린 왕 means “young king,” not “young prince.”",
+      "replacement": "and the young king, kneeling for some reason.",
+      "severity": "critical",
+      "source": "어째서인지 무릎을 꿇고 있는 어린 왕의 모습도 함께."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I’m sure you have questions, and there’s plenty I’d like to ask you, too. But I’d like to leave all that until after this is over.”",
+      "defect": "Assigns the things left to ask or say to Jeong, when Jeong is acknowledging what Taekyung wants to ask and say.",
+      "id": "F02",
+      "rationale": "Both 묻고 싶은 말 and 하고 싶은 말 refer to the person Jeong is addressing.",
+      "replacement": "“I’m sure you have plenty to ask me, and plenty you want to say. But I’d like you to save it until after this is over.”",
+      "severity": "major",
+      "source": "“묻고 싶은 말도, 하고 싶은 말도 많겠지. 하지만 그 일은 모든 것이 끝난 뒤로 미뤄 뒀으면 하오.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "But this wasn’t the time to worry about whether I could handle it.\n\nIf I used it, I’d have to swallow the consequences.\n\nI’d have to bear them myself.",
+      "defect": "Turns the bitter-or-sweet image into a calculation about whether using the Middle Dantian has manageable consequences.",
+      "id": "F03",
+      "rationale": "쓰고 달고 and 써도 삼켜야 한다 sustain the image of swallowing something bitter; they do not say that using the dantian will cause consequences.",
+      "replacement": "But now wasn’t the time to be picky about what was bitter and what was sweet.\n\nEven if it was bitter, I had to swallow it.\n\nI had to bear it myself.",
+      "severity": "major",
+      "source": "하지만 그럼에도 불구하고, 지금은 쓰고 달고를 가릴 때가 아니었다.\n\n써도 삼켜야 한다.\n\n스스로 감내해야 한다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“That guy watching from over there—is he on our side?”\n\nJeong Hogun flinched at the word “watching,” then nodded.",
+      "defect": "Flattens the pointed, voyeuristic joke to ordinary watching, leaving Jeong’s flinch unmotivated.",
+      "id": "F04",
+      "rationale": "관음 carries a voyeuristic meaning; Jeong reacts specifically to that choice of word.",
+      "replacement": "“That guy over there playing peeping Tom—is he on our side?”\n\nJeong Hogun flinched at “peeping Tom,” then nodded.",
+      "severity": "major",
+      "source": "“저기서 관음 중인 저 인간, 아군은 맞냐?”\n\n관음이라는 단어에서 움찔한 정호군이 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "A second rain of arrows came moments later, and dozens of crescent blades flashed toward them.",
+      "defect": "“Crescent blades” omits that the weapons are polearms.",
+      "id": "F05",
+      "rationale": "언월도 denotes a crescent-bladed polearm, not merely a blade of that shape.",
+      "replacement": "A second rain of arrows came moments later, and dozens of crescent-bladed polearms flashed toward them.",
+      "severity": "minor",
+      "source": "약간의 시간 차를 두고 들이닥친 두 번째 화살비를 향해 수십여 개의 언월도(偃月刀)가 번뜩였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "I immediately understood the meaning of those three words he’d taken care to add.",
+      "defect": "Counts the English phrase “at least” as three words.",
+      "id": "F06",
+      "rationale": "적어도 has three Korean syllables but translates here as two English words.",
+      "replacement": "I immediately understood why he’d gone out of his way to add that qualifier.",
+      "severity": "minor",
+      "source": "구태여 앞에 붙인 그 세 글자의 의미를, 나는 즉각 알아차렸다."
+    }
+  ],
+  "summary": "The draft preserves the battle’s main sequence, but changes one character’s title, shifts a speaker’s intended subject, and loses two meaningful cues.",
+  "version": 1
+}
