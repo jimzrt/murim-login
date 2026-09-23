@@ -54,7 +54,7 @@ Mae Jonghak caught the emotion that briefly crossed his face.
 
 “He can’t have gone far.”
 
-“Even though we already said our goodbyes, what would be the point of seeing him again? It would only make it harder to leave.”
+Jeok Cheongang answered with a bitter smile. “…We’ve already said goodbye. What good would it do to see him again? It would only make it harder to leave.”
 
 “Now that you mention it, I suppose you’re right.”
 
@@ -72,7 +72,7 @@ Mae Jonghak thought for a moment. “Maybe. Maybe not.”
 
 “…You call that an answer?”
 
-“Well, it was something I said. It just came out of my mouth.”
+“Well, I did answer. You heard me say it.”
 
 “Damn it. You’re driving me insane. Anyone could give me an answer like that!”
 
@@ -94,9 +94,9 @@ Jeok Cheongang’s voice softened. “Have you made preparations in case things 
 
 “…!”
 
-“Sending the Fire Dragon Pavilion to Nanman is the fastest and most reliable option. We don’t have enough time to raise an army right now.”
+“Sending the Fire Dragon Pavilion is our fastest and surest option. There isn’t time to raise an army and march it to Nanman.”
 
-The Murim Alliance was by no means smaller than it had been during the Great Faction War. If anything, it was larger. Shaolin Temple, the Sichuan Sect, and several other sects had suffered heavy losses, but not a single city in the Nine Provinces, still the territory of the orthodox faction, had fallen.
+The Murim Alliance was by no means smaller than it had been during the Great Faction War. If anything, it was larger. Shaolin Temple, the Sichuan Sect, and several other sects had suffered heavy losses, but not one province of the Nine Provinces, still the territory of the orthodox faction, had fallen.
 
 The problem was the time and supplies it would take to gather troops and send them to Nanman. The Fire Dragon Pavilion, led by Jin Taekyung, was one of the few cards the Murim Alliance could play with confidence.
 
@@ -104,7 +104,7 @@ The problem was the time and supplies it would take to gather troops and send th
 
 None of this eased Jeok Cheongang’s worry. As he silently glared at his cup, Mae Jonghak muttered almost too softly to hear.
 
-“There is one especially reliable source of support.”
+“There is one sure way to support them.”
 
 “Hm? What was that?”
 
@@ -152,9 +152,9 @@ The thought had barely crossed my mind when someone whispered in my ear.
 
 “…”
 
-*Hyuk Mujin, you insane bastard. You’re really doing this here?*
+*Hyuk Mujin, you insane bastard. Even here?*
 
-We needed to move as little as possible, which meant I could not even subdue him by force. I lowered my voice as much as I could and barked, “You lunatic. I told you to go before we left.”
+We had to move as little as possible, so I couldn’t even beat him into submission. I kept my voice low as I snapped, “You lunatic. I told you to go before we left.”
 
 “I’m nervous. That’s why. I’m nervous.”
 
@@ -182,7 +182,7 @@ I was so terrified I was about to spring up, disguise be damned, when—
 
 “We’ve passed through the center of Luoyang. We’re on an empty mountain road now, so you can come out for a moment.”
 
-“Gasp!”
+“Hah!”
 
 “Phew!”
 
@@ -208,7 +208,7 @@ Ju Hwaran noticed me staring and touched her face. “Ah, I have changed a littl
 
 A smile flickered in her beautiful dark-blue eyes.
 
-“That isn’t something a disguise mask can alter. If Captain Song hadn’t helped, it would have been difficult to obtain a mask this good on such short notice.”
+“A disguise mask can’t do anything about those. And without Captain Song, I couldn’t have found a mask this good on such short notice.”
 
 Song Ilseom, sitting on the driver’s bench, added flatly, “It was nothing. Just a little trick I learned to survive.”
 
@@ -256,7 +256,7 @@ Taishan’s size worried me, but Ju Hwaran had planned too carefully to overlook
 
 Hyuk Mujin poked his head out of the straw. “Are we going straight to Mount Daebyeol, then?”
 
-“Of course. We’ll change horses once along the way, but nothing will happen before then.”
+“Of course. We’ll change horses once along the way, but there shouldn’t be any trouble before that.”
 
 Ju Hwaran continued without pause. “If we keep moving, two shichen. With thorough inspections, it could take three. Once we meet the other two at Mount Daebyeol…”
 
@@ -286,7 +286,7 @@ How could I put it? I thought for a moment before going on.
 
 “Dreaming?”
 
-“Yes. I dream sometimes. I sleep so deeply I wouldn’t notice if someone carried me away.”
+“Yes. I dream sometimes. So deeply I wouldn’t notice if someone carried me away.”
 
 Ju Hwaran looked puzzled. Song Ilseom frowned as if I were talking nonsense. Leaving them to it, I burrowed deep into the straw piled in the carriage.
 
