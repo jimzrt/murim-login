@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "“How dare you call me a dictator!”",
+      "defect": "The subject is reversed. The Saudi speaker calls the Russian president a dictator; he does not accuse the Russian president of calling him one.",
+      "id": "F01",
+      "rationale": "이 독재자 refers directly to the Russian president as “this dictator,” preserving the insult that prompts Furin’s response.",
+      "replacement": "“How dare you, you dictator!”",
+      "severity": "critical",
+      "source": "이 독재자가 어딜 감히!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Goddammit… What’s your country’s GDP?”",
+      "defect": "The targeted, unfinished insult is changed into a general exclamation, softening both its profanity and its attack on the other speaker.",
+      "id": "F02",
+      "rationale": "이 개 같은 is an insult directed at the addressee and breaks off before its implied noun, which the replacement preserves without completing or sanitizing it.",
+      "replacement": "“You fucking… What’s your country’s GDP?”",
+      "severity": "major",
+      "source": "이 개 같은…… 당신네 나라 GDP 몇이야?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“A dictator? It’s hilarious hearing that from a man who calls himself a king.",
+      "defect": "“Calls himself a king” adds doubt about the Saudi speaker’s status that is absent from the source, which straightforwardly identifies him as a king.",
+      "id": "F03",
+      "rationale": "왕이라는 작자 means a man who is a king, not a self-proclaimed king.",
+      "replacement": "“A dictator? That’s rich coming from a king.",
+      "severity": "minor",
+      "source": "독재자? 왕이라는 작자가 그렇게 말하니 웃기는군."
+    },
+    {
+      "confidence": 0.99,
+      "current": "President Baek Hanseong hurriedly cut off Prime Minister Koizumi, who was about to dump something unpleasant into the conversation.",
+      "defect": "The explicit, crude image of Koizumi dumping shit over the proceedings is sanitized into the vague phrase “something unpleasant,” weakening Baek’s profane internal voice and the humor.",
+      "id": "F04",
+      "rationale": "똥을 끼얹다 literally invokes pouring or dumping shit over something; the source is deliberately cruder and more vivid than the draft.",
+      "replacement": "President Baek Hanseong hurriedly cut off Prime Minister Koizumi before he could dump shit all over the discussion.",
+      "severity": "major",
+      "source": "똥을 끼얹으려는 고이즈미 총리를 황급히 가로막은 백한성 대통령이 통역기가 부착된 마이크로 상체를 기울였다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "For President Baek Hanseong, who had a perfect three-for-three, undefeated record in brawls at Korea’s National Assembly, it was a strangely familiar sight.",
+      "defect": "“Strangely familiar” loses the affectionate, almost heartwarming irony of 정겨운: as an undefeated veteran of National Assembly brawls, Baek finds the spectacle endearing.",
+      "id": "F05",
+      "rationale": "정겨운 conveys warmth or fond familiarity rather than mere recognition, and that incongruity supplies the joke.",
+      "replacement": "For President Baek Hanseong, who held a perfect three-for-three record in the brawls that were a famous feature of Korea’s National Assembly, it was an oddly heartwarming sight.",
+      "severity": "minor",
+      "source": "대한민국의 명물인 국회의사당 난투극에서 3전 3승 무패의 전적을 보유한 백한성 대통령에게는 퍽 정겨운 광경이었지만,"
+    },
+    {
+      "confidence": 0.88,
+      "current": "“Fuck.”",
+      "defect": "The final line flattens the deliberately altered, comic pronunciation 씨벌 into the same ordinary profanity used earlier in the chapter.",
+      "id": "F06",
+      "rationale": "씨벌 is a colloquial deformation of 씨발; distinguishing it preserves the blunt punchline and its slurred comic register.",
+      "replacement": "“Fuuuck.”",
+      "severity": "minor",
+      "source": "“씨벌.”"
+    }
+  ],
+  "summary": "One critical subject reversal changes who is being called a dictator. The draft also softens two profane lines, alters the king’s status, and loses two intentional comic voice beats.",
+  "version": 1
+}

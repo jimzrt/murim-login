@@ -2280,3 +2280,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 독일 연방군 | **German Armed Forces** | Military personnel controlling the reporters at the Munich event. |
 | 명륜 진사 갈비 | **Myeongnyun Jinsa Galbi** | Korean all-you-can-eat pork-rib restaurant chain used in Jin's absurd comparison. |
 | 프란츠 마이어 | **Franz Meyer** | German reporter covering the Munich incident. |
+| 블라디미르 푸린 | **Vladimir Furin** | President for life of Russia. |
+| 중화인민국 | **Zhonghua People's Republic** | Country represented by Chairman Xiao Yang. |
+| 사우디아라비아 | **Saudi Arabia** | Country whose representative supports reestablishing the Federation. |

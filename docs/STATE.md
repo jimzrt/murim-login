@@ -1,31 +1,30 @@
 # Translation State
 
-- Last completed: 767
-- Next chapter: 768
-- Current block: 765–769 (3/5)
-- Latest translation: `translations/0767.md`
-- Latest summary: `summaries/beats/0767.md`
-- Safe profiles through: chapter 767
+- Last completed: 768
+- Next chapter: 769
+- Current block: 765–769 (4/5)
+- Latest translation: `translations/0768.md`
+- Latest summary: `summaries/beats/0768.md`
+- Safe profiles through: chapter 768
 
 ## Current Block
 
-- Jin Taekyung, Team Leader Choi, and Magic Johnson determine that Michael Silbert orchestrated the Japan operation, the second terrorist attack, and Leviathan's awakening and lure to Japan in order to expose the Skeleton King's identity. They realize that the Skeleton King, rather than Jin, was Michael's original target and that the resulting evidence gives Michael a decisive weakness for his war against Jin; the group then waits for Jin to decide how to proceed.
-- Three days later, German authorities continue suppressing information about the Munich incident while the World Hunter Federation's reestablishment is debated in a secret UN General Assembly meeting involving 185 nations and six permanent member states. Reporter Simon tells Franz Meyer that the vote is expected to begin soon and that the UN will announce the result with near certainty.
+- After three days of increasingly violent debate, the UN General Assembly voted on reestablishing the World Hunter Federation. Baek Hanseong tried to delay the decision, but the pressure of global unrest and the limits of the permanent members' authority made resistance impossible, and the reestablishment was approved. Choi Minwoo informed a person working amid documents and monitors, whose only response was a curse.
 
 ## Open Questions
 
-- What decision will Jin make after learning that the Skeleton King was Michael's original target?
-- How will Michael use the evidence and leverage gained from exposing the Skeleton King's identity?
-- Will the UN vote reestablish the World Hunter Federation?
-- Who will control the reestablished World Hunter Federation if the proposal passes?
-- How will the Skeleton King respond to being the center of Michael's operation?
+- How will the reestablished World Hunter Federation exercise its enormous authority, and who will control it?
+- What war did Choi Minwoo identify, and how will Jin Taekyung and Choi prepare for it?
+- How will Michael Silbert exploit the Federation's reestablishment and the worldwide unrest?
+- How will governments and populations respond now that the Federation has been approved?
 
 ## Exceptional Decision
 
 - Render 세계 헌터 연맹 as World Hunter Federation.
-- Render 마력 as magical power and 마정석 as Magic Gem.
-- Render 대마도사 as Grand Mage.
-- Render the UN's upcoming 표결 as the vote on reestablishing the World Hunter Federation.
+- Render 대격변 as Great Cataclysm and 두 번째 대격변 as second Great Cataclysm.
+- Render 중화인민국 as Zhonghua People's Republic.
+- Render 종신 대통령 as president for life.
+- Render 마법 포션 as magical potion.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

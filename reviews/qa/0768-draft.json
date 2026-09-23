@@ -1,0 +1,71 @@
+{
+  "chapter": 768,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.367,
+    "source_characters": 5457,
+    "source_paragraphs": 124,
+    "translation_characters": 12917,
+    "translation_paragraphs": 131
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "순이",
+        "preferred": "Sooni"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인내",
+        "preferred": "Endurance"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "전도",
+        "preferred": "complete map of the realm"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "마비",
+        "preferred": "Paralyzed"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "변이",
+        "preferred": "mutation"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
