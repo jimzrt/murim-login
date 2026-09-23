@@ -1,28 +1,29 @@
 # Translation State
 
-- Last completed: 763
-- Next chapter: 764
-- Current block: 760–764 (4/5)
-- Latest translation: `translations/0763.md`
-- Latest summary: `summaries/beats/0763.md`
-- Safe profiles through: chapter 763
+- Last completed: 764
+- Next chapter: 765
+- Current block: 760–764 (5/5)
+- Latest translation: `translations/0764.md`
+- Latest summary: `summaries/beats/0764.md`
+- Safe profiles through: chapter 764
 
 ## Current Block
 
-- Michael Silbert announces to the world that magical power has crossed its critical point and that a second war, possibly a second Great Cataclysm, is imminent. He claims the original war may have been only a ceasefire and casts doubt on whether Demon King Asmodeus was truly erased.
-- Michael proposes resurrecting the World Hunter Federation as an international organization beyond ordinary laws and restrictions. Jin recognizes the historical federation as the organization that followed Cheon Taemin during the Great Cataclysm, rejects Michael's proposal with profanity, and realizes that Michael intends to use the crisis to build a kingdom for himself. Michael then warns Jin to reconsider for the sake of his monster friend.
+- Michael Silbert reveals that he has discovered the Skeleton King's identity and forces Jin to choose between allowing the truth to be exposed before the world's cameras or meeting him privately. Michael publicly reframes Jin's rejection of the World Hunter Federation as youthful exhaustion, declares that the war has begun again, and presents the Federation as humanity's ark.
+- Jin orders Team Leader Choi to contact Magic Johnson and obtain all of Johnson's investigative results based on Siegfried Wassman's hideout materials, along with every piece of information about Michael. Jin then boards Michael's private aircraft, where Michael confirms that he knows the Skeleton King is a monster and sends Huginn away.
+- Jin and Michael trade threats and insults. Jin refuses to be intimidated, identifies himself as the Blazing Flame Divine Dragon, and threatens Michael with death if he exposes the Skeleton King's identity.
 
 ## Open Questions
 
 - Is a second Great Cataclysm truly imminent, and what caused global magical power to cross its critical point?
 - Was Demon King Asmodeus actually erased during the original victory?
-- What does Michael know about Jin's monster friend, and how does he intend to use that knowledge?
+- How did Michael obtain certainty about the Skeleton King's identity, and what evidence does he possess?
 - Can Jin prevent Michael from reviving the World Hunter Federation and turning it into a personal kingdom?
 - What exactly does the Main Quest: Cataclysm require before it can end?
 
 ## Exceptional Decision
 
-- Render 두 번째 전쟁 as second war and the implied recurrence of 대격변 as second Great Cataclysm.
+- Render 스켈레톤 킹 consistently as Skeleton King, not Stone King.
 - Render 세계 헌터 연맹 as World Hunter Federation and 국제 헌터 연맹 as International Hunter Federation, keeping the historical and surviving organizations distinct.
 - Render 좆 까 as Go fuck yourself to preserve Jin's blunt, profane rejection.
 - Render 간웅 as unscrupulous schemer.

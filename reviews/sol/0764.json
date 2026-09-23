@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“What? You think you can’t do that?”",
+      "defect": "The subject is reversed. Jin is challenging Huginn to doubt Jin’s ability to carry out the threat, not asking whether Huginn is incapable of obeying him.",
+      "id": "F01",
+      "rationale": "The omitted subject of 못 할 것 같나 is Jin, referring back to his threat to tear Huginn’s mouth open.",
+      "replacement": "“What? You think I can’t do it?”",
+      "severity": "critical",
+      "source": "“왜, 못 할 것 같나?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Michael Silbert was a great man for whom even the word *tiger* seemed insufficient. But at least right now, I was the Blazing Flame Divine Dragon.",
+      "defect": "“Great man” introduces an admiring or morally positive characterization absent from context, while “the word tiger seemed insufficient” is an unnatural rendering of the comparison.",
+      "id": "F02",
+      "rationale": "위인 refers contextually to a formidable individual, and 호랑이라고 해도 부족함이 없는 means that even likening him to a tiger would not fully capture how dangerous he is.",
+      "replacement": "Michael Silbert was formidable enough that even calling him a tiger would undersell him, but at least right now, I was the Blazing Flame Divine Dragon.",
+      "severity": "major",
+      "source": "미카엘 실베르트는 호랑이라고 해도 부족함이 없는 위인이지만, 적어도 지금의 나는 열화신룡(烈火神龍)이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“We were had. This was all for this.”",
+      "defect": "The second sentence is an unnatural English calque, and the first is needlessly dated for the speaker’s urgent register.",
+      "id": "F03",
+      "rationale": "The source says they were deceived and that everything preceding this moment had been in service of Michael’s present move.",
+      "replacement": "“We’ve been played. This was what it was all for.”",
+      "severity": "minor",
+      "source": "“당했습니다. 전부 이걸 위한 거였어요.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "As I turned away from the cameras as though fleeing, two figures quickly approached through my field of vision.",
+      "defect": "“Approached through my field of vision” is not idiomatic English and obscures the simple action of Jin seeing the two figures approaching him.",
+      "id": "F04",
+      "rationale": "The source states that the two approaching figures entered Jin’s view as he turned away from the cameras.",
+      "replacement": "As I turned away from the cameras as though fleeing, I saw two figures rapidly approaching.",
+      "severity": "minor",
+      "source": "마치 도망치듯 카메라를 피해 돌아선 내 시야에 빠르게 가까워지는 두 인영이 들어왔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "After all those questions tangled through my mind, one person’s face suddenly came to me.",
+      "defect": "A face does not naturally “come to” someone in this sense; the intended English expression is “came to mind.”",
+      "id": "F05",
+      "rationale": "떠올랐다 means that the person’s face arose in Jin’s thoughts after his internal deliberation.",
+      "replacement": "After wrestling with all those questions, one person’s face suddenly came to mind.",
+      "severity": "minor",
+      "source": "그리고 그 수많은 고민 끝에, 문득 한 사람의 얼굴이 떠올랐다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "As vapor rose and suppressed the steam from the coffee cup, I whispered in a low voice.",
+      "defect": "“Vapor suppressed the steam” is an awkward mechanical calque that makes two near-synonyms interact unnaturally.",
+      "id": "F06",
+      "rationale": "The heat from Jin’s hand produces vapor that overwhelms the gentler steam rising from the coffee.",
+      "replacement": "As vapor billowed up, overpowering the steam from the coffee cup, I whispered in a low voice.",
+      "severity": "minor",
+      "source": "커핏잔의 김을 억누르며 피어오르는 수증기 속에서, 나는 나직한 음성으로 속삭였다."
+    }
+  ],
+  "summary": "One critical subject reversal, one characterization distortion, and several localized natural-English issues require correction.",
+  "version": 1
+}

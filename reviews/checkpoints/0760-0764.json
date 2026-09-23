@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Then does the situation you are enjoying include the fact that the Stone King’s identity is that of a monster?",
+      "defect": "The established name Skeleton King is incorrectly rendered as Stone King.",
+      "id": "C01",
+      "rationale": "Skeleton King is the binding established term throughout the packet and checkpoint state; Stone King incorrectly changes the character’s identity.",
+      "replacement": "Then does the situation you are enjoying include the fact that the Skeleton King’s identity is that of a monster?",
+      "severity": "major",
+      "source": "Chapter 764, private-aircraft confrontation"
+    },
+    {
+      "confidence": 0.99,
+      "current": "- Joel Schumacher remains unconscious under the Skeleton King’s protection.",
+      "defect": "The continuity note assigns Joel’s protection to the wrong character.",
+      "id": "C02",
+      "rationale": "In Chapter 760, the Skeleton King explicitly passes Jin’s order to protect Joel to Team Leader Choi, who accepts it.",
+      "replacement": "- Joel Schumacher remains unconscious under Team Leader Choi’s protection.",
+      "severity": "major",
+      "source": "Checkpoint continuity, Joel Schumacher bullet"
+    },
+    {
+      "confidence": 0.99,
+      "current": "\"Joel Schumacher remains unconscious and under the Skeleton King's protection.\",",
+      "defect": "The durable active state repeats the incorrect assignment of Joel’s protection.",
+      "id": "C03",
+      "rationale": "Chapter 760 places Team Leader Choi in charge of keeping Joel alive after the Skeleton King delegates the task.",
+      "replacement": "\"Joel Schumacher remains unconscious and under Team Leader Choi's protection.\",",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    },
+    {
+      "confidence": 0.98,
+      "current": "During their confrontation, Jin identifies himself as the Blazing Flame Divine Dragon and threatens Michael with death if he exposes the Skeleton King.",
+      "defect": "The summary makes Jin’s internal self-conception sound like an explicit identification made to Michael.",
+      "id": "C04",
+      "rationale": "Blazing Flame Divine Dragon appears in Jin’s internal narration; he does not announce that identity to Michael.",
+      "replacement": "During their confrontation, Jin internally invokes his identity as the Blazing Flame Divine Dragon and threatens Michael with death if he exposes the Skeleton King.",
+      "severity": "minor",
+      "source": "Checkpoint plot summary, final sentence"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The German Armed Forces and police officers controlling them.",
+      "defect": "The organization name drifts from German Federal Army, the term used for the same forces in Chapters 761 and 762.",
+      "id": "C05",
+      "rationale": "The soldiers controlling the reporters are identified as the German Federal Army immediately before this chapter; retaining that term avoids an unexplained organization-name change.",
+      "replacement": "The German Federal Army and police officers controlling them.",
+      "severity": "minor",
+      "source": "Chapter 763, scene following Michael’s proposal"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Leaving the reporters shouting behind the German Armed Forces and police officers who blocked their way, Michael Silbert turned and walked toward his private aircraft, which had landed in the center of the open lot.",
+      "defect": "The organization name continues the drift from German Federal Army used earlier for the same personnel.",
+      "id": "C06",
+      "rationale": "This is the same security cordon described as German Federal Army soldiers in Chapter 762, so the established packet terminology should remain consistent.",
+      "replacement": "Leaving the reporters shouting behind the German Federal Army and police officers who blocked their way, Michael Silbert turned and walked toward his private aircraft, which had landed in the center of the open lot.",
+      "severity": "minor",
+      "source": "Chapter 764, Michael’s departure from the press gathering"
+    },
+    {
+      "confidence": 0.97,
+      "current": "- Ah, what the fuck is that crazy bastard No Jaehun doing? I called for a gank, but he never came, and now he’s gone AFK as hell.\n\n- Why? Did he get into a fight with his girlfriend? Is this game heading for a surrender?\n\n“It’s not that. I was watching an iTube live stream for a moment. Never mind. I’ll post the link in the group chat. You guys should take a look, too.”\n\n- What the fuck? That bastard doesn’t have a girlfriend. He’s just not in his promotion match, so he’s being a total—Munich live? What is this?",
+      "defect": "Three spoken lines use hyphen-prefixed transcript formatting while the intervening spoken line uses the required curly quotation marks.",
+      "id": "C07",
+      "rationale": "These are spoken voice-chat lines, and the packet’s binding format requires direct speech to use curly double quotation marks.",
+      "replacement": "“Ah, what the fuck is that crazy bastard No Jaehun doing? I called for a gank, but he never came, and now he’s gone AFK as hell.”\n\n“Why? Did he get into a fight with his girlfriend? Is this game heading for a surrender?”\n\n“It’s not that. I was watching an iTube live stream for a moment. Never mind. I’ll post the link in the group chat. You guys should take a look, too.”\n\n“What the fuck? That bastard doesn’t have a girlfriend. He’s just not in his promotion match, so he’s being a total—Munich live? What is this?”",
+      "severity": "minor",
+      "source": "Chapter 763, live-stream gaming vignette"
+    }
+  ],
+  "summary": "The packet is coherent overall, but it contains one major established-name error, an incorrect protection assignment duplicated in the checkpoint state, and several minor summary, terminology, and dialogue-formatting inconsistencies.",
+  "version": 1
+}
