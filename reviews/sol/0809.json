@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Some had lost comrades and lovers.",
+      "defect": "Separates a single person who was both a comrade and a lover into plural groups.",
+      "id": "F01",
+      "rationale": "전우이자 연인 describes one person with both relationships.",
+      "replacement": "Some had lost a comrade who was also a lover.",
+      "severity": "critical",
+      "source": "누군가는 전우이자 연인을."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Never here? Then was the whole thing a trap to lure us into going after something else?”",
+      "defect": "Changes the trap’s possible target into something the Hunters would be lured into pursuing.",
+      "id": "F02",
+      "rationale": "다른 것을 노린 says the trap was aimed at something else; it does not say the Hunters would pursue that thing.",
+      "replacement": "“Never here? Then was it a trap aimed at something else from the start?”",
+      "severity": "critical",
+      "source": "“처음부터? 그럼 애초에 다른 것을 노린 함정이었다는 겁니까?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“If we keep pursuing them without rest, the units will fall apart in no time. First, we need to regroup the Hunters who are worked up as quickly as possible.”",
+      "defect": "Turns Jin’s direct instruction to his listeners into a general statement about what ‘we’ need to do.",
+      "id": "F03",
+      "rationale": "수습하세요 directly tells the listeners to rein in the excited Hunters.",
+      "replacement": "“If we keep pursuing them without rest, the units will fall apart in no time. First, get the worked-up Hunters back under control as quickly as you can.”",
+      "severity": "major",
+      "source": "“지금 이대로 쉬지 않고 추격을 이어 가면 부대는 순식간에 와해 됩니다. 우선 최대한 빨리 흥분한 헌터들을 수습하세요.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The idea that the pursuer is more desperate than the one being chased is complete bullshit.",
+      "defect": "Reverses which side the narrator says people assume is more desperate.",
+      "id": "F04",
+      "rationale": "The Korean rejects the claim that the fugitive is more desperate than the pursuer.",
+      "replacement": "The idea that the one being chased is more desperate than the pursuer is complete bullshit.",
+      "severity": "critical",
+      "source": "추격자보다 도망자가 조급하다는 것은 전부 개소리다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "I cursed under my breath and gazed up at the darkening sky.",
+      "defect": "Makes the curse audible when the narrator curses inwardly.",
+      "id": "F05",
+      "rationale": "내심 locates the curse in his thoughts, not under his breath.",
+      "replacement": "I cursed to myself and gazed up at the darkening sky.",
+      "severity": "minor",
+      "source": "나는 내심 욕설을 중얼거리며 어두워지는 하늘을 바라봤다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Looking like blood-soaked corpses themselves, they chased down their prey.",
+      "defect": "Adds corpses to a description of living Hunters covered in blood.",
+      "id": "F06",
+      "rationale": "혈인 means a blood-covered person, not a corpse.",
+      "replacement": "Looking like people made of blood, they chased down their prey.",
+      "severity": "minor",
+      "source": "핏물을 흠뻑 뒤집어쓴 헌터들은 혈인(血人)이나 다름없는 몰골로 사냥감을 좇았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> Information for the special debuff **[Damaged Body]** has been updated.\n>\n> The special debuff **[Broken Body]** has been newly applied.",
+      "defect": "Retains square brackets around UI terms inside an already framed System panel.",
+      "id": "F07",
+      "rationale": "The binding System-panel format identifies UI terms without enclosing them in square brackets.",
+      "replacement": "> Information for the special debuff **Damaged Body** has been updated.\n>\n> The special debuff **Broken Body** has been newly applied.",
+      "severity": "minor",
+      "source": "- 특수 디버프, [망가진 신체]의 정보가 갱신됩니다.\n\n- 특수 디버프, [부서진 신체]가 새롭게 부여됩니다."
+    }
+  ],
+  "summary": "Several action and relationship details are altered, including a reversed comparison about the pursuit.",
+  "version": 1
+}

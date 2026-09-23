@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin kills the Manticore Lord, while Yamamoto kills the Lycanthrope Champion and an ally whose identity is not yet revealed.",
+      "defect": "The sentence says Yamamoto kills an ally, and the ally who addresses Jin as “Jin Sama” is identified as Yamamoto in Chapter 807.",
+      "id": "C01",
+      "rationale": "Chapter 807 identifies Yamamoto as the arriving speaker; there is no separate unidentified ally in this scene.",
+      "replacement": "Jin kills the Manticore Lord, while Yamamoto Genji kills the Lycanthrope Champion and addresses Jin as “Jin Sama.”",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Yamamoto Genji killed the Lycanthrope Champion; the unidentified ally who arrived and addressed Jin as “Jin Sama” also remains unidentified.",
+      "defect": "The continuity note preserves an identity mystery that Chapter 807 has resolved.",
+      "id": "C02",
+      "rationale": "Jin looks directly at Yamamoto after the arrival, and Yamamoto repeats the form of address.",
+      "replacement": "Yamamoto Genji killed the Lycanthrope Champion and addressed Jin as “Jin Sama” when he arrived.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Prophet remains missing after the Hunter victory; Jin suspects the Prophet planned for the battle’s outcome and wants to face him, but the Prophet’s objective and location are unknown.",
+      "defect": "The wording makes Jin the apparent subject of “wants to face him,” losing Jin’s specific suspicion that the Prophet wants to face Jin.",
+      "id": "C03",
+      "rationale": "Chapter 809 states Jin’s unspoken thought as “The Prophet wants to face me”; it remains a suspicion, not an established motive.",
+      "replacement": "The Prophet remains missing after the Hunter victory; Jin suspects the Prophet accounted for the battle’s outcome and wants to face Jin, but the Prophet’s objective and location are unknown.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent, but the checkpoint summary and state miss Yamamoto’s reveal and blur whose desire to meet Jin is only a suspicion.",
+  "version": 1
+}
