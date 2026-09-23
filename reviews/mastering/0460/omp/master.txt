@@ -2,9 +2,9 @@
 
 The weather was bad in more ways than one.
 
-The waters of Dongting Lake, which had swallowed dozens of vessels and claimed lives overnight, were rough, and the wind blowing in from the distance was violent.
+The waters of Dongting Lake, which had swallowed dozens of vessels and countless lives overnight, churned violently, and fierce winds blew in from the distance.
 
-Even the old boatman who knew Dongting Lake like the back of his hand seemed to think that setting out in such weather was a terrible idea.
+Even the old boatman, who claimed to know Dongting Lake like the back of his hand, seemed to think setting out in such weather was a terrible idea.
 
 “I—I can’t do it, sirs.”
 
@@ -36,13 +36,13 @@ He swallowed hard before answering.
 
 “Just as the name suggests, it’s a ghostly creature. Plenty of boatmen have fallen victim to it lately. One was an old friend of mine. He went out at night hoping to earn a few extra coins, and then…”
 
-The old boatman stared at the rippling waters of Dongting Lake with eyes steeped in fear.
+The old boatman stared at the churning waters of Dongting Lake, his eyes steeped in fear.
 
 “They call it the Hidden Shadow Ghost because its victims die without ever seeing so much as its shadow. This is only the humble opinion of an old man, but it must be responsible for everything that’s been happening lately. All of it is the work of that evil spirit.”
 
 Gung Gibang clicked his tongue and cut in.
 
-“Evil spirit, my ass. Listen, boatman. Do you think I’ve only heard stories like this once or twice? If all those tales were true, half the fish under heaven would have human faces, and the mountains would be crawling with thousand-year-old white tigers and dragons.”
+“Evil spirit, my ass. Listen, Boatman. Do you think this is the first story like that I’ve heard? If all those tales were true, half the fish under heaven would have human faces, and the mountains would be crawling with thousand-year-old white tigers and dragons.”
 
 “I swear there isn’t a word of falsehood in it. With one heaven-defying atrocity after another, the Divine Spirit of Dongting Lake must have been angered.”
 
@@ -60,7 +60,7 @@ Gung Gibang clicked his tongue and cut in.
 
 The old boatman sounded deeply aggrieved.
 
-He had spent his entire life as a boatman in the Murim, where all sorts of legends and superstitions were treated as fact.
+He had spent his entire life on the water in Murim, where all manner of legends and superstitions were accepted as fact.
 
 Perhaps that was why he seemed firmly convinced that the recent string of gruesome incidents was the work of the evil spirit known as the Hidden Shadow Ghost.
 
@@ -98,11 +98,11 @@ Whatever the case, it was unlikely to have been a simple accident of nature.
 
 From what we had heard, more than a few boatmen had died. The old boatman’s next words lent even more weight to our suspicions.
 
-“Come to think of it, all the dead boatmen disappeared in roughly the same area. Hm? Wait a moment. The place you honored guests are heading toward is nearby too…”
+“Come to think of it, all the dead boatmen vanished in roughly the same area. Hm? Wait. The place you honored guests are heading is around there too…”
 
 The old boatman suddenly froze and slowly raised his head.
 
-He looked us over one by one without a word, then quietly lowered the oar he had been holding to set off and stood up.
+He silently looked us over one by one, then carefully set down the oar he had been holding in preparation to depart and rose to his feet.
 
 “Where are you going?”
 
@@ -114,7 +114,7 @@ At my question, the old boatman gave an awkward smile.
 
 “Yes, Captain.”
 
-“The boatman needs to pee.”
+“The boatman says he needs to pee.”
 
 “Does he?”
 
@@ -172,7 +172,7 @@ Their answers came before I could finish, leaving me momentarily speechless. Hyu
 
 “Beggars’ Sect special. Not content with picking up discarded food from inns, you pick up other people’s words too.”
 
-“…I’ve never seen such a bastard who’s worse than a dog.”
+“…Would you look at this dogshit bastard?”
 
 “Regardless, I’m going with you no matter what you say, Captain. When I was young, a gifted fortune-teller read my fate and told me I would live in wealth and glory, eating well and living comfortably past the age of one hundred. There’s no way I’m dying today.”
 
@@ -186,7 +186,7 @@ My lips moved, but I could not bring myself to speak.
 
 When it came down to it, neither of them was someone others could afford to underestimate.
 
-Hyuk Mujin had begun learning martial arts relatively late, yet he had grown explosively while passing through countless crises alongside me. Gung Gibang was talented enough to become the Successor Beggar, as well as a Peak master who had entered a mature realm.
+Hyuk Mujin had begun learning martial arts relatively late, yet he had grown explosively as we passed through one crisis after another together. Gung Gibang possessed enough talent to become the Successor Beggar and was an accomplished Peak master.
 
 *But I’m afraid.*
 
@@ -206,7 +206,7 @@ Cheongpung smiled faintly and shook his head.
 
 “Benefactor, please don’t say anything. All you need to do is trust us as much as I trust you.”
 
-“No, that isn’t what I meant. You’re obviously coming with us, so why did you step forward and…”
+“No, that’s not what I meant. You’re obviously coming with me, so why did you jump in and…”
 
 “Oh. Ah…”
 
@@ -228,7 +228,7 @@ Gung Gibang discreetly jabbed Hyuk Mujin in the side.
 
 Their intentions were obvious, but I pretended not to notice.
 
-I would do everything in my power to prevent that situation from arising. I was confident I could separate them before they fell into danger.
+I would do everything in my power to keep such a situation from arising, and I was confident I could get them out of danger before it was too late.
 
 But the last person posed a problem.
 
@@ -246,11 +246,11 @@ Honglan’s red lips slowly parted.
 
 “I may be insignificant compared to you and the others, but I too have reached the First Rate realm…”
 
-“I know. And I also know that this First Rate master spent several shichen submerged in the river while holding on to a strong man, and has only been conscious for half a shichen.”
+“I know. I also know that this First Rate master spent several shichen submerged in the water while holding on to a grown man and regained consciousness only half a shichen ago.”
 
 “…!”
 
-Honglan bit down softly on her lip, struck where it hurt.
+Struck where it hurt, Honglan pressed her lips together.
 
 She knew better than anyone.
 
@@ -264,13 +264,13 @@ Being able to move around as she did now and fighting a fierce battle were two e
 
 Reading the question in my eyes, Honglan smiled. It was more bitter than any smile I had seen from her before.
 
-“A great many things happened before a little girl who lost her clan and her parents overnight could become the woman she is today…”
+“A great many things happened before a little girl who lost her family and parents overnight could become the woman she is today…”
 
 “Ah.”
 
 “Please excuse me for a moment.”
 
-She looked up at me with shining eyes and quietly reached out a hand.
+She looked up at me with glistening eyes and quietly reached out.
 
 Her pale, slender fingers brushed through my tangled hair and grazed my neck. I flinched despite myself.
 
@@ -278,9 +278,9 @@ Her pale, slender fingers brushed through my tangled hair and grazed my neck. I 
 
 “All done. Ah, much better. Would you like to see?”
 
-I followed Honglan’s fingers with my gaze and looked down at the clear waters of Dongting Lake.
+I followed Honglan’s finger and looked down at the clear waters of Dongting Lake.
 
-Someone’s reflection floated on the surface.
+Someone’s reflection stared back from the surface.
 
 My hair had been neatly arranged and secured with a beautiful silver hairpin.
 

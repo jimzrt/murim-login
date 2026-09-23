@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but four minor fidelity defects remain: one dropped sensory image, one weakened wordplay mechanism, one added collective subject, and one altered physical detail at the ending.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 33–35",
+      "current": "An unfamiliar name had slipped into his grumbling.",
+      "defect": "The source says an unfamiliar word was mixed into grumbling that bored into the narrator’s ears. “Name” changes the lexical detail, and the current sentence drops the source’s auditory image.",
+      "replacement": "An unfamiliar word had slipped into the grumbling that pricked my ears.",
+      "rationale": "낯선 단어 is an unfamiliar word, while 귓가를 파고드는 preserves the grumbling’s physically intrusive sound.",
+      "confidence": 0.89
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 171–176",
+      "current": "Beggars’ Sect special. Not content with picking up discarded food from inns, you pick up other people’s words too.",
+      "defect": "The current version changes the first instance of 주워 먹다 from eating discarded food to merely picking it up, weakening the source’s repeated eat/pick-up joke and the insult’s mechanism.",
+      "replacement": "Beggars’ Sect special. Not content with eating food inns throw away, you even gobble up other people’s words.",
+      "rationale": "The Korean explicitly depicts him eating discarded inn food and then metaphorically eating other people’s words; both parts are needed for the joke.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 245–247",
+      "current": "We’ll deal with it.",
+      "defect": "The source leaves the subject implicit in Honglan’s reply, conventionally referring to herself; “we” adds a collective subject and weakens her personal claim that she can handle an unexpected variable.",
+      "replacement": "I’ll deal with it.",
+      "rationale": "Honglan is arguing that she should accompany them despite her condition, so the source’s omitted subject is her own ability to respond.",
+      "confidence": 0.86
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 289–297",
+      "current": "Leaving Honglan behind, the boatman drove his oar powerfully through the water.",
+      "defect": "The current wording implies that Honglan was physically left behind and drops the source’s image of Honglan turning away with her figure behind the narrator. It also changes the oar’s action from striking/rowing the water with force to driving it through the water.",
+      "replacement": "With Honglan turning away behind me, the boatman’s oar struck the water with all his strength.",
+      "rationale": "돌아서는 홍란의 모습을 뒤로 한 채 describes her departing figure behind the narrator, while 사공의 노가 강물을 힘차게 저었다 emphasizes forceful rowing.",
+      "confidence": 0.92
+    }
+  ]
+}
