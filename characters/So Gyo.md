@@ -1,9 +1,9 @@
 # So Gyo (소교)
 
-- **Safe through:** Chapter 886
+- **Safe through:** Chapter 887
 - **Aliases:** None
-- **Role:** A palace attendant loyal to the Emperor who leads the attendants assigned to Prince Shangshan; her movement skill is beyond First Rate, and she is searching for someone she must find.
-- **Personality:** Loyal and vigilant, she remains controlled while firmly enforcing the Emperor’s orders.
-- **Voice:** Measured and formal, using deferential official phrasing that can turn into pointed warnings.
-- **Relationships:** She serves the Emperor and leads the palace attendants assigned to Prince Shangshan.
+- **Role:** A palace attendant assigned to Prince Shangshan who has concealed her identity and strength; she is a Supreme Peak master, but her allegiance and purpose remain unconfirmed.
+- **Personality:** Calm, calculating, and self-possessed; she conceals her strength and identity and can be openly taunting.
+- **Voice:** Measured and composed, shifting from deferential formality to casual, pointed taunts and threats.
+- **Relationships:** She poses as the leader of the palace attendants assigned to Prince Shangshan; her true allegiance is unknown, and she is Jin Taekyung’s opponent.
 - **Sources:** Korean source and accepted translation, Chapter 875

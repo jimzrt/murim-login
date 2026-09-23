@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 886
-- Next chapter: 887
-- Current block: 885–889 (2/5)
-- Latest translation: `translations/0886.md`
-- Latest summary: `summaries/beats/0886.md`
-- Safe profiles through: chapter 886
+- Last completed: 887
+- Next chapter: 888
+- Current block: 885–889 (3/5)
+- Latest translation: `translations/0887.md`
+- Latest summary: `summaries/beats/0887.md`
+- Safe profiles through: chapter 887
 
 ## Current Block
 
-- Taekyung finds himself in an abandoned imperial forbidden ground where the late Emperor and direct imperial relatives were once confined after the rebellion. So Gyo explains that she is there to find someone and asks how long Taekyung has practiced martial arts. He lies that it has been fifteen years; So Gyo sees through him, reveals movement skill beyond First Rate, and says the imperial family’s intelligence network is why she remains there.
+- Jin Taekyung confronts So Gyo after she reveals she can read the instability in his internal energy and has concealed the strength of a Supreme Peak master. Her knowledge of his past opponents and her stated interest in the imperial palace’s intelligence network lead him to suspect she serves Dark Heaven and sought to control the Emperor, though her identity and allegiance remain unconfirmed. Taekyung refuses to back down, saying he is willing to die if it means fewer of his people will be killed. So Gyo draws a flexible sword and bears down on him with overwhelming internal energy; Taekyung withstands the pressure through his superhuman physical ability, breaks free, and strikes her with the Flame-Extinguishing Divine Fist. She lands lightly and appears unhurt. Though his dantian is overtaxed and his internal energy weakened, Taekyung charges again, just as a streak of light hurtles toward him.
 
 ## Open Questions
 
-- Is Aehyang pregnant, and what does the Emperor intend for her and Shangshan?
+- Who is So Gyo, and whom does she serve?
+- Who or what is the streak of light approaching Taekyung?
 - Will the banquet become a confrontation, and what does the Emperor intend?
 - Did the Emperor or Dark Heaven use Blood Soul Gu against the late Emperor and the City Lord of Sichuan Province?
-- Who is the person Ma Sanbao’s allies asked about, and what preparations has the faction made?
-- Who is So Gyo searching for?
+- What preparations has Ma Sanbao’s faction made, and who is the person his allies asked about?
 
 ## Exceptional Decision
 
