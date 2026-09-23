@@ -2,7 +2,7 @@
 
 Slash! Shhk-shhk-shhk!
 
-Scales split apart, and huge chunks of flesh were cut into evenly sized pieces.
+Scales split apart, and huge chunks of flesh fell into evenly spaced pieces.
 
 The enormous bones emerging between them were so clean it hardly seemed possible.
 
@@ -38,7 +38,7 @@ While everyone questioned the roots of the Jin Family of Taiyuan and worked towa
 
 Mungyeong’s clear eyes followed Jin Taekyung as he cut and sliced like a man possessed.
 
-*What incredible power. And it’s fast and concise, too.*
+*Incredible power. And he’s fast and precise, too.*
 
 You could tell a person’s realm from the smallest movement. By that measure, what Jin Taekyung was doing was astonishing.
 
@@ -94,7 +94,7 @@ He pushed the thought aside almost as soon as it came.
 
 Martial arts were like an endless mountain range. Most martial artists still at its foot might think Mungyeong had reached the summit, but he could see another mountain ahead.
 
-That was how vast and distant the world of martial arts was.
+That was how vast the world of martial arts was.
 
 Even Mungyeong had not reached the end of the secret martial arts he practiced. Heavenly Martial Physique or not, Jin Taekyung could hardly achieve anything satisfactory with them in such a short time.
 
@@ -120,7 +120,7 @@ At a loss for the first time in a long while, Mungyeong watched the scene before
 
 “Oh. Here I am!”
 
-“Why are you standing over there instead of working? Can’t you see the rest of us working?”
+“Why are you over there instead of working? Can’t you see the rest of us?”
 
 “I-I was just going to take a short break…”
 
@@ -140,7 +140,7 @@ The others cried out in admiration. Mungyeong only grew more troubled.
 
 *What am I supposed to teach that bastard?*
 
-At this point, he looked like the kind of person who would grow just fine on his own…
+At this rate, he looked capable of growing just fine on his own…
 
 Then Mungyeong made up his mind.
 
@@ -162,15 +162,15 @@ Mungyeong slipped up beside Hyuk Mujin, who was staring with his mouth open.
 
 “You really are something…!”
 
-Hyuk Mujin looked at Mungyeong with deeply moved eyes and accepted the leather waterskin.
+Hyuk Mujin looked at Mungyeong with moist eyes and accepted the leather waterskin.
 
-Of course, along with cool water, it contained a deadly poison called Seven-Step Soul-Chasing Powder—an extreme poison that killed its victim before they could take seven steps.
+Of course, along with cool water, it contained Seven-Step Soul-Chasing Powder—a deadly poison said to kill a person before they could take seven steps.
 
 * * *
 
 “…What’s this?”
 
-Immediately after the work was finished, Hyuk Mujin approached me with a leather waterskin. He answered my question with a proud expression.
+Mujin had approached me with a leather waterskin right after we finished work. He answered my question with a proud look.
 
 “Water. I thought you might be tired, Captain.”
 
@@ -202,7 +202,7 @@ Once Mujin was gone, I carefully pulled the stopper from the waterskin and sniff
 
 I still wasn’t letting my guard down. Very carefully, I tilted the waterskin.
 
-A drop of water trickled out slowly and plopped onto my tongue.
+A single drop trickled out and landed on my tongue.
 
 *Just in case, I’ll start with one drop…*
 
@@ -288,7 +288,7 @@ Four daggers came from the front, back, left, and right. They pierced the edges 
 
 *What the hell…!*
 
-I righted my body and landed on the ground, then glared furiously at the rock wall more than ten zhang[^1] away.
+I righted myself and landed, glaring at the rock wall more than ten zhang[^1] away.
 
 “Can we take it down a notch? Huh?”
 
@@ -300,7 +300,7 @@ The rock wall shimmered like a heat haze. A figure emerged and answered in a dry
 
 “I wasn’t hiding. I was watching.”
 
-“What difference does that make? You got caught.”
+“What difference does that make? I caught you.”
 
 “I showed myself just enough for you to notice. If you couldn’t manage even that, you might as well bite down on a blade and die.”
 
