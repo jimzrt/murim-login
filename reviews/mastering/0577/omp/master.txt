@@ -22,7 +22,7 @@ His heart sank. A bead of cold sweat rolled down the back of his neck.
 
 He barely managed to force the words past his tightly pressed lips.
 
-“But I’ve never heard anything like that from anyone. Not even Butler Kim, who was my maternal grandfather’s closest aide…”
+“But no one ever told me. Not even Butler Kim, who was one of my maternal grandfather’s closest aides…”
 
 Before Choi could finish, Song shook his head.
 
@@ -54,7 +54,7 @@ If the howling blizzard had not swallowed Song’s voice, that loyal servant wou
 
 “I had no choice. If he’d heard us, we couldn’t have continued this conversation.”
 
-“If Butler Kim had heard about my maternal grandfather back then, you two would already have…”
+“If Butler Kim had learned what happened to my grandfather back then, you two would already be…”
 
 His usual calm composure was gone.
 
@@ -122,8 +122,6 @@ He wanted to scream. To ask why they had done it, and what they had hoped to gai
 
 But…
 
-*Swish. Thud.*
-
 His hand moved toward the hilt, then fell away before it reached it.
 
 Not yet. Song Cheonwoo would answer for what he had done, but only after Choi had confirmed all the facts.
@@ -138,15 +136,15 @@ Song’s footsteps stopped. Ahead of him, the ground gave way to empty air.
 
 A crevasse cut through the snow-covered mountain. It was enormous, and its depths were too dark to fathom.
 
-“Why. Why, you ask…”
+“The reason…”
 
-Song Cheonwoo stared down at the darkness spread before his feet and muttered in a low voice.
+Song stared into the darkness at his feet.
 
 “I don’t know.”
 
 “Be clear. Do you not know, or do you want to pretend you don’t?”
 
-“Do you think Lee Jungryong or I pulled some kind of trick? On him, of all people?”
+“Do you think Lee Jungryong or I did something to him? To *him*, of all people?”
 
 “That…”
 
@@ -158,7 +156,7 @@ The people he saved had given him the name Slayer. It was also a mark of the rev
 
 “I respected him, and I feared him. Lee Jungryong felt the same. If we hadn’t, we wouldn’t have waited years for him to wake up.”
 
-It was true. Even after Cheon Taemin, the object of their respect and fear, collapsed, Song Cheonwoo and Lee Jungryong had been unable to act easily.
+It was true. Even after Cheon Taemin collapsed, neither Song nor Lee had dared to move against the man they respected and feared.
 
 Before they revealed their greed, they needed two years, countless experiments to verify his condition, and a certainty still tinged with unease.
 
@@ -166,7 +164,7 @@ Before they revealed their greed, they needed two years, countless experiments t
 
 At Choi’s bewildered question, Song shook his head.
 
-“No one can guess the reason. But one thing is certain. He is still alive.”
+“No one could guess the reason. But one thing is certain. He’s still alive.”
 
 Song had answered the question Choi meant to ask next. Choi gathered his thoughts.
 
@@ -176,7 +174,7 @@ Song had answered the question Choi meant to ask next. Choi gathered his thought
 
 “…!”
 
-“But I do not know exactly where he is being kept. For now, I merely suspect Area A.”
+“But I don’t know exactly where Lee has put him. For now, I only suspect Area A.”
 
 “Area A…”
 
@@ -204,7 +202,7 @@ Their last secret meeting had been barely a week ago. Song had been cautious the
 
 *So why?*
 
-Information about Cheon Taemin’s whereabouts was a secret within a secret. Considering the confrontation that would come later, it was also a powerful weapon that could force Choi Minwoo to withdraw.
+The truth about Cheon Taemin’s condition was among the most closely guarded secrets in the world. With their eventual conflict in mind, Song could have held it back as a weapon—one that might even force Choi to withdraw.
 
 It was not something he could simply disclose on a passing impulse.
 
@@ -220,7 +218,7 @@ Choi felt Song’s gaze move to his hand.
 
 Choi tightened his grip on the sword. “Atonement for what?”
 
-“I wanted to tell you someday, even if it was late. About the wrongs I committed against him—and against you.”
+“For the wrongs I committed against him. And against you. I’ve wanted to tell you for a long time, though it’s late.”
 
 “More than twenty years late.”
 
@@ -234,7 +232,7 @@ Then—
 
 *Rrrrrumble!*
 
-The snow-covered mountain trembled beneath its blanket of white. An avalanche was taking place beyond the crevasse, which stretched dozens of meters across.
+The snow-covered mountain shook. Beyond the crevasse, dozens of meters wide, an avalanche was racing down the slope.
 
 Fur-covered giants rode atop the surging waves of snow.
 
@@ -256,7 +254,7 @@ Their savage roars shook the mountain. There were hundreds of yetis charging tow
 
 With the crevasse at his back, Song stepped forward. Choi drew the sword at his waist—a sword left behind by a hero who had fulfilled his duty even in death.
 
-“That’s a fine sword,” Song Cheonwoo muttered, taking another step.
+“A fine sword,” Song said quietly, and took another step.
 
 Behind Choi, someone was already hurtling toward them.
 
@@ -268,4 +266,4 @@ And then—
 
 *BOOM!*
 
-A thunderous explosion erupted, and a blizzard came whirling.
+A deafening crash rang out, and snow whipped through the air.
