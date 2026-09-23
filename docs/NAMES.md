@@ -2199,3 +2199,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 항공자위대 | **Air Self-Defense Force** | Japanese force whose crashed aircraft caused secondary damage. |
 | 카이로 | **Cairo** | Egyptian city where the final wave occurred. |
 | 선지자 | **The Prophet** | Mysterious religious leader directing the terrorist warriors. |
+| IS | **IS** | Terrorist organization whose former leader appears in the Prophet's broadcast. |
+| 후세인 | **Hussein** | Historical figure referenced in an online comment about the 9/11 attacks. |
+| 마드리드 | **Madrid** | Spanish city named in a Monster Wave news headline. |
+| 조국일보 | **Joguk Ilbo** | Newspaper named in a headline criticizing Jin Taekyung. |

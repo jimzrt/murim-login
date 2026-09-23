@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "What made it worse was that they had occurred in the capitals and major cities of countries everyone knew by name.",
+      "defect": "The draft changes “capitals or major cities” to “capitals and major cities” and incorrectly makes the countries, rather than the cities, the familiar names.",
+      "id": "F01",
+      "rationale": "The source uses 혹은, meaning “or,” and describes the attack sites themselves as widely recognizable.",
+      "replacement": "What made it worse was that the attacks had occurred in capitals or major cities whose names were known around the world.",
+      "severity": "critical",
+      "source": "더군다나 사건의 발생지는 이름만 들어도 아는 각 나라의 수도, 혹은 대도시들."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“We obtained this footage when the first Monster Wave occurred in Paris. This is a video recorded by Odin Guild.”",
+      "defect": "The second sentence is an unsupported addition that changes Odin Guild from the party that obtained the footage to the party that recorded it.",
+      "id": "F02",
+      "rationale": "입수한 means “obtained” or “acquired”; the source never says Odin Guild recorded the video.",
+      "replacement": "“This is footage Odin Guild obtained when the first Monster Wave occurred in Paris.”",
+      "severity": "critical",
+      "source": "“파리에서의 첫 몬스터 웨이브 발생 당시, 저희 오딘 길드가 입수한 영상입니다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "> **Odin Guild Master Michael Silbert: “This was a meticulously planned terrorist attack, not a Monster Wave.”**",
+      "defect": "The draft denies that the event was a Monster Wave, although the source characterizes it as planned terrorism before or beyond its classification as a Monster Wave.",
+      "id": "F03",
+      "rationale": "몬스터 웨이브 이전에 does not negate the Monster Wave; it establishes terrorism as the underlying nature or cause of the event.",
+      "replacement": "> **Odin Guild Master Michael Silbert: “Before this was a Monster Wave, it was a meticulously planned terrorist attack.”**",
+      "severity": "critical",
+      "source": "[오딘 길드장 미카엘 실베르트, “이것은 몬스터 웨이브 이전에, 치밀하게 계획된 테러다.”]"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A mysterious vigilante whose face, name, and even gender were unknown.\n\nThe leaders of terrorist and rebel groups had been beheaded by that vigilante, and the two factions, suddenly deprived of their leadership, had suffered enormous losses after fierce internal struggles before being forced to raise the white flag.",
+      "defect": "The draft turns the explicitly plural vigilantes into a single individual, changing the number and subject responsible for the killings.",
+      "id": "F04",
+      "rationale": "The source subsequently refers to the vigilantes as 그들, “they,” establishing that the mysterious vigilante force comprises multiple people.",
+      "replacement": "A mysterious group of vigilantes whose faces, names, and even genders were unknown.\n\nThey had beheaded the leaders of the terrorist and rebel groups, and the two factions, suddenly deprived of their leadership, suffered enormous losses in the fierce internal struggles that followed and were forced to raise the white flag.",
+      "severity": "critical",
+      "source": "얼굴과 이름, 심지어는 성별조차 알려지지 않은 의문의 자경단.\n\n그들에 의해 테러리스트와 반군 집단의 수뇌부는 목이 날아갔고, 한순간에 지도층을 잃은 두 세력은 치열한 내부다툼 끝에 엄청난 피해를 입고 백기를 내걸어야 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But ten countries, including the United States, are implicated in this attack.",
+      "defect": "“Implicated” suggests that the ten countries were culpable in the terrorism rather than countries caught up in or affected by it.",
+      "id": "F05",
+      "rationale": "The surrounding discussion identifies these as 피해국, affected countries, and argues that striking ten countries would be implausible for the weakened groups.",
+      "replacement": "But this terrorist attack involved ten countries, including the United States.",
+      "severity": "critical",
+      "source": "그런데 이번 테러에 연루된 나라만 미국 포함 10개국임."
+    },
+    {
+      "confidence": 1.0,
+      "current": ">> That doesn’t mean what he did was right.\n\n>> Fine, you’re right. But let’s be precise. Everyone justified it back then. Now that one unbelievably insane bastard has appeared, you’re all switching sides at the speed of light.\n\n>> Domestic and overseas, everyone praised the vigilante back then. “Whoever you are, great job. Let’s not bother finding out.” That was the atmosphere. Now it’s completely reversed.",
+      "defect": "The draft omits two rebuttals, a separate accusation and response about Jin Taekyung’s character, and the entire explanation that his vigilantism occurred just before the Mana Cultivation Method was released. It consequently conflates comments from three separate threads and removes the central causal argument.",
+      "id": "F06",
+      "rationale": "The omitted exchange supplies the opposing moral argument, defends Jin’s established demeanor, and explains the timing and intended preventive rationale behind the killings.",
+      "replacement": ">> That doesn’t mean what he did was right.\n\n>> So it was fine then but not now? You’re fucking crazy, lol.\n\n>> The situation has changed. Seriously, how many people are dead now? Nationalist hype and personal fandom are all well and good, but look at how serious the situation has become because of what Jin Taekyung did.\n\n> I knew that bastard Jin Taekyung would cause trouble. I hated watching him get full of himself from the moment people started hyping him up as a young hero and the next Cheon Taemin.\n\n>> That’s complete bullshit. When was he ever full of himself? Even when the media was hyping him nonstop, hyung still walked around in a tracksuit.\n\n> Putting it neutrally, I personally just think it’s unfortunate. Do you really think Jin Taekyung did that because he was some bloodthirsty killer?\n\n>> Then why did he do it?\n\n>> Look at the timing. It was right before the Mana Cultivation Method was released. Seriously, do you think there are only one or two Awakened among the Middle Eastern terrorists and African rebel groups? Who was supposed to deal with them if they learned the Mana Cultivation Method and started committing every kind of crime, including terrorism?\n\n>> That still doesn’t justify murder.\n\n>> Fine, you’re right. But let’s be precise. Everyone justified it back then. Now that one unbelievably insane bastard has appeared, you’re all switching sides at the speed of light.\n\n>> At the time, people both at home and abroad were universally praising the vigilantes. “Whoever you are, great job. Let’s not bother finding out who they are.” That was the atmosphere, and now it has completely reversed.",
+      "severity": "major",
+      "source": "└ 그게 잘했다는 뜻은 아니지.\n\n└ 그땐 좋고 지금은 아니야? 미친놈일세ㅋㅋ\n\n└ 상황이 바뀌었잖아. 막말로 지금 죽은 사람이 몇 명임? 국뽕도 좋고 개인적인 팬심도 좋은데, 진태경이 한 행동으로 인해서 얼마나 심각한 상황이 벌어졌는지를 보셈.\n\n\n\n나는 진태경 저 새끼 사고 칠 줄 알았다ㅇㅇ 젊은 영웅이니 포스트 천태민이니 하면서 띄워 줄 때부터 거들먹거리는 거 보기 싫었음.\n\n└ ;;;이건 진짜 개소리네. 도대체 언제 거들먹거렸냐. 언론에서 한창 띄워 줄 때도 추리닝 입고 돌아다니던 형인데.\n\n\n\n중립 기어 박고 한마디 하자면 개인적으로는 그냥 안타깝다. 진태경이 피에 굶주린 살인마라서 그런 짓을 벌였겠냐?\n\n└ 그럼 뭔데.\n\n└ 사건 당시 시기를 보면 마나 연공법 공개 직전이다. 막말로 중동 테러리스트랑 아프리카 반군 집단에 소속된 각성자가 한둘이냐? 걔들이 마나 연공법 익혀서 테러 포함 온갖 범죄 저지르면 그거 누가 감당하냐?\n\n└ 그렇다고 살인을 정당화할 수는 없지.\n\n└ 그래, 네 말이 맞다. 하지만 정확하게 짚고 넘어가자. 그땐 모두가 정당화했고 상상 이상의 미친놈 하나 나타나니까 다들 빛의 속도로 태세전환 하는 것뿐임.\n\n└ 국내고 해외고 그때 당시에는 하나같이 자경단 빨아 줬었다. 누군지는 모르겠지만 참 잘했어요. 굳이 알려고 하지 맙시다. 딱 그 분위기였는데 반전된 거지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "People watching the video swallowed unconsciously.",
+      "defect": "The literal wording is unnatural and omits that they involuntarily caught or held their breath.",
+      "id": "F07",
+      "rationale": "숨을 삼켰다 describes an involuntary interruption of breathing from shock, not ordinary swallowing.",
+      "replacement": "The people watching the video caught their breath without realizing it.",
+      "severity": "minor",
+      "source": "영상을 지켜보던 사람들은 자신도 모르게 숨을 삼켰다."
+    },
+    {
+      "confidence": 1.0,
+      "current": ">> If you want to keep pretending to be Korean, take the W key off your keyboard.;&nbsp;;",
+      "defect": "The draft contains a malformed HTML entity and corrupts the source’s double-semicolon internet punctuation.",
+      "id": "F08",
+      "rationale": "The source ends with two literal semicolons; `;&nbsp;;` is an accidental Markdown/HTML artifact.",
+      "replacement": ">> Take the W key off your keyboard if you want to keep pretending to be Korean;;",
+      "severity": "minor",
+      "source": "└ 앞으로도 한국인인 척하고 싶으면 키보드에서 w키 좀 빼라;;"
+    },
+    {
+      "confidence": 1.0,
+      "current": "A silver tray in one hand, his gaze fixed on the screen of the smartphone in his other.",
+      "defect": "The draft renders the complete source sentence as a dangling sentence fragment.",
+      "id": "F09",
+      "rationale": "The source has a complete finite statement describing where the Skeleton King’s gaze was fixed.",
+      "replacement": "Holding a silver tray in one hand, he kept his gaze fixed on the smartphone in the other.",
+      "severity": "minor",
+      "source": "은빛 쟁반을 손에 든 그의 시선은 다른 한 손에 들린 스마트폰의 화면에 고정되어 있었다."
+    }
+  ],
+  "summary": "The draft contains several factual reversals and omissions, including altered attack locations, false footage provenance, denial that the terrorist incidents were Monster Waves, a singularized vigilante group, victim countries framed as implicated parties, and a substantially truncated online debate.",
+  "version": 1
+}
