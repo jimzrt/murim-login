@@ -1,6 +1,6 @@
 # Leviathan (레비아탄)
 
-- **Safe through:** Chapter 762
+- **Safe through:** Chapter 767
 - **Aliases:** None
 - **Role:** Leviathan was an ancient S-rank sea monster and ruler of the sea who was killed by Jin Taekyung after the deep-sea hunt, leaving a final warning that the Cataclysm was approaching.
 - **Personality:** Ravenous, domineering, and driven by instinctive hunger for magical power and food.

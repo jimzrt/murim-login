@@ -1274,3 +1274,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | Hunter commander to trusted subordinate and team leader | Team Leader Choi | formal, urgent, and commanding through Sound Transmission | Jin orders Choi to contact Magic Johnson and retrieve the complete investigation into Michael Silbert. |
 | 미카엘 | 진 | manipulative adversary addressing the person he is coercing | Jin | familiar, polite, and coercive | Michael directly calls Jin 진 and repeatedly addresses him as 자네 during the negotiation. |
 | 최 팀장 | 진태경 | subordinate manager to employer and ally | Mr. Jin Taekyung | urgent and deferential | Team Leader Choi urgently calls Jin by name while stopping him from attacking the Skeleton King. |
+| 최 팀장 | 진태경 | Team Leader Choi to allied Hunter | Mr. Jin Taekyung | formal-polite | Choi addresses Jin by name while initiating the secure discussion. |
+| 매직 존슨 | 진태경 | allied Grand Mage to Hunter | Jin | familiar and polite | Magic Johnson addresses Jin familiarly during the holographic call. |
+| 진태경 | 스켈레톤 킹 | friend and ally confronting the target of Michael's operation | you | blunt and accusatory | Jin tells the Skeleton King that he was Michael's target from the beginning. |
+| 최 팀장 | 스켈레톤 킹 | allied analyst revealing the enemy's objective | you | formal and grave | Choi directly identifies the Skeleton King as Michael's original target. |
+| 프란츠 마이어 | 시몬 | fellow reporter exchanging information | you | blunt and teasing | Franz rebukes Simon while acknowledging his information. |
