@@ -2208,3 +2208,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 자경단 사건 | **the vigilante incident** | Operation against Middle Eastern terrorists and African rebel groups. |
 | 지크프리트 바스만 | **Siegfried Wassmann** | Reclusive Swiss Grand Mage known as the Hero. |
 | 마력 | **magical power** | Distinct from mana; the Skeleton King's area of expertise. |
+| 베르세 | **Berse** | Swiss Minister of the Interior expected to become the next president. |
+| 도쿄 | **Tokyo** | City visible behind Huginn's departing ship. |
