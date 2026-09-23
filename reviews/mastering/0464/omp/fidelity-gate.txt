@@ -1,0 +1,65 @@
+{
+  "summary": "Mostly faithful, with several localized omissions or additions affecting timing, physical detail, and the narrator’s stealth inference.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "lines 13–15",
+      "current": "A thrill ran down my spine.",
+      "defect": "The English omits the explicit simultaneity of the thrill with spotting the gap.",
+      "replacement": "At the same time, a thrill ran down my spine.",
+      "rationale": "동시에 establishes that the sensation occurs at the moment he notices the passage, not merely afterward.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "lines 57–58",
+      "current": "I took a small breath and slipped inside.",
+      "defect": "“Small breath” reverses or obscures 심호흡, a deep breath, and “slipped inside” drops the deliberate action of pushing his body into the entrance.",
+      "replacement": "I quietly took a deep breath, then pushed my body inside.",
+      "rationale": "작게 modifies the quietness of the deep breath, while 몸을 들이밀다 describes deliberately thrusting or pushing his body inside.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "lines 103–107",
+      "current": "A charred piece of wood lay on the waterlogged cave floor, and oil floated on the pooled water.",
+      "defect": "The English adds “charred” before the object has been identified as a torch and omits the physical detail that the wood was lying overturned or face down.",
+      "replacement": "A piece of wood lay overturned on the cave floor, where water had pooled, and oil floated on its surface.",
+      "rationale": "The source first presents it only as a fallen piece of wood lying in pooled water; its half-burned state and torch identity are established afterward.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "lines 187–189",
+      "current": "If water dripping from my body had struck the floor and made a sound, the Dongting Fisherman would have discovered me.",
+      "defect": "“Discovered me” reduces the consequence from having his identity exposed to merely being detected.",
+      "replacement": "If water dripping from my body had struck the floor and made a sound, the Dongting Fisherman would have realized who I was.",
+      "rationale": "정체를 들키다 specifically refers to having one’s identity or true nature revealed.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "lines 151–153",
+      "current": "*Crackle.*",
+      "defect": "The sound effect suggests ongoing cracking, rather than the small pieces or section of wall dropping away when touched.",
+      "replacement": "*Thud-thud.*",
+      "rationale": "투두둑 depicts repeated small impacts or pieces falling, matching the immediately following wall fragment dropping away.",
+      "confidence": 0.83
+    },
+    {
+      "id": "F06",
+      "severity": "minor",
+      "source": "lines 223–227",
+      "current": "The passage opened into a chamber some thirty *zhang* in radius, presumably the heart of the cave. At its center, a white-haired old man crouched with his back to me.",
+      "defect": "The English places the old man specifically at the chamber’s center, a location not established by the source.",
+      "replacement": "The passage opened into a chamber some thirty *zhang* in radius, presumably the heart of the cave. A white-haired old man crouched with his back to me.",
+      "rationale": "The source identifies the space as presumably the cave’s center and then directs attention toward the crouching old man, but does not say that the man himself is centered there.",
+      "confidence": 0.94
+    }
+  ]
+}

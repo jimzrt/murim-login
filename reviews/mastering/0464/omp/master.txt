@@ -2,7 +2,7 @@
 
 Dongting Lake was unquestionably a lake, but it covered a thousand *li*, and even at its shallowest, the water was easily more than ten *zhang* deep.
 
-The place I was swimming through now was one of the deepest parts of Dongting Lake. Naturally, the water was much deeper here, and the current raged like waves.
+The place I was swimming through now was one of the deepest parts of the lake. Naturally, the water here was far deeper, and the currents surged like waves.
 
 Finding a small underwater cave under these conditions was nothing short of heaven-sent luck.
 
@@ -14,7 +14,7 @@ A thrill ran down my spine.
 
 *I found it.*
 
-Cliffs rooted deep in a riverbed naturally split apart over the years through sedimentation and erosion. I had seen it several times at the four places we had already visited.
+Cliffs rooted deep in a riverbed naturally split apart over the years through sedimentation and erosion. I had seen similar fissures several times at the four places we had already searched.
 
 But this time was different.
 
@@ -34,9 +34,7 @@ I heightened every one of my senses to the limit and cut through the current.
 
 Slowly. Carefully.
 
-It would be stupid to announce my presence to an enemy with whom I would soon be locked in a life-and-death duel.
-
-If he prepared himself, the situation would become even more unfavorable.
+It would be stupid to announce my presence to an enemy I might soon face in a life-and-death duel. If he had time to prepare, the odds would tilt even further against me.
 
 *Fortunately, there’s still plenty of time left on the Title’s effect. No need to rush.*
 
@@ -78,7 +76,7 @@ I swam smoothly toward the light, searched my surroundings once more, then shot 
 
 *Splash!*
 
-I sucked in a breath.
+“Hup.”
 
 Damp air filled my lungs.
 
@@ -108,7 +106,7 @@ A charred piece of wood lay on the waterlogged cave floor, and oil floated on th
 
 *A torch? Well, it’s not like he has an unlimited supply of night-shining pearls.*
 
-The night-shining pearls embedded in the ceiling were obviously low quality, but that did not mean they were cheap.
+The pearls embedded in the ceiling were obviously low quality, but that didn’t mean they were cheap.
 
 I had never heard that the Dongting Fisherman was fabulously wealthy, so torches must have been essential for lighting such a long cave.
 
@@ -124,11 +122,11 @@ And that pointed to one conclusion.
 
 Ultimately, I wasn’t looking for a place. I was looking for a man. Finding his secret refuge would mean nothing if the Dongting Fisherman wasn’t inside.
 
-But through the torch, the Dongting Fisherman had revealed his presence.
+But the torch had betrayed his presence.
 
-Even if I were in his position, I would never have expected an intruder to enter a secret refuge hidden this well.
+Even in his position, I wouldn’t have expected an intruder to find a secret refuge hidden this well.
 
-*That’s your mistake.*
+*That was your mistake.*
 
 I rose to my feet and began walking slowly along the path ahead.
 
@@ -162,7 +160,7 @@ Damaging it would require a blow carrying a significant amount of internal energ
 
 *Was there a battle here…? No. This is clearly the work of one person.*
 
-I was still far from having the insight to discern the nature and roots of martial arts, but having reached the Supreme Peak realm, I had little trouble inferring what had happened from the traces left throughout the passage.
+I was still far from having the insight needed to identify the nature and origins of a martial art, but as someone who had reached the Supreme Peak realm, I had little trouble piecing together what had happened from the marks left throughout the passage.
 
 I furrowed my brow and thought for a moment, then shook my head.
 
@@ -188,9 +186,9 @@ The sound also echoed with unusual depth and volume. That meant there was a larg
 
 One step. Then another.
 
-I focused every nerve in my toes as they touched the damp cave floor.
+I focused every nerve on my feet as they touched the damp cave floor.
 
-It was a blessing that I had used my Scorching Yang Qi beforehand to dry the water that had soaked me through. If water dripping from my body had struck the floor and made a sound, the Dongting Fisherman would have discovered me.
+Thank goodness I had already used my Scorching Yang Qi to dry myself off. If water dripping from my body had struck the floor, it would have made enough noise to reveal me.
 
 *I have to finish this inside the cave. Fighting underwater would make things much harder.*
 
@@ -224,7 +222,7 @@ Searing heat flooded hundreds of acupoints and the Eight Extraordinary Meridians
 
 And then…
 
-*Pop!*
+*Fwoosh!*
 
 One step was enough.
 
@@ -242,7 +240,7 @@ It was hard to believe that this small, shabby old man had harmed so many people
 
 *Inventory open. Summon!*
 
-As the world slowed, the unknown power of the System covered my entire body as I charged toward the Dongting Fisherman.
+As the world slowed, the mysterious power of the System enveloped my charging body.
 
 *Swish. Clack.*
 
@@ -268,15 +266,15 @@ And one man stood directly in the path of that searing, destructive concentratio
 
 The arrow had already been loosed. The bird resting in its nest could not escape.
 
-To me, the Dongting Fisherman was no different from that bird.
+To me, the Dongting Fisherman was that bird.
 
 A bird that had believed its nest was safe.
 
-Even if it realized the truth too late, it could not stop an arrow that had already been fired.
+Even if it realized the danger now, it could not stop an arrow already in flight.
 
 Even if it hurriedly spread its wings, it could not avoid death or injury.
 
-Just like the Dongting Fisherman, who was turning his body very slowly right now.
+Just like the Dongting Fisherman, who was now turning toward me with agonizing slowness.
 
 *It’s already too late.*
 

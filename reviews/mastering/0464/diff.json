@@ -1,0 +1,1940 @@
+{
+  "baseline_blocks": 145,
+  "baseline_sha256": "8f69cd8dbaeeb4d348adc808bf237ba5a2acf038b465b74efff0474356aa3313",
+  "global_terminology_alerts": [
+    {
+      "korean": "무공",
+      "preferred": "martial arts"
+    }
+  ],
+  "hunk_count": 104,
+  "hunks": [
+    {
+      "baseline": "Dongting Lake was unquestionably a lake, but its total area alone stretched for a thousand *li*, and even its shallowest points easily exceeded a dozen *zhang* in depth.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "Dongting Lake was unquestionably a lake, but it covered a thousand *li*, and even at its shallowest, the water was easily more than ten *zhang* deep.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The place I was swimming through now was one of the deepest parts of Dongting Lake. Naturally, the water was much deeper here, and the current raged like waves.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "The place I was swimming through now was one of the deepest parts of the lake. Naturally, the water here was far deeper, and the currents surged like waves.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동정호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dongting Lake"
+        }
+      ]
+    },
+    {
+      "baseline": "Finding a small underwater cave under these circumstances was practically an act of heaven’s grace.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "Finding a small underwater cave under these conditions was nothing short of heaven-sent luck.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid countless fish swimming in schools, I spotted a gap barely wide enough for a full-grown man to squeeze through.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "Amid the countless schools of fish, I spotted a gap barely wide enough for a grown man to squeeze through.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, a thrill ran down my spine.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "A thrill ran down my spine.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Cliffs rooted deep in a riverbed naturally split apart over the years through sedimentation and erosion. I had seen it several times at the four places we had already visited.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "Cliffs rooted deep in a riverbed naturally split apart over the years through sedimentation and erosion. I had seen similar fissures several times at the four places we had already searched.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though the difference was extremely subtle and well hidden, my accumulated experience and keen eyes told me that human hands had touched the entrance of the cave slowly drawing closer.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "29",
+      "sol": "The difference was subtle and well concealed, but my accumulated experience and keen eyesight told me that human hands had touched the entrance slowly drawing closer.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The edges of the entrance are smooth. Someone definitely worked on them.*",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "31",
+      "sol": "*The edges are smooth. Someone definitely worked on them.*",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was no need to ask who that someone was.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "33",
+      "sol": "There was no need to ask who.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I heightened every one of my senses to their limit and cut through the current.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "35",
+      "sol": "I heightened every one of my senses to the limit and cut through the current.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It would be stupid to announce my presence to an enemy with whom I would soon be locked in a life-and-death duel.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "39",
+      "sol": "It would be stupid to announce my presence to an enemy I might soon face in a life-and-death duel. If he had time to prepare, the odds would tilt even further against me.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If he prepared himself, the situation would become even more unfavorable.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "41",
+      "sol": "",
+      "sol_paragraphs": "after P19",
+      "sol_range": [
+        19,
+        19
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had seen plenty of people hurry to arrive ten minutes earlier, only to arrive fifty years early.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "45",
+      "sol": "I had seen more than a few people try to save ten minutes and end up leaving this world fifty years early.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whether a person lived or died depended on their will and perseverance. I did not hurry. I let the current carry me along.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "47",
+      "sol": "Whether someone lived or died depended on their will and perseverance. I didn’t rush. I let the current carry me along.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The brilliantly colored fish that noticed me seemed to hesitate, then cautiously brushed past me.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "51",
+      "sol": "The brightly colored fish that noticed me seemed to hesitate, then cautiously brushed past.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Since I was barely moving, they must not have sensed me as something that posed a threat.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "53",
+      "sol": "I was barely moving, so they must not have taken me for a threat.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If a fish this close could be fooled so easily, it was enough. I suppressed my presence even further and approached the cave.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "57",
+      "sol": "If I could fool fish this close to me, that was enough. I suppressed my presence even further and approached the cave.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I took a small breath in front of the entrance, which was just large enough for one adult man to squeeze through, then pushed my body inside.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "59",
+      "sol": "At the entrance, which was barely wide enough for a grown man to squeeze through, I took a small breath and slipped inside.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Another underwater passage hidden beyond it came into view.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "61",
+      "sol": "Another submerged passage lay hidden beyond it.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*No presence so far.*",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "63",
+      "sol": "*No sign of anyone so far.*",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The passage, no wider than the entrance, was deeper and longer than I had expected.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "65",
+      "sol": "The passage was as narrow as the entrance and much deeper and longer than I had expected.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I sharpened my senses more than ever and searched the passage for any human presence. Only after I was certain there was none did I begin moving again.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "67",
+      "sol": "I sharpened my senses more than ever and searched for any trace of another presence. Only once I was certain there was none did I begin moving again.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I passed several strange-looking fish and aquatic plants. How far had I gone?",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "69",
+      "sol": "I passed several strange-looking fish and clusters of aquatic plants. I had no idea how far I had gone when a faint light appeared in the distance.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A faint light was approaching from far ahead.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "71",
+      "sol": "",
+      "sol_paragraphs": "after P33",
+      "sol_range": [
+        33,
+        33
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This was underwater in Dongting Lake, but it was also a passage inside a cliff. How could there suddenly be light?",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "75",
+      "sol": "This was underwater in Dongting Lake, but it was also a passage running through the inside of a cliff. How could there suddenly be light?",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The passage did angle upward, but its structure left no way for light to leak in.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "77",
+      "sol": "The passage did slope upward, but there was no way its structure could have let light leak in.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I swam gently toward the light, searched my surroundings once more, and finally shot upward toward a small hole in the ceiling of the passage.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "81",
+      "sol": "I swam smoothly toward the light, searched my surroundings once more, then shot upward through a small opening in the ceiling of the passage.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I sucked in a breath.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "85",
+      "sol": "“Hup.”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Damp air seeped deep into my lungs.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "87",
+      "sol": "Damp air filled my lungs.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, I emerged from the water and finally saw the source of the faint light. My eyes widened.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "91",
+      "sol": "The next moment, I climbed out of the water and finally saw the source of the faint light. My eyes widened.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The path stretched into the distance, narrow and dark. Large and small night-shining pearls were embedded at regular intervals across the ceiling, which was only high enough for me to barely straighten my back.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "97",
+      "sol": "A narrow, dark path stretched into the distance. Large and small night-shining pearls had been embedded at regular intervals in the ceiling, which was barely high enough for me to straighten my back.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*A submerged passage and a cave carved inside a cliff. Night-shining pearls, too… At this point, you’d have to be an idiot not to know.*",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "99",
+      "sol": "*A submerged passage and a cave carved inside a cliff. Night-shining pearls, too… You’d have to be an idiot not to figure it out by now.*",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My heart pounded with the thrill of finally finding him and the tension of the battle that would soon begin.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "103",
+      "sol": "My heart pounded with the thrill of finally finding him and the tension of the battle to come.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. It was not just those emotions.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "105",
+      "sol": "No. Those weren’t the only reasons.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That.*",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "107",
+      "sol": "*What’s that?*",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I turned my head, following a strange smell that worked its way into my nose, and saw them.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "109",
+      "sol": "I followed an unfamiliar smell that pricked my nose and turned my head.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A piece of wood lying facedown on the waterlogged floor of the cave, and oil floating on the surface of the water.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "111",
+      "sol": "A charred piece of wood lay on the waterlogged cave floor, and oil floated on the pooled water.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The night-shining pearls embedded in the ceiling were obviously low quality, but that did not mean they were cheap.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "115",
+      "sol": "The pearls embedded in the ceiling were obviously low quality, but that didn’t mean they were cheap.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "야명주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "night-shining pearls"
+        }
+      ]
+    },
+    {
+      "baseline": "I had never heard that the Dongting Fisherman was a tycoon, so torches must have been essential for lighting this long cave.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "117",
+      "sol": "I had never heard that the Dongting Fisherman was fabulously wealthy, so torches must have been essential for lighting such a long cave.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A faint warmth remained in the piece of wood. It was not difficult to infer that the torch had fallen for some reason only one or two *shichen* ago.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "123",
+      "sol": "A faint warmth still lingered in the wood. It wasn’t difficult to deduce that the torch had fallen for some reason no more than one or two *shichen* ago.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was also one fact this situation pointed to.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "125",
+      "sol": "And that pointed to one conclusion.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the end, the person I wanted to find was not a place but a man. Even if I found his secret refuge, it would be useless if the Dongting Fisherman was not there.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "129",
+      "sol": "Ultimately, I wasn’t looking for a place. I was looking for a man. Finding his secret refuge would mean nothing if the Dongting Fisherman wasn’t inside.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But through the torch, the Dongting Fisherman had revealed his presence.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "131",
+      "sol": "But the torch had betrayed his presence.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동정어옹",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dongting Fisherman"
+        }
+      ]
+    },
+    {
+      "baseline": "Even if I were in his position, I would never have expected an intruder to enter a secret refuge hidden this well.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "133",
+      "sol": "Even in his position, I wouldn’t have expected an intruder to find a secret refuge hidden this well.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That’s your mistake.*",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "135",
+      "sol": "*That was your mistake.*",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I rose to my feet and began walking slowly along the path stretching out before me.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "137",
+      "sol": "I rose to my feet and began walking slowly along the path ahead.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had plenty of high-performance equipment, including White Flame, which could be called my favored weapon, Fire Dragon Armor, and the Myriad-Poison Ring. But now was not the time to bring them out.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "139",
+      "sol": "I had plenty of excellent equipment—White Flame, my favored weapon, along with the Fire Dragon Armor and the Myriad-Poison Ring—but now wasn’t the time to bring any of it out.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It would be better to make my opponent lower his guard by showing him that my hands were empty, then take advantage of the benefits my Inventory offered.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "141",
+      "sol": "It would be better to let my opponent see my empty hands and lower his guard, then exploit the advantage my Inventory gave me.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Listening to the irregular sound of water dripping from the ceiling, I walked on and on with my presence suppressed as much as possible.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "145",
+      "sol": "Listening to the irregular patter of water from the ceiling, I walked on with my presence suppressed as much as possible.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The path, straight at first, began to twist. Inclines and declines appeared as well, but I never let down my guard.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "147",
+      "sol": "The path had been straight at first, but it soon began to twist and turn, sloping upward in some places and downward in others. I never let down my guard.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*But… What are these traces?*",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "149",
+      "sol": "*But… what are these marks?*",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It did not take long for me to sense that something was strange.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "151",
+      "sol": "It didn’t take long for me to realize something was strange.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My sharp eye was part of it, but the state of the passage was that abnormal.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "153",
+      "sol": "My sharp eye was part of it, but the passage itself was in an alarming state.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Sections of the walls had been smashed and broken here and there, with rocks jutting out abruptly. Unlike the other places, which were covered in green moss, the freshly broken sections stood out unmistakably.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "155",
+      "sol": "Sections of the walls had been shattered here and there, leaving jagged rocks jutting out. Unlike the rest of the passage, which was covered in green moss, the freshly broken surfaces stood out unmistakably.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Thud-thud.*",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "157",
+      "sol": "*Crackle.*",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I touched it, part of the wall immediately crumbled and fell away.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "159",
+      "sol": "The moment I touched one, part of the wall crumbled away.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*This would be impossible without applying force deliberately.*",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "161",
+      "sol": "*This couldn’t have happened unless someone deliberately used considerable force.*",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The entire cave consisted of solid rock that had accumulated over at least several hundred years.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "163",
+      "sol": "The entire cave was formed from solid rock that had accumulated over at least several hundred years.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To damage it, someone would have to strike with a considerable amount of internal energy. But was there any reason for the Dongting Fisherman to destroy his precious refuge himself?",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "165",
+      "sol": "Damaging it would require a blow carrying a significant amount of internal energy. But why would the Dongting Fisherman destroy his own precious refuge?",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Could there have been a battle here…? No. No, this is definitely the trace of a single person.*",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "167",
+      "sol": "*Was there a battle here…? No. This is clearly the work of one person.*",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was still far from having the insight to discern the nature and roots of martial arts, but having reached the Supreme Peak realm, I had little trouble inferring what had happened from the traces left throughout the passage.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "169",
+      "sol": "I was still far from having the insight needed to identify the nature and origins of a martial art, but as someone who had reached the Supreme Peak realm, I had little trouble piecing together what had happened from the marks left throughout the passage.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무공",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial arts"
+        }
+      ]
+    },
+    {
+      "baseline": "I furrowed my brow and thought deeply for a moment before shaking my head.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "171",
+      "sol": "I furrowed my brow and thought for a moment, then shook my head.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I need to focus on the Dongting Fisherman first. Careless complacency and excessive tension are both forbidden.*",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "173",
+      "sol": "*Focus on the Dongting Fisherman first. I can’t afford to grow careless or let the tension overwhelm me.*",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I kept repeating that to myself as I continued walking.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "175",
+      "sol": "I kept repeating that to myself as I walked.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sudden sound snapped me to attention like a person doused with cold water.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "183",
+      "sol": "The sudden noise jolted me alert as if someone had dumped cold water over my head.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The senses spread wide across my entire body analyzed the sound, then sent new information flowing toward my brain.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "185",
+      "sol": "My fully extended senses analyzed the sound and sent the new information straight to my brain.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "On top of that, the sound echoed unusually deeply and loudly. That meant there was a larger space ahead, not merely this narrow cave passage I was walking through.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "189",
+      "sol": "The sound also echoed with unusual depth and volume. That meant there was a larger space ahead, beyond this narrow cave passage.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I focused every nerve in my toes as they touched the damp cave floor.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "195",
+      "sol": "I focused every nerve on my feet as they touched the damp cave floor.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a blessing that I had used my Scorching Yang Qi beforehand to dry the water that had soaked me through. If water dripping from my body had struck the floor and made a sound, the Dongting Fisherman would have discovered me.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "197",
+      "sol": "Thank goodness I had already used my Scorching Yang Qi to dry myself off. If water dripping from my body had struck the floor, it would have made enough noise to reveal me.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동정어옹",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dongting Fisherman"
+        }
+      ]
+    },
+    {
+      "baseline": "*I have to finish this in the cave. Fighting underwater would make things much harder.*",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "199",
+      "sol": "*I have to finish this inside the cave. Fighting underwater would make things much harder.*",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My opponent was a Supreme Peak master of water arts, one of the best in the world.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "201",
+      "sol": "My opponent was a Supreme Peak master of water arts, one of the finest in the world.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had confidence in my own martial prowess, but if I fought the Dongting Fisherman underwater, I would have to bear the full twenty percent reduction in power the System had warned me about.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "203",
+      "sol": "I was confident in my own martial prowess, but if I fought the Dongting Fisherman underwater, I would have to bear the full twenty-percent reduction in power the System had warned me about.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But this was solid ground—firm land—and that meant there was no debuff.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "205",
+      "sol": "Here, however, I had solid ground beneath my feet. This was land, and naturally, the debuff was gone.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fifty-odd zhang between us rapidly narrowed.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "209",
+      "sol": "The fifty-odd *zhang* between us rapidly dwindled.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Tap. Whoooosh.*",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "211",
+      "sol": "*Splish. Splaash.*",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The incomprehensible sound continued to reach me, serving as an excellent landmark that revealed the distance and direction in real time. As I came to a bend in the cave passage, I relaxed every muscle in my body.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "213",
+      "sol": "The strange sounds continued, serving as perfect markers of distance and direction. As I approached a bend in the cave passage, I relaxed every muscle in my body.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was ready.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "215",
+      "sol": "I was already prepared.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dozens of images flashed before my eyes, showing how I would move and how I would finish him.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "217",
+      "sol": "Dozens of possibilities flashed before my eyes—how I would move, how I would end it.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If the Dongting Fisherman proved too formidable, I would kill him with everything I had. If not, I would capture him and use him to draw out the bigger player behind him.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "219",
+      "sol": "If the Dongting Fisherman proved too formidable, I would use everything I had to kill him. If not, I would capture him and use him to draw out the larger body behind him.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’ll end it in one stroke, like a bolt of lightning.*",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "221",
+      "sol": "*I’ll finish it in a single stroke, like a bolt of lightning.*",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The three *jiazi* of Scorching Yang Qi I had continually replenished through circulation flowed into every limb and bone of my body.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "225",
+      "sol": "The three *jiazi* of Scorching Yang Qi I had continually replenished through circulation surged into every limb and bone.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I infused hundreds of acupoints and the Eight Extraordinary Meridians with searing heat, maximizing every physical ability.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "227",
+      "sol": "Searing heat flooded hundreds of acupoints and the Eight Extraordinary Meridians, driving every physical ability to its limit.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Pop!*",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "231",
+      "sol": "*Fwoosh!*",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I gently stepped onto the slanted wall and shot forward.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "235",
+      "sol": "I planted a foot lightly against the slanted wall and shot forward.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A space roughly thirty *zhang* in radius, presumably the center of the cave.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "237",
+      "sol": "The passage opened into a chamber some thirty *zhang* in radius, presumably the heart of the cave.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Toward a white-haired old man crouching with his back turned to me.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "239",
+      "sol": "At its center, a white-haired old man crouched with his back to me.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A silent cry rang out within me.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "243",
+      "sol": "The silent cry rang through me.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was hard to believe that this small, shabby old man had harmed so many people. The anger I had buried for a while surged up as a cold flame.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "245",
+      "sol": "It was hard to believe that this small, shabby old man had harmed so many people. The anger I had buried for a time surged up as a cold flame.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the world slowed, the unknown power of the System covered my entire body as I charged toward the Dongting Fisherman.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "249",
+      "sol": "As the world slowed, the mysterious power of the System enveloped my charging body.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "동정어옹",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Dongting Fisherman"
+        }
+      ]
+    },
+    {
+      "baseline": "Red armor wrapped around my bare upper body: Fire Dragon Armor.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "253",
+      "sol": "Red armor wrapped around my bare upper body.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "화룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "fire dragon"
+        },
+        {
+          "korean": "화룡갑",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Fire Dragon Armor"
+        }
+      ]
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P126",
+      "baseline_range": [
+        126,
+        126
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "253",
+      "sol": "The Fire Dragon Armor.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, as a cluster of light visible only to me brushed against my fingers, it transformed into the divine treasure known as the Myriad-Poison Ring. At the same time, a spear with a transparent blade appeared in my hand.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "255",
+      "sol": "Then a cluster of light visible only to me brushed my finger and transformed into the divine artifact known as the Myriad-Poison Ring. At the same time, a spear with a transparent blade appeared in my grasp.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, three *jiazi* of Scorching Yang Qi seeped into all of it.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "257",
+      "sol": "The next moment, three *jiazi* of Scorching Yang Qi flooded into them all.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The damp air vanished. The river water pooled on the floor vanished. Even the droplets falling from above vanished.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "261",
+      "sol": "The damp air vanished. The river water pooled across the floor vanished. Even the droplets falling from overhead vanished.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Blue-white Force rose from White Flame’s transparent spearhead like a wildfire, burning through everything in its path.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "265",
+      "sol": "Blue-white Force blazed like wildfire across White Flame’s transparent spear blade, burning through everything in its path.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was one person in the direction toward which that hot and destructive concentration of energy was headed.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "267",
+      "sol": "And one man stood directly in the path of that searing, destructive concentration of power.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The arrow had been fired, and the bird that had been resting in its nest would not be able to escape.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "271",
+      "sol": "The arrow had already been loosed. The bird resting in its nest could not escape.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To me, the Dongting Fisherman was no different from that bird.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "273",
+      "sol": "To me, the Dongting Fisherman was that bird.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if it realized the truth too late, it could not stop an arrow that had already been fired.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "277",
+      "sol": "Even if it realized the danger now, it could not stop an arrow already in flight.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if the bird hurriedly spread its wings, it could not avoid being killed or injured.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "277",
+      "sol": "Even if it hurriedly spread its wings, it could not avoid death or injury.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just like the Dongting Fisherman, who was turning his body very slowly right now.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "277",
+      "sol": "Just like the Dongting Fisherman, who was now turning toward me with agonizing slowness.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the next moment, I realized something.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "277",
+      "sol": "But in the next instant, I realized my mistake.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I should never have been so quick to assume.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "277",
+      "sol": "I had been too quick to assume.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A snow-white streak of light flew in from somewhere and struck White Flame’s spearhead.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "277",
+      "sol": "A snow-white streak of light flew in from somewhere and slammed into White Flame’s spear blade.",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 144,
+  "sol_sha256": "35185e6725746a9d2cb6ee12e2df3080a5839386c9d334c326fd67e0c3de2c16",
+  "version": 1
+}
