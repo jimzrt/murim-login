@@ -2294,3 +2294,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 한국 | **Korea** | Destination of the international Hunters and Guild Masters. |
 | 진 | **Jin** | Public shorthand for Jin Taekyung used in online discussion. |
 | 제1 국회의사당 | **First National Assembly Hall** | Venue of the inaugural ceremony. |
+| 파리 대전투 | **Great Battle of Paris** | Major battle during the Great Cataclysm commemorated in the First National Assembly Hall. |

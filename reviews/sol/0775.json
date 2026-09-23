@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But I wasn’t an ordinary civilian.",
+      "defect": "The source contrasts an ordinary civilian’s confusion with Jin’s understanding; the draft instead makes a statement about Jin’s civilian status.",
+      "id": "F01",
+      "rationale": "적어도 나는 아니다 refers back to wondering what Michael meant, not to being an ordinary civilian.",
+      "replacement": "But I knew exactly what he meant.",
+      "severity": "major",
+      "source": "평범한 민간인이 이 모습을 지켜봤다면 무슨 엉뚱한 소리인가 싶겠지만, 적어도 나는 아니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Michael Silbert stared absently at the firmly closed door over my shoulder, then nodded.",
+      "defect": "“Absently” makes Michael seem distracted, whereas 물끄러미 describes a sustained, deliberate gaze immediately before he confirms the concealed target’s presence.",
+      "id": "F02",
+      "rationale": "The deliberate gaze supports the following detection mechanism and Michael’s controlled demeanor.",
+      "replacement": "Michael Silbert gazed steadily at the firmly closed door over my shoulder, then nodded.",
+      "severity": "major",
+      "source": "내 어깨 너머로 굳게 닫힌 문을 물끄러미 바라보던 미카엘 실베르트가 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The moment he discovered the target he wanted, his qi wave was instantly gathered back into his master’s body.",
+      "defect": "“His master’s body” invents a separate superior or owner for Michael, changing identity and hierarchy. The qi wave is being withdrawn into the body of its owner—Michael himself.",
+      "id": "F03",
+      "rationale": "주인의 몸 refers to the body belonging to the qi wave’s owner, not the body of Michael’s master.",
+      "replacement": "The instant the desired target was found, his qi wave was drawn back into his own body.",
+      "severity": "critical",
+      "source": "원하는 목표를 발견하자마자 순식간에 주인의 몸 안으로 갈무리되는 놈의 기파(氣波)를."
+    },
+    {
+      "confidence": 1.0,
+      "current": "It was completely natural, carried out with practiced skill. He looked less like a Hunter and more like a supreme martial arts master of the Murim.",
+      "defect": "The draft turns the formal realm 초절정 into a generic description and therefore loses Michael’s stated power hierarchy.",
+      "id": "F04",
+      "rationale": "초절정 is the established realm term “Supreme Peak,” not merely an adjective meaning highly skilled.",
+      "replacement": "It was completely natural, carried out with practiced skill. He looked less like a Hunter and more like a Supreme Peak master of the Murim.",
+      "severity": "major",
+      "source": "그것은 아주 자연스러우면서도 숙련된 솜씨였고, 헌터보다는 무림의 초절정 고수에 가까운 모습이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A thousand Hunters stationed in the city fought a street battle against monsters numbering dozens of times their own strength.",
+      "defect": "The source compares the monsters’ number with the Hunters’ number, while “their own strength” shifts the comparison toward combat power and produces an incoherent quantity.",
+      "id": "F05",
+      "rationale": "수십 배에 달하는 describes a force numbering dozens of times as many monsters as the thousand Hunters.",
+      "replacement": "A thousand Hunters stationed in the city waged an urban battle against monsters that outnumbered them dozens of times over.",
+      "severity": "major",
+      "source": "파리에 주둔하고 있던 천 명의 헌터들은 수십 배에 달하는 몬스터들을 상대로 시가전을 펼쳤더랬다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Without any support.\n\nIt had been nothing short of slaughter.",
+      "defect": "“Slaughter” recasts the desperate, grueling nature of the unsupported fighting as a massacre, changing the battle’s characterization.",
+      "id": "F06",
+      "rationale": "처절하게 emphasizes desperate and harrowing struggle, not necessarily one-sided slaughter.",
+      "replacement": "Without any support.\n\nA desperate struggle in every sense of the word.",
+      "severity": "major",
+      "source": "어떤 지원도 없이. 말 그대로 처절하게."
+    },
+    {
+      "confidence": 0.99,
+      "current": "when even the last year of 2020 had completely drawn to a close",
+      "defect": "The draft misreads 해 as “year,” yielding the impossible phrase “the last year of 2020” and losing the image of the year’s final sun setting.",
+      "id": "F07",
+      "rationale": "Here 해 is the sun, reinforced by 기울었을 때, which describes it sinking or setting.",
+      "replacement": "when even the final sun of 2020 had fully set",
+      "severity": "minor",
+      "source": "그리고 일곱 번의 밤낮이 지나고 2020년의 마지막 해마저 완전히 기울었을 때."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Whenever I came home after class, she was always lying on that worn-out sofa, twitching and moaning. With strange men I had never seen before.",
+      "defect": "“Twitching and moaning” adds explicit physical and sexual behavior absent from the source, which leaves her condition and activity euphemistic.",
+      "id": "F08",
+      "rationale": "흐느적거리고 conveys limp or languid movement; it does not state that she moaned.",
+      "replacement": "Whenever I came home after class, she was always sprawled limply across that worn-out sofa. With strange men I had never seen before.",
+      "severity": "major",
+      "source": "내가 수업을 끝마치고 돌아오면 항상 낡아빠진 소파 위에 누워 흐느적거리고 있었지. 처음 보는 낯선 남자들과 함께."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You’re looking at me as though I were a monster. Are you afraid of me now?”\n\n“Now?”",
+      "defect": "The draft treats 이제 as the point Jin challenges and drops the additive 도. Jin is questioning Michael’s claim that he, too, has joined the others who fear him.",
+      "id": "F09",
+      "rationale": "자네도 means “you too,” which directly prompts Michael’s explanation that everyone who knows him reacts with fear and respect.",
+      "replacement": "“You’re looking at me as though I were a monster. Now you’re afraid of me too?”\n\n“Me too?”",
+      "severity": "major",
+      "source": "“마치 괴물을 마주한 것 같은 눈빛이군. 이제 자네도 내가 두려워졌나?”\n\n“자네도?”"
+    }
+  ],
+  "summary": "The draft contains one critical identity/mechanism error and several meaningful losses involving perception, rank terminology, quantity, battle characterization, euphemistic phrasing, and dialogue logic.",
+  "version": 1
+}
