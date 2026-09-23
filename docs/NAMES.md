@@ -2274,3 +2274,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 조엘 | **Joel** | Given name of Joel Schumacher. |
 | 다니엘 다이스케 | **Daniel Daisuke** | Person blamed for the cancellation of the anti-Jin rally. |
 | 케이프타운 | **Cape Town** | South African city used as the comparison point for the Munich Monster Wave. |
+| 피터 | **Peter** | Child watching the broadcast with his parents. |
+| 세계 헌터 연맹 | **World Hunter Federation** | Historical federation of Hunters that followed Cheon Taemin during the Great Cataclysm. |
+| 국제 헌터 연맹 | **International Hunter Federation** | Name of the surviving remnant of the historical World Hunter Federation. |
+| 독일 연방군 | **German Armed Forces** | Military personnel controlling the reporters at the Munich event. |
