@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "With his eyes trembling, Jeok Cheongang looked down at the white hand that had sunk halfway into his side.",
+      "defect": "Names the hand before the source reveals what has entered his side.",
+      "id": "F01",
+      "rationale": "The source calls it 무언가, “something,” until the following sentence identifies the hand.",
+      "replacement": "Jeok Cheongang looked down, his eyes trembling, at something buried halfway in his side.",
+      "severity": "minor",
+      "source": "적천강은 파르르 떨리는 눈빛으로 자신의 옆구리를 반쯤 파고든 무언가를 내려다보았다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "A powerful palm strike penetrated deep into his body, and Jeok Cheongang twisted away in a flash.",
+      "defect": "Makes the penetrating attack sound like a physical palm strike rather than force driven into him.",
+      "id": "F02",
+      "rationale": "장력 is the force of the palm attack; its penetration and Jeok’s evasive movement occur almost simultaneously.",
+      "replacement": "Powerful force from the palm drove deep inside him at almost the same instant Jeok Cheongang twisted away in a flash.",
+      "severity": "major",
+      "source": "강력한 장력(掌力)이 몸속 깊숙이 침투해온 것과, 적천강이 섬광처럼 몸을 비틀어낸 것은."
+    },
+    {
+      "confidence": 0.88,
+      "current": "His severed blood vessels screamed.",
+      "defect": "Turns the damaged channels carrying his martial energy into ordinary blood vessels.",
+      "id": "F03",
+      "rationale": "혈맥 here are the channels strained as he draws up his power despite their damage.",
+      "replacement": "His torn meridians screamed.",
+      "severity": "major",
+      "source": "가닥가닥 끊겨 나간 혈맥이 비명을 지른다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The words he couldn’t bring himself to say were stopped by his tightly closed lips. But the heat of the Scorching Yang Qi surging through every part of his body was not.",
+      "defect": "Omits the several jiazi of accumulated Scorching Yang Qi and substitutes its heat for the qi itself.",
+      "id": "F04",
+      "rationale": "수 갑자의 specifies the immense accumulated quantity; it is the qi, not merely its heat, that surges despite his restraint.",
+      "replacement": "His tightly closed lips held back the words he left unsaid. But they could not hold back several *jiazi*’ worth of Scorching Yang Qi as it surged through his body, setting every limb and meridian ablaze.",
+      "severity": "major",
+      "source": "미처 흘리지 못한 뒷말은 굳게 다문 입술에 가로막혔으나, 사지백해를 뜨겁게 달구며 용솟음친 수 갑자의 열양지기는 아니었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Master!”",
+      "defect": "Replaces Jin’s established private address for Jeok with a different form of address.",
+      "id": "F05",
+      "rationale": "노야 is mapped to “Old Master” and distinguishes Jin’s intimate cry from a generic address to his martial master.",
+      "replacement": "“Old Master!”",
+      "severity": "major",
+      "source": "- 노야!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He’d heard my shout, then suddenly turned his body to block the direction we were facing.",
+      "defect": "Changes the direction the group was heading into the direction they were facing, obscuring Jeok’s protective repositioning.",
+      "id": "F06",
+      "rationale": "우리가 향하는 방향 is where they were heading; Jeok moved to block that direction.",
+      "replacement": "He’d heard my shout and suddenly shifted to place himself across the path we were headed down.",
+      "severity": "major",
+      "source": "내 외침을 들은 그가 불현듯 신형을 틀어 우리가 향하는 방향을 가로막는 모습을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Two people rushed over when they saw me stagger.",
+      "defect": "Omits that the two people catch and support Jin by both arms.",
+      "id": "F07",
+      "rationale": "양팔을 붙잡았다 is a concrete action, not merely their approach.",
+      "replacement": "When I staggered, two people hurried over and grabbed me by both arms.",
+      "severity": "major",
+      "source": "순간 비틀거리는 내 모습에 다급히 다가온 두 사람이 양팔을 붙잡았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“I once had a sect, too. A Master who became my parent, my family, and many Senior and Junior Brothers.”",
+      "defect": "Attaches both ‘parent’ and ‘family’ to the Master, leaving the fellow disciples outside the stated family bond.",
+      "id": "F08",
+      "rationale": "The Master and fellow disciples collectively filled the roles of parent and family, respectively.",
+      "replacement": "“I once had a sect, too. A Master who became a parent to me, and countless Senior and Junior Brothers who became my family.”",
+      "severity": "major",
+      "source": "한때는 내게도 사문이 있었지. 부모가, 가족이 되어 주었던 스승과 수많은 사형제들이."
+    },
+    {
+      "confidence": 0.95,
+      "current": "No—the past had already come and gone.",
+      "defect": "Treats the past as merely over, rather than identifying it as what lies at the end of his gaze.",
+      "id": "F09",
+      "rationale": "This sentence corrects the preceding image of the Emperor at the end of Cang Gong’s gaze.",
+      "replacement": "No—what lay there was a past that had long since slipped away.",
+      "severity": "major",
+      "source": "아니, 이미 흘러 지나가 버린 과거가 있었다."
+    }
+  ],
+  "summary": "Several action and mechanism details are lost, including an early reveal of the attacker’s hand, the force of his palm attack, and Jeok Cheongang’s accumulated qi.",
+  "version": 1
+}
