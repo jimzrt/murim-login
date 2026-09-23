@@ -2,7 +2,7 @@
 
 Henan was a land with a long and storied history.
 
-It was home to sprawling thousand-year-old capitals such as Kaifeng and Luoyang, cities that had served as the seats of numerous dynasties. It also offered breathtaking natural scenery and all sorts of famous landmarks, including four great mountains.
+It was home to ancient cities such as Kaifeng and Luoyang, which had served as capitals for numerous dynasties. It also offered breathtaking scenery and famous historic sites, including four great mountains.
 
 Visitors came year-round. Naturally, there were plenty of inns, pleasure houses, and other places for entertainment and lodging.
 
@@ -52,9 +52,7 @@ For a moment, the innkeeper wondered if he might be a martial artist. But he loo
 
 “They’re all people who want to begin their era of success. You must have heard that song, too. ‘Join the Murim Alliance’s Two Dragons Pavilion, and—’”
 
-The old man began humming a lively tune.
-
-The innkeeper’s shoulders instinctively began to sway. Then his eyes widened.
+The old man began singing the lively tune. The innkeeper’s shoulders swayed before he caught himself, and his eyes widened.
 
 “Ah. Are you talking about that… Two Dragons Pavilion?”
 
@@ -64,7 +62,7 @@ The innkeeper’s shoulders instinctively began to sway. Then his eyes widened.
 
 The innkeeper let out a short gasp.
 
-He had known that the person staying in the detached building was a young knight-errant famous throughout the martial world. But he had never imagined that he was the Pavilion Master of the Two Dragons Pavilion everyone was talking about.
+He had known that the guest staying in the detached building was a young knight-errant famous throughout the martial world. He had never imagined the young man was the Pavilion Master everyone was talking about.
 
 “So that’s why so many martial artists have come here. But even so, I never imagined there would be this many…”
 
@@ -94,7 +92,7 @@ The old man wiped his wine-soaked beard with his sleeve. As his robe shifted, a 
 
 “I’m a martial artist too. Like them. Unlike you.”
 
-“Gasp.”
+“Ah!”
 
 “There’s no need to be so frightened. This old man doesn’t lay a hand on commoners.”
 
@@ -120,7 +118,7 @@ Someone appeared on the stairs.
 
 The young man, Hyuk Mujin, jumped in surprise. A flicker of disappointment crossed the faces of those watching.
 
-But the Peak masters, who had sensed his aura long before he appeared, merely muttered calmly.
+The Peak masters, who had sensed his aura well before he appeared, merely muttered among themselves.
 
 “He’s not the Blazing Flame Divine Dragon.”
 
@@ -130,7 +128,7 @@ But the Peak masters, who had sensed his aura long before he appeared, merely mu
 
 “I agree. And if it’s the Blazing Flame Divine Dragon, I suppose he can send someone in his place.”
 
-Hyuk Mujin looked sourly at the enormous crowd murmuring around him and cleared his throat.
+Voices drifted in from every direction. Hyuk Mujin regarded the murmuring crowd uneasily and cleared his throat.
 
 “Ahem. The Captain—I mean, the Pavilion Master—has ordered me to begin the interviews. I’ll call you by name, one at a time. Please follow me when your turn comes.”
 
@@ -138,7 +136,7 @@ Reaching the Peak realm meant being recognized as a master anywhere in Murim. Th
 
 A thirsty man had to dig his own well. Having come here, they had to put up with it.
 
-“I understand perfectly well, so stop spouting nonsense and call the names already.”
+“We understand, so stop spouting nonsense and call the names already.”
 
 Hyuk Mujin’s eyes widened at the rough-looking middle-aged wandering martial artist.
 
@@ -146,7 +144,7 @@ Hyuk Mujin’s eyes widened at the rough-looking middle-aged wandering martial a
 
 “What is?”
 
-“Ah, it’s nothing. The Pavilion Master told me to reject anyone who uses informal speech and acts rudely the first time they meet someone, no exceptions. I didn’t expect to find someone so quickly.”
+“Ah, nothing. The Pavilion Master told me to reject anyone who speaks rudely to someone they’ve just met. No exceptions. I didn’t expect to find one so quickly.”
 
 “……What?”
 
@@ -170,13 +168,13 @@ Hyuk Mujin pulled a bamboo slip bearing the man’s personal details from the pu
 
 “You little—!”
 
-“If you keep this up, our Pavilion Master will come down himself and say, ‘You bastard!’”
+“If you keep this up, our Pavilion Master will come down himself and give you a ‘You bastard!’”
 
 *What kind of person was this?*
 
 The Black Blood Saber and everyone watching stood with their mouths open.
 
-People said that if not for his foul temper, he could become the Sect Leader of a school that very day and build it into a mid-level sect.
+The Black Blood Saber was renowned for his strength even in the rough world of wandering martial artists. People said that if not for his foul temper, he could become a Sect Leader that very day and build a school into a respectable sect.
 
 Yet Hyuk Mujin did not so much as blink before the aura he released.
 
@@ -196,7 +194,7 @@ The Peak masters went rigid as they sensed the source of the overwhelming aura p
 
 *What incredible internal energy…!*
 
-*One level above me. No—two levels.*
+*One step above me. No—two.*
 
 *What in the world…?*
 
@@ -216,7 +214,7 @@ The sudden appearance of a Supreme Peak master froze the entire gathering.
 
 *Is that truly Old Man Ilyang?*
 
-*Th-That old monster… What is he doing here?*
+*What is that old monster doing here…?*
 
 No one present could compare to him. It was doubtful they could bring him down even if they all attacked together.
 
@@ -238,7 +236,7 @@ Old Man Ilyang, of all people, wanted to join the Two Dragons Pavilion under a P
 
 Hyuk Mujin turned away, flustered. He did not see the ominous heat in Old Man Ilyang’s eyes.
 
-*The Fire Gate Clan. The Fire Gate Clan, huh? Heh heh. At long last, an opportunity has come even to this old man.*
+*The Fire Gate Clan. The Fire Gate Clan, huh? Heh heh. At long last, my chance has come.*
 
 Blazing Flame Divine Dragon Jin Taekyung? Whether the rumors about him were true did not matter.
 
@@ -254,9 +252,9 @@ With the Fire Gate Clan’s martial arts, he could. He could even claim the titl
 
 The moment the Two Dragons Pavilion received a mission and left Henan would be his chance.
 
-Dark Heaven? The Murim Alliance? What did he care what became of Murim’s fate?
+Dark Heaven? The Murim Alliance? What did the fate of the martial world matter to him?
 
-The corner of his mouth, covered in age spots, twitched.
+His age-spotted mouth twitched.
 
 “Heh heh. Hahaha.”
 
@@ -270,11 +268,11 @@ Name: Won Cheol.
 
 Sobriquet: Old Man Ilyang.
 
-His martial arts realm was Supreme Peak.
+Martial arts: Supreme Peak.
 
 It was a practically perfect profile, without a single thing to criticize.
 
-But the special judge he had suddenly found himself facing had a different opinion.
+But the special judge I had suddenly brought in thought otherwise.
 
 “He’s got the eyes of a bastard who’d stab you in the back the first chance he got.”
 
@@ -288,7 +286,7 @@ Extreme Yang energy surged from the blow, enough to turn anything in its path to
 
 Old Man Ilyang sucked in a sharp breath and hurriedly crossed his arms to block it, but the difference in strength was obvious.
 
-*That’s bad.*
+*That won’t work.*
 
 Even Scorching Yang Qi had its levels. If Old Man Ilyang’s qi was an ordinary flame, Fire King Jeok Cheongang’s was lava.
 
@@ -300,7 +298,7 @@ Bones shattered, and Old Man Ilyang’s eyes lost focus.
 
 I watched with genuine regret and shouted, “No! The ace—!”
 
-But once Jeok Cheongang’s fist began spitting fire, it did not stop.
+But once Jeok Cheongang’s fists started flying, they did not stop.
 
 Wham! Wham! Wham-wham-wham!
 
@@ -310,9 +308,9 @@ As if to show off his regained youth, he drove qi-packed punches into every part
 
 *Wow. I’m seeing the pit of fire right here.*
 
-Was this audition genre hip-hop?
+Was this a hip-hop audition?
 
-One Sun—no, Old Man Ilyang, who had not even received a necklace, lost consciousness without managing a single proper counterattack.
+One Sun—no, Old Man Ilyang—hadn’t even received a necklace. He lost consciousness without managing a single proper counterattack.
 
 Thud.
 
@@ -320,7 +318,7 @@ Old Man Ilyang collapsed like crumbling ash. Jeok Cheongang stood looking down a
 
 “……I’m glad you had a reason, at least. I thought you’d gone mad, Old Master.”
 
-“Better late than never. I can’t stand the sight of him, so get him out of here.”
+“I remembered eventually, didn’t I? Now get him out of here. I can’t stand the sight of him.”
 
 Not long after Old Man Ilyang’s corpse—or rather, his body—was carried away, a commotion broke out outside.
 
@@ -336,13 +334,13 @@ Jeok Cheongang caught my resentful look and answered bluntly.
 
 “You could’ve gone a little easier on him. Wanting to get his hands on some martial arts isn’t a capital crime. He hadn’t actually done anything yet. You could’ve just rejected him quietly.”
 
-“Tsk, tsk. What an innocent fool. People like that always cause trouble eventually. You have to stamp out a spark before it becomes a fire.”
+“Tsk, tsk. What an innocent fool. People like that always cause trouble eventually. You have to stamp out a spark before it catches.”
 
 “……Don’t people usually say you should uproot weeds?”
 
 “You can leave weeds alone. A spark can burn down a mountain.”
 
-I mean, what was he, the chairman of a forest conservation society?
+What was he, the chairman of a forest conservation society?
 
 I was muttering inwardly in disbelief when Jeok Cheongang continued.
 

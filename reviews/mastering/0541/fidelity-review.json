@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "People said that if not for his foul temper, he could become the Sect Leader of a school that very day and build it into a mid-level sect.",
+      "defect": "The assembled copy omits that the Black Blood Saber was already renowned as a powerful fighter even among the rough world of wandering martial artists. The source and accepted baseline both include this characterization.",
+      "id": "F01",
+      "rationale": "The source explicitly establishes his reputation among wandering martial artists before describing his potential as a sect leader.",
+      "replacement": "The Black Blood Saber was a renowned powerhouse even among the rough world of wandering martial artists. People said that if not for his foul temper, he could become the Sect Leader of a school that very day and build it into a mid-level sect.",
+      "severity": "minor",
+      "source": "Korean lines 185–187"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one source detail omitted compared with both the Korean and the accepted baseline.",
+  "version": 1
+}
