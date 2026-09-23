@@ -1,0 +1,115 @@
+{
+  "chapter": 797,
+  "files": {
+    "characters/Felix.md": "1985fcd32417e4b85bfa07c6059dab48d28678f448f5fa85bf3b8f39a71b8779",
+    "characters/Huginn.md": "6f9540aab4742421b61433f98377ea01000f8046ec9c17671844f2aa62bb2ad7",
+    "characters/Michael.md": "83f7c663ab2e55be48b8797094b6263c7bc5af8409e447c1cbb0a75e253cc80e",
+    "characters/The Prophet.md": "2075572a5e0babce68ae365ed4937b162a9fefec2c4dd548f27cab441e5a137b",
+    "characters/Yamamoto.md": "904f8e2202fbca2ddec9949e1a3e400fc5b1d6514473b0e5c88e023e83f3bd3d",
+    "docs/ADDRESS.md": "4a0c96e30d11ab7a2dbfa66db966db299ed0a18441394d9a45bce2e4b5d500a6",
+    "docs/CONTEXT.json": "6642ab699739d3453d420aa3edea507be275fa5f7b977928a7cf486e67c3352e",
+    "docs/NAMES.md": "97c6dd5161ec61a3fa52be729a8ce6bbdcdcabe92ff1394a89858fdd6b8da351",
+    "docs/STATE.md": "81cddeb8c06f7e83a65ab5a27f8c4bdd47a9e50b5b5b1b58225c8456467e816e",
+    "summaries/beats/0797.md": "65cb05e83f4ca18500f8fee04a4e1e20f3b2190b0a280b9fa041bef9ba616bb9"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "야마모토 겐지",
+        "kinship": "enemy addressing a Japanese S-rank Hunter",
+        "normal_address": "foolish servant",
+        "notes": "The Prophet calls Yamamoto a foolish servant as he tries to flee.",
+        "speaker": "선지자",
+        "speech_level": "contemptuous and commanding"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Prophet is revealed as the attacker responsible for the massacre of J1 team members; Yamamoto Genji is alive at the scene but facing The Prophet as reinforcements arrive.",
+        "The withdrawal of the dispersed search teams is underway; more than 70 percent have returned, but teams remain in transit or temporarily out of contact.",
+        "The Skeleton King’s undead force is moving among the search teams and has alarmed F6; headquarters requests his support after J1 reports casualties."
+      ],
+      "plot": [
+        "At the strategy headquarters, Jin Taekyung and the command staff assess Huginn’s confession and conclude The Prophet may be powerful enough to defeat a Grand Mage alone—or may have known Siegfried Wassmann personally. As search teams withdraw, the Skeleton King’s undead army alarms one team before J1 reports multiple dead and injured in an attack. Jin rushes toward the reported fighting. At the attack site, The Prophet has slaughtered nearly all of Yamamoto Genji’s group; Yamamoto is the only one still alive when reinforcements arrive."
+      ],
+      "translation_decisions": [
+        "Keep magical power distinct from mana.",
+        "Render 질풍불참 as “Swift No-Show” in the Genji/Switch Strike joke."
+      ]
+    },
+    "chapter": 797,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and is pursuing the Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet leads the revived Hasasin and is an exceptionally powerful combatant; he has attacked J1 during the search-team withdrawal.",
+        "Yamamoto Genji is alive at the scene of The Prophet’s attack on J1, with reinforcements arriving.",
+        "Search teams are withdrawing from the region; more than 70 percent have returned, while some remain in transit or temporarily out of contact.",
+        "The Skeleton King’s undead force is moving among the search teams; headquarters has requested his support at J1."
+      ],
+      "continuity_sources": [
+        796,
+        797
+      ],
+      "open_questions": [
+        "Who is the current Prophet, and where is he?",
+        "What caused the deaths of Siegfried Wassmann and the twenty people found in the desert?",
+        "What disappeared from the desert without a trace, as described by the Skeleton King?",
+        "What components does The Prophet still need, and what is he preparing?",
+        "Will Yamamoto Genji survive The Prophet’s attack, and who else from J1 survived?"
+      ],
+      "safe_through": 797,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Render 질풍불참 as “Swift No-Show” in the Genji/Switch Strike joke."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Chuck Hagel",
+        "korean": "척 헤이글",
+        "notes": "Strategy headquarters leader."
+      },
+      {
+        "english": "Siegfried Wassmann",
+        "korean": "지크프리트 바스만",
+        "notes": "Grand Mage killed before this chapter."
+      },
+      {
+        "english": "Magic Johnson",
+        "korean": "매직 존슨",
+        "notes": "Hunter assisting with the search operation."
+      },
+      {
+        "english": "Faye Chen",
+        "korean": "파이 첸",
+        "notes": "Hunter assisting with the search operation."
+      },
+      {
+        "english": "Haruka",
+        "korean": "하루카",
+        "notes": "J1 team member killed by The Prophet."
+      },
+      {
+        "english": "Yamamoto Genji",
+        "korean": "야마모토 겐지",
+        "notes": "Japanese S-rank Hunter."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** The Prophet is the mysterious leader of the revived Hasasin, a Middle Eastern terrorist organization preparing further attacks against apostates and Western heretics.",
+        "path": "characters/The Prophet.md",
+        "replacement": "- **Role:** The Prophet is the mysterious, exceptionally powerful leader of the revived Hasasin, a Middle Eastern terrorist organization preparing further attacks against apostates and Western heretics."
+      },
+      {
+        "current": "- **Role:** Yamamoto Genji is a Japanese S-rank Hunter whose delayed arrival during the Leviathan incident became a subject of post-raid media discussion.",
+        "path": "characters/Yamamoto.md",
+        "replacement": "- **Role:** Yamamoto Genji is a Japanese S-rank Hunter and the sole known survivor at the scene of The Prophet’s attack on J1 as reinforcements arrive."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

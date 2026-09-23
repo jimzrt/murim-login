@@ -2311,3 +2311,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 헨리 | **Henry** | Name called out while the bodies are being identified. |
 | 야마모토 한조 | **Yamamoto Hanzo** | Named in online comments as Yamamoto Genji’s older brother. |
 | 무타구치 렌야 | **Mutaguchi Renya** | Historical Japanese officer mentioned in an online comment. |
+| 하루카 | **Haruka** | J1 team member killed by The Prophet. |

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "For a command center assembled in only a few days, the main headquarters had managed to build an impressive structure and amass tremendous forces.",
+      "defect": "Turns the main force’s command organization into a command center and makes its organizational system sound like a physical structure.",
+      "id": "F01",
+      "rationale": "본대 지휘부 refers to the main force’s command; 짜임새 있는 체계 is its coherent organization.",
+      "replacement": "Though the main force’s command had been assembled in only a few days, it had established a well-organized system and amassed tremendous fighting strength.",
+      "severity": "major",
+      "source": "본대 지휘부는 불과 며칠 만에 편성된 것치고는 짜임새 있는 체계와 엄청난 전력을 구축할 수 있었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“I knew Siegfried, even if we weren’t close, so I could’ve taken him out easily. But given how reclusive Siegfried was… who knows? It would’ve been close to impossible.”",
+      "defect": "Leaves Hagel’s easy access and the near-impossibility sounding contradictory, obscuring that the obstacle applies to someone Siegfried did not know.",
+      "id": "F02",
+      "rationale": "Hagel contrasts his existing acquaintance with the difficulty of approaching the reclusive Siegfried without one.",
+      "replacement": "“I’d met Siegfried, even if we weren’t close, so I could’ve taken him out easily. But for someone he didn’t know, given how reclusive he was? That’d be close to impossible.”",
+      "severity": "major",
+      "source": "나야 친하진 않더라도 면식이 있는 상태니까 손쉽게 처치할 수 있었겠지. 하지만 지크프리트의 폐쇄적인 성향을 생각한다면, 글쎄. 거의 불가능에 가까워."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The Prophet was someone Siegfried knew personally.”",
+      "defect": "Implies a closer relationship than the mere prior acquaintance needed for Hagel’s explanation.",
+      "id": "F03",
+      "rationale": "일면식 indicates that they had met, not necessarily that they knew each other personally.",
+      "replacement": "“The Prophet was someone Siegfried had met before.”",
+      "severity": "major",
+      "source": "아니면…… 놈의 정체가 지크프리트와 일면식이 있는 누군가거나."
+    },
+    {
+      "confidence": 0.95,
+      "current": "At Team Leader Choi’s cautious question, Chuck Hagel clicked his tongue.",
+      "defect": "Changes a lip-smacking gesture into a tongue click, suggesting a different reaction.",
+      "id": "F04",
+      "rationale": "입맛을 다셨다 describes smacking or wetting one’s lips.",
+      "replacement": "At Team Leader Choi’s cautious question, Chuck Hagel smacked his lips.",
+      "severity": "minor",
+      "source": "최 팀장의 신중한 질문에 척 헤이글이 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Caught in the pressure, the sand rose into the air and was cut apart as they hacked at the enemy who had killed their precious comrade.\n\nOr so they thought.",
+      "defect": "Says the Hunters hacked at the enemy; the source says they cut the rising sand and only thought they could cut the enemy down.",
+      "id": "F05",
+      "rationale": "The sand is what their blades actually cut; striking the enemy remains an expectation overturned by the next attack.",
+      "replacement": "They sliced through sand thrown up by the force of their swings, certain they could hack apart the enemy who had killed their precious comrade.\n\nOr so they thought.",
+      "severity": "critical",
+      "source": "풍압에 휩쓸려 솟아오른 모래를 베고, 소중한 동료를 죽인 적을 난도질했다.\n\n아니, 그럴 수 있을 것이라 생각했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Hundreds dwindled to a hundred, and a hundred to dozens. It took barely ten minutes.",
+      "defect": "Barely ten minutes suggests ten or fewer, rather than a little over ten.",
+      "id": "F06",
+      "rationale": "십여 분 남짓 places the duration just over ten minutes.",
+      "replacement": "Hundreds dwindled to a hundred, and a hundred to dozens. It took only a little over ten minutes.",
+      "severity": "minor",
+      "source": "수백이 일백으로, 일백이 수십으로 줄어들기까지 걸린 시간은 불과 십여 분 남짓."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A gulf so great that he couldn’t even flee in fear. So great that he couldn’t swing the sword he’d drawn.",
+      "defect": "“Flee in fear” suggests flight driven by fear, whereas fear has immobilized him.",
+      "id": "F07",
+      "rationale": "겁에 질려 makes terror the reason he cannot flee or use his sword.",
+      "replacement": "He was too terrified to run. Too terrified even to swing the sword he’d drawn.",
+      "severity": "major",
+      "source": "겁에 질려 도망칠 수조차 없을 만큼. 뽑아 든 검을 휘두를 수조차 없을 만큼."
+    },
+    {
+      "confidence": 0.9,
+      "current": "Beneath the hood pulled low over his face, the figure’s lips curled gently upward.",
+      "defect": "Assigns the intentionally indistinct Prophet a masculine pronoun absent from this description.",
+      "id": "F08",
+      "rationale": "The source describes the robe and visible mouth without specifying the Prophet’s gender.",
+      "replacement": "Beneath the low-drawn hood, the figure’s lips curled gently upward.",
+      "severity": "minor",
+      "source": "깊게 눌러쓴 로브 아래로 드러난 입꼬리가 부드럽게 솟구친다."
+    }
+  ],
+  "summary": "Several passages alter how Siegfried could have been approached, what the Hunters actually struck, or the timing and force of the scene.",
+  "version": 1
+}
