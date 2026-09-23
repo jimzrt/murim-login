@@ -1,6 +1,6 @@
 # White Tiger (백호)
 
-- **Safe through:** Chapter 724
+- **Safe through:** Chapter 879
 - **Aliases:** Whitey
 - **Role:** The White Tiger is a snow-white guardian presence overlooking Nanman's assembled forces and roared when the Beast Miao King called the people to war.
 - **Personality:** Irritable and contemptuous of Jin Taekyung's jokes.

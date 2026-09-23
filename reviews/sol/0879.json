@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "How would a nobody like me recognize His Highness, Prince Shangshan?",
+      "defect": "The speaker recalls challenging the gambler’s claim, not doubting his own ability to recognize the prince.",
+      "id": "F01",
+      "rationale": "네깟놈이 addresses the person who claimed to have seen the prince.",
+      "replacement": "How could the likes of you recognize His Highness, Prince Shangshan?",
+      "severity": "critical",
+      "source": "네깟놈이 상산왕 전하를 어찌 알아보느냐."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His bloodline inherited the throne after defying the bonds of kinship—",
+      "defect": "This makes the bloodline inherit the throne; the speaker objects to the heir inheriting the Emperor’s blood.",
+      "id": "F02",
+      "rationale": "핏줄을 물려받 refers to receiving the bloodline, while the Emperor is the one who took the throne.",
+      "replacement": "What blessing? The child will inherit the blood of a man who broke the bonds of kinship to take the throne—",
+      "severity": "critical",
+      "source": "천륜까지 어겨가며 그 자리에 오른 핏줄을 고스란히 물려받……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Every one of them was a master of martial arts, from First Rate to Peak.",
+      "defect": "First Rate lowers the stated minimum level of the guards.",
+      "id": "F03",
+      "rationale": "초일류 is the established Supreme First Rate tier, not First Rate.",
+      "replacement": "Every one of them was a martial arts master at Supreme First Rate or Peak.",
+      "severity": "major",
+      "source": "그들 한 사람, 한 사람이 초일류에서 절정의 무공을 익힌 고수들."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Understood!”",
+      "defect": "A shouted declaration of loyalty becomes a routine acknowledgment.",
+      "id": "F04",
+      "rationale": "충 is the word for loyalty, delivered here with a formal military salute.",
+      "replacement": "“Loyalty!”",
+      "severity": "major",
+      "source": "“충(忠)!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "We should stop him before he ruins the Great Nation’s great undertaking.",
+      "defect": "“Stop him” drops the Emperor’s qualification that Jin should be restrained only to an appropriate degree.",
+      "id": "F05",
+      "rationale": "적당한 선에서 제지 specifies measured restraint, not an unqualified stop.",
+      "replacement": "We’d better rein him in before he jeopardizes the great undertaking.",
+      "severity": "major",
+      "source": "대업을 망치기 전에 적당한 선에서 제지하는 게 좋겠군."
+    },
+    {
+      "confidence": 0.98,
+      "current": "ten men with their heads bowed beneath bamboo hats",
+      "defect": "The men have pulled their hats low; they have not bowed their heads.",
+      "id": "F06",
+      "rationale": "눌러쓴 describes how the hats are worn.",
+      "replacement": "ten men with bamboo hats pulled low",
+      "severity": "minor",
+      "source": "죽립을 눌러쓴 열 명의 사내."
+    }
+  ],
+  "summary": "Several lines alter who acts or inherits, and the draft understates the guards’ martial rank.",
+  "version": 1
+}

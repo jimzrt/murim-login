@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "At the words *Dark Heaven*, I remembered that cursed creature I’d seen only about two weeks ago.",
+      "defect": "No one says “Dark Heaven” in the preceding exchange.",
+      "id": "C01",
+      "rationale": "Keeps the connection in Taekyung’s thoughts without attributing words to the dialogue.",
+      "replacement": "I thought of Dark Heaven—and remembered that cursed creature I’d seen only about two weeks ago.",
+      "severity": "minor",
+      "source": "Chapter 877, Taekyung’s recollection after Hong Jin describes the late Emperor"
+    },
+    {
+      "confidence": 0.98,
+      "current": "How could the likes of you recognize His Highness, Prince Shangshan?",
+      "defect": "The man is questioning whether the gambling-den witnesses could recognize Shangshan, not whether the scholar could.",
+      "id": "C02",
+      "rationale": "Restores the referent established by the scholar’s question.",
+      "replacement": "How could the likes of them recognize His Highness, Prince Shangshan?",
+      "severity": "minor",
+      "source": "Chapter 879, the drunk man answering the scholar"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The unbelievable rumor that had come from the middle-aged man’s mouth had already become a fact backed by solid evidence.",
+      "defect": "The narration calls the unverified rumor a fact backed by evidence that the scene has not supplied.",
+      "id": "C03",
+      "rationale": "Preserves how quickly the crowd accepts the story without confirming it for the reader.",
+      "replacement": "The unbelievable rumor that had come from the middle-aged man’s mouth was already being treated as fact, as though it were backed by solid evidence.",
+      "severity": "minor",
+      "source": "Chapter 879, inn narration after the heir rumor spreads"
+    },
+    {
+      "confidence": 0.9,
+      "current": "And so began the great celebration commemorating the birth of a new heir to inherit the Great Nation.",
+      "defect": "“The birth” states that an heir has been born, although neither a pregnancy nor a birth has been confirmed.",
+      "id": "C04",
+      "rationale": "Retains the Emperor’s public celebration without resolving the uncertainty maintained throughout the packet.",
+      "replacement": "And so began a great celebration, as if a new heir had been born to inherit the Great Nation.",
+      "severity": "major",
+      "source": "Chapter 879, closing sentence"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Their contents remain unknown.",
+      "defect": "Chapter 878 reveals the opening line of Taekyung’s letter.",
+      "id": "C05",
+      "rationale": "Records the one disclosed line while leaving the substantive messages undisclosed.",
+      "replacement": "Apart from the opening line of Taekyung’s letter, their contents remain unknown.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, Jeok Cheongang’s letters"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Their contents and the purpose of the group’s imperial invitation are unknown.",
+      "defect": "The statement overlooks Taekyung’s disclosed opening line.",
+      "id": "C06",
+      "rationale": "Makes the continuity note consistent with Chapter 878 without implying that the letters’ substantive contents are known.",
+      "replacement": "Apart from the opening line of Taekyung’s letter, the letters’ contents and the purpose of the group’s imperial invitation are unknown.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity, Jeok Cheongang’s letters"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang received two letters, burned them, and said the group was formally invited to the imperial palace; their contents and the invitation’s purpose remain unknown.",
+      "defect": "The active state omits the opening line disclosed in Chapter 878.",
+      "id": "C07",
+      "rationale": "Keeps the active record aligned with the reading copy while preserving the unresolved questions.",
+      "replacement": "Jeok Cheongang received two letters, burned them, and said the group was formally invited to the imperial palace; apart from the opening line of Taekyung’s letter, their contents and the invitation’s purpose remain unknown.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity, Jeok Cheongang’s letters"
+    }
+  ],
+  "summary": "The reading copies largely maintain the intended voice and uncertainty. A few lines misidentify a speaker’s referent or state an unconfirmed rumor as fact; the summary and state also overlook the opening line revealed from Taekyung’s letter.",
+  "version": 1
+}
