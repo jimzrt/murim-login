@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 826
-- Next chapter: 827
-- Current block: 825–829 (2/5)
-- Latest translation: `translations/0826.md`
-- Latest summary: `summaries/beats/0826.md`
-- Safe profiles through: chapter 826
+- Last completed: 827
+- Next chapter: 828
+- Current block: 825–829 (3/5)
+- Latest translation: `translations/0827.md`
+- Latest summary: `summaries/beats/0827.md`
+- Safe profiles through: chapter 827
 
 ## Current Block
 
-- A tremendous magical surge transforms the ruins into a vast, grotesque temple filled with giant monster statues. The Doppelganger reveals it came there because of an order from its unnamed master, received at that very place, and taunts Jin about the Demon King Asmodeus. Jin hides his recovery while gathering energy; he and the Skeleton King prepare to strike together, but the Doppelganger challenges Jin’s belief that the Demon King is dead.
+- The Doppelganger claims to have served Demon King Asmodeus and says the temple was built for his return. Jin doubts its story but attacks to stop the possible resurrection; after the Doppelganger blocks his spear with a magic circle, Jin uses his Middle Dantian to destroy the temple’s seventy-two stone constructs and magic circles. A dazzling radiance fills the temple before the Doppelganger answers Jin’s challenge.
 
 ## Open Questions
 
-- Who is the Doppelganger’s master, and what is the plan behind the command it heard at the temple?
-- What does the Chosen One designation mean?
-- Is the Demon King Asmodeus truly dead?
-- What is the temple’s purpose, and what preparations did the Doppelganger complete there?
+- Is Demon King Asmodeus truly dead, and will he return?
+- Are the Doppelganger’s claims about Asmodeus and the temple true?
+- What caused the radiance that filled the temple?
 
 ## Exceptional Decision
 
