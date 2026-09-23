@@ -38,7 +38,7 @@ He spoke to the driver, but his eyes remained on the view outside. The middle-ag
 
 “Yes.”
 
-“That’s a relief. With things blowing up all over the place these days, it’s hard enough to remember someone’s full name.”
+“Good. With things going wrong everywhere these days, it’s hard enough remembering anyone’s name.”
 
 “It happens. Don’t worry about it.”
 
@@ -64,7 +64,7 @@ But he soon reconsidered. So what if Dongseok was rude? They’d only be working
 
 The Team Leader was a C-rank Hunter who had worked freelance for years. He knew a capable fighter with lousy manners was preferable to someone pleasant and polite who couldn’t fight.
 
-*At least he won’t shit the bed and disappear like that bastard a little while ago.*
+*At least he probably won’t screw up and disappear like that bastard did.*
 
 A team member had made a major mistake inside a Gate and then gone into hiding, leaving them in need of a temporary replacement. Lee Dongseok was the man they’d found.
 
@@ -140,11 +140,11 @@ The Team Leader eased onto the brakes. When he parked in the Gate management off
 
 “This is Dongseok. You know—the temporary guy I told you about.”
 
-“Ah, is that right? I could tell at a glance. He looks just like someone from Seoul.”
+“Ah, right. One look at him and I can tell he’s from Seoul.”
 
 “I think he is. Dongseok, these are the rest of the team…”
 
-The Team Leader naturally turned his head, then blinked.
+The Team Leader turned toward him and stopped. Something was wrong.
 
 “Dongseok. Are you feeling sick?”
 
@@ -192,7 +192,7 @@ His heart hammered. He’d suffered from cold hands and feet since his days at t
 
 *Don’t get nervous. Not until the very end.*
 
-He had a mission. A mission he absolutely had to complete.
+He had a mission. One he had to complete.
 
 Dongseok took a deep breath. At the front of the group, the Team Leader suddenly looked back.
 
@@ -208,7 +208,7 @@ The Team Leader would never know that Dongseok had been slow to answer because h
 
 And Lee Dongseok—or rather, the man behind that name—had not forgotten his purpose for a single moment.
 
-“Don’t worry. I’ll definitely do it.”
+“Don’t worry. I’ll see it through.”
 
 “What?”
 
@@ -258,7 +258,7 @@ At his resolute answer, the other person had smiled broadly. Then he had handed 
 
 That was the last thing he’d said. After receiving his orders, Dongseok changed everything, including his face and name, and went down to Busan with that precious, dangerous object in his possession.
 
-“I…… will definitely do it.”
+“I… will see it through.”
 
 His turn had come.
 
@@ -280,7 +280,7 @@ A rift tore open in the air, and a dense breath of death blanketed the sandy bea
 
 After arriving in Busan through three Teleportation magic circles, I knew at once.
 
-No—I could feel it.
+No. I could feel it.
 
 —Aaaaaah!
 
@@ -288,7 +288,7 @@ No—I could feel it.
 
 *Kwaaaang!*
 
-The countless screams and tremendous din coming from far away. And…
+The screams and tremendous crashes in the distance. And…
 
 *Kuuung!*
 

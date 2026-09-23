@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "with that precious, dangerous object in his possession.",
+      "defect": "The source says he kept the valuable, dangerous object close to his body (품에 간직한 채). “In his possession” preserves ownership but loses that physical detail, which the accepted baseline retained.",
+      "id": "F01",
+      "rationale": "The Korean specifies how he carried the object, not merely that he possessed it.",
+      "replacement": "with that precious, dangerous object held close to his body.",
+      "severity": "minor",
+      "source": "Korean lines 309–311"
+    }
+  ],
+  "summary": "The chapter is largely faithful. One physical detail preserved in the accepted baseline is weakened in the assembled copy.",
+  "version": 1
+}
