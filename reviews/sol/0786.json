@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Someone’s hand, horribly bent and broken moments ago but slowly healing, clamped down on the horn along with him.",
+      "defect": "The draft makes the injured hand grasp the horn; the Skeleton King catches that hand along with the horn.",
+      "id": "F01",
+      "rationale": "손아귀가 뿔과 함께 붙잡힌다 makes the hand something seized, not the actor seizing the horn.",
+      "replacement": "He caught the hand gripping the horn as well—a hand that had been horribly bent and broken earlier but was slowly healing.",
+      "severity": "critical",
+      "source": "이미 앞서 처참히 꺾이고 부서졌음에도, 서서히 회복해 나가던 누군가의 손아귀가 뿔과 함께 붙잡힌다."
+    },
+    {
+      "confidence": 0.89,
+      "current": "We took more casualties than expected because of a man named Huginn, but we teamed up with the Peace and Ares Guilds and subdued them.",
+      "defect": "The plural object changes who was subdued: the report identifies Huginn as the difficult opponent.",
+      "id": "F02",
+      "rationale": "후긴이라는 자 is the subject of the casualty explanation and the understood object of 제압한 뒤; his capture also matters to the ensuing interrogation.",
+      "replacement": "We took more casualties than expected because of a man named Huginn, but we joined forces with the Peace and Ares Guilds and subdued him.",
+      "severity": "critical",
+      "source": "후긴이라는 자 때문에 생각했던 것 이상으로 피해가 컸지만…… 평화 및 아레스 길드와 힘을 합쳐 제압한 뒤"
+    },
+    {
+      "confidence": 0.96,
+      "current": "the World Hunter Federation strips you of every right you possess",
+      "defect": "Revoking qualifications or standing becomes deprivation of every personal right.",
+      "id": "F03",
+      "rationale": "모든 자격 refers to qualifications or eligibility, not all rights.",
+      "replacement": "the World Hunter Federation revokes all your qualifications",
+      "severity": "major",
+      "source": "세계 헌터 연맹은 네게 주어진 모든 자격을 박탈하고"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Was the anger in his eyes, wide in those final moments, or was it the death he could no longer stop?",
+      "defect": "The draft presupposes anger and obscures what the narrator is questioning.",
+      "id": "F04",
+      "rationale": "The source asks why his eyes widened—anger or approaching death—without settling on either.",
+      "replacement": "Did his eyes widen in anger at the last moment? Or because he could no longer stave off death?",
+      "severity": "major",
+      "source": "마지막 순간 부릅뜬 눈동자는 분노 때문일까. 아니면 더는 막을 수 없는 죽음 때문일까."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“Isn’t that right, Jin Taekyung? You treacherous human.”",
+      "defect": "“Treacherous” suggests betrayal where the familiar insult is about Jin’s deviousness.",
+      "id": "F05",
+      "rationale": "간악한 does not accuse Jin of betraying the speaker.",
+      "replacement": "“Isn’t that right, Jin Taekyung? You conniving human.”",
+      "severity": "minor",
+      "source": "그렇지 않으냐, 진태경. 이 간악한 인간아."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Golgoli.",
+      "defect": "The standalone narration uses the rendering assigned to 골골 rather than the packet’s binding rendering for 골골이.",
+      "id": "F06",
+      "rationale": "The supplied glossary distinguishes 골골이 as Bones from 골골 as Golgoli.",
+      "replacement": "Bones.",
+      "severity": "minor",
+      "source": "골골이."
+    },
+    {
+      "confidence": 0.98,
+      "current": "a young man who hadn’t even lost his baby fat",
+      "defect": "Baby fat substitutes a different physical impression for youthful facial down.",
+      "id": "F07",
+      "rationale": "솜털 refers to fine hair, not facial fullness.",
+      "replacement": "a young man who still had peach fuzz on his face",
+      "severity": "minor",
+      "source": "아직 솜털도 가시지 않은 청년"
+    }
+  ],
+  "summary": "Several action and subject errors need correction, along with a legal-status change and localized terminology and wording issues.",
+  "version": 1
+}

@@ -1,0 +1,91 @@
+{
+  "chapter": 786,
+  "files": {
+    "characters/Divine Physician.md": "be253f75eb53c671a452fc3b1fadaf92afb654044052425ffe6452a6d59f7777",
+    "characters/Felix.md": "3122316685abd4a2f6d8e16d7a3acb6fa5c82b1e28c0bc20b87c7a6444353a6f",
+    "characters/Huginn.md": "1964b618124131fbc0057d494c9d62b6643136a91af00321277f8835cc7da0c3",
+    "characters/Jin Taekyung.md": "bdd962856af38620a3b58edda2d6a516cb359740537473602e928fdd545c7423",
+    "characters/Jintae.md": "ee0c5ffa605342a4350269df24e195d80789182025957a64717d571587f68549",
+    "characters/Michael.md": "c57bd206060f3622c2b78fb63eb9a572dbbbb509aef97af1b93657f2ffae0f5a",
+    "docs/ADDRESS.md": "19217df2fb1c9d82edef7910e7e76577ea1cc92ccaac707e1a08562d78b4e35e",
+    "docs/CONTEXT.json": "ed35852fef6ee14bfbc160def58af9f3b2083ed944b7cd596338c7a61e32763f",
+    "docs/STATE.md": "de8f16da0301982878c1db6231f26fb248ac9dab323545ca057d458bda128a4f",
+    "summaries/beats/0786.md": "85237670573c83e6998ac64b8121108962d212dea2f0f11e61b02057d5735f4b"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "friend_to_friend",
+        "normal_address": "Jin Taekyung; you conniving human",
+        "notes": "Affirms their friendship and addresses Jin by name.",
+        "speaker": "스켈레톤 킹",
+        "speech_level": "familiar-casual"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Skeleton King accepts both Skeleton King and Stone King as names for himself; he keeps his first name in this world private, sharing it only with friend Jin Taekyung.",
+        "Michael Silbert is dead, executed by Jin Taekyung after the assembled fighters unanimously approved the World Hunter Federation’s first resolution.",
+        "Huginn survived and was captured; Michael’s remaining forces were killed or captured. The Korean government was notified after the surrounding illusion magic was dispelled.",
+        "Joel Schumacher and Xiao Shen secretly joined the Peace and Ares Guild elites in Korea to support the operation.",
+        "The World Hunter Federation has been established, and its first resolution was to revoke Michael’s qualifications and execute him as a traitor."
+      ],
+      "plot": [
+        "The Skeleton King accepts that he can belong among humans without ceasing to be a monster, names himself Stone King as well as Skeleton King, and shares the first name he received in this world only with Jin Taekyung. Jin and the Skeleton King reconcile. Jin beats Michael Silbert, then executes him after the assembled fighters unanimously accept the World Hunter Federation’s first resolution.",
+        "After the battle, Team Leader Choi confirms the outside forces killed or captured their targets, subdued Huginn, lifted the surrounding illusion magic, and notified the Korean government. Joel Schumacher and Xiao Shen joined the Peace and Ares Guild elites. Jin recognizes that Michael’s defeat leaves the deeper roots of his plans to be addressed."
+      ],
+      "translation_decisions": [
+        "Treat Stone King and Skeleton King as names the Skeleton King explicitly accepts for himself; preserve his unnamed first-world name as private."
+      ]
+    },
+    "chapter": 786,
+    "context": {
+      "active_continuity": [
+        "The Skeleton King accepts his identity as both monster and companion to humans; he shares his first name in this world only with Jin Taekyung.",
+        "Michael Silbert was executed by Jin after the World Hunter Federation’s first resolution.",
+        "Huginn was captured alive; the rest of Michael’s forces were killed or captured.",
+        "The World Hunter Federation has been established, with its first resolution carried out against Michael.",
+        "Jin recognizes that Michael’s defeat does not eliminate the deeper roots of his plans."
+      ],
+      "continuity_sources": [
+        786
+      ],
+      "open_questions": [
+        "What deeper roots of Michael’s plans remain, and how will Jin address them?"
+      ],
+      "safe_through": 786,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Stone King",
+        "korean": "스톤 킹",
+        "notes": "Name the Skeleton King accepts for himself."
+      },
+      {
+        "english": "Xiao Shen",
+        "korean": "샤오 쉔",
+        "notes": "Leads the Public Security Ministry’s Hunter forces to support the operation."
+      },
+      {
+        "english": "Pai Chen",
+        "korean": "파이 첸",
+        "notes": "Allied fighter present at the execution."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Michael Silbert is the defeated former Odin Guild Master, dying after his transformation and regeneration vanished when he exhausted his magical power.",
+        "path": "characters/Michael.md",
+        "replacement": "- **Role:** Michael Silbert was the former Odin Guild Master, executed by Jin Taekyung after the World Hunter Federation’s first resolution."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

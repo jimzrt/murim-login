@@ -1,6 +1,6 @@
 # Huginn (후긴)
 
-- **Safe through:** Chapter 772
+- **Safe through:** Chapter 786
 - **Aliases:** None
 - **Role:** Huginn is a powerful Odin Guild messenger, trusted field operative, and elite fixer personally selected and trained by Michael.
 - **Personality:** Polished, condescending, calculating, overconfident, and absolutely loyal to his Guild Master.

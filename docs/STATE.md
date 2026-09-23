@@ -1,19 +1,20 @@
 # Translation State
 
-- Last completed: 785
-- Next chapter: 786
-- Current block: 785–789 (1/5)
-- Latest translation: `translations/0785.md`
-- Latest summary: `summaries/beats/0785.md`
-- Safe profiles through: chapter 785
+- Last completed: 786
+- Next chapter: 787
+- Current block: 785–789 (2/5)
+- Latest translation: `translations/0786.md`
+- Latest summary: `summaries/beats/0786.md`
+- Safe profiles through: chapter 786
 
 ## Current Block
 
-- As Jin Taekyung and Michael Silbert's clash threatens to devastate the National Assembly and the surrounding city, Magic Johnson casts Absolute Shield over the area. When the light fades, Michael is on his knees: his transformation has vanished, his magical power is spent, and his regeneration is gone. Jin, severely injured but standing with White Flame, approaches him while the battle against Michael's traitors turns in the Hunters' favor. Just as Jin demands an answer from the dying Michael, a horn pierces the palm of someone behind him. The newcomer identifies himself as Stone King.
+- The Skeleton King accepts that he can belong among humans without ceasing to be a monster, names himself Stone King as well as Skeleton King, and shares the first name he received in this world only with Jin Taekyung. Jin and the Skeleton King reconcile. Jin beats Michael Silbert, then executes him after the assembled fighters unanimously accept the World Hunter Federation’s first resolution.
+- After the battle, Team Leader Choi confirms the outside forces killed or captured their targets, subdued Huginn, lifted the surrounding illusion magic, and notified the Korean government. Joel Schumacher and Xiao Shen joined the Peace and Ares Guild elites. Jin recognizes that Michael’s defeat leaves the deeper roots of his plans to be addressed.
 
 ## Open Questions
 
-- Will Michael die, and what will Stone King do?
+- What deeper roots of Michael’s plans remain, and how will Jin address them?
 
 ## Exceptional Decision
 
