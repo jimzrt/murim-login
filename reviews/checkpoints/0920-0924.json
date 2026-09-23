@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "That was how long it took for all three thousand rebels to be wiped out.",
+      "defect": "“Wiped out” implies all the rebels were killed, but the same scene shows survivors surrendering.",
+      "id": "C01",
+      "rationale": "The replacement includes those killed, captured, and surrendered without contradicting the following paragraphs.",
+      "replacement": "That was how long it took to defeat all three thousand rebels.",
+      "severity": "major",
+      "source": "Chapter 921, after the battle"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The fourth prince, who had been far removed from the throne, became a usurper and a parricide in every sense.",
+      "defect": "This states the Emperor was genuinely a parricide, despite the account establishing that his father was poisoned and later abdicated in his favor.",
+      "id": "C02",
+      "rationale": "It preserves the accusations against him without treating them as fact.",
+      "replacement": "The fourth prince, who had been far removed from the throne, was branded a usurper and a parricide.",
+      "severity": "major",
+      "source": "Chapter 923, account of the restoration"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Toward the enemy who had killed his parents and brothers.",
+      "defect": "The unqualified “brothers” implies that all the prince’s brothers were killed, though the Emperor is his surviving elder brother.",
+      "id": "C03",
+      "rationale": "It retains the prince’s personal stake without contradicting his living brother or specifying which relatives died.",
+      "replacement": "Toward the enemy who had destroyed so much of his family.",
+      "severity": "minor",
+      "source": "Chapter 923, Prince Shangshan's approach"
+    }
+  ],
+  "summary": "The reading copies and active state are broadly consistent. Three passages create avoidable contradictions about the rebels’ fate and the imperial family.",
+  "version": 1
+}

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Blood and phlegm bubbled up through his neatly severed windpipe.",
+      "defect": "The draft changes a split throat into a neatly severed windpipe.",
+      "id": "F01",
+      "rationale": "The source describes blood and phlegm bubbling through his split throat, not a severed windpipe.",
+      "replacement": "Blood and phlegm bubbled through the gaping wound in his throat.",
+      "severity": "critical",
+      "source": "쩍 갈라진 목젖 사이로 피가래가 끓는다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Taizu, who had burned his sect to the ground and slaughtered his Master and Senior Brothers, had also become a dead man.",
+      "defect": "Fellow disciples are omitted from those Taizu slaughtered.",
+      "id": "F02",
+      "rationale": "사형제들 encompasses his fellow disciples, not only Senior Brothers.",
+      "replacement": "Taizu, who had burned his sect to the ground and slaughtered his Master and fellow disciples, was dead too.",
+      "severity": "major",
+      "source": "사문을 불태우고 스승과 사형제들을 도륙했던 태조 역시 불귀의 객이 되었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "“And I will sow no seeds of misfortune. Whatever consequences may return to me, I will bear them and reap what I have sown.”",
+      "defect": "“Reap what I have sown” implies accepting the results of harmful seeds he planted, rather than accepting whatever consequences follow from his refusal to plant them.",
+      "id": "F03",
+      "rationale": "His pledge is to refrain from causing misfortune even if that choice has consequences for him.",
+      "replacement": "“And I will sow no seeds of misfortune. Whatever consequences that choice brings, I will bear them and take responsibility for them.”",
+      "severity": "major",
+      "source": "“또한, 그 어떤 불행의 씨앗도 뿌리지 않겠소. 설령 그것이 어떠한 결과로 되돌아온다 해도, 오롯이 감내하고 거둬들이겠소.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The meaning behind the young prince’s final words—the two characters for *forgiveness*—cut into his heart like a blade.",
+      "defect": "관용 is mercy or tolerance, not the forgiveness named separately in the surrounding passage.",
+      "id": "F04",
+      "rationale": "The source distinguishes the prince’s merciful pledge from the Demon Lord’s inability to forgive.",
+      "replacement": "The meaning behind the young prince’s final words—the two characters for *mercy*—cut into his heart like a blade.",
+      "severity": "major",
+      "source": "어린 왕의 마지막 말에 담긴 의미가, 관용(寬容)이라는 두 글자가 칼날이 되어 그의 마음을 난자했기 때문이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Emperor, Prince Shangshan Zhu Bao, had personally stepped aside to clear the way.",
+      "defect": "The draft identifies Prince Shangshan as the Emperor, collapsing two people into one.",
+      "id": "F05",
+      "rationale": "황제가 and 상산왕 주표가 name two separate people who clear Jin Taekyung’s path.",
+      "replacement": "The Emperor and Prince Shangshan Zhu Bao had personally stepped aside to clear the way.",
+      "severity": "critical",
+      "source": "황제가, 상산왕 주표가 친히 걸음을 옮겨 길을 터 주었으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“May I ask you something?”",
+      "defect": "The prince’s direct conversational prompt becomes a request for permission to ask a question.",
+      "id": "F06",
+      "rationale": "The Korean introduces what he is about to disclose; it does not ask permission.",
+      "replacement": "“You know something?”",
+      "severity": "major",
+      "source": "“그거 아시오?”"
+    },
+    {
+      "confidence": 0.88,
+      "current": "People who had stepped outside the Great Nation’s laws and built their own shelter.\n\nAnd yet they had willingly torn down that shelter and rushed into a deadly place full of danger.",
+      "defect": "“Shelter” turns the martial artists’ self-imposed separation into physical protection, obscuring what they chose to set aside.",
+      "id": "F07",
+      "rationale": "울타리 is the boundary they established for themselves and then chose to break for others.",
+      "replacement": "People who had stepped outside the Great Nation’s laws and drawn a boundary around their own world.\n\nAnd yet they had willingly crossed that boundary and rushed into a deadly place full of danger.",
+      "severity": "major",
+      "source": "대국의 법도를 벗어나 자신만의 울타리를 세운 자들.\n\n그러나 기꺼이 그 울타리를 무너트리고, 숱한 위험이 도사린 사지(死地)로 달려와 준 이들."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The boy stood in his sight, his eyes wet with tears. His back was still bent low, trembling faintly, as if he couldn’t bring himself to straighten up.",
+      "defect": "The draft omits why the boy stays bowed: he is hiding his tear-filled eyes.",
+      "id": "F08",
+      "rationale": "눈을 감추기 위해 explicitly connects his continued bow to concealing his tears.",
+      "replacement": "He saw the boy still bowed low, trembling faintly. Tears had filled the boy’s eyes at some point, and he couldn’t bring himself to straighten up and show them.",
+      "severity": "minor",
+      "source": "언제부터인가 눈물에 젖어 버린 눈을 감추기 위해, 깊숙이 굽힌 허리를 펼 생각조차 못 한 채 그저 가늘게 떨고만 있는 아이가 그의 시선에 닿았다."
+    }
+  ],
+  "summary": "Several consequential errors alter the injury, the prince’s pledge, and who authorizes the execution. Other findings concern omitted relationships and pragmatic cues.",
+  "version": 1
+}
