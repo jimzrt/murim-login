@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "ate every kind of food without complaint",
+      "defect": "The Korean says he ate foods evenly or ate a balanced variety, echoing the earlier concern about picky eating. “Without complaint” adds an attitude the source does not establish.",
+      "id": "F01",
+      "rationale": "모든 음식을 골고루 먹었으며 describes eating all foods evenly, not eating without complaint.",
+      "replacement": "ate a balanced variety of foods",
+      "severity": "minor",
+      "source": "Korean line 325"
+    },
+    {
+      "confidence": 0.97,
+      "current": "someone’s scattered limbs and blood",
+      "defect": "The assembled English omits that the limbs and blood were sprawled on the ground, a physical detail preserved in the accepted baseline.",
+      "id": "F02",
+      "rationale": "땅에 널브러진 specifies their location on the ground.",
+      "replacement": "someone’s limbs and blood sprawled across the ground",
+      "severity": "minor",
+      "source": "Korean line 399"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with two minor physical-detail and meaning losses.",
+  "version": 1
+}

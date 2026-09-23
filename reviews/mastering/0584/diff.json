@@ -1,0 +1,2581 @@
+{
+  "baseline_blocks": 189,
+  "baseline_sha256": "1a22d0724351f20e292e51285d609473ff73f6413453f4a034d8e9a3703b1fba",
+  "global_terminology_alerts": [],
+  "hunk_count": 137,
+  "hunks": [
+    {
+      "baseline": "Kwooooom!",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "Ruuuuumble!",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A pillar of fire shot into the sky. The mountain shook. An area spanning hundreds of meters boiled with ultrahigh heat as snow, dirt, and rock melted away.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "A pillar of fire shot into the sky. The mountain shook. For hundreds of meters in every direction, the air boiled with heat so intense that snow, dirt, and rock melted away.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A land of death, overflowing with lava. Standing like towers above the ground where everything had evaporated were two beings.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "Lava flowed across a land of death. Above the ground where everything else had evaporated, two figures stood like towers.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mythical monster raged, its body charred black, while the gray-haired old butler calmly gazed at it.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "The mythical monster raged, its body charred black. The half-gray-haired old butler regarded it calmly.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even the hellfire summoned from the depths of hell had failed to bring Behemoth down. One of its enormous tusks had melted away without a trace, and its entire body was charred black, but the monster remained standing.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "Even the hellfire summoned from the depths of hell had failed to bring Behemoth down. One enormous tusk had melted away without a trace, and its entire body was blackened, but it was still standing.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "“What a bastardly tough one you are.”",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "21",
+      "sol": "“You’re a tough bastard.”",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Kim Hwajong did not retreat. He could not retreat.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "23",
+      "sol": "Kim Hwajong did not retreat. He could not.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With his only remaining hand, he gripped his Magic Staff tightly.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "25",
+      "sol": "He tightened his grip on his Magic Staff with his one remaining hand.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The short, slender staff was engulfed in flames. Once the fire passed over it, a new staff emerged—thicker and longer than before.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "Flames engulfed the short, slender staff. When they passed, the staff that emerged was longer and thicker.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the cherished weapon that had turned countless monsters into ash during the chaotic era of the Great Cataclysm and earned its master the title of Hellfire Mage.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "31",
+      "sol": "It was the cherished weapon with which he had reduced countless monsters to ash during the chaotic years of the Great Cataclysm—the weapon that had earned its master the name Hellfire Mage.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Kim Hwajong pointed the reddish staff at Behemoth and muttered,",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "33",
+      "sol": "Kim Hwajong pointed the reddish staff at Behemoth.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—You. Wretch!",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "—Old. Man!",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Behemoth roared. At the same time, the thick black mist that had settled over the area moved like a living creature and shot toward Kim Hwajong.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "Behemoth roared. The black mist hanging over the area stirred like a living creature and shot toward Kim Hwajong.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was both a rope meant to bind his entire body and a blade meant to tear through flesh and bone.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "43",
+      "sol": "It was a rope that could bind his whole body and a blade that could tear through flesh and crush it.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Kim Hwajong calmly watched the mist closing in from every direction.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "45",
+      "sol": "",
+      "sol_paragraphs": "after P21",
+      "sol_range": [
+        21,
+        21
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "김화종",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Kim Hwajong"
+        }
+      ]
+    },
+    {
+      "baseline": "In that instant, the staff in his blood-covered hand struck the ground.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "47",
+      "sol": "Kim Hwajong watched it close in from every direction. Then the staff in his bloodied hand struck the ground.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A wave spread outward with a deep rumble. The flames rising around Kim Hwajong formed a single ring that enclosed him.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "51",
+      "sol": "A deep rumble sent a wave spreading outward. Flames rose around Kim Hwajong and joined into a single ring.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment the black mist shooting toward him touched the flames, it withered away like ash.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "57",
+      "sol": "The instant the black mist touched the flames, it crumbled away like ash.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The enormous eyes of the monster looking down upon the earth reflected the figure of a lone human standing tall.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "59",
+      "sol": "The monster’s enormous eyes, gazing down at the ground, reflected the human standing before it.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even Behemoth had not expected this.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "63",
+      "sol": "Even Behemoth had not expected it.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its opponent was nothing more than a human. And yet this small, insignificant creature had not only wounded it, but nullified its attack.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "65",
+      "sol": "Its opponent was a mere human. Yet the small, insignificant creature had wounded it—and now had nullified its attack.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—You. Hu. Man!",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "67",
+      "sol": "—You. Are. Human!",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A roar filled with powerful Fear shook the entire area. But unlike the flames flickering in his eyes, Kim Hwajong’s heart was utterly calm.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "69",
+      "sol": "A roar laden with powerful Fear shook the entire area. But though fire flickered in Kim Hwajong’s eyes, his heart was utterly calm.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The monster before him had made one mistake.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "71",
+      "sol": "The monster had misjudged one thing.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It did not realize that the old human standing before it possessed none of the fear that everyone carried deep in their hearts.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "73",
+      "sol": "The fear everyone carried deep inside them did not exist in this old human—not now.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with a murmur that would never reach him, Kim Hwajong smiled faintly. His one and only fear was moving farther away from the disaster even now.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "77",
+      "sol": "Kim Hwajong smiled at the words that would never reach him. His only fear was moving farther from this disaster even now.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As long as that child, Choi Minwoo, could survive… it did not matter what happened to him.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "79",
+      "sol": "As long as that child, Choi Minwoo, survived… nothing else mattered.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It would be fine if he were crushed beneath the monster’s feet, pierced by its tusks and killed without being able to leave even a final word, or reduced to ash after squeezing his mana and body past their limits.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "83",
+      "sol": "He could be crushed beneath the monster’s feet, impaled on its tusks and killed without a final word, or reduced to ash after wringing every last bit of strength from his body and mana. It would be all right.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And so Kim Hwajong gripped the staff with joy in his heart.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "87",
+      "sol": "Kim Hwajong gripped his staff with a glad heart.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An immense amount of mana, already beyond its limits, surged into the tip of his cherished weapon, which glowed with a reddish light. The heated mana erupted as flame.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "89",
+      "sol": "Mana poured into the tip of his reddish weapon in an amount that had already pushed him beyond his limits. It grew hot, then burst forth as flame.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Be swept away.”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "91",
+      "sol": "“Sweep it away.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With the short incantation, a wave of fire rolled forward.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "95",
+      "sol": "At the brief incantation, a wave of fire surged forward.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At its end, Behemoth swung the trunk it had raised with an enraged cry. It was long like an elephant’s trunk—and dozens of times larger.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "97",
+      "sol": "Behemoth stood in its path. With an enraged cry, it swung its trunk, shaped like an elephant’s but dozens of times larger.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wind that arose with a mighty crack of splitting air slammed into the wave of fire. The ultrahigh heat died away in an instant, and invisible blades of wind flew in and raked the area from every direction.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "101",
+      "sol": "A powerful rush of wind slammed into the wave of fire. The blistering heat died in an instant, and invisible blades of wind raked everything around them.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ground split and tore apart like sheets of paper. But Kim Hwajong had already slipped out of the area by the narrowest margin.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "105",
+      "sol": "The ground split and tore like paper. Kim Hwajong had already escaped by the narrowest margin.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A low voice escaped between the old butler’s lips as he charged toward Behemoth’s flank.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "107",
+      "sol": "As the old butler charged toward Behemoth’s flank, he spoke again.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Flames burst from the tip of the foot he planted.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "115",
+      "sol": "Flames exploded beneath his foot.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With the instantaneous explosion, Kim Hwajong shot forward as a streak of flame. Then a dense shadow fell over his head.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "117",
+      "sol": "The blast sent Kim Hwajong forward like a streak of fire. A dense shadow fell over his head.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "121",
+      "sol": "“…!”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His instincts moved half a beat faster than his reason. **Fire Shield.** Alongside a silent, wordless spell, layers of fiery shields formed above Kim Hwajong’s head.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "123",
+      "sol": "Instinct beat reason by half a step. *Fire Shield.* At the silent, unspoken spell, layer upon layer of fiery shields formed above him.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "김화종",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Kim Hwajong"
+        }
+      ]
+    },
+    {
+      "baseline": "And in an instant so brief it could barely be called a moment, tremendous pressure crushed down upon the more than twenty overlapping shields.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "125",
+      "sol": "In the next instant, tremendous pressure crushed down on the more than twenty overlapping shields.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything shattered and scattered.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "129",
+      "sol": "They shattered and scattered.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Overwhelming force and weight. On top of that, the immense magic power whose end could not be fathomed shattered the layered fiery shields and shook the caster’s mana.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "131",
+      "sol": "The overwhelming force and weight—and the immense magical power behind them, whose limits he could not begin to fathom—broke through the shields and sent his mana reeling.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dark red blood sprayed from between Kim Hwajong’s lips.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "135",
+      "sol": "Dark red blood sprayed from Kim Hwajong’s lips.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His vision went hazy for a moment in the aftermath of the dispersing magic. But instead of collapsing where he stood, he clenched his teeth and threw himself aside as though falling.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "137",
+      "sol": "His vision blurred as the spell collapsed. But instead of crumpling where he stood, he clenched his teeth and threw himself aside, almost falling.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        }
+      ]
+    },
+    {
+      "baseline": "The defensive magic had bought him a brief moment.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "141",
+      "sol": "The defensive spell had bought him a moment.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        }
+      ]
+    },
+    {
+      "baseline": "Behemoth’s trunk swept past him by the narrowest margin and smashed into the ground. At the same time, hundreds of fragments flew in every direction, scraping across Kim Hwajong’s calf.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "143",
+      "sol": "Behemoth’s trunk swept past by a hair and smashed into the ground. Hundreds of fragments flew outward, scraping across Kim Hwajong’s calf.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The pain felt like a burn. But instead of groaning, the old butler exposed his bloodstained teeth and smiled.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "145",
+      "sol": "Pain burned through his leg. The old butler bared his bloodstained teeth in a smile.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In that instant, the staff in his hand emitted ultrahigh heat. A sphere of flame formed in midair and swelled in size.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "149",
+      "sol": "His staff gave off searing heat. A sphere of flame appeared in midair and swelled.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Kim Hwajong coughed up a mouthful of blood and muttered,",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "151",
+      "sol": "Kim Hwajong coughed up blood.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Explode. Artillery of flame.”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "153",
+      "sol": "“Burst. Barrage of fire.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With the completed spell, dazzling light-flames burst forth.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "157",
+      "sol": "Dazzling light-flames erupted as the spell was completed.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ultimate fire spell, carrying power faster and more formidable than any cannon, shot toward the monster’s two forelegs—the same forelegs that Choi Minwoo had already cut halfway through.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "159",
+      "sol": "The highest-tier fire spell carried more power than any cannon and flew faster than any shell. It hurtled toward Behemoth’s two forelegs—the ones Choi Minwoo had already cut halfway through.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "몬스터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "monster"
+        }
+      ]
+    },
+    {
+      "baseline": "The next moment, Behemoth’s cry was swallowed by a thunderous boom that shook the entire area.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "165",
+      "sol": "Behemoth’s cry vanished beneath a blast that shook the entire area.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The fire that tore through space burst open the wounds that had not yet healed and swept through the inside of the legs.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "167",
+      "sol": "The flames tore through space, burst open the wounds that had yet to heal, and swept through the legs.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Terrible pain spread from the forelegs, blackened like charcoal. Behemoth let out a roar filled with agony.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "171",
+      "sol": "Agonizing pain surged from its forelegs, now blackened like charcoal. Behemoth roared.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, the two forelegs bent.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "177",
+      "sol": "At last, its two forelegs gave way.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The mythical monster that had risen into the mortal world from the depths of the abyss dropped both forelegs to its knees as if a temple were collapsing.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "179",
+      "sol": "The mythical monster that had risen from the abyss into this world dropped to its forelegs like a collapsing temple.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Its tremendous weight shook the earth, and an enormous cloud of dust rose into the air.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "181",
+      "sol": "Its immense weight shook the earth. A great cloud of dust rose.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the human who had forced Behemoth to its knees was laughing as he spat blood.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "183",
+      "sol": "And the man who had brought Behemoth to its knees laughed as he spat blood.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the laughter of the Hunter once called the greatest fire mage—and the relief of a butler who had fulfilled his duty.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "187",
+      "sol": "It was the laughter of a Hunter once called the greatest fire mage, and the relief of a butler who had done his duty.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*This is enough. This is enough.*",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "189",
+      "sol": "*That’s enough. That’s enough.*",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Half of Behemoth’s four legs had been rendered useless.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "191",
+      "sol": "Half of Behemoth’s four legs were useless.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unless someone gave it wings, Behemoth would not be able to chase Choi Minwoo now.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "193",
+      "sol": "",
+      "sol_paragraphs": "after P94",
+      "sol_range": [
+        94,
+        94
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "최민우",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Choi Minwoo"
+        },
+        {
+          "korean": "베히모스",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Behemoth"
+        }
+      ]
+    },
+    {
+      "baseline": "And because of that, no small number of lives would survive.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "195",
+      "sol": "Unless it grew wings, it could no longer pursue Choi Minwoo. No small number of others would survive because of it, too.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Kim Hwajong smiled as he watched the dense shadow flying toward him.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "197",
+      "sol": "Kim Hwajong smiled at the dark shadow flying toward him.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His vision turned white. Kim Hwajong felt tremendous impact and pain engulf his body as he shot through the air like a cannonball.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "203",
+      "sol": "His vision flashed white. An enormous blow engulfed him in pain and sent him flying like a cannonball.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "김화종",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Kim Hwajong"
+        }
+      ]
+    },
+    {
+      "baseline": "With a thunderous crash, his back smashed into solid rock and broke. Something unstoppable surged up from deep inside him.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "207",
+      "sol": "His back struck solid rock with a crash, and something rose uncontrollably from deep inside him.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old butler looked down at the blood he had vomited, his eyes dimming. Small pieces of his organs floated in the pool of dark red blood.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "211",
+      "sol": "The old butler looked down at what he had vomited, the light fading from his eyes. Small pieces of his organs lay in the pool of dark red blood.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His ears felt blocked, as though his eardrums had burst. Through his blurred vision, a memory from long ago rose like a haze.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "215",
+      "sol": "His ears rang, as though his eardrums had burst. Through his blurred vision, a memory from long ago shimmered into view.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Your fire magic is incredible. Were you a former arsonist?”*",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "217",
+      "sol": "*“Your fire magic is impressive. Were you an arsonist before this?”*",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“……What kind of crazy shit are you talking about? If you’re not going to help, then get lost.”*",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "219",
+      "sol": "*“…What kind of crazy shit is that? If you’re not going to help, get lost.”*",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Fortunately, I won’t have to ‘go out,’ then. I’m going to help you and everyone here.”*[^1]",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "221",
+      "sol": "*“Fortunately, I won’t have to go out. I’m going to help you and everyone here.”*[^1]",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^1]: The same verb means both “get lost” and for a flame to “go out.”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "223",
+      "sol": "",
+      "sol_paragraphs": "after P107",
+      "sol_range": [
+        107,
+        107
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*“Hmm. In that case, the story changes a little. What’s your name?”*",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "227",
+      "sol": "*“Hmm. That changes things. What’s your name?”*",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When they first met, Kim Hwajong had not known.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "231",
+      "sol": "",
+      "sol_paragraphs": "after P109",
+      "sol_range": [
+        109,
+        109
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "김화종",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Kim Hwajong"
+        }
+      ]
+    },
+    {
+      "baseline": "He had not known that this man, who looked absurdly young for his age, would become the idol to whom Kim Hwajong would devote his entire life.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "235",
+      "sol": "When they first met, Kim Hwajong had no idea that the man who looked absurdly young for his age would become someone he would devote his life to.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But that became reality soon enough.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "239",
+      "sol": "Before long, he did.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One year, two years, five years… When the long and terrible Great War finally ended, Kim Hwajong had become Cheon Taemin’s shadow.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "241",
+      "sol": "One year, two years, five years… By the end of the long, terrible Great War, Kim Hwajong had become Cheon Taemin’s shadow.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Like it had for everyone else, the Great Cataclysm had completely changed Kim Hwajong’s life.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "247",
+      "sol": "The Great Cataclysm had changed Kim Hwajong’s life completely, just as it had changed so many others. He had waited so long for peace, yet when it finally came, he did not know what to do with himself.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In those days, despite having waited so long, he was confused by the peace that had finally arrived. His idol calmly asked him in return,",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "249",
+      "sol": "Cheon Taemin answered his question with one of his own.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I don’t know. But I’ll do anything you tell me to do.”*",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "253",
+      "sol": "*“I don’t know. But I’ll do anything you ask.”*",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Then join the Guild. I need you. I’ve brought Jungryong and Cheonwoo in too.”*",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "255",
+      "sol": "*“Then join the Guild. I need you. Jungryong and Cheonwoo have joined too.”*",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“The Peace Guild, or whatever it’s called?”*",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "257",
+      "sol": "*“That Peace Guild thing?”*",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“The name sounds pretty damn lame. How about Ares instead? The god of war from Greek mythology. Ares.”*",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "261",
+      "sol": "*“The name’s pretty damn lame. How about Ares instead? The god of war from Greek mythology. Ares.”*",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Ares, huh? Not bad. Then I’ll go with your suggestion. Join the Guild. I’ll make sure you don’t have to worry about your old age.”*",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "265",
+      "sol": "*“Ares, huh? Not bad. I’ll take your suggestion, so join the Guild. I’ll make sure you never have to worry about retirement.”*",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*“……I’m not really suited for office work. All right, Guild Master.”*",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "267",
+      "sol": "*“…Office work really doesn’t suit me. All right, Guild Master.”*",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I think I’ve told you about five thousand times over the past five years to call me hyung. You really never change.”*",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "269",
+      "sol": "*“I’ve told you to call me hyung about five thousand times over the last five years. You never change.”*",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as he had said then, Kim Hwajong did not change.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "271",
+      "sol": "As Taemin had said, Kim Hwajong never did.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not even after his relationship with his two trusted comrades and closest sworn brothers grew distant, and after it became difficult to see Cheon Taemin’s face.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "275",
+      "sol": "Not when he grew distant from his two trusted comrades and close sworn brothers. Not when seeing Cheon Taemin became difficult.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even after peace arrived, his fiery temperament remained, and he continued to swear constantly.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "277",
+      "sol": "Peace had come, but Kim Hwajong’s fiery temper remained, and he still swore constantly.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment he decided to change came just after a child born amid everyone’s blessings lost his parents in an unfortunate accident.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "281",
+      "sol": "He decided to change only after a child born amid everyone’s blessings lost both parents in an unexpected accident.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“……Hello.”*",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "285",
+      "sol": "*“…Hello.”*",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the funeral, attended by only a few people, the little boy—no more than four or five years old—looked lonely.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "289",
+      "sol": "Only a few people had gathered for the funeral. The boy, no more than four or five years old, looked lonely.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The sight of him clinging to the leg of his maternal grandfather, now his only family, and offering a greeting with a dark expression pained Kim Hwajong’s aging heart.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "293",
+      "sol": "He clung to the leg of his maternal grandfather, now his only family, and greeted Kim Hwajong with a somber face. The sight pained the aging man.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps that was why he readily accepted Cheon Taemin’s proposal when he came to visit a few days later.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "295",
+      "sol": "Perhaps that was why, when Cheon Taemin came to him a few days later, he accepted without hesitation.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Can you take care of Minwoo? That child?”*",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "299",
+      "sol": "*“Could you take care of Minwoo? Of the boy?”*",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The immortal hero who had become a symbol of humanity was always busy.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "303",
+      "sol": "The immortal hero who had become a symbol of humanity was always busy. Even after the Great Cataclysm ended, Cheon Taemin lived as though something were chasing him.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Instead of Cheon Taemin, who continued living as though he were being chased by something even after the Great Cataclysm ended, Kim Hwajong became the family of a child who had been left alone.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "305",
+      "sol": "In his place, Kim Hwajong became family to the child left alone.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "천태민",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Cheon Taemin"
+        },
+        {
+          "korean": "대격변",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Cataclysm"
+        }
+      ]
+    },
+    {
+      "baseline": "His hair and clothes had to be neat. His voice had to be gentle. A smile had to rest at the corners of his mouth.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "311",
+      "sol": "Neat hair and clothes. A gentle voice. A smile at the corners of his mouth.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And so the Hellfire Mage who had burned through a page of the Great Cataclysm became Butler Kim.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "313",
+      "sol": "That was how the Hellfire Mage, who had set a page of the Great Cataclysm ablaze, became Butler Kim.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Young Master. You mustn’t run! You might get hurt. Oh, dear.”*",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "317",
+      "sol": "*“Young Master, you mustn’t run! You’ll hurt yourself—oh dear.”*",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Young Master. Being a picky eater is bad for your health. Please eat.”*",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "319",
+      "sol": "*“Young Master, it isn’t good for you to be picky. Please eat.”*",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Young Master. Please don’t cry.”*",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "321",
+      "sol": "*“Young Master, please don’t cry.”*",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The child grew into a young man, and white frost settled over Kim Hwajong’s hair.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "327",
+      "sol": "The boy grew into a young man, and white frost settled over Kim Hwajong’s hair.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even after Cheon Taemin vanished without a trace, Kim Hwajong remained steadfast in his place.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "331",
+      "sol": "Even after Cheon Taemin disappeared, Kim Hwajong remained at his side.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His Young Master no longer ran about recklessly, ate every kind of food without complaint, or cried while thinking of the parents who had left him too soon.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "333",
+      "sol": "His Young Master no longer ran recklessly. He ate all kinds of food and no longer cried for the parents he had lost so young.",
+      "sol_paragraphs": "P147",
+      "sol_range": [
+        146,
+        147
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then came the day when Kim Hwajong discovered traces of someone he had not seen in a long time on the face of the grown young man.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "335",
+      "sol": "Then, one day, Kim Hwajong saw traces of someone he had not seen in a long time in the grown young man’s face.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“You said you were going to create a Guild.”*",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "337",
+      "sol": "*“You’re going to establish a Guild?”*",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Yes. I’m sorry, but I’ll need you to serve as the Guild Master, Butler Kim.”*",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "339",
+      "sol": "*“Yes. I’m sorry to ask, Butler Kim, but I need you to serve as Guild Master.”*",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“If that is what you wish, Young Master, I will do anything. But what do you intend to name the Guild?”*",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "341",
+      "sol": "*“If that is what you wish, Young Master, I will do anything. What do you intend to call it?”*",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "길드",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Guild"
+        }
+      ]
+    },
+    {
+      "baseline": "*“The Peace Guild. I’ll call it the Peace Guild.”*",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "345",
+      "sol": "*“The Peace Guild. I’m going to call it the Peace Guild.”*",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“……!”*",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "349",
+      "sol": "*“…!”*",
+      "sol_paragraphs": "P153",
+      "sol_range": [
+        152,
+        153
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Why does your expression look so… unhappy, Butler Kim?”*",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "353",
+      "sol": "*“Butler Kim, why do you look so… displeased?”*",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What should he say? Hesitating over the many thoughts that flashed through his mind, the old butler soon burst into loud laughter.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "355",
+      "sol": "What could he say? So many thoughts came at once that the old butler hesitated. Then he burst out laughing.",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“Not at all. The Peace Guild. That’s a wonderful name.”*",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "357",
+      "sol": "*“Not at all. The Peace Guild. What a wonderful name.”*",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After the Peace Guild was founded, Kim Hwajong faced each day immersed in joy and memories.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "361",
+      "sol": "",
+      "sol_paragraphs": "after P157",
+      "sol_range": [
+        157,
+        157
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "김화종",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Kim Hwajong"
+        },
+        {
+          "korean": "길드",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Guild"
+        },
+        {
+          "korean": "평화",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peace Guild"
+        }
+      ]
+    },
+    {
+      "baseline": "The Young Master, who had worn a cold, rigid mask, softened after meeting “comrades” for the first time in his life, and the Peace Guild continued to grow with every passing day.",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "363",
+      "sol": "From the founding of the Peace Guild onward, Kim Hwajong greeted each day with joy and memories. His Young Master, who had worn a cold, rigid mask, softened after finding “comrades” for the first time in his life. The Guild grew day by day.",
+      "sol_paragraphs": "P158",
+      "sol_range": [
+        157,
+        158
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Kim Hwajong thought that nothing but good things lay ahead. From then on. Forever.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "365",
+      "sol": "Kim Hwajong thought there would be nothing but good days ahead. From then on. Forever.",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He thought he would be able to watch his Young Master grow from his side.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "367",
+      "sol": "He thought he would stay beside his Young Master and watch him grow.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Today really was… the best day of my life.*",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "371",
+      "sol": "*Today was supposed to be… the best day of my life.*",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The only reason he could still laugh while dying was because of one thing his Young Master had said today.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "383",
+      "sol": "There was only one reason he could laugh as he died: something his Young Master had said to him today.",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then… what else had his Young Master said?",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "387",
+      "sol": "And what else had the Young Master said?",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*“I’ve always wanted to say this to you.”*",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "389",
+      "sol": "*“I’ve always wanted to tell you that.”*",
+      "sol_paragraphs": "P167",
+      "sol_range": [
+        166,
+        167
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yes. That was what he had said.",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "391",
+      "sol": "Yes. That was it.",
+      "sol_paragraphs": "P168",
+      "sol_range": [
+        167,
+        168
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Kim Hwajong raised his head through a fit of coughing. Dense black mist filled the direction of his fading gaze.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "393",
+      "sol": "Kim Hwajong raised his head, coughing. Thick black mist filled his fading vision.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Somewhere beyond that invisible mist, his only hope—and his only fear—was probably still alive and leaving this place.",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "395",
+      "sol": "Somewhere beyond it, his only hope—and his only fear—was probably alive and leaving this place.",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A trembling voice slipped between his bloodstained lips.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "399",
+      "sol": "The words trembled between his bloodied lips.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Pleased by the sight of the old butler facing death, the mythical monster opened its jaws with a satisfied smile.",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "401",
+      "sol": "The mythical monster smiled in satisfaction at the dying old butler and opened its jaws.",
+      "sol_paragraphs": "P173",
+      "sol_range": [
+        172,
+        173
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A tremendous gust swept through the entire area.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "405",
+      "sol": "A tremendous gust swept across the ground.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The flames that had not yet gone out, someone’s limbs and blood scattered across the ground, and even the rocks were sucked in together.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "407",
+      "sol": "The flames that had yet to go out, someone’s scattered limbs and blood, even the rocks—all were drawn in.",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything drawn in like a tornado spun inside Behemoth’s mouth.",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "409",
+      "sol": "They spun like a tornado inside Behemoth’s mouth.",
+      "sol_paragraphs": "P177",
+      "sol_range": [
+        176,
+        177
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. That was not it. Though his words would never reach him, this was his final greeting.",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "413",
+      "sol": "No. Not that. Though the words would never reach him, this was his final farewell.",
+      "sol_paragraphs": "P179",
+      "sol_range": [
+        178,
+        179
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A faint smile spread across his wrinkled lips.",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "415",
+      "sol": "A faint smile touched his wrinkled lips.",
+      "sol_paragraphs": "P180",
+      "sol_range": [
+        179,
+        180
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the very moment his fading voice escaped—",
+      "baseline_paragraphs": "P187",
+      "baseline_range": [
+        186,
+        187
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "415",
+      "sol": "The instant his fading voice spoke the name—",
+      "sol_paragraphs": "P182",
+      "sol_range": [
+        181,
+        182
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A burst of radiance erupted from midair and bathed the entire world in white.",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H136",
+      "korean_lines": "415",
+      "sol": "A burst of light erupted in midair and turned the whole world white.",
+      "sol_paragraphs": "P184",
+      "sol_range": [
+        183,
+        184
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P189",
+      "baseline_range": [
+        189,
+        189
+      ],
+      "hunk_id": "H137",
+      "korean_lines": "415",
+      "sol": "[^1]: The Korean verb in “get lost” can also mean “go out,” as a flame does.",
+      "sol_paragraphs": "P185",
+      "sol_range": [
+        184,
+        185
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 185,
+  "sol_sha256": "8e8df965fba6e8fab6675bccd1eec4373b4fb053a0fa42630461e0bc0cb4a5de",
+  "version": 1
+}

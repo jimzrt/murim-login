@@ -12,7 +12,7 @@ The mythical monster raged, its body charred black. The half-gray-haired old but
 
 **Hell Fire.**
 
-Even the hellfire summoned from the depths of hell had failed to bring Behemoth down. One of its enormous tusks had melted away without a trace, and its entire body was charred black, but the monster remained standing.
+Even the hellfire summoned from the depths of hell had failed to bring Behemoth down. One enormous tusk had melted away without a trace, and its entire body was blackened, but it was still standing.
 
 And yet…
 
@@ -28,7 +28,7 @@ Flames engulfed the short, slender staff. When they passed, the staff that emerg
 
 It was the cherished weapon with which he had reduced countless monsters to ash during the chaotic years of the Great Cataclysm—the weapon that had earned its master the name Hellfire Mage.
 
-Kim Hwajong pointed the reddish staff at Behemoth and muttered,
+Kim Hwajong pointed the reddish staff at Behemoth.
 
 “Stop. You’re not going anywhere.”
 
@@ -52,7 +52,7 @@ Before fire was a symbol of destruction, it was a force of purification.
 
 The instant the black mist touched the flames, it crumbled away like ash.
 
-The enormous eyes of the monster looking down upon the earth reflected the figure of a lone human standing tall.
+The monster’s enormous eyes, gazing down at the ground, reflected the human standing before it.
 
 —What. Is. This?
 
@@ -60,19 +60,19 @@ Even Behemoth had not expected it.
 
 Its opponent was a mere human. Yet the small, insignificant creature had wounded it—and now had nullified its attack.
 
-—You. Hu. Man!
+—You. Are. Human!
 
 A roar laden with powerful Fear shook the entire area. But though fire flickered in Kim Hwajong’s eyes, his heart was utterly calm.
 
 The monster had misjudged one thing.
 
-It did not realize that the old human standing before it possessed none of the fear that everyone carried deep in their hearts.
+The fear everyone carried deep inside them did not exist in this old human—not now.
 
 *I’m glad, Young Master.*
 
 Kim Hwajong smiled at the words that would never reach him. His only fear was moving farther from this disaster even now.
 
-As long as that child, Choi Minwoo, could survive… it did not matter what happened to him.
+As long as that child, Choi Minwoo, survived… nothing else mattered.
 
 *Even if I die here.*
 
@@ -100,7 +100,7 @@ Ssshhh-shhk! Slash!
 
 The ground split and tore like paper. Kim Hwajong had already escaped by the narrowest margin.
 
-A low voice escaped between the old butler’s lips as he charged toward Behemoth’s flank.
+As the old butler charged toward Behemoth’s flank, he spoke again.
 
 “Shoot forth.”
 
@@ -108,7 +108,7 @@ A low voice escaped between the old butler’s lips as he charged toward Behemot
 
 BOOM!
 
-Flames burst from the tip of the foot he planted.
+Flames exploded beneath his foot.
 
 The blast sent Kim Hwajong forward like a streak of fire. A dense shadow fell over his head.
 
@@ -138,7 +138,7 @@ The defensive spell had bought him a moment.
 
 Behemoth’s trunk swept past by a hair and smashed into the ground. Hundreds of fragments flew outward, scraping across Kim Hwajong’s calf.
 
-The pain felt like a burn. But instead of groaning, the old butler exposed his bloodstained teeth and smiled.
+Pain burned through his leg. The old butler bared his bloodstained teeth in a smile.
 
 “Didn’t I tell you? You’re not going anywhere.”
 
@@ -152,7 +152,7 @@ Kim Hwajong coughed up blood.
 
 Dazzling light-flames erupted as the spell was completed.
 
-The ultimate fire spell, carrying power faster and more formidable than any cannon, shot toward the monster’s two forelegs—the same forelegs that Choi Minwoo had already cut halfway through.
+The highest-tier fire spell carried more power than any cannon and flew faster than any shell. It hurtled toward Behemoth’s two forelegs—the ones Choi Minwoo had already cut halfway through.
 
 —You…!
 
@@ -160,7 +160,7 @@ FWOOSH—BOOOOOOM!
 
 Behemoth’s cry vanished beneath a blast that shook the entire area.
 
-The fire that tore through space burst open the wounds that had not yet healed and swept through the inside of the legs.
+The flames tore through space, burst open the wounds that had yet to heal, and swept through the legs.
 
 Sizzle.
 
@@ -198,27 +198,27 @@ His vision flashed white. An enormous blow engulfed him in pain and sent him fly
 
 BOOM!
 
-With a thunderous crash, his back smashed into solid rock and broke. Something unstoppable surged up from deep inside him.
+His back struck solid rock with a crash, and something rose uncontrollably from deep inside him.
 
 “Gueeeeeegh!”
 
 The old butler looked down at what he had vomited, the light fading from his eyes. Small pieces of his organs lay in the pool of dark red blood.
 
-His ears felt blocked, as though his eardrums had burst. Through his blurred vision, a memory from long ago rose like a haze.
+His ears rang, as though his eardrums had burst. Through his blurred vision, a memory from long ago shimmered into view.
 
 *“Your fire magic is impressive. Were you an arsonist before this?”*
 
 *“…What kind of crazy shit is that? If you’re not going to help, get lost.”*
 
-*“Fortunately, I won’t have to ‘go out,’ then. I’m going to help you and everyone here.”*[^1]
+*“Fortunately, I won’t have to go out. I’m going to help you and everyone here.”*[^1]
 
 *“Hmm. That changes things. What’s your name?”*
 
 *“Cheon Taemin.”*
 
-He had not known that this man, who looked absurdly young for his age, would become the idol to whom Kim Hwajong would devote his entire life.
+When they first met, Kim Hwajong had no idea that the man who looked absurdly young for his age would become someone he would devote his life to.
 
-But that became reality soon enough.
+Before long, he did.
 
 One year, two years, five years… By the end of the long, terrible Great War, Kim Hwajong had become Cheon Taemin’s shadow.
 
@@ -232,7 +232,7 @@ Cheon Taemin answered his question with one of his own.
 
 *“I don’t know. But I’ll do anything you ask.”*
 
-*“Then join the Guild. I need you. I’ve brought Jungryong and Cheonwoo in too.”*
+*“Then join the Guild. I need you. Jungryong and Cheonwoo have joined too.”*
 
 *“That Peace Guild thing?”*
 
@@ -248,7 +248,7 @@ Cheon Taemin answered his question with one of his own.
 
 As Taemin had said, Kim Hwajong never did.
 
-Not even after his relationship with his two trusted comrades and closest sworn brothers grew distant, and after it became difficult to see Cheon Taemin’s face.
+Not when he grew distant from his two trusted comrades and close sworn brothers. Not when seeing Cheon Taemin became difficult.
 
 Peace had come, but Kim Hwajong’s fiery temper remained, and he still swore constantly.
 
@@ -278,7 +278,7 @@ That was how the Hellfire Mage, who had set a page of the Great Cataclysm ablaze
 
 *“Young Master, you mustn’t run! You’ll hurt yourself—oh dear.”*
 
-*“Young Master. Being a picky eater is bad for your health. Please eat.”*
+*“Young Master, it isn’t good for you to be picky. Please eat.”*
 
 *“Young Master, please don’t cry.”*
 
@@ -288,17 +288,17 @@ Time flowed like a river.
 
 The boy grew into a young man, and white frost settled over Kim Hwajong’s hair.
 
-Even after Cheon Taemin vanished without a trace, Kim Hwajong remained steadfast in his place.
+Even after Cheon Taemin disappeared, Kim Hwajong remained at his side.
 
-His Young Master no longer ran about recklessly, ate every kind of food without complaint, or cried while thinking of the parents who had left him too soon.
+His Young Master no longer ran recklessly. He ate all kinds of food and no longer cried for the parents he had lost so young.
 
 Then, one day, Kim Hwajong saw traces of someone he had not seen in a long time in the grown young man’s face.
 
-*“You said you were going to create a Guild.”*
+*“You’re going to establish a Guild?”*
 
 *“Yes. I’m sorry to ask, Butler Kim, but I need you to serve as Guild Master.”*
 
-*“If that is what you wish, Young Master, I will do anything. But what do you intend to name the Guild?”*
+*“If that is what you wish, Young Master, I will do anything. What do you intend to call it?”*
 
 *“The Peace Guild. I’m going to call it the Peace Guild.”*
 
@@ -318,7 +318,7 @@ Kim Hwajong thought there would be nothing but good days ahead. From then on. Fo
 
 He thought he would stay beside his Young Master and watch him grow.
 
-*Today really was… the best day of my life.*
+*Today was supposed to be… the best day of my life.*
 
 Cough.
 
@@ -346,7 +346,7 @@ The mythical monster smiled in satisfaction at the dying old butler and opened i
 
 FWOOSH.
 
-A tremendous gust swept through the entire area.
+A tremendous gust swept across the ground.
 
 The flames that had yet to go out, someone’s scattered limbs and blood, even the rocks—all were drawn in.
 
@@ -354,13 +354,13 @@ They spun like a tornado inside Behemoth’s mouth.
 
 “Young… Master.”
 
-No. That was not it. Though his words would never reach him, this was his final greeting.
+No. Not that. Though the words would never reach him, this was his final farewell.
 
 A faint smile touched his wrinkled lips.
 
 “Minwoo.”
 
-At the very moment his fading voice escaped—
+The instant his fading voice spoke the name—
 
 Sssshhhh—FLASH!
 
