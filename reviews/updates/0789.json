@@ -1,0 +1,101 @@
+{
+  "chapter": 789,
+  "files": {
+    "characters/Emmanuel.md": "f3d19921eceb2cd919e029ff3aa03485b765567f88863c5eb56369855d30ff68",
+    "characters/Jin Taekyung.md": "487d1f35cc58ee9397823f0e935640883b604e88aba8b14b73081acdf1698325",
+    "characters/Jintae.md": "dc2bbaa3ce11800ed527ce4ae271e5d3bf4847c5dffcfa56e51d3e5c956612eb",
+    "characters/Michael.md": "de0c89048ec9e723011f603b722f93027088c9d60466984073e893933c82ed88",
+    "characters/The Prophet.md": "8ad56fa94fcb0f1604f9358bd85977c28dc9fe73d1eabf3e60301cb143d8b7d7",
+    "docs/ADDRESS.md": "ce37c4566435af26d5f9e0f8c3be8f18f1a8865dea42552bf6278747296528c8",
+    "docs/CONTEXT.json": "039fe963f276a2c3e626d1607267a996a70137f9e3246788aef94ee640bf4914",
+    "docs/NAMES.md": "1cdb7321521fc0fa7ea0c4782e2f2dfdb5a3d3aff2659ffca9e42c35a3de25f4",
+    "docs/STATE.md": "cce0cc449cac85185fc1bf9c784d8481e21dcf5fb442b14c2ec4289168819840",
+    "summaries/beats/0789.md": "a39b16e78f034addf96f9a172b419785b1ef703c314afac70a36d11464893ffe"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "최 팀장",
+        "kinship": "Federation Alliance Leader to Team Leader Choi",
+        "normal_address": "Team Leader Choi",
+        "notes": "Jin addresses Choi respectfully while asking about The Prophet.",
+        "speaker": "진태경",
+        "speech_level": "polite-familiar"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "Team Leader Choi to Federation Alliance Leader",
+        "normal_address": "Mr. Jin Taekyung",
+        "notes": "Choi addresses Jin as 진태경 씨.",
+        "speaker": "최 팀장",
+        "speech_level": "polite-familiar"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin’s nightmare showed a world consumed by fire and then a rift splitting the sky and space; whether it foretells an actual catastrophe remains unknown.",
+        "Jin has awakened, accepted the World Hunter Federation’s appointment as Alliance Leader, and returned to contact with Team Leader Choi.",
+        "Major political and business figures tied to Michael Silbert were arrested after the National Assembly battle; The Prophet’s whereabouts remain unknown."
+      ],
+      "plot": [
+        "After a nightmare filled with familiar dead and an apparently world-ending blaze, Jin Taekyung wakes from his long sleep to find Hayeon and his mother at his side. He accepts the World Hunter Federation’s appointment as Alliance Leader, then meets Team Leader Choi, who reports arrests of major figures tied to Michael Silbert. Jin asks where The Prophet is."
+      ],
+      "translation_decisions": [
+        "Keep “Rift” as the rendering of 균열.",
+        "Treat the fire and rift in Jin’s nightmare as an ominous vision, not confirmed future events."
+      ]
+    },
+    "chapter": 789,
+    "context": {
+      "active_continuity": [
+        "Michael Silbert is dead; Huginn was captured alive, and Michael’s forces were killed or captured.",
+        "Jin Taekyung has awakened and accepted the World Hunter Federation’s appointment as Alliance Leader.",
+        "The Federation’s operation against Michael Silbert’s associates has led to arrests of major political and business figures.",
+        "Jin’s nightmare showed a world-ending fire and a rift in the sky and space; their significance is unresolved.",
+        "Jin’s sister Hayeon and mother were with him when he woke.",
+        "The Prophet’s whereabouts are unknown; Jin has asked Team Leader Choi about them."
+      ],
+      "continuity_sources": [
+        788,
+        789
+      ],
+      "open_questions": [
+        "Where is The Prophet?",
+        "Was Jin’s nightmare of fire and a rift a warning of an actual catastrophe?"
+      ],
+      "safe_through": 789,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Treat the fire and rift in Jin’s nightmare as ominous imagery, not established future events."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Werner",
+        "korean": "베르너",
+        "notes": "Swiss Interior Minister arrested for ties to Michael Silbert."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Emmanuel is the President of France and a longtime political beneficiary of Michael Silbert.",
+        "path": "characters/Emmanuel.md",
+        "replacement": "- **Role:** Emmanuel is the arrested former President of France and a longtime political beneficiary of Michael Silbert."
+      },
+      {
+        "current": "- **Relationships:** He served Michael Silbert with absolute loyalty and was taken alive by Chuck Hagel.",
+        "path": "characters/Emmanuel.md",
+        "replacement": "- **Relationships:** He served Michael Silbert with absolute loyalty and was arrested after Michael’s death."
+      },
+      {
+        "current": "- **Role:** Jin Taekyung is the Third Young Master of the Jin Family of Taiyuan, Jeok Cheongang’s Disciple, the Fire Gate Clan’s nineteenth successor, Pavilion Master of the Fire Dragon Pavilion, a Supreme Peak master and publicly recognized S-rank-level Hunter with an A-rank license, a traveler between Murim and another world, and the World Hunter Federation’s new Alliance Leader.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Role:** Jin Taekyung is the Third Young Master of the Jin Family of Taiyuan, Jeok Cheongang’s Disciple, the Fire Gate Clan’s nineteenth successor, Pavilion Master of the Fire Dragon Pavilion, a Supreme Peak master and publicly recognized S-rank-level Hunter with an A-rank license, a traveler between Murim and another world, and the World Hunter Federation’s Alliance Leader."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The unusually small, heavily callused hand belonged to Faye Chen.",
+      "defect": "The character is called Pai Chen earlier in the packet.",
+      "id": "C01",
+      "rationale": "Restores the name used in Chapters 785 and 786.",
+      "replacement": "The unusually small, heavily callused hand belonged to Pai Chen.",
+      "severity": "minor",
+      "source": "Chapter 787, Hunters carrying Jin Taekyung"
+    },
+    {
+      "confidence": 0.87,
+      "current": "World Hunter Federation’s first official announcement: “Two hours ago, we summarily executed Michael Silbert and his followers, who betrayed humanity. The operation is still ongoing.”",
+      "defect": "The announcement says all his followers were executed, but Chapter 786 establishes that some were captured, including Huginn.",
+      "id": "C02",
+      "rationale": "Limits the execution claim to the battle at the National Assembly without erasing the captives or the continuing operation.",
+      "replacement": "World Hunter Federation’s first official announcement: “Two hours ago, we summarily executed Michael Silbert and the traitors who fought alongside him at the National Assembly. The operation is still ongoing.”",
+      "severity": "major",
+      "source": "Chapter 788, breaking-news announcement"
+    }
+  ],
+  "summary": "The packet is largely consistent. One name drifts, and a news report contradicts the established capture of Michael Silbert’s followers.",
+  "version": 1
+}
