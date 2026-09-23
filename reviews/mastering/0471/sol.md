@@ -50,7 +50,7 @@ And Jeok Cheongang was not alone in his shock.
 
 “Ha.”
 
-“Ah, ahhh!”
+“Ah…!”
 
 The greatest assassin of all time, known as the Slaughter Saint, could not suppress his astonished sigh. Crouching Dragon Guest Zhuge Feng, whose knowledge and genius were said to rival those of Zhuge Wuhou, was struck speechless.
 
@@ -82,9 +82,9 @@ Zhuge Feng, who still remained at the Peak realm, let out a faint groan as a tre
 
 *Impossible.*
 
-The two extraordinary martial artists known as the Fire King and the Slaughter Saint immediately realized the identity of the unfamiliar sensation that had come over them.
+The two extraordinary martial artists known as the Fire King and the Slaughter Saint immediately recognized the unfamiliar sensation that had seized them.
 
-It was an emotion they had forgotten long ago. A stale, ancient emotion they had been unable to feel since becoming beings so powerful that no one dared approach them.
+It was an emotion they had forgotten long ago. An ancient, long-buried feeling they had not experienced since becoming masters no one dared challenge.
 
 Fear.
 
@@ -188,7 +188,7 @@ I was thinking that it resembled the Sea Serpent I had read about in the *Monste
 
 —Grrrrrrr…!
 
-In that split second, the Water God Dragon’s eyes flashed as it finally realized the situation was taking an unusual turn.
+The Water God Dragon’s eyes flashed as it finally realized that the situation had taken a bad turn.
 
 I did not miss that brief opening.
 
@@ -236,7 +236,7 @@ I had sensed it from the beginning, but the bastard was definitely intelligent. 
 
 My back went cold as I felt the killing intent hurtling toward me.
 
-But an instant ahead of it, a powerful force came rushing in.
+But half a beat before it arrived, another powerful force shot past.
 
 *Shik. Schk!*
 
@@ -274,9 +274,9 @@ One of the Water God Dragon’s black horns was cut in half the instant it met t
 
 —Graaaargh!
 
-“Gasp!”
+“Hup!”
 
-Mungyeong’s figure shook as he tried to thrust a small sword between the Water God Dragon’s scales.
+Mungyeong’s slender figure wavered as he tried to drive a small sword from somewhere between the Water God Dragon’s scales.
 
 *My guess was right.*
 
@@ -302,6 +302,6 @@ Its maw was falling directly toward me as I charged forward with all my strength
 
 My reflection appeared in its enormous blood-red pupil, split vertically down the middle—White Flame thrust forward, wreathed in blue fire.
 
-“I told you not to open those eyes like that, you sibu-leol bastard.”
+“I told you not to look at me like that, you sibu-leol bastard.”
 
 *Shnk!*

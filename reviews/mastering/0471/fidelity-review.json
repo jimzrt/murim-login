@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "Years later, when his master returned to the earth, he became the clan’s sole Disciple and Sect Leader.",
+      "defect": "“Years later” adds a specific duration that the source does not establish; it only says that time passed.",
+      "id": "F01",
+      "rationale": "시간이 흘러 means that time passed, without specifying years.",
+      "replacement": "When time passed and his master returned to the earth, he became both the clan’s sole Disciple and its Sect Leader.",
+      "severity": "minor",
+      "source": "Korean line 7"
+    },
+    {
+      "confidence": 0.9,
+      "current": "shake the iron minds of two men who had spent decades establishing their own understanding of the world",
+      "defect": "The rendering replaces the source’s distinct “domains and common sense” with a generic understanding of the world, and adds the specific duration “decades” to the source’s less precise long passage of time.",
+      "id": "F03",
+      "rationale": "자신만의 영역과 상식 refers separately to their own domains and common sense; 오랜 세월 does not specify decades.",
+      "replacement": "shake the firm minds of two men who had spent a long time building their own domains and common sense",
+      "severity": "minor",
+      "source": "Korean line 93"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Flames blazed in Jeok Cheongang’s eyes as he watched.",
+      "defect": "The source depicts flames streaming out from his eyes, not merely burning within them.",
+      "id": "F04",
+      "rationale": "눈동자에서 화염이 줄기줄기 쏟아졌다 describes flame gushing or streaming from his eyes.",
+      "replacement": "Flames streamed from Jeok Cheongang’s eyes as he watched the sight.",
+      "severity": "minor",
+      "source": "Korean line 105"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The only reason the first attack had landed was that I hadn’t known the bastard could control hundreds of whiskers like that.",
+      "defect": "The source emphasizes that he allowed the first attack to land because he did not know the whiskers could be used that way. “Had landed” drops his agency, while “control” overstates 활용하다 as direct control.",
+      "id": "F05",
+      "rationale": "첫 공격을 허용한 것도 makes the protagonist’s failure an allowance or concession, and 저런 식으로 활용할 줄 몰랐기 때문 refers to not knowing how they could be utilized.",
+      "replacement": "The only reason I had allowed the first attack to land was that I hadn’t known the bastard could use hundreds of whiskers like that.",
+      "severity": "minor",
+      "source": "Korean line 215"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Streaks of light filled with the Water God Dragon’s power poured toward me from every direction.",
+      "defect": "The source specifies that the streaks were pouring downward; “toward me” removes that vertical movement detail.",
+      "id": "F06",
+      "rationale": "사방에서 쏟아져 내리는 describes light streaks cascading or pouring down from all directions.",
+      "replacement": "Streaks of light filled with the Water God Dragon’s power poured down toward me from every direction.",
+      "severity": "minor",
+      "source": "Korean line 221"
+    },
+    {
+      "confidence": 0.89,
+      "current": "Mungyeong’s figure shook as he tried to thrust a small sword between the Water God Dragon’s scales.",
+      "defect": "The source identifies the sword as one whose origin was unknown; the current version omits that unexplained appearance.",
+      "id": "F07",
+      "rationale": "어디서 나왔는지 모를 소검 means a small sword that no one knew the origin of, preserving the physical mystery of the weapon.",
+      "replacement": "Mungyeong’s figure shook as he tried to thrust a small sword of unknown origin between the Water God Dragon’s scales.",
+      "severity": "minor",
+      "source": "Korean line 267"
+    },
+    {
+      "confidence": 0.88,
+      "current": "his fist slammed into the Water God Dragon’s midsection",
+      "defect": "“Midsection” broadens the target from the specifically identified waist area.",
+      "id": "F08",
+      "rationale": "허리 부분 identifies the waist or waist section, not the entire midsection.",
+      "replacement": "his fist struck the Water God Dragon around the waist",
+      "severity": "minor",
+      "source": "Korean line 277"
+    }
+  ],
+  "summary": "The assembled chapter is largely faithful, but several concrete details were narrowed, generalized, or omitted.",
+  "version": 1
+}
