@@ -1,6 +1,6 @@
 # Won Gyun (원균)
 
-- **Safe through:** Chapter 350
+- **Safe through:** Chapter 849
 - **Aliases:** None
 - **Role:** City Lord of Sichuan Province who commands the region's government forces and local officials.
 - **Personality:** Corrupt, vain, cowardly, and self-important, but quick to submit when confronted with imperial authority or personal incentives.
