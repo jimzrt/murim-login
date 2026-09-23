@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, but it omits two source details and changes an escort into wording that can imply an attack.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 173–177",
+      "current": "If word spread that the entire Zhuge Clan had been slapped in a line by the Fire King Jeok Cheongang, the clan would have to take down its sign from that very day onward.",
+      "defect": "The passage omits that martial artists value pride almost as much as their lives, and that even the Zhuge Clan, one of the Five Great Families, would not be exempt. Both points support the consequence of the public humiliation.",
+      "replacement": "Martial artists valued their pride almost as much as their lives. If word spread that the entire Zhuge Clan had been slapped in a line by the Fire King Jeok Cheongang, the clan would have to take down its sign from that very day onward. Even the Zhuge Clan, one of the Five Great Families, would not be exempt.",
+      "rationale": "The source explicitly gives both the importance of pride and the Zhuge Clan’s status among the Five Great Families before concluding that status would not protect it.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 35",
+      "current": "How did you get so much shorter as you aged?",
+      "defect": "This makes the question specifically about becoming shorter. The Korean asks how he grew old; the following sentence separately observes that people naturally get shorter with age.",
+      "replacement": "How did you get so old, then?",
+      "rationale": "The source distinguishes the question about aging from the narrator’s subsequent comment about shrinking with age. The accepted baseline preserves that distinction.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 101",
+      "current": "Ship-Fire Boy Mu Song and the river bandits of Water Dragon Stronghold were there too, ready to take us out.",
+      "defect": "“Take us out” can imply killing or eliminating them, rather than escorting them out as the source says.",
+      "replacement": "Ship-Fire Boy Mu Song and the river bandits of Water Dragon Stronghold were there too, ready to escort us out.",
+      "rationale": "The source says they would take the group outside; it does not describe an attack.",
+      "confidence": 0.94
+    }
+  ]
+}

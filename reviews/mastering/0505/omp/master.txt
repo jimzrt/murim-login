@@ -14,7 +14,7 @@ Blazing red hair streamed in the wind. A solid frame of taut muscle stood nearly
 
 Could a person change *that* much?
 
-The Fire King Jeok Cheongang I knew had been a short, impossibly old man who stood barely five feet tall. He had looked like he could hardly grow any older—not like a fit middle-aged man who appeared to be in his mid-to-late forties.
+The longer I looked at him, the stranger I felt. The Fire King Jeok Cheongang I knew was a short old man who looked about as old as a person could get. He wasn’t a muscular middle-aged man who appeared to be in his mid-to-late forties.
 
 Jeok Cheongang noticed me staring. He stopped walking and muttered under his breath.
 
@@ -158,7 +158,7 @@ Before I’d finished the thought, Zhuge Feng answered without taking a breath.
 
 I would’ve picked number two myself.
 
-If word spread that the entire Zhuge Clan had been slapped in a line by the Fire King Jeok Cheongang, the clan would have to take down its sign from that very day onward.
+Martial artists valued their pride almost as much as their lives. If word got out that the entire Zhuge Clan had lined up to be slapped by the Fire King, they might as well take down their signboard that very day. Being one of the Five Great Families wouldn’t save them.
 
 Zhuge Feng had chosen wisely. Still, he couldn’t quite hide his unease.
 
@@ -180,7 +180,7 @@ Jeok Cheongang looked at me.
 
 “Besides, if those Demonic Cult bastards hadn’t set Mount Jiuhua on fire that day, another bond would never have formed… Why are you making that face?”
 
-I hurriedly composed my expression before answering.
+I hurriedly straightened my expression.
 
 “This is my normal face.”
 
@@ -190,11 +190,9 @@ If I admitted I’d expected him to visit the former Family Head’s grave and p
 
 *Still, he’s giving it this much thought. I’m a little touched.*
 
-As Jeok Cheongang had said, if he had remained a reclusive master in Mount Jiuhua, we would never have ended up working together.
+As Jeok Cheongang had said, if he’d remained a recluse on Mount Jiuhua, we wouldn’t be here together now. We would have lived in separate worlds without ever knowing the other existed.
 
-But the pendulum of fate had led me to the Murim and connected me with Jeok Cheongang.
-
-And whether this was fate as well or not, we had to move toward our next destination once more.
+But the pendulum of fate had brought me to Murim and led me to Jeok Cheongang. And perhaps it was fate again that called us onward.
 
 *Henan.*
 
@@ -248,21 +246,21 @@ Hyeoncheon gazed down at the letter on the table. Across its envelope, written i
 
 Only three characters, yet their weight was unmistakable.
 
-The Murim Alliance represented orthodox Murim itself. It was also proof that a war rivaling the Great Faction War was approaching.
+The Murim Alliance embodied the authority of orthodox Murim itself. Its return was also proof that a war rivaling the Great Faction War was approaching.
 
-*Is it truly… beginning like this?*
+*Is it truly beginning like this?*
 
 Hyeoncheon’s expression grew heavy. He could almost hear the screams of the countless Senior and Junior Brothers who had fallen bleeding in the Great Faction War. The horrors of his youth were about to repeat themselves.
 
-*This unworthy Disciple finally understands your heart, Master.*
+*This unworthy Disciple finally understands how you felt, Master.*
 
-Hyeoncheon was thinking of the master who had died after failing to overcome the injuries he had suffered during the Great Faction War when—
+He was thinking of his master, who had died of wounds suffered in that war, when—
 
 “S-Sect Leader!”
 
 An urgent shout came from outside the pavilion.
 
-Hyeoncheon sensed something strange and flicked his sleeve. A soft stream of internal force shot out and flung open the pavilion door.
+Sensing something was wrong, Hyeoncheon flicked his sleeve. A gentle stream of internal force shot forth and flung open the door.
 
 Hyeongong recognized the face beyond it and frowned.
 
@@ -278,9 +276,7 @@ The man who had shouted was a second-generation Wudang Disciple, one of the purs
 
 Hyeongong broke off. His Senior Brother’s expression was grim.
 
-And Hyeongong’s suspicion was exactly right.
-
-Hyeoncheon silently stared at the second-generation Disciple, who seemed not to know what to do, then spoke in a low voice.
+Hyeoncheon studied the Disciple, who stood there at a loss, then spoke quietly.
 
 “We ought to be glad you caught the Killing Ghost, yet you look troubled. What happened?”
 
@@ -294,7 +290,7 @@ Unable to go on, the Disciple lowered his head.
 
 “We’re bringing the Killing Ghost’s body here now. I think it would be best if you saw it and judged for yourself, Sect Leader.”
 
-“What is this supposed to—”
+“What do you mean?”
 
 Hyeoncheon did not have to wait long for an answer.
 
