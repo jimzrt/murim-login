@@ -1336,3 +1336,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장님 | Alliance Leader to subordinate team leader | Team Leader Choi | polite | Jin addresses him formally while directing the pursuit. |
 | 최 팀장 | 진태경 씨 | subordinate team leader to Alliance Leader | Mr. Jin Taekyung | polite | Team Leader Choi questions Jin’s westward plan. |
 | 야마모토 겐지 | 진 사마 | Japanese Hunter to the Alliance Leader who assigned him to the westward group | Jin-sama | formal and deferential | Yamamoto protests being sent west with Jin. |
+| 진태경 | 도플갱어 | enemy | you; the Doppelganger | blunt and informal | Jin directly challenges the Doppelganger and demands to know what it wants. |

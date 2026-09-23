@@ -1,20 +1,19 @@
 # Translation State
 
-- Last completed: 813
-- Next chapter: 814
-- Current block: 810–814 (4/5)
-- Latest translation: `translations/0813.md`
-- Latest summary: `summaries/beats/0813.md`
-- Safe profiles through: chapter 813
+- Last completed: 814
+- Next chapter: 815
+- Current block: 810–814 (5/5)
+- Latest translation: `translations/0814.md`
+- Latest summary: `summaries/beats/0814.md`
+- Safe profiles through: chapter 814
 
 ## Current Block
 
-- Jin uses the Truthful Eye on The Prophet and discovers he is a Level 170 Doppelganger titled “The Final Abyss.” The creature reveals that it met Michael Silbert during the 2020 Battle of Paris, made a pact with him, and had him kill the surviving humans in exchange for his own survival. When Jin asks why the Doppelganger wanted to live among humans, a distant tremor interrupts.
+- With fanatics closing in and the Doppelganger regenerating by drawing on the lives, abilities, and memories of its victims, Jin destroys its Yamamoto Genji identity with Scorching Yang Qi. The Doppelganger tries to manipulate Jin into fleeing by invoking the suffering his death would cause, but Jin sees through the ploy and attacks again. Reinforcements arrive over the canyon on eagles and griffins.
 
 ## Open Questions
 
-- Why did the Doppelganger want to live among humans?
-- What is causing the tremor in the canyon?
+- Why does The Prophet want Jin to flee, and what does it ultimately want?
 - Is Magic Johnson human?
 
 ## Exceptional Decision
