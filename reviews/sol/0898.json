@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*Oh. This time, maybe I’ll be able to save the Captain.*",
+      "defect": "Mujin says this to the narrator; italics turn it into an unspoken thought and obscure who is speaking.",
+      "id": "F01",
+      "rationale": "The line follows Mujin looking directly at him and speaking, and ends by identifying it as the thought Mujin had.",
+      "replacement": "“Oh, I thought, maybe this time I can be the one to save you, Captain.”",
+      "severity": "critical",
+      "source": "“아, 이번만큼은 내가 조장님을 구해 줄 수도 있겠구나, 하는 생각이요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then this time, wouldn’t even a lowlife like me be useful?",
+      "defect": "“Lowlife” suggests bad character rather than inferior martial skill.",
+      "id": "F02",
+      "rationale": "하수 describes someone less skilled than the masters he has just mentioned.",
+      "replacement": "Then this time, couldn’t even a low-level fighter like me be useful?",
+      "severity": "major",
+      "source": "그럼 이번만큼은 저 같은 하수도 도움이 되지 않겠어요?"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Keep this up and I might get fed up and return to the family estate on my own.",
+      "defect": "“The family estate” leaves which family he serves unclear and suggests a property rather than his return to the Jin Family.",
+      "id": "F03",
+      "rationale": "His mock threat is to stop accompanying the Captain and return to 본가, the family he serves.",
+      "replacement": "Keep this up and I might get fed up and head back to the Jin Family on my own.",
+      "severity": "major",
+      "source": "계속 이러시면 저도 수틀려서 혼자 본가로 복귀하는 수가 있습니다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But that could take a while. In a situation like this, it doesn’t feel right to leave you behind. You’re not in your usual condition, either.",
+      "defect": "The draft drops “longer than expected” and changes Mujin’s concern about being away from his post into a statement about leaving the Captain behind.",
+      "id": "F04",
+      "rationale": "생각보다 marks a comparison with his expectation; 자리를 비우는 건 concerns his absence during the crisis.",
+      "replacement": "But that’s longer than I expected. Being away at a time like this is a bit… And you’re not in your usual condition, either.",
+      "severity": "major",
+      "source": "하지만 생각보다 오래 걸리는데요. 지금 같은 상황에서 자리를 비우는 건 좀…… 조장님 몸 상태도 평소 같지 않으시잖아요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was something I’d prepared two days ago, but had hesitated to take out until the very end.",
+      "defect": "“Hesitated to take out until the very end” implies a delay; he was undecided whether to take out the note at all.",
+      "id": "F05",
+      "rationale": "꺼낼까 말까 expresses a choice between taking it out and not taking it out.",
+      "replacement": "I’d prepared it two days ago, but until the last moment, I’d wavered over whether to take it out at all.",
+      "severity": "major",
+      "source": "이미 이틀 전 준비해 두었던, 마지막까지 꺼낼까 말까 망설였던 물건이었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "In a dangerous gamble where no one knows what will happen, you must want to save as many people as you can.",
+      "defect": "The generalized “as many people as you can” loses Hong Jin’s pointed “even one more person,” which bears on why the Captain sent people away.",
+      "id": "F06",
+      "rationale": "한 명이라도 더 emphasizes the value of saving one additional life.",
+      "replacement": "In a dangerous gamble where no one knows what will happen, you must want to save even one more person.",
+      "severity": "major",
+      "source": "어떻게 될지 모르는 이 위험한 도박판에서, 한 명이라도 더 살리고 싶을 테니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "They say humans are creatures of habit.",
+      "defect": "“Habit” shifts the opening claim from adaptation to routine.",
+      "id": "F07",
+      "rationale": "적응 is adaptation; the opening sets up what repeated experience still cannot make familiar.",
+      "replacement": "Someone once said humans are creatures of adaptation.",
+      "severity": "minor",
+      "source": "누군가 그랬다. 인간은 적응의 동물이라고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Right, I was a shrike worrying about a Heavenly Eagle.”\n\n“Usually, it’d be a crane you were worried about, not a Heavenly Eagle.”",
+      "defect": "Both birds in the altered idiom are misidentified: 뱁새 is a crow-tit, and 황새 is a stork.",
+      "id": "F08",
+      "rationale": "The Captain’s correction depends on the familiar crow-tit-and-stork pairing; Mujin has substituted the grander Heavenly Eagle.",
+      "replacement": "“Right, I was a crow-tit worrying about a Heavenly Eagle.”\n\n“Usually, it’d be a stork you were worried about, not a Heavenly Eagle.”",
+      "severity": "minor",
+      "source": "“하긴, 뱁새가 천응(天鷹)을 걱정했네요.”\n\n“보통은 천응이 아니라 황새일 텐데.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "If you can move your eyes properly, you’re already halfway there.",
+      "defect": "“Move your eyes properly” sounds like an eye-movement technique rather than watching an opponent while under attack.",
+      "id": "F09",
+      "rationale": "The advice follows Mujin shutting his eyes against an expected blow.",
+      "replacement": "Even just keeping your eyes on your opponent puts you halfway there.",
+      "severity": "minor",
+      "source": "눈깔만 제대로 굴려도 절반은 먹고 들어가니까."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but one spoken line becomes an unspoken thought, and several choices alter characterization or obscure the decision to send the pavilion away.",
+  "version": 1
+}

@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 897
-- Next chapter: 898
-- Current block: 895–899 (3/5)
-- Latest translation: `translations/0897.md`
-- Latest summary: `summaries/beats/0897.md`
-- Safe profiles through: chapter 897
+- Last completed: 898
+- Next chapter: 899
+- Current block: 895–899 (4/5)
+- Latest translation: `translations/0898.md`
+- Latest summary: `summaries/beats/0898.md`
+- Safe profiles through: chapter 898
 
 ## Current Block
 
-- As the capital reels from the flood, the Emperor announces a three-day birthday banquet for the imperial prince, beginning the following day. Public anger grows, and a mysterious man in a bamboo hat urges the crowd to seek shelter at Shangshan. An elderly scholar interprets this as a reference to Prince Shangshan, prompting the crowd to imagine him ascending the throne; the bamboo-hat man vanishes before they can question him.
+- After losing two days to cultivation, Jin Taekyung reunites with Hyuk Mujin, whose candor about being afraid—and resolve to save Taekyung—helps him put aside his doubts. Taekyung sends Mujin and the rest of the Fire Dragon Pavilion, except himself and his master, to await Murim Alliance reinforcements and gives Mujin a note with a destination to check once they are sure they are not being followed. Hong Jin then accompanies Taekyung toward the Grand Banquet Hall.
 
 ## Open Questions
 
-- Who is the cipher’s intended recipient, and what information does it contain?
-- Will the expected Murim Alliance reinforcements arrive for the banquet, and who will be among them?
+- Will the Murim Alliance reinforcements arrive as expected, and who will be among them?
+- What destination is written on Taekyung’s note, and what awaits the group there?
 - Are Ma’s suspicions about the Emperor, Baek Yeon, and So Gyo’s ties to Dark Heaven correct?
 - Who was the bamboo-hat man, and what were his intentions?
 
