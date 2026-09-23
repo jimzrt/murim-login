@@ -1267,3 +1267,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | subordinate team leader to allied Hunter | Mr. Jin | formal and subdued | Addresses Jin directly while reporting the casualties. |
 | 진태경 | 최 팀장 | allied Hunter to subordinate team leader | Team Leader Choi; no vocative | casual and restrained | Questions Choi about the casualties and communicates with him through Sound Transmission about Michael. |
 | 시몬 | 보도 국장 | subordinate reporter to news director | News Director | internal, profane, and insulting | Simon curses the news director in a private memo before deleting it. |
+| 미카엘 | 진 | public rival and hostile adversary | Jin | warmly familiar in public and quietly coercive in private | Michael greets Jin warmly before the cameras while privately acknowledging their adversarial relationship. |
+| 진태경 | 미카엘 실베르트 | principal adversary | Michael Silbert | hostile, blunt, and insulting in private | Jin names Michael directly while accepting the public handshake and privately rejecting his pretense. |

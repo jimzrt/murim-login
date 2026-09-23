@@ -2273,3 +2273,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 요나스 | **Jonas** | Hunter whose death becomes a motive for revenge. |
 | 조엘 | **Joel** | Given name of Joel Schumacher. |
 | 다니엘 다이스케 | **Daniel Daisuke** | Person blamed for the cancellation of the anti-Jin rally. |
+| 케이프타운 | **Cape Town** | South African city used as the comparison point for the Munich Monster Wave. |

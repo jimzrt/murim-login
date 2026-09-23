@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "By the time they had launched the private aircraft, Jin Taekyung had already moved several steps ahead of them and brought the entire situation to an end.",
+      "defect": "The draft changes an ongoing situation that was already being wrapped up into one that Jin had fully completed by that point.",
+      "id": "F01",
+      "rationale": "마무리되고 있었다 is progressive: the situation was in the process of being concluded, not already fully concluded.",
+      "replacement": "By the time they launched the private aircraft, Jin Taekyung had already moved several steps ahead of them and was wrapping up the entire situation.",
+      "severity": "critical",
+      "source": "전용기를 띄울 때쯤에는 그들보다 몇 걸음이나 빨리 움직인 진태경에 의해 이미 모든 상황이 마무리되고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The moment he Awakened, he had taken responsibility for his family’s livelihood and worked Gates without a single day of rest.",
+      "defect": "“Worked Gates” is unnatural English and loses the image of Jin continually traveling from one Gate to another.",
+      "id": "F02",
+      "rationale": "게이트를 전전하고 means moving repeatedly from Gate to Gate, emphasizing his relentless itinerant work.",
+      "replacement": "The moment he Awakened, he had taken responsibility for his family’s livelihood, going from Gate to Gate without a single day of rest.",
+      "severity": "minor",
+      "source": "각성과 동시에 가족들의 생계를 책임지며 쉬는 날도 없이 게이트를 전전하고,"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“According to the German government’s announcement, the Munich Monster Wave was nearly ten times the size of the one in Cape Town! Don’t you think it took far too long to suppress it?”",
+      "defect": "The pronoun “it” makes the reporter criticize how long Jin took to suppress the Munich wave. In context, the reporter is using Munich’s much greater size to criticize Michael for taking too long in Cape Town, which is why Huginn immediately notes that the reporter dared to compare them.",
+      "id": "F03",
+      "rationale": "The contrast introduced by 그런데 and the following narration about an audacious comparison establish Cape Town as the implied target of the criticism.",
+      "replacement": "“According to the German government’s announcement, the Munich Monster Wave was nearly ten times the size of the one in Cape Town! Given that, don’t you think the Cape Town wave took far too long to suppress?”",
+      "severity": "critical",
+      "source": "“독일 정부의 발표에 따르면, 뮌헨 몬스터 웨이브의 규모는 케이프타운에서의 열 배에 가깝습니다! 그런데 진압까지 너무 많은 시간이 소요되었다고 생각하지는 않으십니까!”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Michael Silbert descended the private aircraft’s stairs with unhurried strides and came to a stop before the countless cameras and flashes.",
+      "defect": "“Unhurried” replaces Michael’s hesitation-free, forceful movement, while “came to a stop” omits the imposing sense of him standing tall before the cameras.",
+      "id": "F04",
+      "rationale": "거침없는 means unhesitating or unchecked, not merely slow and calm, and 우뚝 섰다 describes an upright, conspicuous stance.",
+      "replacement": "Michael Silbert strode down the private aircraft’s stairs without hesitation and stood tall before the countless cameras and flashes.",
+      "severity": "major",
+      "source": "거침없는 걸음으로 전용기의 계단을 내려간 미카엘 실베르트는 수많은 카메라와 플래시 앞에 우뚝 섰다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "We had already been standing there holding hands for nearly half a minute, and several reporters were eyeing us suspiciously.",
+      "defect": "The draft converts the deliberately approximate “dozens of seconds” into the more specific quantity of nearly thirty seconds.",
+      "id": "F05",
+      "rationale": "수십 초 가까이 gives a broad duration measured in tens of seconds and does not specify half a minute.",
+      "replacement": "We had already been standing there holding hands for dozens of seconds, and several reporters were eyeing us suspiciously.",
+      "severity": "minor",
+      "source": "벌써 수십 초 가까이 손만 잡고 있자, 몇몇 기자들이 미심쩍은 눈빛으로 우리를 바라보고 있었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "—I’m in front of the cameras. It would be better for both of us to be a little more careful.",
+      "defect": "The draft changes the subject from their shared situation to Michael alone, weakening his warning that both men are currently being watched.",
+      "id": "F06",
+      "rationale": "카메라 앞이야 describes the situation both speakers are in, as confirmed by the immediately following 서로에게, “for both of us.”",
+      "replacement": "—We’re in front of the cameras. It would be better for both of us to be a little more careful.",
+      "severity": "critical",
+      "source": "- 카메라 앞이야. 좀 더 조심하는 게 서로에게 좋겠지."
+    }
+  ],
+  "summary": "Several scene facts and subjects are altered, most notably the target of the reporter’s criticism and who is in front of the cameras. There are also smaller losses in timing, characterization, quantity, and natural terminology.",
+  "version": 1
+}
