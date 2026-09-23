@@ -18,7 +18,7 @@ Exclamations rose from every direction.
 
 Those admiring Honglan’s beauty hurriedly closed their mouths and left when they noticed my gaze.
 
-Perhaps they were ashamed of behaving that way while hundreds of people had been drowned.
+Perhaps they were ashamed of behaving that way while hundreds of people had drowned.
 
 Then again, it also showed just how extraordinary Honglan’s beauty was—that it could make them forget everything that had happened.
 
@@ -30,7 +30,7 @@ I composed myself and spoke.
 
 Honglan lowered her head slightly before answering.
 
-“Although I cannot compare to my Benefactor, this lowly woman has also trained in martial arts. I do not seem to have much trouble moving.”
+“Though I cannot compare to you, Benefactor, this lowly woman has also trained in martial arts. I do not believe I will have much difficulty moving.”
 
 From what I had sensed, her martial arts barely qualified as First Rate.
 
@@ -40,7 +40,7 @@ She might not have been skilled enough to be called a seasoned First Rate master
 
 Honglan’s being a martial artist had been a stroke of incredible luck, both for her and for the other survivor we had rescued with her.
 
-I asked the military officer who was still standing nearby,
+I turned to the military officer who was still standing nearby.
 
 “Where is Ju Wongong?”
 
@@ -78,7 +78,7 @@ Gung Gibang, standing beside me, spoke with an incredulous expression.
 
 “Th-that…”
 
-“The Poison King, Great Hero Tang Sadok, the Grand Family Head of the Sichuan Tang Clan, was killed too. So was the Heaven-Shaking Venerable Nun of Emei Sect. Three Supreme Peak masters of the previous generation who once shook the martial world, along with more than two thousand martial artists, are dead. And you call them a gang of thugs?”
+“The Poison King, Great Hero Tang Sadok, Grand Family Head of the Sichuan Tang Clan, was killed too. So was the Heaven-Shaking Venerable Nun of Emei Sect. Three Supreme Peak masters of the previous generation who once shook the martial world, along with nearly two thousand martial artists, are dead. And you call them a gang of thugs?”
 
 “I-I heard those rumors, but I did not know the full extent of their power. Then are you saying Dark Heaven was responsible for this?”
 
@@ -122,7 +122,7 @@ The officer had been staring blankly with his mouth open. Now he hurriedly asked
 
 “There is someone I suspect, but testimony from someone who saw it happen firsthand would be more reliable.”
 
-I turned my head and looked at Honglan.
+I turned to Honglan.
 
 With Ju Wongong hovering between life and death, she was the only witness who held the key to unraveling everything.
 
@@ -136,7 +136,7 @@ The question was brief, but it was enough. With everyone’s eyes fixed on her, 
 
 “…!”
 
-Shock and agitation spread through the room in an instant. Amid the commotion, I clenched my fist tightly.
+Shock and agitation swept through the room. Amid the commotion, I clenched my fist.
 
 *Finally.*
 
@@ -152,15 +152,15 @@ Remembering the countless corpses they had left behind, I asked again.
 
 “It was…”
 
-A shallow furrow appeared on Honglan’s smooth, unlined brow.
+A shallow furrow appeared on Honglan’s smooth brow.
 
-She seemed to be recalling what had happened. After hesitating for a moment and steadying her breathing, she began to speak.
+She seemed to be reliving what had happened. After hesitating for a moment and steadying her breathing, she began to speak.
 
 “Everything happened in an instant. The festivities were in full swing when the two military vessels nearby sank one after the other, only moments apart. That was how it began.”
 
 I listened closely to Honglan’s story.
 
-Ju Wongong might have been a distant relative, but he was still a member of the imperial family. The two military ships assigned to escort him had been overwhelmed by a sudden ambush, and the pleasure boat, where the festivities had been reaching their peak, had fallen into chaos as well.
+Ju Wongong might have been only a distant relative, but he was still a member of the imperial family. The two military vessels assigned to escort him had been overwhelmed by the sudden attack, and the pleasure boat, where the festivities had been at their height, had fallen into chaos as well.
 
 “But no one could stop it. Nothing was visible, yet the ship suddenly tilted with a tremendous roar. Then a single streak of Force flew in from somewhere and swept through the vessel. That was all it took.”
 
@@ -176,7 +176,7 @@ The same was true of Honglan, and it must have been an attack that Ju Wongong’
 
 Perhaps because she was recalling that horrifying moment, Honglan’s voice began to tremble faintly.
 
-“But in the final moment, the guards risked their lives to push Young Master Ju away, and I embraced him before throwing myself into the river.”
+“But at the last moment, the guards risked their lives to push Young Master Ju away. I caught him in my arms and threw myself into the water.”
 
 Honglan’s quick thinking had saved both her and Ju Wongong.
 
@@ -240,7 +240,7 @@ He had faked his death and remained here at Dongting Lake, hiding in plain sight
 
 And at last, I had found Dark Heaven’s tail—the Dongting Fisherman.
 
-*I’ve finally made it this far. You damn old bastard.*
+*I’ve finally made it this far, you damn old bastard.*
 
 We had already paid far too high a price in lives. Before any more time passed, I had to capture the Dongting Fisherman and uncover every detail of Dark Heaven’s movements and plans.
 
@@ -256,6 +256,6 @@ That was why Honglan’s next words were like a torch lighting the path ahead.
 
 “…!”
 
-I clenched my fist tightly. Then I immediately sprang to my feet.
+I clenched my fist, then immediately sprang to my feet.
 
 “Let’s go. Right now.”

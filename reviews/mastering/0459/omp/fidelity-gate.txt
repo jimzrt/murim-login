@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is substantially faithful. One minor fidelity issue weakens the source’s description of Dongting Lake as one of the realm’s foremost scenic sites.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 221–223",
+      "current": "A scenic site known throughout the land for its long history and beautiful landscapes.",
+      "defect": "This reduces 손꼽는, which presents Dongting Lake as one of the most highly regarded scenic sites in the realm, to merely being widely known.",
+      "replacement": "A scenic site counted among the finest in all the land for its long history and beautiful landscapes.",
+      "rationale": "천하에서도 손꼽는 means that the site ranks among the foremost under heaven, not simply that people throughout the land know of it.",
+      "confidence": 0.95
+    }
+  ]
+}
