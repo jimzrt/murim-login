@@ -1,6 +1,6 @@
 # Chapter 574
 
-*Squelch!*
+*Crunch!*
 
 The blade of White Flame pierced the enormous eye. The Kraken, terror of the sea, shuddered in agony.
 
@@ -52,7 +52,7 @@ Hundreds of precious lives had sunk beneath the white foam. So had promises made
 
 I tightened my grip on the spear shaft and sent internal energy surging through the mythical monster’s body like an electric current.
 
-*Boom.*
+*Pop.*
 
 A small explosion sounded somewhere deep beneath its wet, glistening skin.
 
@@ -180,7 +180,7 @@ But…
 
 *Damn it. It is possible.*
 
-If the magic power exceeded the amount a Gate could contain, the two phenomena described above would occur.
+Mutated Gates and Monster Waves were caused by the total amount of magical power. Once that amount exceeded what a Gate could contain, either phenomenon could occur.
 
 And there was a way to raise that amount artificially.
 
@@ -188,7 +188,7 @@ And there was a way to raise that amount artificially.
 
 The scattered pieces fell into place.
 
-If it absorbed a Magic Gem containing a monster’s magic power—an unpurified Magic Gem that had not undergone the purification process at human hands—it could be the only answer to this mystery.
+A Magic Gem containing a monster’s magical power—one still pure, not yet purified by human hands. That could be the answer.
 
 *But who? Why?*
 
@@ -230,9 +230,7 @@ I clenched my teeth, fighting the urge to put a hole through the damned octopus�
 
 I had to kill it. I knew I did.
 
-I had watched it all with my own eyes—the Kraken sacrificing hundreds of people.
-
-If I included the other monsters under its command, the number of casualties might exceed several thousand.
+I had watched hundreds of people die because of the Kraken. Add the other monsters under its command, and the casualties might number well over a thousand.
 
 Even now, someone somewhere in this city was probably screaming as they died.
 
@@ -270,7 +268,7 @@ Exhaustion weighed on me as I loosened my grip on the spear shaft.
 
 *Slide.*
 
-And that was both the only miscalculation I made in this battle and the most painful mistake.
+That was the only wrong move I made in the fight. It was also the one that hurt the most.
 
 *Whoooooosh!*
 
@@ -282,9 +280,9 @@ The Kraken’s massive body, limp as though half-dead, thrashed. All eight tenta
 
 “Hup!”
 
-*Tap-tap. Whoosh!*
+*Tap. Whoosh!*
 
-I belatedly came to my senses, stepped on the Kraken’s head, and launched myself into the air.
+I came to my senses a moment too late, pushed off its head, and shot into the air.
 
 For a heartbeat, I thought I’d dodged the ambush.
 
@@ -298,7 +296,7 @@ It had planned this from beginning to end. With my guard down, I had no room to 
 
 *Splash!*
 
-And the instant the black liquid—perhaps roughly the amount in a cup of milk—touched my entire body, an unexpected System alert rang out.
+I moved as fast as I could, but I couldn’t escape the whole cloud. No more than a cup of milk’s worth of black liquid touched me—and an unexpected System alert sounded.
 
 *Beep.*
 
@@ -321,7 +319,7 @@ And the instant the black liquid—perhaps roughly the amount in a cup of milk�
 
 “……!”
 
-My body grew heavy along with the System alert.
+My body grew heavy as the alerts appeared.
 
 The black liquid was ink—and a deadly poison at that.
 

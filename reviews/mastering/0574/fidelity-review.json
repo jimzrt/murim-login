@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.79,
+      "current": "I let out a rough breath and pulled White Flame from the Kraken’s head.",
+      "defect": "This states that White Flame was in the Kraken’s head. The Korean says the spear had been pushed toward its head, without specifying that it entered the head.",
+      "id": "F02",
+      "rationale": "The source describes withdrawing the spear that had been pushed toward the Kraken’s head; it does not establish that the spear was embedded in the head.",
+      "replacement": "I let out a rough breath and pulled White Flame back from the Kraken.",
+      "severity": "minor",
+      "source": "Line 261"
+    }
+  ],
+  "summary": "Two minor fidelity issues: one phrase implies ritual sacrifice, and another specifies a spear location the Korean does not establish.",
+  "version": 1
+}

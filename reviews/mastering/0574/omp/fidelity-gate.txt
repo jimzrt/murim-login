@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor fidelity issues: one phrase implies ritual sacrifice, and another specifies a spear location the Korean does not establish.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 235",
+      "current": "the sight of hundreds of people being sacrificed by the Kraken",
+      "defect": "“Being sacrificed” can imply the Kraken offered people up in a ritual or deliberate sacrifice. The Korean says hundreds of people were victimized by the Kraken, without that implication.",
+      "replacement": "the sight of hundreds of people falling victim to the Kraken",
+      "rationale": "희생되는 here describes people becoming victims or casualties of the Kraken.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 261",
+      "current": "I let out a rough breath and pulled White Flame from the Kraken’s head.",
+      "defect": "This states that White Flame was in the Kraken’s head. The Korean says the spear had been pushed toward its head, without specifying that it entered the head.",
+      "replacement": "I let out a rough breath and pulled White Flame back from the Kraken.",
+      "rationale": "The source describes withdrawing the spear that had been pushed toward the Kraken’s head; it does not establish that the spear was embedded in the head.",
+      "confidence": 0.79
+    }
+  ]
+}
