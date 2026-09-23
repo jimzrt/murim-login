@@ -1,0 +1,91 @@
+{
+  "chapter": 828,
+  "files": {
+    "characters/Divine Physician.md": "adf910c3c867b3e6b491778512ee521d57c6a9d097e4aa8c31c1ecdd8fdf5988",
+    "characters/Doppelganger.md": "d2527ffabc5e28269862da55a47ea1f4d4e7318398d6e8297949d3579a5ac4c5",
+    "characters/Jin Taekyung.md": "624b166b6e40550ef2666dd76b15bab1e4be10fbf6327083fcb4c9a9020857c7",
+    "characters/Jintae.md": "011214f298fa9486a2657784b6a1cfc0f4c20c5316863c071e08921100352776",
+    "docs/ADDRESS.md": "42d192e793607af11005fda62f61c712151134779e4d9f70ebd864a9f1edfc4e",
+    "docs/CONTEXT.json": "e79b8b4d3e81cb8b3c3789986fc2dee9c6931b820099621bb9bf2f6aca284223",
+    "docs/STATE.md": "fae87f079e6be5d0b618a8969aaf93224ac1aed921965c70afce0ed702a1b391",
+    "summaries/beats/0828.md": "264d6f5af5b4c2394855beae3f8a4d8bc8c594005e8a46a354924880f2f7d27a"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "스켈레톤 킹",
+        "kinship": "friends and allies",
+        "normal_address": "you; no explicit name or title in the Sound Transmissions",
+        "notes": "Jin directs the Skeleton King’s movements by Sound Transmission while the latter is blinded.",
+        "speaker": "진태경",
+        "speech_level": "terse informal imperatives"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin’s flames destroyed the temple’s Golems and magic circles, leaving the Doppelganger injured by mana backlash.",
+        "The Doppelganger tried to escape using a Teleport magic circle; the Skeleton King interrupted it and struck it in two, but whether it survived is unknown.",
+        "Jin used Sound Transmission to guide the temporarily blinded Skeleton King through the Doppelganger’s attacks.",
+        "The Doppelganger’s enhanced Light magic temporarily blinded the Skeleton King.",
+        "Jin’s Main Quest [Cataclysm] still requires him to eliminate the Doppelganger; this chapter does not confirm its death.",
+        "The Doppelganger’s claims about Asmodeus and the temple, and the cause of the earlier radiance, remain unresolved."
+      ],
+      "plot": [
+        "Jin’s white-blue flames destroy the Doppelganger’s seventy-two Golems and magic circles, causing mana backlash. As the Doppelganger tries to escape, it blinds the Skeleton King with an enhanced Light spell. Jin guides the temporarily blinded Skeleton King by Sound Transmission, helping him evade the Doppelganger’s spells and anticipate its Blink. The Skeleton King then cleaves the Doppelganger in two; its fate is not confirmed, and its final thought laments losing its EXP."
+      ],
+      "translation_decisions": [
+        "Keep mana distinct from magical power.",
+        "Render 라이트 마법 as “Light magic,” 텔레포트 as “Teleport,” 블링크 as “Blink,” and 바인딩 as “Binding.”",
+        "Render [영웅의 검] as “Hero’s Sword” and 경험치 as “EXP.”"
+      ]
+    },
+    "chapter": 828,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and pursues Main Quest [Cataclysm], which requires him to eliminate the Doppelganger known as The Prophet.",
+        "The Doppelganger is the last surviving member of its species and can absorb appearances, abilities, and memories; it had Siegfried Bassman’s face and Grand Mage abilities.",
+        "The Doppelganger claims to have served Demon King Asmodeus and received his order to infiltrate humanity before Asmodeus fell.",
+        "The Doppelganger says the temple’s empty throne was made for the Great King and that Asmodeus will return with his armies.",
+        "Jin believes Asmodeus died on Victory Day, the day Jin was born, but cannot yet determine whether the Doppelganger’s claims are true.",
+        "Jin’s white-blue flames destroyed the temple’s seventy-two Golems and magic circles, causing mana backlash in the Doppelganger.",
+        "The Doppelganger attempted to escape through a Teleport magic circle; the Skeleton King interrupted it and cleaved it in two, but its fate is unknown.",
+        "Jin guided the temporarily blinded Skeleton King by Sound Transmission, helping him evade and counter the Doppelganger’s spells."
+      ],
+      "continuity_sources": [
+        827,
+        828
+      ],
+      "open_questions": [
+        "Is Demon King Asmodeus truly dead, and will he return?",
+        "Are the Doppelganger’s claims about Asmodeus and the temple true?",
+        "Did the Doppelganger survive being cleaved in two?",
+        "What caused the radiance that filled the temple?"
+      ],
+      "safe_through": 828,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Keep Blink distinct from Teleport and Warp; extended-range Blink causes severe strain.",
+        "Keep Fire Storm and Aqua Storm as distinct named spells.",
+        "Render [영웅의 검] as “Hero’s Sword.”",
+        "Render 에어 슬래시 as “Air Slash” and 실드 마법 as “Shield magic.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Siegfried Bassman",
+        "korean": "지크프리트 바스만",
+        "notes": "Grand Mage whose memories and spell research the Doppelganger absorbed."
+      },
+      {
+        "english": "Skeleton King",
+        "korean": "스켈레톤 킹",
+        "notes": "Jin’s undead friend and ally."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}
