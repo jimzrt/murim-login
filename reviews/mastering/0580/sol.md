@@ -20,13 +20,13 @@ He strode past them and muttered, “Security Team. Respond.”
 
 A faint tone sounded in his earpiece, followed at once by replies.
 
-—Team Three. Transmission complete.
+—Team Three. Reporting in.
 
-—Team Two. Transmission complete.
+—Team Two. Reporting in.
 
-—Team One. Transmission complete.
+—Team One. Reporting in.
 
-“I’m going to see a VIP. Open Area A and report your current locations and personnel.”
+“I’m going to see the VIP. Open Area A, and report your current locations and personnel.”
 
 Go Se-won intended to ask his superior for permission to send the security teams to Busan.
 
@@ -40,13 +40,13 @@ But as the team leaders reported in one after another, he frowned.
 
 —Team One has nine members present. We’ve returned from London and are standing by on the hundredth floor of headquarters.
 
-“Team Leader of Team One. Say that again. What did you say?”
+“Team One leader. Say that again.”
 
 —Team One has nine members present. We’re standing by on the hundredth floor—
 
 “Forget the rest.”
 
-Go Se-won stepped onto a magic circle as he spoke in a quiet voice.
+Go Se-won stepped onto a magic circle.
 
 *Whoosh.*
 
@@ -64,7 +64,7 @@ White light flared as the Teleport spell activated, taking him to Area A.
 
 —Yes.
 
-Listening to the Team Leader’s dry voice, Go Se-won crossed the hallway in Area A. His mood soured with each sharp click of his dress shoes.
+Go Se-won crossed the corridor in Area A, listening to the team leader’s flat voice. With every sharp click of his dress shoes, his unease grew.
 
 “That’s strange. I don’t recall receiving a report.”
 
@@ -78,7 +78,7 @@ Listening to the Team Leader’s dry voice, Go Se-won crossed the hallway in Are
 
 The security team was a pack of hunting dogs raised by the late Lee Jungryong.
 
-For a long time, Lee Jungryong had secretly operated enormous orphanages and children’s homes, instilling loyalty in orphans who had nowhere else to go.
+For years, Lee Jungryong had secretly run orphanages and children’s homes on an enormous scale, instilling loyalty in children who had nowhere else to go.
 
 Go Se-won had been one of them. So had the others.
 
@@ -94,9 +94,9 @@ Kim Ho-jung had vanished without reporting to Go Se-won, one of those two. That 
 
 *Step.*
 
-His unimpeded stride came to an abrupt halt.
+Go Se-won stopped before an unmarked, undecorated door.
 
-Go Se-won silently stared at a door with no nameplate or decoration when a bright voice rang out from beyond it.
+As he stared at it, a cheerful voice rang out from the other side.
 
 “Come in. Don’t loiter out there.”
 
@@ -110,7 +110,7 @@ Go Se-won swallowed and opened the door. His one direct superior was waiting in 
 
 Go Se-won bowed briefly, his gaze sweeping the room.
 
-The pleasant smile at Go Jun’s lips. The whiskey glass in his hand. And the object he was rolling around in his other hand.
+The pleased smile on Go Jun’s face. The whiskey glass in one hand. Whatever he was turning over in the other.
 
 *What is that?*
 
@@ -136,7 +136,7 @@ Their eyes met. Go Jun’s looked unusually red today. Go Se-won lowered his hea
 
 “How could I? It’s true that I owe the former Vice Guild Master a great deal, but that does not diminish my loyalty.”
 
-“Is that so? Then that’s a relief.”
+“Is that so? Good.”
 
 *Grind.*
 
@@ -146,9 +146,9 @@ Go Jun rubbed the object in his hand again. Smiling, he swirled his glass.
 
 Go Se-won answered evenly. “I’m sorry, but…”
 
-“You mean you won’t drink? What a shame. It’s good liquor.”
+“So that’s a no? What a shame. It’s good whiskey.”
 
-Go Jun leisurely emptied his glass. Go Se-won watched him in silence before suddenly speaking.
+Go Jun emptied his glass at his leisure. After watching him in silence, Go Se-won spoke.
 
 “There’s an urgent matter I need to report.”
 
@@ -172,17 +172,17 @@ Go Jun gave a low laugh.
 
 His voice was as cheerful as ever. Go Se-won’s heart sank.
 
-As the unease he had tried to dismiss revealed its true shape, he forced himself to speak calmly.
+The fear he had tried to dismiss was taking shape. He forced himself to speak calmly.
 
 “Then is Kim Ho-jung… in Busan right now?”
 
-“I seem to remember you saying you weren’t curious a moment ago.”
+“I thought you weren’t curious.”
 
 “I’m sorry. That slipped out.”
 
 “It’s fine. You need to know anyway.”
 
-Go Jun answered pleasantly as he filled his empty glass with whiskey.
+Go Jun filled his empty glass with whiskey.
 
 “That’s right. Kim Ho-jung is in Busan on my orders.”
 
@@ -190,7 +190,7 @@ He paused to think, then added, “Though he might not be there anymore.”
 
 “……!”
 
-“Don’t just stand there. Sit down and have a drink. My neck hurts from looking up at you.”
+“Sit down and have a drink. My neck hurts from looking up at you.”
 
 This time Go Se-won could not refuse. No, he had no reason to. He needed a drink to steady himself.
 
@@ -210,7 +210,7 @@ Holding the empty crystal glass, he hesitated before forcing out the words.
 
 Go Se-won had risked his superior’s anger by mentioning the name. Instead, the smile stayed on Go Jun’s face.
 
-And that gentle smile made Go Se-won feel even more uneasy.
+That gentle smile made him feel worse.
 
 “Vice Guild Master. Don’t tell me…”
 
@@ -222,25 +222,25 @@ And that gentle smile made Go Se-won feel even more uneasy.
 
 *Grind. Grate.*
 
-Along with the irritating sound of friction, one name flashed through Go Se-won’s mind like a bolt of lightning.
+As the irritating sound continued, a name flashed through Go Se-won’s mind.
 
 “Song Cheonwoo. It’s Song Cheonwoo.”
 
-“Correct. I’ll give you another drink as your reward.”
+“Correct. Another drink for the right answer.”
 
 Go Se-won accepted it, hiding the tremor in his fingers. He could not begin to grasp how far things had gone wrong.
 
 Even now, though, he was certain his superior’s plan would fail.
 
-“…Choi Minwoo is a cautious man. On the surface, he is the master of the Peace Guild, and he also has Kim Hwajong, who has served him loyally at his side for a long time.”
+“…Choi Minwoo is cautious. He’s the head of the Peace Guild, and Kim Hwajong has served loyally at his side for years.”
 
 “I know. Master told me about Kim Hwajong more than once. And with the other guards there, Song Cheonwoo can’t manage it alone.”
 
-“Vice Guild Master. Then why in the world—”
+“Vice Guild Master, then why—”
 
 *GRRAAATE!*
 
-The loud sound of friction drowned out Go Se-won’s voice.
+The sudden noise drowned him out.
 
 Go Jun gave a quiet laugh instead of answering and opened his hand. At last, Go Se-won saw what he had been holding.
 
@@ -256,7 +256,7 @@ Pure, unrefined magical power swirled inside.
 
 “V-Vice Guild Master.”
 
-Only now did Go Se-won understand how Go Jun had been able to cause the Monster Wave artificially.
+Now Go Se-won understood how Go Jun had caused the Monster Wave.
 
 At the dread in his voice, Go Jun murmured, “Choi Minwoo will die today. He will.”
 
@@ -298,7 +298,7 @@ But the last time he had faced Go Jun, the man had become… a monster.
 
 Song had seen madness in his eyes. If Song left this place alive, Go Jun would kill his family without a moment’s hesitation.
 
-Neither the Peace Guild, nor even Jin Taekyung or *that person*, could resolve that problem.
+The Peace Guild could not stop it. Neither could Jin Taekyung, or even “that person.”
 
 *So this is how it ends.*
 
@@ -318,7 +318,7 @@ A cold, fierce wind battered him.
 
 Through its howl, he seemed to hear a conversation from a few days ago.
 
-*“This.”*
+*“What’s this?”*
 
 *“Keep it with you. You know how dangerous it is, Director. Expensive, too.”*
 
@@ -326,7 +326,7 @@ Through its howl, he seemed to hear a conversation from a few days ago.
 
 *“Then you’ll have to go insane as well. If you want to save your family.”*
 
-The man had been insane, and it had been an insane conversation.
+The man was insane. So was the conversation.
 
 Song had agonized over it, each day feeling like ten years. Yet in the end, he had never used *it*.
 

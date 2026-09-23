@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "At the dread in his voice, Go Jun murmured,",
+      "defect": "The source describes Go Se-won’s call as mixed with both a sigh and fear. This line retains the fear but drops the sigh.",
+      "id": "F01",
+      "rationale": "탄식과 두려움이 섞인 부름 explicitly includes both a sigh and fear in Go Se-won’s call to the Vice Guild Master.",
+      "replacement": "At Go Se-won’s call, tinged with both a sigh and fear, Go Jun murmured,",
+      "severity": "minor",
+      "source": "Korean line 273"
+    }
+  ],
+  "summary": "One minor emotional detail is omitted; the rest appears faithful to the source.",
+  "version": 1
+}
