@@ -1,21 +1,19 @@
 # Translation State
 
-- Last completed: 782
-- Next chapter: 783
-- Current block: 780–784 (3/5)
-- Latest translation: `translations/0782.md`
-- Latest summary: `summaries/beats/0782.md`
-- Safe profiles through: chapter 782
+- Last completed: 783
+- Next chapter: 784
+- Current block: 780–784 (4/5)
+- Latest translation: `translations/0783.md`
+- Latest summary: `summaries/beats/0783.md`
+- Safe profiles through: chapter 783
 
 ## Current Block
 
-- Jin Taekyung clashes with Michael Silbert at the National Assembly, redirecting Michael’s overwhelming power away from the nearby fighters before confronting him again. Michael reveals that his magical power has repeatedly fallen out of balance with his mana and says he considered becoming a new Demon King if he could not reach the human pinnacle. Taekyung rejects the idea that surrendering the world to Michael would stop future disasters, resolves to kill him, and charges forward as a Hunter; the outcome remains unknown.
+- Jin Taekyung uses martial arts, the Inventory, and the Fire Dragon Armor to overcome Michael Silbert’s superior magical power and badly wound him. Michael lies in a crater, coughing blood, as Jin retrieves White Flame and raises its spearhead without hesitation.
 
 ## Open Questions
 
-- Who will prevail in the fight at the National Assembly?
-- Where is Michael’s pet crow, and why is the outside world silent despite the fighting?
-- What truth does Michael intend to keep from becoming public?
+- What happens to Michael after Jin raises White Flame’s spearhead?
 
 ## Exceptional Decision
 
