@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "*I don’t know what brought you here, but from now on, remember one thing.*",
+      "defect": "“What brought you here” asks about the cause of Jin’s arrival rather than what he intends to do.",
+      "id": "F01",
+      "rationale": "무슨 마음으로 concerns Jin’s intentions, which Michael is warning him to reconsider.",
+      "replacement": "*I don’t know what you came here intending to do, but from now on, remember one thing.*",
+      "severity": "major",
+      "source": "자네가 무슨 마음으로 이곳에 왔는지는 모르겠지만, 지금부터는 한 가지만 기억하게."
+    },
+    {
+      "confidence": 0.89,
+      "current": "“He’s seriously ill? Whoever your grandfather is, there are limits!”",
+      "defect": "“Whoever your grandfather is” makes the elder sound unaware of Cheon Taemin’s identity and drops the maternal relationship.",
+      "id": "F02",
+      "rationale": "The elder knows whose grandson Choi is; his protest is that such an illness seems impossible for Cheon Taemin.",
+      "replacement": "“Gravely ill? Even for someone like your maternal grandfather, that’s too much to believe!”",
+      "severity": "major",
+      "source": "“병세가 깊다니. 자네의 외조부께서 어떤 분이신지 몰라도 유분수지!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The shock people felt soon turned into helplessness, and some of the elders even began to feel anger.",
+      "defect": "“Helplessness” substitutes an inability to act for the hollow, deflated feeling in 허탈감.",
+      "id": "F03",
+      "rationale": "허탈감 describes emotional emptiness or deflation, not helplessness.",
+      "replacement": "The shock soon gave way to a hollow sense of loss, and some of the elders even felt anger.",
+      "severity": "minor",
+      "source": "사람들이 느낀 충격은 이내 허탈감이 되었고, 몇몇 원로들은 분노마저 느꼈다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "The gradual rise in magical power readings, and the strange events that had begun to follow.",
+      "defect": "“Begun to follow” imposes a sequence between the readings and the strange events that the source does not state.",
+      "id": "F04",
+      "rationale": "The source recalls both developments without saying the strange events followed the rise.",
+      "replacement": "The magical power readings that had begun to rise, and the strange events that had begun to occur.",
+      "severity": "minor",
+      "source": "어느 순간부터 서서히 증가하기 시작한 마력 수치와 이변(異變)들."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And whoever had their name written on it the most wouldn’t be banished—they’d become the leader of the World Hunter Federation.",
+      "defect": "“On it the most” suggests repeated names on the single fragment in Jin’s hand rather than names counted across voting fragments.",
+      "id": "F05",
+      "rationale": "The passage describes choosing a leader by which name receives the most votes.",
+      "replacement": "And the person whose name appeared on the most fragments wouldn’t be banished—they’d become the leader of the World Hunter Federation.",
+      "severity": "critical",
+      "source": "여기에 가장 많이 이름이 쓰인 사람은 추방되는 것이 아니라 세계 헌터 연맹의 지도자가 된다는 것이다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*You crazy bastard. I wondered what was different, but you’re still on about that.*",
+      "defect": "Jin’s 웬일인가 refers to his surprise that the Skeleton King answered this time, not to something being different.",
+      "id": "F06",
+      "rationale": "Jin has just remarked on receiving an unexpected reply; this line reacts to the reason the Skeleton King gave.",
+      "replacement": "*You crazy bastard. I wondered why you’d answered me, but you’re still on about that.*",
+      "severity": "major",
+      "source": "미친 새끼. 웬일인가 했더니, 아직도 그 소리네."
+    },
+    {
+      "confidence": 0.96,
+      "current": "I gave him the same answer as the truth that might have been decided from the very day we first met.",
+      "defect": "The sentence is unnatural and “the same answer” implies a previous answer that the source does not mention.",
+      "id": "F07",
+      "rationale": "Jin states a truth about their friendship that may have been settled since their first meeting.",
+      "replacement": "I answered with a truth that might have been settled the day I first met him.",
+      "severity": "minor",
+      "source": "나는 대답했다. 어쩌면 처음 녀석을 만난 그날부터 정해져 있던 그 사실 그대로."
+    }
+  ],
+  "summary": "Several passages alter motive, voting mechanics, or the elders’ reaction; others need localized corrections.",
+  "version": 1
+}

@@ -1,0 +1,83 @@
+{
+  "chapter": 777,
+  "files": {
+    "characters/Cheon Taemin.md": "4dbe46bc4bff6d1883ba20b7150625660e5b57b45fa11ec4e539fd3221f7fe5f",
+    "characters/Go Jun.md": "c7059d997def448c7982e1fcd52798f47d645afcf380ecc0eeadd26f9f40a704",
+    "characters/Jin Taekyung.md": "0d601ee0e39bec0e0f84cc6e508e71ad53b6d12ebbc35a8d3e3cc2d7bf54359c",
+    "characters/Jintae.md": "30ef2b2681defbcb89419320c012256ac0ae2caf418bc3cca22c65c6c159d6ca",
+    "characters/Lee Jungryong.md": "af9bebf9eb79b4ec7766bdde616d2637eada08abde0edbc537e64ea04eba051b",
+    "characters/Michael.md": "f76d9ef77bd6e60f59cceb1fcf0042714efe36414c55ad39e3d386282844b890",
+    "characters/Team Leader Choi.md": "38eec7756883acc92d17c228ca7c4dbc05df156858ce2f76f338022e8142d08f",
+    "docs/ADDRESS.md": "06096479fc323c602e89207b4ac9961607a3c66789752284f1bc07cdd4c1105a",
+    "docs/CONTEXT.json": "40f4887eb250995bf8c62ff26182527f9357c235ec2d4ec5a4a7efb593b38bcb",
+    "docs/STATE.md": "e5cd7c3ddbcb9829d6370a78ab4a7d3ef2354b14a3b18e168aca0c93151ab5e8",
+    "summaries/beats/0777.md": "00c32ccb0656a6bf3853cdbcc1cb90201d87ca9b2f185058fa10730833d51232"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "선배님들",
+        "kinship": "junior Hunter addressing senior Hunters",
+        "normal_address": "Seniors",
+        "notes": "Choi acknowledges the elders’ feelings while explaining that he once shared their disbelief.",
+        "speaker": "최민우",
+        "speech_level": "polite and respectful"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Cheon Taemin is in a coma and too ill to participate in the coming war; Team Leader Choi publicly revealed this at the Federation’s inaugural ceremony, and Magic Johnson confirmed it.",
+        "Michael Silbert is positioning himself to lead the World Hunter Federation and intends to eliminate Jin Taekyung as soon as possible.",
+        "The Federation’s leadership vote has begun; Jin remains silent during it, with the Skeleton King beside him.",
+        "Jin intends to attempt a dangerous plan with odds close to fifty-fifty, trusting his friends and the Skeleton King."
+      ],
+      "plot": [
+        "At the World Hunter Federation’s inaugural ceremony, Michael Silbert uses staged news about two visitors to pressure Jin Taekyung and Team Leader Choi. Choi announces that his maternal grandfather, Cheon Taemin, is in a coma and too ill to join the coming war; Magic Johnson confirms the truth and says he could find no way to awaken him. As the vote for a new leader begins, Michael privately resolves to eliminate Jin. Jin holds a fragment of a tower shield used as a ballot and, through Sound Transmission, tells the Skeleton King he intends to take a near-even chance on a dangerous plan. He asks the Skeleton King to trust him and their friends, saying he will take the risk because the Skeleton King is his friend."
+      ],
+      "translation_decisions": [
+        "Render 외조부 as “maternal grandfather.”",
+        "Keep Jin’s uncertainty between 도편추방제 and 도편추첨제 as “ostracism by lot” and “ostracism by ballot.”"
+      ]
+    },
+    "chapter": 777,
+    "context": {
+      "active_continuity": [
+        "Cheon Taemin is in a coma and too ill to join the coming war; Team Leader Choi publicly revealed this at the Federation’s inaugural ceremony, and Magic Johnson confirmed it.",
+        "Michael Silbert is positioning himself to lead the World Hunter Federation and intends to eliminate Jin Taekyung as soon as possible.",
+        "The Federation’s leadership vote has begun; Jin is silent during it, with the Skeleton King beside him.",
+        "Jin plans to take a near-even chance on a dangerous course of action and has asked the Skeleton King to trust him and their friends."
+      ],
+      "continuity_sources": [
+        776,
+        777
+      ],
+      "open_questions": [
+        "What dangerous course of action does Jin intend to take, and what will its consequences be?",
+        "Who will be elected to lead the World Hunter Federation?",
+        "Will Michael act on his intention to eliminate Jin?",
+        "Can Cheon Taemin recover from his coma?"
+      ],
+      "safe_through": 777,
+      "temporary_decisions": [
+        "Render 도편추방제 as “ostracism by lot” and 도편추첨제 as “ostracism by ballot,” preserving Jin’s uncertainty."
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Michael Silbert is the Guild Master of Odin Guild, a public hero who helped suppress five Monster Waves and saved Paris twice, the hidden architect of a terrorist campaign, and a survivor of the Great Battle of Paris who erased his pre-awakening criminal records while positioning himself at the center of the World Hunter Federation.",
+        "path": "characters/Michael.md",
+        "replacement": "- **Role:** Michael Silbert is Odin Guild Master and a public hero positioning himself to lead the World Hunter Federation; he intends to eliminate Jin Taekyung as soon as possible."
+      },
+      {
+        "current": "- **Relationships:** A trusted ally and operational adviser to Jin Taekyung.",
+        "path": "characters/Team Leader Choi.md",
+        "replacement": "- **Relationships:** A trusted ally and operational adviser to Jin Taekyung, and the maternal grandson of Cheon Taemin."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
