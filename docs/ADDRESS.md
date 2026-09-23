@@ -1306,3 +1306,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최민우 | 존슨 | allied Hunter to allied Grand Mage | Mr. Johnson | formal-polite | Minwoo calls out to Johnson during the battle. |
 | 스톤 킹 | 미카엘 | newcomer confronting defeated enemy | you | blunt and contemptuous | Stone King corrects Michael and calls him a hideous monster. |
 | 스켈레톤 킹 | 진태경 | friend_to_friend | Jin Taekyung; you conniving human | familiar-casual | Affirms their friendship and addresses Jin by name. |
+| 필릭스 | 스켈레톤 킹 | prince_to_allied_monster_friend | Mr. King | courteous and friendly | Felix asks the Skeleton King to call him Felix and addresses him as a friend. |

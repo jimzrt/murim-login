@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Skeleton King’s eyes widened as he caught Jin Taekyung’s arm when it suddenly gave way.",
+      "defect": "The draft makes Jin’s arm give way; Jin himself staggers, and the Skeleton King catches his arm.",
+      "id": "F01",
+      "rationale": "휘청거리는 describes Jin Taekyung, not his arm.",
+      "replacement": "The Skeleton King’s eyes widened as Jin Taekyung suddenly staggered and he caught him by the arm.",
+      "severity": "critical",
+      "source": "순간 휘청거리는 진태경의 팔을 붙잡은 스켈레톤 킹이 눈을 동그랗게 떴다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Thanks like hell. You son of a bitch, Assistant Hwang……”",
+      "defect": "“Thanks like hell” can mean Jin is not grateful, reversing his emphatic thanks.",
+      "id": "F02",
+      "rationale": "조온나게 intensifies 고맙다; the insult follows genuine thanks.",
+      "replacement": "“Thanks so fucking much, Assistant Hwang, you son of a bitch……”",
+      "severity": "major",
+      "source": "“조온나게 고맙다. 황 조교 이 씹새끼야…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "One trembling hand belonged to Chuck Hagel, who was already going through withdrawal.",
+      "defect": "The draft states that Hagel is in withdrawal instead of preserving that he is pretending.",
+      "id": "F03",
+      "rationale": "척 marks the withdrawal as a pretense.",
+      "replacement": "One trembling hand belonged to Chuck Hagel, who was already acting as if he were going through withdrawal.",
+      "severity": "major",
+      "source": "덜덜 떨리는 손은 이미 금단 현상에 접어든 척 헤이글의 것이었고"
+    },
+    {
+      "confidence": 0.87,
+      "current": "The unusually small hand, with a great many calluses, belonged to Pai Chen.",
+      "defect": "The draft uses a different name for the established character Faye Chen.",
+      "id": "F04",
+      "rationale": "The supplied Felix profile establishes Faye Chen as his companion.",
+      "replacement": "The unusually small, heavily callused hand belonged to Faye Chen.",
+      "severity": "major",
+      "source": "유난히 굳은살이 많고 자그마한 손은 파이 첸의 것이었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "What was this supposed to mean? What the hell was this supposed to mean?",
+      "defect": "The draft turns Jin’s self-dismissive reaction to crying into a question about meaning.",
+      "id": "F05",
+      "rationale": "이게 뭐라고 and 이깟 게 belittle the thing affecting him; they do not ask what it means.",
+      "replacement": "Why was this such a big deal? Why did this little thing matter so damn much?",
+      "severity": "major",
+      "source": "이게 뭐라고. 이깟 게 도대체 뭐라고."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Because a sword……”\n\n“Because a sword.”\n\n“A spear is……”\n\n“A spear is.”\n\n“Cooler.”\n\n“Cooler……Fuck.”",
+      "defect": "“Because a sword” leaves the repeated punchline grammatically disconnected and changes the comparison Jin begins.",
+      "id": "F06",
+      "rationale": "The source builds one comparison, 검보다 창이 멋있어, through the Skeleton King’s echoes.",
+      "replacement": "“Compared to a sword……”\n\n“Compared to a sword.”\n\n“A spear……”\n\n“A spear.”\n\n“Looks cooler.”\n\n“Looks coo……Fuck.”",
+      "severity": "minor",
+      "source": "“검보다…….” “검보다.” “창이…….” “창이.” “멋있어.” “멋있……. 시팔.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "You have defeated [Lv. 175 Michael Silbert]!\n> You have gained a tremendous amount of EXP and Fame!\n> You have achieved the rare feat [Cut the Weeds and Pull Up the Roots]!",
+      "defect": "Square brackets remain around terms inside a System panel, contrary to the packet’s Markdown rule.",
+      "id": "F07",
+      "rationale": "The System heading and blockquote already frame these notices.",
+      "replacement": "You have defeated Lv. 175 Michael Silbert!\n> You have gained a tremendous amount of EXP and Fame!\n> You have achieved the rare feat Cut the Weeds and Pull Up the Roots!",
+      "severity": "minor",
+      "source": "― [Lv.175 미카엘 실베르트]를 처치했습니다! ― 막대한 경험치와 명성을 획득했습니다! ― 희귀한 업적, [참초제근(慘草除根)]을 달성하셨습니다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The special debuff [Broken Body] rejects the power of healing!",
+      "defect": "The debuff name retains prohibited square brackets inside the System panel.",
+      "id": "F08",
+      "rationale": "The packet’s System-panel convention identifies UI terms without square brackets.",
+      "replacement": "The special debuff Broken Body rejects the power of healing!",
+      "severity": "minor",
+      "source": "― 특수 디버프, [부서진 신체]가 치유의 힘을 거부합니다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "You have achieved the unbelievable feat [A Coronation for One Person Alone]!\n> The [World Hunter Federation] appoints you as its [Alliance Leader]!\n> You have gained a tremendous amount of EXP and Fame!",
+      "defect": "The final System panel retains square brackets around its feat, organization, and title.",
+      "id": "F09",
+      "rationale": "The packet requires System notices and UI terms to appear without square brackets.",
+      "replacement": "You have achieved the unbelievable feat A Coronation for One Person Alone!\n> The World Hunter Federation appoints you as its Alliance Leader!\n> You have gained a tremendous amount of EXP and Fame!",
+      "severity": "minor",
+      "source": "― 믿을 수 없는 업적, [오직 한 사람을 위한 대관식]을 달성하셨습니다! ― [세계 헌터 연맹]이 당신을 [맹주]로 추대합니다! ― 막대한 경험치와 명성을 획득했습니다!"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes Jin’s stumble, reverses the sense of his exhausted thanks, drops Hagel’s pretense, and misses established naming and System-panel formatting.",
+  "version": 1
+}

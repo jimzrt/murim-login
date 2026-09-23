@@ -1,0 +1,80 @@
+{
+  "chapter": 787,
+  "files": {
+    "characters/Divine Physician.md": "025849063cdf1a0b8076990a8341f9f392507073a23443e42318b690e5711e60",
+    "characters/Felix.md": "c99b09c897b408aec8d3462e7864d3655a9229b2512a6f568c8214abfc4884ea",
+    "characters/Jin Taekyung.md": "c6392da9865a241aeef3899b0ed7d131f0d232d1c84d5b9f7b784802373a3b97",
+    "characters/Jintae.md": "342ef1538972263fa094354c77967554406f6a8c063db4a5a747aa02df60e419",
+    "characters/Michael.md": "eec3fed77a5b6ed57cfcaacb3a9410dbbc48e73e6236a565669ee0ae1ca788ff",
+    "characters/Team Leader Choi.md": "b5425fdf87cec8e5eb27a41f761dcbd2cb589c29a8d93db52afeeaad90f33499",
+    "docs/ADDRESS.md": "d6274f0e25394a05913c4344b2d4fda7ab36c8422a9c47945d18b0b7f03d3b27",
+    "docs/CONTEXT.json": "a484272bf1227b6ea583bc82090a211924754738477d7c9557049547f9fd989e",
+    "docs/STATE.md": "fb6544c6fb0818648ba96c1d587f9f13664731fd9449f53edcb70c8644858736",
+    "summaries/beats/0787.md": "8868d8df94a84dd708d19b646b490d63ccf56a5918f96f4d5a126aa25a1cc520"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "스켈레톤 킹",
+        "kinship": "prince_to_allied_monster_friend",
+        "normal_address": "Mr. King",
+        "notes": "Felix asks the Skeleton King to call him Felix and addresses him as a friend.",
+        "speaker": "필릭스",
+        "speech_level": "courteous and friendly"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Michael Silbert is dead; Jin Taekyung is the World Hunter Federation’s new Alliance Leader.",
+        "Jin falls asleep from exhaustion after the battle; the Skeleton King reassures him that the deaths were not his fault, though guilt remains.",
+        "The World Hunter Federation’s inaugural ceremony concludes with Jin’s appointment as Alliance Leader.",
+        "Felix sheds his royal armor and asks the Skeleton King to call him Felix and regard him as a friend."
+      ],
+      "plot": [
+        "After Jin Taekyung kills Michael Silbert, the system heals most of Jin’s injuries, but Jin collapses into sleep from exhaustion. The Skeleton King tells him the deaths were not his fault, and the surviving Hunters quietly honor him. Prince Felix sets aside his royal armor and offers help; Choi Minwoo, Chuck Hagel, Faye Chen, and Magic Johnson join him in carrying Jin. The Hunters then acclaim Jin as the World Hunter Federation’s new Alliance Leader, and the system recognizes the appointment as an achievement."
+      ],
+      "translation_decisions": [
+        "Render 맹주 as “Alliance Leader.”",
+        "Keep magical power distinct from mana."
+      ]
+    },
+    "chapter": 787,
+    "context": {
+      "active_continuity": [
+        "Michael Silbert is dead; Huginn was captured alive, and the rest of Michael’s forces were killed or captured.",
+        "The World Hunter Federation is established, and Jin Taekyung is its new Alliance Leader.",
+        "Jin fell asleep from exhaustion after the battle; he still carries guilt over the deaths.",
+        "The Skeleton King is Jin’s friend and ally; he reassures Jin that the deaths were not Jin’s fault.",
+        "Felix has begun casting aside the royal conventions he once valued and treats the Skeleton King as a friend.",
+        "The system warns of a great fire that could consume the forest, a danger greater than any disease."
+      ],
+      "continuity_sources": [
+        787
+      ],
+      "open_questions": [
+        "What is the great fire the system warns could consume the forest? "
+      ],
+      "safe_through": 787,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana."
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Jin Taekyung is the Third Young Master of the Jin Family of Taiyuan, Jeok Cheongang's publicly acknowledged Disciple, the Fire Gate Clan's nineteenth successor, the Pavilion Master of the Fire Dragon Pavilion within the Murim Alliance, a Supreme Peak master with the Heavenly Martial Physique and Force, and a publicly recognized S-rank-level Hunter who formally retains an A-rank license, as well as a traveler between Murim and another world resembling the realm of immortals and the Hunter who exposed Michael Silbert's ability to absorb monsters' magical power.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Role:** Jin Taekyung is the Third Young Master of the Jin Family of Taiyuan, Jeok Cheongang’s Disciple, the Fire Gate Clan’s nineteenth successor, Pavilion Master of the Fire Dragon Pavilion, a Supreme Peak master and publicly recognized S-rank-level Hunter with an A-rank license, a traveler between Murim and another world, and the World Hunter Federation’s new Alliance Leader."
+      },
+      {
+        "current": "- **Personality:** Haughty, self-important, and conscious of royal duty.",
+        "path": "characters/Felix.md",
+        "replacement": "- **Personality:** Haughty and conscious of royal duty, but increasingly willing to set aside convention and connect with allies as equals."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
