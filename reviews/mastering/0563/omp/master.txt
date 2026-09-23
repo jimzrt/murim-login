@@ -28,11 +28,11 @@ Go Jun’s face was rigid, his eyes bloodshot. He was glaring at someone in the 
 
 Go Se-won remembered an article he had seen on his way in: Jin Taekyung and the President were holding an official New Year’s press conference.
 
-He had more or less guessed what was happening, but watching the broadcast in his current state was no different from forcing Go Jun to swallow deadly poison.
+He had suspected that was what Go Jun was watching. Letting him watch it in this state, though, was like making him swallow poison.
 
 *Like showing a snuff film to a child.*
 
-Go Se-won had made up his mind and was bending down to pick up the remote from the floor when—
+Go Se-won made up his mind and bent to retrieve the remote from the floor.
 
 “Head of Security.”
 
@@ -58,15 +58,15 @@ By the time his lengthy speech—almost like the one he had given when announcin
 
 “It’s a campaign rally in there.”
 
-Go Jun spat out the words, anger and mockery mingling in his voice. Then he muttered,
+Go Jun’s words carried equal parts anger and scorn.
 
 “How many of those bastards haven’t taken our fucking money, huh?”
 
 “…”
 
-“They couldn’t even breathe properly when Master was around. The youngest president in history? Anti-Ares Guild? That bastard Baek Hanseong was still beneath Master’s feet in the end.”
+“They couldn’t even breathe properly when Master was around. Youngest president in history? Anti-Ares Guild? That bastard Baek Hanseong was beneath Master’s feet too.”
 
-Humiliation and rage poured from his voice—emotions that had never been visible in him before.
+Humiliation and rage, neither of which Go Se-won had heard from him before, spilled out with every word.
 
 Go Se-won lowered his eyes. His thoughts turned cold.
 
@@ -96,7 +96,7 @@ As the President’s voice rang out over unending applause, everything was chang
 
 With the fall of the giant that was Lee Jungryong, the shadow he had cast was beginning to lift.
 
-And at the center of all these events, one person’s presence was exerting a powerful influence.
+And at the center of it all stood one man.
 
 > “But, my fellow citizens! The government and I will do everything in our power to keep you safe! Together with the young man seated beside me, we will protect Korea from every threat, at home and abroad!”
 
@@ -108,19 +108,19 @@ In the past few months, that man in his late twenties had become one of the most
 
 > “Jin Taekyung! Jin Taekyung!”
 
-> “Fuck! Fucking fuck!”
+> “Lord Fuck! Lord Sibu-leol!”
 
 Cheers louder than any before shook the press conference hall.
 
-The young man who had been sleeping with his chin propped at an angle suddenly opened his eyes. Then he began clapping at a frantic speed while staring at the President.
+The young man who had been asleep with his chin propped on his hand snapped his eyes open. He began clapping at a frantic pace, looking straight at the President.
 
-> “That was truly an incredible speech, Mr. President. Especially your final words. They moved me so deeply that I feel—”
+> “What an incredible speech, Mr. President. Especially those last words. They moved me so much I feel a little sick…”
 
 > “Um, that last part was about you, Hunter Jin Taekyung.”
 
-> “Ah, wait a moment. My stomach really is churning. I think I’m suddenly getting motion sickness.”
+> “Wait. I really do feel sick. Like I’m getting motion sickness all of a sudden.”
 
-> “All of this is being filmed. Please wipe the drool off your face first—”
+> “The cameras are on you. Could you wipe the drool off your face first…”
 
 > “Edit this out. Please. Okay?”
 
@@ -128,11 +128,11 @@ The young man who had been sleeping with his chin propped at an angle suddenly o
 
 > “Right. Wow. Fuck, I’m screwed.”
 
-> “It’s live. I said it’s live, please. Hunter Jin Taekyung. Hello?”
+> “We’re live. We’re live, please. Hunter Jin Taekyung. Do you hear me?”
 
-The sight of the sweating President in his forties and the young hero in his twenties was broadcast in its entirety.
+The sweating President in his forties and the young hero in his twenties went out to the entire country.
 
-It was a broadcasting accident that would go down in the history of Korean television, but no one would scold or curse Jin Taekyung for it.
+It was a broadcasting mishap fit for Korean television history, but no one would scold Jin Taekyung for it. The people caught on camera weren’t frowning. They were laughing and chanting his name.
 
 *Jin Taekyung.*
 
@@ -146,9 +146,9 @@ But one thing was undeniable. Jin Taekyung was walking the same path as the man 
 
 And perhaps, regardless of what Jin Taekyung wanted, everything around him was trying to make him a second Cheon Taemin.
 
-> “Mr. Jin Taekyung! I heard you suppressed all three Mutated Gates that appeared this time by yourself! Would you say a few words about that?”
+> “Mr. Jin Taekyung! I heard you suppressed all three recent Mutated Gates on your own! Could you tell us about that?”
 
-> “I wasn’t alone. There were two of us, though—”
+> “I wasn’t alone. There were two of us—”
 
 > “Mr. Jin Taekyung! Kim Jin-mu, Mudang Daily!”
 
@@ -164,13 +164,13 @@ Something was wrong with the flow of it. It looked natural at first glance, but 
 
 Then an unfamiliar reporter shouted a question, and a chill ran down Go Se-won’s spine.
 
-> “I have a question about the third Mutated Gate you suppressed two days ago! According to information obtained by our newspaper, that Gate was being handled by a famous Guild—”
+> “I have a question about the third Mutated Gate you suppressed two days ago! According to information our newspaper obtained, that Gate was handled by a certain well-known Guild…”
 
 “…!”
 
 *That’s it. So that’s what this is.*
 
-The moment enlightenment flashed through him, Go Se-won hurriedly reached for the remote.
+The realization struck like a flash. Go Se-won reached for the remote, but another hand got there first.
 
 *Crunch!*
 
@@ -182,13 +182,13 @@ Go Jun crushed the remote and the table beneath it. His eyes flashed red.
 
 “I won’t say it twice.”
 
-The blood vessels in his superior’s eyes had burst. The voice that followed was so chilling that it raised goose bumps.
+Blood vessels had burst in his superior’s eyes. His next words sent a chill through Go Se-won.
 
 “Stay still. Unless you want to die.”
 
 “Hk…!”
 
-Go Se-won swallowed a breath without meaning to and leaned back against the sofa as though his half-raised body had collapsed.
+Go Se-won caught his breath. Halfway out of his seat, he sank back against the sofa.
 
 On the holographic TV, exactly what he had feared was happening.
 
@@ -206,19 +206,19 @@ The reporters lunged at their prey. Quite a few had once taken Ares Guild’s di
 
 Jin Taekyung nodded.
 
-> “Yes. They still hadn’t come fifteen minutes after the initial situation began. In the meantime, the mana levels kept rising until the Gate became a Mutated Gate.”
+> “Yes. Fifteen minutes after the situation began, they still hadn’t come. Meanwhile, the magical power readings kept rising until it became a Mutated Gate.”
 
 > “Does that mean it could have been dealt with before the Gate fully mutated if the rescue team had arrived on time?”
 
-> “Well, I can’t be a hundred percent certain, but if they had sent in even one A-rank Hunter early on, there probably would have been a high chance of resolving it without outside assistance.”
+> “I can’t be a hundred percent sure. But if they’d sent in even one A-rank Hunter early, there’s a good chance they could’ve handled it themselves.”
 
 > “Unlike the other Mutated Gates, the Guild responsible for this one has enormous numbers of Hunters and considerable financial resources. Why do you think it failed to send a rescue team in time?”
 
-> “The reason… Well, I’m not sure.”
+> “Why… Good question.”
 
 Jin Taekyung thought for a moment, then tossed out an answer as though it were nothing.
 
-> “That family seems to be having a lot of trouble these days. Or should I say, the boss? Their management has changed, too, so I imagine there was probably some confusion here and there.”
+> “Things seem pretty noisy in that family these days. Or should I call it the boss? Management’s changed too. I guess that caused some confusion.”
 
 *Crack!*
 
@@ -230,7 +230,7 @@ An enormous Guild with vast manpower and capital. A change in management.
 
 Those two clues were enough. Anyone who knew anything would understand without searching online. Even if no one had named it yet…
 
-> “It was a serious mistake, but what could I do? Fortunately, I happened to be there, so no one died. Personally, I’m just glad about that. Oh, and while I have this opportunity, I’d like to once again offer my deepest condolences to the deceased.”
+> “It was a serious mistake, but what can you do? Fortunately, I happened to be there, so no one died. Personally, I’m glad it turned out that way. Oh, and I’d like to take this opportunity to offer my condolences to the deceased once again.”
 
 > “An excellent answer, Hunter Jin Taekyung. I’m certain the deceased would be grateful and proud of you.”
 
@@ -240,11 +240,9 @@ Go Se-won swore inwardly and opened his eyes.
 
 Korea’s youngest President had the microphone again. He was delivering the final blow.
 
-> “Fortunately, we were able to bring this incident to an end without any fatalities, but our government intends to take the initiative and begin a thorough investigation. As President of Korea—and as a citizen—I find this Guild’s negligent response deeply regrettable. However, the wishes and legacy of the deceased, who was a great hero, have been passed on in their entirety to Hunter Jin Taekyung—”
+> “Fortunately, this incident ended without fatalities, but our government intends to launch an active investigation. As President of Korea—and as one of its citizens—I deeply regret this Guild’s negligent response. Yet the wishes and dying wish of the deceased, who was a great hero, have been passed on to Hunter Jin Taekyung in their entirety…”
 
-The President’s words did not reach the end.
-
-No—in precise terms, Go Se-won could no longer hear them.
+The President’s words did not end there. More precisely, Go Se-won could no longer hear them.
 
 “…!”
 
@@ -256,7 +254,7 @@ The layered protective magic circles installed by ten high-ranking mages broke a
 
 At the center of the destruction stood Go Jun, his eyes blood-red.
 
-“How dare you! How dare you! How dare you—!”
+“How dare you! How dare you! How dare you!”
 
 *Bang! Bang! Kwaaaang!*
 
@@ -264,13 +262,13 @@ Everything had a limit.
 
 Those last words had set fire to all the anger Go Jun had swallowed in the days since becoming Vice Guild Master.
 
-“I’ll kill him! I’ll kill him no matter what!”
+“I’ll kill him! I swear I’ll kill him!”
 
 *Kwaaaang!*
 
 Go Jun was Lee Jungryong’s de facto successor. But those who watched today’s press conference would see it differently.
 
-They would believe that Jin Taekyung was the new hero—and the only person who had inherited the will of Cheon Taemin, who had still not revealed himself, and Lee Jungryong, who had died only recently.
+To them, Jin Taekyung was the new hero. He was the only one carrying on the will of both Cheon Taemin, who had yet to reappear, and Lee Jungryong, who had died only recently.
 
 “Jin Taekyung! Jin Taekyuuung!”
 
