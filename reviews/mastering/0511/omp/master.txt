@@ -4,13 +4,13 @@ Deep in the night, with darkness on every side, two ships raced along the Yangtz
 
 *Whoosh!*
 
-Any sailor with good night vision would have been startled once by the vessels’ extraordinary speed, then twice by the flag visible beyond their faint torchlight.
+Any sailor with sharp night vision would have been startled first by their extraordinary speed, then by the flags visible beyond their faint torchlight.
 
 The Yangtze River Channel League.
 
 Those five characters, written in blue dye, were a sure pass for traveling safely and freely across the vast Yangtze.
 
-But the flag was both a pass and a symbol of raiders.
+But the flags were also the mark of raiders.
 
 “What the…”
 
@@ -86,7 +86,7 @@ That was when another cry rang out.
 
 The fisherman snatched up his harpoon, eyes rolling back in fury.
 
-“Fuck this. I’ll hurry over, punch a hole in their hull, and come right back, so nobody try to stop me.”
+“Fuck this. I’m going to punch a hole in their hull and come right back. Nobody try to stop me.”
 
 “Wait. Just wait a moment.”
 
@@ -100,7 +100,7 @@ The other fishermen had finally noticed something odd. They pricked up their ear
 
 As if on cue, they all raised their heads and looked around for its source.
 
-The music stopped abruptly aboard the pleasure boat as well. Apparently wondering what was going on, men and women dressed in dazzling silk stood at the bow and stared out at the pitch-black Yangtze.
+The music had stopped aboard the pleasure boat, too. Men and women in dazzling silk stood at the bow, staring out over the pitch-black Yangtze.
 
 “Did we hear wrong?”
 
@@ -128,7 +128,7 @@ It was astonishing enough to see a young man crossing the Yangtze in the middle 
 
 The shout shattered the silence that had settled over the river.
 
-And everyone realized that the bizarre noise they had heard was part of the reality unfolding before their eyes.
+And everyone realized that the mad noises they’d heard were part of the scene before their eyes.
 
 *Whoosh, whoosh, whoosh!*
 
@@ -146,13 +146,11 @@ It was a shocking sight. Sa-eo mostly lived in the open sea; seeing even one in 
 
 But if that had been all, the fishermen wouldn’t have stood there speechless.
 
-The reason they had been rendered speechless was simple.
-
 “Tell me… am I dreaming?”
 
 “I think I’m having the same dream.”
 
-“It looks to me like that young man has put some sort of bridle on the sa-eo and is, well… driving it.”
+“It looks to me like that young man’s put some sort of bridle on the sa-eo and is… driving them.”
 
 “I don’t know what that is. It’s frightening…”
 
@@ -202,7 +200,7 @@ The fisherman who had been planning to attack the pleasure boat lowered his harp
 
 The fisherman paused at language as colorful as anything he’d heard from a sailor. Just then, the young man loosened the strange rope in his hand.
 
-The fishermen belatedly realized that one of the sa-eo had been released and panicked.
+The fishermen realized one of the sa-eo had been released.
 
 “Urgh!”
 
@@ -258,11 +256,11 @@ The young man took the lightly seasoned rice ball and flashed a playful grin.
 
 That was the last they saw of him.
 
-The fishermen stared blankly as the sight of one man and four fish vanished into the distant darkness in an instant. Then they looked at the only trace he had left behind.
+The fishermen watched blankly as one man and four fish vanished into the distant darkness. Then they turned to the only trace he’d left behind.
 
 *Shudder!*
 
-The sa-eo had foolishly picked a fight with the wrong person, been thoroughly beaten, and now feared human beings themselves. The shark—or rather, the white sturgeon—trembled violently.
+The sa-eo had picked a fight with the wrong person, been beaten soundly, and now feared humans altogether. The shark—or rather, the white sturgeon—trembled.
 
 And the fisherman who had become its new owner realized that his fate had just changed dramatically.
 
@@ -284,7 +282,7 @@ I guarantee no one in either the modern world or Murim has ever experienced wate
 
 *Swish!*
 
-“Just keep going like that. You’re not going alone. Match fins with your friends and go together.”
+“That’s better. Keep it up. You’re not going alone. Match fins with your friends and go together.”
 
 Of course, I’d used a little violence.
 
