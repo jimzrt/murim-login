@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“He seems to know the Deputy Military Commissioner of Shanxi Province.”",
+      "defect": "Changes who knows the commissioner. The eunuch is addressing Jeok Cheongang, not describing the person he serves.",
+      "id": "F01",
+      "rationale": "아시는 addresses Jeok; the eunuch explains his master's connection to the commissioner only in the following sentence.",
+      "replacement": "“You seem to know the Deputy Military Commissioner of Shanxi Province.”",
+      "severity": "critical",
+      "source": "산서성 도지휘동지 대감을 아시는 것 같습니다만."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You little shit! You’re too young for the blood to have dried on your head, but your tongue’s already been cut in half? ‘Could your title be’?”",
+      "defect": "Jeok objects to being addressed as an equal with 그대, not to the wording of the question about his title.",
+      "id": "F02",
+      "rationale": "The pointed repetition of 그대 makes the man's form of address the cause of Jeok's anger.",
+      "replacement": "“You little shit! You’re still wet behind the ears, and half your tongue seems to be missing. What was that—‘you’?”",
+      "severity": "major",
+      "source": "이 대가리에 피도 안 마른 어린 노무 새끼가 혀가 반 토막이 났나. 뭐? 그대?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Jin Taekyung’s missive began with the eloquent line, *“Looks like I fucked up.”*",
+      "defect": "Turns a tentative assessment that the situation has gone badly into Taekyung's admission of personal fault, and drops his polite register toward Jeok.",
+      "id": "F03",
+      "rationale": "아무래도 and 것 같습니다 qualify the assessment; 조진 describes the predicament without assigning blame to Taekyung.",
+      "replacement": "Jin Taekyung’s missive began with the eloquent line, *“I’m afraid we may be screwed.”*",
+      "severity": "major",
+      "source": "‘아무래도 조진 것 같습니다.’라는 명문(名文)으로 시작되는 진태경의 서신"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“If you’d said that sooner, I wouldn’t have had to hit you. Forgive this old man’s rudeness, eunuch.”\n\nThe eunuch wanted to say that calling an eunuch an eunuch was about the rudest thing you could do, but he held his tongue.",
+      "defect": "Using the neutral office term “eunuch” for Jeok's insult makes the following complaint about its rudeness puzzling.",
+      "id": "F04",
+      "rationale": "Jeok says 고자 양반 rather than 환관, and the narration explicitly identifies calling him 고자 as the insult.",
+      "replacement": "“If you’d said that sooner, I wouldn’t have had to hit you. Forgive this old man’s rudeness, my good castrate.”\n\nThe eunuch wanted to say that calling a eunuch a castrate was about the rudest thing you could do, but he held his tongue.",
+      "severity": "major",
+      "source": "진즉 말했다면 굳이 때리진 않았을 텐데. 노부의 무례를 용서하게. 고자 양반.\n\n환관은 고자에게 고자라고 하는 것만큼 무례한 언사가 없다고 말하고 싶었지만, 꾹 눌러 참았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "But he knew even an ordinary master would have to concentrate to pull in a chest that heavy.",
+      "defect": "“Ordinary master” understates the skill specified in the preceding Korean sentence, 어지간한 내가고수.",
+      "id": "F05",
+      "rationale": "The comparison is specifically to a capable master of internal energy, making Jeok's effortless feat more striking.",
+      "replacement": "But he knew even a skilled internal-energy master would have to concentrate to pull in a chest that heavy.",
+      "severity": "minor",
+      "source": "한데 눈앞의 중년인은 그걸 너무나도 간단히 해냈다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Well, it’s Miss Ju.”",
+      "defect": "Miss loses the established address for 소저 in this exchange.",
+      "id": "F06",
+      "rationale": "The packet's terminology specifies Young Lady for 소저.",
+      "replacement": "“Well, it’s Young Lady Ju.”",
+      "severity": "minor",
+      "source": "그게, 주 소저입니다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Where the hell were you lot that you’re so late?”",
+      "defect": "Addresses Sama Pyo as part of the tardy group rather than asking him where the people he brought were.",
+      "id": "F07",
+      "rationale": "저 치들은 refers to the others who arrived with Sama Pyo.",
+      "replacement": "“Where the hell were those people that it took you so long to bring them?”",
+      "severity": "minor",
+      "source": "저 치들은 도대체 어디에 있었기에 이리 늦었느냐?"
+    }
+  ],
+  "summary": "One subject reversal and several losses of hierarchy, register, or specific meaning.",
+  "version": 1
+}
