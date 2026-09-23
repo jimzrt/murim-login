@@ -1,0 +1,106 @@
+{
+  "chapter": 791,
+  "files": {
+    "characters/Divine Physician.md": "e98d83db26f72624a9b3013c040c64720e094aca40d0aaf8785e1ade8cab0d06",
+    "characters/Jin Taekyung.md": "65a016e993b7b09dd73c15abff9b703f6e8555355809a2614d261df1955de0a1",
+    "characters/Jintae.md": "f1b372cd77e65a65d5d3d27eb706df54622251df6fd9a2969cfaf991720be4c8",
+    "characters/Michael.md": "5c5b550a99b36fbf1fa6a0e015d53eda65e1fb56a6d98505161acb334de072fb",
+    "characters/The Prophet.md": "8e76f46c0d5985126d2ff53d10a9893565d23a55cf98d47220cfcd540fc2a1a1",
+    "docs/ADDRESS.md": "c1c9a1322aff96ba659e842af77d0c8eef5726cb081a364c1755d6eb6cb2e430",
+    "docs/CONTEXT.json": "301b1357e5643567cbced4c6d14501a3fcec7461ced4d7f1a1b57e1e48841df2",
+    "docs/STATE.md": "a745ffa59dae8985caf356e1c01617fae4b6fbf800be1f1484767632a5c289bd",
+    "summaries/beats/0791.md": "910ef59ffee1ce79fdf7169acb209f268e4ed73a4ae2993fec4cb540ffd81acd"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "최 팀장",
+        "kinship": "Alliance Leader to subordinate team leader",
+        "normal_address": "Team Leader Choi",
+        "notes": "Jin asks Choi about the search and the cargo aboard the flight.",
+        "speaker": "진태경",
+        "speech_level": "casual-polite"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "subordinate team leader to Alliance Leader",
+        "normal_address": "Mr. Jin Taekyung",
+        "notes": "Choi addresses Jin as 진태경 씨.",
+        "speaker": "최 팀장",
+        "speech_level": "formal-polite"
+      },
+      {
+        "addressee": "샤오 쉔",
+        "kinship": "allied companion",
+        "normal_address": "you; young human brat",
+        "notes": "The Skeleton King grumbles at Xiao Shen while accepting his company.",
+        "speaker": "스켈레톤 킹",
+        "speech_level": "insulting-casual"
+      },
+      {
+        "addressee": "스켈레톤 킹",
+        "kinship": "younger allied companion to senior ally",
+        "normal_address": "Mr. King",
+        "notes": "Xiao Shen uses “Mr. S” before correcting himself to “Mr. King.”",
+        "speaker": "샤오 쉔",
+        "speech_level": "respectful-polite"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The World Hunter Federation and allied forces are searching the Middle East for The Prophet; 100,000 Hunters have been deployed, but the search has found no notable leads after its first day, and could take more than sixty days in the worst case.",
+        "The Prophet has a large quantity of unrefined Magic Gems and may be preparing a major attack, but Jin suspects they are not ready to carry it out yet.",
+        "The Skeleton King and Xiao Shen are investigating the site where a search squad lost contact; the Skeleton King has just spotted something unidentified."
+      ],
+      "plot": [
+        "On the flight to the Middle East, Jin Taekyung reviews intelligence on The Prophet and learns the search could take more than sixty days. With The Prophet still holding a huge supply of unrefined Magic Gems, Jin fears a catastrophic attack may be imminent and insists they must find them before they are ready.",
+        "Meanwhile, the Skeleton King and Xiao Shen investigate the location where a search squad lost contact. As they arrive, the Skeleton King spots something unexpected."
+      ],
+      "translation_decisions": [
+        "Keep magical power distinct from mana.",
+        "Preserve the Skeleton King's shift from “Mr. S” to “Mr. King” as a running honorific joke."
+      ]
+    },
+    "chapter": 791,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation's Alliance Leader.",
+        "The Main Quest [Cataclysm] requires Jin to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet is hiding somewhere in the Middle East and possesses a large quantity of unrefined Magic Gems; Jin suspects they are preparing a major attack but are not ready yet.",
+        "The World Hunter Federation and allied forces have deployed 100,000 Hunters to search for The Prophet; the search has found no notable leads after its first day, and the worst-case estimate exceeds sixty days.",
+        "The Skeleton King and Xiao Shen are investigating a site where a search squad lost contact; the Skeleton King has spotted something unidentified."
+      ],
+      "continuity_sources": [
+        790,
+        791
+      ],
+      "open_questions": [
+        "Can Jin find and eliminate The Prophet before the Main Quest's time limit expires?",
+        "What is the unidentified thing the Skeleton King has spotted?",
+        "When will The Prophet's attack begin, and what will the Cataclysm involve?"
+      ],
+      "safe_through": 791,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Do not identify what the Skeleton King spots until it is revealed."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Xiao Shen",
+        "korean": "샤오 쉔",
+        "notes": "Jin Taekyung's younger-brother figure, accompanying the Skeleton King on the search."
+      },
+      {
+        "english": "Skeleton King",
+        "korean": "스켈레톤 킹",
+        "notes": "Jin Taekyung's friend and ally."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}

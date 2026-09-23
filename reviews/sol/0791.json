@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Smuggling and refining Magic Gems illegally were grave crimes explicitly covered by international law, but there were plenty of loopholes.",
+      "defect": "The draft makes refining the crime; the source names leaving the gems unrefined.",
+      "id": "F01",
+      "rationale": "미정제 means non-refinement, not illegal refinement.",
+      "replacement": "Smuggling in Magic Gems and leaving them unrefined were grave crimes explicitly covered by international law, but there were plenty of loopholes.",
+      "severity": "critical",
+      "source": "마정석의 밀반입 및 미정제는 국제법에도 명시된 엄청난 중죄지만, 빈틈은 얼마든지 있다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And the day that bomb went off, it was easy enough to imagine the Great Cataclysm beginning, just as the Main Quest I’d been given was titled.",
+      "defect": "The draft substitutes Great Cataclysm for the Main Quest’s title, Cataclysm.",
+      "id": "F02",
+      "rationale": "The source says 격변, while 대격변 is the distinct term rendered Great Cataclysm.",
+      "replacement": "And the day that bomb went off, it was easy enough to imagine the Cataclysm beginning, just as the Main Quest I’d been given was titled.",
+      "severity": "major",
+      "source": "그리고 그 폭탄이 터지는 날. 내게 주어진 메인 퀘스트의 제목처럼 격변(激變)이 시작되리라는 것쯤은 어렵지 않게 예상할 수 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*That cunning human once said the only good Chinese was a dead Chinese, but it seems there are exceptions, even if they’re few and far between.*",
+      "defect": "Chinese neutralizes the ethnic slur the Skeleton King recalls.",
+      "id": "F03",
+      "rationale": "짱깨 is derogatory; the source’s offensive register is part of the recalled remark.",
+      "replacement": "*That devious human once said the only good Chink was a dead Chink, but it seems there are exceptions, even if they’re few and far between.*",
+      "severity": "major",
+      "source": "‘간악한 인간의 말에 의하면 착한 짱깨는 죽은 짱깨뿐이라고 했는데, 역시 극소수지만 예외는 있군.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "He’d also had his eye on several Middle Eastern countries that had sided with Michael Silbert at the recent UN General Assembly.",
+      "defect": "Had his eye on loses Furin’s hostile intent to retaliate.",
+      "id": "F04",
+      "rationale": "벼르고 있었다 conveys a grudge and an intention to act, which explains the force of Russia’s warning.",
+      "replacement": "He’d also been itching to settle the score with several Middle Eastern countries that had sided with Michael Silbert at the recent UN General Assembly.",
+      "severity": "major",
+      "source": "얼마 전 열렸던 UN 총회 당시 미카엘 실베르트의 편에 섰던 몇몇 중동 국가를 벼르고 있었다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "*Of course, half the Magic Gems they acquire that way are probably smuggled out the back door.*",
+      "defect": "Smuggled out specifies a method or destination; the source only says the gems are illicitly siphoned off.",
+      "id": "F05",
+      "rationale": "뒷구멍으로 빠져나가다 describes diversion without establishing that the gems leave the region.",
+      "replacement": "*Of course, half the Magic Gems obtained that way probably disappear through back channels.*",
+      "severity": "minor",
+      "source": "‘물론, 그렇게 습득한 마정석 중 절반은 뒷구멍으로 빠져나가겠지만.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Or maybe it was because of three words that had never left my mind.",
+      "defect": "The draft turns the source’s three Korean syllabic characters into three words.",
+      "id": "F06",
+      "rationale": "세 글자 refers to the three syllables of 선지자, a single word.",
+      "replacement": "Or maybe it was because of those three syllables that had never left my mind.",
+      "severity": "minor",
+      "source": "아니, 어쩌면 줄곧 뇌리를 떠나지 않는 세 글자 때문일지도."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The worst terrorist in history, far beyond the South American drug lords—or even Osama bin Laden, who’d been at it long before them.",
+      "defect": "Them makes bin Laden a predecessor of the drug lords rather than of The Prophet.",
+      "id": "F07",
+      "rationale": "한참 선배 격인 compares bin Laden’s seniority to the terrorist under discussion.",
+      "replacement": "The worst terrorist in history, far beyond the South American drug lords or even his much older predecessor, Osama bin Laden.",
+      "severity": "minor",
+      "source": "남미의 마약왕이나, 한참 선배 격인 오사마 빈 라덴을 아득히 뛰어넘은 사상 최악의 테러리스트."
+    }
+  ],
+  "summary": "The draft has one reversed legal detail and several localized losses of meaning, register, or specificity.",
+  "version": 1
+}
