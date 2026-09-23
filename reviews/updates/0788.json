@@ -1,0 +1,108 @@
+{
+  "chapter": 788,
+  "files": {
+    "characters/Divine Physician.md": "80d37e531a44b97271c558eab252db01d87bf2bd668aebeac7ad1a186730e762",
+    "characters/Emmanuel.md": "8611c6c0be8d7218945e747e4fc295b462f34baa3f32c276b9dbbebef7e7859b",
+    "characters/Huginn.md": "10e41a3abe1064e3e8b7f7ff0ce2cf184fcd41c9f0d498794782c4567a6f98b1",
+    "characters/Michael.md": "c8a83a2c3e4d75c3ab3ab37742a8f9395d6b3b06530e1ad2a1401f347bede044",
+    "characters/Team Leader Choi.md": "5af2066219866a3b10d219a6f405ef821cf3c50fb855818a2adf99722672b385",
+    "docs/ADDRESS.md": "47c7414c02eebe89853f7ad364e576747dfe4baf2551e61b3311fbf556abedf1",
+    "docs/CONTEXT.json": "049c03c3c85bddc4cf34f1e49774cccbcdfc0e4385d1c38dc56cd5640d666911",
+    "docs/NAMES.md": "32f4828783668c0672bfb45dfd08b6d44d966992ff3e504ac71740f49cee5315",
+    "docs/STATE.md": "0e5c1cd54dc2e9d764d36eb93bc27e178ce33d0b8c6c594a1253041075b197dc",
+    "summaries/beats/0788.md": "b514c167e9eabe175754f7e9bc4017c9db856d37b6bec44eede9514f003d4cc6"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "후긴",
+        "kinship": "political superior to Michael Silbert’s loyal operative",
+        "normal_address": "Huginn",
+        "notes": "Emmanuel thanks Huginn over the phone before realizing Chuck Hagel is speaking.",
+        "speaker": "임마누엘",
+        "speech_level": "formal-polite"
+      },
+      {
+        "addressee": "임마누엘",
+        "kinship": "Federation operative confronting Michael Silbert’s loyalist",
+        "normal_address": "Emmanuel",
+        "notes": "Hagel addresses Emmanuel by name and insults him.",
+        "speaker": "척 헤이글",
+        "speech_level": "hostile and informal"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The World Hunter Federation’s inaugural ceremony succeeded; it announces that Michael Silbert and his followers were executed for betraying humanity, and says the operation is ongoing.",
+        "Chuck Hagel takes President Emmanuel alive after assaulting him at the Élysée Palace; Ares Guild members keep Emmanuel alive.",
+        "Choi Minwoo serves as the Federation’s interim spokesperson and promises to reveal evidence.",
+        "Federation figures continue dismantling Michael Silbert’s network through the day Jin Taekyung wakes from his deep sleep."
+      ],
+      "plot": [
+        "President Emmanuel, a longtime loyalist of Michael Silbert who expects to rule France as a king, waits for news of the World Hunter Federation’s inaugural ceremony. After learning it ended successfully, he discovers that Chuck Hagel is at his office instead of Huginn. Hagel tells him Michael is dead, beats him through a window, and has Ares Guild members keep him alive. The Federation publicly announces that it executed Michael and his followers, while Choi Minwoo promises to reveal the evidence and Federation operatives continue dismantling Michael’s network. Jin Taekyung wakes from his deep sleep as that work continues."
+      ],
+      "translation_decisions": [
+        "Render 임마누엘 1세 as “Emmanuel the First” when referring to Emmanuel’s imagined future title.",
+        "Keep the title 맹주 as “Alliance Leader.”"
+      ]
+    },
+    "chapter": 788,
+    "context": {
+      "active_continuity": [
+        "Michael Silbert is dead; Huginn was captured alive, and Michael’s forces were killed or captured.",
+        "The World Hunter Federation is established, with Jin Taekyung as its Alliance Leader.",
+        "The Federation announced Michael’s execution and says its operation against his followers is ongoing.",
+        "Chuck Hagel’s team took President Emmanuel alive; Ares Guild members are keeping him alive.",
+        "Choi Minwoo is the Federation’s interim spokesperson and promises to reveal evidence.",
+        "Jin Taekyung has awakened from his deep sleep.",
+        "The Skeleton King is Jin’s friend and ally and reassured him that the deaths were not Jin’s fault.",
+        "Felix has begun treating the Skeleton King as a friend rather than observing royal conventions.",
+        "The system warned of a great fire that could consume the forest, a danger greater than any disease."
+      ],
+      "continuity_sources": [
+        787,
+        788
+      ],
+      "open_questions": [
+        "What is the great fire the system warns could consume the forest?"
+      ],
+      "safe_through": 788,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Emmanuel",
+        "korean": "임마누엘",
+        "notes": "President of France and Michael Silbert’s longtime loyalist."
+      },
+      {
+        "english": "Chuck Hagel",
+        "korean": "척 헤이글",
+        "notes": "The man who confronts Emmanuel at the Élysée Palace."
+      },
+      {
+        "english": "Élysée Palace",
+        "korean": "엘리제 궁전",
+        "notes": "The French presidential palace."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [],
+        "english": "Emmanuel",
+        "filename": "Emmanuel.md",
+        "korean": "임마누엘",
+        "personality": "Ambitious, opportunistic, and willing to trade absolute loyalty for power and wealth.",
+        "relationships": "He served Michael Silbert with absolute loyalty and was taken alive by Chuck Hagel.",
+        "role": "Emmanuel is the President of France and a longtime political beneficiary of Michael Silbert.",
+        "voice": "Formal and deferential toward powerful allies, with self-important ambitions."
+      }
+    ],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}

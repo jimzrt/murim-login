@@ -1,19 +1,19 @@
 # Translation State
 
-- Last completed: 787
-- Next chapter: 788
-- Current block: 785–789 (3/5)
-- Latest translation: `translations/0787.md`
-- Latest summary: `summaries/beats/0787.md`
-- Safe profiles through: chapter 787
+- Last completed: 788
+- Next chapter: 789
+- Current block: 785–789 (4/5)
+- Latest translation: `translations/0788.md`
+- Latest summary: `summaries/beats/0788.md`
+- Safe profiles through: chapter 788
 
 ## Current Block
 
-- After Jin Taekyung kills Michael Silbert, the system heals most of Jin’s injuries, but Jin collapses into sleep from exhaustion. The Skeleton King tells him the deaths were not his fault, and the surviving Hunters quietly honor him. Prince Felix sets aside his royal armor and offers help; Choi Minwoo, Chuck Hagel, Faye Chen, and Magic Johnson join him in carrying Jin. The Hunters then acclaim Jin as the World Hunter Federation’s new Alliance Leader, and the system recognizes the appointment as an achievement.
+- President Emmanuel, a longtime loyalist of Michael Silbert who expects to rule France as a king, waits for news of the World Hunter Federation’s inaugural ceremony. After learning it ended successfully, he discovers that Chuck Hagel is at his office instead of Huginn. Hagel tells him Michael is dead, beats him through a window, and has Ares Guild members keep him alive. The Federation publicly announces that it executed Michael and his followers, while Choi Minwoo promises to reveal the evidence and Federation operatives continue dismantling Michael’s network. Jin Taekyung wakes from his deep sleep as that work continues.
 
 ## Open Questions
 
-- What is the great fire the system warns could consume the forest? 
+- What is the great fire the system warns could consume the forest?
 
 ## Exceptional Decision
 

@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“It went off without a hitch.”",
+      "defect": "Claims the ceremony proceeded without disruption, rather than merely ending successfully.",
+      "id": "F01",
+      "rationale": "성공적으로 끝났지 states the result, not that nothing went wrong along the way.",
+      "replacement": "“It ended successfully.”",
+      "severity": "major",
+      "source": "성공적으로 끝났지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Long time no see, Emmanuel. You miserable little rat. I ought to tear you limb from limb.”",
+      "defect": "Loses Hagel’s assertion that even tearing Emmanuel apart and killing him would not satisfy him.",
+      "id": "F02",
+      "rationale": "찢어 죽여도 시원치 않을 explicitly says that killing him that way would still not be satisfying.",
+      "replacement": "“Long time no see, Emmanuel. You little rat—I could tear you apart and kill you, and it still wouldn’t be enough.”",
+      "severity": "major",
+      "source": "이 찢어 죽여도 시원치 않을 쥐새끼 같으니."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Yes, sir. He’ll be fine.”",
+      "defect": "Turns confirmation that Emmanuel is sufficiently alive into a prediction of recovery.",
+      "id": "F03",
+      "rationale": "The exchange asks whether he survived; Hagel’s next order is only to keep him breathing.",
+      "replacement": "“Yes, sir. He’s alive, all right.”",
+      "severity": "major",
+      "source": "“아, 예. 충분합니다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Bastard. Did you think I’d say yes?”",
+      "defect": "Adds a question about Emmanuel’s expectations instead of dismissing his request as absurd.",
+      "id": "F04",
+      "rationale": "그걸 말이라고 rebukes the question itself.",
+      "replacement": "“Asshole. What kind of question was that?”",
+      "severity": "minor",
+      "source": "“개자식. 그걸 말이라고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "They kept at it until the day a young man, who’d fallen into a deep sleep, finally awoke.",
+      "defect": "Implies the operation stopped when the young man woke.",
+      "id": "F05",
+      "rationale": "그 날까지도 emphasizes that their work continued even on that day; it does not mark its end.",
+      "replacement": "Even on the day a young man finally woke from his deep sleep, they were still at it.",
+      "severity": "critical",
+      "source": "마침내 깊은 잠에 빠졌던 한 청년이 깨어나던 그 날까지도."
+    }
+  ],
+  "summary": "Several lines change the outcome or force of the source; the final line also incorrectly implies the operation ended.",
+  "version": 1
+}
