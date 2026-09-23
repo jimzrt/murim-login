@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 761
-- Next chapter: 762
-- Current block: 760–764 (2/5)
-- Latest translation: `translations/0761.md`
-- Latest summary: `summaries/beats/0761.md`
-- Safe profiles through: chapter 761
+- Last completed: 762
+- Next chapter: 763
+- Current block: 760–764 (3/5)
+- Latest translation: `translations/0762.md`
+- Latest summary: `summaries/beats/0762.md`
+- Safe profiles through: chapter 762
 
 ## Current Block
 
-- Jin Taekyung kills the Lv. 140 Minotaur Lord with a spear strike and explosive flames, causing the Minotaur army to collapse. He orders the human forces to pursue and exterminate the scattered survivors, turning the remainder of the battle into a night-long slaughter.
-- Munich is secured at the cost of roughly fifteen hundred human casualties, including nearly one thousand dead. Jin regains public support and trust but remains troubled by the deaths and by his role in the conflict. The Main Quest: Cataclysm remains unchanged, and Michael Silbert arrives in Munich after completing the South Africa operation.
+- Michael Silbert arrives in Munich aboard Odin Guild's private aircraft and orders Huginn to leave the gathered reporters in place because he intends to meet Jin Taekyung publicly. Huginn recognizes that public opinion has swung decisively toward Jin after the Leviathan incident and Munich Monster Wave, granting him an invisible pardon that Michael has never obtained.
+- Michael meets Jin before the cameras, and their apparently cordial handshake becomes a silent contest of strength that reveals Michael possesses unexpectedly immense physical power. During their private exchange, Michael declares that he came to Munich to make an announcement capable of turning the entire world upside down, then faces the cameras to deliver the unexpected bombshell.
 
 ## Open Questions
 
+- What is the world-changing announcement Michael Silbert is about to make?
 - What exactly does the Main Quest: Cataclysm require, and will it end only when Michael Silbert is ruined or killed?
-- What will happen when Jin confronts Michael Silbert in Munich?
 - Can Jin prove that Michael Silbert lured Leviathan with an unrefined S-rank Magic Gem?
 - What did Leviathan mean by saying that humanity and the world awakened it?
 - Who is the unidentified figure in Cape Town, and which friend is waiting?
