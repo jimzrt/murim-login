@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.9,
+      "current": "He was the Lesser Family Head of the Murong Family and had recently been appointed a Squad Leader of the Murim Alliance’s Outer Hall.",
+      "defect": "The source says Murong Yeonghwi was appointed a 단주, while the chapter separately distinguishes 단주 from 대주. Rendering 단주 as “Squad Leader” collapses that distinction; “Squad Leader” is used for 대주 elsewhere in this chapter.",
+      "id": "F01",
+      "rationale": "The source distinguishes 단주 from 대주 in line 121, and the English translation likewise distinguishes unit heads from commanders there.",
+      "replacement": "He was the Lesser Family Head of the Murong Family and had recently been appointed a unit head in the Murim Alliance’s Outer Hall.",
+      "severity": "minor",
+      "source": "131"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A fisherman with an ordinary name, no different from anyone else, had disappeared. One month later, he had reappeared as a monster and a Killing Ghost that had thrown Hubei Province into an uproar.",
+      "defect": "The source explicitly says this information, which the narrator had heard earlier at the Hidden Shadow Pavilion, is now being spoken by the Sect Leader. That attribution and continuity detail are omitted.",
+      "id": "F02",
+      "rationale": "The Korean names the Hidden Shadow Pavilion as the narrator’s earlier source of this information.",
+      "replacement": "The information I’d heard earlier at the Hidden Shadow Pavilion now flowed from the old Daoist’s lips: a fisherman with an ordinary name, no different from anyone else, had disappeared. One month later, he had reappeared as a monster and a Killing Ghost that had thrown Hubei Province into an uproar.",
+      "severity": "minor",
+      "source": "211"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*Fuck. Me.*",
+      "defect": "The punctuation makes the realization read ambiguously as the exclamation “Fuck me,” rather than the narrator’s blunt realization that he is the person being addressed.",
+      "id": "F03",
+      "rationale": "The Korean means “Shit, it’s me,” followed by the explanation that he had momentarily forgotten because he was not used to the title.",
+      "replacement": "*Fuck. That’s me.*",
+      "severity": "minor",
+      "source": "265"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it loses one continuity detail, blurs a distinction between two Outer Hall roles, and makes the narrator’s realization ambiguous.",
+  "version": 1
+}

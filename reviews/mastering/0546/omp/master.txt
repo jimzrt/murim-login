@@ -10,7 +10,7 @@ At the sound of that deep voice, five doors opened one after another. A figure a
 
 Everyone except this bastard.
 
-*The more I look at him, the crazier he seems.*
+*The more I see of him, the crazier he gets.*
 
 I wasn’t exactly a model of etiquette myself, but even I could read a room. I leaned toward Cheongpung, who was determined to store every last morsel of food safely in his mouth, and whispered, “What the hell are you doing? Got a problem with society? Don’t like the Murim Alliance?”
 
@@ -84,9 +84,9 @@ Jeok Cheongang was the foremost among them. Standing with his weight on one leg 
 
 “Well, you know…”
 
-“Good grief. Now that you’ve got a title, are you taking the Alliance Leader’s side?”
+“Good grief. Now that you’ve got a title, are you taking the Alliance Leader’s side too?”
 
-Jin Wikyung paused for a moment and gave an awkward smile. In the space of just a year and several months, he had taken the helm of the Jin Family of Taiyuan as Acting Family Head and brought astonishing growth to a family that had been slowly declining. Before anyone knew it, he had become one of their number.
+Jin Wikyung paused and gave an awkward smile. In just over a year, he had taken the helm of the declining Jin Family of Taiyuan as Acting Family Head and led it through astonishing growth. Before anyone knew it, he had become one of the people gathered here.
 
 “It’s not that—”
 
@@ -104,7 +104,7 @@ It was hard to imagine anyone busier than Mae Jonghak, but he wasn’t wrong. Ev
 
 *The Two Halls, Three Divisions, Five Pavilions, Five Gardens, and Ten Squads.*[^2]
 
-The only organization standing shoulder to shoulder with the Alliance Leader’s Hall, led by Murim Alliance Leader Mae Jonghak, was the Five Kings Hall, now headed by Jeok Cheongang. Beneath them were the Three Divisions and Five Pavilions belonging to the Inner Hall, followed by the Five Gardens and Ten Squads, which were occupied by people from the Five Great Families and the Nine Sects and One Gang.
+The only organization that stood alongside the Alliance Leader’s Hall, led by Mae Jonghak, was the Five Kings Hall, now headed by Jeok Cheongang. Beneath them were the Three Divisions and Five Pavilions of the Inner Hall. Members of the Five Great Families and the Nine Sects and One Gang held the positions in the Five Gardens and Ten Squads.
 
 *And there are more besides.*
 
@@ -116,13 +116,13 @@ It showed how enormous the Murim Alliance was. It also meant Cheongpung and I ha
 
 A difference between title and standing, perhaps. My title was Pavilion Master, but in the actual pecking order, I was near the bottom of this gathering. Of course, no one else my age held a position like it.
 
-*Ah. There was one other person besides Cheongpung.*
+*Ah. There is one other person besides Cheongpung.*
 
-One-Ride Heavenly Dragon Murong Yeonghwi, a genius who had been called Murim’s greatest young prodigy only two years ago. He was the Lesser Family Head of the Murong Family and had recently been appointed a Squad Leader of the Murim Alliance’s Outer Hall. I had heard that instead of following his father, the Family Head, to Henan, he had remained in Liaoning to oversee the family’s defenses.
+One-Ride Heavenly Dragon Murong Yeonghwi. A genius who, only two years ago, had been called Murim’s greatest young prodigy. He was the Lesser Family Head of the Murong Family and had recently been appointed to lead a unit in the Murim Alliance’s Outer Hall. I’d heard that instead of following his father, the Family Head, to Henan, he’d stayed in Liaoning to oversee the family’s defenses.
 
-*I thought I might finally get to see him in person.*
+*I thought I might finally get to meet him.*
 
-Then again, there was no stupider act than leaving one’s base undefended just to attend a meeting in Henan. Everyone else here must have completed their defensive preparations in the same way.
+Then again, leaving your home base undefended to attend a meeting in Henan would be idiotic. Everyone here had probably made similar arrangements.
 
 *Swish.*
 
@@ -138,7 +138,7 @@ As Mae Jonghak raised his hand, something drifted up from beyond the doors, whic
 
 Someone muttered under their breath.
 
-The object was covered by a cloth, so its identity could not be made out. But it was obviously enormous and seemed to possess considerable weight. Exclamations of admiration rose at Mae Jonghak’s internal energy as he moved it without effort.
+A cloth covered the object, hiding what it was, but it was clearly large and looked heavy. People murmured in admiration at the internal energy it must take to move it so casually.
 
 Several faces, though, had already gone rigid. Mine probably had too.
 
@@ -158,7 +158,7 @@ The reek of a rotting body. I’d smelled it countless times in both the modern 
 
 *If I’m right, that’s…*
 
-The next moment, the cloth stained dark red with blood was pulled away, and everyone in the conference hall groaned almost simultaneously.
+The next moment, the cloth stained dark red with blood came away. A groan escaped everyone in the hall.
 
 “Gasp.”
 
@@ -166,7 +166,7 @@ The next moment, the cloth stained dark red with blood was pulled away, and ever
 
 “Alliance Leader, what is that thing?”
 
-Voices filled with shock burst out from every corner. Those who already knew about it and those who did not were all forced to feel the same shock at that moment.
+Shocked voices rose from every corner. Whether they’d known about it beforehand or not, no one could look at what the cloth had concealed without feeling the same horror.
 
 *A monster.*
 
@@ -198,7 +198,7 @@ The Sect Leader of Wudang nodded.
 
 “That’s right. Some of you may already have heard, but that man—no, that thing—was once a fisherman named Jang Sam.”
 
-A fisherman with an ordinary name, no different from anyone else, had disappeared. One month later, he had reappeared as a monster and a Killing Ghost that had thrown Hubei Province into an uproar.
+The information I’d heard at the Hidden Shadow Pavilion now came from the old Daoist’s lips. An ordinary fisherman with an ordinary name had gone missing, then reappeared a month later as a murderous fiend and monster that had thrown Hubei Province into an uproar.
 
 “When it was first found, its martial arts were only Third Rate. But its strength and movements were said to be inhuman. Each time it reappeared, it looked more grotesque and had grown stronger. As though…”
 
@@ -234,11 +234,11 @@ Fortunately—or perhaps unfortunately—the Sect Leader of Wudang’s guess was
 
 Most monsters grew stronger in one of two ways: they were born with tremendous power, or they absorbed magical power from other monsters.
 
-*Eating humans might give them a small amount of strength, but most of the people this thing killed were commoners and Third Rate or Second Rate wandering martial artists.*
+*Eating humans might give it a little strength, but most of its victims were commoners, with only a few Second Rate or Third Rate wandering martial artists among them.*
 
 Humans and monsters were born with fundamentally different kinds of energy. If that sort of exchange between the two were possible, modern monsters would already be sold as aphrodisiacs or health tonics.
 
-*I can’t be one hundred percent certain since it’s a mutant.*
+*I can’t be one hundred percent sure. It is a mutant.*
 
 Still, experience told me that explanation was more likely. No—I hoped it was. If monsters that could directly absorb human energy started pouring into the world, we’d never be able to handle them.
 
@@ -246,13 +246,13 @@ While I was lost in thought, Mae Jonghak’s quiet voice carried through the hal
 
 “Pavilion Master Jin. What do you think?”
 
-I turned my head toward the voice calling for Pavilion Master Jin—and froze when I felt everyone’s gazes on me.
+I turned to look for Pavilion Master Jin, then froze as everyone’s gaze settled on me.
 
 *Wait. Pavilion Master Jin means…*
 
 *Fuck. Me.*
 
-I still wasn’t used to it, so I had forgotten.
+I still wasn’t used to it.
 
 “Are you asking me?”
 
@@ -260,7 +260,7 @@ I still wasn’t used to it, so I had forgotten.
 
 “Well, this is… Hm.”
 
-“It’s all right. Say whatever comes to mind.”
+As I hesitated, Mae Jonghak said calmly, “It’s all right. Say whatever you think.”
 
 “I’m not sure how to put it.”
 
@@ -272,7 +272,7 @@ Simply and clearly. I thought for a moment, then spoke carefully.
 
 “Considerably?”
 
-I stared into dozens of pairs of burning eyes before answering.
+I looked into dozens of pairs of expectant eyes and answered.
 
 “I think we’re fucked.”
 
