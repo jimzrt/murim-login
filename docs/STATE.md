@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 893
-- Next chapter: 894
-- Current block: 890–894 (4/5)
-- Latest translation: `translations/0893.md`
-- Latest summary: `summaries/beats/0893.md`
-- Safe profiles through: chapter 893
+- Last completed: 894
+- Next chapter: 895
+- Current block: 890–894 (5/5)
+- Latest translation: `translations/0894.md`
+- Latest summary: `summaries/beats/0894.md`
+- Safe profiles through: chapter 894
 
 ## Current Block
 
-- Jin asks Sama Pyo and the Divine Physician about their ties to assassins. The Divine Physician recalls his Master, the former Slaughter Saint, and Sama Pyo and Namho connect the old assassin Jin encountered to the feared One-Legged Ghost Killer, though Namho says the identification is uncertain and the man is currently an ally. Jin struggles with the moral cost of joining forces with a killer who takes lives for money, then sets out to ask Ma Sanbao why he brought the assassins into the cause.
-- The Divine Physician recounts that his Master destroyed Salcheonmun because its members felt no regret or remorse for their deeds.
+- After Jin Taekyung leaves, Jeok Cheongang tells the others that Hong Dao foresaw an approaching calamity and identified Jin as the Morning Star who would continue to shine through the darkness. Jeok believes there is no absolute justice in the Murim; his own cause is to protect those he still has and to try to make good choices. He trusts Jin to choose his own path and vows to remain at his side.
+- Jin goes to meet Ma Sanbao in a hidden palace refuge. Ma calmly offers to explain either the assassins he hired or So Gyo, leaving Jin startled.
 
 ## Open Questions
 
 - What accounts for the enemy's confidence that the decisive battle's outcome is assured?
-- Did Ma Sanbao recruit the assassins, and why did he bring them into the cause?
+- Why did Ma Sanbao hire the assassins and bring them into the cause?
 - Is the old assassin Jin encountered truly the One-Legged Ghost Killer?
 - What will happen at the approaching grand banquet?
 - Who is So Gyo, and why did she release Jin?
