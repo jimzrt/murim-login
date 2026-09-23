@@ -2288,3 +2288,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 엑스칼리버 | **Excalibur** | Legendary sword reference used as a comparison for the Hero's Sword. |
 | 워싱턴 포스트지 | **Washington Post** | Newspaper represented among the reporters questioning Michael. |
 | 서울 | **Seoul** | Location announced for the World Hunter Federation's inaugural ceremony. |
+| 나이지리아 | **Nigeria** | Country named in a report about the civil war ending. |
+| 콩고 | **Congo** | Country named in a report about protesters stopping. |
+| 마사야 | **Masa** | Name referenced by an online commenter. |
+| 한국 | **Korea** | Destination of the international Hunters and Guild Masters. |
+| 진 | **Jin** | Public shorthand for Jin Taekyung used in online discussion. |
