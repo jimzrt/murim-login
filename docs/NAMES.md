@@ -2348,3 +2348,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 황족명 | **imperial-family command** | Ju Wongong’s claimed authority to command the troops, distinct from an imperial edict. |
 | 애향 | **Aehyang** | The City Lord’s favored concubine. |
 | 동방삭 | **Dongfang Shuo** | Long-lived figure invoked in the reference to 삼천갑자. |
+| 혈혼고 | **Blood Soul Gu** | Rare gu poison found deep in Nanman. |
