@@ -1,6 +1,6 @@
 # Hong Jin (홍진)
 
-- **Safe through:** Chapter 870
+- **Safe through:** Chapter 871
 - **Aliases:** None
 - **Role:** Hong Jin is a Level 22 Deputy Military Commissioner of Shanxi Province, a eunuch and trusted aide to Prince Shangshan, and a former member of the East Depot.
 - **Personality:** Composed, socially deft, and ambitious, Hong Jin became a eunuch to escape poverty and save his family, then used his abilities to pursue a broader life.

@@ -1,6 +1,6 @@
 # Jang Sam (장삼)
 
-- **Safe through:** Chapter 846
+- **Safe through:** Chapter 871
 - **Aliases:** Killing Ghost
 - **Role:** A Hubei fisherman who disappeared for a month and returned as the Killing Ghost, a monster that grew stronger and more grotesque with each appearance.
 - **Personality:** Not established.
