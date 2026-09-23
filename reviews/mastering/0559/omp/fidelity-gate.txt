@@ -1,0 +1,45 @@
+{
+  "summary": "The assembled English has a few meaning-level deviations: one comparison is weakened, and two source details are omitted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 13",
+      "current": "could rival a divine technique.",
+      "defect": "The source says the technique is no different from an ordinary divine technique in the master’s hands, not merely that it can rival one. The current phrasing weakens the comparison.",
+      "replacement": "was no different from a divine technique.",
+      "rationale": "삼재검법이 여느 신공과 다를 바 없는 것처럼 means the Three Calamities Sword Technique is no different from an ordinary divine technique in that master’s hands.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraph 63",
+      "current": "The victim of that day, the Skeleton King, spoke with an enraged expression.",
+      "defect": "The source first notes that the earlier signs of welcome had completely vanished. That change in the room’s mood is omitted.",
+      "replacement": "The warm welcome from earlier had vanished without a trace. The victim of that day, the Skeleton King, spoke with an enraged expression.",
+      "rationale": "처음 반가워하던 기색은 이제 어디에서도 찾아볼 수 없다 explicitly contrasts the initial warm welcome with the current anger.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Paragraph 261",
+      "current": "But even he could not compare with the intelligence-gathering capabilities of the Ministry of National Defense of the United States, which still claimed to be the most powerful nation in the world.",
+      "defect": "The source establishes that Johnson’s position, status, and influence in the United States are immense before contrasting them with the Defense Department’s intelligence capabilities. The assembled version omits that setup.",
+      "replacement": "Magic Johnson’s position, status, and influence in the United States were undeniably immense. But even he could not compare with the intelligence-gathering capabilities of the Ministry of National Defense of the United States, which still claimed to be the most powerful nation in the world.",
+      "rationale": "Paragraph 261 explicitly describes Johnson’s standing as 막강 before the contrast in paragraph 263; the accepted baseline preserved this detail.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Paragraph 159",
+      "current": "More than ten enormous scorpions let out strange cries.",
+      "defect": "“More than ten” asserts a lower bound that the source does not establish. 십여 마리 means roughly ten or ten or so.",
+      "replacement": "About ten enormous scorpions let out strange cries.",
+      "rationale": "The source gives an approximate quantity, not a definite count greater than ten.",
+      "confidence": 0.91
+    }
+  ]
+}

@@ -22,7 +22,7 @@ I gave a quiet laugh at Magic Johnson, the dark-skinned Grand Mage grumbling in 
 
 “…A little different. Anyway, let’s move on.”
 
-Magic Johnson, who had turned Seoul into a city of hell in one sentence, spotted the people inside the room and broke into a wide smile.
+Having turned Seoul into a city of hell with one question, Magic Johnson spotted the others in the room and broke into a wide smile.
 
 “Hey, what’s up, gays! It’s been a while.”
 
@@ -42,13 +42,13 @@ I nodded.
 
 “That’s true. Johnson was here for the national funeral, too.”
 
-The national funeral held this time had been enormous. Nearly a million citizens had come to pay their respects, and influential figures from countries around the world had traveled to Korea.
+The funeral had been enormous. Nearly a million citizens had come to pay their respects, along with influential visitors from countries around the world.
 
 That said plenty about the influence Lee Jungryong had wielded in life. Quite a few of the mourners were presidents, prompting one news outlet to call the gathering a “summit meeting.”
 
 Magic Johnson, one of the symbols of the United States, had been among them.
 
-“Hey, Jin. Is this how you’re going to act? I didn’t come to meet you people. I came simply to pay my respects.”
+“Hey, Jin. Is this how you’re going to treat me? I didn’t come to see you. I came to pay my respects.”
 
 “Your respects?”
 
@@ -60,7 +60,7 @@ Magic Johnson, one of the symbols of the United States, had been among them.
 
 “The guy who went with you. Pretty conclusive testimony.”
 
-The victim of that day, the Skeleton King, spoke with an enraged expression.
+The Skeleton King showed none of his earlier delight at seeing Johnson. The victim of that night spoke up, his expression furious.
 
 “I knew something was wrong when something touched this body’s backside. That damned human tricked me.”
 
@@ -68,11 +68,11 @@ The victim of that day, the Skeleton King, spoke with an enraged expression.
 
 Look at that expression. I’d believe it if Time had named him the “world’s most violent LGBTQ person.”
 
-Magic Johnson muttered in a threatening voice, then noticed everyone’s eyes on him and quickly adopted a serious expression.
+Johnson noticed everyone watching him and quickly put on a serious face.
 
 “Don’t misunderstand. I only went to experience Korean culture.”
 
-“Did you sell your tribute to an old comrade on eBay?”
+“Did you sell your tribute to your old comrade on eBay?”
 
 “Jin, don’t be like that. I paid my respects at the funeral ceremony. You know better than anyone what Mr. Lee was like.”
 
@@ -80,7 +80,7 @@ I did. Who could know better than me?
 
 And Johnson was one of the very few people who knew what had happened at the Arch Lich’s stronghold.
 
-“Anyway, we’re meeting again, so let’s stop talking about this. You there, you agree, don’t you? Your name was... Robin Hood, right?”
+“Anyway, let’s leave it there. It’s good to see you all again. You agree, don’t you? Your name was… Robin Hood, right?”
 
 Unfortunately, Korea’s Robin Hood—Im Kkeokjeong—didn’t have a translation Item. He answered with a frozen expression.
 
@@ -96,7 +96,7 @@ Team Leader Choi took it and examined it, his eyes sharpening.
 
 “Is this the information I asked for?”
 
-“That’s right. I had to pull a few strings for the first time in a while.”
+“Yes. I had to put in some work to track it down. Been a while since I’ve done that.”
 
 “I’ll thank you after I’ve reviewed it.”
 
@@ -114,7 +114,7 @@ If I’d noticed it, there was no way Johnson hadn’t. He looked around the off
 
 “Seven overlapping spells. Your security is tighter than I expected. Only a handful of mages in our Guild could manage magic at this level… Whose work is it?”
 
-“Someone who has been my hands and feet since I was young.”
+“Someone who’s worked for me since I was a child.”
 
 Kim the Butler and Johnson had never met face-to-face. After that brief answer, Team Leader Choi inserted the chip into his smartphone, and a holographic video sprang up above the screen.
 
@@ -138,11 +138,11 @@ Im Kkeokjeong’s eyes widened as he realized what that meant.
 
 Correct. Modern buildings had no business being inside a Gate.
 
-Every Gate contained at least a minimal amount of mana, and its Grade was determined by the total amount of mana it held.
+Every Gate held at least a little magical power, and its grade was determined by the total amount it contained. But when a monster appeared that far exceeded the Gate’s grade, things changed.
 
 *That was a Mutated Gate.*
 
-A Mutated Gate was already a serious problem. But if the presence of the higher-grade monster caused the Gate’s mana to exceed the total amount it could contain, an even greater disaster awaited.
+A Mutated Gate was bad enough. If the higher-grade monster pushed its magical power beyond what the Gate could contain, an even greater disaster followed.
 
 *A Monster Wave.*
 
@@ -158,15 +158,15 @@ More than ten enormous scorpions let out strange cries. Buried deep in the sand,
 
 —Joseph! Save Joseph!
 
-—Commence volley fire!
+—All units, fire!
 
 *Krrrraack!*
 
-At the very moment humans and monsters threw themselves at one another in an attempt to kill each other—
+Just as humans and monsters hurled themselves at each other—
 
 *Ffft.*
 
-The holographic video filling the office vanished as though it had been washed away.
+The hologram filling the office vanished without a trace.
 
 Team Leader Choi had stopped the video. He spoke in a subdued voice.
 
@@ -194,7 +194,7 @@ Team Leader Choi and I had both been watching news from around the world lately.
 
 That left only one answer.
 
-“There was no official announcement.”
+“There won’t be an official announcement.”
 
 Johnson gave a small nod.
 
@@ -214,7 +214,7 @@ He let out a dry laugh.
 
 “…!”
 
-For a moment, it felt as though someone had struck me in the back of the head.
+I felt as though someone had struck me in the back of the head.
 
 I knew this was wrong. And yet I’d been thinking the same thing as Johnson.
 
@@ -236,27 +236,27 @@ I hadn’t said what I was asking about. Johnson’s face went rigid. He underst
 
 He muttered the curse like a sigh, then turned to Team Leader Choi.
 
-“Choi, how many videos are stored on the chip I gave you?”
+“Choi, how many videos are on that chip?”
 
-Team Leader Choi stared silently at the smartphone screen before answering in a voice that sounded almost like a groan.
+Team Leader Choi stared at his phone. His answer came out almost as a groan.
 
 “Thirty-two.”
 
 “Right. Two were Monster Waves. The rest were Mutated Gates. And that’s only what I managed to get my hands on.”
 
-But even he could not compare with the intelligence-gathering capabilities of the Ministry of National Defense of the United States, which still claimed to be the most powerful nation in the world.
+Johnson’s position and influence in the United States were immense. But even he couldn’t match the intelligence resources of the Ministry of National Defense in a country that still called itself the strongest in the world.
 
-*Thirty-two incidents in the data Johnson managed to acquire alone.*
+*Thirty-two incidents in the material Johnson got hold of.*
 
 How many more had there been?
 
-At that moment, Team Leader Choi and I fell silent at the same time, as though we had arranged it in advance.
+Team Leader Choi and I fell silent at the same moment.
 
 “Wait. Hold on.”
 
-The Skeleton King had been diligently counting something on his fingers. Now he looked at Magic Johnson with eyes as round as lanterns.
+The Skeleton King had been counting on his fingers. He looked up at Johnson, his eyes as round as lanterns.
 
-“Human I’m no longer grateful to—doesn’t what you just said mean incidents like this have been happening every single day?”
+“Human to whom I am no longer grateful. If what you say is true, these incidents have been happening every single day?”
 
 “You loose-lipped monster. Aren’t you taking this a little too lightly?”
 
@@ -278,4 +278,4 @@ A suffocating silence settled over the room. Then the voice of the only person w
 
 “…”
 
-*To hell with ‘and you.’ Holy shit. Fuck.*
+*To hell with “and you.” Holy shit. Fuck.*
