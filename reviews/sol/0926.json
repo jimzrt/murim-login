@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Do I know you? And what do you mean, a misunderstanding? Drag this traitorous bastard to the jail and throw him in.”",
+      "defect": "Hong Jin asks whether the man knows him, not whether Hong Jin knows the man.",
+      "id": "F01",
+      "rationale": "당신 나 알아? makes the other man the subject of ‘know,’ preserving Hong Jin’s pointed response to his familiar address.",
+      "replacement": "“Do you know me? And what do you mean, a misunderstanding? Drag this traitorous bastard to the jail and throw him in.”",
+      "severity": "critical",
+      "source": "당신 나 알아? 그리고 오해는 무슨. 당장 이 역적 새끼 끌고 가서 형옥에 처박아요."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“You already know, don’t you, old Deputy Military Commissioner?”",
+      "defect": "The general’s 도독첨사 is rendered as Deputy Military Commissioner, the established English title for Hong Jin’s different office, 도지휘동지.",
+      "id": "F02",
+      "rationale": "The two Korean office titles are distinct; using Hong Jin’s title here falsely gives the general the same office.",
+      "replacement": "“You already know, don’t you, old Assistant Military Commissioner?”",
+      "severity": "major",
+      "source": "“이미 아시잖소. 도독첨사(都督僉事) 영감.”"
+    },
+    {
+      "confidence": 0.82,
+      "current": "“W-wait! Deputy Hong!”\n\n“I’m not a deputy anymore. It’s been ages since I was appointed Deputy Military Commissioner of Shanxi Province. Don’t make a scene calling me over. Go on ahead. Oh, and make sure you wash your balls.”",
+      "defect": "Calling Hong ‘Deputy’ makes his correction contradictory: the appointment he cites is itself rendered Deputy Military Commissioner. The man addresses him by an older penal-service title.",
+      "id": "F03",
+      "rationale": "Hong rejects 첩형 before naming his current office; the English must keep those positions distinct for the exchange to work.",
+      "replacement": "“W-wait! Torturer Hong!”\n\n“I’m not a torturer anymore. It’s been ages since I was appointed Deputy Military Commissioner of Shanxi Province. Don’t make a scene calling me over. Go on ahead. Oh, and make sure you wash your balls.”",
+      "severity": "major",
+      "source": "“자, 잠깐! 홍 첩형(貼刑)!”\n\n“나 첩형 아니에요. 산서성 도지휘동지로 임명된 지가 언젠데. 괜히 시끄럽게 사람 부르지 말고 먼저 가 있어요. 아, 불알 잘 닦아 놓고.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The question I still hadn’t resolved drifted faintly through my mind, like a breeze blowing in the early morning.",
+      "defect": "The draft drops the remembered voice and moves what lingers at his ears into his own thoughts.",
+      "id": "F04",
+      "rationale": "그 목소리가 … 귓가를 맴돌았다 describes a voice lingering at his ears, alongside the unresolved question.",
+      "replacement": "The question remained unresolved, and that voice lingered faintly in my ears like a breeze at dawn.",
+      "severity": "major",
+      "source": "― 그래, 너였구나.\n\n아직 해결하지 못한 의문이, 그 목소리가 새벽에 불어온 바람처럼 아스라이 귓가를 맴돌았다.\n\n― 무신(武神)께서 말씀하셨던, 선택받은 자가."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*For that very Martial God to show up so suddenly.*",
+      "defect": "‘Show up’ suggests the Martial God has appeared in person, though at this point he has only entered the conversation.",
+      "id": "F05",
+      "rationale": "The narrator immediately says he has never seen even the Martial God’s little finger and reacts to the mention of his title.",
+      "replacement": "*For the Martial God himself to come up so suddenly.*",
+      "severity": "critical",
+      "source": "‘바로 그 무신이 이렇게 갑작스럽게 등장하다니.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "There were also outlandish stories that the Martial God had never been human at all, but a divine beast that protected the Central Plains, and that he no longer appeared in human form.",
+      "defect": "The draft turns a rumor that he was like a divine beast into the categorical claim that he had never been human.",
+      "id": "F06",
+      "rationale": "신수와 같은 means ‘like a divine beast’; it does not assert that the Martial God was never human.",
+      "replacement": "There were also plenty of outlandish rumors that the Martial God was, by nature, something like a divine beast protecting the Central Plains, and that he no longer appeared in human form.",
+      "severity": "critical",
+      "source": "무신이란 본래 중원을 수호하는 신수(神獸)와 같은 존재라, 더는 인간의 모습으로 나타나지 않는다는 허무맹랑한 소문들도 심심찮게 나돌았다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Even to those who had been closest to the Martial God—and to me.",
+      "defect": "‘Been closest’ implies a personal relationship rather than firsthand proximity and contact.",
+      "id": "F07",
+      "rationale": "가장 가까이에서 … 보고 접했던 describes people who saw and encountered him at close range, without establishing intimacy.",
+      "replacement": "Even to those who had seen and encountered the Martial God up close—and to me.",
+      "severity": "major",
+      "source": "가장 가까이에서 무신이라는 존재를 보고 접했던 이들에게도, 그리고 나에게도."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it reverses one question, conflates two offices, and makes several uncertain claims more definite than the source.",
+  "version": 1
+}
