@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 843
-- Next chapter: 844
-- Current block: 840–844 (4/5)
-- Latest translation: `translations/0843.md`
-- Latest summary: `summaries/beats/0843.md`
-- Safe profiles through: chapter 843
+- Last completed: 844
+- Next chapter: 845
+- Current block: 840–844 (5/5)
+- Latest translation: `translations/0844.md`
+- Latest summary: `summaries/beats/0844.md`
+- Safe profiles through: chapter 844
 
 ## Current Block
 
-- Jeok Cheongang listens as Jin Taekyung explains that monsters are invading the modern world again and that the two worlds share troubling parallels. Jeok and Jin agree that their worlds’ crises are unlikely to be coincidence. Alone afterward, Jin reviews the evidence connecting Dark Heaven to the modern world: magical power in Murim, the Nanman rift, and Dark Heaven’s anomalous transportation formation. He concludes that Dark Heaven is the link between the worlds and that it first appeared during or shortly after the Great Faction War, but he still does not know how it reached Murim or the Lord of Heaven’s true identity. A remembered prophecy from the Doppelganger about a great king overcoming a god’s curse makes Jin freeze.
+- The Blood Lord inspects Dark Heaven’s experiments on Peak masters and rejects the results as too weak and short-lived, though he acknowledges that the sorcerers’ research is progressing. He orders them to preserve their remaining strength and prepare selected people as seeds to be buried and spread when the time comes.
+- The Blood Lord recalls how Jin Taekyung obstructed him and how both Jin and Cheongpung became far stronger than he expected. He resolves not to underestimate Jin again and to gather greater strength for the Lord of Heaven’s great cause. The Lord of Heaven recently ordered him to bring down the heavens; the Blood Lord sends out missives carried by dozens of black-feathered hawks.
 
 ## Open Questions
 
@@ -17,7 +18,7 @@
 - Was Jin’s vision of the summoned being real, System-delivered, or prophetic?
 - What will happen as the Rift progresses and more beings enter the world?
 - Who or what chose Jin, what is the Ark, and how did Dark Heaven reach Murim?
-- What is the Lord of Heaven’s true identity, and how does the Doppelganger’s prophecy about a great king relate to it?
+- What are Dark Heaven’s seeds, and what are the two effects the experiments seek to enhance?
 
 ## Exceptional Decision
 
