@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*It spent too much power before it could recover from the effects of Teleport. It needs a little time.*",
+      "defect": "The draft makes the Doppelganger the one who needs time to recover. Jin is assessing his own depleted strength; the next paragraph says the Skeleton King is in the same position.",
+      "id": "F01",
+      "rationale": "The following ‘이건 스켈레톤 킹도 마찬가지다’ compares the Skeleton King’s condition with Jin’s, not the Doppelganger’s.",
+      "replacement": "*I used too much power before I could recover from the effects of the Teleport spell. I need a little time.*",
+      "severity": "critical",
+      "source": "‘텔레포트 마법의 여파를 수습하기도 전에 너무 큰 힘을 소모했다. 약간의 시간이 필요해.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "But it still pissed me off to hear the bastard, wearing nothing but a shell, mock him.",
+      "defect": "“Mock him” specifies Bassman as the target of the taunt, which the source does not.",
+      "id": "F02",
+      "rationale": "The source describes Jin’s disgust at the impostor’s mockery without assigning Bassman as its target.",
+      "replacement": "But it still pissed me off to listen to the taunts of a bastard wearing someone else’s shell.",
+      "severity": "major",
+      "source": "하지만 한낱 껍데기를 뒤집어쓴 놈의 조롱을 듣고 있자니 기분이 더러운 것도 사실이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A barren wasteland where not a single tree or weed grew, now a ruin no one ever visited.",
+      "defect": "“No one ever visited” changes the source’s present abandonment into an absolute claim about the ruin’s history.",
+      "id": "F03",
+      "rationale": "이제는 marks the ruin as unvisited now.",
+      "replacement": "A barren wasteland where not a single tree or weed grew, now a ruin no one visited anymore.",
+      "severity": "minor",
+      "source": "나무 한 그루, 잡초 하나 자라나지 않는 황무지였고, 이제는 그 누구도 찾지 않는 폐허였다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“A monster like you is the exception.”",
+      "defect": "The line drops the insult in 몬스터 새끼, softening Jin’s deliberate hostility.",
+      "id": "F04",
+      "rationale": "Jin explicitly pairs ‘monster’ with a personal insult as he rejects the Doppelganger’s claim to Bassman’s standing.",
+      "replacement": "“A monster like you doesn’t count, you bastard.”",
+      "severity": "minor",
+      "source": "너 같은 몬스터 새끼는 예외로 쳐야지."
+    }
+  ],
+  "summary": "One critical subject reversal, one unsupported target of mockery, and two smaller fidelity issues.",
+  "version": 1
+}

@@ -1,0 +1,98 @@
+{
+  "chapter": 826,
+  "files": {
+    "characters/Divine Physician.md": "c0fdd042ca4b984203c0bb9df6fe84969363bbbc5dcd834b7c189c653f46f025",
+    "characters/Doppelganger.md": "65bfa12becdcb9588b178f577c941ded972dec58b781dfcd683c83ed81a3366f",
+    "characters/Michael.md": "13360456b7acca4787981cf8c388f1a6ad6264a016814bc22236e3f92567d25a",
+    "docs/CONTEXT.json": "1e8957c9f2c6fcff2795cb6e598c61526a4ed879eac7d488add663bce11c9ee0",
+    "docs/STATE.md": "08932a5475c6baac363e66b4dbba87afe9e2e96162e2e2225f9751b446134e93",
+    "summaries/beats/0826.md": "db99dd2ada96f7d93745455a68a8f1f8ce16d61c71c0986e63bad9e241056c46"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "도플갱어",
+        "kinship": "Enemies",
+        "normal_address": "No established address; Jin uses insults.",
+        "notes": "Jin directly insults the Doppelganger.",
+        "speaker": "진태경",
+        "speech_level": "Informal speech"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "Enemies",
+        "normal_address": "Chosen One",
+        "notes": "The Doppelganger addresses Jin as 선택받은 자여 (“Chosen One”).",
+        "speaker": "도플갱어",
+        "speech_level": "Informal, taunting speech"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Doppelganger has regained its composure and grown a new arm; it brought Jin and the Skeleton King to a temple that had been concealed beneath the ruins, where it says it heard its master’s command.",
+        "Jin is exhausted but quietly gathering energy, while the Skeleton King absorbs magical power and waits for Jin’s signal to attack. The master’s identity is unknown, and the Doppelganger implies the Demon King Asmodeus may not be dead."
+      ],
+      "plot": [
+        "A tremendous magical surge transforms the ruins into a vast, grotesque temple filled with giant monster statues. The Doppelganger reveals it came there because of an order from its unnamed master, received at that very place, and taunts Jin about the Demon King Asmodeus. Jin hides his recovery while gathering energy; he and the Skeleton King prepare to strike together, but the Doppelganger challenges Jin’s belief that the Demon King is dead."
+      ],
+      "translation_decisions": [
+        "Render 감응 as “resonance” in this passage.",
+        "Keep magical power distinct from mana; the Skeleton King absorbs magical power from the air.",
+        "Keep “Demon King Asmodeus” and “Grand Mage” as established terms."
+      ]
+    },
+    "chapter": 826,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and pursues Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet is a Level 170 Doppelganger titled “The Final Abyss,” the last surviving member of its species, which spent decades manipulating events in the human world.",
+        "The Doppelganger can resurrect by consuming absorbed lives and reproduce absorbed people’s appearances, abilities, and memories; it has taken Siegfried Bassman’s face and Grand Mage abilities.",
+        "The Doppelganger has regained its composure and grown a new arm; its dwindling absorbed lives were replenished by killing twenty followers and absorbing their vitality and souls.",
+        "The Doppelganger brought Jin and the Skeleton King to a vast temple concealed beneath the ruins, where it says it heard its unnamed master’s command.",
+        "Jin and the Skeleton King are in the temple, preparing a coordinated attack; Jin is exhausted but secretly gathering energy, while the Skeleton King absorbs magical power and awaits Jin’s signal.",
+        "Jin believes the Demon King Asmodeus is dead, but the Doppelganger challenges that belief."
+      ],
+      "continuity_sources": [
+        825,
+        826
+      ],
+      "open_questions": [
+        "Who is the Doppelganger’s master, and what is the plan behind the command it heard at the temple?",
+        "What does the Chosen One designation mean?",
+        "Is the Demon King Asmodeus truly dead?",
+        "What is the temple’s purpose, and what preparations did the Doppelganger complete there?"
+      ],
+      "safe_through": 826,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Keep Blink distinct from Teleport and Warp; extended-range Blink causes severe strain.",
+        "Keep Fire Storm and Aqua Storm as distinct named spells.",
+        "Render [영웅의 검] as “Hero’s Sword.”",
+        "Render 에어 슬래시 as “Air Slash” and 실드 마법 as “Shield magic.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Siegfried Bassman",
+        "korean": "지크프리트 바스만",
+        "notes": "The Grand Mage whose face, power, and soul the Doppelganger took."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** It served an unnamed master who sent it to this world and ordered it to avoid the target until the master’s plan was complete; it regarded Michael Silbert as a subordinate and disposable tool, and selected Yahya Muhammad Ahmad Bedouin to teach him magical power.",
+        "path": "characters/Doppelganger.md",
+        "replacement": "- **Relationships:** It serves an unnamed master whose command it heard at the temple, regarded Michael Silbert as a subordinate and disposable tool, and selected Yahya Muhammad Ahmad Bedouin to teach him magical power."
+      },
+      {
+        "current": "- **Voice:** Not established",
+        "path": "characters/Doppelganger.md",
+        "replacement": "- **Voice:** It speaks with theatrical, grandiose confidence, taunting opponents in polished, self-important phrasing."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
