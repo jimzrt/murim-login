@@ -1330,3 +1330,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 만티코어 로드 | 진태경 | enemy combatant | you | composed and formal | The Manticore Lord recognizes Jin as the human The Prophet spoke of. |
 | 야마모토 겐지 | 진 사마 | Hunter colleague; Yamamoto addresses Jin deferentially. | Jin Sama | Polite and deferential | Yamamoto calls out to Jin on arriving. |
 | 진태경 | 야마모토 겐지 | Hunter colleague; Jin is the World Hunter Federation’s Alliance Leader. | you | Informal and blunt | Jin addresses Yamamoto directly while rebuking him. |
+| 매직 존슨 | 진 | Allies | Jin | Informal | Magic Johnson addresses Jin by name while urging him to consider the pursuit. |
+| 스켈레톤 킹 | 진 | Allies | Jin | Informal | The Skeleton King addresses Jin as “Human” when asking if he is all right. |
