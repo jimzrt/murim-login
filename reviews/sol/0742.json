@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "And there was only one person who had gone beyond a simple acquaintance and openly said he genuinely respected Siegfried.",
+      "defect": "The subject and object of the respect are reversed. Siegfried said that he respected one person; the draft says that one person said he respected Siegfried.",
+      "id": "F01",
+      "rationale": "The following identification of that person as Cheon Taemin confirms that Siegfried is the one expressing respect.",
+      "replacement": "And beyond those mere connections, there was only one person Siegfried openly said he genuinely respected.",
+      "severity": "critical",
+      "source": "그와 인연을 맺은 사람은 나를 포함해서 아주 극소수였고, 단순한 인연을 넘어 진심으로 존경한다고 밝힌 사람은 한 명밖에 없었지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At least, he had been until the day he was discovered as a corpse in his hideout.",
+      "defect": "The draft omits the explicit fact that he was found today and renders the sentence in awkward, indirect English.",
+      "id": "F02",
+      "rationale": "오늘 explicitly anchors the discovery to the present day.",
+      "replacement": "At least until today, when he was found dead in his own hideout.",
+      "severity": "minor",
+      "source": "적어도 오늘, 자신의 은신처에서 시신으로 발견되기 전까지는."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Just as sewage did not become perfectly clear even after being purified, Magic Gems and monster corpses were the same.",
+      "defect": "Rendering 똥물 as the neutral “sewage” sanitizes the deliberately crude image and weakens Taekyung’s comic, vulgar narrative voice.",
+      "id": "F03",
+      "rationale": "똥물 is bluntly and comically vulgar, literally “shit water,” rather than the comparatively clinical “sewage.”",
+      "replacement": "Just as filtering shit water wouldn’t make it perfectly clear, the same was true of Magic Gems and monster corpses.",
+      "severity": "major",
+      "source": "똥물을 정수해도 완벽하게 맑아지지 않듯이, 마정석이나 몬스터의 사체 역시 마찬가지다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "I sent him messages every Thanksgiving and Christmas, but after three years ago, I never received another reply.",
+      "defect": "“After three years ago” is ungrammatical, and “messages” unnecessarily narrows the source’s general 연락.",
+      "id": "F04",
+      "rationale": "삼 년 전을 기점으로 means that the lack of replies began three years ago and continued afterward.",
+      "replacement": "I reached out every Thanksgiving and Christmas, but starting three years ago, he stopped replying.",
+      "severity": "minor",
+      "source": "추수감사절이나 크리스마스 때마다 연락을 보냈지만, 삼 년 전을 기점으로 돌아오는 대답은 없었어."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **A new Quest has been generated!**\n>\n> **An Unexpected Quest, Unknown Death, is being forcibly accepted!**",
+      "defect": "The complete System notices are wrapped in bold, contrary to the required System-panel Markdown convention.",
+      "id": "F05",
+      "rationale": "The blockquote and System heading already identify the UI panel; bold is reserved for meaningful labels or emphasis rather than entire notices.",
+      "replacement": "> A new Quest has been generated!\n>\n> An Unexpected Quest, Unknown Death, is being forcibly accepted!",
+      "severity": "minor",
+      "source": "― 새로운 퀘스트가 생성되었습니다!\n\n― 돌발 퀘스트, [알 수 없는 죽음]이 강제 수락됩니다!"
+    }
+  ],
+  "summary": "One critical relationship reversal, one omitted temporal fact, one meaningful register loss, and two localized presentation or wording issues.",
+  "version": 1
+}

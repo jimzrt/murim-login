@@ -2206,3 +2206,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 알프스산맥 | **the Alps** | Mountain range containing the hidden cave. |
 | 위저드 | **Wizard** | Guild led by Magic Johnson. |
 | 자경단 사건 | **the vigilante incident** | Operation against Middle Eastern terrorists and African rebel groups. |
+| 지크프리트 바스만 | **Siegfried Wassmann** | Reclusive Swiss Grand Mage known as the Hero. |
+| 마력 | **magical power** | Distinct from mana; the Skeleton King's area of expertise. |
