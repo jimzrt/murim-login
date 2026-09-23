@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Then the Skeleton King spoke, confirming the suspicion that had just dawned on him.",
+      "defect": "The draft attributes the dawning suspicion to the Skeleton King rather than Xiao Shen.",
+      "id": "F01",
+      "rationale": "The surrounding passage follows Xiao Shen as he senses the tremor and realizes what is approaching.",
+      "replacement": "Then the Skeleton King spoke, turning Xiao Shen’s dawning suspicion into certainty.",
+      "severity": "major",
+      "source": "그 순간 떠오른 짐작을 확신으로 굳혀 버리는 스켈레톤 킹의 한 마디까지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The King watched the flock of eagles disappear into the distance, far below him. Then, remembering the human bodies he’d uncovered moments ago, he turned toward the monster army bearing down on him.",
+      "defect": "The draft places the eagles below the King, reversing their positions, and changes his walk toward the monsters into a turn.",
+      "id": "F02",
+      "rationale": "The King remains on the ground while the eagles fly overhead, and he takes steps toward the approaching monsters.",
+      "replacement": "From far below, the King watched the flock of eagles disappear into the distance. Remembering the human bodies he’d uncovered moments ago, he walked toward the monster army bearing down on him.",
+      "severity": "critical",
+      "source": "그리고 까마득한 지상에서 멀리 사라져가는 독수리 무리를 바라보던 왕은, 조금 전 자신이 보았던 인간들의 시신을 생각하며 코앞까지 들이닥친 몬스터 군단을 향해 걸음을 옮겼다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "But the Skeleton King understood, the moment the battle began, that the power he’d gained by absorbing some of Michael Silbert’s magical power had given even these spirits—once mere wild beasts—the strength to crush ordinary monsters in an instant.",
+      "defect": "The draft says he gained the power by absorbing Michael’s magical power; the source says absorption strengthened a power he already had.",
+      "id": "F03",
+      "rationale": "더욱 강력해진 describes an existing power becoming stronger, not a newly acquired one.",
+      "replacement": "But the moment the battle began, the Skeleton King understood: absorbing some of Michael Silbert’s magical power had strengthened his own powers enough to give even these spirits—once mere wild beasts—the strength to crush ordinary monsters in an instant.",
+      "severity": "major",
+      "source": "미카엘 실베르트의 마력 중 일부를 흡수하며 더욱 강력해진 권능은, 한낱 맹수에 불과했던 망령들조차 평범한 몬스터 따위는 단숨에 짓이길 힘을 불어넣어 주었다는 것을."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“I’m not good at protecting people.”",
+      "defect": "The draft turns a lack of confidence about protecting someone here into a general claim that he is bad at it.",
+      "id": "F04",
+      "rationale": "자신 없는데 expresses uncertainty about his ability, which matters as he prepares Xiao Shen to defend himself.",
+      "replacement": "“I’m not sure I can protect anyone.”",
+      "severity": "major",
+      "source": "“누군가를 지키는 건 자신 없는데.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Chuck Hagel—a Hunter who’d been active since the Great Cataclysm and the former Secretary of Defense of the good ol’ U.S. of A.",
+      "defect": "Chuck Hagel’s S-rank is omitted.",
+      "id": "F05",
+      "rationale": "S급 states his Hunter rank explicitly and reinforces why he qualifies to command the main force.",
+      "replacement": "Chuck Hagel—an S-rank Hunter active since the Great Cataclysm and the former Secretary of Defense of the good ol’ U.S. of A.",
+      "severity": "major",
+      "source": "바로 대격변 때부터 활동해 온 S급 헌터이자, 천조국의 전(前) 국방장관이었던 척 헤이글이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "a Black son of a bitch spouting bullshit about political correctness",
+      "defect": "The draft substitutes a generic insult for the source’s racial slur.",
+      "id": "F06",
+      "rationale": "검둥이 is derogatory in itself; preserving that register matters to Hagel’s deliberately abusive tirade.",
+      "replacement": "a darkie spouting bullshit about political correctness",
+      "severity": "major",
+      "source": "정치적 올바름 같은 개소리나 지껄이는 검둥이건"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Even Senior Kim Soodan would have to admit the man knew how to take over a room.",
+      "defect": "The draft loses the joke’s comparison: even Senior Kim Soodan would concede that Hagel outdoes him.",
+      "id": "F07",
+      "rationale": "한 수 접어 줄 정도다 makes Kim Soodan yield the advantage, not merely acknowledge Hagel’s ability.",
+      "replacement": "Even Senior Kim Soodan would have to admit Hagel had him beat at bringing down the house.",
+      "severity": "major",
+      "source": "무대를 뒤집어 놓는 실력이 김수단 선배님도 한 수 접어 줄 정도다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it reverses the Skeleton King’s position, misattributes a realization, and loses several details of rank, power, and voice.",
+  "version": 1
+}
