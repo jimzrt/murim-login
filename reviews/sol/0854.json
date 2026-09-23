@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "“It’s good to see you alive, Officer Jang.”",
+      "defect": "The line makes Jang Il the person who survived, though the speaker is the one returning alive.",
+      "id": "F01",
+      "rationale": "The merchant master has survived the attack and is greeting Jang Il.",
+      "replacement": "“Glad I survived to see you again, Officer Jang.”",
+      "severity": "critical",
+      "source": "이렇게 살아서 다시 보니 반갑군. 장 무관."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jang Il followed the trading company master’s gaze and felt the world go dark.",
+      "defect": "The merchant master points toward the bodies; the draft changes that action to a look.",
+      "id": "F02",
+      "rationale": "손끝 identifies the direction indicated by his fingertip, not his gaze.",
+      "replacement": "Jang Il looked where the trading company master pointed and felt the world go dark.",
+      "severity": "critical",
+      "source": "상단주의 손끝을 따라 고개를 돌린 장일은"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Even when their legs were cut off, even when their arms were gone, they kept coming.",
+      "defect": "The draft severs the attackers’ legs, while the source says their legs were cut and distinguishes that from arms being torn off.",
+      "id": "F03",
+      "rationale": "다리가 베이고 describes cut legs; 팔이 날아가도 supplies the severed-limb image.",
+      "replacement": "“Even with their legs slashed and their arms torn off, they kept coming.",
+      "severity": "critical",
+      "source": "다리가 베이고, 팔이 날아가도 달려들었지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The battle was over in less than half a shichen, and our side broke.",
+      "defect": "“Less than” changes the stated duration, and the draft drops that the battle ended one-sidedly.",
+      "id": "F04",
+      "rationale": "불과 반 시진 만에 specifies just half a shichen; 일방적으로 describes the one-sided outcome.",
+      "replacement": "“The battle ended decisively in just half a shichen—roughly an hour—and our side broke.",
+      "severity": "critical",
+      "source": "전투는 불과 반 시진 만에 일방적으로 끝났고"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The death of one of their men set off a fierce battle.",
+      "defect": "The draft assigns the first death to the caravan, but the source leaves whose death it was unspecified.",
+      "id": "F05",
+      "rationale": "누군가의 죽음 does not identify the dead person’s side.",
+      "replacement": "Someone’s death set off a fierce battle.",
+      "severity": "major",
+      "source": "누군가의 죽음을 신호탄으로 치열한 전투가 벌어졌다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The trading companies’ guards and the hired wandering martial artists fought back.",
+      "defect": "“Guards” omits that the companies had raised or trained these fighters themselves, a contrast with the hired martial artists.",
+      "id": "F06",
+      "rationale": "상단에서 키워 낸 distinguishes the companies’ own trained fighters from 고용된 낭인들.",
+      "replacement": "The fighters trained by the trading companies and the hired wandering martial artists fought back.",
+      "severity": "major",
+      "source": "상단에서 키워 낸 무사들과 고용된 낭인들"
+    }
+  ],
+  "summary": "Several scene facts and physical details are altered, chiefly who survived, how the merchant indicated the bodies, the attackers’ injuries, and the battle’s duration.",
+  "version": 1
+}
