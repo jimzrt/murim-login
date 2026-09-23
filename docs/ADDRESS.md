@@ -1426,3 +1426,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 계야부 | 문경 | former Salcheonmun associate | Mungyeong | informal | Asks whether Mungyeong is still the same. |
 | 황제 | 백연 | Emperor to the imperial court’s foremost military commander and trusted comrade | Baek Yeon | Direct and familiar; framed as a request rather than an order | The Emperor asks Baek Yeon to sound the war drum. |
 | 상산왕 | 동천마군 | young imperial prince addressing the enemy who killed his parents and brothers and suffered at the hands of his grandfather | you | formal-polite | He apologizes for his grandfather’s actions using 당신 and deferential speech. |
+| 황제 | 주표 | older brother addressing his younger brother and newly appointed Crown Prince | Bao’er | intimate and authoritative | The Emperor uses a warm childhood-style name before commanding Zhu Bao to accept the succession. |
+| 주표 | 황제 | younger brother and Crown Prince addressing the Emperor | Your Majesty | formal and deferential | Zhu Bao formally accepts the Emperor’s command. |
+| 홍진 | 대학사 | imperial aide confronting a conspirator | Grand Academician | formal and cold | Hong Jin addresses the fleeing old man by his former title before striking him. |

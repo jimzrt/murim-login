@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 924
-- Next chapter: 925
-- Current block: 920–924 (5/5)
-- Latest translation: `translations/0924.md`
-- Latest summary: `summaries/beats/0924.md`
-- Safe profiles through: chapter 924
+- Last completed: 925
+- Next chapter: 926
+- Current block: 925–929 (1/5)
+- Latest translation: `translations/0925.md`
+- Latest summary: `summaries/beats/0925.md`
+- Safe profiles through: chapter 925
 
 ## Current Block
 
-- The Eastern Heaven Demon Lord recounts how he spared Zhu Bao as a child because he recognized his own lonely past in him. Zhu Bao declares his dream of building an age of peace in which no one suffers the misfortunes they endured, and explains that the people who supported him—including Hong Jin, the Emperor, and Jin Taekyung’s companions—made their paths different. His compassion moves the Demon Lord to let go of his hatred and ask Jin Taekyung to listen to a final message. With the Emperor and Zhu Bao clearing the way, Taekyung prepares to execute him, promises that he should be born human again in his next life, and engulfs him in warm blue-white flames. The Demon Lord is revealed to be Wei Zhong.
+- After Jin Taekyung kills Wei Zhong, he tells the Emperor that he spared Wei because he remembered others who regretted their wrong choices. The Emperor announces memorials for those killed in the battle, the people sacrificed in the struggles among the realm’s heroes, and the Maoshan Sect, and declares that they will be established in the Crown Prince’s name.
+- The Emperor commands Prince Shangshan Zhu Bao to accept the vacant Crown Prince’s seat, revealing that he kept it empty and sent Zhu Bao away to protect him. He also declares that Aehyang and her unborn child are unrelated to him and that the child is the late City Lord of Sichuan Province’s. As the Emperor and Zhu Bao embrace as brothers, Jin Taekyung confronts a conspirator trying to escape; Hong Jin knocks the Grand Academician unconscious.
 
 ## Open Questions
 
-- What did Wei Zhong tell Jin Taekyung through Sound Transmission?
 - Where is Ma Sanbao, and what is his current status?
+- What did Wei Zhong tell Jin Taekyung through Sound Transmission?
 - What does the Martial God’s reference to a chosen one mean for Jin Taekyung, and what story has So Gyo kept to herself?
 - Will the Salcheonmun pursue Mungyeong or discover that Jin Taekyung killed Gye Yabu?
-- What enabled Jin Taekyung to return from his seemingly fatal injuries?
 
 ## Exceptional Decision
 
