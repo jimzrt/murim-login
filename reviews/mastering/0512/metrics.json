@@ -1,0 +1,131 @@
+{
+  "chapter": 512,
+  "stages": {
+    "adjudicator": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 30208,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.00591968,
+      "cost_usd": 0.00591968,
+      "elapsed_seconds": 174.266,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0512/omp/adjudicator.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 23126,
+      "model": "gpt-6-luna",
+      "models": {
+        "openai-codex/gpt-6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 30208,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.00591968,
+          "input_tokens": 23126,
+          "model": "gpt-6-luna",
+          "output_tokens": 6610,
+          "provider": "openai-codex",
+          "reasoning_tokens": 3159,
+          "requests": 1,
+          "total_tokens": 59944
+        }
+      },
+      "output_bytes": 14698,
+      "output_tokens": 6610,
+      "packet_bytes": 88536,
+      "packet_token_estimate": 22134,
+      "provider": "openai-codex",
+      "reasoning_tokens": 3159,
+      "requested_model": "openai-codex/gpt-6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 59944,
+      "usage_source": "omp_provider_reported"
+    },
+    "fidelity_gate": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 30208,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.00259908,
+      "cost_usd": 0.00259908,
+      "elapsed_seconds": 35.957,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0512/omp/fidelity-gate.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "finding_count": 0,
+      "input_tokens": 15565,
+      "major_or_critical_count": 0,
+      "model": "gpt-6-luna",
+      "models": {
+        "openai-codex/gpt-6-luna": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 30208,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.00259908,
+          "input_tokens": 15565,
+          "model": "gpt-6-luna",
+          "output_tokens": 1481,
+          "provider": "openai-codex",
+          "reasoning_tokens": 1442,
+          "requests": 1,
+          "total_tokens": 47254
+        }
+      },
+      "output_bytes": 167,
+      "output_tokens": 1481,
+      "packet_bytes": 57760,
+      "packet_token_estimate": 14440,
+      "provider": "openai-codex",
+      "reasoning_tokens": 1442,
+      "requested_model": "openai-codex/gpt-6-luna:high",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 47254,
+      "usage_source": "omp_provider_reported"
+    },
+    "master": {
+      "billing_type": "subscription",
+      "cache_read_tokens": 0,
+      "cache_write_tokens": 0,
+      "cost_reported": 0.12465999999999999,
+      "cost_usd": 0.12465999999999999,
+      "elapsed_seconds": 71.79,
+      "event_log": "/home/james/Documents/murim_login_new/reviews/mastering/0512/omp/master.jsonl",
+      "exact": true,
+      "fallback_used": false,
+      "input_tokens": 46040,
+      "model": "gpt-6-sol",
+      "models": {
+        "openai-codex/gpt-6-sol": {
+          "billing_type": "subscription",
+          "cache_read_tokens": 0,
+          "cache_write_tokens": 0,
+          "cost_usd": 0.12465999999999999,
+          "input_tokens": 46040,
+          "model": "gpt-6-sol",
+          "output_tokens": 3258,
+          "provider": "openai-codex",
+          "reasoning_tokens": 789,
+          "requests": 1,
+          "total_tokens": 49298
+        }
+      },
+      "output_bytes": 11233,
+      "output_tokens": 3258,
+      "packet_bytes": 63794,
+      "packet_token_estimate": 15949,
+      "provider": "openai-codex",
+      "reasoning_tokens": 789,
+      "requested_model": "openai-codex/gpt-6-sol:medium",
+      "requests": 1,
+      "stop_reasons": [
+        "stop"
+      ],
+      "total_tokens": 49298,
+      "usage_source": "omp_provider_reported"
+    }
+  },
+  "version": 1
+}

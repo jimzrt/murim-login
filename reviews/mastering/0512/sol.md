@@ -10,7 +10,7 @@ I widened my eyes at the last person I expected to see.
 
 “That…”
 
-Jeok Cheongang hesitated, his voice trailing off.
+Jeok Cheongang hesitated.
 
 “I got seasick, so I got off the ship for a bit.”
 
@@ -22,7 +22,7 @@ Spider-Man retiring because he was afraid of heights would have been more believ
 
 “What’s with that smile?”
 
-I forced down the corners of my mouth and answered.
+I forced down the corners of my mouth.
 
 “I just have one of those faces that looks like it’s smiling.”
 
@@ -36,17 +36,17 @@ I forced down the corners of my mouth and answered.
 
 “H-hiding? What would this old man be hiding?”
 
-“The thing you’re holding in your clasped hands. Whatever could it be that you’re so embarrassed you have to hide it? Are you some kind of Murim high-school girl boss?”
+“The thing in your hand. What is it that’s so embarrassing you have to hide it? What are you, Murim’s high-school girl queen?”
 
 “I said I’m not hiding anything!”
 
 Jeok Cheongang shouted at my sharp observation and awkwardly brought his hands out from behind his back.
 
-He was fiddling with something wrapped in a large leaf, and the conflict in his movements was obvious.
+He fiddled with something wrapped in a large leaf, clearly torn over whether to hand it over.
 
 *Looks like food. And damn, does it smell good.*
 
-The meaty aroma carried on the wind was incredible. My stomach had spent more than half a day digesting nothing but raw fish and grilled fish, so of course it began to churn.
+The smell of meat drifting over on the wind was incredible. After more than half a day of nothing but raw and grilled fish, of course my stomach started rumbling.
 
 *Grrrrowl.*
 
@@ -92,13 +92,13 @@ Jeok Cheongang answered gruffly.
 
 “I brought it for myself, but I’ve lost my appetite. That’s why I’m giving it to you.”
 
-“I know. I know everything. Why do you keep explaining something the whole world already knows?”
+“I know. Everyone knows. Why do you keep telling me something the whole world already knows?”
 
 “…Damn it.”
 
 I let his grumbling go in one ear and out the other as I devoured the meat.
 
-By the time my short but fiercely fought meal was coming to an end, the four sharks that had been circling nearby while watching me warily had disappeared from sight. So had the swift ship that had been faintly visible in the distance.
+By the time my brief but ferocious meal was nearly over, the four sharks that had been circling warily nearby were gone from sight. So was the swift ship I’d barely been able to make out in the distance.
 
 “Ah, I missed it.”
 
@@ -112,11 +112,11 @@ I sucked the seasoning off my fingers.
 
 “Yes.”
 
-“You don’t seem particularly disappointed for someone who missed it.”
+“You don’t seem particularly disappointed.”
 
 “I’ve got no reason to be.”
 
-“What a strange fellow. Didn’t you use the sa-eo to chase the swift ship all the way here so you could catch up?”
+“What a strange fellow. Didn’t you make the sa-eo bring you all this way so you could catch the ship?”
 
 He was right. I couldn’t deny it.
 
@@ -144,9 +144,9 @@ Maybe I’d gotten carried away by the rewards that came with it all.
 
 *I wouldn’t have done this before.*
 
-To obtain something, you had to pay a price equal to its value.
+If you wanted something, you had to pay the price for it.
 
-If I had still been the F-rank Hunter who had secured a home for my family in an expensive Safety Sector far beyond our means and thrown myself into raids without rest to pay my mother’s hospital bills, I would never have used some cheap trick involving sharks.
+Back when I was an F-rank Hunter, I’d found my family a home in an expensive Safety Sector we could barely afford and thrown myself into raids without a break to pay my mother’s hospital bills. That version of me wouldn’t have pulled a cheap trick with sharks.
 
 Neither would the version who’d endured a year of brutal training on Mount Jiuhua without ever fleeing back to reality.
 
@@ -162,17 +162,17 @@ Jeok Cheongang frowned at my half-joking complaint.
 
 “That’s fine. Catching up isn’t the goal.”
 
-Jeok Cheongang’s stiff expression slowly relaxed.
+Jeok Cheongang’s stiff expression softened.
 
 “You realized the most important thing in half a day.”
 
-I lowered my head toward him. At that moment, I couldn’t bring myself to meet his eyes.
+I bowed my head. Right then, I couldn’t bring myself to meet his eyes.
 
 “It took me a whole half day. I’m sorry.”
 
 “At first, I waited because I was worried about you. After that, I meant to give you a thorough scolding.”
 
-From Jeok Cheongang’s perspective, it must have been utterly absurd. He had even outsourced my training, only for me to put together a Shark Water-Ski Team and use a cheap trick.
+From his perspective, it must have been absurd. He’d even entrusted my training to someone else, only for me to assemble a Shark Water-Ski Team and take a shortcut.
 
 But his voice was gentle now.
 
@@ -188,9 +188,9 @@ He noticed me watching and tossed out a remark.
 
 “You already know this isn’t something you can learn overnight.”
 
-“I know. I also know that it isn’t overnight. There are still ten days left.”
+“I do. I also know I still have ten days.”
 
-I shrugged and added,
+I shrugged.
 
 “And I have two excellent advisors beside me to show me the way. That should make it a lot easier for me than it was for you, Old Master.”
 
@@ -198,7 +198,7 @@ The Fire King and the Slaughter Saint. Both were far stronger than I was, and bo
 
 Those were much better circumstances than Jeok Cheongang had faced when he’d had to figure it all out for himself.
 
-Jeok Cheongang let out a quiet laugh.
+He let out a short laugh.
 
 “Look at this sly bastard. Proudly announcing you’ll take another shortcut.”
 
@@ -212,9 +212,9 @@ Jeok Cheongang let out a quiet laugh.
 
 “…?”
 
-“Martial talent. With that outrageously excellent body and talent of yours, you should be able to sprout at least one bud before reaching Henan.”
+“Martial talent. With that outrageously gifted body of yours, you should manage to sprout at least one little bud before we reach Henan.”
 
-A towering tree and a gorgeous flower both began with a single small bud.
+Even a towering tree or a magnificent flower starts as a tiny bud.
 
 It had taken Jeok Cheongang years to bloom. For me, it would be different.
 
@@ -242,7 +242,7 @@ Jeok Cheongang looked at me for a moment, then turned and shot off into the dark
 
 Even after he dwindled to a speck and vanished, I stayed where I was for a long time.
 
-At last, the sun rose, and the sunlight began to heat the river.
+At last, the sun rose and its light warmed the river.
 
 *Splash.*
 
@@ -254,11 +254,11 @@ The goal was the swift ship—no, Henan.
 
 The entire Murim world seethed like water in a cauldron.
 
-What had begun as a simple rumor spread in every direction on the lips of gossipmongers. Then one day, dozens—hundreds—of messenger pigeons rose from Mount Song in Henan, each carrying a letter that would turn the rumor into fact.
+What had begun as a rumor spread in every direction through the mouths of gossips. Then, one day, dozens—hundreds—of messenger pigeons rose from Mount Song in Henan, carrying missives that would make the rumor fact.
 
 *To all of Murim.*
 
-The letters began with that brief sentence and were delivered across the land. Those who learned their contents realized the truth.
+The missives began with those few words and traveled across the land. Those who read them understood.
 
 An era of upheaval had arrived, and no one could avoid it.
 
@@ -272,7 +272,7 @@ An old veteran of the martial world, his body covered in scars, remembered the G
 
 Troubled times gave birth to heroes.
 
-Some could not hide their excitement at the thought that their chance to make a name for themselves had arrived.
+Some could barely contain their excitement at the chance to make a name for themselves.
 
 “H-how can this be?”
 
@@ -280,7 +280,7 @@ Some could not hide their excitement at the thought that their chance to make a 
 
 Others trembled at the thought of the death soon to come.
 
-But the orthodox Murim of the present era was the victor proven by history.
+But the orthodox faction of this era stood on the winning side of history.
 
 Hadn’t even the mighty Demonic Cult failed to take the Central Plains and been driven back decades ago?
 
@@ -304,7 +304,7 @@ Shaolin Temple and Huashan were the first to raise the Murim Alliance’s banner
 
 In crowded markets, pleasure houses, and inns, gossips talked of little else day after day.
 
-“Have you heard? They say the Nine Sects and One Gang and the Five Great Families have all joined the alliance.”
+“Have you heard? They say the Nine Sects and One Gang and the Five Great Families have all joined.”
 
 “It’s only been a day since the news broke. Already?”
 
@@ -318,7 +318,7 @@ In crowded markets, pleasure houses, and inns, gossips talked of little else day
 
 “I understand the former Family Head died in the Great Faction War. The current Family Head will probably join the war to avenge his father, if nothing else. Everyone knows Dark Heaven is the Demonic Cult’s successor by now.”
 
-“The Murim Alliance is the symbol of orthodox Murim. The problem is those who practice demonic and heterodox arts—and the Outer Lands.”
+“The Murim Alliance is the symbol of the orthodox faction. The problem is the demonic and heterodox factions—and the Outer Lands.”
 
 Even as the gossips talked, people throughout Murim were making their own moves.
 
