@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, with three minor source-fidelity defects involving a physical reaction, an added pain qualifier, and a modal shift in a moral statement.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 135-136",
+      "current": "his old grayish-white eyes bulged",
+      "defect": "The source says his eyes opened or widened dramatically, not that they bulged outward.",
+      "replacement": "his old grayish-white eyes widened",
+      "rationale": "부릅떠지며 describes opening the eyes wide; “bulged” adds a different physical detail.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 277-279",
+      "current": "I’d endured countless injuries and unimaginable pain while traveling between the modern world and Murim.",
+      "defect": "“Unimaginable” adds an intensity qualifier that the source does not establish.",
+      "replacement": "I’d endured countless injuries and suffering while traveling between the modern world and Murim.",
+      "rationale": "숱한 부상과 고통 means numerous injuries and suffering; it does not explicitly characterize the pain as unimaginable.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 187-189",
+      "current": "No human being should kill another like that.",
+      "defect": "The current line changes the source’s rhetorical impossibility into a normative “should not” statement.",
+      "replacement": "A person cannot kill another person like that.",
+      "rationale": "사람이, 사람을 그리 죽일 수는 없는 거다 uses 수는 없는 거다, asserting that a person cannot kill another in that manner.",
+      "confidence": 0.93
+    }
+  ]
+}

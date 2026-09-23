@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "his old grayish-white eyes bulged",
+      "defect": "The source says his eyes opened or widened dramatically, not that they bulged outward.",
+      "id": "F01",
+      "rationale": "부릅떠지며 describes opening the eyes wide; “bulged” adds a different physical detail.",
+      "replacement": "his old grayish-white eyes widened",
+      "severity": "minor",
+      "source": "Lines 135-136"
+    },
+    {
+      "confidence": 0.91,
+      "current": "I’d endured countless injuries and unimaginable pain while traveling between the modern world and Murim.",
+      "defect": "“Unimaginable” adds an intensity qualifier that the source does not establish.",
+      "id": "F02",
+      "rationale": "숱한 부상과 고통 means numerous injuries and suffering; it does not explicitly characterize the pain as unimaginable.",
+      "replacement": "I’d endured countless injuries and suffering while traveling between the modern world and Murim.",
+      "severity": "minor",
+      "source": "Lines 277-279"
+    },
+    {
+      "confidence": 0.93,
+      "current": "No human being should kill another like that.",
+      "defect": "The current line changes the source’s rhetorical impossibility into a normative “should not” statement.",
+      "id": "F03",
+      "rationale": "사람이, 사람을 그리 죽일 수는 없는 거다 uses 수는 없는 거다, asserting that a person cannot kill another in that manner.",
+      "replacement": "A person cannot kill another person like that.",
+      "severity": "minor",
+      "source": "Lines 187-189"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with three minor source-fidelity defects involving a physical reaction, an added pain qualifier, and a modal shift in a moral statement.",
+  "version": 1
+}

@@ -16,11 +16,11 @@ As that destructive power lit the dark cave in an instant, I twisted smoothly ou
 
 My shoulder, neck, waist, chest…
 
-The streak of light swept within a hair’s breadth of the vital acupoints throughout my body before piercing and smashing through the solid cave floor.
+The streaks of light swept within a hair’s breadth of the vital acupoints across my body, then pierced and shattered the solid cave floor.
 
 Had I reacted even a moment later, the attack would have killed me instantly.
 
-But the Dongting Fisherman’s attack failed to touch even a single hair on my body, and that moment of danger turned into an opportunity.
+But the Dongting Fisherman’s attack had failed to touch so much as a hair on my head, and that moment of danger became an opportunity.
 
 Just like now.
 
@@ -76,7 +76,7 @@ The line attached to the black-wood fishing rod was that very Heavenly Silkworm 
 
 Caution couldn’t hurt. Even if the Fire Dragon Armor was a divine weapon, it wasn’t invincible armor capable of blocking everything.
 
-I opened my mouth while staring at the Dongting Fisherman, who had stopped three zhang away.
+I watched the Dongting Fisherman stop three *zhang* away.
 
 “You have two choices. First, you die by my hand right here. Second, you tell me everything you know without leaving out a single detail, then atone to your victims. Which will it be?”
 
@@ -96,7 +96,7 @@ But the Dongting Fisherman was different. He was clearly breathing, and I could 
 
 I had no time to dwell on it. The next moment, I flinched and tightened my grip on the spear shaft.
 
-A nameless fish had suddenly moved only a few steps away.
+A fish had suddenly moved only a few steps away.
 
 Its bones were exposed, and the flesh around its belly had been torn away. It thrashed several times, then went still.
 
@@ -176,13 +176,13 @@ The Heavenly Silkworm Thread extending from the tip of the black-wood fishing ro
 
 Its bizarre, unfathomable movements were unlike anything I had encountered among the countless weapons I’d faced.
 
-The scars left on the countless corpses scattered throughout Donghu Stronghold flashed before my eyes.
+The wounds left on the countless corpses strewn across Donghu Stronghold flashed before my eyes.
 
 *He used this martial art to kill weak, innocent commoners.*
 
 I wasn’t especially sensitive, nor was I a *junzi*. I had no reason to defend the bandits of the Yangtze River Channel League. They were river bandits who had gathered to plunder, and they had undoubtedly taken other people’s lives and property.
 
-It might seem as though I had taken lives too, but the difference between me and them was that they had not killed to survive. They had done it because it served their purposes.
+I had killed people too, but there was one difference between us. I killed to survive. They killed because it was expedient.
 
 But…
 
@@ -210,7 +210,7 @@ At the same moment, the streak of light scattered.
 
 A section of the Heavenly Silkworm Thread, severed along the path of my spearhead, fluttered away.
 
-The Dongting Fisherman, whose form had been countered so easily, let out a strange scream and swung the black-wood fishing rod again.
+His form countered with ridiculous ease, the Dongting Fisherman shrieked and swung the black-wood fishing rod again.
 
 *Shing. Shh-shh-shh-shh-shing!*
 
@@ -230,7 +230,7 @@ My half-lidded eyes took in every detail, and my wide-open senses read each atta
 
 *If this had been me before my Middle Dantian opened, I would’ve struggled.*
 
-When the place where you stand changes, the scenery you see changes as well.
+A change in where you stood changed the view before you.
 
 Opening my Middle Dantian had expanded my senses and granted me a new field of vision I hadn’t even known existed. The results were unfolding before my eyes.
 
@@ -250,7 +250,7 @@ The line had once stretched five *zhang*, but I’d reduced it by nearly half wi
 
 “Now that’s more like a person.”
 
-But martial arts displayed greater power when the mind and body were stable.
+But martial arts showed their true power only when mind and body were stable.
 
 When the mind wavered, the body lost its balance. Movements grew wider and rougher.
 
