@@ -2219,3 +2219,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 도쿄만 | **Tokyo Bay** | Port area where Sugihara Gyoiku works. |
 | 스기하라 교이쿠 | **Sugihara Gyoiku** | Tokyo native and longtime cargo-shipping laborer. |
 | 속초 | **Sokcho** | City in Gangwon Province where the mutation Gate and monster wave occur. |
+| 스사노오 | **Susanoo** | Japanese nickname for the sea-and-storm monster. |
+| 요시무라 | **Yoshimura** | Japanese general reprimanded in the Ministry of Defense control room. |
+| 레비아탄 | **Leviathan** | Ancient S-rank sea monster associated with Asmodeus. |

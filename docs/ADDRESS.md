@@ -1226,3 +1226,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 진 | Ally | Jin | familiar and conversational | Magic Johnson addresses Jin by name while reacting to the stolen research materials. |
 | 알 니자르 | 선지자 | Devoted Hasasin subordinate addressing The Prophet | Prophet | Extremely deferential and formal | Al-Nizar addresses The Prophet with religious reverence. |
 | 선지자 | 알 니자르 | Prophet commanding the Hasasin leader | Al-Nizar | Flat, solemn, and commanding | The Prophet addresses him by name while issuing warnings and orders. |
+| 방위대신 | 요시무라 | Defense Minister to subordinate general | Yoshimura | insulting-imperative | The Defense Minister orders Yoshimura to shut his mouth. |
+| 방위대신 | 진태경 | Japanese Defense Minister to foreign Hunter | Jin Taekyung | insulting-shouting | The Minister calls for Jin using a deliberately mangled and contemptuous pronunciation of his name. |
