@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "The swift, concise first form of the Flame Divine Palm.",
+      "defect": "The Korean says 일 초, meaning a single move or technique, not necessarily the first form. “First form” adds an ordinal and changes the technique description.",
+      "id": "F01",
+      "rationale": "The source describes one swift, concise move of the Flame Divine Palm; it does not establish that this is the technique's first form.",
+      "replacement": "A swift, concise move of the Flame Divine Palm.",
+      "severity": "minor",
+      "source": "Lines 40–41"
+    },
+    {
+      "confidence": 0.89,
+      "current": "The kind of bastard who looked capable of crawling back alive even if he were thrown into the deepest pit of the underworld.",
+      "defect": "“Crawling back” adds a manner of movement and an image of weakened return that the source does not establish.",
+      "id": "F02",
+      "rationale": "The Korean says he would seem capable of returning alive from the bottom of the underworld; it emphasizes survival, not crawling or physical exhaustion.",
+      "replacement": "The kind of bastard who looked capable of coming back alive even if he were thrown into the deepest pit of the underworld.",
+      "severity": "minor",
+      "source": "Lines 297–300"
+    },
+    {
+      "confidence": 0.87,
+      "current": "A figure shot from the water atop a towering spray and landed heavily on the sandy shore.",
+      "defect": "“Atop a towering spray” places the figure on top of the water column, whereas the source says he surged upward together with the tall stream of water.",
+      "id": "F03",
+      "rationale": "함께 means “together with” here; the source presents the spray accompanying his emergence, not him standing or riding atop it.",
+      "replacement": "A figure shot up with a towering spray and landed heavily on the sandy shore.",
+      "severity": "minor",
+      "source": "Lines 333–335"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with three minor source-fidelity regressions involving technique count, an added physical image, and the positioning of the returning figure.",
+  "version": 1
+}

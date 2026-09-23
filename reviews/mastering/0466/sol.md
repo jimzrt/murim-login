@@ -12,7 +12,7 @@ His pitch-black pupils trembled. Blood-soaked yellow teeth tumbled from his gapi
 
 *Thud!*
 
-The Dongting Fisherman, blood pouring from his mouth and nose like a waterfall, staggered and waved his hand.
+Blood poured from the Dongting Fisherman’s mouth and nose like a waterfall. He staggered and flicked his hand.
 
 It was only a small movement, but my sharpened senses took in everything happening around me with perfect clarity.
 
@@ -32,7 +32,7 @@ His bones broke. The black-wood fishing rod slipped from his powerless grasp, an
 
 “What the fuck are you trying to pull, you son of a bitch? Who do you take me for, a sucker?”
 
-The answer that came back was a heavy sound splitting the air.
+His answer was a heavy rush of displaced air.
 
 *Whoom!*
 
@@ -52,13 +52,13 @@ Through my wildly tossing hair, I stared coldly at the Dongting Fisherman.
 
 I didn’t need an answer.
 
-I already knew what I had to do, and the tip of my foot was already lashing out at the Dongting Fisherman’s knee with lightning speed.
+I already knew what I had to do, and my foot was already lashing out at the Dongting Fisherman’s knee with lightning speed.
 
 *Thud!*
 
-His bones crunched. His body staggered, and blood spilled from the corner of his mouth.
+Bone crunched. His body buckled, and blood spilled from the corner of his mouth.
 
-The heavy impact momentarily disrupted the flow of his internal energy, and the Palm Force gathered in the palm still pressed against mine began to fade.
+The heavy impact momentarily disrupted the flow of his internal energy. The Palm Force gathered in the hand still pressed against mine began to fade.
 
 “All right. As of today, we’re officially a thing.”
 
@@ -76,11 +76,11 @@ Just like now.
 
 A scream of agony finally burst from the Dongting Fisherman’s mouth.
 
-I clenched my fist and punched him again and again as he stared at me with his pitch-black eyes wide open.
+As he glared at me through pitch-black eyes, I hammered him with punch after punch.
 
 *Thud! Thud! Thud-thud-thud!*
 
-Under the unceasing rain of fists and palms, the Dongting Fisherman’s movements slowly weakened.
+Under the relentless barrage of fists and palms, the Dongting Fisherman’s resistance slowly weakened.
 
 Or so I thought.
 
@@ -96,9 +96,9 @@ And that created an opening.
 
 *Splaaash!*
 
-My vision turned completely red.
+My vision turned red.
 
-The sticky blood the Dongting Fisherman vomited drenched my face and froze my body for an instant.
+The Dongting Fisherman’s sticky blood drenched my face, making me freeze for an instant.
 
 And the counterattack of a Supreme Peak master fighting for his life was fiercer than I’d expected.
 
@@ -118,7 +118,7 @@ I swallowed the blood surging up my throat and drew on my internal energy.
 
 I’d taken an unexpected blow, but compared to the Dongting Fisherman’s condition, this was nothing.
 
-That I had suffered only a minor internal injury despite being caught off guard by the Inner-Family Heavy Hand was proof enough.
+The fact that an unexpected Inner-Family Heavy Hand had left me with only a minor internal injury was proof enough.
 
 *Whoooosh!*
 
@@ -136,19 +136,19 @@ I twisted around in midair while hurtling backward. The opposite wall of the cav
 
 *Boom!*
 
-With a roar like the sky splitting apart, the unyielding rocks in the wall exploded.
+With a roar like the sky splitting apart, the rock of the unyielding wall exploded.
 
 Hundreds—thousands—of fragments tore through the air in every direction, but I was already gone.
 
 *Whoooooosh!*
 
-Heavier than a rock, faster than the wind.
+Heavier than a boulder. Faster than the wind.
 
 My entire body cleaved through the air several times faster than when I’d been thrown back, carrying the weight of ten thousand *geun*.
 
 “Dongting Fisherman!”
 
-My shout rattled his wide-open eyes. Several *jiazi* of Scorching Yang Qi carried in my voice pressed down the water and pushed the rocks aside.
+My shout shook the vast cavern. Several *jiazi* of Scorching Yang Qi carried within my voice pressed down the water and forced the rocks aside.
 
 And at the end of it all stood one man.
 
@@ -188,7 +188,7 @@ I would take his life only after he’d spat out everything he knew about Dark H
 
 I’d leave him just alive enough to breathe.
 
-Only until my anger at what he had done had diminished, even slightly.
+And beat him just enough to ease my anger at what he’d done, if only a little.
 
 With exactly that much force behind me, I shot toward him and extended my fist through the slowed world.
 
@@ -204,15 +204,15 @@ His Palm Force, now as murky as muddy water, shattered and evaporated beneath th
 
 Every blood vessel in the Dongting Fisherman’s bulging eyes burst. He vomited blood as he was driven into the wall.
 
-Fine, spiderweb-like cracks spread across the hard rock of the cavern wall. Soon, they widened into a massive fissure that reached all the way to the ceiling.
+Spiderweb cracks spread across the solid rock of the cavern wall, then widened into a massive fissure that reached the ceiling.
 
 *Rumble. Rumble-rumble-rumble!*
 
 The ceiling collapsed, and the ground split apart.
 
-The rocks that had endured tremendous water pressure deep beneath the vast freshwater lake of Dongting Lake began collapsing one after another. Streams of water surged up from every direction.
+The rocks that had withstood the immense water pressure deep beneath the vast freshwater expanse of Dongting Lake began to crumble one after another. Streams of water burst from every direction.
 
-*Collapse.*
+*It’s collapsing.*
 
 This space, created at some unknown point in the past, would soon come crashing down.
 
@@ -222,9 +222,9 @@ Just like its owner, who would never return to his secret refuge.
 
 *Rattle-rattle!*
 
-I pressed the Dongting Fisherman’s acupoints to stop the bleeding. Then, in case anything happened, I sealed him with Pressure-Point Strikes so he could not move even a hair.
+I pressed the unconscious Dongting Fisherman’s acupoints to stop the bleeding, then struck his vital points to ensure he couldn’t move so much as a hair if he woke up.
 
-I hoisted the small old man onto my back, then punched forward without hesitation.
+After hoisting the small old man onto my back, I punched the ground without hesitation.
 
 *Boom! Rumble-rumble-rumble!*
 
@@ -242,7 +242,7 @@ Cold water closed around my body, and a familiar message rang in my ears.
 >
 > Special Skill embedded in the Title applied.
 >
-> Water Rescue Worker’s Webbed Feet generated.
+> Water Rescue Worker’s Webbing generated.
 >
 > Water Rescue Worker’s Gills generated.
 >
@@ -250,7 +250,7 @@ Cold water closed around my body, and a familiar message rang in my ears.
 
 I had plenty of time.
 
-I moved my body powerfully with the current.
+I kicked powerfully and followed the current.
 
 Before long, I noticed the Dongting Fisherman constantly blowing bubbles from his mouth and nose. The sight reminded me of something I’d momentarily overlooked.
 
@@ -274,9 +274,9 @@ Especially not to a crazy old man who was nearly a hundred!
 
 *Rumble-rumble-rumble!*
 
-A vibration that began somewhere deep underwater grew so powerful that it reached the people on the surface.
+The vibrations that began somewhere deep beneath the water were powerful enough to reach the people on the surface.
 
-At the sudden anomaly, the old boatman shrank into himself with fear in his eyes, while the other three men’s faces stiffened.
+At the sudden disturbance, the old boatman hunched over in fear. The other three men’s faces stiffened.
 
 “Um, I think…”
 
@@ -292,7 +292,7 @@ Gung Gibang furrowed his brow.
 
 “What?”
 
-“It’s certain that something happened to our Captain. I have a bad feeling.”
+“Something must have happened to the Captain. I have a bad feeling.”
 
 “But Jin Taekyung, that bastard…”
 
@@ -304,7 +304,7 @@ Gung Gibang furrowed his brow.
 
 “Damn. You sound proud of it.”
 
-“Isn’t it better than sitting here sucking our fingers?”
+“Isn’t it better than sitting here doing nothing?”
 
 At Hyuk Mujin’s words, Gung Gibang gnawed at his lower lip.
 
@@ -348,7 +348,7 @@ Or rather, he was just about to when—
 
 Gung Gibang and Hyuk Mujin turned their heads at the same time.
 
-Someone was smiling brightly in their field of view.
+Someone was smiling brightly at them.
 
 At the edge of the small island where they stood, Cheongpung had been lying facedown, listening to something. He brushed the sand from his ear and grinned.
 
@@ -384,7 +384,7 @@ As Gung Gibang and Hyuk Mujin quietly backed away, one hand shot into the air am
 
 “Me! Me! I’ve never kissed anyone before!”
 
-“Fuck. Thank God.”
+“Fuck. Thank you, God.”
 
 “Huh?”
 
@@ -394,4 +394,4 @@ Beaming from ear to ear, Jin Taekyung held the Dongting Fisherman out toward the
 
 *Rumble. Crash!*
 
-Thunder and lightning shook the entire world.
+Thunder and lightning shook the world.
