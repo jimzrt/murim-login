@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Ah, sorry. You only have one missing.”",
+      "defect": "Jin says Hong lacks those too; he does not realize Hong is missing only one until Hong corrects him.",
+      "id": "F01",
+      "rationale": "The mistaken assumption sets up Hong’s correction that eunuchs are not necessarily missing both.",
+      "replacement": "“Oh, sorry. You don’t have those either.”",
+      "severity": "major",
+      "source": "“아, 미안합니다. 그것도 없으셨죠.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Even the demonic, heterodox arts, and the Nangong Family itself, a towering tree of the orthodox faction and one of the Five Great Families, had to pull every string they had with high-ranking officials.",
+      "defect": "The draft makes the arts themselves seek official connections and assigns the Nangong Family’s tactic to them.",
+      "id": "F02",
+      "rationale": "The preceding sentence concerns restrictions on martial artists; this sentence singles out even the orthodox Nangong Family as needing official connections.",
+      "replacement": "Practitioners of the so-called demonic, heterodox arts couldn’t run rampant, of course. Even the Nangong Family—a towering tree of the orthodox faction and one of the Five Great Families—had to call on every connection it had among high-ranking officials.",
+      "severity": "major",
+      "source": "흔히들 말하는 사마외도는 물론이고, 정파의 거목이자 오대세가의 일원인 바로 그 남궁세가도 고관대작(高官大爵)들과의 연줄을 총동원해야 했죠."
+    },
+    {
+      "confidence": 0.91,
+      "current": "They say that, at the time, they were big enough to rival the Nine Sects and One Gang. They dug in their heels.",
+      "defect": "The plural pronoun attributes the scale of a major sect to all the sects that stayed.",
+      "id": "F03",
+      "rationale": "Hong is explaining why Maoshan in particular defied the order; the other holdouts are described only as a small number of sects.",
+      "replacement": "They say the Maoshan Sect was big enough to rival the Nine Sects and One Gang back then, so it could afford to be stubborn.",
+      "severity": "major",
+      "source": "그 당시만 하더라도 구파일방에 비견될 만큼 커다란 규모였다고 했으니, 어느 정도 고집을 피운 거죠."
+    },
+    {
+      "confidence": 0.94,
+      "current": "It was bad enough that we’d been suckered by one of those buy-one-get-one-free deals—sign up for the martial arts school and get three million mesos. Or, well, three taels of iron coins. If I had to take on the Imperial Guards on top of that, how could I ever look the parents in the face again?",
+      "defect": "The draft invents a buy-one-get-one-free offer and makes Jin, rather than the imagined child recruits, the one facing the Guards, disconnecting the danger from the parents.",
+      "id": "F04",
+      "rationale": "The offer is framed as a deceptive numerical sales pitch, and Jin’s worry about facing parents follows his hope that the recruits are not from the children’s class.",
+      "replacement": "It was bad enough to fall for that bait-and-switch pitch: sign up for the martial arts school and get three million mesos—no, three taels in iron coins. If those kids wound up facing the Imperial Guards too, how could I ever look their parents in the eye?",
+      "severity": "major",
+      "source": "무관 가입 시 300만 메소. 아니 철전 석 냥을 준다는 조삼모사식 영업에 홀린 것도 슬픈데, 금위군까지 상대하게 되면 내가 무슨 낯으로 학부모 얼굴을 보겠나."
+    },
+    {
+      "confidence": 0.96,
+      "current": "You think we’re a bunch of nobodies?",
+      "defect": "The draft softens Jin’s profanity and changes his accusation from being seen as weak to being seen as insignificant.",
+      "id": "F05",
+      "rationale": "좆밥 is a crude insult for someone easily dismissed or beaten; Jin is angrily defending the clan’s strength.",
+      "replacement": "You think the Fire Gate Clan’s a bunch of fucking pushovers?",
+      "severity": "minor",
+      "source": "열화문이 좆밥으로 보여!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I murmured to myself and looked out the window.",
+      "defect": "The draft turns an internal remark into audible speech.",
+      "id": "F06",
+      "rationale": "내심 places the remark in Jin’s thoughts.",
+      "replacement": "I thought to myself as I looked out the window.",
+      "severity": "minor",
+      "source": "나는 내심 중얼거리며 창밖을 바라보았다."
+    }
+  ],
+  "summary": "Several lines change the meaning of the eunuch joke, the account of which sects survived near the capital, and the martial-arts-school joke.",
+  "version": 1
+}

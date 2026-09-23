@@ -2361,3 +2361,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 정천호 | **Commander Jeong** | Commander of the Embroidered Uniform Guard procession. |
 | 정호군 | **Jeong Hogun** | Commander of the Embroidered Uniform Guard force confronting Jin. |
 | 십상남자 | **Tenfold Man** | A joking title Zhu Bao grants Hyuk Mujin, who inscribes it on a bronze token. |
+| 모산파 | **Maoshan Sect** | Jiangsu sect known for sorcery, destroyed by the founding emperor. |
+| 태조 | **Taizu** | The Great Nation’s founding emperor. |
+| 남경 | **Nanjing** | Former imperial capital in Jiangsu Province. |
+| 소주 | **Suzhou** | The party’s destination in Jiangsu Province. |
