@@ -2,7 +2,7 @@
 
 When was it?
 
-I once saw a line like that in an old wuxia film whose title I no longer remember.
+I once heard a line like that in an old wuxia film whose title I no longer remember.
 
 “Martial arts are only vertical and horizontal. In the end, one of us falls and the other remains standing.”
 
@@ -50,13 +50,13 @@ It felt as though I had awakened from a very long sleep. I landed lightly on the
 
 “……!”
 
-The flow of the air changed in an instant, and three pairs of eyes widened. Of the three, Jeok Cheongang and Mungyeong stared at me with trembling eyes before speaking.
+The mood shifted in an instant, and three pairs of eyes widened. Jeok Cheongang and Mungyeong stared at me, their eyes twitching, then spoke.
 
 “I coddle you a little, and now a greenhorn still wet behind the ears dares speak casually to this old man?”
 
 “The Fire King made a complete mess of training his Disciple.”
 
-“…I apologize. It slipped out.”
+“…I’m sorry. I got carried away.”
 
 I’d forgotten who was standing here.
 
@@ -72,7 +72,7 @@ Unlike the two old men glaring at me with their eyes blazing, Cheongpung respond
 
 Jeok Cheongang’s oath never reached its conclusion.
 
-The enormous shadow wavering across the rolling surface finally burst through the water and revealed itself.
+The enormous shadow wavering beneath the rolling surface finally burst through the water and revealed itself.
 
 —Kroaaaaaaaaah!
 
@@ -84,7 +84,7 @@ At the center of it all, dozens of *jang* above us in the distant sky, was a pit
 
 When that single eye, formed from darkness without even a speck of light, gleamed, a groan escaped someone’s lips.
 
-“Ugh…!”
+“Ngh…!”
 
 Fear of the unknown.
 
@@ -110,7 +110,7 @@ But what I had just said was one hundred percent sincere.
 
 If the Skeleton King hadn’t helped me back then, I would have died without question.
 
-But the important thing was that I had survived and brought the bastard down. The fear I had felt while facing the Arch Lich had become experience, carved into my body and mind in its entirety.
+But what mattered was that I had survived and brought the bastard down. The fear I had felt while facing the Arch Lich had become experience, carved deep into my body and mind.
 
 *And I’m a fast learner.*
 
@@ -118,7 +118,7 @@ Good or bad, every experience became part of me. Over the past seven years, I ha
 
 I drew a deep breath and raised White Flame’s shaft high into the air.
 
-Then I slammed the end down with all my strength. A level of internal energy never seen before rode the shaft.
+Then I slammed its end down with all my strength, pouring an immense amount of internal energy through it.
 
 *Goooooong!*
 
@@ -150,11 +150,11 @@ I stared straight into its gleaming, pitch-black pupil and continued.
 
 “Second. From this point on, follow my instructions and beat the shit out of that bastard without mercy.”
 
-Mungyeong’s dry voice pierced my ears.
+Mungyeong’s dry voice reached my ears.
 
 “I do not particularly care for the process, but the result sounds rather pleasant.”
 
-“You don’t dislike it because of that, do you?”
+“You don’t dislike it, do you?”
 
 “What do you take me for?”
 
@@ -180,7 +180,7 @@ It was a nightmare of a party composition: nothing but DPS, without a healer or 
 
 A lineup impressive enough to make even a five-star Jangsu stone bed weep.[^1]
 
-Compared to the enormous body of the Mutated Water God Dragon, we were no more than ants. But inside each of us crouched a giant carrying an unprecedented power.
+Compared to the enormous body of the Mutated Water God Dragon, we were no more than ants. But inside each of us crouched a giant possessed of immense power.
 
 And now, the four giants were going to hunt a colossal monster.
 
@@ -196,7 +196,7 @@ With a single roar, dozens of waterspouts rose and came crashing toward us. Betw
 
 *Gooooooooong—!*
 
-The air vibrated faster and more powerfully than before.
+The air vibrated faster and more violently than before.
 
 But before the third Water Breath could take shape, a shout burst from my lips and pierced the wind and rain to reach everyone’s ears.
 
@@ -216,7 +216,7 @@ When the unreal invaded reality and Hunters and monsters began fighting one anot
 
 But none of the billions of people who had survived the Great Cataclysm could have imagined that another raid was taking place somewhere beyond time and space, against a strange monster resembling a dragon.
 
-Nor could they have imagined that a familiar face was caught up at the center of it all.
+Nor could they have imagined that a familiar face stood at the center of it all.
 
 *Tat-tat, shweeeeeek!*
 
@@ -240,9 +240,9 @@ Of course, someone watching the scene had a slightly different opinion.
 
 “You fucking piece of—!”
 
-*I can’t lose the Disciple I only managed to gain in my old age like this!*
+*I can’t lose the Disciple I finally gained in my old age like this!*
 
-But Jeok Cheongang’s movement as he prepared to launch a palm strike at the monster, accompanied by a thick curse, abruptly stopped at the shout that rang out the next moment.
+But just as Jeok Cheongang cursed and thrust out a palm toward the monster, the shout that rang out the next moment brought him to an abrupt halt.
 
 “Old Master!”
 
@@ -252,7 +252,7 @@ But Jeok Cheongang’s movement as he prepared to launch a palm strike at the mo
 
 The Scorching Yang Qi hastily veered aside and burned the innocent ground.
 
-For the briefest instant, puzzlement passed through the dragon’s pitch-black eye. Then it changed into the eye of a savage beast.
+For the briefest instant, the dragon’s pitch-black eye flickered with confusion. Then it became the eye of a savage beast once more.
 
 —Gwoooooooooar!
 
@@ -262,7 +262,7 @@ With a roar, its enormous tail swept across the ground like a broom.
 
 Jeok Cheongang leaped into the air at the last instant to evade the attack and exploded in frustration.
 
-“How long are you planning to make us retreat!”
+“How long are you planning to make us retreat?”
 
 *Kwaang!*
 
@@ -280,7 +280,7 @@ Jeok Cheongang’s eyes trembled.
 
 Some of the strange words prevented him from understanding exactly what Taekyung meant, but he had heard one thing perfectly clearly.
 
-*A dump? This old man is taking a dump?*
+*Shitting? This old man is shitting all over the place?*
 
 Until recently, he had been worried that his infirmities of old age might progress to the point where he started smearing feces on the walls. Now the boy he considered his Disciple was saying something that vile to him.
 
@@ -304,7 +304,7 @@ He should have been angry. Under normal circumstances, he should have been furio
 
 But seeing Mungyeong addressed by his bare name like some nobody from next door made Jeok Cheongang grateful that Taekyung had not simply called him Cheongang.
 
-At the same time, he thought he understood Mungyeong’s feelings as he moved without another word.
+At the same time, he thought he understood why Mungyeong was moving without another word.
 
 *What is this strange feeling?*
 

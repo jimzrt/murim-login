@@ -6,13 +6,13 @@ I once saw a line like that in an old wuxia film whose title I no longer remembe
 
 “Martial arts are only vertical and horizontal. In the end, one of us falls and the other remains standing.”
 
-It was true. The countless battles I had fought in Murim had always ended in one of two ways.
+It was true. The countless battles I had fought in the Murim had always ended in one of two ways.
 
 *Either I knocked them down, or they knocked me down.*
 
-Except for the Blood Lord, who had escaped even after losing an arm, the outcome had always been one or the other—and it had never been me who fell.
+Except for the Blood Lord, who had escaped even after losing an arm, the result had always been one or the other—and it had never been me who fell.
 
-But when I plunged into the deep river while clinging to the Mutated Water God Dragon, I remembered another possibility I had briefly forgotten.
+But when I plunged into the deep river while clinging to the Mutated Water God Dragon, I remembered another possibility I had temporarily forgotten.
 
 *What if this bastard runs?*
 
@@ -26,21 +26,21 @@ At the same time, I realized that I had been laboring under a serious misconcept
 
 This was not a life-and-death duel between two martial artists.
 
-To bring down the monster before me, I had to do whatever it took, by any means necessary.
+To bring down the monster before me, I had to do whatever it took, without caring about the means.
 
-I had lived as a Hunter for seven solid years, yet without realizing it, I had been pretending to be some hidebound martial artist. I couldn’t help laughing quietly at myself.
+I had lived as a Hunter for seven solid years, yet without realizing it, I had been pretending to be some hidebound martial artist. I couldn’t help letting out a quiet laugh at myself.
 
 *What a stupid thing to do.*
 
 Hunter and martial artist. Martial artist and Hunter.
 
-Both were part of my identity. I was the one and only modern martial artist—and Murim’s Hunter.
+Both were part of my identity. I was the one and only modern martial artist—and the Murim’s Hunter.
 
-Standing once more on the blurred boundary between them, a line that had nearly faded away, I reminded myself of that fact.
+At the indistinct boundary that had nearly been erased, I reminded myself of that fact once more.
 
 *That’s right. This is it.*
 
-It felt as though I had awakened from a very long sleep. I landed lightly on the shore and let out a thunderous shout.
+It felt like I had awakened from a very long sleep. I landed lightly on the shore and let out a thunderous shout.
 
 “Form an attack formation!”
 
@@ -52,9 +52,9 @@ It felt as though I had awakened from a very long sleep. I landed lightly on the
 
 The flow of the air changed in an instant, and three pairs of eyes widened. Of the three, Jeok Cheongang and Mungyeong stared at me with trembling eyes before speaking.
 
-“I coddle you a little, and now a greenhorn still wet behind the ears dares speak casually to this old man?”
+“I coddle you a little, and now a greenhorn still wet behind the ears dares speak to this old man like we’re equals?”
 
-“The Fire King made a complete mess of training his Disciple.”
+“The Fire King did a terrible job teaching his Disciple.”
 
 “…I apologize. It slipped out.”
 
@@ -62,7 +62,7 @@ I’d forgotten who was standing here.
 
 I must have lost my head after getting swept up in the moment.
 
-Unlike the two old men glaring at me with their eyes blazing, Cheongpung responded enthusiastically.
+Unlike the two old men glaring at me with sparks in their eyes, Cheongpung responded enthusiastically.
 
 “Benefactor, that was so cool! Mimi! Form an attack formation!”
 
@@ -76,13 +76,13 @@ The enormous shadow wavering across the rolling surface finally burst through th
 
 —Kroaaaaaaaaah!
 
-A roar more savage than any before shook heaven and earth.
+A more savage roar than any before shook heaven and earth.
 
-Overwhelming qi exploded from its body, as large as a small mountain, and bore down on everything around it. The air trembled beneath the Fear it released.
+Powerful qi exploded from the body as large as a small mountain, pressing down on everything around it. The air trembled beneath the Fear it released.
 
 At the center of it all, dozens of *jang* above us in the distant sky, was a pitch-black pupil looking down at us.
 
-When that single eye, formed from darkness without even a speck of light, gleamed, a groan escaped someone’s lips.
+When the single eye, formed from darkness without even a speck of light, gleamed, a groan escaped someone’s lips.
 
 “Ugh…!”
 
@@ -90,7 +90,7 @@ Fear of the unknown.
 
 Everyone except Cheongpung and me remained at least partly vulnerable to the Fear emitted by the Mutated Water God Dragon.
 
-Even Supreme Peak masters counted among the greatest in the world were no exception.
+Even if they were Supreme Peak masters counted among the greatest in the world, it made no difference.
 
 But…
 
@@ -98,7 +98,7 @@ But…
 
 I was a veteran Hunter who had fought monsters until I was sick of them. That was who I was.
 
-I had stood my ground against an undead army numbering in the tens of thousands, rotten flesh dangling from their bodies as they charged. I had no reason to tremble in fear just because one eel the size of an aircraft carrier had joined the fight.
+I had stood my ground against an undead army numbering in the tens of thousands, with rotten flesh dangling from their bodies as they charged. I had no reason to tremble in fear just because one eel the size of an aircraft carrier had joined the fight.
 
 “Now that I look at you again, you’re practically a fairy.”
 
@@ -106,7 +106,7 @@ The words had barely left my mouth before the back of my head began to prickle. 
 
 But what I had just said was one hundred percent sincere.
 
-*It’s true that this bastard is powerful, but the Arch Lich was much harder to deal with—and much stronger.*
+*It’s true that this bastard is powerful, but the Arch Lich was much more difficult—and much stronger.*
 
 If the Skeleton King hadn’t helped me back then, I would have died without question.
 
@@ -114,9 +114,11 @@ But the important thing was that I had survived and brought the bastard down. Th
 
 *And I’m a fast learner.*
 
-Good or bad, every experience became part of me. Over the past seven years, I had learned how to survive and how to win.
+Good experiences and bad experiences alike become flesh and blood. Over the past seven years, I had learned how to survive and how to win.
 
-I drew a deep breath and raised White Flame’s shaft high into the air.
+I drew a deep breath.
+
+At the same time, I raised White Flame’s shaft high into the air.
 
 Then I slammed the end down with all my strength. A level of internal energy never seen before rode the shaft.
 
@@ -124,13 +126,13 @@ Then I slammed the end down with all my strength. A level of internal energy nev
 
 The wave of qi that shot outward with the deafening boom pushed back the Fear radiating from the dragon.
 
-The crushing pressure that had completely surrounded us dissipated as though an invisible pane of glass had shattered.
+The heavy pressure that had surrounded us without a single gap dissipated as though an invisible pane of glass had shattered.
 
 “This is…”
 
 “You…”
 
-Jeok Cheongang and Mungyeong stared at me in astonishment. I kept my eyes fixed on the dragon and spoke.
+The astonished gazes of Jeok Cheongang and Mungyeong touched my face. I stared directly at the dragon and opened my mouth.
 
 “First. Don’t get scared for no reason.”
 
@@ -138,15 +140,15 @@ Jeok Cheongang and Mungyeong stared at me in astonishment. I kept my eyes fixed 
 
 “……!”
 
-Everyone carried fears, great and small, inside their hearts. Fear was a force that preyed upon those fears and turned them into terror.
+Everyone carried fears, great and small, inside their hearts. Fear was a force that stimulated those fears and made people experience terror.
 
-But once that fear was stripped away, we could finally recognize something we had forgotten.
+But once those fears were erased, we could finally recognize something we had forgotten.
 
 —Krrrrrrrr.
 
 The enormous monster letting out that low growl was not as powerful or frightening as we had imagined.
 
-I stared straight into its gleaming, pitch-black pupil and continued.
+I kept my gaze fixed on its gleaming, pitch-black pupil and continued.
 
 “Second. From this point on, follow my instructions and beat the shit out of that bastard without mercy.”
 
@@ -162,23 +164,23 @@ Mungyeong’s dry voice pierced my ears.
 
 The Slaughter Saint.
 
-The greatest assassin, past or present, in Murim’s long history.
+The greatest assassin in all of Murim history.
 
-To an assassin who eliminated a target by any means necessary, the process did not matter. Only the result did.
+To an assassin who eliminated a target by any means necessary, the process did not matter. Only the result mattered.
 
 “Old Master.”
 
 “As far as this old man remembers, I never taught you how to deal with an evil beast like that… We can discuss it after we finish the bastard off.”
 
-*Tssssss!*
+*Chiriririk!*
 
 After Jeok Cheongang’s curt reply, Cheongpung answered with purple Sword Force instead of words.
 
-It was a nightmare of a party composition: nothing but DPS, without a healer or a tank. Even so, there could not have been a more powerful raid team.
+It was an atrocious composition consisting entirely of DPS, without either a healer or a tank. Even so, there could not have been a more powerful raid team.
 
 *Four Supreme Peak masters.*
 
-A lineup impressive enough to make even a five-star Jangsu stone bed weep.[^1]
+A combination impressive enough to make even a five-star Jangsu stone bed weep.[^1]
 
 Compared to the enormous body of the Mutated Water God Dragon, we were no more than ants. But inside each of us crouched a giant carrying an unprecedented power.
 
@@ -192,13 +194,13 @@ As if it understood me, the Mutated Water God Dragon raised its enormous body fr
 
 *Krrrrung, kwaaaaaaaaaang!*
 
-With a single roar, dozens of waterspouts rose and came crashing toward us. Between them, the dragon’s ragged maw split wide.
+With a single roar, dozens of waterspouts rose and came crashing toward us. Between them, the dragon’s battered jaws opened wide.
 
 *Gooooooooong—!*
 
 The air vibrated faster and more powerfully than before.
 
-But before the third Water Breath could take shape, a shout burst from my lips and pierced the wind and rain to reach everyone’s ears.
+But before the third Water Breath could take shape, a shout burst from between my lips and pierced everyone’s ears through the wind and rain.
 
 “Spread out!”
 
@@ -212,19 +214,19 @@ At last, it was time for the hunt.
 
 Raid.
 
-When the unreal invaded reality and Hunters and monsters began fighting one another to the death, this word—once used only in fantasy games—became something even a three-year-old child knew.
+As reality was invaded by the unreal and Hunters and monsters began killing one another, this word—once used only in fantasy games—became something even a three-year-old child knew.
 
-But none of the billions of people who had survived the Great Cataclysm could have imagined that another raid was taking place somewhere beyond time and space, against a strange monster resembling a dragon.
+But none of the billions of people who had survived the Great Cataclysm could have imagined that a raid was taking place somewhere else, beyond time and space, against a strange monster resembling a dragon.
 
 Nor could they have imagined that a familiar face was caught up at the center of it all.
 
 *Tat-tat, shweeeeeek!*
 
-A solidly built figure bounded off fragments of flying rock and shot skyward.
+A heavy body shot toward the air, stepping on fragments of stone as they scattered through the sky.
 
-A massive tail passed within a hair’s breadth, smashing into a half-collapsed cliff and unleashing a blast of wind.
+A massive tail passed within a hair’s breadth, smashing into a half-collapsed cliff and raising a blast of wind pressure.
 
-Through his streaming hair, the eyes of the young man—Jin Taekyung—gleamed.
+Through his streaming hair, the eyes of the young man Jin Taekyung gleamed.
 
 *If I cut that tail now… No. Don’t.*
 
@@ -232,9 +234,9 @@ Jin Taekyung restrained the hand that instinctively wanted to swing his spear.
 
 He knew exactly what mattered most in this raid.
 
-He had to block the Mutated Water God Dragon’s escape, lure it as far onto land as possible, and dispatch it in a flash.
+He had to block the Mutated Water God Dragon’s escape, lure it as far onto land as possible, and kill it like lightning.
 
-If he struck back and wounded it before then, he might only put the monster on guard.
+If he struck back and wounded it before then, he might instead alert the monster to the danger.
 
 Of course, someone watching the scene had a slightly different opinion.
 
@@ -250,7 +252,7 @@ But Jeok Cheongang’s movement as he prepared to launch a palm strike at the mo
 
 *Fwoosh, kwaaaaaaaaaang!*
 
-The Scorching Yang Qi hastily veered aside and burned the innocent ground.
+The Scorching Yang Qi that hastily changed direction burned the innocent ground.
 
 For the briefest instant, puzzlement passed through the dragon’s pitch-black eye. Then it changed into the eye of a savage beast.
 
@@ -258,7 +260,7 @@ For the briefest instant, puzzlement passed through the dragon’s pitch-black e
 
 *Whoom, bang!*
 
-With a roar, its enormous tail swept across the ground like a broom.
+With a roar, the enormous tail swept across the ground like a broom.
 
 Jeok Cheongang leaped into the air at the last instant to evade the attack and exploded in frustration.
 
@@ -266,7 +268,7 @@ Jeok Cheongang leaped into the air at the last instant to evade the attack and e
 
 *Kwaang!*
 
-Far above the ground, Jin Taekyung dodged the monster’s body as it came crashing toward him and answered.
+Far above the ground, Jin Taekyung avoided the monster’s body as it came hurtling toward him and answered,
 
 “I told you I’d give the signal!”
 
@@ -282,27 +284,27 @@ Some of the strange words prevented him from understanding exactly what Taekyung
 
 *A dump? This old man is taking a dump?*
 
-Until recently, he had been worried that his infirmities of old age might progress to the point where he started smearing feces on the walls. Now the boy he considered his Disciple was saying something that vile to him.
+He had only recently been worrying that his infirmities of old age might progress to the point where he started smearing feces on the walls. Now the boy he considered his Disciple was saying something that vile to him.
 
 The shout that followed jolted Jeok Cheongang out of his shock.
 
-“Old Master, now! Fall back thirty *jang*! Cheongpung, move behind the bastard! Mungyeong, take the flank!”
+“Old Master, now! Retreat thirty *jang* to the rear! Cheongpung, move to the bastard’s rear! Mungyeong, take the flank!”
 
 “Yes, Benefactor!”
 
-“What a strange fellow. I agreed to follow your lead, not to let you speak casually to me.”
+“What a strange fellow. I said I would follow your intentions, not that you could speak casually to me.”
 
 “For fuck’s sake, I really can’t stand ranged-DPS assholes who refuse to communicate. Just listen to me!”
 
 “……!”
 
-Seeing Mungyeong struck speechless, clamp his mouth shut, and silently do as he was told improved Jeok Cheongang’s mood slightly.
+Seeing Mungyeong struck speechless, press his lips firmly together, and silently do as he was told improved Jeok Cheongang’s mood slightly.
 
 *At least he calls me Old Master.*
 
 He should have been angry. Under normal circumstances, he should have been furious.
 
-But seeing Mungyeong addressed by his bare name like some nobody from next door made Jeok Cheongang grateful that Taekyung had not simply called him Cheongang.
+But seeing Mungyeong called by his bare name like some nobody from next door made Jeok Cheongang grateful that Taekyung had not simply called him Cheongang.
 
 At the same time, he thought he understood Mungyeong’s feelings as he moved without another word.
 
@@ -310,9 +312,9 @@ At the same time, he thought he understood Mungyeong’s feelings as he moved wi
 
 How should he put it?
 
-Jin Taekyung was radiating an almost absurd air of command.
+Jin Taekyung was radiating an oddly powerful presence right now.
 
-And in Jeok Cheongang’s estimation, it was not the overwhelming presence or bearing of a Supreme Peak master.
+And in Jeok Cheongang’s estimation, it was not the pressure or bearing possessed by a Supreme Peak master.
 
 It was more like…
 
@@ -320,7 +322,7 @@ It was more like…
 
 Jeok Cheongang had lived his entire life as a martial artist. He had never had any connection to the authorities, nor had he ever been a soldier.
 
-Yet for some reason, he felt as though he understood what it was like for a fresh recruit on the battlefield to stand before a battle-hardened veteran.
+Yet for some reason, he felt as though he understood what it was like for a newly deployed recruit to face a battle-hardened veteran.
 
 “What an incredibly strange fellow, no matter how many times I look at him…”
 
@@ -328,9 +330,9 @@ Yet for some reason, he felt as though he understood what it was like for a fres
 
 “……!”
 
-The corner of Jeok Cheongang’s eye twitched. But before he could unleash his anger, the words he had been waiting for finally rang out.
+At the moment Jeok Cheongang’s eyelids began to tremble, the words he had been waiting for finally rang out—before he could even unleash his anger.
 
-“Now—strike!”
+“Now, strike!”
 
 *Shwish-shwish-shwish-shwish!*
 

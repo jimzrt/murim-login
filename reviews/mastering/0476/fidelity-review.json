@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "Good or bad, every experience became part of me.",
+      "defect": "The source's flesh-and-blood metaphor is flattened into the more generic idea of experiences becoming part of him.",
+      "id": "F01",
+      "rationale": "피와 살이 되다 establishes a specific image of both good and bad experiences becoming nourishment or substance through which he grows; the accepted baseline preserved that image.",
+      "replacement": "Good experiences and bad experiences alike become flesh and blood.",
+      "severity": "minor",
+      "source": "Lines 117–119"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Fear was a force that preyed upon those fears and turned them into terror.",
+      "defect": "“Preyed upon” changes the mechanism from stimulating existing fear to exploiting or victimizing it.",
+      "id": "F02",
+      "rationale": "자극시켜 means to stimulate or provoke the fears people already carry, not to prey upon them.",
+      "replacement": "Fear was a force that stimulated those fears and made people feel terror.",
+      "severity": "minor",
+      "source": "Lines 143–145"
+    },
+    {
+      "confidence": 0.82,
+      "current": "Jin Taekyung was radiating an almost absurd air of command.",
+      "defect": "“Air of command” adds leadership authority that the source does not state and shifts 박력 from forcefulness or powerful presence toward command.",
+      "id": "F04",
+      "rationale": "박력을 뿜어내다 describes emitting unusual forcefulness or vigor; the following comparison identifies the impression as that of a battle-hardened veteran, not specifically a commander.",
+      "replacement": "Jin Taekyung was radiating an oddly powerful presence.",
+      "severity": "minor",
+      "source": "Lines 311–319"
+    },
+    {
+      "confidence": 0.94,
+      "current": "He should have been angry. Under normal circumstances, he should have been furious.",
+      "defect": "The second sentence adds a stronger emotional degree, “furious,” and redundantly intensifies the single source statement that he should normally be angry.",
+      "id": "F05",
+      "rationale": "분명 화가 나야 정상인데 establishes ordinary anger as the expected reaction, not fury.",
+      "replacement": "He should have been angry under normal circumstances.",
+      "severity": "minor",
+      "source": "Lines 303–307"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but five localized changes introduce or lose source-grounded meaning, imagery, or emotional force.",
+  "version": 1
+}
