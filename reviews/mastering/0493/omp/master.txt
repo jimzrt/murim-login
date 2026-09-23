@@ -12,9 +12,9 @@ And yet…
 
 *I want it.*
 
-Perfected Being Hyeongong’s eyes trembled faintly. It was a material desire he had not felt in a very long time.
+Hyeongong’s eyes trembled faintly. It had been a long time since he’d felt a desire for something material.
 
-*I’ve never felt this way before.*
+*This has never happened before.*
 
 Gold, wealth, fame, glory—he had no need for any of it. He wore each Daoist robe he received until it fell apart and lived on simple, modest meals.
 
@@ -28,7 +28,7 @@ Hyeongong ran a rough hand down his beard and recited the invocation. Yet despit
 
 *They say those bones are incredibly hard.*
 
-Perhaps because they had belonged to a five-hundred-year-old imugi, the bones had a luster unlike anything else. He had heard they were so hard that even ordinary Sword Energy could not cut through them.
+Enormous bones glowed faintly between the split scales and gaping wounds. Perhaps five hundred years inside an imugi had given them that extraordinary luster. He had heard that ordinary Sword Energy could barely cut through them.
 
 *If I made a sword from those bones, it would be incredible… No. What am I thinking? Get a grip, Hyeongong!*
 
@@ -44,7 +44,7 @@ While he was struggling in silence, someone spoke.
 
 “Hm?”
 
-Hyeongong’s eyes flew open. A familiar young man was looking at him with a knowing gaze.
+Hyeongong’s eyes flew open. A familiar young man was watching him with a suggestive look.
 
 *Jin Taekyung.*
 
@@ -58,7 +58,7 @@ But Hyeongong had something more pressing on his mind than his opinion of Jin Ta
 
 The old Daoist looked at him, his heart quickening with hope.
 
-“What is it, Young Friend Jin?”
+“What is it, young friend?”
 
 Taekyung smiled gently. “If you’re not busy, I was hoping we could talk.”
 
@@ -66,13 +66,13 @@ Taekyung smiled gently. “If you’re not busy, I was hoping we could talk.”
 
 “We have to deal with the corpse now, and there’s more of it than we expected.”
 
-“Th-That’s why?”
+“Th-Then?”
 
 “You came all the way here in person. Of course you should have something to take home.”
 
 “Oh!”
 
-Hyeongong’s eyes immediately lit up. Jin Taekyung smiled and continued.
+Hyeongong’s eyes lit up at once. Taekyung smiled and went on.
 
 “Our Jin Family of Taiyuan has always held the Daoists of Wudang in the highest regard. As fellow martial artists of Murim, we’d be delighted to share a little of what we’ve gained.”
 
@@ -84,13 +84,13 @@ Hyeongong’s eyes immediately lit up. Jin Taekyung smiled and continued.
 
 Taekyung had gently scratched the itch Hyeongong had been too ashamed to mention. The old Daoist was beside himself with joy.
 
-Hyeongong did not know who Hyuk Mujin was or why Jin Taekyung was swearing on the man’s balls. All that mattered was that he was being given a share.
+He had no idea who Hyuk Mujin was or why Taekyung was swearing on the man’s balls. What mattered was that Wudang would receive a share.
 
 *How can anyone be this kind?*
 
 Taekyung was nothing like the hypocrites with their fine words. He was a ray of light shining into a cold Murim crawling with shameless people.
 
-Hyeongong could practically see a halo over Jin Taekyung’s head.
+Hyeongong could practically see a halo over his head.
 
 “Thank you! May the Primordial Heavenly Venerable protect you and the Jin Family of Taiyuan, young friend! Infinite Life Buddha!”
 
@@ -106,19 +106,19 @@ Something about that was strange, but Hyeongong didn’t care. He was still beam
 
 “Quite right. Quite right.”
 
-It was questionable whether it could even be moved in one piece. And since doing so would require a great deal of manpower, keeping the matter secret would become even more impossible.
+From head to tail, the creature stretched roughly a hundred zhang.[^1] Whether it could be moved in one piece was doubtful. Doing so would take a great many people, making it impossible to keep the matter secret.
 
 “So I’d like to ask you a small favor, Perfected Being.”
 
 Hyeongong faltered. Suspicion flickered in his eyes.
 
-“Wait. Young Friend Jin. This favor of yours wouldn’t happen to mean…”
+“Wait, young friend. This favor of yours wouldn’t be…”
 
 “Yes. We need you to lend us a hand. At this rate, it’ll take days.”
 
 *So that’s it! That’s why he was being so generous!*
 
-Hyeongong glared at Jin Taekyung with an expression of betrayal.
+Hyeongong glared at Taekyung, feeling betrayed.
 
 “You want me to use Wudang’s sword arts to take that imugi’s corpse apart?”
 
@@ -156,7 +156,7 @@ Hyeongong’s pupils quivered. Before he knew it, he was looking down at the old
 
 He had carried that sword since he was ten. It was a precious gift from his late master.
 
-Hyeongong hurriedly shook his head to clear it, then opened his eyes wide.
+Hyeongong shook his head sharply and glared at Taekyung.
 
 “It is not worn!”
 
@@ -188,7 +188,7 @@ Taekyung answered calmly. “My parents gave me this body, but it’s worn down 
 
 “Well, this old Daoist’s joints have been aching lately too. I’ve been yearning for Bone Transformation… What are you trying to pull?”
 
-“I’m just telling you the cold reality. Oh, the edge is still sharp, at least.”
+“I’m giving you a hard look at reality. Oh, the edge is still sharp.”
 
 *Get a grip. Get a grip, Hyeongong.*
 
@@ -208,7 +208,7 @@ He steadied his breathing and answered with pride. “Of course it is. The blade
 
 Hyeongong barely noticed Taekyung’s sheepish smile. His eyes were fixed on the faintly glowing spear, his eyelids trembling.
 
-“Y-Young Friend Jin. Is that, by any chance…”
+“Y-Young friend. Is that…?”
 
 “Nothing special. It’s made of Ten-Thousand-Year Cold Iron too, but it’s nothing compared to your sword.”
 
@@ -224,9 +224,9 @@ Hyeongong swallowed and asked cautiously, “How many nyang?”
 
 “Ah, nothing. Nothing at all.”
 
-A devil. This was the devil’s whisper.
+*A devil. This is a devil whispering to me.*
 
-Yet Hyeongong’s eyes remained fixed on Jin Taekyung’s spear, White Flame, as he recited the invocation as if possessed.
+Yet as Hyeongong murmured his invocation, his gaze stayed locked on Taekyung’s spear, White Flame.
 
 “Light as a feather, incredibly hard, and sharp besides. But…”
 
@@ -236,11 +236,11 @@ Then that soft, tempting voice reached his ears again.
 
 “Infinite Life Buddha. I would not.”
 
-“Think about it carefully. Not just any weapon, but one containing all the qi of a sacred imugi that lived for no less than five hundred years.”
+“Think about it. A weapon imbued with the qi of a sacred imugi that lived for five hundred years.”
 
 *It would be incredible. I want one so badly.*
 
-Hyeongong barely swallowed the words rising to his lips and shook his head frantically.
+Hyeongong barely swallowed the words and shook his head frantically.
 
 “Impossible! I could never abandon the sword my master gave me—”
 
@@ -250,13 +250,13 @@ Hyeongong barely swallowed the words rising to his lips and shook his head frant
 
 “Sorry?”
 
-“Stop! That’s enough! Infinite Life Buddhaa!”
+“Stop! Enough, young friend! Infinite Life Buddhaa!”
 
-“If you help us, we’ll give you a share generous enough that Wudang won’t feel slighted. Do you think I’d settle this with a single sword?”
+“Help us out and we’ll give Wudang a share it can be happy with. You don’t think I’d settle up with a single sword, do you?”
 
 “I already have a sword made with Ten-Thousand-Year Cold Iron!”
 
-“Yes. And an imugi’s bones.”
+“Yes. But imugi bones.”
 
 “How could I use another sword when I have the one my master gave me?”
 
@@ -264,7 +264,7 @@ Hyeongong barely swallowed the words rising to his lips and shook his head frant
 
 “I did not learn martial arts for this sort of thing!”
 
-As Hyeongong clung to his last shred of pride and lamented, Jin Taekyung suddenly shouted toward somewhere behind the corpse.
+Hyeongong clung to his last shred of pride. Taekyung called out past him.
 
 “Hey, Young Hero Cheongpung! How’s it going?”
 
@@ -282,22 +282,22 @@ A cheerful face popped out from behind the enormous corpse. Cheongpung had been 
 
 Taekyung gave the diligent worker a pleased smile, then turned back to Hyeongong.
 
-“Ah, sorry, Perfected Being. I took my eyes off the work for a moment.”
+“Ah, forgive me, Perfected Being. I got distracted.”
 
 “……”
 
-“But what were we talking about? I’ve been forgetting things a lot lately.”
+“What were we talking about? I’ve been forgetting things lately.”
 
 Hyeongong looked from Cheongpung, hard at work, to Taekyung and back again.
 
 Half a shichen later…
 
-*Slash!*
+*Slice!*
 
-The Taiji Wisdom Sword, Wudang’s finest sword technique, was separating the imugi’s scales from its bones.
+The Taiji Wisdom Sword, Wudang’s supreme sword technique, was separating the imugi’s scales from its bones.
 
 “Murim has gone completely mad.”
 
-That was Mungyeong’s brief assessment as he watched the entire situation unfold.
+That was Mungyeong’s brief assessment of everything he had witnessed.
 
 [^1]: A zhang is a traditional East Asian unit of length, roughly 3.3 meters.

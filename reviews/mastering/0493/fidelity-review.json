@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It was questionable whether it could even be moved in one piece.",
+      "defect": "The assembled copy omits the creature’s stated size: from head to tail, it was over a hundred zhang long. The baseline preserves this measurement, and the translation even retains a footnote defining zhang despite omitting the measurement.",
+      "id": "F01",
+      "rationale": "The source explicitly gives the corpse’s length and uses that scale to support the difficulty of moving it whole and keeping the matter secret.",
+      "replacement": "From head to tail, the giant creature stretched for more than a hundred zhang.[^1] It was questionable whether it could even be moved in one piece.",
+      "severity": "minor",
+      "source": "Lines 131–133"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Perhaps because they had belonged to a five-hundred-year-old imugi, the bones had a luster unlike anything else.",
+      "defect": "The translation drops the image of the enormous bones visible between the split scales and gaping wounds, radiating a faint glow.",
+      "id": "F02",
+      "rationale": "The source establishes both the bones’ visible placement in the corpse and their faint glow; the accepted baseline preserves that image.",
+      "replacement": "Between the split scales and gaping wounds, enormous bones radiated a faint glow. Perhaps because they had belonged to a five-hundred-year-old imugi, the bones had a luster unlike anything else.",
+      "severity": "minor",
+      "source": "Lines 41–42"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits two concrete physical details preserved in the accepted baseline.",
+  "version": 1
+}
