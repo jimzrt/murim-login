@@ -2329,3 +2329,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 진실의 눈 | **Truthful Eye** | Single-target item Jin uses to reveal The Prophet’s identity. |
 | 최후의 심연 | **The Final Abyss** | The Doppelganger’s title. |
 | 이노우에 히로시 | **Hiroshi Inoue** | A J1 Hunter whose appearance and memories the Doppelganger has taken. |
+| 쟝 피에르 | **Jean Pierre** | French Hunter whose absorbed memories identify him as Jean the Swift. |
