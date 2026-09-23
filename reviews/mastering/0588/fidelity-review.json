@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "An invisible resonance swept through the lobby and the hundreds of Hunters.",
+      "defect": "The English omits the narrator continuing slowly through the ringing air and, more importantly, his separate emphatic command, “Right now.” The source uses that beat to reinforce the demand before the team leader answers.",
+      "id": "F01",
+      "rationale": "The source says the air rang sharply as the narrator slowly continued, then gives “지금 당장” as a separate line. The assembled copy moves directly from the resonance to the team leader’s response.",
+      "replacement": "An invisible resonance swept through the lobby and the hundreds of Hunters. In the air, still ringing sharply, I continued slowly. “Right now.”",
+      "severity": "minor",
+      "source": "Lines 245–247"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Then a voice boomed from the large speakers installed throughout the skyscraper.",
+      "defect": "The English drops the beat in which the surrounding Hunters’ hands tremble around their weapons just before the Code Red announcement.",
+      "id": "F02",
+      "rationale": "The source explicitly describes the armed crowd’s hands trembling at that moment, showing their hesitation before the announcement prompts them to act.",
+      "replacement": "Their hands trembled around their weapons. Then a voice boomed from the large speakers installed throughout the skyscraper.",
+      "severity": "minor",
+      "source": "Lines 303–309"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but the assembled copy drops the narrator’s emphatic follow-up command and a physical beat that underscores the crowd’s hesitation.",
+  "version": 1
+}

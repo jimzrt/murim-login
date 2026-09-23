@@ -2,21 +2,21 @@
 
 That day, the air in Korea was heavy with unease.
 
-The Monster Waves that had erupted one after another in Busan and Pyeongchang had been successfully contained, but not without a substantial number of casualties.
+The Monster Waves that had erupted one after another in Busan and Pyeongchang had been contained, but not without a substantial number of casualties.
 
-People who had been going about an ordinary day were confronted with shocking news and began trembling with anxiety.
+People going about an ordinary day heard the shocking news and began to fear what might happen next.
 
 “Manager, did you see the news?”
 
 “I did. That’s why I dropped everything and came out here.”
 
-“I can’t focus on anything either. What if there’s really a Monster Wave near our homes or workplaces…?”
+“I can’t focus on work either. What if there’s a Monster Wave near our homes or offices next…?”
 
 “Hey, don’t say that. You’ll jinx us. Come on, let’s have a cigarette.”
 
 Office workers escaped their stifling workplaces and headed for cafés. Students made their way home after class. Children, unaware of what had happened, clung to their parents and begged to play longer, while their parents pulled them away just in case.
 
-It was an uneasy afternoon, and people’s hearts were in turmoil. Eyes filled with worry and fear remained fixed on smartphones broadcasting emergency news alerts.
+It was an uneasy afternoon. Eyes full of worry remained fixed on smartphones carrying breaking news.
 
 > — You are now looking at the collapsed Gwangan Bridge. In the nearby waters lies the corpse of Kraken, the Named Monster responsible for the Busan Monster Wave…
 
@@ -26,7 +26,7 @@ It was an uneasy afternoon, and people’s hearts were in turmoil. Eyes filled w
 
 > — The Pyeongchang Monster Wave resulted in 371 casualties. Among the forty-five confirmed dead is Mr. Kim Hwajong, Guild Master of the Peace Guild. His death has come as a tremendous shock…
 
-Every report was horrible and shocking. Public broadcasts, cable channels, online news articles—everywhere was in an uproar, as though someone had stirred up a hornet’s nest.
+Every report brought more horrifying news. Broadcast television, cable channels, online news—everywhere was in an uproar, as though someone had stirred up a hornet’s nest.
 
 People in the streets swallowed hard at the sight of Gwangan Bridge in ruins. They had no words for a city awash in blood.
 
@@ -46,9 +46,9 @@ Within minutes of the government’s announcement that Jin Taekyung’s whereabo
 
 He was dead. He was missing. He had fallen unconscious from the strain of battle.
 
-Most of them were Third Rate media companies famous for dealing in rumors and wild gossip, but ordinary people were wondering the same thing.
+Most of the claims came from third-rate outlets known for peddling rumors, but the public had the same question.
 
-*Did something really happen to him?*
+*Did something happen to him?*
 
 A man with no reason to disappear had vanished without a word, without showing his face to anyone.
 
@@ -56,23 +56,23 @@ He was already gone when reinforcements arrived, and the Peace Guild had issued 
 
 As the news swept across Korea and spread overseas, the question grew like a snowball.
 
-That snowball rolled and rolled, growing larger and larger, until it came to a stop amid the skyscrapers of Jongno.
+And then… after rolling and rolling, that snowball came to a stop among the skyscrapers of Jongno.
 
 Step.
 
 No one knew when or how he had appeared.
 
-But the people hurrying through the densely packed forest of buildings for their own reasons realized something.
+But the people hurrying through the crowded forest of buildings each realized the same thing.
 
 The man whose profile photo filled the screens in their hands was standing before them.
 
 Drip. Drip-drip.
 
-He was red, and he was blue.
+Red and blue.
 
-Every time he moved, red and blue blood soaked into the sidewalk beneath him. He was covered in the blood of humans and monsters.
+He was covered in human and monster blood, and with every step, red and blue drops fell onto the sidewalk.
 
-At 190 centimeters tall, with a perfectly balanced build, he moved slowly forward, stepping through the blood.
+Nearly six foot four, his body perfectly proportioned, he walked slowly through the blood.
 
 “…Jin Taekyung?”
 
@@ -84,11 +84,11 @@ Perhaps it was the look in his eyes beneath his blood-soaked hair. His gaze had 
 
 Step. Step.
 
-Perhaps it was because profound exhaustion seeped from every one of his footsteps.
+Perhaps it was the exhaustion in every step.
 
 Huff.
 
-Perhaps it was because the white breath escaping between his split lips carried the sorrow of someone who had lost another person.
+Or perhaps they could sense the grief of someone who had lost a person dear to him in the white breath escaping his split lips.
 
 But one thing was certain. Everyone in the crowded street understood it instinctively.
 
@@ -112,19 +112,19 @@ Step.
 
 One last step.
 
-The young man suddenly raised his head and looked at the sky.
+The young man raised his head to the sky.
 
 Five in the afternoon. A January day that had been especially cold, exhausting, and sorrowful was slowly ending in a reddish glow.
 
 But for one person, it was not over.
 
-*It’s beginning now.*
+*It’s only beginning.*
 
 Sunset light from the west flashed across a skyscraper towering above the rest. The enormous letters mounted at its top reflected in his eyes.
 
 **ARES GUILD**
 
-An impregnable fortress that could not be brought down, and a magnificent royal palace.
+An impregnable fortress and a magnificent palace.
 
 How many Hunters were inside? How many enemies would he have to bring down before he could face the bastard on the throne?
 
@@ -138,13 +138,11 @@ Whoosh!
 
 Flames the color of the sunset coiled around his arm and surged upward. The entranced crowd drew back with a collective gasp.
 
-At that moment—
-
 “I’m here, you fucking bastard.”
 
 Whoooooosh—BOOM!
 
-An unprecedented force shook the skyscraper.
+A force like nothing the world had seen shook the skyscraper.
 
 * * *
 
@@ -152,7 +150,7 @@ Rumble-rumble-rumble!
 
 A massive tremor shook everything around me. The area quaked as though an earthquake had struck.
 
-Spiderweb cracks spread across the marble covering the floor without a gap, and the splendid, valuable works of art decorating the lobby fell like a sudden shower onto the cracked marble.
+Spiderweb cracks raced across the marble floor, and the splendid, expensive artworks decorating the lobby rained down onto it.
 
 Crack! Crash!
 
@@ -164,11 +162,11 @@ The thing that had just shattered was a plaster statue of some man. I couldn’t
 
 “…Ah. Ahh.”
 
-A young Ares Guild member who appeared to belong to the Security Team stammered with a frozen expression.
+A young Ares Guild member, apparently from the Security Team, stared at me and stammered.
 
 He looked so pitiful that I changed the question.
 
-“Then what are your personal thoughts on today’s Monster Wave?”
+“Then what do you think about today’s Monster Waves?”
 
 “P-Pardon?”
 
@@ -192,7 +190,7 @@ Swish, swish, swish!
 
 Dozens of Security Team members and hundreds of other Hunters filled the lobby, watching me with tense faces. Flames and ice gathered in some hands. Others held spears, swords, or bows.
 
-A middle-aged Hunter presumed to be the Security Team Leader spoke in a rigid voice.
+A middle-aged Hunter who appeared to lead the Security Team spoke in a stiff voice.
 
 “Step back, Mr. Jin.”
 
@@ -208,19 +206,19 @@ I couldn’t help letting out a hollow laugh. “That’s going to be difficult.
 
 I looked across the crowded lobby, my eyes hollow.
 
-*Who should I kill, and who should I spare? Which of them is directly connected to what happened today?*
+*Who do I kill? Who do I spare? Which of them had a direct hand in what happened today?*
 
 It took everything I had to hold back the urge to kill, rising as naturally as breathing.
 
 *Don’t forget. I’m not a monster.*
 
-If I killed everyone here today, I would become a monster. But I wanted to remain a human being until the end.
+If I killed everyone here, I would become one. I wanted to remain human to the end.
 
 At the very least, I didn’t want innocent people dying for what their superior had done.
 
 I thought that was the right thing to do for Kim Hwajong. For everyone.
 
-“Let’s make this easy for everyone.”
+“Let’s make this easy.”
 
 I met hundreds of eyes and said, “Bring me Go Jun.”
 
@@ -228,7 +226,7 @@ I met hundreds of eyes and said, “Bring me Go Jun.”
 
 “……!”
 
-An invisible resonance swept through the lobby and the hundreds of Hunters.
+An unseen force rolled through the lobby and over the gathered Hunters. As the air rang around us, I added slowly, “Right now.”
 
 The Security Team Leader’s face stiffened. “I don’t think that will be possible.”
 
@@ -246,7 +244,7 @@ The Security Team Leader’s face stiffened. “I don’t think that will be pos
 
 I answered calmly.
 
-“And I guarantee that if you don’t put down your weapons and run right now, within five minutes, every last one of you will be physically incapable of functioning normally.”
+“And I guarantee that if you don’t put down your weapons and run, every last one of you will be unable to function as a person within five minutes.”
 
 “……!”
 
@@ -264,25 +262,25 @@ The Security Team Leader clenched his teeth beneath the powerful wave of qi pour
 
 “What?”
 
-“Go Jun, that bastard, is a monster. Hunters don’t need a reason to kill monsters.”
+“Go Jun is a monster. A Hunter doesn’t need a reason to kill a monster.”
 
 Go Jun was hardly going to broadcast what he had done. Most of the people here probably had no idea what I meant.
 
-But they would have realized one thing for certain.
+But they would understand one thing.
 
 Standing in my way would end badly for them.
 
-The Security Team Leader looked at me with a complicated expression and muttered, “Fuck. We got caught red-handed.”
+The Security Team Leader studied me with a conflicted expression. “Fuck. We’re in one hell of a spot.”
 
-“I like your honesty. So, what’s your answer?”
+“I appreciate the honesty. So, what’s your answer?”
 
 The question wasn’t for him alone.
 
-A conflicted light appeared in the eyes of the Security Team Leader and the roughly two hundred people surrounding me from every direction.
+Conflict showed in the eyes of the Security Team Leader and the roughly two hundred Hunters surrounding me. Their hands trembled around their weapons.
 
 Then a voice boomed from the large speakers installed throughout the skyscraper.
 
-> — Code Red. Code Red. Target: all Ares Guild members. Objective…
+> — Code Red. Code Red. To all Ares Guild members. Target…
 
 > — Jin Taekyung.
 
@@ -292,12 +290,12 @@ Then a voice boomed from the large speakers installed throughout the skyscraper.
 
 The air around us trembled.
 
-The conflict vanished from hundreds of wide-open eyes, and countless streaks of light burst from their hands, becoming a gigantic flash that flooded every direction.
+In the next moment, I watched the conflict vanish from hundreds of wide eyes. Countless streaks of light burst from their hands and joined in a vast flash that filled the lobby.
 
 Kuwaaaaaaah!
 
 Red, blue, and white.
 
-I swung the dazzlingly white blade of my spear toward the enormous flash.
+I swung the dazzling white blade of my spear toward it.
 
 Whoooooosh!
