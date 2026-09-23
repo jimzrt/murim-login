@@ -1228,3 +1228,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 선지자 | 알 니자르 | Prophet commanding the Hasasin leader | Al-Nizar | Flat, solemn, and commanding | The Prophet addresses him by name while issuing warnings and orders. |
 | 방위대신 | 요시무라 | Defense Minister to subordinate general | Yoshimura | insulting-imperative | The Defense Minister orders Yoshimura to shut his mouth. |
 | 방위대신 | 진태경 | Japanese Defense Minister to foreign Hunter | Jin Taekyung | insulting-shouting | The Minister calls for Jin using a deliberately mangled and contemptuous pronunciation of his name. |
+| 진태경 | 방위대신 | foreign Hunter confronting the Japanese Defense Minister | old man | insulting-casual | Jin repeatedly blames the Defense Minister for withholding forces and sarcastically challenges him. |
+| 최 팀장 | 진태경 | operations coordinator to allied Hunter | Jin Taekyung | formal-polite | Team Leader Choi refers to Jin formally while presenting the Korean side's complaint. |
+| 스켈레톤 킹 | 진태경 | Demon Realm ally to allied Hunter | Jin | blunt-casual | The Skeleton King questions Jin about how the supposedly perfect encirclement was breached. |
+| 스켈레톤 킹 | 방위대신 | Demon Realm monster confronting Japanese Defense Minister | Yellow Monkey | hostile-insulting | The Skeleton King seizes the Defense Minister and trades inflammatory insults with him. |
+| 방위대신 | 스켈레톤 킹 | Japanese Defense Minister confronting foreign monster | fur-covered Yankee | hostile-shouting | The Defense Minister condemns the Skeleton King for touching him and invokes imperial grievances. |
+| 진태경 | 고이즈미 총리 | foreign Hunter to Japanese Prime Minister | Prime Minister Koizumi | formal-polite | Jin greets Koizumi formally and attempts to redirect the conversation to tracking Leviathan. |
+| 고이즈미 총리 | 진태경 | Japanese Prime Minister to foreign Hunter | Jinsang, then Gyeongsang | friendly-formal | Koizumi uses Jinsang and proposes Gyeongsang without realizing the Korean meanings. |

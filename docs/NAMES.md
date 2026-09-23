@@ -2233,3 +2233,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 망가진 신체 | **Broken Body** | Special debuff that resists artificial removal and may cause permanent attribute loss. |
 | 수상 구조대원 | **Water Rescue Worker** | Title that enables rapid underwater movement for twenty-four hours. |
 | 최상급 포션 | **Top-Grade Potion** | Potion that removes ordinary status abnormalities and restores the body. |
+| 방위대신 | **Defense Minister** | Japanese Defense Minister who controlled the operation's field deployment. |
+| 진상 | **Jinsang** | Koizumi's punning address to Jin, retained for the Korean wordplay. |
+| 경상 | **Gyeongsang** | Koizumi's proposed alternative address using the final syllable of Jin Taekyung's name. |
+| 진주만 | **Pearl Harbor** | Location invoked in the Skeleton King's supernatural declaration. |
+| 미합중국 | **United States** | Formal Korean reference used during the Defense Minister's imperialist rant. |
+| 아틀란티스 | **Atlantis** | Jin's comparison for Tokyo after a hypothetical second Leviathan attack. |
