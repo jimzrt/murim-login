@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“You’re safe, uhhh. You didn’t get hurt, uhhh!”",
+      "defect": "Im’s interrupted questions about how they have been and whether they are hurt are changed into declarative statements, and the sobbing is rendered as hesitation.",
+      "id": "F01",
+      "rationale": "The source preserves Im’s tearful, unfinished questioning and uses explicit sobbing sounds rather than filler sounds.",
+      "replacement": "“You’ve been okay—waaah! You’re not hurt anywhere—waaaah!”",
+      "severity": "major",
+      "source": "“잘 지냈, 으헝. 다친 곳은 없, 으허허헝!”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“I delivered your instructions properly. To both Peace and Ares. Once we narrowed them down, there weren’t even ten people. That’s how loyal they are.”",
+      "defect": "The draft turns the final contrast into a causal explanation and omits the established organization term “Guild” from both names.",
+      "id": "F02",
+      "rationale": "The source contrasts the very small number of selected people with their strong loyalty; it does not say that their small number demonstrates how loyal they are.",
+      "replacement": "“I delivered your instructions properly—to both the Peace and Ares Guilds. Once I narrowed the list down, there weren’t even ten people. But the ones I chose are all staunch loyalists.”",
+      "severity": "major",
+      "source": "“팀장님 지시는 제대로 전달했어요. 평화, 아레스 두 곳 모두. 막상 추려 보니까 열 명도 안 되더라고요. 그만큼 충성파지만.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "They were merely a safety device for the worst-case scenario. A safety device to be used before the grenade’s pin was pulled—or before the aftermath of the explosion could spread.",
+      "defect": "The second function of the safeguard is changed from stopping the effects of an explosion from spreading to merely acting before they spread.",
+      "id": "F03",
+      "rationale": "The source explicitly uses 막을, meaning the safeguard is intended to prevent or stop the blast’s repercussions from spreading.",
+      "replacement": "They were merely a safeguard against the worst-case scenario—a safeguard for use before the grenade’s pin was pulled, or to stop the effects of the explosion from spreading.",
+      "severity": "major",
+      "source": "다만 이건 만일의 경우를 대비한 안전장치다. 수류탄의 핀이 뽑히기 전에, 혹은 폭발의 여파가 뻗어 나가는 것을 막을 안전장치."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Despite the complexity of our thoughts, the limousine carrying us sped smoothly down the wide-open road, and Baek Hanseong told us various pieces of news.",
+      "defect": "The narrator’s singular, personal state of mind is broadened into thoughts collectively shared by the group.",
+      "id": "F04",
+      "rationale": "마음 refers to Taekyung’s own complicated feelings here; the source does not assign them to everyone in the limousine.",
+      "replacement": "In contrast to my tangled thoughts, the limousine carrying us sped smoothly down the wide-open road, and Baek Hanseong brought us up to date on several matters.",
+      "severity": "minor",
+      "source": "이토록 복잡한 마음과는 달리 우리를 태운 리무진은 뻥 뚫린 도로를 시원하게 질주했고, 백한성 대통령은 여러 가지 소식들을 전해 주었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He even told us about my mother and Hayeon, who were staying under airtight security.",
+      "defect": "“Airtight security” is an unnatural English collocation for 철통같은 경호.",
+      "id": "F05",
+      "rationale": "The source describes extremely tight protective security, naturally expressed as “ironclad protection,” while also framing the information as news about how they are doing.",
+      "replacement": "He even told us how my mother and Hayeon were doing under ironclad protection.",
+      "severity": "minor",
+      "source": "그리고 철통같은 경호 속에서 지내고 있는 어머니와 하연이의 소식까지도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He was simply trapped in an unknown space that no one else could see or sense, maintaining nothing but an endless silence.",
+      "defect": "The draft adds that the Skeleton King is trapped, asserting a confinement the source does not establish.",
+      "id": "F06",
+      "rationale": "The source specifies his location and continuing silence but does not say that he is unable to leave or is being held there.",
+      "replacement": "He was simply maintaining an endless silence within a mysterious space no one else could see or sense.",
+      "severity": "major",
+      "source": "다만 다른 이들은 볼 수 없고, 느낄 수 없는 미지의 공간에서 끝나지 않는 침묵만을 지키고 있을 뿐이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "└ Is it because Cheon Taemin hasn’t shown up for so long? Something feels off to me. Am I the only one?\n\n└ Then turn on the boiler.",
+      "defect": "The rendering of 쎄한데 removes the cold or chills association needed for the deadpan boiler response to function as a joke.",
+      "id": "F07",
+      "rationale": "The reply deliberately treats the speaker’s ominous feeling as physical cold; “getting chills” preserves both the unease and the punchline.",
+      "replacement": "└ Maybe it’s because Cheon Taemin hasn’t shown up in so long, but I’m getting chills. Anyone else?\n\n└ Then turn on the boiler.",
+      "severity": "minor",
+      "source": "└ 천태민이 너무 오랫동안 안 나타나서 그런가. 난 좀 쎄한데. 나만 그럼?\n\n└ 그럼 보일러를 틀어."
+    },
+    {
+      "confidence": 1.0,
+      "current": "When the locked door opened and the lights came on, Prince Felix could see it.\n\nHe could see the identities of the figures waiting for him in the darkness—and the young man sitting at the center of them.",
+      "defect": "The draft omits that Felix secretly slipped out of his assigned lodging, removing the covert action that explains how he reached the hidden meeting.",
+      "id": "F08",
+      "rationale": "은밀히 숙소를 빠져나온 explicitly establishes that Felix covertly left his lodging; omitting it changes his action and obscures the clandestine nature and location of the meeting.",
+      "replacement": "When the locked door opened and the lights came on, Prince Felix—having secretly slipped out of his lodging—saw the figures waiting for him in the darkness, and the young man seated at their center.",
+      "severity": "critical",
+      "source": "잠겨 있던 문이 열리고, 불이 켜졌을 때.\n\n은밀히 숙소를 빠져나온 필릭스 왕자는 볼 수 있었다.\n\n어둠 속에서 그를 기다리고 있던 인영들의 정체를. 그리고 그들의 중심에 앉아 있는 한 청년을."
+    }
+  ],
+  "summary": "The draft contains one critical action omission, several altered mechanisms or pragmatic cues, and localized terminology and phrasing issues.",
+  "version": 1
+}
