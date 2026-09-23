@@ -38,7 +38,7 @@ The storm of blood that had swept through Shaolin Temple had spread to Sichuan a
 
 “Bringing the Murim under Heaven together is no easy task. But it seems they have finally made up their minds.”
 
-Muttering quietly, Jin Wikyung pulled a sealed dispatch from inside his robes and held it out to me.
+Jin Wikyung took a sealed dispatch from inside his robes and held it out.
 
 “What’s this?”
 
@@ -84,11 +84,11 @@ Personally, I almost wanted to show it to that bastard, the Lord of Heaven.
 
 *If he saw this, even the Lord of Heaven might join the Murim Alliance.*
 
-Everyone could have enjoyed a happy ending if the Lord of Heaven joined the Murim Alliance. It was simply unfortunate that the possibility of that happening was less than the amount of earwax in Hyuk Mujin’s ear.
+Then everyone could have a happy ending. Unfortunately, the chance of that happening was smaller than the amount of earwax in Hyuk Mujin’s ear.
 
 “In any case, the Murim Alliance will be born soon.”
 
-“In a month, the Murim under Heaven will gather beneath the Murim Alliance’s banner.”
+“In a month, the Murim under Heaven will gather beneath its banner.”
 
 After a moment’s thought, Jin Wikyung added, “Not the Murim under Heaven. I should say the orthodox Murim of the Central Plains.”
 
@@ -110,7 +110,7 @@ The fishbowl called the world held more than one color of fish.
 
 The unorthodox faction was weak compared to the orthodox faction, but it had carved out territories of its own. It also included the dark-path figures who ruled the streets at night.
 
-*At first, I wondered why they had left those people alive while shouting about eliminating every demonic and heterodox element.*
+*At first, I wondered why the orthodox faction kept shouting about wiping out demonic, heterodox arts but left those people alive.*
 
 There was a reason for everything.
 
@@ -128,13 +128,13 @@ The trouble was, they had not done it out of goodwill.
 
 As the old saying went, green went with green, and crayfish took the crab’s side.
 
-When the Demonic Cult crossed Qinghai and surged toward the Central Plains during the Great Faction War, the unorthodox faction quickly joined them while shouting, “Long live the Cult Leader!”
+When the Demonic Cult crossed Qinghai and surged toward the Central Plains, the unorthodox faction had quickly joined them, shouting, “Long live the Cult Leader!”
 
 The Demonic Cult’s momentum was overwhelming, but the unorthodox faction also wanted people they saw as their own kind to rule the Murim under Heaven.
 
 For unorthodox martial artists already living in the Central Plains, though, things were different.
 
-*If they don’t side with the orthodox faction, they’ll be hunted down before they can even leave the Central Plains. Those bastards wouldn’t dare refuse to join this side.*
+*If they didn’t side with the orthodox faction, they’d be hunted down before they even got out of the Central Plains. You think those bastards could afford not to join us?*
 
 Jeok Cheongang had once said that with a snort. For the unorthodox martial artists of the Central Plains, it had been the plain truth.
 
@@ -158,11 +158,11 @@ That made sense. In the long history of the Murim, fifty years was *only* half a
 
 “I do not know exactly what Great Hero Jeok told you, but most of it was probably true.”
 
-“…If that’s true, it’s pretty damn ridiculous.”
+“…Then it’s pretty damn bad.”
 
 From the start of the Great Faction War well into its middle and later stages, the unorthodox martial artists who joined the orthodox faction betrayed them again and again.
 
-Considering what Jeok Cheongang had said about the Murim Alliance’s leadership even discussing root-and-branch eradication to remove every unorthodox member from within the orthodox faction, the situation must have been serious.
+Jeok Cheongang had told me the Murim Alliance’s leaders had even discussed rooting out every unorthodox martial artist in their ranks. Things must have been serious.
 
 “But I heard they fought hard later on.”
 
@@ -170,9 +170,9 @@ Considering what Jeok Cheongang had said about the Murim Alliance’s leadership
 
 Not everyone in the orthodox faction was righteous, and not everyone in the unorthodox faction was a monster.
 
-But unlike the orthodox faction, the unorthodox faction possessed the decisiveness and cruelty to cut off its own tail without hesitation.
+But the unorthodox faction had the will and the cruelty to cut off its own tail without hesitation.
 
-The instant someone was suspected of being a spy for the Demonic Cult, they slit his throat first and asked questions later.
+The moment they suspected someone of being a Demonic Cult spy, they slit his throat.
 
 “In the end, the body survived without its tail. By cooperating with the orthodox faction, it shared in the victory.”
 
@@ -206,7 +206,7 @@ Put that bluntly, I had no answer. I smacked my lips before speaking.
 
 “Why?”
 
-“If the Murim Alliance wins, they break even. But as you said, the scales are already tilted, and Dark Heaven is on the verge of becoming the master of the Central Plains Murim.”
+“If the Murim Alliance wins, they’re no better off than before. But in your scenario, the scales have already tipped. Dark Heaven is about to rule the Murim of the Central Plains.”
 
 “Exactly.”
 
@@ -216,9 +216,9 @@ Put that bluntly, I had no answer. I smacked my lips before speaking.
 
 A chicken rib. That was a good way to put it.
 
-It offered little benefit, but it was too wasteful to throw away. Fighting alongside them felt unpleasant, but if we discarded them, Dark Heaven would pick them up and throw them back at us.
+There was not much to gain from it, but throwing it away would be a waste. Fighting beside them felt risky, but if we cast them off, Dark Heaven would pick them up and throw them straight back at us.
 
-No matter how soft a chicken bone was, it was still a bone. Getting hit by one would hurt quite a bit.
+However soft a chicken bone might be, it was still a bone. Getting hit with one would hurt.
 
 Which meant…
 
@@ -226,13 +226,13 @@ Which meant…
 
 Jin Wikyung gave a small nod.
 
-“Without a doubt. If we must choose between the two, we need to draw the unorthodox Murim to our side.”
+“Without a doubt. If they must choose one side, we have to bring the unorthodox Murim over to ours.”
 
 For a chicken rib, the unorthodox faction had plenty of meat on it.
 
-Even the dark-path knife-men who wandered the back alleys after sunset belonged to the unorthodox faction. Weren’t we at a point where we would be grateful for a single Third Rate knife-man?
+Even the dark-path swordsmen who wandered the back alleys after sunset belonged to it. Right now, we could use even one Third Rate swordsman.
 
-More importantly, it was better to keep them close and hold their leash than let them side with Dark Heaven. That would be far too great a loss…
+Besides, it was better to keep them close enough to yank their leash than to let them join Dark Heaven. That would cost us far too much—
 
 *Wait. Dark-path figures?*
 
@@ -240,11 +240,11 @@ Something came back to me, and I frowned.
 
 “What is it?”
 
-“No, I just remembered something I heard recently. Regarding the Water God Dragon incident, didn’t we accuse the dark-path figures of Hubei Province of being the culprits and wipe them all out?”
+“I just remembered something I heard recently. Over the Water God Dragon incident, didn’t we blame the dark-path figures in Hubei Province and wipe them out?”
 
 “We did.”
 
-“…Then the unorthodox faction might be upset. In the end, we accepted the government’s proposal and wiped out their own people.”
+“…Then the unorthodox faction might not be happy. We accepted the government’s proposal and went after their own people.”
 
 It was a bad look. They might even reject the Murim Alliance’s offer of membership over it.
 
@@ -264,7 +264,7 @@ We had thrown them food and fastened a leash of fear around their necks.
 
 That was how the Murim Alliance tamed the hunting dog known as the unorthodox Murim.
 
-“And second. The government did not make the proposal and receive our acceptance.”
+“And second, the government did not make the proposal for us to accept.”
 
 Jin Wikyung’s voice went dry.
 
@@ -278,15 +278,15 @@ Jin Wikyung’s voice went dry.
 
 “The Provincial Administration Commissioner of Hubei holds a post that can sway an entire province. But people know only that the new commissioner formerly served as an Assistant Provincial Administrator in Shanxi Province. They do not know he is a secret loyal retainer of Prince Shangshan.”
 
-A memory of when we had first arrived in Hubei suddenly flashed through my mind.
+I remembered our arrival in Hubei.
 
-And Jin Wikyung questioning the official who had surrounded the ferry landing with government soldiers.
+The hostile looks from the people. Jin Wikyung speaking to the official who had surrounded the ferry landing with government soldiers.
 
 *“By the way, do you know a man surnamed Yi whose given name is Hongcheon?”*
 
 *“H-he was recently appointed Provincial Administration Commissioner. May I ask what your relationship with him is…?”*
 
-*“I have met him a few times and shared a drink or two. I helped him when he needed it.”*
+*“We’ve met a few times and shared a drink or two. I’ve helped him when he needed it.”*
 
 Jin Wikyung looked straight at me. His gaze was gentle, but a cold blade lay behind it.
 
@@ -296,17 +296,17 @@ For an instant, I saw the strategist and politician in him. Then that look melte
 
 Tap, tap.
 
-I could feel the strength in the hand patting my shoulder. I gazed silently at Jin Wikyung, then suddenly spoke.
+There was strength in the hand patting my shoulder. I studied him for a moment, then asked without warning,
 
 “What was the Family Head… No, what was Father like?”
 
 The faint smile on Jin Wikyung’s lips vanished.
 
-“No, the mood was so nice. Why bring up that bastard?”
+“We were having such a nice moment. Why bring up that man?”
 
 “As you know, I hurt my head back then. I don’t remember him very well.”
 
-“You don’t need to remember him! Just erase him from your mind! I’m your father!”
+“You don’t need to! Erase him from your mind! I’m your father!”
 
 “…”
 
@@ -322,7 +322,7 @@ Jin Wikyung’s fist trembled, as if he were remembering the paperwork hell of t
 
 I shrugged and turned away.
 
-Jin Wikyung asked where I thought I was going when hyung was talking to me, and whether my affection for him had cooled. Without turning around, I answered,
+Behind me, Jin Wikyung demanded to know where I was going while my hyung was still talking, and whether I loved him any less now. I answered without looking back.
 
 “You said it’s in a month. I’m going to get ready to leave.”
 
@@ -332,6 +332,6 @@ With the people who were by my side, and whom I wanted beside me in the days to 
 
 “I think I’ve given you enough time by now… Don’t you?”
 
-The mutter that slipped between my lips vanished without a trace beneath the noise around us.
+My mutter disappeared beneath the surrounding noise.
 
 I scratched my chin and looked up at the dizzyingly high cliff.

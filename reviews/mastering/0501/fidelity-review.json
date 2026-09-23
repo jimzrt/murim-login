@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "For unorthodox martial artists already living in the Central Plains, though, things were different.",
+      "defect": "The translation omits the source’s description of the Central Plains as the center of the world, a detail preserved in the accepted baseline.",
+      "id": "F01",
+      "rationale": "The Korean explicitly describes the Central Plains as the central region of the world (천하의 중심부).",
+      "replacement": "For unorthodox martial artists already living in the Central Plains—the very heart of the world—things were different.",
+      "severity": "minor",
+      "source": "Chapter 501, paragraph 141"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Hidden Shadow Pavilion, led by Sir Song, the Thousand-Faced Fox, also kept them under close watch.",
+      "defect": "“Close watch” weakens the source’s explicit description of the Pavilion’s surveillance as ironclad.",
+      "id": "F02",
+      "rationale": "철통같은 감시 describes exceptionally tight, ironclad surveillance; the accepted baseline preserved that degree of scrutiny.",
+      "replacement": "The Hidden Shadow Pavilion, led by Sir Song, the Thousand-Faced Fox, also kept them under ironclad surveillance.",
+      "severity": "minor",
+      "source": "Chapter 501, paragraph 179"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful. Two minor source details were weakened or omitted: the Central Plains’ description as the heart of the world, and the ironclad nature of the Hidden Shadow Pavilion’s surveillance.",
+  "version": 1
+}
