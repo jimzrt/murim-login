@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Staring at him with shining golden eyes, Leviathan finally realized the true identity of the traitor who had betrayed its own kind.",
+      "defect": "The subject of the gaze is reversed: the Skeleton King is staring at Leviathan with golden eyes, not Leviathan staring at him.",
+      "id": "F01",
+      "rationale": "The possessive 그의 and 자신을 make the crowned Skeleton King the one gazing at Leviathan; the current dangling modifier instead assigns the golden eyes and action to Leviathan.",
+      "replacement": "When Leviathan saw him staring back with shining golden eyes, it finally realized the true identity of the traitor who had dared to betray his own kind.",
+      "severity": "critical",
+      "source": "빛나는 금안(金眼)으로 자신을 응시하는 그의 모습에, 레비아탄은 감히 동족을 배신한 변절자의 진정한 정체를 깨달았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Leviathan had been the first being to open its eyes in the deep sea.",
+      "defect": "The draft adds an ordinal claim that Leviathan was the first being ever to awaken there.",
+      "id": "F02",
+      "rationale": "처음 describes where Leviathan first opened its eyes—its origin or awakening—not precedence over every other being.",
+      "replacement": "Leviathan was a being that had first opened its eyes in the deep sea.",
+      "severity": "major",
+      "source": "자신은 심해에서 처음 눈을 뜬 존재."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The bones that had vanished beneath the waves gathered once more.",
+      "defect": "The draft changes the action from being swept away by Leviathan’s waves to merely vanishing beneath them, weakening the causal explanation for their dispersal.",
+      "id": "F03",
+      "rationale": "휩쓸려 explicitly means the bones were swept away, linking their disappearance to Leviathan’s preceding wave attack.",
+      "replacement": "The bones that had been swept away by the waves gathered once more.",
+      "severity": "major",
+      "source": "파동에 휩쓸려 사라졌던 뼈들이 다시금 모여든다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "What was that absurd domination that forced an obviously higher-ranking monster like Leviathan to attack?",
+      "defect": "The attacker and target are reversed: the Skeleton King’s domination makes the undead attack Leviathan, not Leviathan attack someone else.",
+      "id": "F04",
+      "rationale": "자신을 공격하게끔 만드는 means the domination compels the controlled creatures to attack Leviathan itself, whom Leviathan considers their obvious superior.",
+      "replacement": "What was that absurd power of domination that made them attack Leviathan, a monster clearly superior to them?",
+      "severity": "critical",
+      "source": "그런데 저 풍부한 마력은, 명백한 상위 몬스터인 자신을 공격하게끔 만드는 이 말도 안 되는 지배력은 뭐란 말인가."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The fin of a great whale that had been slowly sinking twitched.",
+      "defect": "The species is mistranslated; 대왕고래 specifically means a blue whale, not a generic great whale.",
+      "id": "F05",
+      "rationale": "Using the specific species preserves the source’s concrete identification.",
+      "replacement": "The fin of a blue whale that had been slowly sinking twitched.",
+      "severity": "minor",
+      "source": "서서히 가라앉던 대왕고래의 지느러미가 꿈틀거린다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Leviathan gritted its remaining teeth.",
+      "defect": "The draft omits the explicit quantity that half of Leviathan’s teeth had already fallen out.",
+      "id": "F06",
+      "rationale": "절반이나 specifies that fully half its teeth are gone, emphasizing the extent of its injuries.",
+      "replacement": "Leviathan gritted its teeth, half of which had already fallen out.",
+      "severity": "minor",
+      "source": "레비아탄은 이미 절반이나 빠져 버린 이빨을 악물었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n>\n> - The duration of the **[Aquatic Rescue Worker]** Title has ended!\n>\n> - The effects of the **[Aquatic Rescue Worker]** Title have disappeared!\n>\n> - The **[Webbed Feet of the Aquatic Rescue Worker]** have disappeared!\n>\n> - The **[Gills of the Aquatic Rescue Worker]** have disappeared!\n>\n> - Reactivation will be possible in **[6 days 23 hours 59 seconds]**!",
+      "defect": "The System notices retain square brackets around UI terms and the duration, contrary to the required System-panel format.",
+      "id": "F07",
+      "rationale": "The framed System block already identifies these as UI notices, so the binding Markdown rules require the square brackets to be removed.",
+      "replacement": "> **System**\n>\n> - The duration of the **Aquatic Rescue Worker** Title has ended!\n>\n> - The effects of the **Aquatic Rescue Worker** Title have disappeared!\n>\n> - The **Webbed Feet of the Aquatic Rescue Worker** have disappeared!\n>\n> - The **Gills of the Aquatic Rescue Worker** have disappeared!\n>\n> - Reactivation will be possible in **6 days 23 hours 59 seconds**!",
+      "severity": "minor",
+      "source": "- [수상 구조대원]의 칭호 유지 시간이 종료되었습니다!\n\n- [수상 구조대원]의 칭호 효과가 사라집니다!\n\n- [수상 구조대원의 물갈퀴]가 사라집니다!\n\n- [수상 구조대원의 아가미]가 사라집니다!\n\n- [6일 23시간 59초] 후 재발동이 가능합니다!"
+    }
+  ],
+  "summary": "Several actionable fidelity errors alter subjects, actions, and quantities; the System panel also violates the required formatting.",
+  "version": 1
+}

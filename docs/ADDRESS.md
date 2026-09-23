@@ -1246,3 +1246,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 레비아탄 | 진태경 | attacking enemy | you bastard | enraged-insulting | Leviathan directly curses Jin while resisting his attacks. |
 | 진태경 | 스켈레톤 킹 | allied companion | Skeleton King; you | playful-casual | Jin comments on the Skeleton King's fear and lightning-rod tactic, then says they can finally fight together. |
 | 스켈레톤 킹 | 진태경 | allied companion | you | casual and self-defensive | The Skeleton King responds to Jin's recognition of his improvised strategy. |
+| 스켈레톤 킹 | 진태경 | ally addressing a fellow combatant | human | urgent-commanding | The Skeleton King urgently tells Jin to get out of the way as Leviathan charges. |
