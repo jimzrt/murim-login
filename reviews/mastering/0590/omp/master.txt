@@ -8,7 +8,7 @@ The overwhelming heat of the Flame-Extinguishing Divine Fist lived up to its nam
 
 Kuwaaaaaang!
 
-The tremendous roar that erupted the next moment swallowed every other sound.
+A tremendous roar swallowed every other sound.
 
 Layer after layer of powerful defensive Magic gave way. Even ceilings made of exceptionally durable magical materials collapsed and melted under the extreme heat.
 
@@ -18,7 +18,7 @@ One, three, five. Ten.
 
 Each time a ceiling vanished, another appeared to block my path.
 
-But I surged upward as a pillar of fire, smashing, piercing, and melting everything that stood in my way.
+I rose like a pillar of fire, smashing through and melting everything in my way.
 
 Boom. Crack.
 
@@ -28,13 +28,13 @@ When I finally came to a stop, beyond the wavering flames…
 
 “Fire!”
 
-There were people waiting for me—no, enemies who had finished making every possible preparation.
+People were waiting for me—no, enemies, ready for my arrival.
 
 Screeeeech!
 
-As if they had been waiting for this moment alone, the enemies fired arrows, Magic, and everything else at once.
+As though they had been waiting for this exact moment, they unleashed arrows and Magic all at once.
 
-And at the moment countless rays of light shot toward me, I muttered a command in my mind that no one could hear.
+As countless streaks of light hurtled toward me, I silently gave a command.
 
 *Inventory. Store.*
 
@@ -46,9 +46,7 @@ The cool spear shaft vanished from my grip. I drew the lingering flames into bot
 
 Fwoosh. Whoooooosh!
 
-Flame Divine Palm at eight-tenths mastery. A fire dragon burst from both palms and writhed through the air.
-
-Terrible heat swept through the wide corridor stretching out on either side. Magic, arrows, and even people were caught in it.
+At eight-tenths power, the Flame Divine Palm sent a fire dragon surging from my palms. It twisted through the wide corridor stretching to either side, sweeping up Magic, arrows, and people alike.
 
 “Graaaaaaaaaah!”
 
@@ -68,11 +66,11 @@ At the end of the corridor, a dozen or so healers stood with their mouths open, 
 
 At my flat remark, a middle-aged woman who looked like a Team Leader bit her lip.
 
-“Mr. Jin Taekyung, why on earth are you…?”
+“Mr. Jin Taekyung, why on earth are you doing this?”
 
-“Because there’s something I absolutely have to do. And because you people got in my way.”
+“Because there’s something I have to do. And you people got in my way.”
 
-“I don’t know what your circumstances are, but still… This is too much, isn’t it?”
+“I don’t know what happened, but still… Isn’t this going too far?”
 
 Her eyes were full of fear and anger. Looking at her, I felt like the worst bastard in the world. Maybe that was why a hollow laugh escaped me.
 
@@ -94,15 +92,13 @@ I understood that they had no direct connection to Kim Hwajong’s death. How co
 
 But receiving an order didn’t erase what they had done. They had assembled to kill a person because someone told them to.
 
-“Why are you doing this? I don’t know what your circumstances are, but…”
+*Why are you doing this? I don’t know what happened, but…*
 
 My quiet voice carried over the low groans and echoed through the blackened corridor.
 
-“Don’t spout bullshit. You should’ve thought about it before asking. Why did that bastard Jin Taekyung suddenly start acting like this? Why did a guy everyone praised for saving people and killing monsters come to our Guild and cause a scene, demanding that we bring out Go Jun? And why was an order given to kill him?”
+“Cut the bullshit. You should’ve thought before you asked. Why would Jin Taekyung suddenly do something like this? Why would a guy everyone praises for saving people and killing monsters storm our Guild and demand that we bring out Go Jun? And why did someone order you to kill him?”
 
 These days, people called me a hero.
-
-To give them the conclusion first: I wasn’t.
 
 I wasn’t one. I didn’t have some noble spirit of self-sacrifice. I cared about money, and I’d rather live for my own people than for strangers I’d never met.
 
@@ -114,19 +110,19 @@ I had always questioned myself—what kind of person I was, whether the choices 
 
 “So why? Why? Why?”
 
-I kept throwing out those empty questions. The vacant faces in my view disgusted and repulsed me.
+I kept asking, though I already knew the questions were empty. The blank faces before me made me sick.
 
 “When you’re told to kill someone, why do you come here without even questioning the order?”
 
 No one answered. I knew the answer anyway.
 
-Because they were nothing more than fingernails—not even Go Jun’s hands and feet. Because they were dogs living off the food Go Jun and Ares Guild gave them.
+They weren’t even Go Jun’s hands and feet. They were his fingernails. Dogs living off the food Go Jun and Ares gave them.
 
 Do the job, and they could gain more wealth and status. That was why they had stood in my way, just as they always had.
 
-“Do you even have any idea what that bastard Go Jun has done? What if the Monster Waves in Busan and Pyeongchang were artificially caused by him?”
+“Do you have any idea what that bastard Go Jun has done? What if he caused the Monster Waves in Busan and Pyeongchang himself?”
 
-The moment I finished speaking, shouts erupted from every direction.
+Shouts broke out before I had even finished.
 
 “Bullshit!”
 
@@ -136,7 +132,7 @@ Right. I’d expected that. It was why I’d come all the way here.
 
 I looked at their disbelieving faces and let out a laugh.
 
-It was fascinating. They remained silent about why a man called a hero had invaded Ares Guild, yet when it came to other matters, they immediately denied everything.
+Funny. They had nothing to say about why a man they called a hero had stormed Ares Guild. But bring up Go Jun, and they rushed to deny it.
 
 “What did your bosses promise you for taking me down? A fast track to the top of the Guild? Enough money to keep your families fed for generations?”
 
@@ -156,7 +152,7 @@ When each person stayed silent, the whole group learned to do the same. That was
 
 I took a deep breath. Exhaustion, anger, disgust—everything churned together in my chest.
 
-“Stop spouting this fucking nonsense and lie down. Suck down your potions and get healed while you think about it. *Today is my second birthday.* Think of it that way.”
+“Quit the fucking nonsense and stay down. Drink your potions, get healed, and think about how today’s your second birthday.”
 
 “……”
 
@@ -164,7 +160,7 @@ I took a deep breath. Exhaustion, anger, disgust—everything churned together i
 
 The corridor fell quiet. Even the groans I’d been hearing all around me stopped.
 
-Those still standing and those lying on the ground alike either closed their eyes or firmly shut their mouths.
+Those still standing and those lying on the floor alike closed their eyes or pressed their lips shut.
 
 I ignored their trembling gazes and started walking. I didn’t forget a final goodbye.
 
@@ -178,7 +174,7 @@ Step.
 
 My foot came down on neatly trimmed grass.
 
-The world was still in the middle of a bitterly cold winter, but after passing through the corridor, the garden spread out at its center was a lush spring.
+Outside, the world was still gripped by winter. But beyond the corridor, the garden at the center of the building was fresh with spring.
 
 I had no idea what floor I was on. Hundreds of flowers bloomed around me, and a smaller number of enemies waited among them.
 
@@ -196,13 +192,13 @@ Clack. Swish!
 
 I caught the arrow and hurled it back in the same motion.
 
-The arrowhead flashed as it returned to its owner twice as fast and twice as powerfully as when it had first been fired.
+The arrowhead flashed as it flew toward its owner twice as fast and with twice the force.
 
 Kang!
 
 A white sword blade shuddered with a sharp metallic ring.
 
-A middle-aged man in his fifties stared at me with deeply sunken eyes. He had deflected the arrow with an enormous greatsword.
+A man in his fifties had deflected the arrow with an enormous greatsword. He stared at me, his gaze steady and deep.
 
 His seasoned bearing and aura reminded me of a Murim martial artist nearing the far end of Peak.
 
@@ -222,7 +218,7 @@ Slap!
 
 The archer’s head snapped to one side.
 
-The middle-aged man slapped the archer on his right across the face with lightning speed, then looked at me.
+The middle-aged man had struck him across the face with lightning speed. Then he looked back at me.
 
 “He’s young and foolish. I ask you to show him mercy.”
 
@@ -242,7 +238,7 @@ He was different from the Ares Guild members I’d faced so far. As I watched hi
 
 What was it about his attitude?
 
-I silently studied the middle-aged man. Then I suddenly arrived at a conclusion and opened my mouth.
+I studied him in silence. Then a possibility occurred to me.
 
 “Song Cheonwoo. No—you’re with Director Song’s faction.”
 
@@ -250,7 +246,7 @@ His eyes widened. I’d guessed right.
 
 Which meant I had no reason to fight them.
 
-Song Cheonwoo had led his own faction within Ares Guild and openly opposed Go Jun. The middle-aged man in front of me must have shared his convictions.
+Song Cheonwoo had led a faction of his own within Ares Guild and opposed Go Jun. The man in front of me must have sided with him.
 
 “You… knew?”
 
@@ -270,7 +266,7 @@ He was ready to attack. His troubled voice reached me.
 
 “Stop. I don’t want to do this either, but I have no choice.”
 
-I answered without stopping.
+I kept walking.
 
 “If you don’t want to, why are you here? Because you’re a hunting dog who can’t do anything but obey orders?”
 
@@ -278,7 +274,7 @@ I answered without stopping.
 
 “If you’re afraid of Go Jun, say you’re afraid. Don’t dress it up as having no choice.”
 
-It wasn’t only the middle-aged man. Everyone looking at me had trembling eyes.
+He wasn’t the only one. Everyone watching me had fear in their eyes.
 
 I continued forward. The more than a hundred people ahead of me backed away.
 
@@ -288,7 +284,7 @@ The middle-aged man’s composure began to crack.
 
 Song Cheonwoo had gone to the United Kingdom this morning? Obviously a lie.
 
-Certain that Go Jun had put forward a stand-in, I let out a quiet snort of laughter.
+Certain that Go Jun had sent a stand-in, I let out a quiet laugh.
 
 “What if that hunting dog’s master dies today?”
 
@@ -310,9 +306,7 @@ Slice. Crash!
 
 At the center of the garden stood an ornate fountain. The enormous stone statue planted atop it broke apart and collapsed.
 
-The remains of a statue modeled after a man who was already dead crushed the flowers beneath it.
-
-Its head, severed from the body, rolled and rolled until it reached my feet.
+Fragments of a man already dead crushed the flowers below. Its severed head rolled across the ground until it came to rest at my feet.
 
 The statue was so lifelike I had no trouble recognizing its face.
 

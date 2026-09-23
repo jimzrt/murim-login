@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful. Two minor details are weakened: the urgency of running to the injured and the hearty quality of the narrator’s laugh.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 69",
+      "current": "Get your asses over here and save your comrades.",
+      "defect": "The Korean explicitly tells the healers to hurry over at a run; the translation preserves the destination and task but drops the running action.",
+      "replacement": "Run your asses over here and save your comrades.",
+      "rationale": "The source says 존나게 뛰어와서, explicitly emphasizing running over quickly.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 137",
+      "current": "I looked at their disbelieving faces and let out a laugh.",
+      "defect": "The translation reduces a hearty, full-throated laugh to an unspecified laugh.",
+      "replacement": "I looked at their disbelieving faces and burst into a hearty laugh.",
+      "rationale": "The source uses 너털웃음을 터트렸다, describing a hearty laugh breaking out.",
+      "confidence": 0.87
+    }
+  ]
+}
