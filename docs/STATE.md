@@ -1,31 +1,30 @@
 # Translation State
 
-- Last completed: 868
-- Next chapter: 869
-- Current block: 865–869 (4/5)
-- Latest translation: `translations/0868.md`
-- Latest summary: `summaries/beats/0868.md`
-- Safe profiles through: chapter 868
+- Last completed: 869
+- Next chapter: 870
+- Current block: 865–869 (5/5)
+- Latest translation: `translations/0869.md`
+- Latest summary: `summaries/beats/0869.md`
+- Safe profiles through: chapter 869
 
 ## Current Block
 
-- After Ma Sanbao asks for his help in enthroning Prince Shangshan, Jin Taekyung weighs the danger of joining a rebellion against the Emperor against the prospect of the Great Nation helping the Murim Alliance fight Dark Heaven. Ma says he knows far more about Dark Heaven than Taekyung suspects and promises an appropriate reward if Taekyung helps. As the Embroidered Uniform Guard arrives at the pavilion, Taekyung tells Hyuk Mujin to bring Prince Shangshan.
+- Taekyung blocks Jeong Hogun and the Embroidered Uniform Guard from taking Prince Shangshan, needles Hogun about whether the guards are protecting or surrounding the prince, and draws out a warning about three red lanterns lit from the hour of the Ox to the hour of the Tiger. Hogun says this matches an East Depot secret signal; Taekyung recognizes that the timing matches Ma Sanbao’s visit but concludes the signal is a trap and denies knowing anything about the East Depot.
+- Hogun escorts Prince Shangshan to an audience with the Emperor and says the summons includes only the prince and Taekyung, not Hong Jin.
 
 ## Open Questions
 
-- Will Taekyung agree to help enthrone Prince Shangshan, and what action would the plan require?
-- What does Ma Sanbao know about Dark Heaven, and what is his promised reward?
+- Will Taekyung agree to help enthrone Prince Shangshan, and what would the plan require?
+- What does Ma Sanbao know about Dark Heaven, and what reward is he offering?
+- What does the Emperor intend for Prince Shangshan and Taekyung?
 - Who sent the assassin to Qianqing Palace, and what was the intended target?
-- What does the Emperor intend for Prince Shangshan?
-- What happened between Hong Jin and the old East Depot Director, and why did Hong leave the East Depot?
+- What happened between Hong Jin and the former East Depot Director?
 
 ## Exceptional Decision
 
-- Render 동창 병필태감 as “Brush-Holding Eunuch of the East Depot.”
-- Render 첩형 as “Constable” and 태감 as “Eunuch” in forms of address.
-- Render 앵속 as “opium” and 곰방대 as “long-stemmed tobacco pipe.”
-- Render 건청궁 as “Qianqing Palace.”
-- Render 창공 as “Director” for the East Depot’s head and 연판장 as “blood-signed pact.”
+- Render 밀마 as “secret signal” in this chapter’s context.
+- Render 창공 as “Director” for the East Depot’s head.
+- Render 연판장 as “blood-signed pact.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
