@@ -2369,3 +2369,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 백연 | **Baek Yeon** | Commander of the Embroidered Uniform Guard. |
 | 창위 | **Changwei** | Collective term for the East Depot and Embroidered Uniform Guard. |
 | 혈사자 | **Blood Envoy** | Baek Yeon’s sobriquet. |
+| 마삼보 | **Ma Sanbao** | The East Depot’s Brush-Holding Eunuch and second-in-command. |

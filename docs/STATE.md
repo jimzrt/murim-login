@@ -1,29 +1,26 @@
 # Translation State
 
-- Last completed: 865
-- Next chapter: 866
-- Current block: 865–869 (1/5)
-- Latest translation: `translations/0865.md`
-- Latest summary: `summaries/beats/0865.md`
-- Safe profiles through: chapter 865
+- Last completed: 866
+- Next chapter: 867
+- Current block: 865–869 (2/5)
+- Latest translation: `translations/0866.md`
+- Latest summary: `summaries/beats/0866.md`
+- Safe profiles through: chapter 866
 
 ## Current Block
 
-- After Prince Shangshan falls asleep, Hong Jin warns Jin Taekyung to keep his distance from Baek Yeon and reveals that Baek led the coup that put the fourth prince on the throne, betraying the late Emperor and Crown Prince and killing 30,000 people in the purge. Hong admits his determination to protect Shangshan is both the late Emperor’s final wish and a personal devotion; Taekyung argues that Shangshan is already a king, not merely a child to be protected. Hong has secretly brought an uninvited guest past the guards, and the stranger appears when the candles go out.
+- Jin Taekyung meets Ma Sanbao, the East Depot’s second-in-command, who reveals that he and Hong Jin are longtime friends and allies. Ma sent Hong secret intelligence about disguised Embroidered Uniform Guard members heading north toward Shanxi, enabling Hong to prepare before asking Taekyung for help. Ma says his loyalty is to the late Emperor, not the ruler now on the throne, and urges Hong to join him in setting right the chaos caused by the traitor.
 
 ## Open Questions
 
-- Who is the uninvited guest Hong Jin brought into the pavilion?
+- What action do Ma Sanbao and Hong Jin intend to take against the current ruler, and when?
 - What does the Emperor intend for Prince Shangshan, and why was his audience postponed?
-- What does Hong Jin hope to accomplish by bringing the guest to the pavilion?
 - What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?
 
 ## Exceptional Decision
 
-- Render 창위 as “Changwei,” the collective term for the East Depot and Embroidered Uniform Guard.
-- Render 혈사자 as “Blood Envoy,” Baek Yeon’s sobriquet.
-- Render 동창 as “East Depot.”
-- Render 금의위 as “Embroidered Uniform Guard” and 금위군 as “Imperial Guards.”
+- Render 동창 병필태감 as “Brush-Holding Eunuch of the East Depot.”
+- Render 첩형 as “Constable” and 태감 as “Eunuch” in forms of address.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
