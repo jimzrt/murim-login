@@ -2297,3 +2297,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 파리 대전투 | **Great Battle of Paris** | Major battle during the Great Cataclysm commemorated in the First National Assembly Hall. |
 | 폴 | **Paul** | Michael's follower whose handshake is painfully overpowered. |
 | 프랑크푸르트 | **Frankfurt** | Location of the defense during which Liam's life was saved. |
+| 크로노스 | **Kronos** | Guild led by Fabian. |
+| 파비안 | **Fabian** | Guild Master of Kronos. |

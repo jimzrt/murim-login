@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "That was the third time.",
+      "defect": "Jin first declares the Stone King a monster at the end of Chapter 778. Including that declaration, he has said it four times by this point.",
+      "id": "C01",
+      "rationale": "The chapter break does not reset the count in this continuous scene.",
+      "replacement": "That made four times.",
+      "severity": "minor",
+      "source": "Chapter 779, repeated declaration"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Once the vote began, the place where he sat would become the throne.",
+      "defect": "The leadership vote began in Chapter 777, and Jin destroyed the central seat in Chapter 778.",
+      "id": "C02",
+      "rationale": "This preserves Michael’s expectation of power without restarting the vote or treating the destroyed seat as intact.",
+      "replacement": "Once the votes were counted, the Federation would be his throne.",
+      "severity": "minor",
+      "source": "Chapter 779, Michael’s thoughts before threatening Jin"
+    },
+    {
+      "confidence": 0.92,
+      "current": "I’m afraid the first vote of our World Hunter Federation will be to expel you permanently.",
+      "defect": "The Federation’s leadership vote has already begun, so an expulsion vote cannot be its first vote.",
+      "id": "C03",
+      "rationale": "The threat remains clear and agrees with the vote sequence recorded in the reading copy and active state.",
+      "replacement": "I’m afraid our next vote will be on whether to expel you permanently.",
+      "severity": "minor",
+      "source": "Chapter 779, Michael’s expulsion threat"
+    }
+  ],
+  "summary": "The reading copies and active state are largely consistent. Three passages in Chapter 779 conflict with the declaration and vote sequence established in Chapters 777–778.",
+  "version": 1
+}

@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The radiance of Aura, the power gifted to humanity by the gods, spread in every direction, then turned toward one being.",
+      "defect": "Changes the singular 신 to multiple gods.",
+      "id": "F01",
+      "rationale": "The source names one divine giver, not several.",
+      "replacement": "The radiance of Aura, the power God had gifted to humanity, spread in every direction, then turned toward one being.",
+      "severity": "major",
+      "source": "인류가 신으로부터 선물 받은 힘. 오라(Aura)의 광휘가 온 사방을 물들였고, 이내 한 존재를 향해 겨누어졌다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Everyone here had been chosen by the gods to face monsters, and given the name Hunter by humanity.",
+      "defect": "Again pluralizes 신 and drops the exclusivity of the purpose for which the Hunters were chosen.",
+      "id": "F02",
+      "rationale": "신 is singular, and 오직 makes fighting monsters their sole appointed purpose.",
+      "replacement": "Everyone here had been chosen by God for the sole purpose of fighting monsters, and given the name Hunter by humanity.",
+      "severity": "major",
+      "source": "이 자리의 모두는 오직 몬스터와 대적하기 위해 신에게 선택받고, 인류로부터 사냥꾼(Hunter)이라는 이름을 부여받은 이들."
+    },
+    {
+      "confidence": 0.94,
+      "current": "But Jin wasn’t.",
+      "defect": "Leaves the contrast’s predicate unclear: Michael thinks his own position is safe, but Jin is not.",
+      "id": "F03",
+      "rationale": "놈은 아니다 contrasts Jin’s prospects with Michael’s preceding 괜찮다, not Jin with the throne.",
+      "replacement": "But Jin Taekyung wouldn’t be fine. Not him.",
+      "severity": "major",
+      "source": "하지만, 하지만 괜찮다.\n\n왕좌(王佐)는 아직 고스란히 남아 있으니까.\n\n이제 개표가 시작되면, 자신이 앉는 그곳이 바로 왕좌가 될 테니까.\n\n그러나 진태경은, 놈은 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If you hadn’t colluded with a monster, but… were already no different from one…”\n\nMichael Silbert swallowed as Jin’s words trailed off. Then a quiet remark shook his world.\n\n“What would happen then?”",
+      "defect": "Moves the revelation that Michael is already like a monster before his reaction, changing what the intervening pause conceals.",
+      "id": "F04",
+      "rationale": "The source withholds 이미 몬스터나 다름없다면 until after Michael swallows.",
+      "replacement": "“What if you hadn’t colluded with a monster, but…”\n\nMichael Silbert swallowed as Jin’s words trailed off. Then a quiet remark shook his world.\n\n“You were already no different from one? What would happen then?”",
+      "severity": "major",
+      "source": "“만약 몬스터와 결탁한 것이 아니라…….”\n\n흐려지는 말꼬리에 미카엘 실베르트가 숨을 삼킨 그 순간. 나직한 한 마디가 그의 세상을 뒤흔들었다.\n\n“이미 몬스터나 다름없다면, 그럼 어떻게 되는 거지?”"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Along with the contemptuous gazes directed at something that was neither human nor monster, Jin’s final words brought everything to a close.",
+      "defect": "Turns a singular contemptuous gaze into plural gazes, suggesting the crowd already shares it.",
+      "id": "F05",
+      "rationale": "눈빛 is singular; the source does not attribute contempt to multiple onlookers.",
+      "replacement": "With a contemptuous gaze fixed on something neither human nor monster, Jin delivered one final line.",
+      "severity": "major",
+      "source": "인간도, 몬스터도 아닌 무언가를 향한 경멸의 눈빛. 그리고 종지부를 찍는 마지막 한 마디와 함께."
+    }
+  ],
+  "summary": "Several meaningful shifts in the draft affect the scene’s logic, attribution, and final reveal.",
+  "version": 1
+}

@@ -1,23 +1,21 @@
 # Translation State
 
-- Last completed: 778
-- Next chapter: 779
-- Current block: 775–779 (4/5)
-- Latest translation: `translations/0778.md`
-- Latest summary: `summaries/beats/0778.md`
-- Safe profiles through: chapter 778
+- Last completed: 779
+- Next chapter: 780
+- Current block: 775–779 (5/5)
+- Latest translation: `translations/0779.md`
+- Latest summary: `summaries/beats/0779.md`
+- Safe profiles through: chapter 779
 
 ## Current Block
 
-- Jin tells the Skeleton King that he is his friend and recalls how the King sacrificed himself to save Jin from the Arch Lich. The Skeleton King explains that he wanted to believe Jin’s reassurance that he had once been a decent person and prove it by sacrificing himself for a friend; he calls Jin the first friend he made after coming into this world. Jin’s loud laughter draws the gathered leaders’ attention, and he trades insults with the King and Team Leader Choi, while Chuck Hagel, Faye Chen, and Prince Felix react to the disruption.
-- Jin confronts Michael Silbert during the World Hunter Federation leadership gathering, steps into the central seat, and destroys it with a stomp. He compares the seat to stolen ice cream, saying greed has caused immense suffering. Then, addressing the gathered people but directing his words at Michael, Jin declares, “The Stone King is a monster.”
+- Jin Taekyung repeatedly declares that the Stone King is a monster until the gathered Hunters accept it as true and turn their weapons on him. Jin steps between them, saying the Stone King is his friend and a comrade-in-arms who saved his life. When the Kronos Guild Master, Fabian, threatens to revoke Jin’s Hunter status and execute him, Magic Johnson and several allies—including Choi Minwoo, Faye Chen, and Felix—stand with Jin. Jin confronts Michael Silbert, who threatens a Federation vote to expel Jin permanently and promises legal proceedings or summary execution. Jin asks whether Michael himself is already no different from a monster, then asks whether the wound on Michael’s neck has healed.
 
 ## Open Questions
 
-- Who will be elected to lead the World Hunter Federation?
-- Will Michael act on his intention to eliminate Jin?
+- Who will lead the World Hunter Federation, and will its members vote to expel Jin?
+- Will Michael act on his threat against Jin, and what does Jin’s reference to Michael’s neck wound imply?
 - Can Cheon Taemin recover from his coma?
-- What consequences will follow Jin’s public declaration about the Stone King?
 
 ## Exceptional Decision
 

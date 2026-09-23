@@ -1297,3 +1297,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | first friend | you | casual and insulting, with affectionate familiarity | The King calls Jin a crafty human, a lunatic, and an attention-seeking bastard. |
 | 진태경 | 최 팀장 | Hunter addressing the team leader managing the gathering | Team Leader Choi | casual and teasing | Jin asks whether Choi will manage him and jokes with him about the disrupted plan. |
 | 최 팀장 | 진태경 | team leader addressing Jin Taekyung | Jin Taekyung | polite, exasperated | Choi addresses Jin as 진태경 씨 while complaining about his disregard for the plan. |
+| 존슨 | 파비안 | former_comrades_in_arms | Fabian | casual and teasing | Johnson greets Fabian familiarly, then warns him not to act rashly. |
