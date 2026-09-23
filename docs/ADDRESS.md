@@ -1203,3 +1203,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | close ally to senior team leader | Team Leader Choi | polite, familiar, and teasing | Jin directly addresses Choi as 최 팀장님 while discussing Odin Guild. |
 | 최 팀장 | 진태경 | senior ally advising Jin | Mr. Jin Taekyung | formal-polite with dry familiarity | Choi repeatedly addresses Jin as 진태경 씨 while challenging his plan. |
 | 스켈레톤 킹 | 진태경 | ally and nonhuman companion addressing Jin | treacherous human | informal and insulting | The Skeleton King addresses Jin as 간악한 인간 while testing whether he has been replaced by a doppelganger. |
+| 미카엘 | 후긴 | Odin Guild Master to personally selected fixer | Huginn | formal, familiar, and commanding | Michael calls Huginn by name while inviting him into the study. |

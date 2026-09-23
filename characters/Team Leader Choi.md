@@ -1,6 +1,6 @@
 # Team Leader Choi
 
-- **Safe through:** Chapter 734
+- **Safe through:** Chapter 735
 - **Aliases:** Choi Minwoo (최민우)
 - **Role:** Team Leader Choi is a trusted modern-world ally of Jin Taekyung who advises him on political and Guild affairs and is Cheon Taemin's maternal grandson.
 - **Personality:** Usually controlled and nearly expressionless in public, but candid, dryly humorous, and emotionally open with Jin.
