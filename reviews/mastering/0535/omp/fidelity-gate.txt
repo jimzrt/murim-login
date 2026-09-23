@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, but it adds an explicit motive in one passage and duplicates the final speech beat while losing a small detail about where the elders’ voices came from.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 223–225",
+      "current": "they’d be standing here stinking of grime and shit, too scared to open their mouths and sweating buckets.",
+      "defect": "The Korean says they would be unable to say a word while cold sweat poured down them; it does not explicitly say fear was the reason they could not speak.",
+      "replacement": "they’d be standing here stinking of grime and shit, unable to say a word as cold sweat poured down them.",
+      "rationale": "The source describes their silence and sweating without naming fear as the cause.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 253–255",
+      "current": "Although they had reached supreme realms of martial arts and slowed the aging process, every last hair on their heads was as white as snow.",
+      "defect": "The assembled copy omits that the elderly speakers’ voices came from both sides.",
+      "replacement": "The elderly voices came from both sides. Although they had reached supreme realms of martial arts and slowed the aging process, every last hair on their heads was as white as snow.",
+      "rationale": "The source explicitly places the elderly voices to the left and right before describing the speakers’ white hair.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 178–179",
+      "current": "Then he spoke, his voice carrying through the hall. At the same time, a powerful voice flowed from his mouth.",
+      "defect": "The source has one speech beat: a forceful voice comes from his lips. The assembled copy states twice that he speaks, adding a redundant beat.",
+      "replacement": "At the same time, a powerful voice came from his lips.",
+      "rationale": "The Korean says his lips released a powerful voice; it does not separately say that he spoke and that his voice carried through the hall.",
+      "confidence": 0.98
+    }
+  ]
+}

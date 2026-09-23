@@ -34,7 +34,7 @@ Cheongpung vanished amid a clatter, and Jin Wikyung turned to me.
 
 “You aren’t asking why.”
 
-“……I’d say it’s more accurate to say I haven’t had a chance to ask.”
+“…I haven’t had a chance to.”
 
 “That’s true.”
 
@@ -80,7 +80,7 @@ Cheongpung tilted his head.
 
 “Do you seriously not know?”
 
-“Yes!”
+“No!”
 
 “Oh… Not a moment’s hesitation. You’re driving me insane.”
 
@@ -98,7 +98,7 @@ I answered without hesitation.
 
 “Steroids.”
 
-“Mostly dumplings and sweets. Oh, she definitely seems to have gotten a lot bigger after eating the Blood Fish.”
+“Mostly dumplings and sweets. Oh, she did get a lot bigger after she ate the Blood Fish.”
 
 I was about to ask why he’d fed a snake dumplings and sweets when I caught myself.
 
@@ -156,17 +156,17 @@ Come to think of it, I hadn’t seen much of either Cheongpung or Mungyeong late
 
 Cheongpung saw my eyes narrow and caught his breath.
 
-“Gasp.”
+“Hup.”
 
-“Why?”
+“What?”
 
-“It’s nothing.”
+“Nothing. It’s nothing.”
 
 That only made him more suspicious.
 
 But I let it go with a shrug. Jin Wikyung was visibly growing anxious.
 
-“My youngest, that…”
+“My youngest, we…”
 
 “Oh, sorry. Are we in a hurry?”
 
@@ -186,9 +186,9 @@ Gung Gibang and Hyuk Mujin nodded, their faces grim.
 
 “Right. Let’s go.”
 
-“I’ll escort you, Captain. And you as well, Lesser Family Head.”
+“I’ll escort you, Captain. And the Lesser Family Head, of course.”
 
-“You two shut up and stay here to clean up the grime and shit.”
+“You two can cut the bullshit, stay here, and wash off the grime and shit.”
 
 “…”
 
@@ -202,7 +202,7 @@ At its center stood the Alliance Leader’s Hall. We went inside and stopped bef
 
 “You’ve arrived.”
 
-The guard had a rigid gaze and expression, along with a carefully contained aura.
+The man guarding it had a rigid expression and a carefully contained aura.
 
 He was unmistakably a Peak master who had reached the level of injuring others with Sword Energy. Yet here, this nameless man was only a doorkeeper.
 
@@ -216,7 +216,7 @@ The scraping sounds came one after another. Only after five doors had opened in 
 
 Gung Gibang and Hyuk Mujin ought to thank me. If they’d followed, they’d be standing here stinking of grime and shit, too scared to open their mouths and sweating buckets.
 
-That was how impressive the people seated around the enormous table were—their faces and auras alike.
+The people seated around the enormous table were that imposing.
 
 “Wow.”
 
@@ -240,7 +240,7 @@ Gazes fell on Cheongpung and me—some sharp, some impassive, others full of won
 
 “What do you mean, not bad? What they’ve done is extraordinary. A blessing for all of Murim.”
 
-Although they had reached supreme realms of martial arts and slowed the aging process, every last hair on their heads was as white as snow. It was enough to give me an idea of how much time they had lived through.
+The elderly voices came from either side. Though their martial arts had reached such heights that their aging had slowed, the white of their hair told me how many years they’d lived.
 
 *The leaders of the Nine Sects and One Gang. And the Family Heads of the Five Great Families.*
 
@@ -260,7 +260,7 @@ They no longer headed their families, yet wielded even greater influence. Martia
 
 One God, Three Saints, Ten Kings.
 
-Long ago, a hundred-thousand-strong demonic army had surged toward the Central Plains with the blood-red western sky at its back, and heroes had risen to oppose it.
+Long ago, a hundred thousand demonic soldiers had been sent toward the Central Plains with the blood-red western sky at their backs. Heroes had stood against them.
 
 They were swords and spears that cut through the enemy, shields that defended the Central Plains. In time, they became a vast, shining legend.
 
@@ -278,7 +278,7 @@ The Sound Transmission was gruff, but there was warmth in it. I couldn’t help 
 
 *—Look at you. You can smile at a time like this?*
 
-*What am I supposed to do if it comes out?*
+*What am I supposed to do if I feel like smiling?*
 
 *—Honestly. You were stiff as a board a moment ago. The Nine Sects and One Gang, the Five Great Families—none of them are anything special. They’re all much the same. Our sect is the best.*
 
@@ -286,13 +286,13 @@ Who else could say that so freely?
 
 After that proud, arrogant declaration, another Sound Transmission reached me. He hesitated for a moment before continuing.
 
-*—So straighten your shoulders and open your eyes wide. You… are this old man’s pride.*
+*—So straighten your shoulders and keep your eyes open. You… are this old man’s pride.*
 
 *Pride.*
 
 I hadn’t expected that word.
 
-Although he hadn’t said it aloud, I had never imagined Jeok Cheongang would say something like that to me.
+Even in a Sound Transmission, I’d never imagined Jeok Cheongang saying it to me.
 
 I couldn’t hold back. My lips moved.
 
@@ -304,17 +304,17 @@ Jeok Cheongang had been avoiding my gaze. He flinched.
 
 *—Old Master.*
 
-*—Wh-Why are you calling me?*
+*—Wh-Why do you keep calling me?*
 
 *—I think it’s time for your medicine.*
 
-*—You little fucking bastard…*
+*—You little fucking…*
 
 *—And thank you.*
 
 *—…!*
 
-Jeok Cheongang’s red eyebrows trembled.
+His red eyebrows trembled.
 
 I looked away and straightened my back. The muscles that had tightened throughout my body relaxed, and my head cleared.
 
@@ -326,13 +326,13 @@ Step.
 
 Cheongpung and I stopped together.
 
-The corridor that had seemed so long and distant had ended. There was nowhere left to go.
+The corridor that had seemed so long had ended. There was nowhere farther to walk.
 
-The voices of the giants, who had been quietly speaking among themselves while watching us, abruptly fell silent as though they had been waiting for this exact moment.
+The giants’ quiet conversations cut off as if they had been waiting for that exact moment.
 
 Silence.
 
-A silence waiting for one person, prepared for one person.
+A silence waiting for one man, made for one man.
 
 At the place of honor among those twenty-odd giants, a man rose. Instead of white hair, he had black, and his eyes were clear.
 
@@ -353,7 +353,5 @@ Cheongpung spoke so softly that only I could hear.
 “Grandpa…”
 
 A warm smile touched Mae Jonghak’s lips as he looked at us. Then he spoke, his voice carrying through the hall.
-
-At the same time, a powerful voice flowed from his mouth.
 
 “The masters of the Two Dragons Pavilion have arrived.”

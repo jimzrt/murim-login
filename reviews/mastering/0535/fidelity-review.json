@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "they’d be standing here stinking of grime and shit, too scared to open their mouths and sweating buckets.",
+      "defect": "The Korean says they would be unable to say a word while cold sweat poured down them; it does not explicitly say fear was the reason they could not speak.",
+      "id": "F01",
+      "rationale": "The source describes their silence and sweating without naming fear as the cause.",
+      "replacement": "they’d be standing here stinking of grime and shit, unable to say a word as cold sweat poured down them.",
+      "severity": "minor",
+      "source": "Lines 223–225"
+    },
+    {
+      "confidence": 0.87,
+      "current": "Although they had reached supreme realms of martial arts and slowed the aging process, every last hair on their heads was as white as snow.",
+      "defect": "The assembled copy omits that the elderly speakers’ voices came from both sides.",
+      "id": "F02",
+      "rationale": "The source explicitly places the elderly voices to the left and right before describing the speakers’ white hair.",
+      "replacement": "The elderly voices came from both sides. Although they had reached supreme realms of martial arts and slowed the aging process, every last hair on their heads was as white as snow.",
+      "severity": "minor",
+      "source": "Lines 253–255"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it adds an explicit motive in one passage and duplicates the final speech beat while losing a small detail about where the elders’ voices came from.",
+  "version": 1
+}
