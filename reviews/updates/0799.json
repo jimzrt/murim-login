@@ -1,0 +1,102 @@
+{
+  "chapter": 799,
+  "files": {
+    "characters/Divine Physician.md": "8335f494593f587403bef6f5783de6d5055568a12e9e81003690682baadfbad8",
+    "characters/Huginn.md": "71f3afe35a2fa95f32395b486b0524677c09f657a6414a627843e14447cae151",
+    "characters/Jin Taekyung.md": "e499d8d660ad6237064954bab5c3b91d74547607bf21121840bc355cc9239273",
+    "characters/Jintae.md": "b34b480d9dbb787e5d20e6f0077bdb9434645cd1d44448084758d1233f039d3b",
+    "characters/Michael.md": "1cd804fecd70b23663106c2e22b36379b5220feb26b0f54ac85f999cea34bfb1",
+    "characters/The Prophet.md": "42fdbe8e4fcc29b5a8dfc98de4fe3f01827307a1816e676efb4fffaaa8fcccb4",
+    "characters/Yamamoto.md": "23bb4544e86bed18cd6baa9e70937433674a2eaf79e8783b4a34f80fc2b1f1d0",
+    "docs/ADDRESS.md": "3e59cb655c9a73cdf684d32e0a0e00a3e14d3564ec8aecd76d7bc7e8627e892d",
+    "docs/CONTEXT.json": "53ec9858e3ec786677b1e34a908a4ae0b870c240dcead43c7ad82720f2e1b801",
+    "docs/NAMES.md": "8c9dc8070fa756b845bf81e2219201805fa9702c6b54e02735af9a47785da09b",
+    "docs/STATE.md": "e6165f92ad2c469e68280f19d2bcf5341f6d7300b7c904cbeed9ba3336b89963",
+    "summaries/beats/0799.md": "3fdc1ad4ae5a827e911fc1cfd08a208defadcf0da607020983fee35795965197"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "아미르",
+        "kinship": "subordinate to leader",
+        "normal_address": "Amir",
+        "notes": "Apologizes for speaking out of turn and addresses the leader as Amir.",
+        "speaker": "하미드",
+        "speech_level": "formal and deferential"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Prophet is a monster, not a human mage; he stopped the J1 vehicles and absorbed blood and a pale mist from the dead, but the nature of that power is unknown.",
+        "Yamamoto is J1’s sole survivor. He says The Prophet left after hearing reinforcements arrive; Jin suspects Yamamoto tried to flee, and the reason The Prophet spared him remains unclear.",
+        "The Prophet left a message meant to lure Jin; its contents are not yet known.",
+        "Amir and his subordinate Hamid lead a group concealed by an unseen veil near a convoy of more than five hundred people. Amir orders them to wait for The Prophet; they intend to wage a holy war."
+      ],
+      "plot": [
+        "Yamamoto apologizes to Jin and recounts the J1 attack: The Prophet stopped all ten transport vehicles, killed the team, and drained blood and a pale mist from the corpses. Yamamoto admits by implication that he tried to flee and says The Prophet left when reinforcements arrived. Magic Johnson concludes the corpse-draining was not human magic; Jin recognizes The Prophet as a monster. The Prophet left a message intended to draw Jin in.",
+        "Elsewhere, Amir’s hidden group watches a convoy of more than five hundred people approach. Protected by an unseen veil, they remain undetected; Amir orders Hamid to wait for The Prophet and the coming holy war."
+      ],
+      "translation_decisions": [
+        "Keep magic distinct from mana; The Prophet’s revealed monstrous nature does not establish that his corpse-draining ability is magic.",
+        "Render 조센징 as “Chōsenjin,” an ethnic slur, and 인샬라 as “Inshallah” (“God willing”)."
+      ]
+    },
+    "chapter": 799,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and is pursuing Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet is a monster who stopped all ten J1 transport vehicles and absorbed blood and a pale mist from the dead; the nature of this power is unknown.",
+        "The Prophet left a message intended to lure Jin; its contents are unknown.",
+        "Yamamoto is J1’s sole survivor. He says The Prophet left after reinforcements arrived; Jin suspects Yamamoto tried to flee.",
+        "Amir and Hamid lead a group concealed by an unseen veil near a convoy of more than five hundred people; Amir orders them to await The Prophet and the coming holy war."
+      ],
+      "continuity_sources": [
+        799
+      ],
+      "open_questions": [
+        "What message did The Prophet leave for Jin, and where is The Prophet now?",
+        "Why did The Prophet spare Yamamoto, and what happened when Yamamoto tried to flee?",
+        "What was the pale mist absorbed from the J1 victims, and what is the nature of The Prophet’s power?",
+        "Where is Amir’s concealed group, and what is its intended target?"
+      ],
+      "safe_through": 799,
+      "temporary_decisions": [
+        "Keep magic distinct from mana.",
+        "Render 조센징 as “Chōsenjin,” identifying it as an ethnic slur."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Hamid",
+        "korean": "하미드",
+        "notes": "Amir’s subordinate, addressed by name."
+      },
+      {
+        "english": "Amir",
+        "korean": "아미르",
+        "notes": "Title used to address the group’s leader."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Role:** The Prophet is the mysterious, exceptionally powerful leader of the revived Hasasin, a Middle Eastern terrorist organization preparing further attacks against apostates and Western heretics.",
+        "path": "characters/The Prophet.md",
+        "replacement": "- **Role:** The Prophet is a monster posing as the leader of the revived Hasasin, whose power includes stopping transport vehicles and absorbing blood and a pale mist from the dead."
+      },
+      {
+        "current": "- **Role:** Yamamoto Genji is a Japanese S-rank Hunter and J1’s sole survivor, now recovering from severe injuries after Jin Taekyung treated him.",
+        "path": "characters/Yamamoto.md",
+        "replacement": "- **Role:** Yamamoto Genji is a Japanese S-rank Hunter and J1’s sole survivor."
+      },
+      {
+        "current": "- **Personality:** Prideful and easily offended, he is prone to self-aggrandizement and paranoid, self-serving assumptions.",
+        "path": "characters/Yamamoto.md",
+        "replacement": "- **Personality:** Prideful and easily offended, prone to self-aggrandizement and self-serving assumptions, and cowardly under mortal threat."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

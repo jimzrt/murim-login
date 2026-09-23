@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Because the wicked human called him *Chōsenjin*.”",
+      "defect": "Reverses who used the slur.",
+      "id": "F01",
+      "rationale": "The Skeleton King is explaining why Jin is angry at Yamamoto, not accusing Jin of using the slur.",
+      "replacement": "“Because the monkey human called the wicked human *Chōsenjin*.”",
+      "severity": "critical",
+      "source": "“간악한 인간에게 조센징이라고 했거든.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You really want me to hit you?”",
+      "defect": "Makes Choi the threatened target instead of Yamamoto.",
+      "id": "F02",
+      "rationale": "Jin is checking that Choi will let him strike Yamamoto once.",
+      "replacement": "“I’m really going to hit him, you know?”",
+      "severity": "critical",
+      "source": "“진짜 때린다?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I heard the reinforcements arriving, so I left.”",
+      "defect": "Changes the person who left the scene from the Prophet to Yamamoto.",
+      "id": "F03",
+      "rationale": "Choi has just asked why the Prophet left an S-rank Hunter alive.",
+      "replacement": "“He heard the reinforcements arriving and left.”",
+      "severity": "critical",
+      "source": "“지원 병력이 도착하는 소리를 듣고 자리를 떠났습니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "That was why even satellites in orbit couldn’t detect them, despite coming within a few kilometers.\n\nNo—even if the satellites came right overhead, it would be the same.",
+      "defect": "Assigns the ground-level approach to the satellites rather than the approaching people.",
+      "id": "F04",
+      "rationale": "The passage distinguishes satellite surveillance from people approaching the concealed group at ground level.",
+      "replacement": "That was why even satellites in orbit couldn’t detect them—and why the infidels couldn’t find them despite drawing within a few kilometers.\n\nNo, the infidels wouldn’t find them even if they came right up to them.",
+      "severity": "critical",
+      "source": "우주에 떠 있는 인공위성으로도, 불과 수 킬로미터 남짓한 거리까지 다가왔음에도 그들을 발견할 수 없는 이유는 그 때문이다.\n\n아니, 설령 코앞까지 다가온다 해도 마찬가지다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Yamamoto Genji was now bowing as politely as he possibly could.",
+      "defect": "Adds a bow before Yamamoto’s subsequent, distinctly described dogeza.",
+      "id": "F05",
+      "rationale": "The source describes his manner here, not a physical bow.",
+      "replacement": "Yamamoto Genji had become the picture of politeness.",
+      "severity": "critical",
+      "source": "그곳에는 한껏 공손해진 야마모토 겐지가 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“As far as I know, it means something similar to the N-word.”",
+      "defect": "Euphemizes the Skeleton King’s explicit comparison.",
+      "id": "F06",
+      "rationale": "He says the slur outright; replacing it with “the N-word” softens his blunt speech.",
+      "replacement": "“As far as I know, it means about the same thing as ‘nigger.’”",
+      "severity": "major",
+      "source": "“이 몸이 아는 바에 의하면, 니거랑 비슷한 뜻이다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Whatever else, he’d come all the way to the Middle East because I’d asked him to.",
+      "defect": "Turns Jin’s command responsibility into a personal request.",
+      "id": "F07",
+      "rationale": "Jin’s authority over the mission grounds the responsibility he takes in the following lines.",
+      "replacement": "Whatever else, he’d come all the way to the Middle East on my orders.",
+      "severity": "major",
+      "source": "어쨌거나 내 뜻에 따라 머나먼 중동까지 온 자다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“You couldn’t hold him back even with two of you.”",
+      "defect": "Distances the Skeleton King from the proposed two-person effort.",
+      "id": "F08",
+      "rationale": "Choi is asking the Skeleton King to help; the reply dismisses what they could accomplish together.",
+      "replacement": "“Even the two of us couldn’t stop him.”",
+      "severity": "minor",
+      "source": "“어차피 둘이어도 못 막는다.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“……Did you go to some kind of dojo for groveling?”",
+      "defect": "Changes the joke’s imaginary dogeza school into a dojo and replaces the specific practice with generic groveling.",
+      "id": "F09",
+      "rationale": "The source names dogeza and jokes that Yamamoto must have studied it at a school.",
+      "replacement": "“……Did you go to a dogeza academy or something?”",
+      "severity": "minor",
+      "source": "“……너 무슨 도게자 학원 다녔냐?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*A Monster.*",
+      "defect": "Capitalizes an ordinary category contrary to the supplied glossary.",
+      "id": "F10",
+      "rationale": "This is the reveal of the Prophet’s nature, not a new proper title.",
+      "replacement": "*A monster.*",
+      "severity": "minor",
+      "source": "‘몬스터(Monster).’"
+    }
+  ],
+  "summary": "The draft has several action and subject reversals, plus a softened slur and a few localized wording issues.",
+  "version": 1
+}

@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "We didn’t know which one applied to The Prophet, but either way, he was far beyond anything we’d expected. He was much stronger than we’d imagined.",
+      "defect": "The second possibility is that Siegfried knew The Prophet; that alone does not establish that The Prophet was stronger than expected.",
+      "id": "C01",
+      "rationale": "Preserves Jin’s alarm without treating both explanations as proof of superior strength.",
+      "replacement": "We didn’t know which one applied to The Prophet, but either way, he was far more dangerous than we’d expected.",
+      "severity": "minor",
+      "source": "Chapter 797, strategy-room discussion"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Back when so many people were risking their lives to stop Leviathan, he’d shown up late with the most ridiculous excuse.",
+      "defect": "Chapter 796 says Yamamoto avoided Leviathan and failed to show up, not that he arrived late.",
+      "id": "C02",
+      "rationale": "Aligns Jin’s recollection with the account already given in this packet.",
+      "replacement": "Back when so many people were risking their lives to stop Leviathan, he’d stayed away with the most ridiculous excuse.",
+      "severity": "minor",
+      "source": "Chapter 798, Jin’s recollection of the Leviathan incident"
+    },
+    {
+      "confidence": 0.87,
+      "current": "He sucked everything out of my teammates who’d died before me.",
+      "defect": "“Died before me” can read as though Yamamoto also died.",
+      "id": "C03",
+      "rationale": "Keeps Yamamoto’s eyewitness account while removing the unintended implication.",
+      "replacement": "He sucked everything out of my teammates who’d died in front of me.",
+      "severity": "minor",
+      "source": "Chapter 799, Yamamoto’s testimony"
+    }
+  ],
+  "summary": "The packet is broadly consistent. Three English spans need attention for continuity, reasoning, and clarity.",
+  "version": 1
+}
