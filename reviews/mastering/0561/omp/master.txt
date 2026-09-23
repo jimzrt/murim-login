@@ -2,7 +2,7 @@
 
 *Brrrrrrr.*
 
-A smartphone suddenly began vibrating. I, Im Kkeokjeong, and finally the Skeleton King checked the screen in rapid succession before opening our mouths one after another.
+Our smartphones suddenly began vibrating. I checked my screen, then Im Kkeokjeong checked his, and finally the Skeleton King checked his. We spoke in turn.
 
 “What’s this?”
 
@@ -18,11 +18,11 @@ A smartphone suddenly began vibrating. I, Im Kkeokjeong, and finally the Skeleto
 
 *No wonder his phone was ringing when he isn’t even in the group chat.*
 
-I felt like stomping him until his illusion magic shattered, but that wasn’t important right now.
+I wanted to stomp him until his illusion magic shattered, but that wasn’t important right now.
 
 *Which girl-group member… No. Another incident like this?*
 
-I barely swallowed my thoughts and stared at the smartphone screen.
+I managed to swallow the question and stared at my screen.
 
 Song Song had posted an urgent message in the group chat for the Peace Guild’s founding members, including Team Leader Choi and me.
 
@@ -76,7 +76,7 @@ Song Song had posted an urgent message in the group chat for the Peace Guild’s
 
 What kind of Gate would make her react like that?
 
-I put my questions aside, left a reply saying I had seen the message, and checked the attached map. The moment I did, I understood why Song Song had reacted that way.
+I put the question aside, replied to say I’d seen the message, and opened the attached map. The moment I did, I understood.
 
 “Ah. Hmm.”
 
@@ -90,7 +90,7 @@ Im Kkeokjeong checked the map a beat later, and his face hardened.
 
 The C-rank Gate marked on the map sat on prime land near a subway station in Bucheon. It was also one of those Gates blessed with what Hunters called “luck.”
 
-The monsters that appeared there were relatively easy to deal with compared to those in other C-rank Gates, and Magic Gems dropped frequently.
+The monsters there were relatively easy to handle compared to those in other C-rank Gates, and they dropped plenty of Magic Gems.
 
 Im Kkeokjeong had worked as a Hunter in Bucheon for over ten years. There was no way either of us wouldn’t know the Gate—or the name of the Guild that controlled it.
 
@@ -146,7 +146,7 @@ I stood rooted to the spot. Kkeokjeong gave me a faint smile.
 
 “Hyung…”
 
-“I’m really fine, so hurry up and go. There must be plenty of good people in Ares Guild, too. If you let a petty personal reason stop you from helping, you’ll regret it for a long time. At least, the Taekyung I know would.”
+“I really am fine, so go. There must be plenty of good people in Ares Guild. If you refuse to help over a personal grudge, you’ll regret it for a long time. The Taekyung I know would.”
 
 “…!”
 
@@ -156,13 +156,13 @@ He laughed heartily at his own forced joke. I watched him for a moment, then nod
 
 He was right. The people facing danger inside the Gate weren’t enemies of mine or the Peace Guild.
 
-If I sensed danger and possessed the strength to save someone from it, then stepping forward was the right thing to do.
+If I knew they were in danger and had the strength to save them, I should step in.
 
 *That’s why we created the rescue team.*
 
 Maybe what I had to do had been decided the moment I obtained the System.
 
-I gave Im Kkeokjeong a brief look of acknowledgment.
+I gave Kkeokjeong a small nod.
 
 “I’ll be back soon.”
 
@@ -176,7 +176,7 @@ I smiled warmly at the Skeleton King.
 
 “…Understood.”
 
-*I should’ve done this from the start. You trying to get yourself killed?*
+*Should’ve threatened him from the start. Is he trying to get himself killed?*
 
 * * *
 
@@ -190,33 +190,31 @@ By the time we reached the C-rank Gate *Orc Wasteland*, marked on Song Song’s 
 
 “Fuck, there have to be people left at the Bucheon branch! Tell them it’s urgent and ask again for at least one A-rank Hunter!”
 
-“We already passed that along, but most of the A-rank Hunters stationed in Bucheon are deployed overseas, and some of the others are on vacation, so they’re refusing…”
+“We already did, but most of the A-rank Hunters stationed in Bucheon are deployed overseas, and the others are on vacation, so they’re refusing…”
 
 “What? Vacation? They’re refusing because they’re on vacation? Those fucking—!”
 
-It happened in an instant.
-
-A fist filled with rage slammed into a parked car.
+It happened in an instant. A fist slammed into a parked car.
 
 *Bam!*
 
-With a thunderous crash, the foreign car worth more than a hundred million won crumpled, sending large and small fragments flying in every direction.
+The foreign car, worth upwards of a hundred million won, crumpled with a deafening crash. Fragments flew everywhere.
 
 That was when the flushed, hard-breathing B-rank Hunter spotted the Skeleton King and me.
 
-“Hell, this is driving me crazy. No matter how urgent things are, they should still be controlling access properly—”
+“Hell, this is driving me crazy. I don’t care how urgent it is, someone should be controlling access—”
 
 His voice trailed off. His eyes went wide.
 
-“Huh? Uh? Huh? Huhhhhh?”
+“Huh? Uh? Uhhh?”
 
-Question after question spilled from his lips, his gaze fixed on my face. The Skeleton King snorted and opened his mouth with a meaningful expression.
+Questions kept spilling from his mouth as he stared at my face. The Skeleton King snorted knowingly.
 
 “Heh heh. Yes, this human is *that* human.”
 
 “…?”
 
-*Why is this bastard stepping in and making a scene when I’m just standing here?*
+*Why is he making a scene when I haven’t even said anything?*
 
 I shot the Skeleton King a wary look and cleared my throat. Everyone who had been rushing around was now standing frozen, staring at us.
 
@@ -250,11 +248,11 @@ He wasn’t even the Bucheon Branch Leader. He was one of the dozens of lower Br
 
 It reminded me just how large Ares Guild was—and how deep its talent pool ran. It also reminded me of something I’d briefly overlooked.
 
-*Maybe because of their public image, but the atmosphere here is better than I expected.*
+*Maybe it’s our public image, but the atmosphere here isn’t nearly as bad as I expected.*
 
 Ares Guild, the Peace Guild, and I had plenty of bad blood between us. But that fight had taken place beneath the surface. To people who knew nothing about it, everything above the surface looked calm.
 
-No. If anything, the eyes of the Ares Guild members here held expectation and even goodwill.
+If anything, I saw expectation and even goodwill in the eyes of the Ares Guild members.
 
 *Maybe we can build up our strength faster than Team Leader Choi expected.*
 
@@ -280,17 +278,17 @@ He gasped.
 
 “W-Wait.”
 
-The B-rank Hunter barely managed to stop me before continuing in a trembling voice.
+He barely managed to cut me off, then continued in a trembling voice.
 
 “I know. I know that too. But… letting an outsider intervene would be a serious violation of Guild policy.”
 
 “So?”
 
-“Everyone here, including me, desperately wants to ask you for help. But we can’t. You already know that. You’ve heard about it.”
+“Everyone here, myself included, wants to ask you for help. But we can’t. You must have heard what happens.”
 
-Anyone who worked as a Hunter had to know how strict and difficult Ares Guild’s rules were.
+I had. Anyone who worked as a Hunter knew how strict Ares Guild’s rules were.
 
-Lee Jungryong had selected only the most capable Hunters from each rank and locked them inside a tall, enormous cage. The fact that no Guild would accept a Hunter expelled from Ares Guild wasn’t some vague urban legend.
+Lee Jungryong had selected the strongest Hunters at every rank and shut them inside an enormous, towering cage. The claim that no Guild would hire a Hunter expelled from Ares wasn’t some vague urban legend.
 
 “Ha…”
 
@@ -318,22 +316,22 @@ Everyone there knew what that meant.
 
 The third Mutated Gate to erupt in the week since the new year began.
 
-I clicked my tongue softly and looked straight at the Branch Leader.
+I clicked my tongue and looked straight at the Branch Leader.
 
 “What are you waiting for? Open it.”
 
 “…!”
 
-“I wasn’t going to enter without the person in charge’s consent because it would be illegal. But people need to be saved, don’t they? So just say that I barged in while making a huge fucking scene and open it right now.”
+“I wasn’t going to enter without your consent. That would be illegal. But we have to save those people, don’t we? So say I raised hell and forced my way in, and open it. Now.”
 
 He squeezed his eyes shut, his clenched fists trembling.
 
-As I turned away from the silent Branch Leader, a trembling voice came from behind me.
+I turned away from him. Then his shaking voice came from behind me.
 
 “Let’s say… I gave my consent.”
 
 I’d thought he was a complete moron. Maybe he was only a fool.
 
-I let out a short laugh and left him with one final remark before striding toward the Gate.
+I let out a short laugh and strode toward the Gate, leaving him with one last remark.
 
 “Call me if you get fired. The Peace Guild will take you in.”
