@@ -2268,3 +2268,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 위버맨쉬 | **Übermensch** | Nietzschean ideal of a superhuman overcomer. |
 | 위버 | **Über** | Name used when Jin addresses the Skeleton King. |
 | 마장동 창잡이 | **the Majang-dong Spearman** | Jin's self-introduced epithet. |
+| 위버멘쉬 | **Übermensch** | Title used by the German Hunters for Jin Taekyung. |
+| 이완용 | **Yi Wan-yong** | Historical Korean official invoked in Jin's joke about the Skeleton King's allegiance. |
+| 요나스 | **Jonas** | Hunter whose death becomes a motive for revenge. |
+| 조엘 | **Joel** | Given name of Joel Schumacher. |
+| 다니엘 다이스케 | **Daniel Daisuke** | Person blamed for the cancellation of the anti-Jin rally. |

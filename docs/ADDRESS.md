@@ -1263,3 +1263,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 최 팀장 | allied subordinate and field leader | Team Leader Choi | informal and teasing | The Skeleton King addresses Choi while assigning him Schumacher's protection. |
 | 최 팀장 | 진태경 | subordinate field leader and commander | you | polite and deferential | Choi requests Jin's battle orders. |
 | 진태경 | 미노타우로스 로드 | human opponent and monster leader | you | blunt and contemptuous | Jin directly taunts the Minotaur Lord during their confrontation. |
+| 진태경 | 헌터 | field commander to allied Hunters | you; Hunters | blunt and commanding | Orders the human forces to stop asking questions and kill the fleeing Minotaurs. |
+| 최 팀장 | 진태경 | subordinate team leader to allied Hunter | Mr. Jin | formal and subdued | Addresses Jin directly while reporting the casualties. |
+| 진태경 | 최 팀장 | allied Hunter to subordinate team leader | Team Leader Choi; no vocative | casual and restrained | Questions Choi about the casualties and communicates with him through Sound Transmission about Michael. |
+| 시몬 | 보도 국장 | subordinate reporter to news director | News Director | internal, profane, and insulting | Simon curses the news director in a private memo before deleting it. |
