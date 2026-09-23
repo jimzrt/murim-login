@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“The Son of Heaven. Who would dare punish the Embroidered Uniform Guard for its own purposes, if not His Majesty the Emperor, who rules this world on Heaven’s behalf?”",
+      "defect": "The wording suggests that the Emperor might punish the Guard for his own purposes. Baek Yeon’s point is that no one but the Emperor has authority to punish it.",
+      "id": "F01",
+      "rationale": "황제 폐하를 제외한다면 excludes the Emperor from the challenge to everyone else’s authority; 사사로이 describes an unauthorized, private punishment.",
+      "replacement": "“The Son of Heaven. Aside from His Majesty the Emperor, who rules this world on Heaven’s behalf, who would dare punish the Embroidered Uniform Guard on a private whim?”",
+      "severity": "critical",
+      "source": "천자(天子). 하늘을 대신하여 이 천하를 다스리시는 황제 폐하를 제외한다면, 그 누가 감히 금의위를 사사로이 벌할 수 있겠나."
+    },
+    {
+      "confidence": 1.0,
+      "current": "As they moved in a way that made it impossible to tell whether they were escorting or surrounding us, Baek Yeon sent a quiet Sound Transmission.",
+      "defect": "“Us” abruptly makes the narration first-person, though this passage has no first-person narrator.",
+      "id": "F02",
+      "rationale": "The source leaves the escort-versus-encirclement ambiguous without introducing a first-person participant.",
+      "replacement": "As the guards moved in a way that made it impossible to tell whether they were escorting the party or surrounding them, Baek Yeon sent a quiet Sound Transmission.",
+      "severity": "critical",
+      "source": "호위인지 포위인지 알 수 없는 그 움직임 속에서 백연은 나직한 전음(傳音)을 흘려보냈다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The young child he’d met again after more than ten years had grown considerably. In body and in mind.",
+      "defect": "The draft places the growth after a reunion with a young child. Baek Yeon is seeing the child again now, after more than a decade, and finds that he has grown.",
+      "id": "F03",
+      "rationale": "십여 년 만에 마주한 describes the present encounter after a long separation; 자라나 있었다 describes the change already evident at that encounter.",
+      "replacement": "The child he was seeing again after more than a decade had grown considerably—in body and in mind.",
+      "severity": "critical",
+      "source": "장장 십여 년 만에 마주한 그 어린아이는 훌쩍 자라나 있었다. 몸도, 마음도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Oh, and Captain Jeong, stay behind a moment.”",
+      "defect": "“Captain” drops Jeong Hogun’s specified Thousand Captain rank.",
+      "id": "F04",
+      "rationale": "천호 is his rank, and the distinction matters in the Guard’s command hierarchy.",
+      "replacement": "“Oh, and Thousand Captain Jeong, stay behind a moment.”",
+      "severity": "major",
+      "source": "“아, 정 천호는 잠시 남고.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Embroidered Uniform Guard had to keep its eyes on more than just the bloodline of the dragon. There was also a martial-world ruffian who dared call himself the Divine Dragon.",
+      "defect": "The draft says Jin bestowed the title on himself; the source says he was called the Divine Dragon.",
+      "id": "F05",
+      "rationale": "칭해진 is passive and does not attribute the naming to Jin.",
+      "replacement": "The Embroidered Uniform Guard had to keep its eyes on more than just the bloodline of the dragon. There was also the martial-world ruffian who had dared to bear the title of Divine Dragon.",
+      "severity": "major",
+      "source": "금의위가 주시해야 할 이는 용의 핏줄뿐만 아니라, 감히 신룡(神龍)이라 칭해진 강호의 무뢰배 또한 있었으니."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Baek Yeon swept his lowered gaze over those around him.",
+      "defect": "“Lowered gaze” makes Baek Yeon look downward; the source describes the quality of his eyes, not the direction of his gaze.",
+      "id": "F06",
+      "rationale": "착 가라앉은 눈동자 conveys a settled, subdued intensity as he surveys the group.",
+      "replacement": "Baek Yeon swept a cold, steady gaze over those around him.",
+      "severity": "minor",
+      "source": "백연은 착 가라앉은 눈동자로 주위를 훑었다."
+    }
+  ],
+  "summary": "Several passages change the authority at issue, a character’s action, the viewpoint, or the timing of an encounter.",
+  "version": 1
+}

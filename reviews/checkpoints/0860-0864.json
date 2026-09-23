@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“I asked you a question. Why aren’t you answering?”",
+      "defect": "The prince has given Baek Yeon an order, not asked him a question.",
+      "id": "C01",
+      "rationale": "This preserves the prince’s demand for a response without contradicting his preceding line.",
+      "replacement": "“I gave you an order. Why haven’t you acknowledged it?”",
+      "severity": "minor",
+      "source": "Chapter 863, Prince Shangshan’s exchange with Baek Yeon"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“His Highness Prince Shangshan, the younger brother of His Majesty the Emperor, is asking you a question! If you don’t answer, that’s an insult to the imperial family! You’re a traitor!”",
+      "defect": "Taekyung repeats the mistaken description of the prince’s order as a question.",
+      "id": "C02",
+      "rationale": "The accusation then follows from Baek Yeon’s failure to acknowledge an order.",
+      "replacement": "“His Highness Prince Shangshan, the younger brother of His Majesty the Emperor, has given you an order! If you don’t acknowledge it, that’s an insult to the imperial family! You’re a traitor!”",
+      "severity": "minor",
+      "source": "Chapter 863, Jin Taekyung backing Prince Shangshan"
+    },
+    {
+      "confidence": 0.99,
+      "current": "‘Prince Shangshan Zhu Bao.’",
+      "defect": "A direct thought uses quotation marks instead of the reading copies’ italic-thought convention.",
+      "id": "C03",
+      "rationale": "The thought remains distinct from spoken dialogue and matches the packet’s formatting.",
+      "replacement": "*Prince Shangshan Zhu Bao.*",
+      "severity": "minor",
+      "source": "Chapter 864, Baek Yeon’s reflection on the prince"
+    },
+    {
+      "confidence": 0.99,
+      "current": "‘Blazing Flame Divine Dragon Jin Taekyung.’",
+      "defect": "A direct thought uses quotation marks instead of italics.",
+      "id": "C04",
+      "rationale": "This matches the established direct-thought format without changing the name.",
+      "replacement": "*Blazing Flame Divine Dragon Jin Taekyung.*",
+      "severity": "minor",
+      "source": "Chapter 864, Jeong Hogun’s reflection on Jin Taekyung"
+    }
+  ],
+  "summary": "The packet is largely consistent, but one exchange treats an order as a question, and two direct thoughts depart from the established formatting.",
+  "version": 1
+}
