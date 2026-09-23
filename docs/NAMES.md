@@ -2339,3 +2339,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 하미드 샤 마수드 | **Hamid Shah Masoud** | Hamid’s full name, revealed by Jin. |
 | 에어 슬래시 | **Air Slash** | The Doppelganger’s wind-blade spell. |
 | 실드 | **Shield** | Spell used by the Doppelganger to create layered barriers. |
+| 최 | **Choi** | Surname of the Team Leader in Jin’s vision. |

@@ -1,21 +1,22 @@
 # Translation State
 
-- Last completed: 830
-- Next chapter: 831
-- Current block: 830–834 (1/5)
-- Latest translation: `translations/0830.md`
-- Latest summary: `summaries/beats/0830.md`
-- Safe profiles through: chapter 830
+- Last completed: 831
+- Next chapter: 832
+- Current block: 830–834 (2/5)
+- Latest translation: `translations/0831.md`
+- Latest summary: `summaries/beats/0831.md`
+- Safe profiles through: chapter 831
 
 ## Current Block
 
-- Jin releases enough pressure for the Level 10 shadow that is the Doppelganger’s true form to speak, then demands everything it knows about Asmodeus and the coming danger. The Doppelganger insists its master overcame the gods’ curse and will return to claim the earth and water. As Jin asks whether Asmodeus is still alive, he is swept into a vision of a devastated world overrun by monsters, a memorial for fallen Hunters, and a final stand led in his name as the World Hunter Federation’s Alliance Leader. Asmodeus appears before the assembled Hunters, and the vision collapses.
+- Jin escapes the Doppelganger’s abyssal illusion when the System activates a firewall and blocks it. He tears apart the Doppelganger’s real shadow body with Scorching Yang Qi, then destroys it by stomping on it. The Doppelganger warns that Asmodeus will return and the future Jin saw will come to pass; Jin resolves to change that future. After the Doppelganger is erased, the System reports that Main Quest [Cataclysm] has failed.
 
 ## Open Questions
 
-- Is Demon King Asmodeus truly dead, and will he return?
-- Are the Doppelganger’s claims about Asmodeus true?
-- What caused Jin’s vision, and does it depict a future that can be prevented?
+- Why did Main Quest [Cataclysm] fail after the Doppelganger was erased?
+- Who or what chose Jin, and what is the Ark?
+- Is Asmodeus alive or likely to return?
+- Was Jin’s vision a possible future, and can it be prevented?
 
 ## Exceptional Decision
 
@@ -24,6 +25,7 @@
 - Keep Fire Storm and Aqua Storm as distinct named spells.
 - Render [영웅의 검] as “Hero’s Sword.”
 - Render 에어 슬래시 as “Air Slash” and 실드 마법 as “Shield magic.”
+- Render 선택받은 자 as “the Chosen One,” 방주의 주인 as “the Master of the Ark,” and [격변] as [Cataclysm].
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
