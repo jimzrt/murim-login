@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I also saw Aehyang, surrounded by a handful of palace attendants, and the young king, kneeling for some reason.",
+      "defect": "The kneeling child is Prince Shangshan, not a king.",
+      "id": "C01",
+      "rationale": "Chapter 905 identifies Prince Shangshan as the child who kneels before the Emperor to plead for Taekyung.",
+      "replacement": "I also saw Aehyang, surrounded by a handful of palace attendants, and the young prince, kneeling for some reason.",
+      "severity": "minor",
+      "source": "Chapter 907, Taekyung’s view of the raised platform"
+    }
+  ],
+  "summary": "The reading copies and active state are largely consistent. One title in Chapter 907 contradicts the established identity of the kneeling child.",
+  "version": 1
+}
