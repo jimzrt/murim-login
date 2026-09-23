@@ -518,6 +518,15 @@ relationships, and currently active unresolved/status facts. If a previous
 detail no longer helps translate a future chapter, delete it. Never add a fact
 merely because it appeared in the reading copy.
 
+For each matched character, check whether this chapter adds clear, durable
+evidence that improves Role, Personality, Voice, or Relationships. Update a
+field when it corrects or meaningfully sharpens the existing profile; otherwise
+leave it unchanged. Voice guidance should capture observable register, cadence,
+word choice, or address habits that help distinguish the character in English.
+Do not infer a stable voice from one situational line or generic personality
+adjectives. Keep “Not established” only when this chapter provides no reliable
+voice evidence; never replace it with unsupported specificity.
+
 `context` must contain exactly the durable context schema shown below, with version
 1 and safe_through {number}. Keep at most
 {workflow_config()["continuity_source_limit"]} continuity_sources. Keep
@@ -529,7 +538,8 @@ Use only chapter numbers through {number}. Profile updates may replace only one
 complete line in Aliases, Role, Personality, Voice, or Relationships. Do not
 return Safe through updates; the controller sets that field automatically.
 Each profile field should be one concise sentence; never append semicolon-separated
-chapter history.
+chapter history. For a new profile, describe voice only when the chapter supports
+a useful, stable distinction; otherwise say “Not established”.
 `names` contains only newly required Korean-to-English rows that are absent from
 Exact glossary matches; Korean keys must occur in the source. Do not repeat
 glossary matches. The controller drops rows already in the names ledger.
