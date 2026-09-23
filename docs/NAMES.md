@@ -2304,3 +2304,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 조앤 | **Joanne** | One of Michael’s former supporters. |
 | 마르셀 | **Marcel** | One of Michael’s former supporters. |
 | 할리드 | **Khalid** | One of Michael’s former supporters. |
+| 엘리제 궁전 | **Élysée Palace** | The French presidential palace. |
