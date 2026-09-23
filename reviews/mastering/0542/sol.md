@@ -4,7 +4,7 @@ You could tell a lot about a person from the way they walked.
 
 That was especially true of martial artists. Their footsteps revealed more than most people would think.
 
-Someone who relied on brute strength in their martial arts tended to walk heavily and roughly. Someone who practiced a more graceful art—or worked as an assassin—might move so lightly you could barely hear them.
+Someone who relied on brute strength in their martial arts tended to walk heavily. Someone who practiced a more graceful art—or worked as an assassin—might move so lightly you could barely hear them.
 
 Whoever was coming up the stairs now wasn’t just announcing his presence. His footsteps were practically screaming it.
 
@@ -26,13 +26,13 @@ For a moment, I had no idea what he meant. Then I understood and waved a hand.
 
 “Hmm. He’s no one to worry about, regardless. Knock him down as soon as he opens the door and comes in. Hand him over to the Murim Alliance, and we may get something useful out of him.”
 
-“……He’s not from Dark Heaven. And you already smashed the door, Old Master. What door are you talking about?”
+“……I’m telling you, he isn’t from Dark Heaven. Besides, you already smashed the door, Old Master.”
 
 “What?”
 
 Jeok Cheongang’s eyes went wide as he spoke, spraying spit.
 
-“You mean that fellow coming up is a pure human?”
+“You mean that fellow coming up is an ordinary human?”
 
 “Amazingly, he’s all-natural.”
 
@@ -50,7 +50,7 @@ The thundering footsteps had drowned out the other sound, but there had been two
 
 At last, they appeared through the doorway Jeok Cheongang had blown wide open.
 
-“This junior of Murim, Sama Pyo, pays his respects to Great Hero Jeok Cheongang, the Fire King.”
+“This junior, Sama Pyo, pays his respects to Great Hero Jeok Cheongang, the Fire King.”
 
 Tall and handsome. The moment I saw him, my mouth felt as gritty as if I’d bitten into sand.
 
@@ -76,7 +76,7 @@ Sama Pyo seemed to notice and quickly explained.
 
 “As you may have guessed, his vocabulary is limited. That’s the best he can do.”
 
-“……In that case, I suppose it can’t be helped.”
+“……Well, if that’s the case.”
 
 Jeok Cheongang muttered, looking less than pleased.
 
@@ -128,13 +128,13 @@ I scratched the back of my head and looked Sama Pyo up and down.
 
 Sama Pyo shrugged.
 
-“I asked out of courtesy, but you really aren’t ordinary. Do you also harbor ill feelings toward the demonic, heterodox path?”
+“I only asked to be polite, but you really are unusual. Do you have something against the unorthodox faction too?”
 
 “It’s not that, exactly……”
 
 Damn it. Put that way, I didn’t have much of an answer.
 
-I had only met him once, but my first impression of him had not been particularly bad. Nor was I some hardcore zealot who shouted about eradicating the heterodox path and glorifying the orthodox faction whenever I got the chance.
+We’d only met once, but he hadn’t made a particularly bad first impression. And I wasn’t some fanatic who went around shouting about wiping out the unorthodox faction and how great the orthodox faction was.
 
 Jeok Cheongang didn’t seem to feel much differently.
 
@@ -162,11 +162,11 @@ Sama Pyo’s father, and the man who had built the Black Dragon Demon Gate into 
 
 His epithet made him sound like one of the Ten Kings, but according to Gung Gibang, he had nothing to do with them.
 
-*Just like the Green Forest Battle King, the Green Forest Alliance Leader, and the Escort King of the Yongbong Escort Bureau.*
+*Just like the Green Forest Battle King, leader of the Green Forest Alliance, and the Escort King of the Yongbong Escort Bureau.*
 
 They were Supreme Peak masters whose martial prowess was beyond most people’s reach. That still wasn’t enough to make them part of the legend of the Ten Kings.
 
-Black Night King Sima Gong, one of the greatest masters in the unorthodox martial world and the Sect Leader of the Black Dragon Demon Gate, had apparently received the title in much the same way.
+The Black Night King was one of the greatest masters of the unorthodox faction and the Sect Leader of the Black Dragon Demon Gate. He’d earned his epithet in much the same way.
 
 “Still……”
 
@@ -186,13 +186,13 @@ Sama Pyo’s eyes widened slightly.
 
 Jeok Cheongang snorted.
 
-“Given the Black Night King’s personality, that is exactly what he would do. If your talent was sufficient, he wouldn’t care even if it meant burying all his other children alive as sacrifices.”
+“That’s exactly the sort of thing the Black Night King would do. If you had the talent, he wouldn’t care if all his other children were buried alive with him.”
 
 “……”
 
 “He hasn’t changed much, then. You could never tell what that man was thinking. Sly as a fox and cunning as a viper.”
 
-*Look at him, casually throwing a parent insult right to his face. My heart almost swelled with awe.*
+There he went, insulting the man’s father to his face. My heart swelled.
 
 The insult implied he recognized Sama Pyo’s talent, but it was still an insult. Before the dutiful son could take offense and start something, I cut in.
 
@@ -204,7 +204,7 @@ Sama Pyo’s expression was hard to read. He reached inside his robe and took so
 
 Paper—a fairly expensive commodity in Murim. The words at the top caught my eye at once.
 
-> ★**I Was a Nameless Foot Soldier, but in the Two Dragons Pavilion, I’m a Murim Hero?!**★
+> ★I Was a Nameless Foot Soldier, but in the Two Dragons Pavilion, I’m a Murim Hero?!★
 
 I stared at the sheet he’d laid on the table and rubbed my chin.
 
@@ -222,7 +222,7 @@ Tap.
 
 Sama Pyo’s long finger came down on one part of the sheet: the recruitment requirements Hyuk Mujin had scrawled in his terrible handwriting. Of all the lines beneath them, he pointed to one in particular.
 
-> \# Gender and sect affiliation don’t matter \#
+> \# Gender and sect affiliation don’t matter
 
 “I especially like this part,” he said.
 
@@ -236,7 +236,7 @@ I thought for a moment, then clicked my tongue.
 
 “Why?”
 
-“The moment I heard the song, I had a feeling. This is exactly the place I’ve been looking for.”
+“The moment I heard the song, I knew. It’s exactly the place I’ve been looking for.”
 
 “Yeah. Bullshit.”
 
@@ -248,7 +248,7 @@ The Black Dragon Demon Gate was one of the three most powerful sects in the unor
 
 *And he wants to join the Two Dragons Pavilion?*
 
-Even if the orthodox faction’s diehards held up picket signs and protested, Sama Pyo was more than capable of securing a position within the Murim Alliance.
+No matter how many orthodox diehards waved picket signs in protest, Sama Pyo could secure himself a position in the Murim Alliance.
 
 I folded my arms and stared at him.
 
@@ -264,7 +264,7 @@ I folded my arms and stared at him.
 
 Sama Pyo shrugged as though he had no choice.
 
-“I thought that if I joined the Two Dragons Pavilion, I might be able to shed the label of belonging to the demonic, heterodox path.”
+“I thought joining the Two Dragons Pavilion might let me shed the label of the unorthodox faction.”
 
 “You don’t seem all that eager to shed it.”
 
@@ -278,13 +278,13 @@ Sama Pyo shrugged as though he had no choice.
 
 Sama Pyo gave a quiet laugh. Then his expression hardened.
 
-A low voice slipped from between his perfectly smooth lips and pierced my ears.
+His low voice reached my ears.
 
-“I intend to use you for my own benefit. Depending on the circumstances, you will become a useful card to me in one way or another.”
+“I intend to use you for my own benefit. Depending on the circumstances, you could be useful to me in any number of ways.”
 
 A heavy silence fell.
 
-Even Taishan, who had been chewing noisily without pause, stopped moving. Hyuk Mujin stared back and forth between Sama Pyo and me with eyes as wide as lanterns.
+Even Taishan stopped chewing. Hyuk Mujin looked between Sama Pyo and me, his eyes wide.
 
 Then someone broke the silence.
 
@@ -310,7 +310,7 @@ But one thing was certain.
 
 Tap. Tap.
 
-The only sound echoing through the silence was the tapping of fingers against the table.
+For a moment, the only sound was my fingers against the table. I gathered my thoughts and looked Sama Pyo straight in the eye.
 
 “Let’s make one thing clear first.”
 
@@ -324,11 +324,11 @@ The only sound echoing through the silence was the tapping of fingers against th
 
 “It’s only natural. Are we done, then?”
 
-“You haven’t been accepted yet. I’m only keeping you under consideration for now. For today, go.”
+“You haven’t been accepted. I’m just considering you. Go home for today.”
 
 “Very well.”
 
-What in the world was this man after?
+What the hell was he really after?
 
 I watched Sama Pyo and Taishan prepare to leave, my curiosity only growing. Then I remembered one important thing.
 

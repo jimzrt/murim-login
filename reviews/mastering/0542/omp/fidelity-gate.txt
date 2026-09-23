@@ -1,0 +1,35 @@
+{
+  "summary": "Mostly faithful, with a few small shifts in who or what the narration describes.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 177",
+      "current": "*Just like the Green Forest Battle King, the Green Forest Alliance Leader, and the Escort King of the Yongbong Escort Bureau.*",
+      "defect": "The Korean names two examples: the Green Forest Battle King, who is the Green Forest Alliance Leader, and the Escort King. The English list reads as three separate people.",
+      "replacement": "*Just like the Green Forest Battle King, leader of the Green Forest Alliance, and the Escort King of the Yongbong Escort Bureau.*",
+      "rationale": "The source’s “녹림맹주인 녹림투왕” identifies the Green Forest Battle King as the Green Forest Alliance Leader; it is not a separate example.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 129",
+      "current": "Aside from Cheongpung, this might be the first formidable opponent he’d encountered.",
+      "defect": "The Korean says this may be the first formidable opponent to appear, not specifically the first one Jeok Cheongang has encountered.",
+      "replacement": "Aside from Cheongpung, this might be the first formidable opponent to show up.",
+      "rationale": "The source describes an opponent’s appearance in the scene; it does not frame the point as Jeok Cheongang’s personal history.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 329",
+      "current": "He makes quite an impression. I doubt this is his first interview.",
+      "defect": "“Makes quite an impression” shifts the first reaction from Sama Pyo being intense to being memorable, and the second sentence weakens the source’s specific “not someone who’s only done one or two interviews” observation.",
+      "replacement": "He’s intense. He doesn’t seem like someone who’s only been through one or two interviews.",
+      "rationale": "“아주 강렬한데요” describes him as intense, while “면접 한두 번 본 놈이 아닌 것 같습니다” suggests he has substantial interview experience.",
+      "confidence": 0.91
+    }
+  ]
+}

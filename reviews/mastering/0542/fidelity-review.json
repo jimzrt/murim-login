@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.87,
+      "current": "Aside from Cheongpung, this might be the first formidable opponent he’d encountered.",
+      "defect": "The Korean says this may be the first formidable opponent to appear, not specifically the first one Jeok Cheongang has encountered.",
+      "id": "F02",
+      "rationale": "The source describes an opponent’s appearance in the scene; it does not frame the point as Jeok Cheongang’s personal history.",
+      "replacement": "Aside from Cheongpung, this might be the first formidable opponent to show up.",
+      "severity": "minor",
+      "source": "Korean line 129"
+    },
+    {
+      "confidence": 0.91,
+      "current": "He makes quite an impression. I doubt this is his first interview.",
+      "defect": "“Makes quite an impression” shifts the first reaction from Sama Pyo being intense to being memorable, and the second sentence weakens the source’s specific “not someone who’s only done one or two interviews” observation.",
+      "id": "F03",
+      "rationale": "“아주 강렬한데요” describes him as intense, while “면접 한두 번 본 놈이 아닌 것 같습니다” suggests he has substantial interview experience.",
+      "replacement": "He’s intense. He doesn’t seem like someone who’s only been through one or two interviews.",
+      "severity": "minor",
+      "source": "Korean line 329"
+    }
+  ],
+  "summary": "Mostly faithful, with a few small shifts in who or what the narration describes.",
+  "version": 1
+}
