@@ -8,7 +8,7 @@ The instant a streak of light cut across his chest, Song Cheonwoo felt his visio
 
 It was lightning.
 
-The kind of lightning even a hero of old—one who had left his mark on the chaotic, perilous Great Cataclysm—had been unable to stop.
+Lightning that even an old hero who had helped shape the chaotic, perilous Great Cataclysm could not stop.
 
 Song stared at the sword in his hand, his eyes trembling. Only seconds ago, it had shone with aura. Now something sharper and more destructive had cut it in half.
 
@@ -24,7 +24,7 @@ Dark red blood spilled from his mouth, staining the snow. His clothes and armor 
 
 *SHWAAA!*
 
-An enormous amount of blood burst forth like a waterfall.
+Blood burst from the wound like a waterfall.
 
 It ran from his left chest to his right hip. The injury left by that bolt of lightning was devastating. It would never heal.
 
@@ -102,7 +102,7 @@ His trembling gaze lifted to Choi, whose calm expression made the bloody fight t
 
 “I’m not sure.”
 
-Only a few months ago, he had been unable to sense it. It was the only gift his maternal grandfather had left him—and Jin Taekyung had torn open the wrapping and returned it to its rightful owner.
+Choi felt the immense power flowing through his body. Only a few months ago, he had been unable to sense it. It was the only gift his maternal grandfather had left him, and Jin Taekyung had torn off the wrapping and given the gift to its owner—along with a lesson in how to use it.
 
 “Perhaps… because I was stronger than you.”
 
@@ -110,7 +110,7 @@ That was not all. Choi had believed in himself and acted with an upright heart. 
 
 He looked down at Song, his gaze unwavering.
 
-“I won, and you lost. That is all that remains between us.”
+“I won, and you lost. That’s all that matters now.”
 
 “…!”
 
@@ -140,7 +140,7 @@ Choi already knew who had made that offer.
 
 Song spat out more blood and gave a feeble laugh. He was plainly laughing at Go Jun.
 
-“If it were Lee Jungryong, perhaps. But that bastard is nothing more than a powerful, immature brat. I may be a despicable and pathetic old man, but I haven’t fallen so low that I would submit to the orders of some young punk. My alliance with you was entirely my own decision.”
+“If it had been Lee Jungryong, perhaps. But that bastard is just an overpowered, immature brat. I may be a despicable, pathetic old man, but I haven’t sunk so low that I’d obey a youngster like him. Forming an alliance with you was my own decision.”
 
 “Then—”
 
@@ -158,7 +158,7 @@ His had been a hard-fought life. Before the Great Cataclysm, he had worked day a
 
 Losing that political struggle to Lee Jungryong had reminded him how precious his family was. Then Lee’s death had rekindled his ambition, and Song had forgotten them again.
 
-“My absence was the root of all this. I suppose this is the price an old man paid for reaching too greedily after ambition too late in life.”
+“Leaving them alone was my mistake. I suppose this is the price of an old man getting greedy so late in life.”
 
 “You’re probably right.”
 
@@ -172,13 +172,13 @@ Because of two adults’ ambitions, a child too young to know what ambition mean
 
 “…I’m sorry. It was my fault.”
 
-“Then I suppose you wouldn’t have any objections if I burned you to death right now. Would you?”
+“Then you have no objection if I burn you to death right now. Do you?”
 
 The voice came from somewhere above them. It was not Choi’s.
 
 *Crunch.*
 
-Kim Hwajong stepped onto the ground, covered from head to toe in blue yeti blood.
+Kim Hwajong landed on the snow, covered head to toe in blue yeti blood. His eyes burned as fiercely as the whip of fire in his hand.
 
 “Hwa-jong. It’s you.”
 
@@ -188,9 +188,9 @@ Kim looked ready to swing the whip, but a slight glance from Choi stopped him. T
 
 Choi turned to Song.
 
-“Then is everything you told me about my maternal grandfather a lie as well?”
+“Then was everything you said about my grandfather a lie too?”
 
-“I wish it were a lie. But it is all true. I’ve already come too far.”
+“I wish it were. But it was all true. Things have already gone too far.”
 
 Kim frowned, unable to understand what Song meant. Choi let out a breath, torn between relief and disappointment.
 
@@ -202,9 +202,9 @@ But that could wait. For now, Choi had to decide what to do with Song.
 
 Kim’s message spell carried pride in Choi, fury toward Song, and a faint hope. Choi shook his head. He knew what the old butler wanted to say.
 
-*—Butler Kim. That isn’t possible.*
+*—Butler Kim. We can’t.*
 
-*—What do you mean, it isn’t possible?*
+*—What do you mean, we can’t?*
 
 *—Give me a potion. We need to treat him just enough to keep him alive.*
 
@@ -230,7 +230,7 @@ Kim cursed as he handed over a mid-grade potion. Choi’s eyes widened.
 
 “Why stop now…?”
 
-“You’re almost thirty now. Since things have come to this, learn from me if you want to learn. Otherwise, drink this.”
+“You’re almost thirty. At this point, learn from me if you want. Or don’t.”
 
 *Is this really the man who’s been by my side since I was a child?*
 
@@ -248,7 +248,7 @@ Choi let out a quiet laugh at the old butler’s gruff tone.
 
 After saying it, Choi could not bring himself to meet the old butler’s eyes. He turned away without another word.
 
-At the end of the path before him, an old man lay buried in the snow, waiting for death.
+Ahead of him, an old man lay half-buried in the snow, waiting for death.
 
 *Click.*
 
@@ -264,7 +264,7 @@ Song watched him approach through eyes that seemed about to close for good.
 
 Choi felt a surge of disgust at his hesitation.
 
-“If I had my way, I would kill you a hundred times, a thousand times over.”
+“I want to kill you. A hundred times. A thousand.”
 
 “B-but my family…”
 
@@ -280,10 +280,10 @@ Choi gazed at him coldly and slowly tipped the potion.
 
 *Hiss.*
 
-It was an extremely weak recovery, but to someone, it was a lifeline that could give them enough strength for one final effort.
+The milky liquid touched Song’s wound, and it began to close, little by little. The healing was slight. But for someone else, even that much could be a lifeline—enough to muster one final burst of strength.
 
-*Crack!*
+*Thump!*
 
 Where had Song found it?
 
-Amid the snow exploding in every direction, Song Cheonwoo launched himself with superhuman force and slipped into the enormous crevasse.
+Snow flew in every direction as he hurled himself backward with superhuman force and slipped into the vast crevasse.

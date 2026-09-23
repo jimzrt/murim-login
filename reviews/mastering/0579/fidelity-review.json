@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Only a few months ago, he had been unable to sense it.",
+      "defect": "The translation omits Choi Minwoo’s immediate sensation of the powerful energy flowing through his body.",
+      "id": "F01",
+      "rationale": "The source explicitly says Choi felt the powerful energy in his body before explaining that he could not sense it a few months earlier. The accepted baseline preserves that beat.",
+      "replacement": "Choi Minwoo felt the immense energy flowing through his body. Only a few months ago, he had been unable to sense it.",
+      "severity": "minor",
+      "source": "Chapter 579, line 123"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Kim looked ready to swing the whip, but a slight glance from Choi stopped him.",
+      "defect": "The old butler’s eyes are described as holding flames like the fire whip in his hand; that visual detail is missing.",
+      "id": "F02",
+      "rationale": "The Korean explicitly compares the flames in Kim Hwajong’s eyes to the fire whip he is holding. The accepted baseline preserves this image.",
+      "replacement": "Flames like those of the fire whip in his hand burned in the old butler’s eyes. Kim looked ready to swing the whip, but a slight glance from Choi stopped him.",
+      "severity": "minor",
+      "source": "Chapter 579, line 215"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was an extremely weak recovery, but to someone, it was a lifeline that could give them enough strength for one final effort.",
+      "defect": "The translation omits the immediate physical effect: the milky potion begins slowly closing the wound as soon as it touches it.",
+      "id": "F03",
+      "rationale": "The source explicitly describes the wound healing on contact before characterizing the recovery as weak. The accepted baseline retains that action.",
+      "replacement": "The milky liquid began closing the wound little by little the instant it touched him. It was an extremely weak recovery, but to someone, it was a lifeline that could give them enough strength for one final effort.",
+      "severity": "minor",
+      "source": "Chapter 579, line 321"
+    }
+  ],
+  "summary": "The assembled copy is broadly faithful, but it drops several explicit physical and sensory details preserved in the source and accepted baseline.",
+  "version": 1
+}
