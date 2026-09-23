@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "If they didn’t know what had happened, every last one of them would have thought they’d been sent to excavate ruins.",
+      "defect": "Implies the Hunters know what happened to the victims, though they are wondering what killed them.",
+      "id": "F01",
+      "rationale": "일련의 상황 refers to the surrounding circumstances, not an explanation of the deaths.",
+      "replacement": "If they hadn’t known the circumstances, every last one of them would have thought they’d been sent to excavate ruins.",
+      "severity": "major",
+      "source": "일련의 상황을 몰랐더라면 아마 백이면 백. 자신들이 유적 발굴에 투입되었다고 착각했을 것이다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "He wasn’t talking about the rise of another traitor like Michael Silbert.",
+      "defect": "Assigns the thought specifically to Choi rather than maintaining the narrator’s framing of the danger.",
+      "id": "F02",
+      "rationale": "The sentence clarifies what kind of internal collapse the narrator means; it does not identify Choi as the subject.",
+      "replacement": "This wasn’t about another traitor like Michael Silbert emerging.",
+      "severity": "minor",
+      "source": "미카엘 실베르트와 같은 배신자의 등장을 이야기하는 것이 아니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ever since the Demon King Asmodeus descended into this world, the existence of the land of death beyond the dimensions had been shrouded in mystery.",
+      "defect": "Makes the realm’s existence mysterious when its existence became known; what remained hidden was the realm itself.",
+      "id": "F03",
+      "rationale": "존재가 알려짐과 동시에 베일에 가려졌다 explicitly contrasts knowledge of its existence with ignorance of what lies there.",
+      "replacement": "Ever since the Demon King Asmodeus descended into this world, humanity had known that a land of death existed beyond the dimensions—but the place itself remained shrouded in mystery.",
+      "severity": "major",
+      "source": "마왕 아스모데우스가 이 세상에 강림한 이래, 차원 저 너머에 존재하는 죽음의 땅은 존재가 알려짐과 동시에 베일에 가려졌다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "Until then, all I knew were bits of flesh attached to bones.",
+      "defect": "Reads as a claim about monster anatomy rather than the Skeleton King’s joke that his knowledge was meager.",
+      "id": "F04",
+      "rationale": "The flesh-on-bones image expresses how little he knew while retaining the skeletal speaker’s imagery.",
+      "replacement": "Until then, what I knew about monsters amounted to a scrap of flesh on a pile of bones.",
+      "severity": "major",
+      "source": "그때까지 내가 알고 있던 건 뼈다귀에 붙은 살점 정도였던 거지."
+    }
+  ],
+  "summary": "Four actionable fidelity issues, chiefly an implication that the Hunters know how the victims died and a loss of the distinction between knowing the Demon Realm exists and knowing what is in it.",
+  "version": 1
+}
