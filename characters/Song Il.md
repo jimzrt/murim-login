@@ -1,6 +1,6 @@
 # Song Il (송일)
 
-- **Safe through:** Chapter 835
+- **Safe through:** Chapter 837
 - **Aliases:** Roaring Fury Swordsman
 - **Role:** Elder of the Zhongnan Sect and the Roaring Fury Swordsman; senior brother of Sect Leader Gong Iljung; came to the Jin Family of Taiyuan to demand redress for Gong Ilhyuk's injury and the alleged insult to Zhongnan; attacked Jin Taekyung with the Heavenly River Thirty-Six Swords, was stopped by Jeok Cheongang, and was publicly humiliated by him.
 - **Personality:** Arrogant, domineering, punitive, and confident in his martial power and seniority.

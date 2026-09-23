@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 836
-- Next chapter: 837
-- Current block: 835–839 (2/5)
-- Latest translation: `translations/0836.md`
-- Latest summary: `summaries/beats/0836.md`
-- Safe profiles through: chapter 836
+- Last completed: 837
+- Next chapter: 838
+- Current block: 835–839 (3/5)
+- Latest translation: `translations/0837.md`
+- Latest summary: `summaries/beats/0837.md`
+- Safe profiles through: chapter 837
 
 ## Current Block
 
-- After five days aboard the swift ship, the party nears Sichuan. Namho reflects on people risking their lives to save a collapsing world while others enjoy themselves, and urges the younger members not to lose heart. Taekyung privately reflects on the hardships that have hardened him and reassures Namho with a dry remark. The party jokes with Taishan and the exhausted Sudal, who drives the ship onward.
-- As fireworks burst near the landing, the party discovers the approaching ships are military vessels, not pleasure boats. Their cannons are aimed at the swift ship, and Sudal reveals the fireworks were an attack signal. Roughly a hundred cannons fire at once.
+- The military vessels’ cannon fire fails to hit the swift ship, and Sama Pyo, Taishan, Song Ilseom, and Ju Hwaran deflect the next volley as the ship heads for the landing. Jin wonders why the government troops attacked and orders a river pirate to steer under a white flag rather than retaliate.
+- On a pleasure boat, Ju Wongong dismisses concerns about the Yangtze River Channel League and boasts of the government’s strength. When he sees the swift ship withstand the cannon fire and recognizes Jin through a thousand-li lens, he orders the military vessels to cease fire, invoking his imperial kinship; Jin says he once saved Ju Wongong’s life.
 
 ## Open Questions
 
