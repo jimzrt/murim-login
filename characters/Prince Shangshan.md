@@ -1,6 +1,6 @@
 # Prince Shangshan (상산왕)
 
-- **Safe through:** Chapter 863
+- **Safe through:** Chapter 864
 - **Aliases:** None
 - **Role:** Prince Shangshan, whose personal name is Zhu Bao, is an early-adolescent member of the imperial family and an exceptionally skilled young swordsman who has trained daily for three years.
 - **Personality:** Earnest and compassionate, he takes responsibility for his loyal subjects’ hardship, admires Jin Taekyung, and seeks candid counsel when making difficult decisions.
