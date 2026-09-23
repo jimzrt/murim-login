@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“T-This makes no—”\n\n“—sense.”",
+      "defect": "The Skeleton King agrees that it makes no sense instead of contradicting the man.",
+      "id": "F01",
+      "rationale": "돼 completes 말도 안 돼 by rejecting its negation: the Skeleton King says the impossible is possible.",
+      "replacement": "“Th-That’s impossible—”\n\n“—It’s possible.”",
+      "severity": "critical",
+      "source": "“이, 이건 말도 안…….”\n\n“돼.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "His greatness sent the Prophet himself to lead His warriors to the promised land!",
+      "defect": "The draft makes “His greatness” the sender and places “himself” on the Prophet rather than on God.",
+      "id": "F02",
+      "rationale": "그분께서 친히 makes God the one who personally sent the Prophet.",
+      "replacement": "The great God Himself sent the Prophet to lead His warriors to the promised land!",
+      "severity": "major",
+      "source": "위대하신 그분께서 친히 선지자를 보내어 당신의 전사들을 약속의 땅으로 인도하셨단 말이다!"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The world called monsters like him beasts, but the real monster was someone else.",
+      "defect": "“Beasts” loses the deliberate repetition of “monster.”",
+      "id": "F03",
+      "rationale": "괴물 occurs on both sides of the contrast.",
+      "replacement": "The world called monsters like him monsters, but the real monster was someone else.",
+      "severity": "minor",
+      "source": "세상은 자신과 같은 몬스터를 괴물이라 부르지만, 진정한 괴물은 따로 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "They had families and friends. Beloved partners. Things they had to protect.",
+      "defect": "“Things” drops the explicit reference to values.",
+      "id": "F04",
+      "rationale": "지켜야 할 가치 refers to values, not unspecified things.",
+      "replacement": "They had families and friends. People they loved. Values worth protecting.",
+      "severity": "minor",
+      "source": "가족이 있고, 친구가 있다. 사랑하는 연인이, 지켜야 할 가치가 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Holding the [Hero’s Sword], which shone with a brilliant light permitted only to the chosen, the man looked at the demon before him and found himself asking:",
+      "defect": "The draft makes the man hold the sword; the Skeleton King holds it and stares at him.",
+      "id": "F05",
+      "rationale": "The preceding sentence identifies the Skeleton King as the sword’s holder, and 자신을 응시하는 describes the demon staring at the man.",
+      "replacement": "The Skeleton King held the [Hero’s Sword], shining with a brilliant light reserved for the chosen, and stared at him. The man found himself asking the demon:",
+      "severity": "critical",
+      "source": "선택받은 자에게만 허락된 휘황한 빛을 뿜어 내는 [영웅의 검]을 든 채, 자신을 응시하는 악마를 향해 이렇게 묻고야 말았다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "You saw what you wanted to see, and believed what you wanted to believe.",
+      "defect": "The draft replaces the crossed relationship between belief and sight with two ordinary repetitions.",
+      "id": "F06",
+      "rationale": "The Korean first links seeing to what they wanted to believe, then belief to what they wanted to see.",
+      "replacement": "You saw what you wanted to believe, and believed what you wanted to see.",
+      "severity": "major",
+      "source": "그저 믿고 싶은 대로 보고, 보고 싶은 대로 믿었겠지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Arrows and daggers that had shot through the air turned around and returned from where they had come, taking their owners’ lives.",
+      "defect": "“Returned from where they had come” reverses the projectiles’ destination.",
+      "id": "F07",
+      "rationale": "왔던 곳으로 되돌아가 says they went back to their point of origin.",
+      "replacement": "Arrows and daggers that had shot through the air turned around and flew back to where they had come from, taking their owners’ lives.",
+      "severity": "critical",
+      "source": "공간을 가르며 쏘아지던 화살과 단검이 왔던 곳으로 되돌아가 주인의 목숨을 앗았다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "*Thump. Thud.*\n\nA single blast of hot wind.",
+      "defect": "The first sound becomes another dull impact, losing the piercing strike before the man falls.",
+      "id": "F08",
+      "rationale": "푹 marks the penetrating hit; 털썩 is the subsequent fall.",
+      "replacement": "*Thwip. Thud.*\n\nA single blast of hot wind.",
+      "severity": "major",
+      "source": "푹. 털썩.\n\n한 줄기 열풍(熱風)."
+    },
+    {
+      "confidence": 0.88,
+      "current": "Countless weapons, still sharp, covered the blood-soaked grains of sand.",
+      "defect": "The draft omits the knees coming down onto the sand.",
+      "id": "F09",
+      "rationale": "The source names both 병장기 and 무릎 in the image that follows Jin’s victory.",
+      "replacement": "Countless still-sharp weapons and knees covered the blood-soaked sand.",
+      "severity": "major",
+      "source": "아직 날 서 있던 수많은 병장기가 무릎이 피에 젖은 모래알 위를 덮었다."
+    }
+  ],
+  "summary": "Several action and meaning reversals, plus a few losses of hierarchy and imagery.",
+  "version": 1
+}
