@@ -1,0 +1,55 @@
+{
+  "summary": "The chapter is broadly faithful, but a few physical details and images from the source were lost or changed.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 7–9",
+      "current": "My fist slammed into Go Jun’s chest with a dull thud.",
+      "defect": "The source specifies that the punch was thrown with all the narrator’s strength. The current version omits that emphasis, which the accepted baseline preserved.",
+      "replacement": "With a dull thud, the punch I threw with all my strength slammed into Go Jun’s chest.",
+      "rationale": "힘껏 내지른 describes a punch thrown with full force, not merely one that lands hard.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 159–163",
+      "current": "My fist was already deep inside Go Jun’s guard, wreathed in blue-white hellfire.",
+      "defect": "The source says the fist had plunged deep into Go Jun’s body, not merely inside his guard. This changes the physical detail of the attack.",
+      "replacement": "My fist had already plunged deep into Go Jun, wreathed in blue-white hellfire.",
+      "rationale": "몸 안쪽으로 깊숙이 파고든 describes the fist driving deep into his body; it does not describe getting past his guard.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 279–283",
+      "current": "I shot forward, leaving the crash behind me.",
+      "defect": "The source compares the narrator’s movement to a beam of light. The current version omits that image, which the accepted baseline retained.",
+      "replacement": "I shot forward like a beam of light, leaving the crash behind me.",
+      "rationale": "빛살처럼 explicitly supplies the beam-of-light comparison.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 327–329",
+      "current": "White Flame appeared in my hand as though it had been there all along.",
+      "defect": "The source describes the weapon as his cherished weapon, shining entirely white. The current version retains its sudden appearance but drops both the affectionate description and the all-white visual detail.",
+      "replacement": "My beloved weapon, shining pure white, appeared in my hand as though it had been there all along.",
+      "rationale": "애병 means a beloved or cherished weapon, and 온통 새하얗게 빛나는 describes it shining all white.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Lines 363–371",
+      "current": "Then the sword that had fallen short of me shot upward like lightning.",
+      "defect": "The source says the sword had fallen limply before it suddenly shot upward. “Fallen short of me” instead suggests it had failed to reach the narrator in an attack, losing the detail of its lowered, slack position.",
+      "replacement": "Then the sword that had drooped limply shot upward like lightning.",
+      "rationale": "힘없이 내려갔던 means it had lowered limply; the next clause describes its sudden upward movement.",
+      "confidence": 0.94
+    }
+  ]
+}

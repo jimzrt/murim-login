@@ -54,7 +54,7 @@ The instant his blood-red energy wavered, I yanked my foot free and kicked upwar
 
 *Boom!*
 
-My toes, swinging like a beam of light, were blocked by his shin with a thunderous crash. Go Jun, who had been about to pour out his anger, let out a hollow laugh.
+My foot flashed toward him, only to strike his shin with a thunderous crash. Go Jun looked ready to explode with anger, then let out a disbelieving laugh.
 
 “It’s too late to struggle. Now that it’s come to this, killing the rest of them will be easy.”
 
@@ -70,7 +70,7 @@ I blinked, not quite understanding him. Then his quiet voice reached my ear.
 
 His sticky, unpleasant breath touched my face. He cackled.
 
-“This time it’s you, then Choi Minwoo. After that, I don’t care who it is. I’ll kill everyone with even the slightest connection to you, one by one. Sweeping them all away with a Monster Wave sounds good, too. What do you think?”
+“First you. Then Choi Minwoo. After that, I don’t care what order they die in. Anyone with the slightest connection to you, one by one. Maybe I’ll wipe them all out with a Monster Wave. What do you think?”
 
 I stared at him, blinking as he went on.
 
@@ -108,7 +108,7 @@ The spear, slowly sinking under the pressure, stopped. So did my bending knees.
 
 For that moment, I forgot my fatigue. My muscles still ached as though they might tear from the lingering aftermath of One Annihilation, but I forgot the pain, too.
 
-The anger layered over my fatigue and pain covered and paralyzed everything else.
+Anger swallowed it all.
 
 Internal energy boiled like lava through my Eight Extraordinary Meridians and hundreds of acupoints.
 
@@ -118,9 +118,9 @@ When I spoke, my voice burned.
 
 “……!”
 
-“You shouldn’t have talked about my people that way. At the very least, you shouldn’t have.”
+“You shouldn’t have talked about my people that way. Not them.”
 
-But suspecting it myself and hearing it directly from his mouth were entirely different matters.
+I’d known Go Jun was capable of it. But knowing it myself and hearing him say it were two different things.
 
 “Don’t you think, you inhuman piece of shit?”
 
@@ -156,7 +156,7 @@ Dozens of hairs, severed by the sword pressure, scattered past my shoulder. My f
 
 *Flame-Extinguishing Divine Fist.*
 
-Space warped in the ultra-high temperature heat. It looked almost like the expression Go Jun was making now.
+The world slowed. The extreme heat warped the space around us, much as shock was warping Go Jun’s face.
 
 “No—”
 
@@ -328,7 +328,7 @@ The searing heat burned through the air.
 
 The spear had started after Go Jun’s sword, yet it slipped past the murky Aura Blade and reached its target first.
 
-*Squelch!*
+*Thrust!*
 
 Flesh parted with a sickening sound, followed by the smell of it burning.
 
@@ -350,7 +350,7 @@ Training and experience had taught me the principle of Striking Second, Hitting 
 
 That was what decided this fight.
 
-“Idiot. You should’ve used that rock of a head at least once to think about why your dead Master never recommended Magic Gems to you in the first place.”
+“Idiot. You should’ve used that rock of a head to think about why your dead Master never told you to take a Magic Gem.”
 
 “……!”
 
@@ -374,7 +374,7 @@ Go Jun’s eyes widened again. Reflected in them was armor with a faint red glow
 
 Fire Dragon Armor.
 
-“What, what is this……?”
+“Wh-what is that…?”
 
 “What do you think, idiot? Life insurance.”
 

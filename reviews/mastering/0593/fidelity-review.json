@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "My fist slammed into Go Jun’s chest with a dull thud.",
+      "defect": "The source specifies that the punch was thrown with all the narrator’s strength. The current version omits that emphasis, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "힘껏 내지른 describes a punch thrown with full force, not merely one that lands hard.",
+      "replacement": "With a dull thud, the punch I threw with all my strength slammed into Go Jun’s chest.",
+      "severity": "minor",
+      "source": "Lines 7–9"
+    },
+    {
+      "confidence": 0.87,
+      "current": "My fist was already deep inside Go Jun’s guard, wreathed in blue-white hellfire.",
+      "defect": "The source says the fist had plunged deep into Go Jun’s body, not merely inside his guard. This changes the physical detail of the attack.",
+      "id": "F02",
+      "rationale": "몸 안쪽으로 깊숙이 파고든 describes the fist driving deep into his body; it does not describe getting past his guard.",
+      "replacement": "My fist had already plunged deep into Go Jun, wreathed in blue-white hellfire.",
+      "severity": "minor",
+      "source": "Lines 159–163"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I shot forward, leaving the crash behind me.",
+      "defect": "The source compares the narrator’s movement to a beam of light. The current version omits that image, which the accepted baseline retained.",
+      "id": "F03",
+      "rationale": "빛살처럼 explicitly supplies the beam-of-light comparison.",
+      "replacement": "I shot forward like a beam of light, leaving the crash behind me.",
+      "severity": "minor",
+      "source": "Lines 279–283"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Then the sword that had fallen short of me shot upward like lightning.",
+      "defect": "The source says the sword had fallen limply before it suddenly shot upward. “Fallen short of me” instead suggests it had failed to reach the narrator in an attack, losing the detail of its lowered, slack position.",
+      "id": "F05",
+      "rationale": "힘없이 내려갔던 means it had lowered limply; the next clause describes its sudden upward movement.",
+      "replacement": "Then the sword that had drooped limply shot upward like lightning.",
+      "severity": "minor",
+      "source": "Lines 363–371"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but a few physical details and images from the source were lost or changed.",
+  "version": 1
+}
