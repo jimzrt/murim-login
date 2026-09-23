@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 820
-- Next chapter: 821
-- Current block: 820–824 (1/5)
-- Latest translation: `translations/0820.md`
-- Latest summary: `summaries/beats/0820.md`
-- Safe profiles through: chapter 820
+- Last completed: 821
+- Next chapter: 822
+- Current block: 820–824 (2/5)
+- Latest translation: `translations/0821.md`
+- Latest summary: `summaries/beats/0821.md`
+- Safe profiles through: chapter 821
 
 ## Current Block
 
-- Jin Taekyung fights through the fanatics and confronts Yahya Muhammad Ahmad Bedouin, who reveals that he can wield both mana and magical power and was trained by the Doppelganger. As the battle threatens to delay Jin’s pursuit of the fleeing Doppelganger, he awakens a new application of his Middle Dantian’s power: he stops a volley of arrows in midair, turns them toward the enemy, and fires them back at Yahya and the fanatics.
+- Jin Taekyung turns arrows fired by the fanatics back on their commander, Amir, using the force rising from his Middle Dantian. Amir survives the first volley but is killed when Jin takes control of the weapons filling the battlefield and sends them against him and the elite troops.
+- As the fanatics freeze in fear, Jin declares that it is too late for either side to turn back. The steel storm devastates the battlefield, and the survivors realize that no one can withstand it except Jin.
 
 ## Open Questions
 

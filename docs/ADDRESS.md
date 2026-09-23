@@ -1342,3 +1342,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 야흐야 무함마드 아흐마드 베두인 | 진태경 | fanatic commander to enemy Hunter | Jin Taekyung | formal, condemnatory | Calls Jin the king of wicked heretics and later a demon. |
 | 진태경 | 야흐야 무함마드 아흐마드 베두인 | enemy Hunter to fanatic commander | sir; you | casual, mocking | Uses “sir” in a sarcastic remark and otherwise addresses him informally. |
 | 스켈레톤 킹 | 최민우 | allied combatant to wounded allied Hunter | human | blunt, informal | Calls out to Choi Minwoo as “허우대만 멀쩡한 인간” while checking whether he is conscious. |
+| 진태경 | 아미르 | enemy commander | old man | blunt and insulting | Jin tells Amir to die, addressing him as 늙은이. |

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Sto—!”\n\n*Boom!*\n\nHis unfinished shout vanished beneath a small explosion.\n\nThe sword he had swung to knock the arrows aside shot into the air, along with its owner’s arm.",
+      "defect": "The draft identifies the shout and severed arm as the old man’s, although he continues fighting with his scimitar. The Korean leaves the shouter and sword’s wielder unnamed. “막” also calls for blocking, not stopping.",
+      "id": "F01",
+      "rationale": "The source does not identify either person in this passage; assigning both actions to the old man changes the scene.",
+      "replacement": "“Block—!”\n\n*Boom!*\n\nThe unfinished shout vanished beneath a small explosion.\n\nA sword swung to knock the arrows aside shot into the air, along with its wielder’s arm.",
+      "severity": "critical",
+      "source": "“막……!”\n\n퍼엉!\n\n끝나지 않은 외침이 작은 폭발음에 파묻혀 사라진다.\n\n화살을 튕겨 내기 위해 휘둘려졌던 검이, 주인의 팔과 함께 허공으로 솟구쳤다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "As if an invisible giant had drawn a bowstring, dozens of steel arrows came raining down—faster and harder than before by an order of magnitude.",
+      "defect": "“By an order of magnitude” supplies a tenfold comparison absent from the source.",
+      "id": "F02",
+      "rationale": "비교할 수도 없이 expresses a striking difference, not a measured multiplier.",
+      "replacement": "As if an invisible giant had drawn a bowstring, dozens of steel arrows came raining down—far faster and harder than before.",
+      "severity": "major",
+      "source": "마치 보이지 않는 거인이 활시위를 당긴 것처럼, 강철로 이루어진 수십여 발의 화살이 조금 전과는 비교할 수도 없이 빠르고 강하게 빗발치고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "If the Doppelganger, under the name of the Prophet, had been their spiritual pillar, the old man was a warrior favored by God—their commander and the one who led them.",
+      "defect": "The draft drops the old man’s title of warrior chief and substitutes the generic “a warrior.”",
+      "id": "F03",
+      "rationale": "전사장 and 장군 establish his religious and military standing, explaining the followers’ alarm.",
+      "replacement": "If the Doppelganger, under the name of the Prophet, had been their spiritual pillar, the old man was the warrior chief favored by God, the general who led them.",
+      "severity": "major",
+      "source": "도플갱어가 선지자라는 이름으로 정신적인 지주의 역할을 했다면, 노인은 신의 총애를 받는 전사장이자 그들을 이끄는 장군이었기에."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Only a faint voice reached his ears—a voice that might belong to God, or might belong to the devil.",
+      "defect": "“The devil” specifies a singular religious figure where the source says a demon.",
+      "id": "F04",
+      "rationale": "악마 does not identify the speaker as the devil.",
+      "replacement": "Only a faint voice reached his ears—a voice that might belong to God or to a demon.",
+      "severity": "minor",
+      "source": "다만 신인지, 악마의 것인지 모를 누군가의 목소리가 흐릿하게 귓가에 닿을 뿐이었다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it assigns a severed arm to the wrong person, adds a numerical comparison, and loses a title.",
+  "version": 1
+}
