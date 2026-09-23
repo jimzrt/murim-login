@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The humans he had trusted had surrounded him from both sides, while Jin Taekyung—the root of all evil—solemnly declared, like a judge delivering a verdict:",
+      "defect": "“From both sides” changes the humans’ positions from in front of and behind him to his lateral sides.",
+      "id": "F01",
+      "rationale": "앞뒤로 specifically places them in front of and behind the Skeleton King.",
+      "replacement": "The humans he had trusted had boxed him in from the front and rear, while Jin Taekyung—the root of all evil—solemnly declared, like a judge delivering a verdict:",
+      "severity": "critical",
+      "source": "믿고 있던 인간 놈들은 그를 앞뒤로 에워쌌고, 만악의 근원이나 다름없는 진태경은 재판관처럼 엄숙하게 선언했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“My goodness, such a noble spirit of sacrifice. I am genuinely moved.”",
+      "defect": "The translation omits Jin Taekyung’s mock-formal self-reference as the battalion commander, losing the line’s hierarchy and comic register.",
+      "id": "F02",
+      "rationale": "본 대대장 explicitly invokes his position as battalion commander rather than using an unmarked first-person pronoun.",
+      "replacement": "“My goodness, such a noble spirit of sacrifice. As battalion commander, I am genuinely moved.”",
+      "severity": "major",
+      "source": "‘세상에, 이토록 숭고한 희생정신이라니. 본 대대장은 진심으로 감동했다.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*You damn humans, please let’s all live together!*",
+      "defect": "The literal phrasing sounds like a proposal to share a home or life together, rather than a desperate plea that the humans let him survive too.",
+      "id": "F03",
+      "rationale": "In context, 같이 좀 살자 is an appeal for mutual survival while he fears being eaten, not an invitation to live together.",
+      "replacement": "*You damn humans, please let me live too!*",
+      "severity": "major",
+      "source": "‘이 빌어먹을 인간 놈들아, 제발 같이 좀 살자!’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’m not sure what I should teach you. But I can’t exactly teach the Turtle Breath Technique to someone who is practically the Fire King’s successor…”",
+      "defect": "“Practically” weakens Taekyung’s established identity as the Fire King’s actual successor, while the Korean instead emphasizes the prestige of that identity.",
+      "id": "F04",
+      "rationale": "화왕의 후인씩이나 되는 identifies him as the Fire King’s successor and stresses that someone of such standing should not be taught a technique like this.",
+      "replacement": "“I’m not sure what I should teach you. But I can’t exactly teach something like the Turtle Breath Technique to the Fire King’s successor…”",
+      "severity": "major",
+      "source": "‘네놈에게 뭘 가르쳐야 할지 잘 모르겠군. 그렇다고 화왕의 후인씩이나 되는 녀석에게 귀식대법 같은 것을 가르쳐 줄 순 없는 노릇…….’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even with their lives hanging in the balance, the Murim was full of show-offs who shouted the names of their forms while fighting.\n\nAnd then there was corpse cosplay.",
+      "defect": "The second sentence presents corpse cosplay as merely another item instead of preserving the narrator’s incredulous point that image-conscious martial artists would never choose to play dead.",
+      "id": "F05",
+      "rationale": "시체 코스프레라니 is a dismissive, incredulous reaction that supplies the causal explanation for why the technique is unpopular.",
+      "replacement": "Even with their lives hanging in the balance, the Murim was crawling with show-offs who shouted the names of their forms as they fought. And you expected them to play dead?",
+      "severity": "major",
+      "source": "당장 목숨이 왔다 갔다 하는 와중에도 초식 이름까지 외치며 싸우는 겉멋충들이 득실거리는 마당에 시체 코스프레라니."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A spear wrapped in blue-white flames plunged into the dark monster’s jaws.\n\nNo—it shattered the teeth that had already grown back and embedded itself in the roof of its mouth.",
+      "defect": "“Plunged” changes the spear’s explicitly described motion: it is drawn or sucked into Leviathan’s maw before smashing through the regenerated teeth.",
+      "id": "F06",
+      "rationale": "빨려 들어간다 specifically describes being sucked or drawn inward, a mechanical detail of the action.",
+      "replacement": "A spear wreathed in blue-white flames was sucked into the dark monster’s maw.\n\nNo—it shattered the teeth that had already grown back and embedded itself in the roof of its mouth.",
+      "severity": "major",
+      "source": "청백색의 화염을 머금은 한 자루의 창이 컴컴한 괴수의 아가리로 빨려 들어간다.\n\n아니, 어느새 다시 자라난 놈의 이빨을 부수고 입천장에 틀어박혔다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Of course, for personal reasons, he had never actually smelled anything like that—but surely it had been true.",
+      "defect": "“Anything like that” can imply only that he has not encountered a comparable smell, obscuring the joke that as a skeleton he has never smelled a stench at all; “it had been true” is also unnatural.",
+      "id": "F07",
+      "rationale": "악취 따위는 맡아 본 적도 없지만 refers to his inability to smell such odors, while 틀림없이 그랬을 것이다 expresses certainty that the place nevertheless smelled terrible.",
+      "replacement": "Of course, for personal reasons, he had never smelled a stench in his life, but there was no doubt the place had reeked.",
+      "severity": "minor",
+      "source": "물론 개인적인 사정으로 악취 따위는 맡아 본 적도 없지만, 틀림없이 그랬을 것이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "*Escape.*",
+      "defect": "The English reads like an imperative or abstract command, while the Skeleton King is realizing that the birds are fleeing.",
+      "id": "F08",
+      "rationale": "도망 labels the birds’ behavior and completes his recognition that their mass movement is an escape from approaching danger.",
+      "replacement": "*They were fleeing.*",
+      "severity": "minor",
+      "source": "‘도망.’"
+    },
+    {
+      "confidence": 0.92,
+      "current": "*Grrrrr.*\n\nRagged breathing.\n\nLeviathan’s enormous crocodile-like eyes stretched into long vertical slits.",
+      "defect": "The wording unnaturally makes the entire eyes stretch; the source describes the visible eye centers forming long vertical slits.",
+      "id": "F09",
+      "rationale": "눈동자가 세로로 길게 찢어진다 evokes crocodilian pupils becoming vertically slit rather than the eyeballs physically stretching.",
+      "replacement": "*Grrrrr.*\n\nRagged breathing.\n\nThe pupils of Leviathan’s enormous crocodilian eyes narrowed into long vertical slits.",
+      "severity": "minor",
+      "source": "크르르륵.\n\n거친 숨소리. 악어를 닮은 레비아탄의 거대한 눈동자가 세로로 길게 찢어진다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "The living legend of the assassin world had teaching skills that could put even Daechi-dong’s top cram-school instructor to shame, and I was good at anything that involved using my body, so I absorbed his teachings like a sponge.",
+      "defect": "Daechi-dong’s cultural association with elite, fiercely competitive private education is left unexplained, so the comparison’s force is unavailable to many English readers.",
+      "id": "F10",
+      "rationale": "The location is culturally specific and materially establishes the instructor as an elite benchmark; a brief factual footnote preserves that force without replacing the source reference.",
+      "replacement": "The living legend of the assassin world had teaching skills that could put even Daechi-dong’s top cram-school instructor[^2] to shame, and I was good at anything that involved using my body, so I absorbed his teachings like a sponge.\n\n[^2]: Daechi-dong is a Seoul neighborhood famous for its intensely competitive private academies.",
+      "severity": "minor",
+      "source": "살수계의 리빙 레전드는 대치동 1타 강사 뺨치는 강의 실력을 지니고 있었고, 몸으로 하는 거라면 뭐든지 잘하는 나는 스펀지처럼 그의 가르침을 흡수했으니까."
+    }
+  ],
+  "summary": "Several meaningful fidelity issues alter physical positioning, the spear’s motion, hierarchy, and the Skeleton King’s plea; additional localized issues weaken pragmatic cues or produce unnatural English.",
+  "version": 1
+}
