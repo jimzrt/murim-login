@@ -10,7 +10,7 @@ Fwoooooosh!
 
 A wind of qi surged from one man and swept in every direction.
 
-The cave interior was dark, deprived of even a ray of light, but it was now brightly illuminated by a halo of light.
+The cave, dark for lack of sunlight, was now filled with a brilliant glow.
 
 Mungyeong watched the strange sight in silence. Then the boy spoke softly.
 
@@ -42,7 +42,7 @@ The smile had come and gone too quickly for him to notice. He slowly turned and 
 
 Whoosh.
 
-As if on cue, a breeze from outside blew past, stirring his hair and tickling his nose.
+As if on cue, a breeze stirred his hair and tickled his nose.
 
 Mungyeong gazed silently at the thick grass and flowers around the cave, then at the wild animals that had gathered there. At last, he spoke.
 
@@ -54,7 +54,7 @@ A fawn grazing beside its sleeping mother pricked up its ears.
 
 Under the animals’ wary, curious gazes, Mungyeong looked up at the blue sky.
 
-“It’s a beautiful day. I can’t stay cooped up in a cave in weather like this.”
+“It’s a beautiful day. No one should be cooped up in a cave in weather like this.”
 
 Step.
 
@@ -74,9 +74,9 @@ Someone lingering outside, unable to bring himself to go in.
 
 No matter how he looked at it, those two were alike.
 
-Two butterflies fluttered down and landed on Mungyeong’s shoulder as he smiled without a sound.
+Mungyeong smiled without a sound. Two butterflies fluttered down onto his shoulder.
 
-It was truly a beautiful day.
+It was a beautiful day.
 
 * * *
 
@@ -114,19 +114,19 @@ The fawn startled and backed away. A large figure appeared in its black eyes.
 
 The stranger stroked the frightened fawn’s head, then stared at the pitch-black cave.
 
-The stranger’s gaze was so profoundly somber that the fawn, which had instinctively been about to wake its mother, swallowed its cry.
+His gaze was so deep and somber that the fawn, which had been about to wake its mother, swallowed its cry.
 
 Squeeeeak.
 
 “That’s right. Good. Now go back to your mother.”
 
-The figure watched the fawn tilt its head and approach its sleeping mother, then straightened from his bent posture.
+He watched the fawn tilt its head and return to its sleeping mother, then straightened.
 
 His steps toward the cave were steady. The wind blurred his voice.
 
 “Now… I should go, too.”
 
-The path to the cave was long.
+The path to the cave had been long.
 
 A year and several months had passed since the old man and the young man first met. After taking the long way around, they could finally meet again.
 
@@ -138,7 +138,7 @@ Not one in front and the other behind, but side by side, shoulder to shoulder.
 
 At Gung Gibang’s irritated complaint, Hyuk Mujin clicked his tongue.
 
-“Tsk, tsk. With a temper that impatient, how are you ever going to beg? Try waiting patiently for once.”
+“Tsk, tsk. How are you going to beg with a temper that impatient? Try sitting still and waiting.”
 
 “Listen to the way that Hyuk bastard talks. Beggars aren’t allowed to be impatient?”
 
@@ -156,7 +156,7 @@ Hyuk Mujin looked at him in disgust.
 
 “So before the Hyuk Family Textile Shop gets covered in shit—”
 
-“Ah, I said stop! Hearing about food after talking about eating shit is making my stomach turn!”
+“Ah, I said stop! Hearing about food after eating shit makes my stomach turn!”
 
 “…?”
 
@@ -172,7 +172,7 @@ Mungyeong, the young medical apprentice known as the Divine Physician’s Discip
 
 “We need to leave before sunset…”
 
-Jin Wikyung murmured as he gazed at the sky slowly turning red.
+Jin Wikyung gazed at the sky, which was slowly turning red.
 
 The ceremony declaring the new Murim Alliance in Henan was only about a month away. They had to set out now and keep up a good pace if they were to arrive on time, allowing for anything that might happen along the way.
 
@@ -190,11 +190,11 @@ Most martial artists of the orthodox faction had forgotten it, but the Fire King
 
 That independence was the foundation of the Fire Gate Clan, which had preserved its lineage through one-person succession for hundreds of years. Each Sect Leader had defended its position outside every faction with overwhelming martial might.
 
-*Especially since it was Great Hero Jeok.*
+*Especially Great Hero Jeok.*
 
-Even a child with a runny nose knew that the Fire King Jeok Cheongang had helped the orthodox faction and led it to victory in the Great Faction War.
+Even a child with a runny nose knew that Jeok Cheongang had helped the orthodox faction win the Great Faction War.
 
-But few people knew that this Supreme Peak master from two generations ago had been deeply disappointed by the orthodox faction both during and after the war.
+Far fewer knew that the Supreme Peak master had been deeply disappointed by the orthodox faction, both during the war and afterward.
 
 “Come to think of it, I’m reminded of something my grandfather once said about Senior Jeok.”
 
@@ -214,17 +214,15 @@ Zhuge Feng had come out to see them off. At his words, Jin Wikyung’s ear twitc
 
 Crack.
 
-Zhuge Feng, who had been leisurely fanning himself, suddenly stopped.
+Zhuge Feng stopped fanning himself.
 
-He glanced back and forth between Jin Wikyung’s tightly clenched fist and his flushed face, then slowly lowered the fan.
+His gaze moved between Jin Wikyung’s clenched fist and his flushed face. Slowly, he lowered the fan.
 
-Jin Wikyung’s martial arts were in no way inferior, but even his appearance alone made him little different from a human weapon.
+Jin Wikyung had nothing to be ashamed of in his martial arts, and his sheer size made him look like a human weapon. Besides, he held the priceless corpse of the Water God Dragon in both hands. That gave him the upper hand in every respect.
 
-Besides, with the priceless Water God Dragon’s corpse in his hands, was he not the one holding all the cards?
+Zhuge Feng gauged his mood and cleared his throat.
 
-Zhuge Feng discreetly gauged the mood, cleared his throat, and continued.
-
-“Ahem. In any case, I asked him first. I asked when he thought the tide had first begun to turn in favor of the orthodox faction.”
+“Ahem. In any case, I asked my grandfather when he thought the tide first began to turn in favor of the orthodox faction.”
 
 Jin Wikyung’s voice was low and level.
 
@@ -234,13 +232,13 @@ Jin Wikyung’s voice was low and level.
 
 “That’s a relief. Please continue.”
 
-Zhuge Feng began speaking while glancing sideways at the clenched fist.
+Zhuge Feng glanced sideways at the clenched fist.
 
 “It was the first and last time I ever saw my grandfather think so long over a question. Can you guess what he finally said, Lesser Family Head?”
 
 “You said it was connected to Great Hero Jeok… Perhaps it was the great battle in Shaanxi. I’ve heard the other Seniors distinguished themselves there, but Great Hero Jeok’s achievements were truly astounding.”
 
-The battle in Shaanxi that Jin Wikyung had mentioned was one of the particularly brilliant victories among the countless battles of the blood-soaked Great Faction War.
+The battle in Shaanxi was a particularly brilliant victory among the countless bloody battles of the Great Faction War.
 
 Jin Wikyung had given his answer some thought, but Zhuge Feng let out a quiet laugh and shook his head.
 
@@ -256,21 +254,21 @@ Jin Wikyung had given his answer some thought, but Zhuge Feng let out a quiet la
 
 Jin Wikyung nodded.
 
-On the day Mount Jiuhua was engulfed in flames, an unknown old man living in obscurity became known as the Fire King, while the Demonic Cult lost an elite strike force that had accumulated countless achievements since the beginning of the Great Faction War.
+On the day Mount Jiuhua was engulfed in flames, an unknown old man who had lived in obscurity became known as the Fire King. The Demonic Cult lost an elite strike force that had won countless victories since the beginning of the Great Faction War.
 
 “That makes sense. It was when Great Hero Jeok first emerged into the world.”
 
-“But if not for my wise and perceptive grandfather’s judgment, not only would the Black Wind Corps not have been annihilated, Senior Jeok would never have gained the title of Fire King.”
+“But without my wise and perceptive grandfather’s judgment, the Black Wind Corps would never have been destroyed, and Senior Jeok would never have gained the name Fire King.”
 
 “What do you mean…?”
 
-Zhuge Feng looked around, then lowered his voice as much as possible.
+Zhuge Feng glanced around and lowered his voice.
 
 “At the time, every road through Anhui was open to the Black Wind Corps. They had no reason to pass through Mount Jiuhua.”
 
 “Wait. Then do you mean…?”
 
-“My grandfather never forgot anything he had seen once. This was no different. He remembered a record about a one-person sect in our family’s archives, one describing events from more than a hundred years ago.”
+“My grandfather never forgot anything he’d seen. He remembered a record of a one-person sect in our family’s archives, written more than a hundred years earlier.”
 
 “…!”
 

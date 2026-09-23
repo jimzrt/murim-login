@@ -1,0 +1,15 @@
+{
+  "summary": "One quantity is misstated: the ceremony is about a month and a half away, not about a month.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 189",
+      "current": "only about a month away",
+      "defect": "달포 뒤 means about a month and a half later, so the translation shortens the stated time until the ceremony.",
+      "replacement": "only about a month and a half away",
+      "rationale": "The source gives a 달포, approximately one and a half months, as the time remaining before the ceremony.",
+      "confidence": 0.98
+    }
+  ]
+}
