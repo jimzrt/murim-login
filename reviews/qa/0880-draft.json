@@ -1,0 +1,39 @@
+{
+  "chapter": 880,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.132,
+    "source_characters": 5710,
+    "source_paragraphs": 149,
+    "translation_characters": 12171,
+    "translation_paragraphs": 148
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "장삼",
+        "preferred": "Jang Sam"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "정호",
+        "preferred": "Jung Ho"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "인자",
+        "preferred": "ninja"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

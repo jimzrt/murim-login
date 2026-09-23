@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "In a single night, the Embroidered Uniform Guard dragged away more than a hundred people.",
+      "defect": "The draft reduces hundreds of arrests to more than one hundred.",
+      "id": "F01",
+      "rationale": "수백 명이 넘는 describes a count in the hundreds, not merely over one hundred.",
+      "replacement": "In a single night, the Embroidered Uniform Guard dragged away hundreds of people.",
+      "severity": "critical",
+      "source": "하룻밤 사이 수백 명이 넘는 이들이 금의위에 의해 끌려갔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The one and only person in this vast realm who gave absolute loyalty to the Emperor.",
+      "defect": "The draft calls the Guard one person and reverses the point: the Emperor is the sole recipient of the Guard’s loyalty.",
+      "id": "F02",
+      "rationale": "금의위 is the implied subject pledging loyalty; 오직 단 한 사람 identifies the Emperor.",
+      "replacement": "In this vast realm, they gave their absolute loyalty to one person alone: the Emperor.",
+      "severity": "critical",
+      "source": "이 광활한 천하에서 오직 단 한 사람. 황제에게 절대적인 충성을 바치는."
+    },
+    {
+      "confidence": 0.94,
+      "current": "No matter how much the Deputy Military Commissioner favors you",
+      "defect": "The draft changes 지휘사 into a deputy commissioner, altering the superior’s rank.",
+      "id": "F03",
+      "rationale": "지휘사 denotes the commander here, not a deputy; the sentence invokes that superior’s favor.",
+      "replacement": "No matter how much the Guard Commander favors you",
+      "severity": "major",
+      "source": "정 천호께서 제아무리 지휘사 영감의 총애를 받는다고 해도"
+    },
+    {
+      "confidence": 0.97,
+      "current": "They had to produce results for their superiors—even if that meant killing the prisoners horribly or leaving them half-dead.",
+      "defect": "“Half-dead” changes the threatened outcome from disabling the prisoners to nearly killing them.",
+      "id": "F04",
+      "rationale": "반병신으로 만들다 describes leaving someone severely disabled.",
+      "replacement": "They had to produce results for their superiors—even if that meant killing the prisoners horribly or leaving them half-crippled.",
+      "severity": "major",
+      "source": "참혹하게 죽이거나, 반병신으로 만들어서라도 상부에 올려보낼 결과물을 만들어야 한다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“As daring as ever. Just like ten years ago.”",
+      "defect": "The draft makes an approximate interval of more than ten years exact.",
+      "id": "F05",
+      "rationale": "십여 년 전 means a little over ten years ago.",
+      "replacement": "“As daring as ever. Just like a little over ten years ago.”",
+      "severity": "minor",
+      "source": "마치 십여 년 전처럼."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“This banquet… could become a Hongmen Banquet.”",
+      "defect": "The untranslated historical allusion leaves the final warning’s implication unclear to an English reader.",
+      "id": "F06",
+      "rationale": "홍문연 invokes a banquet used as cover for an attempt to kill a political rival; a brief note preserves the allusion without explaining it inside Hong Jin’s dialogue.",
+      "replacement": "“This banquet… could become a Hongmen Banquet.[^1]”\n\n[^1]: At the historical Feast at Hong Gate, a banquet became the setting for an attempt on Liu Bang’s life.",
+      "severity": "major",
+      "source": "“이번 연회가…… 홍문연(鴻門宴)이 될 수도 있겠네.”"
+    }
+  ],
+  "summary": "The draft changes a prisoner count, misidentifies who receives the Guard’s loyalty, and alters an official’s rank. It also softens an injury, loses a time cue, and leaves the closing historical allusion unexplained.",
+  "version": 1
+}

@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 879
-- Next chapter: 880
-- Current block: 875–879 (5/5)
-- Latest translation: `translations/0879.md`
-- Latest summary: `summaries/beats/0879.md`
-- Safe profiles through: chapter 879
+- Last completed: 880
+- Next chapter: 881
+- Current block: 880–884 (1/5)
+- Latest translation: `translations/0880.md`
+- Latest summary: `summaries/beats/0880.md`
+- Safe profiles through: chapter 880
 
 ## Current Block
 
-- In a Hangzhou inn, rumors that Prince Shangshan has secretly returned to the capital and that the Emperor has an heir stir fear of a purge. An undercover Embroidered Uniform Guard captain pays a laborer for details, then arrests the inn’s patrons and questions him about who spread the story.
-- After receiving a report, the Emperor and a hidden adviser suspect the East Depot, Jin Taekyung, or both deliberately spread the rumor. The Emperor says they will make it true and begins a great celebration for the birth of a new heir, though the chapter does not confirm that anyone is pregnant or that an heir has been born.
+- As rumors about Prince Shangshan’s return and the Emperor’s heir spread through the capital, the Embroidered Uniform Guard begins arresting and interrogating ordinary people. Jeong Hogun arrives with an imperial order to stop the interrogations and release the prisoners, then tells another Thousand Captain that the rumors are true and that the court will soon announce them publicly. He orders the Guard to secure the palace and its surroundings.
+- Jin Taekyung learns that Ma Sanbao spread the rumors using information Taekyung had given him. The Emperor’s swift public confirmation may buy Shangshan time, but Taekyung, Hong Jin, and Hyuk Mujin consider the possibility that the upcoming imperial banquet could be used to eliminate dissidents.
 
 ## Open Questions
 
 - Is Aehyang pregnant, and what does the Emperor intend for her and Shangshan?
+- Will the banquet be used to harm Shangshan or eliminate dissidents?
 - Did the Emperor or Dark Heaven use Blood Soul Gu against the late Emperor and the City Lord of Sichuan Province?
 - Will the Myriad-Poison Ring protect Shangshan from Blood Soul Gu?
-- Who deliberately spread the rumors, and are they true?
-- What is the Emperor’s long-standing target, and what is his great undertaking?
 
 ## Exceptional Decision
 
