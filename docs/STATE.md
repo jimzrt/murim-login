@@ -1,24 +1,20 @@
 # Translation State
 
-- Last completed: 894
-- Next chapter: 895
-- Current block: 890–894 (5/5)
-- Latest translation: `translations/0894.md`
-- Latest summary: `summaries/beats/0894.md`
-- Safe profiles through: chapter 894
+- Last completed: 895
+- Next chapter: 896
+- Current block: 895–899 (1/5)
+- Latest translation: `translations/0895.md`
+- Latest summary: `summaries/beats/0895.md`
+- Safe profiles through: chapter 895
 
 ## Current Block
 
-- After Jin Taekyung leaves, Jeok Cheongang tells the others that Hong Dao foresaw an approaching calamity and identified Jin as the Morning Star who would continue to shine through the darkness. Jeok believes there is no absolute justice in the Murim; his own cause is to protect those he still has and to try to make good choices. He trusts Jin to choose his own path and vows to remain at his side.
-- Jin goes to meet Ma Sanbao in a hidden palace refuge. Ma calmly offers to explain either the assassins he hired or So Gyo, leaving Jin startled.
+- Ma Sanbao explains that So Gyo first appeared during the coup more than ten years ago and, fighting alongside Baek Yeon, overwhelmed Cang Gong, leaving him gravely injured; Sanbao says her intervention made the coup succeed. He reveals that he chose Jin Taekyung and Jeok Cheongang as discreet allies because they would help Prince Shangshan and could oppose So Gyo, while formal Murim Alliance involvement would expose the restoration army and risk political fallout. Sanbao asks Jin to join the effort to restore order and place Prince Shangshan on the throne. Jin asks whether Sanbao still has the joint pledge he showed him, and Sanbao smiles at the implication.
 
 ## Open Questions
 
-- What accounts for the enemy's confidence that the decisive battle's outcome is assured?
-- Why did Ma Sanbao hire the assassins and bring them into the cause?
-- Is the old assassin Jin encountered truly the One-Legged Ghost Killer?
-- What will happen at the approaching grand banquet?
-- Who is So Gyo, and why did she release Jin?
+- Who is So Gyo, and what are her true aims and allegiance?
+- How much of her strength did So Gyo use during the coup and in her later encounters with Jin?
 
 ## Exceptional Decision
 
