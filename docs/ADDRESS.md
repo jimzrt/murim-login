@@ -1321,3 +1321,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 척 헤이글 | 진태경 | American operative allied with Jin | you | familiar and conversational | Hagel uses 자네 while asking Jin to manage Xiao Shen’s enthusiasm. |
 | 스켈레톤 킹 | 진태경 | close ally and friend | you | casual and familiar | The Skeleton King speaks to Jin informally during their reunion. |
 | 선지자 | 야마모토 겐지 | enemy addressing a Japanese S-rank Hunter | foolish servant | contemptuous and commanding | The Prophet calls Yamamoto a foolish servant as he tries to flee. |
+| 진태경 | 야마모토 | Alliance Leader to Japanese S-rank Hunter he sent on the mission | Yamamoto | blunt and familiar | Jin quietly says Yamamoto’s name while treating him. |
+| 야마모토 | 진태경 | Japanese Hunter to the Alliance Leader who rescued him | Chōsenjin | insulting | Yamamoto uses the ethnic slur as he regains the ability to speak. |
