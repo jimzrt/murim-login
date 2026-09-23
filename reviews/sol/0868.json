@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "With the imperial family involved, this couldn’t be treated as some personal act of rebellion.",
+      "defect": "“Personal act of rebellion” narrows the point. Taekyung fears the affair cannot be dismissed as one person’s misconduct, leaving his family exposed.",
+      "id": "F01",
+      "rationale": "개인의 일탈 means an individual transgression, not specifically an individual rebellion.",
+      "replacement": "With the imperial family involved, this couldn’t be dismissed as one person’s wrongdoing.",
+      "severity": "major",
+      "source": "황실과 관련된 이상, 이건 개인의 일탈로 취급될 수 있는 일이 아니다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The Director—the East Depot’s Chief Eunuch, the Chief Eunuch of the Seal—had urged his like-minded comrades to survive by becoming weeds like that.",
+      "defect": "The draft turns the specific Seal-Holding Eunuch title into two generic Chief Eunuch titles.",
+      "id": "F02",
+      "rationale": "장인태감 identifies the eunuch who holds the seal; 동창의 수장 separately identifies him as head of the East Depot.",
+      "replacement": "The Director, the East Depot’s head and its Seal-Holding Eunuch, had urged his like-minded comrades to survive by becoming weeds like that.",
+      "severity": "major",
+      "source": "동창의 수장인 장인태감(掌印太監). 즉 창공은 뜻을 함께하는 동지들에게 바로 그런 잡초가 되어 살아남기를 종용했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If you fall that deeply asleep while you’re supposed to be standing guard, they could do anything to you except pluck out a hair.",
+      "defect": "The draft makes Mujin the person intruders could touch. Taekyung means Mujin’s sleep would leave Taekyung himself unprotected, prompting Mujin’s mistaken sexual interpretation.",
+      "id": "F03",
+      "rationale": "Mujin immediately asks who has already laid a hand on the Captain, confirming that Taekyung is the implied target.",
+      "replacement": "If my bodyguard sleeps that soundly, they could lay hands on every part of me but a single hair.",
+      "severity": "critical",
+      "source": "호법이라는 새끼가 그 정도로 깊게 잠들면 털끝 하나 빼고 다 손댔겠다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But I had to hold back, thinking of the Embroidered Uniform Guard rushing over the moment they heard a commotion, like a rapid response team.",
+      "defect": "“Rapid response team” replaces the narrator’s conspicuous Buster Call reference with a generic comparison.",
+      "id": "F04",
+      "rationale": "버스터콜 is the narrator’s chosen pop-cultural image for the overwhelming response he expects.",
+      "replacement": "But I held back, imagining the Embroidered Uniform Guard receiving a Buster Call and rushing over the moment I caused a commotion.",
+      "severity": "major",
+      "source": "소란과 동시에 버스터콜을 받고 달려올 금의위를 생각해서 꾹 참아야 했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "If we helped them enthrone Prince Shangshan as the new Son of Heaven, we’d receive an appropriate reward.",
+      "defect": "“We” blurs the distinction between Taekyung, who is being asked to help, and Ma Sanbao’s faction, which offers the reward.",
+      "id": "F05",
+      "rationale": "자신들을 도와 refers to helping Ma Sanbao and his allies; the narrator is weighing the offer made to him.",
+      "replacement": "If I helped them enthrone Prince Shangshan as the new Son of Heaven, they would give me a fitting reward.",
+      "severity": "major",
+      "source": "자신들을 도와 상산왕을 새로운 천자로 옹립한다면, 그에 마땅한 보상이 주어질 것이라고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That’s true.”",
+      "defect": "Mujin is insisting that he was not asleep, not agreeing that his snoring woke the Emperor.",
+      "id": "F06",
+      "rationale": "His next line offers proof that he was awake, and his later question shows he does not know whether the Emperor woke up.",
+      "replacement": "“I’m serious.”",
+      "severity": "critical",
+      "source": "“진짭니다.”"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but several passages change who bears the risk, misstate an East Depot title, or lose a joke’s referent.",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # Jintae (진태)
 
-- **Safe through:** Chapter 867
+- **Safe through:** Chapter 868
 - **Aliases:** None
 - **Role:** Level 45 First Rate martial artist among the current Five Gates of Shanxi scions; acts as the group's spokesman at Honghwa Inn.
 - **Personality:** Pampered, mocking, and confrontational; responds to Taekyung's challenge with condescension rather than apology.

@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 867
-- Next chapter: 868
-- Current block: 865–869 (3/5)
-- Latest translation: `translations/0867.md`
-- Latest summary: `summaries/beats/0867.md`
-- Safe profiles through: chapter 867
+- Last completed: 868
+- Next chapter: 869
+- Current block: 865–869 (4/5)
+- Latest translation: `translations/0868.md`
+- Latest summary: `summaries/beats/0868.md`
+- Safe profiles through: chapter 868
 
 ## Current Block
 
-- A powerful, unnamed man crosses the imperial palace in the storm and reaches Qianqing Palace, where he learns that an assassin came before him, concealed poison, and killed himself before he could be captured. The man is Baek Yeon, summoned by the Emperor. In private, Baek confronts the Emperor for relying on opium despite their great undertaking and an old promise. The Emperor breaks his pipe to clear his head, says he will meet Prince Shangshan Zhu Bao tomorrow, and warns Baek that another incident like the assassination must not happen. Asked what he thinks of Jin Taekyung, Baek can only say that he does not know.
+- After Ma Sanbao asks for his help in enthroning Prince Shangshan, Jin Taekyung weighs the danger of joining a rebellion against the Emperor against the prospect of the Great Nation helping the Murim Alliance fight Dark Heaven. Ma says he knows far more about Dark Heaven than Taekyung suspects and promises an appropriate reward if Taekyung helps. As the Embroidered Uniform Guard arrives at the pavilion, Taekyung tells Hyuk Mujin to bring Prince Shangshan.
 
 ## Open Questions
 
-- What action do Ma Sanbao and Hong Jin intend to take against the current ruler, and when?
-- What does the Emperor intend for Prince Shangshan, and why was his audience postponed?
+- Will Taekyung agree to help enthrone Prince Shangshan, and what action would the plan require?
+- What does Ma Sanbao know about Dark Heaven, and what is his promised reward?
 - Who sent the assassin to Qianqing Palace, and what was the intended target?
-- What was the old promise between Baek Yeon and the Emperor, and what does Baek mean by restoring things to their proper place?
-- What happened between Hong Jin and the old eunuch, and why did Hong Jin leave the East Depot?
+- What does the Emperor intend for Prince Shangshan?
+- What happened between Hong Jin and the old East Depot Director, and why did Hong leave the East Depot?
 
 ## Exceptional Decision
 
@@ -25,6 +25,7 @@
 - Render 첩형 as “Constable” and 태감 as “Eunuch” in forms of address.
 - Render 앵속 as “opium” and 곰방대 as “long-stemmed tobacco pipe.”
 - Render 건청궁 as “Qianqing Palace.”
+- Render 창공 as “Director” for the East Depot’s head and 연판장 as “blood-signed pact.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
