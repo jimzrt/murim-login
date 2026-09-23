@@ -1,0 +1,136 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Prophet meets the hidden Hasasin in a desert, using an undetectable transparent barrier to conceal their base and displaying a hoard of Magic Gems and enchanted weapons. He absorbs ten unrefined S-rank Magic Gems and orders Al-Nizar and the Hasasin to prepare another judgment against apostates and Western heretics.",
+      "defect": "The summary introduces two unsupported certainties: the concealed area is not established as the Hasasin’s base, and the Prophet draws the Magic Gems into the robe rather than explicitly absorbing them.",
+      "id": "C01",
+      "rationale": "This preserves the actions shown in Chapter 745 without assigning an unconfirmed function to the location or an unconfirmed mechanism to the Magic Gems.",
+      "replacement": "The Prophet meets the hidden Hasasin in a desert, surrounds the meeting area with a transparent barrier undetectable by science or Magic, and reveals a hoard of Magic Gems and enchanted weapons. He draws ten unrefined S-rank Magic Gems into his robe and orders Al-Nizar and the Hasasin to prepare another judgment against apostates and Western heretics.",
+      "severity": "major",
+      "source": "checkpoint Plot, first paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Jin reaches Leviathan and uses One Annihilation, destroying its teeth, half its maw, and one eye, but suffering catastrophic recoil and acquiring the potentially permanent Broken Body debuff. A Top-Grade Potion removes his other conditions but cannot heal Broken Body or restore the lost combat attributes.",
+      "defect": "Broken Body is not identified as potentially permanent; the possible permanent consequence is attribute loss during recovery. The combat attributes are currently reduced by 50 points rather than already lost.",
+      "id": "C02",
+      "rationale": "Chapter 749 distinguishes the active debuff, its temporary 50-point penalty, and the separate risk of permanent attribute loss during recovery.",
+      "replacement": "Jin reaches Leviathan and uses One Annihilation, shattering its teeth and tearing away half its maw and one eye, but suffering catastrophic recoil and acquiring the Broken Body debuff. A Top-Grade Potion removes his other conditions but cannot remove Broken Body; while the debuff remains active, his combat-related attributes are reduced by 50 points, and recovery may permanently cost him some attributes.",
+      "severity": "major",
+      "source": "checkpoint Plot, fourth paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "His combat-related attributes are reduced by 50%, and recovery may involve permanent attribute loss.",
+      "defect": "The percentage sign changes the System mechanic: the panel specifies a decrease of 50, reinforced by the individual Strength decrease of 50.",
+      "id": "C03",
+      "rationale": "The replacement matches the numerical mechanic shown in Chapter 749 and avoids carrying an incorrect percentage into future continuity.",
+      "replacement": "His combat-related attributes are reduced by 50 points, and recovery may involve permanent attribute loss.",
+      "severity": "major",
+      "source": "checkpoint Continuity, Broken Body bullet"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Water Rescue Worker Title lasts twenty-four hours but is 20% less effective because of its incompatibility with Scorching Yang Qi.",
+      "defect": "The reading copy says the incompatibility reduces all of Jin’s power by 20%, not merely the effectiveness of the Title.",
+      "id": "C04",
+      "rationale": "This preserves the scope of the stated drawback instead of narrowing it to the Title’s effects.",
+      "replacement": "The Water Rescue Worker Title lasts twenty-four hours, but because it clashes with Scorching Yang Qi, all Jin’s power is reduced by 20%.",
+      "severity": "major",
+      "source": "checkpoint Continuity, Water Rescue Worker bullet"
+    },
+    {
+      "confidence": 0.94,
+      "current": "But when I heard Team Leader Choi’s next words, I realized that I had to play the Skeleton King.",
+      "defect": "“Play the Skeleton King” reads as though Jin must impersonate or portray him, obscuring the intended realization that Jin needs to deploy him.",
+      "id": "C05",
+      "rationale": "The replacement is natural in Jin’s conversational voice and clearly conveys that the Skeleton King will be needed for the emergency.",
+      "replacement": "But when I heard Team Leader Choi’s next words, I realized that I had to put the Skeleton King to work.",
+      "severity": "minor",
+      "source": "Chapter 746, closing scene"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“The magical-power distribution in the C-rank Gate in Sokcho, Gangwon Province, is rising rapidly. It’s currently at Stage Two…… entering Stage Three! It’s a mutation Gate!”",
+      "defect": "The line uses a six-period Korean-style ellipsis instead of the required ellipsis character.",
+      "id": "C06",
+      "rationale": "The binding Markdown style requires the single ellipsis character.",
+      "replacement": "“The magical-power distribution in the C-rank Gate in Sokcho, Gangwon Province, is rising rapidly. It’s currently at Stage Two… entering Stage Three! It’s a mutation Gate!”",
+      "severity": "minor",
+      "source": "Chapter 746, opening emergency report"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Ah.”",
+      "defect": "The dialogue uses a six-period Korean-style ellipsis.",
+      "id": "C07",
+      "rationale": "The replacement follows the required English ellipsis formatting without changing the hesitation.",
+      "replacement": "“…Ah.”",
+      "severity": "minor",
+      "source": "Chapter 746, protester rescue scene"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……?”",
+      "defect": "The reaction uses a six-period Korean-style ellipsis.",
+      "id": "C08",
+      "rationale": "The replacement preserves the silent confusion while following the required ellipsis style.",
+      "replacement": "“…?”",
+      "severity": "minor",
+      "source": "Chapter 746, Song Song handkerchief scene"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Well, I suppose I have to put up with it. If you think about it, I am partly responsible for this whole mess.”",
+      "defect": "The dialogue begins with a six-period Korean-style ellipsis.",
+      "id": "C09",
+      "rationale": "The replacement preserves Jin’s pause and conforms to the required punctuation.",
+      "replacement": "“…Well, I suppose I have to put up with it. If you think about it, I am partly responsible for this whole mess.”",
+      "severity": "minor",
+      "source": "Chapter 746, conversation with Song Song"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Are you going to spout bullshit too?”\n\n“……”\n\n“Just when I thought you were getting back to normal, what’s this? If you want to blame yourself that badly, kill those bastards first and then beat yourself up all you want.”",
+      "defect": "Jin’s silent response is represented with a six-period Korean-style ellipsis.",
+      "id": "C10",
+      "rationale": "The replacement retains the silent beat while using the required ellipsis character.",
+      "replacement": "“Are you going to spout bullshit too?”\n\n“…”\n\n“Just when I thought you were getting back to normal, what’s this? If you want to blame yourself that badly, kill those bastards first and then beat yourself up all you want.”",
+      "severity": "minor",
+      "source": "Chapter 746, Song Song rebuking Jin"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“……Susanoo.”",
+      "defect": "The dialogue uses a six-period Korean-style ellipsis.",
+      "id": "C11",
+      "rationale": "The replacement preserves the hesitant delivery and follows the packet’s binding punctuation rules.",
+      "replacement": "“…Susanoo.”",
+      "severity": "minor",
+      "source": "Chapter 747, Ministry of Defense control room"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Don’t worry about it. Everyone makes mistakes.”\n\n“……”\n\n“And this is only my personal opinion, but I suspect Shanghai may become the next target.”",
+      "defect": "Huginn’s silent response is represented with a six-period Korean-style ellipsis.",
+      "id": "C12",
+      "rationale": "The replacement retains the pause while conforming to the required ellipsis style.",
+      "replacement": "“Don’t worry about it. Everyone makes mistakes.”\n\n“…”\n\n“And this is only my personal opinion, but I suspect Shanghai may become the next target.”",
+      "severity": "minor",
+      "source": "Chapter 748, Michael and Huginn conversation"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> - **Agility**…\n\n.\n\n.\n\n.",
+      "defect": "The continuation marker is split into three period paragraphs outside the System blockquote, violating both the ellipsis rule and the requirement to keep consecutive System-panel content inside one window.",
+      "id": "C13",
+      "rationale": "This keeps the omitted continuation within the System panel and renders it with the required ellipsis character.",
+      "replacement": "> - **Agility**…\n>\n> …",
+      "severity": "minor",
+      "source": "Chapter 749, first System panel"
+    }
+  ],
+  "summary": "The reading copies remain coherent and preserve the packet’s major hooks, but the checkpoint summary overstates two actions and misstates two active mechanics. The reading copies also contain one ambiguous sentence and several formatting violations involving Korean-style ellipses and a System continuation marker outside its panel.",
+  "version": 1
+}

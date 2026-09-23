@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "As the world slowed around it, Leviathan could see and feel everything clearly.",
+      "defect": "The translation omits the realization that accompanies Leviathan’s slowed perception.",
+      "id": "F01",
+      "rationale": "깨달음과 함께 explicitly links the altered perception to a realization.",
+      "replacement": "As realization dawned and the world slowed around it, Leviathan could see and feel everything clearly.",
+      "severity": "minor",
+      "source": "깨달음과 함께 느려진 세상 속에서 레비아탄은 똑똑히 보고 느낄 수 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "That was what it believed until the instant its flames and teeth collided, bringing a violent impact that shook its head.",
+      "defect": "The possessive incorrectly makes the attacking flames Leviathan’s own.",
+      "id": "F02",
+      "rationale": "The flames belong to the incoming spear attack; only the teeth belong to Leviathan.",
+      "replacement": "That was what it believed until the instant the flames and its teeth collided, bringing a violent impact that shook its head.",
+      "severity": "critical",
+      "source": "화염과 이빨이 닿은 그 순간, 머리를 뒤흔들 만큼 강렬한 충격이 찾아오기 전까지는."
+    },
+    {
+      "confidence": 0.99,
+      "current": "People often say that life is all about one big chance.\n\nI agree. Especially because you can gamble everything on that one chance and lose your entire life on it.",
+      "defect": "Rendering 한 방 as “chance” erases the repeated one-shot/one-blow wordplay that connects the saying to the attack and its recoil.",
+      "id": "F03",
+      "rationale": "The source repeats 한 방 three times for a dark joke about staking everything on a single attack and being destroyed by that same attack.",
+      "replacement": "People often say that life comes down to one big shot.\n\nI agree—especially because when you go for that one shot, it can be the very shot that costs you your life.",
+      "severity": "major",
+      "source": "주위에서 흔히들 말한다. 원래 인생은 한 방이라고.\n\n동의한다. 한 방을 노리다가, 바로 그 한 방에 인생을 날려 먹을 수 있다는 점에서 특히."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The maw that had once cut an aircraft carrier in half with a single bite had been torn away by half, along with one of its eyes.",
+      "defect": "“Cut ... in half” invents a two-piece result; 토막 냈다 means the carrier was torn into pieces. The injury clause is also unnaturally phrased.",
+      "id": "F04",
+      "rationale": "The source describes Leviathan’s former feat as reducing a carrier to pieces, while half of its maw and one eye are now gone.",
+      "replacement": "The maw said to have once torn an aircraft carrier to pieces with a single bite had been ripped halfway off, along with one eye.",
+      "severity": "critical",
+      "source": "과거 한 입으로 항공모함을 토막 냈다던 아가리가 한쪽 눈과 함께 절반이나 뜯겨 나갔고"
+    },
+    {
+      "confidence": 0.99,
+      "current": "This was the effect of the **Water Rescue Worker** Title I had obtained after completing the Quest beneath Dongting Lake a few months ago.",
+      "defect": "The draft changes the Quest’s location from Dongting Lake to beneath the lake.",
+      "id": "F05",
+      "rationale": "동정호에서의 means “at Dongting Lake”; the source does not state that this Quest took place beneath it.",
+      "replacement": "This was the effect of the **Water Rescue Worker** Title I had obtained after completing the Quest at Dongting Lake a few months ago.",
+      "severity": "major",
+      "source": "몇 달 전, 동정호에서의 퀘스트를 완료하고 얻은 [수상 구조대원]의 칭호 효과."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Once activated, it lasted for only twenty-four hours. And because of its poor compatibility with the **Scorching Yang Qi** I had learned, it came with the massive penalty of reducing all its power by twenty percent.\n\nEven so, its effects were undeniable.",
+      "defect": "“Its power” makes the penalty sound limited to the Title’s effectiveness, whereas the source says all of Taekyung’s power is reduced by twenty percent.",
+      "id": "F06",
+      "rationale": "모든 위력이 20퍼센트나 감소 describes a broad reduction to all power, not merely a reduction in the aquatic Title’s own effect; the final clause says the effect is valuable enough to accept all those drawbacks.",
+      "replacement": "Once activated, it lasted for only twenty-four hours. Worse, because it clashed with the **Scorching Yang Qi** I had learned, all my power was reduced by a full twenty percent.\n\nEven so, the effect was worth every drawback.",
+      "severity": "major",
+      "source": "한번 발동 시 24시간 동안만 유지 가능한데다 내가 익힌 [열양지기]의 상성으로 인해 모든 위력이 20퍼센트나 감소 되는 막대한 패널티가 있지만, 그 모든 걸 감수할 만큼 효과는 확실했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "In that instant, I saw Leviathan’s eyes widened in shock.",
+      "defect": "The verb form after “saw” is ungrammatical.",
+      "id": "F07",
+      "rationale": "After the perception verb “saw,” the source action requires the bare infinitive “widen.”",
+      "replacement": "In that instant, I saw Leviathan’s eyes widen in shock.",
+      "severity": "minor",
+      "source": "정확히 반으로 쪼개진 파동이 양옆으로 흩어진 그 순간. 나는 볼 수 있었다.\n\n경악으로 부릅뜬 레비아탄의 눈동자를."
+    }
+  ],
+  "summary": "The draft contains two altered combat details, loses the one-shot wordplay, changes the Dongting Lake location, and misstates the Title’s twenty-percent penalty.",
+  "version": 1
+}

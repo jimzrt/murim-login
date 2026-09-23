@@ -2227,3 +2227,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 베이징 | **Beijing** | Chinese city targeted by the earlier terrorist attack. |
 | 상하이 | **Shanghai** | Chinese city Michael identifies as a likely next terrorist target. |
 | 마정 | **Magic Gem** | Monster power source; Leviathan seeks an untouched one. |
+| 공력 소진 | **Internal Energy Depletion** | System status abnormality caused by exhausting all internal energy. |
+| 빈혈 | **Anemia** | System status abnormality. |
+| 근육 파열 | **Muscle Tear** | System status abnormality caused by One Annihilation's recoil. |
+| 망가진 신체 | **Broken Body** | Special debuff that resists artificial removal and may cause permanent attribute loss. |
+| 수상 구조대원 | **Water Rescue Worker** | Title that enables rapid underwater movement for twenty-four hours. |
+| 최상급 포션 | **Top-Grade Potion** | Potion that removes ordinary status abnormalities and restores the body. |
