@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled English is mostly faithful, but it omits one source detail and weakens a specific image.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "569, paragraph beginning 처음 시도해 보는 것이라 그런지",
+      "current": "The pressure of having to create something exceptional while the current situation was on the verge of exploding may have contributed as well.",
+      "defect": "The source first says that the process had been far from easy, perhaps because this was the narrator’s first attempt. That detail is omitted before the sentence about pressure.",
+      "replacement": "Perhaps because this was my first attempt, the process so far had been far from easy. The pressure of having to create something exceptional while the current situation was on the verge of exploding may have contributed as well.",
+      "rationale": "The Korean explicitly states both that this is a first attempt and that the process has not been easy, then adds the pressure as a contributing factor.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "569, paragraph beginning 온통 새하얀 대리석으로 이루어진 복도",
+      "current": "At the far end of its long stretch stood a closed door.",
+      "defect": "“Long stretch” weakens the source’s image of a hallway that continues endlessly.",
+      "replacement": "At the end of the endlessly stretching hallway stood a closed door.",
+      "rationale": "The Korean says 끝없이 이어진 복도, describing the hallway as extending without end; the assembled English only calls it long.",
+      "confidence": 0.94
+    }
+  ]
+}
