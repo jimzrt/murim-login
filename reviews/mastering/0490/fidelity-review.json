@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“No, hold on. Excuse me.”\n\n“Excuse you?”",
+      "defect": "The Korean repeats 저기요, meaning “excuse me,” while the current version adds “hold on” and changes the repeated response into the confrontational idiom “Excuse you?” This alters the deadpan repetition and joke timing.",
+      "id": "F01",
+      "rationale": "The source uses the same address in both lines: “아니, 저기요.” / “저기요?” The repetition is part of the exchange before Jin pretends Mungyeong is asking for directions.",
+      "replacement": "“No, excuse me.”\n\n“Excuse me?”",
+      "severity": "minor",
+      "source": "Lines 21–23"
+    },
+    {
+      "confidence": 0.93,
+      "current": "The Quest I had accepted by accident didn’t contain any real information either.",
+      "defect": "“Real” adds a qualifier that the source does not establish. The Korean says the quest contained no information at all.",
+      "id": "F03",
+      "rationale": "어떤 정보도 나와 있지 않다 means that no information is displayed, without distinguishing real information from some other kind.",
+      "replacement": "The Quest I had accepted by accident didn’t contain any information either.",
+      "severity": "minor",
+      "source": "Line 61"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Then a brief memory flashed through my mind like lightning.",
+      "defect": "The current wording omits that the memory was from only a short while earlier.",
+      "id": "F04",
+      "rationale": "얼마 되지 않은 짤막한 기억 explicitly marks the memory as recent as well as brief.",
+      "replacement": "Then a brief, recent memory flashed through my mind like lightning.",
+      "severity": "minor",
+      "source": "Lines 307–308"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but a few dialogue and detail shifts introduce small source-fidelity losses.",
+  "version": 1
+}

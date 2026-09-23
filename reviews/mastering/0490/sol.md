@@ -10,7 +10,7 @@ I still had plenty of questions, and I wanted to move somewhere else and keep ta
 
 “…What? We’re done? You haven’t even told me what kind of training this is!”
 
-“You’ll naturally find out tomorrow.”
+“You’ll find out tomorrow.”
 
 “It’s already the hour of the Pig.[^1] It’ll be midnight soon. Can’t you just tell me and get it over with?”
 
@@ -30,7 +30,7 @@ I looked back and forth between Mungyeong and the short sword peeking out from h
 
 “Just keep going straight, then turn right.”
 
-“It seems that wasn’t what you were trying to say.”
+“That doesn’t seem like what you were about to say.”
 
 “I thought you might not know the way, so I figured I’d better make sure. Hehe.”
 
@@ -38,7 +38,7 @@ I looked back and forth between Mungyeong and the short sword peeking out from h
 
 “Yes, sir. Have a peaceful night.”
 
-A little while later, after confirming that Mungyeong’s back had completely disappeared from sight, I muttered under my breath.
+A little while later, once Mungyeong had completely disappeared from sight, I muttered under my breath.
 
 “Goddammit…”
 
@@ -46,7 +46,7 @@ It was one problem after another.
 
 Just when I thought I had finally gotten used to Jeok Cheongang’s methods, now I had to start worrying about the Slaughter Saint’s mood too.
 
-My eyes were already going dark just thinking about the hardships waiting ahead.
+The road ahead already looked bleak.
 
 *Actually, the Old Master is much better.*
 
@@ -148,7 +148,7 @@ I glanced up at the bright moon and started walking.
 
 *I’ll find him soon enough. There are plenty of people around.*
 
-That comfortable thought vanished without a trace less than half an hour later.
+That complacent thought vanished without a trace less than half an hour later.
 
 “You haven’t seen him?”
 
@@ -156,7 +156,7 @@ That comfortable thought vanished without a trace less than half an hour later.
 
 “If you’re lying to me…”
 
-“Why would I lie to the Captain? If I didn’t want to get beaten to death, I’d make up things that never happened and tell you.”
+“Why would I lie to the Captain? If I didn’t want to get beaten to death, I’d make something up even if I hadn’t seen anything.”
 
 “What about Young Hero Cheong? You haven’t seen Young Hero Cheong either?”
 
@@ -190,7 +190,7 @@ I searched everywhere for the missing Jeok Cheongang, but no matter whom I stopp
 
 “Hm. One cannot ignore a friend’s summons. What is it?”
 
-“Our Old Master—no, our Master. Do you know where he is?”
+“My Old—no, my Master. Do you know where he is?”
 
 “Sir Jeok? No idea. I haven’t seen him once since he arrived here.”
 
@@ -206,7 +206,7 @@ I searched everywhere for the missing Jeok Cheongang, but no matter whom I stopp
 
 “…What about the silver?”
 
-“I’ll pay you later. But if you find my Master’s location, I’ll give you double.”
+“I’ll pay you later. But if you find my Master, I’ll give you double.”
 
 “T-Twenty nyang! Beggerrr!”
 
@@ -286,7 +286,7 @@ That was when it happened.
 >
 > - Your **Scorching Yang Qi** resists the poison!
 >
-> - If you do not take action quickly, the Status condition **Full-Body Paralysis** will activate!
+> - If you do not take action quickly, the status abnormality **Full-Body Paralysis** will activate!
 
 …?
 
@@ -294,7 +294,7 @@ No, fuck. What the hell was this?
 
 Forgetting that my body was slowly becoming paralyzed, I stared blankly at the System window. Then a brief memory flashed through my mind like lightning.
 
-*You’ll naturally find out tomorrow.*
+*You’ll find out tomorrow.*
 
 *It’s already the hour of the Pig. It’ll be midnight soon. Can’t you just tell me and get it over with?*
 
@@ -342,7 +342,7 @@ And once my Scorching Yang Qi—the natural counter to poison—joined in, the p
 >
 > - All traces of **Potent Paralysis Powder** have disappeared from your body!
 >
-> - All Status conditions have been cleared!
+> - All status abnormalities have been cleared!
 
 “…Phew. You crazy old man.”
 
@@ -354,7 +354,7 @@ He had set a trap like this the moment midnight passed. I never imagined that �
 
 At first, I had thought it was an ambush by Dark Heaven.
 
-Was this what he meant by turning me into a true Murim martial artist? I was already exhausted, and the sudden attack had sent my heart pounding and made my legs go weak. With a deep sigh, I collapsed onto the bed.
+Was this what he meant by turning me into a true Murim martial artist? I was already exhausted, and the sudden attack had left my heart pounding and my legs weak. With a deep sigh, I collapsed onto the bed.
 
 *Phut-phut!*
 
