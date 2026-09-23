@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 829
-- Next chapter: 830
-- Current block: 825–829 (5/5)
-- Latest translation: `translations/0829.md`
-- Latest summary: `summaries/beats/0829.md`
-- Safe profiles through: chapter 829
+- Last completed: 830
+- Next chapter: 831
+- Current block: 830–834 (1/5)
+- Latest translation: `translations/0830.md`
+- Latest summary: `summaries/beats/0830.md`
+- Safe profiles through: chapter 830
 
 ## Current Block
 
-- The Doppelganger repeatedly dies and regenerates while the Skeleton King cuts it down, but Jin’s spear and blue-white flames reduce it to a Level 10 shadow. Jin confirms its true essence with the Eye of Truth and pins it down, furious over the devastation it caused. When the Doppelganger begs for its life and blames the king—Demon King Asmodeus—Jin’s anger wavers.
+- Jin releases enough pressure for the Level 10 shadow that is the Doppelganger’s true form to speak, then demands everything it knows about Asmodeus and the coming danger. The Doppelganger insists its master overcame the gods’ curse and will return to claim the earth and water. As Jin asks whether Asmodeus is still alive, he is swept into a vision of a devastated world overrun by monsters, a memorial for fallen Hunters, and a final stand led in his name as the World Hunter Federation’s Alliance Leader. Asmodeus appears before the assembled Hunters, and the vision collapses.
 
 ## Open Questions
 
 - Is Demon King Asmodeus truly dead, and will he return?
-- Are the Doppelganger’s claims about Asmodeus and the temple true?
-- What caused the radiance that filled the temple?
+- Are the Doppelganger’s claims about Asmodeus true?
+- What caused Jin’s vision, and does it depict a future that can be prevented?
 
 ## Exceptional Decision
 
