@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But rising from the center of the blackened ash was Jin Taekyung—and he wasn’t alone.",
+      "defect": "The draft makes Jin's company the point of the sentence. The source says the screams and System alerts were not the only things awaiting him as he rose.",
+      "id": "F01",
+      "rationale": "The Lycanthrope Champion's attack is introduced as another thing awaiting Jin, not as someone rising alongside him.",
+      "replacement": "But the screams and System alerts weren’t all that awaited Jin Taekyung as he rose from the center of the blackened ash.",
+      "severity": "critical",
+      "source": "그러나 까맣게 물든 잿더미의 중심에서 몸을 일으키는 진태경을 기다리고 있던 것은 비단 그뿐만이 아니었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Prophet. Where are you?”",
+      "defect": "The draft addresses the Prophet directly, though Jin is asking the Manticore where the Prophet is.",
+      "id": "F02",
+      "rationale": "The Manticore has just referred to the Prophet and answers Jin's question about that person's whereabouts.",
+      "replacement": "“The Prophet. Where is he now?”",
+      "severity": "critical",
+      "source": "“선지자. 지금 어디 있어?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“What the hell are you talking about? We’ll have a much better chance if we each take the strongest one we can.”",
+      "defect": "The draft turns a strongest-versus-strongest matchup into both allies trying to take the strongest opponent.",
+      "id": "F03",
+      "rationale": "제일 센 놈끼리 붙어야 describes matching the strongest fighters against each other, which explains the Skeleton King's assignment.",
+      "replacement": "“What the hell are you talking about? We’ve got a much better chance if the strongest fight the strongest.”",
+      "severity": "major",
+      "source": "“그게 무슨 개소리냐. 제일 센 놈끼리 붙어야 훨씬 승산이 있지.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“He didn’t run all the way away, at least. He’s back there with the front ranks.”",
+      "defect": "The draft omits Jin's sarcastic suggestion that Yamamoto may have had a shred of conscience.",
+      "id": "F04",
+      "rationale": "그나마 양심은 있었는지 is a hedged, mocking judgment of Yamamoto, not merely a description of how far he fled.",
+      "replacement": "“Maybe he had a shred of conscience left, because he didn’t run off entirely. He’s back there in the front ranks.”",
+      "severity": "major",
+      "source": "“그나마 양심은 있었는지, 아예 도망치진 않고 저기 뒤로 빠져 있네. 선두 대열.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "—So it was you. The human that one spoke of.",
+      "defect": "“That one” loses the Manticore's deferential reference to its superior and reads unnatural in English.",
+      "id": "F05",
+      "rationale": "그분 is a respectful reference to the unidentified figure, rendered “that person” in the supplied glossary.",
+      "replacement": "—So it’s you. The human that person spoke of.",
+      "severity": "major",
+      "source": "- 그래, 너로구나. 그분께서 말씀하셨던 인간이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Dark crimson magical power burst through the monsters’ cries as they burned alive in the flames.",
+      "defect": "The draft replaces the magic's physical path between burning monsters with the nonsensical image of it bursting through their cries.",
+      "id": "F06",
+      "rationale": "몬스터들의 사이로 locates the eruption among the monsters, immediately before its pressure extinguishes the flames.",
+      "replacement": "Dark crimson magical power burst from between the monsters shrieking as they burned in the flames.",
+      "severity": "major",
+      "source": "불길 속에서 괴성을 내지르며 타들어 가는 몬스터들의 사이로 검붉은 마력이 뿜어져 나왔다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“It’s stronger than I expected. One of them, especially, is practically a named monster even among the S-ranks.”",
+      "defect": "“It’s” prematurely singles out one monster; Jin first assesses the opponents collectively, then distinguishes one of them.",
+      "id": "F07",
+      "rationale": "그중에서도 (‘among them’) makes the first assessment apply to the group.",
+      "replacement": "“They’re stronger than I expected. One of them, especially, is practically a named monster even among the S-ranks.”",
+      "severity": "minor",
+      "source": "“생각 이상으로 강해. 그중에서도 특히 한 놈은 S급 중에서도 네임드 수준이고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> [Lv. 130 Lycanthrope Champion]\n>\n> [Lv. 140 Death Knight Legion Commander]\n>\n> [Lv. 148 Manticore Lord]",
+      "defect": "The game notices retain square brackets and lack the required shared System-panel heading.",
+      "id": "F08",
+      "rationale": "These three consecutive level notices form one actual game System panel under the packet's Markdown rules.",
+      "replacement": "> **System**\n> Lv. 130 Lycanthrope Champion\n> Lv. 140 Death Knight Legion Commander\n> Lv. 148 Manticore Lord",
+      "severity": "minor",
+      "source": "[Lv.130 라이칸스로프 챔피언]\n\n[Lv.140 데스나이트 군단장]\n\n[Lv.148 만티코어 로드]"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Was it because of the martial prowess I’d shown, or my **[Intimidation]**?",
+      "defect": "The draft encloses a UI attribute in square brackets despite the packet's formatting rule.",
+      "id": "F09",
+      "rationale": "Intimidation is the established attribute name, but UI terms must not retain enclosing square brackets.",
+      "replacement": "Was it because of the martial prowess I’d shown, or my Intimidation?",
+      "severity": "minor",
+      "source": "내가 보인 무위와 [위압] 때문에?"
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it reverses one encounter beat, changes who is being addressed near the end, and loses several tactical and character cues.",
+  "version": 1
+}

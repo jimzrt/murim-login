@@ -2320,3 +2320,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일꾼 스콜피온 | **Worker Scorpion** | System label for a scorpion type. |
 | 정예 스콜피온 | **Elite Scorpion** | System label for a scorpion type. |
 | 스콜피온 킹 | **Scorpion King** | Level 140 monster. |
+| 라이칸스로프 챔피언 | **Lycanthrope Champion** | S-rank monster commander. |
+| 데스나이트 군단장 | **Death Knight Legion Commander** | S-rank monster commander. |
+| 만티코어 로드 | **Manticore Lord** | S-rank monster commander. |

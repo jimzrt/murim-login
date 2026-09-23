@@ -1,26 +1,25 @@
 # Translation State
 
-- Last completed: 804
-- Next chapter: 805
-- Current block: 800–804 (5/5)
-- Latest translation: `translations/0804.md`
-- Latest summary: `summaries/beats/0804.md`
-- Safe profiles through: chapter 804
+- Last completed: 805
+- Next chapter: 806
+- Current block: 805–809 (1/5)
+- Latest translation: `translations/0805.md`
+- Latest summary: `summaries/beats/0805.md`
+- Safe profiles through: chapter 805
 
 ## Current Block
 
-- The arrival of the S-rank monsters renews the battle. Jin Taekyung restores the Hunters’ morale with the effect of One Against a Thousand, keeps command, and assigns Magic Johnson to protect the force from aerial threats while Team Leader Choi holds the front. Taekyung uncovers and attacks the Scorpion King, then charges toward the S-rank monsters as their armies advance across the ground and sky.
+- Jin Taekyung charges the three S-rank commanders, tests their strength, and wounds the Manticore Lord, but their coordinated counterattack injures his thigh. The Skeleton King joins him, and the two choose opponents as the monster army advances. They discover Yamamoto has retreated to the front ranks beside Choi Minwoo. While the Skeleton King raises a thousand undead, the monster army breaks through their small defensive line. Jin confronts the Manticore Lord, which speaks of The Prophet as being everywhere and nowhere; Jin prepares to attack it and the others.
 
 ## Open Questions
 
-- Where is The Prophet, and when will he enter the battle?
-- What are the identities and capabilities of the other S-rank monsters?
-- How will the battle against the advancing ground and aerial forces unfold?
+- Where is The Prophet, and how is he directing the monster army?
+- Can the defenders hold against the monster force, including its aerial monsters?
+- What will happen in the fights against the three S-rank commanders?
 
 ## Exceptional Decision
 
 - Keep magical power distinct from mana.
-- Render 강기 as Force, distinct from Sword Force.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

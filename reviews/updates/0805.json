@@ -1,0 +1,106 @@
+{
+  "chapter": 805,
+  "files": {
+    "characters/Hwangso.md": "26fd60a54bcc0ab64d181c257e9129f8888dd5e1950cdee8f759a8ded549f63c",
+    "characters/Jin Taekyung.md": "6f0a48cacfd820a450ff794a162498016e13a8d49182ff6ed281538c75f0312b",
+    "characters/Jintae.md": "41726de2756f61111d1099b4f887bfa6b5667eed3b318f89713336c7ebebb3b3",
+    "characters/Team Leader Choi.md": "ec3ed3f2d007404c688110aba7a1a354a063d993000295c449faab3f6a08b587",
+    "characters/The Prophet.md": "cd010db6a37db1a80ff8c9041b25bed83bba0704dff5f2c7512b9f762eac1b39",
+    "characters/Yamamoto.md": "84be21a09ea2f4f2165746695b976cd8be8cbcc07e6fede3ad73bcfc8edbfb63",
+    "docs/ADDRESS.md": "b08d088bb854d874cf14b9d829212aacd492ea82ebbf8401c98f99ad170f3b7d",
+    "docs/CONTEXT.json": "d31bddce17275138b81582993c5734ddb4139de17fd8a2e1f437b22dbaf29b94",
+    "docs/NAMES.md": "49d64f850f225225ac5059ed4beae474d68243ea74bfdfa7aea76b02e0387247",
+    "docs/STATE.md": "67b1692e3a10f0ae6a0629dad0221914eecc3aace3cfe9f68ffe46c288cb6741",
+    "summaries/beats/0805.md": "228c4e13afc909d8a52b75a2e572f009e53841ccca70b6517bd91e05f1ebb792"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "선지자",
+        "kinship": "enemy commander addressed by Jin",
+        "normal_address": "The Prophet",
+        "notes": "Jin asks where The Prophet is while confronting the Manticore Lord.",
+        "speaker": "진태경",
+        "speech_level": "blunt and informal"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "enemy combatant",
+        "normal_address": "you",
+        "notes": "The Manticore Lord recognizes Jin as the human The Prophet spoke of.",
+        "speaker": "만티코어 로드",
+        "speech_level": "composed and formal"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin Taekyung is fighting in the Rub’ al Khali against a monster force exceeding ten thousand; he is wounded in the thigh by the Manticore Lord.",
+        "Jin identifies the Manticore Lord as exceptionally strong and cunning, and a coordinated attack by it, the Lycanthrope Champion, and the Death Knight Legion Commander can overwhelm his defense.",
+        "The Skeleton King can maintain a force of one thousand undead while fighting and directing them; he chooses to fight the Death Knight while Jin faces the Manticore Lord.",
+        "The monster army obeys an unseen authority and bypasses Jin and the Skeleton King to attack the Hunters; the Prophet’s location remains unknown.",
+        "Jin trusts Magic Johnson and the others to handle the aerial monsters; Yamamoto has withdrawn to the front ranks beside Choi Minwoo."
+      ],
+      "plot": [
+        "Jin Taekyung charges the three S-rank commanders, tests their strength, and wounds the Manticore Lord, but their coordinated counterattack injures his thigh. The Skeleton King joins him, and the two choose opponents as the monster army advances. They discover Yamamoto has retreated to the front ranks beside Choi Minwoo. While the Skeleton King raises a thousand undead, the monster army breaks through their small defensive line. Jin confronts the Manticore Lord, which speaks of The Prophet as being everywhere and nowhere; Jin prepares to attack it and the others."
+      ],
+      "translation_decisions": [
+        "Keep 마력 as “magical power,” distinct from mana.",
+        "Render 라이칸스로프 챔피언 as “Lycanthrope Champion,” 데스나이트 군단장 as “Death Knight Legion Commander,” and 만티코어 로드 as “Manticore Lord.”"
+      ]
+    },
+    "chapter": 805,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and pursues Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "Jin commands roughly one thousand Hunters against a monster force exceeding ten thousand in the Rub’ al Khali.",
+        "The three S-rank commanders are the Lycanthrope Champion, Death Knight Legion Commander, and Manticore Lord; the Manticore Lord is especially strong and cunning.",
+        "Jin is wounded in the thigh by the Manticore Lord.",
+        "The Skeleton King can maintain a thousand undead while fighting and directing them; he is taking on the Death Knight while Jin faces the Manticore Lord.",
+        "The monster army obeys an unseen authority and is breaking through the defenders’ small line.",
+        "The Prophet’s location is unknown; the Manticore Lord says he is everywhere and nowhere.",
+        "Jin trusts Magic Johnson and the others to defend against the aerial monsters.",
+        "Yamamoto has withdrawn to the front ranks beside Choi Minwoo."
+      ],
+      "continuity_sources": [
+        804,
+        805
+      ],
+      "open_questions": [
+        "Where is The Prophet, and how is he directing the monster army?",
+        "Can the defenders hold against the monster force, including its aerial monsters?",
+        "What will happen in the fights against the three S-rank commanders?"
+      ],
+      "safe_through": 805,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Lycanthrope Champion",
+        "korean": "라이칸스로프 챔피언",
+        "notes": "S-rank monster commander."
+      },
+      {
+        "english": "Death Knight Legion Commander",
+        "korean": "데스나이트 군단장",
+        "notes": "S-rank monster commander."
+      },
+      {
+        "english": "Manticore Lord",
+        "korean": "만티코어 로드",
+        "notes": "S-rank monster commander."
+      },
+      {
+        "english": "Scorpion King",
+        "korean": "스콜피온 킹",
+        "notes": "S-rank monster Jin killed with a surprise attack."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}

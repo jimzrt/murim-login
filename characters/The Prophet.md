@@ -1,6 +1,6 @@
 # The Prophet (선지자)
 
-- **Safe through:** Chapter 804
+- **Safe through:** Chapter 805
 - **Aliases:** Muninn (무닌)
 - **Role:** The Prophet is a monster posing as the leader of the revived Hasasin, whose power includes stopping transport vehicles and absorbing blood and a pale mist from the dead.
 - **Personality:** Religiously fervent, commanding, and shrouded in an intentionally indistinct identity.
