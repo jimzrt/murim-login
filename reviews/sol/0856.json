@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Eleven days passed in the blink of an eye after we left the Sichuan Tang Clan.",
+      "defect": "Changes the elapsed time from seven days and nights to eleven days. The eleventh dawn occurs later in the chapter.",
+      "id": "F01",
+      "rationale": "칠 주야 means seven days and nights; 열한 번째 서광 later identifies the eleventh dawn.",
+      "replacement": "Seven days and nights passed in the blink of an eye after we left the Sichuan Tang Clan.",
+      "severity": "critical",
+      "source": "사천당가를 떠난 직후, 칠 주야라는 시간이 눈 깜짝할 사이에 흘러갔다."
+    },
+    {
+      "confidence": 0.89,
+      "current": "“Yes. It’s taking longer than I expected.”",
+      "defect": "Makes the reply about elapsed travel time rather than how much faster they must go.",
+      "id": "F02",
+      "rationale": "Jeok Cheongang has just asked whether they must increase their speed even beyond their current pace.",
+      "replacement": "“Yes. Faster than I thought we’d have to.”",
+      "severity": "minor",
+      "source": "“네. 생각했던 것 이상이에요.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "But even after a long time had passed and one of his descendants inherited the throne, nothing changed.",
+      "defect": "Changes a direct child of the founding ruler into an unspecified descendant.",
+      "id": "F03",
+      "rationale": "그의 피를 이은 자식 중 하나 specifies one of his children, not merely a later descendant.",
+      "replacement": "But even after many years had passed and one of his own children inherited the throne, nothing changed.",
+      "severity": "critical",
+      "source": "그러나 그로부터 긴 세월이 흐르고, 그의 피를 이은 자식 중 하나가 황위를 이어받은 후에도 바뀌는 것은 아무것도 없었다."
+    }
+  ],
+  "summary": "The draft changes the elapsed time and the founder’s family relationship, and misdirects one exchange about the pace they need to maintain.",
+  "version": 1
+}
