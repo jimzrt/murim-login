@@ -1,0 +1,99 @@
+{
+  "chapter": 901,
+  "files": {
+    "characters/Baek Yeon.md": "36303fbbf22a8571823d825afb3798c15782309e2fd06dc0b2eaa70de3354e94",
+    "characters/Divine Physician.md": "47bb347a7c127936f379d26c92ebebdffa37c6a718814d982ee32edefbe3a84a",
+    "characters/Jeok Cheongang.md": "2012ab50c420f72b85b7386e7809154c50d73071ee3e962231f9d8d2a0688411",
+    "characters/Jin Taekyung.md": "57312238ee5704f38527db1fd1893fa3ef2aeb131254900133ab5d2b50214688",
+    "characters/Jintae.md": "16c14b4dd8d1c5bb17a8a4df8d67e44720c737a4c8fd9ed163fc113d2240eb7a",
+    "characters/Ma Sanbao.md": "4cb736390b4ce4056fa63e83d50470ecbd18196adf7cde31486aa0e1d79c2221",
+    "characters/Prince Shangshan.md": "97504749daea4118906ad332fe3f6b371499ab9e5ca88f34aa17522683ebbeeb",
+    "characters/So Gyo.md": "21ef60378b93b86ac360c3cd68f19a6f02e07118983e5ec1c398a339a8df4f3a",
+    "characters/Wei Zhong.md": "e94f50567df38fb2b8b8f052e68ebaca2c9d101ac951cf27cbfb4aadaf840b73",
+    "docs/ADDRESS.md": "852d5f73b9e4549b425f01d120cf2dd1002fa4e0bfe8e43a35aab4634191e961",
+    "docs/CONTEXT.json": "99dd0cb916f299580dbb8435c47be47cfaedbd689656dcd455c21c05941d7d5c",
+    "docs/STATE.md": "3ceadef81024b1b79a81db7425b4f608c801392c5c8401770c17ee5cc872eb17",
+    "summaries/beats/0901.md": "2d6c8597e4ced18f7cb55b22e909c0b26a59a7b4f5456a83db4bb1a094b4edf4"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "위충",
+        "kinship": "Emperor addressing the East Depot’s Seal-Holding Eunuch",
+        "normal_address": "Cang Gong",
+        "notes": "The Emperor addresses Wei Zhong by his East Depot title while asking after his recovery.",
+        "speaker": "황제",
+        "speech_level": "familiar and authoritative"
+      },
+      {
+        "addressee": "황제",
+        "kinship": "East Depot’s Seal-Holding Eunuch addressing the Emperor",
+        "normal_address": "Your Majesty",
+        "notes": "Wei Zhong uses 폐하 while indirectly challenging the Emperor.",
+        "speaker": "위충",
+        "speech_level": "formal and deferential, with pointed flattery"
+      },
+      {
+        "addressee": "위충",
+        "kinship": "imperial commander confronting the East Depot’s Seal-Holding Eunuch",
+        "normal_address": "Wei Zhong",
+        "notes": "Baek Yeon uses Wei Zhong’s name to order him to stop speaking.",
+        "speaker": "백연",
+        "speech_level": "stern and direct"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Emperor forgives Jin Taekyung for openly disrespecting him; Taekyung suspects this response has a significant explanation that remains unknown.",
+        "Wei Zhong, addressed as Cang Gong, is the East Depot’s Seal-Holding Eunuch and has recovered enough from a prolonged illness to move about and attend the banquet.",
+        "Wei Zhong and the Emperor exchange courteous, pointed remarks and have opposing views of who should inherit the throne; neither states his preferred heir.",
+        "The Emperor says Prince Shangshan and the pregnant Consort are on their way to the banquet.",
+        "Taekyung judges Wei Zhong more powerful than anyone else present, even Baek Yeon, and believes Wei Zhong and So Gyo are roughly evenly matched."
+      ],
+      "plot": [
+        "After Jin Taekyung openly mocks the Emperor, the Emperor forgives him for his disrespect, prompting Taekyung to suspect the response reveals something important. Wei Zhong, the East Depot’s Seal-Holding Eunuch known as Cang Gong, arrives after a long recovery and trades courteous but pointed remarks with the Emperor. Their exchange exposes their opposing views of the imperial succession, while Taekyung judges Wei Zhong an exceptionally powerful master. The Emperor says Prince Shangshan and the pregnant Consort are on their way; Taekyung then asks to move seats beside Wei Zhong, ostensibly because the raised seats offer more side dishes."
+      ],
+      "translation_decisions": [
+        "Render 東廠掌印太監 as “Seal-Holding Eunuch of the East Depot”; retain “Cang Gong” for 창공."
+      ]
+    },
+    "chapter": 901,
+    "context": {
+      "active_continuity": [
+        "The imperial birthday banquet is underway; the Emperor has arrived after years of seclusion and taken his place on the throne.",
+        "The Emperor has forgiven Jin Taekyung for openly mocking him; Taekyung suspects the pardon has a hidden explanation.",
+        "Wei Zhong, known as Cang Gong, is the East Depot’s Seal-Holding Eunuch and has recovered enough to attend the banquet.",
+        "Wei Zhong and the Emperor have opposing views of the succession, but neither has named his preferred heir.",
+        "Prince Shangshan and the pregnant Consort are on their way to the banquet."
+      ],
+      "continuity_sources": [
+        900,
+        901
+      ],
+      "open_questions": [
+        "Why did the Emperor forgive Taekyung, and what did Taekyung realize from that response?",
+        "Why might the Emperor be smoking opium?",
+        "Who does each side regard as the rightful imperial successor?"
+      ],
+      "safe_through": 901,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [
+      {
+        "aliases": [],
+        "english": "Wei Zhong",
+        "filename": "Wei Zhong.md",
+        "korean": "위충",
+        "personality": "Politically perceptive and self-possessed, he uses courteous remarks and veiled barbs to challenge the Emperor.",
+        "relationships": "He has a long-standing connection to the Emperor, with whom he exchanges polite but adversarial remarks about the succession.",
+        "role": "Wei Zhong, addressed as Cang Gong, is the East Depot’s Seal-Holding Eunuch and has recovered enough from a prolonged illness to move about.",
+        "voice": "He speaks in formal, deferential language, using repeated praise and respectful address to deliver pointed challenges."
+      }
+    ],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}

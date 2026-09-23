@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Emperor reacted first, then Jin Taekyung—and Baek Yeon was faster than either of them.",
+      "defect": "Reverses the Emperor’s and Jin Taekyung’s reaction order.",
+      "id": "F01",
+      "rationale": "The source places Jin ahead of the Emperor and Baek Yeon ahead of Jin.",
+      "replacement": "Jin Taekyung reacted a little faster than the Emperor, and Baek Yeon faster still.",
+      "severity": "critical",
+      "source": "황제보다 진태경이, 그리고 진태경보다 백연의 반응이 조금 더 빨랐다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Don’t concern yourself with Cang Gong. The two of them are already on their way here.”",
+      "defect": "Makes Cang Gong the object of concern instead of the person being told not to worry.",
+      "id": "F02",
+      "rationale": "The Emperor is answering Cang Gong’s question about the two absent members of the imperial family.",
+      "replacement": "“Cang Gong, you needn’t concern yourself. The two of them are already on their way here.”",
+      "severity": "critical",
+      "source": "“창공은 신경 쓸 것 없다. 두 사람 또한 이미 이곳으로 오고 있으니.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Though obscured by the Emperor’s aura, he too was a master who had stepped into the realm of the superhuman, a Supreme Peak master.",
+      "defect": "Suggests an unnamed man is obscured by the Emperor’s aura; the source says the Emperor’s status overshadows his own martial ability.",
+      "id": "F03",
+      "rationale": "The Emperor is the Supreme Peak master described here, and 황제라는 후광 refers to the prestige of his title.",
+      "replacement": "His status as Emperor overshadowed it, but he too had entered the realm of the superhuman. He was a Supreme Peak master.",
+      "severity": "critical",
+      "source": "비록 황제라는 후광에 가려져 있으나, 그 역시 초인의 영역에 접어든 한 사람의 초절정 고수."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The late Emperor’s loyal subjects, now gone.",
+      "defect": "Says the loyal subjects are dead, rather than the former Emperor.",
+      "id": "F04",
+      "rationale": "이제는 죽고 없는 modifies 선황. His surviving loyalists are among the prospective targets.",
+      "replacement": "The late Emperor’s loyal subjects.",
+      "severity": "critical",
+      "source": "이제는 죽고 없는 선황의 충신들."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“That’s unfortunate. If you’d followed the advice of the imperial physician I sent and taken the prescribed decoction, you might have overcome your illness sooner.”",
+      "defect": "Changes having the decoction prepared according to the physician’s advice into taking a prescribed decoction.",
+      "id": "F05",
+      "rationale": "탕약을 제조했다면 specifies preparing the medicine; it does not say Wei Zhong took it.",
+      "replacement": "“That’s unfortunate. If you’d had the decoction made as the imperial physician I sent advised, you might have overcome your illness sooner.”",
+      "severity": "major",
+      "source": "“안타깝군. 짐이 보낸 어의(御醫)의 조언을 따라 탕약을 제조했다면 더 빨리 병마를 이겨 낼 수 있었을 터인데.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Then I’m greatly relieved. Now that you’ve become a sage king who shows such mercy, you must rule over the land for ten thousand years—ten million times ten thousand years.”",
+      "defect": "Inflates 만만세 by rendering it as ten million times ten thousand.",
+      "id": "F06",
+      "rationale": "만만세 is ten thousand times ten thousand, not ten million times ten thousand.",
+      "replacement": "“Then I’m greatly relieved. Now that you’ve become a sage king who shows such mercy, you must rule over the land for ten thousand years—ten thousand times ten thousand years.”",
+      "severity": "major",
+      "source": "“그렇다면 참으로 다행입니다. 이렇듯 관용을 베푸시는 성군이 되셨으니 만세(萬世), 만만세(萬萬歲)까지 천하를 다스리셔야 하지 않겠습니까.”"
+    }
+  ],
+  "summary": "Several scene facts are altered, including who reacts first, whom the Emperor addresses, and whose martial ability is being described.",
+  "version": 1
+}

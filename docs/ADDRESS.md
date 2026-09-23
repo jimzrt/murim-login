@@ -1404,3 +1404,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 마삼보 | 진태경 | political ally recruiting a young martial artist | you; my friend | courteous and familiar | Ma uses 자네 and 이보게 while explaining his choice of Jin and inviting him to join the restoration army. |
 | 진태경 | 마삼보 | young martial artist addressing the East Depot’s Brush-Holding Eunuch and prospective ally | you; Brush-Holding Eunuch | polite and direct | Jin asks Ma why he withheld information and presses him for a clear answer; he refers to him as 태감. |
 | 황제 | 진태경 | Emperor addressing a subject and Prince Shangshan’s guest | Jin Taekyung | formal and authoritative | The Emperor addresses Taekyung by his family and personal name before asking what to do with the two officials. |
+| 황제 | 위충 | Emperor addressing the East Depot’s Seal-Holding Eunuch | Cang Gong | familiar and authoritative | The Emperor addresses Wei Zhong by his East Depot title while asking after his recovery. |
+| 위충 | 황제 | East Depot’s Seal-Holding Eunuch addressing the Emperor | Your Majesty | formal and deferential, with pointed flattery | Wei Zhong uses 폐하 while indirectly challenging the Emperor. |
+| 백연 | 위충 | imperial commander confronting the East Depot’s Seal-Holding Eunuch | Wei Zhong | stern and direct | Baek Yeon uses Wei Zhong’s name to order him to stop speaking. |
