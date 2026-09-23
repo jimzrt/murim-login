@@ -1239,3 +1239,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 고이즈미 | foreign Hunter to Japanese Prime Minister | Prime Minister | casual, familiar, and coercively playful | Jin asks Koizumi to lend Japan's S-rank Magic Gems and promises to return them. |
 | 스켈레톤 킹 | 진태경 | monster ally to human ally | wicked human | archaic, angry, and accusatory | The Skeleton King denounces Jin after learning that he will be excluded from the raid. |
 | 진태경 | 스켈레톤 킹 | human ally confronting a monster ally | Fucking | mocking and casually profane | Jin uses the newly improvised nickname 퍽킹 while directing the Skeleton King back to the Leviathan plan. |
+| 진태경 | 스켈레톤 킹 | ally_to_reluctant_bait | Skeleton King | informal-teasing | Jin addresses the Skeleton King casually while coercing him into serving as bait. |
+| 진태경 | 최 팀장님 | subordinate_to_trusted_manager | Team Leader Choi | polite-teasing | Jin addresses Choi while asking him to restrain the Skeleton King. |
+| 스켈레톤 킹 | 최 팀장님 | ally_to_team_leader | Team Leader Choi | formal-polite | The Skeleton King appeals to Choi while pleading to be rescued. |

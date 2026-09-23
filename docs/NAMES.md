@@ -2241,3 +2241,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아틀란티스 | **Atlantis** | Jin's comparison for Tokyo after a hypothetical second Leviathan attack. |
 | 스토무-킹 | **Stomu-King** | The Japanese prime minister's recurring mispronunciation of Stone King. |
 | 후지와라 | **Fujiwara** | Japanese Defense Minister blamed for the failed response to Leviathan. |
+| 마계 | **Demon Realm** | Realm associated with the S-rank monsters and Leviathan. |
+| 72군단장 | **Seventy-Two Legion Commanders** | Collective title for elite S-rank monsters in the Demon Realm. |
+| 필리핀해 | **Philippine Sea** | Sea where the Leviathan trap is set. |
+| 대치동 | **Daechi-dong** | Seoul neighborhood referenced for its elite cram-school instructors. |
