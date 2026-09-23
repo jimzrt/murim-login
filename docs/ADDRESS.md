@@ -1311,3 +1311,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 척 헤이글 | 임마누엘 | Federation operative confronting Michael Silbert’s loyalist | Emmanuel | hostile and informal | Hagel addresses Emmanuel by name and insults him. |
 | 진태경 | 최 팀장 | Federation Alliance Leader to Team Leader Choi | Team Leader Choi | polite-familiar | Jin addresses Choi respectfully while asking about The Prophet. |
 | 최 팀장 | 진태경 | Team Leader Choi to Federation Alliance Leader | Mr. Jin Taekyung | polite-familiar | Choi addresses Jin as 진태경 씨. |
+| 진태경 | 최 팀장 | Alliance Leader to subordinate team leader | Team Leader Choi | casual-polite | Jin asks Choi about the search and the cargo aboard the flight. |
+| 최 팀장 | 진태경 | subordinate team leader to Alliance Leader | Mr. Jin Taekyung | formal-polite | Choi addresses Jin as 진태경 씨. |
+| 스켈레톤 킹 | 샤오 쉔 | allied companion | you; young human brat | insulting-casual | The Skeleton King grumbles at Xiao Shen while accepting his company. |
+| 샤오 쉔 | 스켈레톤 킹 | younger allied companion to senior ally | Mr. King | respectful-polite | Xiao Shen uses “Mr. S” before correcting himself to “Mr. King.” |
