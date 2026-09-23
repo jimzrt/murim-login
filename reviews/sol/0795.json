@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "*He wasn’t acting alone.*",
+      "defect": "The draft makes this a claim about the Prophet acting with others. The thought instead qualifies Michael Silbert’s rise: it was not achieved through his abilities alone.",
+      "id": "F01",
+      "rationale": "The following sentence attributes Michael’s position to the Muninns who served him.",
+      "replacement": "*Michael Silbert hadn’t done it on his own.*",
+      "severity": "critical",
+      "source": "‘혼자만의 능력이 아니었어.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*But now I have all of it.*",
+      "defect": "The draft gives Michael’s hidden resources to the narrator instead of the Prophet.",
+      "id": "F02",
+      "rationale": "The next lines describe Muninn forming a new power base and inheriting what his dead master concealed.",
+      "replacement": "*But now the Prophet had all of it.*",
+      "severity": "critical",
+      "source": "‘하지만 이제는 그 모든 걸 갖게 됐지.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Probably a concussion at the very least, but I’d dumped a potion all over him, too. He’d be fine.",
+      "defect": "The draft adds a deliberate action by the narrator. Huginn was drenched when the potion bottle broke on his head.",
+      "id": "F03",
+      "rationale": "The source states the resulting condition, not that Jin separately poured potion over Huginn.",
+      "replacement": "Probably a concussion at the very least, but he’d been drenched in potion, too. He’d be fine.",
+      "severity": "critical",
+      "source": "최소 뇌진탕이긴 한데, 뭐 포션도 뒤집어썼으니까 괜찮겠지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“More precisely, the first Muninn. The first and last one I ever saw.”",
+      "defect": "This says Huginn never saw any later Muninn, contradicting his account that he met three as an adult. He saw the first Muninn only once.",
+      "id": "F04",
+      "rationale": "처음이자 마지막으로 봤던 refers to seeing that first Muninn, not to seeing Muninns altogether.",
+      "replacement": "“More precisely, the first Muninn. That was the first and last time I saw him.”",
+      "severity": "major",
+      "source": "“정확히는 첫 번째 무닌이었지. 처음이자 마지막으로 봤던.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "A hidden blade that had secretly visited Michael Silbert every year or so—sometimes after a few years.",
+      "defect": "The draft reverses the usual interval: visits were ordinarily years apart, with one year the shorter interval.",
+      "id": "F05",
+      "rationale": "보통은 수년에 한 번씩 establishes the norm; 짧게는 일 년 gives the minimum.",
+      "replacement": "A hidden blade that secretly visited Michael Silbert once every few years—sometimes after just one.",
+      "severity": "major",
+      "source": "짧게는 일 년. 보통은 수년에 한 번씩 비밀리에 미카엘 실베르트를 찾아오는 숨겨진 검."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Quest [An Unknown Death] successfully completed!",
+      "defect": "Square brackets around a System-panel quest title violate the specified panel format.",
+      "id": "F06",
+      "rationale": "The blockquote and System heading already identify the notice; UI terms should not retain square brackets.",
+      "replacement": "Quest *An Unknown Death* successfully completed!",
+      "severity": "minor",
+      "source": "- 퀘스트, [알 수 없는 죽음]을 성공적으로 완료했습니다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "You have obtained the special Item [Eyes of Truth]!",
+      "defect": "Square brackets around the System-panel item name violate the specified panel format.",
+      "id": "F07",
+      "rationale": "The item name can remain distinct without square brackets inside a framed System notice.",
+      "replacement": "You have obtained the special Item *Eyes of Truth*!",
+      "severity": "minor",
+      "source": "- 특수 아이템, [진실의 눈]을 획득하셨습니다!"
+    }
+  ],
+  "summary": "The draft is largely faithful, but two passages assign actions or possessions to the wrong person, and several others alter concrete details.",
+  "version": 1
+}
