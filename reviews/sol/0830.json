@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The crushing weight that had vanished for a moment settled on my foot again. I stared at the Doppelganger as it choked back a groan, then continued in a low voice.",
+      "defect": "The pressure is applied through Jin’s foot, not onto it, and the Doppelganger lets out a muffled groan rather than holding one back.",
+      "id": "F01",
+      "rationale": "발끝에 실린다 describes force carried through the foot; 신음을 토해 내는 describes a groan being uttered.",
+      "replacement": "The crushing pressure I’d lifted a moment ago bore down through the tip of my foot once more. I watched the Doppelganger let out a muffled groan, then continued in a low voice.",
+      "severity": "critical",
+      "source": "잠시나마 사라졌던 천근(千斤)의 압력이 발끝에 실린다. 억눌린 신음을 토해 내는 도플갱어를 응시하며, 나는 나직이 말을 이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What you know. And what’s about to happen.”",
+      "defect": "The draft omits Jin’s explicit identification of Asmodeus as evil’s source and his reason for questioning the Doppelganger: to learn about Asmodeus and the world’s future.",
+      "id": "F02",
+      "rationale": "These intervening source paragraphs establish the object and stakes of the interrogation before Jin asks whether the Demon King is alive.",
+      "replacement": "“What you know. And what’s about to happen.”\n\nDemon King Asmodeus.\n\nEvil itself, and its source.\n\nWhat I wanted from the Doppelganger was information about that accursed being—and the future of this world.",
+      "severity": "major",
+      "source": "마왕 아스모데우스.\n\n악(惡), 그 자체이자 근원.\n\n내가 도플갱어의 입을 통해 듣고자 하는 것은 바로 그 저주받은 존재에 대한 정보였고, 이 세상의 미래였다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "He may waver, but he will not break. Even if he falls, he will rise again.",
+      "defect": "“Falls” weakens the distinct claim that the king will rise even after perishing.",
+      "id": "F03",
+      "rationale": "스러져도 goes beyond stumbling or falling; the claim of return despite destruction matters directly to Jin’s question about whether Asmodeus is alive.",
+      "replacement": "He may waver, but he will not break. Even if he perishes, he will rise again.",
+      "severity": "major",
+      "source": "흔들리되 꺾이지 않으며, 스러져도 일어나실 것이다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Tens of thousands. Hundreds of thousands.\n\nPerhaps even more.",
+      "defect": "The enumerated scale is understated by a factor of ten: the compressed Korean refers to hundreds of thousands and millions.",
+      "id": "F04",
+      "rationale": "수십, 수백만 elides 만 after 수십, yielding 수십만 and 수백만.",
+      "replacement": "Hundreds of thousands. Millions.\n\nPerhaps even more.",
+      "severity": "critical",
+      "source": "수십, 수백만.\n\n아니 어쩌면 그 이상."
+    }
+  ],
+  "summary": "The draft omits the narrator’s reason for pressing the Doppelganger, reverses part of the interrogation’s physical action, understates the scale of the monster army, and weakens the claim that the Demon King can return after perishing.",
+  "version": 1
+}

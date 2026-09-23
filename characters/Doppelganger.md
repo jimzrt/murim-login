@@ -1,6 +1,6 @@
 # Doppelganger (도플갱어)
 
-- **Safe through:** Chapter 829
+- **Safe through:** Chapter 830
 - **Aliases:** The Final Abyss
 - **Role:** The last surviving member of its species, the Doppelganger is a Demon Realm being that can regenerate in new bodies by consuming its stored lives and is now reduced to a Level 10 shadow.
 - **Personality:** Arrogant and manipulative, it treats others as tools and is willing to sacrifice its followers to escape, but becomes desperate when its own survival is threatened.
