@@ -1,6 +1,6 @@
 # Sudal (수달)
 
-- **Safe through:** Chapter 835
+- **Safe through:** Chapter 836
 - **Aliases:** None
 - **Role:** Sudal is the Deputy Stronghold Lord of the Water Dragon Stronghold and a river pirate who decides to retire upon reaching Sichuan.
 - **Personality:** Adventurous, opportunistic, irreverent, and willing to bully his subordinates to pursue a scheme.

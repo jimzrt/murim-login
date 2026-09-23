@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 835
-- Next chapter: 836
-- Current block: 835–839 (1/5)
-- Latest translation: `translations/0835.md`
-- Latest summary: `summaries/beats/0835.md`
-- Safe profiles through: chapter 835
+- Last completed: 836
+- Next chapter: 837
+- Current block: 835–839 (2/5)
+- Latest translation: `translations/0836.md`
+- Latest summary: `summaries/beats/0836.md`
+- Safe profiles through: chapter 836
 
 ## Current Block
 
-- On the swift ship bound for Sichuan, Sudal struggles to keep Taishan supplied with food and grows exasperated with his unruly passengers. He meets Namho, whose swollen forehead came from a Black Gold Bee sting—not Iron Head Technique—and whose grand claims about his wartime exploits turn out to be boasts about sending messages from the rear. Jin Taekyung emerges after five days of rest, and the ship reaches Sichuan that night; Sudal decides to retire.
+- After five days aboard the swift ship, the party nears Sichuan. Namho reflects on people risking their lives to save a collapsing world while others enjoy themselves, and urges the younger members not to lose heart. Taekyung privately reflects on the hardships that have hardened him and reassures Namho with a dry remark. The party jokes with Taishan and the exhausted Sudal, who drives the ship onward.
+- As fireworks burst near the landing, the party discovers the approaching ships are military vessels, not pleasure boats. Their cannons are aimed at the swift ship, and Sudal reveals the fireworks were an attack signal. Roughly a hundred cannons fire at once.
 
 ## Open Questions
 
