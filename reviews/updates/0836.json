@@ -1,0 +1,87 @@
+{
+  "chapter": 836,
+  "files": {
+    "characters/Human Butcher.md": "1e126feaf5bb78c51216e47a82aa7b41943cc6cdc412d2c9661a1d8919021a12",
+    "characters/Hyuk Mujin.md": "2af30f7790a8ff81a2d41ee2d47cb3bc9670da349835b27cba0b921e0323293f",
+    "characters/Jin Taekyung.md": "21b53cd64d89d63c16842e32ea25452cf1b252fae96d7afd22e9f727d95b578c",
+    "characters/Jintae.md": "eae58d51591a2cd5eb635918a148052b2995fed3647091f1a387fd991b170d0f",
+    "characters/Ju Hwaran.md": "a0cbc547f5b148d91d21ddf38eac9840db84061564760ce7dc99149479264f87",
+    "characters/Mu Song.md": "90e501f5a0a8dcffe35525ca0d0f00c4078b00c6b12be6390531f098a5aa52e5",
+    "characters/Namho.md": "6a97aff51f7c2763786fab665aeead2429c4e02fcce41fd3d3cbd96671888354",
+    "characters/Sama Pyo.md": "62e7eb6946fb386b61b0fae87a5fbee267aec56ec8ed764afb02fc456c2beb20",
+    "characters/Sudal.md": "4a34526c9792d9dd5f5d050aceb9e8eb5799bbb687a5888365eb0eb7afe4542e",
+    "characters/Taishan.md": "17c7e3af1972082b3286748e30b8ca2e61cbda7467ae03d6f4c2183b65681a12",
+    "docs/CONTEXT.json": "b0ee9f463e64dcc8801c062842bf597e8a261bc406622caeb71f74711d886621",
+    "docs/STATE.md": "6fa15b2869c273a6fb460d5afbf9b43b1cb9d0a4332525d61b6403dcc2f592fd",
+    "summaries/beats/0836.md": "be9b48048c7df5822f5051aaf51228b74092dbc12ede123dbe3cb16860e27346"
+  },
+  "update": {
+    "address_pairs": [],
+    "beat": {
+      "continuity": [
+        "The swift ship has traveled for five days from Yunnan toward Sichuan; Sudal and his crew have endured the Fire Dragon Pavilion party’s antics during the trip.",
+        "Namho counsels the group not to lose heart amid the war and takes particular care to reassure Taekyung.",
+        "Military vessels launch a cannon attack on the swift ship near the landing; the outcome is unknown."
+      ],
+      "plot": [
+        "After five days aboard the swift ship, the party nears Sichuan. Namho reflects on people risking their lives to save a collapsing world while others enjoy themselves, and urges the younger members not to lose heart. Taekyung privately reflects on the hardships that have hardened him and reassures Namho with a dry remark. The party jokes with Taishan and the exhausted Sudal, who drives the ship onward.",
+        "As fireworks burst near the landing, the party discovers the approaching ships are military vessels, not pleasure boats. Their cannons are aimed at the swift ship, and Sudal reveals the fireworks were an attack signal. Roughly a hundred cannons fire at once."
+      ],
+      "translation_decisions": [
+        "Keep “military vessel” for 군선 and “cannon” for 대포/포신 in this attack.",
+        "Namho deliberately calls Sudal 해달 (“sea otter”) instead of 수달; preserve the name-mangling joke."
+      ]
+    },
+    "chapter": 836,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader.",
+        "Jin erased the Doppelganger, but Main Quest [Cataclysm] and its “Stop the Summoning” mission failed.",
+        "The Rift began at 10%; its progress increases the distribution and concentration of magical power.",
+        "Jin was transferred to Murim while unconscious and awakened in Nanman after several days.",
+        "The System’s Status Window is inaccessible; Jin suspects an update may be responsible.",
+        "Jin saw a vision of a black-haired man killing Ahomed after the ritual; whether it was real remains unknown, and Jin believes the man was not Asmodeus.",
+        "Jin’s [Broken Body] injury around his lower dantian remains unresolved; leveling up did not heal it.",
+        "Jeok Cheongang went to Sichuan to bring the Divine Physician, his former Disciple, to treat Jin.",
+        "The swift ship carrying Jin’s party has traveled for five days from Yunnan toward Sichuan.",
+        "Military vessels fired roughly a hundred cannons at the swift ship near the landing; the attack’s outcome is unknown."
+      ],
+      "continuity_sources": [
+        835,
+        836
+      ],
+      "open_questions": [
+        "Why did the Main Quest fail despite the Doppelganger’s erasure, and who or what was summoned?",
+        "Was Jin’s vision of the summoned being real, System-delivered, or prophetic?",
+        "What will happen as the Rift progresses and more beings enter the world?",
+        "Who or what chose Jin, and what is the Ark?",
+        "What changed in the System update, and when will its functions return?"
+      ],
+      "safe_through": 836,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Keep Blink distinct from Teleport and Warp; extended-range Blink causes severe strain.",
+        "Keep Fire Storm and Aqua Storm as distinct named spells.",
+        "Render [영웅의 검] as “Hero’s Sword,” 에어 슬래시 as “Air Slash,” and 실드 마법 as “Shield magic.”",
+        "Render 선택받은 자 as “the Chosen One,” 방주의 주인 as “the Master of the Ark,” [격변] as [Cataclysm], [어데 도씹니꺼] as “Where’s Your Do Clan From?,” and [종족 학살자] as “Species Slayer.”"
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Personality:** Duty-bound, pragmatic, observant, and willing to use theatrical violence and crude insults to protect an intelligence operation.",
+        "path": "characters/Namho.md",
+        "replacement": "- **Personality:** Duty-bound, pragmatic, and observant; uses theatrical violence to protect intelligence work and takes a veteran’s concern for the younger generation’s resolve."
+      },
+      {
+        "current": "- **Voice:** Measured and serious in private, loudly abusive when maintaining his local cover, and capable of theatrically boasting about his exploits.",
+        "path": "characters/Namho.md",
+        "replacement": "- **Voice:** Measured and reflective when advising the younger generation, loudly abusive when maintaining his local cover, and capable of theatrical boasts and dry humor."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
