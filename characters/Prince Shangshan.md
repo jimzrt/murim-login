@@ -1,6 +1,6 @@
 # Prince Shangshan (상산왕)
 
-- **Safe through:** Chapter 896
+- **Safe through:** Chapter 897
 - **Aliases:** None
 - **Role:** Prince Shangshan, whose personal name is Zhu Bao, is the Emperor’s twelve-year-old youngest younger brother and an exceptionally skilled young swordsman.
 - **Personality:** Earnest and compassionate, he takes responsibility for his loyal subjects’ hardship, admires Jin Taekyung, seeks candid counsel, and shows composure beyond his years in the face of death and political danger.

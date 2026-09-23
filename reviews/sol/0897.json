@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "what was happening before their eyes—that fury—could one day come for them, too.",
+      "defect": "Makes the angry crowd’s fury sound like a threat directed at the onlookers. They realize they might one day be in the same position as the victims.",
+      "id": "F01",
+      "rationale": "The onlookers imagine themselves in the place of the people now expressing anger.",
+      "replacement": "they too might one day be standing there, furious over their own losses.",
+      "severity": "critical",
+      "source": "지금 눈 앞에 펼쳐진 이 광경이, 분노하는 저들의 모습이 언젠가 자신에게 찾아올 수도 있다는 것을."
+    },
+    {
+      "confidence": 0.96,
+      "current": "And every one of them had neighbors who’d been closer than family.",
+      "defect": "Changes the relationship: the people who suffered the losses are themselves neighbors close as family, not merely people who had such neighbors.",
+      "id": "F02",
+      "rationale": "그들 모두 refers back to those who lost property or family.",
+      "replacement": "And they were all neighbors who had been closer than family.",
+      "severity": "major",
+      "source": "그리고 그들 모두는 가족보다 가깝던 이웃이다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Hell, does he not give a damn about public sentiment or anything else? His own child’s birthday comes first?”",
+      "defect": "Softens the opening profanity and misses the dismissive force of 나발이고: the speaker accuses the Emperor of treating public sentiment as something to hell with.",
+      "id": "F03",
+      "rationale": "시팔 is strong profanity, while 민심이고 나발이고 contemptuously dismisses concern for public sentiment.",
+      "replacement": "“Fuck, is it to hell with what the people think? His own kid’s birthday comes first, is that it?”",
+      "severity": "major",
+      "source": "시팔, 민심이고 나발이고 알 거 없다 이건가? 제 자식 태어난 게 우선이다 이거야?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Go to the mountains.”",
+      "defect": "The plural obscures the singular mountain that anchors the ensuing question and revelation.",
+      "id": "F04",
+      "rationale": "The speaker immediately specifies the highest mountain, and the crowd tries to identify that one place.",
+      "replacement": "“Go to the mountain.”",
+      "severity": "major",
+      "source": "산으로 향하시오."
+    }
+  ],
+  "summary": "Four actionable findings: one changes who may suffer the flood’s losses, one changes the victims’ relationship to their neighbors, and two weaken the dialogue’s intended force or clue.",
+  "version": 1
+}
