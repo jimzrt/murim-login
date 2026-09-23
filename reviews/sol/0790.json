@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The footage was barely three hours long.",
+      "defect": "“Barely three hours” suggests less than three hours; 남짓 means a little more.",
+      "id": "F01",
+      "rationale": "The source specifies a duration just over three hours.",
+      "replacement": "The footage ran a little over three hours.",
+      "severity": "critical",
+      "source": "불과 세 시간 남짓한 영상."
+    },
+    {
+      "confidence": 0.99,
+      "current": "As its name implied, it was a vast organization made up of Hunters from all over the world.",
+      "defect": "“Hunters from all over the world” omits that every Hunter belongs to the Federation.",
+      "id": "F02",
+      "rationale": "모든 헌터 makes membership universal, not merely international.",
+      "replacement": "As its name implied, it was a vast organization to which every Hunter in the world belonged.",
+      "severity": "major",
+      "source": "그 명칭처럼 전 세계의 모든 헌터가 소속된 거대 단체."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Pure justice.",
+      "defect": "The parenthetical 情意 denotes feeling or goodwill, not justice.",
+      "id": "F03",
+      "rationale": "Justice would be 正義; the supplied characters explicitly distinguish the intended meaning.",
+      "replacement": "Pure goodwill.",
+      "severity": "major",
+      "source": "순수한 정의(情意)."
+    },
+    {
+      "confidence": 0.98,
+      "current": "They had given their lives for God and followed the prophet He had sent.",
+      "defect": "“Had given their lives” says the followers died, though they are alive in the cave.",
+      "id": "F04",
+      "rationale": "The passage recalls their past devotion and allegiance, not their deaths.",
+      "replacement": "They had devoted their lives to God and followed the prophet He had sent.",
+      "severity": "major",
+      "source": "신을 위해 목숨을 바치고, 그분께서 내리신 예언자를 따라 걸었던 지난날들을."
+    },
+    {
+      "confidence": 0.96,
+      "current": "> I’ve decided. I’m naming my unborn child Sibal. It’s a great name, taken from Jin Taekyung’s nickname.\n>\n> └ A Korean passing by here with some advice: that’s not a very good choice.",
+      "defect": "The exchange preserves the name but leaves the Korean commenter’s warning unintelligible to readers who do not know the near-homophone.",
+      "id": "F05",
+      "rationale": "The warning depends on how Sibal sounds in Korean; a brief note preserves the joke without explaining it in the speaker’s dialogue.",
+      "replacement": "> I’ve decided. I’m naming my unborn child Sibal.[^1] It’s a great name, taken from Jin Taekyung’s nickname.\n>\n> └ A Korean passing by here with some advice: that’s not a very good choice.\n\n[^1]: “Sibal” sounds like *ssibal*, a common Korean profanity roughly equivalent to “fuck.”",
+      "severity": "minor",
+      "source": "결심했어. 곧 태어날 내 아이의 이름을 Sibal이라고 지을 거야. 진태경의 별명을 딴 아주 훌륭한 이름이지.\n\n└ 지나가던 한국인으로서 충고하자면, 그건 썩 좋은 선택이 아니야."
+    }
+  ],
+  "summary": "Several source details are altered, including the footage’s duration, the Federation’s membership, and whether the followers have died for their faith.",
+  "version": 1
+}
