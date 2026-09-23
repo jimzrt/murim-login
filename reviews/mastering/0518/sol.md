@@ -1,6 +1,6 @@
 # Chapter 518
 
-A middle-aged man, thoroughly drunk, suddenly raised one hand.
+A middle-aged man, thoroughly drunk, raised one hand.
 
 “Innkeeper, bring me a bottle of strong liquor!”
 
@@ -16,7 +16,7 @@ A middle-aged man, thoroughly drunk, suddenly raised one hand.
 
 The inn on the main road near Mount Song was packed. Most of the people inside were Murim practitioners, of course.
 
-From wandering martial artists who still looked like greenhorns to old veterans who had roamed the martial world for ten years—or even several decades.
+There were wandering martial artists who still looked like greenhorns and old veterans who had roamed the martial world for decades. They had come for different reasons, and they differed in age and gender.
 
 Wherever people gathered, conflict was bound to follow. Especially when the people in question were drunk Murim practitioners.
 
@@ -44,7 +44,7 @@ Sharp weapons swung, and blood sprayed through the air. The fierce exchange sent
 
 They said nothing was more entertaining than watching someone else’s house burn or watching someone else fight.
 
-The very few people with no connection to Murim backed away with horrified expressions. But the Murim practitioners, who were crazy about fighting regardless of whether it involved the orthodox, unorthodox, or Demonic Path, shouted and applauded without hesitation.
+The few people with no connection to Murim edged away, looking horrified. But Murim practitioners loved a fight, whether they belonged to the orthodox faction, the unorthodox faction, or the Demonic Path. They shouted and applauded without a second thought.
 
 Amid the chaos, almost no one noticed the middle-aged man who had just come through the inn’s old door.
 
@@ -80,19 +80,19 @@ The middle-aged man looked around, then glanced up. Several faces were peering d
 
 The middle-aged man ignored the innkeeper’s desperate cries.
 
-He strode up the stairs, ignoring the sharp gazes that poured down on him, and muttered,
+He strode up the stairs, ignoring the sharp gazes that fell on him.
 
 “Much better. Quiet, too.”
 
 The inn’s second floor was reserved for people of higher status.
 
-It was only about twenty steps above the first floor, but unlike the noisy chaos below, a serious atmosphere hung over the second floor. Nor were the people seated at its tables anything like Third Rate martial artists.
+It was only about twenty steps above the first, but the noisy chaos below gave way to a more sober atmosphere. The people seated at its tables were no third-rate martial artists, either.
 
 “G-Great Hero! You can’t go up there!”
 
 At the innkeeper’s cry from behind him, the low conversations stopped.
 
-A graying middle-aged man seated at the table closest to the stairs frowned and spoke.
+A graying man seated at the table closest to the stairs frowned.
 
 “What’s all this noise?”
 
@@ -106,9 +106,9 @@ But the middle-aged man was already headed elsewhere.
 
 “That seat by the window looks good.”
 
-“Gasp, Great Hero!”
+“Great Hero!”
 
-The one who stepped forward in place of the horrified innkeeper was the graying middle-aged man from before.
+Before the horrified innkeeper could stop him, the graying man spoke again.
 
 “Stop.”
 
@@ -118,9 +118,9 @@ The middle-aged man slowly turned.
 
 “Who else would I be speaking to?”
 
-“You?”
+“*You?*”
 
-“You look a great deal younger than I am, so don’t cause unnecessary trouble. Go back downstairs.”
+“You look much younger than I am. Don’t cause trouble. Go back downstairs.”
 
 The graying man added with an air of dignity, “Since you don’t seem to know much about the martial world, I’ll tell you who I am. I’m of the Fang Family. In the martial world, I’m known as Moon Beauty Saber.”
 
@@ -130,17 +130,17 @@ The graying man added with an air of dignity, “Since you don’t seem to know 
 
 The middle-aged man blinked a few times.
 
-“What you just said—was it really true?”
+“What you just said—is it true?”
 
 Moon Beauty Saber gave a short laugh.
 
-Who was he? He was a top-tier wandering martial artist who had long since reached the level of injuring others with Sword Energy.
+Who did this man think he was talking to? Moon Beauty Saber was a top-tier wandering martial artist who had long since reached the level of injuring others with Sword Energy.
 
-He was on an entirely different level from wandering martial artists like Blood Cudgel, who strutted around despite being merely at the early Peak realm.
+He was nothing like Blood Cudgel, a mere wandering martial artist who strutted about despite having only just entered the Peak realm.
 
-“Heh heh. Why would I lie? Then again, I suppose it’s understandable that you don’t believe me. You probably never expected to meet me in a place like this.”
+“Why would I lie? Though I suppose I can understand your disbelief. You never expected to meet me in a place like this.”
 
-“No, not that. I meant, do I really look that way?”
+“No, not that. Do I really look it?”
 
 “…?”
 
@@ -148,9 +148,9 @@ What was this man talking about?
 
 Moon Beauty Saber stared at him blankly, then frowned.
 
-“What do you mean? I don’t understand you at all.”
+“What do you mean? I don’t understand.”
 
-“You said I looked young. That was certainly true, wasn’t it?”
+“You said I looked young. You meant it, didn’t you?”
 
 “…!”
 
@@ -158,15 +158,15 @@ Moon Beauty Saber stared at him blankly, then frowned.
 
 Before Moon Beauty Saber could reply, the middle-aged man laughed heartily and pointed toward the window.
 
-“Don’t mind me. Keep drinking. I happen to know someone.”
+“Don’t mind me. Keep drinking. I happen to know someone over there.”
 
-“Why, you bastard…”
+“Now listen here, you—”
 
 “Great Hero!”
 
 Moon Beauty Saber and the innkeeper spoke at once. Then the old man drinking alone by the window suddenly cut in.
 
-“I was feeling lonely drinking by myself, so this is perfect. Come, sit.”
+“I was getting lonely drinking by myself. Come, sit.”
 
 “…!”
 
@@ -180,7 +180,7 @@ The innkeeper could hardly object when the guest himself had invited the man ove
 
 Moon Beauty Saber wanted to teach the middle-aged man a lesson right then and there, but he couldn’t shake his unease.
 
-Whether he knew what Moon Beauty Saber was thinking or not, the middle-aged man dropped into the seat across from the old man and immediately tilted back a bottle.
+Oblivious to his thoughts—or perhaps simply unconcerned—the middle-aged man dropped into the seat across from the old man and immediately tipped back the wine bottle.
 
 “Ah, that’s good. Is this Yeoahong?”
 
@@ -194,9 +194,9 @@ The old man nodded.
 
 “What a shame. Why are you here alone, then?”
 
-“It’s nothing. I simply thought I would try burying myself among other people after such a long time.”
+“No particular reason. It’s been a long time since I spent time among other people, so I thought I would come.”
 
-The old man suddenly turned his head and gazed out the window.
+The old man turned to the window.
 
 For a while, he watched the people passing through the street and listened to the bustle outside. Then he said, “Now that I’m here, being alone like this isn’t so bad.”
 
@@ -206,25 +206,25 @@ For a while, he watched the people passing through the street and listened to th
 
 “I do have one fellow, though I’m not sure whether he’s my Disciple or my enemy. How did you know?”
 
-“How could I not? I even saw him myself.”
+“How could I not? I saw him myself.”
 
 Clack.
 
-Liquor had spilled from the corner of his mouth, dampening his beard. Perhaps because of the soft light, the beard looked unusually red.
+The middle-aged man set down the bottle. Wine had run from the corner of his mouth and dampened his beard, making its color look unusually red in the soft light.
 
-“Damn it. I knew it. But that brat kept insisting to the very end that he’d never met you.”
+“Damn it. I knew it. That brat kept insisting he’d never met you.”
 
-“You certainly raised your Disciple well, Fire King.”
+“You’ve raised your Disciple well, Fire King.”
 
-The middle-aged man wiped his beard with his sleeve, then stared at the old man.
+The middle-aged man wiped his beard with his sleeve and studied the old man.
 
 “My Disciple caused you trouble last time. So I came to see you myself, Azure Sky Sword King.”
 
-The old man—no, the Grand Family Head of the Nangong Family and one of the Ten Kings, the Azure Sky Sword King—smiled faintly.
+The old man—no, the Grand Family Head of the Nangong Family and one of the Ten Kings, the Azure Sky Sword King—smiled.
 
 “I’m glad to hear it.”
 
-“I knew you, of all people, would recognize this old man.”
+“I knew you would recognize this old man.”
 
 “I almost didn’t. Returned to Youth… You were worth waiting for.”
 
@@ -238,7 +238,7 @@ More than twenty years ago, in exchange for entrusting one person’s life to Je
 
 At last, his long wait was over.
 
-“What a shame. The strong liquor will be here soon.”
+“A shame. My strong liquor will be here soon.”
 
 “Let whoever’s left standing drink it.”
 
@@ -260,7 +260,7 @@ Whoooosh.
 
 Wind swept through the room. Invisible waves of qi surged from the two men and spread in every direction.
 
-And before anyone in the inn could notice, the two supreme masters struck at each other.
+Before anyone else in the inn could sense what was happening, the two supreme masters struck at each other.
 
 KABOOM!
 
@@ -276,13 +276,13 @@ I gaped at the scene in the distance beyond the window.
 
 And it wasn’t just the successive booms or the black smoke rising into the sky.
 
-Unnamed, who realized it a moment after I did, spoke with a hardened expression.
+Unnamed sensed it a moment after I did. His expression hardened.
 
 “Did you feel it too, Benefactor?”
 
 I gave a small nod.
 
-*This is a clash between at least Supreme Peak masters.*
+Even from this far away, I could feel the waves of qi. This was a clash between at least two Supreme Peak masters.
 
 “If something like this has happened, then it must be…”
 
@@ -290,11 +290,11 @@ I gave a small nod.
 
 “Those Dark Heaven sons of bitches!”
 
-“Though we took every precaution, this has happened again. Given that, this humble monk will have no choice but to break the precept against killing and go all out against them.”
+“We took every precaution, yet it has happened again. In that case, this humble monk will have to break the precept against killing and use everything I have against them.”
 
 “I’ll join you. Breaking the no-killing precept against Dark Heaven is a hobby of mine.”
 
-And it seemed I wasn’t the only one with that hobby.
+Apparently, I wasn’t the only one who felt that way.
 
 Ding. Diiing!
 
@@ -312,11 +312,11 @@ The sight made my blood boil.
 
 *Our side is fucking strong. And there are a hell of a lot of us.*
 
-Until now, I had suffered every kind of hell against Dark Heaven because of our numerical disadvantage—or simply because of the gap in strength.
+Until now, I’d been through hell fighting Dark Heaven, either outnumbered or hopelessly outmatched.
 
 I could almost cry.
 
-*I can’t sit this one out.*
+No way was I sitting this one out.
 
 “Follow me! Follow me!”
 
@@ -334,7 +334,7 @@ Living proof that even a cramped backwater like Shanxi Province could produce a 
 
 “Waaah!”
 
-“Let’s go! Let’s sweep Dark Heaven away!”
+“Let’s go! Sweep Dark Heaven away!”
 
 “The Blazing Flame Divine Dragon is with us!”
 
@@ -362,9 +362,9 @@ With this many Murim practitioners at my side, I was sure we could beat the hell
 
 “Ah.”
 
-My brain suddenly stopped working.
+My brain stopped working.
 
-A single person was walking out from inside a building burning horribly.
+Someone was walking out of the building that was burning fiercely before us.
 
 “What the hell are you all doing?”
 

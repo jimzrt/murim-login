@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "This is a clash between at least Supreme Peak masters.",
+      "defect": "The source first says the narrator can feel a wave of qi all the way here despite the considerable distance, then identifies the clash as involving at least Supreme Peak masters. The translation omits that sensory observation.",
+      "id": "F02",
+      "rationale": "The omitted observation establishes what the narrator sensed before drawing his conclusion; the accepted baseline also preserves it.",
+      "replacement": "Despite the considerable distance, I could feel the wave of qi all the way here. This was a clash between at least Supreme Peak masters.",
+      "severity": "minor",
+      "source": "Korean line 299"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits two source details: the crowd’s differences and the narrator’s perception of the distant qi wave.",
+  "version": 1
+}

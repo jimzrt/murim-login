@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it omits two source details: the crowd’s differences and the narrator’s perception of the distant qi wave.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 23–25",
+      "current": "From wandering martial artists who still looked like greenhorns to old veterans who had roamed the martial world for ten years—or even several decades. Wherever people gathered, conflict was bound to follow.",
+      "defect": "The source explicitly says the people gathered here differed in purpose, age, and gender. That detail, preserved in the accepted baseline, is omitted.",
+      "replacement": "From wandering martial artists who still looked like greenhorns to old veterans who had roamed the martial world for ten years—or even several decades. The people gathered here differed in purpose, age, and gender. Wherever people gathered, conflict was bound to follow.",
+      "rationale": "Korean line 23 states that those gathered had different purposes, ages, and genders before the narration moves to the likelihood of conflict.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 299",
+      "current": "This is a clash between at least Supreme Peak masters.",
+      "defect": "The source first says the narrator can feel a wave of qi all the way here despite the considerable distance, then identifies the clash as involving at least Supreme Peak masters. The translation omits that sensory observation.",
+      "replacement": "Despite the considerable distance, I could feel the wave of qi all the way here. This was a clash between at least Supreme Peak masters.",
+      "rationale": "The omitted observation establishes what the narrator sensed before drawing his conclusion; the accepted baseline also preserves it.",
+      "confidence": 0.99
+    }
+  ]
+}
