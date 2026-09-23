@@ -10,7 +10,7 @@ Or rather, that was how it used to be.
 
 The ground trembled. The magical power saturating the wasteland swelled as though it might burst at any moment, squeezing the breath from their lungs.
 
-The Hunters panted raggedly, their breath carrying a sickly sweet smell.
+The Hunters panted, a sickly sweetness rising in their mouths.
 
 More than a hundred Orcs lay sprawled around them. The Hunters stood back-to-back in a circle, but beyond the bodies, a monster army ten times that size was advancing.
 
@@ -22,7 +22,7 @@ The Team Leader’s answer sounded hollow.
 
 The one who had asked and the one who had answered both had some idea of the truth. None of them would leave this place alive today.
 
-Even if they miraculously broke through the monster army’s encirclement, there was one opponent they would never be able to bring down.
+Even if they somehow broke through the monster army’s encirclement, there was one enemy they could never bring down.
 
 *—Kraaaargh!*
 
@@ -48,7 +48,7 @@ It would have been no different even if they could overwhelm Hunters of the same
 
 “…Damn Mutated Gate.”
 
-As someone muttered those words, the monsters filling the area began charging all at once.
+As the words slipped from someone’s lips, the monsters filling the wasteland charged as one.
 
 At their head was the Orc Lord, the bastard they couldn’t kill hard enough.
 
@@ -62,7 +62,7 @@ The raid Team Leader gritted his teeth, raised his shield, and charged to meet i
 
 “Come on!”
 
-It was a great shout, forced out to drive away his fear.
+He shouted to drive back his fear.
 
 Red light flashed in the Orc Lord’s eyes. The enormous ax in its hands came down toward the crown of the Team Leader’s head.
 
@@ -70,7 +70,7 @@ Red light flashed in the Orc Lord’s eyes. The enormous ax in its hands came do
 
 One strike. That was all it took.
 
-The blow was unbelievably fast and powerful. With a thunderous roar, it shattered the **Tower Shield** reinforced with high-grade enhancement magic.
+Unbelievably fast and powerful, the blow shattered his tower shield, despite the high-grade enhancement magic cast on it. The Team Leader’s eyes widened, the pain of both his broken arms forgotten.
 
 *Whoooosh.*
 
@@ -82,7 +82,7 @@ His life flashed before his eyes, and the world slowed. A second blow was coming
 
 The Team Leader closed his eyes. He had no desire to spend the final moment of his life looking at that ugly, fucking monster.
 
-Along with the pitch-black darkness blocking his vision, a sharp sound of something cutting through the air pierced his ears.
+Then, through the pitch-black darkness behind his eyelids, a sharp sound tore through the air beside him.
 
 *Fwoooooosh—crack!*
 
@@ -106,13 +106,13 @@ Humans and monsters alike stood frozen, staring. At that moment, only one thing 
 
 *Rrrrrr.*
 
-A single spear that had blown apart the Orc Lord’s head, pierced through the ground, and now trembled violently.
+A spear that had blown apart the Orc Lord’s head and pierced the ground now trembled where it was embedded.
 
 The Hunters knew who owned that spear, with its soft, almost mystical glow.
 
 *Jin Taekyung!*
 
-Along with the name that flashed through their minds like lightning, the spear lodged deep in the ground shot upward and flew into someone’s grasp.
+As the name flashed through their minds like lightning, the spear shot out of the ground and flew into someone’s grasp.
 
 *Fwoooooosh—tap.*
 
@@ -134,9 +134,9 @@ That did not change when he entered the skyscraper overlooking the Blue House an
 
 “Pardon? Yes, I am.”
 
-“Thought so. You must be new if you’re acting like this. Looks like your Team Leader didn’t tell you.”
+“Thought so. Your Team Leader must not have told you.”
 
-The Security Team Hunter, who had been staring blankly at the middle-aged man, sucked in a startled breath.
+The Security Team Hunter stared at him, then drew a startled breath.
 
 “Oh! I’m sorry. I didn’t recognize you—”
 
@@ -166,7 +166,7 @@ The middle-aged man was one of them.
 
 “It’s fine. Don’t worry about it.”
 
-*Even I’m not used to it yet, so what can you expect?*
+*I’m not used to it myself yet.*
 
 Before he could finish the thought, the voice continued.
 
@@ -192,11 +192,11 @@ No. It was *their* policy.
 
 *And ever since that incident, it’s been getting worse.*
 
-He had long known that the Guild was ruled with an iron fist, but its grip had tightened even further since the recent unfortunate incident.
+He had long known the Guild was ruled with an iron fist. Since the recent tragedy, that grip had tightened further.
 
 Perhaps the new king was impatient because his subjects had yet to fully accept his right to the throne.
 
-The middle-aged man let out a small sigh and spoke as he walked.
+The middle-aged man sighed quietly as he walked.
 
 “Update me on the VIP.”
 
@@ -206,9 +206,9 @@ The middle-aged man let out a small sigh and spoke as he walked.
 
 —Well… he read this morning’s papers and—
 
-“That’s enough. Send me everything the VIP is reading. Scrape it all and send it to me. Right now.”
+“Say no more. Send me everything the VIP’s reading. All of it. Now.”
 
-He tapped the screen lightly. The headlines of more than twenty morning newspapers that had left the presses only two or three hours earlier filled the display.
+His phone, protected by security magic, vibrated almost before he finished speaking. He tapped the screen. Headlines from around twenty morning papers, fresh off the presses just two or three hours ago, filled the display.
 
 > Unprecedented Crisis… What Do the Successive Mutated Gates Signify?
 >
@@ -256,7 +256,7 @@ He stepped onto a faintly glowing magic circle. After he authenticated his finge
 
 *Flash!*
 
-A sensation like his entire body floating into the air seized him amid a dazzling halo of light.
+Light engulfed him, and he felt his whole body lift into the air.
 
 The next moment, he opened his eyes and knew the Teleport to Section A had succeeded.
 

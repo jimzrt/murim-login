@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but a few details alter the attack’s characterization and timing or omit source actions.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 57–59: “쳐 죽여도 시원치 않을 오크 로드”",
+      "current": "At their head was the Orc Lord, the bastard they couldn’t kill hard enough.",
+      "defect": "The Korean idiom means the Orc Lord is so hateful that killing him would not be satisfying enough. “Couldn’t kill hard enough” changes that sentiment into a question of how forcefully they kill him.",
+      "replacement": "At their head was the Orc Lord, the bastard they couldn’t kill enough times to feel satisfied.",
+      "rationale": "The source expresses hatred and dissatisfaction even at the thought of killing him, not an inability to kill him forcefully.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 81: “팀장은 양팔이 부러지는 고통도 잊은 채 눈을 부릅떴다.”",
+      "current": "With a thunderous roar, it shattered the **Tower Shield** reinforced with high-grade enhancement magic.",
+      "defect": "The translation omits the Team Leader’s reaction: his eyes widen, and he forgets the pain of both arms breaking.",
+      "replacement": "With a thunderous roar, it shattered the **Tower Shield** reinforced with high-grade enhancement magic. The Team Leader’s eyes widened; he forgot even the pain of both arms breaking.",
+      "rationale": "The source explicitly includes this reaction and injury detail immediately after the shield shatters.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 129–133: the Hunters turn their heads, hear Jin Taekyung speak, and then realize the danger has passed.",
+      "current": "As though by agreement, they slowly turned their heads. Only then did they realize that the shadow of death looming over them had vanished without a trace.\n\n“Little lambs wandering through the Mutated Gate. Run like fuck and get behind me.”",
+      "defect": "The realization is placed before Jin Taekyung’s line. In the source, the Hunters turn their heads, hear him speak, and only then realize the shadow of death has disappeared.",
+      "replacement": "As though by agreement, they slowly turned their heads.\n\n“Little lambs wandering through the Mutated Gate. Run like fuck and get behind me.”\n\nOnly then did they realize that the shadow of death looming over them had vanished without a trace.",
+      "rationale": "The source places the realization after the line, preserving the reveal’s sequence.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 229: “중년인의 말이 끝나기 무섭게 … 스마트폰이 부르르 몸을 떨었다.”",
+      "current": "He tapped the screen lightly. The headlines of more than twenty morning newspapers that had left the presses only two or three hours earlier filled the display.",
+      "defect": "The translation omits the smartphone vibrating as soon as he finishes speaking, as if it had been waiting for the order. It also omits that the phone is protected by security magic.",
+      "replacement": "As soon as he finished speaking, the smartphone protected by security magic vibrated as though it had been waiting for his order. He tapped the screen lightly. The headlines of more than twenty morning newspapers that had left the presses only two or three hours earlier filled the display.",
+      "rationale": "Both the vibration and the phone’s magical protection are stated in the source.",
+      "confidence": 0.99
+    }
+  ]
+}
