@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is broadly faithful, with one minor added implication.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 11–13",
+      "current": "Maybe it was because of all the tragedies we’d seen lately, but the Yangtze, stretching endlessly before us like a sea, looked beautiful today.",
+      "defect": "“We’d seen” adds that the narrator witnessed the tragedies. The Korean only says several tragedies had occurred earlier; it does not establish who saw them.",
+      "replacement": "Maybe it was because of all the tragedies that had happened lately, but the Yangtze, stretching endlessly before us like a sea, looked beautiful today.",
+      "rationale": "The source says 앞서 벌어진 여러 참극, meaning several tragedies that had occurred before this moment, without specifying that the narrator witnessed them.",
+      "confidence": 0.94
+    }
+  ]
+}

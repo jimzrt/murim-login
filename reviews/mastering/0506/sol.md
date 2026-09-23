@@ -26,15 +26,15 @@ What could I say? In more ways than one, it was nice that he hadn’t changed. I
 
 “No. You’ll die by this old man’s hand before you set foot on land.”
 
-“Wow. You keep exceeding my expectations.”
+“Wow. Didn’t see that coming.”
 
 “You seem to have forgotten how to use your eyes while we were apart. One says ‘dis,’ and the other says ‘respect.’ What am I to do with them?”
 
 “They say ‘re’ and ‘spect,’ actually.”
 
-“Want me to beat some ‘feet-spect’ into you?”
+“Want to get hit with a burst of force instead?”
 
-“N. O.”
+“No. Sir.”
 
 Whoosh—whack!
 
@@ -122,7 +122,7 @@ My precious meat shield—no, Ship-Fire Boy Mu Song—cried out in alarm.
 
 “A Senior’s supposed to help his Junior at times like this. Don’t you want to be that kind of Senior?”
 
-“Why the hell should I—gasp, Great Hero Jeok!”
+“Why on earth would I—Great Hero Jeok!”
 
 Unfortunately, Mu Song and I didn’t get beaten together.
 
@@ -150,15 +150,15 @@ One of the river bandits must have overheard me mutter it while I was changing t
 
 “I see. I see.”
 
-Judging by Jeok Cheongang’s grim voice, the river bandit who had passed along the wrong information probably would not escape a taste of the Yangtze today.
+From Mu Song’s chilling tone, the bandit who’d passed along the wrong message was unlikely to escape a dunk in the Yangtze today.
 
-I turned toward Mu Song, who was glaring somewhere with a dangerous look in his eyes.
+I spoke to Mu Song as he glared off somewhere.
 
 “I did want to know, though. When do you think we’ll arrive?”
 
-Although Mu Song was startlingly young compared with the other old martial-world veterans, he was still an experienced river bandit who had spent his entire life on the Yangtze.
+Mu Song might have been young compared with the other veterans of the martial world, but he’d spent his whole life on the Yangtze. He considered it briefly.
 
-“We should be able to cut the travel time considerably. If weather like today’s continues, we’ll reach Xixia within ten days at the latest.”
+“We can cut the journey shorter than I expected. If this weather holds, we’ll reach Xixia within ten days at the latest.”
 
 “Xixia?”
 
@@ -174,7 +174,7 @@ Discrepancies like that were decisive proof that the two worlds, however similar
 
 Jeok Cheongang nodded.
 
-“It’s on the southwestern edge of Henan. If this old man remembers correctly, a tributary of the Yangtze ends around there. From then on, we’ll have to travel by land. Is that correct?”
+“At the southwestern edge. If this old man remembers correctly, the Yangtze tributary ends around there, so we’ll have to travel by land after that. Am I right?”
 
 “Exactly right, Great Hero Jeok.”
 
@@ -226,7 +226,7 @@ I took pity on the man who’d lost his name and offered him a hand. Though, rea
 
 “Hm?”
 
-“You know why we’re heading to Henan, don’t you?”
+“You know why we’re heading to Henan.”
 
 Mu Song understood what I meant. His gaze grew somber.
 
@@ -260,9 +260,9 @@ Both groups had begun as thieves banding together to take what belonged to other
 
 They were treated much better than the other unorthodox factions that had survived the war. But grass roots didn’t become tree roots just because of that.
 
-Jeok Cheongang gazed at the waves of the Yangtze with displeasure and muttered,
+Jeok Cheongang eyed the Yangtze with distaste.
 
-“Before this old man dies, I hope this goddamn Yangtze dries up and withers away. Then that bastard Seafaring King’s face will be a complete mess. Tsk, tsk.”
+“I hope this damned river dries up and withers away before this old man dies. I’d like to see the mess it makes of that Seafaring King bastard’s face. Tsk.”
 
 “……”
 
@@ -278,9 +278,7 @@ The answer came quickly.
 
 A real headache, that’s what.
 
-If Dark Heaven was a blade approaching from the front, those two factions were daggers stabbing in from behind.
-
-If they decided to harbor ulterior motives, even the mighty orthodox Murim would inevitably suffer a blow.
+If Dark Heaven was a blade coming at us from the front, those two factions were daggers aimed at our backs. If they chose another side, even the mighty orthodox faction would take a blow.
 
 “The Sword Saint will have quite a headache. I wonder what those two will choose…”
 
