@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 793
-- Next chapter: 794
-- Current block: 790–794 (4/5)
-- Latest translation: `translations/0793.md`
-- Latest summary: `summaries/beats/0793.md`
-- Safe profiles through: chapter 793
+- Last completed: 794
+- Next chapter: 795
+- Current block: 790–794 (5/5)
+- Latest translation: `translations/0794.md`
+- Latest summary: `summaries/beats/0794.md`
+- Safe profiles through: chapter 794
 
 ## Current Block
 
-- Jin arrives at the desert site and reunites with Xiao Shen and the Skeleton King, who has defeated the Monster Wave with more than a thousand undead and no casualties. The Skeleton King says something he could not identify appeared and vanished without a trace. He shows Jin and the others twenty desiccated bodies; their deaths resemble Siegfried Wassmann’s death a month earlier.
-- Jin realizes that Michael Silbert was not the one who visited Siegfried on the day he died: the System’s still-incomplete [An Unknown Death] Quest contradicts the assumption that Michael killed him. Back at the main force, Jin confronts Huginn and asks whether The Prophet killed Siegfried; the chapter ends before Huginn answers.
+- Jin Taekyung interrogates the captive Huginn, who had resisted earlier interrogators. Jin’s threats and violent, potion-fueled torment finally get Huginn to speak; Huginn says The Prophet killed Siegfried Wassmann.
+- When pressed about The Prophet, Huginn reveals that the person called The Prophet is Muninn. Jin recalls that Huginn and Muninn are Odin’s two ravens, realizing there was never only one.
 
 ## Open Questions
 
-- What caused the deaths of Siegfried Wassmann and the twenty people in the desert, and who was responsible?
-- Did The Prophet kill Siegfried Wassmann?
+- What caused the deaths of Siegfried Wassmann and the twenty people in the desert?
+- What is the relationship between Muninn and Michael Silbert?
 - What disappeared from the desert without leaving a trace, as described by the Skeleton King?
 - Can Jin find and eliminate The Prophet before the Main Quest’s time limit expires?
 
