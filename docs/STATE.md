@@ -1,23 +1,24 @@
 # Translation State
 
-- Last completed: 743
-- Next chapter: 744
-- Current block: 740–744 (4/5)
-- Latest translation: `translations/0743.md`
-- Latest summary: `summaries/beats/0743.md`
-- Safe profiles through: chapter 743
+- Last completed: 744
+- Next chapter: 745
+- Current block: 740–744 (5/5)
+- Latest translation: `translations/0744.md`
+- Latest summary: `summaries/beats/0744.md`
+- Safe profiles through: chapter 744
 
 ## Current Block
 
-- Michael Silbert undergoes a brutal bodily transformation and gains overwhelming new power. He orders Huginn to abandon efforts to pursue the suspects in Siegfried Wassmann's death, while secretly funding media outlets to sustain malicious coverage against Jin Taekyung. Michael identifies Jin as the central obstacle to his plans and commands Huginn to complete an undisclosed operation without mistakes. Huginn later destroys the communication crystal's remains at sea, expecting its consequences to begin within three days, though he privately wonders whether the operation can truly bring Jin down.
+- After searching Siegfried Wassmann's hideout, Jin and his companions are detained and questioned by over a hundred Swiss Federal Police Hunters, but they are released because neither the evidence nor the circumstances implicate them. Team Leader Choi explains that Michael Silbert is carefully controlling public opinion by advancing only while he has a convincing justification. Jin gives Magic Johnson a subspace pocket filled with stolen research materials from Siegfried's laboratory, asking him to investigate them for clues while the others pursue information about Michael and The Prophet.
+- Jin, Team Leader Choi, and Magic Johnson agree that finding The Prophet is their best chance to prevent further catastrophe, though even the Pentagon has failed to locate him. Jin vows to search the entire desert if necessary. Far below the surface of the sea, an enormous ancient creature awakens after an immeasurably long slumber, revealing a colossal eye.
 
 ## Open Questions
 
 - Who killed Siegfried Wassmann, by what magic, and why?
 - How did Michael Silbert learn about A Area and Cheon Taemin's condition, and did he order Siegfried's death?
 - What connection, if any, does The Prophet or the terrorist network have to Siegfried's death?
-- Who leaked the classified vigilante operation from within the United States security apparatus?
 - What is Huginn's undisclosed operation, and can its consequences actually bring Jin down?
+- What is the identity, purpose, and origin of the ancient monster that awakened in the deep sea?
 
 ## Exceptional Decision
 
