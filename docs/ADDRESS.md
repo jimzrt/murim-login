@@ -1298,3 +1298,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | Hunter addressing the team leader managing the gathering | Team Leader Choi | casual and teasing | Jin asks whether Choi will manage him and jokes with him about the disrupted plan. |
 | 최 팀장 | 진태경 | team leader addressing Jin Taekyung | Jin Taekyung | polite, exasperated | Choi addresses Jin as 진태경 씨 while complaining about his disregard for the plan. |
 | 존슨 | 파비안 | former_comrades_in_arms | Fabian | casual and teasing | Johnson greets Fabian familiarly, then warns him not to act rashly. |
+| 미카엘 실베르트 | 파비안 | rival leaders of major Guilds | Fabian | familiar, controlled | Michael addresses Fabian while naming former supporters. |
+| 척 헤이글 | 파비안 | former comrades-in-arms turned enemies | Fabian | casual and insulting | Chuck confronts Fabian over his choice to side with Michael. |
+| 파비안 | 척 헤이글 | former comrades-in-arms turned enemies | Chuck Hagel | strained, confrontational | Fabian identifies Chuck when they face one another. |

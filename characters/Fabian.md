@@ -1,6 +1,6 @@
 # Fabian (파비안)
 
-- **Safe through:** Chapter 779
+- **Safe through:** Chapter 781
 - **Aliases:** None
 - **Role:** Fabian is the Guild Master of Kronos, an S-rank Hunter active since the Great Cataclysm.
 - **Personality:** Authoritative and quick to condemn perceived betrayal.
