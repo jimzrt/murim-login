@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“No one here wants to do that.”",
+      "defect": "The pronoun appears to refer to avoiding Michael, which reverses Jin’s meaning: he is agreeing that nobody present wants to run into Michael.",
+      "id": "F01",
+      "rationale": "The Skeleton King says he wants to avoid encountering Michael, and Jin confirms that nobody present wants to encounter him; the following “그거야 그렇지만” also treats Jin’s statement as true.",
+      "replacement": "“No one here wants to run into him.”",
+      "severity": "critical",
+      "source": "“이 자리에 그러고 싶은 사람 아무도 없어.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*I have to stop him. Somehow.*",
+      "defect": "The translation omits 지금이라도, losing the thought’s explicit urgency and sense that Michael must be stopped now, while there is still time.",
+      "id": "F02",
+      "rationale": "지금이라도 means acting now or at least now before the opportunity is lost, not merely stopping him at some unspecified point.",
+      "replacement": "*I have to stop him now, while there’s still time. Somehow.*",
+      "severity": "minor",
+      "source": "‘지금이라도 멈춰야 한다. 어떻게든.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Those five letters that stabbed painfully into my eyes.",
+      "defect": "글자 refers to written characters, not alphabetic letters; “Main Quest” does not contain five English letters.",
+      "id": "F03",
+      "rationale": "메인 퀘스트 consists of five Korean written characters, so “characters” preserves the stated quantity without mistranslating 글자 as English letters.",
+      "replacement": "Those five characters that stabbed painfully into my eyes.",
+      "severity": "minor",
+      "source": "아프도록 눈을 파고드는 저 다섯 글자."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No. I had a vague idea deep down, but I was desperately denying that it could mean only that.",
+      "defect": "“Only that” introduces an exclusivity claim absent from the source. Jin is denying that the feared possibility he suspects is the answer, not arguing that there may be additional meanings.",
+      "id": "F04",
+      "rationale": "그것만은 아닐 것 expresses an emotionally charged refusal to accept that particular dreaded possibility.",
+      "replacement": "No. Deep down, I had an inkling, but I was desperately insisting it couldn’t be that.",
+      "severity": "major",
+      "source": "아니, 내심 짐작하면서도 애써 그것만은 아닐 것이라 부정하고 있다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“...Jin. Human?”",
+      "defect": "The draft invents Jin’s name. 간 is the clipped ending of 인간 as the distant voice comes into focus, not 진.",
+      "id": "F05",
+      "rationale": "Rendering the first fragment as the tail end of “human” preserves both the interrupted perception and the Skeleton King’s established form of address.",
+      "replacement": "“…man. Human?”",
+      "severity": "major",
+      "source": "“……간. 인간?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Let’s go. Before we’re any later.”",
+      "defect": "“Before we’re any later” is not natural English and obscures the urgency of departing before more time is lost.",
+      "id": "F06",
+      "rationale": "더 늦기 전에 naturally means leaving before further delay, and the replacement preserves the brisk spoken register.",
+      "replacement": "“Let’s go. Before we lose any more time.”",
+      "severity": "minor",
+      "source": "“출발하죠. 더 늦기 전에.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Commonly called Namgong in Korea, this country",
+      "defect": "“Namgong” drops the middle syllable of 남아공 and presents the Korean abbreviation as though it were an unexplained proper name.",
+      "id": "F07",
+      "rationale": "남아공 is the Korean abbreviation for South Africa and is syllabically rendered Nam-agong.",
+      "replacement": "Commonly known in Korea by the abbreviation Nam-agong, this country",
+      "severity": "minor",
+      "source": "대한민국에서는 흔히들 남아공이라 부르는 이 나라는"
+    }
+  ],
+  "summary": "One line reverses the intended agreement about avoiding Michael, while several other passages omit urgency, alter Jin’s denial, misread a clipped form of address, or need localized terminology correction.",
+  "version": 1
+}

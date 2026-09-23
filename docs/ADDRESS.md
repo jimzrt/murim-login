@@ -1255,3 +1255,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | trusted team manager to allied Hunter | Mr. Jin Taekyung | formal and polite | Team Leader Choi informs Jin of Germany's request and then reveals Michael was also requested. |
 | 보도국장 | 시몬 | news director to subordinate reporter | Simon | brusque and demanding | The news director orders Simon to cover the anti-Jin protest and later Berlin. |
 | 시몬 | 보도국장 | reporter to superior | Boss | deferential and explanatory | Simon explains why the protest was canceled and identifies Daniel Daisuke. |
+| 진태경 | 최 팀장 | superior_to_trusted_team_leader | Team Leader Choi | polite | Jin calls to Team Leader Choi before asking about Germany's situation. |
+| 최 팀장 | 진태경 | trusted_team_leader_to_superior | Mr. Jin Taekyung | formal-polite | Team Leader Choi addresses Jin while checking whether he is all right. |
+| 스켈레톤 킹 | 진태경 | ally_to_ally | Wicked human | insulting-formal | The Skeleton King uses an insulting vocative while waving a finger in front of Jin. |
