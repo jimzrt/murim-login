@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The survivors who had miraculously lived through it knew the truth. That was why, upon spotting dozens of fighter jets flying toward them from the opposite direction, they had no choice but to cry out until their voices seemed to tear their throats apart.",
+      "defect": "The draft replaces the source’s specific image of crying out as though coughing up blood with an invented image of voices tearing throats apart.",
+      "id": "F01",
+      "rationale": "The replacement preserves the source’s 피를 토하듯 image and its desperate register without adding a different physical effect.",
+      "replacement": "The survivors who had miraculously lived through it knew the truth. That was why, upon spotting dozens of fighter jets flying toward them from the opposite direction, they could only scream as though coughing up blood.",
+      "severity": "minor",
+      "source": "기적적으로 살아남은 생존자들은 그 진실을 알고 있었고, 그렇기에 자신들의 맞은편에서 날아오는 수십여 대의 전투기들을 발견하고 피를 토하듯 부르짖을 수밖에 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But the thing that had plunged the operations control room into deathly silence was not merely the tsunami that had already swallowed nearly ten cities and now threatened the capital.",
+      "defect": "“Nearly ten” means fewer than ten, whereas 열 개에 달하는 means the number has reached or amounts to as many as ten.",
+      "id": "F02",
+      "rationale": "The replacement restores the stated scale of the destruction instead of reducing the number of cities affected.",
+      "replacement": "But the thing that had plunged the operations control room into deathly silence was not merely the tsunami that had already swallowed as many as ten cities and now threatened the capital.",
+      "severity": "critical",
+      "source": "하지만 작전 통제실을 죽음 같은 침묵으로 몰아넣은 것은, 이미 열 개에 달하는 시(市)를 집어삼키고 수도마저 위협하는 저 쓰나미의 존재 때문만은 아니었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Shut your mouth, Yoshimura.”",
+      "defect": "“Shut your mouth” sanitizes 주둥이, a deliberately contemptuous term equivalent to “trap” or “muzzle.”",
+      "id": "F03",
+      "rationale": "The replacement preserves the Defense Minister’s coarse, demeaning register toward his subordinate.",
+      "replacement": "“Shut your trap, Yoshimura.”",
+      "severity": "major",
+      "source": "“주둥이 닥치고 있게, 요시무라.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“That man! Call that Chosŏn-jing![^1] I mean Jin Taekyung!”",
+      "defect": "“I mean” invents a self-correction absent from the source, while the hybrid spelling “Chosŏn-jing” does not accurately render the Japanese slur and the normalized name loses the drawn-out shout.",
+      "id": "F04",
+      "rationale": "The source reiterates the order, uses the Japanese slur Chōsenjin, and then bellows Jin Taekyung’s name; it does not retract or correct the insult.",
+      "replacement": "“That man! I said call that Chōsenjin![^1] Jin Taekyuuung!”",
+      "severity": "major",
+      "source": "“그자! 그 조센징을 부르란 말이다! 진태겨엉!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "His pride as a subject of the Great Empire could not accept it, but he had no other choice.",
+      "defect": "“The Great Empire” obscures the explicitly Japanese imperial-nationalist force of 대 황국신민.",
+      "id": "F05",
+      "rationale": "The source invokes the historically charged identity of an imperial Japanese subject, which explains why requesting Jin Taekyung’s help wounds the minister’s pride.",
+      "replacement": "His pride as a subject of the Great Japanese Empire could not accept it, but he had no other choice.",
+      "severity": "major",
+      "source": "대 황국신민으로서의 자존심이 용납할 수 없었지만, 그에게 더 이상의 선택권은 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "> —The entire world has once again been engulfed in flames. Ten days ago, the so-called “Prophet,” who carried out an unprecedented series of terrorist attacks, announced a second wave of coordinated attacks through a video…",
+      "defect": "The established name is “The Prophet,” and “coordinated attacks” adds a coordination detail not present in 두 번째 연쇄 테러.",
+      "id": "F06",
+      "rationale": "The replacement uses the binding name and retains the source’s description of another series of terrorist attacks without adding operational coordination.",
+      "replacement": "> —The entire world has once again been engulfed in flames. Ten days ago, the figure known as “The Prophet,” who carried out an unprecedented series of terrorist attacks, announced a second series of attacks in a video…",
+      "severity": "minor",
+      "source": "- 전 세계가 다시 한번 불길에 휩싸였습니다. 지금으로부터 열흘 전, 사상 초유의 연쇄 테러를 일으킨 바 있던 이른바 ‘선지자’는 동영상을 통해 두 번째 연쇄 테러를 예고……."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Ares and Peace Guild are heading out as the advance team. Five teams are already waiting—B-rank or higher, and limited to volunteers only.”",
+      "defect": "The draft omits “Guild” from the established organization name “Ares Guild,” making “Ares” read like a person or an unmatched modifier.",
+      "id": "F07",
+      "rationale": "Both 아레스 and 평화 refer to established Guild names in this sentence.",
+      "replacement": "“Ares Guild and Peace Guild are heading out as the advance team. Five teams are already waiting—B-rank or higher, and limited to volunteers only.”",
+      "severity": "minor",
+      "source": "“아레스와 평화 길드가 선발대로 출발합니다. 최소 B급 이상, 자원하는 이들만을 대상으로 한 다섯 개 팀이 이미 대기 중입니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Maritime Self-Defense Force being swept away by a gigantic triangular wave. The land sinking beneath the water.",
+      "defect": "“The land sinking” changes the physical mechanism from the land being inundated or submerged to the land itself descending.",
+      "id": "F08",
+      "rationale": "수몰되는 describes inundation beneath water, not geological subsidence or sinking terrain.",
+      "replacement": "The Maritime Self-Defense Force being swept away by a gigantic triangular wave. The land being submerged.",
+      "severity": "major",
+      "source": "거대한 삼각파도에 휩쓸리는 해상 자위대와 수몰되는 육지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "As though proving the power it had inherited from distant myth.",
+      "defect": "The draft makes myth the source from which Leviathan inherited its power, rather than saying ancient myths transmitted accounts of that power.",
+      "id": "F09",
+      "rationale": "The source presents Leviathan’s power as something handed down through ancient myth, not something the monster causally inherited from myth itself.",
+      "replacement": "As though proving the power ascribed to it by myths passed down from time immemorial.",
+      "severity": "major",
+      "source": "아득한 신화로부터 전해져 내려온 자신의 힘을 증명하듯이."
+    }
+  ],
+  "summary": "The draft contains one quantity error and several actionable fidelity, register, terminology, and causal-description issues.",
+  "version": 1
+}
