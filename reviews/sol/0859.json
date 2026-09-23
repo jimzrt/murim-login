@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Every time I hear one of those unbelievable tales of your exploits, my heart swells with pride.",
+      "defect": "“With pride” adds an emotion the prince does not specify.",
+      "id": "F01",
+      "rationale": "가슴이 벅차다 conveys being overwhelmed or stirred, not necessarily pride.",
+      "replacement": "Every time I hear one of those unbelievable tales of your exploits, I can hardly contain my excitement.",
+      "severity": "minor",
+      "source": "그 믿을 수 없는 무용담(武勇談)을 들을 때마다 과인의 가슴이 벅찰 지경이었지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "If you’re having trouble breathing, that’s a little concerning.",
+      "defect": "The draft changes Jin’s specific joke about hyperventilation into a generic concern about breathing.",
+      "id": "F02",
+      "rationale": "과호흡 means hyperventilation; Jin is treating the prince’s figurative excitement as a medical symptom.",
+      "replacement": "If you’re hyperventilating, that’s a little concerning.",
+      "severity": "major",
+      "source": "과호흡 증상이면 좀 걱정인데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With a vigorous salute he couldn’t voice aloud, the subordinate rode off like the wind, becoming one with his horse.",
+      "defect": "The draft makes the salute something the subordinate cannot voice; it is his cry of loyalty that he cannot shout.",
+      "id": "F03",
+      "rationale": "The unspoken cry is the preceding 충; 군례 is the physical salute.",
+      "replacement": "Unable to shout it aloud, the subordinate gave a vigorous military salute, then rode off like the wind, moving as one with his horse.",
+      "severity": "major",
+      "source": "차마 소리 내어 외칠 수 없는 힘찬 군례(軍禮)와 함께, 말과 한 몸이 되어 바람처럼 사라지는 수하의 뒷모습을 바라보던 정호군은 내심 중얼거렸다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "Personally, I had no desire to end up in that situation. But I couldn’t ignore the ominous feeling that had been haunting me ever since Sichuan.",
+      "defect": "“End up in that situation” changes what Jin dislikes doing: he is referring to his own anxious behavior, not stating that he does not want to enter the capital.",
+      "id": "F04",
+      "rationale": "이러고 싶지는 않지만 points back to his involuntary reaction, including licking his dry lips.",
+      "replacement": "I really didn’t want to be acting like this, but I couldn’t shake the ominous feeling that had haunted me ever since Sichuan.",
+      "severity": "major",
+      "source": "개인적으로도 도저히 이러고 싶지는 않지만, 사천에서부터 줄곧 뇌리를 떠나지 않던 불길한 예감은 어쩔 수 없었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Traitors. They’re a threat.”",
+      "defect": "The draft turns the Emperor’s imagined single, curt declaration into two statements.",
+      "id": "F05",
+      "rationale": "Jin specifies that the Emperor would point at them and say just one thing; the Korean gives one compact accusation.",
+      "replacement": "“They’re dangerous traitors.”",
+      "severity": "minor",
+      "source": "해로운 역적이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Because I’m a man among men. Hyuk Mujin, the Tenfold Man who does the work of ten men! That’s me.”",
+      "defect": "“Does the work of ten men” turns Mujin’s boast about exaggerated manliness into a claim about productivity, weakening the invented-title joke.",
+      "id": "F06",
+      "rationale": "상남자 and 십상남자 build the joke around being a macho man ten times over, not doing ten men’s work.",
+      "replacement": "“Because I’m the manliest of men. Hyuk Mujin, the Tenfold Man—with enough manliness for ten men! That’s me.”",
+      "severity": "major",
+      "source": "제가 또 상남자 중의 상남자 아니겠습니까. 상남자 열 명분의 몫을 하는 십상남자(十上男子) 혁무진! 그게 바로 접니다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "This is getting ridiculous. Seriously.",
+      "defect": "The closing reaction softens Jin’s coarse disgust.",
+      "id": "F07",
+      "rationale": "지랄 났다 is markedly cruder than “getting ridiculous,” and the blunt profanity is part of the punchline.",
+      "replacement": "What a fucking mess. Seriously.",
+      "severity": "minor",
+      "source": "지랄 났다. 진짜."
+    }
+  ],
+  "summary": "Several localized changes alter a joke, a physical action, and Jin Taekyung’s reaction; other lines add or soften meaning.",
+  "version": 1
+}

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“About three days.”",
+      "defect": "Ju estimates five days to Jiangsu earlier in the same conversation, with no intervening travel.",
+      "id": "C01",
+      "rationale": "This preserves the established estimate and gives Jin’s proposal to cut the journey to two days a consistent starting point.",
+      "replacement": "“About five days.”",
+      "severity": "major",
+      "source": "Chapter 855, Ju Hwaran’s second travel estimate"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Three characters were engraved on its dirt-streaked surface.",
+      "defect": "The English inscription that follows is three words, not three characters.",
+      "id": "C02",
+      "rationale": "The description then matches what appears on the English reading copy’s badge.",
+      "replacement": "Three words were engraved on its dirt-streaked surface.",
+      "severity": "minor",
+      "source": "Chapter 857, description of the Guard badge"
+    },
+    {
+      "confidence": 0.99,
+      "current": "But the tension in the courtyard was already so taut it felt ready to burst.",
+      "defect": "The confrontation takes place on the road; no courtyard has been established.",
+      "id": "C03",
+      "rationale": "Keeps the scene in its established location.",
+      "replacement": "But the tension on the road was already so taut it felt ready to burst.",
+      "severity": "minor",
+      "source": "Chapter 858, standoff after the arrow is returned"
+    },
+    {
+      "confidence": 0.92,
+      "current": "Those two words were enough.",
+      "defect": "The preceding English identifies the significant expression as “a prediction,” not two words.",
+      "id": "C04",
+      "rationale": "Preserves the realization without an unsupported word count.",
+      "replacement": "That was enough.",
+      "severity": "minor",
+      "source": "Chapter 859, subordinate’s reaction to Jeong Hogun’s message"
+    }
+  ],
+  "summary": "The packet is broadly consistent, but four reading-copy details create avoidable timeline, setting, or English-formatting contradictions.",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # Jeong Hogun (정호군)
 
-- **Safe through:** Chapter 858
+- **Safe through:** Chapter 859
 - **Aliases:** None
 - **Role:** Jeong Hogun is a commander of the Embroidered Uniform Guard and a highly skilled martial artist whose force includes dozens of Peak masters.
 - **Personality:** Disciplined and resolute, he presents loyalty to the Emperor's command as the foundation of his force's actions.
