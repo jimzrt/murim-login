@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The Skeleton King’s strike cutting through the air. And someone’s arm shooting up through the blood.\n\n*I got it.*",
+      "defect": "Jin claims the hit as his own, although he is watching the Skeleton King's strike sever the arm.",
+      "id": "F01",
+      "rationale": "The immediately preceding sentence identifies the Skeleton King as the one striking; Jin observes the severed arm.",
+      "replacement": "The Skeleton King’s strike cutting through the air. And someone’s arm shooting up through the blood.\n\n*He cut it off.*",
+      "severity": "critical",
+      "source": "허공을 가로지르는 스켈레톤 킹의 일격을. 그리고 핏물과 함께 솟구친 누군가의 팔을.\n\n‘베었다.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "At that moment—\n\nWatching blades of wind rain down on the Skeleton King, the Doppelganger was certain.",
+      "defect": "The rushing sound of the Air Slash is omitted.",
+      "id": "F02",
+      "rationale": "The source places an audible rush between the spell's activation and the Doppelganger's assessment of its effect.",
+      "replacement": "At that moment—\n\n*Whoooosh!*\n\nWatching blades of wind rain down on the Skeleton King, the Doppelganger was certain.",
+      "severity": "minor",
+      "source": "그 순간.\n\n슈화아아악!\n\n스켈레톤 킹을 향해 빗발치는 바람의 칼날을 바라보며, 도플갱어는 확신했다."
+    }
+  ],
+  "summary": "One action is assigned to the wrong character, and a source sound cue is omitted.",
+  "version": 1
+}

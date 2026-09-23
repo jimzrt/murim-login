@@ -1,0 +1,99 @@
+{
+  "chapter": 825,
+  "files": {
+    "characters/Divine Physician.md": "233ead5d4e51433b2203e70270141ff2ec38e6dcd173856e33c662ec3451ea9f",
+    "characters/Doppelganger.md": "2f723d0e7c1069aba4249a148509d82663f803ccc4e669dfdc55b62f6763f90a",
+    "characters/Human Butcher.md": "f976a52922d30a81e2fa3c3de9722ab66b13034333f82ee9e034fad4c05ff677",
+    "characters/Jin Taekyung.md": "f166e9cd2790f9014c23208458aedbed7f5d76165074eb03a5c6e0325129266a",
+    "characters/Jintae.md": "bca93f58fcaee58f2b1cc877f2e6c3aa232daa090fc31a52e1965ec76d2bebce",
+    "characters/Michael.md": "689c79d93ec32bafd48ac7c1412b3fc776ae53392cab140cd789e89e7775b5ab",
+    "docs/ADDRESS.md": "67c773e1faecc341a7cfdee91a1ed0aa8d8bc470d8ce806fc6749e013e6e32b8",
+    "docs/CONTEXT.json": "9a91b4e9f766f31db12315585e1b043f336a37bfc2274865236ec137560b2402",
+    "docs/NAMES.md": "3c3b9627e7353c69a66f8e10657ef055c79a30700111295e071d564e07f7e0ae",
+    "docs/STATE.md": "eaa4b79d6ed4f4a44a10f42c00d24c85aca58d70e76e8a57593b54c6f9cf1dee",
+    "summaries/beats/0825.md": "26dac68dd959b6df0ad8edbe7361cac52bc90168d135d888c6cef0c206dc9275"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "friend_and_ally",
+        "normal_address": "Go",
+        "notes": "Urges Jin forward during their coordinated attack.",
+        "speaker": "스켈레톤 킹",
+        "speech_level": "casual imperative"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "enemy",
+        "normal_address": "you",
+        "notes": "Replies to Jin’s taunt without using a name or title.",
+        "speaker": "도플갱어",
+        "speech_level": "measured and informal"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jin and the Skeleton King have engaged the Doppelganger; the Doppelganger is injured but alive and still possesses the Grand Mage’s soul and power. Jin cannot move because his mental strength is depleted, and the ruins are now pulsing with an unknown force."
+      ],
+      "plot": [
+        "Jin Taekyung and the Skeleton King arrive by long-range Teleport at the Doppelganger’s location. Despite severe physical aftereffects from the spell, Jin strikes with White Flame, and the Skeleton King attacks in coordination with him. The Doppelganger survives by using Blink and shields, but the Skeleton King severs one of its arms. It says it needs the Grand Mage’s soul for what comes next, then a tremendous force pulses through the ruins."
+      ],
+      "translation_decisions": [
+        "Render 에어 슬래시 as “Air Slash” and 실드 마법 as “Shield magic.”",
+        "The blue-white flames are produced by Jin’s White Flame spear attack."
+      ]
+    },
+    "chapter": 825,
+    "context": {
+      "active_continuity": [
+        "Jin Taekyung is the World Hunter Federation’s Alliance Leader and pursues Main Quest [Cataclysm], which requires him to eliminate The Prophet within an unspecified time limit.",
+        "The Prophet is a Level 170 Doppelganger titled “The Final Abyss,” who concealed itself for decades, including under the name Muninn.",
+        "The Doppelganger can resurrect by consuming absorbed lives and reproduce absorbed people’s appearances, abilities, and memories; it has taken Siegfried Bassman’s face and Grand Mage abilities.",
+        "The Doppelganger’s absorbed lives were dwindling after it forced Blink beyond its normal range; it has since killed twenty followers and absorbed their vitality and souls.",
+        "The Doppelganger confirmed Jin is the Chosen One and believes its master will be pleased.",
+        "The Doppelganger has lost an arm but remains alive and retains the Grand Mage’s soul, which it says it needs for what comes next.",
+        "Jin’s White Flame spear produces blue-white flames.",
+        "Jin and the Skeleton King have engaged the Doppelganger after Teleporting hundreds of kilometers; their attacks are coordinated.",
+        "The long-range Teleport left Jin physically injured, and his mental strength is depleted; he cannot move.",
+        "A tremendous force is pulsing through the ruins where Jin, the Skeleton King, and the Doppelganger are fighting.",
+        "Magic Johnson stayed behind to guard the battlefield."
+      ],
+      "continuity_sources": [
+        824,
+        825
+      ],
+      "open_questions": [
+        "Who is the Doppelganger’s master, what is the plan, and why must the target be avoided until it is complete?",
+        "What does the Chosen One designation mean?",
+        "What is the force pulsing through the ruins, and what will it do?",
+        "Is Magic Johnson human?"
+      ],
+      "safe_through": 825,
+      "temporary_decisions": [
+        "Keep magical power distinct from mana.",
+        "Keep Blink distinct from Teleport and Warp; extended-range Blink causes severe strain.",
+        "Keep Fire Storm and Aqua Storm as distinct named spells.",
+        "Render [영웅의 검] as “Hero’s Sword.”",
+        "Render 에어 슬래시 as “Air Slash” and 실드 마법 as “Shield magic.”"
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Air Slash",
+        "korean": "에어 슬래시",
+        "notes": "The Doppelganger’s wind-blade spell."
+      },
+      {
+        "english": "Shield",
+        "korean": "실드",
+        "notes": "Spell used by the Doppelganger to create layered barriers."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}

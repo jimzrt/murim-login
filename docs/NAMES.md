@@ -2337,3 +2337,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 파이어 스톰 | **Fire Storm** | Magic Johnson’s named fire spell. |
 | 한스 | **Hans** | Hunter killed by a dagger during the battle. |
 | 하미드 샤 마수드 | **Hamid Shah Masoud** | Hamid’s full name, revealed by Jin. |
+| 에어 슬래시 | **Air Slash** | The Doppelganger’s wind-blade spell. |
+| 실드 | **Shield** | Spell used by the Doppelganger to create layered barriers. |
