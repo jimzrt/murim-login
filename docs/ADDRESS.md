@@ -1258,3 +1258,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | superior_to_trusted_team_leader | Team Leader Choi | polite | Jin calls to Team Leader Choi before asking about Germany's situation. |
 | 최 팀장 | 진태경 | trusted_team_leader_to_superior | Mr. Jin Taekyung | formal-polite | Team Leader Choi addresses Jin while checking whether he is all right. |
 | 스켈레톤 킹 | 진태경 | ally_to_ally | Wicked human | insulting-formal | The Skeleton King uses an insulting vocative while waving a finger in front of Jin. |
+| 진태경 | 슈마허 | rescuer to endangered allied Hunter | you | casual and blunt | Jin asks Schumacher whether he intends to die after arriving between him and the Minotaur Lord. |
