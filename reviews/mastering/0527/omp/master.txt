@@ -44,7 +44,7 @@ Hyuk Mujin went downstairs at a leisurely pace, then came racing back.
 
 “K-K-Kongtong Sect! The Kongtong Sect Leader!”
 
-“Bring him in at once! Bring him innnn!”
+“Bring him in at once! Bring him in!”
 
 *Wait, why is hyung here?*
 
@@ -62,7 +62,7 @@ Of course, far more of them came to make a new connection.
 
 “…Receive him with due courtesy.”
 
-“A representative from the Murim world of Guizhou was sent as well……”
+“A representative from the Murim world of Guizhou has come too…”
 
 “…Bring him in as well.”
 
@@ -150,7 +150,7 @@ And not all of them were martial artists.
 
 “Give back every last bit and send them away. While I’m still asking nicely.”
 
-Now there were even people slipping bribes to Hyuk Mujin.
+Now people were even bribing Hyuk Mujin to get to me.
 
 Most of the visitors so far had arranged their appointments through Jin Wikyung, so I’d met them reluctantly. They knew full well he was the only way to get an appointment with me. Anyone who came directly fell into one of two categories.
 
@@ -178,13 +178,13 @@ The sight had clearly startled everyone. Some nodded, acknowledging the ability 
 
 I couldn’t be sure, but their guts were probably twisted with resentment by now. After all, the Jin Family of Taiyuan and I had begun rising rapidly, and our history with them was anything but friendly.
 
-The bad blood had started with the Three Hands of Zhongnan, the three idiots of the Zhongnan Sect. It had worsened when the Roaring Fury Swordsman came to the Jin Family of Taiyuan’s New Year’s Day banquet and caused a scene, only to be beaten by Jeok Cheongang like a dog on the hottest day of summer.
+The bad blood had started with the Three Hands of Zhongnan—the Zhongnan Sect’s three idiots. It had worsened when the Roaring Fury Swordsman came to the Jin Family’s New Year’s Day banquet to cause trouble, only to get beaten by Jeok Cheongang like a dog on a dog-meat day.
 
-And that wasn’t all. The feud had reached its peak when the Taeeul Merciless Sword, regarded alongside the Sect Leader Wind-and-Cloud Sword Lord as the Zhongnan Sect’s greatest master, was defeated by me.
+And that wasn’t all. The feud had reached its peak when I defeated the Taeeul Merciless Sword, who was counted alongside Sect Leader Wind-and-Cloud Sword Lord among Zhongnan’s greatest masters.
 
 After that much humiliation, seeing me in the spotlight must have made them grind their teeth. For all I knew, they were somewhere right now biting, tearing, and chewing on me, the Jin Family of Taiyuan, and Jeok Cheongang.
 
-Given the personalities of the Zhongnan Sect’s people I had seen so far, I could almost believe it if they joined hands with Dark Heaven.
+Given what I’d seen of Zhongnan’s people, I might even nod if someone told me they’d joined hands with Dark Heaven.
 
 *Hey, Zhongnan Sect.*
 
@@ -256,7 +256,7 @@ Then why did it look nothing like martial arts? I asked with complete sincerity.
 
 “No. It’s a footwork technique.”
 
-“……Then you should stand up and do it, you idiot.”
+“…Then stand up, you idiot.”
 
 “Oh, right. I forgot.”
 
@@ -264,7 +264,7 @@ Then why did it look nothing like martial arts? I asked with complete sincerity.
 
 While I was at a loss for words, Cheongpung sprang to his feet and took a step.
 
-Or rather, the moment I felt him take a step, his figure disappeared.
+Or rather, the moment I thought he’d taken a step, he vanished.
 
 Whoosh!
 

@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled English is largely faithful, but it omits a source-specific comparison in the population-aging joke.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 181",
+      "current": "Murim had reached such an extreme level of population aging that the platform could have passed for a senior center.",
+      "defect": "The Korean compares Murim’s extreme population aging to that of a remote mountain village in the 21st century. The current version drops that image, which sets up the senior-center joke.",
+      "replacement": "Murim’s population had aged so badly that it was like a remote mountain village in the 21st century; the platform could have passed for a senior center.",
+      "rationale": "The source explicitly says “21세기 두메산골처럼” (“like a remote mountain village in the 21st century”), a source-specific comparison absent from the English.",
+      "confidence": 0.98
+    }
+  ]
+}
