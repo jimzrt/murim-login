@@ -42,7 +42,7 @@ Coming from the guy who’d singled me out as the only person who could have tak
 
 …This bastard.
 
-I held back the urge to punch him and answered.
+I held back the urge to smack him.
 
 “Apparently, some people feel shitty about me becoming a pavilion master.”
 
@@ -106,7 +106,7 @@ That was how Jin Taekyung had lived, and that was how he would keep living.
 
 I lightly smacked the back of Hyuk Mujin’s head as he stared at me in confusion, then kept walking.
 
-The news of the Murim Alliance’s new young pavilion master must have already spread, because the gazes of the martial artists walking along the main road were burning with interest.
+News of the Murim Alliance’s new young pavilion masters must have spread already. The martial artists on the main road watched me with keen interest.
 
 “See him over there? That’s Blazing Flame Divine Dragon Jin Taekyung…”
 
@@ -144,17 +144,17 @@ Maybe the planet Murim was on was actually Planet Vegeta.
 
 Armed with that perfectly reasonable suspicion, I scanned the crowd for yellow hair. More whispers drifted my way.
 
-“What do you think? Should I make an impression on him now?”
+“What do you think? Should I go introduce myself?”
 
 “Are you thinking of applying to the Two Dragons Pavilion?”
 
 “Hmm. I’m considering it. Blazing Flame Divine Dragon is much younger than me, but they say his martial arts already rival those of the great sects’ Sect Leaders.”
 
-“Could he really be that strong? And even if the Blazing Flame Divine Dragon’s martial arts are as impressive as the rumors say, you should stay away.”
+“Can he really be that strong? Even if he is, you’d be better off staying away.”
 
 “Why?”
 
-“Think carefully about everything the Blazing Flame Divine Dragon has done until now. Even if he has the worst luck in the world, how does he manage to choose nothing but deadly situations every time he moves? Accomplishing great deeds is all well and good, but if someone at our level joined the Two Dragons Pavilion, whew.”
+“Think about where he’s been. Even with the worst luck in the world, how does a man end up in a deadly situation every time he goes anywhere? Earning merit is all well and good, but if martial artists like us joined the Two Dragons Pavilion… Whew.”
 
 “Still, shouldn’t we try to accomplish something?”
 
@@ -164,7 +164,7 @@ Armed with that perfectly reasonable suspicion, I scanned the crowd for yellow h
 
 “Hm? Why?”
 
-“I heard the snake the Huashan Divine Dragon keeps with him bites people.”
+“I hear the snake he keeps with him bites people.”
 
 “…Oh dear.”
 
@@ -186,13 +186,13 @@ Tang Sa*: Ah, Mimi…
 
 Once the comments piled up and ten thousand people signed in favor of punishment, Mimi’s fate would be sealed. Hmm.
 
-That was when I was spreading my imagination’s wings.
+I was still imagining it when another voice caught my ear.
 
 “Was it about half an hour ago? I heard a commoner passing down the main road saw the snake, panicked, and fell while backing away. He was hurt a little.”
 
 “Oh dear. What happened then?”
 
-“I heard that some young medical apprentice who was with the Huashan Divine Dragon took him to a medical clinic. Since it happened because he startled himself, it isn’t that serious—ugh.”
+“Some young medical apprentice who was with the Huashan Divine Dragon took him to a clinic. He only fell because he scared himself, so it shouldn’t be a big deal—”
 
 The martial artist cut himself off with a gasp.
 
@@ -200,7 +200,7 @@ I’d come up within a step of him. His eyes shook as he stared at me.
 
 “G-Great Hero Jin?”
 
-“Ah, don’t be startled. It’s nothing serious. I just wanted to ask you something.”
+“Don’t be alarmed. I just wanted to ask you something.”
 
 “W-What is it?”
 
@@ -278,7 +278,7 @@ I had to succeed. And with all the trouble ahead, I needed to choose my members 
 
 *Leave out anyone who’d follow me without being asked. I need someone I can persuade to come over first—and someone who’ll be a big help.*
 
-That was what came to mind the instant I checked the Quest. And I didn’t have to think for long.
+The thought had come to me the moment I saw the Quest. I didn’t need long to settle on a name.
 
 The first person I should recruit had practically been decided from the start.
 
@@ -298,7 +298,7 @@ I took a deep breath and headed for the clinic.
 
 Mungyeong wasn’t even surprised anymore. Jin Taekyung was always like this.
 
-Jin Taekyung had called Mungyeong out of the blue, saying that the two of them had something to discuss privately, only to start spouting nonsense.
+He’d called Mungyeong aside, insisting they needed to speak alone, only to blurt out nonsense. Mungyeong regarded him steadily.
 
 “No.”
 
@@ -314,4 +314,4 @@ Asking *why* was ridiculous. There were more reasons than Mungyeong could count.
 
 “Uh, sorry, Benefactor.”
 
-Jin Taekyung’s eyes widened as he looked at Cheongpung.
+At the sudden voice, Jin Taekyung turned. His eyes widened when he saw Cheongpung.

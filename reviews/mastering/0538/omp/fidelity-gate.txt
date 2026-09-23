@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is broadly faithful, but it omits Mungyeong’s reaction before his refusal and the other person’s appearance at the chapter’s close.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 331–333",
+      "current": "Jin Taekyung had called Mungyeong out of the blue, saying that the two of them had something to discuss privately, only to start spouting nonsense.",
+      "defect": "The source says Mungyeong watched Jin Taekyung with a deeply settled gaze before answering. That reaction is omitted.",
+      "replacement": "Jin Taekyung had called Mungyeong out of the blue, saying that the two of them had something to discuss privately, only to start spouting nonsense. Mungyeong fixed him with a deep, steady gaze.",
+      "rationale": "The Korean explicitly describes Mungyeong looking at Jin Taekyung with a deeply lowered gaze between the call and his refusal.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 349",
+      "current": "Jin Taekyung’s eyes widened as he looked at Cheongpung.",
+      "defect": "The source says a person appears as a voice suddenly rings out, then Jin Taekyung looks at Cheongpung. The translation omits the appearance.",
+      "replacement": "A voice suddenly rang out, and someone appeared. Jin Taekyung’s eyes widened as he looked at Cheongpung.",
+      "rationale": "The source explicitly describes a person appearing alongside the sudden voice; this is a concrete entrance beat, not just a change in who Jin Taekyung is looking at.",
+      "confidence": 0.96
+    }
+  ]
+}
