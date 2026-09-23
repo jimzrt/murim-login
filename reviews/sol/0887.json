@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“A fight to the death. Heh.”",
+      "defect": "A fight to the death does not convey that both opponents die.",
+      "id": "F01",
+      "rationale": "동귀어진 means mutual destruction, which is what So Gyo recognizes in his threat.",
+      "replacement": "“So you’re ready to take me down with you. Heh.”",
+      "severity": "major",
+      "source": "“동귀어진(同歸於盡)이라. 하.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Yeah. Why insist on fighting me with that battered body of yours, even if it means a fight to the death?”",
+      "defect": "The question again reduces his willingness to die alongside her to an ordinary lethal fight.",
+      "id": "F02",
+      "rationale": "So Gyo specifically asks why he would face her despite his condition and his willingness to accept mutual destruction.",
+      "replacement": "“Yeah. Why insist on fighting me with that body of yours in such poor shape, when you’re even prepared to die taking me down?”",
+      "severity": "major",
+      "source": "“그래. 동귀어진마저 각오하는, 그 성치 않은 몸으로 굳이 내게 맞서려는 이유.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“And I think I understand a little why Prince Shangshan, that child, follows you around so much. Yes. I really do.”",
+      "defect": "“Follows you around” makes the prince’s devotion sound like physical trailing.",
+      "id": "F03",
+      "rationale": "Here 따르다 describes the child’s regard for Taekyung, not where he walks.",
+      "replacement": "“And I think I understand a little why Prince Shangshan, that child, looks up to you so much. Yes. I really do.”",
+      "severity": "major",
+      "source": "“그리고 상산왕, 그 어린아이가 왜 그리 널 따르는지 조금은 알 것 같네. 응, 확실히.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "So if one life of mine could make up for it, I’d be lucky.",
+      "defect": "“Make up for it” suggests his death would compensate for those already killed, rather than stop further harm at the cost of his life.",
+      "id": "F04",
+      "rationale": "His stated reason for fighting is that fewer of his people will die; 퉁칠 수 있다면 frames his own life as the cost of that outcome.",
+      "replacement": "So if I could put an end to it with just my life, I’d count myself lucky.",
+      "severity": "major",
+      "source": "그러니 나 한 사람으로 퉁칠 수 있다면 오히려 다행이다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Not because I needed time to think. To me, the reason was so obvious that I didn’t know what to say.",
+      "defect": "The draft adds an inability to find words that the source does not state.",
+      "id": "F05",
+      "rationale": "The source explains his silence solely by how self-evident the reason is to him.",
+      "replacement": "Not because I needed time to think about the reason, but because it was so obvious to me.",
+      "severity": "minor",
+      "source": "그 이유에 대해 고민할 시간이 필요해서가 아니라, 나로서는 너무나도 당연한 일이었기 때문에."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Her toes touched the bud of some nameless flower in full bloom, soaking up the strongest sunlight of the year.",
+      "defect": "“Bud … in full bloom” is contradictory in English and obscures the delicate landing.",
+      "id": "F06",
+      "rationale": "The flower is described as fully blooming under the sunlight; the English should not make its point of contact an unopened bud.",
+      "replacement": "Her toes touched the blossom of a nameless flower, opened wide beneath the year’s strongest sunlight.",
+      "severity": "minor",
+      "source": "일 년 중 가장 강렬한 햇빛을 받아 활짝 만개한, 어느 이름 모를 꽃의 봉오리에 발끝이 닿는다."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it loses the explicit mutual-death stakes in two lines and weakens several characterization and causal cues.",
+  "version": 1
+}
