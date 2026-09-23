@@ -1,0 +1,1964 @@
+{
+  "baseline_blocks": 138,
+  "baseline_sha256": "5d8e764cd4c01ac4791b9cfe4a51ab77182a800b1af7802d5f912ba2ca27fa60",
+  "global_terminology_alerts": [],
+  "hunk_count": 105,
+  "hunks": [
+    {
+      "baseline": "I knew Mungyeong was approaching. Seven days and nights of grueling—no, blood-shitting—training had sharpened my usual Qi Sense considerably.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "I knew Mungyeong was approaching. Seven days and nights of grueling—no, blood-shitting—training had sharpened my Qi Sense considerably.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The realm stage displayed by the System had not increased yet, but I could vaguely sense that I would have to break through the wall blocking my path before that happened.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "The realm stage shown by the System hadn’t risen yet, but I could vaguely sense that I’d have to break through the wall in front of me before it would.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "My question lingered only briefly.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "The question didn’t trouble me for long.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Yangtze River Channel League and the Green Forest Alliance were both powerful enough that even orthodox Murim could not afford to dismiss them easily. And there was only one place that could be grouped together with those two factions.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "The Yangtze River Channel League and the Green Forest Alliance were powerful enough that even orthodox Murim couldn’t afford to dismiss them. And I could think of only one place with factions that belonged in the same set.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Vaguely recalling what I had once heard from Jeok Cheongang, I murmured,",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "Vaguely recalling something Jeok Cheongang had once told me, I murmured, “The Outer Murim.”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Outer Murim.”",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "",
+      "sol_paragraphs": "after P7",
+      "sol_range": [
+        7,
+        7
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim"
+        },
+        {
+          "korean": "새외무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Outer Murim"
+        }
+      ]
+    },
+    {
+      "baseline": "Some people called the barbarians beyond the Great Wall built by an ancient emperor the Outer Lands, but Jeok Cheongang had always dismissed such talk with a snort.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "Some people called the barbarians beyond the Great Wall, built by an ancient emperor, inhabitants of the Outer Lands. Jeok Cheongang had dismissed that notion with a snort.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whether it was because of his innate temperament or not, Jeok Cheongang’s outlook had been far removed from the stale, old-man Zhonghua chauvinism of his era.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "29",
+      "sol": "Maybe it was just his nature, but Jeok Cheongang’s outlook was nothing like the stale Zhonghua chauvinism you’d expect from an old man of his era.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Part of the reason he had gained such insight was the records left behind by previous Sect Leaders, who had indulged their social-butterfly tendencies to the fullest. That was in contrast to Jeok Cheongang, who had been a Lü Bu living at the foot of a mountain whenever he was not active during the Great Faction War.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "31",
+      "sol": "The records left by earlier Sect Leaders had probably helped. Unlike Jeok Cheongang, who’d been a Lü Bu stuck at the foot of a mountain whenever he wasn’t fighting in the Great Faction War, his predecessors had gone out and indulged their social-butterfly tendencies to the fullest.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Though, to be honest, those records were less like documents written for future generations and more like diaries written for their own satisfaction.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "33",
+      "sol": "Though their records read less like documents written for future generations and more like diaries written for their own satisfaction.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*They had been shocking.*",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "*What a shock those had been.*",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I recalled a few of the records I had read in Fire Gate Cavern.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "I recalled a few I’d read in Fire Gate Cavern.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "---",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "41",
+      "sol": "",
+      "sol_paragraphs": "after P15",
+      "sol_range": [
+        15,
+        15
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had grown sick of the Central Plains. War continues on all sides, and the Murim is a complete mess. So, to broaden my horizons, I went to India.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "I had grown sick of the Central Plains. War raged on all sides, and Murim was a complete mess. So I went to India to broaden my horizons.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It is not as large as the Yangtze, but it is wide… Anyway, to all the younger disciples of the Fire Gate Clan: if you ever go to India, wash yourselves in that Ganges-whatever river first. Do not ask questions. Do not argue.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "49",
+      "sol": "It is not as large as the Yangtze, but it is wide… Anyway, to the younger Disciples of the Fire Gate Clan: if you ever go to India, wash yourselves in that Gan-whatever river first. Do not ask questions. Do not argue.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was sightseeing here and there when a group of bald monks suddenly rushed over, shouted things I could not understand, and thrust swords at me. So I beat them senseless.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "51",
+      "sol": "I was looking around when a mob of bald monks rushed over, shouted things I could not understand, and thrust swords at me. So I beat them senseless.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A Central Plains interpreter who happened to be passing by was horrified and told me that they were from the Small Thunderclap Temple of India.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "53",
+      "sol": "A Central Plains interpreter who happened to be passing by was horrified. He said they were from India’s Small Thunderclap Temple.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had assumed it would be similar to Shaolin Temple from the name alone, but the bald monks here were indescribably violent.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "55",
+      "sol": "From the name, I had assumed they would be like the monks of Shaolin Temple. But these bald monks were violent beyond belief.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I crippled every monk who came with an even larger gang and burned down every strange-looking temple.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "57",
+      "sol": "When more monks came with an even larger mob, I crippled every last one and burned down their strange-looking temples.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was quite a pleasant sight.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "61",
+      "sol": "It was a fine sight.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "---",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "63",
+      "sol": "",
+      "sol_paragraphs": "after P24",
+      "sol_range": [
+        24,
+        24
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I have always held my Grandmaster, the Third Sect Leader, in the deepest respect. Following in his footsteps, I have traveled throughout the world and explored the Outer Murim.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "67",
+      "sol": "I have always held my Grandmaster, the Third Sect Leader, in the deepest respect. Following in his footsteps, I traveled the world and explored the Outer Murim.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I crossed blades with the Mad Wind Society of the great desert beyond the scorching sands, then traveled to the Potala Palace in Tibet and pulled out its pillars.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "69",
+      "sol": "I fought the Mad Wind Society of the great desert beyond the scorching sands, then visited the Potala Palace in Tibet and pulled out its pillars.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As a result, every man and beast in Tibet flew into a rage and chased after me.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "71",
+      "sol": "At that, everyone in Tibet flew into a rage and chased me.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If your opponent is one hundred First Rate masters, fight them head-on. If there are one thousand, unleash the Dance of the Fire God and Demon. If there are more than that, live to fight another day.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "79",
+      "sol": "If you face one hundred First Rate masters, fight them. If you face a thousand, unleash the Dance of the Fire God and Demon. If there are more than that, live to fight another day.",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, if you who are reading this are stronger than I am, just fight them.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "83",
+      "sol": "Of course, if you are stronger than I am, just fight them.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "---",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "87",
+      "sol": "",
+      "sol_paragraphs": "after P34",
+      "sol_range": [
+        34,
+        34
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I went to Persia. I met people who wore something called turbans instead of hero headbands.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "93",
+      "sol": "I went to Persia. I met people who wore things called turbans instead of hero headbands.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They were called Muslims, and they said they believed in a messenger and a prophet.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "95",
+      "sol": "They were called Muslims, and they said they believed in a seer and prophet.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I said I wanted to meet the prophet, they told me he was already dead. I could not understand this at all, so I asked several times. They drew their swords.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "97",
+      "sol": "I said I wanted to meet the prophet, but they told me he was already dead. I could not understand this, so I asked several times. They drew their swords.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Next, I went to the Ice Palace in the North Sea. It was surrounded by nothing but ice and water, so I simply returned.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "103",
+      "sol": "Next was the Ice Palace in the North Sea. There was ice and water everywhere, so I turned back.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To the future disciple who will read this, you go.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "105",
+      "sol": "To the future Disciple reading this: you go.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ah, and I finally learned the name of that Gan-whatever river. The Ganges River. If you go to India, make sure you wash yourself there first. Be sure to wash.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "107",
+      "sol": "Ah, and I learned the name of that Gan-whatever river. The Ganges River. If you go to India, make sure you wash yourself there first. Be sure to wash.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "---",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "109",
+      "sol": "",
+      "sol_paragraphs": "after P43",
+      "sol_range": [
+        43,
+        43
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I am an unworthy Disciple. Following the records of several ancestors, I arrived in India and immediately entered the Ganges River.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "113",
+      "sol": "This unworthy Disciple followed the records of his ancestors to India and went straight into the Ganges River.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "While washing my hair, I saw a corpse being carried down from upstream.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "117",
+      "sol": "As I washed my hair, I saw a corpse floating down from upstream.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I moved to another spot and saw a turd floating past while I was washing my body.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "119",
+      "sol": "I moved to another spot to wash my body and saw a turd float past.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I went upstream, I saw several hundred people throwing corpses into the river and defecating.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "121",
+      "sol": "When I went upstream, I found several hundred people throwing corpses into the river and taking shits.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "---",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "125",
+      "sol": "",
+      "sol_paragraphs": "after P49",
+      "sol_range": [
+        49,
+        49
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even after thinking it over again, all I could find were astonishing stories.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "129",
+      "sol": "They were unbelievable stories, even now.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I only had to skim through the records to see that whenever something displeased them, they smashed their way through anything and everything, whether in the Central Plains or the Outer Murim.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "131",
+      "sol": "A quick skim through the records made it clear that whenever something rubbed those Sect Leaders the wrong way, they smashed whatever was in front of them, whether they were in the Central Plains or the Outer Lands.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim"
+        },
+        {
+          "korean": "새외무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Outer Murim"
+        }
+      ]
+    },
+    {
+      "baseline": "And telling their successors to bathe in the Ganges was no different from a sergeant about to be discharged writing “more field training” on a barracks survey out of pure spite.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "133",
+      "sol": "And telling their successors to bathe in the Ganges was like a sergeant about to be discharged writing “more field training” on a barracks survey out of pure spite.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In other words: *You get fucked too.*",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "135",
+      "sol": "The old *you get fucked too* mentality.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were not many more records about the Outer Murim after his shit-water bath in the Ganges left the Twelfth Sect Leader royally pissed off. But once trade routes connecting the Central Plains to the outside world opened, information about the Murim beyond the Central Plains began to flow in.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "137",
+      "sol": "There weren’t many more records about the Outer Murim after a bath in Ganges shit-water left the Twelfth Sect Leader royally pissed off. But as trade routes opened between the Central Plains and the Outer Lands, information about the Murim beyond the Central Plains began to flow in.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the two factions currently coming from Jeok Cheongang’s mouth were precisely the ones that were geographically closest to the Central Plains and most closely connected to it.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "139",
+      "sol": "The two factions Jeok Cheongang was now naming were the closest to the Central Plains, both geographically and in their dealings with it.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even when I heard them again, the names clearly revealed their respective locations and character.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "143",
+      "sol": "Their names certainly made their respective locations and characters clear.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Jeok Cheongang’s words, which had finally opened the floodgates, Mungyeong nodded with an infuriatingly bright smile.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "145",
+      "sol": "At Jeok Cheongang’s words, Mungyeong nodded with an infuriatingly bright smile.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes, that’s right. My Master told me. He said he had visited them long ago, and from what he had confirmed, they were in no way inferior to the renowned great sects of the Central Plains.”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "147",
+      "sol": "“Yes, that’s right. My Master told me about them. He visited them long ago, and he said that, from what he saw, neither was inferior to the renowned great sects of the Central Plains.”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I would stake everything Hyuk Mujin had on the fact that he had gone there to kill people.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "153",
+      "sol": "I’d bet everything Hyuk Mujin owned that he’d gone there to kill people.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The instant Jeok Cheongang and I exchanged similar looks, Mungyeong’s eyes slowly narrowed.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "155",
+      "sol": "Jeok Cheongang and I exchanged a look. Mungyeong’s eyes narrowed.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ahem. Nothing at all. You truly are a Divine Physician, rushing anywhere there are patients.”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "161",
+      "sol": "“Ahem. Nothing at all. Just what I’d expect of the Divine Physician, rushing wherever there are patients.”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Naturally, I had to play along. Jeok Cheongang had also received considerable help from him, so he had no choice but to do the same.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "163",
+      "sol": "I had to play along, of course. Jeok Cheongang had received considerable help from him too, so he was in the same position.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if he had never done anything suspicious, Mungyeong returned to his medical-apprentice persona and continued.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "165",
+      "sol": "Mungyeong slipped right back into his role as a young medical apprentice and continued.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“My Master said that during the Great Faction War, the Demonic Cult tried to recruit those two factions before anyone else. Is that true, Great Hero Jeok?”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "167",
+      "sol": "“My Master said the Demonic Cult tried to recruit those two factions first during the Great Faction War. Is that true, Great Hero Jeok?”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang answered with a sour expression.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "171",
+      "sol": "Jeok Cheongang answered with a reluctant look.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It is true. To the Demonic Cult, the wicked and unorthodox factions of the Central Plains were branches grown from the same root, so they naturally brought them into the fold. If the North Sea Ice Palace had accepted the Demonic Cult’s offer and moved south while the Nanman Beast Palace moved north, the Great Faction War would have taken a very difficult turn.”",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "173",
+      "sol": "“It is. To the Demonic Cult, the demonic, heterodox factions of the Central Plains were branches of the same root, so of course it brought them into the fold. If the North Sea Ice Palace had accepted its invitation and marched south while the Nanman Beast Palace marched north, the Great Faction War would have been much harder.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "정파",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "orthodox faction"
+        }
+      ]
+    },
+    {
+      "baseline": "But neither of the two factions accepted the hand extended by the Demonic Cult.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "175",
+      "sol": "But neither faction had taken the Demonic Cult’s hand.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The North Sea Ice Palace declared its isolation from the outside world, as it always had. The Nanman Beast Palace, which was geographically closer to the Central Plains, weighed its options and ultimately sided with orthodox Murim.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "177",
+      "sol": "The North Sea Ice Palace had declared itself cut off from the outside world, as it always had. The Nanman Beast Palace, geographically closer to the Central Plains, had weighed its options and sided with orthodox Murim.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Beast Palace bastards only intended to pretend to fight at first, but they ended up being quite a great help. Every one of the countless ferocious beasts they brought was worth several First Rate masters, and the messenger eagles the Demonic Cult sent flying throughout the land were captured by Heavenly Eagles trained through the Beast Palace’s secret martial arts.”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "179",
+      "sol": "“The Beast Palace bastards only meant to make a show of fighting at first, but later they were a great help. Each of the ferocious beasts they brought could do the work of several First Rate masters. And the Heavenly Eagles they’d trained with their secret methods caught the messenger eagles the Demonic Cult sent all over the land.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무공",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial arts"
+        }
+      ]
+    },
+    {
+      "baseline": "The Nanman Beast Palace was practically the public enemy of modern-day animal lovers.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "181",
+      "sol": "The Nanman Beast Palace was practically the sworn enemy of modern-day animal lovers.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For a very long time, its people had captured and trained every kind of creature living in Nanman’s jungles. They had also created and practiced martial arts modeled after the movements of ferocious beasts.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "183",
+      "sol": "For ages, its people had captured and trained all sorts of creatures from Nanman’s jungles. They’d also developed and practiced martial arts modeled on the movements of ferocious beasts.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh, wait. Come to think of it, didn’t you say you were close to someone over there?”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "185",
+      "sol": "“Oh, wait. Didn’t you say you were close to someone over there?”",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When I asked about the thought that had suddenly occurred to me, Jeok Cheongang frowned.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "187",
+      "sol": "Jeok Cheongang frowned at my sudden question.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Palace Lord. The Palace Lord.”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "191",
+      "sol": "“The Palace Lord.”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Beast Miao King was both the lowest-ranking and the most unusual of the Ten Kings.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "197",
+      "sol": "The Beast Miao King was the lowest-ranking of the Ten Kings and perhaps the most unusual.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For one thing, he was the leader of the Miao people, the indigenous people of Nanman. For another, he was the master of the Nanman Beast Palace, which could be called the overlord of Nanman.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "199",
+      "sol": "He was the leader of the Miao people, who were native to Nanman, as well as the master of the Nanman Beast Palace, the region’s dominant power.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had entered the Ten Kings because of his accomplishments during the Great Faction War and his outstanding martial arts. But from the outside, it was almost like an honorary medal given to a foreigner, and perhaps because of that, people within Central Plains Murim were reluctant to mention him.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "201",
+      "sol": "His achievements in the Great Faction War and his outstanding martial arts had earned him a place among the Ten Kings. But from the outside, the title looked almost like an honorary medal awarded to a foreigner. Perhaps that was why even people within Central Plains Murim were reluctant to mention him.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Why raise up some southern barbarian when we could just add another member of orthodox Murim?*",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "203",
+      "sol": "*Why raise up some southern barbarian when we could give the place to one of our own orthodox masters?*",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim"
+        }
+      ]
+    },
+    {
+      "baseline": "That was supposedly how the theory that the Beast Miao King was being overhyped had begun.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "205",
+      "sol": "That was supposedly where the claim that the Beast Miao King was overhyped had begun.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I merely met him face-to-face a few times.”",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "207",
+      "sol": "“I’ve met him a few times, that’s all,” Jeok Cheongang said.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But I heard the Beast Miao King even came to pay his respects to you in person.”",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "209",
+      "sol": "“But I heard the Beast Miao King came to pay his respects to you in person.”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That is true. One day, a black-skinned man with his upper body bare came to my residence in broad daylight. I almost sent a Flame Divine Palm at him.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "211",
+      "sol": "“He did. In broad daylight, some dark-skinned fellow with his upper body bare showed up at my residence. I nearly hit him with a Flame Divine Palm.”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "For some reason, Mu Song, who had been standing awkwardly with an anxious look in his eyes for a while now, opened his eyes wide.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "213",
+      "sol": "Mu Song had been standing awkwardly nearby for a while, looking anxious. Now his eyes widened.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“N-no, that’s not what I meant. I was surprised. My Master has mentioned the Beast Miao King before as well, but I heard that he was short-tempered and arrogant, and showed courtesy only to the Martial God……”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "219",
+      "sol": "“N-no, that’s not what I meant. I’m just surprised. My Master has mentioned the Beast Miao King too, but I heard he was short-tempered and arrogant, and that the Martial God was the only person he showed any courtesy to……”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Seafaring King? Has that young whelp already gone senile? The Beast Miao King only refused to show him respect because he was such a damned fool. Tsk, tsk.”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "221",
+      "sol": "“The Seafaring King? Has that young whelp gone senile already? The Beast Miao King didn’t show him courtesy because he’s a damn fool. Tsk, tsk.”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jeok Cheongang clicked his tongue with an expression of utter disdain and continued.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "223",
+      "sol": "Jeok Cheongang clicked his tongue in disdain.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Beast Miao King may look that way on the surface, but he knows how to show courtesy when necessary. If he were merely an ignorant man with nothing but brute strength, do you think the Miao people would have gathered beneath a single banner?”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "225",
+      "sol": "“The Beast Miao King may look like that, but he knows when to show respect. If he were nothing but a brute with strength to spare, do you think the Miao people would have gathered under one banner?”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was something I could only nod along with.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "227",
+      "sol": "I had to nod at that.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even small- and mid-sized sects with only a few dozen Disciples vanished and reappeared countless times because they could not find enough Disciples. The Beast Miao King, on the other hand, was a tribal chief ruling over several thousand Miao people at the very least.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "229",
+      "sol": "Small and midsized sects with only a few dozen members disappeared for lack of Disciples all the time, only for others to spring up in their place. The Beast Miao King, meanwhile, was a chief who ruled at least several thousand Miao people.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At my question, Jeok Cheongang stroked his gleaming red beard.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "233",
+      "sol": "Jeok Cheongang stroked his glossy red beard.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What do you mean, ‘so’? There was nothing special about it. He came to visit and spoke in a soft, ingratiating tone while bringing up a connection with the previous generation.”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "235",
+      "sol": "“What do you mean, ‘so’? Nothing much happened. He came to visit and spoke pleasantly about a connection between our predecessors.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A connection with the previous generation?”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "237",
+      "sol": "“A connection between our predecessors?”",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good grief. Have you always been this unworthy a fellow? You should know better than anyone else!”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "239",
+      "sol": "“Good grief, you ignorant little fool. You of all people should know!”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Our Old Master had suddenly floored the accelerator and rocketed off.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "243",
+      "sol": "The Old Master had suddenly floored the accelerator.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After unleashing a tirade, Jeok Cheongang continued in an irritated voice.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "245",
+      "sol": "After giving me a thorough scolding, Jeok Cheongang continued in an irritated voice.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“More than two hundred years ago, the Fifth Sect Leader of our sect destroyed the Five Poisons Sect of Nanman.”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "247",
+      "sol": "“More than two hundred years ago, the Fifth Sect Leader of our sect destroyed Nanman’s Five Poisons Sect.”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why would that…… Ah, could it be?”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "249",
+      "sol": "“What does that have to… Ah, wait.”",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“At the time, Nanman was like a cauldron balanced on three legs. The Five Poisons Sect was the strongest, followed by the Nanman Beast Palace, with Poison Valley in last place.”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "251",
+      "sol": "“Back then, Nanman was like a cauldron standing on three legs. The Five Poisons Sect was the strongest, followed by the Nanman Beast Palace, then Poison Valley.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So after the Five Poisons Sect was destroyed, the Nanman Beast Palace rose to the top?”",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "253",
+      "sol": "“So when the Five Poisons Sect was destroyed, the Nanman Beast Palace rose to the top?”",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. It also absorbed Poison Valley and conquered Nanman.”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "255",
+      "sol": "“That’s right. It absorbed Poison Valley as well and took control of Nanman.”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Wow, that’s insane. So that’s how it turned out.”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "257",
+      "sol": "“Wow, that’s insane. So that’s how it happened.”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“For that reason, the Beast Miao King held goodwill toward our sect. It was also one of the reasons he participated in the Great Faction War. But how dare you speak to me informally just now?”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "259",
+      "sol": "“That’s why the Beast Miao King held goodwill toward our sect. It was also one reason he joined the Great Faction War. But did you just dare speak to me informally?”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……I’ll correct myself. It slipped out before I realized it.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "261",
+      "sol": "“……I’ll correct myself. It just slipped out.”",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was impossible not to marvel at how the thug-like behavior of a Sect Leader from generations ago had come back around like this.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "263",
+      "sol": "I couldn’t help marveling at how the thuggish behavior of a Sect Leader from generations ago had paid off like this.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But more importantly, the Beast Miao King held goodwill toward the Fire Gate Clan, and because of that, he had sided with orthodox Murim during the Great Faction War……",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "265",
+      "sol": "More importantly, the Beast Miao King was well disposed toward the Fire Gate Clan, and that was part of why he’d sided with orthodox Murim in the Great Faction War……",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“The Nanman Beast Palace is probably quite likely to participate in this New Murim Alliance.”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "267",
+      "sol": "“Then there’s a good chance the Nanman Beast Palace will join the New Murim Alliance.”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I can’t say for sure. Even this old man cannot make an easy judgment about that. But if the Beast Miao King I remember is still the same, he will help orthodox Murim.”",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "269",
+      "sol": "“I wouldn’t say that for certain. But if the Beast Miao King is the man I remember, he’ll help the orthodox faction.”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무림",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Murim"
+        },
+        {
+          "korean": "노부",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "this old man"
+        }
+      ]
+    },
+    {
+      "baseline": "“Then what about the North Sea Ice Palace?”",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "271",
+      "sol": "“What about the North Sea Ice Palace?”",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If the envoy sent from Henan hasn’t frozen to death on the way, they will probably read the letter at least. But it would be better not to get your hopes up.”",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "273",
+      "sol": "“If the envoy sent from Henan hasn’t frozen to death on the way, they’ll probably read the letter, at least. I wouldn’t get your hopes up.”",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The eyes of the seasoned old martial-world veteran, rich in knowledge and experience, turned toward Mu Song.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "275",
+      "sol": "Jeok Cheongang’s seasoned gaze turned toward Mu Song.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But this is the urgent matter right now. What will the Seafaring King do?”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "277",
+      "sol": "“But our more urgent concern is right here. What will the Seafaring King do?”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, Mu Song flinched.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "277",
+      "sol": "",
+      "sol_paragraphs": "after P125",
+      "sol_range": [
+        125,
+        125
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "무송",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mu Song"
+        }
+      ]
+    },
+    {
+      "baseline": "Mungyeong quietly opened his mouth.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "277",
+      "sol": "Mu Song flinched. Then Mungyeong spoke quietly.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s something I’ve been wanting to ask Great Hero Mu Song for a while.”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "277",
+      "sol": "“There’s something I’ve been wanting to ask you for a while, Great Hero Mu Song.”",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mungyeong silently watched Mu Song’s trembling eyes, then suddenly clicked his tongue.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "277",
+      "sol": "Mungyeong watched Mu Song’s trembling eyes in silence, then clicked his tongue.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 131,
+  "sol_sha256": "b51c79c44d23d7c7e1ecca726fb933524a0629ef29e623e104dadd3285b9b753",
+  "version": 1
+}

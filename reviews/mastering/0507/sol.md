@@ -1,6 +1,6 @@
 # Chapter 507
 
-I knew Mungyeong was approaching. Seven days and nights of grueling—no, blood-shitting—training had sharpened my usual Qi Sense considerably.
+I knew Mungyeong was approaching. Seven days and nights of grueling—no, blood-shitting—training had sharpened my Qi Sense considerably.
 
 The realm stage shown by the System hadn’t risen yet, but I could vaguely sense that I’d have to break through the wall in front of me before it would.
 
@@ -14,7 +14,7 @@ Vaguely recalling something Jeok Cheongang had once told me, I murmured, “The 
 
 The Murim beyond the Central Plains. The Murim outside the Murim.
 
-Some people called the barbarians beyond the Great Wall built by an ancient emperor the Outer Lands, but Jeok Cheongang had always dismissed such talk with a snort.
+Some people called the barbarians beyond the Great Wall, built by an ancient emperor, inhabitants of the Outer Lands. Jeok Cheongang had dismissed that notion with a snort.
 
 *“Does the Great Wall surround the whole world? The world beneath the heavens is exactly that—the world beneath the heavens. The lands beneath the sky are boundlessly vast, and each has its own Murim.”*
 
@@ -27,8 +27,6 @@ Though their records read less like documents written for future generations and
 *What a shock those had been.*
 
 I recalled a few I’d read in Fire Gate Cavern.
-
----
 
 Year xx, Month x, Day x. Cheonbong, Third Sect Leader of the Fire Gate Clan.
 
@@ -48,15 +46,13 @@ When more monks came with an even larger mob, I crippled every last one and burn
 
 It was a fine sight.
 
----
-
 Year xx, Month x, Day x. Songhak, Fifth Sect Leader of the Fire Gate Clan.
 
 I have always held my Grandmaster, the Third Sect Leader, in the deepest respect. Following in his footsteps, I traveled the world and explored the Outer Murim.
 
 I fought the Mad Wind Society of the great desert beyond the scorching sands, then visited the Potala Palace in Tibet and pulled out its pillars.
 
-As a result, every man and beast in Tibet flew into a rage and chased after me.
+At that, everyone in Tibet flew into a rage and chased me.
 
 But who am I? Songhak, the Ghost Flame Fist and Fifth Sect Leader of the great Fire Gate Clan.
 
@@ -70,15 +66,13 @@ Of course, if you are stronger than I am, just fight them.
 
 Ah, and if you go to that Gan-whatever river in India, jump in and wash yourself immediately. Wash yourself twice.
 
----
-
 Year xx, Month x, Day x. Gu Jincheon, Ninth Sect Leader of the Fire Gate Clan.
 
 I went to Nanman. I destroyed the Five Poisons Sect.
 
 I went to Persia. I met people who wore things called turbans instead of hero headbands.
 
-They were called Muslims, and they said they believed in a messenger and a prophet.
+They were called Muslims, and they said they believed in a seer and prophet.
 
 I said I wanted to meet the prophet, but they told me he was already dead. I could not understand this, so I asked several times. They drew their swords.
 
@@ -89,8 +83,6 @@ Next was the Ice Palace in the North Sea. There was ice and water everywhere, so
 To the future Disciple reading this: you go.
 
 Ah, and I learned the name of that Gan-whatever river. The Ganges River. If you go to India, make sure you wash yourself there first. Be sure to wash.
-
----
 
 Year xx, Month x, Day x. Han Xin, Twelfth Sect Leader of the Fire Gate Clan.
 
@@ -104,19 +96,17 @@ When I went upstream, I found several hundred people throwing corpses into the r
 
 For fuck’s sake, how could you pull this kind of bullshit on me?
 
----
-
 “……”
 
 They were unbelievable stories, even now.
 
-I only had to skim through the records to see that whenever something displeased them, they smashed their way through anything and everything, whether in the Central Plains or the Outer Murim.
+A quick skim through the records made it clear that whenever something rubbed those Sect Leaders the wrong way, they smashed whatever was in front of them, whether they were in the Central Plains or the Outer Lands.
 
 And telling their successors to bathe in the Ganges was like a sergeant about to be discharged writing “more field training” on a barracks survey out of pure spite.
 
 The old *you get fucked too* mentality.
 
-There were not many more records about the Outer Murim after his shit-water bath in the Ganges left the Twelfth Sect Leader royally pissed off. But once trade routes connecting the Central Plains to the outside world opened, information about the Murim beyond the Central Plains began to flow in.
+There weren’t many more records about the Outer Murim after a bath in Ganges shit-water left the Twelfth Sect Leader royally pissed off. But as trade routes opened between the Central Plains and the Outer Lands, information about the Murim beyond the Central Plains began to flow in.
 
 The two factions Jeok Cheongang was now naming were the closest to the Central Plains, both geographically and in their dealings with it.
 
@@ -134,7 +124,7 @@ At Jeok Cheongang’s words, Mungyeong nodded with an infuriatingly bright smile
 
 I’d bet everything Hyuk Mujin owned that he’d gone there to kill people.
 
-The instant Jeok Cheongang and I exchanged similar looks, Mungyeong’s eyes slowly narrowed.
+Jeok Cheongang and I exchanged a look. Mungyeong’s eyes narrowed.
 
 “Why are you looking at me like that?”
 
@@ -144,7 +134,7 @@ The instant Jeok Cheongang and I exchanged similar looks, Mungyeong’s eyes slo
 
 I had to play along, of course. Jeok Cheongang had received considerable help from him too, so he was in the same position.
 
-As if he had never done anything suspicious, Mungyeong returned to his medical-apprentice persona and continued.
+Mungyeong slipped right back into his role as a young medical apprentice and continued.
 
 “My Master said the Demonic Cult tried to recruit those two factions first during the Great Faction War. Is that true, Great Hero Jeok?”
 
@@ -152,7 +142,7 @@ As if he had never done anything suspicious, Mungyeong returned to his medical-a
 
 Jeok Cheongang answered with a reluctant look.
 
-“It is true. To the Demonic Cult, the wicked and unorthodox factions of the Central Plains were branches grown from the same root, so they naturally brought them into the fold. If the North Sea Ice Palace had accepted the Demonic Cult’s offer and moved south while the Nanman Beast Palace moved north, the Great Faction War would have taken a very difficult turn.”
+“It is. To the Demonic Cult, the demonic, heterodox factions of the Central Plains were branches of the same root, so of course it brought them into the fold. If the North Sea Ice Palace had accepted its invitation and marched south while the Nanman Beast Palace marched north, the Great Faction War would have been much harder.”
 
 But neither faction had taken the Demonic Cult’s hand.
 
@@ -160,7 +150,7 @@ The North Sea Ice Palace had declared itself cut off from the outside world, as 
 
 “The Beast Palace bastards only meant to make a show of fighting at first, but later they were a great help. Each of the ferocious beasts they brought could do the work of several First Rate masters. And the Heavenly Eagles they’d trained with their secret methods caught the messenger eagles the Demonic Cult sent all over the land.”
 
-The Nanman Beast Palace was practically the public enemy of modern-day animal lovers.
+The Nanman Beast Palace was practically the sworn enemy of modern-day animal lovers.
 
 For ages, its people had captured and trained all sorts of creatures from Nanman’s jungles. They’d also developed and practiced martial arts modeled on the movements of ferocious beasts.
 
@@ -170,25 +160,25 @@ Jeok Cheongang frowned at my sudden question.
 
 “Who?”
 
-“The Palace Lord. The Palace Lord.”
+“The Palace Lord.”
 
 “The Palace Lord? Ah, you mean the Beast Miao King?”
 
 “Yes, him.”
 
-The Beast Miao King was both the lowest-ranking and the most unusual of the Ten Kings.
+The Beast Miao King was the lowest-ranking of the Ten Kings and perhaps the most unusual.
 
 He was the leader of the Miao people, who were native to Nanman, as well as the master of the Nanman Beast Palace, the region’s dominant power.
 
 His achievements in the Great Faction War and his outstanding martial arts had earned him a place among the Ten Kings. But from the outside, the title looked almost like an honorary medal awarded to a foreigner. Perhaps that was why even people within Central Plains Murim were reluctant to mention him.
 
-*Why raise up some southern barbarian when we could just add another member of orthodox Murim?*
+*Why raise up some southern barbarian when we could give the place to one of our own orthodox masters?*
 
 That was supposedly where the claim that the Beast Miao King was overhyped had begun.
 
 “I’ve met him a few times, that’s all,” Jeok Cheongang said.
 
-“But I heard the Beast Miao King even came to pay his respects to you in person.”
+“But I heard the Beast Miao King came to pay his respects to you in person.”
 
 “He did. In broad daylight, some dark-skinned fellow with his upper body bare showed up at my residence. I nearly hit him with a Flame Divine Palm.”
 
@@ -202,7 +192,7 @@ Mu Song had been standing awkwardly nearby for a while, looking anxious. Now his
 
 “The Seafaring King? Has that young whelp gone senile already? The Beast Miao King didn’t show him courtesy because he’s a damn fool. Tsk, tsk.”
 
-Jeok Cheongang clicked his tongue with an expression of utter disdain and continued.
+Jeok Cheongang clicked his tongue in disdain.
 
 “The Beast Miao King may look like that, but he knows when to show respect. If he were nothing but a brute with strength to spare, do you think the Miao people would have gathered under one banner?”
 
@@ -214,7 +204,7 @@ Small and midsized sects with only a few dozen members disappeared for lack of D
 
 Jeok Cheongang stroked his glossy red beard.
 
-“What do you mean, ‘so’? There was nothing special about it. He came to visit and spoke in a soft, ingratiating tone while bringing up a connection with the previous generation.”
+“What do you mean, ‘so’? Nothing much happened. He came to visit and spoke pleasantly about a connection between our predecessors.”
 
 “A connection between our predecessors?”
 
@@ -222,7 +212,7 @@ Jeok Cheongang stroked his glossy red beard.
 
 “Whoa. What’s wrong?”
 
-Our Old Master had suddenly floored the accelerator and rocketed off.
+The Old Master had suddenly floored the accelerator.
 
 After giving me a thorough scolding, Jeok Cheongang continued in an irritated voice.
 
@@ -248,7 +238,7 @@ More importantly, the Beast Miao King was well disposed toward the Fire Gate Cla
 
 “Then there’s a good chance the Nanman Beast Palace will join the New Murim Alliance.”
 
-“I can’t say for sure. Even this old man cannot make an easy judgment about that. But if the Beast Miao King I remember is still the same, he will help orthodox Murim.”
+“I wouldn’t say that for certain. But if the Beast Miao King is the man I remember, he’ll help the orthodox faction.”
 
 “What about the North Sea Ice Palace?”
 
