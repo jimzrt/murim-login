@@ -40,7 +40,7 @@ Jin Taekyung and Cheongpung inspired envy as well as admiration. That was true n
 
 “There’s nothing we can do. The Alliance Leader himself issued the order. Our Sect Leader told us in no uncertain terms not to say a word about it.”
 
-“And what about you?”
+“And what do you think?”
 
 “What good would saying anything do? I’m only a third-generation Disciple. One of my fellow disciples ran his mouth a few shichen ago and paid for it. Our Senior Martial Uncle was furious. He ordered everyone between him and me to assemble, and…”
 
@@ -58,7 +58,7 @@ Jin Taekyung and Cheongpung inspired envy as well as admiration. That was true n
 
 “Good heavens. Did I hear that right? Look at my arm. I’ve got goose bumps.”
 
-“You think you’re bad? Imagine how I and the other Senior Brothers felt after hearing it directly. Even now, I’ve got goose bumps all the way down to my balls.”
+“And you only heard the story. Imagine what it was like for the rest of us to hear him say it. My balls still get goose bumps just thinking about it.”
 
 “Just so we’re clear, you don’t need to show me.”
 
@@ -70,7 +70,7 @@ He had since been appointed Commander of the Murim Alliance’s Outer Hall. Betw
 
 “I heard the Hwangbo Family Head met privately with the Alliance Leader and demanded punishment…”
 
-“He went around telling everyone himself, so it’s probably true. As for the result, you already know.”
+“He’s been telling people so himself, so it’s probably true. As for the result, you already know.”
 
 Hwangbo Gun, the Family Head of the Hwangbo Family, had proudly bragged about his private meeting with the Alliance Leader. Before even half a day had passed, the disciplinary decision arrived, and he had to swallow his humiliation.
 
@@ -104,7 +104,7 @@ It began with a single notice pasted conspicuously on a wall beside a busy main 
 
 “Why would I care what Hyuk-whatsisname did?”
 
-“Because that Hyuk-whatsisname is Blazing Flame Divine Dragon Jin Taekyung’s right-hand man. I read the notice, and apparently the Two Dragons Pavilion is recruiting people.”
+“Because Hyuk-whatsisname works for the Blazing Flame Divine Dragon, Jin Taekyung. I read the notice. The Two Dragons Pavilion is recruiting.”
 
 “What? Is that true?”
 
@@ -120,17 +120,17 @@ These days, any news about the Two Dragons Pavilion was a hot topic in Henan.
 
 And now the youngest pavilion master—whose genius and accomplishments were rare even in Murim’s long history—had done something else?
 
-“Ah, I can’t miss this!”
+“I can’t miss this!”
 
 Martial artists with affiliations, martial artists still looking for a place to belong, and even curious commoners came rushing over.
 
-And when they gathered in one place, they finally saw it.
+And there, they saw it.
 
 ★I Was a Nameless Foot Soldier, but in the Two Dragons Pavilion, I’m a Murim Hero?!★
 
 The words were written in enormous letters beside a bizarre emblem.
 
-The people gathered before it like clouds all widened their eyes and cried out in astonishment.
+The people gathered before it like clouds, eyes wide with astonishment.
 
 “Th-That!”
 
@@ -140,7 +140,7 @@ How could a phrase be so simple, so easy to grasp, and so bold? The lines beneat
 
 **Recruitment Requirements**
 
-**First:** Someone with the passion to do whatever they set their mind to.
+**First:** A willingness to take on anything.
 
 **Second:** An upright character.
 
@@ -158,7 +158,7 @@ Simply reading those magnificent words was enough to set blood surging and heart
 
 “Aaaah! The Two Dragons Pavilion is calling me!”
 
-“Damn it! The level of injuring others with Sword Energy!”
+“Damn it! Injuring others with Sword Energy?”
 
 Hundreds of people who had read the notice were cheering or groaning when—
 
@@ -182,7 +182,7 @@ Then a breathtakingly beautiful woman appeared before the crowd and smiled.
 
 “Waaaaah!”
 
-Hongmae was Honghakru’s most beautiful singer, a singing courtesan famous for her enchanting voice. She bowed her head with graceful poise, then gave a meaningful glance.
+Honghakru’s greatest beauty, a singing courtesan renowned for her enchanting voice, bowed gracefully. She gave the musicians a glance, and they began to play.
 
 Ting-a-ling. Chaarang!
 
@@ -206,7 +206,7 @@ But today was an exception.
 
 I smiled contentedly as I listened to the sounds coming through the gap in the window.
 
-Outside, children who looked to be around elementary school age were running around energetically and singing.
+Outside, children who looked about elementary-school age were running around singing.
 
 “Join the Murim Alliance’s Two Dragons Pavilion, and my era of success begins~!”
 
@@ -218,11 +218,11 @@ Outside, children who looked to be around elementary school age were running aro
 
 “The Murim Alliance’s Two Dragons Pavilion!”
 
-The ending was perfect, too.
+Even the ending was perfect.
 
 I gave myself a little round of applause, then noticed Hyuk Mujin staring at me in disbelief.
 
-“What is it, you bastard?”
+“What, man?”
 
 “…I’m just stunned. I’ve never seen or heard of anything like this.”
 
@@ -258,7 +258,7 @@ Was this how Prometheus had felt in Greek mythology?
 
 The difference was that, instead of donating my organs to an eagle sent by Zeus, I had to deal with the flood of applicants.
 
-“How is the application process? Are you done?”
+“Have you finished taking applications?”
 
 Hyuk Mujin looked at me as though I’d lost my mind.
 
@@ -282,7 +282,7 @@ The door broke apart, and someone appeared.
 
 “Join the Murim Alliance’s Two Dragons Pavilion. My era of success begins.”
 
-The most ominous song in the world.
+The most ominous rendition of the song in the world. A chilling expression.
 
 I froze when I met those glowing red eyes. Fire King Jeok Cheongang spat out his next words.
 

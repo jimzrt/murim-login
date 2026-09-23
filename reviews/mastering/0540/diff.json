@@ -1,0 +1,2084 @@
+{
+  "baseline_blocks": 151,
+  "baseline_sha256": "230024eafa56857fe8ae1c6e4febe97d0d71c6162b5f592dfc6d19f3b4527dd3",
+  "global_terminology_alerts": [
+    {
+      "korean": "사형",
+      "preferred": "Senior Brother"
+    },
+    {
+      "korean": "중독",
+      "preferred": "Poisoned"
+    }
+  ],
+  "hunk_count": 108,
+  "hunks": [
+    {
+      "baseline": "They say that words without feet can travel a thousand li.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "They say words have no feet, yet travel a thousand li.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Under countless watchful eyes, news of two exceptionally young Divine Dragons being appointed pavilion masters by the Alliance Leader’s special order spread across Henan before even two days had passed.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "Under countless watchful eyes, news that two exceptionally young Divine Dragons had been appointed pavilion masters by special order of the Alliance Leader swept across Henan before two days had passed.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whenever two or more people gathered, they were busy gossiping about it.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "15",
+      "sol": "Whenever two or more people gathered, they talked about the appointments.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Opinions were divided, but a considerable number of martial artists viewed Jin Taekyung and Cheongpung’s appointments favorably.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "17",
+      "sol": "Opinions were divided, but many martial artists viewed Jin Taekyung and Cheongpung’s appointments favorably.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Still, considering their ages, haven’t they been given responsibilities that are a little too heavy?”",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "21",
+      "sol": "“Still, considering their ages, haven’t they been given too much responsibility?”",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s what makes it so impressive. Who can achieve that level of might and merit at barely twenty?”",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "23",
+      "sol": "“That’s what makes it so impressive. Who else could achieve that kind of might and merit at barely twenty?”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Damn it. Listening to this is making my stomach hurt.”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "27",
+      "sol": "“Damn it. I can’t stand listening to this.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…And who the hell are you, Brother?”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "29",
+      "sol": "“…And who might you be, Brother?”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, but isn’t it true? Some people are born into good families, meet good masters, learn peerless martial arts, and now they even get to become pavilion masters of the Murim Alliance?”",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "31",
+      "sol": "“Come on. Some people are born into good families, find good masters, learn peerless martial arts, and now they get to be pavilion masters of the Murim Alliance too?”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“By your logic, the young prodigies of the Nine Sects and One Gang and the Five Great Families are all Supreme Peak masters. And why are you taking it out on us?”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "33",
+      "sol": "“By your logic, every young prodigy from the Nine Sects and One Gang and the Five Great Families would be a Supreme Peak master. And why are you taking it out on us?”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I just got pissed off listening to you and decided to butt in.”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "“I got pissed off listening to you, so I butted in.”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But where there was light, there was bound to be shadow.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "But where there was light, there was shadow.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung and Cheongpung were objects of admiration, but they were also objects of envy. That was true not only of wandering martial artists who had lived rough lives, but also of disciples from prestigious sects and families.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "Jin Taekyung and Cheongpung inspired envy as well as admiration. That was true not only of wandering martial artists who had lived rough lives, but also of disciples from prestigious sects and families.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s nothing we can do. It wasn’t just anyone who gave them the appointment—the Alliance Leader himself issued the order. Our Sect Leader firmly told us not to say a word about the matter.”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "43",
+      "sol": "“There’s nothing we can do. The Alliance Leader himself issued the order. Our Sect Leader told us in no uncertain terms not to say a word about it.”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And what about you?”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "45",
+      "sol": "“And what do you think?”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Whew. What good would it do to say anything? I’m only a third-generation Disciple. Besides, one of my fellow disciples let his mouth run a few shichen ago and got it bad. The enraged Senior Martial Uncle ordered everyone above him and below me to assemble, so…”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "47",
+      "sol": "“What good would saying anything do? I’m only a third-generation Disciple. One of my fellow disciples ran his mouth a few shichen ago and paid for it. Our Senior Martial Uncle was furious. He ordered everyone between him and me to assemble, and…”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Some madman even called our Master over, so the atmosphere was incredible. He wrung us out down to our souls. He even asked what we were doing when the much younger Blazing Flame Divine Dragon and Huashan Divine Dragon were doing so well.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "51",
+      "sol": "“Some lunatic even summoned our Master. That really set the mood. We got chewed out until our souls hurt. We even had to hear what we were doing with ourselves when the much younger Blazing Flame Divine Dragon and Huashan Divine Dragon were doing so well.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Exactly. When you think about it, they couldn’t do it either.”",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "55",
+      "sol": "“Exactly. It’s not as if they managed it themselves.”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Are you crazy? I didn’t say it. But before anyone could stop him, the madman who’d called our Master over blurted out, ‘Their masters are the Fire King and the Sword Saint.’”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "59",
+      "sol": "“Are you crazy? I didn’t say it. But before anyone could stop him, the lunatic who’d summoned our Master came out with it: ‘Their masters are the Fire King and the Sword Saint.’”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good heavens. What am I hearing right now? Look at my arm. I’ve got goose bumps.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "61",
+      "sol": "“Good heavens. Did I hear that right? Look at my arm. I’ve got goose bumps.”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You think you’re bad? Imagine how I and the other Senior Brothers felt after hearing it directly. Even now, I’ve got goose bumps all the way down to my balls.”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "63",
+      "sol": "“And you only heard the story. Imagine what it was like for the rest of us to hear him say it. My balls still get goose bumps just thinking about it.”",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "사형",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Senior Brother"
+        },
+        {
+          "korean": "형장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Brother / Brother [Name]"
+        }
+      ]
+    },
+    {
+      "baseline": "“I’m only saying this in case you’re planning something, but you don’t need to show me.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "65",
+      "sol": "“Just so we’re clear, you don’t need to show me.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…Even if you begged me to show you, I never would. Anyway, things are insane because of those two. Though perhaps not quite as insane as in the Hwangbo Family.”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "67",
+      "sol": "“…I wouldn’t show you even if you begged. Anyway, things are tense because of those two. Though probably not as tense as they are in the Hwangbo Family.”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "By then, everyone had heard the rumor that the Lesser Family Head of the Hwangbo Family and one of the Ten Dragons and Phoenixes, the Shandong Fist Dragon, had suffered a spectacular disgrace.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "69",
+      "sol": "By then, everyone had heard the rumor that the Shandong Fist Dragon—the Lesser Family Head of the Hwangbo Family and one of the Ten Dragons and Phoenixes—had suffered a spectacular disgrace.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And after he was appointed Commander of the Murim Alliance’s Outer Hall, the difference between him and Jin Taekyung, a pavilion master directly under the Alliance Leader’s Office, could only be described as the distance between heaven and earth.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "71",
+      "sol": "He had since been appointed Commander of the Murim Alliance’s Outer Hall. Between that post and Jin Taekyung’s position as a pavilion master directly under the Alliance Leader’s Office lay a gulf as wide as heaven and earth.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I heard that the Family Head of the Hwangbo Family personally met with the Alliance Leader and demanded punishment…”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "73",
+      "sol": "“I heard the Hwangbo Family Head met privately with the Alliance Leader and demanded punishment…”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He went around telling everyone himself, so it’s probably true. As for the result, you already know.”",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "75",
+      "sol": "“He’s been telling people so himself, so it’s probably true. As for the result, you already know.”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hwangbo Gun, the Family Head of the Hwangbo Family, had proudly bragged about his private meeting with the Alliance Leader. Before even half a day had passed, however, the disciplinary decision reached him, and he was forced to swallow the humiliation.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "77",
+      "sol": "Hwangbo Gun, the Family Head of the Hwangbo Family, had proudly bragged about his private meeting with the Alliance Leader. Before even half a day had passed, the disciplinary decision arrived, and he had to swallow his humiliation.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I. Jin Taekyung, Pavilion Master of the Two Dragons Pavilion, improperly sided with only one party despite witnessing the dispute firsthand. He is therefore ordered to fast for a limited period.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "81",
+      "sol": "",
+      "sol_paragraphs": "after P38",
+      "sol_range": [
+        38,
+        38
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "고수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "master"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "이룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Two Dragons"
+        },
+        {
+          "korean": "이룡각",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Two Dragons Pavilion"
+        }
+      ]
+    },
+    {
+      "baseline": "II. Taishan of the Black Dragon Demon Gate committed two offenses.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P38",
+      "sol_range": [
+        38,
+        38
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "태산",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Taishan"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "흑룡마문",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Dragon Demon Gate"
+        }
+      ]
+    },
+    {
+      "baseline": "His first offense was causing a dispute on a main road and harming innocent civilians. His second offense was disregarding the Alliance’s rules and wielding a weapon first, thereby failing to follow proper procedure.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "85",
+      "sol": "> I. Jin Taekyung, Pavilion Master of the Two Dragons Pavilion, privately took one side despite witnessing the dispute before him. He is therefore ordered to fast for a limited period.\n>\n> II. Taishan of the Black Dragon Demon Gate committed two offenses.\n>\n> His first offense was causing a dispute on a main road and harming commoners. His second was disregarding the Alliance’s rules and wielding a weapon first, thereby failing to follow proper procedure.\n>\n> However, eyewitness accounts and testimony establish some justification for his actions. He is ordered to pay each person who suffered losses as a result of his actions ten times the amount of their damages.\n>\n> III. The offense committed by the Shandong Fist Dragon, Hwangbo Ak, is similar to Taishan’s.\n>\n> However, because he was substantially responsible for causing the dispute and made remarks liable to cause trouble, he is ordered to remain under disciplinary confinement for a fixed period.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "However, in light of the numerous eyewitnesses and testimonies, some justification for his actions is acknowledged. He is ordered to pay each person who suffered losses because of his actions ten times the amount of their damages.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "87",
+      "sol": "",
+      "sol_paragraphs": "after P39",
+      "sol_range": [
+        39,
+        39
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "III. The offense committed by the Shandong Fist Dragon, Hwangbo Ak, is similar to Taishan’s.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "89",
+      "sol": "",
+      "sol_paragraphs": "after P39",
+      "sol_range": [
+        39,
+        39
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "황보악",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hwangbo Ak"
+        },
+        {
+          "korean": "태산",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Taishan"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "황보",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hwangbo"
+        },
+        {
+          "korean": "산동권룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Shandong Fist Dragon"
+        }
+      ]
+    },
+    {
+      "baseline": "However, because he substantially caused the dispute and made remarks liable to cause trouble, he is ordered to remain under disciplinary confinement for a fixed period.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "91",
+      "sol": "",
+      "sol_paragraphs": "after P39",
+      "sol_range": [
+        39,
+        39
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next day, rumors spread that Jin Taekyung had polished off ten bowls of gukbap[^1] in one sitting and patted his stomach, which only made matters worse.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "97",
+      "sol": "The next day, a rumor spread that Jin Taekyung had polished off ten bowls of gukbap[^1] in one sitting and patted his stomach. That only made matters worse.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The orthodox purists who supported him also voiced their discontent, but the shadow cast by the giant known as the Sword Saint Mae Jonghak was too deep. They could not defy the Alliance Leader’s authority over something as minor as this, so they had no choice but to swallow their anger.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "99",
+      "sol": "The orthodox purists who supported Hwangbo Gun voiced their discontent too. But the shadow cast by the giant known as the Sword Saint Mae Jonghak was deep, and they could hardly defy the Alliance Leader’s authority over something like this. They had no choice but to swallow their anger.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And amid all the attention of people whose admiration and envy were hopelessly mixed together, Jin Taekyung, newly appointed Pavilion Master of the Two Dragons Pavilion, made another extraordinary move only a day later.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "101",
+      "sol": "Amid all that admiration and envy, Jin Taekyung made another extraordinary move just a day after his appointment as Pavilion Master of the Two Dragons Pavilion.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It began with a single notice pasted conspicuously on the wall beside a main road crowded with passersby.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "103",
+      "sol": "It began with a single notice pasted conspicuously on a wall beside a busy main road.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you mean the news about the Two Dragons Pavilion, I’ve heard enough to make my ears bleed. Wait. Seen what? What are you talking about?”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "107",
+      "sol": "“If you mean the news about the Two Dragons Pavilion, I’ve heard enough to make my ears bleed. Wait. *Seen* what?”",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“About half a shichen ago, some fellow named Hyuk—Hyuk something—put up huge notices all over the main roads.”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "109",
+      "sol": "“About half a shichen ago, some fellow named Hyuk—Hyuk something—put up huge notices all along the main roads.”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why would I want to hear about that Hyuk-whatsisname?”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "111",
+      "sol": "“Why would I care what Hyuk-whatsisname did?”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Because that Hyuk-whatsisname is Blazing Flame Divine Dragon Jin Taekyung’s right-hand man. I read the notice, and apparently the Two Dragons Pavilion is recruiting people.”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "113",
+      "sol": "“Because Hyuk-whatsisname works for the Blazing Flame Divine Dragon, Jin Taekyung. I read the notice. The Two Dragons Pavilion is recruiting.”",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What? Is that really true?”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "115",
+      "sol": "“What? Is that true?”",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Without a doubt. But the contents of the notice are… strange. Well, there are other people around, so… Ah, never mind. The whole thing is strange.”",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "117",
+      "sol": "“Without a doubt. But the notice is… strange. There are other people here, too, and… No, the whole thing is strange.”",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What are you talking about?”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "119",
+      "sol": "“What’s that supposed to mean?”",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s, well… Never mind. You should go see and hear it for yourself.”",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "121",
+      "sol": "“It’s, well… Never mind. Go see and hear it for yourself.”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…Hear it? What do you mean?”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "123",
+      "sol": "“…Hear it?”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every piece of news related to the Two Dragons Pavilion had become a hot topic in Henan.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "125",
+      "sol": "These days, any news about the Two Dragons Pavilion was a hot topic in Henan.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And now, the youngest pavilion master in Murim history—one who had achieved genius and great accomplishments rarely seen in the long history of the martial world—had caused another incident?",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "127",
+      "sol": "And now the youngest pavilion master—whose genius and accomplishments were rare even in Murim’s long history—had done something else?",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, I can’t miss this!”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "129",
+      "sol": "“I can’t miss this!”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Martial artists who already had affiliations, martial artists who had yet to find a place to belong, and even curious commoners all came rushing over.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "131",
+      "sol": "Martial artists with affiliations, martial artists still looking for a place to belong, and even curious commoners came rushing over.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And when they gathered in one place, they finally saw it.",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "133",
+      "sol": "And there, they saw it.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The enormous words, written alongside a bizarre emblem.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "141",
+      "sol": "The words were written in enormous letters beside a bizarre emblem.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The people gathered before it like clouds all widened their eyes and cried out in astonishment.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "143",
+      "sol": "The people gathered before it like clouds, eyes wide with astonishment.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How could a phrase be so easy, simple, and revolutionary? The lines written beneath it were just as easy to take in at a glance.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "149",
+      "sol": "How could a phrase be so simple, so easy to grasp, and so bold? The lines beneath it caught the eye just as readily.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**First:** Someone with the passion to do whatever they set their mind to.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "155",
+      "sol": "**First:** A willingness to take on anything.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**Second:** Someone with an upright character.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "157",
+      "sol": "**Second:** An upright character.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "**Third:** Someone who has reached at least the level of injuring others with Sword Energy.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "159",
+      "sol": "**Third:** At least the level of injuring others with Sword Energy.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Every single part of it was outrageous!",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "165",
+      "sol": "Every line was outrageous!",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The succession of magnificent lines was enough to make blood surge and hearts pound simply by reading them. A passionate cry erupted from the crowd.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "167",
+      "sol": "Simply reading those magnificent words was enough to set blood surging and hearts pounding. Shouts erupted from the crowd.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Damn it! The level of injuring others with Sword Energy!”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "175",
+      "sol": "“Damn it! Injuring others with Sword Energy?”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "검기상인",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "the level of injuring others with Sword Energy"
+        }
+      ]
+    },
+    {
+      "baseline": "At that exact moment, the hundreds of people who had read the notice let out their own cheers and groans.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "177",
+      "sol": "Hundreds of people who had read the notice were cheering or groaning when—",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The people parted as if they had agreed beforehand, and a group that seemed to walk on clouds crossed through the crowd.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "183",
+      "sol": "The crowd parted as though by prior agreement. A group appeared and passed through them, walking as if on clouds.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What’s that?”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "185",
+      "sol": "“What’s that…?”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Isn’t that the band from Honghakru?[^2]”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "187",
+      "sol": "“Isn’t that the band from Honghakru?”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^2]: Honghakru, literally “Red Crane Pavilion,” is a renowned entertainment house in Henan.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "189",
+      "sol": "",
+      "sol_paragraphs": "after P82",
+      "sol_range": [
+        82,
+        82
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "하남",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Henan"
+        },
+        {
+          "korean": "홍학루",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Honghakru"
+        }
+      ]
+    },
+    {
+      "baseline": "The sudden appearance of a famous band ranked among the top ten in all of Henan left everyone bewildered.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "193",
+      "sol": "It was one of the ten most famous bands in Henan, and its sudden arrival left everyone bewildered.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, before the confused crowd, a breathtakingly beautiful woman appeared and smiled sweetly.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "195",
+      "sol": "Then a breathtakingly beautiful woman appeared before the crowd and smiled.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hongmae? It’s Hongmae![^3]”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "197",
+      "sol": "“Hongmae? It’s Hongmae!”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^3]: Hongmae literally means “Red Plum.”",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "199",
+      "sol": "",
+      "sol_paragraphs": "after P86",
+      "sol_range": [
+        86,
+        86
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "홍매",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hongmae"
+        }
+      ]
+    },
+    {
+      "baseline": "Hongmae was Honghakru’s most beautiful singer, a singing courtesan famous for her enchanting voice. She bowed her head with graceful poise, then gave a meaningful glance.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "203",
+      "sol": "Honghakru’s greatest beauty, a singing courtesan renowned for her enchanting voice, bowed gracefully. She gave the musicians a glance, and they began to play.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "홍매",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hongmae"
+        }
+      ]
+    },
+    {
+      "baseline": "The musicians who understood her signal began to play.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "205",
+      "sol": "",
+      "sol_paragraphs": "after P88",
+      "sol_range": [
+        88,
+        88
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A song melody as clear and lively as could be.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "209",
+      "sol": "The melody was bright and lively.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the moment they heard the first line of the song flowing from the singer’s lips, the martial artists present were bewitched into understanding the truth.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "211",
+      "sol": "And the moment the first line flowed from her lips, the martial artists there understood as if under a spell.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……”",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "217",
+      "sol": "“……!”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To succeed in life, they absolutely had to join the Two Dragons Pavilion.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "221",
+      "sol": "If they wanted to succeed, they had to join the Two Dragons Pavilion.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had always been that way. There was no particular reason. I simply hadn’t liked songs or children all that much.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "225",
+      "sol": "I’d always been this way. No particular reason—I’d just never liked songs or children all that much.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Heh heh. You little rascals.”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "229",
+      "sol": "“Heh heh. Those little rascals.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I smiled contentedly as I listened to the sounds slipping through the gap in the window.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "231",
+      "sol": "I smiled contentedly as I listened to the sounds coming through the gap in the window.",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Outside, children who looked to be around elementary school age were running around energetically and singing.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "233",
+      "sol": "Outside, children who looked about elementary-school age were running around singing.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ending was perfect, too.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "245",
+      "sol": "Even the ending was perfect.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I lightly clapped my hands in celebration, then noticed Hyuk Mujin staring at me with an absurd expression.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "247",
+      "sol": "I gave myself a little round of applause, then noticed Hyuk Mujin staring at me in disbelief.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What is it, you bastard?”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "249",
+      "sol": "“What, man?”",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…I’m just stunned. I’ve never heard of anything like this.”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "251",
+      "sol": "“…I’m just stunned. I’ve never seen or heard of anything like this.”",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin nodded with an awkward expression.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "255",
+      "sol": "Hyuk Mujin nodded reluctantly.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It seems to be highly effective. I just went around checking the area, and it’s complete chaos. You’d think Dark Heaven had invaded.”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "257",
+      "sol": "“It definitely works. I just went around checking, and it’s chaos out there. You’d think Dark Heaven had invaded.”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Especially that song. It’s causing an uproar everywhere. People are even saying that the Captain has poisoned Murim.”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "261",
+      "sol": "“That song in particular… It’s everywhere. People are saying you’ve released poison into Murim, Captain.”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "중독",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Poisoned"
+        }
+      ]
+    },
+    {
+      "baseline": "“What does that mean? What poison?”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "263",
+      "sol": "“What’s that supposed to mean? What poison?”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What a rewarding situation this was. I might get sued for plagiarism by some cyber university in Seoul, but this was Murim.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "271",
+      "sol": "What a rewarding outcome. A certain cyber university in Seoul might sue me for plagiarism, but this was Murim.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’m sorry, and thank you. I’ll use the song well.*",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "273",
+      "sol": "*I’m sorry, and thank you. I’ll put the song to good use.*",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And so, the greatest hit of the era—destined to mercilessly violate the eardrums of the primitive Murim bumpkins—was born.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "275",
+      "sol": "And so the greatest hit of the era was born, destined to mercilessly assault the eardrums of these primitive Murim bumpkins.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even now, remembering the expressions on the bandleader’s and singer’s faces when I first taught them the rough melody I had come up with made me shiver with excitement.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "277",
+      "sol": "I still got a thrill remembering the bandleader’s and singer’s faces when I’d given them the melody I’d hastily come up with.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It was the expression of primitive men who had discovered fire.*",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "279",
+      "sol": "*They looked like primitive humans discovering fire.*",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I wondered if this was how Prometheus had felt in Greek mythology.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "281",
+      "sol": "Was this how Prometheus had felt in Greek mythology?",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The difference was that instead of donating my organs to the eagle sent by Zeus, I had to deal with the flood of applicants.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "283",
+      "sol": "The difference was that, instead of donating my organs to an eagle sent by Zeus, I had to deal with the flood of applicants.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How is the application process? Are you done?”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "285",
+      "sol": "“Have you finished taking applications?”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin looked at me as though I had lost my mind.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "287",
+      "sol": "Hyuk Mujin looked at me as though I’d lost my mind.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I suppose there are more than you expected.”",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "291",
+      "sol": "“More than I expected, huh?”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“More? It’s insane. Completely insane. There are so many that I’m starting to suspect Dark Heaven may have sent in applications too.”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "293",
+      "sol": "“It’s insane. Completely insane. There are so many, I’m starting to wonder if Dark Heaven sent in applications too.”",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hmm. It seemed the song was even more potent than I had imagined.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "295",
+      "sol": "Hmm. It seemed to be even more effective than I’d imagined.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had added the requirement of being a Peak master because I was worried something like this might happen, but the world was vast and apparently full of masters.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "297",
+      "sol": "I’d added the requirement of being a Peak master in case something like this happened, but the world was vast, and apparently it had plenty of masters.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was just about to open my mouth after thinking for a moment when—",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "301",
+      "sol": "I’d just finished thinking it over and begun to speak when—",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Boom!",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "303",
+      "sol": "Crash!",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The door shattered, and someone appeared.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "305",
+      "sol": "The door broke apart, and someone appeared.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The most ominous song in the world.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "309",
+      "sol": "The most ominous rendition of the song in the world. A chilling expression.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A chilling expression.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "311",
+      "sol": "",
+      "sol_paragraphs": "after P138",
+      "sol_range": [
+        138,
+        138
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I froze completely when I met those glowing red eyes. Fire King Jeok Cheongang continued, spitting out each word.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "311",
+      "sol": "I froze when I met those glowing red eyes. Fire King Jeok Cheongang spat out his next words.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Because of this damn song, this old man almost suffered qi deviation.”",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "311",
+      "sol": "“This old man nearly suffered qi deviation because of that damn song.”",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 142,
+  "sol_sha256": "bfc2b14403e4031e629506fd2b3da8cffed2325c4734fa54fdd7ea0195e1ae9e",
+  "version": 1
+}
