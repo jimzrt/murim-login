@@ -1,6 +1,6 @@
 # Chapter 484
 
-It wasn’t difficult to find our destination. The boatmen had already made one round trip and learned the waterways, so they guided the vessel forward with practiced ease.
+It wasn’t difficult to find our destination. The boatmen had already made the trip once and learned the waterways, so they guided the vessel forward with practiced ease.
 
 *Whoosh…*
 
@@ -100,7 +100,7 @@ Gung Gibang watched the figures vanish at twice the speed with which they had ap
 
 No. They had probably realized how completely fucked they were and fled for their lives.
 
-Either way, everything proceeded smoothly after that. The vicious Fire Pokémon Jeok Cheongang needed no explanation, and my face was famous enough that anyone who failed to recognize me might as well have been working for Dark Heaven. Besides, Cheongpung and Gung Gibang were with me.
+Either way, everything went smoothly after that. The vicious Fire Pokémon Jeok Cheongang needed no introduction, and my face was famous enough that anyone who didn’t recognize me might be accused of working for Dark Heaven. Besides, Cheongpung and Gung Gibang were with me.
 
 “Oh, did someone just recognize me?”
 
@@ -138,9 +138,9 @@ Under normal circumstances, the simple folk would revere the Son of Heaven, but 
 
 And if a plague came along as part of a buy-two-get-one-free deal, the people of this era would grab the pickaxes they used to till their fields and charge out to overturn the country.
 
-How much worse would it be if an imugi, worshiped by countless people as a divine creature, suddenly went mad and killed several thousand people?
+So what would happen if an imugi worshiped by countless people as a divine creature suddenly went mad and killed several thousand people?
 
-The City Lord of Hubei Province would want to hide that truth as much as possible.
+The City Lord of Hubei Province would want to conceal that truth at all costs.
 
 “He does agree, at least in part, that Dark Heaven is an extremely dangerous organization.”
 
@@ -184,7 +184,7 @@ Of course, our reputations had skyrocketed once again in the process.
 
 *Whether the government would actually step in even if Dark Heaven ran wilder than it already had was another question.*
 
-As I thought about that, the vessel that had been charging forward finally came to a stop.
+As I considered that, the vessel finally came to a stop.
 
 We docked at a temporary pier built against the cliff, and gazes poured toward us.
 
@@ -206,11 +206,11 @@ Then a shout broke the silence.
 
 “Oh, you’re here!”
 
-The middle-aged man running toward us was drenched from head to toe in mud and river water. Unfamiliar aquatic plants were tangled in his disheveled hair.
+A middle-aged man came splashing through the river toward us. He was drenched in mud and river water, and unfamiliar aquatic plants were tangled in his disheveled hair.
 
 I muttered inwardly as I watched him approach.
 
-*That man is the Family Head of the Zhuge Clan?*
+*And that man is the Family Head of the Zhuge Clan.*
 
 It was something I was only now fully appreciating, but Crouching Dragon Guest Zhuge Feng was unquestionably an eccentric even by Murim standards.
 
@@ -278,7 +278,7 @@ As alert and disciplined as the model trainee in position one, Zhuge Feng activa
 
 “I invented that device when I was nine. Bringing it here over the last two days was quite an ordeal. What do you think?”
 
-I nodded as I stared at the enormous stone wall standing in the river like a barrier.
+I nodded as I stared at the enormous stone walls standing like barriers in the river.
 
 “Wow. That’s incredible.”
 
@@ -288,7 +288,7 @@ The mechanism Zhuge Feng had invented had played a major role, but without marti
 
 “Would everyone clear out for a moment?”
 
-The moment we descended beneath the stone wall, Zhuge Feng uttered those words, and the people who appeared to be formation experts from the Zhuge Clan withdrew like the receding tide.
+The moment we descended below the stone walls, Zhuge Feng spoke, and the people who appeared to be formation experts from the Zhuge Clan withdrew like the receding tide.
 
 Only then could I see it.
 
@@ -298,8 +298,6 @@ A towering cliff that must have stood in the same place for countless years—an
 
 The instant I instinctively reached out and touched the fissure—
 
-> **System**
->
-> *Beep.*
+*Beep.*
 
 An utterly ominous System notification pierced my ears.

@@ -1,0 +1,45 @@
+{
+  "summary": "Mostly faithful, with a few minor losses or shifts in source-specific nuance and physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 151–152",
+      "current": "that it poses no threat to their ability to govern the country",
+      "defect": "The sentence shifts the subject of the belief. The Korean says they think they themselves can govern the country without any problem, not specifically that Murim poses no threat to their ability to govern.",
+      "replacement": "that they can govern the country without any problem",
+      "rationale": "This preserves the source's claim about the government's confidence in its own governing ability.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 233–235",
+      "current": "with an appropriately solemn look",
+      "defect": "This loses the affected or deliberately serious quality conveyed by 짐짓 진지한 표정. The current wording suggests sincere appropriateness rather than performative seriousness.",
+      "replacement": "with a deliberately serious look",
+      "rationale": "Zhuge Feng is putting on a serious expression while offering his dubious ancestor-based excuse.",
+      "confidence": 0.9
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 251–253",
+      "current": "narrowed his eyes",
+      "defect": "The physical action differs from 눈을 치켜떴다, which describes raising or glaring with the eyes rather than narrowing them into a squint.",
+      "replacement": "glared",
+      "rationale": "The source depicts Jeok Cheongang reacting sharply to Zhuge Feng's disrespectful command by raising his eyes at him.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Lines 265–267",
+      "current": "As alert and disciplined as the model trainee in position one, Zhuge Feng activated his movement technique and raced ahead.",
+      "defect": "The wording adds 'disciplined' and characterizes trainee number one as a model trainee. The Korean says Zhuge Feng became brisk and quick like trainee number one, without establishing discipline or exemplary status.",
+      "replacement": "Becoming as brisk and alert as trainee number one, Zhuge Feng activated his movement technique and raced ahead.",
+      "rationale": "빠릿빠릿하다 describes quick, energetic efficiency; 1번 교육생 identifies trainee number one but does not call that trainee a model.",
+      "confidence": 0.85
+    }
+  ]
+}
