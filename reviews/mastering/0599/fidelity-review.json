@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "I sensed a subtle change in the air.",
+      "defect": "The Korean specifically describes sensing a subtle change in the flow of the air. The current wording can refer to a change in atmosphere and loses that physical airflow detail, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "The source says “미세하게 달라진 공기의 흐름,” explicitly referring to the flow of air changing slightly.",
+      "replacement": "I sensed the air currents shift ever so slightly.",
+      "severity": "minor",
+      "source": "Korean line 5"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Team Leader Choi gazed at the memorial with sorrow in his eyes, then added,",
+      "defect": "The assembled English omits that Choi’s voice was low and slipped into the narrator’s ear. This is a source-stated auditory detail preserved in the accepted baseline.",
+      "id": "F02",
+      "rationale": "The Korean says “귓가를 파고드는 나직한 목소리,” describing a low voice that reaches into the narrator’s ear before noting Choi’s sorrowful gaze.",
+      "replacement": "The low voice slipped into my ear. Team Leader Choi gazed at the memorial with sorrow in his eyes, then added,",
+      "severity": "minor",
+      "source": "Korean line 273"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with two minor omissions of source-specific detail.",
+  "version": 1
+}

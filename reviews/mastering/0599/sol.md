@@ -18,7 +18,7 @@ President Baek Hanseong might already have received a report about today’s vis
 
 *What should I do?*
 
-I sank into thought as I stared at the specially treated window that prevented anyone from seeing inside the vehicle.
+I stared through the specially treated window that kept anyone from seeing inside the vehicle.
 
 Go Se-won had told me there was another secret area. Now I had to decide when to reveal that information, and to whom.
 
@@ -34,7 +34,7 @@ So I had to keep my mouth shut at least until Kim Hwajong’s funeral was over.
 
 It wasn’t only for Team Leader Choi’s sake. I needed time to sort things out myself.
 
-“Phew.”
+“Hah.”
 
 At my quiet sigh, the security officer in the driver’s seat glanced at me in the rearview mirror.
 
@@ -46,7 +46,7 @@ I sank deeper into the seat as I lied.
 
 The truth was, I was uncomfortable. Everything around me made me uncomfortable.
 
-Silently repeating the truth I hadn’t voiced, I looked out at the world beyond the window.
+I kept that thought to myself and looked out the window.
 
 The scenery slipped past, and time passed just as quickly.
 
@@ -56,7 +56,7 @@ January 19.
 
 A week had passed since the day that came to be known as the January 19 Incident, and the world was still in an uproar.
 
-The flames that had erupted that day refused to die down easily. No—no one could control them as they continued to burn.
+The flames that had erupted that day had not died down. No one could contain them; they only kept burning higher.
 
 The media in Korea and around the world threw firewood and oil onto the flames, while public opinion fanned the growing blaze.
 
@@ -108,7 +108,7 @@ It was the first—and worst—crisis Ares Guild had faced since its founding.
 
 Nearly half the Guild’s executives were summoned by the prosecutors’ office. Even those who had committed no apparent crimes or acts of corruption had to be questioned as witnesses.
 
-In stark contrast, public opinion toward Jin Taekyung and the Peace Guild, who had played a greater role than anyone in the January 19 Incident, was overwhelmingly favorable.
+In stark contrast, public opinion was overwhelmingly favorable toward Jin Taekyung and the Peace Guild, who had done more than anyone during the January 19 Incident.
 
 > **Summary of Lord Fuck’s achievements.jpg**
 >
@@ -120,13 +120,13 @@ In stark contrast, public opinion toward Jin Taekyung and the Peace Guild, who h
 
 An enormous number of posts defending Jin flooded the internet every day.
 
-They passionately insisted on Jin Taekyung’s innocence, submitted national petitions, and even held protests condemning the media outlets that had recklessly targeted Jin during the earliest days, before the truth had come to light.
+People insisted on his innocence, submitted national petitions, and even held protests against the media outlets that had rushed to attack him before the truth came out.
 
 Even so, some voices stubbornly continued to criticize him.
 
-> **Lee Kanghee, chief editorial writer at Patriotic Daily: “Jin Taekyung is nothing more than a lawless thug. The matter of Go Jun should have been left to the law…”**
+> **Lee Kanghee, chief editorial writer at Patriotic Daily: “Jin Taekyung is nothing more than a lawless thug. Go Jun’s punishment should have been left to the law…”**
 
-The statement by one famous journalist won a considerable amount of support, but its significance quickly faded once the meaning of the Code Red issued against Jin Taekyung by Ares Guild—and the exact casualties from the January 19 Incident—came under scrutiny.
+The prominent journalist’s statement drew considerable support. But that support quickly faded once people learned what the Code Red Ares Guild had issued against Jin Taekyung meant, and the precise toll of the January 19 Incident came under scrutiny.
 
 > **538 casualties in a fierce battle. Yet only twenty people died…**
 >
@@ -144,13 +144,13 @@ The statement by one famous journalist won a considerable amount of support, but
 
 As more truths emerged, the voices criticizing Jin Taekyung faltered. Meanwhile, statements from famous figures who had firmly supported him from the start resurfaced.
 
-> **Xiao Yang, Chairman of China: “We have not forgotten what happened in Sichuan. Sir Jin is a Great Hero, and he acts only according to justice.”**
+> **Xiao Yang, Chairman of China: “We have not forgotten what happened in Sichuan. Mr. Jin is a Great Hero, and he acts only out of a sense of justice.”**
 >
-> **Grand Mage Magic Johnson of the United States: “Jin is a hero, and the Korean media are trash. The truth will come out soon, so Kanghee Lee, who wasted paper on his stupid letters, should prostrate himself before my thick, enormous magic wand.”**
+> **Grand Mage Magic Johnson of the United States: “Jin is a hero, and the Korean media are trash. The truth will come out soon, so Kanghee Lee, who wasted paper with his fucking stupid words, should get on his knees before my thick, enormous magic wand.”**
 >
-> **Prince Felix of the United Kingdom: “Jin was not born of noble blood, yet he proved his nobility himself. Unfortunately, those who insult him appear to possess lowly character. Come and kiss the back of my hand.”**
+> **Prince Felix of the United Kingdom: “Jin was not born of noble blood, yet he proved his nobility himself. Unfortunately, those who insult him seem to have lowly character. They may kiss the back of my hand.”**
 >
-> **Japanese Prime Minister Shinjiro Koizumi: “I think the Korean media should reflect on insulting Mr. Jin, and although they are reflecting, I think they should reflect on the fact that they are not failing to show that they are reflecting.”**
+> **Japanese Prime Minister Shinjiro Koizumi: “I think the Korean media should reflect on insulting Jinsang, and although they are reflecting, I think they should reflect on the fact that they are not failing to show that they are reflecting.”**
 >
 > **Former U.S. President Joseph Biden: “He is a good young man. I met him in person not long ago, and he was calm and kind.” When a reporter asked when they had met, he thought for a moment before adding, “I think I confused him with someone else.”**
 
@@ -170,7 +170,7 @@ Why? Why, even now, had *he* not appeared?
 
 Why had Cheon Taemin not shown himself?
 
-It was the question everyone carried, and at the same time, a truth no one could uncover.
+Everyone wondered, but no one could find the answer.
 
 The whereabouts of Cheon Taemin, the immortal hero who had vanished without warning one day, remained shrouded in mystery.
 
@@ -178,7 +178,7 @@ He had not appeared when an Arc Lich emerged in China several months earlier and
 
 Not even when Jin Taekyung reduced the headquarters of Ares Guild—the Guild Cheon Taemin himself led—to ruins…
 
-Cheon Taemin never showed himself. The questions people had about his incomprehensible seclusion swelled like a snowball rolling downhill.
+Cheon Taemin still did not appear. Questions about his inexplicable seclusion grew and grew.
 
 And while the chaos and uncertainty had yet to subside, a massive national funeral was held for the victims of the January 19 Incident.
 
@@ -196,7 +196,7 @@ The National Cemetery.
 
 *Step.*
 
-Perhaps spring was slowly approaching, because the grass at the end of January was green and full of life.
+Perhaps spring was slowly approaching. The grass at the end of January was green and full of life.
 
 A breeze brushed my face, and the sunlight was warm.
 
@@ -218,7 +218,7 @@ He had shivered in the cold until the moment he died. On a warm day like this, w
 
 His ashes would be buried somewhere other than this memorial, but I believed part of his spirit remained here too.
 
-Just as I offered Kim Hwajong a question that could never reach him, a voice spoke.
+I had just asked Kim Hwajong a question that could never reach him when a low voice spoke beside me.
 
 “Butler Kim will rest peacefully.”
 
