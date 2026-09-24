@@ -14,11 +14,11 @@ Of course I did. I knew his name and face, even his age and hometown. I just had
 
 “All right, last chance. If you don’t come out by the time I count to three, I’m calling a younger buddy of mine. He’s a really strong, successful Hunter. One. Two…”
 
-I was curious about what would happen after he counted to three, but after seeing everything there was to see, continuing to watch felt embarrassing.
+I was curious what would happen when he reached three, but I’d seen enough. Watching any longer would only embarrass us both.
 
 I spoke with a sigh.
 
-“Don’t tell me that close younger friend is me?”
+“Don’t tell me that younger buddy is me.”
 
 “……!”
 
@@ -64,7 +64,7 @@ Of course, we’d both changed a lot since then.
 
 “Hmm. High school?”
 
-How old had Jin-ho hyung been then? After thinking for a moment, I nodded.
+How old was Jin-ho again? I thought for a moment, then nodded.
 
 “So they weren’t *like* rags. They were rags. Get me some water. No, wait. Got any soju?”
 
@@ -72,7 +72,7 @@ How old had Jin-ho hyung been then? After thinking for a moment, I nodded.
 
 “……At this rate, you’re going to die young.”
 
-“I would’ve quit ages ago if it weren’t for that asshole Section Chief Kim. That fucking bastard isn’t even that far from me in age, but he picks fights over every little thing and acts like a complete jackass.”
+“I’d have quit ages ago if it weren’t for that asshole Section Chief Kim. The fucker’s barely older than me, and he picks a fight over every little thing.”
 
 Jin-ho yanked his tie loose and downed three shots of soju in a row.
 
@@ -82,7 +82,7 @@ Late last year, he’d finally passed the civil service exam he’d spent so lon
 
 “Listen to this bastard. You thought I wouldn’t?”
 
-“No. Becoming one is beside the point. I thought you’d drop dead in the act while watching porn before you ever got there.”
+“No. Whether you passed was beside the point. I thought you’d drop dead watching porn first.”
 
 “……Hmm. That’s actually a fair point.”
 
@@ -152,11 +152,11 @@ The change of subject seemed to have worked. I breathed an inward sigh of relief
 
 “They are.”
 
-“You’ve had it rough. A monster wave right after the new year, humans worse than monsters, and now trips to the desert and Africa.”
+“Anyway.” Jin-ho slurped up some noodles, washed them down with soju, and went on. “You’ve been through a lot. A monster wave right after the new year, people worse than monsters, and now the desert and Africa too.”
 
-“What do you mean, rough? It was just something I had to do…”
+“It wasn’t that much. I just did what needed doing…”
 
-I suddenly faltered and let the end of the sentence trail off.
+I stopped mid-sentence.
 
 Wait. What the hell had he just said?
 
@@ -170,11 +170,11 @@ Wait. What the hell had he just said?
 
 Jin-ho gave a quiet laugh at my wide-eyed stare.
 
-“Some people have probably guessed, too, but they’re keeping quiet. There’s no evidence, and it’s not as if they have any reason to blame you. But one low-ranking civil servant happens to know what kind of person the masked man is—and even shares ramyeon with him—so he can casually sound him out like this.”
+“A few other people have probably guessed, but they’re keeping it to themselves. There’s no proof, and it’s not like they’d blame you. One low-ranking civil servant happens to know what that masked man is like, though. He even makes him ramyeon. So he can sound him out.”
 
 I rubbed the back of my head, which somehow felt numb.
 
-I had suspected I would be named as a prime suspect, but I hadn’t expected to get caught this absurdly easily.
+I’d expected to be a prime suspect. I hadn’t expected to give myself away so easily.
 
 “I-I’m really not him.”
 
@@ -198,7 +198,7 @@ He understood what I meant immediately and smacked his lips.
 
 “You might get a bomb delivered before you become one.”
 
-“Maybe. But even if they all know, they won’t be able to touch me, will they? They won’t know what Jin Taekyung might do if he completely loses it. Hah, isn’t this what you call Untouchable?”
+“I don’t know. Even if those guys find out, they won’t dare touch me. Who knows what Jin Taekyung would do if he lost his shit? Hah! Now *that’s* what I call Untouchable.”
 
 Jin-ho laughed without a care, then asked, “Anyway, how busy have you been? You can’t even remember when you got back.”
 
@@ -228,9 +228,9 @@ In that sense, my training was a kind of review. Study for my own sake, and for 
 
 Unfortunately, I still hadn’t managed to bring it all together.
 
-“Ugh, look at that serious expression. It makes me want to slap you in the cheek.”
+“Ugh, look at that serious face. Makes me want to slap you.”
 
-“……I’m in the middle of being serious, so could you shut that mouth of yours?”
+“……I’m trying to think, so could you shut that mouth of yours?”
 
 “Put yourself in my shoes. What would you do?”
 
@@ -242,7 +242,7 @@ We clinked glasses. Jin-ho knocked back his soju, poked at the noodles that had 
 
 I wasn’t exaggerating.
 
-As I checked each piece and fit them together, I felt my own shortcomings and regretted what I lacked. Now, unable to find the final piece, I was groping around in the dark.
+I felt like a child trying to assemble a ten-thousand-piece puzzle. As I examined each piece and fitted it into place, I kept seeing my own shortcomings. Now, unable to find the last piece, I was groping through the dark.
 
 And I already knew the name of the darkness obscuring my sight.
 
@@ -250,9 +250,7 @@ And I already knew the name of the darkness obscuring my sight.
 
 The dark cloud over my heart refused to clear. My worries about the Murim and the modern world… and, more than anything, the last sight of Kim Hwajong kept returning to me.
 
-His voice, which seemed as though it could fade away at any moment.
-
-His eyes slowly closing in the red snowfield covered with blood.
+His voice had sounded as though it might fade at any moment. His eyes had slowly closed amid the blood-red snow.
 
 Maybe I hadn’t come here for the capsule after all. Maybe I’d come to find some comfort.
 
@@ -276,7 +274,7 @@ I also realized that I wasn’t where I needed to be.
 
 “No. I’m your landlord. Want to start paying rent this month?”
 
-Jin-ho hyung, who had been glaring at me fiercely, immediately bent deeply at the waist.
+Jin-ho’s fierce expression vanished. He bent deeply at the waist.
 
 “Get home safely, Boss.”
 
