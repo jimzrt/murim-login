@@ -2412,3 +2412,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 덕청현 | **Deokcheong County** | County on the route from the imperial capital toward Shanxi. |
 | 한혈마 | **sweat-blood horse** | A famed breed said to descend from sweat-blood horses. |
 | 백환강시공 | **White Illusion Jiangshi Art** | Martial art named on the old bamboo slip. |
+| 천뢰검 | **Heavenly Thunder Sword** | Namgung Ryong’s epithet. |

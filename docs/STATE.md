@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 943
-- Next chapter: 944
-- Current block: 940–944 (4/5)
-- Latest translation: `translations/0943.md`
-- Latest summary: `summaries/beats/0943.md`
-- Safe profiles through: chapter 943
+- Last completed: 944
+- Next chapter: 945
+- Current block: 940–944 (5/5)
+- Latest translation: `translations/0944.md`
+- Latest summary: `summaries/beats/0944.md`
+- Safe profiles through: chapter 944
 
 ## Current Block
 
-- Taekyung splits the party: Namho will contact the Murim Alliance and try to bring reinforcements from behind, while Song Ilseom and Sama Pyo are trusted to lead the others toward Shanxi. Mujin struggles with being left behind despite his desire to protect his home, but Taekyung tells him he trusts him. Hwaran acknowledges that she, too, wants to go with Taekyung, and asks that they meet again with genuine smiles. Taekyung, Jeok Cheongang, and the Bow Saint leave the horse route and head over the mountains.
-- At a mountain stronghold, bandits notice the unusual absence of birds and then spot an approaching group carrying dark blue flags marked with the Great Nangong Family’s name. They send word to the stronghold.
+- Namgung Ryong arrives after the imperial messenger eagle alerts the Anhui Provincial Office to Taekyung’s group. He confirms the report of Dark Heaven’s coming invasion of Shanxi and offers horses, provisions, and a guide, but his father, the Azure Sky Sword King, is away on a mission for Alliance Leader Mae Jonghak and his whereabouts are unknown. As Namgung Ryong begins arranging their departure, a figure rises from the shadows.
 
 ## Open Questions
 
 - What is the Martial God’s identity, and what is the full nature of his connection to the chosen one and the Bow Saint?
 - How far has Dark Heaven infiltrated the Great Nation, and which officials or commanders are involved?
 - Where is Ma Sanbao, and what is his current status?
-- Who sent the Shanxi Annihilation Plan missive, and when will Dark Heaven’s invasion begin?
 - What do the Eastern Heaven Demon Lord’s papers and silk pouch contain, and what is their significance?
+- Where is the Azure Sky Sword King, and who is the figure rising from the shadows?
 
 ## Exceptional Decision
 
