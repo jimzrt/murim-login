@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "A snake hiding between moss-covered rocks glared at us with bright yellow eyes, while a leopard lying flat in the grass and searching for prey spotted the White Tiger and slowly began backing away.",
+      "defect": "The source also establishes the dense undergrowth filling every direction and the trees towering like giants. Both images are omitted.",
+      "id": "F01",
+      "rationale": "These are explicit landscape details in the Korean source, and the accepted baseline preserved them.",
+      "replacement": "Dense undergrowth filled every direction, and trees stood tall like giants. A snake hiding between moss-covered rocks glared at us with bright yellow eyes, while a leopard lying flat in the grass and searching for prey spotted the White Tiger and slowly began backing away.",
+      "severity": "minor",
+      "source": "Lines 9–10"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I broke both arms of the men who came at me late, and the legs of those who tried to run away.",
+      "defect": "The assembled version omits that the interrogation proceeded quickly and smoothly and that the preparations for it were flawless.",
+      "id": "F02",
+      "rationale": "Both omitted statements are explicit in the source and were present in the accepted baseline.",
+      "replacement": "The interrogation proceeded quickly and smoothly. Of course, the preparations for it had also been flawless. I broke both arms of the men who came at me late, and the legs of those who tried to run away.",
+      "severity": "minor",
+      "source": "Lines 287–291"
+    }
+  ],
+  "summary": "The assembled English is largely faithful, but it omits a source image and two explicit details about the interrogation.",
+  "version": 1
+}
