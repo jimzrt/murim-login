@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 997
-- Next chapter: 998
-- Current block: 995–999 (3/5)
-- Latest translation: `translations/0997.md`
-- Latest summary: `summaries/beats/0997.md`
-- Safe profiles through: chapter 997
+- Last completed: 998
+- Next chapter: 999
+- Current block: 995–999 (4/5)
+- Latest translation: `translations/0998.md`
+- Latest summary: `summaries/beats/0998.md`
+- Safe profiles through: chapter 998
 
 ## Current Block
 
-- As Taekyung leaves ahead of the slower Jin Family forces, Wikyung and the gathered family members and allies send him off with pride. Mukyung promises to catch up and urges Taekyung not to fall to anyone else before then.
-- Elsewhere, Mae Jonghak and Song Ho recall the Martial God’s charge to protect their place, convictions, and the world. Zhuge Feng reports that the Zhuge Clan has completed all its assigned tasks, marking the start of an all-out war.
+- Taekyung rejects the faster river route and leads the Fire Dragon Pavilion overland toward Gansu before continuing to Qinghai, reasoning that Gansu may be Dark Heaven’s unexpected target and must be checked firsthand. Dark Heaven’s army could also threaten Gansu or Tibet, and its Moving Formations make its possible routes and targets harder to predict. After three days, the group reaches the Shaanxi–Gansu border.
+- A separate group of several hundred people, including two elderly Daoists who have only recently recovered enough to travel, stops to rest. Taekyung’s group encounters them in the forest and notices their flag reading “The Great Zhongnan Sect”; Taekyung suspects a typo.
 
 ## Open Questions
 
-- What is the objective behind Dark Heaven’s advance from Xinjiang, and where will its forces strike?
+- Where will Dark Heaven’s advancing army strike, and what is its objective?
 - What caused the System malfunction, and is it connected to the Lord of Heaven?
 - Why did Sama Pyo’s father order him to return immediately?
 
