@@ -8,7 +8,7 @@ The map the horse caravans had reportedly made while traveling between the Outer
 
 “Huh. Who would’ve thought there was a road through here?”
 
-Secret shortcuts hidden throughout the Central Plains, swift and accurate despite their concealment.
+Fast, direct shortcuts hidden throughout the Central Plains.
 
 Some had vanished over the years, and those that remained could be treacherous precisely because they were hidden. But that wasn’t much of a problem for us.
 
@@ -78,19 +78,19 @@ Granted, I’d played no small part in making the impossible possible. But Hwara
 
 *Martial arts really aren’t everything.*
 
-No matter how much of a Supreme Peak master I became, I couldn’t do anything like this. I gave Ju Hwaran a heartfelt exclamation of admiration.
+Supreme Peak master or not, I couldn’t do what she’d done. I told her so.
 
 “You’re incredible. There’s no one like you, Young Lady Ju.”
 
 “I-I’ll go feed the horses some hay.”
 
-“What? Why? They aren’t Taishan. How long has it even been since they ate hay…… Young Lady Ju? Young Lady Ju?”
+“What? They’re not Taishan. How long has it been since they last ate…… Young Lady Ju? Young Lady Ju?”
 
 What the hell was going on?
 
 At this point, I couldn’t tell whether she couldn’t hear me or had decided not to listen.
 
-As I watched Ju Hwaran hurry away using a movement technique, I turned my head at the gaze I felt from beside me.
+I watched Hwaran hurry off, even using her movement technique to get away. Then I felt someone watching me and turned.
 
 *Swish!*
 
@@ -134,7 +134,7 @@ There was no excuse for reopening someone else’s wounds. Thinking I’d made a
 
 A wistful smile touched Song Ilseom’s lips, as if he were remembering better days. He ran a hand along the blade.
 
-“I received this willow-leaf saber when I was young, while serving as a sword boy for a Third Rate wandering martial artist. I cut a person with it for the first time in my life. I was probably twelve.”
+“I got this willow-leaf saber when I was a boy, working as a sword boy for a third-rate wandering martial artist. It was the first blade I ever used to cut someone. I think I was twelve.”
 
 “……Oh. Right.”
 
@@ -168,13 +168,13 @@ I’d once asked Jeok Cheongang about golden-basin handwashing. His answer had g
 
 “Ah…….”
 
-“And one more thing. The person you thought was an acquaintance might be an assassin, too. What do you think? Isn’t it easy?”
+“And one more thing. That person you thought was an acquaintance may be the assassin. See? Easy, isn’t it?”
 
 As my dear Fire-Rice Grandpa had so wisely put it, that was fucking Murim for you.
 
 Golden-basin handwashing, my ass. Most martial artists should be grateful just to wake up in the morning and wash their faces with ice water.
 
-After all, the next day they might have to bathe and purify themselves in the waters of the Sanzu River instead of ice water.[^2]
+The next day, they might be bathing in the waters of the Sanzu River instead.[^2]
 
 I supposed that counted as retirement, too. The only difference was whether you were still breathing.
 
@@ -214,7 +214,7 @@ So that was what he meant. I shrugged.
 
 “Try being honest.”
 
-“Your words and actions looked so stupid that I couldn’t help staring.”
+“You looked so stupid that I couldn’t help staring.”
 
 “……Wow. That’s a little too honest.”
 
@@ -266,9 +266,9 @@ Song Ilseom nodded at my weary reply.
 
 “Of course. You must have spent many long nights.”
 
-“You son of a bitch. Draw your sword. You’re fucking dead today.”
+“You son of a bitch. Draw your sword. You’re fucking dead.”
 
-“Unfortunately, we’ll have to put that off until later. Thanks to you, I have to find an employer who still hasn’t appeared even after fifteen minutes.”
+“Unfortunately, we’ll have to postpone that. Thanks to you, I need to find my employer, who still hasn’t come back after fifteen minutes.”
 
 “You seem to have forgotten I’m the Fire Dragon Pavilion Master. Your direct superior.”
 
@@ -280,7 +280,7 @@ Song Ilseom sheathed his freshly polished willow-leaf saber and rose from the wa
 
 He turned away without another word, his feet pressing into sand and gravel. Then he stopped.
 
-“If you don’t know why Young Lady Ju acts that way, think about it carefully with that nonexistent sense of tact you have. You have to find the answer yourself.”
+“If you don’t know why Young Lady Ju acts that way, think it over with what little sense you have. Find the answer yourself.”
 
 “What?”
 

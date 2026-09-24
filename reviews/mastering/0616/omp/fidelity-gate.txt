@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, with two minor shifts in emphasis and causality.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 161–163",
+      "current": "You could survive the fight, only to die when your wounds got worse.",
+      "defect": "This ties the worsening wounds specifically to surviving a fight. The Korean says that even after barely surviving, someone might die when their wounds worsen; it does not specify that those wounds came from a fight.",
+      "replacement": "Even if you barely survived, your wounds could worsen and kill you.",
+      "rationale": "The Korean separates dying in a fight from barely surviving and later dying as wounds worsen, without establishing that the latter follows from the fight.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 157",
+      "current": "lunatics made up a good share of them",
+      "defect": "This weakens the source’s image of Murim being teeming with lunatics to merely having a notable proportion of them.",
+      "replacement": "it was crawling with lunatics",
+      "rationale": "The Korean 득실거렸다 conveys abundance—people swarming or teeming—while 대체로 characterizes them broadly as lunatics.",
+      "confidence": 0.87
+    }
+  ]
+}
