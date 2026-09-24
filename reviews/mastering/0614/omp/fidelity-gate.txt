@@ -1,0 +1,45 @@
+{
+  "summary": "The translation is broadly faithful, with a few minor shifts in characterization and physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 41",
+      "current": "The straw covering me was warmer and softer than I’d expected.",
+      "defect": "The source specifies that rice straw wrapped his entire body. This loses both the rice-straw detail and the full-body wrapping.",
+      "replacement": "The rice straw wrapped around my entire body was warmer and softer than I’d expected.",
+      "rationale": "전신을 감싼 볏짚 explicitly describes rice straw wrapped around his whole body.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 165",
+      "current": "As your captain, I can’t tell you how happy it makes me to see my subordinate enjoying himself.",
+      "defect": "“Can’t tell you how happy” shifts the joke from unbearable joy to being unable to express the joy, weakening the link to the narrator’s next line about not being able to bear it.",
+      "replacement": "As your captain, I feel an unbearable joy at seeing my subordinate enjoying himself.",
+      "rationale": "The source says he feels joy he cannot bear, then immediately repeats that he truly could not bear it. The repeated idea sets up the punchline that he is angry.",
+      "confidence": 0.86
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 141",
+      "current": "Like a vampire waking after centuries sealed away by an exorcist, I rose from the wagon’s cargo bed.",
+      "defect": "The source describes him getting up in a disheveled, rustling manner; “rose” omits that physical detail.",
+      "replacement": "Like a vampire waking after centuries sealed away by an exorcist, I got up in a disheveled state from the wagon’s cargo bed.",
+      "rationale": "부스스 몸을 일으켰다 conveys getting up tousled or disheveled, rather than simply rising.",
+      "confidence": 0.82
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 215",
+      "current": "“Taishan! Is here!”",
+      "defect": "The English reads as a broken sentence and can sound as if someone is calling “Taishan” before saying “is here.” The Korean means that Taishan has arrived.",
+      "replacement": "“Taishan’s here!”",
+      "rationale": "태산이 왔다 is an arrival announcement; the current wording does not clearly convey that meaning in natural English.",
+      "confidence": 0.91
+    }
+  ]
+}

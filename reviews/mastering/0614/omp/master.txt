@@ -10,7 +10,7 @@
 
 Before the familiar System notifications had even finished, I felt rough straw against my skin and smelled wet grass.
 
-I spat out the piece of rice straw stuck to my lips and muttered inwardly.
+I spat out the piece of rice straw stuck to my lips.
 
 *I’m back.*
 
@@ -104,7 +104,7 @@ His voice cut off.
 
 After a short, heavy silence, someone carefully lifted the straw from my face.
 
-Rustle. Ssshh.
+Rustle.
 
 The straw blocking my view fell away. In the faint moonlight, my eyes met Mujin’s.
 
@@ -144,25 +144,25 @@ My shadow swelled in the flickering firelight and fell across Mujin.
 
 “That’s why I asked.”
 
-“You said they were my last words. It sounds like a will.”
+“You said *last* words. Like you want my dying words.”
 
-“It probably is.”
+“Probably do.”
 
 “……Ah.”
 
 “You were having a great time. As your captain, I can’t tell you how happy it makes me to see my subordinate enjoying himself.”
 
-That was half true. I really couldn’t contain myself.
+That was half true. I really couldn’t take it.
 
 I’d busted my ass in the Murim, busted my ass in the modern world, and come back without getting any sleep—only to find my own subordinate talking shit about me behind my back.
 
-And the name of the emotion that followed this situation straight out of a light novel was rage.
+It sounded like the title of a light novel. What I felt about it was rage.
 
 “Face, arms, legs, abdomen, back. Pick one.”
 
 “Are those my possible causes of death?”
 
-“I’m not going to kill you. I’m just going to beat you within an inch of your life.”
+“I won’t kill you. I’ll just beat you like I’m trying to.”
 
 Mujin thought for a moment.
 
@@ -172,7 +172,7 @@ Mujin thought for a moment.
 
 “Wounds on the back are… a martial artist’s shame.”
 
-I let out an exclamation at his spirit.
+I couldn’t help marveling at his resolve.
 
 “What a load of bullshit.”
 
@@ -192,7 +192,7 @@ The blow cracked through the night.
 
 Above the slowly burning campfire, the shadow of a man soaring upward with blood spraying from his nose loomed large.
 
-*I’m already using my fists the moment I get back.*
+*Back five minutes and I’m already using my fists.*
 
 We were on Mount Daebyeol, where Anhui and Hubei bordered Henan.
 
@@ -202,7 +202,7 @@ Two figures approached from the distance, with Mujin’s screams providing the b
 
 “Taishan! Is here!”
 
-At last, the Fire Dragon Pavilion’s Nanman expedition party had gathered in one place. I left them with a short but powerful lecture, then turned away.
+At last, every member of the Fire Dragon Pavilion’s Nanman expedition party was together. I gave them a short but stirring address and turned back to Mujin.
 
 “All right, let’s finish beating this bastard and get going.”
 
@@ -284,7 +284,7 @@ The words came through the young man’s clenched teeth. The flames stirred once
 
 —Blood Lord. You have your own shortcomings, do you not?
 
-At the most painful reprimand of all, the pupils of the young man—Blood Lord—trembled.
+At that reprimand, more painful than any other, the young man’s eyes trembled.
 
 Blood Lord knew better than anyone what the master he worshiped meant.
 
@@ -344,4 +344,4 @@ Heaven above, earth below. All demons bow in submission.
 
 As his loyal servants cried out in rapture and madness, the unseen shadow waved a hand.
 
-The crimson-black flames that had colored the pitch-black space disappeared, and darkness descended once more.
+The crimson-black flames vanished, and darkness returned.
