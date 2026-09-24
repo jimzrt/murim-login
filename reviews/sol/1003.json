@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“The mounted bandits in Ningxia Province were disbanded a long time ago. Their two most notorious leaders were killed, and the rest didn’t dare resist.",
+      "defect": "“Two” invents a number of leaders; the source gives none. It also says the bandit gangs disbanded, not that the bandits themselves did.",
+      "id": "F01",
+      "rationale": "두목들 means leaders, without a count; 마적단들 refers to the gangs.",
+      "replacement": "“The mounted-bandit gangs in Ningxia Province disbanded long ago. Their most notorious leaders were all killed, and the rest didn’t dare resist.",
+      "severity": "critical",
+      "source": "녕하성의 마적단들은 이미 해산된 지 오래입니다. 가장 악명을 떨쳤던 두목들은 모두 죽임을 당했고, 나머지는 저항할 엄두조차 못 냈죠."
+    },
+    {
+      "confidence": 0.97,
+      "current": "If there was even the slightest chance he was another hidden weapon Dark Heaven had planted across the world, then we needed to consider turning back right now.",
+      "defect": "The draft changes the person considering the decision from the narrator to the group and drops the concrete act of turning his horse.",
+      "id": "F02",
+      "rationale": "The narrator frames turning his own horse around as something he must consider.",
+      "replacement": "If there was even the slightest chance he was another hidden weapon Dark Heaven had planted across the world, then I’d have to consider turning my horse around right now.",
+      "severity": "critical",
+      "source": "만약 그가 암천이 천하 곳곳에 심어둔 또 하나의 복검(覆劍)일 가능성이 조금이라도 있다면, 지금 당장 말머리를 돌리는 것부터 고민해 볼 일이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Right. Some of them were natives.\n\nMore accurately, though, I should’ve said “some of them.”",
+      "defect": "Repeating “some of them” erases the correction from one person to more than one—and the beat that points from Taishan to Sama Pyo.",
+      "id": "F03",
+      "rationale": "놈 is singular; 놈들 is plural. The narrator deliberately corrects himself.",
+      "replacement": "Right. One of them was from here to begin with.\n\nActually, make that two.",
+      "severity": "major",
+      "source": "그래, 애초에 이곳이 고향인 놈도 있다.\n\n정확히는 ‘놈들’이라고 해야 맞겠지만."
+    },
+    {
+      "confidence": 0.98,
+      "current": "One person was enough to light the fuse, but it took many people to contain the explosion.",
+      "defect": "The draft says many people contain the explosion itself; the source says they must quell its aftermath.",
+      "id": "F04",
+      "rationale": "폭발의 여파 is the explosion’s aftermath or repercussions, not the explosion.",
+      "replacement": "One person was enough to light the fuse, but it took many people to deal with the aftermath of the explosion.",
+      "severity": "major",
+      "source": "화약의 불씨를 당기는 것은 한 사람의 손으로도 충분하지만, 그 폭발의 여파를 잠재우는 데에는 수많은 이들의 도움이 필요한 법이니까."
+    }
+  ],
+  "summary": "Four actionable fidelity issues: an invented quantity, a changed subject, a lost punchline, and an altered causal image.",
+  "version": 1
+}

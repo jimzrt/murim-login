@@ -2451,3 +2451,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 아빠, 어디 갔어 | **Dad, Where Are You?** | Achievement earned by the three Jin brothers. |
 | 제후 | **feudal lord** | Status appointed by the Son of Heaven. |
 | 녕하성 | **Ningxia Province** | Region between Gansu and Shaanxi. |
+| 천수 | **Tianshui** | City on Gansu’s eastern edge, bordering Shaanxi. |
+| 십만마도 | **Hundred Thousand Demonic Disciples** | The earlier force used as a comparison for Dark Heaven’s army. |
+| 멸지 | **Land of Ruin** | Name used for the desert region beyond which Dark Heaven’s forces are approaching. |
