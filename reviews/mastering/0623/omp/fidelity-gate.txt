@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is mostly faithful, but one dialogue line changes the exchange, and one action is repeated beyond what the source describes.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Chapter 623, line 141",
+      "current": "“You crazy Han Chinese bastard—!”",
+      "defect": "This replaces the young man's first protest, “안 된다. 이노옴!” (“No! You cur!”), with the later Han Chinese insult from line 155. The insult is then repeated at P78, changing the order and content of the exchange.",
+      "replacement": "“No! You cur!”",
+      "rationale": "The source first has the young man object and address the narrator as “이노옴,” then has him shout a Han Chinese insult only after the narrator insists he will proceed.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Chapter 623, lines 253–255",
+      "current": "He glared at me, then turned away again.",
+      "defect": "This adds a glare and turn-away before the next sentence repeats those actions. The source describes his brief anger, then gives one glare and turn-away.",
+      "replacement": "That was all.",
+      "rationale": "The source says “순간 울컥한 표정을 지었지만 그뿐이다” (anger showed briefly, but that was all), followed by a single glare and turn-away in line 255.",
+      "confidence": 0.98
+    }
+  ]
+}

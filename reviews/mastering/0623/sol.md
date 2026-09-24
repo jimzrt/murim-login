@@ -8,19 +8,19 @@ He looked down the hill and wondered,
 
 It was a reasonable question. A vast pasture was burning before his eyes.
 
-Even now, the rapidly spreading flames were belching endless clouds of black smoke, while cows, sheep, horses, and other livestock fled frantically through the chaos.
+The flames were spreading fast, pouring out black smoke as cows, sheep, horses, and other livestock fled through it.
 
 *Grrrr.*
 
-A low growl and tremor suddenly reached him from below. The young man gently stroked the snow-white mane of the white tiger beneath him.
+A low growl rumbled beneath him. The young man gently stroked the snow-white mane of the white tiger he rode.
 
 “It’s all right. It’s okay.”
 
 *Grrk.*
 
-“You’re really angry, aren’t you?”
+“You’re angry, aren’t you?”
 
-Feelings were not conveyed through words alone.
+Feelings did not need words.
 
 Though one was human and the other a beast, they had spent enough years together to understand each other from the slightest gesture or change in a growl.
 
@@ -30,7 +30,7 @@ The young man met the white tiger’s blue gaze and nodded.
 
 Left alone, the flames would spread beyond control and reduce the entire pasture to ash.
 
-The land could be restored, of course, but they still had to save the livestock that would otherwise be swallowed by the flames and die.
+The land could recover. The livestock caught in the fire would not, and they had to be saved.
 
 After that…
 
@@ -50,7 +50,7 @@ Its thunderous roar carried through the flames.
 
 It happened in the blink of an eye.
 
-A white tiger and a non-Han young man had suddenly appeared on the hill, then began rushing about in every direction as though they had become one body.
+The white tiger and the young man who had appeared on the hill began racing back and forth as though they were one.
 
 *Whoosh—roar!*
 
@@ -60,13 +60,13 @@ Was this what they called a backfire?
 
 Fire met fire. They devoured each other until one went out. The backfire the young man had skillfully set worked remarkably well.
 
-As the flames quickly died down as if nothing had happened, I stepped forward to lend a hand out of sheer conscience.
+As the flames rapidly died down, I stepped forward to do my part. My conscience demanded at least that much.
 
 *Boom!*
 
 I threw a short, sharp punch. The flames wavered like a candle in the wind…
 
-…and then grew even larger.
+…and grew larger.
 
 *ROOOOAR!*
 
@@ -122,13 +122,13 @@ They were both pissed as hell.
 
 *Kraaaar!*
 
-The kid looked young, yet he was speaking casually to me on our first meeting.
+He looked younger than me, and he was talking to me like that on our first meeting?
 
 He had crossed a line, certainly. Then again, I had burned the line down. As a civilized man of the twenty-first century, I calmly and politely reassured them.
 
 “I don’t know who you are, but don’t worry. I’ll take care of it.”
 
-As demonstrated by the immediate response.
+That did not mean they would feel reassured.
 
 “No! Don’t!”
 
@@ -136,9 +136,9 @@ As demonstrated by the immediate response.
 
 I gently reasoned with the man and tiger shouting in unison.
 
-“It’s okay. I can do this. More importantly, could you quiet the tiger down a little?”
+“It’s okay. I can do this. Could you quiet the tiger down, though?”
 
-“You crazy Han Chinese bastard—!”
+“No, you fool!”
 
 *Kraaaar!*
 
@@ -160,11 +160,11 @@ Before either of them could finish, I struck with both palms at lightning speed.
 
 *Whoooosh—boom!*
 
-Two streams of mighty palm force shot through the air, splitting apart and bursting through the rolling waves of fire.
+Two mighty blasts of palm force tore through the air, splitting the rolling waves of fire apart.
 
 But if I stopped there, the flames would only surge higher. I would be repeating the same mistake.
 
-Without hesitation, I fired off one palm force after another.
+Without hesitation, I fired off blast after blast.
 
 *Boom! Boom!*
 
@@ -176,29 +176,29 @@ So all you needed was more water or stronger wind. In this case, I went with the
 
 *Boom!*
 
-The final palm force I sent out was especially powerful.
+The last blast was especially powerful.
 
 A typhoon-like wind swept across the pasture. The fleeing livestock lifted briefly off the ground, and grass and trees alike were flattened.
 
-And then…
+Then…
 
 *Whoosh.*
 
-The flames spreading in every direction died down in an instant.
+The flames spreading in every direction died in an instant.
 
-All that remained were small embers burning like a campfire and patches of pasture reduced to black ash.
+All that remained were small patches of fire burning like campfires and parts of the pasture reduced to black ash.
 
 A young man and a snow-white tiger stared at it all in a daze.
 
-“What… What is this?”
+“What… What was that?”
 
 *Grrrr?*
 
 Two pairs of eyes turned to me in disbelief.
 
-I walked over to the last ember nearby, ground it out beneath my foot, and shrugged.
+I ground out the nearest remaining flame beneath my foot and shrugged.
 
-“I told you. I can do it.”
+“Told you I could do it.”
 
 “……!”
 
@@ -210,7 +210,7 @@ The young man stared at me in pure astonishment. Then he aimed the spear in his 
 
 So he was from the Nanman Beast Palace. No surprise there.
 
-I nodded and was just about to answer when an elderly voice suddenly rang out from behind me.
+I nodded and was about to answer when an elderly voice spoke behind me.
 
 “He is Jin Taekyung of the Jin Family of Taiyuan.”
 
@@ -220,17 +220,17 @@ I turned. The members of the Fire Dragon Pavilion had come up behind me, with Na
 
 I did not know whether my name and sobriquet had reached Nanman.
 
-But at the very least, the non-Han young man in front of me—Yayul Mok—seemed to understand the words Namho had added perfectly.
+But Yayul Mok clearly understood the last part.
 
 “The Murim Alliance…”
 
 He murmured the words and stroked the white tiger’s mane. After watching its growls subside, he lowered his spear and turned away.
 
-“Follow me. Since the Murim Alliance has been mentioned, I will let this go for now. But don’t do anything as foolish as that again.”
+“Follow me. Since you’re from the Murim Alliance, I’ll let this go for now. But don’t do anything that foolish again.”
 
 Namho shrugged.
 
-“It was an accident. But I’ll keep it in mind.”
+“It was an accident. But we’ll bear that in mind.”
 
 “You had better, unless you want to die a sudden death.”
 
@@ -250,13 +250,13 @@ I watched Yayul Mok ride ahead on the white tiger, then gave Namho a sour look.
 
 For a moment, anger flashed across his face. He glared at me, then turned away again.
 
-After glaring at me once, Yayul Mok turned away again. Walking behind me, Namho gave me a flat, unimpressed look and said,
+Namho, walking behind me, gave me a flat look.
 
 “Watch your tongue.”
 
 “I was taking your side, Old Man Nam. Telling someone who could drop dead any day that he might ‘die a sudden death’? Who says that?”
 
-“Since when could I drop dead any day…? Forget it. I should never have expected anything from you. Do you have some illness that’ll kill you on the spot if you go even one day without stirring up trouble?”
+“Since when could I drop dead any day…? Forget it. I should never have expected anything from you. Do you have a disease that’ll kill you if you go a single day without stirring up trouble?”
 
 “Do you have a disease that’ll make you senile if you don’t set fire to a pasture owned by the Nanman Beast Palace?”
 
@@ -266,7 +266,7 @@ After glaring at me once, Yayul Mok turned away again. Walking behind me, Namho 
 
 Namho sighed, having come off much worse in that exchange.
 
-“All right. I admit it. This was clearly my mistake. It was something I had kept for more than fifty years, so I should have been more careful handling it.”
+“All right, I admit it. It was my mistake. That firework had sat unused for over fifty years. I should have handled it more carefully.”
 
 “Nice to see you admit it so readily. The pasture’s still nice and hot, though.”
 
@@ -282,7 +282,7 @@ I trailed off. Something I had forgotten was hovering just out of reach.
 
 *Yayul Mok. Yayul Mok…*
 
-After thinking it over carefully, I turned to Ju Hwaran and asked,
+I thought for a moment, then turned to Ju Hwaran.
 
 “Excuse me, Young Lady Ju.”
 
@@ -302,7 +302,7 @@ Hwaran smiled and answered kindly.
 
 “Ah. Right.”
 
-“Yes. Yayul is his family name. It’s a rare surname that you don’t often encounter even in Nanman.”
+“Yayul is his family name. It’s rare even in Nanman.”
 
 “Then that rude friend of ours must have the surname Ya. And his given name is Yulmok.”
 
@@ -312,7 +312,7 @@ Hwaran smiled and answered kindly.
 
 Hwaran was about to answer when the forest blocking Yayul Mok’s path far ahead began to shake.
 
-*Rustle. Crackle!*
+*Rustle. Crack!*
 
 I swear I had not seen so many different animals gathered in one place since I went to the zoo at seven years old.
 
@@ -324,7 +324,7 @@ The non-Han men and women riding the beasts spotted Yayul Mok. They hurriedly di
 
 “Are you unharmed?”
 
-“We received an urgent report that a fire had broken out. If Young Palace Lord continues acting so recklessly, the Palace Lord will be terribly worried… But who are these people?”
+“We received an urgent report of a fire. If you keep rushing off without a thought for your safety, the Palace Lord will be terribly worried… But who are they?”
 
 Dozens of pairs of eyes, human and beast alike, turned toward us.
 

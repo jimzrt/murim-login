@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He glared at me, then turned away again.",
+      "defect": "This adds a glare and turn-away before the next sentence repeats those actions. The source describes his brief anger, then gives one glare and turn-away.",
+      "id": "F02",
+      "rationale": "The source says “순간 울컥한 표정을 지었지만 그뿐이다” (anger showed briefly, but that was all), followed by a single glare and turn-away in line 255.",
+      "replacement": "That was all.",
+      "severity": "minor",
+      "source": "Chapter 623, lines 253–255"
+    }
+  ],
+  "summary": "The chapter is mostly faithful, but one dialogue line changes the exchange, and one action is repeated beyond what the source describes.",
+  "version": 1
+}
