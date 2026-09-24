@@ -1,21 +1,22 @@
 # Translation State
 
-- Last completed: 1000
-- Next chapter: 1001
-- Current block: 1000–1004 (1/5)
-- Latest translation: `translations/1000.md`
-- Latest summary: `summaries/beats/1000.md`
-- Safe profiles through: chapter 1000
+- Last completed: 1001
+- Next chapter: 1002
+- Current block: 1000–1004 (2/5)
+- Latest translation: `translations/1001.md`
+- Latest summary: `summaries/beats/1001.md`
+- Safe profiles through: chapter 1001
 
 ## Current Block
 
-- Song Il and Hwangbo Eom apologize to the Jin Family of Taiyuan and Ju Hwaran for their past wrongs. Taekyung accepts their apologies publicly while privately making clear that trust requires honesty; the two elders acknowledge their lingering resentment but agree to fight alongside the Zhongnan Sect against Dark Heaven. Gong Iljung explains that Zhongnan held back its main force to protect the sect. Taekyung accepts the explanation, and both groups set out for Gansu.
+- The Zhongnan Sect joins Taekyung’s party, bringing the group to roughly a thousand as they travel toward Gansu. Jeok Cheongang urges the Zhongnan disciples to hurry, then approves of Taekyung’s pragmatic, outward reconciliation with them. Near the Shaanxi–Gansu border, the group encounters a village crowd; the Zhongnan elders nearly frighten the civilians, but Jeok stops them and makes them apologize. The villagers reveal that they mistook the approaching party for a vicious gang of mounted bandits.
 
 ## Open Questions
 
 - Where will Dark Heaven’s advancing army strike, and what is its objective?
 - What caused the System malfunction, and is it connected to the Lord of Heaven?
 - Why did Sama Pyo’s father order him to return immediately?
+- Who are the mounted bandits feared by the villagers, and where are they?
 
 ## Exceptional Decision
 

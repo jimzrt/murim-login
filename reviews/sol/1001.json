@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Our party had swelled to well over a thousand, if you rounded up a bit, and we set off toward Gansu.",
+      "defect": "“Well over a thousand” makes the party substantially larger than the roughly thousand people reached by generous rounding.",
+      "id": "F01",
+      "rationale": "반올림 좀 더해서 천여 명 qualifies the estimate; it does not say the party was well over a thousand.",
+      "replacement": "Our party had swelled to around a thousand, rounding up a bit, and we set off toward Gansu.",
+      "severity": "critical",
+      "source": "반올림 좀 더해서 천여 명으로 불어난 일행은 감숙성을 향해 이동을 시작했고"
+    },
+    {
+      "confidence": 0.99,
+      "current": "At Jeok Cheongang’s muttered words, accompanied by a click of his tongue, I clicked mine too.",
+      "defect": "The draft gives Jeok Cheongang the narrator’s tongue-clicking action.",
+      "id": "F02",
+      "rationale": "Jeok smacks his lips; the narrator is the one who clicks his tongue.",
+      "replacement": "Jeok Cheongang smacked his lips as he muttered, and I clicked my tongue softly.",
+      "severity": "critical",
+      "source": "입맛을 다시며 중얼거리는 적천강의 모습에, 나는 작게 혀를 찼다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "It wasn’t a shout, and there was no particular internal energy behind the low voice, though it came from a man speaking forcefully.",
+      "defect": "“Speaking forcefully” contradicts the description of a low voice without a forceful shout or internal energy behind it.",
+      "id": "F03",
+      "rationale": "The contrast is that the quiet, unamplified command stops the two Daoists.",
+      "replacement": "It was a low voice, neither shouted with force nor backed by any particular internal energy.",
+      "severity": "critical",
+      "source": "목에 힘을 주어 내지른 외침도, 별다른 공력도 실려 있지 않은 나직한 음성."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The hooves of our grassland-bred horses thundered across the ground.",
+      "defect": "The draft changes the singular grassland horse into multiple horses.",
+      "id": "F04",
+      "rationale": "초원마의 말발굽 describes the hooves of one horse as the narrator urges his mount forward.",
+      "replacement": "My grassland horse’s hooves thundered across the ground.",
+      "severity": "critical",
+      "source": "힘차게 지면을 내달리는 초원마의 말발굽."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“M-Master.”",
+      "defect": "A deliberate correction from an initial form of address becomes a nervous stammer.",
+      "id": "F05",
+      "rationale": "노, 아니 marks the narrator starting one address and correcting himself to 스승님.",
+      "replacement": "“Old—no, Master.”",
+      "severity": "major",
+      "source": "“노, 아니 스승님.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“From this moment until we reach Gansu, if any of you fall behind or try to slack off, this old man will personally give you a one-on-one lesson.”",
+      "defect": "“Lesson” turns Jeok’s euphemistic threat of a private meeting into an explicit training session.",
+      "id": "F06",
+      "rationale": "개인 면담 is a private meeting or talk; the threat lies in who would conduct it.",
+      "replacement": "“From this moment until we reach Gansu, if any of you fall behind or try to slack off, this old man will personally have a private talk with you.”",
+      "severity": "major",
+      "source": "‘지금 이 순간부터 감숙성에 도착하기 전까지, 조금이라도 뒤처지거나 뺀질대는 놈들은 노부가 친히 개인 면담을 해 주마.’"
+    },
+    {
+      "confidence": 0.88,
+      "current": "“Senior Jeok, I was only trying to make sure…”",
+      "defect": "The draft changes the spoken address from 노 선배 to “Senior Jeok.”",
+      "id": "F07",
+      "rationale": "The speaker does not address him as 적 선배; “Senior” preserves the deference without substituting a different name.",
+      "replacement": "“Senior, I was only trying to make sure…”",
+      "severity": "major",
+      "source": "“노 선배. 저는 그저 확인 차…….”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Who else? Those vicious mounted bandits.”",
+      "defect": "The English loses the fact that the speaker identifies a bandit gang, rather than merely describing mounted bandits.",
+      "id": "F08",
+      "rationale": "마적단 names a group or gang of mounted bandits.",
+      "replacement": "“Who else? That vicious gang of mounted bandits.”",
+      "severity": "minor",
+      "source": "“누구긴 누굽니까요. 그 흉악하기 짝이 없는 마적단 놈들이지.”"
+    }
+  ],
+  "summary": "Several draft choices change the party’s size, physical actions, and the force of a spoken line. Two also lose a deliberate correction and the nature of Jeok Cheongang’s threat.",
+  "version": 1
+}
