@@ -1,6 +1,6 @@
 # Chapter 598
 
-There is always a reason behind things described as *special*.
+There was usually a good reason for calling a place *special*.
 
 The special detention center where Go Se-won was being held was no exception.
 
@@ -20,7 +20,7 @@ Around a hundred soldiers stood guard, armed to the teeth. Hunters disguised as 
 
 As if that weren’t enough, heavy weapons were positioned throughout the facility, along with concealed magic traps.
 
-*Most people wouldn’t be able to walk out of here in one piece.*
+*Anyone who tried anything here would be lucky to come out alive.*
 
 This place held people who hadn’t yet received a verdict. Even so, security was far tighter than at a prison reserved for serious criminals.
 
@@ -30,9 +30,9 @@ One look at the warden waiting outside the main building told me why.
 
 He had the warm, genial face of an old man from a fried-chicken restaurant. The energy he gave off was anything but warm.
 
-A former A-rank Hunter with an impressive record, the warden greeted me with a friendly attitude.
+A former A-rank Hunter with an impressive record, he greeted me with a smile.
 
-“When I first heard the news about you, I felt so relieved. This isn’t something I should say as the warden, but… honestly, every time I see the bastards in here, I feel like smashing their heads in with a mace. Isn’t that why I’ve gone bald from holding myself back?”
+“When I first heard what you’d done, I felt a weight lift off my chest. I probably shouldn’t say this as warden, but… every time I see the bastards in here, I want to smash their heads in with a mace. Holding back is probably why I’ve gone bald.”
 
 “…Oh. I see.”
 
@@ -48,7 +48,7 @@ His confession caught me so off guard that I could only give an awkward reply. T
 
 “Criminal bastards need a beating. Especially the ones in here.”
 
-The Blue House security officers wore expressions that seemed to ask whether they should report this to the President, and I began to worry about whether one particular person was still alive.
+The Blue House security officers looked as though they were wondering whether they needed to report this to the President. I began to worry about one particular person.
 
 “Is Go Se-won still alive?”
 
@@ -70,13 +70,11 @@ If an Awakened person committed a crime, they were brought here immediately, reg
 
 *They’re Awakened, after all.*
 
-Even an F-grade Awakened could easily subdue two or three grown men.
-
-If they were higher-ranked and had obtained a Hunter license through formal training, that went without saying.
+Even an F-rank Awakened could easily subdue two or three grown men. Someone with a higher classification and a Hunter license earned through formal training was another matter entirely.
 
 “They’re awaiting verdicts, sure, but most of them are obviously guilty. You never know what they might try. We get two or three escape attempts every year without fail. Once they’re convicted and transferred to a special prison, they won’t have another chance. That place is hell.”
 
-As he explained while crossing the corridor, the warden pointed toward three or four metal doors that looked particularly thick and sturdy.
+As we crossed the corridor, the warden pointed to three or four doors that looked especially thick and sturdy.
 
 “We’re watching the bastards who came in this time particularly closely. They’ve got nothing left to lose, and they’ve been pretty rough.”
 
@@ -84,13 +82,13 @@ I checked the holograms to see who he meant. They were the Ares Guild executives
 
 They lay wrapped in mana suppressors from head to toe like mummies. I studied them, then made a heartfelt request.
 
-“Please beat the shit out of them—good and proper.”
+“Please beat the shit out of them. Thoroughly.”
 
 “I was planning to. I’ve already greased up the mace I used back in my active days.”
 
 “You really do have everything planned, Warden.”
 
-“Ah, but what’s going to happen to you, Hunter Jin Taekyung? I hope things work out for you, but the law is a complicated thing.”
+The warden beamed at my praise, then asked, “By the way, what’s going to happen to you, Mr. Taekyung? I hope it works out, but the law is complicated.”
 
 “Who knows? I still have no idea.”
 
@@ -150,7 +148,7 @@ When everyone else in Ares Guild had looked at me with anger and fear, he’d ke
 
 “You must have lost a lot over this.”
 
-“I lost as much as I gained. I’ve only gone back to the way I was then—a war orphan who had nothing. More importantly, I protected my precious family. I should be satisfied with that.”
+“I lost what I’d gained. I’ve just gone back to being the war orphan who had nothing. More importantly, I protected my family. That’s enough for me.”
 
 Everyone gets a chance to change. For Go Se-won, his family had probably been the reason. Maybe that last phone call, arriving when death was almost upon him, had led him to this choice.
 
@@ -162,13 +160,13 @@ Everyone gets a chance to change. For Go Se-won, his family had probably been th
 
 They do say the eldest daughter takes after her father.
 
-When I fell silent after accidentally assigning someone’s daughter to the tank class, Go Se-won let out a small sigh.
+Having unwittingly delivered my *perfect tank* assessment about his daughter, I shut my mouth. Go Se-won sighed softly.
 
-“I called you because I thought you might be able to help me, but you make me lose the desire to ask.”
+“I asked to see you because I thought I might be able to help. You’re making me lose the urge.”
 
 “…”
 
-“Well, never mind. In any case, the fact that you came to see me means you’ve already heard about it, right?”
+“Anyway. The fact that you came means you’ve heard what I said, right?”
 
 Relieved that he’d changed the subject, I nodded.
 
@@ -200,11 +198,11 @@ Go Se-won noticed despite the mana suppressor. He pretended to rub the corner of
 
 “Search Area A carefully. There’s another secret area inside it.”
 
-Another hidden space.
+Another hidden space?
 
 I blinked at him, then hurriedly asked, “Where? What’s the exact location?”
 
-But contrary to my expectations, the answer that came back was low and brief.
+His answer was low and brief.
 
 “I don’t know.”
 
@@ -216,11 +214,11 @@ Go Se-won had once been counted among Go Jun’s closest aides. Even he knew onl
 
 “Then maybe…”
 
-“Of course, I don’t know what’s inside or what they do there. That’s all I know.”
+“Of course I don’t know what’s inside or what they did there, either. That’s everything I know.”
 
 He cut me off sharply, then continued.
 
-“The government investigation team must be searching Area A from top to bottom by now, but they probably haven’t noticed it yet.”
+“The government’s investigation team must be searching Area A from top to bottom by now, but they probably haven’t found it.”
 
 “Why?”
 

@@ -2395,3 +2395,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 대학사 | **Grand Academician** | Title held by the former Crown Prince’s tutor and the conspirator confronted by Jin Taekyung. |
 | 위령비 | **memorial** | Memorial the Emperor orders erected for the dead. |
 | 연판장 | **pledge** | Document signed by conspirators; Jin Taekyung says he signed it. |
+| 주체 | **Zhu Di** | The Emperor names himself as Zhu Di. |

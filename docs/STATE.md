@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 933
-- Next chapter: 934
-- Current block: 930–934 (4/5)
-- Latest translation: `translations/0933.md`
-- Latest summary: `summaries/beats/0933.md`
-- Safe profiles through: chapter 933
+- Last completed: 934
+- Next chapter: 935
+- Current block: 930–934 (5/5)
+- Latest translation: `translations/0934.md`
+- Latest summary: `summaries/beats/0934.md`
+- Safe profiles through: chapter 934
 
 ## Current Block
 
-- As Jin Taekyung is escorted to Qianqing Palace, the Embroidered Uniform Guards honor him for fighting alongside them and bid him farewell. He finds the Emperor gravely weakened and realizes he has been using poppy. The Emperor reveals that a trusted loyalist poisoned him with the Blood Soul Gu shortly after the coup more than ten years ago; the poison has reached his marrow, and it killed the imperial family members who preceded him. Baek Yeon and So Gyo knew the secret, and Taekyung is now the third person besides them to learn it. The Emperor refuses a physician’s help and says he has no regrets after enduring more than ten years.
+- The Emperor reveals that the Divine Physician examined him three days earlier and judged his Blood Soul Gu condition too advanced for immediate treatment. Believing his life is nearing its end, the Emperor admits to Jin Taekyung that he wants to live, especially to protect his young brother Zhu Bao and prepare him for the war he expects to come. Taekyung refuses to offer false comfort, shares how he once begged desperately to survive, and promises to save the Emperor.
 
 ## Open Questions
 

@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "We get two or three escape attempts every year without fail.",
+      "defect": "The Korean says two or three people attempt to escape each year, not that there are two or three attempts. The translation changes what is being counted.",
+      "id": "F01",
+      "rationale": "“탈옥 시도하는 놈들도 일 년에 두세 명씩은 꼭 나오는 편이고” counts people (명), not escape attempts.",
+      "replacement": "Two or three people try to escape every year without fail.",
+      "severity": "minor",
+      "source": "Korean source line 83"
+    }
+  ],
+  "summary": "One minor quantity-unit mismatch: the source counts people attempting escape, while the translation counts attempts.",
+  "version": 1
+}
