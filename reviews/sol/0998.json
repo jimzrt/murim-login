@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If anyone else had hit me on the back of the head, I’d have seen red. But when that someone was the Fire King, Jeok Cheongang, it was a different story.",
+      "defect": "The draft makes the narrator the person struck and angered. The source says Hyuk Mujin would have reacted angrily if someone other than the narrator had struck him.",
+      "id": "F01",
+      "rationale": "The conditional distinguishes the narrator from other people who might hit Hyuk Mujin; Jeok’s status explains why Hyuk holds back.",
+      "replacement": "If anyone but me had smacked Hyuk Mujin on the back of the head, he’d have been glaring daggers. But when that someone was the Fire King, Jeok Cheongang, it was a different story.",
+      "severity": "critical",
+      "source": "내가 아닌 다른 누군가에게 뒤통수를 맞았다면 눈에 쌍심지를 켰겠지만, 그 누군가가 바로 화왕 적천강이라면 이야기가 달라진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "On the saddle of the lead rider, a young man gasped for breath as he read the characters embroidered in a single flowing stroke. He muttered under his breath,",
+      "defect": "The draft makes the young man gasp for breath; the panting belongs to the grassland horse beneath him.",
+      "id": "F02",
+      "rationale": "숨을 헐떡이는 modifies 초원마, not 청년.",
+      "replacement": "From atop his panting grassland horse, the young man riding in front read the characters embroidered in a single flowing stroke and muttered under his breath,",
+      "severity": "critical",
+      "source": "숨을 헐떡이는 초원마의 말안장 위, 일필휘지로 수놓아진 글자를 읽은 선두의 청년이 작게 중얼거렸다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "When a “rift” had opened beneath Dongting Lake,",
+      "defect": "The draft places the rift beneath the lake, a location the source does not specify.",
+      "id": "F03",
+      "rationale": "동정호에서 identifies Dongting Lake as the location without saying the rift was underneath it.",
+      "replacement": "When a “rift” had opened at Dongting Lake,",
+      "severity": "critical",
+      "source": "동정호에서 ‘균열’이 발생했을 당시"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Why are we stopping for a rest out of nowhere? What on earth do you mean, Senior Brother?”",
+      "defect": "Calling the first elder merely Senior Brother loses his distinction as the eldest senior brother, which matters when another senior brother enters the exchange.",
+      "id": "F04",
+      "rationale": "대사형 distinguishes this elder from the other 사형 in the scene.",
+      "replacement": "“Why are we stopping for a rest out of nowhere? What on earth do you mean, Eldest Senior Brother?”",
+      "severity": "major",
+      "source": "“난데없이 휴식이라니. 대관절 그게 무슨 말씀이십니까. 대사형.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Why are you doing this too, Senior Brother? It’s been two days since we left the main sect, and we still haven’t reached Gansu. You know that…”\n\n“Enough.”\n\nThe white-bearded old Daoist, who looked like an immortal, lifted a hand and cut him off.",
+      "defect": "The draft omits the second elder’s identifying address, Senior Brother Lee, both in speech and in the narration that identifies who was addressed.",
+      "id": "F05",
+      "rationale": "이 사형 is repeated as an address and then as the narrator’s identification of the man who interrupts.",
+      "replacement": "“Why are you doing this too, Senior Brother Lee? It’s been two days since we left the main sect, and we still haven’t reached Gansu. You know that…”\n\n“Enough.”\n\nThe man he’d called Senior Brother Lee, an old Daoist with a luxuriant white beard who looked like an immortal, lifted a hand and cut him off.",
+      "severity": "major",
+      "source": "“이 사형까지 왜 그러시는 겁니까. 본산(本山)을 떠난 지 벌써 이틀이 지났는데, 아직도 감숙에 닿지 못했다는 걸 아시는 분들께서…….”\n\n“그만.”\n\n이 사형이라 불린 그, 풍성한 백염(白髥)으로 신선처럼 보이는 노도사가 손을 들어 말을 끊었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Lower your voice, Junior Brother Sect Leader. How can you be so rude to Senior Brother?”",
+      "defect": "The second elder’s rebuke drops the eldest brother’s distinct seniority.",
+      "id": "F06",
+      "rationale": "The rebuke explicitly refers to 대사형, not to a generic senior brother.",
+      "replacement": "“Lower your voice, Junior Brother Sect Leader. How can you be so rude to Eldest Senior Brother?”",
+      "severity": "major",
+      "source": "“목소리 낮추게, 장문 사제. 대사형께 이 무슨 무례인가.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I’m disappointed in you, Junior Brother Sect Leader. So is Senior Brother.",
+      "defect": "The line again obscures which of the two elders the speaker means.",
+      "id": "F07",
+      "rationale": "나와 대사형 explicitly names the speaker and the eldest senior brother together.",
+      "replacement": "Eldest Senior Brother and I are disappointed in you, Junior Brother Sect Leader.",
+      "severity": "major",
+      "source": "나와 대사형은 오히려 장문 사제에게 섭섭하군."
+    },
+    {
+      "confidence": 0.93,
+      "current": "I’d reached the Supreme Peak realm and completed Bone Transformation. I was a superhuman among superhumans.",
+      "defect": "The draft repeats Supreme Peak from the preceding sentence instead of conveying the further attainment, 등봉조극.",
+      "id": "F08",
+      "rationale": "The contrast is between a newly arrived Supreme Peak master and the narrator’s much further advancement.",
+      "replacement": "I’d reached the pinnacle of martial arts and even completed Bone Transformation. I was a superhuman among superhumans.",
+      "severity": "major",
+      "source": "이제는 등봉조극의 경지에 환골탈태까지 완성한, 그야말로 초인 중의 초인."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“We run. Like hell.”\n\n“I know that much, of course. But what I wanted to ask was…”\n\n“You mean, running like hell is fine, but how long do we keep running?”",
+      "defect": "Both uses of the emphatic profanity 존나게 are softened, flattening the narrator’s deliberately crude repetition.",
+      "id": "F09",
+      "rationale": "The source repeats the same strong vulgar intensifier in the answer and in the narrator’s teasing restatement.",
+      "replacement": "“We run. Fucking hard.”\n\n“I know that much, of course. But what I wanted to ask was…”\n\n“You mean, running fucking hard is fine, but how long do we keep it up?”",
+      "severity": "major",
+      "source": "“뛰어야지. 존나게.”\n\n“그건 당연히 알죠. 그런데 제가 여쭙고 싶은 건…….”\n\n“존나게 뛰는 건 좋은데 언제까지 뛰냐, 그거겠지.”"
+    }
+  ],
+  "summary": "Several action and subject errors need correction, along with a lost distinction between the two senior Daoists and softened profanity.",
+  "version": 1
+}
