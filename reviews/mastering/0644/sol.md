@@ -98,7 +98,7 @@ I stared at the thirty-two chieftains in disbelief.
 
 These people represented all of Nanman. Yet the Beast Miao King’s opening words had apparently been their cue to start conversations all over the hall that made my spirit shrink just listening to them.
 
-“Chief Gal, I heard the news. Your sixth child had their coming-of-age ceremony?”
+“Chief Gal, I heard your sixth child had their coming-of-age ceremony.”
 
 “My seventh.”
 
@@ -114,13 +114,13 @@ These people represented all of Nanman. Yet the Beast Miao King’s opening word
 
 On one side, a super-sperm man seemed to be working toward founding a Nanman soccer league.
 
-“Chief Gu. Return the livestock you stole a while ago.”
+“Chief Gu. Return the livestock you stole.”
 
 “What livestock?”
 
 “The fifty-two dairy cows that vanished from the pasture. You think I don’t know your tribespeople took them?”
 
-“I have never done such a thing.”
+“They didn’t.”
 
 “Of course you’d say that. Return them while I’m asking nicely.”
 
@@ -144,7 +144,7 @@ On another, a furious argument raged over who had stolen all those cows.
 
 “Give me the land.”
 
-Elsewhere, a land ghost insisting he had been reincarnated continued his back-and-forth struggle.
+Elsewhere, a land-obsessed ghost claiming reincarnation kept up his back-and-forth.
 
 As I watched it all in disbelief, someone’s Sound Transmission reached my ear.
 
@@ -160,7 +160,7 @@ I thought for a moment, then answered honestly.
 
 —The Tribal Grand Council handles all of Nanman’s affairs, major and minor. *Minor* means the small ones come up, too.
 
-—……That matter is way too small, though.
+—…These are a little *too* minor.
 
 —How else are thirty-two tribes supposed to live together in harmony? They settle things one by one when everyone’s gathered. It lets them clear up old grudges.
 
@@ -178,7 +178,7 @@ The two chieftains arguing over the cows had finally grabbed each other by the c
 
 —…
 
-—It’ll be settled soon. The real grand council starts after that.
+—They’ll settle down soon. That’s when the real council starts.
 
 “Ah, give me the land. I said give it to me.”
 
@@ -188,7 +188,7 @@ The two chieftains arguing over the cows had finally grabbed each other by the c
 
 “Stop! Stoooop!”
 
-*It’ll be settled soon,* she said.
+*They’ll settle down soon,* she said.
 
 Hmm. I had my doubts.
 
@@ -196,9 +196,9 @@ Hmm. I had my doubts.
 
 I kept that thought to myself. But just as Yohi had said, the chaos began to subside, one dispute at a time, and new matters came up.
 
-“Thirty Man warriors were wounded and twenty-two were killed in this year’s ferocious-beast hunt. The beasts seem to have become especially rampant lately, so before the losses grow any larger, we request that the Inner Palace take action……”
+“Thirty Man warriors were wounded and twenty-two killed in this latest ferocious-beast hunt. The beasts have been especially active lately, so we ask the Inner Palace to intervene before the losses grow…”
 
-“Sudden torrential rain caused a flood. The pasture and around fifty nearby homes were submerged……”
+“Sudden heavy rain caused flooding. The pastures and some fifty nearby homes were submerged…”
 
 “I report that the dispute between the Huang and Dong tribes has been resolved. Both sides have drawn up an official written agreement and will maintain peace for the next ten years…”
 
@@ -208,13 +208,13 @@ The appetizers were over. Now the main dishes were coming out.
 
 And among those reports was something that deserved serious attention.
 
-“They say a strange figure has appeared in the northeast.”
+“They say a strange man has appeared in the northeast.”
 
-*A strange figure?*
+*A strange man?*
 
-As the question arose in my mind, the Beast Miao King—who until then had merely nodded along with short replies—straightened his posture and spoke.
+The Beast Miao King, who had only given short answers and nodded until now, sat up straight.
 
-“A strange figure. This is the first I have heard of it.”
+“A strange man? This is the first I’ve heard of it.”
 
 “W-well…”
 
@@ -226,7 +226,7 @@ The chieftain who had raised the matter looked uncertain.
 
 “Three days ago, we captured a Han Chinese man who crossed the northeastern border. He told us an unidentified man had appeared out of nowhere and was leaving a trail of blood through Guizhou.”
 
-Guizhou was a border region touching Nanman, along with Sichuan and Guangxi. With a little exaggeration, it was practically close enough to trip and bump your nose against.
+Guizhou bordered Nanman, as did Sichuan and Guangxi. Exaggerating only a little, it was close enough to trip and land there.
 
 *But some strange man suddenly appeared in Guizhou?*
 
@@ -292,9 +292,9 @@ His tone and expression remained perfectly calm. His voice was cold.
 
 “There’s no reason for Nanman to concern itself with affairs in the Central Plains. None at all.”
 
-I did not know whether the thought that came to me then was merely a misunderstanding.
+Maybe I was reading too much into it. But something about that struck me as strange.
 
-Baeksang was the great chieftain of the Bai people, who possessed Nanman’s second-largest faction and the second-largest population. And yet he was trying to ignore an event unfolding right beside him.
+Baeksang led the Bai people, with Nanman’s second-largest population and sphere of influence. Yet he wanted to ignore something happening right next door.
 
 I watched him for a moment, then spoke.
 
@@ -310,7 +310,7 @@ The chieftains who grasped my meaning widened their eyes. Baeksang answered with
 
 “There is a reason. One clear reason. But…”
 
-I forcefully cut him off before he could continue, fixing Baeksang with a grave, steady gaze as I went on.
+I cut him off firmly and held his gaze.
 
 “Strangely enough, you seem to be the only one who doesn’t know it.”
 
@@ -322,7 +322,7 @@ At that moment—
 
 *Fwoosh. Whoomph.*
 
-The wavering torchlight went out.
+The wavering torches went out.
 
 In the darkness that fell over the vast hall, a pair of eyes radiated a piercing chill.
 

@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "in this year’s ferocious-beast hunt",
+      "defect": "“This year’s” adds a yearly timeframe that the Korean does not establish; “이번” refers to this hunt or the current occasion.",
+      "id": "F01",
+      "rationale": "The source says “이번 맹수 토벌” (“this/current ferocious-beast hunt”), not “this year’s hunt.”",
+      "replacement": "in this ferocious-beast hunt",
+      "severity": "minor",
+      "source": "Korean lines 213–214: “이번 맹수 토벌에서”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "There’s no reason for Nanman to concern itself with affairs in the Central Plains. None at all.",
+      "defect": "The added “None at all” replaces the source’s qualification “at least us in Nanman,” changing the scope and emphasis of Baeksang’s statement.",
+      "id": "F02",
+      "rationale": "The Korean closes with “적어도 우리 남만은” (“at least, we in Nanman”), contrasting Nanman with the Central Plains rather than restating that there is no reason at all.",
+      "replacement": "There’s no reason for Nanman to concern itself with affairs in the Central Plains. At least, not for us in Nanman.",
+      "severity": "minor",
+      "source": "Korean lines 305–309: “적어도 우리 남만은.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "the open sea",
+      "defect": "The translation drops the source’s image of a vast, boundless sea, which the accepted baseline preserves.",
+      "id": "F04",
+      "rationale": "“드넓은 망망대해” explicitly describes an immense, boundless expanse of sea.",
+      "replacement": "the vast open sea",
+      "severity": "minor",
+      "source": "Korean line 323: “드넓은 망망대해”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "An immense wave of qi bore down on me from every direction, squeezing my entire body.",
+      "defect": "“Bore down” adds a downward direction not present in the source; the pressure is described as constricting his whole body from all sides.",
+      "id": "F05",
+      "rationale": "“사방에서” establishes pressure coming from every direction, and “옥죄어 오는” describes it closing in or constricting; no downward force is specified.",
+      "replacement": "An immense wave of qi pressed in on me from every direction, squeezing my entire body.",
+      "severity": "minor",
+      "source": "Korean line 353: “사방에서 전신을 옥죄어 오는 거대한 기파”"
+    }
+  ],
+  "summary": "The assembled translation is largely faithful, but it adds a time frame, shifts the scope of Baeksang’s claim, and alters a couple of physical or geographic details.",
+  "version": 1
+}
