@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“You’re Chinggen?”\n\n“Now, now. ‘You’?”",
+      "defect": "The draft removes Mukyung’s contemptuous form of address, leaving Chinggen’s objection without a cause.",
+      "id": "F01",
+      "rationale": "칭겐 explicitly objects to being called 네놈, not to the ordinary pronoun “you.”",
+      "replacement": "“So you’re Chinggen, you bastard?”\n\n“Hey, now. ‘You bastard’?”",
+      "severity": "major",
+      "source": "“칭겐이라고, 네놈이?”\n\n“어허, 네놈이라니?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“How could a wolf serve under a little bitch? He’s my little brother, whom I’ve cherished like my own son. I can’t let that happen as his older brother.”",
+      "defect": "“Little bitch” changes Wikyung’s wolf-versus-dog comparison into a different, gendered insult.",
+      "id": "F02",
+      "rationale": "개새끼 continues the animal hierarchy established by 늑대; it does not introduce a female dog.",
+      "replacement": "“How could a wolf serve under a mangy dog? He’s my little brother, whom I’ve cherished like my own son. As his older brother, I can’t let that happen.”",
+      "severity": "major",
+      "source": "“늑대가 어떻게 개새끼 밑으로 들어가겠나. 친자식처럼 애지중지 키운 아우인데, 형님으로서 그런 꼴은 못 보지.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Actually, ‘snapped’ isn’t enough. More like crushed to pieces. He fell more than thirty *jang*.”",
+      "defect": "“Fell” turns a violent impact into an unforced fall.",
+      "id": "F03",
+      "rationale": "처박혔으니 describes him being driven down with force.",
+      "replacement": "“Actually, ‘snapped’ isn’t enough. More like crushed to pieces. He was slammed more than thirty *jang* down.”",
+      "severity": "critical",
+      "source": "“아니, 부러진 정도가 아니라 으스러졌겠군. 자그마치 삼십여 장 아래로 처박혔으니.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "That alone was more than unpleasant enough, but the painful process of reversing his disguise technique and Bone-Shrinking Technique—followed by being ambushed—had put him in the foulest of moods.",
+      "defect": "“Followed by” places the ambush after the painful reversal rather than during it.",
+      "id": "F04",
+      "rationale": "과정 속에서 specifies that the attack occurred in the middle of the process.",
+      "replacement": "That alone was more than unpleasant enough, but being ambushed while painfully reversing his disguise technique and Bone-Shrinking Technique had put him in the foulest of moods.",
+      "severity": "major",
+      "source": "역용술과 축골공을 되돌리는 고통스러운 과정 속에서 기습까지 당했다는 사실은 노인의 기분을 최악으로 치닫게 만들었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Oh. And you, too, you fat pig.”",
+      "defect": "“You, too” makes it sound as though Mukyung is addressing an additional person rather than adding another insult to the same man.",
+      "id": "F05",
+      "rationale": "추가 marks an addition to Mukyung’s preceding retort.",
+      "replacement": "“Oh. And you’re a fat pig, too.”",
+      "severity": "minor",
+      "source": "“아. 돼지 새끼도 추가.”"
+    }
+  ],
+  "summary": "The draft preserves the scene’s main events, but several lines alter an action, the timing of the ambush, or the force of an insult.",
+  "version": 1
+}

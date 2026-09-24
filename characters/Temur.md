@@ -1,6 +1,6 @@
 # Temur (테무르)
 
-- **Safe through:** Chapter 958
+- **Safe through:** Chapter 959
 - **Aliases:** None
 - **Role:** Temur is a Khan of the northern grasslands, ruling alongside Chinggen over tens of thousands of horses and warriors.
 - **Personality:** Hot-tempered and proud of his khan lineage, Temur chose survival over loyalty and now recognizes with guilt that his actions have led his followers to slaughter.
