@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He even showed an ambition I could hardly believe coming from the Secretary of Defense of the United States.",
+      "defect": "The assembled copy omits the narrator’s reaction to Hagel’s declaration: his chest swelled at Hagel’s willingness to extend equality beyond race to other species. The next sentence about Hagel’s ambition does not preserve that emotional beat.",
+      "id": "F01",
+      "rationale": "The source explicitly describes the narrator’s reaction before adding that Hagel showed an unexpectedly expansive ambition; the accepted baseline preserves both beats.",
+      "replacement": "My chest swelled at Chuck Hagel’s declaration of equality that transcended race and extended even across species. He even showed an ambition I could hardly believe coming from the Secretary of Defense of the United States.",
+      "severity": "minor",
+      "source": "Lines 89, 42"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Uncle Chuck was, along with Magic Johnson, a symbol of the United States.",
+      "defect": "The copy drops the explicit thought that this was the kind of insane thing only Chuck Hagel could do. Calling Uncle Chuck a symbol of the United States does not preserve that characterization.",
+      "id": "F02",
+      "rationale": "The source says both that this act was uniquely characteristic of Hagel and that Uncle Chuck was a symbol of the United States. The accepted baseline includes both statements.",
+      "replacement": "And yet it was also the kind of insane thing only Chuck Hagel could do. Uncle Chuck was, along with Magic Johnson, a symbol of the United States.",
+      "severity": "minor",
+      "source": "Lines 105–107, 48–49"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Without knowing who we were, they couldn’t use their favorite tactic against us: retaliatory attacks.",
+      "defect": "The source specifies that the terrorists did not know the team’s names, ages, nationalities, or appearances. The assembled copy reduces this to not knowing who they were, losing those explicit details.",
+      "id": "F03",
+      "rationale": "The source enumerates the missing identity details immediately before describing the masks and changing tactics; the accepted baseline preserves that enumeration.",
+      "replacement": "They didn’t know our names or ages. They didn’t even know our nationalities or what we looked like. We wore masks, avoided surveillance with Magic Johnson’s Magic, and fought while changing our weapons and combat methods. And… “Nothing’s scarier than an enemy you can’t identify.” In just one week, we’d become something terrorist organizations feared. They couldn’t catch us, even with enormous bounties on our heads. Without knowing who we were, they couldn’t use their favorite tactic against us: retaliatory attacks.",
+      "severity": "minor",
+      "source": "Lines 227–229, 111, 114"
+    }
+  ],
+  "summary": "The assembled copy is mostly faithful, but it omits several source details preserved in the accepted baseline, including the narrator’s reaction to Hagel’s statement and specifics about the team’s anonymity.",
+  "version": 1
+}
