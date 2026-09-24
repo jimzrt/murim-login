@@ -1,6 +1,6 @@
 # Sama Pyo (사마표)
 
-- **Safe through:** Chapter 1015
+- **Safe through:** Chapter 1016
 - **Aliases:** Black Dragon Saber
 - **Role:** Young Sect Leader and heir of the Black Dragon Demon Gate, a Morning Star reputed to be no less than the Ten Dragons and Phoenixes.
 - **Personality:** Outwardly courteous and smiling, inwardly calculating, but genuinely protective of Taishan; in combat he is ruthlessly pragmatic, survival-focused, and unafraid to stake his life.
