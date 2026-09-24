@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I did my best to ignore Hyuk Mujin’s distrustful gaze and crossed through the ethnic tribesmen radiating a menacing aura.",
+      "defect": "The source says the narrator stops in front of a wooden building after crossing through the hostile crowd. The current passage does not state that he stops or that the building is wooden.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says he crosses among the tribesmen and stops in front of a wooden building; the sign that follows identifies that building as the meeting place.",
+      "replacement": "I did my best to ignore Hyuk Mujin’s distrustful gaze, crossed through the ethnic tribesmen radiating a menacing aura, and stopped in front of a wooden building.",
+      "severity": "minor",
+      "source": "Korean line 383"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful. One physical detail from the source is omitted at the final location.",
+  "version": 1
+}

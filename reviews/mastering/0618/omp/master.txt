@@ -12,15 +12,15 @@ No, that wasn’t strictly true. The waterways didn’t simply end there.
 
 The problem was that continuing by water to the plateau in northern Yunnan would take us much longer to reach our destination.
 
-*Our highest priority is the Nanman Beast Palace, after all.*
+*Our priority is the Nanman Beast Palace, after all.*
 
-The Quest I had received required me to reach Nanman, but the Fire Dragon Pavilion’s mission required us to head for the Nanman Beast Palace.
+Completing my Quest required me to enter Nanman, but the Fire Dragon Pavilion’s mission required us to reach the Nanman Beast Palace.
 
 I gave the Deputy Stronghold Lord a small bow.
 
 “Thank you. You must be busy raiding merchant ships, yet you brought us all the way here.”
 
-“Oh, please, don’t say that. You’re no ordinary person. If Great Hero Jin calls for us, we should drop everything and come running at any time. I’m almost sorry to part ways with you, heh heh heh.”
+“Oh, please, don’t say that. If Great Hero Jin calls, we’ll drop everything and come running. I’m almost sorry to part ways with you, heh heh heh.”
 
 He looked far too happy for someone who was supposedly sorry.
 
@@ -40,7 +40,7 @@ I laughed along with him. “Ha ha. Really?”
 
 “So wait nearby.”
 
-“Ah, no. That might be a little difficult. We have things to do as well…”
+The Deputy Stronghold Lord’s smile vanished. “Ah, no. That might be a little difficult. We have things to do as well…”
 
 “I know. You can send the rest of the ships back and leave just one or two here.”
 
@@ -52,11 +52,11 @@ I laughed along with him. “Ha ha. Really?”
 
 There was no trace of happiness left on his face. As he hung his head, I gently rubbed his shoulder.
 
-“I know it’s an unreasonable request, but let’s impose on you a little.”
+“I know it’s a lot to ask, but I’m going to need your help.”
 
 “No, even so…”
 
-“Come on. Let’s impose on you a little.”
+“I said I need your help.”
 
 “……”
 
@@ -66,7 +66,7 @@ There was no trace of happiness left on his face. As he hung his head, I gently 
 
 The Deputy Stronghold Lord’s face went dark. His answer was all but decided.
 
-A short while later, I finally extracted a promise that they would remain anchored nearby until we returned. After I disembarked, the gazes directed at me were far from ordinary.
+A little later, I disembarked with his promise to keep ships anchored nearby until we returned. The others gave me looks.
 
 “I thought I was watching a Third Rate wandering martial artist.”
 
@@ -80,7 +80,7 @@ A short while later, I finally extracted a promise that they would remain anchor
 
 That last answer was the only correct one.
 
-*As expected, Ju Hwaran is the only person who understands me.*
+*Ju Hwaran is the only one who understands me.*
 
 I turned to her, moved. “Exactly. You said what I was thinking, down to the last word.”
 
@@ -92,7 +92,7 @@ I turned to her, moved. “Exactly. You said what I was thinking, down to the la
 
 “……”
 
-*Is my image really okay as it is?*
+*Is my reputation really that bad?*
 
 I was still pondering that as we walked along a crude road nothing like those in the Central Plains. Then a familiar sound rang in my ears.
 
@@ -114,19 +114,19 @@ I was still pondering that as we walked along a crude road nothing like those in
 >
 > Achievement, **Thousands of Li in Search of Nanman**, achieved!
 >
-> Nanman is a perilous land with erratic weather, filled with all manner of wild beasts and venomous creatures. Outsiders must always beware of endemic diseases and poison.
+> Nanman is a perilous land with erratic weather, filled with all manner of wild beasts and venomous beasts. Outsiders must always beware of endemic diseases and poison.
 >
 > Acquired: **Advanced Antidote** ×10, **Intermediate Antidote** ×20, **Basic Antidote** ×30!
 >
 > A new Chain Quest has been created.
 >
-> Would you like to check the Quest window?
+> Would you like to check the Quest Window?
 >
 > Y / N
 
 System notifications sounded one after another as holographic windows filled the air.
 
-The Deputy Stronghold Lord had been telling the truth. We hadn’t seen a single person nearby, but after walking for a short while, we had apparently stepped into Nanman territory.
+The Deputy Stronghold Lord had been telling the truth. We hadn’t seen another person, but we had apparently crossed into Nanman after only a short walk.
 
 Pretending nothing had happened, I answered in my head.
 
@@ -184,7 +184,7 @@ It struck me again how remarkable that was. Nearly fifty years had passed since 
 
 Thanks to their sacrifice, though, the Fire Dragon Pavilion’s mission could become much easier.
 
-After sorting out my thoughts, I spoke to the Fire Dragon Pavilion members as they moved forward while keeping watch over their surroundings.
+I gathered my thoughts and addressed the others as they moved along, keeping watch over our surroundings.
 
 “We’re going to Yeongin.”
 
@@ -208,11 +208,11 @@ Ju Hwaran smiled and nodded.
 
 Everyone turned to Song Ilseom. He raised an eyebrow.
 
-“I never want to come to Nanman again. It was a horrible place. But Yeongin was relatively tolerable. The ethnic groups there were comparatively mild-tempered.”
+“Nanman was a horrible place. I never wanted to come back. Yeongin wasn’t so bad, though. The ethnic groups there were fairly mild-tempered.”
 
 From Song Ilseom, that was high praise.
 
-Then again, that must have been why he had been able to escort a shipment across this rough and dangerous land of Nanman.
+Then again, if they hadn’t been fairly mild-tempered, his party might never have made it across this harsh land with a shipment.
 
 “But why are we going to Yeongin?” Ju Hwaran asked.
 
@@ -228,11 +228,11 @@ Dozens of ethnic groups lived deep in its jungles. They were deeply wary of the 
 
 That was why even major Escort Bureaus and merchant companies were reluctant to make the journey. A successful trip could bring back spices, medicinal herbs, and rare gems—but the dangers lurking in the jungle could cost them their lives.
 
-Even without an ethnic group suffering from anger-management issues, countless poisonous creatures, wild beasts, and highly lethal endemic diseases were serious obstacles.
+Even without the ethnic groups and their anger-management issues, there were venomous beasts, wild animals, and endemic diseases with high mortality rates to contend with.
 
-“Our Yongbong Escort Bureau has had ties with the people there since the time of its former leaders, and the ethnic groups living there are relatively friendly toward the Han Chinese.”
+“But Yeongin will be fine,” Ju Hwaran said with a bright smile. “The Yongbong Escort Bureau has had ties there since my predecessors’ time, and the ethnic groups who live there are relatively friendly toward Han Chinese.”
 
-“Oh. Is that so?”
+“Oh. Are they?”
 
 “Yes. You’ll see when you meet them. They’re good people.”
 
@@ -242,11 +242,11 @@ Even without an ethnic group suffering from anger-management issues, countless p
 
 A glob of sticky phlegm landed by our feet.
 
-Living up to the name Bai, or “White,” a tribesman dressed in white glared menacingly at us before disappearing from sight.
+A man dressed in white—as befitted a member of the Bai people—glared at us before stalking off.
 
 I watched him go, then turned cautiously to Ju Hwaran.
 
-“Um, I’m asking just in case, but does someone like that count as one of the nicer ones among the ethnic groups?”
+“Just checking. Would he count as one of the nicer ones?”
 
 “……”
 
@@ -256,15 +256,15 @@ After a pause, she said, “Hmm. That man seems a bit rough. Most people aren’
 
 “Right?”
 
-“Yes, yes. Of course. I know because I’ve been here myself.”
+“Yes, yes. Of course. I’ve been here myself.”
 
-The moment Ju Hwaran finished speaking, a middle-aged ethnic woman dressed in clothes as colorful as a peacock covered a child’s eyes and muttered,
+She had barely finished speaking when a middle-aged woman in clothes as colorful as a peacock covered a little girl’s eyes.
 
 “My word. Those Han bastards had the nerve to come all the way here. Let’s go inside before the sight of them ruins your eyes.”
 
 “Mom. Mom. I can’t see.”
 
-“It’s okay, sweetheart. Let’s hurry away from those vicious men. Honey! Come out quickly! Han bastards have entered the village!”
+“That’s all right, sweetheart. Let’s get away from those vicious men. Honey! Come out here! Han bastards have entered the village!”
 
 “What? Wait there. I’ll get my plow and smash those Han sons of bitches’ heads in!”
 
@@ -272,15 +272,15 @@ The moment Ju Hwaran finished speaking, a middle-aged ethnic woman dressed in cl
 
 “……”
 
-For an instant, Ju Hwaran’s pupils shook violently.
+I saw it. For a moment, Ju Hwaran’s eyes visibly shook.
 
 Clinging to one last shred of hope, I asked, “They’re just a little rougher than average too, right?”
 
 “……Probably. I think.”
 
-But Ju Hwaran’s hopes were brutally ignored.
+But Ju Hwaran’s hopes were dashed.
 
-Before long, the ethnic tribesmen filling the roadside began openly displaying their hostility toward us.
+Before long, people lined the road, openly hostile toward us.
 
 “So they really are Han Chinese.”
 
@@ -292,7 +292,7 @@ Before long, the ethnic tribesmen filling the roadside began openly displaying t
 
 I felt like a criminal.
 
-No. To them, we were already criminals who deserved to be torn apart and killed.
+No—to them, we were already criminals they’d gladly tear apart.
 
 The others could feel it too, even though they couldn’t rely on the System to translate for them as I could, or speak the local language as Ju Hwaran did.
 
@@ -302,7 +302,7 @@ The others could feel it too, even though they couldn’t rely on the System to 
 
 “I think we’re fucked.”
 
-“I don’t know what they’re saying, but the atmosphere is extremely hostile. Wouldn’t it be better to get out of here?”
+Hyuk Mujin swallowed hard and lowered his voice. “I don’t know what they’re saying, but they look ready to kill us. Shouldn’t we get out of here?”
 
 “Hmm.”
 
@@ -316,17 +316,17 @@ A leader’s job included calming his subordinates. I answered sternly.
 
 “Then why do they have axes?”
 
-“They probably came over after chopping firewood.”
+“They must have been chopping firewood.”
 
 “And the swords?”
 
-“They probably came over after slaughtering something.”
+“They must have been butchering something.”
 
 “……”
 
 *Don’t look at me like that. I feel guilty enough.*
 
-I did my best to ignore Hyuk Mujin’s distrustful gaze and crossed through the ethnic tribesmen radiating a menacing aura.
+I did my best to ignore Hyuk Mujin’s distrustful stare and walked between the locals, who were giving off a threatening aura. I stopped in front of a wooden building.
 
 **Poison Flower Pavilion**
 
