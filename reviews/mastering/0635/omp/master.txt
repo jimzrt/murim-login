@@ -32,7 +32,7 @@ I knew because, a few months ago in Hubei, I had encountered something like it.
 
 The master of Dongting Lake, driven mad and stripped of its reason by Dark Heaven. A rare spiritual creature that had entered a new realm after hundreds of years.
 
-I sensed qi like the Water God Dragon’s emanating from the Black Tiger towering like Taishan, and I was not the only one who felt it.
+I sensed qi like the Water God Dragon’s emanating from the Black Tiger, which stood as tall as Mount Tai. And I was not the only one who felt it.
 
 *Whine…*
 
@@ -112,7 +112,7 @@ And I won that brief clash.
 
 The Black Tiger flew backward as though it had become one with the spear and vanished beyond the dark forest. In the distance, dozens of towering trees snapped and swayed.
 
-The mountain birds that had long since awakened and must have been watching us in silence took flight all at once, while countless leaves and branches poured down like a rain shower.
+Mountain birds that must have woken long ago and watched in silence took flight all at once. Leaves and branches rained down.
 
 *Tap. Rustle!*
 
@@ -150,7 +150,7 @@ Maybe growing up in Nanman, surrounded by strange venomous beasts and ferocious 
 
 What mattered right now was something else.
 
-“It’s still alive. There’s no blood, so it doesn’t seem to have suffered any significant injury.”
+“It’s still alive. There’s no blood, so it doesn’t seem to be hurt.”
 
 The Beast Miao King nodded at my quiet words.
 
@@ -186,7 +186,7 @@ Fair enough.
 
 An imugi belonged in myth. Even coming from the Murim Alliance, the story would have been hard to believe.
 
-“If that is the case, was that creature that just appeared also the work of the Southern Heaven Demon Empress—that witch?”
+That short answer left me with nothing to say. Then the Beast Miao King asked, “So was the creature we just saw touched by the Southern Heaven Demon Empress too? That witch?”
 
 “I can’t be sure. But it’s likely.”
 
@@ -198,9 +198,9 @@ Ailao Mountain had been quiet for more than a hundred years, despite once being 
 
 What was it really?
 
-Where were the two hundred warriors who should still have been here, aside from the people now sprawled around us as cold corpses? And where were the ferocious beasts they commanded?
+And where were the other two hundred warriors who should still have been here? Where were the beasts they commanded?
 
-I was slowly scanning the area with a heavy gaze when—
+As I scanned the area, my eyes fell on White Tiger.
 
 *Grrr.*
 
@@ -244,15 +244,15 @@ It was its wraith. Perhaps something still more ominous: an evil spirit.
 
 What we saw as we pursued the Black Tiger only strengthened that thought.
 
-“That damned beast…!”
+“I’ll tear you apart…!”
 
 The Beast Miao King’s voice seemed to boil like lava. His furious gaze had fallen on bodies with their limbs hanging limp.
 
-Deep valleys. The edges of cliffs. Ravines that must once have run clear but had now been stained black by poison…
+In deep valleys. At the edges of cliffs. Beside streams that must once have run clear but were now black with poison…
 
 The corpses of Nanman warriors lay along our route like signposts. The wind carried a sickening mix of blood and foul odors.
 
-“How dare they? How dare they do something like this!”
+“How dare you? How dare you do this!”
 
 A savage wave of qi poured from the Beast Miao King as the horrific sights flashed past us.
 
@@ -262,7 +262,7 @@ He was angrier than ever, and his movements grew rougher with it.
 
 *Tap-tap—shreeeek!*
 
-In an instant, his body shot forward at a terrifying speed and streaked toward the Black Tiger without hesitation.
+He shot forward at a terrifying speed, straight toward the Black Tiger.
 
 But his opponent was a creature called Ailao Mountain’s Wraith. A head-on fight might be another matter; in natural physique and speed, the Beast Miao King could not match it.
 
@@ -278,9 +278,9 @@ It gave us a look that seemed to say, *Come and get me if you dare.*
 
 Only then did I slow down and look around.
 
-Ancient trees and vines filled every direction, while the hot, humid air mixed with mist carried the distinctive stench of poison.
+Ancient trees and vines crowded every side. Through the hot, mist-laden air came the unmistakable stench of poison.
 
-I did not know exactly where we were, but after running mindlessly in pursuit of the creature, I could at least guess that we had reached the heart of Ailao Mountain.
+I did not know exactly where we were, but our headlong chase had clearly brought us to the heart of Ailao Mountain.
 
 *This…*
 
@@ -306,7 +306,7 @@ It was pacing anxiously at the valley entrance where the Beast Miao King had dis
 
 *Grrr.*
 
-“This guy’s pretty smart. We agreed for the first time. But there’s nothing we can do this time.”
+“Look how smart you are. That’s the first time we’ve agreed. But I can’t turn back this time.”
 
 *Grrr…*
 

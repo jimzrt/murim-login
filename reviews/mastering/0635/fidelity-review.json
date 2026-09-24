@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "had become part of everyday life",
+      "defect": "The source says Gates and monsters had become both common sense and part of everyday life. The translation preserves the latter but omits the former.",
+      "id": "F01",
+      "rationale": "The Korean says “상식이자 일상,” explicitly pairing common sense with everyday life.",
+      "replacement": "had become common sense and part of everyday life",
+      "severity": "minor",
+      "source": "Lines 91–92"
+    }
+  ],
+  "summary": "The assembled English is faithful overall, with one minor omission in the description of modern life.",
+  "version": 1
+}
