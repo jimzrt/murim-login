@@ -1438,3 +1438,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 팽철영 | 팽철후 | son to father | Father | respectful | Peng Cheolyeong addresses his father as 아버지. |
 | 칭겐 | 자무카 | fellow_khan_to_elder_khan | Khan Jamukha | formal-respectful | The impostor wearing Chinggen’s face addresses Jamukha with deference. |
 | 테무르 | 자무카 | fellow_khan_to_elder_khan | Khan Jamukha | formal-respectful | Temur affirms Chinggen’s public praise of Jamukha. |
+| 늙은 목수 | 진위경 | commoner to Lesser Family Head | Lesser Family Head | deferential | Addresses Wikyung as 소가주님; Wikyung urges him to speak less formally. |
