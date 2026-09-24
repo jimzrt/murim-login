@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it drops the final image of entering the flames and omits the narrator’s urgency as he rushes into action.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "349",
+      "current": "Into the darkness crouched over Ailao Mountain.",
+      "defect": "The source says he rushes into both the darkness and the flames. The assembled English omits the flames, losing the closing image and his stated destination.",
+      "replacement": "Into the darkness crouched over Ailao Mountain, into the flames.",
+      "rationale": "The source ends with “애뇌산에 웅크린 어둠 속으로, 화염 속으로,” naming both the darkness and the flames.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "347–349",
+      "current": "I watched the flames spread rapidly across Ailao Mountain, then launched myself forward.",
+      "defect": "The translation omits that he launches himself forward in a hurry.",
+      "replacement": "I watched the flames spread rapidly across Ailao Mountain, then hurriedly launched myself forward.",
+      "rationale": "The source says “황급히 신형을 날렸다,” explicitly marking his movement as hurried.",
+      "confidence": 0.99
+    }
+  ]
+}

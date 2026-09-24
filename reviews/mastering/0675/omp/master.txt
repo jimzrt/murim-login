@@ -12,7 +12,7 @@ Besides, Muyaho was a spiritual creature that understood human speech, not one t
 
 So when the White Tiger’s pace finally slowed, I realized where we were.
 
-*Looks like “no way” really is going to get someone killed. Fuck.*
+*So much for thinking it couldn’t be here. Fuck.*
 
 The mountain looked ominous even from a distance.
 
@@ -38,7 +38,7 @@ I gently scratched between the White Tiger’s brows to soothe its irritation an
 
 A wolf howled now and then. Each time, mountain birds took flight with a flutter. Those were the only sounds I heard.
 
-*Yeah. At least as far as sound goes.*
+*Yeah. Sounds.*
 
 I checked the Quest window.
 
@@ -148,11 +148,11 @@ Of course, that only worked when the situation called for it.
 
 Grrrrrrr!
 
-The moment a creature far larger than an ordinary brown bear charged at me with a roar—
+A beast far larger than an ordinary brown bear charged at me with a roar.
 
 Shh-shh-shhik!
 
-A pale blur accompanied by a sharp whistle of displaced air flashed past my side and struck the alpha brown bear in the mouth.
+Something pale whistled sharply through the air past my side and smacked the enormous bear across the mouth.
 
 Crack! Crunch!
 
@@ -220,7 +220,7 @@ Whoosh! Tap.
 
 Was the man I’d just taken down a friend of his?
 
-He had plenty of momentum, but not enough skill.
+He had plenty of spirit, but not enough skill.
 
 I caught his sword between two fingers, putting Empty-Hand Seizes the Blade into practice, then shrugged at the face beyond its trembling blade.
 
@@ -228,7 +228,7 @@ I caught his sword between two fingers, putting Empty-Hand Seizes the Blade into
 
 “……!”
 
-“Since you’re at it, you can shit beside him.”
+“While you’re at it, you can lie next to him and do the same.”
 
 Boom!
 
@@ -264,7 +264,7 @@ From the way he was running, he clearly wanted to live.
 
 But no matter how hard he and his guards tried to get out of here, there was a reason the word *impossible* existed.
 
-“Yeah. I’m afraid I can’t get out of your way.”
+“Yeah. I don’t think I can move.”
 
 “J-Jin Taekyung!”
 
@@ -310,7 +310,7 @@ Damn it.
 
 I swallowed the curse.
 
-With the Beast Miao King having fled, it had been inevitable that Baeksang would become the temporary Palace Lord.
+With the Beast Miao King gone, Baeksang becoming temporary Palace Lord had been predictable.
 
 But this wasn’t a net over heaven and earth cast to catch me. It was a general mobilization order.
 
@@ -324,4 +324,4 @@ Perhaps Dark Heaven’s plan was far bigger than any of us had imagined—and fa
 
 I watched the flames spread rapidly across Ailao Mountain, then launched myself forward.
 
-Into the darkness crouched over Ailao Mountain.
+Into the darkness crouched within the mountain. Into the flames.
