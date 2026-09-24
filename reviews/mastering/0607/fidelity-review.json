@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "A security force of some thousand guards",
+      "defect": "“Some thousand” suggests approximately one thousand, while 천여 명 indicates more than a thousand. The assembled copy loses the source’s over-thousand quantity.",
+      "id": "F01",
+      "rationale": "The Korean count is 천여 명, and the accepted baseline also preserves this as “More than a thousand guards.”",
+      "replacement": "A security force of over a thousand guards",
+      "severity": "minor",
+      "source": "Line 9"
+    },
+    {
+      "confidence": 0.91,
+      "current": "the next Secretary of Gukbap",
+      "defect": "The translation drops the election joke in 당선이 유력한: Johnson is likely to be elected to the mock title, not merely expected to become its holder.",
+      "id": "F02",
+      "rationale": "The source explicitly uses 당선, meaning election or being elected; the wording helps carry the joke’s mock-election framing.",
+      "replacement": "elected the next Secretary of Gukbap",
+      "severity": "minor",
+      "source": "Line 109"
+    },
+    {
+      "confidence": 0.87,
+      "current": "“Hey, guys. Chuck’s been touchy lately because of the terrorist problem.",
+      "defect": "The source addresses “Gaze” (게이즈), but the translation replaces that address with “guys,” losing a specific form of address.",
+      "id": "F03",
+      "rationale": "게이즈 is rendered as a direct address in the Korean; it is not the plural “guys.”",
+      "replacement": "“Hey, Gaze. Chuck’s been touchy lately because of the terrorist problem.",
+      "severity": "minor",
+      "source": "Line 173"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it loses a quantity detail and two source-specific cues.",
+  "version": 1
+}

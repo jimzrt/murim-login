@@ -2421,3 +2421,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 텡그리 | **Tengri** | Deity invoked by the steppe people. |
 | 케식 | **Keshik** | Elite warriors serving the Golden Clan. |
 | 송 씨 | **Mr. Song** | Surname form used for the village headman who suggests poisoning the wells. |
+| 한 고조 | **Emperor Gaozu of Han** | Historical emperor mentioned in Jamukha’s comparison. |
+| 항우 | **Xiang Yu** | Historical rival of Liu Bang. |
+| 유방 | **Liu Bang** | Han founder cited by Jamukha. |
+| 장량 | **Zhang Liang** | Liu Bang’s strategist in Jamukha’s account. |

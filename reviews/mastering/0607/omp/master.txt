@@ -18,7 +18,7 @@ Team Leader Choi nodded.
 
 “That’s right. It was the second fiercest battle of my life. The first was the Day of Victory, of course. Both times, one person helped me escape with my life.”
 
-Any person on Earth, not just an American, knew that fact.
+Everyone on Earth knew that story, American or not.
 
 During the Great Cataclysm and afterward, only one person had been able to stop the demon who descended upon this world: the Demon King Asmodeus.
 
@@ -36,7 +36,7 @@ Heavy footsteps. Wrinkled jeans and a shirt. White hair tangled into a complete 
 
 An elderly white man with one side of his face badly distorted strode up to us and thrust out both hands.
 
-“I don’t know which of you two I should shake hands with first, so I’ll do both at once. I’m Chuck Hagel. You can just call me Chuck.”
+“I can’t decide which of you two to shake hands with first, so I’ll do both at once. Chuck Hagel. You can call me Chuck.”
 
 He didn’t just give off the air of a tough Texan. It practically poured out of him.
 
@@ -50,7 +50,7 @@ His face looked familiar. I stared at it as I took his hand.
 
 I’d suspected it when I saw him, but the old man really was the previous generation’s S-rank Hunter known as Uncle Chuck.
 
-I had never imagined I would meet one of the war heroes from the Great Cataclysm whom I had admired as a child. With a cry of delight, I vigorously shook his hand up and down.
+I’d never imagined I would meet one of the Great Cataclysm’s war heroes—the man I’d admired as a kid. I shook his hand vigorously.
 
 “I’m a fan. A real fan. I even collected your Hunter cards in elementary school.”
 
@@ -80,7 +80,7 @@ The smile vanished from Chuck Hagel’s face. He sighed.
 
 “…I get it. I get it. You can stop now.”
 
-Chuck Hagel shook his head repeatedly, then shook hands with Team Leader Choi.
+Chuck Hagel shook his head, then shook hands with Team Leader Choi.
 
 “You’re the spitting image of your maternal grandfather. Good to meet you, Choi.”
 
@@ -88,13 +88,13 @@ Chuck Hagel shook his head repeatedly, then shook hands with Team Leader Choi.
 
 “I told you to call me Chuck. If you were one of those other idiots with nothing but shit in their heads, that would be different. But you and the traitor beside you have earned the right.”
 
-*Look at him calling me a traitor just because I sold some cards.*
+*He’s calling me a traitor just because I traded his cards?*
 
 As I grumbled to myself, Team Leader Choi replied calmly.
 
 “Please understand, Mr. Hagel. I wouldn’t feel comfortable calling the man in charge of the Pentagon—and the United States Secretary of Defense—by his first name.”
 
-“Hm. Is that so? Come to think of it, I suppose you do have to worry about what people think. You’re in charge of two massive Guilds now, after all.”
+“Hm. Is that so? I suppose you do have to consider how it would look. You’re in charge of two major Guilds now.”
 
 I blinked.
 
@@ -104,13 +104,13 @@ I blinked.
 
 “Obviously not.”
 
-“Really? Everyone else seemed to know. I assumed Johnson had at least told you.”
+“Really? Everyone else knows. I figured Johnson would’ve told you, at least.”
 
 Under the Secretary of Defense’s gaze, the Grand Mage—widely expected to become the next Secretary of Gukbap[^1]—scratched his chin.
 
 “I figured you knew, too. Jin, you really didn’t?”
 
-At this point, I felt like I had somehow become an idiot. I replied with some reluctance.
+Now they were making me feel like an idiot. I answered awkwardly.
 
 “I really didn’t. Were you appointed a few days ago? Ah, that must be why I hadn’t heard.”
 
@@ -148,15 +148,15 @@ Born in Texas. Dreamed of becoming a cowboy. Supposedly tamed a Minotaur with hi
 
 Clomp. Clomp.
 
-No one was brave enough to stand in Chuck Hagel’s way as he marched forward without hesitation.
+No one was brave enough to stand in Chuck Hagel’s way.
 
-Researchers, Hunters, and employees who appeared to belong to the Pentagon split to either side as if facing a disaster. Moses, who had a cigar in his mouth instead of a staff, crossed between them while spewing smoke like a chimney.
+Pentagon researchers, Hunters, and staff parted to either side as though a disaster were approaching. Moses, with a cigar instead of a staff, strode between them, spewing smoke like a chimney.
 
 He didn’t forget to talk trash along the way.
 
 “When the hell are they going to widen this damn hallway? Every time I see it, I want to smash it to pieces.”
 
-“Hey, Smith. Put that electronic cigarette away while I’m asking nicely. If you waft that shitty strawberry scent in front of me one more time, I’ll put you on the list of people who died in the line of duty. Cigars are fine, though.”
+“Hey, Smith. Put that e-cigarette away while I’m asking nicely. Let me smell that shitty strawberry scent one more time, and I’ll put you on the list of people killed in the line of duty. Cigars are fine, though.”
 
 “Gordon. There’s a smashed warning light in Section Three. Go fix it. Who broke it? Listen carefully: your fucking direct superior.”
 
@@ -176,7 +176,7 @@ I was wondering who’d had the insane idea of making him Secretary of Defense w
 
 The moment he finished speaking, Chuck Hagel slammed his fist into the wall.
 
-“This goddamn hallway! Hallway! Hallway! Hallway! Didn’t I tell you to make the hallway wider?”
+“This goddamn hallway! Hallway! Hallway! Didn’t I tell you to make the hallway wider?”
 
 Bang! Bang! Kraaang!
 
@@ -214,11 +214,11 @@ I let the flow of mana sweep over my whole body without resisting it. Dazzling b
 
 *This is…*
 
-The moment I realized that this familiar sensation was Teleport, I blinked and found myself in a completely unfamiliar new space.
+I recognized the familiar sensation as Teleport. I blinked, and suddenly I was somewhere entirely new.
 
-As my vision rapidly returned, I saw people seated around a pentagonal table.
+As my vision cleared, I saw people seated around a pentagonal table.
 
-“Then the forces being deployed to the Middle East front will be… Oh. It seems our guests have finally arrived.”
+“Then the forces we’ll deploy to the Middle East front will be… Ah. Our guests have finally arrived.”
 
 Beep.
 
@@ -226,7 +226,7 @@ With a mechanical chime, the hologram illuminating the dark conference room disa
 
 I knew his face at once.
 
-He was a man whose position kept him constantly exposed in every form of media. He looked older than he had on television and radiated even more charisma than he had in the newspapers.
+His position put him on every kind of screen day in and day out. He looked older than he did on TV and had even more presence than the newspapers conveyed.
 
 “You’re later than I expected, Secretary Hagel. I hope you haven’t smashed another innocent warning device.”
 
@@ -236,13 +236,13 @@ At the man’s amused remark, Chuck Hagel snapped the glowing tip off his cigar 
 
 “The Treasury Secretary asked me to pass on a message. Your entire salary for this month has already gone toward repairing the damage you’ve done to the Pentagon.”
 
-“Damn it. Again? At this rate, I’ll be too afraid of alimony to get divorced.”
+“Damn it. Again? At this rate, I won’t be able to afford another divorce.”
 
-Chuck Hagel let out a sighing mutter, then turned toward us.
+Chuck Hagel sighed and turned toward us.
 
 “No need for introductions, I assume?”
 
-At least this time, they weren’t.
+This time, there wasn’t.
 
 Team Leader Choi knew who the man was. So did I. Even the Skeleton King knew.
 
@@ -254,4 +254,4 @@ That was right. I gave a small nod as the middle-aged man approached with measur
 
 His title was better known than his name: President of the United States.
 
-[^1]: *Gukbap* is rice served in hot soup. Jin is deliberately replacing *bang* (“defense”) in *gukbang-bu-jang-gwan*, “Secretary of National Defense,” with *bap*, creating the nonsensical title “Secretary of Gukbap.”
+[^1]: *Gukbap* is rice served in hot soup. Jin swaps *bap* (“rice”) into the Korean title for Secretary of Defense, turning it into the nonsensical “Secretary of Gukbap.”
