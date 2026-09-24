@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 935
-- Next chapter: 936
-- Current block: 935–939 (1/5)
-- Latest translation: `translations/0935.md`
-- Latest summary: `summaries/beats/0935.md`
-- Safe profiles through: chapter 935
+- Last completed: 936
+- Next chapter: 937
+- Current block: 935–939 (2/5)
+- Latest translation: `translations/0936.md`
+- Latest summary: `summaries/beats/0936.md`
+- Safe profiles through: chapter 936
 
 ## Current Block
 
-- Baek Yeon visits the Emperor, and their teasing gives way to an earnest exchange of mutual respect. Baek reflects on the Emperor’s sacrifices and his plans to entrust Zhu Bao with his loyal retainers and power before his death. The Emperor tells Baek that Taekyung promised to save him, and admits the promise has given him hope despite his belief that it is probably impossible. After hearing Taekyung’s account, Jeok Cheongang confirms that the Emperor is poisoned with Blood Soul Gu; Taekyung acknowledges it, breaking his promise to keep the matter secret.
+- The Divine Physician estimates that the Emperor may not survive another two months, and says even his Master could not change the situation. Jin Taekyung expects the Myriad-Poison Ring to cure the Blood Soul Gu, but learns that it failed: the gu resisted the ring’s energy and thrashed more violently. The System issues a quest requiring Taekyung to remove the Blood Soul Gu from the Emperor’s head and successfully treat him. Unable to reveal the Emperor’s identity, Taekyung confides the situation to Hyuk Mujin, who mistakenly thinks Taekyung was rejected by Zhu Bao before realizing he has no solution. Hong Jin arrives after quickly handling an important matter.
 
 ## Open Questions
 
