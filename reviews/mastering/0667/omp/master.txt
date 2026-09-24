@@ -2,13 +2,13 @@
 
 Infiltration. Assault. Finish.
 
-The sequence of events could only be described as a Quick Attack. It lasted no more than a few moments, and the twenty warriors guarding the area around the underground prison collapsed helplessly before the unexpected ambush.
+The whole operation unfolded in a flash. Within moments, the twenty warriors guarding the underground prison had fallen to an ambush they never saw coming.
 
 “I-intrud—!”
 
 Sssht—thud!
 
-The urgent voice that burst from someone’s lips died out before it could become a shout.
+The warning died on the warrior’s lips before it could become a shout.
 
 Moving like a streak of light, Yayul Mok struck the Bai warrior’s Mute Acupoint, then his Dizziness Acupoint. He caught the man as he collapsed and lowered him quietly to the ground.
 
@@ -28,7 +28,7 @@ Some twenty figures dressed in black, each wearing a different mask, watched eve
 
 The answer came through Sound Transmission from a man in a monkey mask.
 
-The fact that he and six of the other men in black were the Seven Miao Tigers, the most outstanding warriors among the Miao people, was a secret known only to them and the Beast Miao King.
+He and six of the other black-clad figures were the Seven Miao Tigers, the finest warriors among the Miao people. Only they and the Beast Miao King knew they were here.
 
 —One seemed to be missing, but I counted again. The man you just subdued was the last of them, Young Palace Lord. He probably stepped away to relieve himself.
 
@@ -42,7 +42,7 @@ The fact that he and six of the other men in black were the Seven Miao Tigers, t
 
 Given what they were doing, *a problem* was putting it mildly.
 
-On the surface, Jin Taekyung was a criminal imprisoned for an unforgivable offense. If word got out that Yayul Mok had tried to free him, even his position as Young Palace Lord of the Nanman Beast Palace would not protect him.
+As far as anyone knew, Jin Taekyung was a criminal imprisoned for an unforgivable offense. If word got out that Yayul Mok had tried to free him, even his position as Young Palace Lord of the Nanman Beast Palace would not protect him.
 
 *But we have to do it.*
 
@@ -64,7 +64,7 @@ Just as his father, the Beast Miao King, did. The man he respected more than any
 
 —Of course.
 
-The man in the monkey mask nodded and handed over the bundle of keys in his hand.
+The man in the monkey mask nodded and handed him a ring of keys.
 
 Opening the prison required five keys to be inserted in precisely the right order to activate the mechanism. They already knew how.
 
@@ -116,7 +116,7 @@ The Seven Miao Tigers were among the finest warriors of the Miao people—Peak m
 
 Leaving the post empty would invite suspicion.
 
-Yayul Mok left two of the Seven Miao Tigers behind and increased his pace. Faster than an ordinary walk, but not so fast as to invite suspicion.
+Yayul Mok left the two men there and quickened his pace. Faster than a normal walk, but not fast enough to draw attention.
 
 Step. Step.
 
@@ -144,7 +144,7 @@ He had already removed his mask, and the few torches did little to light the pri
 
 “The Great Chieftain?”
 
-The Bai warrior who appeared to be their captain deliberately furrowed his brow.
+The Bai warrior who seemed to be in charge frowned.
 
 “He only just left. What does he want?”
 
@@ -246,13 +246,13 @@ He had known this would not be easy. But they had been discovered too soon, and 
 
 Everything would end in the worst possible way.
 
-As the Young Palace Lord of the Nanman Beast Palace, Yayul Mok would not lose his life. But his father, the Beast Miao King, would lose his political standing, while Jin Taekyung and the Fire Dragon Pavilion members—the original targets of the rescue—would be sent to the execution ground.
+As Young Palace Lord, he would probably keep his life. His father would lose his political standing, though, and Jin Taekyung and the Fire Dragon Pavilion members they had come to save would die on the execution ground.
 
 *And then war will begin.*
 
 Not the Great Faction War they had once fought against the Demonic Cult. A war against the Murim of the Central Plains.
 
-If Jin Taekyung died, nothing could be undone. That was one of the greatest reasons the father and son were risking their lives to rescue him.
+If Jin Taekyung died, there would be no undoing it. That was one of the greatest reasons father and son had risked so much to save him.
 
 *There’s no other choice.*
 

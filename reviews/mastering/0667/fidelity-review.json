@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "The enemy kept coming, too many for their small party to overcome.",
+      "defect": "The source explicitly says the relentless enemies bring to mind the four-character idiom 중과부적. The translation preserves the general meaning but drops that specific idiom reference, which the accepted baseline retained.",
+      "id": "F01",
+      "rationale": "The Korean names the idiom as an image, not just the underlying numerical disadvantage.",
+      "replacement": "The enemies kept pouring in, bringing to mind the four-character idiom *the many defeat the few*.",
+      "severity": "minor",
+      "source": "Source line 245"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Yayul Mok bit his lip until it bled.",
+      "defect": "The translation omits the next physical action: after biting his lip, Yayul Mok moves his lips.",
+      "id": "F02",
+      "rationale": "The source explicitly includes 입술을 달싹였다; the accepted baseline also preserved this action.",
+      "replacement": "Yayul Mok bit his lip until it bled, then moved his lips.",
+      "severity": "minor",
+      "source": "Source line 279"
+    }
+  ],
+  "summary": "The translation is largely faithful, with a lost idiom reference and a small omitted physical action.",
+  "version": 1
+}
