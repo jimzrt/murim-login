@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The second-youngest brother, who fled faster than anyone in an emergency but worshipped the Chief like the heavens the rest of the time, nodded.",
+      "defect": "“Second-youngest” reverses the brother’s place in the group.",
+      "id": "F01",
+      "rationale": "둘째 아우 identifies the second brother, not the second-youngest.",
+      "replacement": "The second brother, who fled faster than anyone in an emergency but worshipped the Chief like the heavens the rest of the time, nodded.",
+      "severity": "critical",
+      "source": "비상시에는 누구보다 먼저 도망치지만, 평소에는 대형을 하늘처럼 섬기는 둘째 아우가 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*If we’d done all that and still been treated this way, at least then we’d have something to complain about.*",
+      "defect": "The draft reverses Ma Junggeol’s thought: committing those acts would make the treatment feel less unfair, not give them grounds to complain.",
+      "id": "F02",
+      "rationale": "억울하지나 않지 negates the sense of being wronged.",
+      "replacement": "*If we’d actually done those things, at least this treatment wouldn’t feel so unfair.*",
+      "severity": "critical",
+      "source": "‘그런 짓을 하고 이런 취급을 받았다면 차라리 억울하지나 않지.’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "They’d survived by sticking together as one mounted-bandit group.",
+      "defect": "The draft substitutes sticking together for the bluff just described as the way they survived.",
+      "id": "F03",
+      "rationale": "그렇게 points back to intimidating armed parties with Ma’s appearance and voice; the sentence also states their limited martial ability at the time.",
+      "replacement": "That was how Ma Junggeol and his six sworn brothers, whose martial arts were still rudimentary back then, had survived as a mounted-bandit group.",
+      "severity": "major",
+      "source": "당시만 하더라도 무공이 일천했던 마중걸과 여섯 의형제들은 그렇게 하나의 마적단으로 살아남을 수 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Like a child who had only just learned to stand on two feet, I let my energy flow toward the ripple emanating from Ma Junggeol.\n\nIt reached him, mingled with his, and soon became one.",
+      "defect": "The draft says Taekyung’s energy reached Ma Junggeol himself, rather than the ripple, obscuring how he intercepts the transmission.",
+      "id": "F04",
+      "rationale": "The qi is directed at the ripple; 닿고, 뒤섞이고 describes contact and merging there.",
+      "replacement": "Like a child who had only just learned to stand on two feet, I sent my qi toward the ripple emanating from Ma Junggeol.\n\nIt touched the ripple, mingled with it, and soon became one.",
+      "severity": "major",
+      "source": "나는 이제야 막 두 발로 설 수 있다는 것을 깨달은 아이처럼, 마중걸을 중심으로 흘러나오는 파동을 향해 기를 흘려보냈다.\n\n닿고, 뒤섞이고, 이내 하나가 되었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "At once, his six sharp-eared brothers let out a collective groan.",
+      "defect": "“Sharp-eared” makes their hearing the point; they are quick to grasp what his hesitant answer admits.",
+      "id": "F05",
+      "rationale": "눈치 빠른 describes their ability to read the situation.",
+      "replacement": "At once, his six perceptive brothers let out a collective groan.",
+      "severity": "minor",
+      "source": "동시에 눈치 빠른 여섯 아우는 탄식을 내뱉었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Hidden achievement **[A Bug in My Ear]** achieved!",
+      "defect": "The achievement name retains square brackets inside a System panel, contrary to the packet’s Markdown rule.",
+      "id": "F06",
+      "rationale": "The framed System block already identifies the notice; its UI terms should not retain square brackets.",
+      "replacement": "Hidden achievement **A Bug in My Ear** achieved!",
+      "severity": "minor",
+      "source": "- 숨겨진 업적, [내 귀에 도청 장치]를 달성하셨습니다!"
+    }
+  ],
+  "summary": "Several actionable fidelity errors, including a reversed thought, an altered kinship rank, and a changed explanation of how the group survived.",
+  "version": 1
+}
