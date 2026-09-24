@@ -28,7 +28,7 @@ Al Diab Jawahiri—a man with a name as long as any other Arab’s—remained ca
 
 *He’s clearly nothing more than a powerless old man.*
 
-I didn’t know whether that remarkable composure came from more than a century of experience, or from the fact that he was the leader of Al-Qaeda, a colossal terrorist organization that divided control of the Middle East with ISIS.
+I didn’t know whether his composure came from more than a century of experience or from being the leader of Al-Qaeda, the massive terrorist organization that divided the Middle East with ISIS.
 
 What mattered was that he was wrong.
 
@@ -48,7 +48,7 @@ The ramblings of a crazy old man weren’t going to shake me. I smiled back.
 
 “Not Muslims. Terrorists like you.”
 
-“I won’t deny that some of them still do not sympathize with us. It is a truly regrettable thing. But in the end, we are brothers. Bound together in the name of Allah, we will eventually gather beneath a single flag.”
+“I won’t deny that some have yet to join us. It is truly regrettable. But we are brothers. Bound together in the name of Allah, we will eventually gather beneath a single flag.”
 
 “Is that why your ‘brothers’ split into Shiites and Sunnis and have spent centuries beating the hell out of each other?”
 
@@ -62,9 +62,9 @@ Al Diab answered without batting an eye.
 
 Al Diab didn’t understand. No, he didn’t want to understand in the slightest.
 
-He didn’t understand how much suffering innocent people had endured because of those trivial misunderstandings and conflicts, and that hollow word *unity*.
+He had no interest in how many innocent people had suffered because of those “trivial” misunderstandings and disputes, or that hollow word *unity*.
 
-Or how many countless people would suffer in the future.
+Or how many more would suffer in the future.
 
 *Monster.*
 
@@ -76,11 +76,11 @@ Then I saw a broad smile spread across his face, and a chill ran through me.
 
 “…!”
 
-“Your eyes are wavering. Your heart is shaken. Do not suffer while trapped by countless afflictions. Enter the warm embrace of Allah.”
+“Your eyes are wavering. Your heart is troubled. Come into Allah’s warm embrace, and you need suffer from these doubts no longer.”
 
 His voice was perfectly serene as his deeply wrinkled hand reached slowly toward me.
 
-I watched him with a faint tremor in my eyes, then let out a small sigh.
+I watched it, my eyes trembling faintly, then let out a small sigh.
 
 “Has living this long driven you out of your mind, old man…? What kind of shit are you trying to pull?”
 
@@ -94,9 +94,9 @@ The instant our eyes met—
 
 *Shk! Bang!*
 
-Everything happened in an instant.
+It was over in a flash.
 
-The slender old man’s wrist shot into the air, severed by the short sword I swung at the speed of a ray of light. At the same time, a bullet fired from a special firearm hidden deep inside his dark, voluminous sleeve pierced somewhere beyond my shoulder.
+The old man’s thin wrist flew into the air, severed by the short sword I’d swung at the speed of light. A bullet from the special firearm hidden deep in his dark, voluminous sleeve pierced something beyond my shoulder.
 
 In short, I dodged. He didn’t.
 
@@ -142,9 +142,9 @@ And against people far weaker than me?
 
 Thirty men? Even if ten times as many rushed me, they would be the ones to fall.
 
-“Come on in, you crow bastards.”
+“Come on, you crow bastards.”
 
-With that short taunt, I brought down the short sword in my hand.
+I swept the short sword down and across.
 
 *Whoosh!*
 
@@ -152,49 +152,45 @@ One horizontal strike was enough.
 
 *Kabooooom!*
 
-Superheated air erupted along the blade, melting Magic and weapons alike. The space around me warped.
+Intense heat erupted along the blade, melting Magic and weapons alike. The space around me warped.
 
-As the mighty power crouched within the sword stretched and woke, the underground hideout shook from top to bottom.
+The immense power that had lain coiled within stirred, and the hideout built deep underground shook from top to bottom.
 
 *Rumble-rumble-rumble!*
 
-Several pairs of eyes visible between the black turbans quivered faintly.
+The ground and ceiling weren’t the only things trembling. Several pairs of eyes beneath the black turbans quivered, too.
 
 Maybe it was because the men caught in my sword’s path had died without so much as a final cry. Maybe they had felt the unbelievable gap in our strength.
 
-*Maybe it was both.*
+*Probably both.*
 
 Either way, it was too late to retreat.
 
 “Not coming? Then I’ll come to you.”
 
-I had occasionally fought dozens of people, sometimes hundreds, and rarely even thousands—and I had survived every time.
+The idea of being outnumbered had lost its meaning for me long ago. I’d fought dozens of people, sometimes hundreds, and on rare occasions even thousands. I was still alive.
 
-The battle about to unfold here was nothing more than an extension of all the battles that had come before.
+This fight would be no different from the ones before it.
 
 *Shing!*
 
 A blade shot up from the ground and grazed my chin.
 
-The patient one had never revealed himself, even while his comrades appeared one after another. But his attack had failed, and the price was death.
+This one had waited patiently beneath the floor while his comrades emerged. His attack failed, and the price was death.
 
 *Crack!*
 
-I unleashed a grappling technique at lightning speed.
-
-Before the man who had performed the bizarre feat of rotating his neck several times could collapse, I thrust out one hand.
+I caught him with a grappling technique as quick as lightning. Before the man—whose neck had just spun around several times—could collapse, I thrust out one hand.
 
 *Shishshik! Puk!*
 
 Five streams of Finger Qi cut through the air. Some of the crows launching themselves off the ceiling and walls fell.
 
-The others who rushed in while leaving behind their comrade, whose neck had been pierced clean through, met much the same fate.
+The others rushed on past their comrades, whose necks had been pierced clean through. They fared no better.
 
 *Fwoooooosh! Slash!*
 
-Their One Strike carried desperate resolve.
-
-But the gap between will and ability was vast and deep.
+The One Strike carried desperate resolve. But resolve couldn’t bridge the gulf between their skill and mine.
 
 My short sword split one man in two along with his sword. His body fell like a kite with its string cut.
 
@@ -220,7 +216,7 @@ No. I threw it.
 
 *Fwoooooosh! Crunch!*
 
-No one could survive with a Force-infused sword embedded in their heart.
+No one could survive a sword charged with Force through the heart. Its hilt slipped from the dead man’s hand.
 
 I reached for the two blades already closing in on me.
 
@@ -270,13 +266,13 @@ Only one man remained, staring at me in terror.
 
 Satan. I’d first heard the word from a deacon at church when I was little. By now, it felt almost as familiar as my own name.
 
-I pulled the short sword from a corpse and approached Al Diab, muttering,
+I pulled the short sword from a corpse and approached Al Diab.
 
 “Funny, isn’t it? The people who act more like demons than anyone else keep calling me Satan.”
 
 “Y-You devil! Stay away from me! Evil Satan! Demon! In God’s name, begone!”
 
-“……I’ve heard that a lot on Line 1.[^1] I’m suddenly getting homesick for a place I’ve never even missed.”
+“…I’ve heard that a lot on Line 1.[^1] Now I’m getting homesick out of nowhere.”
 
 I was briefly wondering whether Al Diab had studied in Korea when the iron door leading outside opened. The noise beyond it had died away, and the Skeleton King appeared, covered in dust.
 
@@ -292,7 +288,7 @@ I was briefly wondering whether Al Diab had studied in Korea when the iron door 
 
 “They’re not my kind. Besides, this way I can go back to Korea with peace of mind.”
 
-I answered without hesitation, then introduced the Skeleton King to Al Diab, who had frozen with his eyes wide open.
+I answered without hesitation, then introduced him to Al Diab, who had frozen with his eyes wide.
 
 “Oh. This one’s an actual demon.”
 
@@ -308,7 +304,7 @@ I jabbed the Skeleton King in the side.
 
 “…I don’t want to.”
 
-“Come on, don’t be like that. Do it already.”
+“Come on. Just do it.”
 
 Looking less than pleased, he gave Al Diab a thumbs-up.
 

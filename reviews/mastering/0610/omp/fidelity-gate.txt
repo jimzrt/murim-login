@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, but it omits a meaningful statement about being outnumbered and a couple of explicit physical details preserved in the accepted baseline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 181",
+      "current": "I had occasionally fought dozens of people, sometimes hundreds, and rarely even thousands—and I had survived every time.",
+      "defect": "The source first says that being outnumbered has long since lost its meaning to the narrator. That statement is omitted, removing a distinct characterization beat before the examples of battles he survived.",
+      "replacement": "Being outnumbered had lost its meaning to me a long time ago. I had occasionally fought dozens of people, sometimes hundreds, and rarely even thousands—and I had survived every time.",
+      "rationale": "The source explicitly states that the word 중과부적 has long since lost its meaning to him; the following sentence gives examples but does not convey that assertion.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 237",
+      "current": "No one could survive with a Force-infused sword embedded in their heart.",
+      "defect": "The next physical detail is omitted: the sword hilt slips from its owner's hand after he dies.",
+      "replacement": "No one could survive with a Force-infused sword embedded in their heart. The hilt slipped from its owner's hand as he died.",
+      "rationale": "The Korean explicitly describes the hilt slipping from the hand of the owner who died instantly.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 253",
+      "current": "Two swords broke in half. Two pairs of eyes went wide with shock.",
+      "defect": "The source's visual image of exclamation marks appearing in the two pairs of eyes is replaced with a general description of shock.",
+      "replacement": "Two swords broke in half, and exclamation marks appeared in two pairs of eyes.",
+      "rationale": "The Korean explicitly pairs the broken swords with the comic image of exclamation marks appearing in their eyes; the assembled version drops that image.",
+      "confidence": 0.94
+    }
+  ]
+}
