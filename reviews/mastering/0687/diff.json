@@ -1,0 +1,2424 @@
+{
+  "baseline_blocks": 158,
+  "baseline_sha256": "a1ad6da0efac61f223f9a4d2138ae14d7c50d9e629787e8eae8e3007b7bb5869",
+  "global_terminology_alerts": [
+    {
+      "korean": "깨달음",
+      "preferred": "enlightenment / insight"
+    }
+  ],
+  "hunk_count": 124,
+  "hunks": [
+    {
+      "baseline": "For a moment, it seemed as though the world had stopped.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "For a moment, the world seemed to stop.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A massive White Tiger lay collapsed like a rotten log, panting for breath. Jin Taekyung had lost consciousness completely.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "11",
+      "sol": "The massive White Tiger lay panting where it had fallen, like a rotten log. Jin Taekyung was completely unconscious.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And reflected in Yohi’s eyes was the sight of one man holding him in his arms and calmly continuing to speak.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "13",
+      "sol": "In Yohi’s eyes, one man held him in his arms and went on speaking calmly.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I told you. I should have hidden myself first.”",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "“Didn’t I tell you? I had to hide myself first.”",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Enlightenment and shock flashed through Yohi’s mind like lightning.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "19",
+      "sol": "Realization and shock flashed through her mind. Yohi’s eyes, usually so warm and deep, flew wide.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "깨달음",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "enlightenment / insight"
+        }
+      ]
+    },
+    {
+      "baseline": "Her eyes, which had always held a deep and gentle light, flew wide open.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "21",
+      "sol": "",
+      "sol_paragraphs": "after P9",
+      "sol_range": [
+        9,
+        9
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Heugung, you!”",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "23",
+      "sol": "“Heugung, you—”",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It had certainly been that way—until only a few shichen ago.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "She had called him that until just a few shichen ago. But she could never call him that again.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Yohi would never be able to use that title again.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "",
+      "sol_paragraphs": "after P12",
+      "sol_range": [
+        12,
+        12
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "The middle-aged man with the kindly, heavyset build standing before her was not the Heugung she knew.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "31",
+      "sol": "The kindly, heavyset middle-aged man before her was not the Heugung she knew.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Her voice was filled with questions. Heugung shrugged and answered.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        }
+      ]
+    },
+    {
+      "baseline": "“It’s a simple story. Just as you used me, I used you.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "Heugung shrugged at the question in her voice. “It’s simple. Just as you used me, I used you.”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……So you were on Baeksang’s side after all. You too.”",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "39",
+      "sol": "“……So you were working with Baeksang after all. You too.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That is a strange way to put it. Weren’t we all on the same side?”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "41",
+      "sol": "“That’s a strange way to put it. Weren’t we all working together?”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the sight of Yohi stiffening, Heugung let out a quiet laugh.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "45",
+      "sol": "Yohi went rigid. Heugung gave a short laugh.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Don’t deny it. I was the person who watched you and Baeksang from closer than anyone else.”",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "47",
+      "sol": "“Don’t deny it. No one watched you and Baeksang more closely than I did.”",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then what about your sudden appearance at the Western Yao Estate?”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "49",
+      "sol": "“Then your sudden visit to the Western Yao Estate…”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That was all part of the plan. You, Jin Taekyung, the Beast Miao King, and even Baeksang. Of course, none of you knew my true identity… Though, when you think about it, calling us all allies is rather amusing.”",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "51",
+      "sol": "“All part of the plan. You, Jin Taekyung, the Beast Miao King—even Baeksang. Of course, none of you knew who I really was… Come to think of it, saying we were all working together is rather funny.”",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yohi swallowed a low groan as she realized something from Heugung’s answer.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "53",
+      "sol": "",
+      "sol_paragraphs": "after P22",
+      "sol_range": [
+        22,
+        22
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        },
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "She could understand why she had not known. Although she had sided with Baeksang, she had only been an indirect accomplice whose involvement amounted to tacit acquiescence.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "55",
+      "sol": "Yohi swallowed a groan. She could understand why *she* had not known. Though she had sided with Baeksang, her part in it had gone no further than looking the other way.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the fact that he had hidden his identity even from Baeksang meant…",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "57",
+      "sol": "But if he had hidden his identity even from Baeksang…",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You were watching us all this time. Baeksang and me.”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "59",
+      "sol": "“You’ve been watching us all this time. Baeksang and me.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Congratulations. You’ve taken one step toward the answer. Two more remain.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "61",
+      "sol": "“Congratulations. One step closer to the answer. Two more to go.”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Was it the Demon Empress’s order?”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "63",
+      "sol": "“On the Demon Empress’s orders?”",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good. One final step.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "65",
+      "sol": "“Good. One last step.”",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You were the knife hidden up the Demon Empress’s sleeve in case something went wrong.”",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "67",
+      "sol": "“You were the knife she kept hidden up her sleeve in case something went wrong.”",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Heugung slowly brought his hands together and smiled.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "71",
+      "sol": "Heugung slowly clapped his hands and smiled.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re quite perceptive. Correct. Though even I never dreamed things would go this far.”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "73",
+      "sol": "“Clever. That’s right. Though even I never dreamed things would go this far.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung slowly looked around.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "75",
+      "sol": "",
+      "sol_paragraphs": "after P32",
+      "sol_range": [
+        32,
+        32
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        }
+      ]
+    },
+    {
+      "baseline": "The entire area had been reduced to ruins. His gaze passed over the two dead old monsters before finally coming to rest on one person.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "77",
+      "sol": "He looked around at the ruins. His gaze passed over the bodies of the two old monsters before settling on one person.",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Jin Taekyung, the Blazing Flame Divine Dragon. The Third Young Master of the Jin Family of Taiyuan, and the heir of the Fire King who will one day inherit the orthodox lineage of the Fire Gate Clan.”",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "79",
+      "sol": "“Jin Taekyung, the Blazing Flame Divine Dragon. Third Young Master of the Jin Family of Taiyuan, heir to the Fire King and the future successor to the Fire Gate Clan’s orthodox lineage.”",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His voice continued in a low murmur.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "81",
+      "sol": "",
+      "sol_paragraphs": "after P34",
+      "sol_range": [
+        34,
+        34
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A glint flashed in Heugung’s eyes as he stared at Jin, who was sleeping as though he had fainted in his arms.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "83",
+      "sol": "His voice was low. A strange glint crossed his eyes as he stared at Jin, who lay unconscious in his arms.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        }
+      ]
+    },
+    {
+      "baseline": "“When I found him here, I realized things had gone wrong. If everything had proceeded according to plan, he would have been thrown into the underground prison—or the Demon Empress would already have taken him. But…”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "85",
+      "sol": "“When I found him here, I knew something had gone wrong. If everything had gone according to plan, he’d have been locked in the underground prison, or the Demon Empress would already have taken him. But…”",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung had followed the tracking scent to the Poisonblood Grounds, killed the two Supreme Peak masters waiting for the Beast Miao King according to the Demon Empress’s arrangements, and survived.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "87",
+      "sol": "Jin Taekyung had followed the tracking scent to the Poisonblood Grounds. There, he had killed the two Supreme Peak masters the Demon Empress had stationed to await the Beast Miao King—and survived.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Fools. The Demon Empress told them to be so careful.”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "89",
+      "sol": "“Fools. She told them to be careful.”",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Heugung muttered under his breath and spat out a wad of phlegm. Then, as though he had never done such a thing, he looked back at Yohi with a friendly smile.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "91",
+      "sol": "Heugung muttered under his breath and spat out a wad of phlegm. Then he turned back to Yohi with his usual friendly smile, as if nothing had happened.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I don’t know whether capturing him alive is still the right choice after things have reached this point… But at least it’s fortunate that I can clean up the mess. Ah, before that, I suppose I should tell you that our destination has changed.”",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "93",
+      "sol": "“I don’t know if capturing him alive is still the right choice, given how things have turned out… Still, I’m glad I can set things right. Ah, but first I should tell you our destination has changed.”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……The Inner Palace. You intend to head to the Inner Palace.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "95",
+      "sol": "“……The Inner Palace. You’re taking us to the Inner Palace.”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At Yohi’s mutter, which sounded almost like a groan, Heugung nodded.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "97",
+      "sol": "Heugung nodded at her strained whisper.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "“If I return, something quite interesting will probably happen. Nanman will be thrown into turmoil by the testimony of the Great Chieftain who survived the Han Chinese’s wicked conspiracy, and every warrior and beast in this land will gather at the Inner Palace.”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "99",
+      "sol": "“If I return, things should get interesting. The testimony of a Great Chieftain who survived a Han Chinese plot will throw Nanman into turmoil. Every warrior and beast in this land will gather at the Inner Palace, ready to fight the Central Plains.”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“To fight the Central Plains.”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "101",
+      "sol": "",
+      "sol_paragraphs": "after P43",
+      "sol_range": [
+        43,
+        43
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "중원",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Central Plains"
+        }
+      ]
+    },
+    {
+      "baseline": "“But people aren’t fools. Everyone will wonder how you, a man who is only at the Peak realm, managed to escape from a deadly place all by yourself.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "103",
+      "sol": "“But people aren’t fools. They’ll wonder how a man who’s only at the Peak realm escaped a deadly place like this on his own.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re quite sharp. But what if I were a Supreme Peak master?”",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "105",
+      "sol": "“Not bad. But what if I were a Supreme Peak master?”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A Supreme Peak master whose martial prowess is great enough, by the public’s understanding, to subdue Jin Taekyung. Someone who also possesses virtue and prestige, and can embrace even those who would never side with Baeksang. Wouldn’t everyone believe such a person?”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "109",
+      "sol": "“A Supreme Peak master believed to be strong enough to subdue Jin Taekyung. A man with the goodwill and standing to win over even those who would never side with Baeksang. Wouldn’t everyone believe him?”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, Yohi’s body stiffened.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "111",
+      "sol": "Yohi froze.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You… Don’t tell me!”",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "113",
+      "sol": "“You… Don’t tell me—”",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung smiled faintly and released his internal energy.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "117",
+      "sol": "",
+      "sol_paragraphs": "after P50",
+      "sol_range": [
+        50,
+        50
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "공력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "internal energy"
+        },
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        }
+      ]
+    },
+    {
+      "baseline": "From the Western Yao Estate until now, his internal energy had never once been sealed. It moved his bones and flesh and twisted his muscles.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "119",
+      "sol": "Heugung smiled and summoned his internal energy. From the Western Yao Estate until now, it had never once been sealed. It shifted his bones and flesh and twisted his muscles.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The eerie sounds of flesh being torn apart pierced Yohi’s ears.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "123",
+      "sol": "The sickening sound of tearing flesh reached Yohi’s ears.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Under the faint moonlight that had appeared between the clouds, Heugung’s shadow began to shift.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "125",
+      "sol": "Faint moonlight broke through the clouds. Beneath it, Heugung’s shadow changed, growing taller and more powerfully built.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It grew taller. Stronger.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "127",
+      "sol": "",
+      "sol_paragraphs": "after P54",
+      "sol_range": [
+        54,
+        54
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "When every change was complete with a brief, pain-filled groan from Heugung, a short title slipped from Yohi’s frozen lips.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "131",
+      "sol": "With one last pained groan, the changes ended. A short title slipped from Yohi’s frozen lips.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        }
+      ]
+    },
+    {
+      "baseline": "In Yohi’s wide, disbelieving eyes, one person was reflected.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "135",
+      "sol": "She stared at the man before her in disbelief.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "He was Heugung and the Beast Miao King. The Beast Miao King and, without a doubt, Heugung.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "137",
+      "sol": "He was Heugung, yet he was the Beast Miao King. The Beast Miao King, yet unmistakably Heugung. He studied his enlarged shadow with a satisfied smile.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He gazed at his enlarged shadow and smiled with satisfaction.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "139",
+      "sol": "",
+      "sol_paragraphs": "after P59",
+      "sol_range": [
+        59,
+        59
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“People think the essence of the Bone-Shrinking Technique lies solely in reducing one’s size. But when you reach its pinnacle and attain Great Completion, you can be reborn as an entirely different person.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "141",
+      "sol": "“People think the Bone-Shrinking Technique can only make a person smaller. But master it to Great Completion, and you can become someone else entirely.”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now, let’s put it this way. I—or rather, the Beast Miao King—came here and subdued Jin Taekyung. You survived his wicked conspiracy, then returned to the Inner Palace and told everyone this.”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "145",
+      "sol": "“Now, here’s what we’ll do. I—or rather, the Beast Miao King—came here and subdued Jin Taekyung. You survived his wicked plot and returned to the Inner Palace to tell everyone this.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung slowly continued, speaking to Yohi, who stared at him in a daze.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "147",
+      "sol": "He went on slowly as Yohi stared at him, stunned.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "절정",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Peak"
+        },
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        }
+      ]
+    },
+    {
+      "baseline": "“That everything that has happened recently was a conspiracy by Jin Taekyung and the Murim Alliance to swallow Nanman whole. That we must mobilize every human and beast in this land, regardless of age or sex, and invade the Central Plains. What do you think?”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "149",
+      "sol": "“Everything that has happened lately was part of a scheme by Jin Taekyung and the Murim Alliance to swallow Nanman whole. We must rally every human and beast in this land, young and old, and invade the Central Plains. What do you say?”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yohi did not answer.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "151",
+      "sol": "",
+      "sol_paragraphs": "after P64",
+      "sol_range": [
+        64,
+        64
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "No, she could not answer. Fear and rage constricted her entire body, making it difficult to breathe and causing her vision to swim.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "153",
+      "sol": "Yohi did not answer. She could not. Fear and rage seemed to squeeze the breath from her body, and the world swam before her eyes.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah. I forgot to tell you one thing. If you refuse my proposal, Boshan will run red with blood. And the four great tribes that dominate Nanman will become three.”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "157",
+      "sol": "“Ah. I forgot to mention one thing. Refuse, and Boshan will run red with blood. The four great tribes that rule Nanman will become three.”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A thin line of blood trickled between Yohi’s red lips as she struggled to contain her rage.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "161",
+      "sol": "Yohi bit down hard enough to draw blood. A thin line ran between her lips as she glared at him.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She glared at Heugung with blazing eyes and spat out the words.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "163",
+      "sol": "",
+      "sol_paragraphs": "after P69",
+      "sol_range": [
+        69,
+        69
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        }
+      ]
+    },
+    {
+      "baseline": "“My heart aches. To think you would say such a thing to the man who will soon become your husband.”",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "167",
+      "sol": "“You wound me. Is that any way to speak to your future husband?”",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Shut your mouth. Who said I was going to marry you?”",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "169",
+      "sol": "“Shut your mouth. Who said I would ever marry you?”",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“You probably will if you have to watch more than five thousand Yao people lose their heads one after another before your eyes.”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "171",
+      "sol": "“You probably will, once you’ve watched more than five thousand Yao people lose their heads, one after another, before your eyes.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re a stubborn woman, and I’m a patient man. So I’ll wait. Until all five thousand heads have fallen to the ground.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "175",
+      "sol": "“You’re a stubborn woman, and I’m a patient man. So I’ll wait until all five thousand heads have hit the ground.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung answered in a leisurely voice, then beamed at Yohi.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "177",
+      "sol": "",
+      "sol_paragraphs": "after P75",
+      "sol_range": [
+        75,
+        75
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        },
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "It was the same bright smile he had always worn, as though nothing had happened.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "179",
+      "sol": "Heugung spoke without a hint of hurry. Then he beamed at Yohi as brightly as he always had, as though nothing had happened.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A chill rose over Yohi’s body, making every hair stand on end. She squeezed her eyes shut.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "183",
+      "sol": "A chill swept through her, making every hair stand on end. She squeezed her eyes shut.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "It was unbelievable.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "185",
+      "sol": "",
+      "sol_paragraphs": "after P78",
+      "sol_range": [
+        78,
+        78
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This plan, whose beginning she could not even identify, and the true nature of the wastrel everyone had ignored.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "187",
+      "sol": "She could scarcely believe it: a plan that had been unfolding for who knew how long, and the true face of the wastrel everyone had dismissed.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the dark shadow of Dark Heaven hanging over her head.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "189",
+      "sol": "The dark shadow of Dark Heaven hanging over her head.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A great many thoughts flashed through her mind along with her scattering breath.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "193",
+      "sol": "",
+      "sol_paragraphs": "after P81",
+      "sol_range": [
+        81,
+        81
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A moment later, Yohi slowly opened her eyes, drew the flexible sword from her waist, and spoke.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "195",
+      "sol": "She breathed out, thoughts racing through her mind. Then she opened her eyes, drew the flexible sword at her waist, and spoke.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "“A filthy traitor? Please don’t be so hard on yourself.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "199",
+      "sol": "“Filthy traitor? Please don’t be so hard on yourself.”",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I won’t deny it. In the end, I was a traitor too. But will Dark Heaven—the Southern Heaven Demon Empress—allow you to live? What about the Yi people you lead?”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "201",
+      "sol": "“I won’t deny it. I became a traitor too. But do you think Dark Heaven—the Southern Heaven Demon Empress—will let you live? What about the Yi people you lead?”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Her voice rang out like a sharp cry.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "203",
+      "sol": "",
+      "sol_paragraphs": "after P85",
+      "sol_range": [
+        85,
+        85
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung blinked for a moment, then suddenly burst into hearty laughter.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "205",
+      "sol": "Her words rang out sharp and clear. Heugung blinked, then burst into hearty laughter.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“More than forty years ago, when the former chieftain of the Yi people lost his life in the Great Faction War, his only legitimate son remaining in Nanman was only six years old. The strong men and women went to the battlefield. His mother died before she could even see her child’s face, and the only person left at his side was an old nurse whose eyes and ears had grown dim.”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "211",
+      "sol": "“Some forty years ago, the former chieftain of the Yi people died in the Great Faction War. His only legitimate son left in Nanman was six years old. The able-bodied men and women had gone to war. His mother died before she ever saw his face. All he had beside him was an old nurse whose sight and hearing were failing.”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I have never been a traitor. Not for a single moment.”",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "219",
+      "sol": "“I was never a traitor. Not for a single moment.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The flexible sword slipped from Yohi’s grasp and struck the ground with a clatter.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "223",
+      "sol": "The flexible sword slipped from Yohi’s hand and struck the ground. Breathing hard, she tried to pick it up, but her body would not obey.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She breathed heavily and tried to pick it up, but for some reason, her body would not obey.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "225",
+      "sol": "",
+      "sol_paragraphs": "after P95",
+      "sol_range": [
+        95,
+        95
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yohi’s eyelids trembled.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "229",
+      "sol": "Her eyelids trembled. Was the shock of everything she had learned making her freeze?",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "Was it because of the upheaval in her heart caused by the succession of shocking revelations?",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "231",
+      "sol": "",
+      "sol_paragraphs": "after P97",
+      "sol_range": [
+        97,
+        97
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "233",
+      "sol": "",
+      "sol_paragraphs": "after P97",
+      "sol_range": [
+        97,
+        97
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "She could not move because of the sinister, sticky energy that had already spread through every corner of her body.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "235",
+      "sol": "No. She could not move because a sinister, clinging qi had already spread through her entire body.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You…”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "237",
+      "sol": "“Y-You…”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Her voice and vision faded weakly.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "239",
+      "sol": "",
+      "sol_paragraphs": "after P99",
+      "sol_range": [
+        99,
+        99
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung’s approaching figure wavered like a heat haze, and the voice that followed felt as though it were coming from far away.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "241",
+      "sol": "Her voice weakened, and her vision began to fade. Heugung’s approaching figure wavered like a heat haze. His voice seemed to come from far away.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This is why I can’t help loving you. Not only are you dazzlingly beautiful, you’re this naïve too.”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "243",
+      "sol": "“This is why I can’t help loving you. So breathtakingly beautiful, and so innocent too.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That wasn’t an antidote…”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "245",
+      "sol": "“That… wasn’t an antidote…”",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Unfortunately, I’m not the Beast Miao King, and even crossing swords with you would be too much for me. Please understand this sorry husband of yours, my dear wife. When you wake up again, I hope you’ll make the choice that is best for everyone.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "247",
+      "sol": "“Unfortunately, I’m not the Beast Miao King. Even crossing swords with you would be more than I could manage. Please forgive this sorry husband of yours, my dear wife. When you wake, I hope you’ll make the choice that’s best for everyone.”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yohi wanted to scream.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "249",
+      "sol": "",
+      "sol_paragraphs": "after P103",
+      "sol_range": [
+        103,
+        103
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "She wanted someone to come and kill this horrible man. She wanted to shout for someone to pull them out of this dark pit and stop the enormous conspiracy that would swallow Nanman whole.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "251",
+      "sol": "Yohi wanted to scream for someone to come and kill this horrible man. To pull them out of this dark pit and stop the vast scheme that threatened to swallow Nanman.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But contrary to her desperate wishes, the scream that surged up through her throat could not escape her lips.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "253",
+      "sol": "",
+      "sol_paragraphs": "after P104",
+      "sol_range": [
+        104,
+        104
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Jin Taekyung, seized by the monster known as the sleep demon, did not open his eyes until the very end.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "255",
+      "sol": "But the scream that rose in her throat never escaped her lips. And Jin Taekyung, held fast by the monster called the sleep demon, did not open his eyes.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then, in the next moment—",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "257",
+      "sol": "Then—",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung gently caught Yohi’s body as it collapsed like a puppet with its strings cut.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "261",
+      "sol": "Yohi collapsed like a puppet with its strings cut. Heugung caught her gently in his arms.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A smile appeared at the corner of his mouth, which now wore the face of the Beast Miao King.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "263",
+      "sol": "A smile rested on his face—the face of the Beast Miao King.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even the way you sleep is beautiful.”",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "265",
+      "sol": "“Even asleep, you’re beautiful.”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung truly loved Yohi. The fact that she did not want him did not matter.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "267",
+      "sol": "Heugung truly loved Yohi. It did not matter that she did not want him.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yohi would eventually make the right choice.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "269",
+      "sol": "",
+      "sol_paragraphs": "after P111",
+      "sol_range": [
+        111,
+        111
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "요희",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yohi"
+        }
+      ]
+    },
+    {
+      "baseline": "And, in the end, she would come to love him.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "271",
+      "sol": "She would make the right choice eventually. In time, she would come to love him.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dark Heaven—the Southern Heaven Demon Empress—would keep her promise.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "273",
+      "sol": "Dark Heaven—the Southern Heaven Demon Empress—would keep her promise. After all the years he had spent hiding who he was, his reward would be tenfold, twentyfold.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The price for hiding his identity and suffering through all these years would return to him tenfold, twentyfold.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "275",
+      "sol": "",
+      "sol_paragraphs": "after P113",
+      "sol_range": [
+        113,
+        113
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, before that…",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "277",
+      "sol": "But first…",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Heugung kissed Yohi on the forehead, then slowly turned around.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "281",
+      "sol": "He kissed Yohi on the forehead and slowly turned.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑웅",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Heugung"
+        }
+      ]
+    },
+    {
+      "baseline": "He walked toward the culprit who had dared to jeopardize the grand plan.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "283",
+      "sol": "Ahead of him lay the culprit who had dared to jeopardize the grand plan.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had been a variable no one could have predicted, and his existence had dealt a severe blow to the grand plan that stood on the verge of success.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "287",
+      "sol": "",
+      "sol_paragraphs": "after P118",
+      "sol_range": [
+        118,
+        118
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Two Supreme Peak masters whose very presence could turn the tide of battle had been sacrificed.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "289",
+      "sol": "No one had anticipated him. His appearance had dealt a severe blow to a plan on the verge of success. Two Supreme Peak masters, either of whom could turn the tide of a battle, had been lost.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The grand plan will succeed, and there are still hands and feet left to replace them.*",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "293",
+      "sol": "*The grand plan will succeed. There are still others to take their place.*",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung would not regain consciousness for at least several days.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "293",
+      "sol": "",
+      "sol_paragraphs": "after P121",
+      "sol_range": [
+        121,
+        121
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "If Heugung brought Yohi and Jin Taekyung back to the Inner Palace, everything would be over.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "293",
+      "sol": "Jin Taekyung would not wake for at least several days. Once Heugung brought him and Yohi back to the Inner Palace, it would all be over.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Yes. It will be over.*",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "293",
+      "sol": "*Yes. Over.*",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He smiled in satisfaction, passed the panting White Tiger, and grabbed Jin Taekyung by the nape to lift him up.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "293",
+      "sol": "Smiling in satisfaction, he passed the panting White Tiger and took Jin by the back of the neck.",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "No—he was just about to lift him when it happened.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "293",
+      "sol": "He was about to lift him when—",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "WHOOSH!",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "293",
+      "sol": "Whoooooosh.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A bleak wind blew in from somewhere, and Heugung suddenly raised his head.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "293",
+      "sol": "A chill wind blew in from somewhere. Heugung looked up.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath the pale moonlight, the shape of something appeared in his eyes.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "293",
+      "sol": "In the pale moonlight, he saw the shape of something.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the very moment he began to voice his question—",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "293",
+      "sol": "Before he could finish the question—",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The bleak wind turned into a blade and engulfed his entire body.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "293",
+      "sol": "The chill wind turned into a blade and swept over his entire body.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 132,
+  "sol_sha256": "7743246d286b74dc531bbfe00c6760a58f471147158ff70ad5fedafc6242533a",
+  "version": 1
+}

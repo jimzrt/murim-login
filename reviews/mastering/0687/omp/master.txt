@@ -10,11 +10,11 @@ The massive White Tiger lay panting where it had fallen, like a rotten log. Jin 
 
 In Yohi’s eyes, one man held him in his arms and went on speaking calmly.
 
-“I told you. I should have hidden myself first.”
+“Didn’t I tell you? I had to hide myself first.”
 
 “……!”
 
-Enlightenment and shock flashed through Yohi’s mind like lightning.
+Realization and shock flashed through her mind. Yohi’s eyes, usually so warm and deep, flew wide.
 
 “Heugung, you—”
 
@@ -44,7 +44,7 @@ Yohi went rigid. Heugung gave a short laugh.
 
 Yohi swallowed a groan. She could understand why *she* had not known. Though she had sided with Baeksang, her part in it had gone no further than looking the other way.
 
-But the fact that he had hidden his identity even from Baeksang meant…
+But if he had hidden his identity even from Baeksang…
 
 “You’ve been watching us all this time. Baeksang and me.”
 
@@ -62,9 +62,9 @@ Heugung slowly clapped his hands and smiled.
 
 “Clever. That’s right. Though even I never dreamed things would go this far.”
 
-The entire area had been reduced to ruins. His gaze passed over the two dead old monsters before finally coming to rest on one person.
+He looked around at the ruins. His gaze passed over the bodies of the two old monsters before settling on one person.
 
-“Jin Taekyung, the Blazing Flame Divine Dragon. The Third Young Master of the Jin Family of Taiyuan, and the heir of the Fire King who will one day inherit the orthodox lineage of the Fire Gate Clan.”
+“Jin Taekyung, the Blazing Flame Divine Dragon. Third Young Master of the Jin Family of Taiyuan, heir to the Fire King and the future successor to the Fire Gate Clan’s orthodox lineage.”
 
 His voice was low. A strange glint crossed his eyes as he stared at Jin, who lay unconscious in his arms.
 
@@ -102,7 +102,7 @@ Heugung smiled and summoned his internal energy. From the Western Yao Estate unt
 
 CRACK. CRACK.
 
-The eerie sounds of flesh being torn apart pierced Yohi’s ears.
+The sickening sound of tearing flesh reached Yohi’s ears.
 
 Faint moonlight broke through the clouds. Beneath it, Heugung’s shadow changed, growing taller and more powerfully built.
 
@@ -124,7 +124,7 @@ He was Heugung, yet he was the Beast Miao King. The Beast Miao King, yet unmista
 
 He went on slowly as Yohi stared at him, stunned.
 
-“That everything that has happened recently was a conspiracy by Jin Taekyung and the Murim Alliance to swallow Nanman whole. That we must mobilize every human and beast in this land, regardless of age or sex, and invade the Central Plains. What do you think?”
+“Everything that has happened lately was part of a scheme by Jin Taekyung and the Murim Alliance to swallow Nanman whole. We must rally every human and beast in this land, young and old, and invade the Central Plains. What do you say?”
 
 Yohi did not answer. She could not. Fear and rage seemed to squeeze the breath from her body, and the world swam before her eyes.
 
@@ -134,13 +134,13 @@ Yohi did not answer. She could not. Fear and rage seemed to squeeze the breath f
 
 CRUNCH.
 
-A thin line of blood trickled between Yohi’s red lips as she struggled to contain her rage.
+Yohi bit down hard enough to draw blood. A thin line ran between her lips as she glared at him.
 
 “You son of a bitch.”
 
 “You wound me. Is that any way to speak to your future husband?”
 
-“Shut your mouth. Who said I was going to marry you?”
+“Shut your mouth. Who said I would ever marry you?”
 
 “You probably will, once you’ve watched more than five thousand Yao people lose their heads, one after another, before your eyes.”
 
@@ -186,7 +186,7 @@ Heugung—or rather, the man who had become Heugung—continued with a faint smi
 
 CLANG.
 
-The flexible sword slipped from Yohi’s grasp and struck the ground with a clatter.
+The flexible sword slipped from Yohi’s hand and struck the ground. Breathing hard, she tried to pick it up, but her body would not obey.
 
 *What is this?*
 
@@ -206,7 +206,7 @@ Her voice weakened, and her vision began to fade. Heugung’s approaching figure
 
 Yohi wanted to scream for someone to come and kill this horrible man. To pull them out of this dark pit and stop the vast scheme that threatened to swallow Nanman.
 
-And Jin Taekyung, seized by the monster known as the sleep demon, did not open his eyes until the very end.
+But the scream that rose in her throat never escaped her lips. And Jin Taekyung, held fast by the monster called the sleep demon, did not open his eyes.
 
 Then—
 
@@ -214,7 +214,7 @@ SWISH. THUD.
 
 Yohi collapsed like a puppet with its strings cut. Heugung caught her gently in his arms.
 
-A smile appeared at the corner of his mouth, which now wore the face of the Beast Miao King.
+A smile rested on his face—the face of the Beast Miao King.
 
 “Even asleep, you’re beautiful.”
 
@@ -230,7 +230,7 @@ But first…
 
 He kissed Yohi on the forehead and slowly turned.
 
-He walked toward the culprit who had dared to jeopardize the grand plan.
+Ahead of him lay the culprit who had dared to jeopardize the grand plan.
 
 *Jin Taekyung.*
 
@@ -244,7 +244,7 @@ Jin Taekyung would not wake for at least several days. Once Heugung brought him 
 
 *Yes. Over.*
 
-He smiled in satisfaction, passed the panting White Tiger, and grabbed Jin Taekyung by the nape to lift him up.
+Smiling in satisfaction, he passed the panting White Tiger and took Jin by the back of the neck.
 
 He was about to lift him when—
 
@@ -260,4 +260,4 @@ Before he could finish the question—
 
 SHWAAAASH!
 
-The bleak wind turned into a blade and engulfed his entire body.
+The chill wind turned into a blade and swept over his entire body.
