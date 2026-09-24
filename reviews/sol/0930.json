@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The boy’s face floated before my eyes. I’d promised I’d survive, then return it to him before long.",
+      "defect": "The draft reverses who promised to survive and return the ring.",
+      "id": "F01",
+      "rationale": "The boy is the subject of 약속했던; he made the promise to Taekyung.",
+      "replacement": "The boy who’d promised to survive and return it to me before long appeared before my eyes.",
+      "severity": "critical",
+      "source": "반드시 살아남아, 머지않은 미래에 다시 돌려주겠노라고 약속했던 소년의 모습이 눈앞에 어른거린다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“But I had my reasons.”\n\n“Taishan knows! Taishan knows the reason! Taishan knows what it is!”",
+      "defect": "Rendering both uses of 사정 as “reason” loses Taishan’s accidental sexual double entendre.",
+      "id": "F02",
+      "rationale": "사정 means circumstances in Taekyung’s defense but can also mean ejaculation; the exchange relies on Taishan hearing the sexual meaning without Taekyung stating it outright.",
+      "replacement": "“But I had…something to take care of.”\n\n“Taishan knows! Taishan knows about taking care of that! Taishan knows what it is!”",
+      "severity": "major",
+      "source": "“하지만, 나름대로의 사정이 있었습니다.”\n\n“태산이 안다! 사정 안다! 그거 뭔지 안다!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Only an emperor could plaster the place with pearls so large each one could fetch hundreds of silver nyang at a bok choy market.",
+      "defect": "The draft drops the glitter-sticker comparison and treats the marketplace name as a generic type of market.",
+      "id": "F03",
+      "rationale": "The source names 청경채 마켓 and compares the extravagant scattering of valuable pearls to slapping on glitter stickers.",
+      "replacement": "Only an emperor could plaster the place with night-shining pearls big enough to fetch hundreds of silver nyang each on Bok Choy Market, as if they were glitter stickers.",
+      "severity": "minor",
+      "source": "청경채 마켓에 가져다 팔아도 은자 수백 냥은 너끈히 나갈 법한 씨알 굵은 야명주를 반짝이 스티커처럼 덕지덕지 처바르는 건 황제나 할 수 있는 일이니까."
+    }
+  ],
+  "summary": "One reversed promise, one lost double entendre, and one localized joke omission.",
+  "version": 1
+}
