@@ -1,6 +1,6 @@
 # Ma Junggeol (마중걸)
 
-- **Safe through:** Chapter 1011
+- **Safe through:** Chapter 1012
 - **Aliases:** Chief of Baekma Bang
 - **Role:** Ma Junggeol is the chief of Baekma Bang, a horse-caravan group founded by reformed Ningxia mounted-bandit leaders.
 - **Personality:** Though timid by nature, he is earnest and protective of his group, and places firm trust in the benefactor who led them onto a better path.

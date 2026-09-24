@@ -2458,3 +2458,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 백마방 | **Baekma Bang** | Ma Junggeol’s horse-caravan group, founded by reformed mounted-bandit leaders. |
 | 백마칠종 | **Seven Masters of Baekma Bang** | Collective title for Ma Junggeol and his six associates. |
 | 돈황 | **Dunhuang** | City identified as the foremost defensive line in Gansu. |
+| 폴 발레리 | **Paul Valéry** | French poet mentioned in Taekyung’s humorous comparison. |
+| 칠복이 | **Chilbok** | One of the names the Lord has used for himself, according to the Seven Masters. |
+| 개똥이 | **Gaettong** | One of the names the Lord has used for himself, according to the Seven Masters. |
+| 소향이 | **Sohyang** | Name the Lord used while believing himself to be a seventeen-year-old girl. |

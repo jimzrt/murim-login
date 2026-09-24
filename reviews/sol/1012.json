@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I wouldn’t put a man like that under me even if he took a Flame-Extinguishing Divine Fist to the head.",
+      "defect": "The draft makes the prospective subordinate take the blow; Jeok says he himself would still refuse even if struck in the head.",
+      "id": "F01",
+      "rationale": "The hypothetical blow is to the speaker’s head, not the other man’s.",
+      "replacement": "Even if I took a Flame-Extinguishing Divine Fist to the head, I wouldn’t take a man like that as a subordinate.",
+      "severity": "critical",
+      "source": "대가리에 멸염신권을 맞아도 그런 놈은 수하로 안 부린다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Then I’ll search you from head to toe. Ten hits for every syllable I find. Still nothing?”",
+      "defect": "Jeok threatens punishment for any story that turns up later, not for syllables found by physically searching Ma.",
+      "id": "F02",
+      "rationale": "The threat concerns withheld information, continuing Jeok’s demand that Ma tell him more.",
+      "replacement": "“If I dig around and anything comes out later, it’s ten hits per syllable. Still nothing?”",
+      "severity": "major",
+      "source": "지금부터 뒤져서 나오면 한 음절에 열 대다. 이래도 없느냐?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even if he had more to tell, he’d just grit his teeth and take it.",
+      "defect": "The draft says Ma would take the beating; Jin says he would hold out even at the risk of death.",
+      "id": "F03",
+      "rationale": "죽을 각오로 버티지 describes resisting with a willingness to die, not submitting to punishment.",
+      "replacement": "Even if he had more to tell, he’d hold out even if it killed him.",
+      "severity": "major",
+      "source": "설령 남은 이야기가 있더라도 죽을 각오로 버티지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Ma Junggeol and his sworn brothers jumped to the wrong conclusion right away.",
+      "defect": "The draft substitutes an unsupported mistaken conclusion for their immediate fear.",
+      "id": "F04",
+      "rationale": "The source describes them getting scared in advance; it does not say what they concluded.",
+      "replacement": "Ma Junggeol and his sworn brothers were already frightened before I’d said a word.",
+      "severity": "major",
+      "source": "지레 겁부터 집어먹는 마중걸과 그의 의형제들."
+    },
+    {
+      "confidence": 0.91,
+      "current": "No—they don’t even have the guts to lie.",
+      "defect": "This changes Jeok’s assessment from lack of capability to lack of courage.",
+      "id": "F05",
+      "rationale": "깜냥조차 없어 questions whether they have it in them to deceive, not merely whether they dare.",
+      "replacement": "No—they aren’t even capable of it.",
+      "severity": "major",
+      "source": "아니, 그럴 깜냥조차 없어."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“What the Chief said is righ—”",
+      "defect": "“Chief” replaces the sworn brothers’ senior-brother address.",
+      "id": "F06",
+      "rationale": "대형 identifies Ma by his place among the brothers rather than by his office.",
+      "replacement": "“What our eldest brother said is righ—”",
+      "severity": "minor",
+      "source": "대형께서 하신 말씀이 맞……."
+    },
+    {
+      "confidence": 0.94,
+      "current": "With the air of some random beggar.",
+      "defect": "The draft loses the numbered-background-character joke.",
+      "id": "F07",
+      "rationale": "거지1 presents him as an anonymous, numbered bit part.",
+      "replacement": "Like Beggar Number One.",
+      "severity": "minor",
+      "source": "거지1 정도의 느낌으로."
+    }
+  ],
+  "summary": "Several lines alter who takes a blow, the threatened penalty, or the brothers’ reactions. A few smaller choices lose kinship and comic nuance.",
+  "version": 1
+}
