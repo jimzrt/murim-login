@@ -2,7 +2,7 @@
 
 The Training Room was silent again today.
 
-Countless kinds of weapons lay strewn across the floor, and the walls—enchanted with automatic restoration magic—had been reduced to a miserable ruin.
+Weapons of every kind lay strewn across the floor, and the walls, enchanted to repair themselves, were in ruins.
 
 At the center of it all… I sat cross-legged, lost in thought.
 
@@ -26,7 +26,7 @@ I had only started searching for the final piece recently, but I’d decided to 
 
 The thought had come to me out of nowhere one day. As time passed, my unease turned into certainty.
 
-Magical power levels had risen abnormally. Monsters had grown stronger, and human casualties—which had fallen dramatically after the Great Cataclysm—were once again mounting everywhere.
+Magical power levels had risen abnormally. Monsters had grown stronger, and casualties, which had fallen dramatically after the Great Cataclysm, were once again mounting everywhere.
 
 Humanity needed another kind of power. After a great deal of thought, I made my decision.
 
@@ -82,15 +82,15 @@ He followed a schedule planned down to the minute, spending each day like a mach
 
 “No, listen…”
 
-“As for me, I’m fine.”
+“I’m fine.”
 
 His voice was calm, and his answer never changed. Song Song and Im Kkeokjeong, who had tried to talk him out of it, could only fall silent.
 
-The answer that reached their ears was the same as before, but the answer that reached their hearts was different.
+And yet, though his answer sounded the same, what they heard beneath it was different.
 
-*As for me, I’m fine.*
+*I’m fine.*
 
-Choi Minwoo left them with that one phrase, the same and yet different, and continued burying himself in work.
+Leaving them with those words, Choi Minwoo buried himself in work again.
 
 He even dismissed the personal secretary who had been helping him a little, then plunged into days busier than ever.
 
@@ -108,9 +108,9 @@ So it was hardly surprising when the subject came up during a private meeting wi
 
 “She couldn’t make coffee. That’s all.”
 
-President Baek Hanseong assumed it was a joke and laughed it off, but every answer Choi Minwoo had given him was sincere.
+President Baek laughed, thinking it was a joke. But Choi Minwoo meant every word.
 
-Choi Minwoo liked being buried in work so completely, and the coffee made by his young secretary had been strangely awful.
+He liked being buried in work, and the coffee his young secretary had made was strangely awful.
 
 More than that, he was grateful to forget, if only for a little while, the longing and grief for someone who kept coming to mind.
 
@@ -136,19 +136,17 @@ Step. Step.
 
 The hill he climbed alone was high and steep, and his footsteps were heavy. Or perhaps it was his heart.
 
-Sorrow and guilt over the one person he could never reach, even if he climbed this high, steep path a hundred or a thousand times, weighed on Choi Minwoo’s heart.
+Grief and guilt for the one person he could never reach—not even if he climbed this path a hundred times, a thousand times—weighed on him.
 
 Pluck. Pluck.
 
 Along the way, he picked an armful of early spring flowers. The pure white violets didn’t seem like enough, so he added scarlet moss phlox from the clusters growing beside the path.
 
-The man who was no longer by his side had always said he liked red.
+The man who was no longer at his side had always liked red.
 
 *And yet he always wore black suits.*
 
-It was only recently that Choi Minwoo had learned what color he liked most, and why he had sold all those motorcycles.
-
-Why he had quit drinking despite once keeping alcohol so close, and why he had trimmed the shaggy beard and long hair he had grown out before neatly parting it.
+Only recently had Choi Minwoo learned what his favorite color was. Why he had sold all those motorcycles. Why he had given up drinking, something he’d once loved, and trimmed his shaggy beard and long hair into a neat, parted style.
 
 *Why did you do all that? You were enough for me.*
 
@@ -156,7 +154,7 @@ He knew everything now, but he had learned it all too late.
 
 With an ache in his chest, Choi Minwoo kept walking.
 
-On the warm, breezy hilltop, a large burial mound awaited him, and the three characters carved into the granite gravestone stood out with unusual clarity.
+A large burial mound awaited him atop the warm, breezy hill. The name carved into the granite gravestone stood out with unusual clarity.
 
 **The late Kim Hwajong.**
 
@@ -194,7 +192,7 @@ Words he had never noticed before were carved there.
 
 Who had carved them? He should have wondered, but right now, it didn’t matter.
 
-Choi Minwoo stood frozen like a stone statue, staring endlessly at the short message.
+Choi Minwoo stood like a statue, staring at the short message.
 
 His heart shook like flowers in the wind. Something rose from deep inside him, closing his throat and making his eyes burn.
 
@@ -228,13 +226,13 @@ The Skeleton King understood the sudden question at once.
 
 “Because he’s stronger than anyone I know.”
 
-The Skeleton King stared at Choi Minwoo in silence before answering in a low voice.
+The Skeleton King studied him in silence, then answered quietly.
 
-“He would have cried. Without a doubt.”
+“He would cry. Without a doubt.”
 
 “……!”
 
-“And then he would overcome it and go on living, forever remembering the person who left.”
+“Then he would get through it and keep living, remembering the person who left him forever.”
 
 That was enough.
 
@@ -250,7 +248,7 @@ He remembered what Jin Taekyung had said when he entrusted him with it about hal
 
 *“Give this to Team Leader Choi. No one else.”*
 
-*“You damnable human. Now you’re not even pretending to listen. Do I look like an errand boy to you?”*
+*“You wretched human. Now you don’t even pretend to listen. Do I look like your errand boy?”*
 
 *“I’m not asking because you’re an errand boy. I’m asking because I trust you.”*
 
@@ -270,17 +268,17 @@ No matter how the Skeleton King looked at it, Jin Taekyung was a strange human.
 
 For one thing, Choi Minwoo had arrived at the grave just as Taekyung had said he would.
 
-And he was even stranger for the fact that once he fell asleep, he would not so much as blink even if someone grabbed him by the collar and shook him awake.
+Stranger still, once Taekyung fell asleep, he wouldn’t so much as blink even if someone grabbed him by the collar and shook him.
 
 *Damn him. He has the nerve to give me a petty errand like this while he sleeps without a care?*
 
-Jin Taekyung had repeatedly begged him not to wake him under any circumstances, so he was probably dead asleep by now.
+Taekyung had repeatedly warned him not to wake him, so he was probably fast asleep by now.
 
-The more the Skeleton King thought about Jin Taekyung, the more infuriating he found him. But honestly, for some strange reason, he did not feel all that bad.
+The more the Skeleton King thought about it, the more indignant he felt. Yet, if he was honest, he didn’t feel nearly as bad as he should have.
 
-*“I can entrust it to you because I trust you.” Trust, huh? Hmm. Hmmm.*
+*“Because I trust you.” Trust, hmm. Hmmm.*
 
-The Skeleton King nodded as he remembered the box in his hands and Jin Taekyung’s words, then muttered quietly.
+Thinking of the box in his hands and Taekyung’s words, the Skeleton King nodded to himself and murmured,
 
 “…Sweet dreams, you devious human.”
 

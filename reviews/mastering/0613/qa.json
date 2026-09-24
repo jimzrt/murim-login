@@ -1,0 +1,39 @@
+{
+  "chapter": 613,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.958,
+    "source_characters": 5467,
+    "source_paragraphs": 150,
+    "translation_characters": 10706,
+    "translation_paragraphs": 143
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "송이",
+        "preferred": "Song-i"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

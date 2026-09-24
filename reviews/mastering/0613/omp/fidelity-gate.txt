@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is broadly faithful, with a few minor losses of source-specific relationship, causality, and physical detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 17, 25 — 진호 형",
+      "current": "Right after parting ways with Jin-ho, I had shut myself in the Training Room",
+      "defect": "Drops “hyung,” the source’s familiar address for an older male friend, losing a relationship and intimacy cue preserved in the accepted baseline.",
+      "replacement": "Right after parting ways with Jin-ho hyung, I had shut myself in the Training Room",
+      "rationale": "The Korean explicitly uses 진호 형, and the glossary identifies Jin-ho as an older male friend addressed as Jin-ho hyung.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 35",
+      "current": "Magical power levels had risen abnormally. Monsters had grown stronger, and human casualties—which had fallen dramatically after the Great Cataclysm—were once again mounting everywhere.",
+      "defect": "The source explicitly links the monsters’ increased strength to the abnormal rise in magical power; the English leaves that causal connection unstated.",
+      "replacement": "Magical power levels had risen abnormally. As a result, monsters had grown stronger, and human casualties—which had fallen dramatically after the Great Cataclysm—were once again mounting everywhere.",
+      "rationale": "그에 따라 means that the monsters grew stronger accordingly, establishing a causal link to the preceding rise in magical power.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 177",
+      "current": "Choi Minwoo stared at the old butler, laid to rest on this warm hill instead of a cold, snow-covered mountain.",
+      "defect": "Omits that Minwoo gazed blankly at the old butler, a specific physical and emotional detail present in the source and accepted baseline.",
+      "replacement": "Choi Minwoo stared blankly at the old butler, laid to rest on this warm hill instead of a cold, snow-covered mountain.",
+      "rationale": "멍하니 바라보던 specifies a blank, dazed stare; “stared” alone does not carry that detail.",
+      "confidence": 0.91
+    }
+  ]
+}

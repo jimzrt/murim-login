@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Right after parting ways with Jin-ho, I had shut myself in the Training Room",
+      "defect": "Drops “hyung,” the source’s familiar address for an older male friend, losing a relationship and intimacy cue preserved in the accepted baseline.",
+      "id": "F01",
+      "rationale": "The Korean explicitly uses 진호 형, and the glossary identifies Jin-ho as an older male friend addressed as Jin-ho hyung.",
+      "replacement": "Right after parting ways with Jin-ho hyung, I had shut myself in the Training Room",
+      "severity": "minor",
+      "source": "Lines 17, 25 — 진호 형"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Magical power levels had risen abnormally. Monsters had grown stronger, and human casualties—which had fallen dramatically after the Great Cataclysm—were once again mounting everywhere.",
+      "defect": "The source explicitly links the monsters’ increased strength to the abnormal rise in magical power; the English leaves that causal connection unstated.",
+      "id": "F02",
+      "rationale": "그에 따라 means that the monsters grew stronger accordingly, establishing a causal link to the preceding rise in magical power.",
+      "replacement": "Magical power levels had risen abnormally. As a result, monsters had grown stronger, and human casualties—which had fallen dramatically after the Great Cataclysm—were once again mounting everywhere.",
+      "severity": "minor",
+      "source": "Line 35"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Choi Minwoo stared at the old butler, laid to rest on this warm hill instead of a cold, snow-covered mountain.",
+      "defect": "Omits that Minwoo gazed blankly at the old butler, a specific physical and emotional detail present in the source and accepted baseline.",
+      "id": "F03",
+      "rationale": "멍하니 바라보던 specifies a blank, dazed stare; “stared” alone does not carry that detail.",
+      "replacement": "Choi Minwoo stared blankly at the old butler, laid to rest on this warm hill instead of a cold, snow-covered mountain.",
+      "severity": "minor",
+      "source": "Line 177"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, with a few minor losses of source-specific relationship, causality, and physical detail.",
+  "version": 1
+}
