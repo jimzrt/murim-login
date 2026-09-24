@@ -1,6 +1,6 @@
 # Hong Jin (홍진)
 
-- **Safe through:** Chapter 941
+- **Safe through:** Chapter 953
 - **Aliases:** None
 - **Role:** Hong Jin is Eunuch Hong, a former Deputy Military Commissioner of Shanxi Province and East Depot member who is now responsible for the East Depot and remains a trusted aide to Prince Shangshan.
 - **Personality:** Composed, socially deft, and ambitious, Hong Jin became a eunuch to escape poverty and save his family, then used his abilities to pursue a broader life.

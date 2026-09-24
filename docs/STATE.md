@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 952
-- Next chapter: 953
-- Current block: 950–954 (3/5)
-- Latest translation: `translations/0952.md`
-- Latest summary: `summaries/beats/0952.md`
-- Safe profiles through: chapter 952
+- Last completed: 953
+- Next chapter: 954
+- Current block: 950–954 (4/5)
+- Latest translation: `translations/0953.md`
+- Latest summary: `summaries/beats/0953.md`
+- Safe profiles through: chapter 953
 
 ## Current Block
 
-- After more than two years in secluded training, Jin Mukyung reunites with Jin Wikyung and offers to serve the Jin Family as its Second Young Master. Wikyung appoints him Commander of the Heaven Shaking Squad and orders him to lead two hundred men against an enemy vanguard detouring around Jeongyang.
-- The next day, Jamukha learns that the thousand-man vanguard was annihilated, including a hundred Keshik. He kills the sole survivor before hearing the end of the message, and reflects that the invasion may not be as one-sided as expected.
+- Jin Mukyung returns from a successful strike: his slightly more than two hundred Heaven Shaking Squad members annihilated a thousand enemy vanguard troops, including one hundred elite soldiers, at the cost of twenty-three dead and thirty-seven wounded. Jin Wikyung’s scorched-earth preparations, defenses at Eight Spring Gorge, and the support of thousands of commoners ready to help protect Shanxi are revealed; their loyalty stems in part from the Jin Family’s past aid during famine. As a rider arrives carrying a dead Jin Family martial artist, Jin Wikyung orders everyone to prepare for battle: the enemy has arrived.
 
 ## Open Questions
 
-- What will happen in the Shanxi campaign, and what role will Dark Heaven play in the fighting?
-- Who gave Jang Sam the silk pouch, and what are the modified pill’s effects and side effects; how widely has the improved pill spread and who is distributing it?
-- What is the Martial God’s identity, and what is his connection to the chosen one and the Bow Saint?
-- What do the Eastern Heaven Demon Lord’s papers and silk pouch contain, and what is their significance?
+- How will the defense at Eight Spring Gorge fare against the arriving enemy?
+- Who gave Jang Sam the silk pouch, and what are the improved pill’s effects and distribution?
+- What is the Martial God’s identity and connection to the chosen one and the Bow Saint?
+- What do the Eastern Heaven Demon Lord’s papers and silk pouch contain?
+- What will the Chinggen impostor do, and what is their purpose?
 
 ## Exceptional Decision
 

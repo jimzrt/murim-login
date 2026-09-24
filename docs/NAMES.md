@@ -2420,3 +2420,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 자무카 | **Jamukha** | Khan of the western grasslands and the steppe army’s practical leader. |
 | 텡그리 | **Tengri** | Deity invoked by the steppe people. |
 | 케식 | **Keshik** | Elite warriors serving the Golden Clan. |
+| 송 씨 | **Mr. Song** | Surname form used for the village headman who suggests poisoning the wells. |
