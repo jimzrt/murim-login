@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“Hey, show me some respect as your senior before you say that. Do you have no conscience?”",
+      "defect": "The idiom’s hair imagery disappears, breaking the setup for Taekyung’s immediate threat to pluck Mujin’s hair.",
+      "id": "F01",
+      "rationale": "양심에 털 나다 conveys shamelessness through an image of hair growing on one’s conscience; the next line plays on that image.",
+      "replacement": "“Hey, show me some respect as your senior before you say that. What, has your conscience sprouted hair?”",
+      "severity": "major",
+      "source": "“아니, 연장자 대우부터 해 주시고 그런 말씀을 하십시오. 양심에 털 나셨습니까?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "When the drums announcing the end of the brief rest stopped, nearly half the martial artists stationed in the Qilian Mountains had already gathered ahead of them.",
+      "defect": "The draft omits that the assembled martial artists belong to the Black Dragon Demon Gate.",
+      "id": "F02",
+      "rationale": "흑룡마문의 identifies whose garrison supplied the reinforcements.",
+      "replacement": "When the drums announcing the end of the brief rest stopped, nearly half the Black Dragon Demon Gate’s martial artists stationed in the Qilian Mountains had already assembled ahead of them.",
+      "severity": "major",
+      "source": "그곳에는 이미 기련산에 배치된 흑룡마문의 무인 중 절반에 달하는 병력이 앞서 집결해 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Wherever he went, countless corpses and pools of blood filled the path behind him, followed by the praise and cheers of people throughout the land.",
+      "defect": "The draft omits that the corpses are his enemies’, making the violence less specific.",
+      "id": "F03",
+      "rationale": "적들의 explicitly identifies the dead as enemies.",
+      "replacement": "Wherever he went, the path behind him filled with the corpses and blood of countless enemies, followed by the praise and cheers of people throughout the land.",
+      "severity": "major",
+      "source": "향하는 걸음마다 적들의 무수한 시체와 핏물이 들어찼고, 천하인들의 칭송과 환호가 뒤따랐다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "But the secret letter that should have come back to him had met with silence, and Sama Pyo’s attitude, when they met for the first time in a year, had seemed somehow different.",
+      "defect": "“The secret letter ... had met with silence” suggests a letter was sent and went unanswered; Sima Gong instead received no expected secret correspondence.",
+      "id": "F04",
+      "rationale": "돌아와야 할 밀서는 묵묵부답이었고 describes the absence of an expected confidential reply.",
+      "replacement": "But the secret correspondence he should have received never came, and Sama Pyo’s attitude, when they met for the first time in a year, had seemed somehow different.",
+      "severity": "major",
+      "source": "그러나 응당 돌아와야 할 밀서(密書)는 묵묵부답이었고, 일 년 만에 마주한 사마표의 태도는 어딘가 달라져 있었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "That was why he was an unorthodox leader in the truest sense of the word. And beneath Sama Pyo’s skin ran the blood he’d inherited from him.",
+      "defect": "“Unorthodox leader” turns an identification with the unorthodox factions into a claim about leadership.",
+      "id": "F05",
+      "rationale": "사파 names the unorthodox factional alignment, not a leadership position.",
+      "replacement": "That was what made him a man of the unorthodox factions in the truest sense. And beneath Sama Pyo’s skin ran the blood he’d inherited from him.",
+      "severity": "major",
+      "source": "그렇기에 진정한 의미의 사파(邪派)였고, 사마표의 살갗 아래에는 그에게서 물려받은 피가 흐르고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Get in formation before I pluck every last hair off your crotch.",
+      "defect": "“Crotch” makes Taekyung’s threat more anatomically explicit than the source’s euphemistic 아랫도리.",
+      "id": "F06",
+      "rationale": "Down below retains the crude threat without replacing the source’s euphemism with a direct body-part label.",
+      "replacement": "Get in formation before I pluck every last hair from down below.",
+      "severity": "minor",
+      "source": "아랫도리에 난 털 싹 다 뽑아 버리기 전에 먼저 가서 대열이나 갖춰."
+    },
+    {
+      "confidence": 0.95,
+      "current": "And beneath the immense weight of the iron balls chained to those shackles, Sama Pyo’s body and mind bent naturally under the pressure.",
+      "defect": "The metaphor has one iron ball attached to the shackles, not multiple balls.",
+      "id": "F07",
+      "rationale": "철구 is singular here; the image is a ball and chain weighing him down.",
+      "replacement": "And beneath the immense weight of the iron ball chained to those shackles, Sama Pyo’s body and mind bent naturally under the pressure.",
+      "severity": "minor",
+      "source": "그리고 그 족쇄에 연결된 철구의 막중한 무게 앞에, 한껏 짓눌린 사마표의 몸과 마음은 자연스럽게 굽혀졌다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it loses a hair-related joke, omits whose troops assembled, and alters several images and implications.",
+  "version": 1
+}

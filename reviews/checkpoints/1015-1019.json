@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He was burning a secret letter alone, without anyone knowing.",
+      "defect": "This contradicts Chapter 1017’s account that Taishan was with Sama Pyo when Namho found him.",
+      "id": "C01",
+      "rationale": "The revised line preserves the concealed act without placing Pyo alone.",
+      "replacement": "He was burning a secret letter in secret.",
+      "severity": "major",
+      "source": "Chapter 1018, opening conversation"
+    },
+    {
+      "confidence": 0.96,
+      "current": "While they were still in Shanxi Province, a secret letter containing some hidden message had passed between father and son.",
+      "defect": "This states that Sima Gong sent the letter, although its sender remains unconfirmed.",
+      "id": "C02",
+      "rationale": "It retains Taekyung’s suspicion without turning it into an established fact.",
+      "replacement": "While they were still in Shanxi Province, a secret letter containing some hidden message had reached Sama Pyo—possibly from his father.",
+      "severity": "major",
+      "source": "Chapter 1018, Taekyung’s reflection on the letter"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Namho reports that Sama Pyo burned a secret letter shortly before the group left the Jin Family of Taiyuan. The scent of camel-oil paper suggests it came from Gansu or Qinghai, and Sima Gong is suspected as its sender, but the letter’s contents and purpose remain unknown. Jeok Cheongang asks whether Taekyung would kill Pyo and Taishan if they were acting on orders tied to Dark Heaven; Taekyung cannot answer.",
+      "defect": "The summary drops the Chapter 1018 scene in which Sima Gong secretly meets two old Daoists to revise a plan after the Fire King’s arrival.",
+      "id": "C03",
+      "rationale": "The meeting is a consequential revealed hook, but the summary should not identify the Daoists or explain the plan prematurely.",
+      "replacement": "Namho reports that Sama Pyo burned a secret letter shortly before the group left the Jin Family of Taiyuan. The scent of camel-oil paper suggests it came from Gansu or Qinghai, and Sima Gong is suspected as its sender, but the letter’s contents and purpose remain unknown. Jeok Cheongang asks whether Taekyung would kill Pyo and Taishan if they were acting on orders tied to Dark Heaven; Taekyung cannot answer. In a secret chamber, Sima Gong meets two old Daoists to revise a plan after the Fire King’s unexpected arrival; the plan and the Daoists’ identities remain unrevealed.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot, second paragraph"
+    }
+  ],
+  "summary": "The reading copies are largely consistent, but two lines overstate what is known about Sama Pyo’s letter, and the checkpoint summary drops a significant revealed scene.",
+  "version": 1
+}
