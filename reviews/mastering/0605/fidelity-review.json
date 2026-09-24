@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He didn’t respond.",
+      "defect": "This omits the source’s image that Team Leader Choi stood as if nailed in place. The accepted baseline preserves that physical detail as “remained frozen in place.”",
+      "id": "F01",
+      "rationale": "못 박힌 듯 서 있었다 describes him standing as if nailed in place, conveying that he was motionless, not merely that he did not answer.",
+      "replacement": "Despite my call, Team Leader Choi remained frozen in place.",
+      "severity": "minor",
+      "source": "Paragraph 229"
+    },
+    {
+      "confidence": 0.98,
+      "current": "An effect can’t exist without a cause. Neither can an illness.",
+      "defect": "The analogy changes “process” to “cause.” The source says a result cannot exist without a process, then compares that to an illness needing a reason.",
+      "id": "F02",
+      "rationale": "과정 means process here; it is distinct from 이유, the reason mentioned in the second half of the sentence.",
+      "replacement": "Just as a result can’t exist without a process, neither can an illness without a reason.",
+      "severity": "minor",
+      "source": "Paragraph 249"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even if he dies, I’ll find a way to bring him back as a Death Knight…",
+      "defect": "The line drops the Skeleton King’s distinctive self-reference, “this body,” and changes his tentative promise to look for a way into a definite promise to find one.",
+      "id": "F03",
+      "rationale": "The source says 이 몸이 … 찾아볼: “this body” will look for a way. Both the self-reference and the tentative intent are explicit.",
+      "replacement": "Even if he dies, this body will try to find a way to bring him back as a Death Knight…",
+      "severity": "minor",
+      "source": "Paragraph 251"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but the assembled copy drops a physical detail preserved in the accepted baseline and makes two small changes to meaning and characterization.",
+  "version": 1
+}

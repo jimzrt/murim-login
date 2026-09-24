@@ -24,7 +24,7 @@ Hmm. A secret lover.
 
 I leaned back on the sofa, watching the holographic TV, and found myself humming.
 
-“When Dad goes to work, Ppoppo. Magic Johnson comes to Korea, Ppoppo.”[^1]
+“When Dad goes to work, Ppoppo Ppoppo. Magic Johnson comes to Korea, Ppoppo Ppoppo.”[^1]
 
 Whoosh! Crash!
 
@@ -40,9 +40,9 @@ Shards flew everywhere, and water pooled across the floor. My eyes met Team Lead
 
 “…You’re not even going to pretend it was an accident?”
 
-“Because it wasn’t an accident. Still, it’s a real shame. If that had been just a little faster, it would’ve smashed Mr. Jin Taekyung’s skull…”
+“It wasn’t an accident. It’s a shame, though. A little faster and it would’ve hit your damn head…”
 
-“Hey, you don’t call a person’s head a ‘skull.’ A skull?”
+“Hey, you can’t call someone’s head a *damn head*.”
 
 “I can when you won’t stop running that damn mouth of yours. Frankly, even ‘head’ is too good a word for a blockhead like you.”
 
@@ -78,13 +78,13 @@ I narrowly dodged again and shouted, “Stop! Team Leader, stop!”
 
 Team Leader Choi picked up a third crystal glass.
 
-“Shut your mouth and stick your head out. Right there.”
+“Shut your mouth and hold still. Right there.”
 
-“I didn’t kiss him! I didn’t do it in the end!”
+“You didn’t kiss him! It never happened!”
 
-“You almost did!”
+“It almost did!”
 
-Team Leader Choi was just about to swing his arm with a roar that could rival a lion’s roar when—
+Team Leader Choi was about to hurl the glass with a roar that rivaled a lion’s roar when—
 
 Bang.
 
@@ -92,9 +92,9 @@ The door flew open without a knock. In the doorway stood the Skeleton King, brim
 
 “The job’s done. Are we going to a club now?”
 
-「Choi, I’m a romantic too.」
+「Choi, I have feelings too.」
 
-Team Leader Choi stared silently at the club-obsessed parrot and the pure-hearted Grand Mage. Then, with a sigh, he lowered his hand.
+Team Leader Choi stared at the club-obsessed Skeleton King and the tenderhearted Grand Mage. Then he sighed and lowered his hand.
 
 * * *
 
@@ -128,7 +128,7 @@ Magic Johnson had remained silent for a long time even after hearing the whole s
 
 “As you can see, it’s a shitty situation.”
 
-“There was a reason you couldn’t explain everything over the phone. All right, let’s take care of the urgent matter first. Choi, where are we moving him from this prison-like place?”
+“So that’s why you couldn’t explain it over the phone. All right. Let’s deal with what’s urgent first. Choi, where do we need to move him from this prison?”
 
 After that, things moved quickly.
 
@@ -136,7 +136,7 @@ Magic Johnson cast Teleport to the coordinates Team Leader Choi gave him, and we
 
 To the home he had missed.
 
-It was a return more than twenty long years in the making.
+It had been more than twenty years.
 
 「Space distortion, barriers, defensive magic, of course. I’ve set up humidity and temperature controls too. And…」
 
@@ -148,7 +148,7 @@ The Skeleton King, sulking because he hadn’t gotten to go to a club, muttered,
 
 「The place will hold unless a Grand Mage on my level—or two or three S-rank Hunters—sets out to smash it.」
 
-“That’s some serious performance.”
+“That’ll do the job.”
 
 I agreed with the Skeleton King. Magic Johnson really had done everything he could for now, making it impossible for even most S-rank Hunters to detect Cheon Taemin or find his location.
 
@@ -188,7 +188,7 @@ I fell silent, uncertain. Magic Johnson shook his head, his expression unusually
 
 「Hmm.」
 
-Magic Johnson let out a low hum and seemed to sink into thought before continuing.
+He thought for a moment before continuing.
 
 「I’d rather not say more yet. It’s too early to be sure. But I should visit the other Grand Mages, just in case. It’s been a while since I’ve seen them.」
 
@@ -196,7 +196,7 @@ Magic Johnson let out a low hum and seemed to sink into thought before continuin
 
 It was welcome news. Magic Johnson had the insight of a Grand Mage, and he meant to find out for himself whether his suspicions were right.
 
-*There are currently only three Grand Mages in the world.*
+*There are only three Grand Mages in the world.*
 
 If one of them had accepted the job knowing full well what Lee Jungryong intended…
 
@@ -206,19 +206,19 @@ For the sake of one person, if nothing else.
 
 “Team Leader Choi.”
 
-He didn’t respond. Inside the cold, oval metal hibernation capsule, Team Leader Choi gazed endlessly at his grandfather, who lay in a deep sleep. Then, all at once, he spoke.
+He didn’t respond. He stood rooted to the spot, gazing through the cold metal hibernation capsule at his sleeping maternal grandfather. After a while, he spoke.
 
-“I’ve waited for so long… but you still haven’t woken up.”
+“I’ve waited so long… and he still hasn’t woken up.”
 
 A clumsy attempt at comfort would have been worse than silence. We all knew it, and none of us spoke.
 
 The Immortal Hero, Cheon Taemin, still hadn’t regained consciousness.
 
-*For more than twenty years.*
+*Not once in more than twenty years.*
 
-We knew neither the cause nor the reason. Unfortunately, everything Team Leader Choi had heard from Song Cheonwoo had been true.
+We didn’t know the cause. Unfortunately, everything Team Leader Choi had heard from Song Cheonwoo was true. Lee Jungryong and Song Cheonwoo, ambitious as they were, had once tried everything they could to wake him. None of it had worked.
 
-Lee Jungryong and Song Cheonwoo, those two ambitious men, had once tried every possible way to wake him, but in the end they’d failed. In this frustrating situation, there was only one thing we could say now.
+There was only one thing we could say now.
 
 “There has to be a way.”
 
@@ -232,7 +232,7 @@ Magic Johnson and I turned our killing intent on the Skeleton King. He stopped a
 
 「Monster motherfucker…」
 
-I was berating the Skeleton King in a voice no louder than a mosquito’s buzz so Team Leader Choi wouldn’t overhear when Choi spoke with a faint smile.
+We were berating the Skeleton King under our breath, afraid Team Leader Choi might hear, when he spoke with a faint smile.
 
 “It’s all right. We’ll find a way somehow. I’m grateful he’s alive.”
 
@@ -240,19 +240,19 @@ A smile didn’t mean someone was happy.
 
 I could feel what Team Leader Choi was going through. So could Magic Johnson. Even the Skeleton King, who didn’t have a finger bone’s worth of tact, could feel it.
 
-Team Leader Choi’s voice, sunk deep with emotion, pierced my ears.
+We fell silent together. Team Leader Choi’s subdued voice reached us.
 
 “But… at least for today, I’d like to rest. Thank you all for your hard work. I truly appreciate it.”
 
-He looked at us one by one, then bowed his head sincerely.
+He looked at each of us in turn and bowed his head.
 
-I understood the meaning of that gesture and was the first to walk toward the entrance.
+I understood what he was asking and headed for the entrance first.
 
-This was a reunion that had come after more than twenty years. For a grandfather and grandson who could not even exchange a single greeting right now, it was time for us to leave them alone.
+Grandfather and grandson had been reunited after more than twenty years, even if they couldn’t exchange a single greeting yet. It was time to leave them alone.
 
 * * *
 
-One of the most important things to Koreans was rice.
+One of the most important things to Koreans is food.
 
 “Are you eating properly?” “Let’s get a meal sometime.” “What are you, *jotbap*?”[^2]
 
@@ -274,7 +274,7 @@ Grrrrr.
 
 「…You really don’t have any toast?」
 
-“Even if there were some, there isn’t. If you’re that reluctant, just try the broth. The broth alone.”
+“Even if we did, we don’t. If you’re that worried, try the broth first. Just the broth.”
 
 「Damn it. Is this Korean soup? Why does it look so weird?」
 
@@ -286,9 +286,9 @@ The moment he tasted it, the game was over.
 
 He polished off two bowls of blood sausage gukbap, saying “Fuck yeah” over and over, then smiled contentedly.
 
-「There were so many things going wrong today that I was busy all day. I feel like I can finally breathe.」
+「So much happened today. I’ve been busy since morning, but now I finally feel human again.」
 
-“I saw the news earlier, actually. You subdued the Mutated Gate and came straight here without even doing an interview.”
+“I saw the news earlier. You dealt with a Mutated Gate and came straight here without even doing an interview.”
 
 「A Mutated Gate? Didn’t you watch to the end?」
 
