@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I wanted to ask, but his face was perfectly serious. The moment I withdrew the internal energy sealing off the inn, Namho turned to Hyuk Mujin.",
+      "defect": "The narrator’s desire to ask is repeated from the preceding sentence.",
+      "id": "F02",
+      "rationale": "The Korean mentions wanting to ask in line 77, then moves directly to withdrawing the internal energy and Namho’s sudden action.",
+      "replacement": "The moment I withdrew the internal energy sealing off the inn, Namho turned to Hyuk Mujin.",
+      "severity": "minor",
+      "source": "Lines 77–79"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Clutching the back of his head, he gaped at Namho before bursting out, “Has this old man gone insane?”",
+      "defect": "This duplicates the shouted question in the following dialogue line.",
+      "id": "F03",
+      "rationale": "The Korean narrates that Hyuk Mujin shouted, then gives the question once as dialogue.",
+      "replacement": "Clutching the back of his head, he gaped at Namho before bursting out,",
+      "severity": "minor",
+      "source": "Lines 103–105"
+    }
+  ],
+  "summary": "The assembled copy contains three duplicated beats that are absent from the Korean source.",
+  "version": 1
+}

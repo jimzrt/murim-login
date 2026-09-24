@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled copy contains three duplicated beats that are absent from the Korean source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 45–47",
+      "current": "I filled the old man’s cup—Namho’s cup—and said, “I was suspicious right up to the end. But you really are with the Hidden Shadow Pavilion.”",
+      "defect": "The cup-filling action is already narrated immediately before this sentence, so this repeats an action the Korean mentions only once.",
+      "replacement": "“I was suspicious right up to the end. But you really are with the Hidden Shadow Pavilion.”",
+      "rationale": "The Korean has one cup-filling action before the narrator speaks; the assembled English describes it twice.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 77–79",
+      "current": "I wanted to ask, but his face was perfectly serious. The moment I withdrew the internal energy sealing off the inn, Namho turned to Hyuk Mujin.",
+      "defect": "The narrator’s desire to ask is repeated from the preceding sentence.",
+      "replacement": "The moment I withdrew the internal energy sealing off the inn, Namho turned to Hyuk Mujin.",
+      "rationale": "The Korean mentions wanting to ask in line 77, then moves directly to withdrawing the internal energy and Namho’s sudden action.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 103–105",
+      "current": "Clutching the back of his head, he gaped at Namho before bursting out, “Has this old man gone insane?”",
+      "defect": "This duplicates the shouted question in the following dialogue line.",
+      "replacement": "Clutching the back of his head, he gaped at Namho before bursting out,",
+      "rationale": "The Korean narrates that Hyuk Mujin shouted, then gives the question once as dialogue.",
+      "confidence": 0.99
+    }
+  ]
+}

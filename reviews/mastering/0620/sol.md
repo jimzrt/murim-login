@@ -4,19 +4,17 @@
 
 “…!”
 
-A low voice burrowed into my ears, and a ripple of agitation spread through the room. But instead of being startled, I stared quietly at the old man.
+His low voice sent a ripple of surprise through the room. But I didn’t startle. I simply watched the old man.
 
 As we talked, I’d begun to suspect he might be an agent of the Hidden Shadow Pavilion.
 
 *He certainly fit the bill.*
 
-The old man before me was the owner of the meeting place Thousand-Faced Fox had told us about. And unlike the other non-Han locals, he hadn’t shown us any particular hostility.
+He owned the meeting place the Thousand-Faced Fox had told me about, and unlike the other locals, he’d shown us no particular hostility.
 
-Still, if you didn’t want to misstep, you had to knock on even a stone bridge before crossing it.
+Still, if I didn’t want to put a foot wrong, I needed to test the bridge before crossing it.
 
-The System had warned me through the *Journey to Nanman* Quest, too. To stay alert at all times and act flexibly.
-
-At least this time, I intended to follow that advice faithfully.
+The System had warned me in the *Journey to Nanman* Quest to stay alert and act flexibly. For once, I intended to follow that advice.
 
 *Shhhh.*
 
@@ -24,7 +22,7 @@ Invisible internal energy spread through the inn, sealing it off from outside so
 
 “Are you with the Hidden Shadow Pavilion?”
 
-That was probably the question everyone wanted to ask.
+I was probably asking what everyone wanted to know.
 
 With every eye on him, the old man rubbed a thumb over his filthy liquor cup.
 
@@ -32,35 +30,29 @@ With every eye on him, the old man rubbed a thumb over his filthy liquor cup.
 
 Namho. Literally, “amber from the south.”
 
-The Hidden Shadow Pavilion was an intelligence organization, so it gave its agents codenames to conceal their identities. The name Namho matched the information Thousand-Faced Fox had given us exactly.
+As an intelligence organization, the Hidden Shadow Pavilion gave its agents codenames to conceal their identities. Namho was the name the Thousand-Faced Fox had given me.
 
 “A certain fox said a fierce wind was blowing in Nanman.”
 
-“Even if a typhoon rages, the Poison Flower rooted deep in the ground will not be shaken.”
+“Even if a typhoon comes, the Poison Flower rooted deep in the earth won’t be shaken.”
 
 That was the secret countersign too. Now I was sure.
 
-I refilled the liquor cup sitting in front of the old man—no, Namho—and spoke.
-
 I filled the old man’s cup—Namho’s cup—and said, “I was suspicious right up to the end. But you really are with the Hidden Shadow Pavilion.”
 
-Namho drained his cup in one gulp and asked,
+Namho drained the cup in one gulp.
 
-“Why? Did you never imagine that an agent of the Murim Alliance’s Hidden Shadow Pavilion might be one of the non-Han peoples?”
-
-Just as Namho said, he was indeed not Han Chinese.
+“Why? Didn’t think a Murim Alliance agent could be one of the local peoples?”
 
 He was right about that much. His skin was dark from Nanman’s fierce sun, and his distinctive features were plainly not Han Chinese. Anyone with half an eye could tell.
 
-I gave a small nod and answered,
-
-“To be honest, I can’t say I didn’t think that. It’s just that you’re so far from the Central Plains that it was hard to believe you were with the Murim Alliance’s Hidden Shadow Pavilion. And from what I could sense, you didn’t seem to have learned martial arts, either.”
+I nodded slightly. “Honestly, I can’t say that didn’t cross my mind. You’re so far from the Central Plains, and as far as I can tell, you haven’t learned any martial arts.”
 
 “Everyone has their own story. What matters is that most people think the way you do.”
 
 “And because they do, no one suspects you?”
 
-“Who would suspect an old non-Han man who hasn’t learned even a single martial arts move? It would be absurd.”
+“Who’d suspect an old local man who doesn’t know a single martial arts move? The idea’s absurd.”
 
 Namho emptied the last bottle of liquor. Then he looked up as though something had just occurred to him.
 
@@ -68,13 +60,9 @@ Namho emptied the last bottle of liquor. Then he looked up as though something h
 
 “Of course. We can’t let anyone outside hear us.”
 
-“Then lower it for a moment. There’s something I absolutely must do.”
+“Lower it for a moment. There’s something I have to do.”
 
 Something he *had* to do?
-
-What was it?
-
-I wanted to ask in more detail, but Namho’s expression was utterly serious.
 
 I wanted to ask, but his face was perfectly serious. The moment I withdrew the internal energy sealing off the inn, Namho turned to Hyuk Mujin.
 
@@ -84,7 +72,7 @@ I wanted to ask, but his face was perfectly serious. The moment I withdrew the i
 
 *Crash!*
 
-“Get the hell out of here, you rude Han bastards!”
+“Get out of here, you ill-mannered Han bastards!”
 
 It happened in an instant.
 
@@ -92,17 +80,15 @@ A liquor bottle struck Hyuk Mujin squarely in the back of the head, cracking his
 
 And Namho, the obvious culprit, started yelling at the top of his lungs.
 
-“You bastards! Even tearing you apart wouldn’t satisfy me! How dare you cause trouble here!”
+“You bastards deserve to be torn apart! How dare you cause trouble in here!”
 
 “…!”
 
 “…!”
 
-Everyone, myself included, stared with our mouths hanging open at the sudden turn of events.
+All of us, myself included, stared with our mouths open.
 
 No one was more stunned than Hyuk Mujin. Clutching the back of his head, he gaped at Namho before bursting out, “Has this old man gone insane?”
-
-“Has this old man gone insane?”
 
 “Yeah, I’m insane! You motherless, fatherless Han bastard!”
 
@@ -110,9 +96,9 @@ No one was more stunned than Hyuk Mujin. Clutching the back of his head, he gape
 
 “You Han bastards crossed the line! Murdering people in Nanman wasn’t enough, so now you’re eating without paying?”
 
-“No, fuck! What did you do with the silver coin I gave you earlier? Boil soup with it?”
+“The fuck? Did you make soup with the silver I gave you earlier?”
 
-“You didn’t give me a single penny, so what kind of bullshit are you spouting? I took pity on you and gave you a meal after agonizing over it, and now get the hell out of my sight!”
+“You didn’t pay me a single coin! What kind of bullshit is that? I took pity on you and gave you a meal after much thought. Now get out of my sight!”
 
 *Whoosh! Crash!*
 
@@ -124,17 +110,17 @@ Namho screamed every insult he could think of and threw everything within reach.
 
 [^1]: A shichen is approximately two hours; ten li is approximately five kilometers.
 
-Only then did I understand the meaning behind his actions. I signaled to the members of the Fire Dragon Pavilion.
+So that was what he was doing. I caught the eyes of the Fire Dragon Pavilion members.
 
 Ju Hwaran, Song Ilseom, and Sama Pyo caught on at once. They sprang up, overturned the table, and started smashing things. Each contributed a word.
 
 “The food!”
 
-“Dog!”
+“Is dog!”
 
 “Tastes like shit!”
 
-Crash-crash-crash!
+*Crash!*
 
 *Crack! Rumble!*
 
@@ -142,11 +128,11 @@ An unfortunate pillar broke apart, and the ceiling tilted.
 
 Poison Flower Pavilion had already been on the verge of collapse. At this rate, it might as well change its name to Crumble Mansion.
 
-I grabbed Hyuk Mujin, who was still shouting at Namho at the top of his lungs, and Taishan, who was shoveling the remaining food into his mouth, by the backs of their necks and ran.
+I grabbed Hyuk Mujin, who was still shouting at Namho, and Taishan, who was stuffing the remaining food into his mouth, by the backs of their necks and ran.
 
 “You crazy old man! Did you get this old by shoving years up your ass—urk!”
 
-“No! Taishan’s chicken leg! He was saving it!”
+“No! Taishan’s chicken leg! I was saving it!”
 
 “Quit your bullshit and get out! All of you!”
 
@@ -156,13 +142,13 @@ Screams mingled with clouds of dust. I led the Fire Dragon Pavilion out through 
 
 “The Han bastards are coming out!”
 
-“They dared attack Elder Chao!”
+“They attacked Elder Chao!”
 
 “Kill them!”
 
 “No, throw them into the snake pit alive!”
 
-Of course, there wasn’t a single sane person among them who wanted to be thrown alive into a snake pit.
+Naturally, not one of us was crazy enough to want to enter a snake pit alive.
 
 *Swish! Thud!*
 
@@ -177,7 +163,7 @@ I sighed and dodged a pickaxe. A belated System notification sounded in my ear.
 > - Quest completion Reward acquired!
 > - A small amount of EXP acquired!
 > - A small amount of Fame acquired!
-> - A new linked Quest has been generated!
+> - A new Chain Quest has been generated!
 
 *Okay, but where’s the lakeside?*
 
@@ -233,7 +219,7 @@ Namho looked bitter.
 
 But peace had ended, despite his hopes.
 
-Dark Heaven had shed the shell of the Demonic Cult and run rampant. Blood had stained every corner of the Central Plains, and that dark shadow was now stretching beyond the Central Plains into Nanman.
+Dark Heaven had cast off the shell of the Demonic Cult and risen. Blood had stained the Central Plains, and its dark shadow was reaching beyond them, into Nanman.
 
 “I’ve already heard what’s happened,” Namho said. “The Pavilion Master is deeply concerned. Do you share those concerns?”
 
@@ -251,15 +237,15 @@ Anyone would have felt the same. Even people in the Central Plains who’d heard
 
 But it wouldn’t be long before these impossible things became reality—just as they had during the time people in the modern world called the Great Cataclysm.
 
-“Dark Heaven is definitely targeting Nanman. Even if nothing has surfaced yet, something will happen before long.”
+“Dark Heaven is targeting Nanman. Even if they haven’t shown themselves yet, something will happen soon.”
 
-Namho stared at me with sunken eyes as I spoke with complete certainty.
+Namho studied me, his gaze somber.
 
 “Long ago, I left Nanman of my own accord, traveling with a merchant caravan from the Central Plains. For the past fifty-odd years, though, I haven’t left this land once. And except for that recent incident, nothing has happened.”
 
-“Do you mean the incident where the Central Plains people claiming to have come from the Heavenly Demon Escort Bureau attacked a nearby village?”
+“You mean the attack on the nearby village by those people claiming to be from the Heavenly Demon Escort Bureau?”
 
-“Yes. The non-Han locals grew furious, and the atmosphere became dangerous, but that was all. It wasn’t common, but it wasn’t something that had never happened before, either.”
+“Yes. The locals are furious, and things have grown tense, but that’s all. It doesn’t happen often, but it isn’t unheard of, either.”
 
 “I don’t know whether that incident had anything to do with Dark Heaven, but…”
 
