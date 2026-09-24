@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.89,
+      "current": "So, have you decided to join the alliance?",
+      "defect": "The question shifts the decision to the Pavilion Master personally. In context, it asks whether Nanman has decided to join the alliance.",
+      "id": "F02",
+      "rationale": "The Korean leaves the subject implicit; the surrounding discussion is about Nanman’s entry into the alliance, and the accepted baseline correctly preserves that subject.",
+      "replacement": "So, have they decided to join the alliance?",
+      "severity": "minor",
+      "source": "Line 357"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but two lines shift the meaning of the exchange about Nanman joining the alliance.",
+  "version": 1
+}

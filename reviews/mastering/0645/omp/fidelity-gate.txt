@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is broadly faithful, but two lines shift the meaning of the exchange about Nanman joining the alliance.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 321",
+      "current": "He knows how important it is to secure Nanman’s entry into the alliance.",
+      "defect": "The Korean says that, with Nanman’s entry into the alliance needing to be secured, he would not cause a disturbance at such an important gathering. The translation adds that he knows how important it is, which changes the stated rationale.",
+      "replacement": "With so much riding on securing Nanman’s entry into the alliance, he wouldn’t cause a disturbance at a gathering as important as the grand council.",
+      "rationale": "The source presents the stakes as the reason he would not cause trouble; it does not explicitly describe his awareness of those stakes.",
+      "confidence": 0.87
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 357",
+      "current": "So, have you decided to join the alliance?",
+      "defect": "The question shifts the decision to the Pavilion Master personally. In context, it asks whether Nanman has decided to join the alliance.",
+      "replacement": "So, have they decided to join the alliance?",
+      "rationale": "The Korean leaves the subject implicit; the surrounding discussion is about Nanman’s entry into the alliance, and the accepted baseline correctly preserves that subject.",
+      "confidence": 0.89
+    }
+  ]
+}

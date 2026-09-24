@@ -26,7 +26,7 @@ But Baeksang was calm. More importantly, he was strong.
 
 *Whoomph! Slash!*
 
-He swept his straightened hand blade sideways. Invisible qi cut across the air and split the cups apart.
+He swept his straightened hand sideways. Invisible qi cut across the air and split the cups apart.
 
 Before the fragments could hit the floor, Baeksang surged from his seat. His figure blurred.
 
@@ -52,29 +52,29 @@ The impact rocked the hall, and beyond the light exploding from the point where 
 
 “…!”
 
-Baeksang’s eyes, which had always shone with a cool light, held unmistakable surprise.
+Those cold eyes held unmistakable surprise.
 
 *How?*
 
 I knew the look. Most of the people I’d faced had worn it.
 
-Before my name and sobriquet had begun spreading through the Murim, and even afterward, people sometimes seemed to forget that and underestimate me too soon—because I was young, came from an insignificant family, or was an inexperienced brat who had never experienced war.
+Even after my name and sobriquet became known throughout Murim, people sometimes seemed to forget and underestimated me. I was too young. My family was too humble. I was a green kid who had never been through a war.
 
 Whenever that happened, I kindly set them straight.
 
-Not with words, but with force.
+Not with words.
 
 *Just like now.*
 
-Along with the mutter that never escaped my lips, I drew up the energy filling my entire body even more forcefully.
+I drew more of the energy filling my body to the surface.
 
 *Whoooosh!*
 
-The tremendous internal energy of no less than three jiazi stirred to life and stretched. The terrible heat of my Scorching Yang Qi evaporated the moisture around us, and red heat haze rose into the air.
+Three jiazi of internal energy stirred to life. The terrible heat of my Scorching Yang Qi evaporated the moisture around us, and red heat haze rose into the air.
 
 *Tsss-tsss-tsss!*
 
-Baeksang’s fist began to give way against my open palm. His trembling eyes flicked from his burning white robes to my calm face.
+Baeksang’s fist began to give way against my open palm. His trembling eyes flicked from the white fabric burning at his sleeve to my calm face.
 
 A cool voice emerged from between his heat-cracked lips.
 
@@ -82,11 +82,11 @@ A cool voice emerged from between his heat-cracked lips.
 
 Remarkable composure. Usually, people in his position went straight to *fucking bastard*, *son of a bitch*, or *crazy bastard*.
 
-But whether he had been tempered by a hundred battles or because he was the great chieftain leading tens of thousands of tribespeople, Baeksang’s emotions might have surged, but they never overflowed, and his martial prowess was far greater than I had expected.
+Maybe a hundred battles had tempered him. Maybe it came from leading tens of thousands of tribespeople. Whatever the reason, Baeksang kept his emotions in check. His martial prowess was greater than I’d expected, too.
 
 *Swish!*
 
-A blackened collar brushed against my forearm. At some point, the fist he had clenched tightly had spread open like an eagle’s talons and seized my wrist with lightning speed.
+His blackened sleeve brushed my forearm. The fist he’d held clenched opened like a hawk’s talons and shot toward my wrist.
 
 It would have caught me, too, if I hadn’t moved faster and hit harder.
 
@@ -116,7 +116,7 @@ He fixed me with a heavy stare and started to move again.
 
 “Enough.”
 
-The voice was not loud, but it held a deep resonance and authority. The Beast Miao King had risen from his seat and opened his mouth with a hard expression.
+The voice was quiet but resonant, carrying unmistakable authority. The Beast Miao King had risen from his seat.
 
 “Stand down. Both of you.”
 
@@ -124,7 +124,7 @@ Baeksang’s figure wavered. I shrugged.
 
 “I didn’t move.”
 
-That was an undeniable fact. I had pulled my chair back a little, but Baeksang had been the one to charge first. I had exchanged moves with him while remaining seated.
+It was true. I’d slid my chair back a little, but Baeksang had charged at me. I’d exchanged blows with him without leaving my seat.
 
 And the result? Well, the other chieftains were staring at me as if they’d seen a ghost. Their faces said it all.
 
@@ -134,7 +134,7 @@ I did need to show some propriety. This was Nanman, not my home ground, and Baek
 
 At the Beast Miao King’s reproachful call, I raised both hands.
 
-“I’m sorry. It was a situation where I couldn’t help using my hands. I just acted without thinking.”
+“I’m sorry. I had to defend myself. I acted without thinking.”
 
 I still needed to make that clear. Even if I conceded that I’d started the trouble, Baeksang had used an attack that could have killed me.
 
@@ -156,7 +156,7 @@ At the hands of a Han Chinese brat from the Central Plains, no less.
 
 Baeksang knew it. He pressed his lips together and bowed his head to the Beast Miao King.
 
-“I apologize for causing a disturbance. I will see you again after I have calmed my mind.”
+“I apologize for causing a disturbance. I will return once I have calmed myself.”
 
 Then he left the hall, his scorched robes fluttering behind him.
 
@@ -218,7 +218,7 @@ The Beast Miao King gave a hollow laugh and turned to the chieftains who remaine
 
 “Yes.”
 
-“This time, I will need your help. First, organize a scouting party of fast-moving warriors and have them watch the area toward Guizhou.”
+“I need your help. Gather a scouting party of swift warriors and have them watch the approaches from Guizhou.”
 
 “Because of the Blood Monk?”
 
@@ -302,7 +302,7 @@ The usually quiet Song Ilseom smacked his lips.
 
 Her petition gathered signatures with the speed of Quick Attack. Then Ju Hwaran turned eyes sparkling like the Milky Way on me.
 
-“Pavilion Master, say something. So, have you decided to join the alliance?”
+“Pavilion Master, say something. Did they agree to join the alliance?”
 
 One second felt like an hour.
 
