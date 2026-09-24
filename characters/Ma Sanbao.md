@@ -1,6 +1,6 @@
 # Ma Sanbao (마삼보)
 
-- **Safe through:** Chapter 920
+- **Safe through:** Chapter 927
 - **Aliases:** None
 - **Role:** Ma Sanbao is the East Depot’s Brush-Holding Eunuch and a Supreme Peak martial artist who secretly led a restoration effort for Prince Shangshan as a disciple of the Eastern Heaven Demon Lord.
 - **Personality:** He is vigilant and patient, concealing his loyalties while awaiting the moment to act for the late Emperor.
