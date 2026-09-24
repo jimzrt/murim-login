@@ -2450,3 +2450,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 켠 김에 오대세가까지 | **Might As Well Go All the Way to the Five Great Families** | Completed hidden Quest. |
 | 아빠, 어디 갔어 | **Dad, Where Are You?** | Achievement earned by the three Jin brothers. |
 | 제후 | **feudal lord** | Status appointed by the Son of Heaven. |
+| 녕하성 | **Ningxia Province** | Region between Gansu and Shaanxi. |

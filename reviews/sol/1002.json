@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Even Shanxi Province—treated like some backwater in comparison to the Central Plains—had clear limits on how much it would tolerate from a band of mounted bandits.",
+      "defect": "Makes Shanxi’s tolerance the limiting factor rather than the limits of what a mere bandit group could accomplish there.",
+      "id": "F01",
+      "rationale": "일개 마적단에게 주어진 한계 assigns the limits to the mounted-bandit group.",
+      "replacement": "Even in Shanxi Province, dismissed as a backwater compared with the Central Plains, there were clear limits to what a mere band of mounted bandits could do.",
+      "severity": "major",
+      "source": "중원에 비하면 변방 촌구석 취급받는 산서성이라 해도, 일개 마적단에게 주어진 한계는 명백했다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Give this gentleman four silver nyang—no, ten. And lend him a horse.”",
+      "defect": "Specifies a loan where the source only says to provide a horse.",
+      "id": "F02",
+      "rationale": "말 한 필도 내어드리고 does not establish that the horse must be returned.",
+      "replacement": "“Give this gentleman four silver nyang—no, ten. And provide him with a horse.”",
+      "severity": "minor",
+      "source": "“이분에게 은자 넉 냥, 아니 열 냥 드려라. 말 한 필도 내어드리고.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Enough! Hold your tongue! Threatening an ally—how are you any different from the demonic, heterodox arts you condemn?”",
+      "defect": "Compares Mujin to martial arts rather than their adherents, and adds that he condemns those arts.",
+      "id": "F03",
+      "rationale": "사마외도의 무리 refers to people; the source says nothing about Mujin condemning them.",
+      "replacement": "“Enough! Hold your tongue! Threatening an ally—how are you any different from those demonic, heterodox villains?”",
+      "severity": "major",
+      "source": "“갈! 입 다물지 못할까. 같은 아군을 겁박하다니. 네놈이 사마외도(邪魔外道)의 무리와 무엇이 다르단 말이냐!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“I deliberately spread an exaggerated rumor. Trouble is about to break out in the western region, so we wanted to minimize the casualties among the civilians.”",
+      "defect": "Narrows the intended protection from civilian harm generally to deaths.",
+      "id": "F04",
+      "rationale": "피해 includes harm beyond fatalities.",
+      "replacement": "“I deliberately spread an exaggerated rumor. Trouble is about to break out in the western region, so we wanted to keep the civilians from getting caught up in it as much as possible.”",
+      "severity": "major",
+      "source": "“일부러 소문을 과장해서 흘린 겁니다. 당장 머지않아 서쪽 일대에서 난리가 벌어질 테니, 최대한 양민들의 피해를 줄이려고요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Exactly. Ningxia Province is pretty close, so it’s a much more immediate threat than Dark Heaven beyond the desert. And for someone like me, who hasn’t learned martial arts, all the more so.”",
+      "defect": "The pronoun makes Ningxia Province itself the threat; the conversation identifies the nearby mounted bandits as the threat.",
+      "id": "F05",
+      "rationale": "The preceding question contrasts distant Dark Heaven with nearby mounted bandits; Ningxia establishes their proximity.",
+      "replacement": "“Exactly. Ningxia Province is pretty close, so the mounted bandits there are a greater threat than Dark Heaven beyond the desert. All the more so for someone like me, who hasn’t learned martial arts.”",
+      "severity": "major",
+      "source": "“바로 그겁니다. 녕하성은 제법 가까우니 사막 너머의 암천보다는 더욱 위협적이죠. 더군다나 저처럼 무공을 익히지 않은 몸이라면 오죽하겠습니까.”"
+    },
+    {
+      "confidence": 0.89,
+      "current": "“That’s why Ningxia had always been a white elephant for the Murim sects of the Central Plains. The land was small and barren, and the people left there were all sorts of vicious bastards. Even if a sect took the risk and secured territory, the trouble would only start afterward. Am I right?”",
+      "defect": "A white elephant implies a burdensome possession; the sects had not taken Ningxia, and the issue was whether claiming it was worth the cost.",
+      "id": "F06",
+      "rationale": "계륵 conveys something of limited value that is nevertheless difficult to give up; the following sentences explain the costs of taking and holding Ningxia.",
+      "replacement": "“That’s why Ningxia had always been a prize the Murim sects of the Central Plains couldn’t quite bring themselves to claim. The land was small and barren, and the people left there were all sorts of vicious bastards. Even if a sect took losses securing the territory, dealing with it afterward would be another problem. Am I right?”",
+      "severity": "major",
+      "source": "“그렇기에 녕하는 지금껏 중원의 무림 문파에게 있어 계륵(鷄肋)과도 같은 존재였지. 땅은 좁고 황량한데 남아 있는 사람들이라고는 온갖 흉악한 놈들뿐이었으니. 설령 피해를 감수하고 영역을 확보하더라도 그 이후가 문제였을 터. 맞소?”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“No, they couldn’t. Ningxia was already lawless, and not only our sect but every martial faction in the surrounding area had only just begun recovering from the Great Faction War.”",
+      "defect": "Changes factions that had only just recovered from the war’s aftermath into factions that had only begun to recover.",
+      "id": "F07",
+      "rationale": "이제 겨우 … 추스른 상태였어 describes a newly achieved state of recovery, not the start of that process.",
+      "replacement": "“No, they couldn’t. Ningxia was already lawless, and not only our sect but every martial faction in the surrounding area had only just recovered from the aftermath of the Great Faction War.”",
+      "severity": "major",
+      "source": "“아니, 못 했지. 그때의 녕하는 이미 무법천지였고, 본문은 물론 인근의 모든 무림 방파는 이제 겨우 정마대전의 여파를 추스른 상태였어.”"
+    }
+  ],
+  "summary": "Several passages change who or what is being described, narrow civilian harm to deaths, or lose the reason Ningxia’s factions were constrained.",
+  "version": 1
+}
