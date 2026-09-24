@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“…Th-therefore, I shall punish by way of example the traitorous band known as Dark Heaven, together with the martial men who do not belong to the government. This is the will of the Son of Heaven, and Heaven’s decree.”",
+      "defect": "The draft makes unaffiliated martial artists targets of punishment instead of allies in punishing Dark Heaven.",
+      "id": "F01",
+      "rationale": "아울러 makes the martial men participants alongside the speaker; 암천이라 불리는 역적의 무리 is the group to be punished.",
+      "replacement": "“…Th-therefore, I shall join forces with the martial men outside government service to make an example of the traitorous band known as Dark Heaven. This is my will and Heaven’s decree.”",
+      "severity": "critical",
+      "source": "……하, 하여 관에 속하지 않은 무부(武夫)들을 아울러 암천(暗天)이라 불리는 역적의 무리를 일벌백계하고자 하니, 이는 곧 짐의 뜻이자 하늘의 계시로다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I couldn’t bring myself to look at Jin Wikyung, or at Lee Seowol and so many others, silently shedding tears at the death of their uncle, who had been their strongest support.",
+      "defect": "“Their uncle” makes the deceased man Jin Wikyung’s uncle as well as Lee Seowol’s.",
+      "id": "F02",
+      "rationale": "백부 identifies Lee Seowol’s uncle; the sentence separately describes Jin Wikyung and the other mourners.",
+      "replacement": "I couldn’t bring myself to look at Jin Wikyung like that, or at Lee Seowol silently mourning the death of her uncle, who had been her strongest support, or at the countless others in tears.",
+      "severity": "critical",
+      "source": "그런 진위경의 모습을, 가장 든든한 버팀목이 되어 주었던 백부의 죽음에 소리 없이 눈물을 흘리는 이소월과 또 다른 수많은 이들의 모습을 차마 볼 자신이 없어서."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“It is an imperial decree personally issued by His Majesty. He has declared Dark Heaven a band of traitors and commanded all the people to join forces with the martial artists of the world to punish them.”",
+      "defect": "The explanation turns an announcement to the people into a command for all the people to fight.",
+      "id": "F03",
+      "rationale": "만백성에게 identifies the audience of the announcement, while the emperor joins forces with the martial artists.",
+      "replacement": "“It is an imperial decree personally issued by His Majesty. He has declared Dark Heaven a band of traitors and announced to all his people that he will join forces with the martial artists of the world to punish them.”",
+      "severity": "major",
+      "source": "“폐하께서 친히 내리신 황명이오. 암천의 무리를 역적으로 규정짓는 동시에, 강호의 무림인들과 힘을 합쳐 놈들을 벌할 것을 만백성에게 천명(天命)하신 게지.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "We could believe whatever we wanted to believe. Someday, we could return here and remember them.",
+      "defect": "“Someday” reduces a commitment to return to this place on this day and remember the dead to a possible one-time visit.",
+      "id": "F04",
+      "rationale": "언제고 오늘 이 자리에 connects remembrance to returning to this place on this day.",
+      "replacement": "We could believe whatever we wanted to believe. Whenever this day came around, we would return here and remember them.",
+      "severity": "major",
+      "source": "그저 믿고자 하는 대로 믿을 뿐이다. 언제고 오늘 이 자리에 돌아와 그들을 기억할 뿐이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "It came out of nowhere, tugging insistently at my hand. Several large and small petals gave in and followed the wind.",
+      "defect": "The draft makes the wind tug the narrator’s hand; the personification describes the wind coaxing the petals away.",
+      "id": "F05",
+      "rationale": "The petals, not the narrator, respond to the wind’s tug and follow it.",
+      "replacement": "The wind came out of nowhere, insistently tugging the petals by the hand. Several, large and small, gave in and went along with it.",
+      "severity": "major",
+      "source": "불현듯 찾아와 손을 잡아끄는 그 거센 보챔에, 크고 작은 꽃잎 여러 개가 못 이기는 척 바람을 따라나섰다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Even the giant beyond the martial world, who existed yet was as good as nonexistent, made his presence known.",
+      "defect": "“Made his presence known” replaces the implied official confirmation with a vaguer, potentially physical appearance.",
+      "id": "F06",
+      "rationale": "This phrase extends the preceding list of authorities who officially established the news as true.",
+      "replacement": "Even the giant beyond the martial world—who existed, yet might as well not have—confirmed it.",
+      "severity": "major",
+      "source": "심지어는, 존재하되 존재하지 않는 것과 같았던 무림 밖의 거인까지도."
+    },
+    {
+      "confidence": 0.87,
+      "current": "Like any good native Korean, I’d dutifully celebrated the big holidays like Lunar New Year and Chuseok. But I’d never had enough free time to take an interest in the customs of people from this continent.",
+      "defect": "“People from this continent” removes the narrator’s dismissive 놈들, while “good” adds approval absent from the source.",
+      "id": "F07",
+      "rationale": "The contrast is between dutiful observance of his own holidays and his irreverent lack of interest in the continent’s customs.",
+      "replacement": "As a Korean born and raised, I’d always observed the big holidays like Lunar New Year and Chuseok. But I didn’t have so much time on my hands that I could take an interest in the customs of those guys on the continent.",
+      "severity": "minor",
+      "source": "토종 한국인답게 설날과 추석 같은 민족 대표 명절은 꼬박꼬박 챙겼다지만, 대륙 놈들 풍습까지 관심을 가질 정도로 시간이 남아돌지는 않았으니까."
+    }
+  ],
+  "summary": "The proclamation reverses who is being punished. The draft also changes a family relationship, weakens a recurring act of remembrance, and loses several smaller cues.",
+  "version": 1
+}

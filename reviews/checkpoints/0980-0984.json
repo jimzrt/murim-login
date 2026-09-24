@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "The nomads who were left completely surrendered to us, and everyone in the Murong Family was either killed or captured.",
+      "defect": "The claim that everyone was killed or captured contradicts the later account of Murong Yeonghwi and several dozen others escaping.",
+      "id": "C01",
+      "rationale": "Preserves the reported victory without ruling out the fugitives established in Chapter 982.",
+      "replacement": "The nomads who were left completely surrendered to us, and the Murong Family’s forces were defeated.",
+      "severity": "major",
+      "source": "Chapter 980, Jin Taekyung reporting the victory"
+    },
+    {
+      "confidence": 0.86,
+      "current": "The battle—and the war—ended that day.",
+      "defect": "An unqualified end to the war conflicts with Chapter 984’s announcement that the wider war has begun.",
+      "id": "C02",
+      "rationale": "Distinguishes the concluded northern campaign from the newly declared war against Dark Heaven.",
+      "replacement": "The battle—and the war against the invaders—ended that day.",
+      "severity": "minor",
+      "source": "Chapter 981, account of the battle’s end"
+    },
+    {
+      "confidence": 0.98,
+      "current": "If your innocence is proven in the future, the Murong family will have another chance to prove itself under a new Family Head.",
+      "defect": "The lowercase “Murong family” blurs the passage’s explicit distinction between the dissolved Murong Family and the surviving Murong household.",
+      "id": "C03",
+      "rationale": "Keeps the conditional offer aligned with the terminology established immediately before it.",
+      "replacement": "If your innocence is proven in the future, the Murong household will have another chance to prove itself under a new Family Head.",
+      "severity": "minor",
+      "source": "Chapter 983, Namho’s offer to the survivors"
+    },
+    {
+      "confidence": 0.88,
+      "current": "The man they would soon call their Family Head.",
+      "defect": "Treats Murong Su’s appointment as certain before the survivors’ innocence has been established.",
+      "id": "C04",
+      "rationale": "Retains the retainers’ expectation without prematurely resolving the condition Namho just imposed.",
+      "replacement": "The man they hoped to call their Family Head.",
+      "severity": "major",
+      "source": "Chapter 983, closing description of Murong Su"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Let it be known to all under Heaven, to all the people:",
+      "defect": "The displayed proclamation is left as unmarked prose rather than formatted as an ordinary quotation.",
+      "id": "C05",
+      "rationale": "Marks the document’s quoted opening without mislabeling it as a System panel.",
+      "replacement": "> Let it be known to all under Heaven, to all the people:",
+      "severity": "minor",
+      "source": "Chapter 984, opening line of the imperial proclamation"
+    }
+  ],
+  "summary": "The packet is largely consistent, but two lines overstate how completely the conflict ended, one Murong passage resolves a still-conditional outcome, and the proclamation needs quotation formatting.",
+  "version": 1
+}
