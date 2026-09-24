@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "It was much the same for Gungsung and the Embroidered Uniform Guard, who still hadn’t returned after rooting out the Murong Family’s threat.",
+      "defect": "Uses an unmapped transliteration instead of the established title.",
+      "id": "F01",
+      "rationale": "궁성 is the Bow Saint, not a personal name.",
+      "replacement": "It was much the same for the Bow Saint and the Embroidered Uniform Guard, who still hadn’t returned after rooting out the Murong Family’s threat.",
+      "severity": "critical",
+      "source": "아직 귀환하지 못한 궁성과 금의위 역시 크게 다르지 않았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "And that gap in timing, however brief, might become a butterfly’s wings flapping somewhere far away and change a great many things.",
+      "defect": "Reverses the duration: the source says the gap is by no means short.",
+      "id": "F02",
+      "rationale": "결코 짧지 않은 explicitly rules out a brief gap.",
+      "replacement": "And that considerable gap in timing might become the flap of a butterfly’s wings somewhere far away and change a great many things.",
+      "severity": "critical",
+      "source": "그리고 결코 짧지 않은 그 시간차가"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Oh, would you look at that. Is that my little brother?”",
+      "defect": "Calls Mukyung Taekyung’s little brother rather than the family’s second son, reversing their seniority and obscuring the ensuing joke about omitting “hyung.”",
+      "id": "F03",
+      "rationale": "둘째 identifies the second-born sibling; Taekyung is the younger brother.",
+      "replacement": "“Oh, would you look at that. Isn’t that our family’s second son?”",
+      "severity": "critical",
+      "source": "우리 집 둘째 아냐?"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“What? Did I say anything wrong? You are my little brother.”",
+      "defect": "Again reverses the brothers’ seniority and loses Taekyung’s deliberately title-free way of calling Mukyung the second son.",
+      "id": "F04",
+      "rationale": "Mukyung objects to the missing 형님, not to being called a younger brother.",
+      "replacement": "“What? Did I say anything wrong? You are the second son.”",
+      "severity": "critical",
+      "source": "둘째 맞잖아."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Don’t you dare let anyone else beat you before I catch up.”",
+      "defect": "Turns a plea that Taekyung not fall to someone else into a warning against losing a contest.",
+      "id": "F05",
+      "rationale": "쓰러지지 말 것 carries the danger of being struck down, which gives the farewell its emotional force.",
+      "replacement": "“Until I catch up, don’t let anyone else take you down. Ever.”",
+      "severity": "critical",
+      "source": "절대 다른 놈한테 쓰러지지 말 것."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Lee Seowol, forcing a smile as she put the death of her uncle and steadfast guardian, Cheol Mubaek—the Tiger of Mount Heng—behind her.",
+      "defect": "Omits that Cheol Mubaek was like another father to Seowol.",
+      "id": "F06",
+      "rationale": "또 한 사람의 아버지나 다름없던 states a distinct, emotionally important relationship.",
+      "replacement": "Lee Seowol, forcing a smile despite the death of her uncle, Cheol Mubaek—the Tiger of Mount Heng—who had been her staunchest guardian and almost another father to her.",
+      "severity": "major",
+      "source": "가장 든든한 후견인이자 또 한 사람의 아버지나 다름없던 의숙, 항산호 철무백의 죽음을 뒤로한 채 애써 미소 짓고 있는 이소월."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Across the rough table, the guest sat with perfect composure despite an hour of silence. He answered,",
+      "defect": "Halves the duration of the silence.",
+      "id": "F07",
+      "rationale": "A 시진 is approximately two hours, not one.",
+      "replacement": "Across the rough table, the guest sat with perfect composure despite a full shichen—about two hours—of silence. He answered,",
+      "severity": "critical",
+      "source": "한 시진 동안 이어진 침묵 속에서도"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The words came out in a casual, familiar tone.",
+      "defect": "Loses the marked hierarchy: the younger Mae speaks down to the much older Song Ho as though it were natural.",
+      "id": "F08",
+      "rationale": "하대 denotes downward, informal address; the preceding age contrast makes that register shift salient.",
+      "replacement": "He spoke to the older man as an elder would to a junior, as though it were the most natural thing in the world.",
+      "severity": "major",
+      "source": "당연하다는 듯 흘러나오는 하대."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Wouldn’t most people choose the latter?”",
+      "defect": "Reverses which option Mae says most people would choose.",
+      "id": "F09",
+      "rationale": "전자 refers to being given the answer, the first of Song Ho’s two stated options.",
+      "replacement": "“Wouldn’t most people choose the former?”",
+      "severity": "critical",
+      "source": "보통은 전자를 택하지 않나?"
+    }
+  ],
+  "summary": "Several factual reversals and lost relationship cues need correction; the remaining issues are localized.",
+  "version": 1
+}
