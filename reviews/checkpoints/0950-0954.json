@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Because it bordered the grasslands, The government troops stationed in Shanxi Province were highly capable.",
+      "defect": "The mid-sentence capital letter is a formatting error.",
+      "id": "C01",
+      "rationale": "Corrects capitalization without changing the assessment.",
+      "replacement": "Because it bordered the grasslands, the government troops stationed in Shanxi Province were highly capable.",
+      "severity": "minor",
+      "source": "Chapter 950, assessment of Shanxi’s troops"
+    },
+    {
+      "confidence": 1.0,
+      "current": "The old carpenter, who had been glancing sideways at Jin Taekyung, chuckled.",
+      "defect": "The carpenter is speaking with Jin Wikyung; Taekyung is not present in this scene.",
+      "id": "C02",
+      "rationale": "Restores the scene’s established participant without altering the action.",
+      "replacement": "The old carpenter, who had been glancing sideways at Jin Wikyung, chuckled.",
+      "severity": "major",
+      "source": "Chapter 953, old carpenter’s conversation at Eight Spring Gorge"
+    },
+    {
+      "confidence": 0.97,
+      "current": "With even their homes burned down, they had to sleep outside beneath the night dew, and fill their stomachs with tough jerky made in the saddle, all in the name of speed.",
+      "defect": "The possessive makes the burned houses sound like the invaders’ homes, though Chapter 953 establishes that the evacuated Shanxi residents burned their own homes.",
+      "id": "C03",
+      "rationale": "Preserves the marching army’s hardship while removing the contradictory ownership.",
+      "replacement": "With even the houses burned down, they had to sleep outside beneath the night dew, and fill their stomachs with tough jerky made in the saddle, all in the name of speed.",
+      "severity": "minor",
+      "source": "Chapter 954, steppe army’s march through northern Shanxi"
+    }
+  ],
+  "summary": "The reading copies and active state are broadly consistent. Three localized issues are actionable.",
+  "version": 1
+}

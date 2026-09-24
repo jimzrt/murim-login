@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Jamukha gazed into the pitch-black darkness. Beneath the clouds that obscured even the moonlight, he seemed to see the enemy, their hearts trembling as they held their spears and swords ready. He forced down his own restless excitement.",
+      "defect": "The draft assigns the effort to suppress a trembling heart to Jamukha; in the source, it describes the enemies he imagines seeing.",
+      "id": "F01",
+      "rationale": "떨리는 마음을 애써 억누르며 modifies the imagined enemies, not Jamukha.",
+      "replacement": "Jamukha gazed into the pitch-black darkness. There, where even the moonlight was dimmed by dark clouds, he could almost see the enemy holding their spears and swords upright, struggling to master their trembling hearts.",
+      "severity": "critical",
+      "source": "자무카는 새카만 어둠 속을 응시했다. 달빛조차 먹구름에 가려져 흐릿한 그곳에서, 떨리는 마음을 애써 억누르며 창칼을 곧추세운 적들이 보이는 듯했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "[^1]: An *anda* was a sworn brother in Mongolian tradition; the oath made them kin without blood ties.",
+      "defect": "The footnote says the oath made them kin without blood ties, contradicting the explicit statement that Temur and Chinggen were blood-related cousins.",
+      "id": "F02",
+      "rationale": "The source calls Chinggen Temur’s 혈육 and 사촌 as well as his sworn brother.",
+      "replacement": "[^1]: An *anda* is a sworn brother in Mongolian tradition; the oath binds two people as brothers.",
+      "severity": "critical",
+      "source": "자신의 혈육.\n\n비록 같은 부모 아래에서 태어난 것은 아니나, 친형제보다도 가까웠던 사촌이자 ‘안다의 맹세’로 맺어진 의형제."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*I can accept that the vanguard was wiped out, but I never expected them to make such a filthy mess of everything.*\n\nA mess.\n\nIn Chinggen’s view, it was the perfect word.",
+      "defect": "“A mess” removes the coarse force of 개판 and weakens the narration’s pointed repetition of Chinggen’s word.",
+      "id": "F03",
+      "rationale": "The narration repeats 개판 precisely to endorse the speaker’s blunt, vulgar description.",
+      "replacement": "*I can accept that the vanguard was wiped out, but I never expected them to turn the whole place into such a filthy shitshow.*\n\nA shitshow.\n\nIn Chinggen’s view, it was the perfect word.",
+      "severity": "major",
+      "source": "선봉대가 전멸한 것까지는 그렇다 치더라도, 이 정도로 지저분하게 개판을 쳐 놓을 줄은 몰랐습니다.\n\n개판.\n\n칭겐이 생각하기에는 더할 것도, 뺄 것도 없는 완벽한 표현이었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "You’ve got to make Heaven change its mind, even if you have to pull every damn trick in the book.",
+      "defect": "“Pull every damn trick in the book” suggests scheming rather than the profane, strenuous effort in 생지랄을 떨어서라도.",
+      "id": "F04",
+      "rationale": "The source stresses going to outrageous lengths, not using tricks.",
+      "replacement": "You’ve got to make Heaven change its mind, even if you have to raise all kinds of hell to do it.",
+      "severity": "minor",
+      "source": "온갖 생지랄을 떨어서라도 하늘도 뜻을 바꾸게 만들어야지."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it misattributes a character’s emotion, contradicts Temur and Chinggen’s blood relationship in a footnote, and softens or changes two pointed expressions.",
+  "version": 1
+}
