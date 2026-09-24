@@ -2426,3 +2426,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 유방 | **Liu Bang** | Han founder cited by Jamukha. |
 | 장량 | **Zhang Liang** | Liu Bang’s strategist in Jamukha’s account. |
 | 검귀 | **Sword Demon** | Title used for the kind of swordsman Mukyung is said to resemble. |
+| 무칼 | **Mukal** | One of Jamukha’s Keshik commanders of a hundred. |
+| 제르메 | **Jerme** | One of Jamukha’s Keshik commanders of a hundred. |
+| 티라운 | **Tiraun** | One of Jamukha’s Keshik commanders of a hundred. |
+| 보오르추 | **Boorchu** | One of Jamukha’s Keshik commanders of a hundred. |
+| 옹게 | **Ongge** | One of Jamukha’s Keshik commanders of a hundred. |
