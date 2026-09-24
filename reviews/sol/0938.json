@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“He must’ve mistaken him for a bear. The man’s always been a bit of a beast.”",
+      "defect": "The draft obscures who mistook whom and replaces Peng’s size with an added comment about his character.",
+      "id": "F01",
+      "rationale": "Jeok is excusing himself for failing to recognize the large man already in the pond.",
+      "replacement": "“He was so big I must’ve mistaken him for a bear.”",
+      "severity": "major",
+      "source": "워낙 한 덩치 하는 놈이라 곰으로 착각했던 모양이지."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And Mount Small Hua, green in the bright spring weather, became a mountain drenched in red.",
+      "defect": "The draft loses the transformation into a mountain of fire.",
+      "id": "F02",
+      "rationale": "The source changes 소화산 into 화산(火山), a fiery image reinforced by the flames described immediately afterward.",
+      "replacement": "And Mount Small Hua, green beneath the bright spring sky, became a mountain of fire, dyed entirely red.",
+      "severity": "major",
+      "source": "그리고 화창한 봄을 맞아 푸르렀던 소화산(小華山)은, 온통 붉게 물든 화산(火山)이 되었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Among them was Jin Baekyang, the Second Young Master of the Jin Family of Taiyuan at the time.",
+      "defect": "Jin Baekyang’s established epithet is omitted.",
+      "id": "F03",
+      "rationale": "The source names him 화양검 진백양; the packet’s glossary establishes Blade of Flowers.",
+      "replacement": "Among them was the Blade of Flowers, Jin Baekyang, then the Second Young Master of the Jin Family of Taiyuan.",
+      "severity": "major",
+      "source": "이를테면 당시 태원진가의 이공자였던 화양검 진백양 또한 그곳에 있었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "In the shrewd old man’s eyes, Jeok Cheongang saw a woman with a gaze much like his own.",
+      "defect": "The draft awkwardly makes Jeok both the observer and the subject identified within his own eyes.",
+      "id": "F04",
+      "rationale": "It is the woman’s image that is reflected in Jeok’s eyes.",
+      "replacement": "In Jeok Cheongang’s seasoned eyes was reflected a woman whose gaze resembled his own.",
+      "severity": "minor",
+      "source": "노회한 적천강의 두 눈에, 자신과 닮은 눈빛을 한 여인의 모습이 비쳤다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“So you kept talking even though you knew full well I was listening. Just because you’re that brat’s Master?”",
+      "defect": "The draft makes the Bow Saint the brat’s Master instead of Jeok.",
+      "id": "F05",
+      "rationale": "Jeok asks whether she disclosed the conversation because he is Taekyung’s Master.",
+      "replacement": "“So you kept talking even though you knew full well I was listening. Just because I’m that brat’s Master?”",
+      "severity": "critical",
+      "source": "그래서 노부가 듣고 있다는 걸 빤히 알면서도 이야기를 멈추지 않았던 건가? 단지 그 녀석의 스승이라서?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Bow Saint had seen the relationship between the two Masters and Disciples clearly. And as an unbelievable story unfolded, she had quietly watched Jeok Cheongang’s presence, steady and unwavering, and become certain.",
+      "defect": "The draft turns one master-disciple pair into multiple Masters and Disciples, and substitutes watching a presence for sensing Jeok’s unwavering qi.",
+      "id": "F06",
+      "rationale": "두 사제 refers to the two people in a master-disciple relationship; she feels his 기파 as he watches without wavering.",
+      "replacement": "The Bow Saint had seen the bond between Master and Disciple clearly. And as the unbelievable story unfolded, she sensed Jeok Cheongang’s qi remain steady while he silently watched, confirming what she had understood.",
+      "severity": "major",
+      "source": "궁성은 두 사제(師弟)의 관계를 정확히 간파해 냈고, 믿을 수 없는 이야기가 오가는 와중에도 한 치의 흔들림 없이 묵묵하게 상황을 지켜보던 적천강의 기파를 느끼고 확신했다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“After every battle, I count the dead. It’s how I remember them, even if that’s all I can do.”",
+      "defect": "The present tense changes her account of what she did after battles, and the final clause adds a limitation absent from this line.",
+      "id": "F07",
+      "rationale": "The source uses a past habitual action and gives remembering them as her purpose.",
+      "replacement": "“After every battle, I counted the dead. It was my way of remembering them.”",
+      "severity": "minor",
+      "source": "전투가 끝나면 언제나 죽은 이들의 숫자를 헤아렸어요. 이렇게라도 그들을 기억하기 위해서."
+    },
+    {
+      "confidence": 0.97,
+      "current": "That was also why that person—the Martial God—had chosen me.",
+      "defect": "Italic thought formatting makes the words internal, though the following sentence says she murmured them aloud.",
+      "id": "F08",
+      "rationale": "작게 읊조린 뒷말 identifies these as softly spoken words carried through the night air.",
+      "replacement": "“That was also why that person—the Martial God—chose me.”",
+      "severity": "major",
+      "source": "그것이 그분께서, 무신이 나를 선택한 이유이기도 하니까.\n\n작게 읊조린 뒷말이 서늘한 밤공기를 타고 퍼져 나간 그 순간이었다."
+    }
+  ],
+  "summary": "Several actionable fidelity errors affect who is speaking about whom, the master-disciple relationship, and details of the remembered battle.",
+  "version": 1
+}

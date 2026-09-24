@@ -2396,3 +2396,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 위령비 | **memorial** | Memorial the Emperor orders erected for the dead. |
 | 연판장 | **pledge** | Document signed by conspirators; Jin Taekyung says he signed it. |
 | 주체 | **Zhu Di** | The Emperor names himself as Zhu Di. |
+| 소화산 | **Mount Small Hua** | Mountain where the historic battle took place. |
+| 여산 | **Mount Li** | The mountain Jeok Cheongang initially mistakes for Mount Small Hua. |
+| 종남 | **Zhongnan Sect** | Orthodox faction that fought in the historic battle. |
