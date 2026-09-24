@@ -1,19 +1,19 @@
 # Translation State
 
-- Last completed: 962
-- Next chapter: 963
-- Current block: 960–964 (3/5)
-- Latest translation: `translations/0962.md`
-- Latest summary: `summaries/beats/0962.md`
-- Safe profiles through: chapter 962
+- Last completed: 963
+- Next chapter: 964
+- Current block: 960–964 (4/5)
+- Latest translation: `translations/0963.md`
+- Latest summary: `summaries/beats/0963.md`
+- Safe profiles through: chapter 963
 
 ## Current Block
 
-- Jin Mukyung’s strike cuts through the Demon Bird’s blood-red Force, and the Demon Bird names the technique Blue Wave, Falling Bird. Though severely injured, Mukyung kills him, announces his victory, and reaches a new Supreme Peak realm. The Shanxi forces surge forward and break the Keshik line, but as their squad leader prepares to order a retreat, horns sound for Jamukha.
+- Severely injured after defeating the Demon Bird, Jin Mukyung fights on while Cheol Mubaek and Wipeng, both gravely wounded, urge him to escape alone. Mukyung refuses to abandon them, choosing what he believes is right over what would save the most lives. His resolve brings his blue Sword Energy together into a devastating strike that kills ten Keshik squad leaders; he names it Blue Wave, Falling Bird and vows to keep a promise. Jamukha arrives, recognizes Mukyung as the Sword Demon, and the ground begins to tremble.
 
 ## Open Questions
 
-- How will the battle at Eight Spring Gorge end, and what will Jamukha do after the horns sound?
+- What is causing the tremor, and how will the confrontation between Mukyung and Jamukha unfold?
 - Who gave Jang Sam the silk pouch, and what are the improved pill’s effects and distribution?
 - What is the Martial God’s identity and connection to the chosen one and the Bow Saint?
 - What do the Eastern Heaven Demon Lord’s papers and silk pouch contain?
