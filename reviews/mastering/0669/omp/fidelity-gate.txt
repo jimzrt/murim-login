@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is broadly faithful, with a few minor losses of source detail.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 39",
+      "current": "understand Han Chinese",
+      "defect": "한어 refers to the Chinese language, while “Han Chinese” ordinarily refers to the people. The current wording blurs the source’s distinction between language and ethnicity.",
+      "replacement": "understand Chinese",
+      "rationale": "The source explicitly uses 한어 (漢語), meaning the Chinese language; it uses 한족 elsewhere for Han Chinese people.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 141",
+      "current": "refusing to sacrifice lives for your own ends",
+      "defect": "The translation omits 덧없는, which describes the lives as fleeting or transient.",
+      "replacement": "refusing to sacrifice fleeting lives for your own ends",
+      "rationale": "The source says not to sacrifice “fleeting lives” to achieve one’s purpose; the accepted baseline also preserves this detail.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 271",
+      "current": "losing Sama Pyo’s full strength as a fighter",
+      "defect": "The source identifies Sama Pyo as a reliable combatant, but the assembled copy drops that characterization.",
+      "replacement": "Sama Pyo, our reliable fighter, being unable to fight at full strength",
+      "rationale": "믿음직한 전투원 explicitly calls him a reliable fighter, and the accepted baseline retains that detail.",
+      "confidence": 0.91
+    }
+  ]
+}

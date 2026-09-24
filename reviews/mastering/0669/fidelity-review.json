@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "refusing to sacrifice lives for your own ends",
+      "defect": "The translation omits 덧없는, which describes the lives as fleeting or transient.",
+      "id": "F02",
+      "rationale": "The source says not to sacrifice “fleeting lives” to achieve one’s purpose; the accepted baseline also preserves this detail.",
+      "replacement": "refusing to sacrifice fleeting lives for your own ends",
+      "severity": "minor",
+      "source": "Line 141"
+    },
+    {
+      "confidence": 0.91,
+      "current": "losing Sama Pyo’s full strength as a fighter",
+      "defect": "The source identifies Sama Pyo as a reliable combatant, but the assembled copy drops that characterization.",
+      "id": "F03",
+      "rationale": "믿음직한 전투원 explicitly calls him a reliable fighter, and the accepted baseline retains that detail.",
+      "replacement": "Sama Pyo, our reliable fighter, being unable to fight at full strength",
+      "severity": "minor",
+      "source": "Line 271"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with a few minor losses of source detail.",
+  "version": 1
+}

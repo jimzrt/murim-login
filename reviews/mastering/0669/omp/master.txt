@@ -10,7 +10,7 @@ Taishan, half-crazed with hunger, blocked the stairs. I advanced at the front wi
 
 That was fortunate for me.
 
-We needed to escape the underground prison as quickly as possible, but I was also beginning to feel my limits. I still had not completely grasped the full utility of the Middle Dantian.
+We needed to get out of the prison as quickly as possible, but I was beginning to feel my limits too. I still didn’t fully understand what the Middle Dantian could do.
 
 Breaking my restraints had already consumed an enormous amount of mental strength. After one brief fight on top of that, my stomach was churning and my chest had begun to hurt. Taishan’s arrival was like getting an entire army as reinforcements.
 
@@ -82,7 +82,7 @@ The human body had limits. I’d surpassed them by an absurd margin thanks to th
 
 A reasonable suspicion, but it didn’t matter right now.
 
-I looked at the Bai warriors who had lost their will to fight and disarmed themselves, then muttered quietly.
+I looked at the Bai warriors who had lost their will to fight and laid down their weapons.
 
 “All right. Let’s deal with this lot first.”
 
@@ -110,7 +110,7 @@ Yayul Mok was the Young Palace Lord of the Nanman Beast Palace. That alone said 
 
 “It doesn’t matter.”
 
-“Like hell it doesn’t. You said we weren’t going to flee along this path, so why wouldn’t it matter? If we remain here…”
+“Like hell it doesn’t. You’re not leaving with us, so how could it not matter? If you stay here…”
 
 “Our identities will be revealed. Our lives won’t be in immediate danger, but we’ll pay dearly for defying the Tribal Grand Council’s decision.”
 
@@ -172,7 +172,7 @@ As Yayul Mok spoke, I saw them beyond the fully opened door: two unconscious peo
 
 “Lord! Namho!”
 
-Seeing the familiar faces, Taishan hurriedly ran out of the underground prison. I stared at Yayul Mok with complicated emotions.
+Taishan rushed out of the prison toward the familiar faces. I stared at Yayul Mok, my feelings tangled.
 
 “You…”
 
@@ -192,7 +192,7 @@ Thanks to them, I had a second chance to undo my bad move.
 
 “……Thank you.”
 
-At the thanks I had not managed to offer until now, Yayul Mok and the Seven Miao Tigers—as well as the men disguised as Bai warriors outside the underground prison—smiled faintly and shook their heads.
+At the thanks I hadn’t managed to give them before, Yayul Mok and the Seven Miao Tigers smiled faintly and shook their heads. So did the people outside the prison who had disguised themselves as Bai warriors.
 
 “No need to thank us.”
 
@@ -206,7 +206,7 @@ I looked at each of them, committing their faces to memory. Then I took the wood
 
 Soft crunch.
 
-The moment my foot landed on the damp earth—
+My foot touched the damp ground.
 
 Ding!
 
@@ -230,9 +230,9 @@ Hoo.
 
 Heat from the Scorching Yang Qi mingled with my long exhale.
 
-Yayul Mok and the Seven Miao Tigers widened their eyes, as if they had sensed something from my appearance.
+Yayul Mok and the Seven Miao Tigers stared at me, eyes wide. They must have sensed something.
 
-*Of course they’re surprised. I haven’t even taken the antidote yet.*
+*No wonder they’re surprised. I haven’t even taken the antidote.*
 
 But I had neither the time nor the intention to explain every little detail.
 
@@ -258,13 +258,13 @@ Grrrr.
 
 A familiar growl.
 
-The White Tiger, looking at its lifelong friend and master with sad eyes, held out its back toward me.
+The White Tiger looked sadly at the friend and master who had been with him all his life, then offered me his back.
 
 “Muyaho is called a spiritual creature even among Nanman’s White Tigers. He’s like a brother to me. I trust you’ll take good care of him.”
 
-As if it understood Yayul Mok’s low voice, the White Tiger licked my hand, then pressed its nose against me and sniffed.
+As though he understood Yayul Mok’s subdued voice, the White Tiger licked my hand, then pressed his nose against me and sniffed.
 
-Yayul Mok smiled faintly as he watched it, then pointed in one direction.
+Yayul Mok gave him a faint smile and pointed in one direction.
 
 “Go. Run straight northeast from where we first met, and you’ll find the reconnaissance squad.”
 
@@ -274,7 +274,7 @@ Thud.
 
 At the sound of a blow, Yayul Mok’s body jerked. Wonhu caught him as he collapsed, then grinned at me.
 
-“I trust you understand without us saying it.”
+“I trust you understand without my having to say it.”
 
 “You people…”
 
