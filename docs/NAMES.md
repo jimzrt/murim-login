@@ -2413,3 +2413,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 한혈마 | **sweat-blood horse** | A famed breed said to descend from sweat-blood horses. |
 | 백환강시공 | **White Illusion Jiangshi Art** | Martial art named on the old bamboo slip. |
 | 천뢰검 | **Heavenly Thunder Sword** | Namgung Ryong’s epithet. |
+| 철영 | **Cheolyeong** | Peng Cheolhu’s eldest son and the current Family Head of the Peng Family. |

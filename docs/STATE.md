@@ -1,22 +1,23 @@
 # Translation State
 
-- Last completed: 946
-- Next chapter: 947
-- Current block: 945–949 (2/5)
-- Latest translation: `translations/0946.md`
-- Latest summary: `summaries/beats/0946.md`
-- Safe profiles through: chapter 946
+- Last completed: 947
+- Next chapter: 948
+- Current block: 945–949 (3/5)
+- Latest translation: `translations/0947.md`
+- Latest summary: `summaries/beats/0947.md`
+- Safe profiles through: chapter 947
 
 ## Current Block
 
-- Jang Il recalls that the bandit leader carried a silk pouch he had received from a traveler in Hubei; Taekyung concludes it likely contained a Temporary Strength Pill. Taekyung, Jeok Cheongang, and the Bow Saint suspect Dark Heaven is secretly distributing a modified pill with reduced effects and side effects, making temporary power accessible to ordinary fighters. They fear this could addict and ruin users while strengthening Dark Heaven’s disposable forces moving toward Shanxi.
+- Taekyung and Jeok Cheongang realize the improved Temporary Strength Pill may poison Murim through an addictive drive for strength. Taekyung dispatches Nangong Family guides to alert the Nangong Family and Anhui’s City Lord, ordering a full investigation and tighter security. He uses his imperial rank and authority to make clear the City Lord must cooperate, and says the Murim Alliance’s Fire Dragon Pavilion and a thousand Embroidered Uniform Guards will arrive within a day or two.
+- In Hebei, Peng Cheolhu wakes from a rare deep sleep, learns that his eldest son and the family’s senior members have been in a meeting for two shichen, and orders word sent that he is coming.
 
 ## Open Questions
 
 - Who was the traveler who gave Jang Sam the silk pouch, and what are the modified pill’s exact effects and side effects?
+- How widely has the improved Temporary Strength Pill spread, and who is distributing it?
 - What is the Martial God’s identity, and what is his connection to the chosen one and the Bow Saint?
 - How far has Dark Heaven infiltrated the Great Nation, and which officials or commanders are involved?
-- Where is Ma Sanbao, and what is his current status?
 - What do the Eastern Heaven Demon Lord’s papers and silk pouch contain, and what is their significance?
 
 ## Exceptional Decision
