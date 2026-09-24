@@ -58,7 +58,7 @@ Muhammad saw the corner of the man’s mouth lift through the hole in his mask.
 
 “You insane bastard.”
 
-“I never thought I’d live to hear a terrorist leader call me an insane bastard. What a shitty life.”
+“I never thought I’d live to hear a terrorist leader call me insane. What a shitty life.”
 
 Muhammad considered when to draw the scimitar at his waist, then spoke with an air of authority.
 
@@ -84,7 +84,7 @@ Healthy bronze skin, like a desert warrior’s. Eyes frozen wide open. Not a dro
 
 “…!”
 
-Muhammad froze solid.
+Muhammad went cold.
 
 Kasim was the bodyguard and assassin he trusted more than anyone.
 
@@ -140,7 +140,7 @@ Blood soaked his hands. Muhammad froze like a statue, and the intruder raised a 
 
 “Why not hang your ID around your neck? Anyone with half a brain would account for illusion Magic. You’re already huge, and with your skills, smoking a cigar would practically advertise that you’re Chuck Hagel.”
 
-Muhammad’s eyes widened as he realized something.
+Muhammad’s eyes widened.
 
 “C-Chuck Hagel? You bastards! You’re from the United States!”
 
@@ -170,7 +170,7 @@ He couldn’t help thinking of the most famous Korean in the world right now.
 
 Muhammad’s jeweled turban flew off. Even the few strands of hair left on his head were cut away as if erased.
 
-The strange man—or rather, Jin Taekyung—asked the frozen Muhammad, who had forgotten how to breathe.
+The intruder—no, Jin Taekyung—looked at Muhammad, who had forgotten to breathe.
 
 “I’ll ask again. Who am I?”
 
@@ -178,7 +178,7 @@ The strange man—or rather, Jin Taekyung—asked the frozen Muhammad, who had f
 
 “You said Jin Taekyung a moment ago.”
 
-“I-I was mistaken. I must have mistaken you!”
+“I was mistaken! I must have been!”
 
 “Really? Can you swear to God?”
 
@@ -188,7 +188,7 @@ The strange man—or rather, Jin Taekyung—asked the frozen Muhammad, who had f
 
 “Gyaaaaaah!”
 
-Muhammad, seized by terror, screamed with all his strength. But the sound vanished without ever leaving the bedroom.
+Muhammad screamed with all his strength, but the sound vanished before it could leave the bedroom.
 
 A barrier of qi, formed from powerful internal energy, sealed the space without the slightest gap.
 
@@ -208,7 +208,7 @@ Muhammad didn’t hear Chuck Hagel’s last words. What he’d said before fille
 
 Death.
 
-Every human being thought about that word, but not Muhammad. He had always been the one who dealt death, never the one on the receiving end.
+Every human being thought about it. Muhammad never had—or at least, never as something that might happen to him. He had always dealt death, never received it.
 
 A shrill voice slipped between his trembling lips.
 
@@ -226,7 +226,7 @@ But then… why?
 
 “It’s simple.”
 
-The corners of Jin Taekyung’s mouth, which had been raised through the holes in his mask, slowly sank.
+The corner of Jin Taekyung’s mouth slowly fell. His voice turned cold.
 
 “You’re a fucking lunatic who’s used God’s name to do every kind of insane shit. That’s why you’re dying.”
 
@@ -236,7 +236,7 @@ The corners of Jin Taekyung’s mouth, which had been raised through the holes i
 
 *Hack. Ptooey.*
 
-Chuck Hagel spat, and the phlegm landed thickly on Muhammad’s face. His rough voice followed, cutting into Muhammad’s ears.
+Chuck Hagel spat. Thick phlegm stuck to Muhammad’s face, and his rough voice followed.
 
 “So I’ll give you one last chance. You’re a fucking terrorist bastard who’d have no right to complain if Johnson tormented you all week. But cooperate, and maybe you’ll have something to say for yourself before God.”
 
@@ -250,7 +250,7 @@ Chuck Hagel spat, and the phlegm landed thickly on Muhammad’s face. His rough 
 
 “What?”
 
-“We know you have countless branches under your command. We also know about the other armed terrorist organization at odds with you. The problem is that wiping them out one by one would never end. So give them orders.”
+“We know you have countless branches under your command. We know about the other armed terrorist organization you’re fighting, too. The problem is, rooting them out one by one would take forever. So you’re going to give your people an order.”
 
 *Hoo…*
 
@@ -260,9 +260,7 @@ Chuck Hagel exhaled acrid cigar smoke and grinned.
 
 “…!”
 
-Facing Muhammad, whose eyes were wide with terror, Jin Taekyung pressed his hands together as if in prayer and added one more thing.
-
-“From now on, kill each other.”
+Jin Taekyung pressed his palms together as if in prayer and added, “From now on, kill each other.”
 
 Muhammad finally understood. He had no choices left.
 
@@ -284,7 +282,7 @@ In short, we had to run our asses off.
 
 At first, we tried to handle things quietly. But the territory was vast and there were too few of us to cover it. Before long, we started getting a warm welcome.
 
-And the single word *enemy* included a hail of gunfire and artillery shells, along with Awakened who called themselves “warriors of God.”
+And that welcome included barrages of bullets and artillery shells, along with Awakened who called themselves “warriors of God.”
 
 “Kill them!”
 
@@ -316,7 +314,7 @@ And when we reached the Grand Line—no, the desert—a living treasure was wait
 
 “What are you talking about, you bastard who looks like Jeomsoon from the land steward’s house?”[^2]
 
-“Bastard…!”
+“You…!”
 
 “Hey, kid. Spring fists taste best in spring.”
 
