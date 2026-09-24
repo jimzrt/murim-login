@@ -1,6 +1,6 @@
 # Martial God (무신)
 
-- **Safe through:** Chapter 938
+- **Safe through:** Chapter 948
 - **Aliases:** None
 - **Role:** An unidentified legendary martial artist regarded as a pinnacle above the Ten Kings; more than fifty years ago, he defeated five Supreme Peak fiends and five hundred Blood Ghost Squad members alone.
 - **Personality:** Not established.

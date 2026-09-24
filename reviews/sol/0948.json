@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "At the edge of this vast realm, in Liaoning Province—the true frontier—the descendants of the Xianbei, once a people who had proclaimed themselves rulers of their own kingdom centuries ago, had long since secured their place among the Five Great Families.",
+      "defect": "Omits the Murong Family’s dominance of Liaoning and changes the ancestors’ claim to be kings of a nation into a claim about ruling their own kingdom.",
+      "id": "F01",
+      "rationale": "요녕성의 패자 identifies them as Liaoning’s dominant power; 일국의 왕을 자처하던 describes their ancestors’ claim to kingship.",
+      "replacement": "The descendants of the Xianbei, whose ancestors had proclaimed themselves kings of a nation centuries ago, ruled Liaoning Province—the true frontier—and had long since secured their place among the Five Great Families.",
+      "severity": "major",
+      "source": "진정한 변방이라 할 수 있는 요녕성(遼寧省)의 패자이자 수백 여년 전 일국의 왕을 자처하던 선비족의 후예들은 오대 세가의 일원으로 당당히 자리매김한 지 오래였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The real north. A lawless land full of people more ruthless than the Murim, with every kind of hidden scheme and blade lurking in its depths.",
+      "defect": "Moves the lurking schemes and blades from the Murim to the grasslands, altering the comparison.",
+      "id": "F02",
+      "rationale": "온갖 암수와 창칼이 도사린 modifies 무림; the northern land is being compared against that dangerous Murim.",
+      "replacement": "The real north. A land of outlaws even more lawless than the Murim, where hidden schemes and blades lurked at every turn.",
+      "severity": "major",
+      "source": "진정한 의미의 북부. 온갖 암수와 창칼이 도사린 무림보다 더한 무법자들의 땅."
+    },
+    {
+      "confidence": 1.0,
+      "current": "The Beggars’ Sect was a sign of people coming in.",
+      "defect": "Mistakes the ordinary noun 개방, meaning opening, for the identically written organization name and invents the Beggars’ Sect’s involvement.",
+      "id": "F03",
+      "rationale": "The preceding line describes newly opened trade routes; the following lines explain how people, including Peng informants, entered through them.",
+      "replacement": "Opening the trade routes meant opening the way for people, too.",
+      "severity": "critical",
+      "source": "개방은 곧 유입을 뜻하는 법."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“What are the chances they’ve joined hands with Dark Heaven—the bastards I wouldn’t mind tearing limb from limb?”",
+      "defect": "Softens an expression of hatred into a statement that he would not mind harming them.",
+      "id": "F04",
+      "rationale": "찢어 죽여도 시원치 않을 means even tearing them apart would not satisfy his anger.",
+      "replacement": "“What are the chances they’ve joined hands with Dark Heaven—those bastards I could tear to pieces and still not feel satisfied?”",
+      "severity": "major",
+      "source": "“암천. 그 찢어 죽여도 시원치 않을 놈들과 손을 잡았을 가능성은 얼마나 되느냐?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“And that’s not all. The year before, Second Uncle dozed off for a moment during a meeting, so you punched him in the—”",
+      "defect": "Drops the mention of the jaw that sets up Second Uncle’s correction.",
+      "id": "F05",
+      "rationale": "아구창 specifies the mouth or jaw; Second Uncle’s reply corrects where he was struck, not an entirely unspoken accusation.",
+      "replacement": "“And that’s not all. The year before, Second Uncle dozed off for a moment during a meeting, so you punched him in the jaw—”",
+      "severity": "minor",
+      "source": "“그뿐입니까? 재작년에는 둘째 숙부께서 회의 중에 잠시 졸았다고 아구창을…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Peng Cheolyeong, the current Family Head of the Hebei Peng Family, silently endured the booming shout before speaking up.",
+      "defect": "Omits Peng Cheolyeong’s established epithet on his introduction.",
+      "id": "F06",
+      "rationale": "철혈도 is present as his title in the source and has the established rendering Iron Blood Saber.",
+      "replacement": "Peng Cheolyeong, the Iron Blood Saber and current Family Head of the Hebei Peng Family, silently endured the booming shout before speaking up.",
+      "severity": "minor",
+      "source": "쩌렁쩌렁한 고함을 묵묵히 받아 내던 하북팽가의 현 가주, 철혈도(鐵血刀) 팽철영이 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Muttering to himself, the Thunderbolt Saber King stared intently at his eldest son.",
+      "defect": "Turns an internal thought into audible muttering.",
+      "id": "F07",
+      "rationale": "마음속으로 explicitly places the utterance in his mind.",
+      "replacement": "The Thunderbolt Saber King kept that thought to himself as he stared intently at his eldest son.",
+      "severity": "minor",
+      "source": "마음속으로 뇌까린 벽력도왕은 자신의 맏아들을 물끄러미 응시했다."
+    }
+  ],
+  "summary": "The draft has two substantive errors in its account of the northern regions and trade-route infiltration, plus several localized losses of meaning.",
+  "version": 1
+}

@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 947
-- Next chapter: 948
-- Current block: 945–949 (3/5)
-- Latest translation: `translations/0947.md`
-- Latest summary: `summaries/beats/0947.md`
-- Safe profiles through: chapter 947
+- Last completed: 948
+- Next chapter: 949
+- Current block: 945–949 (4/5)
+- Latest translation: `translations/0948.md`
+- Latest summary: `summaries/beats/0948.md`
+- Safe profiles through: chapter 948
 
 ## Current Block
 
-- Taekyung and Jeok Cheongang realize the improved Temporary Strength Pill may poison Murim through an addictive drive for strength. Taekyung dispatches Nangong Family guides to alert the Nangong Family and Anhui’s City Lord, ordering a full investigation and tighter security. He uses his imperial rank and authority to make clear the City Lord must cooperate, and says the Murim Alliance’s Fire Dragon Pavilion and a thousand Embroidered Uniform Guards will arrive within a day or two.
-- In Hebei, Peng Cheolhu wakes from a rare deep sleep, learns that his eldest son and the family’s senior members have been in a meeting for two shichen, and orders word sent that he is coming.
+- Peng Cheolhu breaks up a brawl in the Hebei Peng Family’s conference room, where Family Head Peng Cheolyeong reports that at least ten thousand grassland troops are gathering and may be allied with Dark Heaven. The army is moving toward Shanxi, not Hebei, and is expected to arrive within seven days; the Jin Family of Taiyuan knows and is preparing for battle.
 
 ## Open Questions
 
