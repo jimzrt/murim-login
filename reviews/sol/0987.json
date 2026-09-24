@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "It was the fire dragon’s nest—the very essence of Scorching Yang Qi, born of the Fire Gate Clan’s martial arts.",
+      "defect": "The apposition makes the nest, rather than the fire dragon, sound like the essence of Scorching Yang Qi.",
+      "id": "F01",
+      "rationale": "The Heavenly Power Demon’s energy remains as the dragon’s nest; the dragon embodies the Fire Gate Clan’s Scorching Yang Qi.",
+      "replacement": "That energy served as the nest of the fire dragon, the very embodiment of Scorching Yang Qi born of the Fire Gate Clan’s martial arts.",
+      "severity": "major",
+      "source": "열화문의 무공으로 비롯된 열양지기(熱陽之氣), 그 자체라 할 수 있는 화룡의 둥지로서."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Everything passed on to me by the fire dragon’s massive body, which had felt like mine for a long time now.",
+      "defect": "“Passed on to me” suggests an inheritance or transfer rather than sensations reaching him through the dragon’s body.",
+      "id": "F02",
+      "rationale": "The surrounding lines concern wind and other sensations his consciousness perceives as real while inhabiting the dragon.",
+      "replacement": "Everything I felt through the fire dragon’s massive body, which had long since come to feel like my own.",
+      "severity": "major",
+      "source": "이제는 오래전부터 내 것처럼 느껴지게 된 화룡의 거대한 몸뚱어리로부터 전해지는 모든 것이."
+    },
+    {
+      "confidence": 0.94,
+      "current": "—Halt!",
+      "defect": "A forceful cry has become an order to stop.",
+      "id": "F03",
+      "rationale": "The source gives Jeok Cheongang a sharp, wordless shout that rouses the narrator; it does not tell him to halt.",
+      "replacement": "—Hah!",
+      "severity": "major",
+      "source": "- 갈(喝)!"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Now the pain went beyond agony, numbing my mind.\n\nAnd, as luck would have it—",
+      "defect": "The draft makes pain the thing numbing his mind and leaves the reason for his good fortune attached to what follows instead.",
+      "id": "F04",
+      "rationale": "The lightning containing the giant’s power numbs him; the narrator calls that numbness fortunate amid the ordeal.",
+      "replacement": "That lightning, holding everything the giant had been, was numbing my mind past the point of pain.\n\nLuckily for me.",
+      "severity": "major",
+      "source": "한 거인의 모든 것이 담긴 그것은 이제는 고통을 넘어 정신을 마비시키고 있었다.\n\n내게는 참으로 다행스럽게도."
+    }
+  ],
+  "summary": "Three actionable findings: one misidentifies the source of the dragon’s qi, one changes a shout into a command, and one obscures what is numbing the narrator’s mind.",
+  "version": 1
+}
