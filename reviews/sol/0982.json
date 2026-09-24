@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“That quack calling himself the Medicine King Hall Master is right for once. You just focus on recovering. The rest will be taken care of by the others.”",
+      "defect": "“Right for once” implies rare agreement; 백번 옳다 emphatically says the physician is right.",
+      "id": "F01",
+      "rationale": "Jeok Cheongang fully endorses the demand that Jin Wikyung rest, despite insulting the physician.",
+      "replacement": "“That quack they call the Medicine King Hall Master is absolutely right. You focus on recovering. The others will take care of the rest.”",
+      "severity": "major",
+      "source": "“약왕당주인지 뭔지 하는 저 돌팔이 말이 백번 옳다. 네 녀석은 몸이나 추스르고 있거라. 남은 일은 다른 놈들이 알아서 처리할 것인즉.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "But at their head stood a giant whom even Peng Cheolyeong, Family Head of the Hebei Peng Family, could not dare to stand before.",
+      "defect": "“Stand before” can suggest facing the giant rather than taking a position ahead of her.",
+      "id": "F02",
+      "rationale": "앞에 설 수 없는 establishes the Bow Saint’s precedence at the head of the returning force.",
+      "replacement": "But leading them was a giant whom even Peng Cheolyeong, Family Head of the Hebei Peng Family, would not dare step ahead of.",
+      "severity": "major",
+      "source": "그러나 그런 그들의 선두에는, 하북팽가의 가주인 팽철영조차 감히 앞에 설 수 없는 거인이 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Is that what you say to someone who came all this way to help you?”",
+      "defect": "The line drops both the journey of thousands of li and Jeong Hogun’s teasing claim to be Taekyung’s Benefactor.",
+      "id": "F03",
+      "rationale": "Both 수천 리 and 은인 are explicit, and the latter sets up Taekyung’s retort that he helped Jeong first.",
+      "replacement": "“Is that what you say to a Benefactor who traveled thousands of li to help you?”",
+      "severity": "major",
+      "source": "“그것이 수천 리 길을 마다하고 도우러 온 은인에게 할 말인가?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Wait… Why the hell didn’t you tell me sooner?”",
+      "defect": "The profanity moves into an adverb and drops Taekyung’s direct insult to Mujin.",
+      "id": "F04",
+      "rationale": "이 새끼야 is a direct, irritated address that punctures Taekyung’s solemn thoughts.",
+      "replacement": "“Wait… Why are you only telling me now, you bastard?”",
+      "severity": "minor",
+      "source": "“아니……. 그걸 왜 이제 말해, 이 새끼야.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You suddenly got this intense look in your eyes and struck a cool pose.”",
+      "defect": "A facial expression becomes a bodily pose.",
+      "id": "F05",
+      "rationale": "멋있는 표정을 짓고 refers to the expression on Taekyung’s face.",
+      "replacement": "“Well, you suddenly got this intense look in your eyes and started making a cool face.”",
+      "severity": "minor",
+      "source": "“그게 좀, 갑자기 눈에 힘주고 멋있는 표정을 짓고 계시길래.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The young chieftain who had once dreamed of uniting the vast steppe as its Great Khan submitted without a word of protest.",
+      "defect": "“Without a word of protest” replaces Temur’s defeated, strengthless manner with mere compliance.",
+      "id": "F06",
+      "rationale": "힘없이 characterizes how he submits, not whether he voices an objection.",
+      "replacement": "The young chieftain who had once dreamed of uniting the vast steppe as its Great Khan submitted helplessly.",
+      "severity": "minor",
+      "source": "한때 광활한 초원을 아우르는 대칸을 꿈꾸었던 젊은 부족장은 힘없이 복종했다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes one emphatic endorsement, obscures who leads the Hebei force, and loses several characterizing cues.",
+  "version": 1
+}
