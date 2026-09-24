@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 1010
-- Next chapter: 1011
-- Current block: 1010–1014 (1/5)
-- Latest translation: `translations/1010.md`
-- Latest summary: `summaries/beats/1010.md`
-- Safe profiles through: chapter 1010
+- Last completed: 1011
+- Next chapter: 1012
+- Current block: 1010–1014 (2/5)
+- Latest translation: `translations/1011.md`
+- Latest summary: `summaries/beats/1011.md`
+- Safe profiles through: chapter 1011
 
 ## Current Block
 
-- Taekyung decides to remain in Gansu after Ma Junggeol estimates that Dark Heaven could reach the region in about twenty days—or sooner by advancing directly. Under a worst-case estimate, the first battle could begin in one or two days.
-- The assembled force of nearly three thousand martial artists sets out. Taekyung’s new linked Quest, “Road of Blood,” tasks him with annihilating hostile forces in Gansu; failure means Dark Heaven wins and Gansu’s control is lost. On the march, Taekyung and Ma Junggeol trade barbed remarks while some leaders continue to treat Ma’s group as hostages.
+- Taekyung’s group assigns Ma Junggeol and the Seven Masters of Baekma Bang to the Fire Dragon Pavilion. Taekyung discovers he can detect and eavesdrop on nearby Sound Transmissions, overhears the brothers’ complaints and their worries about their benefactor—whom they call the Lord—and is confronted by Ma Junggeol when he realizes someone has been listening.
 
 ## Open Questions
 
-- Who was the unknown master who helped reform the Ningxia bandit leaders?
+- Who is the Lord who helped reform Ma Junggeol and his brothers, and is he currently mentally stable?
 - What is Dark Heaven’s full strength and objective in the western desert, and have its forces begun advancing?
+- Who was the unknown master who helped reform the Ningxia bandit leaders?
 
 ## Exceptional Decision
 
