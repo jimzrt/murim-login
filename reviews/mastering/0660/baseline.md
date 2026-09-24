@@ -1,0 +1,280 @@
+# Chapter 660
+
+“We’ve subdued them all. I struck their Sleep Acupoints as well, so they won’t regain consciousness for at least a day.”
+
+“…Good work.”
+
+Chief Jang nodded with a troubled expression as he listened to his warrior’s report.
+
+Song Ilseom and Hyuk Mujin lay motionless, and their figures were reflected in his eyes.
+
+“We don’t know what might happen, so keep a close watch on them. We’ll move again after resting for two shichen.”
+
+“Does that mean…?”
+
+“Yes. We’ll be traveling with them.”
+
+“Chief… Forgive me for speaking out of turn, but wouldn’t it be better to select a few warriors and escort the prisoners to the Inner Palace separately?”
+
+The warrior who had gathered up the courage to ask immediately regretted it. Chief Jang was staring at him without saying a word.
+
+“I’ll carry out your orders.”
+
+After answering hurriedly, the warrior turned and left.
+
+Chief Jang watched him go, then suddenly let out a sigh. The contents of the letter delivered by messenger eagle had come back to him once more.
+
+*Heugung and Yohi, two great chieftains, have gone missing, and the Western Yao Estate has been wiped out. And now they’re saying Jin Taekyung was responsible?*
+
+He had reread it several times because he could not believe what he was seeing.
+
+But the writing in the missive did not change, and Chief Jang had been left with only one choice.
+
+*I’m sorry, everyone.*
+
+Chief Jang repeated the apology silently, knowing it would never reach them. But they would understand soon enough. They would come to know that, under the circumstances, this had been the best course of action.
+
+*This was a thoroughly prepared plot. He was merely caught up in it unexpectedly.*
+
+Chief Jang did not believe the contents of the missive.
+
+Everything Jin Taekyung had shown until now resembled what the Han Chinese of the Central Plains called a Great Hero. If he had not risked his life fighting in the Poisonblood Grounds, more than two hundred warriors would never have returned to their families.
+
+Among those who had made it back alive were the warriors of the Zang people under Chief Jang’s command—and his own blood relatives.
+
+*And regardless of the debt I owe him, there isn’t even a proper justification for this.*
+
+Although Nanman and the Central Plains had fallen out after the Great Faction War, it was closer to one-sided hostility born from the immense sacrifices of that conflict.
+
+So what possible reason could Jin Taekyung, who had been sent to Nanman as the representative of the Murim Alliance, have had for causing such a tragedy?
+
+*Unless he intends to turn Nanman against him as well, on top of Dark Heaven…*
+
+But there was nothing he could do. The course of this incident had already fallen into Baeksang’s hands and those who followed him.
+
+However, the Palace Lord, the Beast Miao King, had secretly conveyed his intentions through a messenger eagle.
+
+> Hold the Han Chinese within the reconnaissance squad, but do not escort them to the Inner Palace.
+
+Chief Jang understood exactly what the Beast Miao King meant.
+
+*If we escort them to the Inner Palace, they’ll undoubtedly become hostages.*
+
+Fortunately, Chief Go, who was leading the reconnaissance squad alongside him, also followed the Beast Miao King. Since the two men shared the same opinion, they had their warriors subdue the three of them.
+
+Not as hostages, but so they could keep them in their hands and protect them somehow.
+
+The circumstances had also worked in their favor. They were already traveling to keep watch for an old monster known as the Blood Monk.
+
+Since it was effectively a wartime situation, even if Baeksang’s faction learned about this, there was nothing they could use against them.
+
+*So please bear with it for a little while. At least until everything is resolved.*
+
+Chief Jang muttered inwardly and stepped toward the two men who were being carried away by the warriors, unconscious.
+
+He intended to loosen their bindings a little, as an apology.
+
+“Stop for a moment. Aren’t those ropes tied too tightly?”
+
+“Chief! You can’t!”
+
+“What do you mean, I can’t? It’s fine—”
+
+Squelch.
+
+Ignoring the warriors’ cries, Chief Jang reached behind Hyuk Mujin’s back, then suddenly frowned.
+
+*What is this?*
+
+A damp, sticky sensation.
+
+Then came a foul stench, followed by a warrior’s voice.
+
+“Uh. There was… feces on his back.”
+
+“…!”
+
+“That’s why we told you not to come any closer…”
+
+The warrior’s voice trailed off. Chief Jang silently looked back and forth between his hand and Hyuk Mujin, then spoke in a low voice.
+
+“The prisoner might shit more—no, escape. Tighten the ropes.”
+
+“Yes, Chief.”
+
+* * *
+
+In the modern world, I had been a model citizen with a strong sense of civic duty.
+
+Until middle school, whenever the traffic light turned green, I would raise my hand high and cross the street. After becoming a Hunter, I paid all my insurance premiums and taxes on time, without ever delaying a payment or evading a cent.
+
+I did not even complain much about the national pension, despite how little I would receive by the time I grew old.
+
+*In short, prison and I had never had anything to do with each other.*
+
+And yet, why was it that in the Murim, I had grown increasingly familiar with a place called an underground prison despite never committing a crime?
+
+It had been the same at the Jin Family of Taiyuan when I was still an aspiring martial artist. At the Sichuan Tang Clan, I had even spent several days there to stand guard beside Jeok Cheongang.
+
+This was my third visit to an underground prison, but it was quite different from the previous two.
+
+*At the Jin Family of Taiyuan, it was practically a training hall rather than a prison. At the Sichuan Tang Clan, I was there to care for Jeok Cheongang.*
+
+This time was different.
+
+Not only was I imprisoned against my will, but anyone would have thought as I did if iron balls weighing more than a thousand geun each were hanging all over their body like accessories.
+
+Clank.
+
+“…Fuck, this is heavy.”
+
+I muttered a curse. The enormous chains binding my limbs and the iron balls attached to them were unbelievably heavy.
+
+Even I, who possessed Strength far beyond human limits, could barely move.
+
+*If I could only use my internal energy, I might be able to think of some way out of this…*
+
+Maybe I shouldn’t have punched him at the end.
+
+I felt a pang of regret, but if Baeksang had been that easy to deal with, I would have been in my quarters instead of an underground prison by now.
+
+Besides, even after taking a punch to the face hard enough to break his nose, Baeksang had personally bound me as I stood there without so much as batting an eye or resisting, then issued this order to the tribal chieftains under his command:
+
+*“Lock the Han Chinese Jin Taekyung in the underground prison and bind him with ten thousand geun of weight.”*
+
+And this was the result.
+
+I had been thrown into the deepest part of the Nanman Beast Palace’s underground prison, then given a special pill that left me unable to use my internal energy for several days.
+
+*At least I should be grateful they didn’t use a Pressure-Point Strike on me.*
+
+The reason they had been unable to strike my acupoints was simple.
+
+They kept coming undone.
+
+My perfect body, which had been recognized as a Heavenly Martial Physique by countless powerful masters, had simply performed its function to the fullest.
+
+Of course, that did not mean my attempts to raise my internal energy had succeeded.
+
+“Ungh.”
+
+I poured all my strength into my body, then took a deep breath and focused my mind on my lower dantian, just as I had done hundreds and thousands of times before.
+
+The next moment, the System alert I had been forced to hear repeatedly for the past half a day pierced my ears again.
+
+Beep.
+
+> **System**
+>
+> - The energy of the **Force-Sealing Pill** is blocking your dantian!
+> - You cannot use **internal energy**!
+
+“Ah.”
+
+I had lost track of how many times I had failed.
+
+After passing fifty attempts, I had given up counting.
+
+“…Damn it.”
+
+Just as I let my body sag with a curse mixed into my sigh, someone’s footsteps began approaching from far away.
+
+Step. Step.
+
+The sound echoed through the damp, dark space.
+
+The Force-Sealing Pill kept me from using my internal energy for the moment, but my physical senses remained as sharp as ever.
+
+I raised my head and looked toward the murky darkness beyond the bars.
+
+Splash.
+
+The footsteps stopped in front of the iron bars. At the same time, the filthy water pooled on the floor splashed against my knees.
+
+There was not a single light in the darkness, but my eyesight—good enough to rival a Mongolian’s—was more than sufficient to identify the other person.
+
+“What is it? Are you a new jailer?”
+
+“…”
+
+“You’ve got no basic manners. You splash dirty water on someone the moment you arrive, then don’t even answer when spoken to.”
+
+The unwelcome visitor looking down at me in silence, Baeksang, replied in a low voice.
+
+“For a criminal, you complain quite a lot.”
+
+“Well, this much is practically cute.”
+
+I tried to shrug, then flinched at the weight of the iron balls before continuing.
+
+“Somebody’s nose bone collapsed, and he still held out pretty well. Wouldn’t you say?”
+
+I could see Baeksang’s brow furrow in the darkness. The bandage wrapped around his straight, prominent nose was visible as well.
+
+“That must have hurt quite a bit. You took it better than I expected. Honestly, you shed a single tear after sending me to prison, didn’t you?”
+
+But his agitation lasted only a moment. Baeksang’s calm voice returned.
+
+“It tickled. Perhaps because I sensed fear in your punch.”
+
+“What?”
+
+“It contained no internal energy, and it was not a full-force blow. It was nothing more than a child’s fit of frustration.”
+
+“…”
+
+“I understand. You must have been afraid. If you had given it everything you had, neither you nor your subordinates would have remained unharmed.”
+
+*Damn. I got absolutely screwed in that exchange.*
+
+His one sentence had struck the exact center of the target. I had been about to say something in reply, but I closed my mouth.
+
+Baeksang’s eyes remained as calm and unwavering as ever as he watched me.
+
+“Why didn’t you leave that place? If you had fled alone, you might have survived.”
+
+I answered with an incredulous expression.
+
+“You said you’d cast a net over heaven and earth, you bastard.”
+
+“Of course, I would have done so. But there was still a sufficient possibility. At the very least, the Palace Lord would not have pursued you. No—he might even have interfered.”
+
+Baeksang’s guess was not baseless.
+
+Judging from everything I had seen and experienced of the Beast Miao King, and from what I had heard directly from Jeok Cheongang, he was more than capable of doing exactly that.
+
+He was the kind of person who would throw out a lifeline at least once in the worst possible situation.
+
+But I did not foolishly nod along.
+
+It might already have been too late, but if I readily admitted that fact in front of Baeksang, his wariness toward the Beast Miao King would only grow stronger.
+
+“I don’t know. I didn’t get that impression. We aren’t even particularly close.”
+
+“You’re putting that head of yours to work. But you’re still far too green.”
+
+“Whether you believe me or not is up to you. Be grateful Old Master isn’t here right now. In two or three months, your head will be rolling around here.”
+
+“You really are still a child who hasn’t outgrown his impetuousness.”
+
+I let out a short laugh.
+
+“Your mouth reeks of shit. Stop sucking Dark Heaven’s asshole. At least I’m here to protect my people.”
+
+“…”
+
+“No one else is around, so let’s be honest. You know too, don’t you? You know what you’re doing right now.”
+
+This time, Baeksang was the one who fell silent.
+
+Of course, he had no choice. Cooperating with Dark Heaven meant taking all of Nanman and offering it up to the Lord of Heaven.
+
+“You betrayed even your sworn brother of several decades. You deceived more than thirty tribal chieftains and countless Nanman people. No matter what excuse you make, none of this can be justified.”
+
+At that moment, Baeksang, who had been watching me with a deep, unreadable gaze, suddenly spoke.
+
+“Two days.”
+
+“What?”
+
+“Two days. At noon, two days from now. You will be executed in front of everyone.”

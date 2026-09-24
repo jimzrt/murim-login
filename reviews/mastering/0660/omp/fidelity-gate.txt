@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is largely faithful, but it omits Chief Jang’s troubled expression and nod after hearing the report.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 9",
+      "current": "Song Ilseom and Hyuk Mujin lay motionless, and their figures were reflected in his eyes.",
+      "defect": "The preceding source sentence says Chief Jang nods with a troubled expression after hearing his warrior’s report. That action and characterization are omitted from the assembled English; the accepted baseline preserved them.",
+      "replacement": "Chief Jang nodded with a troubled expression as he listened to his warrior’s report. Song Ilseom and Hyuk Mujin lay motionless, and their figures were reflected in his eyes.",
+      "rationale": "The source explicitly states that he nods and has a troubled expression (착잡한 얼굴로 고개를 끄덕였다).",
+      "confidence": 0.99
+    }
+  ]
+}

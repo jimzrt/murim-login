@@ -4,7 +4,7 @@
 
 “…Good work.”
 
-Song Ilseom and Hyuk Mujin lay motionless, and their figures were reflected in his eyes.
+Chief Jang nodded at his warrior’s report, his expression troubled. Song Ilseom and Hyuk Mujin lay motionless before him.
 
 “We don’t know what might happen. Keep a close watch on them. We’ll rest for two shichen[^1] and then move out.”
 
@@ -42,7 +42,7 @@ Nanman and the Central Plains had fallen out after the Great Faction War, but th
 
 But Chief Jang could do nothing about the accusation now. Baeksang and his faction had already seized control of the situation.
 
-However, the Palace Lord, the Beast Miao King, had secretly conveyed his intentions through a messenger eagle.
+The Palace Lord, however, had secretly sent his own instructions by messenger eagle.
 
 > Detain the Han Chinese in the reconnaissance squad, but do not escort them to the Inner Palace.
 
@@ -50,7 +50,7 @@ Chief Jang understood exactly what the Beast Miao King meant.
 
 *If we take them to the Inner Palace, they’ll surely end up as hostages.*
 
-Fortunately, Chief Go, who was leading the reconnaissance squad alongside him, also followed the Beast Miao King. Since the two men shared the same opinion, they had their warriors subdue the three of them.
+Fortunately, Chief Go, who led the reconnaissance squad alongside him, was also loyal to the Beast Miao King. The two agreed to have their warriors subdue Jin’s three companions—not to take them hostage, but to keep them in their own custody and protect them however they could.
 
 The timing helped. They were already on the move to watch for an old monster known as the Blood Monk. With a threat like that looming, Baeksang’s faction could hardly use their decision to keep the prisoners with the squad against them.
 
@@ -88,7 +88,7 @@ His voice trailed off. Chief Jang looked from his hand to Hyuk Mujin and back ag
 
 In the modern world, I’d been a model law-abiding citizen.
 
-Until middle school, whenever the traffic light turned green, I would raise my hand high and cross the street. After becoming a Hunter, I paid all my insurance premiums and taxes on time, without ever delaying a payment or evading a cent.
+Until middle school, whenever the light turned green, I’d raise my hand high before crossing the street. After becoming a Hunter, I paid every insurance premium and tax bill on time. No late payments, no tax evasion.
 
 I barely even complained about the national pension, though I’d get next to nothing from it when I grew old.
 
@@ -102,7 +102,7 @@ This was my third visit, and it was nothing like the other two.
 
 *At the Jin Family of Taiyuan, it was practically a training hall. At the Sichuan Tang Clan, I was there for Jeok Cheongang’s treatment.*
 
-Not only was I imprisoned against my will, but anyone would have thought as I did if iron balls weighing more than a thousand geun each were hanging all over their body like accessories.
+This time, I’d been locked up against my will. And with iron balls weighing over a thousand geun each dangling from my body like accessories, anyone would have felt the difference.
 
 Clank.
 
@@ -120,17 +120,17 @@ Besides, even after I’d punched him hard enough to break his nose, he hadn’t
 
 *“Lock the Han Chinese Jin Taekyung in the underground prison and bind him with ten thousand geun of weight.”*
 
-And this was the result.
+Hence the iron balls.
 
 They’d put me in the deepest part of the Nanman Beast Palace’s underground prison and given me a special pill that would keep me from using my internal energy for several days.
 
-*At least I should be grateful they didn’t use a Pressure-Point Strike on me.*
+*At least they couldn’t use a Pressure-Point Strike on me.*
 
 The reason was simple.
 
 My acupoints kept coming undone.
 
-My perfect body, which had been recognized as a Heavenly Martial Physique by countless powerful masters, had simply performed its function to the fullest.
+My perfect body—recognized as a Heavenly Martial Physique by Jeok Cheongang and plenty of other powerful masters—was doing its job.
 
 That didn’t mean I’d had any luck getting my internal energy to flow again.
 
@@ -179,7 +179,7 @@ I tried to shrug, flinched under the weight of the iron balls, and went on.
 
 “Someone else had his nose broken and took it pretty well. Didn’t he?”
 
-I could see Baeksang’s brow furrow in the darkness. The bandage wrapped around his straight, prominent nose was visible as well.
+I could see Baeksang’s brow tighten in the dark, along with the bandage wrapped around his straight nose.
 
 “That must’ve hurt. You held up better than I expected. Be honest—you shed a tear after sending me down here, didn’t you?”
 
@@ -193,7 +193,7 @@ His reaction lasted only a moment. His voice was calm when he answered.
 
 “…”
 
-“I understand. You must have been afraid. If you had given it everything you had, neither you nor your subordinates would have remained unharmed.”
+“I understand. You were afraid. If you’d gone all out, neither you nor your subordinates would have come through unharmed.”
 
 *Shit. I lost that exchange badly.*
 
@@ -203,7 +203,7 @@ Baeksang watched me, his gaze as steady as ever.
 
 “Why didn’t you leave? If you’d fled alone, you might at least have saved your life.”
 
-I answered with an incredulous expression.
+I stared at him.
 
 “You said you’d cast a net over heaven and earth, you bastard.”
 
@@ -211,7 +211,7 @@ I answered with an incredulous expression.
 
 Baeksang wasn’t making a wild guess. From what I’d seen of the Beast Miao King, and what Jeok Cheongang had told me, he was exactly the sort of man who might throw me a lifeline when things were at their worst.
 
-It might already have been too late, but if I readily admitted that fact in front of Baeksang, his wariness toward the Beast Miao King would only grow stronger.
+But I wasn’t stupid enough to agree. Maybe it was already too late, but admitting it to Baeksang would only make him more wary of the Beast Miao King.
 
 “I don’t know about that. We’re not even particularly close.”
 
@@ -227,7 +227,7 @@ I let out a short laugh.
 
 “…”
 
-“No one else is around, so let’s be honest. You know too, don’t you? You know what you’re doing right now.”
+“There’s no one else around. Let’s be honest. You know what you’re doing, don’t you?”
 
 This time, Baeksang fell silent.
 
@@ -235,7 +235,7 @@ Of course he did. By working with Dark Heaven, he was handing all of Nanman over
 
 “You betrayed a sworn brother you’ve known for decades. You deceived more than thirty tribal chieftains and countless people of Nanman. There’s no excuse that could justify any of it.”
 
-At that moment, Baeksang, who had been watching me with a deep, unreadable gaze, suddenly spoke.
+Baeksang studied me with a deep, unreadable gaze. Then he spoke.
 
 “Two days.”
 
