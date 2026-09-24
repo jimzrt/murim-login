@@ -4,11 +4,11 @@ The grief of losing someone precious never disappears. Time only wears it down, 
 
 In that sense, the past week had been exactly what Team Leader Choi needed to gather himself.
 
-“He’ll rest peacefully. Butler Kim will. But we’ll be even busier from now on, won’t we?”
+“He’ll rest peacefully. Butler Kim will. But we’ll be even busier from now on.”
 
 Those quiet words told me he was ready.
 
-Ready to rise while keeping the person who had left us in his heart. Ready to start walking forward again.
+Ready to rise with the man he’d lost still in his heart. Ready to move forward again.
 
 So now I could tell him.
 
@@ -40,7 +40,7 @@ When I finished, Team Leader Choi murmured, “I suspected as much… So it was 
 
 That wasn’t the reaction I’d expected. As I stared at him, he asked, “Does anyone else know about this, Mr. Jin?”
 
-“Uh, I think Go Se-won and I are the only ones. We temporarily blocked the sound, and we covered our mouths while speaking.”
+“Uh, I think it’s just Go Se-won and me. I blocked the sound for a while, and he covered his mouth when he spoke.”
 
 “I thought you said the President’s Security Service accompanied you.”
 
@@ -66,7 +66,7 @@ He added evenly, “There are three of us, not four.”
 
 “The man who told me died recently. At one time, he was as close to Ares Guild’s darkest secrets as Go Se-won.”
 
-As far as I knew, there couldn’t have been many people like that. In fact, there had been so few since Ares Guild’s founding that they could be counted on one hand.
+As far as I knew, there had never been many people like that. You could count them on one hand.
 
 *And if he died recently…*
 
@@ -98,13 +98,13 @@ Then Team Leader Choi spoke, and every thought vanished.
 
 “What?”
 
-“The purpose of the other secret area is to hide my maternal grandfather’s existence from the world.”
+“The other secret area exists to hide my maternal grandfather from the world.”
 
 “…!”
 
 * * *
 
-Even as the wind blew and clouds drifted slowly overhead, I couldn’t move for a long while.
+How long did I stand there? The wind blew, and clouds drifted slowly overhead, but I couldn’t move.
 
 *This is insane.*
 
@@ -130,15 +130,15 @@ Team Leader Choi gave me a look that said *Are you an idiot?* before answering.
 
 While I stood there speechless, Team Leader Choi hit me with another home run.
 
-“I heard he lost consciousness more than twenty years ago. Lee Jungryong and Song Cheonwoo concealed that fact and kept it secret all this time.”
+“He lost consciousness more than twenty years ago. Lee Jungryong and Song Cheonwoo covered it up and have kept it secret ever since.”
 
-“…He lost consciousness? Cheon Taemin? I mean… *the* Cheon Taemin?”
+“…Lost consciousness? Cheon Taemin? I mean, *he* did?”
 
 Humanity’s immortal hero. The Slayer.
 
 Cheon Taemin, the man who had defeated even the Demon King Asmodeus, was in a vegetative state.
 
-That was harder to believe than Jin-ho hyung passing the civil service exam or Hyuk Mujin becoming the Murim Alliance Leader.
+That was harder to believe than Jin-ho passing the civil service exam or Hyuk Mujin becoming the Murim Alliance Leader.
 
 *How is that possible?*
 
@@ -148,9 +148,9 @@ A flawless man of absolute power. That power was why he was called the immortal 
 
 And now I was supposed to believe he’d spent decades in a vegetative state—even in a world with cutting-edge medicine and magical treatments?
 
-*Something stinks.*
+*Something’s off.*
 
-It seemed that thought had shown plainly on my face. Before I could say anything, Team Leader Choi shook his head.
+It must have shown on my face. Before I could say anything, Team Leader Choi shook his head.
 
 “I don’t think Lee Jungryong or Song Cheonwoo did this to him.”
 
@@ -160,13 +160,13 @@ It seemed that thought had shown plainly on my face. Before I could say anything
 
 “…Right. Fair point.”
 
-“The important thing is that my maternal grandfather is hidden in another secret area within Area A. And no one except those three knows about it. Not even the government, despite its thorough investigation of Area A.”
+“What matters is that my grandfather is hidden in another secret area inside Area A. And no one but the three of us knows. Not even the government team searching Area A.”
 
 I thought of President Baek Hanseong, who had stood beside me throughout the national funeral. If anyone knew how to hide what they were thinking, it was a politician.
 
 “Are you sure?”
 
-“This isn’t a simple guess. It’s a certainty based on information. Several key insiders within the government investigation team sent to the site have already joined forces with us.”
+“This isn’t a guess. I have information. Several key members of the government investigation team at the site have already joined forces with us.”
 
 “…!”
 
@@ -182,7 +182,7 @@ After the life-or-death crisis in Sichuan and the grief he’d suffered in Pyeon
 
 “The investigation is expected to last at least a month. What would you do, Mr. Jin?”
 
-“We’d have to stop the government’s investigation first. To secure that person while avoiding suspicion.”
+“Stop the government investigation first. We’d need to get him out without raising suspicion.”
 
 “And the fastest way to stop it?”
 
@@ -194,15 +194,13 @@ Team Leader Choi reached out and ran his hand over the memorial.
 
 “I made Butler Kim a promise once.”
 
-The impregnable fortress surrounding the royal castle had collapsed miserably, and the prince who had been stripped of his right to inherit the throne and sent into exile had finally returned after a long passage of time.
+The royal castle behind its impregnable defenses had fallen in ruins. The prince, stripped of his right to inherit and sent into exile, had finally returned after all those years.
 
 To reclaim the crown stolen from him long ago.
 
 “I promised I would make Ares Guild mine. No matter what.”
 
-His deeply sunken eyes gleamed.
-
-Team Leader Choi stared at the name of the late Kim Hwajong, carved highest of all, then turned toward me.
+A light shone in his somber eyes. He looked at the name carved highest on the memorial—*the late Kim Hwajong*—then turned to me.
 
 “Will you help me?”
 
@@ -230,7 +228,7 @@ I’d heard that name often enough in the news lately to know who he was calling
 
 *The most senior executive left at Ares Guild.*
 
-With Vice Guild Master Go Jun dead and most of the executives who held real power dragged in for questioning by the prosecutors’ office after Go Se-won’s revelations, he was the man who had inadvertently become Ares Guild’s acting head.
+With Vice Guild Master Go Jun dead and most of the executives who held real power summoned by the prosecutors’ office after Go Se-won’s revelations, Park Daewon had ended up as Ares Guild’s acting head almost by accident.
 
 “Yes, I’m listening. Team Leader Choi Minwoo—no, Mr. Choi Minwoo.”
 
@@ -244,21 +242,21 @@ Park’s voice sounded grim through the phone. Team Leader Choi answered gently.
 
 “What?”
 
-“I’ll come to the headquarters myself. When I open the conference room door and walk in, I want all the executives—including you, Vice President Park—to be there.”
+“I’ll come to headquarters myself. When I walk into the conference room, I want every executive there, including you, Vice President Park.”
 
 “P-please wait. I still need more time…”
 
-“Six o’clock this evening. You still have three hours, so that should be plenty of time. Goodbye.”
+“Six o’clock. That gives you three hours, which should be plenty. Goodbye.”
 
 *Click.*
 
 *What the hell was that?*
 
-I stared dumbfounded at Team Leader Choi as he hung up without hesitation. He spoke as though nothing unusual had happened.
+I stared at him as he hung up without a moment’s hesitation. He looked back at me as though nothing unusual had happened.
 
 “You heard the conversation, so I assume you have a rough idea of the situation. Let’s go.”
 
-“Right now? Leaving everything else aside, you said there are still three hours.”
+“Right now? You just said we have three hours.”
 
 “I’m holding a press conference too.”
 

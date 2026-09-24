@@ -1,0 +1,15 @@
+{
+  "summary": "One minor specificity narrows the source’s deliberately broad opening line.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean source, line 5",
+      "current": "losing someone precious",
+      "defect": "The English specifies that the precious thing lost is a person, while the Korean says “something precious” and does not specify what was lost.",
+      "replacement": "losing something precious",
+      "rationale": "The source uses the broad noun 것, and the accepted baseline preserves that breadth. The following reference to a departed person does not require narrowing the opening statement.",
+      "confidence": 0.87
+    }
+  ]
+}
