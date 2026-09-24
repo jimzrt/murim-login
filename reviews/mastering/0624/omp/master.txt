@@ -24,7 +24,7 @@ We followed Yayul Mok and his subordinates across grasslands, through jungles, a
 
 Ju Hwaran, riding to my right, answered my mutter.
 
-“One mountain holds four seasons, and ten li bring a different sky.[^1] It’s a saying that describes Nanman’s unpredictable nature quite well.”
+“One mountain holds four seasons, and ten li bring a different sky. It’s a saying that captures how changeable Nanman is.”
 
 “Having seen it for myself, I can’t argue. Young Lady Ju, what made you take an escort job to a place like this?”
 
@@ -78,7 +78,7 @@ There was nothing I could say to that. I shut my mouth, and Namho smiled with th
 
 “It’s good news for Dark Heaven. The Murim Alliance’s foremost young prodigy came to propose an alliance, asked the Young Palace Lord of the Nanman Beast Palace whether he had a grandfather, and called Nanman a cursed land. Come to think of it, are you with Dark Heaven?”
 
-“Do I look like a member of Dark Heaven?”
+“Do I look like I am?”
 
 “No. But I’ll admit I’m starting to wonder. Enough nonsense. What’s this good news I haven’t heard?”
 
@@ -88,7 +88,7 @@ I answered with confidence. “We’ll be at the Nanman Beast Palace soon.”
 
 “Hey, don’t swear.”
 
-“Do I look like I can help swearing right now? That A-Gwi bastard they call Taishan—or Geumsugangsan or whatever his name is—is one problem, but in my opinion, you’re no less troublesome, Pavilion Master. You’re already acting like this before we arrive. What are you going to do if your particular brand of insanity flares up when you actually come face-to-face with the Beast Miao King?”
+“How am I supposed to keep from swearing? That A-Gwi bastard they call Taishan—or Geumsugangsan, or whatever his name is—is trouble enough. But you’re no better, Pavilion Master. This is what you’re like *before* we arrive. What will you do if that particular brand of insanity of yours flares up when you meet the Beast Miao King?”
 
 “‘Insanity’ is a bit harsh. I may look reckless, but I know when I can stretch my legs. And Taishan may be lacking in certain areas, but he’s a major asset. When the time comes, he’ll pull his weight. You don’t need to worry so much.”
 
@@ -108,7 +108,7 @@ At that moment, a mournful animal cry rose behind us, followed by a frantic shou
 
 I glanced back as we rode, then added, “Of course, his appetite is a problem.”
 
-“For fuck’s sake. There’s appetite, and then there’s appetite. Is that thing a beast or a person?”
+“For fuck’s sake. There’s appetite, and then there’s *that*. Is he a beast or a person?”
 
 I couldn’t argue. Lately, I’d begun to suspect Taishan might be some unknown creature occupying the space between human and beast.
 
@@ -156,9 +156,7 @@ Mujin kept looking around as he asked, “What?”
 
 “Now that you get it, close your mouth and stop gawking. We’re attracting enough attention already.”
 
-Judging by the settlement immediately visible before us and its sheer size, the Outer Hall alone probably contained several thousand households.
-
-Moreover, the Nanman Beast Palace was located in the deepest part of Nanman, and outsiders were strictly forbidden from entering. Naturally, we stood out like a handful of pebbles among them.
+Judging by the size of the settlement in front of us, the Outer Hall alone must have held thousands of households. The Nanman Beast Palace lay deep within Nanman and strictly barred outsiders. A small group like ours was bound to stand out among so many residents.
 
 Quite a few of them were probably seeing Han Chinese for the first time.
 
@@ -168,7 +166,7 @@ Making a fuss wouldn’t help us, especially with the mood like this.
 
 “Shh. Don’t even make eye contact. Haven’t you heard what happened in the north? A bunch of Han Chinese slaughtered an entire Miao village. Those people might be with them.”
 
-“Of course I heard about it. But what could those bastards possibly do here? They look like the Young Palace Lord captured them.”
+“Of course I heard. But what could they do here? It looks like the Young Palace Lord caught them.”
 
 “They don’t look like prisoners to me… Anyway, what brings Han Chinese all the way here?”
 
@@ -180,9 +178,9 @@ Their languages varied as much as their clothing and appearances. Hwaran, Namho,
 
 “It happened only a few days ago. Tribes clash dozens of times a year, but an incident involving outsiders might happen once in a decade, if that. Of course word spread quickly.”
 
-If we had built up a good reputation, we might have been welcomed wherever we went. But the massacre of the Miao village about a month earlier had produced the exact opposite result.
+If Han Chinese had built up a good reputation here, we might have been welcomed wherever we went. Instead, the massacre of a Miao village about a month ago had produced the opposite result.
 
-“Those lunatics. The Heavenly Demon Escort Bureau, or whatever they were called. Why did they have to commit such an atrocious crime in Nanman of all places…?”
+Mujin hunkered down and grumbled. “Those lunatics. The Heavenly Demon Escort Bureau, or whatever they called themselves. Why commit something so vile in Nanman of all places…?”
 
 “I wonder. Why did they?”
 
@@ -190,7 +188,7 @@ Sama Pyo had cut in. He continued in an amused tone. “And why now, of all time
 
 Song Ilseom answered evenly. “Yes, but no.”
 
-“……What does ‘yes, but no’ mean?”
+“…What does that mean?”
 
 “It means that whatever I may think, I don’t want to talk to you. So don’t.”
 
@@ -208,9 +206,9 @@ Coincidence or design, the timing of the massacre was suspicious. It was too ear
 
 Before meeting Yayul Mok, I’d been a little worried. No, very worried. I’d feared that Dark Heaven’s scheme had already begun and the Nanman Beast Palace had become a hellscape.
 
-Of course, our image as Han Chinese had plummeted to the level of a pro-Japanese corporation, but the mere fact that nothing had happened yet was more than enough.
+Granted, the reputation of Han Chinese had plunged to the level of a pro-Japanese corporation. But if nothing had happened to the palace yet, that was enough.
 
-*Even if we have to take some abuse, this is much better.*
+*I’d much rather take a few insults.*
 
 As I thought that, a strange sense of déjà vu made me lift my head.
 
@@ -227,5 +225,3 @@ I knew who he was before he opened his mouth.
 *The Beast Miao King.*
 
 It was him.
-
-[^1]: A traditional saying describing Nanman’s rapid shifts in climate and weather.

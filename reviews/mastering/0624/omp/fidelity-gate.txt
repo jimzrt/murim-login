@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is broadly faithful, but one idiom loses its meaning and two smaller details are altered or omitted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 109",
+      "current": "I know when I can stretch my legs.",
+      "defect": "This does not convey the Korean idiom’s point: he assesses the situation before acting and does not overreach. The current wording suggests knowing when he can relax or extend his legs.",
+      "replacement": "I may look reckless, but I know when to pick my battles.",
+      "rationale": "“누울 자리는 보고 발을 뻗습니다” means to judge the circumstances before acting.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 169",
+      "current": "People were haggling at what looked like a market on one side of the street.",
+      "defect": "“The street” adds a specific location not established in the source.",
+      "replacement": "People were haggling at what looked like a market on one side.",
+      "rationale": "The Korean says only that a market seemed to be underway “on one side”; it does not mention a street.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 71",
+      "current": "Namho and I exchanged a look before I asked, “Did you study Han Chinese?”",
+      "defect": "The exchange loses the source’s indication that their glance was meaningful or knowing.",
+      "replacement": "Namho and I exchanged a meaningful look before I asked, “Did you study Han Chinese?”",
+      "rationale": "The source says they exchanged “의미심장한 눈빛,” a meaningful or significant look.",
+      "confidence": 0.91
+    }
+  ]
+}
