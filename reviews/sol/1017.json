@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Don’t go telling people how to run their own territory.",
+      "defect": "Changes a complaint about making demands in someone else’s territory into one about directing its governance.",
+      "id": "F01",
+      "rationale": "감 내놔라, 배 내놔라 evokes demanding one thing after another.",
+      "replacement": "Don’t go demanding this and that in someone else’s territory.",
+      "severity": "major",
+      "source": "남의 구역에서 감 내놔라, 배 내놔라 하지 마라."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Of course, there was one person who kept watching the whole scene without so much as twitching an eyebrow.",
+      "defect": "Omits the contrast with the preceding sentence: unlike the Wind-and-Cloud Sword Lord, this person did not back down.",
+      "id": "F02",
+      "rationale": "아니었지만 makes this watcher the exception to having to retreat.",
+      "replacement": "But not the one who had watched it all without so much as twitching an eyebrow.",
+      "severity": "major",
+      "source": "물론, 또 눈썹 하나 까딱하지 않은 채 이 모든 광경을 지켜보던 누군가는 아니었지만."
+    },
+    {
+      "confidence": 0.99,
+      "current": "In a courtyard surrounded by perpetual snow, what mosquito was going to freeze to death?",
+      "defect": "Treats 마당에 as a physical courtyard and 얼어 죽을 as a claim that a mosquito would freeze, losing the narrator’s dismissive punchline.",
+      "id": "F03",
+      "rationale": "마당에 means ‘given the circumstances’ here; 얼어 죽을 emphatically dismisses the idea of a mosquito.",
+      "replacement": "With perennial snow on the ground, what damn mosquito?",
+      "severity": "major",
+      "source": "만년설(萬年雪)이 끼어 있는 마당에 모기는 무슨 얼어 죽을."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“With you here beside us, what could an army of a thousand matter to us?”",
+      "defect": "Makes the army sound like a threat they can withstand rather than a force they do not need because Jeok is with them.",
+      "id": "F04",
+      "rationale": "천군만마가 대수겠습니까 credits the senior’s presence as worth an army.",
+      "replacement": "“With you here beside us, who needs an army?”",
+      "severity": "major",
+      "source": "저희야 노선배께서 함께 계시니, 천군만마가 대수겠습니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Jeok Cheongang seemed less than pleased. He glanced at me with a frown and spoke.",
+      "defect": "Presents his frown as sincere displeasure rather than a deliberate show.",
+      "id": "F05",
+      "rationale": "짐짓 marks the frown as affected.",
+      "replacement": "Jeok Cheongang looked at me, put on a frown, and spoke.",
+      "severity": "minor",
+      "source": "나를 보며 짐짓 눈살을 찌푸린 적천강이 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The meeting wrapped up in less than fifteen minutes.",
+      "defect": "Makes fifteen minutes the meeting’s total duration instead of the time remaining after this exchange.",
+      "id": "F06",
+      "rationale": "그 후 and 더 both specify additional time.",
+      "replacement": "After that, the meeting wrapped up in less than another fifteen minutes.",
+      "severity": "critical",
+      "source": "그 후, 회의는 불과 일각도 더 이어지지 않고 마무리되었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Of course. I suddenly needed to take a piss, so I didn’t hear him out.”",
+      "defect": "Turns Jeok’s euphemism into explicit profanity.",
+      "id": "F07",
+      "rationale": "소피 is a restrained euphemism for urination, not the blunt equivalent of ‘take a piss.’",
+      "replacement": "“Of course. I suddenly had to relieve myself, so I didn’t hear him out.”",
+      "severity": "major",
+      "source": "갑자기 소피가 급해서 듣지 못했지만."
+    }
+  ],
+  "summary": "Several lines alter the nature of the dispute, the timing of the meeting, or a speaker’s register; others lose pointed characterization.",
+  "version": 1
+}
