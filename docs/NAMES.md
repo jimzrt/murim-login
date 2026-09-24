@@ -2457,3 +2457,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 쇄월검진 | **Moon-Shattering Sword Formation** | Named sword formation of the Zhongnan Sect. |
 | 백마방 | **Baekma Bang** | Ma Junggeol’s horse-caravan group, founded by reformed mounted-bandit leaders. |
 | 백마칠종 | **Seven Masters of Baekma Bang** | Collective title for Ma Junggeol and his six associates. |
+| 돈황 | **Dunhuang** | City identified as the foremost defensive line in Gansu. |

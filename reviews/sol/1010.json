@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Do you think we’re horse caravans for nothing?",
+      "defect": "Omits Ma Junggeol’s slip from “mounted bandits” to “horse caravans,” losing a revealing comic beat.",
+      "id": "F01",
+      "rationale": "He starts to call his group 마적, then corrects himself to 마방.",
+      "replacement": "Do you think we’re mounted bandits—no, horse caravans—for nothing?",
+      "severity": "major",
+      "source": "저희가 괜히 마적, 아니 마방(馬房)이겠습니까?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even now, half the leaders still suspected Ma Junggeol and the other horse-caravan men, and had effectively taken them hostage. Yet he was acting so carefree.",
+      "defect": "Changes “some leaders” into “half the leaders” and shifts “half-hostage” from Ma Junggeol’s condition to an apparently complete hostage-taking.",
+      "id": "F02",
+      "rationale": "몇몇 modifies the leaders; 반쯤 modifies his hostage-like status.",
+      "replacement": "Even now, at the strong insistence of a few leaders who still suspected Ma Junggeol and the other horse-caravan men, he was practically being held hostage. Yet he seemed utterly carefree.",
+      "severity": "critical",
+      "source": "아직 마중걸을 비롯한 마방들을 향한 의심을 거두지 않은 몇몇 수뇌부들의 강력 주장으로 반쯤 볼모가 된 지금에도, 저리 태평한 모습을 보이고 있으니."
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Shit, you scared me. What’s with you?”",
+      "defect": "Turns a clipped, mild curse into an unqualified stronger one and drops the complaint that Ma appeared suddenly.",
+      "id": "F03",
+      "rationale": "아이, 씨 is an interrupted exclamation, and 갑자기 makes the sudden interruption explicit.",
+      "replacement": "“Ah, damn. You scared me. What’s with you all of a sudden?”",
+      "severity": "minor",
+      "source": "“아이, 씨. 깜짝이야. 갑자기 뭡니까?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Just felt like two times would seem unfriendly.”",
+      "defect": "The phrasing obscures that he ordered the third volley because stopping at two might make him look cold.",
+      "id": "F04",
+      "rationale": "두 번 하면 정 없어 보일까 봐 supplies the deliberately absurd reason for firing a third time.",
+      "replacement": "“Just thought stopping at two would make me look cold.”",
+      "severity": "minor",
+      "source": "“그냥. 두 번 하면 정 없어 보일까 봐.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Happy? How could I be? Are you even human?”",
+      "defect": "Answers whether Ma is happy rather than rejecting Taekyung’s claim that his explanation is finished.",
+      "id": "F05",
+      "rationale": "되긴 뭐가 돼 directly challenges the preceding 끝. 됐죠?",
+      "replacement": "“What do you mean, ‘that’s it’? Are you even human?”",
+      "severity": "minor",
+      "source": "“되긴 뭐가 돼. 사람 맞소?”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Quest **[Desert Mirage]** successfully completed!  \nQuest rewards have been granted!  \nGained a large amount of EXP and Fame!  \nA new linked Quest has been generated upon completion of **[Desert Mirage]**.",
+      "defect": "Retains square brackets around a Quest title inside the System panel, contrary to the specified panel formatting.",
+      "id": "F06",
+      "rationale": "The System window’s formatting identifies the title without square brackets.",
+      "replacement": "Quest **Desert Mirage** successfully completed!  \nQuest rewards have been granted!  \nGained a large amount of EXP and Fame!  \nA new linked Quest has been generated upon completion of **Desert Mirage**.",
+      "severity": "minor",
+      "source": "- 퀘스트, [사막의 아지랑이]를 성공적으로 완료했습니다!\n\n- 퀘스트 보상이 지급됩니다!\n\n- 대량의 경험치와 명성을 획득했습니다!\n\n- [사막의 아지랑이]가 완료됨에 따라, 새로운 연계 퀘스트가 생성되었습니다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "**[Road of Blood]**",
+      "defect": "Retains square brackets around the Quest title in a System panel.",
+      "id": "F07",
+      "rationale": "The binding Markdown rule excludes square brackets around System UI terms.",
+      "replacement": "**Road of Blood**",
+      "severity": "minor",
+      "source": "[피의 길]"
+    },
+    {
+      "confidence": 0.86,
+      "current": "**Linked Quest:** Depends on your choice",
+      "defect": "Presents a standalone notice as a label-and-value field.",
+      "id": "F08",
+      "rationale": "The Korean states that the linked Quest depends on the choice; it does not present a separate field value.",
+      "replacement": "**Linked Quest determined by your choice**",
+      "severity": "minor",
+      "source": "선택에 따른 연계 퀘스트"
+    }
+  ],
+  "summary": "The draft preserves the main military timeline, but loses Ma Junggeol’s self-correction and changes who is holding his group as leverage. Several smaller dialogue and System-panel choices also need correction.",
+  "version": 1
+}
