@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You’ve done a pretty good job holding us off so far, though. Today included.”",
+      "defect": "Reverses who has been stopping whom.",
+      "id": "F01",
+      "rationale": "Taekyung says they have successfully thwarted the Demon Lord’s side, not that his side has held them off.",
+      "replacement": "“For something that won’t change anything, we’ve done a pretty good job stopping you so far. Today included.”",
+      "severity": "critical",
+      "source": "“그런 것치고는 지금까지 꽤 잘 막아 낸 것 같은데. 오늘도 포함해서.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The North Heaven Demon Lord calmly replied to him, bearing down with enough force to make it seem he could burn a man alive.",
+      "defect": "Assigns the threatening, potentially incinerating presence to the Demon Lord instead of Jeok Cheongang.",
+      "id": "F02",
+      "rationale": "Jeok is the one asking with that threatening intensity; the Demon Lord responds calmly.",
+      "replacement": "Jeok Cheongang looked ready to burn him alive on the spot, but the North Heaven Demon Lord answered calmly.",
+      "severity": "critical",
+      "source": "당장이라도 산 채로 불태워 버릴 것 같은 기세로 묻는 적천강을 향해, 북천마군은 담담하게 입을 열었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Unlike the two Masters and Disciple blocking his path, the footsteps ringing behind him were light as feathers.",
+      "defect": "Makes three people block his path instead of the two people—the master and disciple.",
+      "id": "F03",
+      "rationale": "두 counts the master and disciple together; the Bow Saint approaches from behind.",
+      "replacement": "Unlike the master and disciple blocking his path, the footsteps behind him were light as feathers.",
+      "severity": "critical",
+      "source": "앞을 가로막은 두 스승과 제자와는 달리, 등 뒤에서 울려 퍼지는 발걸음 소리는 깃털처럼 가볍다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Power beyond comparison to the Ten Thousand Demonic Paths. Unbelievable authority. The new heaven refers to that person.”",
+      "defect": "Changes one hundred thousand to ten thousand and renders extraordinary power as authority.",
+      "id": "F04",
+      "rationale": "십만 means one hundred thousand, and 권능 describes the figure’s powers rather than merely their authority.",
+      "replacement": "“Power beyond anything the hundred thousand followers of the Demonic Path possessed. Unbelievable powers. ‘A new heaven’ refers to that person.”",
+      "severity": "critical",
+      "source": "“십만마도(十萬魔道)와는 비교도 되지 않는 힘. 믿을 수 없는 권능. 새로운 하늘이란 바로 그분을 가리키는 것이다.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "He had seen the world as a direct descendant of the Murong Family, one of the Five Great Families. He had lived alongside its people under one roof and fought their internal power struggles.",
+      "defect": "Turns covert struggles with others in the same fold into internal Murong Family politics.",
+      "id": "F05",
+      "rationale": "The following accusation concerns supposedly righteous peers who smiled while concealing blades, not a dispute within his household.",
+      "replacement": "As a direct descendant of the Murong Family, one of the Five Great Families, he had seen the world. He had to wage covert battles against others who shared the same orthodox fold.",
+      "severity": "major",
+      "source": "그는 천하 오대세가의 일익인 모용세가의 직계로서 세상을 겪었다. 한 울타리 안에 공존하는 그들과 함께 암투를 치러야 했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A clear, almost transparent spearhead, wreathed in blue-white flames, rose before his eyes—a wordless answer.",
+      "defect": "Makes the spearhead rise; the flames surge upward while winding around it.",
+      "id": "F06",
+      "rationale": "솟구친 modifies the blue-white flames, not the spearhead.",
+      "replacement": "Blue-white flames surged upward, winding around the almost transparent spearhead—a wordless answer.",
+      "severity": "major",
+      "source": "곧이어 투명하리만치 맑은 창날 위를 휘감으며 솟구친 청백색의 불꽃은, 무언의 대답이나 다름없었다."
+    }
+  ],
+  "summary": "Several passages alter who acts, who opposes whom, or a stated quantity.",
+  "version": 1
+}
