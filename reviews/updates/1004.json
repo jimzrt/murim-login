@@ -1,0 +1,112 @@
+{
+  "chapter": 1004,
+  "files": {
+    "characters/Hyuk Mujin.md": "29fca7804822aa57de9af58cacc701d27ede0159b453521aedcdad5eac307b56",
+    "characters/Jeok Cheongang.md": "040b972605394037358c4aec37b43091eabf77984551d7de2367a261d5a9c1e7",
+    "characters/Jin Taekyung.md": "e9fd3660d182e43bc24c789bd0cc125936e2ea15c2e0421c493943d0a615b6c7",
+    "characters/Jintae.md": "2e494ada3bc591edd2a9351f8d1924805adfc5745e42acf7ca948e349e159fcb",
+    "characters/Namho.md": "5b715427147621a0b36c5e45917c8f151fc2ebca1e0fa580a138349e1667e46b",
+    "characters/Sama Pyo.md": "c0526d6152a08b332fcc9ab6f9cba70e06b7c8adefd7268db089c197958d017b",
+    "characters/Sima Gong.md": "bb5888ae68e83b262deaa979993f2c2fbd1f581820c70d14e2e84912c67b362f",
+    "characters/Wolhwa.md": "cb295d54ac2a266ccad7518c77a359b39bebc45ed6941b2d9ea4d81f0af66872",
+    "docs/ADDRESS.md": "15e8d2d61ab054a660927780151270798b6de1cadfd2e02f0adccf68c3033809",
+    "docs/CONTEXT.json": "ad3271cd955094715c10da371b09e7b570ca4e3c900e09f3bd60ba72cd791b24",
+    "docs/NAMES.md": "a2ba2080787f93b9df4a81c1f6c7b6f602a1beff6efab59540e4d4c1fd5ee248",
+    "docs/STATE.md": "77ec6bbf65b0b441ab346de8978767eb09c2f6ad3b253846abc0b34214322a37",
+    "summaries/beats/1004.md": "cb3715da31c304cc176b6521adb3f66c6653524c10d6597b1f1239cb15928b13"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "적천강",
+        "kinship": "unorthodox sect leader to senior martial master",
+        "normal_address": "Senior",
+        "notes": "Greets Jeok Cheongang as 노선배.",
+        "speaker": "사마공",
+        "speech_level": "formal and deferential"
+      },
+      {
+        "addressee": "사마공",
+        "kinship": "senior martial master to longtime martial acquaintance",
+        "normal_address": "you",
+        "notes": "Uses direct, contemptuous language while teasing Sima Gong.",
+        "speaker": "적천강",
+        "speech_level": "blunt and familiar"
+      },
+      {
+        "addressee": "사마공",
+        "kinship": "allied young martial artist to unorthodox sect leader",
+        "normal_address": "Great Hero Sima",
+        "notes": "Addresses him as 사마 대협.",
+        "speaker": "진태경",
+        "speech_level": "polite and deferential"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "unorthodox sect leader to celebrated young martial artist",
+        "normal_address": "you",
+        "notes": "Uses 자네 while speaking to Taekyung.",
+        "speaker": "사마공",
+        "speech_level": "polite and familiar"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Sima Gong and roughly a thousand Black Dragon Demon Gate disciples are gathered at the gates of an occupied city; the streets are empty, with no visible signs of battle or blood.",
+        "Sima Gong is Sama Pyo’s father and is personally familiar with Jeok Cheongang, who openly says he dislikes him.",
+        "Taekyung notices Sama Pyo’s eyes sink as his father approaches; the reason is not established."
+      ],
+      "plot": [
+        "Taekyung’s party reaches a eerily empty city whose gates open to reveal Sima Gong and roughly a thousand Black Dragon Demon Gate disciples. Sima Gong explains that the civilians left of their own accord and welcomes the group; he and Jeok Cheongang trade familiar barbs. After Sima Gong recognizes Taekyung, Taekyung tries to conceal that he knocked Hyuk Mujin from his horse, then has Namho drop jerky on Mujin to knock him out again before the group enters."
+      ],
+      "translation_decisions": [
+        "Render 쇄월검진 as “Moon-Shattering Sword Formation.”",
+        "Render Sima Gong’s address 노선배 as “Senior” when speaking to Jeok Cheongang."
+      ]
+    },
+    "chapter": 1004,
+    "context": {
+      "active_continuity": [
+        "Taekyung’s party has reached an occupied city where Sima Gong and roughly a thousand Black Dragon Demon Gate disciples are gathered; the streets are empty, with no visible battle or blood.",
+        "Sima Gong is Sama Pyo’s father and has a familiar, openly contentious relationship with Jeok Cheongang.",
+        "Taekyung noticed Sama Pyo’s eyes sink as his father approached."
+      ],
+      "continuity_sources": [
+        1004
+      ],
+      "open_questions": [
+        "Why did Sama Pyo’s eyes sink as his father approached?"
+      ],
+      "safe_through": 1004,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Moon-Shattering Sword Formation",
+        "korean": "쇄월검진",
+        "notes": "Named sword formation of the Zhongnan Sect."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Personality:** Sly, cunning, and inscrutable, with a ruthless reputation for valuing talent above family ties.",
+        "path": "characters/Sima Gong.md",
+        "replacement": "- **Personality:** Sly and calculating, yet outwardly gentle; he uses persuasive sophistry and a calming manner to justify hard choices."
+      },
+      {
+        "current": "- **Voice:** Not established.",
+        "path": "characters/Sima Gong.md",
+        "replacement": "- **Voice:** Polished and persuasive, with smooth rhetorical turns and a composed, gently teasing manner."
+      },
+      {
+        "current": "- **Relationships:** Sama Pyo is his youngest son among seven older brothers and nine older sisters, and he is the father of the current Black Dragon Demon Gate Young Sect Leader.",
+        "path": "characters/Sima Gong.md",
+        "replacement": "- **Relationships:** Sama Pyo is his youngest son among seven older brothers and nine older sisters; he is personally familiar with Jeok Cheongang, who openly dislikes him."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "One day, more than ten years ago, peace had suddenly descended upon a lawless land straight out of the American Wild West.",
+      "defect": "The timing contradicts Chapter 1002’s “nearly ten years ago.”",
+      "id": "C01",
+      "rationale": "Keeps Taekyung’s recollection consistent with the account he has just heard.",
+      "replacement": "Nearly ten years ago, peace had suddenly descended upon a lawless land straight out of the American Wild West.",
+      "severity": "minor",
+      "source": "Chapter 1003, Taekyung’s thoughts about Ningxia"
+    },
+    {
+      "confidence": 0.93,
+      "current": "When we reached Tianshui, we came face-to-face with someone we never expected to see.",
+      "defect": "“Reached Tianshui” suggests the party has arrived at the city, but Chapter 1004 opens with them still approaching its walls and gate.",
+      "id": "C02",
+      "rationale": "Preserves the reveal while matching the party’s position at the start of the next chapter.",
+      "replacement": "As we approached Tianshui, we came face-to-face with someone we never expected to see.",
+      "severity": "minor",
+      "source": "Chapter 1003, final sentence"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Black Night King Sima Gong and the Black Dragon Demon Gate he led, by contrast, carried on the orthodox tradition of demonic, heterodox arts.",
+      "defect": "“Orthodox tradition” reverses the stated contrast with the Fire Gate Clan and conflicts with “heterodox arts” in the same sentence.",
+      "id": "C03",
+      "rationale": "Restores the faction contrast without introducing a new lineage claim.",
+      "replacement": "The Black Night King Sima Gong and the Black Dragon Demon Gate he led, by contrast, had long practiced demonic and heterodox arts.",
+      "severity": "major",
+      "source": "Chapter 1004, description of the Black Dragon Demon Gate"
+    }
+  ],
+  "summary": "The reading copies and state are broadly consistent, but the account of Ningxia’s pacification contradicts itself, the transition into Tianshui places the party inside the city too early, and one faction description reverses its meaning.",
+  "version": 1
+}
