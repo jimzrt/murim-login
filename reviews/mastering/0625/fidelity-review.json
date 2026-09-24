@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Will that do?”\n\nThe Beast Miao King asked, his eyes emitting a glacial light.\n\n“Our first greeting.”",
+      "defect": "The Beast Miao King’s question, “What do you mean?”, is missing between his narration and Taekyung’s reply. The omission makes “Our first greeting” feel unprompted and loses a beat of the exchange.",
+      "id": "F01",
+      "rationale": "The source has the King ask “무엇을 말이냐?” before Taekyung replies “첫인사요.”",
+      "replacement": "“Will that do?”\n\nThe Beast Miao King asked, his eyes emitting a glacial light. “What do you mean?”\n\n“Our first greeting.”",
+      "severity": "minor",
+      "source": "Chapter 625, line 113"
+    }
+  ],
+  "summary": "One brief question is omitted, weakening the exchange’s setup.",
+  "version": 1
+}
