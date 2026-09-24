@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Want me to make you feel like you’re alive when you’re not?”",
+      "defect": "The threat is reversed: Taekyung offers to make Mujin feel as though he is not living, not to make him feel alive.",
+      "id": "F01",
+      "rationale": "살아도 산 것 같지 않게 describes being alive but unable to feel that way.",
+      "replacement": "“Want me to make your life a living hell?”",
+      "severity": "critical",
+      "source": "“살아도 산 것 같지 않게 만들어 줘?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Fruit budded at the ends of countless branches, and together they formed a lake as vast as the sea.",
+      "defect": "The draft makes the fruit or branches form the lake, adding a causal mechanism absent from the two images.",
+      "id": "F02",
+      "rationale": "The family is the continuing subject; bearing fruit and creating the lake are parallel images.",
+      "replacement": "It bore fruit at the ends of countless branches and created a lake as vast as the sea.",
+      "severity": "major",
+      "source": "수많은 가지 끝에서 열매를 틔우고, 바다와 같은 호수를 만들었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“What do you mean? Maybe no one else needs to be there, but surely Captain, you can’t miss that.”",
+      "defect": "Mujin does not say nobody else needs to attend. He says others might be able to miss it, but the Captain should not.",
+      "id": "F03",
+      "rationale": "다른 분들은 몰라도 contrasts Taekyung’s obligation with the possibility of others being absent.",
+      "replacement": "“What do you mean? Maybe someone else could miss it, but you of all people shouldn’t, Captain.”",
+      "severity": "major",
+      "source": "“그게 무슨. 다른 분들은 몰라도 조장님이 저 자리에 빠지시면 안 될 것 같은데.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "They had recognized its sense of justice—not only in protecting the walls of Murim, but in defending this land and its people.",
+      "defect": "“The walls of Murim” turns a figurative boundary into something that sounds physical.",
+      "id": "F04",
+      "rationale": "울타리 frames Murim as the limits of their usual concern; their resolve extended beyond it.",
+      "replacement": "They had recognized its sense of justice in seeking to protect not just Murim, but this land and its people.",
+      "severity": "minor",
+      "source": "무림이라는 울타리뿐만 아니라 이 땅을, 백성들을 지키고자 했던 의기(義氣)를."
+    },
+    {
+      "confidence": 0.91,
+      "current": "At the end of a life one has chosen for oneself, no one puts lies into their mouth.",
+      "defect": "The draft makes the entire life the thing chosen, rather than its end.",
+      "id": "F05",
+      "rationale": "스스로 선택한 qualifies the end of life in the context of Murong Baek accepting death.",
+      "replacement": "When someone stands at the end of their life by their own choice, they don’t speak lies.",
+      "severity": "major",
+      "source": "스스로 선택한 생애의 끝자락에서, 거짓을 입에 담는 사람은 없다는 것을."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You’ve been gone so long I started wondering where you were.”",
+      "defect": "Jeok says he waited for Taekyung and has now found him here; both the waiting and discovery are lost.",
+      "id": "F06",
+      "rationale": "한참을 기다려도 안 오더니만 and 여기에 있었구먼 state those two beats explicitly.",
+      "replacement": "“No wonder you never came, even after I waited all that time. So this is where you were.”",
+      "severity": "major",
+      "source": "“어쩐지 한참을 기다려도 안 오더니만, 여기에 있었구먼.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "You are a [Vassal] appointed by the [Son of Heaven], a successor of the [Fire King Jeok Cheongang], and a great martial artist in your own right.",
+      "defect": "“Vassal” weakens the conferred status of 제후; the square brackets also violate the System-panel format.",
+      "id": "F07",
+      "rationale": "제후 denotes a titled territorial lord, not merely someone subordinate to a ruler.",
+      "replacement": "You are a feudal lord appointed by the Son of Heaven, a successor of the Fire King Jeok Cheongang, and a great martial artist in your own right.",
+      "severity": "major",
+      "source": "- 당신은 [천자]가 임명한 [제후]이며, [화왕 적천강]의 후인이자, 한 사람의 위대한 무인입니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> [Murong Family] has fallen. They are no longer one of the [Five Great Families].\n>\n> At long last, the fame of the [Jin Family of Taiyuan] resounds throughout the world!\n>\n> The fame and power of the [Jin Family of Taiyuan] have risen to that of a member of the [Five Great Families]!",
+      "defect": "The System notices retain UI-style square brackets, contrary to the binding Markdown rule.",
+      "id": "F08",
+      "rationale": "The blockquote panel already identifies these lines as System output.",
+      "replacement": "> The Murong Family has fallen. They are no longer one of the Five Great Families.\n>\n> At long last, the fame of the Jin Family of Taiyuan resounds throughout the world!\n>\n> The fame and power of the Jin Family of Taiyuan have risen to that of a member of the Five Great Families!",
+      "severity": "minor",
+      "source": "- [모용세가]는 몰락했습니다. 그들은 더 이상 [천하오대세가]의 일원이 아닙니다.\n\n- 바야흐로, [태원진가(太原進家)]의 명성이 온 천하에 울려 퍼집니다!\n\n- [태원진가]의 명성과 권세가 [천하오대세가]의 일원으로 격상됩니다!"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> The Title [Scion of a Great Family] has been removed!\n>\n> You have acquired a new Title: [Direct Descendant of a Prestigious Family]!\n>\n> As your family’s standing has risen, you have gained a tremendous amount of Fame!\n>\n> Hidden Quest [Might As Well Go All the Way to the Five Great Families] successfully completed!\n>\n> You have earned the very rare Achievement [Dad, Where Are You?]. Glory and blessings to the three Jin Family brothers, who overcame countless hardships and trials through their own efforts!\n>\n> [Jin Wikyung] and [Jin Mukyung] have been granted the effects of [Amazing Natural Healing] and various bonus buffs. It goes without saying that these effects will not be displayed to the individuals in question.",
+      "defect": "Titles, names, and abilities remain enclosed in square brackets inside a System panel.",
+      "id": "F09",
+      "rationale": "The specified System-panel convention uses its framed blockquote, not square brackets, to mark notices and UI terms.",
+      "replacement": "> The Title Scion of a Great Family has been removed!\n>\n> You have acquired a new Title: Direct Descendant of a Prestigious Family!\n>\n> As your family’s standing has risen, you have gained a tremendous amount of Fame!\n>\n> Hidden Quest Might As Well Go All the Way to the Five Great Families successfully completed!\n>\n> You have earned the very rare Achievement Dad, Where Are You? Glory and blessings to the three Jin Family brothers, who overcame countless hardships and trials through their own efforts!\n>\n> Jin Wikyung and Jin Mukyung have been granted the effects of Amazing Natural Healing and various bonus buffs. It goes without saying that these effects will not be displayed to the individuals in question.",
+      "severity": "minor",
+      "source": "- 칭호, [명가의 자제]가 삭제됩니다!\n\n- 새로운 칭호, [명문세가의 직계]를 획득하셨습니다!\n\n- 소속된 가문의 입지가 상승함에 따라, 막대한 명성치를 획득합니다!\n\n- 히든 퀘스트, [켠 김에 오대세가까지]를 성공적으로 완료하셨습니다!\n\n- 매우 희귀한 업적, [아빠, 어디 갔어]를 달성했습니다. 각자의 노력으로 숱한 고난과 역경을 딛고 일어난 태원진가의 삼 형제에게 영광과 축복이 있기를!\n\n- [진위경]과 [진무경]에게 [놀라운 자연 치유]의 효능과 각종 보너스 버프를 부여합니다. 당연한 말이지만, 위의 효력은 해당 인물들에게 표시되지 않습니다."
+    }
+  ],
+  "summary": "The draft largely follows the scene, but it reverses one threat, changes a metaphor’s mechanics, weakens a status title, and leaves square brackets in System notices.",
+  "version": 1
+}

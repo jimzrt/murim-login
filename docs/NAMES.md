@@ -2445,3 +2445,8 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천호 | **Thousand Captain** | Rank held by Jeong Hogun in the Embroidered Uniform Guard. |
 | 모용수 | **Murong Su** | Seventh son of Murong Baek and the only direct descendant left at the Murong estate. |
 | 황도 | **Imperial Capital** | The capital where the imperial court resides. |
+| 당주 | **Hall Master** | Murim Alliance office held by the envoy. |
+| 명문세가의 직계 | **Direct Descendant of a Prestigious Family** | New System title awarded to Taekyung. |
+| 켠 김에 오대세가까지 | **Might As Well Go All the Way to the Five Great Families** | Completed hidden Quest. |
+| 아빠, 어디 갔어 | **Dad, Where Are You?** | Achievement earned by the three Jin brothers. |
+| 제후 | **feudal lord** | Status appointed by the Son of Heaven. |
