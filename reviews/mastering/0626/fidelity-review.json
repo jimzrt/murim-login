@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "The Beast Miao King sat in a high-backed chair",
+      "defect": "The source identifies a chair covered in leopard and tiger hides but does not specify that it is high-backed.",
+      "id": "F01",
+      "rationale": "“High-backed” adds a physical feature not established by the Korean description.",
+      "replacement": "The Beast Miao King sat in a chair draped with leopard and tiger hides",
+      "severity": "minor",
+      "source": "Korean lines 269–271"
+    },
+    {
+      "confidence": 0.93,
+      "current": "caught the slowly flying bowl",
+      "defect": "The source says Baeksang catches a 술잔, a drinking cup; the translation calls it a bowl.",
+      "id": "F02",
+      "rationale": "The source distinguishes the large wooden 대접 used to pour the liquor from the 술잔 offered to Baeksang. Calling the offered vessel a bowl loses that distinction.",
+      "replacement": "caught the slowly flying cup",
+      "severity": "minor",
+      "source": "Korean lines 277–291"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it adds one unsupported physical detail and changes the drinking vessel from a cup to a bowl.",
+  "version": 1
+}

@@ -20,15 +20,15 @@ Just as I reached that conclusion, the Beast Miao King met my gaze and gave a qu
 
 “Pardon?”
 
-“It’s nothing. Just something that slipped out.”
+“It’s nothing. Just a thought that slipped out.”
 
-As if it were nothing. Anyone could see it was something.
+Nothing, my ass. Anyone could see it was something.
 
-But the Beast Miao King gave a small wave of his thick hand, as if telling me not to ask any further, then addressed everyone—including me.
+But he gave a small wave of his thick hand, as if telling me not to ask, then addressed us all.
 
 “I’m sorry, but another guest has arrived. Could you give us some privacy? We still have time. Rest from your journey, and we can talk properly afterward.”
 
-There was a slight contradiction in the Beast Miao King’s words about there still being time. As long as Dark Heaven existed, no one knew what might happen.
+*We still have time* wasn’t quite right. As long as Dark Heaven was out there, no one knew what might happen.
 
 Still, I was all for resting a while before we talked.
 
@@ -52,7 +52,7 @@ We turned away from the Beast Miao King. As we reached the doors, the slabs of c
 
 Through the slowly widening gap, I could see two muscular men in bear hides pulling chains attached to the doors.
 
-And then…
+And…
 
 “It’s been a long time.”
 
@@ -62,7 +62,7 @@ At his unexpected greeting, Yayul Mok bowed his head.
 
 “Yayul Mok of the Miao people pays his respects to Uncle Baeksang.”
 
-The middle-aged man of another ethnicity was dressed entirely in white, from head to toe, including his clothing and accessories. The man Yayul Mok had called Uncle Baeksang opened his mouth.
+The middle-aged man belonged to another people. Everything he wore, from his clothes to his ornaments, was white. He looked at Yayul Mok and spoke.
 
 “I heard you’d returned. There was quite a large fire in the northeastern pasture, I hear.”
 
@@ -70,11 +70,11 @@ The middle-aged man of another ethnicity was dressed entirely in white, from hea
 
 “A minor problem.”
 
-The cold gaze that accompanied his rigid voice swept over us. Baeksang examined Yayul Mok and everyone standing behind him.
+His cold eyes suited his voice. He looked over Yayul Mok and the rest of us behind him.
 
 Me in particular.
 
-“I hope so.”
+“I hope it was.”
 
 “……”
 
@@ -116,21 +116,21 @@ Now that I had the basics, I caught up with Yayul Mok, who had gotten well ahead
 
 “……”
 
-“Hey. Hey, can’t you hear me?”
+“Hey. Can you hear me?”
 
 “……”
 
-“If someone calls you, you’re supposed to answer. Do you want to see the burning pasture? Huh? Want me to start a nice fucking fire on the way back?”
+“When someone calls you, you’re supposed to answer. Want to see another burning pasture? Huh? Want me to start a nice big fire on the way back?”
 
 “……”
 
-“Oh, this bastard is ignoring me to the very end. Fine, I get it. You have to see fire, not a coffin, before you’ll cry.”
+“Oh, you’re going to ignore me all the way to the end? Fine. You won’t cry when you see a coffin—you need to see a fire.”
 
 As a trash talker, I had a hundred percent win rate. This time was no different.
 
 “…Please stop spouting bullshit I can’t understand.”
 
-“Oh, then behave yourself. If you answered promptly, none of this would happen.”
+“Then answer me when I ask you something. We could’ve avoided all this.”
 
 Yayul Mok glared at me for a moment, then sighed.
 
@@ -146,7 +146,7 @@ My eyes widened.
 
 “I’d heard you Han bastards were suspicious, but I didn’t expect it to be true. What, don’t you believe me?”
 
-“It’s not that, but… I was a little surprised.”
+“It’s not that. I’m just surprised.”
 
 “Is it so surprising that they’re sworn brothers?”
 
@@ -154,7 +154,7 @@ My eyes widened.
 
 “……?”
 
-“Great Hero Yayul Cheok was your father? Not your grandfather or great-grandfather?”
+“Great Hero Yayul Cheok is your father? Not your grandfather or great-grandfather?”
 
 “……!”
 
@@ -186,7 +186,7 @@ This was why the flow of a conversation mattered.
 
 Yayul Mok had answered with his face flushed in anger, but he caught himself and trailed off. Too late. The water was spilled, and the fire had spread.
 
-Having baited him perfectly, I smiled warmly and patted his shoulder.
+I smiled warmly and patted his shoulder.
 
 “You bastard. Why’d you stop? My guess was right, then?”
 
@@ -198,7 +198,7 @@ I left Yayul Mok glaring at me like he wanted to kill me and turned around. Namh
 
 “Ever thought of joining the Hidden Shadow Pavilion?”
 
-“The Hidden Shadow Pavilion? Forget it. Anyway, you heard all that, didn’t you?”
+“Not a chance. You heard all that, right?”
 
 “Of course. The way you lured him in and hooked him—you’re at least as good as Jiang Taigong.”[^2]
 
@@ -212,7 +212,7 @@ Ju Hwaran and Hyuk Mujin clenched their fists, their faces alight with excitemen
 
 “Pavilion Master, that was incredible. I really thought you’d lost your mind at first.”
 
-“Young Lady Ju is right. I was so frustrated that I wanted to tear Captain’s mouth open and kill him.”
+“Young Lady Ju is right. Why else would I have wanted to tear Captain’s mouth open and kill him?”
 
 That felt like a strange sort of praise, but I’d gotten the job done. I smiled with satisfaction.
 
@@ -235,8 +235,6 @@ I shrugged.
 We had new information, but the Great Chieftain of the Bai people opposing the Nanman Beast Palace’s entry into the Murim Alliance was hardly good news.
 
 What bothered me more was *why*.
-
-*Why? Why?*
 
 Why would a man who had fought in the Great Faction War—the Beast Miao King’s childhood friend and sworn younger brother—oppose joining the alliance?
 
@@ -270,7 +268,7 @@ But the middle-aged man who caught the slowly flying bowl looked nothing like on
 
 *Clack.*
 
-Baeksang set the bowl down with a clack. The Beast Miao King smiled bitterly.
+Baeksang set the bowl down hard enough to make a sound. The Beast Miao King smiled bitterly.
 
 “…I see. That’s fine.”
 
@@ -308,7 +306,7 @@ Baeksang’s cold eyes settled on the Beast Miao King as he silently raised his 
 
 *Of course not.*
 
-As the Beast Miao King answered inwardly, Baeksang’s rigid voice pierced his ears.
+Baeksang’s rigid voice reached him before he could say it aloud.
 
 “We—the Nanman Beast Palace… will never join the alliance.”
 
