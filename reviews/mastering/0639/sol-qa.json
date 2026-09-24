@@ -1,0 +1,63 @@
+{
+  "chapter": 639,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.97,
+    "source_characters": 5301,
+    "source_paragraphs": 141,
+    "translation_characters": 10444,
+    "translation_paragraphs": 125
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "일격",
+        "preferred": "One Strike"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "대협",
+        "preferred": "Great Hero or Sir depending tone"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "황소",
+        "preferred": "Hwangso"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소평",
+        "preferred": "So Pyeong"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

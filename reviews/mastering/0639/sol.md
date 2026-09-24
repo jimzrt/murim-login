@@ -20,9 +20,9 @@ I was using my movement technique when an inexplicable chill swept through me. I
 
 *Slice!*
 
-With a sharp cutting sound, a handful of hair drifted through the air.
+A handful of my hair drifted through the air.
 
-Tough and elastic as steel wire, it had become razor-sharp at that speed.
+A spiderweb had missed me by a hair’s breadth. Tough and elastic as steel wire, it had become a razor-sharp edge at the speed I was moving.
 
 “Great Hero Yayul!”
 
@@ -82,7 +82,7 @@ Venomous beasts had been crouching throughout the Poisonblood Grounds, waiting f
 
 *Slither. Ssssss!*
 
-Snakes and centipedes as long and enormous as whips. Spiders and toads the size of human heads. Hundreds of bees pouring out from somewhere among the leaves of the great trees.
+Snakes and centipedes as long and thick as whips. Spiders and toads the size of human heads. Hundreds of bees pouring from somewhere among the leaves overhead.
 
 Hideous venomous beasts of kinds I couldn’t identify—and didn’t want to—converged. In the blink of an eye, dozens became hundreds, and hundreds became thousands. Together, they formed a wall.
 
@@ -98,9 +98,7 @@ This must have been its plan from the start.
 
 Nanman really was a goddamn place. Why were its beasts and spiders so cunning?
 
-I had entered the Poisonblood Grounds following the Black Tiger known as Ailao Mountain’s Wraith. The Thousand-Year Spider we encountered there had finally summoned all its guards once it reached a battlefield favorable to itself.
-
-Judging by everything I had seen firsthand, its intelligence was in no way inferior to an ordinary human’s.
+We had followed the Black Tiger known as Ailao Mountain’s Wraith into the Poisonblood Grounds. The Thousand-Year Spider we met there had led us to a battlefield that favored it, then summoned all its guards. From what I’d seen firsthand, its intelligence could rival a human’s.
 
 *Compared to a certain glutton, it’s Einstein.*
 
@@ -126,7 +124,7 @@ Still… today, at least, I didn’t think I would die.
 
 I watched the wave of venomous beasts roll closer, then spoke.
 
-“When those things are gone, kill it immediately. No—just hurt it enough to leave it barely breathing.”
+“When those things are gone, catch the spider immediately. Kill it—no, leave it just barely alive.”
 
 “What?”
 
@@ -142,7 +140,7 @@ Instead of answering, I stepped lightly against the ground. Internal energy was 
 
 Compression. Then explosion.
 
-The internal energy that burst from a single point—the tip of my toe—gave my entire body the speed of a beam of light. At the same time, a fierce gale wrapped around me and scattered the deep green Poison Mist.
+The internal energy burst from a single point at my toes, sending me forward like a streak of light. A fierce gale wrapped around me, scattering the deep green Poison Mist.
 
 Beyond it waited a colossal wall of thousands of venomous beasts.
 
@@ -202,21 +200,17 @@ Thousands of venomous beasts, every bit as powerful as they were hideous, turned
 
 Not since the Great Faction War, more than fifty years ago, had he seen anything so astonishing.
 
-Even the final ultimate technique unleashed by the Demonic Cult’s Sword Demon just before his death could not compare with the sight before him. And even Fire King Jeok Cheongang, who had easily dodged the Sword Demon’s final strike and methodically trampled him until he was on the verge of death, had never displayed this level of destructive power.
+Even the final technique the Demonic Cult’s Sword Demon had unleashed just before his death could not compare. Fire King Jeok Cheongang had easily evaded that final strike and methodically beaten the Sword Demon to the brink of death, yet not even he had ever shown such destructive power.
 
 Nor, of course, had the man thinking it. Not even Beast Miao King Yayul Cheok himself.
 
 *How is this possible?*
 
-Unable to hide his shock and confusion, the Beast Miao King stared at the back of the young man standing tall before the blazing hellfire.
+Eyes wide with shock and confusion, he stared at the young man standing before the blazing hellfire. Then the young man’s words flashed through his mind.
 
-Then a single sentence suddenly flashed through his mind.
-
-> *“When those things are gone, kill him immediately. No. Just don’t let him stop breathing.”*
+> *“When those things are gone, catch the spider immediately. Kill it—no, leave it just barely alive.”*
 
 “…!”
-
-At first, he had wondered what kind of nonsense Jin Taekyung was spouting.
 
 He’d thought it was nonsense. Now that nonsense had become reality.
 
@@ -232,7 +226,7 @@ Its many eyes, large and small, darted in different directions. The moment they 
 
 His few remaining hairs streamed behind him as he flew upward. A cold smile touched his lips.
 
-“I’ve finally caught you. You piece of shit. I’ll tear you apart.”
+“Finally got you. I’m going to tear you apart.”
 
 —…!
 
