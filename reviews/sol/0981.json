@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "*Over three thousand dead, and everyone else suffered injuries, big and small. A lot of them were left crippled.*",
+      "defect": "“Everyone else” can mean everyone else among the fifteen thousand, contradicting the stated total of roughly five thousand casualties.",
+      "id": "F01",
+      "rationale": "The remaining injured are the remainder of the casualty count, not the remainder of everyone assembled at the gorge.",
+      "replacement": "*Of the five thousand casualties, over three thousand died. The rest suffered injuries, big and small, and many were left crippled.*",
+      "severity": "critical",
+      "source": "‘삼천여 명이 죽고, 그 외에는 전부 크고 작은 부상을 입었지. 불구가 된 이들도 많아.’"
+    },
+    {
+      "confidence": 0.94,
+      "current": "While their allies were dying all around them, they took the Temporary Strength Pill they’d held back until then and broke through the encirclement alongside the western steppe nomads who’d refused to abandon their cause even after Jamukha’s death.",
+      "defect": "“Broke through the encirclement” presents the escape as accomplished, though the approaching reinforcements prevent their attempted flight.",
+      "id": "F02",
+      "rationale": "The source describes opening an escape route; its subsequent “No—they tried to flee” makes clear they had not successfully escaped.",
+      "replacement": "While their allies were dying all around them, they took the Temporary Strength Pill they’d held back until then and fought to open an escape route alongside the western steppe nomads who’d refused to abandon their cause even after Jamukha’s death.",
+      "severity": "critical",
+      "source": "자무카의 죽음이 알려진 후에도 뜻을 꺾지 않았던 서부 초원의 유목민들과 함께 퇴로를 뚫었다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "It was the last trace an old master of the martial world had left in this world—and the martial arts legacy he’d passed on to the Sword Demon of the Jin Family of Taiyuan.",
+      "defect": "“Martial arts legacy” omits that the manual is the inheritance of Cheol’s martial lineage.",
+      "id": "F03",
+      "rationale": "사문의 유산 identifies the inheritance as belonging to his school or lineage, not merely as a martial art he passed along.",
+      "replacement": "It was the last trace an old master had left in this world—and the legacy of his martial lineage, entrusted to the Sword Demon of the Jin Family of Taiyuan.",
+      "severity": "major",
+      "source": "그것은 어느 노강호가 마지막으로 이 세상에 남긴 흔적이자, 태원진가의 검귀(劍鬼)에게 남긴 사문의 유산이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only two words.",
+      "defect": "오천 is two Korean characters and syllables, not two words.",
+      "id": "F04",
+      "rationale": "The brevity of the spoken number is the point of the line.",
+      "replacement": "Just two syllables.",
+      "severity": "minor",
+      "source": "고작 두 글자다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A group led in a charge by a hundred Peak masters swept through the enemy beneath the fluttering banner of the Murim Alliance. After the terrible battle, as new guests arrived in the narrow gorge that had fallen quiet.",
+      "defect": "The second sentence is a fragment and obscures the arrival of the new forces.",
+      "id": "F05",
+      "rationale": "The source states that the guests arrived at the gorge after it had fallen quiet.",
+      "replacement": "A group led in a charge by a hundred Peak masters swept through the enemy beneath the fluttering banner of the Murim Alliance. New guests also arrived in the narrow gorge, which had fallen quiet after the terrible battle.",
+      "severity": "minor",
+      "source": "일단의 무리는 무림맹(武林盟)의 깃발을 휘날리며 적들을 휩쓸었고, 끔찍한 격전 끝에 고요함이 찾아들었던 비좁은 협곡에는 새로운 손님들이 찾아왔다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Until the hoarse light of dawn crept in through the darkness of night, and a roar came rumbling in, shaking the whole world.",
+      "defect": "“Hoarse light” assigns a quality of voice to the dawn rather than conveying its dimness.",
+      "id": "F06",
+      "rationale": "어스름한 describes faint dawn light; the sound belongs to the roar.",
+      "replacement": "Until, beyond the dim dawn light creeping through the darkness of night, they heard a roar that shook the whole world.",
+      "severity": "minor",
+      "source": "깊은 밤의 어둠 사이로 비집고 들어오는 어스름한 새벽빛 너머, 온 세상을 떨어 울리는 함성이 들려오기 전까지는."
+    }
+  ],
+  "summary": "Two passages change the casualty count or imply an escape that had not happened; several smaller fidelity and English issues remain.",
+  "version": 1
+}
