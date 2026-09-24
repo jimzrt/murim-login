@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I only had to look at Namho, who had never learned martial arts yet was giving off an aura fierce enough to make even Jeok Cheongang yield to him for once, to know it.",
+      "defect": "The sentence “Life really did begin at eighty” is omitted, losing the callback to the earlier joke and the narrator’s punchline.",
+      "id": "F01",
+      "rationale": "The source explicitly states “역시 인생은 여든부터가 확실하다” before explaining that Namho’s aura proves it; the accepted baseline preserves the sentence.",
+      "replacement": "Life really did begin at eighty. I only had to look at Namho, who had never learned martial arts yet was giving off an aura fierce enough to make even Jeok Cheongang yield to him for once, to know it.",
+      "severity": "minor",
+      "source": "Korean lines 261, 119; assembled English [P123]"
+    },
+    {
+      "confidence": 0.96,
+      "current": "after days of forced marches and meager rations",
+      "defect": "“Days” adds a duration the source does not specify. The Korean says Taishan’s stomach was turned inside out by consecutive forced marches and rationed meals.",
+      "id": "F02",
+      "rationale": "The source establishes repeated marches and rationing, but gives no number of days.",
+      "replacement": "after consecutive forced marches and rationed meals",
+      "severity": "minor",
+      "source": "Korean line 209; assembled English [P98]"
+    }
+  ],
+  "summary": "The assembled copy is mostly faithful, but it drops a source joke and adds an unsupported duration to Taishan’s forced marches.",
+  "version": 1
+}

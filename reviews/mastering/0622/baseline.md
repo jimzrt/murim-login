@@ -1,0 +1,351 @@
+# Chapter 622
+
+Even counting only the time I had spent in the Murim, well over a year had already passed.
+
+After getting tangled up in one incident after another, I had left Shanxi Province and spent my days traveling from place to place. Along the way, I had met all kinds of people and visited the sects they belonged to.
+
+But I could say this with certainty: no matter how large or powerful a sect was, none of them could even compare to the sight unfolding before my eyes.
+
+“Whew.”
+
+“You’ve got to be kidding me…”
+
+Exclamations erupted from all around us.
+
+I had known it covered an enormous area even when I saw it from the mountain peak, but I hadn’t expected anything like this.
+
+As the clouds and mist faded and we drew closer to our destination, my jaw dropped wider and wider.
+
+*No, seriously. This is a sect?*
+
+It was astonishing in two different ways.
+
+The first, as I had already mentioned, was the sheer vastness of the place. The second was…
+
+**Nanman Beast Palace**
+
+The fence surrounding the vast grounds, and the wooden sign someone had scrawled in an atrocious hand.
+
+It wasn’t a high, sturdy fortress wall or an iron gate.
+
+It was literally a fence.
+
+A fence.
+
+*…No, seriously. This is a sect?*
+
+The thought was the same. The meaning was different.
+
+The fence wasn’t even in good condition.
+
+I stared at the half-collapsed fence for a moment before turning to Namho.
+
+“Elder Namho, surely this isn’t really…”
+
+“You’re asking if this is truly the Nanman Beast Palace?”
+
+“Ah, yes.”
+
+When I nodded, Namho calmly opened his mouth.
+
+“Can you read?”
+
+“Of course.”
+
+“Then read that sign over there. No, I suppose it would be better if I read it for you.”
+
+Namho pointed at the sign covered in clumsy writing and continued.
+
+“Nan. Man. Beast. Palace.”
+
+“……”
+
+“It says exactly what it says. The Nanman Beast Palace begins here.”
+
+I knew that.
+
+That was the problem.
+
+It was so far beyond the image I had imagined in my head that I didn’t know what to make of it.
+
+When I had seen the place from above, I had assumed there must be some enormous structure here. But now that we had emerged from the mist and come close enough to see it clearly, this was practically an empty field.
+
+“Captain, shouldn’t this be called the Nanman Ranch instead of the Nanman Beast Palace? There are nothing but fences all around us.”
+
+Ju Hwaran, who had been looking around, nodded at Hyuk Mujin’s dubious comment.
+
+“This is my first time at the Nanman Beast Palace, so I can’t say I know much about it, but… it does fall short of deserving the name palace.”
+
+Song Ilseom and Sama Pyo, who had been silently observing the situation, each added a comment.
+
+“There is certainly something strange about this.”
+
+“As Hyuk Mujin said, it bothers me that we haven’t seen a single person. There aren’t any other pavilions or buildings, either. Am I wrong, Taishan?”
+
+“My lord. Taishan is hungry. Can Taishan eat that mushroom?”
+
+Sama Pyo immediately shook his head.
+
+“No.”
+
+“Then what about the cow? That cow walking over there looks delicious.”
+
+“You said you were the Young Sect Leader of the Black Dragon Demon Gate, didn’t you? This is a favor, but please shut the mouth of that beast worse than an animal. If I hear one more word, I think my chest will burst and kill me.”
+
+“……I understand.”
+
+“One more thing. Every blade of grass and every animal you can see belongs to the Nanman Beast Palace. Please don’t forget that—or that my insides are about to burst.”
+
+After issuing Sama Pyo a stern warning with a face that had suddenly aged, Namho pointed toward the vast land and continued.
+
+“I understand your thinking perfectly well, but I never said this place was the Nanman Beast Palace.”
+
+“What? You definitely said that a moment ago.”
+
+“I did not.”
+
+“Ah. Have you perhaps lost your mind with age?”
+
+“……”
+
+Namho’s expression darkened so rapidly that there could be no doubt.
+
+I looked at him with sympathy.
+
+“Oh dear. Still, I’m sure you’ll be fine. Someone close to me also suffered from infirmities of old age, but they’ve almost completely recovered now.”
+
+“I would like to say three things first. One, I do not suffer from infirmities of old age. Two. This came to mind while listening to you, so I’m a little curious. How did this acquaintance of yours overcome infirmities of old age?”
+
+“Returned to Youth.”
+
+“……That is a very good method. Except for the fact that I’m an eighty-year-old man who has never learned martial arts.”
+
+“Isn’t that when life begins?”
+
+“I’d like to end your life here, but I’ll let it go since I don’t have the strength.”
+
+After suppressing his surging anger, Namho continued.
+
+“Third, what I said before remains unchanged. I never said this place was the Nanman Beast Palace. I said the Nanman Beast Palace began here.”
+
+“Oh.”
+
+The words were similar, but their meanings were clearly different.
+
+Now that I finally understood what Namho had meant, I asked again.
+
+“Then?”
+
+“That’s right. This is one of the lands under the rule of the Nanman Beast Palace. Unlike the other regions of Nanman, it is directly administered by the Palace Lord. That may make it easier to understand.”
+
+“So it’s similar to how the Emperor appoints vassal kings or City Lords throughout the realm. This place is like the capital of a country.”
+
+“Exactly. Of course, there are differences. The Palace Lord’s authority does not reach the Son of Heaven’s, while the authority of the various tribal chiefs throughout Nanman exceeds that of City Lords.”
+
+Ju Hwaran, who had been listening to Namho, let out a quiet exclamation before speaking.
+
+“Now that I think about it, I once read something similar in a record my grandfather left behind. It said that Nanman was a single kingdom, and that the Nanman Beast Palace was like a gigantic ranch encompassing five counties.”
+
+“You truly are the Escort King’s granddaughter. But even that Great Hero Ju Gongsan never made it beyond these fences. Anyone who isn’t a member of the local ethnic groups is forbidden to enter.”
+
+“It’s really that strict?”
+
+“It is.”
+
+If Namho was telling the truth, then even the Sichuan Tang Clan, a sect whose isolation was second to none in the world, would have to yield to the Nanman Beast Palace.
+
+I clicked my tongue and stared beyond the endless line of fences and grasslands.
+
+“But we have to get inside.”
+
+“That’s right.”
+
+“Is there another way? Since you’re one of the local ethnic groups, perhaps you can enter…”
+
+“I said outsiders cannot enter. I don’t recall saying that entry was easy simply because I’m one of the local ethnic groups.”
+
+“Oh.”
+
+“Here, I’m nothing more than a powerless, ordinary old man of the Miao people. If Dark Heaven hadn’t extended its claws into the world, and if you people hadn’t come looking for me, I would have quietly ended my life… you bastard!”
+
+I flinched at Namho’s sudden bellow and opened my eyes wide.
+
+“Elder Namho, why are you blaming yourself? Why would quietly ending your life make you a son of a bitch?”
+
+“Not me! That bastard! That fucking son of a bitch—catch him!”
+
+At Namho’s shout, which sounded as if he were about to choke to death, we turned our heads.
+
+A huge backside was crawling over the fence.
+
+And in front of it, a single yellow calf was peacefully grazing.
+
+“Oh. Oh, no?”
+
+“That guy, surely not…”
+
+“When did that bastard get over there?”
+
+“Young Hero Tae!”
+
+“Taishan!”
+
+At the voices of the others, followed at last by Sama Pyo’s desperate cry, Taishan flinched.
+
+*Moo?*
+
+The calf realized something was wrong and raised its head sharply.
+
+Taishan had somehow already drawn close. An exclamation mark seemed to pop into the calf’s large, clear eyes, and at the same time, its still-growing hooves struck the grass.
+
+*Pat-pat-pat!*
+
+It made a split-second judgment and tried to flee.
+
+But Taishan was one step faster than the calf.
+
+“Beef! Stop right there!”
+
+With a shout filled with iron determination, Taishan’s enormous body soared through the air.
+
+It wasn’t a tiger or leopard, but how could a half-grown calf evade a Peak master who had set his mind on catching it?
+
+With a heavy *thud*, the calf pinned beneath him let out a scream.
+
+*Moooooo!*
+
+It was such a plaintive cry that merely hearing it made my eyes sting.
+
+But to Taishan, whose stomach had turned inside out from the consecutive forced marches and strictly rationed meals, it was enough to make his mouth water.
+
+“Taishan! Beef!”
+
+“Grab that bastard right now!”
+
+Before Namho had even finished shouting, I had already vaulted over the fence and dashed right up to Taishan.
+
+*Grab.*
+
+“Let go! Beef tartare!”
+
+“Stop it, you heartless, bloodthirsty lunatic. You haven’t even seen *The Sound of the Bell*?”[^1]
+
+“I haven’t!”
+
+“……Ah.”
+
+That made sense.
+
+I understood for a moment, but that was that and this was this. I grabbed Taishan by the back of the neck and pulled him away with an appropriate amount of force.
+
+When his mountain-sized body toppled backward, the beef—or rather, the calf—finally escaped with its life. It sprang to its feet and started running.
+
+*Thundering thud-thud-thud!*
+
+Grass flipped wildly into the air, followed by clouds of dust.
+
+As Taishan watched the calf’s rump disappear from the pasture at full speed, he muttered mournfully.
+
+“No. Taishan’s rump meat…”
+
+*Was this guy born in Majang-dong or something?*[^2]
+
+I was beginning to question his origins when Namho suddenly started raging, shouting like a volcano erupting.
+
+“You bastard!”
+
+“Elder Namho, calm down. Please, calm down.”
+
+“How am I supposed to calm down right now? I repeatedly warned you not to touch anything in the Nanman Beast Palace’s territory! And this hulking glutton of a bastard ignored every word an elder said and went and caused trouble?”
+
+Sama Pyo hurried over and stepped between Namho and Taishan.
+
+“I’m sorry, Elder Namho. I only looked away for a moment, and then… Taishan, you wretch, apologize at once.”
+
+Taishan looked Namho straight in the eye and answered.
+
+“Taishan hungry.”
+
+“That fucking bastard. Let go of this hand right now. Let go! You won’t? Do you think I spent more than fifty years waiting in Nanman, getting bitten by mosquitoes, just to see this?”
+
+Life really did begin at eighty.
+
+I only had to look at Namho, who had never learned martial arts yet was giving off an aura fierce enough to make even Jeok Cheongang yield to him for once, to know it.
+
+The old Hidden Shadow Pavilion agent, who had been raging like a live volcano, finally calmed down after fifteen minutes.
+
+“Whew. I’m fine now, so let go of my hand.”
+
+“Are you really all right?”
+
+“My internal organs turned over once in the meantime, but I’m not about to die.”
+
+If they had turned 180 degrees, that would have been a problem.
+
+But 360 degrees? That was acceptable.
+
+At my nod, Hyuk Mujin released Namho’s hand. Namho sighed with the face of a man on the verge of death.
+
+“Yes, at least nothing actually happened. If someone from the Nanman Beast Palace had witnessed that, things would have gone wrong from the very beginning.”
+
+If this had been another sect in the Central Plains, someone might have thought, *It’s only one cow.*
+
+But in the end, this was a difference in culture and people.
+
+Just as grassland nomads treasured their horses like their own lives, livestock was a valuable asset here, where the divisions and boundaries between tribes were so clear.
+
+*The place is called the Nanman Beast Palace, after all.*
+
+Even the name gave off an unmistakably animal-friendly feeling.
+
+There was a reason Namho had warned us from the start not to touch anything.
+
+“Then what do we do now? We can’t just wait here until someone appears.”
+
+“If we trespass into the Nanman Beast Palace’s territory without permission, it will cause a disturbance. In that case, we must naturally find another way.”
+
+Answering Hyuk Mujin’s question, Namho pulled something out of his bundle.
+
+“What is that?”
+
+“A signal firework for emergencies. If this explodes, someone will at least come out to see what’s happening.”
+
+With a confident smile, Namho struck a spark with a fire striker.
+
+*Crackle.*
+
+The fuse burned rapidly toward the end.
+
+At the same time, the firework shot into the sky with a tremendous bang.
+
+*Fwoooosh—boom!*
+
+The problem was that the firework’s burst came down on the pasture instead of exploding in the air.
+
+“……Huh?”
+
+“……Huh?”
+
+*Whoooosh—roar!*
+
+The pasture was engulfed in flames alongside the stunned voices of the others.
+
+I stared blankly at the livestock fleeing in every direction and muttered.
+
+“……Someone will definitely come out now.”
+
+“……This isn’t how it was supposed to go.”
+
+Not how it was supposed to go, my ass.
+
+We were fucked.
+
+And just as I stared at the burning pasture with a devastated heart—
+
+*Kraaaar!*
+
+Along with the harsh roar of a wild beast, a figure appeared beyond the hill of the burning pasture.
+
+[^1]: *The Sound of the Bell* is a Korean documentary film about an elderly farmer and his ox.
+
+[^2]: Majang-dong in Seoul is famous for its livestock and meat markets.

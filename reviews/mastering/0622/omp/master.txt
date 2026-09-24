@@ -28,7 +28,7 @@ Not a high, sturdy wall or an iron gate. A fence. Just a fence.
 
 *…Wait. This is a sect?*
 
-The thought was the same. The meaning was different.
+Same thought, different reason.
 
 The fence wasn’t even intact.
 
@@ -100,11 +100,11 @@ Looking considerably older than he had a moment ago, Namho gave Sama Pyo that st
 
 His expression darkened so quickly that it seemed certain. I gave him a sympathetic look.
 
-“Oh dear. Still, I’m sure you’ll be fine. Someone close to me also suffered from infirmities of old age, but they’ve almost completely recovered now.”
+“Oh dear. Still, I’m sure you’ll be all right. Someone close to me suffered from the infirmities of old age too, and he’s almost completely recovered.”
 
 “Three things. First, I do not suffer from the infirmities of old age. Second—and I ask only because you’ve made me curious—how did this acquaintance of yours recover?”
 
-“Returned to Youth.”
+“He Returned to Youth.”
 
 “…An excellent method. Apart from the fact that I’m an eighty-year-old man who’s never learned martial arts.”
 
@@ -120,9 +120,9 @@ Namho swallowed his anger and went on.
 
 Similar words, very different meanings. Now that I understood, I asked, “So what is this place?”
 
-“That’s right. This is one of the lands under the rule of the Nanman Beast Palace. Unlike the other regions of Nanman, it is directly administered by the Palace Lord. That may make it easier to understand.”
+“One of the lands under the Nanman Beast Palace’s rule. Unlike the rest of Nanman, it’s governed directly by the Palace Lord. Does that make more sense?”
 
-“So it’s similar to how the Emperor appoints vassal kings or City Lords throughout the realm. This place is like the capital of a country.”
+“Like the Emperor appointing vassal kings and City Lords throughout the realm. This place is effectively the capital.”
 
 “Exactly. Of course, the Palace Lord doesn’t have the authority of the Son of Heaven, and Nanman’s tribal chiefs have more authority than City Lords.”
 
@@ -136,21 +136,21 @@ Ju Hwaran, who had been listening, gave a quiet exclamation.
 
 “It is.”
 
-If Namho was telling the truth, then even the Sichuan Tang Clan, a sect whose isolation was second to none in the world, would have to yield to the Nanman Beast Palace.
+If Namho was telling the truth, even the Sichuan Tang Clan—a sect as closed to outsiders as any in the world—had to yield to the Nanman Beast Palace.
 
-I clicked my tongue and stared beyond the endless line of fences and grasslands.
+I shook my head and looked past the seemingly endless fence and pasture.
 
 “But we need to get in.”
 
 “Yes.”
 
-“Is there another way? Since you’re one of the local ethnic groups, perhaps you can enter…”
+“Is there another way? Since you’re Miao, perhaps you can enter…”
 
 “I said outsiders aren’t allowed in. I don’t recall saying it was easy for the local peoples, either.”
 
 “Oh.”
 
-“Here, I’m nothing more than a powerless, ordinary old man of the Miao people. If Dark Heaven hadn’t extended its claws into the world, and if you people hadn’t come looking for me, I would have quietly ended my life… you bastard!”
+“Here, I’m nothing more than an ordinary, powerless old Miao man. If Dark Heaven hadn’t reached its claws across the world, and you hadn’t come looking for me, I would have quietly lived out my days… You son of a bitch!”
 
 I flinched at his sudden shout.
 
@@ -176,7 +176,7 @@ Sama Pyo’s cry came last. Taishan flinched.
 
 *Moo?*
 
-Taishan had somehow already drawn close. An exclamation mark seemed to pop into the calf’s large, clear eyes, and at the same time, its still-growing hooves struck the grass.
+The calf sensed something was wrong and jerked its head up. Taishan was already close. An exclamation mark seemed to appear in its large, clear eyes as its not-yet-fully-grown hooves dug into the grass.
 
 *Pat-pat-pat!*
 
@@ -200,7 +200,7 @@ It was a plaintive cry, enough to bring tears to your eyes just hearing it. But 
 
 Before Namho finished shouting, I’d vaulted the fence and reached Taishan.
 
-*Grab.*
+I grabbed him.
 
 “Let go! Beef tartare!”
 
@@ -230,7 +230,7 @@ While I questioned his origins, Namho erupted.
 
 “Elder Namho, calm down. Please.”
 
-“How am I supposed to calm down right now? I repeatedly warned you not to touch anything in the Nanman Beast Palace’s territory! And this hulking glutton of a bastard ignored every word an elder said and went and caused trouble?”
+“How am I supposed to calm down? I warned you again and again not to touch anything on the Nanman Beast Palace’s land! That great hulking glutton ignored every word I said and went after a calf?”
 
 Sama Pyo hurried between Namho and Taishan.
 
@@ -242,9 +242,9 @@ Taishan looked Namho straight in the eye.
 
 “That fucking bastard. Let go of my hand. Let go! Are you going to let go or not? Did you think I spent over fifty years getting bitten by mosquitoes in Nanman just to see this?”
 
-I only had to look at Namho, who had never learned martial arts yet was giving off an aura fierce enough to make even Jeok Cheongang yield to him for once, to know it.
+Life really did begin at eighty. Namho had never learned martial arts, yet the aura he was giving off might have made even Jeok Cheongang back down for once.
 
-The old Hidden Shadow Pavilion agent, who had been raging like a live volcano, finally calmed down after fifteen minutes.
+The old Hidden Shadow Pavilion agent raged like an active volcano for another fifteen minutes before finally calming down.
 
 “Whew. I’m fine now. Let go of my hand.”
 
@@ -282,7 +282,7 @@ The fuse burned rapidly toward the end. Then, with a tremendous noise, the firew
 
 *Fwoooosh—boom!*
 
-The problem was that the firework’s burst came down on the pasture instead of exploding in the air.
+The problem was that its sparks fell onto the pasture instead of scattering harmlessly in the air.
 
 “…Huh?”
 
@@ -290,7 +290,7 @@ The problem was that the firework’s burst came down on the pasture instead of 
 
 *Whoooosh—roar!*
 
-The pasture was engulfed in flames alongside the stunned voices of the others.
+The pasture went up in flames. Around me, everyone stood stunned.
 
 I watched the livestock flee in every direction and muttered, “…Someone will definitely come out now.”
 
