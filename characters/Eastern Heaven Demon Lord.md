@@ -1,6 +1,6 @@
 # Eastern Heaven Demon Lord (동천마군)
 
-- **Safe through:** Chapter 936
+- **Safe through:** Chapter 937
 - **Aliases:** Wei Zhong
 - **Role:** The Eastern Heaven Demon Lord was Wei Zhong, the East Depot’s Seal-Holding Eunuch and a former Maoshan Sect disciple who commanded the dead with a bell; Jin Taekyung killed him with blue-white flames.
 - **Personality:** His hatred grew from losing his family and sect, but recognizing his own lonely childhood in Zhu Bao ultimately moved him to relinquish his vengeance and choose a less harmful final act.
