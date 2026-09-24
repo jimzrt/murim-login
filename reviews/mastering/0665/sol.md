@@ -32,15 +32,15 @@ Water dripped through the silence. I shifted away from the liquid falling throug
 >
 > **Failure:** Death
 
-I had already checked the Quest window countless times.
+I’d checked the Quest window several times already.
 
-I stared at the translucent holographic window as if I could bore a hole through it, but no miracle occurred that changed the words written on the final line.
+I glared at the translucent hologram, but the words on the last line refused to change.
 
 *Failure: Death.*
 
 It wasn’t the first time.
 
-From the moment I first set foot in the Murim until now, I had received this kind of goddamn Quest several times. Of course, in the beginning, I had been utterly dumbfounded.
+Since setting foot in Murim, I’d been given more than a few goddamn Quests like this. The first time, of course, I’d been stunned.
 
 *Back then, I really thought I was going to die a dog’s death.*
 
@@ -74,9 +74,9 @@ As I sat there thinking with my eyes closed, liquid fell from above, struck the 
 
 Tap. Splatter.
 
-It was too sticky to be groundwater, and its temperature was warm enough to make me feel grimy.
+Too sticky to be groundwater. Warm enough to make my skin crawl.
 
-I opened my eyes at once, but without even looking at the ceiling, I spoke.
+I opened my eyes but didn’t bother looking up.
 
 “…You crazy bastard. I told you to quit drooling.”
 
@@ -86,11 +86,11 @@ I heard a slurp as Taishan swallowed.
 
 “If you’re hungry, why are you putting your mouth against a hole in the floor? Just sit still.”
 
-“But if Taishan keeps licking, it’s surprisingly salty.”
+“But if Taishan keeps licking, it’s kind of salty.”
 
 “Licking? What?”
 
-“Rock. This place is a rock restaurant.”
+“Rock. This place has good rock.”
 
 “Oh, for crying out loud.”
 
@@ -102,7 +102,7 @@ I swallowed the curse rising in my throat. Getting angry at him would only waste
 
 Besides, Taishan wasn’t in much better shape than I was. I had no idea what sort of creature he was made of—his vital points were so thick that the Pressure-Point Strike hadn’t worked—but his internal energy had been sealed, and his whole body was bound. Even Taishan’s natural strength couldn’t get him out of that.
 
-“Pavilion Master. Taishan hungry. Taishan wants to get out soon.”
+“Taishan is hungry. Wants to get out soon.”
 
 Listening to his quiet whining, I suddenly felt something that could only be called guilt.
 
@@ -120,7 +120,7 @@ Listening to his quiet whining, I suddenly felt something that could only be cal
 
 I looked up as I spoke. Through a hole the size of a child’s fist, I could see one enormous, clear eye, like a calf’s.
 
-It held a look of complete bewilderment.
+He had no idea what I meant.
 
 I’d always thought Taishan had a heart far more innocent than his age or size suggested. He was like a clean sheet of paper.
 
@@ -130,7 +130,7 @@ I sighed.
 
 A painful misjudgment. In baduk terms, a terrible move.
 
-I had locked myself inside the underground prison to clean up the consequences of that mistake, but… damn it. I still had doubts about whether it had really been the right choice.
+I’d let them lock me in this prison to deal with the consequences, but… damn it. I still wasn’t sure that had been the right choice, either.
 
 Taishan studied me as if I’d said something strange.
 
@@ -174,7 +174,7 @@ This wasn’t the Taishan I was used to. His whole manner had changed, and his w
 
 I was speechless. Beyond the hole, his eye curved gently.
 
-“Taishan trusts Lord, and Lord trusts the Pavilion Master. So Pavilion Master, trust yourself. The Pavilion Master will definitely find a way. Just like always.”
+“Taishan trusts Lord. Lord trusts Pavilion Master. So Pavilion Master should trust himself. Pavilion Master will find a way. Just like always.”
 
 Taishan gave a little giggle. For a while, all I could do was stare.
 
@@ -184,13 +184,13 @@ And I’d never expected his words to give me more strength than anything else c
 
 *Yeah. Come to think of it, there’s always been a way.*
 
-In the Murim, I seemed to have lived a life rather close to death.
+My life in Murim had brought me close to death more times than I could count.
 
 Jopil. The Head Elder. The Roaring Fury Swordsman and the Blood Lord. The Western Heaven Demon Lord…
 
 Danger had waited wherever I went. Each time, I’d taken the word *death* from where I kept it buried in my heart, turned it over, and made myself a promise.
 
-I would never die. I could never die here.
+I wouldn’t die. I couldn’t die here.
 
 *A strong Will.*
 
@@ -198,13 +198,13 @@ Was that what the Quest meant? Or…
 
 *Something else connected to a strong Will.*
 
-A certain thing the Slaughter Saint had said to me in Hubei just a few months ago flashed through my mind like lightning.
+That was when something the Slaughter Saint had said to me in Hubei a few months ago flashed through my mind.
 
 “Huh. You monstrous bastard. You finally opened your Middle Dantian, so now you can handle qi properly.”
 
 I’d asked him, “I already know how to handle it. Don’t you know how much internal energy I have?”
 
-The Slaughter Saint had merely let out a short laugh without answering. Then he had shaken his head and disappeared.
+The Slaughter Saint had given a short laugh, shaken his head, and walked away without answering. He’d only said I wouldn’t understand even if he told me then.
 
 But now I thought I was beginning to understand why he’d said it. How ridiculous I must have looked to him: a young fool boasting that he could handle qi because he had several jiazi of internal energy.
 
@@ -254,9 +254,9 @@ The guards who were about to open the door stopped. The graying Captain of the G
 
 “That’s enough. Guard the grounds.”
 
-After staring at Baeksang for a moment at his cold words, the captain scattered throughout the manor with his subordinates.
+The captain held Baeksang’s cold gaze for a moment, then dispersed through the manor with his men.
 
-Baeksang glanced at them, then gripped the door handle firmly and pushed.
+Baeksang watched them go. Then he gripped the door handle and pushed.
 
 The door slid open.
 
