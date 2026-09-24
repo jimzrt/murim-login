@@ -16,7 +16,7 @@ At the center of the shock wave, I felt a scorching wind whip around me. There w
 
 But I remembered clearly how the old man had driven both palms, packed with immense Yin-Cold Qi, toward the spearhead bearing down on him. I remembered the red blood gushing from his body, too, and the White Tiger’s figure disappearing into the distance in a flurry of white fur.
 
-*That bastard…*
+*That guy…*
 
 Muyaho’s sudden ambush on the Great Snow Fiend had not been planned. I had told him the opposite: stay out of the fight and find Yohi, who was probably being held captive somewhere in the Poisonblood Grounds.
 
@@ -72,9 +72,7 @@ My body moved as fast as I could think. I twisted my waist, drew back my shoulde
 
 RRRUMBLE!
 
-I ignored the dust cloud as it began to rise again after briefly scattering.
-
-I was pouring out attacks even more powerful than that.
+The dust cloud rose again almost as soon as it scattered. I paid it no mind. I was sending far more through it than dust.
 
 Every spear was cheap iron, nothing compared to White Flame. But once I sent one flashing from my hand, no one it struck would come away unharmed.
 
@@ -94,27 +92,27 @@ Beyond the thick dust, bright-red blood scattered into the air to the grisly sou
 
 *There you are.*
 
-The tip of my foot, bearing the weight of a thousand geun, dug deeply into the overturned earth.
+I drove my foot down, putting a thousand geun of weight behind it. My toes dug deep into the overturned earth.
 
 KRRRUNCH. BOOM!
 
-An explosion occurred at the same time as I compressed my internal energy. I surged forward, erasing dozens of yards of space in an instant, and plunged into the dust cloud.
+I compressed my internal energy and released it in a burst. More than ten jang vanished beneath me as I plunged into the dust cloud.
 
 The noise and falling debris had made it nearly impossible to tell front from back. But I did not hesitate.
 
 *I’ve already seen him.*
 
-My sharp senses detected the metallic scent of blood, and my keen eyesight once again found someone’s back through the dust cloud.
+My sharpened senses caught the scent of blood. Through the dust, my keen eyes found someone’s back again.
 
 The Great Snow Fiend had been injured blocking White Flame. He could not be faster than me now.
 
-I summoned a spear from my Inventory and slashed it down diagonally.
+I summoned another spear from my Inventory and slashed diagonally downward.
 
 SHIIING.
 
-With a low sound of splitting air, blue-white flames rose around the spearhead and slowly cut through the wind.
+Blue-white flames rose around the spearhead, which cut slowly through the wind.
 
-Extreme concentration paralyzed my brain and brought the world to a standstill.
+No. It was not just the spearhead that had slowed. My concentration was so intense it numbed my brain and brought the world to a standstill.
 
 In that frozen moment, the flames parted the dust and touched the edge of the man’s clothes. Certainty flashed through me.
 
@@ -134,7 +132,7 @@ He possessed something the overwhelmingly powerful Blood Lord and Western Heaven
 
 Caution. Thoroughness. Those were the old monster’s sharpest weapons.
 
-*The Great Snow Fiend, this easy?*
+*And he’d make it this easy?*
 
 No. Not the Great Snow Fiend I had fought.
 
@@ -186,9 +184,9 @@ BEEP. BEEP. BEEEEP!
 
 …
 
-My vision grew hazy from the horrible pain. As warning sounds continued to pierce my ears without pause, I thought:
+My vision blurred with pain. Warning sounds kept drilling into my ears, and all I could think was:
 
-This was truly turning out to be one hell of a day.
+*What a hell of a day.*
 
 * * *
 
@@ -206,7 +204,7 @@ SPLASH!
 
 Dark-red blood mixed with bits of organs splattered across the Great Snow Fiend’s face.
 
-No, what stunned him was the sight of that young bastard still alive.
+The sickening smell of blood and filth did not bother him. What unnerved him was that the young bastard was still alive.
 
 *What a lunatic.*
 
@@ -258,7 +256,7 @@ The Great Snow Fiend had watched countless people die. He had never been more ce
 
 But he had forgotten something.
 
-The young man dying right before his eyes was an existence akin to supernatural powers—something that could not be predicted by his judgment.
+The young man dying before him was like a supernatural power, beyond anything the Great Snow Fiend could predict.
 
 GRAB. THRUST!
 

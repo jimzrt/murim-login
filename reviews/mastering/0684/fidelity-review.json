@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Extreme concentration paralyzed my brain and brought the world to a standstill.",
+      "defect": "The source explicitly corrects the preceding impression: it was not only the spearhead that had slowed. The assembled text omits that beat before explaining that extreme concentration stopped the world.",
+      "id": "F01",
+      "rationale": "The source says, “아니, 느려진 것은 창날뿐만이 아니다,” immediately before describing the narrator’s brain and the world as paralyzed and stopped.",
+      "replacement": "No—the spearhead wasn’t the only thing that had slowed. Extreme concentration paralyzed my brain and brought the world to a standstill.",
+      "severity": "minor",
+      "source": "Lines 133–135"
+    },
+    {
+      "confidence": 0.99,
+      "current": "No, what stunned him was the sight of that young bastard still alive.",
+      "defect": "The assembled version omits that the foul metallic smell and stench of the blood and organs did not bother the Great Snow Fiend, losing a stated sensory detail and contrast before what actually stunned him.",
+      "id": "F02",
+      "rationale": "The source explicitly says the smell and stench had no effect on him, then contrasts that with his shock at the young man still being alive.",
+      "replacement": "But the foul metallic smell and stench filling his nose did not bother him. No, what stunned him was the sight of that young bastard still alive.",
+      "severity": "minor",
+      "source": "Lines 247–249"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Muyaho’s sudden ambush on the Great Snow Fiend had not been planned.",
+      "defect": "The source places the unplanned ambush at the last moment; the assembled sentence omits that timing.",
+      "id": "F03",
+      "rationale": "“마지막 순간” explicitly marks when the ambush happened, and the accepted baseline preserved that detail.",
+      "replacement": "At the last moment, Muyaho’s sudden ambush on the Great Snow Fiend had not been planned.",
+      "severity": "minor",
+      "source": "Lines 29–30"
+    }
+  ],
+  "summary": "The assembled translation is mostly faithful, but it omits a sensory detail and an explicit beat in the action, and drops the timing of Muyaho’s ambush.",
+  "version": 1
+}
