@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is largely faithful, but it omits the explanation for why the Yangtze has become so lucrative.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 255–257",
+      "current": "The Yangtze was a gold mine right now.",
+      "defect": "The following source sentence, explaining that supplies are moving back and forth as war clouds gather, is omitted. This gives context for the Yangtze’s current value and Sudal’s desire to return.",
+      "replacement": "The Yangtze was a gold mine right now. With war clouds gathering, all kinds of supplies were moving back and forth.",
+      "rationale": "The Korean explicitly connects the growing threat of war with the movement of supplies; that contextual fact is absent from the assembled English.",
+      "confidence": 0.99
+    }
+  ]
+}

@@ -12,7 +12,7 @@ Even the old guard who had died during Dark Heaven’s attack had been a torture
 
 “…Head? Not people?”
 
-“Yes. When we lined up fifteen or so of the beasts and got to work, the response was incredible. They were so happy they nearly passed out.”
+“Yes. Line up a dozen or so and get to work, and the response was incredible. They’d scream themselves silly with delight.”
 
 He even counted people the way you counted animals.
 
@@ -30,7 +30,7 @@ Cold, damp, and nine times out of ten, buried deep underground.
 
 Just like the underground prison of the Nanman Beast Palace where I was locked up. And…
 
-“Pavilion Master. Taishan hungry. Got locked in underground prison because Taishan eats too much.”
+“Taishan. Hungry. Got locked in underground prison because they said Taishan eats too much.”
 
 “Ah.”
 
@@ -114,7 +114,7 @@ My blood pressure shot up, and rage took over my entire body. I thrashed harder 
 
 Clatter! Clank!
 
-If not for these goddamn heavy iron balls, I would have started by punching that bastard in the mouth.
+If not for these goddamn heavy iron balls, I would’ve started by punching that bastard in the face.
 
 Taishan watched me panting with interest before speaking.
 
@@ -130,7 +130,7 @@ It seemed the Beast Miao King had stepped in after all. I stopped thrashing and 
 
 “Taishan hasn’t eaten for two whole shichen. Taishan’s mind is hazy.”
 
-“…People don’t usually call it hunger after two shichen. More importantly, how did you end up locked in here? Great Hero Yayul would’ve stopped it before it got this far. There’s no way you were locked up just for eating too much.”
+“…Most people wouldn’t call two shichen without food starving. Anyway, how did you end up locked in here? Great Hero Yayul would’ve stopped them if it was anything minor. There’s no way they locked you up just for eating too much.”
 
 “Taishan was treated unfairly. A Nanman man was going to leave after giving Taishan a mouse-dropping-sized portion of food. Taishan grabbed his wrist to ask for more, and the bone broke.”
 
@@ -142,15 +142,15 @@ Clatter! Clank! Clank!
 
 “Pavilion Master, calm down. Taishan was angry too, but Taishan held it in and surrendered, just like Pavilion Master.”
 
-“…Come down. This time, really come down.”
+“…Come down. This time, I mean it.”
 
-I was already trying to keep a low profile, and this bastard had broken both arms of the man who came to feed him?
+We needed to keep our heads down, and this bastard had broken both wrists of the man who came to feed him?
 
 At this rate, I was going to die of rage before noon two days from now.
 
 *I walked into the tiger’s den to save a bastard like that?*
 
-“Then what about the others? Not Namho or Sama Pyo. Everyone else?”
+Once I’d barely managed to calm down, I asked, “What about the others? Besides Namho and Sama Pyo.”
 
 “Hmm. Ah.”
 
@@ -164,23 +164,23 @@ Taishan rolled his enormous eyes around as he thought, then answered.
 
 Ju Hwaran, Song Ilseom, and Hyuk Mujin.
 
-For a moment, my heart sank at the news that all three had been captured. But I agreed with Yayul Mok that it was much safer that way.
+For a moment, my heart sank at the news that all three had been captured. But I agreed with Yayul Mok: they were safer with the reconnaissance squad.
 
 *Baeksang’s influence can’t reach that far right now.*
 
 The two tribal chieftains leading the squad were loyal to the Beast Miao King. Some of the Nanman people I’d rescued from the Poisonblood Grounds were their kinsmen, too. Unlike the other chieftains who had gone over to Baeksang, they wouldn’t switch sides easily.
 
-*The three of them are more likely to be in danger than they are now if the reconnaissance squad runs into the Blood Monk.*
+*The real danger will come if the reconnaissance squad runs into the Blood Monk.*
 
 The Blood Monk was an unidentified old monster who had stained Guizhou with blood single-handedly, wielding Supreme Peak martial prowess.
 
 Almost nothing was known about him. But if he really was a subordinate of the Southern Heaven Demon Empress, as I suspected, things could take the worst possible turn.
 
-He would certainly head south on the Southern Heaven Demon Empress’s orders. And if he encountered the reconnaissance squad, the three people among them would fall into his hands as well.
+He would be heading south on her orders. If he met the reconnaissance squad, the three of them would fall into his hands as well.
 
 “…Damn it.”
 
-But for now, I had no time to worry about that.
+But right now, I couldn’t do anything about them.
 
 They were on the move even now, while I was trapped deep underground, unable to move an inch.
 
@@ -188,7 +188,7 @@ They were on the move even now, while I was trapped deep underground, unable to 
 
 So there were only two things I could do.
 
-The first was prayer.
+The first was pray.
 
 The second was…
 
@@ -230,11 +230,11 @@ Nothing. Every day, he sat at the bow and stared at the calm river. When the sun
 
 His immediate superior, who ruled the Yangtze in Sichuan, had been summoned to League headquarters by the revered Alliance Leader. Meanwhile, Sudal and his men had come down the tributaries to backwater Yunnan and were wasting their days.
 
-*By now, merchant ships loaded with all kinds of valuable goods must be traveling through Sichuan.*
+*By now, merchant ships loaded with valuables must be passing through Sichuan.*
 
-The Yangtze was a gold mine right now.
+The Yangtze was a gold mine right now. All kinds of supplies were moving along it as the clouds of war gathered.
 
-Sudal knew that and desperately wanted to return immediately. But every time he did, one man’s presence kept flashing before his eyes.
+Sudal desperately wanted to go back. But every time he thought about it, one man’s face appeared before him.
 
 “I’ll come running whenever you call!”
 
@@ -278,7 +278,7 @@ Sudal had only ever operated on the Yangtze, but even he knew what a godforsaken
 
 He didn’t know exactly what Jin Taekyung’s mission was. Still, if it had brought him all the way here, it couldn’t be simple.
 
-But did he really need to worry about someone who wasn’t even here and whine like a dog that needed to shit?
+So why was Sudal worrying himself sick over a man who wasn’t even around?
 
 He gave his adventurous life some serious thought, then ordered his men,
 
@@ -304,11 +304,9 @@ But Sudal had a plan for that, too.
 
 “Yeah. That thing Jin Taekyung does all the time.”
 
-After sending two of them into the water one after another, the complaints disappeared. Under Sudal’s spirited command, three swift ships traveled along the western tributary toward Guizhou.
+After two men had gone into the water in quick succession, the complaints stopped. Under Sudal’s spirited command, three swift ships took the western tributary toward Guizhou.
 
-At last, after all this time, they found a target.
-
-Just like now.
+At last, they spotted their first target in ages.
 
 “There’s a ship roughly two hundred zhang ahead!”
 
