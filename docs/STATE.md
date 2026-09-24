@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 992
-- Next chapter: 993
-- Current block: 990–994 (3/5)
-- Latest translation: `translations/0992.md`
-- Latest summary: `summaries/beats/0992.md`
-- Safe profiles through: chapter 992
+- Last completed: 993
+- Next chapter: 994
+- Current block: 990–994 (4/5)
+- Latest translation: `translations/0993.md`
+- Latest summary: `summaries/beats/0993.md`
+- Safe profiles through: chapter 993
 
 ## Current Block
 
-- Taekyung tells Jeok Cheongang that memories of the original Jin Taekyung appeared in a dream. They consider whether the original’s consciousness may have remained inside Taekyung, though the truth is unknown. They agree to keep discussing the matter privately; the Bow Saint may know something but is still in Hebei. Jeok confirms that Peng Cheolhu is gone and says he died smiling. Taekyung opens the System window after Jeok leaves.
+- After successfully completing Transmitting Internal Energy Across the Body and absorbing the Heavenly Power Demon’s and Peng Cheolhu’s internal energy, Jin Taekyung receives extensive System rewards, fully opens his Middle Dantian, reaches the Supreme Peak realm, and completes Bone Transformation. He reflects on his debt to the dead and his determination to keep striving toward the upper dantian. While recovering a fragment of a past memory, he recalls an unknown voice telling him, “That was a good decision. Just like back then.” The memory brings on severe pain, and the System creates a forced Quest titled Unknown Voice; Taekyung agrees to view its updated information.
 
 ## Open Questions
 
 - Does any part of the original Jin Taekyung’s consciousness remain inside Taekyung?
+- Who was the unknown voice, how did it communicate with Taekyung within his consciousness, and what was their earlier encounter?
 - What is behind the worldwide weather and heavenly-pattern changes?
-- Is the upheaval a scheme laid by some unknown power, as Mae Jonghak suspects?
 - What are Dark Heaven and the Lord of Heaven planning?
-- What does the Bow Saint know about the chosen one, and will she discuss it with Taekyung?
+- What does the Bow Saint know about the chosen one?
 
 ## Exceptional Decision
 

@@ -1,6 +1,6 @@
 # Heavenly Power Demon (천력마)
 
-- **Safe through:** Chapter 987
+- **Safe through:** Chapter 993
 - **Aliases:** None
 - **Role:** The Heavenly Power Demon was a former Elder of the Great Heavenly Demon Divine Cult who led the subjugation of Qinghai and opened the first front of its holy war before dying after passing his remaining internal energy to Jin Taekyung.
 - **Personality:** Quiet and self-possessed despite his severe imprisonment, he is reflective about the moral ambiguity of the Great Faction War and disillusioned with the Divine Cult's corruption.

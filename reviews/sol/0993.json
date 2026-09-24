@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "You can now control qi with great freedom.",
+      "defect": "General control replaces the specific ability to draw in and release qi.",
+      "id": "F01",
+      "rationale": "수발 names the receiving and sending of qi, not merely control over it.",
+      "replacement": "You can now draw in and release qi with great freedom.",
+      "severity": "major",
+      "source": "기의 수발이 매우 자유로워집니다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*I owe him. I owe him a hell of a lot.*",
+      "defect": "“Him” makes Peng the sole creditor, though the source leaves the debt open and the narration immediately connects the rewards to all the dead.",
+      "id": "F02",
+      "rationale": "The Korean does not specify whom he owes.",
+      "replacement": "*I’m in debt. Deep in debt.*",
+      "severity": "major",
+      "source": "‘빚을 졌군. 그것도 엄청나게 많은 빚을.’"
+    },
+    {
+      "confidence": 0.93,
+      "current": "You have earned the great achievement **Full-Body Makeover**!",
+      "defect": "“Makeover” loses the achievement name’s plastic-surgery joke.",
+      "id": "F03",
+      "rationale": "전신성형 literally invokes full-body plastic surgery, a deliberately comic label for his physical transformation.",
+      "replacement": "You have earned the great achievement **Full-Body Plastic Surgery**!",
+      "severity": "minor",
+      "source": "위대한 업적, [전신성형]을 달성했습니다!"
+    },
+    {
+      "confidence": 0.85,
+      "current": "And then, as I slipped into a state of nothingness, a voice faintly echoed in my ear.",
+      "defect": "“Nothingness” obscures the loss-of-self state described by 무아.",
+      "id": "F04",
+      "rationale": "무아 refers here to being without awareness of oneself, not to an absence of everything.",
+      "replacement": "And then, as I slipped into a trance where I lost all sense of self, someone’s words echoed faintly in my ear.",
+      "severity": "minor",
+      "source": "이내 무아(無我)의 세계로 빠져들던 내 귓가로 아스라이 울려 퍼지던 누군가의 한 마디를."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it narrows the narrator’s debt to one person and blurs a qi mechanism and two deliberate terms.",
+  "version": 1
+}
