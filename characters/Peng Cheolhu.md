@@ -1,6 +1,6 @@
 # Peng Cheolhu (벽력도왕)
 
-- **Safe through:** Chapter 994
+- **Safe through:** Chapter 996
 - **Aliases:** Thunderbolt Saber King
 - **Role:** Peng Cheolhu was the Thunderbolt Saber King, a Ten Kings master and Great Hero of the Hebei Peng Family who died as his accumulated internal energy and remaining life force melted into the flames of Taekyung’s advancement.
 - **Personality:** Boisterous and teasing with old friends, yet calm and accepting in the face of death; willing to give everything he has left to protect the world.

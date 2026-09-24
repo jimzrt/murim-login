@@ -1,24 +1,22 @@
 # Translation State
 
-- Last completed: 995
-- Next chapter: 996
-- Current block: 995–999 (1/5)
-- Latest translation: `translations/0995.md`
-- Latest summary: `summaries/beats/0995.md`
-- Safe profiles through: chapter 995
+- Last completed: 996
+- Next chapter: 997
+- Current block: 995–999 (2/5)
+- Latest translation: `translations/0996.md`
+- Latest summary: `summaries/beats/0996.md`
+- Safe profiles through: chapter 996
 
 ## Current Block
 
-- After speaking privately with Jin Wikyung, Taekyung gathers the Fire Dragon Pavilion and reveals that unprecedented activity is underway in Xinjiang, now Dark Heaven’s stronghold. The Hidden Shadow Pavilion lost more than thirty elite agents, and their last messenger eagle carried the final contact; the enemy may number more than a hundred thousand and is said to be far more powerful than the Demonic Cult’s forces of fifty years ago.
-- Taekyung recalls Jeok Cheongang’s account that the Demonic Cult arose around the same time as Shaolin, then decides that the group will head west. A new Quest alert sounds.
+- After completing his meditation, Taekyung fully assimilates the Heavenly Power Demon’s and Peng Cheolhu’s internal energy, reaching four jiazi of pure energy he can control. A new Quest, “Desert Mirage,” orders him west to investigate the threat approaching from Xinjiang. He and Wikyung identify Qinghai and the Kunlun Sect as the likeliest target; Taekyung orders the Fire Dragon Pavilion to depart in fifteen minutes as unexpectedly early snow begins to fall.
+- Sama Pyo receives a letter from his father ordering him to return immediately. He burns it before Namho, Taishan, and the others arrive, then prepares to leave with them.
 
 ## Open Questions
 
-- Who was the unknown voice, and will Taekyung meet its owner?
-- Was the Martial God a System user, and is he connected to Cheon Taemin?
-- What did the Doppelganger mean by its final words, and what was it trying to accomplish?
-- What is Dark Heaven planning in Xinjiang, and how strong and numerous are its forces?
-- What is the objective of the newly triggered Quest, and is it connected to Logout being disabled?
+- What is the objective behind Dark Heaven’s advance from Xinjiang, and where will its forces strike?
+- What caused the System malfunction, and is it connected to the Lord of Heaven?
+- Why did Sama Pyo’s father order him to return immediately?
 
 ## Exceptional Decision
 

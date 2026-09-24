@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A greenhorn who’d just entered Murim might wonder why his internal energy had increased by only one jiazi after receiving Transmitting Internal Energy Across the Body from two old masters.",
+      "defect": "The greenhorn becomes the recipient of the energy transfer rather than an observer questioning Taekyung’s gain.",
+      "id": "F01",
+      "rationale": "The hypothetical newcomer questions the result of the two transfers Taekyung received.",
+      "replacement": "A greenhorn who’d just entered Murim might wonder why I’d gained only one jiazi after receiving Transmitting Internal Energy Across the Body from two old masters.",
+      "severity": "critical",
+      "source": "얼뜨기 무림 초출이라면 두 노강호에게 격체전공을 받고도 왜 고작 일 갑자만 늘어났는지 의문을 표하겠지만"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then, suddenly, I remembered the conversation I’d had with Jin Wikyung an hour earlier.",
+      "defect": "One shichen is approximately two hours, not one.",
+      "id": "F02",
+      "rationale": "한 시진 specifies a traditional two-hour time unit.",
+      "replacement": "Then, suddenly, I remembered the conversation I’d had with Jin Wikyung two hours earlier.",
+      "severity": "critical",
+      "source": "문득 한 시진 전 진위경과 나누었던 대화를 떠올렸다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“My lord! Are we ready?”",
+      "defect": "Taishan asks whether his lord is ready, not whether the group is ready.",
+      "id": "F03",
+      "rationale": "The omitted subject is the person Taishan addresses; Sama Pyo immediately answers the question.",
+      "replacement": "“My lord! Are you ready?”",
+      "severity": "critical",
+      "source": "“주군! 준비 끝났나!”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The shattered remains of the door flew in every direction with the force of the shout.",
+      "defect": "The draft makes the shout the physical force that scatters the door.",
+      "id": "F04",
+      "rationale": "The source places the shout and the door’s destruction together in time without saying his voice broke the door.",
+      "replacement": "As his booming shout rang out, splinters of the shattered door flew in every direction.",
+      "severity": "critical",
+      "source": "우렁찬 외침과 함께 산산이 부서진 문의 잔해가 사방으로 흩어졌지만"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I’d say I packed a reasonable amount. Not too much.”",
+      "defect": "Sama Pyo is defending the amount Taishan packed; the draft makes Sama Pyo the one who packed it.",
+      "id": "F05",
+      "rationale": "Namho has just identified Taishan as the one who packed the jerky.",
+      "replacement": "“That sounds like a reasonable amount for him to pack. Not too much.”",
+      "severity": "critical",
+      "source": "“그만하면 과하지 않게 적당히 챙긴 듯합니다만.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Understood.”",
+      "defect": "The reply loses Hyuk Mujin’s unusually emphatic, deferential acceptance of an order.",
+      "id": "F06",
+      "rationale": "존명 is an acknowledgment of a superior’s command, and the narration explicitly notes the unusual force of his reply.",
+      "replacement": "“As you command.”",
+      "severity": "major",
+      "source": "“존명.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "*The world—and the heavens—are changing.*",
+      "defect": "The recalled line is rendered like the earlier Quest wording, losing the stronger sense that the world and sky are being overturned.",
+      "id": "F07",
+      "rationale": "뒤바뀌고 is stronger than 변화하고 in the earlier panel; the contrast matters to Taekyung’s fear that the change may already be complete.",
+      "replacement": "*The world—and the heavens—are being turned upside down.*",
+      "severity": "major",
+      "source": "천하가, 하늘이 뒤바뀌고 있습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "**Quest**\n\n**Desert Mirage**\n\nYou have learned of strange developments taking place in Xinjiang, the far western edge of your world.\n\nA cursed land, long separated from the Central Plains.\n\nA group is crossing the scorching desert, where nothing exists but hot sand and the blazing sun, and heading toward the center of the world. But their true nature remains hidden behind a dense mirage.\n\nPlease remember. Never forget.\n\nThe world—and the heavens—are changing.\n\nNothing is set in stone.\n\nThe countless enemies drawing near from far away, even as you read this, may be no more than a brief spark.\n\nOr they may become a hellfire that brings the world to ruin.\n\n**Grade:** Supreme Peak\n\n**Restriction:** Jin Taekyung\n\n**Mission:** Head west (Incomplete)\n\n**Reward:** A large amount of EXP and Fame\n\nFollow-up Quests depending on your choice\n\n**Failure:** ???",
+      "defect": "The actual System-message panel lacks the required single blockquote window and System heading.",
+      "id": "F08",
+      "rationale": "The source presents these consecutive Quest notices and fields as one System window. The replacement also removes the unsupported suggestion that the enemies are approaching specifically while the recipient reads.",
+      "replacement": "> **System**\n>\n> **Quest**\n>\n> Desert Mirage\n>\n> You have learned of strange developments taking place in Xinjiang, the far western edge of your world.\n>\n> A cursed land, long separated from the Central Plains.\n>\n> A group is crossing the scorching desert, where nothing exists but hot sand and the blazing sun, and heading toward the center of the world. But their true nature remains hidden behind a dense mirage.\n>\n> Please remember. Never forget.\n>\n> The world—and the heavens—are changing.\n>\n> Nothing is set in stone.\n>\n> The countless enemies drawing near from far away, even now, may be no more than a brief spark.\n>\n> Or they may become a hellfire that brings the world to ruin.\n>\n> **Grade:** Supreme Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Head west (Incomplete)\n>\n> **Reward:** A large amount of EXP and Fame\n>\n> Follow-up Quests depending on your choice\n>\n> **Failure:** ???",
+      "severity": "major",
+      "source": "퀘스트\n\n[사막의 아지랑이]\n\n당신의 서쪽의 끝, 신강(新疆)에서 벌어지고 있는 심상치 않은 조짐을 알게 되었습니다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The three syllables came after a brief hesitation.",
+      "defect": "“Father” has two English syllables, so the untranslated Korean syllable count jars with the preceding English word.",
+      "id": "F09",
+      "rationale": "세 글자 counts the syllables of 아버지; the hesitation, rather than that language-specific count, carries the beat in English.",
+      "replacement": "The word came after a brief hesitation.",
+      "severity": "minor",
+      "source": "잠깐의 머뭇거림 끝에 흘러나온 세 글자."
+    }
+  ],
+  "summary": "The draft has several changed subjects and actions, a time-unit error, and an unframed System panel.",
+  "version": 1
+}
