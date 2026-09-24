@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 960
-- Next chapter: 961
-- Current block: 960–964 (1/5)
-- Latest translation: `translations/0960.md`
-- Latest summary: `summaries/beats/0960.md`
-- Safe profiles through: chapter 960
+- Last completed: 961
+- Next chapter: 962
+- Current block: 960–964 (2/5)
+- Latest translation: `translations/0961.md`
+- Latest summary: `summaries/beats/0961.md`
+- Safe profiles through: chapter 961
 
 ## Current Block
 
-- At Eight Spring Gorge, the people of Shanxi use archers and earthen fortifications to blunt the steppe army’s advance. The Demon Bird’s red Force kills dozens, but Wipeng and Cheol Mubaek use what they learned from the Dongting Fisherman to evade him and coordinate their attack with Jin Mukyung.
-- Mukyung meets the Demon Bird’s Force with blue Sword Energy and forces the old monster back three steps. The Demon Bird recognizes Mukyung’s perfectly executed One Strike, but believes Mukyung will not survive the battle; red light rises from the Demon Bird as he prepares to continue fighting.
+- Cheol Mubaek recognizes the Demon Bird as the Blood Soul Fat Demon, who reveals that he once fought Cheol’s master, the Fist Hero, and cut off both his arms. The Demon Bird attacks Cheol, Wipeng, and Jin Mukyung.
+- During the battle, the Demon Bird’s Sword Force overwhelms Cheol and Wipeng, but their weapons withstand it. He mistakes them for Ten-Thousand-Year Cold Iron; they are actually made from the bones of the Water God Dragon. Wipeng redirects the force while Cheol grips the Demon Bird’s blade despite severe injuries, creating an opening for another swordsman’s attack.
 
 ## Open Questions
 
-- How will the battle at Eight Spring Gorge end, and can the defenders defeat the Demon Bird?
+- How will the battle at Eight Spring Gorge end, and what will be the result of the swordsman’s attack on the Demon Bird?
 - Who gave Jang Sam the silk pouch, and what are the improved pill’s effects and distribution?
 - What is the Martial God’s identity and connection to the chosen one and the Bow Saint?
 - What do the Eastern Heaven Demon Lord’s papers and silk pouch contain?
