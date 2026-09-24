@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Nor that they would be the final sight he and hundreds of his comrades saw in this world.",
+      "defect": "The draft makes his spoken words the final sight. The source refers to the streaks of light.",
+      "id": "F01",
+      "rationale": "The preceding sentence identifies his words as his last; this sentence separately identifies the light as their final sight.",
+      "replacement": "Nor that those streaks of light would be the last thing he and hundreds of his comrades saw in this world.",
+      "severity": "critical",
+      "source": "더불어 그를 비롯한 수백여 명의 아군이 이승에서 보는 마지막 광경이 되리라는 것을."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The moment the North Heaven Demon Lord heard the young upstart’s casual voice—despite the weariness plain in it—his mind lit up with a red warning.",
+      "defect": "The draft moves the weariness into Jin Taekyung’s voice and omits the contrast with the overwhelming force of his arrival.",
+      "id": "F02",
+      "rationale": "The source contrasts Jin’s imposing entrance with his visibly exhausted state and relaxed voice.",
+      "replacement": "The moment the North Heaven Demon Lord heard the easygoing voice of the young upstart, who looked plainly exhausted despite the overwhelming force of his arrival, alarm bells went off in his head.",
+      "severity": "major",
+      "source": "엄청난 기세로 등장한 것과는 달리, 지친 기색이 역력한 애송이의 여유로운 목소리를 듣자마자 북천마군의 머릿속에 붉은 경고등이 켜졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "So you should’ve been a little friendlier. Had meals together more often, shared porn catalog numbers like people who know their place in the martial world.",
+      "defect": "“Porn” makes the euphemistic 품번 explicit, while “know their place” changes an appeal to the martial world’s code into a remark about social station.",
+      "id": "F03",
+      "rationale": "The joke rests on treating the sharing of catalog numbers as proper conduct under the martial world’s code without spelling out what they catalog.",
+      "replacement": "So you should’ve been a little friendlier. Had meals together more often, swapped catalog numbers like any upstanding members of the martial world.",
+      "severity": "major",
+      "source": "그러니까 평소에 좀 친하게 지내지 그랬냐. 같이 밥도 자주 먹고, 강호의 도리에 따라 품번도 공유하고."
+    },
+    {
+      "confidence": 0.97,
+      "current": "You’ve grown a lot, haven’t you? A mere pup, and you’ve got the nerve to talk back to this old man.",
+      "defect": "“Talk back” loses Jeok Cheongang’s specific objection to a younger opponent speaking to him without deference, and the draft omits his taunt about acting bold.",
+      "id": "F04",
+      "rationale": "반말 marks informal speech toward an elder; 배짱도 부릴 줄 알고 adds a separate jab at the opponent’s nerve.",
+      "replacement": "You’ve grown bold, haven’t you? A mere pup, speaking to this old man like an equal and even daring to act tough.",
+      "severity": "major",
+      "source": "많이 컸구나. 하룻강아지 주제에 노부의 앞에서 반말이나 찍찍 싸며 배짱도 부릴 줄 알고."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The exhaustion that had overtaken him after he’d spent every last ounce of strength on the strike to save Jin Mukyung had already begun to subside.",
+      "defect": "“Had already begun to subside” leaves the weakness ongoing, whereas Jin has already brought it under control.",
+      "id": "F05",
+      "rationale": "이미 가라앉힌 후였다 presents his recovery from the strike’s immediate weakness as accomplished.",
+      "replacement": "He had already shaken off the weakness left by the strike he’d launched with all his strength to save Jin Mukyung, exhausted as he was.",
+      "severity": "minor",
+      "source": "지칠 대로 지친 상황 속, 진무경을 구하기 위해 혼신의 힘을 다해 쏘아 보냈던 일격으로 비롯된 탈력감은 이미 가라앉힌 후였다."
+    }
+  ],
+  "summary": "One scene-fact error and several losses of characterization, hierarchy, and register.",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # Peng Cheolyeong (팽철영)
 
-- **Safe through:** Chapter 948
+- **Safe through:** Chapter 971
 - **Aliases:** Iron Blood Saber
 - **Role:** Family Head of the Hebei Peng Family; son and successor of the Thunderbolt Saber King.
 - **Personality:** Calm and prudent under pressure, prioritizing consultation over risking his family’s lives on a hasty decision.
