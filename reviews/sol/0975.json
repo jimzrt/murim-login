@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "No matter how well-trained a hunting dog was, it couldn’t take down a beast of prey on its own.\n\nThe difference in their innate nature was simply unavoidable.\n\nBut Jamukha was different. Born a beast of prey, he had become a hunting dog for the sake of his own ambitions.",
+      "defect": "“Beast of prey” makes the stronger animal sound like quarry rather than the predator contrasted with a hunting dog.",
+      "id": "F01",
+      "rationale": "The contrast is between a hunting dog and a naturally powerful 맹수; Jamukha was born the latter.",
+      "replacement": "No matter how well trained a hunting dog was, it couldn’t take down a predator on its own.\n\nThe difference in what they were born to be was unavoidable.\n\nBut Jamukha was different. Born a predator, he had become a hunting dog to achieve his own ends.",
+      "severity": "major",
+      "source": "제아무리 잘 훈련받은 사냥개라고 해도 홀로 맹수를 쓰러트릴 수는 없다.\n\n타고난 태생의 차이는 어쩔 수 없는 법이니까.\n\n그러나 맹수로 태어나, 원하는 목적을 위해 사냥개가 된 자무카는 달랐다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "His toes skimmed the ground, his arms felt lighter than ever around his beloved weapon.",
+      "defect": "The draft transfers the weapon’s lightness to Jamukha’s arms.",
+      "id": "F02",
+      "rationale": "Both 발끝 and 애병 are described as light; 양손 specifies how he holds the weapon.",
+      "replacement": "His feet, skimming over the ground, and the beloved weapon gripped in both hands felt lighter than ever.",
+      "severity": "minor",
+      "source": "지면을 스치듯 나아가는 발끝도, 양손 가득 그러쥔 애병도 그 어느 때보다 가볍다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He was heading for the Fire King, a beast of prey more ferocious and powerful than any he’d ever faced.",
+      "defect": "Calling the Fire King a “beast of prey” blurs the distinction between the quarry Jamukha has faced and the formidable predator now before him.",
+      "id": "F03",
+      "rationale": "사냥감들 are his previous quarry; 맹수 characterizes the Fire King.",
+      "replacement": "He was heading for the Fire King—a predator more ferocious and powerful than any quarry he’d ever faced.",
+      "severity": "minor",
+      "source": "지금껏 만난 그 어떤 사냥감들보다도 흉포하고 강력한, 화왕(火王)이라는 맹수를 향해."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Heat beyond anything he could imagine burned through and ravaged every meridian in his body.",
+      "defect": "“Meridian” changes the anatomical target of the attack.",
+      "id": "F04",
+      "rationale": "혈도 denotes acupoints or vital points, not meridians.",
+      "replacement": "Heat beyond anything he could imagine burned through and ravaged the acupoints all over his body.",
+      "severity": "major",
+      "source": "상상할 수도 없던 열기가 전신의 혈도를 불사르고 헤집었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "With all his might, he clamped down on the blade that was slipping from his grasp and drove it toward Jin Taekyung’s chest.",
+      "defect": "Jamukha regains his grip on the hilt, not on the blade.",
+      "id": "F05",
+      "rationale": "도파 is the sword’s hilt; the current wording changes how he holds and attacks with the weapon.",
+      "replacement": "With all his might, he tightened his grip around the hilt as it began to slip from his hand and drove the blade toward Jin Taekyung’s chest.",
+      "severity": "critical",
+      "source": "온 힘을 다해 손아귀에서 미끄러지려던 도파를 말아쥐고, 진태경의 가슴을 향해 내리찍었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "And yet there was only one thing he could hear clearly.\n\nThe hands that kept striking and crushing his whole body.",
+      "defect": "The draft makes the one clear sensation auditory, although it is the blows he feels.",
+      "id": "F06",
+      "rationale": "선명했다 describes his perception of the physical assault, contrasted with his dimming sight and muffled hearing.",
+      "replacement": "And yet one thing remained vivid.\n\nThe blows that kept pounding and breaking his body.",
+      "severity": "major",
+      "source": "그럼에도 불구하고 단 한 가지.\n\n전신을 끊임없이 두드리고 부수는 손길만이 선명했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Clear chimes rang in only one person’s ears, while translucent letters colored the air.\n\nAnd at the end of them were the three letters someone had been waiting for so long.\n\n> **System**\n>\n> You have defeated [Lv. 173 Jamukha]!\n>\n> You have gained a tremendous amount of EXP!\n>\n> You have gained a tremendous amount of Fame!\n>\n> Your Fame resounds across the [Great Steppe]!\n>\n> .\n>\n> .\n>\n> .\n>\n> Level Up!",
+      "defect": "The draft moves the prose before the notices, merges notices separated by prose into one panel, retains prohibited UI brackets, and calls “Level Up” three English letters.",
+      "id": "F07",
+      "rationale": "The source presents the defeat and Fame notices first, then narrative prose, then a separate Level Up notice. 떨어 울립니다 says Fame makes the steppe tremble.",
+      "replacement": "> **System**\n>\n> You have defeated Lv. 173 Jamukha!\n>\n> You have gained a tremendous amount of EXP!\n>\n> You have gained a tremendous amount of Fame!\n>\n> Your Fame makes the Great Steppe tremble!\n>\n> .\n>\n> .\n>\n> .\n\nClear chimes rang in only one person’s ears as translucent letters filled the air.\n\nAt the end of them were the words he’d been waiting for so long.\n\n> **System**\n>\n> Level Up!",
+      "severity": "major",
+      "source": "- [Lv.173 자무카]를 처치하셨습니다!\n\n- 막대한 경험치를 획득하셨습니다!\n\n- 막대한 명성치를 획득하셨습니다!\n\n- 당신의 명성이 [대초원]을 떨어 울립니다!\n\n.\n.\n.\n\n오직 한 사람의 귓가에만 울려 퍼지는 맑은 종소리와 함께 허공을 물들이는 반투명한 글자들.\n\n그 끝에, 누군가가 그토록 기다렸던 세 글자가 있었다.\n\n- 레벨 업!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“It was two against one. Now you’re alone.”",
+      "defect": "“Two against one” invents a numerical advantage and changes who is being counted.",
+      "id": "F08",
+      "rationale": "Jin is counting the North Heaven Demon Lord and Jamukha; Jamukha’s death leaves the Demon Lord without his ally.",
+      "replacement": "“There were two of you. Now you’re alone.”",
+      "severity": "critical",
+      "source": "“둘이었는데, 이제 혼자네?”"
+    }
+  ],
+  "summary": "The draft preserves the fight’s main sequence, but changes several physical details and misorders the System notices.",
+  "version": 1
+}
