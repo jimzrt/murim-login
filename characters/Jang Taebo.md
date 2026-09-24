@@ -1,6 +1,6 @@
 # Jang Taebo (장태보)
 
-- **Safe through:** Chapter 888
+- **Safe through:** Chapter 956
 - **Aliases:** None
 - **Role:** Jang Taebo is the former Guild Leader of the Ironcraft Guild and one of the world’s renowned smiths, now the Jin Family of Taiyuan’s Master of Ironcraft Hall.
 - **Personality:** Blunt, cantankerous, solitary, and proud; values an untroubled retirement and protects his anonymity, while quietly caring for the neighboring boy Hanga.

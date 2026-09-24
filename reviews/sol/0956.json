@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But there was a reason Shanxi Province’s fate had been decided in two great battles fought in this jar-shaped gorge.",
+      "defect": "Says the province’s fate was decided there; the source says two battles with its fate at stake took place there.",
+      "id": "F01",
+      "rationale": "명운을 건 describes what was at stake, not an established outcome.",
+      "replacement": "But there was a reason two great battles with Shanxi Province’s fate at stake had been fought in this jar-shaped gorge.",
+      "severity": "critical",
+      "source": "이 항아리 모양의 협곡에서 두 번에 걸쳐 산서성의 명운을 건 대전투가 벌어진 것은 그만한 이유가 있기 때문이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“Put that one away. Starting today, use this. I forged it for you, Second Young Master, a long time ago.”*",
+      "defect": "Changes an instruction to discard the old sword into one to store it, and renders advance preparation as a remote date.",
+      "id": "F02",
+      "rationale": "버리고 means to throw it away; 일찍부터 … 벼려 둔 emphasizes that the sword had been forged ahead of time for him.",
+      "replacement": "*“Get rid of that one. Use this from today on. I forged it for you well in advance, Second Young Master.”*",
+      "severity": "critical",
+      "source": "‘그건 버리고, 오늘부터는 이놈을 쓰시게. 일찍부터 이공자를 위해 벼려 둔 검이니.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The artisans who had left everything behind and rushed to the Jin Family of Taiyuan hadn’t come out of mere loyalty.",
+      "defect": "“Mere loyalty” implies loyalty may have contributed, whereas the source rules it out as their motive.",
+      "id": "F03",
+      "rationale": "결코 의리 따위로 움직이지 않는다는 것을 emphatically rejects loyalty as the reason.",
+      "replacement": "The artisans who had left everything behind and rushed to the Jin Family of Taiyuan had not been moved by loyalty at all.",
+      "severity": "major",
+      "source": "모든 것을 내팽개치고 태원진가로 달려온 장인들은 결코 의리 따위로 움직이지 않는다는 것을."
+    },
+    {
+      "confidence": 0.91,
+      "current": "It was probably because of the connection they’d made in the past.",
+      "defect": "The plural pronoun can point to Jang Taebo and the Third Young Master, making their connection the reason the guild artisans came.",
+      "id": "F04",
+      "rationale": "In this sentence the retainer is explaining how Jang brought the former Ironcraft Guild artisans with him; his prior ties to those artisans are the relevant connection.",
+      "replacement": "It was probably because of his old ties to them.",
+      "severity": "major",
+      "source": "아마 과거의 인연 때문이겠지요."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Black spheres hurtled out of the darkness, rumbling over the bedrock and shaking the earth beneath them.",
+      "defect": "Omits that the boulders are pouring down the rock face onto the people in the gorge.",
+      "id": "F05",
+      "rationale": "암반을 타고 쏟아져 내리는 specifies their downward route, which explains the attack from the cliffs.",
+      "replacement": "Black spheres poured down the rock face out of the darkness, shaking the earth as they came.",
+      "severity": "major",
+      "source": "어둠 속, 지축을 울리며 암반을 타고 쏟아져 내리는 검은색의 구체들."
+    },
+    {
+      "confidence": 0.99,
+      "current": "How many years had it been since he’d spent his days in a ger that reeked of horse manure?",
+      "defect": "Changes the number of years spent in the ger into the number of years since that stay.",
+      "id": "F06",
+      "rationale": "보낸 세월 asks about the duration of his time there, not how long ago it ended.",
+      "replacement": "How many years had he spent in a ger reeking of horse manure?",
+      "severity": "major",
+      "source": "말똥 냄새 풀풀 풍기는 게르에서 보낸 세월만 몇 년이었나."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“Can’t you tell? This old man’s one of his finest masterpieces, made after a whole lot of backbreaking work in his later years. I forged it from something that can rival Ten-Thousand-Year Cold Iron. I hope you’ll take good care of it.”*",
+      "defect": "The possessive construction calls the old man a masterpiece rather than the sword.",
+      "id": "F07",
+      "rationale": "만든 최고의 역작 중 하나 refers to the sword Jang made; the current English assigns that description to Jang.",
+      "replacement": "*“Can’t you tell? It’s one of the finest things this old man has ever made, and I worked myself to the bone making it in my old age. I forged it from something that can rival Ten-Thousand-Year Cold Iron, so take good care of it.”*",
+      "severity": "minor",
+      "source": "‘보면 모르나? 이 늙은이가 말년에 개고생해 가며 만든 최고의 역작 중 하나지. 만년한철(萬年寒鐵)과도 비견될 만한 것으로 벼려 냈으니, 부디 잘 다뤄 주시게.’"
+    }
+  ],
+  "summary": "The draft preserves the battle’s broad sequence, but several passages change what happened, why people acted, or how long an event lasted.",
+  "version": 1
+}

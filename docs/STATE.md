@@ -1,19 +1,19 @@
 # Translation State
 
-- Last completed: 955
-- Next chapter: 956
-- Current block: 955–959 (1/5)
-- Latest translation: `translations/0955.md`
-- Latest summary: `summaries/beats/0955.md`
-- Safe profiles through: chapter 955
+- Last completed: 956
+- Next chapter: 957
+- Current block: 955–959 (2/5)
+- Latest translation: `translations/0956.md`
+- Latest summary: `summaries/beats/0956.md`
+- Safe profiles through: chapter 956
 
 ## Current Block
 
-- After a nightmare in which everyone was dead by the time he reached them, Taekyung wakes during a brief rest with the Bow Saint and Jeok Cheongang. The Bow Saint urges him to trust the people he is rushing to save and explains that some burdens cannot be overcome alone. Taekyung accepts that he must rely on them, rests by the fire, and prepares to continue toward Taiyuan, still about two days away.
+- At Eight Spring Gorge, Jin Mukyung uses the exceptionally sharp sword forged for him by Jang Taebo to cut down a group of steppe cavalry. Arrows fail to pierce Jin Family armor made from the Water God Dragon’s remains, and defenders on the cliffs rain arrows and rocks onto the nomads, killing more than five hundred in half an hour. Jamukha refuses Chinggen’s request to claim Mukyung as prey and orders him to seize the cliffs instead; the battle remains unresolved.
 
 ## Open Questions
 
-- How will the battle at Eight Spring Gorge fare?
+- How will the battle at Eight Spring Gorge fare, and can the defenders hold the cliffs?
 - Who gave Jang Sam the silk pouch, and what are the improved pill’s effects and distribution?
 - What is the Martial God’s identity and connection to the chosen one and the Bow Saint?
 - What do the Eastern Heaven Demon Lord’s papers and silk pouch contain?
