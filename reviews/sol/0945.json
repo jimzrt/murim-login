@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Yes. And he’s one of these.”",
+      "defect": "“One of these” does not convey that the head-tap identifies him as the bandits’ leader.",
+      "id": "F01",
+      "rationale": "Namgung Ryong understands the gesture and immediately comments on why the man was acting as their leader.",
+      "replacement": "“Yes. And he’s the head of the bunch.”",
+      "severity": "major",
+      "source": "“예. 그중에서도 이거죠.”\n\n대답과 함께 머리를 툭 두드리자, 즉각 의미를 알아들은 남궁룡의 고개를 끄덕였다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He was the bandit who’d pretended he’d lost his carrier frame and was out gathering firewood, only for me to catch him in his real line of work.",
+      "defect": "The draft adds that Jang Il claimed to be gathering firewood.",
+      "id": "F02",
+      "rationale": "The source says he posed as a woodcutter who had lost his carrying frame; it gives no gathering-firewood claim.",
+      "replacement": "He was the bandit who’d posed as a woodcutter who’d lost his carrying frame, only for me to catch him at his real trade.",
+      "severity": "minor",
+      "source": "내게 지게 잃은 나무꾼 행세를 하다가 본업을 들켰던 산적, 장일이 반쯤 포기한 목소리로 대답했다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Gungseong narrowed her brow and clicked her tongue softly.",
+      "defect": "The established character title is rendered as an unestablished personal name.",
+      "id": "F03",
+      "rationale": "궁성 is the Bow Saint, who is riding alongside Jeok Cheongang.",
+      "replacement": "The Bow Saint frowned and clicked her tongue softly.",
+      "severity": "critical",
+      "source": "나란히 달리는 와중에도 귀를 기울이고 있던 적천강의 소신 발언에, 미간을 좁힌 궁성이 작게 혀를 찼다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“They say caterpillars should eat pine needles, but once we got here, we found these bold bastards banditing in Anhui even though they weren’t part of the Green Forest Alliance.”",
+      "defect": "The literal proverb and “banditing” obscure the idiom’s point and sound unnatural in English.",
+      "id": "F04",
+      "rationale": "The pine-caterpillar saying is about staying where one belongs; Jang Il is surprised to find unaffiliated bandits operating in risky territory.",
+      "replacement": "“They say you should stick to your own turf, but when we got here, we found these gutsy bastards playing bandit in Anhui without even belonging to the Green Forest Alliance.”",
+      "severity": "minor",
+      "source": "“송충이는 솔잎만 먹어야 한다더니, 막상 와 보니 녹림맹 소속도 아닌 주제에 안휘성에서 산적질을 하는 간 큰 놈들이 있지 뭡니까.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **[Lv. 60 Jang Sam]**",
+      "defect": "The game panel lacks the required System heading and retains enclosing square brackets and whole-line bold.",
+      "id": "F05",
+      "rationale": "This is an actual System display, so the binding Markdown convention applies.",
+      "replacement": "> **System**\n> Lv. 60 Jang Sam",
+      "severity": "minor",
+      "source": "[Lv.60 장삼]"
+    }
+  ],
+  "summary": "The draft largely preserves the scene, but it obscures the chief-identifying gesture, adds an action to Jang Il’s disguise, misnames the Bow Saint, and misformats the System panel.",
+  "version": 1
+}

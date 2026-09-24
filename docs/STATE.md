@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 944
-- Next chapter: 945
-- Current block: 940–944 (5/5)
-- Latest translation: `translations/0944.md`
-- Latest summary: `summaries/beats/0944.md`
-- Safe profiles through: chapter 944
+- Last completed: 945
+- Next chapter: 946
+- Current block: 945–949 (1/5)
+- Latest translation: `translations/0945.md`
+- Latest summary: `summaries/beats/0945.md`
+- Safe profiles through: chapter 945
 
 ## Current Block
 
-- Namgung Ryong arrives after the imperial messenger eagle alerts the Anhui Provincial Office to Taekyung’s group. He confirms the report of Dark Heaven’s coming invasion of Shanxi and offers horses, provisions, and a guide, but his father, the Azure Sky Sword King, is away on a mission for Alliance Leader Mae Jonghak and his whereabouts are unknown. As Namgung Ryong begins arranging their departure, a figure rises from the shadows.
+- After Jang Sam abruptly rises from Level 40 to Level 60 and attacks Taekyung in an apparently irrational state, Taekyung knocks him unconscious. Jang Il reveals that Jang Sam moved their bandit stronghold from near Hubei to Anhui about three months ago, recruited two small strongholds, and had seemed too weak to do so unaided. As Taekyung and his companions ride toward the Nangong Family with Jang Il, Taekyung recalls that Pung Yang’s ambitions had been fueled by a Temporary Strength Pill and suspects a connection to Jang Sam’s sudden rise.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - How far has Dark Heaven infiltrated the Great Nation, and which officials or commanders are involved?
 - Where is Ma Sanbao, and what is his current status?
 - What do the Eastern Heaven Demon Lord’s papers and silk pouch contain, and what is their significance?
-- Where is the Azure Sky Sword King, and who is the figure rising from the shadows?
+- What caused Jang Sam’s sudden Level increase and apparent loss of reason, and is it connected to a Temporary Strength Pill?
 
 ## Exceptional Decision
 

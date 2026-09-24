@@ -1,8 +1,8 @@
 # Jang Sam (장삼)
 
-- **Safe through:** Chapter 880
+- **Safe through:** Chapter 945
 - **Aliases:** Killing Ghost
-- **Role:** A Hubei fisherman who disappeared for a month and returned as the Killing Ghost, a monster that grew stronger and more grotesque with each appearance.
+- **Role:** Jang Sam is a bandit chief who abruptly rose from Level 40 to Level 60 and attacked Taekyung while apparently irrational; he is currently unconscious and being taken to the Nangong Family.
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** No relationships established.
