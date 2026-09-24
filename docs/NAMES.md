@@ -2417,3 +2417,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 선비족 | **Xianbei** | People whose descendants ruled Liaoning and became one of the Five Great Families. |
 | 요녕성 | **Liaoning Province** | Province ruled by the Murong Family. |
 | 중양절 | **Double Ninth Festival** | Festival used as the expected date for the invasion of the Central Plains. |
+| 자무카 | **Jamukha** | Khan of the western grasslands and the steppe army’s practical leader. |
+| 텡그리 | **Tengri** | Deity invoked by the steppe people. |
+| 케식 | **Keshik** | Elite warriors serving the Golden Clan. |
