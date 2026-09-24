@@ -43,6 +43,27 @@ class ModelIoTest(unittest.TestCase):
     def test_review_replacement_requires_a_unique_current_span(self):
         with self.assertRaisesRegex(ValueError, "occurs 2 times"):
             apply_review_replacements("Current. Current.", self.review())
+    def test_paired_findings_replace_repeated_paragraphs(self):
+        quote = "“Do you remember the promise you made me long ago?”"
+        review = {"findings": [
+            {
+                "id": "F07",
+                "source": "“오래전, 나와 했던 약속을 기억하느냐?”",
+                "current": quote,
+                "replacement": "“Do you remember the promise we made long ago?”",
+            },
+            {
+                "id": "F08",
+                "source": "“오래전, 노부와 했던 약속을 기억하느냐?”",
+                "current": quote,
+                "replacement": "“Do you remember the promise we made long ago?”",
+            },
+        ]}
+        text = f"# Chapter 974\n\n{quote}\n\nMiddle.\n\n{quote}\n\n"
+        revised = apply_review_replacements(text, review)
+        replacement = "“Do you remember the promise we made long ago?”"
+        self.assertEqual(revised, f"# Chapter 974\n\n{replacement}\n\nMiddle.\n\n{replacement}\n")
+
     def test_review_replacement_prefers_unique_full_paragraph(self):
         review = {"findings": [{
             "id": "F01",

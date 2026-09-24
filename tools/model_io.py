@@ -177,6 +177,22 @@ def apply_review_replacements(text: str, review: dict) -> str:
                 if (start == 0 or text[start - 2:start] == "\n\n")
                 and (start + len(old) == len(text) or text[start + len(old):start + len(old) + 2] == "\n\n")
             ]
+            paired_findings = [
+                item for item in review["findings"]
+                if item["current"] == old
+                and re.sub(r"\s*\([^()\n]*[가-힣][^()\n]*\)", "", item["replacement"]) == replacement
+            ]
+            paired_sources = [item.get("source") for item in paired_findings]
+            if (
+                len(paragraph_starts) > 1
+                and len(paragraph_starts) == len(paired_findings)
+                and len(set(paired_sources)) == len(paired_sources)
+            ):
+                spans.extend(
+                    (start, start + len(old), replacement, finding["id"], rank)
+                    for start in paragraph_starts
+                )
+                continue
             if len(paragraph_starts) != 1:
                 raise ValueError(f"finding {finding['id']} current text occurs {len(starts)} times")
             start = paragraph_starts[0]
