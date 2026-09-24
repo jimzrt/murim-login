@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 954
-- Next chapter: 955
-- Current block: 950–954 (5/5)
-- Latest translation: `translations/0954.md`
-- Latest summary: `summaries/beats/0954.md`
-- Safe profiles through: chapter 954
+- Last completed: 955
+- Next chapter: 956
+- Current block: 955–959 (1/5)
+- Latest translation: `translations/0955.md`
+- Latest summary: `summaries/beats/0955.md`
+- Safe profiles through: chapter 955
 
 ## Current Block
 
-- The steppe army reaches Eight Spring Gorge after enduring scorched fields, poisoned water, and traps. Jamukha rallies his tens of thousands of riders and leads their charge toward the gorge. Temur regrets ignoring the real Chinggen’s warnings, while concealing from the impostor wearing Chinggen’s face that he knows the truth. Facing the oncoming attack, Jin Wikyung steadies his defenders by proposing they celebrate the next Double Ninth Festival together on Mount Heng. Jin Mukyung joins the defense as the first riders burst from the darkness.
+- After a nightmare in which everyone was dead by the time he reached them, Taekyung wakes during a brief rest with the Bow Saint and Jeok Cheongang. The Bow Saint urges him to trust the people he is rushing to save and explains that some burdens cannot be overcome alone. Taekyung accepts that he must rely on them, rests by the fire, and prepares to continue toward Taiyuan, still about two days away.
 
 ## Open Questions
 

@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I’d searched for the fastest route and ridden without stopping, day or night.",
+      "defect": "After abandoning his horse, Taekyung is described as riding rather than running.",
+      "id": "F01",
+      "rationale": "달려왔으니까 describes his continuing on foot in the context of discarding the horse.",
+      "replacement": "I’d sought the fastest route and run without rest, day or night.",
+      "severity": "critical",
+      "source": "가장 신속한 길을 찾아 밤낮을 가리지 않고 쉼 없이 달려왔으니까."
+    },
+    {
+      "confidence": 0.97,
+      "current": "it seemed as if the sight of them dying horribly still hovered before my eyes.",
+      "defect": "The draft makes him see them dying, although his nightmare showed that they were already dead when he arrived.",
+      "id": "F02",
+      "rationale": "죽음을 맞이한 describes people who have met their deaths; the preceding account says he found everyone dead.",
+      "replacement": "the sight of them, all horribly dead, still seemed to hover before my eyes.",
+      "severity": "critical",
+      "source": "처참하게 죽음을 맞이한 그들의 모습이 눈앞을 어른거리는 듯했다."
+    },
+    {
+      "confidence": 0.86,
+      "current": "No matter how hard I tried in each moment, the outcome didn’t change.",
+      "defect": "The draft turns a failure to achieve the hoped-for result into a claim that the outcome never changed.",
+      "id": "F03",
+      "rationale": "The contrast is between doing one’s best and the results, not between effort and an unchanging outcome.",
+      "replacement": "I gave every moment my best, but the results still fell short.",
+      "severity": "major",
+      "source": "매 순간에 최선을 다할지라도 결과는 아니었지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "the young Family Head of the Jin Family of Taiyuan",
+      "defect": "The title promotes the family’s designated junior head to its reigning Family Head.",
+      "id": "F04",
+      "rationale": "소가주 has the packet’s established rendering “Lesser Family Head,” distinct from 가주.",
+      "replacement": "the Lesser Family Head of the Jin Family of Taiyuan",
+      "severity": "major",
+      "source": "태원진가의 소가주에게"
+    },
+    {
+      "confidence": 0.94,
+      "current": "And even to that deranged old man who’d wandered the world in search of the Disciple he’d left behind as his final regret and longing.",
+      "defect": "“He’d left behind” implies that the old man abandoned his Disciple, a relationship history the passage does not state.",
+      "id": "F05",
+      "rationale": "The Disciple remained a source of regret and attachment; the source does not say the old man left him behind.",
+      "replacement": "And even to that deranged old man who’d wandered the world searching for the Disciple who remained his last regret and lingering attachment.",
+      "severity": "major",
+      "source": "생애 마지막 후회이자 미련으로 남은 제자를 찾기 위해 천하를 떠돌던 어느 정신 나간 노인에게도."
+    },
+    {
+      "confidence": 0.97,
+      "current": "like a grandmother gently soothing her young grandson.",
+      "defect": "Soothing loses the grandmother’s gentle correction of a child’s petulance.",
+      "id": "F06",
+      "rationale": "투정을 타이르는 describes responding to and correcting the grandson’s fussing, not simply comforting him.",
+      "replacement": "like a grandmother gently chiding her petulant young grandson.",
+      "severity": "minor",
+      "source": "마치 어린 손자의 투정을 타이르는 할머니처럼."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes how Taekyung traveled, blurs the nightmare’s aftermath, and misses two relationship cues.",
+  "version": 1
+}
