@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If it had been an hour ago, I might not even have heard Jeok Cheongang’s voice.",
+      "defect": "An hour changes the stated interval.",
+      "id": "F01",
+      "rationale": "한 식경 is half an hour.",
+      "replacement": "If it had been half an hour ago, I might not even have heard Jeok Cheongang’s voice.",
+      "severity": "critical",
+      "source": "아마 한 식경 전이었다면 적천강의 목소리조차 듣지 못했을 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Temur jabbed Chinggen in the waist, shaking his head, then raised his cup high and called out:",
+      "defect": "The draft assigns the head-shaking to Temur instead of Chinggen.",
+      "id": "F02",
+      "rationale": "칭겐 is the one shaking his head; Temur jabs him and raises the cup.",
+      "replacement": "Temur jabbed the head-shaking Chinggen in the waist, then raised his cup high and called out:",
+      "severity": "critical",
+      "source": "고개를 절레절레 내젓는 칭겐의 허리춤을 쿡 찌른 테무르가 손에 쥔 술잔을 높이 치켜세우며 외쳤다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A cold wind carrying sand whipped through the entrance of the ger.",
+      "defect": "The wind pushes the entrance open in the source; the draft instead has it pass through.",
+      "id": "F03",
+      "rationale": "입구를 밀어젖혔다 describes opening the entrance, not merely blowing through it.",
+      "replacement": "A cold wind carrying sandy dust pushed open the entrance to the ger.",
+      "severity": "critical",
+      "source": "모래 먼지를 머금은 차가운 바람이, 게르의 입구를 밀어젖혔다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“May you live out your days in good health!”",
+      "defect": "The blessing substitutes good health for long life.",
+      "id": "F04",
+      "rationale": "천수를 누리다 wishes someone their full natural lifespan; it does not specify good health.",
+      "replacement": "“May you live to a ripe old age!”",
+      "severity": "minor",
+      "source": "“부디 천수를 누리소서!”"
+    }
+  ],
+  "summary": "Four actionable findings: a time quantity, two physical actions, and a blessing are changed.",
+  "version": 1
+}
