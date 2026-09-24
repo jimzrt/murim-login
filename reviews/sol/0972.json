@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Even if they hadn’t dodged an attack unleashed with his full power, evading one in which he’d put more than seventy percent of his strength was proof they’d had plenty of energy to spare.",
+      "defect": "The opening clause says they had not dodged a full-power attack, rather than saying the attack they dodged was not at full power.",
+      "id": "F01",
+      "rationale": "The qualification concerns how much power he put into the attack; the two did evade it.",
+      "replacement": "The attack hadn’t been at full power, but they’d dodged a strike backed by more than seventy percent of his strength. That proved they still had plenty in reserve.",
+      "severity": "critical",
+      "source": "전력을 다한 것까지는 아니더라도, 칠 할 이상의 힘을 쏟아부은 일격을 피했다는 것은 충분한 여력이 있었다는 증거."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The impact swelled and exploded, sweeping across an area more than ten *zhang* wide.",
+      "defect": "A radius of over ten zhang becomes an area over ten zhang wide, reducing the stated reach.",
+      "id": "F02",
+      "rationale": "반경 specifies the radius, not the total width.",
+      "replacement": "The shock wave swelled and exploded, sweeping everything within a radius of more than ten *zhang*.",
+      "severity": "critical",
+      "source": "크게 부풀어 오르며 폭발한 충격파가 반경 십여 장을 휩쓸었다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "The Bow Saint quickly fired arrows of light that swept away most of it, but she couldn’t stop the few scattered flares that had already spread through the air.",
+      "defect": "The draft turns the scattered remainder of the rising smoke into separate signal flares.",
+      "id": "F03",
+      "rationale": "그중 and 일부 refer back to the smoke rising from the signal.",
+      "replacement": "The Bow Saint’s arrows of light swiftly swept away most of the smoke, but even she couldn’t catch every wisp that scattered through the air.",
+      "severity": "critical",
+      "source": "궁성이 신속하게 쏘아 보낸 빛의 화살이 그중 대부분을 휩쓸었으나, 허공에서 뿔뿔이 흩어진 일부마저 어찌할 수는 없었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "He felt he could almost understand the world as the Heavenly Demon had seen it, ruling over the Ten Thousand Demonic Paths with martial prowess that reached the heavens, and as the Martial God had seen it when he defeated the Heavenly Demon and brought peace to the land.",
+      "defect": "The Heavenly Demon’s ambition to seize the world is omitted.",
+      "id": "F04",
+      "rationale": "천하를 도모했던 states what the Heavenly Demon sought to do, contrasting with the Martial God’s restoration of peace.",
+      "replacement": "He felt he could almost understand the world the Heavenly Demon had seen as he ruled over the Ten Thousand Demonic Paths with heaven-reaching martial prowess and sought to conquer the world—and the world the Martial God had seen when he defeated him and brought peace to it.",
+      "severity": "major",
+      "source": "천하를 도모했던 천마(天魔)가, 그랬던 그를 쓰러트리고 천하를 안정시켰던 무신(武神)이 바라보았던 세상을 조금이나마 알 것 같다고."
+    },
+    {
+      "confidence": 0.96,
+      "current": "My little guy is so handsome and well-proportioned.",
+      "defect": "“Well-proportioned” replaces the joke that 똘똘이, a euphemism for his penis, is 똘똘하게—clever-looking.",
+      "id": "F05",
+      "rationale": "The repeated 똘똘 sound supplies the joke; the source does not comment on proportions.",
+      "replacement": "My little guy is handsome and looks plenty clever.",
+      "severity": "major",
+      "source": "제 똘똘이가 얼마나 똘똘하게 잘 생겼는데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—That’s not my hand.",
+      "defect": "The added possessive changes the punchline: Taekyung says the thing touching Jeok is not a hand at all.",
+      "id": "F06",
+      "rationale": "손 아닌데요 negates the object’s identity, not its ownership.",
+      "replacement": "—That’s not a hand.",
+      "severity": "major",
+      "source": "그거 손 아닌데요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jamukha had unleashed the leashes on the countless hunting dogs under his command.",
+      "defect": "“Unleashed the leashes” makes the leashes, rather than the hunting dogs, the thing released.",
+      "id": "F07",
+      "rationale": "목줄을 풀어놓은 means he released the dogs from restraint.",
+      "replacement": "Jamukha had let the countless hunting dogs under his command off their leashes.",
+      "severity": "minor",
+      "source": "자신이 거느린 수많은 사냥개의 목줄을 풀어놓은 자무카는"
+    }
+  ],
+  "summary": "Several passages alter the attack’s scale, the effect of the signal, or the dialogue’s meaning.",
+  "version": 1
+}
