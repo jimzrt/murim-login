@@ -1,6 +1,6 @@
 # Chapter 596
 
-Just because the sun had set and the second hand had passed midnight didn’t mean the day was over.
+Just because the sun had set and the clock had passed midnight didn’t mean the day was over.
 
 As long as people were awake and there was an interesting story to follow, their day went on.
 
@@ -16,13 +16,13 @@ Almost as soon as it broke, posts and comments flooded websites everywhere.
 >
 > └ What is?
 >
-> └ I got a sudden alert and checked it out, and… holy shit, Lord Fuck supposedly stormed Ares Guild headquarters alone?
+> └ I got an alert and checked it, and… holy shit, Lord Fuck just stormed Ares Guild headquarters alone?
 >
 > └ ???
 >
 > └ ??????
 >
-> └ Quit talking bullshit, lol. I was watching the news just now, and they were looking for Lord Fuck because he disappeared from Pyeongchang. So why is he suddenly storming Ares Guild headquarters—
+> └ Quit talking bullshit lol. I was watching the news just now, and they were looking for Lord Fuck because he disappeared from Pyeongchang. So why would he suddenly storm Ares Guild headquar—
 >
 > └ Fuck, it’s real. What the hell is this?
 
@@ -46,7 +46,7 @@ Almost as soon as it broke, posts and comments flooded websites everywhere.
 >
 > └ Yeah. Why would Lord Fuck go there after disappearing for a while? Even if he did go, the rest sounds like rumors. Feels like the media’s using rumors as kindling.
 
-Immediately after the media began broadcasting the breaking news on a massive scale, most people refused to believe the shocking report.
+When the media first began broadcasting the news, most people refused to believe it.
 
 A hero who had put down two monster waves in succession and then vanished had supposedly stormed Ares Guild, of all places, alone. It made no sense.
 
@@ -58,15 +58,15 @@ But within minutes, Jongno was designated a temporary disaster zone. Hunters and
 >
 > └ Why all of a sudden…
 >
-> └ I’m living in the United States. They’re broadcasting breaking news here, too. Every major news program, including CNN and FOX, is monitoring the situation.
+> └ I live in the United States. They’re running breaking news here, too. Every major network, including CNN and FOX, is watching the situation.
 >
-> └ Seems like it’s the same all over the world, not just the United States. Korea and the foreign media are both going crazy;
+> └ Looks like it’s the same all over the world. Korean and foreign news outlets are going crazy;
 
 Everyone who heard the news, at home and abroad, felt the atmosphere grow heavy.
 
-President Baek Hanseong delivered an emergency letter concerning the current situation to the media, while experts in every field busied themselves analyzing the situation and its causes.
+President Baek Hanseong sent the media an emergency statement about the situation, while experts in every field scrambled to analyze what had happened and why.
 
-But before a complete answer could be found, the person at the center and beginning of everything revealed himself.
+But before anyone could arrive at a complete answer, the man at the center of it all appeared.
 
 “Hunter Jin Taekyung.”
 
@@ -80,7 +80,7 @@ His voice came out bleakly through dry, cracked lips.
 
 “I… only did what I had to do.”
 
-That was all the people staring at the screen, having forgotten even how to breathe, were allowed to see.
+That was all the people staring at their screens, scarcely daring to breathe, were allowed to see.
 
 The live broadcast was cut off immediately at the Blue House’s request. For some reason, reporters from around the world who had been at the scene said nothing more.
 
@@ -108,7 +108,7 @@ It was a bombshell.
 
 Two monster waves unlike anything seen since the Great Cataclysm had struck in succession. Before the shock of them could fade, this new explosion shook everything again.
 
-The whole of Korea boiled like a furnace beneath a bed of charcoal, and the heat spread throughout the world.
+All of Korea seethed, and the heat spread around the world.
 
 Midnight passed. The hours before dawn wore on. Still, the uproar showed no sign of subsiding.
 
@@ -118,9 +118,7 @@ Some condemned Jin Taekyung as a devil. Others submitted formal petitions demand
 
 But not everyone pointed a finger at him. In fact, most people still held a mixture of belief and doubt.
 
-The belief that Jin Taekyung, who had accomplished so much, couldn’t possibly have done such a thing.
-
-The suspicion that media reports without an official announcement were nothing more than nonsense.
+They believed that Jin Taekyung, after all he had done, could not possibly have acted without reason. They doubted news reports issued without an official announcement.
 
 Those unbelievable hours passed, and morning came.
 
@@ -136,7 +134,7 @@ And through the rain that fell without pause for two full days—from the media 
 
 *Drip. Drip-drip-drip.*
 
-At the sudden sound of rain, I blinked blankly.
+I blinked at the sudden sound of rain.
 
 As my vision cleared, the first thing I saw was an ornate, magnificent painting.
 
@@ -150,7 +148,7 @@ I turned my head. Raindrops tapped against the window that took up an entire wal
 
 *No way.*
 
-A single thought flashed through my empty mind, and my heart began pounding violently.
+One thought crossed my empty mind, and my heart began to pound.
 
 What if—against all odds—it had all been a nightmare? What if nothing had happened yet, and I had only just left Henan and logged out?
 
@@ -162,7 +160,7 @@ A smooth, low voice. Younger than Butler Kim’s, and impossible to read.
 
 How had I failed to notice him until now?
 
-I clenched my teeth when I saw the face of the unwelcome guest who had broken through my deep thoughts and approached me.
+I looked at the unwelcome visitor who had interrupted my thoughts and clenched my teeth.
 
 *President Baek Hanseong.*
 
@@ -182,7 +180,7 @@ He pulled a chair close and spoke with concern.
 
 “You still seem unwell. The doctor will be here soon, so please wait just a moment…”
 
-I didn’t need a doctor or a Healer. Perhaps because I had gotten such deep rest, my body had completely recovered. My physical condition was not what mattered right now.
+I didn’t need a doctor or a Healer. Maybe the long rest had done it, but my body had recovered completely. That wasn’t what mattered.
 
 “How long… how long has it been?”
 
@@ -196,9 +194,9 @@ I took it and checked the date first.
 
 Two days had passed since the day I remembered. An enormous photograph of my face covered the front page, accompanied by a bold headline.
 
-**The Truth of That Day, Sullied by Countless Misunderstandings. The Hero Who Has Not Awakened.**
+**[The Truth of That Day, Sullied by Countless Misunderstandings. The Hero Who Has Not Awakened.]**
 
-I could tell from the headline alone. It told me how much the media had talked about me and about what had happened that day over the past two days.
+The headline alone told me how much the media had talked about me and what had happened over those two days.
 
 But I felt neither irritation nor anger. Only a heavy, numbing sadness.
 
@@ -214,11 +212,11 @@ Weighed down by that reality, I stared blankly out the window. President Baek Ha
 
 I turned from the window at the unexpected name. President Baek Hanseong met my eyes and nodded.
 
-“Yes, the same Go Se-won you know. The closest aide who served as Head of Security for the Vice Guild Master—no, for the late Go Jun.”
+“Yes, the Go Se-won you know. Go Jun’s closest aide—the man who served as his Head of Security.”
 
 “…”
 
-“He turned himself in first. The executives from Go Jun’s faction who resisted until the end had already been subdued by him. His testimony was very conclusive as well.”
+“He turned himself in. He’d also subdued the executives from Go Jun’s faction who resisted to the end. His testimony was unequivocal.”
 
 When I’d spared him, I hadn’t expected this kind of help.
 
@@ -226,17 +224,17 @@ I looked at the newspaper again. My face wasn’t the only one on the front page
 
 Halfway down was a photograph of Go Se-won before a crowd of cameras and microphones, wearing his usual calm expression. Beside it was his testimony that Go Jun had caused the two monster waves two days earlier.
 
-“It was decisive testimony. And furthermore…”
+“It was decisive testimony. And…”
 
 President Baek Hanseong frowned before continuing.
 
-“It also corroborated the evidence concerning Go Jun’s body, which had been discovered earlier.”
+“It also helped account for Go Jun’s body, which we’d found earlier.”
 
 Go Jun had died as a hideous blend of human and monster. His corpse alone was clear physical evidence.
 
-President Baek Hanseong shuddered, as though he had seen the scene with his own eyes, and continued.
+The President shuddered as if he had seen it himself.
 
-“Go Se-won played a very important role. Thanks to him, Hunter Jin Taekyung was able to clear himself of most of the charges.”
+“Go Se-won did us a great service. Thanks to him, most of the charges against you could be dropped.”
 
 I nodded, feeling nothing.
 
@@ -256,7 +254,7 @@ I had no objection to seeing Go Se-won, but something more important was on my m
 
 Had the old butler’s funeral begun? Had Team Leader Choi regained consciousness?
 
-That was what I wanted to know most.
+That was what I wanted to know.
 
 I was just about to part my dry lips when the door flew open without a knock.
 

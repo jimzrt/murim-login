@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor shifts in time imagery and phrasing; the rest is faithful.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 7",
+      "current": "As long as people were awake and there was an interesting story to follow, their day went on.",
+      "defect": "The source says their time continues, not specifically that their day goes on. The wording also narrows the source’s general reference to interesting stories into a story to follow.",
+      "replacement": "As long as there were people who hadn’t gone to sleep and interesting stories, their time would continue.",
+      "rationale": "The Korean says 잠들지 않은 사람들과 흥미로운 이야기가 있다면 그들의 시간은 계속된다 (if there are people who haven’t fallen asleep and interesting stories, their time continues). The accepted baseline also preserves “their time.”",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 141",
+      "current": "Midnight passed. The hours before dawn wore on. Still, the uproar showed no sign of subsiding.",
+      "defect": "“The hours before dawn” places the scene before dawn, while the source says the early morning had grown deep.",
+      "replacement": "Even after midnight passed and the early-morning hours wore on, the uproar showed no sign of subsiding.",
+      "rationale": "새벽이 깊어도 means even as the early morning wore on or deepened; it does not mean the hours before dawn.",
+      "confidence": 0.94
+    }
+  ]
+}
