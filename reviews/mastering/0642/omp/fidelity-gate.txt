@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, but one closing image is omitted and the seating description introduces a rank implication absent from the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraph 241",
+      "current": "The three seats nearest it belonged to the great chieftains, second only to the Palace Lord.",
+      "defect": "The Korean identifies these as the three seats for the three Great Chieftains other than the Palace Lord. “Second only to the Palace Lord” instead suggests a rank relationship and drops the explicit distinction.",
+      "replacement": "The three seats nearest it belonged to the three Great Chieftains other than the Palace Lord.",
+      "rationale": "The source says “궁주를 제외한 세 대족장들,” explicitly excluding the Palace Lord from the three Great Chieftains.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Paragraphs 265–267",
+      "current": "Two figures appeared beyond it at last.",
+      "defect": "The source says the enormous stone gate moved again before the two figures appeared. The assembled English also omits the accompanying rumbling sound effect.",
+      "replacement": "*Rumble…*\n\nBeyond the enormous stone gate, which began moving once more, two figures finally appeared.",
+      "rationale": "The Korean includes both 구구궁 (the gate’s rumbling) and 또다시 움직이는 거대한 석문 (the enormous stone gate moving again).",
+      "confidence": 0.98
+    }
+  ]
+}

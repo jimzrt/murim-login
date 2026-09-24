@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Two figures appeared beyond it at last.",
+      "defect": "The source says the enormous stone gate moved again before the two figures appeared. The assembled English also omits the accompanying rumbling sound effect.",
+      "id": "F02",
+      "rationale": "The Korean includes both 구구궁 (the gate’s rumbling) and 또다시 움직이는 거대한 석문 (the enormous stone gate moving again).",
+      "replacement": "*Rumble…*\n\nBeyond the enormous stone gate, which began moving once more, two figures finally appeared.",
+      "severity": "minor",
+      "source": "Paragraphs 265–267"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but one closing image is omitted and the seating description introduces a rank implication absent from the source.",
+  "version": 1
+}

@@ -20,7 +20,7 @@ White Tiger came running like the wind, gave a short, powerful cry, and bounded 
 
 - Pant. Pant. Pant.
 
-“Yes, yes. You managed to find your way here. What a clever little fellow.”
+“Yes, yes. You found us. Clever boy.”
 
 At this point, maybe we should call it a silver retriever instead of a white tiger. Granted, it was the size of ten retrievers put together.
 
@@ -107,7 +107,7 @@ But the rumor didn’t stop there.
 
 To the people of Nanman, the name Five Poisons Sect was a burden they could never cast off. Their ancestors had fought the sect, and only after countless sacrifices had they established the order and laws they lived by today.
 
-And yet, of all places, the incident had occurred in Ailao Mountain, the Five Poisons Sect’s former headquarters.
+Now something had happened at Ailao Mountain, the sect’s former stronghold.
 
 Ordinarily, it was a forbidden place they didn’t even want to mention. Trouble there was another matter.
 
@@ -157,7 +157,7 @@ Some thirty pairs of eyes turned to one chieftain. He had looked displeased ever
 
 The middle-aged chieftain frowned.
 
-“What brave and prideful words. Truly moving. But didn’t you hear that weak Han Chinese bastard dealt with two Thousand-Year Spiders and thousands of venomous beasts in the Poisonblood Grounds? That he is a renowned warrior of the Central Plains who inherited the Fire King’s legacy?”
+“How brave. How proud. I’m deeply moved. But did you miss the part where that weak Han Chinese bastard dealt with two Thousand-Year Spiders and thousands of venomous beasts in the Poisonblood Grounds? Or that he’s a renowned warrior of the Central Plains who inherited the Fire King’s teachings?”
 
 “Th-that…”
 
@@ -165,7 +165,7 @@ The middle-aged chieftain frowned.
 
 “What? Loyal dog? You son of a bitch!”
 
-“Son of a bitch? You piece of poisonous refuse left behind by the Five Poisons Sect—how dare you……”
+“Son of a bitch? You piece of poisonous refuse the Five Poisons Sect left behind—”
 
 *Bang!*
 
@@ -179,7 +179,7 @@ The enormous stone gate swung open. Three figures stepped into the hall.
 
 Footsteps echoed through the sudden quiet. The man in front stopped, and his voice came cold as ice.
 
-“Looks like I interrupted your conversation.”
+“Looks like I interrupted.”
 
 “…!”
 
@@ -189,7 +189,7 @@ Footsteps echoed through the sudden quiet. The man in front stopped, and his voi
 
 No one said a word.
 
-As if nothing had happened, the shouting that had filled the hall only moments ago vanished in an instant, replaced by a heavy silence that pressed down on everyone. At the same time, the expressions of the two opposing chieftains split between joy and sorrow.
+The shouting vanished as though it had never happened, and a heavy silence settled over the hall. The two chieftains who had been facing off now wore very different expressions.
 
 “Welcome, Great Chieftain Baeksang.”
 
@@ -203,7 +203,7 @@ Baeksang glanced at the groveling loyal dog, then fixed his eyes on the middle-a
 
 Chief Jang bit his lip and lowered his head.
 
-“I greet Great Chieftain Baeksang.”
+“Great Chieftain Baeksang. I greet you.”
 
 Yohi, Great Chieftain of the Yao people, stood to Baeksang’s right. She gave a quiet laugh.
 
@@ -243,7 +243,7 @@ Today, there were two.
 
 “Why would…”
 
-And just as a puzzled murmur escaped someone’s lips—
+Before the speaker could finish the question, the great stone gate rumbled open again.
 
 Two figures appeared beyond it at last.
 
