@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "If I, not Pung Yang, had survived that battle",
+      "defect": "Reverses who survived in the hypothetical.",
+      "id": "F01",
+      "rationale": "The narrator wonders what would have happened if Pung Yang had survived instead of him.",
+      "replacement": "If Pung Yang, not I, had survived that battle",
+      "severity": "critical",
+      "source": "만약 그날의 전투에서 살아남은 것이 내가 아니라 풍양이었다면"
+    },
+    {
+      "confidence": 0.99,
+      "current": "the Head Elder, who’d reached the very threshold of the Peak realm, could only show power like that after drawing on his innate qi",
+      "defect": "Places the Head Elder at the threshold of Peak rather than near its upper limit.",
+      "id": "F02",
+      "rationale": "절정의 끝자락 denotes the far end of the Peak realm, which matters to the comparison of martial power.",
+      "replacement": "the Head Elder, who’d reached the very limits of the Peak realm, could only show power like that after drawing on his innate qi",
+      "severity": "critical",
+      "source": "절정의 끝자락에 도달해 있던 대장로가 선천지기(先天眞氣)까지 끌어올린 후에야 그런 힘을 보일 수 있었다는 것을 생각한다면 더더욱."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Its effects were tremendous, but so were its terrible side effects, and they didn’t last long. It was a power that twisted the natural order itself.",
+      "defect": "Makes the side effects, rather than the pill’s power, sound short-lived.",
+      "id": "F03",
+      "rationale": "유지 시간 refers to how long the pill’s enhanced power lasts.",
+      "replacement": "Its effects were tremendous, but the side effects were terrible, and the power didn’t last long. It twisted the natural order itself.",
+      "severity": "major",
+      "source": "물론 엄청난 효력만큼이나 부작용이 끔찍한 데다 유지 시간도 길지 않지만, 그야말로 순리(順理)를 뒤트는 힘."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Come to think of it, he always carried around a silk pouch for a while.",
+      "defect": "Changes an ongoing habit that began at some point into one that lasted only a while.",
+      "id": "F04",
+      "rationale": "언제부턴가 marks when the habit began; 항상 says he carried it consistently thereafter.",
+      "replacement": "Come to think of it, at some point he started carrying a silk pouch everywhere.",
+      "severity": "major",
+      "source": "그러고 보니, 언제부턴가 웬 비단 주머니를 항상 갖고 다녔습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“They reduced its effects, and with them, the side effects that follow.”",
+      "defect": "States the second possibility as fact rather than leaving it hypothetical.",
+      "id": "F05",
+      "rationale": "The line completes the preceding either-or speculation; Taekyung explicitly says afterward that they cannot yet be sure.",
+      "replacement": "“Or they reduced its effects—and the side effects along with them.”",
+      "severity": "major",
+      "source": "“효력을 줄인 만큼, 그에 뒤따르는 부작용도 감소시켰거나.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“They didn’t make it just to increase their own forces.”",
+      "defect": "Turns an increase in fighting strength into an increase in the number of forces.",
+      "id": "F06",
+      "rationale": "전력 here means combat capability; the point is that the pill has a purpose beyond strengthening Dark Heaven’s fighters.",
+      "replacement": "“They didn’t make it just to bolster their own fighting strength.”",
+      "severity": "major",
+      "source": "“놈들이 그것을 만든 이유는, 단지 자신들의 전력을 높이기 위해서만이 아니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "and a bunch of ordinary bandits have gotten their hands on it?",
+      "defect": "Changes the single bandit under discussion into a group.",
+      "id": "F07",
+      "rationale": "산적 나부랭이 따위 refers disparagingly to the individual bandit whose use of the pill prompted this conversation.",
+      "replacement": "and some lowly bandit have gotten his hands on it?",
+      "severity": "critical",
+      "source": "그리고 산적 나부랭이 따위가 어찌 그것을 손에 넣었겠느냐?"
+    }
+  ],
+  "summary": "Several consequential errors affect who survived, a martial artist’s level, the pill’s duration, and the proposed mechanism.",
+  "version": 1
+}
