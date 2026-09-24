@@ -1,19 +1,19 @@
 # Translation State
 
-- Last completed: 990
-- Next chapter: 991
-- Current block: 990–994 (1/5)
-- Latest translation: `translations/0990.md`
-- Latest summary: `summaries/beats/0990.md`
-- Safe profiles through: chapter 990
+- Last completed: 991
+- Next chapter: 992
+- Current block: 990–994 (2/5)
+- Latest translation: `translations/0991.md`
+- Latest summary: `summaries/beats/0991.md`
+- Safe profiles through: chapter 991
 
 ## Current Block
 
-- News of Peng Cheolhu’s death spreads through Murim, intensifying grief and anger and uniting people against Dark Heaven, now understood to threaten the whole world. The Eight Heavens Blood Calamity and Peng’s death become catalysts for mobilization, while imperial recruitment offices are overwhelmed by would-be soldiers—including underage applicants.
-- In Qinghai, Cheongpung encounters a boy who dreams of becoming like Jin Taekyung and encourages him to persevere, suggesting a journey to Shanxi or the nearby Kunlun Sect. After the boy leaves, the Slaughter Saint scolds Cheongpung for disappearing; Cheongpung explains he ran out of candied hawthorn skewers and fondly recalls meeting his Benefactor.
+- Jin Taekyung awakens in confusion after dreaming of a child being comforted by a father who calls him Taekyung. Jeok Cheongang steadies him and worries the dream may indicate a Heart Demon, but Taekyung says the memory was not his own. He realizes it belonged to the person he calls “you”: Jin Taekyung, the Third Young Master of the Jin Family and the original owner of his body.
 
 ## Open Questions
 
+- Whose memory did Taekyung experience, and who was the father who called the child Taekyung?
 - What is behind the worldwide weather and heavenly-pattern changes?
 - Is the upheaval a scheme laid by some unknown power, as Mae Jonghak suspects?
 - What are Dark Heaven and the Lord of Heaven planning?
