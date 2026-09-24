@@ -2471,3 +2471,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 무위검문 | **Martial Might Sword Sect** | Sect whose members are told to prepare for an ambush. |
 | 복마대 | **Demon-Subduing Squad** | Kongtong Sect unit whose one hundred members died defending Dunhuang. |
 | 진인 | **Perfected One** | Honorific for the two Kongtong Elders killed at Dunhuang. |
+| 공동검룡 | **Kongtong Sword Dragon** | Epithet of the Kongtong Sect’s renowned rising martial artist killed in the flashback. |
+| 복마검 | **Demon-Subduing Sword** | The Kongtong disciple’s sword art. |
+| 무아 | **No-self** | The brief self-forgetting state the disciple mistakes for a breakthrough. |

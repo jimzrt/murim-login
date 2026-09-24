@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They lashed their horses without sparing their strength.",
+      "defect": "The draft makes the riders’ strength the concern; the source says they disregarded the horses’ stamina.",
+      "id": "F01",
+      "rationale": "말들의 체력 안배 refers specifically to managing the horses’ endurance.",
+      "replacement": "They whipped their horses on without a thought for pacing them.",
+      "severity": "critical",
+      "source": "말들의 체력 안배도 신경 쓰지 않은 채 채찍을 휘둘렀다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*It was nothing but desert all around us just an hour ago.*",
+      "defect": "One shichen is approximately two hours, not one.",
+      "id": "F02",
+      "rationale": "The binding glossary defines 시진 as a traditional unit of approximately two hours.",
+      "replacement": "*It was nothing but desert all around us just two hours ago.*",
+      "severity": "major",
+      "source": "분명히 한 시진 전까지만 하더라도 주위가 온통 사막이었는데."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Once, twice, then a third time.",
+      "defect": "The draft turns a final group of three signals into a single third signal.",
+      "id": "F03",
+      "rationale": "마지막 세 번 specifies three repetitions at the end.",
+      "replacement": "Once, twice. Then three times in a final burst.",
+      "severity": "critical",
+      "source": "한 번, 두 번. 그리고 마지막 세 번."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Their throats had been cut. Their hearts pierced. Or their bodies had been shattered so completely that not a trace remained.",
+      "defect": "Cut throats replace severed necks, changing how some of the sect members died.",
+      "id": "F04",
+      "rationale": "목이 잘려서 describes decapitation, not slit throats.",
+      "replacement": "Their heads had been cut off. Their hearts pierced. Or their bodies blown apart so completely that not a trace remained.",
+      "severity": "critical",
+      "source": "목이 잘려서. 심장이 관통당해서. 혹은 흔적도 찾아볼 수 없이 산산조각으로 흩어져서."
+    },
+    {
+      "confidence": 0.92,
+      "current": "The Demon-Subduing Sword, which had long been blocked by an impassable wall but had finally reached the eight-tenths stage of mastery, would cut down the monster before him.",
+      "defect": "The draft assigns the obstacle and breakthrough to the sword technique rather than to the man’s progress, and calls the wall impassable even though he believes he has broken through it.",
+      "id": "F05",
+      "rationale": "The man believes his enlightenment has let him overcome a longstanding barrier and advance his technique.",
+      "replacement": "He had broken through the wall that had held him back for so long. His Demon-Subduing Sword had finally reached eight-tenths mastery, and it would cut down the monster before him.",
+      "severity": "major",
+      "source": "오랫동안 앞을 가로막고 있던 벽을 허물어트리고, 마침내 팔성(八成)의 경지에 오른 복마검(伏魔劍)이 눈앞의 괴물을 베어 가르리라는 것을."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You’ll… pay for this.”\n\n“What? Pay? Did you say I’d pay?”",
+      "defect": "The draft removes the explicit threat of heavenly punishment and the middle-aged man’s pointed repetition of it, weakening the lead-in to his remark about a new Heaven.",
+      "id": "F06",
+      "rationale": "천벌 means punishment from Heaven; the middle-aged man repeats that specific idea before invoking a new Heaven.",
+      "replacement": "“Heaven… Heaven will punish you.”\n\n“What? Heaven’s punishment? Did you just say Heaven’s punishment?”",
+      "severity": "major",
+      "source": "“처, 천벌을 받을 것이다.”\n\n“뭐? 천벌? 지금 천벌이라고 했나?”"
+    }
+  ],
+  "summary": "Several scene facts and one consequential line of dialogue need correction.",
+  "version": 1
+}
