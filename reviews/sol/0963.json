@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Jin Mukyung pulled his sword from the enemy’s chest, muffling a groan.",
+      "defect": "The draft makes Mukyung the one muffling a groan; the enemy groans.",
+      "id": "F01",
+      "rationale": "억눌린 신음을 토해 내는 modifies 적.",
+      "replacement": "Jin Mukyung pulled his sword from the chest of the enemy who had let out the stifled groan.",
+      "severity": "critical",
+      "source": "진무경은 억눌린 신음을 토해 내는 적의 가슴에서 검을 뽑아냈다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*I can see it.*",
+      "defect": "The thought asserts sight just before the narration says he can sense things without seeing them.",
+      "id": "F02",
+      "rationale": "선명하다 describes clarity without specifying visual perception.",
+      "replacement": "*It’s all so clear.*",
+      "severity": "major",
+      "source": "‘선명하다.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You know it. The Great Hero here knows it, and so do you. What the best choice is.”",
+      "defect": "Wipeng’s statement that he knows the best choice is replaced with a second reference to Mukyung.",
+      "id": "F03",
+      "rationale": "나도 refers to Wipeng, followed by Cheol Mubaek and Mukyung.",
+      "replacement": "“I know it, Great Hero Cheol here knows it, and you know it yourself. What the best choice is.”",
+      "severity": "major",
+      "source": "“나도, 여기 계신 철 대협께서도, 그리고 너 스스로도 알 것이다. 무엇이 최선인지는.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Leave before it’s too late. We can still break through and open a way out.”",
+      "defect": "“We” includes Wipeng in the escape, contradicting his insistence that Mukyung go alone.",
+      "id": "F04",
+      "rationale": "The preceding 너 혼자서라면 establishes Mukyung alone as the person who can escape.",
+      "replacement": "“Leave before it’s too late. You can still break through and make your escape.”",
+      "severity": "critical",
+      "source": "“더 늦기 전에 떠나라. 지금이라면 충분히 퇴로를 뚫을 수 있을 거다.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Damn it. I’ve spat out a few *doe* of blood already, and now I can barely manage a handful.”",
+      "defect": "The untranslated measure obscures the contrast between a large amount of blood and a handful.",
+      "id": "F05",
+      "rationale": "몇 됫박 conveys an emphatically large quantity; the joke depends on its contrast with 한 줌.",
+      "replacement": "“Damn it. I’ve coughed up bucketfuls of blood, and now all I can manage is a handful.”",
+      "severity": "major",
+      "source": "“젠장. 피만 몇 됫박을 쏟았더니 이제는 고작해야 한 줌이구먼.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Remembering the old fiend who had become the first prey of his nameless strike, Jin Mukyung stepped toward the frozen enemies.",
+      "defect": "The draft omits the technique name placed immediately before this recollection.",
+      "id": "F06",
+      "rationale": "The source explicitly names 청파낙조 here, changing the strike from nameless to named.",
+      "replacement": "*Blue Wave, Falling Bird.*\n\nRemembering the old fiend who had become the first prey of that once-nameless strike, Jin Mukyung stepped toward the frozen enemies.",
+      "severity": "major",
+      "source": "청파낙조(靑波落鳥).\n\n이름 없던 일격의 첫 먹잇감이 된 늙은 마두를 떠올리며"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The owner of the unfamiliar voice that had suddenly spoken stood just ten steps away, looking at him.",
+      "defect": "Ten steps changes the specified distance of one jang.",
+      "id": "F07",
+      "rationale": "일장 is a distance of roughly three meters, not ten steps.",
+      "replacement": "The owner of the unfamiliar voice that had suddenly spoken stood only about ten feet away, looking at him.",
+      "severity": "critical",
+      "source": "불과 일장밖에 되지 않는 거리에서 그를 바라보고 있었다."
+    }
+  ],
+  "summary": "Several action and speaker errors need correction, along with an omitted technique name.",
+  "version": 1
+}
