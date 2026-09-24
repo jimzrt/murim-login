@@ -2443,3 +2443,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 이룡신창 | **Divine Spear of the Imugi** | Murong Baek’s sobriquet. |
 | 모용위진 | **Murong Wijin** | Head Elder of the Murong Family directing the battlefield. |
 | 천호 | **Thousand Captain** | Rank held by Jeong Hogun in the Embroidered Uniform Guard. |
+| 모용수 | **Murong Su** | Seventh son of Murong Baek and the only direct descendant left at the Murong estate. |

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Taishan, I can’t understand what you’re saying. Namho, has he gone senile?”",
+      "defect": "The draft reverses who is confused and who may be senile. Taishan speaks of himself by name and asks whether Namho has gone senile.",
+      "id": "F01",
+      "rationale": "태산이 is Taishan’s self-reference; 남호 is the subject of 노망났나, not the person being addressed.",
+      "replacement": "“Taishan can’t understand what you’re saying. Has Namho gone senile?”",
+      "severity": "critical",
+      "source": "“태산이. 무슨 말인지 알아들을 수 없다. 남호 혹시 노망났나?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The enormous man lowered himself. That brought his eyes roughly level with Murong Su’s and Namho’s, as Murong Su blinked, still unable to make sense of what was happening.",
+      "defect": "The draft makes Taishan’s eyes meet the others’ level. He lowers himself so Murong Su and Namho can look roughly eye to eye.",
+      "id": "F02",
+      "rationale": "모용수와 남호의 시선 identifies the two gazes that meet.",
+      "replacement": "The enormous man lowered himself, bringing Namho roughly eye to eye with Murong Su, who could only blink, still unable to make sense of what was happening.",
+      "severity": "critical",
+      "source": "커다란 덩치가 자세를 낮추자, 상황을 파악하지 못하고 눈만 깜빡이고 있던 모용수와 남호의 시선이 얼추 맞닿을 수 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The fifteen pillars that, alongside the Nine Sects and One Gang, held up the vast world of the Nine Provinces.",
+      "defect": "The draft places fifteen pillars alongside the Nine Sects and One Gang, rather than counting the Five Great Families together with those ten groups as fifteen.",
+      "id": "F03",
+      "rationale": "The five families and the nine sects and one gang make up the stated fifteen pillars.",
+      "replacement": "Together with the Nine Sects and One Gang, they were the fifteen pillars holding up the vast world of the Nine Provinces.",
+      "severity": "critical",
+      "source": "구파일방과 함께 광활한 구주 천하를 지탱하는 열다섯 개의 기둥."
+    },
+    {
+      "confidence": 0.99,
+      "current": "One small gesture. One short command.",
+      "defect": "The draft loses the explicit choice: either a gesture or a command would suffice.",
+      "id": "F04",
+      "rationale": "혹은 means “or,” not a second required action.",
+      "replacement": "One small gesture. Or one short command.",
+      "severity": "major",
+      "source": "작은 손짓. 혹은 짧은 명령 한 마디."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“As I said, the Murong Family no longer exists. But the Murong family is another matter.”",
+      "defect": "Capitalization alone barely conveys the operative distinction between the abolished great-family institution and the surviving household.",
+      "id": "F05",
+      "rationale": "The contrast between 모용세가 and 모용가 allows the people to remain a household without retaining their standing as a great family.",
+      "replacement": "“As I said, the Murong Family no longer exists. But the Murong household is another matter.”",
+      "severity": "major",
+      "source": "“앞서 말했듯이 모용세가는 이제 존재하지 않는다. 그러나 모용가(慕容家)는 다를 것이다.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "They were no longer members of the Murong Family—but members of the Murong family. Their fervent voices and eyes surrounded Murong Su.",
+      "defect": "Calling the household retainers “members” implies kinship and weakens the distinction between the former great family and the continuing household.",
+      "id": "F06",
+      "rationale": "가솔 denotes people of the household, including retainers, rather than necessarily blood relatives; this sentence marks their changed affiliation.",
+      "replacement": "No longer retainers of the Murong Family but of the Murong household, they surrounded Murong Su with fervent voices and shining eyes.",
+      "severity": "major",
+      "source": "모용세가가 아닌, 모용가의 가솔이 된 그들의 격앙된 음성과 눈빛이 모용수를 감싸 안았다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Even one renowned veteran of the martial world, who had raised his voice to insist that martial artists should handle Murim affairs themselves, had no choice but to accept the matter quietly before the Murim Alliance’s banner, standing tall.",
+      "defect": "“Even one” suggests a particular veteran was present; the source makes a general point about even such a vocal veteran having to accept it.",
+      "id": "F07",
+      "rationale": "어느 … 노강호도 is indefinite here, not an introduction of a specific person.",
+      "replacement": "Even a renowned veteran of the martial world who had loudly insisted that martial artists should handle Murim affairs themselves would have had no choice but to accept it quietly before the Murim Alliance’s towering banner.",
+      "severity": "minor",
+      "source": "무림의 일은 무림인들이 해결해야 한다며 목소리를 높였던 어느 명망 높은 노강호도, 우뚝 선 무림맹의 깃발 앞에서는 조용히 수긍할 수밖에 없었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The man firmly raised a hand, silencing them without a word. He bit his lip, fixed his gaze on Jeong Hogun in the distance, and took a heavy step forward.",
+      "defect": "He waves his hand in refusal rather than merely raising it.",
+      "id": "F08",
+      "rationale": "손을 내저은 describes a rejecting or dismissive wave of the hand.",
+      "replacement": "The man firmly waved them back instead of answering. He bit his lip, fixed his gaze on Jeong Hogun in the distance, and took a heavy step forward.",
+      "severity": "minor",
+      "source": "슥.\n\n대답 대신 단호하게 손을 내저은 사내는 입술을 깨물었다."
+    }
+  ],
+  "summary": "Several action and subject errors, plus a consequential misstatement of the family’s status and the final count.",
+  "version": 1
+}

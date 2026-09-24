@@ -1,0 +1,94 @@
+{
+  "chapter": 983,
+  "files": {
+    "characters/Divine Physician.md": "0c32568ef2780e68d2a886f92ac49bf814a6ff7ce46285dfc6e62a4c57eefe71",
+    "characters/Jeong Hogun.md": "6d580529d9954d6a18616e10d3025495e62ec7aaae26b407a2c84790698fc6fa",
+    "characters/Jin Taekyung.md": "73b99c64775e18ba9220f0c24d7169fd87bb4e8498fe8cf22db2a7335714b145",
+    "characters/Jintae.md": "0f68c20e1ff1e0840326f3491018bc20180bd9f7f204ae58e500397d19db36ac",
+    "characters/Jung Ho.md": "206a34f3d3d97184c1b962be0c733a22dcf625ea13e206ddb8249cd4644c3b40",
+    "characters/Murong Baek.md": "bc69d1f7defe3c54a44ecfa3108ceec850990ee948a8fb13f2e96086a269404f",
+    "characters/Murong Su.md": "2149072de910e75ec69a94bf5c5287af2ef40a7a3635c46e6741400f0d1fc6d3",
+    "characters/Namho.md": "d59db922d21060075966294fe9811ea199ce8bac4177cfb21f402aa4308205a8",
+    "characters/Taishan.md": "db77d07af0d2996497db9ec79e415c53e423929110911bda4199b926946a5a04",
+    "docs/ADDRESS.md": "0383ccfd72d4fbc4b38d48993234603f14d1f5c66c449dca8bf366ced2819cb9",
+    "docs/CONTEXT.json": "2a170543e308b8116d1fab90383e4f50357f61f49802afe4a57a8d1bc1f17aac",
+    "docs/NAMES.md": "2f94b4dbac7a01179a44f1931f0c573499c7caf58da15bcdaf401ece1fceb82b",
+    "docs/STATE.md": "bfdb4c508078728d8db480ba347ad99e85da63439988ed690751459743bb128f",
+    "summaries/beats/0983.md": "11bb937d6865cf5ad57980c26fe22df9ce52ed267f7b8363ab7f0ffc1ed31785"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "정호군",
+        "kinship": "young Murong family member to senior imperial officer",
+        "normal_address": "Thousand Captain Jeong",
+        "notes": "Greets Jeong Hogun as 정 천호께.",
+        "speaker": "모용수",
+        "speech_level": "formal and deferential"
+      },
+      {
+        "addressee": "모용수",
+        "kinship": "Murim Alliance representative to Murong family member",
+        "normal_address": "Murong Su",
+        "notes": "Addresses him by name while offering the survivors a chance.",
+        "speaker": "남호",
+        "speech_level": "familiar and measured"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Murong Family has been dissolved; about a hundred survivors, including Murong Su, are to be taken for interrogation, with their future dependent on whether their innocence is established.",
+        "Murong Su stayed at the estate and risked his life to protect the survivors; Namho has offered them a chance to rebuild as the Murong household under a new Family Head if their innocence is proven."
+      ],
+      "plot": [
+        "Jeong Hogun’s forces surround the Murong estate in Shenyang. Murong Su, Murong Baek’s seventh son, risks his life to keep the remaining household members from intervening, but Jeong orders them executed until Namho intervenes. Jeong agrees to take the survivors for interrogation, and Namho declares the Murong Family dissolved while offering those proven innocent a chance to rebuild as the Murong household under a new Family Head."
+      ],
+      "translation_decisions": [
+        "Distinguish 모용세가 (the dissolved Murong Family) from 모용가 (the surviving Murong household/lineage)."
+      ]
+    },
+    "chapter": 983,
+    "context": {
+      "active_continuity": [
+        "The Murong Family has been dissolved. About a hundred survivors, including Murong Su, are to be interrogated; if proven innocent, they may rebuild as the Murong household under a new Family Head."
+      ],
+      "continuity_sources": [
+        983
+      ],
+      "open_questions": [
+        "Will the survivors’ innocence be established, allowing the Murong household to rebuild under Murong Su or another Family Head?"
+      ],
+      "safe_through": 983,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Murong Su",
+        "korean": "모용수",
+        "notes": "Seventh son of Murong Baek and the only direct descendant left at the Murong estate."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [],
+        "english": "Murong Su",
+        "filename": "Murong Su.md",
+        "korean": "모용수",
+        "personality": "He accepts that his father’s crimes demand responsibility and risks his life to protect the remaining household members.",
+        "relationships": "Murong Baek was his father; he seeks to protect the roughly hundred people who remained at the Murong estate.",
+        "role": "Murong Su is Murong Baek’s seventh son and the only direct descendant left at the Murong estate; he stayed behind and may lead the surviving Murong household if its members are proven innocent.",
+        "voice": "Not established"
+      }
+    ],
+    "profile_updates": [
+      {
+        "current": "- **Role:** Namho is an eighty-year-old non-Han Hidden Shadow Pavilion agent who spent more than fifty years undercover in Nanman and maintained contact with Central Plains intelligence through the Pavilion’s Hidden Thread; he now guides the Fire Dragon Pavilion.",
+        "path": "characters/Namho.md",
+        "replacement": "- **Role:** Namho is an eighty-year-old non-Han Hidden Shadow Pavilion agent who spent more than fifty years undercover in Nanman and maintained contact with Central Plains intelligence through the Pavilion’s Hidden Thread; he guides the Fire Dragon Pavilion and represents Jin Taekyung and the Murim Alliance in negotiating the survivors’ chance to rebuild the Murong household."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

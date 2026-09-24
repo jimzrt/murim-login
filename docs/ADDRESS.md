@@ -1466,3 +1466,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 테무르 | 진위경 | submitting chieftain to his new lord | my lord | deferential and honorific | Temur submits and addresses Jin Wikyung as 주군. |
 | 약왕당주 | 진위경 | physician addressing the Jin Family’s Lesser Family Head | Lesser Family Head | blunt and threatening | Presses Wikyung to accept treatment and rest, threatening to kill him if he keeps working. |
 | 정호군 | 진태경 | imperial officer responding to the Marquis of Shangshan | Marquis of Shangshan | formal and deferential | Accepts the command with a formal acknowledgment of Taekyung’s title. |
+| 모용수 | 정호군 | young Murong family member to senior imperial officer | Thousand Captain Jeong | formal and deferential | Greets Jeong Hogun as 정 천호께. |
+| 남호 | 모용수 | Murim Alliance representative to Murong family member | Murong Su | familiar and measured | Addresses him by name while offering the survivors a chance. |
