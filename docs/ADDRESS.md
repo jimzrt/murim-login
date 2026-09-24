@@ -1439,3 +1439,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 칭겐 | 자무카 | fellow_khan_to_elder_khan | Khan Jamukha | formal-respectful | The impostor wearing Chinggen’s face addresses Jamukha with deference. |
 | 테무르 | 자무카 | fellow_khan_to_elder_khan | Khan Jamukha | formal-respectful | Temur affirms Chinggen’s public praise of Jamukha. |
 | 늙은 목수 | 진위경 | commoner to Lesser Family Head | Lesser Family Head | deferential | Addresses Wikyung as 소가주님; Wikyung urges him to speak less formally. |
+| 진위경 | 동정어옹 | Younger ally addressing an older martial arts senior | Senior | Respectful | Jin Wikyung addresses him as 노 선배. |
+| 동정어옹 | 진위경 | Older martial arts senior addressing a younger ally | you | Familiar and informal | He addresses Jin Wikyung as 자네. |
