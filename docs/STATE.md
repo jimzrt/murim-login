@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 959
-- Next chapter: 960
-- Current block: 955–959 (5/5)
-- Latest translation: `translations/0959.md`
-- Latest summary: `summaries/beats/0959.md`
-- Safe profiles through: chapter 959
+- Last completed: 960
+- Next chapter: 961
+- Current block: 960–964 (1/5)
+- Latest translation: `translations/0960.md`
+- Latest summary: `summaries/beats/0960.md`
+- Safe profiles through: chapter 960
 
 ## Current Block
 
-- Jin Mukyung recognizes that the man wearing Chinggen’s face is a monstrous martial artist. The impostor kills the trapped nomads, admits the real Chinggen is dead and Temur was spared to control the western tribes, then offers to make Mukyung his Disciple. Jin Wikyung refuses and learns from the impostor that the Dongting Fisherman died fighting him; Wikyung resolves that the Jin Family now owes a debt to the fisherman and all the fallen. The impostor laughs with overwhelming force, levitates shattered rocks, and begins changing back into his true form.
-- Wipeng, Cheol Mubaek, and another fighter attack during the transformation, but the old man repels them. He calls himself Mukyung’s Master, declares him expelled for the ambush, and identifies himself as the Demon Bird. As the two sides charge, the battle resumes.
+- At Eight Spring Gorge, the people of Shanxi use archers and earthen fortifications to blunt the steppe army’s advance. The Demon Bird’s red Force kills dozens, but Wipeng and Cheol Mubaek use what they learned from the Dongting Fisherman to evade him and coordinate their attack with Jin Mukyung.
+- Mukyung meets the Demon Bird’s Force with blue Sword Energy and forces the old monster back three steps. The Demon Bird recognizes Mukyung’s perfectly executed One Strike, but believes Mukyung will not survive the battle; red light rises from the Demon Bird as he prepares to continue fighting.
 
 ## Open Questions
 
