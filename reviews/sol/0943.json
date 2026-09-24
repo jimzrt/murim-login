@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "An hour or so ago, I think.",
+      "defect": "A shichen is approximately two hours, not one.",
+      "id": "F01",
+      "rationale": "The source places the hawks’ passage roughly one shichen earlier.",
+      "replacement": "About two hours ago, I think.",
+      "severity": "critical",
+      "source": "한 시진 전쯤?"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I’ll go with the reinforcements as part of the second wave.",
+      "defect": "Namho says he will lead the reinforcements, not merely accompany them.",
+      "id": "F02",
+      "rationale": "이끌고 assigns Namho an active leadership role; 되도록 also qualifies his intention.",
+      "replacement": "I’ll try to lead the reinforcements and follow behind you.",
+      "severity": "major",
+      "source": "되도록 지원군을 이끌고 후발대로 향하지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Ilseom. Sama Pyo.”",
+      "defect": "Using Sama Pyo’s full name removes the deliberate misnaming that prompts his correction.",
+      "id": "F03",
+      "rationale": "Taekyung calls him 마표 rather than 사마표, then confirms he did it on purpose.",
+      "replacement": "“Ilseom. Ma Pyo.”",
+      "severity": "major",
+      "source": "“일섬. 마표.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "And dozens of people.",
+      "defect": "The draft makes the people visually present; the bandit detects their presence.",
+      "id": "F04",
+      "rationale": "인기척 refers to signs or the sensed presence of people, distinct from the visible flags.",
+      "replacement": "And he could sense dozens of people.",
+      "severity": "major",
+      "source": "그리고 수십이나 되는 인기척이."
+    },
+    {
+      "confidence": 0.99,
+      "current": "It’s so quiet you can hear a mouse piss.",
+      "defect": "The draft introduces a crude image and profanity absent from the ordinary expression for dead silence.",
+      "id": "F05",
+      "rationale": "쥐 죽은 듯이 조용한 describes an eerie absence of sound, not a sound made by a mouse.",
+      "replacement": "It’s dead quiet.",
+      "severity": "major",
+      "source": "아주 쥐 죽은 듯이 조용한 게"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I was still wondering when Namho smiled with satisfaction and pulled something from his pack.",
+      "defect": "The draft omits Taishan’s unexpectedly solemn demeanor, which sets up the food punchline.",
+      "id": "F06",
+      "rationale": "사뭇 비장하기까지 한 그 모습 explicitly describes the appearance that puzzles the narrator.",
+      "replacement": "I was still wondering why Taishan looked downright solemn when Namho smiled with satisfaction and pulled something from his pack.",
+      "severity": "minor",
+      "source": "사뭇 비장하기까지 한 그 모습에 의문이 들던 그때, 흡족하게 웃은 남호가 행낭에서 무언가를 꺼내 들었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "but I won’t throw a tantrum when I’d only be a burden.",
+      "defect": "“Throw a tantrum” makes Hwaran’s restrained promise more childish and emphatic than the source.",
+      "id": "F07",
+      "rationale": "괜한 투정 부리진 않을게요 is a measured promise not to make a fuss.",
+      "replacement": "but I know I’d only be a burden, so I won’t complain.",
+      "severity": "minor",
+      "source": "짐이 될 수는 없으니 괜한 투정 부리진 않을게요."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it changes a time interval and a sensory detail, loses a name-based joke and Namho’s role in the reinforcements, and adds profanity absent from the source.",
+  "version": 1
+}

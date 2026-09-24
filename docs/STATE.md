@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 942
-- Next chapter: 943
-- Current block: 940–944 (3/5)
-- Latest translation: `translations/0942.md`
-- Latest summary: `summaries/beats/0942.md`
-- Safe profiles through: chapter 942
+- Last completed: 943
+- Next chapter: 944
+- Current block: 940–944 (4/5)
+- Latest translation: `translations/0943.md`
+- Latest summary: `summaries/beats/0943.md`
+- Safe profiles through: chapter 943
 
 ## Current Block
 
-- The Divine Physician reveals that he was once a young carpenter who lost his wife and two children to an epidemic after reaching a physician too late. He understands the cruelty of hope, but tells the Emperor that Jin Taekyung helped him find the sole path to survival. The Emperor promises to trust the treatment; the Divine Physician explains that it requires the Emperor to die once. As the Emperor’s sword seems to move on its own, the Divine Physician throws him an old bamboo slip Taekyung provided. The Emperor recognizes the names Maoshan Sect and White Illusion Jiangshi Art.
-- Taekyung’s party races toward Shanxi, but the journey will take at least ten days, possibly fifteen, and the battle may begin before they arrive. He decides to split the force after Deokcheong County, sending the thousand Embroidered Uniform Guards and the Fire Dragon Pavilion members onward while he and two figures ahead—identified as the Fire King and Bow Saint—press forward.
+- Taekyung splits the party: Namho will contact the Murim Alliance and try to bring reinforcements from behind, while Song Ilseom and Sama Pyo are trusted to lead the others toward Shanxi. Mujin struggles with being left behind despite his desire to protect his home, but Taekyung tells him he trusts him. Hwaran acknowledges that she, too, wants to go with Taekyung, and asks that they meet again with genuine smiles. Taekyung, Jeok Cheongang, and the Bow Saint leave the horse route and head over the mountains.
+- At a mountain stronghold, bandits notice the unusual absence of birds and then spot an approaching group carrying dark blue flags marked with the Great Nangong Family’s name. They send word to the stronghold.
 
 ## Open Questions
 
