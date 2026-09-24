@@ -1,16 +1,17 @@
 # Translation State
 
-- Last completed: 940
-- Next chapter: 941
-- Current block: 940–944 (1/5)
-- Latest translation: `translations/0940.md`
-- Latest summary: `summaries/beats/0940.md`
-- Safe profiles through: chapter 940
+- Last completed: 941
+- Next chapter: 942
+- Current block: 940–944 (2/5)
+- Latest translation: `translations/0941.md`
+- Latest summary: `summaries/beats/0941.md`
+- Safe profiles through: chapter 941
 
 ## Current Block
 
-- The Emperor and Baek Yeon discuss how Baek once kept the Great Nation out of the Great Faction War, believing the Demonic Cult’s victory would have left a weaker, more dangerous Murim that the state could later dismantle. Now, with Dark Heaven threatening the realm, Baek pledges his service. The Emperor orders him to announce that he will personally lead the campaign, despite his failing health.
-- After receiving the warning that Dark Heaven’s main force may invade Shanxi Province before the Double Ninth Festival, Taekyung leaves the imperial palace with his companions, worried he may not arrive in time. Jeok Cheongang and the Bow Saint try to reassure him by discussing the Thunderbolt Saber King and the Hebei Peng Family’s strength and intelligence network. The Emperor waits at the palace gates and asks Taekyung whether he meant to leave without saying goodbye.
+- At the North Gate, the Emperor meets Taekyung before his departure, gives him the imperial dragon cloak, and appoints him Marquis of Shangshan and a Thousand Captain of the Embroidered Uniform Guard. He orders Taekyung to lead a thousand guards against the enemies disturbing the realm, giving him military support to defend Shanxi and the Jin Family of Taiyuan from Dark Heaven.
+- The Emperor tells Taekyung to keep acting according to what is right and to follow righteousness and chivalry, rather than think of himself as the Emperor’s subject. After Taekyung departs, the Emperor comforts the grieving Zhu Bao and urges him not to suppress his feelings.
+- The Divine Physician rides back through the closing gate, saying he left a patient behind.
 
 ## Open Questions
 

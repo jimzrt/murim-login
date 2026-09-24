@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The Emperor tilted his head, not quite grasping what I meant, then clicked his tongue.",
+      "defect": "Clicking his tongue replaces the Emperor’s lip-smacking gesture.",
+      "id": "F01",
+      "rationale": "입맛을 다셨다 describes smacking one’s lips, not clicking one’s tongue.",
+      "replacement": "The Emperor tilted his head, not quite grasping what I meant, then smacked his lips.",
+      "severity": "minor",
+      "source": "내 말의 의미를 파악하지 못해 잠시 고개를 갸웃거린 황제가 입맛을 다셨다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The tightly fastened clasp came undone.",
+      "defect": "The cloak is held by a tied cord, not a clasp.",
+      "id": "F02",
+      "rationale": "끈 is a cord, and 매어져 있던 specifies that it was tied.",
+      "replacement": "The tightly tied cord came loose.",
+      "severity": "major",
+      "source": "단단히 매어져 있던 끈이 풀어진다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then you’ll be all the more eager to accept this precious gift before I let go.",
+      "defect": "The draft changes the Emperor’s joke about his hand falling off from holding out the cloak into a suggestion that he will release it.",
+      "id": "F03",
+      "rationale": "짐의 손이 떨어지기 전에 refers to his hand falling off, not to his letting go.",
+      "replacement": "Then you’ll be all the more eager to accept this precious gift before my hand falls off.",
+      "severity": "major",
+      "source": "그럼 짐의 손이 떨어지기 전에, 더더욱 이 귀중한 선물을 받고 싶어질 테니."
+    },
+    {
+      "confidence": 0.97,
+      "current": "He’d thrown away his life without hesitation, and he didn’t regret that choice.",
+      "defect": "“Thrown away his life” implies that he lost it; the source says he staked it.",
+      "id": "F04",
+      "rationale": "목숨을 판 돈으로 내던졌고 uses a gambling stake as its image. The Emperor risked his life rather than having already lost it.",
+      "replacement": "He’d wagered his life without hesitation, and he didn’t regret that choice.",
+      "severity": "critical",
+      "source": "거리낌 없이 자신의 목숨을 판 돈으로 내던졌고, 그 선택을 후회하진 않는다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Success makes you a prince; failure makes you a traitor.”",
+      "defect": "The draft changes king or ruler to prince.",
+      "id": "F05",
+      "rationale": "군왕 means king or sovereign, not prince; the contrast concerns who gets to rule and who is condemned as a rebel.",
+      "replacement": "“Success makes you a king; failure makes you a traitor.”",
+      "severity": "critical",
+      "source": "성공하면 군왕이요(成卽君王). 실패하면 역적이라(敗卽逆賊)."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Zhu Bao, who had to face the turmoil as heir to the Great Nation, had become someone who must never cry.",
+      "defect": "“Turmoil” obscures the war the heir must face.",
+      "id": "F06",
+      "rationale": "전란 denotes war and its ravages, not merely general unrest.",
+      "replacement": "As heir to the Great Nation, Zhu Bao would have to face the coming war. He had become someone who must never cry.",
+      "severity": "major",
+      "source": "대국의 후계자로서 전란과 맞서야 하는 주표는, 결코 울어서는 안 되는 사람이 되었다."
+    }
+  ],
+  "summary": "Several passages alter a physical detail, a joke, or the Emperor’s meaning; the succession scene also softens an explicit reference to war.",
+  "version": 1
+}

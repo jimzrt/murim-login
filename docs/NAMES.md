@@ -2405,3 +2405,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 한림원 | **Hanlin Academy** | Imperial scholarly institution. |
 | 통정사 | **Transmission Office** | Office preparing and transmitting court edicts. |
 | 오호도독부 | **Five Tiger Commandery** | Military command reporting naval mobilization. |
+| 상산후 | **Marquis of Shangshan** | Title bestowed on Jin Taekyung by the Emperor. |
+| 진중 | **Jinzhong** | County included in Taekyung’s fief. |
+| 태곡 | **Taigu** | County included in Taekyung’s fief. |
+| 교성 | **Jiaocheng** | County included in Taekyung’s fief. |
