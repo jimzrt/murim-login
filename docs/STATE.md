@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 989
-- Next chapter: 990
-- Current block: 985–989 (5/5)
-- Latest translation: `translations/0989.md`
-- Latest summary: `summaries/beats/0989.md`
-- Safe profiles through: chapter 989
+- Last completed: 990
+- Next chapter: 991
+- Current block: 990–994 (1/5)
+- Latest translation: `translations/0990.md`
+- Latest summary: `summaries/beats/0990.md`
+- Safe profiles through: chapter 990
 
 ## Current Block
 
-- Song Ho brings Mae Jonghak the red missive reporting Peng Cheolhu’s death. Peng knew his time was short and passed everything he had to Jin Taekyung through Transmitting Internal Energy Across the Body; the dangerous technique succeeded, and Taekyung underwent Bone Transformation. Mae reflects on the unusual concentration of Bone Transformation in this age, the rise of Dark Heaven, and worldwide changes in the weather and heavenly patterns. He urges Song Ho to acknowledge his fear and remain vigilant, then burns the missive with Samadhi True Fire and reflects that Taekyung and Cheongpung will become central figures in this strange age.
+- News of Peng Cheolhu’s death spreads through Murim, intensifying grief and anger and uniting people against Dark Heaven, now understood to threaten the whole world. The Eight Heavens Blood Calamity and Peng’s death become catalysts for mobilization, while imperial recruitment offices are overwhelmed by would-be soldiers—including underage applicants.
+- In Qinghai, Cheongpung encounters a boy who dreams of becoming like Jin Taekyung and encourages him to persevere, suggesting a journey to Shanxi or the nearby Kunlun Sect. After the boy leaves, the Slaughter Saint scolds Cheongpung for disappearing; Cheongpung explains he ran out of candied hawthorn skewers and fondly recalls meeting his Benefactor.
 
 ## Open Questions
 
