@@ -2434,3 +2434,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 마조 | **Demon Bird** | Title given by the revealed impostor who wore Chinggen’s face. |
 | 혈혼비마 | **Blood Soul Fat Demon** | The Demon Bird’s former sobriquet, which he resents. |
 | 권호 | **Fist Hero** | Cheol Mubaek’s master’s sobriquet. |
+| 청파낙조 | **Blue Wave, Falling Bird** | Technique name coined by the Demon Bird for Jin Mukyung’s strike. |
