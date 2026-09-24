@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Wrapped head to toe in black, it came toward us.",
+      "defect": "The Korean says darkness enveloped the creature’s entire body; it does not say the creature was covered in black.",
+      "id": "F01",
+      "rationale": "암흑을 전신에 두른 채 describes the creature as surrounded or shrouded by darkness, not as wearing or being covered by a black material.",
+      "replacement": "Shrouded in darkness, it came toward us.",
+      "severity": "minor",
+      "source": "Chapter 634, line 233"
+    }
+  ],
+  "summary": "One physical-detail discrepancy: the English suggests the creature is covered in black rather than enveloped in darkness.",
+  "version": 1
+}

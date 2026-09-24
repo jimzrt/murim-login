@@ -48,8 +48,6 @@ The campaign on Ailao Mountain worked much the same way.
 
 Sensing danger, the venomous creatures and fierce beasts popped up everywhere to attack, as though they’d been possessed by Hong Gil-dong.[^1] The tribal chiefs leading the warriors were afraid of how many of their own people they might lose.
 
-[^1]: Hong Gil-dong is a legendary Korean outlaw hero proverbially said to appear here, there, and everywhere.
-
 They couldn’t exactly say, “Since it’s come to this, let’s have a few people from each tribe die and split it evenly.”
 
 “The tribes grew more divided by the day. As a last resort, we tried fire. It spread beyond the mountain and caused even more damage, but it still wasn’t enough to burn all of Ailao Mountain.”
@@ -84,7 +82,7 @@ I nodded quietly. I would have known even if he hadn’t said it. An indescribab
 
 And there was only one cause of death that could produce a smell like that.
 
-*Poison. It’s poison.*
+*Poison.*
 
 An incredibly potent poison. The figure slumped against the tree—no, the corpse—gave off a stench, and the ground and grass soaked with the bloody fluid seeping from it had turned black and died.
 
@@ -136,7 +134,7 @@ A venomous beast from Ailao Mountain controlled by Dark Heaven.
 
 With that question unanswered, I turned to the Beast Miao King.
 
-“In the end, it seems there’s only one answer.”
+“Looks like there’s only one way to find out.”
 
 “Yes.”
 
@@ -158,7 +156,7 @@ It should have been growing light by now, but Ailao Mountain remained steeped in
 
 And darkness was not the only thing there.
 
-*The scent of blood.*
+*Blood.*
 
 The smell had become familiar to me at some point. Now it served as an invisible guide. Following the dead warrior’s footprints through the mountain, the Beast Miao King and I caught the scent on the damp wind and changed course without hesitation.
 
@@ -230,7 +228,7 @@ Wrapped head to toe in black, it came toward us. It was larger than any beast I 
 
 *Black Tiger.*
 
-The word flashed through my mind like lightning. At that exact moment, White Tiger’s body began to tremble.
+The words flashed through my mind. At that instant, White Tiger began to tremble.
 
 *Gwaaaaaaaaaang!*
 
