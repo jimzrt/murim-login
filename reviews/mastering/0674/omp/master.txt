@@ -2,13 +2,13 @@
 
 Things happened in this world that defied common sense.
 
-The woman reflected in Baeksang’s bloodshot eyes at this very moment was one of them.
+The woman reflected in Baeksang’s bloodshot eyes was one of them.
 
 “…Southern Heaven Demon Empress.”
 
 His voice rang softly through the room. They were alone.
 
-The woman—the Southern Heaven Demon Empress—smiled broadly.
+The Southern Heaven Demon Emress smiled.
 
 “It’s been a while, Great Chieftain Baeksang.”
 
@@ -54,11 +54,11 @@ She covered her mouth and laughed.
 
 “Who would have thought I’d see the cold, calculating Great Chieftain Baeksang in tears? Or should I say, the new Palace Lord?”
 
-The corners of her mouth were lifted, but her gaze had sunk deep.
+Her lips curved upward, but her eyes remained dark. A chill crept through Baeksang.
 
 “It was nothing. The mirror brought back an old memory, that’s all.”
 
-“Oh, because you thought of the son who looked exactly like you in the mirror?”
+“Oh? You were thinking of the son who looked just like the man in the mirror?”
 
 “…I’d rather leave that subject alone. What matters now is the future, not the past.”
 
@@ -84,7 +84,7 @@ She shot him a sidelong glance, then walked slowly to the window. From the Palac
 
 “My dear Palace Lord. Why pretend when you know perfectly well?”
 
-The Southern Heaven Demon Empress gave the silent Baeksang a smile with her eyes before turning her gaze toward the view outside.
+She smiled at the silent Baeksang, then looked back outside.
 
 Sunlight streamed down. A cool breeze blew in from somewhere, and not a cloud marred the blue sky. The first fine day she had seen in some time lifted her spirits.
 
@@ -118,7 +118,7 @@ Baeksang watched her back. What he had dreaded was finally here. It was probably
 
 “Sorry? For what?”
 
-“How could I not be? It was clearly my mistake.”
+“It was plainly my mistake.”
 
 “Hmm.”
 
@@ -140,7 +140,7 @@ The bleeding had stopped, but the pain from where Force had severed his arm woul
 
 Baeksang was silent for a moment.
 
-“Perhaps. Yes, perhaps it was. At the very least, I might have been able to buy enough time to pursue him.”
+“Perhaps not. I might at least have bought enough time to pursue him.”
 
 “Do you understand what you’re admitting?”
 
@@ -174,8 +174,6 @@ That was the cold truth. Long ago, he had taken the hand the Southern Heaven Dem
 
 That hope had lifted him from the grief of losing his child and given him a reason to go on living. He could not bring himself to abandon this path now.
 
-That was why he could not bring this path to an end himself.
-
 He had climbed onto a tiger’s back. All he could do was ride it onward with all his strength.
 
 Thud.
@@ -200,7 +198,7 @@ With the great undertaking already nearing its end, she had no doubt: the path o
 
 * * *
 
-I’ll stake Hyuk Mujin’s balls on it.
+I’d stake Hyuk Mujin’s balls on it.
 
 That was probably a signal fire unlike any in Nanman’s history. Maybe even Murim’s.
 
@@ -208,7 +206,7 @@ Fwoosh. WHOOOM!
 
 Two days had passed since I left the others in Taishan’s care and headed south. I was setting my seventh mountain on fire.
 
-Oh, the pasture too, of course.
+And the grasslands too, of course.
 
 “Wait. Is this the seventh or the eighth?”
 
@@ -222,12 +220,12 @@ The blood wasn’t its own. After we’d driven off pursuit squads half a dozen 
 
 Soon, though, I wouldn’t hear Muyaho complaining anymore. No—neither of us would have the attention to spare for anything like that.
 
-Step.
+Squelch.
 
 The White Tiger planted a huge forepaw in the mud. It had been running like the wind until now, so when it stared into the black forest and let out a low cry, that could mean only one thing.
 
 Yes.
 
-“It’s here.”
+“This is it.”
 
-I muttered while gazing at the mountain shrouded in darkness.
+I looked at the mountain steeped in darkness.

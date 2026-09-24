@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "I went to some trouble to find it as a gift for your appointment as Palace Lord, and now you’re thanking me only because I brought it up.",
+      "defect": "The Korean says she feels as if she had to beg for thanks. The translation instead says Baeksang is thanking her only because she brought up the gift, shifting the joke’s emphasis.",
+      "id": "F01",
+      "rationale": "엎드려 절받는 기분 describes the awkward feeling of having to solicit thanks, not merely receiving thanks after raising the subject.",
+      "replacement": "I went to some trouble to find it as a gift for your appointment as Palace Lord, and now it feels like I had to beg you for thanks.",
+      "severity": "minor",
+      "source": "Korean line 87"
+    }
+  ],
+  "summary": "The assembled translation is largely faithful, with one minor change to the gift exchange’s joke logic.",
+  "version": 1
+}
