@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is broadly faithful, but one event description is repeated in the assembled English even though it appears only once in the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Paragraphs 255–257",
+      "current": "The Shaolin Bloodshed and the Sichuan Blood Tragedy had since overshadowed it, but Dark Heaven had first made its appearance in the Central Plains in Shanxi Province. They had manipulated the Mount Heng Sword Sect and the Head Elder into waging war. Nearly a thousand people had lost their lives.",
+      "defect": "The paragraph adds the war and death-toll details, then the next paragraph repeats them. The Korean gives those details once, in paragraph 257.",
+      "replacement": "The Shaolin Bloodshed and the Sichuan Blood Tragedy had since overshadowed it, but Dark Heaven had first made its appearance in the Central Plains in Shanxi Province.",
+      "rationale": "Paragraph 255 establishes where Dark Heaven first appeared; paragraph 257 describes the manipulation and resulting deaths once. Removing the duplicated details here preserves both source facts without repeating them.",
+      "confidence": 0.99
+    }
+  ]
+}

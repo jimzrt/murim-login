@@ -58,7 +58,7 @@ He still snapped at me like a middle schooler going through puberty, but he was 
 
 *That’s good. The problem is, in this whole enormous land, we’ve got about a millet grain’s worth of people on our side.*
 
-I opened my mouth a moment before Yayul Mok could glare at me.
+I spoke before Yayul Mok could protest.
 
 “When and where?”
 
@@ -86,13 +86,13 @@ Alongside it lay a dead animal that looked all too familiar.
 
 “Found it on the way.”
 
-“You keep finding them. What, do you have a wild-boar farm somewhere? Do you water them, let them grow nice and big, then sneak over and steal them?”
+“How do you keep finding them? Got a field of wild boars somewhere? Water them till they grow nice and big, then sneak in and steal one?”[^1]
 
-“What is *seori*? I’ve never heard that word before.”
+Namho looked puzzled. “What do you mean, ‘sneak in and steal one’? I’ve never heard that expression.”
 
 “It’s a thing. And don’t worry, Old Man Namho. You won’t hear it a second time in this lifetime.”
 
-“So that’s how you Han Chinese talk…”
+“Trust a Han Chinese bastard to talk like—”
 
 “Please stop hating Han Chinese people.”
 
@@ -114,13 +114,13 @@ I reached out to stroke the White Tiger’s chin—and snatched my hand back lik
 
 *Clack!*
 
-Its large, sharp teeth snapped shut through empty air.
+Large, sharp teeth snapped shut on empty air. I gave Yayul Mok a look that demanded an explanation. He clicked his tongue softly.
 
 “What a shame.”
 
 “You bastard.”
 
-“I told you to test him if you didn’t believe me. I never said he wouldn’t bite.”
+“I told you to test him. I never said he wouldn’t bite.”
 
 Having spouted nonsense not even a dog would believe, Yayul Mok gently scratched the White Tiger between the eyes.
 
@@ -133,8 +133,6 @@ For a moment, I thought he was doing an impression of a North Korean mountain hi
 Yayul Mok nodded proudly.
 
 “Muyaho. Tiger of the mighty wilds.”
-
-[^1]: “Muyaho” echoes a Korean meme catchphrase and also resembles *yaho*, a shout traditionally made in the mountains.
 
 “……”
 
@@ -162,13 +160,11 @@ Nothing makes a parent happier than hearing someone praise their child. Yayul Mo
 
 “Of course. I’ve always liked them very much.”[^3]
 
-[^2]: In Korean slang, “White Tiger” can also refer to a woman with little or no pubic hair, giving Namho’s answer an unintended sexual double meaning.
-
 “……”
 
 *No. Stop there. Any further and you’re pushing it.*
 
-Just as I waited for the next line with equal parts anticipation and dread, the White Tiger stretched leisurely, seemingly unaffected by carrying three people, then kicked off the ground and raced away.
+I waited for the next line with equal parts anticipation and dread. Instead, the White Tiger stretched as though three people on its back weighed nothing, then kicked off the ground.
 
 *Papat!*
 
@@ -202,7 +198,7 @@ The Beast Miao King nodded. “That’s right. Him.”
 
 “I know you’ve been together a long time.”
 
-“Even ‘a long time’ isn’t enough to describe it. We spent our entire lives together. In the grasslands, the swamps, the mountains and fields, and even on the battlefield—we were always together.”
+“A long time doesn’t cover it. We spent our whole lives together. In the grasslands, in the swamps, across mountains and fields—even on the battlefield.”
 
 He gazed silently at the wavering lamp for a moment, as though looking back on those days, then gave a small nod.
 
@@ -234,8 +230,6 @@ I remembered it vividly.
 
 The Shaolin Bloodshed and the Sichuan Blood Tragedy had since overshadowed it, but Dark Heaven had first made its appearance in the Central Plains in Shanxi Province. They had manipulated the Mount Heng Sword Sect and the Head Elder into waging war. Nearly a thousand people had lost their lives.
 
-They manipulated the Mount Heng Sword Sect and its Head Elder into starting a war, and no fewer than a thousand people had to lose their lives.
-
 *If the Hidden Shadow Pavilion has been keeping him informed, he has to know.*
 
 As though he’d read my mind, the Beast Miao King nodded.
@@ -262,7 +256,7 @@ Namho’s face darkened, and so did the story.
 
 “……!”
 
-“When everything was revealed, he fled. And several days later, I saw the head of a man brought back by the assassination squad. He was grinning from ear to ear, as though something had made him terribly happy.”
+“When the truth came out, he fled. A few days later, a squad sent to kill him brought back a man’s head. He was grinning from ear to ear. I wonder what had made him so happy.”
 
 His voice faded into silence. Namho sighed deeply before he spoke again.
 
@@ -278,7 +272,7 @@ For a long time, the Beast Miao King said nothing. He watched the oil lamp sway 
 
 “The Southern Heaven Demon Empress. That fucking bitch won’t leave Nanman alone.”
 
-The Beast Miao King let out a low groan before opening his mouth.
+The Beast Miao King let out a low groan.
 
 “Nanman is no easy target.”
 
@@ -286,9 +280,9 @@ The Beast Miao King let out a low groan before opening his mouth.
 
 “……!”
 
-“Oh, sorry. I went too far.”
+“Uh. Sorry. That came out harsher than I meant.”
 
-The Beast Miao King let out a hollow laugh at my sudden outburst before answering.
+The Beast Miao King gave a startled laugh at my outburst.
 
 “You really are Old Master Jeok’s disciple.”
 
