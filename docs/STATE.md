@@ -1,20 +1,20 @@
 # Translation State
 
-- Last completed: 985
-- Next chapter: 986
-- Current block: 985–989 (1/5)
-- Latest translation: `translations/0985.md`
-- Latest summary: `summaries/beats/0985.md`
-- Safe profiles through: chapter 985
+- Last completed: 986
+- Next chapter: 987
+- Current block: 985–989 (2/5)
+- Latest translation: `translations/0986.md`
+- Latest summary: `summaries/beats/0986.md`
+- Safe profiles through: chapter 986
 
 ## Current Block
 
-- After the memorial at Eight Spring Gorge, the Jin Family returns to Taiyuan, where a Murim Alliance envoy arrives with a message for Jin Wikyung. Jin Taekyung leaves before hearing it, and the System announces that the Jin Family has joined the Five Great Families following the Murong Family’s fall. Taekyung gains a level, Fame, bonus stats, and the title of a feudal lord appointed by the Son of Heaven; martial artists have begun to speak of him as a possible new young king. Uneasy at Dark Heaven’s continued absence and recalling Murong Baek’s cryptic words about the failed plans, Taekyung is summoned by Jeok Cheongang to meet someone who wants to see him.
+- After regaining consciousness, the dying Thunderbolt Saber King asks Jin Taekyung to inherit all his remaining internal energy through the dangerous forbidden technique Transmitting Internal Energy Across the Body. Taekyung accepts the System’s emergency Quest, trusting that the transfer is for the sake of the world. Jeok Cheongang believes Taekyung has a chance of surviving because of his extraordinary physique, divine healing power, and prior successful transfer; the transfer begins.
 
 ## Open Questions
 
 - What is the Alliance Leader’s message to Jin Wikyung?
-- Who wants to see Jin Taekyung?
+- Will Jin Taekyung survive the dangerous transfer of the Thunderbolt Saber King’s internal energy?
 - Why did Murong Baek suggest that the Western, Southern, and Eastern Heaven Demon Lords’ plans failed, and what did he mean by implying the situation may have been predetermined or that he was used?
 - Why has Dark Heaven continued costly schemes without revealing its full strength?
 

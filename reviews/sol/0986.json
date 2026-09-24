@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Friend, my ass. That brat’s got no filter when he talks to his elders.”",
+      "defect": "Jeok is addressing the Thunderbolt Saber King, who has just called him a friend; the draft instead sounds as though Jeok is criticizing his Disciple.",
+      "id": "F01",
+      "rationale": "한참 어린놈 refers to the younger man Jeok is arguing with, and 웃어른 refers to Jeok himself.",
+      "replacement": "“Friend, my ass. You’ve got a lot of nerve talking to someone so much older than you like that.”",
+      "severity": "critical",
+      "source": "친구는 니미럴. 한참 어린놈이 웃어른한테 못하는 말이 없네."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“That’s why I came to you right away.",
+      "defect": "The draft makes the Thunderbolt Saber King go to Taekyung, though he was waiting inside and had Taekyung brought to him.",
+      "id": "F02",
+      "rationale": "찾은 describes seeking Taekyung out, not physically coming to him.",
+      "replacement": "“That’s why I asked for you right away.",
+      "severity": "critical",
+      "source": "그것이 곧장 너를 찾은 이유다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Not even if it came from the Thunderbolt Saber King, a man he’d spent decades growing to hate—and who was now on the verge of death.",
+      "defect": "“Growing to hate” erases the reluctant affection in 미운 정.",
+      "id": "F03",
+      "rationale": "미운 정 describes affection formed through a long, contentious relationship, not mounting hatred.",
+      "replacement": "Not even if it came from the Thunderbolt Saber King, a man he’d spent decades trading barbs with and grown fond of despite himself—and who was now on the verge of death.",
+      "severity": "major",
+      "source": "설령 그 제안을 한 이가, 수십여 년간 미운 정을 쌓아 온 끝에 죽음을 목전에 둔 벽력도왕이라 할지라도."
+    },
+    {
+      "confidence": 0.95,
+      "current": "The desperate situation. The martial prowess Jin Taekyung had built up as a martial artist.",
+      "defect": "The fragments omit the stated comparison between the earlier transfer and the present one.",
+      "id": "F04",
+      "rationale": "These are the two respects in which 그 당시와 지금의 차이—the difference between then and now—is clear.",
+      "replacement": "The circumstances were different. So was the martial prowess Jin Taekyung had achieved since then.",
+      "severity": "major",
+      "source": "위급했던 상황도. 진태경이 한 사람의 무인으로서 이룩해 낸 무위도."
+    },
+    {
+      "confidence": 0.9,
+      "current": "then watched the two men, joined at the Great Pouch Acupoint, with a gaze sunk deep in thought.",
+      "defect": "“Great Pouch” mistranslates the named acupoint.",
+      "id": "F05",
+      "rationale": "거궐혈 names the Juque, or Great Palace, acupoint; the draft’s anatomical name is inaccurate.",
+      "replacement": "then watched the two men, joined at the Great Palace acupoint, with a deeply troubled gaze.",
+      "severity": "minor",
+      "source": "거궐혈(巨闕穴)을 통해 맞닿은 두 사람을 바라보았다."
+    }
+  ],
+  "summary": "Several lines change who acts or speaks, and one misstates Jeok Cheongang’s relationship with the Thunderbolt Saber King.",
+  "version": 1
+}
