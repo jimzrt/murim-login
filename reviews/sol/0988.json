@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "For that callow brat, who’d only turned twenty-two two years ago,",
+      "defect": "The draft makes Taekyung twenty-two two years earlier. The source says he passed the age of twenty only two years earlier.",
+      "id": "F01",
+      "rationale": "약관 is the age of twenty; 이 년 전에야 places that milestone two years ago.",
+      "replacement": "For that callow brat, who’d only passed twenty two years ago,",
+      "severity": "critical",
+      "source": "고작 이 년 전에야 약관을 넘긴 저 핏덩이에게 있어"
+    },
+    {
+      "confidence": 0.95,
+      "current": "With a soft tearing sound, tremors spread through his body.",
+      "defect": "After two sentences about Peng’s posture and gaze, “his body” points to Peng. The trembling accompanies Jin Taekyung’s Bone Transformation.",
+      "id": "F02",
+      "rationale": "The following sentence identifies Jin as the one undergoing the transformation Peng is watching.",
+      "replacement": "With the sound of flesh tearing, fine tremors spread throughout Jin Taekyung’s body.",
+      "severity": "critical",
+      "source": "파육음과 함께 전신 곳곳으로 번져가는 잔 떨림.\n\n자신도 겪지 못한 환골탈태(換骨奪胎)의 과정에 들어선 진태경의 모습이"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“More than anyone… don’t change, Jeok hyung.”",
+      "defect": "“More than anyone” turns a plea that Jeok, at least, remain unchanged into a comparison with other people.",
+      "id": "F03",
+      "rationale": "만큼은 marks Jeok as the person Peng particularly asks not to change, without ranking him against others.",
+      "replacement": "“You, at least… don’t change, Jeok hyung.”",
+      "severity": "major",
+      "source": "“적 형만큼은…… 변치 마시오.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The hellfire that had swallowed the darkness and the thunderbolt that followed fought fiercely—and bitterly.",
+      "defect": "“That followed” adds a sequence for the lightning that the source does not give; the two forces are already intertwined when they clash.",
+      "id": "F04",
+      "rationale": "앞서 describes when the hellfire swallowed the darkness, not when the lightning appeared.",
+      "replacement": "The fight between the hellfire that had swallowed the darkness and the lightning was fierce—and desperate.",
+      "severity": "major",
+      "source": "앞서 어둠을 집어삼킨 겁화(劫火)와 벽력(霹靂)의 싸움은 치열했고, 또한 처절했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Even as the internal energy he’d accumulated over many long years, along with every ounce of strength in his body, melted away and vanished,",
+      "defect": "“Many long years” omits the stated scale: several sixty-year cycles’ worth of internal energy.",
+      "id": "F05",
+      "rationale": "수 갑자 gives a quantity, not merely an indefinite long period.",
+      "replacement": "Even as the several sixty-year cycles’ worth of internal energy he’d accumulated, along with every ounce of strength in his body, melted away and vanished,",
+      "severity": "major",
+      "source": "오랜 세월 동안 쌓아 올린 수 갑자의 공력이, 전신에 깃든 모든 힘이 녹아내리듯 사라졌음에도"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Born into the bloodline of the Hebei Peng Family, which ruled over its generation, he’d spent a childhood with nothing to envy.",
+      "defect": "“Its generation” makes 일대 temporal here; it refers to the family’s dominance over an area.",
+      "id": "F06",
+      "rationale": "일대를 호령하는 describes regional standing, while 남부러울 것 없이 describes his privileged childhood.",
+      "replacement": "Born into the Hebei Peng Family, which commanded the region, he’d spent a childhood wanting for nothing.",
+      "severity": "major",
+      "source": "일대를 호령하는 하북팽가의 핏줄로 태어나, 남부러울 것 없이 흘러간 유년 시절."
+    },
+    {
+      "confidence": 0.91,
+      "current": "A distant span of time passed.",
+      "defect": "The English suggests a long interval passes at this point in the scene rather than introducing a reflection on years already gone.",
+      "id": "F07",
+      "rationale": "The ensuing sun-and-moon passage looks back across the years of Peng’s life.",
+      "replacement": "Long years had passed.",
+      "severity": "minor",
+      "source": "아득한 세월이 흘렀다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Why did those two simple syllables make something stir in Jeok Cheongang’s chest?",
+      "defect": "“Younger brother” is not two syllables in English, so the literal count jars with the preceding translated words.",
+      "id": "F08",
+      "rationale": "두 글자 counts the Korean written characters in 아우, not the syllables of its English rendering.",
+      "replacement": "Why did those simple words make something stir in Jeok Cheongang’s chest?",
+      "severity": "minor",
+      "source": "아우.\n\n그 별것 아닌 두 글자에 가슴 한구석이 울렁이는 것은 어째서일까."
+    }
+  ],
+  "summary": "Several errors change age, sequence, address, and the subject of a physical transformation; there are also localized losses of quantity and setting.",
+  "version": 1
+}

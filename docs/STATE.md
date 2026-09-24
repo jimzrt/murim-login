@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 987
-- Next chapter: 988
-- Current block: 985–989 (3/5)
-- Latest translation: `translations/0987.md`
-- Latest summary: `summaries/beats/0987.md`
-- Safe profiles through: chapter 987
+- Last completed: 988
+- Next chapter: 989
+- Current block: 985–989 (4/5)
+- Latest translation: `translations/0988.md`
+- Latest summary: `summaries/beats/0988.md`
+- Safe profiles through: chapter 988
 
 ## Current Block
 
-- Jin Taekyung fully absorbs the Heavenly Power Demon’s energy into his own Scorching Yang Qi, then endures and absorbs the lightning passed on by the dying giant. The lightning connecting his Lower and Middle Dantians disappears, and the Middle Dantian’s summit lights up, but Taekyung stops before reaching the Upper Dantian.
-- As Taekyung becomes one with the three unified currents of energy and loses consciousness, an unfamiliar but strangely familiar voice tells him, “A wise choice. Just like back then.”
+- As Jin Taekyung’s three energies combine, Peng Cheolhu watches him pass the Three Flowers Gather at the Crown and reach Five Qi Returning to Origin and Supreme Peak, entering Bone Transformation. Jeok Cheongang steadies Taekyung as he endures the painful change.
+- Having spent his remaining strength, Peng shares a final, affectionate exchange with Jeok, asks him to remain unchanged, and dies reaching toward the light around Taekyung. Jeok quietly bids farewell, saving the words “younger brother” for their hoped-for reunion.
 
 ## Open Questions
 
