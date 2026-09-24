@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Though the Great Nation had only entered its third dynasty, the power wielded by its current Emperor equaled—or perhaps surpassed—that of Taizu, who had unified the realm.",
+      "defect": "“Third dynasty” changes the state’s history; the source says it has reached only its third generation.",
+      "id": "F01",
+      "rationale": "삼대 counts generations, not successive dynasties.",
+      "replacement": "Though the Great Nation was only in its third generation, the power wielded by its current Emperor equaled—or perhaps surpassed—that of Taizu, who had unified the realm.",
+      "severity": "critical",
+      "source": "비록 이제 고작 삼대(三代)에 접어든 대국의 역사였으나"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Just like the future he had so little time left to see.",
+      "defect": "The comparison loses the darkness of the Emperor’s own future.",
+      "id": "F02",
+      "rationale": "The source compares the dark world beyond the gates to his remaining future, not merely to how little of it he will see.",
+      "replacement": "Just like his own future, brief and shrouded in darkness.",
+      "severity": "major",
+      "source": "마치 얼마 남지 않은 자신의 미래처럼."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His first campaign—and his last.",
+      "defect": "“Campaign” omits the defining point: this will be the first and last campaign the Emperor leads in person.",
+      "id": "F03",
+      "rationale": "친정 specifically means a ruler personally taking the field.",
+      "replacement": "The first campaign he would lead in person—and the last.",
+      "severity": "major",
+      "source": "처음이자 마지막이 될 친정."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Gungseong, who had been riding quietly with the reins in hand, replied.",
+      "defect": "Uses a romanization instead of the established title.",
+      "id": "F04",
+      "rationale": "궁성 is established as the Bow Saint.",
+      "replacement": "The Bow Saint, who had been riding quietly with the reins in hand, replied.",
+      "severity": "major",
+      "source": "말고삐를 쥔 채 묵묵하게 나아가던 궁성이 말을 받았다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes a dynastic fact and misses several consequential nuances.",
+  "version": 1
+}
