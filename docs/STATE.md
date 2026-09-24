@@ -1,20 +1,21 @@
 # Translation State
 
-- Last completed: 927
-- Next chapter: 928
-- Current block: 925–929 (3/5)
-- Latest translation: `translations/0927.md`
-- Latest summary: `summaries/beats/0927.md`
-- Safe profiles through: chapter 927
+- Last completed: 928
+- Next chapter: 929
+- Current block: 925–929 (4/5)
+- Latest translation: `translations/0928.md`
+- Latest summary: `summaries/beats/0928.md`
+- Safe profiles through: chapter 928
 
 ## Current Block
 
-- The Bow Saint reveals that she spent decades following a letter the Martial God left for her before Taekyung was born. It described a chosen one who would bring dawn to a darkened world, without naming a single person. She searched across the land and used the Imperial Palace’s information network while secretly staying there as a palace attendant. Taekyung and Cheongpung were the two people she considered possible candidates; seeing Taekyung rise after he should have died convinced her that he was the chosen one. Taekyung realizes the Bow Saint may have planted the Blood Soul Gu in the City Lord of Sichuan Province and asks her directly.
+- The Bow Saint reveals that Aehyang, the City Lord of Sichuan Province’s favorite concubine, was a Dark Heaven agent who poisoned him with the Blood Soul Gu. Knowing he was likely to die, the Bow Saint sent him back to Sichuan so someone close to Taekyung might discover the truth. She warns that Dark Heaven has penetrated the Great Nation’s officials and military leadership, and Taekyung realizes the Eastern Heaven Demon Lord’s warning may have been true.
+- The Bow Saint says the Martial God left a message for the chosen one: to press onward with the divine strength and Will only the chosen one can possess, just as the Martial God did. Taekyung concludes that the Martial God was a System user—a Player—and collapses from exhaustion. Jeok Cheongang arrives, takes him away to rest, and leaves the Bow Saint watching the dawn.
 
 ## Open Questions
 
-- Why did the Martial God’s letter describe a chosen one without pointing to only one person?
-- Did the Bow Saint plant the Blood Soul Gu in the City Lord of Sichuan Province?
+- What is the Martial God’s identity, and how did he know a chosen one would appear?
+- How far has Dark Heaven infiltrated the Great Nation, and which officials or commanders are involved?
 - What story has So Gyo kept to herself?
 - Where is Ma Sanbao, and what is his current status?
 - What did Wei Zhong tell Taekyung through Sound Transmission?
