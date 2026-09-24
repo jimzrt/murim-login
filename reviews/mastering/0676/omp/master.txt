@@ -6,7 +6,7 @@ The fire I’d started with Flame Divine Palm spread from the entrance to Ailao 
 
 If the Scorching Hell described in Buddhism existed, I imagined it would look something like this.
 
-Ash drifted endlessly through the air, mixing with acrid smoke. A fire demon rolled like a wave, devouring everything in its path.
+Ash swirled through acrid smoke. Flames rolled like waves, devouring everything in their path.
 
 *Crack. Rumble!*
 
@@ -36,7 +36,7 @@ Cool metal filled my hand. Flames flickering all around me reflected off the spe
 
 *Now.*
 
-With the entire area already turning into a sea of fire, I didn’t do something stupid like infuse the spear with Scorching Yang Qi and fire it away.
+With everything around us already turning into a sea of fire, I wasn’t about to do something stupid like send Scorching Yang Qi flying into it.
 
 What I needed was power and speed—and a single clean, perfect motion.
 
@@ -112,7 +112,7 @@ I climbed down from Muyaho’s back and gently scratched under its chin, where i
 
 - *Grrr?*
 
-“Go back before it gets any later. You can break through the flames and escape. I know you can.”
+“Go back before it’s too late. You can make it through the flames.”
 
 - *Grrrr…*
 
@@ -138,7 +138,7 @@ Not toward the hill the flames had yet to reach, but straight for the entrance t
 
 “Hey! Hey, you idiot!”
 
-I shouted in surprise, but it was already too late to catch it.
+I shouted, but it was too late to catch it.
 
 I froze at the unexpected turn of events. With a mighty roar, the White Tiger charged headlong into the pale Poison Mist—then staggered back out.
 
@@ -152,7 +152,7 @@ Muyaho paused, avoided my eyes, and gave a furtive nod.
 
 Muyaho adapted to the Poisonblood Grounds much faster than I’d expected.
 
-As if biting down on the poison-warding pearl weren’t enough, it gulped the thing down whole. With nimble reflexes, it dealt with the venomous beasts surging in from every direction and cleared a swamp so wide that even Peak masters who had learned a movement technique would have hesitated to cross it in a single leap.
+Not content to hold the poison-warding pearl in its mouth, it swallowed the thing whole. Its quick reflexes let it deal with the venomous beasts coming at us from all sides, and it cleared a stretch of swamp so wide that even Peak masters trained in movement techniques would have hesitated to cross it—all in a single leap.
 
 But the deeper we went, the more cautious its movements and breathing became.
 
@@ -160,9 +160,9 @@ But the deeper we went, the more cautious its movements and breathing became.
 
 Poison Mist filled the grounds, making it hard to see. Something brushed through the grass. Water dripped somewhere out of sight. Apart from those occasional sounds, everything was quiet enough to make my skin crawl.
 
-*It wasn’t this bad even when I came here with the Beast Miao King last time.*
+*It wasn’t this bad when I came here with the Beast Miao King.*
 
-I had sensed it from the moment I smelled blood at the entrance, but this was definitely not a good sign.
+I’d known something was wrong from the moment I smelled blood at the entrance.
 
 A thought crossed my mind. Perhaps… No, there was a good chance the Palace warriors sent here a few days ago were already dead.
 
@@ -170,7 +170,7 @@ A thought crossed my mind. Perhaps… No, there was a good chance the Palace war
 
 A Supreme Peak master whose name, sobriquet, and face remained unknown. Someone who had drenched the Western Yao Estate in blood and abducted Heugung and Yohi in mere moments was more than capable of it.
 
-It was also highly possible that it wasn’t just one bastard, but *them*.
+And there was a good chance it wasn’t just one bastard.
 
 Dark Heaven.
 
@@ -212,7 +212,7 @@ I called to mind the no-brakes mentality essential to the successor of the Fire 
 
 *Boom!*
 
-The sharp sound of displaced air shattered the silence.
+The sound of displaced air shattered the silence.
 
 Scorching Yang Qi was poison’s natural enemy. The fierce heat of Flame Divine Palm surged forward, breaking the thick mist apart and staining the dark Poisonblood Grounds red.
 
@@ -228,7 +228,7 @@ The tangled, maze-like paths finally lay exposed. I glared into them, put intern
 
 * * *
 
-How had this happened?
+What had happened?
 
 Yohi came to her senses and blinked into darkness so deep she couldn’t see an inch in front of her.
 
@@ -242,7 +242,7 @@ Then fragments of memory began to return.
 
 Her heart lurched. Her body, relaxed for a moment, went rigid as stone.
 
-In Yohi’s trembling eyes, memories she couldn’t believe were flashing past.
+Unbelievable images flashed before her eyes.
 
 Screams. Corpses. Blood.
 
@@ -256,13 +256,13 @@ She was about to scream when a voice, carefully hushed, came from the darkness.
 
 “Don’t be frightened. It’s me.”
 
-Yohi barely managed to swallow her scream and calm her pounding heart.
+Yohi barely swallowed her scream and tried to steady her pounding heart.
 
 As her eyes adjusted to the dark, a familiar figure came into view.
 
-“Heugung? Is it really you, big brother Heugung?”
+“Heugung? Is that really you, big brother?”
 
-“That’s right. Don’t you remember?”
+“It is. Don’t you remember?”
 
 It took her a moment to piece her memories back together. She recalled Heugung resisting *him* to the very end.
 
@@ -270,7 +270,7 @@ It took her a moment to piece her memories back together. She recalled Heugung r
 
 Heugung had been waiting not far away in the darkness for her to wake. He gave her a bitter smile.
 
-“There were various circumstances. Circumstances I couldn’t easily tell even you.”
+“There are reasons. Things I couldn’t easily tell even you.”
 
 His tone was so courteous. Yohi was used to seeing Heugung grin foolishly and call her “my dear”; this side of him felt strange. But it wasn’t what mattered now.
 

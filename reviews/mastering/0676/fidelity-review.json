@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "The fire I’d started with Flame Divine Palm",
+      "defect": "The Korean says the flames began from Flame Divine Palm; it does not explicitly say the narrator started the fire. This adds agency and a causal claim.",
+      "id": "F01",
+      "rationale": "화염신장으로부터 시작된 화염은 identifies Flame Divine Palm as the flames’ origin without explicitly stating who started them.",
+      "replacement": "The flames from Flame Divine Palm",
+      "severity": "minor",
+      "source": "Lines 5–7; P2"
+    },
+    {
+      "confidence": 0.94,
+      "current": "a single clean, perfect motion.",
+      "defect": "This makes the action singular and omits the source’s emphasis on flow.",
+      "id": "F02",
+      "rationale": "The Korean specifies 간결하면서도 완벽한 동작과 흐름: concise yet perfect movements and flow.",
+      "replacement": "concise yet perfect movements and flow.",
+      "severity": "minor",
+      "source": "Lines 43–45; P21"
+    },
+    {
+      "confidence": 0.9,
+      "current": "call her “my dear”",
+      "defect": "“My dear” changes Heugung’s familiar address from a sibling-like “sister” to a term of endearment.",
+      "id": "F03",
+      "rationale": "Heugung calls Yohi 누이, and she addresses him as 오라버니 (“big brother”) in this scene; the current rendering loses that sibling-like form of address.",
+      "replacement": "call her “sister”",
+      "severity": "minor",
+      "source": "Line 303; P138"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but a few phrases add or alter details established by the Korean source.",
+  "version": 1
+}
