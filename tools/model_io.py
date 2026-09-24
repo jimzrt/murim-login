@@ -153,6 +153,8 @@ def apply_review_replacements(text: str, review: dict) -> str:
             if len(old) >= 2 and old[0] == "“" and old[-1] == "”":
                 candidates.append((f"*{old[1:-1]}*", replacement))
                 candidates.append((old[1:-1], replacement[1:-1] if replacement.startswith("“") and replacement.endswith("”") else replacement))
+            if "\n" in old:
+                candidates.append(("> " + old.replace("\n", "\n> "), "> " + replacement.replace("\n", "\n> ")))
             for candidate, candidate_replacement in candidates:
                 candidate_starts = [match.start() for match in re.finditer(re.escape(candidate), text)]
                 if len(candidate_starts) == 1:
