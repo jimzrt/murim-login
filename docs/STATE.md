@@ -1,19 +1,20 @@
 # Translation State
 
-- Last completed: 983
-- Next chapter: 984
-- Current block: 980–984 (4/5)
-- Latest translation: `translations/0983.md`
-- Latest summary: `summaries/beats/0983.md`
-- Safe profiles through: chapter 983
+- Last completed: 984
+- Next chapter: 985
+- Current block: 980–984 (5/5)
+- Latest translation: `translations/0984.md`
+- Latest summary: `summaries/beats/0984.md`
+- Safe profiles through: chapter 984
 
 ## Current Block
 
-- Jeong Hogun’s forces surround the Murong estate in Shenyang. Murong Su, Murong Baek’s seventh son, risks his life to keep the remaining household members from intervening, but Jeong orders them executed until Namho intervenes. Jeong agrees to take the survivors for interrogation, and Namho declares the Murong Family dissolved while offering those proven innocent a chance to rebuild as the Murong household under a new Family Head.
+- News that the Murong Family joined Dark Heaven spreads across the Central Plains. An imperial proclamation brands Dark Heaven traitors, calls on martial artists to join the government in punishing them, and declares that war has begun. At Eight Spring Gorge, tens of thousands honor the fallen with chrysanthemums and cornelian berries; Jin Taekyung sees Jin Wikyung and Lee Seowol grieving their uncles as a mysterious chime rings out.
 
 ## Open Questions
 
-- Will the survivors’ innocence be established, allowing the Murong household to rebuild under Murong Su or another Family Head?
+- Will the Murong survivors’ innocence be established, allowing the household to rebuild under Murong Su or another Family Head?
+- What is the source or significance of the chime that sounds at the chapter’s end?
 
 ## Exceptional Decision
 
