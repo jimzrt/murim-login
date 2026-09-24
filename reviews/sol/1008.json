@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "How many times have I told you to cover your right palm with your left?",
+      "defect": "Reverses which hand covers which in the salute.",
+      "id": "F01",
+      "rationale": "The right palm covers the left hand in the source.",
+      "replacement": "How many times have I told you to cover your left hand with your right palm?",
+      "severity": "critical",
+      "source": "오른 손바닥으로 왼손을 덮으라고 몇 번을 말했거늘."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Master—no, if they were strong enough to fool you and the other people here, they’d have to have reached at least Returning to Simplicity or Bone Transformation.",
+      "defect": "Reverses Taekyung’s self-correction: he starts to use a familiar address, then switches to the respectful “Master.”",
+      "id": "F02",
+      "rationale": "The source says “노, 아니 스승님,” not “Master—no.”",
+      "replacement": "Old man—no, Master, if they were strong enough to fool you and the others here, they’d have to have reached at least Returning to Simplicity or Bone Transformation.",
+      "severity": "major",
+      "source": "노, 아니 스승님과 여기 계신 다른 분들을 속일 정도로 무위가 고강하다면 최소 반박귀진(返朴歸眞)이나 환골탈태(換骨奪胎)를 거쳐야 하죠."
+    },
+    {
+      "confidence": 0.87,
+      "current": "“I am Ma Junggeol, Chief of Baekma Bang. And the Seven Baekma Elders greet the heroes of the Murim Alliance.”",
+      "defect": "Calls the seven men “Elders,” an age or organizational rank not established by their title.",
+      "id": "F03",
+      "rationale": "백마칠종 identifies a group of seven, but does not call them elders.",
+      "replacement": "“I am Ma Junggeol, Chief of Baekma Bang. The Seven Masters of Baekma Bang greet the heroes of the Murim Alliance.”",
+      "severity": "major",
+      "source": "“백마방주 마중걸. 그리고 백마칠종(白馬七宗)이 무림맹의 협객들을 뵙습니다.”"
+    },
+    {
+      "confidence": 0.91,
+      "current": "“Now you’re talking. You should’ve spoken up sooner.”",
+      "defect": "Smooths away Taekyung’s conspicuously awkward repetition of the respectful word for speaking.",
+      "id": "F04",
+      "rationale": "The repeated 말씀 is part of his abrupt switch to polite speech.",
+      "replacement": "“Now you’re talking. You should’ve said—spoken up sooner.”",
+      "severity": "minor",
+      "source": "“이제야 말이 좀 통하네. 그러게 진작 말씀을 말씀하시지.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“If I were fake, would I say I was real?”",
+      "defect": "Adds a hypothetical claim about what an impostor would say instead of Jeok Cheongang’s blunt reply.",
+      "id": "F05",
+      "rationale": "He answers that he is real and challenges the suggestion that he might be fake.",
+      "replacement": "“Of course I’m real. Did you think I was a fake?”",
+      "severity": "minor",
+      "source": "“그럼 진짜지, 가짜겠느냐?”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“Damn. A minute ago you were yelling your heads off. Now you’re lowering your voices just because there are masters around. Being born late really is a crime. A crime.”",
+      "defect": "Drops the repeated imitation of the older man’s “갈” shouts and softens 시부럴.",
+      "id": "F06",
+      "rationale": "갈갈 대다가 mimics his repeated outbursts; 시부럴 is stronger than the draft’s detached “Damn.”",
+      "replacement": "“Sheesh. A minute ago you were shouting ‘Enough! Enough!’ at the top of your lungs. Now you lower your voice because there are masters around. Being born later is my fucking crime. My crime.”",
+      "severity": "minor",
+      "source": "“에효. 조금 전까지는 아주 목이 터져라 갈갈 대다가 고수들 앞이라고 목소리 줄인 거 봐라. 내가 시부럴 늦게 태어난 게 죄지. 죄야.”"
+    }
+  ],
+  "summary": "The draft has one reversed action, one reversed self-correction, and several avoidable changes to dialogue and titles.",
+  "version": 1
+}

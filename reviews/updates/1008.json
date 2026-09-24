@@ -1,0 +1,110 @@
+{
+  "chapter": 1008,
+  "files": {
+    "characters/Divine Physician.md": "8f34be15c4704140dc3fc566b247ef2b2c0c58e90194a2649817322c1ebaf222",
+    "characters/Jeok Cheongang.md": "912732d4cfe4595f828879839c800845959dc4217c07168a7a6026bbc880a147",
+    "characters/Ma Junggeol.md": "14d12a6b38986fc8525ad0164eeca077c8d6ac9ad28c95486e3d96919648afb9",
+    "characters/Sima Gong.md": "2817a92ff2a9a8b060bf59c117723f4a660cb33b48665df75c755beb9d88c54f",
+    "docs/ADDRESS.md": "60df388ea1addfbf06f4f1e61d215dec707c276346f1f5038c80ce6896f8f7ca",
+    "docs/CONTEXT.json": "261c7ef5ba62d8f9267168cdddf467104afa359d078b98c0f85fd2d57858e301",
+    "docs/NAMES.md": "b104545771a66a8fc3a9ca63e7f5e7da6a886d5b28c68d12d55267b0309741d3",
+    "docs/STATE.md": "ced4998a9eab270b013c3a69a0fd26e2aef97bf56960672ae5447b38366ed0ea",
+    "summaries/beats/1008.md": "16457e17477e9d5d6eef3edb518ef7f4759ee55d79f1b24f33df44192b412091"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "마중걸",
+        "kinship": "Murim Alliance member to visiting horse-caravan chief",
+        "normal_address": "Junggeol",
+        "notes": "Initially addresses him familiarly, then apologizes and shifts to polite speech.",
+        "speaker": "진태경",
+        "speech_level": "casual"
+      },
+      {
+        "addressee": "진태경",
+        "kinship": "visiting horse-caravan chief to young Murim Alliance member",
+        "normal_address": "young man",
+        "notes": "Initially calls him a pretty little gigolo as an insult, then uses a respectful address.",
+        "speaker": "마중걸",
+        "speech_level": "polite and deferential"
+      },
+      {
+        "addressee": "적천강",
+        "kinship": "visiting horse-caravan chief to legendary martial master",
+        "normal_address": "Great Hero Jeok Cheongang",
+        "notes": "Recognizes Jeok as the Fire King.",
+        "speaker": "마중걸",
+        "speech_level": "polite and deferential"
+      },
+      {
+        "addressee": "적천강",
+        "kinship": "Zhongnan Sect Leader to legendary martial master",
+        "normal_address": "Senior Jeok",
+        "notes": "Refers to Jeok as 적 대협.",
+        "speaker": "풍운검군",
+        "speech_level": "respectful"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Ma Junggeol leads Baekma Bang and arrived from Ningxia with six associates known collectively as the Seven Masters of Baekma Bang.",
+        "Baekma Bang was founded by former Ningxia mounted-bandit leaders who changed their ways under the guidance of an unknown master more than ten years ago.",
+        "Baekma Bang has fought steppe nomads and helped newly settled commoners; Ma Junggeol offers the Murim Alliance important information about Dark Heaven."
+      ],
+      "plot": [
+        "After three volleys of arrows, the Gansu leaders admit the fifty-odd riders, largely at Jeok Cheongang’s insistence. Jin Taekyung recognizes their leader as Ma Junggeol through his system window and, with Jeok, establishes that the group does not appear to be concealing exceptional martial strength. The newcomers identify themselves as Baekma Bang, a group founded by reformed Ningxia mounted-bandit leaders under an unknown master’s guidance more than ten years ago. Its chief, Ma Junggeol, says they came to offer help and have important information about Dark Heaven."
+      ],
+      "translation_decisions": [
+        "Render 백마방 as Baekma Bang and 백마칠종 as the Seven Masters of Baekma Bang."
+      ]
+    },
+    "chapter": 1008,
+    "context": {
+      "active_continuity": [
+        "Ma Junggeol leads Baekma Bang and arrived from Ningxia with six associates known as the Seven Masters of Baekma Bang.",
+        "Baekma Bang was founded by former Ningxia mounted-bandit leaders reformed under an unknown master more than ten years ago; the group now fights steppe nomads and helps settlers.",
+        "Ma Junggeol says Baekma Bang has important information about Dark Heaven and came to offer help."
+      ],
+      "continuity_sources": [
+        1008
+      ],
+      "open_questions": [
+        "Who was the unknown master who helped reform the Ningxia bandit leaders?",
+        "What information about Dark Heaven does Baekma Bang possess?"
+      ],
+      "safe_through": 1008,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Baekma Bang",
+        "korean": "백마방",
+        "notes": "Ma Junggeol’s horse-caravan group, founded by reformed mounted-bandit leaders."
+      },
+      {
+        "english": "Seven Masters of Baekma Bang",
+        "korean": "백마칠종",
+        "notes": "Collective title for Ma Junggeol and his six associates."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [
+          "Chief of Baekma Bang"
+        ],
+        "english": "Ma Junggeol",
+        "filename": "Ma Junggeol.md",
+        "korean": "마중걸",
+        "personality": "He is initially confrontational under pressure but becomes formal and earnest when explaining his group’s purpose.",
+        "relationships": "He leads six associates who, with him, are known as the Seven Masters of Baekma Bang.",
+        "role": "Ma Junggeol is the chief of Baekma Bang, a horse-caravan group founded by reformed Ningxia mounted-bandit leaders.",
+        "voice": "Not established"
+      }
+    ],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}
