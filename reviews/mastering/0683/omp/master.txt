@@ -6,7 +6,7 @@ Scorching heat tore through the Great Snow Fiend’s chest.
 
 KRRRUNCH!
 
-An immense impact swept through his entire body like a wave.
+An immense impact swept through his body like a wave.
 
 He coughed, and dark-red blood burst between his parted lips. His vision, clear a moment ago, grew hazy. It had been a long time since he had felt pain like this.
 
@@ -18,7 +18,7 @@ He had defeated countless powerful enemies to reach this point. Now a young man 
 
 *My judgment should have been correct.*
 
-He muttered the words blankly inside his mind, then shook his head.
+He caught himself and shook his head.
 
 No. It *had* been correct.
 
@@ -60,7 +60,7 @@ His voice was as cold as his thoughts were muddled. Jin Taekyung’s reply was p
 
 “You’ve still got plenty of energy for an old man. But that’s no good in a situation like this. It’ll only make things more painful.”
 
-The Great Snow Fiend's eyebrow twitched as he realized something.
+The Great Snow Fiend’s eyebrow twitched.
 
 “…You.”
 
@@ -98,7 +98,7 @@ Something that could not happen, *should* not happen, had happened.
 
 Jin Taekyung watched the Great Snow Fiend’s uncomprehending face and murmured as if to himself.
 
-“Yeah. Maybe it was.”
+“Yeah. Maybe it would have.”
 
 The Great Snow Fiend could not know what he meant. It was a gamble only one person in this world could have made.
 
@@ -122,7 +122,7 @@ The Great Snow Fiend’s unexpected move had left him with internal injuries fir
 
 It had been close. The result was what counted.
 
-The punch Jin Taekyung had thrown with every ounce of his strength had taken the Black Hand Fist Demon's life faster than the ice sword could, while the Great Snow Fiend's ice sword had failed to pierce the Fire Dragon Armor completely.
+His punch, thrown with all his strength, had taken the Black Hand Fist Demon’s life before the ice sword reached him. And the Great Snow Fiend’s ice sword had failed to pierce the Fire Dragon Armor completely.
 
 Jin Taekyung suddenly remembered something he had heard long ago from a man who loved Go. Every time the man lost a game, he would shout, “Japs out! Chinks out!”
 
@@ -160,7 +160,7 @@ Jin Taekyung did not bother arguing. At least the damned old man was right about
 
 The flesh he had given up had served its purpose, but a single level-up had not been enough to heal his earlier internal injuries and the wounds left by the twin wheels.
 
-And just as he had risen again after taking the first attack, the Great Snow Fiend still had plenty of strength left.
+And just as the Great Snow Fiend had risen after taking his blow, the old man still had plenty of strength left.
 
 “You will die, and this old man will live. That is the natural order, the mandate granted by Heaven.”
 
@@ -170,13 +170,13 @@ Cold spread around them with his icy voice.
 
 Even a full-strength blow from the Flame-Extinguishing Divine Fist had not put the old monster down. Jin Taekyung roused the fire dragon filling his lower dantian once more.
 
-“Well, I can understand an old man becoming senile…”
+“Well, I can let an old man going senile slide…”
 
 FWOOSH.
 
 Blue-white flames spread over the transparent spearhead, driving back the cold. Fire rose in his faintly warm eyes.
 
-“But if some bastard from Dark Heaven starts talking about Heaven's mandate, you won't even get to see your parents after you die.”
+“But a bastard from Dark Heaven talking about Heaven’s mandate? Your parents won’t want to see you even after you’re dead.”
 
 At that moment—
 
@@ -254,7 +254,7 @@ Holding his breath, he cut through the space between them, took the spear shaft 
 
 SHWAAAAAAK!
 
-The flame-wreathed spearhead grazed past in an instant.
+The flame-wreathed spearhead flashed through an instant. It split the wind and set the air ablaze.
 
 And at the end of its path stood a man.
 

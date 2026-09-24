@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The flame-wreathed spearhead grazed past in an instant.",
+      "defect": "The translation omits the next two physical images: the spearhead splitting the wind and setting the air ablaze.",
+      "id": "F01",
+      "rationale": "The Korean explicitly continues with “바람을 갈랐다. 공기를 불태웠다” after the spearhead passes.",
+      "replacement": "The flame-wreathed spearhead grazed past in an instant. It split the wind and set the air ablaze.",
+      "severity": "minor",
+      "source": "Lines 293–295"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Fifteen minutes earlier, he could have blocked it without difficulty.",
+      "defect": "This removes the source's explicit uncertainty and changes the counterfactual into a definite claim.",
+      "id": "F02",
+      "rationale": "The Korean says “아마 일각 전이었다면”: probably, if it had been fifteen minutes earlier.",
+      "replacement": "If this had happened fifteen minutes earlier, he probably could have blocked it without difficulty.",
+      "severity": "minor",
+      "source": "Line 255"
+    }
+  ],
+  "summary": "The assembled translation is largely faithful, but it drops two source images and makes a probable outcome certain.",
+  "version": 1
+}
