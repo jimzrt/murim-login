@@ -1,0 +1,25 @@
+{
+  "summary": "Mostly faithful, with two minor shifts in meaning.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 87",
+      "current": "Even breathing here felt like a privilege.",
+      "defect": "The Korean says that even breathing as an outsider in Nanman is difficult. Calling it a privilege changes the image and implies outsiders are granted something rather than struggling to get by.",
+      "replacement": "Even breathing here was difficult for outsiders.",
+      "rationale": "The source says 외지인이 숨 쉬는 것도 빡빡한 동네, describing how hard it is for outsiders even to breathe there.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 175",
+      "current": "My late father, who was once a great chieftain, often said things like this after returning from the Great Faction War.",
+      "defect": "The source identifies his father as a predecessor or former chieftain, not a great chieftain.",
+      "replacement": "My late father, a former chieftain, often said things like this after returning from the Great Faction War.",
+      "rationale": "선대 부족장 means a former or previous-generation chieftain; it does not establish the title Great Chieftain.",
+      "confidence": 0.91
+    }
+  ]
+}

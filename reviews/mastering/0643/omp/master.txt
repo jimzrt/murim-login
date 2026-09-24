@@ -4,17 +4,17 @@
 
 The stone gate descended behind me with a heavy rumble.
 
-Inside the spacious main hall, illuminated by spreading lamplight, thirty-one pairs of eyes flew toward my face like arrows and lodged there amid a silence in which no one spoke.
+In the wide hall, torches cast a soft glow. No one spoke. Thirty-one pairs of eyes shot toward me like arrows.
 
 *What are you doing coming out of there?*
 
 That was the look they gave me. But it held more surprise than hostility toward a Han Chinese man, and several chieftains even looked pleased to see me.
 
-Of course, there was one absolute exception.
+There was, of course, one exception.
 
 “One of two things must be true. Either my eyes deceive me, or the rules of the Tribal Grand Council have changed without anyone—including me—knowing.”
 
-The middle-aged man who broke the silence was Baeksang, the great chieftain of the Bai people. He continued in a cold voice.
+The man who broke the silence was Baeksang, Great Chieftain of the Bai people. His voice was cold.
 
 “Explain why you’ve brought a mere Han Chinese man here. He is neither a chieftain nor a Nanman.”
 
@@ -44,13 +44,13 @@ Baeksang’s eyes darkened. After a moment’s silence, he asked, “Why hasn’
 
 Baeksang tapped the table with a callused finger.
 
-“The tribal grand council is a solemn gathering where the chieftains representing all of Nanman come together to exchange their views. If one is not a chieftain, no one may take a seat here except the Young Palace Lord. This man’s qualification is merely the will of the Palace Lord alone. We will not permit it.”
+“The Tribal Grand Council is a gathering of chieftains who represent all of Nanman. We come here to exchange our views. No one who isn’t a chieftain may take a place here, save the Young Palace Lord. The Palace Lord alone believes this man has the right to attend. We do not permit it.”
 
 I watched for a moment, then muttered, “That’s funny. Isn’t that just your opinion?”
 
 I was clearly talking to myself, but none of the chieftains gathered here were so lacking in martial arts that they couldn’t hear me.
 
-That went without saying for Baeksang, whose martial arts were particularly formidable.
+Least of all Baeksang.
 
 He turned a cold gaze on me. “What did you say?”
 
@@ -64,11 +64,11 @@ He turned a cold gaze on me. “What did you say?”
 
 I shrugged at his frozen expression.
 
-“Since the subject has come up, let me say this. We may call ourselves ‘we,’ but isn’t this ultimately just your personal opinion as well? You haven’t even asked what the other chieftains think, yet you say you won’t permit it. What exactly are we supposed to do with that?”
+“Since we’re talking about it, who exactly is ‘we’? You haven’t asked the other chieftains what they think. If you declare that ‘we’ won’t permit it, what am I supposed to make of that?”
 
-As my words continued to flow smoothly, I could feel an invisible stir spreading among the seated chieftains.
+A stir passed through the seated chieftains.
 
-Baeksang was the great chieftain of the Bai people, the most powerful tribe in Nanman after the Miao people, as well as a Supreme Peak master who represented Nanman alongside the Beast Miao King.
+Baeksang led the Bai people, the strongest tribe in Nanman after the Miao people. He was also a Supreme Peak master who represented Nanman alongside the Beast Miao King.
 
 I doubted anyone had ever dared speak to him so openly.
 
@@ -134,9 +134,9 @@ One by one, they offered me their thanks with painfully awkward cupped-fist salu
 
 Not everyone who supported me was doing it because of last night’s rescue, though.
 
-“The Bouyei people also support him. He is more than qualified.”
+“The Bouyei people support him too. He has every right to be here.”
 
-At the words of the middle-aged female chieftain, one of the chieftains who still had not risen from his seat frowned.
+At the middle-aged chieftain’s words, one of the men who remained seated frowned.
 
 “Wait. What reason do the Bouyei people have? None of your warriors were stationed at Ailao Mountain, were they?”
 
@@ -150,7 +150,7 @@ At the words of the middle-aged female chieftain, one of the chieftains who stil
 
 The chieftain who had questioned her fell silent after an uncomfortable cough. Warm smiles appeared on other faces.
 
-And amid this atmosphere, so clearly different from the one only a few days ago, I felt a tickle in one corner of my chest.
+The mood was nothing like it had been a few days ago. Something stirred in my chest.
 
 *Repaying someone who helped you. It should be the most natural thing in the world.*
 
@@ -160,9 +160,9 @@ I hadn’t gone into the Poisonblood Grounds looking for repayment. Yet here the
 
 Some because I’d helped them last night. Others because of something that had happened long ago.
 
-“My late father, who was once a great chieftain, often said things like this after returning from the Great Faction War. ‘If it hadn’t been for the Fire King, I would have gone to the Nine Springs instead of returning to Nanman.’ I had completely forgotten those words after his death, but they have finally come back to me.”
+“My late father, the previous chieftain, often said this after he returned from the Great Faction War: ‘If not for the Fire King, I’d have gone to the Nine Springs instead of Nanman.’ I’d forgotten his words in all the years since his death. Only now do I remember them.”
 
-“My ancestor destroyed the Five Poisons Sect alongside the Sect Leader of the Fire Gate Clan at the time. If it hadn’t been for him, our tribe would not have survived to this day. I support him as well.”
+“My ancestor destroyed the Five Poisons Sect alongside the Sect Leader of the Fire Gate Clan at the time. Without him, our tribe might not have survived to this day. I support the young man as well.”
 
 Still water began to flow.
 
@@ -170,19 +170,19 @@ Chieftains who had sat in silence rose with the current, one after another, and 
 
 Then the last person—the one who would put an end to this—finally appeared.
 
-*Rumble, rumble—boom!*
+*Rumble—boom!*
 
 A giant eight cheok tall lifted the stone gate, heavy as a thousand geun, with one hand.
 
 The Beast Miao King cast a long, enormous shadow across the hall. He spoke in a low voice.
 
-“Looks like a conclusion has been reached.”
+“Looks like you’ve reached a conclusion.”
 
 At the end of his gaze, Baeksang slowly rose and offered him a cool, formal salute.
 
 “I greet you, Palace Lord.”
 
-“Unless my eyes and ears deceive me, he seems more than qualified. Don’t you agree, little brother?”
+“Unless my eyes and ears deceive me, the young man has every right to be here. Don’t you agree, little brother?”
 
 “It is the wrong choice. You are breaking the rules of a Tribal Grand Council with a long and venerable tradition.”
 
@@ -224,7 +224,7 @@ The man sending the Sound Transmission could never have guessed it would cost hi
 
 At the faint sounds, a figure hidden in the darkness collapsed.
 
-When the white fingers that had wiped the blood from their cheek moved, the lifeless corpse flew beyond the darkness and vanished.
+White fingers wiped blood from a cheek. They moved again, and the lifeless body flew into the darkness and vanished.
 
 —So? What happened?
 
@@ -234,7 +234,7 @@ One life was gone in an instant, but someone else soon took the dead man’s pla
 
 —Who? Jin Taekyung?
 
-—Yes! Apparently he gained permission with the support of the Beast Miao King and the other chieftains.
+—Yes! He gained permission with the support of the Beast Miao King and the other chieftains.
 
 After a moment’s silence, someone in the darkness clicked their tongue.
 
@@ -242,13 +242,13 @@ After a moment’s silence, someone in the darkness clicked their tongue.
 
 —W-what?
 
-—Then again, how could a worm like you be at fault? It was my mistake for keeping a useless worm under my command.
+—Then again, what could a worm like you have done? It’s my fault for keeping a useless worm as a subordinate.
 
 —…!
 
-The person reporting to the entity in the darkness immediately realized the danger, but he could not escape death either.
+The person reporting to the figure in the darkness recognized the danger at once. He couldn’t escape death, either.
 
-*Swish. Thrust!*
+*Swish. Thunk, thunk!*
 
 Death swept past again. The figure stared down at the corpse swallowed by darkness and murmured,
 
