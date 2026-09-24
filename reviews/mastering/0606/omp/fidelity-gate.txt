@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled copy is mostly faithful, but it drops the stated motivation for Jin’s decision and an explicit image central to his realization; it also narrows his question about damage to injuries.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 87–90",
+      "current": "Not in terms of a person’s character or breadth of mind, but in terms of how much power they could contain without letting it overflow.",
+      "defect": "The source explicitly says this comes down to a difference in the size of the vessel. The following paragraph retains the vessel image, but omitting it here removes the stated conclusion and weakens the connection to that explanation.",
+      "replacement": "In the end, it came down to the size of the vessel—not a person’s character or breadth of mind, but how much power they could contain without letting it overflow.",
+      "rationale": "The Korean says, “이건 결국 그릇의 차이다” (“In the end, this is a difference in vessels”), before explaining what that difference means.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 185–187",
+      "current": "After a long period of hesitation, I had made a decision and had been preparing for it…",
+      "defect": "The source states that Jin made this decision for himself and for everyone else. That motivation is absent from the assembled copy.",
+      "replacement": "For my sake. And for everyone else’s. After a long period of hesitation, I had made a decision and had been preparing for it…",
+      "rationale": "The source explicitly says, “나를 위해. 그리고 다른 모두를 위해” (“For my sake. And for everyone else’s”) before describing the decision and preparation.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 29–31",
+      "current": "“What about the casualties?” I asked urgently. “Was anyone hurt? Did the news deliberately hide the damage because…”",
+      "defect": "“Was anyone hurt?” narrows the source’s general question about damage to personal injury. The Korean asks about the damage and wonders whether the news deliberately hid its extent; it does not specify injuries.",
+      "replacement": "“Damage—what about the damage?” I asked urgently. “Did the news deliberately hide the extent of it because…”",
+      "rationale": "The repeated “피해” refers broadly to damage or harm, and the source does not specifically ask whether anyone was injured.",
+      "confidence": 0.93
+    }
+  ]
+}
