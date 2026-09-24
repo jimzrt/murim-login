@@ -6,7 +6,7 @@ A large, fur-covered paw crushed a brittle leaf.
 
 Fangs showed between parted jaws. The sleek body crouched deep in the grass was ready to hunt.
 
-*What kind of meat will I eat today?*
+What kind of meat would it eat today?
 
 All it had to do was spot its prey, sprint in, and sink its fangs into the back of its neck.
 
@@ -36,7 +36,7 @@ Humans were unwelcome. Small as they were, they sometimes hunted predators much 
 
 Just like now.
 
-Swish.
+Rustle.
 
 The leopard rose from its crouch.
 
@@ -50,9 +50,9 @@ The leopard stopped and stared beyond the grass.
 
 A human came running up, making strange noises, and squatted among the weeds.
 
-“Ahh. I almost died.”
+“Ahh. Thought I was going to die.”
 
-At the same time, sounds and smells that would have made even predators recoil filled the air. A glint flashed through the black leopard’s vertically slit pupils.
+Then came sounds and smells that would make even a predator recoil. A glint flashed through the leopard’s slit pupils.
 
 There was no doubt about it. This human had left the group to relieve himself.
 
@@ -66,7 +66,7 @@ The leopard made its decision in an instant. The muscles in all four legs tighte
 
 Tap—whoosh!
 
-Several dozen feet vanished in an instant. Only then did the human notice something and turn his head toward the leopard.
+Several jang vanished beneath its paws. Only then did the human notice and turn his head.
 
 A beat too late. Fangs flashed inside the leopard’s wide-open jaws.
 
@@ -74,11 +74,11 @@ A beat too late. Fangs flashed inside the leopard’s wide-open jaws.
 
 Thud! Crunch!
 
-The sound of flesh being torn rang out beneath the beast’s thunderous roar. Large and small bodies tangled together and rolled across the ground.
+The sound of pierced flesh rang out beneath the beast’s roar. The two bodies, one large and one small, tangled together and rolled across the ground.
 
 A moment later, the survivor of that short, fierce struggle made himself heard.
 
-“Phew!”
+“Pwah!”
 
 The man who emerged from the black fur had blood all over his face.
 
@@ -96,7 +96,7 @@ But like a seed putting out shoots, he had grown considerably since then.
 
 “Getting beaten all the time really has improved my reflexes… But how do I get out from under this thing?”
 
-The man—Hyuk Mujin—was still trapped beneath the impossibly heavy carcass of the black leopard, struggling and grunting, when—
+He was still grunting and struggling beneath the leopard’s enormous carcass when a familiar voice reached him.
 
 “Strange. Was this the business you said you had to take care of?”
 
@@ -144,7 +144,7 @@ Freed at last from the danger of being crushed to death, Hyuk Mujin brushed the 
 
 “Yes. It seems the Nanman Beast Palace sent a messenger eagle. They must have further instructions.”
 
-“Either way, that’s good news. The beasts have been moving so violently that I nearly shattered my rear end.”
+“Whatever it says, I’m glad we’re stopping. The beasts have been tossing me around so much I thought my ass would break.”
 
 “They need rest too. Still, the Nanman people must train them well. They have impressive stamina—every bit as much as grassland horses.”
 
@@ -204,7 +204,7 @@ Blood gushed from the gaping wound. Hyuk Mujin gave the blade a cursory wipe and
 
 “It’s night already.”
 
-They had apparently set out at night, but while moving without a moment to think, the second night had already arrived.
+He was sure they had set out at night. Somehow, they had ridden straight through to the second night.
 
 And several more nights would pass before they returned to the Nanman Beast Palace.
 
@@ -216,7 +216,7 @@ After a brief silence, what he heard behind him was not Song Ilseom’s voice, b
 
 Shing.
 
-Hyuk Mujin recognized the sound coming from behind him and swallowed dryly.
+Hyuk Mujin swallowed.
 
 “Uh, about calling you dumb. I’m sorry. Are you really angry?”
 
@@ -280,7 +280,7 @@ But he could not stop picturing Ju Hwaran fighting alone.
 
 “…Damn it.”
 
-As he spat out the curse, Song Ilseom slowly lowered the cherished weapon in his hand.
+He spat out the curse and slowly lowered the weapon in his hand.
 
 Hyuk Mujin, a little slower to grasp the situation, did the same.
 
@@ -298,6 +298,6 @@ He couldn’t.
 
 Tap, tap, tap.
 
-Someone’s fingers tapped all over his body. As he felt his body stiffen under the Pressure-Point Strike, Song Ilseom muttered inwardly,
+Someone’s fingers struck points across his body. As the Pressure-Point Strike left him rigid, Song Ilseom muttered inwardly,
 
 *What the hell have you done, Jin Taekyung?*
