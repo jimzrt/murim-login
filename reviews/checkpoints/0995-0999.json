@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "*The world—and the heavens—are being turned upside down.*",
+      "defect": "The narration presents this as a line from the Quest window, but the displayed line says they are changing, not being turned upside down.",
+      "id": "C01",
+      "rationale": "A recalled quotation should match the System panel the reader has just seen.",
+      "replacement": "*The world—and the heavens—are changing.*",
+      "severity": "minor",
+      "source": "Chapter 996, Taekyung recalling the Quest window"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The last guest in the room stepped inside.",
+      "defect": "The guest is described as already being in the room before stepping inside.",
+      "id": "C02",
+      "rationale": "This preserves his entrance without the spatial contradiction.",
+      "replacement": "The last guest stepped into the room.",
+      "severity": "minor",
+      "source": "Chapter 995, Jeok Cheongang entering the room"
+    },
+    {
+      "confidence": 0.96,
+      "current": "\"Jeok Cheongang has regained a middle-aged appearance and youth.\",",
+      "defect": "The active state omits Taekyung’s four jiazi, the unresolved Desert Mirage Quest, and the Zhuge Clan’s completed assignments that open the all-out war.",
+      "id": "C03",
+      "rationale": "These are continuing conditions established in chapters 996–997, not resolved by chapter 999.",
+      "replacement": "\"Jeok Cheongang has regained a middle-aged appearance and youth.\",\n    \"Taekyung controls four jiazi of internal energy after assimilating the Heavenly Power Demon’s and Peng Cheolhu’s energy.\",\n    \"The Desert Mirage Quest remains unresolved.\",\n    \"The Zhuge Clan has completed its assigned tasks, and the opening act of an all-out war has begun.\",",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    }
+  ],
+  "summary": "The reading copies are largely consistent. One recalled System line differs from the displayed Quest text, one sentence has a spatial slip, and the active state omits three continuing hooks.",
+  "version": 1
+}

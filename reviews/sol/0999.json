@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Anyway, yes. I hope both of you are in excellent health.”",
+      "defect": "Taekyung repeats the mistaken wish that they be split in two; the draft gives the correct greeting, leaving no reason for the shocked reaction or his realization that he misspoke.",
+      "id": "F01",
+      "rationale": "He says 기체후일도양단, carrying Hyuk Mujin’s erroneous 일도양단 into the formal greeting.",
+      "replacement": "“Anyway, yes. I hope you’ve both been split in two.”",
+      "severity": "critical",
+      "source": "뒤늦게 말실수를 깨달은 나는 한숨을 푹 내쉬었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He’d very nearly become the guest of honor at a funeral instead.",
+      "defect": "A guest of honor is not necessarily the dead person; Song Il nearly became the subject of his own funeral.",
+      "id": "F02",
+      "rationale": "초상집의 주인공 refers to the deceased, not an honored attendee.",
+      "replacement": "He’d very nearly ended up being the one everyone mourned at a funeral instead.",
+      "severity": "critical",
+      "source": "바로 초상집의 주인공이 될 뻔한 그는"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Then they realized that the blue-eyed young man who’d suddenly appeared was none other than the Blazing Flame Divine Dragon, Jin Taekyung.",
+      "defect": "The draft invents blue eyes. 새파란 놈 describes a very young upstart, not eye color.",
+      "id": "F03",
+      "rationale": "The shock is at the newcomer’s identity despite his youth; no physical eye detail is supplied.",
+      "replacement": "Then they realized that the young upstart who’d suddenly appeared was none other than the Blazing Flame Divine Dragon, Jin Taekyung.",
+      "severity": "critical",
+      "source": "갑자기 나타난 새파란 놈의 정체가 바로 그 열화신룡 진태경이라는 것에 또 다시 한 번."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Gong Iljung of the Zhongnan Sect pays his respects to Great Hero Jeok.”",
+      "defect": "Gong does not introduce himself by his full name here. He uses the self-effacing 공 모, withholding his given name.",
+      "id": "F04",
+      "rationale": "The deliberately modest introduction precedes Jeok’s question about his name.",
+      "replacement": "“This humble Gong of the Zhongnan Sect pays his respects to Great Hero Jeok.”",
+      "severity": "critical",
+      "source": "“종남파의 공 모(某)가, 적 대협을 뵙습니다.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“G-Great Hero Jeok, please, for my sake and my Masters’…”",
+      "defect": "The draft changes Gong’s singular Master into multiple Masters.",
+      "id": "F05",
+      "rationale": "제 스승님 is singular and identifies a specific relationship in his appeal.",
+      "replacement": "“G-Great Hero Jeok, please, for my sake and my Master’s…”",
+      "severity": "critical",
+      "source": "“그, 적 대협. 부디 저와 제 스승님의 얼굴을 봐서라도…….”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Yeah, I am.”",
+      "defect": "Taekyung’s deliberately absurd attempt to tack politeness onto an informal yes disappears.",
+      "id": "F06",
+      "rationale": "응이요 mixes casual 응 with the polite ending 요 in direct response to the complaint about his speech level.",
+      "replacement": "“Yeah, sir.”",
+      "severity": "major",
+      "source": "“응이요.”"
+    },
+    {
+      "confidence": 0.93,
+      "current": "“I suppose I can. I might be young, but my seniority’s that of an old man.”",
+      "defect": "“I suppose I can” answers the Daoist’s rhetorical accusation as though it were permission or ability, obscuring Taekyung’s claim that his seniority entitles him to speak this way.",
+      "id": "F07",
+      "rationale": "그래도 될걸 asserts that his behavior is permissible because his 배분 outranks his apparent age.",
+      "replacement": "“I can get away with it. I might be young, but in martial seniority I’m an old man.”",
+      "severity": "major",
+      "source": "“그래도 될걸. 나이만 새파랗지 배분은 노인네라서.”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“Oh! As expected of Young Lady Ju. Ten points to the Griffin-and-Phoenix Escort Bureau.”",
+      "defect": "The joke alters the established Yongbong Escort Bureau’s name by dropping its dragon half.",
+      "id": "F08",
+      "rationale": "그리핀 is added to 용봉표국; it does not replace 용 with a griffin.",
+      "replacement": "“Oh! As expected of Young Lady Ju. Ten points to the Griffin Yongbong Escort Bureau.”",
+      "severity": "major",
+      "source": "“오. 역시 주 소저. 그리핀용봉표국에 십 점.”"
+    },
+    {
+      "confidence": 0.88,
+      "current": "The rumor that Jeok Cheongang had broken through into a new, transcendent realm and regained his youth had spread far and wide.",
+      "defect": "“Transcendent” assigns a specific quality to the new realm that the source does not establish.",
+      "id": "F09",
+      "rationale": "위대한 경지 calls the achievement great; it does not label the realm transcendent.",
+      "replacement": "The rumor that Jeok Cheongang had reached another extraordinary realm and regained his youth had spread far and wide.",
+      "severity": "major",
+      "source": "적천강이 다시 한 번 위대한 경지를 개척하며 젊음을 되찾았다는 소문은 이미 퍼질 대로 퍼졌고"
+    },
+    {
+      "confidence": 0.92,
+      "current": "*They were dragging their feet.*",
+      "defect": "The draft reduces brazen refusal to mere slowness.",
+      "id": "F10",
+      "rationale": "배 째고 있었구만 conveys a defiant, take-it-or-leave-it stance, consistent with Taekyung’s conclusion that the two elders held the sect back.",
+      "replacement": "*They’d dug in their heels and dared anyone to do something about it.*",
+      "severity": "major",
+      "source": "‘배 째고 있었구만.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "When I’d just started out as a Hunter, fresh from school and new to the job,",
+      "defect": "“Fresh from school” adds an educational history not stated in the source.",
+      "id": "F11",
+      "rationale": "사회 초년생 means someone new to working life, not necessarily a recent graduate.",
+      "replacement": "When I’d just entered the workforce and started out as a Hunter,",
+      "severity": "minor",
+      "source": "내가 막 사회 초년생으로서 헌터 생활을 시작했을 때"
+    }
+  ],
+  "summary": "Several scene facts and relationships are altered, and the mistranslated greeting breaks a central joke.",
+  "version": 1
+}

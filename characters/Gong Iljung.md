@@ -1,6 +1,6 @@
 # Gong Iljung (공일중)
 
-- **Safe through:** Chapter 244
+- **Safe through:** Chapter 999
 - **Aliases:** Wind-and-Cloud Sword Lord
 - **Role:** Current Sect Leader of the Zhongnan Sect and bearer of the Wind-and-Cloud Sword Lord title
 - **Personality:** Not established in this chapter.
