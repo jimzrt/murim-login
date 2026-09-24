@@ -48,9 +48,9 @@ His honesty drew a quiet laugh from me.
 
 “Damn it. You could’ve said that sooner…”
 
-His words trailed off as his eyes began to close. At the same time, Sama Pyo’s body slowly tilted to the side, and I stepped toward him.
+His eyes closed, his words trailing off as his body slowly tipped forward. I stepped toward him.
 
-Whoosh. Thud.
+Swish. Tap.
 
 The three-zhang gap vanished in an instant.
 
@@ -58,7 +58,7 @@ Just as I caught him before he could pitch face-first into the ground, a sharp w
 
 Whoosh!
 
-It happened behind me, but I could see it. No—I could sense and read everything through my sharpened instincts.
+I couldn’t see what was happening back there. I didn’t need to. My sharpened senses caught every detail.
 
 Now that I’d stepped into this space, it was practically my domain.
 
@@ -70,23 +70,23 @@ Splash.
 
 Sticky blood sprayed across my back. Ignoring it, I laid Sama Pyo on a relatively clean patch of ground and raised my head.
 
-The masked men stood frozen like stone statues.
+The masked men stood frozen like statues.
 
 “Why are you just standing there? That was pretty much your last chance.”
 
-“……”
+“…!”
 
-“……”
+“…!”
 
 “What’s so surprising? Were you planning to ding-dong ditch me, you fucking bastards?”
 
-In the suffocating silence, the ten pairs of eyes visible above the masks shook violently.
+In the suffocating silence, the eyes visible above their masks wavered. Then—
 
 Papap!
 
 Whiiiiing!
 
-A gale far fiercer than the first swept out in every direction.
+A gale far fiercer than the first swept the clearing.
 
 Every masked man still standing was a Peak master capable of injuring others with Sword Energy. Swords, sabers, spears, sickles… Destructive qi surged from their weapons, tearing through the air toward the vital points across my body.
 
@@ -98,7 +98,7 @@ Even the faint fear in their wide eyes.
 
 That settled it. They had already lost. They knew they were no more than wolves, yet they refused to accept it and charged at a tiger anyway.
 
-*Then I’d better teach them. Teach them that they should have run somehow.*
+*Then I’ll show them why they should have run.*
 
 Dozens of forms flashed through my mind. I chose the cruelest, most destructive one and moved.
 
@@ -114,7 +114,7 @@ Force cut the weapons apart. I struck one of the masked men in the abdomen as he
 
 Boom!
 
-Terrible heat burned away the life force inside his body. I lowered my head as he crumpled behind me, smoke pouring from his seven apertures.
+Terrible heat burned the life from his body. Smoke poured from his seven apertures as he crumpled behind me, and I ducked.
 
 Shaaak! Whoosh!
 
@@ -150,7 +150,7 @@ Whoosh!
 
 Space vanished with the wind, and another enemy appeared right in front of me. No—I was the one who had reached him.
 
-“……”
+“…!”
 
 His wide eyes seemed to be trying to say something. Too late. I tightened my grip around his neck.
 
@@ -180,9 +180,9 @@ I pushed aside the corpse with the broken neck and spoke quietly.
 
 “Five left.”
 
-“……”
+“…!”
 
-“……”
+“…!”
 
 I could feel the fear filling the suffocating silence. Five Peak masters had fallen in mere moments, and I didn’t have a scratch on me as I looked for my next target.
 
@@ -190,7 +190,7 @@ I could feel the fear filling the suffocating silence. Five Peak masters had fal
 
 No one answered.
 
-Then the masked men, frozen in place and staring at me with eyes wide as if they had seen a ghost, chose to target someone else instead of me.
+The masked men stared at me as if they’d seen a ghost. Then they chose other targets.
 
 Papap!
 
@@ -226,17 +226,17 @@ I gave a quiet laugh at Namho’s praise—or abuse; it was hard to tell—then 
 
 “All right. Three left.”
 
-“……”
+“…!”
 
-“……”
+“…!”
 
-“……”
+“…!”
 
 Their eyes twitched. They understood.
 
 Even as their comrades died, they had been backing away, unable to bring themselves to attack me.
 
-“I’m telling you this just in case, but if you run, you’ll die. Of course, unlike your friends who went sightseeing at Mount Beimang first, you’ll die much more painfully after lingering a long time before your breath finally stops.”
+“Just so you know, if you run, you die. Only it’ll hurt a lot more than it did for your friends who went sightseeing at Mount Beimang, and you’ll live a lot longer before the end.”
 
 Someone swallowed hard.
 
@@ -262,7 +262,7 @@ I couldn’t even rule out Heugung. We’d parted barely fifteen minutes ago, af
 
 *Did he ask to meet me just so he could stab me in the back? Fool me first, then seize the Fire Dragon Pavilion members and use them to threaten me?*
 
-Or it could have been Baeksang, who had been watching Heugung, or Yohi.
+Or perhaps Baeksang or Yohi had been watching Heugung.
 
 One thing was certain: whatever name came from these masked attackers’ mouths would belong to a Dark Heaven hound.
 
@@ -272,13 +272,13 @@ Ssssss.
 
 I pressed down on them with an overwhelming wave of qi. The foreheads visible above their masks creased in pain.
 
-Then, in the next moment, I saw the corners of the masked men’s mouths twitch.
+Then I saw their mouths move beneath the cloth.
 
 Crunch.
 
-“……!”
+“…!”
 
-A chill swept over me. I hurriedly fired Finger Qi and struck their pressure points, but dark-red blood burst from the mouths of the men who had severed their own heart meridians.
+A chill seized me. I fired Finger Qi at their pressure points, but I was too late. They had severed their own heart meridians, and dark-red blood spilled from their mouths.
 
 “Grrrk. Cough.”
 
