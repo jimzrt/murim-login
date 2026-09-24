@@ -1,6 +1,6 @@
 # So Gyo (소교)
 
-- **Safe through:** Chapter 933
+- **Safe through:** Chapter 935
 - **Aliases:** None
 - **Role:** So Gyo is the Bow Saint, a Supreme Peak master and palace attendant assigned to Prince Shangshan, whose two curved swords can join into their original bow form.
 - **Personality:** Calm, calculating, and self-possessed; she conceals her strength and identity and can be openly taunting.
