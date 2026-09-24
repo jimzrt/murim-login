@@ -2475,3 +2475,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 복마검 | **Demon-Subduing Sword** | The Kongtong disciple’s sword art. |
 | 무아 | **No-self** | The brief self-forgetting state the disciple mistakes for a breakthrough. |
 | 홍표 | **Hong Pyo** | Deputy Thousand Captain of the Gansu Regional Military Commission. |
+| 혈검마군 | **Blood-Sword Demon Lord** | Antagonist commanding the army advancing on the Great Snow Mountain. |
+| 천산삼노 | **Three Elders of Tianshan** | The three former Demonic Cult fiends serving the Blood-Sword Demon Lord. |

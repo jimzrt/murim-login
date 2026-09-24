@@ -1497,3 +1497,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 홍표 | 진태경 | military officer addressing the Marquis of Shangshan | Marquis of Shangshan | formal and deferential | Hong Pyo recognizes Taekyung and salutes him using his title. |
 | 홍표 | 사마공 | military officer enforcing a checkpoint procedure on a regional sect leader | old man | formally phrased but blunt and disrespectful | Hong Pyo demands Sima Gong’s identity tablet and warns him not to refuse. |
 | 홍표 | 적천강 | military officer enforcing a checkpoint procedure on an older martial artist | old man | blunt and disrespectful | Hong Pyo demands an identity tablet and travel pass, calling Jeok Cheongang suspicious. |
+| 혈검마군 | 삼노 | former Demonic Cult fiend to subordinate | Elder Three | familiar and contemptuous | Addresses the wounded elder as 삼노 while asking how he compares to the Fire King. |

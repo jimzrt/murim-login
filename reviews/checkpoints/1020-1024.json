@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Chasing the surviving allies and, at the same time, chasing the surviving allies to break through the second line of defense in their path.",
+      "defect": "The same pursuit is stated twice, obscuring the second action.",
+      "id": "C01",
+      "rationale": "Preserves both the pursuit and the advance without repeating the same clause.",
+      "replacement": "They were hunting down the survivors while advancing on the second line of defense.",
+      "severity": "minor",
+      "source": "Chapter 1020, Taekyung’s assessment after the Dunhuang report"
+    },
+    {
+      "confidence": 0.98,
+      "current": "By now, everyone had heard the news that the front line at Dunhuang, built around the Kongtong Sect, had been utterly crushed half a day ago.",
+      "defect": "Places Dunhuang’s defeat half a day earlier, although the Chapter 1020 messenger said it happened about three days before his report.",
+      "id": "C02",
+      "rationale": "Removes the conflicting timestamp without assigning an unsupported exact time to the travelers’ arrival.",
+      "replacement": "By now, everyone had heard the news that the front line at Dunhuang, built around the Kongtong Sect, had been utterly crushed.",
+      "severity": "major",
+      "source": "Chapter 1022, approach to the Great Snow Mountain"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Their comrades, the people they shared meals with, came back as corpses overnight.",
+      "defect": "“Overnight” conflicts with this chapter’s account that the scouts left four hours earlier and encountered the enemy two hours earlier.",
+      "id": "C03",
+      "rationale": "Keeps the speaker’s point about the defenders’ shock without introducing a conflicting interval.",
+      "replacement": "Their comrades, the people they shared meals with, went out scouting and came back as corpses.",
+      "severity": "minor",
+      "source": "Chapter 1024, enemy group discussing the scouts"
+    },
+    {
+      "confidence": 0.99,
+      "current": "not even when they trampled Dunhuang, defended by the Zhongnan Sect, in an instant.",
+      "defect": "Names the Zhongnan Sect as Dunhuang’s defenders; the reading copies, summary, and active state identify the Kongtong Sect.",
+      "id": "C04",
+      "rationale": "Corrects the faction attribution at a major battle without changing the sentence’s other claims.",
+      "replacement": "not even when they trampled Dunhuang, defended by the Kongtong Sect, in an instant.",
+      "severity": "major",
+      "source": "Chapter 1024, Blood-Sword Demon Lord assessing his army"
+    }
+  ],
+  "summary": "The reading copies and active state largely agree. Four actionable issues remain: a duplicated action, two timing conflicts, and a sect misidentification.",
+  "version": 1
+}
