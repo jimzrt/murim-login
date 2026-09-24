@@ -4,9 +4,9 @@ For an instant, I wondered.
 
 *What if the Black Hand Fist Demon hadn’t been there? What if I’d dodged the Finger Qi?*
 
-*What if the pain hadn’t risen from the shoulder pierced by the Finger Qi at the exact moment our palms met?*
+*What if pain hadn’t shot through the shoulder it pierced at the exact moment our palms met?*
 
-*What if I had known that my opponent’s martial arts were based on Yin-Cold Qi?*
+*What if I’d known my opponent used Yin-Cold Qi?*
 
 *If—if any of that had been different…*
 
@@ -18,7 +18,7 @@ KRAK!
 
 The frozen flames died away. The Yin-Cold Qi that had swallowed even the fire swelled as though it might burst.
 
-Beyond the unprecedented internal energy that shook the surrounding space, someone’s hand, engulfed in pure-white light, pressed against my chest.
+Beyond the tremendous internal energy shaking the air, a hand wreathed in pure-white light touched my chest.
 
 Tap.
 
@@ -44,7 +44,7 @@ The thick stone wall standing across my path—a path I had no control over—wa
 
 KWAANG! RRRUMBLE!
 
-Even through the haze, I could feel the excruciating pain.
+Even through the haze, I felt the pain.
 
 The scenery finally stopped whipping past. So did I, after flying several dozen jang[^1] and burying myself deep in the stone wall.
 
@@ -84,7 +84,7 @@ When I woke, the pain wracking my body would be gone. This goddamn body would wo
 
 Then I’d shuffle into the kitchen and, despite what she’d just said, find the table empty. I’d set out the spoons and side dishes while Mom stood with her back to me, the savory smell of soybean-paste stew wafting over her shoulder.
 
-*Ah. This is nice.*
+*Ah. That sounds nice.*
 
 Just thinking about it put me at ease.
 
@@ -122,7 +122,7 @@ I braced a hand trembling from the cold against the ground and muttered, “Stop
 
 I was answering him, but I was telling myself, too.
 
-That was right. I was not dead yet, and even if my flame had briefly gone cold, it could flare up again and again.
+That was right. I wasn’t dead. Even if my flame had gone cold for a moment, it could flare up again and again.
 
 Just like now.
 
@@ -136,17 +136,17 @@ Cough!
 
 Dark red blood spilled from my lips. I paid it no mind. It was dead blood.
 
-And the substance that had been gnawing away at my body and interfering with the flow of my internal energy was covered in pure-white frost the instant it touched the ground.
+The blood that had been eating away at me and obstructing the flow of my internal energy turned white with frost the moment it touched the ground.
 
 Fsssh.
 
-And not merely Yin-Cold Qi, but an extreme form of it unlike anything I had ever seen.
+Yin-Cold Qi. An intensity of it I had never seen before.
 
-During the Shaolin Bloodshed, the Yin Freak—one of the Yin-Yang Twin Freaks who had led Dark Heaven’s martial artists in a surprise attack on Shaolin Temple—had not possessed anything like this.
+Even the Yin Freak—one of the Yin-Yang Twin Freaks who had led Dark Heaven’s martial artists in an attack on Shaolin Temple during the Shaolin Bloodshed—hadn’t possessed anything like this.
 
 “…So that’s how it is.”
 
-After muttering under my breath, I rose without hesitation.
+I rose without hesitation.
 
 Tududuk.
 
@@ -154,7 +154,7 @@ Leaves and stone dust fell from my body at the sudden movement. A dull ache foll
 
 Step.
 
-Footsteps slowly crossed the Poisonblood Grounds, which had changed from a swamp into a desert, and from a desert into frost-covered land.
+Footsteps crossed the Poisonblood Grounds, which had gone from swamp to desert to frost-covered earth.
 
 The Black Hand Fist Demon followed several paces behind with a triumphant look on his face. I had eyes only for the man ahead of him.
 
@@ -170,7 +170,7 @@ I knew his sobriquet now. Or perhaps it was more accurate to say I’d remembere
 
 “Youth is a fine thing. Yet you fail to understand that, in a situation like this, it will only bring you more pain.”
 
-As he had until now, the Great Snow Fiend answered without the slightest wavering and continued.
+His voice was as steady as ever.
 
 “The fight is over. Surrender now, and I will spare your life. This is my first and last offer.”
 
@@ -198,11 +198,9 @@ The Great Snow Fiend ignored the mutter slipping through the other man’s clenc
 
 I stared at him and answered.
 
-Not with words, but with action.
+Not with words.
 
 Whoosh!
-
-A sharp sound of air splitting rang through the air.
 
 My spear split the air. The Great Snow Fiend moved exactly half a step to avoid the strike.
 
@@ -214,7 +212,7 @@ My spear split the air. The Great Snow Fiend moved exactly half a step to avoid 
 
 “Which way it’s turned.”
 
-I muttered the words and continued.
+I repeated the words, then went on.
 
 “Honestly, I do want to live. But I’m not the kind of bastard who surrenders or runs just because things have tilted a little. Unlike some people.”
 
@@ -222,17 +220,17 @@ The Great Snow Fiend paused. Then, as though he’d realized something, he gave 
 
 “You know me.”
 
-“I’ve heard of a sobriquet or two. White Rice Cake, Great Snow Fiend, something like that.”[^2]
+“I’ve heard the name. White Rice Cake, Great Snow Fiend—something like that.”[^2]
 
 “A child like you would hardly have heard that name… Fire King Jeok Cheongang. Did your master tell you?”
 
-“Then do you think the fucking Heavenly Demon told me?”
+“Who the fuck else would’ve told me? The Heavenly Demon?”
 
 I shrugged.
 
 “He said if I ever met a son of a bitch who used twin wheels and Yin-Cold Qi, it would be the Great Snow Fiend or his successor. He said he wished he’d killed you himself, but after you killed the former Sect Leader of the Zhongnan Sect, you disappeared without a trace.”
 
-“I feel the same regret. If this old man had met your master during the Great Faction War, I could have killed the Fire King and made my name resound throughout the world.”
+“I share his regret. Had this old man met your master during the Great Faction War, I could have killed the Fire King and made my name known throughout the world.”
 
 “At best, you’d have been the Ice God instead of the Great Snow Fiend, you fucking idiot.”[^3]
 
@@ -256,7 +254,7 @@ But…
 
 “You bastard…”
 
-“It’s not like I’m criticizing you. I don’t want to die either. But once you’ve lived that many years, you should be honest every now and then—even about the things you don’t want to admit. Don’t you think?”
+“I can’t blame you. I don’t want to die either. But at your age, you ought to be honest once in a while, even about the things you hate admitting. Don’t you think?”
 
 Deep lines creased the Great Snow Fiend’s brow. Powerful Yin-Cold Qi rose around him and pressed down on everything nearby.
 
@@ -264,7 +262,7 @@ Deep lines creased the Great Snow Fiend’s brow. Powerful Yin-Cold Qi rose arou
 
 *Last words.*
 
-*Maybe that’s how it will be.*
+*Maybe they will be.*
 
 I took a deep breath. This was no ordinary opponent. Facing two Supreme Peak masters while suffering from internal injuries was all but suicide.
 
@@ -272,7 +270,7 @@ Was I afraid of dying? Of course.
 
 I’d feared death ever since I became a Hunter. Coming to Murim hadn’t changed that.
 
-Now that I had taken one step toward accepting the word *death* in my heart, I was different from before.
+But now that I’d let the word *death* a little closer, I felt different than usual.
 
 *I can do anything. Anything.*
 

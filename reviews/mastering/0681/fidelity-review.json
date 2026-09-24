@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "And that meant I could charge in without holding my life back.",
+      "defect": "“Without holding my life back” does not clearly convey 목숨을 아끼지 않고: charging in without sparing or protecting his life.",
+      "id": "F01",
+      "rationale": "The source explicitly says he can rush in without valuing or sparing his life, because this is a fight to kill rather than to survive.",
+      "replacement": "And that meant I could charge in without sparing my life.",
+      "severity": "minor",
+      "source": "Korean lines 297–299"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor wording issue in the final line that obscures the source’s meaning of risking one’s life.",
+  "version": 1
+}
