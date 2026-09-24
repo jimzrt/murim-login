@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Now they were plunging straight into the heart of her allies’ formation, ready for another wave of attacks.",
+      "defect": "“Ready for another wave of attacks” suggests the Keshiks are preparing to attack again. They move among her allies to protect themselves against the Bow Saint’s follow-up attacks.",
+      "id": "F01",
+      "rationale": "The maneuver follows their losses to her attacks and prevents her from firing again without hitting allies.",
+      "replacement": "They had plunged straight into the heart of her allies’ formation to guard against her follow-up attacks.",
+      "severity": "critical",
+      "source": "곧장 아군의 중심을 파고들어 잇따른 추가 공격을 대비하고 있었으니."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The battle had already dragged on for hours.",
+      "defect": "A *shichen* is approximately two hours; “hours” loses the stated unit and understates the duration.",
+      "id": "F02",
+      "rationale": "The source specifies several 시진, and the packet’s glossary establishes *shichen*.",
+      "replacement": "The battle had already dragged on for several *shichen*.",
+      "severity": "critical",
+      "source": "이미 몇 시진 째 이어지는 전투에서"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Guys like you would never understand, even if you died and came back a hundred times.",
+      "defect": "“A hundred times” changes the stated quantity.",
+      "id": "F03",
+      "rationale": "수십 번 means dozens of times.",
+      "replacement": "Guys like you would never understand, even if you died and came back dozens of times.",
+      "severity": "critical",
+      "source": "수십 번을 죽었다 깨어나도 모를 테니까."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Even as I watched her disappear far away across the open sky, I didn’t feel abandoned.",
+      "defect": "“Abandoned” implies a stronger sense of desertion than the hurt or disappointment denied here.",
+      "id": "F04",
+      "rationale": "서운한 감정 describes feeling hurt or disappointed, not necessarily abandoned.",
+      "replacement": "Even as I watched her disappear far away across the open sky, I didn’t feel hurt that she’d left.",
+      "severity": "minor",
+      "source": "그러나 저 멀리 허공을 가로질러 사라지는 그녀의 뒷모습을 보면서도 서운한 감정은 들지 않았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "I used to think you were merely a treacherous sort of fellow…",
+      "defect": "“Treacherous” gives Jeok’s earlier suspicion the certainty of betrayal that he says he lacked.",
+      "id": "F05",
+      "rationale": "음흉한 구석 identifies a shady aspect of Murong Baek’s character, contrasted with what Jeok now knows.",
+      "replacement": "I used to think you just had a sly streak…",
+      "severity": "minor",
+      "source": "과거에는 그저 음흉한 구석이 있는 놈이라고만 생각했는데……."
+    },
+    {
+      "confidence": 0.96,
+      "current": "What I’d thought was nothing more than regret and lingering resentment was proof that I’d grown.",
+      "defect": "“Resentment” introduces anger toward someone else; the thought concerns lingering regret over his own past choices.",
+      "id": "F06",
+      "rationale": "미련 here is difficulty letting go of what he could have done differently.",
+      "replacement": "What I’d thought was nothing more than regret and lingering misgivings was proof that I’d grown.",
+      "severity": "minor",
+      "source": "단순한 후회이자 미련이라고 생각했던 그것이, 내가 발전했다는 증거라는 것을."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it reverses the Keshiks’ defensive maneuver and alters two quantities. Several smaller choices change the narrator’s meaning or tone.",
+  "version": 1
+}
