@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, but it loses the blood-kin detail in one line and omits an explicit waiting detail and a character beat.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 11: “부족민들이랑 혈육을 구해 줘서 고맙다고.”",
+      "current": "Thanked me for saving their tribespeople and families.",
+      "defect": "“Families” loses the source’s specific reference to blood relatives.",
+      "replacement": "They thanked me for saving their tribespeople and blood relatives.",
+      "rationale": "The Korean explicitly says 부족민들과 혈육, distinguishing the tribespeople from their blood kin.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 13: “기다려도 안 오시길래 충분히 짐작은 했는데……”",
+      "current": "You were gone so long that I had a feeling something had happened…",
+      "defect": "This changes the specific cue from waiting for him without his arrival to him being gone a long time.",
+      "replacement": "When you didn’t come even after we waited, I had a pretty good idea what must have happened…",
+      "rationale": "The source explicitly says they waited, he still did not come, and she could infer what happened; the current line omits the waiting and non-arrival.",
+      "confidence": 0.93
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 15: “놀라는 주화란의 모습에, 옆에 있던 남호가 푸근한 미소를 지으며 덧붙였다.”",
+      "current": "“Of course it’s a first. An outsider attending the tribal grand council was a first, and that outsider getting into a fight with the great chieftain of the Bai people was a first too. Yes, indeed.”",
+      "defect": "The narration omits Namho’s warm smile and that he was beside Ju Hwaran when he added his comment.",
+      "replacement": "At Ju Hwaran’s astonished expression, Namho, who was beside her, added with a warm smile, “Of course it’s a first. An outsider attending the tribal grand council was a first, and that outsider getting into a fight with the great chieftain of the Bai people was a first too. Yes, indeed.”",
+      "rationale": "The source includes both Namho’s position beside Ju Hwaran and his warm smile as part of the moment.",
+      "confidence": 0.98
+    }
+  ]
+}

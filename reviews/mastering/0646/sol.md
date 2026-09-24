@@ -1,6 +1,6 @@
 # Chapter 646
 
-If this continued, I was liable to be branded a traitor guilty of high treason, so in the end, I had to explain everything that had happened at the tribal grand council from beginning to end.
+At this rate, I was going to be treated like a criminal of the highest order. In the end, I had to explain everything that had happened at the Tribal Grand Council, from beginning to end.
 
 And answer every question that came up along the way.
 
@@ -10,7 +10,7 @@ And answer every question that came up along the way.
 
 “My goodness. You were gone so long that I had a feeling something had happened… But an outsider—especially a Han Chinese person—attending the Tribal Grand Council must be a first in Nanman’s history. No, in Murim history.”
 
-“Of course it’s a first. An outsider attending the tribal grand council was a first, and that outsider getting into a fight with the great chieftain of the Bai people was a first too. Yes, indeed.”
+Seeing Ju Hwaran’s astonishment, Namho added with a warm smile, “Oh, it’s a first. An outsider attending the Tribal Grand Council was a first, and that outsider picking a fight with the great chieftain of the Bai people was a first, too. Yes, indeed.”
 
 “…”
 
@@ -26,7 +26,7 @@ Ju Hwaran’s eyes widened as she listened.
 
 “The Blood Monk?”
 
-“Yes. Apparently, he’s rampaging through Guizhou right now. I heard he’s already beaten several hundred people to death and is running wild. This was the first time I’d heard that sobriquet, so I was wondering if Young Lady Ju had ever heard of him.”
+“Yes. Apparently, he’s tearing through Guizhou right now. He’s already beaten several hundred people to death, from what I hear. This is the first I’ve heard of the name. Have you come across it, Young Lady Ju?”
 
 The Yongbong Escort Bureau was based in Sichuan, which bordered Guizhou to the southeast. And though the bureau’s fortunes had declined for a time, it had once been among the foremost Escort Bureaus in the world. Its intelligence network was considerable.
 
@@ -34,7 +34,7 @@ The Yongbong Escort Bureau was based in Sichuan, which bordered Guizhou to the s
 
 But my hopes faded when I told her what little I knew about the Blood Monk and she shook her head.
 
-“I’m sorry. A few sobriquets vaguely come to mind, but none of them belonged to a master of that caliber. Besides, there’s no specific sketch or description of his appearance.”
+“I’m sorry. A few sobriquets come to mind, but none of those men were masters of that caliber. And we don’t have a detailed description of his appearance.”
 
 “Hmm. I see.”
 
@@ -56,9 +56,9 @@ Oh. Right.
 
 Every eye in the room, including mine, turned toward Song Ilseom. As usual, he’d been keeping quiet.
 
-“Hmm. I don’t know.”
+“Hmm. Maybe,” he muttered.
 
-*Like hell you don’t.*
+*Maybe, my ass.*
 
 I’d figured him out by now. I tossed him a silver nyang.
 
@@ -66,7 +66,7 @@ I’d figured him out by now. I tossed him a silver nyang.
 
 He might call himself a mere escort these days, but Song Ilseom was a martial arts prodigy of Guangdong Chen Family blood. At a startlingly young age, he’d won more than a hundred life-and-death duels and become a legend among wandering martial artists.
 
-In some ways, there were few professions more sensitive to people and rumors than wandering martial artists. Their lives could depend on it from one day to the next.
+Few people paid closer attention to names and rumors than wandering martial artists. Their lives could depend on it tomorrow—or today.
 
 *Clack.*
 
@@ -78,9 +78,9 @@ Song Ilseom snatched the silver out of the air and frowned.
 
 “…”
 
-“So, you don’t like it?”
+“So you don’t want it?”
 
-“I don’t dislike it.”
+“I didn’t say that.”
 
 “What if I give you more?”
 
@@ -90,7 +90,7 @@ Song Ilseom snatched the silver out of the air and frowned.
 
 *Whoosh. Clack.*
 
-“……Somehow, this feels even worse.”
+“…Now I feel dirty.”
 
 Having secured a generous bonus, Song Ilseom began, looking vaguely uncomfortable. “Middle-aged, and he uses a Zen staff?”
 
@@ -136,7 +136,7 @@ A heavy silence fell. Then Namho muttered what everyone was thinking.
 
 I didn’t know who the *other* crazy bastard was supposed to be, but I couldn’t agree more.
 
-Should I take back the silver first and then beat him up? Or beat him up first and then take back the silver?
+I glared at Song Ilseom, standing there as if nothing was wrong, and weighed my options. Take back the silver, then beat him up? Or beat him up, then take back the silver?
 
 That was when I noticed someone else giving him a look of utter contempt.
 
@@ -150,7 +150,7 @@ Sama Pyo, Young Sect Leader of the Black Dragon Demon Gate—the most powerful u
 
 “I have three things to say. First, I am not an unorthodox grunt. Second, Gansu and Guizhou are nearly a thousand li apart, so travel between them is difficult. And third, why would you think I’d know?”
 
-“Because you’re part of the unorthodox faction.”
+“Because you’re unorthodox.”
 
 “…?”
 
@@ -182,13 +182,13 @@ Given how much he’d been laughing, he seemed about halfway out of his mind. Hy
 
 “What?”
 
-“Ah, sorry. That was just a habit. But if you start talking nonsense like the others in this situation, I’ll kill you.”
+“Ah, sorry. Habit. But if you start spouting nonsense like the others, I’ll kill you.”
 
 “No, that’s not it. This Blood Monk or whatever he’s called… Isn’t there too little information about him for a martial artist?”
 
 It was the most sensible thing anyone had said since Ju Hwaran spoke. I scratched the back of my head in frustration.
 
-“That’s true. How fucking old is he, anyway? How is there not a single person who knows him?”
+“There is. How fucking old is he, anyway? How does nobody know him?”
 
 Namho, who’d been shooting Taishan a murderous glare, cut in.
 
@@ -198,7 +198,7 @@ If Namho had been just some old man from another tribe, that might not have mean
 
 *Then who the hell is this guy? He sounds like some hidden master.*
 
-If even Namho, a man from the distant past, and the Fire Dragon Pavilion members of the current generation had never heard of him, then he was truly a freak.
+If neither Namho, a man from the distant past, nor the current generation of Fire Dragon Pavilion members knew him, he was a mystery indeed.
 
 But what mattered most wasn’t the Blood Monk’s identity. It was who stood behind him—and what he wanted.
 
@@ -206,11 +206,11 @@ Namho tapped his knees, as if he’d read my mind.
 
 “We can’t be sure yet, but there’s a strong chance Dark Heaven is behind the Blood Monk.”
 
-“I agree. I said as much at the grand council.”
+“I agree. I said as much at the council.”
 
 “What do the Beast Miao King and the other chieftains think?”
 
-“We decided to send some scouts and warriors toward Guizhou first, but before that… Baeksang’s reaction bothered me.”
+“They decided to send scouts and warriors toward Guizhou. But Baeksang’s reaction before that bothered me.”
 
 “He told you not to concern yourselves with affairs in the Central Plains, I suppose.”
 
@@ -242,9 +242,9 @@ But even the System that had brought me from an F-rank Hunter to where I stood n
 
 *In that case…*
 
-I raised my head and slowly looked over everyone around me.
+I raised my head and slowly looked around the room.
 
-I recalled their martial arts, characteristics, and personalities one by one as I considered who was best suited for the task. Who could return alive from an unknown danger?
+I thought through each person’s martial arts, strengths, and temperament. Who was best suited to the task? Who could face an unknown danger and come back alive?
 
 I was deep in thought, with no end to it in sight, when someone spoke.
 
@@ -252,7 +252,7 @@ I was deep in thought, with no end to it in sight, when someone spoke.
 
 “…!”
 
-“Please send me. I will complete the mission and return without fail.”
+“Send me. I’ll complete the mission and come back. I promise.”
 
 I was startled twice: first that she’d understood what I was thinking without a word from me, and then that the person who’d spoken was Ju Hwaran.
 
@@ -264,7 +264,7 @@ My answer came out as if I’d settled on it from the start.
 
 “That’s…”
 
-“My martial arts may be meager compared to yours, Pavilion Master, but I believe I am strong enough to protect myself.”
+“My martial arts may be meager compared to yours, Pavilion Master, but I can protect myself.”
 
 “Young Lady Ju.”
 
@@ -284,7 +284,7 @@ That was what she’d first called me months ago, just after we’d settled the 
 
 For a moment, I could almost smell the flowers in the Fire Courtyard, where we’d taken our last walk before leaving. The eyes that had been wet beneath the moonlight then now shone with firm resolve.
 
-“Please send me. Send me.”
+“Send me. Please.”
 
 “…!”
 
