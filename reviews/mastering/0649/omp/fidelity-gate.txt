@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is broadly faithful, but one line resolves a deliberate contradiction in the source, and another adds an unstated number of blows.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "649, lines 315–316",
+      "current": "Someone did shoot an arrow at me. I just don’t think it was an attack.",
+      "defect": "The source repeats “attack” to preserve the paradox: it was an attack, but apparently not an attack. Replacing the first instance with a factual explanation removes that joke logic and loses a detail retained in the accepted baseline.",
+      "replacement": "It was an attack, but I don’t think it was an attack.",
+      "rationale": "The Korean says “습격은 습격인데, 습격이 아니었던 것 같습니다.” The arrow explanation comes later; it is not part of this line.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "649, lines 255–257",
+      "current": "He had smashed apart that sturdy table with one blow.",
+      "defect": "“With one blow” specifies a number of strikes that the Korean does not establish.",
+      "replacement": "He had smashed that sturdy table apart.",
+      "rationale": "The source says he smashed the sturdy table by striking it, without specifying that it took one blow.",
+      "confidence": 0.83
+    }
+  ]
+}

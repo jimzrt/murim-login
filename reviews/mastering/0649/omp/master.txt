@@ -68,7 +68,7 @@ But after I checked the gaps between the planks, even that suspicion vanished. N
 
 Every second felt like ten years.
 
-It was just as I had accepted reality and was holding my breath while doing my business.
+I’d finally accepted my fate and was holding my breath as I did my business when—
 
 *Whoosh—thud!*
 
@@ -84,7 +84,7 @@ The moment I recognized it, I shot into motion like lightning.
 
 The door shattered, and fresh night air greeted me. But that was all.
 
-There was nothing around me. Nothing except the cheers and musical instruments I could hear from somewhere not too far away.
+There was no one around. Nothing but cheers and music coming from somewhere nearby.
 
 Still…
 
@@ -122,11 +122,11 @@ I looked at the arrow and spear embedded near my feet, then checked the arrow in
 
 But there was one important difference I’d missed.
 
-*This is…*
+*What’s this…?*
 
 A small leather bundle hung from its fletching.
 
-The moment I realized it was there, dozens of torches flared to life beneath the pavilion where I stood.
+The moment I noticed it, dozens of torches flared to life below me.
 
 “You’re surrounded!”
 
@@ -142,7 +142,7 @@ After a brief moment’s thought, I silently gave a command.
 
 At the System’s clear chime, the arrow vanished from my hand as if it had never existed.
 
-Unable to make out what had happened in the darkness, the warriors of the Inner Palace shouted again.
+Unable to see what had happened in the dark, the warriors shouted again.
 
 “This is your final warning! Disarm yourself and surrender!”
 
@@ -158,7 +158,7 @@ Making more trouble would only make things harder for me…
 
 *Why are they looking at me like that?*
 
-*They look as though they’ve seen a ghost.*
+Every last one of them looked as if they’d seen a ghost.
 
 Then I realized.
 
@@ -230,7 +230,7 @@ I knew my turn was coming and spoke first.
 
 “Could you not put it like that? Just hear me out…”
 
-“I heard everything! I heard every last bit of it! There are even witnesses! More than two hundred people saw it! Did you send Young Lady Ju here for this? Is that your thing?”
+“I heard everything! Everything! There were witnesses, too! More than two hundred people saw it! Is this why you sent Young Lady Ju away? Is that your thing?”
 
 “Wow, come to think of it, it would’ve been awful if Young Lady Ju had been there. Thank God she wasn’t…”
 
@@ -238,7 +238,7 @@ I knew my turn was coming and spoke first.
 
 *Boom! Crack!*
 
-That old man was over eighty, but he sure was strong. He had smashed apart that sturdy table with one blow.
+The old man was over eighty, but he still had strength to spare. He’d smashed that sturdy table to pieces.
 
 I barely stopped myself from applauding. One more provocation, and Namho looked liable to die of rage.
 
@@ -254,11 +254,11 @@ After soothing Namho with a look of concern that hardly suited a man of the unor
 
 “Yeah, damn it. There was a small misunderstanding I can’t exactly tell other people about…”
 
-“Did you really send Young Lady Ju here for this?”
+“Did you really send Young Lady Ju away for this?”
 
 “You fucking bastard.”
 
-How had things ended up like this? At this rate, my nickname would change to the *Naked Divine Dragon*.
+How had it come to this? At this rate, everyone would start calling me the *Naked Divine Dragon*.
 
 I stared at the ceiling in despair, then finally managed to speak.
 
@@ -278,7 +278,7 @@ All three of them focused on me at once. Namho’s eyes widened.
 
 “Then the culprit! Did you catch him?”
 
-“Do you think I did? It was shot from far away, and there were so many people in the Inner Palace that I failed to find him.”
+“Do you think I did? The shot came from far away, and the Inner Palace was packed. I couldn’t find him.”
 
 A dagger or poisoned needle would have made things easier. Hidden weapons like those had a much shorter range.
 
@@ -304,9 +304,9 @@ Having shut Taishan down, Namho frowned at me.
 
 “It wasn’t an attack?”
 
-“Yes.”
+“No.”
 
-“Then there was something hidden. Tell me in more detail.”
+“There was something else, then. Tell me.”
 
 “I didn’t notice until later, but there was something strange attached to the arrow.”
 
