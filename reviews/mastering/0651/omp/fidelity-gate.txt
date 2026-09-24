@@ -1,0 +1,35 @@
+{
+  "summary": "The English is largely faithful, but it omits a stated emotion and a source-specific image, with one smaller physical detail also lost.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 39–43",
+      "current": "Perhaps it had been piling up inside him for a very long time.",
+      "defect": "The source explicitly identifies the emotion crossing Heugung’s face as humiliation before saying it may have accumulated over a long time. The English keeps the accumulation but omits what had accumulated.",
+      "replacement": "It was unmistakably humiliation. Perhaps it had been piling up inside him for a very long time.",
+      "rationale": "The source says, “그건 분명 모멸감이었다” (“It was unmistakably humiliation”), a specific emotional fact preserved in the accepted baseline.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 21",
+      "current": "The old stall owner grumbled at the sight, but all my attention was on Heugung.",
+      "defect": "The source says the old owner grumbled with a dissatisfied expression; the English drops that physical expression.",
+      "replacement": "The old stall owner grumbled with a dissatisfied expression at the sight, but all my attention was on Heugung.",
+      "rationale": "“불만 섞인 표정으로” specifies the owner’s unhappy expression, which the accepted baseline also retained.",
+      "confidence": 0.95
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean lines 227–231",
+      "current": "*Baeksang.*",
+      "defect": "The English omits the image of Baeksang’s silhouette emerging beyond the haze and the narrator having followed that person with his eyes and heart from the beginning until now.",
+      "replacement": "But beyond that haze, the silhouette of one person I’d followed with my eyes and heart from the beginning until now was clearly visible.\n\n*Baeksang.*",
+      "rationale": "The omitted sentence is explicit in the source and was present in the accepted baseline; it connects the narrator’s hazy thoughts to his persistent focus on Baeksang.",
+      "confidence": 0.99
+    }
+  ]
+}

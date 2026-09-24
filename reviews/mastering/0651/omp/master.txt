@@ -34,7 +34,7 @@ Heugung swallowed hard before continuing his Sound Transmission.
 
 It lasted only an instant, but I caught the emotion that crossed his face at those last words.
 
-Perhaps it had been piling up inside him for a very long time.
+Humiliation. It had probably been building inside him for years.
 
 I studied him, then moved my lips.
 
@@ -48,7 +48,7 @@ I studied him, then moved my lips.
 
 —If this isn’t betrayal, then I’m not Han Chinese—I’m from Nanman. Don’t bother denying it.
 
-As if I had hit the mark, Heugung bit his lip hard and gave a small nod.
+Heugung bit his lip, then gave a small nod.
 
 —Fine. I won’t deny it. Ever since my father died in the Great Faction War, I’ve lived under Great Chieftain Baeksang’s shadow. I was a runny-nosed child then, and I’m still under it now. No—I should say he’s dragged me around on an invisible leash. But that isn’t the only reason I decided to meet you.
 
@@ -60,7 +60,7 @@ As if I had hit the mark, Heugung bit his lip hard and gave a small nod.
 
 —The Great Chieftain Baeksang I’ve known has always been coolheaded and capable. That’s why he’ll never back down. He’ll believe the choice he made was right. But if this goes on… Nanman is finished.
 
-I silently stared at Heugung.
+I said nothing.
 
 How much of this secret conversation at a little stall on a crowded street was I supposed to believe?
 
@@ -154,7 +154,7 @@ His Sound Transmission took on a self-mocking edge.
 
 —Do you know what sort of man Great Chieftain Baeksang is? Or what you know of the Bai people?
 
-—I don’t know much about Nanman, but I’ve heard various things from a reliable source. I’ve also formed a certain judgment of Baeksang myself.
+—I don’t know much about Nanman, but I’ve heard a few things from a reliable source. I’ve formed an opinion of Baeksang myself, too.
 
 —An opinion. Interesting.
 
@@ -168,7 +168,7 @@ His Sound Transmission took on a self-mocking edge.
 
 He trailed off.
 
-The next moment, I felt someone’s gaze and turned my head.
+I felt his gaze and turned. His eyes met mine, bright and steady.
 
 —The finest Bai warriors, waiting for the right moment in a secret refuge somewhere in Nanman even now.
 
@@ -192,7 +192,7 @@ My feet stopped before I could help it. I turned toward a nearby stall as natura
 
 His Sound Transmission turned bitter.
 
-—Every time one of my loyal retainers died, I learned something new. Great Chieftain Baeksang exchanges missives to unknown destinations on the first day of every month, between Insi and the hour of the Rabbit.[^1] He also disappears somewhere alone once every three months… Ah, since last year, that changed to once a month. The person who followed him then was the last subordinate I could trust. I never saw him again after that.
+—Each time another of my father’s men died, I learned something new. Great Chieftain Baeksang exchanges missives with someone at an unknown destination on the first day of every month, between Insi and the hour of the Rabbit.[^1] Once every three months, he also disappears somewhere alone. Since last year, that’s become once a month. The man who followed him was the last subordinate I could trust. I never saw him again.
 
 A heavy silence settled between us.
 
@@ -204,7 +204,7 @@ All around us, people chatted and cheered. Heugung and I didn’t join them.
 
 Which parts were true? Which were lies?
 
-My thoughts were hazy, as though I had been swallowed by Poison Mist.
+My thoughts were as hazy as if I’d been swallowed by Poison Mist. But beyond the haze, I could still make out the figure I’d been watching and trying to understand from the start.
 
 *Baeksang.*
 
@@ -230,9 +230,7 @@ Through the passing crowd, I saw his gaunt frame jerk. His gaze met mine, trembl
 
 —She only made the wrong choice. All she wanted was to restore the Yao people…
 
-His voice gradually faded.
-
-I blinked blankly at Heugung, and the back of my head began to tingle.
+His words faded. I stared at him, blinking. Then it hit me.
 
 *Fuck. Don’t tell me…*
 
@@ -244,23 +242,21 @@ I blinked blankly at Heugung, and the back of my head began to tingle.
 
 “…”
 
-This was driving me crazy.
+Unbelievable. Every idiotic grin he’d worn whenever he saw Yohi had been genuine.
 
-I had suspected as much, but all those foolish grins whenever Yohi appeared had really been genuine.
+And now he was throwing up a shield for her so wholehearted it would make Magic Johnson weep.
 
-He had even put up a soul shield strong enough to make Magic Johnson cry.
+I barely resisted pushing through the crowd to grab him. Instead, I sent a Sound Transmission that was practically a shout.
 
-I barely managed to restrain myself from pushing through the crowd and marching over to him. Instead, I sent a Sound Transmission that was almost a shout.
-
-—Would you say that in front of Sir Yayul, too? That Yohi did nothing wrong?
+—Could you say that in front of Sir Yayul? That Yohi’s done nothing wrong?
 
 —That’s why I came to you. First, I didn’t think the Palace Lord would trust me over Great Chieftain Baeksang. Second, I thought he wouldn’t forgive our Yohi.
 
-—Wow. Listen to this “our Yohi” bullshit.
+—Wow. “Our Yohi.” Listen to yourself.
 
 “…!”
 
-—Ah, sorry. But you really are an idiot. Anyway, I understand now. Your Yohi defected to that side.
+—Sorry. But you really do sound like an idiot. Anyway, I get it. That Yohi of yours sided with Baeksang.
 
 Heugung’s face stiffened at my choice of words. He opened his mouth as if to object, then sighed.
 
@@ -272,7 +268,7 @@ Neither was mine to accept on the spot. Protecting Heugung was one thing; protec
 
 *But if the Beast Miao King agrees…*
 
-If Heugung’s words were true, we could not only root out Dark Heaven’s threat from Nanman, but might even drag the Nanman Beast Palace into the Murim Alliance as one enormous headache.
+Things could move quickly. If Heugung was telling the truth, we might not only root out Dark Heaven’s threat in Nanman, but bring the enormous sweet potato that was the Nanman Beast Palace into the Murim Alliance along with it.
 
 *If* he was telling the truth.
 
@@ -292,13 +288,13 @@ He stood panting, glanced around, gave a small nod, and disappeared into the cro
 
 Only then did I take a full breath and start walking. Before I told the Beast Miao King, I wanted to stop at our quarters and talk it over with the Fire Dragon Pavilion members.
 
-*Those damn men. I’ll consider it a success if they haven’t caused any trouble.*
+*Those damn troublemakers. I’ll be lucky if they haven’t caused another incident.*
 
 * * *
 
 Sama Pyo had come out to the clearing in front of the quarters to train when a thought occurred to him.
 
-Was he simply born unlucky, or had the karma from that damn Pavilion Master’s misdeeds flowed all the way here like a stream?
+Was he born unlucky, or had the consequences of that damn Pavilion Master’s misdeeds flowed all the way here like a stream?
 
 “So let me ask you.”
 
