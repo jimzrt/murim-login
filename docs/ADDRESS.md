@@ -1464,3 +1464,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 궁성 | 모용백 | opponents | Murong Baek; North Heaven Demon Lord | calm, formal, and admonitory | The Bow Saint directly addresses Murong while telling him to accept the consequences of his choices. |
 | 진위경 | 테무르 | Alliance Leader addressing a captured opposing chieftain | you | formal and firm | Uses 그대 while offering Temur a choice to surrender. |
 | 테무르 | 진위경 | submitting chieftain to his new lord | my lord | deferential and honorific | Temur submits and addresses Jin Wikyung as 주군. |
+| 약왕당주 | 진위경 | physician addressing the Jin Family’s Lesser Family Head | Lesser Family Head | blunt and threatening | Presses Wikyung to accept treatment and rest, threatening to kill him if he keeps working. |
+| 정호군 | 진태경 | imperial officer responding to the Marquis of Shangshan | Marquis of Shangshan | formal and deferential | Accepts the command with a formal acknowledgment of Taekyung’s title. |

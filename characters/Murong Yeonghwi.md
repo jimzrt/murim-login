@@ -1,8 +1,8 @@
 # Murong Yeonghwi (모용영휘)
 
-- **Safe through:** Chapter 546
+- **Safe through:** Chapter 982
 - **Aliases:** One-Ride Heavenly Dragon
-- **Role:** Murong Yeonghwi is a blood relative of the Murong Family, an overwhelmingly powerful young prodigy, and a recently appointed Squad Leader of the Murim Alliance's Outer Hall who remains in Liaoning to oversee his family's defenses.
+- **Role:** Murong Yeonghwi is a blood relative of the Murong Family and an overwhelmingly powerful young prodigy who escaped the family’s annihilation with several dozen others and is now being pursued toward Liaoning.
 - **Personality:** Not established.
 - **Voice:** Not established.
 - **Relationships:** He is a blood relative of the Murong Family.
