@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I felt hot blood run down my forehead.",
+      "defect": "The assembled text omits the distinct sensation of stinging pain.",
+      "id": "F02",
+      "rationale": "The source explicitly says he felt an aching, stinging pain before noting the blood running down his forehead.",
+      "replacement": "A sharp, stinging pain. I felt hot blood run down my forehead.",
+      "severity": "minor",
+      "source": "Line 197"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Until Baeksang’s eyes, flashing with killing intent, turned toward me.",
+      "defect": "The narration omits that the speaker remained motionless and simply watched Baeksang.",
+      "id": "F03",
+      "rationale": "The source explicitly describes the speaker not moving and only watching before Baeksang’s gaze turns toward him.",
+      "replacement": "But I didn’t move. I just watched him until Baeksang’s eyes, flashing with killing intent, turned toward me.",
+      "severity": "minor",
+      "source": "Line 199"
+    }
+  ],
+  "summary": "Mostly faithful, with one idiom mistranslated and two physical details omitted.",
+  "version": 1
+}

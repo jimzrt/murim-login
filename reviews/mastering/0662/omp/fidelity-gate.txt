@@ -1,0 +1,35 @@
+{
+  "summary": "Mostly faithful, with one idiom mistranslated and two physical details omitted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 59",
+      "current": "*With higher-ups like that, they can forget about The Reign.*",
+      "defect": "“군림천하” means ruling or dominating the world here. Treating it as the title fragment “The Reign” changes the line’s meaning.",
+      "replacement": "*If the people at the top are that rotten, they can forget about ruling the world.*",
+      "rationale": "The sentence says that a sect with leadership in such a state cannot hope to rule the world; it does not refer to the novel title.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 197",
+      "current": "I felt hot blood run down my forehead.",
+      "defect": "The assembled text omits the distinct sensation of stinging pain.",
+      "replacement": "A sharp, stinging pain. I felt hot blood run down my forehead.",
+      "rationale": "The source explicitly says he felt an aching, stinging pain before noting the blood running down his forehead.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 199",
+      "current": "Until Baeksang’s eyes, flashing with killing intent, turned toward me.",
+      "defect": "The narration omits that the speaker remained motionless and simply watched Baeksang.",
+      "replacement": "But I didn’t move. I just watched him until Baeksang’s eyes, flashing with killing intent, turned toward me.",
+      "rationale": "The source explicitly describes the speaker not moving and only watching before Baeksang’s gaze turns toward him.",
+      "confidence": 0.99
+    }
+  ]
+}
