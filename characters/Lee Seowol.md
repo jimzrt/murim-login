@@ -1,6 +1,6 @@
 # Lee Seowol (이소월)
 
-- **Safe through:** Chapter 949
+- **Safe through:** Chapter 964
 - **Aliases:** None
 - **Role:** Lee Seowol is the eighteen-year-old Sect Leader of the reconstructed and rapidly growing Mount Heng Sword Sect, a vassal of the Jin Family of Taiyuan who still awaits Taekyung’s answer to her marriage proposal.
 - **Personality:** Cold, commanding, and composed; capable of stopping a fierce confrontation with a calm request

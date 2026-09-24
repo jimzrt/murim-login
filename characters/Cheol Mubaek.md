@@ -1,6 +1,6 @@
 # Cheol Mubaek (철무백)
 
-- **Safe through:** Chapter 963
+- **Safe through:** Chapter 964
 - **Aliases:** Tiger of Mount Heng
 - **Role:** Cheol Mubaek is the ninth-generation successor of the Shura Annihilating Fist and the Peak master known as the Tiger of Mount Heng, now out of seclusion and active in the rebuilding of the Mount Heng Sword Sect.
 - **Personality:** Fierce, short-tempered, intimidating, and fiercely protective; becomes gentle and attentive toward Seowol

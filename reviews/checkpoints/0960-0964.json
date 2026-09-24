@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "The nomads kept fighting, not daring to interfere in the battle of their superior, who was practically a tyrant. The Shanxi defenders, gradually tiring against the endless waves of enemy troops.",
+      "defect": "The nomads are said to keep fighting immediately after the narration says everyone stopped moving; the second sentence is also a fragment.",
+      "id": "C01",
+      "rationale": "Preserves what each side had been doing while making the battlefield-wide pause coherent.",
+      "replacement": "Even the nomads, who had kept fighting rather than interfere in their tyrannical superior’s battle, stopped. So did the Shanxi defenders, worn down by the endless waves of enemy troops.",
+      "severity": "minor",
+      "source": "Chapter 962, pause after the Demon Bird is struck"
+    },
+    {
+      "confidence": 0.9,
+      "current": "The death of the one stringing a bow on his composite bow became the signal.",
+      "defect": "“Stringing a bow on his composite bow” is an unnatural and confusing description of the action.",
+      "id": "C02",
+      "rationale": "Corrects the English without changing the stated action from stringing the bow to drawing or firing it.",
+      "replacement": "The death of the man stringing his composite bow became the signal.",
+      "severity": "minor",
+      "source": "Chapter 963, archer killed during Mukyung’s stand"
+    }
+  ],
+  "summary": "The packet is broadly consistent. Two local prose issues are actionable; the summaries and active state preserve the unresolved approaching force.",
+  "version": 1
+}

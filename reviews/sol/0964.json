@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The cries of his retainers, who stood rooted to the spot, reached him only in broken snatches, like stepping-stones scattered along a stream.",
+      "defect": "The draft makes the retainers stand rooted to the spot; the person standing motionless is Jin Wikyung. It also drops the enemy shouts that drown out the retainer’s voice.",
+      "id": "F01",
+      "rationale": "그 refers to Jin Wikyung, and the retainer’s cries are broken up because they are buried beneath the enemy’s shouts.",
+      "replacement": "His retainer’s cries to him as he stood rooted to the spot were drowned out by the enemy’s shouts, reaching him only in broken snatches, like stepping-stones across a stream.",
+      "severity": "critical",
+      "source": "못 박힌 듯 서 있던 그를 향한 가솔의 외침은 적들의 함성에 파묻혀 개울가의 징검다리처럼 뚝뚝 끊겨 있었다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“L-Lesser Family Head, hurry!”",
+      "defect": "The draft invents a title in speech that Jin Wikyung cannot properly hear.",
+      "id": "F02",
+      "rationale": "The source gives a clipped fragment of 어서 followed by 어서, not an address.",
+      "replacement": "“…urry, hurry!”",
+      "severity": "minor",
+      "source": "“……서, 어서!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Pain from the wounds left by thrusting spears and arrows coursing past him made the blood in his body burn hot.",
+      "defect": "“Thrusting spears and arrows coursing past him” obscures that the weapons grazed him and caused the wounds.",
+      "id": "F03",
+      "rationale": "스쳐 지나가며 만들어 낸 상처 identifies grazing blows as the cause of the wounds.",
+      "replacement": "Pain flared from the wounds where lances and arrows had grazed him, setting his blood ablaze.",
+      "severity": "minor",
+      "source": "돌격창과 화살이 스쳐 지나가며 만들어 낸 상처에서 비롯된 고통에, 전신의 피가 뜨겁게 달아올랐다."
+    },
+    {
+      "confidence": 0.86,
+      "current": "A chill of killing intent scattered through the air.",
+      "defect": "“Killing intent” substitutes intent for the sharp edge or aura emanating from the sword.",
+      "id": "F04",
+      "rationale": "예기 denotes sharpness here; the source does not state killing intent.",
+      "replacement": "A cold, sharp edge filled the air.",
+      "severity": "minor",
+      "source": "서늘하게 흩뿌려지는 예기(銳氣)."
+    },
+    {
+      "confidence": 0.97,
+      "current": "For a brief moment.\n\nThe hope that if he betrayed *ui* and turned away from *hyeop* just this once, everyone could survive.",
+      "defect": "The draft moves “brief” onto the moment of feeling hope rather than the proposed duration of his betrayal. The unexplained romanizations also hide what he considers betraying.",
+      "id": "F05",
+      "rationale": "잠시 동안만 qualifies how long he would betray 의 and turn away from 협; that temporary compromise is the temptation.",
+      "replacement": "Just for a little while.\n\nThe hope that if he betrayed righteousness and turned his back on chivalry for only a short time, everyone could survive.",
+      "severity": "major",
+      "source": "아주 잠시.\n\n잠시 동안만 의(義)를 배신하고, 협(俠)을 외면하면 모두가 살아남을 수 있다는 희망."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Jamukha’s smile grew faintly less certain as Jin Mukyung stepped toward him.",
+      "defect": "“Less certain” assigns an emotion to Jamukha’s fading smile that the source does not specify.",
+      "id": "F06",
+      "rationale": "The source describes the smile becoming fainter, without explaining Jamukha’s state of mind.",
+      "replacement": "Jamukha’s smile had faded a little as Jin Mukyung stepped toward him.",
+      "severity": "minor",
+      "source": "조금 전보다 흐릿해진 미소를 띤 자무카를 향해, 진무경은 발걸음을 뗐다."
+    }
+  ],
+  "summary": "One scene-fact reversal and several localized fidelity and clarity issues.",
+  "version": 1
+}
