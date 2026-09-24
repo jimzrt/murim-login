@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "*…Ah.*",
+      "defect": "“Ah” reads as an exclamation, not the audible ending of the name the father has spoken.",
+      "id": "F01",
+      "rationale": "The Korean leaves only the intimate vocative ending visible while withholding the name until the later reveal.",
+      "replacement": "*…a.*",
+      "severity": "major",
+      "source": "‘……아.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“That looks really hot.”",
+      "defect": "Changes Taekyung’s perception of heat into a visual judgment, weakening his next line about being able to feel it.",
+      "id": "F02",
+      "rationale": "He uses the heat he can feel as evidence that he has come to his senses.",
+      "replacement": "“Wow, that’s hot.”",
+      "severity": "major",
+      "source": "“엄청 뜨겁네요.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "A young child, who could whine like that without finding it the least bit strange.",
+      "defect": "Makes the child, rather than the observing narrator, the one who finds the whining unsurprising.",
+      "id": "F03",
+      "rationale": "The line describes how natural the child’s whining feels to Taekyung as he experiences the memory.",
+      "replacement": "A child so young that hearing myself whine didn’t feel strange at all.",
+      "severity": "minor",
+      "source": "칭얼거리는 것이 조금도 어색하게 느껴지지 않을 정도의 어린아이."
+    },
+    {
+      "confidence": 0.96,
+      "current": "A father’s voice speaking to his son. His name.",
+      "defect": "“His name” can refer to the father, obscuring that Taekyung heard the son’s name.",
+      "id": "F04",
+      "rationale": "The name revealed later is the name the father spoke to his son.",
+      "replacement": "A father’s voice speaking to his son. His son’s name.",
+      "severity": "minor",
+      "source": "아들을 향한 아버지의 음성을. 그 이름을."
+    },
+    {
+      "confidence": 0.89,
+      "current": "“…Captain!”",
+      "defect": "Drops the speaker’s clipped first attempt at the address.",
+      "id": "F05",
+      "rationale": "장님 is the end of 조장님; the repeated address conveys the speaker’s alarm.",
+      "replacement": "“…tain, Captain!”",
+      "severity": "minor",
+      "source": "“……장님, 조장님!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the Extreme Yang energy that flowed through me.",
+      "defect": "Uses generic “energy” for Murim qi.",
+      "id": "F06",
+      "rationale": "The source identifies the flowing 기운 as Extreme Yang; the binding terminology specifies qi for Murim 기운.",
+      "replacement": "the Extreme Yang qi flowing through me.",
+      "severity": "minor",
+      "source": "극양(極陽)의 기운"
+    }
+  ],
+  "summary": "The draft preserves the scene, but several cues are mistranslated or lost.",
+  "version": 1
+}
