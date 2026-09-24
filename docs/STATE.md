@@ -1,20 +1,22 @@
 # Translation State
 
-- Last completed: 984
-- Next chapter: 985
-- Current block: 980–984 (5/5)
-- Latest translation: `translations/0984.md`
-- Latest summary: `summaries/beats/0984.md`
-- Safe profiles through: chapter 984
+- Last completed: 985
+- Next chapter: 986
+- Current block: 985–989 (1/5)
+- Latest translation: `translations/0985.md`
+- Latest summary: `summaries/beats/0985.md`
+- Safe profiles through: chapter 985
 
 ## Current Block
 
-- News that the Murong Family joined Dark Heaven spreads across the Central Plains. An imperial proclamation brands Dark Heaven traitors, calls on martial artists to join the government in punishing them, and declares that war has begun. At Eight Spring Gorge, tens of thousands honor the fallen with chrysanthemums and cornelian berries; Jin Taekyung sees Jin Wikyung and Lee Seowol grieving their uncles as a mysterious chime rings out.
+- After the memorial at Eight Spring Gorge, the Jin Family returns to Taiyuan, where a Murim Alliance envoy arrives with a message for Jin Wikyung. Jin Taekyung leaves before hearing it, and the System announces that the Jin Family has joined the Five Great Families following the Murong Family’s fall. Taekyung gains a level, Fame, bonus stats, and the title of a feudal lord appointed by the Son of Heaven; martial artists have begun to speak of him as a possible new young king. Uneasy at Dark Heaven’s continued absence and recalling Murong Baek’s cryptic words about the failed plans, Taekyung is summoned by Jeok Cheongang to meet someone who wants to see him.
 
 ## Open Questions
 
-- Will the Murong survivors’ innocence be established, allowing the household to rebuild under Murong Su or another Family Head?
-- What is the source or significance of the chime that sounds at the chapter’s end?
+- What is the Alliance Leader’s message to Jin Wikyung?
+- Who wants to see Jin Taekyung?
+- Why did Murong Baek suggest that the Western, Southern, and Eastern Heaven Demon Lords’ plans failed, and what did he mean by implying the situation may have been predetermined or that he was used?
+- Why has Dark Heaven continued costly schemes without revealing its full strength?
 
 ## Exceptional Decision
 
