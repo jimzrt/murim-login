@@ -12,11 +12,11 @@ For me, that was a relief. Otherwise, I’d have had to endure the stares and wh
 
 “Now that you mention it, I did hear a whistle… But wasn’t that when he said he was going to take a leak?”
 
-“Maybe he didn’t go take a leak. Maybe he wanted to show everyone something else. People have all kinds of tastes, you know. Could be a Central Plains custom.”
+“Maybe he wanted to show everyone something else. People have all kinds of tastes, you know. Could be a Central Plains custom.”
 
 “Good heavens. I had no idea the Central Plains had such a barbaric custom.”
 
-“Barbaric as it gets. But separate from that, he does seem pretty impressive.”
+“Barbaric as it gets. But aside from that, it does sound impressive.”
 
 “What does?”
 
@@ -45,7 +45,7 @@ Please stop. And why did my Fame have to go up again?
 
 *My fucking life…*
 
-I did my best to ignore the whispers around me as I tipped back the last of my drink. Seeing me like that, the Beast Miao King laughed heartily and patted me on the shoulder.
+I tried to ignore the whispers as I drained what was left in my cup. The Beast Miao King laughed and patted me on the shoulder.
 
 “Don’t take it so hard. These things happen to a man.”
 
@@ -85,7 +85,7 @@ Besides, if the Beast Miao King found out, someone else might notice.
 
 I met Baeksang’s impassive gaze. The longer I looked at him, the less I could read in his eyes.
 
-He had spent the entire banquet sitting without lifting a finger to touch the food or alcohol. Now, after meeting my gaze, he smoothed his immaculate white robes, rose from his seat, and spoke.
+He had sat through the entire banquet without touching the food or drink. Now he straightened his spotless white robes, rose, and spoke.
 
 “Palace Lord, it is already late. Let us end the banquet here.”
 
@@ -93,7 +93,7 @@ He had spent the entire banquet sitting without lifting a finger to touch the fo
 
 The Beast Miao King nodded without hesitation. The Tribal Grand Council would continue tomorrow, after all.
 
-Of course, since everyone present was a Peak master who practiced martial arts, none of them would suffer from a hangover. Even so, drinking in an atmosphere like this was bound to dull the mind.
+Granted, everyone there was a Peak master, so a hangover was hardly a concern. But drinking too much in a lively atmosphere could still dull the mind.
 
 Drip. Drip.
 
@@ -101,7 +101,7 @@ The Beast Miao King expelled the alcohol through his fingertips. His face clear 
 
 *Not any of them, then. The appointed time is nearly here, and they’re disappointed the banquet’s ending.*
 
-After quickly checking the faces of those who looked disappointed, I spoke to the Beast Miao King.
+I quickly checked the faces of those who had spoken, then turned to the Beast Miao King.
 
 “Sir Yayul, I should head in too.”
 
@@ -113,13 +113,13 @@ Seriously?
 
 He took one look at my face, slapped his knee, and laughed. I sighed and left with Namho and the rest of the unorthodox faction underlings.
 
-By then, the night had deepened, and the time had entered Insi.[^1]
+Night had deepened. Insi[^1] was approaching.
 
 It was time to meet whoever had sent the missive.
 
 * * *
 
-“Are you sure you’ll be all right going alone? It could be a trap.”
+“Are you sure you should go alone? It could be a trap.”
 
 On the way to the quarters assigned to the Fire Dragon Pavilion, I reassured the worried-looking Namho.
 
@@ -129,7 +129,7 @@ On the way to the quarters assigned to the Fire Dragon Pavilion, I reassured the
 
 “Were you thinking of following me?”
 
-“I’ve lived a fairly long life, but I have no desire to die like a stray dog.”
+“I’ve lived a fairly long life, but I’d rather not throw it away.”
 
 “Then stay in the quarters with the other two deadweights.”
 
@@ -139,13 +139,13 @@ Taishan, as usual, gave it little thought. Sama Pyo was less pleased to be calle
 
 “…”
 
-“I can somehow survive, but you two can’t. Keep watch around the quarters until I return. And swing your swords at least one more time while you’re at it.”
+“I can survive this somehow. You lot can’t. Keep watch around the quarters until I’m back. Swing a sword a few more times while you’re at it.”
 
 We went inside together as though nothing were amiss. Fifteen minutes later, I slipped out unnoticed and disappeared into the darkness.
 
 *Around Insi. The West Gate, right?*
 
-I had no idea whether the contents of the missive tied to the arrow were a trap or an attempt to make contact in order to share information.
+I didn’t know whether the missive tied to the arrow was bait for a trap or an invitation to meet an informant. I’d have to go and find out.
 
 Whoosh, whoosh!
 
@@ -157,7 +157,7 @@ Fwoosh! Boom!
 
 The banquet in the Inner Palace was over, but the night’s festivities in the Outer Palace were still going strong. They would go on tomorrow and the day after, too.
 
-The ordinary tribespeople—neither the chieftains attending the Tribal Grand Council nor the warriors standing guard—were completely immersed in the festival atmosphere.
+The ordinary tribespeople—neither chieftains attending the council nor warriors standing guard—were caught up in the celebration.
 
 *So that’s why the meeting place is in the Outer Palace. It’s more crowded now than at any other time of year.*
 
@@ -177,7 +177,7 @@ There were too many people here, and plenty of guards besides. If I stood around
 
 I was looking around when someone called out.
 
-“Hey, tiger-mask fellow. If you’ve got nothing better to do, come have a bowl of somyeon before you go.”
+“Hey, you in the tiger mask. If you’ve got nothing to do, come have a bowl of somyeon.”
 
 I turned toward the voice and met the eyes of a middle-aged man at a nearby food stall. His face and eyes were unremarkable, and he was painfully thin. He grinned and raised the bowl in front of him.
 
@@ -185,7 +185,7 @@ I turned toward the voice and met the eyes of a middle-aged man at a nearby food
 
 “…Hm.”
 
-I wasn’t sure the broth was the only incredible thing here.
+The broth wasn’t the only incredible thing here.
 
 I studied him for the briefest moment, then nodded and sat beside him. At last, I sent a thread of Sound Transmission to the unexpected contact.
 
@@ -195,7 +195,7 @@ I studied him for the briefest moment, then nodded and sat beside him. At last, 
 
 Clatter!
 
-I picked up the chopsticks he had dropped and continued the Sound Transmission.
+His thin body flinched, then trembled. I picked up the chopsticks he had dropped and continued.
 
 —So what brings the Great Chieftain of the Yi people here?
 
@@ -257,7 +257,7 @@ Heugung made sure I had chopsticks as he answered.
 
 “If nothing else, the broth is excellent. He’s been running this stall almost as long as he’s been alive.”
 
-—I had information I absolutely needed to tell you.
+—I had information I had to tell you.
 
 “Oh, really? Then I’ll look forward to it.”
 
@@ -271,11 +271,11 @@ Did he have any idea that arrow was how I’d become the Naked Divine Dragon?
 
 I considered smacking him over the head, but generously restrained myself.
 
-—So, what is this information you absolutely had to tell me?
+—So what’s this information you had to tell me?
 
 Heugung stared at the bowl steaming in front of him. His lips moved with difficulty.
 
-—Great Chieftain Baeksang… has colluded with Dark Heaven.
+—Great Chieftain Baeksang… has joined forces with Dark Heaven.
 
 “…!”
 

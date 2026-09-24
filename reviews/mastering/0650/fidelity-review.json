@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "that magnificent spare tire you could have made a pilgrimage around?",
+      "defect": "The English changes the image by making the pilgrimage go around Heugung’s belly. The Korean jokes that his belly was so large it seemed like a place one could make a pilgrimage to.",
+      "id": "F01",
+      "rationale": "The source’s comparison makes the belly itself seem like a pilgrimage destination; “around” adds a different spatial image.",
+      "replacement": "And that magnificent belly that looked like a pilgrimage site? Gone without a trace.",
+      "severity": "minor",
+      "source": "Korean line 255"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Even Great Chieftain Baeksang couldn’t get the better of you.",
+      "defect": "This shifts from Baeksang suffering a setback at the narrator’s hands to Baeksang being unable to defeat him, which is more specific than the source establishes.",
+      "id": "F02",
+      "rationale": "낭패를 면하지 못했네 describes failing to avoid a setback or embarrassment; it does not necessarily mean failing to defeat someone.",
+      "replacement": "Even Great Chieftain Baeksang suffered a setback at your hands.",
+      "severity": "minor",
+      "source": "Korean line 309"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with two minor shifts in the joke image and the description of Baeksang’s setback.",
+  "version": 1
+}
