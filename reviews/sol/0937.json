@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "And no sane person, no matter how rich, would invest it in a weapon.",
+      "defect": "Reverses where a sane person would use the rare metal.",
+      "id": "F01",
+      "rationale": "The source says a sensible person would put the metal toward making a weapon, rather than a mere storage chest.",
+      "replacement": "And no matter how rich you were, any sane person would use it to forge a weapon.",
+      "severity": "critical",
+      "source": "아무리 돈이 많아도 정상인이라면 무기를 만드는 데 투자하는 물건."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Oh, His Highness the Crown Prince asked me to tell you this.",
+      "defect": "Crown Prince implies the emperor’s son; 황태제 identifies his younger brother as heir.",
+      "id": "F02",
+      "rationale": "The title preserves both the familial relationship and the succession status expressed by 황태제.",
+      "replacement": "Oh, His Highness the Emperor’s Brother and Heir asked me to tell you this.",
+      "severity": "major",
+      "source": "아, 황태제 전하께서 이 말을 전해 달래."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> **[Very Sturdy Iron Chest] acquired.**\n>\n> **New Item acquired. Would you like to appraise the Item and view its information?**",
+      "defect": "The notices retain source-style square brackets and bold entire messages, contrary to the specified System-panel format.",
+      "id": "F03",
+      "rationale": "The System heading and blockquote already frame the notices; neither brackets nor whole-notice bolding is needed.",
+      "replacement": "> **System**\n>\n> Very Sturdy Iron Chest acquired.\n>\n> New Item acquired. Would you like to appraise the Item and view its information?",
+      "severity": "minor",
+      "source": "- [매우 단단한 철궤]를 습득하셨습니다.\n\n- 새로운 아이템을 습득하셨습니다. 아이템을 감정하여 정보를 확인하시겠습니까?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **[Very Sturdy Iron Chest]**",
+      "defect": "The item name retains square brackets inside a System window.",
+      "id": "F04",
+      "rationale": "The binding Markdown rule excludes square-bracket framing from System UI terms.",
+      "replacement": "> **Very Sturdy Iron Chest**",
+      "severity": "minor",
+      "source": "[매우 단단한 철궤]"
+    },
+    {
+      "confidence": 0.91,
+      "current": "His sly trap snapped me out of my daze.",
+      "defect": "Calling it Hong Jin’s sly trap makes the awkward exchange sound deliberately engineered and drops the narrator’s realization that his own question backfired.",
+      "id": "F05",
+      "rationale": "The Tallulah-trap reference describes the speaker stumbling into an insensitive remark and recognizing it too late.",
+      "replacement": "Realizing how badly my question had backfired snapped me to my senses.",
+      "severity": "minor",
+      "source": "그리고 탈룰라의 덫에 걸려 정신이 번쩍 든 나는"
+    }
+  ],
+  "summary": "One sentence reverses the logic of the chest’s value; the draft also misidentifies a royal title and departs from the required System-panel format.",
+  "version": 1
+}

@@ -1,6 +1,6 @@
 # Taishan (태산)
 
-- **Safe through:** Chapter 932
+- **Safe through:** Chapter 937
 - **Aliases:** Tiger Giant Child
 - **Role:** Taishan is a giant subordinate of Sama Pyo in the Black Dragon Demon Gate and a member of the Fire Dragon Pavilion.
 - **Personality:** Childlike, obedient, food-obsessed, and dim-witted, with intense wariness toward strangers and absolute trust in Sama Pyo; becomes explosively violent when his meat is threatened.

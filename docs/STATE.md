@@ -1,22 +1,22 @@
 # Translation State
 
-- Last completed: 936
-- Next chapter: 937
-- Current block: 935–939 (2/5)
-- Latest translation: `translations/0936.md`
-- Latest summary: `summaries/beats/0936.md`
-- Safe profiles through: chapter 936
+- Last completed: 937
+- Next chapter: 938
+- Current block: 935–939 (3/5)
+- Latest translation: `translations/0937.md`
+- Latest summary: `summaries/beats/0937.md`
+- Safe profiles through: chapter 937
 
 ## Current Block
 
-- The Divine Physician estimates that the Emperor may not survive another two months, and says even his Master could not change the situation. Jin Taekyung expects the Myriad-Poison Ring to cure the Blood Soul Gu, but learns that it failed: the gu resisted the ring’s energy and thrashed more violently. The System issues a quest requiring Taekyung to remove the Blood Soul Gu from the Emperor’s head and successfully treat him. Unable to reveal the Emperor’s identity, Taekyung confides the situation to Hyuk Mujin, who mistakenly thinks Taekyung was rejected by Zhu Bao before realizing he has no solution. Hong Jin arrives after quickly handling an important matter.
+- Hong Jin visits Taekyung and mistakes his distress for concern about the incident that occurred after he woke; he says the story is already widespread in the Inner Palace and that Taishan told him. After teasing Taekyung, Hong Jin delivers the iron chest the Eastern Heaven Demon Lord had asked Taekyung to find, confirming he kept his promise not to open it. The chest contains about a dozen decaying bamboo slips, a bundle of recent papers, and a small silk pouch. Taekyung cuts the five locks with White Flame and opens the papers; their contents shock him, and he orders Hyuk Mujin to bring everyone.
 
 ## Open Questions
 
 - What is the Martial God’s identity, and how did he know a chosen one would appear?
 - How far has Dark Heaven infiltrated the Great Nation, and which officials or commanders are involved?
 - Where is Ma Sanbao, and what is his current status?
-- What object and place did the Eastern Heaven Demon Lord refer to, and what significance does the object have?
+- What do the papers, bamboo slips, and silk pouch from the Eastern Heaven Demon Lord’s chest contain, and what is their significance?
 - What is the significance, if any, of the broken pocket watch given as the System update reward?
 
 ## Exceptional Decision
