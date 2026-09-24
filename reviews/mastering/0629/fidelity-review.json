@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "This really is different from the Central Plains.",
+      "defect": "The Korean repeats “different” for emphasis; the assembled English drops that reinforcement.",
+      "id": "F01",
+      "rationale": "“다르네. 달라.” repeats the observation to make it emphatic, a small beat preserved in the accepted baseline.",
+      "replacement": "This really is different from the Central Plains. Completely different.",
+      "severity": "minor",
+      "source": "Line 77"
+    },
+    {
+      "confidence": 0.97,
+      "current": "as people hurriedly stepped aside",
+      "defect": "This softens the specific physical action: people are backing away, not merely stepping aside.",
+      "id": "F02",
+      "rationale": "“뒷걸음질 치는” explicitly describes people retreating backward as the procession appears.",
+      "replacement": "as people hurriedly backed away",
+      "severity": "minor",
+      "source": "Line 247"
+    }
+  ],
+  "summary": "The translation is faithful overall, with two minor losses of emphasis or physical detail.",
+  "version": 1
+}

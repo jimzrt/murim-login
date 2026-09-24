@@ -10,7 +10,7 @@ Somehow, I found myself in the Nanman Beast Palace’s Outer Hall.
 
 I muttered to myself and looked around.
 
-Perhaps because it was hidden among the thick, overgrown grass, I couldn’t see a single rat anywhere…
+Hidden among the thick grass, I couldn’t see a single living soul…
 
 Well, not quite. Two or three monkeys were milling around—Nanman’s mascots, much like Gukkeoni was for the Ministry of National Defense.
 
@@ -68,29 +68,29 @@ I turned my head without drawing attention and looked around the Outer Hall.
 
 Even on a second look, the Nanman Beast Palace was a distinctive place. It was less like a sect than a small city, with all kinds of peoples living together.
 
-Compared to the Central Plains, where the Han Chinese made up the majority, Nanman was practically a melting pot of races.
+Compared to the predominantly Han Chinese Central Plains, Nanman was practically a melting pot.
 
-A Miao woman draped in colorful jewelry strode through the market, enjoying the attention of the people around her, while a Bai merchant in white traditional clothing tried to conduct a trade with a monkey perched on his shoulder.
+A Miao woman draped in colorful jewelry strode through the market, enjoying the attention she drew. A Bai merchant in traditional white clothing tried to make a sale with a monkey perched on his shoulder.
 
 And an old man was limping straight toward me.
 
-*No, sir. Why are you coming this way?*
+*Sir. Why are you coming this way?*
 
-“Excuse me. I’m trying to buy some cloth at the market. Which shop would you recommend? If I were ten years younger, I could have found it with my eyes closed, but perhaps it’s because I’m old that I can’t remember anything these days.”
+“Excuse me. I’m looking to buy some cloth in the market. Which shop would you recommend? Ten years ago, I could’ve found one with my eyes closed, but these days I can’t seem to remember a thing. Must be my age.”
 
 “Uh…”
 
 Had I blended in too well? I hadn’t expected this.
 
-The non-Han old man had blocked my path with his cane and asked me the question. I hesitated for a moment, then answered as shamelessly as possible.
+The old man planted his cane in front of me, blocking my way. I faltered for a moment, then answered as if I knew exactly what I was talking about.
 
 “Go straight ahead, then take the alley on the right.”
 
-“The alley on the right? Was there a cloth shop there?”
+“The alley on the right? There’s a cloth shop there?”
 
 *How would I know, sir?*
 
-But contrary to my thoughts, I nodded.
+But I nodded.
 
 “Yes. Plenty of them. More than the hairs on your head. They’re springing up everywhere.”
 
@@ -106,7 +106,7 @@ Hesitating now would make him suspicious, so I blurted out the first name that c
 
 I’d underestimated how well a local knew his own market.
 
-It was clearly an unreasonable answer, but in situations like this, the shameless person won. With an expression utterly free of shame, I spoke firmly.
+It was a stretch, but the shameless guy won in situations like this. I looked him squarely in the eye, without a trace of guilt.
 
 “It’s been there for over ten years.”
 
@@ -134,7 +134,7 @@ Defeated by sheer force of confidence, the old man turned to leave. I suddenly r
 
 “Hmm? What is it?”
 
-“Where is the place with the biggest crowd right now? I was supposed to meet someone, but that bastard isn’t showing up anywhere, so I’m going to look for him myself.”
+“Where’s the biggest crowd right now? I was supposed to meet someone, but that bastard’s nowhere to be seen. I thought I’d look for him myself.”
 
 “Try over there.” He pointed with his cane. “I caught a glimpse of it on my way here. No idea what’s going on, but it was awfully noisy. Probably something to do with the festival in a few days.”
 
@@ -146,9 +146,9 @@ Then he paused and studied my face with his cloudy eyes.
 
 “You don’t look Yao, like me. Yet you speak our language so well. How strange…”
 
-“Oh, I can see it over there. Please be careful on your way.”
+“Oh, there he is. Take care, sir.”
 
-“Hey. Wait.”
+“Wait. Young man.”
 
 I left the old man behind and walked away quickly.
 
@@ -156,7 +156,7 @@ No matter how naturally I blended in, anyone who had enough time to study my fac
 
 Fortunately, there was a solution.
 
-Fortunately, my hands were very fast. And as luck would have it, the market was packed with non-Han people, while the merchant selling traditional animal masks was too busy dealing with customers pouring in from every direction to pay attention to anything else.
+My hands were fast, the market was packed, and the merchant selling traditional animal masks had his hands full with customers pressing in from every direction.
 
 In short, slipping one mask away was no trouble at all.
 
@@ -182,15 +182,15 @@ I headed in the direction he’d pointed and listened to the voices around me.
 
 “Really? I heard they went to subdue man-eating beasts about fifteen days ago.”
 
-“They mobilized around five hundred warriors, so they must have finished quickly. Unlike the Yao people, it seems the great chieftain of the Yi people didn’t achieve any noteworthy results, though.”
+“They took around five hundred warriors. Of course they finished quickly. Though it sounds like the Yi great chieftain didn’t accomplish much, unlike the Yao great chieftain.”
 
 “Just what I expected. Not that I expected much.”
 
-I didn’t miss the familiar information exchanged in their conversation.
+I caught the familiar names in their conversation.
 
 *The Yi and Yao peoples.*
 
-Together with the Miao and Bai peoples—led respectively by the Beast Miao King, lord of the Nanman Beast Palace, and Baeksang, whom I had briefly encountered earlier—the Yi and Yao peoples made up Nanman’s four most powerful tribes.
+Along with the Miao people, led by the Beast Miao King, and the Bai people, led by Baeksang, whom I’d briefly met, they made up Nanman’s four most powerful tribes.
 
 I remembered what Namho had told me on our way to the Nanman Beast Palace.
 
@@ -210,11 +210,11 @@ I remembered what Namho had told me on our way to the Nanman Beast Palace.
 
 My thoughts broke off. Not because I chose to stop thinking, but because a clear note from a distant instrument reached my ears.
 
-*Fwoooosh.*
+*Shhhhh.*
 
 A gentle melody rode Nanman’s hot, humid wind across the open space.
 
-The noisy market fell silent in an instant, and a short exclamation escaped someone’s lips.
+The noisy market fell silent at once. Someone let out a soft gasp.
 
 “Ah…”
 
@@ -236,7 +236,7 @@ But while everyone else admired their beauty and finery, I watched the weapons s
 
 *Every one of them is a warrior.*
 
-A warrior of Nanman was equivalent to a Murim practitioner in the Central Plains. Since these people belonged to their respective tribes, it would be more accurate to call them members of a martial sect.
+In the Central Plains, Nanman’s warriors would be Murim practitioners. Since each belonged to a tribe, I supposed they were more like members of a martial sect.
 
 *And if the Yi and Yao great chieftains are back from subduing those beasts…*
 
@@ -252,7 +252,7 @@ Cries rang out almost as soon as the thought occurred to me. Gazes and voices tu
 
 “Waaaaah!”
 
-Amid the roar that seemed capable of shaking all of Nanman beyond the Outer Hall, two people finally appeared at the center of the procession and waved their hands.
+The roar seemed loud enough to shake all of Nanman. At the center of the procession, two people finally came into view and waved to the crowd.
 
 A man riding an enormous black bear—presumably the Yi great chieftain. And…
 

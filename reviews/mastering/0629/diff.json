@@ -1,0 +1,2572 @@
+{
+  "baseline_blocks": 152,
+  "baseline_sha256": "c0ea3bf8618344fae7ae9e18d3de93185ab7272d68f2b316fbb4cd139b42216a",
+  "global_terminology_alerts": [
+    {
+      "korean": "이족",
+      "preferred": "Yi people"
+    }
+  ],
+  "hunk_count": 132,
+  "hunks": [
+    {
+      "baseline": "After parting ways with Yayul Mok, I turned my steps toward the temporary lodging where the Fire Dragon Pavilion members were waiting.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "After parting ways with Yayul Mok, I headed back toward the temporary lodging where the Fire Dragon Pavilion members were waiting.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if my martial prowess meant there was no danger of anyone trying to harm me, there was nothing to be gained from wandering around alone in an atmosphere like this.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "With my martial prowess, I wasn’t in danger of anyone trying to harm me. Still, wandering around alone in this atmosphere wouldn’t do me any good.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And as I walked, I somehow found myself in the Outer Hall of the Nanman Beast Palace.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "Somehow, I found myself in the Nanman Beast Palace’s Outer Hall.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Good grief. When did I get here?”",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "11",
+      "sol": "“Huh. When did I get here?”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Muttering to myself, I looked around.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "13",
+      "sol": "I muttered to myself and looked around.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps because it was hidden among the thick, overgrown grass, I couldn’t see a single rat anywhere…",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "15",
+      "sol": "Hidden among the thick grass, I couldn’t see a single living soul…",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Well, that wasn’t quite true.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "17",
+      "sol": "",
+      "sol_paragraphs": "after P7",
+      "sol_range": [
+        7,
+        7
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Two or three monkeys—mascots of Nanman much like Gukkeoni is for the Ministry of National Defense—were milling around.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "19",
+      "sol": "Well, not quite. Two or three monkeys were milling around—Nanman’s mascots, much like Gukkeoni was for the Ministry of National Defense.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Why has that Han Chinese bastard crawled all the way out here instead of quietly hiding in his lodging?*",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "23",
+      "sol": "*Why’s that Han Chinese bastard crawling around out here instead of staying put in his lodging?*",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The monkey’s curious eyes seemed to be asking that, but I had nothing to be ashamed of before the heavens.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "25",
+      "sol": "That seemed to be the question in the monkey’s curious eyes. But I had nothing to be ashamed of before the heavens.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What do you want me to do? I got lost.*",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "27",
+      "sol": "*I got lost. What do you want me to do about it?*",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, following the teachings I had received from the greatest assassin of all time, who wore the guise of the Divine Physician, I had concealed my breathing and moved stealthily so that no one else would notice me.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "29",
+      "sol": "Of course, I’d followed the advice of the greatest assassin of all time disguised as the Divine Physician: conceal my breathing and move stealthily so no one would spot me.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But one thing was certain.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "31",
+      "sol": "But one thing was certain. I was lost.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had gotten lost.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "33",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The temporary lodging was less than fifteen minutes away, and there were only two possible roads, but that was beside the point. If I had gotten lost, then I had gotten lost.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "35",
+      "sol": "The lodging was less than fifteen minutes away, and there were only two roads, but that was beside the point. If I said I was lost, I was lost.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*Still, I came here representing the Murim Alliance. I should at least be able to figure this out on my own.*",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "37",
+      "sol": "*Still, I’m here representing the Murim Alliance. I should be able to figure out this much on my own.*",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A fellow recruit had said something like that back when we were at the Hunter training center.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "39",
+      "sol": "",
+      "sol_paragraphs": "after P16",
+      "sol_range": [
+        16,
+        16
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "헌터",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Hunter"
+        }
+      ]
+    },
+    {
+      "baseline": "*A perfect lie is a true story.*",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "41",
+      "sol": "Back at the Hunter training center, a fellow recruit had once said that a perfect lie was a true story.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the end, all that mattered was not getting caught. Of course, given the circumstances, I still had to make an effort not to get caught.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "43",
+      "sol": "In the end, all that mattered was not getting caught. Though in this atmosphere, I did need to make an effort to avoid it.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After steadying my breathing, I slipped out of the grass and blended into the people gathered nearby.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "49",
+      "sol": "I steadied my breathing, slipped out of the grass, and blended into the people gathered nearby.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I erased my presence and reined in my aura. At the same time, I bent forward slightly to lower my height and melted into the crowd.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "51",
+      "sol": "I suppressed my presence, reined in my aura, and bent slightly at the waist to make myself look shorter. Just as Mungyeong had taught me.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Exactly as Mungyeong had once taught me.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "53",
+      "sol": "",
+      "sol_paragraphs": "after P21",
+      "sol_range": [
+        21,
+        21
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "문경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mungyeong"
+        }
+      ]
+    },
+    {
+      "baseline": "*Do you know who the most frightening assassin in this world is?*",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "55",
+      "sol": "*Do you know who the most frightening assassin in the world is?*",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I do. The person standing right in front of me.*",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "59",
+      "sol": "*Sure. The person standing right in front of me.*",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’m sorry. I’m sorry. I’ve committed a crime worthy of death. Please put away the dagger in your sleeve and teach this foolish disciple.*",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "65",
+      "sol": "*I’m sorry. I’m so sorry. I’ve committed a crime worthy of death. Please put the dagger in your sleeve away and teach this fool.*",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Mungyeong had glared at me with an expression that seemed to ask whether he should kill me or not, then answered.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "67",
+      "sol": "Mungyeong had glared at me as though deciding whether to kill me, then answered.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Someone more ordinary than anyone else, someone who blends naturally into any place. That is the most frightening assassin.*",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "75",
+      "sol": "*Someone more ordinary than anyone else, who blends naturally into any place. That is the most frightening assassin.*",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What Mungyeong had taught me back then didn’t apply only to assassins.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "77",
+      "sol": "What Mungyeong taught me that day wasn’t useful only to assassins.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had mentioned it in passing, saying it was nothing more than a simple miscellaneous skill that couldn’t even be called martial arts. But I hadn’t forgotten his teaching, and I had found plenty of opportunities to put it to good use.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "79",
+      "sol": "He’d mentioned it in passing, calling it a simple trick that couldn’t even be considered martial arts. But I hadn’t forgotten it, and it had come in handy more than once.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*This really is different from the Central Plains. Completely different.*",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "83",
+      "sol": "*This really is different from the Central Plains.*",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I turned my head as naturally as possible and surveyed the various parts of the Outer Hall.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "85",
+      "sol": "I turned my head without drawing attention and looked around the Outer Hall.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Nanman Beast Palace was a truly distinctive place, even after seeing it again.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "87",
+      "sol": "",
+      "sol_paragraphs": "after P34",
+      "sol_range": [
+        34,
+        34
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남만야수궁",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman Beast Palace"
+        },
+        {
+          "korean": "남만",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman"
+        }
+      ]
+    },
+    {
+      "baseline": "It was less like a sect than a small city, and all kinds of different peoples lived together within that city.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "89",
+      "sol": "Even on a second look, the Nanman Beast Palace was a distinctive place. It was less like a sect than a small city, with all kinds of peoples living together.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Compared to the Central Plains, where the Han Chinese made up the majority, Nanman was practically a melting pot of races.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "91",
+      "sol": "Compared to the predominantly Han Chinese Central Plains, Nanman was practically a melting pot.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A Miao woman draped in colorful jewelry strode through the market, enjoying the attention of the people around her, while a Bai merchant in white traditional clothing tried to conduct a trade with a monkey perched on his shoulder.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "93",
+      "sol": "A Miao woman draped in colorful jewelry strode through the market, enjoying the attention she drew. A Bai merchant in traditional white clothing tried to make a sale with a monkey perched on his shoulder.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then there was an old man limping straight toward me.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "95",
+      "sol": "And an old man was limping straight toward me.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*No, sir. Why are you coming this way?*",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "97",
+      "sol": "*Sir. Why are you coming this way?*",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Excuse me. I’m trying to buy some cloth at the market. Which shop would you recommend? If I were ten years younger, I could have found it with my eyes closed, but perhaps it’s because I’m old that I can’t remember anything these days.”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "99",
+      "sol": "“Excuse me. I’m looking to buy some cloth in the market. Which shop would you recommend? Ten years ago, I could’ve found one with my eyes closed, but these days I can’t seem to remember a thing. Must be my age.”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Had I blended in too naturally? I hadn’t expected this.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "103",
+      "sol": "Had I blended in too well? I hadn’t expected this.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The non-Han old man had blocked my path with his cane and asked me the question. I hesitated for a moment, then answered as shamelessly as possible.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "105",
+      "sol": "The old man planted his cane in front of me, blocking my way. I faltered for a moment, then answered as if I knew exactly what I was talking about.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Go straight ahead, then turn into the alley on the right.”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "107",
+      "sol": "“Go straight ahead, then take the alley on the right.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The alley on the right? Was there a cloth shop there?”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "109",
+      "sol": "“The alley on the right? There’s a cloth shop there?”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I have no idea either, sir.*",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "111",
+      "sol": "*How would I know, sir?*",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But contrary to my thoughts, I nodded.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "113",
+      "sol": "But I nodded.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. There are plenty. More than the hairs on your head. They’re springing up everywhere.”",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "115",
+      "sol": "“Yes. Plenty of them. More than the hairs on your head. They’re springing up everywhere.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Really? What’s the name of the shop?”",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "117",
+      "sol": "“Really? What’s one of them called?”",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Why do you need me to tell you the name, too?*",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "119",
+      "sol": "*Why do you need the name, too?*",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But if I hesitated now, he would become suspicious. I blurted out the first shop name that came to mind.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "121",
+      "sol": "Hesitating now would make him suspicious, so I blurted out the first name that came to mind.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hyuk Family Cloth Shop. Their quality is pretty good.”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "123",
+      "sol": "“Hyuk Family Cloth Shop. Their cloth is pretty good.”",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hyuk Family Cloth Shop? I don’t think I’ve heard of it before…”",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "125",
+      "sol": "“Hyuk Family Cloth Shop? I don’t think I’ve heard of it…”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had underestimated the old man’s local experience.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "127",
+      "sol": "I’d underestimated how well a local knew his own market.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was clearly an unreasonable answer, but in situations like this, the shameless person won. With an expression utterly free of shame, I spoke firmly.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "129",
+      "sol": "It was a stretch, but the shameless guy won in situations like this. I looked him squarely in the eye, without a trace of guilt.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s been around for more than ten years.”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "131",
+      "sol": "“It’s been there for over ten years.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Really? How strange. As far as I remember, it was definitely…”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "133",
+      "sol": "“Really? That’s strange. I could’ve sworn…”",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Isn’t that why you asked me? Because your memory is getting hazy?”",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "135",
+      "sol": "“Isn’t your memory getting hazy? That’s why you asked me, right?”",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s true, but…”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "137",
+      "sol": "“Well, yes, but…”",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Sir, if you don’t mind my asking, how old are you this year?”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "139",
+      "sol": "“Sir, if you don’t mind my asking, how old are you?”",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Me? I’m eighty-two.”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "141",
+      "sol": "“Me? Eighty-two.”",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m twenty-two. I still vividly remember moving from my father’s side to my mother’s side.”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "143",
+      "sol": "“I’m twenty-two. I can still vividly remember moving from my father’s side to my mother’s.”",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You remember that…?”",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "145",
+      "sol": "“You remember *that*?”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m only twenty-two, so I remember everything. So please trust me.”",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "147",
+      "sol": "“I’m only twenty-two, so I remember everything. Trust me.”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, all right. In any case, thank you.”",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "149",
+      "sol": "“Ah. All right, then. Thank you.”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The old man, defeated in the battle of sheer confidence, was about to leave when I suddenly remembered something and hurriedly opened my mouth.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "151",
+      "sol": "Defeated by sheer force of confidence, the old man turned to leave. I suddenly remembered something and called after him.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Excuse me. Sir?”",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "153",
+      "sol": "“Sir?”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes? What is it?”",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "155",
+      "sol": "“Hmm? What is it?”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Where is the place with the biggest crowd right now? I was supposed to meet someone, but that bastard isn’t showing up anywhere, so I’m going to look for him myself.”",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "157",
+      "sol": "“Where’s the biggest crowd right now? I was supposed to meet someone, but that bastard’s nowhere to be seen. I thought I’d look for him myself.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“If that’s the case, go over there. I caught a glimpse of it on my way here, and I don’t know what exactly was happening, but it was terribly noisy. Perhaps it’s because of the festival that will be held in a few days.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "159",
+      "sol": "“Try over there.” He pointed with his cane. “I caught a glimpse of it on my way here. No idea what’s going on, but it was awfully noisy. Probably something to do with the festival in a few days.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just then, the old man, who had pointed in a direction with his cane, seemed to pause. Then he stared closely at my face with his cloudy eyes.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "161",
+      "sol": "Then he paused and studied my face with his cloudy eyes.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Judging by your appearance, you don’t seem to be from the Yao people like me. It’s quite strange that you speak our language so fluently…”",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "167",
+      "sol": "“You don’t look Yao, like me. Yet you speak our language so well. How strange…”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "“Oh, I can see it over there. Please be careful on your way.”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "169",
+      "sol": "“Oh, there he is. Take care, sir.”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hey. Wait.”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "171",
+      "sol": "“Wait. Young man.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I left the non-Han old man behind and hurried away.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "173",
+      "sol": "I left the old man behind and walked away quickly.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how naturally I blended in, if I gave someone enough time to study my face, they were bound to notice something.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "175",
+      "sol": "No matter how naturally I blended in, anyone who had enough time to study my face would notice. The differences between the Han Chinese and Nanman’s other peoples weren’t so pronounced that I’d stand out at a glance, but they were there.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The difference wasn’t large enough to make me stand out immediately, but there were still certain distinctions between the appearances of Nanman’s non-Han peoples and the Han Chinese.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "177",
+      "sol": "",
+      "sol_paragraphs": "after P78",
+      "sol_range": [
+        78,
+        78
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "한족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Han Chinese"
+        },
+        {
+          "korean": "남만",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman"
+        }
+      ]
+    },
+    {
+      "baseline": "But that didn’t mean there was no solution.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "179",
+      "sol": "Fortunately, there was a solution.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fortunately, my hands were very fast. And as luck would have it, the market was packed with non-Han people, while the merchant selling traditional animal masks was too busy dealing with customers pouring in from every direction to pay attention to anything else.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "181",
+      "sol": "My hands were fast, the market was packed, and the merchant selling traditional animal masks had his hands full with customers pressing in from every direction.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "To put it simply, there was no problem with slipping a mask into my possession.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "185",
+      "sol": "In short, slipping one mask away was no trouble at all.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What was faster than the eye wasn’t the hand.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "195",
+      "sol": "The hand wasn’t faster than the eye. The System was.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was the System.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "197",
+      "sol": "",
+      "sol_paragraphs": "after P85",
+      "sol_range": [
+        85,
+        85
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "시스템",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "System"
+        }
+      ]
+    },
+    {
+      "baseline": "After putting the mask into my inventory and naturally passing two or three people, a tiger mask painted with crude dye had been placed over my face.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "199",
+      "sol": "I put the mask in my Inventory. By the time I’d passed a couple of people, the tiger mask, painted with crude dye, was on my face.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*This should be enough. I won’t stand out much in this neighborhood.*",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "201",
+      "sol": "*This should do. It won’t stand out around here.*",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Was it because of the festival the old man had mentioned? If there were ten people in sight, two or three of them were wearing masks similar to mine.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "203",
+      "sol": "Maybe it was because of the festival the old man had mentioned. Two or three out of every ten people I saw were wearing similar masks.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I walked in the direction the old man had shown me, listening to the voices drifting over from various places.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "205",
+      "sol": "I headed in the direction he’d pointed and listened to the voices around me.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Have you heard the news? The great chieftains of the Yi and Yao peoples have returned.”",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "207",
+      "sol": "“Did you hear? The great chieftains of the Yi and Yao peoples are back.”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Really? I thought they left about fifteen days ago to subdue the man-eating beasts.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "209",
+      "sol": "“Really? I heard they went to subdue man-eating beasts about fifteen days ago.”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They mobilized around five hundred warriors, so they must have finished quickly. Unlike the Yao people, it seems the great chieftain of the Yi people didn’t achieve any noteworthy results, though.”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "211",
+      "sol": "“They took around five hundred warriors. Of course they finished quickly. Though it sounds like the Yi great chieftain didn’t accomplish much, unlike the Yao great chieftain.”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "이족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yi people"
+        },
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "“It’s exactly what I expected. Not that I was expecting much.”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "213",
+      "sol": "“Just what I expected. Not that I expected much.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I didn’t miss the familiar information exchanged in their conversation.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "217",
+      "sol": "I caught the familiar names in their conversation.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The Yi people. And the Yao people.*",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "219",
+      "sol": "*The Yi and Yao peoples.*",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "이족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yi people"
+        }
+      ]
+    },
+    {
+      "baseline": "Together with the Miao and Bai peoples—led respectively by the Beast Miao King, lord of the Nanman Beast Palace, and Baeksang, whom I had briefly encountered earlier—the Yi and Yao peoples made up Nanman’s four most powerful tribes.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "221",
+      "sol": "Along with the Miao people, led by the Beast Miao King, and the Bai people, led by Baeksang, whom I’d briefly met, they made up Nanman’s four most powerful tribes.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남만야수궁",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman Beast Palace"
+        },
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "I recalled the information Namho had told me on the way to the Nanman Beast Palace.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "223",
+      "sol": "I remembered what Namho had told me on our way to the Nanman Beast Palace.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The four great tribes of Nanman are the Miao, Bai, Yi, and Yao peoples. The Miao people are the strongest, followed by the Bai people.*",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "225",
+      "sol": "*Nanman’s four great tribes are the Miao, Bai, Yi, and Yao peoples. The Miao are the strongest, followed by the Bai.*",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "묘족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Miao people"
+        },
+        {
+          "korean": "백족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Bai people"
+        }
+      ]
+    },
+    {
+      "baseline": "*Then what about the Yi and Yao peoples?*",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "227",
+      "sol": "*What about the Yi and Yao?*",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "*If you were talking about twenty or thirty years ago, the Yi people would have been ahead.*",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "229",
+      "sol": "*Twenty or thirty years ago, the Yi would have been ahead.*",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "이족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yi people"
+        }
+      ]
+    },
+    {
+      "baseline": "*That sounds like you’re saying they aren’t anymore.*",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "233",
+      "sol": "*Sounds like they aren’t anymore.*",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That much time has passed. People say the great chieftain of the Yi people, who inherited his position from his late father, isn’t very strong-willed. The Yao people, on the other hand, have grown considerably. They gained an outstanding leader. No man could have accomplished as much, no matter whom they put in that position.*",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "235",
+      "sol": "*Times have changed. Many say the Yi great chieftain, who inherited the position from his late father, lacks resolve. The Yao, on the other hand, have grown considerably. They gained an exceptional leader. I doubt any man they put in her place could have done as much.*",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "이족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yi people"
+        },
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "*Could it be…?*",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "237",
+      "sol": "*Wait. Are you saying…?*",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Your guess is correct. The great chieftain of the Yao people is a woman. Extremely intelligent, and extraordinarily beautiful.*",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "239",
+      "sol": "*You’ve guessed right. The Yao great chieftain is a woman. Extremely intelligent, and extraordinarily beautiful.*",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "At that moment, the thoughts continuing in my head abruptly came to a stop.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "241",
+      "sol": "",
+      "sol_paragraphs": "after P104",
+      "sol_range": [
+        104,
+        104
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Not by my own choice, but because of an outside force.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "243",
+      "sol": "",
+      "sol_paragraphs": "after P104",
+      "sol_range": [
+        104,
+        104
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The thing that interrupted my thoughts was the clear sound of a musical instrument reaching me faintly from far away.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "245",
+      "sol": "My thoughts broke off. Not because I chose to stop thinking, but because a clear note from a distant instrument reached my ears.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Fwoooosh.*",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "247",
+      "sol": "*Shhhhh.*",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A gentle melody carried on Nanman’s hot, humid wind crossed the wide space and reached my ears.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "249",
+      "sol": "A gentle melody rode Nanman’s hot, humid wind across the open space.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The noisy market fell silent in an instant, and a short exclamation escaped someone’s lips.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "251",
+      "sol": "The noisy market fell silent at once. Someone let out a soft gasp.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That exclamation was impossible to suppress—truly involuntary.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "255",
+      "sol": "",
+      "sol_paragraphs": "after P109",
+      "sol_range": [
+        109,
+        109
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The melody reaching my ears was that pure, and the procession that emerged as people retreated in a flurry was both splendid and beautiful.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "257",
+      "sol": "It was impossible to hold back. The melody was that pure, and the procession revealed as people hurriedly stepped aside was splendid and beautiful.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hundreds of men and women continued forward in the procession to the accompaniment of low drums.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "261",
+      "sol": "Hundreds of men and women marched to the low beat of drums.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Yi men wore black tops edged with floral cloth and wide, pleated trousers.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "263",
+      "sol": "The Yi men wore black tops trimmed with floral cloth and wide, pleated trousers. The Yao women, in conical hats, walked slowly in two lines.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Yao women wore conical hats and moved slowly forward in two separate groups.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "265",
+      "sol": "",
+      "sol_paragraphs": "after P113",
+      "sol_range": [
+        113,
+        113
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Yi and Yao people have arrived!”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "269",
+      "sol": "“The Yi and Yao have arrived!”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "Cheers burst out from every direction.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "271",
+      "sol": "Cheers rose all around me.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But while everyone around me marveled at their beauty and striking appearance, I was looking at the weapons strapped around their waists and shoulders.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "273",
+      "sol": "But while everyone else admired their beauty and finery, I watched the weapons strapped to their waists and shoulders.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Every single one of them is a warrior.*",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "275",
+      "sol": "*Every one of them is a warrior.*",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A warrior of Nanman was equivalent to a Murim practitioner in the Central Plains. Since these people belonged to their respective tribes, it would be more accurate to call them members of a martial sect.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "277",
+      "sol": "In the Central Plains, Nanman’s warriors would be Murim practitioners. Since each belonged to a tribe, I supposed they were more like members of a martial sect.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*And from what I just heard, the great chieftains of the Yi and Yao peoples returned after finishing their campaign…*",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "279",
+      "sol": "*And if the Yi and Yao great chieftains are back from subduing those beasts…*",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "This wasn’t merely a procession. It was a kind of victory parade, and a victory parade like this was never complete without the general who had led the battle to victory.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "281",
+      "sol": "This was more than a procession. It was a victory parade, and a victory parade needed the generals who had led the battle.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the generals in question were the great chieftains of those two great tribes I had just heard about.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "283",
+      "sol": "In this case, those generals were the two great chieftains.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A short cry of alarm reached me just as I was thinking that.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "289",
+      "sol": "",
+      "sol_paragraphs": "after P124",
+      "sol_range": [
+        124,
+        124
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the next moment, countless gazes and voices focused in one direction. Then, without anyone taking precedence over anyone else, a tremendous cheer erupted.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "291",
+      "sol": "Cries rang out almost as soon as the thought occurred to me. Gazes and voices turned in one direction, and then the whole crowd erupted into cheers.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Waaaaaaaaah!”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "293",
+      "sol": "“Waaaaah!”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the roar that seemed capable of shaking all of Nanman beyond the Outer Hall, two people finally appeared at the center of the procession and waved their hands.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "297",
+      "sol": "The roar seemed loud enough to shake all of Nanman. At the center of the procession, two people finally came into view and waved to the crowd.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "외당",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Outer Hall"
+        }
+      ]
+    },
+    {
+      "baseline": "One was a man riding a huge black bear, presumably the great chieftain of the Yi people.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "301",
+      "sol": "A man riding an enormous black bear—presumably the Yi great chieftain. And…",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "이족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yi people"
+        }
+      ]
+    },
+    {
+      "baseline": "And the other was…",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "303",
+      "sol": "",
+      "sol_paragraphs": "after P128",
+      "sol_range": [
+        128,
+        128
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A woman who smiled brightly amid an outpouring of attention and affection that surpassed the man’s by comparison.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "307",
+      "sol": "A woman smiling brightly as the crowd lavished her with far more attention and affection than they had the man.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if I hadn’t heard the people shouting her name, I would have quickly realized that she was the great chieftain of the Yao people.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "309",
+      "sol": "Even without hearing them call her name, I would have known she was the Yao great chieftain.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "*The great chieftain of the Yao people is a woman. Extremely intelligent, and extraordinarily beautiful.*",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "311",
+      "sol": "*The Yao great chieftain is a woman. Extremely intelligent, and extraordinarily beautiful.*",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "요족",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yao people"
+        }
+      ]
+    },
+    {
+      "baseline": "Namho’s words had been true.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "311",
+      "sol": "",
+      "sol_paragraphs": "after P132",
+      "sol_range": [
+        132,
+        132
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Namho"
+        }
+      ]
+    },
+    {
+      "baseline": "Yohi was beautiful. Almost bewitchingly so.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "311",
+      "sol": "Namho had been right. Yohi was beautiful—almost bewitchingly so.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whenever her deep gaze swept across the surroundings, people let out exclamations of admiration.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "311",
+      "sol": "Whenever her deep gaze swept over the crowd, people gasped in admiration.",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was probably why.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "311",
+      "sol": "",
+      "sol_paragraphs": "after P134",
+      "sol_range": [
+        134,
+        134
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the cheers and wonder surrounding her, I stood there like a block of wood, making me unusually conspicuous.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "311",
+      "sol": "That was probably why I stood out. Amid all those cheers and admiring faces, I was standing there like a block of wood.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yohi’s eyes lit up when they found me.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "311",
+      "sol": "Yohi’s eyes lit up when she spotted me.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 137,
+  "sol_sha256": "d407d99ab72c0a30fbd74abeb157eff6e5d69d334350e9e913a72836ba3ac0cb",
+  "version": 1
+}

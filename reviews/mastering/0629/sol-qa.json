@@ -1,0 +1,63 @@
+{
+  "chapter": 629,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.854,
+    "source_characters": 5619,
+    "source_paragraphs": 145,
+    "translation_characters": 10417,
+    "translation_paragraphs": 137
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "이삼",
+        "preferred": "Lee Sam"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "순이",
+        "preferred": "Sooni"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상호",
+        "preferred": "Sangho"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "이족",
+        "preferred": "Yi people"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "궁주",
+        "preferred": "Palace Lord"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
