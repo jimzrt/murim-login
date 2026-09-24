@@ -1,19 +1,19 @@
 # Translation State
 
-- Last completed: 953
-- Next chapter: 954
-- Current block: 950–954 (4/5)
-- Latest translation: `translations/0953.md`
-- Latest summary: `summaries/beats/0953.md`
-- Safe profiles through: chapter 953
+- Last completed: 954
+- Next chapter: 955
+- Current block: 950–954 (5/5)
+- Latest translation: `translations/0954.md`
+- Latest summary: `summaries/beats/0954.md`
+- Safe profiles through: chapter 954
 
 ## Current Block
 
-- Jin Mukyung returns from a successful strike: his slightly more than two hundred Heaven Shaking Squad members annihilated a thousand enemy vanguard troops, including one hundred elite soldiers, at the cost of twenty-three dead and thirty-seven wounded. Jin Wikyung’s scorched-earth preparations, defenses at Eight Spring Gorge, and the support of thousands of commoners ready to help protect Shanxi are revealed; their loyalty stems in part from the Jin Family’s past aid during famine. As a rider arrives carrying a dead Jin Family martial artist, Jin Wikyung orders everyone to prepare for battle: the enemy has arrived.
+- The steppe army reaches Eight Spring Gorge after enduring scorched fields, poisoned water, and traps. Jamukha rallies his tens of thousands of riders and leads their charge toward the gorge. Temur regrets ignoring the real Chinggen’s warnings, while concealing from the impostor wearing Chinggen’s face that he knows the truth. Facing the oncoming attack, Jin Wikyung steadies his defenders by proposing they celebrate the next Double Ninth Festival together on Mount Heng. Jin Mukyung joins the defense as the first riders burst from the darkness.
 
 ## Open Questions
 
-- How will the defense at Eight Spring Gorge fare against the arriving enemy?
+- How will the battle at Eight Spring Gorge fare?
 - Who gave Jang Sam the silk pouch, and what are the improved pill’s effects and distribution?
 - What is the Martial God’s identity and connection to the chosen one and the Bow Saint?
 - What do the Eastern Heaven Demon Lord’s papers and silk pouch contain?
