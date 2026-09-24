@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "I pulled my clothes free",
+      "defect": "The source says he removes the hands gripping the hem of his clothes. This wording instead describes freeing the clothes from the grip, losing both the hands as the object of his action and the specific hem detail.",
+      "id": "F01",
+      "rationale": "The Korean explicitly makes the hands the object of 떼어 낸 and identifies the garment edge with 옷자락. The current version obscures that physical action.",
+      "replacement": "I pulled the hands gripping my clothes away",
+      "severity": "minor",
+      "source": "Lines 237–239, 271"
+    },
+    {
+      "confidence": 0.75,
+      "current": "I surrenderrr!",
+      "defect": "The source changes the second cry of surrender to 항보옥, incorporating 보옥 (“Treasured Jade”), rather than merely stretching the word 항복. The translation loses that abrupt wordplay.",
+      "id": "F02",
+      "rationale": "The source’s second cry visibly departs from the ordinary word for surrender and contains the glossary term 보옥. Repeating surrender with an elongated ending preserves the shout but drops that lexical joke.",
+      "replacement": "I surrender! I surren-jade!",
+      "severity": "minor",
+      "source": "Line 339"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it loses a physical detail and the final line’s wordplay.",
+  "version": 1
+}
