@@ -2464,3 +2464,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소향이 | **Sohyang** | Name the Lord used while believing himself to be a seventeen-year-old girl. |
 | 단혈방 | **Danhyeol Bang** | Former Gansu faction that was destroyed five years ago. |
 | 일도단애 | **One Saber Cuts the Cliff** | Sobriquet of Danhyeol Bang’s former chief. |
+| 하서주랑 | **Hexi Corridor** | Corridor west of the Yellow River. |
+| 난주 | **Lanzhou** | Capital of Gansu. |

@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“You were looking at it.”",
+      "defect": "Reverses who was reading the missive.",
+      "id": "F01",
+      "rationale": "저 is Ju Hwaran referring to herself; she wants him to reopen the missive because she was reading along.",
+      "replacement": "“I was reading it.”",
+      "severity": "critical",
+      "source": "“저 보고 있었잖아요.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the huge sum of gold I’d squeezed out of the Taeeul Merciless Sword",
+      "defect": "Omits that he beat the Taeeul Merciless Sword and extracted the money in return.",
+      "id": "F02",
+      "rationale": "족치며 supplies the beating, while 역으로 marks the extraction as a reversal.",
+      "replacement": "the huge sum of gold I’d beaten out of the Taeeul Merciless Sword in return",
+      "severity": "major",
+      "source": "내가 태을무정검을 족치며 역으로 뜯어낸 막대한 액수의 금자는"
+    },
+    {
+      "confidence": 0.96,
+      "current": "filling the void left by the Murong Family",
+      "defect": "Drops the narrator’s pointed correction from the Murong great family to the diminished Murong household.",
+      "id": "F03",
+      "rationale": "아니 explicitly corrects 모용세가 to 모용가, marking the loss of its former standing.",
+      "replacement": "filling the void left by the Murong great family—or rather, what remained of the Murong household",
+      "severity": "major",
+      "source": "모용세가, 아니 모용가의 공백을 메우며"
+    },
+    {
+      "confidence": 0.97,
+      "current": "It was the sort of attention Wolhwa, as Branch Leader of the Lower District Sect’s Shaanxi branch, paid to a valued client.",
+      "defect": "Loses the explicit distinction between a personal message from Wolhwa and professional attention from a Branch Leader.",
+      "id": "F04",
+      "rationale": "월화가 아닌 … 지부장으로서 grounds his confidence that the missive will contain business information.",
+      "replacement": "It wasn’t Wolhwa writing to me personally. It was the Branch Leader of the Lower District Sect’s Shaanxi branch looking after a valued client.",
+      "severity": "major",
+      "source": "월화가 아닌 하오문 섬서 지부장으로서 신경 써 주는, 일종의 우수 고객 관리랄까."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Whether I agreed with her or not, it was easy to recognize the voice’s owner.",
+      "defect": "Turns his agreement with her description into an open question.",
+      "id": "F05",
+      "rationale": "그 말에 공감하는 것과는 별개로 sets aside an agreement already present, rather than questioning whether he agrees.",
+      "replacement": "I agreed with her, but that aside, it was easy to recognize the voice’s owner.",
+      "severity": "minor",
+      "source": "그 말에 공감하는 것과는 별개로, 목소리의 주인을 구분하는 것은 쉬운 일이었다."
+    }
+  ],
+  "summary": "One reversed speaker, two meaningful omissions, and two smaller fidelity issues.",
+  "version": 1
+}
