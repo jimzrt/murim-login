@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 934
-- Next chapter: 935
-- Current block: 930–934 (5/5)
-- Latest translation: `translations/0934.md`
-- Latest summary: `summaries/beats/0934.md`
-- Safe profiles through: chapter 934
+- Last completed: 935
+- Next chapter: 936
+- Current block: 935–939 (1/5)
+- Latest translation: `translations/0935.md`
+- Latest summary: `summaries/beats/0935.md`
+- Safe profiles through: chapter 935
 
 ## Current Block
 
-- The Emperor reveals that the Divine Physician examined him three days earlier and judged his Blood Soul Gu condition too advanced for immediate treatment. Believing his life is nearing its end, the Emperor admits to Jin Taekyung that he wants to live, especially to protect his young brother Zhu Bao and prepare him for the war he expects to come. Taekyung refuses to offer false comfort, shares how he once begged desperately to survive, and promises to save the Emperor.
+- Baek Yeon visits the Emperor, and their teasing gives way to an earnest exchange of mutual respect. Baek reflects on the Emperor’s sacrifices and his plans to entrust Zhu Bao with his loyal retainers and power before his death. The Emperor tells Baek that Taekyung promised to save him, and admits the promise has given him hope despite his belief that it is probably impossible. After hearing Taekyung’s account, Jeok Cheongang confirms that the Emperor is poisoned with Blood Soul Gu; Taekyung acknowledges it, breaking his promise to keep the matter secret.
 
 ## Open Questions
 
@@ -21,7 +21,7 @@
 
 ## Exceptional Decision
 
-- Taekyung will keep the pocket watch for half a month before deciding whether to give it to Mujin.
+- Taekyung intends to keep the pocket watch for half a month before deciding whether to give it to Mujin.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

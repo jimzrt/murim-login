@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "That way, Dark Heaven would have no cause to harm Zhu Bao.\n\nThey wouldn’t be able to carelessly kill the child with the legitimacy and right to replace the Emperor—or implant the Blood Soul Gu, which could quickly choke the life out of its host.",
+      "defect": "“No cause” changes the succession mechanism into a lack of motive. The point is that Dark Heaven cannot afford to dispose of Zhu Bao while he remains a legitimate replacement.",
+      "id": "F01",
+      "rationale": "The Emperor’s decision not to have an heir preserves Zhu Bao’s value as a potential replacement, preventing Dark Heaven from killing him or using a rapidly fatal poison.",
+      "replacement": "That way, Dark Heaven wouldn’t be able to harm Zhu Bao.\n\nThey couldn’t recklessly kill a child with the legitimacy and right to replace the Emperor, or inject him with Blood Soul Gu, which would quickly kill its host.",
+      "severity": "major",
+      "source": "그래야만 암천이 주표에게 어떤 위해도 끼치지 않을 테니까.\n\n황제를 대체할 명분과 정통성을 갖춘 그 어린아이를 섣불리 죽이거나, 빠르게 숙주의 숨통을 끊는 혈혼고를 주입할 수 없을 테니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Looking back over the road he’d traveled, he realized he wasn’t the only one who had never managed to show his true feelings. The Emperor himself had failed to do so.",
+      "defect": "The added second sentence points back to the Emperor instead of completing the realization that Baek Yeon, too, had kept his feelings hidden.",
+      "id": "F02",
+      "rationale": "Baek Yeon’s unexpected declaration reveals feelings he had not previously expressed to the Emperor.",
+      "replacement": "Looking back over the road he’d traveled, the Emperor realized he wasn’t the only one who had kept his true feelings hidden. Baek Yeon had, too.",
+      "severity": "major",
+      "source": "지나온 길을 문득 되돌아보니, 지금껏 진심을 드러내지 못했던 건 황제 자신뿐만이 아니었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Before it was too late, he was handing over his loyal retainers and their forces to Zhu Bao, the Crown Prince.",
+      "defect": "“Their forces” narrows the handover to the retainers’ troops; 세력 is the Emperor’s broader power base.",
+      "id": "F03",
+      "rationale": "The Emperor is arranging the transfer of both his followers and the political strength behind him.",
+      "replacement": "Before it was too late, he was handing over his loyal retainers and his power base to Crown Prince Zhu Bao.",
+      "severity": "major",
+      "source": "더 늦기 전에 그를 따르는 충복들과 세력을 황태제 주표에게 넘기고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And the Emperor had found the sight rather delightful. Gratifying, even.",
+      "defect": "“Gratifying” makes the moment about the Emperor’s satisfaction rather than his gratitude toward Taekyung.",
+      "id": "F04",
+      "rationale": "고마웠다 explicitly says the Emperor felt thankful for Taekyung’s resolve.",
+      "replacement": "And the Emperor had found the sight of Jin Taekyung like that rather delightful. He was grateful to him, too.",
+      "severity": "major",
+      "source": "그리고 황제는 그런 진태경의 모습이 썩 즐거웠다. 고마웠다."
+    }
+  ],
+  "summary": "Four actionable fidelity findings, chiefly affecting succession mechanics and characterization.",
+  "version": 1
+}
