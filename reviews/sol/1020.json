@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "They said they didn’t realize the enemy was there until they’d reached a point only three hundred *li* from Dunhuang.",
+      "defect": "The draft makes the defenders travel to the point where they detect the enemy; the enemy is the force that advanced toward Dunhuang.",
+      "id": "F01",
+      "rationale": "The enemy’s undetected approach explains why the scouts at Jade Gate Pass are presumed dead.",
+      "replacement": "They said the enemy wasn’t detected until it had advanced to within three hundred *li* of Dunhuang.",
+      "severity": "critical",
+      "source": "돈황의 삼백 리 앞까지 도달한 후에야 적들의 존재를 눈치챘다고 했으니 말입니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "*If even the messenger who escaped the battlefield first, ahead of everyone else, was that badly injured…*",
+      "defect": "In this context, “the messenger” can be read as the Great Snow Mountain messenger currently speaking, rather than the wounded Kongtong messenger who escaped Dunhuang.",
+      "id": "F02",
+      "rationale": "The Kongtong Disciple arrived at the Great Snow Mountain with severe injuries and died there; the messenger now speaking was sent from that mountain afterward.",
+      "replacement": "*If even the wounded Kongtong messenger, who must have escaped the battlefield ahead of everyone else, was injured that badly…*",
+      "severity": "critical",
+      "source": "‘가장 빨리, 누구보다 앞서 전장을 벗어났을 전령이 그 정도로 큰 부상을 입은 상태였다면…….’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "As countless blades flashed all around us, I watched our allies move in unison at the shouts ringing through the ranks and kicked off my stirrups.",
+      "defect": "Taekyung kicks off from the saddle, not the stirrups.",
+      "id": "F03",
+      "rationale": "말안장 is the saddle; the action launches him into the air.",
+      "replacement": "As countless blades flashed all around us, I watched our allies move in unison at the shouts ringing through the ranks and kicked off from the saddle.",
+      "severity": "critical",
+      "source": "나는 말안장을 박찼다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "During the desperate retreat, two of our Elders, both Perfected Ones, and all one hundred members of the Demon-Subduing Squad were left to die at Dunhuang.",
+      "defect": "“Our Elders” wrongly makes the Great Snow Mountain messenger a member of Kongtong, while “were left to die” suggests the fighters were abandoned alive rather than reporting their deaths.",
+      "id": "F04",
+      "rationale": "The casualties belong to the Kongtong Sect, and 돈황에 뼈를 묻었다 reports that they died there.",
+      "replacement": "During the desperate retreat, two Perfected Ones serving as Kongtong Elders and all one hundred members of the Demon-Subduing Squad died at Dunhuang.",
+      "severity": "critical",
+      "source": "다급하게 퇴각하는 과정에서 장로직을 맡고 계신 두 분의 진인(眞人)과 복마대(伏魔隊) 일백 전원이 돈황에 뼈를 묻었다고 합니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Ten thousand. A full ten thousand!",
+      "defect": "The draft drops a leader’s spoken disbelief that so many troops were defeated so easily and turns the dialogue into narration.",
+      "id": "F05",
+      "rationale": "The source gives the first reaction to a speaker, then has Taekyung repeat the number in narration.",
+      "replacement": "“Ten thousand. A full ten thousand! How could a force that large be defeated so easily?”\n\nYes. Ten thousand. A full ten thousand.",
+      "severity": "major",
+      "source": "“일만. 무려 일만이오! 한데 그 많은 병력이 그리 손쉽게 격파당했다니.”\n\n그래, 일만.\n\n무려 일만이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "No—they *had* been stationed there.",
+      "defect": "The correction changes from the number of living scouts to whether they remain stationed at the pass.",
+      "id": "F06",
+      "rationale": "The emphasis on 일백‘이었다’ anticipates that all hundred scouts are probably dead.",
+      "replacement": "No—there *had* been at least a hundred.",
+      "severity": "minor",
+      "source": "아니, 일백‘이었다.’"
+    }
+  ],
+  "summary": "The draft changes who detected the enemy and which messenger escaped the battlefield. It also shifts a saddle action, misattributes Kongtong’s Elders, and drops a speaker’s reaction.",
+  "version": 1
+}

@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 1019
-- Next chapter: 1020
-- Current block: 1015–1019 (5/5)
-- Latest translation: `translations/1019.md`
-- Latest summary: `summaries/beats/1019.md`
-- Safe profiles through: chapter 1019
+- Last completed: 1020
+- Next chapter: 1021
+- Current block: 1020–1024 (1/5)
+- Latest translation: `translations/1020.md`
+- Latest summary: `summaries/beats/1020.md`
+- Safe profiles through: chapter 1020
 
 ## Current Block
 
-- As the force prepares to move west through the Qilian Mountains in falling snow, Hyuk Mujin tells Taekyung that he trusts him to fight by his side and that this trust keeps him from fearing danger. Taekyung jokes with him but privately wonders whether Sama Pyo and Taishan ever trusted him as comrades.
-- Sama Pyo questions Sima Gong's decision to reinforce the army with three thousand troops from the Qilian Mountains. Sima tells him to keep questioning assumptions and recalculating as circumstances change. Sama Pyo reflects that his father's ruthless calculations shaped both the Black Dragon Demon Gate and his own rise as heir, while Sima interprets his son's deferential response as a return to his former self. A red flare bursts above a distant hill.
+- A red emergency flare from the scouts prompts the allied force to prepare for battle. Jin Taekyung and Jeok Cheongang rush ahead and learn that Dark Heaven has taken Dunhuang. A messenger reports that the Jade Gate Pass was breached, at least half of the ten-thousand-strong defensive force was killed, wounded, or missing, and the Kongtong Sect lost about thirty percent of its strength, including two Elders and the entire Demon-Subduing Squad. The Kongtong Sect Leader escaped, but his whereabouts and the fate of the other survivors are unknown. Believing Dark Heaven is advancing rapidly toward the Great Snow Mountain, Taekyung orders all forces in the Qilian Mountains mobilized, overruling Sima Gong’s earlier decision by invoking his authority as Marquis of Shangshan.
 
 ## Open Questions
 
 - Who sent Sama Pyo the secret letter, what did it say, and what was its purpose?
-- Are Sama Pyo and Taishan acting on Sima Gong's orders, and are those orders connected to Dark Heaven?
-- What did the red flare signal?
+- Are Sama Pyo and Taishan acting on Sima Gong’s orders, and are those orders connected to Dark Heaven?
+- Where is the Kongtong Sect Leader, and what became of the surviving troops from Dunhuang?
 
 ## Exceptional Decision
 

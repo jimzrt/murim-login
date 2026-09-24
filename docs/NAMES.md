@@ -2467,3 +2467,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 하서주랑 | **Hexi Corridor** | Corridor west of the Yellow River. |
 | 난주 | **Lanzhou** | Capital of Gansu. |
 | 군자도 | **Junzi Saber** | Title of Jeok Cheongang’s former ally, who later served the Demonic Cult. |
+| 옥문관 | **Jade Gate Pass** | Strategic pass breached before Dunhuang fell. |
+| 무위검문 | **Martial Might Sword Sect** | Sect whose members are told to prepare for an ambush. |
+| 복마대 | **Demon-Subduing Squad** | Kongtong Sect unit whose one hundred members died defending Dunhuang. |
+| 진인 | **Perfected One** | Honorific for the two Kongtong Elders killed at Dunhuang. |
