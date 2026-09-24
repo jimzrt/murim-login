@@ -1454,3 +1454,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 모용백 | 벽력도왕 | former rivals turned comrades and friends | you | familiar and cautionary | Murong Baek asks Peng Cheolhu whether he agrees that people like Jamukha require constant vigilance. |
 | 모용백 | 자무카 | commander_to_subordinate | you | plain and authoritative | Murong Baek gives Jamukha direct orders and rebukes him without honorific speech. |
 | 자무카 | 모용백 | subordinate_to_commander_and_savior | you | deferential and honorific | Jamukha thanks Murong and addresses him with honorific speech. |
+| 진태경 | 모용백 | adversaries | you | informal and confrontational | Directly asks whether Murong Baek beat up his older brother. |
+| 모용백 | 진태경 | adversaries | you | informal | Addresses Taekyung directly during their confrontation. |

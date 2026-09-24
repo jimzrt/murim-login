@@ -1,6 +1,6 @@
 # Human Butcher (인도)
 
-- **Safe through:** Chapter 955
+- **Safe through:** Chapter 970
 - **Aliases:** None
 - **Role:** Former mysterious Han Chinese mounted-bandit power in Northern Gaoyuan commanding fifty subordinates; a Peak master killed by an unnamed old man in a single move
 - **Personality:** Cold, intimidating, and murderous; he kills people as though slaughtering livestock
