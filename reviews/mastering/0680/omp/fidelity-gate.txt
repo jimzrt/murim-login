@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is broadly faithful, but a few physical and sensory details from the source are missing or shifted.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 11",
+      "current": "His bulging eyes and the hand he thrust out in haste.",
+      "defect": "The source says his eyes are bulging as if they might pop out. The translation keeps the bulging eyes but drops that specific image.",
+      "replacement": "His eyes bulged as if they might pop out, and he thrust out a hand in haste.",
+      "rationale": "The imminent-popping comparison is explicit in the Korean and adds to the panic of his reaction.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean lines 267–271",
+      "current": "Dodging the weakened thrust was easy.",
+      "defect": "The source specifies that White Flame’s spearhead, which was heading toward the old man, lost its direction and wavered. The translation omits that physical detail and recasts the spearhead as a thrust.",
+      "replacement": "White Flame’s spearhead, still heading toward the old man, lost its direction and wavered. Avoiding it was easy for him.",
+      "rationale": "The source describes the spearhead’s loss of direction before stating that the old man could easily avoid it.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Korean line 289",
+      "current": "And the ominous instinct that seized my entire body soon revealed itself as reality.",
+      "defect": "The source separately mentions an unexplained sense of unease before the ominous instinct. That first beat is omitted.",
+      "replacement": "An unease whose source I couldn’t identify. And the ominous instinct that seized my entire body soon revealed itself as reality.",
+      "rationale": "The Korean contains two linked but distinct reactions: unexplained anxiety, followed by the ominous premonition.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Korean line 265",
+      "current": "And cold.",
+      "defect": "The source describes the sensation as 서늘하다, meaning cool or chilly, rather than cold.",
+      "replacement": "And cool.",
+      "rationale": "The source contrasts hot with a cooler sensation here; it uses separate, stronger cold-energy terms later.",
+      "confidence": 0.9
+    }
+  ]
+}

@@ -10,17 +10,17 @@ His bulging eyes and the hand he thrust out in haste.
 
 The black Force giving way despite his efforts, and his Body-Protecting Qi shattering the instant it touched the flames.
 
-Even the dazzling flash that came slicing through the space beyond them.
+And… the dazzling flash that came hurtling through the space beyond him.
 
 *KWA-AAANG!*
 
 A tremendous roar. A violent tremor.
 
-Everything happened in an instant, and ended just as quickly. Then a blast of hot air swept across the place.
+It all began and ended in an instant. A blast of hot air swept through the aftermath.
 
 No—the blast swept across everything within several dozen jang.[^1]
 
-Mist born from the heat and steam of Scorching Yang Qi spread everywhere, blocking my view.
+Mist formed where the heat of Scorching Yang Qi met the moisture rising from the ground. It spread everywhere, blocking my view.
 
 *Whoosh…*
 
@@ -48,7 +48,7 @@ I’d had only two choices: finish off the Black Hand Fist Demon and let the twi
 
 Naturally, I’d chosen the latter.
 
-I changed the direction of my punch in midair and struck the twin wheels aside. The Black Hand Fist Demon did not even dare try to take advantage of the opening. He hurriedly pulled back.
+I’d changed the direction of my punch midstrike and knocked the twin wheels aside. The Black Hand Fist Demon hadn’t even dared seize the opening; he’d hurriedly withdrawn.
 
 The clash had started and ended in the blink of an eye. It might have looked like a draw, but I’d lost far more.
 
@@ -82,7 +82,7 @@ Given his martial prowess, he wasn’t entirely wrong to say I’d caught him of
 
 A cold voice cut off the Black Hand Fist Demon’s shout. A slender figure emerged from the mist still blanketing the area.
 
-Step.
+*Crunch.*
 
 Mud baked hard by the terrible heat crumbled like sand beneath the old man’s foot.
 
@@ -102,7 +102,7 @@ His admiration sounded genuine. I lowered my spearhead and answered.
 
 “Is it just me, or is that a ridiculous number?”
 
-“The realm of martial arts has no end.”
+“There’s no end to the heights martial arts can reach.”
 
 “A foolish question met with a wise answer. The Fire King raised his Disciple well.”
 
@@ -112,7 +112,7 @@ A parent insult, thrown hard and tight on the inside. The old man didn’t flinc
 
 “I suppose I’ll ask them if I ever find myself in the afterlife.”
 
-Step.
+*Crunch.*
 
 He walked forward as if out for a stroll. I measured the distance between us.
 
@@ -124,7 +124,7 @@ He walked forward as if out for a stroll. I measured the distance between us.
 
 “You’ve guessed wrong this time. I’m an orphan, with no family in this world. No one cared for me growing up, so I can hardly be accused of being an unfilial son.”
 
-Step.
+*Crunch.*
 
 His third step.
 
@@ -144,11 +144,11 @@ The Black Hand Fist Demon spat out a brief curse. The old man answered calmly.
 
 The old man took another step instead of answering.
 
-Step.
+*Crunch.*
 
 The sound rang unusually clear in my ears. At that moment, I saw blue light blaze from the twin wheels in his hands.
 
-Hiss! Whoosh!
+*Hiss! Whing!*
 
 Two streaks of light flew toward me with faint sounds of splitting air. The twin wheels twisted through the air like living snakes. Beneath them, the Black Hand Fist Demon charged, madness gleaming in his eyes.
 
@@ -216,7 +216,7 @@ A snowball grows as it rolls. A current swells into a wave when more water joins
 
 The Black Hand Fist Demon looked up at the streak of flame crossing the air. His eyes flew wide.
 
-“Guh…!”
+“Hup…!”
 
 With a startled cry, he thrust up both palms. The Palm Force he hastily summoned met the flames and faded away. In that brief instant, blue flashes came from my left and right.
 
@@ -228,7 +228,7 @@ I couldn’t dodge both by moving. I made my decision in a split second and twis
 
 *KWAANG!*
 
-Even someone like me couldn’t overcome the verdict contained in those four characters: *force majeure*.
+Even I couldn’t overcome the inevitable.
 
 *SHRAAAK!*
 
@@ -240,13 +240,13 @@ Not a word. Not even a breath.
 
 Until now, the old man had stayed back and thrown his twin wheels. Now he entered the fight himself—calm and cold, each movement timed and placed with precision.
 
-Just as he did now.
+As I was about to learn.
 
 *SHWAAK! THUD!*
 
-And cold.
+Hot. Then cold.
 
-Finger Qi erupted from the tips of fingers long and withered as tree branches and pierced my shoulder.
+I twisted at the last moment, but it made little difference. Finger Qi shot from the tips of his long, withered fingers and pierced my shoulder. White Flame’s spearhead wavered off course as it neared him.
 
 Dodging the weakened thrust was easy.
 
@@ -262,9 +262,9 @@ Yet his eyes remained cold. A chill I couldn’t explain ran through me.
 
 *This is…*
 
-And the ominous instinct that seized my entire body soon revealed itself as reality.
+I couldn’t place the source of my unease. Then the dreadful instinct that seized me took shape before my eyes.
 
-Sss…
+*Swish.*
 
 In a moment divided into fractions of a fraction, the old man slowly extended his hand.
 
@@ -296,7 +296,7 @@ Powerful Yin-Cold Qi pressed down on the flames as they slowly died away.
 
 “I am called the Great Snow Fiend.”
 
-The cold voice drifted through a cloud of pure-white breath.
+His cold voice came through a cloud of white breath.
 
 *KRAAASH!*
 
