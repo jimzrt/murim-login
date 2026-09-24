@@ -1468,3 +1468,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 정호군 | 진태경 | imperial officer responding to the Marquis of Shangshan | Marquis of Shangshan | formal and deferential | Accepts the command with a formal acknowledgment of Taekyung’s title. |
 | 모용수 | 정호군 | young Murong family member to senior imperial officer | Thousand Captain Jeong | formal and deferential | Greets Jeong Hogun as 정 천호께. |
 | 남호 | 모용수 | Murim Alliance representative to Murong family member | Murong Su | familiar and measured | Addresses him by name while offering the survivors a chance. |
+| 진태경 | 벽력도왕 | younger martial artist to senior martial master | Great Hero Peng | formal and deferential | Taekyung offers a respectful salute and addresses Peng as 팽 대협. |
