@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The jerky you stuffed into your mouth barely fifteen minutes ago would’ve been enough for a whole calf.",
+      "defect": "Changes the amount of jerky Taishan ate into an amount sufficient to feed a calf.",
+      "id": "F01",
+      "rationale": "Namho says the jerky Taishan ate alone amounted to an entire calf.",
+      "replacement": "The jerky you stuffed into your mouth barely fifteen minutes ago amounted to a whole calf.",
+      "severity": "critical",
+      "source": "고작 일각 전에 네놈 주둥이로 들어간 육포만 따져도 송아지 한 마린데."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Damn it. I’ll give you another once we’re on our way.”",
+      "defect": "Moves the promised second sweet from their return to their departure.",
+      "id": "F02",
+      "rationale": "돌아가는 대로 means upon returning, not once they set off.",
+      "replacement": "“Damn it. I’ll give you another as soon as we get back.”",
+      "severity": "critical",
+      "source": "빌어먹을, 돌아가는 대로 하나 더 주마."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Otherwise, I’ll personally stick two knives in each of you.",
+      "defect": "Changes two stabs per person into two knives per person.",
+      "id": "F03",
+      "rationale": "칼침 두 방씩 counts stab wounds, not weapons.",
+      "replacement": "Otherwise, I’ll personally stab each of you twice.",
+      "severity": "critical",
+      "source": "그렇지 않으면 제 손으로 직접 칼침 두 방씩 놔 드릴 테니까."
+    },
+    {
+      "confidence": 0.9,
+      "current": "Not one of them had enough left to bury.",
+      "defect": "Adds a claim about the condition of the bodies that the source does not establish.",
+      "id": "F04",
+      "rationale": "뼈도 못 추리다 conveys being thoroughly beaten or destroyed; it does not say their remains were too scant to bury.",
+      "replacement": "None of them stood a chance.",
+      "severity": "major",
+      "source": "전부 뼈도 못 추렸어."
+    }
+  ],
+  "summary": "Several localized fidelity errors change quantities, a promised reward, and the threatened action.",
+  "version": 1
+}
