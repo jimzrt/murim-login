@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "What do you think would happen if you muttered to yourself that I’d tried to assassinate you just now?",
+      "defect": "Reverses who supposedly tried to assassinate whom and who would make the accusation.",
+      "id": "F01",
+      "rationale": "The Emperor threatens to say that Taekyung tried to assassinate him.",
+      "replacement": "What do you think would happen if I muttered to myself that you’d just tried to assassinate me?",
+      "severity": "critical",
+      "source": "지금 당장 자네가 짐을 시해하려고 했다는 혼잣말을 하면 어떻게 될 것 같나?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "I knew this day would come. I’ve known for a long time. So…",
+      "defect": "Knowing what would happen replaces the Emperor’s claim that he had steeled himself for it.",
+      "id": "F02",
+      "rationale": "각오했던 describes resolve or preparedness, not mere foreknowledge.",
+      "replacement": "I was prepared for this. Have been for a long time. So…",
+      "severity": "major",
+      "source": "각오했던 일이야. 이미 오래전부터. 그러니……."
+    },
+    {
+      "confidence": 0.97,
+      "current": "His flesh and blood, dear enough to hold in his sight without ever tiring of him.",
+      "defect": "The literalized image obscures an idiom expressing how precious his younger brother is to him.",
+      "id": "F03",
+      "rationale": "눈에 넣어도 아프지 않을 conveys extreme affection, not pleasure in looking at someone.",
+      "replacement": "His flesh and blood, so precious he could never bear to see him hurt.",
+      "severity": "major",
+      "source": "눈에 넣어도 아프지 않을 혈육"
+    },
+    {
+      "confidence": 0.91,
+      "current": "the boy would have to become a conqueror, not a sage king.",
+      "defect": "“Conqueror” suggests territorial conquest rather than the forceful, domineering rulership contrasted with a sage king.",
+      "id": "F04",
+      "rationale": "패왕 characterizes the kind of ruler needed to survive the coming war.",
+      "replacement": "the boy would have to become a ruthless ruler, not a sage king.",
+      "severity": "major",
+      "source": "성군이 아닌 패왕(霸王)이 되어야 한다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "I… No, I…",
+      "defect": "Using the same pronoun twice erases the Emperor’s deliberate shift from imperial self-reference to speaking as a person.",
+      "id": "F05",
+      "rationale": "짐은 changes to 나는 immediately before he admits that he wants to live.",
+      "replacement": "We—no, I…",
+      "severity": "major",
+      "source": "짐은, 아니 나는……."
+    },
+    {
+      "confidence": 1.0,
+      "current": "the help of Baek Yeon and Gungseong",
+      "defect": "Uses an untranslated form instead of the established title.",
+      "id": "F06",
+      "rationale": "The packet’s glossary establishes Bow Saint for 궁성.",
+      "replacement": "the help of Baek Yeon and the Bow Saint",
+      "severity": "minor",
+      "source": "백연과 궁성의 도움이 없었다면"
+    },
+    {
+      "confidence": 1.0,
+      "current": "having been taught by two peerless masters—Gungseong and Baek Yeon—",
+      "defect": "The second occurrence also uses an untranslated form of the established title.",
+      "id": "F07",
+      "rationale": "The packet’s glossary establishes Bow Saint for 궁성.",
+      "replacement": "having been taught by two peerless masters—the Bow Saint and Baek Yeon—",
+      "severity": "minor",
+      "source": "궁성과 백연이라는, 말이 필요 없는 훌륭한 스승들의 가르침을 받으며"
+    },
+    {
+      "confidence": 0.96,
+      "current": "he let out a series of dry coughs.",
+      "defect": "“Dry” specifies a quality absent from the source; the coughs are small or light.",
+      "id": "F08",
+      "rationale": "잔기침 refers to light, repeated coughing.",
+      "replacement": "he let out a series of small coughs.",
+      "severity": "minor",
+      "source": "연이어 잔기침을 내뱉던"
+    }
+  ],
+  "summary": "One line reverses the parties to an alleged assassination; several others lose the Emperor’s emotional or political meaning.",
+  "version": 1
+}
