@@ -2466,3 +2466,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일도단애 | **One Saber Cuts the Cliff** | Sobriquet of Danhyeol Bang’s former chief. |
 | 하서주랑 | **Hexi Corridor** | Corridor west of the Yellow River. |
 | 난주 | **Lanzhou** | Capital of Gansu. |
+| 군자도 | **Junzi Saber** | Title of Jeok Cheongang’s former ally, who later served the Demonic Cult. |

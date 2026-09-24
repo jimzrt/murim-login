@@ -1,23 +1,22 @@
 # Translation State
 
-- Last completed: 1017
-- Next chapter: 1018
-- Current block: 1015–1019 (3/5)
-- Latest translation: `translations/1017.md`
-- Latest summary: `summaries/beats/1017.md`
-- Safe profiles through: chapter 1017
+- Last completed: 1018
+- Next chapter: 1019
+- Current block: 1015–1019 (4/5)
+- Latest translation: `translations/1018.md`
+- Latest summary: `summaries/beats/1018.md`
+- Safe profiles through: chapter 1018
 
 ## Current Block
 
-- Sima Gong insists Gansu Murim will not accept outside interference in its decision to leave forces on the rear front, even if Dark Heaven uses the Moving Formation to attack there. Jeok Cheongang challenges him, but Taekyung breaks the rising tension and agrees to let the decision stand for now. Sima Gong warns Taekyung that releasing the horse caravans could prove a mistake. Later, Taekyung tells Jeok that he suspects Sima Gong is hiding something and reveals Namho’s report: just before they left the Jin Family of Taiyuan, Sama Pyo was burning a secret letter while Taishan was with him.
+- Namho’s suspicion that Sama Pyo burned a secret letter is strengthened by the scent of camel-oil paper, suggesting the missive came from Gansu or Qinghai. Taekyung and Jeok Cheongang suspect Sima Gong sent it, but its contents and purpose remain unknown.
+- Jeok Cheongang recounts how he killed the Junzi Saber, a former ally who joined the Demonic Cult to avenge his family, and asks whether Taekyung would kill Sama Pyo and Taishan if they were acting on orders connected to Dark Heaven. Taekyung cannot answer. Meanwhile, the three thousand troops reach the Qilian Mountains, and Sima Gong faces two old Daoists who demand an explanation for how events have gone wrong.
 
 ## Open Questions
 
-- Who is the Lord, and what are his motives and connection, if any, to Dark Heaven?
-- Will the six Baekma Bang men return with the Lord within Taekyung’s deadline?
-- What was in the secret letter Sama Pyo burned, and to whom was it addressed?
-- What is Dark Heaven’s full strength and objective, and will it use the Moving Formation to attack the rear?
-- What consequences, if any, will Sama Pyo face for disobeying Sima Gong’s order?
+- Who sent Sama Pyo the secret letter, what did it say, and what was its purpose?
+- Are Sama Pyo and Taishan acting on Sima Gong’s orders, and are those orders connected to Dark Heaven?
+- What new plan will Sima Gong present to the two old Daoists?
 
 ## Exceptional Decision
 
