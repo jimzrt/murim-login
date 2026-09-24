@@ -1473,3 +1473,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 팽철후 | 적천강 | longtime friends and rivals adopting brotherly terms | Jeok hyung | informal and familiar | Peng addresses Jeok as hyung in their final conversation. |
 | 살성 | 청풍 | senior martial figure to younger companion | you | blunt and familiar | The Slaughter Saint scolds Cheongpung for disappearing without a word. |
 | 청풍 | 살성 | younger companion to senior martial figure | old man | polite and familiar | Cheongpung apologizes and explains why he wandered off. |
+| 매종학 | 제갈풍 | Alliance Leader to Zhuge Clan Family Head | Family Head Zhuge | formal and familiar | Mae Jonghak asks whether Zhuge Feng completed his assignment. |
+| 제갈풍 | 송호 | Zhuge Clan Family Head to Hidden Shadow Pavilion Chief | Chief of the Hidden Shadow Pavilion | formal and playfully accommodating | Zhuge Feng jokes that he would overlook Song Ho’s conduct if the amount were reasonable. |
