@@ -74,7 +74,7 @@ Baeksang gave me an unreadable look, then nodded slightly.
 
 “I apologize for my unseemly behavior, Palace Lord.”
 
-It was a surprisingly compliant answer.
+The ready apology caught me by surprise.
 
 The Beast Miao King smiled with satisfaction. Turning to the crowd, he called out, “Today is a joyous occasion for every tribe of Nanman and our honored guests who have traveled all the way from the Central Plains. Eat and drink to your hearts’ content!”
 
@@ -104,7 +104,7 @@ I drained my cup in one gulp and moved my lips.
 
 —…Hmm.
 
-The sweet fragrance of the fruit wine turned bitter.
+The sweet scent of the fruit wine seemed to turn bitter, just like my mood.
 
 *Gold and silver treasures.*
 
@@ -138,7 +138,7 @@ Trickle. Drip.
 
 As the spilled fruit wine soaked the stone steps and dripped from one to the next, Baeksang’s Sound Transmission reached me again.
 
-—It is already too late to turn things back. Just like those.
+—It’s too late to put things back the way they were. Just like that.
 
 —Hmm.
 
@@ -158,9 +158,9 @@ Dozens of fragments drew together like magnets. I used internal energy to bind t
 
 “…!”
 
-I subtly turned my head to look around. The reactions of those who had been watching us from earlier were quite a sight.
+A murmur ran through the people nearby. I glanced around at those who had been watching us.
 
-Namho and Heugung stood frozen with their mouths hanging open. A strange light flashed through Sama Pyo and Yohi’s eyes. Taishan had even forgotten to chew his meat and was staring blankly.
+Namho and Heugung stood with their mouths open. A strange light flashed in Sama Pyo’s and Yohi’s eyes. Taishan had even stopped chewing his meat.
 
 *Not bad. My control over internal energy really has gotten finer since I opened my Middle Dantian.*
 
@@ -168,7 +168,7 @@ If nothing else, stopping Taishan from eating was an achievement worth celebrati
 
 “Hmm, good. That’s some excellent Seizing an Object Through Empty Space.”
 
-Baeksang watched me praise myself and spoke in an even voice.
+Baeksang watched me praise myself.
 
 “Was that meant to show off your martial arts? It’s a pitiful cup for all your effort.”
 
@@ -196,19 +196,19 @@ Baeksang’s gaze darkened.
 
 —And what will you do about the wine spilled on the ground long ago?
 
-But it sounded different to me after our earlier exchange of Sound Transmissions.
+To anyone else, that might have sounded like nonsense. After our earlier exchange, I knew what he meant.
 
 *The cup is trust. The spilled wine is people.*
 
-During the Great Faction War, the Nanman Beast Palace had been forced to lose countless tribespeople. Afterward, because of some matter he did not even want to mention, Baeksang had completely lost his trust in the Central Plains.
+The Nanman Beast Palace had lost countless tribespeople in the Great Faction War. Afterward, something Baeksang couldn’t even bring himself to speak of had destroyed his trust in the Central Plains.
 
 By putting the shattered cup back together, I’d tried to show him what I meant.
 
-*I don’t know whether he’ll take this as a plea to trust once more or as a final warning……*
+*I don’t know whether he’ll take it as a request to trust us again or as a final warning…*
 
 Either way, I’d made my meaning clear.
 
-At the center of the countless cheering people stood the Beast Miao King, watching me with profound eyes.
+I looked across the training ground. The banquet was in full swing, and at the center of the cheering crowd stood the Beast Miao King, watching me with a searching gaze.
 
 *Whoa. That man doesn’t miss a thing.*
 
@@ -216,7 +216,7 @@ I felt like a high school kid caught causing trouble. I gave him a deliberate sh
 
 “Where are you going?” Baeksang asked behind me.
 
-I threw back a brief answer in a deep voice.
+I called back with a short, blunt answer.
 
 “To take a piss!”
 
