@@ -1,19 +1,19 @@
 # Translation State
 
-- Last completed: 966
-- Next chapter: 967
-- Current block: 965–969 (2/5)
-- Latest translation: `translations/0966.md`
-- Latest summary: `summaries/beats/0966.md`
-- Safe profiles through: chapter 966
+- Last completed: 967
+- Next chapter: 968
+- Current block: 965–969 (3/5)
+- Latest translation: `translations/0967.md`
+- Latest summary: `summaries/beats/0967.md`
+- Safe profiles through: chapter 967
 
 ## Current Block
 
-- Jin Mukyung and Peng Cheolhu fight Jamukha in the gorge. Jamukha injures Mukyung while parrying Cheolhu’s full-powered strike, but Cheolhu resumes his attack and the two continue their duel. Jin Wikyung leads the Shanxi fighters forward, judging that their advantage is temporary while the Hebei Peng Family remains outnumbered in the basin. Jamukha’s Keshik centurions hold back an unnamed weapon at his order. As the battle outside the gorge remains evenly matched, an unidentified group emerges from the darkness and rains thousands of arrows onto the battlefield.
+- Peng Cheolhu recognizes Jamukha as the young eastern-steppe chieftain he defeated more than fifty years ago. Jamukha reveals that he spent those decades rebuilding his power in the west and waiting for the Hebei Peng Family to appear so he could avenge his defeat. Their duel leaves Cheolhu wounded, while Jamukha’s crescent saber shatters and he suffers a grievous shoulder wound and internal injuries. Cheolhu explains that his own relentless training since the Great Faction War let him overcome Jamukha’s speed, and declares that Jamukha can be called a king only on the steppe.
 
 ## Open Questions
 
-- Who is the newly arrived force, and what will its arrows do to the battle?
+- What will the unidentified force’s arrows do to the battle?
 - What is the unnamed weapon the Keshik centurions were ordered not to use?
 - How will the duel between Jamukha and Cheolhu, and the fighting in the gorge, unfold?
 - Who gave Jang Sam the silk pouch, and what are the improved pill’s effects and distribution?

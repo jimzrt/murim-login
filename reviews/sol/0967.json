@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "After marching for thousands of miles,",
+      "defect": "Converts thousands of li into thousands of miles, substantially increasing the distance.",
+      "id": "F01",
+      "rationale": "The source specifies li, not miles.",
+      "replacement": "After marching for thousands of li,",
+      "severity": "major",
+      "source": "수천 리가 넘는 행군 끝에"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Beyond their locked blades, the Thunderbolt Saber King let out a quiet sigh. His words were reflected in Jamukha’s eyes, gleaming with light.",
+      "defect": "Changes what Jamukha’s eyes reflect from Peng Cheolhu’s image to his words.",
+      "id": "F02",
+      "rationale": "모습 refers to his visible figure, not what he said.",
+      "replacement": "Beyond their locked blades, the Thunderbolt Saber King let out a quiet sigh. His figure was reflected in Jamukha’s gleaming eyes.",
+      "severity": "major",
+      "source": "팽팽하게 맞물린 도신 너머로 나직이 탄식하는 벽력도왕의 모습이, 안광으로 번뜩이는 자무카의 두 눈동자에 고스란히 비쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But Jamukha didn’t answer the Thunderbolt Saber King’s question.",
+      "defect": "Omits the explanation for Peng Cheolhu’s respectful manner toward Jamukha.",
+      "id": "F03",
+      "rationale": "The omitted sentence explicitly grounds Peng Cheolhu’s change in address and conduct.",
+      "replacement": "Even an enemy deserved proper respect if he had shown courage and fighting spirit worthy of praise.\n\nBut Jamukha didn’t answer the Thunderbolt Saber King’s question.",
+      "severity": "major",
+      "source": "찬사받을 만한 용맹과 투지를 선보인 자라면, 설령 그 상대가 적이라 해도 합당한 예의를 갖춰야 하는 법."
+    },
+    {
+      "confidence": 0.97,
+      "current": "—steel shattered into pieces and collapsed. Above the scattered fragments, a fountain of blood burst from Jamukha’s shoulder.",
+      "defect": "Leaves the shattered steel unidentified and changes blood falling onto the fragments into blood bursting above them.",
+      "id": "F04",
+      "rationale": "The preceding line identifies the trembling crescent saber; the source then has blood fall onto its fragments.",
+      "replacement": "—his crescent saber shattered into pieces. Blood spraying from Jamukha’s shoulder blade rained onto the steel fragments.",
+      "severity": "major",
+      "source": "산산조각 나며 허물어지는 강철의 파편 위로, 자무카의 어깻죽지에서 뿜어져 나온 피 분수가 떨어져 내렸다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "For generations, the family had made its name throughout the world through strength honed by training and explosive cultivation techniques. And that had been its one limitation, too.",
+      "defect": "Drops the internal-energy mechanism that qualifies the Peng Family’s cultivation techniques.",
+      "id": "F05",
+      "rationale": "내공심법 specifies internal-energy cultivation, which matters to Jamukha’s analysis of the family’s fighting style.",
+      "replacement": "For generations, the family had made its name throughout the world through strength honed by training and cultivation techniques that produced explosive internal energy. That reliance was also its one limitation.",
+      "severity": "major",
+      "source": "팽가의 일원은 수련을 통해 단련된 힘과 폭발적인 내공심법을 바탕으로 대대로 천하에 명성을 떨쳤고, 그것이 유일한 한계이기도 했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Your kingdom is only out there on the steppe.”",
+      "defect": "Turns a challenge to Jamukha’s right to be called a king into a statement about the extent of his territory.",
+      "id": "F06",
+      "rationale": "왕이라 불릴 수 있는 곳 directly contrasts Jamukha’s title with the Ten Kings’ standing.",
+      "replacement": "“The only place you can be called a king is out there on the steppe.”",
+      "severity": "major",
+      "source": "“자네가 왕이라 불릴 수 있는 곳은, 저 초원뿐이야.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Someone with short legs might widen their stride when using a footwork technique.",
+      "defect": "Omits the person’s short arms.",
+      "id": "F07",
+      "rationale": "팔다리 names both arms and legs.",
+      "replacement": "Someone with short arms and legs might widen their stride when using a footwork technique.",
+      "severity": "minor",
+      "source": "팔다리의 길이가 짧은 이가 보폭을 넓혀 보법을 펼치는 것처럼."
+    },
+    {
+      "confidence": 0.87,
+      "current": "As the Thunderbolt Saber King approached, recovering from his internal injuries,",
+      "defect": "Makes Peng Cheolhu sound as though his injuries are healing rather than being brought under control during the fight.",
+      "id": "F08",
+      "rationale": "추스르며 describes him managing his condition as he approaches, not completing a recovery.",
+      "replacement": "As the Thunderbolt Saber King approached, steadying himself despite his internal injuries,",
+      "severity": "minor",
+      "source": "내상을 추스르며 다가오는 벽력도왕을 향해"
+    }
+  ],
+  "summary": "The draft preserves the duel’s broad sequence, but changes a travel distance and several combat details, omits Peng Cheolhu’s reason for addressing his enemy respectfully, and blurs two points about his martial arts and Jamukha’s claim to kingship.",
+  "version": 1
+}
