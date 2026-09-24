@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "I straightened up and even gave them a clasped-fist salute.",
+      "defect": "The Korean describes his posture as straight as a sword; “straightened up” drops that specific image, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "칼 같은 자세 conveys a sword-straight posture, not merely the action of straightening up.",
+      "replacement": "I stood as straight as a sword and even gave them a clasped-fist salute.",
+      "severity": "minor",
+      "source": "Line 37"
+    }
+  ],
+  "summary": "The translation is faithful overall, with one minor loss of a source-specific physical image.",
+  "version": 1
+}
