@@ -1,21 +1,20 @@
 # Translation State
 
-- Last completed: 1006
-- Next chapter: 1007
-- Current block: 1005–1009 (2/5)
-- Latest translation: `translations/1006.md`
-- Latest summary: `summaries/beats/1006.md`
-- Safe profiles through: chapter 1006
+- Last completed: 1007
+- Next chapter: 1008
+- Current block: 1005–1009 (3/5)
+- Latest translation: `translations/1007.md`
+- Latest summary: `summaries/beats/1007.md`
+- Safe profiles through: chapter 1007
 
 ## Current Block
 
-- Sima Gong reveals that Gansu has assembled thirty thousand martial artists and established three defensive lines across Dunhuang, the Great Snow Mountain, and the Qilian Mountains, with the Kongtong Sect already deployed. The force includes dark-path figures, but Sima and Jeok Cheongang affirm that they are fighting for the Murim Alliance; Sima stakes his life on keeping them in check. He says ominous signs prompted him to send scouts beyond the desert and urges Jeok to go to Qinghai, though he expects Dark Heaven to target Gansu. As the meeting considers the plan, an urgent voice calls from outside the closed doors.
+- Black Dragon Demon Gate guards on the Gansu wall realize that an unusually small dust cloud may be their thirty scouts returning early. The scouts fire a signal flare warning of suspicious intruders.
+- A group of about fifty unidentified riders, led by a giant, approaches the wall on a request from the Great One. Jin Taekyung orders the guards to fire twice, mistaking the group’s sand-stained flag and fearsome appearance for hostile intent; the giant survives the volleys.
 
 ## Open Questions
 
-- What did the scouts find beyond the desert, and what ominous signs prompted their mission?
-- What is the urgent message from the messenger outside the meeting room?
-- Why has Taishan stopped eating, and what caught Namho’s attention?
+- Who are the riders, and what is the Great One’s request?
 
 ## Exceptional Decision
 
