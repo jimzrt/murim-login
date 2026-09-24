@@ -1,6 +1,6 @@
 # Chapter 671
 
-The place where I currently found myself—the Murim—had neither the dazzling scientific civilization nor the mechanical engineering of the modern world. Nor did it have magic.
+Here in Murim, there was none of the modern world’s dazzling scientific progress or engineering. There was no magic, either.
 
 But extraordinary things were woven into this world—things no less remarkable than magic.
 
@@ -54,7 +54,7 @@ A holographic window filled the air before me. At the same time, a memory from b
 
 “By the time I received the report, everything was already over. All that remained at the Western Yao Estate was blood and corpses. And… those things.”
 
-I remembered everything from that day clearly. It was the only clue left behind by Heugung and Yohi, the two Great Chieftains who had vanished without a trace.
+I remembered that day clearly. Those were the only clues left by Heugung and Yohi, the two Great Chieftains who had vanished without a trace.
 
 *Heugung left a severed wrist, and Yohi…*
 
@@ -72,9 +72,9 @@ It was the most important clue at the Western Yao Estate: tracking scent Yohi ha
 
 *The scent hadn’t escaped. It was like that from the start.*
 
-As far as I knew, tracking scent was an unusual object made for following someone’s trail, just as its name suggested.
+As far as I knew, tracking scent was an unusual substance made to follow someone’s trail, just as its name suggested. It was rare, but not unheard of. Among the orthodox faction, the Lower District Sect and the Beggars’ Sect used it, for example.
 
-And the fact that I had spent quite a lot of time with the Successor Beggar of the Beggars’ Sect—a man from an organization of truly enormous scale—and exchanged all kinds of stories with him had been an unexpected stroke of luck.
+As luck would have it, I’d spent a fair amount of time talking with the Successor Beggar of the enormous Beggars’ Sect.
 
 “Tracking scent, huh? It works, but it’s incredibly rare. The method of making it is a closely guarded secret, and only a handful of people in Murim can produce it.”
 
@@ -86,19 +86,19 @@ And the fact that I had spent quite a lot of time with the Successor Beggar of t
 
 “Ah. Well…”
 
-*Go on. Run your mouth some more.*
+“Go on. Keep talking.”
 
 “Ahem. The truth is, I’ve never seen the Ten-Thousand-Li Tracking Scent myself. Ten thousand li sounds impressive, but would any scent really last over a journey that long?”
 
-*What? So it was a scam after all?*
+“What? So it’s a scam?”
 
 “Not necessarily. The Ten-Thousand-Li Tracking Scent you’ve heard rumors about aside, Murim uses quite a few kinds of tracking scent. The finest is commonly called the Thousand-Li Tracking Scent.”
 
 “The Thousand-Li Tracking Scent?”
 
-*It has several distinguishing features. First, the manufacturing process is disgustingly difficult. Second, the manufacturing cost is disgustingly high. Third, acquiring the Thousand-Li Tracking Scent made that way requires a disgustingly large amount of gold.*
+“It has a few distinguishing features. First, it’s filthy hard to make. Second, it’s filthy expensive to produce. Third, getting your hands on the finished product takes a filthy amount of gold.”
 
-*No mistaking you for a fucking beggar. You can’t get through a sentence without working “filthy” in somewhere.*
+“As if anyone could mistake you for anything but a filthy beggar. You even work ‘filthy’ into every sentence.”
 
 “However filthy I am, your character is… Sorry. That was out of line. Anyway, tracking scent of that quality is worth dozens of times its weight in gold. Of course, it works just as well as you’d expect.”
 
@@ -108,9 +108,9 @@ And the fact that I had spent quite a lot of time with the Successor Beggar of t
 
 “Then couldn’t you just put tracking scent on someone and call it a day?”
 
-*The trade-off is that tracking scent lasts for seven days and nights at most. If the target burns their clothes or fully immerses themselves in water, for example, the duration will be shortened even if the scent doesn’t disappear entirely.*
+“It lasts seven days and nights at most. If the target burns their clothes or submerges their whole body in water, for instance, the scent won’t vanish entirely, but it won’t last as long.”
 
-*Even so, you’d have to know you’d been marked with tracking scent before you could try any of that. You said that even most beasts can’t smell it properly.*
+“They’d have to know they’d been marked before they tried any of that, though. You said even most beasts can’t smell it.”
 
 “True. But spiritual creatures are different.”
 
@@ -124,11 +124,11 @@ Grrr. Sniff, sniff.
 
 A damp nose pressed against my palm, twitching with every sniff. I looked down at the White Tiger licking my fingers. Its rough tongue stung a little.
 
-“……Right. You’re here.”
+“…Right. I’ve got you.”
 
 A spiritual creature capable of smelling tracking scent. Just as Gung Gibang had said.
 
-This White Tiger—Muyaho—was even a spiritual creature intelligent enough to understand and communicate with humans from a young age.
+And this White Tiger, Muyaho, had been intelligent enough to understand people and communicate with them since he was young.
 
 *The intelligence of a spiritual creature, and senses sharper than any ordinary beast’s.*
 
@@ -152,7 +152,7 @@ I’d clenched my fist without realizing it. It trembled. Taishan watched me, bl
 
 “Pavilion Master. What’s wrong?”
 
-*It’s nothing. Nothing’s wrong, so let’s just keep going.*
+I wanted to tell him it was nothing. Nothing was wrong; we should keep going.
 
 My lips parted, but no words came out.
 
@@ -164,7 +164,7 @@ There was no reason to hesitate. Our route was already set, and the beasts were 
 
 So why was I hesitating?
 
-*What happens if I leave Nanman with them now? What comes after that?*
+*If I leave Nanman with them now, what happens next?*
 
 I already knew the answer. Maybe I’d known since the moment I climbed onto the White Tiger’s back.
 
@@ -174,49 +174,47 @@ Shaking off our pursuers and breaking through Baeksang’s net over heaven and e
 
 Would the people who had set out to rescue us still be alive by then?
 
-No. If this incident had even put the Beast Miao King in danger, would Dark Heaven have any reason to hesitate before carrying out its sinister scheme?
+And if this had put even the Beast Miao King in danger, what reason would Dark Heaven have to delay its scheme any longer?
 
-*They’ll die. Dozens. Hundreds. Maybe even thousands of people.*
+*They’ll die. Dozens, hundreds—maybe more than a thousand.*
 
 I blinked slowly. Eyes closed or open, the world was still dark. There was no sign of dawn.
 
 *Fuck. It was like this when I first got to boot camp.*
 
-The sudden thought made me let out a hollow laugh.
+The thought came out of nowhere, and I let out a short, hollow laugh. Come to think of it, maybe boot camp had been the best time of my life.
 
 Back then, I could fuck up as badly as I liked and still be forgiven. Things had changed.
 
 I’d come close to death more times than I could count. I’d survived after leaving dying comrades behind. I’d shut myself in my room for days and bawled like an idiot, swearing I’d never lose my people again.
 
-When I came to my senses and looked around, I found myself with a great deal to be responsible for.
+Then one day, I got the System. When I finally looked around, I had more people to answer for than I’d ever imagined.
 
-Everything happening in the world felt like it was my fault, and I pitied the innocent people losing their lives in the process.
+It felt as if everything that went wrong in the world was my fault, and it hurt to see innocent people die in the middle of it. Each time, I thought the same thing.
 
 *What if I’d been there?*
 
 Now all I could do was laugh at myself. Those thoughts felt like a sham—like I’d been playing dress-up, trying to look like a hero.
 
-That was right.
-
 I wasn’t a heroic martial artist. I wasn’t the hero of some superhero movie.
 
-But today, the people who had watched me flee until the very end were true heroic martial artists—true heroes.
+But the people who had watched me flee until I disappeared into the darkness today? They were heroic martial artists. They were heroes.
 
 “No need to thank us.”
 
-*Of course. Nanman was only repaying the debt it owed you.*
+“That’s right. We’re only repaying a debt Nanman owes you.”
 
 “My hyung was on Ailao Mountain. Thanks to you, I’ll get to see him again.”
 
 “Please look after the Young Palace Lord.”
 
-Dozens of faces brushed through the darkness.
+Dozens of faces passed through my mind in the darkness. Some were young men. Others were graying, middle-aged men.
 
 How skilled were they? If I set my mind to it, I could bring every one of them down within moments.
 
 That only made what they’d done more remarkable. They hadn’t stayed to win. They’d stayed to die.
 
-They would hurl their bodies against the solid stone, even if they were ultimately smashed to pieces.
+Even if they were eggs thrown against a rock, they wouldn’t retreat. They would hurl themselves at that hard stone, even knowing they’d be smashed to pieces.
 
 *Maybe that’s happening right now.*
 
@@ -254,7 +252,7 @@ His gaze darted around. Namho realized Yayul Mok’s plan had succeeded. Then he
 
 “…Why? Why isn’t that bastard here?”
 
-At the old man’s voice, filled with confusion, Taishan turned his head.
+Taishan turned at the confusion in the old man’s voice.
 
 “Namho. You awake?”
 

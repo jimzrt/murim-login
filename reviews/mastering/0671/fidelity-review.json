@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "As far as I knew, tracking scent was an unusual object made for following someone’s trail, just as its name suggested.",
+      "defect": "The translation omits that tracking scent was uncommon but still used, and the examples of the Lower District Sect and the Beggars’ Sect. The next sentence jumps directly to the Successor Beggar.",
+      "id": "F01",
+      "rationale": "The source gives both the item’s limited but real use and two examples before explaining the narrator’s good fortune in knowing the Successor Beggar.",
+      "replacement": "As far as I knew, tracking scent was an unusual object made for following someone’s trail, just as its name suggested. It wasn’t commonly found, but it wasn’t entirely unused, either. Among the orthodox faction, for example, there were the Lower District Sect and the Beggars’ Sect.",
+      "severity": "minor",
+      "source": "Lines 99–103"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Back then, I could fuck up as badly as I liked and still be forgiven. Things had changed.",
+      "defect": "The translation drops the narrator’s reflection that boot camp might have been the best time.",
+      "id": "F02",
+      "rationale": "The source explicitly says, before explaining why, that the narrator now thinks boot camp may have been the best.",
+      "replacement": "Thinking back, maybe boot camp had been the best. Back then, I could fuck up as badly as I liked and still be forgiven. Things had changed.",
+      "severity": "minor",
+      "source": "Line 225"
+    },
+    {
+      "confidence": 0.99,
+      "current": "When I came to my senses and looked around, I found myself with a great deal to be responsible for.",
+      "defect": "The translation omits the event that one day he obtained the System.",
+      "id": "F03",
+      "rationale": "The source states that he obtained the System before describing how, after coming to his senses, he found himself with many responsibilities.",
+      "replacement": "Then, one day, I obtained the System. When I came to my senses and looked around, I found myself with a great deal to be responsible for.",
+      "severity": "minor",
+      "source": "Lines 233–234"
+    },
+    {
+      "confidence": 0.98,
+      "current": "They hadn’t stayed to win. They’d stayed to die.\n\nThey would hurl their bodies against the solid stone, even if they were ultimately smashed to pieces.",
+      "defect": "The translation drops the explicit egg-against-rock image and the statement that they would not retreat.",
+      "id": "F04",
+      "rationale": "The source uses 이란격석 (striking an egg against a rock) and says they would not retreat, preserving both the futile-resistance image and their resolve.",
+      "replacement": "They hadn’t stayed to win. They’d stayed to die.\n\nEven if the whole thing was like striking an egg against a rock, they wouldn’t back down. They’d hurl their bodies against the solid stone, even if they were ultimately smashed to pieces.",
+      "severity": "minor",
+      "source": "Lines 269–270"
+    }
+  ],
+  "summary": "The assembled copy has several omissions and loses a source-specific image; the remaining content is broadly faithful.",
+  "version": 1
+}
