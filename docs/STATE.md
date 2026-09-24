@@ -1,20 +1,21 @@
 # Translation State
 
-- Last completed: 1005
-- Next chapter: 1006
-- Current block: 1005–1009 (1/5)
-- Latest translation: `translations/1005.md`
-- Latest summary: `summaries/beats/1005.md`
-- Safe profiles through: chapter 1005
+- Last completed: 1006
+- Next chapter: 1007
+- Current block: 1005–1009 (2/5)
+- Latest translation: `translations/1006.md`
+- Latest summary: `summaries/beats/1006.md`
+- Safe profiles through: chapter 1006
 
 ## Current Block
 
-- After four days of hard travel, the Fire Dragon Pavilion members rest over a feast. Song Ilseom and Hyuk Mujin bicker over seniority, while Song reflects on the Pavilion’s formidable eccentrics. He then notices that Taishan has stopped eating; Namho, who had been lost in thought, says he recognizes what he smells and asks the others to be quiet.
+- Sima Gong reveals that Gansu has assembled thirty thousand martial artists and established three defensive lines across Dunhuang, the Great Snow Mountain, and the Qilian Mountains, with the Kongtong Sect already deployed. The force includes dark-path figures, but Sima and Jeok Cheongang affirm that they are fighting for the Murim Alliance; Sima stakes his life on keeping them in check. He says ominous signs prompted him to send scouts beyond the desert and urges Jeok to go to Qinghai, though he expects Dark Heaven to target Gansu. As the meeting considers the plan, an urgent voice calls from outside the closed doors.
 
 ## Open Questions
 
-- Why has Taishan stopped eating, and what has caught Namho's attention?
-- Why did Sama Pyo's eyes sink as his father approached?
+- What did the scouts find beyond the desert, and what ominous signs prompted their mission?
+- What is the urgent message from the messenger outside the meeting room?
+- Why has Taishan stopped eating, and what caught Namho’s attention?
 
 ## Exceptional Decision
 
