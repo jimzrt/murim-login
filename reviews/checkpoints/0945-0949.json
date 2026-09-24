@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But no matter how much the sect had grown, there was no question it couldn’t weather the crisis right on its doorstep.",
+      "defect": "“No question it couldn’t” implies the sect could survive the crisis, contradicting Jin Wikyung’s reason for ordering a retreat.",
+      "id": "C01",
+      "rationale": "Restores the intended threat without changing the surrounding assessment.",
+      "replacement": "But no matter how much the sect had grown, there was no way it could weather the crisis right on its doorstep.",
+      "severity": "major",
+      "source": "Chapter 949, assessment of the Mount Heng Sword Sect"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“...!”\n\n“I know. I know the enemy is strong.",
+      "defect": "Uses three periods instead of the required ellipsis character.",
+      "id": "C02",
+      "rationale": "Matches the packet’s specified ellipsis formatting.",
+      "replacement": "“…!”\n\n“I know. I know the enemy is strong.",
+      "severity": "minor",
+      "source": "Chapter 949, Jin Wikyung’s reaction after Wipeng recalls the warning about retreat"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Hyung.”\n\n“...!”",
+      "defect": "Uses three periods instead of the required ellipsis character.",
+      "id": "C03",
+      "rationale": "Matches the packet’s specified ellipsis formatting.",
+      "replacement": "“Hyung.”\n\n“…!”",
+      "severity": "minor",
+      "source": "Chapter 949, Jin Wikyung’s reaction to his younger brother"
+    }
+  ],
+  "summary": "The packet is largely consistent. One reversed meaning and two ellipsis-formatting slips are actionable.",
+  "version": 1
+}

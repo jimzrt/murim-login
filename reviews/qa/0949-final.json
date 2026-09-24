@@ -1,0 +1,55 @@
+{
+  "chapter": 949,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.148,
+    "source_characters": 6098,
+    "source_paragraphs": 171,
+    "translation_characters": 13098,
+    "translation_paragraphs": 171
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사술",
+        "preferred": "dark arts"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고자",
+        "preferred": "eunuch"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "세가",
+        "preferred": "great family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "그분",
+        "preferred": "that person"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

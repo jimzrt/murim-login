@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He passed a martial artist of the Mount Heng Sword Sect, dying with eyes wide open as he faced yet another enemy.",
+      "defect": "The draft makes the dying martial artist face another enemy. Jin Wikyung is the one who passes him to face that enemy.",
+      "id": "F01",
+      "rationale": "또 다른 적을 상대하기 위해 gives Jin Wikyung’s reason for passing the dying man.",
+      "replacement": "He passed a Mount Heng Sword Sect martial artist who was dying with his eyes wide open, hurrying to face another enemy.",
+      "severity": "critical",
+      "source": "또 다른 적을 상대하기 위해 눈을 부릅뜬 채 죽어 가는 항산검문의 무인을 지나쳤으며."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Chinggen is calculating and cautious, but he isn’t lacking in ambition.",
+      "defect": "The draft turns a limitation in Chinggen’s capacity into a claim about his ambition.",
+      "id": "F02",
+      "rationale": "그릇이 작지 describes the limits of what Chinggen is capable of undertaking; the following lines say neither khan has the power to mount this campaign.",
+      "replacement": "Chinggen is calculating and cautious, but he lacks the stature for this.",
+      "severity": "major",
+      "source": "칭겐은 심계가 깊고 신중하나 지닌바 그릇이 작지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The empires they built had vanished without a trace,",
+      "defect": "The draft makes the empire plural.",
+      "id": "F03",
+      "rationale": "제국 is singular here.",
+      "replacement": "The empire they built had vanished without a trace,",
+      "severity": "minor",
+      "source": "그들이 세운 제국은 흔적도 없이 사라졌고"
+    },
+    {
+      "confidence": 0.86,
+      "current": "Creeeak.",
+      "defect": "A creak suggests a noisy, resistant hinge rather than the soft sliding sound in the source.",
+      "id": "F04",
+      "rationale": "스륵 conveys a smooth, quiet movement.",
+      "replacement": "The door slid open softly.",
+      "severity": "minor",
+      "source": "스륵."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it reverses who faces an enemy in a battle memory and misstates Chinggen’s limitation.",
+  "version": 1
+}
