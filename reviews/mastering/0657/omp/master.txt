@@ -56,17 +56,17 @@ That much was easy to tell. From the moment he’d entered the Western Yao Estat
 
 “That young man standing over there. The tallest one, with the broad build.”
 
-The hand that had trembled like an aspen tree when he set down the bowls of noodles was, for some reason, perfectly still this time.
+When he’d set down our bowls of noodles, his hand had shaken like a leaf. For some reason, the hand pointing at me now was perfectly steady.
 
 *Damn it.*
 
-His finger pointed directly at me. I shut my mouth, the atmosphere around us began to stir, and the script Baeksang had meticulously prepared raced toward its conclusion.
+I shut my mouth. A murmur ran through the crowd, and Baeksang’s carefully prepared script raced toward its conclusion.
 
 “Are you certain it was him? You must not tell even the slightest lie.”
 
 The old shopkeeper swallowed hard before answering.
 
-“Yes, without a doubt. I may be old and worn-out, but I’m not so blind that I can’t recognize a customer standing right in front of me. His build was exceptionally large, and he was wearing a tiger mask, so he stood out in my memory.”
+“Yes, without a doubt. I may be old, but I can still recognize a customer who sat right in front of me. He was unusually big, and he wore a tiger mask. That made him particularly memorable.”
 
 “Half the people in the Outer Palace must be wearing masks right now. Did you report him as suspicious for that reason alone?”
 
@@ -84,7 +84,7 @@ The old shopkeeper glanced at me, then continued cautiously.
 
 “I see. Continue.”
 
-“But later, when he drank the broth, the mask must have felt too restrictive, because he raised it slightly. That was the first and only time I saw his face.”
+“But later, when he drank the broth, he seemed to find it too much of a bother and lifted the mask a little. That was the first and only time I saw his face.”
 
 *So that was when.*
 
@@ -92,7 +92,7 @@ If I showed my whole face, they might realize I was Han Chinese. But keeping the
 
 *And the old man who looked ready to die any day saw it and remembered.*
 
-At first, my excessive caution had drawn suspicion. Later, overlooking the existence of the old shopkeeper had brought me to this situation.
+First, being too cautious had made him suspicious. Then I’d failed to take the old shopkeeper seriously. Now it had come back to bite me.
 
 Baeksang, in his usual even tone, was bringing the matter to a close.
 
@@ -108,7 +108,7 @@ Baeksang, in his usual even tone, was bringing the matter to a close.
 
 “Yes, of course. I’ve lived in the Outer Palace all my life, but I’d never seen him around before, so I remember him clearly. The same goes for that young man.”
 
-“Then they were certainly outsiders who entered during the Tribal Grand Council. If we make likenesses of them and investigate, it should be easy to identify them. When did they leave?”
+“Then he must be a tribesman from outside who came for the Tribal Grand Council. A likeness and an inquiry should identify him soon enough. When did they leave?”
 
 “Around Insi. They stayed about as long as it takes to drink a cup of tea. The Outer Palace has been setting off firecrackers at regular intervals, so I remember the time clearly.”
 
@@ -156,9 +156,9 @@ Maybe it would have gone a little better than this. But Baeksang had prepared th
 
 I could claim the old noodle seller was lying, but… come on. If Baeksang were stupid enough to fall for that, he wouldn’t have made it this far.
 
-*Besides, a master like Baeksang would realize just by looking at the wounds on the assassins who attacked us that most of them weren’t my handiwork.*
+*And a master like Baeksang could tell from the wounds on the assassins who attacked us that I didn’t kill most of them.*
 
-Without Heugung there to corroborate my statement, telling the truth would only make me a shameless culprit.
+Without Heugung here to back me up, telling the truth would only leave me looking like a culprit brazen enough to admit where I’d been.
 
 *Though I suppose that would beat being a culprit caught in a lie.*
 
@@ -204,15 +204,13 @@ At my scornful answer, Baeksang’s eyes darkened.
 
 “Then I have no choice.”
 
-At the same time—
-
 Shing. Tsstststst!
 
-A dazzling radiance surged from the pure-white blade he drew in a flash. Baeksang lowered his treasured sword, infused with Sword Force, and slowly stepped forward.
+He drew his sword in a flash. Dazzling light surged from its pure-white blade. With the Sword Force-infused weapon lowered at his side, Baeksang took a slow step forward.
 
 “Warriors of the Nanman Beast Palace, listen. We will use our full strength to seize the criminal Jin Taekyung. Not a single mistake will be tolerated—”
 
-At that moment, a roar-like shout erupted from somewhere, drowning out the words that were about to leave Baeksang’s mouth.
+A roar cut him off.
 
 “Baeksang!”
 
@@ -260,11 +258,11 @@ The Beast Miao King’s eyes widened. Baeksang was saying he would risk war with
 
 “This is a conversation between tribal chieftains, not between lord and subject. The Young Palace Lord has no authority here. Stay out of it.”
 
-“But how could you! How could you dare make such a unilateral decision on your own!”
+“But how can you make such a decision on your own?”
 
 “On my own…”
 
-Baeksang muttered the words softly, then suddenly raised his head and looked at the sky.
+Baeksang murmured the words, then looked up at the sky.
 
 The thick darkness around us had begun to lift. Light was slowly spreading from the east.
 

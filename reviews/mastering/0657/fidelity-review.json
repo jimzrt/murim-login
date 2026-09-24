@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "They stayed about as long as it takes to drink a cup of tea.",
+      "defect": "The source says they stayed for about one dagyeong, roughly fifteen minutes. The tea-drinking comparison is not in the Korean.",
+      "id": "F01",
+      "rationale": "일 다경 정도 specifies a duration; it does not describe how long drinking tea takes.",
+      "replacement": "They stayed for about a quarter of an hour.",
+      "severity": "minor",
+      "source": "Line 125"
+    },
+    {
+      "confidence": 0.88,
+      "current": "hunt him down with everything we have.",
+      "defect": "This conveys pursuit but leaves out the killing intent in 추살.",
+      "id": "F02",
+      "rationale": "추살 means to pursue someone in order to kill them, not merely to track them down.",
+      "replacement": "hunt him down and kill him with everything we have.",
+      "severity": "minor",
+      "source": "Line 269"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it replaces a stated duration with an unsupported comparison and softens Baeksang’s intent to pursue and kill.",
+  "version": 1
+}
