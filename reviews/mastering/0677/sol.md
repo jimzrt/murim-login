@@ -4,7 +4,7 @@
 
 The stone gate swung open, spilling light into the darkness.
 
-Heugung and Yohi, whose eyes had grown accustomed to the darkness, instinctively shrank back and groaned. Then a voice bored into their ears.
+Heugung and Yohi flinched and groaned, their eyes long since accustomed to the dark. Then a voice reached them.
 
 “Oh-ho. Now that’s a sight worth seeing.”
 
@@ -16,9 +16,9 @@ Heugung and Yohi, whose eyes had grown accustomed to the darkness, instinctively
 
 The voice slurred and swayed as though its owner were drunk. Both of them trembled.
 
-Was it because they felt humiliated by the mockery and ridicule in his words?
+Was it the mockery in his words that made them shake?
 
-No. It was because of fear. Because of terror.
+No. It was fear.
 
 *That voice…*
 
@@ -28,7 +28,7 @@ How could she forget the voice of the Fiend who had appeared like a ghost, slaug
 
 Her mind went blank. Beside her, Heugung whispered as quietly as he could.
 
-“Remember this. You must never open your eyes—”
+“Remember. Whatever happens, don’t open your eyes—”
 
 *Boom!*
 
@@ -42,7 +42,7 @@ Yohi squeezed her eyes shut as he had told her. She could not see him, but it wa
 
 *Boom! Thud.*
 
-Another blast of displaced air rang out, and Yohi could no longer endure it. She opened her eyes.
+Another blast rang out. Yohi could bear it no longer and opened her eyes.
 
 Heugung lay on the floor, his whole body bound. He had vomited what looked like a full doe[^1] of blood. The Fiend stood over him.
 
@@ -50,11 +50,11 @@ Heugung lay on the floor, his whole body bound. He had vomited what looked like 
 
 “I heard you were a clever woman. Seems that was just a rumor.”
 
-The Fiend revealed yellow teeth in a grin as Yohi’s voice slipped between her trembling lips.
+The Fiend bared his yellow teeth in a grin.
 
-His white hair was nearly as disheveled as a bird’s nest, and his eyes were narrow slits. He had hidden his face behind a mask in the Western Yao Estate, but there was no doubt that the old man before her was the same Fiend.
+His white hair hung in wild disarray, and his eyes were narrow slits. He had worn a mask at the Western Yao Estate, but there was no mistaking him.
 
-“Why didn’t you listen to that fellow? If you hadn’t seen this old man’s face, you might have lived for another fifteen minutes.”
+“Why didn’t you listen to him? If you hadn’t seen this old man’s face, you might have lived at least another fifteen minutes.”
 
 “……!”
 
@@ -78,9 +78,9 @@ Someone beyond the gate answered.
 
 The voice was as cold as eternal snow. Black Hand smacked his lips.
 
-“Of course not. I was talking to myself. Just talking to myself.”
+“Of course not. Just talking to myself.”
 
-“Stop acting like a reckless brat. You haven’t forgotten the order given by Her Majesty the Demon Empress, have you?”
+“Enough of this reckless behavior. Surely you haven’t forgotten the Demon Empress’s order.”
 
 Black Hand’s face twisted.
 
@@ -100,15 +100,11 @@ To Black Hand, it might have been a passing complaint. Yohi had to fight to keep
 
 *There’s someone else.*
 
-*That person possesses enough seniority and martial prowess to make even the Fiend before me obey him.*
+She did not know who had spoken from beyond the gate. Their exchange had told her enough: he was old and powerful enough to make even the Fiend before her obey.
 
 And there was something more.
 
-*The Demon Empress. He definitely said the Demon Empress.*
-
-Two words that had appeared in the middle of their short conversation.
-
-The Demon Empress.
+*The Demon Empress. He said the Demon Empress.*
 
 Yohi knew whom he meant.
 
@@ -116,9 +112,9 @@ Yohi knew whom he meant.
 
 One of Dark Heaven’s core figures, said to be unnaturally beautiful and more dangerous still.
 
-Everything concerning the Southern Heaven Demon Empress was treated as top-secret information. But Yohi was one of Nanman’s four Great Chieftains, so she was an exception.
+Information about her was kept strictly secret, but Yohi was one of Nanman’s four Great Chieftains. She was an exception.
 
-More importantly, she had a great tree named Baeksang whom she could trust and rely on.
+More importantly, she had always believed she could rely on Baeksang.
 
 > “Stand by my side, and I’ll give you what you want.”
 
@@ -134,9 +130,9 @@ He had said it when they first met, shortly after Yohi became a Great Chieftain.
 
 > “Even if I accept your offer, Great Chieftain Baeksang, I won’t get as much as I want. I’m more ambitious than I look. And I’m not naive enough to make Palace Lord Yayul my enemy over a promise you might not keep.”
 
-> “You inherited the Western Yao Estate when you took the position of Great Chieftain. Do you have any trustworthy subordinates there?”
+> “You inherited the Western Yao Estate when you became Great Chieftain. Do you have people you trust there?”
 
-> “Of course. But why are you suddenly asking about that…?”
+> “Of course. Why do you ask…?”
 
 > “I thought I might send a belated gift to congratulate you. Five carts of gold should be enough to start with.”
 
@@ -166,9 +162,9 @@ As if his irritation had vanished, Black Hand gave her a hazy, drunken smile.
 
 “I’ve heard the gist of it. They said things went smoothly for us thanks to you. I’ll give Baeksang that much—for a barbarian, he handled his part rather well.”
 
-Yohi’s pupils shook violently.
+Yohi’s eyes shook.
 
-She could not believe the situation she was in: not only had she served as a pawn of Dark Heaven, she was now in danger of dying.
+She had been a pawn of Dark Heaven, and now she might die for it. She could scarcely believe it.
 
 “That can’t be. It can’t. I didn’t know…”
 
@@ -176,9 +172,9 @@ She could not believe the situation she was in: not only had she served as a paw
 
 “……!”
 
-“I don’t even need to ask. After all, you followed that bastard Baeksang for more than ten years. A woman who had risen to become a Great Chieftain would naturally have had her doubts.”
+“I needn’t ask. You followed Baeksang for more than ten years. A woman capable of becoming Great Chieftain must have had her doubts.”
 
-Yohi could only stare blankly at Black Hand as he chuckled.
+Black Hand chuckled. Yohi could only stare at him.
 
 Everything he said was true.
 
@@ -192,13 +188,13 @@ She had gained too much to expose everything and try to put it right.
 
 The Yao people looked up to the woman who had restored their weakening tribe. Chieftains who had once treated her like a little girl now bowed their heads first.
 
-Even the mighty Beast Miao King and Baeksang would eventually return to the earth as a handful of soil. When that time came, she might even be able to reach for the vacant throne.
+Even the mighty Beast Miao King and Baeksang would one day return to dust. When they did, she could set her sights on the vacant seat of power.
 
-She would rise to the position of Palace Lord as a woman and rewrite the history of the Nanman Beast Palace.
+She would become Palace Lord—the first woman to do so—and rewrite the history of the Nanman Beast Palace.
 
 That was the ambition Yohi had dwelt on every night. Now it was collapsing around her.
 
-“Even so, you should be grateful to this old man. If the previous Great Chieftain of the Yao people hadn’t died suddenly, how could a stupid woman like you have lived in luxury until now?”
+“You ought to thank this old man. If the previous Great Chieftain of the Yao people hadn’t died suddenly, how would a stupid little bitch like you have spent all these years living in luxury?”
 
 “Th-that can’t mean…”
 
@@ -210,7 +206,7 @@ Black Hand grinned.
 
 “……!”
 
-“Baeksang’s expression back then was truly something to see. He dragged things out to the bitter end, insisting he would somehow persuade the old man… Still, perhaps the bastard had a strong survival instinct, because he never came charging in. What a shame.”
+“You should have seen Baeksang’s face. He dragged it out to the end, insisting he’d find a way to persuade the old man… But he never came after me. I suppose that’s why the bastard has managed to stay alive so long. A pity.”
 
 Yohi stared at him, hollow-eyed. She thought nothing could surprise her now. She thought she had no strength left for it.
 
@@ -220,7 +216,7 @@ She was wrong.
 
 *Tracking scent.*
 
-At the three words that slipped from Black Hand’s dark lips, Yohi’s delicate body suddenly went rigid.
+Yohi went rigid at the words.
 
 Black Hand saw the last of her hope break, and his delight spilled over.
 
@@ -232,7 +228,7 @@ He chuckled at the despair in her trembling eyes. He had seen it countless times
 
 A palm mottled with black spots, true to his name, stroked her pale cheek.
 
-“You’re truly beautiful. Beautiful enough for Her Majesty the Demon Empress to covet.”
+“You really are beautiful. No wonder the Demon Empress wants you.”
 
 He opened his mouth like a predator over its prey. The stench from his teeth was foul; every one of them was rotten or grotesquely twisted.
 
@@ -256,7 +252,7 @@ It was time to welcome the guest who had come such a long way.
 
 My method of calling out enemies was simple.
 
-I broke things, wrecked things, and smashed them to pieces.
+Break things. Wreck things. Smash them to pieces.
 
 Poison Mist? Venomous beasts? Enemies hiding somewhere, waiting for their chance?
 
@@ -268,11 +264,11 @@ Before long, it worked.
 
 “What a vigorous young man.”
 
-“I expected the Beast Miao King if someone came looking for us… So you’re Jin Taekyung?”
+“I expected the Beast Miao King to come looking for us… Are you Jin Taekyung?”
 
 I followed the voices and slowly turned around.
 
-A short, squat old man swaying as though he were drugged, and a tall old man radiating such cold that I wondered if his hometown was King Sejong Station in Antarctica.
+One old man was short and squat, swaying as if he were on something. The other was tall and gave off so much cold I wondered if he’d grown up at King Sejong Station in Antarctica.
 
 They could hardly have looked less alike. But they had two things in common.
 

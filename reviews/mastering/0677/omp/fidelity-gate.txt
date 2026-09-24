@@ -1,0 +1,35 @@
+{
+  "summary": "The chapter is largely faithful, but a metaphor is rendered literally and one contrast in Yohi’s reflection is weakened.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 125–126",
+      "current": "More importantly, she had a great tree named Baeksang whom she could trust and rely on.",
+      "defect": "“거목” describes a prominent, dependable person metaphorically; “a great tree named Baeksang” reads as though Baeksang were literally a tree.",
+      "replacement": "More importantly, she had a towering figure named Baeksang whom she could trust and rely on.",
+      "rationale": "The source calls Baeksang a 거목 she can 믿고 기댈 만한—someone substantial enough to trust and lean on—not a literal tree.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 167–169",
+      "current": "She thought her judgment had been sound.",
+      "defect": "The source first says Yohi realized her judgment was right, then immediately retracts that certainty: she had only believed it was right. “She thought” weakens the first beat and blurs the reversal.",
+      "replacement": "She realized her judgment had been right.",
+      "rationale": "The contrast between 깨달았다 and 옳았다고 믿었다 establishes a brief moment of realization followed by the narrator’s correction.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 7",
+      "current": "The stone gate swung open, spilling light into the darkness.",
+      "defect": "“Swung” adds a hinged, swinging motion not established by the source.",
+      "replacement": "The stone gate suddenly opened, spilling light into the darkness.",
+      "rationale": "The source says the stone gate suddenly opened and light flowed out; it does not specify that the gate swung.",
+      "confidence": 0.87
+    }
+  ]
+}
