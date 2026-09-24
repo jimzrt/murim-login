@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "more than two hundred livestock and more than thirty houses burned down.",
+      "defect": "The Korean quantities indicate approximately two hundred livestock and thirty or so houses; “more than” asserts lower bounds the source does not establish.",
+      "id": "F01",
+      "rationale": "The suffix 여 conveys an approximate quantity here, not a definite count exceeding the stated number.",
+      "replacement": "about two hundred livestock and around thirty houses burned down.",
+      "severity": "minor",
+      "source": "Lines 145: 이백여 마리의 가축과 삼십여 개의 가옥"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Or perhaps he meant for me to think one more time about what I was about to say.",
+      "defect": "This repeats the preceding sentence's interpretation of Namho's signal and omits the source's separate observation that the situation was unfolding ominously.",
+      "id": "F02",
+      "rationale": "The source gives the warning about reconsidering what to say once, then adds that the situation itself was ominous.",
+      "replacement": "The situation was unfolding ominously.",
+      "severity": "minor",
+      "source": "Line 233: 그만큼 상황이 불길하게 흘러가고 있었으니까."
+    }
+  ],
+  "summary": "The assembled chapter is broadly faithful, with a quantity overstated and one source detail omitted.",
+  "version": 1
+}

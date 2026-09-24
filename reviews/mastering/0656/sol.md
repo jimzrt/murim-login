@@ -12,7 +12,7 @@ Then a cold voice broke the silence.
 
 “The culprit walks out on his own two feet.”
 
-The instant I met Baeksang’s deeply sunken eyes, a hollow laugh escaped me before I knew it.
+I met Baeksang’s sunken eyes, and a hollow laugh escaped me.
 
 “Ha.”
 
@@ -120,7 +120,7 @@ Whispers rose around us.
 
 Baeksang, who had remained kneeling in silent respect, stood.
 
-“Last year, a fire broke out in the western forest. It happened because of the carelessness of drunken Bai warriors, and as a result, more than two hundred livestock and more than thirty houses burned down.”
+“Last year, a fire broke out in the western forest. Drunken Bai warriors had been careless. Some two hundred livestock and thirty houses burned.”
 
 His voice remained dry.
 
@@ -152,13 +152,13 @@ I didn’t get a chance to answer. No sooner had Baeksang finished speaking than
 
 *Damn it. Was this what he’d been after from the start?*
 
-I had fully expected Baeksang to have established a sufficient alibi, but the timing and flow with which he revealed it were too perfect.
+I’d expected him to have an alibi. What I hadn’t expected was how perfectly he would time its revelation.
 
-As though they had been waiting for this very moment, the chieftains following Baeksang raised their voices more loudly than anyone.
+As if they had been waiting for their cue, the chieftains who followed him were the first to raise their voices.
 
 “Palace Lord, Great Chieftain Baeksang speaks the truth. He was with us at the Southern Bai Estate from the moment the banquet ended.”
 
-“The Jingpo Chieftain is correct! I, along with the Lahu people, swear it before Heaven!”
+“The Jingpo Chieftain is right! I and the Lahu people swear it before Heaven!”
 
 “The Wa people vouch for Great Chieftain Baeksang as well! When the tragedy occurred, we were meeting to prepare for tomorrow’s Tribal Grand Council!”
 
@@ -194,13 +194,13 @@ He was writing two characters.
 
 Namho was telling me not to speak. Or perhaps to think again before I said what I was about to say.
 
-Or perhaps he meant for me to think one more time about what I was about to say.
+Things were going that badly.
 
 *What if I tell them I met Heugung?*
 
 Would they believe me? More likely, Baeksang and his chieftains would turn it against me.
 
-Heugung had said he slipped out of his residence without anyone noticing, and he had even changed his appearance with the Bone-Shrinking Technique.
+Heugung had slipped out of his residence unnoticed and changed his appearance with the Bone-Shrinking Technique.
 
 *I can’t prove it.*
 
@@ -210,9 +210,9 @@ On the other hand, saying I’d left my quarters for no reason would be digging 
 
 “My quarters.”
 
-Countless thoughts flashed through my mind, but little time passed. I answered without much delay, then took a deep breath and continued.
+Countless thoughts had crossed my mind, but little time had passed. I took a deep breath and continued.
 
-“I remained in my quarters immediately after the banquet ended. Then I was attacked.”
+“I was in my quarters after the banquet. Then we were attacked.”
 
 “Attacked?”
 
@@ -224,7 +224,7 @@ Yayul Mok had been shaken by the turn of events, but he made his voice steady.
 
 “That’s right. Some of the Inner Palace guards and I reached the scene about half an hour ago. We also confirmed that the warriors patrolling the area had been killed.”
 
-After the Beast Miao King, Yayul Mok also came to my aid, and the murmuring around us grew louder.
+With both father and son speaking for me, the murmurs grew louder.
 
 But I had been watching Baeksang all along, and I realized once again that something was wrong.
 
@@ -240,9 +240,9 @@ Before I could stop him, Yayul Mok answered.
 
 He never finished. He couldn’t.
 
-Because Baeksang’s voice pierced everyone’s ears in the next moment.
+Baeksang’s next words cut through the estate.
 
-“Strong enough to kill a Supreme Peak master who inherited the Fire King’s legacy?”
+“Formidable enough to kill a Supreme Peak master trained by the Fire King?”
 
 “……!”
 
@@ -256,13 +256,13 @@ Yet I felt calmer.
 
 Not because I thought I could get out of this. I had already half accepted what was happening.
 
-This trap was large and deep—far beyond anything I had imagined.
+The trap was wider and deeper than I’d imagined.
 
 *When did it start? How much of this was planned?*
 
 I stared at Baeksang, still searching for answers, and spoke.
 
-“I don’t think this is the end.”
+“I don’t think that’s all you have.”
 
 He nodded at once.
 
@@ -274,7 +274,7 @@ He nodded at once.
 
 Snap.
 
-With his dry answer, Baeksang snapped his fingers. From the half-destroyed gate of the Western Yao Estate, a faint presence began to draw closer.
+Baeksang snapped his fingers. A faint presence approached from beyond the half-destroyed gate of the Western Yao Estate.
 
 Step. Step.
 
