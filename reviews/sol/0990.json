@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "“Even so, who could’ve imagined the Saber King would leave us so suddenly?”\n\n“Suddenly? Don’t ever say something so foolish in front of me again. Great Hero Peng never lost his sense of justice, right up to the end.”",
+      "defect": "“Suddenly” makes the objection about timing rather than the suggestion that Peng’s death was futile.",
+      "id": "F01",
+      "rationale": "The second speaker objects to 덧없이 because Peng retained 의기 to the end.",
+      "replacement": "“Even so, who could’ve imagined the Saber King would meet such a pointless end?”\n\n“Pointless? Don’t ever say that in front of me again. Great Hero Peng held fast to his chivalrous spirit until the very end.”",
+      "severity": "major",
+      "source": "“아무리 그래도 그렇지. 설마하니 도왕(刀王)께서 이처럼 덧없이 떠나실 줄이야.”\n\n“덧없이? 그런 헛소리는 내 앞에서 두 번 다시 꺼내지 말게. 팽 대협께서는 마지막까지 의기(義氣)를 잃지 않으셨어.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I’m not falling for—”",
+      "defect": "The line drops the belated polite ending, losing the joke of the boy catching himself speaking casually.",
+      "id": "F02",
+      "rationale": "The boy starts with informal 안 속아, then adds 요; the interruption reflects his attempted return to polite speech.",
+      "replacement": "“I’m not falling for… that, sir.”",
+      "severity": "major",
+      "source": "“안 속아……요.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“He’s…”\n\n“What?”\n\n“He. Not ‘that person’—he.”",
+      "defect": "English “he” does not convey the honorific distinction the boy insists on.",
+      "id": "F03",
+      "rationale": "The boy corrects 그 사람 to the respectful 그분, revealing his reverence for his idol.",
+      "replacement": "“Show him some respect.”\n\n“What?”\n\n“Don’t call him ‘that person.’ Speak of him with respect.”",
+      "severity": "major",
+      "source": "“그분이야.”\n\n“뭐?”\n\n“그분. 그 사람이 아니라, 그분이라고.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "He wondered what good it did to tell all this to a complete stranger who looked even more clueless than he was.",
+      "defect": "“Than he was” adds a comparison in which the boy regards himself as clueless.",
+      "id": "F04",
+      "rationale": "The source describes the stranger’s apparent foolishness without comparing him to the boy.",
+      "replacement": "He wondered what good it did to tell all this to a complete stranger who looked so dim-witted.",
+      "severity": "minor",
+      "source": "생면부지의, 그것도 한참 모자라 보이는 청년에게 이런 말을 해서 무엇 하나 싶은 마음이 들었기 때문이었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "—Didn’t I tell you? If you disappear without a word one more time, I’ll kill you, Sword Saint’s Disciple or not.",
+      "defect": "“Or not” softens the dismissive force of 나발이고.",
+      "id": "F05",
+      "rationale": "나발이고 contemptuously dismisses the protection or status implied by being the Sword Saint’s Disciple.",
+      "replacement": "—Didn’t I tell you? Disappear without a word one more time and I’ll kill you. I don’t give a damn if you’re the Sword Saint’s Disciple.",
+      "severity": "major",
+      "source": "- 말했지. 한 번만 더 말없이 사라지면 검성의 제자고 나발이고 죽여 버린다고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—The candied hawthorn skewers fell.",
+      "defect": "“Fell” turns running out of food into a physical accident and changes Cheongpung’s reason for leaving. The existing footnote also has no reference.",
+      "id": "F06",
+      "rationale": "떨어졌어요 means the supply ran out here; the draft’s existing footnote defines the food at its first mention.",
+      "replacement": "—I ran out of candied hawthorn skewers[^1].",
+      "severity": "critical",
+      "source": "- 빙당호로가 떨어졌어요."
+    }
+  ],
+  "summary": "Several lines change the meaning of the death, the boy’s correction, or Cheongpung’s reason for leaving; the draft also misses a speech-level joke and leaves a footnote unreferenced.",
+  "version": 1
+}

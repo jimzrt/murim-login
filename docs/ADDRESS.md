@@ -1471,3 +1471,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 벽력도왕 | younger martial artist to senior martial master | Great Hero Peng | formal and deferential | Taekyung offers a respectful salute and addresses Peng as 팽 대협. |
 | 적천강 | 팽철후 | longtime friends and rivals adopting brotherly terms | Jeok hyung | informal and familiar | Peng accepts Jeok as his older brother; Jeok offers to call him younger brother, though they reserve that address for a future reunion. |
 | 팽철후 | 적천강 | longtime friends and rivals adopting brotherly terms | Jeok hyung | informal and familiar | Peng addresses Jeok as hyung in their final conversation. |
+| 살성 | 청풍 | senior martial figure to younger companion | you | blunt and familiar | The Slaughter Saint scolds Cheongpung for disappearing without a word. |
+| 청풍 | 살성 | younger companion to senior martial figure | old man | polite and familiar | Cheongpung apologizes and explains why he wandered off. |

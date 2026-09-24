@@ -1,6 +1,6 @@
 # Jang-pal (장팔)
 
-- **Safe through:** Chapter 452
+- **Safe through:** Chapter 990
 - **Aliases:** None
 - **Role:** Woodcutter from Jang Family Village who encounters and helps the unnamed old man.
 - **Personality:** Simple, kind, polite, and guileless.
