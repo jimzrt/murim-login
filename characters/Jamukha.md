@@ -1,6 +1,6 @@
 # Jamukha (자무카)
 
-- **Safe through:** Chapter 972
+- **Safe through:** Chapter 974
 - **Aliases:** None
 - **Role:** Jamukha is the ruler of the western steppe and a former eastern-steppe chieftain recruited into Dark Heaven by Murong Baek.
 - **Personality:** Patient and driven by a long-standing desire to avenge his defeat by Peng Cheolhu.
