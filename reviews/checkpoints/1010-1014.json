@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Back then, Ma Junggeol and his six sworn brothers knew little about martial arts. That was how Ma Junggeol and his six sworn brothers, whose martial arts were still rudimentary back then, had survived as a mounted-bandit group.",
+      "defect": "The second sentence repeats the names and the point about their limited martial arts.",
+      "id": "C01",
+      "rationale": "Keeps the contrast between their weak martial arts and their successful bluff without repeating it.",
+      "replacement": "Back then, Ma Junggeol and his six sworn brothers knew little about martial arts. That was how they had survived as a mounted-bandit group.",
+      "severity": "minor",
+      "source": "Chapter 1011, Ma Junggeol’s account of his bandit days"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“If I dig around and anything comes out later, it’s ten hits per syllable. Still nothing?”",
+      "defect": "Jeok begins at ten hits, but Taekyung immediately calls it a hundred and Jeok then offers to lower it to ten.",
+      "id": "C02",
+      "rationale": "Restores the numerical progression of the exchange without changing its punchline.",
+      "replacement": "“If I dig around and anything comes out later, it’s a hundred hits per syllable. Still nothing?”",
+      "severity": "major",
+      "source": "Chapter 1012, Jeok Cheongang’s threat to Ma Junggeol"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Because the Lord wouldn’t have wanted us to. Thanks to him, we changed our ways and have lived well ever since. We’re not animals—how could we go around openly blabbing about that?”",
+      "defect": "As an answer to why they hid the advice, “wouldn’t have wanted us to” says the Lord would not have wanted them to hide it; the next sentence says the opposite.",
+      "id": "C03",
+      "rationale": "Makes the object of the Lord’s presumed objection explicit and consistent with Ma’s explanation.",
+      "replacement": "“Because the Lord wouldn’t have wanted us to tell anyone. Thanks to him, we changed our ways and have lived well ever since. We’re not animals—how could we go around openly blabbing about that?”",
+      "severity": "major",
+      "source": "Chapter 1013, Ma Junggeol explains why he withheld the Lord’s advice"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Six of the Seven Masters left to fetch the Lord within five days of the march’s halt; Ma Junggeol stayed with Taekyung’s group.",
+      "defect": "“Within five days of the march’s halt” makes the halt the deadline’s starting point. Taekyung orders them back within five days regardless of where the march stops.",
+      "id": "C04",
+      "rationale": "Preserves the deadline and the uncertainty about the force’s destination.",
+      "replacement": "Six of the Seven Masters left to fetch the Lord and were ordered back within five days, regardless of where the march stopped; Ma Junggeol stayed with Taekyung’s group.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Continuity bullet about the six Baekma Bang men"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Six of the Seven Masters left to fetch the Lord within five days of the march’s halt; Ma Junggeol remains with Taekyung’s group.",
+      "defect": "The active state repeats the mistaken implication that the five-day period begins when the march halts.",
+      "id": "C05",
+      "rationale": "Keeps the durable state aligned with Taekyung’s order in Chapter 1013.",
+      "replacement": "Six of the Seven Masters left to fetch the Lord and were ordered back within five days, regardless of where the march stops; Ma Junggeol remains with Taekyung’s group.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Durable state active_continuity entry about the six Baekma Bang men"
+    }
+  ],
+  "summary": "The reading copies and checkpoint state are largely consistent. Four actionable issues remain: two contradictions in dialogue, a duplicated sentence, and a deadline misstated in both summaries.",
+  "version": 1
+}

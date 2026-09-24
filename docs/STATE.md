@@ -1,15 +1,16 @@
 # Translation State
 
-- Last completed: 1013
-- Next chapter: 1014
-- Current block: 1010–1014 (4/5)
-- Latest translation: `translations/1013.md`
-- Latest summary: `summaries/beats/1013.md`
-- Safe profiles through: chapter 1013
+- Last completed: 1014
+- Next chapter: 1015
+- Current block: 1010–1014 (5/5)
+- Latest translation: `translations/1014.md`
+- Latest summary: `summaries/beats/1014.md`
+- Safe profiles through: chapter 1014
 
 ## Current Block
 
-- Taekyung challenges Ma Junggeol and the Seven Masters of Baekma Bang over their unexplained knowledge and the Lord’s possible connection to the crisis. Ma admits the Lord has advised them for more than ten years, helped them form Baekma Bang, encouraged their search for a western trade route, and urged them to seek Taekyung’s group. Taekyung sends six of the Seven Masters to fetch the Lord within five days, while Ma stays behind. Namho then says he has something important he can only tell Taekyung now.
+- As the Black Dragon Demon Gate’s forces ride toward the coming battle, two of its martial artists discuss Sama Pyo’s rumored past and his succession. One makes a taboo remark about Pyo surpassing his older half-siblings; a senior martial artist silences him and warns him of the danger.
+- Sima Gong questions Sama Pyo about failing to return to Gansu after receiving his order. Pyo admits he disobeyed and accepts punishment without excuse. Sima Gong says sending him to the Central Plains was the right decision and acknowledges his growth, then orders that the two martial artists be dealt with. Pyo rides on with Taishan, now bound for the Black Dragon Demon Gate rather than the Fire Dragon Pavilion.
 
 ## Open Questions
 
@@ -17,6 +18,7 @@
 - Will the six Baekma Bang men return with the Lord within Taekyung’s deadline?
 - What does Namho need to tell Taekyung, and why can he only tell him now?
 - What is Dark Heaven’s full strength and objective in the western desert, and have its forces begun advancing?
+- What consequences, if any, will Sama Pyo face for disobeying Sima Gong’s order?
 
 ## Exceptional Decision
 
