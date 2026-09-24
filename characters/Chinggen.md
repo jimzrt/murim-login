@@ -1,6 +1,6 @@
 # Chinggen (칭겐)
 
-- **Safe through:** Chapter 962
+- **Safe through:** Chapter 968
 - **Aliases:** None
 - **Role:** The real Chinggen, a Khan of the eastern grasslands and Temur’s sworn brother, is dead; the impostor who wore his face has revealed himself as the Demon Bird, an elderly and overwhelmingly powerful martial artist.
 - **Personality:** Prudent, restrained, and attentive to the danger posed by the gathering's other powers

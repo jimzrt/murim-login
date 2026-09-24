@@ -1450,3 +1450,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 마조 | 진무경 | hostile opponents | you | familiar and blunt, with admiration | Calls him a young Sword Demon and speaks to him with growing respect. |
 | 자무카 | 진무경 | hostile opponents | you | familiar, blunt, and patronizing | Jamukha uses 자네 while urging Mukyung to submit and become his hunting dog. |
 | 자무카 | 팽철후 | former battlefield opponents and current rivals | Thunderbolt Saber King Peng Cheolhu | informal and hostile | Jamukha first uses Cheolhu’s former title, then corrects himself to the current title. |
+| 벽력도왕 | 모용백 | former rivals turned comrades and friends | Murong Baek; Family Head Murong | familiar and warm | Peng Cheolhu greets him by name and asks whether he should now use his family-head title. |
+| 모용백 | 벽력도왕 | former rivals turned comrades and friends | you | familiar and cautionary | Murong Baek asks Peng Cheolhu whether he agrees that people like Jamukha require constant vigilance. |
