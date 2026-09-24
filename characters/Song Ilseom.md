@@ -1,6 +1,6 @@
 # Song Ilseom (송일섬)
 
-- **Safe through:** Chapter 1015
+- **Safe through:** Chapter 1016
 - **Aliases:** Escort Captain Song
 - **Role:** Song Ilseom is a Level 110 escort captain of the Yongbong Escort Bureau, one of its Dragon-Phoenix Three Escorts, and a member of Jin Taekyung and Cheongpung’s Fire Dragon Pavilion.
 - **Personality:** Blunt, decisive, survival-hardened, and dryly self-aware, with little patience for insults or disorder and practical survival skills such as making disguise masks.
