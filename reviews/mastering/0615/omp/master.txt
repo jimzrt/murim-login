@@ -1,10 +1,10 @@
 # Chapter 615
 
-The road to Yunnan Province—the region officially known by that name, though people in the Central Plains commonly called it Nanman—was long and arduous.
+The road to Yunnan Province, commonly called Nanman in the Central Plains, was long and arduous.
 
 *Prrrff. Prrf.*
 
-The horse’s breathing was ragged.
+The horses were breathing hard.
 
 We had ridden without a break for a full four shichen since leaving Mount Daebyeol. Now, having entered Hubei on the fine horses Ju Hwaran had procured, we eased the reins for a moment in an unfamiliar ravine.
 
@@ -12,21 +12,21 @@ We had ridden without a break for a full four shichen since leaving Mount Daebye
 
 “Me?”
 
-Of course I knew. Just thinking about it made my calves cramp even now.
+Of course I knew. Just thinking about that trip still made my calves ache.
 
 I nodded without thinking as Ju Hwaran looked at me with her clear, sparkling eyes.
 
-“Of course. It was really fucki—”
+“Of course. It was really fu—”
 
 “Pardon?”
 
-“It was a little… difficult. A little.”
+“A little difficult. Just a little.”
 
 I’d barely stopped myself from saying that something had almost fallen off back then.
 
 I, Jin Taekyung, was merciless toward men, but a warm and considerate gentleman toward women.
 
-Of course, despite having lived this long, I had never once been in a relationship.
+Not that I’d ever managed to date anyone.
 
 “Even using a movement technique, it took me nearly half a month.”
 
@@ -38,7 +38,7 @@ I gave her a questioning look. Ju Hwaran smiled and pulled an old leather scroll
 
 *What’s that?*
 
-Just as I began to wonder, Song Ilseom, who was sitting in the saddle and inspecting the edge of his willow-leaf saber, spoke with an unexpected look on his face.
+As I wondered, Song Ilseom looked up from inspecting the edge of his willow-leaf saber in the saddle. He seemed surprised.
 
 “It’s made of horsehide. Is that from the horse caravans?”
 
@@ -68,13 +68,13 @@ After patiently listening to them, I spoke up.
 
 Well, all right. Now I knew what the horse caravans were.
 
-But I was pretty sure I had asked Ju Hwaran. Why were the answers coming from two dark-clad men?
+But I was pretty sure I’d asked Ju Hwaran. Why had two men answered instead?
 
 Song Ilseom and Sama Pyo, who had spoken almost at the same time, turned to look at each other.
 
-“You’re more knowledgeable than you look.”
+“You know more than you look like you would.”
 
-“Than I look? Have you forgotten where the Black Dragon Demon Gate is located? Horse caravans are still active in Gansu, where our sect is based.”
+“Than I look like I would? Have you forgotten where the Black Dragon Demon Gate is based? Horse caravans still operate in Gansu, where our sect is.”
 
 “Operate? You mean they’re being squeezed dry?”
 
@@ -82,19 +82,19 @@ Song Ilseom gave a short laugh.
 
 “I’ve heard the rumors. The Black Dragon Demon Gate controls the trade routes and collects enormous tolls.”
 
-“I heard you were a wandering martial artist. Do you have some bad blood with our sect?”
+“I heard you used to be a wandering martial artist. Do you have some grudge against our sect?”
 
-“Not particularly. I just want to kill any demonic, heterodox practitioner I see.”
+“Not particularly. I just want to kill any demonic, heterodox bastard I see.”
 
-“We agree on that point. I can’t stand meeting people who draw their weapons before anything else. So, are you finished tending to your weapon?”
+“We agree on one thing, then. I can’t stand people who come at me sword-first. Finished tending to your weapon?”
 
 “Not yet. But it’ll have blood on it soon enough, so I can finish later.”
 
-“Then let’s move somewhere else for a while.”
+“Then let’s move somewhere else.”
 
 How the hell had the conversation gotten here?
 
-I stared blankly at the two men as they amicably turned their horses around, then opened my mouth.
+I stared as the two of them turned their horses around together.
 
 “Move where, you lunatics?”
 
@@ -114,7 +114,7 @@ The Nanman expedition had barely set out, and already it was showing signs of fa
 
 Two sharp blasts cut through the air.
 
-Song Ilseom and Sama Pyo landed on the ground after avoiding the Finger Qi I had fired at them. Just as they reflexively began to draw their weapons, I warned them in a calm voice.
+Song Ilseom and Sama Pyo dodged the Finger Qi I fired and landed on the ground. They instinctively reached for their weapons.
 
 “You’ll regret drawing those,” I said calmly.
 
@@ -124,21 +124,19 @@ Song Ilseom and Sama Pyo landed on the ground after avoiding the Finger Qi I had
 
 It wasn’t just a warning. They felt the immense qi pressing in from every direction and froze.
 
-Unmistakable astonishment appeared in their trembling eyes.
+Their eyes shook with unmistakable surprise.
 
 *He’s strong.*
 
-That was what their gazes said.
-
-And it was an undeniable fact.
+That was what their looks said, and neither of them could deny it.
 
 Sama Pyo, the Black Dragon Saber, was Young Sect Leader of the Black Dragon Demon Gate, the dominant power in Gansu, and the unorthodox faction’s foremost young prodigy. Song Ilseom, the Soul-Chasing Guest, had become a legend by cutting down countless enemies on battlefields and in life-and-death duels. Both of them understood exactly what they were facing.
 
 No—because they were anything but mediocre Peak masters, they understood it all the better.
 
-A person standing at a higher place could see farther and grasp the whole picture.
+The higher you stood, the farther you could see.
 
-*I was already two moves above them before, but the pressure they’re feeling now must be much greater.*
+*I was already two moves ahead of them before. The pressure they feel from me now must be even worse.*
 
 As always, I had woken up stronger than I’d been when I fell asleep.
 
@@ -162,7 +160,7 @@ Song Ilseom and Sama Pyo stared at each other, lips pressed tight. It didn’t t
 
 *Shrrrk. Click.*
 
-With a cold scraping sound, the two blades that had been faintly exposed disappeared from view.
+With a faint metallic scrape, the slivers of blade showing above their scabbards disappeared.
 
 They climbed back into their saddles as though nothing had happened. Ju Hwaran watched them and let out a quiet sigh.
 
@@ -170,21 +168,21 @@ They climbed back into their saddles as though nothing had happened. Ju Hwaran w
 
 So had I. But I’d thought long and hard about the possibility before accepting those two into the Fire Dragon Pavilion.
 
-*Their feelings toward each other probably aren’t very good. Especially from Song Ilseom’s perspective.*
+*They were never going to get along. Especially from Song Ilseom’s side.*
 
 It went back decades, to when the orthodox and demonic factions had divided the world between them and fought their decisive battle.
 
 A bold young escort named Zhu had accepted a woman’s commission and made the Ten-Thousand-Mile Escorts a legend. The child that woman bore grew up, had a son, and passed away.
 
-That son was Song Ilseom—the last descendant of the Guangdong Chen Family, which had been wiped out by demonic, heterodox arts.
+That son was Song Ilseom—the last descendant of the Guangdong Chen Family, wiped out by demonic, heterodox practitioners.
 
-Unless he was Buddha or Jesus, it was only natural that he would harbor hatred toward the unorthodox faction.
+Unless he was Buddha or Jesus, of course he hated the unorthodox faction.
 
 *I just didn’t think it would come to a head this fast.*
 
 Shit, how many shichen had we even been on the road? Was the whole expedition already about to fall apart? I was starting to understand why college students hated group projects.
 
-And that was true even if I excluded the two men who had become archenemies faster than anyone in Murim history.
+And that was without counting the two men who had become enemies faster than anyone in Murim history.
 
 “Captain, maybe it’s because I got hit in the stomach earlier, but I keep needing to take a shit.”
 
@@ -194,7 +192,7 @@ And that was true even if I excluded the two men who had become archenemies fast
 
 Look at this lineup. For fuck’s sake.
 
-Watching Hyuk Mujin, whose stomach was more active than his body, and Taishan, the Tiger Giant Child, who seemed to have an inventory instead of a stomach, made my vision go dark.
+There was Hyuk Mujin, whose bowels worked harder than the rest of him, and Taishan, the Tiger Giant Child, who seemed to have an Inventory in place of a stomach. Just looking at them made everything seem bleak.
 
 But even here, I had one ray of light.
 
@@ -206,9 +204,7 @@ But even here, I had one ray of light.
 
 I meant it. Beautiful or not, she was the most normal person in the group.
 
-It was true that her martial arts were slightly weaker than those of the other members, but she had extensive knowledge of Murim and was excellent at finding her way.
-
-The fact that she had found a shortcut known only among the horse caravans proved it.
+Her martial arts were a little weaker than the others’, true, but she knew Murim well and could find her way around. She’d even found a shortcut supposedly known only to the horse caravans.
 
 So why wasn’t she answering?
 
@@ -234,9 +230,7 @@ I didn’t get another word out. Ju Hwaran hurried away as though she and her ho
 
 Song Ilseom. Sama Pyo. Hyuk Mujin. Even Taishan.
 
-Exactly four pairs of eyes were fixed in place, staring holes through me.
-
-Their mysterious gazes were impossible to interpret. I flinched instinctively and asked,
+Four pairs of eyes stared at me without moving. I couldn’t make sense of their expressions, and I flinched.
 
 “What? Why are you all looking at me like that?”
 
@@ -250,7 +244,7 @@ Song Ilseom and Sama Pyo slowly rode forward, both wearing complicated expressio
 
 “If you need to take a dump, why look at me?”
 
-“When I look at you, whatever was about to come out goes right back in.”
+“When I look at you, it goes right back in.”
 
 “Taishan. Just looking because hungry. Nothing else.”
 
@@ -260,11 +254,11 @@ Song Ilseom and Sama Pyo slowly rode forward, both wearing complicated expressio
 
 What kind of bullshit was that?
 
-I could understand Hyuk Mujin, but having that giant glutton look at me with such pity was deeply unsettling.
+I could write off Mujin, but having that giant glutton look at me with pity was unsettling as hell.
 
 Before I could press him, Taishan smacked his half-dead horse on the rump and charged off.
 
-“Taishan! Go! Horse go too!”
+“Taishan! Going! Horse coming too!”
 
 The horse, already looking half-dead, staggered into a run. Hyuk Mujin hurried after him.
 
@@ -278,7 +272,7 @@ The horse, already looking half-dead, staggered into a run. Hyuk Mujin hurried a
 
 Lunatics…
 
-But why did I feel like I was the one being ignored by those lunatics?
+Then why did I feel like those lunatics were looking down on me?
 
 I grabbed my reins, my face twisting as though I’d bitten into something foul.
 

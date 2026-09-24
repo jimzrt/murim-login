@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "While developing a martial art that could be widely taught to modern Hunters, I’d gained a small insight.",
+      "defect": "“Widely taught” describes how the martial art might be taught, but 보급형 means a standard-issue or mass-market type of martial art. The translation loses that distinction.",
+      "id": "F01",
+      "rationale": "The source says he gained insight in the process of establishing and creating 보급형 무공 for modern Hunters; it does not say the art was intended to be widely taught.",
+      "replacement": "While developing a standard-issue martial art for modern Hunters, I’d gained a small insight.",
+      "severity": "minor",
+      "source": "Korean line 145"
+    }
+  ],
+  "summary": "One source-fidelity defect: the description of the martial art changes its type from standard-issue to widely taught.",
+  "version": 1
+}
