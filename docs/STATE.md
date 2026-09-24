@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 926
-- Next chapter: 927
-- Current block: 925–929 (2/5)
-- Latest translation: `translations/0926.md`
-- Latest summary: `summaries/beats/0926.md`
-- Safe profiles through: chapter 926
+- Last completed: 927
+- Next chapter: 928
+- Current block: 925–929 (3/5)
+- Latest translation: `translations/0927.md`
+- Latest summary: `summaries/beats/0927.md`
+- Safe profiles through: chapter 927
 
 ## Current Block
 
-- Baek Yeon orders the arrest of the treasonous officials. Taekyung worries that innocent people may be caught in the purge, and the Emperor says he will honor Zhu Bao’s request to establish each person’s guilt and spare the innocent.
-- The Bow Saint leads Taekyung to a secluded garden and identifies him as the chosen one mentioned by the Martial God. She says he should have possessed powers to escape even death, then asks why he is in an irrecoverable state.
+- The Bow Saint reveals that she spent decades following a letter the Martial God left for her before Taekyung was born. It described a chosen one who would bring dawn to a darkened world, without naming a single person. She searched across the land and used the Imperial Palace’s information network while secretly staying there as a palace attendant. Taekyung and Cheongpung were the two people she considered possible candidates; seeing Taekyung rise after he should have died convinced her that he was the chosen one. Taekyung realizes the Bow Saint may have planted the Blood Soul Gu in the City Lord of Sichuan Province and asks her directly.
 
 ## Open Questions
 
-- Why is Taekyung in an irrecoverable state, and what powers was he supposed to possess as the Martial God’s chosen one?
+- Why did the Martial God’s letter describe a chosen one without pointing to only one person?
+- Did the Bow Saint plant the Blood Soul Gu in the City Lord of Sichuan Province?
 - What story has So Gyo kept to herself?
 - Where is Ma Sanbao, and what is his current status?
 - What did Wei Zhong tell Taekyung through Sound Transmission?
-- Will the Salcheonmun pursue Mungyeong or discover that Taekyung killed Gye Yabu?
 
 ## Exceptional Decision
 

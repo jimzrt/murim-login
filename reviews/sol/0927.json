@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "how had the handful of people who knew about my unusual power managed to let *them* find out?",
+      "defect": "Assigns responsibility for the disclosure to the handful of people close to Taekyung. The source only asks how the information reached the Bow Saint and Martial God.",
+      "id": "F01",
+      "rationale": "어찌 ‘저들’에게까지 알려졌는지 leaves the route of disclosure unknown.",
+      "replacement": "how had *they* learned about something only a handful of people knew about me?",
+      "severity": "critical",
+      "source": "극소수의 인물만이 알고 있는 내 특별함이 어찌 ‘저들’에게까지 알려졌는지에 대한 것이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At first, I found the news strange, but interesting.",
+      "defect": "Reverses her initial lack of interest into interest.",
+      "id": "F02",
+      "rationale": "관심이 가지 않았다 explicitly says she was not interested.",
+      "replacement": "At first, the names were unfamiliar, and they didn’t interest me.",
+      "severity": "critical",
+      "source": "처음에는 낯설면서도 관심이 가지 않았다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "And the chosen one didn’t refer to just one person.",
+      "defect": "Suggests that multiple people are the chosen one, rather than that the description did not identify one particular person.",
+      "id": "F03",
+      "rationale": "Her subsequent search weighs possible candidates; she has not established that there are multiple chosen ones.",
+      "replacement": "And ‘the chosen one’ didn’t point to any one specific person.",
+      "severity": "major",
+      "source": "그리고 그 선택받은 자는 비단 어느 한 사람만을 지칭하는 것이 아니었지."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Because the Martial God had said so.",
+      "defect": "Turns her faith in who he is into reliance on something he said.",
+      "id": "F04",
+      "rationale": "The source makes his identity itself the reason she could not dismiss the letter.",
+      "replacement": "Because he was the Martial God.",
+      "severity": "major",
+      "source": "그분은, 무신이니까."
+    },
+    {
+      "confidence": 0.95,
+      "current": "“How does that person—no, that *His*—”",
+      "defect": "The interrupted question is broken English and loses Taekyung’s audible correction to a more respectful way of referring to the Martial God.",
+      "id": "F05",
+      "rationale": "그 사람. 아니, 그분 marks a deliberate shift in deference before the Bow Saint finishes his question.",
+      "replacement": "“How could that man—no, how could the Martial God…”",
+      "severity": "major",
+      "source": "“그 사람. 아니, 그분이 어떻게…….”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "“A contingency he had prepared. No—perhaps a kind of prophecy.”",
+      "defect": "“Contingency” implies a backup measure rather than an arrangement or plan.",
+      "id": "F06",
+      "rationale": "안배 describes something deliberately arranged; the source does not say it was a fallback.",
+      "replacement": "“An arrangement he had made. No—perhaps a kind of prophecy.”",
+      "severity": "minor",
+      "source": "그분께서 준비하신 안배(按排). 아니, 어쩌면 일종의 예언(豫言)."
+    }
+  ],
+  "summary": "Several passages change who knew what or imply conclusions the source has not established; one reverses the Bow Saint’s initial reaction to Taekyung.",
+  "version": 1
+}
