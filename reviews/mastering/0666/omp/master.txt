@@ -46,7 +46,7 @@ The Beast Miao King regarded Baeksang with a grave expression. He knew the balan
 
 “That is not what I’m asking.”
 
-The Beast Miao King cut off Baeksang’s words and continued with a sigh.
+The Beast Miao King cut him off and spoke as if on a sigh.
 
 “Did you tell Jin Taekyung about Hwi?”
 
@@ -66,7 +66,7 @@ Baeksang fell silent. *We.* The word struck him with unexpected force. Once, it 
 
 And yet…
 
-Grind.
+Crunch.
 
 “That was when you and I stood on the same path, Palace Lord.”
 
@@ -120,13 +120,13 @@ Even against the Zhongnan Sect alone, Nanman had been at a disadvantage.
 
 Venerable Wusang, the Sect Leader of the time, had earned the respect of many through his bearing as a Great Hero. When he died in the final battle at Great Snow Mountain, countless sects and martial artists came to Mount Zhongnan.
 
-“I merely made a choice. Between the dead and the living, between revenge and the greater cause.”
+“I made a choice. Between the dead and those still living. Between revenge and the greater cause.”
 
 What followed was known to everyone.
 
 The Beast Miao King led the survivors home to Nanman and faced a flood of accusations from those who had lost family.
 
-“My life was filled with regrets. But I never regretted that choice—not even once. Because we united as one, grew stronger and more prosperous than before, and gained the power to hold the criminals of the past to account.”
+“My life has been full of regrets. But I have never regretted the choice I made then. Not once. We came together as one, grew stronger and more prosperous, and gained the power to hold those who committed the crimes of the past to account.”
 
 Baeksang’s face hardened at this story he had never heard before. Yet as he looked at the Beast Miao King, something he could not understand stirred in his eyes.
 
@@ -134,7 +134,7 @@ Baeksang’s face hardened at this story he had never heard before. Yet as he lo
 
 “Yes,” the Beast Miao King answered without hesitation. “I will.”
 
-“Why in the world…”
+“Why…”
 
 “Because burning down an entire forest over one diseased tree would be foolish.”
 
@@ -154,11 +154,11 @@ And…
 
 The man who understood it best was his sworn younger brother, looking back at him now with wavering eyes.
 
-“I know. I know that no matter what this foolish older brother says, none of it will reach your ears. You will say that it is an old affair you no longer even remember, and that the Baeksang of that time died a long time ago.”
+“I know. Nothing this foolish older brother says will reach you. You’ll tell me it’s ancient history you barely remember, that the Baeksang you were then died long ago.”
 
-The Beast Miao King’s children had been killed by the Demonic Cult, but Baeksang’s only child had been sacrificed because people he had believed were allies turned their backs on him.
+The Beast Miao King’s children had been killed by the Demonic Cult. Baeksang’s only child had died because those he trusted as allies turned their backs on him. Their anger toward the Central Plains could never be the same in depth or degree.
 
-But the Beast Miao King had watched Baeksang for a long time. He had already guessed.
+But the Beast Miao King had watched Baeksang for a long time. He already knew.
 
 “If you don’t stop now… you’ll regret it. You regretted the past, you regret the present, and you’ll regret what comes next.”
 
@@ -172,17 +172,17 @@ Let them call him a vengeance fiend while he lived. Let them call him a Fiend af
 
 Why? Why in the world?
 
-Why would the thought he had repeated hundreds and thousands of times in his heart over the years refuse to pass through his lips at this very moment?
+Why couldn’t he say aloud what he had repeated to himself hundreds, thousands of times over the years?
 
 He had already gone too far to turn back. So why?
 
-*Why are you doing this, Baeksang?*
+*What’s wrong with you, Baeksang?*
 
 As Baeksang put that question to his hollow heart and found no answer, the Beast Miao King’s quiet voice reached his ears.
 
 “I could step down as Palace Lord.”
 
-Baeksang’s pupils shook at the unexpected words. But the Beast Miao King continued in a calmer voice than ever.
+Baeksang’s eyes wavered at the unexpected words. The Beast Miao King continued, calmer than ever.
 
 “You heard me. If you want me to, I’ll give up the position right now.”
 
@@ -200,7 +200,7 @@ But with Heugung and Yohi both gone, the meaning of the Beast Miao King’s offe
 
 The thirty-two tribal chieftains held the real power in the Nanman Beast Palace, but the authority of the Palace Lord’s title could not be ignored. To offer it now, of all times, was absurd.
 
-“What in the world is this…”
+“What are you…”
 
 Baeksang stared at him, unable to understand. Then he fell silent.
 
@@ -216,7 +216,7 @@ Half a shichen. *Them.*
 
 That was all Baeksang needed to turn suspicion into certainty. He asked, his voice seething, “Why? Why would you go this far?”
 
-The Beast Miao King’s answer came without the slightest tremor or hesitation.
+The Beast Miao King answered without a trace of hesitation.
 
 “Because they came to help us. Just as we once did.”
 
@@ -248,7 +248,7 @@ By the time anyone noticed, it was already too late.
 
 Swish. Thud.
 
-A body stiffened and fell. One of the figures caught the torch from his hand and moved his lips.
+A body went rigid and fell. One of the figures caught the torch from the falling man’s hand and parted his lips.
 
 “Open the underground prison.”
 

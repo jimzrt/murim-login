@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "Once it was the Demonic Cult. Now it’s Dark Heaven.",
+      "defect": "The Korean says the Demonic Cult acted that way in the past and Dark Heaven does so now, explicitly linking both to the preceding idea of fighting to protect the forest. The current wording names them but drops that parallel action.",
+      "id": "F01",
+      "rationale": "“그러했고…그러하다” refers back to the preceding action or state; the baseline also preserved this explicit parallel.",
+      "replacement": "The Demonic Cult did so in the past, and now Dark Heaven does.",
+      "severity": "minor",
+      "source": "Korean line 159"
+    }
+  ],
+  "summary": "The translation is largely faithful. One line weakens the source’s explicit parallel between the Demonic Cult and Dark Heaven.",
+  "version": 1
+}
