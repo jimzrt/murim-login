@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The nomads, still fighting without daring to interfere in their superior’s battle with someone who was practically a tyrant.",
+      "defect": "The draft makes the superior’s opponent sound like the tyrant; the source calls the superior himself practically a tyrant.",
+      "id": "F01",
+      "rationale": "폭군이나 다름없는 modifies 상관, not the person he is fighting.",
+      "replacement": "The nomads kept fighting, not daring to interfere in the battle of their superior, who was practically a tyrant.",
+      "severity": "critical",
+      "source": "감히 폭군이나 다름없는 상관의 싸움에 관여하지 못한 채 전투를 이어 가던 유목민들도"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The single, unusually clear sound of a blade slicing through flesh still rang in their ears.",
+      "defect": "The draft specifies flesh before the onlookers understand what was cut.",
+      "id": "F02",
+      "rationale": "절삭음 identifies a sound of cutting, but does not identify what was cut.",
+      "replacement": "The single, unusually clear slicing sound from moments ago still rang in their ears.",
+      "severity": "major",
+      "source": "조금 전, 유난히도 선명하게 울려 퍼진 한 줄기의 절삭음은 아직도 그들의 귓가에 맴돌고 있었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "And soon, someone else’s fresh blood filled the empty space.",
+      "defect": "“Someone else’s” asserts that the new blood belongs to a different person, though its owner has not yet been identified.",
+      "id": "F03",
+      "rationale": "누군가 leaves the person unidentified; it does not establish a contrast with the owner of the blood already in the pool.",
+      "replacement": "And soon, fresh blood from someone filled the space it had left.",
+      "severity": "major",
+      "source": "그리고 이내, 누군가의 새로운 피가 그 빈자리를 메웠다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Those who stepped into a new realm in a state of selflessness they couldn’t even remember always gave the same answer.",
+      "defect": "The draft says they cannot remember the state; the source says they lose awareness of themselves while in it.",
+      "id": "F04",
+      "rationale": "자신조차 잊은 describes losing oneself in the experience, not an inability to recall it afterward.",
+      "replacement": "Those who stepped into a new realm in a state of selflessness, forgetting even themselves, always gave the same answer.",
+      "severity": "major",
+      "source": "자신조차 잊은 무아(無我)의 상황에서 새로운 경지로 발돋움한 이들은 늘 같은 대답을 하곤 했으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Or perhaps he was simply pretending not to notice.",
+      "defect": "“Perhaps” turns the narrator’s correction into speculation.",
+      "id": "F05",
+      "rationale": "아니 corrects the preceding claim that he had no idea; 애써 makes his pretense deliberate.",
+      "replacement": "No—he was making an effort to pretend he hadn’t noticed.",
+      "severity": "major",
+      "source": "아니, 애써 모르는 척하며."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Drive every barbarian who dares invade this land out of here!”",
+      "defect": "“Drive ... out” turns an order to wipe out the invaders into an order merely to expel them.",
+      "id": "F06",
+      "rationale": "모조리 쓸어 버려라 calls for their complete destruction in this battle.",
+      "replacement": "“Wipe out every barbarian who dared invade this land!”",
+      "severity": "major",
+      "source": "“감히 이 땅을 침범한 오랑캐들을 모조리 쓸어 버려라!”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "And at the center of it all was a demon, staggering as he swallowed up countless lives.",
+      "defect": "The draft replaces blood with lives and changes the physical image.",
+      "id": "F07",
+      "rationale": "무수한 피 is blood, and 귀신 evokes a ghostlike figure rather than naming him a demon.",
+      "replacement": "And at the center of it all was a ghost, staggering as he drank in blood without end.",
+      "severity": "major",
+      "source": "그리고 그 중심에, 비틀거리는 신형으로 무수한 피를 집어삼키는 한 귀신이 있었다."
+    }
+  ],
+  "summary": "Several passages alter who is being described, resolve deliberate ambiguity, or soften the force of the source.",
+  "version": 1
+}
