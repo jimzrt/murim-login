@@ -40,7 +40,7 @@ His voice had grown colder. Yohi shrugged theatrically.
 
 I had no idea what they’d promised each other, but it sounded suspicious enough. Baeksang’s gaze darkened.
 
-“You’re saying pointless things in front of a Han Chinese man, Yohi.”
+“You’re saying things you shouldn’t in front of a Han Chinese bastard, Yohi.”
 
 *Fwoosh!*
 
@@ -104,7 +104,7 @@ For a moment, I had nothing to say. Baeksang stared at me, his gaze dark and ste
 
 “That is all I have to say. Get out of my sight before I deal with you myself.”
 
-Not because I was afraid of him, but because there was more to lose than to gain. This was a time to think calmly.
+Baeksang looked ready to make good on the threat. I rose instead of arguing—not because I feared him, but because I had more to lose than gain. I needed to keep a cool head.
 
 *Step.*
 
@@ -130,11 +130,9 @@ Fire blazed in his eyes. His voice seemed to boil. I held his gaze.
 
 Faced with all that fury, I found myself remembering someone who had been buried deep in my memory.
 
-*This…*
+*Could it be…?*
 
-I didn’t know whether this suspicion was true or whether it would end as nothing more than a guess.
-
-But before that, I had to show the proper respect for the reverse scale I had touched.[^1]
+I didn’t know whether my suspicion would prove true or remain just a suspicion. First, though, I owed him an apology for touching a nerve so raw.[^1]
 
 I bowed my head slightly to Baeksang and left the tent. All the way back to my quarters, I thought about a man who was unmistakably different from Baeksang, yet somehow resembled him.
 
@@ -160,7 +158,7 @@ I gave him a hard time whenever I got the chance, but we’d been through thick 
 
 *Maybe he can offer some decent advice.*
 
-Just as I was about to wave at him happily, Hyuk Mujin spotted me approaching and abruptly raised one hand.
+I was about to wave when Mujin spotted me and thrust a hand up. In it was a red-hot iron skewer.
 
 “Who goes there?”
 
@@ -210,7 +208,7 @@ He answered without thinking, then hurried to correct himself.
 
 What kind of bullshit was that?
 
-Was this one of those ideas that there were no bad tigers in the world?
+What, there are no bad tigers, only bad owners?
 
 I studied White Tiger’s teeth, caked with blood and bits of flesh. “Looks like he’d chew up a beast or a person in one bite. You mean he’s not a picky eater?”
 
@@ -264,9 +262,7 @@ I shook my head.
 
 “Not yet.”
 
-It wasn’t as though I had spent the past two days doing nothing. The Fire Dragon Pavilion members and I had been investigating both inside and outside the Nanman Beast Palace.
-
-I had Ju Hwaran and Hyuk Mujin investigate what was happening in the Inner Palace, while I led the remaining members in scouting the surrounding area.
+We hadn’t spent the last two days sitting around. The Fire Dragon Pavilion and I had been looking both inside and outside the Nanman Beast Palace. I’d tasked Ju Hwaran and Hyuk Mujin with finding out what was happening in the Inner Palace, while I led the others on patrols of the surrounding area.
 
 *We might find traces of Dark Heaven.*
 
