@@ -1,17 +1,16 @@
 # Translation State
 
-- Last completed: 939
-- Next chapter: 940
-- Current block: 935–939 (5/5)
-- Latest translation: `translations/0939.md`
-- Latest summary: `summaries/beats/0939.md`
-- Safe profiles through: chapter 939
+- Last completed: 940
+- Next chapter: 941
+- Current block: 940–944 (1/5)
+- Latest translation: `translations/0940.md`
+- Latest summary: `summaries/beats/0940.md`
+- Safe profiles through: chapter 940
 
 ## Current Block
 
-- Hyuk Mujin summons Jeok Cheongang and the Bow Saint to Taekyung. Messenger eagles sent across the night sky signal that the Great Nation’s imperial court is responding to urgent news.
-- Among the papers kept by the Eastern Heaven Demon Lord, Taekyung finds a missive titled “Shanxi Annihilation Plan.” It says Dark Heaven’s main force will cross the northern grasslands and invade Shanxi before the Double Ninth Festival, only about half a month away. The sender and the information’s accuracy remain unconfirmed, though Taekyung considers it highly credible.
-- The scene shifts to Temur and Chinggen, now Khans ruling together over a prosperous grassland. Chinggen is concerned about missing scouts and disturbances in the western grasslands, but Temur dismisses the danger as beyond their reach. A cold, dust-laden wind blows open their ger entrance.
+- The Emperor and Baek Yeon discuss how Baek once kept the Great Nation out of the Great Faction War, believing the Demonic Cult’s victory would have left a weaker, more dangerous Murim that the state could later dismantle. Now, with Dark Heaven threatening the realm, Baek pledges his service. The Emperor orders him to announce that he will personally lead the campaign, despite his failing health.
+- After receiving the warning that Dark Heaven’s main force may invade Shanxi Province before the Double Ninth Festival, Taekyung leaves the imperial palace with his companions, worried he may not arrive in time. Jeok Cheongang and the Bow Saint try to reassure him by discussing the Thunderbolt Saber King and the Hebei Peng Family’s strength and intelligence network. The Emperor waits at the palace gates and asks Taekyung whether he meant to leave without saying goodbye.
 
 ## Open Questions
 

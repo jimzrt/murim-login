@@ -2399,3 +2399,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소화산 | **Mount Small Hua** | Mountain where the historic battle took place. |
 | 여산 | **Mount Li** | The mountain Jeok Cheongang initially mistakes for Mount Small Hua. |
 | 종남 | **Zhongnan Sect** | Orthodox faction that fought in the historic battle. |
+| 칠문 | **Seven Gates** | The seven gates in the capital wall. |
+| 육부 | **Six Ministries** | The central government ministries. |
+| 도찰원 | **Censorate** | Imperial supervisory office. |
+| 한림원 | **Hanlin Academy** | Imperial scholarly institution. |
+| 통정사 | **Transmission Office** | Office preparing and transmitting court edicts. |
+| 오호도독부 | **Five Tiger Commandery** | Military command reporting naval mobilization. |
