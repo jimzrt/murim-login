@@ -36,7 +36,7 @@ Were they Hydras?
 
 People around here used phlegm like a passive Skill.
 
-The ethnic patrons spat onto the dusty floor and rose from their seats, their faces flushed red.
+The locals spat onto the dusty floor and rose from their seats, their faces flushed from drink.
 
 “Han bastards dare come here? Do they want to die?”
 
@@ -62,11 +62,11 @@ I realized who he was. “Are you the owner?”
 
 The old man looked at me in surprise when I spoke the local language fluently.
 
-“You can speak our language. Are you perhaps one of the Miao people?”
+“You speak our language? Are you Miao?”
 
 “No.”
 
-“Then you don’t look like the Bai or Man people either. Judging by your face, you’re definitely Han Chinese… but you speak remarkably well. I’d believe you were born and raised here.”
+“You don’t look Bai or Man, either. With that face, you must be Han Chinese… but you speak it remarkably well. I’d believe you were born and raised here.”
 
 As expected of the *Integrated Language Pack*. It certainly did its job.
 
@@ -110,7 +110,7 @@ Song Ilseom nodded silently. The old man slapped his knee.
 
 I held my tongue and asked what I’d been wanting to ask since he spoke up. “What did you mean earlier?”
 
-“Hm? What about?”
+“Hmm? By what?”
 
 “You said an Escort Bureau was why things had gotten like this. In your words, Han bastards like us.”
 
@@ -154,7 +154,7 @@ Sama Pyo glared at me before settling Taishan down. Meanwhile, the old man held 
 
 “Let’s see. One chicken per person is the minimum, so that’s five chickens. At one silver nyang each… ten silver nyang altogether.”
 
-“…Ten silver nyang? Even if it’s one nyang per chicken, that should be five silver nyang.”
+“…Ten? At one nyang each, five chickens would cost five.”
 
 “Is that so? Then make it two nyang each.”
 
@@ -176,7 +176,7 @@ It was highway robbery, but now wasn’t the time to save money. I took ten silv
 
 “For a Han, you catch on quickly.”
 
-Rustle.
+*Clink.*
 
 The old man swept up the gleaming silver with a grin. “Now, what about liquor?”
 
@@ -208,7 +208,7 @@ The question rose to my throat, but I swallowed it. We had bought information wi
 
 “The Heavenly Demon Escort Bureau?”
 
-“That’s right. As I recall, they definitely said they came from Sichuan. There was one woman, and with the other men, there were nearly thirty of them.”
+“That’s right. I remember them saying they came from Sichuan. One woman and the rest men—nearly thirty people in all.”
 
 The old man nodded, his face flushed with drink. “At first, nobody thought much of it. Han Chinese had come to Yeongin before, and their group wasn’t particularly large.”
 
@@ -220,15 +220,15 @@ But they had been wrong. His eyes reddened by drink, the old man slowly recalled
 
 “Our village was spared, thank goodness. But when we checked later, we found that some two hundred people had died that night. Men, women, children, even the elderly. Not one survived. It was those Han bastards’ doing, of course.”
 
-“Good grief.”
+“God…”
 
-It was a shocking and horrific story. Only now did I fully understand the hostile looks and oppressive atmosphere that had been directed at us.
+Now I understood the hostile looks we’d drawn on the way here.
 
-Two words came to mind.
+Two names came to mind.
 
 *Dark Heaven. And the Southern Heaven Demon Empress.*
 
-It was hardly an overreaction to be troubled by one woman who had been part of the Heavenly Demon Escort Bureau.
+That there had been a woman with the Heavenly Demon Escort Bureau was more than enough reason to be suspicious.
 
 I exchanged glances with the Fire Dragon Pavilion members, who had been listening with grim expressions, then took a sheet of paper from my Inventory.
 
@@ -236,19 +236,19 @@ I exchanged glances with the Fire Dragon Pavilion members, who had been listenin
 
 “What is it?”
 
-More precisely, it was a likeness of Honglan—or rather, the Southern Heaven Demon Empress—created from the testimony and memories of several people, including me.
+The paper bore a drawing—or, more precisely, a likeness of Honglan, the Southern Heaven Demon Empress, made from several people’s memories and descriptions, including mine.
 
 I showed it to him on the off chance he’d recognize her. His reaction was lukewarm.
 
 “That artist is quite skilled. Who is she?”
 
-“Hmm, no. I was just wondering if you recognized her.”
+“No one. I just wondered if you’d seen her.”
 
 “Never seen the woman in that drawing. I’d remember a beauty like that. Old as I am, I’m still a man.”
 
 It wasn’t the answer I’d hoped for, but I wasn’t too disappointed. Whatever sort of person the Southern Heaven Demon Empress was, she had a striking appearance. Ju Hwaran had hidden her face with the human-skin mask Song Ilseom made for her. The Demon Empress could have done the same in any number of ways.
 
-*It wouldn’t be strange at all for the Southern Heaven Demon Empress to have mastered an extraordinary disguise technique.*
+*It wouldn’t surprise me if she knew an extraordinary disguise technique.*
 
 I turned back to the old man. “Where are those Central Plains people from the Heavenly Demon Escort Bureau now?”
 
@@ -258,23 +258,23 @@ As if reading my thoughts, the old man asked, “Why? Thinking of going after th
 
 “If we can.”
 
-“Well, it’s an admirable thought, but it’ll be difficult. More than fifteen days have already passed.”
+“Admirable, but I doubt you can. It’s been more than half a month.”
 
 “If you know which way they went, or have some idea where they were headed, it’s worth a try.”
 
 Every Fire Dragon Pavilion member here was formidable. Even Hyuk Mujin, the least skilled among us, was a Supreme First Rate master who had survived countless battles and brushes with death.
 
-Yet despite my attitude, the old man merely let out a short laugh.
+The old man only gave a short laugh.
 
 “It’s impossible.”
 
 “Sir, I don’t think you understand—”
 
-“I’m not the one who fails to understand. You are. Every one of those Central Plains people is dead.”
+“I’m not the one who doesn’t understand. Every one of those Central Plains people is dead.”
 
 I froze. “What?”
 
-“I mean exactly what I said. There were countless tribal warriors among those who suffered that calamity. Do you think people like that would have stood by and let themselves be slaughtered? The Central Plains people all died too. We found their bodies after they were poisoned with deadly venom and collapsed before they could get very far.”
+“Just what I said. Plenty of tribal warriors were among those killed. Did you think their people would let that go? The Central Plains people died too. We found their bodies not far away. They’d been poisoned with a deadly toxin and collapsed before they could get far.”
 
 “…!”
 
