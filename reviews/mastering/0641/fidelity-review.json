@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I tightened my grip and tore the webbing apart.",
+      "defect": "The Korean specifies that hundreds of layers of webbing tore helplessly under the narrator’s tremendous grip. That image and the scale of the webbing are omitted.",
+      "id": "F01",
+      "rationale": "The source explicitly describes hundreds of layers tearing under the narrator’s immense grip; the accepted baseline also preserves this detail.",
+      "replacement": "The hundreds of layers of tangled web tore helplessly under my terrifying grip.",
+      "severity": "minor",
+      "source": "Lines 47–51"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Beast Miao King checked the unknown man’s faint pulse",
+      "defect": "The source says the man’s pulse was slow, not faint.",
+      "id": "F02",
+      "rationale": "완맥 means a slow pulse; the accepted baseline renders it that way.",
+      "replacement": "The Beast Miao King checked the unknown man’s slow pulse",
+      "severity": "minor",
+      "source": "Line 61"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Now I understood why the sight of this place had made my hair stand on end.",
+      "defect": "The source locates the reaction at the moment the narrator first set foot here. The translation instead attributes it to seeing the place.",
+      "id": "F03",
+      "rationale": "The Korean explicitly marks the moment of arrival and the narrator’s involuntary reaction.",
+      "replacement": "Now I understood why my hair had stood on end the moment I first set foot here.",
+      "severity": "minor",
+      "source": "Line 73"
+    },
+    {
+      "confidence": 0.9,
+      "current": "I’d bet they had a hand in it.",
+      "defect": "This suggests direct involvement more strongly than the source, which says they likely exerted at least some influence while leaving direct involvement uncertain.",
+      "id": "F04",
+      "rationale": "The narrator distinguishes uncertainty about direct involvement from confidence that Dark Heaven at least influenced events.",
+      "replacement": "They must have exerted at least some influence.",
+      "severity": "minor",
+      "source": "Line 125"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Every time his straightened palm moved",
+      "defect": "The source describes a straightened knife-hand, not a palm.",
+      "id": "F05",
+      "rationale": "수도 refers to a hand held like a blade; “palm” identifies a different part of the hand.",
+      "replacement": "Every time his straightened knife-hand moved",
+      "severity": "minor",
+      "source": "Line 265"
+    }
+  ],
+  "summary": "The translation is largely faithful, but it omits a web-tearing detail and shifts several physical or temporal details.",
+  "version": 1
+}

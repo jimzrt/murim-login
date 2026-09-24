@@ -4,7 +4,7 @@ Sometimes, the mere sight of something sends a chill down your spine and makes y
 
 Like everything in front of me now.
 
-*Fwoosh.*
+*Rustle.*
 
 Faint moonlight spilled through the swaying leaves, as mysterious as a scene from a myth. But it wasn’t shining on a peaceful blue lake.
 
@@ -41,7 +41,7 @@ A possibility struck me. I tightened my grip and tore the webbing apart.
 
 *Crack. Riiiip.*
 
-And when the shape concealed inside was revealed, the Beast Miao King, who had been watching from beside me, muttered like he was groaning.
+Hundreds of tangled layers gave way under my grip. When I saw what had been hidden inside, the Beast Miao King let out a groan.
 
 “A person?”
 
@@ -51,7 +51,7 @@ The man’s face was as white as paper, and his body lay perfectly still. The Be
 
 “Thank goodness. He’s still alive.”
 
-According to what the System had told me earlier, the Thousand-Year Spider’s webs did not contain poison powerful enough to kill their victims.
+I’d expected as much. According to the System, the poison in the Thousand-Year Spider’s webs wasn’t meant to kill its victims.
 
 The reason was probably…
 
@@ -65,7 +65,7 @@ Before it was the Thousand-Year Spiders’ home, this swamp was a slaughterhouse
 
 Only then did I detect the heavy smell of blood beneath the stench coming from all around us.
 
-“Spider bastards. They’ve sure been stuffing their faces for a long time.”
+“Spider bastards. They’ve been eating well for a long time.”
 
 Hundreds. No, perhaps thousands.
 
@@ -79,7 +79,7 @@ About three hundred elite warriors had been stationed at Ailao Mountain. The fiv
 
 Instead, we’d found them.
 
-“Would you look at these goddamn bastards! They deserve to die!”
+“Those goddamn things deserve to die!”
 
 The Beast Miao King’s eyes were red with fury. I tried to calm him down.
 
@@ -91,9 +91,9 @@ The Beast Miao King’s eyes were red with fury. I tried to calm him down.
 
 Well, I couldn’t argue with that. But for now, we needed to deal with the situation, not dwell on our anger.
 
-After calming down a little, the Beast Miao King looked around with a devastated expression.
+After a moment, the Beast Miao King looked around, his expression grim.
 
-“To think they dared to do something like this.”
+“To think they were doing this right under our noses.”
 
 “You said there hadn’t been any major losses before now, didn’t you?”
 
@@ -115,11 +115,11 @@ My voice trailed off. His point was sharper than I’d expected, and I couldn’
 
 *He’s right. If I were the Southern Heaven Demon Empress—that bitch—I wouldn’t have bothered.*
 
-Even without any interference, it was practically certain that the Nanman Beast Palace’s entry into the Murim Alliance would fall through. Dark Heaven had no reason to stir up Nanman for nothing.
+The Nanman Beast Palace’s entry into the Murim Alliance had seemed certain to fall through without Dark Heaven lifting a finger. They had no reason to stir up trouble in Nanman.
 
 *So why?*
 
-Ailao Mountain’s Wraith had appeared out of nowhere and still hadn’t shown itself. Five Thousand-Year Spiders had suddenly begun a massacre. And there was the question of whether they were connected to Dark Heaven.
+None of it made sense. Ailao Mountain’s Wraith had appeared suddenly and then vanished. Five Thousand-Year Spiders had gone on a killing spree out of nowhere. And I had no idea whether any of it was connected to Dark Heaven.
 
 I was still frowning over it when the Beast Miao King’s voice brought me back.
 
@@ -151,9 +151,9 @@ I nearly burst out laughing.
 
 Getting here had been difficult. Getting back would be far worse. We’d have to take some two hundred patients through the Poison Mist after they woke from several shichen of full-body paralysis and unconsciousness.
 
-*I’m not even sure how much the Myriad-Poison Ring can cover.*
+*And I don’t know how many people the Myriad-Poison Ring can protect.*
 
-The Myriad-Poison Ring certainly possessed mysterious power, but I couldn’t put two hundred lives through a fifty-fifty gacha roll just by trusting in this one item.
+It had mysterious powers, but I couldn’t stake two hundred lives on a fifty-fifty gacha roll just because I had one divine artifact. They were safer wrapped in the webs.
 
 “At least the Poison Mist doesn’t seem to affect them in there. Otherwise, they’d have died on the way here.”
 
@@ -163,7 +163,7 @@ In a sense, it was poison countering poison. The webs had been coffins on the jo
 
 Besides, even if I unwrapped and detoxified them one at a time, there was only so much I could do. Our conversations would probably go something like this:
 
-*All right, patient. Slowly open your eyes. Can you see the fingers I’m waving in front of you? If you can, tell me how many there are.*
+*All right, patient. Open your eyes slowly. Can you see the finger I’m holding up? How many fingers are there?*
 
 “Uhh… One. One.”
 
@@ -173,9 +173,9 @@ Besides, even if I unwrapped and detoxified them one at a time, there was only s
 
 *Right. It means fuck you.*
 
-“Huh? What are you talking about all of a sudden……?”
+“What? Why would you suddenly…?”
 
-*It was a simple test. Anyway, good. You can see and hear clearly now. Both your sight and hearing have recovered.*
+*Just a little test. Anyway, good. You can see and hear properly now. Your sight and hearing have both recovered.*
 
 “Thank you. Thank you so much, Han Chinese sir.”
 
@@ -221,27 +221,27 @@ Or two hundred against two. The Beast Miao King had a big, beautiful top-grade p
 
 His expression hardened. “Are you actually insane…?”
 
-If my department head had been here, he would have laughed. But it seemed the Palace Lord didn’t get the joke.
+A department head would have laughed, but apparently that joke didn’t work on a Palace Lord.
 
-The Beast Miao King looked me over with an expression like he was staring at a Thousand-Year Spider walking on two legs, then began gathering the warriors wrapped in webs into one place.
+The Beast Miao King gave me a look as if I were a Thousand-Year Spider walking on two legs, then began gathering the web-wrapped warriors in one place.
 
 *Slice. Slice.*
 
-Every time his straightened palm moved, the people hanging in midair were neatly stacked together.
+Each sweep of his straightened hand brought more of the people hanging overhead down into a neat pile.
 
 There were two hundred of them—almost exactly the number of warriors who had gone missing from Ailao Mountain.
 
 *Wait. What about the ferocious beasts?*
 
-One of the questions I had had while searching Ailao Mountain in the beginning: the missing ferocious beasts were nowhere to be seen.
+I was helping him move the survivors when the question I’d forgotten came back to me. The missing ferocious beasts had been one of the mysteries we’d found while searching Ailao Mountain, and there was no sign of them here.
 
-The Beast Miao King soon noticed it as well and wore a puzzled expression.
+The Beast Miao King noticed too.
 
-“That is strange. There is no sign of the ferocious beasts.”
+“Strange. I don’t see any of the beasts.”
 
 “Are they timid, by any chance? Do they tuck their tails and run when they meet strangers?”
 
-“I’m asking because I’m curious, but do you perhaps not know what ‘ferocious beast’ means?”
+“I have to ask. Do you know what ‘ferocious beast’ means?”
 
 Of course I did. *Ferocious. Beast.*
 
