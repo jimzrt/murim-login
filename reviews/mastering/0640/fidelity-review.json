@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The heavily built old man landed on the Thousand-Year Spider, using its enormous, barely living, convulsing body as a cushion.",
+      "defect": "The source says he lands on the ground with the spider’s body serving as a cushion. The current sentence instead says he lands on the spider. It also drops the source’s explicit contrast that “enormous” describes the spider better than “large.”",
+      "id": "F01",
+      "rationale": "The Korean says 지면에 내려앉은 (“landed on the ground”) and contrasts 크다 with 거대하다 to emphasize the spider’s scale.",
+      "replacement": "The heavily built old man landed on the ground, using the Thousand-Year Spider—better described as enormous than large—as a cushion while it convulsed, barely alive.",
+      "severity": "minor",
+      "source": "Korean lines 75–77"
+    }
+  ],
+  "summary": "One physical-detail error remains: the Beast Miao King lands on the ground, cushioned by the spider, not on the spider itself.",
+  "version": 1
+}

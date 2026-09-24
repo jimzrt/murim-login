@@ -30,7 +30,7 @@ Turning thousands of venomous beasts to ash had come at a steep price.
 
 The higher my Level rose, the less EXP I gained.
 
-Back when I had been a low-level nobody who could barely stand up to a single Peak master, leveling up could cover for that weakness to some extent. But now that my vessel had grown larger, I needed far more EXP to fill it, and even leveling up had become difficult.
+Back when I was a low-level nobody who struggled against a single Peak master, I could have counted on a Level Up to make up some of the damage. But my vessel had grown, and it took that much more EXP to fill it now. Even leveling up wasn’t easy anymore.
 
 “…Hng.”
 
@@ -46,7 +46,7 @@ Leaning on my spear in this sorry state, I wished Jeok Cheongang had taught me t
 
 He said it was too dangerous, but really, the difference would be no greater than the one between a pistol and an automatic rifle.
 
-To be honest, at this rate, I felt like I might die far from home using One Annihilation before then.
+At this rate, I might die using One Annihilation before I ever learned it.
 
 Not that I had the slightest intention of dying in a horrible place like this.
 
@@ -68,13 +68,13 @@ The Beast Miao King, his face flushed, spread both arms toward me.
 
 “Argh! Aaaagh!”
 
-“How did you do that? Was it the Fire Gate Clan’s unique martial art? Or the final ultimate technique Old Man Jeok learned?”
+“How did you do it? Is that a secret martial art of the Fire Gate Clan? Or the ultimate technique Old Master Jeok taught you?”
 
 *Whap! Whap!*
 
 “Uuuugh!”
 
-“What a monster! I couldn’t believe it even while watching!”
+“You monster! I saw it with my own eyes, and I still can’t believe it!”
 
 “Aaaaaagh! You crazy bastard!”
 
@@ -106,9 +106,9 @@ I didn’t have the strength to say anything else. Gasping through the pain, I g
 
 At my pitiful gestures, the Beast Miao King nodded in admiration.
 
-“I wondered if that was what you meant, but are you planning to use the Thousand-Year Spider to figure out the Poisonblood Grounds? You really are something.”
+“I wondered if that was your plan. You’re going to use the Thousand-Year Spider to learn more about the Poisonblood Grounds, aren’t you? You really are something.”
 
-“Ah, please.”
+“Please.”
 
 “Ha, all right. Just as you asked, I brought it here alive and unharmed—”
 
@@ -128,17 +128,12 @@ The monster gave a brief death cry. Then heavenly bells rang from somewhere.
 
 > **System**
 >
-> - You defeated **Level 119 Thousand-Year Spider**!
->
-> - Additional EXP has been awarded for defeating a rare entity!
->
-> - Level Up!
->
-> - The damaged body has been substantially restored!
->
+> - Defeated **Lv. 119 Thousand-Year Spider**!
+> - Additional **EXP** awarded for defeating a rare creature!
+> - **Level Up!**
+> - Your injured body has largely recovered!
 > - All status abnormalities have been removed!
->
-> - Warning! Your physical condition is not yet perfect! A little treatment and rest are required!
+> - Warning! Your body has not fully recovered! Some treatment and rest are required!
 
 Ah, this was why I took out insurance.
 
@@ -154,13 +149,13 @@ As the ancient sages said, one Level Up made the five loaves and two fish look l
 
 I couldn’t tell you which sage said it, but someone did. It was true, too.
 
-*Whew. I almost died.*
+*Whew. That was close.*
 
 Having barely made it back from the nursing home’s doorstep, I rubbed my stomach, feeling a satisfying fullness spread through my body.
 
 Then I looked up and met the eyes of someone staring at me with a distinctly unimpressed expression.
 
-“Why?”
+“What?”
 
 “…”
 
@@ -174,9 +169,9 @@ After a moment, the Beast Miao King spoke, his expression gone cold.
 
 *Why else? To get the EXP, obviously.*
 
-But years of working for a shitty small Guild had given me something I had never possessed before: social awareness and people skills.
+But years at a shitty little Guild had given me something I’d never had before: a sense of when to keep my mouth shut.
 
-I answered with a mournful, rigid expression.
+I set my face in an expression both mournful and resolute.
 
 “I wanted to take revenge with my own hands.”
 
@@ -196,7 +191,7 @@ The Beast Miao King’s eyes widened, emotion stirring in them. He stared at me,
 
 What a romantic moment… Like hell. Fuck off. I was going to gag.
 
-But one thing was certain: the Beast Miao King couldn’t hide how moved he was.
+Still, there was no mistaking how moved he was.
 
 *Well, the result’s good. That’s what matters, right?*
 
@@ -208,7 +203,7 @@ More importantly, my quick excuse had made things better.
 
 Even so, a weight remained in my chest.
 
-I felt guilty because I hadn’t been able to prevent hundreds of people from being massacred less than two shichen away.
+Hundreds of people had been massacred barely two shichen away, and I hadn’t stopped it.
 
 *…Damn it.*
 
@@ -220,7 +215,7 @@ A martial artist might get into a quarrel at an inn, draw a sword, and die on th
 
 I knew I couldn’t save them all.
 
-And I felt regret, too. Regret that if I had been there, perhaps I could have saved innocent people.
+But I was human, and I hated it when other people died. I couldn’t help wondering whether I might have saved those innocent people if I’d been there.
 
 *Great power comes with great responsibility.*
 
@@ -238,7 +233,7 @@ We headed deeper into the hidden reaches of the Poisonblood Grounds.
 
 The Beast Miao King and I watched our steps more carefully now. Killing five Thousand-Year Spiders and an enormous number of venomous beasts had left the area quiet, but it was too soon to let our guard down.
 
-*That bastard is the biggest problem of all.*
+*Especially with that thing still out there.*
 
 Ailao Mountain’s Wraith.
 
@@ -258,7 +253,7 @@ He was right.
 
 Despite their reputation, the five Thousand-Year Spiders had been easier to handle than I’d expected, and so had the thousands of venomous beasts. But if Ailao Mountain’s Wraith had joined them, things would have been different.
 
-*If it had joined the fight from the beginning, we could probably have put up a decent fight. But if it had appeared right after I used One Annihilation……*
+*If it had attacked from the start, we could probably have held our own. But if it had shown up right after I used One Annihilation…*
 
 Even if we’d done everything right, it would have been a brutal fight.
 
@@ -268,7 +263,7 @@ One of us might have died. Or left a limb behind.
 
 At worst, we’d both be dead.
 
-*But why? Why didn’t it appear even under those circumstances?*
+*So why didn’t it show up when it had the chance?*
 
 I didn’t know. Only two remotely plausible explanations came to mind.
 
@@ -288,7 +283,7 @@ Before I could think any further, the Beast Miao King, who had been following be
 
 *Oh, shit.*
 
-That scared the hell out of me. My heart nearly fell out of my chest.
+He scared the hell out of me. Once I’d steadied myself, I turned to look where he was pointing.
 
 Beyond the Poison Mist, growing thicker with every step, and the dark jungle crowding in on all sides, a faint, unfamiliar light shone through.
 
