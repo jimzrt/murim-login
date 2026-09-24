@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "*I told you, didn’t I? We should keep the one who can think on his feet.*",
+      "defect": "The present-tense wording obscures that the speaker had urged Jamukha to spare the smarter khan instead of the one they kept alive.",
+      "id": "F01",
+      "rationale": "살리자고 refers to the earlier decision about whom to leave alive; 차라리 marks the preferred alternative.",
+      "replacement": "*I told you we should’ve spared the smarter one instead.*",
+      "severity": "major",
+      "source": "제가 말씀드렸잖습니까. 차라리 머리가 잘 굴러가는 놈을 살리자고."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Everyone lowered their heads at the sight of him, overcome with grief and regret.",
+      "defect": "The trailing phrase assigns the grief and regret to everyone rather than to Chinggen’s appearance.",
+      "id": "F02",
+      "rationale": "슬픔과 후회로 가득한 modifies 그의 모습.",
+      "replacement": "At the sight of his grief and regret, everyone lowered their heads.",
+      "severity": "minor",
+      "source": "슬픔과 후회로 가득한 그의 모습에 모두가 고개를 떨군 그 순간이었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The uninvited guests—several hundred of them—were Han Chinese from the Central Plains. Martial artists, as they were called.",
+      "defect": "“Martial artists” drops the established Murim designation.",
+      "id": "F03",
+      "rationale": "무림인 identifies them specifically as people of Murim, not merely people who practice martial arts.",
+      "replacement": "The uninvited guests—several hundred of them—were Han Chinese from the Central Plains. They were the sort known as Murim martial artists.",
+      "severity": "minor",
+      "source": "물경 수백에 달하는 불청객들의 정체는 중원의 한족, 그중에서도 무림인이라 불리는 족속들이었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "The nomads racing silently around them, their eyes fixed ahead, flashed murderous looks beneath their helmets.",
+      "defect": "“Murderous looks” misses the established term for 살기.",
+      "id": "F04",
+      "rationale": "살기 어린 눈빛 describes eyes filled with killing intent.",
+      "replacement": "The nomads racing silently around them, their eyes fixed ahead, flashed killing intent in their eyes beneath their helmets.",
+      "severity": "minor",
+      "source": "두 사람의 주위에서 묵묵히 앞만 보고 내달리던 유목민들의 투구 사이로 살기 어린 눈빛을 번뜩였다."
+    }
+  ],
+  "summary": "The draft largely preserves the scene, but one line loses the choice between the two khans, and several smaller details need correction.",
+  "version": 1
+}

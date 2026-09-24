@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 950
-- Next chapter: 951
-- Current block: 950–954 (1/5)
-- Latest translation: `translations/0950.md`
-- Latest summary: `summaries/beats/0950.md`
-- Safe profiles through: chapter 950
+- Last completed: 951
+- Next chapter: 952
+- Current block: 950–954 (2/5)
+- Latest translation: `translations/0951.md`
+- Latest summary: `summaries/beats/0951.md`
+- Safe profiles through: chapter 951
 
 ## Current Block
 
-- As famine, social unrest, and Dark Heaven’s growing threat unsettle the Great Nation, Song Ho reports that the Jin Family of Taiyuan has rescinded its retreat and that Shanxi is preparing to defend Eight Spring Gorge with roughly fifteen thousand troops against an estimated thirty to forty thousand enemies. Mae Jonghak recognizes that the Jin Family will not be turned back and challenges Song Ho’s purely strategic calculus: the people of Shanxi are fighting to protect more than their homes. News arrives that the Hebei Peng Family, Murong Family, Huashan, and Zhongnan Sect are each sending two thousand reinforcements. Song Ho understands the overlooked principle as chivalry; with the Double Ninth Festival four days away, two thousand martial artists depart the Murim Alliance headquarters for the north.
+- As a large steppe army rides through the rain toward Shanxi, Temur and the Chinggen riding beside him appear to lead it. Jamukha joins the vanguard with more than twenty thousand tribespeople and commits a thousand Keshik to the lead. In private, Jamukha and the false Chinggen reveal that the real Chinggen was killed in the earlier attack and that the impostor kept Temur alive because his submission made him easy to control. The army expects to cross the border in about a day, before the Fire King and Jin Taekyung can arrive.
 
 ## Open Questions
 
