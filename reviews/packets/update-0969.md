@@ -1,0 +1,1035 @@
+<!-- packet-manifest
+{
+  "included": [
+    {
+      "path": "source/0969.txt",
+      "sha256": "6d3a1a9633a2b3aa4e81a39c4ff9844af139ada0cb840da9e2f5a03efd709808",
+      "bytes": 13701
+    },
+    {
+      "path": "docs/CONTEXT.json",
+      "sha256": "b9cbe2b00c19ac5d007d78e2a1e2931ef02134c151d25efb1228c395b4d8faf7",
+      "bytes": 1568
+    },
+    {
+      "path": "docs/NAMES.md",
+      "sha256": "65892110351fce017f8020b13720d8c5e71418799da1db239060ea308ecc01e4",
+      "bytes": 235501
+    },
+    {
+      "path": "characters/Cheol Mubaek.md",
+      "sha256": "bdd291aa9d0d409a9865e930381a20e50a9ee6f17d64fd4b02fa2084fa25674f",
+      "bytes": 1005
+    },
+    {
+      "path": "characters/Divine Physician.md",
+      "sha256": "8189629493f03f85b0e4633918a6114669fc6746d1c145f23c136f9ffb164170",
+      "bytes": 759
+    },
+    {
+      "path": "characters/Jamukha.md",
+      "sha256": "9631f641b012ef536d7f11f631e585737fe5334c951cbc0809c9d1843198d23e",
+      "bytes": 641
+    },
+    {
+      "path": "characters/Jin Mukyung.md",
+      "sha256": "7156baca24df2aacf61cfde9d5136041a384138e45a4baa7561bc034b961c122",
+      "bytes": 1389
+    },
+    {
+      "path": "characters/Peng Cheolhu.md",
+      "sha256": "5ff0f8a7d464fccd4911980d35ece8aa3ea0c487c35f7aac06851eaa43f35eee",
+      "bytes": 801
+    },
+    {
+      "path": "characters/Pung Yang.md",
+      "sha256": "b3ac61bcbf551859eba88e5a8961b843df82c88d8e44a49e22c41a4abbdf861e",
+      "bytes": 1446
+    },
+    {
+      "path": "characters/Wipeng.md",
+      "sha256": "bf38095d349beac2ae53b7c337754bab88d5daaa7dcd7c27563cdf600b840a80",
+      "bytes": 911
+    },
+    {
+      "path": "docs/ADDRESS.md",
+      "sha256": "1cd5299a0e6da6aeb5023656066eebb4f2f4711f6c2e4ba042a15e8182833569",
+      "bytes": 269963
+    }
+  ],
+  "estimated_tokens": 11409
+}
+-->
+
+# Durable State Update — Chapter 969
+
+Return exactly one JSON object and no Markdown fence. Record only facts established
+by this chapter. Do not use tools, edit prose, infer future events, or copy archived
+profile continuity. Profile updates are maintenance, not chapter recaps: replace
+existing fields to remove resolved events, stale travel/combat narration, and
+duplicated facts. Preserve only stable identity, role, personality, voice,
+relationships, and currently active unresolved/status facts. If a previous
+detail no longer helps translate a future chapter, delete it. Never add a fact
+merely because it appeared in the reading copy.
+
+For each matched character, check whether this chapter adds clear, durable
+evidence that improves Role, Personality, Voice, or Relationships. Update a
+field when it corrects or meaningfully sharpens the existing profile; otherwise
+leave it unchanged. Voice guidance should capture observable register, cadence,
+word choice, or address habits that help distinguish the character in English.
+Do not infer a stable voice from one situational line or generic personality
+adjectives. Keep “Not established” only when this chapter provides no reliable
+voice evidence; never replace it with unsupported specificity.
+
+`context` must contain exactly the durable context schema shown below, with version
+1 and safe_through 969. Keep at most
+2 continuity_sources. Keep
+`active_continuity` to at most 12 concise items,
+`open_questions` to at most 5 items, and
+`temporary_decisions` to at most 5 items.
+Keep the serialized context under 16384 UTF-8 bytes.
+Use only chapter numbers through 969. Profile updates may replace only one
+complete line in Aliases, Role, Personality, Voice, or Relationships. Do not
+return Safe through updates; the controller sets that field automatically.
+Each profile field should be one concise sentence; never append semicolon-separated
+chapter history. For a new profile, describe voice only when the chapter supports
+a useful, stable distinction; otherwise say “Not established”.
+`names` contains only newly required Korean-to-English rows that are absent from
+Exact glossary matches; Korean keys must occur in the source. Do not repeat
+glossary matches. The controller drops rows already in the names ledger.
+`address_pairs` contains only newly required speaker→addressee rows that
+are absent from Matched address pairs. Speaker and addressee must be Hangul source
+spellings such as 진태경 or 혁무진, never English names. Arabic digits are
+allowed in titles such as 1팀장. At least one endpoint must occur in the source.
+Before returning JSON, verify every `speaker` and `addressee` value contains at
+least one Hangul character; use the Korean source spelling even when the same
+person's English name appears in the reading copy. If no valid new pair exists,
+return `"address_pairs": []`.
+The controller drops pairs already in the address ledger. Do not invent
+risk-register rows. Beat plot paragraphs are plain strings; continuity and
+translation decisions are concise list items.
+Return this exact shape:
+
+{
+  "chapter": 969,
+  "beat": {
+    "plot": ["chapter plot paragraph"],
+    "continuity": ["binding continuity item"],
+    "translation_decisions": ["binding terminology or voice decision"]
+  },
+  "context": {
+    "version": 1,
+    "safe_through": 969,
+    "continuity_sources": [969],
+    "active_continuity": ["active fact"],
+    "open_questions": ["unresolved question"],
+    "temporary_decisions": ["temporary translation decision"]
+  },
+  "names": [
+    {"korean": "source spelling", "english": "English rendering", "notes": "brief note"}
+  ],
+  "address_pairs": [
+    {
+      "speaker": "진태경",
+      "addressee": "문경",
+      "kinship": "kinship or role relation",
+      "normal_address": "established English address",
+      "speech_level": "speech level",
+      "notes": "brief note"
+    }
+  ],
+  "profile_updates": [
+    {
+      "path": "characters/Listed Profile.md",
+      "current": "- **Role:** exact current full line",
+      "replacement": "- **Role:** finished replacement full line"
+    }
+  ],
+  "profile_creations": [
+    {
+      "filename": "English Name.md",
+      "korean": "source name",
+      "english": "English Name",
+      "aliases": [],
+      "role": "stable role",
+      "personality": "stable traits",
+      "voice": "stable voice",
+      "relationships": "stable relationships"
+    }
+  ]
+}
+
+Use empty arrays when no name, address-pair, or profile change is required.
+`profile_creations` is only for characters with no existing `characters/` file.
+If the person already appears under Listed compact profiles, use `profile_updates`.
+
+## Prior durable context
+
+```json
+{
+  "active_continuity": [
+    "Peng Cheolhu and Jamukha’s duel was interrupted by Murong Baek, who struck Peng Cheolhu from behind.",
+    "Jamukha’s recruiter built his power in the west and made him a subordinate in a larger organization; the recruiter answered to “that person.”",
+    "“That person” has awakened, and Jamukha was ordered to prepare a bridgehead for an advance into the Central Plains.",
+    "The recruiter supplied Temporary Strength Pills for distribution across the steppe; their full cost and effects remain unknown.",
+    "A spear pierced Jamukha’s hand and the Temporary Strength Pill he was about to take; his condition is unresolved.",
+    "The Emperor remains gravely ill with Blood Soul Gu; the treatment requiring him to die once remains unresolved.",
+    "The Martial God’s identity and connection to the chosen one and the Bow Saint remain unknown.",
+    "The Eastern Heaven Demon Lord’s papers and silk pouch remain unexplained."
+  ],
+  "continuity_sources": [
+    968
+  ],
+  "open_questions": [
+    "Who is “that person,” and what is the larger organization’s plan?",
+    "What is the full cost of the Temporary Strength Pill?",
+    "Why did Murong Baek pursue Jamukha fifty years ago, and why has he turned on Peng Cheolhu?",
+    "Did the spear’s wielder intend to stop Jamukha from taking the pill, and what is Jamukha’s condition?",
+    "What are the Martial God’s identity and connection to the chosen one and the Bow Saint?"
+  ],
+  "safe_through": 968,
+  "temporary_decisions": [],
+  "version": 1
+}
+```
+
+## Exact glossary matches
+
+| 진무경    | **Jin Mukyung**    |
+| 위팽     | **Wipeng**         |
+| 철무백    | **Cheol Mubaek**   |
+| 팽철후    | **Peng Cheolhu**   |
+| 벽력도왕   | **Thunderbolt Saber King**    | Peng Cheolhu   |
+| 십왕     | **Ten Kings**       |
+| 암천     | **Dark Heaven**                  |
+| 하북팽가   | **Hebei Peng Family**            |
+| 절정     | **Peak**          |
+| 초절정    | **Supreme Peak**  |
+| 무인     | **martial artist**                               | Default term                                          |
+| 고수     | **master**                                       | Strong/skilled martial artist                         |
+| 공력     | **internal energy**                              | Years of 공력 → years of internal energy                |
+| 혈도     | **acupoint** / **vital point**                   | Context dependent                                     |
+| 살기     | **killing intent**                               |                                                       |
+| 기세     | **aura** / **momentum**                          | Depends on scene                                      |
+| 후기지수   | **young prodigy** / **rising martial artist**    | Contextual, not a title                               |
+| 정파     | **orthodox faction**                             |                                                       |
+| 가주     | **Family Head**                              |
+| 일격     | **One Strike**                         |
+| 상태               | **Status**                     |
+| 산서     | **Shanxi**             |
+| 화산     | **Huashan**            |
+| 정마대전   | **Great Faction War**         |
+| 신의 | **Divine Physician** | Sobriquet of the legendary anonymous physician sought to treat Jeok Cheongang. |
+| 자무카 | **Jamukha** | Khan of the western grasslands and the steppe army’s practical leader. |
+| 풍양 | **Pung Yang** | Personal name of the Red Wind Band Leader. |
+| 기감 | **Qi Sense** | Taekyung's sensory technique; its range reaches seventy meters in this chapter. |
+| 적풍단 | **Red Wind Band** | Rising mounted-bandit power from the northern plateau. |
+| 적풍단주 | **Red Wind Band Leader** | Unnamed leader of the Red Wind Band; commands two hundred followers. |
+| 잠력단 | **Temporary Strength Pill** | Rare pill that temporarily enhances strength; Pung Yang has only three and uses one against Cheol Mubaek and another during the battle. |
+| 내상 | **Internal Injury** | System condition label for internal injury. |
+| 구파일방 | **Nine Sects and One Gang** | Major Murim grouping. |
+| 하북 | **Hebei** | Province where Hyuk Family Textile Shop has a branch. |
+| 전하 | **His Highness** | Formal royal address for the resident prince; the official insists on this form instead of king. |
+| 검신 | **Sword God** | Alternate title used for Mae Jonghak; kept distinct from 검성, rendered Sword Saint. |
+| 세가 | **great family** | Murim category Jin Wikyung hopes the Jin Family will attain. |
+| 한족 | **Han Chinese** | Ethnic designation used by the steppe chieftains. |
+| 이형환위 | **Shifting Form and Position** | Supreme Peak movement or evasion technique used by Jeok Cheongang. |
+| 가지 | **Go** | Song associated with Won Myunghoon. |
+| 중독 | **Poisoned** | System status abnormality caused by the poisons. |
+| 인내 | **Endurance** | System attribute replacing Toughness. |
+| 초절 | **supreme mastery** | Realm beyond Peak described as accessible only to the greatest martial artists. |
+| 꼬리 | **the “tail”** | Codename for the Black Hunter traced by Butler Kim. |
+| 강기 | **Force** | Generic manifestation of concentrated martial energy; distinct from Sword Force. |
+| 수강 | **Palm Force** | Force generated through a palm technique. |
+| 시리 | **City** | Second word in one of the necromantic chants. |
+| 초인 | **superhuman** | A being who has surpassed ordinary human limits. |
+| 장성 | **Great Wall** | Wall used in the discussion of the Outer Lands. |
+| 비도 | **throwing blade** | Mungyeong throws one past Taekyung's neck. |
+| 모용세가 | **Murong Family** | One of the Five Great Families, based in Liaoning. |
+| 고든 | **Gordon** | Pentagon employee tasked with repairing smashed warning lights. |
+| 구천 | **Nine Springs** | Euphemism for the realm of the dead. |
+| 종남 | **Zhongnan Sect** | Orthodox faction that fought in the historic battle. |
+| 모용백 | **Murong Baek** | Former northern rival and later comrade of Peng Cheolhu. |
+
+## Matched address pairs
+
+| Speaker | Addressee | Kinship | Normal address | Speech level | Notes |
+| ------- | --------- | ------- | -------------- | ------------ | ----- |
+| 풍양 | 철무백 | junior_to_older_martial_peer | Senior Cheol | polite and taunting | Pung Yang repeatedly addresses Cheol as 철 선배 while provoking him. |
+| 진무경 | 풍양 | challenger_to_bandit_leader | Pung Yang | challenge-shout | Mukyung calls out Pung Yang by name to begin the confrontation. |
+| 풍양 | 진무경 | enemy_to_enemy | you / little brat | condescending and taunting | Uses 네놈 and 어린놈 while threatening to sever Mukyung's limbs. |
+| 철무백 | 진무경 | senior_martial_peer_to_younger_martial_artist | Heaven Shaking Sword | affectionate-teasing | Uses 우리 진천검 while warmly inviting Mukyung to return. |
+| 위팽 | 진무경 | Jin Family retainer to Second Young Master | Second Young Master | deferential and blunt | Uses 이공자 while directing Mukyung to wash before the guest's arrival. |
+| 자무카 | 진무경 | hostile opponents | you | familiar, blunt, and patronizing | Jamukha uses 자네 while urging Mukyung to submit and become his hunting dog. |
+| 자무카 | 팽철후 | former battlefield opponents and current rivals | Thunderbolt Saber King Peng Cheolhu | informal and hostile | Jamukha first uses Cheolhu’s former title, then corrects himself to the current title. |
+| 벽력도왕 | 모용백 | former rivals turned comrades and friends | Murong Baek; Family Head Murong | familiar and warm | Peng Cheolhu greets him by name and asks whether he should now use his family-head title. |
+| 모용백 | 벽력도왕 | former rivals turned comrades and friends | you | familiar and cautionary | Murong Baek asks Peng Cheolhu whether he agrees that people like Jamukha require constant vigilance. |
+
+## Listed compact profiles
+
+### Cheol Mubaek.md
+
+# Cheol Mubaek (철무백)
+
+- **Safe through:** Chapter 964
+- **Aliases:** Tiger of Mount Heng
+- **Role:** Cheol Mubaek is the ninth-generation successor of the Shura Annihilating Fist and the Peak master known as the Tiger of Mount Heng, now out of seclusion and active in the rebuilding of the Mount Heng Sword Sect.
+- **Personality:** Fierce, short-tempered, intimidating, and fiercely protective; becomes gentle and attentive toward Seowol
+- **Voice:** Roaring and confrontational when rebuking the Mount Heng senior figures; gentle and affectionate when speaking to Seowol
+- **Relationships:** His master, the Fist Hero, was a great fist master whose arms were severed by the Blood Soul Fat Demon; he is a close friend and peer of Lee Cheonbaek, a paternal uncle and protector of Lee Seowol, and considers Jin Taekyung, Jin Mukyung, and Hyuk Mujin Benefactors for protecting Seowol and enabling the Mount Heng Sword Sect's survival.
+
+### Divine Physician.md
+
+# Divine Physician (신의)
+
+- **Safe through:** Chapter 968
+- **Aliases:** Medicine Immortal
+- **Role:** The Divine Physician is Mungyeong, the legendary physician and former Slaughter Saint who passed the Divine Physician title to his Disciple.
+- **Personality:** He is devoted to medicine and the lives he could not save, yet remains composed and self-effacing under mortal danger.
+- **Voice:** He speaks in calm, respectful, self-effacing language, framing mortality through quiet philosophical reflections.
+- **Relationships:** Mungyeong is the Divine Physician's true identity, the Slaughter Saint was his Master, and Dong Feng is his Disciple.
+
+### Jamukha.md
+
+# Jamukha (자무카)
+
+- **Safe through:** Chapter 968
+- **Aliases:** None
+- **Role:** Jamukha is the ruler of the western steppe and a former eastern-steppe chieftain who built his power with support from a recruiter serving a larger organization.
+- **Personality:** Patient and driven by a long-standing desire to avenge his defeat by Peng Cheolhu.
+- **Voice:** Not established
+- **Relationships:** Peng Cheolhu defeated him more than fifty years ago; an unidentified recruiter helped him rebuild his power in the west and made him a subordinate in a larger organization.
+
+### Jin Mukyung.md
+
+# Jin Mukyung (진무경)
+
+- **Safe through:** Chapter 966
+- **Aliases:** Heaven Shaking Sword; Jin Family Second Young Master
+- **Role:** Jin Mukyung is the second son of the Jin Family of Taiyuan, a Supreme Peak swordsman known as the Heaven Shaking Sword, and Commander of the Heaven Shaking Squad.
+- **Personality:** Reserved and disciplined, Jin Mukyung is devoted to swordsmanship and guided by a strong sense of chivalry, refusing to abandon what he believes is right.
+- **Voice:** Quiet and resonant; clipped and blunt in direct speech
+- **Relationships:** Jin Wikyung is his older brother and the Lesser Family Head who formed the Heaven Shaking Squad in his honor; Jin Taekyung is his younger brother, and Mukyung cherishes his promise to reunite with him.
+
+### Peng Cheolhu.md
+
+# Peng Cheolhu (벽력도왕)
+
+- **Safe through:** Chapter 968
+- **Aliases:** Thunderbolt Saber King
+- **Role:** Peng Cheolhu is the Thunderbolt Saber King, a Ten Kings master and Great Hero of the Hebei Peng Family.
+- **Personality:** Boisterous, hot-tempered, argumentative, and protective toward those connected to his close friend Hong Dao; relentlessly disciplined in training, having continued every day after the Great Faction War.
+- **Voice:** Loud, blunt, confrontational, and prone to disguising embarrassment or retreat as serious martial instruction.
+- **Relationships:** Long-standing rival and friend of Jeok Cheongang; close friend of Hong Dao; protective toward Hong Dao's Disciple Unnamed; father of Peng Cheolyeong.
+
+### Pung Yang.md
+
+# Pung Yang (풍양)
+
+- **Safe through:** Chapter 968
+- **Aliases:** Red Wind Band Leader
+- **Role:** Former leader of the Red Wind Band, commanding at least two hundred mounted bandits; became a mounted bandit at thirteen, reached First Rate by age thirty, and rose from squad leader to band leader three years ago; discovered the Crimson Blood martial arts and a case containing five Temporary Strength Pills in a hidden plateau tomb, reached the Peak realm in two years, and could temporarily manifest imperfect Sword Force and powerful Body-Protecting Qi by taking a pill; reached approximately seventy percent mastery of the Crimson Blood Twelve Sabers; after secretly incapacitating Jin Mukyung, resumed killing Mount Heng Sword Sect martial artists; was seriously injured by Taekyung's dagger, defeated One Annihilation, seized Taekyung, and was killed by Taekyung after the Unnamed Sword's Ten-Thousand-Year Cold Iron destroyed his Body-Protecting Qi and pierced his chest; had fled from the steppe and commanded nearly four hundred subordinates before his death
+- **Personality:** Foxlike, ruthless, observant, controlled, and willing to kill subordinates who disobey his orders
+- **Voice:** Calm, concise, and authoritative when issuing orders
+- **Relationships:** Leads the Red Wind Band and controls former members of other mounted-bandit groups who joined his force
+
+### Wipeng.md
+
+# Wipeng (위팽)
+
+- **Safe through:** Chapter 964
+- **Aliases:** Ghost Sword; God of Drinking
+- **Role:** Jin Wikyung’s personal guard and Commander of the Jin Dragon Squad; one of the Jin Family’s three Peak masters
+- **Personality:** Loyal, observant, teasing, capable, and resigned to Jin Wikyung’s impulsive behavior. Respects the dead and urges others to live on their behalf.
+- **Voice:** Weary and knowing, with dry humor when addressing Jin Wikyung or Jin Taekyung. Uses Sound Transmission when appropriate.
+- **Relationships:** Trusted guard and retainer of Jin Wikyung; a reliable senior ally of Jin Taekyung and a longtime sword mentor to Jin Mukyung, whom he taught as a boy. He remains alert to threats connected with Dark Heaven, and the Human Butcher has claimed him as a personal target.
+
+## Korean source
+
+```text
+＃969화
+
+
+
+그 찰나의 순간을, 산서인들은 보지 못했다.
+
+말과 사람의 사체. 거기에 더하여 드문드문 떨어져 있는 바위 틈새를 메운 적들을 온 힘을 다해 밀어붙이느라.
+
+아니, 설령 가까이에 있었다 해도 아무것도 볼 수 없었을 것이다.
+
+십왕(十王) 중에서도 세 손가락 안에 꼽히는 초절정 고수의 기감을 속일 만큼 자연스럽고, 쾌속한 일격이었으니.
+
+서걱!
+
+마치 타들어 가는 듯한 격통 속, 벽력도왕은 초인적인 인내심으로 허물어지려는 신형을 바로잡았다.
+
+거대한 쇠망치처럼 뇌리를 후려친, 믿을 수 없는 진실에 몸을 떨며.
+
+‘그래, 그랬던 것이었나.’
+
+이제야 알았다. 비로소 깨달았다.
+
+장성을 넘어 하북을 침략한 젊은 부족장이 살아남을 수 있었던 이유.
+
+야심에 걸맞은 실력을 지녔었다고는 하나, 그저 뛰어난 유목민에 불과했던 자가 강대한 공력과 초원에서 찾아볼 수 없는 신공절학(神功絶學)을 익힐 수 있었던 이유.
+
+그날, 자무카는 살아남은 것이 아니었다.
+
+살려 준 것이다.
+
+그를 추격하던 모용세가가, 그들을 이끌던 누군가가.
+
+‘모용백.’
+
+분노와 고통으로 아득해진 시야 속, 떨리는 손길로 깊숙이 베어진 가슴을 지혈한 벽력도왕은 경악에 물든 눈으로 바라보았다.
+
+한족과 유목민.
+
+그 사이 어딘가에 멈춰선 듯한 이국적인 용모의 중년인을.
+
+“대단하군. 그 상황에서도 용케 반응하다니.”
+
+고요한 연못처럼 잔잔한 음성.
+
+그러나 언제 뽑아 들었는지 모를 그의 검은, 이미 섬광 같은 속도로 내리그어지고 있었다.
+
+쉬익!
+
+거센 파공성.
+
+벗이라 믿었던 모용백의 거침없는 일격에, 벽력도왕은 눈을 부릅떴다.
+
+마지막 순간, 본능적으로 몸을 비틀었던 덕분에 목숨만은 건질 수 있었으나 딱 거기까지다.
+
+가슴팍을 깊게 훑고 지나간 강기의 여파는, 그의 전신을 물먹은 솜처럼 무겁게 만들었다.
+
+쾅! 카드드득!
+
+아슬아슬하게 검신을 가로막은 대도가 휘청인다.
+
+공력이 흐트러졌음에도 공격을 막아 낸 벽력도왕의 모습에, 모용백이 나직한 탄성을 흘렸다.
+
+“역시, 무식하기까지 한 그 용력은 여전하군.”
+
+“모용백, 네놈이 어찌……!”
+
+벽력도왕은 피가 터지도록 이를 악물었다.
+
+모용세가와 하북팽가.
+
+하북팽가와 모용세가.
+
+천하에 모르는 이가 없는 두 가문이 반목하던 시절이 있었던 것은 사실이다.
+
+하지만 그것은 과거에 불과했다.
+
+이미 흐르는 세월과 함께 지나가 버린, 케케묵은 지난날의 흔적.
+
+그렇기에 벽력도왕은 이 순간에조차 믿어지지 않았다.
+
+정마대전에서 등을 맞대고 싸웠던 전우가, 젊었을 적의 경쟁자에서 벗이 되어 함께 늙어 간 모용백이 자신을 배신했다는 사실을.
+
+아니, 이 땅의 모두를 배신했다는 사실을.
+
+“언제부터. 도대체 언제부터냐.”
+
+분노와 충격으로 거칠어진 호흡.
+
+벽력도왕은 파르르 떨리는 날붙이 너머로 보이는 배신자를 향해, 터져 나간 입술을 달싹였다.
+
+“암천(暗天)과 손을 잡은 것이.”
+
+그리고 그 물음에 되돌아온 대답은, 더욱 강해진 힘으로 대도를 짓누르는 검신과 그 끝에 실린 강기였다.
+
+스걱.
+
+벽력도왕은 터져 나오려는 신음을 삼켰다.
+
+뜨겁다. 검보다 먼저 살갗에 닿은 모용백의 강기가 그의 쇄골를 파고들고 있었다.
+
+조금씩 천천히.
+
+쇄골을 이루는 살과 뼈를 가르고, 그 아래 심장 어림에 이를 때까지 멈추지 않을 것처럼.
+
+“크아아악!”
+
+악문 잇새 사이로 터져 나오는 핏물.
+
+벽력도왕은 성난 대호처럼 울부짖으며 대도를 쳐올렸다.
+
+분노로 고통을 지워 내고, 하북팽가의 가주에게만 허락된 혼원벽력신공(混元霹靂神功)으로 전신의 모든 공력을 도신으로 쏟아 보냈다.
+
+꽈앙!
+
+하늘이 쪼개지는 듯한 굉음과 함께 떨어져 나가는 검신.
+
+엉망이 된 내부의 혈도와 강기에 의해 갈라진 쇄골에서 끔찍할 정도의 고통이 전해졌으나, 벽력도왕은 강철보다 더한 인내심으로 참아 내며 손을 뻗었다.
+
+“놈!”
+
+퍼엉!
+
+압축된 공기가 터져 나갔다.
+
+하북팽가가 자랑하는 절기, 대력금강장(大力金剛掌)의 일 초는 소리조차 앞질러 광포한 기세로 모용백을 휩쓸었다.
+
+적어도 아주 잠깐 동안은, 그렇게 보였다.
+
+슈확!
+
+섬광이 번뜩였고, 그것으로 끝이었다.
+
+바람과 함께 쏘아진 장력을 일검에 베어 가른 모용백의 신형이 흐릿해졌다고 느낀 순간, 벽력도왕의 머릿속에 붉은 경고등이 켜졌다.
+
+‘이형환위(移形換位)!’
+
+쇄골을 지혈할 틈도, 대도를 휘두를 시간도 없다.
+
+벽력도왕은 그저 온 힘을 다해 신형을 비틀었다. 찰나의 기척이 느껴진 등 뒤를 향해 돌아서며 일권을 휘둘렀다.
+
+후웅.
+
+닿았다.
+
+살과 뼈로 이루어진 인간의 육신이 아닌, 주먹 끝에서 뭉개지는 바람이.
+
+동시에 느꼈다.
+
+허공을 후려친 그의 일권 아래에서, 서늘한 살기(殺氣)를 흩뿌리며 쏘아지는 섬광을.
+
+“……!”
+
+느려진 세상 속, 눈을 부릅뜬 벽력도왕은 이성이 아닌 본능에 따라 움직였다.
+
+일평생 품에서 떨어트린 적 없던 대도(刀把)를 놓고, 가슴을 향해 다가오는 섬광을 향해 손을 뻗었다.
+
+푸욱.
+
+선명하고 느리게 울려 퍼지는 파육음.
+
+다급하게 끌어올린 수강(手罡)을 두부처럼 파고든 뾰족한 검 끝이 살과 뼈를 가르고 손등 사이로 고개를 내밀었다.
+
+이 정도 장애물은 아무것도 아니라는 듯, 목적지를 향해 계속해서 뻗어 나갔다.
+
+터져 나오려는 비명을 억누른 벽력도왕이, 온 힘을 다해 그것을 움켜쥘 때까지.
+
+콰드득!
+
+그 순간 검이 멈추었다.
+
+아니, 정확히는 부서졌다고 해야 옳았다.
+
+투둑.
+
+핏물과 함께 떨어지는 날붙이의 파편.
+
+순식간에 손이 짓이겨지는 그 아득한 고통을 이기지 못한 벽력도왕의 전신이 석상처럼 굳었다.
+
+그렇기에 크게 뜨인 눈으로 자신을 바라보는 모용백을, 이내 털끝 하나 다치지 않은 몸으로 일장(一掌)을 내뻗는 그의 모습을 멍하니 지켜볼 수밖에 없었다.
+
+화아악.
+
+시야를 물들이는 휘황한 빛무리 너머, 모용백의 나직한 음성이 마치 꿈결처럼 흐릿하게 벽력도왕의 귓가에 닿았다.
+
+“잘 싸웠네. 투사(鬪士)답게.”
+
+그리고.
+
+펑.
+
+몸속 깊숙한 곳에서 울려 퍼진 한 줄기의 폭발음과 함께, 벽력도왕의 세상이 뒤집혔다.
+
+
+
+* * *
+
+
+
+순간, 거대한 진동이 협곡을 휩쓸었다.
+
+콰아아아앙!
+
+땅이 뒤흔들렸다. 굉음과 함께 암벽의 일부가 무너져 내렸다.
+
+언제 만들어진 것인지도 모를 만큼 긴 세월 동안 퇴적된 자연의 산물조차 이럴진대, 피륙으로 이루어진 인간이라면 말할 필요도 없으리라.
+
+드드드득!
+
+암벽의 일부였던 바위가, 그 위로 엄청난 무게를 지닌 흙과 모래가 쏟아졌다. 동시에 미친 듯이 사방으로 흩날렸다.
+
+그러나 한 치 앞도 보이지 않는 희뿌연 먼지구름 속에서도, 모용백은 흔들림 없는 눈동자로 한 곳을 응시하고 있었다.
+
+마치 재해(災害)와도 같은 현상을 일으킨 자신의 손을 천천히 그러쥔 채, 반경 수십여 장의 모든 것을 기감으로 받아들였다.
+
+지금 막 들썩이는 흙더미 사이로 새어 나온 누군가의 희미한 기침 소리도 역시.
+
+쿨럭.
+
+모용백은 고개조차 돌리지 않았다. 대신 조용히 손을 뻗어, 소리의 주인을 짓누르고 있던 흙더미의 무게를 덜어 줄 뿐이었다.
+
+본래 자신의 것이었던 물건도 함께.
+
+우우웅.
+
+손짓과 함께 흘러나온 막대한 기운에 공기가 흔들린다. 곧이어 보이지 않는 끈에 당겨지듯, 지면 깊숙이 틀어박혀 있던 한 자루의 창이 그의 손에 붙잡혔다.
+
+누군가의 살과 뼈를 관통했다는 증거인, 붉은 선혈을 흘리며.
+
+“감사합니다.”
+
+등 뒤에서 들려온 자무카의 목소리에, 모용백이 입을 열었다.
+
+“왜 내 지시를 따르지 않았나. 분명 최대한 시간을 끌라고 했을 터인데.”
+
+“그건…….”
+
+“벽력도왕이라는 별호가 우습게 보였나 보군.”
+
+뭐라 대답하려던 자무카는 입술을 깨물었다.
+
+맞는 말이다. 그는 구원자의 명령을 어겼다.
+
+벽력도왕을 상대로도 분전하자 욕심이 생겼고, 합류할 때까지 기다리라는 모용백의 명령을 조금씩 머리에서 지웠다.
+
+그리고 한 가지 더.
+
+적어도 자신만큼은 잠력단을 사용해선 안 된다는 명령도 함께.
+
+“뭐라 드릴 말씀이 없습니다.”
+
+“그래, 그럴 테지. 그것을 삼켰다면 지금 이렇게 대화를 나누고 있지도 못했을 테니.”
+
+잠력단은 양날의 검이다.
+
+적풍단주 풍양을 비롯한 여러 사람의 손에 들어간 초기 단계의 것도 그렇지만, 개량을 거쳐 새롭게 탄생한 잠력단도 엄청난 중독성과 악효과를 지녔다.
+
+그러니 한낱 졸(卒)에 지나지 않는 이들이라면 모를까, 대군을 이끄는 총사령관이자 앞으로 해야 할 일이 많은 자무카가 복용해서는 안 되는 일이었다.
+
+적어도 그를 전면에 앞세운 모용백의 입장에서는 더더욱.
+
+“몸 상태는?”
+
+“생각하시는 것만큼 심각하지는 않습니다. 운기(運氣)를 끝마치면 내상은 곧 나아질 듯합니다.”
+
+말과는 달리 한쪽 어깻죽지가 거의 반이나 잘려 나가 있는 상태였지만, 도객(刀客)으로서의 생명이 위태로워진 와중에도 자무카의 표정에는 조금도 어둡지 않았다.
+
+그는 알고 있었다.
+
+자신의 구원자가, 오래전 모용백이 ‘우리’라고 말한 암천이 얼마나 신비롭고 강력한 집단인지.
+
+그렇기에 근심 따위는 한 줌도 깃들지 않은 얼굴로 말을 이을 수 있었다.
+
+“이제는 구천(九泉)을 떠돌게 생긴 그놈은 저와 다른 처지가 되었지만 말입니다.”
+
+그때였다.
+
+시종일관 한 방향에 고정되어있던 모용백의 시선이, 자무카로 옮겨간 것은.
+
+“아직 멀었군.”
+
+“그게 무슨…….”
+
+말꼬리를 흐린 자무카가, 순간 앞서 모용백이 했던 말의 의미를 깨닫고 입술을 깨물었다.
+
+“그놈이, 벽력도왕이 살아 있다는 말씀이십니까? 아직도?”
+
+그의 물음은 당연했다.
+
+눈앞에서 똑똑히 보았으니까.
+
+일말의 방심도, 자비도 없는 모용백의 손속에 처참하게 무너지던 벽력도왕의 모습을.
+
+실로 가공할 만한 위력을 지닌 일장에 격중당하여, 암벽 깊이 처박혀 피를 토해내던 그 시체 같은 몰골을.
+
+하지만 자무카와 달리, 모용백은 무수한 흙과 바위로 뒤덮인 그곳에서 느껴지는 아주 가느다란 숨결을 느낄 수 있었다.
+
+‘질긴 목숨이군. 언제나 그랬듯이.’
+
+생각해 보면 모용백의 기억 속에 존재하는 벽력도왕은, 팽철후는 늘 그랬다.
+
+타고난 용력과 강건한 육체를 바탕으로 하북팽가뿐만 아니라 천하의 후기지수들 사이에서도 확연한 두각을 드러냈고, 숱한 전장에서조차 예외는 아니었다.
+
+‘늘 살아남았지. 언제나.’
+
+그랬기에, 모용백은 자신의 손으로 직접 벽력도왕의 숨통을 끊어 낼 생각이었다.
+
+더불어 앞뒤로 무너져 내린 암벽으로 인하여 주위의 모든 이목이 차단된 지금, 혹시 모를 위험 요소인 벽력도왕을 비롯한 모든 생존자를 없애야 했다.
+
+비밀은 늦게 밝혀질수록 유리하니까.
+
+그래야 머지않아 도착할 또 다른 구파일방의 지원군을 상대로, 다시 한번 치명적인 타격을 입힐 수 있을 테니까.
+
+‘화산과 종남이 도착하기까지는 최소 반나절.’
+
+아직 시간은 충분하다.
+
+모든 준비가 끝나면, 모용백은 바로 이 자리에서 정파의 지원군을 맞이할 생각이었다.
+
+그때는 벽력도왕은 물론, 협곡 너머에서 모용세가의 뜻하지 않은 기습을 받아 무너지고 있을 하북팽가의 무인들도.
+
+갑작스럽게 무너진 암벽을 뒤로한 채 유목민들을 도륙하고 있을 산서인들도 처리된 후겠지만.
+
+물론 그 전에, 흙더미 속에서 숨죽인 채 살아남아 있는 쥐새끼들을 깜빡하는 일도 있어서는 안 될 것이다.
+
+서걱.
+
+빛살처럼 휘둘려진 창날에, 두부처럼 갈라지는 거대한 바위와 흙더미.
+
+그 안에서 피투성이가 된 철무백과 위팽을 감싸 안고 있는 진무경을, 모용백은 담담한 눈빛으로 내려다보았다.
+
+그리고 아무런 말 없이, 손에 쥔 창을 곧장 내리그었다.
+
+아니, 내리그으려던 그 순간이었다.
+
+후우웅.
+
+어디선가 들려오는 어마 무시한 파공성에, 모용백은 본능처럼 고개를 돌렸다.
+
+동시에 보았다.
+
+꽈아아아앙!
+
+산산이 부서지는 암벽의 산을 무너트리며 들이닥친, 한 자루의 창을.
+
+그 시리도록 투명한 창날에 실린, 청백색의 화염을.
+```
+
+## Final English reading copy
+
+```markdown
+# Chapter 969
+
+The people of Shanxi didn’t see that fleeting moment.
+
+They were throwing all their strength into driving back the enemies filling the gaps among the corpses of men and horses and between the scattered rocks.
+
+No—even if they’d been nearby, they wouldn’t have seen anything.
+
+The strike was so natural and swift that it could deceive the Qi Sense of a Supreme Peak master ranked among the top three of the Ten Kings.
+
+*Shhk!*
+
+Amid pain so sharp it felt like he was burning, the Thunderbolt Saber King summoned superhuman endurance to straighten his collapsing body.
+
+He trembled at the unbelievable truth that had struck his mind like a gigantic iron hammer.
+
+*So that’s what happened.*
+
+At last, he understood. He finally realized.
+
+Why the young chieftain who crossed the Great Wall and invaded Hebei had survived.
+
+The man had possessed skill worthy of his ambition, but he’d still been no more than an exceptional nomad. Why had he been able to acquire powerful internal energy and supreme martial arts nowhere to be found on the steppe?
+
+That day, Jamukha hadn’t survived.
+
+He’d been spared.
+
+By the Murong Family that pursued him. By the man who led them.
+
+*Murong Baek.*
+
+His vision blurred with rage and pain. The Thunderbolt Saber King pressed a trembling hand to the deep gash in his chest to stop the bleeding, and stared in shock at the middle-aged man before him.
+
+A man with exotic features, as though he stood somewhere between the Han Chinese and the nomads.
+
+“Impressive. To react that well even in those circumstances…”
+
+His voice was as still as a quiet pond.
+
+But his sword, no one knew when he’d drawn it, was already slicing down at lightning speed.
+
+*Whoosh!*
+
+The air screamed.
+
+The Thunderbolt Saber King’s eyes flew open at the unrestrained strike from Murong Baek, whom he had believed to be his friend.
+
+He’d twisted instinctively at the last moment, saving his life—but that was all.
+
+The Force that had raked deep across his chest left his whole body heavy as soaked cotton.
+
+*Boom! Krrrk!*
+
+His great saber wavered as it barely blocked the sword.
+
+Murong Baek let out a quiet exclamation at the Thunderbolt Saber King’s ability to stop the attack despite his disrupted internal energy.
+
+“As expected, you’re still absurdly strong.”
+
+“Murong Baek, how could you…!”
+
+The Thunderbolt Saber King clenched his teeth until they bled.
+
+The Murong Family and the Hebei Peng Family.
+
+The Hebei Peng Family and the Murong Family.
+
+It was true that there had been a time when the two families, known to everyone under heaven, had been at odds.
+
+But that was in the past.
+
+A stale relic of days long gone, carried away by the passage of time.
+
+That was why the Thunderbolt Saber King still couldn’t believe it, even now.
+
+That Murong Baek—his comrade-in-arms, who had fought back-to-back with him in the Great Faction War, and the rival of his youth who had become a friend and grown old alongside him—had betrayed him.
+
+No. That he had betrayed everyone on this land.
+
+“When? Just when did you…”
+
+His breathing grew ragged with anger and shock.
+
+The Thunderbolt Saber King moved his split lips toward the traitor visible beyond the trembling blades.
+
+“When did you join hands with Dark Heaven?”
+
+The answer came in the form of Murong Baek’s sword, pressing down on his great saber with even greater force, and the Force gathered along its edge.
+
+*Shhk.*
+
+The Thunderbolt Saber King swallowed the groan rising in his throat.
+
+It was hot. Murong Baek’s Force reached his skin before the sword did, digging into his collarbone.
+
+Slowly, little by little.
+
+It cut through the flesh and bone of his collarbone, as though it wouldn’t stop until it reached the heart beneath.
+
+“Graaaah!”
+
+Blood spurted between his clenched teeth.
+
+Roaring like a furious tiger, the Thunderbolt Saber King swept his great saber upward.
+
+He erased the pain with his rage and poured all his internal energy into the blade, using the Chaos Thunderbolt Divine Art, a technique reserved for the Hebei Peng Family Head.
+
+*BOOM!*
+
+With a crash like the sky splitting apart, Murong Baek’s sword was knocked away.
+
+Agonizing pain surged from his ruined internal acupoints and his collarbone, split by Force. But the Thunderbolt Saber King endured it with a will harder than steel and reached out.
+
+“You bastard!”
+
+*Poom!*
+
+Compressed air burst outward.
+
+A single strike of the Hebei Peng Family’s proud technique, the Great Strength Vajra Palm, swept toward Murong Baek with a ferocious force that outran its own sound.
+
+At least, that was how it looked for the briefest moment.
+
+*Shwaa!*
+
+A flash of light—and it was over.
+
+Murong Baek’s figure blurred as he cut apart the palm force flying with the wind. The instant the Thunderbolt Saber King thought he saw him disappear, a red warning light flashed in his mind.
+
+*Shifting Form and Position!*
+
+There was no time to stop the bleeding from his collarbone or swing his great saber.
+
+The Thunderbolt Saber King could only twist his body with all his strength. Turning toward the faint presence he sensed behind him, he swung a punch.
+
+*Whoosh.*
+
+It connected.
+
+Not with a human body of flesh and bone, but with the wind, crushed beneath his fist.
+
+At the same time, he felt it.
+
+A flash of light, scattering icy killing intent as it shot beneath the fist he’d swung into empty air.
+
+“……!”
+
+The world slowed. The Thunderbolt Saber King opened his eyes wide and moved by instinct, not reason.
+
+He let go of the great saber he had never once been without, and reached for the flash closing in on his chest.
+
+*Thuk.*
+
+The sound of flesh being pierced rang out, clear and slow.
+
+The pointed sword tip tore through the Palm Force he’d hastily summoned as if it were tofu, sliced through the flesh and bone of his hand, and emerged from the back of it.
+
+As if that obstacle meant nothing, it continued toward its destination.
+
+Until the Thunderbolt Saber King, stifling the scream about to burst from him, gripped it with all his strength.
+
+*Krrrk!*
+
+At that moment, the sword stopped.
+
+No—more precisely, it broke.
+
+*Plip.*
+
+Fragments of the blade fell with his blood.
+
+The Thunderbolt Saber King’s whole body went rigid as he failed to withstand the immense pain of his hand being crushed in an instant.
+
+With his eyes wide, he could only stare at Murong Baek, who was looking back at him. Then, dazed, he watched as Murong Baek—his body not injured in the slightest—thrust out one palm.
+
+*Fwoosh.*
+
+Beyond the dazzling light that filled his vision, Murong Baek’s quiet voice reached the Thunderbolt Saber King’s ears, faint as a dream.
+
+“You fought well. Like a true warrior.”
+
+And then—
+
+*Poom.*
+
+With a single explosion echoing deep inside his body, the Thunderbolt Saber King’s world turned upside down.
+
+* * *
+
+A massive tremor swept through the gorge.
+
+*KABOOM!*
+
+The ground shook. Amid the thunderous crash, part of the cliff collapsed.
+
+If even nature’s work, built up over ages so long no one could say when it had begun, could be brought down like this, then there was no need to say what would happen to a human body of flesh.
+
+*Krrr…*
+
+Rocks that had been part of the cliff, along with enormous quantities of earth and sand, came crashing down. At the same time, they scattered wildly in every direction.
+
+Yet even in the pale dust cloud where he couldn’t see a hand in front of him, Murong Baek kept his eyes fixed on one spot.
+
+He slowly clenched the hand that had caused something like a natural disaster, taking in everything within a radius of several dozen *zhang* with his Qi Sense.
+
+Even the faint cough that had just leaked out from between the shifting mounds of earth.
+
+*Khk.*
+
+Murong Baek didn’t even turn his head. Instead, he quietly reached out and lightened the weight of the earth pressing down on the person who had coughed.
+
+Along with an object that had once belonged to him.
+
+*Wooooom.*
+
+The air shuddered as an immense force flowed from his gesture. Then, as if pulled by invisible strings, a spear buried deep in the ground was caught in his hand.
+
+Red blood ran down it, evidence that it had pierced someone’s flesh and bone.
+
+“Thank you.”
+
+At Jamukha’s voice behind him, Murong Baek spoke.
+
+“Why didn’t you follow my instructions? I told you to buy as much time as possible.”
+
+“Well…”
+
+“I suppose you underestimated the Thunderbolt Saber King.”
+
+Jamukha, who had been about to reply, bit his lip.
+
+Murong Baek was right. He had disobeyed his savior’s command.
+
+He’d gotten greedy when he managed to hold his own against the Thunderbolt Saber King, and little by little, he’d pushed Murong Baek’s order to wait until he arrived out of his mind.
+
+And there was one more thing.
+
+He had also forgotten the order that, at least, he must never use the Temporary Strength Pill himself.
+
+“I have no excuse.”
+
+“Right. You don’t. If you’d swallowed it, you wouldn’t be talking to me now.”
+
+The Temporary Strength Pill was a double-edged sword.
+
+That was true of the early versions that had found their way into the hands of various people, including Pung Yang, the Red Wind Band Leader. But the new, improved pill also had tremendous addictiveness and side effects.
+
+The ordinary foot soldiers might take it, but Jamukha could not. He was the commander-in-chief of a great army, with much yet to do.
+
+Especially from Murong Baek’s point of view, with Jamukha as his vanguard.
+
+“How are you?”
+
+“Not as bad as you might think. Once I finish regulating my qi, my Internal Injury should heal soon.”
+
+Contrary to his words, nearly half of one shoulder had been cut away. But even though the injury threatened his future as a saber fighter, Jamukha’s expression wasn’t the least bit troubled.
+
+He knew.
+
+He knew how mysterious and powerful the Dark Heaven his savior belonged to was—the Dark Heaven Murong Baek had called “us” long ago.
+
+So, with a face untouched by even a trace of worry, he continued:
+
+“Though that bastard will be wandering the Nine Springs now, unlike me.”
+
+That was when Murong Baek’s gaze, fixed in one direction the entire time, shifted to Jamukha.
+
+“You still have a long way to go.”
+
+“What do you mean…?”
+
+Jamukha let his words trail off. For a moment, he realized what Murong Baek had meant and bit his lip.
+
+“Are you saying he’s alive? The Thunderbolt Saber King? Even now?”
+
+It was a natural question.
+
+He had seen it with his own eyes.
+
+The Thunderbolt Saber King crumbling beneath Murong Baek’s merciless hand, without a trace of hesitation or mercy.
+
+He’d been struck by a palm of truly terrifying force and driven deep into the cliff, looking like a corpse as he spat blood.
+
+But unlike Jamukha, Murong Baek could sense the faintest breath coming from beneath that place, buried under countless mounds of earth and rocks.
+
+*Stubborn bastard. Just as always.*
+
+When he thought about it, Peng Cheolhu—the Thunderbolt Saber King in Murong Baek’s memories—had always been like that.
+
+With his natural strength and sturdy body, he’d stood out among the young prodigies of the Hebei Peng Family and the entire world. He’d been no different even on the countless battlefields he’d fought on.
+
+*He always survived. Always.*
+
+That was why Murong Baek intended to finish the Thunderbolt Saber King off with his own hands.
+
+Besides, now that the cliffs had collapsed in front and behind them, cutting off every eye in the vicinity, he needed to eliminate every survivor—including the Thunderbolt Saber King, a possible danger.
+
+The later the secret came to light, the better.
+
+That way, he could deal another devastating blow to the next reinforcements arriving from the Nine Sects and One Gang.
+
+*At least half a day until Huashan and Zhongnan arrive.*
+
+There was still plenty of time.
+
+Once he was ready, Murong Baek planned to meet the orthodox faction’s reinforcements right here.
+
+By then, the Thunderbolt Saber King would be gone, along with the Hebei Peng Family martial artists collapsing beneath the unexpected ambush from the Murong Family beyond the gorge.
+
+The people of Shanxi slaughtering the nomads behind the suddenly collapsed cliff would be dealt with, too.
+
+Of course, before that, he couldn’t afford to forget the rats hiding beneath the earth, holding their breath as they waited to survive.
+
+*Shhk.*
+
+The spearhead swept through like a streak of light, cleaving through a massive rock and mound of earth as easily as tofu.
+
+Murong Baek looked down impassively at Jin Mukyung, who was holding the bloodied Cheol Mubaek and Wipeng in his arms.
+
+Without a word, he brought the spear in his hand straight down.
+
+No—he was about to bring it down.
+
+*Whoooom.*
+
+At the terrifying sound of something cutting through the air from somewhere, Murong Baek turned his head on instinct.
+
+And saw it.
+
+*KABOOOM!*
+
+A spear crashed through, bringing down the mountain of cliffs as it smashed them to pieces.
+
+Its icy, translucent spearhead bore a blue-white flame.
+```

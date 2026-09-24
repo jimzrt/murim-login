@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "They were giving everything they had to push back the enemy among the corpses of men and horses, and through the gaps between the scattered rocks.",
+      "defect": "The English makes the people of Shanxi push through the rock gaps; the source says enemies filled those gaps.",
+      "id": "F01",
+      "rationale": "적들을 is the object being driven back, and 바위 틈새를 메운 describes those enemies.",
+      "replacement": "They were throwing all their strength into driving back the enemies filling the gaps among the corpses of men and horses and between the scattered rocks.",
+      "severity": "major",
+      "source": "말과 사람의 사체. 거기에 더하여 드문드문 떨어져 있는 바위 틈새를 메운 적들을 온 힘을 다해 밀어붙이느라."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The strike was so natural and swift that it could deceive the Qi Sense of a Supreme Peak master ranked among the Ten Kings’ very best.",
+      "defect": "“Very best” omits the explicit top-three ranking.",
+      "id": "F02",
+      "rationale": "세 손가락 안에 꼽히는 specifies a place among the top three.",
+      "replacement": "The strike was so natural and swift that it could deceive the Qi Sense of a Supreme Peak master ranked among the top three of the Ten Kings.",
+      "severity": "critical",
+      "source": "십왕(十王) 중에서도 세 손가락 안에 꼽히는 초절정 고수의 기감을 속일 만큼 자연스럽고, 쾌속한 일격이었으니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The pointed tip of the sword, which he’d desperately raised his Palm Force to stop, burrowed through him like it was tofu. It cut through flesh and bone, then emerged between the bones on the back of his hand.",
+      "defect": "The sword pierces the raised Palm Force and his hand, not his body generally; the draft also invents bones on the back of the hand as its exit point.",
+      "id": "F03",
+      "rationale": "The Palm Force is the first barrier; 손등 locates the sword tip’s emergence on the back of his hand.",
+      "replacement": "The pointed sword tip tore through the Palm Force he’d hastily summoned as if it were tofu, sliced through the flesh and bone of his hand, and emerged from the back of it.",
+      "severity": "critical",
+      "source": "다급하게 끌어올린 수강(手罡)을 두부처럼 파고든 뾰족한 검 끝이 살과 뼈를 가르고 손등 사이로 고개를 내밀었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "But even with his life as a saber fighter hanging in the balance, Jamukha’s expression wasn’t the least bit troubled.",
+      "defect": "“His life as a saber fighter” can read as a threat to his physical life rather than to his ability to continue as a saber fighter.",
+      "id": "F04",
+      "rationale": "The source distinguishes the jeopardy to his martial vocation from the prospect of death.",
+      "replacement": "But even though the injury threatened his future as a saber fighter, Jamukha’s expression wasn’t the least bit troubled.",
+      "severity": "major",
+      "source": "도객(刀客)으로서의 생명이 위태로워진 와중에도 자무카의 표정에는 조금도 어둡지 않았다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "That way, he could deal another devastating blow to the reinforcements from another of the Nine Sects and One Gang, who would arrive before long.",
+      "defect": "“Another of” identifies a single constituent sect or gang, whereas the source refers to further reinforcements from the grouping; Huashan and Zhongnan are both named immediately afterward.",
+      "id": "F05",
+      "rationale": "또 다른 modifies the anticipated reinforcements, not a single member of 구파일방.",
+      "replacement": "That way, he could deal another devastating blow to the next reinforcements arriving from the Nine Sects and One Gang.",
+      "severity": "major",
+      "source": "그래야 머지않아 도착할 또 다른 구파일방의 지원군을 상대로, 다시 한번 치명적인 타격을 입힐 수 있을 테니까."
+    }
+  ],
+  "summary": "Five actionable findings: two changed spatial or quantitative details, one mislocated injury, one obscured consequence, and one misidentified reinforcement group.",
+  "version": 1
+}

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.82,
+      "current": "Jamukha watched the terrible strike, a fusion of defeat and swiftness, cut through the air.",
+      "defect": "“A fusion of defeat and swiftness” makes defeat sound like a property of the strike, obscuring the action at its climax.",
+      "id": "C01",
+      "rationale": "The surrounding passage presents the strike as swift and overpowering; the replacement makes that description readable without changing the action.",
+      "replacement": "Jamukha watched the terrible strike, overwhelming in its power and speed, cut through the air.",
+      "severity": "minor",
+      "source": "Chapter 968, Jamukha facing Peng Cheolhu’s final strike"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Once I finish regulating my qi, my Internal Injury should heal soon.",
+      "defect": "“Internal Injury” is capitalized like a named term, unlike the ordinary references to internal injuries elsewhere in the packet.",
+      "id": "C02",
+      "rationale": "Lowercase preserves Jamukha’s claim while keeping the terminology consistent.",
+      "replacement": "Once I finish regulating my qi, my internal injury should heal soon.",
+      "severity": "minor",
+      "source": "Chapter 969, Jamukha describing his condition"
+    }
+  ],
+  "summary": "The reading copies, summary, and active state are broadly consistent. Two local wording issues are actionable; no clear dropped hook or accidental spoiler appears in this packet.",
+  "version": 1
+}
