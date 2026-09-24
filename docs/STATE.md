@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 970
-- Next chapter: 971
-- Current block: 970–974 (1/5)
-- Latest translation: `translations/0970.md`
-- Latest summary: `summaries/beats/0970.md`
-- Safe profiles through: chapter 970
+- Last completed: 971
+- Next chapter: 972
+- Current block: 970–974 (2/5)
+- Latest translation: `translations/0971.md`
+- Latest summary: `summaries/beats/0971.md`
+- Safe profiles through: chapter 971
 
 ## Current Block
 
-- Jin Mukyung, exhausted and badly wounded, is about to be killed when Jin Taekyung returns and deflects the attack. Mukyung clutches unconscious Cheol Mubaek and Wipeng as the clash shakes the gorge, then loses consciousness after recognizing his younger brother.
-- Taekyung faces Murong Baek, revealed as the North Heaven Demon Lord and a Dark Heaven agent, and a nomad beside him. Though weakened from crossing ten thousand li without proper rest or food, Taekyung says he brought someone with him; two cutting whistles sound before Murong can learn who.
+- Jin Taekyung reveals that he brought Jeok Cheongang, while the Bow Saint and Jeok attack from the cliffs, wiping out hundreds of nomads and breaking the encirclement of the Hebei Peng Family. The Bow Saint’s appearance leads the North Heaven Demon Lord to realize the Imperial Palace was involved in the events that brought Taekyung here; Taekyung says the Eastern Heaven Demon Lord gave him the information. Jeok confronts the North Heaven Demon Lord over his alliance with Dark Heaven, and the Demon Lord swallows a red pill as Taekyung’s spear flashes behind him.
 
 ## Open Questions
 
-- Who is the person Taekyung brought, and what do the two incoming attacks target?
+- What effect will the North Heaven Demon Lord’s red pill have, and what will happen in the confrontation?
 - What are the conditions of Mukyung, Cheol Mubaek, and Wipeng?
-- Who is the nomad accompanying Murong Baek, and how will the confrontation unfold?
+- What is Peng Cheolhu’s condition beneath the rubble?
 - Can the Emperor be treated for Blood Soul Gu, and what does the treatment requiring him to die once entail?
 
 ## Exceptional Decision
