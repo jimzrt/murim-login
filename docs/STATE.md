@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 965
-- Next chapter: 966
-- Current block: 965–969 (1/5)
-- Latest translation: `translations/0965.md`
-- Latest summary: `summaries/beats/0965.md`
-- Safe profiles through: chapter 965
+- Last completed: 966
+- Next chapter: 967
+- Current block: 965–969 (2/5)
+- Latest translation: `translations/0966.md`
+- Latest summary: `summaries/beats/0966.md`
+- Safe profiles through: chapter 966
 
 ## Current Block
 
-- The Shanxi defenders seize an opening when the enemy horns sound in confusion. Peng Cheolhu leads two thousand fighters of the Hebei Peng Family into the battle, rallying them with a vow to stand by their neighbors and allies. Their charge breaks the enemy formation, and Cheolhu intervenes just as Jamukha is about to strike down the exhausted Jin Mukyung. Jamukha reveals that someone had anticipated Cheolhu’s arrival, then faces him without retreating; the battle continues.
+- Jin Mukyung and Peng Cheolhu fight Jamukha in the gorge. Jamukha injures Mukyung while parrying Cheolhu’s full-powered strike, but Cheolhu resumes his attack and the two continue their duel. Jin Wikyung leads the Shanxi fighters forward, judging that their advantage is temporary while the Hebei Peng Family remains outnumbered in the basin. Jamukha’s Keshik centurions hold back an unnamed weapon at his order. As the battle outside the gorge remains evenly matched, an unidentified group emerges from the darkness and rains thousands of arrows onto the battlefield.
 
 ## Open Questions
 
-- Who is the person who anticipated the Hebei Peng Family’s arrival, and how will the battle and Jamukha’s confrontation with Mukyung unfold?
-- What will become of Jin Wikyung?
+- Who is the newly arrived force, and what will its arrows do to the battle?
+- What is the unnamed weapon the Keshik centurions were ordered not to use?
+- How will the duel between Jamukha and Cheolhu, and the fighting in the gorge, unfold?
 - Who gave Jang Sam the silk pouch, and what are the improved pill’s effects and distribution?
 - What is the Martial God’s identity and connection to the chosen one and the Bow Saint?
-- What do the Eastern Heaven Demon Lord’s papers and silk pouch contain?
 
 ## Exceptional Decision
 
