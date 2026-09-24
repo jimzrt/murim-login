@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I’d met Jeok Cheongang back when I was staying with the Jin Family of Taiyuan, so that was one thing. But the Bow Saint’s presence must have come as a major shock to Jin Mukyung, whose mind and body were still weak.",
+      "defect": "Makes Taekyung the person who had seen Jeok, rather than Mukyung. That reverses why Jeok’s presence is less surprising to Mukyung.",
+      "id": "F01",
+      "rationale": "The omitted subject of 본 적이 있으니 is Jin Mukyung, whose reaction the sentence explains.",
+      "replacement": "Jin Mukyung had seen Jeok Cheongang while I was staying with the Jin Family of Taiyuan, so that was one thing. But the Bow Saint’s presence must have come as a major shock to him, weak as he still was.",
+      "severity": "critical",
+      "source": "적천강이야 내가 태원진가에 머무를 때 본 적이 있으니 그렇다 치더라도, 궁성의 존재감은 아직 심신이 미약한 진무경에게 큰 충격을 선사한 것이 틀림없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“No, I don’t. You haven’t told me yet.”",
+      "defect": "Changes the subject of the second sentence from Taekyung to Mukyung, altering Taekyung’s deliberately obtuse reply.",
+      "id": "F02",
+      "rationale": "아직 아무 말도 안 했으니까 refers to the speaker, Taekyung, not the person questioning him.",
+      "replacement": "“No, how would I? I haven’t said anything yet.”",
+      "severity": "critical",
+      "source": "“아니, 나야 모르지. 아직 아무 말도 안 했으니까.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "I didn’t bother adding *though in reality, we aren’t related by a drop of blood.*",
+      "defect": "Omits Taekyung’s description of himself as an outsider, reducing his reflection to a statement about blood relation.",
+      "id": "F03",
+      "rationale": "이방인 explicitly identifies him as an outsider; the following sentence contrasts that reality with the brothers’ shared parentage in this world.",
+      "replacement": "I didn’t bother adding *though in reality, I was an outsider with not a drop of their blood in me.*",
+      "severity": "major",
+      "source": "물론 실상은 피 한 방울도 안 섞인 이방인이지만, 이라는 말은 굳이 덧붙이지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Is that really all? Is that why you’ve been acting so much cheerier than usual, talking up a storm and keeping everyone on their toes?”",
+      "defect": "Loses Mukyung’s observation that Taekyung is pretending to be cheerful; “keeping everyone on their toes” also substitutes others’ alertness for Taekyung’s restless behavior.",
+      "id": "F04",
+      "rationale": "밝은 척 marks the cheerfulness as an act, while 정신 산만하게 구는 describes Taekyung’s behavior.",
+      "replacement": "“Is that really the only reason you’re pretending to be so much cheerier than usual, talking nonstop and acting so restless?”",
+      "severity": "major",
+      "source": "“단지 그것뿐이냐고 물었다. 평소보다도 훨씬 밝은 척 떠들고, 정신 산만하게 구는 이유가.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“To be honest, I had a bad feeling about him. Isn’t he the old geezer who threatens to ram a giant needle into a patient’s Huiyin Acupoint if they refuse treatment? Don’t you remember what happened to you when we were trading blows with the Mount Heng Sword Sect?”",
+      "defect": "Drops Mujin’s direct address to his superior at the end of an otherwise irreverent account.",
+      "id": "F05",
+      "rationale": "조장님께서 addresses Taekyung as Captain and retains Mujin’s deferential relationship even as he jokes about the physician.",
+      "replacement": "“To be honest, I had a bad feeling about him. Isn’t he the old geezer who threatens to ram a giant needle into a patient’s Huiyin Acupoint if they refuse treatment? Captain, don’t you remember when he pulled that on you while we were trading blows with the Mount Heng Sword Sect?”",
+      "severity": "major",
+      "source": "“사실 좀 쎄하긴 했습니다. 그 노친네, 환자가 치료 거부하면 대침으로 회음혈을 쑤셔 버린다고 협박하지 않습니까. 항산검문이랑 한창 치고받고 할 때 조장님께서도 당하신 거, 기억 안 나세요?”"
+    }
+  ],
+  "summary": "The draft reverses who previously met Jeok Cheongang and who has yet to speak, and loses several cues about identity, hierarchy, and forced cheerfulness.",
+  "version": 1
+}
