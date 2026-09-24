@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "He had long since put aside the fact that his opponent was barely twenty, still a boy by any ordinary measure.",
+      "defect": "The source intensifies the youth image beyond simply being a boy: Jin is described as so young he is practically a newborn. That image is also preserved in the accepted baseline.",
+      "id": "F01",
+      "rationale": "The Korean says 새파랗다 못해 핏덩이나 다름없는 약관의 애송이, explicitly extending the image from green youth to a newborn-like youngster.",
+      "replacement": "He had long since put aside the fact that his opponent was barely twenty, a green youngster so young he was practically a newborn.",
+      "severity": "minor",
+      "source": "Lines 13"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The two blades traced grotesque paths according to the Great Snow Fiend’s will. At the point where they descended, Jin Taekyung had already closed to within three jang.",
+      "defect": "The translation omits that the twin wheels are filled with extreme Yin-Cold Qi and shoot forward while freezing the space around them.",
+      "id": "F02",
+      "rationale": "The source explicitly describes both the wheels’ cold energy and its physical effect on the space they cross; the accepted baseline preserves this detail.",
+      "replacement": "The twin wheels, filled with extreme Yin-Cold Qi, shot forward, freezing the space around them. The two blades traced grotesque paths according to the Great Snow Fiend’s will. At the point where they descended, Jin Taekyung had already closed to within three jang.",
+      "severity": "minor",
+      "source": "Lines 47–49"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The fact that the Black Hand Fist Demon—despite being a Supreme Peak master like him, clearly a level below—had managed to match him for even a brief moment was proof.",
+      "defect": "The source first states directly that Jin Taekyung is exhausted from successive injuries. That explicit condition is omitted; the following sentence presents the Black Hand Fist Demon’s brief equality only as proof of it.",
+      "id": "F03",
+      "rationale": "The source says 지금의 진태경은 연이은 부상으로 지쳐 있는 상태 before identifying the brief even match as evidence. The direct statement is retained in the accepted baseline.",
+      "replacement": "Jin Taekyung was exhausted from his successive injuries. The fact that the Black Hand Fist Demon—despite being a Supreme Peak master like him, clearly a level below—had managed to match him for even a brief moment was proof.",
+      "severity": "minor",
+      "source": "Lines 173–175"
+    },
+    {
+      "confidence": 0.99,
+      "current": "If his martial arts had been strong enough, he might have killed the man long ago without alerting the Southern Heaven Demon Empress.",
+      "defect": "The translation omits the Black Hand Fist Demon’s stated dislike of the Great Snow Fiend and the reasons for it: his condescending, slave-like manner of address and his contemptuous gaze.",
+      "id": "F04",
+      "rationale": "These are explicit characterization and motive details in the source; the assembled version keeps the conditional threat but drops the attitude and its stated causes.",
+      "replacement": "He had never liked the Great Snow Fiend. No—the way the Great Snow Fiend usually treated him made even that sound generous. The man always spoke down to him as if he were a slave and looked at him as if he were far beneath him. If his martial arts had been strong enough, he might have killed him long ago without alerting the Southern Heaven Demon Empress.",
+      "severity": "minor",
+      "source": "Lines 221–223"
+    }
+  ],
+  "summary": "The assembled English is broadly faithful, but it omits several explicit source details, including the wheels’ freezing effect and the Black Hand Fist Demon’s attitude toward the Great Snow Fiend.",
+  "version": 1
+}

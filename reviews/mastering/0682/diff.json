@@ -1,0 +1,2687 @@
+{
+  "baseline_blocks": 172,
+  "baseline_sha256": "a27d678fd60325775dbf1caf056c7600613835d6b9a6414a670110ce32d277ff",
+  "global_terminology_alerts": [
+    {
+      "korean": "제자",
+      "preferred": "Disciple"
+    },
+    {
+      "korean": "사검",
+      "preferred": "Snake Sword"
+    }
+  ],
+  "hunk_count": 132,
+  "hunks": [
+    {
+      "baseline": "As he watched Jin Taekyung charge straight toward him, the Great Snow Fiend muttered inwardly.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "As Jin Taekyung charged straight toward him, the Great Snow Fiend thought, *Yes. Come.*",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Yes. Come.*",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "",
+      "sol_paragraphs": "after P3",
+      "sol_range": [
+        3,
+        3
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The boy’s three-inch tongue had stirred him for the first time in a long while, but nothing had changed.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "The boy’s sharp tongue had unsettled him for the first time in years, but it changed nothing. He had long since put aside the fact that his opponent was barely twenty, still a boy by any ordinary measure.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had erased from his mind long ago the fact that his opponent was a green youngster barely twenty, so young he was practically a newborn.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "How could he dare to do otherwise? The Jin Taekyung the Great Snow Fiend had assessed was a monster without equal throughout all of history.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "How could he afford to think of him that way? By the Great Snow Fiend’s reckoning, Jin Taekyung was a monster almost without precedent in history.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Three Saints and Ten Kings—giants who had already left enormous footprints across the distant history of the Murim—had not reached the Supreme Peak realm until after they were at least thirty.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "Even the Three Saints and Ten Kings—giants who had left their mark on Murim history—had not reached Supreme Peak until they were at least thirty. Jin Taekyung had done it at an absurdly young age.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "경지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "realm / realm stage"
+        }
+      ]
+    },
+    {
+      "baseline": "That made Jin Taekyung all the more astonishing.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "19",
+      "sol": "",
+      "sol_paragraphs": "after P6",
+      "sol_range": [
+        6,
+        6
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "Terrifying talent. And an absurdly young age.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "Terrifying talent. Far too many years ahead of him.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Alongside another genius who had inherited Sword Saint Mae Jonghak’s legacy, Cheongpung of Huashan, he was certain to become one of the most dangerous obstacles.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "23",
+      "sol": "Alongside Cheongpung of Huashan, the other genius who had inherited Sword Saint Mae Jonghak’s teachings, he was certain to become one of their most dangerous obstacles.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*At the very least, within the next fifty years, he will grow into a monster capable of matching the Martial God and Heavenly Demon. He must be dealt with now.*",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "25",
+      "sol": "*Within fifty years, he may grow into a monster capable of matching the Martial God and the Heavenly Demon. He must be dealt with now.*",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "의지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Will"
+        }
+      ]
+    },
+    {
+      "baseline": "The Great Snow Fiend did not know the full reason why his direct superior, the Southern Heaven Demon Empress, had ordered Jin Taekyung captured alive.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "27",
+      "sol": "The Great Snow Fiend did not know exactly why his direct superior, the Southern Heaven Demon Empress, had ordered Jin Taekyung captured alive. At this moment, though, he trusted his own judgment.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But at this moment, he was certain of his own judgment.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "29",
+      "sol": "",
+      "sol_paragraphs": "after P10",
+      "sol_range": [
+        10,
+        10
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Demon Empress, you are wrong this time. He… is not someone who can ever be allowed to live.*",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "31",
+      "sol": "*Demon Empress, you are wrong this time. He… must never be allowed to live.*",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with words that would never reach their intended listener, the twin wheels let out a harsh howl from within the Great Snow Fiend’s sleeves.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "33",
+      "sol": "As he addressed her in thoughts she would never hear, the twin wheels within his sleeves let out a harsh howl.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "Now that his martial arts and identity had been exposed, there was nothing to gain from holding back his strength.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "37",
+      "sol": "His martial arts and identity had already been exposed. There was nothing to gain by holding back.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Great Snow Fiend focused every sense throughout his body and watched Jin Taekyung’s rapidly approaching figure. His eyes flashed.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "39",
+      "sol": "The Great Snow Fiend focused every sense on Jin Taekyung’s rapidly approaching figure. His eyes flashed.",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It happened at that very moment.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "43",
+      "sol": "",
+      "sol_paragraphs": "after P16",
+      "sol_range": [
+        16,
+        16
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The rapidly spinning twin wheels left his wrinkled hand.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "47",
+      "sol": "The twin wheels spun out of his wrinkled hands.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The twin wheels, filled to the brim with extreme Yin-Cold Qi, shot forward, freezing the space around them.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "51",
+      "sol": "",
+      "sol_paragraphs": "after P19",
+      "sol_range": [
+        19,
+        19
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "음한지기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yin-Cold Qi"
+        }
+      ]
+    },
+    {
+      "baseline": "The two blades traced grotesque paths according to the Great Snow Fiend’s will. At the point where they descended, Jin Taekyung had already closed to within three jang.[^1]",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "53",
+      "sol": "Brimming with Yin-Cold Qi, they shot forward, freezing the space around them. The two blades traced strange paths according to the Great Snow Fiend’s will, then descended on Jin Taekyung, who had already closed to within three jang.[^1]",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A tremendous roar erupted as blue and white flashes collided.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "57",
+      "sol": "Blue and white flashes mingled with a tremendous roar. Fire met ice.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fire and ice clashed.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "59",
+      "sol": "",
+      "sol_paragraphs": "after P22",
+      "sol_range": [
+        22,
+        22
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With a single swing, Jin Taekyung knocked the twin wheels away, then burst through the mistlike steam that had settled over the ground.",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "61",
+      "sol": "Jin Taekyung knocked the wheels away with a single swing and burst through the mist of steam that settled in their wake.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His movement was swift, appearing no different from before.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "65",
+      "sol": "",
+      "sol_paragraphs": "after P24",
+      "sol_range": [
+        24,
+        24
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the Great Snow Fiend’s sharp eyes had grasped every detail.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "67",
+      "sol": "He looked as swift as ever, but the Great Snow Fiend’s sharp eyes caught the difference.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He is only suppressing it for the moment. The aftereffects of his internal injuries are certainly still with him.*",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "69",
+      "sol": "*He’s suppressing it for now. His internal injuries are still affecting him.*",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The difference was minuscule, but it was clear.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "71",
+      "sol": "",
+      "sol_paragraphs": "after P26",
+      "sol_range": [
+        26,
+        26
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His movements were subtly disordered compared to before, and his momentum had grown rougher.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "73",
+      "sol": "It was slight, but unmistakable. His movements had lost some of their precision, and his momentum had grown rougher.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the Great Snow Fiend’s eyes, Jin Taekyung was a wounded beast.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "75",
+      "sol": "To the Great Snow Fiend, Jin Taekyung looked like a wounded beast: claws still sharp, but tiring fast.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His claws were still sharp, but he was rapidly growing tired.",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "77",
+      "sol": "",
+      "sol_paragraphs": "after P28",
+      "sol_range": [
+        28,
+        28
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the Great Snow Fiend was a seasoned hunter who knew better than anyone how to hunt such a beast.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "79",
+      "sol": "And the Great Snow Fiend knew better than anyone how to hunt such a beast.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He even had a hunting dog beside him in the form of the Black Hand Fist Demon.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P30",
+      "sol_range": [
+        30,
+        30
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "흑수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand"
+        },
+        {
+          "korean": "흑수권마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand Fist Demon"
+        },
+        {
+          "korean": "사냥개",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "hunting dog"
+        }
+      ]
+    },
+    {
+      "baseline": "The dog was not strong enough to sink its teeth into the beast’s neck, but it was savage enough to charge at the beast in place of the hunter.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "85",
+      "sol": "He even had a hunting dog beside him—the Black Hand Fist Demon. Not strong enough to sink its teeth into the beast’s neck, perhaps, but savage enough to charge in on the hunter’s behalf.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The hunter moved back. The hunting dog moved forward.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "91",
+      "sol": "The hunter moved back. The dog moved forward.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "사냥개",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "hunting dog"
+        }
+      ]
+    },
+    {
+      "baseline": "The Great Snow Fiend retreated a great distance, matching exactly the distance Jin Taekyung had advanced, and shouted. In response, the Black Hand Fist Demon charged toward Jin Taekyung.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "93",
+      "sol": "The Great Snow Fiend sprang back exactly as far as Jin Taekyung had advanced. At his shout, the Black Hand Fist Demon charged.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with a roar filled with rage, dozens of palm strikes packed with powerful internal energy shot forward.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "97",
+      "sol": "With a furious roar, he unleashed dozens of palm strikes packed with powerful internal energy.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A wave of black Force surged toward him.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "101",
+      "sol": "",
+      "sol_paragraphs": "after P38",
+      "sol_range": [
+        38,
+        38
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "At the same time, the spear in Jin Taekyung’s hand blurred.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "103",
+      "sol": "Black Force surged toward Jin Taekyung like a wave. At the same moment, the spear in his hand blurred.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The realm of Supreme Peak, where only the chosen could set foot.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "107",
+      "sol": "Supreme Peak—a realm only the chosen could enter.",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The young monster who had reached that realm at barely twenty thrust out his spear without a moment’s hesitation. Blue-white flames coiling around the spearhead bored into the center of the black wave.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "109",
+      "sol": "The young monster who had reached it at barely twenty thrust out his spear without hesitation. Blue-white flames coiled around the spearhead as it drove into the center of the black wave.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "경지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "realm / realm stage"
+        }
+      ]
+    },
+    {
+      "baseline": "A strike that pierced a single point exactly.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "113",
+      "sol": "One strike, aimed precisely at one point.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Jin Taekyung split the wave of Force in half and blasted through it, the Great Snow Fiend swept both hands downward through the air.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "115",
+      "sol": "Jin Taekyung split the wave of Force and burst through it. The Great Snow Fiend swept both hands downward, and the wheels Jin Taekyung had knocked away plunged from where they circled overhead.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, the twin wheels that had been knocked away by the spearhead and were circling somewhere in the air plunged downward.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "117",
+      "sol": "",
+      "sol_paragraphs": "after P45",
+      "sol_range": [
+        45,
+        45
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their movements were like those of living creatures.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "121",
+      "sol": "They moved like living creatures.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Some might have called it Seizing an Object Through Empty Space, or Snake Sword, a technique performed with cords or threads.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "123",
+      "sol": "Some might have mistaken this for Seizing an Object Through Empty Space, or for a sword technique worked with cords or threads. They would have been wrong on both counts.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "사검",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Snake Sword"
+        }
+      ]
+    },
+    {
+      "baseline": "Both would have been wrong.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "125",
+      "sol": "",
+      "sol_paragraphs": "after P48",
+      "sol_range": [
+        48,
+        48
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What moved the twin wheels was the Great Snow Fiend’s own will. And the twin wheels, moved solely by the power of his Middle Dantian, contained only one purpose.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "127",
+      "sol": "The Great Snow Fiend’s will alone moved the wheels. Powered solely by his Middle Dantian, they carried a single purpose.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A killing intent as cold as ice, directed at one person alone.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "131",
+      "sol": "Killing intent as cold as ice, directed at one man.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The two wheels bent in different directions and descended like flashes of light. At the same time, the Black Hand Fist Demon’s figure shot forward, trailing a savage momentum.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "133",
+      "sol": "The wheels veered in different directions and fell like flashes of light. Below them, the Black Hand Fist Demon charged with savage force.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "기세",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "aura / momentum"
+        }
+      ]
+    },
+    {
+      "baseline": "Three flashes arrived at once from three directions.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "137",
+      "sol": "Three flashes converged from three directions.",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Great Snow Fiend looked at Jin Taekyung, standing at the intersection of death, and felt certain.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "139",
+      "sol": "The Great Snow Fiend watched Jin Taekyung at the point where they would meet.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If he clashes with the Black Hand Fist Demon like this, he will not come away unharmed. He will retreat. I will use that opening to…*",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "141",
+      "sol": "*If he clashes with Black Hand now, he won’t come away unharmed. He’ll retreat, and I’ll use that opening to…*",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑수권마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand Fist Demon"
+        },
+        {
+          "korean": "의지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Will"
+        }
+      ]
+    },
+    {
+      "baseline": "But at that moment, Jin Taekyung’s movement rendered the Great Snow Fiend’s entire line of thought useless.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "143",
+      "sol": "Jin Taekyung rendered the rest of the plan useless.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "Jin Taekyung advanced.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "147",
+      "sol": "",
+      "sol_paragraphs": "after P58",
+      "sol_range": [
+        58,
+        58
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "He did not retreat even an inch. He did not hesitate.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "149",
+      "sol": "He advanced. Not an inch of retreat, not a moment of hesitation.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He swung his spear like lightning toward the twin wheels flying overhead, then dropped one fist like the forepaw of a tiger charging after being driven to the edge of a cliff.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "151",
+      "sol": "His spear flashed toward the wheels above his head. Then he drove out a fist like the forepaw of a tiger charging from the edge of a cliff.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Great Snow Fiend saw it all clearly.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "155",
+      "sol": "The Great Snow Fiend saw it clearly.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Within the tremendous roar that sounded as if the sky were splitting apart and the flash of light that followed, a spear rose over Jin Taekyung’s shoulder.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "159",
+      "sol": "Amid a roar like the sky splitting apart, a spear flew up over Jin Taekyung’s shoulder.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then the twin wheel that slashed across Jin Taekyung’s shoulder like a bolt of lightning, while he clashed with the Black Hand Fist Demon and left the beloved spear that had slipped from his hand behind.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "163",
+      "sol": "He had lost his grip on his treasured weapon. As he clashed with the Black Hand Fist Demon, the twin wheels slashed across his shoulder like lightning.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "Bright-red blood burst out like a fountain, and Jin Taekyung’s figure staggered.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "167",
+      "sol": "Bright-red blood sprayed like a fountain. Jin Taekyung staggered.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At this wholly unexpected development that had unfolded in an instant, even the normally cold Great Snow Fiend faltered. He could not retrieve the twin wheels buried deep in the stone wall.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "169",
+      "sol": "The turn was so sudden that even the Great Snow Fiend faltered, failing to recall the wheels now buried deep in the stone wall.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "경험치",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "EXP"
+        }
+      ]
+    },
+    {
+      "baseline": "The Great Snow Fiend could not understand.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "173",
+      "sol": "",
+      "sol_paragraphs": "after P70",
+      "sol_range": [
+        70,
+        70
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "If he had been in the same position, he would have chosen to evade without the slightest hesitation.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "175",
+      "sol": "He could not understand it. In Jin Taekyung’s place, he would have dodged without a second thought.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But his thoughts could go no further.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "177",
+      "sol": "But he had no time to think further.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "A shock wave burst from Jin Taekyung and the Black Hand Fist Demon, shaking the space around them.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "181",
+      "sol": "A shock wave burst from Jin Taekyung and the Black Hand Fist Demon, shaking the space around them. Their fists had met in midair and now trembled, neither advancing nor giving way.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Their fists had met in midair.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "183",
+      "sol": "",
+      "sol_paragraphs": "after P74",
+      "sol_range": [
+        74,
+        74
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Neither could retreat. Neither could advance. Both fists trembled violently.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "185",
+      "sol": "",
+      "sol_paragraphs": "after P74",
+      "sol_range": [
+        74,
+        74
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "An even match.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "187",
+      "sol": "*An even match.*",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with the three words that flashed through his mind, the Great Snow Fiend’s figure blurred.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "189",
+      "sol": "The thought flashed through the Great Snow Fiend’s mind, and his figure blurred.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung was exhausted from his successive injuries.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "193",
+      "sol": "",
+      "sol_paragraphs": "after P77",
+      "sol_range": [
+        77,
+        77
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "The fact that the Black Hand Fist Demon—despite being a Supreme Peak master like him, clearly a level below—had managed to match him for even a brief moment was proof.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "195",
+      "sol": "Jin Taekyung was tiring from one injury after another. The proof was before him: the Black Hand Fist Demon, a Supreme Peak master but clearly inferior to Jin Taekyung, had managed to hold him at bay.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the Great Snow Fiend was not an inept hunter who would miss an opportunity that had arrived earlier than expected.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "197",
+      "sol": "The chance had come sooner than expected. The Great Snow Fiend was too practiced a hunter to miss it.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Now is the perfect time.*",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "199",
+      "sol": "*Now.*",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even if it was wounded and bleeding, a beast was still a beast. The hunting dog called the Black Hand Fist Demon could never handle that young beast on its own.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "201",
+      "sol": "Wounded and bleeding or not, a beast was still a beast. The hunting dog could never bring this young one down alone. Only the hunter could finish it.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand"
+        },
+        {
+          "korean": "흑수권마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand Fist Demon"
+        }
+      ]
+    },
+    {
+      "baseline": "Unless the hunter—the only one capable of tearing out the beast’s throat—stepped forward.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "203",
+      "sol": "",
+      "sol_paragraphs": "after P81",
+      "sol_range": [
+        81,
+        81
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*He must die. Right now.*",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "205",
+      "sol": "*I must kill him. Right now.*",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The decision made in that split second was cold, and his advancing figure was like a flash of lightning.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "207",
+      "sol": "His decision took an instant. His body shot forward like lightning.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "FSSSH. With every step he took, the Yin-Cold Qi leaking from the Great Snow Fiend’s entire body froze the air.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "209",
+      "sol": "FSSSH. At every step, Yin-Cold Qi flowed from him and froze the air.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "He crossed more than twenty jang in only three steps and shot forward. Over the Black Hand Fist Demon’s shoulder, he saw one person.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "211",
+      "sol": "In three steps, he crossed more than twenty jang. Over the Black Hand Fist Demon’s shoulder, he caught sight of his prey.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He could see him. He could sense him.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "215",
+      "sol": "He could see him. Sense him.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ragged breathing and a pale face.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "219",
+      "sol": "",
+      "sol_paragraphs": "after P88",
+      "sol_range": [
+        88,
+        88
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The upper half of his body, where the twin wheel had skimmed him before moving on, was drenched in bright-red blood. The eyes of the beast that had discovered the hunter rushing right up to him trembled faintly.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "221",
+      "sol": "Ragged breaths. A pale face. The upper body the wheels had grazed was soaked in bright-red blood. As Jin Taekyung spotted the hunter bearing down on him, his eyes began to tremble.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*My judgment was correct.*",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "223",
+      "sol": "*I was right.*",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Certainty filled the Great Snow Fiend’s cold, composed gaze.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "225",
+      "sol": "Certainty settled into the Great Snow Fiend’s cold gaze.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Blazing Flame Divine Dragon Jin Taekyung.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "227",
+      "sol": "",
+      "sol_paragraphs": "after P91",
+      "sol_range": [
+        91,
+        91
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "열화",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blazing Flame"
+        },
+        {
+          "korean": "열화신룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Blazing Flame Divine Dragon"
+        },
+        {
+          "korean": "신룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Divine Dragon"
+        }
+      ]
+    },
+    {
+      "baseline": "The heir to the Fire Gate Clan. The successor of the Fire King Jeok Cheongang.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "229",
+      "sol": "Blazing Flame Divine Dragon Jin Taekyung. Heir to the Fire Gate Clan and successor to the Fire King Jeok Cheongang.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Divine Dragon of the Central Plains, who would one day become a new Martial God and look down upon the world, would die before he ever rose above the clouds.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "231",
+      "sol": "The Divine Dragon of the Central Plains might one day become a new Martial God, looking down upon the world. But he would die before he ever rose above the clouds.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Right here.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "233",
+      "sol": "",
+      "sol_paragraphs": "after P93",
+      "sol_range": [
+        93,
+        93
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Today.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "235",
+      "sol": "Today. Here.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The time for the hunt had finally arrived.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "237",
+      "sol": "It was time for the hunt.",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The wind blew.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "241",
+      "sol": "",
+      "sol_paragraphs": "after P96",
+      "sol_range": [
+        96,
+        96
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It carried cold into the air and earth that had briefly heated to a fever, and it would cover the mountains, rivers, plants, and trees with frost.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "243",
+      "sol": "Wind blew across the ground, bringing cold to air and earth that had briefly grown hot. It would cover mountains, rivers, trees, and grasses with frost.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a snow wind that planted despair in one person and hope in another.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "245",
+      "sol": "For one man, that snow wind brought despair. For another, hope.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Black Hand Fist Demon barely managed to suppress the cheer trying to escape between his lips.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "249",
+      "sol": "The Black Hand Fist Demon barely held back a cheer.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had never liked the Great Snow Fiend.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "251",
+      "sol": "",
+      "sol_paragraphs": "after P100",
+      "sol_range": [
+        100,
+        100
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "No. Considering the attitude the Great Snow Fiend usually showed him, even that description was generous.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "253",
+      "sol": "",
+      "sol_paragraphs": "after P100",
+      "sol_range": [
+        100,
+        100
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "The condescending way he spoke, as though addressing a slave. The way he looked at him as if he were far beneath him.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "255",
+      "sol": "",
+      "sol_paragraphs": "after P100",
+      "sol_range": [
+        100,
+        100
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If his martial arts had been strong enough, he might have killed the man long ago without alerting the Southern Heaven Demon Empress.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "257",
+      "sol": "He had never liked the Great Snow Fiend. No—considering the way the man treated him, that was putting it generously. The commanding tone he used as though speaking to a servant, the look in his eyes as though Black Hand were far beneath him… If their martial arts had been equal, Black Hand might have killed him long ago, out of the Southern Heaven Demon Empress’s sight.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But in a situation like this, the Great Snow Fiend’s presence was worth a thousand troops.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "259",
+      "sol": "But right now, the Great Snow Fiend was worth an army.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Black Hand Fist Demon watched Jin Taekyung hurriedly try to pull away and smiled with madness.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "261",
+      "sol": "Watching Jin Taekyung hurriedly try to pull away, the Black Hand Fist Demon smiled with mad delight.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*You bastard disciple of the Fire Gate Clan. Even tearing you apart limb by limb wouldn’t be enough. You will never escape.*",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "263",
+      "sol": "*You Fire Gate Clan bastard. Tearing you to pieces wouldn’t be enough. You’re not getting away.*",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "제자",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Disciple"
+        },
+        {
+          "korean": "의지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Will"
+        }
+      ]
+    },
+    {
+      "baseline": "In that instant, a hand spread like a hook wrapped around Jin Taekyung’s fist just as it was about to fall.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "267",
+      "sol": "",
+      "sol_paragraphs": "after P105",
+      "sol_range": [
+        105,
+        105
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "It was a grappling technique the Black Hand Fist Demon had practiced for as many years as his fist technique.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "269",
+      "sol": "His hooked fingers closed around Jin Taekyung’s fist just as it was about to fall. It was a grappling technique he had practiced for as long as his fist technique.",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand"
+        },
+        {
+          "korean": "흑수권마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand Fist Demon"
+        }
+      ]
+    },
+    {
+      "baseline": "ZZZT. The heat was like lava, hot enough to make both his hands seem ready to burn, but the Black Hand Fist Demon did not care.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "271",
+      "sol": "ZZZT. Heat like lava seared his hands, threatening to set them alight, but he did not care.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand"
+        },
+        {
+          "korean": "흑수권마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand Fist Demon"
+        }
+      ]
+    },
+    {
+      "baseline": "A single moment would be enough.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "273",
+      "sol": "",
+      "sol_paragraphs": "after P107",
+      "sol_range": [
+        107,
+        107
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then both this pain and Jin Taekyung’s life would come to an end.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "275",
+      "sol": "He needed only a moment. Then both the pain and Jin Taekyung’s life would end.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Black Hand Fist Demon looked into Jin Taekyung’s wide-open eyes and shouted as though cheering.",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "277",
+      "sol": "He stared into Jin Taekyung’s wide eyes and cried out in triumph.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand"
+        },
+        {
+          "korean": "흑수권마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand Fist Demon"
+        }
+      ]
+    },
+    {
+      "baseline": "Before the Black Hand Fist Demon’s shout had even ended, the Great Snow Fiend answered his call.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "281",
+      "sol": "The Great Snow Fiend answered before the shout had ended.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "흑수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand"
+        },
+        {
+          "korean": "흑수권마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand Fist Demon"
+        }
+      ]
+    },
+    {
+      "baseline": "He drove an ice sword created solely from extreme Yin-Cold Qi into the Black Hand Fist Demon’s back.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "283",
+      "sol": "He drove a sword made entirely of Yin-Cold Qi into the Black Hand Fist Demon’s back.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "In the slowed world, a single sound of tearing flesh rang out, and the Black Hand Fist Demon’s body stiffened with a jolt.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "289",
+      "sol": "In the slowed world, flesh tore and the Black Hand Fist Demon’s body went rigid.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But to the Great Snow Fiend, the hunting dog’s reaction after completing its mission was irrelevant.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "291",
+      "sol": "",
+      "sol_paragraphs": "after P115",
+      "sol_range": [
+        115,
+        115
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        },
+        {
+          "korean": "사냥개",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "hunting dog"
+        }
+      ]
+    },
+    {
+      "baseline": "His cold gaze was fixed on only one place: Jin Taekyung’s eyes, wide with pain and shock.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "293",
+      "sol": "The Great Snow Fiend cared nothing for the reaction of a hunting dog that had served its purpose. His cold gaze remained fixed ahead, on Jin Taekyung’s eyes, wide with pain and shock.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Or at least, it should have been.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "295",
+      "sol": "Or so it should have.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as the former Sect Leader of the Zhongnan Sect had been, when the Great Snow Fiend encountered him long ago on Great Snow Mountain.",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "297",
+      "sol": "The former Sect Leader of the Zhongnan Sect had worn that look when they met long ago on Great Snow Mountain. So had the Black Hand Fist Demon in the instant before his death.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "Just as the Black Hand Fist Demon, who had already met his death, had been.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "299",
+      "sol": "",
+      "sol_paragraphs": "after P118",
+      "sol_range": [
+        118,
+        118
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "흑수",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand"
+        },
+        {
+          "korean": "흑수권마",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Black Hand Fist Demon"
+        }
+      ]
+    },
+    {
+      "baseline": "Jin Taekyung should have been pierced and killed by the ice sword filled with powerful Yin-Cold Qi.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "301",
+      "sol": "Jin Taekyung, too, should have died impaled on the sword of Yin-Cold Qi.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What is this?*",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "301",
+      "sol": "*What?*",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Great Snow Fiend’s gaze, frozen as though it could not move, trembled.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "301",
+      "sol": "The Great Snow Fiend’s eyes trembled. He lowered his gaze slowly and saw a hand touching his chest.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His eyes slowly lowered.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "301",
+      "sol": "",
+      "sol_paragraphs": "after P122",
+      "sol_range": [
+        122,
+        122
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There, he saw someone’s hand pressed against his chest.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "301",
+      "sol": "",
+      "sol_paragraphs": "after P122",
+      "sol_range": [
+        122,
+        122
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same moment the Great Snow Fiend thrust out his ice sword—no, a fraction of a moment before it—the hand that had pierced through the Black Hand Fist Demon’s chest was red, yet blue, and blue, yet dazzling.",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "301",
+      "sol": "At the same moment he had thrust his ice sword—no, a fraction of a moment before—this hand had pierced through the Black Hand Fist Demon’s chest. It was red and blue, blue and dazzling.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대설귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Snow Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "It was hot.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "301",
+      "sol": "",
+      "sol_paragraphs": "after P124",
+      "sol_range": [
+        124,
+        124
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hot enough to burn flesh and bone, even the soul inside the body.",
+      "baseline_paragraphs": "P159",
+      "baseline_range": [
+        158,
+        159
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "301",
+      "sol": "The heat was enough to burn flesh and bone. Even the soul within.",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As he gazed at the blue-white hellfire burning while drenched in blood, the Great Snow Fiend muttered in a voice that seemed to boil.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "301",
+      "sol": "As he stared at the blood-soaked blue-white hellfire, the Great Snow Fiend spoke in a voice that seemed to boil.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, Jin Taekyung’s calm voice pierced his ears.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "301",
+      "sol": "Jin Taekyung’s calm voice reached his ear.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You should’ve stabbed a little higher. Unless you were trying to give me EXP.”",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "301",
+      "sol": "“You should’ve stabbed a little higher. Unless you meant to give me the EXP.”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What?",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "301",
+      "sol": "*What?*",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Great Snow Fiend wanted to ask again, but Jin Taekyung did not allow him to.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "301",
+      "sol": "The Great Snow Fiend wanted to ask again. Jin Taekyung gave him no chance.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beyond the terrible heat that seemed to burn through his entire body, the Great Snow Fiend saw it.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "301",
+      "sol": "Through the terrible heat burning across his body, the Great Snow Fiend saw it.",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*That…*",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "301",
+      "sol": "*That’s…*",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Black Hand Fist Demon’s collapsing body.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "301",
+      "sol": "The Black Hand Fist Demon’s body collapsing—and the strange red armor covering Jin Taekyung’s upper body.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And an unidentified red armor draped across Jin Taekyung’s upper body.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "301",
+      "sol": "",
+      "sol_paragraphs": "after P135",
+      "sol_range": [
+        135,
+        135
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    }
+  ],
+  "sol_blocks": 137,
+  "sol_sha256": "05a13c77141da39b6c9fc2331bf8a862e6ed8ed33145428307962237cfc20c33",
+  "version": 1
+}
