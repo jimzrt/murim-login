@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "After that, he’d wanted to become a source of pride to the Jin Family of Taiyuan—and a brother his younger sibling could be proud of.",
+      "defect": "Makes Mukyung the older brother in an ambition that concerns being a younger brother.",
+      "id": "F01",
+      "rationale": "아우 means younger brother. His separate wish to be an older brother worthy of Taekyung follows in the next paragraph.",
+      "replacement": "After that, he’d wanted to become the pride of the Jin Family of Taiyuan—and a younger brother his elder brother could be proud of.",
+      "severity": "critical",
+      "source": "그 이후에는 태원진가의 긍지이자 자랑스러운 아우가 되고 싶었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The lives he’d taken had been earned not to kill, but to protect.",
+      "defect": "Says the lives were earned and gives an incoherent purpose for taking them; the source describes the burden of killing he accumulated.",
+      "id": "F02",
+      "rationale": "살업 is the killing he has committed; the contrast is between killing for its own sake and killing to protect.",
+      "replacement": "The blood on his hands had come from protecting others, not from a desire to kill.",
+      "severity": "major",
+      "source": "누군가를 죽이기 위해서가 아니라, 지키기 위해 쌓아 올린 살업(殺業)이었으니."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And I’d inherited Jin Mukyung’s wish: that their sacrifices wouldn’t be in vain.",
+      "defect": "Changes a wish to prevent further sacrifices into a wish to give existing sacrifices meaning.",
+      "id": "F03",
+      "rationale": "더는 있어서는 안 된다 means such sacrifices must not happen anymore.",
+      "replacement": "And I’d taken Jin Mukyung’s wish to heart: there must be no more sacrifices like theirs.",
+      "severity": "major",
+      "source": "그런 그들의 희생이 더는 있어서는 안 된다는 진무경의 염원도 확실하게 이어받았다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "He faced a silver-haired, middle-aged man with an unfamiliar face, watching them from a dozen *zhang* away with a deeply guarded gaze.",
+      "defect": "Changes the man’s singular target of attention to both brothers.",
+      "id": "F04",
+      "rationale": "자신을 응시하는 specifies that the man is staring at the younger brother who faces him, not at “them.”",
+      "replacement": "He faced an unfamiliar, graying middle-aged man who stood a dozen *zhang* away, staring straight at him with a somber gaze.",
+      "severity": "critical",
+      "source": "십여 장 밖에서 깊게 가라앉은 눈빛으로 자신을 응시하는, 낯선 얼굴을 한 반백의 중년인을 마주한 채."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Flames poured from his eyes. His voice, by contrast, was cold as ice.\n\n“Did you beat up my older brother?”",
+      "defect": "Flattens Taekyung’s blunt, intimate spoken 형 to the formal-sounding “older brother.”",
+      "id": "F05",
+      "rationale": "The binding address rule retains hyung when spoken 형 is the topic; the question’s bluntness also matters here.",
+      "replacement": "Flames poured from his eyes. His voice, by contrast, was cold as ice.\n\n“Was it you who beat up my hyung?”",
+      "severity": "major",
+      "source": "“네가, 우리 형 팼냐?”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I asked you. Did you beat up my older brother?”",
+      "defect": "Repeats the loss of Taekyung’s intimate kinship term in his direct challenge.",
+      "id": "F06",
+      "rationale": "우리 형 is again spoken by the younger brother; this repeats the same pointed question.",
+      "replacement": "“I asked you. Was it you who beat up my hyung?”",
+      "severity": "major",
+      "source": "“물었잖아. 네가 우리 형 팼냐고.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“Why are you making such a fuss? You’re making the people watching worry.”",
+      "defect": "Drops Murong’s “headache,” which sets up the skull-cracking treatment joke, and turns the speaker’s conversational concern into concern from spectators.",
+      "id": "F07",
+      "rationale": "골치가 아프다 echoes Murong’s complaint and leads into 골을 깨부수는; 보는 사람 is a colloquial way for Taekyung to refer to himself here.",
+      "replacement": "“Why the headache? You’re making me worry.”",
+      "severity": "major",
+      "source": "“왜 골치가 아프고 그러냐. 보는 사람 걱정 되게.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n> [Lv.??? Murong Baek]",
+      "defect": "Retains square brackets inside a framed System panel, contrary to the specified panel format.",
+      "id": "F08",
+      "rationale": "The blockquote and System heading already identify the UI window; the binding Markdown rule removes brackets from System notices.",
+      "replacement": "> **System**\n> Lv.??? Murong Baek",
+      "severity": "minor",
+      "source": "[Lv.??? 모용백]"
+    }
+  ],
+  "summary": "Several scene facts and character cues need correction, especially Mukyung’s kinship, his final wish, and the target of Murong Baek’s gaze.",
+  "version": 1
+}
