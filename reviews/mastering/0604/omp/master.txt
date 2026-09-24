@@ -18,7 +18,7 @@ I hadn’t expected that.
 
 It had been more than a month since I opened my Middle Dantian, but I’d had no idea it could do this.
 
-And then, following the System notification announcing an unexpected reward, the news I had been waiting for arrived.
+Then, after the unexpected reward notification, came the news I’d been waiting for.
 
 *Ding.*
 
@@ -48,7 +48,7 @@ But I was certain something lay beyond it.
 
 Fwoosh.
 
-Three jiazi of Scorching Yang Qi transformed into flame. I silently looked down at my hands, bluish-white flames flickering over them, then closed my eyes and reached out.
+Three jiazi of Scorching Yang Qi turned to flame. I looked down at the bluish-white fire on my hands, then closed my eyes and reached out.
 
 *What you see isn’t everything.*
 
@@ -56,7 +56,7 @@ It was a matter of perception. I had to see and feel with my instincts, my sense
 
 I focused every bit of my attention and poured out internal energy without restraint. My partially opened Middle Dantian responded.
 
-The flickering flames gradually settled, completely enveloping my entire hand.
+The flickering flames slowly settled, wrapping completely around my hands.
 
 Compression. True Form.
 
@@ -64,13 +64,13 @@ And then…
 
 Crack.
 
-I gripped the flow of qi in my grasp and tore it apart with all my strength.
+I caught the flow of qi in my hands and tore it open.
 
 Shraaak!
 
 The air split apart amid the bluish-white flames. Force dispelled spells I couldn’t begin to understand, revealing an opening into another space.
 
-The Skeleton King and Team Leader Choi stared blankly at the scene unfolding before them and muttered.
+The Skeleton King and Team Leader Choi stared at it blankly.
 
 “He… tore it.”
 
@@ -106,7 +106,7 @@ Team Leader Choi walked across the soft carpet, his eyes trembling faintly. He s
 
 “Salvator Mundi.”
 
-“Did you just call me Mundi?”
+I frowned. “Did you just call me Mundi?”
 
 “No. That’s the painting’s title. *Salvator Mundi*. It’s a masterpiece by Leonardo da Vinci. Have you never heard of it?”
 
@@ -138,7 +138,7 @@ While I argued with the Skeleton King across dimensions and borders, Team Leader
 
 The Skeleton King drew himself up like a scholar.
 
-“This body is the lord of the undead. I do not listen to the words of a human steeped in regional prejudice.”
+“I am the lord of the undead. I do not obey a human steeped in regional prejudice.”
 
 “Come along if you don’t want your ass kicked.”
 
@@ -158,11 +158,11 @@ I couldn’t even begin to guess. And the five S-grade Magic Gems shining bright
 
 My voice trailed off. Team Leader Choi gave a small nod.
 
-“Lee Jungryong definitely stole them. From what I’ve seen so far, the other rooms are the same.”
+“Lee Jungryong must have siphoned them off. From what I’ve seen, the other rooms are the same.”
 
 “This is fucking insane…”
 
-“Not only Magic Gems, but also gold bars, diamonds, bonds, and other valuable assets. There are even countless works of art believed to have disappeared after the Great Cataclysm.”
+“Magic Gems, gold bars, diamonds, bonds, and other assets. There are also works of art believed to have vanished after the Great Cataclysm.”
 
 He was right. Every door we opened along the corridor revealed treasures of immense value, or treasures you couldn’t put a price on at all.
 
@@ -214,13 +214,13 @@ More than twenty years.
 
 A child had become a boy, and a boy had become a young man. He’d lost his parents early and been separated from his maternal grandfather without knowing why. Now, at last, he had returned to his place.
 
-To meet his only blood relative.
+To face his only living blood relative. To learn the truth.
 
-“I missed you. I always have.”
+“I missed you. I always missed you.”
 
 Step.
 
-His footsteps continued forward until, at some point, they suddenly stopped.
+His steady footsteps stopped.
 
 Before him stood a large oval mechanical capsule connected to countless wires. It looked like something out of a science-fiction movie, a device made for hibernation. A coffin made for someone still alive.
 
@@ -258,17 +258,17 @@ Team Leader Choi readily agreed to the first. The second gave him pause, so I of
 
 “Five.”
 
-“Then let’s beat that bastard up and make it six. We can keep the secret and secure an additional S-grade Magic Gem.”
+“Then let’s beat that bastard to a pulp and make it six. The secret stays safe, and we get another S-grade Magic Gem.”
 
 “…!”
 
 “…!”
 
-The Skeleton King, who had demanded his terms with the spirit of an independence activist, became a pro-Japanese collaborator and cooperated, and we reached a dramatic compromise by agreeing to take him to a club.
+The Skeleton King, who’d demanded his terms like an independence activist, turned collaborator. We reached a dramatic compromise: we’d take him to a club.
 
 But for the most important matter—what to do with Cheon Taemin—we had no choice but to ask someone for help.
 
-“We can’t keep my maternal grandfather here forever. We need to move him somewhere else.”
+“We can’t keep my grandfather here. We need to move him somewhere else.”
 
 “The problem is moving him without anyone noticing…”
 
@@ -276,7 +276,7 @@ Neither a pocket enchanted with spatial expansion magic nor my Inventory could d
 
 After thinking it over, only one answer remained.
 
-“We have to move him using teleportation magic.”
+“We’ll have to use teleportation magic.”
 
 What mattered was who performed it.
 
@@ -294,6 +294,6 @@ So I made a call.
 
 “Team Leader Choi wants to see you. A kiss is totally possible.”
 
-—I'll come right now.
+—I’ll be right there.
 
 [^1]: *Mundi* sounds like a Gyeongsang dialect insult, which is why Taekyung mistakes the painting’s title for a comment about him.

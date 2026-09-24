@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Major Guilds had gained enough wealth and influence to overshadow powerful corporations.",
+      "defect": "“Overshadow” softens the source’s claim: the major Guilds had enough wealth and standing to crush powerful corporations, not merely outshine them.",
+      "id": "F01",
+      "rationale": "The Korean says 거대 길드는 막강한 기업을 짓누를만한 부와 위상을 갖게 되었다: major Guilds acquired wealth and status enough to press down or crush powerful corporations. The assembled English weakens that comparison.",
+      "replacement": "Major Guilds had gained enough wealth and standing to crush powerful corporations.",
+      "severity": "minor",
+      "source": "Korean source, line 207"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with one softened comparison that loses the force of the Korean.",
+  "version": 1
+}
