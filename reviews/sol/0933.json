@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If their medicine could’ve treated this, they would’ve done something long ago.",
+      "defect": "The draft makes the physicians responsible for failing to act, although the Emperor says he would have taken action; he has kept the illness from them.",
+      "id": "F01",
+      "rationale": "The following sentence explicitly says the Emperor hid his condition even from the imperial physicians.",
+      "replacement": "If their medicine could’ve treated this, I would’ve sought their help long ago.",
+      "severity": "critical",
+      "source": "그들의 의술로 치료할 수 있는 병이었다면 진즉 손을 썼을 거야."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Thanks to the new scars that had finally made their faces distinguishable, I could tell them apart now.",
+      "defect": "Plural “scars” changes the single new scar used to distinguish the twins.",
+      "id": "F02",
+      "rationale": "The source specifies 흉터 in the singular as the distinguishing mark.",
+      "replacement": "A new scar finally let me tell their faces apart.",
+      "severity": "critical",
+      "source": "새로 생긴 흉터로 드디어 얼굴을 구분할 수 있게 된 쌍둥이 무장이 나를 기다리고 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Who knows? There’s no reason you need to know.”",
+      "defect": "“Who knows?” suggests the Emperor does not know the answer, rather than declining to tell Taekyung.",
+      "id": "F03",
+      "rationale": "글쎄 is an evasive preface here; the Emperor subsequently gives the timing.",
+      "replacement": "“Well. I don’t see why you need to know.”",
+      "severity": "major",
+      "source": "“글쎄. 그걸 자네가 알아야 할 이유는 없지.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Are you going to silence the witness?”",
+      "defect": "“Silence” leaves out the explicit threat of killing to keep the secret.",
+      "id": "F04",
+      "rationale": "살인멸구 specifically means killing someone to prevent disclosure.",
+      "replacement": "“Are you going to kill me to keep me quiet?”",
+      "severity": "major",
+      "source": "“살인멸구(殺人滅口)라도 하시려고요?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Not a chance. I’m going to live until I’m old enough to shit myself.”",
+      "defect": "The draft replaces the source’s image of smearing feces on a wall with incontinence, changing both the action and the joke.",
+      "id": "F05",
+      "rationale": "벽에 똥칠할 때까지 uses the wall-smearing image to mean living to an extreme old age.",
+      "replacement": "“Not a chance. I’m going to live until I’m so old I’m smearing shit on the walls.”",
+      "severity": "major",
+      "source": "“전혀요. 벽에 똥칠할 때까지 살 겁니다.”"
+    },
+    {
+      "confidence": 0.94,
+      "current": "“After enduring more than ten winters, spring has finally come. That’s enough for me.”",
+      "defect": "The draft turns one figurative winter lasting over ten years into a count of separate winters.",
+      "id": "F06",
+      "rationale": "십 년이 넘는 겨울 describes the duration of his ordeal as a long winter, contrasted with spring’s arrival.",
+      "replacement": "“After enduring a winter that lasted more than ten years, spring has finally come. That’s enough for me.”",
+      "severity": "major",
+      "source": "“십 년이 넘는 겨울을 버틴 끝에 바야흐로 봄이 찾아왔으니, 그것으로 되었다.”"
+    },
+    {
+      "confidence": 0.92,
+      "current": "“Come on, why are you all making this so awkward?”",
+      "defect": "“Awkward” loses Taekyung’s bashful reaction to being honored.",
+      "id": "F07",
+      "rationale": "낯간지럽게 conveys embarrassment at the flattering display, not discomfort with a social mistake.",
+      "replacement": "“Come on, you’re making me blush.”",
+      "severity": "minor",
+      "source": "“거, 낯간지럽게 왜들 이러시나.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Emperor, who’d been chuckling softly, suddenly broke into a coughing fit.",
+      "defect": "A coughing fit overstates the brief cough that precedes the blood.",
+      "id": "F08",
+      "rationale": "잔기침 denotes a light cough; the ensuing blood is what makes the moment alarming.",
+      "replacement": "The Emperor, who’d been chuckling softly, suddenly gave a small cough.",
+      "severity": "minor",
+      "source": "작게 너털웃음을 흘리던 황제가 돌연 잔기침을 내뱉은 것은."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it changes who could have sought treatment, multiplies a distinguishing scar, and alters several meaningful lines of dialogue and imagery.",
+  "version": 1
+}
