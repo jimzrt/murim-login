@@ -4,17 +4,17 @@ The reconnaissance squad was made up of swift-footed elites, and it showed. More
 
 But none of them—not even the two tribal chieftains leading the squad—had expected another group of unwelcome visitors to arrive before they encountered the mysterious monster known as the Blood Monk.
 
-And this unexpected situation was nothing compared to the news those visitors had brought.
+And the visitors themselves were nothing compared to the news they brought.
 
 “What… did you just say?”
 
 “What are you talking about?”
 
-Chief Jang and Chief Go stared wide-eyed in disbelief.
+Chief Jang and Chief Go stared at them in disbelief.
 
 Had the news come from anyone other than the Young Palace Lord of the Nanman Beast Palace, they would have dismissed it as nonsense. In fact, they wished they could.
 
-But despite their desperate wish, Yayul Mok’s answer did not change.
+But Yayul Mok’s answer did not change.
 
 “It is all true.”
 
@@ -24,9 +24,9 @@ The truth was there in his trembling eyes. The two chieftains could only sigh as
 
 “Why would the Palace Lord make that choice? Why?”
 
-Yayul Mok clenched his fists so tightly that blood ran from his palms before opening his mouth.
+Yayul Mok clenched his fists until they bled.
 
-“My father had already guessed that he would be unable to resist the tide of events once so many chieftains had joined hands with Uncle Baek—no, with Baeksang.”
+“My father knew that, with so many chieftains already siding with Uncle Baek—no, Baeksang—he could not turn the tide.”
 
 “Even so, did he bring this danger upon himself just to save a few Han Chinese?”
 
@@ -34,7 +34,7 @@ Yayul Mok clenched his fists so tightly that blood ran from his palms before ope
 
 “What?”
 
-“My father said this when he sent me and the others to the underground prison. He said that repaying a righteous act with righteousness was keeping faith, and that turning away from someone who had helped us was injustice. So today, I intend to stake my fate on keeping faith. On those two people—Jin Taekyung and Baeksang.”
+“When my father sent me and the others to the underground prison, he said, ‘To repay a righteous act with righteousness is to keep faith. To turn away from someone who helped us is injustice. So today, I will stake my fate on keeping faith—in Jin Taekyung and Baeksang.’”
 
 “……!”
 
@@ -42,15 +42,15 @@ Yayul Mok clenched his fists so tightly that blood ran from his palms before ope
 
 The two chieftains closed their eyes with low groans.
 
-Having served at the Beast Miao King’s side for a long time, they had vaguely guessed what kind of person he was and what choices he would make.
+They had served the Beast Miao King for years. They knew, at least to some extent, what kind of man he was and what choice he would make.
 
 But…
 
-“This time, the Palace Lord was wrong. He should have gathered all the strength of the tribes that followed him and the Miao people, then executed the traitors in the Inner Palace.”
+“This time, the Palace Lord was wrong. He should have gathered the tribes loyal to him and every Miao warrior, then dealt with the traitors in the Inner Palace.”
 
-“Even if we give Jin Taekyung every benefit of the doubt, trusting him may have been the right choice. If the Young Palace Lord’s story is true, Jin Taekyung ultimately left alone in order to keep faith. But Baeksang is different.”
+“If we stretch a point, trusting Jin Taekyung may have been the right choice. If what the Young Palace Lord told us is true, he left alone to keep faith. But Baeksang is different.”
 
-As the two chieftains spoke with such certainty, Yayul Mok, who had been looking at them with a trace of hope, opened his mouth.
+Hearing their certainty, Yayul Mok looked at them with a last trace of hope.
 
 “It is too early to judge. If Baeksang granted my father’s request…”
 
@@ -66,15 +66,15 @@ Yayul Mok faltered. Behind him, Namho, who had been watching quietly, suddenly u
 
 “Elder Namho, you mean…”
 
-“There is no need to say more. The two chieftains here and the warriors in the reconnaissance squad are all people who follow the Palace Lord. If they were told about the trouble in the Inner Palace, they would surely interfere somehow. He probably intended to call them back after everything was finished. Or…”
+“The two chieftains here and the squad’s warriors are loyal to the Palace Lord. If they learned what was happening in the Inner Palace, they would interfere somehow. Baeksang meant to summon them back once it was all over. Or…”
 
 Namho’s gaze darkened.
 
-““Or… the Blood Monk. He may have planned to let that old monster deal with them.””
+“He meant to leave them to the Blood Monk.”
 
 “……!”
 
-“A borrowed knife to kill others. Baeksang and Dark Heaven chose a useful blade. No, in this situation, it isn’t even someone else’s blade. There is a strong possibility that the Blood Monk is in league with them as well.”
+“A borrowed knife to do the killing. Baeksang and Dark Heaven chose a useful blade. Though it may not be borrowed at all. There is every chance the Blood Monk is one of them.”
 
 A cold silence settled over the group. Namho saw their shaken faces and felt his heart sink.
 
@@ -88,7 +88,7 @@ And Jin Taekyung, the one person they could count on most, was not here.
 
 Even after a lifetime in the Hidden Shadow Pavilion, Namho had no easy answer. But he had to decide before it was too late.
 
-Amid the suffocating feeling that invisible chains were wrapped around his entire body, Namho finally forced his lips apart.
+As though invisible chains had wrapped around his whole body, he struggled to speak.
 
 “Where are the others?”
 
@@ -100,17 +100,17 @@ Chief Jang understood.
 
 “You intend to send them back to the Central Plains?”
 
-The question caught Namho squarely off guard. After a brief silence, Namho nodded heavily.
+The question went straight to what Namho had in mind. After a moment, he nodded gravely.
 
-“I’m sorry. But for now, this is the best option. If they cross the Yangtze and report what is happening in Nanman, the Murim Alliance will never stand by and do nothing.”
+“I’m sorry. But it is our best option. If they cross the Yangtze and report what has happened in Nanman, the Murim Alliance will not stand by.”
 
 “……The Murim Alliance.”
 
-“I was born in Nanman and spent half my life in the Central Plains. Though I am nothing more than a powerless old man, I am someone who understands the circumstances of both Nanman and the Central Plains better than anyone. If it is the Murim Alliance I know, they will find a way to help Nanman.”
+“I was born in Nanman and spent half my life in the Central Plains. I may be a powerless old man, but I understand both places better than most. The Murim Alliance I know will find a way to help Nanman.”
 
 His voice was calm, but his resolve was unmistakable.
 
-Beyond the dense grass where they were lying in ambush, the two chieftains gazed at the broad, endless waters of the Yangtze before opening their mouths with sighs.
+The two chieftains looked past the thick grass where they lay hidden, toward the broad waters of the Yangtze stretching beyond sight.
 
 “Damn it.”
 
@@ -118,9 +118,9 @@ Beyond the dense grass where they were lying in ambush, the two chieftains gazed
 
 Namho had already made up his mind.
 
-“There are two ways. First, release the Han Chinese, leave this place at once, avoid Baeksang’s eyes, and wait for the right moment. Second, head to the Central Plains together with the Han Chinese.”
+“We have two choices. Release the Han Chinese, leave at once, and hide from Baeksang until the time is right. Or go to the Central Plains with them.”
 
-“Head to the Central Plains together? There is no ship of sufficient size anywhere around here. How are we supposed to—”
+“Go with them? There isn’t a ship around here large enough to carry us all. How could we possibly—”
 
 “There is. A ship that can take everyone.”
 
@@ -128,31 +128,31 @@ They turned toward the sudden voice. Sama Pyo was staggering to his feet, suppor
 
 “Is that true?” Chief Jang asked.
 
-At Chief Jang’s question, Sama Pyo answered with a pale face.
+Sama Pyo’s face was pale.
 
 “How do you think we got all the way to Nanman?”
 
 “Do you mean…”
 
-“The swift ship of the Yangtze River Channel League is not far from here. It’s half a day to the west. If we travel for even half that time, we might be able to rendezvous with it.”
+“A swift ship of the Yangtze River Channel League is not far from here. Half a day west. We may be able to meet it halfway.”
 
 Hope lit the two chieftains’ faces.
 
 If they followed a tributary of the Yangtze as far as Sichuan, they would be within the reach of the Central Plains Murim. Even if Baeksang and Dark Heaven held the Nanman Beast Palace, reinforcements from the Murim Alliance—with the Nine Sects and One Gang and the Five Great Families at their head—could turn the situation around.
 
-*There are already three prestigious great sects in Sichuan alone. Even if the Murim Alliance’s official reinforcements are delayed, those three will be different.*
+*There are three great sects in Sichuan alone. Even if the Alliance’s official reinforcements are slow to arrive, those three won’t be.*
 
 Namho calmly considered their prospects.
 
 The Emei Sect. The Qingcheng Sect. The Sichuan Tang Clan.
 
-Even though they had shed much blood and weakened during the Sichuan Bloodbath, their roots ran deep and firm enough that even Dark Heaven could not tear them out in a single stroke.
+They had lost many people in the Sichuan Bloodbath, but their roots ran too deep for even Dark Heaven to tear them out at a stroke.
 
-Moreover, all three sects considered Jin Taekyung their Benefactor. If they answered the call, gathered the strength of Sichuan Murim, and headed for Nanman…
+And all three regarded Jin Taekyung as their Benefactor. If they answered the call and led the forces of Sichuan Murim into Nanman…
 
 *Seven days and nights to return, if we’re fast. Ten days at most.*
 
-Namho was neither a hot-blooded youth nor a martial artist who trusted in his own martial arts. That was why his judgment was colder and more accurate than anyone else’s in this place.
+Namho was neither a hot-blooded youth nor a martial artist confident in his own strength. His judgment was colder—and more accurate—than anyone else’s there.
 
 *Lead them back the way we came, and we’ll surely die. Bring the Central Plains to our aid, and we have a real chance. Until then, Jin Taekyung and the Beast Miao King will have to…*
 
@@ -170,7 +170,7 @@ A low drumbeat. A sleek hull approaching on the currents of the Yangtze.
 
 “The Yangtze River Channel League! It’s their swift ship!”
 
-But the next moment, the two chieftains, who had been celebrating with brightened faces, sensed something strange and fell silent.
+The two chieftains’ faces brightened, but their joy faded almost at once.
 
 The swift ship should have been at least half a day to the west. Why was it here?
 
@@ -186,7 +186,7 @@ Fear swept through the group. Namho thought of the one person who was not at his
 
 They might die before they could save him.
 
-*Crash. Boom.*
+*Splash. Thud.*
 
 The hull cut through the water without slowing and drove hard onto the sandy shore.
 
@@ -202,29 +202,29 @@ Where a wave had swept over the sand, one person’s footstep was etched into it
 
 Two streaks of light cut through the air.
 
-Despite their strange movements, the twin wheels came at me like flashes of light. I swung White Flame diagonally downward to meet them.
+The twin wheels moved strangely, yet came at me like flashes of lightning. I brought White Flame down diagonally to meet them.
 
 *KWA-BOOM! Rumble-rumble!*
 
-A tremendous roar erupted as a shockwave tore through the area and shook the air. But it was not over yet.
+A tremendous impact sent a shockwave through the air. But it wasn’t over.
 
 My five senses, sharp as blades, caught every movement of the twin wheels behind me.
 
 *They’re coming again.*
 
-As Muyaho slid backward, I caught him by the nape and twisted my body.
+I caught Muyaho by the scruff as he slid backward and twisted my body.
 
 *Whoosh—shhk!*
 
 A blue flash skimmed past me. I heard a sharp slicing sound and saw the White Tiger’s snow-white fur scatter through the air.
 
-In my tilted field of vision, another sight came into view: a wild-haired freak charging at me like a mad bison.
+Through my tilted field of vision, I also saw a wild-haired freak charging like a mad bison.
 
 “You bastard—!”
 
 The Black Hand Fist Demon.
 
-Black Force layered itself over his dark fist, and then he shot it straight toward my chest.
+Force as black as his fist coated it, and his punch shot toward my chest.
 
 *Whoom!*
 
@@ -232,31 +232,31 @@ I felt the air ripple. Felt the terrifying power behind that punch. But…
 
 *That won’t be enough.*
 
-With a brief mutter, I straightened the body I had twisted as far as it would go. By then, the black Force had already reached point-blank range and was giving off an ominous light.
+I straightened from the twist. The black Force was already right in front of me, giving off an ominous light.
 
 Beyond it, the Black Hand Fist Demon’s eyes gleamed with madness. They seemed to say, *You’re dead now.*
 
-From Third Rate swordsmen to Supreme Peak masters. Regardless of their level of martial arts, they had always worn that expression.
+I knew that look. I had seen it on countless enemies, from Third Rate swordsmen to Supreme Peak masters. Whatever their skill, they had all looked at me that way.
 
-And when everything was over, I was always the one still standing on two feet.
+And when it was over, I had been the one still standing.
 
 *Swish.*
 
-In the slowed-down world, the cool feel of the spear shaft slipped away from my hand.
+In the slowed-down world, the cool shaft of White Flame slipped from my grasp.
 
 The Black Hand Fist Demon had closed in so deftly that my spear had lost its advantage. Without a moment’s hesitation, I let go and struck with my palm.
 
 *KWA-BOOM!*
 
-Everything within a radius of ten-odd jang[^1] melted beneath the horrific heat, and the Black Hand Fist Demon’s eyes flew wide open.
+Two Forces of different colors collided with a deafening roar. Everything within ten-odd jang[^1] melted in the terrible heat, and the Black Hand Fist Demon’s eyes widened.
 
 “You…”
 
 One clash was enough for each of us to measure the other’s strength.
 
-Even though the twin wheels had made me react half a beat late, I had easily blocked the Black Hand Fist Demon’s punch. Looking into his wavering eyes, I spoke calmly.
+The twin wheels had forced me to react half a beat late, yet I had blocked his punch with ease. I met his shaken gaze and spoke calmly.
 
-“A nobody. Right?”
+“A nobody. Was I wrong?”
 
 “……!”
 

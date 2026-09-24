@@ -1,0 +1,35 @@
+{
+  "summary": "The translation is largely faithful, but it changes the rendezvous timing and omits two source details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 145",
+      "current": "It’s half a day to the west. If we travel for even half that time, we might be able to rendezvous with it.",
+      "defect": "“Half that time” changes the source’s second duration, 반나절 (half a day), to a quarter day. The Korean says the ship is half a day west, and that they might reach it by traveling for half a day.",
+      "replacement": "It’s half a day to the west. If we travel for even half a day, we might be able to rendezvous with it.",
+      "rationale": "The Korean repeats the duration 반나절; it does not say to travel for half of the previously stated time.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 19–23",
+      "current": "Had the news come from anyone other than the Young Palace Lord of the Nanman Beast Palace, they would have dismissed it as nonsense. In fact, they wished they could.",
+      "defect": "The assembled copy omits the explicit beat that the information was shocking and unexpected. It also shifts their wish from hoping the news was nonsense to wishing they could dismiss it as nonsense.",
+      "replacement": "It was shocking information no one could have anticipated. Had the news come from anyone other than the Young Palace Lord of the Nanman Beast Palace, they would have dismissed it as nonsense. No—in fact, they hoped it was nonsense.",
+      "rationale": "The source separately states that no one expected the shocking information, then clarifies that the chieftains wished it were nonsense.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 259–260",
+      "current": "From Third Rate swordsmen to Supreme Peak masters. Regardless of their level of martial arts, they had always worn that expression.",
+      "defect": "The translation drops the description of the gaze as certain and the narrator’s explicit recognition that he had seen the same look in many enemies before.",
+      "replacement": "It was a gaze filled with certainty—the same look I had seen in many enemies before. From Third Rate swordsmen to Supreme Peak masters, regardless of their level of martial arts, they had always worn that expression.",
+      "rationale": "The source includes both the certainty in the opponent’s eyes and the narrator’s memory of seeing that look in many past enemies before moving to the range of their martial skill.",
+      "confidence": 0.98
+    }
+  ]
+}
