@@ -2441,3 +2441,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 뽀삐 | **Poppy** | Taekyung’s mocking nickname for the North Heaven Demon Lord in this scene. |
 | 모용선비 | **Murong Xianbei** | The Xianbei people from whom the Murong Family descends. |
 | 이룡신창 | **Divine Spear of the Imugi** | Murong Baek’s sobriquet. |
+| 모용위진 | **Murong Wijin** | Head Elder of the Murong Family directing the battlefield. |
