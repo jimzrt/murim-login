@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "After fighting for hours, they were little better than walking corpses drenched in blood.",
+      "defect": "“Walking corpses” adds a deathlike condition; the source describes fighters covered in blood.",
+      "id": "F01",
+      "rationale": "혈인 describes how blood-soaked they have become, not whether they resemble corpses.",
+      "replacement": "After hours of fighting, they were covered in blood from head to toe.",
+      "severity": "major",
+      "source": "몇 시진 동안이나 계속된 전투로 혈인(血人)이나 다름없어진 그들은"
+    },
+    {
+      "confidence": 0.92,
+      "current": "nor the nomads who had once roamed the world with a single lance and bow",
+      "defect": "“Roamed” loses the nomads’ former martial dominance.",
+      "id": "F02",
+      "rationale": "천하를 질타했던 evokes formidable power, not merely travel.",
+      "replacement": "nor the nomads who had once struck fear across the land with lance and bow",
+      "severity": "major",
+      "source": "한때 한 자루의 돌격창과 활로 천하를 질타했던 유목민들도"
+    },
+    {
+      "confidence": 0.96,
+      "current": "His hair was bristly as a lazy monk’s shaved head, and so red it seemed to be on fire.",
+      "defect": "A shaved head obscures the image of a monk who has let his hair grow into stubble.",
+      "id": "F03",
+      "rationale": "돋아난 머리카락 describes hair growing out, which supplies the joke about the lazy monk.",
+      "replacement": "His hair had grown into prickly stubble, like a lazy monk’s, and was so red it seemed to be on fire.",
+      "severity": "minor",
+      "source": "마치 게으른 승려의 머리처럼, 까슬까슬하게 돋아난 머리카락이 타오르는 것처럼 붉다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No, wait. Take that back.",
+      "defect": "“Take that back” sounds like an order to someone else, though Taekyung retracts his own offer.",
+      "id": "F04",
+      "rationale": "방금 했던 말 refers to what Taekyung himself just said.",
+      "replacement": "No, wait. I take that back.",
+      "severity": "minor",
+      "source": "아니, 아니다. 방금 했던 말 취소."
+    },
+    {
+      "confidence": 0.88,
+      "current": "He had neither the internal energy of several jiazi nor the divine presence to stand shoulder to shoulder with them. Yet there was an inexplicable weight to him.",
+      "defect": "“Divine presence” turns the martial might he lacks into an aspect of bearing, blurring the contrast with his authority.",
+      "id": "F05",
+      "rationale": "신위 is paired with accumulated internal energy as something the three masters possess; his 위압감 comes from a different source.",
+      "replacement": "He had neither several jiazi of internal energy nor the godlike power to stand shoulder to shoulder with them. Yet he commanded an inexplicable authority.",
+      "severity": "major",
+      "source": "비록 수 갑자에 달하는 공력도, 그들과 어깨를 나란히 할 신위(神威)도 없었으나 알 수 없는 위압감이 있다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "*“How could we possibly do that? The Second Young Master’s natural martial talent is so extraordinary that we wouldn’t dare lay a hand on his training.”*",
+      "defect": "The retainer denies being able to guide the child, not merely watching him; “lay a hand on his training” is also misleading.",
+      "id": "F06",
+      "rationale": "This is a deferential correction of the Family Head’s suggestion that they are overseeing the boy’s training.",
+      "replacement": "*“We could hardly claim to be teaching him. The Second Young Master is so gifted that there’s nothing we dare try to correct.”*",
+      "severity": "major",
+      "source": "어찌 그러겠습니까. 이공자께서는 타고난 무재가 워낙 뛰어나시니, 속하들로서는 감히 손을 댈 수 없을 지경입니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“Yes, of course. How could he not be? Who do you think gave birth to him?”*",
+      "defect": "The father’s boast about whose son the boy is becomes a question about who physically gave birth to him.",
+      "id": "F07",
+      "rationale": "In context, the Family Head puffs out his chest to claim credit for his son’s talent.",
+      "replacement": "*“Of course he is. Whose son do you think he is?”*",
+      "severity": "critical",
+      "source": "그래, 당연히 그렇겠지. 누가 낳은 자식인데."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“Of course not. Do I look that oblivious?”*",
+      "defect": "“Of course not” agrees that he is not unwelcome; the Family Head rejects the retainers’ denial.",
+      "id": "F08",
+      "rationale": "아니긴 dismisses their “No, of course not,” rather than affirming it.",
+      "replacement": "*“Don’t give me that. Do I look that oblivious?”*",
+      "severity": "critical",
+      "source": "아니긴. 내가 그리 눈치 없는 사람으로 보이나?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "*“Fate. So that’s fate…”*",
+      "defect": "“So that’s fate” adds a conclusion where the father only repeats the word bitterly.",
+      "id": "F09",
+      "rationale": "The repetition precedes his rejection of fate in “It’s all my fault.”",
+      "replacement": "*“Fate. Fate…”*",
+      "severity": "minor",
+      "source": "‘운명이라. 운명…….’"
+    }
+  ],
+  "summary": "Several lines alter physical details, a father’s joke, and the force of his reply to the retainers.",
+  "version": 1
+}

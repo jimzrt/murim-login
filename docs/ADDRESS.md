@@ -1462,3 +1462,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 북천마군 | 자무카 | lord to subordinate | my lord | formal-deferential | Jamukha answers the Demon Lord’s command with 하명하십시오. |
 | 북천마군 | 적천강 | former battlefield adversaries | Fire King | calm and familiar | Addresses Jeok Cheongang as 화왕 while asking him not to rush. |
 | 궁성 | 모용백 | opponents | Murong Baek; North Heaven Demon Lord | calm, formal, and admonitory | The Bow Saint directly addresses Murong while telling him to accept the consequences of his choices. |
+| 진위경 | 테무르 | Alliance Leader addressing a captured opposing chieftain | you | formal and firm | Uses 그대 while offering Temur a choice to surrender. |
+| 테무르 | 진위경 | submitting chieftain to his new lord | my lord | deferential and honorific | Temur submits and addresses Jin Wikyung as 주군. |

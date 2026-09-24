@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.84,
+      "current": "And Temur had submitted.",
+      "defect": "The unqualified past tense makes Temur’s surrender to Jin Wikyung appear complete before he decides whether to accept the offer.",
+      "id": "C01",
+      "rationale": "The later reference to surrendering to survive establishes an earlier surrender; this wording distinguishes it from the decision still before him.",
+      "replacement": "And Temur had already surrendered once.",
+      "severity": "minor",
+      "source": "Chapter 979, Temur’s response to Jin Wikyung"
+    },
+    {
+      "confidence": 0.91,
+      "current": "In a memory, Jin Mukyung recalls his childhood and his father apologizing after Mukyung’s mother died in childbirth.",
+      "defect": "The reading copy identifies the deceased as the Family Head’s wife, not explicitly as Mukyung’s mother.",
+      "id": "C02",
+      "rationale": "This retains the revealed relationship without resolving one the reading copy leaves unstated.",
+      "replacement": "In a memory, Jin Mukyung recalls his childhood and his father apologizing after the Family Head’s wife died in childbirth.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.91,
+      "current": "Jin Mukyung recalled his childhood and his father’s apology following his mother’s death in childbirth.",
+      "defect": "The active state repeats the summary’s unconfirmed identification of the deceased as Mukyung’s mother.",
+      "id": "C03",
+      "rationale": "Durable continuity should preserve the reading copy’s stated relationship rather than promote an inference to fact.",
+      "replacement": "Jin Mukyung recalled his childhood and his father’s apology following the death of the Family Head’s wife in childbirth.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity"
+    }
+  ],
+  "summary": "The reading copies largely maintain a consistent voice and format. Three passages need clarification: one prematurely suggests Temur’s surrender is complete, and two state an unconfirmed family relationship as fact.",
+  "version": 1
+}
