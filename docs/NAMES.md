@@ -2474,3 +2474,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 공동검룡 | **Kongtong Sword Dragon** | Epithet of the Kongtong Sect’s renowned rising martial artist killed in the flashback. |
 | 복마검 | **Demon-Subduing Sword** | The Kongtong disciple’s sword art. |
 | 무아 | **No-self** | The brief self-forgetting state the disciple mistakes for a breakthrough. |
+| 홍표 | **Hong Pyo** | Deputy Thousand Captain of the Gansu Regional Military Commission. |
