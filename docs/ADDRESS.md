@@ -1492,3 +1492,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 사마공 | 마중걸 | sect leader to visiting group leader | you | formal and probing | Uses 자네 while questioning Ma Junggeol about following Dark Heaven. |
 | 사마공 | 사마표 | father to son | Pyo | intimate and familiar | Sima Gong calls him 표야 and 내 아들아. |
 | 월화 | 진 공자 | Lower District Sect branch leader to client and ally | Young Master Jin | polite and familiar | Her missive addresses Taekyung as 진 공자 and includes personal, affectionate language. |
+| 풍운검군 | 노호검객 | Zhongnan Sect Leader to Senior Brother | Senior Brother | respectful and strained | Addresses him as 사형 while protesting the decision. |
+| 풍운검군 | 태을무정검 | Zhongnan Sect Leader to Senior Brother | Senior Brother | respectful and strained | Addresses him as 사형 while protesting the decision. |
