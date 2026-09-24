@@ -100,7 +100,7 @@ I followed his pointing finger to a huge swamp that stretched for hundreds of zh
 
 “Ah. That is because it’s Poison Mist.”
 
-“……”
+“…?”
 
 He said it as casually as a mother announcing that dinner was soybean-paste stew. I took a moment to collect myself.
 
@@ -134,7 +134,7 @@ For the Beast Miao King to speak of him like that, Baeksang’s grandfather must
 
 *And a master like that died in the Poisonblood Grounds alongside Nanman’s finest warriors.*
 
-*And the even bigger problem is that I have to go in there now.*
+The bigger problem was that I had to go in there now.
 
 Still…
 
@@ -142,7 +142,7 @@ Still…
 
 The Beast Miao King looked surprised by how calmly I said it.
 
-“That is unexpected. I thought you would suggest turning back.”
+“I thought you would suggest turning back.”
 
 “Someone once said that if a man draws his sword, he should cut through even the Poisonblood Grounds.”
 
@@ -196,7 +196,7 @@ Alone, I might have had reason to worry. With the Beast Miao King beside me, we 
 
 *Step.*
 
-I had just finished my thoughts and followed the Beast Miao King into the swamp shrouded in deep green poisonous mist when—
+I followed him into the swamp shrouded in deep green Poison Mist.
 
 *Ding. Ding. Ding.*
 
@@ -282,7 +282,7 @@ I took out a ring set with a black jewel that gleamed in the light. It was the M
 
 *Just as I thought.*
 
-I smiled contentedly and stroked the Myriad-Poison Ring. Then I noticed someone silently glaring at me and flinched.
+I smiled and stroked the ring—then flinched when I noticed someone silently glaring at me.
 
 “Oh. You startled me. What is it?”
 
@@ -290,4 +290,4 @@ I smiled contentedly and stroked the Myriad-Poison Ring. Then I noticed someone 
 
 Oh, right. He was here too.
 
-I gave the Beast Miao King a flat, chilled stare and tossed him the High-Grade Poison-Warding Pearl I had received as the Achievement completion reward.
+I gave the Beast Miao King a flat look and tossed him the High-Grade Poison-Warding Pearl I had received for the Achievement.
