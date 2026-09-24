@@ -38,17 +38,17 @@ Baeksang let the words trail off and crooked a finger. The Captain approached an
 
 “We need to confirm that, but given everything that’s happened, he’s the most likely culprit.”
 
-“It was Jin Taekyung. Once again, it seems glory-blinded moths have rushed toward the flames.”
+“It was Jin Taekyung. It seems another flock of moths blinded by the prospect of glory rushed at him.”
 
 “The small and midsized tribes near Ailao Mountain joined forces, or so we’re told. They attacked him with five hundred warriors and a hundred beasts, but…”
 
 Baeksang waved him silent. He had heard enough. Five hundred stragglers hastily gathered together could do nothing to Jin Taekyung.
 
-The saying *the few cannot overcome the many* meant different things depending on who the opponent was. Jin Taekyung clearly lay outside the equation.
+The saying *the few cannot overcome the many* depended on who the few were. Jin Taekyung was plainly an exception.
 
 “I can guess how that ended. What happened to Jin Taekyung afterward?”
 
-“They say he routed the warriors, then headed toward Ailao Mountain alone.”
+“He routed the warriors, then headed toward Ailao Mountain alone.”
 
 “He must have a purpose. The Poisonblood Grounds, perhaps?”
 
@@ -58,7 +58,7 @@ The saying *the few cannot overcome the many* meant different things depending o
 
 Ailao Mountain was among the most forbidding mountains in Nanman. Its slopes were treacherous, its valleys deep. Winding ridges stretched for a hundred li beneath a seemingly endless cover of ancient trees.
 
-Now that a wildfire had settled over Ailao Mountain, it would take at least three full days and nights before there was even a sign of the flames dying down.
+With a wildfire loose on that mountain, even three days and nights might pass before the flames showed any sign of dying down.
 
 *The whole mountain might burn.*
 
@@ -72,7 +72,7 @@ Baeksang studied his reflection in silence, then spoke.
 
 “Evacuate every tribesperson living nearby. Choose three thousand capable warriors and blockade Ailao Mountain.”
 
-The Captain of the Guards had continued his report impassively, but a flicker of agitation crossed his face.
+For the first time during his report, the Captain’s composure faltered.
 
 “Three thousand? When we’ve already ordered a general mobilization across Nanman?”
 
@@ -150,9 +150,7 @@ The Captain bowed, then moved his lips again.
 
 “I beg your pardon, but we’re dealing with the Beast Miao King. As a precaution, perhaps you should deploy the Baekcheon Unit.[^1]”
 
-The Baekcheon Unit was the blade he had secretly honed for decades.
-
-He had to draw and wield it when it was most needed.
+Baeksang shook his head. The Baekcheon Unit was a blade he had spent decades honing in secret. He would draw it when he needed it most.
 
 “That will be all. Our guest has arrived. You may go.”
 
@@ -160,7 +158,7 @@ He was speaking to the Captain, but his gaze—fixed on the mirror throughout th
 
 “Then I’ll take my leave.”
 
-After confirming that the Captain of the Guards had left the Palace Lord’s Hall, Baeksang slowly turned around.
+Baeksang waited until the Captain had left the Palace Lord’s Hall before turning.
 
 “You’ve come, Head Elder.”
 
@@ -210,13 +208,13 @@ The old man—the Miao Head Elder—glared at Baeksang for a long moment.
 
 Baeksang shook his head.
 
-“I have no interest in some ancient sacred treasure passed down only by word of mouth. What I want now is the future—and your wise choice, Head Elder.”
+“I have no interest in an ancient divine artifact that exists only in stories. What I want now concerns the future—and the wise choice you’ll make, Head Elder.”
 
 “The boy I remember wasn’t like this.”
 
 “I changed. Everything does.”
 
-“The Palace Lord trusted you. Even though I told him to be so wary, he trusted his one and only sworn brother.”
+“The Palace Lord trusted you. I warned him again and again, but he trusted his one and only sworn brother.”
 
 “Not every act of trust needs to be repaid.”
 
@@ -244,17 +242,15 @@ Baeksang picked up his teacup.
 
 “Remember: this is my first and last offer.”
 
-Baeksang tilted the teacup.
-
-The Head Elder squeezed his eyes shut.
+Baeksang raised the teacup to his lips. The Head Elder squeezed his eyes shut.
 
 After a short silence, his hoarse voice broke through.
 
-“Impossible.”
+“I refuse.”
 
 CLACK.
 
-Baeksang set down the teacup and stared at the Head Elder with deeply sunken eyes.
+Baeksang set down his cup and met the Head Elder’s eyes.
 
 “Won’t you regret that answer?”
 
@@ -264,15 +260,15 @@ Baeksang set down the teacup and stared at the Head Elder with deeply sunken eye
 
 Baeksang snapped his fingers. The closed door opened, revealing Bai warriors.
 
-“Lock up the entire Miao leadership in the underground prison, including the Head Elder.”
+“Lock them in the underground prison. The Head Elder and every other member of the Miao leadership.”
 
 The warriors bowed, took the Head Elder by either arm, and pulled him to his feet.
 
-The old man, whose day of death was approaching, cried out in a ringing voice.
+The old man, with little life left to him, shouted in a clear, ringing voice.
 
 “Baeksang! You bastard! Aren’t you afraid of Heaven?”
 
-By the time his scream had gradually faded into the distance, Baeksang was looking down at the empty teacup and muttering.
+When his cry had faded into the distance, Baeksang looked down at his empty cup.
 
 “What more is there to fear? Heaven’s will brought me this far.”
 
@@ -290,11 +286,11 @@ Something he *had* to do.
 
 Baeksang looked through the window at the blue sky.
 
-*Is this truly your will? No… Have you ever watched over me even once?*
+*Is this truly what you want? Have you ever watched over me, even once?*
 
 As always, he waited in vain for an answer.
 
-Except for the unfamiliar voice that pierced his ears the next moment.
+Then an unfamiliar voice spoke behind him.
 
 “Um… Shall I refill your tea?”
 
@@ -318,7 +314,7 @@ Trickle.
 
 Steam rose, carrying the scent of tea. Yet Baeksang felt a throb of pain, as though he had inhaled Poison Mist.
 
-Baeksang silently watched the teacup fill before suddenly speaking.
+He watched the cup fill, then spoke.
 
 “Whose face is that, Demon Empress?”
 
@@ -332,7 +328,7 @@ The maid—Southern Heaven Demon Empress—smiled.
 
 “That…”
 
-“How interesting. Hundreds of people have already died, and you are worried about the life of one maid.”
+“How funny. Hundreds of people are already dead, and you’re concerned about one little maid.”
 
 Baeksang fell silent, then answered evenly.
 
@@ -352,7 +348,7 @@ Baeksang thought for a moment.
 
 “It was a trap?”
 
-“That’s right. A trap laid to catch the old tiger who had left the Palace. I never expected the young tiger to get caught in it instead.”
+“That’s right. We set it for the old tiger who left the Palace. I didn’t expect the young tiger to spring it instead.”
 
 CLICK.
 
@@ -370,9 +366,9 @@ She paused and smiled at Baeksang.
 
 “……!”
 
-“It is astonishing. I thought those two would be able to deal with the Beast Miao King. It seems the Lord of Heaven was not interested in that child for no reason.”
+“Astonishing, isn’t it? I thought those two could deal with the Beast Miao King. The Lord of Heaven had good reason to take an interest in that child.”
 
-Jin Taekyung had not only killed two Supreme Peak masters single-handedly—the Lord of Heaven himself was also interested in him.
+Baeksang could hardly take it in. Jin Taekyung had apparently killed two Supreme Peak masters on his own, and the Lord of Heaven himself had taken an interest in him.
 
 Baeksang also realized his own judgment had been sound.
 
@@ -386,13 +382,13 @@ He looked at the smiling Demon Empress.
 
 A Supreme Peak master was a formidable asset. With two of them dead, Baeksang thought her intervention inevitable.
 
-At least, that was what he thought until he heard her answer the next moment.
+Then she answered.
 
-“No? Why would I?”
+“No. Why would I?”
 
 She let out a short laugh.
 
-“I do not have time to worry about that. Even if one of the major pieces has died, the current situation will not be overturned. What matters is the grand plan.”
+“I don’t have time for that. Even with a major piece lost, the balance hasn’t shifted. The grand plan is what matters.”
 
 “You mean…?”
 

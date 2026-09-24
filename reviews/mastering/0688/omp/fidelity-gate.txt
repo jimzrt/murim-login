@@ -1,0 +1,45 @@
+{
+  "summary": "The chapter is largely faithful, but the assembled copy adds an unsupported accusation, changes the mirror-and-palm image, and omits Baeksang’s silent refusal.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 149–157",
+      "current": "even if the mirror had shown all of Nanman, it would have fit there too.",
+      "defect": "The Korean extends the image of Baeksang’s palm to all of Nanman; it does not say the mirror showed Nanman. Making the mirror the subject changes the image.",
+      "replacement": "Even if all of Nanman were reflected in his palm, it would be the same.",
+      "rationale": "The preceding lines establish that the Palace Lord’s Hall seemed to fit in Baeksang’s palm. The Korean continues that image with “even if all of Nanman were reflected,” not with an action by the mirror.",
+      "confidence": 0.96
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 171",
+      "current": "The Captain bowed, then moved his lips again.",
+      "defect": "The assembled copy omits Baeksang silently shaking his head in response to the Captain’s suggestion to deploy the Baekcheon Unit.",
+      "replacement": "The Captain bowed, then moved his lips again. But Baeksang silently shook his head.",
+      "rationale": "The Korean explicitly says Baeksang silently shook his head before explaining that the unit was a blade he would use only when most needed.",
+      "confidence": 1.0
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 197–199",
+      "current": "to save a murderer",
+      "defect": "“Murderer” specifies a crime the Korean does not name here. 흉수 identifies a culprit or criminal, not specifically a murderer.",
+      "replacement": "to save a criminal",
+      "rationale": "The source calls Yayul Cheok a 흉수 while describing his defiance of the Tribal Grand Council and betrayal of the Nanman Beast Palace; it does not specify murder.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 17",
+      "current": "the grand plan I’ve spent decades carrying out",
+      "defect": "This makes Baeksang the explicit agent carrying out the plan for decades. The Korean says the grand plan itself has endured through decades.",
+      "replacement": "the grand plan that has endured for decades",
+      "rationale": "The Korean describes the plan as having lasted through the decades, matching the accepted baseline’s wording; it does not say here that Baeksang has been carrying it out throughout that time.",
+      "confidence": 0.89
+    }
+  ]
+}
