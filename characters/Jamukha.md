@@ -1,6 +1,6 @@
 # Jamukha (자무카)
 
-- **Safe through:** Chapter 976
+- **Safe through:** Chapter 977
 - **Aliases:** None
 - **Role:** Jamukha was the ruler of the western steppe and a former eastern-steppe chieftain recruited into Dark Heaven by Murong Baek; Jin Taekyung killed him.
 - **Personality:** Patient and ambitious, he was willing to feign loyalty to gain the power to rule the steppe and north.

@@ -2439,3 +2439,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 모용백 | **Murong Baek** | Former northern rival and later comrade of Peng Cheolhu. |
 | 북천마군 | **North Heaven Demon Lord** | Title of Murong Baek. |
 | 뽀삐 | **Poppy** | Taekyung’s mocking nickname for the North Heaven Demon Lord in this scene. |
+| 모용선비 | **Murong Xianbei** | The Xianbei people from whom the Murong Family descends. |
