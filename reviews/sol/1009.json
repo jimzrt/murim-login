@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.9,
+      "current": "Because of mounted bandits like you, the place nearly turned into a battlefield moments ago, then things quieted down over the last few years.",
+      "defect": "“Moments ago” places the near-conflict in the present, contradicting the subsequent years of calm.",
+      "id": "F01",
+      "rationale": "The source describes a past crisis followed by several quiet years, not a crisis moments before this conversation.",
+      "replacement": "Because of mounted bandits like you, the place nearly became a battlefield, but it’s been quiet for the past few years.",
+      "severity": "critical",
+      "source": "너희 같은 마적 놈들 때문에 말판 촌각 전까지 갔다가 근 몇 년 동안은 잠잠해졌다고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I’ve been taking the long way around, haven’t I?”\n\nThe meaning behind Jeok Cheongang’s low question was clear. Ma Junggeol took a deep breath and spoke again.",
+      "defect": "The first-person line sounds like Ma Junggeol commenting on his own story, though Jeok Cheongang is the one speaking and pressing him to get to the point.",
+      "id": "F02",
+      "rationale": "The source explicitly identifies the question as Jeok Cheongang’s.",
+      "replacement": "“That’s enough preamble, isn’t it?”\n\nJeok Cheongang’s low question left no doubt what he meant. Ma Junggeol took a deep breath and spoke again.",
+      "severity": "critical",
+      "source": "“서두가 길었군. 그렇지 않으냐?” 착 가라앉은 적천강의 물음에 담긴 의미는 명백했고, 크게 심호흡한 마중걸이 재차 입을 열었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Honestly, I wanted to turn around and leave the Chief and the rest behind.",
+      "defect": "The speaker wanted to abandon the whole venture and return, not specifically desert the Chief and the other men.",
+      "id": "F03",
+      "rationale": "대형이고 나발이고 dismisses even the Chief as a reason to continue; 죄다 엎어 버리고 refers to scrapping the undertaking.",
+      "replacement": "Honestly, I wanted to say to hell with the Chief and the whole damn venture and turn back.",
+      "severity": "major",
+      "source": "솔직히 그때는 대형이고 나발이고 죄다 엎어 버리고 돌아가고 싶었소."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Just so you know, my brothers and I like grain liquor best of all.",
+      "defect": "Naming liquor outright removes Ma Junggeol’s playful euphemism in response to the offer of tea.",
+      "id": "F04",
+      "rationale": "곡차 literally presents alcohol as “grain tea”; the following reply about their reputation as drinkers makes the joke clear.",
+      "replacement": "Just so you know, of all the teas, my brothers and I favor grain tea most.",
+      "severity": "major",
+      "source": "저와 제 아우들은 차 중에서도 곡차(穀茶)를 제일로 칩니다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "Whew, look at you, getting your voice back now that you’ve caught your breath.",
+      "defect": "“Caught your breath” suggests recovery from exertion rather than renewed swagger once the immediate pressure has eased.",
+      "id": "F05",
+      "rationale": "숨통 좀 트였다고 points to having room to breathe after Jeok Cheongang’s earlier intimidation.",
+      "replacement": "Whew, look at you raising your voice again the second you’re out of trouble.",
+      "severity": "minor",
+      "source": "어후, 숨통 좀 트였다고 다시 목소리 커진 거 봐."
+    }
+  ],
+  "summary": "The draft has actionable errors in chronology, speaker attribution, and the brothers’ account of the journey.",
+  "version": 1
+}

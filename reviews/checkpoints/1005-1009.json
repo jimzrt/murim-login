@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Just so you know, of all the teas, my brothers and I favor grain tea most.",
+      "defect": "“Grain tea” conflicts with the checkpoint’s explicit decision to render the drink as grain liquor and obscures why Sima Gong calls the men renowned drinkers.",
+      "id": "C01",
+      "rationale": "The surrounding scene has the brothers drinking liquor, and the recorded terminology decision specifies “grain liquor.”",
+      "replacement": "Just so you know, my brothers and I are especially fond of grain liquor.",
+      "severity": "minor",
+      "source": "Chapter 1009, Ma Junggeol’s invitation"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The scouts return early and signal suspicious intruders at the wall.",
+      "defect": "The wording implies that Sima Gong’s scouts sent beyond the desert are the riders returning to the wall, which the reading copies do not establish.",
+      "id": "C02",
+      "rationale": "Chapter 1007 identifies the returning thirty as scouts who left half a shichen earlier and were due to patrol until sunset; Chapter 1006 gives no count for the scouts sent beyond the desert.",
+      "replacement": "Thirty mounted scouts return early from their patrol and signal suspicious riders approaching the wall.",
+      "severity": "major",
+      "source": "Checkpoint plot summary, scout arrival"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Sima Gong sent thirty scouts beyond the desert after ominous signs. They returned early and signaled the approach of suspicious riders.",
+      "defect": "The note assigns the wall patrol’s count and return to the separately mentioned expedition beyond the desert.",
+      "id": "C03",
+      "rationale": "Keeping the groups distinct avoids turning an unconfirmed connection into durable continuity.",
+      "replacement": "Sima Gong sent trusted scouts beyond the desert after ominous signs. Separately, thirty mounted scouts returned early from a patrol near the city wall and signaled the approach of suspicious riders.",
+      "severity": "major",
+      "source": "Checkpoint continuity, scout deployment"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Picasso was a modern Spanish painter whose work is associated with Cubism and other avant-garde styles. Taekyung jokes that the men’s faces look like impressionist paintings.",
+      "defect": "The explanation switches from Picasso’s Cubism to Impressionism, making the note internally inconsistent.",
+      "id": "C04",
+      "rationale": "This explains the reference using the mismatched features described in the scene without misidentifying Picasso’s style.",
+      "replacement": "Picasso was a modern Spanish painter best known for Cubism. Taekyung jokes that the men’s facial features look as though they belong in one of his paintings.",
+      "severity": "minor",
+      "source": "Chapter 1008, footnote [^1]"
+    }
+  ],
+  "summary": "The reading copies are largely consistent, but one drinking-scene term conflicts with the checkpoint decision, and the summary and continuity notes conflate two groups of scouts. A Picasso footnote also confuses Cubism with Impressionism.",
+  "version": 1
+}
