@@ -44,9 +44,9 @@ It was a feast of stars, literally.
 
 Middle-aged and elderly generals, their hair either going gray or already white, watched us with curiosity. Insignia and stars gleamed on their dress uniforms.
 
-“Ah, I’m late with the introductions.”
+“Ah, I should introduce everyone.”
 
-President Doramp noticed where I was looking and continued.
+President Doramp noticed where I was looking.
 
 “Everyone, this is Mr. Choi, who leads the Peace Guild and Ares Guild. And this is Mr. Jin, whom you all know. As for the people here…”
 
@@ -64,7 +64,7 @@ The only people who stuck in my mind were the directors of the CIA and FBI. Prob
 
 Snap. Fwoosh!
 
-The instant President Doramp snapped his fingers, the holograms that had briefly disappeared filled the room in every direction.
+President Doramp snapped his fingers, and the hologram that had vanished when we arrived filled the room again.
 
 *This is…*
 
@@ -78,7 +78,7 @@ The place names. The deserts scattered across the map. And what President Doramp
 
 I put it together and muttered, “The Middle East?”
 
-“It’s a tactical map showing the locations of the terrorist groups. The sparkling markers are probably Gates or their bases.”
+“It’s a tactical map showing terrorist-group locations. Those markers must be Gates or bases.”
 
 Team Leader Choi had spoken almost at the same time as me. President Doramp nodded to us both.
 
@@ -108,17 +108,17 @@ Team Leader Choi watched the hologram, his gaze dark.
 
 “A good question, Mr. Choi. Fortunately, the rebels are included.”
 
-“Just as you said, Mr. President, that truly is fortunate. And I think I understand why you went out of your way to invite us.”
+“As you say, Mr. President, that’s fortunate indeed. And I think I understand why you invited us.”
 
 His voice dropped.
 
-“You’re planning to launch an operation to wipe out the terrorist groups, aren’t you?”
+“You’re planning to take down the terrorist groups.”
 
 “That’s right.”
 
 President Doramp gave a grave nod.
 
-“As both of you know, the United States is still the world’s greatest power, but that also means we face an equal amount of opposition. Therefore, we have no choice but to act cautiously, both militarily and diplomatically.”
+“As you both know, the United States remains the strongest nation in the world. That also means our actions face scrutiny. We have no choice but to proceed carefully, both militarily and diplomatically.”
 
 The United States might have a long history as the world’s bully, but even it couldn’t push around every country on Earth. That was especially true after it had suffered the worst losses in the Great Cataclysm.
 
@@ -164,7 +164,7 @@ Chuck Hagel, fiddling with his cigar, cut in.
 
 Magic Johnson spoke with a sigh.
 
-“And the rebels won’t stay quiet, either. They’re just as dangerous as the terrorist groups. They kidnap even children, brainwash them, and use them as soldiers. If it meant taking over a country, they wouldn’t bat an eye even if tens or hundreds of thousands of people died.”
+“And the rebels won’t sit still, either. They’re every bit as dangerous. They kidnap children, brainwash them, and use them as soldiers. They wouldn’t bat an eye if tens or hundreds of thousands died so they could take over a country.”
 
 Why did that remind me of the saying that human beings were capable of both the greatest good and the greatest evil?
 
@@ -172,27 +172,25 @@ The bodies of the people who had died before my eyes only weeks ago came back to
 
 “Hmm.”
 
-I glanced sideways at Team Leader Choi with a low hum.
-
-His gaze was deeply sunken as he remembered someone who had left his side not long ago.
+I glanced at Team Leader Choi. His gaze had gone distant, as though he, too, was thinking of someone he’d lost recently.
 
 *That can’t happen again.*
 
 I didn’t know how cruel people could become, or how many had to die or be hurt before this insane wheel stopped turning.
 
-I possessed enough power to stop that endlessly turning wheel, even if only for a moment.
+But one thought gave me hope: I had the power to stop it, if only for a little while.
 
 And if I couldn’t stop it…
 
 *I’ll break it.*
 
-Having already made up my mind, I looked at President Doramp and suddenly spoke.
+My mind made up, I looked straight at President Doramp.
 
-“When will the operation to wipe them out begin?”
+“When does the operation begin?”
 
 He understood what I meant. A smile spread across his face, and at his signal, someone at the pentagonal table stood.
 
-“Assuming the entire UN Security Council agrees, we estimate that it will take two months at the earliest to complete all preparations. At the longest, it may take more than six months.”
+“Assuming every permanent member of the UN Security Council agrees, it will take at least two months to complete preparations. It could take more than six.”
 
 “Two months at the earliest?”
 
@@ -200,13 +198,13 @@ Slow. Far slower than I’d expected.
 
 I frowned.
 
-“Considering how dangerous you’ve said the situation is, doesn’t that seem like an awfully long time?”
+“After everything you’ve said about the danger, that seems like a long time.”
 
 “International law leaves us little choice. Deploying troops to countries in the Middle East and Africa without their consent would be a clear violation of their sovereignty.”
 
 “Funny. My modern history textbooks made it look like you fought in the Middle East just fine. I watched a documentary criticizing the oil money involved, too.”
 
-The key government official who had been listening suddenly lost his ability to speak and cleared his throat.
+I’d tossed that out without much thought. The senior official who’d been answering me fell silent, then cleared his throat.
 
 “Ahem… That was because of the 9/11 attacks. Under the new international agreements made after the Great Cataclysm—”
 
@@ -228,7 +226,7 @@ I thought for a moment, then leaned close to President Doramp and whispered.
 
 President Doramp stared blankly at me. When he finally caught on, he struggled to get the words out.
 
-“So you’re saying that Mr. Jin would hide his identity and launch an operation against the terrorist groups…?”
+“You mean to say you intend to hide your identity and take down the terrorist groups…?”
 
 “Me? Why would I?”
 
@@ -238,9 +236,9 @@ President Doramp stared blankly at me. When he finally caught on, he struggled t
 
 “W-wait, Mr. Jin.”
 
-“This man is going to cause a disaster. Why would I do something like that alone? Unless I were some lunatic who stormed into Ares Guild headquarters by himself.”
+“You’re going to get someone in trouble, mister. Why would I do a thing like that alone? You’d have to be some lunatic who’d storm Ares Guild headquarters by himself.”
 
-“…”
+“…!”
 
 A suffocating silence filled the room.
 
@@ -254,7 +252,7 @@ President Doramp stared at me as if I were insane. At last, he spoke.
 
 “Ah. An accident.”
 
-“Yes. It’s top-secret—more secret than any other classified information—so it must never be leaked outside. Especially since it contains the precise locations of rebel forces in the Middle East and Africa.”
+“Yes. It’s classified at the highest level, so it must never leave this room. Especially since it shows the precise locations of rebel forces in the Middle East and Africa.”
 
 “Anything else?”
 
@@ -278,7 +276,7 @@ Team Leader Choi added calmly, “I was born in summer, so I like hot places.”
 
 The conversation was bewildering, yet somehow going remarkably smoothly. Chuck Hagel clamped his cigar between his teeth and put an end to it.
 
-“A lunatic is going to kill lunatics.”
+“A lunatic going to kill lunatics.”
 
 He was right. Lunatics ought to die at the hands of a lunatic.
 

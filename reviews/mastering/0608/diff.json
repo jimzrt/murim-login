@@ -1,0 +1,2537 @@
+{
+  "baseline_blocks": 156,
+  "baseline_sha256": "5f3cc7fdaa28a2ca3005fbb0427e4d0958beb1a83810dff97658c3ac5da6e404",
+  "global_terminology_alerts": [],
+  "hunk_count": 135,
+  "hunks": [
+    {
+      "baseline": "I stared at the middle-aged man in front of me.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "I stared at the middle-aged man before me.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A tycoon with a business empire and a fortune worth trillions of won, he had followed his father, a former U.S. president, to make history as the third father-and-son presidential pair in United States history.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "A tycoon with a business empire and a fortune worth trillions of won, he had followed his father, a former U.S. president, into office. They were the third father-and-son pair to hold the presidency in United States history.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With his neat appearance, almost like an English gentleman, he looked twenty years younger than his actual age, and his smile toward us held genuine warmth.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "Neat as a British gentleman, he looked twenty years younger than he was. His smile as he greeted us was genuine.",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike his father, President Doramp wore his hair neatly combed back as we shook his hand.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "Unlike his father, President Doramp wore his hair neatly combed back. We shook his hand.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I never thought I would meet the President of the United States in person after seeing him only on television and in online articles. Even seeing him in person, I still couldn't help but marvel.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "I’d seen the President of the United States on television and in online articles, but I’d never imagined meeting him. Even with him standing right in front of me, I could hardly believe it.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Haha, there’s no need to look at me like that. If anything, I’m the one who finds this amazing. I’m finally meeting the two of you after hearing so much about you.”",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "“Haha, there’s no need to look at me like that. If anything, I’m the one who’s amazed. After hearing so much about you both, I finally get to meet you.”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I know that a joint national funeral was held in South Korea. I mourn the victims whose lives were tragically taken by such injustice, and I pray that Mr. Kim, the former Guild Master of the Peace Guild, may rest in peace.”",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "25",
+      "sol": "“I know a joint national funeral was held in Korea. My condolences to the victims who lost their lives so tragically, and to Mr. Kim, the former Guild Master of the Peace Guild. May they rest in peace.”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Doramp was a gentleman not only in appearance, but in his manner as well.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "President Doramp was a gentleman in manner as well as appearance.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even though he had already done the proper thing by sending the U.S. ambassador to South Korea and the Secretary of State to attend the joint national funeral, the fact that he had not forgotten to offer his condolences personally proved it.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "He had already done the proper thing by sending the U.S. ambassador to Korea and the Secretary of State to the funeral. Yet he had remembered to offer his condolences in person, too.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "국장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "national funeral"
+        },
+        {
+          "korean": "국가장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "national funeral"
+        }
+      ]
+    },
+    {
+      "baseline": "“Come to think of it, you already know the Secretary of State, don’t you? Isn’t that right, Jesse?”",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "31",
+      "sol": "“Come to think of it, you’ve already met the Secretary of State, haven’t you? Isn’t that right, Jesse?”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At President Donald’s call, the middle-aged woman seated at the pentagonal table smiled and greeted us with her eyes.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "33",
+      "sol": "At his call, the middle-aged woman seated at the pentagonal table smiled and greeted us with a glance.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        }
+      ]
+    },
+    {
+      "baseline": "Only then did I realize that the people gathered here were the central figures supporting the superpower known as the United States.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "35",
+      "sol": "Only then did it hit me: the people in this room were the ones holding up the superpower that was the United States.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*The key figures in the U.S. military and political worlds.*",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "37",
+      "sol": "*The top brass of the U.S. military and government.*",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There were only a few people wearing suits. Since the Secretary of State, whom I had met briefly when she attended the joint national funeral, was one of them, most of the people in suits were probably cabinet-level officials or held equivalent positions.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "39",
+      "sol": "Only a few wore suits. The Secretary of State, whom I’d met briefly at the funeral, was among them. The others were probably cabinet members or held positions just as high.",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "국장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "national funeral"
+        },
+        {
+          "korean": "국가장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "national funeral"
+        }
+      ]
+    },
+    {
+      "baseline": "And the military…",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "41",
+      "sol": "As for the military…",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was literally a feast of stars.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "45",
+      "sol": "It was a feast of stars, literally.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Middle-aged and elderly generals, some with half-gray hair and others with heads full of white hair, stared at us curiously with glittering insignia and stars pinned to their dress uniforms.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "47",
+      "sol": "Middle-aged and elderly generals, their hair either going gray or already white, watched us with curiosity. Insignia and stars gleamed on their dress uniforms.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, I’m late with the introductions.”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "49",
+      "sol": "“Ah, I should introduce everyone.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Doramp noticed where I was looking and continued.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "51",
+      "sol": "President Doramp noticed where I was looking.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Well, everyone. This is Mr. Choi, who oversees the Peace Guild and Ares Guild. And this is Mr. Jin, whom everyone already knows. And the people over here are…”",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "53",
+      "sol": "“Everyone, this is Mr. Choi, who leads the Peace Guild and Ares Guild. And this is Mr. Jin, whom you all know. As for the people here…”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Names and titles I had heard at least once in Hollywood war movies flashed past one after another.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "57",
+      "sol": "Names and titles I’d heard in Hollywood war movies flew past me.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi, who normally seemed to know everything, appeared to recognize all their faces and names. I could only stare blankly and nod.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "59",
+      "sol": "Team Leader Choi seemed to know every face and name, as usual. I just stared and nodded.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Why are there so many departments and positions?*",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "61",
+      "sol": "*How many departments and titles are there?*",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The only people who really stuck in my mind were the directors of the CIA and FBI. That was probably because those special organizations appeared so often in movies.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "63",
+      "sol": "The only people who stuck in my mind were the directors of the CIA and FBI. Probably because those organizations showed up in movies so often.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now that the introductions are over, I should tell you why we brought you here so suddenly.”",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "65",
+      "sol": "“Now that we’ve made the introductions, I should tell you why we brought you here so suddenly.”",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The instant President Doramp snapped his fingers, the holograms that had briefly disappeared filled the room in every direction.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "69",
+      "sol": "President Doramp snapped his fingers, and the hologram that had vanished when we arrived filled the room again.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A map. Not a map of the entire Earth, but one depicting a specific region in precise detail.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "73",
+      "sol": "A map. Not of the whole Earth, but a detailed map of one region.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Coordinates were written over countless buildings and various landforms, while markers of unknown significance glittered here and there like stars.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "75",
+      "sol": "Coordinates hovered over countless buildings and stretches of terrain. Markers whose meaning I couldn’t guess glittered here and there like stars.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The place names written on the holographic map. The terrain scattered with deserts.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "79",
+      "sol": "",
+      "sol_paragraphs": "after P38",
+      "sol_range": [
+        38,
+        38
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And the words President Doramp had spoken when we first arrived.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "81",
+      "sol": "The place names. The deserts scattered across the map. And what President Doramp had been saying when we arrived.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I realized what it was and muttered,",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P39",
+      "sol_range": [
+        39,
+        39
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Middle East?”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "85",
+      "sol": "I put it together and muttered, “The Middle East?”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s a tactical map showing the locations of the terrorist groups. The sparkling markers are probably Gates or their bases.”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "87",
+      "sol": "“It’s a tactical map showing terrorist-group locations. Those markers must be Gates or bases.”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I wasn’t the only one to speak. President Doramp nodded at the answers Team Leader Choi and I gave almost simultaneously.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "89",
+      "sol": "Team Leader Choi had spoken almost at the same time as me. President Doramp nodded to us both.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Both answers are correct. However, Mr. Choi’s answer was much more detailed and closer to the truth. Those lights mark locations believed to be terrorist-group headquarters. Hologram, zoom out.”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "91",
+      "sol": "“You’re both right, though Mr. Choi’s answer is more detailed and closer to the mark. The lights indicate suspected terrorist bases. Hologram, zoom out.”",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The enlarged hologram shrank into the shape of a globe.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "95",
+      "sol": "",
+      "sol_paragraphs": "after P44",
+      "sol_range": [
+        44,
+        44
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the globe slowly rotated at President Doramp’s gesture, large and small lights glimmered across its surface.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "97",
+      "sol": "The enlarged map shrank into a globe. It turned slowly at President Doramp’s gesture, lights large and small scattered across its surface.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When my late father was president, there were already more than a hundred Islamic terrorist organizations. Of course, after the Great Cataclysm, they multiplied at a frightening rate.”",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "101",
+      "sol": "“When my late father was president, there were already more than a hundred Islamic terrorist organizations alone. After the Great Cataclysm, of course, they multiplied at a frightening rate.”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was the first I had heard of it.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "103",
+      "sol": "That was news to me.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "More than a hundred Islamic terrorist organizations alone—and that had been before the Great Cataclysm. There was no telling how many there were now.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "105",
+      "sol": "More than a hundred Islamic terrorist organizations *before* the Great Cataclysm. Who knew how many there were now?",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, some of them were probably small terrorist groups that operated on the level of clubs. But the problem was that they were not doing comic-book-club activities. They were carrying out terrorist attacks with the goal of killing people.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "107",
+      "sol": "Sure, some were probably little groups that operated on the scale of clubs. The problem was, they weren’t meeting to talk about comics. They carried out attacks to kill people.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*No, seriously. Why are there so many?*",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "109",
+      "sol": "*Seriously, why are there so many?*",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had known there were plenty of crazy people in the world, but I had never dreamed there were this many.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "111",
+      "sol": "I knew the world had plenty of lunatics. I’d never imagined there were this many.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi, his eyes dark as he gazed at the hologram, spoke.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "113",
+      "sol": "Team Leader Choi watched the hologram, his gaze dark.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Does that exclude the rebel forces scattered throughout Africa?”",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "115",
+      "sol": "“Does that exclude the rebel forces scattered across Africa?”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s a good question, Mr. Choi. But fortunately, the rebels are included in that number as well.”",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "117",
+      "sol": "“A good question, Mr. Choi. Fortunately, the rebels are included.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Just as you said, Mr. President, that truly is fortunate. And I think I understand why you went out of your way to invite us.”",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "119",
+      "sol": "“As you say, Mr. President, that’s fortunate indeed. And I think I understand why you invited us.”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi continued in a low voice.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "121",
+      "sol": "His voice dropped.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "팀장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Team Leader"
+        }
+      ]
+    },
+    {
+      "baseline": "“You’re planning to launch an operation to wipe out the terrorist groups, aren’t you?”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "123",
+      "sol": "“You’re planning to take down the terrorist groups.”",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Doramp did not deny it. He nodded heavily.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "127",
+      "sol": "President Doramp gave a grave nod.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“As both of you know, the United States is still the world’s greatest power, but that also means we face an equal amount of opposition. Therefore, we have no choice but to act cautiously, both militarily and diplomatically.”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "129",
+      "sol": "“As you both know, the United States remains the strongest nation in the world. That also means our actions face scrutiny. We have no choice but to proceed carefully, both militarily and diplomatically.”",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how much of a venerable international bully the United States was, it was not powerful enough to chew up every country in the world.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "131",
+      "sol": "",
+      "sol_paragraphs": "after P61",
+      "sol_range": [
+        61,
+        61
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "미국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "United States"
+        },
+        {
+          "korean": "미합중국",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "United States"
+        }
+      ]
+    },
+    {
+      "baseline": "And after suffering the most severe damage during the Great Cataclysm, that was even more true.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "133",
+      "sol": "The United States might have a long history as the world’s bully, but even it couldn’t push around every country on Earth. That was especially true after it had suffered the worst losses in the Great Cataclysm.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But the terrorist groups and rebel forces operating in the shadows throughout the world must disappear as soon as possible. I’m sure both of you understand why.”",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "135",
+      "sol": "“But the terrorist groups and rebels operating around the world must be eliminated as soon as possible. I’m sure you both know why.”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Magic Johnson had mentioned, terrorist groups and the African rebels had begun experimenting with Gates and Magic Gems.",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "139",
+      "sol": "As Magic Johnson had told us, the terrorist groups and African rebels had begun experimenting with Gates and Magic Gems.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "There was no way to know what results they would achieve through those experiments, or whether they would succeed or fail. But one thing was certain: the experiments themselves were dangerous enough.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "141",
+      "sol": "I didn’t know what those experiments would produce, or whether they would succeed. But the experiments alone were dangerous enough.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Like nuclear testing.*",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "143",
+      "sol": "*Like nuclear tests.*",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even when North Korea merely conducted a missile test, the eyes of the entire world turned toward it.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "145",
+      "sol": "The whole world paid attention whenever North Korea tested a missile.",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, Koreans just thought, *Those bastards are acting up again,* and went about their daily lives. But that was because they knew those bastards would not actually launch the missiles.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "147",
+      "sol": "Koreans, of course, just thought, *Those bastards are at it again,* and got on with their day. But that was because we knew they weren’t going to fire at us.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Terrorist groups, however, were just as crazy as North Korea. No, they were even crazier.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "149",
+      "sol": "Terrorist groups were as crazy as North Korea. Crazier, even.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You must have heard about this from Mr. Johnson. Even today, terrorist groups carried out the same kind of operation simultaneously in California, Arizona, and Texas. And this isn’t happening only in the United States.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "151",
+      "sol": "“You must have heard from Mr. Johnson. Today alone, terrorist groups carried out the same kind of attack simultaneously in California, Arizona, and Texas. And this isn’t happening only in the United States.”",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Doramp gently swept his hand through the holograms.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "153",
+      "sol": "President Doramp swept a hand through the hologram.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The globe vanished, replaced by dozens of small holographic windows.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "155",
+      "sol": "The globe vanished. Dozens of small windows took its place.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> “Surrender! If you put down your weapons and surrender now…!”\n>\n> “God is great!”\n>\n> “Run! Run!”\n>\n> “Kraaaang!”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "157",
+      "sol": "> “Surrender! Put down your weapons now, and…!”\n>\n> “God is great!”\n>\n> “R-run!”\n>\n> “BOOM!”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Dozens of languages, translated by the System, mixed together in a deafening cacophony.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "159",
+      "sol": "Dozens of languages, translated for me by the System, mingled in a deafening clamor.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "People with different skin colors and appearances fled from explosions or screamed as they were covered in human bones and flesh thrown in every direction.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "161",
+      "sol": "People of different appearances and skin colors fled explosions or screamed as human bone and flesh sprayed over them.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There have been thirty-two terrorist attempts around the world today alone. Fortunately, as with the Texas incident reported in the news, the damage has still been minor. But if the terrorist groups finish their experiments using the Gates and Magic Gems they possess…”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "163",
+      "sol": "“There have been thirty-two attempted attacks around the world today alone. Fortunately, as with the incident in Texas that made the news, the damage so far has been minor. But if the terrorist groups complete their experiments with the Gates and Magic Gems in their possession…”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Chuck Hagel, fiddling with his cigar, cut in roughly.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "165",
+      "sol": "Chuck Hagel, fiddling with his cigar, cut in.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Fuck. Needless to say, everything will go to shit. Monster waves will start occurring whenever the hell they feel like it, just like the recent incident in South Korea.”",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "167",
+      "sol": "“Fuck. Everything goes to shit. Monster waves will break out at any time, anywhere, just like what happened in South Korea.”",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Magic Johnson also spoke with a sigh.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "169",
+      "sol": "Magic Johnson spoke with a sigh.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And the rebels won’t stay quiet, either. They’re just as dangerous as the terrorist groups. They kidnap even children, brainwash them, and use them as soldiers. If it meant taking over a country, they wouldn’t bat an eye even if tens or hundreds of thousands of people died.”",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "171",
+      "sol": "“And the rebels won’t sit still, either. They’re every bit as dangerous. They kidnap children, brainwash them, and use them as soldiers. They wouldn’t bat an eye if tens or hundreds of thousands died so they could take over a country.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Why was I suddenly reminded of the saying that the most benevolent thing in this world, and the most vicious thing in this world, were both human beings?",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "173",
+      "sol": "Why did that remind me of the saying that human beings were capable of both the greatest good and the greatest evil?",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, the bodies and screams of the people who had died before my eyes only a few weeks ago resurfaced in my mind, weighing heavily on my heart.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "175",
+      "sol": "The bodies of the people who had died before my eyes only weeks ago came back to me. So did their screams. A weight settled in my chest.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I glanced sideways at Team Leader Choi with a low hum.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "179",
+      "sol": "I glanced at Team Leader Choi. His gaze had gone distant, as though he, too, was thinking of someone he’d lost recently.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His gaze was deeply sunken as he remembered someone who had left his side not long ago.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "181",
+      "sol": "",
+      "sol_paragraphs": "after P85",
+      "sol_range": [
+        85,
+        85
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "*That must never happen again.*",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "183",
+      "sol": "*That can’t happen again.*",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I didn’t know how cruel people could become.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "185",
+      "sol": "",
+      "sol_paragraphs": "after P86",
+      "sol_range": [
+        86,
+        86
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How many people had to die or be injured before this insane wheel would stop turning.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "187",
+      "sol": "I didn’t know how cruel people could become, or how many had to die or be hurt before this insane wheel stopped turning.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But at the same time, I thought it was fortunate.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "189",
+      "sol": "",
+      "sol_paragraphs": "after P87",
+      "sol_range": [
+        87,
+        87
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I possessed enough power to stop that endlessly turning wheel, even if only for a moment.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "191",
+      "sol": "But one thought gave me hope: I had the power to stop it, if only for a little while.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Then I’ll have to break it.*",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "195",
+      "sol": "*I’ll break it.*",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Having already made up my mind, I looked at President Doramp and suddenly spoke.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "197",
+      "sol": "My mind made up, I looked straight at President Doramp.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When will the operation to wipe them out begin?”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "199",
+      "sol": "“When does the operation begin?”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A smile spread across his lips as he recognized the meaning behind my question.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "201",
+      "sol": "He understood what I meant. A smile spread across his face, and at his signal, someone at the pentagonal table stood.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At President Doramp’s signal, one of the people seated at the pentagonal table rose.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "203",
+      "sol": "",
+      "sol_paragraphs": "after P93",
+      "sol_range": [
+        93,
+        93
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "대통령",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "President"
+        },
+        {
+          "korean": "도람프",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Doramp"
+        }
+      ]
+    },
+    {
+      "baseline": "“Assuming the entire UN Security Council agrees, we estimate that it will take two months at the earliest to complete all preparations. At the longest, it may take more than six months.”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "205",
+      "sol": "“Assuming every permanent member of the UN Security Council agrees, it will take at least two months to complete preparations. It could take more than six.”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was slow. Much slower than I had expected.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "209",
+      "sol": "Slow. Far slower than I’d expected.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I frowned slightly and continued.",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "211",
+      "sol": "I frowned.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Considering how dangerous you’ve said the situation is, doesn’t that seem like an awfully long time?”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "213",
+      "sol": "“After everything you’ve said about the danger, that seems like a long time.”",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s nothing we can do under international law. In particular, deploying troops to the Middle East and Africa without the consent of those countries would be an obvious violation of their sovereignty.”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "215",
+      "sol": "“International law leaves us little choice. Deploying troops to countries in the Middle East and Africa without their consent would be a clear violation of their sovereignty.”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I looked at modern history textbooks, and it seemed like you fought in the Middle East just fine. I even watched a documentary criticizing oil money.”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "217",
+      "sol": "“Funny. My modern history textbooks made it look like you fought in the Middle East just fine. I watched a documentary criticizing the oil money involved, too.”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The key government official who had been listening suddenly lost his ability to speak and cleared his throat.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "219",
+      "sol": "I’d tossed that out without much thought. The senior official who’d been answering me fell silent, then cleared his throat.",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "“Erm… That was because of the 9/11 attacks, and now, under the new international agreements formed after the Great Cataclysm…”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "221",
+      "sol": "“Ahem… That was because of the 9/11 attacks. Under the new international agreements made after the Great Cataclysm—”",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Forget it, then. Anyway, you’re saying two months is the absolute fastest?”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "223",
+      "sol": "“Never mind. Two months really is the absolute earliest?”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ahem. Yes. That’s right.”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "225",
+      "sol": "“Ahem. Yes.”",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After thinking for a moment, I leaned toward President Doramp and whispered very softly,",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "227",
+      "sol": "I thought for a moment, then leaned close to President Doramp and whispered.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Um, may I ask you one thing?”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "229",
+      "sol": "“Can I ask you something?”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ask anything you wish.”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "231",
+      "sol": "“Anything.”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If an unidentified—say, a mysterious stranger—were to wipe out the African rebels or the terrorist groups in the Middle East, would that also violate international law?”",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "233",
+      "sol": "“Suppose someone nobody could identify—some mysterious stranger, for example—wiped out the African rebels or the terrorist groups in the Middle East. Would *that* break international law?”",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Huh?”",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "235",
+      "sol": "“Pardon?”",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Like Batman or Spider-Man. Something like that. And lower your voice before you answer.”",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "237",
+      "sol": "“Batman. Spider-Man. Someone like that. And lower your voice before you answer.”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Doramp stared blankly for a moment, unable to understand what I meant. Then he barely managed to force out his voice.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "239",
+      "sol": "President Doramp stared blankly at me. When he finally caught on, he struggled to get the words out.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So you’re saying that Mr. Jin would hide his identity and launch an operation against the terrorist groups…?”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "241",
+      "sol": "“You mean to say you intend to hide your identity and take down the terrorist groups…?”",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No, if I interpret what you just said…”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "245",
+      "sol": "“But what you just said—”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I never said anything like that. I was just giving an example.”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "247",
+      "sol": "“I never said that. It was an example.”",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“W-wait a moment, Mr. Jin.”",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "249",
+      "sol": "“W-wait, Mr. Jin.”",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This man is going to cause a disaster. Why would I do something like that alone? Unless I were some lunatic who stormed into Ares Guild headquarters by himself.”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "251",
+      "sol": "“You’re going to get someone in trouble, mister. Why would I do a thing like that alone? You’d have to be some lunatic who’d storm Ares Guild headquarters by himself.”",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…”",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "253",
+      "sol": "“…!”",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A suffocating silence descended over the room.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "255",
+      "sol": "A suffocating silence filled the room.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "President Doramp stared at me as if I were insane, then finally parted his lips.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "257",
+      "sol": "President Doramp stared at me as if I were insane. At last, he spoke.",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It seems I misunderstood you. To think of such an absurd thing…”",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "259",
+      "sol": "“It seems I misunderstood. What an absurd thought.”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. In that case, we’ll conclude today’s meeting here. I’ll be accidentally leaving the holographic tactical map behind.”",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "263",
+      "sol": "“Yes. In that case, we’ll end today’s meeting here. I’m going to leave the holographic tactical map behind by accident.”",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, of course. An accident.”",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "265",
+      "sol": "“Ah. An accident.”",
+      "sol_paragraphs": "P124",
+      "sol_range": [
+        123,
+        124
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. It’s top-secret—more secret than any other classified information—so it must never be leaked outside. Especially since it contains the precise locations of rebel forces in the Middle East and Africa.”",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "267",
+      "sol": "“Yes. It’s classified at the highest level, so it must never leave this room. Especially since it shows the precise locations of rebel forces in the Middle East and Africa.”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“And what else? Is there anything else?”",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "269",
+      "sol": "“Anything else?”",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Everything you need is included in the materials. Ah, of course, Mr. Jin will have no opportunity to obtain those materials and will be heading straight back to Korea. Isn’t that right, Mr. Johnson?”",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "271",
+      "sol": "“Everything necessary is in the materials. Not that you’ll have any opportunity to obtain them, Mr. Jin. You’ll be heading straight back to Korea, won’t you, Mr. Johnson?”",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Magic Johnson, having caught on, nodded.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "273",
+      "sol": "Magic Johnson had caught on. He nodded.",
+      "sol_paragraphs": "P128",
+      "sol_range": [
+        127,
+        128
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course, Mr. President. But I hear Jin likes to travel. I’m not sure whether I’ll be able to spend a few days with him and be away from my post.”",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "275",
+      "sol": "“Of course, Mr. President. Though Jin likes to travel. I wonder if it would be all right for me to take a few days off and spend some time with him.”",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, is that so? Do you have a preferred region…”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "277",
+      "sol": "“Is that so? Is there anywhere you particularly like to—”",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I answered without taking a breath.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "279",
+      "sol": "",
+      "sol_paragraphs": "after P130",
+      "sol_range": [
+        130,
+        130
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Africa and the Middle East. I especially love deserts. My dream is to pee in an oasis and give Churu to the Sphinx.”",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "281",
+      "sol": "“Africa and the Middle East,” I said without drawing breath. “I go crazy for deserts. My dream is to pee in an oasis and give the Sphinx some Churu[^1].”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^1]: Churu is a popular lickable cat treat.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "283",
+      "sol": "",
+      "sol_paragraphs": "after P131",
+      "sol_range": [
+        131,
+        131
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi added in a calm tone,",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P131",
+      "sol_range": [
+        131,
+        131
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "팀장",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Team Leader"
+        }
+      ]
+    },
+    {
+      "baseline": "“I was born in summer, so I like hot places.”",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "287",
+      "sol": "Team Leader Choi added calmly, “I was born in summer, so I like hot places.”",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What a coincidence.”",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "289",
+      "sol": "“Well. What a coincidence.”",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Are you ready, Choi?”",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "291",
+      "sol": "“Ready, Choi?”",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course, Johnson… No, this feels a little strange.”",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "293",
+      "sol": "“Of course, Johnson… No, that sounds a little strange.”",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the confusing yet remarkably smooth conversation, Chuck Hagel bit down on his cigar and brought it to an end.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "295",
+      "sol": "The conversation was bewildering, yet somehow going remarkably smoothly. Chuck Hagel clamped his cigar between his teeth and put an end to it.",
+      "sol_paragraphs": "P136",
+      "sol_range": [
+        135,
+        136
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“A lunatic is going to kill lunatics.”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "297",
+      "sol": "“A lunatic going to kill lunatics.”",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was right.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "299",
+      "sol": "He was right. Lunatics ought to die at the hands of a lunatic.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Madmen should be killed by madmen.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "301",
+      "sol": "",
+      "sol_paragraphs": "after P138",
+      "sol_range": [
+        138,
+        138
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After interrogating a foreign prisoner and killing one subordinate who had been acting cocky, the leader of an Islamic armed terrorist group returned to his bedroom.",
+      "baseline_paragraphs": "P153",
+      "baseline_range": [
+        152,
+        153
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "311",
+      "sol": "Muhammad Saladir ad-Din, leader of an armed Islamic terrorist group, had interrogated a foreign prisoner and killed a subordinate who’d gotten mouthy. Then he returned to his bedroom.",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Muhammad Saladir ad-Din encountered an uninvited guest before he could even take off his outer clothes.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "313",
+      "sol": "Before he could take off his outer clothes, he found an uninvited guest waiting for him.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "무함마드",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Muhammad"
+        }
+      ]
+    },
+    {
+      "baseline": "“...?”",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "313",
+      "sol": "“…?”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "",
+      "baseline_paragraphs": "after P156",
+      "baseline_range": [
+        156,
+        156
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "313",
+      "sol": "[^1]: Churu is a popular lickable cat treat.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "insert",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 145,
+  "sol_sha256": "6c3a710686dd1302ab7de23513847dc399d068b8381f6685e31483b9308e5c5e",
+  "version": 1
+}

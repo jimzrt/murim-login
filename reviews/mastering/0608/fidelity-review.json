@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "operating around the world",
+      "defect": "The source says the terrorist groups and rebels are operating covertly (암약), not merely operating around the world.",
+      "id": "F01",
+      "rationale": "The accepted baseline preserved the source’s covert-activity detail with “operating in the shadows.”",
+      "replacement": "operating in the shadows around the world",
+      "severity": "minor",
+      "source": "Korean line 133"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the saying that human beings were capable of both the greatest good and the greatest evil",
+      "defect": "The source says that humans themselves are both the kindest and the most vicious things in the world. The current wording changes this into a statement about what humans are capable of.",
+      "id": "F02",
+      "rationale": "The Korean construction identifies humans as both extremes, rather than describing their capacity for good and evil.",
+      "replacement": "the saying that the kindest thing in the world and the most vicious thing in the world were both human beings",
+      "severity": "minor",
+      "source": "Korean line 177"
+    }
+  ],
+  "summary": "Two minor fidelity issues remain: the English drops the rebels’ covert activity and changes the meaning of an aphorism.",
+  "version": 1
+}
