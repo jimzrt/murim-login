@@ -4,7 +4,7 @@ For the first time since the Great Faction War, the world had entered a period o
 
 It reached the Central Plains, the so-called center of the world, and distant Nanman, thousands of li away.
 
-“Gasp, pant… Did everyone hear the news?”
+“Pant… Did you hear the news?”
 
 “Catch your breath first. What happened this time?”
 
@@ -24,15 +24,15 @@ If it had ended there, perhaps things would have been bearable.
 
 But just three days ago, more than a hundred Yao warriors had been brutally killed at the Western Yao Estate, and two Great Chieftains of immense symbolic importance had gone missing. After that, events began to move with the force of a torrent.
 
-*The culprit! The culprit behind the Western Yao Estate incident has been revealed! It was that young Han Chinese man! Jin Taekyung!*
+*They found the culprit! The one behind the Western Yao Estate massacre! It was that young Han Chinese man—Jin Taekyung!*
 
 *Wait. Have you forgotten that Jin Taekyung saved the warriors at Ailao Mountain the day before? Nothing’s been proven yet. We shouldn’t rush to judgment…*
 
-*Too soon? Ever since those Han Chinese bastards came here, nothing but bad things have happened. There’s no reason to wait any longer!*
+*Rush? Nothing but trouble has happened since those Han Chinese bastards arrived. What more do you need to see?*
 
 *He’s right!*
 
-Only reason could overcome anger, but the voices of those few people were helplessly buried beneath the shouts of many Nanman people whose reason had already gone numb.
+Only reason could overcome anger. But the voices of the few who called for it were drowned out by the many Nanman people whose reason had already deserted them.
 
 *Drag the Han Chinese into the street and tear them limb from limb!*
 
@@ -46,29 +46,29 @@ Jin Taekyung. And Baeksang.
 
 Their standing differed as much as their origins, ages, and names. To the people of Nanman, that was only natural.
 
-One was an outsider from the distant Central Plains—a criminal who had committed a tragedy that could never be forgiven. The other was the Great Chieftain who led the Bai people, the strongest tribe in this land after the Miao people.
+One was an outsider from the distant Central Plains, a criminal accused of an unforgivable atrocity. The other was the Great Chieftain of the Bai people, the strongest tribe in Nanman after the Miao.
 
 The Nanman people still respected and loved their Palace Lord. His martial prowess was renowned throughout the world, and he was an unpretentious man. But after what had happened at the Western Yao Estate, their trust in him could not help but falter.
 
-After all, it was none other than the Palace Lord, Yayul Cheok, who had brought the Han Chinese responsible for every recent misfortune into the Inner Palace.
+After all, it was the Palace Lord, Yayul Cheok, who had brought the Han Chinese they blamed for every recent misfortune into the Inner Palace.
 
-Yet even those who had cheered for Great Chieftain Baeksang could not help but become flustered when they heard the new rumors that emerged at daybreak.
+Yet even those who had cheered for Great Chieftain Baeksang were stunned by the news that emerged at daybreak.
 
 “W-What did you say?”
 
-“Did I… Did I hear that wrong?”
+“Did I hear that right?”
 
-Their pupils trembled, and their faces were filled with bewilderment.
+Eyes widened. Faces filled with disbelief.
 
-Everyone who heard the news could only keep repeating the unbelievable story in their minds, wearing the same expression and the same look in their eyes.
+Everyone who heard the news found themselves turning the same impossible story over in their minds.
 
-*The Palace Lord… tried to harm Great Chieftain Baeksang last night, failed, and then fled?*
+*The Palace Lord tried to harm Great Chieftain Baeksang last night, then fled when he failed?*
 
-At first, they all thought it was a ridiculous false rumor. The Palace Lord they knew—the Great Chieftain of the Miao people, Yayul Cheok—was not that kind of person.
+At first, they dismissed it as a ridiculous rumor. The Palace Lord they knew—Yayul Cheok, Great Chieftain of the Miao people—was not that sort of man.
 
 Before he was a fine Palace Lord, he was a good man, born in this land and more devoted to Nanman than anyone.
 
-But the news that followed was enough to plunge the beliefs and questions of the Nanman people into an abyss.
+But the next piece of news was enough to shake both their faith and their doubts.
 
 “Baeksang is taking over as temporary Palace Lord? What does that mean?”
 
@@ -76,15 +76,15 @@ But the news that followed was enough to plunge the beliefs and questions of the
 
 “That’s absurd! How could it be true?”
 
-“That’s not all. Apparently, the Palace Lord even mobilized the Young Palace Lord and dozens of elite warriors under his command to raid the underground prison and release the culprit, Jin Taekyung, along with the other Han Chinese.”
+“There’s more. The Palace Lord apparently sent the Young Palace Lord and dozens of his elite warriors to raid the underground prison. They freed Jin Taekyung—the culprit—and the other Han Chinese.”
 
 “……!”
 
-“I can hardly believe it either, but the circumstances are remarkably clear. It’s an undeniable fact that the Palace Lord has been friendly toward the Han Chinese for a long time. And the whereabouts of Jin Taekyung, the Young Palace Lord, and the other Han Chinese are unknown. The Tribal Grand Council was convened last night, and they apparently declared this a betrayal against all of Nanman and issued a general mobilization order.”
+“I can hardly believe it myself, but the evidence is hard to ignore. No one can deny that the Palace Lord has long been friendly toward the Han Chinese. And no one knows where Jin Taekyung, the Young Palace Lord, or the other Han Chinese have gone. The Tribal Grand Council met last night, declared it a betrayal of all Nanman, and issued a general mobilization order.”
 
 “What? A general mobilization order?”
 
-“That’s right. I heard it was decided along with the matter of the temporary Palace Lord. They must intend to hunt down and execute the rebels who have thrown Nanman into chaos. Naturally, the highest-priority targets are the Han Chinese Jin Taekyung and the Palace Lord. No—the former Palace Lord.”
+“Yes. I heard they decided that along with Baeksang’s appointment. They mean to hunt down and execute the rebels who’ve thrown Nanman into chaos. Naturally, their first targets are Jin Taekyung and the Palace Lord. No—the *former* Palace Lord.”
 
 “Former Palace Lord? What are you saying?”
 
@@ -104,7 +104,7 @@ They trembled like aspens, terror etched into their faces. In their unsteady eye
 
 The voice that escaped someone’s lips sounded frozen despite the fierce sunlight pouring down overhead.
 
-It was around noon.
+It was nearly noon.
 
 * * *
 
@@ -112,7 +112,7 @@ Baeksang studied his reflection in a large mirror.
 
 He was handsome and youthful, with a balanced build that belied his more than seventy years. His clothes were made of pure white fox fur. A stranger might have admired his bearing and taken him for the ruler of a kingdom.
 
-But Baeksang’s gaze remained fixed on his own coldly hardened face.
+But Baeksang saw only the cold, set look on his face.
 
 *Have I looked like this all along? For so many years?*
 
@@ -126,11 +126,11 @@ The chill in his eyes softened as a particular day came back to him.
 
 They had won a hard-fought battle and been given a few precious days of rest.
 
-The bold boy who had set out after his father, determined to defeat the Demonic Cult, had already grown into a handsome young man. And the girl who had been lively since childhood—and therefore always covered in scrapes and bruises—had grown into a beautiful woman.
+The spirited boy who had followed his father to fight the Demonic Cult had grown into a fine young man. The girl who had been so lively as a child that she was always covered in scrapes had become a beautiful woman.
 
 The young man was Hwi. The woman was Hyang.
 
-The two of them were as radiant and fragrant as their names. They were a pair of flowers that had bloomed amid a battlefield overflowing with blood and death. Though they called each other dog-and-monkey enemies despite having grown up together, they would sometimes walk together while avoiding the eyes of others.
+They were as radiant and fragrant as their names. A pair of flowers blooming amid the blood and death of the battlefield. They had grown up together and called each other mortal enemies, yet they often slipped away to walk where no one could see them.
 
 They probably never knew that someone had been watching on the night they quietly left the others, who were drunk on victory and wine, to walk together along a hill under faint moonlight.
 
@@ -142,17 +142,17 @@ They probably never knew that someone had been watching on the night they quietl
 
 *I have to ask—do you honestly believe that?*
 
-*Of course I’m serious.*
+*Of course I do.*
 
 *Then you know Little Tide Demon died in the battle three days ago.*
 
-*Little Tide Demon? That bastard who could slap the Heavenly Demon across the face if lust were martial arts?*
+*Little Tide Demon? The bastard who could slap the Heavenly Demon across the face if lust were a martial art?*
 
 *That’s the one.*
 
 *As a father with a daughter, I’d been meaning to deal with him myself someday. Good riddance. But why bring him up?*
 
-*That bastard. Hyang killed him.*
+*Hyang killed him.*
 
 *……*
 
@@ -160,7 +160,7 @@ They probably never knew that someone had been watching on the night they quietl
 
 *……*
 
-*And apparently, that still didn’t satisfy her. She crushed the dead bastard’s balls, hurled every curse imaginable at him, and hacked his corpse to pieces. In Hwi’s words, it looked like an imperial palace chef mincing meat with uncanny skill.*
+*That wasn’t enough for her. She crushed the dead man’s balls, cursed him up and down, and hacked his corpse apart. Hwi said it looked like an imperial palace chef mincing meat with inspired skill.*
 
 *…You’re lying. My Hyang would never do that.*
 
@@ -170,9 +170,9 @@ They probably never knew that someone had been watching on the night they quietl
 
 *You sound like a fiend… Gasp.*
 
-That day, the sworn brothers crouching far away in the darkness had unintentionally witnessed it.
+Crouched together in the darkness, the sworn brothers had caught sight of something they were never meant to see.
 
-The sight of the two children they cherished more dearly than their own lives slowly tilting their heads toward each other.
+The two children they cherished more than their own lives were slowly leaning toward each other.
 
 *Turn your head. Quick!*
 
@@ -180,11 +180,11 @@ The sight of the two children they cherished more dearly than their own lives sl
 
 *Oh, heavens. What did I just see?*
 
-*What else? Did you leave your eyes in Nanman? They were kissing—mmph. Mmph!*
+*What do you think? Did you leave your eyes back in Nanman? They’re kissing—mmph! Mmph!*
 
 *Baeksang, you conniving bastard. You put that wolf of a son up to this, didn’t you? Do you want to be Palace Lord that badly?*
 
-*Mmph! Hah! Me, Palace Lord? What kind of insane nonsense is that? Maybe after you or I die, but not now.*
+*Mmph! Pah! Me, Palace Lord? What kind of madness is that? Maybe after you or I die.*
 
 *Ah, I see. You’ll fulfill your dream through your son. Hyang could be the next Palace Lord, so you’ll snatch her up and make her do nothing but housework. Is that it?*
 
@@ -198,7 +198,7 @@ The sight of the two children they cherished more dearly than their own lives sl
 
 *I swear to the heavens!*
 
-*Fine. I believe you. Then prepare for them to hold their wedding this year.*
+*Fine. I believe you. Get ready for a wedding this year.*
 
 *How many times must I tell you I don’t— What? What did you just say?*
 
@@ -206,11 +206,11 @@ The sight of the two children they cherished more dearly than their own lives sl
 
 *……*
 
-*Why are you just staring at me with that blank expression? You had already figured it out too. Unless you dislike it?*
+*Why are you staring at me like that? You knew how they felt too. Unless you object?*
 
 *O-Of course I don’t. You’re right, I’d guessed. But… how do I put it? Huh.*
 
-*Then that settles it. No need for a long discussion. If the western front stabilizes before winter, let’s have them marry and send them back to Nanman. And although the thought makes me feel strange… if they have a child, those two will give up their stubbornness and return willingly, won’t they?*
+*Then it’s settled. If the western front is secure before winter, we’ll hold the wedding and send them back to Nanman. And strange as it feels even to think about… if they have a child, perhaps those two will stop being so stubborn and go home willingly.*
 
 *A child. Ha… Haha. Has that much time passed already?*
 
@@ -218,7 +218,7 @@ The sight of the two children they cherished more dearly than their own lives sl
 
 *What is it?*
 
-*That girl Hyang. To me, she is more precious and pitiful than anyone. Because of her worthless father, she lost two older brothers and suffered terribly.*
+*Hyang is more precious to me than anyone. And she’s suffered more than she should have. She lost two older brothers because of her useless father.*
 
 *Hyung…*
 
@@ -228,9 +228,9 @@ The sight of the two children they cherished more dearly than their own lives sl
 
 *……*
 
-*You have nothing to worry about. Hwi will certainly do that. He’ll grow old with her not merely as a woman, but as a companion—and sometimes as a friend.*
+*Don’t worry. Hwi will. He’ll grow old beside her not merely as his wife, but as a companion, and sometimes a friend.*
 
-*I suppose I can trust Hwi.*
+*I can trust Hwi to do that.*
 
 *And if you can’t trust Hwi, trust Hyang.*
 
@@ -238,13 +238,13 @@ The sight of the two children they cherished more dearly than their own lives sl
 
 *You know her temper. If Hwi disappoints her in the slightest, he’ll end up like Little Tide Demon. I’d bet—!*
 
-*Baeksang, you bastard! How dare you think of my Hyang as—!*
+*Baeksang, you bastard! What do you take my Hyang for?*
 
 That last shout had been a mistake.
 
 Hwi and Hyang broke apart in the middle of their shy first kiss, and the two sworn brothers fled as fast as their legs could carry them.
 
-Then, when they reached a quiet stream and were about to hurl a word at each other…
+They reached a quiet stream and turned to snap at each other, but…
 
 *Yes. We laughed. Loud enough to shake the world.*
 
@@ -262,13 +262,13 @@ That winter, as they waited for a wedding all Nanman would have celebrated, the 
 
 And then… the flower withered.
 
-After Yayul Hyang—the woman who had been as beautiful as a flower and as strong as steel—withered on the battlefield, the light vanished from Baekhwi’s face.
+From the day Yayul Hyang, as beautiful as a flower and as strong as steel, died on the battlefield, the light went out of Baekhwi’s face.
 
 That must have been why, during the final battle at the Great Snow Mountain, he had cut down enemy after enemy as though possessed, stepping into ever greater danger.
 
 In the years that followed, Baeksang sometimes wondered whether the boy had seen a single flower blooming somewhere in that narrow ravine.
 
-*Was that really what happened?*
+*Was that what happened?*
 
 As always, there was no answer.
 
@@ -280,7 +280,7 @@ Drip. Drip.
 
 Not a cloud marked the clear sky. Yet raindrops fell from somewhere.
 
-And then, in the next moment, someone’s voice pierced Baeksang’s ears.
+Then a voice reached his ear.
 
 “Oh my. Should I come back later?”
 
@@ -288,4 +288,4 @@ Baeksang turned slowly. In his bloodshot eyes, he saw a woman who had appeared l
 
 “…Southern Heaven Demon Empress.”
 
-It was a smile as radiant as a flower and as wicked as a viper.
+At his words, the woman smiled—a smile as radiant as a flower and as wicked as a viper.

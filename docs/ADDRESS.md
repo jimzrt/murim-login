@@ -1475,3 +1475,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 청풍 | 살성 | younger companion to senior martial figure | old man | polite and familiar | Cheongpung apologizes and explains why he wandered off. |
 | 매종학 | 제갈풍 | Alliance Leader to Zhuge Clan Family Head | Family Head Zhuge | formal and familiar | Mae Jonghak asks whether Zhuge Feng completed his assignment. |
 | 제갈풍 | 송호 | Zhuge Clan Family Head to Hidden Shadow Pavilion Chief | Chief of the Hidden Shadow Pavilion | formal and playfully accommodating | Zhuge Feng jokes that he would overlook Song Ho’s conduct if the amount were reasonable. |
+| 공일중 | 적천강 | Zhongnan Sect Leader to renowned senior martial master | Great Hero Jeok | formal and deferential | Gong respectfully greets Jeok as 적 대협. |
