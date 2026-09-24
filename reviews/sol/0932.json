@@ -1,0 +1,126 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "And there was no way all those holographic windows had piled up during the three days I’d been out.",
+      "defect": "“I’d been out” adds a period of unconsciousness or absence that this sentence does not state.",
+      "id": "F01",
+      "rationale": "The source specifies only the past three days.",
+      "replacement": "And there was no way all those holographic windows had piled up in just the past three days.",
+      "severity": "major",
+      "source": "겨우 지난 사흘 동안 저 많은 홀로그램 창이 쌓여 있었을 리도 없다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> Congratulations! [Update] is complete!\n>\n> We sincerely regret any minor inconvenience caused by the [Update].",
+      "defect": "The draft retains square brackets around UI terms inside a framed System panel.",
+      "id": "F02",
+      "rationale": "The binding Markdown rule says the System heading and blockquote identify the panel without square brackets around UI terms.",
+      "replacement": "> **System**\n> Congratulations! Update is complete!\n>\n> We sincerely regret any minor inconvenience caused by the Update.",
+      "severity": "minor",
+      "source": "- 축하합니다! [업데이트]가 완료되었습니다!\n\n- [업데이트] 진행으로 인해 시스템 사용에 약간의 불편을 끼쳐드린 점, 심심한 유감을 표합니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Giving you a fitting reward for all your hard work and doing everything in your power to make the user’s experience more enjoyable—that was the true purpose of a kingly, god-tier System.",
+      "defect": "“Doing everything in your power” assigns the work of supporting the user to the user rather than the System.",
+      "id": "F03",
+      "rationale": "The System is the one providing material and moral support for the user's play.",
+      "replacement": "Giving you a fitting reward for all your hard work and doing everything it could to make the user’s experience more enjoyable—that was the true purpose of a kingly, god-tier System.",
+      "severity": "major",
+      "source": "유저의 쾌적한 플레이를 위해 물심양면 도와주는 것이야말로 킹갓 시스템의 순기능 아니겠나."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> [Update Reward] has been delivered to your Inventory.",
+      "defect": "The System panel retains square brackets around the Reward name.",
+      "id": "F04",
+      "rationale": "The framed System panel does not use square brackets for UI terms under the binding Markdown rule.",
+      "replacement": "> Update Reward has been delivered to your Inventory.",
+      "severity": "minor",
+      "source": "[업데이트 보상]이 인벤토리로 지급되었습니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "> [Pocket Watch of Unknown Make]",
+      "defect": "The item name retains System-panel brackets.",
+      "id": "F05",
+      "rationale": "The Item Window is already identified by its framed System panel.",
+      "replacement": "> Pocket Watch of Unknown Make",
+      "severity": "minor",
+      "source": "[누가 만들었는지 모를 회중시계]"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*This sucks.*",
+      "defect": "The poem's final line softens the source's blunt profanity.",
+      "id": "F06",
+      "rationale": "The source ends the deliberately crude poem with strong profanity.",
+      "replacement": "*Fucking sucks.*",
+      "severity": "major",
+      "source": "좆 같다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Is that it? You bastards!”",
+      "defect": "“Is that it?” turns his conclusion that the inscription reveals nothing into a question.",
+      "id": "F07",
+      "rationale": "He is angrily declaring that the discovered inscription is worthless.",
+      "replacement": "“It doesn't mean a damn thing, you bastards!”",
+      "severity": "major",
+      "source": "“아무것도 아니잖아, 개새끼들아!”"
+    },
+    {
+      "confidence": 0.85,
+      "current": "“……If you call him, we’re the ones who’ll get chewed out. Don’t.”",
+      "defect": "“Chewed out” narrows the threatened rough treatment to a verbal reprimand.",
+      "id": "F08",
+      "rationale": "탈탈 털린다 conveys being thoroughly worked over without specifying that it is merely verbal.",
+      "replacement": "“……If you call him, we’re the ones who’ll get put through the wringer. Don’t.”",
+      "severity": "major",
+      "source": "“……부르면 괜히 우리만 탈탈 털린다. 하지 마.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "But when his squadmates, realizing their comrade had died, rushed over, they found a bullet lodged in the little Bible he always carried over his heart—he’d been a devout believer, after all…",
+      "defect": "“Realizing their comrade had died” presents Johnson's death as fact, undermining the reveal that the Bible caught the bullet.",
+      "id": "F09",
+      "rationale": "The squadmates sense or assume his death; the source does not establish that he actually died.",
+      "replacement": "But when his squadmates rushed over, sure their comrade was dead, they found a bullet lodged in the little Bible he always carried over his heart—he’d been a devout believer, after all…",
+      "severity": "major",
+      "source": "그러나 전우의 죽음을 직감하고 주위로 달려간 소대원들이 본 것은,"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It was a suggestion worthy of the eldest son of a textile-merchant family.",
+      "defect": "“Eldest son” changes 장손, the eldest grandson, and drops the family's wealth.",
+      "id": "F10",
+      "rationale": "The source specifies both his generational position and the family's wealth.",
+      "replacement": "It was a suggestion worthy of the eldest grandson of a wealthy textile-merchant family.",
+      "severity": "major",
+      "source": "포목점 재벌가 집안의 장손다운 발언이었지만"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“He’d like this as a gift, wouldn’t he?”",
+      "defect": "“He” supplies a male recipient where the source leaves the recipient unstated; the ensuing reveal identifies Young Lady Ju.",
+      "id": "F11",
+      "rationale": "Keeping the recipient unspecified preserves both the source's omission and Mujin's mistaken assumption that the gift is for him.",
+      "replacement": "“They’d like it if I gave it to them like this, wouldn’t they?”",
+      "severity": "critical",
+      "source": "“이대로 선물하면 좋아하겠지?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You stupid, washed-up Embroidered Uniform Guard! You showed up without learning the password!”",
+      "defect": "“Washed-up” implies a decline from former competence rather than the source's insult that he is useless or incompetent.",
+      "id": "F12",
+      "rationale": "폐급 attacks his competence, while 새끼 adds an insult omitted from the draft.",
+      "replacement": "“You stupid, useless Embroidered Uniform Guard bastard! You showed up without even learning the password!”",
+      "severity": "minor",
+      "source": "“이 멍청한 폐급 금의위 새끼! 암구호도 숙지 안 하고 오다니!”"
+    }
+  ],
+  "summary": "The draft has several action, subject, and register errors, plus System-panel formatting issues.",
+  "version": 1
+}
