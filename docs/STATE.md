@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 929
-- Next chapter: 930
-- Current block: 925–929 (5/5)
-- Latest translation: `translations/0929.md`
-- Latest summary: `summaries/beats/0929.md`
-- Safe profiles through: chapter 929
+- Last completed: 930
+- Next chapter: 931
+- Current block: 930–934 (1/5)
+- Latest translation: `translations/0930.md`
+- Latest summary: `summaries/beats/0930.md`
+- Safe profiles through: chapter 930
 
 ## Current Block
 
-- As fighting spreads across the imperial capital, a former Grand Preceptor gathers supporters of Prince Shangshan and leads them toward the mountain, inspired by a song planted among the people by a mysterious bamboo-hatted man. Jeong Hogun arrives in golden armor and reveals that his earlier words and actions in the marketplace were carried out under the Emperor’s command. He delivers the Emperor’s decree authorizing the former Grand Preceptor to raise Crown Prince Zhu Bao’s banner and join the Embroidered Uniform Guard in defeating the traitors. The united forces rout the rebels; three days later, someone awakens.
+- After being unconscious for three days, Jin Taekyung wakes in the Fire Dragon Pavilion with the Divine Physician, Jeok Cheongang, the Bow Saint, and his companions gathered around him. He recalls a vivid dream in which he believed he had become the Emperor and feared losing his life as a Hunter and Player; the dream ends with No Shadow hinting that the endlessly spinning Myriad-Poison Ring is strange. Taekyung wakes to find his hand inside his pants, causing his companions to misunderstand the situation and Ju Hwaran to flee in embarrassment.
 
 ## Open Questions
 
@@ -17,13 +17,10 @@
 - How far has Dark Heaven infiltrated the Great Nation, and which officials or commanders are involved?
 - What story has So Gyo kept to herself?
 - Where is Ma Sanbao, and what is his current status?
-- Who woke three days after the fighting ended, and what is their condition?
 
 ## Exceptional Decision
 
-- Keep “Force” for 강기 distinct from “death energy” for 사기.
-- Render 황태제 as “Crown Prince” in this succession context.
-- Render 반정 as “restoration” for the political movement in this chapter.
+- None.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
