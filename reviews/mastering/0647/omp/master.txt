@@ -1,10 +1,10 @@
 # Chapter 647
 
-The banquet was being held in a large training ground inside the Inner Palace.
+The banquet was being held on a large training ground inside the Inner Palace.
 
-The place was large enough to accommodate more than a thousand warriors. Every kind of delicacy had been laid out, and the grounds were packed with people, including the tribal chieftains.
+It could accommodate around a thousand warriors. Every kind of delicacy had been laid out, and the grounds were crowded with people, including the tribal chieftains.
 
-And at the most honored seat in the training ground, someone was waiting for me.
+At the place of honor, someone was waiting for me.
 
 “You’ve arrived.”
 
@@ -12,13 +12,13 @@ The Beast Miao King spotted me from his high-backed chair adorned with tiger ski
 
 “Come sit. I had a place prepared for you.”
 
-The seat assigned to me was directly beside the Beast Miao King, on his left.
+My seat was directly to his left.
 
 It was exceptional treatment for an outsider, but given my status and what I’d done the previous night, it wasn’t all that strange.
 
 That didn’t mean every member of the Fire Dragon Pavilion was getting the same treatment, of course.
 
-“I’ve prepared places for all of you at this banquet as well. Eat, drink, and enjoy your—”
+“I’ve prepared places for all of you as well. Eat, drink, and enjoy—”
 
 “Taishan! Meat!”
 
@@ -26,7 +26,7 @@ Grab! Chomp, chomp, chomp!
 
 Taishan swept up the meat on the table in front of him. The Beast Miao King stared at me, baffled.
 
-“……What in the world is that fellow?”
+“…What in the world is wrong with him?”
 
 “…He’s just insane. Don’t pay him too much attention.”
 
@@ -56,21 +56,21 @@ I paused before answering. “You heard about that? News travels fast.”
 
 “I don’t involve myself in every matter, but I hear about them all. That is the position of Palace Lord of the Nanman Beast Palace.”
 
-He had a point. Since outsiders had joined the scouts, it wouldn’t have been strange for a report to have already reached him through the great chieftains.
+Fair enough. With outsiders joining the scouting party, it wouldn’t be strange if the chieftains had already reported it to him.
 
-I thought of the three people who should be heading somewhere northeast by now and muttered inwardly.
+I thought of the three people who should be heading northeast by now.
 
 *Will they be all right?*
 
 After a great deal of thought, I’d chosen three people: Ju Hwaran, Song Ilseom, and Hyuk Mujin.
 
-Regardless of my concerns, Ju Hwaran possessed exceptional martial prowess and experience compared to other young prodigies. Song Ilseom needed no explanation, and the last member, Hyuk Mujin, was……
+Despite my worries, Ju Hwaran had more martial prowess and experience than most young prodigies her age. Song Ilseom needed no explanation. And as for Hyuk Mujin…
 
 *Whatever else you could say about him, the man has the survival instincts of a cockroach.*
 
-Despite how he looked, Hyuk Mujin had survived countless battlefields alongside me, from Shanxi Province to the present day, escaping death at every turn.
+He might not look it, but he’d survived countless battlefields alongside me, from Shanxi Province all the way to Nanman. He’d escaped death time and again.
 
-He was so good at wriggling his way out of danger that Jeok Cheongang had once said,
+He was so good at wriggling out of danger that Jeok Cheongang had once asked:
 
 *How has someone so weak and cowardly survived this long?*
 
@@ -88,45 +88,45 @@ No wonder he always came back alive. I might as well change his nickname to Hyuk
 
 “They’ll do well. No matter what happens.”
 
-I muttered that with a personal wish behind it, then glanced over the Beast Miao King’s shoulder.
+I said it as much in hope as in confidence, then glanced past the Beast Miao King.
 
 “By the way, there are a lot of empty seats for a banquet that’s already started.”
 
 “They’ll be here soon.”
 
-He said it casually, but the Beast Miao King’s eyes had grown heavy and dark. This was especially true whenever he looked at the empty seat directly to his right.
+That was what he said, but his eyes were troubled—especially when they fell on the empty seat directly to his right.
 
 *Baeksang.*
 
-The chieftains who had left the main hall following him were already seated, but Baeksang, Yohi, and Heugung had yet to return.
+The chieftains who’d followed Baeksang out of the main hall were already seated. Baeksang, Yohi, and Heugung had yet to return.
 
-The Beast Miao King stared at their empty seats for a while before silently tilting the wine bottle.
+The Beast Miao King studied their empty seats, then silently poured himself more wine.
 
 Drip.
 
 The sun had long since set behind the western mountains, yet the Nanman Beast Palace glowed against the darkness. Festivities were taking place everywhere.
 
-The Tribal Grand Council, held only once a year, was also an occasion for unity, and the countless tribespeople who had poured into the streets were laughing and talking with bright faces as they enjoyed themselves.
+Held just once a year, the Tribal Grand Council was also an occasion for unity. Countless tribespeople had poured into the streets to laugh, talk, and enjoy themselves.
 
-Or, at least, they probably were. I couldn’t see them from here, but the cheers and firecracker explosions drifting over from the Outer Palace were more than enough to tell me.
+Or so I assumed. I couldn’t see them from here, but the cheers and bursting firecrackers coming from the Outer Palace told me plenty.
 
 Whoosh! Boom!
 
 Waaaaaaah!
 
-If I only listened to the noise, I would have thought it was at least a Samba Festival.
+From the sound of it, they were holding a full-blown samba festival.
 
-“So, um…… Is this really okay?”
+I turned to the Beast Miao King. “So, uh… is this really okay?”
 
 “What do you mean?”
 
-“You know. Everyone seems to have amnesia. They all know what happened at Ailao Mountain barely a day ago.”
+“Everyone seems to have amnesia. They know what happened at Ailao Mountain barely a day ago.”
 
 He didn’t seem concerned. “They do. That’s why the festival is even grander.”
 
 “Because of that?”
 
-“Yes. Every one of them was a brave warrior who fought and died for Nanman. So they believe that each of them has returned to the arms of the god their tribe worships. Though they died in this world, they believe they were reborn as warriors of their god.”
+“Yes. Every one of them was a brave warrior who fought and died for Nanman. The people believe they’ve returned to the arms of the gods their tribes worship. Though they died in this world, they’ve been reborn as warriors of their gods.”
 
 “…”
 
@@ -134,21 +134,21 @@ I’d heard something like that before.
 
 It brought to mind the Middle Eastern terrorist group I’d beaten up before logging in.
 
-*They aren’t Crusaders or ancient Vikings.*
+*What are they, Crusaders? Ancient Vikings?*
 
-All kinds of superstitions ran rampant in the Central Plains as well, but Nanman was clearly different. Perhaps it was because so many indigenous faiths existed here.
+The Central Plains had plenty of superstitions, but Nanman, with its many indigenous faiths, was clearly different.
 
 As someone born and raised in the twenty-first century, though, I couldn’t understand it.
 
 “Do you believe that too, Great Hero Yayul?”
 
-At my question, the Beast Miao King, who had been about to raise his wine cup, let out a short laugh.
+The Beast Miao King was about to raise his cup. Instead, he gave a short laugh.
 
 “Interesting.”
 
 “What is?”
 
-“Isn’t it only natural? You asked that question of an old Miao man born and raised in Nanman—and of the Palace Lord of the Nanman Beast Palace, at that.”
+“That you would dare ask an old Miao man born and raised in Nanman—its Palace Lord, no less—such a question.”
 
 “Oh.”
 
@@ -166,31 +166,31 @@ I nodded reflexively. “Then who asked you?”
 
 His answer was simple, clear, and baffling.
 
-“God.”
+“A god.”
 
 “Sorry? What?”
 
-As I stood there, momentarily dumbfounded by the incomprehensible answer, the Beast Miao King continued while stroking his full wine cup.
+While I stood there trying to make sense of it, the Beast Miao King ran a hand over his full wine cup.
 
-“The Martial God. Someone whose name, age, and even face are not properly known. A divine man who was born human and became something beyond humanity. That person asked me whether I truly believed my god existed.”
+“The Martial God. No one knew his name or age, or even what his face truly looked like. A divine man born human who became something beyond humanity. He asked me, ‘Do you truly believe your god exists?’”
 
 “…!”
 
 “So I answered, ‘Honestly, I don’t know. But I think I’m looking at one right now.’”
 
-The crescent moon reflected in his wine cup rippled. The Beast Miao King downed the wine and moon together, then burst into laughter.
+The crescent moon reflected in his wine rippled. The Beast Miao King swallowed the wine and the moon together, then laughed aloud.
 
 “It was a foolish answer, but what else could I say? That day, the Martial God single-handedly defeated five fiends who had reached the Supreme Peak realm and five hundred members of the Blood Ghost Squad. When I first met him, he had a snow-white beard that fluttered like an immortal’s. At our second and final meeting, he looked like a young boy.”
 
 “…”
 
-“More than fifty years have passed, but I still remember that day as clearly as ever.”
+“More than fifty years have passed, but I still remember that day clearly.”
 
-I listened with my mouth hanging open, unable to speak.
+I listened with my mouth hanging open.
 
 The Blood Ghost Squad. I knew the name. It came up whenever Jeok Cheongang launched into one of his “back in my day” stories.
 
-The Blood Ghost Squad had been the Demonic Cult’s premier strike force, sweeping across the Central Plains at the head of a hundred thousand demonic troops. Every single member was said to have been a Peak master.
+They’d been the Demonic Cult’s foremost strike force, sweeping across the Central Plains at the head of a hundred thousand demonic troops. Every member was said to have been a Peak master.
 
 *Five hundred Peak masters. And five fiends at the Supreme Peak realm on top of that.*
 
@@ -202,9 +202,9 @@ Even coming from the Beast Miao King, I would have dismissed the story as nonsen
 
 Jeok Cheongang. Mungyeong. Mae Jonghak. And others.
 
-I had heard stories about the Martial God until my ears bled from people who deserved to be called giants in the long history of the Murim.
+I’d heard so much about the Martial God from people who could rightly be called giants of Murim history that my ears might as well have bled.
 
-And yet I still didn’t know. What kind of realm had that master reached? No—was he even human at all?
+Yet I still had no idea what realm he’d reached. No—whether he was even human.
 
 And why had someone so extraordinary suddenly vanished without a trace? Where was he now, and what was he doing?
 
@@ -212,11 +212,11 @@ One thought led to another. Then, without warning, someone’s name came to mind
 
 *…Wait.*
 
-The fingers tapping against the table stopped dead.
+My fingers stopped tapping the table.
 
-My eyes flew open, but they were not looking at the banquet hall before me. Nor were they looking at the Murim.
+My eyes widened. I wasn’t looking at the banquet hall in front of me anymore, or thinking about Murim.
 
-They were looking beyond the hot, heavy air blowing in from far away—beyond some unknown realm that could not be explained in words—to another world and the person who existed there.
+Beyond the hot, heavy air blowing in from far away, beyond some unknown boundary I couldn’t put into words, lay another world. And in that world was one man.
 
 *Cheon Taemin.*
 
@@ -228,9 +228,9 @@ I knew exactly why I’d thought of him.
 
 *He’s like the Martial God.*
 
-The Martial God’s exploits in the Great Faction War and Cheon Taemin’s in the Great Cataclysm—even their actions immediately afterward.
+It could have been a coincidence, but they had too much in common to brush it aside: what they’d done during the Great Faction War and the Great Cataclysm, and even what had happened immediately afterward.
 
-*No way. No. No, that’s impossible.*
+*No way. No, that can’t be. It should be impossible.*
 
 I couldn’t follow the thought any further. The musicians had stopped playing, the dancers had stopped moving, and every eye was on the man climbing the stairs.
 
@@ -250,17 +250,17 @@ I came out of my thoughts and finally met his gaze, cold enough to freeze everyt
 
 *About two hundred elite warriors from the Inner Palace are moving through the North Gate.*
 
-As the Sound Transmissions from his subordinates pierced the darkness one after another, someone buried in the shadows rose from their seat.
+As his subordinates’ Sound Transmissions reached him one after another, someone hidden in the darkness rose from their seat.
 
 *Final report. What is the target?*
 
-*The Blood Monk of Guizhou. The targets are moving for reconnaissance and possible combat. At Jin Taekyung’s order, the group includes Ju Hwaran, the Young Bureau Head of the Yongbong Escort Bureau; Song Ilseom, the Soul-Chasing Guest; and Hyuk Mujin of the Jin Family of Taiyuan.*
+*The Blood Monk of Guizhou. The targets are moving out to scout and, if necessary, fight. On Jin Taekyung’s orders, the group includes Ju Hwaran, Young Bureau Head of the Yongbong Escort Bureau; Song Ilseom, the Soul-Chasing Guest; and Hyuk Mujin of the Jin Family of Taiyuan.*
 
 It would have been surprising for anyone to know Song Ilseom’s past, known to only a select few. Not for the shadow and its subordinates.
 
 “Ha.”
 
-After letting out a quiet laugh, the Shadow turned around in one smooth motion.
+The shadow gave a quiet laugh and turned.
 
 Snap.
 
