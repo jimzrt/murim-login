@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "I can’t even guarantee he’ll last another month or two.",
+      "defect": "Changes the physician’s estimate from roughly two months to a range beginning at one month.",
+      "id": "F01",
+      "rationale": "두어 달 means roughly two months.",
+      "replacement": "I can’t even guarantee he’ll last another couple of months.",
+      "severity": "critical",
+      "source": "앞으로 두어 달은 더 버틸 수 있을지조차 장담할 수 없는 상황이지요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Even Blood Soul Gu can’t stand up to the Myriad-Poison Ring. It can definitely cure him.",
+      "defect": "Omits Taekyung’s initial qualification and his immediate correction to certainty.",
+      "id": "F02",
+      "rationale": "충분한 가능성이. 아니 marks his shift from saying there is a good chance to insisting on a cure.",
+      "replacement": "Even against Blood Soul Gu, the Myriad-Poison Ring gives us a good chance. No—it can definitely cure him.",
+      "severity": "major",
+      "source": "제아무리 혈혼고라고 해도 만독지환이면 충분한 가능성이. 아니, 확실히 치료할 수 있습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But for someone standing at death’s door, nothing is crueler than false hope.",
+      "defect": "Calls the hope false, although the notice warns against offering it prematurely.",
+      "id": "F03",
+      "rationale": "섣부른 describes haste or prematurity, not a hope already known to be false.",
+      "replacement": "But for someone standing at death’s door, nothing is crueler than giving them hope too soon.",
+      "severity": "major",
+      "source": "그러나 죽음을 앞둔 이에게는, 섣부른 희망보다 잔인한 것은 없습니다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Remove the Blood Soul Gu lodged in the Emperor’s mind and free him from the pain that has tormented him for so many years.",
+      "defect": "Places the physical poison in the Emperor’s mind rather than his head.",
+      "id": "F04",
+      "rationale": "머릿속 specifies a physical location for the Blood Soul Gu.",
+      "replacement": "Remove the Blood Soul Gu lodged in the Emperor’s head and free him from the pain that has tormented him for so many years.",
+      "severity": "critical",
+      "source": "황제의 머릿속에 자리 잡은 혈혼고를 제거하여, 오랜 세월 그를 괴롭혀 왔던 고통에서 해방시키십시오."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Either way, you still have no way to treat them, right?”",
+      "defect": "Has Hyuk Mujin address Taekyung as the would-be healer before his later reaction reveals that connection.",
+      "id": "F05",
+      "rationale": "The Korean leaves the healer unstated; Mujin’s abrupt change of tone comes only after he sees Taekyung trembling.",
+      "replacement": "“Either way, that still means there’s no way to treat them, right?”",
+      "severity": "major",
+      "source": "그래 봤자 결국은 치료할 방법이 없다는 거 아닙니까?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You got dumped by Miss Zhu, didn’t you?”",
+      "defect": "Uses a different rendering for the established address 소저.",
+      "id": "F06",
+      "rationale": "The supplied glossary specifies Young Lady for 소저.",
+      "replacement": "“You got dumped by Young Lady Zhu, didn’t you?”",
+      "severity": "minor",
+      "source": "주 소저께 차이신 거 아닙니까?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Then, his eyes still fixed on the pocket watch hanging from my neck, he asked,",
+      "defect": "Drops the wistful longing in Mujin’s look at the watch.",
+      "id": "F07",
+      "rationale": "아직도 미련이 뚝뚝 묻어 나오는 눈 conveys that he still visibly longs for it.",
+      "replacement": "Then he looked wistfully at the pocket watch hanging from my neck and asked,",
+      "severity": "minor",
+      "source": "아직도 미련이 뚝뚝 묻어 나오는 눈으로 내 목에 걸린 회중시계를 바라보며 입을 열었다."
+    }
+  ],
+  "summary": "Several lines change the prognosis, the Quest’s description of the poison, or the timing of Hyuk Mujin’s realization.",
+  "version": 1
+}
