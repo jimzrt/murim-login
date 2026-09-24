@@ -30,7 +30,7 @@ Yet Heugung was telling the truth.
 
 “I’ve examined him. His injuries aren’t as serious as we might think. But these wounds… I can hardly believe what I’m seeing.”
 
-Although their internal energy had been sealed for the time being, both of them were martial artists who had reached the Peak realm.
+Their internal energy might be sealed for now, but both were Peak martial artists. The two Great Chieftains struggled to reconcile the wounds they could see with Jin’s condition. Still, knowing he was in no immediate danger let them breathe a sigh of relief.
 
 That relief had barely settled when they noticed someone lodged in the massive boulder Jin was leaning against.
 
@@ -38,7 +38,7 @@ Yohi stifled a cry.
 
 The unidentified old man was frozen there with his eyes wide open. He was already dead. Blood still flowed from his throat, pierced by a snow-white spearhead.
 
-THUD. DRIP, DRIP.
+DRIP. DRIP, DRIP.
 
 Yohi stared at the old man, every bit as blood-soaked as Jin, and murmured, “That’s him.”
 
@@ -90,13 +90,13 @@ Yohi chose the first path.
 
 They had to expose Baeksang’s conspiracy and stop Dark Heaven. Her own wrongdoing would come to light along with it, but she had made up her mind. She would bear the full cost of the path she had chosen.
 
-*I never should have done it.*
+*I never should have gone along with it.*
 
 Looking back, she felt nothing but regret.
 
 Baeksang had laid a broad, beautiful road of silk before her. Yohi had walked it all the way here, turning a blind eye to everything happening around her.
 
-But when she reached the end and happened to look down, she saw that her feet had long since become covered in blood.
+Only when she reached the end did she look down and see that her feet were covered in blood.
 
 Not her own. The blood of other Nanman people.
 
@@ -108,11 +108,11 @@ One person, more than any other, had brought her to that decision.
 
 A stranger from a foreign land. Yet he had fought for Nanman more than anyone—just as the former Sect Leader of the Fire Gate Clan had done centuries ago, before he passed into legend.
 
-*I may be a Great Chieftain, but I can’t be worse than a Han Chinese person.*
+*I’m a Great Chieftain. I can’t let a Han Chinese man do more for Nanman than I do.*
 
-*If a bitch like me can even call herself a Great Chieftain…*
+*If a bitch like me deserves to be called a Great Chieftain.*
 
-Yohi swallowed the self-mocking words and immediately sprang into action.
+Yohi swallowed the self-mocking thought and moved.
 
 RRRIP.
 
@@ -126,7 +126,7 @@ Heugung studied her in silence for a moment, then nodded.
 
 “You’re right. More enemies could arrive at any time.”
 
-“Considering how quiet it’s been around us until now, it’s safe to assume there aren’t any others. No, they probably decided Dark Heaven didn’t need to send more support after arranging for two Supreme Peak masters to come here.”
+“If there were more, we’d have seen them by now. No—Dark Heaven probably thought two Supreme Peak masters were all the support they needed.”
 
 “Probably. They knew about the tracking scent you carried. They must have meant to use us as bait to draw in Palace Lord Yayul. He would be Dark Heaven’s greatest obstacle right now.”
 
@@ -142,7 +142,7 @@ The longer they talked, though, the heavier Yohi’s heart grew.
 
 “My tribespeople were massacred. The Western Yao Estate. Nothing like this has ever happened before. The Inner Palace must be in an uproar by now.”
 
-“Then shouldn’t we go to the Inner Palace as quickly as possible?”
+“Then shouldn’t we get there as quickly as possible?”
 
 Yohi shook her head. She had shut her eyes and ears for the sake of her ambitions, but she was no fool.
 
@@ -154,7 +154,7 @@ She remembered what the unidentified old man now buried in the boulder had said.
 
 *The grand plan.*
 
-Yohi sensed indescribable danger and anxiety in those two words. She also realized that their abduction had been a carefully calculated act.
+Those were the words he had used. They filled Yohi with a danger she could not put into words. Their abduction, too, had been carefully calculated.
 
 The Western Yao Estate, massacred. The Inner Palace, surely in chaos. Baeksang, with a base of support equal to—or greater than—the Palace Lord’s.
 
@@ -166,11 +166,11 @@ The answer was not hard to find.
 
 Heugung’s voice snapped her out of her thoughts. She bit her lip.
 
-*If the thought that just crossed my mind is correct…*
+*If I’m right…*
 
 The Inner Palace was a demon-slaying battleground now, full of fiends and sinister schemes.
 
-“We shouldn’t go to the Inner Palace. We have to go west.”
+“We can’t go to the Inner Palace. We have to go west.”
 
 “West? Do you mean…”
 
@@ -182,7 +182,7 @@ The tribes lived throughout Nanman, but each had a home base. Several thousand Y
 
 “Hmm.”
 
-“Believe me. If we head to the Inner Palace now, we’ll be eliminated before we even manage to enter it.”
+“Believe me. If we head there now, we’ll be killed before we even get inside.”
 
 Heugung looked at her, his eyes grave.
 
@@ -196,9 +196,9 @@ Heugung looked at her, his eyes grave.
 
 “Public support will waver. His warriors will desert him.”
 
-“I’ll send messenger pigeons and messengers to every tribe and village. Seven days at most. Within that time, all of Nanman will know about Baeksang’s atrocities.”
+“I’ll send messenger pigeons and runners to every tribe and village. Seven days at most, and all of Nanman will know what Baeksang has done.”
 
-Heugung let out a quiet exclamation as Yohi continued speaking without hesitation.
+Heugung let out a quiet sound of admiration as she spoke.
 
 “You’re clever indeed. More so than the woman I thought I knew.”
 
@@ -256,6 +256,6 @@ CRUNCH! THUD.
 
 Blood sprayed, and the enormous silver body tipped sideways.
 
-As Yohi stared blankly at the sight, Heugung’s voice reached her ears.
+As Yohi stared at it, stunned, Heugung’s voice reached her.
 
-“Didn’t I tell you? I had to hide myself first.”
+“Didn’t I tell you? I had to hide who I was first.”

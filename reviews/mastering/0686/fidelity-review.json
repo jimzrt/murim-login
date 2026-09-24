@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "That relief had barely settled when they noticed someone lodged in the massive boulder Jin was leaning against.",
+      "defect": "The source explains that the two Great Chieftains were puzzled by the mismatch between Jin’s visible wounds and his actual condition, but relieved he was not in immediate danger. The translation refers to their relief without conveying what prompted it.",
+      "id": "F01",
+      "rationale": "The source explicitly gives both their puzzlement and the reason for their relief before they discover the body.",
+      "replacement": "The two Great Chieftains were puzzled by how Jin’s condition contrasted with the wounds they had identified, but relieved he was not in immediate danger. Before that relief had even faded, they noticed someone lodged in the massive boulder Jin was leaning against.",
+      "severity": "minor",
+      "source": "Lines 37–39"
+    },
+    {
+      "confidence": 0.91,
+      "current": "though they were only southern tribespeople to him",
+      "defect": "“To him” adds the implication that Jin regards them as merely southern tribespeople. The source describes them as southern non-Han peoples; it does not attribute that dismissive view to Jin.",
+      "id": "F02",
+      "rationale": "The source says he risked his life to save them, who were no more than southern non-Han peoples. It does not say he considered them lesser.",
+      "replacement": "though they were only southern tribespeople",
+      "severity": "minor",
+      "source": "Lines 89–91"
+    },
+    {
+      "confidence": 0.95,
+      "current": "*I may be a Great Chieftain, but I can’t be worse than a Han Chinese person.*",
+      "defect": "“I may be” makes Yohi uncertain about whether she is a Great Chieftain. The Korean instead invokes her title (“명색이 대족장인데”) as a reason she cannot be inferior to a Han Chinese person.",
+      "id": "F03",
+      "rationale": "The source’s self-deprecating thought questions whether someone like her deserves the title; it does not question whether she holds it.",
+      "replacement": "*I’m a Great Chieftain, after all. I can’t be inferior to a Han Chinese person.*",
+      "severity": "minor",
+      "source": "Line 133"
+    },
+    {
+      "confidence": 0.97,
+      "current": "With our internal energy sealed, Baeksang’s warriors will hunt us down before we reach Boshan.",
+      "defect": "The source says they will be pursued and killed before reaching Boshan. “Hunt us down” omits the stated fatal outcome.",
+      "id": "F04",
+      "rationale": "The Korean verb “추살” means to pursue and kill, not merely to track down.",
+      "replacement": "With our internal energy sealed, Baeksang’s warriors will hunt us down and kill us before we reach Boshan.",
+      "severity": "minor",
+      "source": "Lines 235–243"
+    }
+  ],
+  "summary": "The assembled chapter is broadly faithful, but it drops a detail explaining the characters’ relief and contains a few smaller shifts in implication and meaning.",
+  "version": 1
+}
