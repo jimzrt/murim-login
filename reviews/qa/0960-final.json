@@ -1,0 +1,55 @@
+{
+  "chapter": 960,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 2.104,
+    "source_characters": 5624,
+    "source_paragraphs": 178,
+    "translation_characters": 11834,
+    "translation_paragraphs": 174
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신의",
+        "preferred": "Divine Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "검신",
+        "preferred": "Sword God"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "소평",
+        "preferred": "So Pyeong"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

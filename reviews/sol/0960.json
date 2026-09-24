@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Stopping them at the cliffs wasn’t the end of it.",
+      "defect": "Changes the object of the action: the cliff was held back, not the attackers stopped at the cliffs.",
+      "id": "F01",
+      "rationale": "절벽을 is the object of 저지한.",
+      "replacement": "Holding back the cliff wasn’t the end of it.",
+      "severity": "critical",
+      "source": "절벽을 저지한 것으로 끝이 아니었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "They suddenly wondered how he had spent the two years after at last escaping the darkness where no light could reach.",
+      "defect": "Places the two years after Mukyung emerged from darkness; the source wonders how he spent that time before emerging.",
+      "id": "F02",
+      "rationale": "The emergence frames the question about how he spent the preceding two years.",
+      "replacement": "They suddenly wondered how he had spent those two years before finally emerging from that lightless darkness into the world.",
+      "severity": "major",
+      "source": "빛도 들지 않는 어둠을 벗어나 비로소 세상 밖으로 나온 그가.\n\n진태경과 청풍이라는 그늘에 잠시 가려져 있던 또 한 명의 천재가 이 년이라는 시간을 어떻게 보냈을지."
+    },
+    {
+      "confidence": 0.96,
+      "current": "No—a massive Sword Energy blazed with light brighter than anything Wipeng and Cheol Mubaek had ever seen.",
+      "defect": "Replaces a comparison with Wipeng and Cheol Mubaek’s own Sword Energy with a claim about everything they have ever seen.",
+      "id": "F03",
+      "rationale": "그것 refers back to their corresponding Sword Energy, not their past experience.",
+      "replacement": "No—a massive Sword Energy shone even brighter than Wipeng’s and Cheol Mubaek’s.",
+      "severity": "major",
+      "source": "아니, 위팽과 철무백의 그것보다 더욱 휘황한 빛을 내뿜는 거대한 검기(劍氣)를."
+    },
+    {
+      "confidence": 0.98,
+      "current": "At the far end of a furrow gouged a full *jang* into the ground, Jin Mukyung stood.",
+      "defect": "Makes one *jang* the depth of the furrow rather than the distance it stretches.",
+      "id": "F04",
+      "rationale": "일장에 걸쳐 describes the furrow’s extent; 깊게 separately describes its depth.",
+      "replacement": "Jin Mukyung stood at the far end of a deep furrow stretching a full *jang*.",
+      "severity": "critical",
+      "source": "일장에 걸쳐 깊게 파인 고랑 끝에 선 진무경의 모습을 본 마조가 누런 이빨을 드러냈다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Murderous intent and delight mingled in his voice.",
+      "defect": "Locates the killing intent and delight in his voice, which the source does not do, and misses the established term.",
+      "id": "F05",
+      "rationale": "The source describes mingling 살기 and 기쁨 without assigning either to his voice.",
+      "replacement": "Powerful killing intent mingled with delight.",
+      "severity": "minor",
+      "source": "막강한 살기와 기쁨이 뒤섞인다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A few days ago, alongside news of the vanguard’s annihilation, he’d seen the trace of the Ghost Sword on the severed head a Keshik commander of a hundred had brought back.",
+      "defect": "Makes the Keshik commander the person who brought back the head. A messenger brought back the Keshik commander’s severed head.",
+      "id": "F06",
+      "rationale": "전령이 가져온 identifies the messenger as the carrier, and 케식 백인장의 수급 identifies whose head it was; 검귀 is Sword Demon.",
+      "replacement": "A few days ago, alongside news of the vanguard’s annihilation, a messenger had brought him the severed head of a Keshik commander of a hundred. On it, he’d seen the Sword Demon’s handiwork.",
+      "severity": "critical",
+      "source": "며칠 전, 그는 선봉대의 전멸 소식과 함께 전령이 가져온 케식 백인장의 수급에서 검귀(劍鬼)의 흔적을 보았다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Everyone dies for their own reasons—and that was all the more true of martial artists.",
+      "defect": "Suggests people die for personal motives rather than that each death has a discernible cause.",
+      "id": "F07",
+      "rationale": "The point follows the statement that everything leaves traces: deaths, especially those of martial artists, have causes that can be read from those traces.",
+      "replacement": "Every death has its own cause—and that is all the more true of Murim martial artists.",
+      "severity": "major",
+      "source": "각자의 죽음에는 저마다의 이유가 있고, 무림인의 경우라면 더더욱 그렇다."
+    }
+  ],
+  "summary": "Several scene facts and causal details need correction, including who carried the severed head, the furrow’s dimensions, and when Mukyung spent his two years in darkness.",
+  "version": 1
+}
