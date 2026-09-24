@@ -14,11 +14,11 @@ Sama Pyo rushed over using his movement technique. He narrowed his eyes at the s
 
 “Yep.”
 
-“Sichuan is a land filled with treacherous terrain, so if we travel down the Yangtze, we can certainly move faster than we are now. Still, I’m somewhat concerned that our counterparts are the Yangtze River Channel League.”
+“Sichuan is full of treacherous terrain. Traveling down the Yangtze would certainly be faster than the route we’re taking now. But I’m not comfortable putting ourselves in the hands of the Yangtze River Channel League.”
 
 He had reason to distrust them. The Yangtze River Channel League was, at its core, a band of water bandits who made their living by plunder. And the prevailing opinion was that its leader, the Seafaring King Pa Ryun, was a devious man, regardless of his martial prowess.
 
-*He didn’t attend the formation of the Murim Alliance, either, for some reason.*
+*He didn’t attend the formation of the Murim Alliance, either.*
 
 I didn’t know whether illness or distance had kept him away. He had sent an envoy to announce his intention to join, then made it official. The Green Forest Alliance had done the same.
 
@@ -56,7 +56,7 @@ Taishan, who had been prowling around Sama Pyo like an enormous dog, joined in.
 
 *Watching you two is making my head spin.*
 
-I rubbed my throbbing temple and opened my mouth.
+I rubbed my throbbing temples.
 
 “And one more thing. You can trust those water bandits, so stop worrying.”
 
@@ -82,7 +82,7 @@ They moved with the rough energy of bandits who knew the Yangtze inside and out,
 
 These were Mu Song’s trusted men, all squad leaders or higher in the Water Dragon Stronghold. I’d seen them several times a day on my last visit to Sichuan, but the face I knew best was missing.
 
-“All familiar faces. But I don’t see Senior Mu Song.”
+“Good to see you all. Where’s Senior Mu Song?”
 
 The Deputy Stronghold Lord answered at once.
 
@@ -90,11 +90,11 @@ The Deputy Stronghold Lord answered at once.
 
 “Headquarters… The Yangtze River Channel League’s?”
 
-“Yes, sir. It was on the League Leader’s orders, so he couldn’t delay even a moment.”
+“Yes, sir. The Alliance Leader summoned him, so he couldn’t delay.”
 
 “I see.”
 
-Within the Yangtze River Channel League, the Seafaring King’s orders were absolute. His direct Disciple, Ship-Fire Boy Mu Song, had no choice but to answer a summons.
+The Seafaring King’s orders were absolute within the League. Mu Song was his direct disciple; he couldn’t ignore a summons.
 
 I looked over the bandits, disappointed that I’d missed him but grateful they had come.
 
@@ -128,11 +128,11 @@ I smiled at Sama Pyo. Just then, a burly bandit beside the deputy leaned in and 
 
 Silence fell.
 
-Never mind the water bandits. The gazes of the proud members of our Fire Dragon Pavilion were painfully sharp.
+The bandits’ stares were bad enough. The looks from the proud members of my own Fire Dragon Pavilion stung even worse.
 
 In the hush, Ju Hwaran murmured so quietly I could barely hear her.
 
-“What on earth have you been doing to make even water bandits…”
+“What have you been doing for even water bandits to be afraid of you…?”
 
 That went straight through me. I looked out over the endless Yangtze, my chest tightening.
 
@@ -150,7 +150,7 @@ I did my best to ignore his final blow and turned mournful eyes on the deputy.
 
 “……”
 
-The Deputy Stronghold Lord stared at me in terror for a moment before shouting in a choked voice,
+The Deputy Stronghold Lord stared at me in terror. Then he cried out, his voice thick.
 
 “Raise the anchor! Raise the anchor!”
 
@@ -164,7 +164,7 @@ The ship’s bow cut swiftly and powerfully through the water.
 
 Spring had arrived, and the wind was at our backs. Years of plunder had made the bandits peerless rowers.
 
-Of course, even though these were fairly decent water bandits who had been reformed by Mu Song, their innate instincts remained.
+Mu Song might have reformed them into fairly decent water bandits, but their old instincts were still there.
 
 “Five ships to the southeast!”
 
@@ -176,13 +176,13 @@ Of course, even though these were fairly decent water bandits who had been refor
 
 Everyone watched in disbelief, myself included. The Deputy Stronghold Lord’s face twisted.
 
-“You idiots! We have honored guests aboard! What do you think you’re doing? Do you people have no basic manners?”
+“You fools! We have honored guests aboard! What do you think you’re doing? Have you no manners?”
 
 “S-sorry.”
 
-For a water bandit, he sounded exactly like Judge Bao.[^1]
+For a water bandit, he sounded remarkably like Judge Bao.[^1]
 
-After sternly rebuking his subordinates, the Deputy Stronghold Lord approached us and bowed politely.
+After sternly scolding his men, he approached us and bowed.
 
 “I apologize for letting you see us behave that way.”
 
@@ -200,7 +200,7 @@ I gave him an amiable smile.
 
 “Get down.”
 
-There had been a slight incident, but after I made the Deputy Stronghold Lord drop and hold the push-up position a few times, even that impulse disappeared.
+There were a few incidents like that. After the Deputy Stronghold Lord had dropped into a push-up position a few times, they stopped.
 
 All the while, the swift ship kept moving with the wind at its back.
 
@@ -230,13 +230,13 @@ He wasn’t fishing to catch fish in the first place.
 
 *That’s why he doesn’t say anything.*
 
-Even when the bobber trembled right in front of him, he didn’t bother yanking on the fishing rod. Every night, he locked himself in the cabin to practice martial arts or devote himself to circulating his qi.
+Fishing was his way of clearing his mind. Even when the float bobbed right in front of him, he didn’t bother pulling up the rod. At night, he shut himself in the cabin to practice martial arts or circulate his qi.
 
 Day by day, hour by hour, we drew closer to Yunnan. Everyone was preparing in their own way for a fight that might come.
 
 I was no different.
 
-*Open the Quest window.*
+*Open the Quest Window.*
 
 *Ding.*
 
@@ -274,7 +274,7 @@ I was studying the Quest Window again for anything I might have missed when a fa
 
 “Why are you staring so hard at empty space?”
 
-It was Ju Hwaran.
+Ju Hwaran.
 
 I closed the holographic window and gazed solemnly at the star-filled sky.
 
@@ -290,13 +290,13 @@ She gave a quiet laugh.
 
 “So what did the heavens tell you?”
 
-“They said the weather would be nice today.”
+“That the weather’s nice today.”
 
 “Really?”
 
 “Yes. Young Lady Ju, see the Big Dipper over there?”
 
-Ju Hwaran looked up at the sky along my pointing finger and blinked.
+Ju Hwaran followed my pointing finger and blinked.
 
 “Uh. Um.”
 
@@ -328,17 +328,17 @@ I smacked my lips.
 
 *Tap.*
 
-Ju Hwaran lightly jumped onto the bow and looked out at the pitch-black river before opening her mouth.
+Ju Hwaran hopped lightly onto the bow and looked out over the black river.
 
-“What do you think will happen from here on? To us?”
+“What do you think will happen to us?”
 
 Nanman was close now. She had to be anxious.
 
 I thought for a moment about how to reassure her.
 
-“I don’t know. There’s a strong possibility that Dark Heaven is plotting something, but it’s also possible that nothing will happen.”
+“I don’t know. There’s a strong chance Dark Heaven is plotting something, but we might be lucky and find that nothing’s wrong.”
 
-It was also a vast territory home to the Nanman Beast Palace, the dominant power in Nanman, as well as numerous ethnic groups, including the Miao people.
+Nanman was remote enough to be considered part of the Outer Lands. It was also a vast region inhabited by many peoples, including the Miao, and home to the Nanman Beast Palace, the power that dominated it.
 
 If my forebodings were right and Dark Heaven was plotting something there, countless dangers awaited the Fire Dragon Pavilion and me.
 
