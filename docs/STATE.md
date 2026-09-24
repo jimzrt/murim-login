@@ -1,27 +1,28 @@
 # Translation State
 
-- Last completed: 967
-- Next chapter: 968
-- Current block: 965–969 (3/5)
-- Latest translation: `translations/0967.md`
-- Latest summary: `summaries/beats/0967.md`
-- Safe profiles through: chapter 967
+- Last completed: 968
+- Next chapter: 969
+- Current block: 965–969 (4/5)
+- Latest translation: `translations/0968.md`
+- Latest summary: `summaries/beats/0968.md`
+- Safe profiles through: chapter 968
 
 ## Current Block
 
-- Peng Cheolhu recognizes Jamukha as the young eastern-steppe chieftain he defeated more than fifty years ago. Jamukha reveals that he spent those decades rebuilding his power in the west and waiting for the Hebei Peng Family to appear so he could avenge his defeat. Their duel leaves Cheolhu wounded, while Jamukha’s crescent saber shatters and he suffers a grievous shoulder wound and internal injuries. Cheolhu explains that his own relentless training since the Great Faction War let him overcome Jamukha’s speed, and declares that Jamukha can be called a king only on the steppe.
+- Peng Cheolhu presses his duel with Jamukha, whose memories reveal that an unidentified savior recruited him after his defeat more than fifty years ago, built his power in the western steppe, and made him a subordinate in a larger organization. Jamukha learned that even this savior answered to “that person,” and was ordered to prepare a bridgehead for an advance into the Central Plains. The savior supplied Temporary Strength Pills that were scattered across the steppe, including the pill that empowered Pung Yang.
+- As Peng Cheolhu’s attack leaves Jamukha near defeat, Murong Baek arrives and appears to turn on Peng Cheolhu, striking him from behind. Jamukha’s attempt to take a final Temporary Strength Pill is interrupted when a spear pierces his hand and the pill. Peng Cheolhu realizes Murong Baek was the one who pursued Jamukha fifty years earlier, and the chapter identifies Murong Baek as the true root of the calamity.
 
 ## Open Questions
 
-- What will the unidentified force’s arrows do to the battle?
-- What is the unnamed weapon the Keshik centurions were ordered not to use?
-- How will the duel between Jamukha and Cheolhu, and the fighting in the gorge, unfold?
-- Who gave Jang Sam the silk pouch, and what are the improved pill’s effects and distribution?
-- What is the Martial God’s identity and connection to the chosen one and the Bow Saint?
+- Who is “that person,” and what is the larger organization’s plan?
+- What is the full cost of the Temporary Strength Pill?
+- Why did Murong Baek pursue Jamukha fifty years ago, and why has he turned on Peng Cheolhu?
+- Did the spear’s wielder intend to stop Jamukha from taking the pill, and what is Jamukha’s condition?
+- What are the Martial God’s identity and connection to the chosen one and the Bow Saint?
 
 ## Exceptional Decision
 
-- Taekyung intends to keep the pocket watch for half a month before deciding whether to give it to Mujin.
+- None.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
