@@ -1,0 +1,285 @@
+# Chapter 597
+
+The path I had walked until now had been strewn with countless deaths and screams.
+
+But I could say this with absolute certainty: I had never felt a sorrow as quiet and suffocating as this.
+
+*Tap. Tap-tap.*
+
+Beyond the silence, fierce wind and rain beat against the window.
+
+The conversation we needed to have had ended a long time ago, but silence still lingered in the room where only the two of us remained.
+
+Team Leader Choi, who had been staring endlessly out the window with his head turned away, suddenly opened his mouth.
+
+“It must have been when I was seven. That was when Butler Kim came to me.”
+
+His memories of childhood were already hazy. More than twenty years had passed since then.
+
+The child who had suddenly lost his parents had grown into a young man, while frost had settled in the butler’s hair.
+
+“I can barely remember my parents’ voices anymore, but every memory I have with him is vivid.”
+
+When his parents died and even his only maternal grandfather disappeared, Butler Kim had always remained by his side.
+
+“One day, I suddenly realized that the devotion I had received from him was too great and too heavy to measure. But…”
+
+Team Leader Choi’s words trailed off, and he turned his head.
+
+Perhaps because he had been staring out at the rain for so long, his eyes were now soaked with something that looked like rainwater as he gazed at me.
+
+“Now I can’t give anything back to him. I never will.”
+
+*Tap. Tap-tap.*
+
+It was the first time I had seen him like this since I met him.
+
+Along with his muffled, sunken voice, a tear rolled down his cheek and fell onto the snow-white blanket.
+
+*No. That was the sound of the rain and wind beating against the window.*
+
+At least for now, I decided to think of it that way.
+
+“Mr. Jin.”
+
+I nodded instead of answering.
+
+Team Leader Choi had spent more time with Butler Kim than anyone else. The sorrow I had felt earlier was nothing compared to what he must have been carrying now.
+
+*Because he’d lost someone who was family.*
+
+To Team Leader Choi, Kim Hwajong had been… not a butler, but family. The family who had stayed beside a child left alone and become his only support.
+
+So it would have been all right if he blamed me for failing to save him, or grabbed me by the collar and hurled abuse at me.
+
+He was allowed to do that now. It was better to let everything spill out than to silently force down everything rising inside him.
+
+I didn’t want Team Leader Choi to flounder beneath the emotions surging up to his throat.
+
+And then, the next moment, one of his words pierced my ears.
+
+“Thank you.”
+
+“……!”
+
+“For watching over his final moments. For doing what I couldn’t… I sincerely thank you.”
+
+I was suddenly unable to speak. I wanted to answer him, but something rising inside me seemed to have locked my throat shut.
+
+I stared at Team Leader Choi in silence for a long time before finally forcing out my voice.
+
+“Team Leader Choi.”
+
+Before I could continue, he gave a small shake of his head.
+
+“I’m all right. Really.”
+
+It was an obvious lie, and one I had no choice but to accept despite knowing it was a lie.
+
+As I firmly closed my lips, which had been about to move, Team Leader Choi gave me a faint smile.
+
+“I’m embarrassed that I showed you such an ugly side of me. Would it be all right if I spent some time alone?”
+
+What more could I say to him now? I didn’t have the ability—or the right—to do so.
+
+Team Leader Choi still needed time.
+
+Time to accept the death of someone who had been like blood family to him. Time to find the courage to face his body.
+
+“Then get plenty of rest. There are people waiting outside, so call for us anytime if you need anything.”
+
+I answered as brightly as I could, rose from my seat, and headed for the door.
+
+Then, just as I placed my hand on the doorknob, I thought of one last thing I wanted to tell him.
+
+“Team Leader Choi.”
+
+“Yes?”
+
+“It’s all right to lose your balance sometimes. You can cry out loud. No one will hear you. Except for him.”
+
+“……!”
+
+“I’ll be going now.”
+
+Since my back was already turned, I didn’t know what he had felt upon hearing my words or what expression he had made.
+
+But that was probably for the best.
+
+*Click.*
+
+The moment I left the room and closed the door, I heard a faint sobbing through the gap.
+
+It was the quietest and saddest sob I had ever heard—a sound that belonged to one person collapsing after never once wavering, no matter the situation.
+
+“Taekyung, how is Team Leader Choi doing—”
+
+A person’s sobs weren’t something only I could hear.
+
+Im Kkeokjeong, who had been asking me with a worried expression after I stepped out of the room, suddenly closed his mouth.
+
+The other two people waiting in the hallway with him did the same.
+
+“Ah. I’m tired. I should go have some coffee.”
+
+Song Song stretched widely and disappeared with quick steps. The Skeleton King, whose eyes met mine, scratched his chin and spoke.
+
+“This body also, what was it? I should go have some coffee. I haven’t slept properly lately, and I feel like I’m going to collapse…”
+
+“Huh? Uh, yeah. Me too.”
+
+Im Kkeokjeong was one thing. But an undead monster claiming he was sleepy and needed coffee was such an absurd excuse that I let out a quiet laugh and patted his shoulder.
+
+“Make one for me, too.”
+
+“You miserable excuse for a human being. Do you have no hands or feet?”
+
+“I do have a spear.”
+
+The Skeleton King fell silent for a moment at my answer, then narrowed his eyes.
+
+“……Black?”
+
+“Mix.”
+
+“You don’t even know how coffee is supposed to taste. I’ll make it for you this once. Just this once.”
+
+By the time Im Kkeokjeong had left the hallway after the Skeleton King, who continued grumbling curses under his breath, the sound of dress shoes echoed from the distance.
+
+*Step. Step.*
+
+Three men dressed in black suits appeared.
+
+Their long breaths and measured strides told me that they were well-trained Peak masters—or rather, A-rank Hunters.
+
+But the mere fact that they had set foot in this mansion meant they weren’t ordinary Hunters. They belonged to an organization with a completely different nature from a Guild.
+
+“Pleased to meet you, Hunter Jin Taekyung.”
+
+Instead of answering, I looked at them—or rather, at the tie pins they wore.
+
+The badge, made up of black and gold, bore a hibiscus along with tiny engraved letters.
+
+**President’s Security Service**
+
+It was obvious whose orders they were following.
+
+I gave a small nod and opened my mouth.
+
+“President Baek Hanseong was looking for me?”
+
+The security officer at the front answered in a stiff, military tone.
+
+“No, sir. His Excellency left thirty minutes ago. He asked that you kindly understand that he had to leave without saying goodbye because he was busy with state affairs.”
+
+It seemed he had already left after the time in the room grew longer. I understood his situation well enough that I felt no regret.
+
+“What’s there to understand? It’s fine. I’m sure the President is already ten times busier because of me.”
+
+“……”
+
+“Twenty times?”
+
+“Ahem.”
+
+“Cough.”
+
+Judging by how the security officers could do nothing but repeatedly clear their throats, it was clear that they had become damn busy.
+
+I hadn’t checked on the situation outside yet, but the incident two days ago must have turned not only Korea but the entire world upside down.
+
+*And no wonder.*
+
+The monster waves that had erupted one after another in a single day were an unprecedented catastrophe in themselves. But the fact that they had been artificially caused, and that the Vice Guild Master of Ares Guild was the mastermind behind everything, carried more destructive power than a nuclear bomb.
+
+Even I, who knew little about the situation, couldn’t easily guess how large and far-reaching the aftermath of this incident would be.
+
+“By the way, did you stay here this whole time just to deliver that message?”
+
+“Hmm. It isn’t only that.”
+
+“Then…”
+
+As my words trailed off, the three men bowed politely.
+
+“By order of His Excellency the President, we have been assigned to provide temporary security for Hunter Jin Taekyung and your family. Although we have been described as a surveillance detail on the surface, we ask that you put yourself at ease.”
+
+“A surveillance detail?”
+
+“This will only continue until the current situation has settled down. It has only been two days, after all, and under the current circumstances, Hunter Jin Taekyung remains a suspect who has been booked without detention.”
+
+*Booked without detention.* Like *surveillance detail*, it wasn’t exactly a pleasant term.
+
+I was familiar with it because whenever high-ranking politicians or chaebol chairmen got into trouble, those were the kinds of titles that appeared in the news.
+
+*At least it’s only a booking without detention.*
+
+Being booked without detention meant that the suspect or defendant’s physical freedom was guaranteed, while the case itself had been formally registered with the judicial authorities.
+
+“What are the charges?”
+
+“The other matters fall within the scope of extenuating circumstances, but… at present, the most serious issue is the bodily harm you inflicted.”
+
+The security officer who appeared to be the highest-ranking among them continued, his eyes filled with an equal mixture of respect and fear.
+
+“As you already know, more than five hundred casualties suffered large or small injuries directly inflicted by Hunter Jin Taekyung.”
+
+“Oh.”
+
+“Of course, you don’t need to worry too much. Given the domestic and international atmosphere and the circumstances at the time of the incident, there is a strong possibility that self-defense will be recognized.”
+
+I had expected some degree of punishment, but the situation I was in was far more positive than I had anticipated.
+
+As the truth came to light, the mood both in Korea and abroad had shifted toward acknowledging the legitimacy of my actions. Meanwhile, the dead Go Jun had risen to become a universally recognized fucking bastard.
+
+That was the gist of it.
+
+*I thought I might be going straight to prison.*
+
+Right before heading to Ares Guild Headquarters, I had withdrawn from Peace Guild out of concern that my actions might cause trouble for them. That decision now seemed almost pointless, given how positively things had turned out.
+
+Of course, none of this could truly be called positive, considering that it had all begun with Kim Hwajong’s death.
+
+And then…
+
+*The reason the situation around me settled down so quickly must have been the decisive testimony.*
+
+I suddenly remembered the conversation I had shared with President Baek Hanseong about an hour earlier.
+
+I also remembered the middle-aged man’s face in the photograph—a face that had remained composed even in front of countless cameras and microphones.
+
+*Go Se-won.*
+
+According to what President Baek Hanseong had told me, he was being held in a special detention center and wanted to meet me.
+
+He had said that he had a debt to repay.
+
+*A debt to repay. What the hell was that supposed to mean?*
+
+Although our meeting had been brief, the Go Se-won I had seen didn’t seem like the kind of person who would make such a request merely to exchange empty courtesies.
+
+Even if my guess was wrong, I needed to meet him at least once and talk.
+
+He had thrown away everything he had to reveal the truth.
+
+The countless crimes Go Se-won must have committed while rising to become Head of Security could never be washed away, but it was also an undeniable fact that I owed him a debt.
+
+As I stood in thought in front of the security officers, the Skeleton King appeared at the end of the hallway with a swaggering gait.
+
+“I brought your coffee. Drink it.”
+
+I stared at the steaming cup of instant-mix coffee. At last, I finished my brief deliberation and opened my mouth.
+
+“I’m not drinking it.”
+
+“……You shitty hu—bastard.”
+
+I ignored the growling Skeleton King and spoke to the security officers.
+
+“Let’s go. Show me the way.”
+
+“Pardon?”
+
+“Go Se-won. I heard he’s being held in a special detention center right now.”
+
+The security officers looked momentarily bewildered, then nodded.

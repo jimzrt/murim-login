@@ -1,6 +1,6 @@
 # Chapter 597
 
-The path I had walked until now had been strewn with countless deaths and screams.
+The road I’d walked was strewn with deaths and screams.
 
 But I could say with certainty that I had never felt grief as quiet and suffocating as this.
 
@@ -18,7 +18,7 @@ His memories of those early years had grown hazy. More than twenty years had pas
 
 The child who had suddenly lost his parents had grown into a young man, and frost had settled in the butler’s hair.
 
-“I can barely remember my parents’ voices anymore, but every memory I have with him is vivid.”
+“I can barely remember my parents’ voices anymore. But I remember everything about him.”
 
 When his parents died and even his only maternal grandfather disappeared, Butler Kim had always been there beside him.
 
@@ -58,11 +58,11 @@ Then his next words caught me off guard.
 
 “…!”
 
-“For watching over his final moments. For doing what I couldn’t… I sincerely thank you.”
+“For being there at the end. For doing what I couldn’t… Thank you. Truly.”
 
 I couldn’t speak. I wanted to answer, but something rising inside me had locked my throat shut.
 
-I stared at Team Leader Choi in silence for a long time before finally forcing out my voice.
+I watched him in silence for a long time before I managed to find my voice.
 
 “Team Leader Choi.”
 
@@ -88,11 +88,11 @@ I tried to sound cheerful as I got up and headed for the door. But when I put my
 
 “Yes?”
 
-“It’s all right to lose your balance sometimes. You can cry out loud. No one will hear you. Except for him.”
+“It’s all right to let yourself break down sometimes. You can cry out loud. No one will hear you except him.”
 
 “…!”
 
-“I’ll be going now.”
+“I’ll leave you to it.”
 
 My back was already turned, so I couldn’t see his expression or know how my words had struck him.
 
@@ -124,7 +124,7 @@ Im Kkeokjeong was one thing, but an undead monster claiming he was sleepy and ne
 
 “I have a spear.”
 
-The Skeleton King fell silent for a moment at my answer, then narrowed his eyes.
+He went silent for a moment, then narrowed his eyes.
 
 “…Black?”
 
@@ -132,7 +132,7 @@ The Skeleton King fell silent for a moment at my answer, then narrowed his eyes.
 
 “You don’t even know what good coffee tastes like. I’ll make it for you this once. Just this once.”
 
-By the time Im Kkeokjeong had left the hallway after the Skeleton King, who continued grumbling curses under his breath, the sound of dress shoes echoed from the distance.
+The Skeleton King shuffled off, muttering curses. Im Kkeokjeong followed him out of the hall, and footsteps sounded in the distance.
 
 *Step. Step.*
 
@@ -176,7 +176,7 @@ I hadn’t checked what was happening outside yet. Still, the events of two days
 
 Several monster waves in a single day were unprecedented. Learning that they had been deliberately caused—and that Ares Guild’s Vice Guild Master was behind it all—would hit harder than a nuclear bomb.
 
-Even I, who knew little about the situation, couldn’t easily guess how large and far-reaching the aftermath of this incident would be.
+Even knowing what I knew, I couldn’t guess how far the fallout would spread.
 
 “So did you stay just to give me that message?”
 
@@ -186,11 +186,11 @@ Even I, who knew little about the situation, couldn’t easily guess how large a
 
 As my voice trailed off, all three bowed politely.
 
-“By order of His Excellency the President, we have been assigned to provide temporary security for Hunter Jin Taekyung and your family. Although we have been described as a surveillance detail on the surface, we ask that you put yourself at ease.”
+“By order of His Excellency, we’ve been assigned to provide temporary protection for you and your family. Officially, we’re being described as a surveillance detail, but we hope you’ll consider us your guards.”
 
 “A surveillance detail?”
 
-“This will only continue until the current situation has settled down. It has only been two days, after all, and under the current circumstances, Hunter Jin Taekyung remains a suspect who has been booked without detention.”
+“Only until the situation settles down. It has been just two days, and for the time being, you have been booked without detention.”
 
 *Booked without detention.* Like *surveillance detail*, it didn’t have a pleasant ring to it.
 
@@ -198,7 +198,7 @@ I’d heard the phrase since I was a kid. Whenever a high-ranking politician or 
 
 *At least I haven’t been detained.*
 
-Being booked without detention meant that the suspect or defendant’s physical freedom was guaranteed, while the case itself had been formally registered with the judicial authorities.
+Being booked without detention meant I remained free while the judicial authorities formally processed the case.
 
 “What are the charges?”
 
@@ -238,7 +238,7 @@ We’d met only briefly, but Go Se-won didn’t strike me as someone who would a
 
 Even if I was wrong, I needed to talk to him at least once. He had given up everything to reveal the truth.
 
-The countless crimes Go Se-won must have committed while rising to become Head of Security could never be washed away, but it was also an undeniable fact that I owed him a debt.
+The many crimes he must have committed on his way to becoming Head of Security couldn’t be erased. But I owed him a debt too.
 
 While I stood there thinking, the Skeleton King came swaggering down the hall.
 
