@@ -1452,3 +1452,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 자무카 | 팽철후 | former battlefield opponents and current rivals | Thunderbolt Saber King Peng Cheolhu | informal and hostile | Jamukha first uses Cheolhu’s former title, then corrects himself to the current title. |
 | 벽력도왕 | 모용백 | former rivals turned comrades and friends | Murong Baek; Family Head Murong | familiar and warm | Peng Cheolhu greets him by name and asks whether he should now use his family-head title. |
 | 모용백 | 벽력도왕 | former rivals turned comrades and friends | you | familiar and cautionary | Murong Baek asks Peng Cheolhu whether he agrees that people like Jamukha require constant vigilance. |
+| 모용백 | 자무카 | commander_to_subordinate | you | plain and authoritative | Murong Baek gives Jamukha direct orders and rebukes him without honorific speech. |
+| 자무카 | 모용백 | subordinate_to_commander_and_savior | you | deferential and honorific | Jamukha thanks Murong and addresses him with honorific speech. |
