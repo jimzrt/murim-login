@@ -54,7 +54,7 @@ No question it was dead. The Beast Miao King caught its limp tail, slammed it in
 
 Roughly translated: Don’t let your guard down. Be careful. Something like that.
 
-Nanman’s greatest warrior, now over eighty years old, was speaking less clearly than an eight-year-old because his mouth was stuffed with the poison-warding pearl.
+Nanman’s greatest warrior, a man over eighty, now spoke less clearly than an eight-year-old. It was the poison-warding pearl stuffed in his mouth.
 
 “Almos’ dere.”
 
@@ -104,17 +104,17 @@ Then again, it had always worked like that. In the modern world’s Gates and he
 
 Simple, brutal logic.
 
-Hunters and Murim practitioners alike were people who always lived with one foot in the Sanzu River.[^1]
+Hunters and martial artists both lived with one foot in the Sanzu River.[^1]
 
 And just as I had every other time, I had no intention of dying now.
 
 *Splash.*
 
-When the swamp ended, relatively soft ground appeared. Every time the foul-smelling slime fell to the ground in the wake of my and the Beast Miao King’s footsteps, I could see the already blackish earth around us becoming even darker.
+Beyond the swamp lay relatively soft ground. Foul-smelling slime dripped from the Beast Miao King and me as we walked, staining the already dark earth darker still.
 
 “Vile.”
 
-The Beast Miao King spat out the poison-warding pearl and continued as he looked around.
+The Beast Miao King spat out his poison-warding pearl and looked around.
 
 “This is only the second time in my life I’ve seen a place this horrible.”
 
@@ -132,7 +132,7 @@ Poison Mist rolled toward us over the blackened earth. The Beast Miao King swall
 
 “You didn’t know. Isn’t that why you never learned them?”
 
-The Beast Miao King nodded regretfully.
+He nodded regretfully.
 
 “Yes. I thought my own martial arts were enough. It’s why I never learned the beast-taming techniques everyone else studied, either.”
 
@@ -148,13 +148,13 @@ In the modern world, people gave up on math or English. In Nanman, they gave up 
 
 “…Oh.”
 
-“That is a prejudice held by people from the Central Plains. It is true that the nature of Nanman’s land means we encounter poison easily, but most tribes primarily deal with ferocious beasts. After the Five Poisons Sect rose to power, we rejected poison even more strongly. You can tell just by looking at the sacred treasure passed down through our Palace for generations.”
+“That is a prejudice held by people from the Central Plains. Poison is easy to encounter in Nanman, yes, but most tribes chiefly handle ferocious beasts. After the Five Poisons Sect rose to power, they rejected poison all the more. The divine artifact said to have been passed down through this Palace is proof enough.”
 
 “Oh, I see… Wait.”
 
 What did he just say?
 
-I stopped for a moment and stared at the Beast Miao King. He frowned and looked back at me.
+I stopped and stared at the Beast Miao King. He frowned.
 
 “What?”
 
@@ -166,7 +166,7 @@ I stopped for a moment and stared at the Beast Miao King. He frowned and looked 
 
 “Ah. That. I thought you meant something else.”
 
-The Beast Miao King answered as if it were nothing, but from my perspective, it wasn’t something I could simply brush off with an *Oh, I see.*
+He answered as though it were nothing. To me, this was not something I could just brush off with an *Oh, I see.*
 
 “The Nanman Beast Palace had a divine artifact?”
 
@@ -178,9 +178,7 @@ But some objects truly deserved the name.
 
 The Green Jade Buddha Staff was one: the divine artifact of Shaolin Temple, the Mount Tai and Northern Dipper of the Murim, whose lineage stretched back a thousand years.
 
-And for some reason, Dark Heaven was targeting those very sacred treasures.
-
-They had even caused the major incident known as the Shaolin Bloodshed to do so.
+And for some reason, Dark Heaven was after such artifacts. They had even caused the Shaolin Bloodshed to get one.
 
 *And the Nanman Beast Palace had one too?*
 
@@ -202,7 +200,7 @@ I did my best to sound calm. The Beast Miao King nodded.
 
 “The Beast King Stone…”
 
-Its name alone was extraordinary. The Beast Miao King nodded at my quiet murmur and continued.
+Even the name sounded extraordinary. The Beast Miao King nodded at my quiet murmur.
 
 “As I said, it is a legend. A divine artifact carried by the first Palace Lord, said to make every ferocious beast under heaven obey him. It supposedly vanished after he and the founding Sect Leader of the Five Poisons Sect grievously wounded each other in battle.”
 
@@ -210,7 +208,7 @@ A stone with the miraculous power to command every ferocious beast under heaven.
 
 And one passed down by word of mouth for hundreds of years, at that.
 
-If I started working on it right now, then in a few hundred years, I could insist that I had been born from an egg.
+If I started spreading the story now, in a few hundred years I could probably claim I’d hatched from an egg.
 
 *Still, I should keep the Beast King Stone in mind…*
 
@@ -236,19 +234,19 @@ I gave him a firm answer.
 
 “…What did you just say?”
 
-“Ah. My tongue slipped for a moment. If you don’t want to get poisoned, keep the poison-warding pearl in your mouth.”
+“Ah. That slipped out. If you don’t want to get poisoned, keep the pearl in your mouth.”
 
-The Beast Miao King shot me a displeased look, but then put the large poison-warding pearl in his mouth without another word.
+The Beast Miao King shot me a displeased look but put the large pearl back in his mouth without another word.
 
 He might have held the lowest seat among the Ten Kings, but he was still a master worthy of belonging to them.
 
 With martial prowess that had reached such a lofty realm and a vast reserve of internal energy, poison was unlikely to overcome him easily. Even so, a little precaution never hurt.
 
-*A High-Grade Poison-Warding Pearl should keep most ordinary poisons from penetrating.*
+*A High-Grade Poison-Warding Pearl should keep out most poisons.*
 
 And I had the Myriad-Poison Ring, a divine artifact of the Sichuan Tang Clan.
 
-The Beast Miao King looked at me enviously before stepping into the Poison Mist.
+The Beast Miao King looked at it enviously, then stepped into the Poison Mist.
 
 *Step.*
 
@@ -270,7 +268,7 @@ A Sound Transmission reached my ear. I gave a small nod.
 
 —Yes. Something is there. Could it be…
 
-I thought of Ailao Mountain’s Wraith. The ghostlike presence I had felt from it, and its ray-like movements.
+I thought of Ailao Mountain’s Wraith: its ghostlike presence and movements as fast as a flash of light.
 
 —It isn’t the wraith. Even if it were, we couldn’t catch it from this distance.
 
@@ -288,7 +286,7 @@ And then…
 
 “Guh!”
 
-There was a scream. Not the cry of a beast, but unmistakably the scream of a human.
+A cry rang out. Not a beast’s cry. Unmistakably human.
 
 “…!”
 
@@ -300,7 +298,7 @@ The Beast Miao King and I stared at each other, eyes wide, then shot toward the 
 
 Countless thoughts flashed through my mind as I cut through the mist.
 
-But the first two words that came to me were Dark Heaven.
+The first was Dark Heaven.
 
 *It’s them.*
 
@@ -314,7 +312,7 @@ Then I saw who had been flung out of the grass, and the words escaped me.
 
 Dark red blood stained the corner of his mouth. His eyes were wide open.
 
-There was no doubt that he was a human corpse, but he was wearing clothing that was painfully familiar to both me and someone else.
+He was dead, but his clothing was unmistakably familiar to both me and the Beast Miao King.
 
 “…Why is a Bai warrior here?”
 
@@ -332,15 +330,17 @@ That was when—
 
 When had they gotten there? Where had they been hiding?
 
-Along with the countless presences approaching from every direction, I suddenly felt darkness settle over my head. I looked up.
+Countless presences approached from every direction. Then a shadow fell over my head, and I looked up.
 
 At last, I saw them.
 
 *Hissss!*
 
-Some beings descended like ghosts from a tree so enormous that it was impossible to guess its age.
+Something descended like a ghost from a tree so enormous I couldn’t guess its age.
 
-They had black bodies, countless legs, and stiff hair covering them. The Beast Miao King discovered them and muttered like he was groaning.
+A black body. Countless legs covered in stiff hair.
+
+The Beast Miao King spotted it and murmured, his voice almost a groan.
 
 “…Thousand-Year Spider.”
 
