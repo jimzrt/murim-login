@@ -40,7 +40,7 @@ It had neither an elephant’s long, thick trunk nor its sharp tusks. Yet simply
 
 *Beast* was not the word for it. A spiritual creature? No, that would not do either.
 
-The Black Tiger reflected in her eyes now radiated an aura far deeper and more overwhelming than that of any spiritual creature.
+The Black Tiger before her radiated qi far deeper and more overwhelming than any spiritual creature’s.
 
 *What in the world is that…?*
 
@@ -100,7 +100,7 @@ A snow-white forepaw came down over the back of her hand. Yohi thought she under
 
 —Grrr.
 
-“I'm sorry, but I can't do th—”
+“I’m sorry, but I can’t—”
 
 —Grrrr!
 
@@ -140,7 +140,7 @@ At last, she thought she understood how Muyaho had survived a sword wound to the
 
 —Grrr.
 
-“Then did that Black Tiger that vanished a moment ago save us? Was it the one that treated you and Jin Taekyung too?”
+Muyaho gave a soft growl and slowly licked the back of her hand. Watching the spiritual creature apologize in its own way, Yohi asked, “Did that Black Tiger save us from Heugung? Was it the one that treated you and Jin Taekyung too?”
 
 Muyaho nodded emphatically.
 
@@ -148,7 +148,7 @@ Muyaho nodded emphatically.
 
 Muyaho hesitated, then shook its head.
 
-Only seven days ago, Muyaho had followed the Beast Miao King and Jin Taekyung to Ailao Mountain and already encountered the Black Tiger once. Yet even to an innate spiritual creature like Muyaho, the Black Tiger's existence was an incomprehensible mystery.
+Only seven days and nights earlier, it had followed the Beast Miao King and Jin Taekyung to Ailao Mountain and encountered the Black Tiger once before. But even to a spiritual creature like Muyaho, the Black Tiger was beyond understanding.
 
 “Haah. You don’t know either.”
 
@@ -166,7 +166,7 @@ At least one thing was certain: the unknown Black Tiger had shown them goodwill.
 
 Her gaze settled on Jin Taekyung. He lay half-submerged, motionless as a corpse. Whether he knew anything of what was happening around him, he slept on with a perfectly peaceful expression.
 
-*If I had been the one who collapsed instead of him… If Jin Taekyung had been awake, every problem would have been solved.*
+*If I’d been the one to collapse… If Jin Taekyung were awake, he could solve all of this.*
 
 Perhaps it was only a foolish thought born of desperation. Yet somewhere along the way, Yohi had come to trust him from the bottom of her heart.
 
@@ -174,7 +174,7 @@ He had the martial prowess to defeat two Supreme Peak masters alone, and he had 
 
 If she could not trust him, whom could she trust?
 
-*If Baeksang and Dark Heaven have begun moving in earnest, Palace Lord Yayul won't be able to oppose them with his strength alone. There's not enough time.*
+*If Baeksang and Dark Heaven have begun moving in earnest, Palace Lord Yayul can’t stand against them alone. There isn’t enough time.*
 
 Most of what Yohi feared was already coming to pass.
 
@@ -188,7 +188,7 @@ Yohi knew none of this. She could not have known. Trapped in this strange, unkno
 
 *If Heaven exists, please…*
 
-*Even if I have to die, please wake at least one person from this deep sleep.*
+Let him wake as soon as possible. She would gladly die if Heaven would raise just one person from this deep sleep.
 
 But with her eyes squeezed shut around that desperate wish, Yohi missed the tiny, unmistakable change right in front of her.
 
@@ -200,9 +200,9 @@ A finger moved ever so slightly. Concentric ripples spread across the water, tra
 
 I dreamed.
 
-The moment I opened my eyes, I saw a face that was endlessly familiar.
+I knew it was a dream the moment I opened my eyes and saw a face I knew better than any other. I heard a voice, too—one that had slowly faded from my memory over the years.
 
-“Oh, what got you up at this hour? Why aren't you sleeping more?”
+“Oh, what got you up at this hour? Why aren’t you sleeping?”
 
 My throat tightened. My chest ached.
 
@@ -244,7 +244,7 @@ I repeated the words desperately in my head.
 
 *I can’t let him go. Dad, please don’t go. Please.*
 
-He had no idea that this moment would become his last memory with his father.
+But the younger me was different. He was a child who didn’t know any better. He had no idea this would be his last memory of our father.
 
 “Yeees. Have a good day.”
 
@@ -254,7 +254,7 @@ The words came out thick with sleep. My father grinned at me and ruffled my hair
 
 That was all. My father would turn away. The door would close. A few hours later, my homeroom teacher would call me in.
 
-A few hours later, I would be summoned by my homeroom teacher.
+That was how I remembered it.
 
 But…
 
@@ -266,9 +266,9 @@ At the sudden sound of his voice, I shot upright.
 
 This time it was my own will—not the younger me’s, but mine, now in my late twenties.
 
-My father tapped the watch on his wrist and spoke with a laugh in his voice.
+My father tapped the watch on his wrist and spoke with a hint of laughter.
 
-“Shouldn’t you be getting up soon?”
+“Shouldn’t you be waking up soon?”
 
 At that moment—
 
@@ -280,9 +280,7 @@ Something cold washed over my whole body.
 
 Splash!
 
-Through the spray of water scattering in every direction, I saw a woman’s wide-open eyes.
-
-A trembling voice soon pierced my ears.
+Through the spray flying in every direction, I saw a woman staring at me with wide eyes. Her voice trembled.
 
 “…How?”
 
