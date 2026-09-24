@@ -10,13 +10,13 @@ Like right now.
 
 For a brief moment, time seemed to stop in the middle of its headlong rush.
 
-The Seven Miao Tigers, who had been rampaging like beasts despite wounds all over their bodies; the Bai warriors, who now filled the underground prison’s corridors; and Yayul Mok—all stood frozen like statues, staring blankly at the person who had emerged from beyond the thick darkness.
+The Seven Miao Tigers, who had been fighting like wild beasts despite their wounds; the Bai warriors, who now filled the underground prison’s corridor; and Yayul Mok—all stood frozen like statues, staring at the man who had emerged from the darkness.
 
 *How?*
 
 It was the question on everyone’s mind. *He* couldn’t be here. He wasn’t supposed to be here.
 
-But while everyone inside the underground prison wore the expression of someone who had seen a ghost, only Yayul Mok, whose shoulder was caught in *his* powerful grip, realized that this unbelievable situation was real.
+But while the others looked as though they had seen a ghost, Yayul Mok could feel the man’s firm grip on his shoulder. Somehow, this was real.
 
 He had to ask.
 
@@ -36,7 +36,7 @@ Yayul Mok’s eyes were vacant, his voice dazed. The answer he got was remarkabl
 
 Yayul Mok and everyone else were thinking the same thing.
 
-*So what the hell? We’re asking how the bastard who was supposed to be locked in the underground prison crawled out.*
+*We’re asking how the bastard who was supposed to be locked up managed to crawl out.*
 
 He hadn’t simply been locked in a cell, either. They’d heard he had iron balls weighing more than ten thousand geun hanging off him like jewelry, and that his internal energy had been sealed.
 
@@ -56,7 +56,7 @@ The man emerged from the dark corridor into the flickering torchlight. Jin Taeky
 
 “Ugh, that’s bright. Hey, you.”
 
-At Jin Taekyung’s pointed finger, the Bai warrior holding his torch high asked with a vacant expression,
+The Bai warrior holding his torch aloft blinked at him.
 
 “Me?”
 
@@ -118,9 +118,7 @@ The realization came like a bolt of lightning. The shout that followed was thund
 
 “Attack!”
 
-The shout, filled with powerful internal energy, shook the underground prison.
-
-At the same time as he ordered the attack, the captain of the Bai warriors was the first to leap forward. He kicked off the wall and shot toward Jin Taekyung.
+The captain’s cry, charged with powerful internal energy, shook the underground prison. He was the first to move, springing off the wall and shooting forward.
 
 Tap-tap—whoosh!
 
@@ -140,7 +138,7 @@ The clash cut off his cry. Seeing Yayul Mok reach hurriedly inside his robes, th
 
 Jin Taekyung.
 
-He did not know how that young monster from the Central Plains had escaped the underground prison, but there was no doubt that the boy had not yet released the seal on his internal energy.
+He had no idea how the young monster from the Central Plains had escaped his cell, but the seal on his internal energy was clearly still in place.
 
 *Then I can do this.*
 
@@ -208,9 +206,9 @@ Barely an inch separated the trembling blade from the palm. In that gap, an invi
 
 Slowly, but inexorably.
 
-But powerfully.
+Grgrgrk.
 
-With eyes trembling as fiercely as his sword, the captain squeezed out his voice.
+His eyes shaking as much as his sword, the captain forced out the words.
 
 “S-Seizing an Object Through Empty Space?”
 
@@ -230,13 +228,13 @@ It was a cruel truth. Even if the captain devoted the rest of his life to martia
 
 “Wh-what is this…?”
 
-That was a realm the captain, who had devoted his entire life to martial arts, could not understand. Unfortunately, Jin Taekyung was not the sort of kind person who would patiently tutor a dunce.
+The captain had spent his life training, yet this lay beyond anything he could comprehend. Unfortunately for him, Jin Taekyung wasn’t the sort of tutor who patiently explained things to a struggling student.
 
 “Get lost.”
 
 “……!”
 
-At the moment the captain’s wide eyes reflected Jin Taekyung’s fist, wrapped tightly in chains—
+The captain’s wide eyes caught the reflection of a fist wrapped tightly in chains.
 
 Bam!
 
@@ -256,7 +254,7 @@ He could feel his body hurtling backward, hear the air shriek around it. His con
 
 That was his final thought.
 
-The captain’s already unconscious body grazed past the Seven Miao Tigers, who were still fighting desperately, then crashed like a cannonball into the Bai warriors filling the underground prison’s corridor.
+Already unconscious, the captain flew past the Seven Miao Tigers as they fought, then struck the Bai warriors filling the corridor like a cannonball.
 
 Boom! Crack!
 
@@ -282,7 +280,7 @@ A man walked through a puddle of filthy water, the chains severed from his iron 
 
 “Yeah, that’s me. Someone call?”
 
-In complete contrast to the dark atmosphere of the underground prison, the smile around Jin Taekyung’s lips was as bright as sunlight.
+His smile was as bright as sunlight, utterly at odds with the dark prison around him.
 
 Like a predator spotting prey.
 
@@ -312,13 +310,13 @@ A chain hurtled toward the charging men with a heavy rush of air.
 
 Bam-bam-bam-bam-bam!
 
-The chain swept through the dozen or so squad captains charging forward, knocking them away all at once.
+It swept through all the squad captains at once.
 
 Boom! Crash-crash-crash!
 
 The underground prison shook. Everyone swallowed as they watched a thick cloud of dust rise. Then a low voice reached them.
 
-“Is it summer already? Why are there so many damn flies…”
+“Is it summer already? Where’d all these damn flies come from…?”
 
 “……!”
 

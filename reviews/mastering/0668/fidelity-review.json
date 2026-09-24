@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "If the light turns red before you do, you’re dead.",
+      "defect": "The Korean ties the threat to the light turning red three seconds later. The English instead makes it conditional on the light turning red before he lowers his arm, adding a condition not stated in the source.",
+      "id": "F01",
+      "rationale": "The source says, “I’ll give you three seconds to lower your arm. If the light turns red three seconds later, you’re dead.” It does not say the light must turn red before he lowers his arm.",
+      "replacement": "If the light turns red after three seconds, you’re dead.",
+      "severity": "minor",
+      "source": "Korean line 85; English [P37]"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor shift in the countdown threat’s condition.",
+  "version": 1
+}
