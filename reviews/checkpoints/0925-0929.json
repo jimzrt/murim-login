@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A supernatural ability no human could even begin to imagine, one that couldn’t be contained by the four characters of *supernatural powers*.",
+      "defect": "“Four characters” is a Korean-language calque that does not work for the English phrase.",
+      "id": "C01",
+      "rationale": "Keeps Taekyung’s point without asking an English reader to count Korean characters.",
+      "replacement": "A supernatural ability no human could even begin to imagine. Calling it *supernatural* didn’t begin to cover it.",
+      "severity": "minor",
+      "source": "Chapter 927, Taekyung’s description of the System"
+    },
+    {
+      "confidence": 0.97,
+      "current": "But the Bow Saint’s reply held not even a glimmer of light as it reached me, shouting in desperation.",
+      "defect": "The closing modifier makes the reply sound as though it is shouting.",
+      "id": "C02",
+      "rationale": "Makes the speaker clear while preserving the desperate plea and bleak answer.",
+      "replacement": "But as I shouted in desperation, the Bow Saint’s reply held not even a glimmer of light.",
+      "severity": "minor",
+      "source": "Chapter 928, Taekyung’s plea to the Bow Saint"
+    },
+    {
+      "confidence": 0.99,
+      "current": "With the light of dawn growing clear in the far west,",
+      "defect": "Dawn is placed in the west, contradicting the chapter’s earlier eastward dawn imagery.",
+      "id": "C03",
+      "rationale": "Restores the chapter’s established direction without changing the scene.",
+      "replacement": "With the light of dawn growing clear in the far east,",
+      "severity": "minor",
+      "source": "Chapter 929, restoration army joins the Embroidered Uniform Guard"
+    },
+    {
+      "confidence": 0.85,
+      "current": "one person opened his eyes.",
+      "defect": "The male pronoun narrows the unidentified person’s identity beyond what the packet’s summary and active state disclose.",
+      "id": "C04",
+      "rationale": "Preserves the awakening without adding an early identity cue.",
+      "replacement": "someone opened their eyes.",
+      "severity": "minor",
+      "source": "Chapter 929, final sentence"
+    }
+  ],
+  "summary": "The packet is largely consistent in voice and continuity. Four localized reading-copy issues are actionable.",
+  "version": 1
+}
