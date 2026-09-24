@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "The late Emperor had seriously considered ordering a campaign, but Baek Yeon had pleaded with him so earnestly—more than he had ever seen him do before—that the Emperor finally gave up the idea.",
+      "defect": "The nested pronouns make it unclear who had seen whom plead before.",
+      "id": "C01",
+      "rationale": "Preserves Baek Yeon’s unusually forceful opposition without the confusing point of comparison.",
+      "replacement": "The late Emperor had seriously considered ordering a campaign, but Baek Yeon had pleaded with him more earnestly than ever before, until the Emperor finally gave up the idea.",
+      "severity": "minor",
+      "source": "Chapter 940, Baek Yeon’s account of the Great Faction War"
+    },
+    {
+      "confidence": 0.94,
+      "current": "There wasn’t a single martial artist to be found in Zhejiang Province, where the imperial capital stood—not even a sect.",
+      "defect": "The absolute claim contradicts the martial artists already traveling with Taekyung in Zhejiang.",
+      "id": "C02",
+      "rationale": "Keeps the point that Zhejiang offers no sect-based reinforcements without denying the presence of the party’s martial artists.",
+      "replacement": "There wasn’t a single Murim sect to call on in Zhejiang Province, where the imperial capital stood.",
+      "severity": "minor",
+      "source": "Chapter 943, Taekyung’s assessment of potential reinforcements"
+    }
+  ],
+  "summary": "The packet’s voice, terminology, hooks, and active state are largely consistent. Two English passages warrant correction for clarity and internal consistency.",
+  "version": 1
+}
