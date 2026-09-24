@@ -136,7 +136,7 @@ No one survives a spearhead through the throat.
 
 Not a Supreme Peak master with several jiazi of Yin-Cold Qi. Not a fiend who has lived nearly a century.
 
-Just as it was now.
+Not the Great Snow Fiend.
 
 SHNK.
 
@@ -144,13 +144,13 @@ The transparent spearhead pierced his throat, and that was it.
 
 The Supreme Peak master once known as the Great Snow Fiend was gone.
 
-I stared blankly down at the corpse, its eyes wide open and its body frozen in place, then let out a short groan.
+I stared down at his wide-eyed corpse and let out a faint sound.
 
 “……Ah.”
 
 It was over. Finally.
 
-The moment I recognized reality along with the thought filling my mind, the world tilted.
+The thought had barely taken shape when the world tilted.
 
 SLIP.
 
@@ -172,11 +172,11 @@ I collapsed where I stood and lay gasping, staring into the air.
 
 That was all.
 
-There were three numbers in the holographic window visible through my blurred vision. None of them announced a level-up, and the System remained silent.
+Three notices hung in the holographic window beyond my blurred vision. Not one announced a level-up. The System said nothing more.
 
 And I…
 
-*This would be pretty lame if it were a hidden-camera prank.*
+*This had better not be a hidden-camera prank.*
 
 I laughed at the stupid thought. There was no particular reason. The corners of my blood-crusted mouth lifted, and a hollow chuckle escaped.
 
@@ -222,7 +222,7 @@ It could mean something good, sure. But it was also two little characters you co
 
 Some things in life were too cruel and hopeless to shrug off as fate.
 
-Like the memory of a certain day I kept hidden in one corner of my heart.
+Like the memory I carried in a corner of my heart.
 
 “Um, Mr. Kim?”
 
@@ -234,9 +234,9 @@ Even now, I remembered it like a scene from a cheap black-and-white movie.
 
 Scene one: The bald vice principal appeared, cleared his throat, and left with my homeroom teacher.
 
-Scene two: Through the glass window in the classroom’s front door, I watched my homeroom teacher’s bewildered face slowly harden.
+Scene two: Through the glass in the classroom’s front door, I watched my teacher’s bewildered expression slowly stiffen.
 
-And scene three: After returning to the classroom, my homeroom teacher called out a student’s name after a brief silence.
+Scene three: My teacher came back in, stood silent for a moment, then called a student’s name.
 
 “Taekyung. Could you come outside for a moment?”
 
@@ -246,7 +246,7 @@ No. I had never wanted to be the star. I wished it really had been a movie. Then
 
 But life is *one take*.
 
-With every moment and every choice, the story flows with me at its center.
+Every moment, every choice, and the story keeps moving with you at its center.
 
 I had never given life a serious thought until I saw my father beneath a white sheet.
 
@@ -311,13 +311,13 @@ To hell with incompatibility. Whether I bled to death in fifteen minutes or expl
 
 At least the second option gave me a sliver of a chance.
 
-GURK.
+COUGH.
 
 I spat up another surge of blood, squeezed out what little strength I had left, and pushed myself upright. Fighting through pain that made my body feel as though it were crumbling, I sat cross-legged and looked up at the sky.
 
 *Fuck, look at those storm clouds. Even the sky has to be dark as hell.*
 
-It was partly because it was nighttime, but no matter how I looked at it, this was a perfect day to hate dying.
+It was nighttime, sure. But however I looked at it, this was a terrible day to die.
 
 No one was watching, and there wasn’t even anyone to stick a cigarette in my mouth. Not that I’d smoke it if there were.
 
@@ -337,7 +337,7 @@ I lifted my convulsing hand to my mouth and swallowed the blue pearl, filled wit
 
 Or I tried to.
 
-Until cool qi suddenly swept in from somewhere and engulfed me.
+A cool presence suddenly swept in from somewhere and engulfed me.
 
 FWOOSH!
 
@@ -349,7 +349,7 @@ Every hair on my body seemed to stand on end. I froze like a statue, and one wor
 
 But it wasn’t. Something had brushed past me, yet I was still alive. Then a thunderous roar in the distance drove the question from my mind.
 
-“GRAAAAH!”
+—GRAAAH!
 
 “……!”
 
@@ -359,13 +359,13 @@ I had been sure he’d escaped. I’d told myself to be glad at least he had sur
 
 My sight was blurred, but the snow-white body shone bright enough to recognize even in the dark.
 
-Nor was it difficult to make out the figures of two people sitting on the back of the White Tiger as it raced toward me like the wind.
+So did the two people riding on the White Tiger’s back as it raced toward me like the wind.
 
 Heugung. And Yohi.
 
 As their faces came into view, I remembered the Quest I had forgotten for a moment.
 
-Then I stared blankly up at the sky and muttered:
+I stared blankly at the sky and muttered, “See? I told you it was a terrible day to die.”
 
 DING.
 

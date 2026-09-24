@@ -1,0 +1,15 @@
+{
+  "summary": "The translation is largely faithful, but it drops a brief rhetorical question that the source uses to frame the character’s clear consciousness.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 15–16",
+      "current": "And yet his mind remained startlingly clear.",
+      "defect": "The source first asks, “But why?” before noting that his consciousness remains clear even in this situation. Omitting the question removes that moment of bewilderment, which the following candle image develops.",
+      "replacement": "But why? Even in this situation, his mind remained startlingly clear.",
+      "rationale": "The Korean explicitly says “하지만 어째서일까” (“But why?”) before the statement about his consciousness.",
+      "confidence": 0.99
+    }
+  ]
+}
