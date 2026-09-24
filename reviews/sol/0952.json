@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "*“The disciples of the great sects have to wait in line for years to get into that Heaven’s Gate Temple you called so special.”*",
+      "defect": "“So special” reverses the older brother’s dismissive “그까짓,” blunting Mukyung’s retort.",
+      "id": "F01",
+      "rationale": "Mukyung throws his brother’s belittling description of the institution back at him.",
+      "replacement": "*“Even disciples of the great sects wait years to get into that Heaven’s Gate Temple you call so unimportant.”*",
+      "severity": "major",
+      "source": "‘형님이 말씀하신 그까짓 천무학관에 가려면, 명문대파의 제자들도 몇 년씩 줄을 서야 합니다.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Jin Family of Taiyuan—and Jin Wikyung, who led them all in place of the missing Family Head—were now the Alliance Leaders of Shanxi Murim.",
+      "defect": "The plural “Alliance Leaders” assigns the individual office to both the family and Wikyung.",
+      "id": "F02",
+      "rationale": "Wikyung is the Alliance Leader; the family is not a second holder of his title.",
+      "replacement": "The Jin Family of Taiyuan now stood at the head of Shanxi Murim, and Jin Wikyung, who led them all in place of the missing Family Head, was its Alliance Leader.",
+      "severity": "critical",
+      "source": "지금의 태원진가는, 그리고 행방이 묘연한 가주를 대신해 그들 모두를 이끄는 진위경은 산서 무림의 맹주(盟主)."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The vast steppe army, which had entered the north without meeting any resistance, was met not by chrysanthemums, but by dark-red blood covering the mountain slopes and the survivors of its vanguard, frozen with terror.",
+      "defect": "“Survivors” changes the lone survivor into multiple people.",
+      "id": "F03",
+      "rationale": "The source uses singular 생존자, and the following passage identifies him as the only survivor.",
+      "replacement": "The vast steppe army, which had entered the north without meeting any resistance, was met not by chrysanthemums, but by dark-red blood covering the mountain slopes and a terrified survivor of its vanguard.",
+      "severity": "critical",
+      "source": "아무런 저항 없이 북부에 발을 디딘 초원의 대군세를 기다리고 있던 것은, 국화 대신 산자락을 뒤덮은 검붉은 핏물과 공포에 질린 선봉대의 생존자였다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The survivor, his topknot undone and his face contorted with fear, continued.",
+      "defect": "A topknot is not the hairstyle described; 변발 is a queue or braid.",
+      "id": "F04",
+      "rationale": "The source specifies that his braided queue has come undone.",
+      "replacement": "The survivor, his queue come loose and his face contorted with fear, continued.",
+      "severity": "minor",
+      "source": "변발이 풀어 헤쳐진 생존자가 공포에 질린 얼굴로 말을 이었다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "The head, severed from its flesh and bones, rolled into the chrysanthemum field.",
+      "defect": "The wording suggests the head has been stripped of its own flesh and bone rather than severed by the stroke.",
+      "id": "F05",
+      "rationale": "The source depicts the result of the decisive cut: the survivor’s head falls into the flowers.",
+      "replacement": "His severed head rolled into the chrysanthemum field.",
+      "severity": "minor",
+      "source": "살과 뼈가 분리된 머리가 국화밭에 굴러떨어진다."
+    }
+  ],
+  "summary": "The draft preserves the scene’s broad progression, but several lines change hierarchy, the survivor count, or the force of the dialogue.",
+  "version": 1
+}
