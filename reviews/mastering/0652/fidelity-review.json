@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "There was a simple reason Sama Pyo wore a thin robe instead of a lighter martial uniform in this heat: its full sleeves gave him room to hide weapons.",
+      "defect": "The source contrasts the thin robe with a simple, plain martial uniform (단출한 무복), not a lighter one. “Lighter” changes the clothing detail and conflicts with the source’s point that he wore the robe despite the heat.",
+      "id": "F01",
+      "rationale": "단출한 describes the martial uniform as simple or plain; it does not describe its weight.",
+      "replacement": "There was a simple reason Sama Pyo wore a thin robe instead of plain martial clothes despite the heat: its full sleeves gave him room to hide weapons.",
+      "severity": "minor",
+      "source": "Korean source lines 15, 113–115"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Twist his wrist to the right angle, and the mechanism fired a loaded arrow.",
+      "defect": "“The right angle” can specify a 90-degree angle. The Korean says the arrow fires when he twists his wrist to a predetermined angle; it gives no degree measurement.",
+      "id": "F02",
+      "rationale": "정해진 각도 means a predetermined angle, not necessarily a right angle.",
+      "replacement": "Twist his wrist to the set angle, and the mechanism fired a loaded arrow.",
+      "severity": "minor",
+      "source": "Korean source line 115"
+    },
+    {
+      "confidence": 0.94,
+      "current": "He clicked his tongue and let his Black Dragon Saber hang at his side.",
+      "defect": "The assembled version omits that the Black Dragon Saber is Sama Pyo’s 독문병기—his own distinctive weapon.",
+      "id": "F03",
+      "rationale": "The source explicitly identifies the saber as his 독문병기, a detail preserved in the accepted baseline.",
+      "replacement": "He clicked his tongue and let his own Black Dragon Saber hang at his side.",
+      "severity": "minor",
+      "source": "Korean source line 15"
+    }
+  ],
+  "summary": "The translation is broadly faithful, but it alters a specific detail of the hidden-weapon mechanism and omits or blurs a few source details.",
+  "version": 1
+}

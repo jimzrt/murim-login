@@ -26,7 +26,7 @@ Hundreds of leaves flew apart in pieces. A faint line appeared across the trunk 
 
 Sss, crash!
 
-The giant tree slid to the ground. Sama Pyo vaulted over it and stared at the figures approaching the clearing.
+The tree slid to the ground. Sama Pyo stepped over it and watched the figures approaching the clearing.
 
 East, west, north, south. Roughly thirty enemies moved slowly into position around the pavilion. Every one of them wore a black mask.
 
@@ -46,7 +46,7 @@ He thought of that Pavilion Master bastard, with a mouth as foul as a Third Rate
 
 The man was impossible to predict and forever causing trouble. But in a situation like this, there was no one Sama Pyo would trust more. At only twenty-two, he had already left his mark on Murim.
 
-But whether by coincidence or fate, Jin Taekyung was currently away. Song Ilseom and Ju Hwaran, who would have been a great help if they had remained, were absent as well. Hyuk Mujin was gone, too—although he might not have been able to match them, he was at least worth one person.
+Yet whether by coincidence or design, Jin Taekyung was gone. So were Song Ilseom and Ju Hwaran, both of whom would have been a great help. Even Hyuk Mujin was absent. He couldn’t match those two, but he could at least pull his own weight.
 
 That left Sama Pyo, Taishan—who had gone to bed early—and Namho, an ordinary old man who couldn’t be counted as fighting strength.
 
@@ -54,13 +54,11 @@ Against nearly thirty enemies.
 
 *No. Their numbers aren’t the problem.*
 
-Sama Pyo muttered inwardly and quickly swept his gaze across the surroundings. The killing intent radiating from the enemies slowly tightening around him like a net was not that of some clumsy martial artists.
+Sama Pyo scanned the clearing. The enemies were closing around him like a net, and the killing intent coming off them belonged to no half-trained martial artists.
 
 *By Central Plains standards, each of them is somewhere between Supreme First Rate and Peak. Where in Nanman did they come from?*
 
-The Central Plains Murim was truly vast, but even among the countless martial artists scattered across it like grains of sand on a beach, Peak masters were not common.
-
-Yet in Nanman, which could not compare to the Central Plains in size or population, someone had mobilized thirty warriors of this caliber to launch an attack.
+Murim in the Central Plains was vast, its martial artists as numerous as grains of sand on a beach. Even there, Peak masters were uncommon. Yet here in Nanman, someone had gathered thirty warriors of this caliber for an attack.
 
 Fortunately, none seemed to be at a particularly high level. Still, their presence was startling—especially because this remote stretch of land belonged to the Inner Palace of the Nanman Beast Palace.
 
@@ -88,7 +86,7 @@ Neither attacker hesitated to strike at his vitals. Their movements were timed p
 
 But Sama Pyo was no ordinary Peak master.
 
-He was not a young prodigy lacking real combat experience, nor was he as rigid as a Peak master from an orthodox faction.
+He wasn’t a young prodigy short on combat experience, nor was he bound by the rigid ways of an orthodox faction master.
 
 Above all else, demonic, heterodox arts valued survival.
 
@@ -136,13 +134,13 @@ Bang!
 
 Namho had finally fallen asleep after a long stretch of tossing and turning. The instant he opened his eyes, one thought came to him.
 
-*What fucking bastard is this?*
+*What bastard was that?*
 
 Growing old came with no end of indignities. One of the cruelest was how little sleep he got at night.
 
 And now someone had dared to disturb what sleep this eighty-year-old could manage. His joints creaked as he sat up.
 
-*If that gluttonous bastard Taishan woke me up because he was eating a midnight snack… this time, I absolutely will not let it slide.*
+*If that glutton Taishan woke me with another midnight snack, I won’t let him off easily this time.*
 
 He had spent fifty years in the Hidden Shadow Pavilion, whatever anyone might think to look at him. After everything he had sacrificed during the Great Faction War, the Thousand-Faced Fox might overlook it just this once if Namho wrote to Henan and had Taishan declared an enemy of Murim.
 
@@ -164,7 +162,7 @@ Slash! Crash!
 
 At last, he understood.
 
-*An ambush!*
+*An attack!*
 
 A planned one, too. They had struck while that madman—no, while Jin Taekyung—was away.
 
@@ -178,7 +176,7 @@ And then—
 
 Papapat!
 
-When Namho spotted several masked men approaching the pavilion while leaving Sama Pyo behind, he no longer had even a moment to hesitate.
+Several masked men broke away from the fight and headed for the pavilion.
 
 “Gah!”
 
@@ -206,7 +204,7 @@ Parts of the pavilion were breaking apart. The clash of weapons was loud enough 
 
 Thud! Thud-thud!
 
-With a soul-rending cry, Namho’s fist—its strength diminished by the passing years—slammed into Taishan’s jaw.
+Namho poured his soul into the shout and his age-weakened strength into a series of punches to Taishan’s jaw.
 
 As though heaven had been moved by his efforts, Taishan finally stirred.
 
@@ -238,7 +236,7 @@ Then he realized there was one way to wake Taishan.
 
 Sss.
 
-The masked men raised their weapons as Namho shouted. Thinking of death, Namho squeezed his eyes shut and continued yelling.
+The masked men raised their weapons. Namho squeezed his eyes shut and shouted again.
 
 “They’re going to eat all your meat!”
 
@@ -294,7 +292,7 @@ As the masked men swallowed hard, a small old man poked his head out from behind
 
 “Taishan sees them!”
 
-“I saw everything earlier, and those bastards ate all your meat.”
+“I saw it myself. They stole all your meat and ate it.”
 
 “Taishaaaaaan! Cannot forgive them!”
 
@@ -304,7 +302,7 @@ The bewildered masked men faltered. Sama Pyo bared his bloodstained teeth in a g
 
 But he wasn’t looking at Taishan. He was looking at the hill above the clearing—or, rather, at someone ambling down it.
 
-“I had a feeling this might happen even while I was away for a little while.”
+“I had a feeling something might happen while I was gone.”
 
 Step. Step.
 
