@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 973
-- Next chapter: 974
-- Current block: 970–974 (4/5)
-- Latest translation: `translations/0973.md`
-- Latest summary: `summaries/beats/0973.md`
-- Safe profiles through: chapter 973
+- Last completed: 974
+- Next chapter: 975
+- Current block: 970–974 (5/5)
+- Latest translation: `translations/0974.md`
+- Latest summary: `summaries/beats/0974.md`
+- Safe profiles through: chapter 974
 
 ## Current Block
 
-- The Bow Saint leaves the gorge to help the Hebei Peng Family, whose fighters are being overwhelmed by pill-enhanced Keshiks. She abandons her advantageous position because continuing to fire from the cliff would endanger her allies.
-- The North Heaven Demon Lord attacks Jin Taekyung, who blocks and forces back his spear, while the Demon Lord’s hunting dog follows with a curved-blade attack. Jeok Cheongang drives the attacker back with Flame Divine Palm. Taekyung reflects that his growth as a martial artist has let him catch up to formerly overwhelming enemies, then asks the Demon Lord whether kicking him in the groin would have been a better move.
+- As the North Heaven Demon Lord and Jamukha prepare to fight Jin Taekyung and Jeok Cheongang, the Demon Lord promises Jamukha the Hebei Peng Family’s lands and lives if he survives and wins. Taekyung and Jeok exchange defiant, affectionate words before entering the battle. Jeok’s Flame-Extinguishing Divine Fist fails to stop the pill-enhanced Demon Lord’s spear; Jeok catches it between his hands but is badly wounded as the Demon Lord twists the shaft. At the chapter’s end, a razor-sharp gust shoots toward Jeok’s back.
 
 ## Open Questions
 
+- Who sent the razor-sharp gust toward Jeok Cheongang, and what happens to him?
+- How will the renewed confrontation with Murong Baek and Jamukha unfold?
 - Can the Hebei Peng Family withstand the pill-enhanced Keshiks?
-- How will the renewed confrontation with Murong Baek unfold?
 - What are the conditions of Jin Mukyung, Cheol Mubaek, Wipeng, and Peng Cheolhu?
 - Can the Emperor be treated for Blood Soul Gu, and what does the treatment requiring him to die once entail?
 
