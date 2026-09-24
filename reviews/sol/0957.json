@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“No! The Khan’s—!”",
+      "defect": "Replaces a cry to Holrogu with an unfinished reference to the Khan.",
+      "id": "F01",
+      "rationale": "The speaker calls out 홀로구 by name; the line contains neither a title nor an unfinished phrase.",
+      "replacement": "“No! Holrogu!”",
+      "severity": "critical",
+      "source": "“안돼! 홀로구!”"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“He asked our left wing to deal with the men climbing the cliffs, since the right wing will keep the enemy from breaking through the gorge head-on.”",
+      "defect": "Turns the right wing’s task of checking or harrying a frontal assault into a promise to prevent a breakthrough.",
+      "id": "F02",
+      "rationale": "견제 describes holding the attackers in check, not necessarily stopping their breakthrough outright.",
+      "replacement": "“He asked our left wing to deal with the men climbing the cliffs, while the right wing keeps the enemy attempting a frontal assault through the gorge in check.”",
+      "severity": "major",
+      "source": "“협곡을 정면 돌파하려는 적들은 우군(右軍)이 견제할 테니, 우리 좌군(左軍)은 절벽을 오르는 자들을 처리해 달라 청하셨습니다.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Asked? I may be the presiding chair by age, but on a battlefield like this, I follow the general’s orders. Don’t I?”",
+      "defect": "Makes an awkward claim to a formal-sounding chairmanship where the old man is contrasting seniority by age with the general’s battlefield authority.",
+      "id": "F03",
+      "rationale": "나이로 따졌을 때 explicitly limits his standing here to age; his point is that the general’s instruction is an order, not a request.",
+      "replacement": "“Asked? I may be the senior one by age, but on a battlefield like this, I follow the general’s orders. Don’t I?”",
+      "severity": "major",
+      "source": "“청은 무슨. 나이로 따졌을 때는 노부가 좌장(座長)이지만, 지금 같은 전장에서는 장군의 명령대로 따라야지. 안 그런가?”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Assistant Military Commissioner—”",
+      "defect": "Drops the officer’s cautious attempt to restate that the commissioner made a request.",
+      "id": "F04",
+      "rationale": "청하시길 repeats the deferential ‘asked’ that the old man has just challenged, explaining why he interrupts the officer.",
+      "replacement": "“The Assistant Military Commissioner did ask…”",
+      "severity": "major",
+      "source": "“도지휘첨사(都指揮僉事)께서 청하시길…….”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He was faster than even a master who had reached great skill in the Wall Lizard Technique could follow,",
+      "defect": "Changes an inability to reproduce the feat into an inability to keep up with him.",
+      "id": "F05",
+      "rationale": "따라 할 수 없을 만큼 means the master could not do the same thing, not merely that the master could not follow his movement.",
+      "replacement": "He moved so fast that even a master of the Wall Lizard Technique could not have replicated the feat,",
+      "severity": "major",
+      "source": "경지에 오른 벽호공(壁虎功)의 고수조차 따라 할 수 없을 만큼 쾌속했고"
+    }
+  ],
+  "summary": "Several lines alter a spoken name, battlefield responsibilities, hierarchy, or a martial-arts comparison.",
+  "version": 1
+}
