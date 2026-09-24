@@ -72,7 +72,7 @@ I doubted they’d find any. Keeping that thought to myself, I approached the bo
 
 A warrior instinctively moved to block my way, but when our eyes met, he flinched and stepped aside. I examined the wounds, looking for how these people had fought the unknown attacker—and how they had died.
 
-Then, just as I realized something, I heard Yayul Mok’s voice.
+As I realized what had happened, Yayul Mok spoke.
 
 “Found anything?”
 
@@ -144,7 +144,7 @@ Yayul Mok answered, his face still grim. “But it was over in moments. With a S
 
 “How do you know how long it lasted?”
 
-“Because I heard a short but unmistakable boom. By the time I heard the report and arrived, everything was already over. All that remained in the Western Yao Estate was blood, corpses, and…”
+“I heard a brief but unmistakable crash. By the time I received the report and arrived, it was already over. All that remained in the Western Yao Estate was blood, bodies, and…”
 
 Rattle.
 
@@ -196,7 +196,7 @@ I still didn’t know why Heugung had come to see Yohi. And until his death was 
 
 I’d asked just in case. I’d gotten exactly the answer I expected.
 
-“Whew.”
+“Haa.”
 
 I let out a deep breath and slowly surveyed the room. Signs of resistance were everywhere. Beyond a wall that had probably collapsed under a powerful palm strike, I could see a rear garden that had kept its splendor.
 
@@ -216,15 +216,15 @@ I thought it over, then shook my head.
 
 I wasn’t some old veteran of Murim. These clues could tell me only so much. Namho had encountered a wealth of information as an agent of the Hidden Shadow Pavilion, but his knowledge concerned fiends’ faces and other outward features.
 
-*In the end, I need someone with both a high level of martial arts and a high level of insight.*
+*I need someone with both the martial arts and the experience to read this scene.*
 
-Only two names came to mind immediately, and one of them was someone I could never bring myself to trust.
+Only two names came to mind. One belonged to a man I couldn’t bring myself to trust.
 
 I turned to Yayul Mok.
 
 “When will Great Hero Yayul arrive?”
 
-“I’ve already sent someone to notify him. By now, he should be on his way with the other chieftains.”
+“I’ve already sent word. He should be on his way with the other chieftains by now.”
 
 That was good news. I made sure Heugung’s wrist was where I’d found it, to preserve the scene, then sniffed the pouch Yohi had left behind. The silk had split along one side, and only the faintest trace of scent remained—almost nothing.
 
@@ -238,7 +238,7 @@ But before I even stepped outside, I knew he was wrong.
 
 The Beast Miao King wasn’t the first to arrive. And the person being named as the culprit was someone I hadn’t expected.
 
-“The guilty party is coming out on his own.”
+“The guilty man is coming out on his own.”
 
 The moment I heard Baeksang’s flat voice, I understood.
 

@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is largely faithful, but it narrows one location and understates the stated headcount.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 9",
+      "current": "Nearly a thousand people lived there",
+      "defect": "“Nearly” makes the count less than a thousand, while the source says the combined number of people staying in the Inner Palace reached a thousand.",
+      "replacement": "Their number reached a thousand",
+      "rationale": "일천에 달하고 states that the total reached a thousand; it does not establish a count below that figure.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 241",
+      "current": "at least three people had occupied this room",
+      "defect": "“This room” narrows the location to the room. The source says 이 자리, meaning this place or spot, and the accepted baseline preserves that broader location.",
+      "replacement": "at least three people had been in this place",
+      "rationale": "The source identifies the scene as 이 자리, not specifically the room; the assembled wording adds a more specific location than the source establishes.",
+      "confidence": 0.84
+    }
+  ]
+}
