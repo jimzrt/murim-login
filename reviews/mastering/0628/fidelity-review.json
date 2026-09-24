@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A lover. A woman you date and have feelings for.",
+      "defect": "The definition has been simplified, dropping the source’s mock-clinical phrasing about a being with a physical structure different from a man’s who dates you while harboring tender feelings. That exaggerated register is part of the joke and sets up Taekyung’s absurd interrogation.",
+      "id": "F01",
+      "rationale": "The Korean definition is conspicuously elaborate and detached: “an existence with a physical structure different from a man’s” that “dates you with tender feelings.” Replacing it with an ordinary description changes the comic register and loses the source’s joke logic.",
+      "replacement": "A lover. Or a romantic partner. A being with a physical structure different from a man’s who dates you while harboring tender feelings for you.",
+      "severity": "minor",
+      "source": "Korean line 157"
+    }
+  ],
+  "summary": "The chapter is broadly faithful, but one edit removes the deliberately overformal joke in the girlfriend definition.",
+  "version": 1
+}

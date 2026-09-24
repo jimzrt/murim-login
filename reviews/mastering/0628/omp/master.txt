@@ -2,9 +2,9 @@
 
 “Only a few decades ago, we stood together and risked our lives fighting for the Han Chinese. And now, you’ve turned your swords on us.”
 
-At that moment, Yayul Mok was genuinely furious.
+Yayul Mok was furious, and he meant every word.
 
-More than two hundred people had been massacred in the recent tragedy. Most of the victims had been powerless old men, women, and children.
+Some two hundred people had been massacred. Most were defenseless old people, women, and children.
 
 They were Miao people, just as he was. And after doing that to them, the Han Chinese still had the nerve to ask for help.
 
@@ -86,7 +86,7 @@ This was nothing like the reaction Yayul Mok had expected. He stared at Jin Taek
 
 Jin Taekyung tilted his head. “How did you get that from what I said?”
 
-“No, but you said you understood.”
+“You said you understood.”
 
 “Yeah. Of course I understand. It’s not like I’m incapable of empathy.”
 
@@ -96,7 +96,7 @@ Jin Taekyung tilted his head. “How did you get that from what I said?”
 
 “What?”
 
-“This’ll take too long if I explain everything, and my mouth hurts. So let’s cut to the chase and ask one thing.”
+“I could explain, but we’d be here all day. Let me ask you one thing.”
 
 Jin Taekyung leaned back against a tree and lowered his voice.
 
@@ -104,7 +104,7 @@ Jin Taekyung leaned back against a tree and lowered his voice.
 
 “……!”
 
-“And since we’re on the subject, do you think the Nanman people who died in that war died like dogs for no reason?”
+“And while we’re at it, do you think the Nanman people who died in that war gave their lives for nothing?”
 
 “That’s…”
 
@@ -116,7 +116,7 @@ Yayul Mok found himself at a loss for words. For some reason, the answer wouldn�
 
 Jin Taekyung held up two fingers.
 
-“Because you’re still a brainless brat.”
+“You’re still a brainless little shit.”
 
 “What is that supposed to—”
 
@@ -128,7 +128,7 @@ Jin Taekyung held up two fingers.
 
 Jin Taekyung went on with a sigh.
 
-“If you look at it that way, it isn’t entirely wrong. Who the fuck wants war? So what if you fight like hell and gain land, gold, and silver treasures? People are dying like ants in every direction. And some of those ants might be my friends, my family, or my lover. They could even be me—or you. By the way, do you have a girlfriend?”
+“And they’re not entirely wrong. Who the fuck wants a war? So what if you fight like hell and win land, gold, and silver? People are dying like ants everywhere you look. Some of those ants are your friends, your family, your lover. Or they could be you or me. Hey, do you have a girlfriend?”
 
 Yayul Mok shook his head before he could think.
 
@@ -138,7 +138,7 @@ Yayul Mok shook his head before he could think.
 
 “A lover. A woman you date and have feelings for.”
 
-“Uh, no.”
+“No.”
 
 “Oh. So you had one?”
 
@@ -146,19 +146,19 @@ Yayul Mok shook his head before he could think.
 
 “Right. So you *had* one?”
 
-“……I’ve never had one. Not even once.”
+“…I’ve never had one.”
 
 “How old are you?”
 
 “Twenty-six.”
 
-“What a guy. A promising candidate for the virgin-boy technique. If you hold out like this for fifty years, you might even become a Martial God. Fine, let’s take lovers off the list of victims.”
+“Well, look at you. A promising candidate for the virgin-boy technique. Keep it up for another fifty years and you might become a Martial God. All right, we’ll take lovers off the list of people you could lose.”
 
 Jin Taekyung smiled, looking pleased for some reason. Yayul Mok felt his mood sour as the tension went out of him.
 
 The man was impossible to get a read on. So was this conversation.
 
-“What the hell are you trying to say? Why did you suddenly go off on a tangent about lovers?”
+“What are you trying to say? Why are we suddenly talking about lovers?”
 
 “Who knows? I’m not entirely sure myself. But I do know one thing.”
 
@@ -168,7 +168,7 @@ The faint smile left Jin Taekyung’s face.
 
 “……”
 
-“I’m sincerely sorry about what happened with the Heavenly Demon Escort Bureau. But if there were people crazy enough to do something like that… I would have killed them myself.”
+“I’m truly sorry about what happened with the Heavenly Demon Escort Bureau. If I’d found those lunatics… I would have killed them myself.”
 
 “Even though they were Han Chinese, like you?”
 
@@ -202,7 +202,7 @@ If the three great chieftains led by Baeksang, the Great Chieftain of the Bai pe
 
 Yayul Mok watched Jin Taekyung closely. How would this young, powerful Han Chinese from the Central Plains react now that Nanman’s joining the alliance was all but impossible?
 
-*He’ll probably be disappointed. If not, he’ll surely exhaust himself trying to persuade us somehow…*
+*He’ll be disappointed. Or he’ll wear himself out trying to persuade us somehow—*
 
 “I’ll do what I can. If it doesn’t work, it doesn’t work.”
 
@@ -210,7 +210,7 @@ Yayul Mok watched Jin Taekyung closely. How would this young, powerful Han Chine
 
 Yayul Mok couldn’t hide his surprise. Jin Taekyung sounded far calmer than he’d expected.
 
-“B-but the result is already decided, isn’t it?”
+“B-but I told you the outcome’s already decided.”
 
 “Yeah. You also said it isn’t over yet.”
 
@@ -234,7 +234,7 @@ Jin Taekyung scratched his chin.
 
 “Someone who puts out fires.”
 
-“Didn’t you set fire to the pasture as soon as you arrived?”
+“Didn’t you set a pasture on fire the moment you arrived?”
 
 Jin Taekyung fell silent at the earnest question.
 
@@ -242,13 +242,13 @@ Jin Taekyung fell silent at the earnest question.
 
 “That seems true.”
 
-“…You fucking bastard. Now I’m getting annoyed for no reason. Anyway, it’d be a shame if Nanman didn’t join us, but if trying doesn’t work, there’s nothing we can do.”
+“…You bastard. Why did that piss me off? Anyway, it’d be a shame if Nanman didn’t join us. But if we try and it still doesn’t happen, we can’t force it.”
 
 “But you’re Han Chinese. And you belong to the Murim Alliance.”
 
 “So?”
 
-“I don’t know the exact circumstances, but I know well enough that the Central Plains is in danger. At a time like this, when you should be begging us for help no matter what, you came to help us?”
+“I don’t know all the details, but I know the Central Plains is in danger. You ought to be doing everything you can to ask for our help. Instead, you came to help *us*?”
 
 Jin Taekyung let out a quiet laugh at the way Yayul Mok looked at him, as though he were some strange creature.
 
@@ -258,7 +258,7 @@ Jin Taekyung let out a quiet laugh at the way Yayul Mok looked at him, as though
 
 “Why?”
 
-“If we don’t put it out, the flames will spread in every direction.”
+“Because if I didn’t, the fire would spread everywhere.”
 
 “Good. There’s your answer.”
 
@@ -274,6 +274,6 @@ Yayul Mok was silent for a moment. Then, with a troubled look, he asked, “So y
 
 “Believe what you want. But before any of that…”
 
-Jin Taekyung naturally turned around and began walking. Then he continued with a suddenly hardened expression.
+Jin Taekyung turned and started walking, then looked back at him with a straight face.
 
-“At least feed me properly, asshole.”
+“Feed us a proper meal, you asshole.”
