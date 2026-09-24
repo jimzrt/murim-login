@@ -1,6 +1,6 @@
 # Hanga (항아)
 
-- **Safe through:** Chapter 956
+- **Safe through:** Chapter 966
 - **Aliases:** None
 - **Role:** Local village girl, Jang-pal’s daughter, who lives near Jang Taebo and regularly visits him.
 - **Personality:** Curious, energetic, observant, and already attentive to the value of information and food.
