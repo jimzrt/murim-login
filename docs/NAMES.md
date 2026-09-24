@@ -2425,3 +2425,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 항우 | **Xiang Yu** | Historical rival of Liu Bang. |
 | 유방 | **Liu Bang** | Han founder cited by Jamukha. |
 | 장량 | **Zhang Liang** | Liu Bang’s strategist in Jamukha’s account. |
+| 검귀 | **Sword Demon** | Title used for the kind of swordsman Mukyung is said to resemble. |
