@@ -2454,3 +2454,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천수 | **Tianshui** | City on Gansu’s eastern edge, bordering Shaanxi. |
 | 십만마도 | **Hundred Thousand Demonic Disciples** | The earlier force used as a comparison for Dark Heaven’s army. |
 | 멸지 | **Land of Ruin** | Name used for the desert region beyond which Dark Heaven’s forces are approaching. |
+| 쇄월검진 | **Moon-Shattering Sword Formation** | Named sword formation of the Zhongnan Sect. |
