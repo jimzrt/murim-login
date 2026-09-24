@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Then a thunderous shout burst from between Jamukha’s lips.",
+      "defect": "The shout is “Jamukha!”; attributing it to Jamukha makes him call out his own name. The North Heaven Demon Lord is the one twisting the spear immediately before the shout.",
+      "id": "C01",
+      "rationale": "Restores a coherent speaker for the command without changing the surrounding action.",
+      "replacement": "Then a thunderous shout burst from between the North Heaven Demon Lord’s lips.",
+      "severity": "major",
+      "source": "Chapter 974, final confrontation"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The conditions of Jin Mukyung, Cheol Mubaek, Wipeng, and Peng Cheolhu remain unknown.",
+      "defect": "The active state omits the checkpoint summary’s specific unresolved fact that Peng Cheolhu is alive beneath the rubble.",
+      "id": "C02",
+      "rationale": "Keeps the known locations and states distinct from the unknown outcomes for later continuity.",
+      "replacement": "Jin Mukyung, Cheol Mubaek, and Wipeng are unconscious, and their conditions remain unknown. Peng Cheolhu is alive beneath the rubble, but his condition remains unknown.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity entry on the wounded and missing"
+    }
+  ],
+  "summary": "The reading copies and checkpoint summary are largely consistent. One speaker attribution contradicts the action, and the durable state drops a specific unresolved hook.",
+  "version": 1
+}
