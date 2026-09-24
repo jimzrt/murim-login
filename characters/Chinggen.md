@@ -1,6 +1,6 @@
 # Chinggen (칭겐)
 
-- **Safe through:** Chapter 939
+- **Safe through:** Chapter 948
 - **Aliases:** None
 - **Role:** Chinggen is a Khan of the northern grasslands, ruling alongside Temur over tens of thousands of horses and warriors.
 - **Personality:** Prudent, restrained, and attentive to the danger posed by the gathering's other powers
