@@ -64,6 +64,14 @@ class ModelIoTest(unittest.TestCase):
         replacement = "“Do you remember the promise we made long ago?”"
         self.assertEqual(revised, f"# Chapter 974\n\n{replacement}\n\nMiddle.\n\n{replacement}\n")
 
+    def test_review_replacement_preserves_blockquote_prefixes(self):
+        current = "Quest **[Desert Mirage]** successfully completed!  \nQuest rewards have been granted!  \nGained a large amount of EXP and Fame!  \nA new linked Quest has been generated upon completion of **[Desert Mirage]**."
+        replacement = "Quest **Desert Mirage** successfully completed!  \nQuest rewards have been granted!  \nGained a large amount of EXP and Fame!  \nA new linked Quest has been generated upon completion of **Desert Mirage**."
+        text = "> " + current.replace("\n", "\n> ")
+        review = {"findings": [{"id": "F06", "current": current, "replacement": replacement}]}
+        revised = apply_review_replacements(text, review)
+        self.assertEqual(revised, "> " + replacement.replace("\n", "\n> ") + "\n")
+
     def test_review_replacement_prefers_unique_full_paragraph(self):
         review = {"findings": [{
             "id": "F01",
