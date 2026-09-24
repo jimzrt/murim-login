@@ -14,7 +14,7 @@ Hyuk Mujin shot his hand up at the surprise quiz I’d sprung on everyone in the
 
 “Correct. A centipede, to be precise. So why is it in our food?”
 
-“Hmm. Perhaps it’s a custom of the non-Han people of Nanman?”
+“Hmm. Could it be a custom among the people of Nanman?”
 
 Namho, who had eighty years of experience being one of those people, picked out something that looked like a pine caterpillar and muttered, “First I’ve heard of it…”
 
@@ -30,7 +30,7 @@ There was no way we could eat this. Song Ilseom set down his chopsticks and answ
 
 I agreed. But I didn’t think Yayul Mok had personally ordered it. Someone who was Young Palace Lord wouldn’t resort to anything this petty.
 
-*So this was the work of other non-Han people within the Nanman Beast Palace.*
+*Then it must be other people within the Nanman Beast Palace.*
 
 We’d been hated ever since we entered Nanman. Even the ugly duckling hadn’t had it this bad, I thought, just as Ju Hwaran quietly appeared. She’d gone upstairs before the meal to wash up.
 
@@ -114,7 +114,7 @@ The thick leaves shook. A beast growled low, and Yayul Mok’s displeased voice 
 
 “Hwang Gae?”
 
-“Maybe it was Hwang Gae or Ddong Gae. Something like that.”
+“Hwang Gae, Ddong Gae. Something like that.”
 
 “He’s not the sort to tell a Han Chinese where I am.”
 
@@ -128,7 +128,7 @@ I doubted he’d come down just because my neck hurt, so I kindly added, “Befo
 
 “My ancestors’ ancestors planted this tree. It took root here a thousand years ago.”
 
-“Then, sometime far in the future, your descendants will say, ‘There used to be a thousand-year-old tree here, but some Han Chinese bastard came and ripped it out by the roots.’ And when the child asks, ‘Why, Mom?’ she’ll say, ‘Because our ancestor wouldn’t come down from the tree when asked nicely.’”
+“Then someday your descendants will say, ‘There used to be a thousand-year-old tree here, but some Han Chinese bastard came along and ripped it out by the roots.’ And their kid will ask, ‘Why, Mom?’ And she’ll say, ‘Because our ancestor wouldn’t come down when that bastard asked nicely.’”
 
 “……”
 
@@ -156,17 +156,17 @@ I scratched the back of my head bashfully. Yayul Mok’s face reddened, and he s
 
 I wasn’t some neighborhood thug. I hadn’t gone around acting like that even in the Central Plains. I always started by asking nicely and only used my fists when that didn’t work. This time, I’d had plenty of reason.
 
-“Insect fried rice. Bathwater mixed with filth.”
+“Insect fried rice. Shit water for a bath.”
 
 “What?”
 
-“If that isn’t a traditional custom, then the Nanman Beast Palace’s treatment of its guests is pretty terrible. Don’t you think?”
+“Unless those are traditional customs, the Nanman Beast Palace has a funny way of treating guests. Don’t you think?”
 
 Yayul Mok frowned. After a moment, he let out a sigh.
 
-“I think I have a general idea of what happened.”
+“I think I know what happened.”
 
-“If you had a general idea, you should have warned them beforehand.”
+“If you had an idea this might happen, you could’ve warned them.”
 
 “I didn’t think they’d show their hostility quite so openly…”
 
@@ -184,7 +184,7 @@ I was a little surprised. We hadn’t known each other long, but Yayul Mok seeme
 
 *The type to admit when he’s wrong and not hold a grudge?*
 
-In that sense, the young Young Palace Lord of the Nanman Beast Palace had a better personality than I’d expected.
+It was easy to make a mistake. Owning up to it and apologizing sincerely was much harder. The Nanman Beast Palace’s Young Palace Lord had a better head on his shoulders than I’d expected.
 
 “I’ll replace the people responsible as soon as I get back. Hwang Gae and everyone else involved. Nothing like this will happen again.”
 
@@ -196,9 +196,9 @@ In that sense, the young Young Palace Lord of the Nanman Beast Palace had a bett
 
 Yayul Mok bristled. “What kind of nonsense is that?”
 
-“If not, never mind. You went so far as to ask me not to tell him, so I thought you might get beaten for three days and three nights.”
+“If he doesn’t, forget I asked. You went out of your way to ask me not to tell him, so I thought maybe you’d get beaten for three days and nights.”
 
-“My father has never laid a hand on me even once.”
+“My father has never laid a hand on me.”
 
 Well, if your father was the Beast Miao King, you’d probably grow up fine without him laying a hand on you. At that size and with that martial power, he could probably get his son, grandson, and maybe even his great-grandson through puberty without any trouble.
 
@@ -214,13 +214,13 @@ While I was thinking that, Yayul Mok hesitated, then added quietly, “I’ll be
 
 “One reason. Sounds like there’s another.”
 
-Yayul Mok stared at me silently for a while. Then, as he stroked the chin of the now-quiet white tiger, he opened his mouth.
+Yayul Mok studied me in silence for a while. Then he stroked the now-quiet White Tiger under its chin.
 
 “The Great Faction War.”
 
 “Hmm?”
 
-“We shed far too much blood in the Central Plains. Under my father’s leadership, all of Nanman’s tribes joined forces, and as many as ten thousand warriors went to the battlefield. But the number of those who returned home alive was less than a quarter of that.”
+“We shed far too much blood in the Central Plains. Under my father’s leadership, every tribe in Nanman joined forces. Ten thousand warriors went to the battlefield, but fewer than a quarter of them came home alive.”
 
 *Grrr.*
 
@@ -228,7 +228,7 @@ The White Tiger accepted his touch, then looked up at its master with worried ey
 
 Yayul Mok went on, his voice heavy with conflicting emotions.
 
-“Someone’s parents. Someone’s children. Friends and relatives who had grown up together since childhood. Most of them left for the battlefield with smiles on their faces and never returned. Even I, who was born long afterward, wasn’t exempt.”
+“Parents. Children. Friends and relatives they’d grown up with. Most of them left for the battlefield smiling and never came back. Even I, born long afterward, lost family to that war.”
 
 “You did?”
 
@@ -238,7 +238,7 @@ I thought back to our conversation just after we’d left the Beast Miao King. T
 
 “You had older siblings.”
 
-“Three. One of them was my elder sister. She was young, and she was a woman, but I heard she was as brave as any warrior. If she hadn’t participated in the Great Faction War, she would have married the man she loved. My father and Uncle Baeksang would have become in-laws as well as sworn brothers.”
+“Three. One was my elder sister. She was young, and she was a woman, but I’m told she was as brave as any warrior. If she hadn’t gone to war, she would have married the man she loved. My father and Uncle Baeksang would have become in-laws as well as sworn brothers.”
 
 “Wait. Then…”
 
@@ -246,7 +246,7 @@ I thought back to our conversation just after we’d left the Beast Miao King. T
 
 Yayul Mok smiled bitterly and added, “Don’t blame Hwang Gae too much. He lost his parents and all his relatives.”
 
-I had nothing to say, so I simply closed my mouth.
+I had nothing to say.
 
 I’d heard about the Great Faction War so many times my ears practically rang with it, but I hadn’t known Nanman had suffered losses like these.
 
@@ -254,10 +254,10 @@ No. If I was honest, I hadn’t thought I needed to know. Nanman was in the Oute
 
 The others who still talked about the war probably thought the same way. Only Jeok Cheongang and a tiny handful of others had even mentioned that Nanman had suffered heavy losses.
 
-*So they must have all been carrying old resentment. The Heavenly Demon Escort Bureau incident from recently must have been the flashpoint.*
+*No wonder they’ve been carrying resentment all this time. What the Heavenly Demon Escort Bureau did must have set it off.*
 
 Whatever Reward they’d received after the war, the wound was still there. It had only just begun to heal, barely forming a scab, when this happened.
 
-“Only a few decades ago, we united and risked our lives fighting for the Han Chinese. And now, you killed some of us.”
+“Only a few decades ago, we stood together and gave our lives fighting for the Han Chinese. Now they’ve killed some of us.”
 
 Yayul Mok’s voice reached me, cold and seething.
