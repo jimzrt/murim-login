@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Even if they split their forces and attacked three cities at once,",
+      "defect": "성 refers to provinces here, not cities.",
+      "id": "F01",
+      "rationale": "The calculation concerns an army threatening multiple provinces.",
+      "replacement": "Even if they split their forces and attacked three provinces at once,",
+      "severity": "critical",
+      "source": "설령 놈들이 병력을 분산시켜 세 개의 성을 동시에 노린다고 하더라도"
+    },
+    {
+      "confidence": 0.98,
+      "current": "A month and a half ago, I issued an emergency call to all the Murim factions in Gansu.",
+      "defect": "달포 means roughly a month, not a month and a half; 비상을 내리다 means putting them on alert, not merely calling for them.",
+      "id": "F02",
+      "rationale": "The source specifies an approximate month and an alert preceding the rapid mobilization.",
+      "replacement": "About a month ago, I put all of Gansu Murim on alert.",
+      "severity": "critical",
+      "source": "달포 전, 감숙 무림 전체에 비상을 내렸네."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The greatest obstacle was, in the end, the numbers.",
+      "defect": "The draft omits which side has the numerical disadvantage.",
+      "id": "F03",
+      "rationale": "수적열세 explicitly identifies the defenders as outnumbered.",
+      "replacement": "The greatest obstacle, in the end, was that we were outnumbered.",
+      "severity": "major",
+      "source": "사실상 수적열세야말로 가장 큰 걸림돌이다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "If a Great Nation had watched on while this many ruffians—who might turn the blades at their waists against one another at any moment—gathered, would it have stood by?",
+      "defect": "The draft makes the ruffians liable to attack one another, undermining the stated reason the government would intervene.",
+      "id": "F04",
+      "rationale": "The surrounding explanation says the state tolerates Murim only while its own foundations remain secure.",
+      "replacement": "Would the Great Nation have stood idly by if this many ruffians, liable to turn the swords at their waists against the state at any moment, had gathered?",
+      "severity": "major",
+      "source": "언제 허리춤에 찬 칼을 거꾸로 휘두를지 모르는 파락호들이 이리 많다면, 대국(大國)에서 가만히 두고 보았겠습니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He’s even staked his life on it. How could that not be deeply troubling?",
+      "defect": "“Deeply troubling” suggests his pledge raises concern; the speaker laments that a trusted comrade has had to stake his life.",
+      "id": "F05",
+      "rationale": "통탄할 노릇 condemns the situation, following the speaker’s affirmation of Sima Gong’s character.",
+      "replacement": "That a man like him should have to stake his life on this—isn’t that a crying shame?",
+      "severity": "major",
+      "source": "그런 이가 목숨까지 걸었으니, 이것이야말로 실로 통탄할 노릇이 아니겠습니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Unorthodox, dark path. I don’t give a damn where they crawled out of or whether they’re dog bones.",
+      "defect": "“Dog bones” reads as literal objects rather than Jeok Cheongang’s contemptuous description of worthless nobodies.",
+      "id": "F06",
+      "rationale": "개뼉다귀 is an insult directed at people; the line lists groups Jeok is willing to accept.",
+      "replacement": "Unorthodox, dark-path figures, or nobodies who crawled in from God knows where—I don’t give a damn.",
+      "severity": "minor",
+      "source": "사파건, 흑도건. 어디서 굴러먹다 왔는지 모를 개뼉다귀 건  아무래도 상관없다."
+    }
+  ],
+  "summary": "Several consequential errors change the timeline, the scale of the threat, and the reason the government would intervene. One response also reverses the intended emotional judgment.",
+  "version": 1
+}
