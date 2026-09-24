@@ -1449,3 +1449,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진무경 | 마조 | hostile opponents | you | blunt and insulting | Mukyung directly insults the Demon Bird, refusing to call him Master. |
 | 마조 | 진무경 | hostile opponents | you | familiar and blunt, with admiration | Calls him a young Sword Demon and speaks to him with growing respect. |
 | 자무카 | 진무경 | hostile opponents | you | familiar, blunt, and patronizing | Jamukha uses 자네 while urging Mukyung to submit and become his hunting dog. |
+| 자무카 | 팽철후 | former battlefield opponents and current rivals | Thunderbolt Saber King Peng Cheolhu | informal and hostile | Jamukha first uses Cheolhu’s former title, then corrects himself to the current title. |
