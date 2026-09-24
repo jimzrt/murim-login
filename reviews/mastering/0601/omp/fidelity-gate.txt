@@ -1,0 +1,35 @@
+{
+  "summary": "Mostly faithful, with one changed joke and a few omitted or added details.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 13, 229",
+      "current": "The occupying force had arrived: one polite, one rude, and neither to be avoided.",
+      "defect": "The Korean describes the arrival itself as simultaneously polite and rude, but the English assigns politeness to one person and rudeness to the other, changing the joke.",
+      "replacement": "The occupying force had arrived: polite and rude at once, and impossible to avoid.",
+      "rationale": "정중한 동시에 무례한 describes one arrival that is both polite and rude; it does not distinguish the two people that way.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 13",
+      "current": "Vice President Park Daewon had barely finished when objections erupted from all sides.",
+      "defect": "The translation omits Park's anxious appearance.",
+      "replacement": "The anxious-looking middle-aged man, Vice President Park Daewon, had barely finished speaking when objections erupted from all sides.",
+      "rationale": "초조한 기색의 중년인 explicitly describes Park as looking anxious before his words prompt the responses.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 41",
+      "current": "But every bit of it had been true. The impregnable fortress they had spent some thirty years building had fallen, and its newly appointed City Lord had lost his head before he had even settled into office.",
+      "defect": "The assembled copy omits the detail that the retainers who narrowly escaped the prosecutors’ handcuffs were now voicing their complaints in unison.",
+      "replacement": "And the retainers who had barely escaped the prosecutors’ handcuffs were now voicing their complaints in unison.",
+      "rationale": "The Korean explicitly connects the executives’ current complaints to their narrow escape from the prosecutors’ arrest restraints; that detail is absent from the assembled copy.",
+      "confidence": 0.99
+    }
+  ]
+}

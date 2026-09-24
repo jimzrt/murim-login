@@ -14,7 +14,7 @@ Vice President Park Daewon had barely finished when objections erupted from all 
 
 “His intentions couldn’t be more obvious. He means to swallow Ares whole.”
 
-“No, hyung. Why would you call an emergency meeting at the request of an outsider who has no authority? Even if you are the Vice President, this is going too far.”
+“Hyung, why call an emergency meeting at the request of an outsider with no authority? Even if you’re the Vice President, this isn’t right.”
 
 As the complaints came at him, Park wiped his half-bald forehead with a handkerchief.
 
@@ -26,31 +26,31 @@ He had distinguished himself in battle, but political infighting had never been 
 
 Then, ten days ago, while taking a vacation ahead of his retirement, he had heard news he could hardly believe.
 
-Ares Guild headquarters had been crushed by a single person, and Go Jun, the Vice Guild Master, had been murdered.
+One man had smashed his way through Ares Guild headquarters and killed Vice Guild Master Go Jun.
 
 *That can’t be true.*
 
 For the first ten minutes, at least, that was what Park had thought.
 
-But every bit of it had been true. The impregnable fortress they had spent some thirty years building had fallen, and its newly appointed City Lord had lost his head before he had even settled into office.
+But it was all true. The impregnable fortress they had spent some thirty years building had fallen, and its newly appointed lord had lost his head. Now the retainers who had narrowly escaped the prosecutors’ office were voicing their complaints.
 
 “This is absurd! We don’t have to listen to such nonsense.”
 
-“We created the name Ares, and we were the ones who protected it. What right does some outsider—some bloody brat who still doesn’t know how the world works—have to interfere?”
+“We made the name Ares, and we protected it. What right does some outsider—a brat who doesn’t even know how the world works—have to interfere?”
 
 “Vice President Park, this really isn’t right!”
 
 “…”
 
-Park Daewon silently took a long drink from his glass of water.
+Park silently drank from his glass of water.
 
 Everyone gathered here had spent at least ten years with Ares Guild; some had been with it for more than thirty. Most of those who held real power in the Guild had been summoned by the prosecutors’ office, but the executives in this room were far from powerless.
 
 *…But we can’t ignore him, either.*
 
-Park Daewon knew all about Choi Minwoo.
+Park knew about Choi Minwoo.
 
-No, he couldn’t not know. Cheon Taemin’s private life and family relationships had been protected with the utmost care, but things were different for the few people classified as his close associates.
+He could hardly *not* know. Cheon Taemin’s private life and family relationships were closely guarded, but a handful of his closest associates had been told. As a founding member, Park was one of them.
 
 *I first saw him at his first-birthday celebration. The funeral was the last time…wasn’t it?*
 
@@ -60,7 +60,7 @@ Park had spent his life going along with whatever happened around him, but this 
 
 *What should I do?*
 
-While Park Daewon was lost in thought, a short, powerful voice rang through the noisy conference room.
+As he wrestled with the question, a blunt voice cut through the complaints filling the room.
 
 “I was going to see how far you’d take this, but it’s getting more ridiculous by the minute. I can’t listen to any more.”
 
@@ -70,7 +70,7 @@ While Park Daewon was lost in thought, a short, powerful voice rang through the 
 
 A chill silence fell over the conference room. Eyes widened, and every gaze turned toward the speaker.
 
-“Managing Director Kim, what kind of outrageous statement was that?”
+“Managing Director Kim, how can you say such a thing?”
 
 “Managing Director, my ass. Hey, Kim Gwangpil! What the hell are you talking about?”
 
@@ -78,7 +78,7 @@ The silence broke into angry shouts. Managing Director Kim shrugged his broad sh
 
 “Am I wrong? I called it ridiculous because it is. And Executive Director Baek, watch your language. I may be your junior, but I don’t care to be spoken to like that.”
 
-“Just you wait, you traitorous bastard……”
+“You treacherous bastard…!”
 
 Kim’s thick eyebrows twitched.
 
@@ -86,11 +86,11 @@ Kim’s thick eyebrows twitched.
 
 “A traitor, you bastard! If it weren’t for traitors like you, we wouldn’t be in this goddamn mess!”
 
-“Wasn’t it the people on Executive Director Baek’s side who acted like animals? We can figure that out simply by seeing who’s in the detention center right now.”
+“Wasn’t it your people who behaved like bastards, Executive Director Baek? Take a look at who’s in the detention center.”
 
 “What?”
 
-“You seemed awfully bothered that a few executives and I joined Jin Taekyung. But in the end, what kind of shit was the Vice Guild Master—no, what was that man Go Jun—up to? Or did you have a hand in it too, Executive Director Baek?”
+“You’re clearly upset that several executives and I sided with Jin Taekyung. But what was Vice Guild Master Go—no, what was *Go Jun* doing all that time? Or were you involved too?”
 
 “You—you bastard…!”
 
@@ -112,7 +112,7 @@ The executives stopped short.
 
 “Vice President Park, what did you just…?”
 
-“I’m talking about Choi Minwoo.”
+“Choi Minwoo.”
 
 Park slowly looked around at the thirty-odd executives.
 
@@ -150,17 +150,17 @@ Within a minute, startled gasps sounded around the room. A reporter’s urgent v
 
 Another voice followed, filling the conference room.
 
-> “The Cheon character, the Tae character, and the Min character. Cheon Taemin. He is my maternal grandfather.”
+> “Cheon. Tae. Min. Cheon Taemin is my maternal grandfather.”
 
 > “…!”
 
 > “…!”
 
-The ceaseless camera flashes and the surrounding murmur vanished in an instant.
+The ceaseless camera flashes and the murmuring crowd fell silent in an instant. So did the conference room.
 
 Everyone had suspected it. But hearing that suspicion confirmed and announced to the world had an impact none of them had imagined.
 
-All the more so when it concerned the only blood relative of Cheon Taemin, a man about whom everything was shrouded in mystery.
+Especially when the news concerned the sole descendant of Cheon Taemin, a man whose life was shrouded in mystery.
 
 At the same moment, everyone in the room understood.
 
@@ -172,7 +172,7 @@ The question was where he would swing it—and at whom.
 
 *Gulp.*
 
-No one could bring themselves to speak easily. As time passed in an atmosphere where an invisible thread of tension had been pulled taut, the room filled with faint whispers.
+No one dared speak above a whisper. The minutes passed with tension drawn tight across the room.
 
 Then—
 
@@ -190,7 +190,7 @@ The time they had gathered for. The time someone was due to arrive.
 
 *Step. Step.*
 
-Everyone heard shoes crossing the hallway outside the door, and without realizing it, they reflexively rose from their seats.
+Shoes sounded in the hallway outside. Before they knew what they were doing, the executives rose from their seats.
 
 And then…
 
@@ -212,7 +212,7 @@ By that measure, Team Leader Choi was a man among men. He had come to cut up Are
 
 “…”
 
-Come to think of it, I had already cut it down once myself.
+Come to think of it, I’d already taken a slice out of it myself. Anyway.
 
 “Nice to meet you. I’m Choi Minwoo.”
 
@@ -222,7 +222,7 @@ Some looked as if the world would end in three seconds. Others wore broad smiles
 
 One person was harder to read.
 
-The elderly middle-aged man seated at the head of the table.
+Vice President Park Daewon, an aging, middle-aged man at the head of the table.
 
 “Welcome, Team Leader Choi Minwoo.”
 
@@ -246,9 +246,9 @@ Awkward coughs came from around the table. Team Leader Choi paid them no mind as
 
 “I see five empty seats. Where are the three advisers and the directors of the United States and France branches?”
 
-A middle-aged man with a prickly appearance answered with an uncomfortable expression.
+A prickly-looking middle-aged man spoke up.
 
-“You seem very interested in our people.”
+“You seem to know quite a bit about our people.”
 
 “I have a good memory, Executive Director Baek.”
 
@@ -262,19 +262,19 @@ Baek fell silent. One of the executives who had sided with me ten days ago answe
 
 “The three advisers cited illness. As I understand it, the two branch directors refused to attend.”
 
-“I specifically told them to attend. It seems my wishes weren’t conveyed properly.”
+“I specifically asked them to come. Perhaps my message wasn’t conveyed clearly.”
 
-Team Leader Choi muttered this calmly, and Executive Director Baek spoke again.
+Team Leader Choi sounded perfectly calm. Executive Director Baek spoke up again.
 
 “This isn’t an official meeting. We gathered at an outsider’s request. No one was obliged to attend, even if that outsider…”
 
-After hesitating for a moment, he continued in a distinctly quieter voice.
+He hesitated, then finished in a noticeably smaller voice.
 
 “…is that person’s maternal grandson.”
 
 “You’re right.”
 
-Team Leader Choi nodded in agreement, then took a small note from inside his clothes and handed it over.
+Team Leader Choi nodded, took a small note from inside his jacket, and handed it to Baek.
 
 “What’s this?”
 
@@ -290,7 +290,7 @@ Baek read it and swallowed hard.
 
 “N-no! What are you talking about? I’m fine!”
 
-I stood with my arms crossed, watching the situation, and muttered.
+I watched with my arms crossed.
 
 “Wasn’t that ‘I’m fine’ a bit too casual?”
 

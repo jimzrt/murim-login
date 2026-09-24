@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The occupying force had arrived: one polite, one rude, and neither to be avoided.",
+      "defect": "The Korean describes the arrival itself as simultaneously polite and rude, but the English assigns politeness to one person and rudeness to the other, changing the joke.",
+      "id": "F01",
+      "rationale": "정중한 동시에 무례한 describes one arrival that is both polite and rude; it does not distinguish the two people that way.",
+      "replacement": "The occupying force had arrived: polite and rude at once, and impossible to avoid.",
+      "severity": "minor",
+      "source": "Lines 13, 229"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Vice President Park Daewon had barely finished when objections erupted from all sides.",
+      "defect": "The translation omits Park's anxious appearance.",
+      "id": "F02",
+      "rationale": "초조한 기색의 중년인 explicitly describes Park as looking anxious before his words prompt the responses.",
+      "replacement": "The anxious-looking middle-aged man, Vice President Park Daewon, had barely finished speaking when objections erupted from all sides.",
+      "severity": "minor",
+      "source": "Line 13"
+    }
+  ],
+  "summary": "Mostly faithful, with one changed joke and a few omitted or added details.",
+  "version": 1
+}
