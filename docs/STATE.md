@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 999
-- Next chapter: 1000
-- Current block: 995–999 (5/5)
-- Latest translation: `translations/0999.md`
-- Latest summary: `summaries/beats/0999.md`
-- Safe profiles through: chapter 999
+- Last completed: 1000
+- Next chapter: 1001
+- Current block: 1000–1004 (1/5)
+- Latest translation: `translations/1000.md`
+- Latest summary: `summaries/beats/1000.md`
+- Safe profiles through: chapter 1000
 
 ## Current Block
 
-- Taekyung and the Fire Dragon Pavilion meet Zhongnan’s party on the road. He and Jeok Cheongang needle Song Il and Hwangbo Eom over their past conduct and Zhongnan’s tardy, reduced reinforcements to Shanxi. Jeok reveals his restored youth, greets Sect Leader Gong Iljung, and pointedly calls out the party’s delay; Taekyung suspects Song and Hwangbo have been holding Zhongnan back.
+- Song Il and Hwangbo Eom apologize to the Jin Family of Taiyuan and Ju Hwaran for their past wrongs. Taekyung accepts their apologies publicly while privately making clear that trust requires honesty; the two elders acknowledge their lingering resentment but agree to fight alongside the Zhongnan Sect against Dark Heaven. Gong Iljung explains that Zhongnan held back its main force to protect the sect. Taekyung accepts the explanation, and both groups set out for Gansu.
 
 ## Open Questions
 
 - Where will Dark Heaven’s advancing army strike, and what is its objective?
 - What caused the System malfunction, and is it connected to the Lord of Heaven?
 - Why did Sama Pyo’s father order him to return immediately?
-- Why have Song Il and Hwangbo Eom been holding Zhongnan’s party back?
 
 ## Exceptional Decision
 
