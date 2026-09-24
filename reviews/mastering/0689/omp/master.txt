@@ -40,7 +40,7 @@ At the thought of the man whose entire life had been a lie, Yohi instinctively r
 
 *Ah. That’s right.*
 
-She remembered losing her flexible sword after being drugged by an unidentified substance.
+She remembered dropping the sword after being drugged.
 
 She had never taken the antidote, so naturally, her internal energy would still be sealed…
 
@@ -158,7 +158,7 @@ Fourth, there were only two possible explanations.
 
 A dream. Or the afterlife.
 
-Yohi did not hesitate. She slammed her head against the rock wall.
+Yohi slammed her head against the wall.
 
 Thud.
 
@@ -200,7 +200,7 @@ Her senses did seem awfully vivid for a ghost. Then again, anyone who claimed th
 
 Yohi buried her face in Muyaho’s soft fur and wept.
 
-At least, that was what she did until her hand grasped something soft and swishing.
+Until something soft and swishing brushed against her hand.
 
 Grab.
 
@@ -210,7 +210,7 @@ At first, she was too busy crying to notice. Then she wondered what she had caug
 
 At Muyaho’s sharp cry, she raised her head and saw the long, snow-white tail in her hand.
 
-*What? It’s a tail. I thought it was something else.*
+*Oh. It’s a tail. For a moment, I thought…*
 
 Yohi buried her face in the fur again. A moment later, she lifted her head.
 
@@ -242,7 +242,7 @@ As though it had read her thoughts, Muyaho stopped circling her and moved.
 
 The massive White Tiger bent its hind legs to one side. Yohi caught a hint of meaning in its clear blue-white eyes.
 
-“You want me to ride you? On your back?”
+“You want me to get on your back?”
 
 —Grrr.
 
@@ -252,9 +252,9 @@ She had heard it was intelligent. She had not realized just how intelligent.
 
 Yohi studied Muyaho with fresh amazement, then carefully climbed onto its back. When she gripped its white fur, it stretched a huge forepaw toward the wall.
 
-Clomp.
+Step.
 
-It was so enormous that a single step brought the rock wall right in front of them. Yohi squeezed her eyes shut.
+One stride brought them right up against the stone. Yohi squeezed her eyes shut.
 
 *Please.*
 
@@ -268,7 +268,7 @@ A strange sensation swept through her, as though she were being pulled somewhere
 
 It was bright. Warm.
 
-Light instead of darkness. Trees overflowing with life instead of cold rock walls. A place filled with every kind of flower instead of vines.
+Light instead of darkness. Living trees instead of cold stone. Flowers of every kind in place of vines.
 
 An entirely new world lay before her. For a moment, its peace and beauty made her forget everything else.
 
@@ -280,7 +280,7 @@ The white tiger shot down a path lined with plants and flowers without a moment�
 
 Tap-tap. Swoooosh!
 
-A refreshing wind scattered around them, wrapping around their entire bodies. At the same time, beyond the scenery rushing past them, countless animals of every shape and color watched them with curious eyes.
+Cool wind swept over her as the scenery raced past. Animals of every shape and color watched them with curious eyes.
 
 Mountain birds nested in impossibly tall trees. A roe deer and a wild boar basked together amid the thick grass. There was even a bear letting the mismatched pair lean against its body.
 
@@ -298,15 +298,15 @@ The words *dark arts* flashed through her mind.
 
 Then the path that had seemed to go on forever ended at a small pond.
 
-Someone was there.
+And there was someone beside it.
 
 “Jin Taekyung!”
 
 It was him.
 
-His well-balanced, muscular body and red armor covering his upper body stood out clearly even from a distance. He was collapsed, half-submerged in the clear water.
+His muscular build and the red armor over his upper body were unmistakable even from a distance. He lay collapsed, half-submerged in the clear water.
 
-But contrary to Yohi’s desperate urgency, the White Tiger’s paws, which had moved forward without pause until now, were fixed in place as though nailed to the ground.
+Only a little over ten zhang separated them. But despite Yohi’s urgency, Muyaho, which had run without stopping until now, stood rooted to the spot.
 
 —Grrrr.
 

@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled chapter is faithful overall, with one minor omission of Yohi’s wariness.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 33–34",
+      "current": "she looked around in fear.",
+      "defect": "The source says Yohi is seized by both fear and wariness before looking around. The translation preserves her fear but drops her guarded suspicion.",
+      "replacement": "she looked around, wary and afraid.",
+      "rationale": "The Korean pairs 경계심 (wariness) with 두려움 (fear); both emotional cues are present in the accepted baseline.",
+      "confidence": 0.97
+    }
+  ]
+}
