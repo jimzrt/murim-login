@@ -88,7 +88,7 @@ His roar tore through the darkness, carrying the warning farther and faster.
 
 Hundreds of torches flared to life here and there below a distant ridge. Looking down at them, the Beast Miao King shouted to the guards running around him.
 
-“Gisan. Dogok. Go to the Outer Palace. Find the tribal chiefs staying there, reassure the people, and mobilize the warriors to prepare for a possible foreign invasion!”
+“Gisan. Dogok. Go to the Outer Palace. Find the tribal chiefs staying there and tell them to reassure the people, mobilize their warriors, and prepare for a possible invasion!”
 
 “Yes, sir!”
 
@@ -96,7 +96,7 @@ Hundreds of torches flared to life here and there below a distant ridge. Looking
 
 “At your command!”
 
-“The remaining three of you, find the other great chieftains and inform them of the situation. Tell each of them to mobilize one hundred elite warriors and head for Ailao Mountain!”
+“The other three, find the great chieftains and tell them what’s happened. Each is to bring one hundred elite warriors to Ailao Mountain!”
 
 He delivered his orders without missing a beat to the Seven Miao Tigers, his personal guard of the Miao people’s finest warriors. Then his gaze moved to his late-born son, running hard behind him.
 
@@ -136,7 +136,7 @@ I ducked a branch rushing toward my face and asked cautiously, “Are you giving
 
 *Grrrr!*
 
-“Whoa. Why are you getting so angry? If it’s not, just say no.”
+“Whoa. Why are you both so angry? You could just say no.”
 
 “No! If you save even a little strength, you’ll be more help to Father!”
 
@@ -146,9 +146,9 @@ So much for man and beast understanding each other without words. They were both
 
 Still…
 
-*It would definitely be much better to ride him.*
+*Riding him would definitely help.*
 
-If I ended up facing Dark Heaven under the command of the Southern Heaven Demon Empress at Ailao Mountain, then, as Yayul Mok had said, it would be best to conserve as much strength as possible.
+I had more internal energy than most people in the Central Plains could hope to possess, but it wasn’t an inexhaustible spring. If Dark Heaven and the Southern Heaven Demon Empress were waiting at Ailao Mountain, I’d be better off conserving every bit of strength I could.
 
 *Good kid.*
 
@@ -166,7 +166,7 @@ For a moment, there was only the wind and the sound of branches brushing past us
 
 “What an insolent thug. You dare suggest attacking an old man…”
 
-“Quit complaining and go. Your retirement plans are looking bright, so don’t get dragged into this for no reason. And our kids can’t just sit around doing nothing either.”
+“Quit complaining and go. You’ve got your whole retirement ahead of you. No sense getting caught up in this. Besides, our people can’t just sit around doing nothing.”
 
 I wasn’t dismissing him. I was looking out for him. Namho might be a Hidden Shadow Pavilion agent who’d been through every kind of hardship, but he was still an old man who hadn’t learned a single move of martial arts.
 
@@ -190,7 +190,7 @@ Namho’s body had aged, but his mind hadn’t dulled in the slightest. He gave 
 
 “And dying is even more out of the question.”
 
-Yayul Mok took Namho from me, then, with a glance, kicked off White Tiger’s back and sprang away.
+I gave him a faint smile instead of an answer. Yayul Mok took Namho from me, signaled with his eyes, and sprang off White Tiger’s back.
 
 *Tap. Whoosh!*
 
@@ -198,11 +198,11 @@ A shadow swept through the hazy moonlight. Yayul Mok and the Seven Miao Tigers l
 
 *Crack-crack-crack! Smash!*
 
-I climbed onto White Tiger’s back, which Yayul Mok had left behind, and heard the Beast Miao King’s voice through the wind rushing violently past my ears.
+Thick branches snapped and dense undergrowth was trampled flat. I climbed onto the White Tiger Yayul Mok had left with me and heard the Beast Miao King’s voice through the wind rushing past my ears.
 
 “Do you think Dark Heaven is behind this?”
 
-“We’ll have to get there to know for sure, but the possibility is high. At the very least, it’ll be connected somehow.”
+“We won’t know until we get there, but it’s likely. They’re involved somehow, at the very least.”
 
 His face had gone rigid. I spoke again.
 
@@ -250,7 +250,7 @@ The sect’s disciples were reduced to bones, but the venomous beasts and fierce
 
 Slowly. Secretly.
 
-And that former headquarters of the Five Poisons Sect was none other than…
+And those former headquarters were…
 
 “Right there. Ailao Mountain.”
 

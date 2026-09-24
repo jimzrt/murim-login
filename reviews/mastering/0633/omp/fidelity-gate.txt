@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled English is broadly faithful, but it omits a small emotional beat and loses an explicit image of silence.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean lines 231–233",
+      "current": "Yayul Mok took Namho from me, then, with a glance, kicked off White Tiger’s back and sprang away.",
+      "defect": "The English omits the narrator’s faint smile in response to Namho’s concern.",
+      "replacement": "I answered his concern with a faint smile instead of words. Yayul Mok took Namho from me, then, with a glance, kicked off White Tiger’s back and sprang away.",
+      "rationale": "The source explicitly says the narrator answers Namho’s concern with a slight smile before Yayul Mok takes him. The accepted baseline also preserves this emotional beat.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Korean line 197",
+      "current": "For a moment, there was only the wind and the sound of branches brushing past us.",
+      "defect": "The source describes silence winding between the passing wind and the branches; the English replaces that image with the sound of branches.",
+      "replacement": "For a moment, silence drifted between the passing wind and the branches brushing past us.",
+      "rationale": "The Korean explicitly names silence (침묵) among the wind and branches, and the accepted baseline preserves it.",
+      "confidence": 0.94
+    }
+  ]
+}

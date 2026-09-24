@@ -1,0 +1,2217 @@
+{
+  "baseline_blocks": 140,
+  "baseline_sha256": "7269a92666a6ad206bf2229d153325379ff05d5c220d4f1c86dc99a4c31795e0",
+  "global_terminology_alerts": [],
+  "hunk_count": 111,
+  "hunks": [
+    {
+      "baseline": "The voice from outside was hushed as much as possible, but neither its urgency nor the presence behind it could be concealed.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "The voice outside was hushed, but there was no hiding the urgency in it—or the sound of someone approaching.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the call, presumably from one of his guards, the Beast Miao King and Yayul Mok sharply raised their heads.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "The Beast Miao King and Yayul Mok snapped their heads up at the call, which seemed to come from one of the guards.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Something has happened at Ailao Mountain…!”",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "“Something’s happened at Ailao Mountain…!”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A powerful wave of qi suddenly shot out and swept through the shrine.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "15",
+      "sol": "A powerful wave of qi burst forth and swept through the shrine. The Beast Miao King shattered the decrepit door and glared at his man.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Beast Miao King shattered the decrepit door and shouted at one of his men with wide, blazing eyes.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "17",
+      "sol": "",
+      "sol_paragraphs": "after P7",
+      "sol_range": [
+        7,
+        7
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "“Something happened at Ailao Mountain? What do you mean?”",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "“What do you mean, something’s happened at Ailao Mountain?”",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And at that very moment, a low ringing tone pierced my ears before the voice could reach me.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "Before his shout reached my ears, a soft chime sounded.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "> **System**\n>\n> - A sudden quest, **Unknown Omen**, has been generated!\n>\n> **Quest**\n>\n> **Unknown Omen**\n>\n> Nanman’s forbidden land, Ailao Mountain, is screaming.\n>\n> Across its countless high and treacherous peaks, bodies torn to pieces hang in the open air. Blood from something unknown flows along the thousand-foot cliffs between them. The endless howls rising from that place, shrouded in black clouds and mist, have filled everyone with fear.\n>\n> And now, a new path has appeared before you.\n>\n> **Grade:** Sudden Quest\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Investigate Ailao Mountain within the time limit (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** ???\n>\n> - Would you like to accept the quest?",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "27",
+      "sol": "> **System**\n>\n> - A sudden quest, **Unknown Omen**, has been generated!\n>\n> **Quest**\n>\n> **Unknown Omen**\n>\n> Nanman’s forbidden land, Ailao Mountain, is screaming.\n>\n> Bodies torn to pieces hang from its countless high, treacherous peaks. Blood from something unknown runs down the thousand-fathom cliffs between them. Endless howls pour from the mountain, shrouded in black clouds and mist, filling everyone with fear.\n>\n> And now, a new path has appeared before you.\n>\n> **Grade:** Sudden Quest\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Investigate Ailao Mountain within the time limit (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** ???\n>\n> - Would you like to accept the quest?",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*An unknown omen, huh?*",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "*Unknown Omen, huh?*",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I muttered inwardly, then suddenly thought the quest title needed to be changed.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "33",
+      "sol": "",
+      "sol_paragraphs": "after P12",
+      "sol_range": [
+        12,
+        12
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "퀘스트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Quest"
+        }
+      ]
+    },
+    {
+      "baseline": "Not *Unknown Omen*, but *Fucking Obvious Omen*.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "37",
+      "sol": "The title needed changing. Not *Unknown Omen*, but *Fucking Obvious Omen*.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Of course, putting that aside, I already knew what answer I had to give in this situation.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "39",
+      "sol": "That aside, there was only one answer I could give.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Time, which had been frozen, began to flow again. Before even a moment had passed, we set out for Ailao Mountain, racing through the predawn darkness.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "49",
+      "sol": "The frozen time began to move again. Before even a moment had passed, we set out through the predawn darkness for Ailao Mountain.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They said that the warriors of the Nanman Beast Palace grew up alongside fierce beasts.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "53",
+      "sol": "The warriors of the Nanman Beast Palace were said to grow up alongside fierce beasts.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They grew up together from childhood, forming bonds along the way. After completing their coming-of-age ceremony and being recognized as full-fledged warriors, they officially became the beasts’ owners and companions.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "57",
+      "sol": "From childhood, warrior and beast formed a bond. Once a warrior completed the coming-of-age ceremony and was recognized as a full-fledged warrior, they officially became the beast’s owner and companion.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "However, even this venerable tradition, with its history of several hundred years, had exceptions, as everything did.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "61",
+      "sol": "But even a centuries-old tradition had its exceptions.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Beast Miao King Yayul Cheok was someone who had no need for the help of a beast.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "65",
+      "sol": "The Beast Miao King, Yayul Cheok, had no need of a beast’s help. He probably never had, even as a child.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had probably been that way since childhood, and he was the same even now.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "67",
+      "sol": "",
+      "sol_paragraphs": "after P24",
+      "sol_range": [
+        24,
+        24
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He was the greatest warrior Nanman had ever produced—and a beast himself.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "69",
+      "sol": "He was the greatest warrior Nanman had ever produced—and a beast in his own right.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Leading the way through a jungle filled with darkness and tangled grass, the Beast Miao King let out a mighty roar.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "73",
+      "sol": "Leading us through the dark, overgrown jungle, the Beast Miao King let out a mighty roar.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was quite literally the roar of a beast. Rougher, more savage, and far more primal than the lion’s roar, the supreme technique of Shaolin Temple imbued with the power to subdue demons.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "79",
+      "sol": "It was a beast’s roar in every sense: rougher, more savage, and far more primal than Shaolin Temple’s lion’s roar, a supreme technique with the power to subdue demons.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Beast Miao King’s roar tore through the deep darkness and spread farther and faster, announcing a warning.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "83",
+      "sol": "His roar tore through the darkness, carrying the warning farther and faster.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "Looking down at the hundreds of torches rising in various places beneath a distant mountain ridge, the Beast Miao King shouted at the guards running around him.",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "87",
+      "sol": "Hundreds of torches flared to life here and there below a distant ridge. Looking down at them, the Beast Miao King shouted to the guards running around him.",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Gisan. Dogok. Go to the Outer Palace. Find the tribal chiefs staying there, reassure the people, and mobilize the warriors to prepare for a possible foreign invasion!”",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "91",
+      "sol": "“Gisan. Dogok. Go to the Outer Palace. Find the tribal chiefs staying there and tell them to reassure the people, mobilize their warriors, and prepare for a possible invasion!”",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Wonhu. Manjeok. You’re going to the Inner Palace. Mobilize the Miao warriors and protect the inside of the palace!”",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "95",
+      "sol": "“Wonhu. Manjeok. You’re going to the Inner Palace. Mobilize the Miao warriors and guard the palace!”",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The remaining three of you, find the other great chieftains and inform them of the situation. Tell each of them to mobilize one hundred elite warriors and head for Ailao Mountain!”",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "99",
+      "sol": "“The other three, find the great chieftains and tell them what’s happened. Each is to bring one hundred elite warriors to Ailao Mountain!”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Beast Miao King gave a series of precise orders to the Seven Miao Tigers, his personal guard made up of the finest warriors among the Miao people.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "101",
+      "sol": "He delivered his orders without missing a beat to the Seven Miao Tigers, his personal guard of the Miao people’s finest warriors. Then his gaze moved to his late-born son, running hard behind him.",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "Then his gaze slid toward his late-born son, who was running hard behind him.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "103",
+      "sol": "",
+      "sol_paragraphs": "after P36",
+      "sol_range": [
+        36,
+        36
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……Yes, Father.”",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "107",
+      "sol": "“…Yes, Father.”",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yayul Mok’s grim expression had nothing to do with the darkness settling around us.",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "109",
+      "sol": "",
+      "sol_paragraphs": "after P38",
+      "sol_range": [
+        38,
+        38
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "야율목",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yayul Mok"
+        },
+        {
+          "korean": "야율",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yayul"
+        }
+      ]
+    },
+    {
+      "baseline": "As though he had already anticipated what his father was about to say, he answered in a dull voice. The Beast Miao King continued in a firm tone.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "111",
+      "sol": "The darkness around us wasn’t why Yayul Mok looked so grim. He answered faintly, as though he already knew what was coming.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "“Go with them. Gather the warriors under the Miao people and raise a force in case something happens.”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "113",
+      "sol": "“Go with them,” the Beast Miao King said firmly. “Gather the warriors under the Miao people and raise a force in case of trouble.”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Have you forgotten? You’re the Young Chieftain of the Miao people and the Young Palace Lord of the Nanman Beast Palace.”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "117",
+      "sol": "“Have you forgotten? You’re the Miao people’s Young Chieftain and the Nanman Beast Palace’s Young Palace Lord.”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This was when I realized once again why the Beast Miao King was the lord of the Nanman Beast Palace.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "119",
+      "sol": "",
+      "sol_paragraphs": "after P42",
+      "sol_range": [
+        42,
+        42
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남만야수궁",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman Beast Palace"
+        },
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        },
+        {
+          "korean": "남만",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman"
+        }
+      ]
+    },
+    {
+      "baseline": "When I had first met him, he had seemed relaxed, like a well-fed male lion. But now, he was a beast with its prey right in front of it.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "121",
+      "sol": "It was a reminder of why this man ruled the Nanman Beast Palace. When we’d first met, he’d seemed as easygoing as a well-fed lion. Now he was a beast with prey right in front of him.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Yayul Mok wasn’t immature enough to disobey his father’s unyielding orders in a situation like this.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "123",
+      "sol": "And Yayul Mok wasn’t childish enough to defy his father’s orders at a time like this.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……I obey, Palace Lord.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "125",
+      "sol": "“…I obey, Palace Lord.”",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But contrary to his answer, Yayul Mok did not immediately leave the formation.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "127",
+      "sol": "",
+      "sol_paragraphs": "after P45",
+      "sol_range": [
+        45,
+        45
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "야율목",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yayul Mok"
+        },
+        {
+          "korean": "야율",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yayul"
+        }
+      ]
+    },
+    {
+      "baseline": "Instead, he moved right beside me as I ran alongside the Beast Miao King and made an unexpected proposal.",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "129",
+      "sol": "Yet he didn’t leave us at once. He drew close to me as I ran beside the Beast Miao King and made an unexpected offer.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The one Yayul Mok was talking about was none other than White Tiger, which made the offer all the more surprising.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "137",
+      "sol": "",
+      "sol_paragraphs": "after P49",
+      "sol_range": [
+        49,
+        49
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "백호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "White Tiger"
+        },
+        {
+          "korean": "야율목",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yayul Mok"
+        },
+        {
+          "korean": "야율",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yayul"
+        }
+      ]
+    },
+    {
+      "baseline": "The warriors of Nanman considered the beasts who fought alongside them their most precious comrades—and their family.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "139",
+      "sol": "He meant White Tiger, which made the offer all the more surprising. Nanman’s warriors considered the beasts at their sides their dearest comrades—and family.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I dodged a branch that shot right into my face and asked carefully.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "143",
+      "sol": "I ducked a branch rushing toward my face and asked cautiously, “Are you giving him away? Putting him up for adoption?”",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Are you giving him away? Like, to a new family?”",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "145",
+      "sol": "",
+      "sol_paragraphs": "after P52",
+      "sol_range": [
+        52,
+        52
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What nonsense!”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "147",
+      "sol": "“Don’t be ridiculous!”",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Whoa. Why are you getting so angry? If it’s not, just say no.”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "151",
+      "sol": "“Whoa. Why are you both so angry? You could just say no.”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“No! If you conserve even a little of your strength, you can be of greater help to Father!”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "153",
+      "sol": "“No! If you save even a little strength, you’ll be more help to Father!”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It wasn’t for nothing that they said hearts could communicate without words. Man and beast were both being fucking ridiculous as a pair.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "157",
+      "sol": "So much for man and beast understanding each other without words. They were both throwing the same fucking fit.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Anyway…*",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "159",
+      "sol": "Still…",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It would definitely be much better to ride him.*",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "161",
+      "sol": "*Riding him would definitely help.*",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The amount of internal energy I possessed was a level that could not easily be found even in the Central Plains. But it wasn’t as though it sprang up endlessly from some bottomless reservoir.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "163",
+      "sol": "",
+      "sol_paragraphs": "after P60",
+      "sol_range": [
+        60,
+        60
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "공력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "internal energy"
+        },
+        {
+          "korean": "중원",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Central Plains"
+        }
+      ]
+    },
+    {
+      "baseline": "If I ended up facing Dark Heaven under the command of the Southern Heaven Demon Empress at Ailao Mountain, then, as Yayul Mok had said, it would be best to conserve as much strength as possible.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "165",
+      "sol": "I had more internal energy than most people in the Central Plains could hope to possess, but it wasn’t an inexhaustible spring. If Dark Heaven and the Southern Heaven Demon Empress were waiting at Ailao Mountain, I’d be better off conserving every bit of strength I could.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "야율목",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yayul Mok"
+        },
+        {
+          "korean": "야율",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Yayul"
+        }
+      ]
+    },
+    {
+      "baseline": "*What a good kid.*",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "167",
+      "sol": "*Good kid.*",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I hadn’t been in Nanman for very long, but I understood what it meant for someone here to lend me their beast.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "169",
+      "sol": "",
+      "sol_paragraphs": "after P62",
+      "sol_range": [
+        62,
+        62
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남만",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman"
+        }
+      ]
+    },
+    {
+      "baseline": "I looked at Yayul Mok with an approving gaze and decided to give him a present in return.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "171",
+      "sol": "I hadn’t been in Nanman long, but I knew what it meant for a warrior to lend someone his beast. I gave Yayul Mok an approving look and decided to offer him a gift in return.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Here. Don’t refuse just because you feel burdened. If something comes in, something should go out.”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "173",
+      "sol": "“Here. Don’t turn it down because you feel bad. Give and take, right?”",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "Silence flowed between the passing wind and swaying branches.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "177",
+      "sol": "",
+      "sol_paragraphs": "after P65",
+      "sol_range": [
+        65,
+        65
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Namho, who was being held in both my arms like a piece of luggage, spoke with a grim expression.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "179",
+      "sol": "For a moment, there was only the wind and the sound of branches brushing past us. Namho, whom I was carrying in both arms like a piece of luggage, spoke with a grave expression.",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If you were an object, we could throw you and use you to attack. Old Man Namho can’t even do that.”",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "183",
+      "sol": "“If you were, I could at least throw you at someone. I can’t even do that with you, Old Man Namho.”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Have you ever seen such a lawless thug with no respect for his elders? How dare you attack an old man…”",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "185",
+      "sol": "“What an insolent thug. You dare suggest attacking an old man…”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Quit complaining and go. Your retirement plans are looking bright, so don’t get dragged into this for no reason. And our kids can’t just sit around doing nothing either.”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "187",
+      "sol": "“Quit complaining and go. You’ve got your whole retirement ahead of you. No sense getting caught up in this. Besides, our people can’t just sit around doing nothing.”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This wasn’t me ignoring him. It was consideration.",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "189",
+      "sol": "",
+      "sol_paragraphs": "after P70",
+      "sol_range": [
+        70,
+        70
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how much hardship Namho, an agent of the Hidden Shadow Pavilion, had endured, he was still an old man who had never learned even a single move of martial arts.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "191",
+      "sol": "I wasn’t dismissing him. I was looking out for him. Namho might be a Hidden Shadow Pavilion agent who’d been through every kind of hardship, but he was still an old man who hadn’t learned a single move of martial arts.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And Namho knew that better than anyone else. He let out a deep sigh, his face filled with worry.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "193",
+      "sol": "He knew it better than anyone. He sighed, his face full of worry.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남호",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Namho"
+        }
+      ]
+    },
+    {
+      "baseline": "“I’ll make sure to tell the Fire Dragon Pavilion. That the Pavilion Master is looking for you.”",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "195",
+      "sol": "“I’ll tell the Fire Dragon Pavilion that the Pavilion Master is looking for them.”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That should be enough. I trust you’ll tell them what they need to be wary of, too.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "197",
+      "sol": "“That’s enough. I trust you’ll tell them what to watch out for, too.”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At last, the fuse attached to the Nanman powder keg had been lit.",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "199",
+      "sol": "",
+      "sol_paragraphs": "after P74",
+      "sol_range": [
+        74,
+        74
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남만",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman"
+        }
+      ]
+    },
+    {
+      "baseline": "The important question was whether the one who had lit it was an outside enemy or an enemy within.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "201",
+      "sol": "The fuse that was Nanman had finally been lit. The question was who had lit it: an enemy from outside or one within.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike his aging body, Namho’s mind had not grown old in the slightest. He gave a small nod.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "203",
+      "sol": "Namho’s body had aged, but his mind hadn’t dulled in the slightest. He gave a small nod.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Pavilion Master, there’s one last thing I want to say.”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "205",
+      "sol": "“Pavilion Master, one last thing.”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Of course, you absolutely mustn’t die, either.”",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "213",
+      "sol": "",
+      "sol_paragraphs": "after P80",
+      "sol_range": [
+        80,
+        80
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I answered his concern with a faint smile instead of words.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "215",
+      "sol": "“And dying is even more out of the question.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yayul Mok took Namho from me, then, with a glance, kicked off White Tiger’s back and sprang away.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "217",
+      "sol": "I gave him a faint smile instead of an answer. Yayul Mok took Namho from me, signaled with his eyes, and sprang off White Tiger’s back.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A shadow swept beneath the hazy moonlight.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "221",
+      "sol": "",
+      "sol_paragraphs": "after P83",
+      "sol_range": [
+        83,
+        83
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Yayul Mok and the Seven Miao Tigers disappeared into the darkness, the Beast Miao King, who had been charging on all fours like a gigantic brown bear, increased his speed.",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "223",
+      "sol": "A shadow swept through the hazy moonlight. Yayul Mok and the Seven Miao Tigers left our group and disappeared into the darkness. The Beast Miao King, racing on all fours like a gigantic brown bear, picked up his pace.",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Thick branches snapped, and dense grass was trampled beneath us.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "227",
+      "sol": "",
+      "sol_paragraphs": "after P85",
+      "sol_range": [
+        85,
+        85
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I climbed onto White Tiger’s back, which Yayul Mok had left behind, and heard the Beast Miao King’s voice through the wind rushing violently past my ears.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "229",
+      "sol": "Thick branches snapped and dense undergrowth was trampled flat. I climbed onto the White Tiger Yayul Mok had left with me and heard the Beast Miao King’s voice through the wind rushing past my ears.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Do you think this was Dark Heaven’s doing?”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "231",
+      "sol": "“Do you think Dark Heaven is behind this?”",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“We’ll have to get there to know for sure, but the possibility is high. At the very least, it’ll be connected somehow.”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "233",
+      "sol": "“We won’t know until we get there, but it’s likely. They’re involved somehow, at the very least.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I spoke again to the Beast Miao King, whose face had hardened.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "235",
+      "sol": "His face had gone rigid. I spoke again.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "“But what exactly is Ailao Mountain?”",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "237",
+      "sol": "“What exactly is Ailao Mountain?”",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It is a forbidden land. No one may enter unless they have permission.”",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "239",
+      "sol": "“Forbidden land. No one enters without permission.”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I already knew that Ailao Mountain was a forbidden land. Namho had told me on the way here, and the System had confirmed it moments ago.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "241",
+      "sol": "I already knew that much. Namho had told me on the way here, and the System had just said the same thing. The answer didn’t tell me what I wanted to know.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "촌각",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "moments"
+        },
+        {
+          "korean": "애뇌산",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ailao Mountain"
+        }
+      ]
+    },
+    {
+      "baseline": "That was why the Beast Miao King’s answer didn’t feel particularly clear.",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "243",
+      "sol": "",
+      "sol_paragraphs": "after P92",
+      "sol_range": [
+        92,
+        92
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "“But isn’t the Nanman Beast Palace the same? No, now that I think about it, most of Nanman seems to be like that.”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "245",
+      "sol": "“Isn’t the Nanman Beast Palace the same way? Actually, that seems true of most of Nanman.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s different. Completely different. The most outstanding warriors from each tribe enter that place and stand guard.”",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "247",
+      "sol": "“It’s different. Entirely different. The finest warriors of each tribe go in to keep watch over that place.”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why on earth…?”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "249",
+      "sol": "“Why would they need to…?”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It happened more than three hundred years ago. Back when my ancestor’s ancestor—and his ancestor before him—were living in Nanman. At that time, more than a hundred tribes had been waging wars of life and death across this land for generations. Dozens of tribes vanished in the process, and the descendants who barely survived established a sect of their own in the deepest reaches of Nanman. Then they began handling something more dangerous than any sharp weapon or beast.”",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "251",
+      "sol": "“This began more than three hundred years ago, when my ancestors’ ancestors lived in Nanman. For generations, over a hundred tribes had fought and killed one another across this land. Dozens vanished. The descendants who barely survived founded a sect of their own in Nanman’s deepest reaches—and began working with something more dangerous than any blade or beast.”",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that moment, a conversation I had shared with Jeok Cheongang in Henan several months ago flashed through my mind.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "253",
+      "sol": "",
+      "sol_paragraphs": "after P96",
+      "sol_range": [
+        96,
+        96
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        },
+        {
+          "korean": "하남",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Henan"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "It had been about the history of the Nanman Beast Palace, which was connected to the deeds of the former Sect Leaders of the Fire Gate Clan.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "255",
+      "sol": "A conversation I’d had with Jeok Cheongang in Henan several months earlier flashed through my mind. We’d spoken of the Nanman Beast Palace’s history and its connection to the former Sect Leaders of the Fire Gate Clan. That history was also one reason the palace had joined the Great Faction War.",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That history was also one of the reasons the Nanman Beast Palace had taken part in the Great Faction War.",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "257",
+      "sol": "",
+      "sol_paragraphs": "after P97",
+      "sol_range": [
+        97,
+        97
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남만야수궁",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman Beast Palace"
+        },
+        {
+          "korean": "정마대전",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Great Faction War"
+        },
+        {
+          "korean": "남만",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman"
+        }
+      ]
+    },
+    {
+      "baseline": "*If that’s the case…*",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "259",
+      "sol": "*In that case…*",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I muttered softly.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "263",
+      "sol": "",
+      "sol_paragraphs": "after P99",
+      "sol_range": [
+        99,
+        99
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Poison. It was poison.”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "265",
+      "sol": "“Poison,” I murmured. “It was poison.”",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s right. That was the beginning of the Five Poisons Sect, which terrorized Nanman for the next hundred years.”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "267",
+      "sol": "“Yes. That was the beginning of the Five Poisons Sect, which would terrorize Nanman for the next hundred years.”",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "We crossed towering peaks, leaped over hills, and raced through the dense forest, stepping on the tops of trees.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "269",
+      "sol": "",
+      "sol_paragraphs": "after P101",
+      "sol_range": [
+        101,
+        101
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Beast Miao King curled his hands like claws, struck a thick tree, and sent it flying before continuing.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "271",
+      "sol": "We crossed a towering peak, leaped from a hill, and raced across the tops of the dense trees. The Beast Miao King swept his clawed hand into a thick tree and sent it flying as he continued.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“They say an enormous number of people died. The riverbanks were littered with dead fish, and the beasts that unwittingly ate the fish washed downstream died as well. Poison spread through the wells, and an unknown epidemic broke out. When thousands upon tens of thousands had died, the tribes that had once been divided finally gathered beneath a single banner and began a new war.”",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "273",
+      "sol": "“Countless people died, they say. Dead fish filled the riverbanks. Beasts ate fish that had washed downstream and died too. Poison spread through the wells, and an unknown epidemic broke out. After thousands—tens of thousands—had died, the divided tribes finally gathered beneath one banner and began a new war.”",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That was the birth of the Nanman Beast Palace.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "275",
+      "sol": "That was how the Nanman Beast Palace was born.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But death bred death, and revenge returned as revenge.",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "277",
+      "sol": "",
+      "sol_paragraphs": "after P104",
+      "sol_range": [
+        104,
+        104
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And just as the Nanman Beast Palace and the Five Poisons Sect were waging a fierce war, trapped in an endlessly turning cycle of vengeance, an outsider arrived from the distant Central Plains.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "279",
+      "sol": "But death bred death, and vengeance brought more vengeance. While the Nanman Beast Palace and the Five Poisons Sect fought their bitter war, trapped in that unending cycle, a stranger arrived from the distant Central Plains.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He claimed to be the Sect Leader of the Fire Gate Clan. It was an unfamiliar name, one my ancestors had probably never heard in their lives, but that likely didn’t matter to them. The moment he entered Nanman, he burned to death the one hundred warriors of the Five Poisons Sect who had ambushed him.”",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "281",
+      "sol": "“He called himself the Sect Leader of the Fire Gate Clan. My ancestors had probably never heard the name, but I doubt that mattered to them. The moment he entered Nanman, he burned to death the hundred Five Poisons Sect warriors who attacked him.”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Fire Gate Clan’s Sect Leader of that era had not appreciated the Five Poisons Sect’s unexpectedly grand welcome.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "283",
+      "sol": "The Sect Leader of that era hadn’t appreciated the Five Poisons Sect’s unexpectedly grand welcome. Like most martial artists, he hated poison, too.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "열화문",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Fire Gate Clan"
+        }
+      ]
+    },
+    {
+      "baseline": "Like most martial artists, he also hated poison.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P107",
+      "sol_range": [
+        107,
+        107
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He planted his ass on the scales of power and crushed the balance between them, then led the Nanman Beast Palace and reduced the Five Poisons Sect to ashes.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "287",
+      "sol": "So he planted his ass on the scales of power, crushed the balance, and led the Nanman Beast Palace in reducing the Five Poisons Sect to ashes.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The disciples of the Five Poisons Sect had turned to white bones, but the venomous beasts and fierce beasts they released in their final moments continued multiplying deep in the mountains where the sect had once made its headquarters.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "291",
+      "sol": "The sect’s disciples were reduced to bones, but the venomous beasts and fierce animals they released in their final moments multiplied deep in the mountains where their headquarters had stood.",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "오독문",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Five Poisons Sect"
+        }
+      ]
+    },
+    {
+      "baseline": "Slowly.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "293",
+      "sol": "",
+      "sol_paragraphs": "after P110",
+      "sol_range": [
+        110,
+        110
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Secretly.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "295",
+      "sol": "Slowly. Secretly.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And that former headquarters of the Five Poisons Sect was none other than…",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "297",
+      "sol": "And those former headquarters were…",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "오독문",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Five Poisons Sect"
+        }
+      ]
+    },
+    {
+      "baseline": "“That place right there. Ailao Mountain.”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "299",
+      "sol": "“Right there. Ailao Mountain.”",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I followed the Beast Miao King’s fingertip and raised my head.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "301",
+      "sol": "I looked up, following the Beast Miao King’s pointing finger.",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Far in the distance, a black mountain filled with peaks shrouded in clouds and mist came into view.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "303",
+      "sol": "Far in the distance, a black mountain rose into view, its many peaks shrouded in clouds and mist.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 115,
+  "sol_sha256": "0108619a5c32f07476ba7c311851882ea98f95a8b1f0eee517bf248a21985747",
+  "version": 1
+}
