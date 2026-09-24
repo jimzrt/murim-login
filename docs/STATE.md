@@ -1,22 +1,24 @@
 # Translation State
 
-- Last completed: 986
-- Next chapter: 987
-- Current block: 985–989 (2/5)
-- Latest translation: `translations/0986.md`
-- Latest summary: `summaries/beats/0986.md`
-- Safe profiles through: chapter 986
+- Last completed: 987
+- Next chapter: 988
+- Current block: 985–989 (3/5)
+- Latest translation: `translations/0987.md`
+- Latest summary: `summaries/beats/0987.md`
+- Safe profiles through: chapter 987
 
 ## Current Block
 
-- After regaining consciousness, the dying Thunderbolt Saber King asks Jin Taekyung to inherit all his remaining internal energy through the dangerous forbidden technique Transmitting Internal Energy Across the Body. Taekyung accepts the System’s emergency Quest, trusting that the transfer is for the sake of the world. Jeok Cheongang believes Taekyung has a chance of surviving because of his extraordinary physique, divine healing power, and prior successful transfer; the transfer begins.
+- Jin Taekyung fully absorbs the Heavenly Power Demon’s energy into his own Scorching Yang Qi, then endures and absorbs the lightning passed on by the dying giant. The lightning connecting his Lower and Middle Dantians disappears, and the Middle Dantian’s summit lights up, but Taekyung stops before reaching the Upper Dantian.
+- As Taekyung becomes one with the three unified currents of energy and loses consciousness, an unfamiliar but strangely familiar voice tells him, “A wise choice. Just like back then.”
 
 ## Open Questions
 
 - What is the Alliance Leader’s message to Jin Wikyung?
-- Will Jin Taekyung survive the dangerous transfer of the Thunderbolt Saber King’s internal energy?
-- Why did Murong Baek suggest that the Western, Southern, and Eastern Heaven Demon Lords’ plans failed, and what did he mean by implying the situation may have been predetermined or that he was used?
+- Are the Murong survivors innocent, and can they rebuild as a household?
+- Why did Murong Baek suggest the Heaven Demon Lords’ plans failed and that he may have been used?
 - Why has Dark Heaven continued costly schemes without revealing its full strength?
+- Who was the unfamiliar, strangely familiar voice that called Taekyung’s choice wise “just like back then”?
 
 ## Exceptional Decision
 
