@@ -76,7 +76,7 @@ Exactly one shichen later, the battle-hardened warrior Hyuk Mujin collapsed, vom
 
 “Bleeaagh!”
 
-“Gasp, Mujin!”
+“Mujin!”
 
 “What happened?”
 
@@ -106,7 +106,7 @@ Which meant heading somewhere even more dangerous.
 
 “Taishan was hungry. Picked red mushrooms off a tree and ate them.”
 
-“What kind of dog and pig bastard are you? After all the warnings I gave you, you ate blood-feeding fungus that even a tiger couldn’t withstand just because you were hungry? Antidotes won’t work on this!”
+“You goddamn animal! After all my warnings, you ate blood-feeding fungus just because you were hungry? Even a tiger can’t survive that stuff! Antidotes won’t work on it!”
 
 Namho flew into a rage, but his anger soon gave way to bewilderment. Taishan went into the brush to do his business and came back looking perfectly fine, despite eating a fungus that could kill a tiger.
 
@@ -190,7 +190,7 @@ They knew that going any deeper into a jungle rife with brutal endemic diseases,
 
 I doubted the non-Han peoples’ hatred of Han Chinese would ease just because we told them our names. More importantly, Dark Heaven was lurking somewhere in Nanman.
 
-*They’re definitely targeting Nanman. It’s only a matter of time before something happens.*
+*They’re definitely targeting this place. It’s only a matter of time before something happens.*
 
 I was almost certain. We hadn’t traveled like thieves in the night all the way from Henan, where the Murim Alliance headquarters stood, for nothing.
 
@@ -242,15 +242,15 @@ It felt like only yesterday I’d been suffering in this distant land of another
 
 “Whew.”
 
-At the sight of me sighing, Namho glared fiercely.
+Namho glared at me when he heard me sigh.
 
-“What? Do you also want to go down there and settle things through conversation right now? Or would you rather throw down with the non-Han peoples?”
+“What? Do you want to go down there and talk things out too? Or would you rather have a good, hard fight with the locals?”
 
 “…Where did that come from? I don’t want to do either.”
 
 “That’s a relief.”
 
-There had already been plenty of chances to throw down with someone, and there would be plenty more in the future. Even now, several predators were wandering around us, letting out their cries.
+We’d already had plenty of fights, and there would be plenty more. How many predators were prowling around us right now, making those cries?
 
 I scanned the dense jungle and swampland, then asked Namho, “How much farther?”
 
@@ -260,7 +260,7 @@ I scanned the dense jungle and swampland, then asked Namho, “How much farther?
 
 “Given that we have to stay out of sight, even that’s quick.”
 
-Namho, whose face had aged noticeably, patted his lower back before starting to walk again.
+Namho, looking older by the hour, patted his lower back and set off again.
 
 “Don’t slow down for a moment from here on. If we cross Ailao Mountain today, we can reach the Nanman Beast Palace in four days at the latest.”
 
@@ -270,6 +270,6 @@ Exactly four days later, as we crossed a high mountain peak, we spotted a massiv
 
 “The Nanman Beast Palace…”
 
-The voice that slipped from someone’s lips spread on a wind that had blown in from somewhere.
+The words slipped from someone’s lips and carried away on a wind that blew in from somewhere.
 
 [^1]: A shichen is approximately two hours, a li approximately half a kilometer, and a geun a traditional unit of weight roughly equal to 600 grams.
