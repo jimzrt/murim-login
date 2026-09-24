@@ -30,13 +30,13 @@ Damn it. This was bad. No, it was the worst possible outcome.
 
 Severing your own heart meridian was like setting off an explosion inside your body.
 
-If the Eight Extraordinary Meridians—the most important meridians in the human body—as well as the hundreds of acupoints throughout the body were severed and blocked, there was no way to survive.
+If the Eight Extraordinary Meridians—the most important in the human body—and hundreds of acupoints throughout it were severed or blocked, there was no surviving it.
 
-*Especially for a Murim practitioner.*
+*Especially if you’re a martial artist.*
 
 High risk, high return, as they say.
 
-Through qi accumulation, a Murim practitioner gained abilities that surpassed those of ordinary people. But if their heart meridian was severed, they also got a bonus one-plus-one event called qi deviation.
+By accumulating qi, martial artists gained abilities beyond those of ordinary people. But sever their heart meridian, and they got qi deviation thrown in as a one-plus-one bonus event.
 
 Just like now.
 
@@ -44,7 +44,7 @@ Just like now.
 
 Splaash!
 
-Dark-red blood and pale lumps that looked like internal organs poured endlessly from every opening I could see.
+Eyes, nose, mouth, ears. Dark-red blood poured from every opening I could see, along with pale lumps that looked like internal organs.
 
 Namho and Taishan hurried over, only to stop short at the sight.
 
@@ -56,13 +56,13 @@ Namho swallowed hard and asked in a subdued voice, “Can they be saved?”
 
 It was a pointless question. Things had already gone too far.
 
-Before I could answer, the heads of two of the men, whose entire bodies had been twitching and convulsing, fell limply to the side.
+Before I could answer, two of the men stopped convulsing. Their heads fell limply to the side.
 
 Thud.
 
 They were dead. No need to check.
 
-But it was still too early to give up. I grabbed the last masked man's wrist and poured my internal energy into him with all my strength.
+But it was too early to give up on the last one. I grabbed his wrist and poured my internal energy into him with all my strength.
 
 Sssaaaaah.
 
@@ -82,7 +82,7 @@ I poured in more internal energy, not to bring the chaos inside him under contro
 
 Rumble!
 
-His entire body struggled violently as an even greater flow of internal energy entered him.
+His whole body thrashed as the stronger current flowed into him.
 
 Then, like water settling after a violent storm, the masked man at death’s door regained a brief moment of calm and clarity.
 
@@ -114,7 +114,7 @@ He couldn’t finish, and the masked man had almost no time left.
 
 A death rattle took the place of his last words. His pupils went vacant, and the shortened tongue that had been moving inside his open mouth fell still.
 
-I stared silently at the man who had finally met his death, then spat out the curse I had been holding back.
+I stared at him as he died, then let out the curse I’d been holding back.
 
 “…Fuck.”
 
@@ -122,23 +122,19 @@ I’d known these men were no ordinary attackers. I hadn’t imagined their tong
 
 That was why they hadn’t spoken a word from beginning to end, apart from their screams. Even if they’d wanted to, they couldn’t.
 
-“Hmm. The others are the same. Judging by how the severed ends of their tongues have healed, it looks like this was done a long time ago.”
+“Mm. The others are the same.” Namho had already examined the corpses. “The cuts have healed. It was done a long time ago.”
 
-Namho quickly examined the corpses like the Hidden Shadow Pavilion agent he was, then let out a low groan.
-
-“These men… They’re all Nanman.”
+He let out a low groan, then added, “These men… They’re all Nanman.”
 
 “No Han Chinese?”
 
 “Not one. They’re dressed alike, so I can’t tell which tribes they came from, either.”
 
-The most reliable way to distinguish the Nanman was by their clothing and eating habits. But since every one of them wore black clothes and a mask, it was only natural that they were difficult to identify.
-
-Besides, there was only a subtle difference between the appearances of Han Chinese and Nanman. Trying to identify their tribe at a glance was practically absurd.
+Clothing and eating habits were the surest ways to distinguish one Nanman people from another. With all of them dressed in black and wearing masks, there was little to go on. Han Chinese and Nanman differed only subtly in appearance, too. Identifying their tribes on sight was out of the question.
 
 “…Damn it.”
 
-As I muttered a curse mixed with a sigh, Namho fixed me with a deeply serious gaze.
+Namho studied me as I sighed out the curse.
 
 “When you tried to persuade them, you named three Great Chieftains as possible culprits. Was it Heugung who sent the missive?”
 
@@ -148,7 +144,7 @@ I stared at him in surprise. That was answer enough.
 
 “How did you know, Elder Namho?”
 
-“Baeksang and Yohi were both people who could reasonably be named as culprits. But Heugung was different. Thinking about it, there could only be one reason you would have thought of him in this situation.”
+“Baeksang and Yohi were obvious suspects. Heugung wasn’t. There was only one reason you’d have thought to name him under these circumstances.”
 
 His tone was calm and sharp. “Was it him?”
 
@@ -156,7 +152,7 @@ His tone was calm and sharp. “Was it him?”
 
 “He chose to hide in the forest instead of behind a rock. But even in a crowd, a man of Heugung’s size would stand out. Did he come in person?”
 
-“He had learned the Bone-Shrinking Technique. At first, I didn’t even suspect that he was Heugung.”
+“He’d learned the Bone-Shrinking Technique. I didn’t recognize him at first.”
 
 “Hah. The Bone-Shrinking Technique. He had more secrets than he let on. Fooled us all. Then again, if he were the man everyone thought he was, he’d never have sent you that missive.”
 
@@ -172,23 +168,23 @@ I agreed. An attack had taken place, and we were no closer to identifying who ha
 
 Baeksang, Yohi, Heugung. I couldn’t rule out any of them. And behind today’s attack lay another name: Dark Heaven.
 
-*I can tell just from the fact that they severed their heart meridians instead of taking a poison pill.*
+*The way those men killed themselves tells me that much. They severed their heart meridians instead of taking poison.*
 
 A deadly poison would have been easy to find in Nanman. You could go on a picnic in the grass outside the Outer Palace and find venomous beasts crawling everywhere.
 
 But the masked men had chosen to sever their own heart meridians. Compared with a quick death by poison pill, it meant suffering several times more pain.
 
-I had no choice but to assume that they already knew about it.
+I could only conclude that they’d been told about the ring.
 
-*The Myriad-Poison Ring. Dark Heaven must already know that I have it.*
+*The Myriad-Poison Ring. Dark Heaven already knows I have it.*
 
 Dark Heaven had sent the Blood Lord to cause the Shaolin Bloodshed. In Sichuan, it had sent the Western Heaven Demon Lord to seize the divine artifacts of the Emei Sect and the Sichuan Tang Clan.
 
 For those artifacts, it had committed Supreme Peak masters who could match the Ten Kings—perhaps even the Three Saints—along with elite troops.
 
-*But even immediately after the Sichuan Blood Tragedy ended, nothing happened to the Sichuan Tang Clan.*
+*But after the Sichuan Blood Tragedy, nothing else happened to the Sichuan Tang Clan.*
 
-The Sichuan Tang Clan had staggered after suffering more severe damage than any other sect in Sichuan during its battle with the Western Heaven Demon Lord. But the follow-up attack from Dark Heaven that everyone had feared never came.
+The Tang Clan had suffered worse losses against the Western Heaven Demon Lord than any other sect in Sichuan and had been left reeling. Yet the follow-up attack everyone feared from Dark Heaven never came.
 
 I suspected the Myriad-Poison Ring was the reason.
 
@@ -196,17 +192,17 @@ I suspected the Myriad-Poison Ring was the reason.
 
 A drop of cold sweat ran down my spine.
 
-My enemies were watching my every move, while I could not even identify the person hiding in the darkness.
+The enemy was watching my every move, while I couldn’t even identify who was hiding in the dark.
 
-The mere fact that an attack like this had taken place in the Inner Palace of the Nanman Beast Palace—the heart of Nanman—was threatening enough.
+An ambush like this, inside the Inner Palace of the Nanman Beast Palace—the very heart of Nanman—was threat enough.
 
 “When did the attack start?”
 
-“I don’t know exactly. I woke up in the middle of it, but… It seems to have started less than half a shichen after you left. I went to check because I wondered what was happening, and everything outside was in chaos. That bastard Sama Pyo was fighting while covered in blood.”
+“I woke up partway through, so I can’t say exactly,” Namho said. “But it must have been less than half a shichen after you left. I went to see what was going on and found the place in chaos. Sama Pyo was out here fighting, covered in blood.”
 
 He pointed to Sama Pyo, lying on the ground, and looked at me with concern.
 
-“But is he all right? He seems to have lost a lot of blood fighting them.”
+“Is he all right? He seemed to lose a great deal of blood.”
 
 “I’ve stopped the bleeding. He should be fine. I didn’t find any wounds that looked immediately dangerous, and most of the blood on him seems to be theirs.”
 
@@ -232,13 +228,11 @@ I swallowed the words and patted his Ural-Mountains-sized shoulder.
 
 “Sniff. Taishan used lots of strength. Taishan hungry.”
 
-“…Yeah. Okay.”
+“…Right.”
 
 Should I just punch him?
 
-But as I was deep in thought, countless footsteps began approaching from far away, accompanied by torchlight.
-
-And with them came the familiar roar of a beast.
+While I gave that question serious thought, torchlight appeared in the distance. A large group was approaching, and with them came the familiar roar of a beast.
 
 —Rooar!
 

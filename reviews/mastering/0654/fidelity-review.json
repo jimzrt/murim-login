@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Dark-red blood and pale lumps that looked like internal organs poured endlessly from every opening I could see.",
+      "defect": "The source explicitly lists the eyes, nose, mouth, and ears before describing the blood and tissue. The assembled line omits that visual detail.",
+      "id": "F01",
+      "rationale": "The source names all four openings, making their involvement part of the grisly image.",
+      "replacement": "Dark-red blood and pale lumps that looked like internal organs poured endlessly from his eyes, nose, mouth, and ears.",
+      "severity": "minor",
+      "source": "Korean lines 49–51"
+    },
+    {
+      "confidence": 0.95,
+      "current": "the shortened tongue that had been moving inside his open mouth fell still.",
+      "defect": "The source says the short tongue droops limp; “fell still” describes it stopping movement instead of drooping.",
+      "id": "F02",
+      "rationale": "The source verb 늘어진다 describes the tongue hanging limp, a specific physical detail.",
+      "replacement": "the shortened tongue that had been moving inside his open mouth drooped.",
+      "severity": "minor",
+      "source": "Korean line 121"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with two minor physical-detail omissions or shifts.",
+  "version": 1
+}

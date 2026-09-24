@@ -1,0 +1,72 @@
+{
+  "chapter": 654,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.925,
+    "source_characters": 5460,
+    "source_paragraphs": 142,
+    "translation_characters": 10508,
+    "translation_paragraphs": 133
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "numbers",
+      "details": {
+        "values": [
+          "1"
+        ]
+      },
+      "message": "Arabic numerals from the source are absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "상태",
+        "preferred": "Status"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "환의",
+        "preferred": "Pill Physician"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "고자",
+        "preferred": "eunuch"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "천마",
+        "preferred": "Heavenly Demon"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "초절",
+        "preferred": "supreme mastery"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "당가",
+        "preferred": "Tang Family"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
