@@ -1,24 +1,21 @@
 # Translation State
 
-- Last completed: 988
-- Next chapter: 989
-- Current block: 985–989 (4/5)
-- Latest translation: `translations/0988.md`
-- Latest summary: `summaries/beats/0988.md`
-- Safe profiles through: chapter 988
+- Last completed: 989
+- Next chapter: 990
+- Current block: 985–989 (5/5)
+- Latest translation: `translations/0989.md`
+- Latest summary: `summaries/beats/0989.md`
+- Safe profiles through: chapter 989
 
 ## Current Block
 
-- As Jin Taekyung’s three energies combine, Peng Cheolhu watches him pass the Three Flowers Gather at the Crown and reach Five Qi Returning to Origin and Supreme Peak, entering Bone Transformation. Jeok Cheongang steadies Taekyung as he endures the painful change.
-- Having spent his remaining strength, Peng shares a final, affectionate exchange with Jeok, asks him to remain unchanged, and dies reaching toward the light around Taekyung. Jeok quietly bids farewell, saving the words “younger brother” for their hoped-for reunion.
+- Song Ho brings Mae Jonghak the red missive reporting Peng Cheolhu’s death. Peng knew his time was short and passed everything he had to Jin Taekyung through Transmitting Internal Energy Across the Body; the dangerous technique succeeded, and Taekyung underwent Bone Transformation. Mae reflects on the unusual concentration of Bone Transformation in this age, the rise of Dark Heaven, and worldwide changes in the weather and heavenly patterns. He urges Song Ho to acknowledge his fear and remain vigilant, then burns the missive with Samadhi True Fire and reflects that Taekyung and Cheongpung will become central figures in this strange age.
 
 ## Open Questions
 
-- What is the Alliance Leader’s message to Jin Wikyung?
-- Are the Murong survivors innocent, and can they rebuild as a household?
-- Why did Murong Baek suggest the Heaven Demon Lords’ plans failed and that he may have been used?
-- Why has Dark Heaven continued costly schemes without revealing its full strength?
-- Who was the unfamiliar, strangely familiar voice that called Taekyung’s choice wise “just like back then”?
+- What is behind the worldwide weather and heavenly-pattern changes?
+- Is the upheaval a scheme laid by some unknown power, as Mae Jonghak suspects?
+- What are Dark Heaven and the Lord of Heaven planning?
 
 ## Exceptional Decision
 

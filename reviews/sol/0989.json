@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The Three Saints and the Ten Kings, the Demonic Cult, and the great fiends of the unorthodox factions, all possessing earth-shaking power.",
+      "defect": "The draft lists the Demonic Cult itself alongside the masters and assigns the earth-shaking power to the whole list. The source describes great fiends from both the Demonic Cult and the unorthodox factions.",
+      "id": "F01",
+      "rationale": "마교와 사파의 대마두들 identifies the fiends by their factions.",
+      "replacement": "The Three Saints and the Ten Kings. The great fiends of the Demonic Cult and the unorthodox factions, wielding earth-shaking power.",
+      "severity": "major",
+      "source": "삼성과 십왕, 경천동지할 힘을 지닌 마교와 사파의 대마두들."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Always be wary of our enemies, and question them.",
+      "defect": "“Question them” suggests asking or interrogating the enemies rather than remaining suspicious of them.",
+      "id": "F02",
+      "rationale": "경계하고, 의심해야만 해 calls for vigilance and suspicion, not questioning the enemies directly.",
+      "replacement": "Always be on guard against our enemies and distrust them.",
+      "severity": "major",
+      "source": "늘 적들을 경계하고, 의심해야만 해."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Thinking of Cheongpung, who by now must have heard the news from Shanxi from far away, if belatedly, Mae Jonghak poured internal energy into the missive in his hand.",
+      "defect": "The draft drops “Province” from the established rendering of 산서성 and makes “from far away” awkwardly ambiguous.",
+      "id": "F03",
+      "rationale": "산서성 is Shanxi Province; 아주 먼 곳 describes Cheongpung’s location, not where the news originated.",
+      "replacement": "Thinking of Cheongpung, who must by now have finally heard the news from Shanxi Province even where he was so far away, Mae Jonghak poured internal energy into the missive in his hand.",
+      "severity": "minor",
+      "source": "그리고 지금쯤 아주 먼 곳에서 뒤늦게나마 산서성의 소식을 접했을 청풍을 떠올리며, 손에 쥔 전서에 공력을 주입했다."
+    }
+  ],
+  "summary": "Mostly faithful, with two meaningful shifts in who is described and what Mae advises, plus one glossary mismatch.",
+  "version": 1
+}

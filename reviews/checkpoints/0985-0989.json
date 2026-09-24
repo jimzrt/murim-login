@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The Thunderbolt Saber King and Peng Cheolhu are dead. Taekyung successfully inherited their remaining power through Transmitting Internal Energy Across the Body.",
+      "defect": "Treats the Thunderbolt Saber King and Peng Cheolhu as two people and implies two donors.",
+      "id": "C01",
+      "rationale": "Chapter 988 identifies Peng Cheolhu as the Thunderbolt Saber King.",
+      "replacement": "The Thunderbolt Saber King, Peng Cheolhu, is dead. Taekyung successfully inherited his remaining power through Transmitting Internal Energy Across the Body.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity, second bullet"
+    },
+    {
+      "confidence": 0.97,
+      "current": "who’d only passed twenty two years ago",
+      "defect": "The placement of “two years ago” makes Taekyung’s age difficult to parse.",
+      "id": "C02",
+      "rationale": "Makes clear that he passed the age of twenty two years earlier, rather than suggesting he passed twenty-two years ago.",
+      "replacement": "who’d passed twenty only two years earlier",
+      "severity": "minor",
+      "source": "Chapter 988, Peng Cheolhu’s assessment of Taekyung"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Isn’t that basically rock honey?",
+      "defect": "“Rock honey” is opaque in English and disrupts the casual rhetorical question.",
+      "id": "C03",
+      "rationale": "Conveys the apparent easy reward naturally and preserves the sweetness contrast in the following paragraph.",
+      "replacement": "Isn’t that a sweet deal?",
+      "severity": "minor",
+      "source": "Chapter 986, explanation of Transmitting Internal Energy Across the Body"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Song orders the Inner Hall summoned, the Outer Hall put on alert, and messenger eagles sent to the provinces.",
+      "defect": "Attributes the Outer Hall’s alert status to Song’s orders, though it is already on alert when he asks.",
+      "id": "C04",
+      "rationale": "Preserves the sequence reported in Chapter 989.",
+      "replacement": "Song orders the Inner Hall summoned and messenger eagles sent to the provinces; the Outer Hall is already on alert.",
+      "severity": "minor",
+      "source": "Checkpoint summary, Plot, final paragraph"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Song Ho ordered the Inner Hall officers summoned, the Outer Hall placed on alert, and messenger eagles dispatched.",
+      "defect": "Repeats the mistaken claim that Song ordered the Outer Hall placed on alert.",
+      "id": "C05",
+      "rationale": "Keeps active state aligned with the exchange in Chapter 989.",
+      "replacement": "Song Ho ordered the Inner Hall officers summoned and messenger eagles dispatched; the Outer Hall was already on alert.",
+      "severity": "minor",
+      "source": "Durable state, active_continuity, final entry"
+    }
+  ],
+  "summary": "The reading copies retain a consistent voice and the main hooks, but one age phrase is misleading, one idiom reads unnaturally, and the checkpoint state misreports both Peng Cheolhu’s identity and the order of Song Ho’s response.",
+  "version": 1
+}
