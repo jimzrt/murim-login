@@ -6,7 +6,7 @@ Should I have stamped my feet and clapped like everyone else?
 
 The thought came too late. Yohi was still looking straight at me.
 
-The chances of the Yao people’s great chieftain—the star of this splendid victory parade—showing any further interest in me were close to zero.
+It should be fine, though. All I’d done was stand there awkwardly without cheering. The chances of the Yao great chieftain—the star of this splendid victory parade—taking any further interest in me were close to zero.
 
 “You there.”
 
@@ -16,7 +16,7 @@ I said *close* to zero. Not zero.
 
 *Damn it. She really is calling me.*
 
-Yohi was looking straight at me, so I cautiously turned around, just in case.
+I glanced behind me, just in case.
 
 “Yes. You who just turned around.”
 
@@ -28,7 +28,7 @@ I swept my eyes over the crowd. There were a dozen or so people in cool-looking 
 
 Good thing I’d bought a tiger mask. Not that I’d paid for it.
 
-“The seven-foot-tall man wearing a tiger mask who just made eye contact with me. That’s enough. Come forward.”
+“The seven-foot-tall man in the tiger mask who just made eye contact with me. Are you done? Come forward.”
 
 The tiger-mask stock crashed as soon as she added gender and height to the description. My odds of winning had shot up so fast I could feel sweat gathering on my forehead.
 
@@ -52,7 +52,7 @@ In the suffocating silence, with Yohi and countless others staring at me, I stra
 
 No one answered. They just looked from my masked face to my lower body and back again.
 
-*Shit. I should’ve just stepped forward when she first called me.*
+*Shit. I should’ve gone over when she first called.*
 
 * * *
 
@@ -64,7 +64,7 @@ Once the procession celebrating the beast subjugation had ended, Yohi had sent a
 
 “What should I call it? Out of all those people, you were the only one who seemed out of place.”
 
-Beside her, the great chieftain of the Yi people, who had been popping fruit into his mouth nonstop, grinned broadly and chimed in.
+Beside her, the Yi great chieftain kept popping fruit into his mouth. He grinned and chimed in.
 
 “She’s right. Standing there like a block of wood all by yourself, you were hard to miss.”
 
@@ -72,7 +72,7 @@ He was a plump, middle-aged man who hardly looked like a warrior. He waved a han
 
 “And you’re still wearing that mask. Rude fellow. I don’t know who you are, but I expect you already know me. I’m Heugung, leader of the Yi people.”
 
-Heugung. The name meant Black Bear.
+Heugung. Black Bear.
 
 That explained the bear he’d ridden in the procession. Apparently, keeping a pet beast named after yourself was the thing to do around here.
 
@@ -88,7 +88,7 @@ Now that it had come to this, I’d planned to remove my mask and reveal who I w
 
 I was surprised twice over: first that Yohi, who had only just arrived, knew exactly who I was, and then that Heugung, a fellow great chieftain, was even more shocked than I was.
 
-At the sight of Heugung and me both freezing for a moment, Yohi let out a quiet laugh.
+At the sight of us both freezing, Yohi gave a quiet laugh.
 
 “Why are you so surprised? I already heard the Palace Lord let a group of Han Chinese from the Murim Alliance into the Inner Palace.”
 
@@ -102,7 +102,7 @@ Even the Skeleton King could have spotted the lip service in that last remark. H
 
 “Do you mean that?”
 
-“Of course. Don’t forget that I’ve always been in love with you.”
+“Of course. Don’t forget that I’ve always adored you.”
 
 Her voice and gaze were alluring. Her pale, flawless fingers—so white and unblemished it was hard to believe she was from Nanman—stroked his pockmarked cheek. Bliss spread across Heugung’s face.
 
@@ -150,13 +150,13 @@ I’d expected something like that, but not quite this much. I scratched my chin
 
 When someone was this direct, it made things easier. After a moment’s thought, I answered honestly.
 
-“Well, you’re not wrong.”
+“Well, a little.”
 
 “You don’t seem surprised. I suppose you’d already figured it out. I thought you were only good at martial arts, but you’re quicker to catch on than I expected.”
 
 “People like you are rare, but not unheard of. Murim has plenty who aren’t the same inside as they appear on the outside.”
 
-“Really? I suppose the Central Plains must be very large. A bitch like me is rare in Nanman. Oh, is that girl who came with you the same sort? I think I heard her name was… Ju Hwaran?”
+“Really? The Central Plains must be vast. Bitches like me aren’t common in Nanman. Oh, is that girl who came with you the same sort? Her name was… Ju Hwaran, I think?”
 
 I stared at Yohi instead of answering. Her smile deepened.
 
@@ -172,17 +172,17 @@ An odd feeling stirred in me. I made myself speak evenly.
 
 “I don’t really divide people into superiors and subordinates… but think what you want.”
 
-“I appreciate you putting it that way. I happen to have quite a vivid imagination.”
+“Gladly. I have quite an imagination.”
 
-Yohi let out an enigmatic laugh, apparently imagining something, then continued.
+Yohi let out a knowing laugh and went on.
 
 “You were staring at me earlier, so I got the wrong idea. I thought you might have fallen for me at first sight.”
 
 “As if. I don’t go falling for just anyone.”
 
-“Then why were you looking at me like that? Did Heugung, that fucking moron, look pathetic to you?”
+“Then why were you looking at me like that? Because Heugung, that moron, looked so pathetic?”
 
-“No. You reminded me of someone I’d seen before.”
+“No. You reminded me of someone I’d met.”
 
 Interest lit her eyes.
 
@@ -190,7 +190,7 @@ Interest lit her eyes.
 
 “A woman, yes. You wouldn’t know her even if I told you.”
 
-In truth, she was closer to a monster than a woman. The person Yohi had reminded me of was the Southern Heaven Demon Empress.
+In truth, she was closer to a monster. Yohi had reminded me of the Southern Heaven Demon Empress.
 
 The people of Dark Heaven were monsters for whom distinctions between men and women meant nothing. Fanatics who worshipped the Lord of Heaven.
 
@@ -202,7 +202,7 @@ The people of Dark Heaven were monsters for whom distinctions between men and wo
 
 She looked mischievous, but I’d already checked with Qi Sense just in case. There was no mistaking one for the other.
 
-*Like I said, the two of them were fundamentally different.*
+*Like I said, they’re different where it counts.*
 
 Yohi’s looks and manner were bewitching. The Southern Heaven Demon Empress possessed a magical power that could beguile people—and I didn’t just mean her looks.
 
@@ -216,7 +216,7 @@ There was something distinctive about her: beautiful, yet so natural you never t
 
 “She is. And even more dangerous.”
 
-“Dark Heaven. It’s Dark Heaven, isn’t it?”
+“Dark Heaven. That’s who she’s with, isn’t it?”
 
 Yohi was quick. She already knew why I’d come tens of thousands of li from the Central Plains to Nanman, and what I was here to do.
 
@@ -236,11 +236,11 @@ If the chiefs who held sway over Nanman’s many parts thought like Yohi, then Y
 
 *Fuck, these negotiations are a nightmare.*
 
-I hadn’t come to Nanman as a diplomat, but this situation was still as good as a failure before it had even begun.
+I hadn’t come as a diplomat, but this was like failing before I’d even started.
 
 Yohi looked amused by my reaction.
 
-“I’m sorry, but that’s reality. Ah, of course, there’s at least one person you might have a chance of persuading. He leads a tribe large enough to rank among the four great tribes, and he’s so stupid that it’s hard to believe.”
+“I’m sorry, but that’s the reality. There is one person you might be able to persuade. He leads a tribe large enough to be one of the four greats, though you’d never believe it from how stupid he is.”
 
 I knew who she meant. I let out a sigh.
 
@@ -248,7 +248,7 @@ I knew who she meant. I let out a sigh.
 
 Yohi burst out laughing.
 
-“Yes, that fucking moron. He can’t do a thing with me and that old man Baeksang keeping him firmly under our thumbs anyway.”
+“Yes, that moron. Not that he can do anything with me and that old man Baeksang keeping him under our thumbs.”
 
 “……”
 

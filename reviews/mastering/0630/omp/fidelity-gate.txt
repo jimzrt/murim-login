@@ -1,0 +1,15 @@
+{
+  "summary": "The translation omits the narrator’s reassurance that the only thing making him stand out was his awkward silence.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Korean line 11",
+      "current": "The chances of the Yao people’s great chieftain—the star of this splendid victory parade—showing any further interest in me were close to zero.",
+      "defect": "The preceding thought is missing: the narrator believes there is no problem because the only noticeable thing about him was standing awkwardly without joining in.",
+      "replacement": "Still, it shouldn’t be a problem. The only thing that made me stand out was that I’d been standing there awkwardly without joining in. The chances of the Yao people’s great chieftain—the star of this splendid victory parade—showing any further interest in me were close to zero.",
+      "rationale": "The Korean explicitly gives this reassurance and its reason before the narrator estimates the odds of attracting Yohi’s attention.",
+      "confidence": 0.99
+    }
+  ]
+}
