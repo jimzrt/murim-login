@@ -1491,3 +1491,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 마중걸 | 사마공 | visiting group leader to sect leader | Sect Leader Sima | polite and respectful | Addresses him as 사마 문주 while explaining Ningxia and Baekma Bang. |
 | 사마공 | 마중걸 | sect leader to visiting group leader | you | formal and probing | Uses 자네 while questioning Ma Junggeol about following Dark Heaven. |
 | 사마공 | 사마표 | father to son | Pyo | intimate and familiar | Sima Gong calls him 표야 and 내 아들아. |
+| 월화 | 진 공자 | Lower District Sect branch leader to client and ally | Young Master Jin | polite and familiar | Her missive addresses Taekyung as 진 공자 and includes personal, affectionate language. |

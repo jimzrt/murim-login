@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 1014
-- Next chapter: 1015
-- Current block: 1010–1014 (5/5)
-- Latest translation: `translations/1014.md`
-- Latest summary: `summaries/beats/1014.md`
-- Safe profiles through: chapter 1014
+- Last completed: 1015
+- Next chapter: 1016
+- Current block: 1015–1019 (1/5)
+- Latest translation: `translations/1015.md`
+- Latest summary: `summaries/beats/1015.md`
+- Safe profiles through: chapter 1015
 
 ## Current Block
 
-- As the Black Dragon Demon Gate’s forces ride toward the coming battle, two of its martial artists discuss Sama Pyo’s rumored past and his succession. One makes a taboo remark about Pyo surpassing his older half-siblings; a senior martial artist silences him and warns him of the danger.
-- Sima Gong questions Sama Pyo about failing to return to Gansu after receiving his order. Pyo admits he disobeyed and accepts punishment without excuse. Sima Gong says sending him to the Central Plains was the right decision and acknowledges his growth, then orders that the two martial artists be dealt with. Pyo rides on with Taishan, now bound for the Black Dragon Demon Gate rather than the Fire Dragon Pavilion.
+- A force of three thousand martial artists races west from Tianshui, passing Lanzhou and entering the Hexi Corridor as it approaches the Qilian Mountains. On the march, Taekyung talks with Ju Hwaran about how difficult trust and relationships can be, then discovers that a missive from Wolhwa contains an unusually affectionate personal message. Hwaran’s pointed questions and sudden ride ahead leave Taekyung awkwardly trying to explain their relationship.
 
 ## Open Questions
 
