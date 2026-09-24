@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 993
-- Next chapter: 994
-- Current block: 990–994 (4/5)
-- Latest translation: `translations/0993.md`
-- Latest summary: `summaries/beats/0993.md`
-- Safe profiles through: chapter 993
+- Last completed: 994
+- Next chapter: 995
+- Current block: 990–994 (5/5)
+- Latest translation: `translations/0994.md`
+- Latest summary: `summaries/beats/0994.md`
+- Safe profiles through: chapter 994
 
 ## Current Block
 
-- After successfully completing Transmitting Internal Energy Across the Body and absorbing the Heavenly Power Demon’s and Peng Cheolhu’s internal energy, Jin Taekyung receives extensive System rewards, fully opens his Middle Dantian, reaches the Supreme Peak realm, and completes Bone Transformation. He reflects on his debt to the dead and his determination to keep striving toward the upper dantian. While recovering a fragment of a past memory, he recalls an unknown voice telling him, “That was a good decision. Just like back then.” The memory brings on severe pain, and the System creates a forced Quest titled Unknown Voice; Taekyung agrees to view its updated information.
+- Taekyung studies the Unknown Voice Quest and suspects the Martial God may be its speaker. A message the Bow Saint attributed to the Martial God leads him to consider whether the Martial God was a System user, and whether he and Cheon Taemin are separate people. Taekyung decides to return to the modern world to investigate Cheon Taemin and the Doppelganger’s final words, but the System rejects his Logout command, disables the function for temporary maintenance, and leaves him trapped in Murim. Jin Wikyung enters his room with a grave expression.
 
 ## Open Questions
 
-- Does any part of the original Jin Taekyung’s consciousness remain inside Taekyung?
-- Who was the unknown voice, how did it communicate with Taekyung within his consciousness, and what was their earlier encounter?
-- What is behind the worldwide weather and heavenly-pattern changes?
+- Who was the unknown voice, and will Taekyung meet its owner?
+- Was the Martial God a System user, and is he connected to Cheon Taemin?
+- What did the Doppelganger mean by its final words, and what was it trying to accomplish?
 - What are Dark Heaven and the Lord of Heaven planning?
 - What does the Bow Saint know about the chosen one?
 

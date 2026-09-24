@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.89,
+      "current": "What does the Bow Saint know about the chosen one?",
+      "defect": "The active questions omit whether the original Jin Taekyung’s consciousness remains, although the checkpoint identifies it as unresolved.",
+      "id": "C01",
+      "rationale": "Chapter 992 leaves the consciousness question open and identifies the Bow Saint as someone Taekyung might ask.",
+      "replacement": "Does the original Jin Taekyung’s consciousness remain within Taekyung, and what might the Bow Saint know about him and the chosen one?",
+      "severity": "major",
+      "source": "Durable state, open_questions"
+    },
+    {
+      "confidence": 0.86,
+      "current": "The boy, eyes wide and both arms trapped in the man’s grip, managed to pull himself back to reality thanks to the ache spreading through his shoulders.",
+      "defect": "Both arms are suddenly trapped, though the preceding action describes Cheongpung grabbing and shaking one hand.",
+      "id": "C02",
+      "rationale": "Keeps the boy’s reaction while matching the physical action already established.",
+      "replacement": "The boy, eyes wide and his hand still trapped in the man’s grip, managed to pull himself back to reality thanks to the ache spreading through his shoulder.",
+      "severity": "minor",
+      "source": "Chapter 990, Cheongpung speaking to the boy"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The two syllables slipped from my lips before I realized it.",
+      "defect": "The syllable count describes the Korean name, not the English reading copy.",
+      "id": "C03",
+      "rationale": "Removes a language-specific count that jars in English without changing the action.",
+      "replacement": "The name slipped from my lips before I realized it.",
+      "severity": "minor",
+      "source": "Chapter 994, Taekyung names the Martial God"
+    }
+  ],
+  "summary": "The packet is broadly consistent, with one dropped continuity question and two localized reading-copy issues.",
+  "version": 1
+}

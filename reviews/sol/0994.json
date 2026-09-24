@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "A deep conversation I’d had with the Bow Saint at the Imperial Palace, the first time we met.",
+      "defect": "Says they first met at the Imperial Palace; the source identifies it as their first deep conversation, not their first meeting.",
+      "id": "F01",
+      "rationale": "처음으로 modifies the deep conversation they shared, not the occasion on which they met.",
+      "replacement": "The first deep conversation I’d had with the Bow Saint at the Imperial Palace.",
+      "severity": "critical",
+      "source": "황궁에서 처음으로 나누었던 궁성과의 깊은 대화."
+    },
+    {
+      "confidence": 0.99,
+      "current": "No—there had been one other time, but that was only when I was in the middle of an important Quest, and even then it hadn’t happened like this.",
+      "defect": "Invents a count of exactly one previous occurrence.",
+      "id": "F02",
+      "rationale": "있었긴 했지만 acknowledges prior occurrences without specifying how many.",
+      "replacement": "No—it had happened before, but only when I was in the middle of an important Quest, and even then it hadn’t happened like this.",
+      "severity": "critical",
+      "source": "아니, 있었긴 했지만 그건 중요한 퀘스트를 진행 중이었을 때뿐이었고 그마저도 이런 방식은 아니었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Here we go again.*",
+      "defect": "Removes the profanity from Taekyung’s immediate reaction.",
+      "id": "F03",
+      "rationale": "지랄 gives the thought a blunt, profane edge that the current line lacks.",
+      "replacement": "*Here we fucking go again.*",
+      "severity": "major",
+      "source": "‘또 지랄이네.’"
+    },
+    {
+      "confidence": 0.9,
+      "current": "Someone who could interfere with my mind.",
+      "defect": "Broadens intrusion into Taekyung’s private inner mental space into general interference with his mind.",
+      "id": "F04",
+      "rationale": "나만의 심상 specifies his own inner mental landscape, which matters to how the voice reached him.",
+      "replacement": "Someone who could intrude into my private inner world.",
+      "severity": "major",
+      "source": "나만의 심상(心想)에 개입할 수 있을 정도의 누군가."
+    },
+    {
+      "confidence": 0.86,
+      "current": "“Guess it runs in the family—even this works.”",
+      "defect": "“Even this works” does not convey the brothers’ apparent connection or agreement.",
+      "id": "F05",
+      "rationale": "한 핏줄 points to shared blood, while 이런 것까지 통하는구나 says that their thoughts connect even over this.",
+      "replacement": "“Must be because we’re brothers. Even on this, we’re of one mind.”",
+      "severity": "major",
+      "source": "“한 핏줄이라 그런지, 이런 것까지 통하는구나.”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> **System**\n> **[Logout] failed!\n>\n> **[System]** has rejected your **[Logout]** command!\n>\n> Error! Error!\n>\n> Due to a System error, the **[Logout]** function has been temporarily disabled!\n>\n> Unknown error! **[Temporary Maintenance]** has begun!",
+      "defect": "Retains square brackets around System terms despite the panel-format rule; the first notice also has unclosed bold markup.",
+      "id": "F06",
+      "rationale": "These are consecutive notices in one System panel, whose heading and blockquote already identify it without square brackets or whole-notice bolding.",
+      "replacement": "> **System**\n> Logout failed!\n>\n> The System has rejected your Logout command!\n>\n> Error! Error!\n>\n> Due to a System error, the Logout function has been temporarily disabled!\n>\n> Unknown error! Temporary Maintenance has begun!",
+      "severity": "minor",
+      "source": "- [로그아웃]이 실패했습니다!\n\n- [시스템]이 당신의 [로그아웃] 명령어를 거부합니다!\n\n- Error! Error!\n\n- 시스템 오류로 인하여, 일시적으로 [로그아웃] 기능이 비활성화됩니다!\n\n- 알 수 없는 오류! [임시 점검]이 시작됩니다!"
+    },
+    {
+      "confidence": 0.88,
+      "current": "On top of that, the significant words it left behind before Erasure hinted at more trouble to come.",
+      "defect": "Uses the capitalized term “Erasure” as an event name where the source simply says the Doppelganger ceased to exist.",
+      "id": "F07",
+      "rationale": "소멸하기 전 describes what happened to the Doppelganger; 의미심장한 carries an ominous implication here.",
+      "replacement": "On top of that, the ominous words it left behind before it vanished hinted at more trouble to come.",
+      "severity": "minor",
+      "source": "더군다나 놈이 소멸하기 전 남겼던 의미심장한 말들은 또 다른 후환(後患)을 암시하고 있어"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The next moment, the unwelcome guest opened the door without hesitation. No—Jin Wikyung’s expression was heavy and grave.",
+      "defect": "The self-correction shifts awkwardly from the guest’s identity to his expression, obscuring Taekyung’s recognition.",
+      "id": "F08",
+      "rationale": "아니 corrects the identification of the person who entered before describing his expression.",
+      "replacement": "The next moment, the unwelcome guest opened the door without hesitation. No—it was Jin Wikyung, his expression heavy and grave.",
+      "severity": "minor",
+      "source": "다음 순간 망설임 없이 문을 열고 들어온 불청객. 아니 진위경의 표정은 무겁게 가라앉아 있었다."
+    }
+  ],
+  "summary": "The draft is largely faithful, but it softens Taekyung’s reaction, adds two unsupported scene or quantity claims, and loses meaning in the final dialogue.",
+  "version": 1
+}
