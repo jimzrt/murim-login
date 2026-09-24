@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful, with two minor terminology-sense issues.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 33–35",
+      "current": "according to their mana affinity",
+      "defect": "마나 적응도 refers to their degree of adaptation to mana, not necessarily an innate affinity for it. “Affinity” changes the basis on which Lee Jungryong selected and trained them.",
+      "replacement": "according to how well they adapted to mana",
+      "rationale": "The source explicitly says they were raised as personal guards according to their mana-adaptation level.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 291",
+      "current": "with a weight greater than Taishan",
+      "defect": "Here 태산 is the mountain in a weight comparison, not the named character Taishan. The English phrasing reads as though the sleep’s weight is being compared to a person.",
+      "replacement": "with a weight heavier than a mountain",
+      "rationale": "The source compares the crushing weight of sleep to 태산, meaning a great mountain in this context.",
+      "confidence": 0.83
+    }
+  ]
+}

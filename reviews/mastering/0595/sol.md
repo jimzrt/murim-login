@@ -18,21 +18,19 @@ Then I spotted a familiar face at the front and sighed.
 
 “Maybe I should’ve just killed you.”
 
-The middle-aged man at the front, Head of Security Go Se-won, answered in a calm voice after hearing my mutter.
-
-“Yes. That wouldn’t have been a bad choice either.”
+Head of Security Go Se-won heard me. “That wouldn’t have been a bad choice.”
 
 He looked fully recovered. He must have received treatment while I was gone. Gazing at the sword in his hand, he went on.
 
-“It must have been thirty years ago when I first picked up a sword. I was trained even before I awakened. And on the day I awakened as an A-rank Hunter, the former Vice Guild Master gave me this sword as a gift. The other members of the security team probably received theirs the same way.”
+“I first picked up a sword thirty years ago, I suppose. I was training even before I awakened. The day I awakened as an A-rank Hunter, the former Vice Guild Master gave me this sword. It was probably the same for the rest of the security team.”
 
 That didn’t surprise me. Team Leader Choi had told me Lee Jungryong took in war orphans after the Great Cataclysm and trained them as his personal guards according to their mana affinity.
 
 The man in front of me was one of them.
 
-“So, are you going to avenge that grudge now?”
+“So you’re going to avenge him?”
 
-“……That grudge.”
+“…Avenge him.”
 
 Go Se-won murmured the words, then asked, “Before that, tell me one thing. Why did you spare me?”
 
@@ -42,13 +40,13 @@ I thought for a moment.
 
 “What?”
 
-“You should at least have told your family you were working late. Or that you weren’t coming home. My father couldn’t do either. I thought he’d come home when the time came, but…… he never did. Now I can barely remember his voice.”
+“You should’ve had the chance to tell your family you were working late. Or that you weren’t coming home. My father couldn’t do either. I thought he’d come home eventually, but… he never did. Now I can barely remember his voice.”
 
 “…”
 
 Maybe I was tired. I’d said more than I needed to. I clicked my tongue, and Go Se-won studied me for a moment before asking, “What about the Vice Guild Master?”
 
-Instead of answering, I shrugged. It had been a fight that could only end with one of us dead. But I was the only one who had appeared.
+I shrugged instead of answering. It had been a fight that could only end with one of us dead, and I was the only one who had come back.
 
 “He’s dead, then,” Go Se-won muttered.
 
@@ -64,19 +62,19 @@ The Ares Guild members surrounding us stirred at once. Several executives who we
 
 Anger and temptation mingled in their voices.
 
-As Go Se-won stood silently among them, I rubbed my stiff, tired eyes and spoke.
+Go Se-won stood among them without answering. I rubbed my tired eyes.
 
 “I’m exhausted. If you’re done asking questions, let’s get this over with. I’ve got somewhere to be.”
 
 His sharp gaze traveled over me.
 
-“Even someone like you seems to be having a hard time in your current condition.”
+“Even you look like you’d have trouble fighting in that condition.”
 
 “That’s my problem, not yours.”
 
 “…Fair enough.”
 
-Go Se-won replied quietly. Then, just as his fingers toyed with the hilt of his sword—
+Go Se-won’s fingers brushed the hilt of his sword.
 
 *Whoosh! Slice!*
 
@@ -88,7 +86,7 @@ Blood sprayed. One of the executives fell, eyes wide at the unexpected strike. I
 
 “T-Team Leader Go!”
 
-As the executives shouted, Go Se-won turned the area into chaos in a single instant and spoke in an even voice.
+While the executives shouted, Go Se-won calmly gave an order.
 
 “Subdue them all. The fight is over.”
 
@@ -104,7 +102,7 @@ Go Se-won turned to me. “That was quick enough, wasn’t it?”
 
 “You…”
 
-I was about to say something, but then I nodded.
+I stopped and nodded.
 
 “Looks like sparing you paid off.”
 
@@ -118,7 +116,7 @@ Apparently, I wasn’t the only one who was tired. Go Se-won surveyed the chaos 
 
 “Go. No one will stop you.”
 
-I didn’t refuse and began walking. Just as I was about to pass by Go Se-won, a quiet murmur reached my ears.
+I took him at his word. Just as I passed him, a quiet murmur reached my ear.
 
 “…Thank you for the call.”
 
@@ -160,7 +158,7 @@ Song Song pressed her lips together before she could finish. She rubbed at her r
 
 “Are you insane?”
 
-“I sent Guild members to bring them somewhere safe. Luckily, your mother was in the middle of cooking and didn’t know anything. Hayeon, who’s with her…… is pretending she doesn’t know.”
+She answered sharply, then continued in a hoarse voice. “I sent Guild members to bring them somewhere safe. Luckily, your mother was busy cooking and doesn’t know anything. Hayeon’s with her… pretending she doesn’t know, either.”
 
 Relief washed over me. I couldn’t imagine how badly the news about me would have shaken my mother.
 
@@ -172,7 +170,7 @@ Hayeon was there, though. She’d handle it. She had always been more thoughtful
 
 “You…”
 
-Song Song was looking at me with a complicated expression when Im Kkeokjeong’s shoulders began to shake.
+She was watching me with a troubled look when Kkeokjeong’s shoulders began to shake.
 
 “I’m sorry, Taekyung. I’m so sorry…”
 
@@ -190,7 +188,7 @@ I clenched my teeth and tried to ignore the heat in my eyes. Then I managed to f
 
 “He’s been waiting. All this time.”
 
-The answer came from neither Im Kkeokjeong nor Song Song. I turned my head and saw a blond foreigner standing in front of a door.
+Neither Kkeokjeong nor Song Song had answered. I turned toward the blond foreigner standing by a door.
 
 “So you’ve come, wicked human.”
 
@@ -200,19 +198,19 @@ The Skeleton King’s voice sounded far away. I had seen the sign before I saw h
 
 My heart sank. As I stood frozen, the Skeleton King opened the door.
 
-And through the gap in the open door…… I saw the body of a person covered in a pure white sheet.
+Through the opening, I saw a body beneath a white sheet.
 
 “It is impolite to keep the dead waiting, human.”
 
 “…!”
 
-“Do you intend to send him off like this?”
+“Are you going to send him off without seeing him?”
 
-At those words, I left Song Song and Im Kkeokjeong behind and forced my unmoving feet forward.
+I left Song Song and Kkeokjeong behind and made my reluctant feet move.
 
 The door closed quietly behind me. In the chill of the morgue, it was just the two of us.
 
-*Swish.*
+*Rustle.*
 
 With trembling hands, I drew back the white sheet.
 
@@ -226,7 +224,7 @@ Today, he had said goodbye to us. Now we had to let him go.
 
 *Drip. Drop.*
 
-Something hot rolled down both my cheeks. They were the first tears I had shed today, and tears I must never shed again.
+Something hot rolled down my cheeks. These were the first tears I had shed today, and tears I must never have reason to shed again.
 
 *I swear.*
 
@@ -254,7 +252,7 @@ I gazed at its beauty through blurred eyes and felt the strength leave my body.
 
 I had reached my limit, body and heart alike.
 
-I leaned my back against the wall and sank down as if collapsing. Accepting the sleep pressing down on me with a weight greater than Taishan, I thought:
+I leaned against the wall and sank to the floor. As sleep bore down on me, heavier than Mount Tai, one thought came to me.
 
 *Today was a long day.*
 
@@ -272,7 +270,7 @@ Indescribable emotions filled the three pairs of eyes gazing at him.
 
 What more could they say?
 
-Today, he had fought desperately against disaster and threats. He had made himself an outlaw and exacted the price for an innocent death.
+Today, he had fought desperately against disaster and danger. He had made himself an outlaw to exact a price for an innocent death.
 
 There was only one thing they could do for him now.
 
@@ -284,8 +282,8 @@ Even if the whole world condemned him for what had happened today—even if the 
 
 They would protect him, no matter what.
 
-*Just as you did for us.*
+*Just as you protected us.*
 
 Warm sunset light spread through the morgue.
 
-One person’s long day had ended, but the days of the other three had not. No—in fact, they were about to become even busier.
+One person’s long day had ended. The other three had no such rest ahead of them. If anything, their day was about to get busier.

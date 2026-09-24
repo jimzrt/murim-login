@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "according to their mana affinity",
+      "defect": "마나 적응도 refers to their degree of adaptation to mana, not necessarily an innate affinity for it. “Affinity” changes the basis on which Lee Jungryong selected and trained them.",
+      "id": "F01",
+      "rationale": "The source explicitly says they were raised as personal guards according to their mana-adaptation level.",
+      "replacement": "according to how well they adapted to mana",
+      "severity": "minor",
+      "source": "Lines 33–35"
+    }
+  ],
+  "summary": "The chapter is largely faithful, with two minor terminology-sense issues.",
+  "version": 1
+}
