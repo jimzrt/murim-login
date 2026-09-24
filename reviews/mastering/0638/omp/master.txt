@@ -48,7 +48,7 @@ Five of them, in fact.
 
 *Skritch, skritch!*
 
-Their movements were ghostlike. Every time their eight stiff, hair-covered legs moved, their enormous bodies slid along the trunks of the great trees.
+They moved like ghosts. As their eight stiff, hair-covered legs worked, their enormous bodies slid down the trunk of the great tree.
 
 The moment our rapidly approaching figures appeared in the monsters’ eyes, large and small, the Beast Miao King shouted like a thunderclap.
 
@@ -68,7 +68,7 @@ The ground, the rocks, the grass—even the unidentified Bai warrior’s corpse 
 
 Everything the slime touched was melting with a foul stench, as though someone had poured acid over it.
 
-*Acid?*
+*Acidic?*
 
 If I hadn’t dodged without knowing what it was, or if even a little had touched me, the slime might have melted part of my body on the spot.
 
@@ -84,7 +84,7 @@ Five venomous spiders, each bigger than a bear and hideous beyond description, w
 
 The Beast Miao King raised his internal energy as he answered my incredulous mutter.
 
-“Among the countless venomous beasts of Nanman, the Thousand-Year Spider is called a king. More than being ferocious, it is a cunning creature. There is even a record of a thousand warriors once trying to exterminate one, only for it to kill half of them over ten days and nights before vanishing.”
+“Among Nanman’s countless venomous beasts, the Thousand-Year Spider is called a king. Cunning as well as ferocious. There is a record of nearly a thousand warriors setting out to kill one. It killed half of them over ten days and nights, then vanished.”
 
 “All that, from a spider? No, wait. If they’ve been around for a thousand years, I guess that makes sense.”
 
@@ -92,17 +92,17 @@ The Beast Miao King raised his internal energy as he answered my incredulous mut
 
 Nanman was home to countless venomous beasts, and five of the monsters called kings had appeared at once.
 
-I looked at the slime that was still melting everything around us and muttered inwardly.
+I looked at the slime still dissolving everything it had touched.
 
 *Damn it. We walked right into this.*
 
 I thought I understood why we hadn’t found the rest of the Nanman warriors’ bodies—or any sign of the beasts they’d commanded.
 
-After filling their bellies to some degree through hunting, they must have carried the corpses deeper into the Poisonblood Grounds to stockpile food.
+After eating their fill, the spiders must have carried the rest deeper into the Poisonblood Grounds to store as food.
 
 *Wrapped tight in webs, like that Bai warrior.*
 
-They were certainly planning to hunt us the same way.
+They were probably planning to do the same to us.
 
 But…
 
@@ -116,9 +116,9 @@ As the creatures closed in with a skin-crawling rustle, I stretched my empty han
 
 At my command, the boundless warehouse opened its doors. Of all the weapons I’d collected for emergencies, one spear radiating pure white light settled into my hand.
 
-“Did I just see something wrong……?”
+“Did I just see something…?”
 
-“You did. It’s a three-section folding spear, so I usually keep it in my sleeve.”
+“You imagined it. It’s a three-section folding spear. I usually keep it in my sleeve.”
 
 Leaving the Beast Miao King staring in disbelief, I sent internal energy into White Flame’s lowered spearhead.
 
@@ -126,7 +126,7 @@ Leaving the Beast Miao King staring in disbelief, I sent internal energy into Wh
 
 Flames of tangible qi bloomed over its edge, which radiated a chilling sharpness.
 
-As the blue flames kindled by Scorching Yang Qi flickered, the dense Poison Mist surrounding us and the five Thousand-Year Spiders that had marked out positions around us and were slowly tightening their noose both flinched as though they had been burned.
+As the blue flames fed by Scorching Yang Qi flickered, the dense Poison Mist around us drew back. So did the five Thousand-Year Spiders closing in from every side, flinching as though they’d been burned.
 
 *Hissss.*
 
@@ -160,7 +160,7 @@ One swing.
 
 I swept the spear around me in a single horizontal strike, and the slime pouring in from every direction evaporated as it met the flames.
 
-And before that, the Beast Miao King’s fist had already shot through the air.
+The Beast Miao King’s fist had struck ahead of me.
 
 *Boom! Hissss!*
 
@@ -190,7 +190,7 @@ I hurtled upward, faster and harder than I could have managed with ordinary Step
 
 —…!
 
-A multitude of emotions could be read in its many eyes, both large and small.
+I could read a jumble of emotions in its many eyes.
 
 The Thousand-Year Spider looked almost human in its shock as I brought the spearhead down.
 
@@ -212,7 +212,7 @@ Unlike insects, spiders are arthropods with thin exoskeletons. Their bodies aren
 
 Even a Thousand-Year Spider, king of the venomous beasts, couldn’t withstand Force.
 
-“Fuck, you think I’ve only killed one or two spiders? If you’d lived in Hope goshiwon, your whole extended family—in-laws and eighth cousins included—would’ve died by my hand.”
+“Fuck, you think this is my first time killing a spider? If you’d lived in Hope goshiwon, I’d have killed every last one of your relatives—even the distant ones.”
 
 —Kiiiiiieet!
 
@@ -250,7 +250,7 @@ Below the great tree I stood on, the Beast Miao King was fighting for his life a
 
 *Hissss!*
 
-“You bastards! Even tearing you to pieces wouldn’t be enough! How dare you do this to my hair!”
+“You miserable beasts! Tearing you apart won’t be enough! How dare you touch my hair!”
 
 “…”
 
@@ -258,13 +258,13 @@ His hair. He was worried about his hair at a time like this.
 
 Half his clothes had melted away, exposing patches of skin, and the slime had eaten through almost all of his once-thick hair.
 
-Even so, true to his title as one of the Ten Kings, he had already killed one and was fighting three at once.
+Still, he had already killed one spider and was fighting three more at once. He hadn’t earned his place among the Ten Kings for nothing.
 
 *Wham!*
 
 Correction. Two more.
 
-The moment the Beast Miao King’s fist, thrown with a savage aura, smashed one of the Thousand-Year Spiders apart, I kicked off the great tree and plunged toward the ground like a bolt of lightning.
+The Beast Miao King’s fist smashed another Thousand-Year Spider apart. At that same moment, I kicked off the great tree and plunged toward the ground like a bolt of lightning.
 
 *Whooosh! Crack!*
 
@@ -287,7 +287,7 @@ Its enormous body exploded into pieces. A torrent of bodily fluid sprayed out an
 
 Invisible healing light swept through me.
 
-The skin melted by the slime and the internal energy I had expended were restored, while the flames on the spearhead, which had been slowly dying down, suddenly blazed as fiercely as though they had never weakened.
+The skin the slime had burned away healed, and my spent internal energy returned. The flames on my spearhead, which had begun to fade, blazed up as fiercely as ever.
 
 *Fwoosh.*
 

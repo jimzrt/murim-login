@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Jin-ho once said, “Could the landlord of this building be Fabre, by any chance?”",
+      "defect": "Drops the familiar “hyung” relationship marker when introducing Jin-ho.",
+      "id": "F01",
+      "rationale": "The source says 진호 형이, explicitly identifying Jin-ho as an older male friend; the accepted baseline also preserves “hyung.”",
+      "replacement": "Jin-ho hyung once said, “Could the landlord of this building be Fabre, by any chance?”",
+      "severity": "minor",
+      "source": "Korean lines 9–13"
+    },
+    {
+      "confidence": 0.86,
+      "current": "Correction. Two more.",
+      "defect": "“Two more” can suggest two additional spiders, while the source corrects the count to two remaining after one was killed.",
+      "id": "F02",
+      "rationale": "The preceding sentence says he had killed one and was fighting three; 정정. 이제 두 마리 means the count is now two.",
+      "replacement": "Correction. Two now.",
+      "severity": "minor",
+      "source": "Korean lines 289–295"
+    }
+  ],
+  "summary": "The chapter is broadly faithful. Two minor details in the assembled copy shift relationship or count phrasing from the source.",
+  "version": 1
+}
