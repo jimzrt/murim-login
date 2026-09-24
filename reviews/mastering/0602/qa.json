@@ -1,0 +1,63 @@
+{
+  "chapter": 602,
+  "errors": [],
+  "metrics": {
+    "length_ratio": 1.862,
+    "source_characters": 5325,
+    "source_paragraphs": 127,
+    "translation_characters": 9913,
+    "translation_paragraphs": 123
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "보상",
+        "preferred": "Reward"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "귀가",
+        "preferred": "your family"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "사장님",
+        "preferred": "Boss"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "신성",
+        "preferred": "Morning Star"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "황하",
+        "preferred": "Yellow River"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}

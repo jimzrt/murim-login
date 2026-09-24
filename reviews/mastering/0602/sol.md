@@ -6,7 +6,7 @@ A whip could be an effective way to make someone do what you wanted. It could al
 
 From his seat at the head of the table, Team Leader Choi called on one of the youngest executives. Hong answered, his face tense.
 
-“Yes, yes.”
+“Y-yes?”
 
 “I’ve heard a great deal about you, Director Hong. They say you’re exceptionally capable.”
 
@@ -16,7 +16,7 @@ From his seat at the head of the table, Team Leader Choi called on one of the yo
 
 “…”
 
-Team Leader Choi’s tone and voice were gentle, but an unmistakable anxiety appeared on Director Hong’s face. And there was bound to be a reason why Team Leader Choi had singled out one person from among dozens of executives.
+Team Leader Choi’s voice was gentle, but anxiety showed plainly on Hong’s face. There had to be a reason he had singled out one person among dozens of executives.
 
 “I grew up overseas, so it was hard to fit in at first. But people live there too, after all. One by one, I made friends.”
 
@@ -38,7 +38,7 @@ How many people at this table were clean as fresh water? They hadn’t avoided a
 
 The sewage, and those with filth floating in them, were already having a reunion in the detention center.
 
-“Are you feeling unwell? You’re breaking out in a cold sweat.”
+“Are you feeling unwell? You’re sweating.”
 
 Director Hong wiped his forehead. “Oh, no. It’s just a little hot.”
 
@@ -52,13 +52,13 @@ There was, of course, an exception.
 
 The speaker was a middle-aged man with irritable eyes and a sparse white beard. He tapped thick knuckles on the round table.
 
-“Are you seriously threatening us?”
+“Are you threatening us?”
 
 “You’re Director Kim, in charge of the Asian region.”
 
 Team Leader Choi rubbed his chin. “Is that how it feels?”
 
-“What if it did?”
+“What else would you call it?”
 
 “I won’t deny it. It’s true.”
 
@@ -88,7 +88,7 @@ But…
 
 “So what?”
 
-At my question, bewilderment flashed across Director Kim’s face.
+Bewilderment flashed across his face. “What?”
 
 “What, asshole?”
 
@@ -122,7 +122,7 @@ Team Leader Choi smacked his lips. “This is a different matter. Someone might 
 
 “Things have been going pretty well for me lately, but even I couldn’t stay out of prison, could I?”
 
-“That’s right. But given how favorable the public image and public opinion surrounding Mr. Jin Taekyung are at present, if things go well, you might be able to settle for a few years.”
+“Probably not. But your public image is so good right now, Mr. Jin, that you might get away with only a few years.”
 
 “Right. What if I was drunk?”
 
@@ -148,7 +148,7 @@ It was only talk, of course.
 
 What mattered was how it sounded to him. I was the madman who had gone berserk, smashed up Ares Guild headquarters, and killed people without a thought for the consequences. Right now, even a joke from me would sound like a threat.
 
-*If the whip doesn’t work, you need one hell of a strong whip.*
+*If a whip doesn’t work on someone, you need a much bigger fucking whip.*
 
 The one man who had come close to openly dissenting pressed his lips together. Vice President Park Daewon, who had been watching quietly, spoke up.
 
@@ -162,7 +162,7 @@ The one man who had come close to openly dissenting pressed his lips together. V
 
 Startled voices came from around the table. But the tide had turned, and Team Leader Choi offered them the carrot he had prepared.
 
-“If the rest of you accept Vice President Park Daewon’s opinion, Ares Guild will stabilize quickly. The vacancies created by this incident will soon be filled as well.”
+“If the rest of you agree with Vice President Park, Ares Guild will stabilize quickly. The vacancies left by this incident will soon be filled.”
 
 “…What are you saying?”
 
@@ -176,7 +176,7 @@ If Ares Guild changed hands, its existing executives had the most to lose. Take 
 
 Besides, Team Leader Choi had nothing to disqualify him. Quite the opposite. He was more than qualified, which was why he could speak with such quiet confidence.
 
-“I’ll put everything that has happened until now behind me. I’ll quickly stabilize the Guild, restore its tarnished image, and use this incident as a stepping stone to make it grow even larger.”
+“I’ll put everything that’s happened behind us. I’ll bring order back to the Guild quickly, restore its damaged reputation, and use this as a chance to make it grow stronger than ever.”
 
 No one questioned him now. It wasn’t only the carrot. They knew what Team Leader Choi could do.
 
@@ -184,17 +184,17 @@ In barely half a year, he had brought Peace Guild to where it stood today. I’d
 
 And there was something else.
 
-*He’s Cheon Taemin’s only blood descendant.*
+*He’s Cheon Taemin’s only blood relative.*
 
 Dynasties had vanished from this country long ago, but Cheon Taemin’s name belonged to the realm of the divine.
 
 The bloodline of the man who saved humanity carried its own power and nobility. No chaebol group, however wealthy, and no dynasty that had ever existed could claim to stand above Team Leader Choi.
 
-And a title like that was bound to carry tremendous influence, especially within Ares Guild.
+That lineage carried tremendous weight—especially inside Ares Guild.
 
 “Hmm.”
 
-Low groans rose from various parts of the conference room. They knew it too. Lee Jungryong and Go Jun had been nothing more than usurpers, while Team Leader Choi—with undeniable legitimacy and ability—was the one suited to become the new City Lord.
+Low murmurs rose around the conference room. They knew it too. Lee Jungryong and Go Jun had been usurpers. Team Leader Choi had both undeniable legitimacy and the ability to become the new City Lord.
 
 *Scrape.*
 
@@ -222,11 +222,11 @@ Only one executive remained seated.
 
 *Vice President Park Daewon.*
 
-Under the gazes of Team Leader Choi and me, he finally rose quietly from his seat. An aged voice slipped through his dry lips.
+With Team Leader Choi and me watching him, he finally rose. His aging voice came through dry lips.
 
 “Do you know I’ll be retiring soon?”
 
-Team Leader Choi calmly nodded, and Vice President Park Daewon muttered softly.
+Team Leader Choi nodded calmly. Park murmured, “Then this will be my last job.”
 
 “If you wish, I can arrange for you to stay longer.”
 
