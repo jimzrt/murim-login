@@ -1494,3 +1494,6 @@ Overrides generic relationship prose in character profiles for this pair.
 | 월화 | 진 공자 | Lower District Sect branch leader to client and ally | Young Master Jin | polite and familiar | Her missive addresses Taekyung as 진 공자 and includes personal, affectionate language. |
 | 풍운검군 | 노호검객 | Zhongnan Sect Leader to Senior Brother | Senior Brother | respectful and strained | Addresses him as 사형 while protesting the decision. |
 | 풍운검군 | 태을무정검 | Zhongnan Sect Leader to Senior Brother | Senior Brother | respectful and strained | Addresses him as 사형 while protesting the decision. |
+| 홍표 | 진태경 | military officer addressing the Marquis of Shangshan | Marquis of Shangshan | formal and deferential | Hong Pyo recognizes Taekyung and salutes him using his title. |
+| 홍표 | 사마공 | military officer enforcing a checkpoint procedure on a regional sect leader | old man | formally phrased but blunt and disrespectful | Hong Pyo demands Sima Gong’s identity tablet and warns him not to refuse. |
+| 홍표 | 적천강 | military officer enforcing a checkpoint procedure on an older martial artist | old man | blunt and disrespectful | Hong Pyo demands an identity tablet and travel pass, calling Jeok Cheongang suspicious. |

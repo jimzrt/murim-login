@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Namho had just turned away after thanking him, but his voice faltered without his meaning to.",
+      "defect": "Namho turns to thank Sama Pyo; he does not turn away after completing his thanks.",
+      "id": "F01",
+      "rationale": "막 돌아선 and the unfinished thanks place his turn before the attempted expression of gratitude.",
+      "replacement": "Namho had just turned to thank him when his voice faltered despite himself.",
+      "severity": "critical",
+      "source": "감사를 표하며 막 돌아선 남호가 무심코 말꼬리를 흐리자"
+    },
+    {
+      "confidence": 0.94,
+      "current": "But what mattered now was who had put bells around the necks of all those black cats—and what their true intentions were.",
+      "defect": "The plural possessive makes the intentions sound like the cats’ rather than the bell-ringer’s.",
+      "id": "F02",
+      "rationale": "그 진정한 의도 refers to the intentions of the person controlling them.",
+      "replacement": "But what mattered now was who had put bells around the necks of all those black cats—and what that person truly intended.",
+      "severity": "major",
+      "source": "그러나 현재의 상황에서 중요한 것은, 수많은 저 검은 고양이들의 목에 방울을 단 이가 누구이며 그 진정한 의도가 무엇이냐는 것이었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Only then did the imperial troops lower their bows and weapons, then kneel in unison behind Hong Pyo.",
+      "defect": "The troops’ prostration is omitted, and ‘behind Hong Pyo’ turns following his example into a position.",
+      "id": "F03",
+      "rationale": "홍표를 따라 describes following his lead; 부복 adds a bow to the ground after kneeling.",
+      "replacement": "Only then did the imperial troops lower their bows and weapons, kneel in unison like Hong Pyo, and bow low.",
+      "severity": "major",
+      "source": "그제야 활과 병장기를 거두고 홍표를 따라 일제히 무릎을 꿇고 부복하는 관군들의 모습에"
+    },
+    {
+      "confidence": 0.97,
+      "current": "You look old enough that I’ll overlook your tongue being half a foot short, but if you keep refusing, old man, you won’t like what happens.",
+      "defect": "The literal tongue image is opaque in English and loses Hong Pyo’s pointed tolerance of Sima Gong’s overly familiar speech.",
+      "id": "F04",
+      "rationale": "혀가 반 토막 난 is a rebuke for dropping the expected respectful speech level.",
+      "replacement": "You’re clearly older, so I’ll overlook how casually you speak to me. But keep refusing, old man, and you won’t like what happens.",
+      "severity": "major",
+      "source": "척 봐도 연배가 있어 보이니 혀가 반 토막 난 것은 이해해 주겠지만, 계속 불응할 시에는 노인장도 재미없을 거요."
+    },
+    {
+      "confidence": 0.9,
+      "current": "Captain. I think I’m about to piss myself.",
+      "defect": "It specifies urination where the source leaves what Mujin is about to ‘let out’ unstated, preserving the joke’s ambiguity.",
+      "id": "F05",
+      "rationale": "The same euphemistic wording first accompanies Mujin’s excitement and later returns when he is frightened.",
+      "replacement": "Captain. I think I’m gonna burst.",
+      "severity": "major",
+      "source": "조장님. 저 쌀 것 같습니다."
+    },
+    {
+      "confidence": 0.89,
+      "current": "Piss yourself, my ass. You lunatic.",
+      "defect": "The narration repeats the draft’s unnecessarily specific interpretation of Mujin’s euphemism.",
+      "id": "F06",
+      "rationale": "Taekyung retorts using Mujin’s own ambiguous verb.",
+      "replacement": "Burst, my ass. You lunatic.",
+      "severity": "major",
+      "source": "싸긴 뭘 싸, 미친놈아."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Captain. I really think I’m about to piss myself.",
+      "defect": "The repeated line again specifies urination, weakening the callback between Mujin’s earlier excitement and his fear now.",
+      "id": "F07",
+      "rationale": "저 진짜 쌀 것 같아요 deliberately repeats the earlier euphemism with 진짜 added.",
+      "replacement": "Captain. I really think I’m gonna burst.",
+      "severity": "major",
+      "source": "조장님. 저 진짜 쌀 것 같아요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“I pay our respects to the Marquis of Shangshan!”",
+      "defect": "The soldiers’ collective response combines singular ‘I’ with plural ‘our.’",
+      "id": "F08",
+      "rationale": "Hundreds of troops shout the line together.",
+      "replacement": "“We pay our respects to the Marquis of Shangshan!”",
+      "severity": "minor",
+      "source": "상산후를 배알하나이다!"
+    },
+    {
+      "confidence": 0.95,
+      "current": "“And your travel pass as well. Your hair’s bright red from head to toe. You look downright suspicious.”",
+      "defect": "‘Hair from head to toe’ is anatomically incoherent and misreads the emphasis that even his hair is red.",
+      "id": "F09",
+      "rationale": "머리카락부터 emphasizes the conspicuous hair, not hair covering his body.",
+      "replacement": "“And your travel pass as well. Even your hair is bright red. You look downright suspicious.”",
+      "severity": "minor",
+      "source": "머리카락부터 온통 시뻘건 게 영 수상하기 짝이 없군."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it reverses Namho’s movement, loses a key hierarchy cue, and makes a recurring euphemism more explicit than the source.",
+  "version": 1
+}
