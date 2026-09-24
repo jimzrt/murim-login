@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "For one brief instant, it swallowed the narrow gorge whole. Then, from within the enormous cloud of dust, two gusts of wind blew.",
+      "defect": "The draft makes the shock wave, rather than the dust cloud, engulf the gorge.",
+      "id": "F01",
+      "rationale": "The subject of 집어삼킨 is 그 거대한 먼지구름.",
+      "replacement": "An enormous cloud of dust swallowed the narrow gorge in an instant. From within it, two gusts of wind blew.",
+      "severity": "critical",
+      "source": "그리고 찰나의 순간 비좁은 협곡을 집어삼킨 그 거대한 먼지구름 사이로, 두 줄기의 바람이 불었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "That tiny trickle—barely more than a handful—was all the North Heaven Demon Lord had managed to draw. The Master and Disciple didn’t let the opportunity slip.",
+      "defect": "“Barely more than a handful” reverses the stated amount.",
+      "id": "F02",
+      "rationale": "한 줌도 되지 않는 means less than a handful.",
+      "replacement": "That tiny trickle—not even a handful—was all the North Heaven Demon Lord had managed to draw. The Master and Disciple didn’t let the opportunity slip.",
+      "severity": "critical",
+      "source": "불과 한 줌도 되지 않는 그 미량의 핏물만이 북천마군이 취할 수 있었던 모든 것이었고, 두 스승과 제자는 기회를 놓치지 않았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The cold air of dawn—and the moisture in it—vaporized in an instant.",
+      "defect": "The draft says the air itself vaporizes; the source specifies the moisture in it.",
+      "id": "F03",
+      "rationale": "그 안에 스며든 습기가 identifies the moisture as what evaporates.",
+      "replacement": "The moisture in the cold dawn air evaporated in an instant.",
+      "severity": "major",
+      "source": "새벽의 찬 공기가, 그 안에 스며든 습기가 단숨에 증발한다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "There was no time to choose another option, much less find one.",
+      "defect": "The draft turns a lack of available choices into a lack of time to choose.",
+      "id": "F04",
+      "rationale": "The first clause rules out any remaining choice; the second rules out time to find a new one.",
+      "replacement": "There were no choices left, not even time to look for another.",
+      "severity": "major",
+      "source": "더 이상 선택의 여지도, 새로운 선택지를 찾을 시간조차 없다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "And as the North Heaven Demon Lord endured that instant of pain and stumbled backward in a desperate retreat, the spearhead he had abandoned flashed toward him in search of a new master.",
+      "defect": "The draft leaves the spear searching for a master, whereas the source says it has found one.",
+      "id": "F05",
+      "rationale": "새로운 주인을 찾은 describes a completed change of wielder.",
+      "replacement": "And as the North Heaven Demon Lord endured that instant of pain and stumbled backward in a desperate retreat, the spearhead that had left him for a new master flashed toward him.",
+      "severity": "major",
+      "source": "그리고 찰나의 고통을 감내하며 다급하게 뒷걸음질 치는 북천마군을 향해, 그를 떠나 새로운 주인을 찾은 창날이 번뜩였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He burst through the churning dust cloud, launching himself off the cliff face and into open air.",
+      "defect": "The draft omits his stepping on the air as well as the cliff face.",
+      "id": "F06",
+      "rationale": "암벽과 허공을 밟으며 makes both the cliff face and empty air surfaces he steps on.",
+      "replacement": "He burst through the churning dust cloud, bounding off the cliff face and the very air.",
+      "severity": "major",
+      "source": "휘몰아치는 먼지구름을 뚫고, 암벽과 허공을 밟으며 쏘아졌다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A blinding, brilliant flame swallowed the darkness. The North Heaven Demon Lord instinctively looked up, his eyes turning white with its light.",
+      "defect": "The draft replaces the binding rendering of 광염 with a generic flame.",
+      "id": "F07",
+      "rationale": "The packet’s glossary renders 광염 as “light-flames.”",
+      "replacement": "Blinding light-flames swallowed the darkness. The North Heaven Demon Lord instinctively looked up, his eyes turning white with their light.",
+      "severity": "minor",
+      "source": "눈부신 광염(光焰)이 어둠을 집어삼킨다. 본능적으로 고개를 든 북천마군의 두 눈동자를 새하얗게 물들였다."
+    }
+  ],
+  "summary": "Several action and quantity details change in the draft; one established term is also missing.",
+  "version": 1
+}
