@@ -12,7 +12,7 @@ When his tightly closed lips finally parted, he already had his answer.
 
 The Beast Miao King asked calmly, “What will I regret? Coming to find you? Or rescuing Jin Taekyung and the other Han Chinese?”
 
-“Everything that has happened until now.”
+“Everything you’ve done until now.”
 
 “Like you, Baeksang?”
 
@@ -58,7 +58,7 @@ The cold scrape of metal cut through the brief silence. The Beast Miao King’s 
 
 “I can’t help it, Palace Lord. Right now… it’s the best I can do.”
 
-“It’s much better not to hear that awkward formal speech. It feels as though we’ve gone back to the old days.”
+“That clumsy show of respect was wearing thin. This is better. It almost feels like the old days.”
 
 “You know as well as I do, Palace Lord. We can never go back to those days.”
 
@@ -80,11 +80,11 @@ Slice!
 
 Three tigers ran like the wind, led by the snow-white White Tiger.
 
-Wonhu, the eldest of the Seven Miao Tigers, watched their backs disappear into the darkness and muttered,
+Wonhu, the eldest of the Seven Miao Tigers, watched them disappear into the darkness.
 
 “Damn, they’re fast.”
 
-That was the entirety of his impression.
+That was all he had to say.
 
 Those who were leaving had left. Those who remained had stayed. He and the others had chosen to stay.
 
@@ -100,7 +100,7 @@ The scent of liquor spread the instant he pulled the stopper. The eyes of the ne
 
 “That smells incredible. Did you brew it yourself, Big Brother?”
 
-“Hell, did they round up nothing but a pack of fucking mutts? Why are all your noses so sharp?”
+“Hell, did they round up nothing but a pack of mutts? How are your noses so sharp?”
 
 He grumbled, but his eyes were smiling. With a look of helpless resignation, Wonhu passed the gourd to the men crowding around him.
 
@@ -160,7 +160,7 @@ Even if every one of them died here, their only hope would make it out of danger
 
 That was why Wonhu could laugh. He thought of the man who had always led from the front, who had sent even his only heir here to set an example.
 
-*I’ll gladly accept punishment for disobeying your order… in the afterlife, my lord.*
+*I’ll gladly take my punishment for disobeying your orders… when we meet in the afterlife, my lord.*
 
 Neither the Beast Miao King nor Yayul Mok feared death. They never put their subordinates in front of them as shields, and they never backed away in terror.
 
@@ -168,7 +168,7 @@ The Beast Miao King loved the only child he had had late in life more than anyth
 
 *That’s enough of a reason to give mine.*
 
-Then, as he watched the last drops of liquor fall like the tears of an ant, he smacked his lips and suddenly spoke toward somewhere in the darkness that had settled all around them.
+Wonhu shook the now-empty gourd, watching a few drops fall. He smacked his lips, then called into the darkness around them.
 
 “Hey, got any liquor?”
 
@@ -184,7 +184,7 @@ Their scheduled shift change was long past, and the waves of energy reaching him
 
 “So? Are you going to share or not?”
 
-“I’ve heard there’s a monkey among the Miao people who likes liquor. Catch.”
+“I heard the Miao had a liquor-loving monkey. Catch.”
 
 Whoosh.
 
@@ -198,11 +198,11 @@ There was no mistaking it. His lord, the Beast Miao King, had made this gourd hi
 
 The voice reached his ears again. Wonhu slowly raised his head.
 
-His white robes were stained with blood and filth from unknown owners. His skin was so starkly white that *pallid* was the only word for it.
+A man stood before him, his white robes stained with blood and filth. His skin was pale enough to match them.
 
 “……Baeksang.”
 
-“How dare a mere warrior casually speak the name of the Great Chieftain?”
+Baeksang replied flatly, “How dare a mere warrior speak a Great Chieftain’s name so casually?”
 
 “What happened to my lord?”
 
@@ -214,7 +214,7 @@ Baeksang flicked his blood-soaked sleeve. In an instant, more than a hundred Bai
 
 *Damn it.*
 
-Wonhu cursed inwardly and drew the broad-bladed saber tucked into his waist.
+Wonhu drew the broad-bladed saber tucked into his belt.
 
 He glanced up. Clouds covered the moon tonight, of all nights. It was a poor night to die, but the darkness was a blessing in one respect.
 
@@ -224,7 +224,7 @@ The fugitives would have the advantage if anyone gave chase.
 
 There was only one thing left to do.
 
-Wonhu—or rather, all of them—raised their weapons and charged toward the enemy without hesitation.
+Wonhu—and every warrior with him—raised their weapons and charged without hesitation.
 
 Their roar was too great for fear to find a place among them.
 
@@ -278,7 +278,7 @@ Within a day at most—perhaps half a day—a net over heaven and earth would be
 
 That was the best outcome I could imagine.
 
-With Dark Heaven’s intervention and Baeksang’s betrayal now certain, and with me having become the star of a massacre that had never been in the cards for me, no one could predict what variables might arise.
+Dark Heaven’s involvement and Baeksang’s betrayal were certain now. I’d somehow ended up at the center of a massacre I’d never asked for. There was no telling what else might happen.
 
 *First, get every Fire Dragon Pavilion member out. After that…*
 

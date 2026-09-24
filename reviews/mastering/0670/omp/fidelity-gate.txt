@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled copy is largely faithful, but it drops a physical action and a vocal detail preserved in the source and accepted baseline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 181–183",
+      "current": "Then, as he watched the last drops of liquor fall like the tears of an ant, he smacked his lips and suddenly spoke toward somewhere in the darkness that had settled all around them.",
+      "defect": "The translation omits Wonhu shaking out the empty gourd before watching the last drops fall.",
+      "replacement": "Wonhu shook the empty gourd. Then, as he watched the last drops of liquor fall like the tears of an ant, he smacked his lips and suddenly spoke toward somewhere in the darkness that had settled all around them.",
+      "rationale": "The source explicitly says he shook the empty gourd (탈탈 털었다) before watching the drops. The accepted baseline preserves this action.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 217–219",
+      "current": "“How dare a mere warrior casually speak the name of the Great Chieftain?”",
+      "defect": "The translation drops the description that Baeksang answers in a dry voice.",
+      "replacement": "Baeksang answered in a dry voice. “How dare a mere warrior casually speak the name of the Great Chieftain?”",
+      "rationale": "The source explicitly characterizes Baeksang’s voice as dry (건조한 음성으로), a vocal detail the accepted baseline also retains.",
+      "confidence": 0.98
+    }
+  ]
+}
