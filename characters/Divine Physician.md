@@ -1,6 +1,6 @@
 # Divine Physician (신의)
 
-- **Safe through:** Chapter 957
+- **Safe through:** Chapter 958
 - **Aliases:** Medicine Immortal
 - **Role:** The Divine Physician is Mungyeong, the legendary physician and former Slaughter Saint who passed the Divine Physician title to his Disciple.
 - **Personality:** He is devoted to medicine and the lives he could not save, yet remains composed and self-effacing under mortal danger.

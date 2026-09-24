@@ -1441,3 +1441,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 늙은 목수 | 진위경 | commoner to Lesser Family Head | Lesser Family Head | deferential | Addresses Wikyung as 소가주님; Wikyung urges him to speak less formally. |
 | 진위경 | 동정어옹 | Younger ally addressing an older martial arts senior | Senior | Respectful | Jin Wikyung addresses him as 노 선배. |
 | 동정어옹 | 진위경 | Older martial arts senior addressing a younger ally | you | Familiar and informal | He addresses Jin Wikyung as 자네. |
+| 자무카 | 무칼 | lord_to_subordinate | Mukal | commanding | Jamukha summons him by name to give an order. |
+| 자무카 | 제르메 | lord_to_subordinate | Jerme | commanding | Jamukha summons him by name to give an order. |
+| 자무카 | 티라운 | lord_to_subordinate | Tiraun | commanding | Jamukha calls him by name while ordering him into the gorge. |
+| 자무카 | 보오르추 | lord_to_subordinate | Boorchu | commanding | Jamukha calls him by name while ordering him into the gorge. |
+| 자무카 | 옹게 | lord_to_subordinate | Ongge | commanding | Jamukha calls him by name while ordering him into the gorge. |

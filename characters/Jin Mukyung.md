@@ -1,6 +1,6 @@
 # Jin Mukyung (진무경)
 
-- **Safe through:** Chapter 956
+- **Safe through:** Chapter 958
 - **Aliases:** Heaven Shaking Sword; Jin Family Second Young Master
 - **Role:** Jin Mukyung is the second son of the Jin Family of Taiyuan, a Peak-level swordsman known as the Heaven Shaking Sword, and Commander of the Heaven Shaking Squad.
 - **Personality:** Reserved and disciplined, Jin Mukyung is devoted to swordsmanship and seeks strength in service of his family.

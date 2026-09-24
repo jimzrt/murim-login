@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "He had seen the scars on the neck of the subordinate who had returned a few days ago instead of bringing back news of victory. That was why he had no choice but to make this decision.",
+      "defect": "The subordinate did not return alive; only his severed head came back. The source also describes a wound, not multiple scars.",
+      "id": "F01",
+      "rationale": "The preceding passage establishes that only the subordinate’s head returned, and Jamukha bases his judgment on the mark left on it.",
+      "replacement": "A few days ago, his subordinate’s severed head had returned instead of news of victory. Jamukha had seen the wound on its neck, leaving him no choice but to make this decision.",
+      "severity": "critical",
+      "source": "며칠 전, 승전보 대신 되돌아온 수하의 목에 남은 상흔(傷痕)을 보았기에 이런 판단을 내릴 수밖에 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*And the man who commands them is standing right beside me.*",
+      "defect": "Italics format Jamukha’s whispered threat as a private thought rather than dialogue Temur hears.",
+      "id": "F02",
+      "rationale": "The narration says Jamukha speaks too quietly for anyone else to hear; Temur’s immediate reaction depends on hearing him.",
+      "replacement": "“And the man who commands them is standing right beside me.”",
+      "severity": "major",
+      "source": "그리고 저들을 거느린 네놈은, 지금 내 옆에 있고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jamukha recognized him as one of the Keshik who had headed into the gorge with the three commanders moments earlier. His gaze darkened.\n\nNo—the weapons in the man’s hands did.",
+      "defect": "The correction identifies why Jamukha’s gaze darkens; it does not say the weapons themselves darken.",
+      "id": "F03",
+      "rationale": "The weapons reveal the commanders’ fate and cause Jamukha’s reaction.",
+      "replacement": "Jamukha recognized him as one of the Keshik who had headed into the gorge with the three commanders moments earlier. His gaze darkened at the sight of the weapons in the man’s hands.",
+      "severity": "major",
+      "source": "그가 조금 전 세 명의 백인장과 함께 협곡으로 향했던 케식의 일원임을 알아본 자무카의 눈빛이 깊게 가라앉았다.\n\n아니, 정확히는 그의 손에 들려 있는 병장기 때문이었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Drenched in dark red blood, he tossed aside his black-wood fishing rod and raised two swords, one long and one short. He smiled.",
+      "defect": "The draft makes Chinggen the thing drenched in blood; the source specifies that the fishing rod is soaked.",
+      "id": "F04",
+      "rationale": "The blood-soaked modifier attaches to 흑목조간, the rod.",
+      "replacement": "He tossed aside his black-wood fishing rod, soaked in dark red blood, and raised two swords, one long and one short. He smiled.",
+      "severity": "critical",
+      "source": "검붉은 핏물로 흠뻑 젖어 있는 흑목조간(黑木釣竿)을 내던진 그는, 각기 길고 짧은 두 자루의 검을 곧추세우며 웃었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Their bulging temples and sharp, shining eyes were proof that they were masters at the very peak of their skill.",
+      "defect": "“Peak” is a martial-arts level here, not a general assessment of their skill.",
+      "id": "F05",
+      "rationale": "절정 names the established Peak level, while 끝자락 places them near its upper end.",
+      "replacement": "Their bulging temples and sharp, shining eyes showed that these masters had reached the upper reaches of the Peak realm.",
+      "severity": "major",
+      "source": "불룩 튀어나온 관자놀이의 태양혈(太陽穴)과 번뜩이는 안광은 이들이 절정의 끝자락에 도달한 고수라는 증거."
+    }
+  ],
+  "summary": "Several passages change who or what is acted upon, including a severed head, spoken dialogue, and a blood-soaked weapon.",
+  "version": 1
+}
