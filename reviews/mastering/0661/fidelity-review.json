@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Worse, I couldn’t deny what he said.",
+      "defect": "“Worse” adds a negative judgment that the source does not make. The source says Baeksang was unusually candid and that his words were undeniable, not that the latter fact made the situation worse.",
+      "id": "F01",
+      "rationale": "한편으로는 connects the statements with “at the same time” or “on the other hand”; it does not establish that the undeniable facts are worse.",
+      "replacement": "At the same time, I couldn’t deny the facts behind his words.",
+      "severity": "minor",
+      "source": "Korean lines 75–77"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The result of that life-and-death duel that shook heaven and earth was the Martial God’s victory.",
+      "defect": "The assembled copy omits the preceding image, “the clash of two absolute beings,” which the source states explicitly and the accepted baseline preserves.",
+      "id": "F02",
+      "rationale": "두 절대자의 격돌 is an explicit description of the clash, not merely another way to describe the duel’s result.",
+      "replacement": "The clash between two absolute beings. The result of that life-and-death duel that shook heaven and earth was the Martial God’s victory.",
+      "severity": "minor",
+      "source": "Korean line 139"
+    },
+    {
+      "confidence": 0.94,
+      "current": "I swallowed the words that tried to burst out of me.",
+      "defect": "The source says the remark pierced the narrator’s ears as he instinctively swallowed his reaction. The assembled copy drops that image, which the accepted baseline preserves.",
+      "id": "F03",
+      "rationale": "귓가를 파고드는 한 마디 describes the remark as piercing the narrator’s ears; it is a source image omitted from the current version.",
+      "replacement": "At the words that pierced my ears, I instinctively swallowed the words trying to burst out of me.",
+      "severity": "minor",
+      "source": "Korean line 267"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with a few minor shifts and omissions from the source and accepted baseline.",
+  "version": 1
+}
