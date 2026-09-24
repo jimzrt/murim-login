@@ -1,22 +1,24 @@
 # Translation State
 
-- Last completed: 1001
-- Next chapter: 1002
-- Current block: 1000–1004 (2/5)
-- Latest translation: `translations/1001.md`
-- Latest summary: `summaries/beats/1001.md`
-- Safe profiles through: chapter 1001
+- Last completed: 1002
+- Next chapter: 1003
+- Current block: 1000–1004 (3/5)
+- Latest translation: `translations/1002.md`
+- Latest summary: `summaries/beats/1002.md`
+- Safe profiles through: chapter 1002
 
 ## Current Block
 
-- The Zhongnan Sect joins Taekyung’s party, bringing the group to roughly a thousand as they travel toward Gansu. Jeok Cheongang urges the Zhongnan disciples to hurry, then approves of Taekyung’s pragmatic, outward reconciliation with them. Near the Shaanxi–Gansu border, the group encounters a village crowd; the Zhongnan elders nearly frighten the civilians, but Jeok stops them and makes them apologize. The villagers reveal that they mistook the approaching party for a vicious gang of mounted bandits.
+- A Lower District Sect member revealed that he had exaggerated rumors of mounted bandits near the Shaanxi–Gansu border to move civilians away from danger. He reported that mounted-bandit groups in Ningxia had recently begun acting strangely, though they have since disappeared. Zhongnan disciples stayed behind to guide the civilians toward Shaanxi, while Taekyung’s party continued into Gansu.
+- The Wind-and-Cloud Sword Lord explained that Ningxia had once been ruled by mounted-bandit groups until a single, unidentified master pacified the region nearly ten years ago. Jeok Cheongang judged that the master must have reached at least Supreme Peak.
 
 ## Open Questions
 
 - Where will Dark Heaven’s advancing army strike, and what is its objective?
 - What caused the System malfunction, and is it connected to the Lord of Heaven?
 - Why did Sama Pyo’s father order him to return immediately?
-- Who are the mounted bandits feared by the villagers, and where are they?
+- Who pacified Ningxia nearly ten years ago?
+- What caused the mounted-bandit groups in Ningxia to show renewed activity, and where have they gone?
 
 ## Exceptional Decision
 
