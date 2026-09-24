@@ -1,0 +1,15 @@
+{
+  "summary": "One duplicated sentence adds an unintended repetition.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 65–67",
+      "current": "Baek Hanseong muttered bitterly, “Not one of them knows how to behave.”\n\nBaek Hanseong muttered bitterly, “Not one of them knows how to behave.”",
+      "defect": "The same sentence appears twice in the assembled English, while the Korean has it once.",
+      "replacement": "Baek Hanseong muttered bitterly, “Not one of them knows how to behave.”",
+      "rationale": "The source contains a single narration-and-dialogue beat before the secretary asks, “예?” The extra repetition is not in the source.",
+      "confidence": 1.0
+    }
+  ]
+}

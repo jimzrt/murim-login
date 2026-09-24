@@ -44,9 +44,7 @@ Minwoo was young, capable, and had legitimacy on his side. If he became Vice Gui
 
 Opposition from the Guild Association was only to be expected. The problem was that they wanted *Baek* to reward their contributions and repay their favors.
 
-Baek Hanseong muttered bitterly, “Not one of them knows how to behave.”
-
-Baek Hanseong muttered bitterly, “Not one of them knows how to behave.”
+“…Speak of the devils,” he muttered bitterly.
 
 “Excuse me?”
 
@@ -102,7 +100,7 @@ He must have had a rough time. He looked ten years older than when I’d last se
 
 I gave him a sympathetic look and patted his shoulder.
 
-“I get that, but I’m telling you, this is a no-smoking area.”
+“I get that, but this is a no-smoking area.”
 
 “…”
 
@@ -142,7 +140,7 @@ I’d been listening in silence, but I cut in. “You can be more honest than th
 
 “…!”
 
-“Our Peace Guild is growing at a terrifying pace even as we speak. And now Ares Guild is going to bow before Team Leader Choi as well? If that happens, the game is completely over.”
+“Our Peace Guild is growing at a frightening pace even now. If Ares Guild bows to Team Leader Choi too, that’s game over.”
 
 A corporation’s strength came from its size and capital. A Guild’s came from its Hunters. By that measure, Peace Guild already had standing and fighting strength far beyond the country’s ten largest Guilds.
 
@@ -162,7 +160,7 @@ A flame of Samadhi True Fire flickered into being. Baek stared at it in surprise
 
 Sizzle. Hoo.
 
-White smoke poured out with his breath. Perhaps because it had been so long since he had smoked, he leaned back against the sofa and closed his eyes before suddenly removing the cigarette from his lips.
+White smoke streamed out with his breath. Perhaps because it had been so long since he’d smoked, he leaned back against the sofa and closed his eyes. Then he spoke.
 
 “Hunter Jin Taekyung is right. I’m more worried about a second Lee Jungryong than a second Ares Guild.”
 
@@ -196,13 +194,13 @@ Baek’s eyes lit up. “You mean…?”
 
 “Trust me. I’ll use my influence and power fairly and justly, and I’ll hand over a share of the interests—enough to satisfy the Guild Association. If you like, I’ll put it in writing.”
 
-“!”
+“…!”
 
 “But now that I’ve given you the answer you wanted, I’d like a promise from you in return.”
 
 Baek blinked at the unexpected offer, then leaned forward. “What is it?”
 
-“I don’t want any more noise surrounding my actions from now on. Resolve the problem with the Guild Association, and stop the ongoing field investigation at Ares Guild headquarters.”
+“I don’t want any more interference with what I do next. Settle the matter with the Guild Association, and stop the investigation at Ares Guild headquarters.”
 
 It was an alliance founded on trust, but it was a deal too. Baek was a seasoned politician. He nodded without much hesitation.
 
@@ -210,7 +208,7 @@ It was an alliance founded on trust, but it was a deal too. Baek was a seasoned 
 
 “Then it’s settled. Nice and clean.”
 
-As though they had planned it in advance, the two men rose from their seats at the same time and extended their hands.
+As though they’d agreed on a signal, both men stood and held out their hands. They were about to shake when Baek turned to me.
 
 “Hunter Jin Taekyung. May I ask one last question?”
 
@@ -230,7 +228,7 @@ My eyes met Team Leader Choi’s. I read his assent there and shrugged.
 
 “Why? Going to send them back in?”
 
-“I am curious what Go Se-won was hiding, but… if I were that stupid, I would never have made it this far.”
+“I’d be lying if I said I wasn’t curious about what Go Se-won kept hidden. But if I were foolish enough to do that, I wouldn’t have made it this far.”
 
 With that politician’s answer, Baek smiled and took Team Leader Choi’s hand.
 
@@ -356,13 +354,13 @@ The Skeleton King looked aggrieved. I answered with complete confidence.
 
 “You despicable human. I’ll trust you one last time. But who *is* Hyuk Mujin, and why do you keep wagering his balls?”
 
-I casually ignored the Skeleton King’s question and gestured toward Team Leader Choi.
+I ignored him and gestured to Team Leader Choi.
 
 “You take that side. I’ll take this one. Bones can handle way over there.”
 
 “The area you’ve assigned me seems rather large.”
 
-“Team Leader, you’re hurting my feelings. If you don’t like it, quit. Is he our grandfather? He’s your grandfather.”
+“Team Leader, that hurts. If you don’t like it, quit. Is he my grandfather? He’s yours.”
 
 “That settles it. Understood.”
 
@@ -370,7 +368,7 @@ With the work divided, we got moving.
 
 Three hours later, we met up again, all wearing grim expressions.
 
-“Fuuuck… I can’t do this shit.”
+“Fuuuck… I can’t do this.”
 
 “For some reason, the mana detector isn’t working. And it’s the genuine luxury model I bought at a Sotheby’s auction.”
 
@@ -380,7 +378,7 @@ Knowing how meticulous Lee Jungryong was, I’d expected the secret area to be h
 
 No wonder the government investigators had come away empty-handed.
 
-*There isn’t even a reaction in the office. Could the information have been wrong?*
+*Not even a reading in the office. Could Go Se-won have been wrong?*
 
 But Go Se-won knew more about Ares Guild’s secrets than anyone left alive. With Lee Jungryong, Song Cheonwoo, and Go Jun dead, trusting him was our only…
 
