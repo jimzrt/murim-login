@@ -2,7 +2,7 @@
 
 “That day, you people showed me which path I should take.”
 
-With those words spat out in a bitter voice, his story—neither short nor long—came to an end. I silently stared into Baeksang’s coldly gleaming eyes.
+Baeksang spat out those words, and his story—neither short nor long—came to an end. I stared silently into his cold eyes.
 
 What did I want to say to him?
 
@@ -40,7 +40,7 @@ Confusion flickered in Baeksang’s eyes at my involuntary mutter. I clicked my 
 
 Baeksang looked down at me in silence. Then he asked, “What happened to him?”
 
-“I killed him. With my own hands.”
+“I killed him. Myself.”
 
 “…!”
 
@@ -54,13 +54,13 @@ Condemn him? What would that change now?
 
 “Condemning someone with words alone doesn’t do a damn thing. It wouldn’t stop you. That was the main reason I had to kill the Head Elder.”
 
-They stepped onto a path they had never wanted to take, then lost their way forever. They were like moths rushing toward a single torch—the torch of revenge.
+That was how people consumed by revenge met their end. They took a path they’d never wanted to follow and lost their way for good, like moths drawn to a single torch.
 
 “After I killed him, I wondered something. If the Jin Family of Taiyuan and I had lost that battle… would getting his revenge have finally made him happy?”
 
 “That…”
 
-“Probably not. He lived only for revenge, but at some point, his anger must have dulled, and watching innocent people be sacrificed must have left him feeling guilty.”
+“Probably not. Revenge was all he lived for, but somewhere along the way, his anger must have dulled. He must have felt guilty watching innocent people die.”
 
 I didn’t wait for Baeksang to answer.
 
@@ -68,19 +68,19 @@ I didn’t wait for Baeksang to answer.
 
 “…!”
 
-I calmly looked into Baeksang’s twisted face.
+I met his contorted gaze calmly.
 
-“I definitely don’t understand you. I’ve never gone through what you did, and I’ve never burned with revenge for decades. But at the same time, I admit it. At least as far as I’m concerned, your anger toward the Central Plains people and the Han Chinese is justified.”
+“I can’t claim to understand you. I haven’t been through what you have, and I haven’t spent decades burning for revenge. But I will say this: as far as I’m concerned, your anger toward the people of the Central Plains—the Han Chinese—is justified.”
 
 “Justified?” Baeksang repeated, his face rigid.
 
 He clearly hadn’t expected that answer, but I meant every word. I meant what I said next, too.
 
-“Yeah. I would’ve done the same thing if I were you. No—if I had been in your place, perhaps the entire Central Plains would already have been my enemy.”
+“Yeah. I would’ve felt the same. No—if I were you, the entire Central Plains might already be my enemy.”
 
 I remembered the day I’d gone to the Ares Guild.
 
-It wasn’t because I had possessed enough strength to make that choice. It was because I had been genuinely furious over Kim Hwajong’s death.
+I’d been alone, but I hadn’t hesitated for a step. Not because I was strong enough to be certain I’d win. I’d gone because Kim Hwajong’s death had made me furious.
 
 And I had brought down the Ares Guild.
 
@@ -96,7 +96,7 @@ But…
 
 Baeksang jerked. I kept my voice steady.
 
-“When I first set foot in Nanman, I heard some news. A Miao village had been massacred by a group of Han Chinese. Those Han Chinese had slaughtered a hundred people, men, women, and children alike, but in the end, both sides had been destroyed by poison.”
+“When I first arrived in Nanman, I heard that a group of Han Chinese had massacred a Miao village. They’d slaughtered a hundred people, young and old, men and women. In the end, even the Han Chinese died from poison.”
 
 Being locked alone in an underground prison gave me plenty of time to think. I’d gone over everything that had happened since I arrived, and I was certain of one thing.
 
@@ -110,7 +110,7 @@ All that had happened in just seven days and nights since I came to the Nanman B
 
 What frightened me more was what lay ahead. If Baeksang was to have his revenge in full, war with the Central Plains wasn’t merely possible. It was inevitable.
 
-“Just how…”
+“How much…”
 
 I looked at him, torn between pity and anger.
 
@@ -126,7 +126,7 @@ No—his mind was so full that he hadn’t noticed.
 
 Splash…
 
-While crossing the underground prison alone, the middle-aged man, Baeksang, suddenly looked back over his shoulder.
+His already soaked leather shoes came to a stop. Alone in the underground prison, Baeksang glanced back over his shoulder.
 
 Dark. Cold. Silent.
 
@@ -136,7 +136,7 @@ But Jin Taekyung would never walk as far as he had. Only two days remained until
 
 *It’s as good as over. He won’t escape.*
 
-A Supreme Peak master who stood out even in the Central Plains, where countless prestigious sects had taken root.
+Baeksang knew how formidable Jin Taekyung was: a Supreme Peak master who stood out even among the countless renowned sects of the Central Plains.
 
 Baeksang hadn’t used his full strength when they briefly exchanged moves a few days ago. Still, he had known instinctively.
 
@@ -150,7 +150,7 @@ Besides, something bound him more tightly than the iron balls.
 
 Jin Taekyung cared about his people. That was why he had surrendered and allowed himself to be imprisoned instead of escaping.
 
-*What a fool.*
+What a fool.
 
 In Baeksang’s eyes, compassion was the monstrous young man’s greatest weakness. Nothing made a martial artist less like a martial artist.
 
@@ -160,7 +160,7 @@ On the day blood stained the snow of Great Snow Mountain, that was what Baeksang
 
 *Come to think of it, Hwi was about his age then.*
 
-Baeksang stared blankly into the empty air. In the darkness where nothing existed, a face briefly passed through his mind.
+Baeksang stared into the empty air. A face passed before his eyes in the darkness.
 
 An infant becoming a boy. A boy becoming a young man.
 
@@ -170,7 +170,7 @@ The smiling face of the child he would never see again.
 
 Crunch.
 
-Without realizing it, Baeksang clenched his fist tightly. His neatly trimmed nails dug into his flesh, and blood began to flow.
+Baeksang had clenched his fist without realizing it. His neatly trimmed nails dug into his palm, and blood began to flow.
 
 Drip. Drip-drip.
 
@@ -182,7 +182,7 @@ Jin Taekyung’s last words kept ringing in his ears. But Baeksang’s answer wa
 
 *I crossed that river long ago. I can never go back.*
 
-He had crossed that river a long time ago.
+He had crossed it decades ago.
 
 Half-mad with despair and rage, Baeksang had met a beautiful woman whose identity he did not know. She had offered him something more alluring than her looks.
 
@@ -194,13 +194,13 @@ He hadn’t hesitated. With a purpose to live for, he had gladly taken her outst
 
 No. He must not regret it.
 
-*But why…?*
+*Then why…?*
 
 With the fruit of all those decades almost within his grasp, why was he wavering now?
 
 Baeksang swallowed the sound rising in his throat and gritted his teeth. He looked at his filthy leather shoes and the hems of robes that could no longer be called white.
 
-*In two days. Everything ends. Everything.*
+*Two days. In two days, everything ends. Everything.*
 
 At his feet, drops of blood spread through the pooled water. Dirty long before his blood touched it, the water slowly turned red.
 
@@ -224,11 +224,11 @@ Still, I didn’t regret it. I’d said everything I needed to say, and grovelin
 
 That didn’t mean I planned to let them drag me out in two days and quietly put me to death.
 
-*Are you crazy? I have to survive somehow.*
+*Fuck that. I have to survive somehow.*
 
 I’d meant it when I said his anger was justified. That didn’t mean I deserved to die at his hands. As far as I was concerned, the Head Elder and Baeksang were both idiots with tragic stories.
 
-And I intended to stop this new idiot I had met after traveling all the way to a foreign land, no matter what it took.
+And I was going to stop this new idiot I’d traveled all the way to a foreign land to meet.
 
 *But how do I get out?*
 
@@ -238,11 +238,11 @@ Tap.
 
 “Huh?”
 
-It was water. It might have been stale and tasteless, but the important thing was that it was water. The ceiling had probably opened up farther when Baeksang smashed the surrounding walls.
+Water. It would smell foul and taste awful, but it was water. Baeksang must have widened the crack in the ceiling when he smashed the place up.
 
 *Well, that helps.*
 
-I muttered inwardly and tilted my head back toward the ceiling.
+I tilted my head back.
 
 The next moment, through the crack in the ceiling, I found myself looking into a pair of eyes I hadn’t expected to see.
 

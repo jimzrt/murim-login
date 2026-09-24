@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "They stepped onto a path they had never wanted to take, then lost their way forever.",
+      "defect": "The translation omits the preceding sentence identifying this as the end of a revenge fiend. That framing is part of the source’s conclusion to the Head Elder’s story and introduces the metaphor that follows.",
+      "id": "F01",
+      "rationale": "The source says, “그것이 복수귀(復讐鬼)의 최후다” (“That is the end of a revenge fiend”) before describing how they lose their way.",
+      "replacement": "That is how a revenge fiend meets his end. They stepped onto a path they had never wanted to take, then lost their way forever.",
+      "severity": "minor",
+      "source": "Lines 63–65"
+    },
+    {
+      "confidence": 0.99,
+      "current": "It wasn’t because I had possessed enough strength to make that choice.",
+      "defect": "The translation omits that Jin Taekyung was alone at the time and took each step without the slightest hesitation. Both details establish the resolve behind his choice.",
+      "id": "F02",
+      "rationale": "The source explicitly says he was alone and his steps held no hesitation before explaining that his choice came from anger over Kim Hwajong’s death.",
+      "replacement": "Back then, I had been alone, but there had not been even a trace of hesitation in my steps. It wasn’t because I had possessed enough strength to make that choice.",
+      "severity": "minor",
+      "source": "Lines 91–97"
+    }
+  ],
+  "summary": "The assembled copy has two meaningful omissions that the accepted baseline preserved.",
+  "version": 1
+}
