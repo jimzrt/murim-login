@@ -126,4 +126,8 @@ while the model had no tokens — are picked up without redelivering webhooks.
    `/apply` always uses the latest evaluation comment.
 4. Bot opens a PR that may edit `translations/*.md`, `docs/NAMES.md`,
    `docs/ADDRESS.md`, `docs/CONTEXT.json`, and `compendium.md`.
+   A `/revise` that asks for every usage follows the Korean term in the
+   source, then patches each finalized chapter that translates that term,
+   even when the English wording differs. Chapters that only reuse the
+   English word for a different Korean term are left out.
 5. You merge. The worker closes the issue if GitHub has not already.
