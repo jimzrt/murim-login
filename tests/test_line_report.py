@@ -6,7 +6,13 @@ from unittest.mock import MagicMock
 
 from tools.line_report import (
     apply_patches,
+    asks_for_corpus,
     build_evaluate_prompt,
+    corpus_gap,
+    corpus_hits,
+    match_korean_term,
+    require_applicable,
+    UnapplicableStrategy,
     chapter_is_mastered,
     cheap_gates,
     format_evaluation_comment,
@@ -89,10 +95,11 @@ class LineReportTest(unittest.TestCase):
         ]
         updated = apply_patches(files, patches)
         self.assertEqual(updated["translations/0001.md"], "# Chapter 1\n\nHi world.\nHi there.\n")
-        with self.assertRaises(ValueError):
+        with self.assertRaises(ValueError) as caught:
             apply_patches(files, [
                 {"path": "translations/0001.md", "current": "Hello", "replacement": "Hi"},
             ])
+        self.assertIn("Hello", str(caught.exception))
 
     def test_evaluation_comment_roundtrip_and_apply_command(self):
         evaluation = validate_evaluation({
@@ -157,6 +164,106 @@ class LineReportTest(unittest.TestCase):
         self.assertIn("Maintainer revision request", prompt)
         self.assertIn("a warm breath", prompt)
         self.assertIn("not a synonym of hot", prompt)
+        self.assertIn("verbatim", prompt)
+
+    def test_corpus_revision_lists_other_chapters(self):
+        self.assertTrue(asks_for_corpus("", "use qinggong. every usage, not just this one."))
+        self.assertFalse(asks_for_corpus("Can translate as Qinggong?", ""))
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            translations = root / "translations"
+            translations.mkdir()
+            (translations / "0247.md").write_text(
+                "the finest lightness technique\n", encoding="utf-8"
+            )
+            (translations / "0249.md").write_text(
+                "ahead in lightness skills\n\ninto lightness skills\n", encoding="utf-8"
+            )
+            (translations / "0516.md").write_text(
+                "a welcome lightness in my body\n", encoding="utf-8"
+            )
+            hits, total = corpus_hits("lightness", root)
+            self.assertEqual(total, 4)
+            prompt = build_evaluate_prompt(
+                247,
+                root / "translations" / "0247.md",
+                "the finest lightness technique\n",
+                "lightness",
+                "Can translate as Qinggong?",
+                "Korean",
+                root=root,
+                revise_note="every usage, not just this one",
+                hits=hits,
+                hit_total=total,
+                corpus_requested=True,
+            )
+            self.assertIn("translations/0249.md", prompt)
+            self.assertIn("translations/0516.md", prompt)
+            self.assertIn("not only the anchor", prompt)
+            anchor_only = {
+                "plausible": True,
+                "strategies": [{
+                    "id": "A",
+                    "patches": [{"path": "translations/0247.md"}],
+                }],
+            }
+            gap = corpus_gap(anchor_only, hits, 247)
+            self.assertIn("0249", gap)
+            covered = {
+                "plausible": True,
+                "strategies": [{
+                    "id": "A",
+                    "patches": [
+                        {"path": "translations/0247.md"},
+                        {"path": "translations/0249.md"},
+                        {"path": "translations/0516.md"},
+                    ],
+                }],
+            }
+            self.assertIsNone(corpus_gap(covered, hits, 247))
+
+    def test_korean_term_includes_other_renderings(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            (root / "source").mkdir()
+            (root / "translations").mkdir()
+            (root / "source" / "0001.txt").write_text("경공술이 가장 뛰어나다\n", encoding="utf-8")
+            (root / "translations" / "0001.md").write_text(
+                "the finest lightness technique\n", encoding="utf-8"
+            )
+            (root / "source" / "0002.txt").write_text("나는 경공(輕功)을 발휘했다\n", encoding="utf-8")
+            (root / "translations" / "0002.md").write_text(
+                "I used light-body arts\n", encoding="utf-8"
+            )
+            (root / "source" / "0003.txt").write_text("경신술을 발휘했다\n", encoding="utf-8")
+            (root / "translations" / "0003.md").write_text(
+                "using lightness skill\n", encoding="utf-8"
+            )
+            (root / "source" / "0004.txt").write_text("경공술에 몰빵했냐\n", encoding="utf-8")
+            (root / "translations" / "0004.md").write_text(
+                "Did you put everything into lightness skills?\n", encoding="utf-8"
+            )
+            matched = match_korean_term("lightness", 1, root)
+            self.assertEqual(matched["term"], "경공술")
+            self.assertIn("경공", matched["forms"])
+            chapters = {hit["chapter"] for hit in matched["hits"]}
+            self.assertEqual(chapters, {1, 2, 4})
+            prompt = build_evaluate_prompt(
+                1,
+                root / "translations" / "0001.md",
+                "the finest lightness technique\n",
+                "lightness",
+                "use qinggong",
+                "Korean",
+                root=root,
+                revise_note="every usage, not just this one",
+                hits=matched["hits"],
+                hit_total=matched["total"],
+                corpus_requested=True,
+            )
+            self.assertIn("경공술", prompt)
+            self.assertIn("light-body arts", prompt)
+            self.assertNotIn("경신술", prompt)
         forced = build_evaluate_prompt(
             11,
             Path("/repo/translations/0011.md"),
@@ -169,6 +276,44 @@ class LineReportTest(unittest.TestCase):
         )
         self.assertIn("overrode plausibility", forced)
         self.assertNotIn("set plausible to false", forced.lower())
+
+    def test_truncated_quote_is_not_applicable(self):
+        text = "“Chengdu. A military conference has been convened.”\n"
+        evaluation = validate_evaluation({
+            "plausible": True,
+            "verdict": "needs a gloss",
+            "strategies": [{
+                "id": "A",
+                "label": "Footnote",
+                "tradeoff": "Keeps the line.",
+                "patches": [
+                    {
+                        "path": "translations/0394.md",
+                        "current": "“Chengdu.”",
+                        "replacement": "“Chengdu.”\n\n[^1]: A note.",
+                    },
+                ],
+            }],
+        })
+        with self.assertRaises(UnapplicableStrategy) as caught:
+            require_applicable(evaluation, {"translations/0394.md": text})
+        self.assertIn("occurs 0 times", str(caught.exception))
+        fixed = validate_evaluation({
+            "plausible": True,
+            "verdict": "needs a gloss",
+            "strategies": [{
+                "id": "A",
+                "label": "Footnote",
+                "tradeoff": "Keeps the line.",
+                "patches": [{
+                    "path": "translations/0394.md",
+                    "current": text.strip(),
+                    "replacement": text.strip() + "\n\n[^1]: A note.",
+                }],
+            }],
+        })
+        applied = require_applicable(fixed, {"translations/0394.md": text})
+        self.assertEqual(applied["strategies"][0]["id"], "A")
 
     def test_implausible_evaluation_has_no_strategies(self):
         value = validate_evaluation({"plausible": False, "verdict": "already correct", "strategies": []})
