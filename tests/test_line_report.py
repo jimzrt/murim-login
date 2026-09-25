@@ -100,6 +100,10 @@ class LineReportTest(unittest.TestCase):
                 {"path": "translations/0001.md", "current": "Hello", "replacement": "Hi"},
             ])
         self.assertIn("Hello", str(caught.exception))
+        already = apply_patches(files, [
+            {"path": "translations/0001.md", "current": "Goodbye world.", "replacement": "Hello world."},
+        ])
+        self.assertEqual(already["translations/0001.md"], files["translations/0001.md"])
 
     def test_evaluation_comment_roundtrip_and_apply_command(self):
         evaluation = validate_evaluation({

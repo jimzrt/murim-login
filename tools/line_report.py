@@ -788,6 +788,8 @@ def apply_patches(files: dict[str, str], patches: list[dict]) -> dict[str, str]:
         spans: list[tuple[int, int, str]] = []
         for index, patch in enumerate(group):
             starts = [match.start() for match in re.finditer(re.escape(patch["current"]), text)]
+            if len(starts) == 0 and patch["replacement"] in text:
+                continue
             if len(starts) != 1:
                 preview = json.dumps(patch["current"][:160], ensure_ascii=False)
                 raise ValueError(
