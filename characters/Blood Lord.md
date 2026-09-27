@@ -1,6 +1,6 @@
 # Blood Lord (혈주)
 
-- **Safe through:** Chapter 1090
+- **Safe through:** Chapter 1091
 - **Aliases:** None
 - **Role:** Young-seeming high-ranking Dark Heaven figure who directs its sorcerers’ seed experiments and prepares their deployment for the Lord of Heaven’s great cause.
 - **Personality:** Confident, cruel, and controlling; strategically manipulates allies and adversaries, and conceals failures from the Lord of Heaven when he fears being discarded.

@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "It wasn’t that they couldn’t. They simply couldn’t bring themselves to.",
+      "defect": "The draft turns an emphatic impossibility into reluctance and contradicts itself.",
+      "id": "F01",
+      "rationale": "그럴 수 없었다 stresses that seeing the scene as beautiful was impossible, not that the onlookers were unwilling.",
+      "replacement": "It wasn’t merely that they failed to see its beauty. They couldn’t.",
+      "severity": "major",
+      "source": "못한 것이 아니라, 그럴 수 없었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "he belonged to neither the orthodox faction, the Demonic Path, nor Dark Heaven. He had walked only his own path.",
+      "defect": "Dark Heaven replaces the unorthodox faction in a three-way distinction.",
+      "id": "F02",
+      "rationale": "정사마 distinguishes orthodox, unorthodox, and demonic affiliations; it does not name Dark Heaven.",
+      "replacement": "he belonged to none of the orthodox, unorthodox, or demonic factions. He had walked only his own path.",
+      "severity": "critical",
+      "source": "정사마(正邪魔) 어디에도 몸담지 않고 오직 자신만의 길을 걸어온."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Jeok Cheongang, who had already been staring hard at the Blood Lord, watched his eyes turn reddish.",
+      "defect": "The wording makes Jeok appear to watch someone’s eyes change rather than showing his own eyes reddening.",
+      "id": "F03",
+      "rationale": "적천강의 눈동자 identifies Jeok’s eyes as the ones changing.",
+      "replacement": "Jeok Cheongang, who had already been staring hard at the Blood Lord, had a reddish gleam in his eyes.",
+      "severity": "critical",
+      "source": "그렇지 않아도 혈주를 뚫어질 듯이 응시하던 적천강의 눈동자가 불그스름하게 달아올랐다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Then the three men—now a dozen or so yards away, moving like flashes of light—spoke at once.",
+      "defect": "십여 장 is over ten jang, not a dozen yards; the draft places the men much closer.",
+      "id": "F04",
+      "rationale": "One jang is roughly three meters, making 십여 장 more than thirty yards.",
+      "replacement": "Then the three men—now over thirty yards away, moving like flashes of light—spoke at once.",
+      "severity": "major",
+      "source": "마치 섬광처럼 십여 장 앞까지 다가온 세 사람이 동시에 입을 열었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Probably. But we’ve only just met, so I don’t have much to say.”",
+      "defect": "After being asked whether he has anything else to say, “Probably” suggests that he does; his explanation and Taekyung’s next line indicate that he is done.",
+      "id": "F05",
+      "rationale": "초면이라 할 말도 딱히 없다 explains why the Slaughter Saint has nothing further to add.",
+      "replacement": "“Probably not. We’ve only just met, so I don’t have much to say.”",
+      "severity": "major",
+      "source": "“아마도. 어차피 초면이라 할 말도 딱히 없다.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "and the people on the wall a hundred yards away, all hold their breath.",
+      "defect": "The wall’s distance is reduced by roughly a factor of three.",
+      "id": "F06",
+      "rationale": "일백여 장 means over a hundred jang, or over three hundred yards.",
+      "replacement": "and the people on the wall over three hundred yards away, all hold their breath.",
+      "severity": "major",
+      "source": "일백여 장이나 떨어져 있는 성벽 위의 사람들도 숨을 삼켰다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "But the three men closest to him were the only ones untouched.",
+      "defect": "The draft says they were untouched by the energy wave, although they felt its full force.",
+      "id": "F07",
+      "rationale": "They are exceptions to the preceding reaction of holding one’s breath, not exceptions to feeling the wave.",
+      "replacement": "But the three men closest to him, who felt the full force of that wave, were the exception.",
+      "severity": "major",
+      "source": "그러나 정작, 가장 가까운 곳에서 그 기파를 온전히 느낀 세 사람만큼은 예외였다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "“This time will be different. Everything else about me.”",
+      "defect": "“About me” narrows Taekyung’s claim; the source leaves everything other than his mouth open-ended.",
+      "id": "F08",
+      "rationale": "그 외의 모든 것이 means everything else, without limiting the contrast to Taekyung himself.",
+      "replacement": "“This time will be different. Everything else will be.”",
+      "severity": "major",
+      "source": "“그때와는 다를 거야. 그 외의 모든 것이.”"
+    }
+  ],
+  "summary": "The draft preserves the confrontation, but changes a factional distinction, Jeok Cheongang’s reaction, two distances, and the effect of the Blood Lord’s shout.",
+  "version": 1
+}
