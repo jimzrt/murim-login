@@ -1,15 +1,17 @@
 # Translation State
 
-- Last completed: 1064
-- Next chapter: 1065
-- Current block: 1060–1064 (5/5)
-- Latest translation: `translations/1064.md`
-- Latest summary: `summaries/beats/1064.md`
-- Safe profiles through: chapter 1064
+- Last completed: 1065
+- Next chapter: 1066
+- Current block: 1065–1069 (1/5)
+- Latest translation: `translations/1065.md`
+- Latest summary: `summaries/beats/1065.md`
+- Safe profiles through: chapter 1065
 
 ## Current Block
 
-- Jin Taekyung and the Bow Saint bring down a messenger eagle carrying a bloodied report: Dark Heaven has occupied Kunlun. The Kunlun Sect and allied forces withdrew to Qinghai Lake, suffering about a thousand casualties; the report describes an immense enemy force comparable to the Hundred Thousand Demonic Disciples. The group discusses the threat to Qinghai and Gansu. Jin cannot log out because the linked Quest “To Qinghai” remains incomplete, so he sets out with the others for Qinghai, guided by Great Sir.
+- After the victory at Great Snow Mountain, Jin Taekyung leads the surviving forces toward Qinghai. Perfected Being Hyeoncheon and about a hundred Kongtong Disciples join, followed by Hyuk Sopyung and more than three hundred Zhongnan Disciples, Sama Pyo with five hundred Black Dragon Demon Gate fighters, and the Embroidered Uniform Guard; the force grows to nearly two thousand.
+- Before leaving Gansu, Sama Pyo exposes and deals with faction leaders who betrayed the Black Dragon Demon Gate and their own followers. He leaves behind his late father Sima Gong’s old book, which Taekyung finds contains only blank pages.
+- The group travels toward Qinghai Province with Great Sir as their guide. After Great Sir forgets where they are and calls Taekyung Jang Sam, the System announces that they have entered Qinghai Province.
 
 ## Open Questions
 

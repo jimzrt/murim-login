@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "They couldn’t choose otherwise. They couldn’t refuse.",
+      "defect": "The draft implies survivors can choose between capture and flight, though the source says they cannot choose or reject the fate awaiting them.",
+      "id": "F01",
+      "rationale": "선택할 수도, 거부할 수도 없다 denies both choice and refusal.",
+      "replacement": "They had no say in which fate awaited them, and no way to refuse it.",
+      "severity": "major",
+      "source": "이는 선택할 수도, 거부할 수도 없다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "So, just after the bloody battle around the Great Snow Mountain ended in a crushing victory for our side, we were given a new choice.",
+      "defect": "Omits that the battle ended three days before the present narration.",
+      "id": "F02",
+      "rationale": "지금으로부터 사흘 전 explicitly dates the victory.",
+      "replacement": "So, three days ago, just after the bloody battle around the Great Snow Mountain ended in a crushing victory for our side, we were given a new choice.",
+      "severity": "minor",
+      "source": "그렇기에 지금으로부터 사흘 전, 대설산(大雪山)을 둘러싼 혈전이 아군의 대승으로 막을 내린 직후 우리에게는 새로운 선택지가 주어졌다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Or would we move out to stop the Dark Heaven forces gathering somewhere else?",
+      "defect": "Changes advancing enemy forces into forces gathering in place.",
+      "id": "F03",
+      "rationale": "밀려들고 있을 describes forces pressing in, not assembling.",
+      "replacement": "Or would we move out to stop the Dark Heaven forces advancing somewhere else?",
+      "severity": "major",
+      "source": "아니면 또 다른 어딘가에서 밀려들고 있을 암천의 군세를 막기 위해 이동할 것인가."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“We won’t stop until we reach the end. Not for the sake of the souls who, by now, must be under the care of the Primordial Heavenly Venerable up there beyond the clouds.”",
+      "defect": "“Not for the sake” reverses Hyeoncheon’s stated reason for pressing on.",
+      "id": "F04",
+      "rationale": "위해서라도 means he will continue at least for their sake.",
+      "replacement": "“We won’t stop until we reach the end. If only for the sake of the souls who, by now, must be under the care of the Primordial Heavenly Venerable beyond those clouds.”",
+      "severity": "critical",
+      "source": "끝에 다다르기 전까지는 결코 멈추지 않겠네. 지금쯤 저 구름 위에서 원시천존(號出天等)의 보살핌을 받고 있을 넋들을 위해서라도."
+    },
+    {
+      "confidence": 1.0,
+      "current": "“Young Sect Leader—no, Sect Leader! Why are you doing this? You know my late father and I were as close as sworn brothers!”",
+      "defect": "Assigns the dead father to the speaker instead of Sama Pyo.",
+      "id": "F05",
+      "rationale": "The speaker appeals to his close relationship with Sama Pyo’s deceased father, Sima Gong.",
+      "replacement": "“Young Sect Leader—no, Sect Leader! Why are you doing this? You know your late father and I were practically sworn brothers!”",
+      "severity": "major",
+      "source": "‘소문주, 아니 문주! 도대체 왜 이러는 거요. 작고하신 선친(先親)과 내가 의형제나 다름없는 각별한 사이라는 걸 알지 않소!’"
+    },
+    {
+      "confidence": 1.0,
+      "current": "“So, what’s your last wish?”",
+      "defect": "Turns an offer to hear last words into an offer to grant a wish.",
+      "id": "F06",
+      "rationale": "유언 refers to what the condemned want to say before death; Sama Pyo repeats his earlier question.",
+      "replacement": "“So, any last words?”",
+      "severity": "major",
+      "source": "‘그래서, 유언은?’"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Under the storm of spears and blades from every direction, more than a dozen Sect Leaders and Family Heads died with their eyes wide open, unable even to leave proper last words.",
+      "defect": "“More than a dozen” overstates 십여 명.",
+      "id": "F07",
+      "rationale": "십여 명 is roughly ten people, not necessarily thirteen or more.",
+      "replacement": "Under the storm of spears and blades from every direction, around a dozen Sect Leaders and Family Heads died with their eyes wide open, unable even to leave proper last words.",
+      "severity": "minor",
+      "source": "사방에서 쏟아지는 수많은 창칼에, 십여 명에 달하는 문주와 가주들은 제대로 된 유언조차 남기지 못한 채 부릅뜬 눈으로 죽음을 맞이했다."
+    }
+  ],
+  "summary": "Several scene facts and quantities need correction; one line reverses Hyeoncheon’s reason for continuing.",
+  "version": 1
+}
