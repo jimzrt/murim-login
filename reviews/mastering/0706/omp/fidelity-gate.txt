@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled English is largely faithful, but it softens an assassination joke and drops an explicit image.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Line 57",
+      "current": "*Is he trying to kill me…?*",
+      "defect": "The source specifically frames the thought as an assassination attempt. The current wording turns that joke into a generic fear of being killed.",
+      "replacement": "*Is this an assassination attempt…?*",
+      "rationale": "The Korean is ‘암살인가……?’; the accepted baseline also preserves the assassination framing.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 51",
+      "current": "The guardian spirit’s silver body shot toward the Southern Heaven Demon Empress beyond them.",
+      "defect": "The source says the silver body shot forward like the wind; that image is omitted.",
+      "replacement": "The guardian spirit’s silver body shot toward the Southern Heaven Demon Empress beyond them like the wind.",
+      "rationale": "The Korean explicitly says ‘바람처럼’ (like the wind), and the accepted baseline preserves the image.",
+      "confidence": 0.96
+    }
+  ]
+}

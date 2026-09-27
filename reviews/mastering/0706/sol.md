@@ -10,7 +10,7 @@ All good things. Heartwarming, if a little embarrassing to say out loud. But…
 
 *Haven’t I done enough of that already?*
 
-I had come all the way to this cursed continent-sized greenbelt for the greater good, and I had fought while wearing my spirit of self-sacrifice over my entire body—so thoroughly that it might as well have been tattooed onto me.
+I’d come all the way to this cursed continent-sized greenbelt for the greater good. I’d worn my spirit of self-sacrifice so long it might as well have been tattooed across my entire body.
 
 Actually, considering how many battles I’d fought in Nanman, just saying I’d *fought* didn’t do it justice.
 
@@ -30,7 +30,7 @@ One Annihilation. Killing everything in a single strike—that was what the name
 
 What the fuck was I pouring into that one blow? My internal energy or my lifespan?
 
-Still, things had not turned out too badly. Just when I had been wondering whether that was the day I would see the ending of my life, the Beast Miao King and the Baekcheon Unit had appeared. With the Beast Miao King’s help, I had partially recovered from my Internal Injury, and I had also learned that allies were already swarming outside the Inner Palace.
+Still, things had been looking up. Just when I thought today might be the day my life ended, the Beast Miao King and the Baekcheon Unit had appeared. The Beast Miao King had helped me recover from some of my Internal Injury, and I’d learned that allies were already swarming outside the Inner Palace.
 
 With the battle finally turning in our favor, I could breathe a little easier.
 
@@ -56,15 +56,15 @@ Kraaaaaaash!
 
 —Duck.
 
-Along with the brief thought, the guardian spirit tilted its body. Its powerful forepaw struck the ground, and its enormous body changed direction at an angle.
+The guardian spirit leaned to one side. Its forepaw struck the ground, and its enormous body veered sharply.
 
 Whoosh!
 
 Those instincts, those movements—*spiritual creature* hardly covered it. *Divine beast* seemed closer.
 
-The Southern Heaven Demon Empress’s palm strike, packed with tremendous internal energy, missed its target and slammed into the ground.
+The Southern Heaven Demon Empress’s palm strike, charged with tremendous internal energy, missed us and slammed into the ground.
 
-Boom! Rumble, rumble!
+Boom! Rumble!
 
 Dust billowed up. Countless fragments came hurtling through it toward us, and I brought White Flame’s spearhead down.
 
@@ -108,7 +108,7 @@ The Baekcheon Unit’s charge crushed hundreds of mutants, but a fierce close-qu
 
 “Southern Heaven Demon Empress!”
 
-His body surged forward like a streak of light alongside his roar. A moment later, the aftermath of their collision, carrying a distant flash of light, shook the foundations of the earth.
+He surged forward like a streak of light. A moment later, their collision sent a distant flash across the battlefield and shook the ground.
 
 Boom! Rumble!
 
@@ -138,7 +138,7 @@ The Beast Miao King or the Baekcheon Unit. After a moment’s hesitation between
 
 I didn’t have much choice.
 
-The Baekcheon Unit could stand against such overwhelming numbers because every single one of its members had reached at least the realm of a Supreme First Rate master. The mutants, whose bodies had been completely consumed by demonic qi, were powerful.
+The Baekcheon Unit was holding its own despite the difference in numbers only because every member had reached at least Supreme First Rate. The mutants, completely consumed by demonic qi, were powerful.
 
 With the Beast Miao King gone from their midst, the guardian spirit and I had to lead the charge.
 
@@ -154,7 +154,7 @@ Maybe demonic qi drove the mutant’s ferocity. Maybe it was loyalty to the comm
 
 —A grudge?
 
-“Don’t play dumb, you bastard. You accelerated like your life depended on it because I set fire to Ailao Mountain.”
+“I know what this is, you bastard. You took off like that because I set fire to Ailao Mountain.”
 
 Kra-crack!
 
@@ -164,7 +164,7 @@ A single sweep of its forepaw tore the heads off four or five mutants. The guard
 
 “Are you sure?”
 
-—No.
+—Yes.
 
 “Then is this revenge for the Thousand-Year Spider that lived upstairs?”
 
@@ -190,7 +190,7 @@ Whoosh! Slice!
 
 I swept my spear sideways in one fluid motion. Five heads flew along its path.
 
-The headless corpses collapsed at the same speed they had charged. The guardian spirit stared blankly at the sight and muttered,
+The headless bodies collapsed without losing their forward momentum. The guardian spirit watched them for a moment.
 
 —I think your idea of a patient differs from mine.
 
@@ -218,15 +218,15 @@ I didn’t have time to finish.
 
 Crack! Whoosh!
 
-A silver mane wet with blood scattered through the air. The guardian spirit leaped upward after bursting a mutant’s head, then swung its forepaw as it descended.
+The guardian spirit’s blood-soaked silver mane streamed behind it. After bursting a mutant’s head, it leaped into the air and swung its forepaw on the way down.
 
-Its hooklike claws carried blade-sharp wind and an energy that could only be called Force.
+Its hooked claws carried blade-sharp wind and qi powerful enough to be called Force.
 
 Boom! Rumble!
 
 One strike.
 
-Amid the thunderous sound and the vibrations, dozens of mutants were sent flying as bloody pulp, and even more mutants rushed forward to fill the empty space.
+Dozens of mutants flew away as bloody pulp. More rushed in to fill the gap.
 
 Whoosh!
 
@@ -246,13 +246,13 @@ As though we’d planned it, I brought White Flame down at an angle.
 
 The three jiazi of Scorching Yang Qi were gone. So were the blue-white flames that had once burned around the transparent spearhead.
 
-All I had left now was a body as heavy as waterlogged cotton, along with a small amount of internal energy—so little that I wondered whether it could fill even one handful—and the only divine weapon I could still trust: White Flame.
+All I had left was perhaps a handful of internal energy, a body as heavy as waterlogged cotton, and White Flame—the one divine weapon I could still rely on.
 
 That was all. Yet I couldn’t explain—
 
 Slice!
 
-Why I kept cutting without pause.
+Why I kept cutting.
 
 Stab!
 
@@ -264,9 +264,9 @@ And swinging my spear at the mutants.
 
 Why I forced my aching legs to hold on so I wouldn’t fall from the guardian spirit’s back.
 
-No. Perhaps I dimly understood.
+Or perhaps I was beginning to understand.
 
-Even the meaning behind what the guardian spirit had said to me moments earlier.
+I understood what the guardian spirit had meant a moment ago, too.
 
 “…Damn it.”
 
@@ -286,7 +286,7 @@ The curse escaped me before I could stop it. The guardian spirit laughed softly.
 
 Its thought whispered inside my head. My breath caught, and something hot rose in my chest.
 
-But the hand I thrust forward was still driving my spear toward another mutant’s throat.
+Still, my hand thrust the spear toward another mutant’s throat.
 
 Thrust!
 
@@ -302,7 +302,7 @@ The body collapsed. I stared at the nameless warrior’s grotesquely twisted fac
 
 Crack!
 
-The guardian spirit swung its massive forepaw, killing the mutant leopard that had charged at me and sending it flying like a cannonball, then continued, calm as ever.
+A leopard lunged while I stood still. The guardian spirit struck it with a massive forepaw, sending it flying like a cannonball. Then it continued, calm as ever.
 
 —But after that brief pain, a great, warm rest would have been waiting for him. Simply being alive must be agony for them now.
 
@@ -318,11 +318,11 @@ But doing my best didn’t always bring the best result.
 
 *I should have stopped it.*
 
-In the end, I had failed to stop it. I had saved many people, but I had also failed to save many others.
+I hadn’t. I’d saved many people, but there were many more I hadn’t been able to save.
 
-Ultimately, the only thing I could do was end their lives with everything I had.
+Now all I could do for them was end their lives with everything I had.
 
-Just like now.
+Just like this.
 
 Fwoooooosh!
 
@@ -330,7 +330,7 @@ I swung with all my strength. The spearhead tore through the wind and split the 
 
 Pain so fierce my vision went white.
 
-But I gritted my teeth and endured it. I sent a single spear packed with terrifying strength and speed toward the people who had once been human like me.
+I gritted my teeth and endured it. I drove the spear, charged with terrifying strength and speed, through those who had once been human like me.
 
 Kra-crack!
 
@@ -340,7 +340,7 @@ Severed heads and limbs rose into the air. Countless deaths followed. Countless 
 
 Ding. Ding. Ding.
 
-The first time I had wanted to cover my ears at the clear ringing of the chimes announcing EXP gained. The first time the sight of my enemies collapsing while spraying blood had felt so unbearably sorrowful.
+For the first time, I wanted to cover my ears against the clear chimes announcing EXP. For the first time, the sight of enemies falling in sprays of blood made me this sad.
 
 But I didn’t stop.
 
@@ -354,7 +354,7 @@ Fwoom!
 
 The world tilted.
 
-No—the body that could not withstand the force carried by the spearhead tilted.
+No. My body tilted, unable to bear the force of my own swing.
 
 As I began to roll off the guardian spirit’s back, a rough hand caught me.
 
@@ -382,14 +382,14 @@ Not until one particular person was dead for good.
 
 “We have to finish it.”
 
-At my voice, which slipped through cracked lips, the guardian spirit seemed about to answer. Instead, it pushed its heavy body forward.
+The guardian spirit seemed about to answer my cracked voice. Instead, it heaved itself forward.
 
 Whoosh!
 
 Wind swept over me.
 
-At the end of the road we were traveling, one person was struggling to live despite vomiting blood.
+At the end of our path, someone was coughing blood and struggling to stay alive.
 
 No.
 
-There was a monster.
+A monster was.
