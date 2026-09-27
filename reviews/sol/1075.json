@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“I knew you’d say that, so he told me not to say anything, even if it was you, Benefactor.”",
+      "defect": "Cheongpung says the Slaughter Saint anticipated Taekyung’s response, not that Cheongpung anticipated it.",
+      "id": "F01",
+      "rationale": "아시고 refers to the elder who gave the instruction.",
+      "replacement": "“He knew you’d say that, so he told me not to say anything, even to you, Benefactor.”",
+      "severity": "major",
+      "source": "그렇게 말씀하실 줄 아시고, 상대가 설령 은인이라 할지라도 함구하랬어요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Wow, that’s amazing. I wonder if he also told me to keep quiet if you tried to talk me into it with Sound Transmission.”",
+      "defect": "Cheongpung is reporting an instruction, not wondering whether one exists. Taekyung proposes using Sound Transmission; the warning anticipates that proposal rather than persuasion conducted through it.",
+      "id": "F02",
+      "rationale": "함구하랬어요 states what the Slaughter Saint told him; 전음으로 말하면 괜찮다고 describes Taekyung’s proposed exception.",
+      "replacement": "“Wow, that’s amazing. He even told me to keep quiet if you tried to convince me it would be fine to tell you by Sound Transmission.”",
+      "severity": "major",
+      "source": "우와, 신기하다. 혹시 은인께서 전음으로 말하면 괜찮다고 꼬드겨도 함구하랬어요."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He said he’d kill anyone who found out.",
+      "defect": "The threat targets Cheongpung if he talks, not people who learn the secret.",
+      "id": "F03",
+      "rationale": "말하면 makes speaking the condition; Cheongpung is the person being warned.",
+      "replacement": "He said he’d kill me if I said anything.",
+      "severity": "critical",
+      "source": "뭐든 말하면 죽여 버린대요."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“……I’ll just pretend I didn’t hear anything.”",
+      "defect": "Taekyung declines to hear the secret; he does not pretend to forget something already disclosed.",
+      "id": "F04",
+      "rationale": "안 들을게 refers to not hearing the account Cheongpung has withheld.",
+      "replacement": "“……Then I just won’t ask.”",
+      "severity": "minor",
+      "source": "……그냥 안 들을게."
+    },
+    {
+      "confidence": 0.94,
+      "current": "So he wanted to look into things more closely by infiltrating the Kunlun Sect.",
+      "defect": "“Wanted to” reduces an intended infiltration to a desire, weakening the attempted-versus-completed distinction made in the next line.",
+      "id": "F05",
+      "rationale": "잠입하려고 하셨죠 expresses what he was about to do; the following sentence contrasts that with having done it.",
+      "replacement": "So he was going to infiltrate the Kunlun Sect to investigate further.",
+      "severity": "major",
+      "source": "그래서 더욱 자세히 파고들기 위해 곤륜파 내부로 잠입하려고 하셨죠."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Little Grandpa must have felt it, too, because we decided to return with the monsters who were coming down the mountain.",
+      "defect": "The Slaughter Saint makes the decision, not the pair jointly; they blend into the descending monsters rather than merely travel with them.",
+      "id": "F06",
+      "rationale": "되돌아오기로 하셨어요 assigns the decision to the elder, while 틈에 섞여 describes hiding among the monsters.",
+      "replacement": "Little Grandpa must have felt it too, because he decided we should slip in among the monsters that happened to be coming down the mountain and head back.",
+      "severity": "critical",
+      "source": "작은 할아버지께서도 그걸 느끼셨는지, 때마침 하산하는 괴물들의 틈에 섞여 되돌아오기로 하셨어요."
+    }
+  ],
+  "summary": "Several lines change who knew, spoke, or made a decision; two also alter how the secrecy warning works.",
+  "version": 1
+}
