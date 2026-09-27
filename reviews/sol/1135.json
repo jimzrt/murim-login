@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "If the Disciple, unaware of the plan, had acted on his sense of justice, the people on the rear ships—kept separate for exactly that reason—might have discovered that the Murim Alliance was aboard.",
+      "defect": "The draft makes the people on the rear ships the ones who might discover the secret. They were the Murim Alliance members whose identity had to remain hidden.",
+      "id": "F01",
+      "rationale": "The source says the fact that the people aboard the rear ships belonged to the Murim Alliance might become known.",
+      "replacement": "If his Disciple, unaware of the plan, had acted on his sense of justice, he might have exposed the fact that those aboard the rear ships—deliberately kept separate—belonged to the Murim Alliance.",
+      "severity": "critical",
+      "source": "애써 분리까지 해 둔 후미의 선박에 타고 있는 자들이 무림맹 소속이라는 사실이 알려질 위험이 있었으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "With the Son of Heaven’s voice, which would be his last, Ma Sanbao’s world turned black.",
+      "defect": "“His last” implies the Son of Heaven is about to die. The voice is the last Ma Sanbao will hear.",
+      "id": "F02",
+      "rationale": "Ma Sanbao’s world turns black at the sound of the voice; the source does not say the Son of Heaven dies.",
+      "replacement": "As Ma Sanbao heard the Son of Heaven’s voice for the last time, the world before his eyes went black.",
+      "severity": "critical",
+      "source": "생애 마지막이 될 천자의 음성과 함께, 마삼보가 바라보던 세상이 까맣게 물들었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Moved by the sincerity of his younger brother and only remaining family, Prince Shangshan—no, Zhu Bao, the Emperor’s younger brother and heir apparent—the Son of Heaven had made his choice.",
+      "defect": "The correction changes Prince Shangshan to the heir’s formal title, not to Zhu Bao’s personal name. The draft obscures his change in status.",
+      "id": "F03",
+      "rationale": "The source explicitly corrects 상산왕 to 황태제 while retaining 주표 in both names.",
+      "replacement": "Moved by Prince Shangshan Zhu Bao’s sincerity—no, Imperial Younger Brother Zhu Bao’s—the Son of Heaven made his choice.",
+      "severity": "major",
+      "source": "상산왕 주표, 아니 황태제(皇太弟) 주표의 진심에 천자는 선택했다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A dozen arrows flew in from the sides, burying themselves in his body.",
+      "defect": "The arrows come from Ma Sanbao’s blind spots, not necessarily from his sides.",
+      "id": "F04",
+      "rationale": "사각 specifies an angle he cannot see; 십여 대 is approximately a dozen, not exactly twelve.",
+      "replacement": "A dozen or so arrows shot from his blind spots and buried themselves throughout his body.",
+      "severity": "major",
+      "source": "다음 순간 사각에서 쏘아진 십여 대의 화살이 전신 곳곳을 파고들고"
+    },
+    {
+      "confidence": 0.96,
+      "current": "Sword King and Fist King tried to strangle me.",
+      "defect": "The draft drops Zhuge Feng’s acknowledgment that both kings are his seniors.",
+      "id": "F05",
+      "rationale": "선배 marks their seniority to Zhuge Feng and sharpens the joke about their reaction.",
+      "replacement": "Even my seniors, Sword King and Fist King, tried to strangle me.",
+      "severity": "minor",
+      "source": "검왕(劍王)과 권왕(拳王) 선배는 내 목을 조르려고 들더군."
+    }
+  ],
+  "summary": "The draft has two consequential reversals and several localized fidelity errors.",
+  "version": 1
+}

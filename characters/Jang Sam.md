@@ -1,6 +1,6 @@
 # Jang Sam (장삼)
 
-- **Safe through:** Chapter 1129
+- **Safe through:** Chapter 1135
 - **Aliases:** Killing Ghost
 - **Role:** Jang Sam is a bandit chief who abruptly rose from Level 40 to Level 60 and attacked Taekyung while apparently irrational; he is currently unconscious and being taken to the Nangong Family.
 - **Personality:** Not established.
