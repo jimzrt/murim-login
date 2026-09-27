@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Father, they helped Black Dragon Demon Gate. But they died. Sad.”",
+      "defect": "Taishan is saying his father helped the Gate and then died; the draft changes both references to an unspecified plural group.",
+      "id": "F01",
+      "rationale": "The following lines establish that Taishan is looking for his father’s body so he can bury him.",
+      "replacement": "“Father helped Black Dragon Demon Gate. But he died. Taishan sad.”",
+      "severity": "critical",
+      "source": "‘아버지, 흑룡마문 도왔다. 그런데 죽었다. 슬프다.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "To find an heir to inherit everything he had?",
+      "defect": "Sima Gong considers whether he acted to save his heir, not to find one.",
+      "id": "F02",
+      "rationale": "구하기 위해서 means “to save”; Sama Pyo is already his chosen heir.",
+      "replacement": "To save the heir who would inherit everything he had?",
+      "severity": "critical",
+      "source": "자신의 모든 것을 물려줄 후계자를 구하기 위해서?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Namho, perched on Taishan’s shoulder, had just delivered a quote to rival even Julius Caesar. Then familiar faces came bursting out like streaks of light.",
+      "defect": "The draft attributes the line to Namho. Taishan says it; Namho is perched on his shoulder.",
+      "id": "F03",
+      "rationale": "명언을 내뱉은 modifies 태산, not 남호.",
+      "replacement": "Starting with Namho, perched on the shoulder of Taishan—who had just delivered a line to rival even Julius Caesar—familiar faces burst out like streaks of light.",
+      "severity": "critical",
+      "source": "그리고 카이사르 시저도 울고 갈 명언을 내뱉은 태산의 어깨에 걸터앉은 남호를 시작으로, 낯익은 얼굴들이 빛살처럼 튀어나왔다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Song Ilseom rescued Hyuk Mujin and cut down the remaining enemies in a flash. And—wait, who was that black, shaggy old guy?",
+      "defect": "The draft separates the shaggy man from the action, though the Korean presents him alongside Song Ilseom as they save Hyuk Mujin and cut down the enemies.",
+      "id": "F04",
+      "rationale": "송일섬과 introduces the second person as Song Ilseom’s partner in the preceding action.",
+      "replacement": "Song Ilseom and… wait, who was that black, shaggy old guy? Together, they saved Hyuk Mujin and cut down the remaining enemies in a flash.",
+      "severity": "major",
+      "source": "그런 혁무진을 구하며, 단숨에 남아 있는 적들을 베어내는 송일섬과…… 잠깐, 저 새카만 털북숭이 아저씨가 누구였더라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“The Seven Masters of Heukma?”",
+      "defect": "Romanizing 흑마 hides the Black Horse/White Horse mistake that prompts Ma Junggeol’s correction.",
+      "id": "F05",
+      "rationale": "흑마 means “black horse”; the reply explicitly corrects it to 백마, “white horse.”",
+      "replacement": "“The Seven Masters of the Black Horse?”",
+      "severity": "major",
+      "source": "“흑마칠종(黑馬七宗)?”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Not Heukma, Baekma! I’m Ma Junggeol, eldest of the Seven Masters of Baekma Bang! Who do you think I went through all this shit for? And you forgot me…!”",
+      "defect": "The romanized correction does not let an English reader hear the horse-color contrast.",
+      "id": "F06",
+      "rationale": "The humor depends on correcting 흑마 to 백마, not merely on swapping unfamiliar names.",
+      "replacement": "“Not Black Horse—White Horse! I’m Ma Junggeol, eldest of the Seven Masters of Baekma Bang! Who do you think I went through all this shit for? And you forgot me…!”",
+      "severity": "major",
+      "source": "“흑마가 아니고 백마! 백마칠종의 맏형 마중걸이오! 내가 누구 때문에 이 개고생을 했는데 그걸 까먹……!”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You’re here.”",
+      "defect": "The draft turns Jin’s familiar question into a statement.",
+      "id": "F07",
+      "rationale": "The question sets up Sama Pyo’s answering question, “Am I late?”",
+      "replacement": "“You made it?”",
+      "severity": "minor",
+      "source": "“왔냐?”"
+    }
+  ],
+  "summary": "The draft changes the reason Sima Gong acted, misattributes Taishan’s Caesar-like line, and obscures who helped whom in Taishan’s memory.",
+  "version": 1
+}
