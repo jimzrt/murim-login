@@ -2507,3 +2507,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 난주혁가 | **Lanzhou Hyuk Family** | Family whose members confront their traitorous Family Head. |
 | 강시공 | **Corpse Art** | Wei Zhong’s technique for creating or controlling jiangshi. |
 | 대인 | **Great Sir** | Name used for the mysterious figure in Ningxia. |
+| 청해호 | **Qinghai Lake** | Destination of the retreat; distinct source form from 청해성. |
