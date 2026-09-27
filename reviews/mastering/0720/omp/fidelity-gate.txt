@@ -1,0 +1,55 @@
+{
+  "summary": "The assembled copy contains several source-detail omissions and one contradiction about whether the narrator actually struggled.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Chapter 720, lines 157–159",
+      "current": "I thrashed about with all my strength.\n\nI would have struggled with all my strength if I hadn’t realized the truth a moment later.",
+      "defect": "The English first says the narrator actually thrashed, then says he would have struggled if he had not realized the truth. The Korean corrects itself: he tried to struggle, but did not.",
+      "replacement": "I tried to thrash about with all my strength.\n\nI would have, if I hadn’t realized the truth a moment later.",
+      "rationale": "The source says 몸부림쳤다. 아니, 몸부림치려 했다 (“I struggled. No, I tried to struggle”), then explains he would have done so if he had not realized the situation.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Chapter 720, lines 207–211",
+      "current": "Horses. Monkeys. Leopards. Bears…\n\nCountless among them shone like stars in the night sky before fading away, and eventually, a snow-white White Tiger began guarding the sacred stone.",
+      "defect": "The English omits the distinction that these creatures had different species and appearances but could hardly be called beasts.",
+      "replacement": "Horses. Monkeys. Leopards. Bears…\n\nAnimals of different species and appearances. And yet, they were beings one could hardly call animals.\n\nCountless among them shone like stars in the night sky before fading away, and eventually, a snow-white White Tiger began guarding the sacred stone.",
+      "rationale": "The source explicitly contrasts their animal forms with their being beyond ordinary beasts; the accepted baseline preserves that distinction.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Chapter 720, lines 219–223",
+      "current": "Until the moment its blue-white eyes turned black.",
+      "defect": "The English omits the preceding event: demonic qi seeped into the scars across the guardian spirit’s body.",
+      "replacement": "Until demonic qi seeped into the scars covering its body. Until the moment its blue-white eyes turned black.",
+      "rationale": "The source includes both the qi entering the guardian’s many scars and the later change in its eyes; the accepted baseline preserves both.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Chapter 720, lines 273–279",
+      "current": "The moment my fingertips touched it—\n\n*Fwoooooosh!*\n\nAt the same time, the column of water walling me in on every side shot into the sky and burst apart like an explosion.",
+      "defect": "The English omits the dazzling radiance swelling when the narrator touches the object, before the water column shoots up and bursts.",
+      "replacement": "The moment my fingertips touched it—\n\n*Fwoooooosh!*\n\nDazzling radiance swelled. The column of water walling me in on every side shot into the sky and burst apart like an explosion.",
+      "rationale": "The source describes the radiance swelling first, then the water column rising and bursting; the sound effect alone does not preserve that visual event.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F05",
+      "severity": "minor",
+      "source": "Chapter 720, line 317",
+      "current": "No—the new guardian spirit approached and rubbed its head against me.",
+      "defect": "The English drops “Muyaho,” the name spoken before the narrator corrects himself to “the new guardian spirit.”",
+      "replacement": "Muyaho. No—the new guardian spirit approached and rubbed its head against me.",
+      "rationale": "The source explicitly says 무야호. 아니 (“Muyaho. No…”); the glossary also establishes Muyaho as the tiger’s name.",
+      "confidence": 0.99
+    }
+  ]
+}
