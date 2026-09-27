@@ -1,6 +1,6 @@
 # Blood-Sword Demon Lord (혈검마군)
 
-- **Safe through:** Chapter 1027
+- **Safe through:** Chapter 1028
 - **Aliases:** None
 - **Role:** The Blood-Sword Demon Lord is a formidable martial master who commands the force advancing on the Great Snow Mountain and now serves the Lord of Heaven.
 - **Personality:** Contemptuous of his former master and certain of his new cause, he treats the weak with ruthless disdain yet takes sincere delight in being recognized and openly admires formidable opponents.
