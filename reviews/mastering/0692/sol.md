@@ -22,7 +22,7 @@ Even if he really had stolen the Water God Dragon’s Origin Essence, he could s
 
 I held out both hands politely.
 
-“Now spit it out. You can see my palm, right? Spit it out here. Ptooey. Come on.”
+“Now spit it out. You can see my palms, right? Right here. Come on.”
 
 —It was astonishing.
 
@@ -32,7 +32,7 @@ I held out both hands politely.
 
 I stopped. “Time?”
 
-—Yes. It was several hundred years of time and memory, visible only to beings of the same kind. Everything belonging to an imugi who had failed to become a dragon was contained within it.
+—Yes. Several hundred years of time and memory, visible only to one of its own kind. Everything there was to know about an imugi that had failed to become a dragon.
 
 “…!”
 
@@ -84,13 +84,13 @@ His tail hung stiffly, plainly showing his displeasure. Still, the answer came.
 
 Ordinarily, that would be no time at all.
 
-But under the circumstances, it was a different story.
+Not now.
 
 The Great Snow Fiend and the Black Hand Fist Demon had warned of the bloodbath about to sweep Nanman. With even the Beast Miao King’s whereabouts unknown, no one was left to stop the Southern Heaven Demon Empress.
 
 *Damn it.*
 
-The situation had been unavoidable, but it wouldn’t have been strange if thousands—or tens of thousands—had died during the one day I was unconscious.
+I couldn’t have helped losing consciousness. But thousands, even tens of thousands, could have died during that single day.
 
 I clenched my teeth, swallowed a curse, and forced out the words.
 
@@ -118,13 +118,13 @@ The Black Tiger turned his head toward me, his thoughts as calm as ever.
 
 My eyes widened. Not because I knew he meant the Water God Dragon’s Origin Essence.
 
-I remembered reaching for the Origin Essence in one last desperate attempt to stay alive—only to hesitate when a chill wind blew in from somewhere. At the same time, I sensed something strange and let go of the Origin Essence. Muyaho arrived immediately afterward and saved my life.
+I remembered the chill wind that had blown from nowhere when, in a last desperate attempt to survive, I’d been about to consume it. I had paused, sensed something wrong, and put the Origin Essence down. Muyaho had arrived moments later and saved my life.
 
 “Then that wind…”
 
 My voice trailed off. The Black Tiger’s answer sounded in my head.
 
-—You were about to do something foolish. If you defy what is ordained, that is defying Heaven. Had I done nothing, you would have died, unable to overcome the power left behind by the imugi.
+—You were about to do something foolish. To defy the ordained order is to defy heaven. Had I left you alone, the power the imugi left behind would have overwhelmed and killed you.
 
 I watched him walk along the endless cliff.
 
@@ -136,7 +136,7 @@ I watched him walk along the endless cliff.
 
 The Black Tiger gave a small snort.
 
-—I merely felt sorry for someone who had handed everything they possessed to a foolish human. Without that reason, you deserved to die.
+—I only pitied the one who gave everything he had to a foolish human. If not for him, you would deserve to die.
 
 “That’s a little unfair. I don’t know why you hate humans, but I’ve never done anything bad enough to deserve that.”
 
@@ -152,27 +152,25 @@ Countless beasts, their bodies blackened in places, drank from an unfamiliar str
 
 I stood on the cliff, staring down at them.
 
-—The inferno you unleashed is still devouring the entire mountain. If the flames had spread unchecked, everything would have burned away long ago.
+—The fire you started is still devouring the mountain. If I had let it spread, everything would have burned by now.
 
 “…”
 
-—Yes, I led them here. Just as I did seven days and nights ago.
+—Yes, I led them here. Just as I did seven nights ago.
 
-Seven days and nights ago.
-
-That had been the very day the Beast Miao King and I received the emergency report and headed for Ailao Mountain.
+Seven nights ago. The day the Beast Miao King and I had received the urgent report and headed for Ailao Mountain.
 
 I searched my memory, and realization struck.
 
 *The beasts.*
 
-I remembered clearly. Of the three hundred or so warriors stationed at Ailao Mountain, about two hundred had returned alive.
+I remembered clearly. Of the three hundred or so warriors stationed at Ailao Mountain, more than two hundred had returned alive.
 
 The beasts hadn’t.
 
 I hadn’t seen them anywhere—not on Ailao Mountain, not in the Poisonblood Grounds.
 
-“You were the one who did that too. You saved the wild beasts.”
+“That was you too. You saved them.”
 
 —Monsters that should never have been there were set loose. I had not interfered in human affairs for hundreds of years, but that time I could not stand aside.
 
@@ -192,15 +190,15 @@ Dark Heaven had been behind that, too.
 
 *If only we’d found out a little sooner.*
 
-With belated regret, I looked at the Black Tiger. I thought I was beginning to understand why he had acted that way that day. I remembered his back as he repeatedly appeared and disappeared, even though he could have escaped at any time.
+The regret came too late. I looked at the Black Tiger and finally began to understand his actions that day. I could still picture him appearing and disappearing ahead of us, again and again, when he could easily have gotten away.
 
-“You weren’t attacking us that day.”
+“You weren’t attacking us.”
 
-—Yes. That was not my mission.
+—No. That is not my duty.
 
 “You were trying to show us where the Thousand-Year Spider was.”
 
-—I could not simply watch while a foul monster disturbed this mountain. Humans planted the seed, so humans should reap it. That is the natural order.
+—I could not merely watch a foul monster disturb this mountain. Humans planted the seed. It is only right that humans reap what grew from it.
 
 He walked on. The path along the cliff grew narrower and steeper, and birds nesting on rugged peaks above the clouds watched us with curious eyes.
 
@@ -216,11 +214,11 @@ I could no longer begin to guess. Staring at the impossible landscape, I finally
 
 —A land filled with life. A place where all things live in harmony.
 
-*What kind of nonsense was that?*
+What was he talking about?
 
 For some reason, I remembered the church deacon who used to give me spicy rice cakes when I was little while shouting, “Jesus, heaven! Unbelievers, hell!”
 
-“Even so, this can’t be heaven.”
+“This can’t be heaven.”
 
 —The kingdom of heaven? A fitting description, in its way. But this place lies deep within the land, where no one can enter without my permission. It is very close to where you were.
 
@@ -228,7 +226,7 @@ For some reason, I remembered the church deacon who used to give me spicy rice c
 
 A few paces ahead, the Black Tiger gave a small nod.
 
-—It is.
+—Yes.
 
 “But this place…”
 
@@ -236,7 +234,7 @@ The words stuck in my throat. The Poisonblood Grounds?
 
 I wouldn’t have believed we were anywhere on Ailao Mountain. There were no raging flames here, none of the eerie feeling that hung over the mountain.
 
-—Enough. This is a place that you humans can neither invade nor understand.
+—Do not try to understand it. This is a place you humans can neither enter by force nor comprehend.
 
 He was right. Murim had all manner of strange things, Mystic Gate Formations among them, but what lay before me went far beyond anything they could do.
 
@@ -246,7 +244,7 @@ Laughing hollowly, I followed him up the peak.
 
 As we neared the summit, his thought reached me again.
 
-—Poisonblood Grounds is its current name. As I did, humans changed many things over the passage of time.
+—Poisonblood Grounds is its name now. Humans have changed many things with the passage of time, just as they changed what they called me.
 
 “What was it called before?”
 
@@ -268,7 +266,7 @@ Five hundred years? A thousand?
 
 Even if I’d put every point into Intelligence from the start, I’d have felt like an idiot right now.
 
-I shook my head and opened my mouth toward the Black Tiger, who had stopped walking before I noticed.
+I shook my head. The Black Tiger had stopped walking, and I turned to him.
 
 “Then you. What exactly are you?”
 
@@ -276,7 +274,7 @@ I shook my head and opened my mouth toward the Black Tiger, who had stopped walk
 
 “I’m asking what they called you when this place was the Sacred Land.”
 
-The Black Tiger was silent for a moment before moving his massive body. Something wistful passed through his blue-white eyes.
+He fell silent. Then he shifted his massive body, and something wistful passed through his blue-white eyes.
 
 —A guardian spirit.
 
