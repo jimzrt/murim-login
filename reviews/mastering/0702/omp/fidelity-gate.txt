@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled English has three minor source-image omissions.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 107–108",
+      "current": "But the Southern Heaven Demon Empress did not know that the young—almost absurdly young—enemy before her had once climbed a cliff with iron balls weighing well over a thousand *geun* strapped to his body.",
+      "defect": "The translation drops the preceding image that the pressure could crush a massive boulder in an instant.",
+      "replacement": "The pressure seemed capable of crushing even a massive boulder in an instant. But the Southern Heaven Demon Empress did not know that the young—almost absurdly young—enemy before her had once climbed a cliff with iron balls weighing well over a thousand *geun* strapped to his body.",
+      "rationale": "The source explicitly compares the pressure to a force that could crush a huge rock in one blow; the accepted baseline preserves this image.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 277–279",
+      "current": "Fear that made every hair on his body stand on end seized Jin Taekyung.",
+      "defect": "The translation omits the comparison of the incoming force to a sea and a mountain rising and crashing down.",
+      "replacement": "It was an overwhelming force, as though a sea and a mountain had risen and come crashing down upon him. Fear that made every hair on his body stand on end seized Jin Taekyung.",
+      "rationale": "The source uses both the sea-and-mountain image and the following fear reaction; the baseline preserves both.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 247–249",
+      "current": "People were born to forget, and the powerful, accustomed to causing pain, tended to forget their own.",
+      "defect": "The translation drops the source’s image of people as animals born to forget.",
+      "replacement": "Humans were animals born to forget, and the powerful, accustomed to causing pain, tended to forget their own.",
+      "rationale": "The Korean calls people “animals of forgetfulness”; the accepted baseline preserves that image.",
+      "confidence": 0.97
+    }
+  ]
+}

@@ -2,13 +2,13 @@
 
 Shwaaak!
 
-A straightened hand-blade sliced through the air and came crashing down.
+A straightened hand sliced down through the air.
 
 Slender and snow-white, it looked as though it had never been dipped in water. But Jin Taekyung knew how much blood had flowed from that hand. He knew what darkness lurked behind the Southern Heaven Demon Empress’s dazzling smile.
 
 *Monster.*
 
-Those two words surfaced in his mind once more.
+The word came to him again.
 
 As the blood-red Force fell like a meteor toward the crown of his head, his legs, frozen as though nailed to the ground, moved at last.
 
@@ -33,8 +33,6 @@ She caught the spearhead between her palms as though bringing her hands together
 The corners of her unlined mouth lifted.
 
 “With only this much…”
-
-The instant her voice, filled with mockery, emerged—
 
 Plop. Plip.
 
@@ -84,13 +82,13 @@ Her earlobe had been torn. Worse, her hair had been cut. Half of the thick, glos
 
 Kraaaaaash!
 
-The unprecedented energy that had faltered for a moment surged through her slender body.
+The tremendous power that had faltered for a moment surged through her slender body. Its pressure could have crushed a massive boulder in an instant.
 
 But the Southern Heaven Demon Empress did not know that the young—almost absurdly young—enemy before her had once climbed a cliff with iron balls weighing well over a thousand *geun* strapped to his body.
 
 Crack. Crrrunch!
 
-The earth sank beneath the pressure crushing everything within a radius of over ten jang, while the limbs of the humans and beasts struggling in the area twisted and snapped.
+The ground sank beneath the pressure crushing everything within a radius of more than ten *jang*. The limbs of struggling humans and beasts snapped.
 
 —Krrk, krrrk!
 
@@ -108,7 +106,7 @@ The impact sent out a shockwave that shook the world. The Southern Heaven Demon 
 
 Crack!
 
-The Scorching Yang Qi surrounding the spearhead, along with the steel that a skilled blacksmith had folded and tempered more than a hundred times, crumbled like tofu.
+The Scorching Yang Qi around the spearhead broke apart, and so did the steel a skilled blacksmith had tempered more than a hundred times. It crumbled like tofu.
 
 A smile full of killing intent touched her lips.
 
@@ -118,7 +116,7 @@ Jin Taekyung had made the mistake of giving up his peerless divine weapon of Ten
 
 *I meant to bring him back as unharmed as possible. That won’t do anymore.*
 
-At first, after hearing that the exalted Lord of Heaven had taken an interest in Jin Taekyung, she had intended to act as the Lord’s faithful servant and capture the young man to offer him up.
+The exalted Lord of Heaven had shown an interest in Jin Taekyung. At first, she had intended to capture the boy and present him as a faithful servant should.
 
 Now she had changed her mind.
 
@@ -126,7 +124,7 @@ He was no longer a feisty cat in her eyes, but a proud beast. Young though he wa
 
 Jin Taekyung rushed toward her, reflected in her blood-red eyes.
 
-*You should be prepared to lose a limb or two. I’ll reattach them later anyway.*
+*You’ll have to forgive me if you lose a limb or two. I’ll put them back on later.*
 
 She snapped both sleeves.
 
@@ -142,7 +140,7 @@ A fire dragon burst from his callused fist and swallowed the fragments. Heated r
 
 Hissssssss.
 
-But beneath the molten iron raining down like a shower, what awaited Jin Taekyung as he shot through the air was the Southern Heaven Demon Empress’s slender, jade-like hand.
+Beneath that rain of molten iron, the Southern Heaven Demon Empress’s slender hand awaited Jin Taekyung as he shot toward her.
 
 Whoosh!
 
@@ -152,7 +150,7 @@ Jin Taekyung twisted as though he had expected it all along.
 
 He was not trying to save the arm she would otherwise tear away. He was putting his own neck in her path.
 
-But at the same time, it was also a lethal move that struck at an opening the opponent had never expected.
+Suicide—or a move that caught her utterly off guard.
 
 *This lunatic…!*
 
@@ -182,7 +180,7 @@ His mind had gone cold. He had already made his calculations.
 
 By his reckoning, the Southern Heaven Demon Empress was at least on the level of the Ten Kings. She might even rival the Three Saints. Her martial arts could be no better than the Western Heaven Demon Lord’s—perhaps worse—but her overwhelming internal energy more than made up for any gap.
 
-And when facing a master of this level, there was only one possible method.
+Against a master like her, he had only one way to win.
 
 One opening.
 
@@ -192,13 +190,13 @@ And now…
 
 *I’ll wager my life again.*
 
-*Inventory Open. Summon.*
+*Inventory open. Summon.*
 
-Along with the commands ringing through his mind, he thrust out his hand like a flash of lightning.
+He gave the command in his mind and shot out his hand.
 
 Shhk!
 
-A slender wrist, impossible to believe belonged to such a powerful monster, was cleanly severed.
+A slender wrist—impossibly slender for a monster so powerful—was severed cleanly.
 
 “Aaaaaaaagh!”
 
@@ -218,7 +216,7 @@ The immense Internal Injury had thrown off her stance. The internal energy she h
 
 No. The real danger was the killing intent pouring from her.
 
-“How dare you! How dare someone like you!”
+“How dare you! Someone like you!”
 
 His luck had only worked once.
 
@@ -228,7 +226,7 @@ The world slowed. Darkness and blood-red Force churned together in the palm stri
 
 Kraaaaaash!
 
-Fear that made every hair on his body stand on end seized Jin Taekyung.
+The force bore down like the sea and Taishan rising together to crush him. Fear seized Jin Taekyung and made every hair on his body stand on end.
 
 But he knew that if he took even one step back, everything would be over.
 
@@ -250,7 +248,7 @@ Crouched low enough to skim the ground, he shot forward like a cannonball. A sno
 
 At that instant—
 
-*Inventory Open. Summon.*
+*Inventory open. Summon.*
 
 Jin Taekyung’s hand, spread wide as though ready to unleash a palm strike, closed. A cold spear shaft filled his empty palm, and its spearhead erased the distance between them.
 
@@ -278,7 +276,7 @@ Blood burst out like a fountain. She felt muscle and veins sever, her qi-blood t
 
 Backflow.
 
-A second backflow had struck before she could even settle the Internal Injury she had suffered earlier—and it was more fatal than any wound she had received until now.
+A second reversal, before she had even managed to settle the Internal Injury from the first. More dangerous than any wound she had suffered so far.
 
 *This was what he was after… from the start.*
 

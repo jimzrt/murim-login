@@ -1,0 +1,3073 @@
+{
+  "baseline_blocks": 202,
+  "baseline_sha256": "f98b1a7c6729316dfc997224325cba64914ef6e179c5f6580ebceb10643ba115",
+  "global_terminology_alerts": [
+    {
+      "korean": "깨달음",
+      "preferred": "enlightenment / insight"
+    }
+  ],
+  "hunk_count": 147,
+  "hunks": [
+    {
+      "baseline": "A straightened hand-blade sliced through the air and came crashing down.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "7",
+      "sol": "A straightened hand sliced down through the air.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A slender, snow-white hand—one that looked as though it had never had a single drop of water touch it in its life.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "Slender and snow-white, it looked as though it had never been dipped in water. But Jin Taekyung knew how much blood had flowed from that hand. He knew what darkness lurked behind the Southern Heaven Demon Empress’s dazzling smile.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Jin Taekyung knew.",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "11",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "He knew how much blood had flowed from that hand.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "13",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He knew what kind of darkness lurked behind the beautiful face of the Southern Heaven Demon Empress, smiling so brightly that it hurt to look at.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "",
+      "sol_paragraphs": "after P4",
+      "sol_range": [
+        4,
+        4
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Those two words surfaced in his mind once more.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "19",
+      "sol": "The word came to him again.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the moment the blood-red Force falling like a meteor sought to pierce the crown of Jin Taekyung’s head, his two legs, which had been frozen stiff as though nailed to the ground, finally moved.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "21",
+      "sol": "As the blood-red Force fell like a meteor toward the crown of his head, his legs, frozen as though nailed to the ground, moved at last.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "The earth split apart like tofu. Jin Taekyung narrowly evaded the Force and thrust his spear forward like a flash of lightning.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "25",
+      "sol": "The earth split like tofu. Jin Taekyung slipped past the Force by a hair and drove his spear forward like lightning.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Terrifying speed and power. Along with them, a spearhead shot toward a single point with frightening precision.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "29",
+      "sol": "",
+      "sol_paragraphs": "after P10",
+      "sol_range": [
+        10,
+        10
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even a fistfighter who had honed his hand-to-hand techniques for his entire life and reached the Supreme Peak realm would have been unable to meet that strike head-on.",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "31",
+      "sol": "The spearhead flew toward a single point with terrifying speed, power, and precision. Even a fistfighter who had spent a lifetime honing his techniques and reached the Supreme Peak realm would not have dared meet that strike head-on.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "35",
+      "sol": "",
+      "sol_paragraphs": "after P12",
+      "sol_range": [
+        12,
+        12
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the very least, today’s Southern Heaven Demon Empress possessed enough power and qualification to do so.",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "37",
+      "sol": "No. Today, at least, she had the power to do exactly that.",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "The spearhead, hellfire flickering around it, trembled between the Southern Heaven Demon Empress’s palms, which she had brought together as though in prayer.",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "She caught the spearhead between her palms as though bringing her hands together in prayer. Hellfire flickered around the blade as it trembled between them. Enough power was concentrated in those snow-white hands to keep them from being reduced to ash.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Her snow-white hands, which should have been reduced to ash long ago, held a tremendous concentration of energy.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "",
+      "sol_paragraphs": "after P16",
+      "sol_range": [
+        16,
+        16
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The corners of her smooth lips, free of even a single wrinkle, slowly lifted.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "The corners of her unlined mouth lifted.",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The instant her voice, filled with mockery, emerged—",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "51",
+      "sol": "",
+      "sol_paragraphs": "after P18",
+      "sol_range": [
+        18,
+        18
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Southern Heaven Demon Empress noticed the drops of blood falling one by one and closed her mouth.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "55",
+      "sol": "Drops of blood fell. The Southern Heaven Demon Empress noticed them and fell silent.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the pain arrived half a beat late, she saw Jin Taekyung smiling sheepishly at her.",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "57",
+      "sol": "The pain reached her half a beat later. Jin Taekyung gave her a sheepish smile.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "61",
+      "sol": "“…!”",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“But what were you saying?”",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "63",
+      "sol": "“What were you saying?”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Southern Heaven Demon Empress’s delicate brow twisted. At that moment, Jin Taekyung released the spear shaft in his hands and stretched out both arms.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "65",
+      "sol": "Her delicate brow furrowed. Jin Taekyung let go of the spear shaft and thrust out both arms.",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "But the Southern Heaven Demon Empress’s guess missed its mark completely.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "69",
+      "sol": "She was wrong.",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Two daggers suddenly shot toward her throat and chest. They were too close for her to evade immediately.",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "73",
+      "sol": "Two daggers shot toward her throat and chest. They were already too close to dodge, so she released the spearhead and snapped her sleeves.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Left with no choice but to release the spearhead she had been holding, the Southern Heaven Demon Empress shook her sleeves violently.",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "75",
+      "sol": "",
+      "sol_paragraphs": "after P29",
+      "sol_range": [
+        29,
+        29
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "The wind that burst from her voluminous sleeves sent the daggers flying away.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "79",
+      "sol": "",
+      "sol_paragraphs": "after P30",
+      "sol_range": [
+        30,
+        30
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that instant, Jin Taekyung’s toe caught the end of the White Flame’s spear shaft, which had been slowly tilting.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "81",
+      "sol": "Wind burst from the billowing fabric and sent the daggers flying. At that instant, Jin Taekyung’s foot caught the end of White Flame’s slowly tilting shaft.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He kicked it?",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "87",
+      "sol": "",
+      "sol_paragraphs": "after P33",
+      "sol_range": [
+        33,
+        33
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And in a situation like this, he had kicked away the divine weapon that would have helped him most?",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "89",
+      "sol": "He kicked it? The divine weapon that would have helped him most in this fight?",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with that shockingly baffling question, a flash of light shot toward the Southern Heaven Demon Empress’s face.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "91",
+      "sol": "A flash of light hurtled toward her face.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "It happened in the blink of an eye, and the attack was even more irregular than it was fast. Fully evading it was nearly impossible.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "95",
+      "sol": "It happened in an instant. The attack was so unexpected that avoiding it completely was all but impossible. She turned her head on instinct, felt pain flare in her earlobe, and stared.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Southern Heaven Demon Empress turned her head on instinct and felt pain shoot from her earlobe. Her eyes flew open.",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "97",
+      "sol": "",
+      "sol_paragraphs": "after P37",
+      "sol_range": [
+        37,
+        37
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "She would not have been this furious if only her earring had shattered. It had been a possession she rather liked, but she could always obtain another one.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "101",
+      "sol": "If it had only been her earring, she would not have been so furious. She had liked it, but she could always find another.",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But her earlobe had been torn, and her hair had been cut as well.",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "103",
+      "sol": "Her earlobe had been torn. Worse, her hair had been cut. Half of the thick, glossy hair she had always taken such pride in was gone.",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fully half of her thick, glossy hair—always a source of pride—had been cut away.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "105",
+      "sol": "",
+      "sol_paragraphs": "after P40",
+      "sol_range": [
+        40,
+        40
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The unprecedented energy that had faltered for a moment surged through her slender body.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "111",
+      "sol": "The tremendous power that had faltered for a moment surged through her slender body. Its pressure could have crushed a massive boulder in an instant.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The pressure seemed capable of crushing even a massive boulder in an instant.",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "113",
+      "sol": "",
+      "sol_paragraphs": "after P43",
+      "sol_range": [
+        43,
+        43
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But the Southern Heaven Demon Empress did not know.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "115",
+      "sol": "",
+      "sol_paragraphs": "after P43",
+      "sol_range": [
+        43,
+        43
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "The young—no, the impossibly young—enemy before her had once climbed a cliff with iron balls weighing well over a thousand geun strapped to his body.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "117",
+      "sol": "But the Southern Heaven Demon Empress did not know that the young—almost absurdly young—enemy before her had once climbed a cliff with iron balls weighing well over a thousand *geun* strapped to his body.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The earth sank beneath the pressure crushing everything within a radius of over ten jang, while the limbs of the humans and beasts struggling in the area twisted and snapped.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "121",
+      "sol": "The ground sank beneath the pressure crushing everything within a radius of more than ten *jang*. The limbs of struggling humans and beasts snapped.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Amid the space overflowing with blood and dying screams, Jin Taekyung, who had endured the pressure, stamped his foot.",
+      "baseline_paragraphs": "P63",
+      "baseline_range": [
+        62,
+        63
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "127",
+      "sol": "Amid the blood and dying screams, Jin Taekyung endured the pressure and stamped his foot.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with a line of flame that rose from his toe, his body shot forward.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "131",
+      "sol": "",
+      "sol_paragraphs": "after P50",
+      "sol_range": [
+        50,
+        50
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, a spear that no one knew when he had taken hold of split the air like lightning as it swung fiercely from his fingertips.",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "133",
+      "sol": "A line of flame rose from his toe as he shot forward. At the same time, a spear he had somehow taken hold of swept fiercely from his fingertips and split the air like lightning.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A shockwave burst out with a deafening roar and shook the world. The Southern Heaven Demon Empress’s hand, which had caught the side of the spearhead with perfect precision, was filled with surging power.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "137",
+      "sol": "The impact sent out a shockwave that shook the world. The Southern Heaven Demon Empress had caught the side of the spearhead with perfect precision. Power surged through her hand.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Scorching Yang Qi surrounding the spearhead, along with the steel that a skilled blacksmith had folded and tempered more than a hundred times, crumbled like tofu.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "141",
+      "sol": "The Scorching Yang Qi around the spearhead broke apart, and so did the steel a skilled blacksmith had tempered more than a hundred times. It crumbled like tofu.",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A murderous smile formed at the corner of the Southern Heaven Demon Empress’s mouth.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "143",
+      "sol": "A smile full of killing intent touched her lips.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Jin Taekyung’s mistake was that he had given up a peerless divine weapon made of Ten-Thousand-Year Cold Iron of his own accord.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "147",
+      "sol": "Jin Taekyung had made the mistake of giving up his peerless divine weapon of Ten-Thousand-Year Cold Iron. Now she would make him pay for wounding her beautiful body—and for cutting her precious hair.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "From this moment on, the Southern Heaven Demon Empress intended to make that young brat pay the proper price—not only for daring to injure her beautiful body, but for cutting off her precious hair as well.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "149",
+      "sol": "",
+      "sol_paragraphs": "after P58",
+      "sol_range": [
+        58,
+        58
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "*I intended to take him back in the best condition possible. But I suppose that won’t do anymore.*",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "151",
+      "sol": "*I meant to bring him back as unharmed as possible. That won’t do anymore.*",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At first, after hearing that the exalted Lord of Heaven had taken an interest in Jin Taekyung, she had intended to act as the Lord’s faithful servant and capture the young man to offer him up.",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "153",
+      "sol": "The exalted Lord of Heaven had shown an interest in Jin Taekyung. At first, she had intended to capture the boy and present him as a faithful servant should.",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But now she had changed her mind.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "155",
+      "sol": "Now she had changed her mind.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Jin Taekyung reflected in the Southern Heaven Demon Empress’s eyes was no longer a sharp-tempered cat.",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "157",
+      "sol": "",
+      "sol_paragraphs": "after P61",
+      "sol_range": [
+        61,
+        61
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "He was a proud beast.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "159",
+      "sol": "",
+      "sol_paragraphs": "after P61",
+      "sol_range": [
+        61,
+        61
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Although he was young, he possessed teeth and claws as sharp as those of a great tiger.",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "161",
+      "sol": "He was no longer a feisty cat in her eyes, but a proud beast. Young though he was, he had teeth and claws as sharp as a great tiger’s. If she was careless, he might leave even worse wounds on her beautiful body.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And those were weapons that might inflict even more serious wounds on this beautiful body of hers if she made a mistake.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "163",
+      "sol": "",
+      "sol_paragraphs": "after P62",
+      "sol_range": [
+        62,
+        62
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung’s figure rushed into the Southern Heaven Demon Empress’s blood-red eyes like a flash of lightning.",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "165",
+      "sol": "Jin Taekyung rushed toward her, reflected in her blood-red eyes.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "*You should be prepared to lose a limb or two. I’ll reattach them later anyway.*",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "167",
+      "sol": "*You’ll have to forgive me if you lose a limb or two. I’ll put them back on later.*",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Muttering inwardly, the Southern Heaven Demon Empress shook both sleeves.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "169",
+      "sol": "She snapped both sleeves.",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "The shattered spearhead split into dozens, then hundreds, of fragments and covered the air.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "173",
+      "sol": "The shattered spearhead broke into dozens, then hundreds, of fragments that filled the air. Each one carried Force. Jin Taekyung drove his clenched fist into the wave of hidden weapons without hesitation.",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before the wave of hidden weapons, each carrying Force, Jin Taekyung thrust out his tightly clenched fist without a moment’s hesitation.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "175",
+      "sol": "",
+      "sol_paragraphs": "after P67",
+      "sol_range": [
+        67,
+        67
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        },
+        {
+          "korean": "암기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "hidden weapon"
+        }
+      ]
+    },
+    {
+      "baseline": "A fire dragon sprang from the end of his callused fist and swallowed hundreds of fragments.",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "181",
+      "sol": "",
+      "sol_paragraphs": "after P69",
+      "sol_range": [
+        69,
+        69
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        },
+        {
+          "korean": "화룡",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "fire dragon"
+        }
+      ]
+    },
+    {
+      "baseline": "The fragments, heated red-hot by the extreme temperature, melted into liquid iron and poured across the ground.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "183",
+      "sol": "A fire dragon burst from his callused fist and swallowed the fragments. Heated red-hot, they melted into liquid iron and spattered across the ground.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But beneath the molten iron raining down like a shower, what awaited Jin Taekyung as he shot through the air was the Southern Heaven Demon Empress’s slender, jade-like hand.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "187",
+      "sol": "Beneath that rain of molten iron, the Southern Heaven Demon Empress’s slender hand awaited Jin Taekyung as he shot toward her.",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Five fingers swept toward him, erasing the wind.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "191",
+      "sol": "",
+      "sol_paragraphs": "after P73",
+      "sol_range": [
+        73,
+        73
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Curled like a rake, they swung toward his right arm.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "193",
+      "sol": "Five fingers came at him, sweeping the air aside. They hooked like a rake toward his right arm.",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung twisted his body as though he had anticipated it from the beginning.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "195",
+      "sol": "Jin Taekyung twisted as though he had expected it all along.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was not an evasion meant to protect the right arm that would otherwise be torn away. It was a suicidal act in which he willingly offered his neck to the enemy.",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "197",
+      "sol": "He was not trying to save the arm she would otherwise tear away. He was putting his own neck in her path.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But at the same time, it was also a lethal move that struck at an opening the opponent had never expected.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "199",
+      "sol": "Suicide—or a move that caught her utterly off guard.",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*What kind of lunacy is this…!*",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "201",
+      "sol": "*This lunatic…!*",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A scream rang out in the Southern Heaven Demon Empress’s mind.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "203",
+      "sol": "The Southern Heaven Demon Empress screamed inwardly.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Now that the exalted Lord of Heaven had taken an interest in Jin Taekyung, he was someone who absolutely could not die.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "205",
+      "sol": "The Lord of Heaven had taken an interest in Jin Taekyung. He absolutely could not die. She had wanted to take him alive as a show of loyalty; the Lord had not even given her a specific order. If Jin Taekyung died by her hand, she might have to face the Lord’s fury alone.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Her original reason for capturing him had merely been an expression of loyalty to the Lord of Heaven.",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "207",
+      "sol": "",
+      "sol_paragraphs": "after P80",
+      "sol_range": [
+        80,
+        80
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "천주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Lord of Heaven"
+        }
+      ]
+    },
+    {
+      "baseline": "If Jin Taekyung died by her hand before any particular order had been issued, she might have to bear the Lord of Heaven’s fury alone.",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "209",
+      "sol": "",
+      "sol_paragraphs": "after P80",
+      "sol_range": [
+        80,
+        80
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "천주",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Lord of Heaven"
+        }
+      ]
+    },
+    {
+      "baseline": "Along with the cry that never escaped her mouth, the Southern Heaven Demon Empress hurriedly pulled back the internal energy that had been surging upward.",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "213",
+      "sol": "",
+      "sol_paragraphs": "after P81",
+      "sol_range": [
+        81,
+        81
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "공력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "internal energy"
+        },
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "At the same time, the muscles and qi-blood throughout her body, which had moved solely toward that one purpose, twisted.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "215",
+      "sol": "She hurriedly dragged back her surging internal energy. The muscles and flow of qi-blood throughout her body, already committed to the strike, twisted against the sudden reversal. A wave of backflow swept through her.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A wave of backflow overwhelmed her.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "217",
+      "sol": "",
+      "sol_paragraphs": "after P82",
+      "sol_range": [
+        82,
+        82
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A jet of blood surged up from deep within her body and spurted between the Southern Heaven Demon Empress’s lips.",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "223",
+      "sol": "",
+      "sol_paragraphs": "after P84",
+      "sol_range": [
+        84,
+        84
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "At the final moment, the Force around her fingertips, whose direction she had barely managed to twist, veered past Jin Taekyung’s throat.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "225",
+      "sol": "Blood shot up from deep within her and sprayed between her lips. At the last moment, she managed to turn her hand. The Force at her fingertips missed Jin Taekyung’s throat.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His skin was sliced away by wind as sharp as a blade.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "229",
+      "sol": "The blade-sharp wind sliced his skin.",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But Jin Taekyung did not waver in the slightest.",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "231",
+      "sol": "Jin Taekyung did not waver. He had never had any reason to.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. He had no reason to waver from the beginning.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "233",
+      "sol": "",
+      "sol_paragraphs": "after P88",
+      "sol_range": [
+        88,
+        88
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’ve been waiting for this moment.*",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "235",
+      "sol": "*This is the moment I’ve been waiting for.*",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His mind, cold as ice, had already finished calculating everything.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "237",
+      "sol": "His mind had gone cold. He had already made his calculations.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung estimated the Southern Heaven Demon Empress’s martial power to be at least that of the Ten Kings.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "239",
+      "sol": "",
+      "sol_paragraphs": "after P90",
+      "sol_range": [
+        90,
+        90
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "십왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Ten Kings"
+        },
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Perhaps she was even comparable to the Three Saints.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "241",
+      "sol": "",
+      "sol_paragraphs": "after P90",
+      "sol_range": [
+        90,
+        90
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "삼성",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Three Saints"
+        }
+      ]
+    },
+    {
+      "baseline": "The level of the martial arts she used might have been equal to or even inferior to that of the Western Heaven Demon Lord, but she possessed overwhelming internal energy enough to more than make up for the difference.",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "243",
+      "sol": "By his reckoning, the Southern Heaven Demon Empress was at least on the level of the Ten Kings. She might even rival the Three Saints. Her martial arts could be no better than the Western Heaven Demon Lord’s—perhaps worse—but her overwhelming internal energy more than made up for any gap.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And when facing a master of this level, there was only one possible method.",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "245",
+      "sol": "Against a master like her, he had only one way to win.",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A single opening.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "247",
+      "sol": "One opening.",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung had placed his life on the table as his wager and obtained a chance that would come only once.",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "249",
+      "sol": "He had wagered his life to create it. He would not get another chance.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "And…",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "251",
+      "sol": "And now…",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*I’ll bet my life again.*",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "253",
+      "sol": "*I’ll wager my life again.*",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Inventory Open. Summon.*",
+      "baseline_paragraphs": "P127",
+      "baseline_range": [
+        126,
+        127
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "255",
+      "sol": "*Inventory open. Summon.*",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with the commands ringing through his mind, he thrust out his hand like a flash of lightning.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "257",
+      "sol": "He gave the command in his mind and shot out his hand.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A slender wrist, impossible to believe belonged to such a powerful monster, was cleanly severed.",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "261",
+      "sol": "A slender wrist—impossibly slender for a monster so powerful—was severed cleanly.",
+      "sol_paragraphs": "P100",
+      "sol_range": [
+        99,
+        100
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A scream burst forth.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "263",
+      "sol": "",
+      "sol_paragraphs": "after P100",
+      "sol_range": [
+        100,
+        100
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was louder and filled with more pain than the scream of any creature of the Nanman Beast Palace writhing under the demonic qi.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "267",
+      "sol": "Her scream was louder and more agonized than any Jin Taekyung had heard from the creatures of the Nanman Beast Palace writhing under the demonic qi. No, it was the worst scream he had ever heard.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No—it was the loudest, most agonized scream Jin Taekyung had ever heard in his life.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "269",
+      "sol": "",
+      "sol_paragraphs": "after P102",
+      "sol_range": [
+        102,
+        102
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "In a way, it was only natural.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "271",
+      "sol": "",
+      "sol_paragraphs": "after P102",
+      "sol_range": [
+        102,
+        102
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Humans were animals born to forget, and powerful people who had grown accustomed to inflicting pain inevitably forgot their own.",
+      "baseline_paragraphs": "P136",
+      "baseline_range": [
+        135,
+        136
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "273",
+      "sol": "In a way, that was only natural. People were born to forget, and the powerful, accustomed to causing pain, tended to forget their own.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "But even so, his opponent was the Southern Heaven Demon Empress.",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "275",
+      "sol": "Even so, she was the Southern Heaven Demon Empress.",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with her ripping cry, her body shot forward.",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "281",
+      "sol": "",
+      "sol_paragraphs": "after P106",
+      "sol_range": [
+        106,
+        106
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As Jin Taekyung met the Southern Heaven Demon Empress’s blood-red eyes, clouded with darkness, he realized on instinct.",
+      "baseline_paragraphs": "P141",
+      "baseline_range": [
+        140,
+        141
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "283",
+      "sol": "She lunged with a shriek that seemed to tear through the air. Jin Taekyung met her blood-red gaze, now clouded with darkness, and knew instinctively that this time he could neither dodge nor block her attack completely.",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "This time, he would be unable to evade completely.",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "285",
+      "sol": "",
+      "sol_paragraphs": "after P107",
+      "sol_range": [
+        107,
+        107
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He would be unable to block completely.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "287",
+      "sol": "",
+      "sol_paragraphs": "after P107",
+      "sol_range": [
+        107,
+        107
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps because of the massive Internal Injury she had suffered, her stance was unsteady. The internal energy she had forcibly dragged up while vomiting blood was rough beyond measure.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "289",
+      "sol": "The immense Internal Injury had thrown off her stance. The internal energy she had forced up while vomiting blood was wildly unstable. That made her all the more dangerous.",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But that was precisely why she was more dangerous.",
+      "baseline_paragraphs": "P145",
+      "baseline_range": [
+        144,
+        145
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "291",
+      "sol": "",
+      "sol_paragraphs": "after P108",
+      "sol_range": [
+        108,
+        108
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "293",
+      "sol": "",
+      "sol_paragraphs": "after P108",
+      "sol_range": [
+        108,
+        108
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The truly dangerous thing was the killing intent Jin Taekyung felt from the Southern Heaven Demon Empress.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "295",
+      "sol": "No. The real danger was the killing intent pouring from her.",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "“How dare you! How dare someone like you!”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "297",
+      "sol": "“How dare you! Someone like you!”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Luck only came once.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "299",
+      "sol": "His luck had only worked once.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A monster consumed by anger and pain, one that had even forgotten its loyalty to its master, thrust out a palm wrapped in powerful energy.",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "301",
+      "sol": "Consumed by pain and fury, forgetting even her loyalty to her master, the monster thrust out a palm packed with power.",
+      "sol_paragraphs": "P112",
+      "sol_range": [
+        111,
+        112
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "The world slowed.",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "303",
+      "sol": "",
+      "sol_paragraphs": "after P112",
+      "sol_range": [
+        112,
+        112
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A palm strike in which darkness and blood-red Force were muddled together rushed forward, erasing the space in its path.",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "305",
+      "sol": "The world slowed. Darkness and blood-red Force churned together in the palm strike as it rushed toward him, erasing the space in its path.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was an overwhelming force, as though a sea and a mountain had risen and come crashing down upon him.",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "309",
+      "sol": "",
+      "sol_paragraphs": "after P114",
+      "sol_range": [
+        114,
+        114
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "Fear that made every hair on his body stand on end seized Jin Taekyung.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "311",
+      "sol": "The force bore down like the sea and Taishan rising together to crush him. Fear seized Jin Taekyung and made every hair on his body stand on end.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But he knew.",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "313",
+      "sol": "",
+      "sol_paragraphs": "after P115",
+      "sol_range": [
+        115,
+        115
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If he took even a single step backward here, everything would be over.",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "315",
+      "sol": "But he knew that if he took even one step back, everything would be over.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He had to move forward, even if he had to throw away his life to do it.",
+      "baseline_paragraphs": "P158",
+      "baseline_range": [
+        157,
+        158
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "317",
+      "sol": "He had to go forward, even if it cost him his life.",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with the thought he muttered inwardly, though he did not know what he was calling toward him, Jin Taekyung’s foot stepped onto the blood-soaked earth.",
+      "baseline_paragraphs": "P160",
+      "baseline_range": [
+        159,
+        160
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "321",
+      "sol": "He did not know what he was calling to. His foot came down on the blood-soaked earth.",
+      "sol_paragraphs": "P119",
+      "sol_range": [
+        118,
+        119
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "The ground sank beneath a single step carrying internal energy as heavy as life itself, then exploded while holding the heat within it.",
+      "baseline_paragraphs": "P162",
+      "baseline_range": [
+        161,
+        162
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "325",
+      "sol": "The ground sank beneath a step weighted with internal energy as heavy as his life, then burst with heat.",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His body, crouched low enough to skim the ground, shot forward like a cannonball.",
+      "baseline_paragraphs": "P164",
+      "baseline_range": [
+        163,
+        164
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "329",
+      "sol": "Crouched low enough to skim the ground, he shot forward like a cannonball. A snow-white palm filled his vision, carrying power no human should have possessed. Beyond the blood-red flash was a face twisted like a fiend’s.",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A snow-white palm filled his field of vision, carrying unprecedented energy that was impossible to believe belonged to a human.",
+      "baseline_paragraphs": "P165",
+      "baseline_range": [
+        164,
+        165
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "331",
+      "sol": "",
+      "sol_paragraphs": "after P123",
+      "sol_range": [
+        123,
+        123
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A face distorted like a Fiend appeared within the blood-red flash as well.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "333",
+      "sol": "",
+      "sol_paragraphs": "after P123",
+      "sol_range": [
+        123,
+        123
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "악귀",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Fiend"
+        }
+      ]
+    },
+    {
+      "baseline": "Right then—",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "337",
+      "sol": "At that instant—",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Inventory Open. Summon.*",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "339",
+      "sol": "*Inventory open. Summon.*",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung’s hand, spread wide as though it were about to unleash Palm Force, suddenly clenched.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "341",
+      "sol": "",
+      "sol_paragraphs": "after P126",
+      "sol_range": [
+        126,
+        126
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "강기",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Force"
+        }
+      ]
+    },
+    {
+      "baseline": "A cold spear shaft appeared in his empty palm, and the spearhead extending from it erased the space between the two of them.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "343",
+      "sol": "Jin Taekyung’s hand, spread wide as though ready to unleash a palm strike, closed. A cold spear shaft filled his empty palm, and its spearhead erased the distance between them.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And then…",
+      "baseline_paragraphs": "P172",
+      "baseline_range": [
+        171,
+        172
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "345",
+      "sol": "",
+      "sol_paragraphs": "after P127",
+      "sol_range": [
+        127,
+        127
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The spearhead passed within a hair’s breadth of the back of the Southern Heaven Demon Empress’s neck with a harsh sound as it tore through the air.",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "349",
+      "sol": "The spearhead tore past the Southern Heaven Demon Empress’s neck by a hair. Faint delight lit her eyes.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, faint delight rose in her eyes.",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "351",
+      "sol": "",
+      "sol_paragraphs": "after P129",
+      "sol_range": [
+        129,
+        129
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The technique Jin Taekyung used was certainly astonishing and threatening.",
+      "baseline_paragraphs": "P177",
+      "baseline_range": [
+        176,
+        177
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "355",
+      "sol": "His technique was astonishing, and dangerous. But amid the chaos of the fight, she had predicted it.",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "But amid the chaotic flow of battle, the Southern Heaven Demon Empress had accurately predicted everything.",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "357",
+      "sol": "",
+      "sol_paragraphs": "after P131",
+      "sol_range": [
+        131,
+        131
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Or so she believed.",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "359",
+      "sol": "",
+      "sol_paragraphs": "after P131",
+      "sol_range": [
+        131,
+        131
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Until the instant before she cut off Jin Taekyung’s head, when she suddenly felt a chill of wind blow from behind her.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "361",
+      "sol": "Or so she believed—until, just as she was about to take off his head, a cold draft touched her back.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "“……!”",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "363",
+      "sol": "“…!”",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A faint sound of air being cut pierced her ears.",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "363",
+      "sol": "",
+      "sol_paragraphs": "after P134",
+      "sol_range": [
+        134,
+        134
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Southern Heaven Demon Empress instinctively spun around.",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H136",
+      "korean_lines": "363",
+      "sol": "",
+      "sol_paragraphs": "after P134",
+      "sol_range": [
+        134,
+        134
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Something as cold as ice and razor-sharp raked across her side.",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H137",
+      "korean_lines": "363",
+      "sol": "A faint hiss reached her ear. She spun on instinct, but something icy and razor-sharp raked across her side.",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with blood bursting out like a fountain, she felt her muscles and veins sever and her qi-blood become tangled.",
+      "baseline_paragraphs": "P187",
+      "baseline_range": [
+        186,
+        187
+      ],
+      "hunk_id": "H138",
+      "korean_lines": "363",
+      "sol": "Blood burst out like a fountain. She felt muscle and veins sever, her qi-blood tangling inside her.",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*This… this is…*",
+      "baseline_paragraphs": "P188",
+      "baseline_range": [
+        187,
+        188
+      ],
+      "hunk_id": "H139",
+      "korean_lines": "363",
+      "sol": "*Th-this is…*",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A second backflow had struck before she could even settle the Internal Injury she had suffered earlier—and it was more fatal than any wound she had received until now.",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H140",
+      "korean_lines": "363",
+      "sol": "A second reversal, before she had even managed to settle the Internal Injury from the first. More dangerous than any wound she had suffered so far.",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*From the beginning… this was what he was aiming for.*",
+      "baseline_paragraphs": "P191",
+      "baseline_range": [
+        190,
+        191
+      ],
+      "hunk_id": "H141",
+      "korean_lines": "363",
+      "sol": "*This was what he was after… from the start.*",
+      "sol_paragraphs": "P141",
+      "sol_range": [
+        140,
+        141
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A flash of insight passed through her whitened field of vision.",
+      "baseline_paragraphs": "P192",
+      "baseline_range": [
+        191,
+        192
+      ],
+      "hunk_id": "H142",
+      "korean_lines": "363",
+      "sol": "",
+      "sol_paragraphs": "after P141",
+      "sol_range": [
+        141,
+        141
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "깨달음",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "enlightenment / insight"
+        }
+      ]
+    },
+    {
+      "baseline": "The Southern Heaven Demon Empress swallowed the blood surging up her throat and turned around.",
+      "baseline_paragraphs": "P193",
+      "baseline_range": [
+        192,
+        193
+      ],
+      "hunk_id": "H143",
+      "korean_lines": "363",
+      "sol": "The realization flashed through her whitening vision. She swallowed the blood rising in her throat and turned.",
+      "sol_paragraphs": "P142",
+      "sol_range": [
+        141,
+        142
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남천마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Southern Heaven Demon Empress"
+        },
+        {
+          "korean": "마후",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Demon Empress"
+        }
+      ]
+    },
+    {
+      "baseline": "Blue-white flames whirled around the tip of a transparent spearhead in answer to its master’s call.",
+      "baseline_paragraphs": "P196",
+      "baseline_range": [
+        195,
+        196
+      ],
+      "hunk_id": "H144",
+      "korean_lines": "363",
+      "sol": "Blue-white flames whirled at the tip of a transparent spearhead that had answered its master’s call.",
+      "sol_paragraphs": "P145",
+      "sol_range": [
+        144,
+        145
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Beneath the deeply sunken eyes of one man, silently moving lips completed two words.",
+      "baseline_paragraphs": "P197",
+      "baseline_range": [
+        196,
+        197
+      ],
+      "hunk_id": "H145",
+      "korean_lines": "363",
+      "sol": "Beneath Jin Taekyung’s deeply shadowed eyes, his lips moved silently, forming two words.",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The moment the Southern Heaven Demon Empress’s eyes flew wide—",
+      "baseline_paragraphs": "P199",
+      "baseline_range": [
+        198,
+        199
+      ],
+      "hunk_id": "H146",
+      "korean_lines": "363",
+      "sol": "The Southern Heaven Demon Empress’s eyes flew wide.",
+      "sol_paragraphs": "P148",
+      "sol_range": [
+        147,
+        148
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Along with someone’s sudden, urgent thought, a massive vortex unlike anything anyone in Nanman had ever seen exploded outward.",
+      "baseline_paragraphs": "P201",
+      "baseline_range": [
+        200,
+        201
+      ],
+      "hunk_id": "H147",
+      "korean_lines": "363",
+      "sol": "An urgent thought suddenly rang out. With it, a vast vortex unlike anything anyone in Nanman had ever seen erupted.",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 151,
+  "sol_sha256": "6cf84fa62848204e776e782d2d7a6c2279eed69de9730c4113df8aef34a2a116",
+  "version": 1
+}

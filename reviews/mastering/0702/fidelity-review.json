@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But the Southern Heaven Demon Empress did not know that the young—almost absurdly young—enemy before her had once climbed a cliff with iron balls weighing well over a thousand *geun* strapped to his body.",
+      "defect": "The translation drops the preceding image that the pressure could crush a massive boulder in an instant.",
+      "id": "F01",
+      "rationale": "The source explicitly compares the pressure to a force that could crush a huge rock in one blow; the accepted baseline preserves this image.",
+      "replacement": "The pressure seemed capable of crushing even a massive boulder in an instant. But the Southern Heaven Demon Empress did not know that the young—almost absurdly young—enemy before her had once climbed a cliff with iron balls weighing well over a thousand *geun* strapped to his body.",
+      "severity": "minor",
+      "source": "Lines 107–108"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Fear that made every hair on his body stand on end seized Jin Taekyung.",
+      "defect": "The translation omits the comparison of the incoming force to a sea and a mountain rising and crashing down.",
+      "id": "F02",
+      "rationale": "The source uses both the sea-and-mountain image and the following fear reaction; the baseline preserves both.",
+      "replacement": "It was an overwhelming force, as though a sea and a mountain had risen and come crashing down upon him. Fear that made every hair on his body stand on end seized Jin Taekyung.",
+      "severity": "minor",
+      "source": "Lines 277–279"
+    },
+    {
+      "confidence": 0.97,
+      "current": "People were born to forget, and the powerful, accustomed to causing pain, tended to forget their own.",
+      "defect": "The translation drops the source’s image of people as animals born to forget.",
+      "id": "F03",
+      "rationale": "The Korean calls people “animals of forgetfulness”; the accepted baseline preserves that image.",
+      "replacement": "Humans were animals born to forget, and the powerful, accustomed to causing pain, tended to forget their own.",
+      "severity": "minor",
+      "source": "Lines 247–249"
+    }
+  ],
+  "summary": "The assembled English has three minor source-image omissions.",
+  "version": 1
+}
