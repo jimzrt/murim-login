@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 1044
-- Next chapter: 1045
-- Current block: 1040–1044 (5/5)
-- Latest translation: `translations/1044.md`
-- Latest summary: `summaries/beats/1044.md`
-- Safe profiles through: chapter 1044
+- Last completed: 1045
+- Next chapter: 1046
+- Current block: 1045–1049 (1/5)
+- Latest translation: `translations/1045.md`
+- Latest summary: `summaries/beats/1045.md`
+- Safe profiles through: chapter 1045
 
 ## Current Block
 
-- Song Il and Hwangbo Eom reunite at the front of the battlefield and combine their sword strikes, slightly altering the course of the Grand Mage’s enormous Hell Fire sphere but failing to stop it. They learn that Hyuk Sopyung is leading Zhongnan’s survivors. As the sphere closes in, the two Senior Brothers recall accepting Sima Gong’s offer to help exact revenge on the Fire Gate Clan and protect Zhongnan; they regret their decision and choose to face the flames rather than flee.
-- Song and Hwangbo acknowledge their shame and sorrow toward their Master, Gong Iljung, Zhongnan’s disciples, and the Fire Gate Clan’s Master and Disciple. The sphere’s heat and light engulf the battlefield; their fate is unknown.
+- As Jeok Cheongang rushes to stop the Grand Mage’s Hell Fire, Sima Gong blocks the Blood-Sword Demon Lord long enough for Jeok to continue. Jeok reaches the sphere and attacks with the Flame-Extinguishing Divine Fist, but brilliant Force arrows strike first and break it apart. The blast rains fire across the battlefield, killing thousands, mostly Dark Heaven’s forces; the enemy casualties number fewer than a hundred.
+- Jin Taekyung survives and recognizes the distant archer as the Bow Saint. The Grand Mage also recognizes him, while wondering why the Hell Fire struck her own forces. Jeok Cheongang, Sima Gong, and the Bow Saint’s conditions after the blast remain unknown.
 
 ## Open Questions
 
@@ -18,7 +18,7 @@
 - Did Dark Heaven cause the Great Faction War?
 - Who are the white-robed mages, and what is their purpose?
 - How were the former Demonic Cult fiends made into Black Ghosts?
-- What happens to the Hell Fire sphere, Jin Taekyung, Song Il, and Hwangbo Eom?
+- What happened to Jeok Cheongang, Sima Gong, Jin Taekyung, Song Il, and Hwangbo Eom after the blast?
 
 ## Exceptional Decision
 
