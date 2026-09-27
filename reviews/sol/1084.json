@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Even so, Mu Song narrowed his eyes as the cannonballs fell far short of the hulls and slammed into the water.",
+      "defect": "“Fell far short” specifies a direction the source does not give; the cannonballs miss the hulls by a wide margin.",
+      "id": "F01",
+      "rationale": "한참이나 선체를 빗나가 describes the extent of the miss, not whether the shots landed short.",
+      "replacement": "Even so, Mu Song narrowed his eyes as cannonballs missed the hulls by a wide margin and slammed into the water.",
+      "severity": "critical",
+      "source": "한참이나 선체를 빗나가 수면 위를 후려치는 포탄들을 본 무송이 눈매를 좁혔다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Even if it’s my Master’s order… I can’t bring myself to go along with it.*",
+      "defect": "Mu Song’s reluctance becomes an inability or decision to comply, though he continues the attack.",
+      "id": "F02",
+      "rationale": "도무지 내키지 않는군 expresses strong unwillingness, not refusal.",
+      "replacement": "*Even if it’s my Master’s order… this doesn’t sit right with me at all.*",
+      "severity": "critical",
+      "source": "‘제아무리 스승님의 명령이라지만…… 도무지 내키지 않는군.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Amid the thunderous blast, Mu Song landed on the bow, deflecting the cannonball. He felt the tingling in his grip and shouted:",
+      "defect": "The draft omits the recoil from deflecting the cannonball as the cause of his landing.",
+      "id": "F03",
+      "rationale": "포탄을 튕겨낸 반동으로 explicitly links the deflection’s recoil to his landing.",
+      "replacement": "Amid the thunderous blast, the recoil from deflecting the cannonball sent Mu Song back onto the bow. His grip tingled, and he shouted:",
+      "severity": "major",
+      "source": "포탄을 튕겨낸 반동으로 뱃머리에 착지한 무송은 저릿해진 손아귀를 느끼며 외쳤다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Come to think of it, that made me a chivalrous hero too, for a little while.*",
+      "defect": "The thought omits that Mu Song helped those heroes—the specific basis for his brief claim to chivalry.",
+      "id": "F04",
+      "rationale": "그들을 도왔던 나 makes his own aid to them essential to the thought.",
+      "replacement": "*Come to think of it, since I helped them, was I a chivalrous hero for a little while too?*",
+      "severity": "major",
+      "source": "‘그러고 보면, 그들을 도왔던 나 역시 잠시 동안은 협객이었던 셈인가.’"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“…We’ll finish this in one strike. Everyone, get ready.”",
+      "defect": "“One strike” introduces a single-blow tactic absent from the order.",
+      "id": "F05",
+      "rationale": "단숨에 means in one go or without delay, not with one literal strike.",
+      "replacement": "“…We’ll finish this quickly. Everyone, get ready.”",
+      "severity": "minor",
+      "source": "“……단숨에 끝낸다. 다들 준비해라.”"
+    }
+  ],
+  "summary": "The draft changes two consequential facts: where the cannonballs land and whether Mu Song has decided to refuse his master’s order. It also loses the recoil behind his landing and the reason he briefly considers himself a hero.",
+  "version": 1
+}

@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“I am Hak Eui, a First-Generation Disciple of the Kunlun Sect. It’s an honor to meet you, Great Hero Jin Taekyung, the Blazing Flame Divine Dragon.”",
+      "defect": "The repeated greeting adds a title and changes the wording of the line spoken at the end of Chapter 1080.",
+      "id": "C01",
+      "rationale": "The opening repeats the same moment, so the quoted speech should match Chapter 1080.",
+      "replacement": "“I am Hak Eui, a First-Generation Disciple of the Kunlun Sect. It is an honor to meet you, Great Hero Jin Taekyung.”",
+      "severity": "minor",
+      "source": "Chapter 1081, opening line"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Today, we’ll show them that we—the Yangtze River Channel League—are the Yangtze’s true rulers.",
+      "defect": "An unitalicized first-person thought interrupts third-person narration.",
+      "id": "C02",
+      "rationale": "The preceding sentence is already marked as Mu Song’s direct thought; this sentence continues it.",
+      "replacement": "*Today, we’ll show them that we—the Yangtze River Channel League—are the Yangtze’s true rulers.*",
+      "severity": "minor",
+      "source": "Chapter 1084, Mu Song’s thoughts as the ships advance"
+    }
+  ],
+  "summary": "Two actionable reading-copy inconsistencies: Hak Eui’s repeated greeting changes across the chapter boundary, and Mu Song’s first-person thought loses its thought formatting.",
+  "version": 1
+}
