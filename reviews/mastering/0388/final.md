@@ -410,7 +410,7 @@ Even through the holographic screen, the old man’s powerful gaze could be felt
 
 “Yes. I will keep that in mind.”
 
-After the brief communication with Minister of National Defense Wei Fenghu ended, Shao Yang, Chairman of China, sat alone in the vast conference room and sank into thought.
+After the brief communication with Minister of National Defense Wei Fenghu ended, Xiao Yang, Chairman of China, sat alone in the vast conference room and sank into thought.
 
 *How did things come to this?*
 
@@ -418,19 +418,19 @@ It was a catastrophe without precedent since the Great Cataclysm. Despite pourin
 
 He had wanted to avoid causing panic if at all possible, but if they delayed any longer, the opportunity might disappear forever.
 
-That was why Shao Yang had come here today despite the countless objections within the Communist Party.
+That was why Xiao Yang had come here today despite the countless objections within the Communist Party.
 
 “They’re ready.”
 
 “…Connect me immediately.”
 
-At his secretary’s words, Shao Yang opened his eyes.
+At his secretary’s words, Xiao Yang opened his eyes.
 
 Holographic figures began appearing one after another in the empty seats of the spacious conference room.
 
 Fourteen people of different races and genders.
 
-No—fifteen, including Shao Yang.
+No—fifteen, including Xiao Yang.
 
 Each of them was the leader of a nation, and all belonged to a single body.
 

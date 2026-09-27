@@ -572,10 +572,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 최 팀장 | Team member to team leader | Team Leader | Polite internal speech | Jin addresses Choi as 팀장님 through Sound Transmission. |
 | 최 팀장 | 진태경 | professional_ally_to_ally | Mr. Jin Taekyung | formal-polite | Team Leader Choi repeatedly warns Jin not to make verbal mistakes before the Chairman. |
 | 진태경 | 최 팀장 | ally_to_senior_professional_ally | Team Leader Choi | polite-teasing | Jin praises Choi as the best leader before asking him to raise Jin's Guild settlement percentage. |
-| 샤오 양 | 진태경 | national_leader_to_foreign_ally | Mr. Jin | formal-polite | Shao Yang addresses Jin directly while asking him to prioritize human lives. |
-| 샤오 양 | 웨이펑후 | national_leader_to_subordinate_and_old_friend | Minister of National Defense Wei Fenghu | formal-authoritative | Shao Yang asks Wei whether he wants the Central Military Commission's full authority. |
-| 웨이펑후 | 샤오 양 | senior_military_official_to_national_leader_and_old_friend | Chairman Comrade | formal-deferential | Wei addresses Shao Yang as Chairman Comrade during the authority discussion. |
-| 진태경 | 샤오 양 | foreign_ally_to_national_leader | Chairman | polite-awkward | Jin greets Shao Yang with an overly casual 'Welcome' after successfully avoiding the Jongseok wordplay. |
+| 샤오 양 | 진태경 | national_leader_to_foreign_ally | Mr. Jin | formal-polite | Xiao Yang addresses Jin directly while asking him to prioritize human lives. |
+| 샤오 양 | 웨이펑후 | national_leader_to_subordinate_and_old_friend | Minister of National Defense Wei Fenghu | formal-authoritative | Xiao Yang asks Wei whether he wants the Central Military Commission's full authority. |
+| 웨이펑후 | 샤오 양 | senior_military_official_to_national_leader_and_old_friend | Chairman Comrade | formal-deferential | Wei addresses Xiao Yang as Chairman Comrade during the authority discussion. |
+| 진태경 | 샤오 양 | foreign_ally_to_national_leader | Chairman | polite-awkward | Jin greets Xiao Yang with an overly casual 'Welcome' after successfully avoiding the Jongseok wordplay. |
 | 매직 존슨 | 진태경 | international_s_rank_ally_to_new_acquaintance | Lord Fuck | casual-teasing | Magic Johnson says his youngest daughter knows Jin by the nickname Lord Fuck. |
 | 진태경 | 매직 존슨 | new_acquaintance_to_international_s_rank_ally | Magic Johnson | polite-excited | Jin recognizes the Archmage by name and addresses him directly. |
 | 중국인 사내 | 진태경 | international_s_rank_hunter_to_foreign_a_rank_hunter | Peninsula bangzi | insulting-contemptuous | The unidentified young Chinese Hunter mocks Jin's Lord Fuck nickname and A-rank status. |
@@ -709,11 +709,11 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 아크 리치 | victor_to_defeated_enemy | bastard | blunt and insulting-casual | Jin mocks the dying Arch Lich and orders it to insult Asmodeus. |
 | 진태경 | 스켈레톤 킹 | ally and companion | you | insulting-casual | Jin tells the Skeleton King that it is also a king and corrects it when it repeats the insult. |
 | 스켈레톤 킹 | 진태경 | ally and companion | you | casual and warm | The Skeleton King catches Jin after he collapses and quietly acknowledges his effort. |
-| 샤오 양 | 진태경 | foreign head of state to allied Hunter | Mr. Jin | formal-polite and sincere | Shao Yang refers to Jin as 진 선생 while expressing gratitude for preventing a global catastrophe. |
-| 최민우 | 샤오 양 | allied team leader to foreign head of state | Chairman | formal-polite and tactfully assertive | Choi addresses Shao Yang as 주석님 while pressing him about the Crown Prince Party's campaign against Jin. |
+| 샤오 양 | 진태경 | foreign head of state to allied Hunter | Mr. Jin | formal-polite and sincere | Xiao Yang refers to Jin as 진 선생 while expressing gratitude for preventing a global catastrophe. |
+| 최민우 | 샤오 양 | allied team leader to foreign head of state | Chairman | formal-polite and tactfully assertive | Choi addresses Xiao Yang as 주석님 while pressing him about the Crown Prince Party's campaign against Jin. |
 | 진태경 | 최 팀장 | patient_to_medical_and_political_handler | Team Leader Choi | casual-polite and familiar | Jin uses the title playfully while discussing his recovery and family visit. |
 | 최 팀장 | 진태경 | handler_to_patient_and_client | Mr. Jin | polite and deferential | Choi maintains a respectful professional register while relaying medical and political information. |
-| 샤오 양 | 진태경 | senior_political_leader_to_hero_and_guest | Mr. Jin | formal and directive | Shao addresses Jin as 진 선생 while briefing him before the press conference. |
+| 샤오 양 | 진태경 | senior_political_leader_to_hero_and_guest | Mr. Jin | formal and directive | Xiao addresses Jin as 진 선생 while briefing him before the press conference. |
 | 진태경 | 엄마 | son_to_mother | Mom | casual and startled | Jin cries out to his mother as she charges at him during the hospital visit. |
 | 진태경 | 샤오 쉔 | senior ally to junior subordinate | Shen | casual and commanding | Jin calls Xiao Shen 쉔아 while ordering him to deal with the Daspatch reporter. |
 | 샤오 쉔 | 진태경 | junior subordinate to respected senior ally | hyung | deferential and energetic | Xiao Shen addresses Jin as 형님. |
@@ -732,7 +732,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 힐러 | 진태경 | healer addressing the rescuer who stabilized the survivor | sir | deferential and grateful | The healer thanks Jin as 선생님 after witnessing his rescue and treatment. |
 | 카메라 감독 | 진태경 | cameraman addressing a suspected famous Hunter | Mr. Jin | startled and honorific | The cameraman calls out 진 선생님 after recognizing Jin's abilities and manner. |
 | 최 팀장 | 진태경 | escort_team_leader_to_ally | Mr. Jin | formal but familiar | Team Leader Choi consistently addresses Jin politely while offering practical and personal reassurance. |
-| 샤오 양 주석 | 진태경 | Chinese_chairman_to_foreign_ally | Mr. Jin | formal, warm, and grandfatherly | Shao Yang addresses Jin formally while thanking him and discussing his bounty. |
+| 샤오 양 주석 | 진태경 | Chinese_chairman_to_foreign_ally | Mr. Jin | formal, warm, and grandfatherly | Xiao Yang addresses Jin formally while thanking him and discussing his bounty. |
 | 파이 첸 | 진태경 | allied_grand_mage_to_younger_ally | young man | playful and familiar | Faye Chen praises Jin in a teasing but sincere tone. |
 | 샤오 쉔 | 진태경 | younger_brother_like_ally_to_older_brother_figure | hyung | deferential and affectionate | Xiao Shen addresses Jin as an older-brother figure during their farewell. |
 | 진태경 | 파이 첸 | younger_ally_to_allied_grand_mage | Faye Chen | casual and familiar | Jin directly addresses Faye Chen while responding to her praise. |

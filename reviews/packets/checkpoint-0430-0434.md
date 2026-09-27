@@ -99,7 +99,7 @@ Jin discovers that the Arch Lich’s magic-circle fragments share patterns and s
 
 At the ruined city, Go Jun confronts Jin over Lee Jungryong’s death. Jin admits killing Lee and Wu Heixing, defeats and mutilates Go Jun, but spares him and demands that Ares Guild’s retaliation end with Lee. Magic Johnson learns the truth, accepts Jin as a friend, and agrees to protect Jin’s people and support his growth. Jin plans to exploit Ares Guild’s leadership vacuum while strengthening Peace Guild rather than starting an open war.
 
-Twenty days after the Small Cataclysm, Jin secretly helps rescue survivors in Sichuan but is exposed during a live CCTV broadcast, turning his denial and irreverent remarks into a sensational international scoop. After reuniting with his mother, Hayeon, and his allies, Jin departs China aboard a chartered aircraft. Chairman Shao Yang confirms that Jin’s fifty-trillion bounty will be paid and reveals that Xiao Shen is his grandson. Jin logs in during the flight and begins returning to the other world.
+Twenty days after the Small Cataclysm, Jin secretly helps rescue survivors in Sichuan but is exposed during a live CCTV broadcast, turning his denial and irreverent remarks into a sensational international scoop. After reuniting with his mother, Hayeon, and his allies, Jin departs China aboard a chartered aircraft. Chairman Xiao Yang confirms that Jin’s fifty-trillion bounty will be paid and reveals that Xiao Shen is his grandson. Jin logs in during the flight and begins returning to the other world.
 
 ## Continuity
 
@@ -109,9 +109,9 @@ Twenty days after the Small Cataclysm, Jin secretly helps rescue survivors in Si
 - Go Jun survives Jin’s retaliation but is grievously mutilated. Jin deliberately spares him, and three immobilized A-rank Ares Hunters remove him from the scene.
 - Magic Johnson knows Jin killed Lee Jungryong and Wu Heixing, accepts Jin as a friend, and has agreed to protect Jin’s people and aid his growth.
 - Jin intends to use Peace Guild’s growth and Ares Guild’s leadership vacuum to encourage defections and weaken Ares without openly declaring war.
-- Chairman Shao Yang is purging Wu Xueming and leading Crown Prince Party figures while reorganizing the military.
+- Chairman Xiao Yang is purging Wu Xueming and leading Crown Prince Party figures while reorganizing the military.
 - Jin’s mother and Hayeon have left China with him aboard the chartered aircraft.
-- Xiao Shen is Chairman Shao Yang’s grandson, and Shao Yang has promised Jin’s official fifty-trillion bounty.
+- Xiao Shen is Chairman Xiao Yang’s grandson, and Xiao Yang has promised Jin’s official fifty-trillion bounty.
 - Jin has logged in aboard the departing aircraft and begun returning to Murim/the other world.
 - Wei Fenghu continues grieving Lei Fei while maintaining a respectful relationship with Jin.
 - The Skeleton King continues pursuing a human identity as Stone-King and may remain concealed in Jin’s Inventory or an extradimensional pocket.
@@ -119,7 +119,7 @@ Twenty days after the Small Cataclysm, Jin secretly helps rescue survivors in Si
 ## Translation Decisions
 
 - Render **移动阵** as **Moving Formation**, **小格局变动** as **Small Cataclysm**, and ** 아공간 포켓** as **extradimensional pocket**.
-- Use **Magic Johnson**, **Skeleton King**, **Stone-King**, **Golgoli**, **Chairman Shao Yang**, **Xiao Shen**, **Faye Chen**, and **Team Leader Choi**.
+- Use **Magic Johnson**, **Skeleton King**, **Stone-King**, **Golgoli**, **Chairman Xiao Yang**, **Xiao Shen**, **Faye Chen**, and **Team Leader Choi**.
 - Render **형님** as **hyung** when Xiao Shen addresses Jin.
 - Preserve Jin’s dry, profane, self-deprecating voice; the Skeleton King’s grandiose, Internet-influenced insults; and Magic Johnson’s familiar tone.
 - Keep the circle’s function explicitly uncertain, using **life-force absorption** rather than presenting it as established fact.
@@ -134,10 +134,10 @@ Twenty days after the Small Cataclysm, Jin secretly helps rescue survivors in Si
     "Jin suspects that the Murim formation, the modern world's magic circle, the battle phenomena involving the Blood Lord and Western Heaven Demon Lord, and his junk capsule are connected.",
     "Magic Johnson knows Jin killed Lee Jungryong and Wu Heixing, accepts Jin as a friend, and has agreed to help protect Jin's people and support his growth.",
     "The Skeleton King remains hidden in Jin's Inventory or an extradimensional pocket when necessary and continues pursuing a human-world identity as Stone-King.",
-    "Chairman Shao Yang has begun a political purge against Wu Xueming and leading Crown Prince Party figures, accompanied by a sweeping military reorganization.",
+    "Chairman Xiao Yang has begun a political purge against Wu Xueming and leading Crown Prince Party figures, accompanied by a sweeping military reorganization.",
     "Jin's mother and Hayeon have left China with him aboard the chartered aircraft.",
     "Jin is using Ares Guild's leadership vacuum and Peace Guild's expected growth to encourage defections without openly declaring war.",
-    "Chairman Shao Yang is Xiao Shen's grandfather and has promised Jin's fifty-trillion bounty after Jin saved Xiao Shen.",
+    "Chairman Xiao Yang is Xiao Shen's grandfather and has promised Jin's fifty-trillion bounty after Jin saved Xiao Shen.",
     "Jin has logged in aboard the departing aircraft and begun returning toward the other world."
   ],
   "continuity_sources": [
@@ -1270,11 +1270,11 @@ The Chinese people were consumed by grief and fury at the news, directing the ar
 
 The young reporter standing there was no exception. His voice rose, boiling with indignation.
 
-“This monster wave was like a natural disaster beyond the power of human beings to stop. But if everyone had joined forces to prepare for the disaster and respond quickly, the situation would have been very different. Chairman Shao Yang has offered a profound apology for this and released the transcript of last month’s meeting.”
+“This monster wave was like a natural disaster beyond the power of human beings to stop. But if everyone had joined forces to prepare for the disaster and respond quickly, the situation would have been very different. Chairman Xiao Yang has offered a profound apology for this and released the transcript of last month’s meeting.”
 
 The contents were shocking.
 
-The transcript of the Communist Party’s highest-level committee meeting, previously hidden from the public, captured the sharp conflict in its entirety. Chairman Shao Yang’s faction had insisted on asking countries around the world for help immediately, while the Crown Prince Party had argued that they should draw on the power of Zhonghua and fight with the spirit of chivalry.
+The transcript of the Communist Party’s highest-level committee meeting, previously hidden from the public, captured the sharp conflict in its entirety. Chairman Xiao Yang’s faction had insisted on asking countries around the world for help immediately, while the Crown Prince Party had argued that they should draw on the power of Zhonghua and fight with the spirit of chivalry.
 
 And one person stood out above all the rest.
 
@@ -1288,7 +1288,7 @@ But the power of Zhonghua and the spirit of chivalry he had gone on about during
 
 On top of that, it came to light that his past military-related corruption had led to accidents in which tanks stopped and helicopters crashed. Wu Xueming was driven to the edge of a cliff.
 
-And Chairman Shao Yang, a seasoned politician, did not miss the perfect opportunity.
+And Chairman Xiao Yang, a seasoned politician, did not miss the perfect opportunity.
 
 “Committee Member Wu Xueming used his guanxi with prominent figures in the military, political, and business worlds to embezzle astronomical sums of money. We are currently investigating every circumstance connected to this incident.”
 
@@ -1649,7 +1649,7 @@ The owner of the aged voice spoke to me with a gentle smile.
 
 “So… you’re leaving in the end, Mr. Jin.”
 
-I smiled back at Chairman Shao Yang.
+I smiled back at Chairman Xiao Yang.
 
 “The hotel rates were more expensive than I expected.”
 
@@ -1697,7 +1697,7 @@ Maybe that was why I felt more dazed than happy.
 
 “Um, but…”
 
-Chairman Shao Yang raised his eyebrows.
+Chairman Xiao Yang raised his eyebrows.
 
 “Are you really giving it to me?”
 
@@ -1709,7 +1709,7 @@ The instant I finished speaking, Team Leader Choi stepped firmly on my foot, whi
 
 My vehement answer spread a ripple of laughter through the crowd.
 
-Chairman Shao Yang laughed heartily and patted my shoulder.
+Chairman Xiao Yang laughed heartily and patted my shoulder.
 
 “Did I not say so? Paying a proper price for work done is only natural.”
 
@@ -1723,7 +1723,7 @@ There was nothing wrong with receiving the money according to the contract, but 
 
 “If you are worried about rebuilding the damage, that is something our country must handle. Your bounty is being processed quickly, Mr. Jin, so it will be paid officially soon.”
 
-After finishing, Chairman Shao Yang leaned toward my ear and whispered,
+After finishing, Chairman Xiao Yang leaned toward my ear and whispered,
 
 “When I plowed up the fields and pulled out the rotten stalks, piles of gold came tumbling out. So you need not feel uncomfortable, Mr. Jin.”
 
@@ -1745,7 +1745,7 @@ I answered with a much lighter heart.
 
 “What are you saying? Thanks to you, we were able to prevent an even greater catastrophe. On behalf of all the people who could not be here today, I once again offer you my thanks, Mr. Jin.”
 
-Before I could stop him, Chairman Shao Yang and his attendants bowed courteously.
+Before I could stop him, Chairman Xiao Yang and his attendants bowed courteously.
 
 The people gathered here were the major officials who moved an entire nation.
 
@@ -1845,7 +1845,7 @@ My words were cut off by something Xiao Shen said.
 
 “What are you talking about? The only grandfathers I know are Butler Kim from my Guild and the owner of the real-estate office outside my goshiwon.[^1]”
 
-Chairman Shao Yang cut in with a laugh.
+Chairman Xiao Yang cut in with a laugh.
 
 “Ha ha. This old man is here as well, you know.”
 
@@ -1855,7 +1855,7 @@ Wait a minute.
 
 The corners of my eyes began to twitch.
 
-*Shao Yang. Shao Shen. Shao, Shao?*
+*Xiao Yang. Shao Shen. Shao, Shao?*
 
 I had dismissed it because Xiao was a common Chinese surname, like Kim or Park in Korea, but now that I thought about it, their faces looked strangely similar, too.
 

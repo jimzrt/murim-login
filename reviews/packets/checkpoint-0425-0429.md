@@ -107,8 +107,8 @@ Jin then meets Magic Johnson, who has given the Skeleton King a nearly perfect h
 - The Arch Lich, its soul fragment, the unfinished Gate, and the surrounding ruined city were destroyed. The fragment was erased by the remnant of Lei Fei’s soul within Hero’s Soul.
 - The Winter War ended after thirty-four days. Jin is internationally celebrated as the hero who prevented a wider catastrophe.
 - Lee Jungryong is publicly presumed dead without a surviving body. Wu Heixing’s broken corpse was recovered, and Jin’s public explanation attributes his death to the Arch Lich.
-- Chairman Shao Yang is preparing prosecutions against the corrupt Crown Prince Party leadership, including Wu Heixing’s father, after its persecution and forced-labor campaign.
-- Jin’s mother and Hayeon remain in China under Chairman Shao’s protection.
+- Chairman Xiao Yang is preparing prosecutions against the corrupt Crown Prince Party leadership, including Wu Heixing’s father, after its persecution and forced-labor campaign.
+- Jin’s mother and Hayeon remain in China under Chairman Xiao’s protection.
 - Opening his Middle Dantian lets Jin perceive the texture of qi and sever layered magic with Force; he can also manipulate Magic Gem-powered equipment.
 - Magic Johnson created the Skeleton King’s near-human body with magic circles carved into its bones. The Skeleton King can appear human outside his Inventory and is establishing the identity Stone-King.
 - Jin recognized the Sichuan pattern on Magic Johnson’s papers. What the pattern represents and why Johnson possesses it remain unresolved.
@@ -129,8 +129,8 @@ Jin then meets Magic Johnson, who has given the Skeleton King a nearly perfect h
     "Magic Johnson has created a near-perfect human appearance for the Skeleton King using magic circles carved into the Skeleton King's bones.",
     "The Skeleton King can now appear human outside his Inventory and is attempting to establish a human-world identity as Stone-King.",
     "Jin recognized a pattern on Magic Johnson's scattered papers as the same pattern he previously saw in Sichuan.",
-    "Chairman Shao is preparing a political reckoning against the Crown Prince Party after its persecution and forced labor campaign.",
-    "Jin's mother and Hayeon remain in China under Chairman Shao's protection.",
+    "Chairman Xiao is preparing a political reckoning against the Crown Prince Party after its persecution and forced labor campaign.",
+    "Jin's mother and Hayeon remain in China under Chairman Xiao's protection.",
     "Lee Jungryong is publicly presumed dead without a surviving body, while Wu Heixing's corpse was recovered after the battle."
   ],
   "continuity_sources": [
@@ -993,7 +993,7 @@ The people gathered in one part of the hospital room, which only a select few we
 
 “How is Mr. Jin’s condition?”
 
-Choi Minwoo answered Chairman Shao Yang’s question.
+Choi Minwoo answered Chairman Xiao Yang’s question.
 
 “It’s always the same. Everything is perfectly normal, but for some reason, he still hasn’t regained consciousness.”
 
@@ -1003,7 +1003,7 @@ Choi Minwoo answered Chairman Shao Yang’s question.
 
 “Hmm. If both of them said so, there can be no doubt… Then why on earth hasn’t he regained consciousness?”
 
-Chairman Shao Yang sighed.
+Chairman Xiao Yang sighed.
 
 The two people he had mentioned were both at the very top of their fields.
 
@@ -1025,7 +1025,7 @@ If the two people invited as Jin Taekyung’s temporary attending physicians had
 
 “Don’t say that you’re grateful. If not for Mr. Jin, an even greater catastrophe would have occurred. Though I am an old man with little time left to live, I will carry this gratitude with me to the grave.”
 
-Chairman Shao Yang was sincere.
+Chairman Xiao Yang was sincere.
 
 Four days had passed since that day. During that time, an investigation team made up of countless experts from around the world had combed through the city that had served as the Arch Lich’s base and discovered traces of the Gate.
 
@@ -1049,7 +1049,7 @@ A debt of gratitude in someone’s heart had a way of returning as an even great
 
 “Inside. The leadership of the Communist Party—or, more precisely, the Crown Prince Party.”
 
-Chairman Shao Yang nodded.
+Chairman Xiao Yang nodded.
 
 “I am fully aware of the matter.”
 
@@ -1065,7 +1065,7 @@ The first was that Jin Taekyung, who had harbored ill feelings toward Wu Heixing
 
 The second was that, together with Lee Jungryong, who was presumed missing or dead, he had used Wu Heixing as a shield and taken advantage of the opportunity to kill the Arch Lich.
 
-Chairman Shao Yang knew about these theories as well, and he had already reached his own conclusion.
+Chairman Xiao Yang knew about these theories as well, and he had already reached his own conclusion.
 
 The old statesman spoke to Choi Minwoo in a firm tone.
 
@@ -1087,7 +1087,7 @@ A political giant comparable to the Chairman, he had begun spreading the rumors 
 
 “If Mr. Jin regains consciousness, the truth will come to light anyway. But for a high-ranking politician to take the lead in spreading such an absurd conspiracy theory…”
 
-Choi Minwoo let his voice trail off, and Chairman Shao Yang smiled faintly.
+Choi Minwoo let his voice trail off, and Chairman Xiao Yang smiled faintly.
 
 *He has no qualms at all.*
 
@@ -1097,7 +1097,7 @@ And yet, the young man was actively making his position known, even carefully mo
 
 *Was that information true?*
 
-As Chairman Shao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.
+As Chairman Xiao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.
 
 “Very well. It seems my explanation was insufficient, so let me say it again.”
 
@@ -1121,7 +1121,7 @@ Only then did Choi Minwoo allow a gentle smile to spread across his lips.
 
 That was sufficient for today’s conversation.
 
-A short while later, after exchanging a few more words, Chairman Shao Yang left the room. Choi Minwoo, now alone, suddenly opened his mouth.
+A short while later, after exchanging a few more words, Chairman Xiao Yang left the room. Choi Minwoo, now alone, suddenly opened his mouth.
 
 “That’s what he says.”
 
@@ -1178,7 +1178,7 @@ If I couldn’t even fool a few medical devices, I would’ve been so frustrated
 
 “That aside, what do you think will happen with the Wu Heixing situation? From what Grandpa Jongseok said, it sounds like he made some preparations.”
 
-“This must be the fiftieth time I’ve told you, but he’s not Grandpa Jongseok. He’s Chairman Shao.”
+“This must be the fiftieth time I’ve told you, but he’s not Grandpa Jongseok. He’s Chairman Xiao.”
 
 “What’s wrong with it? It’s friendly.”
 
@@ -1188,19 +1188,19 @@ Team Leader Choi shook his head and picked up an apple from the fruit basket bes
 
 Then he pulled out a dagger that looked expensive at a glance, smoothly peeled the apple, and held it out to me.
 
-“I don’t think you need to worry about the Wu Heixing situation. Public opinion is on our side, and Chairman Shao seems to have sharpened his blade.”
+“I don’t think you need to worry about the Wu Heixing situation. Public opinion is on our side, and Chairman Xiao seems to have sharpened his blade.”
 
-“Chairman Shao? To be honest, he seemed a little soft to me.”
+“Chairman Xiao? To be honest, he seemed a little soft to me.”
 
 Crunch.
 
 I bit into the firm apple. Sweet juice filled my mouth.
 
-If Chairman Shao Yang had been as hard as this apple, the Crown Prince Party would never have occupied the center of power all this time.
+If Chairman Xiao Yang had been as hard as this apple, the Crown Prince Party would never have occupied the center of power all this time.
 
 As if he had read my thoughts, Team Leader Choi spoke.
 
-“Did you know that Chairman Shao was once branded a reactionary and forced to perform five years of hard labor at a pig slaughterhouse?”
+“Did you know that Chairman Xiao was once branded a reactionary and forced to perform five years of hard labor at a pig slaughterhouse?”
 
 “He was?”
 
@@ -1208,9 +1208,9 @@ As if he had read my thoughts, Team Leader Choi spoke.
 
 That was enough for me to understand what he meant.
 
-Chairman Shao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
+Chairman Xiao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
 
-“A blade that’s been sharpened for a long time has to be swung when the time comes. To the Crown Prince Party, Chairman Shao will become the most frightening swordsman of all.”
+“A blade that’s been sharpened for a long time has to be swung when the time comes. To the Crown Prince Party, Chairman Xiao will become the most frightening swordsman of all.”
 
 “Then Wu Heixing’s father…”
 
@@ -1280,7 +1280,7 @@ The sigh slipped out before I could stop it, and Team Leader Choi tilted his hea
 
 “Oh, it’s nothing. More importantly, how’s my family?”
 
-My mother and Hayeon had arrived in China only a few hours earlier on a chartered plane, under Chairman Shao Yang’s special orders. They had received treatment surpassing that given to a state guest, complete with an escort of dozens of fighter jets.
+My mother and Hayeon had arrived in China only a few hours earlier on a chartered plane, under Chairman Xiao Yang’s special orders. They had received treatment surpassing that given to a state guest, complete with an escort of dozens of fighter jets.
 
 “You don’t need to worry. Your mother is resting, and your younger sister…”
 
@@ -1372,7 +1372,7 @@ Then, after another week of complicated comprehensive examinations and various o
 
 “Mr. Jin. We’ve filtered out any reporters who might cause trouble, so you can simply call on the reporters we selected in advance and take their questions.”
 
-But contrary to what Chairman Shao had said before the press conference, several reporters hunting for a scoop as sweet as honey charged forward like a swarm of bees.
+But contrary to what Chairman Xiao had said before the press conference, several reporters hunting for a scoop as sweet as honey charged forward like a swarm of bees.
 
 “Mr. Jin! We’ve heard that you and Wu Heixing, one of the casualties of this battle, didn’t get along. Is that true?”
 

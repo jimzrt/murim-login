@@ -223,7 +223,7 @@ Korean lines: 53
 
 BASE:
 
-“And that young Red Guard grew up to become the most powerful man in Chinese politics and the leader of the Crown Prince Party. Even Chairman Shao Yang dares not touch him.”
+“And that young Red Guard grew up to become the most powerful man in Chinese politics and the leader of the Crown Prince Party. Even Chairman Xiao Yang dares not touch him.”
 
 SOL:
 

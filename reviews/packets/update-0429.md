@@ -146,9 +146,9 @@ If the person already appears under Listed compact profiles, use `profile_update
   "active_continuity": [
     "Jin Taekyung has regained consciousness and is active after the Arch Lich's defeat, though his recovery was publicly announced after a delay.",
     "Jin's improved internal-energy control lets him manipulate modern medical devices powered by Magic Gems.",
-    "Chairman Shao Yang is preparing a political reckoning against the Crown Prince Party after enduring persecution and forced labor under the faction.",
+    "Chairman Xiao Yang is preparing a political reckoning against the Crown Prince Party after enduring persecution and forced labor under the faction.",
     "Lee Jungryong is publicly presumed dead without a surviving body, and Wu Heixing's corpse was recovered after the battle.",
-    "Jin's mother and Hayeon are in China under Chairman Shao's protection and have confronted Jin over his secret departure.",
+    "Jin's mother and Hayeon are in China under Chairman Xiao's protection and have confronted Jin over his secret departure.",
     "Jin publicly attributes Wu Heixing's death to the Arch Lich and claims Wu's potion saved him.",
     "Jin publicly mourned Lee Jungryong and the other war dead, and the press conference drew approximately three billion live viewers.",
     "Jin went to find an unidentified person after the press conference."
@@ -163,7 +163,7 @@ If the person already appears under Listed compact profiles, use `profile_update
   "safe_through": 428,
   "temporary_decisions": [
     "Render 최 팀장 as “Team Leader Choi” and 종석 할아버지 as “Grandpa Jongseok.”",
-    "Render 샤오 주석 as “Chairman Shao” and 샤오 양 주석 as “Chairman Shao Yang.”",
+    "Render 샤오 주석 as “Chairman Xiao” and 샤오 양 주석 as “Chairman Xiao Yang.”",
     "Retain “jajinmori” for 자진모리장단 with a brief explanatory footnote.",
     "Preserve Jin's profane, dry, and deliberately misleading public voice."
   ],

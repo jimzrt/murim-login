@@ -1837,7 +1837,7 @@ Overrides generic relationship prose in character profiles for this pair.
 
 이정룡이 넌지시 건넨 말의 뜻을 파악한 백한성이 새하얀 서류 봉투를 내밀었다.
 
-“샤오 양(Shao Yang) 주석이 보낸 비공식 외교 서한입니다.”
+“샤오 양(Xiao Yang) 주석이 보낸 비공식 외교 서한입니다.”
 
 “역시 비공식이군요.”
 

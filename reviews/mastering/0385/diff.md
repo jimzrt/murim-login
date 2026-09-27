@@ -1814,11 +1814,11 @@ Korean lines: 379
 
 BASE:
 
-Broad-minded Chairman Shao Yang had not asked anyone present to disarm as a sign of trust, but that consideration would become poison to Wu Heixing.
+Broad-minded Chairman Xiao Yang had not asked anyone present to disarm as a sign of trust, but that consideration would become poison to Wu Heixing.
 
 SOL:
 
-Broad-minded Chairman Shao Yang had not asked anyone present to disarm, offering his trust instead. But that consideration was about to become poison to Wu Heixing.
+Broad-minded Chairman Xiao Yang had not asked anyone present to disarm, offering his trust instead. But that consideration was about to become poison to Wu Heixing.
 
 ## H130 (replace)
 

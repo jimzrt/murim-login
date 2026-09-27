@@ -822,11 +822,11 @@ Korean lines: 203
 
 BASE:
 
-—The Communist Party also has its own factions. General Liao is a pure-blooded member of the Crown Prince Party, the largest faction in the Communist Party since his grandfather’s time. It is a rival faction to the Shanghai Gang, which Chairman Shao and Minister of National Defense Wei Fenghu belong to.
+—The Communist Party also has its own factions. General Liao is a pure-blooded member of the Crown Prince Party, the largest faction in the Communist Party since his grandfather’s time. It is a rival faction to the Shanghai Gang, which Chairman Xiao and Minister of National Defense Wei Fenghu belong to.
 
 SOL:
 
-—The Communist Party has factions of its own. General Liao comes from the highest pedigree of the Crown Prince Party, the Communist Party’s largest faction, going back to his grandfather’s generation. It rivals the Shanghai Gang, to which Chairman Shao and Minister of National Defense Wei Fenghu belong.
+—The Communist Party has factions of its own. General Liao comes from the highest pedigree of the Crown Prince Party, the Communist Party’s largest faction, going back to his grandfather’s generation. It rivals the Shanghai Gang, to which Chairman Xiao and Minister of National Defense Wei Fenghu belong.
 
 ## H060 (replace)
 
@@ -878,11 +878,11 @@ Korean lines: 213
 
 BASE:
 
-—But is that really allowed? If Chairman Shao simply pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
+—But is that really allowed? If Chairman Xiao simply pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
 
 SOL:
 
-—But is that really allowed? If Chairman Shao pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
+—But is that really allowed? If Chairman Xiao pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
 
 ## H064 (replace)
 
@@ -992,11 +992,11 @@ Korean lines: 237
 
 BASE:
 
-“Let’s formally request it from Chairman Shao and launch dozens of nuclear weapons across Sichuan. Wouldn’t that solve everything nice and cleanly?”
+“Let’s formally request it from Chairman Xiao and launch dozens of nuclear weapons across Sichuan. Wouldn’t that solve everything nice and cleanly?”
 
 SOL:
 
-“Let’s submit a formal request to Chairman Shao and launch dozens of nuclear warheads across Sichuan. Wouldn’t that solve everything nice and cleanly?”
+“Let’s submit a formal request to Chairman Xiao and launch dozens of nuclear warheads across Sichuan. Wouldn’t that solve everything nice and cleanly?”
 
 ## H072 (replace)
 

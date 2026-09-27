@@ -46,7 +46,7 @@ If I couldn’t even fool a few medical devices, I would’ve been so frustrated
 
 “That aside, what do you think will happen with the Wu Heixing situation? From what Grandpa Jongseok said, it sounds like he made some preparations.”
 
-“This must be the fiftieth time I’ve told you, but he’s not Grandpa Jongseok. He’s Chairman Shao.”
+“This must be the fiftieth time I’ve told you, but he’s not Grandpa Jongseok. He’s Chairman Xiao.”
 
 “What’s wrong with it? It’s friendly.”
 
@@ -56,19 +56,19 @@ Team Leader Choi shook his head and picked up an apple from the fruit basket bes
 
 Then he pulled out a dagger that looked expensive at a glance, smoothly peeled the apple, and held it out to me.
 
-“I don’t think you need to worry about the Wu Heixing situation. Public opinion is on our side, and Chairman Shao seems to have sharpened his blade.”
+“I don’t think you need to worry about the Wu Heixing situation. Public opinion is on our side, and Chairman Xiao seems to have sharpened his blade.”
 
-“Chairman Shao? To be honest, he seemed a little soft to me.”
+“Chairman Xiao? To be honest, he seemed a little soft to me.”
 
 Crunch.
 
 I bit into the firm apple. Sweet juice filled my mouth.
 
-If Chairman Shao Yang had been as hard as this apple, the Crown Prince Party would never have occupied the center of power all this time.
+If Chairman Xiao Yang had been as hard as this apple, the Crown Prince Party would never have occupied the center of power all this time.
 
 As if he had read my thoughts, Team Leader Choi spoke.
 
-“Did you know that Chairman Shao was once branded a reactionary and forced to perform five years of hard labor at a pig slaughterhouse?”
+“Did you know that Chairman Xiao was once branded a reactionary and forced to perform five years of hard labor at a pig slaughterhouse?”
 
 “He was?”
 
@@ -76,9 +76,9 @@ As if he had read my thoughts, Team Leader Choi spoke.
 
 That was enough for me to understand what he meant.
 
-Chairman Shao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
+Chairman Xiao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
 
-“A blade that’s been sharpened for a long time has to be swung when the time comes. To the Crown Prince Party, Chairman Shao will become the most frightening swordsman of all.”
+“A blade that’s been sharpened for a long time has to be swung when the time comes. To the Crown Prince Party, Chairman Xiao will become the most frightening swordsman of all.”
 
 “Then Wu Heixing’s father…”
 
@@ -148,7 +148,7 @@ The sigh slipped out before I could stop it, and Team Leader Choi tilted his hea
 
 “Oh, it’s nothing. More importantly, how’s my family?”
 
-My mother and Hayeon had arrived in China only a few hours earlier on a chartered plane, under Chairman Shao Yang’s special orders. They had received treatment surpassing that given to a state guest, complete with an escort of dozens of fighter jets.
+My mother and Hayeon had arrived in China only a few hours earlier on a chartered plane, under Chairman Xiao Yang’s special orders. They had received treatment surpassing that given to a state guest, complete with an escort of dozens of fighter jets.
 
 “You don’t need to worry. Your mother is resting, and your younger sister…”
 
@@ -240,7 +240,7 @@ Then, after another week of complicated comprehensive examinations and various o
 
 “Mr. Jin. We’ve filtered out any reporters who might cause trouble, so you can simply call on the reporters we selected in advance and take their questions.”
 
-But contrary to what Chairman Shao had said before the press conference, several reporters hunting for a scoop as sweet as honey charged forward like a swarm of bees.
+But contrary to what Chairman Xiao had said before the press conference, several reporters hunting for a scoop as sweet as honey charged forward like a swarm of bees.
 
 “Mr. Jin! We’ve heard that you and Wu Heixing, one of the casualties of this battle, didn’t get along. Is that true?”
 

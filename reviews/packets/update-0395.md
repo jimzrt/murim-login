@@ -255,7 +255,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 - **Role:** Wu Heixing is a Chinese S-rank Hunter known for frequent media exposure and scandal who secretly practices martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts.
 - **Personality:** Arrogant, status-conscious, abusive, and fiercely proud of his power, he responds to humiliation with anger, jealousy, and fear.
 - **Voice:** Loud, insulting, entitled, and dependent on national and political status.
-- **Relationships:** He is openly hostile toward Jin Taekyung and Faye Chen, and resents Jin receiving Chairman Shao Yang's attention.
+- **Relationships:** He is openly hostile toward Jin Taekyung and Faye Chen, and resents Jin receiving Chairman Xiao Yang's attention.
 
 ## Korean source
 
@@ -734,7 +734,7 @@ I wanted to tell him that he was mistaken, but I quietly nodded.
 
 Even the S-rank Hunters with powerful voices were, in the end, mostly mercenaries from other countries—borrowed blades.
 
-That was why Chairman Shao Yang and Minister Wei Fenghu had made it clear that overall command belonged to them.
+That was why Chairman Xiao Yang and Minister Wei Fenghu had made it clear that overall command belonged to them.
 
 “Choi’s dropping out? This can’t be happening! Jin has no Charm!”
 

@@ -94,7 +94,7 @@ I wanted to tell him he was mistaken, but I merely nodded.
 
 Even the S-rank Hunters whose opinions carried weight were ultimately mercenaries from other countries—borrowed blades.
 
-That was why Chairman Shao Yang and Minister Wei Fenghu had made it clear that overall command remained in their hands.
+That was why Chairman Xiao Yang and Minister Wei Fenghu had made it clear that overall command remained in their hands.
 
 “Choi’s not coming? This can’t be happening! Jin has no Charm!”
 

@@ -486,7 +486,7 @@ Korean lines: 149
 
 BASE:
 
-Choi Minwoo answered Chairman Shao Yang’s question.
+Choi Minwoo answered Chairman Xiao Yang’s question.
 
 SOL:
 
@@ -500,7 +500,7 @@ Korean lines: 159
 
 BASE:
 
-Chairman Shao Yang sighed.
+Chairman Xiao Yang sighed.
 
 SOL:
 
@@ -626,7 +626,7 @@ Korean lines: 181
 
 BASE:
 
-Chairman Shao Yang was sincere.
+Chairman Xiao Yang was sincere.
 
 SOL:
 
@@ -780,7 +780,7 @@ Korean lines: 205
 
 BASE:
 
-Chairman Shao Yang nodded.
+Chairman Xiao Yang nodded.
 
 SOL:
 
@@ -864,7 +864,7 @@ Korean lines: 221
 
 BASE:
 
-Chairman Shao Yang knew about these theories as well, and he had already reached his own conclusion.
+Chairman Xiao Yang knew about these theories as well, and he had already reached his own conclusion.
 
 SOL:
 
@@ -950,7 +950,7 @@ Korean lines: 243
 
 BASE:
 
-Choi Minwoo let his voice trail off, and Chairman Shao Yang smiled faintly.
+Choi Minwoo let his voice trail off, and Chairman Xiao Yang smiled faintly.
 
 SOL:
 
@@ -1006,7 +1006,7 @@ Korean lines: 253
 
 BASE:
 
-As Chairman Shao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.
+As Chairman Xiao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.
 
 SOL:
 
@@ -1118,7 +1118,7 @@ Korean lines: 277
 
 BASE:
 
-A short while later, after exchanging a few more words, Chairman Shao Yang left the room. Choi Minwoo, now alone, suddenly opened his mouth.
+A short while later, after exchanging a few more words, Chairman Xiao Yang left the room. Choi Minwoo, now alone, suddenly opened his mouth.
 
 SOL:
 

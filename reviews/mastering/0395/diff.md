@@ -378,11 +378,11 @@ Korean lines: 99
 
 BASE:
 
-That was why Chairman Shao Yang and Minister Wei Fenghu had made it clear that overall command belonged to them.
+That was why Chairman Xiao Yang and Minister Wei Fenghu had made it clear that overall command belonged to them.
 
 SOL:
 
-That was why Chairman Shao Yang and Minister Wei Fenghu had made it clear that overall command remained in their hands.
+That was why Chairman Xiao Yang and Minister Wei Fenghu had made it clear that overall command remained in their hands.
 
 ## H028 (replace)
 

@@ -132,7 +132,7 @@ The people gathered in one part of the hospital room, which only a select few we
 
 “How is Mr. Jin’s condition?”
 
-Choi Minwoo answered Chairman Shao Yang’s question.
+Choi Minwoo answered Chairman Xiao Yang’s question.
 
 “It’s always the same. Everything is perfectly normal, but for some reason, he still hasn’t regained consciousness.”
 
@@ -142,7 +142,7 @@ Choi Minwoo answered Chairman Shao Yang’s question.
 
 “Hmm. If both of them said so, there can be no doubt… Then why on earth hasn’t he regained consciousness?”
 
-Chairman Shao Yang sighed.
+Chairman Xiao Yang sighed.
 
 The two people he had mentioned were both at the very top of their fields.
 
@@ -164,7 +164,7 @@ If the two people invited as Jin Taekyung’s temporary attending physicians had
 
 “Don’t say that you’re grateful. If not for Mr. Jin, an even greater catastrophe would have occurred. Though I am an old man with little time left to live, I will carry this gratitude with me to the grave.”
 
-Chairman Shao Yang was sincere.
+Chairman Xiao Yang was sincere.
 
 Four days had passed since that day. During that time, an investigation team made up of countless experts from around the world had combed through the city that had served as the Arch Lich’s base and discovered traces of the Gate.
 
@@ -188,7 +188,7 @@ A debt of gratitude in someone’s heart had a way of returning as an even great
 
 “Inside. The leadership of the Communist Party—or, more precisely, the Crown Prince Party.”
 
-Chairman Shao Yang nodded.
+Chairman Xiao Yang nodded.
 
 “I am fully aware of the matter.”
 
@@ -204,7 +204,7 @@ The first was that Jin Taekyung, who had harbored ill feelings toward Wu Heixing
 
 The second was that, together with Lee Jungryong, who was presumed missing or dead, he had used Wu Heixing as a shield and taken advantage of the opportunity to kill the Arch Lich.
 
-Chairman Shao Yang knew about these theories as well, and he had already reached his own conclusion.
+Chairman Xiao Yang knew about these theories as well, and he had already reached his own conclusion.
 
 The old statesman spoke to Choi Minwoo in a firm tone.
 
@@ -226,7 +226,7 @@ A political giant comparable to the Chairman, he had begun spreading the rumors 
 
 “If Mr. Jin regains consciousness, the truth will come to light anyway. But for a high-ranking politician to take the lead in spreading such an absurd conspiracy theory…”
 
-Choi Minwoo let his voice trail off, and Chairman Shao Yang smiled faintly.
+Choi Minwoo let his voice trail off, and Chairman Xiao Yang smiled faintly.
 
 *He has no qualms at all.*
 
@@ -236,7 +236,7 @@ And yet, the young man was actively making his position known, even carefully mo
 
 *Was that information true?*
 
-As Chairman Shao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.
+As Chairman Xiao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.
 
 “Very well. It seems my explanation was insufficient, so let me say it again.”
 
@@ -260,7 +260,7 @@ Only then did Choi Minwoo allow a gentle smile to spread across his lips.
 
 That was sufficient for today’s conversation.
 
-A short while later, after exchanging a few more words, Chairman Shao Yang left the room. Choi Minwoo, now alone, suddenly opened his mouth.
+A short while later, after exchanging a few more words, Chairman Xiao Yang left the room. Choi Minwoo, now alone, suddenly opened his mouth.
 
 “That’s what he says.”
 

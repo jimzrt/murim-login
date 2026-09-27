@@ -133,7 +133,7 @@ China declares martial law as the Sichuan Monster Wave surpasses 100,000 monster
     "Wei Fenghu is China's Minister of National Defense under the Central Military Commission, a four-star general, and the current Chairman's right-hand man; Lei Fei remains unconfirmed dead or alive after disappearing with his department's Hunters.",
     "Sichuan Province is under martial law amid a Monster Wave exceeding 100,000 monsters, at least 300,000 initial casualties, magical communications interference, and a large undead army controlled by the Arch Lich.",
     "United Nations peacekeeping forces and international S-rank Hunters are engaged on the Sichuan front; Faye Chen prevented an east-west breach from spreading.",
-    "Shao Yang is Chairman of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he has addressed the United Nations Security Council over the catastrophe.",
+    "Xiao Yang is Chairman of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he has addressed the United Nations Security Council over the catastrophe.",
     "Faye Chen is an older S-rank Hunter and Great Cataclysm hero with a former film career, a low media profile, and a playful but composed manner toward Jin.",
     "Wu Heixing is an S-rank Hunter hostile toward Jin who secretly uses Sound Transmission and martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts; he remains deeply resentful of Lei Fei and Jin.",
     "Lee Jungryong is the de facto head of the Ares Guild and one of the world's three strongest S-rank Hunters; he has recognized Jin's breakthrough and is now seeking an undisclosed discussion with Wu Heixing.",
@@ -542,7 +542,7 @@ My prediction was exactly right.
 
 His fingertips slid almost imperceptibly toward the hilt of his sword.
 
-Broad-minded Chairman Shao Yang had not asked anyone present to disarm as a sign of trust, but that consideration would become poison to Wu Heixing.
+Broad-minded Chairman Xiao Yang had not asked anyone present to disarm as a sign of trust, but that consideration would become poison to Wu Heixing.
 
 *Draw it. Don’t hesitate.*
 
@@ -773,7 +773,7 @@ He was speaking that way to Wei Fenghu, the Chairman’s right-hand man and the 
 
 As though he had read my thoughts, Team Leader Choi sent me a message spell.
 
-—The Communist Party also has its own factions. General Liao is a pure-blooded member of the Crown Prince Party, the largest faction in the Communist Party since his grandfather’s time. It is a rival faction to the Shanghai Gang, which Chairman Shao and Minister of National Defense Wei Fenghu belong to.
+—The Communist Party also has its own factions. General Liao is a pure-blooded member of the Crown Prince Party, the largest faction in the Communist Party since his grandfather’s time. It is a rival faction to the Shanghai Gang, which Chairman Xiao and Minister of National Defense Wei Fenghu belong to.
 
 —The Crown Prince Party and Shang…what?
 
@@ -783,7 +783,7 @@ As though he had read my thoughts, Team Leader Choi sent me a message spell.
 
 Until now, I had assumed that the Communist Party operated under a strictly one-party system. Apparently, they fought among themselves just as enthusiastically.
 
-—But is that really allowed? If Chairman Shao simply pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
+—But is that really allowed? If Chairman Xiao simply pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
 
 —They do it because they’re allowed to.
 
@@ -807,7 +807,7 @@ While I was listening to Team Leader Choi’s explanation, General Liao, a pure-
 
 “……?”
 
-“Let’s formally request it from Chairman Shao and launch dozens of nuclear weapons across Sichuan. Wouldn’t that solve everything nice and cleanly?”
+“Let’s formally request it from Chairman Xiao and launch dozens of nuclear weapons across Sichuan. Wouldn’t that solve everything nice and cleanly?”
 
 “……”
 
@@ -1703,7 +1703,7 @@ Even through the holographic screen, the old man’s powerful gaze could be felt
 
 “Yes. I will keep that in mind.”
 
-After the brief communication with Wei Fenghu, the Minister of National Defense, Shao Yang, Chairman of China, sat alone in the vast conference room and fell into thought.
+After the brief communication with Wei Fenghu, the Minister of National Defense, Xiao Yang, Chairman of China, sat alone in the vast conference room and fell into thought.
 
 *How did things come to this?*
 
@@ -1711,19 +1711,19 @@ This was an unprecedented catastrophe since the Great Cataclysm. Despite pouring
 
 He had wanted to prevent panic if at all possible, but if they delayed any longer, the opportunity might disappear forever.
 
-That was why Shao Yang had come here today, despite the countless objections within the Communist Party.
+That was why Xiao Yang had come here today, despite the countless objections within the Communist Party.
 
 “They’re ready.”
 
 “……Connect me immediately.”
 
-At his secretary’s words, Shao Yang opened his eyes.
+At his secretary’s words, Xiao Yang opened his eyes.
 
 In the empty seats of the spacious conference room, holographic figures began appearing one after another.
 
 Fourteen people of different races and genders.
 
-No—fifteen, including Shao Yang.
+No—fifteen, including Xiao Yang.
 
 Each of them was the leader of a nation, and they all belonged to a single institution.
 
@@ -1742,7 +1742,7 @@ Then, in the midst of that peaceful, ordinary routine, a bombshell no one had se
 
 > **Urgent Breaking News—Major Announcement from the United Nations Security Council**
 
-The video, just over thirty minutes long, began with Chairman Shao Yang staring into the camera with a grave expression.
+The video, just over thirty minutes long, began with Chairman Xiao Yang staring into the camera with a grave expression.
 
 “I stand before you as the ninth President of the People’s Republic of China and a member of the United Nations Security Council to speak about the massive Monster Wave that has occurred in Sichuan Province.”
 
@@ -1754,7 +1754,7 @@ One day passed, then two, then three. Even after four days, the situation had no
 
 There had been countless incidents and disasters since the Great Cataclysm, but the Monster Wave that had occurred in Sichuan Province was unprecedented in scale.
 
-Chairman Shao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
+Chairman Xiao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
 
 The entire world was watching.
 

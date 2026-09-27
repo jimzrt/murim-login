@@ -868,7 +868,7 @@ The instant I finished speaking, Team Leader Choi stepped firmly on my foot, whi
 
 SOL:
 
-The instant the words left my mouth, Team Leader Choi firmly stepped on my foot. Chairman Shao Yang’s wrinkled eyes curved into a gentle smile.
+The instant the words left my mouth, Team Leader Choi firmly stepped on my foot. Chairman Xiao Yang’s wrinkled eyes curved into a gentle smile.
 
 ## H063 (replace)
 
@@ -906,11 +906,11 @@ Korean lines: 185
 
 BASE:
 
-Chairman Shao Yang laughed heartily and patted my shoulder.
+Chairman Xiao Yang laughed heartily and patted my shoulder.
 
 SOL:
 
-Chairman Shao Yang laughed heartily and patted me on the shoulder.
+Chairman Xiao Yang laughed heartily and patted me on the shoulder.
 
 ## H066 (replace)
 
@@ -1004,11 +1004,11 @@ Korean lines: 199
 
 BASE:
 
-After finishing, Chairman Shao Yang leaned toward my ear and whispered,
+After finishing, Chairman Xiao Yang leaned toward my ear and whispered,
 
 SOL:
 
-Chairman Shao Yang leaned closer and whispered in my ear.
+Chairman Xiao Yang leaned closer and whispered in my ear.
 
 ## H073 (replace)
 
@@ -1158,11 +1158,11 @@ Korean lines: 221
 
 BASE:
 
-Before I could stop him, Chairman Shao Yang and his attendants bowed courteously.
+Before I could stop him, Chairman Xiao Yang and his attendants bowed courteously.
 
 SOL:
 
-Before I could stop them, Chairman Shao Yang and his attendants bowed respectfully.
+Before I could stop them, Chairman Xiao Yang and his attendants bowed respectfully.
 
 ## H084 (replace)
 
@@ -1704,11 +1704,11 @@ Korean lines: 331
 
 BASE:
 
-*Shao Yang. Shao Shen. Shao, Shao?*
+*Xiao Yang. Shao Shen. Shao, Shao?*
 
 SOL:
 
-*Shao Yang. Xiao Shen. Shao, Xiao?*
+*Xiao Yang. Xiao Shen. Shao, Xiao?*
 
 ## H123 (replace)
 

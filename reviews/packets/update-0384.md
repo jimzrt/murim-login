@@ -430,7 +430,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 
 중국 공산당 중앙군사위원회 주석이자 총서기. 그리고 10억 명이 넘는 인민들의 정점에 선 국가 주석.
 
-샤오 양(Shao Yang).
+샤오 양(Xiao Yang).
 
 사람들을 향한 그의 목소리는 부드럽고, 눈빛에는 힘이 실려 있었다.
 
@@ -776,7 +776,7 @@ No matter what feelings I had normally held toward China, my heart pounded at th
 
 Ten minutes later, beneath the ground in a deep underground bunker, I shook hands with the leader of the People’s Republic of China while receiving the gazes of all the important people gathered there.
 
-“Nice to meet you, Mr. Jin. This old man is Shao Yang, the Chairman of the People’s Republic of China.”
+“Nice to meet you, Mr. Jin. This old man is Xiao Yang, the Chairman of the People’s Republic of China.”
 
 *Good. There was no reason to bring up even a syllable of Jongseok.*
 
@@ -796,7 +796,7 @@ Chairman of the Chinese Communist Party’s Central Military Commission and Gene
 
 The Chairman who stood at the apex of more than a billion people.
 
-Shao Yang.
+Xiao Yang.
 
 His voice directed at the people was gentle, while strength filled his eyes.
 
@@ -810,7 +810,7 @@ I felt as though I had a rough idea of what kind of person he was.
 
 Perhaps it was merely a mask or hypocrisy he had put on before the people.
 
-But at least from the old man speaking before all of us now, including me—Shao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.
+But at least from the old man speaking before all of us now, including me—Xiao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.
 
 “Please do your best. I ask you to save as many more people as possible and stop this terrible disaster as quickly as you can. If you do so, I will show you and your countries my proper gratitude and remember the help you have given us for a long time.”
 
@@ -958,7 +958,7 @@ He was a middle-aged Black man, a giant well over two meters tall. His blue eyes
 
 How could I not?
 
-I felt even more nervous than I had when I met Chairman Shao Yang.
+I felt even more nervous than I had when I met Chairman Xiao Yang.
 
 “Of course, Magic Johnson.”
 

@@ -1361,7 +1361,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 윌리엄 | **William** | Prince Felix's formal attendant or secretary. |
 | 랴오 상장 | **General Liao** | Chinese general and Crown Prince Party faction member. |
 | 태자당 | **Crown Prince Party** | The faction associated with General Liao. |
-| 상하이방 | **Shanghai Gang** | The rival faction associated with Shao Yang and Wei Fenghu. |
+| 상하이방 | **Shanghai Gang** | The rival faction associated with Xiao Yang and Wei Fenghu. |
 | 핑핑이 | **Pingping** | Mocking nickname derived from Xi Jinping's given name. |
 | 정 드래곤 | **Jung Dragon** | Forum nickname for Lee Jungryong. |
 | 청두군구 | **Chengdu Military Region** | Chinese military region containing the 13th Group Army. |

@@ -260,7 +260,7 @@ Korean lines: 51
 
 BASE:
 
-“This must be the fiftieth time I’ve told you, but he’s not Grandpa Jongseok. He’s Chairman Shao.”
+“This must be the fiftieth time I’ve told you, but he’s not Grandpa Jongseok. He’s Chairman Xiao.”
 
 SOL:
 
@@ -330,7 +330,7 @@ Korean lines: 61
 
 BASE:
 
-“I don’t think you need to worry about the Wu Heixing situation. Public opinion is on our side, and Chairman Shao seems to have sharpened his blade.”
+“I don’t think you need to worry about the Wu Heixing situation. Public opinion is on our side, and Chairman Xiao seems to have sharpened his blade.”
 
 SOL:
 
@@ -344,7 +344,7 @@ Korean lines: 63
 
 BASE:
 
-“Chairman Shao? To be honest, he seemed a little soft to me.”
+“Chairman Xiao? To be honest, he seemed a little soft to me.”
 
 SOL:
 
@@ -372,7 +372,7 @@ Korean lines: 69
 
 BASE:
 
-If Chairman Shao Yang had been as hard as this apple, the Crown Prince Party would never have occupied the center of power all this time.
+If Chairman Xiao Yang had been as hard as this apple, the Crown Prince Party would never have occupied the center of power all this time.
 
 SOL:
 
@@ -402,7 +402,7 @@ Korean lines: 73
 
 BASE:
 
-“Did you know that Chairman Shao was once branded a reactionary and forced to perform five years of hard labor at a pig slaughterhouse?”
+“Did you know that Chairman Xiao was once branded a reactionary and forced to perform five years of hard labor at a pig slaughterhouse?”
 
 SOL:
 
@@ -460,7 +460,7 @@ Korean lines: 81
 
 BASE:
 
-Chairman Shao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
+Chairman Xiao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
 
 SOL:
 
@@ -474,7 +474,7 @@ Korean lines: 83
 
 BASE:
 
-“A blade that’s been sharpened for a long time has to be swung when the time comes. To the Crown Prince Party, Chairman Shao will become the most frightening swordsman of all.”
+“A blade that’s been sharpened for a long time has to be swung when the time comes. To the Crown Prince Party, Chairman Xiao will become the most frightening swordsman of all.”
 
 SOL:
 
@@ -798,7 +798,7 @@ Korean lines: 151
 
 BASE:
 
-My mother and Hayeon had arrived in China only a few hours earlier on a chartered plane, under Chairman Shao Yang’s special orders. They had received treatment surpassing that given to a state guest, complete with an escort of dozens of fighter jets.
+My mother and Hayeon had arrived in China only a few hours earlier on a chartered plane, under Chairman Xiao Yang’s special orders. They had received treatment surpassing that given to a state guest, complete with an escort of dozens of fighter jets.
 
 SOL:
 
@@ -1190,7 +1190,7 @@ Korean lines: 247
 
 BASE:
 
-But contrary to what Chairman Shao had said before the press conference, several reporters hunting for a scoop as sweet as honey charged forward like a swarm of bees.
+But contrary to what Chairman Xiao had said before the press conference, several reporters hunting for a scoop as sweet as honey charged forward like a swarm of bees.
 
 SOL:
 

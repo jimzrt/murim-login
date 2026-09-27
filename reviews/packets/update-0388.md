@@ -153,7 +153,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
     "Wei Fenghu is China's Minister of National Defense under the Central Military Commission, a four-star general, and the current Chairman's right-hand man; Lei Fei remains unconfirmed dead or alive after disappearing with his department's Hunters.",
     "Sichuan Province remains in a wartime emergency involving magical communications interference, flying-monster attacks, and a Monster Wave that has caused at least hundreds of thousands of casualties; the dead may have been raised as undead.",
     "The temporary operations headquarters is at Mount Qingcheng, where international S-rank Hunters are gathered, including Faye Chen, Magic Johnson, and Prince Felix Alexander Louis.",
-    "Shao Yang is Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he retains authority over China's crisis response while asking Hunters to prioritize human lives.",
+    "Xiao Yang is Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he retains authority over China's crisis response while asking Hunters to prioritize human lives.",
     "Faye Chen is an older S-rank Hunter and Great Cataclysm hero with a former film career, a low media profile, and a playful but composed manner toward Jin.",
     "Wu Heixing is an S-rank Hunter hostile toward Jin who secretly uses Sound Transmission and martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts.",
     "Prince Felix Alexander Louis is a British royal third in line to the throne who patronizes Jin as lowborn while claiming that all people are equal beneath God.",
@@ -298,7 +298,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 - **Role:** Wu Heixing is a Chinese S-rank Hunter known for frequent media exposure and scandal who secretly practices martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts.
 - **Personality:** Arrogant, status-conscious, abusive, and quick to anger when humiliated.
 - **Voice:** Loud, insulting, entitled, and dependent on national and political status.
-- **Relationships:** He is openly hostile toward Jin Taekyung and resents Jin receiving Chairman Shao Yang's attention.
+- **Relationships:** He is openly hostile toward Jin Taekyung and resents Jin receiving Chairman Xiao Yang's attention.
 
 ## Korean source
 
@@ -1163,7 +1163,7 @@ Even through the holographic screen, the old man’s powerful gaze could be felt
 
 “Yes. I will keep that in mind.”
 
-After the brief communication with Wei Fenghu, the Minister of National Defense, Shao Yang, Chairman of China, sat alone in the vast conference room and fell into thought.
+After the brief communication with Wei Fenghu, the Minister of National Defense, Xiao Yang, Chairman of China, sat alone in the vast conference room and fell into thought.
 
 *How did things come to this?*
 
@@ -1171,19 +1171,19 @@ This was an unprecedented catastrophe since the Great Cataclysm. Despite pouring
 
 He had wanted to prevent panic if at all possible, but if they delayed any longer, the opportunity might disappear forever.
 
-That was why Shao Yang had come here today, despite the countless objections within the Communist Party.
+That was why Xiao Yang had come here today, despite the countless objections within the Communist Party.
 
 “They’re ready.”
 
 “……Connect me immediately.”
 
-At his secretary’s words, Shao Yang opened his eyes.
+At his secretary’s words, Xiao Yang opened his eyes.
 
 In the empty seats of the spacious conference room, holographic figures began appearing one after another.
 
 Fourteen people of different races and genders.
 
-No—fifteen, including Shao Yang.
+No—fifteen, including Xiao Yang.
 
 Each of them was the leader of a nation, and they all belonged to a single institution.
 

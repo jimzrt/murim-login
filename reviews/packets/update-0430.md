@@ -148,8 +148,8 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Magic Johnson has created a near-perfect human appearance for the Skeleton King using magic circles carved into the Skeleton King's bones.",
     "The Skeleton King can now appear human outside his Inventory and is attempting to establish a human-world identity as Stone-King.",
     "Jin recognized a pattern on Magic Johnson's scattered papers as the same pattern he previously saw in Sichuan.",
-    "Chairman Shao is preparing a political reckoning against the Crown Prince Party after its persecution and forced labor campaign.",
-    "Jin's mother and Hayeon remain in China under Chairman Shao's protection.",
+    "Chairman Xiao is preparing a political reckoning against the Crown Prince Party after its persecution and forced labor campaign.",
+    "Jin's mother and Hayeon remain in China under Chairman Xiao's protection.",
     "Lee Jungryong is publicly presumed dead without a surviving body, while Wu Heixing's corpse was recovered after the battle."
   ],
   "continuity_sources": [

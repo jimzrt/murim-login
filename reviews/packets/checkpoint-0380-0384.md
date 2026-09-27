@@ -99,7 +99,7 @@ Jin Taekyung and Team Leader Choi crash their aircraft into the monster army att
 
 Wei Fenghu, China's Minister of National Defense, takes Jin and Choi to a temporary operations headquarters on Mount Qingcheng. He explains that Sichuan's crisis began in Gaoping District of Nanchong City, where magical communications interference and flying-monster attacks have isolated the province. Lei Fei, a concealed Chinese S-rank Hunter and head of the Sichuan Public Security Armed Forces Department, disappeared with his Hunters when the first Monster Wave began. Wei, Lei's maternal uncle and adoptive father, asks Jin to bring him back if he is found; Jin agrees but gives no guarantee of survival.
 
-At the underground headquarters, Jin meets Shao Yang, Chairman of the People's Republic of China, the Communist Party's Central Military Commission, and General Secretary. Shao asks the assembled Hunters to save as many people as possible while retaining full authority and responsibility for the response. Jin also encounters international S-rank Hunters, including the Archmage and the combat-focused War Mage Magic Johnson, before trading insults with a young Chinese Hunter over the Lord Fuck nickname and Jin's supposed A-rank status.
+At the underground headquarters, Jin meets Xiao Yang, Chairman of the People's Republic of China, the Communist Party's Central Military Commission, and General Secretary. Xiao asks the assembled Hunters to save as many people as possible while retaining full authority and responsibility for the response. Jin also encounters international S-rank Hunters, including the Archmage and the combat-focused War Mage Magic Johnson, before trading insults with a young Chinese Hunter over the Lord Fuck nickname and Jin's supposed A-rank status.
 
 ## Continuity
 
@@ -112,17 +112,17 @@ At the underground headquarters, Jin meets Shao Yang, Chairman of the People's R
 - Lei Fei is a concealed Chinese S-rank Hunter who led the Public Security Armed Forces Department in Sichuan. He disappeared with his Hunters when the first Monster Wave began; his survival remains unconfirmed.
 - Jin agreed to bring Lei Fei back if he encounters him, without promising that Lei will survive.
 - The temporary operations headquarters is an underground bunker on Mount Qingcheng.
-- Shao Yang retains full authority and responsibility for China's response to the Sichuan crisis. International S-rank Hunters have gathered at the bunker, including the Archmage and War Mage Magic Johnson.
+- Xiao Yang retains full authority and responsibility for China's response to the Sichuan crisis. International S-rank Hunters have gathered at the bunker, including the Archmage and War Mage Magic Johnson.
 - The Arch Lich's identity and next move remain unknown. The Second Fiend assigned to the Qingcheng attack has not been accounted for.
 - Aehyang's unidentified superior, the Lord of Heaven's nature, and the fate of the Western Heaven Demon Lord remain unresolved.
 
 ## Translation Decisions
 
 - Use **Undead Hunter**, **Arch Lich**, **Lich**, **Death Knight**, **death energy**, **River of Death**, and **Bones** for the established undead terminology.
-- Render **웨이펑후** as **Wei Fenghu**, **샤오 양** as **Shao Yang**, and **레이페이** as **Lei Fei**.
+- Render **웨이펑후** as **Wei Fenghu**, **샤오 양** as **Xiao Yang**, and **레이페이** as **Lei Fei**.
 - Use **Public Security Armed Forces Department**, **Minister of National Defense**, **Chairman**, **General Secretary**, **Senior Colonel**, and **Comrade** for the established Chinese and military titles.
 - Distinguish **Archmage** from **War Mage**, and use **Magic Johnson** for the latter.
-- Preserve **Lord Fuck**, **peninsula bangzi**, and the **gukbap** wordplay, including Jin's deliberately awkward welcome to Shao Yang.
+- Preserve **Lord Fuck**, **peninsula bangzi**, and the **gukbap** wordplay, including Jin's deliberately awkward welcome to Xiao Yang.
 - Keep **Blazing Flame Divine Dragon** distinct from **Huashan Divine Dragon**; retain **Mimi**, **Mimi-chan**, **Cheongpung**, **Fire Dragon Armor**, **Myriad-Poison Ring**, and **Moving Formation** as established terms.
 
 ## Durable state
@@ -138,8 +138,8 @@ At the underground headquarters, Jin meets Shao Yang, Chairman of the People's R
     "Wei Fenghu is Lei Fei's maternal uncle, raised him as his own son, believes he is alive, and asked Jin Taekyung to bring him back if found.",
     "Jin Taekyung agreed to Wei Fenghu's request but did not guarantee that Lei Fei would be found alive.",
     "The temporary operations headquarters is at Mount Qingcheng.",
-    "Shao Yang is the Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary.",
-    "Shao Yang has retained full authority and responsibility for directing China's response to the crisis while asking the Hunters to prioritize human lives.",
+    "Xiao Yang is the Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary.",
+    "Xiao Yang has retained full authority and responsibility for directing China's response to the crisis while asking the Hunters to prioritize human lives.",
     "International S-rank Hunters are gathered at the underground headquarters, including Magic Johnson, one of the world's three Archmages and its most combat-oriented War Mage."
   ],
   "continuity_sources": [
@@ -2049,7 +2049,7 @@ No matter what feelings I had normally held toward China, my heart pounded at th
 
 Ten minutes later, beneath the ground in a deep underground bunker, I shook hands with the leader of the People’s Republic of China while receiving the gazes of all the important people gathered there.
 
-“Nice to meet you, Mr. Jin. This old man is Shao Yang, the Chairman of the People’s Republic of China.”
+“Nice to meet you, Mr. Jin. This old man is Xiao Yang, the Chairman of the People’s Republic of China.”
 
 *Good. There was no reason to bring up even a syllable of Jongseok.*
 
@@ -2069,7 +2069,7 @@ Chairman of the Chinese Communist Party’s Central Military Commission and Gene
 
 The Chairman who stood at the apex of more than a billion people.
 
-Shao Yang.
+Xiao Yang.
 
 His voice directed at the people was gentle, while strength filled his eyes.
 
@@ -2083,7 +2083,7 @@ I felt as though I had a rough idea of what kind of person he was.
 
 Perhaps it was merely a mask or hypocrisy he had put on before the people.
 
-But at least from the old man speaking before all of us now, including me—Shao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.
+But at least from the old man speaking before all of us now, including me—Xiao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.
 
 “Please do your best. I ask you to save as many more people as possible and stop this terrible disaster as quickly as you can. If you do so, I will show you and your countries my proper gratitude and remember the help you have given us for a long time.”
 
@@ -2231,7 +2231,7 @@ He was a middle-aged Black man, a giant well over two meters tall. His blue eyes
 
 How could I not?
 
-I felt even more nervous than I had when I met Chairman Shao Yang.
+I felt even more nervous than I had when I met Chairman Xiao Yang.
 
 “Of course, Magic Johnson.”
 

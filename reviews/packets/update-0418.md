@@ -317,7 +317,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 - **Role:** Wu Heixing is a Chinese S-rank Hunter known for frequent media exposure and scandal who secretly practices martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts.
 - **Personality:** Arrogant, status-conscious, abusive, and fiercely proud of his power, he responds to humiliation with anger and protects himself even while his allies die.
 - **Voice:** Loud, insulting, entitled, and dependent on national and political status.
-- **Relationships:** He is openly hostile toward Jin Taekyung and Faye Chen, and resents Jin receiving Chairman Shao Yang's attention.
+- **Relationships:** He is openly hostile toward Jin Taekyung and Faye Chen, and resents Jin receiving Chairman Xiao Yang's attention.
 
 ## Korean source
 
@@ -764,7 +764,7 @@ I threw Wu Heixing's lifeless body aside and answered,
 
 “I've heard of him. Apparently, he was one of the men who took a sledgehammer to Confucius's tomb decades ago.”[^1]
 
-“And that young Red Guard grew up to become the most powerful man in Chinese politics and the leader of the Crown Prince Party. Even Chairman Shao Yang dares not touch him.”
+“And that young Red Guard grew up to become the most powerful man in Chinese politics and the leader of the Crown Prince Party. Even Chairman Xiao Yang dares not touch him.”
 
 “Damn, this continent is fucking amazing. In our country, it'd be like the arsonist who burned down Sungnyemun becoming President. Don't you think?”
 

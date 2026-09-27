@@ -118,7 +118,7 @@ The owner of the aged voice addressed me with a gentle smile.
 
 “So… you are leaving after all, Mr. Jin.”
 
-I smiled back at Chairman Shao Yang.
+I smiled back at Chairman Xiao Yang.
 
 “The hotel rates were higher than I expected.”
 
@@ -164,11 +164,11 @@ Maybe that was why I felt more dazed than happy.
 
 “Um, by the way…”
 
-Chairman Shao Yang raised his eyebrows.
+Chairman Xiao Yang raised his eyebrows.
 
 “Are you really going to pay me?”
 
-The instant the words left my mouth, Team Leader Choi firmly stepped on my foot. Chairman Shao Yang’s wrinkled eyes curved into a gentle smile.
+The instant the words left my mouth, Team Leader Choi firmly stepped on my foot. Chairman Xiao Yang’s wrinkled eyes curved into a gentle smile.
 
 “Why? Do you not wish to receive it?”
 
@@ -176,7 +176,7 @@ The instant the words left my mouth, Team Leader Choi firmly stepped on my foot.
 
 My vehement reply sent a ripple of laughter through the crowd.
 
-Chairman Shao Yang laughed heartily and patted me on the shoulder.
+Chairman Xiao Yang laughed heartily and patted me on the shoulder.
 
 “Did I not say so? It is only natural to pay a fair price for work performed.”
 
@@ -190,7 +190,7 @@ There was nothing wrong with being paid according to my contract, but accepting 
 
 “If you are worried about the cost of reconstruction, that is a problem our country must overcome. Your matter is being processed swiftly, Mr. Jin, and the bounty will soon be paid in full.”
 
-Chairman Shao Yang leaned closer and whispered in my ear.
+Chairman Xiao Yang leaned closer and whispered in my ear.
 
 “When I plowed the fields and pulled out the rotten stalks, piles of gold came tumbling out. So there is no need for you to feel uncomfortable, Mr. Jin.”
 
@@ -210,7 +210,7 @@ Feeling considerably lighter, I answered, “Then I’ll accept it gratefully.�
 
 “What are you saying? Thanks to you, we were able to prevent an even greater catastrophe. On behalf of all the people who could not be here today, I offer you my thanks once again, Mr. Jin.”
 
-Before I could stop them, Chairman Shao Yang and his attendants bowed respectfully.
+Before I could stop them, Chairman Xiao Yang and his attendants bowed respectfully.
 
 The people gathered here were the highest officials of a nation.
 
@@ -310,7 +310,7 @@ Xiao Shen’s next words stopped me cold.
 
 “What are you talking about? The only old men I know are Butler Kim from my Guild and the owner of the real-estate office outside my goshiwon.[^1]”
 
-Chairman Shao Yang cut in with a laugh.
+Chairman Xiao Yang cut in with a laugh.
 
 “Ha ha. This old man is here as well, you know.”
 
@@ -320,7 +320,7 @@ Wait a minute.
 
 The corner of my eye began to twitch.
 
-*Shao Yang. Xiao Shen. Shao, Xiao?*
+*Xiao Yang. Xiao Shen. Shao, Xiao?*
 
 I’d dismissed it because Xiao was a common surname in China, like Kim or Park in Korea, but now that I looked at them, their faces were strangely similar too.
 

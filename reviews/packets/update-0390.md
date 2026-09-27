@@ -135,7 +135,7 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Wei Fenghu is China's Minister of National Defense under the Central Military Commission, a four-star general, and the current Chairman's right-hand man; Lei Fei remains unconfirmed dead or alive after disappearing with his department's Hunters.",
     "Sichuan Province is under martial law amid a Monster Wave exceeding 100,000 monsters, at least 300,000 initial casualties, magical communications interference, and a large undead army controlled by the Arch Lich.",
     "United Nations peacekeeping forces and international S-rank Hunters are engaged on the Sichuan front; Faye Chen prevented an east-west breach from spreading.",
-    "Shao Yang is Chairman of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he has addressed the United Nations Security Council over the catastrophe.",
+    "Xiao Yang is Chairman of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he has addressed the United Nations Security Council over the catastrophe.",
     "Faye Chen is an older S-rank Hunter and Great Cataclysm hero with a former film career, a low media profile, and a playful but composed manner toward Jin.",
     "Wu Heixing is an S-rank Hunter hostile toward Jin who secretly uses Sound Transmission and martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts; he remains deeply resentful of Lei Fei and Jin.",
     "Lee Jungryong is the de facto head of the Ares Guild and one of the world's three strongest S-rank Hunters; he has recognized Jin's breakthrough and is now seeking an undisclosed discussion with Wu Heixing.",

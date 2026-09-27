@@ -75,14 +75,14 @@ class ModelIoTest(unittest.TestCase):
     def test_review_replacement_prefers_unique_full_paragraph(self):
         review = {"findings": [{
             "id": "F01",
-            "current": "Shao Yang.",
+            "current": "Xiao Yang.",
             "replacement": "Xiao Yang.",
         }]}
         revised = apply_review_replacements(
-            "# Chapter 1\n\nShao Yang.\n\nChairman Shao Yang.\n", review
+            "# Chapter 1\n\nXiao Yang.\n\nChairman Xiao Yang.\n", review
         )
         self.assertEqual(
-            revised, "# Chapter 1\n\nXiao Yang.\n\nChairman Shao Yang.\n"
+            revised, "# Chapter 1\n\nXiao Yang.\n\nChairman Xiao Yang.\n"
         )
 
 

@@ -8,7 +8,7 @@ Then, amid that peaceful, ordinary routine, a bombshell no one had seen coming d
 
 > **Urgent Breaking News—Major Announcement from the United Nations Security Council**
 
-The video, just over thirty minutes long, began with Chairman Shao Yang staring gravely into the camera.
+The video, just over thirty minutes long, began with Chairman Xiao Yang staring gravely into the camera.
 
 “I stand before you as the ninth Chairman of the People’s Republic of China and a member of the United Nations Security Council to speak about the massive Monster Wave unfolding in Sichuan Province.”
 
@@ -20,7 +20,7 @@ One day passed, then two, then three. Even after four days, the situation showed
 
 There had been countless incidents and disasters since the Great Cataclysm, but the Monster Wave in Sichuan Province was unprecedented in scale.
 
-Chairman Shao Yang officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
+Chairman Xiao Yang officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
 
 The entire world was watching.
 

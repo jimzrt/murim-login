@@ -155,7 +155,7 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Wei Fenghu is China's Minister of National Defense under the Central Military Commission, a four-star general, and the current Chairman's right-hand man; Lei Fei remains unconfirmed dead or alive after disappearing with his department's Hunters.",
     "Sichuan Province remains in a wartime emergency involving magical communications interference, flying-monster attacks, and a Monster Wave that has caused at least hundreds of thousands of casualties; the dead may have been raised as undead.",
     "The international S-rank Hunters gathered at Mount Qingcheng have departed for assigned battle regions, with Prince Felix leaving early after receiving a battle signal.",
-    "Shao Yang is Chairman of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he has convened an emergency United Nations Security Council meeting over the catastrophe.",
+    "Xiao Yang is Chairman of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he has convened an emergency United Nations Security Council meeting over the catastrophe.",
     "Faye Chen is an older S-rank Hunter and Great Cataclysm hero with a former film career, a low media profile, and a playful but composed manner toward Jin.",
     "Wu Heixing is an S-rank Hunter hostile toward Jin who secretly uses Sound Transmission and martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts; he remains deeply resentful of Lei Fei and Jin.",
     "Lee Jungryong is the de facto head of the Ares Guild and one of the world's three strongest S-rank Hunters; he has recognized Jin's breakthrough and is now seeking an undisclosed discussion with Wu Heixing.",
@@ -312,7 +312,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 - **Role:** Wu Heixing is a Chinese S-rank Hunter known for frequent media exposure and scandal who secretly practices martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts.
 - **Personality:** Arrogant, status-conscious, abusive, and fiercely proud of his power, he responds to humiliation with anger, jealousy, and fear.
 - **Voice:** Loud, insulting, entitled, and dependent on national and political status.
-- **Relationships:** He is openly hostile toward Jin Taekyung and resents Jin receiving Chairman Shao Yang's attention.
+- **Relationships:** He is openly hostile toward Jin Taekyung and resents Jin receiving Chairman Xiao Yang's attention.
 
 ## Korean source
 
@@ -661,7 +661,7 @@ Then, in the midst of that peaceful, ordinary routine, a bombshell no one had se
 
 > **Urgent Breaking News—Major Announcement from the United Nations Security Council**
 
-The video, just over thirty minutes long, began with Chairman Shao Yang staring into the camera with a grave expression.
+The video, just over thirty minutes long, began with Chairman Xiao Yang staring into the camera with a grave expression.
 
 “I stand before you as the ninth President of the People’s Republic of China and a member of the United Nations Security Council to speak about the massive Monster Wave that has occurred in Sichuan Province.”
 
@@ -673,7 +673,7 @@ One day passed, then two, then three. Even after four days, the situation had no
 
 There had been countless incidents and disasters since the Great Cataclysm, but the Monster Wave that had occurred in Sichuan Province was unprecedented in scale.
 
-Chairman Shao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
+Chairman Xiao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
 
 The entire world was watching.
 

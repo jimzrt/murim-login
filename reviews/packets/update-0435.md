@@ -164,10 +164,10 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Jin suspects that the Murim formation, the modern world's magic circle, the battle phenomena involving the Blood Lord and Western Heaven Demon Lord, and his junk capsule are connected.",
     "Magic Johnson knows Jin killed Lee Jungryong and Wu Heixing, accepts Jin as a friend, and has agreed to help protect Jin's people and support his growth.",
     "The Skeleton King remains hidden in Jin's Inventory or an extradimensional pocket when necessary and continues pursuing a human-world identity as Stone-King.",
-    "Chairman Shao Yang has begun a political purge against Wu Xueming and leading Crown Prince Party figures, accompanied by a sweeping military reorganization.",
+    "Chairman Xiao Yang has begun a political purge against Wu Xueming and leading Crown Prince Party figures, accompanied by a sweeping military reorganization.",
     "Jin's mother and Hayeon have left China with him aboard the chartered aircraft.",
     "Jin is using Ares Guild's leadership vacuum and Peace Guild's expected growth to encourage defections without openly declaring war.",
-    "Chairman Shao Yang is Xiao Shen's grandfather and has promised Jin's fifty-trillion bounty after Jin saved Xiao Shen.",
+    "Chairman Xiao Yang is Xiao Shen's grandfather and has promised Jin's fifty-trillion bounty after Jin saved Xiao Shen.",
     "Jin has logged in aboard the departing aircraft and begun returning toward the other world."
   ],
   "continuity_sources": [

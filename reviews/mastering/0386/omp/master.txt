@@ -194,7 +194,7 @@ He was speaking that way to Wei Fenghu, the Chairman’s right-hand man and the 
 
 As though he had read my thoughts, Team Leader Choi sent me a message spell.
 
-—The Communist Party has factions of its own. General Liao comes from the highest pedigree of the Crown Prince Party, the Communist Party’s largest faction, going back to his grandfather’s generation. It rivals the Shanghai Gang, to which Chairman Shao and Minister of National Defense Wei Fenghu belong.
+—The Communist Party has factions of its own. General Liao comes from the highest pedigree of the Crown Prince Party, the Communist Party’s largest faction, going back to his grandfather’s generation. It rivals the Shanghai Gang, to which Chairman Xiao and Minister of National Defense Wei Fenghu belong.
 
 —The Crown Prince Party and the Shang…what?
 
@@ -204,7 +204,7 @@ As though he had read my thoughts, Team Leader Choi sent me a message spell.
 
 Until now, I had assumed that the Communist Party operated under a strict one-party system. Apparently, they fought among themselves just as fiercely.
 
-—But is that really allowed? If Chairman Shao pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
+—But is that really allowed? If Chairman Xiao pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
 
 —They do it because they’re allowed to.
 
@@ -226,7 +226,7 @@ While I listened to Team Leader Choi’s explanation, General Liao, a pedigreed 
 
 “…?”
 
-“Let’s submit a formal request to Chairman Shao and launch dozens of nuclear warheads across Sichuan. Wouldn’t that solve everything nice and cleanly?”
+“Let’s submit a formal request to Chairman Xiao and launch dozens of nuclear warheads across Sichuan. Wouldn’t that solve everything nice and cleanly?”
 
 “…”
 

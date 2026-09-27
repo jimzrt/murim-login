@@ -372,7 +372,7 @@ My prediction proved correct.
 
 His fingertips slid almost imperceptibly toward his sword hilt.
 
-Broad-minded Chairman Shao Yang had not asked anyone present to disarm, offering his trust instead. But that consideration was about to become poison to Wu Heixing.
+Broad-minded Chairman Xiao Yang had not asked anyone present to disarm, offering his trust instead. But that consideration was about to become poison to Wu Heixing.
 
 *Draw it. Don’t hesitate.*
 

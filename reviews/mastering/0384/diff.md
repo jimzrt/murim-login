@@ -736,11 +736,11 @@ Korean lines: 159
 
 BASE:
 
-“Nice to meet you, Mr. Jin. This old man is Shao Yang, the Chairman of the People’s Republic of China.”
+“Nice to meet you, Mr. Jin. This old man is Xiao Yang, the Chairman of the People’s Republic of China.”
 
 SOL:
 
-“Pleased to meet you, Mr. Jin. This old man is Shao Yang, Chairman of the People’s Republic of China.”
+“Pleased to meet you, Mr. Jin. This old man is Xiao Yang, Chairman of the People’s Republic of China.”
 
 ## H054 (replace)
 
@@ -920,11 +920,11 @@ Korean lines: 197
 
 BASE:
 
-But at least from the old man speaking before all of us now, including me—Shao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.
+But at least from the old man speaking before all of us now, including me—Xiao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.
 
 SOL:
 
-But at least from the old man speaking before all of us now—from Shao Yang, the Chairman of China—I sensed an air utterly unlike either of those things.
+But at least from the old man speaking before all of us now—from Xiao Yang, the Chairman of China—I sensed an air utterly unlike either of those things.
 
 ## H067 (replace)
 
@@ -1678,11 +1678,11 @@ Korean lines: 345
 
 BASE:
 
-I felt even more nervous than I had when I met Chairman Shao Yang.
+I felt even more nervous than I had when I met Chairman Xiao Yang.
 
 SOL:
 
-I was even more nervous than I had been when facing Chairman Shao Yang.
+I was even more nervous than I had been when facing Chairman Xiao Yang.
 
 ## H121 (replace)
 

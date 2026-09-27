@@ -50,11 +50,11 @@ The Chinese people were consumed by grief and fury at the news, directing the ar
 
 The young reporter at the scene was no exception. His voice seethed with indignation as he continued.
 
-“This monster wave was like a natural disaster beyond human power to stop. But if everyone had joined forces to prepare for the disaster and respond swiftly, the situation would have been very different. Chairman Shao Yang has offered a profound apology and released the transcript of last month’s meeting.”
+“This monster wave was like a natural disaster beyond human power to stop. But if everyone had joined forces to prepare for the disaster and respond swiftly, the situation would have been very different. Chairman Xiao Yang has offered a profound apology and released the transcript of last month’s meeting.”
 
 Its contents were shocking.
 
-The transcript of the Communist Party’s highest committee meeting, previously hidden from the public, laid bare the bitter clash between Chairman Shao Yang’s faction, which had urged them to seek immediate assistance from other countries, and the Crown Prince Party, which had argued that they should rally the power of Zhonghua and fight with the spirit of chivalry.
+The transcript of the Communist Party’s highest committee meeting, previously hidden from the public, laid bare the bitter clash between Chairman Xiao Yang’s faction, which had urged them to seek immediate assistance from other countries, and the Crown Prince Party, which had argued that they should rally the power of Zhonghua and fight with the spirit of chivalry.
 
 One person stood out above all the rest.
 
@@ -68,7 +68,7 @@ But the power of Zhonghua and the spirit of chivalry he had gone on about during
 
 Then it came to light that his past corruption involving the military had led to incidents in which tanks broke down and helicopters crashed. Wu Xueming found himself driven to the edge of a cliff.
 
-And Chairman Shao Yang, a seasoned politician, did not let the perfect opportunity slip by.
+And Chairman Xiao Yang, a seasoned politician, did not let the perfect opportunity slip by.
 
 “Committee Member Wu Xueming used his guanxi with prominent figures in the military, political, and business worlds to embezzle astronomical sums of money. We are currently investigating every circumstance connected to this incident.”
 

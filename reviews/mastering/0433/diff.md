@@ -288,11 +288,11 @@ Korean lines: 55
 
 BASE:
 
-“This monster wave was like a natural disaster beyond the power of human beings to stop. But if everyone had joined forces to prepare for the disaster and respond quickly, the situation would have been very different. Chairman Shao Yang has offered a profound apology for this and released the transcript of last month’s meeting.”
+“This monster wave was like a natural disaster beyond the power of human beings to stop. But if everyone had joined forces to prepare for the disaster and respond quickly, the situation would have been very different. Chairman Xiao Yang has offered a profound apology for this and released the transcript of last month’s meeting.”
 
 SOL:
 
-“This monster wave was like a natural disaster beyond human power to stop. But if everyone had joined forces to prepare for the disaster and respond swiftly, the situation would have been very different. Chairman Shao Yang has offered a profound apology and released the transcript of last month’s meeting.”
+“This monster wave was like a natural disaster beyond human power to stop. But if everyone had joined forces to prepare for the disaster and respond swiftly, the situation would have been very different. Chairman Xiao Yang has offered a profound apology and released the transcript of last month’s meeting.”
 
 ## H022 (replace)
 
@@ -316,11 +316,11 @@ Korean lines: 59
 
 BASE:
 
-The transcript of the Communist Party’s highest-level committee meeting, previously hidden from the public, captured the sharp conflict in its entirety. Chairman Shao Yang’s faction had insisted on asking countries around the world for help immediately, while the Crown Prince Party had argued that they should draw on the power of Zhonghua and fight with the spirit of chivalry.
+The transcript of the Communist Party’s highest-level committee meeting, previously hidden from the public, captured the sharp conflict in its entirety. Chairman Xiao Yang’s faction had insisted on asking countries around the world for help immediately, while the Crown Prince Party had argued that they should draw on the power of Zhonghua and fight with the spirit of chivalry.
 
 SOL:
 
-The transcript of the Communist Party’s highest committee meeting, previously hidden from the public, laid bare the bitter clash between Chairman Shao Yang’s faction, which had urged them to seek immediate assistance from other countries, and the Crown Prince Party, which had argued that they should rally the power of Zhonghua and fight with the spirit of chivalry.
+The transcript of the Communist Party’s highest committee meeting, previously hidden from the public, laid bare the bitter clash between Chairman Xiao Yang’s faction, which had urged them to seek immediate assistance from other countries, and the Crown Prince Party, which had argued that they should rally the power of Zhonghua and fight with the spirit of chivalry.
 
 ## H024 (replace)
 
@@ -418,11 +418,11 @@ Korean lines: 73
 
 BASE:
 
-And Chairman Shao Yang, a seasoned politician, did not miss the perfect opportunity.
+And Chairman Xiao Yang, a seasoned politician, did not miss the perfect opportunity.
 
 SOL:
 
-And Chairman Shao Yang, a seasoned politician, did not let the perfect opportunity slip by.
+And Chairman Xiao Yang, a seasoned politician, did not let the perfect opportunity slip by.
 
 ## H031 (replace)
 

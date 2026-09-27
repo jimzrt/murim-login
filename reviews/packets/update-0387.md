@@ -134,7 +134,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
     "Sichuan Province remains in a wartime emergency involving magical communications interference, flying-monster attacks, and a Monster Wave that has caused at least hundreds of thousands of casualties; the dead may have been raised as undead.",
     "China has concealed at least one of its S-rank Hunters, Lei Fei, who disappeared with his department's Hunters when the first Monster Wave began and remains unconfirmed dead or alive.",
     "The temporary operations headquarters is at Mount Qingcheng, where international S-rank Hunters are gathered, including Magic Johnson and Faye Chen.",
-    "Shao Yang is Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he retains authority over China's crisis response while asking Hunters to prioritize human lives.",
+    "Xiao Yang is Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he retains authority over China's crisis response while asking Hunters to prioritize human lives.",
     "Faye Chen is an older S-rank Hunter and Great Cataclysm hero with a former film career, a low media profile, and a playful but composed manner toward Jin.",
     "Wu Heixing is an S-rank Hunter whose arrogance and hostility toward Jin have escalated into a public confrontation; he nearly drew his sword before the interruption.",
     "Prince Felix Alexander Louis is a British royal third in line to the throne who patronizes Jin as lowborn while claiming that all people are equal beneath God.",
@@ -226,7 +226,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 - **Role:** Wu Heixing is a Chinese S-rank Hunter known for frequent media exposure and a reputation for scandal.
 - **Personality:** Arrogant, status-conscious, abusive, and quick to anger when humiliated.
 - **Voice:** Loud, insulting, entitled, and dependent on national and political status.
-- **Relationships:** He is openly hostile toward Jin Taekyung and resents Jin receiving Chairman Shao Yang's attention.
+- **Relationships:** He is openly hostile toward Jin Taekyung and resents Jin receiving Chairman Xiao Yang's attention.
 
 ## Korean source
 

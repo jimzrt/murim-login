@@ -139,8 +139,8 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Jin suspects that the Murim formation, the modern world's magic circle, the battle phenomena involving the Blood Lord and Western Heaven Demon Lord, and his junk capsule are connected.",
     "Magic Johnson knows Jin killed Lee Jungryong and Wu Heixing, accepts Jin as a friend, and has agreed to help protect Jin's people and support his growth.",
     "The Skeleton King remains hidden in Jin's Inventory or an extradimensional pocket when necessary and continues pursuing a human-world identity as Stone-King.",
-    "Chairman Shao is preparing a political reckoning against the Crown Prince Party after its persecution and forced-labor campaign.",
-    "Jin's mother and Hayeon remain in China under Chairman Shao's protection.",
+    "Chairman Xiao is preparing a political reckoning against the Crown Prince Party after its persecution and forced-labor campaign.",
+    "Jin's mother and Hayeon remain in China under Chairman Xiao's protection.",
     "Lee Jungryong and Wu Heixing were killed by Jin, while the public remains unaware of the full truth.",
     "Go Jun remains alive after Jin grievously mutilated him, and Jin has demanded that the conflict end with Lee Jungryong.",
     "Jin chose not to kill Go Jun because his disappearance would make suspicion surrounding Jin's earlier killings harder to dismiss.",
@@ -239,7 +239,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 - **Role:** Wu Heixing was a Chinese S-rank Hunter known for frequent media exposure and scandal who secretly practiced martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts, before Jin Taekyung killed him.
 - **Personality:** Arrogant, status-conscious, abusive, and fiercely proud of his power, he responds to humiliation with anger and protects himself even while his allies die.
 - **Voice:** Loud, insulting, entitled, and dependent on national and political status.
-- **Relationships:** He is openly hostile toward Jin Taekyung and Faye Chen, and resents Jin receiving Chairman Shao Yang's attention.
+- **Relationships:** He is openly hostile toward Jin Taekyung and Faye Chen, and resents Jin receiving Chairman Xiao Yang's attention.
 
 ## Korean source
 
@@ -604,11 +604,11 @@ The Chinese people were consumed by grief and fury at the news, directing the ar
 
 The young reporter standing there was no exception. His voice rose, boiling with indignation.
 
-“This monster wave was like a natural disaster beyond the power of human beings to stop. But if everyone had joined forces to prepare for the disaster and respond quickly, the situation would have been very different. Chairman Shao Yang has offered a profound apology for this and released the transcript of last month’s meeting.”
+“This monster wave was like a natural disaster beyond the power of human beings to stop. But if everyone had joined forces to prepare for the disaster and respond quickly, the situation would have been very different. Chairman Xiao Yang has offered a profound apology for this and released the transcript of last month’s meeting.”
 
 The contents were shocking.
 
-The transcript of the Communist Party’s highest-level committee meeting, previously hidden from the public, captured the sharp conflict in its entirety. Chairman Shao Yang’s faction had insisted on asking countries around the world for help immediately, while the Crown Prince Party had argued that they should draw on the power of Zhonghua and fight with the spirit of chivalry.
+The transcript of the Communist Party’s highest-level committee meeting, previously hidden from the public, captured the sharp conflict in its entirety. Chairman Xiao Yang’s faction had insisted on asking countries around the world for help immediately, while the Crown Prince Party had argued that they should draw on the power of Zhonghua and fight with the spirit of chivalry.
 
 And one person stood out above all the rest.
 
@@ -622,7 +622,7 @@ But the power of Zhonghua and the spirit of chivalry he had gone on about during
 
 On top of that, it came to light that his past military-related corruption had led to accidents in which tanks stopped and helicopters crashed. Wu Xueming was driven to the edge of a cliff.
 
-And Chairman Shao Yang, a seasoned politician, did not miss the perfect opportunity.
+And Chairman Xiao Yang, a seasoned politician, did not miss the perfect opportunity.
 
 “Committee Member Wu Xueming used his guanxi with prominent figures in the military, political, and business worlds to embezzle astronomical sums of money. We are currently investigating every circumstance connected to this incident.”
 

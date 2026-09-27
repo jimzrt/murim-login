@@ -36,11 +36,11 @@ Korean lines: 17
 
 BASE:
 
-The video, just over thirty minutes long, began with Chairman Shao Yang staring into the camera with a grave expression.
+The video, just over thirty minutes long, began with Chairman Xiao Yang staring into the camera with a grave expression.
 
 SOL:
 
-The video, just over thirty minutes long, began with Chairman Shao Yang staring gravely into the camera.
+The video, just over thirty minutes long, began with Chairman Xiao Yang staring gravely into the camera.
 
 ## H004 (replace)
 
@@ -108,11 +108,11 @@ Korean lines: 33
 
 BASE:
 
-Chairman Shao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
+Chairman Xiao Yang of China officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
 
 SOL:
 
-Chairman Shao Yang officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
+Chairman Xiao Yang officially declared martial law, and with the approval of the United Nations Security Council, peacekeeping forces were deployed to the front.
 
 ## H009 (replace)
 

@@ -1778,11 +1778,11 @@ Korean lines: 425
 
 BASE:
 
-After the brief communication with Wei Fenghu, the Minister of National Defense, Shao Yang, Chairman of China, sat alone in the vast conference room and fell into thought.
+After the brief communication with Wei Fenghu, the Minister of National Defense, Xiao Yang, Chairman of China, sat alone in the vast conference room and fell into thought.
 
 SOL:
 
-After the brief communication with Minister of National Defense Wei Fenghu ended, Shao Yang, Chairman of China, sat alone in the vast conference room and sank into thought.
+After the brief communication with Minister of National Defense Wei Fenghu ended, Xiao Yang, Chairman of China, sat alone in the vast conference room and sank into thought.
 
 ## H127 (replace)
 
@@ -1820,11 +1820,11 @@ Korean lines: 433
 
 BASE:
 
-That was why Shao Yang had come here today, despite the countless objections within the Communist Party.
+That was why Xiao Yang had come here today, despite the countless objections within the Communist Party.
 
 SOL:
 
-That was why Shao Yang had come here today despite the countless objections within the Communist Party.
+That was why Xiao Yang had come here today despite the countless objections within the Communist Party.
 
 ## H130 (replace)
 

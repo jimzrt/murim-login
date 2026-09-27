@@ -158,7 +158,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
     "Sichuan Province remains in a wartime emergency involving magical communications interference, flying-monster attacks, and a Monster Wave that began in Gaoping District of Nanchong City.",
     "China has concealed at least one of its S-rank Hunters, Lei Fei, who disappeared with his department's Hunters when the first Monster Wave began and remains unconfirmed dead or alive.",
     "The temporary operations headquarters is at Mount Qingcheng, where international S-rank Hunters are gathered, including Magic Johnson and Faye Chen.",
-    "Shao Yang is Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he retains authority over China's crisis response while asking Hunters to prioritize human lives.",
+    "Xiao Yang is Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary; he retains authority over China's crisis response while asking Hunters to prioritize human lives.",
     "Faye Chen is an older S-rank Hunter and Great Cataclysm hero with a former film career, a low media profile, and a playful but composed manner toward Jin.",
     "Wu Heixing is an S-rank Hunter whose arrogance and hostility toward Jin have escalated into a public confrontation; he nearly drew his sword before the interruption.",
     "Prince Felix Alexander Louis is a British royal third in line to the throne who patronizes Jin as lowborn while claiming that all people are equal beneath God.",
@@ -311,7 +311,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 - **Role:** Wu Heixing is a Chinese S-rank Hunter known for frequent media exposure and a reputation for scandal.
 - **Personality:** Arrogant, status-conscious, abusive, and quick to anger when humiliated.
 - **Voice:** Loud, insulting, entitled, and dependent on national and political status.
-- **Relationships:** He is openly hostile toward Jin Taekyung and resents Jin receiving Chairman Shao Yang's attention.
+- **Relationships:** He is openly hostile toward Jin Taekyung and resents Jin receiving Chairman Xiao Yang's attention.
 
 ## Korean source
 
@@ -824,7 +824,7 @@ He was speaking that way to Wei Fenghu, the Chairman’s right-hand man and the 
 
 As though he had read my thoughts, Team Leader Choi sent me a message spell.
 
-—The Communist Party also has its own factions. General Liao is a pure-blooded member of the Crown Prince Party, the largest faction in the Communist Party since his grandfather’s time. It is a rival faction to the Shanghai Gang, which Chairman Shao and Minister of National Defense Wei Fenghu belong to.
+—The Communist Party also has its own factions. General Liao is a pure-blooded member of the Crown Prince Party, the largest faction in the Communist Party since his grandfather’s time. It is a rival faction to the Shanghai Gang, which Chairman Xiao and Minister of National Defense Wei Fenghu belong to.
 
 —The Crown Prince Party and Shang…what?
 
@@ -834,7 +834,7 @@ As though he had read my thoughts, Team Leader Choi sent me a message spell.
 
 Until now, I had assumed that the Communist Party operated under a strictly one-party system. Apparently, they fought among themselves just as enthusiastically.
 
-—But is that really allowed? If Chairman Shao simply pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
+—But is that really allowed? If Chairman Xiao simply pointed at someone and said, “That man is harmful,” wouldn’t they behead him in Tiananmen Square?
 
 —They do it because they’re allowed to.
 
@@ -858,7 +858,7 @@ While I was listening to Team Leader Choi’s explanation, General Liao, a pure-
 
 “……?”
 
-“Let’s formally request it from Chairman Shao and launch dozens of nuclear weapons across Sichuan. Wouldn’t that solve everything nice and cleanly?”
+“Let’s formally request it from Chairman Xiao and launch dozens of nuclear weapons across Sichuan. Wouldn’t that solve everything nice and cleanly?”
 
 “……”
 

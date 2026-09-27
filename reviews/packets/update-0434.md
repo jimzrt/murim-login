@@ -149,8 +149,8 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Jin suspects that the Murim formation, the modern world's magic circle, the battle phenomena involving the Blood Lord and Western Heaven Demon Lord, and his junk capsule are connected.",
     "Magic Johnson knows Jin killed Lee Jungryong and Wu Heixing, accepts Jin as a friend, and has agreed to help protect Jin's people and support his growth.",
     "The Skeleton King remains hidden in Jin's Inventory or an extradimensional pocket when necessary and continues pursuing a human-world identity as Stone-King.",
-    "Chairman Shao Yang has begun a political purge against Wu Xueming and leading Crown Prince Party figures, accompanied by a sweeping military reorganization.",
-    "Jin's mother and Hayeon remain in China under Chairman Shao's protection.",
+    "Chairman Xiao Yang has begun a political purge against Wu Xueming and leading Crown Prince Party figures, accompanied by a sweeping military reorganization.",
+    "Jin's mother and Hayeon remain in China under Chairman Xiao's protection.",
     "Lee Jungryong and Wu Heixing were killed by Jin, while the public remains unaware of the full truth.",
     "Go Jun remains alive after Jin grievously mutilated him, and Jin has demanded that the conflict end with Lee Jungryong.",
     "Jin is using Ares Guild's leadership vacuum and Peace Guild's expected growth to encourage defections without openly declaring war.",
@@ -818,7 +818,7 @@ The owner of the aged voice spoke to me with a gentle smile.
 
 “So… you’re leaving in the end, Mr. Jin.”
 
-I smiled back at Chairman Shao Yang.
+I smiled back at Chairman Xiao Yang.
 
 “The hotel rates were more expensive than I expected.”
 
@@ -866,7 +866,7 @@ Maybe that was why I felt more dazed than happy.
 
 “Um, but…”
 
-Chairman Shao Yang raised his eyebrows.
+Chairman Xiao Yang raised his eyebrows.
 
 “Are you really giving it to me?”
 
@@ -878,7 +878,7 @@ The instant I finished speaking, Team Leader Choi stepped firmly on my foot, whi
 
 My vehement answer spread a ripple of laughter through the crowd.
 
-Chairman Shao Yang laughed heartily and patted my shoulder.
+Chairman Xiao Yang laughed heartily and patted my shoulder.
 
 “Did I not say so? Paying a proper price for work done is only natural.”
 
@@ -892,7 +892,7 @@ There was nothing wrong with receiving the money according to the contract, but 
 
 “If you are worried about rebuilding the damage, that is something our country must handle. Your bounty is being processed quickly, Mr. Jin, so it will be paid officially soon.”
 
-After finishing, Chairman Shao Yang leaned toward my ear and whispered,
+After finishing, Chairman Xiao Yang leaned toward my ear and whispered,
 
 “When I plowed up the fields and pulled out the rotten stalks, piles of gold came tumbling out. So you need not feel uncomfortable, Mr. Jin.”
 
@@ -914,7 +914,7 @@ I answered with a much lighter heart.
 
 “What are you saying? Thanks to you, we were able to prevent an even greater catastrophe. On behalf of all the people who could not be here today, I once again offer you my thanks, Mr. Jin.”
 
-Before I could stop him, Chairman Shao Yang and his attendants bowed courteously.
+Before I could stop him, Chairman Xiao Yang and his attendants bowed courteously.
 
 The people gathered here were the major officials who moved an entire nation.
 
@@ -1014,7 +1014,7 @@ My words were cut off by something Xiao Shen said.
 
 “What are you talking about? The only grandfathers I know are Butler Kim from my Guild and the owner of the real-estate office outside my goshiwon.[^1]”
 
-Chairman Shao Yang cut in with a laugh.
+Chairman Xiao Yang cut in with a laugh.
 
 “Ha ha. This old man is here as well, you know.”
 
@@ -1024,7 +1024,7 @@ Wait a minute.
 
 The corners of my eyes began to twitch.
 
-*Shao Yang. Shao Shen. Shao, Shao?*
+*Xiao Yang. Shao Shen. Shao, Shao?*
 
 I had dismissed it because Xiao was a common Chinese surname, like Kim or Park in Korea, but now that I thought about it, their faces looked strangely similar, too.
 

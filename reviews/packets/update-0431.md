@@ -150,8 +150,8 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Jin suspects that the Murim formation, the modern world's magic circle, the battle phenomena involving the Blood Lord and Western Heaven Demon Lord, and his junk capsule are connected.",
     "Magic Johnson is researching the circle on behalf of the coalition forces and brought Jin to the classified site for direct examination.",
     "The Skeleton King remains hidden in Jin's Inventory or an extradimensional pocket when necessary and continues pursuing a human-world identity as Stone-King.",
-    "Chairman Shao is preparing a political reckoning against the Crown Prince Party after its persecution and forced-labor campaign.",
-    "Jin's mother and Hayeon remain in China under Chairman Shao's protection.",
+    "Chairman Xiao is preparing a political reckoning against the Crown Prince Party after its persecution and forced-labor campaign.",
+    "Jin's mother and Hayeon remain in China under Chairman Xiao's protection.",
     "Lee Jungryong is publicly presumed dead without a surviving body, while Wu Heixing's corpse was recovered after the battle.",
     "Go Jun, Lee Jungryong's Disciple and Head of Security, has arrived in the ruins and confronted Jin."
   ],
@@ -279,7 +279,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 - **Role:** Wu Heixing was a Chinese S-rank Hunter known for frequent media exposure and scandal who secretly practiced martial arts, including an internal-energy cultivation technique and fist-and-foot martial arts, before Jin Taekyung killed him.
 - **Personality:** Arrogant, status-conscious, abusive, and fiercely proud of his power, he responds to humiliation with anger and protects himself even while his allies die.
 - **Voice:** Loud, insulting, entitled, and dependent on national and political status.
-- **Relationships:** He is openly hostile toward Jin Taekyung and Faye Chen, and resents Jin receiving Chairman Shao Yang's attention.
+- **Relationships:** He is openly hostile toward Jin Taekyung and Faye Chen, and resents Jin receiving Chairman Xiao Yang's attention.
 
 ## Korean source
 

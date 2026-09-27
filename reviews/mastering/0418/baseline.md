@@ -48,7 +48,7 @@ I threw Wu Heixing's lifeless body aside and answered,
 
 “I've heard of him. Apparently, he was one of the men who took a sledgehammer to Confucius's tomb decades ago.”[^1]
 
-“And that young Red Guard grew up to become the most powerful man in Chinese politics and the leader of the Crown Prince Party. Even Chairman Shao Yang dares not touch him.”
+“And that young Red Guard grew up to become the most powerful man in Chinese politics and the leader of the Crown Prince Party. Even Chairman Xiao Yang dares not touch him.”
 
 “Damn, this continent is fucking amazing. In our country, it'd be like the arsonist who burned down Sungnyemun becoming President. Don't you think?”
 

@@ -146,8 +146,8 @@ Use empty arrays when no name, address-pair, or profile change is required.
     "Wei Fenghu is Lei Fei's maternal uncle, raised him as his own son, believes he is alive, and asked Jin Taekyung to bring him back if found.",
     "Jin Taekyung agreed to Wei Fenghu's request but did not guarantee that Lei Fei would be found alive.",
     "The temporary operations headquarters is at Mount Qingcheng.",
-    "Shao Yang is the Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary.",
-    "Shao Yang has retained full authority and responsibility for directing China's response to the crisis while asking the Hunters to prioritize human lives.",
+    "Xiao Yang is the Chairman of the People's Republic of China, Chairman of the Chinese Communist Party's Central Military Commission, and General Secretary.",
+    "Xiao Yang has retained full authority and responsibility for directing China's response to the crisis while asking the Hunters to prioritize human lives.",
     "International S-rank Hunters are gathered at the underground headquarters, including Magic Johnson, one of the world's three Archmages and its most combat-oriented War Mage."
   ],
   "continuity_sources": [
@@ -1042,7 +1042,7 @@ My prediction was exactly right.
 
 His fingertips slid almost imperceptibly toward the hilt of his sword.
 
-Broad-minded Chairman Shao Yang had not asked anyone present to disarm as a sign of trust, but that consideration would become poison to Wu Heixing.
+Broad-minded Chairman Xiao Yang had not asked anyone present to disarm as a sign of trust, but that consideration would become poison to Wu Heixing.
 
 *Draw it. Don’t hesitate.*
 
