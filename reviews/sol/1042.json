@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "He’d stopped and defended those who criticized his Senior Brothers.",
+      "defect": "The draft makes him defend the critics rather than his Senior Brothers.",
+      "id": "F01",
+      "rationale": "He stops the critics and speaks in defense of his Senior Brothers.",
+      "replacement": "He’d stood up to those who criticized his Senior Brothers and defended them.",
+      "severity": "critical",
+      "source": "사형들을 비난하는 이들을 막아 세우고 변호했다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "a One Annihilation larger than ever before—yet not even half-compressed—",
+      "defect": "“Compressed” changes the mechanism, and “yet” loses the causal link between its size and its incomplete formation.",
+      "id": "F02",
+      "rationale": "The strike has not yet gathered even halfway because it is so immense.",
+      "replacement": "a One Annihilation larger than ever before, and therefore not even half-formed,",
+      "severity": "major",
+      "source": "그 어느 때보다 거대한, 그렇기에 아직 절반도 채 응집되지 못한 일섬"
+    },
+    {
+      "confidence": 0.99,
+      "current": "gripped what was left of his beloved sword so tightly it seemed ready to break.",
+      "defect": "The draft omits that only the hilt remains.",
+      "id": "F03",
+      "rationale": "검자루밖에 남지 않은 specifies the sword’s physical state before his final attack.",
+      "replacement": "gripped the hilt—all that remained of his beloved sword—so tightly it seemed ready to break.",
+      "severity": "major",
+      "source": "이제는 검자루밖에 남지 않은 애검을 으스러져라 움켜쥐었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "while the Wind-and-Cloud Sword Lord’s strike, already flying through the air, slipped through the flash.",
+      "defect": "“The flash” points back to the distant blast, obscuring that his strike passes through the two opponents’ attacks.",
+      "id": "F04",
+      "rationale": "The preceding streaks are the Black Ghosts’ ax and sword attacks; the shock wave throws them off balance and creates an opening.",
+      "replacement": "while the Wind-and-Cloud Sword Lord’s strike, already hurtling through the air, slipped between their two streaks of light.",
+      "severity": "major",
+      "source": "이미 허공을 밟으며 쏘아지던 풍운검군의 일격은 섬광을 비집고 나아갔다는 것."
+    },
+    {
+      "confidence": 0.88,
+      "current": "he’d never forgotten those two words: loyalty and honor.",
+      "defect": "The rendering replaces 情義—the bonds of affection and duty toward others—with abstract personal honor.",
+      "id": "F05",
+      "rationale": "情義 describes human ties and the obligations they carry, central to his refusal to abandon the allies still fighting.",
+      "replacement": "he’d never forgotten the bonds of affection and loyalty.",
+      "severity": "major",
+      "source": "정의(情義)라는 두 글자를 잊은 적은 없었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "His breath, thick with the smell of blood, slowly dispersed.",
+      "defect": "The draft substitutes the smell of blood for the sweetish smell specified in the source.",
+      "id": "F06",
+      "rationale": "단내 is a sweetish smell, not the smell of blood.",
+      "replacement": "His sweetish-smelling breath slowly dispersed.",
+      "severity": "minor",
+      "source": "단내가 풀풀 풍기는 숨결이 느릿하게 흩어진다."
+    }
+  ],
+  "summary": "One reversed action and several material errors in the battle mechanics and physical details.",
+  "version": 1
+}

@@ -1507,3 +1507,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혈검마군 | 천주 | servant_to_master | Lord of Heaven | deferential | In his inner monologue, he addresses his absent master as 당신 and refers to himself as 속하. |
 | 사마표 | 사마공 | son to father | you; Father | familiar and confrontational | Sama Pyo challenges his father during their battlefield confrontation. |
 | 늙은 술사 | 대술사 | subordinate_to_superior | Grand Mage | formal and deferential | The old mage asks permission to speak and voices concern for his superior. |
+| 노호검객 | 풍운검군 | Senior Brother to Zhongnan Sect Leader and Junior Brother | Junior Brother, Sect Leader | blunt and commanding | Uses 장문 사제 while ordering him to give the retreat command. |
+| 태을무정검 | 풍운검군 | Senior Brother to Zhongnan Sect Leader and Junior Brother | Junior Brother, Sect Leader | serious and restrained | Uses 장문 사제 while telling him the sect’s losses will worsen if the battle continues. |
