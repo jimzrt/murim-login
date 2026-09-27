@@ -1,6 +1,6 @@
 # Dalai Lama (달뢰라마)
 
-- **Safe through:** Chapter 1100
+- **Safe through:** Chapter 1102
 - **Aliases:** Palace Lord
 - **Role:** The Dalai Lama is the Potala Palace’s leader and ruler of Xizang, commanding its Twelve Secret Monks.
 - **Personality:** Fiercely hostile to the Fire Gate Clan and committed to the Potala Palace’s interests; he trusts the Lord of Heaven but distrusts the Blood Lord.

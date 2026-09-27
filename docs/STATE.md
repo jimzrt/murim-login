@@ -1,22 +1,21 @@
 # Translation State
 
-- Last completed: 1101
-- Next chapter: 1102
-- Current block: 1100–1104 (2/5)
-- Latest translation: `translations/1101.md`
-- Latest summary: `summaries/beats/1101.md`
-- Safe profiles through: chapter 1101
+- Last completed: 1102
+- Next chapter: 1103
+- Current block: 1100–1104 (3/5)
+- Latest translation: `translations/1102.md`
+- Latest summary: `summaries/beats/1102.md`
+- Safe profiles through: chapter 1102
 
 ## Current Block
 
-- As Dark Heaven’s monsters begin battering Xining’s walls, Jin Taekyung orders boiling oil poured onto the attackers, then launches White Flame into the oil-soaked enemy ranks. He descends into the vanguard and fights with summoned weapons, wiping out at least a thousand enemies, including the monsters and Dark Heaven followers who took Temporary Strength Pills. The System announces that the One Against a Hundred and One Against a Thousand titles have activated, Intimidation has risen, Fear has lifted from some allies, and allied morale has increased. A hundred-thousand-strong Dark Heaven main force advances; the fallen giants have piled up to the middle of the wall.
+- Dark Heaven continues its siege of Xining, using a sustained assault to exhaust the eight Supreme Peak defenders. The Blood Lord sends the Grand Mage and four Black Ghosts to the South Gate as bait, while the Dalai Lama leads the Potala Palace’s army toward the North Gate to avenge its ancestors against the Fire King. Two Black Ghosts are assigned to the East Gate to keep the Slaughter Saint occupied without provoking him into leaving his post. As the Blood Lord anticipates the arrival of more allies by river, a skeletal eagle reaches him from the east, signaling that the moment he has awaited has arrived.
 
 ## Open Questions
 
-- Can Xining’s walls withstand Dark Heaven’s advancing main force and the piled-up giants?
 - Why does the Lord of Heaven want Taekyung, and what does he intend to do with him?
 - Whom do the Eldest Senior Brother and Elders serve, and what was Mu Song about to reveal?
-- Who were the new allies gathering near the river?
+- Who are the allies approaching by river from the east?
 - Which of Cheongheoja’s Disciples is the hidden Dark Heaven agent, and what did Cheongheoja ask Taekyung to do?
 
 ## Exceptional Decision

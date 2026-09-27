@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "A vast rumble drowned out the Blood Lord’s low voice.",
+      "defect": "The rumble overlays his voice; the source does not say it makes him inaudible.",
+      "id": "F01",
+      "rationale": "덧씌워지는 describes one sound being layered over another, not necessarily drowning it out.",
+      "replacement": "A vast rumble rolled over the Blood Lord’s low voice.",
+      "severity": "minor",
+      "source": "낮게 깔린 혈주의 목소리 위로 덧씌워지는 거대한 울림."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At that very moment, Dark Heaven’s enormous army, turning the once-vast blue earth pitch-black, advanced toward the city wall like a single wave.",
+      "defect": "The land was green, not blue.",
+      "id": "F02",
+      "rationale": "푸르고 광활했던 대지 describes a green, expansive landscape darkened by the army.",
+      "replacement": "At that very moment, Dark Heaven’s enormous army, turning the once-green, vast expanse of land pitch-black, advanced toward the city wall like a single wave.",
+      "severity": "critical",
+      "source": "지금 이 순간, 푸르고 광활했던 대지를 칠흑으로 물들인 암천의 대군세는 하나의 파도처럼 성벽을 향해 나아가고 있었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“What would you have me do?”",
+      "defect": "The Dalai Lama’s humble Buddhist self-reference disappears.",
+      "id": "F03",
+      "rationale": "빈승 identifies the speaker as a monk while marking his humility in this exchange.",
+      "replacement": "“What should this humble monk do?”",
+      "severity": "major",
+      "source": "빈승이 어찌하면 되겠소?"
+    },
+    {
+      "confidence": 0.99,
+      "current": "With a heartfelt prayer, the Dalai Lama leaped atop a massive elephant.",
+      "defect": "The physical gesture of pressing his palms together is omitted and replaced with a prayer.",
+      "id": "F04",
+      "rationale": "합장 specifies the joined-palms gesture; the passage does not say he recites a prayer.",
+      "replacement": "The Dalai Lama pressed his palms together with heartfelt sincerity, then leaped atop a massive elephant.",
+      "severity": "critical",
+      "source": "진심을 담은 합장(合掌)과 함께, 달뢰라마의 신형이 거대한 코끼리 위로 솟구쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Along with another guest, riding the surging river currents, who would bring this battle to its grand finale after the Potala Palace.",
+      "defect": "The approaching guests are plural, not one guest.",
+      "id": "F05",
+      "rationale": "손님들 explicitly marks multiple arrivals.",
+      "replacement": "Along with more guests riding the surging river currents, who would bring this battle to its grand finale after the Potala Palace.",
+      "severity": "critical",
+      "source": "포달랍궁에 이어 이 전장의 대미를 장식할, 출렁이는 강물을 타고 달려오는 또 다른 손님들과 함께."
+    }
+  ],
+  "summary": "Five actionable fidelity and register findings.",
+  "version": 1
+}
