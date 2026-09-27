@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Morgoth had never understood their behavior.\n\nThey would burn down a few cities and destroy an entire kingdom, then come all the way to his lair to make a scene over it.",
+      "defect": "The draft makes the heroes burn the cities and destroy the kingdom. Morgoth did those things; the heroes came to his lair in response.",
+      "id": "F01",
+      "rationale": "The complaint is Morgoth’s: he considers his own destruction a trivial reason for the heroes to confront him.",
+      "replacement": "Morgoth could never quite understand their behavior.\n\nAll he had done was burn a few cities and wipe out a kingdom, and they came all the way to his lair to make a scene.",
+      "severity": "critical",
+      "source": "모르고스는 그들의 행동을 좀처럼 이해하지 못했다.\n\n고작 도시 몇 개를 불태우고, 왕국 하나를 없앴다고 자신의 레어까지 찾아와 행패를 부리다니."
+    },
+    {
+      "confidence": 0.98,
+      "current": "If hit directly, even a fellow Dragon couldn’t have avoided serious injury.",
+      "defect": "“Serious injury” understates 치명상, a potentially fatal wound.",
+      "id": "F02",
+      "rationale": "The severity of Morgoth’s spell establishes why Jin’s survival alarms him.",
+      "replacement": "A direct hit would have left even another Dragon with a potentially fatal wound.",
+      "severity": "major",
+      "source": "직격당한다면 동족인 드래곤조차 치명상을 피할 수 없을 정도의 마법."
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> You defeated [Lv. 98 Enhanced Minotaur Warrior]!\n>\n> You defeated [Lv. 110 Enhanced Twin-Headed Ogre]!\n>\n> You defeated [Lv. 120 Enhanced Death Knight]!\n>\n> ……\n>\n> EXP gained is reduced based on the level difference!\n>\n> You gained a small amount of EXP!",
+      "defect": "The EXP reduction depends on a difference in strength, not specifically a level difference. The notices also retain prohibited square brackets.",
+      "id": "F03",
+      "rationale": "힘의 격차 specifies a strength gap. The binding System format excludes square brackets around notice terms.",
+      "replacement": "> **System**\n>\n> You defeated the Lv. 98 Enhanced Minotaur Warrior!\n>\n> You defeated the Lv. 110 Enhanced Twin-Headed Ogre!\n>\n> You defeated the Lv. 120 Enhanced Death Knight!\n>\n> …\n>\n> EXP gained is reduced due to the difference in strength!\n>\n> You gained a small amount of EXP!",
+      "severity": "major",
+      "source": "-[Lv98. 강화된 미노타우로스 워리어]를 처치하셨습니다!\n\n-[Lv110. 강화된 트윈 헤드 오우거]를 처치하셨습니다!\n\n-[Lv120. 강화된 데스 나이트]를 처치하셨습니다!\n\n……\n\n-힘의 격차에 따라 획득 경험치가 감소합니다!\n\n-소량의 경험치를 획득했습니다!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> **System**\n>\n> You have met the activation requirements for [One Against a Thousand]!\n>\n> The enemies are greatly intimidated by the effect of the Title [One Against a Thousand]!\n>\n> [Intimidation] has greatly increased due to the effect of the Title [One Against a Thousand]!\n>\n> Enemies who fear your [Intimidation] are beginning to retreat!",
+      "defect": "The System panel retains square brackets around UI terms despite the binding format.",
+      "id": "F04",
+      "rationale": "The framed System panel identifies these notices without square brackets.",
+      "replacement": "> **System**\n>\n> You have met the activation requirements for One Against a Thousand!\n>\n> The enemies are greatly intimidated by the effect of the Title One Against a Thousand!\n>\n> Intimidation has greatly increased due to the effect of the Title One Against a Thousand!\n>\n> Enemies who fear your Intimidation are beginning to retreat!",
+      "severity": "minor",
+      "source": "-[일기당천]의 발동 효과를 충족하셨습니다!\n\n-칭호, [일기당천]의 효과로 인해 적들이 크게 위축됩니다!\n\n-칭호, [일기당천]의 효과로 인해 [위압]이 크게 증가합니다!\n\n-당신의 [위압]에 두려움을 느낀 적들이 뒷걸음치기 시작합니다!"
+    }
+  ],
+  "summary": "One action is reversed, and two combat-mechanics details are misstated. Both System panels also retain brackets prohibited by the binding format.",
+  "version": 1
+}

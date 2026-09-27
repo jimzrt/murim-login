@@ -1,0 +1,101 @@
+{
+  "chapter": 1163,
+  "files": {
+    "characters/Cheon Taemin.md": "417d53d46eb5d765c74f279cc22f8179b3f399686c0a243bc76c4cd799cb57e4",
+    "characters/Divine Physician.md": "eb4586fa72585ec6ac969e7e0cf51aed4e0b26a16837d8490f184218c8814117",
+    "characters/Grand Mage.md": "953afab6181d3b6e2e66007cc2c52ecb2f837139da897ab9237676538dacf503",
+    "characters/Jin Taekyung.md": "93a112a1e0f97c5df3cacf2bac40a053987c6f67842ae33037b4ea35ca1a22da",
+    "characters/Jintae.md": "f50ee181586deb8e0e2e5eee193c822dd3a15efa66451e0251fd055a8eaab4d3",
+    "characters/Morgoth.md": "ec5963a21dfb033d8df75573a706c1ea2d75faf8547f5b2202413ecc8165ff16",
+    "characters/Taishan.md": "62ba55f278563f620fc6fb8989c72424c2d0d19c16ab375085711986c60ac4df",
+    "docs/ADDRESS.md": "97b900dbb29a57db84ee2adbffd58479c504d0863bf1805451d09b1ed9be91d4",
+    "docs/CONTEXT.json": "1b1db03d90ee39d92e849b492ec2f21651446f2cb620d762efe46d677f84fb6b",
+    "docs/NAMES.md": "509d129dd518be403e2d0bc947311136065b606cb270b6d946707428d649d01c",
+    "docs/STATE.md": "afd7717e82d34126e42ff54e56312596e7131e8449b6a64960ae04def11546ea",
+    "summaries/beats/1163.md": "f2c8c9f0d3ec1e16314ec9d0880e9e2553de50333f1c7284d0e63d67bd573293"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "아스모데우스",
+        "kinship": "being summoned by Asmodeus",
+        "normal_address": "Asmodeus",
+        "notes": "Morgoth directly addresses Asmodeus while reflecting on his failure.",
+        "speaker": "모르고스",
+        "speech_level": "formal and measured"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Morgoth’s Guardians include seven soul-stolen S-rank Hunters who were Jin’s comrades; Pai Chen, Joel Schumacher, and Pablo Albatroses are among them.",
+        "Jin survived Morgoth’s full-strength Hell Fire but is exhausted; One Against a Thousand caused monsters to retreat in fear.",
+        "Morgoth has committed to setting aside his pride and advances his Dragon-tooth soldiers against Jin; a distant flash appears beyond the horizon."
+      ],
+      "plot": [
+        "Morgoth reveals that he turns powerful beings he kills or subdues into Guardians, including seven S-rank Hunters presumed dead in the Black Dragon’s invasion. Jin fights through the monster army, survives Morgoth’s Ice Wall and Hell Fire, and drives many monsters into retreat with One Against a Thousand. Exhausted, he faces Morgoth’s advancing Dragon-tooth soldiers as a flash appears beyond the horizon."
+      ],
+      "translation_decisions": [
+        "Capitalize Guardian when referring to Morgoth’s collected beings and their assigned role.",
+        "Render 일기당천 as One Against a Thousand."
+      ]
+    },
+    "chapter": 1163,
+    "context": {
+      "active_continuity": [
+        "Morgoth holds the damaged but living Skeleton King as a trophy; Jin regards the Skeleton King as a friend and fights Morgoth to protect him.",
+        "Morgoth’s Guardians include seven soul-stolen S-rank Hunters presumed dead in the Black Dragon’s invasion; Pai Chen, Joel Schumacher, and Pablo Albatroses are among them.",
+        "Jin survived Morgoth’s full-strength Hell Fire but is exhausted; One Against a Thousand caused many monsters to flee in fear.",
+        "Morgoth’s Dragon-tooth soldiers are advancing against Jin, and a flash has appeared beyond the horizon."
+      ],
+      "continuity_sources": [
+        1162,
+        1163
+      ],
+      "open_questions": [
+        "What caused the flash beyond the horizon?",
+        "Can the soul-stolen Hunters be freed from Morgoth’s control?",
+        "What will happen in the confrontation between Jin and Morgoth?"
+      ],
+      "safe_through": 1163,
+      "temporary_decisions": [],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Pai Chen",
+        "korean": "파이 첸",
+        "notes": "S-rank Hunter turned into one of Morgoth’s Guardians."
+      },
+      {
+        "english": "Pablo Albatroses",
+        "korean": "파블로 알바토레스",
+        "notes": "S-rank Hunter turned into one of Morgoth’s Guardians."
+      }
+    ],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** Jin Mukyung is his older brother and Jeok Cheongang his Master and trusted confidant; he shares deep loyalty with Hyuk Mujin, whom he values as family, and considers the Skeleton King a friend; he trusts Sama Pyo despite suspecting his betrayal, was regarded as a worthy successor by Peng Cheolhu, and received the Martial God’s message through the Bow Saint.",
+        "path": "characters/Jin Taekyung.md",
+        "replacement": "- **Relationships:** Jin Mukyung is his older brother and Jeok Cheongang his Master and trusted confidant; he shares deep loyalty with Hyuk Mujin, whom he values as family, and considers the Skeleton King a friend; seven S-rank Hunter comrades presumed dead are now Morgoth’s soul-stolen Guardians."
+      },
+      {
+        "current": "- **Role:** Morgoth is a Dragon and the sovereign of a vast palace who seeks to recruit the Skeleton King as his Guardian.",
+        "path": "characters/Morgoth.md",
+        "replacement": "- **Role:** Morgoth is a Dragon and sovereign of a vast palace who collects powerful beings he kills or subdues as Guardians, including seven S-rank Hunters from Earth."
+      },
+      {
+        "current": "- **Personality:** Composed and intellectually curious, he pursues the unknown with consuming greed and will abandon restraint when confronted with something unprecedented.",
+        "path": "characters/Morgoth.md",
+        "replacement": "- **Personality:** Composed and intellectually curious, he treats powerful beings as trophies out of possessive desire and will use overwhelming force when challenged."
+      },
+      {
+        "current": "- **Relationships:** Asmodeus summoned Morgoth, though Morgoth says he is not devoted to him; Morgoth offers the Skeleton King the role of Guardian, which the Skeleton King refuses.",
+        "path": "characters/Morgoth.md",
+        "replacement": "- **Relationships:** Asmodeus summoned Morgoth, though Morgoth says he is not devoted to him; Morgoth holds the Skeleton King as a trophy and commands seven soul-stolen S-rank Hunters as Guardians."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}

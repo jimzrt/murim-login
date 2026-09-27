@@ -1595,3 +1595,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 모르고스 | captive_to_captor | you | insulting-casual | The Skeleton King uses 너 and blunt commands while rejecting Morgoth. |
 | 모르고스 | 진태경 | enemy Dragon addressing a human opponent | you | formal, measured | Uses 자네 while addressing Jin. |
 | 진태경 | 모르고스 | human opponent addressing an enemy Dragon | son | casual and mocking | Calls Morgoth 아들. |
+| 모르고스 | 아스모데우스 | being summoned by Asmodeus | Asmodeus | formal and measured | Morgoth directly addresses Asmodeus while reflecting on his failure. |

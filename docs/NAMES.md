@@ -2570,3 +2570,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 엘프 | **Elf** | One of the other races Morgoth lived among. |
 | 워프 게이트 | **Warp Gate** | Gate used for long-distance travel. |
 | 용아병 | **Dragon-tooth soldiers** | Guardians born of Dragons and serving them. |
+| 파블로 알바토레스 | **Pablo Albatroses** | S-rank Hunter turned into one of Morgoth’s Guardians. |
