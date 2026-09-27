@@ -80,7 +80,7 @@ Team Leader Choi looked me in the eye and spoke with deliberate clarity.
 
 I smiled bitterly.
 
-I had witnessed many deaths, both in the modern world and in Murim.[^1]
+I had witnessed many deaths, both in the modern world and in Murim.
 
 Sometimes I had been a spectator, far removed from what was happening. Other times, I had been at the heart of it.
 
@@ -150,15 +150,15 @@ I gave them a slight nod and answered with a joke.
 
 “Ha ha. Of course.”
 
-I had momentarily forgotten, but the bounty on the Arch Lich’s head had been an astounding fifty trillion won.[^2]
+I had momentarily forgotten, but the bounty on the Arch Lich’s head had been an astounding fifty trillion.
 
 It was such an astronomical sum that even the compensation I’d receive for fighting in a month-long war would look like pocket change beside it.
 
 I had never imagined possessing that much money in my life, and it still didn’t feel real.
 
-*Fifty trillion won.*[^2]
+*Fifty trillion.*
 
-Only half a year ago, I’d been eating seven-thousand-won[^3] bowls of bone hangover soup to save money, then cooking ramen afterward because one bowl wasn’t enough to fill me up.
+Only half a year ago, I’d been eating seven-thousand-won bowls of bone hangover soup to save money, then cooking ramen afterward because one bowl wasn’t enough to fill me up.
 
 Maybe that was why I felt more dazed than happy.
 
@@ -184,7 +184,7 @@ They said China was the Middle Kingdom because it was too large to be a small na
 
 I scratched my chin awkwardly.
 
-There was nothing wrong with receiving payment under the contract, but accepting a bounty of fifty trillion won[^2] amid such devastation made me feel like a thief rummaging through someone else’s storehouse.
+There was nothing wrong with receiving payment under the contract, but accepting a bounty of fifty trillion amid such devastation made me feel like a thief rummaging through someone else’s storehouse.
 
 “If money’s tight, you can pay me in installments.”
 
@@ -196,7 +196,7 @@ Chairman Xiao Yang leaned closer and whispered in my ear.
 
 It took me a moment to realize he was talking about the Crown Prince Party.
 
-According to the news, the assets seized so far already amounted to hundreds of trillions of won.[^4]
+According to the news, the assets seized so far already amounted to hundreds of trillions.
 
 And that was before they had even touched Wu Xueming, the faction’s de facto leader, or the rest of its leadership.
 
@@ -288,11 +288,11 @@ I made sure not to leave out Xiao Shen and Wei Fenghu, with whom I’d spent so 
 
 “Take care.”
 
-“We’ll definitely meet again, hyung.”[^5]
+“We’ll definitely meet again, hyung.”
 
 Xiao Shen, who was only in his early twenties, rubbed his reddened eyes with his sleeve before continuing.
 
-“I’ll become an outstanding Hunter like you, hyung,[^5] and rise to lead the public security forces that protect everyone.”
+“I’ll become an outstanding Hunter like you, hyung, and rise to lead the public security forces that protect everyone.”
 
 “You’re still young, but you’re already blinded by the desire for power. That job must be brutal.”
 
@@ -302,13 +302,13 @@ Xiao Shen, who was only in his early twenties, rubbed his reddened eyes with his
 
 My words were cut off by something Xiao Shen said.
 
-“You know him too, hyung.”[^5]
+“You know him too, hyung.”
 
 “Huh? Know what?”
 
 “My grandfather.”
 
-“What are you talking about? The only grandfathers I know are Butler Kim from my Guild and the owner of the real-estate office outside my goshiwon.”[^6]
+“What are you talking about? The only grandfathers I know are Butler Kim from my Guild and the owner of the real-estate office outside my goshiwon.[^1]”
 
 Chairman Xiao Yang cut in with a laugh.
 
@@ -332,7 +332,7 @@ I’d dismissed it because Xiao was a common surname in China, like Kim or Park 
 
 “…I think I’m going to be sick.”
 
-“Hyung?”[^5]
+“Hyung?”
 
 “Mr. Jin?”
 
@@ -376,7 +376,7 @@ I gave everyone a slight bow and followed Team Leader Choi onto the waiting airc
 
 Mom looked me over with an expression that was equal parts anxious and delighted. Meanwhile, Hayeon had taken advantage of the distraction to sip champagne. When our eyes met, she gave me a sheepish smile.
 
-“Oppa,[^7] want a glass?”
+“Oppa, want a glass?”
 
 “What do you mean, a glass? You’re a minor. Hey, take that away from her.”
 
@@ -416,10 +416,4 @@ With the familiar notification, darkness covered my vision, and I set off.
 
 Toward another world and another group of people waiting for me far away.
 
-[^1]: Murim is the martial-arts world and its community of martial artists.
-[^2]: Fifty trillion won is about $36 billion or €32 billion.
-[^3]: Seven thousand won is about $5 or €4.50.
-[^4]: Hundreds of trillions of won—roughly 200 to 900 trillion won—would be about $140–640 billion or €130–580 billion.
-[^5]: *Hyung* is a Korean term a man uses for an older brother or an older man to whom he is close.
-[^6]: A *goshiwon* is a type of inexpensive housing in South Korea, usually consisting of a very small rented room.
-[^7]: *Oppa* is a Korean term a woman uses for an older brother or an older man to whom she is close.
+[^1]: A goshiwon is a very small, inexpensive room-for-rent housing arrangement common in South Korea.
