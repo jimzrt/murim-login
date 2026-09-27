@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1087
-- Next chapter: 1088
-- Current block: 1085–1089 (3/5)
-- Latest translation: `translations/1087.md`
-- Latest summary: `summaries/beats/1087.md`
-- Safe profiles through: chapter 1087
+- Last completed: 1088
+- Next chapter: 1089
+- Current block: 1085–1089 (4/5)
+- Latest translation: `translations/1088.md`
+- Latest summary: `summaries/beats/1088.md`
+- Safe profiles through: chapter 1088
 
 ## Current Block
 
-- The Blood Lord and Grand Mage argue over his unilateral actions in Qinghai. He admits privately that he lied to the Lord of Heaven about fighting Mae Jonghak, then reveals his real plan: the advancing Green Forest Alliance and Yangtze River Channel League were bait and cover for testing Dark Heaven’s hidden magic formations. Ten thousand Dark Heaven faithful crossed into the Central Plains through the formations and joined the two alliances; most formations retain one use, though two or three used at Shaolin may be spent. The Blood Lord intends to march on Xining, while keeping the option to use the remaining formations for a larger invasion.
+- Four days after arriving in Xining, Jin Taekyung learns that the Yangtze River Channel League and Green Forest Alliance have gathered roughly thirty thousand fighters, including ten thousand Dark Heaven faithful, and that Potala Palace has allied with Dark Heaven. The Great Nation’s vessels guarding the Yangtze tributaries have been destroyed, leaving the river routes in enemy hands for now; Xining faces encirclement before the Great Nation can regroup. Although Jeok Cheongang tells Taekyung that no one could blame him for retreating, Taekyung chooses to stay and defend Xining’s civilians, insisting that the orthodox factions’ retreat makes it more important to uphold justice. Jeok affirms his faith in Taekyung and says he will put his remaining strength to use; before half a day passes, his words become reality.
 
 ## Open Questions
 

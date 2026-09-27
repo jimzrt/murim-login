@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "“That’s what makes it worse. Even if something happens to Pa Ryun and Tae Gunak now, the rest will still come after us.”",
+      "defect": "“The rest” suggests only the survivors or Dark Heaven’s troops will attack. The point is that removing the two bandit leaders will no longer stop their forces from attacking.",
+      "id": "F01",
+      "rationale": "Dark Heaven’s presence keeps the allied forces in line even if their two leaders fall.",
+      "replacement": "“That’s what makes it worse. Even if Pa Ryun and Tae Gunak are taken out now, their forces will still come after us.”",
+      "severity": "major",
+      "source": "그래서 더 문제인 거죠. 이제는 파륜과 태군악이 어떻게 된다 하더라도 저희에게 달려들 테니까."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Though his body had grown young again, his weathered eyes held the face he remembered.",
+      "defect": "The draft turns a face reflected in Jeok Cheongang’s eyes into a face he remembers.",
+      "id": "F02",
+      "rationale": "비쳤다 describes a visible reflection; the following lines separately describe his recollection.",
+      "replacement": "Though his body had grown young again, a familiar face was reflected in eyes that held the weight of his years.",
+      "severity": "major",
+      "source": "비록 육신은 젊어졌으나, 세월이 담긴 그 노회한 눈동자에 익숙한 얼굴이 비쳤다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Fortunately, it seems that won’t happen. You have far too good a Disciple for that.”",
+      "defect": "“Fortunately” removes Bow Saint’s dry, teasing “unfortunately.”",
+      "id": "F03",
+      "rationale": "안타깝게도 frames the praise as mock disappointment.",
+      "replacement": "“Unfortunately, that won’t be happening. Your Disciple is far too good for that.”",
+      "severity": "minor",
+      "source": "안타깝게도 그럴 일은 없겠군요. 그러기에는 너무 좋은 제자를 두었으니."
+    },
+    {
+      "confidence": 0.95,
+      "current": "Whether the Yangtze River Channel League’s triumph lasted three days or ten, there was no way to stop them right now.",
+      "defect": "The draft converts 화무십일홍 into a literal ten-day duration, losing the paired images of fleeting power and fading glory.",
+      "id": "F04",
+      "rationale": "화무십일홍 evokes a flower whose bloom cannot last; it does not specify a ten-day reign.",
+      "replacement": "Whether their reign lasted only three days or their glory faded as quickly as a flower, there was no way to stop the Yangtze River Channel League right now.",
+      "severity": "minor",
+      "source": "삼일천하건, 화무십일홍이건 간에 현재의 장강수로맹을 당장 막을 방법은 없다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "“The world has already turned its back on you. The Nine Sects and One Gang, the Five Great Families, the Murim Alliance—they’ve all abandoned you. And you still plan to make such a foolhardy choice?”",
+      "defect": "The source does not say the world and factions abandoned Taekyung personally; they turned away from the crisis.",
+      "id": "F05",
+      "rationale": "외면했다 and 등을 돌렸다 leave the object unstated, preserving the focus on their failure to act.",
+      "replacement": "“The world has already looked away. The Nine Sects and One Gang, the Five Great Families, the Murim Alliance—they’ve all turned their backs. And you still plan to make such a foolhardy choice?”",
+      "severity": "minor",
+      "source": "이미 천하가 외면했다. 구파일방과 오대세가가, 무림맹이 등을 돌렸다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Gungseong emerged from behind Jeok Cheongang, who had appeared at some point.",
+      "defect": "Uses a romanization instead of the binding title.",
+      "id": "F06",
+      "rationale": "궁성 is established as Bow Saint.",
+      "replacement": "Bow Saint emerged from behind Jeok Cheongang, who had appeared at some point.",
+      "severity": "minor",
+      "source": "어느샌가 나타난 적천강의 등 뒤에서 모습을 드러낸 궁성이 말을 받았다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "As if agreeing, Gungseong nodded quietly.",
+      "defect": "Uses a romanization instead of the binding title.",
+      "id": "F07",
+      "rationale": "궁성 is established as Bow Saint.",
+      "replacement": "As if agreeing, Bow Saint nodded quietly.",
+      "severity": "minor",
+      "source": "그 말에 동의하듯 조용히 상황을 지켜보던 궁성 역시 고개를 끄덕였다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Mujin’s eyes widened as he understood what Jeok Cheongang meant. Gungseong stayed silent.",
+      "defect": "Uses a romanization instead of the binding title.",
+      "id": "F08",
+      "rationale": "궁성 is established as Bow Saint.",
+      "replacement": "Mujin’s eyes widened as he understood what Jeok Cheongang meant. Bow Saint stayed silent.",
+      "severity": "minor",
+      "source": "후일을 도모한다.\n\n그 짧은 한마디에 담긴 의미를 깨달은 혁무진의 눈이 크게 뜨이고, 궁성은 침묵을 지켰다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Gungseong spoke with a faint smile.",
+      "defect": "Uses a romanization instead of the binding title.",
+      "id": "F09",
+      "rationale": "궁성 is established as Bow Saint.",
+      "replacement": "Bow Saint spoke with a faint smile.",
+      "severity": "minor",
+      "source": "궁성이 은은한 미소를 띤 채 입을 열었다."
+    }
+  ],
+  "summary": "The draft preserves the main decision and jade metaphor, but changes the alliance’s response to its leaders’ removal, misrenders a remembered image, and misses the established title and a teasing cue.",
+  "version": 1
+}
