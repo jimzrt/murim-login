@@ -1,0 +1,35 @@
+{
+  "summary": "The assembled copy misidentifies the connection between the suspects and turns an idiom about cutting off a subordinate into a literal lizard image. One additional line changes the narrator’s lack of a clear reason into lack of proof.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Lines 115–119",
+      "current": "Because we know there’s a connection between Michael and Siegfried.",
+      "defect": "The Korean’s “between the two” refers to the two suspects just named—Michael Silbert and the Prophet—not Michael and Siegfried. The following sentence supports that reading by explaining Michael’s connection to the terrorists.",
+      "replacement": "Because we know there’s a connection between the two of them, at the very least.",
+      "rationale": "Magic Johnson is explaining why he would choose Michael over the Prophet: Michael’s cooperation with the terrorists makes him the more likely suspect.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 171",
+      "current": "If this wasn’t simply a lizard shedding its tail, then there had to be a reason he needed to be killed.",
+      "defect": "The Korean uses 꼬리 자르기, an idiom for cutting off a subordinate or disowning a connection, not a lizard shedding its tail. The literal image changes the narrator’s reasoning.",
+      "replacement": "If this wasn’t simply a case of cutting off the tail, then there had to be a reason he needed to be killed.",
+      "rationale": "The idiom frames Siegfried’s death as potentially serving to sever a connection or sacrifice someone, rather than as a biological lizard behavior.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Lines 173–175",
+      "current": "I couldn’t prove it yet, but Michael Silbert was still our likeliest suspect.",
+      "defect": "The source says there is no clear reason, not that the narrator cannot prove the suspicion. The English shifts the uncertainty from motive or rationale to evidentiary proof.",
+      "replacement": "I had no clear reason, but Michael Silbert was still the likeliest suspect.",
+      "rationale": "명확한 이유는 없지만 expresses the absence of a clear reason while still identifying Michael as the likeliest suspect.",
+      "confidence": 0.88
+    }
+  ]
+}

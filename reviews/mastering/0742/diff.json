@@ -1,0 +1,1983 @@
+{
+  "baseline_blocks": 123,
+  "baseline_sha256": "ee258e3546296a9246a592ff63d6018d0f64bff8be606776ffda00d8d447da6e",
+  "global_terminology_alerts": [],
+  "hunk_count": 103,
+  "hunks": [
+    {
+      "baseline": "> **System**\n>\n> A new Quest has been generated!\n>\n> An Unexpected Quest, Unknown Death, is being forcibly accepted!\n>\n> **Quest**\n>\n> **Unknown Death**\n>\n> The reclusive Grand Mage, Siegfried Wassmann, has died for an unknown reason.\n>\n> Yet everything has a cause.\n>\n> Discover how and by whom he was killed.\n>\n> **Grade:** Supreme Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Reveal the truth behind his death (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** ???",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "> **System**\n>\n> A new Quest has been generated!\n>\n> An Unexpected Quest, Unknown Death, has been forcibly accepted!\n>\n> **Quest**\n>\n> **Unknown Death**\n>\n> The reclusive Grand Mage Siegfried Wassmann has died for an unknown reason.\n>\n> Yet everything has a cause.\n>\n> Discover how he died and who killed him.\n>\n> **Grade:** Supreme Peak\n>\n> **Restriction:** Jin Taekyung\n>\n> **Mission:** Reveal the truth behind his death (Incomplete)\n>\n> **Reward:** ???\n>\n> **Failure:** ???",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The name of the deceased in the first line of the description told me that this corpse, which had met such a gruesome end, belonged to one of only three Grand Mages in the entire world.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "9",
+      "sol": "The name on the first line told me that the shriveled corpse before us belonged to one of only three Grand Mages in the world.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Also known as the “Hero,” Siegfried.",
+      "baseline_paragraphs": "P6",
+      "baseline_range": [
+        5,
+        6
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "17",
+      "sol": "",
+      "sol_paragraphs": "after P5",
+      "sol_range": [
+        5,
+        5
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The greatest Hunter Switzerland, a perpetually neutral nation, had ever produced—and a Grand Mage who had displayed exceptional talent in summoning and barrier magic.",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "19",
+      "sol": "Siegfried, also known as the “Hero.” The greatest Hunter ever produced by Switzerland, a permanently neutral country, and a Grand Mage with exceptional talent for summoning and barrier magic.",
+      "sol_paragraphs": "P6",
+      "sol_range": [
+        5,
+        6
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If Magic Johnson was a War Mage specializing in actual combat and killing, Siegfried was one of the few scholarly mages who had delved deeply into magic itself.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "21",
+      "sol": "If Magic Johnson was a War Mage who specialized in combat and killing, Siegfried was one of the few scholars who had devoted himself to the study of magic itself.",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At least until today, when he was found dead in his own hideout.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "25",
+      "sol": "At least until today, when we found him dead in his own hideout.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Was he already like this when you first arrived?”",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "27",
+      "sol": "“Was he like this when you arrived?”",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At my question, Magic Johnson nodded somberly.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "29",
+      "sol": "Magic Johnson nodded, his expression grim.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "퀘스트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Quest"
+        }
+      ]
+    },
+    {
+      "baseline": "“Yes. At first, even I had trouble believing it. It was only after checking several times that I realized the corpse was Siegfried.”",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "31",
+      "sol": "“Yes. I could hardly believe it myself. I checked several times before I accepted that the body was Siegfried’s.”",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What was your usual contact like?”",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "33",
+      "sol": "“How often did you keep in touch?”",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“After he went into hiding, we only contacted each other once or twice a year. Even then, I had to call him about ten times before he would answer, usually much later. This is my first time coming here. He was so reclusive that he absolutely hated that kind of visit.”",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "39",
+      "sol": "“Once or twice a year after he went into hiding. Even then, I’d have to contact him ten times or so before he answered, and it took him ages. This is my first time here. He was intensely private and hated visits like this.”",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then your last contact was…”",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "41",
+      "sol": "“Then the last time you heard from him was…”",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hmm. Probably around three years ago.”",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "43",
+      "sol": "“Hmm. About three years ago, I think.”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Three years ago. I heard it’s been nearly ten years since he disappeared.”",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "45",
+      "sol": "“Three years. I heard he went into hiding nearly ten years ago.”",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“When we met shortly before his retirement, he gave me a communications artifact he had made himself. He told me to use it if anything truly urgent came up.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "47",
+      "sol": "“The last time we met, just before he retired, he gave me a communication artifact he’d made himself. Told me to use it if anything was truly urgent.”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I accepted the artifact Magic Johnson pulled from inside his clothes.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "49",
+      "sol": "I took the artifact Magic Johnson pulled from inside his clothes. It was a crystal ball about the size of an adult’s fist, and it held a considerable amount of mana—as if to prove a Grand Mage had made it.",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As if to prove that a Grand Mage had made it himself, the object radiated a considerable amount of mana. It was a crystal ball roughly the size of an adult’s fist.",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "51",
+      "sol": "",
+      "sol_paragraphs": "after P18",
+      "sol_range": [
+        18,
+        18
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "대마도사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grand Mage"
+        },
+        {
+          "korean": "메이지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mage"
+        }
+      ]
+    },
+    {
+      "baseline": "*Of course. Normal radio signals and communications would have been impossible inside a space surrounded by layers upon layers of barriers. He probably intended it that way.*",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "53",
+      "sol": "*Of course. Ordinary signals wouldn’t get through all the barriers around this place. He probably wanted it that way.*",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had never met Siegfried Wassmann face-to-face, but his public reputation was that of an unmistakable shut-in.",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "55",
+      "sol": "",
+      "sol_paragraphs": "after P19",
+      "sol_range": [
+        19,
+        19
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "On top of that, he avoided people’s attention and interest to an extreme degree, and whenever he became interested in a subject, he was the kind of obsessive who had to pursue and dissect it to the very end.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "57",
+      "sol": "I’d never met Siegfried Wassmann, but by all accounts he was a shut-in. He avoided attention of any kind, and once a subject caught his interest, he’d dig into it until he’d dissected every last part of it.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I reached out every Thanksgiving and Christmas, but starting three years ago, he stopped replying. I knew what he was like, so I didn’t think much of it. He was uncomfortable with people praising him as a hero, and he hated the media’s attention. Even after the Great Cataclysm ended, he would sometimes bury himself in long-term research.”",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "59",
+      "sol": "“I contacted him every Thanksgiving and Christmas, but he stopped answering three years ago. I knew what he was like, so I let it go. Being called a hero made him uncomfortable, and he hated attention from the press. Even after the Great Cataclysm ended, he’d sometimes disappear into his research for long stretches.”",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I could not make sense of it.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "61",
+      "sol": "I couldn’t make sense of it.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A Grand Mage who had vanished from the public eye to escape people’s attention had died in such a horrible state inside his own hideout.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "63",
+      "sol": "A Grand Mage who had gone into hiding to escape the public eye had died like this in his own refuge.",
+      "sol_paragraphs": "P23",
+      "sol_range": [
+        22,
+        23
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But one thing was certain.",
+      "baseline_paragraphs": "P27",
+      "baseline_range": [
+        26,
+        27
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "65",
+      "sol": "One thing, though, was certain.",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This wasn’t an ordinary natural death. Even if he died for some reason, a corpse couldn’t change this much in only three years.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "67",
+      "sol": "“This wasn’t an ordinary natural death. Whatever killed him, a body couldn’t end up like this in just three years.”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Maybe it would have been impossible even after three hundred years.",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "69",
+      "sol": "Maybe not even in three hundred.",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Would the hideout of a shut-in Grand Mage whose hobby was magic research and whose special talent was staying home run on gas or electricity?",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "71",
+      "sol": "Would a shut-in Grand Mage whose hobby was magic research and whose specialty was staying home run his hideout on gas and electricity?",
+      "sol_paragraphs": "P27",
+      "sol_range": [
+        26,
+        27
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "This enormous cavern, which could only be entered by breaking through its barriers, was filled with all kinds of magic. Everything, from the temperature to the humidity, was controlled perfectly.",
+      "baseline_paragraphs": "P31",
+      "baseline_range": [
+        30,
+        31
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "73",
+      "sol": "The enormous cavern was accessible only through layers of barriers and filled with every kind of magic. Everything, including the temperature and humidity, was perfectly controlled.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Besides, the corpse of Siegfried lying in front of me showed no trace of the natural rot or stench one would expect from decomposition.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "75",
+      "sol": "And Siegfried’s body showed none of the rot or stench of ordinary decay.",
+      "sol_paragraphs": "P29",
+      "sol_range": [
+        28,
+        29
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*It’s simply… dried out. As though something had sucked away all its life force.*",
+      "baseline_paragraphs": "P33",
+      "baseline_range": [
+        32,
+        33
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "77",
+      "sol": "*It’s just… dried out. As if something sucked every bit of life from it.*",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had never witnessed a death this mysterious, not even in the Murim.",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "79",
+      "sol": "I’d never seen a death this strange, even in Murim.",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That only made me wonder even more.",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "81",
+      "sol": "",
+      "sol_paragraphs": "after P31",
+      "sol_range": [
+        31,
+        31
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How exactly had he met his end in his own hideout?",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "83",
+      "sol": "",
+      "sol_paragraphs": "after P31",
+      "sol_range": [
+        31,
+        31
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "How closely was the death of this Grand Mage connected to my enemies?",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "85",
+      "sol": "Which left me with more questions. How had he died in his own hideout? And how deeply was his death connected to my enemies?",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "대마도사",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Grand Mage"
+        },
+        {
+          "korean": "메이지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mage"
+        }
+      ]
+    },
+    {
+      "baseline": "The two most likely suspects.",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "89",
+      "sol": "The two likeliest suspects.",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Magic Johnson realized what my mutter meant and spoke in a grave tone.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "91",
+      "sol": "",
+      "sol_paragraphs": "after P34",
+      "sol_range": [
+        34,
+        34
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "존슨",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Johnson"
+        },
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        }
+      ]
+    },
+    {
+      "baseline": "“If I had to choose between the two, I’d pick the former without hesitation.”",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "93",
+      "sol": "Magic Johnson understood what I meant. “If I had to choose one of them, I’d pick the first without hesitation.”",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Because there’s a definite connection between him and Siegfried, at the very least. Judging from everything that’s happened so far, Michael Silbert clearly knows that Sky is unconscious. Otherwise, there’s no reason he would join hands with terrorists and carry out something this insane.”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "97",
+      "sol": "“Because we know there’s a connection between Michael and Siegfried. From everything we’ve seen, Michael Silbert must know Sky is unconscious. Otherwise, he’d never have joined forces with terrorists to pull off something this insane.”",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a sufficiently credible hypothesis.",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "99",
+      "sol": "",
+      "sol_paragraphs": "after P37",
+      "sol_range": [
+        37,
+        37
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Siegfried had created A Area, which had been hidden inside Ares Guild’s headquarters. There was a strong possibility that he had learned the truth about Cheon Taemin’s condition in the process.",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "101",
+      "sol": "It was a plausible theory. Siegfried had built A Area inside Ares Guild’s headquarters, and he could well have learned the truth about Cheon Taemin’s condition while doing it.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I’m asking because I don’t know, but was Siegfried close to Michael Silbert when he was alive?”",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "105",
+      "sol": "“I honestly don’t know the answer to this. Was Siegfried close to Michael Silbert?”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Then what are the chances that he would have revealed that level of classified information to him?”",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "109",
+      "sol": "“Then how likely is it that he told Michael a secret that big?”",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Magic Johnson hesitated briefly, then let out a low groan.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "111",
+      "sol": "Magic Johnson paused and let out a low groan.",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Not very high. No, you could consider them nonexistent. There were very few people who had any kind of relationship with him, myself included. And beyond those mere connections, there was only one person Siegfried openly said he genuinely respected.”",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "113",
+      "sol": "“Unlikely. No, you might as well call it impossible. Very few people had any relationship with Siegfried, myself included. And there was only one person he ever said he truly respected.”",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I felt as though I already knew the name without hearing it.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "115",
+      "sol": "I had a feeling I knew the answer.",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Magic Johnson nodded to confirm it, then continued.",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "119",
+      "sol": "",
+      "sol_paragraphs": "after P46",
+      "sol_range": [
+        46,
+        46
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "존슨",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Johnson"
+        },
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        }
+      ]
+    },
+    {
+      "baseline": "“That’s right. Siegfried genuinely respected Sky. From the conversations I had with him about Sky, his feelings were practically close to worship. In the past, he even mentioned Sky himself during an interview with the media.”",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "121",
+      "sol": "Magic Johnson nodded. “That’s right. Siegfried genuinely respected Sky. From what he told me, it was practically worship. He even spoke about Sky in an interview once.”",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Oh. I think I know what you mean.”",
+      "baseline_paragraphs": "P56",
+      "baseline_range": [
+        55,
+        56
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "123",
+      "sol": "“Oh. I think I remember that.”",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had a faint memory of seeing that interview myself.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "125",
+      "sol": "",
+      "sol_paragraphs": "after P48",
+      "sol_range": [
+        48,
+        48
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "With famous Hunters, all kinds of information about them had been compiled into documents online, and Siegfried Wassmann had been one of them.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "127",
+      "sol": "I had a vague memory of seeing the interview. There were online profiles full of information about well-known Hunters, Siegfried Wassmann among them. I’d heard the interview caused a stir at the time: it was unusual enough for him to speak to the press, let alone express such strong feelings about anyone.",
+      "sol_paragraphs": "P49",
+      "sol_range": [
+        48,
+        49
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was unusual for him to give an interview to the media, and even more unusual for him to express that degree of admiration and emotion toward someone else. I heard it had made major headlines at the time.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "129",
+      "sol": "",
+      "sol_paragraphs": "after P49",
+      "sol_range": [
+        49,
+        49
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Team Leader Choi spoke up suddenly, then continued slowly.",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "133",
+      "sol": "Team Leader Choi had spoken up. He continued slowly.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Siegfried Wassmann was a master in that field, and he had very few personal relationships. On top of that, he deeply respected my maternal grandfather. He would have kept the secret.”",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "135",
+      "sol": "“Siegfried Wassmann was a master of his field, and he had few personal ties. He also deeply respected my maternal grandfather. Lee Jungryong could trust him to keep the secret.”",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“That’s true. Even I, who was among the people closest to him, knew absolutely nothing about A Area. No, I never even imagined that friend of mine would accept a commission from anyone.”",
+      "baseline_paragraphs": "P64",
+      "baseline_range": [
+        63,
+        64
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "139",
+      "sol": "“That’s true. Even I knew nothing about A Area, and I was one of the people closest to him. Hell, I never thought he’d accept a commission from anyone.”",
+      "sol_paragraphs": "P54",
+      "sol_range": [
+        53,
+        54
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“At least when it came to maintaining secrecy, Lee Jungryong’s judgment was accurate. But if the information wasn’t leaked, the question that remains is…”",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "141",
+      "sol": "“At least Lee Jungryong chose well when it came to secrecy,” Team Leader Choi said. “But if Siegfried didn’t tell anyone, that leaves a question…”",
+      "sol_paragraphs": "P55",
+      "sol_range": [
+        54,
+        55
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How did Michael Silbert learn about it?”",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "143",
+      "sol": "“How did Michael Silbert find out?”",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I muttered the question and examined the corpse thoroughly once more.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "145",
+      "sol": "I muttered the question as I examined the body again, searching every inch for signs of torture. Even with every sense sharpened, I found nothing new.",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I was looking for any possible signs of torture, but even after examining it with every sense on high alert, nothing about the facts changed.",
+      "baseline_paragraphs": "P68",
+      "baseline_range": [
+        67,
+        68
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "147",
+      "sol": "",
+      "sol_paragraphs": "after P57",
+      "sol_range": [
+        57,
+        57
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*If this wasn’t simply a lizard shedding its tail, then there had to be a reason he needed to be killed.*",
+      "baseline_paragraphs": "P69",
+      "baseline_range": [
+        68,
+        69
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "149",
+      "sol": "*If this wasn’t just a lizard cutting off its tail to escape, Michael must have had a reason to kill him.*",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I had no clear proof, but Michael Silbert was still the most likely suspect by far.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "151",
+      "sol": "",
+      "sol_paragraphs": "after P58",
+      "sol_range": [
+        58,
+        58
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "미카엘",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Michael"
+        },
+        {
+          "korean": "실베르트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Silbert"
+        }
+      ]
+    },
+    {
+      "baseline": "Uncovering the truth would be the first step toward bringing him down.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "153",
+      "sol": "I couldn’t prove it yet, but Michael Silbert was still our likeliest suspect. Finding out what had happened here could be the first step toward bringing him down.",
+      "sol_paragraphs": "P59",
+      "sol_range": [
+        58,
+        59
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*There’s definitely something here. Something…*",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "155",
+      "sol": "*There’s something. There has to be…*",
+      "sol_paragraphs": "P60",
+      "sol_range": [
+        59,
+        60
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I continued to examine the corpse while repeating the thought over and over in my mind.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "157",
+      "sol": "",
+      "sol_paragraphs": "after P60",
+      "sol_range": [
+        60,
+        60
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "After a long while, I raised my head in frustration—and saw someone standing there.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "159",
+      "sol": "I kept searching the body, repeating those words to myself. At last, frustrated, I looked up and saw someone standing nearby.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "More precisely, it was a monster shaped like a human.",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "161",
+      "sol": "Or rather, a monster shaped like a person.",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why are you standing over there trying to look cool? You’ve been quiet for a while.”",
+      "baseline_paragraphs": "P76",
+      "baseline_range": [
+        75,
+        76
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "163",
+      "sol": "“Why are you standing there trying to look cool? You’ve been quiet this whole time.”",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Skeleton King, who had been standing with his arms crossed and thinking deeply about something, furrowed his brow.",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "165",
+      "sol": "The Skeleton King stood with his arms crossed, deep in thought. He frowned.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Be silent, foolish human. This body was engaged in profound contemplation.”",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "167",
+      "sol": "“Silence, foolish human. This body was engaged in profound contemplation.”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What kind of bullshit were you thinking up this time?”",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "169",
+      "sol": "“What kind of bullshit were you contemplating now?”",
+      "sol_paragraphs": "P66",
+      "sol_range": [
+        65,
+        66
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "I paused and asked him back.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "173",
+      "sol": "",
+      "sol_paragraphs": "after P67",
+      "sol_range": [
+        67,
+        67
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What?”",
+      "baseline_paragraphs": "P82",
+      "baseline_range": [
+        81,
+        82
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "175",
+      "sol": "I stopped. “Feel what?”",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This space. The concentration of magical power is denser here than elsewhere.”",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "177",
+      "sol": "“This space. The concentration of magical power is higher here than elsewhere.”",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "If the Skeleton King had been talking about mana, I would have immediately argued with him.",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "179",
+      "sol": "",
+      "sol_paragraphs": "after P69",
+      "sol_range": [
+        69,
+        69
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "스켈레톤",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Skeleton"
+        }
+      ]
+    },
+    {
+      "baseline": "My Qi Sense was better than anyone else’s here, and I had not felt anything strange so far.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "181",
+      "sol": "If he’d said *mana*, I would have argued immediately. My Qi Sense was better than anyone else’s here, and I hadn’t noticed anything unusual.",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But if he meant magical power, that was a different story.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "183",
+      "sol": "",
+      "sol_paragraphs": "after P70",
+      "sol_range": [
+        70,
+        70
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        },
+        {
+          "korean": "마력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "magical power"
+        }
+      ]
+    },
+    {
+      "baseline": "The Skeleton King was an S-rank monster in the truest sense. When it came to magical power, even I could not match him.",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "185",
+      "sol": "But magical power was another matter. The Skeleton King was an S-rank monster. When it came to sensing magical power, even I couldn’t match him.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Large human. You did not feel it?”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "187",
+      "sol": "“Large human. Did you not feel it?”",
+      "sol_paragraphs": "P72",
+      "sol_range": [
+        71,
+        72
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the Skeleton King’s question, Magic Johnson scratched the back of his head.",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "189",
+      "sol": "Magic Johnson scratched the back of his head.",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "퀘스트",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Quest"
+        },
+        {
+          "korean": "스켈레톤",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Skeleton"
+        }
+      ]
+    },
+    {
+      "baseline": "“Not as well as you, but I did feel it. I just didn’t think it was particularly strange.”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "191",
+      "sol": "“I did, though not as clearly as you. I just didn’t think it was strange.”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You are infinitely more foolish than this body. Why?”",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "193",
+      "sol": "“You are infinitely more foolish than this body. Why not?”",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This isn’t just a house. It’s also a laboratory equipped with everything Siegfried could want. You could rummage through a single storage room and find mountains of monster corpses and Magic Gems.”",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "195",
+      "sol": "“This isn’t just a house. It’s a laboratory stocked with everything Siegfried could want. Search one storeroom and you’d probably find mountains of monster corpses and Magic Gems.”",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "메이지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Mage"
+        }
+      ]
+    },
+    {
+      "baseline": "Now that he mentioned it, he was right.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "199",
+      "sol": "Oh. He had a point.",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as filtering shit water wouldn’t make it perfectly clear, the same was true of Magic Gems and monster corpses.",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "201",
+      "sol": "Filter filthy water all you like and it still won’t be perfectly clear. Magic Gems and monster corpses were much the same: even after purification, some magical power remained.",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No matter how thoroughly they were purified, some magical power always remained.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "203",
+      "sol": "",
+      "sol_paragraphs": "after P79",
+      "sol_range": [
+        79,
+        79
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        },
+        {
+          "korean": "마력",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "magical power"
+        }
+      ]
+    },
+    {
+      "baseline": "Siegfried’s hideout was filled with objects that held all kinds of magical power. The concentration here was bound to be denser as a result.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "205",
+      "sol": "Siegfried’s hideout was full of things that held magical power. No wonder the concentration was high.",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I understand what you’re thinking, but the monster corpses being the reason for the high concentration of magical power doesn’t change anything. Even if a monster killed Siegfried, there should at least be signs of a battle.”",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "207",
+      "sol": "“I see what you’re thinking,” Johnson went on, “but even if monsters are the reason there’s so much magical power here, that doesn’t tell us anything. If a monster killed Siegfried, there should at least be signs of a fight.”",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“…Huh? Huh?”",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "209",
+      "sol": "“…H-huh?”",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the Skeleton King blinked at Magic Johnson’s logical rebuttal, I muttered quietly.",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "213",
+      "sol": "The Skeleton King could only blink at Johnson’s perfectly reasonable objection. I muttered, “Fucking moron.”",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "마법",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Magic"
+        }
+      ]
+    },
+    {
+      "baseline": "“Fucking stupid bastard.”",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "215",
+      "sol": "",
+      "sol_paragraphs": "after P84",
+      "sol_range": [
+        84,
+        84
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How dare this treacherous human insult whom!”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "217",
+      "sol": "“How dare this treacherous human insult—”",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Be quiet before I separate your jawbone. I’ll overlook it because you at least managed to think about something.”",
+      "baseline_paragraphs": "P104",
+      "baseline_range": [
+        103,
+        104
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "219",
+      "sol": "“Shut up before I pull your jawbone off. I’ll let it slide since you actually tried thinking for once.”",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Who do you think you are, throwing the investigation into confusion? My head already feels like it’s about to explode.”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "223",
+      "sol": "“Don’t go confusing the investigation. My head’s about to explode as it is.”",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The demon realm was far away, but my fist was close.",
+      "baseline_paragraphs": "P107",
+      "baseline_range": [
+        106,
+        107
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "225",
+      "sol": "The Demon Realm was far away. My fist was close.",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as the Skeleton King shut his mouth with an offended expression, Team Leader Choi, who had been examining the corpse persistently, clicked his tongue.",
+      "baseline_paragraphs": "P108",
+      "baseline_range": [
+        107,
+        108
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "227",
+      "sol": "The Skeleton King closed his mouth, looking thoroughly displeased. Team Leader Choi, who had continued examining the body, clicked his tongue.",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“If this was an assassination, there should at least be some kind of injury. But there are no wounds on the corpse. It’s completely clean.”",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "229",
+      "sol": "“If this was an assassination, there should be at least a small wound. But there isn’t one. The body is clean.”",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“At least as far as common sense goes, that leaves only magic.”",
+      "baseline_paragraphs": "P111",
+      "baseline_range": [
+        110,
+        111
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "233",
+      "sol": "“Magic is the only explanation I can think of.”",
+      "sol_paragraphs": "P93",
+      "sol_range": [
+        92,
+        93
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "가지",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Go"
+        }
+      ]
+    },
+    {
+      "baseline": "But Magic Johnson, a Grand Mage himself, looked troubled.",
+      "baseline_paragraphs": "P112",
+      "baseline_range": [
+        111,
+        112
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "235",
+      "sol": "Yet even Magic Johnson, a Grand Mage himself, looked troubled.",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Even though I specialize in offensive magic, I’ve truly never seen or heard of magic like this. It’s far more complicated and sinister than the ordinary magic we use. For example, it’s closer to that fellow’s kind of magic.”",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "237",
+      "sol": "“I specialize in offensive magic, but I’ve never seen or heard of anything like this. It’s far more complex and sinister than the magic we use. Closer to that fellow’s work, if anything.”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At that, the “fellow” who had kept his mouth firmly shut frowned.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "239",
+      "sol": "“That fellow,” who had been keeping his mouth firmly shut, frowned.",
+      "sol_paragraphs": "P96",
+      "sol_range": [
+        95,
+        96
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This body merely infuses resentful spirits into dead flesh. This body knows nothing of such wicked magic.”",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "241",
+      "sol": "“This body merely places vengeful spirits into dead flesh. This body knows nothing of such wicked magic.”",
+      "sol_paragraphs": "P97",
+      "sol_range": [
+        96,
+        97
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Wasn’t that already fucking evil magic?*",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "249",
+      "sol": "*Isn’t that already fucking wicked magic?*",
+      "sol_paragraphs": "P101",
+      "sol_range": [
+        100,
+        101
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "But since he said he did not know, what could I say? Besides, he was quite unlike an ordinary monster, so he had no reason to lie.",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "251",
+      "sol": "But if he said he didn’t know, I couldn’t make him know. Besides, he was nothing like an ordinary monster. He had no reason to lie.",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "That name alone kept circling through my mind.",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "257",
+      "sol": "That name kept circling through my mind.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 105,
+  "sol_sha256": "322793e0f0eb4f6a26a36319e4b58f215ed68d504400d4d54fec1087e55c3bf8",
+  "version": 1
+}

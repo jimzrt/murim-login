@@ -28,7 +28,7 @@
 
 I stared at the Quest window floating in midair.
 
-The name of the deceased in the first line of the description told me that this corpse, which had met such a gruesome end, belonged to one of only three Grand Mages in the entire world.
+The name on the first line told me that the shriveled corpse before us belonged to one of only three Grand Mages in the world.
 
 *Siegfried Wassmann.*
 
@@ -36,7 +36,7 @@ Siegfried, also known as the “Hero.” The greatest Hunter ever produced by Sw
 
 If Magic Johnson was a War Mage who specialized in combat and killing, Siegfried was one of the few scholars who had devoted himself to the study of magic itself.
 
-At least until today, when he was found dead in his own hideout.
+At least until today, when we found him dead in his own hideout.
 
 “Was he like this when you arrived?”
 
@@ -58,7 +58,7 @@ Magic Johnson nodded, his expression grim.
 
 I took the artifact Magic Johnson pulled from inside his clothes. It was a crystal ball about the size of an adult’s fist, and it held a considerable amount of mana—as if to prove a Grand Mage had made it.
 
-*Of course. Normal radio signals and communications would have been impossible inside a space surrounded by layers upon layers of barriers. He probably intended it that way.*
+*Of course. Ordinary signals wouldn’t get through all the barriers around this place. He probably wanted it that way.*
 
 I’d never met Siegfried Wassmann, but by all accounts he was a shut-in. He avoided attention of any kind, and once a subject caught his interest, he’d dig into it until he’d dissected every last part of it.
 
@@ -76,7 +76,7 @@ Maybe not even in three hundred.
 
 Would a shut-in Grand Mage whose hobby was magic research and whose specialty was staying home run his hideout on gas and electricity?
 
-This enormous cavern, which could only be entered by breaking through its barriers, was filled with all kinds of magic. Everything, from the temperature to the humidity, was controlled perfectly.
+The enormous cavern was accessible only through layers of barriers and filled with every kind of magic. Everything, including the temperature and humidity, was perfectly controlled.
 
 And Siegfried’s body showed none of the rot or stench of ordinary decay.
 
@@ -100,7 +100,7 @@ It was a plausible theory. Siegfried had built A Area inside Ares Guild’s head
 
 But…
 
-“I’m asking because I don’t know, but was Siegfried close to Michael Silbert when he was alive?”
+“I honestly don’t know the answer to this. Was Siegfried close to Michael Silbert?”
 
 “That…”
 
@@ -122,21 +122,21 @@ I had a vague memory of seeing the interview. There were online profiles full of
 
 “Perhaps… that’s why Lee Jungryong commissioned Siegfried to build A Area.”
 
-Team Leader Choi spoke up suddenly, then continued slowly.
+Team Leader Choi had spoken up. He continued slowly.
 
-“Siegfried Wassmann was a master in that field, and he had very few personal relationships. On top of that, he deeply respected my maternal grandfather. He would have kept the secret.”
+“Siegfried Wassmann was a master of his field, and he had few personal ties. He also deeply respected my maternal grandfather. Lee Jungryong could trust him to keep the secret.”
 
 Magic Johnson gave a small nod.
 
 “That’s true. Even I knew nothing about A Area, and I was one of the people closest to him. Hell, I never thought he’d accept a commission from anyone.”
 
-“At least when it came to maintaining secrecy, Lee Jungryong’s judgment was accurate. But if the information wasn’t leaked, the question that remains is…”
+“At least Lee Jungryong chose well when it came to secrecy,” Team Leader Choi said. “But if Siegfried didn’t tell anyone, that leaves a question…”
 
 “How did Michael Silbert find out?”
 
 I muttered the question as I examined the body again, searching every inch for signs of torture. Even with every sense sharpened, I found nothing new.
 
-*If this wasn’t simply a lizard shedding its tail, then there had to be a reason he needed to be killed.*
+*If this wasn’t just a lizard cutting off its tail to escape, Michael must have had a reason to kill him.*
 
 I couldn’t prove it yet, but Michael Silbert was still our likeliest suspect. Finding out what had happened here could be the first step toward bringing him down.
 
@@ -170,15 +170,15 @@ Magic Johnson scratched the back of his head.
 
 “I did, though not as clearly as you. I just didn’t think it was strange.”
 
-“You are infinitely more foolish than this body. Why?”
+“You are infinitely more foolish than this body. Why not?”
 
-“This isn’t just a house. It’s also a laboratory equipped with everything Siegfried could want. You could rummage through a single storage room and find mountains of monster corpses and Magic Gems.”
+“This isn’t just a house. It’s a laboratory stocked with everything Siegfried could want. Search one storeroom and you’d probably find mountains of monster corpses and Magic Gems.”
 
 “…Huh?”
 
 Oh. He had a point.
 
-Just as filtering shit water wouldn’t make it perfectly clear, the same was true of Magic Gems and monster corpses.
+Filter filthy water all you like and it still won’t be perfectly clear. Magic Gems and monster corpses were much the same: even after purification, some magical power remained.
 
 Siegfried’s hideout was full of things that held magical power. No wonder the concentration was high.
 
@@ -190,7 +190,7 @@ I was an idiot for getting my hopes up.
 
 The Skeleton King could only blink at Johnson’s perfectly reasonable objection. I muttered, “Fucking moron.”
 
-“How dare this treacherous human insult whom!”
+“How dare this treacherous human insult—”
 
 “Shut up before I pull your jawbone off. I’ll let it slide since you actually tried thinking for once.”
 
@@ -224,10 +224,10 @@ Yet even Magic Johnson, a Grand Mage himself, looked troubled.
 
 *Isn’t that already fucking wicked magic?*
 
-But since he said he did not know, what could I say? Besides, he was quite unlike an ordinary monster, so he had no reason to lie.
+But if he said he didn’t know, I couldn’t make him know. Besides, he was nothing like an ordinary monster. He had no reason to lie.
 
 *Damn it. It has to be him.*
 
 Michael Silbert.
 
-That name alone kept circling through my mind.
+That name kept circling through my mind.
