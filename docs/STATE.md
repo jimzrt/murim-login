@@ -1,23 +1,21 @@
 # Translation State
 
-- Last completed: 1126
-- Next chapter: 1127
-- Current block: 1125–1129 (2/5)
-- Latest translation: `translations/1126.md`
-- Latest summary: `summaries/beats/1126.md`
-- Safe profiles through: chapter 1126
+- Last completed: 1127
+- Next chapter: 1128
+- Current block: 1125–1129 (3/5)
+- Latest translation: `translations/1127.md`
+- Latest summary: `summaries/beats/1127.md`
+- Safe profiles through: chapter 1127
 
 ## Current Block
 
-- Mae Jonghak arrives and severs the Blood Lord’s arm with a strike of purple Force. The Blood Lord survives the ensuing attack, but the power granted by the Lord of Heaven disappears, leaving him badly wounded.
-- Though critically injured, Taekyung grabs the Blood Lord’s ankle to hold him in place, taunts him, and buys time. Reinforcements arrive: the Yangtze River Channel League, Green Forest Alliance, and Murim Alliance.
-- Taekyung bites the Blood Lord’s neck. The powerless Blood Lord falls into the pool of blood; his fate and the battle’s outcome remain unresolved.
+- The Blood Lord, mortally wounded, questions what he fought for and realizes the Lord of Heaven never valued his loyalty. As he makes one last attack on Jin Taekyung, Jeok Cheongang blocks it; the surrounding allies shield Taekyung from the rain. The Blood Lord dies, and the Dark Heaven army collapses.
+- The System grants Taekyung multiple Level Ups and completes several Quests, extending his Final Rally to 5 minutes 35 seconds. His injuries from One Annihilation have damaged his innate qi beyond recovery, and he believes he is going to die. He shares a brief farewell with Cheongpung and prepares to say goodbye to the others.
 
 ## Open Questions
 
-- Did the Blood Lord survive his fall, and can he recover his lost power?
-- Will Taekyung survive his injuries?
-- Can the allied reinforcements end the battle and protect the remaining defenders?
+- Will Taekyung survive the damage to his innate qi and the end of Final Rally?
+- What will happen to the battlefield and the allied forces now that the Blood Lord is dead?
 
 ## Exceptional Decision
 
