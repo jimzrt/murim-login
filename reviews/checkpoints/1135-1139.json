@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "his senses felt so dull and чуж-like",
+      "defect": "The English reading copy contains a stray Cyrillic word.",
+      "id": "C01",
+      "rationale": "Removes the non-English text while preserving his sense of unfamiliarity.",
+      "replacement": "his senses felt so dull and alien",
+      "severity": "minor",
+      "source": "Chapter 1138, opening dream"
+    },
+    {
+      "confidence": 0.99,
+      "current": "five words unfamiliar to some: Nanman Beast Palace.",
+      "defect": "The displayed English name has three words, not five.",
+      "id": "C02",
+      "rationale": "Avoids a count that contradicts the reading copy without changing the established name.",
+      "replacement": "a name unfamiliar to some: Nanman Beast Palace.",
+      "severity": "minor",
+      "source": "Chapter 1139, arriving banners"
+    }
+  ],
+  "summary": "Two actionable English-copy defects: a stray non-English word and a word count that contradicts the displayed name.",
+  "version": 1
+}
