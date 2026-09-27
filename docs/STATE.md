@@ -1,28 +1,23 @@
 # Translation State
 
-- Last completed: 1062
-- Next chapter: 1063
-- Current block: 1060–1064 (3/5)
-- Latest translation: `translations/1062.md`
-- Latest summary: `summaries/beats/1062.md`
-- Safe profiles through: chapter 1062
+- Last completed: 1063
+- Next chapter: 1064
+- Current block: 1060–1064 (4/5)
+- Latest translation: `translations/1063.md`
+- Latest summary: `summaries/beats/1063.md`
+- Safe profiles through: chapter 1063
 
 ## Current Block
 
-- Taekyung concludes Great Sir is genuinely insane rather than a Dark Heaven spy and urges accepting him as an ally, though he cannot explain his conviction. After the victory in Gansu, Taekyung feels no joy; he completes the Path of Blood Quest and accepts a new chain Quest.
-- At the Taiqing Hall in Kunlun, the Blood Lord and Grand Mage argue over their recent failures. The Blood Lord boasts of his achievement and reveals the word “Kunlun” carved into his throne.
+- News of the victory in Gansu spreads across the realm, with the public exaggerating the number of Dark Heaven rebels killed or captured. Jin Taekyung is widely celebrated as the Blazing Flame Divine Dragon and Marquis of Shangshan, and the Emperor’s proclamation calls for the government and Murim to unite against Dark Heaven. While Taekyung and Hyuk Mujin travel, a falcon arrives carrying a bloodied missive.
 
 ## Open Questions
 
-- Who is Great Sir, and why does he believe himself to be the changing names displayed by the System?
-- What is the important item the Blood Lord retrieved, and what achievement is he boasting about?
-- Who is the person served by the Blood Lord and Grand Mage, and is that person connected to Asmodeus?
-- What are the details of the new chain Quest Taekyung accepted?
+- What does the bloodied missive from Qinghai say?
 
 ## Exceptional Decision
 
-- Render 말똥 as “Malttong,” glossed as “Horse Poop.”
-- Render 태청전 as “Taiqing Hall.”
+- None.
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
