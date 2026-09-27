@@ -1,0 +1,86 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He’d been out of his mind for ages, and now the System had stamped him with an official seal of approval. There was no room left for doubt.",
+      "defect": "The System certified him as a madman, not as generally approved or trustworthy.",
+      "id": "F01",
+      "rationale": "The certification explains why Taekyung stops trying to make sense of the Great Sir’s knowledge; it does not endorse him.",
+      "replacement": "He’d been out of his mind for ages, and now the System had officially certified him a Madman. There was no room left for doubt.",
+      "severity": "major",
+      "source": "시스템이 미친놈이라고 인증마크까지 박아 준 이상 의심의 여지도 없다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "would have to gather their Disciples from outside the main sect to reach those numbers.",
+      "defect": "The draft loses the distinction that these are lay Disciples.",
+      "id": "F02",
+      "rationale": "속가제자 specifies lay Disciples, not every Disciple based away from the main sect.",
+      "replacement": "would have to call in even their lay Disciples outside the main sect to reach those numbers.",
+      "severity": "minor",
+      "source": "본산에 속하지 않은 속가제자(俗家弟子)들까지 끌어모아야 가능한 숫자다."
+    },
+    {
+      "confidence": 0.9,
+      "current": "They were here to repay their debt, yes—but also driven by the desire for revenge against the darkness descending on this land.\n\nAnd that desire, in itself, was a light that could drive the darkness back.",
+      "defect": "The draft makes darkness the target of their revenge. The source says their desire for revenge would bring darkness to this land, while also calling it a light that would illuminate darkness.",
+      "id": "F03",
+      "rationale": "The source preserves a deliberate contrast between the darkness their revenge may bring and the light it represents.",
+      "replacement": "They had come to repay a debt, but they were also driven by a desire for revenge that would bring darkness to this land.\n\nAnd that desire was, in itself, a light that would illuminate the darkness.",
+      "severity": "critical",
+      "source": "그건 빚을 갚기 위함인 동시에 이 땅에 어둠을 가져올 복수심이었고.\n\n그 자체로 어둠을 밝힐 빛이었다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A faint tremor reached us from far away, belatedly followed by the eerie roar of something unknown, carried on the cold wind.",
+      "defect": "The draft puts the roar after the tremor. In the source, the tremor arrives belatedly and the cry comes with it.",
+      "id": "F04",
+      "rationale": "뒤늦게 modifies the arrival of the tremor; 함께 links the tremor and cry.",
+      "replacement": "A faint tremor finally reached us from far away. With it came the eerie cry of something unknown, carried to my ears on the desolate wind.",
+      "severity": "minor",
+      "source": "저 멀리에서부터 뒤늦게 전해진 미세한 진동과 함께, 알 수 없는 무언가의 괴성이 스산한 바람을 타고 귓가로 흘러들어왔다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Then, watching the enemies beyond the darkness who’d come out to meet us early, prepared to greet the uninvited guests who’d arrived at such an ungodly hour. I gave my first command in Qinghai.",
+      "defect": "The first sentence is a fragment, and its wording makes it unclear that the enemies have come out early to greet Taekyung’s group as unexpected visitors.",
+      "id": "F05",
+      "rationale": "The enemies are the early welcoming party; Taekyung’s group are the unexpected guests.",
+      "replacement": "I stared into the darkness at the enemies who had come out early to greet their unexpected visitors, then gave my first command in Qinghai.",
+      "severity": "major",
+      "source": "그리고 때아닌 불청객들을 맞이하기 위해 이른 마중을 나온 어둠 너머의 적들을 응시하며, 청해성에서의 첫 명령을 내렸다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Countless waves of steel rose all at once, casting a cold light across the darkness.\n\nAnd under that curtain of light, the enemies approaching us came into view.",
+      "defect": "The draft says the enemies approached under a curtain of light. They had been approaching under cover of darkness, which the steel’s glint now illuminates.",
+      "id": "F06",
+      "rationale": "그것 refers to the darkness just named; the second sentence completes what the gleam revealed.",
+      "replacement": "Countless waves of steel rose all at once, their cold gleam lighting up the darkness.\n\nAnd the enemies who had been approaching under its cover.",
+      "severity": "major",
+      "source": "동시에 몸을 일으킨 무수한 강철의 파도가, 서늘한 빛이 되어 어둠을 밝혔다.\n\n그것을 장막 삼아 다가오던 적들의 모습 역시도."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Oh, don’t get the wrong idea. He’s a different kind of sorcerer from some sharp-tongued woman.",
+      "defect": "The Blood Lord’s insulting 년 is softened to the neutral “woman.”",
+      "id": "F07",
+      "rationale": "The crude insult is part of his taunt toward the Grand Mage.",
+      "replacement": "Oh, don’t get the wrong idea. He’s a different kind of sorcerer from a certain sharp-tongued bitch.",
+      "severity": "minor",
+      "source": "아, 오해하지는 마. 어떤 앙칼진 년과는 다른 종류의 술사니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The Blood-Sword Demon Lord had been a bloodthirsty Killing Ghost, but the Blood Lord was even more unbearable.",
+      "defect": "Capitalizing “Killing Ghost” makes a descriptive insult look like the established sobriquet.",
+      "id": "F08",
+      "rationale": "Here 살귀 describes the Blood-Sword Demon Lord’s nature; the passage does not assign him a title.",
+      "replacement": "The Blood-Sword Demon Lord had been a bloodthirsty killer, but the Blood Lord was even more unbearable.",
+      "severity": "minor",
+      "source": "혈검마군(血劍魔君)도 피에 굶주린 살귀였지만, 그보다도 마음에 들지 않는 것이 바로 혈주였다."
+    }
+  ],
+  "summary": "The draft changes the meaning of the revenge passage, omits what the System certified about the Great Sir, and obscures how the approaching enemies used darkness.",
+  "version": 1
+}
