@@ -2484,3 +2484,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑귀 | **Black Ghost** | The Blood-Sword Demon Lord’s name for the Death Knights. |
 | 흑부괴마 | **Black Axe Fiend** | A great fiend believed to have died in the battle where the Wind-and-Cloud Sword Lord encountered him. |
 | 천궁지 | **Heavenly Vault Finger Qi** | Finger Qi technique of the Zhongnan Sect. |
+| 쇄겸 | **chain sickle** | Weapon carried by one of the Black Ghosts. |

@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "If I’d met the attack head-on, it would have cost me a considerable amount of strength just to stop it.",
+      "defect": "Changes an immediate counterattack into merely stopping the attack.",
+      "id": "F01",
+      "rationale": "맞받아치다 specifies striking back, not just blocking or stopping.",
+      "replacement": "If I’d counterattacked at once, even that would have cost me a considerable amount of strength.",
+      "severity": "major",
+      "source": "만약 곧바로 맞받아치는 것으로 대응했다면, 그것만으로도 분명 상당한 힘이 소모되었을 테니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A brilliant flash enveloped an area more than ten *jang* across.",
+      "defect": "Turns a radius of more than ten jang into a total width of more than ten jang.",
+      "id": "F02",
+      "rationale": "반경 explicitly means radius.",
+      "replacement": "A brilliant flash enveloped everything within a radius of more than ten *jang*.",
+      "severity": "major",
+      "source": "휘황한 섬광이 반경 십여 장을 감싸 안고"
+    },
+    {
+      "confidence": 0.91,
+      "current": "I didn’t miss the opening I hadn’t seen before—the one they’d exposed themselves.",
+      "defect": "Says Taekyung had failed to see the opening, although it had not existed visibly until the Black Ghosts exposed it by changing their attacks.",
+      "id": "F03",
+      "rationale": "보이지 않던 describes the opening; 스스로 드러낸 identifies the Black Ghosts’ action.",
+      "replacement": "I didn’t miss the opening that had been invisible until they exposed it themselves.",
+      "severity": "major",
+      "source": "보이지 않던 빈틈, 그러나 스스로 드러낸 그 빈틈을 나는 놓치지 않았다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "They would have known that the tiny mistake they made while trying to capture me would lead directly to their deaths.",
+      "defect": "Attributes the Black Ghosts’ present mistake to the Three Elders of Tianshan.",
+      "id": "F04",
+      "rationale": "The elders are a hypothetical comparison; the Black Ghosts are the ones who have just diverted their weapons.",
+      "replacement": "They would have known that making even a tiny mistake like this to capture me would lead straight to their deaths.",
+      "severity": "major",
+      "source": "나를 생포하기 위해 저지른 이 자그마한 실수가, 곧 그들의 죽음과 직결된다는 것을 알고 있었을 테니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "So I wasn’t the only monster standing here.",
+      "defect": "Reverses the comparison: Taekyung says the Black Ghosts are not the only monsters, not that he is not the only one.",
+      "id": "F05",
+      "rationale": "놈들뿐만이 아니다 negates the Black Ghosts’ exclusivity and introduces Taekyung as another monster.",
+      "replacement": "So the Black Ghosts weren’t the only monsters standing here.",
+      "severity": "critical",
+      "source": "그렇기에 지금 이 순간, 이 자리에 존재하는 괴물은 놈들뿐만이 아니다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "I tore off the hand still gripping its weapon",
+      "defect": "Changes the severed body part from the wrist to the hand.",
+      "id": "F06",
+      "rationale": "손목 is the wrist; the weapon remains held by that severed part.",
+      "replacement": "I tore off its wrist, weapon still gripped in its hand,",
+      "severity": "major",
+      "source": "병장기를 쥔 손목을 그대로 뽑아 버린 나는"
+    }
+  ],
+  "summary": "Several action details and one central comparison change the source meaning.",
+  "version": 1
+}
