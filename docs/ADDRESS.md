@@ -1556,3 +1556,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 무송 | 파륜 | disciple_to_master | Master | respectful, but frank and challenging | Mu Song addresses Pa Ryun as 스승님 while pleading with him to reconsider. |
 | 파륜 | 무송 | master_to_disciple | you | gruff and commanding | Pa Ryun addresses Mu Song as 네 녀석 while assigning him punishment. |
 | 청허자 | 적천강 | younger martial artist to senior martial artist | Senior | polite | Cheongheoja refers to Jeok Cheongang as 노 선배 while politely declining his offer. |
+| 진태경 | 혈주 | hostile_opponent_to_hostile_opponent | you; you son of a bitch | insulting-casual | Taekyung insults the Blood Lord while challenging his claim that he will kill him. |
