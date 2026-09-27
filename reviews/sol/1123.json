@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "That day in Gansu, when a battle like this one had raged, Sama Pyo had returned after seeing his father’s final moments and asked me that question.",
+      "defect": "“Seeing” loses that Sama Pyo stayed with his father through his final moments.",
+      "id": "F01",
+      "rationale": "아비의 최후를 지키고 describes remaining with his father at the end, not merely witnessing it.",
+      "replacement": "That day in Gansu, when a battle like this one had raged, Sama Pyo had returned from staying with his father through his final moments and asked me that question.",
+      "severity": "major",
+      "source": "오늘과 같은 혈전이 벌어졌던 감숙성에서의 그날, 아비의 최후를 지키고 되돌아온 사마표의 물음에 나는 망설임 없이 대답했었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even the moment she’d fussed that the moon was bright tonight, then fallen silent at the unexpected question.",
+      "defect": "The draft assigns Taekyung’s fussing and silence to the woman who asked the question.",
+      "id": "F02",
+      "rationale": "The narrator recalls his own response; the surrounding lines identify her question and his subsequent answer.",
+      "replacement": "Even when I made a pointless fuss about how bright the moon was that night, then fell silent at her unexpected question.",
+      "severity": "critical",
+      "source": "오늘따라 달이 밝다며 괜한 호들갑을 떨고, 예상치 못했던 물음에 침묵하던 때에도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "*“I’ll follow your orders. Captain. No—Captain.”*",
+      "defect": "Repeating “Captain” without a change loses Mujin’s self-correction to a more respectful address.",
+      "id": "F03",
+      "rationale": "조장님 adds deference to 조장; the correction is the point of the line.",
+      "replacement": "*“I’ll follow your orders. Captain—no, Captain, sir.”*",
+      "severity": "major",
+      "source": "‘명령에 따르겠소. 조장, 아니 조장님.’"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Dazzling flames swallowed the enemies whole.",
+      "defect": "Drops the established rendering of 광염.",
+      "id": "F04",
+      "rationale": "The supplied glossary binds 광염 to “light-flames.”",
+      "replacement": "Dazzling light-flames swallowed the enemies whole.",
+      "severity": "minor",
+      "source": "적들을 집어삼키는 눈부신 광염(光焰)."
+    },
+    {
+      "confidence": 0.91,
+      "current": "I stabbed, pulled, and twisted through everything that stood in my way.",
+      "defect": "“Pulled through” obscures the spear’s withdrawal and makes the sequence hard to picture.",
+      "id": "F05",
+      "rationale": "찌르고, 뽑고, 비틀었다 gives a sequence of stabbing, pulling out, and twisting.",
+      "replacement": "I stabbed through everything in my way, pulled my spear free, and twisted it.",
+      "severity": "minor",
+      "source": "나는 막아서는 모든 것을 찌르고, 뽑고, 비틀었다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "**Status Effect:** [Final Rally] has been applied.",
+      "defect": "The System notice retains square brackets around the effect name.",
+      "id": "F06",
+      "rationale": "The binding System-panel format prohibits enclosing UI terms in square brackets.",
+      "replacement": "**Status Effect:** Final Rally has been applied.",
+      "severity": "minor",
+      "source": "- 상태 이상, [회광반조]가 부여됩니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "[Final Rally] is an act of divine mercy, a testament to human will, and a candle by which you may reflect on the life you have lived. Though its flame burns only briefly, that instant of light will shine so brightly that even death may be forgotten.",
+      "defect": "The System notice retains square brackets around the effect name.",
+      "id": "F07",
+      "rationale": "The binding System-panel format prohibits enclosing UI terms in square brackets.",
+      "replacement": "Final Rally is an act of divine mercy, a testament to human will, and a candle by which you may reflect on the life you have lived. Though its flame burns only briefly, that instant of light will shine so brightly that even death may be forgotten.",
+      "severity": "minor",
+      "source": "- [회광반조]는 신의 자비이자 인간의 의지이며, 지나온 삶을 반추할 수 있는 촛불입니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "All pain you feel is greatly reduced for the duration of [Final Rally].",
+      "defect": "The System notice retains square brackets around the effect name.",
+      "id": "F08",
+      "rationale": "The binding System-panel format prohibits enclosing UI terms in square brackets.",
+      "replacement": "All pain you feel is greatly reduced for the duration of Final Rally.",
+      "severity": "minor",
+      "source": "- 상태 이상, [회광반조]의 지속 시간 동안 당신이 느끼는 모든 고통이 급감합니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "[Scorching Yang Qi] cradles your exhausted body and heals some of your Internal Injuries.",
+      "defect": "The System notice retains square brackets around the qi term.",
+      "id": "F09",
+      "rationale": "The binding System-panel format prohibits enclosing UI terms in square brackets.",
+      "replacement": "Scorching Yang Qi cradles your exhausted body and heals some of your Internal Injuries.",
+      "severity": "minor",
+      "source": "- [열양지기]가 당신의 지친 육신을 보듬고, 일부 내상을 치유합니다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "A sudden Quest, [A Candle in the Wind, or a Flame], has been generated!",
+      "defect": "The System notice retains square brackets around the Quest title.",
+      "id": "F10",
+      "rationale": "The binding System-panel format prohibits enclosing UI terms in square brackets.",
+      "replacement": "A sudden Quest, A Candle in the Wind, or a Flame, has been generated!",
+      "severity": "minor",
+      "source": "- 돌발 퀘스트, [바람 앞의 촛불, 혹은 불꽃]이 생성되었습니다!"
+    }
+  ],
+  "summary": "The draft changes who spoke in a key memory, loses Sama Pyo’s role at his father’s death, and flattens an honorific correction. Several System panels also retain brackets prohibited by the binding format.",
+  "version": 1
+}
