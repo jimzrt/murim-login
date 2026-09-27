@@ -1509,3 +1509,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 늙은 술사 | 대술사 | subordinate_to_superior | Grand Mage | formal and deferential | The old mage asks permission to speak and voices concern for his superior. |
 | 노호검객 | 풍운검군 | Senior Brother to Zhongnan Sect Leader and Junior Brother | Junior Brother, Sect Leader | blunt and commanding | Uses 장문 사제 while ordering him to give the retreat command. |
 | 태을무정검 | 풍운검군 | Senior Brother to Zhongnan Sect Leader and Junior Brother | Junior Brother, Sect Leader | serious and restrained | Uses 장문 사제 while telling him the sect’s losses will worsen if the battle continues. |
+| 대마도사 | 진태경 | adversary_to_adversary | you | polite, teasing | She uses polite phrasing while taunting him and warning him not to overexert himself. |
+| 진태경 | 대마도사 | adversary_to_adversary | you bitch | insulting-casual | He curses at her while refusing to give up. |
