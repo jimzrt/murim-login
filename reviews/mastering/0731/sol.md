@@ -56,13 +56,13 @@ Countless devoted followers of Cheon Taemin still called Ares Guild the best. Th
 
 Odin Guild, meanwhile, was the rising sun.
 
-Based in Europe, they had rapidly expanded their influence while Ares Guild was faltering. Along the way, they acquired and merged with several major Guilds, rising into a giant that no one could deny.
+Based in Europe, it had expanded rapidly while Ares faltered, acquiring and merging with several major Guilds along the way. It had become a giant no one could deny.
 
 A giant powerful enough to send a mere messenger to Ares Guild’s new master.
 
 “I’ve come today to convey the Guild Master’s congratulations.”
 
-At Huginn’s words, Team Leader Choi calmly opened his mouth.
+Team Leader Choi’s expression remained calm.
 
 “Is that so?”
 
@@ -92,7 +92,7 @@ The higher someone rose, the harder it became to get them out of their seat. Tha
 
 Most major Guild Masters limited their contact with the outside world. Odin’s Guild Master was no different.
 
-“Even so, he is someone I have always respected, so I would like to visit him and pay my respects. What do you think?”
+“I’ve always respected him, so I would like to pay him a visit and introduce myself. What do you think?”
 
 “Haha. Well…”
 
@@ -122,13 +122,13 @@ The troubled look on Huginn’s face made me let out a short laugh.
 
 “Mr. Crow, drop the half-assed acting. Let’s talk honestly.”
 
-*Hmm. Maybe I should have just kept watching.*
+*Hmm. Maybe I should’ve kept my mouth shut.*
 
 But listening to him felt like choking down a hundred sweet potatoes without a drop of dongchimi broth to wash them down.[^1] I couldn’t take it anymore.
 
 I leaned back into the plush sofa.
 
-“To put it bluntly, you came because of the Mana Cultivation Method that’s about to be released, right? Stop at a reasonable point. If you go any further, this won’t be fun. We can join hands with another major Guild like Chronos and bury you, so don’t get cocky. That’s what you wanted to say, isn’t it?”
+“Let’s be blunt. You’re here because the Mana Cultivation Method is about to go public. You want us to stop while we can, because if we take this any further, it won’t be fun. You and other major Guilds like Kronos can join forces and bury us, so we’d better not get cocky. That about cover it?”
 
 “……”
 
@@ -146,7 +146,7 @@ Team Leader Choi’s reply was calm.
 
 “Then may I ask to speak with you alone now?”
 
-“I refuse.”
+“No.”
 
 There wasn’t a moment’s hesitation in Team Leader Choi’s answer. Huginn blinked his golden eyes.
 
@@ -168,7 +168,7 @@ I’d thought the crow getup was just a gimmick, but apparently he hadn’t dres
 
 “……”
 
-“I already understand how you feel, so don’t stare at me like that. As I said earlier, let’s just have an honest conversation. Okay?”
+“I know what you want, so stop staring at me. Like I said, let’s talk honestly. Okay?”
 
 Huginn sighed and nodded.
 
@@ -178,11 +178,9 @@ Huginn sighed and nodded.
 
 Huginn’s monocle flashed beneath the office’s lighting Magic. The silence lasted only a moment before he spoke.
 
-The brief silence ended almost at once. After staring silently at Team Leader Choi and me, he opened his mouth.
-
 “Stop the release of the Mana Cultivation Method. If you refuse, there will be consequences.”
 
-It was a single sentence that fulfilled my request to get straight to the point one hundred percent—and made us feel even worse than I had expected.
+He had done exactly as I’d asked. Somehow, hearing it put so plainly felt even shittier than I’d expected.
 
 “Well, I figured that was coming, but… fuck, it’s unpleasant to hear. Don’t you think?”
 
@@ -200,27 +198,27 @@ Team Leader Choi let out a short laugh. Huginn’s eyes narrowed.
 
 “You are every bit as rude as I was told.”
 
-“You’re being pretty damn unpleasant too. I’d never heard of you, much less seen you.”
+“And you’re every bit as unpleasant as I’d expect from someone I’ve never heard of.”
 
 “Do you intend to make a show of force here?”
 
 “If I have to. Once you take off that monocle.”
 
-“Listen, Mr. Jin.”
+“……Mr. Jin.”
 
 “Yes, hello? Go ahead.”
 
 “Do not lose your temper. This is merely a proposal.”
 
-“Your mouth may be crooked, but you should still speak straight. To my ears, that sounds like a threat, not a proposal.”
+“Call it what it is. Sounds like a threat to me.”
 
 “If you choose to hear it as a threat, it may well become one. But your opinion is not what matters to me.”
 
-Huginn answered firmly, then turned toward Team Leader Choi.
+Huginn turned to Team Leader Choi.
 
 “What will you do, Mr. Choi?”
 
-His golden eyes gleamed coldly. A voice filled with force slipped between Huginn’s lips.
+His golden eyes gleamed coldly. His next words carried weight.
 
 “Make the choice yourself.”
 
@@ -258,7 +256,7 @@ Huginn rose and added, “As will the others.”
 
 “I hope so,” Choi Minwoo said.
 
-“They are reasonable people. From now on, we should be able to establish a good relationship in a more amicable atmosphere.”
+“They are reasonable people. I’m sure we can build a good relationship in a more amicable atmosphere from now on.”
 
 With that pointed remark, Huginn looked at Jin Taekyung.
 
@@ -282,7 +280,7 @@ His business here was done. Huginn gave Choi Minwoo a polite nod, turned, and he
 
 Step. Step.
 
-His light footsteps crossed the carpet. But Huginn was forced to stop in front of the door.
+His footsteps were light on the carpet. At the door, he stopped.
 
 He couldn’t ignore what Jin had just said.
 
@@ -298,13 +296,13 @@ Jin blinked.
 
 “Yeah. It’s nothing important. You should get going—you look busy.”
 
-Uploading. Uploading. Uploading.
+*Uploading. Uploading. Uploading.*
 
 The word throbbed in Huginn’s ears in time with his heartbeat.
 
 “What. Exactly. Did you. Upload?”
 
-And the answer to his clipped question came not from Jin Taekyung, but from Choi Minwoo.
+It was Choi Minwoo, not Jin Taekyung, who answered.
 
 “Didn’t I tell you? I changed my mind.”
 

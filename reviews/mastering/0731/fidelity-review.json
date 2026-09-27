@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "his eyes, visible through a clear monocle, were a mysterious gold.",
+      "defect": "The source describes golden-colored eyes, not eyes that emit light. “Glowed” adds a physical detail.",
+      "id": "F01",
+      "rationale": "The Korean says the eyes were a mysterious golden color; it does not say they glowed.",
+      "replacement": "his eyes, visible through a clear monocle, were a mysterious golden color.",
+      "severity": "minor",
+      "source": "Line 17"
+    },
+    {
+      "confidence": 0.99,
+      "current": "We can join hands with another major Guild like Chronos and bury you, so don’t get cocky.",
+      "defect": "The Guild name uses “Chronos,” but the binding glossary spelling for 크로노스 is “Kronos.”",
+      "id": "F03",
+      "rationale": "The source names 크로노스, whose exact glossary match is Kronos.",
+      "replacement": "We can join hands with another major Guild like Kronos and bury you, so don’t get cocky.",
+      "severity": "minor",
+      "source": "Line 151"
+    },
+    {
+      "confidence": 0.93,
+      "current": "You’re in a hurry. It hasn’t even finished uploading.",
+      "defect": "“You’re in a hurry” suggests urgency to leave; the Korean calls him impatient. That weakens the joke that the upload is not even finished yet.",
+      "id": "F04",
+      "rationale": "성질도 급하시네 means that he is impatient, not merely in a hurry.",
+      "replacement": "You’re impatient. It hasn’t even finished uploading.",
+      "severity": "minor",
+      "source": "Line 321"
+    }
+  ],
+  "summary": "The chapter is mostly faithful. The assembled copy adds a glow to Huginn’s eyes, duplicates a silence beat, uses a nonpreferred spelling for Kronos, and softens Taekyung’s remark about impatience.",
+  "version": 1
+}
