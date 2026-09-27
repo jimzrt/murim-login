@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Morgoth understood that all too well. It could only fascinate and astonish him.",
+      "defect": "“Understood that” makes Morgoth seem to understand why people sacrifice themselves for friends, contradicting the preceding sentence.",
+      "id": "F01",
+      "rationale": "He knows that people make those choices but cannot understand their reasons.",
+      "replacement": "Morgoth knew all too well that they did such things. Why they did so remained a source of fascination and astonishment to him.",
+      "severity": "major",
+      "source": "그 사실을 너무나도 잘 알고 있는 모르고스로서는 그저 흥미롭고 놀라울 따름이었다"
+    },
+    {
+      "confidence": 0.91,
+      "current": "swallowed and erased by the distant roar",
+      "defect": "“Distant” makes the roar sound far away rather than overwhelming the screams.",
+      "id": "F02",
+      "rationale": "The screams are lost beneath the immense noise of the collision.",
+      "replacement": "swallowed and erased by the deafening roar",
+      "severity": "minor",
+      "source": "아득한 굉음에 파묻혀 지워졌다"
+    },
+    {
+      "confidence": 0.98,
+      "current": "Ash drifted down over his slender frame.",
+      "defect": "The ash moves down Morgoth’s body, not down onto it.",
+      "id": "F03",
+      "rationale": "신형을 타고 흘러내리는 describes ash running along his figure.",
+      "replacement": "Ash slid down his slender frame.",
+      "severity": "minor",
+      "source": "호리호리한 신형을 타고 흘러내리는 잿가루."
+    },
+    {
+      "confidence": 0.87,
+      "current": "“Yeah. A damn arrogant, thoroughly treacherous human. But…”",
+      "defect": "“Treacherous” implies betrayal that 간악 does not specify.",
+      "id": "F04",
+      "rationale": "간악 characterizes him as wicked or devious without alleging that he betrayed anyone.",
+      "replacement": "“Yeah. An arrogant, downright devious human. But…”",
+      "severity": "minor",
+      "source": "그래. 아주 시건방지고, 간악하기 짝이 없는 인간이지. 하지만……."
+    }
+  ],
+  "summary": "One contradiction in Morgoth’s understanding of friendship, plus three localized fidelity issues.",
+  "version": 1
+}
