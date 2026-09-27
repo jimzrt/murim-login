@@ -22,13 +22,13 @@ But before long, the people hurrying home had no choice but to stop in their tra
 
 A single sentence rang out from the massive screen at the heart of an ordinary commercial district.
 
-“On a day like today, it is both my pleasure and my honor to bring you this news.”
+—On a day like today, it is both my pleasure and my honor to bring you this news.
 
 An elderly East Asian man appeared on the screen.
 
 Behind him sat the leaders of the nations on the United Nations Security Council. The Chairman of the People’s Republic of China addressed the countless microphones, his eyes red and his voice thick with emotion.
 
-“The Arch Lich has been erased. We… have won.”
+—The Arch Lich has been erased. We… have won.
 
 Victory.
 
@@ -50,7 +50,7 @@ Then they erupted into thunderous cheers.
 
 “The subtitles! Look at the subtitles!”
 
-“‘The Arch Lich has been erased’… Oh, shit, it’s true! Waaaaaaah! I thought I was going to get called up for reserve duty[^1]!”
+“‘The Arch Lich has been erased’… Oh, shit, it’s true! Waaaaaaah! I thought I was going to get called up for reserve duty!”
 
 They heard neither Chairman Xiao Yang’s thirty-minute announcement nor the additional explanation given afterward by the spokesperson for the United Nations Security Council.
 
@@ -66,7 +66,7 @@ With the Arch Lich erased, its countless undead legions had lost their power and
 
 “Ugh, I don’t want to see that bastard’s face. Fine. Let’s go.”
 
-“Unity![^2] Yes, Battalion Commander. This is Captain Lee Junbeom. Could I extend my leave by just one more day—? No, sir. I’m sorry, sir.”
+“Unity! Yes, Battalion Commander. This is Captain Lee Junbeom. Could I extend my leave by just one more day—? No, sir. I’m sorry, sir.”
 
 People who had been going back and forth outside while desperately ignoring their unease ran to the bars amid the cheers. Even those who had stayed home, anticipating a second Great Cataclysm, poured into the streets and joined the festive atmosphere.
 
@@ -86,13 +86,13 @@ And… there was one name that appeared without fail in every one of those artic
 
 [Asahi Shimbun, Japan: “Jin Taekyung Is Asia’s Pride. But Japan’s First-String Hunters Could Surpass Him!”]
 
-[People’s Daily, China: “The Young Korean Knight-Errant Who Saved Countless People. And the Tragic Death of Zhonghua’s[^3] Genius, Wu Heixing.”]
+[People’s Daily, China: “The Young Korean Knight-Errant Who Saved Countless People. And the Tragic Death of Zhonghua’s Genius, Wu Heixing.”]
 
-[China Youth News: “Jin Taekyung Is a Descendant of Chen Lin, a Ming Dynasty General. The Blood of Zhonghua[^3] Unmistakably Flows Through Him, and He Will Surely Become a Chinese Citizen Before Long.”]
+[China Youth News: “Jin Taekyung Is a Descendant of Chen Lin, a Ming Dynasty General. The Blood of Zhonghua Unmistakably Flows Through Him, and He Will Surely Become a Chinese Citizen Before Long.”]
 
 [Goryeo Daily, Korea: “Ares Guild Vice Guild Master, Hunter Lee Jungryong, Age 68. Presumed Dead…”]
 
-[Das Patch[^4] Korea official: “We have devoted every effort to investigating Jin Taekyung for several months, but we could not uncover a single thing. His romantic history is astonishingly clean.” When a reporter asked whether that meant he had dated many women but parted with each of them amicably, the official cut him off: “No. I mean he’s never dated anyone in his life.”]
+[Das Patch Korea official: “We have devoted every effort to investigating Jin Taekyung for several months, but we could not uncover a single thing. His romantic history is astonishingly clean.” When a reporter asked whether that meant he had dated many women but parted with each of them amicably, the official cut him off: “No. I mean he’s never dated anyone in his life.”]
 
 To the various media outlets, Jin Taekyung was nothing short of a Christmas present.
 
@@ -146,7 +146,7 @@ Chairman Xiao Yang sighed.
 
 The two people he had mentioned were at the very top of their respective fields of medicine.
 
-One was a civilian physician known as the reincarnation of Hua Tuo,[^5] while the other was one of the world’s foremost healers.
+One was a civilian physician known as the reincarnation of Hua Tuo, while the other was one of the world’s foremost healers.
 
 If the two of them, invited to serve as Jin Taekyung’s temporary attending physicians, had reached the same conclusion, there could be no doubt.
 
@@ -186,7 +186,7 @@ A debt of gratitude had a way of returning as an even greater gift.
 
 “Do you mean inside the country or outside it?”
 
-“Inside. The leadership of the Communist Party—or, more precisely, the Crown Prince Party.[^6]”
+“Inside. The leadership of the Communist Party—or, more precisely, the Crown Prince Party.”
 
 Chairman Xiao Yang nodded.
 
@@ -216,11 +216,11 @@ It was a good response, but it was not enough.
 
 Choi Minwoo continued slowly.
 
-“The leader of the Crown Prince Party[^6] doesn’t seem to share your view, Chairman.”
+“The leader of the Crown Prince Party doesn’t seem to share your view, Chairman.”
 
 It was a conspiracy theory condemned even within China as an embarrassment to the nation. But to a father who had lost his son, it sounded entirely plausible.
 
-Wu Heixing’s father was the head of the Crown Prince Party,[^6] which constituted half of the Chinese Communist Party.
+Wu Heixing’s father was the head of the Crown Prince Party, which constituted half of the Chinese Communist Party.
 
 A political giant comparable to the Chairman himself, he had begun spreading the rumors in earnest. He had even formed an independent investigation team to dig into the matter.
 
@@ -250,7 +250,7 @@ As Chairman Xiao Yang suddenly recalled Choi Minwoo’s personal information, he
 
 The Arch Lich was not the only one brought down by this war.
 
-Corruption and embezzlement involving astronomical sums had been exposed, and dealing with the fallout would force the Crown Prince Party[^6] to tear out its own foundations.
+Corruption and embezzlement involving astronomical sums had been exposed, and dealing with the fallout would force the Crown Prince Party to tear out its own foundations.
 
 Only then did a faint smile appear on Choi Minwoo’s lips.
 
@@ -267,10 +267,3 @@ A short while later, after exchanging a few more words, Chairman Xiao Yang left 
 And then one person’s eyes snapped open.
 
 “Oh, fuck. I thought I was going to die from how stifling this was.”
-
-[^1]: South Korea requires many people who have completed military service to attend periodic reserve training. The speaker feared being called up during the crisis.
-[^2]: “Unity” translates *dan-gyeol*, a military salute used when addressing a superior.
-[^3]: *Zhonghua* is a patriotic term for China and Chinese civilization.
-[^4]: Das Patch alludes to Dispatch, a South Korean entertainment-news outlet known for reporting on celebrities’ private lives.
-[^5]: Hua Tuo was an ancient Chinese physician celebrated for his medical skill.
-[^6]: The Crown Prince Party refers to a faction of Chinese political elites associated with the descendants of senior Communist Party figures, not a royal party.
