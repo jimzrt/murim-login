@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Following Jin Taekyung’s gaze, Morgoth instinctively raised his head.",
+      "defect": "Morgoth follows Jin’s pointing finger, not his gaze.",
+      "id": "F01",
+      "rationale": "손끝 specifies the direction indicated by Jin’s fingertip.",
+      "replacement": "Following the direction Jin Taekyung was pointing, Morgoth instinctively raised his head.",
+      "severity": "minor",
+      "source": "그 순간, 진태경이 손끝을 따라 본능적으로 고개를 든 모르고스는"
+    },
+    {
+      "confidence": 0.94,
+      "current": "The Skeleton King had thrown his life away and unleashed a tremendous explosion of power. That was what had created the situation before them.",
+      "defect": "“Thrown his life away” presents the Skeleton King as dead, though the passage establishes his willingness to face Erasure rather than confirming his death.",
+      "id": "F02",
+      "rationale": "목숨을 내던져 conveys the mortal risk he took; the source does not establish that he died.",
+      "replacement": "The Skeleton King had risked his life to unleash a tremendous explosion of power. That was what had created the situation before them.",
+      "severity": "critical",
+      "source": "스켈레톤 킹이 목숨을 내던져 일으킨 그 거대한 힘의 폭발이, 지금의 이 상황을 만들어 낸 것이다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "A Warp on this scale, followed by long-range Magic.",
+      "defect": "대범위 describes the spell’s area of effect, not its range; “followed by” also adds a sequence to Morgoth’s assessment.",
+      "id": "F03",
+      "rationale": "Morgoth appraises the scale of the Warp and the breadth of the Magic.",
+      "replacement": "A Warp on this scale, and wide-area Magic.",
+      "severity": "major",
+      "source": "이 정도 규모의 워프(Warp)와 대범위 마법이라"
+    },
+    {
+      "confidence": 0.97,
+      "current": "So why waste time running their mouths and making mistakes?",
+      "defect": "The draft drops the wasteful actions and replaces exposed openings with generic mistakes.",
+      "id": "F04",
+      "rationale": "말과 행동 and 빈틈을 보인 specify both their conduct and the opening it created.",
+      "replacement": "So why waste time on pointless words and actions, leaving themselves open?",
+      "severity": "minor",
+      "source": "쓸데없는 말과 행동으로 시간을 낭비하고 빈틈을 보인 걸까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "In the hearts of those who had crossed tens of thousands, then hundreds of thousands of kilometers over and over to answer his call.",
+      "defect": "Both distance bands are inflated tenfold.",
+      "id": "F05",
+      "rationale": "수천, 수만 means thousands and tens of thousands, not tens and hundreds of thousands.",
+      "replacement": "In the hearts of those who had crossed thousands, then tens of thousands of kilometers, time and again, to answer his call.",
+      "severity": "critical",
+      "source": "수천, 수만 킬로미터의 거리를 몇 번이고 뛰어넘어 부름에 답한 그들의 마음으로."
+    }
+  ],
+  "summary": "Action, mechanism, and distance errors; one line implies the Skeleton King died.",
+  "version": 1
+}

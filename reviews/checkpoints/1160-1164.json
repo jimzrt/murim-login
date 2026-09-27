@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "raised the [Hero’s Sword] at an angle",
+      "defect": "Square brackets enclose an item name outside a System panel.",
+      "id": "C01",
+      "rationale": "The binding format does not use square brackets for UI terms.",
+      "replacement": "raised the Hero’s Sword at an angle",
+      "severity": "minor",
+      "source": "Chapter 1160, Skeleton King’s final strike"
+    },
+    {
+      "confidence": 0.98,
+      "current": "yanked the [Hero’s Sword] free",
+      "defect": "The same item name retains square brackets.",
+      "id": "C02",
+      "rationale": "Removing them keeps the item’s presentation consistent across both chapters.",
+      "replacement": "yanked the Hero’s Sword free",
+      "severity": "minor",
+      "source": "Chapter 1161, Morgoth retrieves the sword"
+    },
+    {
+      "confidence": 0.93,
+      "current": "KABOOOOOM!",
+      "defect": "The sound effect is plain text, unlike the italicized effects in the surrounding chapters.",
+      "id": "C03",
+      "rationale": "Restores the packet’s sound-effect formatting without changing the prose.",
+      "replacement": "*KABOOOOOM!*",
+      "severity": "minor",
+      "source": "Chapter 1161, opening explosion"
+    },
+    {
+      "confidence": 0.93,
+      "current": "RUMBLE, RUMBLE—!",
+      "defect": "The sound effect is plain text.",
+      "id": "C04",
+      "rationale": "Matches the italicized sound effects elsewhere in the reading copies.",
+      "replacement": "*RUMBLE, RUMBLE—!*",
+      "severity": "minor",
+      "source": "Chapter 1161, spreading shock wave"
+    },
+    {
+      "confidence": 0.93,
+      "current": "CRASH! CRASH-CRASH-CRASH!",
+      "defect": "The sound-effect line is plain text.",
+      "id": "C05",
+      "rationale": "Matches the packet’s sound-effect formatting.",
+      "replacement": "*CRASH! CRASH-CRASH-CRASH!*",
+      "severity": "minor",
+      "source": "Chapter 1161, falling castle fragments"
+    },
+    {
+      "confidence": 0.93,
+      "current": "CRUNCH! CRACK!",
+      "defect": "The sound-effect line is plain text.",
+      "id": "C06",
+      "rationale": "Matches the packet’s sound-effect formatting.",
+      "replacement": "*CRUNCH! CRACK!*",
+      "severity": "minor",
+      "source": "Chapter 1161, monsters struck by debris"
+    }
+  ],
+  "summary": "Continuity and terminology are consistent across the packet. Two item-name brackets and four unitalicized sound effects depart from the reading-copy format.",
+  "version": 1
+}
