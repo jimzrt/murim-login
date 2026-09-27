@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But just as Morgoth had said earlier, the moment I faced him, I understood with absolute clarity.",
+      "defect": "Changes Morgoth’s earlier realization into something he said.",
+      "id": "F01",
+      "rationale": "그랬듯 refers to Morgoth also realizing something upon their encounter, not to his speech.",
+      "replacement": "But just as Morgoth had, I understood with absolute clarity the moment I faced him.",
+      "severity": "major",
+      "source": "하지만 앞서 모르고스가 그랬듯, 나 역시 놈을 마주한 그 순간 명확하게 깨달았다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "> “Hey, Warlord.”",
+      "defect": "Drops Mon from Taekyung’s mocking form of address.",
+      "id": "F02",
+      "rationale": "The source says 워로드 몬, not simply 워로드.",
+      "replacement": "> “Hey, Warlord Mon.”",
+      "severity": "minor",
+      "source": "‘야. 워로드 몬.’"
+    },
+    {
+      "confidence": 0.97,
+      "current": "The spearhead of white flame the Arch Lich had fired at me as I lay too exhausted and injured to move.",
+      "defect": "Renders the named spear White Flame as a material made of flame.",
+      "id": "F03",
+      "rationale": "백염 is the established name White Flame; 창날 is its spearhead.",
+      "replacement": "The spearhead of White Flame, which the Arch Lich had sent flying at me when I was too exhausted and injured to move.",
+      "severity": "major",
+      "source": "움직일 수 없을 만큼 지치고 다친 내게 아크 리치가 쏘아 보낸 백염의 창날이."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The voice I’d thought was the last I’d ever hear.",
+      "defect": "Implies Taekyung expected this to be the last voice he would hear before dying.",
+      "id": "F04",
+      "rationale": "He believed he had heard the Skeleton King’s voice for the last time.",
+      "replacement": "The voice I’d thought I would never hear again.",
+      "severity": "major",
+      "source": "마지막인 줄만 알았던 그 목소리가."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Then, on human land, a new being who’d sacrificed himself to protect humans rose once more, crowned in light.",
+      "defect": "Replaces the shining crown with light as the substance of the crown.",
+      "id": "F05",
+      "rationale": "빛나는 왕관 is a crown that shines, not a crown made of light.",
+      "replacement": "Then, on human land, a new being who’d sacrificed himself to protect humans rose once more with a shining crown.",
+      "severity": "minor",
+      "source": "인간들의 땅 위에서, 인간을 지키기 위해 희생한 새로운 존재가 빛나는 왕관과 함께 다시 일어났다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The warped space opened its jaws, and beyond the gap, where only darkness rippled, beings never seen before emerged.",
+      "defect": "Says the beings had never been seen, although the source only says they had not appeared until now; Taekyung immediately recalls seeing their kind before.",
+      "id": "F06",
+      "rationale": "지금껏 드러나지 않았던 describes their absence from this encounter, not their being unknown to everyone.",
+      "replacement": "The warped space opened its jaws, and beyond the gap, where only darkness rippled, beings that had remained hidden until now emerged.",
+      "severity": "major",
+      "source": "어둠만이 일렁이는 그 틈새 너머로 지금껏 드러나지 않았던 존재들이 모습을 나타냈다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "There were hundreds, then thousands of them. They resembled one another like twins born of the same womb,",
+      "defect": "Makes the count grow from hundreds to thousands during the scene.",
+      "id": "F07",
+      "rationale": "수백을 넘어 수천에 달하는 gives their quantity—more than hundreds, reaching thousands—not a sequence of arrivals.",
+      "replacement": "They numbered in the thousands and resembled one another like twins born of the same womb,",
+      "severity": "major",
+      "source": "수백을 넘어 수천에 달하는 그들은 마치 같은 배에서 태어난 쌍둥이처럼 서로를 닮아 있었고,"
+    }
+  ],
+  "summary": "The draft changes Morgoth’s reasoning, loses a named weapon and nickname, and misstates several details in Taekyung’s memories and the soldiers’ arrival.",
+  "version": 1
+}
