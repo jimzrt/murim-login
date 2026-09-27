@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""Exclusive locks for translation, mastering, and Git commits.
+"""Exclusive locks for translation, mastering, final touches, and Git commits.
 
-Kernel flocks on `.work/run.lock`, `.work/master.lock`, and `.work/commit.lock`
-are the mutexes. Each file's JSON is only a status record (pid, holder, chapter,
-stage). Nested `run_until` → `run_next` → `workflow.py` processes join the
-matching holder instead of taking a second lock. A dead process releases the
-flock even if the JSON file remains.
+Kernel flocks on `.work/run.lock`, `.work/master.lock`, `.work/final.lock`, and
+`.work/commit.lock` are the mutexes. Each file's JSON is only a status record
+(pid, holder, chapter, stage). Nested `run_until` → `run_next` → `workflow.py`
+processes join the matching holder instead of taking a second lock. A dead
+process releases the flock even if the JSON file remains.
 
-Translation and mastering may overlap. Git commits take `commit.lock` and wait.
+Translation, mastering, and final touches may overlap. Git commits take
+`commit.lock` and wait.
 """
 
 from __future__ import annotations
@@ -22,14 +23,17 @@ from typing import Iterator
 
 LOCK_ENV = "MURIM_RUN_LOCK"
 MASTER_LOCK_ENV = "MURIM_MASTER_LOCK"
+FINAL_LOCK_ENV = "MURIM_FINAL_LOCK"
 COMMIT_LOCK_ENV = "MURIM_COMMIT_LOCK"
 LOCK_NAME = "run.lock"
 MASTER_LOCK_NAME = "master.lock"
+FINAL_LOCK_NAME = "final.lock"
 COMMIT_LOCK_NAME = "commit.lock"
 IDENTITY_KEYS = ("pid", "holder", "started")
 LOCK_LABELS = {
     LOCK_NAME: "translation",
     MASTER_LOCK_NAME: "mastering",
+    FINAL_LOCK_NAME: "final touches",
     COMMIT_LOCK_NAME: "git commit",
 }
 
@@ -39,6 +43,8 @@ def lock_env_name(name: str) -> str:
         return LOCK_ENV
     if name == MASTER_LOCK_NAME:
         return MASTER_LOCK_ENV
+    if name == FINAL_LOCK_NAME:
+        return FINAL_LOCK_ENV
     if name == COMMIT_LOCK_NAME:
         return COMMIT_LOCK_ENV
     return f"MURIM_LOCK_{name.replace('.', '_').upper()}"
@@ -318,6 +324,21 @@ def hold_master_lock(
 
 
 @contextmanager
+def hold_final_lock(
+    root: Path,
+    *,
+    holder: str,
+    chapter: int | None = None,
+    stage: str | None = None,
+    until: int | None = None,
+) -> Iterator[RunLock]:
+    with hold_named_lock(
+        root, holder=holder, name=FINAL_LOCK_NAME, chapter=chapter, stage=stage, until=until
+    ) as lock:
+        yield lock
+
+
+@contextmanager
 def hold_commit_lock(
     root: Path,
     *,
@@ -346,7 +367,8 @@ def hold_audit_locks(
 ) -> Iterator[tuple[RunLock, RunLock]]:
     with hold_run_lock(root, holder=holder, chapter=chapter, stage=stage) as run:
         with hold_master_lock(root, holder=holder, chapter=chapter, stage=stage) as master:
-            yield run, master
+            with hold_final_lock(root, holder=holder, chapter=chapter, stage=stage):
+                yield run, master
 
 
 def main() -> int:
@@ -355,6 +377,7 @@ def main() -> int:
     for name, label in (
         (LOCK_NAME, "Run lock"),
         (MASTER_LOCK_NAME, "Master lock"),
+        (FINAL_LOCK_NAME, "Final lock"),
         (COMMIT_LOCK_NAME, "Commit lock"),
     ):
         path = lock_path(root, name)

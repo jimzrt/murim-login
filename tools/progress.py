@@ -38,6 +38,7 @@ STAGE_NOTES = {
     "verify": "Final deterministic QA after mastery",
     "retry": "Bounded mastering retry after QA failure",
     "promote": "Overwrite translations/ with the verified mastered copy",
+    "final": "Footnotes, format, and source repairs on one mastered chapter",
     "commit": "Checkpoint chapter artifacts in Git",
 }
 

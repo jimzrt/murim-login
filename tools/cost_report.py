@@ -199,6 +199,13 @@ def load_chapter_stages(root: Path) -> dict[str, dict]:
             continue
         data = json.loads(path.read_text(encoding="utf-8"))
         merge_stage_map(existing, data.get("stages", {}))
+    final_dir = root / "reviews" / "final"
+    if final_dir.is_dir():
+        for path in sorted(final_dir.glob("[0-9][0-9][0-9][0-9]/metrics.json")):
+            chapter = str(int(path.parent.name))
+            existing = chapters.setdefault(chapter, {})
+            data = json.loads(path.read_text(encoding="utf-8"))
+            merge_stage_map(existing, data.get("stages", {}))
     return chapters
 
 

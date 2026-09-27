@@ -13,10 +13,14 @@ Mastering roles live in `models` in [`docs/mastering.json`](mastering.json):
 - `adjudicator`
 - `quality_gate` — an independent whole-chapter semantic gate run after assembly
 
+The final-touches role lives in `models` in [`docs/final.json`](final.json):
+
+- `final` — footnotes, measurement and currency conversions, cultural notes, and format repair on one mastered chapter
+
 Do not copy those IDs into docs or defaults elsewhere. Call sites read the
 resolved `draft_model`, `review_model`, `summary_model`, and `checkpoint_model`
-keys from `project_config()`, and mastering selectors from
-`docs/mastering.json`.
+keys from `project_config()`, mastering selectors from `docs/mastering.json`,
+and the final-touches selector from `docs/final.json`.
 
 Ordered provider fallbacks for the translation and mastering selectors are in
 [`.omp/config.yml`](../.omp/config.yml). OpenAI models prefer the Codex
