@@ -1,20 +1,19 @@
 # Translation State
 
-- Last completed: 1100
-- Next chapter: 1101
-- Current block: 1100–1104 (1/5)
-- Latest translation: `translations/1100.md`
-- Latest summary: `summaries/beats/1100.md`
-- Safe profiles through: chapter 1100
+- Last completed: 1101
+- Next chapter: 1102
+- Current block: 1100–1104 (2/5)
+- Latest translation: `translations/1101.md`
+- Latest summary: `summaries/beats/1101.md`
+- Safe profiles through: chapter 1101
 
 ## Current Block
 
-- Dark Heaven and the Potala Palace begin their assault on Xining with ice spikes, arrows, and huge water spheres, but the defenders’ preparations and the intervention of Jeok Cheongang, the Slaughter Saint, the Bow Saint, and other Supreme Peak masters repel the attacks. The defenders rally around the legends protecting them. Then the hulking monsters charge and crash into the city wall.
-- The Blood Lord privately wants Jin Taekyung dead, but hides that desire from the Grand Mage, uncertain how she would react and unwilling to defy that person’s will.
+- As Dark Heaven’s monsters begin battering Xining’s walls, Jin Taekyung orders boiling oil poured onto the attackers, then launches White Flame into the oil-soaked enemy ranks. He descends into the vanguard and fights with summoned weapons, wiping out at least a thousand enemies, including the monsters and Dark Heaven followers who took Temporary Strength Pills. The System announces that the One Against a Hundred and One Against a Thousand titles have activated, Intimidation has risen, Fear has lifted from some allies, and allied morale has increased. A hundred-thousand-strong Dark Heaven main force advances; the fallen giants have piled up to the middle of the wall.
 
 ## Open Questions
 
-- Will Xining’s wall hold after the monsters’ impact, and how will the battle develop?
+- Can Xining’s walls withstand Dark Heaven’s advancing main force and the piled-up giants?
 - Why does the Lord of Heaven want Taekyung, and what does he intend to do with him?
 - Whom do the Eldest Senior Brother and Elders serve, and what was Mu Song about to reveal?
 - Who were the new allies gathering near the river?
