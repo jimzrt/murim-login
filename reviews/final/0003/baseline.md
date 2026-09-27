@@ -29,7 +29,7 @@ I continued hurling curses as I recalled the warnings.
 
 In short, it was simple.
 
-I was playing a martial-arts game called *Murim*[^1], but I couldn’t log out whenever I wanted—and if my character died, so would I.
+I was playing a martial-arts game called *Murim*, but I couldn’t log out whenever I wanted—and if my character died, so would I.
 
 Ha. Ha. Ha.
 
@@ -45,7 +45,7 @@ If “the player cannot log out at will” was the wording, that implied logging
 
 *For example, completing a quest or leveling up.*
 
-That was the answer I’d arrived at because this place, *Murim*[^1], was a game.
+That was the answer I’d arrived at because this place, *Murim*, was a game.
 
 Games rewarded you whenever you completed a quest or leveled up. Completing Tutorial—Stage 1 had already proved that much.
 
@@ -65,7 +65,7 @@ It was a carriage to take Jin Taekyung of the Jin Family of Taiyuan home—not F
 
 * * *
 
-The four-horse carriage Wolhwa—or rather, Honghwaru[^2]—had provided was large and extravagant.
+The four-horse carriage Wolhwa—or rather, Honghwaru—had provided was large and extravagant.
 
 The coachman kept to himself and never said a word to me. That was fine by me.
 
@@ -93,7 +93,7 @@ Ding.
 >
 > You have familiarized yourself with the basic information and situation.
 >
-> But Murim[^1] is an unpredictable place. From this point on, use the only power unique to you: the System.
+> But Murim is an unpredictable place. From this point on, use the only power unique to you: the System.
 >
 > **Grade:** Tutorial (Chain Quest)
 >
@@ -145,7 +145,7 @@ I thought back to the online games I’d played once in a blue moon.
 
 I blinked. I felt completely blindsided.
 
-The Jin Family of Taiyuan was a major power in the area. And this guy was even from one of Murim’s[^1] great families…but he was only Level 10, a third-rate martial artist?
+The Jin Family of Taiyuan was a major power in the area. And this guy was even from one of Murim’s great families…but he was only Level 10, a third-rate martial artist?
 
 *Is this for real?*
 
@@ -211,7 +211,7 @@ Fortunately, I was a professional Hunter with seven years of experience, and I k
 
 *Thirty points each into Strength and Stamina. Forty into Agility.*
 
-I’d reached that decision after careful thought. That gave me decent strength and stamina, along with excellent evasiveness. It was also the fighting style I’d grown accustomed to over the past seven years.
+That gave me decent strength and stamina, along with excellent evasiveness. It was also the fighting style I’d grown accustomed to over the past seven years.
 
 > **System**
 >
@@ -317,7 +317,7 @@ The reason was simple.
 
 *I’ll have a better chance of surviving if I choose what I’m already familiar with.*
 
-In the real world, I was an F-rank Hunter. In Murim[^1] terms, I was a third-rate martial artist, or maybe even worse.
+In the real world, I was an F-rank Hunter. In Murim terms, I was a third-rate martial artist, or maybe even worse.
 
 Magic and aura… I’d seen them with my own eyes, but using them myself was out of the question. I couldn’t even dream of it.
 
@@ -343,13 +343,13 @@ Seconds? Minutes? I had no idea. When the pain passed, all that remained was my 
 
 It had changed. My shoulders had broadened by half a span, and muscle had hardened across my chest and back. The silk clothes that had felt a little loose now felt constricting.
 
-When I clenched my fist, I felt strength and springiness I hadn’t been able to sense before. I’d grown stronger. It was an experience I’d never had in the real world.
+When I clenched my fists, I felt strength and springiness I hadn’t been able to sense before. I’d grown stronger. It was an experience I’d never had in the real world.
 
 *Because there’s no System there.*
 
 I could build strength, stamina, and flexibility through training in the real world, but until I underwent a measurement, I could only sense the changes vaguely.
 
-But Murim[^1] was different.
+But Murim was different.
 
 I could see my abilities through the Status Window and improve the ones I needed. I didn’t know where the endpoint was, but I could keep moving forward.
 
@@ -357,7 +357,7 @@ I could see my abilities through the Status Window and improve the ones I needed
 
 I’d fought countless monsters over the past seven years. Some days I’d returned without a scratch; other days I’d barely escaped with my life.
 
-F-rank Hunter Jin Taekyung had something Murim’s[^1] Jin Taekyung didn’t: experience. And desire.
+F-rank Hunter Jin Taekyung had something Murim’s Jin Taekyung didn’t: experience. And desire.
 
 Stronger, stronger, stronger. And survive.
 
@@ -502,6 +502,3 @@ Ding.
 > **Failure:** Death
 
 *Some minor problem.* My ass.
-
-[^1]: *Murim* means the martial world: the society of martial artists and their factions in Korean martial-arts fiction.
-[^2]: Honghwaru is a pleasure house in Taiyuan.
