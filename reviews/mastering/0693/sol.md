@@ -58,7 +58,7 @@ Since people had first settled in Nanman, dozens of tribes had fought one anothe
 
 *And that wasn’t all.*
 
-The man who had etched the five characters Nanman Beast Palace into this land had also been the first and last owner of the Beast King Stone during its brief appearance.
+He had etched the name Nanman Beast Palace into this land. He had also been the first and last owner of the Beast King Stone during its brief appearance.
 
 No. Maybe *owner* wasn’t the right word.
 
@@ -82,7 +82,7 @@ Its grimy black color was one thing. The ominous energy seeping from it made eve
 
 Divine artifacts didn’t come with factory specifications, but I’d still had a picture in my head: a small, gleaming white stone. Not something that made Seoraksan’s Rocking Stone look modest and practically blasted ominous pressure in every direction.
 
-“…I don’t know about abundance, but I think I understand why it was called the Beast King Stone. If you smashed something’s head with this, what beast wouldn’t obey? You could probably rule humans with it too.”
+“…Well, I can’t speak to the abundance, but I get why they called it the Beast King Stone. Tell any beast you’ll crack its skull with this thing, and of course it’ll obey. You could probably rule people with it too.”
 
 And the first Palace Lord of the Nanman Beast Palace had supposedly owned this thing, if only for a while. How hard had he trained? Had he hung an elephant from a pull-up bar and put up a five-thousand total on the big three?
 
@@ -102,7 +102,7 @@ I realized what he was getting at.
 
 I was beginning to understand. The stone the people of Nanman called the Beast King Stone was practically one with this land. The more death and destruction spread across it, the more power the stone lost.
 
-“So that’s why you helped the first Palace Lord? Three hundred years ago, as the Five Poisons Sect stained Nanman with blood, the sacred stone’s power would have weakened too?”
+“Is that why you helped the first Palace Lord? Three hundred years ago, when the Five Poisons Sect was staining Nanman with blood, the stone’s power must have been fading too.”
 
 —I… No, we…
 
@@ -126,17 +126,17 @@ But if that was true…
 
 “Then what was the legend of the Beast King Stone? The story passed down to the people here….”
 
-—A legend. Yes, it was exactly that—a legend. Something that clearly existed, but could only be fabricated as fiction.
+—A legend. That is exactly what it was. There was truth behind it, but the story itself had to be a fiction.
 
 Bitterness flickered through his blue-white eyes.
 
-—He was the only human who could understand our mission, and he wanted peace more than anyone. So, to end this war, he created the Beast King Stone himself.
+—He was the only human who understood our mission. He wanted peace more than anyone. So he made a Beast King Stone of his own to end the war.
 
 “…!”
 
 —I watched from where no one could see. I watched him name a powerless stone the Beast King Stone, become a chosen hero, unite the tribes, and fight other humans. I watched until the day he fell.
 
-My breath caught in my throat. It was as though a book densely filled with the legend of a distant past had opened before my eyes.
+My breath caught. It was as if a book filled with the legends of that distant age had opened before my eyes.
 
 —That was how he died. The thing humans had revered as the Beast King Stone vanished as though it had never existed. The war continued for another hundred years. And I…
 
@@ -152,7 +152,7 @@ Wind blew from somewhere. I stood facing the Black Tiger and asked, “Why?”
 
 I didn’t wait for an answer. I hadn’t expected one.
 
-“Because the land grew barren as the war continued, causing the sacred stone to lose its power? Because you thought that even the tiny bit of power it had left would soon disappear when what is about to happen arrives? Is that why you regretted it? Because you should have helped him back then—a pointless regret?”
+“Because the war kept going and the land grew barren, draining the stone’s power? Because whatever’s coming might take even the tiny bit it has left? Is that why you regretted it—because you should have helped him back then, even though it’s too late now?”
 
 His reply weighed heavily in my head.
 
@@ -160,21 +160,19 @@ His reply weighed heavily in my head.
 
 “No. Honestly, I don’t care much about that. I’m grateful you helped us, whether you believe it or not.”
 
-I didn’t care about the sacred stone or the guardian spirit. I didn’t think I had any business caring about either.
-
-It had already happened hundreds of years ago, and whatever their mission might have been, the fact remained that they had saved my life and the lives of my companions.
+The sacred stone, the guardian spirit—I had no business judging either of them. This had happened hundreds of years ago. Whatever their missions were, they had saved my life and my companions’ lives.
 
 The thought had just come to me.
 
-“For a guardian spirit, you’re pretty petty and cowardly. This much should be okay, right?”
+“For a guardian spirit, you were pretty petty and cowardly. I can say that much, right?”
 
 —…!
 
-“Not okay? If I offended you, I’ll take it back.”
+“No? If I offended you, I’ll take it back.”
 
 The Black Tiger stared at me without a word. His body looked endlessly ominous, but his blue-white eyes were large and clear.
 
-And then.
+Then his thought reached me.
 
 —For two hundred years, I regretted it every day, every moment. I should have saved that human, even if it meant defying the natural order.
 
@@ -222,7 +220,7 @@ And…
 
 *Spiritual energy for spiritual energy, huh?*
 
-Muttering inwardly, I suddenly looked up at the sky.
+I looked up at the sky.
 
 It was blue. Just like the eyes of the Black Tiger watching me.
 
@@ -244,10 +242,10 @@ The earth shook. Water surged across the pond in waves.
 
 Hundreds, perhaps thousands, of birds took flight at once. Even more beasts rose from the grass.
 
-Yohi reflexively jerked her head up. A faint gasp of shock escaped her lips.
+Yohi jerked her head up, a faint gasp escaping her lips.
 
 “Th-that’s…”
 
-Kwaaaang!
+Whoooosh!
 
 A pillar of light shot up as if to pierce the sky, enveloping the mysterious space.
