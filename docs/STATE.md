@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 1135
-- Next chapter: 1136
-- Current block: 1135–1139 (1/5)
-- Latest translation: `translations/1135.md`
-- Latest summary: `summaries/beats/1135.md`
-- Safe profiles through: chapter 1135
+- Last completed: 1136
+- Next chapter: 1137
+- Current block: 1135–1139 (2/5)
+- Latest translation: `translations/1136.md`
+- Latest summary: `summaries/beats/1136.md`
+- Safe profiles through: chapter 1136
 
 ## Current Block
 
-- The Son of Heaven and Zhuge Feng reveal that they used the Moving Formations to lure Ma Sanbao’s forces into a trap. The advance party and the ten thousand fanatics were destroyed, while former prisoners were sent as bait aboard the fleet Ma Sanbao believed the river bandits had defeated.
-- Ma Sanbao’s attempt to seize the Son of Heaven fails. The Son of Heaven kills him and reveals that Jin Taekyung gave him the White Illusion Jiangshi Art; at Zhu Bao’s request, he chose to use it so he could remain with his younger brother.
+- The Son of Heaven and Zhuge Feng’s plan crushes the Dark Heaven forces attacking the Moving Formations: Imperial Guards, Zhuge Clan mechanisms and formations, and Zhuge repeating crossbows turn the battle into a slaughter. Baek Yeon beheads the executed traitor and trades irreverent jokes with the Emperor, who credits Jin Taekyung for saving him and the realm. Declaring the new name Great Ming, the Emperor orders a personal expedition to Xinjiang and vows not to return to the palace until the traitors are rooted out.
 
 ## Open Questions
 
-- What are the consequences of the Son of Heaven using the White Illusion Jiangshi Art?
+- How will the campaign against the Lord of Heaven and the forces in Xinjiang unfold?
 
 ## Exceptional Decision
 
-- None.
+- Render 大明 as “Great Ming” and 親征 as “personal expedition.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
