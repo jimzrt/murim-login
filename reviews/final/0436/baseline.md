@@ -16,7 +16,7 @@ Whoosh!
 
 The instant he finished speaking, one hand shot into the air.
 
-Judging by how fast it went up, its owner could have been a model student bursting with academic enthusiasm. In reality, the hand belonged to a Supreme Peak master notorious throughout Murim[^1] as a thug on a national scale.
+Judging by how fast it went up, its owner could have been a model student bursting with academic enthusiasm. In reality, the hand belonged to a Supreme Peak master notorious throughout Murim as a thug on a national scale.
 
 “There’s something this old man has been wondering for a while.”
 
@@ -30,19 +30,19 @@ Jeok Cheongang continued with a deeply sour expression.
 
 That was the Fire King for you. He really knew how to bring the heat.
 
-Jin Wikyung swallowed hard at Jeok Cheongang’s way of speaking, which came crashing forward like an eight-ton truck[^2] with a broken steering wheel.
+Jin Wikyung swallowed hard at Jeok Cheongang’s way of speaking, which came crashing forward like an eight-ton truck with a broken steering wheel.
 
 “How could that be, Great Hero Jeok? This is simply the itinerary decided upon at the meeting.”
 
 “A meeting? What kind of lunatics came up with this schedule? Even at the fastest pace, it’ll take seven days and nights just to reach Hubei!”
 
-“At the top, we have Great Hero Sword Saint Mae Jonghak, and beneath him, the Nine Sects and One Gang[^3] and the Five Great Families…”
+“At the top, we have Great Hero Sword Saint Mae Jonghak, and beneath him, the Nine Sects and One Gang and the Five Great Families…”
 
 “That’s enough. I don’t need to hear any more.”
 
 “Pardon?”
 
-“The Nine Sects and One Gang[^3] and the Five Great Families are all idiots with nothing but shit in their heads, so forget about them. I’ll explain things properly to Mae Jonghak myself. Change the itinerary while there’s still time. Staring at water all day is going to give me qi deviation.[^4]”
+“The Nine Sects and One Gang and the Five Great Families are all idiots with nothing but shit in their heads, so forget about them. I’ll explain things properly to Mae Jonghak myself. Change the itinerary while there’s still time. Staring at water all day is going to give me qi deviation.”
 
 In short, he was telling them to do their worst.
 
@@ -118,7 +118,7 @@ In any case, I needed to set aside my impatience for a while and take the time t
 
 The mysterious patterns and symbols discovered in both worlds.
 
-I had to find out whether my suspicions about them were correct. To do that, I had a lot to take care of while going back and forth between Murim[^1] and the modern world. If we traveled overland, the time available for that would be drastically reduced.
+I had to find out whether my suspicions about them were correct. To do that, I had a lot to take care of while going back and forth between Murim and the modern world. If we traveled overland, the time available for that would be drastically reduced.
 
 I tried to gently coax Jeok Cheongang around.
 
@@ -194,7 +194,7 @@ I swallowed hard and opened my mouth.
 
 “…Then why are you smiling?”
 
-Was he Murim’s[^1] Joker?
+Was he Murim’s Joker?
 
 Jeok Cheongang’s grin had stretched all the way to his ears, but he immediately schooled his expression. He couldn’t quite hide the corners of his mouth twitching as he fought back a smile.
 
@@ -202,7 +202,7 @@ Jeok Cheongang’s grin had stretched all the way to his ears, but he immediatel
 
 “You didn’t. Anyway, let’s just keep going like this.”
 
-Jeok Cheongang already knew that I had opened my Middle Dantian.[^5] He considered it for a moment, then smacked his lips.
+Jeok Cheongang already knew that I had opened my Middle Dantian. He considered it for a moment, then smacked his lips.
 
 “Damn it. Even so, I hate water. Looks like this old man will be suffering in his twilight years.”
 
@@ -371,9 +371,3 @@ He had a large acupuncture needle hidden in one hand, pressed right against my w
 “…”
 
 It was humiliating, but I think I just pissed myself a little.
-
-[^1]: *Murim* is the world of martial artists and their organizations in Korean martial-arts fiction.
-[^2]: The Korean source uses metric tons. Eight metric tons is about 8,000 kg, or 17,600 lb.
-[^3]: The Nine Sects and One Gang is a grouping of major martial-arts organizations; the “One Gang” is the Beggars’ Sect.
-[^4]: *Qi deviation* is a harmful disruption of the internal energy cultivated through martial arts.
-[^5]: The *Middle Dantian* is a martial energy center in the chest.
