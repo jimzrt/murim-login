@@ -1,22 +1,23 @@
 # Translation State
 
-- Last completed: 1181
-- Next chapter: 1182
-- Current block: 1180–1184 (2/5)
-- Latest translation: `translations/1181.md`
-- Latest summary: `summaries/beats/1181.md`
-- Safe profiles through: chapter 1181
+- Last completed: 1182
+- Next chapter: 1183
+- Current block: 1180–1184 (3/5)
+- Latest translation: `translations/1182.md`
+- Latest summary: `summaries/beats/1182.md`
+- Safe profiles through: chapter 1182
 
 ## Current Block
 
-- A vast horde of monsters surges toward the exhausted Murim allied forces’ vanguard, led by the Jin Family of Taiyuan. Jin Wikyung rallies the troops to stand their ground. Jin Mukyung returns, destroys a boulder hurled at them, and joins the fight; Mae Jonghak arrives, followed by four of the Ten Kings and the leaders of the Nine Sects and One Gang and the Five Great Families. The battle begins.
+- The Son of Heaven fights beside the Imperial Guards against a monstrous horde. Baek Yeon arrives to protect him, and Jeong Hogun, a Thousand Captain, agrees to remain at his side as they advance. The Son of Heaven summons the Twelve Palaces to face at least twenty Black Ghosts.
+- Jin Taekyung sees two streaks of light cross the night sky and feels pain in his chest. After leaving the desert, he and his companions reach the allied forces’ rendezvous point, but no one arrives over the next two days.
 
 ## Open Questions
 
-- What command will the Lord of Heaven give the Grand Mage?
-- What remains to be completed, and what will happen when it is completed?
+- What command will the Lord of Heaven give the Grand Mage, and what remains to be completed?
 - What is Alpha, and what does its awakening mean?
-- What caused the barren land around Taekyung’s group in Xinjiang?
+- Why has no one arrived at the rendezvous point?
+- What caused Taekyung’s chest pain and sleeplessness?
 - Who is the person Bow Saint misses?
 
 ## Exceptional Decision
