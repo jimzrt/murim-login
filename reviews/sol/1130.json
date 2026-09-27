@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Flames streamed from his forcefully extended toes.",
+      "defect": "The flames flow along his extended feet, not out of his toes.",
+      "id": "F01",
+      "rationale": "발끝을 따라 describes the path of the flames, not their point of origin.",
+      "replacement": "Flames streamed along his feet as he thrust them forward.",
+      "severity": "minor",
+      "source": "힘주어 뻗은 발끝을 따라 흐르는 화염."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The old man’s fist, beneath skin so wrinkled it was impossible to guess his age, held overwhelming force—more than Jin Taekyung could hope to resist. Yet he dug in his heels as he was slowly pushed back.",
+      "defect": "“More than ... could hope to resist” makes resistance impossible, though Taekyung holds against the force; “dug in his heels” also obscures that his feet are sliding back.",
+      "id": "F02",
+      "rationale": "항거하기 힘들 만큼 means difficult to resist, while 서서히 밀려 나가는 발끝 specifies his feet being pushed back.",
+      "replacement": "The impossibly wrinkled old man’s fist carried a force almost too great to withstand, but Jin Taekyung braced himself even as his feet slowly slid back.",
+      "severity": "major",
+      "source": "도무지 나이를 짐작할 수 없을 만큼 주름진 노인의 일권(一拳)에는 감히 항거하기 힘들 만큼 거대한 힘이 담겨 있었지만, 진태경은 서서히 밀려 나가는 발끝을 힘주어 버텨 냈다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "facing the old man left no room for even a single breath—or the smallest stray thought.",
+      "defect": "“A single breath” drops the distinction that even taking a deep breath is an unaffordable luxury.",
+      "id": "F03",
+      "rationale": "심호흡 specifically means a deep breath; the passage does not say he has no room to breathe at all.",
+      "replacement": "facing the old man made even a single deep breath—or the smallest stray thought—a luxury he couldn’t afford.",
+      "severity": "minor",
+      "source": "단 한 번의 심호흡조차, 티끌만 한 잡념조차 크나큰 사치라는 것을"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Or rather, he’d felt it only very rarely, after combining the internal energy of all three sources. It had lingered briefly, then faded.",
+      "defect": "“All three sources” introduces sources the Korean does not identify.",
+      "id": "F04",
+      "rationale": "세 가지의 공력 specifies three kinds of internal energy, not three named or established sources.",
+      "replacement": "Or rather, it had come to him only very rarely after he combined three forms of internal energy, lingering briefly before fading.",
+      "severity": "major",
+      "source": "정확히는 세 가지의 공력을 합친 뒤에서야 매우 드물게 찾아왔던, 그렇게 잠시 머물다 흐릿해졌던 감각이었다."
+    }
+  ],
+  "summary": "The draft preserves the fight’s sequence, but changes two physical details and adds an unsupported explanation of Taekyung’s internal energy.",
+  "version": 1
+}

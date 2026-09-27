@@ -1569,3 +1569,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 청허자 | 태군악 | former fellow Daoists, now estranged | you | cold and reproachful | Cheongheoja says their former relationship cannot return after irreversible choices. |
 | 태군악 | 청허자 | former fellow Daoists, now estranged | fellow Daoist | familiar and reproachful | Tae Gunak recalls that Cheongheoja once called him a fellow Daoist. |
 | 적천강 | 혈주 | hostile_opponents | you | blunt and threatening | Jeok Cheongang blocks the Blood Lord’s final attack on Taekyung and rebukes him. |
+| 노인 | 진태경 | older opponent to younger opponent; no family relation established | you | calm, familiar speech | The old man addresses Taekyung as 자네 while testing him. |

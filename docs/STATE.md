@@ -1,21 +1,21 @@
 # Translation State
 
-- Last completed: 1129
-- Next chapter: 1130
-- Current block: 1125–1129 (5/5)
-- Latest translation: `translations/1129.md`
-- Latest summary: `summaries/beats/1129.md`
-- Safe profiles through: chapter 1129
+- Last completed: 1130
+- Next chapter: 1131
+- Current block: 1130–1134 (1/5)
+- Latest translation: `translations/1130.md`
+- Latest summary: `summaries/beats/1130.md`
+- Safe profiles through: chapter 1130
 
 ## Current Block
 
-- After apparently dying, Taekyung awakens in a boundless gray-white space and meets an old man who can read his thoughts. The man refuses to explain who he is or how he helped Taekyung, then attacks him. Taekyung still has his internal energy and martial techniques; the old man gives him a spear, and their fight begins.
+- The old man overwhelms Taekyung, catching his spear barehanded, striking his chest, and forcing him to fight without relying on sight. Taekyung reconnects with an unfinished martial insight and begins sensing the old man’s attacks in darkness. As the old man raises an invisible sword and tells him to dodge or face the end, Taekyung senses a rare instinctive realm beyond reason, sees a beam of light, and steps forward.
 
 ## Open Questions
 
-- Who is the old man, and has he met Taekyung before?
-- How did the old man help Taekyung, and what does he intend to begin?
-- What is the gray-white space, and what happens to Taekyung there?
+- Who is the old man, and how did he help Taekyung?
+- What is the gray-white space, and what is the outcome of the old man’s test?
+- What is the rare instinctive state Taekyung has begun to sense?
 
 ## Exceptional Decision
 
