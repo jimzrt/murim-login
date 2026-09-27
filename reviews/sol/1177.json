@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“And what were you thinking when you said you’d kill your Disciple, just to live up to your title as the Slaughter Saint for the first time in ages?”",
+      "defect": "The draft makes Jeok Cheongang the would-be killer. He had accused the Slaughter Saint of trying to kill Jeok’s Disciple.",
+      "id": "F01",
+      "rationale": "The Slaughter Saint is recounting Jeok Cheongang’s accusations against him; the following reply is Jeok’s concession that he went too far.",
+      "replacement": "“And what possessed you to accuse me of trying to live up to my title as the Slaughter Saint by killing your Disciple?”",
+      "severity": "critical",
+      "source": "간만에 살성이라는 별호값 하려고 제자 죽인다는 소리는 도대체 어떤 생각으로 내뱉은 거지?"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“You two really are close.",
+      "defect": "The generic phrasing drops the Master–Disciple bond the Slaughter Saint explicitly names.",
+      "id": "F02",
+      "rationale": "사제지간 specifies their relationship, which explains Jeok Cheongang’s relentless concern in the next sentence.",
+      "replacement": "“Quite the bond between Master and Disciple.",
+      "severity": "major",
+      "source": "사제지간(師弟之間)의 정이 아주 두텁더군."
+    }
+  ],
+  "summary": "One reversed accusation and one loss of the Master–Disciple relationship.",
+  "version": 1
+}

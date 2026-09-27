@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 1176
-- Next chapter: 1177
-- Current block: 1175–1179 (2/5)
-- Latest translation: `translations/1176.md`
-- Latest summary: `summaries/beats/1176.md`
-- Safe profiles through: chapter 1176
+- Last completed: 1177
+- Next chapter: 1178
+- Current block: 1175–1179 (3/5)
+- Latest translation: `translations/1177.md`
+- Latest summary: `summaries/beats/1177.md`
+- Safe profiles through: chapter 1177
 
 ## Current Block
 
-- Jin Taekyung’s return to Murim is unusually violent and prolonged, but he arrives safely and reunites with Jeok Cheongang. Jeok tells him that nearly a month passed in Murim during Taekyung’s less-than-week-long absence in the modern world.
-- The group has reached the Taklamakan Desert in Xinjiang. Jeok reports that, despite severe and erratic weather, they have encountered no Dark Heaven followers, monsters, or mounted bandits. Taekyung and Jeok realize that the surrounding land contains no living things.
+- Taekyung’s group finds all life gone from the surrounding land. The Slaughter Saint suspects either a final battle drawing on all of Xinjiang or that Dark Heaven has drained the region of life; he says even the plants have withered. While Taekyung had been asleep, Jeok Cheongang repeatedly pressed the Slaughter Saint to check on him and eventually told him about Taekyung’s otherworldly origin. Taekyung accepts that the Slaughter Saint now knows, then hears Cheongpung calling out to him from nearby.
 
 ## Open Questions
 
