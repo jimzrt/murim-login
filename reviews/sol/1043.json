@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "*I missed.*",
+      "defect": "Implies the spear has missed its target, though it has not reached the target yet. Jin realizes his attempt cannot stop the spell.",
+      "id": "F01",
+      "rationale": "The preceding sentence says the spearhead has not reached its target; the following lines explain that its power and speed are insufficient.",
+      "replacement": "*It’s no use.*",
+      "severity": "critical",
+      "source": "‘틀렸어.’"
+    },
+    {
+      "confidence": 0.99,
+      "current": "She knew Jin Taekyung was in no condition to attack, let alone stand up under his own power.",
+      "defect": "Reverses the escalation: he can barely get up, much less attack.",
+      "id": "F02",
+      "rationale": "공격은커녕 … 일어서는 것조차 makes standing up the lesser feat he can barely manage.",
+      "replacement": "She knew Jin Taekyung could barely get to his feet under his own power, let alone attack.",
+      "severity": "major",
+      "source": "지금의 진태경은, 공격은커녕 스스로의 힘으로 일어서는 것조차 버거운 상황이라는 것을 알고 있었으니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“You know that you—and the rest of you—can’t kill me.”",
+      "defect": "Changes who knows: Jin is continuing his own answer, not telling the Grand Mage what she knows. It also drops 절대, “never.”",
+      "id": "F03",
+      "rationale": "This continues Jin’s “그래, 알지” and retains his absolute claim about the enemy.",
+      "replacement": "“I also know you—and the rest of your lot—can never kill me.”",
+      "severity": "major",
+      "source": "“네년이, 너희가 절대 날 죽일 수 없다는 것도.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "He’d done it to protect one ally, to protect tens of thousands of lives.",
+      "defect": "Omits the explicit choice to protect an ally rather than defeat a formidable enemy.",
+      "id": "F04",
+      "rationale": "한 사람의 강적보다 한 명의 아군을 contrasts the enemy he could kill with the ally he chooses to save.",
+      "replacement": "He’d fought to protect one ally rather than bring down one formidable enemy—to protect tens of thousands of lives.",
+      "severity": "major",
+      "source": "한 사람의 강적보다 한 명의 아군을, 수만 명이나 되는 목숨들을 지키기 위해서였으니까."
+    }
+  ],
+  "summary": "The draft changes one failed attempt into a missed shot and loses two important contrasts in the confrontation.",
+  "version": 1
+}

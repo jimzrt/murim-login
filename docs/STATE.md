@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 1042
-- Next chapter: 1043
-- Current block: 1040–1044 (3/5)
-- Latest translation: `translations/1042.md`
-- Latest summary: `summaries/beats/1042.md`
-- Safe profiles through: chapter 1042
+- Last completed: 1043
+- Next chapter: 1044
+- Current block: 1040–1044 (4/5)
+- Latest translation: `translations/1043.md`
+- Latest summary: `summaries/beats/1043.md`
+- Safe profiles through: chapter 1043
 
 ## Current Block
 
-- Jin Taekyung commits to a life-consuming One Annihilation to stop the Grand Mage’s wide-area Magic, but her spell begins first. His still-incomplete strike hits her barrier as her energy erupts, and the resulting flash and shock wave engulf the hill.
-- The Wind-and-Cloud Sword Lord is badly wounded by two Black Ghosts. His Senior Brothers urge him to order a retreat, but he refuses to abandon the battlefront, reflects on the duty and loyalty he had tried to uphold, and charges the Black Ghosts. A distant blast unbalances them, allowing his strike to pass through. The battlefield looks up and sees an enormous sphere of Hell Fire.
+- The descending Hell Fire sphere freezes the battlefield in terror. Though exhausted and badly injured, Jin Taekyung uses White Flame to strike it; his spear bends part of the sphere’s course and opens a rift in its flames. Other streaks of light then rise from the ground and strike toward the sphere, but the chapter ends before its fate is known.
 
 ## Open Questions
 
@@ -18,7 +17,7 @@
 - Did Dark Heaven cause the Great Faction War?
 - Who are the white-robed mages, and what is their purpose?
 - How were the former Demonic Cult fiends made into Black Ghosts?
-- What are the outcomes of Jin Taekyung’s strike, the Grand Mage’s Magic, and the Hell Fire blast?
+- Can the attacks from Jin and the other fighters stop or redirect the Hell Fire sphere, and what follows?
 
 ## Exceptional Decision
 
