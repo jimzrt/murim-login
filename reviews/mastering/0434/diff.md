@@ -1704,7 +1704,7 @@ Korean lines: 331
 
 BASE:
 
-*Xiao Yang. Shao Shen. Shao, Shao?*
+*Xiao Yang. Xiao Shen. Xiao, Xiao?*
 
 SOL:
 

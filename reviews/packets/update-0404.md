@@ -152,7 +152,7 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Wei Fenghu and more than four thousand Hunters have reached the Western Front, where Jin Taekyung annihilated the monster army and survived the ten-percent teleportation.",
     "Wei Fenghu understands that Lei Fei died after completing his final mission; Jin delivered Lei Fei's love, apology, and praise, and Wei entrusted Lei Fei's sword to Jin.",
     "Lei Fei's wife and daughter were moved to safety while he was missing.",
-    "Team Leader Choi and Shao Shen remain unconscious because of accumulated physical and mental fatigue, although their injuries were healed by top-grade potions.",
+    "Team Leader Choi and Xiao Shen remain unconscious because of accumulated physical and mental fatigue, although their injuries were healed by top-grade potions.",
     "Hero's Soul is a Supreme Peak sword that can grant Hero's Power to someone it recognizes as having an upright character.",
     "Hero's Soul rejected Jin and removed Hero's Power when he formed an evil intention.",
     "The Skeleton Warlord absorbed some of the mana released when Lei Fei disappeared and confirms that only a faint trace of Lei Fei's soul remains in Hero's Soul.",
@@ -206,7 +206,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 리치 | **Lich** | Named Monster; fallen archmage and apex undead monster. |
 | 인민해방군 | **People's Liberation Army** | Chinese military deployed to seal off the catastrophe area. |
 | 국방부 | **Ministry of National Defense** | Government ministry referenced in Taekyung's comparison about the steady passage of time. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 가고일 | **Gargoyle** | Flying monster species accompanying the Wyverns. |
 | 데스나이트 | **Death Knight** | Undead commander type serving under the Black Knight. |
 | 공안무력부 | **Public Security Armed Forces Department** | Chinese security organization ordered to assemble during the attack. |

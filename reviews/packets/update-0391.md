@@ -178,7 +178,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 오크 | **Orc** | Monster species. |
 | 리치 | **Lich** | Named Monster; fallen archmage and apex undead monster. |
 | 쓰촨성 | **Sichuan Province** | Source spelling variant of the established Sichuan location. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 태자당 | **Crown Prince Party** | The faction associated with General Liao. |
 
 ## Matched address pairs

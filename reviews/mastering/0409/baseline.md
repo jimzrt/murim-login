@@ -328,7 +328,7 @@ That Jin Taekyung’s words might be advice directed straight at them.
 
 “We will win.”
 
-At Shao Shen’s firm answer, Jin Taekyung laughed aloud.
+At Xiao Shen’s firm answer, Jin Taekyung laughed aloud.
 
 “Yeah. We have to. But…”
 

@@ -1394,11 +1394,11 @@ Korean lines: 267
 
 BASE:
 
-I looked at Team Leader Choi and Shao Shen, both lost in a deep sleep, remembering what the healer who had visited earlier had said.
+I looked at Team Leader Choi and Xiao Shen, both lost in a deep sleep, remembering what the healer who had visited earlier had said.
 
 SOL:
 
-Remembering what the healer who had stopped by earlier had told me, I looked at Team Leader Choi and Shao Shen, both sunk in a deep sleep.
+Remembering what the healer who had stopped by earlier had told me, I looked at Team Leader Choi and Xiao Shen, both sunk in a deep sleep.
 
 ## H100 (replace)
 

@@ -533,7 +533,7 @@ I could feel it. The internal energy that had been slowly draining away was fill
 
 But there was something more important.
 
-“Team Leader Choi! Shao Shen!”
+“Team Leader Choi! Xiao Shen!”
 
 “Yes!”
 
@@ -630,7 +630,7 @@ It covered every member of the suicide squad, and it was a Barrier spell painsta
 
 “If you’re asking what I feel like doing right now, there’s nothing I wouldn’t do.”
 
-Shao Shen exhaled the breath he had been holding and joined in.
+Xiao Shen exhaled the breath he had been holding and joined in.
 
 “I’m capable of more than that. This is truly…”
 
@@ -838,7 +838,7 @@ Of course…
 
 My spear lashed out with all my strength, skewering six or seven monsters like meat on a skewer.
 
-Shao Shen and the Hunters in the suicide squad, having escaped the crisis, gave me grateful looks.
+Xiao Shen and the Hunters in the suicide squad, having escaped the crisis, gave me grateful looks.
 
 “Everyone, group up around me!”
 
@@ -846,7 +846,7 @@ Shao Shen and the Hunters in the suicide squad, having escaped the crisis, gave 
 
 “No time to explain! Stop talking and move!”
 
-Team Leader Choi and Shao Shen nodded at my shout and advanced with the suicide squad.
+Team Leader Choi and Xiao Shen nodded at my shout and advanced with the suicide squad.
 
 I knew what they were thinking, but we had already made it through three Magic Traps, and this was the rear where the Arch Lich had gathered its elites. The chances of another trap being activated were slim.
 
@@ -1092,7 +1092,7 @@ The Skeleton Warlord’s mood-killing words made me open my eyes. The first thin
 
 「H-Hyung.」
 
-Team Leader Choi and Shao Shen stared at me with dazed expressions.
+Team Leader Choi and Xiao Shen stared at me with dazed expressions.
 
 No, it was not only those two.
 
@@ -1806,7 +1806,7 @@ The roughly two hundred members of the Western Front’s suicide squad, who had 
 
 And yet, even amid fear spreading like wildfire, two people remained unshaken.
 
-Shao Shen, looking at me with unwavering trust, and…
+Xiao Shen, looking at me with unwavering trust, and…
 
 “There’s a possibility.”
 

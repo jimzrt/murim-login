@@ -236,7 +236,7 @@ A snort escaped me at his sparkling eyes.
 
 “I told you it was fine as long as you were okay with it. But is this really all right in front of your men? You said you’re getting promoted to major general now, didn’t you?”
 
-Shao Shen shook his head at lightning speed.
+Xiao Shen shook his head at lightning speed.
 
 “No problem at all! H-hyung, hyung!”
 
@@ -246,7 +246,7 @@ I looked at the Hunters from the Public Security Armed Forces Department lined u
 
 Their fever-bright eyes held admiration and awe for the strong.
 
-Of course, Shao Shen stood out above all the rest.
+Of course, Xiao Shen stood out above all the rest.
 
 “Give the order, h-hyung.”
 

@@ -456,11 +456,11 @@ Korean lines: 157
 
 BASE:
 
-Shao Shen’s eyes cleared, and he raised his spear high.
+Xiao Shen’s eyes cleared, and he raised his spear high.
 
 SOL:
 
-Shao Shen snapped to his senses and thrust his spear into the air.
+Xiao Shen snapped to his senses and thrust his spear into the air.
 
 ## H034 (replace)
 

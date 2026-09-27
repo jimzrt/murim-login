@@ -204,17 +204,17 @@ The great movement was taking place simultaneously across every front in Sichuan
 
 “……Phew.”
 
-Shao Shen let out a sigh, his eyes red and bloodshot.
+Xiao Shen let out a sigh, his eyes red and bloodshot.
 
 He had spent the night with his Sleep Acupoint struck and had only regained consciousness two hours ago.
 
 The moment he opened his eyes, he had gone berserk, shouting that he was going to kill General Liao. Team Leader Choi and I had sweated bullets trying to calm him down.
 
-“Shao Shen, are you all right?”
+“Xiao Shen, are you all right?”
 
 “Yeah. Are you feeling a little calmer now?”
 
-Shao Shen answered.
+Xiao Shen answered.
 
 “Yes. When I first woke up, I couldn’t put any strength into my body, but I’m fine now. This is more than enough to rip that bastard’s head off.”
 
@@ -228,7 +228,7 @@ Still, unlike his words, only his fists were trembling, so I felt some relief th
 
 “I’m telling you again, I didn’t want to do that to you. The timing was just bad.”
 
-Shao Shen was silent for a moment before nodding.
+Xiao Shen was silent for a moment before nodding.
 
 “I know, hyung. I know you stepped in on my behalf, too.”
 
@@ -258,17 +258,17 @@ General Liao had thrown away nearly a thousand lives and was talking about milit
 
 “What can we do? The water’s already spilled. We’ll think about it if a problem arises.”
 
-Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Shao Shen spoke in a low voice.
+Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Xiao Shen spoke in a low voice.
 
 “Don’t worry. The thing you’re concerned about, Mr. Choi, won’t happen.”
 
 “Hm?”
 
-“Shao Shen, did you hear something?”
+“Xiao Shen, did you hear something?”
 
 “Rather than hearing something…”
 
-After hesitating for a moment, Shao Shen shook his head with a stern expression.
+After hesitating for a moment, Xiao Shen shook his head with a stern expression.
 
 “Um… it’s just my personal opinion.”
 
@@ -278,7 +278,7 @@ After hesitating for a moment, Shao Shen shook his head with a stern expression.
 
 What was this suspicious smell?
 
-Team Leader Choi and I were looking at Shao Shen suspiciously when—
+Team Leader Choi and I were looking at Xiao Shen suspiciously when—
 
 “M-m-m-may I come in?”
 

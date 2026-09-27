@@ -149,7 +149,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 ```json
 {
   "active_continuity": [
-    "Team Leader Choi survives his catastrophic injuries after receiving half of the top-grade potion, and Shao Shen receives the remaining half and begins recovering.",
+    "Team Leader Choi survives his catastrophic injuries after receiving half of the top-grade potion, and Xiao Shen receives the remaining half and begins recovering.",
     "Jin Taekyung is standing between Choi and Shao and the Death Knight Lord's army, wielding White Flame and intending to kill every monster that crosses his spear.",
     "Jin killed one Death Knight with the Flame-Extinguishing Divine Fist and has begun overwhelming the surrounding monster army.",
     "The Skeleton Warlord is protecting Choi and Shao at Jin's command in exchange for any wish after the battle.",

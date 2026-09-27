@@ -99,7 +99,7 @@ Magic Johnson teleports Jin Taekyung to an emergency conference as the Arch Lich
 
 The Arch Lich had concealed the restoration of its power, withdrawn its armies to create false confidence, disrupted communications, and then launched simultaneous attacks. The black knight leads a massive undead legion against a city, displaying disciplined tactics, human-language comprehension, and flashes of memories involving a child and a place from its unknown past.
 
-Magic Johnson sends Jin alone to the battlefield using a teleportation method with only a ten-percent survival chance. Jin arrives after Choi Minwoo and Shao Shen lead a final stand to protect the People’s Liberation Army. He restores Choi and Shao with Wu Heixing’s top-grade potion, kills a Death Knight, and leaves the Skeleton Warlord to guard them. Jin then cuts through the undead army and battles the Level 135 Death Knight Lord. After a devastating clash destroys the hospital and surrounding ground, Jin breaks the Lord’s armor, wrist, sword, and helmet, revealing a face resembling the missing Lei Fei.
+Magic Johnson sends Jin alone to the battlefield using a teleportation method with only a ten-percent survival chance. Jin arrives after Choi Minwoo and Xiao Shen lead a final stand to protect the People’s Liberation Army. He restores Choi and Shao with Wu Heixing’s top-grade potion, kills a Death Knight, and leaves the Skeleton Warlord to guard them. Jin then cuts through the undead army and battles the Level 135 Death Knight Lord. After a devastating clash destroys the hospital and surrounding ground, Jin breaks the Lord’s armor, wrist, sword, and helmet, revealing a face resembling the missing Lei Fei.
 
 ## Continuity
 
@@ -107,7 +107,7 @@ Magic Johnson sends Jin alone to the battlefield using a teleportation method wi
 - The Fire Dragon Armor is approximately fifty percent restored and mitigated part of the Death Knight Lord’s attack.
 - Jin killed one Death Knight with the Flame-Extinguishing Divine Fist and overwhelmed the surrounding monster army.
 - The Level 135 Death Knight Lord’s armor, wrist, sword, and helmet are broken; his exposed face resembles Lei Fei, but their identity is not confirmed.
-- The Skeleton Warlord is guarding the recovering Choi Minwoo and Shao Shen at Jin’s command.
+- The Skeleton Warlord is guarding the recovering Choi Minwoo and Xiao Shen at Jin’s command.
 - Choi survived catastrophic injuries after receiving half of Wu Heixing’s top-grade potion; Shao received the remainder and is recovering.
 - The Arch Lich’s strengthened interference has severed or delayed communications across the fronts and enabled a coordinated surprise attack.
 - The black knight commands one of five undead legions, serves an unidentified lord, and remains bound to that lord’s orders.
@@ -117,7 +117,7 @@ Magic Johnson sends Jin alone to the battlefield using a teleportation method wi
 
 ## Translation Decisions
 
-- Use **Jin Taekyung**, **Magic Johnson**, **Team Leader Choi**, **Choi Minwoo**, **Shao Shen**, **Lee Jungryong**, **Wu Heixing**, **Prince Felix**, and **Lei Fei**.
+- Use **Jin Taekyung**, **Magic Johnson**, **Team Leader Choi**, **Choi Minwoo**, **Xiao Shen**, **Lee Jungryong**, **Wu Heixing**, **Prince Felix**, and **Lei Fei**.
 - Render **Death Knight Lord** and **Skeleton Warlord** as capitalized titles; keep **black knight** lowercase and distinct from both.
 - Render **Lord** for 로드 when the Death Knights address the black knight, and **my lord** for 군주시여.
 - Retain **Nightmare**, **Fire Dragon Armor**, **Flame-Extinguishing Divine Fist**, **top-grade potion**, and **White Flame**.
@@ -703,7 +703,7 @@ A magical wind stormed through the battlefield. Space split apart. The magic con
 
 Everyone in the city watched clearly as the light was devoured by darkness.
 
-A single thought passed through Choi Minwoo’s and Shao Shen’s minds.
+A single thought passed through Choi Minwoo’s and Xiao Shen’s minds.
 
 *This is…*
 
@@ -1086,11 +1086,11 @@ Thud!
 
 Choi Minwoo drove his sword into the chest of a charging Minotaur and shouted,
 
-“Shao Shen!”
+“Xiao Shen!”
 
 His mana-infused voice pierced through the screams and thunderous crashes and reached one person’s ears.
 
-Shao Shen, covered in wounds and blood as he fought back the endless stream of monsters, shouted in response like a battle cry.
+Xiao Shen, covered in wounds and blood as he fought back the endless stream of monsters, shouted in response like a battle cry.
 
 「Speak!」
 
@@ -1112,7 +1112,7 @@ Especially in a situation like this, if the Hunters who had been serving as the 
 
 「……!」
 
-Shao Shen squeezed his eyes shut without realizing it.
+Xiao Shen squeezed his eyes shut without realizing it.
 
 He knew the situation. No—he was one of the people who understood it better than anyone.
 
@@ -1122,17 +1122,17 @@ The battle had turned sharply against them from the very beginning, and the huma
 
 He had thought for a long time, but the moment itself was brief.
 
-Shao Shen opened his eyes and shouted with all his strength while deflecting the attacks raining down on him.
+Xiao Shen opened his eyes and shouted with all his strength while deflecting the attacks raining down on him.
 
 「Retreat! All Public Security Armed Forces Department personnel, withdraw immediately! The North Gate is open!」
 
-During wartime, the command of a commander like Shao Shen was absolute.
+During wartime, the command of a commander like Xiao Shen was absolute.
 
 All the more so when the military leadership, including Senior General Liao, had not even shown their faces.
 
 *Good.*
 
-The soldiers might not have much hope, but the Hunters’ odds of survival would rise dramatically. If Shao Shen made the right calls, a considerable number of them might be able to break through the encirclement and survive.
+The soldiers might not have much hope, but the Hunters’ odds of survival would rise dramatically. If Xiao Shen made the right calls, a considerable number of them might be able to break through the encirclement and survive.
 
 *Yes. This is enough.*
 
@@ -1154,7 +1154,7 @@ Choi Minwoo suddenly parted his lips.
 
 “Why didn’t you retreat?”
 
-Shao Shen, who should have been heading toward the North Gate, gave him a faint smile.
+Xiao Shen, who should have been heading toward the North Gate, gave him a faint smile.
 
 「What about you, Mr. Choi?」
 
@@ -1166,9 +1166,9 @@ At the regimental commander’s call, the roughly three hundred Hunters followin
 
 「To eliminate monsters and protect the people from every threat!」
 
-「This is why we do not retreat. The 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment, led by Regimental Commander Shao Shen, have come to protect the people!」
+「This is why we do not retreat. The 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment, led by Regimental Commander Xiao Shen, have come to protect the people!」
 
-Shao Shen’s quiet voice followed.
+Xiao Shen’s quiet voice followed.
 
 「Now it is your turn to answer, Mr. Choi.」
 
@@ -1194,7 +1194,7 @@ But still—
 
 “Jin Taekyung is technically my subordinate, you see. This is when a superior should lead by example.”
 
-Choi Minwoo burst into laughter, loudly enough to leave Shao Shen bewildered.
+Choi Minwoo burst into laughter, loudly enough to leave Xiao Shen bewildered.
 
 His heart felt as light as a dandelion seed, and an indescribable power surged through his body as he launched himself toward the enemies.
 
@@ -1389,7 +1389,7 @@ With that quiet mutter, I reached out.
 
 Seizing an Object Through Empty Space.
 
-Three jiazi of internal energy pulled Team Leader Choi and Shao Shen toward me. The Death Knights and monsters tried to move, but stopped when their leader raised a hand.
+Three jiazi of internal energy pulled Team Leader Choi and Xiao Shen toward me. The Death Knights and monsters tried to move, but stopped when their leader raised a hand.
 
 Ignoring them, I checked the two men’s condition. Their breaths were faint, and their qi was so precarious it seemed ready to vanish at any moment.
 
@@ -1485,7 +1485,7 @@ That was already enough to provide an answer. I had solved the question, so I co
 
 “You’ve had a rough time too, Shen.”
 
-Shao Shen was not as severely injured as Team Leader Choi, but he had still suffered serious wounds. I was just about to pour the remaining half of the potion into his mouth when—
+Xiao Shen was not as severely injured as Team Leader Choi, but he had still suffered serious wounds. I was just about to pour the remaining half of the potion into his mouth when—
 
 —Wretched human.
 
@@ -1517,7 +1517,7 @@ A great and radiant soul…
 
 Without even raising my head, I continued pouring in the potion.
 
-After emptying the last few drops into Shao Shen’s mouth, I closed the bottle and put it back in my Inventory.
+After emptying the last few drops into Xiao Shen’s mouth, I closed the bottle and put it back in my Inventory.
 
 Hissssss, hissssss.
 
@@ -1529,7 +1529,7 @@ I straightened up at the welcome sound I had been waiting for. Looking at the De
 
 —Hm?
 
-“Team Leader Choi’s left leg. It was empty from a handspan below the knee. Completely clean. Shao Shen—the young one’s was his right arm.”
+“Team Leader Choi’s left leg. It was empty from a handspan below the knee. Completely clean. Xiao Shen—the young one’s was his right arm.”
 
 —Human. What are you trying to say?
 
@@ -1591,7 +1591,7 @@ At least that soldier’s corpse was still intact.
 
 In what appeared to have been the fiercest battlefield, people who seemed to be Hunters from the Public Security Armed Forces Department lay dead in mangled conditions.
 
-I had spent a full week with the 1st Regiment led by Shao Shen. Among the corpses were many familiar faces.
+I had spent a full week with the 1st Regiment led by Xiao Shen. Among the corpses were many familiar faces.
 
 *So many people died. So many.*
 

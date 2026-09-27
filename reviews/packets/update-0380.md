@@ -134,7 +134,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
   "active_continuity": [
     "Chengdu International Airport is under attack by an unexpectedly large monster army that includes ground monsters and flying monsters.",
     "The Chinese People’s Liberation Army and Public Security Armed Forces Department Hunters are defending the airport, but the defenders have suffered losses approaching half their strength while the monster army continues to grow.",
-    "Shao Shen is a young Hunter of the Public Security Armed Forces Department who rallied the defenders and fights with a spear imbued with aura.",
+    "Xiao Shen is a young Hunter of the Public Security Armed Forces Department who rallied the defenders and fights with a spear imbued with aura.",
     "Black necromantic magic has raised the battlefield dead as chained undead, including the former A-rank Hunter Yao Wei as a Dullahan.",
     "A gigantic burning aircraft has entered the airport battlefield and swept across it; its identity and the consequences remain unresolved.",
     "Jin Taekyung is Level 120 at the Supreme Peak realm, has manifested Force, and is publicly known as the Blazing Flame Divine Dragon.",
@@ -206,7 +206,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 | 강기 | **Force** | Generic manifestation of concentrated martial energy; distinct from Sword Force. |
 | 오대 | **Five Squads** | Named Tang Clan organizational group in Tang Sadok's mobilization order. |
 | 배리어 | **Barrier** | Team Leader Choi's protective spell. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 듀라한 | **Dullahan** | Headless undead monster form taken by Yao Wei. |
 
 ## Matched address pairs
@@ -698,7 +698,7 @@ TV에서나 보던 그가, 자신의 우상이 눈앞에 있었다.
 ```markdown
 # Chapter 380
 
-Shao Shen realized it for the first time.
+Xiao Shen realized it for the first time.
 
 Roooooar!
 
@@ -718,13 +718,13 @@ Even the notoriously sluggish Ghouls ran so fast that sweat broke out on the sol
 
 The monsters that could scream were the lucky ones.
 
-Shao Shen and most of the others could do nothing but stare at the airplane hurtling toward the ground, frozen like stone statues.
+Xiao Shen and most of the others could do nothing but stare at the airplane hurtling toward the ground, frozen like stone statues.
 
 *I have to run…*
 
 His feet and hands would not move.
 
-More importantly, Shao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They were not even given the chance to escape.
+More importantly, Xiao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They were not even given the chance to escape.
 
 *Is this really the end?*
 
@@ -754,7 +754,7 @@ Krrrunch!
 
 The monsters’ screams were buried beneath the grisly sounds of flesh being torn apart. It was a scene of carnage beyond anything they had ever seen or heard.
 
-As Shao Shen and the Hunters stared blankly at the unimaginable sight, someone’s frenzied shout pierced their ears.
+As Xiao Shen and the Hunters stared blankly at the unimaginable sight, someone’s frenzied shout pierced their ears.
 
 “Monsters! Ram them! Kill them!”
 
@@ -762,7 +762,7 @@ As Shao Shen and the Hunters stared blankly at the unimaginable sight, someone�
 
 The unmistakable language of their homeland reached them even in the midst of all this chaos. The Hunters of the Public Security Armed Forces Department had one word flash through their minds: *reinforcements.*
 
-Shao Shen was stunned.
+Xiao Shen was stunned.
 
 *An incredible powerhouse!*
 
@@ -778,7 +778,7 @@ And definitely a slightly insane S-rank Hunter.
 
 *He seems to have been sent by the Central Military Commission… But did our country have an S-rank Hunter like that?*
 
-The question suddenly occurred to Shao Shen. But it was about to become irrelevant to him.
+The question suddenly occurred to Xiao Shen. But it was about to become irrelevant to him.
 
 The gigantic steel hulk that had ground its way across half the battlefield was now charging straight toward him and the Hunters.
 
@@ -788,25 +788,25 @@ The gigantic steel hulk that had ground its way across half the battlefield was 
 
 There was no distinction between friend and foe in the struggle to survive.
 
-Shao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.
+Xiao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.
 
 Schunk!
 
 —Grrrk.
 
-The monster’s lifeless body collapsed toward Shao Shen.
+The monster’s lifeless body collapsed toward Xiao Shen.
 
-Unable to move even one step because monsters were surging in from every direction, Shao Shen felt the crushing weight descending upon him and shouted.
+Unable to move even one step because monsters were surging in from every direction, Xiao Shen felt the crushing weight descending upon him and shouted.
 
 “The battle isn’t over! Fight until the very end!”
 
 He was right. The battle was not over yet. A Hunter was someone who had to kill monsters until the final moment, until their own breath ran out.
 
-The Hunters who heard Shao Shen’s shout gritted their teeth and swung their weapons.
+The Hunters who heard Xiao Shen’s shout gritted their teeth and swung their weapons.
 
 *This will do.*
 
-With lightning-fast skill, Shao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.
+With lightning-fast skill, Xiao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.
 
 The airplane’s massive body had already reached a point less than twenty meters away.
 
@@ -816,19 +816,19 @@ Its speed had decreased considerably from before, but with everyone trapped in p
 
 If he died fighting for the people as a proud Hunter of Zhonghua, that was enough.
 
-Shao Shen closed his eyes as screams rained down from every direction.
+Xiao Shen closed his eyes as screams rained down from every direction.
 
 “Heave-ho.”
 
 Krrrunch! Splat!
 
-Drenched in a sticky liquid that he assumed was blood, Shao Shen thought:
+Drenched in a sticky liquid that he assumed was blood, Xiao Shen thought:
 
 *…“Whew”?*
 
 Wasn’t it usually more of an “Aaaah”?
 
-The strange sound was an odd choice for a dying cry, so Shao Shen slowly raised his eyelids.
+The strange sound was an odd choice for a dying cry, so Xiao Shen slowly raised his eyelids.
 
 And at last, he saw it.
 
@@ -850,7 +850,7 @@ A few steps away, the airplane had come to a complete stop. Two men were standin
 
 “……I’ll do my best.”
 
-Shao Shen could not make sense of the situation at all.
+Xiao Shen could not make sense of the situation at all.
 
 Who, when, where, what, how, and why. It was such a bizarre sight that even the six fundamental questions could not organize it.
 
@@ -858,23 +858,23 @@ Who, when, where, what, how, and why. It was such a bizarre sight that even the 
 
 The two men were even speaking in a different language.
 
-Shao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
+Xiao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
 
 Korea, their longtime neighbor.
 
 *Wait. If he’s Korean…!*
 
-Shao Shen hurriedly wiped the blood from around his eyes. Only then did he recognize one of the men.
+Xiao Shen hurriedly wiped the blood from around his eyes. Only then did he recognize one of the men.
 
 A muscular young man who stood a full head taller than everyone else.
 
-The man Shao Shen had only ever seen on television—his idol—was standing right in front of him.
+The man Xiao Shen had only ever seen on television—his idol—was standing right in front of him.
 
 “C-Could you possibly be Mr. Jin from Korea?”
 
 “Huh?”
 
-The young man, Jin Taekyung, tilted his head as he looked at Shao Shen.
+The young man, Jin Taekyung, tilted his head as he looked at Xiao Shen.
 
 “I’m not a teacher.”
 
@@ -884,7 +884,7 @@ The young man, Jin Taekyung, tilted his head as he looked at Shao Shen.
 
 *It really is him!*
 
-Relief and hope coursed through Shao Shen’s entire body, making him tremble.
+Relief and hope coursed through Xiao Shen’s entire body, making him tremble.
 
 * * *
 

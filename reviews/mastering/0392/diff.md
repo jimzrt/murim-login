@@ -218,11 +218,11 @@ Korean lines: 69
 
 BASE:
 
-Despite my forceful shout, Shao Shen’s footsteps did not stop. He simply continued walking toward some unknown place in search of the criminals who had killed his subordinates.
+Despite my forceful shout, Xiao Shen’s footsteps did not stop. He simply continued walking toward some unknown place in search of the criminals who had killed his subordinates.
 
 SOL:
 
-Even my forceful shout failed to stop him. Shao Shen merely kept walking toward some unknown place, searching for the killers who had murdered his subordinates.
+Even my forceful shout failed to stop him. Xiao Shen merely kept walking toward some unknown place, searching for the killers who had murdered his subordinates.
 
 ## H017 (replace)
 
@@ -288,11 +288,11 @@ Korean lines: 97
 
 BASE:
 
-The man I saw before me was not Shao Shen. He was me, a few years ago.
+The man I saw before me was not Xiao Shen. He was me, a few years ago.
 
 SOL:
 
-The person before me wasn’t Shao Shen. He was me, a few years ago.
+The person before me wasn’t Xiao Shen. He was me, a few years ago.
 
 ## H022 (replace)
 
@@ -400,11 +400,11 @@ Korean lines: 121
 
 BASE:
 
-Shao Shen met my confident gaze and muttered blankly.
+Xiao Shen met my confident gaze and muttered blankly.
 
 SOL:
 
-Shao Shen stared into my unwavering eyes and murmured blankly.
+Xiao Shen stared into my unwavering eyes and murmured blankly.
 
 ## H030 (replace)
 
@@ -470,11 +470,11 @@ Korean lines: 131
 
 BASE:
 
-But I was wrong. The object of Shao Shen’s desire for revenge wasn’t limited to the monsters.
+But I was wrong. The object of Xiao Shen’s desire for revenge wasn’t limited to the monsters.
 
 SOL:
 
-But I was wrong. The monsters weren’t the only targets of Shao Shen’s revenge.
+But I was wrong. The monsters weren’t the only targets of Xiao Shen’s revenge.
 
 ## H035 (replace)
 
@@ -484,11 +484,11 @@ Korean lines: 137
 
 BASE:
 
-As Shao Shen watched the advancing column draw closer from a distant speck, his eyes burned like flames.
+As Xiao Shen watched the advancing column draw closer from a distant speck, his eyes burned like flames.
 
 SOL:
 
-Shao Shen watched the advancing column grow from distant specks into looming vehicles, his eyes blazing like fire.
+Xiao Shen watched the advancing column grow from distant specks into looming vehicles, his eyes blazing like fire.
 
 ## H036 (replace)
 
@@ -540,11 +540,11 @@ Korean lines: 153
 
 BASE:
 
-Shao Shen sensed something was wrong and tried to evade me, but my hand moved fluidly and had already brushed his acupoints.
+Xiao Shen sensed something was wrong and tried to evade me, but my hand moved fluidly and had already brushed his acupoints.
 
 SOL:
 
-Shao Shen sensed something was wrong and tried to dodge, but my hand moved like flowing water and brushed his acupoints before he could escape.
+Xiao Shen sensed something was wrong and tried to dodge, but my hand moved like flowing water and brushed his acupoints before he could escape.
 
 ## H040 (replace)
 
@@ -554,11 +554,11 @@ Korean lines: 159
 
 BASE:
 
-Shao Shen’s entire body went rigid, his voice was cut off, and deep sleep began to overtake him.
+Xiao Shen’s entire body went rigid, his voice was cut off, and deep sleep began to overtake him.
 
 SOL:
 
-Shao Shen’s entire body went rigid, his voice was sealed, and a deep sleep began to overtake him.
+Xiao Shen’s entire body went rigid, his voice was sealed, and a deep sleep began to overtake him.
 
 ## H041 (replace)
 
@@ -584,11 +584,11 @@ Korean lines: 167
 
 BASE:
 
-In the end, his eyelids closed firmly. The last thing I saw in Shao Shen’s eyes was unmistakable confusion.
+In the end, his eyelids closed firmly. The last thing I saw in Xiao Shen’s eyes was unmistakable confusion.
 
 SOL:
 
-At last, his eyelids closed tight. The final look in Shao Shen’s eyes held an unmistakable question.
+At last, his eyelids closed tight. The final look in Xiao Shen’s eyes held an unmistakable question.
 
 ## H043 (replace)
 
@@ -612,11 +612,11 @@ Korean lines: 171
 
 BASE:
 
-And Shao Shen wasn’t the only one who felt that way.
+And Xiao Shen wasn’t the only one who felt that way.
 
 SOL:
 
-And Shao Shen wasn’t the only one asking it.
+And Xiao Shen wasn’t the only one asking it.
 
 ## H045 (replace)
 
@@ -640,11 +640,11 @@ Korean lines: 181
 
 BASE:
 
-They were A-rank Hunters under Shao Shen’s command, men called company commanders.
+They were A-rank Hunters under Xiao Shen’s command, men called company commanders.
 
 SOL:
 
-They came from the A-rank Hunters serving beneath Shao Shen—the men they called company commanders.
+They came from the A-rank Hunters serving beneath Xiao Shen—the men they called company commanders.
 
 ## H047 (replace)
 
@@ -726,11 +726,11 @@ Korean lines: 209
 
 BASE:
 
-“If we had left him alone, the enraged Regimental Commander Shao would have killed General Liao.”
+“If we had left him alone, the enraged Regimental Commander Xiao would have killed General Liao.”
 
 SOL:
 
-“If he had done nothing, the enraged Regimental Commander Shao would have killed General Liao.”
+“If he had done nothing, the enraged Regimental Commander Xiao would have killed General Liao.”
 
 ## H053 (replace)
 
@@ -938,11 +938,11 @@ Korean lines: 249
 
 BASE:
 
-“We can finally breathe. It’s fortunate that you stopped Regimental Commander Shao, Mr. Jin.”
+“We can finally breathe. It’s fortunate that you stopped Regimental Commander Xiao, Mr. Jin.”
 
 SOL:
 
-“That’s one less thing to worry about. I’m glad you stopped Regimental Commander Shao, Mr. Jin.”
+“That’s one less thing to worry about. I’m glad you stopped Regimental Commander Xiao, Mr. Jin.”
 
 ## H068 (replace)
 
@@ -966,11 +966,11 @@ Korean lines: 255
 
 BASE:
 
-Even knowing that there had been no other choice, I was left with a bitter taste in my mouth. I knew the rage and grief Shao Shen must have felt.
+Even knowing that there had been no other choice, I was left with a bitter taste in my mouth. I knew the rage and grief Xiao Shen must have felt.
 
 SOL:
 
-Even though I knew there had been no other choice, a bitter taste lingered in my mouth. I knew the rage and grief Shao Shen must have felt.
+Even though I knew there had been no other choice, a bitter taste lingered in my mouth. I knew the rage and grief Xiao Shen must have felt.
 
 ## H070 (replace)
 

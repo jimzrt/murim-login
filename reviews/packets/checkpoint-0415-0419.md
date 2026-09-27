@@ -305,7 +305,7 @@ Behind Jin Taekyung, Wu Heixing had been gathering the handful of Red Guard Gang
 
 “Hey, rookie. What the hell is Formation J?”
 
-Shao Shen, who recognized Wu Heixing, frowned and answered,
+Xiao Shen, who recognized Wu Heixing, frowned and answered,
 
 “Hyung is the one who came up with this battle formation.”
 
@@ -1111,7 +1111,7 @@ Lei Fei, who had fulfilled his mission until the very last moment.
 
 The five hundred Public Security Armed Forces Department Hunters who rose in defiance of death and charged valiantly.
 
-Team Leader Choi and Shao Shen, who had bound their hands to their sword hilts with strips of cloth, prepared to kill one more monster despite knowing they were facing their final moments.
+Team Leader Choi and Xiao Shen, who had bound their hands to their sword hilts with strips of cloth, prepared to kill one more monster despite knowing they were facing their final moments.
 
 *You’re right. Why did all of them take such risks? Like fucking idiots.*
 

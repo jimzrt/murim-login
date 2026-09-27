@@ -208,7 +208,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 중국 | **China** | Country from which Team Leader Choi’s video originates. |
 | 대통령 | **President** | Title for Korea's head of state. |
 | 주석 | **Chairman** | Political title used for Xiao Yang. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 도람프 | **Doramp** | Parodic name for the U.S. president in a forum headline. |
 | 푸린 | **Furin** | Russian president mentioned in a forum headline. |
 | 고이즈미 | **Koizumi** | Japanese prime minister quoted in the news. |

@@ -204,11 +204,11 @@ Korean lines: 77
 
 BASE:
 
-Shao Shen exhaled the breath he had been holding and joined in.
+Xiao Shen exhaled the breath he had been holding and joined in.
 
 SOL:
 
-Shao Shen finally released the breath he had been holding.
+Xiao Shen finally released the breath he had been holding.
 
 ## H016 (replace)
 
@@ -1068,11 +1068,11 @@ Korean lines: 295
 
 BASE:
 
-Shao Shen and the Hunters in the suicide squad, having escaped the crisis, gave me grateful looks.
+Xiao Shen and the Hunters in the suicide squad, having escaped the crisis, gave me grateful looks.
 
 SOL:
 
-Shao Shen and the suicide-squad Hunter I had just saved shot me grateful looks.
+Xiao Shen and the suicide-squad Hunter I had just saved shot me grateful looks.
 
 ## H077 (replace)
 

@@ -132,7 +132,7 @@ The Chinese Hunters were also bewildered by the sudden turn of events.
 
 I shouted toward the young Hunter who had been cutting through the battlefield with his spear from the front of the formation.
 
-“Shao Shen!”
+“Xiao Shen!”
 
 「M-Mr. Jin?」
 
@@ -152,7 +152,7 @@ I had just checked his Level with Qi Sense, but that was not important right now
 
 “Then what should you do now?”
 
-Shao Shen’s eyes cleared, and he raised his spear high.
+Xiao Shen’s eyes cleared, and he raised his spear high.
 
 「Attack formation! Everyone in the Public Security Armed Forces Department, from this moment on, attack everything except the undead monsters!」
 

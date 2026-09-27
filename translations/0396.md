@@ -170,7 +170,7 @@ A gale of magical power swept across the battlefield. Space split apart. Spells 
 
 Everyone in the city watched as light was devoured by darkness.
 
-The same thought flashed through Choi Minwoo’s and Shao Shen’s minds.
+The same thought flashed through Choi Minwoo’s and Xiao Shen’s minds.
 
 *This is…*
 

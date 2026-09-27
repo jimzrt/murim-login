@@ -858,11 +858,11 @@ Korean lines: 183
 
 BASE:
 
-Shao Shen, looking at me with unwavering trust, and…
+Xiao Shen, looking at me with unwavering trust, and…
 
 SOL:
 
-Shao Shen, who watched me with unwavering trust, and…
+Xiao Shen, who watched me with unwavering trust, and…
 
 ## H062 (replace)
 

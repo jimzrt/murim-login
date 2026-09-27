@@ -984,11 +984,11 @@ Korean lines: 205
 
 BASE:
 
-As I looked at Team Leader Choi and Shao Shen shouting with stiff expressions, I had no choice but to make them an offer.
+As I looked at Team Leader Choi and Xiao Shen shouting with stiff expressions, I had no choice but to make them an offer.
 
 SOL:
 
-I stared at Team Leader Choi and Shao Shen as they made their declarations with grim expressions, then offered them a compromise.
+I stared at Team Leader Choi and Xiao Shen as they made their declarations with grim expressions, then offered them a compromise.
 
 ## H071 (replace)
 
@@ -1202,7 +1202,7 @@ I pretended to rummage through the bag enchanted with space-expansion magic, the
 
 SOL:
 
-Pretending to rummage through my bag enchanted with space-expansion magic, I pulled out the item I had stored in my inventory and held it toward Shao Shen.
+Pretending to rummage through my bag enchanted with space-expansion magic, I pulled out the item I had stored in my inventory and held it toward Xiao Shen.
 
 ## H086 (replace)
 
@@ -1226,11 +1226,11 @@ Korean lines: 251
 
 BASE:
 
-Shao Shen reflexively accepted what I had offered and asked with a bewildered expression.
+Xiao Shen reflexively accepted what I had offered and asked with a bewildered expression.
 
 SOL:
 
-Shao Shen reflexively accepted it and stared at me in confusion.
+Xiao Shen reflexively accepted it and stared at me in confusion.
 
 ## H088 (replace)
 
@@ -1268,11 +1268,11 @@ Korean lines: 263
 
 BASE:
 
-Shao Shen hurriedly waved his hands, then gripped the hilt of Hero’s Soul with dazed eyes.
+Xiao Shen hurriedly waved his hands, then gripped the hilt of Hero’s Soul with dazed eyes.
 
 SOL:
 
-Shao Shen hurriedly waved his hands, then gazed almost dreamily at Hero’s Soul as he gripped its hilt.
+Xiao Shen hurriedly waved his hands, then gazed almost dreamily at Hero’s Soul as he gripped its hilt.
 
 ## H091 (replace)
 
@@ -1366,11 +1366,11 @@ Korean lines: 283
 
 BASE:
 
-I judged that Shao Shen, who was both Chinese and a member of the Public Security Armed Forces Department, was more suited to wield it than I was.
+I judged that Xiao Shen, who was both Chinese and a member of the Public Security Armed Forces Department, was more suited to wield it than I was.
 
 SOL:
 
-Shao Shen, another Chinese member of the Public Security Armed Forces Department, was a more fitting owner than I was.
+Xiao Shen, another Chinese member of the Public Security Armed Forces Department, was a more fitting owner than I was.
 
 ## H098 (replace)
 
@@ -1464,11 +1464,11 @@ Korean lines: 303
 
 BASE:
 
-In truth, I had agonized over it until the very end—whether to give Hero’s Soul to Shao Shen or Team Leader Choi.
+In truth, I had agonized over it until the very end—whether to give Hero’s Soul to Xiao Shen or Team Leader Choi.
 
 SOL:
 
-Truthfully, I had agonized until the very end over whether to give Hero’s Soul to Shao Shen or Team Leader Choi.
+Truthfully, I had agonized until the very end over whether to give Hero’s Soul to Xiao Shen or Team Leader Choi.
 
 ## H105 (replace)
 
@@ -1520,11 +1520,11 @@ Korean lines: 311
 
 BASE:
 
-At Team Leader Choi’s sincere congratulations, Shao Shen finally came to his senses and looked back and forth between Hero’s Soul and him.
+At Team Leader Choi’s sincere congratulations, Xiao Shen finally came to his senses and looked back and forth between Hero’s Soul and him.
 
 SOL:
 
-At Team Leader Choi’s sincere congratulations, Shao Shen finally came to his senses and looked back and forth between him and Hero’s Soul.
+At Team Leader Choi’s sincere congratulations, Xiao Shen finally came to his senses and looked back and forth between him and Hero’s Soul.
 
 ## H109 (replace)
 
@@ -1604,11 +1604,11 @@ Korean lines: 325
 
 BASE:
 
-Team Leader Choi was flustered and politely refused, but Shao Shen had already made up his mind, and his resolve was stronger.
+Team Leader Choi was flustered and politely refused, but Xiao Shen had already made up his mind, and his resolve was stronger.
 
 SOL:
 
-Team Leader Choi politely refused in his confusion, but Shao Shen had already made up his mind, and his resolve proved stronger.
+Team Leader Choi politely refused in his confusion, but Xiao Shen had already made up his mind, and his resolve proved stronger.
 
 ## H115 (replace)
 

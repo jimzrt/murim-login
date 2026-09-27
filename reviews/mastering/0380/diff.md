@@ -12,11 +12,11 @@ Korean lines: 5
 
 BASE:
 
-Shao Shen realized it for the first time.
+Xiao Shen realized it for the first time.
 
 SOL:
 
-Shao Shen realized something for the first time.
+Xiao Shen realized something for the first time.
 
 ## H002 (replace)
 
@@ -82,11 +82,11 @@ Korean lines: 25
 
 BASE:
 
-Shao Shen and most of the others could do nothing but stare at the airplane hurtling toward the ground, frozen like stone statues.
+Xiao Shen and most of the others could do nothing but stare at the airplane hurtling toward the ground, frozen like stone statues.
 
 SOL:
 
-Shao Shen and most of the others could only stand frozen like statues, staring at the airplane hurtling toward the ground.
+Xiao Shen and most of the others could only stand frozen like statues, staring at the airplane hurtling toward the ground.
 
 ## H007 (replace)
 
@@ -110,11 +110,11 @@ Korean lines: 31
 
 BASE:
 
-More importantly, Shao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They were not even given the chance to escape.
+More importantly, Xiao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They were not even given the chance to escape.
 
 SOL:
 
-More importantly, Shao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They had no chance to escape.
+More importantly, Xiao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They had no chance to escape.
 
 ## H009 (replace)
 
@@ -278,11 +278,11 @@ Korean lines: 85
 
 BASE:
 
-The question suddenly occurred to Shao Shen. But it was about to become irrelevant to him.
+The question suddenly occurred to Xiao Shen. But it was about to become irrelevant to him.
 
 SOL:
 
-The question suddenly occurred to Shao Shen, but it was about to become irrelevant.
+The question suddenly occurred to Xiao Shen, but it was about to become irrelevant.
 
 ## H021 (replace)
 
@@ -308,11 +308,11 @@ Korean lines: 95
 
 BASE:
 
-Shao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.
+Xiao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.
 
 SOL:
 
-Forgetting the humans right in front of him, Shao Shen drove his dagger into a monster that barreled into him.
+Forgetting the humans right in front of him, Xiao Shen drove his dagger into a monster that barreled into him.
 
 ## H023 (replace)
 
@@ -322,11 +322,11 @@ Korean lines: 103
 
 BASE:
 
-Unable to move even one step because monsters were surging in from every direction, Shao Shen felt the crushing weight descending upon him and shouted.
+Unable to move even one step because monsters were surging in from every direction, Xiao Shen felt the crushing weight descending upon him and shouted.
 
 SOL:
 
-He could not move a single step with monsters surging in from every direction. As the crushing weight fell upon him, Shao Shen shouted.
+He could not move a single step with monsters surging in from every direction. As the crushing weight fell upon him, Xiao Shen shouted.
 
 ## H024 (replace)
 
@@ -350,11 +350,11 @@ Korean lines: 113
 
 BASE:
 
-With lightning-fast skill, Shao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.
+With lightning-fast skill, Xiao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.
 
 SOL:
 
-With lightning-fast skill, Shao Shen buried his dagger in the back of a fleeing ogre’s head, then drew a deep breath.
+With lightning-fast skill, Xiao Shen buried his dagger in the back of a fleeing ogre’s head, then drew a deep breath.
 
 ## H026 (replace)
 
@@ -392,11 +392,11 @@ Korean lines: 129
 
 BASE:
 
-Drenched in a sticky liquid that he assumed was blood, Shao Shen thought:
+Drenched in a sticky liquid that he assumed was blood, Xiao Shen thought:
 
 SOL:
 
-Drenched in a sticky liquid he assumed was blood, Shao Shen thought:
+Drenched in a sticky liquid he assumed was blood, Xiao Shen thought:
 
 ## H029 (replace)
 
@@ -434,11 +434,11 @@ Korean lines: 135
 
 BASE:
 
-The strange sound was an odd choice for a dying cry, so Shao Shen slowly raised his eyelids.
+The strange sound was an odd choice for a dying cry, so Xiao Shen slowly raised his eyelids.
 
 SOL:
 
-It was a strange sound to make at the moment of death. Shao Shen cautiously opened his eyes.
+It was a strange sound to make at the moment of death. Xiao Shen cautiously opened his eyes.
 
 ## H032 (replace)
 
@@ -564,11 +564,11 @@ Korean lines: 165
 
 BASE:
 
-Shao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
+Xiao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
 
 SOL:
 
-Shao Shen could not understand the clean-cut man who looked like a young master, but he knew what language the man was speaking.
+Xiao Shen could not understand the clean-cut man who looked like a young master, but he knew what language the man was speaking.
 
 ## H041 (replace)
 
@@ -606,11 +606,11 @@ Korean lines: 195
 
 BASE:
 
-Relief and hope coursed through Shao Shen’s entire body, making him tremble.
+Relief and hope coursed through Xiao Shen’s entire body, making him tremble.
 
 SOL:
 
-Relief and hope washed over Shao Shen, making his entire body tremble.
+Relief and hope washed over Xiao Shen, making his entire body tremble.
 
 ## H044 (replace)
 

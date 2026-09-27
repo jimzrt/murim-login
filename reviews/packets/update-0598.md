@@ -199,7 +199,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 석고준 | **Go Jun** | Source full-name form for the established Go Jun, also known as Team Leader Seok. |
 | 경호팀장 | **Head of Security** | Go Jun's security-team office under Lee Jungryong. |
 | 대통령 | **President** | Title for Korea's head of state. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 마법 | **Magic** | Taekyung's explanation for Dark Heaven's anomalous abilities. |
 | 화기 | **fire qi** | The fire nature imparted to internal energy by the Fire Gate Divine Technique. |
 | 상호 | **Sangho** | Go Se-won's young son. |

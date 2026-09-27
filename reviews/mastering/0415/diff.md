@@ -680,11 +680,11 @@ Korean lines: 147
 
 BASE:
 
-Shao Shen, who recognized Wu Heixing, frowned and answered,
+Xiao Shen, who recognized Wu Heixing, frowned and answered,
 
 SOL:
 
-Recognizing Wu Heixing, Shao Shen frowned before answering.
+Recognizing Wu Heixing, Xiao Shen frowned before answering.
 
 ## H050 (replace)
 

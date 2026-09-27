@@ -750,11 +750,11 @@ Korean lines: 179
 
 BASE:
 
-Shao Shen, covered in wounds and blood as he fought back the endless stream of monsters, shouted in response like a battle cry.
+Xiao Shen, covered in wounds and blood as he fought back the endless stream of monsters, shouted in response like a battle cry.
 
 SOL:
 
-Covered in wounds and blood as he fought back the endless stream of monsters, Shao Shen answered with a battle cry.
+Covered in wounds and blood as he fought back the endless stream of monsters, Xiao Shen answered with a battle cry.
 
 ## H055 (replace)
 
@@ -904,11 +904,11 @@ Korean lines: 211
 
 BASE:
 
-Shao Shen opened his eyes and shouted with all his strength while deflecting the attacks raining down on him.
+Xiao Shen opened his eyes and shouted with all his strength while deflecting the attacks raining down on him.
 
 SOL:
 
-Shao Shen opened his eyes and shouted with all his strength as he deflected the attacks raining down on him.
+Xiao Shen opened his eyes and shouted with all his strength as he deflected the attacks raining down on him.
 
 ## H066 (replace)
 
@@ -932,11 +932,11 @@ Korean lines: 215
 
 BASE:
 
-During wartime, the command of a commander like Shao Shen was absolute.
+During wartime, the command of a commander like Xiao Shen was absolute.
 
 SOL:
 
-In wartime, the orders of a commander like Shao Shen were absolute.
+In wartime, the orders of a commander like Xiao Shen were absolute.
 
 ## H068 (replace)
 
@@ -946,11 +946,11 @@ Korean lines: 221
 
 BASE:
 
-The soldiers might not have much hope, but the Hunters’ odds of survival would rise dramatically. If Shao Shen made the right calls, a considerable number of them might be able to break through the encirclement and survive.
+The soldiers might not have much hope, but the Hunters’ odds of survival would rise dramatically. If Xiao Shen made the right calls, a considerable number of them might be able to break through the encirclement and survive.
 
 SOL:
 
-The soldiers might not have much hope, but the Hunters’ odds of survival would rise dramatically. If Shao Shen made the right calls, many of them might break through the encirclement and survive.
+The soldiers might not have much hope, but the Hunters’ odds of survival would rise dramatically. If Xiao Shen made the right calls, many of them might break through the encirclement and survive.
 
 ## H069 (replace)
 
@@ -1086,11 +1086,11 @@ Korean lines: 255
 
 BASE:
 
-「This is why we do not retreat. The 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment, led by Regimental Commander Shao Shen, have come to protect the people!」
+「This is why we do not retreat. The 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment, led by Regimental Commander Xiao Shen, have come to protect the people!」
 
 SOL:
 
-“This is why we do not retreat. Regimental Commander Shao Shen and all 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment are here to protect the people!”
+“This is why we do not retreat. Regimental Commander Xiao Shen and all 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment are here to protect the people!”
 
 ## H079 (replace)
 
@@ -1100,11 +1100,11 @@ Korean lines: 257
 
 BASE:
 
-Shao Shen’s quiet voice followed.
+Xiao Shen’s quiet voice followed.
 
 SOL:
 
-Shao Shen continued in a quiet voice.
+Xiao Shen continued in a quiet voice.
 
 ## H080 (replace)
 

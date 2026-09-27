@@ -26,7 +26,7 @@ BASE:
 
 SOL:
 
-*Go ahead with the army and occupy the city? That’s different from Colonel Shao’s orders.*
+*Go ahead with the army and occupy the city? That’s different from Colonel Xiao’s orders.*
 
 ## H003 (replace)
 
@@ -96,7 +96,7 @@ Zhang Wei's expression hardened at the senior officer's mocking tone toward Xiao
 
 SOL:
 
-Zhang Wei’s expression hardened at the officer’s mocking tone toward Shao Shen.
+Zhang Wei’s expression hardened at the officer’s mocking tone toward Xiao Shen.
 
 ## H008 (replace)
 
@@ -110,7 +110,7 @@ BASE:
 
 SOL:
 
-“Regimental Commander Shao Shen holds the same rank as you, Colonel Wang. And he’ll soon be promoted to major general.”
+“Regimental Commander Xiao Shen holds the same rank as you, Colonel Wang. And he’ll soon be promoted to major general.”
 
 ## H009 (replace)
 

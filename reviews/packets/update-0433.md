@@ -193,7 +193,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 중국 | **China** | Country from which Team Leader Choi’s video originates. |
 | 쓰촨성 | **Sichuan Province** | Source spelling variant of the established Sichuan location. |
 | 주석 | **Chairman** | Political title used for Xiao Yang. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 태자당 | **Crown Prince Party** | The faction associated with General Liao. |
 | 진린 | **Chen Lin** | Ming Dynasty general cited as Jin Taekyung's alleged ancestor. |
 | 쓰촨 | **Sichuan** | Variant spelling used for the region associated with the pattern Jin recognizes. |

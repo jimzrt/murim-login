@@ -673,7 +673,7 @@ I was tired of telling him that he was already dead. Suppressing an inward sigh,
 
 “It’s a crushing victory! Another crushing victory!”
 
-Shao Shen shouted with a face flushed red. Team Leader Choi and I had now seen this scene more than ten times, so we simply took it in stride.
+Xiao Shen shouted with a face flushed red. Team Leader Choi and I had now seen this scene more than ten times, so we simply took it in stride.
 
 *Well, I suppose he has reason to be excited.*
 
@@ -683,7 +683,7 @@ And we had finished the battle without a single fatality. It really was a monume
 
 “Our casualties are only twenty-three severely wounded and thirty lightly wounded. Ah, this is really…!”
 
-Shao Shen trembled like a puppy that needed to pee and looked at me with shining eyes.
+Xiao Shen trembled like a puppy that needed to pee and looked at me with shining eyes.
 
 “How can this happen every time?”
 
@@ -697,7 +697,7 @@ Team Leader Choi gave me a look of mild disbelief.
 
 “That’s usually how it goes. But what can I do when it isn’t because I’m lucky? I’m actually that strong. Right, Shen?”
 
-Shao Shen nodded at tremendous speed.
+Xiao Shen nodded at tremendous speed.
 
 “That’s right! Hyung is the best!”
 
@@ -713,7 +713,7 @@ Watching us trade lines back and forth, Team Leader Choi slowly shook his head.
 
 What was that supposed to mean? Somehow, it sounded unpleasant.
 
-I shrugged and asked Shao Shen,
+I shrugged and asked Xiao Shen,
 
 “More importantly, what about headquarters?”
 
@@ -751,7 +751,7 @@ This was cleaning in the literal sense. The army assigned to the western front h
 
 “Saying what?”
 
-Shao Shen studied my expression before whispering cautiously.
+Xiao Shen studied my expression before whispering cautiously.
 
 “They’re a little dissatisfied with the roles they’ve been assigned…”
 
@@ -759,7 +759,7 @@ Shao Shen studied my expression before whispering cautiously.
 
 What in the world was he talking about?
 
-It took me quite a while to understand Shao Shen’s words. After a long, heavy silence, I finally parted my lips with a sinking feeling.
+It took me quite a while to understand Xiao Shen’s words. After a long, heavy silence, I finally parted my lips with a sinking feeling.
 
 “Don’t tell me they want to stop cleaning up monster corpses and distinguish themselves by making some kind of achievement.”
 
@@ -777,13 +777,13 @@ Team Leader Choi, who had been listening quietly, spoke in a calm voice.
 
 I wondered whether that was really something to say in front of nearly a thousand Chinese people, but Chinese people and chinks were, strictly speaking, different races.
 
-Shao Shen, the representative of all good Chinese people, had turned red with embarrassment.
+Xiao Shen, the representative of all good Chinese people, had turned red with embarrassment.
 
 “I-I’m sorry. But as far as I know, it isn’t all the officers. Only some of them are dissatisfied.”
 
 “Some of them. Naturally. But there’s one thing I’m curious about…”
 
-I frowned and pointed over Shao Shen’s shoulder.
+I frowned and pointed over Xiao Shen’s shoulder.
 
 “Does that ‘some’ include the man coming over there?”
 

@@ -205,7 +205,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 영국 | **United Kingdom** | Country associated with BCC. |
 | 중국 | **China** | Country from which Team Leader Choi’s video originates. |
 | 오대 | **Five Squads** | Named Tang Clan organizational group in Tang Sadok's mobilization order. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 화기 | **fire qi** | The fire nature imparted to internal energy by the Fire Gate Divine Technique. |
 | 모스크바 | **Moscow** | Russian city used in Taekyung's modern-world comparison. |
 | 마비 | **Paralyzed** | Status abnormality inflicted by Kraken's Ink. |

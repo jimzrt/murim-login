@@ -698,11 +698,11 @@ Sometimes there were things you had to do even when you didn’t want to. This w
 
 「…….」
 
-“Shao Shen!”
+“Xiao Shen!”
 
 Thud. Thud. Thud.
 
-Despite my forceful shout, Shao Shen’s footsteps did not stop. He simply continued walking toward some unknown place in search of the criminals who had killed his subordinates.
+Despite my forceful shout, Xiao Shen’s footsteps did not stop. He simply continued walking toward some unknown place in search of the criminals who had killed his subordinates.
 
 In the end, I had to approach him myself and grab his shoulder.
 
@@ -718,7 +718,7 @@ A dry, lifeless voice spilled out.
 
 「Where?」
 
-Shao Shen looked around with empty eyes before continuing.
+Xiao Shen looked around with empty eyes before continuing.
 
 「I don’t know. But they must be somewhere.」
 
@@ -730,7 +730,7 @@ Shao Shen looked around with empty eyes before continuing.
 
 For a moment, I was unable to speak.
 
-The man I saw before me was not Shao Shen. He was me, a few years ago.
+The man I saw before me was not Xiao Shen. He was me, a few years ago.
 
 That was why I couldn’t easily say what needed to be said.
 
@@ -754,7 +754,7 @@ I swallowed the curse circling the tip of my tongue and tightened my grip on his
 
 The System notification had told me so. There was no way I could be wrong.
 
-Shao Shen met my confident gaze and muttered blankly.
+Xiao Shen met my confident gaze and muttered blankly.
 
 「I’m too late. It really is too late.」
 
@@ -764,13 +764,13 @@ I thought he would finally let his suppressed rage and grief erupt.
 
 Just as I had done years ago, I thought he would cry out loud and smash anything he could see.
 
-But I was wrong. The object of Shao Shen’s desire for revenge wasn’t limited to the monsters.
+But I was wrong. The object of Xiao Shen’s desire for revenge wasn’t limited to the monsters.
 
 Rattle-rattle. Thud.
 
 The tanks were only now entering the city.
 
-As Shao Shen watched the advancing column draw closer from a distant speck, his eyes burned like flames.
+As Xiao Shen watched the advancing column draw closer from a distant speck, his eyes burned like flames.
 
 「Then I suppose I’ll have to kill that bastard, at least.」
 
@@ -786,13 +786,13 @@ But…
 
 Feeling wretched, I reached out.
 
-Shao Shen sensed something was wrong and tried to evade me, but my hand moved fluidly and had already brushed his acupoints.
+Xiao Shen sensed something was wrong and tried to evade me, but my hand moved fluidly and had already brushed his acupoints.
 
 Tap. Tap-tap!
 
 The Paralysis Acupoint, the Mute Acupoint, and the Sleep Acupoint.
 
-Shao Shen’s entire body went rigid, his voice was cut off, and deep sleep began to overtake him.
+Xiao Shen’s entire body went rigid, his voice was cut off, and deep sleep began to overtake him.
 
 His eyelids trembled as though he were struggling with all his strength to resist the drowsiness pouring over him.
 
@@ -800,11 +800,11 @@ His eyelids trembled as though he were struggling with all his strength to resis
 
 Sshk.
 
-In the end, his eyelids closed firmly. The last thing I saw in Shao Shen’s eyes was unmistakable confusion.
+In the end, his eyelids closed firmly. The last thing I saw in Xiao Shen’s eyes was unmistakable confusion.
 
 *Why? How come?*
 
-And Shao Shen wasn’t the only one who felt that way.
+And Xiao Shen wasn’t the only one who felt that way.
 
 「Regimental Commander!」
 
@@ -814,7 +814,7 @@ Whoooooosh! Shing!
 
 Along with furious shouts, five sounds of air being split apart rang out.
 
-They were A-rank Hunters under Shao Shen’s command, men called company commanders.
+They were A-rank Hunters under Xiao Shen’s command, men called company commanders.
 
 I swept a hand toward them as they charged without hesitation.
 
@@ -842,7 +842,7 @@ As the atmosphere grew more hostile, Team Leader Choi stepped forward and spoke 
 
 「W-What did you say?」
 
-“If we had left him alone, the enraged Regimental Commander Shao would have killed General Liao.”
+“If we had left him alone, the enraged Regimental Commander Xiao would have killed General Liao.”
 
 「……General Liao deserves to die. Even if our regimental commander hadn’t done it, we would have taken matters into our own hands.」
 
@@ -882,13 +882,13 @@ But it was clear that they had all reached the same tacit agreement.
 
 Once the situation finally came to an end, Team Leader Choi let out a relieved sigh.
 
-“We can finally breathe. It’s fortunate that you stopped Regimental Commander Shao, Mr. Jin.”
+“We can finally breathe. It’s fortunate that you stopped Regimental Commander Xiao, Mr. Jin.”
 
 “……It was nothing.”
 
 Fortunate. Was this really something we should call fortunate?
 
-Even knowing that there had been no other choice, I was left with a bitter taste in my mouth. I knew the rage and grief Shao Shen must have felt.
+Even knowing that there had been no other choice, I was left with a bitter taste in my mouth. I knew the rage and grief Xiao Shen must have felt.
 
 “More importantly, it seemed there were survivors.”
 

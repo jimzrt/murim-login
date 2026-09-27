@@ -155,8 +155,8 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Go Jun has gained strength, defeated two Death Knights at the northern front, and remains Lee Jungryong's disciple and Head of Security.",
     "Lieutenant General Wang Ochun has become the northern-front commander after his predecessor's death and has maintained covert meetings with Go Jun at hidden safe houses.",
     "Ares Guild suffered eleven severely injured and forty-six lightly injured personnel on the northern front, with no deaths.",
-    "Team Leader Choi and Shao Shen remain behind to recover because neither is currently fit for the departing operation.",
-    "Hero's Soul did not reject Shao Shen when he gripped its hilt; Shao Shen judged Team Leader Choi more suitable and insisted that Choi receive it.",
+    "Team Leader Choi and Xiao Shen remain behind to recover because neither is currently fit for the departing operation.",
+    "Hero's Soul did not reject Xiao Shen when he gripped its hilt; Xiao Shen judged Team Leader Choi more suitable and insisted that Choi receive it.",
     "Jin Taekyung has departed with the assembled forces for the operation intended to reach the Arch Lich."
   ],
   "continuity_sources": [
@@ -755,7 +755,7 @@ Fwoooosh! Boom!
 
 Horrific heat coiled around dozens of lizard men and erupted into flames. The monsters hesitating at the sight were already no different from a defeated army.
 
-Shao Shen read the flow of battle and charged to the front, shouting.
+Xiao Shen read the flow of battle and charged to the front, shouting.
 
 “Charge! Charge!”
 

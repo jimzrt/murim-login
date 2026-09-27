@@ -23,30 +23,30 @@
     {
       "confidence": 0.99,
       "current": "*Those island bastards are using a method from World War II. Did they not consider that their own allies might die?*",
-      "defect": "The draft makes the “island bastards” the people currently using the tactic. Shao Shen instead believes the present attacker has adopted a tactic those islanders used during World War II.",
+      "defect": "The draft makes the “island bastards” the people currently using the tactic. Xiao Shen instead believes the present attacker has adopted a tactic those islanders used during World War II.",
       "id": "F03",
-      "rationale": "The current subject contradicts Shao Shen's immediate assumption that the attacker is a Hunter sent by China's Central Military Commission.",
+      "rationale": "The current subject contradicts Xiao Shen's immediate assumption that the attacker is a Hunter sent by China's Central Military Commission.",
       "replacement": "*To think he’d resort to a tactic those island bastards used back in World War II. Did he not consider that his own allies might die?*",
       "severity": "critical",
       "source": "섬나라 놈들이 세계 2차 대전 때나 쓰던 방법을 가져오다니. 아군이 죽을 것까지는 생각 못 했단 말인가."
     },
     {
       "confidence": 0.98,
-      "current": "Shao Shen forgot there were even humans in front of him and thrust his dagger at a monster that slammed its body into him.\n\nThwack!",
-      "defect": "The draft makes the monster's collision a completed action and only has Shao Shen thrust at it. The source has the monster barreling toward him and Shao Shen successfully driving the dagger into it; the blunt “Thwack” also obscures the stabbing impact.",
+      "current": "Xiao Shen forgot there were even humans in front of him and thrust his dagger at a monster that slammed its body into him.\n\nThwack!",
+      "defect": "The draft makes the monster's collision a completed action and only has Xiao Shen thrust at it. The source has the monster barreling toward him and Xiao Shen successfully driving the dagger into it; the blunt “Thwack” also obscures the stabbing impact.",
       "id": "F04",
       "rationale": "The next line identifies the monster as dead and collapsing, so the dagger's penetration and the action order are mechanically important.",
-      "replacement": "Shao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.\n\nSchunk!",
+      "replacement": "Xiao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.\n\nSchunk!",
       "severity": "critical",
       "source": "샤오 쉔은 코앞에 인간이 있는 것도 잊은 채 몸을 부딪혀 오는 몬스터를 향해 단검을 내질렀다.\n\n푸푹!"
     },
     {
       "confidence": 1.0,
-      "current": "Shao Shen buried his dagger in the back of an ogre fleeing with lightning speed, then drew a deep breath.",
-      "defect": "The modifier is attached to the wrong subject: Shao Shen's skill is lightning-fast, not the fleeing ogre. The draft also reduces 뒤통수, the back of the head, to the back of the body.",
+      "current": "Xiao Shen buried his dagger in the back of an ogre fleeing with lightning speed, then drew a deep breath.",
+      "defect": "The modifier is attached to the wrong subject: Xiao Shen's skill is lightning-fast, not the fleeing ogre. The draft also reduces 뒤통수, the back of the head, to the back of the body.",
       "id": "F05",
-      "rationale": "The source explicitly attributes the speed to Shao Shen's technique and specifies the location of the strike.",
-      "replacement": "With lightning-fast skill, Shao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.",
+      "rationale": "The source explicitly attributes the speed to Xiao Shen's technique and specifies the location of the strike.",
+      "replacement": "With lightning-fast skill, Xiao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.",
       "severity": "critical",
       "source": "번개 같은 솜씨로 도망치는 오우거의 뒤통수에 단검을 박아 넣은 샤오 쉔은 크게 심호흡했다."
     },
@@ -55,7 +55,7 @@
       "current": "“Whew.”",
       "defect": "“Whew” expresses relief or exhaustion, while 읏차 is an exertion cry akin to “heave-ho.” This weakens the subsequent joke about it being an oddly casual alternative to a death scream.",
       "id": "F06",
-      "rationale": "Shao Shen expects an anguished final cry but hears the sound of someone casually exerting himself while stopping the airplane.",
+      "rationale": "Xiao Shen expects an anguished final cry but hears the sound of someone casually exerting himself while stopping the airplane.",
       "replacement": "“Heave-ho.”",
       "severity": "major",
       "source": "“읏차.”"
@@ -63,9 +63,9 @@
     {
       "confidence": 0.99,
       "current": "“……Lord Fuck? What the hell?”",
-      "defect": "Taekyung does not repeat or question the full nickname. He mutters “Fuck” and asks what Shao Shen wants, inadvertently confirming his identity through his characteristic profanity.",
+      "defect": "Taekyung does not repeat or question the full nickname. He mutters “Fuck” and asks what Xiao Shen wants, inadvertently confirming his identity through his characteristic profanity.",
       "id": "F07",
-      "rationale": "The following punchline, *It really is him!*, depends on Shao Shen recognizing Taekyung from the curse rather than Taekyung explicitly repeating the nickname.",
+      "rationale": "The following punchline, *It really is him!*, depends on Xiao Shen recognizing Taekyung from the curse rather than Taekyung explicitly repeating the nickname.",
       "replacement": "“…Fuck. What?”",
       "severity": "major",
       "source": "“……시벌. 뭐여.”"

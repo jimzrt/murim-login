@@ -220,7 +220,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 중화인민공화국 | **People's Republic of China** | Formal country name shouted by the Chinese Hunters. |
 | 대통령 | **President** | Title for Korea's head of state. |
 | 주석 | **Chairman** | Political title used for Xiao Yang. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 태자당 | **Crown Prince Party** | The faction associated with General Liao. |
 | 도람프 | **Doramp** | Parodic name for the U.S. president in a forum headline. |
 | 마법 | **Magic** | Taekyung's explanation for Dark Heaven's anomalous abilities. |

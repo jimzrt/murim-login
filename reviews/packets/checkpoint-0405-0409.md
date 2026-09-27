@@ -110,7 +110,7 @@ As the allied fronts surround fog-shrouded Suining City, corpses rise and Skelet
 - The coalition’s suicide squad is intended to penetrate the monster army and kill the Arch Lich. The undead forces are expected to collapse if it dies.
 - Jin Taekyung, Lee Jungryong, and Wu Heixing are part of the assault squad. Magic Johnson, Prince Felix, and Faye Chen remain in rear defense.
 - Lee Jungryong privately assures Wu Heixing that the operation will not expose him to serious danger, despite Wu’s reluctance and distrust.
-- Hero’s Soul was passed from Jin to Shao Shen, who judged Team Leader Choi more suitable and pressed the sword on him. Its final wielder in this operation remains relevant.
+- Hero’s Soul was passed from Jin to Xiao Shen, who judged Team Leader Choi more suitable and pressed the sword on him. Its final wielder in this operation remains relevant.
 - Jin has three jiazi of internal energy and can recover from ordinary fatigue through qi circulation.
 - Team Leader Choi is a descendant of Cheon Taemin with exceptional martial talent and substantial internal energy. He trusts Jin but distrusts Lee and Wu.
 - Jin’s internal-energy-enhanced speech has raised the Western Front’s morale immediately before the assault.
@@ -348,7 +348,7 @@ The following dawn, those who woke from sleep realized that they had been divide
 
 Those who were leaving and those who were staying.
 
-Naturally, I belonged to the former group, while Team Leader Choi and Shao Shen belonged to the latter.
+Naturally, I belonged to the former group, while Team Leader Choi and Xiao Shen belonged to the latter.
 
 And only when the time to leave was almost upon them did the two men finally come to their senses and begin resisting the fact that they were staying behind.
 
@@ -362,7 +362,7 @@ And only when the time to leave was almost upon them did the two men finally com
 
 *……What is this, an echo?*
 
-As I looked at Team Leader Choi and Shao Shen shouting with stiff expressions, I had no choice but to make them an offer.
+As I looked at Team Leader Choi and Xiao Shen shouting with stiff expressions, I had no choice but to make them an offer.
 
 “Hmm. Then if you can last ten minutes against me, I’ll take you with me.”
 
@@ -402,13 +402,13 @@ I pretended to rummage through the bag enchanted with space-expansion magic, the
 
 “Here.”
 
-Shao Shen blinked.
+Xiao Shen blinked.
 
 “……Hyung?”
 
 “What are you waiting for? Take it. My arm’s going to fall off.”
 
-Shao Shen reflexively accepted what I had offered and asked with a bewildered expression.
+Xiao Shen reflexively accepted what I had offered and asked with a bewildered expression.
 
 “What is this?”
 
@@ -420,7 +420,7 @@ Shao Shen reflexively accepted what I had offered and asked with a bewildered ex
 
 “No, that’s not it. I’m just wondering whether I should be accepting something like this……”
 
-Shao Shen hurriedly waved his hands, then gripped the hilt of Hero’s Soul with dazed eyes.
+Xiao Shen hurriedly waved his hands, then gripped the hilt of Hero’s Soul with dazed eyes.
 
 Its weight distribution and balance were close to perfect. An edge impossible to conceal flowed from the transparent blade.
 
@@ -440,7 +440,7 @@ That was enough.
 
 If I kept it, it would only rot away in my inventory. I had been using a spear for a long time already.
 
-I judged that Shao Shen, who was both Chinese and a member of the Public Security Armed Forces Department, was more suited to wield it than I was.
+I judged that Xiao Shen, who was both Chinese and a member of the Public Security Armed Forces Department, was more suited to wield it than I was.
 
 *The sword must have recognized him too, considering that nothing happened even after he gripped the hilt.*
 
@@ -460,7 +460,7 @@ It was hard to hear the words of a loser who had secretly grabbed Hero’s Soul 
 
 Since I was thinking about it anyway, I discreetly glanced at Team Leader Choi.
 
-In truth, I had agonized over it until the very end—whether to give Hero’s Soul to Shao Shen or Team Leader Choi.
+In truth, I had agonized over it until the very end—whether to give Hero’s Soul to Xiao Shen or Team Leader Choi.
 
 Team Leader Choi was human too, after all. He might have felt hurt.
 
@@ -468,7 +468,7 @@ But apparently, all that worry had been for nothing.
 
 “Congratulations, Regimental Commander Shen. You’ve obtained a truly fine sword.”
 
-At Team Leader Choi’s sincere congratulations, Shao Shen finally came to his senses and looked back and forth between Hero’s Soul and him.
+At Team Leader Choi’s sincere congratulations, Xiao Shen finally came to his senses and looked back and forth between Hero’s Soul and him.
 
 Conflict flickered in his eyes. But soon, a clear smile spread across his lips.
 
@@ -482,7 +482,7 @@ This was an unexpected turn of events. Still……
 
 *That’s nice to see.*
 
-Team Leader Choi was flustered and politely refused, but Shao Shen had already made up his mind, and his resolve was stronger.
+Team Leader Choi was flustered and politely refused, but Xiao Shen had already made up his mind, and his resolve was stronger.
 
 As I watched the two of them pass the sword back and forth, I quietly slipped out of the ward and started walking.
 
@@ -651,7 +651,7 @@ Fwoooosh! Boom!
 
 Horrific heat coiled around dozens of lizard men and erupted into flames. The monsters hesitating at the sight were already no different from a defeated army.
 
-Shao Shen read the flow of battle and charged to the front, shouting.
+Xiao Shen read the flow of battle and charged to the front, shouting.
 
 “Charge! Charge!”
 
@@ -1842,7 +1842,7 @@ That Jin Taekyung’s words might be advice directed straight at them.
 
 “We will win.”
 
-At Shao Shen’s firm answer, Jin Taekyung laughed aloud.
+At Xiao Shen’s firm answer, Jin Taekyung laughed aloud.
 
 “Yeah. We have to. But…”
 

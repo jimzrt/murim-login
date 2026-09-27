@@ -160,7 +160,7 @@ If the person already appears under Listed compact profiles, use `profile_update
     "The western-front force suffered a major massacre near the city, while Wei Fenghu remains China's Minister of National Defense and Lei Fei remains missing with his unit.",
     "Faye Chen is an S-rank Great Cataclysm veteran commanding frontline forces in Sichuan Province and is openly hostile toward Wu Heixing.",
     "Wu Heixing remains hostile toward Jin Taekyung and now intends to act against him after recalling his conversation with Lee Jungryong.",
-    "Shao Shen has recovered consciousness after Jin used the Sleep Acupoint on him, and Magic Johnson has arrived at Jin's camp seeking him."
+    "Xiao Shen has recovered consciousness after Jin used the Sleep Acupoint on him, and Magic Johnson has arrived at Jin's camp seeking him."
   ],
   "continuity_sources": [
     393,
@@ -171,12 +171,12 @@ If the person already appears under Listed compact profiles, use `profile_update
     "What happened to Lei Fei and the Hunters who disappeared with him?",
     "What happened to the Second Fiend assigned to the Qingcheng attack?",
     "What is Wu Heixing planning after recalling his conversation with Lee Jungryong?",
-    "Why has Magic Johnson come to see Jin, and what does Shao Shen know about the consequences of Jin's confrontation with General Liao?"
+    "Why has Magic Johnson come to see Jin, and what does Xiao Shen know about the consequences of Jin's confrontation with General Liao?"
   ],
   "safe_through": 393,
   "temporary_decisions": [
     "Render 파이 첸 as Faye Chen and 매직 존슨 as Magic Johnson.",
-    "Render 형님 as hyung when Shao Shen addresses Jin Taekyung, and retain Mr. Jin for 진태경 씨 in Team Leader Choi's formal address.",
+    "Render 형님 as hyung when Xiao Shen addresses Jin Taekyung, and retain Mr. Jin for 진태경 씨 in Team Leader Choi's formal address.",
     "Preserve the hostile, profane tone of Faye Chen's confrontation with Wu Heixing."
   ],
   "version": 1

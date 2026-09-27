@@ -365,7 +365,7 @@ I could feel it. The internal energy that had been slowly draining away was fill
 
 But there was something more important.
 
-“Team Leader Choi! Shao Shen!”
+“Team Leader Choi! Xiao Shen!”
 
 “Yes!”
 

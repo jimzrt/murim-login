@@ -554,20 +554,20 @@ Overrides generic relationship prose in character profiles for this pair.
 | 최 팀장 | 진태경 | professional_acquaintances | Mr. Jin Taekyung | formal and trusting | Team Leader Choi repeatedly addresses Jin while relying on him to resolve the airborne monster attack. |
 | 진태경 | 최 팀장 | professional_acquaintances | Team Leader Choi | casual and teasing | Taekyung questions Choi's trust and reacts informally during the crisis. |
 | 진태경 | 기장 | strangers | Captain | casual and commanding | Taekyung directly asks the captain for permission to open the aircraft door before cutting it open. |
-| 샤오 쉔 | 야오위 | Friends, colleagues, and sparring partners | Mr. Yao Wei | Polite | Shao Shen addresses Yao Wei respectfully in their remembered conversations. |
-| 샤오 쉔 | 진태경 | junior_Hunter_to_revered_foreign_Hunter | Mr. Jin | formal-polite | Shao Shen addresses Jin as 진 선생님 after recognizing the famous Korean Hunter. |
+| 샤오 쉔 | 야오위 | Friends, colleagues, and sparring partners | Mr. Yao Wei | Polite | Xiao Shen addresses Yao Wei respectfully in their remembered conversations. |
+| 샤오 쉔 | 진태경 | junior_Hunter_to_revered_foreign_Hunter | Mr. Jin | formal-polite | Xiao Shen addresses Jin as 진 선생님 after recognizing the famous Korean Hunter. |
 | 진태경 | 최 팀장 | mission_companion_to_team_leader | Team Leader Choi | polite-directive | Jin instructs Choi to protect civilians, evacuate the unconscious passengers, and continue fighting without overextending himself. |
-| 진태경 | 샤오 쉔 | battlefield ally and subordinate commander | Shao Shen | direct and honorific-polite | Jin calls Shao Shen by name and orders him to switch the defenders to an offensive. |
-| 샤오 쉔 | 진태경 | subordinate commander to respected ally | Mr. Jin | deferential | Shao Shen addresses Jin as 진 선생님 after recognizing him during the battle. |
+| 진태경 | 샤오 쉔 | battlefield ally and subordinate commander | Xiao Shen | direct and honorific-polite | Jin calls Xiao Shen by name and orders him to switch the defenders to an offensive. |
+| 샤오 쉔 | 진태경 | subordinate commander to respected ally | Mr. Jin | deferential | Xiao Shen addresses Jin as 진 선생님 after recognizing him during the battle. |
 | 최 팀장 | 진태경 | team_leader_to_guild_ally | Mr. Jin Taekyung | formal-polite | Team Leader Choi greets Jin after the airport battle. |
-| 샤오 쉔 | 진태경 | rescued_ally_to_hero | Mr. Jin | formal-honorific | Shao Shen thanks Jin for saving him, his comrades, and the people of Zhonghua. |
+| 샤오 쉔 | 진태경 | rescued_ally_to_hero | Mr. Jin | formal-honorific | Xiao Shen thanks Jin for saving him, his comrades, and the people of Zhonghua. |
 | 웨이펑후 | 진태경 | senior_military_official_to_ally | Mr. Jin | formal-polite | Wei Fenghu addresses Jin while inviting him to walk to the operations headquarters. |
 | 진태경 | 골골 | captor_to_subordinate_undead | Bones | mocking-casual | Jin uses the mocking nickname while treating the Skeleton Warlord like a pet. |
 | 조종사 | 웨이펑후 | Military subordinate to superior | Comrade Minister of National Defense | Formal military honorific | The pilot salutes Wei Fenghu and reports that the aircraft and escorts are ready. |
-| 웨이펑후 | 샤오 쉔 | Senior military superior to subordinate | Senior Colonel Shao Shen | Formal and measured | Wei addresses Shao Shen by his senior-colonel rank when they part. |
-| 샤오 쉔 | 웨이펑후 | Military subordinate to superior | Comrade Minister of National Defense | Highly formal and deferential | Shao Shen reports to Wei and promises to complete his mission before rejoining him. |
-| 샤오 쉔 | 진태경 | Junior Hunter to admired senior Hunter | Mr. Jin | Extremely deferential | Shao Shen refers to Jin as 진 선생님 and treats his praise as an honor from an idol. |
-| 샤오 쉔 | 최 팀장 | Junior Hunter to honored foreign team leader | Team Leader Choi | Formal and deferential | Shao Shen addresses Jin and Team Leader Choi collectively as the two gentlemen. |
+| 웨이펑후 | 샤오 쉔 | Senior military superior to subordinate | Senior Colonel Xiao Shen | Formal and measured | Wei addresses Xiao Shen by his senior-colonel rank when they part. |
+| 샤오 쉔 | 웨이펑후 | Military subordinate to superior | Comrade Minister of National Defense | Highly formal and deferential | Xiao Shen reports to Wei and promises to complete his mission before rejoining him. |
+| 샤오 쉔 | 진태경 | Junior Hunter to admired senior Hunter | Mr. Jin | Extremely deferential | Xiao Shen refers to Jin as 진 선생님 and treats his praise as an honor from an idol. |
+| 샤오 쉔 | 최 팀장 | Junior Hunter to honored foreign team leader | Team Leader Choi | Formal and deferential | Xiao Shen addresses Jin and Team Leader Choi collectively as the two gentlemen. |
 | 진태경 | 웨이펑후 | Foreign Hunter to senior military official | General, Commander, or Supreme Leader | Polite but flustered | Jin jokingly cycles through grand titles while trying to interrupt Wei's emotional request. |
 | 진태경 | 최 팀장 | Team member to team leader | Team Leader | Polite internal speech | Jin addresses Choi as 팀장님 through Sound Transmission. |
 | 최 팀장 | 진태경 | professional_ally_to_ally | Mr. Jin Taekyung | formal-polite | Team Leader Choi repeatedly warns Jin not to make verbal mistakes before the Chairman. |
@@ -603,17 +603,17 @@ Overrides generic relationship prose in character profiles for this pair.
 | 파이 첸 | 진태경 | senior S-rank Hunter to younger fellow Hunter | young man | casual and reassuring | Faye counsels Jin to relax and not take responsibility for every death. |
 | 매직 존슨 | 최 팀장 | fellow S-rank Hunter to Korean Team Leader | Choi | casual and teasing | Magic addresses Choi while offering an awkward farewell before boarding the jet. |
 | 진태경 | 최 팀장 | younger teammate to Team Leader | Team Leader | polite and teasing | Jin repeatedly addresses Choi as Team Leader while joking about their drinking-game bargain and departure. |
-| 샤오 쉔 | 진태경 | young military commander to senior allied Hunter and commander | Teacher Jin, then hyung | formal-deferential, then familiar and deferential | Shao Shen follows Jin's orders and accepts Jin's request to use hyung instead of Teacher Jin. |
-| 샤오 쉔 | 진태경 | subordinate_to_older_brother_figure | Hyung | polite | Shao Shen addresses Jin as 형님 while reporting battlefield and headquarters matters. |
+| 샤오 쉔 | 진태경 | young military commander to senior allied Hunter and commander | Teacher Jin, then hyung | formal-deferential, then familiar and deferential | Xiao Shen follows Jin's orders and accepts Jin's request to use hyung instead of Teacher Jin. |
+| 샤오 쉔 | 진태경 | subordinate_to_older_brother_figure | Hyung | polite | Xiao Shen addresses Jin as 형님 while reporting battlefield and headquarters matters. |
 | 진태경 | 랴오 상장 | allied_Hunter_to_foreign_general | General | formal-to-hostile-casual | Jin initially addresses Liao respectfully as 장군님 before becoming openly hostile. |
 | 랴오 상장 | 진태경 | foreign_general_to_allied_Hunter | Mr. Jin | formal | Liao repeatedly addresses Jin as 진 선생 while attempting to maintain rank-based formality. |
 | 장 웨이 | 왕 상교 | Subordinate company commander addressing a superior colonel | Colonel Wang | Formal and deferential | Zhang Wei directly questions Colonel Wang about the operation. |
 | 소대장 | 장 웨이 | Subordinate platoon commander addressing his company commander | Company Commander | Blunt but respectful | A platoon commander addresses Zhang Wei by his command title while affirming the unit's loyalty. |
-| 진태경 | 샤오 쉔 | ally_to_regimental_commander | Shao Shen | urgent-casual | Jin calls him 쉔 and 샤오 쉔 while trying to stop his revenge. |
+| 진태경 | 샤오 쉔 | ally_to_regimental_commander | Xiao Shen | urgent-casual | Jin calls him 쉔 and 샤오 쉔 while trying to stop his revenge. |
 | 최 팀장 | 진태경 | professional_ally | Mr. Jin | polite-professional | Team Leader Choi consistently addresses Jin as 진태경 씨. |
 | 파이 첸 | 우헤이싱 | senior S-rank war hero to younger S-rank Hunter and subordinate commander | kid | insulting, patronizing, and confrontational | Faye alternates between taunting Wu's immaturity and issuing a direct warning. |
 | 우헤이싱 | 파이 첸 | younger S-rank Hunter to senior S-rank war hero and hostile commander | Faye Chen | hostile, informal, and confrontational | Wu responds to Faye's criticism with threats and anti-Hong Kong insults. |
-| 진태경 | 샤오 쉔 | senior ally to younger allied commander | Shao Shen | familiar, shifting between polite and casual | Jin initially uses a polite form but switches to familiar speech while checking Shao's condition. |
+| 진태경 | 샤오 쉔 | senior ally to younger allied commander | Xiao Shen | familiar, shifting between polite and casual | Jin initially uses a polite form but switches to familiar speech while checking Shao's condition. |
 | 샤오 쉔 | 진태경 | younger allied commander to respected senior ally | hyung | deferential and familiar | Shao thanks Jin for intervening on his behalf and addresses him as hyung. |
 | 최 팀장 | 진태경 | senior team leader to allied Hunter | Mr. Jin | formal, stiff, and cautionary | Team Leader Choi warns Jin about the political consequences of attacking General Liao. |
 | 마이클 존슨 | 진태경 | Hunter fan to famous Hunter | Jin; initially Lord Fuck | friendly and playful | Michael praises Jin and accepts Jin's request to use Jin instead of Lord Fuck. |
@@ -627,8 +627,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 매직 존슨 | 최 팀장 | foreign archmage addressing the Korean Team Leader | Choi | casual and familiar | Magic Johnson calls him Choi while reacting theatrically to his decision to remain behind. |
 | 진태경 | 필릭스 | Korean S-rank Hunter addressing a British prince | His Highness | mock-formal and sarcastic | Felix demands formal address, and Jin complies by calling him His Highness while continuing to mock him. |
 | 데스나이트 | 검은 기사 | subordinate commander and legion leader | Lord | formal and deferential | The Death Knights address the Black Knight as Lord while requesting orders. |
-| 최민우 | 샤오 쉔 | superior_to_field_commander | Shao Shen | urgent-commanding | Choi directly orders Shao Shen to withdraw the Public Security Armed Forces Department. |
-| 샤오 쉔 | 최민우 | subordinate_to_superior | Mr. Choi | respectful-formal | Shao Shen addresses Choi as 최 선생님 during the decision to make a final stand. |
+| 최민우 | 샤오 쉔 | superior_to_field_commander | Xiao Shen | urgent-commanding | Choi directly orders Xiao Shen to withdraw the Public Security Armed Forces Department. |
+| 샤오 쉔 | 최민우 | subordinate_to_superior | Mr. Choi | respectful-formal | Xiao Shen addresses Choi as 최 선생님 during the decision to make a final stand. |
 | 데스나이트 | 검은 기사 | subordinate_to_commander | Lord | deferential-honorific | The Death Knights report victory and offer their glory to the black knight. |
 | 데스나이트 | 인간 | enemy combatants | human | contemptuous and commanding | Used in the Death Knight's warnings to Jin. |
 | 데스나이트 | 로드 | subordinate to commanding lord | Lord | fearful and deferential | The Death Knight calls to the Death Knight Lord after Jin overwhelms the army. |
@@ -645,10 +645,10 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 청년 | celebrated Hunter to younger fellow Hunter | young man | casual, teasing, and profane | Jin addresses the young Hunter after overhearing his criticism and deliberately switches to casual speech. |
 | 청년 | 진태경 | frightened junior Hunter to celebrated senior Hunter | you | fearful and deferential | The young Hunter uses 당신 while asking whether Jin is really the person he recognizes from the media. |
 | 진태경 | 최 팀장 | senior allied Hunter to recovering subordinate | Team Leader Choi | polite and directive | Jin tells Team Leader Choi to focus on recovery rather than join the operation. |
-| 진태경 | 샤오 쉔 | senior allied Hunter to recovering allied regimental commander | Shen | direct, familiar, and encouraging | Jin addresses Shao Shen familiarly while explaining why he is giving him Hero's Soul. |
-| 샤오 쉔 | 진태경 | subordinate ally to senior Hunter and benefactor | hyung | deferential and affectionate | Shao Shen calls Jin hyung while protesting that he is fit to fight and receiving Hero's Soul. |
-| 샤오 쉔 | 최 팀장 | junior allied commander to respected senior Hunter | Mr. Choi | formal and insistent | Shao Shen asks Team Leader Choi to accept Hero's Soul in his place. |
-| 최 팀장 | 샤오 쉔 | senior allied Hunter to fellow recovering commander | Regimental Commander Shen | formal and sincere | Team Leader Choi congratulates Shao Shen before Shao Shen offers him the sword. |
+| 진태경 | 샤오 쉔 | senior allied Hunter to recovering allied regimental commander | Shen | direct, familiar, and encouraging | Jin addresses Xiao Shen familiarly while explaining why he is giving him Hero's Soul. |
+| 샤오 쉔 | 진태경 | subordinate ally to senior Hunter and benefactor | hyung | deferential and affectionate | Xiao Shen calls Jin hyung while protesting that he is fit to fight and receiving Hero's Soul. |
+| 샤오 쉔 | 최 팀장 | junior allied commander to respected senior Hunter | Mr. Choi | formal and insistent | Xiao Shen asks Team Leader Choi to accept Hero's Soul in his place. |
+| 최 팀장 | 샤오 쉔 | senior allied Hunter to fellow recovering commander | Regimental Commander Shen | formal and sincere | Team Leader Choi congratulates Xiao Shen before Xiao Shen offers him the sword. |
 | 진태경 | 최 팀장 | younger_ally_to_senior_ally | Team Leader Choi | polite and collegial | Jin asks Team Leader Choi for his assessment of the abnormal battlefield situation. |
 | 최 팀장 | 진태경 | senior_ally_to_younger_hunter | Mr. Jin | formal-polite | Team Leader Choi addresses Jin as 진태경 씨 while discussing their shared suspicion. |
 | 아크 리치 | 대적자 | enemy_to_unknown_adversary | adversary | cold and formal | The Arch Lich calls for an adversary after gathering its mana. |
@@ -669,7 +669,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 워로드 | 진태경 | captive undead commander to captor | human | theatrical, aggrieved, and insulting | The Skeleton Warlord repeatedly calls Jin human or uses insulting second-person forms while protesting the operation. |
 | 진태경 | 스켈레톤 워로드 | captor to captive undead commander | undead bastard | insulting and casual | Jin mocks and physically disciplines the Skeleton Warlord during their banter. |
 | 진태경 | 최 팀장님 | younger Hunter to allied Team Leader | Team Leader Choi | urgent and commanding | Jin calls Team Leader Choi to move beyond the fog's range. |
-| 진태경 | 샤오 쉔 | battlefield ally | Shao Shen | urgent and commanding | Jin calls Shao Shen alongside Team Leader Choi while ordering the withdrawal from the fog. |
+| 진태경 | 샤오 쉔 | battlefield ally | Xiao Shen | urgent and commanding | Jin calls Xiao Shen alongside Team Leader Choi while ordering the withdrawal from the fog. |
 | 진태경 | 최 팀장 | younger allied Hunter to senior Team Leader | Team Leader Choi | formal-polite | Jin addresses Choi after the Magic Trap and receives his report. |
 | 최 팀장 | 진태경 | senior allied Team Leader to younger Hunter | Mr. Jin Taekyung | formal and urgent | Choi warns Jin about the overwhelming monster assault and urges retreat. |
 | 호위대 | 아크 리치 | undead honor guard to undead lord | My lord | formal-deferential | The guards address the Arch Lich while reacting to its laughter and commands. |
@@ -677,7 +677,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 아크 리치 | 진태경 | hostile_controller_to_intruder | human | contemptuous and predatory | The Arch Lich repeatedly addresses Jin as a human while observing and judging him. |
 | 최 팀장 | 진태경 | subordinate_ally_to_commander | Mr. Jin Taekyung | formal-polite | Team Leader Choi addresses Jin respectfully while asking about One Annihilation. |
 | 진태경 | 최 팀장 | commander_to_ally | Team Leader Choi | polite and familiar | Jin answers Choi directly about the technique's power. |
-| 샤오 쉔 | 진태경 | younger_acquaintance_to_respected_older_figure | Hyung | familiar and deferential | Shao Shen addresses Jin with shocked familiarity after witnessing the attack. |
+| 샤오 쉔 | 진태경 | younger_acquaintance_to_respected_older_figure | Hyung | familiar and deferential | Xiao Shen addresses Jin with shocked familiarity after witnessing the attack. |
 | 진태경 | 결사대 | commander_to_subordinates | you bastards | blunt and commanding | Jin orders the suicide squad to exploit the opening and wipe out the surrounding monsters. |
 | 스켈레톤 워로드 | 진태경 | captive_undead_commander_to_captor | wicked human | hostile and imperious | The Skeleton Warlord orders Jin to kill the strange human making repeated startled noises. |
 | 진태경 | 스켈레톤 워로드 | captor_to_captive_undead_commander | you | casual and irritated | Jin responds to the Skeleton Warlord's demand while fighting. |
@@ -688,8 +688,8 @@ Overrides generic relationship prose in character profiles for this pair.
 | 진태경 | 파이 첸 | younger allied Hunter to senior female S-rank Hunter | big sis | casual and affectionate | Jin calls Faye 누나 while indulging Felix's attitude. |
 | 매직 존슨 | 진태경 | senior allied S-rank Hunter to younger Hunter | Jin | warm and jovial | Johnson praises Jin's courage after the dangerous teleport. |
 | 진태경 | 매직 존슨 | younger allied Hunter to senior S-rank Hunter | Johnson | casual and teasing | Jin answers Johnson while discussing the teleport's failure probability. |
-| 우헤이싱 | 샤오 쉔 | senior allied Chinese Hunter to a younger suicide-squad member | rookie | insulting and demanding | Wu grabs Shao Shen and demands an explanation of Formation J. |
-| 샤오 쉔 | 우헤이싱 | younger allied Hunter to senior Chinese S-rank Hunter | Hyung | respectful-deferential | Shao Shen explains that Hyung created the formation. |
+| 우헤이싱 | 샤오 쉔 | senior allied Chinese Hunter to a younger suicide-squad member | rookie | insulting and demanding | Wu grabs Xiao Shen and demands an explanation of Formation J. |
+| 샤오 쉔 | 우헤이싱 | younger allied Hunter to senior Chinese S-rank Hunter | Hyung | respectful-deferential | Xiao Shen explains that Hyung created the formation. |
 | 스켈레톤 워로드 | 인간 | undead commander to human ally | human | familiar and alarmed | The Skeleton Warlord repeatedly warns Jin during the battle. |
 | 진태경 | 스켈레톤 워로드 | human commander to captive undead commander | food parasite | mocking and familiar | Jin mocks the Skeleton Warlord for wanting mana and calls him a food parasite. |
 | 최 팀장 | 진태경 | senior allied commander to younger S-rank Hunter | Mr. Jin | urgent and concerned | Team Leader Choi calls to Jin while giving him Hero's Soul and warning him to be careful. |

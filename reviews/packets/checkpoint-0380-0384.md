@@ -95,7 +95,7 @@ For example, render `고시원` as “goshiwon” when the setting or connotatio
 
 ## Plot
 
-Jin Taekyung and Team Leader Choi crash their aircraft into the monster army attacking Chengdu International Airport. Choi protects the passengers with Barrier magic while Jin joins Shao Shen and the Chinese Hunters. Jin discovers that more than half of the nearly two-thousand-monster army are undead and uses the Skeleton Warlord to override their control, turn them against the living monsters, and resurrect fallen creatures. The undead army collapses after Jin destroys the three incomplete Liches serving the Arch Lich. Their testimony confirms that the Arch Lich began the attack a week earlier, but Jin rejects their attempted allegiance and destroys them. The Skeleton Warlord absorbs their death energy and grows stronger. Jin completes the Unexpected Attack Quest, gains the Undead Hunter Title, EXP, Fame, and a level, reaching Level 121.
+Jin Taekyung and Team Leader Choi crash their aircraft into the monster army attacking Chengdu International Airport. Choi protects the passengers with Barrier magic while Jin joins Xiao Shen and the Chinese Hunters. Jin discovers that more than half of the nearly two-thousand-monster army are undead and uses the Skeleton Warlord to override their control, turn them against the living monsters, and resurrect fallen creatures. The undead army collapses after Jin destroys the three incomplete Liches serving the Arch Lich. Their testimony confirms that the Arch Lich began the attack a week earlier, but Jin rejects their attempted allegiance and destroys them. The Skeleton Warlord absorbs their death energy and grows stronger. Jin completes the Unexpected Attack Quest, gains the Undead Hunter Title, EXP, Fame, and a level, reaching Level 121.
 
 Wei Fenghu, China's Minister of National Defense, takes Jin and Choi to a temporary operations headquarters on Mount Qingcheng. He explains that Sichuan's crisis began in Gaoping District of Nanchong City, where magical communications interference and flying-monster attacks have isolated the province. Lei Fei, a concealed Chinese S-rank Hunter and head of the Sichuan Public Security Armed Forces Department, disappeared with his Hunters when the first Monster Wave began. Wei, Lei's maternal uncle and adoptive father, asks Jin to bring him back if he is found; Jin agrees but gives no guarantee of survival.
 
@@ -169,7 +169,7 @@ At the underground headquarters, Jin meets Xiao Yang, Chairman of the People's R
 
 # Chapter 380
 
-Shao Shen realized it for the first time.
+Xiao Shen realized it for the first time.
 
 Roooooar!
 
@@ -189,13 +189,13 @@ Even the notoriously sluggish Ghouls ran so fast that sweat broke out on the sol
 
 The monsters that could scream were the lucky ones.
 
-Shao Shen and most of the others could do nothing but stare at the airplane hurtling toward the ground, frozen like stone statues.
+Xiao Shen and most of the others could do nothing but stare at the airplane hurtling toward the ground, frozen like stone statues.
 
 *I have to run…*
 
 His feet and hands would not move.
 
-More importantly, Shao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They were not even given the chance to escape.
+More importantly, Xiao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They were not even given the chance to escape.
 
 *Is this really the end?*
 
@@ -225,7 +225,7 @@ Krrrunch!
 
 The monsters’ screams were buried beneath the grisly sounds of flesh being torn apart. It was a scene of carnage beyond anything they had ever seen or heard.
 
-As Shao Shen and the Hunters stared blankly at the unimaginable sight, someone’s frenzied shout pierced their ears.
+As Xiao Shen and the Hunters stared blankly at the unimaginable sight, someone’s frenzied shout pierced their ears.
 
 “Monsters! Ram them! Kill them!”
 
@@ -233,7 +233,7 @@ As Shao Shen and the Hunters stared blankly at the unimaginable sight, someone�
 
 The unmistakable language of their homeland reached them even in the midst of all this chaos. The Hunters of the Public Security Armed Forces Department had one word flash through their minds: *reinforcements.*
 
-Shao Shen was stunned.
+Xiao Shen was stunned.
 
 *An incredible powerhouse!*
 
@@ -249,7 +249,7 @@ And definitely a slightly insane S-rank Hunter.
 
 *He seems to have been sent by the Central Military Commission… But did our country have an S-rank Hunter like that?*
 
-The question suddenly occurred to Shao Shen. But it was about to become irrelevant to him.
+The question suddenly occurred to Xiao Shen. But it was about to become irrelevant to him.
 
 The gigantic steel hulk that had ground its way across half the battlefield was now charging straight toward him and the Hunters.
 
@@ -259,25 +259,25 @@ The gigantic steel hulk that had ground its way across half the battlefield was 
 
 There was no distinction between friend and foe in the struggle to survive.
 
-Shao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.
+Xiao Shen forgot the humans right in front of him and drove his dagger into a monster barreling toward him.
 
 Schunk!
 
 —Grrrk.
 
-The monster’s lifeless body collapsed toward Shao Shen.
+The monster’s lifeless body collapsed toward Xiao Shen.
 
-Unable to move even one step because monsters were surging in from every direction, Shao Shen felt the crushing weight descending upon him and shouted.
+Unable to move even one step because monsters were surging in from every direction, Xiao Shen felt the crushing weight descending upon him and shouted.
 
 “The battle isn’t over! Fight until the very end!”
 
 He was right. The battle was not over yet. A Hunter was someone who had to kill monsters until the final moment, until their own breath ran out.
 
-The Hunters who heard Shao Shen’s shout gritted their teeth and swung their weapons.
+The Hunters who heard Xiao Shen’s shout gritted their teeth and swung their weapons.
 
 *This will do.*
 
-With lightning-fast skill, Shao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.
+With lightning-fast skill, Xiao Shen drove his dagger into the back of a fleeing ogre’s head, then drew a deep breath.
 
 The airplane’s massive body had already reached a point less than twenty meters away.
 
@@ -287,19 +287,19 @@ Its speed had decreased considerably from before, but with everyone trapped in p
 
 If he died fighting for the people as a proud Hunter of Zhonghua, that was enough.
 
-Shao Shen closed his eyes as screams rained down from every direction.
+Xiao Shen closed his eyes as screams rained down from every direction.
 
 “Heave-ho.”
 
 Krrrunch! Splat!
 
-Drenched in a sticky liquid that he assumed was blood, Shao Shen thought:
+Drenched in a sticky liquid that he assumed was blood, Xiao Shen thought:
 
 *…“Whew”?*
 
 Wasn’t it usually more of an “Aaaah”?
 
-The strange sound was an odd choice for a dying cry, so Shao Shen slowly raised his eyelids.
+The strange sound was an odd choice for a dying cry, so Xiao Shen slowly raised his eyelids.
 
 And at last, he saw it.
 
@@ -321,7 +321,7 @@ A few steps away, the airplane had come to a complete stop. Two men were standin
 
 “……I’ll do my best.”
 
-Shao Shen could not make sense of the situation at all.
+Xiao Shen could not make sense of the situation at all.
 
 Who, when, where, what, how, and why. It was such a bizarre sight that even the six fundamental questions could not organize it.
 
@@ -329,23 +329,23 @@ Who, when, where, what, how, and why. It was such a bizarre sight that even the 
 
 The two men were even speaking in a different language.
 
-Shao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
+Xiao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
 
 Korea, their longtime neighbor.
 
 *Wait. If he’s Korean…!*
 
-Shao Shen hurriedly wiped the blood from around his eyes. Only then did he recognize one of the men.
+Xiao Shen hurriedly wiped the blood from around his eyes. Only then did he recognize one of the men.
 
 A muscular young man who stood a full head taller than everyone else.
 
-The man Shao Shen had only ever seen on television—his idol—was standing right in front of him.
+The man Xiao Shen had only ever seen on television—his idol—was standing right in front of him.
 
 “C-Could you possibly be Mr. Jin from Korea?”
 
 “Huh?”
 
-The young man, Jin Taekyung, tilted his head as he looked at Shao Shen.
+The young man, Jin Taekyung, tilted his head as he looked at Xiao Shen.
 
 “I’m not a teacher.”
 
@@ -355,7 +355,7 @@ The young man, Jin Taekyung, tilted his head as he looked at Shao Shen.
 
 *It really is him!*
 
-Relief and hope coursed through Shao Shen’s entire body, making him tremble.
+Relief and hope coursed through Xiao Shen’s entire body, making him tremble.
 
 * * *
 
@@ -734,7 +734,7 @@ The Chinese Hunters were also bewildered by the sudden turn of events.
 
 I shouted toward the young Hunter who had been cutting through the battlefield with his spear from the front of the formation.
 
-“Shao Shen!”
+“Xiao Shen!”
 
 「M-Mr. Jin?」
 
@@ -754,7 +754,7 @@ I had just checked his Level with Qi Sense, but that was not important right now
 
 “Then what should you do now?”
 
-Shao Shen’s eyes cleared, and he raised his spear high.
+Xiao Shen’s eyes cleared, and he raised his spear high.
 
 「Attack formation! Everyone in the Public Security Armed Forces Department, from this moment on, attack everything except the undead monsters!」
 
@@ -1453,9 +1453,9 @@ Two of them had familiar faces.
 
 “Mr. Jin.”
 
-It was Team Leader Choi, who was in relatively decent shape, and Shao Shen, an A-rank Hunter from the Public Security Armed Forces Department of China.
+It was Team Leader Choi, who was in relatively decent shape, and Xiao Shen, an A-rank Hunter from the Public Security Armed Forces Department of China.
 
-Even though a considerable amount of time had passed since the battle ended, Shao Shen’s face was still covered in blood and dust, and exhaustion had settled heavily over his features.
+Even though a considerable amount of time had passed since the battle ended, Xiao Shen’s face was still covered in blood and dust, and exhaustion had settled heavily over his features.
 
 “There you are.”
 
@@ -1469,7 +1469,7 @@ I exchanged a look of greeting with Team Leader Choi before making an excuse.
 
 *Was that my imagination, or had he almost called me Lord Fuck just now?*
 
-Whether he knew what I was thinking or not, Shao Shen continued in an extremely respectful tone.
+Whether he knew what I was thinking or not, Xiao Shen continued in an extremely respectful tone.
 
 “Fortunately, with the help of the two gentlemen from the Peace Guild, we were able to defeat the monsters. I would like to take this opportunity to express my gratitude once again.”
 
@@ -1477,7 +1477,7 @@ Whether he knew what I was thinking or not, Shao Shen continued in an extremely 
 
 I waved my hands modestly and stole a glance at Team Leader Choi.
 
-I had worried that the *Integrated Language Pack* might malfunction and he might notice something strange, but since Shao Shen was the one I was speaking with, it seemed that Team Leader Choi was hearing my words as Chinese as well.
+I had worried that the *Integrated Language Pack* might malfunction and he might notice something strange, but since Xiao Shen was the one I was speaking with, it seemed that Team Leader Choi was hearing my words as Chinese as well.
 
 “But who is the person beside you…?”
 
@@ -1572,9 +1572,9 @@ The Wyverns had only attacked us in passing while they were raiding Chengdu Inte
 
 Perhaps merely thinking about the current situation exhausted him. Wei Fenghu, who seemed to have aged considerably in a short time, leaned back into the soft seat.
 
-“It seems we must part ways here. We will meet again soon, Senior Colonel Shao Shen.”
+“It seems we must part ways here. We will meet again soon, Senior Colonel Xiao Shen.”
 
-Unlike us, one person had not boarded the aircraft. Shao Shen stood at attention and saluted.
+Unlike us, one person had not boarded the aircraft. Xiao Shen stood at attention and saluted.
 
 “Yes. I will join you after completing my mission as quickly as possible, Comrade Minister of National Defense. And you two gentlemen.”
 
@@ -1588,7 +1588,7 @@ Team Leader Choi substituted a respectful bow for a farewell, while I waved.
 
 It had only been one sentence.
 
-But the moment Shao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
+But the moment Xiao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
 
 “Th-Thank you! I will devote myself to every task with the utmost loyalty,[^1] so that you never have cause to be disappointed in me, Mr. Jin!”
 
@@ -1608,7 +1608,7 @@ That seemed like a textbook example of poor judgment.
 
 He had saluted with such force that the edge of his hand had struck his own eyebrow.
 
-I was staring at Shao Shen as he clenched his teeth and endured the pain when the entrance closed, and the business jet carrying us began to take off.
+I was staring at Xiao Shen as he clenched his teeth and endured the pain when the entrance closed, and the business jet carrying us began to take off.
 
 “That guy is, well, how should I put it… His character is pretty unique.”
 
@@ -1624,7 +1624,7 @@ At my dissatisfied comment, Wei Fenghu let out a quiet laugh.
 
 Come to think of it, for a four-star general reputed to be able to knock birds out of the sky with a single finger, this man seemed unusually interested in his subordinates.
 
-Or maybe Shao Shen was simply that promising.
+Or maybe Xiao Shen was simply that promising.
 
 Ah, but…
 

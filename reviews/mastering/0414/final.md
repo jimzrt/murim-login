@@ -178,7 +178,7 @@ Even the roughly two hundred members of the Western Front’s suicide squad, who
 
 Yet amid the fear spreading like wildfire, two people remained unshaken.
 
-Shao Shen, who watched me with unwavering trust, and…
+Xiao Shen, who watched me with unwavering trust, and…
 
 “There’s a possibility.”
 

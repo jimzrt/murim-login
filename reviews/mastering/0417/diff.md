@@ -774,11 +774,11 @@ Korean lines: 177
 
 BASE:
 
-Team Leader Choi and Shao Shen, who had bound their hands to their sword hilts with strips of cloth, prepared to kill one more monster despite knowing they were facing their final moments.
+Team Leader Choi and Xiao Shen, who had bound their hands to their sword hilts with strips of cloth, prepared to kill one more monster despite knowing they were facing their final moments.
 
 SOL:
 
-Team Leader Choi and Shao Shen, who had prepared to die and bound their hands to their sword hilts with strips of cloth so they could kill one more monster.
+Team Leader Choi and Xiao Shen, who had prepared to die and bound their hands to their sword hilts with strips of cloth so they could kill one more monster.
 
 ## H056 (replace)
 

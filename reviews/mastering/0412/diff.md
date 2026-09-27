@@ -846,11 +846,11 @@ Korean lines: 179
 
 BASE:
 
-Team Leader Choi and Shao Shen stared at me with dazed expressions.
+Team Leader Choi and Xiao Shen stared at me with dazed expressions.
 
 SOL:
 
-Team Leader Choi and Shao Shen stared at me in a daze.
+Team Leader Choi and Xiao Shen stared at me in a daze.
 
 ## H059 (replace)
 

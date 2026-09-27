@@ -230,7 +230,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 인민해방군 | **People's Liberation Army** | Chinese military deployed to seal off the catastrophe area. |
 | 강기 | **Force** | Generic manifestation of concentrated martial energy; distinct from Sword Force. |
 | 일원 | **One Origin** | Named Tang Clan organizational unit in Tang Sadok's mobilization order. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 
 ## Matched address pairs
 
@@ -889,7 +889,7 @@ A snort escaped me at his sparkling eyes.
 
 “I told you it was fine as long as you were okay with it. But is this really all right in front of your men? You said you’re getting promoted to major general now, didn’t you?”
 
-Shao Shen shook his head at lightning speed.
+Xiao Shen shook his head at lightning speed.
 
 “No problem at all! H-hyung, hyung!”
 
@@ -899,7 +899,7 @@ I looked at the Hunters from the Public Security Armed Forces Department lined u
 
 Their fever-bright eyes held admiration and awe for the strong.
 
-Of course, Shao Shen stood out above all the rest.
+Of course, Xiao Shen stood out above all the rest.
 
 “Give the order, h-hyung.”
 

@@ -148,8 +148,8 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Jin has crossed the wall into true mastery and can use overwhelming physical force without internal energy when he restrains himself.",
     "The Arch Lich's three incomplete Liches were destroyed at Chengdu International Airport, and their testimony identified the Arch Lich as responsible for the undead army's actions.",
     "The Skeleton Warlord cannot raise undead deeper inside the current battlefield because the Arch Lich's control grows stronger there.",
-    "The western-front force suffered a major massacre near the city; Zhang Wei's force and Shao Shen's Hunters were killed, while the attackers escaped before Jin arrived.",
-    "Shao Shen is alive but was sedated by Jin after attempting to pursue revenge against the attackers and General Liao; his surviving commanders agreed to wait before retaliating.",
+    "The western-front force suffered a major massacre near the city; Zhang Wei's force and Xiao Shen's Hunters were killed, while the attackers escaped before Jin arrived.",
+    "Xiao Shen is alive but was sedated by Jin after attempting to pursue revenge against the attackers and General Liao; his surviving commanders agreed to wait before retaliating.",
     "General Liao's operation caused the deaths of about one hundred Hunters and hundreds of soldiers, and Jin broke his arms and crushed his kneecaps after learning he regarded the operation's failure as unacceptable.",
     "Sichuan Province remains under martial law amid a Monster Wave exceeding 100,000 monsters, at least 300,000 initial casualties, magical communications interference, and a large undead army controlled by the Arch Lich.",
     "The Sudden Quest The Desperate War Situation remains active, while the Unexpected Assault was canceled after its target completed its objective and disappeared; Jin lost 10 Strength as its failure penalty.",
@@ -813,17 +813,17 @@ The great movement was taking place simultaneously across every front in Sichuan
 
 “……Phew.”
 
-Shao Shen let out a sigh, his eyes red and bloodshot.
+Xiao Shen let out a sigh, his eyes red and bloodshot.
 
 He had spent the night with his Sleep Acupoint struck and had only regained consciousness two hours ago.
 
 The moment he opened his eyes, he had gone berserk, shouting that he was going to kill General Liao. Team Leader Choi and I had sweated bullets trying to calm him down.
 
-“Shao Shen, are you all right?”
+“Xiao Shen, are you all right?”
 
 “Yeah. Are you feeling a little calmer now?”
 
-Shao Shen answered.
+Xiao Shen answered.
 
 “Yes. When I first woke up, I couldn’t put any strength into my body, but I’m fine now. This is more than enough to rip that bastard’s head off.”
 
@@ -837,7 +837,7 @@ Still, unlike his words, only his fists were trembling, so I felt some relief th
 
 “I’m telling you again, I didn’t want to do that to you. The timing was just bad.”
 
-Shao Shen was silent for a moment before nodding.
+Xiao Shen was silent for a moment before nodding.
 
 “I know, hyung. I know you stepped in on my behalf, too.”
 
@@ -867,17 +867,17 @@ General Liao had thrown away nearly a thousand lives and was talking about milit
 
 “What can we do? The water’s already spilled. We’ll think about it if a problem arises.”
 
-Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Shao Shen spoke in a low voice.
+Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Xiao Shen spoke in a low voice.
 
 “Don’t worry. The thing you’re concerned about, Mr. Choi, won’t happen.”
 
 “Hm?”
 
-“Shao Shen, did you hear something?”
+“Xiao Shen, did you hear something?”
 
 “Rather than hearing something…”
 
-After hesitating for a moment, Shao Shen shook his head with a stern expression.
+After hesitating for a moment, Xiao Shen shook his head with a stern expression.
 
 “Um… it’s just my personal opinion.”
 
@@ -887,7 +887,7 @@ After hesitating for a moment, Shao Shen shook his head with a stern expression.
 
 What was this suspicious smell?
 
-Team Leader Choi and I were looking at Shao Shen suspiciously when—
+Team Leader Choi and I were looking at Xiao Shen suspiciously when—
 
 “M-m-m-may I come in?”
 

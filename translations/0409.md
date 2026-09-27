@@ -334,7 +334,7 @@ Perhaps Jin Taekyung’s words had been meant for them.
 
 “We will win.”
 
-Jin Taekyung laughed aloud at Shao Shen’s resolute answer.
+Jin Taekyung laughed aloud at Xiao Shen’s resolute answer.
 
 “Yeah. We have to. But…”
 

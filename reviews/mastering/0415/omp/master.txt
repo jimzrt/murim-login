@@ -142,7 +142,7 @@ Behind Jin Taekyung, Wu Heixing had been gathering the mere handful of Red Guard
 
 “Hey, rookie. What the hell is Formation J?”
 
-Recognizing Wu Heixing, Shao Shen frowned before answering.
+Recognizing Wu Heixing, Xiao Shen frowned before answering.
 
 “Hyung came up with the formation himself.”
 

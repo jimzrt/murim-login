@@ -168,7 +168,7 @@ Lei Fei, who had fulfilled his mission until the very last moment.
 
 The five hundred Public Security Armed Forces Department Hunters who defied death and launched their heroic charge.
 
-Team Leader Choi and Shao Shen, who had prepared to die and bound their hands to their sword hilts with strips of cloth so they could kill one more monster.
+Team Leader Choi and Xiao Shen, who had prepared to die and bound their hands to their sword hilts with strips of cloth so they could kill one more monster.
 
 *You’re right. Why did any of them take such risks? Like fucking idiots.*
 

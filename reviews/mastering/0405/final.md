@@ -182,7 +182,7 @@ At dawn the next day, everyone who woke found themselves divided into two groups
 
 Those who were leaving and those who were staying.
 
-Naturally, I belonged to the former group, while Team Leader Choi and Shao Shen belonged to the latter.
+Naturally, I belonged to the former group, while Team Leader Choi and Xiao Shen belonged to the latter.
 
 Only when our departure was imminent did the two of them finally regain consciousness—and immediately start protesting the fact that they were being left behind.
 
@@ -196,7 +196,7 @@ Only when our departure was imminent did the two of them finally regain consciou
 
 *…What is this, an echo?*
 
-As I looked at Team Leader Choi and Shao Shen shouting with stiff expressions, I had no choice but to make them an offer.
+As I looked at Team Leader Choi and Xiao Shen shouting with stiff expressions, I had no choice but to make them an offer.
 
 “Hmm. If you can last ten minutes against me, I’ll take you along.”
 
@@ -232,17 +232,17 @@ Both of them knew what condition their bodies were in. They could not keep insis
 
 I had forgotten something.
 
-Pretending to rummage through my bag enchanted with space-expansion magic, I pulled out the item I had stored in my inventory and held it toward Shao Shen.
+Pretending to rummage through my bag enchanted with space-expansion magic, I pulled out the item I had stored in my inventory and held it toward Xiao Shen.
 
 “Here.”
 
-Shao Shen blinked.
+Xiao Shen blinked.
 
 “…Hyung?”
 
 “What are you waiting for? Take it. My arm’s going to fall off.”
 
-Shao Shen reflexively accepted it and stared at me in confusion.
+Xiao Shen reflexively accepted it and stared at me in confusion.
 
 “What is this?”
 
@@ -254,7 +254,7 @@ Shao Shen reflexively accepted it and stared at me in confusion.
 
 “No, that’s not it. I’m just not sure I should accept something like this…”
 
-Shao Shen hurriedly waved his hands, then gazed almost dreamily at Hero’s Soul as he gripped its hilt.
+Xiao Shen hurriedly waved his hands, then gazed almost dreamily at Hero’s Soul as he gripped its hilt.
 
 Its weight distribution and balance were close to perfect, and the transparent blade gleamed with unmistakable sharpness.
 
@@ -274,7 +274,7 @@ That was enough.
 
 Besides, I had been using a spear for years. If I kept the sword, it would only rot away in my inventory.
 
-Shao Shen, another Chinese member of the Public Security Armed Forces Department, was a more fitting owner than I was.
+Xiao Shen, another Chinese member of the Public Security Armed Forces Department, was a more fitting owner than I was.
 
 *And since nothing happened when he grabbed the hilt, I guess the sword has accepted him too.*
 
@@ -294,7 +294,7 @@ It was hard to hear the words of a loser who had secretly grabbed Hero’s Soul 
 
 Since I was thinking about it anyway, I discreetly glanced at Team Leader Choi.
 
-Truthfully, I had agonized until the very end over whether to give Hero’s Soul to Shao Shen or Team Leader Choi.
+Truthfully, I had agonized until the very end over whether to give Hero’s Soul to Xiao Shen or Team Leader Choi.
 
 Team Leader Choi was human too, after all. He might have felt hurt.
 
@@ -302,7 +302,7 @@ But apparently, all that concern had been for nothing.
 
 “Congratulations, Regimental Commander Shen. That is truly an excellent sword.”
 
-At Team Leader Choi’s sincere congratulations, Shao Shen finally came to his senses and looked back and forth between him and Hero’s Soul.
+At Team Leader Choi’s sincere congratulations, Xiao Shen finally came to his senses and looked back and forth between him and Hero’s Soul.
 
 Conflict flickered in his eyes, but a bright smile soon spread across his face.
 
@@ -318,7 +318,7 @@ Still…
 
 *That’s nice to see.*
 
-Team Leader Choi politely refused in his confusion, but Shao Shen had already made up his mind, and his resolve proved stronger.
+Team Leader Choi politely refused in his confusion, but Xiao Shen had already made up his mind, and his resolve proved stronger.
 
 As I watched the two of them pass the sword back and forth, I quietly slipped out of the ward and started walking.
 

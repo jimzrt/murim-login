@@ -206,7 +206,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 | 국방부 | **Ministry of National Defense** | Government ministry referenced in Taekyung's comparison about the steady passage of time. |
 | 오대 | **Five Squads** | Named Tang Clan organizational group in Tang Sadok's mobilization order. |
 | 삼문혈사 | **Three-Gate Bloodbath** | Name given to Dark Heaven’s coordinated assault on the Tang Clan, Qingcheng, and Emei. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 
 ## Matched address pairs
 

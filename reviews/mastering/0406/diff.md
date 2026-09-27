@@ -574,11 +574,11 @@ Korean lines: 177
 
 BASE:
 
-Shao Shen read the flow of battle and charged to the front, shouting.
+Xiao Shen read the flow of battle and charged to the front, shouting.
 
 SOL:
 
-Reading the flow of battle, Shao Shen charged to the front and shouted.
+Reading the flow of battle, Xiao Shen charged to the front and shouted.
 
 ## H042 (replace)
 

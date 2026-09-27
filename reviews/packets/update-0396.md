@@ -223,10 +223,10 @@ If the person already appears under Listed compact profiles, use `profile_update
 
 - **Safe through:** Chapter 392
 - **Aliases:** Choi Minwoo (최민우)
-- **Role:** Team Leader in the Public Security Armed Forces Department who mediates between Jin and Shao Shen's enraged subordinates.
+- **Role:** Team Leader in the Public Security Armed Forces Department who mediates between Jin and Xiao Shen's enraged subordinates.
 - **Personality:** Practical, emotionally aware, and attentive to the political consequences of violent decisions.
 - **Voice:** Low, calm, and pragmatic, framing emotional choices through their consequences.
-- **Relationships:** He supports Jin's intervention and works with Shao Shen's regiment during the aftermath of the massacre.
+- **Relationships:** He supports Jin's intervention and works with Xiao Shen's regiment during the aftermath of the massacre.
 
 ### Wei Fenghu.md
 
@@ -802,7 +802,7 @@ A magical wind stormed through the battlefield. Space split apart. The magic con
 
 Everyone in the city watched clearly as the light was devoured by darkness.
 
-A single thought passed through Choi Minwoo’s and Shao Shen’s minds.
+A single thought passed through Choi Minwoo’s and Xiao Shen’s minds.
 
 *This is…*
 

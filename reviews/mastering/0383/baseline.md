@@ -50,9 +50,9 @@ The Wyverns had only attacked us in passing while they were raiding Chengdu Inte
 
 Perhaps merely thinking about the current situation exhausted him. Wei Fenghu, who seemed to have aged considerably in a short time, leaned back into the soft seat.
 
-“It seems we must part ways here. We will meet again soon, Senior Colonel Shao Shen.”
+“It seems we must part ways here. We will meet again soon, Senior Colonel Xiao Shen.”
 
-Unlike us, one person had not boarded the aircraft. Shao Shen stood at attention and saluted.
+Unlike us, one person had not boarded the aircraft. Xiao Shen stood at attention and saluted.
 
 “Yes. I will join you after completing my mission as quickly as possible, Comrade Minister of National Defense. And you two gentlemen.”
 
@@ -66,7 +66,7 @@ Team Leader Choi substituted a respectful bow for a farewell, while I waved.
 
 It had only been one sentence.
 
-But the moment Shao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
+But the moment Xiao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
 
 “Th-Thank you! I will devote myself to every task with the utmost loyalty,[^1] so that you never have cause to be disappointed in me, Mr. Jin!”
 
@@ -86,7 +86,7 @@ That seemed like a textbook example of poor judgment.
 
 He had saluted with such force that the edge of his hand had struck his own eyebrow.
 
-I was staring at Shao Shen as he clenched his teeth and endured the pain when the entrance closed, and the business jet carrying us began to take off.
+I was staring at Xiao Shen as he clenched his teeth and endured the pain when the entrance closed, and the business jet carrying us began to take off.
 
 “That guy is, well, how should I put it… His character is pretty unique.”
 
@@ -102,7 +102,7 @@ At my dissatisfied comment, Wei Fenghu let out a quiet laugh.
 
 Come to think of it, for a four-star general reputed to be able to knock birds out of the sky with a single finger, this man seemed unusually interested in his subordinates.
 
-Or maybe Shao Shen was simply that promising.
+Or maybe Xiao Shen was simply that promising.
 
 Ah, but…
 

@@ -1800,11 +1800,11 @@ Korean lines: 337
 
 BASE:
 
-At Shao Shen’s firm answer, Jin Taekyung laughed aloud.
+At Xiao Shen’s firm answer, Jin Taekyung laughed aloud.
 
 SOL:
 
-Jin Taekyung laughed aloud at Shao Shen’s resolute answer.
+Jin Taekyung laughed aloud at Xiao Shen’s resolute answer.
 
 ## H129 (insert)
 

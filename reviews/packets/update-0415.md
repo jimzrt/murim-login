@@ -840,7 +840,7 @@ Behind Jin Taekyung, Wu Heixing had been gathering the handful of Red Guard Gang
 
 “Hey, rookie. What the hell is Formation J?”
 
-Shao Shen, who recognized Wu Heixing, frowned and answered,
+Xiao Shen, who recognized Wu Heixing, frowned and answered,
 
 “Hyung is the one who came up with this battle formation.”
 

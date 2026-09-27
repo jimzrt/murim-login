@@ -20,7 +20,7 @@ With that quiet murmur, I reached out.
 
 Seizing an Object Through Empty Space.
 
-Three jiazi of internal energy pulled Team Leader Choi and Shao Shen toward me. The Death Knights and monsters started to move, but stopped when their leader raised a hand.
+Three jiazi of internal energy pulled Team Leader Choi and Xiao Shen toward me. The Death Knights and monsters started to move, but stopped when their leader raised a hand.
 
 Ignoring them, I checked the two men’s condition. Their breathing was faint, and their qi was so precarious it seemed ready to vanish at any moment.
 
@@ -118,7 +118,7 @@ Right now, I had another problem to deal with.
 
 “You’ve been through hell too, Shen.”
 
-Shao Shen wasn’t as badly injured as Team Leader Choi, but his wounds were still severe. I was about to pour the remaining half of the potion into his mouth when—
+Xiao Shen wasn’t as badly injured as Team Leader Choi, but his wounds were still severe. I was about to pour the remaining half of the potion into his mouth when—
 
 —Wretched human.
 
@@ -150,7 +150,7 @@ A great and radiant soul…
 
 Without even raising my head, I continued pouring the potion.
 
-Once the last few drops had fallen into Shao Shen’s mouth, I stoppered the empty bottle and returned it to my Inventory.
+Once the last few drops had fallen into Xiao Shen’s mouth, I stoppered the empty bottle and returned it to my Inventory.
 
 Hissssss. Hissssss—
 
@@ -162,7 +162,7 @@ I straightened at the welcome sound I had been waiting for, looked at the Death 
 
 —Hm?
 
-“Team Leader Choi’s left leg. Everything below a point one handspan beneath the knee was gone. Cut off clean. And Shao Shen—that young kid lost his right arm.”
+“Team Leader Choi’s left leg. Everything below a point one handspan beneath the knee was gone. Cut off clean. And Xiao Shen—that young kid lost his right arm.”
 
 —Human. What are you trying to say?
 
@@ -226,7 +226,7 @@ At least his corpse was still intact.
 
 In what appeared to have been the fiercest part of the battlefield, Hunters from the Public Security Armed Forces Department lay dead, their bodies mangled beyond recognition.
 
-I had spent a full week with the 1st Regiment under Shao Shen. Among the corpses were several faces I recognized.
+I had spent a full week with the 1st Regiment under Xiao Shen. Among the corpses were several faces I recognized.
 
 *So many died. So damn many.*
 

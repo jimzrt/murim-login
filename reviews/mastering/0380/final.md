@@ -1,6 +1,6 @@
 # Chapter 380
 
-Shao Shen realized something for the first time.
+Xiao Shen realized something for the first time.
 
 Roooooar!
 
@@ -20,13 +20,13 @@ Even the notoriously sluggish Ghouls ran hard enough to work up a sweat on the s
 
 The monsters capable of screaming were the lucky ones.
 
-Shao Shen and most of the others could only stand frozen like statues, staring at the airplane hurtling toward the ground.
+Xiao Shen and most of the others could only stand frozen like statues, staring at the airplane hurtling toward the ground.
 
 *I have to run…*
 
 His hands and feet refused to move.
 
-More importantly, Shao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They had no chance to escape.
+More importantly, Xiao Shen and the Hunters of the Public Security Armed Forces Department were surrounded in the middle of the battlefield. They had no chance to escape.
 
 *Is this really the end?*
 
@@ -56,7 +56,7 @@ Krrrunch!
 
 The monsters’ screams vanished beneath the grisly sounds of flesh being torn apart. It was a scene of carnage beyond anything they had ever seen or heard.
 
-As Shao Shen and the Hunters stared blankly at the unimaginable sight, someone’s frenzied shout pierced their ears.
+As Xiao Shen and the Hunters stared blankly at the unimaginable sight, someone’s frenzied shout pierced their ears.
 
 “Monsters! Ram them! Kill them!”
 
@@ -66,7 +66,7 @@ Even amid all this chaos, they could clearly hear their native language. A singl
 
 *Reinforcements.*
 
-Shao Shen was stunned.
+Xiao Shen was stunned.
 
 *An incredible powerhouse!*
 
@@ -82,7 +82,7 @@ And unquestionably a slightly insane S-rank Hunter.
 
 *He seems to have been sent by the Central Military Commission… But did our country have an S-rank Hunter like that?*
 
-The question suddenly occurred to Shao Shen, but it was about to become irrelevant.
+The question suddenly occurred to Xiao Shen, but it was about to become irrelevant.
 
 The gigantic steel hulk that had ground its way across half the battlefield was now charging straight toward him and the other Hunters.
 
@@ -92,25 +92,25 @@ The gigantic steel hulk that had ground its way across half the battlefield was 
 
 There was no distinction between friend and foe in the struggle to survive.
 
-Forgetting the humans right in front of him, Shao Shen drove his dagger into a monster that barreled into him.
+Forgetting the humans right in front of him, Xiao Shen drove his dagger into a monster that barreled into him.
 
 Schunk!
 
 —Grrrk.
 
-The monster’s lifeless body collapsed toward Shao Shen.
+The monster’s lifeless body collapsed toward Xiao Shen.
 
-He could not move a single step with monsters surging in from every direction. As the crushing weight fell upon him, Shao Shen shouted.
+He could not move a single step with monsters surging in from every direction. As the crushing weight fell upon him, Xiao Shen shouted.
 
 “The battle isn’t over! Fight until the very end!”
 
 He was right. The battle was not over yet. A Hunter was someone who had to kill monsters until the final moment, until their own breath ran out.
 
-The Hunters who heard Shao Shen’s shout gritted their teeth and swung their weapons.
+The Hunters who heard Xiao Shen’s shout gritted their teeth and swung their weapons.
 
 *This will do.*
 
-With lightning-fast skill, Shao Shen buried his dagger in the back of a fleeing ogre’s head, then drew a deep breath.
+With lightning-fast skill, Xiao Shen buried his dagger in the back of a fleeing ogre’s head, then drew a deep breath.
 
 The airplane’s massive body was already less than twenty meters away.
 
@@ -120,19 +120,19 @@ It had slowed considerably, but with everyone trapped in place, avoiding it seem
 
 If he died fighting for the people as a proud Hunter of Zhonghua, that was enough.
 
-Shao Shen closed his eyes as screams rained down from every direction.
+Xiao Shen closed his eyes as screams rained down from every direction.
 
 “Heave-ho.”
 
 Krrrunch! Splat!
 
-Drenched in a sticky liquid he assumed was blood, Shao Shen thought:
+Drenched in a sticky liquid he assumed was blood, Xiao Shen thought:
 
 *…Heave-ho?*
 
 Wasn’t a person’s dying cry usually more like “Aaaah”?
 
-The strange sound was an odd choice for a dying cry, so Shao Shen slowly raised his eyelids.
+The strange sound was an odd choice for a dying cry, so Xiao Shen slowly raised his eyelids.
 
 At last, he saw it.
 
@@ -154,7 +154,7 @@ The airplane had stopped dead only a few steps away. Two men stood beside it, ch
 
 “……I’ll do my best.”
 
-Shao Shen could not make sense of the situation at all.
+Xiao Shen could not make sense of the situation at all.
 
 Who, when, where, what, why, and how—this bizarre sight defied even the five Ws and one H.
 
@@ -162,23 +162,23 @@ Who, when, where, what, why, and how—this bizarre sight defied even the five W
 
 The two men were even speaking in another language.
 
-Shao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
+Xiao Shen could not understand the words of the clean-cut man who looked like a young master, but he knew what country the language belonged to.
 
 It belonged to Korea, their longtime neighbor.
 
 *Wait. If they’re Korean…!*
 
-Shao Shen hurriedly wiped the blood from around his eyes. Only then did he recognize one of the men.
+Xiao Shen hurriedly wiped the blood from around his eyes. Only then did he recognize one of the men.
 
 A muscular young man who stood a full head taller than everyone else.
 
-The man Shao Shen had only ever seen on television—his idol—was standing right in front of him.
+The man Xiao Shen had only ever seen on television—his idol—was standing right in front of him.
 
 “C-Could you possibly be Mr. Jin from Korea?”
 
 “Huh?”
 
-The young man, Jin Taekyung, tilted his head as he looked at Shao Shen.
+The young man, Jin Taekyung, tilted his head as he looked at Xiao Shen.
 
 “I’m not a teacher.”
 
@@ -188,7 +188,7 @@ The young man, Jin Taekyung, tilted his head as he looked at Shao Shen.
 
 *It really is him!*
 
-Relief and hope washed over Shao Shen, making his entire body tremble.
+Relief and hope washed over Xiao Shen, making his entire body tremble.
 
 * * *
 

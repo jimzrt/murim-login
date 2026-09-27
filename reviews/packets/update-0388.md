@@ -215,7 +215,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 | 리치 | **Lich** | Named Monster; fallen archmage and apex undead monster. |
 | 주석 | **Chairman** | Political title used for Xiao Yang. |
 | 국방부 | **Ministry of National Defense** | Government ministry referenced in Taekyung's comparison about the steady passage of time. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 
 ## Matched address pairs
 

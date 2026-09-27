@@ -50,15 +50,15 @@ The Wyverns had only attacked us in passing while raiding Chengdu International 
 
 As though merely thinking about the situation had exhausted him, Wei Fenghu—who seemed to have aged considerably in a matter of hours—leaned back in his plush seat.
 
-“It seems we must part ways here. I will see you again soon, Senior Colonel Shao Shen.”
+“It seems we must part ways here. I will see you again soon, Senior Colonel Xiao Shen.”
 
-Unlike us, Shao Shen had not boarded the aircraft. He stood rigidly at attention and saluted.
+Unlike us, Xiao Shen had not boarded the aircraft. He stood rigidly at attention and saluted.
 
 “Yes, Comrade Minister of National Defense. I will complete my mission as quickly as possible and rejoin you. And, gentlemen…”
 
 “Good. I expect great things from you.”
 
-Perhaps because Shao Shen had distinguished himself in battle, a satisfied smile crossed Wei Fenghu’s face as he regarded the promising young Hunter.
+Perhaps because Xiao Shen had distinguished himself in battle, a satisfied smile crossed Wei Fenghu’s face as he regarded the promising young Hunter.
 
 Team Leader Choi gave him a polite bow. I waved.
 
@@ -66,7 +66,7 @@ Team Leader Choi gave him a polite bow. I waved.
 
 It was only one sentence.
 
-But the moment Shao Shen heard it, his eyes grew as wide as serving trays. He trembled as though he’d been electrocuted, then shouted at the top of his lungs.
+But the moment Xiao Shen heard it, his eyes grew as wide as serving trays. He trembled as though he’d been electrocuted, then shouted at the top of his lungs.
 
 “Th-Thank you! I will devote myself to every task with the utmost loyalty,[^1] so that I never disappoint you, Mr. Jin!”
 
@@ -86,7 +86,7 @@ That looked like a textbook example of poor judgment.
 
 He’d saluted so hard that the edge of his hand struck him in the eyebrow.
 
-As I stared dumbfounded at Shao Shen clenching his teeth against the pain, the cabin door closed and our business jet began to take off.
+As I stared dumbfounded at Xiao Shen clenching his teeth against the pain, the cabin door closed and our business jet began to take off.
 
 “That guy is, well… How should I put it? He’s quite a character.”
 
@@ -102,7 +102,7 @@ Wei Fenghu gave a quiet laugh at my awkward observation.
 
 Come to think of it, for a four-star general with enough power to make birds fall from the sky, Wei Fenghu seemed unusually attentive to his subordinates.
 
-Or maybe Shao Shen was simply that promising.
+Or maybe Xiao Shen was simply that promising.
 
 Ah, but…
 

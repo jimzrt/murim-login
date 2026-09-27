@@ -434,11 +434,11 @@ Korean lines: 107
 
 BASE:
 
-Shao Shen shouted with a face flushed red. Team Leader Choi and I had now seen this scene more than ten times, so we simply took it in stride.
+Xiao Shen shouted with a face flushed red. Team Leader Choi and I had now seen this scene more than ten times, so we simply took it in stride.
 
 SOL:
 
-Shao Shen shouted, his face flushed red. Team Leader Choi and I had already seen this more than ten times, so by now we simply took it in stride.
+Xiao Shen shouted, his face flushed red. Team Leader Choi and I had already seen this more than ten times, so by now we simply took it in stride.
 
 ## H032 (replace)
 
@@ -490,11 +490,11 @@ Korean lines: 117
 
 BASE:
 
-Shao Shen trembled like a puppy that needed to pee and looked at me with shining eyes.
+Xiao Shen trembled like a puppy that needed to pee and looked at me with shining eyes.
 
 SOL:
 
-Shao Shen trembled like a puppy desperate to pee and looked at me with shining eyes.
+Xiao Shen trembled like a puppy desperate to pee and looked at me with shining eyes.
 
 ## H036 (replace)
 
@@ -576,11 +576,11 @@ Korean lines: 131
 
 BASE:
 
-Shao Shen nodded at tremendous speed.
+Xiao Shen nodded at tremendous speed.
 
 SOL:
 
-Shao Shen nodded furiously.
+Xiao Shen nodded furiously.
 
 ## H042 (replace)
 
@@ -674,11 +674,11 @@ Korean lines: 147
 
 BASE:
 
-I shrugged and asked Shao Shen,
+I shrugged and asked Xiao Shen,
 
 SOL:
 
-I shrugged and turned to Shao Shen.
+I shrugged and turned to Xiao Shen.
 
 ## H049 (replace)
 
@@ -898,11 +898,11 @@ Korean lines: 193
 
 BASE:
 
-It took me quite a while to understand Shao Shen’s words. After a long, heavy silence, I finally parted my lips with a sinking feeling.
+It took me quite a while to understand Xiao Shen’s words. After a long, heavy silence, I finally parted my lips with a sinking feeling.
 
 SOL:
 
-It took me quite a while to understand what Shao Shen meant. After a long, heavy silence, I spoke with a sinking feeling.
+It took me quite a while to understand what Xiao Shen meant. After a long, heavy silence, I spoke with a sinking feeling.
 
 ## H065 (replace)
 

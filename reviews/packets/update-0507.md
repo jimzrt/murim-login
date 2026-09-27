@@ -235,7 +235,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 의생 | **medical apprentice** | Mungyeong's occupation. |
 | 오대 | **Five Squads** | Named Tang Clan organizational group in Tang Sadok's mobilization order. |
 | 서장 | **Tibet** | Region considered by the Third Fiend as a possible escape route. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 묘족 | **Miao people** | Ethnic group the Escort Bureau expects to encounter near Yunnan. |
 | 한신 | **Han Xin** | Historical military commander invoked in the same exchange. |
 

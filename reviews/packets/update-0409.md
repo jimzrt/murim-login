@@ -308,7 +308,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 - **Role:** Team Leader Choi is an allied Hunter and team leader who fought on the Western Front.
 - **Personality:** Not established.
 - **Voice:** Not established.
-- **Relationships:** Team Leader Choi is an ally of Jin Taekyung and Shao Shen.
+- **Relationships:** Team Leader Choi is an ally of Jin Taekyung and Xiao Shen.
 
 ### Wu Heixing.md
 
@@ -1016,7 +1016,7 @@ That Jin Taekyung’s words might be advice directed straight at them.
 
 “We will win.”
 
-At Shao Shen’s firm answer, Jin Taekyung laughed aloud.
+At Xiao Shen’s firm answer, Jin Taekyung laughed aloud.
 
 “Yeah. We have to. But…”
 

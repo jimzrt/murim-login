@@ -352,9 +352,9 @@ Two of them had familiar faces.
 
 “Mr. Jin.”
 
-It was Team Leader Choi, who was in relatively decent shape, and Shao Shen, an A-rank Hunter from the Public Security Armed Forces Department of China.
+It was Team Leader Choi, who was in relatively decent shape, and Xiao Shen, an A-rank Hunter from the Public Security Armed Forces Department of China.
 
-Even though a considerable amount of time had passed since the battle ended, Shao Shen’s face was still covered in blood and dust, and exhaustion had settled heavily over his features.
+Even though a considerable amount of time had passed since the battle ended, Xiao Shen’s face was still covered in blood and dust, and exhaustion had settled heavily over his features.
 
 “There you are.”
 
@@ -368,7 +368,7 @@ I exchanged a look of greeting with Team Leader Choi before making an excuse.
 
 *Was that my imagination, or had he almost called me Lord Fuck just now?*
 
-Whether he knew what I was thinking or not, Shao Shen continued in an extremely respectful tone.
+Whether he knew what I was thinking or not, Xiao Shen continued in an extremely respectful tone.
 
 “Fortunately, with the help of the two gentlemen from the Peace Guild, we were able to defeat the monsters. I would like to take this opportunity to express my gratitude once again.”
 
@@ -376,7 +376,7 @@ Whether he knew what I was thinking or not, Shao Shen continued in an extremely 
 
 I waved my hands modestly and stole a glance at Team Leader Choi.
 
-I had worried that the *Integrated Language Pack* might malfunction and he might notice something strange, but since Shao Shen was the one I was speaking with, it seemed that Team Leader Choi was hearing my words as Chinese as well.
+I had worried that the *Integrated Language Pack* might malfunction and he might notice something strange, but since Xiao Shen was the one I was speaking with, it seemed that Team Leader Choi was hearing my words as Chinese as well.
 
 “But who is the person beside you…?”
 

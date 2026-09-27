@@ -120,11 +120,11 @@ Korean lines: 25
 
 BASE:
 
-Three jiazi of internal energy pulled Team Leader Choi and Shao Shen toward me. The Death Knights and monsters tried to move, but stopped when their leader raised a hand.
+Three jiazi of internal energy pulled Team Leader Choi and Xiao Shen toward me. The Death Knights and monsters tried to move, but stopped when their leader raised a hand.
 
 SOL:
 
-Three jiazi of internal energy pulled Team Leader Choi and Shao Shen toward me. The Death Knights and monsters started to move, but stopped when their leader raised a hand.
+Three jiazi of internal energy pulled Team Leader Choi and Xiao Shen toward me. The Death Knights and monsters started to move, but stopped when their leader raised a hand.
 
 ## H010 (replace)
 
@@ -642,11 +642,11 @@ Korean lines: 121
 
 BASE:
 
-Shao Shen was not as severely injured as Team Leader Choi, but he had still suffered serious wounds. I was just about to pour the remaining half of the potion into his mouth when—
+Xiao Shen was not as severely injured as Team Leader Choi, but he had still suffered serious wounds. I was just about to pour the remaining half of the potion into his mouth when—
 
 SOL:
 
-Shao Shen wasn’t as badly injured as Team Leader Choi, but his wounds were still severe. I was about to pour the remaining half of the potion into his mouth when—
+Xiao Shen wasn’t as badly injured as Team Leader Choi, but his wounds were still severe. I was about to pour the remaining half of the potion into his mouth when—
 
 ## H047 (replace)
 
@@ -768,11 +768,11 @@ Korean lines: 153
 
 BASE:
 
-After emptying the last few drops into Shao Shen’s mouth, I closed the bottle and put it back in my Inventory.
+After emptying the last few drops into Xiao Shen’s mouth, I closed the bottle and put it back in my Inventory.
 
 SOL:
 
-Once the last few drops had fallen into Shao Shen’s mouth, I stoppered the empty bottle and returned it to my Inventory.
+Once the last few drops had fallen into Xiao Shen’s mouth, I stoppered the empty bottle and returned it to my Inventory.
 
 ## H056 (replace)
 
@@ -824,11 +824,11 @@ Korean lines: 165
 
 BASE:
 
-“Team Leader Choi’s left leg. It was empty from a handspan below the knee. Completely clean. Shao Shen—the young one’s was his right arm.”
+“Team Leader Choi’s left leg. It was empty from a handspan below the knee. Completely clean. Xiao Shen—the young one’s was his right arm.”
 
 SOL:
 
-“Team Leader Choi’s left leg. Everything below a point one handspan beneath the knee was gone. Cut off clean. And Shao Shen—that young kid lost his right arm.”
+“Team Leader Choi’s left leg. Everything below a point one handspan beneath the knee was gone. Cut off clean. And Xiao Shen—that young kid lost his right arm.”
 
 ## H060 (replace)
 
@@ -1120,11 +1120,11 @@ Korean lines: 227
 
 BASE:
 
-I had spent a full week with the 1st Regiment led by Shao Shen. Among the corpses were many familiar faces.
+I had spent a full week with the 1st Regiment led by Xiao Shen. Among the corpses were many familiar faces.
 
 SOL:
 
-I had spent a full week with the 1st Regiment under Shao Shen. Among the corpses were several faces I recognized.
+I had spent a full week with the 1st Regiment under Xiao Shen. Among the corpses were several faces I recognized.
 
 ## H081 (replace)
 

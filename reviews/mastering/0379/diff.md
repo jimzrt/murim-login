@@ -22,11 +22,11 @@ Korean lines: 9
 
 BASE:
 
-The twenty-year-old man staring toward the horizon, Shao Shen, could not believe what was happening.
+The twenty-year-old man staring toward the horizon, Xiao Shen, could not believe what was happening.
 
 SOL:
 
-Shao Shen stared toward the horizon, unable to believe what was happening.
+Xiao Shen stared toward the horizon, unable to believe what was happening.
 
 ## H003 (replace)
 
@@ -50,7 +50,7 @@ Korean lines: 13
 
 BASE:
 
-This was not a question Shao Shen alone had asked himself.
+This was not a question Xiao Shen alone had asked himself.
 
 SOL:
 
@@ -388,11 +388,11 @@ Korean lines: 89
 
 BASE:
 
-Shao Shen, a young man who had not yet lost all traces of his youth, shouted with blazing eyes.
+Xiao Shen, a young man who had not yet lost all traces of his youth, shouted with blazing eyes.
 
 SOL:
 
-Shao Shen shouted, his youthful face still not quite rid of its boyishness and his eyes blazing.
+Xiao Shen shouted, his youthful face still not quite rid of its boyishness and his eyes blazing.
 
 ## H029 (replace)
 
@@ -430,11 +430,11 @@ Korean lines: 97
 
 BASE:
 
-Shao Shen glared at the army of monsters charging from several hundred meters away. His voice thundered out once more from beneath his tightly pulled-down helmet.
+Xiao Shen glared at the army of monsters charging from several hundred meters away. His voice thundered out once more from beneath his tightly pulled-down helmet.
 
 SOL:
 
-Shao Shen glared at the army of monsters charging from several hundred meters away. His voice thundered once more from beneath his low-pulled helmet.
+Xiao Shen glared at the army of monsters charging from several hundred meters away. His voice thundered once more from beneath his low-pulled helmet.
 
 ## H032 (replace)
 
@@ -458,11 +458,11 @@ Korean lines: 103
 
 BASE:
 
-With every eye upon him, Shao Shen raised the tip of his spear.
+With every eye upon him, Xiao Shen raised the tip of his spear.
 
 SOL:
 
-With every eye upon him, Shao Shen raised his spearhead high.
+With every eye upon him, Xiao Shen raised his spearhead high.
 
 ## H034 (replace)
 
@@ -514,11 +514,11 @@ Korean lines: 117
 
 BASE:
 
-Led by Shao Shen, the Hunters of the Public Security Armed Forces Department gripped their weapons and charged toward the army of monsters like ravenous tigers.
+Led by Xiao Shen, the Hunters of the Public Security Armed Forces Department gripped their weapons and charged toward the army of monsters like ravenous tigers.
 
 SOL:
 
-Led by Shao Shen, the Hunters of the Public Security Armed Forces Department gripped their weapons and charged the monster army like ferocious tigers.
+Led by Xiao Shen, the Hunters of the Public Security Armed Forces Department gripped their weapons and charged the monster army like ferocious tigers.
 
 ## H038 (replace)
 
@@ -1150,11 +1150,11 @@ Korean lines: 265
 
 BASE:
 
-He wore armor emblazoned with the Five-Starred Red Flag and carried a massive ax. He looked exactly like the A-rank Hunter Shao Shen remembered.
+He wore armor emblazoned with the Five-Starred Red Flag and carried a massive ax. He looked exactly like the A-rank Hunter Xiao Shen remembered.
 
 SOL:
 
-Clad in armor emblazoned with the Five-Starred Red Flag and carrying a massive ax, he looked exactly like the A-rank Hunter Shao Shen remembered.
+Clad in armor emblazoned with the Five-Starred Red Flag and carrying a massive ax, he looked exactly like the A-rank Hunter Xiao Shen remembered.
 
 ## H083 (replace)
 
@@ -1164,11 +1164,11 @@ Korean lines: 269
 
 BASE:
 
-But Shao Shen could not call the man’s name aloud. He could not bring himself to.
+But Xiao Shen could not call the man’s name aloud. He could not bring himself to.
 
 SOL:
 
-But Shao Shen could not say the man’s name aloud.
+But Xiao Shen could not say the man’s name aloud.
 
 ## H084 (insert)
 
@@ -1206,11 +1206,11 @@ Korean lines: 275
 
 BASE:
 
-If he had not witnessed the man’s head being severed only ten minutes earlier—if he had not seen him rise at this very moment with his own severed head tucked beneath his arm—Shao Shen would have thought of him as a colleague and friend.
+If he had not witnessed the man’s head being severed only ten minutes earlier—if he had not seen him rise at this very moment with his own severed head tucked beneath his arm—Xiao Shen would have thought of him as a colleague and friend.
 
 SOL:
 
-If Shao Shen had not witnessed his decapitation a little over ten minutes earlier—if the man had not risen with his own severed head tucked under one arm—he would still have thought of him as a colleague and friend.
+If Xiao Shen had not witnessed his decapitation a little over ten minutes earlier—if the man had not risen with his own severed head tucked under one arm—he would still have thought of him as a colleague and friend.
 
 ## H087 (replace)
 
@@ -1220,11 +1220,11 @@ Korean lines: 279
 
 BASE:
 
-A new name slipped between Shao Shen’s lips.
+A new name slipped between Xiao Shen’s lips.
 
 SOL:
 
-His new name slipped from Shao Shen’s lips.
+His new name slipped from Xiao Shen’s lips.
 
 ## H088 (replace)
 
@@ -1280,11 +1280,11 @@ Korean lines: 293
 
 BASE:
 
-As the Dullahan charged with a shriek, Shao Shen shot forward like the wind.
+As the Dullahan charged with a shriek, Xiao Shen shot forward like the wind.
 
 SOL:
 
-Shao Shen shot forward like the wind.
+Xiao Shen shot forward like the wind.
 
 ## H092 (replace)
 
@@ -1294,11 +1294,11 @@ Korean lines: 295
 
 BASE:
 
-In the past, the two of them had often sparred like this. What began as simple competitive pride continued every day, and whenever the sparring ended, Shao Shen had to put up with Yao Wei’s complaints.
+In the past, the two of them had often sparred like this. What began as simple competitive pride continued every day, and whenever the sparring ended, Xiao Shen had to put up with Yao Wei’s complaints.
 
 SOL:
 
-The two of them had often sparred like this. What began as simple competitive pride became a daily routine, and after every bout, Shao Shen had to endure Yao Wei’s complaints.
+The two of them had often sparred like this. What began as simple competitive pride became a daily routine, and after every bout, Xiao Shen had to endure Yao Wei’s complaints.
 
 ## H093 (replace)
 
@@ -1364,11 +1364,11 @@ Korean lines: 307
 
 BASE:
 
-Shao Shen had always been the winner.
+Xiao Shen had always been the winner.
 
 SOL:
 
-Shao Shen had always won.
+Xiao Shen had always won.
 
 ## H098 (replace)
 
@@ -1380,7 +1380,7 @@ Korean lines: 313
 
 BASE:
 
-The ax swung through empty air, while the aura surging from Shao Shen’s spearhead cleaved through the Dullahan’s upper body.
+The ax swung through empty air, while the aura surging from Xiao Shen’s spearhead cleaved through the Dullahan’s upper body.
 
 SOL:
 
@@ -1398,7 +1398,7 @@ A line was drawn from the waist upward. The headless knight’s body slowly coll
 
 SOL:
 
-Aura blazed from Shao Shen’s spearhead and tore through the Dullahan’s torso from the waist. The headless knight slowly crumpled.
+Aura blazed from Xiao Shen’s spearhead and tore through the Dullahan’s torso from the waist. The headless knight slowly crumpled.
 
 ## H100 (replace)
 
@@ -1408,11 +1408,11 @@ Korean lines: 319
 
 BASE:
 
-Shao Shen stared blankly down at the face of the fallen Dullahan—or rather, Yao Wei—and his eyes burned.
+Xiao Shen stared blankly down at the face of the fallen Dullahan—or rather, Yao Wei—and his eyes burned.
 
 SOL:
 
-Shao Shen stared down at the face of the fallen Dullahan—no, Yao Wei—and his eyes burned.
+Xiao Shen stared down at the face of the fallen Dullahan—no, Yao Wei—and his eyes burned.
 
 ## H101 (replace)
 
@@ -1542,7 +1542,7 @@ BASE:
 
 SOL:
 
-For the first time in his life, Shao Shen contemplated his own death.
+For the first time in his life, Xiao Shen contemplated his own death.
 
 ## H110 (replace)
 
@@ -1552,7 +1552,7 @@ Korean lines: 341
 
 BASE:
 
-For the first time in his life, Shao Shen thought of death. The situation was desperate enough to make even someone as bright and cheerful as him think that way.
+For the first time in his life, Xiao Shen thought of death. The situation was desperate enough to make even someone as bright and cheerful as him think that way.
 
 SOL:
 
@@ -1580,11 +1580,11 @@ Korean lines: 347
 
 BASE:
 
-After cutting down one undead monster after another as they charged him, Shao Shen laughed hollowly and looked up at the sky.
+After cutting down one undead monster after another as they charged him, Xiao Shen laughed hollowly and looked up at the sky.
 
 SOL:
 
-Shao Shen cut down one charging undead monster after another, then laughed hollowly and looked up at the sky.
+Xiao Shen cut down one charging undead monster after another, then laughed hollowly and looked up at the sky.
 
 ## H113 (insert)
 
@@ -1636,11 +1636,11 @@ Korean lines: 355
 
 BASE:
 
-Shao Shen blinked, unable to continue his thought.
+Xiao Shen blinked, unable to continue his thought.
 
 SOL:
 
-Shao Shen blinked, his thought cut short.
+Xiao Shen blinked, his thought cut short.
 
 ## H117 (replace)
 
@@ -1692,11 +1692,11 @@ Korean lines: 373
 
 BASE:
 
-Everyone on the battlefield, not only Shao Shen, looked up at the sky.
+Everyone on the battlefield, not only Xiao Shen, looked up at the sky.
 
 SOL:
 
-Not only Shao Shen but everyone on the battlefield looked up.
+Not only Xiao Shen but everyone on the battlefield looked up.
 
 ## H121 (replace)
 
@@ -1750,11 +1750,11 @@ Korean lines: 379
 
 BASE:
 
-Shao Shen soon understood what those words meant.
+Xiao Shen soon understood what those words meant.
 
 SOL:
 
-Shao Shen soon understood.
+Xiao Shen soon understood.
 
 ## H125 (replace)
 

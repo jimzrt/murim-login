@@ -616,11 +616,11 @@ Korean lines: 175
 
 BASE:
 
-A single thought passed through Choi Minwoo’s and Shao Shen’s minds.
+A single thought passed through Choi Minwoo’s and Xiao Shen’s minds.
 
 SOL:
 
-The same thought flashed through Choi Minwoo’s and Shao Shen’s minds.
+The same thought flashed through Choi Minwoo’s and Xiao Shen’s minds.
 
 ## H045 (replace)
 

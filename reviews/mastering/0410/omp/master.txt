@@ -371,7 +371,7 @@ My steadily draining internal energy filled to the brim, and the fatigue accumul
 
 But there was something more important.
 
-“Team Leader Choi! Shao Shen!”
+“Team Leader Choi! Xiao Shen!”
 
 “Yes!”
 

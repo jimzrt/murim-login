@@ -99,7 +99,7 @@ At the Mount Qingcheng headquarters, Jin Taekyung clashes with the arrogant S-ra
 
 Before deployment, Faye Chen invites Jin to drink. Prince Felix leaves when she cannot provide his preferred 1945 Romanée-Conti, while Magic Johnson and Team Leader Choi join her. Jin follows Wu into a forest, discovers Wu’s secret Sound Transmission and martial-arts abilities, and defeats him after Wu attacks. Jin takes Wu’s Top-Grade Potion as compensation, gives him a high-grade potion to heal him, and warns him to keep silent. Lee Jungryong later approaches Wu about an undisclosed private discussion. Jin completes Circulate Your Qi, slightly advances the Fire Gate Divine Technique, and receives the nonrefusable Sudden Quest **The Desperate War Situation**, ordering him to reach the front and defeat the enemies.
 
-China declares martial law as the Sichuan Monster Wave surpasses 100,000 monsters and causes at least 300,000 casualties in its first week. United Nations peacekeeping forces and international S-rank Hunters join the battle. On the fourth day, Faye holds the east-west front while Lee holds the north. Jin, Team Leader Choi, Shao Shen, and approximately one thousand Public Security Armed Forces Department Hunters attack the western front. Jin leads from the front, using Flamefire Path, White Flame, and Extreme Yang Force to cut through the enemy formation.
+China declares martial law as the Sichuan Monster Wave surpasses 100,000 monsters and causes at least 300,000 casualties in its first week. United Nations peacekeeping forces and international S-rank Hunters join the battle. On the fourth day, Faye holds the east-west front while Lee holds the north. Jin, Team Leader Choi, Xiao Shen, and approximately one thousand Public Security Armed Forces Department Hunters attack the western front. Jin leads from the front, using Flamefire Path, White Flame, and Extreme Yang Force to cut through the enemy formation.
 
 ## Continuity
 
@@ -110,7 +110,7 @@ China declares martial law as the Sichuan Monster Wave surpasses 100,000 monster
 - The Sichuan Monster Wave exceeds 100,000 monsters and has caused at least 300,000 casualties. The Arch Lich controls most of its undead forces.
 - China is under martial law; United Nations peacekeeping forces and international S-rank Hunters are deployed across Sichuan.
 - Jin’s western-front assault is advancing into the monster formation; the breach is on the monster side, not a collapse of Jin’s forces.
-- Shao Shen is a twenty-one-year-old Chinese military commander who follows Jin’s orders and accepts calling him hyung.
+- Xiao Shen is a twenty-one-year-old Chinese military commander who follows Jin’s orders and accepts calling him hyung.
 - Faye Chen prevented the east-west front from breaking through, while Lee Jungryong holds the northern front.
 - Wu Heixing secretly knows Sound Transmission, internal-energy cultivation, and fist-and-foot martial arts. Jin defeated and healed him, but Wu remains humiliated, resentful, and jealous.
 - Lee Jungryong, head of the Ares Guild and one of the world’s three strongest S-rank Hunters, has recognized Jin’s breakthrough and seeks an undisclosed discussion with Wu.
@@ -119,7 +119,7 @@ China declares martial law as the Sichuan Monster Wave surpasses 100,000 monster
 ## Translation Decisions
 
 - Retain **Blazing Flame Divine Dragon**, **Huashan Divine Dragon**, **Sound Transmission**, **Flamefire Path**, **White Flame**, **Extreme Yang Force**, **Fire Dragon Armor**, **Moving Formation**, **Arch Lich**, **Bones**, **Death Knight**, **death energy**, **Top-Grade Potion**, and **high-grade potion**.
-- Use **Faye Chen**, **Wu Heixing**, **Felix Alexander Louis**, **William**, **Lee Jungryong**, **Shao Shen**, and **Wei Fenghu**.
+- Use **Faye Chen**, **Wu Heixing**, **Felix Alexander Louis**, **William**, **Lee Jungryong**, **Xiao Shen**, and **Wei Fenghu**.
 - Use **Public Security Armed Forces Department**, **martial law**, **United Nations Security Council**, **Archmage**, and **War Mage**.
 - Preserve **Lord Fuck**, **peninsula bangzi**, **Chairman Comrade**, **Mimi**, **Mimi-chan**, and the chapter’s vulgar historical and cultural jokes.
 
@@ -1970,7 +1970,7 @@ A snort escaped me at his sparkling eyes.
 
 “I told you it was fine as long as you were okay with it. But is this really all right in front of your men? You said you’re getting promoted to major general now, didn’t you?”
 
-Shao Shen shook his head at lightning speed.
+Xiao Shen shook his head at lightning speed.
 
 “No problem at all! H-hyung, hyung!”
 
@@ -1980,7 +1980,7 @@ I looked at the Hunters from the Public Security Armed Forces Department lined u
 
 Their fever-bright eyes held admiration and awe for the strong.
 
-Of course, Shao Shen stood out above all the rest.
+Of course, Xiao Shen stood out above all the rest.
 
 “Give the order, h-hyung.”
 

@@ -132,7 +132,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
     "Jin Taekyung and Team Leader Choi have arrived at Chengdu International Airport, where Jin halted their aircraft in the middle of the monster army.",
     "More than half of the nearly two-thousand-monster army are undead and appear to be controlled by an unidentified external force.",
     "The Skeleton Warlord can control the undead army, and its command has caused the undead monsters to freeze in place.",
-    "Shao Shen is a young Hunter of the Public Security Armed Forces Department who rallied the defenders and recognizes Jin Taekyung as Lord Fuck.",
+    "Xiao Shen is a young Hunter of the Public Security Armed Forces Department who rallied the defenders and recognizes Jin Taekyung as Lord Fuck.",
     "Jin Taekyung is Level 120 at the Supreme Peak realm, has manifested Force, and is publicly known as the Blazing Flame Divine Dragon.",
     "The Myriad-Poison Ring remains bound to Jin Taekyung alongside White Flame and the Fire Dragon Armor.",
     "The System has generated the unexpected Quest Unexpected Attack.",
@@ -853,7 +853,7 @@ The Chinese Hunters were also bewildered by the sudden turn of events.
 
 I shouted toward the young Hunter who had been cutting through the battlefield with his spear from the front of the formation.
 
-“Shao Shen!”
+“Xiao Shen!”
 
 「M-Mr. Jin?」
 
@@ -873,7 +873,7 @@ I had just checked his Level with Qi Sense, but that was not important right now
 
 “Then what should you do now?”
 
-Shao Shen’s eyes cleared, and he raised his spear high.
+Xiao Shen’s eyes cleared, and he raised his spear high.
 
 「Attack formation! Everyone in the Public Security Armed Forces Department, from this moment on, attack everything except the undead monsters!」
 

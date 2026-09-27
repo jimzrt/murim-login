@@ -139,7 +139,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
     "Jin Taekyung is Level 120 at the Supreme Peak realm, has manifested Force, and is publicly known as the Blazing Flame Divine Dragon.",
     "The Myriad-Poison Ring remains bound to Jin Taekyung alongside White Flame and the Fire Dragon Armor.",
     "The Skeleton Warlord is stored in Jin Taekyung’s Inventory and can control nearby undead, resurrect fallen monsters, and expand its army; its power has increased dramatically at the airport.",
-    "Shao Shen commands roughly five hundred Public Security Armed Forces Department Hunters and leads them in an offensive against the non-undead monsters.",
+    "Xiao Shen commands roughly five hundred Public Security Armed Forces Department Hunters and leads them in an offensive against the non-undead monsters.",
     "Three former necromancers, reborn in the bodies of dead mages, are still incomplete Liches serving the Arch Lich.",
     "The Arch Lich ordered the three necromancers to kill humans and create more undead, and may withdraw the power granted to them if they fail.",
     "Jin Taekyung has reached the three necromancers after tearing through their monster forces with hellfire and Flamefire Path.",
@@ -202,7 +202,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 | 리치 | **Lich** | Named Monster; fallen archmage and apex undead monster. |
 | 강기 | **Force** | Generic manifestation of concentrated martial energy; distinct from Sword Force. |
 | 국방부 | **Ministry of National Defense** | Government ministry referenced in Taekyung's comparison about the steady passage of time. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 바이엘른 | **Bayern** | First word in one of the necromantic chants. |
 
 ## Matched address pairs
@@ -1029,9 +1029,9 @@ Two of them had familiar faces.
 
 “Mr. Jin.”
 
-It was Team Leader Choi, who was in relatively decent shape, and Shao Shen, an A-rank Hunter from the Public Security Armed Forces Department of China.
+It was Team Leader Choi, who was in relatively decent shape, and Xiao Shen, an A-rank Hunter from the Public Security Armed Forces Department of China.
 
-Even though a considerable amount of time had passed since the battle ended, Shao Shen’s face was still covered in blood and dust, and exhaustion had settled heavily over his features.
+Even though a considerable amount of time had passed since the battle ended, Xiao Shen’s face was still covered in blood and dust, and exhaustion had settled heavily over his features.
 
 “There you are.”
 
@@ -1045,7 +1045,7 @@ I exchanged a look of greeting with Team Leader Choi before making an excuse.
 
 *Was that my imagination, or had he almost called me Lord Fuck just now?*
 
-Whether he knew what I was thinking or not, Shao Shen continued in an extremely respectful tone.
+Whether he knew what I was thinking or not, Xiao Shen continued in an extremely respectful tone.
 
 “Fortunately, with the help of the two gentlemen from the Peace Guild, we were able to defeat the monsters. I would like to take this opportunity to express my gratitude once again.”
 
@@ -1053,7 +1053,7 @@ Whether he knew what I was thinking or not, Shao Shen continued in an extremely 
 
 I waved my hands modestly and stole a glance at Team Leader Choi.
 
-I had worried that the *Integrated Language Pack* might malfunction and he might notice something strange, but since Shao Shen was the one I was speaking with, it seemed that Team Leader Choi was hearing my words as Chinese as well.
+I had worried that the *Integrated Language Pack* might malfunction and he might notice something strange, but since Xiao Shen was the one I was speaking with, it seemed that Team Leader Choi was hearing my words as Chinese as well.
 
 “But who is the person beside you…?”
 

@@ -1662,11 +1662,11 @@ Korean lines: 351
 
 BASE:
 
-It was Team Leader Choi, who was in relatively decent shape, and Shao Shen, an A-rank Hunter from the Public Security Armed Forces Department of China.
+It was Team Leader Choi, who was in relatively decent shape, and Xiao Shen, an A-rank Hunter from the Public Security Armed Forces Department of China.
 
 SOL:
 
-They were Team Leader Choi, who looked relatively unscathed, and Shao Shen, an A-rank Hunter from China’s Public Security Armed Forces Department.
+They were Team Leader Choi, who looked relatively unscathed, and Xiao Shen, an A-rank Hunter from China’s Public Security Armed Forces Department.
 
 ## H118 (replace)
 
@@ -1676,11 +1676,11 @@ Korean lines: 353
 
 BASE:
 
-Even though a considerable amount of time had passed since the battle ended, Shao Shen’s face was still covered in blood and dust, and exhaustion had settled heavily over his features.
+Even though a considerable amount of time had passed since the battle ended, Xiao Shen’s face was still covered in blood and dust, and exhaustion had settled heavily over his features.
 
 SOL:
 
-A fair amount of time had passed since the battle ended, but Shao Shen was still covered in blood and dust, his face haggard with exhaustion.
+A fair amount of time had passed since the battle ended, but Xiao Shen was still covered in blood and dust, his face haggard with exhaustion.
 
 ## H119 (replace)
 
@@ -1732,11 +1732,11 @@ Korean lines: 367
 
 BASE:
 
-Whether he knew what I was thinking or not, Shao Shen continued in an extremely respectful tone.
+Whether he knew what I was thinking or not, Xiao Shen continued in an extremely respectful tone.
 
 SOL:
 
-Oblivious to my thoughts, Shao Shen continued with the utmost respect.
+Oblivious to my thoughts, Xiao Shen continued with the utmost respect.
 
 ## H123 (replace)
 
@@ -1790,11 +1790,11 @@ Korean lines: 375
 
 BASE:
 
-I had worried that the *Integrated Language Pack* might malfunction and he might notice something strange, but since Shao Shen was the one I was speaking with, it seemed that Team Leader Choi was hearing my words as Chinese as well.
+I had worried that the *Integrated Language Pack* might malfunction and he might notice something strange, but since Xiao Shen was the one I was speaking with, it seemed that Team Leader Choi was hearing my words as Chinese as well.
 
 SOL:
 
-I had been worried the *Integrated Language Pack* might malfunction and make him notice something strange. But since I was currently speaking with Shao Shen, it seemed Team Leader Choi was hearing my words in Chinese as well.
+I had been worried the *Integrated Language Pack* might malfunction and make him notice something strange. But since I was currently speaking with Xiao Shen, it seemed Team Leader Choi was hearing my words in Chinese as well.
 
 ## H127 (replace)
 

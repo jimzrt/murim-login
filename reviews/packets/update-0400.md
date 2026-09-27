@@ -199,7 +199,7 @@ If the person already appears under Listed compact profiles, use `profile_update
 | 중화인민공화국 | **People's Republic of China** | Formal country name shouted by the Chinese Hunters. |
 | 겁화 | **hellfire** | Destructive fire energy used by Taekyung. |
 | 오성 | **Oseong** | One half of the paired Joseon-era names used in Taekyung's joke. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 | 가오핑구 | **Gaoping District** | District of Nanchong City where the Sichuan Monster Wave began. |
 | 공안무력부 | **Public Security Armed Forces Department** | Chinese security organization ordered to assemble during the attack. |
 

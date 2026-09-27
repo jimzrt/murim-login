@@ -95,7 +95,7 @@ For example, render `고시원` as “goshiwon” when the setting or connotatio
 
 ## Plot
 
-Jin Taekyung’s western-front force destroys more than a thousand monsters with minimal casualties while the following army removes corpses and rescues civilians. After reserve Hunters diverted by General Liao are massacred in a ruined city by a black knight and ten Death Knights, Jin arrives too late; the Unexpected Assault is canceled, costing him 10 Strength. He prevents Shao Shen from killing Liao, then breaks Liao’s arms and crushes his kneecaps after Liao admits the operation was intended to succeed.
+Jin Taekyung’s western-front force destroys more than a thousand monsters with minimal casualties while the following army removes corpses and rescues civilians. After reserve Hunters diverted by General Liao are massacred in a ruined city by a black knight and ten Death Knights, Jin arrives too late; the Unexpected Assault is canceled, costing him 10 Strength. He prevents Xiao Shen from killing Liao, then breaks Liao’s arms and crushes his kneecaps after Liao admits the operation was intended to succeed.
 
 The Arch Lich orders the undead legions to withdraw and lure the human army deeper into the battlefield, revealing that it serves an unknown true king. Monster armies subsequently retreat from every Sichuan front except the deeply penetrated western front. Faye Chen condemns Wu Heixing for abandoning his post, while Wu, increasingly resentful and frightened of Jin, begins considering how to eliminate him after recalling Lee Jungryong’s proposal. Team Leader Choi manipulates rumors and pays soldiers to protect Jin’s reputation after the attack on Liao. Magic Johnson then reports that a military conference has been called in Chengdu and prepares to withdraw personnel from the southern front.
 
@@ -104,8 +104,8 @@ The Arch Lich orders the undead legions to withdraw and lure the human army deep
 - Jin is Level 121, has crossed into true mastery, retains the Undead Hunter Title, and keeps the strengthened Skeleton Warlord, Bones, in his Inventory.
 - **The Desperate War Situation** remains active. **Unexpected Assault** was canceled when its target disappeared; its failure reduced Jin’s Strength by 10.
 - The Skeleton Warlord cannot raise undead deep inside the battlefield because the Arch Lich’s control is stronger there.
-- Zhang Wei’s company and many of Shao Shen’s Hunters were massacred in the ruined city. The black knight spared a hidden family with a child and withdrew with ten Death Knights.
-- Shao Shen survived Jin’s Paralysis, Mute, and Sleep Acupoint strikes and still seeks revenge against General Liao. Jin’s assault on Liao risks political consequences because Liao is a senior Central Military Commission general and Crown Prince Party member.
+- Zhang Wei’s company and many of Xiao Shen’s Hunters were massacred in the ruined city. The black knight spared a hidden family with a child and withdrew with ten Death Knights.
+- Xiao Shen survived Jin’s Paralysis, Mute, and Sleep Acupoint strikes and still seeks revenge against General Liao. Jin’s assault on Liao risks political consequences because Liao is a senior Central Military Commission general and Crown Prince Party member.
 - The Arch Lich remains weakened, serves an unidentified true king, and has ordered the black knight and undead legions to withdraw and draw human forces inward.
 - Monster armies withdrew overnight from every Sichuan front except the western front, where Jin’s force remains deeply advanced.
 - Faye Chen remains hostile toward Wu Heixing after his abandonment of the eastern-western command area. Wu intends to act against Jin after recalling his conversation with Lee Jungryong.
@@ -116,9 +116,9 @@ The Arch Lich orders the undead legions to withdraw and lure the human army deep
 ## Translation Decisions
 
 - Retain **Arch Lich**, **black knight**, **Death Knight**, **warhorse**, **Bones**, **Sudden Quest**, **Unexpected Assault**, **Strength**, **Paralysis Acupoint**, **Mute Acupoint**, **Sleep Acupoint**, and **high-grade potion**.
-- Use **Jin Taekyung**, **Shao Shen**, **General Liao**, **Zhang Wei**, **Faye Chen**, **Wu Heixing**, **Lee Jungryong**, **Team Leader Choi**, **Magic Johnson**, and **Michael Johnson**.
+- Use **Jin Taekyung**, **Xiao Shen**, **General Liao**, **Zhang Wei**, **Faye Chen**, **Wu Heixing**, **Lee Jungryong**, **Team Leader Choi**, **Magic Johnson**, and **Michael Johnson**.
 - Use **Public Security Armed Forces Department**, **13th Group Army**, **Regimental Commander**, **company commander**, **Crown Prince Party**, and **martial law**.
-- Render **형님** as **hyung** when Shao Shen addresses Jin and preserve Team Leader Choi’s formal **Mr. Jin**.
+- Render **형님** as **hyung** when Xiao Shen addresses Jin and preserve Team Leader Choi’s formal **Mr. Jin**.
 - Preserve the established **Lord Fuck/Lord Fuuuck** wordplay, Jin’s crude humor, and the hostile, profane tone of Faye’s confrontation with Wu.
 
 ## Durable state
@@ -147,12 +147,12 @@ The Arch Lich orders the undead legions to withdraw and lure the human army deep
     "What happened to Lei Fei and the Hunters who disappeared with him?",
     "What happened to the Second Fiend assigned to the Qingcheng attack?",
     "What is Wu Heixing planning after recalling his conversation with Lee Jungryong?",
-    "What does Shao Shen know about the consequences of Jin's confrontation with General Liao?"
+    "What does Xiao Shen know about the consequences of Jin's confrontation with General Liao?"
   ],
   "safe_through": 394,
   "temporary_decisions": [
     "Render 파이 첸 as Faye Chen and 매직 존슨 as Magic Johnson.",
-    "Render 형님 as hyung when Shao Shen addresses Jin Taekyung, and retain Mr. Jin for 진태경 씨 in Team Leader Choi's formal address.",
+    "Render 형님 as hyung when Xiao Shen addresses Jin Taekyung, and retain Mr. Jin for 진태경 씨 in Team Leader Choi's formal address.",
     "Preserve the hostile, profane tone of Faye Chen's confrontation with Wu Heixing.",
     "Render 마이클 존슨 as Michael Johnson and retain Rao Yang for 롸우양.",
     "Preserve Jin's dry first-person humor, sports-car metaphors, and crude Lord Fuck wordplay."
@@ -266,7 +266,7 @@ I was tired of telling him that he was already dead. Suppressing an inward sigh,
 
 “It’s a crushing victory! Another crushing victory!”
 
-Shao Shen shouted with a face flushed red. Team Leader Choi and I had now seen this scene more than ten times, so we simply took it in stride.
+Xiao Shen shouted with a face flushed red. Team Leader Choi and I had now seen this scene more than ten times, so we simply took it in stride.
 
 *Well, I suppose he has reason to be excited.*
 
@@ -276,7 +276,7 @@ And we had finished the battle without a single fatality. It really was a monume
 
 “Our casualties are only twenty-three severely wounded and thirty lightly wounded. Ah, this is really…!”
 
-Shao Shen trembled like a puppy that needed to pee and looked at me with shining eyes.
+Xiao Shen trembled like a puppy that needed to pee and looked at me with shining eyes.
 
 “How can this happen every time?”
 
@@ -290,7 +290,7 @@ Team Leader Choi gave me a look of mild disbelief.
 
 “That’s usually how it goes. But what can I do when it isn’t because I’m lucky? I’m actually that strong. Right, Shen?”
 
-Shao Shen nodded at tremendous speed.
+Xiao Shen nodded at tremendous speed.
 
 “That’s right! Hyung is the best!”
 
@@ -306,7 +306,7 @@ Watching us trade lines back and forth, Team Leader Choi slowly shook his head.
 
 What was that supposed to mean? Somehow, it sounded unpleasant.
 
-I shrugged and asked Shao Shen,
+I shrugged and asked Xiao Shen,
 
 “More importantly, what about headquarters?”
 
@@ -344,7 +344,7 @@ This was cleaning in the literal sense. The army assigned to the western front h
 
 “Saying what?”
 
-Shao Shen studied my expression before whispering cautiously.
+Xiao Shen studied my expression before whispering cautiously.
 
 “They’re a little dissatisfied with the roles they’ve been assigned…”
 
@@ -352,7 +352,7 @@ Shao Shen studied my expression before whispering cautiously.
 
 What in the world was he talking about?
 
-It took me quite a while to understand Shao Shen’s words. After a long, heavy silence, I finally parted my lips with a sinking feeling.
+It took me quite a while to understand Xiao Shen’s words. After a long, heavy silence, I finally parted my lips with a sinking feeling.
 
 “Don’t tell me they want to stop cleaning up monster corpses and distinguish themselves by making some kind of achievement.”
 
@@ -370,13 +370,13 @@ Team Leader Choi, who had been listening quietly, spoke in a calm voice.
 
 I wondered whether that was really something to say in front of nearly a thousand Chinese people, but Chinese people and chinks were, strictly speaking, different races.
 
-Shao Shen, the representative of all good Chinese people, had turned red with embarrassment.
+Xiao Shen, the representative of all good Chinese people, had turned red with embarrassment.
 
 “I-I’m sorry. But as far as I know, it isn’t all the officers. Only some of them are dissatisfied.”
 
 “Some of them. Naturally. But there’s one thing I’m curious about…”
 
-I frowned and pointed over Shao Shen’s shoulder.
+I frowned and pointed over Xiao Shen’s shoulder.
 
 “Does that ‘some’ include the man coming over there?”
 
@@ -934,11 +934,11 @@ Sometimes there were things you had to do even when you didn’t want to. This w
 
 「…….」
 
-“Shao Shen!”
+“Xiao Shen!”
 
 Thud. Thud. Thud.
 
-Despite my forceful shout, Shao Shen’s footsteps did not stop. He simply continued walking toward some unknown place in search of the criminals who had killed his subordinates.
+Despite my forceful shout, Xiao Shen’s footsteps did not stop. He simply continued walking toward some unknown place in search of the criminals who had killed his subordinates.
 
 In the end, I had to approach him myself and grab his shoulder.
 
@@ -954,7 +954,7 @@ A dry, lifeless voice spilled out.
 
 「Where?」
 
-Shao Shen looked around with empty eyes before continuing.
+Xiao Shen looked around with empty eyes before continuing.
 
 「I don’t know. But they must be somewhere.」
 
@@ -966,7 +966,7 @@ Shao Shen looked around with empty eyes before continuing.
 
 For a moment, I was unable to speak.
 
-The man I saw before me was not Shao Shen. He was me, a few years ago.
+The man I saw before me was not Xiao Shen. He was me, a few years ago.
 
 That was why I couldn’t easily say what needed to be said.
 
@@ -990,7 +990,7 @@ I swallowed the curse circling the tip of my tongue and tightened my grip on his
 
 The System notification had told me so. There was no way I could be wrong.
 
-Shao Shen met my confident gaze and muttered blankly.
+Xiao Shen met my confident gaze and muttered blankly.
 
 「I’m too late. It really is too late.」
 
@@ -1000,13 +1000,13 @@ I thought he would finally let his suppressed rage and grief erupt.
 
 Just as I had done years ago, I thought he would cry out loud and smash anything he could see.
 
-But I was wrong. The object of Shao Shen’s desire for revenge wasn’t limited to the monsters.
+But I was wrong. The object of Xiao Shen’s desire for revenge wasn’t limited to the monsters.
 
 Rattle-rattle. Thud.
 
 The tanks were only now entering the city.
 
-As Shao Shen watched the advancing column draw closer from a distant speck, his eyes burned like flames.
+As Xiao Shen watched the advancing column draw closer from a distant speck, his eyes burned like flames.
 
 「Then I suppose I’ll have to kill that bastard, at least.」
 
@@ -1022,13 +1022,13 @@ But…
 
 Feeling wretched, I reached out.
 
-Shao Shen sensed something was wrong and tried to evade me, but my hand moved fluidly and had already brushed his acupoints.
+Xiao Shen sensed something was wrong and tried to evade me, but my hand moved fluidly and had already brushed his acupoints.
 
 Tap. Tap-tap!
 
 The Paralysis Acupoint, the Mute Acupoint, and the Sleep Acupoint.
 
-Shao Shen’s entire body went rigid, his voice was cut off, and deep sleep began to overtake him.
+Xiao Shen’s entire body went rigid, his voice was cut off, and deep sleep began to overtake him.
 
 His eyelids trembled as though he were struggling with all his strength to resist the drowsiness pouring over him.
 
@@ -1036,11 +1036,11 @@ His eyelids trembled as though he were struggling with all his strength to resis
 
 Sshk.
 
-In the end, his eyelids closed firmly. The last thing I saw in Shao Shen’s eyes was unmistakable confusion.
+In the end, his eyelids closed firmly. The last thing I saw in Xiao Shen’s eyes was unmistakable confusion.
 
 *Why? How come?*
 
-And Shao Shen wasn’t the only one who felt that way.
+And Xiao Shen wasn’t the only one who felt that way.
 
 「Regimental Commander!」
 
@@ -1050,7 +1050,7 @@ Whoooooosh! Shing!
 
 Along with furious shouts, five sounds of air being split apart rang out.
 
-They were A-rank Hunters under Shao Shen’s command, men called company commanders.
+They were A-rank Hunters under Xiao Shen’s command, men called company commanders.
 
 I swept a hand toward them as they charged without hesitation.
 
@@ -1078,7 +1078,7 @@ As the atmosphere grew more hostile, Team Leader Choi stepped forward and spoke 
 
 「W-What did you say?」
 
-“If we had left him alone, the enraged Regimental Commander Shao would have killed General Liao.”
+“If we had left him alone, the enraged Regimental Commander Xiao would have killed General Liao.”
 
 「……General Liao deserves to die. Even if our regimental commander hadn’t done it, we would have taken matters into our own hands.」
 
@@ -1118,13 +1118,13 @@ But it was clear that they had all reached the same tacit agreement.
 
 Once the situation finally came to an end, Team Leader Choi let out a relieved sigh.
 
-“We can finally breathe. It’s fortunate that you stopped Regimental Commander Shao, Mr. Jin.”
+“We can finally breathe. It’s fortunate that you stopped Regimental Commander Xiao, Mr. Jin.”
 
 “……It was nothing.”
 
 Fortunate. Was this really something we should call fortunate?
 
-Even knowing that there had been no other choice, I was left with a bitter taste in my mouth. I knew the rage and grief Shao Shen must have felt.
+Even knowing that there had been no other choice, I was left with a bitter taste in my mouth. I knew the rage and grief Xiao Shen must have felt.
 
 “More importantly, it seemed there were survivors.”
 
@@ -1461,17 +1461,17 @@ The great movement was taking place simultaneously across every front in Sichuan
 
 “……Phew.”
 
-Shao Shen let out a sigh, his eyes red and bloodshot.
+Xiao Shen let out a sigh, his eyes red and bloodshot.
 
 He had spent the night with his Sleep Acupoint struck and had only regained consciousness two hours ago.
 
 The moment he opened his eyes, he had gone berserk, shouting that he was going to kill General Liao. Team Leader Choi and I had sweated bullets trying to calm him down.
 
-“Shao Shen, are you all right?”
+“Xiao Shen, are you all right?”
 
 “Yeah. Are you feeling a little calmer now?”
 
-Shao Shen answered.
+Xiao Shen answered.
 
 “Yes. When I first woke up, I couldn’t put any strength into my body, but I’m fine now. This is more than enough to rip that bastard’s head off.”
 
@@ -1485,7 +1485,7 @@ Still, unlike his words, only his fists were trembling, so I felt some relief th
 
 “I’m telling you again, I didn’t want to do that to you. The timing was just bad.”
 
-Shao Shen was silent for a moment before nodding.
+Xiao Shen was silent for a moment before nodding.
 
 “I know, hyung. I know you stepped in on my behalf, too.”
 
@@ -1515,17 +1515,17 @@ General Liao had thrown away nearly a thousand lives and was talking about milit
 
 “What can we do? The water’s already spilled. We’ll think about it if a problem arises.”
 
-Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Shao Shen spoke in a low voice.
+Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Xiao Shen spoke in a low voice.
 
 “Don’t worry. The thing you’re concerned about, Mr. Choi, won’t happen.”
 
 “Hm?”
 
-“Shao Shen, did you hear something?”
+“Xiao Shen, did you hear something?”
 
 “Rather than hearing something…”
 
-After hesitating for a moment, Shao Shen shook his head with a stern expression.
+After hesitating for a moment, Xiao Shen shook his head with a stern expression.
 
 “Um… it’s just my personal opinion.”
 
@@ -1535,7 +1535,7 @@ After hesitating for a moment, Shao Shen shook his head with a stern expression.
 
 What was this suspicious smell?
 
-Team Leader Choi and I were looking at Shao Shen suspiciously when—
+Team Leader Choi and I were looking at Xiao Shen suspiciously when—
 
 “M-m-m-may I come in?”
 

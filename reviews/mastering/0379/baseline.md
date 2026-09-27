@@ -4,11 +4,11 @@ Rumble, rumble, rumble!
 
 A tremendous roar and vibrations transmitted through the ground.
 
-The twenty-year-old man staring toward the horizon, Shao Shen, could not believe what was happening.
+The twenty-year-old man staring toward the horizon, Xiao Shen, could not believe what was happening.
 
 *They’re supposed to be thousands of kilometers away. How are the monsters…?*
 
-This was not a question Shao Shen alone had asked himself.
+This was not a question Xiao Shen alone had asked himself.
 
 More than a thousand Hunters from the Public Security Armed Forces Department and five thousand members of the Chinese People’s Liberation Army dispatched to maintain public order were stationed at Chengdu International Airport. Every one of them had wondered the same thing, and all of them were stunned by the reality bearing down on them.
 
@@ -84,7 +84,7 @@ And while the members of the People’s Liberation Army were slowly backing away
 
 “Don’t retreat!”
 
-Shao Shen, a young man who had not yet lost all traces of his youth, shouted with blazing eyes.
+Xiao Shen, a young man who had not yet lost all traces of his youth, shouted with blazing eyes.
 
 The Five-Starred Red Flag, the national flag of the People’s Republic of China, was embroidered across the chest of his armor.
 
@@ -92,13 +92,13 @@ The Five-Starred Red Flag, the national flag of the People’s Republic of China
 
 At the young man’s question, those who had been trying to flee stopped in their tracks.
 
-Shao Shen glared at the army of monsters charging from several hundred meters away. His voice thundered out once more from beneath his tightly pulled-down helmet.
+Xiao Shen glared at the army of monsters charging from several hundred meters away. His voice thundered out once more from beneath his tightly pulled-down helmet.
 
 “Who are we?”
 
 His shout made their blood boil.
 
-With every eye upon him, Shao Shen raised the tip of his spear.
+With every eye upon him, Xiao Shen raised the tip of his spear.
 
 “We are the descendants of Zhonghua, and we are brothers in the People’s Liberation Army and the Public Security Armed Forces Department!”
 
@@ -112,7 +112,7 @@ Hissss!
 
 A tremendous roar that numbed the ears shook the earth.
 
-Led by Shao Shen, the Hunters of the Public Security Armed Forces Department gripped their weapons and charged toward the army of monsters like ravenous tigers.
+Led by Xiao Shen, the Hunters of the Public Security Armed Forces Department gripped their weapons and charged toward the army of monsters like ravenous tigers.
 
 “Don’t retreat! Show them the strength of Zhonghua!”
 
@@ -256,35 +256,35 @@ An army of skeletons gained new life and slowly rose from pools of death.
 
 With a bubbling sound, a man rose to his feet.
 
-He wore armor emblazoned with the Five-Starred Red Flag and carried a massive ax. He looked exactly like the A-rank Hunter Shao Shen remembered.
+He wore armor emblazoned with the Five-Starred Red Flag and carried a massive ax. He looked exactly like the A-rank Hunter Xiao Shen remembered.
 
 *…Mr. Yao Wei.*
 
-But Shao Shen could not call the man’s name aloud. He could not bring himself to.
+But Xiao Shen could not call the man’s name aloud. He could not bring himself to.
 
 Because he knew that the person standing before him was no longer the man he had known.
 
 *Ah… ahhh.*
 
-If he had not witnessed the man’s head being severed only ten minutes earlier—if he had not seen him rise at this very moment with his own severed head tucked beneath his arm—Shao Shen would have thought of him as a colleague and friend.
+If he had not witnessed the man’s head being severed only ten minutes earlier—if he had not seen him rise at this very moment with his own severed head tucked beneath his arm—Xiao Shen would have thought of him as a colleague and friend.
 
 But Yao Wei no longer existed.
 
-A new name slipped between Shao Shen’s lips.
+A new name slipped between Xiao Shen’s lips.
 
 “Dullahan…”
 
 A headless knight. A Dullahan.
 
-Shao Shen bit his lip at the sight of his former colleague transformed into a high-level undead monster. Something hot ran down his cheek.
+Xiao Shen bit his lip at the sight of his former colleague transformed into a high-level undead monster. Something hot ran down his cheek.
 
 “I’m sorry. I truly am.”
 
 —Graaaar!
 
-As the Dullahan charged with a shriek, Shao Shen shot forward like the wind.
+As the Dullahan charged with a shriek, Xiao Shen shot forward like the wind.
 
-In the past, the two of them had often sparred like this. What began as simple competitive pride continued every day, and whenever the sparring ended, Shao Shen had to put up with Yao Wei’s complaints.
+In the past, the two of them had often sparred like this. What began as simple competitive pride continued every day, and whenever the sparring ended, Xiao Shen had to put up with Yao Wei’s complaints.
 
 *You little punk, where are your manners? Would it kill you to let me win once?*
 
@@ -294,19 +294,19 @@ In the past, the two of them had often sparred like this. What began as simple c
 
 But that had never happened before, and it never would.
 
-Shao Shen had always been the winner.
+Xiao Shen had always been the winner.
 
 *Goodbye. Thank you for everything.*
 
 Whoosh! Slice!
 
-The ax swung through empty air, while the aura surging from Shao Shen’s spearhead cleaved through the Dullahan’s upper body.
+The ax swung through empty air, while the aura surging from Xiao Shen’s spearhead cleaved through the Dullahan’s upper body.
 
 A line was drawn from the waist upward. The headless knight’s body slowly collapsed.
 
 Thud. Crash.
 
-Shao Shen stared blankly down at the face of the fallen Dullahan—or rather, Yao Wei—and his eyes burned.
+Xiao Shen stared blankly down at the face of the fallen Dullahan—or rather, Yao Wei—and his eyes burned.
 
 “How dare you… How dare you do this…”
 
@@ -328,13 +328,13 @@ Screams and death rained down from every direction. Unlike the Public Security A
 
 *Am I going to die here, like this?*
 
-For the first time in his life, Shao Shen thought of death. The situation was desperate enough to make even someone as bright and cheerful as him think that way.
+For the first time in his life, Xiao Shen thought of death. The situation was desperate enough to make even someone as bright and cheerful as him think that way.
 
 *We never received a warning signal, so communications are probably down. There won’t be any reinforcements either… This really is the end.*
 
 Slice!
 
-After cutting down one undead monster after another as they charged him, Shao Shen laughed hollowly and looked up at the sky.
+After cutting down one undead monster after another as they charged him, Xiao Shen laughed hollowly and looked up at the sky.
 
 The sunset was quite beautiful. Once the sun went down and darkness arrived, he would never see a sight like this again.
 
@@ -342,7 +342,7 @@ The sunset was quite beautiful. Once the sun went down and darkness arrived, he 
 
 Huh?
 
-Shao Shen blinked, unable to continue his thought.
+Xiao Shen blinked, unable to continue his thought.
 
 Something enormous was approaching the battlefield at tremendous speed high above.
 
@@ -360,7 +360,7 @@ A gigantic aircraft wreathed in flames. And someone’s shout echoing across the
 
 *Am I hearing things?*
 
-Everyone on the battlefield, not only Shao Shen, looked up at the sky.
+Everyone on the battlefield, not only Xiao Shen, looked up at the sky.
 
 Someone’s voice, carrying an almost palpable madness, rang out like thunder.
 
@@ -368,7 +368,7 @@ Someone’s voice, carrying an almost palpable madness, rang out like thunder.
 
 Ram what?
 
-Shao Shen soon understood what those words meant.
+Xiao Shen soon understood what those words meant.
 
 Rumble, rumble, rumble!
 

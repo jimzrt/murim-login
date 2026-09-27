@@ -2,8 +2,8 @@
   "findings": [
     {
       "confidence": 0.98,
-      "current": "Colonel Shao",
-      "defect": "The established rendering of 샤오 is lost: the accepted baseline uses Xiao, while the assembled text uses Shao throughout the references to Shao Shen.",
+      "current": "Colonel Xiao",
+      "defect": "The established rendering of 샤오 is lost: the accepted baseline uses Xiao, while the assembled text uses Shao throughout the references to Xiao Shen.",
       "id": "F01",
       "rationale": "The source name is 샤오, and the accepted baseline establishes Xiao as the English rendering. This is a continuity and proper-name regression.",
       "replacement": "Colonel Xiao",

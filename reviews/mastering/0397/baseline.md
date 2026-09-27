@@ -170,11 +170,11 @@ Thud!
 
 Choi Minwoo drove his sword into the chest of a charging Minotaur and shouted,
 
-“Shao Shen!”
+“Xiao Shen!”
 
 His mana-infused voice pierced through the screams and thunderous crashes and reached one person’s ears.
 
-Shao Shen, covered in wounds and blood as he fought back the endless stream of monsters, shouted in response like a battle cry.
+Xiao Shen, covered in wounds and blood as he fought back the endless stream of monsters, shouted in response like a battle cry.
 
 「Speak!」
 
@@ -196,7 +196,7 @@ Especially in a situation like this, if the Hunters who had been serving as the 
 
 「……!」
 
-Shao Shen squeezed his eyes shut without realizing it.
+Xiao Shen squeezed his eyes shut without realizing it.
 
 He knew the situation. No—he was one of the people who understood it better than anyone.
 
@@ -206,17 +206,17 @@ The battle had turned sharply against them from the very beginning, and the huma
 
 He had thought for a long time, but the moment itself was brief.
 
-Shao Shen opened his eyes and shouted with all his strength while deflecting the attacks raining down on him.
+Xiao Shen opened his eyes and shouted with all his strength while deflecting the attacks raining down on him.
 
 「Retreat! All Public Security Armed Forces Department personnel, withdraw immediately! The North Gate is open!」
 
-During wartime, the command of a commander like Shao Shen was absolute.
+During wartime, the command of a commander like Xiao Shen was absolute.
 
 All the more so when the military leadership, including Senior General Liao, had not even shown their faces.
 
 *Good.*
 
-The soldiers might not have much hope, but the Hunters’ odds of survival would rise dramatically. If Shao Shen made the right calls, a considerable number of them might be able to break through the encirclement and survive.
+The soldiers might not have much hope, but the Hunters’ odds of survival would rise dramatically. If Xiao Shen made the right calls, a considerable number of them might be able to break through the encirclement and survive.
 
 *Yes. This is enough.*
 
@@ -238,7 +238,7 @@ Choi Minwoo suddenly parted his lips.
 
 “Why didn’t you retreat?”
 
-Shao Shen, who should have been heading toward the North Gate, gave him a faint smile.
+Xiao Shen, who should have been heading toward the North Gate, gave him a faint smile.
 
 「What about you, Mr. Choi?」
 
@@ -250,9 +250,9 @@ At the regimental commander’s call, the roughly three hundred Hunters followin
 
 「To eliminate monsters and protect the people from every threat!」
 
-「This is why we do not retreat. The 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment, led by Regimental Commander Shao Shen, have come to protect the people!」
+「This is why we do not retreat. The 325 members of the Sichuan Province Public Security Armed Forces Department’s 1st Regiment, led by Regimental Commander Xiao Shen, have come to protect the people!」
 
-Shao Shen’s quiet voice followed.
+Xiao Shen’s quiet voice followed.
 
 「Now it is your turn to answer, Mr. Choi.」
 
@@ -278,7 +278,7 @@ But still—
 
 “Jin Taekyung is technically my subordinate, you see. This is when a superior should lead by example.”
 
-Choi Minwoo burst into laughter, loudly enough to leave Shao Shen bewildered.
+Choi Minwoo burst into laughter, loudly enough to leave Xiao Shen bewildered.
 
 His heart felt as light as a dandelion seed, and an indescribable power surged through his body as he launched himself toward the enemies.
 

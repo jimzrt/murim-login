@@ -131,7 +131,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
     "The incomplete Liches swore on the River of Death that their account of the Arch Lich's actions was truthful.",
     "The Skeleton Warlord absorbed a massive amount of death energy, grew much stronger, and is kept in Jin Taekyung's Inventory; Jin calls it Bones as a mocking pet name.",
     "Jin Taekyung is Level 121 and has acquired the Undead Hunter Title after completing the Unexpected Attack Quest.",
-    "Team Leader Choi and Shao Shen survived the airport battle and met Jin after the fighting ended.",
+    "Team Leader Choi and Xiao Shen survived the airport battle and met Jin after the fighting ended.",
     "Wei Fenghu is China's Minister of National Defense under the Central Military Commission and a four-star general.",
     "Wei Fenghu is taking Jin Taekyung to an operations headquarters where a jet and unidentified waiting people are present."
   ],
@@ -194,7 +194,7 @@ Use empty arrays when no name, address-pair, or profile change is required.
 | 청성 | **Qingcheng** | Short form for Qingcheng Sect. |
 | 청성산 | **Mount Qingcheng** | Mountain containing the Qingcheng Sect. |
 | 국방부 | **Ministry of National Defense** | Government ministry referenced in Taekyung's comparison about the steady passage of time. |
-| 중화 | **Zhonghua** | Patriotic term used in Shao Shen’s rallying speech. |
+| 중화 | **Zhonghua** | Patriotic term used in Xiao Shen’s rallying speech. |
 
 ## Matched address pairs
 
@@ -655,9 +655,9 @@ The Wyverns had only attacked us in passing while they were raiding Chengdu Inte
 
 Perhaps merely thinking about the current situation exhausted him. Wei Fenghu, who seemed to have aged considerably in a short time, leaned back into the soft seat.
 
-“It seems we must part ways here. We will meet again soon, Senior Colonel Shao Shen.”
+“It seems we must part ways here. We will meet again soon, Senior Colonel Xiao Shen.”
 
-Unlike us, one person had not boarded the aircraft. Shao Shen stood at attention and saluted.
+Unlike us, one person had not boarded the aircraft. Xiao Shen stood at attention and saluted.
 
 “Yes. I will join you after completing my mission as quickly as possible, Comrade Minister of National Defense. And you two gentlemen.”
 
@@ -671,7 +671,7 @@ Team Leader Choi substituted a respectful bow for a farewell, while I waved.
 
 It had only been one sentence.
 
-But the moment Shao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
+But the moment Xiao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
 
 “Th-Thank you! I will devote myself to every task with the utmost loyalty,[^1] so that you never have cause to be disappointed in me, Mr. Jin!”
 
@@ -691,7 +691,7 @@ That seemed like a textbook example of poor judgment.
 
 He had saluted with such force that the edge of his hand had struck his own eyebrow.
 
-I was staring at Shao Shen as he clenched his teeth and endured the pain when the entrance closed, and the business jet carrying us began to take off.
+I was staring at Xiao Shen as he clenched his teeth and endured the pain when the entrance closed, and the business jet carrying us began to take off.
 
 “That guy is, well, how should I put it… His character is pretty unique.”
 
@@ -707,7 +707,7 @@ At my dissatisfied comment, Wei Fenghu let out a quiet laugh.
 
 Come to think of it, for a four-star general reputed to be able to knock birds out of the sky with a single finger, this man seemed unusually interested in his subordinates.
 
-Or maybe Shao Shen was simply that promising.
+Or maybe Xiao Shen was simply that promising.
 
 Ah, but…
 

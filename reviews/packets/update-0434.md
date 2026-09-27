@@ -1024,7 +1024,7 @@ Wait a minute.
 
 The corners of my eyes began to twitch.
 
-*Xiao Yang. Shao Shen. Shao, Shao?*
+*Xiao Yang. Xiao Shen. Xiao, Xiao?*
 
 I had dismissed it because Xiao was a common Chinese surname, like Kim or Park in Korea, but now that I thought about it, their faces looked strangely similar, too.
 

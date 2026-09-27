@@ -170,7 +170,7 @@ A magical wind stormed through the battlefield. Space split apart. The magic con
 
 Everyone in the city watched clearly as the light was devoured by darkness.
 
-A single thought passed through Choi Minwoo’s and Shao Shen’s minds.
+A single thought passed through Choi Minwoo’s and Xiao Shen’s minds.
 
 *This is…*
 

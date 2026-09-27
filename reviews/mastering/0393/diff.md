@@ -1516,11 +1516,11 @@ Korean lines: 267
 
 BASE:
 
-Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Shao Shen spoke in a low voice.
+Team Leader Choi was shaking his head in disbelief at my nonchalant answer when Xiao Shen spoke in a low voice.
 
 SOL:
 
-Team Leader Choi was shaking his head at my nonchalant answer when Shao Shen spoke quietly.
+Team Leader Choi was shaking his head at my nonchalant answer when Xiao Shen spoke quietly.
 
 ## H109 (replace)
 
@@ -1544,11 +1544,11 @@ Korean lines: 273
 
 BASE:
 
-“Shao Shen, did you hear something?”
+“Xiao Shen, did you hear something?”
 
 SOL:
 
-“Shao Shen, have you heard something?”
+“Xiao Shen, have you heard something?”
 
 ## H111 (replace)
 
@@ -1572,11 +1572,11 @@ Korean lines: 277
 
 BASE:
 
-After hesitating for a moment, Shao Shen shook his head with a stern expression.
+After hesitating for a moment, Xiao Shen shook his head with a stern expression.
 
 SOL:
 
-After a moment’s hesitation, Shao Shen shook his head, his expression stiff.
+After a moment’s hesitation, Xiao Shen shook his head, his expression stiff.
 
 ## H113 (replace)
 
@@ -1642,11 +1642,11 @@ Korean lines: 287
 
 BASE:
 
-Team Leader Choi and I were looking at Shao Shen suspiciously when—
+Team Leader Choi and I were looking at Xiao Shen suspiciously when—
 
 SOL:
 
-Team Leader Choi and I were staring at Shao Shen doubtfully when—
+Team Leader Choi and I were staring at Xiao Shen doubtfully when—
 
 ## H118 (replace)
 

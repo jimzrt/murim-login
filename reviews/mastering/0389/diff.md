@@ -906,11 +906,11 @@ Korean lines: 161
 
 BASE:
 
-Of course, Shao Shen stood out above all the rest.
+Of course, Xiao Shen stood out above all the rest.
 
 SOL:
 
-Of course, Shao Shen’s were the most intense of all.
+Of course, Xiao Shen’s were the most intense of all.
 
 ## H050 (replace)
 

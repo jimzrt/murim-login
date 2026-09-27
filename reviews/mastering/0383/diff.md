@@ -332,11 +332,11 @@ Korean lines: 55
 
 BASE:
 
-“It seems we must part ways here. We will meet again soon, Senior Colonel Shao Shen.”
+“It seems we must part ways here. We will meet again soon, Senior Colonel Xiao Shen.”
 
 SOL:
 
-“It seems we must part ways here. I will see you again soon, Senior Colonel Shao Shen.”
+“It seems we must part ways here. I will see you again soon, Senior Colonel Xiao Shen.”
 
 ## H025 (replace)
 
@@ -346,11 +346,11 @@ Korean lines: 57
 
 BASE:
 
-Unlike us, one person had not boarded the aircraft. Shao Shen stood at attention and saluted.
+Unlike us, one person had not boarded the aircraft. Xiao Shen stood at attention and saluted.
 
 SOL:
 
-Unlike us, Shao Shen had not boarded the aircraft. He stood rigidly at attention and saluted.
+Unlike us, Xiao Shen had not boarded the aircraft. He stood rigidly at attention and saluted.
 
 ## H026 (replace)
 
@@ -392,7 +392,7 @@ Perhaps because he had achieved such impressive accomplishments, a pleased smile
 
 SOL:
 
-Perhaps because Shao Shen had distinguished himself in battle, a satisfied smile crossed Wei Fenghu’s face as he regarded the promising young Hunter.
+Perhaps because Xiao Shen had distinguished himself in battle, a satisfied smile crossed Wei Fenghu’s face as he regarded the promising young Hunter.
 
 ## H029 (replace)
 
@@ -430,11 +430,11 @@ Korean lines: 71
 
 BASE:
 
-But the moment Shao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
+But the moment Xiao Shen heard my words, his eyes grew as wide as serving trays. His body trembled as though he had been electrocuted, and then he shouted at the top of his lungs.
 
 SOL:
 
-But the moment Shao Shen heard it, his eyes grew as wide as serving trays. He trembled as though he’d been electrocuted, then shouted at the top of his lungs.
+But the moment Xiao Shen heard it, his eyes grew as wide as serving trays. He trembled as though he’d been electrocuted, then shouted at the top of his lungs.
 
 ## H032 (replace)
 
@@ -542,11 +542,11 @@ Korean lines: 91
 
 BASE:
 
-I was staring at Shao Shen as he clenched his teeth and endured the pain when the entrance closed, and the business jet carrying us began to take off.
+I was staring at Xiao Shen as he clenched his teeth and endured the pain when the entrance closed, and the business jet carrying us began to take off.
 
 SOL:
 
-As I stared dumbfounded at Shao Shen clenching his teeth against the pain, the cabin door closed and our business jet began to take off.
+As I stared dumbfounded at Xiao Shen clenching his teeth against the pain, the cabin door closed and our business jet began to take off.
 
 ## H040 (replace)
 

@@ -183,7 +183,7 @@ The Skeleton Warlord’s mood-killing remark made me open my eyes. The first thi
 
 「H-Hyung.」
 
-Team Leader Choi and Shao Shen stared at me in a daze.
+Team Leader Choi and Xiao Shen stared at me in a daze.
 
 And it wasn’t just those two.
 

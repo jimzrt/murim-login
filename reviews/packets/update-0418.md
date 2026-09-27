@@ -152,7 +152,7 @@ If the person already appears under Listed compact profiles, use `profile_update
     "Lee Jungryong and Wu Heixing have openly betrayed Jin Taekyung and intended to use him as a disposable fighter against the Arch Lich.",
     "Wu Heixing fears the Arch Lich and planned to let Jin die, while Lee Jungryong seeks to prolong the war for personal gain.",
     "Jin Taekyung has begun fighting both Lee Jungryong and Wu Heixing, has wounded Lee, and currently holds Wu by the throat.",
-    "Jin's memories of Lei Fei, the five hundred Public Security Armed Forces Department Hunters, Team Leader Choi, and Shao Shen have strengthened his resolve to risk himself against monsters.",
+    "Jin's memories of Lei Fei, the five hundred Public Security Armed Forces Department Hunters, Team Leader Choi, and Xiao Shen have strengthened his resolve to risk himself against monsters.",
     "The city remains in the process of transforming into one enormous Gate through the Arch Lich's anchored mana.",
     "The Quest One Who Returned from Death remains active, keeping Login unavailable until the Quest ends.",
     "The Skeleton Warlord continues to suffer unexplained dizziness and nausea while urging Jin to turn back."

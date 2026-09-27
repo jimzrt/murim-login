@@ -132,7 +132,7 @@ If the person already appears under Listed compact profiles, use `profile_update
     "The black knight serves an unnamed lord whose commands bind him completely and commands the Death Knights and the wider undead army.",
     "The black knight recognizes the attacked city as connected to memories of a child, light, and an unknown hand, but does not know his own origin.",
     "The Arch Lich's forces have used communications interference and coordinated surprise attacks to overwhelm the human defenses.",
-    "Choi Minwoo and Shao Shen led 325 Hunters in a final stand after ordering other surviving forces to retreat.",
+    "Choi Minwoo and Xiao Shen led 325 Hunters in a final stand after ordering other surviving forces to retreat.",
     "The black knight possesses an infant shoe, feels unexplained emotional and physical pain, and is beginning to resist his usual obedience.",
     "The black knight has two human survivors brought before him as potential servants.",
     "Jin Taekyung has reached the hospital rooftop alive and is confronting the black knight.",
@@ -146,7 +146,7 @@ If the person already appears under Listed compact profiles, use `profile_update
     "What is the black knight's identity and origin, and what is the significance of the child and shoe connected to his memories?",
     "Who is the lord served by the black knight, and what is the Arch Lich's larger objective?",
     "What will happen in Jin Taekyung's confrontation with the black knight?",
-    "Did Choi Minwoo, Shao Shen, and the 325 Hunters survive their final stand?",
+    "Did Choi Minwoo, Xiao Shen, and the 325 Hunters survive their final stand?",
     "What happened to Lei Fei and the Second Fiend assigned to the Qingcheng attack?"
   ],
   "safe_through": 397,
@@ -606,7 +606,7 @@ With that quiet mutter, I reached out.
 
 Seizing an Object Through Empty Space.
 
-Three jiazi of internal energy pulled Team Leader Choi and Shao Shen toward me. The Death Knights and monsters tried to move, but stopped when their leader raised a hand.
+Three jiazi of internal energy pulled Team Leader Choi and Xiao Shen toward me. The Death Knights and monsters tried to move, but stopped when their leader raised a hand.
 
 Ignoring them, I checked the two men’s condition. Their breaths were faint, and their qi was so precarious it seemed ready to vanish at any moment.
 
@@ -702,7 +702,7 @@ That was already enough to provide an answer. I had solved the question, so I co
 
 “You’ve had a rough time too, Shen.”
 
-Shao Shen was not as severely injured as Team Leader Choi, but he had still suffered serious wounds. I was just about to pour the remaining half of the potion into his mouth when—
+Xiao Shen was not as severely injured as Team Leader Choi, but he had still suffered serious wounds. I was just about to pour the remaining half of the potion into his mouth when—
 
 —Wretched human.
 
@@ -734,7 +734,7 @@ A great and radiant soul…
 
 Without even raising my head, I continued pouring in the potion.
 
-After emptying the last few drops into Shao Shen’s mouth, I closed the bottle and put it back in my Inventory.
+After emptying the last few drops into Xiao Shen’s mouth, I closed the bottle and put it back in my Inventory.
 
 Hissssss, hissssss.
 
@@ -746,7 +746,7 @@ I straightened up at the welcome sound I had been waiting for. Looking at the De
 
 —Hm?
 
-“Team Leader Choi’s left leg. It was empty from a handspan below the knee. Completely clean. Shao Shen—the young one’s was his right arm.”
+“Team Leader Choi’s left leg. It was empty from a handspan below the knee. Completely clean. Xiao Shen—the young one’s was his right arm.”
 
 —Human. What are you trying to say?
 
@@ -808,7 +808,7 @@ At least that soldier’s corpse was still intact.
 
 In what appeared to have been the fiercest battlefield, people who seemed to be Hunters from the Public Security Armed Forces Department lay dead in mangled conditions.
 
-I had spent a full week with the 1st Regiment led by Shao Shen. Among the corpses were many familiar faces.
+I had spent a full week with the 1st Regiment led by Xiao Shen. Among the corpses were many familiar faces.
 
 *So many people died. So many.*
 
