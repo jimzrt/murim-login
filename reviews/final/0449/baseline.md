@@ -26,7 +26,7 @@ The Hwang Chung he knew, the Yangtze One Saber, was thorough and cautious in eve
 
 Donghu Stronghold was a natural fortress built on the Yangtze.
 
-If unauthorized intruders crossed Tianling Falls, they would soon see a gorge several hundred zhang[^1] long, along with countless arrowheads waiting to greet them from above.
+If unauthorized intruders crossed Tianling Falls, they would soon see a gorge several hundred zhang long, along with countless arrowheads waiting to greet them from above.
 
 But…
 
@@ -100,7 +100,7 @@ Ignoring the sighs that escaped at the name Little Tide Demon, Jin Taekyung star
 
 Jin Taekyung’s expression hardened. So did the faces of everyone who understood what this meant.
 
-The death of even an ordinary river bandit would have been ominous enough. But this was the Deputy Stronghold Lord of Donghu Stronghold, a Supreme Peak master of the Yangtze River Channel League whose name was renowned throughout Hubei Murim.[^2]
+The death of even an ordinary river bandit would have been ominous enough. But this was the Deputy Stronghold Lord of Donghu Stronghold, a Supreme Peak master of the Yangtze River Channel League whose name was renowned throughout Hubei Murim.
 
 What this sequence of events meant was obvious.
 
@@ -212,31 +212,31 @@ Not to mourn Hwang Chung’s death, but because even in death, the Yangtze One S
 
 Jeok Cheongang was the only one among us who had known him, but grief was not the reason his expression had hardened, either.
 
-“What do you think?”
+—What do you think?
 
 The sudden Sound Transmission slipped into my ear. I slowed my steps and answered.
 
-“The same as you, Old Master.”
+—The same as you, Old Master.
 
-“You know what this old man is thinking?”
+—You know what this old man is thinking?
 
-“You’re thinking the same thing I am.”
+—You’re thinking the same thing I am.
 
-“I feel an urge to use the Flame Divine Palm.”
+—I feel an urge to use the Flame Divine Palm.
 
-“I’ve needed to piss for a while, too, but I’ve been holding it in. You should hold it in as well, Old Master. I’m still organizing my thoughts.”
+—I’ve needed to piss for a while, too, but I’ve been holding it in. You should hold it in as well, Old Master. I’m still organizing my thoughts.
 
 I calmly laid out what I had been considering over the past half a day.
 
-“Donghu Stronghold is a natural fortress that can only be reached by crossing Tianling Falls. I don’t know every detail of the situation here, but no ordinary force could dream of defeating the Supreme Peak master Hwang Chung and the river bandits under his command.”
+—Donghu Stronghold is a natural fortress that can only be reached by crossing Tianling Falls. I don’t know every detail of the situation here, but no ordinary force could dream of defeating the Supreme Peak master Hwang Chung and the river bandits under his command.
 
-“Even a mongrel has the advantage in its own yard. To face men who have spent their entire lives on the Yangtze, you would need overwhelming strength.”
+—Even a mongrel has the advantage in its own yard. To face men who have spent their entire lives on the Yangtze, you would need overwhelming strength.
 
 Jeok Cheongang’s Sound Transmission continued.
 
-“The Yangtze One Saber in particular is a veritable water ghost. During the Great Faction War, he won overwhelming victories against the Demonic Cult in every battle fought on water. To wipe out Donghu Stronghold, the attackers would have needed at least twice its strength.”
+—The Yangtze One Saber in particular is a veritable water ghost. During the Great Faction War, he won overwhelming victories against the Demonic Cult in every battle fought on water. To wipe out Donghu Stronghold, the attackers would have needed at least twice its strength.
 
-*Twice the strength of Donghu Stronghold…*
+Twice the strength of Donghu Stronghold…
 
 I had only realized it after coming here, but Donghu Stronghold was on a scale utterly incomparable to the other water strongholds.
 
@@ -248,55 +248,55 @@ One look around was enough to understand why.
 
 Everything had been shattered and destroyed, but this one water stronghold had once maintained a fleet of some fifty ships and built a settlement filled with houses that would not have looked out of place in a bustling city.
 
-It might not have compared to prestigious great factions such as the Nine Sects and One Gang[^3] or the Five Great Families,[^4] but the river bandits under the Yangtze One Saber must have been formidable elites in their own right.
+It might not have compared to prestigious great factions such as the Nine Sects and One Gang or the Five Great Families, but the river bandits under the Yangtze One Saber must have been formidable elites in their own right.
 
 And very few groups could deploy twice that much force against Donghu Stronghold.
 
 No—only a handful.
 
-“If we’re talking about places capable of mobilizing that many men and ships…”
+—If we’re talking about places capable of mobilizing that many men and ships…
 
-“As far as this old man knows, there are only four in Hubei Province. One of them is already as good as gone.”
+—As far as this old man knows, there are only four in Hubei Province. One of them is already as good as gone.
 
-“Wudang, the Zhuge Clan, the government, and the Sea Serpent Society. Correct?”
+—Wudang, the Zhuge Clan, the government, and the Sea Serpent Society. Correct?
 
-“Correct. But most of the Sea Serpent Society are fishermen and boatmen who banded together for their livelihoods, so they have far too few masters. Wudang and the Zhuge Clan have the strength, but neither has any reason or justification to attack Donghu Stronghold.”
+—Correct. But most of the Sea Serpent Society are fishermen and boatmen who banded together for their livelihoods, so they have far too few masters. Wudang and the Zhuge Clan have the strength, but neither has any reason or justification to attack Donghu Stronghold.
 
-“The government is the same.”
+—The government is the same.
 
-“Of course. Even a child knows that Murim[^2] and the authorities maintain a relationship of mutual noninterference. Even if the Son of Heaven[^5] had issued an imperial edict to subjugate the stronghold, it could never have been carried out this secretly, hidden from the eyes of the entire realm.”
+—Of course. Even a child knows that Murim and the authorities maintain a relationship of mutual noninterference. Even if the Son of Heaven had issued an imperial edict to subjugate the stronghold, it could never have been carried out this secretly, hidden from the eyes of the entire realm.
 
-Murim[^2] was a tree rooted deep within the forest of the world.
+Murim was a tree rooted deep within the forest of the world.
 
 It had grown too tall to prune, and anyone who tried to chop it down carelessly risked damaging the blade of their own ax instead.
 
-That was one of the reasons Murim[^2] had endured even though the owner of the forest had changed many times.
+That was one of the reasons Murim had endured even though the owner of the forest had changed many times.
 
-A towering tree that even the Son of Heaven,[^5] the woodcutter, could not easily raise his ax against.
+A towering tree that even the Son of Heaven, the woodcutter, could not easily raise his ax against.
 
-That was Murim.[^2] The countless branches and leaves that had sprung from this great tree had grown by joining forces—and, at times, by breaking one another.
+That was Murim. The countless branches and leaves that had sprung from this great tree had grown by joining forces—and, at times, by breaking one another.
 
 The Yangtze River Channel League was one of the thicker branches.
 
-If all the water strongholds scattered across the realm were gathered in one place, they would be a major force in their own right, and the number of masters among them would not fall far behind the Nine Sects and One Gang[^3] or the Five Great Families.[^4]
+If all the water strongholds scattered across the realm were gathered in one place, they would be a major force in their own right, and the number of masters among them would not fall far behind the Nine Sects and One Gang or the Five Great Families.
 
 And now that very branch of the Yangtze River Channel League had been broken.
 
 By someone whose identity remained unknown.
 
-“Do you think the culprit is one of those four? Wudang, the Zhuge Clan, the authorities, or the Sea Serpent Society?”
+—Do you think the culprit is one of those four? Wudang, the Zhuge Clan, the authorities, or the Sea Serpent Society?
 
-“This waterway sees hundreds of ships pass through every day. Mobilizing enough force to cross Tianling Falls while avoiding all those eyes would be… extremely difficult.”
+—This waterway sees hundreds of ships pass through every day. Mobilizing enough force to cross Tianling Falls while avoiding all those eyes would be… extremely difficult.
 
-“It might have been extremely easy.”
+—It might have been extremely easy.
 
 I finally let out the words that had been hovering on the tip of my tongue.
 
-“If it was Dark Heaven.”
+—If it was Dark Heaven.
 
-“…!”
+—…!
 
-“They had no need to load hundreds or thousands of men onto ships and cross Tianling Falls. If a warp—no, if the formation they call a Moving Formation is hidden somewhere around here, that would explain everything.”
+—They had no need to load hundreds or thousands of men onto ships and cross Tianling Falls. If a warp—no, if the formation they call a Moving Formation is hidden somewhere around here, that would explain everything.
 
 Dark Heaven had already proved it could be done in Shaolin and Sichuan.
 
@@ -304,20 +304,14 @@ If my guess was correct, it would also fully explain how they had gone unnoticed
 
 Jeok Cheongang remained silent for a while before letting out a low groan.
 
-“So this old man isn’t the only one who thinks so.”
+—So this old man isn’t the only one who thinks so.
 
-“In a situation like this, we can’t rule out Dark Heaven. It stinks too damn much.”
+—In a situation like this, we can’t rule out Dark Heaven. It stinks too damn much.
 
-“But why the Yangtze River Channel League?”
+—But why the Yangtze River Channel League?
 
-“I don’t know.”
+—I don’t know.
 
 I continued as I watched the familiar faces slowly approaching from the distance.
 
-“That’s what we need to find out now.”
-
-[^1]: A zhang is a traditional Chinese unit of length equal to about 3.03 meters (9.94 ft).
-[^2]: Murim is the world of martial artists and their factions, distinct from ordinary society and government.
-[^3]: The Nine Sects and One Gang is a grouping of major martial-arts organizations.
-[^4]: The Five Great Families is a grouping of prominent martial-arts clans.
-[^5]: Son of Heaven is a traditional title for the Emperor.
+—That’s what we need to find out now.
