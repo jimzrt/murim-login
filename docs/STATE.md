@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 1024
-- Next chapter: 1025
-- Current block: 1020–1024 (5/5)
-- Latest translation: `translations/1024.md`
-- Latest summary: `summaries/beats/1024.md`
-- Safe profiles through: chapter 1024
+- Last completed: 1025
+- Next chapter: 1026
+- Current block: 1025–1029 (1/5)
+- Latest translation: `translations/1025.md`
+- Latest summary: `summaries/beats/1025.md`
+- Safe profiles through: chapter 1025
 
 ## Current Block
 
-- The Blood-Sword Demon Lord overpowers one of the Three Elders of Tianshan and reveals his contempt for the former Heavenly Demon, whom he once followed. He now serves the Lord of Heaven and is certain the hidden strength in his army will defeat the Fire King. He orders a messenger sent to the Great Snow Mountain, while privately anticipating a meeting with Jin Taekyung, whom he has been ordered not to kill.
-- At the Great Snow Mountain, the scouting party’s hundred members return dead, each killed with a single, identical sword strike. Jin Taekyung and Jeok Cheongang face an approaching army of tens of thousands as the defenders prepare for battle. A group carrying a white banner approaches through the enemy forces; its purpose is not yet known.
+- A white-bannered group of about a dozen reaches the foot of the Great Snow Mountain, led by the Three Elders of Tianshan. Jin Taekyung throws a spear at them, killing their black horse, then trades insults with the elders alongside Jeok Cheongang to provoke Dark Heaven and raise the defenders’ morale. The elders say a new Demon Lord wants to meet the defenders and promises their safety if they accept an offer; they produce dozens of severed heads, including the Kongtong Sword Dragon and other Kongtong leaders, and reveal that another thousand captives remain in their hands. They offer to return some captives if the defenders accept. The Kongtong Sect Leader appears to have escaped. Taekyung’s answer is effectively decided, but he has not yet stated it.
+- The Three Elders of Tianshan served the Demonic Cult during the Great Faction War and now act as messengers for Dark Heaven. Taekyung wonders whether the new Demon Lord might be the Blood Lord, but this is speculation, not confirmed identity.
 
 ## Open Questions
 
-- What is the hidden strength accompanying the Blood-Sword Demon Lord, and can it overcome the Fire King and the Great Snow Mountain’s defenders?
-- Why has the Lord of Heaven taken an interest in Jin Taekyung, and what is the purpose of the order not to kill him?
+- Who is the new Demon Lord, and what does the offer require?
+- Will the defenders accept the offer, and what will happen to the thousand captives?
+- Where is the escaped Kongtong Sect Leader?
 - Who killed the Great Snow Mountain scouts, and what is the origin of the sword technique?
-- Who is approaching under the white banner, and what do they want?
 - Who sent Sama Pyo the secret letter, what did it say, and are Sima Gong’s orders involving Pyo and Taishan connected to Dark Heaven?
 
 ## Exceptional Decision
