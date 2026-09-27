@@ -2481,3 +2481,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 구양천 | **Goyangcheon** | Last survivor of the Goyang Family; former Spear King. |
 | 구양세가 | **Goyang Family** | Family once said to rival the Five Great Families. |
 | 데스 나이트 | **Death Knight** | Taekyung identifies the otherworldly riders as Death Knights. |
+| 흑귀 | **Black Ghost** | The Blood-Sword Demon Lord’s name for the Death Knights. |

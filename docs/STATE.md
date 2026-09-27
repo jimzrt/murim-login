@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1030
-- Next chapter: 1031
-- Current block: 1030–1034 (1/5)
-- Latest translation: `translations/1030.md`
-- Latest summary: `summaries/beats/1030.md`
-- Safe profiles through: chapter 1030
+- Last completed: 1031
+- Next chapter: 1032
+- Current block: 1030–1034 (2/5)
+- Latest translation: `translations/1031.md`
+- Latest summary: `summaries/beats/1031.md`
+- Safe profiles through: chapter 1031
 
 ## Current Block
 
-- Jin Taekyung recognizes seven powerful Death Knights approaching with the enemy army, and realizes the Blood-Sword Demon Lord used the Three Elders of Tianshan as bait to draw his forces out. As the army closes in, Taekyung, Jeok Cheongang, and Sama Pyo prepare to face it; Taekyung tells Sama Pyo not to let the world’s label of “unorthodox” define him.
+- Jin Taekyung and Jeok Cheongang struggle against seven soulless Death Knights, whom the Blood-Sword Demon Lord calls Black Ghosts. Sama Pyo joins the fight and helps create openings, but the Black Ghosts prove difficult to stop. The Zhongnan disciples and Sima Gong’s Gansu martial artists arrive as the opposing armies meet on the snowy plain and begin their battle.
 
 ## Open Questions
 

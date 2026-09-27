@@ -1,0 +1,116 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "I set down the spear still in my hand and planted my foot on the ground. In the same instant, I shot forward.",
+      "defect": "일노 is the First Elder, not a spear.",
+      "id": "F01",
+      "rationale": "The object Taekyung lowers is the person he has been holding.",
+      "replacement": "I lowered the First Elder, still in my grip, and planted my foot on the ground. In the same instant, I shot forward.",
+      "severity": "critical",
+      "source": "아직도 손에 붙잡혀 있던 일노를 내려놓는 동시에 지면을 밟았다. 동시에 쏘아졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The heat rolling off someone swept past me and erased the wind in my wake without a trace.",
+      "defect": "The draft makes the heat sweep past Taekyung; the source says the wind brushes past him before vanishing in the heat.",
+      "id": "F02",
+      "rationale": "바람 is the subject of both 스쳐 간 and 사라졌다.",
+      "replacement": "The wind brushed past me, then vanished without a trace in the heat radiating from someone nearby.",
+      "severity": "major",
+      "source": "나를 스쳐 간 바람은 이내 누군가로부터 흘러나온 열기에 흔적도 없이 사라졌다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Even with Jeok Cheongang at my side, we could barely withstand them.",
+      "defect": "Barely withstanding them weakens the stated inability to withstand their power.",
+      "id": "F03",
+      "rationale": "감당할 수 없을 만큼 explicitly says their power is beyond what Taekyung can handle even with Jeok.",
+      "replacement": "Their power was too much to withstand, even with Jeok Cheongang at my side.",
+      "severity": "major",
+      "source": "적천강과 함께임에도 그 위력을 감당할 수 없을 만큼."
+    },
+    {
+      "confidence": 0.94,
+      "current": "His eyes shining with excitement as he looked forward to the slaughter about to unfold.",
+      "defect": "The draft drops the source’s explicit image of piled corpses and blood.",
+      "id": "F04",
+      "rationale": "시산혈해 supplies a concrete image beyond the general word “slaughter.”",
+      "replacement": "His eyes shining with excitement at the sea of corpses and blood about to unfold.",
+      "severity": "minor",
+      "source": "곧 벌어질 시산혈해(屍山血海)의 참극을 기대하며 흥분에 가득 차 있을 놈의 눈빛이."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The internal energy of nearly four jiazi and a body far beyond human limits let me repel the Black Ghosts’ combined attack, strengthened at the cost of their souls, if only for a moment.",
+      "defect": "“Nearly” changes the stated quantity to less than four jiazi.",
+      "id": "F05",
+      "rationale": "무려 사 갑자에 달하는 emphasizes that his internal energy amounts to four jiazi.",
+      "replacement": "As much as four jiazi of internal energy and a body far beyond human limits let me repel the Black Ghosts’ combined attack, strengthened at the cost of their souls, if only for a moment.",
+      "severity": "critical",
+      "source": "무려 사 갑자에 달하는 공력"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The men blocked all three lightning-fast attacks without difficulty. Then a palm wreathed in brilliant white flames awaited them.",
+      "defect": "The draft omits that the waiting palm strike is Jeok Cheongang’s.",
+      "id": "F06",
+      "rationale": "적천강의 일장 identifies the attacker and the coordinated follow-up.",
+      "replacement": "The men blocked all three lightning-fast attacks without difficulty. Waiting for them was Jeok Cheongang’s palm strike, wreathed in brilliant white flames.",
+      "severity": "major",
+      "source": "그리고 벼락과도 같은 세 번의 공격을 어렵지 않게 막아 낸 놈들을 기다리고 있던 것은, 새하얀 광염에 휩싸인 적천강의 일장이었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Before the Black Ghost, who should have been dead with his whole body scorched black, could straighten himself with a strange groan—",
+      "defect": "“Before ... could” makes Jeok retract his claim before the Black Ghost straightens up; the source makes the Ghost’s recovery interrupt Jeok’s attempted grin and claim.",
+      "id": "F07",
+      "rationale": "기이한 신음과 함께 신형을 바로잡기 전까지는 makes the groan and recovery the event that ends Jeok’s confidence.",
+      "replacement": "But then the Black Ghost, who should have died with his whole body scorched black, let out a strange groan and straightened up.",
+      "severity": "critical",
+      "source": "아니, 정확히는 그러려고 했다.\n\n“좋아. 이제 한 놈…….”\n\n- 그으으.\n\n분명 전신이 검게 그을린 채 절명했어야 할 흑귀가, 기이한 신음과 함께 신형을 바로잡기 전까지는."
+    },
+    {
+      "confidence": 0.94,
+      "current": "A greatsword swung by one of the Black Ghosts knocked away a dozen or so throwing knives.",
+      "defect": "대도 denotes a large saber, not a greatsword.",
+      "id": "F08",
+      "rationale": "The weapon type changes in the draft.",
+      "replacement": "A large saber swung by one of the Black Ghosts knocked away a dozen or so throwing knives.",
+      "severity": "minor",
+      "source": "흑귀 중 하나가 휘두른 대도에 십여 개의 비수가 튕겨 나가는 광경에"
+    },
+    {
+      "confidence": 0.95,
+      "current": "The astonishing power shook the ground for dozens of yards in every direction.",
+      "defect": "Dozens of yards understates a radius of dozens of jang.",
+      "id": "F09",
+      "rationale": "A jang is roughly ten feet; 수십여 장 describes a substantially larger radius.",
+      "replacement": "Its earth-shaking power reached hundreds of feet in every direction.",
+      "severity": "major",
+      "source": "그리고 반경 수십여 장을 떨어 울리는 그 경천동지(驚天動地)할 위력은"
+    },
+    {
+      "confidence": 0.96,
+      "current": "At last, on this vast snowy plain, we faced the rulers from beyond the desert.",
+      "defect": "The draft changes the subject from Sima Gong looking at the rulers to the group facing them.",
+      "id": "F10",
+      "rationale": "사막 너머의 지배자들을 completes the object of Sima Gong’s 응시했다.",
+      "replacement": "He looked straight at the rulers from beyond the desert, whom we had finally met on this vast snowy plain.",
+      "severity": "major",
+      "source": "하지만 뭐라 말하려는 듯이 입술을 달싹였던 그는 끝끝내 아무 말 없이 입을 다물었고, 이내 정면을 응시했다.\n\n마침내 이 드넓은 설원(雪原)에서 맞닥트린, 사막 너머의 지배자들을."
+    },
+    {
+      "confidence": 0.99,
+      "current": "The gray-white Sword God trembled—an ill-fitting title for the man, yet one of the greatest fiends among the many who had left a trail of carnage in the Great Faction War.\n\nHe vomited out dark-red Force, linking and joining it without pause, and leveled it at the men in his way—men with no time left to turn back, who had no choice but to press forward with all their strength.",
+      "defect": "검신 here is the sword blade, not the title Sword God. The draft then makes the man, rather than the blade, emit Force and be leveled forward.",
+      "id": "F11",
+      "rationale": "회백색 검신 describes the physical sword blade; the following sentence continues its action.",
+      "replacement": "The gray-white blade trembled. Its color hardly suited the Blood-Sword Demon Lord’s title, though it had reaped carnage that ranked among the worst of the Great Faction War.\n\nDark-red Force surged from the blade, linking and binding together without pause as he leveled it at the men in his way—men who could no longer turn back and had no choice but to press forward with all their strength.",
+      "severity": "critical",
+      "source": "별호와는 어울리지 않는, 그러나 정마대전을 장식한 무수한 마두 중에서도 손꼽히는 혈겁(血劫)을 쌓았던 회백색 검신이 몸을 떨었다.\n\n검붉은 강기를 울컥울컥 쏟아내며, 끊임없이 잇고 결합시키며 정면을 향해 겨누어졌다."
+    }
+  ],
+  "summary": "Action, quantity, and subject errors, including a person rendered as a spear and a sword blade rendered as a title.",
+  "version": 1
+}
