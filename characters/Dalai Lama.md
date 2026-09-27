@@ -1,6 +1,6 @@
 # Dalai Lama (달뢰라마)
 
-- **Safe through:** Chapter 1112
+- **Safe through:** Chapter 1114
 - **Aliases:** Palace Lord
 - **Role:** The former Dalai Lama led the Potala Palace and its Twelve Secret Monks until Jeok Cheongang killed him at the North Gate.
 - **Personality:** Driven by the Potala Palace’s inherited vendetta against the Fire Gate Clan, he pursued greater power and an alliance with Dark Heaven despite the contradiction between his cause and his use of demonic power.

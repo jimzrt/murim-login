@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Jeok Cheongang’s eyes narrowed as the man appeared—someone he hadn’t expected to see yet, or perhaps had thought he might never see again.",
+      "defect": "The draft assigns the reaction and expectations to Jeok Cheongang instead of the Blood Lord.",
+      "id": "F01",
+      "rationale": "혈주의 눈매 identifies the Blood Lord as the one whose eyes narrow.",
+      "replacement": "The Blood Lord’s eyes narrowed at the sight of Jeok Cheongang. He hadn’t expected the man to appear yet—and had thought he might never see him again.",
+      "severity": "critical",
+      "source": "아직은 나타나지 못할 것이라 여겼던, 혹은 어쩌면 영영 두 번 다시 보지 못하리라 생각했던 그의 모습에 혈주의 눈매가 가늘어졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The Dalai Lama, the greatest master in Tibet, and the Twelve Secret Monks, including two who had reached Supreme Peak despite still being young.",
+      "defect": "“Still being young” turns the dismissive 애송이 into an assertion about age; the active regional rendering is Xizang.",
+      "id": "F02",
+      "rationale": "애송이 marks the two as unseasoned despite their skill, while the supplied continuity specifies Xizang for the Murim region.",
+      "replacement": "The Dalai Lama, the greatest master in Xizang, and the Twelve Secret Monks, who included two Supreme Peak masters—even if they were still greenhorns.",
+      "severity": "major",
+      "source": "서장 제일의 고수인 달뢰라마와, 비록 애송이에 불과하지만 초절정 고수가 둘이나 포함되어 있던 십이밀승."
+    },
+    {
+      "confidence": 0.94,
+      "current": "The best he could do was cross both arms, pouring all his strength into the Force.",
+      "defect": "The draft relocates the Force from Jeok’s arms to an abstract thing he pours strength into.",
+      "id": "F03",
+      "rationale": "강기가 담긴 두 팔 describes the two arms containing Force as he crosses them.",
+      "replacement": "The best he could do was cross his Force-clad arms with all the strength he had.",
+      "severity": "major",
+      "source": "그저 온 힘을 다해 강기가 담긴 두 팔을 교차시키는 것만이, 그가 할 수 있는 최선이었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You’ve done well. We’ll take it from here.”",
+      "defect": "“You’ve done well” sounds like a superior assessing a subordinate, reversing the old Daoist’s courtesy toward Jeok.",
+      "id": "F04",
+      "rationale": "고생하셨습니다 is a respectful acknowledgment of Jeok’s efforts, not a superior’s appraisal.",
+      "replacement": "“Thank you for all you’ve done. We’ll take it from here.”",
+      "severity": "major",
+      "source": "“고생하셨습니다. 지금부터 이곳은 저희가 맡지요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Please forgive the discourtesy of this farjunior.”",
+      "defect": "“Farjunior” is not natural English and obscures the speaker’s deferential reference to himself.",
+      "id": "F05",
+      "rationale": "까마득한 후배 emphasizes how far below Jeok the speaker stands in seniority.",
+      "replacement": "“Please forgive the impertinence of someone so far your junior.”",
+      "severity": "minor",
+      "source": "“부디, 이 까마득한 후배의 무례를 용서하시길.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Their fierce aura was hard to believe in men whose power was said to have stopped just short of the peak. It was so rough, it seemed to mock the immortal meaning of their title.",
+      "defect": "“Just short of the peak” places them below Peak, whereas the source places them at Peak’s upper limit.",
+      "id": "F06",
+      "rationale": "절정의 끝자락 is the far end of the Peak realm, not a point below it.",
+      "replacement": "Their fierce aura was hard to believe in men whose skill was said to have stopped at the very edge of Peak. It was so rough, it made the immortal meaning of their title seem absurd.",
+      "severity": "major",
+      "source": "절정의 끝자락에서 멈췄다고 알려진 무위가 믿어지지 않을 정도의, 동시에 신선이라는 뜻이 담긴 별호가 무색해질 정도의 거친 기세가."
+    },
+    {
+      "confidence": 0.98,
+      "current": "No. It was a sermon, exactly eight characters long.\n\n“Above heaven and below heaven, all demons bow.”",
+      "defect": "The draft makes the creed spoken dialogue and omits its separate explanation that everything, not only demons, must kneel.",
+      "id": "F07",
+      "rationale": "The source presents the eight-character creed followed by an explanatory line; neither is quoted as dialogue. 모든 것이 explicitly extends the command to everything.",
+      "replacement": "No. It was a creed of exactly eight characters.\n\nAbove heaven and below heaven, ten thousand demons bow in homage.\n\nAbove heaven and below heaven, let all things kneel.",
+      "severity": "critical",
+      "source": "아니, 그건 정확히 여덟 글자의 교언(敎言)이었다.\n\n천상천하 만마앙복.\n\n하늘 위, 하늘 아래. 모든 것이 무릎 꿇을지어다."
+    }
+  ],
+  "summary": "The draft reverses a viewpoint action and alters the closing creed. It also loses several distinctions in hierarchy, characterization, and martial power.",
+  "version": 1
+}

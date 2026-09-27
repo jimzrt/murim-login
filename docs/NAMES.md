@@ -2533,3 +2533,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 일당백 | **One Against a Hundred** | System Title; distinct from 일기당천, “One Against a Thousand.” |
 | 적도 | **Red Blade** | Named blade that shatters in Taekyung’s flames. |
 | 창도 | **Chamdo** | Town named as the site of Songhak’s inn stay. |
+| 곤륜오선 | **Kunlun Five Immortals** | Collective name for five senior Kunlun elders. |
+| 태청진인 | **Taecheong Jin-in** | Leader of the Kunlun Five Immortals; rendered “Perfected One Taecheong” in address. |

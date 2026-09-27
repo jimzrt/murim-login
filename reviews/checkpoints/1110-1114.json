@@ -1,0 +1,106 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "Roughly three hundred surviving Embroidered Uniform Guards charged the Blood Lord; their fate after the blood-red flash is unknown.",
+      "defect": "The summary calls their fate unknown, but Chapter 1110 describes the flash as their final moment and says they fell.",
+      "id": "C01",
+      "rationale": "Keeps the summary consistent with the reading copy.",
+      "replacement": "Roughly three hundred surviving Embroidered Uniform Guards charged the Blood Lord and fell in the blood-red flash.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Their fierce aura was hard to believe in men whose skill was said to have stopped at the very edge of Peak.",
+      "defect": "The preceding description says each immortal stopped just short of Supreme Peak, not Peak.",
+      "id": "C02",
+      "rationale": "Preserves the established level of their martial arts.",
+      "replacement": "Their fierce aura was hard to believe in men whose skill was said to have stopped just short of Supreme Peak.",
+      "severity": "minor",
+      "source": "Chapter 1114, Kunlun Five Immortals’ strength"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The middle-aged monk whose neck he had just snapped in his grasp was the last surviving member of the Twelve Secret Monks, known as the greatest in Tibet.",
+      "defect": "Uses Tibet for the Murim region despite the checkpoint’s Xizang decision.",
+      "id": "C03",
+      "rationale": "Reserves Tibet for Taekyung’s modern-world identification.",
+      "replacement": "The middle-aged monk whose neck he had just snapped in his grasp was the last surviving member of the Twelve Secret Monks, known as the greatest in Xizang.",
+      "severity": "minor",
+      "source": "Chapter 1111, Twelve Secret Monks"
+    },
+    {
+      "confidence": 0.97,
+      "current": "It had all begun more than two hundred years ago, on the day a wild-haired stranger in blood-red rags set foot in Tibet.",
+      "defect": "Uses Tibet for the Murim region.",
+      "id": "C04",
+      "rationale": "Follows the checkpoint’s regional terminology decision.",
+      "replacement": "It had all begun more than two hundred years ago, on the day a wild-haired stranger in blood-red rags set foot in Xizang.",
+      "severity": "minor",
+      "source": "Chapter 1112, Songhak’s arrival"
+    },
+    {
+      "confidence": 0.97,
+      "current": "They had considered themselves powerful enough in Tibet to rival the Demonic Cult, and had never imagined some clueless foreigner would have the nerve to defy them.",
+      "defect": "Uses Tibet for the Murim region.",
+      "id": "C05",
+      "rationale": "Follows the checkpoint’s regional terminology decision.",
+      "replacement": "They had considered themselves powerful enough in Xizang to rival the Demonic Cult, and had never imagined some clueless foreigner would have the nerve to defy them.",
+      "severity": "minor",
+      "source": "Chapter 1112, Potala Palace history"
+    },
+    {
+      "confidence": 0.97,
+      "current": "Among them were the Dalai Lama of that era, acknowledged by all as Tibet’s greatest master, and four of the Twelve Secret Monks, who served closely at his side.",
+      "defect": "Uses Tibet for the Murim region.",
+      "id": "C06",
+      "rationale": "Follows the checkpoint’s regional terminology decision.",
+      "replacement": "Among them were the Dalai Lama of that era, acknowledged by all as Xizang’s greatest master, and four of the Twelve Secret Monks, who served closely at his side.",
+      "severity": "minor",
+      "source": "Chapter 1112, former Dalai Lama"
+    },
+    {
+      "confidence": 0.97,
+      "current": "After etching an indelible humiliation into the Potala Palace, he melted through the net over heaven and earth laid by Tibet’s Murim and headed straight for the Central Plains.",
+      "defect": "Uses Tibet for the Murim region.",
+      "id": "C07",
+      "rationale": "Follows the checkpoint’s regional terminology decision.",
+      "replacement": "After etching an indelible humiliation into the Potala Palace, he melted through the net over heaven and earth laid by Xizang’s Murim and headed straight for the Central Plains.",
+      "severity": "minor",
+      "source": "Chapter 1112, pursuit of Songhak"
+    },
+    {
+      "confidence": 0.93,
+      "current": "All the men and horses of Tibet were enraged and pursued me.",
+      "defect": "Uses Tibet for the Murim region.",
+      "id": "C08",
+      "rationale": "Keeps the quoted account consistent with the established regional name.",
+      "replacement": "All the men and horses of Xizang were enraged and pursued me.",
+      "severity": "minor",
+      "source": "Chapter 1112, Songhak’s written account"
+    },
+    {
+      "confidence": 0.95,
+      "current": "They had no rivals in all of Tibetan Murim, and quietly resolved to take revenge.",
+      "defect": "Uses a Tibet-derived adjective for the Murim region.",
+      "id": "C09",
+      "rationale": "Uses the established name without an awkward invented adjective.",
+      "replacement": "They had no rivals anywhere in Xizang’s Murim, and quietly resolved to take revenge.",
+      "severity": "minor",
+      "source": "Chapter 1112, Potala Palace’s strength"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Go on ahead, fiend of Tibet. This old man still has something to protect.",
+      "defect": "Uses Tibet for the Murim region.",
+      "id": "C10",
+      "rationale": "Follows the checkpoint’s regional terminology decision.",
+      "replacement": "Go on ahead, fiend of Xizang. This old man still has something to protect.",
+      "severity": "minor",
+      "source": "Chapter 1112, Jeok Cheongang’s final words"
+    }
+  ],
+  "summary": "Two continuity contradictions and a recurring Tibet/Xizang terminology drift are actionable.",
+  "version": 1
+}

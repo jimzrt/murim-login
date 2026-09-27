@@ -1,0 +1,111 @@
+{
+  "chapter": 1114,
+  "files": {
+    "characters/Blood Lord.md": "7fa4722d25a62cae957c982874e4e29774da0293d28cac858bd16b9d922085ff",
+    "characters/Cheongheoja.md": "88e174c8ce2f95ab1a1421741f45cb9776fabba516851e221056e06a876c7ecb",
+    "characters/Dalai Lama.md": "3f4aa0874f05c9f5ae7870cfd0ed264b4a0d847a2a4b75337b195e05886e2069",
+    "characters/Divine Physician.md": "69b29608f0a5856dc2753a4fc67c254eeb528a595a3011081698e43ead32098e",
+    "characters/Jeok Cheongang.md": "8eac9259253e4dd050a4f726ecf8007c2bf8b1e875294a9d2b7307a8a55ac332",
+    "characters/Jin Taekyung.md": "eeb43652fd8965d72fb53fb2612255f017c6103bc0b2b62077e246c9758fbc51",
+    "characters/Jintae.md": "c146762021f297c40ce5a6529103e497d63fc13e26f4d349be555d68336e6115",
+    "characters/Taecheong Jin-in.md": "ecb3ef0044c958dd9ff67838b87ed14149f26a66ebe447ad76cdfa915865fb2c",
+    "docs/ADDRESS.md": "078c6bfad0a7e7d39db946de4e851489f9d1f936c87c625ec731e60a68fb0f72",
+    "docs/CONTEXT.json": "15c75bec4b67204efd413e121891bce25468e92d84f104c1e172cf960a06dae1",
+    "docs/NAMES.md": "31812534175ab90a1ae43243464f560a3462689ef66803e5cfefef29a922b435",
+    "docs/STATE.md": "1f85941621b4c34f6a2869a0c40700b5c5c858cb282e015fd58a9642da0d3c62",
+    "summaries/beats/1114.md": "7209decac3c082c208e53901bc6c7e00b99afdd51a11d091560f97d5d3fca6a4"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "적천강",
+        "kinship": "younger Daoist elder to senior martial master",
+        "normal_address": "Senior",
+        "notes": "Apologizes for his impertinence before sending Jeok toward the Inner City.",
+        "speaker": "태청진인",
+        "speech_level": "formal and deferential"
+      },
+      {
+        "addressee": "곤륜오선",
+        "kinship": "hostile opponent to elder martial masters",
+        "normal_address": "you old men",
+        "notes": "Threatens to tear them apart and orders them to leave.",
+        "speaker": "혈주",
+        "speech_level": "insulting and threatening"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "Jeok Cheongang left the North Gate and confronted the Blood Lord; exhausted and badly injured, he was sent toward the Inner City by Taecheong Jin-in.",
+        "The Kunlun Five Immortals used Temporary Strength Pills by breaking their innate qi to hold off the Blood Lord; all five died after buying fifteen minutes.",
+        "The Blood Lord killed a wounded follower and resumed advancing toward the Inner City after the Kunlun elders fell."
+      ],
+      "plot": [
+        "A flash of fire reveals Jeok Cheongang, who has returned from the North Gate to confront the Blood Lord. Jeok is exhausted and badly injured from his earlier battle; the Blood Lord exploits his concern for Taekyung and overpowers him.",
+        "Five Kunlun elders intervene, help Jeok, and send him toward the Inner City. They take Temporary Strength Pills by breaking their innate qi and hold off the Blood Lord for fifteen minutes, dying in the fight. The Blood Lord resumes his advance toward the Inner City."
+      ],
+      "translation_decisions": [
+        "Render 곤륜오선 as “Kunlun Five Immortals” and 태청진인 as “Perfected One Taecheong.”",
+        "Retain “Xizang” for 西藏 as the Murim region and “Tibet” when Taekyung identifies it from his modern-world perspective."
+      ]
+    },
+    "chapter": 1114,
+    "context": {
+      "active_continuity": [
+        "The West Gate has fallen; more than half its garrison are casualties, and some survivors retreated to the Inner City.",
+        "Jin Taekyung and Cheongpung are badly injured in the Inner City; Taekyung is still alive and has forced himself to stand.",
+        "Jeong Hogun died defending others; Taekyung remembers him as a steadfast officer.",
+        "Taekyung has rallied those around him to keep fighting for the Inner City's people.",
+        "The Slaughter Saint remains at the South Gate to support its defense; the Bow Saint’s motives are unclear.",
+        "Jeok Cheongang left the North Gate and is heading toward the Inner City, severely exhausted and injured after fighting the Blood Lord.",
+        "The Dalai Lama is dead; Perfected Being Hyeoncheon is alive but barely conscious.",
+        "The Blood Lord killed a wounded follower and is advancing toward the Inner City.",
+        "The Kunlun Five Immortals died after using Temporary Strength Pills to hold off the Blood Lord for fifteen minutes."
+      ],
+      "continuity_sources": [
+        1113,
+        1114
+      ],
+      "open_questions": [
+        "Will Jin Taekyung survive his injuries, and can he receive treatment from the Divine Physician?",
+        "What is the Bow Saint hiding, and why did she accept the possibility of Taekyung’s death?",
+        "Can the South Gate hold against the Grand Mage and the four Black Ghosts?",
+        "Can the Inner City’s defenders stop the Blood Lord?"
+      ],
+      "safe_through": 1114,
+      "temporary_decisions": [
+        "Render 西藏 as “Xizang” for the Murim region; retain “Tibet” when Taekyung identifies it from his modern-world perspective."
+      ],
+      "version": 1
+    },
+    "names": [
+      {
+        "english": "Kunlun Five Immortals",
+        "korean": "곤륜오선",
+        "notes": "Collective name for five senior Kunlun elders."
+      },
+      {
+        "english": "Taecheong Jin-in",
+        "korean": "태청진인",
+        "notes": "Leader of the Kunlun Five Immortals; rendered “Perfected One Taecheong” in address."
+      }
+    ],
+    "profile_creations": [
+      {
+        "aliases": [
+          "Perfected One Taecheong"
+        ],
+        "english": "Taecheong Jin-in",
+        "filename": "Taecheong Jin-in.md",
+        "korean": "태청진인",
+        "personality": "Calm and resolute, willing to sacrifice himself and his fellow elders to protect others.",
+        "relationships": "He was a Martial Uncle of Kunlun Sect Leader Cheongheoja and led the Kunlun Five Immortals; he helped Jeok Cheongang escape the Blood Lord.",
+        "role": "Former leader of the Kunlun Five Immortals and an elder of the Kunlun Sect; he died fighting the Blood Lord after using a Temporary Strength Pill.",
+        "voice": "Measured and formal, using restrained Daoist courtesies even under threat."
+      }
+    ],
+    "profile_updates": [],
+    "version": 1
+  },
+  "version": 1
+}
