@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "but his dull, чуж-like senses couldn’t clearly feel even the wind brushing over him.",
+      "defect": "The untranslated fragment obscures the comparison: his senses feel as though they belong to someone else.",
+      "id": "F01",
+      "rationale": "남의 것처럼 means “as though they belonged to someone else”; the current non-English fragment needs replacement.",
+      "replacement": "but his senses felt so dull and чуж-like that he couldn’t clearly feel even the wind brushing over him.",
+      "severity": "major",
+      "source": "남의 것처럼 무딘 감각은 전신을 스치는 바람조차 선명히 느끼지 못했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "At the same time, a dark night sky, cold enough to seem almost cold to the touch, spread before him.",
+      "defect": "The repeated “cold” makes the image incoherent; the sky looks cold because it is so dark.",
+      "id": "F02",
+      "rationale": "차가워 보일 만큼 어두운 describes the visual impression, not a temperature he can touch.",
+      "replacement": "At the same time, a night sky so dark it looked cold spread before him.",
+      "severity": "minor",
+      "source": "동시에 차가워 보일 만큼 어두운 밤하늘이 눈앞에 펼쳐졌다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "with the keen eyesight natural to a bird of prey",
+      "defect": "“Bird of prey” adds a species classification absent from the source.",
+      "id": "F03",
+      "rationale": "날짐승 identifies him as a bird, without specifying a raptor.",
+      "replacement": "with a bird’s naturally keen eyesight",
+      "severity": "minor",
+      "source": "날짐승의 타고난 안력(眼力)을 지닌 지금의 진태경은"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“C-Can you hear me?”",
+      "defect": "Jeok asks whether Taekyung is coming to, not whether he can hear.",
+      "id": "F04",
+      "rationale": "정신이 드느냐 concerns regained consciousness; the hesitant opening should remain.",
+      "replacement": "“A-Are you awake?”",
+      "severity": "major",
+      "source": "“저, 정신이 드느냐?”"
+    },
+    {
+      "confidence": 1.0,
+      "current": "> [Sleep] status has been lifted.",
+      "defect": "The System notice retains square brackets around a UI term, contrary to the packet’s System-panel rule.",
+      "id": "F05",
+      "rationale": "The framed System blockquote already identifies the notice; its UI term needs no brackets.",
+      "replacement": "> Sleep status has been lifted.",
+      "severity": "minor",
+      "source": "- [수면] 상태가 해제되었습니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“You did well.”",
+      "defect": "The line praises performance instead of acknowledging what Hyuk Mujin endured.",
+      "id": "F06",
+      "rationale": "고생했어 recognizes hardship, setting up Taekyung’s subdued gratitude that Mujin survived.",
+      "replacement": "“You’ve been through a lot.”",
+      "severity": "major",
+      "source": "“고생했어.”"
+    },
+    {
+      "confidence": 0.97,
+      "current": "“I doubt it’ll take more than half a shichen.”",
+      "defect": "The draft turns an approximate duration into an upper bound.",
+      "id": "F07",
+      "rationale": "한, 반 시진은 걸리지 않을까 싶다 estimates roughly half a shichen, without promising to return sooner.",
+      "replacement": "“I think it’ll take about half a shichen.”",
+      "severity": "minor",
+      "source": "“한, 반 시진은 걸리지 않을까 싶다.”"
+    }
+  ],
+  "summary": "The draft preserves the scene, but contains a corrupted phrase, changes Jeok Cheongang’s question, and misrenders several localized details.",
+  "version": 1
+}
