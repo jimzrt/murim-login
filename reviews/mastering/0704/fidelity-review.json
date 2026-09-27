@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "Countless mutants still surrounded them.\n\nCountless mutants still surrounded them. The demonic qi had taken their original forms from them, but they were the tribespeople of this land—the people he had cherished more than anyone.",
+      "defect": "The opening sentence is duplicated; the Korean states this fact once.",
+      "id": "F01",
+      "rationale": "The accepted baseline includes the surrounding-mutants statement once, followed by the description of who they were.",
+      "replacement": "Countless mutants still surrounded them. The demonic qi had taken their original forms from them, but they were the tribespeople of this land—the people he had cherished more than anyone.",
+      "severity": "minor",
+      "source": "Lines 177–178"
+    },
+    {
+      "confidence": 0.99,
+      "current": "He had crossed a hellscape.",
+      "defect": "The source says he saw a hellscape, not that he crossed one.",
+      "id": "F02",
+      "rationale": "The Korean says 지옥도를 보았다 (“he saw a hellscape”); the next lines describe what he saw.",
+      "replacement": "He had seen a hellscape.",
+      "severity": "minor",
+      "source": "Lines 193–195"
+    },
+    {
+      "confidence": 0.82,
+      "current": "*They canceled each other out?*",
+      "defect": "This turns 공멸 (“mutual destruction/annihilation”) into the narrower idea that the attacks merely canceled each other out.",
+      "id": "F03",
+      "rationale": "The source repeats 공멸 when she reacts to the outcome; the accepted baseline preserves that mutual-destruction sense.",
+      "replacement": "*Mutual destruction?*",
+      "severity": "minor",
+      "source": "Lines 81, 89"
+    },
+    {
+      "confidence": 0.82,
+      "current": "And yet their attacks had canceled each other out.",
+      "defect": "This repeats the narrowing of 공멸 to cancellation of the attacks.",
+      "id": "F04",
+      "rationale": "The Korean repeats 공멸 here, referring to the same outcome as her earlier thought.",
+      "replacement": "And yet mutual destruction?",
+      "severity": "minor",
+      "source": "Line 89"
+    }
+  ],
+  "summary": "The assembled copy contains a duplicated sentence and two meaning shifts.",
+  "version": 1
+}

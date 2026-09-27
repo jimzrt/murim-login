@@ -8,7 +8,7 @@ But as she raised her hand to strike, that certainty cracked.
 
 Kwoooong—!
 
-At the same time, the air rippled and the wind stopped. Sensing the powerful wave of qi coming from beyond the thick darkness, the Southern Heaven Demon Empress clenched her teeth.
+A tremendous rumble rose from somewhere beyond the darkness. The air rippled. The wind stopped. Sensing the powerful wave of qi approaching, the Southern Heaven Demon Empress clenched her teeth.
 
 *This is…!*
 
@@ -56,9 +56,9 @@ The earth shook. Compressed air burst outward, sweeping away the wind laced with
 
 Kwaaang! Rumble!
 
-After a deafening roar that made it seem as though the sky itself had split apart, a terrifying shock wave shook the surrounding space.
+The two forces collided, their light mingling. A roar like the sky splitting open was followed by a shock wave that shook the air.
 
-Beyond it, the Southern Heaven Demon Empress stared wide-eyed at her palm force as it faded away helplessly.
+Beyond it, the Southern Heaven Demon Empress watched her palm force fade away. She stared so hard that the blood vessels in her eyes burst.
 
 *They canceled each other out?*
 
@@ -148,9 +148,7 @@ The Beast Miao King nodded. An ugly old woman was reflected in his dark eyes.
 
 “Yes. The Southern Heaven Demon Empress.”
 
-His voice seemed to boil with anger that could not be hidden.
-
-Countless mutants still surrounded them.
+Anger simmered in his voice.
 
 Countless mutants still surrounded them. The demonic qi had taken their original forms from them, but they were the tribespeople of this land—the people he had cherished more than anyone.
 
@@ -178,7 +176,7 @@ Fire blazed in his reddened eyes. There was no trace of the man who loved a drin
 
 Decades ago, he had led ten thousand warriors north against the Demonic Cult’s Hundred Thousand Demonic Disciples and earned his place among the Ten Kings. Now that giant spoke in a voice cold as steel.
 
-“I will tear your limbs apart piece by piece.”
+“I will tear your limbs from your body.”
 
 Jin poked his head out from behind the Beast Miao King’s broad back.
 
