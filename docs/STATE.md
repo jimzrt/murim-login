@@ -1,23 +1,20 @@
 # Translation State
 
-- Last completed: 1131
-- Next chapter: 1132
-- Current block: 1130–1134 (2/5)
-- Latest translation: `translations/1131.md`
-- Latest summary: `summaries/beats/1131.md`
-- Safe profiles through: chapter 1131
+- Last completed: 1132
+- Next chapter: 1133
+- Current block: 1130–1134 (3/5)
+- Latest translation: `translations/1132.md`
+- Latest summary: `summaries/beats/1132.md`
+- Safe profiles through: chapter 1132
 
 ## Current Block
 
-- The old man guides Taekyung to recognize that he perceived qi through the Mind’s Eye. As their meeting ends, Taekyung recognizes the old man as the Helper, who once taught him to circulate qi. The Helper gives him a final gift and sends him back, urging him to save everyone and himself. The Helper remains alone in the gray-white space, which persists; he says he chose to remain there and must wait again.
-- Jeok Cheongang grieves over Taekyung’s apparently lifeless body. As a tear lands on Taekyung’s hand, a finger submerged in blood moves.
+- Taekyung’s stopped heart starts beating again, and he undergoes Bone Transformation as heat restores his damaged body. In his inner landscape, he uses the Mind’s Eye to glimpse beyond the clouds and recognizes that he had been limiting his own potential. The energy spreads through his acupoints, and he wakes without help. As the dark blue radiance fades, he tells Jeok Cheongang that he kept his promise.
 
 ## Open Questions
 
 - Who is the Helper beyond the name Taekyung recognizes, and what is his purpose?
 - What did the Helper give Taekyung?
-- What is Taekyung’s condition after his finger moved?
-- What does the Helper’s instruction to save everyone and himself refer to?
 
 ## Exceptional Decision
 
