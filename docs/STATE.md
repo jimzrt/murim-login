@@ -1,25 +1,26 @@
 # Translation State
 
-- Last completed: 1153
-- Next chapter: 1154
-- Current block: 1150–1154 (4/5)
-- Latest translation: `translations/1153.md`
-- Latest summary: `summaries/beats/1153.md`
-- Safe profiles through: chapter 1153
+- Last completed: 1154
+- Next chapter: 1155
+- Current block: 1150–1154 (5/5)
+- Latest translation: `translations/1154.md`
+- Latest summary: `summaries/beats/1154.md`
+- Safe profiles through: chapter 1154
 
 ## Current Block
 
-- At the Pentagon, Jin Taekyung discusses the global crisis with U.S. President Donald Doramp Jr.: Morgoth’s destruction has caused catastrophic casualties and displacement, and twenty-three countries have surrendered because Morgoth promises survival to those who submit. The President says humanity’s preparations depended on the comatose Cheon Taemin. As a video reveals a Dragon Lair over Moscow’s ruins, Taekyung wrestles with guilt over arriving too late.
+- A recording shows Morgoth using a Dragon Breath to open a Gate from the Demon Realm above Moscow, through which a vast monster army invades. He offers humanity survival under his rule in exchange for surrender, demands tribute in the form of Cheon Taemin and Jin Taekyung, and sets a three-day deadline. After the UN announces Jin’s return, people briefly regain hope, but footage of the monsters advancing across Russia leaves humanity shaken and silent.
 
 ## Open Questions
 
-- How will humanity respond to Morgoth’s offers of surrender?
-- Can Jin Taekyung stop Morgoth?
+- How will humanity respond to Morgoth’s surrender offer and demand for tribute?
+- Can Jin Taekyung stop Morgoth and the invading army?
+- What did the System notification shown to Jin Taekyung say?
 
 ## Exceptional Decision
 
-- Render 블라디미르 as “Vladimir,” 흑룡공 as “Black Dragon Duke,” and 파이 첸 as “Pie Chen.”
-- Render 외교 as “Diplomacy” for Morgoth’s distinctive use of genuine surrender offers.
+- Render 은빛 산 as “Silver Mountains” and 마계의 대공 as “Archduke of the Demon Realm.”
+- Render 모르고스’s command ᚨᚾᛊᚹᛖᚱ ᚦᛖ ᚲᚨᛚᛚ as “Answer the call.”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.

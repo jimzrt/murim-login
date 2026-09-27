@@ -20,7 +20,7 @@ Within half a day, her new sons and daughters were marching through the streets,
 
 “Hey, you. Wait a moment.”
 
-“Why, why do you ask?”
+“W-what is it?”
 
 “Do you believe in any god?”
 
@@ -78,7 +78,7 @@ I could picture it all too easily.
 
 Those cautious conversations would begin in small groups, spread throughout the Nanman Beast Palace, and eventually cause another rift.
 
-“On top of that, the tribes whose chieftains were traitors involved in this affair will be subjected to the other tribes’ silent contempt. That will lead to resentment between the tribes.”
+“And the tribes whose chieftains were involved will face the others’ quiet contempt. That will breed resentment between the tribes.”
 
 “But we can’t just let them all go.”
 
@@ -86,7 +86,7 @@ Those cautious conversations would begin in small groups, spread throughout the 
 
 No wonder the Beast Miao King had agonized over what to do with them. He needed a way to punish the traitors without tearing Nanman apart.
 
-At least, that had been the case until the One God known as the Earth Mother Goddess appeared and performed an unprecedented miracle.
+At least, he had until the Earth Mother Goddess appeared and performed an unprecedented miracle.
 
 “Now is the perfect time. We can expose their crimes under the law, execute them, and root every weed out of this land!”
 
@@ -94,7 +94,7 @@ The law? Executions?
 
 I clicked my tongue at the sight of his clenched fist.
 
-*He still doesn’t get it.*
+“You still don’t get it.”
 
 “What?”
 
@@ -150,7 +150,7 @@ The Beast Miao King stared blankly at me, then echoed my words.
 
 “The Earth Mother Goddess is a god.”
 
-“Good job. Now continue.”
+“Good. Now say them together.”
 
 “I am a priest. The Earth Mother Goddess is a god.”
 
@@ -238,7 +238,7 @@ Until Jeok Cheongang opened his mouth.
 
 “I’ll let anyone a hundred or older off. The rest of you, heads to the floor.”
 
-The fame of the Fire King Jeok Cheongang—or rather, his temper—was well known not only in the Central Plains but also throughout Nanman.
+The Fire King’s Fame—or rather, his temper—was well known in Nanman as well as the Central Plains.
 
 “Um, Palace Lord?”
 
@@ -246,7 +246,7 @@ The fame of the Fire King Jeok Cheongang—or rather, his temper—was well know
 
 “…….”
 
-When even the Beast Miao King, their final lifeline, looked off toward a distant mountain, the priests immediately got down with their heads to the floor and swore that from then on, they would keep their mouths shut about the Earth Mother Goddess no matter what.
+When even the Beast Miao King, their last hope, looked off toward a distant mountain, the priests put their heads to the floor without hesitation. They swore to keep their mouths shut about the Earth Mother Goddess from then on.
 
 “Honestly, we call ourselves priests, but we’ve never even seen the gods we serve. Isn’t that right?”
 
@@ -306,7 +306,7 @@ And only then did the people suddenly realize.
 
 They had finally become one.
 
-They had overcome a catastrophe together, witnessed and experienced an unbelievable miracle, and at last become one family within the warm embrace of the Earth Mother Goddess.
+Together, they had survived a catastrophe, witnessed and experienced an unbelievable miracle, and become one family in the warm embrace of the Earth Mother Goddess.
 
 That was the true miracle.
 
@@ -314,7 +314,7 @@ A miracle that had finally united the people of thirty-two tribes.
 
 And the forest keeper who had cut down every diseased tree and weed in the forest shouted before them all.
 
-“From this moment on, we are the people of Nanman—wholly united as one!”
+“From this moment on, we are people of Nanman, wholly united as one!”
 
 “Waaaaaah!”
 

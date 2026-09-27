@@ -1,0 +1,15 @@
+{
+  "summary": "The chapter is faithful overall. The assembled copy omits the explicit division of Nanman’s tribes in the concluding unity statement.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 327–328",
+      "current": "A miracle that had finally united the people of thirty-two tribes.",
+      "defect": "This drops the source’s explicit image of the tribespeople having been divided into thirty-two groups before they were brought together.",
+      "replacement": "A miracle that had finally brought together the tribespeople divided among thirty-two tribes.",
+      "rationale": "The Korean says the miracle made the tribespeople, who had been divided into thirty-two groups, unite in one accord. The accepted baseline preserved that division; the assembled copy retains the number but loses the division.",
+      "confidence": 0.94
+    }
+  ]
+}

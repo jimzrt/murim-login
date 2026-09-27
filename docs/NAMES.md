@@ -2559,3 +2559,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 리틀보이 | **Little Boy** | The bomb dropped on Hiroshima, used for comparison. |
 | 드래곤 레어 | **Dragon Lair** | Morgoth’s newly created stronghold. |
 | 도널드 | **Donald** | Given name of President Donald Doramp Jr. |
+| 은빛 산 | **Silver Mountains** | Morgoth identifies himself as its master. |
