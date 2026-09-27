@@ -2544,3 +2544,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 도우미 | **The Helper** | Taekyung’s name for the mysterious being who first taught him to circulate qi. |
 | 강시술사 | **corpse sorcerer** | A sorcerer capable of leading an army using corpses. |
 | 마법진 | **Magic Formation** | The formation that transports Ma Sanbao and his followers. |
+| 제갈노 | **Zhuge Repeating Crossbow** | The Zhuge Clan weapon used by its retainers. |
