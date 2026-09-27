@@ -1,21 +1,22 @@
 # Translation State
 
-- Last completed: 1031
-- Next chapter: 1032
-- Current block: 1030–1034 (2/5)
-- Latest translation: `translations/1031.md`
-- Latest summary: `summaries/beats/1031.md`
-- Safe profiles through: chapter 1031
+- Last completed: 1032
+- Next chapter: 1033
+- Current block: 1030–1034 (3/5)
+- Latest translation: `translations/1032.md`
+- Latest summary: `summaries/beats/1032.md`
+- Safe profiles through: chapter 1032
 
 ## Current Block
 
-- Jin Taekyung and Jeok Cheongang struggle against seven soulless Death Knights, whom the Blood-Sword Demon Lord calls Black Ghosts. Sama Pyo joins the fight and helps create openings, but the Black Ghosts prove difficult to stop. The Zhongnan disciples and Sima Gong’s Gansu martial artists arrive as the opposing armies meet on the snowy plain and begin their battle.
+- The Zhongnan Sect’s forces face Dark Heaven’s fearless, pain-insensitive followers. Two Black Ghosts break the sect’s formation; the Wind-and-Cloud Sword Lord recognizes one as the supposedly dead Black Axe Fiend and has his sword shattered. As Jin Taekyung and Jeok Cheongang fight elsewhere on the battlefield, a wave of magical power sweeps across it.
 
 ## Open Questions
 
 - Who are the seven Death Knights, what is their rank, and who commands them?
 - What is the Lord of Heaven’s identity and purpose?
 - When did Dark Heaven and the Lord of Heaven emerge, and did Dark Heaven cause the Great Faction War?
+- How did the Black Axe Fiend return from the dead, and who is the other Black Ghost present?
 
 ## Exceptional Decision
 
