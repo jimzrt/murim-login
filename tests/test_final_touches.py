@@ -68,6 +68,17 @@ class FinalQaTest(unittest.TestCase):
         qa = self.assess(bad_thought, bad_thought)
         self.assertTrue(any(item["code"] == "thought_format" for item in qa["errors"]))
 
+    def test_warning_heading_must_stay(self):
+        baseline = chapter(
+            "> **Warning**\n>\n> - The player cannot log out at will.\n\n"
+            + ("The hall was quiet. " * 8)
+        )
+        dropped = chapter(
+            "> - The player cannot log out at will.\n\n" + ("The hall was quiet. " * 8)
+        )
+        qa = self.assess(dropped, baseline)
+        self.assertTrue(any(item["code"] == "panel_heading" for item in qa["errors"]))
+
     def test_rewritten_prose_fails(self):
         candidate = chapter("A wholly different scene about another person. " * 8)
         qa = self.assess(candidate)

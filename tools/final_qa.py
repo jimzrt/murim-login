@@ -13,6 +13,7 @@ BAD_SYSTEM = re.compile(
 )
 QUOTED_THOUGHT = re.compile(r"^\*[“\"].*[”\"]\*$")
 SYSTEM_HEADING = "> **System**"
+PANEL_HEADING = re.compile(r"^> \*\*[^*]+\*\*\s*$")
 LENGTH_RATIO_MAX = 6.0
 
 
@@ -27,6 +28,26 @@ def prose_body(text: str) -> str:
             continue
         kept.append(FOOTNOTE_REF.sub("", line))
     return "\n".join(kept).strip()
+
+
+def _panel_heading_counts(text: str) -> dict[str, int]:
+    counts: dict[str, int] = {}
+    for line in text.splitlines():
+        stripped = line.strip()
+        if PANEL_HEADING.match(stripped):
+            counts[stripped] = counts.get(stripped, 0) + 1
+    return counts
+
+
+def missing_panel_headings(baseline: str, candidate: str) -> list[str]:
+    """Bold blockquote labels in the mastered copy, such as `> **Warning**`."""
+    base = _panel_heading_counts(baseline)
+    cand = _panel_heading_counts(candidate)
+    missing: list[str] = []
+    for heading, count in base.items():
+        if cand.get(heading, 0) < count:
+            missing.append(heading)
+    return missing
 
 
 def baseline_preserved(baseline: str, candidate: str) -> float:
@@ -121,6 +142,13 @@ def assess(
                 continue
         errors.append(error)
     errors.extend(format_errors(candidate))
+    missing_headings = missing_panel_headings(baseline, candidate)
+    if missing_headings:
+        errors.append(_finding(
+            "panel_heading",
+            "a document or panel heading from the mastered chapter was removed",
+            headings=missing_headings,
+        ))
     preserved = baseline_preserved(baseline, candidate)
     metrics = dict(qa.get("metrics") or {})
     metrics["baseline_preserved"] = round(preserved, 3)
