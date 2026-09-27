@@ -12,11 +12,11 @@ Like now.
 
 “……!”
 
-The instant I finished speaking, his mouth fell open in a daze. Beneath his trembling eyelids, his pupils were already shaking like an earthquake.
+The moment I finished speaking, his mouth fell open. His eyelids trembled, and his eyes darted beneath them.
 
 *This bastard’s planning to cause trouble again.*
 
-Team Leader Choi stared at me with exactly that look in his eyes. After a long silence, he finally managed to force out his voice.
+He stared at me as if the thought were written all over his face. After a long silence, he finally found his voice.
 
 “Are you serious?”
 
@@ -38,11 +38,11 @@ Team Leader Choi sighed.
 
 “That is a relief, at least. You have not gone completely insane.”
 
-“You’re calling a perfectly sane person crazy? I’m just planning to look the man in the face and have a cup of coffee with him. Ares Guild has branches in France anyway, so I can use that as an excuse and kill two birds with one stone……”
+“You’re calling a perfectly sane person crazy? I just want to see his face and have a cup of coffee. Ares Guild has a chain store in France anyway, so I can use that as an excuse and kill two birds with one stone……”
 
 “It is a Guild branch, not a chain store. And you expect me to believe that? Are you joking?”
 
-At Team Leader Choi’s utterly serious question, I smacked my lips.
+He looked so serious that I smacked my lips.
 
 “Well, if the conversation doesn’t go smoothly, there might be a little trouble.”
 
@@ -80,7 +80,7 @@ Those were the reasons I’d been able to step outside the law without becoming 
 
 *Paris would be different.*
 
-My heart was screaming at me to storm into Paris and raise hell, but the part of my reason that was still alive was facing reality.
+My heart was screaming at me to storm over there and raise hell, but the part of my reason that was still alive could see the reality of it.
 
 Team Leader Choi’s eyes widened at my decision. The Skeleton King, who had been staring at his smartphone while shoveling down yukgaejang, dropped his spoon.
 
@@ -94,7 +94,7 @@ Team Leader Choi’s eyes widened at my decision. The Skeleton King, who had bee
 
 “Doppelganger! Get out of the treacherous human’s body!”
 
-*These two were acting like fucking idiots.*
+*For fuck’s sake, these two.*
 
 Instead of answering, I picked up the spoon on the table and smacked the Skeleton King on top of his head.
 
@@ -102,13 +102,13 @@ Crack!
 
 “My skull! My beautiful skull!”
 
-Team Leader Choi watched the Skeleton King howl and nodded.
+Team Leader Choi watched him howl and nodded.
 
 “What a relief. You are Jin Taekyung.”
 
 “……”
 
-After completing that strangely unpleasant verification procedure, Team Leader Choi let out a sigh of relief.
+Having completed that strangely insulting verification procedure, he let out a sigh of relief.
 
 “In any case, I am glad you changed your mind.”
 
@@ -146,7 +146,7 @@ I wondered how Team Leader Choi had obtained something that should have been nea
 
 Team Leader Choi looked at me as though he’d half given up.
 
-“As you know, Mr. Jin Taekyung, during the early stages of the crisis, China’s State Council and Politburo Standing Committee were reluctant to request help from abroad. They were especially vehemently opposed to support from the West.”
+“As you know, Mr. Jin Taekyung, China’s State Council and Politburo Standing Committee were reluctant to request foreign help in the early stages of the crisis. They were particularly opposed to support from the West.”
 
 The Skeleton King, still tenderly stroking his skull, interrupted with a puzzled look.
 
@@ -158,7 +158,7 @@ There were any number of reasons, but they all came down to one answer. I kindly
 
 “Because it’s China.”
 
-“What does that mean? Humans are dying either way!”
+“What does that mean? Humans were dying!”
 
 “Because it’s China.”
 
@@ -196,7 +196,7 @@ Team Leader Choi’s next words answered my question.
 
 Team Leader Choi took a sip of lukewarm coffee, then spoke quietly.
 
-“They wanted China to lease ten cities—including Chengdu, Meishan, Ziyang, and Suining, the representative administrative districts of Sichuan Province—to Odin Guild for the next ninety-nine years, as well as authorize the establishment of an official branch in Beijing.”[^2]
+“They wanted ten cities, including Chengdu, Meishan, Ziyang, and Suining—major administrative districts of Sichuan Province—leased to Odin Guild for the next ninety-nine years. They also wanted permission to establish an official branch in Beijing.”
 
 “……!”
 
@@ -224,13 +224,13 @@ I stared at him and muttered, “Wow. Those bastards are insane. They’re worse
 
 Why did this feel oddly familiar? Was it just me?
 
-As I stared at him with a sour expression, Team Leader Choi spoke to me in a gentle voice.
+Team Leader Choi spoke gently as I looked at him.
 
 “Mr. Jin Taekyung, did you know Koreans have another name for the French?”
 
 “Oh.”
 
-With a sudden flash of insight, I let out an exclamation.
+Understanding struck.
 
 “European Chinks……!”
 
@@ -246,7 +246,7 @@ Team Leader Choi nodded.
 
 “The teacher did it, too.”
 
-“Ah! Ah……”
+“Oh. Oh, no……”
 
 “It is all right. It was a long time ago.”
 
@@ -262,9 +262,9 @@ And above all……
 
 “People around the world are cheering us on. The media may not be able to openly criticize the major Guilds, but plenty of people are condemning them.”
 
-*Public sentiment.*
+*Public support.*
 
-The strongest weapon—and shield—we had gained by releasing the Mana Cultivation Method.
+The strongest weapon—and shield—we’d gained by announcing the release of the Mana Cultivation Method.
 
 We needed to make full use of it. Make sure even Odin Guild couldn’t come near us……
 
@@ -274,7 +274,7 @@ The Skeleton King suddenly held out his smartphone.
 
 “Is this the cheering you mean?”
 
-On the screen of the smartphone he offered me was a breaking-news alert that had been posted only a few dozen seconds earlier.
+On its screen was a breaking-news story posted only seconds ago.
 
 > **Odin Guild Announces Support for Ares**
 >
@@ -287,5 +287,3 @@ On the screen of the smartphone he offered me was a breaking-news alert that had
 *Fuck. What the hell is this now?*
 
 [^1]: At a Korean child’s first-birthday celebration, a traditional ceremony has the child choose an object thought to hint at their future.
-
-[^2]: Meishan, Ziyang, and Suining are cities in Sichuan Province.

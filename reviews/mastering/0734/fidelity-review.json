@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "What matters most is that even with the French government behind it, Odin Guild cannot move against us openly. As with their assassination of Wu Shaiming’s family, they can only send a warning rather than threaten us directly.",
+      "defect": "The source says Odin Guild cannot act easily and can only stop at a warning instead of making a physical threat. “Openly” changes the constraint, while “threaten us directly” omits the explicit physical nature of the threat.",
+      "id": "F01",
+      "rationale": "Line 273 says 쉽게 움직일 수 없다는 점 (cannot move easily) and 물리적인 위협 대신 단지 경고로 그칠 수밖에 없죠 (can only stop at a warning instead of a physical threat).",
+      "replacement": "What matters most is that even with the French government behind it, Odin Guild cannot act easily. As with the recent assassination of Wu Shaiming’s family, they can only stop at a warning rather than make a physical threat.",
+      "severity": "minor",
+      "source": "Line 273"
+    },
+    {
+      "confidence": 0.88,
+      "current": "public opinion turns into a wasteland",
+      "defect": "The Korean specifies public opinion directed toward us; the English drops that target.",
+      "id": "F02",
+      "rationale": "우리를 향한 여론 identifies the public opinion as being about us.",
+      "replacement": "public opinion of us turns into a wasteland",
+      "severity": "minor",
+      "source": "Line 69"
+    }
+  ],
+  "summary": "Two minor fidelity defects: one changes how Odin Guild is constrained, and one drops who the public opinion concerns.",
+  "version": 1
+}
