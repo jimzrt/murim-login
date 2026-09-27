@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The vanguard of the Murim allied forces was heading straight for them.",
+      "defect": "Reverses the direction of the attack. The monsters are rushing toward the vanguard, not the vanguard toward the monsters.",
+      "id": "F01",
+      "rationale": "The preceding sentence identifies the approaching answers as the monstrous threat; this fragment names its target.",
+      "replacement": "Straight toward the Murim allied forces’ vanguard. Straight toward where they stood.",
+      "severity": "critical",
+      "source": "무림 연합군의 선봉, 바로 이곳을 향해서."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The frightened horses whinnied and tossed their heads.",
+      "defect": "Changes the horses’ action from forceful snorting to whinnying and head-tossing.",
+      "id": "F02",
+      "rationale": "투레질 refers to snorting or blowing air through the nose.",
+      "replacement": "The frightened horses snorted fiercely.",
+      "severity": "critical",
+      "source": "공포를 느낀 말들이 거세게 투레질했다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "His younger brother, who’d changed everything overnight—and then gone on to change everything around him.",
+      "defect": "Makes Taekyung the agent of the first overnight change. The source says everything changed for him before he changed his surroundings.",
+      "id": "F03",
+      "rationale": "모든 것이 달라진 describes the change Taekyung experienced; 뒤바꾼 describes the change he subsequently caused.",
+      "replacement": "His younger brother, whose whole life had changed overnight—and who had then changed everything around him.",
+      "severity": "critical",
+      "source": "하루아침에 모든 것이 달라진, 그리고 이내 주위의 모든 것을 뒤바꾼 자신의 아우를."
+    },
+    {
+      "confidence": 0.96,
+      "current": "the Sect Leaders of the Nine Sects and One Gang and the Five Great Families plunged down like meteors, led by four of the Ten Kings.",
+      "defect": "Calls the leaders of the Five Great Families Sect Leaders, incorrectly assigning them a sect hierarchy.",
+      "id": "F04",
+      "rationale": "The Five Great Families are families, not sects; the English must not give their heads sect titles.",
+      "replacement": "the leaders of the Nine Sects and One Gang and the heads of the Five Great Families plunged down like meteors, led by four of the Ten Kings.",
+      "severity": "major",
+      "source": "네 명의 십왕(十王)을 필두로 한 구파일방과 오대세가의 장문인들이"
+    },
+    {
+      "confidence": 0.89,
+      "current": "“I thought you just called me ‘hyung.’”",
+      "defect": "Drops the extra deference in 형님, which gives Wikyung a specific form of address to tease Mukyung about.",
+      "id": "F05",
+      "rationale": "형님 is more deferential than 형; the distinction matters because the address itself is the subject of their exchange.",
+      "replacement": "“I thought you called me ‘hyungnim’ a moment ago.”",
+      "severity": "minor",
+      "source": "“조금 전에는 형님이라고 부른 것 같은데?”"
+    }
+  ],
+  "summary": "The draft reverses who is approaching the vanguard, changes a key description of Jin Taekyung, and misrenders two physical and hierarchical details.",
+  "version": 1
+}

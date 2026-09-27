@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1180
-- Next chapter: 1181
-- Current block: 1180–1184 (1/5)
-- Latest translation: `translations/1180.md`
-- Latest summary: `summaries/beats/1180.md`
-- Safe profiles through: chapter 1180
+- Last completed: 1181
+- Next chapter: 1182
+- Current block: 1180–1184 (2/5)
+- Latest translation: `translations/1181.md`
+- Latest summary: `summaries/beats/1181.md`
+- Safe profiles through: chapter 1181
 
 ## Current Block
 
-- Jin Wikyung and Song Ho travel with the martial forces across a barren plateau under torrential rain. Wikyung worries over his younger brothers and recalls that Great Sir joined Taekyung’s group, though he never managed to speak with him. Song Ho says the Imperial Army crossed Lop Nur fifteen days earlier and should reach the Tianshan Mountains by the day after tomorrow. The government-Murim army has split into three forces at the Qinghai-Xinjiang border; as Wikyung and Mukyung approach the Tianshan Mountains, lightning reveals the roars of countless monsters.
+- A vast horde of monsters surges toward the exhausted Murim allied forces’ vanguard, led by the Jin Family of Taiyuan. Jin Wikyung rallies the troops to stand their ground. Jin Mukyung returns, destroys a boulder hurled at them, and joins the fight; Mae Jonghak arrives, followed by four of the Ten Kings and the leaders of the Nine Sects and One Gang and the Five Great Families. The battle begins.
 
 ## Open Questions
 
