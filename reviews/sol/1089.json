@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "they’re about half a shichen later than usual, but they must be close by now.",
+      "defect": "Changes the patrol’s delay from half a gak to half a shichen.",
+      "id": "F01",
+      "rationale": "각 and 시진 are different time units; the draft substantially lengthens the delay.",
+      "replacement": "they’re about half a gak later than usual, but they must be close by now.",
+      "severity": "critical",
+      "source": "그, 사실 평소보다 반 각 정도 늦긴 했습니다만 코앞까진 왔을 테니"
+    },
+    {
+      "confidence": 0.93,
+      "current": "Either they found a survivor who made it through by sheer luck…",
+      "defect": "Makes the rescued survivors singular despite the patrol having two extra people.",
+      "id": "F02",
+      "rationale": "The Korean does not specify one survivor; Man Chong is explaining how a patrol of ten could now number twelve.",
+      "replacement": "Either they found survivors who made it through by sheer luck…",
+      "severity": "major",
+      "source": "천운으로 살아남은 생존자를 구했거나."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Between the sparks rising into the air, a pair of riders crossed the gravel without a sound. Man Chong’s eyes widened at the sight.",
+      "defect": "Turns a man-and-horse pair into two riders.",
+      "id": "F03",
+      "rationale": "The following lines describe one skeletal horse and the man seated on it.",
+      "replacement": "Between the sparks rising into the air, a man and a horse crossed the gravel without a sound. Man Chong’s eyes widened at the sight.",
+      "severity": "critical",
+      "source": "일말의 소음도 없이 자갈밭을 가로지른 한 쌍의 인마를 목격한 만총이 눈을 부릅떴다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "At least here, he’s entrusted everything to me.",
+      "defect": "Assigns a male pronoun to the unnamed superior where the Korean does not.",
+      "id": "F04",
+      "rationale": "그분 identifies the superior respectfully without specifying gender; the binding terminology gives “that person.”",
+      "replacement": "At least here, that person has entrusted everything to me.",
+      "severity": "major",
+      "source": "당장 이곳에서만큼은 그분께 모든 것을 일임받았으니까."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Man Chong polished off the bowl in moments, as if a crab had swept through it, then patted his full belly with a satisfied smile.",
+      "defect": "The literal crab image reads as an action by a crab rather than conveying speed.",
+      "id": "F05",
+      "rationale": "게 눈 감추듯 is an idiom for doing something very quickly.",
+      "replacement": "Man Chong polished off the bowl in the blink of an eye, then patted his full belly with a satisfied smile.",
+      "severity": "minor",
+      "source": "게 눈 감추듯 사발을 싹 비운 만총은"
+    },
+    {
+      "confidence": 0.95,
+      "current": "Their voices were pretty convincing, though.",
+      "defect": "Changes the singular voice being imitated into multiple voices.",
+      "id": "F06",
+      "rationale": "The deception just heard was a reply in Seok Sam’s voice; 목소리는 is singular.",
+      "replacement": "That voice was pretty convincing, though.",
+      "severity": "minor",
+      "source": "그래도 목소리는 제법 감쪽같았을 텐데."
+    }
+  ],
+  "summary": "The draft preserves the scene’s main sequence, but changes the patrol’s delay and the number of figures crossing the gravel, and adds an unsupported pronoun for the Blood Lord’s superior.",
+  "version": 1
+}
