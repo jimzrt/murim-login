@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“See you again?”",
+      "defect": "The English reads like a question about a future farewell rather than a greeting on meeting her again.",
+      "id": "F01",
+      "rationale": "또 보네 refers to seeing her again now.",
+      "replacement": "“Fancy seeing you again.”",
+      "severity": "minor",
+      "source": "“또 보네?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "She’d forgotten someone.\n\nSomeone very important—and very dangerous.",
+      "defect": "The draft changes the forgotten threats from plural beings to one person.",
+      "id": "F02",
+      "rationale": "무언가 introduces the thought, but 존재들을 resolves it as plural; she then sees two figures.",
+      "replacement": "She’d forgotten something.\n\nOr rather, some very important—and very dangerous—people.",
+      "severity": "critical",
+      "source": "자신이 무언가를 잊고 있었음을.\n\n그것도 아주 중요하면서도, 위험한 존재들을."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“That quarter hour. It’s been a long time since it passed.”",
+      "defect": "반 각 is half a gak, not a full quarter hour.",
+      "id": "F03",
+      "rationale": "A gak is fifteen minutes; the stated interval is half of one.",
+      "replacement": "“Seven and a half minutes. That ran out ages ago.”",
+      "severity": "critical",
+      "source": "“반 각. 한참 전에 지났잖아요.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“Fine. I’ll tell you… Anything. Everything.”",
+      "defect": "The draft replaces his repeated offer of ‘anything’ with an escalating promise of ‘everything.’",
+      "id": "F04",
+      "rationale": "무엇이든 is repeated; the repetition conveys his desperation without changing the scope of his offer.",
+      "replacement": "“Fine. Anything… I’ll tell you anything.”",
+      "severity": "minor",
+      "source": "“좋다. 무엇이든…… 무엇이든 말해 주마.”"
+    },
+    {
+      "confidence": 0.98,
+      "current": "And unlike the person whose wishes had come true a moment earlier, after dying so horribly she couldn’t even properly take care of her own body.",
+      "defect": "The draft says the Grand Mage’s wishes had already come true and repeats ‘unlike’ from the preceding comparison. The source says Jin’s renewed strength is in accordance with what she wanted.",
+      "id": "F05",
+      "rationale": "뜻대로 connects her wish to Jin growing stronger; it does not declare that all her wishes have been fulfilled.",
+      "replacement": "And just as someone who’d died a little earlier—so horribly she couldn’t even keep her body in one piece—had wanted.",
+      "severity": "major",
+      "source": "그리고 그보다 한발 앞서, 몸뚱어리조차 제대로 건사하지 못할 만큼 처참한 죽음을 맞이한 누군가의 뜻대로."
+    }
+  ],
+  "summary": "The draft changes a time quantity, makes the Grand Mage’s forgotten threats singular, and misstates whether her wish has already come true.",
+  "version": 1
+}
