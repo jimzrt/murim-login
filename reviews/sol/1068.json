@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Northwest! They’re two hundred yards out!”",
+      "defect": "Two hundred jang is roughly two thousand feet, not two hundred yards.",
+      "id": "F01",
+      "rationale": "The draft places the pursuers much closer than the source does.",
+      "replacement": "“Northwest! About two thousand feet out!”",
+      "severity": "critical",
+      "source": "“서북쪽! 이백여 장 밖!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "We’d been coming down the mountain without a break for barely an hour when—",
+      "defect": "A shichen is approximately two hours, not one.",
+      "id": "F02",
+      "rationale": "The draft halves the elapsed time.",
+      "replacement": "We’d been coming down the mountain without a break for barely two hours when—",
+      "severity": "critical",
+      "source": "휴식할 새도 없이 산맥을 내려온 지 고작 한 시진이 되었을 때."
+    },
+    {
+      "confidence": 0.99,
+      "current": "And the great martial artist who’d come to be known as the Bow Saint after countless battles knew his abilities and his role precisely.",
+      "defect": "The draft assigns the Bow Saint male pronouns.",
+      "id": "F03",
+      "rationale": "The supplied continuity identifies the Bow Saint as a woman; the Korean does not introduce a male identity.",
+      "replacement": "And the great martial artist who’d come to be known as the Bow Saint after countless battles knew her abilities and her role precisely.",
+      "severity": "critical",
+      "source": "그리고 숱한 전투를 치르며 궁성(弓星)이라 불리게 된 위대한 무인 역시, 자신의 역량과 역할을 정확히 알고 있었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I can’t say for certain, but at the time, the Emperor’s attempts to check him by putting the Embroidered Uniform Guard forward had clear limits.”",
+      "defect": "The draft puts the limits on the Emperor’s checks rather than on the East Depot’s ability to investigate.",
+      "id": "F04",
+      "rationale": "Ma is explaining why even the East Depot might not have learned more about Great Sir.",
+      "replacement": "“I can’t say for certain, but at the time, the Emperor was using the Embroidered Uniform Guard to keep the East Depot in check. That clearly limited what we could find out.”",
+      "severity": "major",
+      "source": "그것은 속하로서도 장담드릴 수 없으나, 당시에는 금의위를 앞세운 황제의 견제로 인해 한계가 명백했던 것이 사실입니다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“If you don’t like that, come down and face me.”",
+      "defect": "The draft repeats the invitation to come down, losing Jin’s challenge to the person watching through the crow to come in person.",
+      "id": "F05",
+      "rationale": "직접 contrasts the watcher’s personal presence with surveillance through the crow.",
+      "replacement": "“If you don’t like that, come yourself.”",
+      "severity": "major",
+      "source": "“그게 싫으면, 직접 오든가.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "> You have slain a [Lv. 56 Corrupted Lower-Rank Fanatic]!\n>\n> You have slain a [Lv. 75 Corrupted Mid-Rank Fanatic]!\n>\n> You have slain a [Lv. 52 Corrupted Martial Artist]!",
+      "defect": "The System notices retain square brackets around enemy names.",
+      "id": "F06",
+      "rationale": "The binding System-panel format explicitly excludes square brackets around UI terms and notices.",
+      "replacement": "> You have slain a Lv. 56 Corrupted Lower-Rank Fanatic!\n>\n> You have slain a Lv. 75 Corrupted Mid-Rank Fanatic!\n>\n> You have slain a Lv. 52 Corrupted Martial Artist!",
+      "severity": "minor",
+      "source": "- [Lv.56 타락한 하급 광신도]를 처치하셨습니다!\n\n- [Lv.75 타락한 중급 광신도]를 처치하셨습니다!\n\n- [Lv.52 타락한 무림인]을 처치하셨습니다!"
+    }
+  ],
+  "summary": "Several scene facts and one causal explanation need correction; the System panel also retains prohibited brackets.",
+  "version": 1
+}
