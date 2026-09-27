@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“But we were friends. We were close enough that he could at least give me a hint about the hideout where he planned to stay someday.”",
+      "defect": "The source first has Johnson answer “Not at all” to whether he had been separately in contact with the Grand Mage, then describe him as eccentric and closed-off. The assembled English omits both details, making the transition to their friendship misleadingly abrupt.",
+      "id": "F01",
+      "rationale": "The source explicitly distinguishes not being in contact from having been friends, and gives the Grand Mage’s eccentric, closed-off nature as context.",
+      "replacement": "“Not at all. He was an eccentric, and he had a very closed-off personality. But we were friends. We were close enough that he could at least give me a hint about the hideout where he planned to stay someday.”",
+      "severity": "minor",
+      "source": "Chapter 741, lines 113–119"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Although it had been pushed out of the rankings several years ago, the Wizard Guild had once been one of the world’s top ten Guilds, even if only in last place.",
+      "defect": "The source states that Magic Johnson is both a Grand Mage and the master of the Wizard Guild. The assembled English drops both facts.",
+      "id": "F02",
+      "rationale": "The source directly identifies Johnson’s title and leadership role before describing the Guild’s former ranking.",
+      "replacement": "Magic Johnson was a Grand Mage and the master of the massive Wizard Guild. Although it had been pushed out of the rankings several years ago, the Wizard Guild had once been one of the world’s top ten Guilds, even if only in last place.",
+      "severity": "minor",
+      "source": "Chapter 741, line 137"
+    }
+  ],
+  "summary": "The assembled English omits two source details: Johnson’s answer that he had not been in contact with the Grand Mage, and his title and role in the Wizard Guild.",
+  "version": 1
+}
