@@ -116,9 +116,7 @@ No. I hadn’t had the chance to watch for them. I’d been too hard-pressed eve
 
 *And died.*
 
-What awaited roughly one hundred of them was the immense vortex created by One Annihilation.
-
-But in that brief instant, split into smaller and smaller fractions of time, the mutants had instinctively stopped me and fulfilled their mission.
+Roughly a hundred of them had met the immense vortex created by One Annihilation. But in that instant, brief as it was, they had instinctively stopped me and fulfilled their purpose.
 
 They’d bitten my forearm and turned my attack aside, blocked my view, and thrown themselves in front of a force they couldn’t stop.
 
@@ -138,7 +136,7 @@ Red. Everything was red.
 
 The sky. The ground. Everything between them.
 
-At the same time, things that should never have been visible came into view.
+And she could see things she should never have had to see.
 
 *Ah.*
 
@@ -174,7 +172,7 @@ But not her face. Unless she followed the same path as the Blood Lord she so des
 
 “No. This… this can’t…”
 
-It was because of the person reflected in her blood-red eyes, now wet with tears.
+She stopped muttering. Someone had appeared before her tear-filled eyes.
 
 Jin Taekyung.
 
@@ -186,7 +184,7 @@ A single thought seized her.
 
 *Kill him.*
 
-The monster who had lived for an age wrapped herself in darkness and moved forward without hesitation.
+The turmoil in her mind went cold. Wrapped in darkness, the monster who had lived for nearly a century walked forward without hesitation.
 
 Scuff. Scuff.
 
@@ -208,11 +206,11 @@ Light spread from the guardian spirit as its thought rang out. The thousand muta
 
 Bang!
 
-A palm strike shot forward without the slightest hesitation. Darkness mixed with blood-red Force pressed down on the sacred stone’s light and engulfed Jin Taekyung.
+She fired a palm strike without hesitation. Darkness mingled with blood-red Force pressed down on the sacred stone’s light and swept toward Jin Taekyung.
 
 Boom!
 
-In that instant, the guardian spirit bit Jin Taekyung by the nape and darted away like lightning, releasing a low growl.
+The ground exploded. In that instant, the guardian spirit caught Jin Taekyung by the back of his neck and leaped away like lightning, a low growl escaping its throat.
 
 —The sacred stone…
 
@@ -228,7 +226,7 @@ So was the White Tiger that had guarded it for so many years.
 
 The guardian spirit hadn’t expected that energy to restore all its former strength. The Water God Dragon’s earlier mutation had left it with little energy to give.
 
-*Strong enough to suppress even the sacred stone’s power.*
+*The demonic qi is too strong. Strong enough to suppress even the sacred stone.*
 
 It had already spread beyond the Inner Palace and was encroaching on the Outer Palace.
 
@@ -256,7 +254,7 @@ Jin Taekyung met its wide blue-white eyes and struggled to his feet, using White
 
 —How can you say that now…?
 
-“I guarantee it. No matter how fast you are, I won’t last long if you take me with you. I’ll probably start whining for you to put me down in less than half a shichen. I’ll die if I don’t circulate my qi.”
+“I’m telling you, no matter how fast you are, I won’t last long if you take me. Within half a shichen, I’ll probably be whining for you to put me down. If I don’t stop to circulate my qi, I’ll die.”
 
 The words were playful, but the judgment behind them wasn’t. The guardian spirit fell silent.
 
@@ -278,11 +276,11 @@ Finger Qi shot toward him like a beam of light and tore the back of his neck. Ji
 
 “That would be troublesome,” she said coldly.
 
-“Now we’re finally talking—”
+“Now we’re finally getting somewh—”
 
 “You mustn’t die that easily. I’m going to tear you apart slowly with my own hands.”
 
-“……I guess we’re not exactly communicating. What are you planning to do about the fallout?”
+“…ere, apparently not. What will you do about the consequences?”
 
 “It’ll be fine. The Lord of Heaven will be pleased if I bring him the divine artifact. The White Tiger’s pelt will be a bonus.”
 

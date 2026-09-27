@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Each time, he recovered faster and grew stronger.",
+      "defect": "The source says that as time passed, his recovery grew faster and he became stronger. “Each time” changes this into a claim about successive recoveries.",
+      "id": "F01",
+      "rationale": "The Korean uses 시간이 흐를수록 (“as time passes”), not a phrase meaning “each time.”",
+      "replacement": "As time passed, he recovered faster and grew stronger.",
+      "severity": "minor",
+      "source": "Lines 97–98"
+    },
+    {
+      "confidence": 0.98,
+      "current": "It was because of the person reflected in her blood-red eyes, now wet with tears.",
+      "defect": "The source says the Empress’s movement abruptly stopped as she saw Jin Taekyung reflected in her tear-wet eyes. The assembled text omits the stopped movement and leaves this sentence without its stated action.",
+      "id": "F02",
+      "rationale": "The Korean explicitly describes her movement stopping before identifying the person reflected in her eyes.",
+      "replacement": "The Southern Heaven Demon Empress, who had been mumbling like someone out of her mind, abruptly stopped moving. Jin Taekyung was reflected in her blood-red eyes, now wet with tears.",
+      "severity": "minor",
+      "source": "Lines 195–196"
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Kill him.*\n\nThe monster who had lived for an age wrapped herself in darkness and moved forward without hesitation.",
+      "defect": "The assembled copy omits the beat in which the Empress’s confused thoughts turn cold after the thought to kill him. This removes the source’s transition from emotional turmoil to cold resolve.",
+      "id": "F03",
+      "rationale": "The Korean explicitly states that her mind cooled after being confused by many emotions and before she moved.",
+      "replacement": "*Kill him.*\n\nAt that moment, the thoughts that had been thrown into confusion by countless emotions turned cold. The monster who had lived for an age wrapped herself in darkness and moved forward without hesitation.",
+      "severity": "minor",
+      "source": "Lines 207–209"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Boom!\n\nIn that instant, the guardian spirit bit Jin Taekyung by the nape and darted away like lightning, releasing a low growl.",
+      "defect": "The source says the ground burst apart with the roar. That physical detail, preserved in the accepted baseline, is missing from the assembled copy.",
+      "id": "F04",
+      "rationale": "The Korean explicitly says the ground burst apart before describing the guardian spirit’s escape.",
+      "replacement": "Boom!\n\nThe ground burst apart with a deafening roar. In that instant, the guardian spirit bit Jin Taekyung by the nape and darted away like lightning, releasing a low growl.",
+      "severity": "minor",
+      "source": "Lines 237–239"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Strong enough to suppress even the sacred stone’s power.",
+      "defect": "The source’s thought first states that the demonic qi is too strong, then explains that it is strong enough to suppress the sacred stone. The assembled copy drops the first assertion, which was also present in the accepted baseline.",
+      "id": "F05",
+      "rationale": "The Korean explicitly says 마기가 너무 강하다 (“the demonic qi is too strong”) before describing its effect on the sacred stone.",
+      "replacement": "The demonic qi was too strong—strong enough to suppress even the sacred stone’s power.",
+      "severity": "minor",
+      "source": "Lines 257–259"
+    }
+  ],
+  "summary": "The assembled copy has several source-fidelity regressions: it changes how the Masked Man’s strength increases and omits physical and emotional beats present in the Korean and accepted baseline.",
+  "version": 1
+}
