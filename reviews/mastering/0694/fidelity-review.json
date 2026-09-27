@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "He drew his sword. Its edge gleamed as moonlight and wavering torchlight broke across the white blade.",
+      "defect": "The source says the drawn sword emitted a sharp, piercing aura; the assembled text replaces that effect with the blade gleaming.",
+      "id": "F01",
+      "rationale": "검이 날카로운 예기를 뿜어낸다 describes an aura or force emanating from the sword, not the edge gleaming.",
+      "replacement": "He drew his sword, and a sharp aura radiated from it. Moonlight and wavering torchlight struck the white blade and shattered across it.",
+      "severity": "minor",
+      "source": "Lines 133–135"
+    },
+    {
+      "confidence": 0.87,
+      "current": "“I-I’m sorry, Palace Lord. I’m not as strong as I used to be….”",
+      "defect": "The source attributes her difficulty to her body being in poor health, not to having lost strength compared with the past.",
+      "id": "F02",
+      "rationale": "몸이 성치 않은 탓에 means because her body is unwell or not in good condition; the current line shifts this to reduced strength over time.",
+      "replacement": "“I-I’m sorry, Palace Lord. I’m in poor health, so….”",
+      "severity": "minor",
+      "source": "Line 227"
+    }
+  ],
+  "summary": "The assembled chapter is broadly faithful, but it changes a sword’s described effect and softens a physical detail about the old woman’s health.",
+  "version": 1
+}

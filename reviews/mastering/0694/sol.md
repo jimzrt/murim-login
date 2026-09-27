@@ -68,13 +68,13 @@ They had grown up hearing stories of Ailao Mountain, the forbidden land whose hi
 
 The Fire Gate Clan.
 
-An unknown clan said to exist somewhere in the distant Central Plains.
+A mysterious sect said to exist somewhere in the distant Central Plains.
 
 Long ago, its Sect Leader had come to Nanman and ended the Great War against the Five Poisons Sect—a war that had continued for more than a century after the Nanman Beast Palace was founded.
 
-The Five Poisons Sect’s deadly poison, which had taken countless lives, and the venomous beasts it commanded had melted like candle wax before the flames he summoned.
+The Five Poisons Sect’s deadly poison had taken countless lives. Its venomous beasts had done the same. Both had melted like candle wax before the flames he summoned.
 
-It was even said that the Sect Leader of the Five Poisons Sect at the time—who had reduced one hundred of the Nanman Beast Palace’s finest warriors to a mere handful of poisonous water—could not withstand his power and fell to his knees.
+Even the Sect Leader of the Five Poisons Sect, who had reduced a hundred of the Beast Palace’s finest warriors to a puddle of poisonous water, had been unable to withstand him. The man had fallen to his knees.
 
 *No. The story said he burned alive.*
 
@@ -108,9 +108,9 @@ For the killing of one man, it was an absurd number.
 
 The Fire Gate Clan’s Sect Leader had supposedly destroyed the Five Poisons Sect through sheer martial prowess. The stories they had grown up with still frightened them, but a legend was a legend.
 
-No—even if he came back to life, it was impossible for him to face three thousand Nanman warriors and beasts of prey alone.
+Even if that Sect Leader returned from the dead, he could not face three thousand Nanman warriors and beasts alone.
 
-It had to be impossible.
+He couldn’t.
 
 “Have you forgotten? Jin Taekyung is a traitor who put Nanman in danger. He’s a Han Chinese man worse than a beast, one who has forgotten the debt of the Great Faction War.”
 
@@ -148,7 +148,7 @@ The world shook as the dark shape drew nearer. The Captain stared, eyes wide.
 
 He did not notice that he could no longer feel the wind.
 
-He did not know that the three thousand beasts charging relentlessly toward Ailao Mountain had stopped in place as though by prior agreement.
+Nor did he notice that the three thousand beasts racing toward Ailao Mountain had stopped as one.
 
 Grrrr.
 
@@ -160,13 +160,13 @@ Leopards, bears, wolves—every beast, large and small, did the same.
 
 Rustle.
 
-They curled their tails and lowered their massive bodies to the ground.
+They tucked their tails and lowered their bodies to the ground.
 
 It was an instinct etched into them at birth: reverence for a king returned after long ages, and a command they could not resist.
 
 —Kraaaaaar!
 
-Along with a roar that devoured the world, blue-white eyes shone in the darkness.
+A roar seemed to swallow the world. Blue-white eyes shone in the dark.
 
 * * *
 
@@ -216,7 +216,7 @@ Or because he wanted to delay *that moment*, drawing closer even now?
 
 It left a bitter taste. After coming this far, he still had regrets. And the woman who had once scolded him without a second thought was now too afraid to meet his eyes.
 
-*And this is the path I have walked all this time, I suppose.*
+*This is the path I chose.*
 
 Empty sentiment. Nothing more.
 
@@ -252,7 +252,7 @@ There was nothing Baeksang could not command.
 
 “…Yes, my lord.”
 
-Baeksang watched as the palace attendants, beginning with the old woman, were dragged out in a line, their faces drained of color. Then he muttered inwardly.
+The guards obeyed. Baeksang watched as they led the old woman away, then the other attendants behind her, their faces drained of color.
 
 *Perhaps leaving will be a mercy to you.*
 
@@ -264,7 +264,7 @@ Even Baeksang did not know how much blood would flow before it was over.
 
 Perhaps that was why the past month had shaken him more than any other, though he had lived like a man of iron for more than forty years in pursuit of a single goal.
 
-*A whim. Useless in the end.*
+*A change of heart. Useless in the end.*
 
 Yayul Cheok. Jin Taekyung.
 
@@ -274,7 +274,7 @@ Step. Step.
 
 With every step came another thought.
 
-What had become of those two since they disappeared? Where were they now? Did the Southern Heaven Demon Empress know what he had done without anyone else finding out—his final whim?
+What had become of those two since they disappeared? Where were they now? Did the Southern Heaven Demon Empress know what he had done without anyone else finding out—his final change of heart?
 
 *Too late. No one can undo it now.*
 
@@ -284,7 +284,9 @@ Beyond it lay the highest dais in the Inner Palace. Below it would be the ten th
 
 *Noon. Tomorrow at noon. Gather every warrior in the palace.*
 
-Remembering the Southern Heaven Demon Empress’s message delivered the previous night, Baeksang suddenly opened his mouth.
+The Southern Heaven Demon Empress’s message from the previous night was clear. The grand plan was already complete.
+
+Baeksang spoke suddenly.
 
 “The sun is hot.”
 
