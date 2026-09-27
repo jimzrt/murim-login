@@ -1,0 +1,25 @@
+{
+  "summary": "The chapter is largely faithful. Two small shifts alter the source image and a dialogue beat.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 25–27",
+      "current": "Consumed by demonic qi, it is a spark that could ignite another calamity.",
+      "defect": "The Korean compares the artifact to the spark of another calamity. “Could ignite another calamity” changes that image into an explicit causal claim.",
+      "replacement": "Consumed by demonic qi, it is like the spark of another calamity.",
+      "rationale": "The accepted baseline preserves the source’s “spark of another calamity” image; the assembled version recasts it as the artifact igniting a calamity.",
+      "confidence": 0.91
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 255",
+      "current": "Go on.",
+      "defect": "The source repeats the demand to give up the tiger with “해 줘” (“Do it for me”), not an encouragement to proceed. “Go on” softens and changes the coercive comic beat.",
+      "replacement": "Do it for me.",
+      "rationale": "The preceding demand is “Give him to me”; this line continues the demand rather than inviting the Beast Miao King to continue.",
+      "confidence": 0.87
+    }
+  ]
+}

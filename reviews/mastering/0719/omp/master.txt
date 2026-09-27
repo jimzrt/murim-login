@@ -30,7 +30,7 @@ That wasn’t the only holographic window to appear before me. I quickly scanned
 >
 > **Failure:** Increase in the Corrupted Divine Artifact’s demonic qi
 
-After reading the Quest information window to the end, I muttered quietly to myself.
+I read to the end, then answered silently.
 
 *Accept.*
 
@@ -40,7 +40,7 @@ After reading the Quest information window to the end, I muttered quietly to mys
 
 Unlike some of the Quests I’d been more or less forced into, this one gave me a choice. But as far as I was concerned, refusing wasn’t an option.
 
-*I can’t keep suppressing the demonic qi forever.*
+*We can’t keep suppressing the demonic qi forever.*
 
 The sacred stone—no, the Corrupted Divine Artifact—was a bomb that could go off at any moment. We were lucky the Beast Miao King had been keeping it. An ordinary Peak master couldn’t have withstood the demonic qi inside it.
 
@@ -50,13 +50,13 @@ How many people had we lost closing the rift? For the sake of the guardian spiri
 
 I wasn’t the only one who thought so.
 
-“Demonic qi of this magnitude… This won’t do.”
+“This much demonic qi… No.”
 
-Jeok Cheongang muttered with a frown, then gestured toward the Beast Miao King and me.
+Jeok Cheongang frowned and waved the Beast Miao King and me back.
 
 “Stand aside. This old man will handle it.”
 
-As if he had guessed what Jeok Cheongang meant, the Beast Miao King’s eyes widened.
+The Beast Miao King’s eyes widened as he realized what Jeok Cheongang meant.
 
 “Old Master Jeok, surely you don’t mean…”
 
@@ -92,7 +92,7 @@ The words slipped out after a moment’s thought. Jeok Cheongang stopped just as
 
 “Why?”
 
-“I gave it some thought, and I have a feeling things could get ugly if we mess with it carelessly.”
+“I’ve been thinking. If we break it without knowing what’ll happen, things could get ugly.”
 
 “What?”
 
@@ -102,9 +102,9 @@ His eyes widened at my serious tone.
 
 “……”
 
-Jeok Cheongang looked at my thoroughly deflated expression, cleared his throat, and opened his mouth.
+He had me there. Not in the way he meant, but I couldn’t think of a word to say.
 
-“If we leave it like this, it will become a source of trouble sooner or later. We need to deal with it as quickly as possible.”
+Jeok Cheongang saw my expression, cleared his throat, and went on. “If we leave it alone, it’ll cause trouble sooner or later. We should deal with it as soon as possible.”
 
 “I know.”
 
@@ -132,13 +132,13 @@ Too much blood had been spilled already.
 
 People had died fighting to the bitter end. Others had lost their minds, become monsters, and died that way. Even people who had never held a sword had died in considerable numbers trying to escape that hellscape.
 
-If the guardian spirit hadn’t sacrificed itself to close the rift, the casualties would have multiplied like a snowball by now…
+If the guardian spirit hadn’t sacrificed itself to close the rift, the casualties would be mounting even now…
 
 Wait.
 
 *The guardian spirit?*
 
-The memories from the day I first met it until now brushed past my eyes and ears one after another, racing toward a single thread of enlightenment.
+A sudden sense of déjà vu came over me. Those words circled in my mind as memories from the day I first met it flashed past, one after another, drawing me toward a single realization.
 
 And then—
 
@@ -148,13 +148,13 @@ The sound escaped before I knew it.
 
 Jeok Cheongang and the Beast Miao King stared at me as if wondering what the hell was wrong with me. Jeok Cheongang spoke first.
 
-“Yeah, why the fuck are you suddenly throwing a fit all by yourself again? Let this old man in on it.”
+“Why the fuck are you carrying on by yourself now? Let this old man in on it.”
 
-“Have you perhaps thought of some brilliant strategy?”
+“Have you thought of a way?” the Beast Miao King asked.
 
 Maybe. I didn’t know whether it deserved to be called a plan. Not yet. But if I was right, it was worth trying.
 
-*At least we won’t lose anything by trying.*
+*At least we won’t lose anything.*
 
 I looked from the still-open Quest window to the two men waiting for an answer, then shrugged.
 
@@ -174,25 +174,25 @@ Jeok Cheongang inspected the tiger running beneath him with interest. The Beast 
 
 “He’s one of the bravest and fastest tigers in the Nanman Beast Palace. He’s descended from the one that fought alongside me in the Great Faction War.”
 
-“Oh-ho. That huge one crouching in front of the barracks? I remember him. I thought he looked familiar.”
+“Oh? That big fellow who used to crouch outside your barracks? I remember him. Thought this one looked familiar.”
 
 Yeah. Who needed an Azure Dragon on the left and a White Tiger on the right?
 
 I had the Fire King on my left and the Miao King on my right. My chest swelled at the thought of that insane lineup. If the Southern Heaven Demon Empress came back to life, these two could take her apart.
 
-The feeling of security was more comforting than a bowl of gukbap could have been.[^1] The quiet conversation between the two men reached my ears.
+I felt safer than I would with a bowl of gukbap in front of me.[^1] Their conversation continued beside me.
 
 “The more I look at him, the more I like him. Good stamina, quick feet. Looks clever, too.”
 
 The Beast Miao King smiled with pride.
 
-“I raised him with particular care. He was such a picky eater as a cub that I had quite a time of it. Whenever that happened, I even fed him milk myself.”
+“I took special care raising him. He was such a picky eater as a cub that I had to feed him milk myself.”
 
 “What? *You* fed him?”
 
 “……It’s a figure of speech. Not what you’re thinking, Old Master Jeok.”
 
-Jeok Cheongang studied the Beast Miao King’s massive pecs before nodding.
+Jeok Cheongang studied the Beast Miao King’s massive chest, then nodded.
 
 “If you say so.”
 
@@ -204,7 +204,7 @@ The smile vanished from the Beast Miao King’s face.
 
 “Pardon?”
 
-“Why are you asking again? Were you planning to make him run his legs off all the way back to the Central Plains?”
+“Why ask? Were you planning to make me run my legs off all the way back to the Central Plains?”
 
 “O-of course not. But I raised the one you’re riding like a son in my old age…”
 
@@ -220,9 +220,9 @@ The smile vanished from the Beast Miao King’s face.
 
 The Beast Miao King looked at the tiger Jeok Cheongang had pointed out and shook his head in alarm.
 
-“Gasp. Anyone but him. I only borrowed him for a while in the first place.”
+“Oh! Anyone but him. I’ve only borrowed him for a little while.”
 
-“What if this old man were to take him?”
+“What if I say I’m taking him?”
 
 “I-I didn’t raise him myself. And how could I, as a father, give away someone my son thinks of as a brother?”
 
@@ -240,7 +240,7 @@ So much for my chest swelling with pride.
 
 Was this really the senile Fire King I knew? The Fire King truly was a legend…
 
-As I tried to steady my suddenly shrunken chest, the creature carrying me let out a low growl.
+As I tried to recover from the spectacle, the tiger carrying me gave a low growl.
 
 *Grrr.*
 
@@ -260,9 +260,9 @@ His voice trailed off. Ahead of us stood a bare mountain, almost completely burn
 
 No, even that sorry-looking mountain had a name: Ailao Mountain. Everyone who lived in this land knew it.
 
-Just as I was about to explain that to him, Jeok Cheongang’s eyes flew open and he shouted,
+I was about to explain when Jeok Cheongang’s eyes flew wide.
 
-“What shameless son of a bitch burned down these precious mountains, trees, and grass?”
+“What goddamn son of a bitch burned all those precious trees and plants?”
 
 “……”
 
@@ -272,7 +272,7 @@ For an instant, the Beast Miao King and I exchanged a heated glance. Then I answ
 
 “Dark Heaven.”
 
-Some truths are beautiful when left unknown.
+Some truths are better left unknown.
 
 * * *
 
@@ -284,7 +284,7 @@ Once Jeok Cheongang realized the sorry-looking mountain was our destination, he 
 
 What a ridiculous question.
 
-Today wasn’t Arbor Day, and even if it had been, I wouldn’t have planted any trees. I had come with these two to Ailao Mountain, which had been reduced to a bare mountain, for a purpose that had been decided from the beginning.
+It wasn’t Arbor Day. Even if it had been, I wouldn’t be planting trees. I’d brought them to what remained of Ailao Mountain for a reason.
 
 “This way.”
 
@@ -306,7 +306,7 @@ I set the Corrupted Divine Artifact on the ground. Demonic qi drifted from it li
 
 But though darkness had consumed it, its essence had not changed.
 
-*Whoosh…*
+*Shhhhhh.*
 
 The ground pulsed like a beating heart. A veil lifted from another world that had been hidden for countless ages.
 
