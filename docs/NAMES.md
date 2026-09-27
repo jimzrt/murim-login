@@ -2580,3 +2580,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 망자의 군주 | **Lord of the Dead** | Title displayed for the revived Undead King. |
 | 언데드 킹 | **Undead King** | The revived form of the Skeleton King. |
 | 예정된 붕괴 | **The Foreordained Collapse** | Title of the new Main Quest. |
+| 나포박호 | **Lop Nur** | Lake crossed by the Imperial Army. |
+| 화정 | **Hejing** | Place expected to be reached by the Imperial Army. |
