@@ -18,6 +18,8 @@ Chaos erupted around us at once. Reporters from various networks came swarming o
 
 *You’re the real jinsang here, asshole.*
 
+[^1]: The Japanese address “Jin-san” sounds like the Korean word *jinsang*, meaning an obnoxious nuisance.
+
 The reporters from various countries hadn’t been satisfied with the press conference and latched onto me, but they couldn’t break through the Hunter security detail.
 
 Though, of course, one man did manage to push close enough to keep shoving a microphone in my face.
@@ -48,7 +50,7 @@ Ever since then, whenever I searched my name on a web portal, “Jin Taekyung si
 
 Xiao Shen, who had been standing there bewildered because he couldn’t understand our conversation in Korean, bowed his head.
 
-“Yes, hyung.”[^2]
+“Yes, hyung.”
 
 “Crack down on him.”
 
@@ -136,7 +138,7 @@ His eyes were shining with anticipation. I let out a quiet laugh.
 
 “I didn’t refuse at first.”
 
-Magic Johnson drained his five-hundred-milliliter[^3] can of beer in one gulp, then continued gravely.
+Magic Johnson drained his five-hundred-milliliter can of beer in one gulp, then continued gravely.
 
 “I was about to fire off a spell.”
 
@@ -186,7 +188,7 @@ The edge of my hand, wrapped in Force, swept down through empty air, and the var
 
 “Jin. What on earth…?”
 
-During my battle with the Arch Lich, I had opened my Middle Dantian[^4] and gained the ability to see the texture of qi.[^5]
+During my battle with the Arch Lich, I had opened my Middle Dantian and gained the ability to see the texture of qi.
 
 That had made things like this possible, but I offered no explanation. I simply stared straight ahead.
 
@@ -224,13 +226,13 @@ Where the hell had this bastard learned Korean?
 
 “Hmm. Beautiful, as expected. Nothing about him looks out of place.”
 
-Magic Johnson kept smiling in satisfaction like a plastic surgeon in Gangnam.[^6]
+Magic Johnson kept smiling in satisfaction like a plastic surgeon in Gangnam.
 
-“Even after seeing him again, I have to say he’s an unprecedented masterpiece. I may be the first mage in human history to carve a Magic Formation into a Skeleton’s bones—and not merely a Skeleton, but an entirely new Named Monster.”
+“Even after seeing him again, I have to say he’s an unprecedented masterpiece. I may be the first mage in human history to carve a magic circle into a Skeleton’s bones—and not merely a Skeleton, but an entirely new Named Monster.”
 
 This wasn’t just a surgeon praising his own handiwork. It was true.
 
-Glossy blond hair. Mysteriously gleaming golden eyes. A well-balanced build nearly 190 centimeters[^7] tall, with long limbs bearing just the right amount of body hair.
+Glossy blond hair. Mysteriously gleaming golden eyes. A well-balanced build nearly 190 centimeters tall, with long limbs bearing just the right amount of body hair.
 
 And that wasn’t all.
 
@@ -282,7 +284,7 @@ Magic Johnson, who was using a translation spell, nodded with a pleased smile.
 
 “Thank you, Johnson.”
 
-*Thank you, Johnson, my ass. When did he learn basic English, too?*
+*“Thank you, Johnson,” my ass. When did he learn basic English, too?*
 
 I immediately rounded on Magic Johnson.
 
@@ -312,7 +314,7 @@ I muttered as I felt a headache coming on.
 
 “Perhaps not right now, but I can soon obtain United States citizenship.”
 
-“You should write a web novel for KakaoPage[^8] instead. What kind of idiot comes up with that bullshit?”
+“You should write a web novel for KakaoPage instead. What kind of idiot comes up with that bullshit?”
 
 Magic Johnson shyly raised one hand.
 
@@ -332,9 +334,9 @@ I clutched my throbbing forehead and turned to Magic Johnson.
 
 “Of course. That was your request. But I heard our friend here desperately wanted this.”
 
-All of this had begun shortly after I first regained consciousness, at the Skeleton King’s insistence.
+All of this had begun shortly after I first regained consciousness.
 
-He had loudly complained about how long he was expected to remain trapped inside the cramped Inventory.
+The Skeleton King had loudly complained about how long he was expected to remain trapped inside the cramped Inventory.
 
 His position was that he deserved an appropriate reward in light of his major contributions during the battle. From Team Leader Choi’s perspective and mine, that was a perfectly reasonable demand.
 
@@ -418,14 +420,4 @@ I left the Skeleton King where he was and rose from my seat, dazedly picking up 
 
 There was no mistake.
 
-It was the exact pattern I had seen in Sichuan—not the modern Chinese province, but Sichuan in Murim.[^9]
-
-[^1]: The Japanese address *Jin-san* sounds like the Korean word *jinsang*, meaning an obnoxious nuisance.
-[^2]: *Hyung* is a Korean term a younger man uses to address an older man with whom he is close.
-[^3]: Five hundred milliliters is about 16.9 US fl oz.
-[^4]: A *dantian* is an energy center in Chinese martial traditions. The Middle Dantian is associated with the chest.
-[^5]: *Qi* is vital energy in Chinese martial traditions.
-[^6]: Gangnam is a district of Seoul known for its concentration of cosmetic-surgery clinics.
-[^7]: 190 centimeters is about 6 ft 3 in.
-[^8]: KakaoPage is a Korean digital platform that publishes web fiction.
-[^9]: *Murim* refers to the martial-arts world in Korean fiction.
+It was the exact pattern I had seen in Sichuan—not the modern Chinese province, but Sichuan in Murim.
