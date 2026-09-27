@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "Death Knights raced through the air on ghostly horses, each commanding a legion as they filled the vast ruins.",
+      "defect": "The English makes it sound as though the Death Knights themselves fill the ruins; the Korean has them lead their legions to do so.",
+      "id": "F01",
+      "rationale": "각자의 군단을 통솔하여 makes their command of the legions part of how the ruins are filled.",
+      "replacement": "Death Knights raced through the air on ghostly horses and led their legions to fill the vast ruins.",
+      "severity": "major",
+      "source": "유령마를 타고 허공을 질주한 데스나이트(Death Knight)들은 각자의 군단을 통솔하여 드넓은 폐허를 메웠다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "—The lives of two humans—nothing compared to the lives of billions of your human kind.",
+      "defect": "Morgoth demands two humans, not their lives. The draft makes the tribute sound like their deaths.",
+      "id": "F02",
+      "rationale": "고작 두 명의 인간을 names the people as the demanded tribute; 목숨 applies to the billions used for comparison.",
+      "replacement": "—Just two humans—a paltry price next to the lives of billions of your kind.",
+      "severity": "critical",
+      "source": "수십억 인간족의 목숨과는 비교할 수도 없는, 고작 두 명의 인간을."
+    },
+    {
+      "confidence": 0.97,
+      "current": "└ You motherfucker, you wanna die?",
+      "defect": "The draft corrects the deliberate typo in the angry reply, removing the basis for the next commenter’s observation.",
+      "id": "F03",
+      "rationale": "The broken spelling of 시ㅂㅏㄹ is why the following comment says the Korean is so worked up he made a typo.",
+      "replacement": "└ You motherfukcer, you wanna die?",
+      "severity": "major",
+      "source": "└ 시ㅂㅏㄹ새끼가 뒤질라고."
+    },
+    {
+      "confidence": 0.94,
+      "current": "At last, people saw footage of the monster army taking control of all of Russia and advancing in every direction. They had no choice but to fall silent.",
+      "defect": "The draft presents the takeover of Russia as still underway; the army has already seized the entire country and is advancing beyond it.",
+      "id": "F04",
+      "rationale": "장악하고 establishes control of Russia before the ongoing advance described by 진격하는.",
+      "replacement": "At last, people saw footage of the monster army that had seized all of Russia and was advancing in every direction. They had no choice but to fall silent.",
+      "severity": "critical",
+      "source": "마침내 러시아 전역을 장악하고, 사방으로 진격하는 몬스터 군단의 모습을 영상으로 확인한 사람들은 모두 침묵을 택할 수밖에 없었다."
+    }
+  ],
+  "summary": "The draft changes Morgoth’s demanded tribute into two deaths, obscures who fills the ruins, loses a typo that drives a joke, and shifts Russia’s conquest from completed to ongoing.",
+  "version": 1
+}
