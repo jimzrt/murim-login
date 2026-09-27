@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Sometimes a dream is so wonderful, so hard to leave behind, that you don’t want to wake up. Even after you do, you keep your eyes closed a while longer, going over everything that happened in it.",
+      "defect": "The source opens with a standalone observation, “Sometimes that happens,” before explaining the kind of moment. The assembled copy drops that beat, which the accepted baseline preserved.",
+      "id": "F01",
+      "rationale": "The Korean has a separate opening sentence at line 5, followed by the elaboration at line 7.",
+      "replacement": "Sometimes, that happens. Sometimes a dream is so wonderful, so hard to leave behind, that you don’t want to wake up. Even after you do, you keep your eyes closed a while longer, going over everything that happened in it.",
+      "severity": "minor",
+      "source": "Lines 5–7"
+    },
+    {
+      "confidence": 0.88,
+      "current": "He did. Though it was less a proposal than a threat from someone who had my life in his hands.",
+      "defect": "“Had my life in his hands” conveys control but loses the source’s image of gripping and wielding her lifeline, which makes the threat more active and menacing.",
+      "id": "F03",
+      "rationale": "The Korean describes a threat like holding her lifeline in his fist and shaking it; the accepted baseline’s “toy with my life” retained more of that menace.",
+      "replacement": "He did. Though it was less a proposal than a threat to toy with my life, which he held in his grasp.",
+      "severity": "minor",
+      "source": "Line 173"
+    }
+  ],
+  "summary": "The chapter is mostly faithful, but the assembled copy drops a deliberate one-to-nine/tenth-fact joke and omits a source beat at the opening. One dialogue line also weakens the threat’s specific force.",
+  "version": 1
+}

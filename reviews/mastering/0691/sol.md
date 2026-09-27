@@ -52,13 +52,13 @@ I shrugged.
 
 “…Sleep? Are you out of your mind?”
 
-“No. In fact, everything is still spinning in front of my eyes.”
+“Yeah. Everything’s still spinning.”
 
 It was true. Just sitting up made my whole body ache and left me dizzy.
 
 Still…
 
-“I do seem to be alive. Definitely.”
+“I’m alive. Pretty sure of that.”
 
 Yes. I’d survived again.
 
@@ -82,8 +82,6 @@ Blue-white eyes shone as they watched me warily. Behind them, a tail spun like a
 
 —Kraaang!
 
-With a whoosh!
-
 Muyaho hurled his enormous body at me as though he’d been waiting for those words.
 
 My not-quite-healed body screamed beneath his weight, but that was all right. It was a good kind of pain. It reminded me I was alive.
@@ -96,7 +94,7 @@ It was starting to feel less good.
 
 * * *
 
-Fortunately, Muyaho's assassination attempt—which had made me suspect he might actually be Dark Heaven—ended in failure. After confirming that my ribs were still in place, I asked what I was most curious about.
+Fortunately, Muyaho’s assassination attempt—which had me wondering if he worked for Dark Heaven—stopped short of killing me. Once I’d confirmed my ribs were still where they belonged, I asked the question on my mind.
 
 “Where’s Heugung? Why don’t I see him?”
 
@@ -108,7 +106,7 @@ Yohi’s face stiffened the instant I said his name.
 
 “Yes. It’s what you’re thinking.”
 
-“Heugung proposed to you?”
+“He proposed to you?”
 
 “…!”
 
@@ -142,7 +140,7 @@ Only then did I remember the Quest to follow the tracking scent. Now I understoo
 
 I shouldn’t have said it at all. To hell with his looks—the mood had gone cold long ago. Yohi answered with a sigh.
 
-“It doesn't matter. I survived thanks to him.”
+“It doesn’t matter. I’m alive thanks to you.”
 
 “Oh, and I’m sorry about the proposal thing.”
 
@@ -158,13 +156,13 @@ I shouldn’t have said it at all. To hell with his looks—the mood had gone co
 
 “Uh, sorry. My head’s a mess. I keep saying stupid things.”
 
-It was true that I had once suspected Heugung, but after running into the two old monsters in the Poisonblood Grounds, I had erased even that slight suspicion.
+I still felt blindsided. I’d suspected Heugung once, but after we ran into those two old monsters in the Poisonblood Grounds, I’d let even that small suspicion go.
 
-*But Heugung, that bastard, was Dark Heaven's lackey?*
+*And Heugung, that bastard, was working for Dark Heaven.*
 
 He’d been the knife in the sleeve. One last move the Southern Heaven Demon Empress had kept in reserve.
 
-And the question that came to me again at this point was how Yohi and Muyaho had managed to avoid that move.
+Which raised another question: how had Yohi and Muyaho escaped him? From what Yohi had said, things had been bad.
 
 “What happened to Heugung?”
 
@@ -188,9 +186,7 @@ The rest of her account was brief. They didn’t know where they were or how muc
 
 What was so hard to believe about a pond that healed wounds?
 
-Only people of this world would be unable to understand such a phenomenon.
-
-I had come from the modern world, where potions, Magic, monsters, and Gates existed. Even if a few Orcs crawled out from those bushes right now, I was confident I wouldn't bat an eye.
+Maybe someone from this world would struggle to make sense of it. I came from a modern world with potions, Magic, monsters, and Gates. If a few Orcs crawled out of those bushes right now, I wouldn’t bat an eye.
 
 “…”
 
@@ -224,7 +220,7 @@ And Yohi was about to give me one more.
 
 Splash.
 
-My trembling fingertips disturbed the surface of the water, which had been slowly settling. I swallowed a groan as I watched the ripples spread into the distance.
+My hand trembled, stirring the water as it began to settle. I watched the ripples spread and swallowed a groan.
 
 *The apparition of Ailao Mountain…*
 
@@ -246,13 +242,13 @@ I didn’t know what it was or why it had done that. Frowning, I gave the System
 
 Ding.
 
-With a clear bell only I could hear, holographic windows that had been held back burst into the air.
+A clear bell sounded, audible only to me, and the holographic windows I’d put off checking sprang into the air.
 
 > **System**
 >
 > —Level Up!
 >
-> —Some injuries have recovered due to the effects of Level Up!
+> —Some injuries have healed due to the effects of Level Up!
 >
 > —Some Status effects have been removed due to the effects of Level Up!
 >
@@ -270,7 +266,7 @@ With a clear bell only I could hear, holographic windows that had been held back
 >
 > —You discovered **???**!
 >
-> —A sudden Quest, **???**, is pending. It will proceed once all activation conditions have been met!
+> —A sudden Quest, **???**, is pending. It will begin once all activation conditions have been met!
 
 I was only seeing them now. The System had kept doing its job while I was unconscious.
 
@@ -278,7 +274,7 @@ The problem was that even a System as all-knowing as a god couldn’t give me a 
 
 *Those question marks are supposed to bother the hell out of me, right?*
 
-As I stared intently at the last two notifications—the ones that bothered me most—Muyaho, who had been circling me for a while, thrust his enormous head at me.
+I was staring at the last two notifications when Muyaho, who’d been circling me for a while, nudged me with his enormous head.
 
 —Nnngh. Ngh.
 
@@ -290,11 +286,11 @@ As I stared intently at the last two notifications—the ones that bothered me m
 
 I stopped and looked up.
 
-Something was looking down at this place from atop the cliffs encircling the pond, without giving off the slightest hint of its presence.
+Something stood atop the cliffs encircling the pond, watching us without giving off the slightest sign of its presence.
 
 *That’s…*
 
-Before I could finish the thought, an unexpected voice rang out inside my head.
+Before I could finish the thought, a voice sounded in my head.
 
 —You’re awake, human.
 
@@ -302,7 +298,7 @@ Before I could finish the thought, an unexpected voice rang out inside my head.
 
 —Come up. We need to talk.
 
-The time when an imugi that had failed to become a dragon sent a thought into my mind from within a broad, deep river.
+At once, I remembered what had happened a few months ago in a broad, deep river, when an imugi that had failed to become a dragon sent its thoughts into my mind.
 
 * * *
 
@@ -314,7 +310,7 @@ The apparition of Ailao Mountain. It was the same one.
 
 “What… are you?”
 
-At my first words, the Black Tiger stared at me with eyes of unfathomable depth.
+The Black Tiger held my gaze with eyes whose depths I couldn’t fathom.
 
 —I don’t know.
 
@@ -324,11 +320,11 @@ At my first words, the Black Tiger stared at me with eyes of unfathomable depth.
 
 “…The apparition of Ailao Mountain.”
 
-—I haven't heard that name in a long time. Was it around two hundred years ago?
+—I haven’t heard that one in a long time. Has it been two hundred years?
 
 It sent the thought calmly and took a step. It clearly had a physical body, yet it moved like a ghost. I heard nothing and sensed no movement at all.
 
-Just as I was seized by the sensation that every hair on my body was standing on end, the thought continued.
+Every hair on my body seemed to stand on end. Then another thought reached me.
 
 —But you know what kind of being I am, human.
 
@@ -340,6 +336,6 @@ The Black Tiger slowly turned and opened its mouth. Between its jaws lay somethi
 
 The Water God Dragon’s Origin Essence.
 
-“When the hell did you steal this, you bastard?”
+“When the hell did you steal that, you bastard?”
 
 [^1]: Kim Jwa-jin (1889–1930) was a Korean independence activist and military commander.
