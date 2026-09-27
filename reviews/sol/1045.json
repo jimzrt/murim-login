@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The glaring white flash that had made everyone shield their eyes faded.",
+      "defect": "The draft makes everyone shield their eyes; the source says the flash obscured their vision.",
+      "id": "F01",
+      "rationale": "The flash covers what they can see; no one is described raising a hand or otherwise shielding their eyes.",
+      "replacement": "The blinding white flash that had obscured everyone’s vision faded.",
+      "severity": "critical",
+      "source": "모두가 눈 앞을 가렸던 새하얀 섬광이 사라진 빈자리를"
+    },
+    {
+      "confidence": 0.99,
+      "current": "the woman called the Grand Mage—or the Grand Sorceress—",
+      "defect": "Grand Sorceress conflicts with the supplied glossary, which renders both titles as Grand Mage.",
+      "id": "F02",
+      "rationale": "Both 대마도사 and 대술사 have the binding English rendering Grand Mage.",
+      "replacement": "the woman known as the Grand Mage",
+      "severity": "minor",
+      "source": "대마도사, 혹은 대술사라 불리는 그녀의"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The woman called the Grand Mage—or the Grand Sorceress—silently gazed at the hellscape spread out below the hill.",
+      "defect": "The later occurrence repeats the non-glossary title Grand Sorceress.",
+      "id": "F03",
+      "rationale": "The supplied glossary renders both Korean titles as Grand Mage; this is a separate, nonoverlapping draft occurrence.",
+      "replacement": "The Grand Mage silently gazed at the hellscape spread out below the hill.",
+      "severity": "minor",
+      "source": "대마도사, 혹은 대술사라 불리는 그녀는 언덕 아래에 펼쳐진 불지옥을 말없이 바라보았다."
+    }
+  ],
+  "summary": "One altered physical action and two uses of a title that conflicts with the supplied glossary.",
+  "version": 1
+}
