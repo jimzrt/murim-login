@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "No—more precisely, she and I, now close enough to touch.",
+      "defect": "“Close enough to touch” makes the distance shorter than the source establishes.",
+      "id": "F01",
+      "rationale": "코앞까지 다가온 conveys that Jin has come right up to her, but the passage later specifies that nearly one jang still separates them.",
+      "replacement": "No—more precisely, it was just her and me, now almost face-to-face.",
+      "severity": "critical",
+      "source": "아니, 정확히는 어느덧 코앞까지 다가온 나와 단둘이."
+    },
+    {
+      "confidence": 0.91,
+      "current": "With them wrapped tight around my limbs, waist, and neck, I reached out and tore them apart.",
+      "defect": "The pressure Jin feels from the coils is omitted.",
+      "id": "F02",
+      "rationale": "전해지는 압박감에 explicitly connects the roots’ constriction to his response.",
+      "replacement": "Feeling the pressure of the roots wrapped tight around my limbs, waist, and neck, I reached out and tore them apart.",
+      "severity": "minor",
+      "source": "사지 는 물론 허리 전체와 목을 칭칭 휘감은 그것으로부터 전해지는 압박감에, 나는 손을 뻗어 그대로 잡아 뜯었다."
+    }
+  ],
+  "summary": "Two localized fidelity issues: the draft narrows the distance between Jin and the Grand Mage and omits the pressure of the binding roots.",
+  "version": 1
+}
