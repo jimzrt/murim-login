@@ -2554,3 +2554,7 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑룡공 | **Black Dragon Duke** | Title in Morgoth's System announcement. |
 | 모르고스 | **Morgoth** | The being who answers the summoning. |
 | 크렘린 궁 | **Kremlin** | Site of the deep underground rumble triggered by Furin’s concealed button. |
+| 차르 봄바 | **Tsar Bomba** | The original name of Furin’s secret weapon. |
+| 블라디미르 | **Vladimir** | Furin’s new name for the Magic Gem-powered weapon. |
+| 리틀보이 | **Little Boy** | The bomb dropped on Hiroshima, used for comparison. |
+| 드래곤 레어 | **Dragon Lair** | Morgoth’s newly created stronghold. |
