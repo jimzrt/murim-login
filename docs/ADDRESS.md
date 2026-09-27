@@ -1564,3 +1564,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 혈주 | 곤륜오선 | hostile opponent to elder martial masters | you old men | insulting and threatening | Threatens to tear them apart and orders them to leave. |
 | 학의 | 학수 | Junior Brother addressing his Senior Brother | Senior Brother | Formal and firm | Uses 대사형. |
 | 학수 | 청허자 | Disciple addressing his Master | Master | Respectful and formal | Addresses him as 스승님. |
+| 청허자 | 파륜 | former allies and rivals | you | familiar and solemn | Cheongheoja recalls the time they were “us” and asks whether Pa Ryun remembers it. |
+| 파륜 | 청허자 | former allies and rivals | Cheongheoja | familiar and composed | Pa Ryun greets Cheongheoja by name. |
+| 청허자 | 태군악 | former fellow Daoists, now estranged | you | cold and reproachful | Cheongheoja says their former relationship cannot return after irreversible choices. |
+| 태군악 | 청허자 | former fellow Daoists, now estranged | fellow Daoist | familiar and reproachful | Tae Gunak recalls that Cheongheoja once called him a fellow Daoist. |
