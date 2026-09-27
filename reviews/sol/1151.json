@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Regrets about life? Fear of death?\n\nOf course he had them.",
+      "defect": "“Regrets about life” suggests remorse rather than reluctance to give up living.",
+      "id": "F01",
+      "rationale": "삶에 대한 미련 refers to attachment to life, which the following lines develop through his desire to live.",
+      "replacement": "Was he reluctant to let go of life? Afraid of death?\n\nOf course he was.",
+      "severity": "major",
+      "source": "삶에 대한 미련이나 두려움?\n\n왜 없겠나."
+    },
+    {
+      "confidence": 0.96,
+      "current": "With a mere Magic Gem taken from some lowly monster, you dare challenge me?",
+      "defect": "The indefinite singular makes one gem sound like the weapon’s power source, despite the later account of countless gems used in its creation.",
+      "id": "F02",
+      "rationale": "The source does not specify one gem; its later explanation explicitly describes numerous Magic Gems.",
+      "replacement": "With Magic Gems taken from lowly monsters, you dare challenge me?",
+      "severity": "major",
+      "source": "하등한 몬스터로부터 얻은 마정석 따위로, 감히 나를?"
+    },
+    {
+      "confidence": 0.9,
+      "current": "It stood atop black land, surrounded not by concrete and marble but by air saturated with dark magical power. It was overwhelming, yet beautiful. Morgoth smiled as he gazed at its spires, which pierced the clouds.",
+      "defect": "“Surrounded not by concrete and marble” turns a contrast about the castle’s substance into one about its surroundings. “Dark” changes dense magical power, and plural “spires” changes the source’s singular spire.",
+      "id": "F03",
+      "rationale": "The source contrasts concrete and marble with magically saturated air and black earth in describing the castle’s construction and setting, then identifies one spire.",
+      "replacement": "In place of concrete and marble, it stood upon pitch-black earth amid air saturated with dense magical power. It was overwhelming, yet beautiful. Morgoth smiled as he gazed at its spire piercing the clouds.",
+      "severity": "major",
+      "source": "콘크리트와 대리석 대신 짙은 마력으로 점칠 된 공기와 칠흑빛 땅 위에 우뚝 선 그것은 압도적이면서도 아름다웠고, 모르고스는 구름을 뚫고 솟구친 첨탑(尖塔)을 바라보며 웃었다."
+    }
+  ],
+  "summary": "The draft changes Furin’s attachment to life into regret, implies the weapon uses a single Magic Gem, and misstates what the castle is built from.",
+  "version": 1
+}
