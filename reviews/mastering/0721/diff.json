@@ -1,0 +1,3029 @@
+{
+  "baseline_blocks": 197,
+  "baseline_sha256": "fe63ed6bdf7544562e7ba802f67183938d09324333a481fc26d7ba2d041e8cc2",
+  "global_terminology_alerts": [
+    {
+      "korean": "일신",
+      "preferred": "One God"
+    },
+    {
+      "korean": "사장님",
+      "preferred": "Boss"
+    }
+  ],
+  "hunk_count": 161,
+  "hunks": [
+    {
+      "baseline": "Even now, nearly ten days after *that day*, restoration work was still underway at the Nanman Beast Palace.",
+      "baseline_paragraphs": "P2",
+      "baseline_range": [
+        1,
+        2
+      ],
+      "hunk_id": "H001",
+      "korean_lines": "5",
+      "sol": "Nearly ten days after *that day*, restoration work was still underway at the Nanman Beast Palace.",
+      "sol_paragraphs": "P2",
+      "sol_range": [
+        1,
+        2
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Inner Palace, which could be called its heart, had been completely devastated, and the Outer Palace had also suffered considerable damage in the aftermath of the battle.",
+      "baseline_paragraphs": "P3",
+      "baseline_range": [
+        2,
+        3
+      ],
+      "hunk_id": "H002",
+      "korean_lines": "7",
+      "sol": "The Inner Palace, its very heart, had been completely devastated. The Outer Palace had also suffered considerable damage in the aftermath of the battle.",
+      "sol_paragraphs": "P3",
+      "sol_range": [
+        2,
+        3
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Fortunately, by mobilizing all the warriors and beasts, they had managed to clear away most of the rubble in a short time. But considering all the houses and pavilions that still had to be built for the tribespeople who had suddenly lost their homes, the road ahead seemed endless.",
+      "baseline_paragraphs": "P4",
+      "baseline_range": [
+        3,
+        4
+      ],
+      "hunk_id": "H003",
+      "korean_lines": "9",
+      "sol": "Fortunately, with every warrior and beast lending a hand, they had cleared most of the rubble in a short time. But they still had houses and pavilions to build for the tribespeople who had lost their homes. The road ahead was long.",
+      "sol_paragraphs": "P4",
+      "sol_range": [
+        3,
+        4
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Now, let’s lift it together on three. One, two.”",
+      "baseline_paragraphs": "P5",
+      "baseline_range": [
+        4,
+        5
+      ],
+      "hunk_id": "H004",
+      "korean_lines": "11",
+      "sol": "“Right, we lift together on three. One, two.”",
+      "sol_paragraphs": "P5",
+      "sol_range": [
+        4,
+        5
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Crack!",
+      "baseline_paragraphs": "P7",
+      "baseline_range": [
+        6,
+        7
+      ],
+      "hunk_id": "H005",
+      "korean_lines": "15",
+      "sol": "*Grrrrind!*",
+      "sol_paragraphs": "P7",
+      "sol_range": [
+        6,
+        7
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "They combined their strength to lift a huge boulder, then hoisted thick timber onto bruised shoulders.",
+      "baseline_paragraphs": "P8",
+      "baseline_range": [
+        7,
+        8
+      ],
+      "hunk_id": "H006",
+      "korean_lines": "17",
+      "sol": "Together, they raised a huge boulder. Others shouldered thick timbers on bruised shoulders.",
+      "sol_paragraphs": "P8",
+      "sol_range": [
+        7,
+        8
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yet despite the unending hard labor, not a single person complained as they continued working.",
+      "baseline_paragraphs": "P9",
+      "baseline_range": [
+        8,
+        9
+      ],
+      "hunk_id": "H007",
+      "korean_lines": "19",
+      "sol": "Despite the unending hard labor, no one complained. This was work for everyone’s sake.",
+      "sol_paragraphs": "P9",
+      "sol_range": [
+        8,
+        9
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Because this was work for everyone's sake.",
+      "baseline_paragraphs": "P10",
+      "baseline_range": [
+        9,
+        10
+      ],
+      "hunk_id": "H008",
+      "korean_lines": "21",
+      "sol": "",
+      "sol_paragraphs": "after P9",
+      "sol_range": [
+        9,
+        9
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Nanman Beast Palace was a symbol of everyone who lived on this land, a spiritual homeland passed down from their ancestors.",
+      "baseline_paragraphs": "P11",
+      "baseline_range": [
+        10,
+        11
+      ],
+      "hunk_id": "H009",
+      "korean_lines": "23",
+      "sol": "",
+      "sol_paragraphs": "after P9",
+      "sol_range": [
+        9,
+        9
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "남만야수궁",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman Beast Palace"
+        },
+        {
+          "korean": "남만",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman"
+        }
+      ]
+    },
+    {
+      "baseline": "It no longer mattered which tribe the people working together belonged to, what they wore or ate, or which local deity they believed in.",
+      "baseline_paragraphs": "P12",
+      "baseline_range": [
+        11,
+        12
+      ],
+      "hunk_id": "H010",
+      "korean_lines": "25",
+      "sol": "The Nanman Beast Palace was a symbol to all who lived in this land, a home of the heart passed down from their ancestors. It no longer mattered which tribe the people beside them belonged to, what they wore or ate, or which local god they worshiped.",
+      "sol_paragraphs": "P10",
+      "sol_range": [
+        9,
+        10
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everyone present had come here for one goal alone: the reconstruction of the Nanman Beast Palace.",
+      "baseline_paragraphs": "P13",
+      "baseline_range": [
+        12,
+        13
+      ],
+      "hunk_id": "H011",
+      "korean_lines": "27",
+      "sol": "Everyone here had come for one purpose: to rebuild the Nanman Beast Palace.",
+      "sol_paragraphs": "P11",
+      "sol_range": [
+        10,
+        11
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was also the reason one middle-aged man had walked three hundred li to reach this place.",
+      "baseline_paragraphs": "P14",
+      "baseline_range": [
+        13,
+        14
+      ],
+      "hunk_id": "H012",
+      "korean_lines": "29",
+      "sol": "That was why one middle-aged man had walked three hundred li to get here, too.",
+      "sol_paragraphs": "P12",
+      "sol_range": [
+        11,
+        12
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Whack!",
+      "baseline_paragraphs": "P15",
+      "baseline_range": [
+        14,
+        15
+      ],
+      "hunk_id": "H013",
+      "korean_lines": "31",
+      "sol": "*Whack!*",
+      "sol_paragraphs": "P13",
+      "sol_range": [
+        12,
+        13
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The ax blade he swung with all his strength bounced off the thick timber. At the same time, a sharp pain traveled up through his palm.",
+      "baseline_paragraphs": "P16",
+      "baseline_range": [
+        15,
+        16
+      ],
+      "hunk_id": "H014",
+      "korean_lines": "33",
+      "sol": "The ax blade bounced off the thick timber, sending a sharp pain through his palm. He groaned before he could stop himself, and a young man came over.",
+      "sol_paragraphs": "P14",
+      "sol_range": [
+        13,
+        14
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A young man approached the middle-aged man, who had instinctively groaned.",
+      "baseline_paragraphs": "P17",
+      "baseline_range": [
+        16,
+        17
+      ],
+      "hunk_id": "H015",
+      "korean_lines": "35",
+      "sol": "",
+      "sol_paragraphs": "after P14",
+      "sol_range": [
+        14,
+        14
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You’re not supposed to swing it like that. Let me see your hand for a moment.”",
+      "baseline_paragraphs": "P18",
+      "baseline_range": [
+        17,
+        18
+      ],
+      "hunk_id": "H016",
+      "korean_lines": "37",
+      "sol": "“That’s not how you swing it. Let me see your hand.”",
+      "sol_paragraphs": "P15",
+      "sol_range": [
+        14,
+        15
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man instinctively held out his hand. He had inherited the family business and spent his entire life as a merchant, but his palms were now covered in blisters and blood.",
+      "baseline_paragraphs": "P19",
+      "baseline_range": [
+        18,
+        19
+      ],
+      "hunk_id": "H017",
+      "korean_lines": "39",
+      "sol": "The middle-aged man held it out without thinking. He had inherited his family’s business and spent his life as a merchant. Now his palms were covered in blisters and blood.",
+      "sol_paragraphs": "P16",
+      "sol_range": [
+        15,
+        16
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ouch, that must hurt. You’ve hardly ever done this kind of work, have you?”",
+      "baseline_paragraphs": "P20",
+      "baseline_range": [
+        19,
+        20
+      ],
+      "hunk_id": "H018",
+      "korean_lines": "41",
+      "sol": "“Ouch. That must hurt. You haven’t done much of this before, have you?”",
+      "sol_paragraphs": "P17",
+      "sol_range": [
+        16,
+        17
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I-I suppose not.”",
+      "baseline_paragraphs": "P21",
+      "baseline_range": [
+        20,
+        21
+      ],
+      "hunk_id": "H019",
+      "korean_lines": "43",
+      "sol": "“N-no, I haven’t.”",
+      "sol_paragraphs": "P18",
+      "sol_range": [
+        17,
+        18
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“This isn’t something you can do just by using your strength. You have to put your weight behind the ax blade and follow the grain of the wood. One solid whack, like this. Want me to demonstrate?”",
+      "baseline_paragraphs": "P22",
+      "baseline_range": [
+        21,
+        22
+      ],
+      "hunk_id": "H020",
+      "korean_lines": "45",
+      "sol": "“You can’t do it with strength alone. Put your weight behind the ax and follow the grain. One clean whack. Want me to show you?”",
+      "sol_paragraphs": "P19",
+      "sol_range": [
+        18,
+        19
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man stared blankly at the young man speaking to him so affably.",
+      "baseline_paragraphs": "P23",
+      "baseline_range": [
+        22,
+        23
+      ],
+      "hunk_id": "H021",
+      "korean_lines": "47",
+      "sol": "The middle-aged man stared at the young man, who spoke to him as easily as if they were old friends.",
+      "sol_paragraphs": "P20",
+      "sol_range": [
+        19,
+        20
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Despite his easygoing manner, there was something subtly unfamiliar about him.",
+      "baseline_paragraphs": "P24",
+      "baseline_range": [
+        23,
+        24
+      ],
+      "hunk_id": "H022",
+      "korean_lines": "49",
+      "sol": "",
+      "sol_paragraphs": "after P20",
+      "sol_range": [
+        20,
+        20
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It wasn’t merely because he was a stranger. It was the young man’s appearance—and his awkward way of speaking, almost like a child.",
+      "baseline_paragraphs": "P25",
+      "baseline_range": [
+        24,
+        25
+      ],
+      "hunk_id": "H023",
+      "korean_lines": "51",
+      "sol": "Something about him felt unfamiliar. Not simply because they had never met. It was his appearance, and the halting way he spoke, almost like a child.",
+      "sol_paragraphs": "P21",
+      "sol_range": [
+        20,
+        21
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Only then did a thought suddenly occur to him.",
+      "baseline_paragraphs": "P26",
+      "baseline_range": [
+        25,
+        26
+      ],
+      "hunk_id": "H024",
+      "korean_lines": "53",
+      "sol": "Then a thought struck him.",
+      "sol_paragraphs": "P22",
+      "sol_range": [
+        21,
+        22
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You mean, am I Han Chinese? That’s right.”",
+      "baseline_paragraphs": "P28",
+      "baseline_range": [
+        27,
+        28
+      ],
+      "hunk_id": "H025",
+      "korean_lines": "57",
+      "sol": "“Han Chinese? Yes.”",
+      "sol_paragraphs": "P24",
+      "sol_range": [
+        23,
+        24
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Ah, then you’re the one I’ve only heard about through rumors…”",
+      "baseline_paragraphs": "P29",
+      "baseline_range": [
+        28,
+        29
+      ],
+      "hunk_id": "H026",
+      "korean_lines": "59",
+      "sol": "“Ah! Then you’re the one I’ve heard so much about…”",
+      "sol_paragraphs": "P25",
+      "sol_range": [
+        24,
+        25
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Yes. I’m that very person.”",
+      "baseline_paragraphs": "P30",
+      "baseline_range": [
+        29,
+        30
+      ],
+      "hunk_id": "H027",
+      "korean_lines": "61",
+      "sol": "“That’s right. I’m the one.”",
+      "sol_paragraphs": "P26",
+      "sol_range": [
+        25,
+        26
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the middle-aged man exclaimed, the young man opened his mouth with a gracious smile.",
+      "baseline_paragraphs": "P32",
+      "baseline_range": [
+        31,
+        32
+      ],
+      "hunk_id": "H028",
+      "korean_lines": "65",
+      "sol": "The young man gave him a warm smile.",
+      "sol_paragraphs": "P28",
+      "sol_range": [
+        27,
+        28
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Blazing Flame Divine Dragon Jin Tae…what Mujin?”",
+      "baseline_paragraphs": "P34",
+      "baseline_range": [
+        33,
+        34
+      ],
+      "hunk_id": "H029",
+      "korean_lines": "69",
+      "sol": "“The Blazing Flame Divine Dragon, Jin Tae… Wait. Mujin who?”",
+      "sol_paragraphs": "P30",
+      "sol_range": [
+        29,
+        30
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Hyuk Mujin. The famous Blazing Flame Divine Dragon Jin Taekyung’s right-hand man! The pillar of the great Jin Family of Taiyuan! The proud Vice Pavilion Master of the Murim Alliance’s Fire Dragon Pavilion!”",
+      "baseline_paragraphs": "P35",
+      "baseline_range": [
+        34,
+        35
+      ],
+      "hunk_id": "H030",
+      "korean_lines": "71",
+      "sol": "“Hyuk Mujin. The famous Blazing Flame Divine Dragon Jin Taekyung’s right-hand man! A pillar of the great Jin Family of Taiyuan! The proud Vice Pavilion Master of the Murim Alliance’s Fire Dragon Pavilion!”",
+      "sol_paragraphs": "P31",
+      "sol_range": [
+        30,
+        31
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What the hell was wrong with this guy?",
+      "baseline_paragraphs": "P36",
+      "baseline_range": [
+        35,
+        36
+      ],
+      "hunk_id": "H031",
+      "korean_lines": "73",
+      "sol": "What was with this guy?",
+      "sol_paragraphs": "P32",
+      "sol_range": [
+        31,
+        32
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Hyuk…what?*",
+      "baseline_paragraphs": "P37",
+      "baseline_range": [
+        36,
+        37
+      ],
+      "hunk_id": "H032",
+      "korean_lines": "75",
+      "sol": "*Hyuk…who?*",
+      "sol_paragraphs": "P33",
+      "sol_range": [
+        32,
+        33
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Had the Han Chinese started giving people names like that?",
+      "baseline_paragraphs": "P38",
+      "baseline_range": [
+        37,
+        38
+      ],
+      "hunk_id": "H033",
+      "korean_lines": "77",
+      "sol": "Did Han Chinese people have names like that?",
+      "sol_paragraphs": "P34",
+      "sol_range": [
+        33,
+        34
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man stared at Hyuk Mujin with an uncertain expression, but just as he was about to pick up his ax again—",
+      "baseline_paragraphs": "P39",
+      "baseline_range": [
+        38,
+        39
+      ],
+      "hunk_id": "H034",
+      "korean_lines": "79",
+      "sol": "The middle-aged man gave Hyuk Mujin a dubious look and reached for his ax again.",
+      "sol_paragraphs": "P35",
+      "sol_range": [
+        34,
+        35
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tap. Tap-tap.",
+      "baseline_paragraphs": "P40",
+      "baseline_range": [
+        39,
+        40
+      ],
+      "hunk_id": "H035",
+      "korean_lines": "81",
+      "sol": "*Tap. Tap-tap.*",
+      "sol_paragraphs": "P36",
+      "sol_range": [
+        35,
+        36
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Raindrops suddenly began to fall.",
+      "baseline_paragraphs": "P41",
+      "baseline_range": [
+        40,
+        41
+      ],
+      "hunk_id": "H036",
+      "korean_lines": "83",
+      "sol": "Raindrops began to fall.",
+      "sol_paragraphs": "P37",
+      "sol_range": [
+        36,
+        37
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the same time, sighs escaped from the people working nearby. There was a mountain of work left to do, and rain would naturally slow them down.",
+      "baseline_paragraphs": "P42",
+      "baseline_range": [
+        41,
+        42
+      ],
+      "hunk_id": "H037",
+      "korean_lines": "85",
+      "sol": "Sighs rose from the people working nearby. They had a mountain of work left, and rain would only slow them down.",
+      "sol_paragraphs": "P38",
+      "sol_range": [
+        37,
+        38
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Damn it. Now it’s raining from a clear sky, too.”",
+      "baseline_paragraphs": "P43",
+      "baseline_range": [
+        42,
+        43
+      ],
+      "hunk_id": "H038",
+      "korean_lines": "87",
+      "sol": "“Damn it. Now it’s raining out of a clear sky.”",
+      "sol_paragraphs": "P39",
+      "sol_range": [
+        38,
+        39
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What can we do? We’ll just have to think of it as a passing shower.”",
+      "baseline_paragraphs": "P44",
+      "baseline_range": [
+        43,
+        44
+      ],
+      "hunk_id": "H039",
+      "korean_lines": "89",
+      "sol": "“What can we do? Let’s hope it’s just a passing shower.”",
+      "sol_paragraphs": "P40",
+      "sol_range": [
+        39,
+        40
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Come on, everyone. Let’s keep going a little longer!”",
+      "baseline_paragraphs": "P45",
+      "baseline_range": [
+        44,
+        45
+      ],
+      "hunk_id": "H040",
+      "korean_lines": "91",
+      "sol": "“Come on! Let’s keep at it a little longer!”",
+      "sol_paragraphs": "P41",
+      "sol_range": [
+        40,
+        41
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man glanced up at the sky.",
+      "baseline_paragraphs": "P46",
+      "baseline_range": [
+        45,
+        46
+      ],
+      "hunk_id": "H041",
+      "korean_lines": "93",
+      "sol": "",
+      "sol_paragraphs": "after P41",
+      "sol_range": [
+        41,
+        41
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Rain from a clear day without a single cloud? Even in Nanman, with its unpredictable climate, this was unusual.",
+      "baseline_paragraphs": "P47",
+      "baseline_range": [
+        46,
+        47
+      ],
+      "hunk_id": "H042",
+      "korean_lines": "95",
+      "sol": "The middle-aged man glanced up. There wasn’t a cloud in sight. Even for Nanman’s unpredictable climate, this was unusual.",
+      "sol_paragraphs": "P42",
+      "sol_range": [
+        41,
+        42
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Still, if it’s only a shower, it should be fine.*",
+      "baseline_paragraphs": "P48",
+      "baseline_range": [
+        47,
+        48
+      ],
+      "hunk_id": "H043",
+      "korean_lines": "97",
+      "sol": "*Still, a little shower won’t hurt.*",
+      "sol_paragraphs": "P43",
+      "sol_range": [
+        42,
+        43
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Perhaps because his entire body was already soaked in sweat, the sudden rain didn’t feel entirely unpleasant.",
+      "baseline_paragraphs": "P49",
+      "baseline_range": [
+        48,
+        49
+      ],
+      "hunk_id": "H044",
+      "korean_lines": "99",
+      "sol": "Perhaps it was because he was already soaked in sweat, but the sudden rain didn’t feel entirely unpleasant. The drops struck his palms and seemed to wash his wounds clean.",
+      "sol_paragraphs": "P44",
+      "sol_range": [
+        43,
+        44
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "No. In fact, the raindrops striking his palms felt as though they were washing away his wounds, and he found himself enjoying it.",
+      "baseline_paragraphs": "P50",
+      "baseline_range": [
+        49,
+        50
+      ],
+      "hunk_id": "H045",
+      "korean_lines": "101",
+      "sol": "",
+      "sol_paragraphs": "after P44",
+      "sol_range": [
+        44,
+        44
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Refreshing.*",
+      "baseline_paragraphs": "P51",
+      "baseline_range": [
+        50,
+        51
+      ],
+      "hunk_id": "H046",
+      "korean_lines": "103",
+      "sol": "*That feels good.*",
+      "sol_paragraphs": "P45",
+      "sol_range": [
+        44,
+        45
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The middle-aged man unconsciously closed his eyes for a moment.",
+      "baseline_paragraphs": "P52",
+      "baseline_range": [
+        51,
+        52
+      ],
+      "hunk_id": "H047",
+      "korean_lines": "105",
+      "sol": "He closed his eyes without realizing it.",
+      "sol_paragraphs": "P46",
+      "sol_range": [
+        45,
+        46
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Then—",
+      "baseline_paragraphs": "P53",
+      "baseline_range": [
+        52,
+        53
+      ],
+      "hunk_id": "H048",
+      "korean_lines": "107",
+      "sol": "A hand clamped around his wrist.",
+      "sol_paragraphs": "P47",
+      "sol_range": [
+        46,
+        47
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Grab!",
+      "baseline_paragraphs": "P54",
+      "baseline_range": [
+        53,
+        54
+      ],
+      "hunk_id": "H049",
+      "korean_lines": "109",
+      "sol": "",
+      "sol_paragraphs": "after P47",
+      "sol_range": [
+        47,
+        47
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A powerful hand clamped around his wrist. Startled, the middle-aged man opened his eyes and saw it.",
+      "baseline_paragraphs": "P55",
+      "baseline_range": [
+        54,
+        55
+      ],
+      "hunk_id": "H050",
+      "korean_lines": "111",
+      "sol": "Startled, he opened his eyes.",
+      "sol_paragraphs": "P48",
+      "sol_range": [
+        47,
+        48
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Hyuk Mujin’s face had gone rigid.",
+      "baseline_paragraphs": "P57",
+      "baseline_range": [
+        56,
+        57
+      ],
+      "hunk_id": "H051",
+      "korean_lines": "115",
+      "sol": "Hyuk Mujin’s face had gone rigid. He was staring at the middle-aged man’s palm.",
+      "sol_paragraphs": "P50",
+      "sol_range": [
+        49,
+        50
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His gaze was fixed on the middle-aged man’s palm, where something strange was happening.",
+      "baseline_paragraphs": "P58",
+      "baseline_range": [
+        57,
+        58
+      ],
+      "hunk_id": "H052",
+      "korean_lines": "117",
+      "sol": "",
+      "sol_paragraphs": "after P50",
+      "sol_range": [
+        50,
+        50
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Slowly.",
+      "baseline_paragraphs": "P59",
+      "baseline_range": [
+        58,
+        59
+      ],
+      "hunk_id": "H053",
+      "korean_lines": "119",
+      "sol": "",
+      "sol_paragraphs": "after P50",
+      "sol_range": [
+        50,
+        50
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was disappearing. No—it was healing.",
+      "baseline_paragraphs": "P60",
+      "baseline_range": [
+        59,
+        60
+      ],
+      "hunk_id": "H054",
+      "korean_lines": "121",
+      "sol": "The wounds were disappearing. No—healing.",
+      "sol_paragraphs": "P51",
+      "sol_range": [
+        50,
+        51
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The blisters that had filled both palms, the skin crushed and torn by swinging the ax…",
+      "baseline_paragraphs": "P61",
+      "baseline_range": [
+        60,
+        61
+      ],
+      "hunk_id": "H055",
+      "korean_lines": "123",
+      "sol": "The blisters covering both palms. The skin crushed and torn by the ax handle.",
+      "sol_paragraphs": "P52",
+      "sol_range": [
+        51,
+        52
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The rain washed away the abundant blood, revealing new muscle and flesh beneath—paler and firmer than before.",
+      "baseline_paragraphs": "P62",
+      "baseline_range": [
+        61,
+        62
+      ],
+      "hunk_id": "H056",
+      "korean_lines": "125",
+      "sol": "Rain washed the blood away, revealing muscle and flesh that looked paler and firmer than before.",
+      "sol_paragraphs": "P53",
+      "sol_range": [
+        52,
+        53
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As though they had planned it together, the two men looked up at the sky with wide eyes.",
+      "baseline_paragraphs": "P65",
+      "baseline_range": [
+        64,
+        65
+      ],
+      "hunk_id": "H057",
+      "korean_lines": "133",
+      "sol": "They looked up at the sky at the same instant, eyes wide.",
+      "sol_paragraphs": "P56",
+      "sol_range": [
+        55,
+        56
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Boom. Boom. Booooom!",
+      "baseline_paragraphs": "P66",
+      "baseline_range": [
+        65,
+        66
+      ],
+      "hunk_id": "H058",
+      "korean_lines": "137",
+      "sol": "*Boom. Boom. Booooom!*",
+      "sol_paragraphs": "P57",
+      "sol_range": [
+        56,
+        57
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Between the sunlit streams of rain, the sound of drums began to ring out, announcing someone’s return.",
+      "baseline_paragraphs": "P67",
+      "baseline_range": [
+        66,
+        67
+      ],
+      "hunk_id": "H059",
+      "korean_lines": "139",
+      "sol": "Through the sunlit rain came the sound of drums, announcing someone’s return.",
+      "sol_paragraphs": "P58",
+      "sol_range": [
+        57,
+        58
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Everything could be explained with those two words. No, it was the only way to describe the phenomenon.",
+      "baseline_paragraphs": "P70",
+      "baseline_range": [
+        69,
+        70
+      ],
+      "hunk_id": "H060",
+      "korean_lines": "145",
+      "sol": "Those two words explained everything. There was no other way to describe it.",
+      "sol_paragraphs": "P61",
+      "sol_range": [
+        60,
+        61
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Tap. Ssshhh.",
+      "baseline_paragraphs": "P71",
+      "baseline_range": [
+        70,
+        71
+      ],
+      "hunk_id": "H061",
+      "korean_lines": "147",
+      "sol": "*Tap. Ssshhhh.*",
+      "sol_paragraphs": "P62",
+      "sol_range": [
+        61,
+        62
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At some point, rain had begun falling.",
+      "baseline_paragraphs": "P72",
+      "baseline_range": [
+        71,
+        72
+      ],
+      "hunk_id": "H062",
+      "korean_lines": "149",
+      "sol": "",
+      "sol_paragraphs": "after P62",
+      "sol_range": [
+        62,
+        62
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Warmth filled the rain as it soaked countless buildings and the earth, causing flowers and sprouts to bloom. It fell upon the heads of every living thing.",
+      "baseline_paragraphs": "P73",
+      "baseline_range": [
+        72,
+        73
+      ],
+      "hunk_id": "H063",
+      "korean_lines": "151",
+      "sol": "Rain had begun to fall. Warm rain that soaked buildings and earth, coaxed flowers and sprouts into bloom, and fell on the heads of every living thing.",
+      "sol_paragraphs": "P63",
+      "sol_range": [
+        62,
+        63
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Washing away their wounds and fatigue.",
+      "baseline_paragraphs": "P74",
+      "baseline_range": [
+        73,
+        74
+      ],
+      "hunk_id": "H064",
+      "korean_lines": "153",
+      "sol": "It washed away their wounds and fatigue.",
+      "sol_paragraphs": "P64",
+      "sol_range": [
+        63,
+        64
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“My wound! My wound healed!”",
+      "baseline_paragraphs": "P75",
+      "baseline_range": [
+        74,
+        75
+      ],
+      "hunk_id": "H065",
+      "korean_lines": "155",
+      "sol": "“My wound! It’s healed!”",
+      "sol_paragraphs": "P65",
+      "sol_range": [
+        64,
+        65
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“W-what in the world is this…?”",
+      "baseline_paragraphs": "P77",
+      "baseline_range": [
+        76,
+        77
+      ],
+      "hunk_id": "H066",
+      "korean_lines": "159",
+      "sol": "“W-what in the world…?”",
+      "sol_paragraphs": "P67",
+      "sol_range": [
+        66,
+        67
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—Growl?",
+      "baseline_paragraphs": "P78",
+      "baseline_range": [
+        77,
+        78
+      ],
+      "hunk_id": "H067",
+      "korean_lines": "161",
+      "sol": "*Grrr?*",
+      "sol_paragraphs": "P68",
+      "sol_range": [
+        67,
+        68
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "What roused the people, who had been dazed before this unbelievable reality, was a lion’s roar that rang out from somewhere.",
+      "baseline_paragraphs": "P79",
+      "baseline_range": [
+        78,
+        79
+      ],
+      "hunk_id": "H068",
+      "korean_lines": "163",
+      "sol": "The people stood dazed until a lion’s roar rang out from somewhere.",
+      "sol_paragraphs": "P69",
+      "sol_range": [
+        68,
+        69
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "—By order of the Palace Lord of the Nanman Beast Palace, I command you all to come outside!",
+      "baseline_paragraphs": "P80",
+      "baseline_range": [
+        79,
+        80
+      ],
+      "hunk_id": "H069",
+      "korean_lines": "165",
+      "sol": "“By order of the Palace Lord of the Nanman Beast Palace, everyone outside!”",
+      "sol_paragraphs": "P70",
+      "sol_range": [
+        69,
+        70
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The shout, filled with powerful internal energy, spread throughout the Outer Palace. Those who began walking as if bewitched by the command saw a massive White Tiger and three people standing tall before everyone.",
+      "baseline_paragraphs": "P81",
+      "baseline_range": [
+        80,
+        81
+      ],
+      "hunk_id": "H070",
+      "korean_lines": "167",
+      "sol": "The shout, charged with powerful internal energy, reached every corner of the Outer Palace. Drawn by the command, people came out to find a massive White Tiger and three men standing before them.",
+      "sol_paragraphs": "P71",
+      "sol_range": [
+        70,
+        71
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I called everyone here like you told me to. What are you planning to do now?”",
+      "baseline_paragraphs": "P83",
+      "baseline_range": [
+        82,
+        83
+      ],
+      "hunk_id": "H071",
+      "korean_lines": "171",
+      "sol": "“I’ve called them all out, just as you asked,” Jeok Cheongang whispered. “Now what?”",
+      "sol_paragraphs": "P73",
+      "sol_range": [
+        72,
+        73
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Wouldn’t it be enough to tell them to come outside and get rained on? They’ll understand once they experience it themselves.”",
+      "baseline_paragraphs": "P84",
+      "baseline_range": [
+        83,
+        84
+      ],
+      "hunk_id": "H072",
+      "korean_lines": "173",
+      "sol": "“Couldn’t we just tell them to stand in the rain?” the Beast Miao King asked. “They’ll understand once they feel it.”",
+      "sol_paragraphs": "P74",
+      "sol_range": [
+        73,
+        74
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At the Beast Miao King and Jeok Cheongang’s whispers, Jin Taekyung shook his head without hesitation.",
+      "baseline_paragraphs": "P85",
+      "baseline_range": [
+        84,
+        85
+      ],
+      "hunk_id": "H073",
+      "korean_lines": "175",
+      "sol": "Jin Taekyung shook his head.",
+      "sol_paragraphs": "P75",
+      "sol_range": [
+        74,
+        75
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "적천강",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jeok Cheongang"
+        },
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "Unlike those two, who were martial artists to the bone, he had been born and raised in the modern world. He knew exactly how effective marketing could be.",
+      "baseline_paragraphs": "P86",
+      "baseline_range": [
+        85,
+        86
+      ],
+      "hunk_id": "H074",
+      "korean_lines": "177",
+      "sol": "Unlike those two martial artists to the bone, he had been born and raised in the modern world. He knew what marketing could do.",
+      "sol_paragraphs": "P76",
+      "sol_range": [
+        75,
+        76
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Is it over after they get rained on once? First, you have to process it properly and package it.”",
+      "baseline_paragraphs": "P87",
+      "baseline_range": [
+        86,
+        87
+      ],
+      "hunk_id": "H075",
+      "korean_lines": "179",
+      "sol": "“We can’t just let them get wet and call it a day. We have to dress this up and sell it first.”",
+      "sol_paragraphs": "P77",
+      "sol_range": [
+        76,
+        77
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Process it? Package it?”",
+      "baseline_paragraphs": "P88",
+      "baseline_range": [
+        87,
+        88
+      ],
+      "hunk_id": "H076",
+      "korean_lines": "181",
+      "sol": "“Dress it up? Sell it?”",
+      "sol_paragraphs": "P78",
+      "sol_range": [
+        77,
+        78
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What in the world does that mean?”",
+      "baseline_paragraphs": "P89",
+      "baseline_range": [
+        88,
+        89
+      ],
+      "hunk_id": "H077",
+      "korean_lines": "183",
+      "sol": "“What in the world are you talking about?”",
+      "sol_paragraphs": "P79",
+      "sol_range": [
+        78,
+        79
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“It’s complicated, but in this case, you can think of it as a kind of political maneuvering.”",
+      "baseline_paragraphs": "P90",
+      "baseline_range": [
+        89,
+        90
+      ],
+      "hunk_id": "H078",
+      "korean_lines": "185",
+      "sol": "“It’s complicated. Think of it as a bit of political maneuvering.”",
+      "sol_paragraphs": "P80",
+      "sol_range": [
+        79,
+        80
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Martial artists were generally far removed from politics, even when they were old and nearing death.",
+      "baseline_paragraphs": "P91",
+      "baseline_range": [
+        90,
+        91
+      ],
+      "hunk_id": "H079",
+      "korean_lines": "187",
+      "sol": "",
+      "sol_paragraphs": "after P80",
+      "sol_range": [
+        80,
+        80
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "무인",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "martial artist"
+        }
+      ]
+    },
+    {
+      "baseline": "But being born in twenty-first-century Korea was a different story.",
+      "baseline_paragraphs": "P92",
+      "baseline_range": [
+        91,
+        92
+      ],
+      "hunk_id": "H080",
+      "korean_lines": "189",
+      "sol": "Martial artists could reach the end of their lives without learning a thing about politics. Anyone born in twenty-first-century Korea knew better.",
+      "sol_paragraphs": "P81",
+      "sol_range": [
+        80,
+        81
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "It was a ruthless world where you could become someone who deserved to die just because you were bad at a game.",
+      "baseline_paragraphs": "P93",
+      "baseline_range": [
+        92,
+        93
+      ],
+      "hunk_id": "H081",
+      "korean_lines": "191",
+      "sol": "It was a ruthless world. Being bad at a game was enough to make people wish you dead.",
+      "sol_paragraphs": "P82",
+      "sol_range": [
+        81,
+        82
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung, who had been called an orphan dozens of times in games he had logged into just for fun, knew the importance of politics better than anyone.",
+      "baseline_paragraphs": "P94",
+      "baseline_range": [
+        93,
+        94
+      ],
+      "hunk_id": "H082",
+      "korean_lines": "193",
+      "sol": "Jin Taekyung had logged into games for fun and been made an orphan dozens of times over.[^1] He knew the importance of politics better than anyone.",
+      "sol_paragraphs": "P83",
+      "sol_range": [
+        82,
+        83
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "*Make the guy who did well look like he failed, and the guy who failed look like he did well. And…*",
+      "baseline_paragraphs": "P95",
+      "baseline_range": [
+        94,
+        95
+      ],
+      "hunk_id": "H083",
+      "korean_lines": "195",
+      "sol": "*Make the guy who did well look bad. Make the guy who did badly look good. And…*",
+      "sol_paragraphs": "P84",
+      "sol_range": [
+        83,
+        84
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Politics—modern marketing—was what made the guy who had done well look even better.",
+      "baseline_paragraphs": "P96",
+      "baseline_range": [
+        95,
+        96
+      ],
+      "hunk_id": "H084",
+      "korean_lines": "197",
+      "sol": "Make the guy who did well look even better. That was politics. Modern marketing.",
+      "sol_paragraphs": "P85",
+      "sol_range": [
+        84,
+        85
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung had no intention of letting this perfect opportunity slip away.",
+      "baseline_paragraphs": "P97",
+      "baseline_range": [
+        96,
+        97
+      ],
+      "hunk_id": "H085",
+      "korean_lines": "199",
+      "sol": "He wasn’t about to waste this opportunity.",
+      "sol_paragraphs": "P86",
+      "sol_range": [
+        85,
+        86
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "*It’d be a shame to just end things with everyone going, “Wow, a miracle!”*",
+      "baseline_paragraphs": "P98",
+      "baseline_range": [
+        97,
+        98
+      ],
+      "hunk_id": "H086",
+      "korean_lines": "201",
+      "sol": "*It’d be a shame if everyone just went, “Wow, a miracle!” and left it at that.*",
+      "sol_paragraphs": "P87",
+      "sol_range": [
+        86,
+        87
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He muttered inwardly, then took a deep breath. He shouted toward the people, filling his voice with internal energy.",
+      "baseline_paragraphs": "P99",
+      "baseline_range": [
+        98,
+        99
+      ],
+      "hunk_id": "H087",
+      "korean_lines": "203",
+      "sol": "He took a deep breath, put internal energy into his voice, and called to the crowd.",
+      "sol_paragraphs": "P88",
+      "sol_range": [
+        87,
+        88
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Listen, everyone! This is a holy rain bestowed by the Earth Mother Goddess!”",
+      "baseline_paragraphs": "P100",
+      "baseline_range": [
+        99,
+        100
+      ],
+      "hunk_id": "H088",
+      "korean_lines": "205",
+      "sol": "“Listen, everyone! This holy rain was bestowed by the Earth Mother Goddess!”",
+      "sol_paragraphs": "P89",
+      "sol_range": [
+        88,
+        89
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Earth Mother Goddess?",
+      "baseline_paragraphs": "P101",
+      "baseline_range": [
+        100,
+        101
+      ],
+      "hunk_id": "H089",
+      "korean_lines": "207",
+      "sol": "*The Earth Mother Goddess?*",
+      "sol_paragraphs": "P90",
+      "sol_range": [
+        89,
+        90
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The people blinked at the unfamiliar name, while the Beast Miao King whispered with a displeased expression.",
+      "baseline_paragraphs": "P102",
+      "baseline_range": [
+        101,
+        102
+      ],
+      "hunk_id": "H090",
+      "korean_lines": "209",
+      "sol": "People blinked at the unfamiliar name. Beside him, the Beast Miao King frowned.",
+      "sol_paragraphs": "P91",
+      "sol_range": [
+        90,
+        91
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What is that?”",
+      "baseline_paragraphs": "P103",
+      "baseline_range": [
+        102,
+        103
+      ],
+      "hunk_id": "H091",
+      "korean_lines": "211",
+      "sol": "“What’s that?”",
+      "sol_paragraphs": "P92",
+      "sol_range": [
+        91,
+        92
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There’s no god like that in our land.”",
+      "baseline_paragraphs": "P105",
+      "baseline_range": [
+        104,
+        105
+      ],
+      "hunk_id": "H092",
+      "korean_lines": "215",
+      "sol": "“We don’t have a god like that here.”",
+      "sol_paragraphs": "P94",
+      "sol_range": [
+        93,
+        94
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“There is now.”",
+      "baseline_paragraphs": "P106",
+      "baseline_range": [
+        105,
+        106
+      ],
+      "hunk_id": "H093",
+      "korean_lines": "217",
+      "sol": "“We do now.”",
+      "sol_paragraphs": "P95",
+      "sol_range": [
+        94,
+        95
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As the Beast Miao King fell into deep confusion and lost all words, Jin Taekyung continued shouting.",
+      "baseline_paragraphs": "P109",
+      "baseline_range": [
+        108,
+        109
+      ],
+      "hunk_id": "H094",
+      "korean_lines": "223",
+      "sol": "While the Beast Miao King stood speechless, Jin Taekyung went on.",
+      "sol_paragraphs": "P98",
+      "sol_range": [
+        97,
+        98
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Earth Mother Goddess is the mother of this land, and she is the One God!”",
+      "baseline_paragraphs": "P110",
+      "baseline_range": [
+        109,
+        110
+      ],
+      "hunk_id": "H095",
+      "korean_lines": "225",
+      "sol": "“The Earth Mother Goddess is the mother of this land—and its one and only god!”",
+      "sol_paragraphs": "P99",
+      "sol_range": [
+        98,
+        99
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "일신",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "One God"
+        }
+      ]
+    },
+    {
+      "baseline": "The One God.",
+      "baseline_paragraphs": "P113",
+      "baseline_range": [
+        112,
+        113
+      ],
+      "hunk_id": "H096",
+      "korean_lines": "231",
+      "sol": "*One and only.*",
+      "sol_paragraphs": "P102",
+      "sol_range": [
+        101,
+        102
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "일신",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "One God"
+        }
+      ]
+    },
+    {
+      "baseline": "The people who had been listening blankly to Jin Taekyung opened their mouths at those three words.",
+      "baseline_paragraphs": "P114",
+      "baseline_range": [
+        113,
+        114
+      ],
+      "hunk_id": "H097",
+      "korean_lines": "233",
+      "sol": "",
+      "sol_paragraphs": "after P102",
+      "sol_range": [
+        102,
+        102
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "What kind of place was Nanman?",
+      "baseline_paragraphs": "P115",
+      "baseline_range": [
+        114,
+        115
+      ],
+      "hunk_id": "H098",
+      "korean_lines": "235",
+      "sol": "The crowd gaped.",
+      "sol_paragraphs": "P103",
+      "sol_range": [
+        102,
+        103
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "남만",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Nanman"
+        }
+      ]
+    },
+    {
+      "baseline": "Thirty-two tribes coexisted here, and there were more than a hundred local gods—more gods than there were tribes.",
+      "baseline_paragraphs": "P116",
+      "baseline_range": [
+        115,
+        116
+      ],
+      "hunk_id": "H099",
+      "korean_lines": "237",
+      "sol": "Nanman was home to thirty-two tribes and more than a hundred local gods—far more gods than tribes. And Jin Taekyung was telling them there was only one?",
+      "sol_paragraphs": "P104",
+      "sol_range": [
+        103,
+        104
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And now he was claiming there was only one God?",
+      "baseline_paragraphs": "P117",
+      "baseline_range": [
+        116,
+        117
+      ],
+      "hunk_id": "H100",
+      "korean_lines": "239",
+      "sol": "",
+      "sol_paragraphs": "after P104",
+      "sol_range": [
+        104,
+        104
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "일신",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "One God"
+        }
+      ]
+    },
+    {
+      "baseline": "Nanman might have suffered a disaster and the Nanman Beast Palace might have gone to shit, but the faith they had held all their lives remained.",
+      "baseline_paragraphs": "P118",
+      "baseline_range": [
+        117,
+        118
+      ],
+      "hunk_id": "H101",
+      "korean_lines": "241",
+      "sol": "Disaster had struck, and the Nanman Beast Palace was a wreck, but that hadn’t erased anyone’s lifelong faith. Angry voices broke out across the crowd.",
+      "sol_paragraphs": "P105",
+      "sol_range": [
+        104,
+        105
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Angry voices erupted from every direction.",
+      "baseline_paragraphs": "P119",
+      "baseline_range": [
+        118,
+        119
+      ],
+      "hunk_id": "H102",
+      "korean_lines": "243",
+      "sol": "",
+      "sol_paragraphs": "after P105",
+      "sol_range": [
+        105,
+        105
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How dare you say such nonsense!”",
+      "baseline_paragraphs": "P120",
+      "baseline_range": [
+        119,
+        120
+      ],
+      "hunk_id": "H103",
+      "korean_lines": "245",
+      "sol": "“What nonsense!”",
+      "sol_paragraphs": "P106",
+      "sol_range": [
+        105,
+        106
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Earth Mother Goddess? I’ve never heard of her!”",
+      "baseline_paragraphs": "P121",
+      "baseline_range": [
+        120,
+        121
+      ],
+      "hunk_id": "H104",
+      "korean_lines": "247",
+      "sol": "“I’ve never even heard of an Earth Mother Goddess!”",
+      "sol_paragraphs": "P107",
+      "sol_range": [
+        106,
+        107
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“I know you have worked hard for Nanman, but how dare you utter such blasphemy! The Wood God I worship is the One God!”",
+      "baseline_paragraphs": "P122",
+      "baseline_range": [
+        121,
+        122
+      ],
+      "hunk_id": "H105",
+      "korean_lines": "249",
+      "sol": "“I know what you’ve done for Nanman, but how dare you say such a thing! The Wood God I worship is the one true god!”",
+      "sol_paragraphs": "P108",
+      "sol_range": [
+        107,
+        108
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "일신",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "One God"
+        }
+      ]
+    },
+    {
+      "baseline": "“What do you mean, the Wood God? The Fire God is the true god!”",
+      "baseline_paragraphs": "P123",
+      "baseline_range": [
+        122,
+        123
+      ],
+      "hunk_id": "H106",
+      "korean_lines": "251",
+      "sol": "“Don’t bring the Wood God into this! The Fire God is the true god!”",
+      "sol_paragraphs": "P109",
+      "sol_range": [
+        108,
+        109
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Why, you little bastard!”",
+      "baseline_paragraphs": "P124",
+      "baseline_range": [
+        123,
+        124
+      ],
+      "hunk_id": "H107",
+      "korean_lines": "253",
+      "sol": "“You little bastard!”",
+      "sol_paragraphs": "P110",
+      "sol_range": [
+        109,
+        110
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The entire courtyard became a chaotic mess.",
+      "baseline_paragraphs": "P125",
+      "baseline_range": [
+        124,
+        125
+      ],
+      "hunk_id": "H108",
+      "korean_lines": "255",
+      "sol": "",
+      "sol_paragraphs": "after P110",
+      "sol_range": [
+        110,
+        110
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Yet Jin Taekyung looked pleased as he watched the believers grabbing one another by the collars and fighting.",
+      "baseline_paragraphs": "P126",
+      "baseline_range": [
+        125,
+        126
+      ],
+      "hunk_id": "H109",
+      "korean_lines": "257",
+      "sol": "The gathering dissolved into chaos. Believers grabbed one another by the collar, ready to fight, while Jin Taekyung watched with satisfaction.",
+      "sol_paragraphs": "P111",
+      "sol_range": [
+        110,
+        111
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Nanman’s religious scene was as chaotic as the Sixteen Kingdoms.[^1] Thanks to that, things were about to become much easier.",
+      "baseline_paragraphs": "P128",
+      "baseline_range": [
+        127,
+        128
+      ],
+      "hunk_id": "H110",
+      "korean_lines": "261",
+      "sol": "Nanman’s religious landscape was as chaotic as the era of the Five Barbarians and Sixteen Kingdoms.[^2] That would make things easier. Unlike them, he had evidence to back his claim.",
+      "sol_paragraphs": "P113",
+      "sol_range": [
+        112,
+        113
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Unlike theirs, his claim had both justification and evidence.",
+      "baseline_paragraphs": "P129",
+      "baseline_range": [
+        128,
+        129
+      ],
+      "hunk_id": "H111",
+      "korean_lines": "263",
+      "sol": "",
+      "sol_paragraphs": "after P113",
+      "sol_range": [
+        113,
+        113
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“You fools! Even while being drenched in this holy rain, you still can’t feel the Earth Mother Goddess’s grace?”",
+      "baseline_paragraphs": "P130",
+      "baseline_range": [
+        129,
+        130
+      ],
+      "hunk_id": "H112",
+      "korean_lines": "265",
+      "sol": "“You fools! Can you stand in this holy rain and still not feel the Earth Mother Goddess’s grace?”",
+      "sol_paragraphs": "P114",
+      "sol_range": [
+        113,
+        114
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "His stern reprimand rang across the courtyard, and the noise vanished as if it had been washed away.",
+      "baseline_paragraphs": "P131",
+      "baseline_range": [
+        130,
+        131
+      ],
+      "hunk_id": "H113",
+      "korean_lines": "267",
+      "sol": "His stern shout rang out, and the noise vanished.",
+      "sol_paragraphs": "P115",
+      "sol_range": [
+        114,
+        115
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "One tribesman who had been about to throw a decisive uppercut at another believer looked up at the sky in confusion.",
+      "baseline_paragraphs": "P132",
+      "baseline_range": [
+        131,
+        132
+      ],
+      "hunk_id": "H114",
+      "korean_lines": "269",
+      "sol": "One tribesman, his fist drawn back for an uppercut, looked at the sky in confusion.",
+      "sol_paragraphs": "P116",
+      "sol_range": [
+        115,
+        116
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Ssshhhhhh.",
+      "baseline_paragraphs": "P133",
+      "baseline_range": [
+        132,
+        133
+      ],
+      "hunk_id": "H115",
+      "korean_lines": "271",
+      "sol": "*Ssshhhhhh.*",
+      "sol_paragraphs": "P117",
+      "sol_range": [
+        116,
+        117
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Rain poured from the clear sky.",
+      "baseline_paragraphs": "P134",
+      "baseline_range": [
+        133,
+        134
+      ],
+      "hunk_id": "H116",
+      "korean_lines": "273",
+      "sol": "",
+      "sol_paragraphs": "after P117",
+      "sol_range": [
+        117,
+        117
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "As he watched the rain heal the sick and coax sprouts from the earth, he couldn't help feeling conflicted.",
+      "baseline_paragraphs": "P135",
+      "baseline_range": [
+        134,
+        135
+      ],
+      "hunk_id": "H117",
+      "korean_lines": "275",
+      "sol": "Rain fell from a cloudless sky. It healed the sick and brought new shoots out of the earth. The sight gave him pause.",
+      "sol_paragraphs": "P118",
+      "sol_range": [
+        117,
+        118
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“So what did your Wood God do ten days ago? Even when I was setting fire to the mountain, it didn’t do much.”",
+      "baseline_paragraphs": "P137",
+      "baseline_range": [
+        136,
+        137
+      ],
+      "hunk_id": "H118",
+      "korean_lines": "279",
+      "sol": "“What was your Wood God doing ten days ago? I was setting fire to the mountain, and he didn’t do a damn thing.”",
+      "sol_paragraphs": "P120",
+      "sol_range": [
+        119,
+        120
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Th-that…”",
+      "baseline_paragraphs": "P138",
+      "baseline_range": [
+        137,
+        138
+      ],
+      "hunk_id": "H119",
+      "korean_lines": "281",
+      "sol": "“W-well…”",
+      "sol_paragraphs": "P121",
+      "sol_range": [
+        120,
+        121
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung silenced the hesitating believer with a shout.",
+      "baseline_paragraphs": "P139",
+      "baseline_range": [
+        138,
+        139
+      ],
+      "hunk_id": "H120",
+      "korean_lines": "283",
+      "sol": "Jin Taekyung cut him off with another shout.",
+      "sol_paragraphs": "P122",
+      "sol_range": [
+        121,
+        122
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Everyone gathered here must have seen it! The dazzling radiance of that day! The warmth!”",
+      "baseline_paragraphs": "P140",
+      "baseline_range": [
+        139,
+        140
+      ],
+      "hunk_id": "H121",
+      "korean_lines": "285",
+      "sol": "“Everyone here saw it! The dazzling light that day! The warmth!”",
+      "sol_paragraphs": "P123",
+      "sol_range": [
+        122,
+        123
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The miracle that day and the miracle today are both blessings bestowed by the Earth Mother Goddess, who took pity on you!”",
+      "baseline_paragraphs": "P142",
+      "baseline_range": [
+        141,
+        142
+      ],
+      "hunk_id": "H122",
+      "korean_lines": "289",
+      "sol": "“The miracle then and the miracle today were both blessings from the Earth Mother Goddess, who took pity on you!”",
+      "sol_paragraphs": "P125",
+      "sol_range": [
+        124,
+        125
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The people’s eyes wavered.",
+      "baseline_paragraphs": "P143",
+      "baseline_range": [
+        142,
+        143
+      ],
+      "hunk_id": "H123",
+      "korean_lines": "291",
+      "sol": "Uncertainty flickered across the people’s faces.",
+      "sol_paragraphs": "P126",
+      "sol_range": [
+        125,
+        126
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Just as Jin Taekyung said, they had all seen and experienced everything themselves. Even the rain falling on their heads was an unbelievable miracle.",
+      "baseline_paragraphs": "P144",
+      "baseline_range": [
+        143,
+        144
+      ],
+      "hunk_id": "H124",
+      "korean_lines": "293",
+      "sol": "They *had* seen and felt it all. And the rain falling on them now was another miracle.",
+      "sol_paragraphs": "P127",
+      "sol_range": [
+        126,
+        127
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        }
+      ]
+    },
+    {
+      "baseline": "Even her name was warm and familiar. Simply murmuring those four words made them think of a mother’s embrace.",
+      "baseline_paragraphs": "P146",
+      "baseline_range": [
+        145,
+        146
+      ],
+      "hunk_id": "H125",
+      "korean_lines": "297",
+      "sol": "Even the name sounded warm and familiar. Saying it brought a mother’s embrace to mind.",
+      "sol_paragraphs": "P129",
+      "sol_range": [
+        128,
+        129
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And she was the One God, too. The one and only One God.",
+      "baseline_paragraphs": "P147",
+      "baseline_range": [
+        146,
+        147
+      ],
+      "hunk_id": "H126",
+      "korean_lines": "299",
+      "sol": "And she was the only god. The one and only.",
+      "sol_paragraphs": "P130",
+      "sol_range": [
+        129,
+        130
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "일신",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "One God"
+        }
+      ]
+    },
+    {
+      "baseline": "“Th-then what are the other gods we’ve worshiped until now?”",
+      "baseline_paragraphs": "P148",
+      "baseline_range": [
+        147,
+        148
+      ],
+      "hunk_id": "H127",
+      "korean_lines": "301",
+      "sol": "“Th-then what about the other gods we’ve worshiped all our lives?”",
+      "sol_paragraphs": "P131",
+      "sol_range": [
+        130,
+        131
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "At someone’s question, Jin Taekyung answered without the slightest hesitation.",
+      "baseline_paragraphs": "P149",
+      "baseline_range": [
+        148,
+        149
+      ],
+      "hunk_id": "H128",
+      "korean_lines": "303",
+      "sol": "Jin Taekyung answered without a moment’s hesitation.",
+      "sol_paragraphs": "P132",
+      "sol_range": [
+        131,
+        132
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How dare you compare the great Earth Mother Goddess with miscellaneous gods?”",
+      "baseline_paragraphs": "P150",
+      "baseline_range": [
+        149,
+        150
+      ],
+      "hunk_id": "H129",
+      "korean_lines": "305",
+      "sol": "“You can’t compare the great Earth Mother Goddess to a bunch of lesser gods.”",
+      "sol_paragraphs": "P133",
+      "sol_range": [
+        132,
+        133
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“M-miscellaneous gods…!”",
+      "baseline_paragraphs": "P151",
+      "baseline_range": [
+        150,
+        151
+      ],
+      "hunk_id": "H130",
+      "korean_lines": "307",
+      "sol": "“L-lesser gods…!”",
+      "sol_paragraphs": "P134",
+      "sol_range": [
+        133,
+        134
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“The Earth Mother Goddess bestowed this miracle and gave me a divine message: ‘Useless gods. The kind that aren’t worth knowing.’ She told me to protect you from them.”",
+      "baseline_paragraphs": "P152",
+      "baseline_range": [
+        151,
+        152
+      ],
+      "hunk_id": "H131",
+      "korean_lines": "309",
+      "sol": "“When the Earth Mother Goddess worked this miracle, she gave me a divine message: ‘Those gods aren’t worth knowing. Protect my people from them.’”[^3]",
+      "sol_paragraphs": "P135",
+      "sol_range": [
+        134,
+        135
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“How could this be? A miracle, and now a divine revelation, too!”",
+      "baseline_paragraphs": "P154",
+      "baseline_range": [
+        153,
+        154
+      ],
+      "hunk_id": "H132",
+      "korean_lines": "313",
+      "sol": "“A miracle, and a divine message too!”",
+      "sol_paragraphs": "P137",
+      "sol_range": [
+        136,
+        137
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Before long, the atmosphere grew feverish, filled with shouts from people united in heart and mind.",
+      "baseline_paragraphs": "P155",
+      "baseline_range": [
+        154,
+        155
+      ],
+      "hunk_id": "H133",
+      "korean_lines": "315",
+      "sol": "Excitement swept through the crowd. They were all shouting together now.",
+      "sol_paragraphs": "P138",
+      "sol_range": [
+        137,
+        138
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Jin Taekyung seized the moment and raised both hands high.",
+      "baseline_paragraphs": "P156",
+      "baseline_range": [
+        155,
+        156
+      ],
+      "hunk_id": "H134",
+      "korean_lines": "317",
+      "sol": "Jin Taekyung seized the moment and threw both hands into the air.",
+      "sol_paragraphs": "P139",
+      "sol_range": [
+        138,
+        139
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Shout together! Earth Mother Goddess!”",
+      "baseline_paragraphs": "P157",
+      "baseline_range": [
+        156,
+        157
+      ],
+      "hunk_id": "H135",
+      "korean_lines": "319",
+      "sol": "“Say it with me! Earth Mother Goddess!”",
+      "sol_paragraphs": "P140",
+      "sol_range": [
+        139,
+        140
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Repeat after me. Mother Goddess Heaven! Unbeliever Hell!”",
+      "baseline_paragraphs": "P161",
+      "baseline_range": [
+        160,
+        161
+      ],
+      "hunk_id": "H136",
+      "korean_lines": "327",
+      "sol": "“Now this! Mother Goddess Heaven! Unbeliever Hell!”",
+      "sol_paragraphs": "P144",
+      "sol_range": [
+        143,
+        144
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Those in Nanman who believe in the Earth Mother Goddess will be saved even after death, while those who do not believe will fall into a pit of fire when they die!”",
+      "baseline_paragraphs": "P163",
+      "baseline_range": [
+        162,
+        163
+      ],
+      "hunk_id": "H137",
+      "korean_lines": "331",
+      "sol": "“Those of Nanman who believe in the Earth Mother Goddess will be saved even after death! Those who do not will be cast into a pit of fire!”",
+      "sol_paragraphs": "P146",
+      "sol_range": [
+        145,
+        146
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The tribespeople had already become sons and daughters of the Earth Mother Goddess.",
+      "baseline_paragraphs": "P166",
+      "baseline_range": [
+        165,
+        166
+      ],
+      "hunk_id": "H138",
+      "korean_lines": "337",
+      "sol": "The tribespeople had become the Earth Mother Goddess’s sons and daughters before the Beast Miao King’s eyes. He stared at Jin Taekyung, stunned.",
+      "sol_paragraphs": "P149",
+      "sol_range": [
+        148,
+        149
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Beast Miao King stared at Jin Taekyung with an empty expression.",
+      "baseline_paragraphs": "P167",
+      "baseline_range": [
+        166,
+        167
+      ],
+      "hunk_id": "H139",
+      "korean_lines": "339",
+      "sol": "",
+      "sol_paragraphs": "after P149",
+      "sol_range": [
+        149,
+        149
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "진태경",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Jin Taekyung"
+        },
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "*What the hell are you doing, you lunatic?*",
+      "baseline_paragraphs": "P168",
+      "baseline_range": [
+        167,
+        168
+      ],
+      "hunk_id": "H140",
+      "korean_lines": "341",
+      "sol": "*What are you doing, you lunatic?*",
+      "sol_paragraphs": "P150",
+      "sol_range": [
+        149,
+        150
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He wanted to stop him. He had to stop him.",
+      "baseline_paragraphs": "P169",
+      "baseline_range": [
+        168,
+        169
+      ],
+      "hunk_id": "H141",
+      "korean_lines": "343",
+      "sol": "He wanted to stop him. He *had* to stop him.",
+      "sol_paragraphs": "P151",
+      "sol_range": [
+        150,
+        151
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "He didn’t know anything about politics or packaging, but everyone’s eyes had already gone completely off the rails.",
+      "baseline_paragraphs": "P170",
+      "baseline_range": [
+        169,
+        170
+      ],
+      "hunk_id": "H142",
+      "korean_lines": "345",
+      "sol": "He didn’t know what political maneuvering or dressing things up had to do with this, but the look in everyone’s eyes had already gone frighteningly wild. They screamed to the Earth Mother Goddess as though their throats might tear, their voices shaking heaven and earth.",
+      "sol_paragraphs": "P152",
+      "sol_range": [
+        151,
+        152
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The heavens and earth shook beneath the people’s cries, shouted as though they were vomiting blood.",
+      "baseline_paragraphs": "P171",
+      "baseline_range": [
+        170,
+        171
+      ],
+      "hunk_id": "H143",
+      "korean_lines": "347",
+      "sol": "",
+      "sol_paragraphs": "after P152",
+      "sol_range": [
+        152,
+        152
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Where’s that guy who said he believed in the Wood God?”",
+      "baseline_paragraphs": "P173",
+      "baseline_range": [
+        172,
+        173
+      ],
+      "hunk_id": "H144",
+      "korean_lines": "351",
+      "sol": "“Where’s the bastard who said he worshiped the Wood God?”",
+      "sol_paragraphs": "P154",
+      "sol_range": [
+        153,
+        154
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He’s over there! That one! Throw him into the fiery pit!”",
+      "baseline_paragraphs": "P174",
+      "baseline_range": [
+        173,
+        174
+      ],
+      "hunk_id": "H145",
+      "korean_lines": "353",
+      "sol": "“There! That’s him! Throw him in the fire!”",
+      "sol_paragraphs": "P155",
+      "sol_range": [
+        154,
+        155
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Gasp! No! I-I’ve already converted!”",
+      "baseline_paragraphs": "P175",
+      "baseline_range": [
+        174,
+        175
+      ],
+      "hunk_id": "H146",
+      "korean_lines": "355",
+      "sol": "“Wait! No! I-I’ve already converted!”",
+      "sol_paragraphs": "P156",
+      "sol_range": [
+        155,
+        156
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“He’s one of us! Stop tying him up! Now find the guy who believed in the Fire God!”",
+      "baseline_paragraphs": "P178",
+      "baseline_range": [
+        177,
+        178
+      ],
+      "hunk_id": "H147",
+      "korean_lines": "361",
+      "sol": "“He’s one of us! Stop tying him up! Now find the one who worshiped the Fire God!”",
+      "sol_paragraphs": "P159",
+      "sol_range": [
+        158,
+        159
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A wave of conversions overflowed in every direction.",
+      "baseline_paragraphs": "P179",
+      "baseline_range": [
+        178,
+        179
+      ],
+      "hunk_id": "H148",
+      "korean_lines": "363",
+      "sol": "Conversions spread in every direction.",
+      "sol_paragraphs": "P160",
+      "sol_range": [
+        159,
+        160
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The oppressive force radiating from thousands—tens of thousands—of people was so great that even Jeok Cheongang, who had privately wondered whether he should try believing in the Fire God, fell silent.",
+      "baseline_paragraphs": "P180",
+      "baseline_range": [
+        179,
+        180
+      ],
+      "hunk_id": "H149",
+      "korean_lines": "365",
+      "sol": "Thousands—perhaps tens of thousands—of people pressed in around them. Even Jeok Cheongang, who had privately considered giving the Fire God a try, kept his mouth shut.",
+      "sol_paragraphs": "P161",
+      "sol_range": [
+        160,
+        161
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The Beast Miao King, meanwhile, desperately wanted to stop this insane fervor.",
+      "baseline_paragraphs": "P181",
+      "baseline_range": [
+        180,
+        181
+      ],
+      "hunk_id": "H150",
+      "korean_lines": "367",
+      "sol": "The Beast Miao King desperately wanted to put an end to this madness.",
+      "sol_paragraphs": "P162",
+      "sol_range": [
+        161,
+        162
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“E-enough now…”",
+      "baseline_paragraphs": "P182",
+      "baseline_range": [
+        181,
+        182
+      ],
+      "hunk_id": "H151",
+      "korean_lines": "369",
+      "sol": "“E-enough…”",
+      "sol_paragraphs": "P163",
+      "sol_range": [
+        162,
+        163
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "And at the moment the Beast Miao King finally managed to drag a voice from his throat, Jin Taekyung’s shout rang out.",
+      "baseline_paragraphs": "P183",
+      "baseline_range": [
+        182,
+        183
+      ],
+      "hunk_id": "H152",
+      "korean_lines": "371",
+      "sol": "He had barely managed to speak when Jin Taekyung’s voice rang out.",
+      "sol_paragraphs": "P164",
+      "sol_range": [
+        163,
+        164
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "“Everyone, quiet! The Palace Lord of the Nanman Beast Palace—the priest chosen by the Earth Mother Goddess—is about to speak!”",
+      "baseline_paragraphs": "P184",
+      "baseline_range": [
+        183,
+        184
+      ],
+      "hunk_id": "H153",
+      "korean_lines": "373",
+      "sol": "“Everyone, quiet! The Palace Lord of the Nanman Beast Palace, the priest chosen by the Earth Mother Goddess, is speaking!”",
+      "sol_paragraphs": "P165",
+      "sol_range": [
+        164,
+        165
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“Enough…what?”",
+      "baseline_paragraphs": "P185",
+      "baseline_range": [
+        184,
+        185
+      ],
+      "hunk_id": "H154",
+      "korean_lines": "375",
+      "sol": "“Enough… What?”",
+      "sol_paragraphs": "P166",
+      "sol_range": [
+        165,
+        166
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "“What kind of boss?”",
+      "baseline_paragraphs": "P187",
+      "baseline_range": [
+        186,
+        187
+      ],
+      "hunk_id": "H155",
+      "korean_lines": "379",
+      "sol": "",
+      "sol_paragraphs": "after P167",
+      "sol_range": [
+        167,
+        167
+      ],
+      "tag": "delete",
+      "terminology_alerts": [
+        {
+          "korean": "사장님",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Boss"
+        }
+      ]
+    },
+    {
+      "baseline": "Before the Beast Miao King could even understand the meaning of the word, countless gazes flew toward him.",
+      "baseline_paragraphs": "P189",
+      "baseline_range": [
+        188,
+        189
+      ],
+      "hunk_id": "H156",
+      "korean_lines": "379",
+      "sol": "Before the Beast Miao King could make sense of the word, countless eyes turned toward him.",
+      "sol_paragraphs": "P169",
+      "sol_range": [
+        168,
+        169
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "A suffocating silence settled over the entire area.",
+      "baseline_paragraphs": "P190",
+      "baseline_range": [
+        189,
+        190
+      ],
+      "hunk_id": "H157",
+      "korean_lines": "379",
+      "sol": "",
+      "sol_paragraphs": "after P169",
+      "sol_range": [
+        169,
+        169
+      ],
+      "tag": "delete",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "Even he, a Palace Lord with considerable popularity, had never seen gazes so filled with love and trust.",
+      "baseline_paragraphs": "P191",
+      "baseline_range": [
+        190,
+        191
+      ],
+      "hunk_id": "H158",
+      "korean_lines": "379",
+      "sol": "A suffocating silence settled over the crowd. He was a well-liked Palace Lord, but he had never seen his people look at him with so much love and trust.",
+      "sol_paragraphs": "P170",
+      "sol_range": [
+        169,
+        170
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "The next moment, the lips of the Beast Miao King, who had gone rigid like a statue, parted.",
+      "baseline_paragraphs": "P193",
+      "baseline_range": [
+        192,
+        193
+      ],
+      "hunk_id": "H159",
+      "korean_lines": "379",
+      "sol": "He stood frozen as a statue. Then his lips parted.",
+      "sol_paragraphs": "P172",
+      "sol_range": [
+        171,
+        172
+      ],
+      "tag": "replace",
+      "terminology_alerts": [
+        {
+          "korean": "야수묘왕",
+          "message": "preferred glossary term appears in BASE but not SOL for this hunk",
+          "preferred": "Beast Miao King"
+        }
+      ]
+    },
+    {
+      "baseline": "Under the care of the great Earth Mother Goddess, it was a historic moment—the true unification of Nanman.",
+      "baseline_paragraphs": "P196",
+      "baseline_range": [
+        195,
+        196
+      ],
+      "hunk_id": "H160",
+      "korean_lines": "379",
+      "sol": "And so, under the care of the great Earth Mother Goddess, Nanman achieved true unity at last.",
+      "sol_paragraphs": "P175",
+      "sol_range": [
+        174,
+        175
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    },
+    {
+      "baseline": "[^1]: The Sixteen Kingdoms was a period of political fragmentation and competing states in Chinese history.",
+      "baseline_paragraphs": "P197",
+      "baseline_range": [
+        196,
+        197
+      ],
+      "hunk_id": "H161",
+      "korean_lines": "379",
+      "sol": "[^1]: Taekyung means that other players repeatedly insulted his mother, a common form of abuse in online games.\n[^2]: The Five Barbarians and Sixteen Kingdoms refers to a period of upheaval and competing states in Chinese history.\n[^3]: In Korean, Taekyung coins *alsseuljapsin*, a jokey abbreviation of “lesser gods it’s useless to know.”",
+      "sol_paragraphs": "P176",
+      "sol_range": [
+        175,
+        176
+      ],
+      "tag": "replace",
+      "terminology_alerts": []
+    }
+  ],
+  "sol_blocks": 176,
+  "sol_sha256": "b6efd7bad289c4e708d93ef236dbe55efb2049addca46f08f5356d05a6c81045",
+  "version": 1
+}

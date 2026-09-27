@@ -1,10 +1,10 @@
 # Chapter 721
 
-Even now, nearly ten days after *that day*, restoration work was still underway at the Nanman Beast Palace.
+Nearly ten days after *that day*, restoration work was still underway at the Nanman Beast Palace.
 
 The Inner Palace, its very heart, had been completely devastated. The Outer Palace had also suffered considerable damage in the aftermath of the battle.
 
-Fortunately, by mobilizing all the warriors and beasts, they had managed to clear away most of the rubble in a short time. But considering all the houses and pavilions that still had to be built for the tribespeople who had suddenly lost their homes, the road ahead seemed endless.
+Fortunately, with every warrior and beast lending a hand, they had cleared most of the rubble in a short time. But they still had houses and pavilions to build for the tribespeople who had lost their homes. The road ahead was long.
 
 “Right, we lift together on three. One, two.”
 
@@ -12,7 +12,7 @@ Fortunately, by mobilizing all the warriors and beasts, they had managed to clea
 
 *Grrrrind!*
 
-They combined their strength to lift a huge boulder, then hoisted thick timber onto bruised shoulders.
+Together, they raised a huge boulder. Others shouldered thick timbers on bruised shoulders.
 
 Despite the unending hard labor, no one complained. This was work for everyone’s sake.
 
@@ -36,7 +36,7 @@ The middle-aged man held it out without thinking. He had inherited his family’
 
 “You can’t do it with strength alone. Put your weight behind the ax and follow the grain. One clean whack. Want me to show you?”
 
-The middle-aged man stared blankly at the young man speaking to him so affably.
+The middle-aged man stared at the young man, who spoke to him as easily as if they were old friends.
 
 Something about him felt unfamiliar. Not simply because they had never met. It was his appearance, and the halting way he spoke, almost like a child.
 
@@ -46,7 +46,7 @@ Then a thought struck him.
 
 “Han Chinese? Yes.”
 
-“Ah, then you’re the one I’ve only heard about through rumors…”
+“Ah! Then you’re the one I’ve heard so much about…”
 
 “That’s right. I’m the one.”
 
@@ -58,25 +58,25 @@ The young man gave him a warm smile.
 
 “The Blazing Flame Divine Dragon, Jin Tae… Wait. Mujin who?”
 
-“Hyuk Mujin. The famous Blazing Flame Divine Dragon Jin Taekyung’s right-hand man! The pillar of the great Jin Family of Taiyuan! The proud Vice Pavilion Master of the Murim Alliance’s Fire Dragon Pavilion!”
+“Hyuk Mujin. The famous Blazing Flame Divine Dragon Jin Taekyung’s right-hand man! A pillar of the great Jin Family of Taiyuan! The proud Vice Pavilion Master of the Murim Alliance’s Fire Dragon Pavilion!”
 
-What the hell was wrong with this guy?
+What was with this guy?
 
-*Hyuk…what?*
+*Hyuk…who?*
 
 Did Han Chinese people have names like that?
 
-The middle-aged man stared at Hyuk Mujin with an uncertain expression, but just as he was about to pick up his ax again—
+The middle-aged man gave Hyuk Mujin a dubious look and reached for his ax again.
 
 *Tap. Tap-tap.*
 
-Raindrops suddenly began to fall.
+Raindrops began to fall.
 
-At the same time, sighs escaped from the people working nearby. There was a mountain of work left to do, and rain would naturally slow them down.
+Sighs rose from the people working nearby. They had a mountain of work left, and rain would only slow them down.
 
 “Damn it. Now it’s raining out of a clear sky.”
 
-“What can we do? We’ll just have to think of it as a passing shower.”
+“What can we do? Let’s hope it’s just a passing shower.”
 
 “Come on! Let’s keep at it a little longer!”
 
@@ -98,13 +98,11 @@ Startled, he opened his eyes.
 
 Hyuk Mujin’s face had gone rigid. He was staring at the middle-aged man’s palm.
 
-Slowly.
-
 The wounds were disappearing. No—healing.
 
-The blisters that had filled both palms, the skin crushed and torn by swinging the ax…
+The blisters covering both palms. The skin crushed and torn by the ax handle.
 
-The rain washed away the abundant blood, revealing new muscle and flesh beneath—paler and firmer than before.
+Rain washed the blood away, revealing muscle and flesh that looked paler and firmer than before.
 
 “……!”
 
@@ -146,9 +144,9 @@ Jeok Cheongang. The Beast Miao King. And Jin Taekyung.
 
 “I’ve called them all out, just as you asked,” Jeok Cheongang whispered. “Now what?”
 
-“Wouldn’t it be enough to tell them to come outside and get rained on? They’ll understand once they experience it themselves.”
+“Couldn’t we just tell them to stand in the rain?” the Beast Miao King asked. “They’ll understand once they feel it.”
 
-At the Beast Miao King and Jeok Cheongang’s whispers, Jin Taekyung shook his head without hesitation.
+Jin Taekyung shook his head.
 
 Unlike those two martial artists to the bone, he had been born and raised in the modern world. He knew what marketing could do.
 
@@ -164,9 +162,9 @@ Martial artists could reach the end of their lives without learning a thing abou
 
 It was a ruthless world. Being bad at a game was enough to make people wish you dead.
 
-Jin Taekyung, who had been called an orphan dozens of times in games he had logged into just for fun, knew the importance of politics better than anyone.
+Jin Taekyung had logged into games for fun and been made an orphan dozens of times over.[^1] He knew the importance of politics better than anyone.
 
-*Make the guy who did well look like he failed, and the guy who failed look like he did well. And…*
+*Make the guy who did well look bad. Make the guy who did badly look good. And…*
 
 Make the guy who did well look even better. That was politics. Modern marketing.
 
@@ -174,7 +172,7 @@ He wasn’t about to waste this opportunity.
 
 *It’d be a shame if everyone just went, “Wow, a miracle!” and left it at that.*
 
-He muttered inwardly, then took a deep breath. He shouted toward the people, filling his voice with internal energy.
+He took a deep breath, put internal energy into his voice, and called to the crowd.
 
 “Listen, everyone! This holy rain was bestowed by the Earth Mother Goddess!”
 
@@ -196,31 +194,31 @@ People blinked at the unfamiliar name. Beside him, the Beast Miao King frowned.
 
 While the Beast Miao King stood speechless, Jin Taekyung went on.
 
-“The Earth Mother Goddess is the mother of this land, and she is the One God!”
+“The Earth Mother Goddess is the mother of this land—and its one and only god!”
 
 “……!”
 
 “……!”
 
-The One God.
+*One and only.*
 
 The crowd gaped.
 
 Nanman was home to thirty-two tribes and more than a hundred local gods—far more gods than tribes. And Jin Taekyung was telling them there was only one?
 
-Nanman might have suffered a disaster and the Nanman Beast Palace might have gone to shit, but the faith they had held all their lives remained.
+Disaster had struck, and the Nanman Beast Palace was a wreck, but that hadn’t erased anyone’s lifelong faith. Angry voices broke out across the crowd.
 
 “What nonsense!”
 
 “I’ve never even heard of an Earth Mother Goddess!”
 
-“I know you have worked hard for Nanman, but how dare you utter such blasphemy! The Wood God I worship is the One God!”
+“I know what you’ve done for Nanman, but how dare you say such a thing! The Wood God I worship is the one true god!”
 
 “Don’t bring the Wood God into this! The Fire God is the true god!”
 
 “You little bastard!”
 
-Yet Jin Taekyung looked pleased as he watched the believers grabbing one another by the collars and fighting.
+The gathering dissolved into chaos. Believers grabbed one another by the collar, ready to fight, while Jin Taekyung watched with satisfaction.
 
 *Idiots.*
 
@@ -228,7 +226,7 @@ Nanman’s religious landscape was as chaotic as the era of the Five Barbarians 
 
 “You fools! Can you stand in this holy rain and still not feel the Earth Mother Goddess’s grace?”
 
-His stern reprimand rang across the courtyard, and the noise vanished as if it had been washed away.
+His stern shout rang out, and the noise vanished.
 
 One tribesman, his fist drawn back for an uppercut, looked at the sky in confusion.
 
@@ -238,13 +236,13 @@ Rain fell from a cloudless sky. It healed the sick and brought new shoots out of
 
 “B-but the Wood God…”
 
-“So what did your Wood God do ten days ago? Even when I was setting fire to the mountain, it didn’t do much.”
+“What was your Wood God doing ten days ago? I was setting fire to the mountain, and he didn’t do a damn thing.”
 
 “W-well…”
 
 Jin Taekyung cut him off with another shout.
 
-“Everyone gathered here must have seen it! The dazzling radiance of that day! The warmth!”
+“Everyone here saw it! The dazzling light that day! The warmth!”
 
 “……!”
 
@@ -258,9 +256,9 @@ They *had* seen and felt it all. And the rain falling on them now was another mi
 
 Even the name sounded warm and familiar. Saying it brought a mother’s embrace to mind.
 
-And she was the One God, too. The one and only One God.
+And she was the only god. The one and only.
 
-“Th-then what are the other gods we’ve worshiped until now?”
+“Th-then what about the other gods we’ve worshiped all our lives?”
 
 Jin Taekyung answered without a moment’s hesitation.
 
@@ -268,7 +266,7 @@ Jin Taekyung answered without a moment’s hesitation.
 
 “L-lesser gods…!”
 
-“The Earth Mother Goddess bestowed this miracle and gave me a divine message: ‘Useless gods. The kind that aren’t worth knowing.’ She told me to protect you from them.”
+“When the Earth Mother Goddess worked this miracle, she gave me a divine message: ‘Those gods aren’t worth knowing. Protect my people from them.’”[^3]
 
 “Oh! Ohhh!”
 
@@ -278,7 +276,7 @@ Excitement swept through the crowd. They were all shouting together now.
 
 Jin Taekyung seized the moment and threw both hands into the air.
 
-“Shout together! Earth Mother Goddess!”
+“Say it with me! Earth Mother Goddess!”
 
 “Earth Mother Goddess! Earth Mother Goddess!”
 
@@ -286,11 +284,11 @@ Jin Taekyung seized the moment and threw both hands into the air.
 
 “Earth Mother Goddess! Earth Mother Goddess!”
 
-“Repeat after me. Mother Goddess Heaven! Unbeliever Hell!”
+“Now this! Mother Goddess Heaven! Unbeliever Hell!”
 
 “Mother Goddess Heaven! Unbeliever Hell!”
 
-“Those in Nanman who believe in the Earth Mother Goddess will be saved even after death, while those who do not believe will fall into a pit of fire when they die!”
+“Those of Nanman who believe in the Earth Mother Goddess will be saved even after death! Those who do not will be cast into a pit of fire!”
 
 “Woooooah! O Mother Goddess!”
 
@@ -298,7 +296,7 @@ Jin Taekyung seized the moment and threw both hands into the air.
 
 The tribespeople had become the Earth Mother Goddess’s sons and daughters before the Beast Miao King’s eyes. He stared at Jin Taekyung, stunned.
 
-*What the hell are you doing, you lunatic?*
+*What are you doing, you lunatic?*
 
 He wanted to stop him. He *had* to stop him.
 
@@ -306,11 +304,11 @@ He didn’t know what political maneuvering or dressing things up had to do with
 
 “Mother Goddess Heaven! Unbeliever Hell!”
 
-“Where’s that guy who said he believed in the Wood God?”
+“Where’s the bastard who said he worshiped the Wood God?”
 
 “There! That’s him! Throw him in the fire!”
 
-“Gasp! No! I-I’ve already converted!”
+“Wait! No! I-I’ve already converted!”
 
 “Prove it!”
 
@@ -318,23 +316,21 @@ He didn’t know what political maneuvering or dressing things up had to do with
 
 “He’s one of us! Stop tying him up! Now find the one who worshiped the Fire God!”
 
-A wave of conversions overflowed in every direction.
+Conversions spread in every direction.
 
-The oppressive force radiating from thousands—tens of thousands—of people was so great that even Jeok Cheongang, who had privately wondered whether he should try believing in the Fire God, fell silent.
+Thousands—perhaps tens of thousands—of people pressed in around them. Even Jeok Cheongang, who had privately considered giving the Fire God a try, kept his mouth shut.
 
 The Beast Miao King desperately wanted to put an end to this madness.
 
-“E-enough now…”
+“E-enough…”
 
 He had barely managed to speak when Jin Taekyung’s voice rang out.
 
-“Everyone, quiet! The Palace Lord of the Nanman Beast Palace—the priest chosen by the Earth Mother Goddess—is about to speak!”
+“Everyone, quiet! The Palace Lord of the Nanman Beast Palace, the priest chosen by the Earth Mother Goddess, is speaking!”
 
 “Enough… What?”
 
 “Please speak, Priest.”
-
-“What kind of boss?”
 
 *Priest? Me?*
 
