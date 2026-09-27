@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.88,
+      "current": "There were only about a hundred enemies stationed in the rear, but every last one had reached the level of injuring others with Sword Energy.",
+      "defect": "The count conflicts with the later description of more than a hundred Peak masters surrounding Jin.",
+      "id": "C01",
+      "rationale": "Keeps the number consistent within the chapter and with the checkpoint continuity.",
+      "replacement": "There were more than a hundred enemies stationed in the rear, and every last one had reached the level of injuring others with Sword Energy.",
+      "severity": "minor",
+      "source": "Chapter 1039, defenders in the rear"
+    },
+    {
+      "confidence": 0.97,
+      "current": "> **System**\n> **Lv. ???**\n> **Chuk Banghyeol**",
+      "defect": "The panel bolds the entire Level readout and name, unlike the corresponding panels in Chapter 1035.",
+      "id": "C02",
+      "rationale": "Uses the established readout format and reserves bold for the panel heading.",
+      "replacement": "> **System**\n>\n> Lv. ??? Chuk Banghyeol",
+      "severity": "minor",
+      "source": "Chapter 1038, Blood-Sword Demon Lord Level panel"
+    },
+    {
+      "confidence": 0.97,
+      "current": "> **System**\n> **Level:** 170\n> **So Gunak**",
+      "defect": "The readout changes from the established single-line Lv. format and unnecessarily bolds the name.",
+      "id": "C03",
+      "rationale": "Matches the Level panels used for named opponents in Chapter 1035.",
+      "replacement": "> **System**\n>\n> Lv. 170 So Gunak",
+      "severity": "minor",
+      "source": "Chapter 1039, first So Gunak Level panel"
+    },
+    {
+      "confidence": 0.97,
+      "current": "> **System**\n> **Level:** 173\n> **So Gunak**",
+      "defect": "The readout changes from the established single-line Lv. format and unnecessarily bolds the name.",
+      "id": "C04",
+      "rationale": "Keeps the successive Level changes visually consistent with the earlier panels.",
+      "replacement": "> **System**\n>\n> Lv. 173 So Gunak",
+      "severity": "minor",
+      "source": "Chapter 1039, second So Gunak Level panel"
+    },
+    {
+      "confidence": 0.97,
+      "current": "> **System**\n> **Level:** 175\n> **So Gunak**",
+      "defect": "The readout changes from the established single-line Lv. format and unnecessarily bolds the name.",
+      "id": "C05",
+      "rationale": "Keeps the successive Level changes visually consistent with the earlier panels.",
+      "replacement": "> **System**\n>\n> Lv. 175 So Gunak",
+      "severity": "minor",
+      "source": "Chapter 1039, third So Gunak Level panel"
+    }
+  ],
+  "summary": "The continuity and hooks hold across the five chapters. One troop count and four System panels need correction.",
+  "version": 1
+}
