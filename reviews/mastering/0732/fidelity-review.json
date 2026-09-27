@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.95,
+      "current": "a mutt raised in the neighborhood next door",
+      "defect": "“Mutt” softens 개새끼, a profane insult meaning “bastard dog.”",
+      "id": "F01",
+      "rationale": "The Korean uses the same blunt profanity as the surrounding insults; the current wording reduces its force.",
+      "replacement": "a bastard dog raised in the neighborhood next door",
+      "severity": "minor",
+      "source": "Line 111; Jin’s comparison of Huginn to a dog"
+    }
+  ],
+  "summary": "The chapter is faithful overall, with one minor softening of an insult.",
+  "version": 1
+}

@@ -16,7 +16,7 @@ I waved my smartphone at Huginn, who stood frozen like a statue.
 
 The screen’s light flickered in Huginn’s golden eyes.
 
-At Team Leader Choi’s request, I had uploaded the file to a personal social media account I’d created months ago and never used. The words **Post published** were displayed on the screen.
+On my personal social media account—one I’d created months ago and never used—were the words **Post published**.
 
 “Guess that’s what you get in the Vice Guild Master’s office. Even the Wi-Fi’s on another level. The file’s pretty big, too, though it might not look like much.”
 
@@ -32,7 +32,7 @@ His voice sounded ready to boil over. I blinked my deer-like eyes at him.
 
 Huginn’s skin flushed dark red. He took a deep breath before speaking again, his voice controlled.
 
-“Delete it now. It is not too late.”
+“Delete it. It is not too late.”
 
 I put on a serious face.
 
@@ -54,7 +54,7 @@ Huginn realized the vibrations were notifications that people were sharing the p
 
 “You have my word.”
 
-“But people are going to curse me out. They’ll say I baited everyone and then deleted the post and ran. I already scattered so much bait everywhere that this won’t end with just a moderate amount of abuse.”
+“But people will curse me out. They’ll say I got everyone worked up, then deleted the post and ran. I’ve already dropped so many hints that I won’t get away with a little abuse.”
 
 “For now, you could announce that the Mana Cultivation Method needs further improvement… No. Rather than waste time discussing it, why not delete the post immediately?”
 
@@ -76,11 +76,9 @@ Beside the motionless Huginn, Team Leader Choi answered thoughtfully.
 
 “Kimchi stew?”
 
-“Yes. Kimchi stew boiled with plenty of pork. And white rice.”
+“Yes. With plenty of pork in it. And white rice.”
 
 “Oh, you know your food.”
-
-The moment I exclaimed in admiration—
 
 Crack.
 
@@ -102,7 +100,7 @@ Team Leader Choi nodded.
 
 “That’s because we’ve been listening to bullshit since early evening. A dog barking once or twice can be cute, but it gets tiring when it won’t stop.”
 
-“Especially when it isn’t my dog, but a mutt raised in the neighborhood next door.”
+I looked at Huginn and added, “Especially when it isn’t your dog. It’s some bastard dog from the next neighborhood.”
 
 “…!”
 
@@ -142,7 +140,7 @@ Huginn had been listening to us. Now he spoke coldly.
 
 “I assure you, before long you will lose everything. And then you will have nothing left to repair.”
 
-At Huginn’s vicious words, I snorted quietly.
+I gave a short laugh at his vicious words.
 
 “The longer I look at you, the harder it is to tell whether you’re a crow or a bastard dog.”
 
@@ -154,7 +152,7 @@ The moment I finished speaking, wind gusted from somewhere.
 
 The vast mana pouring from Huginn’s body writhed. His aura was easily powerful enough for an S-rank Hunter—everything I’d expected, and more.
 
-But the power that seemed ready to overflow in every direction stopped dead at Team Leader Choi’s quiet words.
+But before it could spill across the room, Team Leader Choi spoke quietly.
 
 “I cannot take responsibility for what happens next.”
 
@@ -200,7 +198,7 @@ Something appeared in Huginn’s eyes as he answered—surprise, perhaps, or dou
 
 Click.
 
-Team Leader Choi stared silently at the firmly closed door and muttered:
+Team Leader Choi stared silently at the closed door.
 
 “So it begins.”
 
@@ -208,7 +206,7 @@ Team Leader Choi stared silently at the firmly closed door and muttered:
 
 “They were more blatant than I expected. And…”
 
-His voice trailed off. Team Leader Choi glanced briefly at the empty space Huginn had left behind before continuing.
+His voice trailed off. He glanced at the space Huginn had occupied.
 
 “I doubt they sent a messenger only because of the Mana Cultivation Method.”
 
@@ -216,7 +214,7 @@ His voice trailed off. Team Leader Choi glanced briefly at the empty space Hugin
 
 “I had the feeling he came to confirm someone’s absence. Someone as important to them as the Mana Cultivation Method the world will see tomorrow. Perhaps more important.”
 
-I closed my mouth and quietly repeated one person’s name.
+I fell silent and thought of a name.
 
 *Cheon Taemin.*
 
@@ -230,11 +228,11 @@ Only six people knew that Cheon Taemin was in a vegetative state.
 
 Team Leader Choi and me. Song Song and Im Kkeokjeong. The Skeleton King and Magic Johnson.
 
-Everyone who had known the truth before them was already dead.
+Everyone who had known before us was dead.
 
 Lee Jungryong. Song Cheonwoo. And finally, Go Jun.
 
-In the past and even now, the truth about Cheon Taemin was something that could never be revealed to the outside world. And Magic Johnson, whom we had been forced to ask for help, was someone Team Leader Choi had more than enough reason to trust.
+The truth about Cheon Taemin could not be allowed to spread, now or before. And Magic Johnson, whom we’d had no choice but to ask for help, was someone Team Leader Choi had good reason to trust. He was the one who had moved Cheon Taemin out of the secret area and placed various protective spells on him.
 
 *Wait. Magic?*
 
@@ -246,7 +244,7 @@ My expression stiffened as a thought struck me. Team Leader Choi nodded.
 
 “Yes. Lee Jungryong had help. Mr. Johnson said Area A had been constructed by a mage on the level of a Grand Mage.”
 
-“Then, could it be…”
+“Then…”
 
 “The secret could have been leaked from the very beginning.”
 
@@ -266,7 +264,7 @@ I scratched my chin. “Maybe it’s just me, but you seem pretty relaxed for so
 
 “Pardon?”
 
-“No, it feels like your words and actions don’t match. You’ve always been the kind of person who put safety first, but just now, you didn’t even blink before using your grandfather’s name to make a bluff.”
+“Your words and actions don’t match. You usually put safety first, but a minute ago you used your grandfather’s name to bluff without batting an eye.”
 
 Team Leader Choi blinked, then gave a quiet laugh.
 
@@ -278,7 +276,7 @@ Team Leader Choi blinked, then gave a quiet laugh.
 
 “…Huh?”
 
-“No matter how powerful a card our enemies play, I have a Joker card named Jin Taekyung. Naturally, that makes me bolder.”
+“No matter how strong a card our enemies play, I have a joker: you. Of course that makes me bolder.”
 
 For a moment, I couldn’t think of a reply. I stood there stammering like Samryong the Mute,[^2] and Team Leader Choi’s smile deepened.
 
@@ -290,7 +288,7 @@ For a moment, I couldn’t think of a reply. I stood there stammering like Samry
 
 Pat, pat.
 
-Team Leader Choi tapped me on the shoulder, picked up his coat, and left the office. I stood there dazed for a moment, watching his back with an incredulous expression.
+He tapped me on the shoulder, picked up his coat, and left the office. I stood there for a moment, staring after him in disbelief.
 
 Team Leader Choi had changed. He hadn’t used to be like this.
 
@@ -298,9 +296,7 @@ But, well…
 
 *I don’t mind it.*
 
-I muttered inwardly and followed him.
-
-Even now, the smartphone in my pocket continued to buzz without end.
+I followed him out. In my pocket, my phone kept buzzing without pause.
 
 [^1]: The Korean proverb means taking corrective action only after the damage is done; literally, “after losing the cow, repair the barn.”
 [^2]: Samryong the Mute is the title character of a well-known Korean short story by Na Do-hyang.
