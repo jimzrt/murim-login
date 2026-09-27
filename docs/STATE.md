@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1036
-- Next chapter: 1037
-- Current block: 1035–1039 (2/5)
-- Latest translation: `translations/1036.md`
-- Latest summary: `summaries/beats/1036.md`
-- Safe profiles through: chapter 1036
+- Last completed: 1037
+- Next chapter: 1038
+- Current block: 1035–1039 (3/5)
+- Latest translation: `translations/1037.md`
+- Latest summary: `summaries/beats/1037.md`
+- Safe profiles through: chapter 1037
 
 ## Current Block
 
-- Jin Taekyung recognizes the Moving Formation, the corrupted Water God Dragon and Blood Fish, the rift, and the Black Ghosts as evidence of Magic. Jeok Cheongang pulls him clear of the Blood-Sword Demon Lord’s attack, and a veiled white-robed woman’s gravity magic delays his attempt to rejoin Jeok. Fighting through the Dark Heaven followers, Jin realizes the System can answer a mass summon from his Inventory: he awakens his Middle Dantian and Will, summons one hundred blades, and prepares to unleash them.
+- Sama Pyo realizes he can dodge a powerful enemy’s Sword Energy only by exposing an ally to it, so he stays and is nearly killed. A young Black Dragon Demon Gate martial artist he had saved earlier intervenes and dies saving him. Sima Gong arrives with the Gate’s elite, and Sama Pyo confronts him for delaying his arrival and choosing a different path from his father’s. Sima Gong recognizes the dead young man as one of two people he had ordered placed in the front line, where both died. Elsewhere, Jin Taekyung cuts through the enemy ranks with controlled weapons and launches White Flame at the Blood-Sword Demon Lord as he charges Jeok Cheongang; the result is unresolved.
 
 ## Open Questions
 
