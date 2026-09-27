@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "That one word explained the bizarre sight unfolding before my eyes.",
+      "defect": "The source says “those two characters” (그 두 글자), referring to 재생. “One word” changes the stated quantity.",
+      "id": "F01",
+      "rationale": "The Korean explicitly describes 재생 as two characters; the assembled English instead calls it one word.",
+      "replacement": "Those two characters explained the bizarre sight unfolding before my eyes.",
+      "severity": "minor",
+      "source": "Lines 19–21"
+    }
+  ],
+  "summary": "The chapter is broadly faithful; one explicit quantity is changed.",
+  "version": 1
+}

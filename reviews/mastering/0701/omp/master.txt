@@ -8,7 +8,7 @@ Step.
 
 His stride never faltered as he emerged from the settling cloud of dust.
 
-As the masked man’s form gradually came into focus, I muttered like a groan.
+As his figure came into focus, I muttered through a groan.
 
 “…Fuck. What the hell is that?”
 
@@ -18,7 +18,7 @@ I wasn’t looking for an answer. I already knew.
 
 That one word explained the bizarre sight unfolding before my eyes.
 
-Crack. Slither.
+Crack. Rustle.
 
 Shattered bones joined together. Flesh and blood filled the wounds.
 
@@ -34,7 +34,7 @@ As the guardian spirit’s lament reached me, the masked man finished healing an
 
 Crunch.
 
-He broke the elbow that had already fused back together himself, then aligned it and healed it again.
+He broke the bone that had already fused, set it in place, and let it heal again.
 
 The pain must have been tremendous, yet he didn’t so much as twitch an eyebrow. At last, I understood what had felt wrong about him during our fight.
 
@@ -48,15 +48,13 @@ But the masked man hadn’t groaned or screamed once. Not when I’d driven a da
 
 Had he gone somewhere for a painkilling shot?
 
-As I stared at the emotionless eyes visible above his mask and swallowed a low groan, someone’s small, snow-white foot stepped onto the damp earth.
+I stared at the emotionless eyes above his mask and swallowed a groan. Then a small, snow-white foot touched the damp earth.
 
-Scuff.
-
-From the sky to the ground.
+Softly.
 
 The Southern Heaven Demon Empress had descended from the sky. Now she landed lightly and smiled.
 
-“You look like you’ve seen a ghost. Then again, I suppose you weren’t all that surprised? You saw it once in Henan.”
+“You look like you’ve seen a ghost. Then again, I suppose you aren’t that surprised. You saw something like this once in Henan.”
 
 Grrr.
 
@@ -64,7 +62,7 @@ With a low growl, the guardian spirit raised its enormous, bloodstained body on 
 
 Its breathing was much rougher than it had been at the start. If it fought her now, it would lose. No question.
 
-I stepped in front of the guardian spirit and opened my mouth.
+I stepped in front of it.
 
 “Yeah. The Blood Lord. That crazy bastard was the same.”
 
@@ -72,9 +70,9 @@ I stepped in front of the guardian spirit and opened my mouth.
 
 “If I scared that easily, I’d have died ages ago.”
 
-“Maybe it’s because you’re young. You can’t help the bluffing.”
+“Is it because you’re young? You just can’t help showing off.”
 
-A bluff.
+*Showing off.*
 
 What the Blood Lord had done during the Shaolin Bloodshed had certainly surprised me. It hadn’t scared me out of my wits.
 
@@ -146,15 +144,15 @@ Was I not worth killing? Was it all just a game to her?
 
 I didn’t know the full story, but I was certain neither answer was right. I was Fire King Jeok Cheongang’s only Disciple and a successor of the Fire Gate Clan.
 
-If she got me into her hands, she could lure in Jeok Cheongang, who would become a major obstacle to Dark Heaven’s future movements, and kill him. Even if that attempt came to nothing, she could still obtain the Fire Gate Clan’s supreme arts.
+If she took me captive, she could use me to draw in Jeok Cheongang and kill him before he became a serious obstacle to Dark Heaven. Even if that failed, she could still get her hands on the Fire Gate Clan’s supreme martial arts.
 
 There were plenty of ways to make a man talk.
 
-Torture. Torture. And endless torture.
+Torture. Torture. And more torture.
 
 But she hadn’t killed me when I was completely taken in by her. She hadn’t abducted me either.
 
-She had merely watched me right before my eyes, then vanished without a trace. Like an observer sent on someone else’s orders.
+She had simply watched me up close, then vanished. Like someone sent to keep an eye on me.
 
 My dry lips parted.
 
@@ -162,7 +160,7 @@ My dry lips parted.
 
 The Southern Heaven Demon Empress’s lips had pressed shut at some point. My question did nothing to open them.
 
-After a brief silence, she gave only a short answer.
+After a brief silence, she gave me a curt answer.
 
 “What could an insignificant creature like you know of that omnipotent, exalted one’s will?”
 
@@ -178,11 +176,11 @@ A thought flashed through my mind. I spoke it aloud.
 
 I saw her eyes waver. A derisive laugh slipped out of me.
 
-“Fucking idiot.”
+“Idiot.”
 
 “…What?”
 
-“I said you’re a fucking idiot. You worthless fucking idiot of an old hag.”
+“I said you’re an idiot. You insignificant old hag.”
 
 That was enough to light the Southern Heaven Demon Empress’s fuse.
 
@@ -232,13 +230,13 @@ Maybe it was nerves, but my footstep sounded unusually loud. Her eyes had turned
 
 “You mean to fight me? You?”
 
-Her voice was cold and eerie. I let out a deep sigh before answering.
+Her voice was cold. I let out a long sigh.
 
 “That hurts. We insignificant creatures ought to look out for each other. Don’t you think?”
 
 “…!”
 
-“Choose. Kill me and get your ass kicked by the Lord of Heaven, or die nicely right here.”
+“Choose. Kill me and get your knees kicked in by the Lord of Heaven, or die quietly right here.”
 
 Hack—ptoo.
 
@@ -248,13 +246,13 @@ When I spoke again, my voice sounded unfamiliar. Cold.
 
 “For the record… I’ll fight until I die.”
 
-Fwoosh—boom!
+Fwoosh—bang!
 
 Flamefire Path.
 
 A single line of flame shot forward, consuming the air in its path.
 
-And at the end of that path stood a monster wrapped in deep darkness.
+And at the end of that path stood a monster wrapped in darkness.
 
 Whoooosh—boom!
 
@@ -268,9 +266,9 @@ The ground split beneath Jin Taekyung’s descending spearhead, and searing heat
 
 The Southern Heaven Demon Empress dodged the strike by a hair and thrust out her hand.
 
-Kraaaaaash!
+Rooooar!
 
-A palm strike carrying unprecedented qi collided with the spearhead slicing through space like a ray of light.
+Her palm strike, charged with power beyond anything she had known before, met the spearhead streaking through the air like a ray of light.
 
 Qi collided with qi. The difference in strength was unmistakable.
 
@@ -280,9 +278,9 @@ Compressed air exploded, and one figure was hurled backward.
 
 Delight shone in the Southern Heaven Demon Empress’s eyes.
 
-*That wretch is nothing.*
+*He’s nothing.*
 
-Jin Taekyung’s martial power had clearly advanced at an unbelievable pace. He had changed so much that she found herself wondering whether he was truly the same boy she had met in Hubei.
+Jin Taekyung’s martial arts had advanced at an unbelievable pace. He had changed so much that she could scarcely believe he was the same young man she’d met in Hubei.
 
 Perhaps the greatest obstacle to their grand plan was no longer the Beast Miao King, but Jin Taekyung.
 
@@ -296,7 +294,7 @@ The denser the demonic qi flowing from the rift grew, the stronger she became.
 
 Even now.
 
-Pop!
+Flash!
 
 One step.
 
@@ -320,4 +318,4 @@ Blood spurted. Jin Taekyung staggered.
 
 The Southern Heaven Demon Empress beamed as she brought the edge of her hand down toward him.
 
-Shu-whaack!
+Whoooosh!
