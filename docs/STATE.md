@@ -1,17 +1,15 @@
 # Translation State
 
-- Last completed: 1056
-- Next chapter: 1057
-- Current block: 1055–1059 (2/5)
-- Latest translation: `translations/1056.md`
-- Latest summary: `summaries/beats/1056.md`
-- Safe profiles through: chapter 1056
+- Last completed: 1057
+- Next chapter: 1058
+- Current block: 1055–1059 (3/5)
+- Latest translation: `translations/1057.md`
+- Latest summary: `summaries/beats/1057.md`
+- Safe profiles through: chapter 1057
 
 ## Current Block
 
-- Sama Pyo explains that he returned not to kill Sima Gong but to see his father through his final moments. He accepts responsibility for concealing the truth about his father’s betrayal; Sima Gong dies before finishing his final words, and Sama Pyo weeps beside him.
-- Jin Taekyung, exhausted while fighting the Dark Heaven cultists, nearly falls to their blades. Taishan and the others arrive and help him, and the reunited group includes Sama Pyo.
-- Taekyung welcomes Sama Pyo, who asks whether he is late. Taekyung answers that he is not.
+- The allied forces annihilate Dark Heaven’s army on the snowfield. As the exhausted Jin Taekyung orders Sama Pyo to stay back, Pyo says he will leave the Fire Dragon Pavilion and face his own burdens alone. Taekyung recalls that Pyo deliberately let Namho suspect his father’s covert actions to protect their companions, and says he still trusts him as a friend. Pyo continues across the battlefield to confront the Kongtong Sect Leader, whose killing intent bears down on him.
 
 ## Open Questions
 
@@ -19,6 +17,7 @@
 - Where did the missing Kongtong Sect survivors go?
 - What is the new mission in Qinghai, and who is the other servant there?
 - What is the mysterious green light?
+- What will happen when Sama Pyo confronts the Kongtong Sect Leader?
 
 ## Exceptional Decision
 
