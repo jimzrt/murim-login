@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "These mulberry trees had been planted by Zhuge Feng’s descendants, who laid the foundation for the Zhuge Clan as it stood today.",
+      "defect": "Attributes the planting to Zhuge Feng’s descendants rather than Zhuge Wuhou’s.",
+      "id": "F01",
+      "rationale": "The antecedent of 그의 is the ancient ancestor Zhuge Wuhou, whose supposed planting of the trees Zhuge Feng has just rejected.",
+      "replacement": "These mulberry trees had been planted by Zhuge Wuhou’s descendants, who laid the foundation for the Zhuge Clan as it stood today.",
+      "severity": "critical",
+      "source": "이 뽕나무들은 현재의 제갈세가의 반석을 다진 그의 후손들이 심은 것이다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“When you return, I hope you’ll have fruit.”",
+      "defect": "Makes the tree the one that returns, rather than Zhuge Feng.",
+      "id": "F02",
+      "rationale": "Zhuge Feng speaks to the tree immediately before leaving; he hopes to find it bearing fruit upon his return.",
+      "replacement": "“When I come back, I hope you’ll be bearing fruit.”",
+      "severity": "critical",
+      "source": "“다시 돌아올 때는, 열매가 맺혀 있길 바라마.”"
+    },
+    {
+      "confidence": 0.96,
+      "current": "“This garden is surrounded on all sides, for over a hundred *jang*, by the Family Head’s Hall. Even direct descendants of our family need my permission to enter.”",
+      "defect": "Changes the garden’s place within the restricted area into a garden surrounded by the hall.",
+      "id": "F03",
+      "rationale": "The Korean places the garden at the center of an area extending some hundred jang, all of which belongs to the Family Head’s Hall.",
+      "replacement": "“This garden and everything within roughly a hundred *jang* of it are part of the Family Head’s Hall. Even our family’s direct descendants need my permission to enter.”",
+      "severity": "major",
+      "source": "“이 화원을 중심으로 일백여 장이 전부 가주전(家主殿)입니다. 본가의 직계들도 제 허락이 있어야 들어올 수 있지요.”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "*Wuhou followed Emperor Zhaolie of Han to settle in Bashu. There’s no way the mulberry trees he planted himself could be thousands of *li* away, in Hubei.*",
+      "defect": "Nested asterisks break the italic formatting of the direct thought.",
+      "id": "F04",
+      "rationale": "The entire passage is a direct thought and should remain italicized.",
+      "replacement": "*Wuhou followed Emperor Zhaolie of Han to settle in Bashu. There’s no way the mulberry trees he planted himself could be thousands of li away, in Hubei.*",
+      "severity": "minor",
+      "source": "‘무후께서는 한의 소열제(昭烈帝)를 따라 파촉 땅에 자리 잡았거늘, 그분께서 손수 심으셨던 뽕나무가 수천 리 밖의 호북에 있을 리 없지.’"
+    }
+  ],
+  "summary": "Four actionable fidelity and Markdown defects.",
+  "version": 1
+}
