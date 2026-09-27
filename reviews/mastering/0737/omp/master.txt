@@ -4,7 +4,7 @@ Michael Silbert.
 
 Anyone living in the modern world knew his name.
 
-He was the Guild Master of Odin Guild, called the greatest in the world, and an extraordinary figure even among the countless heroes born from the Great Cataclysm.
+He was the master of Odin Guild, the greatest Guild in the world, and stood out even among the countless heroes born of the Great Cataclysm.
 
 People loved Michael Silbert for risking his life to save them. I had admired him too.
 
@@ -22,7 +22,7 @@ A few words broke the silence, but they were enough. We had recognized each othe
 
 *This is…*
 
-I could feel it: the immense power compressed inside that neither-large-nor-small body. It was more powerful than Lee Jungryong’s—or rather, more powerful than any S-rank Hunter I had ever faced.
+I could feel the immense power compressed into that unremarkable frame. It was stronger than Lee Jungryong’s—stronger than that of any S-rank Hunter I had ever faced.
 
 And that was not all I realized.
 
@@ -38,13 +38,13 @@ My question echoed his first words, but it meant something very different. Micha
 
 “What?”
 
-“It’s an obvious and trite story anyway. There’s no point in asking or answering anything more.”
+“It’s an obvious, tired story. Hardly worth asking about.”
 
 What the hell was this bastard talking about?
 
 For a moment, I forgot my anger and stood frozen. Michael blinked at me, looking genuinely puzzled.
 
-“I don’t understand why you look so surprised. We already understand each other’s intentions, and now that negotiations have broken down, this is merely the inevitable next step.”
+“I don’t understand that expression. We both made our positions clear. Negotiations failed. This was the natural next step.”
 
 “You son of a—”
 
@@ -60,7 +60,7 @@ He cut me off as though none of this mattered. Then Michael Silbert—the hero o
 
 He opened his fist. Ash mixed with monster blood lay in his palm, calling up a sight I had witnessed countless times a few weeks ago.
 
-Fanatics dying in droves all around me. Their screams. Grains of desert sand made sticky with blood flowing like a river…
+Fanatics dying all around me. Their screams. Desert sand sticky with blood that flowed like a river…
 
 Through those memories, his low voice reached me.
 
@@ -80,7 +80,7 @@ The instant it all fell into place—
 
 *Fwoosh.*
 
-My vision burned hot. Three jiazi of Scorching Yang Qi surged from my dantian, transformed into lava, and flowed through my limbs and bones.
+Heat washed across my vision. Three jiazi of Scorching Yang Qi surged from my dantian and flowed like lava through every limb and meridian.
 
 I was ready. From the moment I had first faced him, my mind had been searching without pause for the best way to move.
 
@@ -96,7 +96,7 @@ But—
 
 *Grab.*
 
-Two hands seized my shoulders, and a familiar voice struck my ears.
+Two hands seized my shoulders. Familiar voices reached my ears.
 
 “Mr. Jin Taekyung!”
 
@@ -128,7 +128,7 @@ By the time I reached that thought, both my head and my heart had gone cold.
 
 The aura I had built up, ready to burst, subsided. Michael Silbert sighed softly.
 
-“What a shame. You looked much better when you were full of youthful fire.”
+“A pity. You looked much better fired up like that.”
 
 “Shut up before I tear your mouth apart.”
 
@@ -150,7 +150,7 @@ That strange look brought my dulled sense of danger snapping back.
 
 Magic Johnson had given him a clean new identity, and he was working as a Hunter with Peace Guild. Even so, it would be a problem if he drew the wrong kind of attention.
 
-Michael Silbert was that difficult an opponent. The moment a weakness appeared, he would pounce without mercy and tear into it.
+Michael Silbert was a dangerous enemy. The moment he found a weakness, he would pounce and tear into it.
 
 *Should I have left him behind?*
 
@@ -166,7 +166,7 @@ Team Leader Choi answered in an icy voice.
 
 “I certainly intend to tell him exactly what I saw and heard.”
 
-There was not a trace of hesitation in his answer.
+He answered without a moment’s hesitation. Michael was still studying him when—
 
 *Whoosh! Whoosh!*
 
@@ -182,7 +182,7 @@ He spared us a glance, then hurried to Michael and bowed.
 
 “That’s enough for now. Have people gathered?”
 
-“Not only the nearby citizens. Every reporter in Paris is waiting for you.”
+“Nearby residents, and every reporter in Paris is waiting for you.”
 
 “Faster than I expected.”
 
@@ -204,13 +204,13 @@ Dozens of gears, large and small, meshing without a fraction of an inch out of p
 
 That was why they could discuss it openly in front of us. They knew we had no way to stop the gears once they were turning.
 
-Even if we shouted the truth for three days and three nights in front of the countless cameras camped out in the distance, no one would believe us anyway.
+We could stand before the cameras waiting in the distance and tell the truth for three days and nights. No one would believe us.
 
 The worst part was that those madmen were right. Force alone could not change that reality.
 
 “I’m sorry, but I must be going. A great many people are waiting for me.”
 
-Michael Silbert acknowledged me, Team Leader Choi, and finally the Skeleton King with a glance before slowly turning away.
+Michael Silbert gave me, Team Leader Choi, and finally the Skeleton King a glance of acknowledgment before turning away.
 
 Then he stopped and added, “You’ll be busy from now on. Far busier than you expect.”
 
@@ -236,15 +236,13 @@ Winter turned red.
 
 “It has begun.”
 
-At Huginn’s low voice beside his ear, Michael Silbert calmly asked:
-
-“Where this time?”
+At Huginn’s low voice beside him, Michael Silbert asked calmly, “Where this time?”
 
 “London.”
 
 “The old king will be furious.”
 
-“Buckingham Palace should be fine. London Bridge will collapse instead.”
+“Buckingham Palace will be fine. London Bridge, on the other hand, will fall.”
 
 Michael gave a soft laugh at his subordinate’s dry joke.
 
@@ -256,13 +254,11 @@ Huginn had brought ten people back from the desert. Every one of them was a dera
 
 Their bombs would bring down buildings. Their unrefined Magic Gems would be enough to shatter people’s hopes.
 
-*And our Odin Guild will piece that shattered hope back together.*
+*And Odin Guild will put those shattered hopes back together.*
 
 Everything was ready.
 
-He had reached this position through countless sacrifices and effort.
-
-He could tolerate neither a single mistake nor failure.
+Countless sacrifices and years of effort had brought him to this position. He could allow no mistake, no failure.
 
 As the reporters drew closer and the citizens’ cheers reached him, Michael hid his smile behind a grief-stricken expression.
 
