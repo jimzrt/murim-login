@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Because of that, the rain falling over our heads sounded especially loud. Beyond it, the Beast Miao King’s towering figure moved.",
+      "defect": "The preceding sentence already says the rain sounded louder against the silence. This repeats that image, which the source states only once, before the Beast Miao King moves.",
+      "id": "F01",
+      "rationale": "The Korean describes the rain sounding unusually loud, then moves directly to the Beast Miao King’s figure moving.",
+      "replacement": "Beyond it, the Beast Miao King’s towering figure moved.",
+      "severity": "minor",
+      "source": "Lines 367–370"
+    },
+    {
+      "confidence": 0.98,
+      "current": "*Well, that buff is incredible.*",
+      "defect": "The assembled English omits the narrator’s small nod before his thought about the buff.",
+      "id": "F02",
+      "rationale": "The source explicitly contrasts the astonishing pace with the narrator nodding rather than showing surprise.",
+      "replacement": "But instead of being surprised, I gave a small nod.\n\n*Well, that buff is incredible.*",
+      "severity": "minor",
+      "source": "Lines 109–111"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even allowing for the fact that the Nanman warriors were inferior to the martial arts of the Central Plains, they still represented an immense military force.",
+      "defect": "The assembled English drops the estimates of tens of thousands of tribespeople and nearly ten thousand warriors, as well as the beasts they command. Those details establish the scale behind the small-kingdom comparison.",
+      "id": "F03",
+      "rationale": "The source gives both population and warrior quantities, then adds the commanded beasts before judging the force’s scale.",
+      "replacement": "There were tens of thousands of tribespeople and nearly ten thousand warriors. And if you counted the beasts they commanded, it was by no means an exaggeration. Even allowing for the fact that the Nanman warriors were inferior to the martial arts of the Central Plains, they still represented an immense military force.",
+      "severity": "minor",
+      "source": "Lines 153–159"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but it repeats one image and omits a physical beat and key force estimates.",
+  "version": 1
+}

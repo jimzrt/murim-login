@@ -6,7 +6,7 @@ The rain that had come to be called the Sacred Rain still fell across Nanman. Be
 
 *Thud! Craaack!*
 
-With a single swing of an ax from an older man, a massive tree snapped, while a thin woman casually hoisted a mountain of firewood.
+A middle-aged man felled a massive tree with a single swing of his ax. A thin woman hoisted a mountain of firewood as though it weighed nothing.
 
 Watching from the window, I muttered, “Wow. They got one hell of a buff.”
 
@@ -40,7 +40,7 @@ A brief silence passed. Then, as if on cue, we both let out a quiet laugh.
 
 “It’s all thanks to you, Jin Taekyung.”
 
-“We all worked hard, but that’s true. I did contribute quite a lot.”
+“We all worked hard, but you’re right. I did do most of it.”
 
 The smile on Yayul Mok’s face deepened at my shameless reply.
 
@@ -90,7 +90,7 @@ I kept that last thought to myself and changed the subject.
 
 “If you mean the restoration, we’re already in the final stages. We should see the finished results within a few days at the latest.”
 
-Considering that the Inner Palace had been reduced to a wasteland and more than several hundred houses and pavilions in the Outer Palace had collapsed, it was a truly astonishing pace.
+The Inner Palace had been devastated, and hundreds of houses and pavilions had collapsed in the Outer Palace alone. The speed was astonishing, but instead of expressing surprise, I nodded.
 
 *Well, that buff is incredible.*
 
@@ -114,17 +114,17 @@ He nodded.
 
 “She was the first to propose abolishing it.”
 
-The tribal chieftains who had joined hands with Baeksang had been executed in front of countless witnesses, but Yohi alone had received a full pardon.
+The tribal chieftains who had joined forces with Baeksang had been executed before countless witnesses. Yohi alone had been pardoned.
 
 She had repented of her wrongdoing, however late. More importantly, she had led the beasts in helping the tribespeople escape the Outer Palace. No one had raised any real objection to her pardon.
 
-“She said that she couldn’t leave behind the same precedent as Baeksang, Heugung, and herself.”
+“She said we couldn’t allow another Baeksang, Heugung, or Yohi to come after them.”
 
 “She’s right. The Great Chieftains had too much power.”
 
 “Father and the other tribal chieftains agreed. From now on, the Nanman Beast Palace will answer to the Palace Lord alone. The Tribal Grand Council will remain in case of an emergency. And…”
 
-As I listened to the rest of Yayul Mok’s explanation, I realized once again that the Nanman Beast Palace had been reborn.
+As Yayul Mok continued, I realized once again how thoroughly the Nanman Beast Palace had changed.
 
 The Beast Miao King was now both Palace Lord and priest, with authority far greater than before. The appearance of the Earth Mother Goddess had calmed the people, and they had come together regardless of tribe or faith.
 
@@ -132,7 +132,7 @@ For hundreds of years, since the founding of the Nanman Beast Palace, this land 
 
 *You really could call it a small kingdom now.*
 
-Even allowing for the fact that the Nanman warriors were inferior to the martial arts of the Central Plains, they still represented an immense military force.
+Tens of thousands of tribespeople. Nearly ten thousand warriors. Add the beasts they commanded, and it was no exaggeration. Even if Nanman’s warriors fell short of the martial artists of the Central Plains, they were a formidable force.
 
 I looked at Yayul Mok with fresh interest.
 
@@ -178,11 +178,11 @@ I took the bundle of bamboo strips, still bewildered.
 >
 > — The Earth Mother Goddess has become known as the One God of Nanman!
 >
-> — Countless believers who follow the Earth Mother Goddess are ecstatic!
+> — Countless followers of the Earth Mother Goddess are rejoicing!
 >
-> — According to the records in Mother Goddess Scripture, your name has become known anew!
+> — Through the records of Mother Goddess Scripture, your name has become known in a new light!
 >
-> — You have achieved Religious Reformation, an achievement that makes one wonder whether anyone would actually go this far!
+> — You have achieved Religious Reformation, an achievement that makes one wonder if anyone else would go this far!
 >
 > — You have acquired the Title Apostle of the Earth Mother Goddess!
 
@@ -190,15 +190,15 @@ Holographic windows filled the air along with the System notifications.
 
 I stared at them for a moment, then hurriedly unrolled the bamboo strips. After reading the tiny writing on them, I burst out laughing in disbelief.
 
-“What is this?”
+“What the hell is this?”
 
-Seeing my reaction, Yayul Mok shrugged.
+Yayul Mok shrugged.
 
-“It says exactly what it means. The Earth Mother Goddess has been with this land since ancient times as its mother goddess, and whenever Nanman fell into crisis, she personally sent her apostle to save the people…”
+“Exactly what it says. The Earth Mother Goddess has been with this land since ancient times. Whenever Nanman faced a crisis, she sent an apostle to save its people…”
 
 “And that’s me?”
 
-“Of course. Three hundred years ago, it was my ancestor, the first Palace Lord. And two hundred years ago, it was the Sect Leader of the Fire Gate Clan at the time—the clan you belong to.”
+“Yes. Three hundred years ago, her apostle was my ancestor, the first Palace Lord. Two hundred years ago, it was the Sect Leader of your Fire Gate Clan.”
 
 They’d managed to fit it all together.
 
@@ -212,11 +212,11 @@ I skimmed the rest and found plenty I recognized. Jeok Cheongang, of course. The
 
 This was supposed to be something like a Bible. Could they really put us all in it?
 
-“I know it was thrown together in a hurry, but this is ridiculous. Who the hell came up with this setting?”
+“I know you threw it together in a hurry, but come on. Who the hell wrote this backstory?”
 
-“My father.”
+“Father.”
 
-“No wonder it’s so impressive. How did he manage to make the setting this detailed?”
+“No wonder it’s so good. How did he make it all fit together so neatly?”
 
 “…”
 
@@ -242,15 +242,15 @@ After a moment’s silence, I smacked my lips.
 
 “You’re sharp.”
 
-“It would be strange if I hadn’t noticed.”
+“I’d have to be blind not to notice.”
 
 “How did you find out?”
 
 “Even if I ignored everyone else, that huge fellow has been frantically gathering food since yesterday. As if he’s preparing for a long journey.”
 
-There was no need to ask who he meant by “that huge fellow.” Guessing the culprit, I sighed.
+There was no need to ask who he meant. I sighed.
 
-“Taishan, you crazy bastard. I told you to move quietly.”
+“Taishan, you crazy bastard. I told you to keep it quiet.”
 
 “Your master, Fire King Jeok Cheongang, made off with five jars of fruit wine.”
 
@@ -270,7 +270,7 @@ It wasn’t until we neared the North Gate that I realized Yayul Mok hadn’t be
 
 Thousands of people. Maybe tens of thousands.
 
-Among the countless people filling the field outside the North Gate, where fresh grass and flowers had spread thanks to the life-giving downpour, I saw several familiar faces.
+The field beyond the gate was covered in fresh grass and flowers, brought to life by the rain. Amid the crowd filling it, I spotted familiar faces.
 
 Jeok Cheongang stood in front of a cart loaded with jars of fruit wine, pretending nothing was out of the ordinary.
 
@@ -300,13 +300,13 @@ I scratched the back of my head.
 
 “…”
 
-Was this what they called a question-mark murderer?
+Was this what they called death by a thousand questions?
 
 I couldn’t find an answer. The Beast Miao King, a full head taller than me, gazed down at me.
 
 “Blazing Flame Divine Dragon Jin Taekyung.”
 
-It was a quiet summons. The Beast Miao King continued in a solemn voice.
+His voice was low. Then, in a stern tone, he continued.
 
 “You came to our homeland for a reason. You had a purpose here, did you not?”
 
@@ -330,7 +330,7 @@ Silence fell.
 
 Tens of thousands of people stood together, yet I couldn’t hear a single breath. Against that silence, the rain falling on our heads sounded louder than ever.
 
-Because of that, the rain falling over our heads sounded especially loud. Beyond it, the Beast Miao King’s towering figure moved.
+Beyond its curtain, the Beast Miao King moved.
 
 *Rustle.*
 
@@ -338,6 +338,6 @@ His back was as firm as a pillar—the back of the Palace Lord of the Nanman Bea
 
 Before all his people, he offered me a deeply respectful clasped-fist bow.
 
-“I, Yayul Cheok, the Beast Miao King, on behalf of everyone who lives on this land, formally petition Great Hero Jin Taekyung, Fire Dragon Pavilion Master, for our admission into the Murim Alliance.”
+“I, Yayul Cheok, the Beast Miao King, on behalf of everyone in this land, ask Great Hero Jin Taekyung, Fire Dragon Pavilion Master, to admit us into the Murim Alliance.”
 
 The rain was beginning to ease.
