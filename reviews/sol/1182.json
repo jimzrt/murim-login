@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "The battle was fierce.\n\nAnd merciless.",
+      "defect": "“Merciless” describes cruelty rather than the desperate, grueling nature of the fighting.",
+      "id": "F01",
+      "rationale": "처절했다 characterizes the struggle as desperate or harrowing, not as showing no mercy.",
+      "replacement": "The battle was fierce.\n\nAnd desperate.",
+      "severity": "minor",
+      "source": "전투는 격렬했다.\n동시에 처절했다."
+    },
+    {
+      "confidence": 0.88,
+      "current": "Not for the greater cause, but for the sake of humanity.\n\n*Humanity. Humanity…*",
+      "defect": "“For the sake of humanity” suggests a grand mission to save humankind, blurring the explicit contrast with a grand cause.",
+      "id": "F02",
+      "rationale": "인의 here concerns humane obligation to people; the Emperor has moved to protect those who follow him.",
+      "replacement": "Not for some grand cause, but out of compassion for his people.\n\n*Compassion. Compassion…*",
+      "severity": "major",
+      "source": "대의(大義)가 아닌, 인의(人義)를 위해서.\n\n‘인의, 인의라.’"
+    },
+    {
+      "confidence": 0.84,
+      "current": "He felt fear and pain just like everyone else—perhaps even more than they did. But he believed that what he was doing was an act of humanity.",
+      "defect": "“An act of humanity” is vague and does not carry through the humane obligation that explains why Jin advances despite his fear.",
+      "id": "F03",
+      "rationale": "The source makes his belief in 인의 the reason he keeps going despite fear and pain.",
+      "replacement": "He felt fear and pain just like everyone else—perhaps even more than they did. But he pressed on because he believed it was the compassionate thing to do.",
+      "severity": "major",
+      "source": "그가 남들과 같은, 아니 그보다 더욱 큰 두려움과 고통을 느끼고 있음에도 그것이 인의라 믿기 때문이었다."
+    }
+  ],
+  "summary": "The battle’s desperation and the Emperor’s motive are softened or shifted in three passages.",
+  "version": 1
+}
