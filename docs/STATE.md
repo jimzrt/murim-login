@@ -1,21 +1,20 @@
 # Translation State
 
-- Last completed: 1134
-- Next chapter: 1135
-- Current block: 1130–1134 (5/5)
-- Latest translation: `translations/1134.md`
-- Latest summary: `summaries/beats/1134.md`
-- Safe profiles through: chapter 1134
+- Last completed: 1135
+- Next chapter: 1136
+- Current block: 1135–1139 (1/5)
+- Latest translation: `translations/1135.md`
+- Latest summary: `summaries/beats/1135.md`
+- Safe profiles through: chapter 1135
 
 ## Current Block
 
-- Ma Sanbao assembled roughly five thousand troops, including three thousand monsters, and changed his plan to target Henan and Shanxi in two groups. He sent about three thousand followers through the Grand Mage’s Magic Formation, but an ambush prepared by Zhuge Feng killed roughly two thousand before they could begin their advance. Unable to move, Ma Sanbao recognized Zhuge Feng and threatened him.
-- Baek Yeon appeared with the Son of Heaven. The Emperor confronted Ma Sanbao as a traitor; the chapter ends with Ma groaning, without establishing the outcome of the confrontation.
+- The Son of Heaven and Zhuge Feng reveal that they used the Moving Formations to lure Ma Sanbao’s forces into a trap. The advance party and the ten thousand fanatics were destroyed, while former prisoners were sent as bait aboard the fleet Ma Sanbao believed the river bandits had defeated.
+- Ma Sanbao’s attempt to seize the Son of Heaven fails. The Son of Heaven kills him and reveals that Jin Taekyung gave him the White Illusion Jiangshi Art; at Zhu Bao’s request, he chose to use it so he could remain with his younger brother.
 
 ## Open Questions
 
-- What did the Helper give Taekyung?
-- What will happen to Ma Sanbao after the Son of Heaven confronts him?
+- What are the consequences of the Son of Heaven using the White Illusion Jiangshi Art?
 
 ## Exceptional Decision
 
