@@ -16,7 +16,7 @@ Grumbling, I pulled the blanket up to my neck. The woman lying beside me let out
 
 I woke in an instant and shot upright like a soldier hearing the wake-up signal. Then I slowly turned my head.
 
-“Tài lěng le.[^1]”
+“Tài lěng le.”
 
 Good lord. I was stunned twice over. First, because I couldn’t make sense of the situation. Second, because the woman lying beside me was unbelievably beautiful.
 
@@ -30,11 +30,11 @@ I looked around. Red candlelight glowed softly through the room. A strangely pro
 
 A place I’d never visited but had heard plenty about.
 
-*A room salon?[^2]*
+*A room salon?[^1]*
 
-*But why was I here?*
+But why was I here?
 
-I was completely bewildered. What had happened? Yesterday, I’d had a drink with Jinho hyung[^3] and returned to my room at the goshiwon.[^4]
+I was completely bewildered. What had happened? Yesterday, I’d had a drink with Jinho and returned to my room at the goshiwon.
 
 I clearly remembered climbing into the capsule to escape Jinho’s thunderous snoring.
 
@@ -98,7 +98,7 @@ Ding.
 >
 > No response for an extended period. Randomly selecting a character.
 >
-> Searching Murim[^5]… Beginning play as character Jin Taekyung!
+> Searching Murim… Beginning play as character Jin Taekyung!
 >
 > Logged in to Murim.
 >
@@ -152,7 +152,7 @@ It was a far cry from the last game I’d played, but this was a game. I was pla
 
 *But when did I log in?*
 
-I didn’t remember plugging anything in. Just as I was trying to recall what had happened the night before, Wolhwa suddenly held out a bowl full of water in her spotless hands.
+I didn’t remember plugging anything in. Just as I was trying to recall what had happened the night before, Wolhwa suddenly held out a bowl of water in both hands.
 
 “Drink. You don’t seem fully awake yet.”
 
@@ -450,6 +450,8 @@ The instruction manual. That was right—I’d read it. More precisely, I’d re
 
 The moment I finally remembered every warning I’d managed to read, a chill ran through my entire body.
 
+> **Warning**
+>
 > - The player cannot log out at will.
 > - If the player dies during gameplay, resurrection is impossible.
 
@@ -477,8 +479,4 @@ At that moment, a single thought filled my head.
 
 *I’m fucked.*
 
-[^1]: *Tài lěng le* is Mandarin Chinese for “It’s too cold.”
-[^2]: A room salon is a Korean private-room entertainment venue where customers are served food, alcohol, and conversation by hostesses.
-[^3]: *Hyung* is a Korean term a man uses to address an older brother or an older male friend.
-[^4]: A *goshiwon* is a Korean building of small, inexpensive single rooms, often rented by students or people living alone.
-[^5]: *Murim* is the martial arts world of Korean and Chinese martial arts fiction: a society of fighters, sects, and clans.
+[^1]: A room salon is a Korean private-room entertainment venue where customers are served food, alcohol, and conversation by hostesses.

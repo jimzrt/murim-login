@@ -1,0 +1,79 @@
+{
+  "chapter": 2,
+  "errors": [],
+  "metrics": {
+    "baseline_preserved": 0.998,
+    "length_ratio": 2.314,
+    "source_characters": 6746,
+    "source_paragraphs": 226,
+    "translation_characters": 15613,
+    "translation_paragraphs": 203
+  },
+  "passed": true,
+  "version": 1,
+  "warnings": [
+    {
+      "code": "system_brackets",
+      "details": {
+        "line": 101
+      },
+      "message": "System window contains square brackets"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진호",
+        "preferred": "Jin-ho"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "진태",
+        "preferred": "Jintae"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "갑자",
+        "preferred": "jiazi"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "피어",
+        "preferred": "Fear"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "중국",
+        "preferred": "China"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "선미",
+        "preferred": "stern"
+      },
+      "message": "matched preferred term is absent"
+    },
+    {
+      "code": "terminology",
+      "details": {
+        "korean": "성하",
+        "preferred": "Seongha"
+      },
+      "message": "matched preferred term is absent"
+    }
+  ]
+}
