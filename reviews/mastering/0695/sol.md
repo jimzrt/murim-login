@@ -20,7 +20,7 @@ The young warrior had just returned from patrol. His senior, a graying middle-ag
 
 “Well, you’ve got me there.”
 
-The Nanman Beast Palace had three gates in total: the East, the West, and the North Gate where they were stationed.
+The Nanman Beast Palace had three gates: East, West, and North, where they were stationed.
 
 There had never been a South Gate. The sheer cliff behind the Inner Palace was stronger than any gate.
 
@@ -56,7 +56,7 @@ The older warrior was hardly the only one to see it coming. Anyone with a little
 
 Civil war. Their first in some three hundred years.
 
-To pass through the road leading to the Central Plains, they would have to walk over the corpses and blood of comrades with whom they had shared hardship until only a few days ago.
+To take the road toward the Central Plains, they would have to tread through the blood of comrades who had stood beside them only days ago.
 
 “…”
 
@@ -88,7 +88,7 @@ But what could they do? When the people above gave an order, you obeyed.
 
 The older warrior sighed and climbed onto the wall. Just as he had expected, it was quiet up there.
 
-Well, there was at least one man left behind. The problem was that he was asleep and snoring loudly.
+One man had stayed at his post, at least. Unfortunately, he was snoring.
 
 *…Fine. Rest while you can.*
 
@@ -140,7 +140,7 @@ Whoosh!
 
 Two silver figures, one large and one small, raced across the pasture on the cool wind.
 
-By then, the number of White Tigers had increased to two. They stopped before the enormous iron gate, along with the man and woman riding on their backs.
+They were White Tigers. Both stopped before the enormous iron gate, a man and a woman riding on their backs.
 
 *Th-that’s…*
 
@@ -150,7 +150,7 @@ Someone else might not have recognized the pair at once. But he had been respons
 
 How could he fail to know them?
 
-The woman was one of Nanman’s only four Great Chieftains, while the other young man was…
+The woman was one of Nanman’s four Great Chieftains. And the young man…
 
 *Jin Taekyung.*
 
@@ -168,21 +168,21 @@ Before he could finish the thought, the young man who had kept his lips shut unt
 
 “…!”
 
-The middle-aged warrior froze just as he instinctively began to sound the alarm. Watching him, Jin Taekyung inwardly let out a sigh of relief.
+The older warrior froze, his hand already moving by instinct toward the alarm bell. Watching him, Jin Taekyung breathed a silent sigh of relief.
 
 *Thank God. I’m not too late.*
 
 One look at the warrior’s face had told him Dark Heaven’s scheme had not yet begun. If the rift had opened, this place would already be a hellscape where no one could live.
 
-And yet, within this stillness—a stillness so quiet that it felt ominous—he sensed a bomb with its fuse burning down.
+Yet in the silence—so deep it felt ominous—he could almost sense a bomb’s fuse burning down.
 
 “Right, Whitey?”
 
-The enormous body beneath his backside flinched.
+The enormous body beneath him flinched.
 
 The guardian spirit of the sacred stone had regained its former appearance, a White Tiger befitting its title. It sent him a thought.
 
-—…How dare you call this body a name like that?
+—…You dare call me that?
 
 “You’d have been Blackie before. Not that I’m a racist.”
 
@@ -190,7 +190,7 @@ The guardian spirit of the sacred stone had regained its former appearance, a Wh
 
 *A madman, huh? Yeah, I’ve heard that a fair few times.*
 
-Muttering inwardly, Jin Taekyung gave a quiet laugh and lowered the spearhead in his hand.
+Jin Taekyung gave a quiet laugh and lowered the spearhead in his hand.
 
 Was he afraid of what lay ahead? Of course he was.
 
@@ -198,21 +198,21 @@ But he had survived countless brushes with death to reach this place, and he had
 
 Baeksang. The Southern Heaven Demon Empress. Dark Heaven.
 
-It no longer mattered who stood in his way. He would simply stake his life and fight back.
+It no longer mattered who stood in his way. He would stake his life and fight.
 
-*That’s right. Stake my life.*
+*That’s right. My life.*
 
 Tens of thousands of lives hung on this battle. Hundreds of thousands. Perhaps more.
 
-Blood might flow like rivers, and corpses might pile up into mountains.
+Blood might flow in rivers, and corpses might rise in mountains.
 
 But…
 
 *I have to do it.*
 
-*Do everything in your power, then leave the result to Heaven and wait.*
+Someone had once said to do everything within your power, then leave the outcome to Heaven.
 
-But Jin Taekyung thought differently. Only when a person could even change the will of Heaven could it truly be called *Will*.
+Jin Taekyung disagreed. If you couldn’t change even Heaven’s will, what right did you have to call it *Will*?
 
 *Isn’t that right?*
 
@@ -226,7 +226,7 @@ Even if the Lord of Heaven was waiting behind the iron gate.
 
 Swish! Slash!
 
-In an instant, a blue-white Force tore through the air like a flash of light and split the enormous iron gate in two.
+A blue-white Force flashed through the air and split the massive iron gate in two.
 
 The guardian spirit, reborn as a dazzling silver White Tiger, let out a roar that shook Heaven and Earth.
 
@@ -262,7 +262,7 @@ At the head of them all was one man.
 
 “Let’s go.”
 
-At the same time, the guardian spirit powerfully kicked off the ground.
+At his quiet words, the guardian spirit kicked off the ground.
 
 Whooosh!
 

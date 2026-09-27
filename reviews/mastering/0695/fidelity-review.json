@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "*Do everything in your power, then leave the result to Heaven and wait.*",
+      "defect": "The source introduces this saying with “Someone once said”; the assembled English omits that attribution.",
+      "id": "F01",
+      "rationale": "The Korean explicitly says 누군가 그런 말을 했다 before giving the saying. The accepted baseline also preserves that attribution.",
+      "replacement": "*Someone once said: Do everything in your power, then leave the result to Heaven and wait.*",
+      "severity": "minor",
+      "source": "Lines 235–237"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one omitted attribution.",
+  "version": 1
+}
