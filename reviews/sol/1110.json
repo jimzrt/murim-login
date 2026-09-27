@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Though nothing he’d done in his life had been perfect justice, he had lived by true loyalty.",
+      "defect": "“Nothing he’d done” says none of his actions were perfectly just; the source concedes only that not every action was.",
+      "id": "F01",
+      "rationale": "모든 일이 … 아니었을지라도 qualifies the whole of his record, not each individual deed.",
+      "replacement": "Though not everything he’d done had been perfectly just, he had lived his life true to his loyalty.",
+      "severity": "major",
+      "source": "비록 지금껏 행한 모든 일이 완벽한 정의(正義)는 아니었을지라도, 진정한 충의(忠義)를 지키며 살아온 일평생이었으니."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Toward a final stand in which their bodies would perish, but they themselves would remain immortal.",
+      "defect": "The draft makes the guards themselves immortal. The source says their final stand will endure.",
+      "id": "F02",
+      "rationale": "불멸로 남을 modifies 최후, their end or final stand.",
+      "replacement": "Toward a final stand that would endure even after their mortal bodies perished.",
+      "severity": "major",
+      "source": "비록 그 육신은 필멸(必滅)이나, 끝내는 불멸(不滅)로 남을 최후를 위해."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Right up to the final moment, when a massive blood-red flash erupted without warning and swallowed everything around them.",
+      "defect": "The draft omits that the guards fall within the flash and substitutes an unsupported claim that it swallows everything around them.",
+      "id": "F03",
+      "rationale": "파묻혀 스러지는 describes their deaths; 사방을 물들이는 describes the flash coloring the surroundings.",
+      "replacement": "Right up to their final moment, when they fell, engulfed by a massive blood-red flash that erupted without warning and stained everything around them.",
+      "severity": "major",
+      "source": "불현듯 터져 나와 사방을 물들이는, 거대한 핏빛 섬광에 파묻혀 스러지는 그 마지막 순간까지도."
+    }
+  ],
+  "summary": "The draft changes the extent of Jeong Hogun’s moral self-assessment and blurs what survives the guards’ final stand.",
+  "version": 1
+}
