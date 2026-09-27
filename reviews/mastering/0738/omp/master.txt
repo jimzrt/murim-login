@@ -14,7 +14,7 @@ But one day in January, before people had even turned the first page of their ne
 
 It was the beginning of a catastrophe.
 
-First, France’s Luxembourg Gardens were stained with blood. Then London Bridge, which had stood through a long and storied history, collapsed. And Brazil’s colossal statue of Jesus, weighing over six hundred tons, toppled over, crushing buildings and people beneath it.
+First, France’s Luxembourg Gardens were stained with blood. Then historic London Bridge collapsed. And Brazil’s colossal statue of Jesus, weighing over six hundred tons, toppled onto buildings and people.
 
 *Rumble, rumble, rumble!*
 
@@ -38,7 +38,7 @@ The name had become synonymous with disaster. Legions of monsters tore through s
 
 Screams filled the forest of skyscrapers that civilization had raised.
 
-Some people fled. Some were seized by monsters, torn apart, and killed. Others raised shining weapons and fought against creatures that did not belong to this world.
+Some people fled. Some were caught by monsters and torn apart. Others raised shining weapons and fought creatures that did not belong to this world.
 
 “Formation! Don’t retreat!”
 
@@ -70,7 +70,7 @@ People watched one shocking report after another on their televisions and smartp
 
 It was the only word for what was happening.
 
-At the same time, the fear spreading like a plague paralyzed people’s reason.
+Fear spread like a plague, paralyzing people’s ability to think.
 
 “Hello? You saw the news, right? I’m coming to pick you up from school right now, so…”
 
@@ -82,7 +82,7 @@ At the same time, the fear spreading like a plague paralyzed people’s reason.
 
 “Fuck, does that matter right now? I’m going to make sure my family’s safe.”
 
-“Hey, hey! Section Chief Kim!”
+“Hey! Section Chief Kim!”
 
 No one could predict a Monster Wave any more than they could predict a natural disaster. People dropped what they were doing and moved as if in a daze.
 
@@ -90,13 +90,13 @@ Toward the homes where their families waited. Or toward emergency shelters where
 
 Offices emptied, most work and road traffic ground to a halt, and people crowding onto the subways could not put down their phones.
 
-What weighed them down now was an extreme fear and anxiety they could not see.
+They were weighed down by a fear and anxiety they could not see.
 
 A Monster Wave might strike right where they stood. They—or someone they loved—might die because of it.
 
 *Wheeeeeeeen.*
 
-—Temporary state of emergency. This is a temporary state of emergency. Residents living nearby are advised to prepare for any eventuality and proceed to an emergency shelter…
+—Temporary state of emergency. A temporary state of emergency has been declared. Residents in the area should proceed to an emergency shelter as a precaution…
 
 Countries around the world declared states of emergency at the same time.
 
@@ -118,7 +118,7 @@ Then the hero who had successfully stopped five of them stepped before countless
 
 Michael Silbert.
 
-As people watched him shed hot tears while mourning the souls of the fallen, they cried along with him.
+He shed tears for the dead, and people wept with him.
 
 They cheered for the hero who had saved so many lives, and for Odin Guild.
 
@@ -130,13 +130,13 @@ No—not everyone.
 
 More than a dozen holographic televisions crumbled to dust with a deafening crash.
 
-I stared at the empty air where a man’s face had appeared only moments ago. Then I suddenly opened my mouth.
+I stared at the empty air where one man’s face had been moments ago, then spoke.
 
 “Should I apologize?”
 
 Team Leader Choi shook his head from the nearby sofa.
 
-“It’s fine. If you hadn’t stepped in, I would have smashed them myself.”
+“It’s all right. If you hadn’t done it, I would have smashed them myself.”
 
 He wasn’t exaggerating or being polite.
 
@@ -144,7 +144,7 @@ I looked at his clenched fist, white with the force of his grip. Drops of blood 
 
 *Drip. Drip.*
 
-The white wool carpet was gradually becoming stained red and green, but no one in the room cared.
+The white wool carpet was staining red and green, but no one in the room cared.
 
 Everything around me felt cold and empty.
 
@@ -160,7 +160,7 @@ It was impossible to stop Monster Waves in major cities thousands, even tens of 
 
 Even if Magic Johnson had been with us, it would have made no difference.
 
-The Monster Waves that occurred today had been planned terrorist attacks from beginning to end—bombs detonating without regard for either time or place.
+Today’s Monster Waves had been planned terrorist attacks from beginning to end. The bombs had gone off at times and places we could not predict.
 
 By the time we heard the news and arrived, all that awaited us were more ruins and more bodies.
 
@@ -178,7 +178,7 @@ Team Leader Choi looked up at my abrupt question. I added one word.
 
 “The targets.”
 
-Team Leader Choi stared into empty space with hollow eyes, then suddenly opened his mouth.
+That was enough. He stared into space with hollow eyes, then spoke.
 
 “Isolation.”
 
@@ -186,7 +186,7 @@ Team Leader Choi stared into empty space with hollow eyes, then suddenly opened 
 
 “Yes. Isolating Ares Guild. That must be what Michael Silbert wants.”
 
-“But why do it like the Paris branch…?”
+“But why, when they could do what they did to the Paris branch…?”
 
 I stopped.
 
@@ -196,9 +196,9 @@ Thoughts raced through my tangled mind. Somewhere among them was an answer I had
 
 The men working with Michael Silbert had not finished their mission.
 
-The final strike that would bring this horrific day to a close—the keen, ice-cold blade that would isolate Ares Guild from the entire world—was rushing toward us.
+One final strike was coming to end this horrific day—a cold blade aimed at cutting Ares Guild off from the rest of the world.
 
-Perhaps even now.
+It might already be on its way.
 
 * * *
 
@@ -220,7 +220,7 @@ Something stirred in the pitch-black darkness.
 
 The word sounded as though it had been whispered into their ears. Several dozen people dropped to their knees and prostrated themselves.
 
-Then they opened their mouths and answered in unison.
+They answered in unison.
 
 “Inshallah.”
 
@@ -232,7 +232,7 @@ It was an invocation that bound them together and a prayer that reminded them of
 
 A long robe brushed the ground. The people bowed their heads lower and murmured as one.
 
-“This lowly servant of Allah humbly greets the great Prophet.”
+“This lowly servant of Allah greets the great Prophet.”
 
 *The Prophet.*
 
@@ -252,13 +252,13 @@ Then they pressed their faces to the ground and answered.
 
 A gust of wind came from somewhere and enveloped them.
 
-Then the Prophet’s voice, mingled with the wind, reached their ears.
+The Prophet’s voice reached their ears on that wind.
 
 “What became of them?”
 
 Everyone knew whom the Prophet meant.
 
-The old man prostrated at the very front opened his mouth.
+The old man prostrated at the front answered.
 
 “They completed the missions entrusted to them and returned to God’s embrace.”
 
@@ -268,10 +268,10 @@ The Prophet gave a slight nod.
 
 “Inshallah.”
 
-Ten warriors had crossed the desert and scattered across the five oceans and six continents. As warriors of God, they had completed their missions and returned to the embrace of God.
+Ten warriors had crossed the desert and scattered across the five oceans and six continents. As warriors of God, they had completed their missions and returned to His embrace.
 
 Now it was time to claim the blood price.
 
-The Prophet spoke in a mysterious voice.
+The Prophet spoke in that unplaceable voice.
 
 “Let the whole world know what brought about all this disaster.”
