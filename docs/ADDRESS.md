@@ -1560,3 +1560,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 달뢰라마 | 적천강 | hostile leader confronting a rival martial master | donor | formal and controlled | Addresses Jeok as 시주 while blocking his departure for the West Gate. |
 | 궁성 | 살성 | allied martial masters | Slaughter Saint | formal-polite | The Bow Saint directly addresses him as 살성 and uses 당신 while urging him to stay and defend the South Gate. |
 | 적천강 | 현천 | allied martial masters defending the North Gate | Hyeoncheon | familiar and direct | Jeok calls out to Hyeoncheon to act. |
+| 태청진인 | 적천강 | younger Daoist elder to senior martial master | Senior | formal and deferential | Apologizes for his impertinence before sending Jeok toward the Inner City. |
+| 혈주 | 곤륜오선 | hostile opponent to elder martial masters | you old men | insulting and threatening | Threatens to tear them apart and orders them to leave. |
