@@ -1498,3 +1498,7 @@ Overrides generic relationship prose in character profiles for this pair.
 | 홍표 | 사마공 | military officer enforcing a checkpoint procedure on a regional sect leader | old man | formally phrased but blunt and disrespectful | Hong Pyo demands Sima Gong’s identity tablet and warns him not to refuse. |
 | 홍표 | 적천강 | military officer enforcing a checkpoint procedure on an older martial artist | old man | blunt and disrespectful | Hong Pyo demands an identity tablet and travel pass, calling Jeok Cheongang suspicious. |
 | 혈검마군 | 삼노 | former Demonic Cult fiend to subordinate | Elder Three | familiar and contemptuous | Addresses the wounded elder as 삼노 while asking how he compares to the Fire King. |
+| 혈검마군 | 적천강 | former opposing martial masters | Senior Jeok | respectful and familiar | Addresses Jeok as 선배 while teasing him. |
+| 적천강 | 혈검마군 | former opposing martial masters | you; you bastard | blunt and hostile | Uses 너 and 네놈 while confronting him. |
+| 혈검마군 | 진태경 | enemy addressing a younger martial artist | you | familiar and measured | Uses 자네 while praising and assessing Taekyung. |
+| 진태경 | 혈검마군 | young martial artist confronting an enemy | you | casual and challenging | Questions when the Blood-Sword Demon Lord and the Lord of Heaven appeared. |
