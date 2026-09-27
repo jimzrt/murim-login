@@ -1588,3 +1588,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 도널드 | 진 | U.S. President speaking to Jin Taekyung | Mr. Jin | Polite | He invites Jin to call him Donny. |
 | 진 | 도널드 | Jin Taekyung speaking to the U.S. President | Donny | Polite | Jin accepts the President’s invitation to use his familiar name. |
 | 척 헤이글 | 스켈레톤 킹 | companions | my bony friend | casual | Chuck uses this familiar address while responding to the Skeleton King. |
+| 스켈레톤 킹 | 모르고스 | opponents | Morgoth; you | hostile informal | The Skeleton King addresses Morgoth directly and rejects his offer. |
+| 모르고스 | 스켈레톤 킹 | opponents | you; 자네 | formal-polite | Morgoth uses courteous, measured speech while addressing the Skeleton King. |
