@@ -2,7 +2,7 @@
 
 Whoosh.
 
-Silence hung over the swift ship as it cut rapidly through the current.
+Silence hung over the fast ship as it cut rapidly through the current.
 
 The river pirates of Water Dragon Stronghold rowed like machines, their mouths clamped shut, while Mu Song stared straight ahead with a rigid expression.
 
@@ -34,7 +34,7 @@ Zhuge Feng answered the old Daoist in an untroubled voice.
 
 “The boatmen’s skill is one factor, but the swift ships that symbolize the Yangtze River Channel League are in a class of their own. Rather than being swept away by strong winds, they can catch the wind and surge forward with even greater force.”
 
-“I have heard some talk about swift ships as well… but I do not know the details, as my experience is limited. I have spent my entire life in Murim,[^1] yet it feels as though I have wasted it.”
+“I have heard some talk about fast ships as well… but I do not know the details, as my experience is limited. I have spent my entire life in Murim, yet it feels as though I have wasted it.”
 
 “You have spent all that time at Wudang’s headquarters, so it is only natural that you would not know. But… may I ask what became of the matter you mentioned last time?”
 
@@ -64,9 +64,11 @@ Of course, there was one exception to all this.
 
 “That little punk has grown.”
 
-At the words of Jeok Cheongang—Murim’s own Bodhidharma-tier[^2] old-timer—I muttered in disbelief.
+At the words of Jeok Cheongang—Murim’s own Bodhidharma-tier old-timer—I muttered in disbelief.
 
 “He sure has. He’s grown so much his beard turned white.”
+
+“……”
 
 “How old was he the last time I saw him? Thirty? Hah. Time certainly flies. Those soft-fuzzed little brats have all become Sect Leaders and Elders.”
 
@@ -78,7 +80,7 @@ Jeok Cheongang glared at me with fire in his eyes.
 
 “No, why would you say something like that?”
 
-I had absolutely no desire to receive a Fire King Zilean[^3] waxing on the deck of a swift ship.
+I had absolutely no desire to receive a Fire King Zilean waxing on the deck of a swift ship.
 
 I waved my hands at the speed of light, then stole a sidelong glance at Jeok Cheongang.
 
@@ -136,7 +138,7 @@ Whoooosh!
 
 A column of water shot high into the air, and the once-steady hull began rocking from side to side.
 
-Cheongpung cheered at the sudden violent motion like a child visiting an amusement park on Children’s Day.[^4]
+Cheongpung cheered at the sudden violent motion like a child visiting an amusement park on Children’s Day.
 
 Hyuk Mujin and Gung Gibang, who still had not recovered from their little dip in the Yangtze, let out ear-splitting screams. Mungyeong alone remained perfectly balanced, but when he noticed everyone looking at him, he tactfully grabbed the railing.
 
@@ -176,7 +178,7 @@ And directly before it, a violent whirlpool twisting like a blade.
 
 Whoooosh! Crack!
 
-A massive log that had drifted in from parts unknown was caught in the whirlpool, which stretched more than a hundred zhang[^5] in radius. Unable to withstand the crushing water pressure, it snapped apart.
+A massive log that had drifted in from parts unknown was caught in the whirlpool, which stretched more than a hundred zhang in radius. Unable to withstand the crushing water pressure, it snapped apart.
 
 Some of the splintered pieces were flung away and smashed into a huge rock standing behind the whirlpool like a gatekeeper, shattering into fragments.
 
@@ -276,7 +278,7 @@ Mu Song nodded, his expression grim.
 
 “W-wait. So you’re saying… you’re a Tianling Falls newbie?”
 
-“I do not know why you are suddenly bringing up Liu Bei,[^6] but of course I am unfamiliar with it. Ever since leaving headquarters and becoming a Stronghold Lord, I have spent all my time in Sichuan.”
+“I do not know why you are suddenly bringing up Liu Bei,[^1] but of course I am unfamiliar with it. Ever since leaving headquarters and becoming a Stronghold Lord, I have spent all my time in Sichuan.”
 
 He had a point.
 
@@ -318,9 +320,4 @@ At Mu Song’s urgent shout, the whirlpool of Tianling Falls opened its maw wide
 
 KRA-KOOOOM!
 
-[^1]: *Murim* is the martial-arts world and its society of sects and fighters.
-[^2]: Bodhidharma is a legendary Buddhist monk associated with Shaolin in martial-arts tradition.
-[^3]: Zilean is an elderly, bearded character in the video game *League of Legends*. The name combines his with Jeok Cheongang’s Fire King title.
-[^4]: Children’s Day is a South Korean holiday celebrating children, observed on May 5.
-[^5]: A *zhang* is ten *ja*, about 3.03 m (9.94 ft). A hundred zhang is about 303 m (994 ft).
-[^6]: Korean *nyubi* (“newbie”) sounds like *Yubi*, the Korean name for Liu Bei.
+[^1]: In Korean, “newbie” is commonly pronounced *nyubi*, which Mu Song mistakes for *Yubi*, the Korean reading of Liu Bei.
