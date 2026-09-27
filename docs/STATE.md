@@ -1,22 +1,24 @@
 # Translation State
 
-- Last completed: 1053
-- Next chapter: 1054
-- Current block: 1050–1054 (4/5)
-- Latest translation: `translations/1053.md`
-- Latest summary: `summaries/beats/1053.md`
-- Safe profiles through: chapter 1053
+- Last completed: 1054
+- Next chapter: 1055
+- Current block: 1050–1054 (5/5)
+- Latest translation: `translations/1054.md`
+- Latest summary: `summaries/beats/1054.md`
+- Safe profiles through: chapter 1054
 
 ## Current Block
 
-- Jin recognizes the severed limbs and robe as evidence that the Grand Mage escaped by Teleport. He concludes she likely reached allies at an unknown location, while Jeok Cheongang and the Bow Saint realize they cannot pursue her. Jin wonders whether the Lord of Heaven is connected to the dead Demon King, Asmodeus, then returns with Jeok and the Bow Saint to the still-raging battle. A force of thousands arrives beneath a torn banner, and the battle’s balance tips as an unknown distant orchestrator intended.
+- The Grand Mage reports to the Lord of Heaven: she deliberately let Kongtong Sect survivors escape, but the Sect Leader and some others later vanished beyond her ability to locate. Her plan also went awry when former allies betrayed the Blood-Sword Demon Lord, Jin Taekyung risked death, and the Fire King and Bow Saint endangered her. The Lord reads her thoughts, rebukes her for questioning him, then reassures her of her loyalty and grants her new power. He sends her to Qinghai to join another servant and complete a new mission as the great plan nears completion. The Grand Mage vanishes in a flash; the Lord remarks that time is passing, and a mysterious green light glimmers in the dispersing darkness.
+- The Grand Mage believes the Lord of Heaven’s increasing power began around the time Jin Taekyung became known as the Hidden Dragon, and identifies Jin as the Chosen One. The connection remains her conjecture.
 
 ## Open Questions
 
 - What are the identity and purpose of the Lord of Heaven?
-- Why does the Lord of Heaven want Jin to survive and grow stronger?
-- Are the Lord of Heaven and Asmodeus connected?
-- Who prepared the battle’s stage, and why?
+- Why does the Lord of Heaven want Jin to survive and grow stronger, and is he connected to Asmodeus?
+- Where did the missing Kongtong Sect survivors go?
+- What is the new mission in Qinghai, and who is the other servant there?
+- What is the mysterious green light?
 
 ## Exceptional Decision
 
@@ -24,7 +26,7 @@
 - Use Fire Ball, Stone Wall, and Magic Arrow for the named spells.
 - Render 헬 파이어 as Hell Fire; use hellfire for descriptive 겁화.
 - Render 쇄월검진 as Moon-Shattering Sword Formation.
-- Render the achievement 배 째 as “Go Ahead, Gut Me!”
+- Render 배 째 as “Go Ahead, Gut Me!”
 
 Active model-facing facts and explicit prior-chapter requirements are maintained
 in `docs/CONTEXT.json`. Review history is maintained under `reviews/`.
