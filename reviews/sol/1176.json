@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "To be precise, they all left about an hour ago.",
+      "defect": "A shichen is approximately two hours, not one.",
+      "id": "F01",
+      "rationale": "The draft halves the stated time since the others departed.",
+      "replacement": "To be precise, they all left about two hours ago.",
+      "severity": "critical",
+      "source": "정확히는 한 시진 전쯤에 다 떠났지."
+    },
+    {
+      "confidence": 0.99,
+      "current": "there hadn’t been any major casualties here yet.",
+      "defect": "The source says there has been no significant damage or harm, not specifically no casualties.",
+      "id": "F02",
+      "rationale": "Casualties narrows what Jin believes has not happened in Murim.",
+      "replacement": "there hadn’t been any significant damage here yet.",
+      "severity": "major",
+      "source": "이곳에서는 아직 별다른 피해가 없었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "The thousand-year homeland of the Hundred Thousand Demonic Disciples, who’d once swept across the land, and the base of Dark Heaven.",
+      "defect": "“Homeland” replaces the disciples’ sacred land with a place of origin.",
+      "id": "F03",
+      "rationale": "성지 identifies a sacred site, not necessarily where the disciples originated.",
+      "replacement": "The thousand-year sacred land of the Hundred Thousand Demonic Disciples, who’d once swept across the land, and the base of Dark Heaven.",
+      "severity": "major",
+      "source": "한때 천하를 휩쓸었던 십만마도(十萬魔徒)의 천년 성지이자 암천의 본거지."
+    }
+  ],
+  "summary": "The draft changes the time elapsed, narrows the reported harm to casualties, and loses the religious significance of the Demonic Disciples’ sacred land.",
+  "version": 1
+}
