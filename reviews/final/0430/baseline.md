@@ -6,7 +6,7 @@ My eyelids began to tremble before I even realized it.
 
 I remembered it clearly.
 
-Immediately after the Sichuan Blood Tragedy—after the Western Heaven Demon Lord had nearly killed me several times—I had followed the Sect Leaders of the Qingcheng and Emei Sects to a cave in an unnamed cliff.
+Immediately after the Sichuan Blood History—after the Western Heaven Demon Lord had nearly killed me several times—I had followed the Sect Leaders of the Qingcheng and Emei Sects to a cave in an unnamed cliff.
 
 The space hidden behind the Mystic Gate Formation had been vast, with an enormous formation carved into its center.
 
@@ -18,21 +18,21 @@ I hurriedly thrust the paper toward Magic Johnson.
 
 “Johnson. This—what is this?”
 
-“Huh? What?”
+「Huh? What?」
 
 “Why is this here…? No, where the hell did you get it?”
 
 Taken aback by my sudden reaction, Magic Johnson answered with a bewildered expression.
 
-“It’s a magic circle discovered in the city the Arch Lich used as its base.”
+「It’s a magic circle discovered in the city the Arch Lich used as its base.」
 
 “A magic circle?”
 
-“Yes, a magic circle. I was already in the middle of researching it… What’s wrong, Jin? Have you seen it somewhere before?”
+「Yes, a magic circle. I was already in the middle of researching it… What’s wrong, Jin? Have you seen it somewhere before?」
 
 “Are there more?”
 
-“Of course. Every sheet of paper I was looking at before you came in is related to it.”
+「Of course. Every sheet of paper I was looking at before you came in is related to it.」
 
 “What?”
 
@@ -42,7 +42,7 @@ I looked at the dozens of sheets of paper scattered across the floor.
 
 “Excuse me for a moment.”
 
-“Jin? Jin?”
+「Jin? Jin?」
 
 “Has he finally gone mad? How tragic, you vile and ugly human.”
 
@@ -54,7 +54,7 @@ Each sheet bore a different set of patterns and symbols. By the time I had exami
 
 *This is…*
 
-There was no mistake. The strange patterns and symbols were identical to the ones I had seen in Murim,[^1] only arranged and oriented differently.
+There was no mistake. The strange patterns and symbols were identical to the ones I had seen in Murim, only arranged and oriented differently.
 
 And if I assembled all these sheets like pieces of a puzzle, they would form one enormous magic circle.
 
@@ -68,11 +68,11 @@ I stared silently at the papers for a long time before finally speaking.
 
 Magic Johnson had a cigar between his lips by then. He blew out a cloud of smoke before answering.
 
-“That’s right. I didn’t know anything like this existed at first, but apparently it was discovered shortly after the investigation team went in. The coalition forces sent it to me on the second day.”
+「That’s right. I didn’t know anything like this existed at first, but apparently it was discovered shortly after the investigation team went in. The coalition forces sent it to me on the second day.」
 
 “They sent it to you?”
 
-“They wanted my opinion. They couldn’t figure out exactly what the magic circle did, either. They probably contacted the other two as well.”
+「They wanted my opinion. They couldn’t figure out exactly what the magic circle did, either. They probably contacted the other two as well.」
 
 The other two were probably the Grand Mages besides Magic Johnson. They were the greatest mages alive and true experts in the field.
 
@@ -80,11 +80,11 @@ Which meant this magic circle was something entirely new—something that had ne
 
 “So, has your research turned up anything?”
 
-“Nothing conclusive yet, but I have a general idea of the magic circle’s purpose.”
+「Nothing conclusive yet, but I have a general idea of the magic circle’s purpose.」
 
 “Its purpose?”
 
-“Yes. Fortunately, I have a friend who knows quite a bit about that sort of thing.”
+「Yes. Fortunately, I have a friend who knows quite a bit about that sort of thing.」
 
 I was just about to ask who he meant when an arrogant voice cut in.
 
@@ -120,7 +120,7 @@ The Skeleton King regarded me warily before speaking.
 
 “Absorbing life force?”
 
-“Indeed. It seems the Arch Lich used it to absorb other humans’ energy and amass power. With all that magical power at its disposal, it could control countless legions of monsters and open Gates.”
+“Indeed. It seems the Arch Lich used it to absorb other humans’ energy and amass power. With all that mana at its disposal, it could control countless legions of monsters and open Gates.”
 
 China was a vast continent.
 
@@ -130,7 +130,7 @@ And approximately eighty million people lived in Sichuan Province alone—accord
 
 The monster wave had caused millions of casualties. Add those who had yet to be officially counted, and the number would rise to truly staggering proportions.
 
-*And a great many of them must have been sacrificed to provide magical power. Considering the scale of what that bastard did, it all adds up.*
+*And a great many of them must have been sacrificed to provide mana. Considering the scale of what that bastard did, it all adds up.*
 
 I bit down hard on my lip and asked the Skeleton King again.
 
@@ -156,7 +156,7 @@ His answer wasn’t what I had hoped for, and I could feel the strength draining
 
 “Then how did you guess that it was a life-force absorption magic circle? Can only monsters recognize patterns and symbols like these?”
 
-If the Skeleton King understood these strange patterns and symbols—if he could teach me what they meant—I might finally be able to identify the formation I had seen in Murim.[^1]
+If the Skeleton King understood these strange patterns and symbols—if he could teach me what they meant—I might finally be able to identify the formation I had seen in Murim.
 
 I looked at him expectantly, only for his answer to dash my hopes a moment later.
 
@@ -190,7 +190,7 @@ After pacing silently around the suite for a long time, I abruptly spoke.
 
 “I need to see it for myself.”
 
-“Huh?”
+「Huh?」
 
 “Hmm?”
 
@@ -198,11 +198,11 @@ After pacing silently around the suite for a long time, I abruptly spoke.
 
 Magic Johnson thought for a moment, then nodded.
 
-“It’s classified, but you should be able to get in, Jin. However, only the two of us can be seen. We’ll have to carry our friend in an extradimensional pocket, just like last time.”
+「It’s classified, but you should be able to get in, Jin. However, only the two of us can be seen. We’ll have to carry our friend in an extradimensional pocket, just like last time.」
 
 “That’s fine. Let’s leave right away.”
 
-“All right, let’s do that. You seem to know something too, Jin.”
+「All right, let’s do that. You seem to know something too, Jin.」
 
 Just as Magic Johnson and I were about to leave, the Skeleton King cut in with a dignified voice.
 
@@ -210,7 +210,7 @@ Just as Magic Johnson and I were about to leave, the Skeleton King cut in with a
 
 “……?”
 
-“……?”
+「……?」
 
 “The woman at the hotel’s front desk is exceptionally beautiful. Though concealed beneath human skin, the curves of the skeleton within are exquisite.”
 
@@ -264,17 +264,17 @@ Either way, the sight overwhelmed me, and a single word rose unbidden to my mind
 
 The enormous dark magic circle dwarfed the one I had seen in the cave.
 
-Although its magical power had been cut off and it had lost its original function, even the traces of death left behind by the countless lives it had once claimed had not disappeared.
+Although its mana had been cut off and it had lost its original function, even the traces of death left behind by the countless lives it had once claimed had not disappeared.
 
 And… that was all I could sense.
 
-“Jin. What do you think? Do you have any idea what it is?”
+「Jin. What do you think? Do you have any idea what it is?」
 
 “No. None at all.”
 
 The patterns and symbols, arranged in an incomprehensible order, remained impossible to decipher.
 
-Just as it had in Murim,[^1] the System remained silent. After wandering around the site for hours without learning anything, I had no choice but to turn back.
+Just as it had in Murim, the System remained silent. After wandering around the site for hours without learning anything, I had no choice but to turn back.
 
 “Mr. Johnson, Jin. We’ve prepared an escort to ensure you encounter no inconvenience on your way back…”
 
@@ -286,15 +286,15 @@ We left the head of security and his guards behind after they snapped off razor-
 
 Once he had made sure no one was nearby, Magic Johnson quietly moved his lips.
 
-“Jin. You knew something, didn’t you?”
+「Jin. You knew something, didn’t you?」
 
 “…A dream. I think I saw something similar in a dream.”
 
-“Hmm.”
+「Hmm.」
 
 “Johnson. Can I look around by myself for a while?”
 
-“Of course. How long do you think you’ll be?”
+「Of course. How long do you think you’ll be?」
 
 “I’ll be back soon.”
 
@@ -306,7 +306,7 @@ The same work was probably underway in every city caught up in the war.
 
 *It must be the same in Sichuan.*
 
-China’s Sichuan and Murim’s Sichuan[^1] belonged to entirely different worlds. Murim was not the modern world’s past, nor was the modern world Murim’s future.
+China’s Sichuan and Murim’s Sichuan belonged to entirely different worlds. Murim was not the modern world’s past, nor was the modern world Murim’s future.
 
 But now a connection had appeared between those utterly different worlds—and it was not the first.
 
@@ -351,5 +351,3 @@ Without realizing it, I must have ventured deep into the ruins. Beyond the relat
 “Hell is where your old man went. If I die, I’m going to heaven.”
 
 The eyes of Go Jun—Lee Jungryong’s Disciple and Head of Security—turned ice-cold.
-
-[^1]: *Murim* refers to the martial-arts world and its community of martial artists.
