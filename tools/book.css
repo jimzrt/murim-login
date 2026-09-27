@@ -83,81 +83,211 @@ blockquote {
   padding: 0.1rem 1rem;
 }
 
-.system-window {
-  display: block;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  background-color: #2a5f9a;
-  border: 3px double #c9a227;
-  color: #f4f1e6;
-  font-family: "Courier New", Courier, monospace;
-  font-size: 0.82em;
-  font-weight: normal;
-  line-height: 1.32;
+/* Kindle Oasis is the reference. It drops border-image, gradients, and
+   absolute positioning, and its navy crushes toward black. The frame is a
+   table of the site's corner pieces; the dragons and SYSTEM plate are the
+   top edge of that frame. #4a90d0 is the site highlight #3a78b8 lifted so
+   the panel stays a mid gray. */
+table.system-window {
+  width: 100%;
+  margin: 1.5em 0 1.25em;
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: #4a90d0;
+  color: #ffffff;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.92em;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 1.45;
+  letter-spacing: 0.01em;
   text-align: center;
-  margin: 1em 0;
-  padding: 0.65em 0.65em !important;
   page-break-inside: avoid;
   break-inside: avoid;
 }
 
-.system-window > p:first-child {
-  display: table;
-  width: auto;
-  margin: 0 auto 0.5em auto;
-  padding: 0.12em 0.55em;
-  background-color: #245a96;
-  border: 1px solid #c9a227;
-  color: #ffffff;
-  font-family: "Courier New", Courier, monospace;
-  font-size: 0.72em;
-  font-weight: bold;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
+table.system-window col {
+  width: auto !important;
 }
 
-.system-window > :last-child {
+table.system-window td {
+  padding: 0;
+  border: 0;
+  background-color: #4a90d0;
+  vertical-align: top;
+}
+
+.system-corner {
+  width: 48px;
+  line-height: 0;
+  font-size: 0;
+}
+
+.system-corner img {
+  width: 48px;
+  height: 48px;
+  border: 0;
+  vertical-align: top;
+}
+
+.system-corner-bottom img {
+  vertical-align: bottom;
+}
+
+.system-edge,
+.system-edge-left,
+.system-edge-right {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 48px;
+  font-size: 0;
+  line-height: 0;
+}
+
+.system-edge-left {
+  border-left: 12px solid #e6c86a;
+}
+
+.system-edge-right {
+  border-right: 12px solid #e6c86a;
+}
+
+.system-base {
+  border-bottom: 12px solid #e6c86a;
+  font-size: 0;
+  line-height: 0;
+}
+
+/* Side rules continue the corner gold and stop at the dragons.
+   The band's bottom rule is what separates the title from the message. */
+table.system-window td.system-top {
+  border-bottom: 6px solid #e6c86a;
+  padding: 0;
+  text-align: center;
+  line-height: normal;
+  font-size: 16px;
+  vertical-align: top;
+}
+
+table.system-head {
+  width: 100%;
+  margin: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
+  background-color: #4a90d0;
+}
+
+table.system-head col {
+  width: auto !important;
+}
+
+table.system-head td {
+  padding: 0;
+  border: 0;
+  background-color: #4a90d0;
+  vertical-align: middle;
+}
+
+table.system-head td.system-rail {
+  width: 50%;
+  border-top: 12px solid #e6c86a;
+  font-size: 0;
+  line-height: 0;
+  vertical-align: top;
+}
+
+table.system-head td.system-ornament {
+  width: 40px;
+  font-size: 0;
+  line-height: 0;
+}
+
+table.system-head td.system-ornament img {
+  display: block;
+  width: 40px;
+  height: 32px;
+  margin: 0;
+  border: 0;
+}
+
+table.system-head td.system-badge {
+  width: 1%;
+  padding: 0 0.2em;
+  white-space: nowrap;
+  text-align: center;
+  line-height: 32px;
+  font-size: 16px;
+}
+
+.system-plaque {
+  display: inline-block;
+  vertical-align: middle;
+  background-color: #3a78b8;
+  border: 2px solid #e6c86a;
+  color: #ffffff;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  letter-spacing: 0.16em;
+  line-height: 1;
+  text-transform: uppercase;
+  padding: 0.34em 0.5em 0.28em;
+}
+
+.system-plaque strong {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+table.system-window td.system-body {
+  padding: 0.2em 0.45em 0.7em;
+}
+
+.system-window .system-body > :last-child {
   margin-bottom: 0;
 }
 
 .system-window p,
 .system-window ul,
+.system-window ol,
+.system-window li {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.system-window p,
+.system-window ul,
 .system-window ol {
-  margin-top: 0.3em;
-  margin-bottom: 0.3em;
-  color: #f4f1e6;
+  margin-top: 0.45em;
+  margin-bottom: 0.45em;
 }
 
 .system-window ul,
 .system-window ol {
+  display: table;
   text-align: left;
+  margin-left: auto;
+  margin-right: auto;
   padding-left: 0;
   list-style: none;
 }
 
 .system-window li {
-  position: relative;
-  margin: 0.25em 0;
-  padding-left: 0.85em;
-}
-
-.system-window li::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0.22em;
-  bottom: 0.22em;
-  width: 0.12em;
-  background: #c9a227;
+  margin: 0.32em 0;
+  padding-left: 0.7em;
+  border-left: 0.16em solid #e6c86a;
+  list-style: none;
 }
 
 .system-window strong {
-  color: #e8d089;
+  color: #ffe7a8;
+  font-weight: bold;
 }
 
 .system-window code {
-  font-family: "Courier New", Courier, monospace;
-  color: #f4f1e6;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #ffffff;
+  font-weight: bold;
 }
 
 .footnotes {
