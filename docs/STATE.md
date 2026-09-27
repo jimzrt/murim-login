@@ -1,21 +1,20 @@
 # Translation State
 
-- Last completed: 1117
-- Next chapter: 1118
-- Current block: 1115–1119 (3/5)
-- Latest translation: `translations/1117.md`
-- Latest summary: `summaries/beats/1117.md`
-- Safe profiles through: chapter 1117
+- Last completed: 1118
+- Next chapter: 1119
+- Current block: 1115–1119 (4/5)
+- Latest translation: `translations/1118.md`
+- Latest summary: `summaries/beats/1118.md`
+- Safe profiles through: chapter 1118
 
 ## Current Block
 
-- At the East Gate, two Dark Heaven operatives wait for the Yangtze River Channel League and Green Forest Alliance, while a black-robed jiangshi sorcerer worries that the delayed allies will incur the Blood Lord’s wrath. When the iron bridge begins to lower, he mistakes it for proof that spies have opened the gate and unleashes a thousand monsters alongside two Black Ghosts and their troops.
-- The bridge and gate were opened by the defenders as a trap. After the Black Ghosts and monsters enter, a Force strike breaks the chain and the gate begins to close. Hak Su appears and is killed as a traitor to the Kunlun Sect. Cheongheoja and a small group of allies face the intruders as a horn sounds from the direction of the Yangtze River Channel League.
+- At the East Gate, defenders hear the approaching horn and realize the Green Forest Alliance, the Yangtze River Channel League, and Dark Heaven forces have arrived. As two jiangshi sorcerers prepare to attack with a thousand monsters and two Black Ghosts, Hyuk Mujin and the Fire Dragon Pavilion members step forward. A captured jiangshi sorcerer returns with ritual bells taken from the dead near Qinghai Lake; ringing them confuses the monsters but cannot control the Black Ghosts. Cheongheoja and Great Sir block the Black Ghosts, while the monsters turn on friend and foe alike.
 
 ## Open Questions
 
-- What will happen in the East Gate battle now that the Black Ghosts and monsters have entered?
-- Will the approaching Yangtze River Channel League reach the East Gate in time?
+- What happens when the approaching coalition reaches the East Gate?
+- Can the defenders stop the two Black Ghosts?
 
 ## Exceptional Decision
 
