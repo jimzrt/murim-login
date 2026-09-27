@@ -26,7 +26,7 @@ I put particular emphasis on the word *everything*. Magic Johnson wasn’t dense
 
 “I was curious. Part of me was worried, too. It was obvious you knew something about that mysterious pattern, and just as obvious that you were hiding it.”
 
-Before we parted, when Magic Johnson had asked about the Magic Formation, I had made the excuse that I thought I had seen something similar in a dream.
+Before we parted, when Magic Johnson had asked about the magic circle, I had made the excuse that I thought I had seen something similar in a dream.
 
 Of course, I hadn’t expected him to believe me. It had been a roundabout way of telling him not to ask about it for now.
 
@@ -86,7 +86,7 @@ Magic Johnson let out a low groan and stared at me, countless emotions mingling 
 
 For some time now, I had felt everything around me beginning to change.
 
-In Murim,[^1] Dark Heaven had begun to stir. In the modern world, the Arch Lich—a Named Monster unlike any that had come before it—had slaughtered millions and brought catastrophe in its wake.
+In Murim, Dark Heaven had begun to stir. In the modern world, the Arch Lich—a Named Monster unlike any that had come before it—had slaughtered millions and brought catastrophe in its wake.
 
 Then there were the mysterious patterns and symbols that had appeared in both worlds.
 
@@ -162,7 +162,7 @@ A minimum of one hundred years without parole?
 
 If I got caught, I’d rot in prison without a chance. Even if I escaped, I’d spend the rest of my life as an internationally wanted fugitive.
 
-I might even end up with a ten-billion-beri[^2] bounty on my head, living as a pirate on Somalia’s Grand Line like some manga character.
+I might even end up with a ten-billion-beri bounty on my head, living as a pirate on Somalia’s Grand Line like some manga character.
 
 The thought alone was horrifying…
 
@@ -170,11 +170,11 @@ The thought alone was horrifying…
 
 “Korea? Why?”
 
-“If you spread enough money around and hired a former chief prosecutor who could benefit from *jeongwan yewu*,[^3] you probably wouldn’t get much of a sentence.”
+“If you spread enough money around and hired a former chief prosecutor who could benefit from *jeongwan yewu*,[^1] you probably wouldn’t get much of a sentence.”
 
-“Jeongwan yewu?[^3] What’s that?”
+“Jeongwan yewu? What’s that?”
 
-“It’s a thing. Ah, if you said you’d done it while drunk after downing about five bottles of soju,[^4] you might even get a suspended sentence.”
+“It’s a thing. Ah, if you said you’d done it while drunk after downing about five bottles of soju,[^2] you might even get a suspended sentence.”
 
 Magic Johnson laughed loudly as if he had heard an incredible joke.
 
@@ -272,7 +272,7 @@ Magic Gems were now the essential power source of cutting-edge civilization. Nat
 
 *I’ve put the bait out with what I know… If I wait, someone will bite.*
 
-Just as a sect’s standing in Murim[^1] was determined by the martial artists it possessed, a modern Guild’s standing was determined by the caliber of its Hunters.
+Just as a sect’s standing in Murim was determined by the martial artists it possessed, a modern Guild’s standing was determined by the caliber of its Hunters.
 
 And Go Jun could never fill the void Lee Jungryong had left behind.
 
@@ -312,7 +312,7 @@ Magic Johnson nodded, then suddenly spoke.
 
 “Yes?”
 
-“What exactly do you know about the Magic Formation—”
+“What exactly do you know about the magic circle—”
 
 “Oh, right. The club!”
 
@@ -334,12 +334,8 @@ Then, as I gazed up at the faint moonlight, a thought suddenly occurred to me.
 
 The time was approaching.
 
-The time to return to another world—to Murim.[^1]
+The time to return to another world—to Murim.
 
-[^1]: *Murim* refers to the world of martial artists and their sects, separate from the modern world.
+[^1]: *Jeongwan yewu* is the unofficial preferential treatment often afforded to lawyers who formerly served as judges or prosecutors, particularly through their old professional connections.
 
-[^2]: Beri is the fictional currency in the manga *One Piece*. Its Grand Line is a sea route sailed by pirates.
-
-[^3]: *Jeongwan yewu* is the unofficial preferential treatment often afforded to lawyers who formerly served as judges or prosecutors, particularly through their old professional connections.
-
-[^4]: Soju is a clear Korean distilled liquor, commonly served in small glasses.
+[^2]: Soju is a clear Korean distilled liquor, commonly served in small glasses.
