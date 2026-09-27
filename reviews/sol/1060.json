@@ -1,0 +1,96 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Gungseong answered in a nasal voice. He was already standing well away, pinching his nose shut.",
+      "defect": "Uses a romanization instead of the established title Bow Saint.",
+      "id": "F01",
+      "rationale": "궁성 is the Bow Saint, not a character named Gungseong.",
+      "replacement": "The Bow Saint answered in a nasal voice. She was already standing well away, pinching her nose shut.",
+      "severity": "critical",
+      "source": "이미 멀찍이 떨어진 채 코를 틀어막고 있던 궁성이 코맹맹이 소리로 대답한 그때였다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Even though I’d held back, ordinary strength was nowhere near enough to move him. A decent Peak master would have struggled, too.",
+      "defect": "Makes Taekyung's strength sound ordinary; the source says his restrained strength exceeds ordinary limits and would overwhelm a decent Peak master.",
+      "id": "F02",
+      "rationale": "The feat establishes how unusually firmly the Great Sir is planted, despite Taekyung holding back.",
+      "replacement": "Even though I’d held back, my strength was so far beyond ordinary limits that even a decent Peak master would have struggled to withstand it.",
+      "severity": "critical",
+      "source": "아무리 나 스스로 힘을 조절했다고는 하나, 일반적인 한계를 아득히 벗어난 근력은 어지간한 절정 고수도 버틸 수 없다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But after the betrayal of their allies had taken root in their hearts, heading east would have been like walking straight into a tiger’s jaws.",
+      "defect": "“Betrayal of their allies” can mean the survivors betrayed their allies. They feel betrayed by their allies.",
+      "id": "F03",
+      "rationale": "아군에 대한 배신감 identifies the survivors' sense of betrayal as their reason for fearing the eastern route.",
+      "replacement": "But now that they felt betrayed by their allies, heading east would have been like walking straight into a tiger’s jaws.",
+      "severity": "critical",
+      "source": "이미 아군에 대한 배신감이 마음속에 싹 튼 이상 호랑이 아가리로 들어가는 꼴이나 다름없었으니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Even Gung Gibang, Successor Beggar of the Beggars’ Sect and second-in-command to a hundred thousand beggars in name if not in fact, would take one look at this man and cry, “You beg like shit!” I could guarantee it. He’d probably even cut the rope tied around his waist and run.",
+      "defect": "Turns a genuine minor chief into the sect's qualified second-in-command and adds that he runs away.",
+      "id": "F04",
+      "rationale": "소두목 denotes a minor chief; 명실상부한 affirms the standing. The source says he would cut the rope, not run.",
+      "replacement": "Even Gung Gibang, the Beggars’ Sect’s Successor Beggar and a bona fide minor chief among its hundred thousand beggars, would take one look at this man and cry, “You beg like shit!” I could guarantee he’d cut the rope tied around his waist.",
+      "severity": "major",
+      "source": "명실상부한 십만 떼거지의 소두목, 개방의 후개(後丐)인 궁기방조차 이 양반을 마주한다면 구걸 좆같이 하네를 외치며 허리춤에 묶은 밧줄을 끊으리라 장담할 수 있었다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "As I stood there, unsure what to do and darting my eyes around, the strange man—no, the Great Sir—finally spoke through his sobs, still wailing in my arms.",
+      "defect": "Has him still wailing as he speaks instead of shifting from loud sobbing to a congested voice.",
+      "id": "F05",
+      "rationale": "그제야 marks the change to speech; 코 먹은 목소리 describes his voice after crying.",
+      "replacement": "As I stood there, unsure what to do and darting my eyes around, the strange man—no, the Great Sir—who’d been wailing in my arms finally spoke in a congested voice.",
+      "severity": "major",
+      "source": "내 품에서 목 놓아 통곡을 이어 가던 괴인. 아니 대인이 그제야 코 먹은 목소리로 입을 열었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "He had the seniority to call everyone in the middle of the world to attention and shout, “You below me, line up!”",
+      "defect": "Reverses the military hierarchy joke: he can summon those below himself but above the person he addresses.",
+      "id": "F06",
+      "rationale": "내 아래 니 위로 specifies the slice of the hierarchy being ordered to assemble.",
+      "replacement": "He had the seniority to stand in the middle of the world and shout, “Everyone below me and above you, fall in!”",
+      "severity": "major",
+      "source": "천하의 한복판에서 ‘내 아래 니 위로 집합’을 외쳐도 되는 짬밥인 것이다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Maybe the filthy-looking fellow had a video file with a title like *Perfected One Hyeoncheon’s Secret Hand Game*.",
+      "defect": "Spells out Hyeoncheon's name where the source mock-anonymizes him as “H.”",
+      "id": "F07",
+      "rationale": "H모 진인 preserves the coy anonymity of a purported scandalous video title; 은밀한 손장난 remains euphemistic.",
+      "replacement": "Maybe the filthy-looking fellow had a video file with a title like *Kongtong’s Perfected One H and His Secret Hand Games*.",
+      "severity": "major",
+      "source": "상거지 꼴을 한 저 양반이 공동파 H모 진인의 은밀한 손장난, 뭐 그런 제목을 지닌 동영상 파일이라도 가지고 있나 싶어서."
+    },
+    {
+      "confidence": 0.98,
+      "current": "As I understand it, they were people from something called the Bone-Horse Seven—",
+      "defect": "Changes “White Bones” into “Bone-Horse” and omits that the visitors came to escort the Great Sir.",
+      "id": "F08",
+      "rationale": "백골 means white bones, making Hyeoncheon's mistake distinct from his subsequent “Black Horse” mistake; 모시러 왔다 supplies the visit's purpose.",
+      "replacement": "It turned out some men called the Seven Masters of White Bones had come to escort the Great Sir.",
+      "severity": "major",
+      "source": "들어 보니 백골칠종인가 하는 자들이 대인을 모시러 왔다더군."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*Skill: Qi Sense.*",
+      "defect": "Drops the activation expressed by 발동.",
+      "id": "F09",
+      "rationale": "Taekyung is activating the technique, not merely naming it.",
+      "replacement": "*Skill: Activate Qi Sense.*",
+      "severity": "minor",
+      "source": "‘스킬, 기감 발동.’"
+    }
+  ],
+  "summary": "The draft changes several identities, actions, and causal details, and loses one deliberate name joke.",
+  "version": 1
+}
