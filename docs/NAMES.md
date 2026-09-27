@@ -2532,3 +2532,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 십이밀승 | **Twelve Secret Monks** | The Potala Palace’s twelve top fighters. |
 | 일당백 | **One Against a Hundred** | System Title; distinct from 일기당천, “One Against a Thousand.” |
 | 적도 | **Red Blade** | Named blade that shatters in Taekyung’s flames. |
+| 창도 | **Chamdo** | Town named as the site of Songhak’s inn stay. |
