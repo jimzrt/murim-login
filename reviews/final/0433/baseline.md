@@ -26,7 +26,7 @@ Burly Hunters lifted chunks of stone and concrete instead of weapons, while mage
 
 “How does it look?”
 
-“There don’t seem to be any survivors within a hundred-meter radius.[^1] Let’s move a little and try again…”
+“There don’t seem to be any survivors within a hundred-meter radius. Let’s move a little and try again…”
 
 “Here! We’ve got a survivor reading over here! Hurry!”
 
@@ -54,7 +54,7 @@ The young reporter at the scene was no exception. His voice seethed with indigna
 
 Its contents were shocking.
 
-The transcript of the Communist Party’s highest committee meeting, previously hidden from the public, laid bare the bitter clash between Chairman Xiao Yang’s faction, which had urged them to seek immediate assistance from other countries, and the Crown Prince Party, which had argued that they should rally the power of Zhonghua[^2] and fight with the spirit of chivalry.
+The transcript of the Communist Party’s highest committee meeting, previously hidden from the public, laid bare the bitter clash between Chairman Xiao Yang’s faction, which had urged them to seek immediate assistance from other countries, and the Crown Prince Party, which had argued that they should rally the power of Zhonghua and fight with the spirit of chivalry.
 
 One person stood out above all the rest.
 
@@ -64,13 +64,13 @@ The star of the transcript was an old politician who had lost everything followi
 
 Had the outcome been favorable, none of this would have happened.
 
-But the power of Zhonghua[^2] and the spirit of chivalry he had gone on about during the meeting at the beginning of the Small Cataclysm had sounded like nothing but bullshit even to those steeped in Zhonghua[^2] ideology. In the end, they had become the laughingstock of the entire world.
+But the power of Zhonghua and the spirit of chivalry he had gone on about during the meeting at the beginning of the Small Cataclysm had sounded like nothing but bullshit even to those steeped in Zhonghua ideology. In the end, they had become the laughingstock of the entire world.
 
 Then it came to light that his past corruption involving the military had led to incidents in which tanks broke down and helicopters crashed. Wu Xueming found himself driven to the edge of a cliff.
 
 And Chairman Xiao Yang, a seasoned politician, did not let the perfect opportunity slip by.
 
-“Committee Member Wu Xueming used his guanxi[^3] with prominent figures in the military, political, and business worlds to embezzle astronomical sums of money. We are currently investigating every circumstance connected to this incident.”
+“Committee Member Wu Xueming used his guanxi with prominent figures in the military, political, and business worlds to embezzle astronomical sums of money. We are currently investigating every circumstance connected to this incident.”
 
 In truth, the large-scale purge had already begun.
 
@@ -100,7 +100,7 @@ If anything, he sounded annoyed as he addressed the reporter.
 
 “Pardon?”
 
-“Did someone stuff your ears with stinky tofu?[^4] I’m telling you to go film somewhere else instead of blocking the way in the middle of an active work site.”
+“Did someone stuff your ears with stinky tofu? I’m telling you to go film somewhere else instead of blocking the way in the middle of an active work site.”
 
 The young reporter’s face turned as white as paper. He stammered and glanced around.
 
@@ -176,7 +176,7 @@ When a healer in a pure-white robe hurried forward with a potion, the man waved 
 
 The man answered calmly and placed a hand against the old woman’s back.
 
-Warmth radiated from him strongly enough to be felt several meters away,[^5] and a faint trace of color returned to the old woman’s pallid face.
+Warmth radiated from him strongly enough to be felt several meters away, and a faint trace of color returned to the old woman’s pallid face.
 
 “Move her somewhere warm first. Keep her body temperature up with magic. Once she regains consciousness, you should be able to use a potion or healing magic.”
 
@@ -242,7 +242,7 @@ Just as the cameraman sighed, the young reporter suddenly spoke.
 
 “No. Take care.”
 
-“What do you think of the claim that Mr. Jin is descended from Chen Lin, the Ming Dynasty general who fought in the Imjin War?”[^6]
+“What do you think of the claim that Mr. Jin is descended from Chen Lin, the Ming Dynasty general who fought in the Imjin War?”[^1]
 
 At that moment, the man walking away spun around like lightning.
 
@@ -304,9 +304,4 @@ A formation of dozens of aircraft swept across the sky and landed on the vast ex
 
 It was the aircraft formation that would take him back to Korea while he was briefly going to another world.
 
-[^1]: A hundred-meter radius is about 328 ft.
-[^2]: Zhonghua refers to China and Chinese civilization; here it invokes Chinese national pride.
-[^3]: Guanxi refers to personal relationships and the obligations or influence that come with them.
-[^4]: Stinky tofu is a fermented tofu dish known for its strong smell.
-[^5]: Several meters is roughly 10–20 ft.
-[^6]: The Imjin War was the Japanese invasion of Korea from 1592 to 1598. Chen Lin was a Ming Dynasty general who fought in the war.
+[^1]: The Imjin War was the Japanese invasion of Korea from 1592 to 1598. Chen Lin was a Ming Dynasty general who fought in the war.
