@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“If you’re showing up even in my dreams, it might mean you’re my type.”",
+      "defect": "Reverses whose dream it is and who might be attracted to whom.",
+      "id": "F01",
+      "rationale": "Jin says that appearing in Johnson’s dreams might mean Jin is Johnson’s type.",
+      "replacement": "“If I’m showing up even in your dreams, maybe I’m your type.”",
+      "severity": "critical",
+      "source": "꿈속에서까지 나타날 정도라면, 제가 당신 취향일 수도 있다는 이야기니까."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“I don’t plan to. I’ve had enough of dying twice.”",
+      "defect": "Implies Jin has already died twice rather than rejecting a second death.",
+      "id": "F02",
+      "rationale": "The source says he has no desire to die twice.",
+      "replacement": "“I don’t plan to. I’d rather not die a second time.”",
+      "severity": "critical",
+      "source": "두 번이나 죽는 건 사양이라."
+    },
+    {
+      "confidence": 0.98,
+      "current": "“Yeah. But access to the entire Pentagon has been forbidden for a week now. Did they catch someone on the inside who we didn’t know about, and they’re trying to escape?”",
+      "defect": "Changes a suspected impending discovery into someone already having been caught.",
+      "id": "F03",
+      "rationale": "Johnson speculates that an undiscovered collaborator fears exposure and is attempting to flee.",
+      "replacement": "“Yeah. But access to the entire Pentagon has been forbidden for a week now. Is an inside collaborator we don’t know about trying to escape because they think they’re about to be found out?”",
+      "severity": "major",
+      "source": "우리가 모르는 내통자가 발각될 것 같으니 도주를 시도한 건가?"
+    },
+    {
+      "confidence": 0.96,
+      "current": "The stronger he became, the greater the threats he faced alone.",
+      "defect": "Loses Jin’s choice to take on those threats alone.",
+      "id": "F04",
+      "rationale": "맞서려 들었으니까 describes his inclination to confront them alone, not merely the circumstance of facing them.",
+      "replacement": "The stronger he became, the more he tried to face ever greater threats on his own.",
+      "severity": "major",
+      "source": "스스로가 강해지는 만큼 더욱 거대해진 위협에 홀로 맞서려 들었으니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "“However, no one is to take any action on their own until I give further orders. Unless I’m in a situation where I can’t issue orders.”",
+      "defect": "Broadens a prohibition on rash or unexpected moves into a prohibition on all independent action.",
+      "id": "F05",
+      "rationale": "돌발 행동 means an impulsive or unexpected action; the mobilization order does not prohibit every action taken without Jin.",
+      "replacement": "“However, no one is to do anything rash until I give further orders. Unless I’m in a situation where I can’t issue orders.”",
+      "severity": "major",
+      "source": "단, 추가 명령이 있기 전까지 그 어떤 돌발 행동도 있어서는 안 됩니다. 제가 명령을 내릴 수 없는 상황이라면 다르겠지만요."
+    },
+    {
+      "confidence": 0.96,
+      "current": "He couldn’t hear or feel it. No roar that shook heaven and earth. No tremendous force that would send shock waves through everything around him.",
+      "defect": "The pronoun “it” appears to refer to the breeze he has just felt, making the observation contradictory.",
+      "id": "F06",
+      "rationale": "What he neither hears nor feels is the expected destructive backlash, not the warm breeze.",
+      "replacement": "There was no earthshaking roar to hear, no tremendous force rocking everything around him to feel.",
+      "severity": "minor",
+      "source": "들리지도, 느껴지지도 않는다. 하늘과 땅을 떨어 울리는 굉음도, 사방을 뒤흔드는 거대한 힘의 여파도."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“Area 52… That’s where the Magic Formation is.”",
+      "defect": "Omits the formation’s transport function.",
+      "id": "F07",
+      "rationale": "이동 qualifies 마법진; the next speaker’s question about Warp magic depends on that detail.",
+      "replacement": "“Area 52… That’s where the transport Magic Formation is.”",
+      "severity": "minor",
+      "source": "52구역이라면…… 이동 마법진이 있는 곳이군."
+    }
+  ],
+  "summary": "The draft changes the subject of a joke, treats a feared discovery as an accomplished one, and misstates Jin’s remark about dying twice.",
+  "version": 1
+}
