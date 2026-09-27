@@ -2563,3 +2563,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 바실리 게라시모프 | **Vasily Gerasimov** | Russian general appointed acting president after the Moscow catastrophe. |
 | 에이미 | **Amy** | News presenter. |
 | 스티브 | **Steve** | News presenter. |
+| 드래곤 | **Dragon** | The species to which Morgoth belongs. |
+| 해츨링 | **Hatchling** | A young Dragon. |
+| 드래곤 로드 | **Dragon Lord** | Title for the leader Morgoth was elected before reaching one thousand years of age. |
+| 드워프 | **Dwarf** | One of the other races Morgoth lived among. |
+| 엘프 | **Elf** | One of the other races Morgoth lived among. |
+| 워프 게이트 | **Warp Gate** | Gate used for long-distance travel. |

@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The hero was a man of many talents.",
+      "defect": "Calls the hero a man, although the source later explicitly says he was not human.",
+      "id": "F01",
+      "rationale": "The Korean describes his talents without identifying him as human.",
+      "replacement": "The hero had many talents.",
+      "severity": "critical",
+      "source": "그 영웅은 다재다능했어."
+    },
+    {
+      "confidence": 0.99,
+      "current": "After changing trains at several Warp Gates and traveling thousands of kilometers, he had made it here.",
+      "defect": "Introduces trains where the source says he transferred between Warp Gates.",
+      "id": "F02",
+      "rationale": "갈아타며 describes switching gates, not boarding trains.",
+      "replacement": "After traveling thousands of kilometers by way of several Warp Gates, he had made it here.",
+      "severity": "major",
+      "source": "몇 번의 워프 게이트를 갈아타며 수천 킬로미터를 이동한 끝에 이곳까지 오게 되었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "*In the end, all you can change is the appearance.*",
+      "defect": "Turns a limit on what can be faked into a limit on what can be changed, weakening the contrast with his real power in the land ahead.",
+      "id": "F03",
+      "rationale": "꾸며 낼 conveys fabrication; 겉모습 is outward appearance.",
+      "replacement": "*In the end, only appearances can be faked.*",
+      "severity": "major",
+      "source": "꾸며 낼 수 있는 건, 결국 겉모습뿐이니까."
+    },
+    {
+      "confidence": 0.96,
+      "current": "the Skeleton King stepped forward, setting his jaw.",
+      "defect": "Adds a jaw-setting gesture and loses the emphasis on the force of his step.",
+      "id": "F04",
+      "rationale": "The source describes only his deliberate, forceful step.",
+      "replacement": "the Skeleton King took a firm step forward.",
+      "severity": "minor",
+      "source": "스켈레톤 킹은 힘주어 발걸음을 옮겼다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Unless his curiosity was fully satisfied, it never stopped.",
+      "defect": "Loses Morgoth’s exacting standard: only the highest level would satisfy his curiosity.",
+      "id": "F05",
+      "rationale": "최고의 수준 specifies a standard of excellence, not merely complete satisfaction.",
+      "replacement": "Nothing short of the very best could satisfy his curiosity.",
+      "severity": "major",
+      "source": "최고의 수준을 충족하지 않는 한, 그의 호기심은 멈출 줄을 몰랐다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Unlike the others, he had never pledged his loyalty to Demon King Asmodeus, nor had he intended to give his life for him.",
+      "defect": "Changes lack of loyal service into lack of a formal pledge.",
+      "id": "F06",
+      "rationale": "충성을 다 하지도 concerns loyalty in conduct; the source says nothing about whether he made a pledge.",
+      "replacement": "Unlike the others, he was not devoted to serving Demon King Asmodeus, nor did he intend to give his life for him.",
+      "severity": "major",
+      "source": "자신은 다른 이들과 달리 마왕 아스모데우스에게 충성을 다 하지도, 그를 위해 목숨을 바칠 생각도 없었으니까."
+    }
+  ],
+  "summary": "The draft preserves the chapter’s main sequence, but changes the hero’s identity, the disguise’s limits, and Morgoth’s relationship to Asmodeus.",
+  "version": 1
+}
