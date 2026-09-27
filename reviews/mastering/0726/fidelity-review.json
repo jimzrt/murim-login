@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "But… it was also true that, somewhere in the back of my mind, I had thought that a day like this would come eventually.",
+      "defect": "The next source sentence says he never expected that distant-feeling day to be today. The assembled copy omits that arrival and timing beat.",
+      "id": "F01",
+      "rationale": "The Korean explicitly contrasts expecting such a day eventually with not expecting it to arrive today.",
+      "replacement": "But… it was also true that, somewhere in the back of my mind, I had thought that a day like this would come eventually. I just hadn’t expected that day, which had always felt like a distant future, to be today.",
+      "severity": "minor",
+      "source": "Line 51"
+    },
+    {
+      "confidence": 0.96,
+      "current": "I’d been afraid. Afraid that the other world, now such a large part of my life, might deny that I belonged there.",
+      "defect": "The source says he feared his existence would be denied in the other world, not merely that he would be denied a sense of belonging there.",
+      "id": "F02",
+      "rationale": "The Korean’s “내 존재가 부정당하는 것” is specifically the denial of his existence.",
+      "replacement": "I’d been afraid. Afraid that my existence might be denied in the other world, now such a large part of my life.",
+      "severity": "minor",
+      "source": "Line 155"
+    },
+    {
+      "confidence": 0.99,
+      "current": "There was still a lingering warmth in that empty place, like the coffee cup before us that Team Leader Choi had not taken a single sip from.",
+      "defect": "The assembled copy omits that the empty place was left by someone who suddenly left everyone two months earlier.",
+      "id": "F03",
+      "rationale": "The source includes both the two-month timing and the person’s sudden departure; the accepted baseline preserves those details.",
+      "replacement": "There was still a lingering warmth in the empty place left by the person who had suddenly left everyone two months ago, like the coffee cup before us that Team Leader Choi had not taken a single sip from.",
+      "severity": "minor",
+      "source": "Line 337"
+    }
+  ],
+  "summary": "The chapter is largely faithful, but it omits two source details and softens one key emotional distinction.",
+  "version": 1
+}

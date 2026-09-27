@@ -31,9 +31,9 @@ I’d imagined telling someone my secret dozens of times. Of course, I’d never
 
 *It was too dangerous.*
 
-But… it was also true that, somewhere in the back of my mind, I had thought that a day like this would come eventually.
+Still… somewhere in the back of my mind, I’d always suspected this day would come. I just hadn’t expected a day that felt so far off to arrive today.
 
-*What did you say?*
+*What?*
 
 I could still see Jeok Cheongang’s reaction when he first heard my confession. He hadn’t looked shocked or incredulous. No, he simply hadn’t understood what I was saying.
 
@@ -83,7 +83,7 @@ But Jeok Cheongang had spent over a hundred years in Murim, a world without even
 
 After a desperate struggle to hold on to his common sense and reason, Jeok Cheongang finally reached a conclusion.
 
-“Damn it. I don’t understand.”
+“Damn it. I don’t know.”
 
 “What?”
 
@@ -147,9 +147,9 @@ The point was, I had a routine of my own. I’d followed it without fail until n
 
 The door flew open as if something had exploded.
 
-The lock I had installed as a precaution was destroyed. Fortunately, I had finished all my preparations one step ahead of time, so I did my best to remain calm as I welcomed the unwelcome guest.
+The lock I’d installed as a precaution shattered. Fortunately, I’d finished all my preparations just in time. I did my best to greet the uninvited guest calmly.
 
-“Well, well. You don’t even knock anymore before barging in.”
+“Well, well. You don’t even knock anymore?”
 
 “Huff. Hah.”
 
@@ -165,7 +165,7 @@ But Team Leader Choi—who, by all rights, should now be called the Guild Master
 
 These days, Team Leader Choi could hold his own against any Peak master in the Central Plains. He finally caught his breath, thrust out what he was holding, and shouted, “What is this? What on earth is this?”
 
-“If you don’t have anything important to say, come back a little later… Ah. That?”
+“If it can wait, come back a little later… Oh. That?”
 
 “*That?* Is this something you can dismiss with ‘that’?”
 
@@ -173,11 +173,11 @@ Rage button: ON.
 
 The way he nearly lost his mind over my casual answer told me two things. First, I was going to have to break the essential routine I’d followed every day since finishing Hunter training. Second, there was no getting out of explaining that *thing* right now.
 
-“Calm down. Calm down. I’ll tell you everything, so put that down first. Oh, and what would you like to drink?”
+“Calm down. I’ll tell you everything. Just put that down first. Oh, what would you like to drink?”
 
-“Mr. Jin Taekyung. What you drink isn’t important right n—”
+“Mr. Jin Taekyung, what I drink is hardly the important thing right n—”
 
-“I’ll just make you coffee. What was it again? That tiger-poop coffee you gave me last time to celebrate the opening of the office.”
+“I’ll make you coffee. That tiger-poop coffee you gave me to celebrate the new office.”
 
 “Hah.”
 
@@ -203,15 +203,15 @@ Team Leader Choi answered coolly. “It isn’t a tiger. It’s a cat. A civet c
 
 “Tiger, cat. Whatever.”
 
-“And rather than poop, please say feces. The word ‘secretion’ is also available.”
+“And could you say ‘feces’ instead of ‘poop’? ‘Excrement’ would also do.”
 
 “Poop.”
 
-“Feces. Or secretion.”
+“Feces. Or excrement.”
 
 “Right. So, poop.”
 
-“Unless you’ve forgotten, it will be dinnertime soon. If you keep saying ‘poop’ to someone’s face like that…”
+“In case you’ve forgotten, it’s almost dinnertime. If you keep saying ‘poop’ to my face…”
 
 “Poop.”
 
@@ -257,19 +257,19 @@ Team Leader Choi knew that better than anyone. He gave a quiet laugh.
 
 “That was quite an errand boy.”
 
-“That’s why I entrusted it to him. I was originally going to give it to you myself, but you happened not to be there.”
+“That’s why I gave it to him. I meant to hand it to you myself, but you weren’t there.”
 
 “…I had somewhere to stop by.”
 
 He left it at that, and I didn’t ask where he’d been.
 
-There was still a lingering warmth in that empty place, like the coffee cup before us that Team Leader Choi had not taken a single sip from.
+Two months had passed since someone had suddenly left us all. Warmth still lingered in the space they’d left behind, like the cup of coffee Team Leader Choi hadn’t touched.
 
 “I heard what you told Skeleton King. No—Mr. King. But I’m sorry…”
 
 “You had to check for yourself. I get it.”
 
-“Yes. But the moment I saw what was inside, even before hearing an explanation, I knew. Jin Taekyung is the only person in the entire world who could have created a mana cultivation method like this.”
+“Yes. Though the moment I looked inside, before anyone explained a thing, I was certain. You’re the only person in the world who could make a mana cultivation method like this.”
 
 At his praise, I scratched the back of my head.
 
