@@ -1601,3 +1601,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 임꺽정 | 신입 | team leader to rookie team member | rookie | casual | Kkeokjeong uses this address while encouraging the young Hunter. |
 | 진태경 | 언데드 킹 | trusted allies and friends | you little shit | insulting-casual | Jin responds to the Undead King’s awkward question with a familiar insult. |
 | 궁성 | 무신 | chosen one addressing the Martial God who left her a private letter | Martial God | solemn and reverent | She invokes him as 무신이여 while questioning the purpose of his letter. |
+| 궁성 | 대인 | Acquaintances traveling together; Bow Saint is wary of the mysterious Great Sir. | you | polite, controlled | Bow Saint questions him formally and apologizes after mistaking him for an enemy. |
+| 대인 | 궁성 | Acquaintances traveling together; Great Sir calls Bow Saint “Young Lady” and “heroine.” | Young Lady; heroine | polite conversational, familiar and teasing | He alternates respectful titles with candid personal questions. |

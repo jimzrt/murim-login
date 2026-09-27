@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "“Show your face and reveal your identity! How dare you ambush me! Do you not fear the Lord of Heaven?”",
+      "defect": "Great Sir reverses what one reveals and what one removes; the draft turns his mistake into an ordinary demand and breaks Bow Saint’s correction.",
+      "id": "F01",
+      "rationale": "He says to reveal the mask and remove the identity, prompting Bow Saint to correct the latter phrase.",
+      "replacement": "“Reveal your mask and take off your identity! How dare you ambush me! Do you not fear the Lord of Heaven?”",
+      "severity": "major",
+      "source": "복면을 밝히고 정체를 벗어라! 감히 본녀(本女)를 기습하다니, 천주 신명이 두렵지 않느냐!"
+    },
+    {
+      "confidence": 0.99,
+      "current": "“You should take off your face, not reveal it.”",
+      "defect": "Bow Saint corrects which thing he should take off, not whether to reveal his face.",
+      "id": "F02",
+      "rationale": "The correction is explicit and is followed by the observation that he is not wearing a mask.",
+      "replacement": "“You take off the mask, not your identity.”",
+      "severity": "major",
+      "source": "정체가 아니라 복면을 벗어야죠."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“About half a shichen ago, I finished scouting the whole area like I was told and went back to the carriage. But before I could even sit down, I got kicked right back out.”",
+      "defect": "Half a shichen is about an hour; 한 식경 is about half an hour.",
+      "id": "F03",
+      "rationale": "The draft doubles the elapsed time by substituting a different unit.",
+      "replacement": "“About half an hour ago, I finished scouting the whole area like I was told and went back to the carriage. But before I could even sit down, I got kicked right back out.”",
+      "severity": "critical",
+      "source": "한 식경 전쯤인가, 시킨 대로 근방을 싹 돌아보고 마차로 돌아갔다가 엉덩이도 못 붙여 보고 다시 내쫓겼소."
+    },
+    {
+      "confidence": 0.88,
+      "current": "More precisely, the stench that had arrived before them, barging in like a thief.",
+      "defect": "The draft drops the explicit description of the stench as horrendous at the moment she recognizes it.",
+      "id": "F04",
+      "rationale": "무시무시한 qualifies the smell, and the guest is subsequently identified as a man.",
+      "replacement": "More precisely, the horrendous stench that had arrived before him, barging in like a thief.",
+      "severity": "minor",
+      "source": "정확히는, 그보다 먼저 도적처럼 들이닥친 무시무시한 악취가."
+    },
+    {
+      "confidence": 0.97,
+      "current": "But before she could finish, Great Sir leaned in and whispered conspiratorially.",
+      "defect": "Leaning in is an added physical action.",
+      "id": "F05",
+      "rationale": "The source specifies his manner of speaking but does not say he moves closer.",
+      "replacement": "But before she could finish, Great Sir whispered conspiratorially.",
+      "severity": "minor",
+      "source": "하지만 궁성의 말이 채 끝맺어지기도 전에, 대인이 은근한 목소리로 속삭였다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "“That fellow Jin Taekyung was looking for you, too. He looked full of energy after sleeping for a whole month.”",
+      "defect": "Great Sir’s uncertainty about whether anything has happened is omitted.",
+      "id": "F06",
+      "rationale": "뭔 일이 있긴 한 건지 introduces his speculation before he mentions Taekyung.",
+      "replacement": "“I wonder if something’s happened—Jin Taekyung was looking for you, too. He looked full of energy after sleeping for a whole month.”",
+      "severity": "minor",
+      "source": "뭔 일이 있긴 한 건지, 진태경 그 친구도 여협을 찾더라고요."
+    }
+  ],
+  "summary": "The draft loses the mask-and-identity reversal, changes a time interval, and adds or omits several smaller details.",
+  "version": 1
+}

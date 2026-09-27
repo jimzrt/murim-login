@@ -1,16 +1,15 @@
 # Translation State
 
-- Last completed: 1178
-- Next chapter: 1179
-- Current block: 1175–1179 (4/5)
-- Latest translation: `translations/1178.md`
-- Latest summary: `summaries/beats/1178.md`
-- Safe profiles through: chapter 1178
+- Last completed: 1179
+- Next chapter: 1180
+- Current block: 1175–1179 (5/5)
+- Latest translation: `translations/1179.md`
+- Latest summary: `summaries/beats/1179.md`
+- Safe profiles through: chapter 1179
 
 ## Current Block
 
-- The Slaughter Saint, Hyuk Mujin, and Cheongpung each admit how Jin Taekyung’s secret spread among the group. Taekyung reassures Ju Hwaran that he is human, around twenty-eight, and from a place where people live; she accepts his explanation. Jeok Cheongang says Great Sir has not been told and leaves that decision to Taekyung, but warns that Bow Saint may have difficulty accepting the truth.
-- Alone in the desert, Bow Saint reflects on Taekyung’s secret and questions whether the Martial God’s letter truly expresses what he wants. A faint sound comes from behind her.
+- Bow Saint mistakes Great Sir for an attacker when he approaches unnoticed, then hears that Jeok Cheongang sent him to fetch her and that Jin Taekyung has also been looking for her. In the desert, Great Sir recognizes her private grief over someone she respected and admired, but mistakenly assumes she is interested in Taekyung. He urges her to confess before it is too late; she denies that Taekyung is the person she meant. Great Sir murmurs that a downpour is coming.
 
 ## Open Questions
 
@@ -18,7 +17,7 @@
 - What remains to be completed, and what will happen when it is completed?
 - What is Alpha, and what does its awakening mean?
 - Why does the land around Taekyung’s group in Xinjiang contain no living things?
-- Who or what is behind Bow Saint?
+- Who is the person Bow Saint misses?
 
 ## Exceptional Decision
 

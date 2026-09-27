@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "The cold ticking of the [Broken Pocket Watch] I’d tucked deep in my Inventory just before logging in seemed to ring in my ears like a phantom sound.",
+      "defect": "Square brackets enclose an item name in prose.",
+      "id": "C01",
+      "rationale": "The binding Markdown convention does not use square brackets around UI terms.",
+      "replacement": "The cold ticking of the Broken Pocket Watch I’d tucked deep in my Inventory just before logging in seemed to ring in my ears like a phantom sound.",
+      "severity": "minor",
+      "source": "Chapter 1176, Taekyung recalling the pocket watch"
+    },
+    {
+      "confidence": 0.99,
+      "current": "And if I really were a five-hundred-year-old immortal, the one pulling this eight-horse carriage would be Cheonju, not a horse.",
+      "defect": "Cheonju leaves the established title untranslated in an English-only reading copy.",
+      "id": "C02",
+      "rationale": "The packet’s binding decision retains “Lord of Heaven” for this title.",
+      "replacement": "And if I really were a five-hundred-year-old immortal, the one pulling this eight-horse carriage would be the Lord of Heaven, not a horse.",
+      "severity": "minor",
+      "source": "Chapter 1178, Taekyung imagining an immortal pulling the carriage"
+    }
+  ],
+  "summary": "The reading copies and active state are broadly consistent. Two established formatting and terminology choices drift in the English.",
+  "version": 1
+}
