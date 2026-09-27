@@ -1,24 +1,23 @@
 # Translation State
 
-- Last completed: 1091
-- Next chapter: 1092
-- Current block: 1090–1094 (2/5)
-- Latest translation: `translations/1091.md`
-- Latest summary: `summaries/beats/1091.md`
-- Safe profiles through: chapter 1091
+- Last completed: 1092
+- Next chapter: 1093
+- Current block: 1090–1094 (3/5)
+- Latest translation: `translations/1092.md`
+- Latest summary: `summaries/beats/1092.md`
+- Safe profiles through: chapter 1092
 
 ## Current Block
 
-- Dark Heaven’s army reaches Xining, and its immense advance shakes the city. Jin Taekyung admits to Jeok Cheongang that he fears failing the civilians behind the wall; Jeok tells him that facing fear and caring about others’ pain are what make someone a hero.
-- The Blood Lord goads Jeok Cheongang into coming down from the wall. Taekyung, Jeok, and the Slaughter Saint leap down to confront him. After the Blood Lord unleashes a powerful shout, Taekyung attacks and says this time will be different.
+- Jin Taekyung faces the Blood Lord and recognizes that his enemy is still stronger, though no longer impossibly beyond his reach. Their first exchange reveals the Blood Lord’s monstrous strength and an abnormally enlarged, stitched-on arm; the Blood Lord attributes it to “his grace.” He knocks White Flame from Taekyung’s hands and wounds him, but Taekyung keeps taunting him. The Fire King and Slaughter Saint attack from behind, and a streak of lightning descends from the nearby city wall.
 
 ## Open Questions
 
-- What is the black-robed captive in Qinghai’s identity and what does he know?
+- Who is the black-robed captive in Qinghai, and what does he know?
 - Why did the Lord of Heaven spare Taekyung in Gansu, and what is his real purpose?
 - Will the Alliance Leader and other righteous warriors reach Qinghai?
 - What is the hidden ember Cheongheoja warned about?
-- What will happen in the confrontation with the Blood Lord?
+- Who or what caused the lightning strike from the city wall, and what is the outcome of the fight with the Blood Lord?
 
 ## Exceptional Decision
 
