@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "the first form of the Blazing Flame Divine Spear",
+      "defect": "The martial art’s name differs from the established Fire Dragon Divine Spear.",
+      "id": "C01",
+      "rationale": "Chapters 1166, 1168, and 1169 identify this martial art as the Fire Dragon Divine Spear.",
+      "replacement": "the first form of the Fire Dragon Divine Spear",
+      "severity": "major",
+      "source": "Chapter 1166, Fire Dragon’s Single Tail"
+    },
+    {
+      "confidence": 0.99,
+      "current": "possessed a Dragonheart, brimming with power almost without limit like his own",
+      "defect": "Dragonheart differs from the established Dragon Heart rendering.",
+      "id": "C02",
+      "rationale": "The translation decisions and chapter 1169 use Dragon Heart.",
+      "replacement": "possessed a Dragon Heart, brimming with power almost without limit like his own",
+      "severity": "minor",
+      "source": "Chapter 1166, Morgoth’s comparison of their power"
+    },
+    {
+      "confidence": 0.99,
+      "current": "the vast magical force dormant within his Dragonheart",
+      "defect": "Dragonheart differs from the established Dragon Heart rendering.",
+      "id": "C03",
+      "rationale": "The translation decisions and chapter 1169 use Dragon Heart.",
+      "replacement": "the vast magical force dormant within his Dragon Heart",
+      "severity": "minor",
+      "source": "Chapter 1167, Morgoth draws on his power"
+    },
+    {
+      "confidence": 0.96,
+      "current": "the rapidly dwindling emptiness in his lower dantian",
+      "defect": "Emptiness cannot dwindle as the remaining energy is spent; the phrase reverses the intended physical state.",
+      "id": "C04",
+      "rationale": "Later in the same chapter, Jin’s lower dantian is nearly empty.",
+      "replacement": "the rapidly dwindling energy in his lower dantian",
+      "severity": "minor",
+      "source": "Chapter 1168, Jin’s charge up Morgoth’s foreleg"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Skeleton King’s head appears in Jin’s arms and speaks to him.",
+      "defect": "The summary attributes speech to the Skeleton King, but the closing speech is Morgoth’s.",
+      "id": "C05",
+      "rationale": "Chapter 1169 explicitly attributes the closing voice and gaze to Morgoth; the head appears but does not speak.",
+      "replacement": "The Skeleton King’s head appears in Jin’s arms as Morgoth calls Jin chosen by God.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Skeleton King’s head appeared and spoke to Jin; what will happen to him remains unresolved.",
+      "defect": "The continuity note assigns Morgoth’s words to the Skeleton King.",
+      "id": "C06",
+      "rationale": "Chapter 1169 ends with Morgoth speaking and leaves the Skeleton King’s next action unresolved.",
+      "replacement": "The Skeleton King’s head appeared in Jin’s arms; what will happen to him remains unresolved.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The Skeleton King’s head appeared and spoke to Jin.",
+      "defect": "Active state records speech by the Skeleton King that does not occur in the reading copy.",
+      "id": "C07",
+      "rationale": "This preserves both closing events without assigning Morgoth’s line to the Skeleton King.",
+      "replacement": "The Skeleton King’s head appeared in Jin’s arms as Morgoth called Jin chosen by God.",
+      "severity": "major",
+      "source": "Durable state, active_continuity"
+    }
+  ],
+  "summary": "The reading copies contain a martial-art name drift, two Dragon Heart terminology drifts, and one contradictory description of Jin’s remaining energy. The summary and active state incorrectly attribute Morgoth’s final words to the Skeleton King.",
+  "version": 1
+}
