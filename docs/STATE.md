@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1092
-- Next chapter: 1093
-- Current block: 1090–1094 (3/5)
-- Latest translation: `translations/1092.md`
-- Latest summary: `summaries/beats/1092.md`
-- Safe profiles through: chapter 1092
+- Last completed: 1093
+- Next chapter: 1094
+- Current block: 1090–1094 (4/5)
+- Latest translation: `translations/1093.md`
+- Latest summary: `summaries/beats/1093.md`
+- Safe profiles through: chapter 1093
 
 ## Current Block
 
-- Jin Taekyung faces the Blood Lord and recognizes that his enemy is still stronger, though no longer impossibly beyond his reach. Their first exchange reveals the Blood Lord’s monstrous strength and an abnormally enlarged, stitched-on arm; the Blood Lord attributes it to “his grace.” He knocks White Flame from Taekyung’s hands and wounds him, but Taekyung keeps taunting him. The Fire King and Slaughter Saint attack from behind, and a streak of lightning descends from the nearby city wall.
+- Jeok Cheongang confirms that the Bow Saint is helping Jin Taekyung, then joins the Slaughter Saint against the Black Ghosts. After a Black Ghost rises again from what seemed a fatal wound, they identify the enemies as former fiends of the Demonic Cult who defy death. Jeok clears a vast area with a full-strength Flame-Extinguishing Divine Fist, but the Grand Mage survives behind an immense ice wall. She vows to kill him for that person; Jeok, pressed for time while the Slaughter Saint and Taekyung remain in separate fights, orders her to clear the way and then turns away.
 
 ## Open Questions
 
@@ -17,7 +17,7 @@
 - Why did the Lord of Heaven spare Taekyung in Gansu, and what is his real purpose?
 - Will the Alliance Leader and other righteous warriors reach Qinghai?
 - What is the hidden ember Cheongheoja warned about?
-- Who or what caused the lightning strike from the city wall, and what is the outcome of the fight with the Blood Lord?
+- What are the outcomes of the fights involving Taekyung, Jeok Cheongang, the Slaughter Saint, the Blood Lord, and the Grand Mage?
 
 ## Exceptional Decision
 
