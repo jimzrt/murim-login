@@ -1583,3 +1583,5 @@ Overrides generic relationship prose in character profiles for this pair.
 | 스켈레톤 킹 | 진태경 | reunited friends and allies | you | insulting-casual | He trades blunt insults with Taekyung, then quietly says he is glad to see him again. |
 | 모르고스 | 블라디미르 푸린 | Morgoth addresses Furin as a political ruler and counterpart. | you | Morgoth uses 하게체, a familiar but formal register. | Morgoth consistently uses the familiar 자네. |
 | 블라디미르 푸린 | 모르고스 | Furin addresses the being demanding his surrender. | you; briefly “sir” in the reading copy | Furin mainly uses 해체, with a brief shift to a deferential address. | Furin shifts from 너 to 당신 and briefly uses an honorific form of address. |
+| 모르고스 | 파이 첸 | Enemies | human | Condescending, informal | Morgoth addresses her as a foolish human and later as human. |
+| 파이 첸 | 모르고스 | Enemies | you monster | Rude, informal | She curses at him and refuses his offer to follow him. |

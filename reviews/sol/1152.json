@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "The shockwave reached out hundreds, even thousands of kilometers, shaking the world beyond the rectangular screen.",
+      "defect": "“Shockwave” turns a far-reaching reverberation into a physical blast wave.",
+      "id": "F01",
+      "rationale": "울림 denotes a reverberation, not a shockwave.",
+      "replacement": "The reverberation carried hundreds, even thousands of kilometers, shaking the world beyond the rectangular screen.",
+      "severity": "major",
+      "source": "수백, 수천 킬로미터 밖으로 뻗어 나간 울림은 직사각형의 화면을 넘어 세상을 뒤흔들었다."
+    },
+    {
+      "confidence": 0.98,
+      "current": "Unlike a God so distant that his voice could not reach them, the savior of the new age answered their desperate pleas before long.",
+      "defect": "The direction of the unheard voice is reversed.",
+      "id": "F02",
+      "rationale": "The contrast is between a distant God who cannot hear their pleas and a savior who answers them.",
+      "replacement": "Unlike God, who was so far away that their voices could not reach him, the savior of the new age answered their desperate pleas before long.",
+      "severity": "major",
+      "source": "그리고 너무나도 먼 곳에 있어 목소리조차 닿지 않는 신과 달리, 새로운 시대의 구원자는 오래 지나지 않아 그 간절함에 응답했다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“How many dead?”",
+      "defect": "The question asks for deaths alone rather than casualties.",
+      "id": "F03",
+      "rationale": "사상자 includes the dead and the injured; Johnson only subsequently reports that there are no signs of life.",
+      "replacement": "“How many casualties?”",
+      "severity": "major",
+      "source": "“사상자는?”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "Soon, some amazing guy’s gonna come looking for you and ask your name. Your name, your—",
+      "defect": "Pie Chen says the visitor will ask about her name, not Morgoth’s.",
+      "id": "F04",
+      "rationale": "그 이름 refers back to the name Pie Chen has just insisted Morgoth remember.",
+      "replacement": "Soon, some amazing guy’s gonna come looking for you and ask about that name. Ask about my name, my—",
+      "severity": "critical",
+      "source": "조만간 어떤 대단한 녀석이 널 찾아와서 그 이름을, 이름을 물어, 볼……."
+    },
+    {
+      "confidence": 0.99,
+      "current": "His only remaining arm.",
+      "defect": "The draft omits that his remaining arm is his right arm.",
+      "id": "F05",
+      "rationale": "오른팔 specifies the right arm, a physical continuity detail.",
+      "replacement": "With his right arm—the only one he had left.",
+      "severity": "critical",
+      "source": "이제는 하나밖에 남지 않은 오른팔로."
+    },
+    {
+      "confidence": 0.97,
+      "current": "“From now on, I won’t let anyone else die.”",
+      "defect": "The promise narrows preventing further sacrifice to preventing deaths.",
+      "id": "F06",
+      "rationale": "희생하게 두진 않겠다 is a promise not to let anyone else be sacrificed, echoing Pie Chen’s sacrifice.",
+      "replacement": "“From now on, I won’t let anyone else be sacrificed.”",
+      "severity": "major",
+      "source": "“지금부터, 그 누구도 희생하게 두진 않을 겁니다.”"
+    }
+  ],
+  "summary": "The draft changes two consequential details in Pie Chen’s final exchange and loses several physical and causal details.",
+  "version": 1
+}
