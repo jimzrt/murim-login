@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "Elsewhere, the Grand Mage awakens after being reborn through the Lord of Heaven’s grace; the Lord connects a wave she felt to the heavens opening again.",
+      "defect": "The summary assigns the reborn Grand Mage a female pronoun that the reading copy does not establish and leaves this Grand Mage easy to confuse with Magic Johnson.",
+      "id": "C01",
+      "rationale": "Chapter 1145 places the reborn Grand Mage in Dark Heaven and uses no gendered pronoun.",
+      "replacement": "Elsewhere, a Grand Mage in Dark Heaven awakens after being reborn through the Lord of Heaven’s grace; the Lord connects a wave the Grand Mage felt to the heavens opening again.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot paragraph 1"
+    },
+    {
+      "confidence": 0.99,
+      "current": "while the Grand Mage—now identified as Magic Johnson—attacks from above.",
+      "defect": "This identifies the reborn Grand Mage in Dark Heaven as Magic Johnson.",
+      "id": "C02",
+      "rationale": "Chapters 1148–1149 identify the Hunters’ ally attacking from above as Johnson; they do not identify him as the figure reborn in chapter 1145.",
+      "replacement": "while Magic Johnson attacks from above.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot paragraph 2"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Johnson says his last contact with the group was twenty-four hours earlier.",
+      "defect": "Twenty-four hours marks the first contact, not the last.",
+      "id": "C03",
+      "rationale": "Chapter 1149 gives the two contacts separately.",
+      "replacement": "Team Leader Choi says the last contact was twenty-one hours earlier and the first was three hours before that.",
+      "severity": "major",
+      "source": "Checkpoint summary, Plot paragraph 3"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Taekyung was unconscious for ten days, while Johnson’s last contact with the group was twenty-four hours earlier. The difference remains unexplained.",
+      "defect": "The bullet assigns the first contact’s timing to the last contact.",
+      "id": "C04",
+      "rationale": "Preserves both times stated in chapter 1149 without conflating the contacts.",
+      "replacement": "Taekyung was unconscious for ten days. The last contact was twenty-one hours earlier, and the first was twenty-four hours earlier. The difference remains unexplained.",
+      "severity": "major",
+      "source": "Checkpoint summary, Continuity bullet 2"
+    },
+    {
+      "confidence": 1.0,
+      "current": "Taekyung has been unconscious for ten days; Magic Johnson's last contact with the group was twenty-four hours ago.",
+      "defect": "The active state repeats the incorrect last-contact timing.",
+      "id": "C05",
+      "rationale": "Matches Team Leader Choi’s account in chapter 1149.",
+      "replacement": "Taekyung has been unconscious for ten days; the last contact was twenty-one hours ago, and the first was twenty-four hours ago.",
+      "severity": "major",
+      "source": "Checkpoint summary, Durable state active_continuity[0]"
+    }
+  ],
+  "summary": "The reading copies are broadly consistent. The checkpoint summary conflates two Grand Mages and misstates the contact timeline; the timeline error also appears in continuity and durable state.",
+  "version": 1
+}

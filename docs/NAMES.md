@@ -2551,3 +2551,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 팔황 | **Eight Directions** | Paired with the Nine Provinces as a broad geographic expression. |
 | 타커라마간 | **Taklamakan Desert** | Desert the coalition army is crossing in Xinjiang. |
 | 리자드맨 | **Lizardman** | Humanoid monster species, distinct from 리자드. |
+| 흑룡공 | **Black Dragon Duke** | Title in Morgoth's System announcement. |
+| 모르고스 | **Morgoth** | The being who answers the summoning. |
