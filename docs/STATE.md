@@ -1,22 +1,22 @@
 # Translation State
 
-- Last completed: 1164
-- Next chapter: 1165
-- Current block: 1160–1164 (5/5)
-- Latest translation: `translations/1164.md`
-- Latest summary: `summaries/beats/1164.md`
-- Safe profiles through: chapter 1164
+- Last completed: 1165
+- Next chapter: 1166
+- Current block: 1165–1169 (1/5)
+- Latest translation: `translations/1165.md`
+- Latest summary: `summaries/beats/1165.md`
+- Safe profiles through: chapter 1165
 
 ## Current Block
 
-- The Skeleton King’s sacrifice weakens Morgoth’s isolated territory, and a pillar of light reveals arriving reinforcements as Magic Johnson rains fire on the monsters. Morgoth admits he fears Jin, then transforms into his Black Dragon form. As Dragon-tooth soldiers charge, countless Warp formations illuminate the horizon, and Jin vows Morgoth will meet the same fate as his past foes.
+- Morgoth summons his remaining regional forces as Jin Taekyung advances through the Dragon-tooth soldiers. The suicide squad and reinforcements led by Magic Johnson arrive, followed by Felix and four S-rank Hunters. They engage Morgoth’s forces and the seven Guardians, who are the old comrades of the arriving Hunters. With the allied mages countering Morgoth’s lightning, Jin pushes toward Morgoth.
 
 ## Open Questions
 
-- Who has arrived through the Warp formations, and can they change the battle’s outcome?
+- Can Jin reach and defeat Morgoth?
+- Can the Guardians be freed from Morgoth’s control?
 - What is the Skeleton King’s condition after his sacrifice?
-- Can Morgoth’s seven Guardians be freed from his control?
-- What will happen in the confrontation between Jin and Morgoth?
+- Can the arriving allies turn the battle’s tide?
 
 ## Exceptional Decision
 
