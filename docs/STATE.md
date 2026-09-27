@@ -1,15 +1,15 @@
 # Translation State
 
-- Last completed: 1086
-- Next chapter: 1087
-- Current block: 1085–1089 (2/5)
-- Latest translation: `translations/1086.md`
-- Latest summary: `summaries/beats/1086.md`
-- Safe profiles through: chapter 1086
+- Last completed: 1087
+- Next chapter: 1088
+- Current block: 1085–1089 (3/5)
+- Latest translation: `translations/1087.md`
+- Latest summary: `summaries/beats/1087.md`
+- Safe profiles through: chapter 1087
 
 ## Current Block
 
-- Mae Jonghak reveals that a long-prepared opportunity to strike back against Dark Heaven has arrived. He gives Zhuge Feng Song Ho’s secret list of embedded spies, allies, and meeting locations, then leaves; Zhuge Feng prepares the Zhuge Clan to evacuate immediately and urges Jin Taekyung to hold on in the west.
+- The Blood Lord and Grand Mage argue over his unilateral actions in Qinghai. He admits privately that he lied to the Lord of Heaven about fighting Mae Jonghak, then reveals his real plan: the advancing Green Forest Alliance and Yangtze River Channel League were bait and cover for testing Dark Heaven’s hidden magic formations. Ten thousand Dark Heaven faithful crossed into the Central Plains through the formations and joined the two alliances; most formations retain one use, though two or three used at Shaolin may be spent. The Blood Lord intends to march on Xining, while keeping the option to use the remaining formations for a larger invasion.
 
 ## Open Questions
 
