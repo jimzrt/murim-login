@@ -1,0 +1,66 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "And the people capable of posing such a threat were hundreds of yards away, fighting countless monsters.\n\nMore precisely, their subordinates were fighting under their command.",
+      "defect": "The second sentence makes the distant fighters’ subordinates the combatants. The source identifies the monsters they are fighting as the concealed figures’ controlled subordinates.",
+      "id": "F01",
+      "rationale": "그들의 조종에 따라 움직이는 수하들 describes the minions under the concealed figures’ control, not subordinates fighting on the distant people’s side.",
+      "replacement": "The people capable of seeing through their concealment were hundreds of yards away, fighting countless monsters.\n\nThose monsters were the concealed figures’ subordinates, moving under their control.",
+      "severity": "critical",
+      "source": "그리고 그런 위협을 줄 수 있는 이들은, 수백여 장이나 떨어진 곳에서 무수한 괴물들과 맞서 싸우는 와중이었다.\n\n정확히는, 그들의 조종에 따라 움직이는 수하들이었지만."
+    },
+    {
+      "confidence": 0.99,
+      "current": "“Come on, what else is there to life? I’ve spent all this time following your ass around, Captain. Now I wouldn’t even flinch if the fucking Heavenly Demon himself showed up.”",
+      "defect": "The punchline changes the Heavenly Demon’s grandfather into the Heavenly Demon himself.",
+      "id": "F02",
+      "rationale": "천마 할애비 explicitly means the Heavenly Demon’s grandfather; the exaggerated kinship is part of Mujin’s joke.",
+      "replacement": "“Fuck it, what’s life anyway? I’ve spent all this time following your ass around, Captain. Now I wouldn’t even flinch if the Heavenly Demon’s granddad showed up.”",
+      "severity": "major",
+      "source": "“씨바 거, 인생 뭐 있습니까? 조장님 뒤꽁무니만 쫓다 보니까 이제는 천마 할애비가 나타나도 안 쫄립니다.”"
+    },
+    {
+      "confidence": 0.9,
+      "current": "With a deafening roar that sounded as if the sky had split apart, countless shadows poured down, blanketing every direction.",
+      "defect": "“Poured down” suggests an attack from above, though the force has encircled them and the source does not give the shadows a downward trajectory.",
+      "id": "F03",
+      "rationale": "하늘이 갈라지는 듯한 modifies the roar; 온 사방 describes where the shadows arrive from.",
+      "replacement": "With a deafening roar that sounded as if the sky had split apart, countless shadows came pouring in from every direction.",
+      "severity": "major",
+      "source": "하늘이 갈라지는 듯한 굉음과 함께, 무수한 그림자들이 온 사방을 뒤덮으며 쏟아졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "There was no shame in being a coward if it meant surviving.",
+      "defect": "The draft calls a person who retreats a coward, then excuses it. The source rejects that label in a matter of survival.",
+      "id": "F04",
+      "rationale": "비겁함이란 없다 denies cowardice rather than treating it as shame-free.",
+      "replacement": "There was no such thing as cowardice when it came to survival.",
+      "severity": "minor",
+      "source": "생존에 있어 비겁함이란 없다."
+    },
+    {
+      "confidence": 0.94,
+      "current": "If someone wanted to live and return home, even if they had to do whatever it took, I’d gladly protect them.",
+      "defect": "“Do whatever it took” loses the specific choice just offered: leaving the battle line.",
+      "id": "F05",
+      "rationale": "그렇게라도 points back to 물러나라, Jin’s invitation to withdraw from the formation.",
+      "replacement": "If anyone wanted to fall back so they could make it home alive, I’d gladly protect them.",
+      "severity": "minor",
+      "source": "그렇게라도 살아서 돌아가고자 하는 이가 있다면, 나는 그를 기꺼이 보호할 것이다."
+    },
+    {
+      "confidence": 0.92,
+      "current": "Remembering why they had to be here. Remembering the familiar faces those monsters had killed.",
+      "defect": "“Familiar” identifies the dead but drops the grief in 그리운.",
+      "id": "F06",
+      "rationale": "그리운 conveys longing for the dead, not merely recognition.",
+      "replacement": "Remembering why they had to be here. Remembering the faces of those they missed, killed by the monsters.",
+      "severity": "minor",
+      "source": "자신들이 이곳에 있어야 하는 이유를 떠올리며, 놈들에 의해 죽어 간 그리운 얼굴들을 떠올리며."
+    }
+  ],
+  "summary": "The draft reverses who controls the monsters in the closing scene and changes several smaller details of the battle and dialogue.",
+  "version": 1
+}
