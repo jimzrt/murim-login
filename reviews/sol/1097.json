@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "even the ruler of Tibet’s vast lands",
+      "defect": "Uses “Tibet” where the packet’s continuity decision calls for “Xizang” in Murim narration.",
+      "id": "F01",
+      "rationale": "The viewpoint is the Dalai Lama’s, not Taekyung identifying the region from his modern-world perspective.",
+      "replacement": "even the ruler of Xizang’s vast lands",
+      "severity": "minor",
+      "source": "광활한 서장의 지배자인 자신조차도"
+    },
+    {
+      "confidence": 0.94,
+      "current": "the king of the theocratic state that ruled Tibet",
+      "defect": "Repeats the inconsistent regional rendering.",
+      "id": "F02",
+      "rationale": "The packet specifies “Xizang” for the Murim region outside Taekyung’s modern-world identification.",
+      "replacement": "the king of the theocratic state that ruled Xizang",
+      "severity": "minor",
+      "source": "서장의 지배하는 교국(敎國)의 왕"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The balance of power had tipped even further against us now that the Potala Palace had joined the fight.",
+      "defect": "Omits that their victory had briefly brought the balance a tiny bit closer to even before the Potala Palace’s arrival reversed that gain.",
+      "id": "F03",
+      "rationale": "손톱만큼이라도 수평에 가까워졌던 explicitly marks the small, temporary improvement.",
+      "replacement": "For a moment, the balance of power had edged the tiniest bit closer to even. With the Potala Palace’s arrival, it had tipped further against us than before.",
+      "severity": "major",
+      "source": "손톱만큼이라도 수평에 가까워졌던 힘의 무게추가, 포달랍궁의 가세로 인하여 전보다도 더욱 기울어져 버린 것이다."
+    },
+    {
+      "confidence": 0.95,
+      "current": "the pitiful sight of that young pup who’d dared to face him.",
+      "defect": "“Pitiful” recasts Taekyung’s desperate struggle as a pathetic appearance.",
+      "id": "F04",
+      "rationale": "처절하던 describes the harrowing intensity of his struggle; it does not say he looked pitiful.",
+      "replacement": "how desperately that young pup had fought when he dared to face him.",
+      "severity": "major",
+      "source": "감히 자신과 맞섰던 하룻강아지의 그 처절하던 모습을."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Considering what we’d gain if we succeeded, my life would be more than enough to pay for it.",
+      "defect": "Frames his life as more than the necessary price rather than the risk being worthwhile for the potential gain.",
+      "id": "F05",
+      "rationale": "남는 장사 describes a profitable trade from the speaker’s perspective.",
+      "replacement": "Considering what we’d gain if we succeeded, staking my one life would be a bargain.",
+      "severity": "minor",
+      "source": "성공 시에 얻게 될 것을 생각한다면, 이 목숨 하나로는 충분히 남는 장사지."
+    }
+  ],
+  "summary": "The draft is broadly faithful, but it loses a shift in the balance of power and mischaracterizes Taekyung’s earlier fight. It also conflicts with the packet’s established regional rendering.",
+  "version": 1
+}

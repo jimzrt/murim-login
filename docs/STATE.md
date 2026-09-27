@@ -1,22 +1,24 @@
 # Translation State
 
-- Last completed: 1096
-- Next chapter: 1097
-- Current block: 1095–1099 (2/5)
-- Latest translation: `translations/1096.md`
-- Latest summary: `summaries/beats/1096.md`
-- Safe profiles through: chapter 1096
+- Last completed: 1097
+- Next chapter: 1098
+- Current block: 1095–1099 (3/5)
+- Latest translation: `translations/1097.md`
+- Latest summary: `summaries/beats/1097.md`
+- Safe profiles through: chapter 1097
 
 ## Current Block
 
-- The Blood Lord lets Jin Taekyung and the other defenders return to Xining rather than risk a costly battle, intending to wait for thirty thousand reinforcements expected within one or two days. He never planned to honor his ultimatum: he hopes Taekyung will choose to fight, giving him a pretext to kill him.
-- The Dalai Lama arrives with the Potala Palace’s forces and confronts the Blood Lord for releasing the Fire Gate Clan’s heirs, whom the Potala Palace has long hated. The Blood Lord invokes the Palace’s debt to the Lord of Heaven, promises rewards for helping capture Taekyung, then threatens the Dalai Lama for speaking down to him.
+- The Blood Lord cowes the Dalai Lama into accepting the Potala Palace’s subordinate position in its alliance with Dark Heaven, promising that the Fire Gate Clan will be destroyed in Xining. He dismisses the possibility that Jeok Cheongang and Jin Taekyung would flee while their allies and civilians remain at risk, then privately resolves to kill Taekyung even if that means disobeying the Lord of Heaven. He waits for a signal from a long-hidden Dark Heaven agent inside the enemy’s ranks before attacking.
+- As a storm gathers over Xining, Bow Saint says the defenders may have missed their chance to strike before the Potala Palace joined the siege. The Slaughter Saint estimates only a one-in-ten chance of eliminating the enemy leadership at night, rising to one in five if the heavens help; Taekyung rejects the attack because Dark Heaven’s magic makes the odds worse than they appear. Jeok Cheongang privately demands to know what the Blood Lord said at the last moment, which Taekyung has not disclosed.
 
 ## Open Questions
 
 - Will the expected reinforcements reach Xining in time to decide the battle?
 - Why does the Lord of Heaven appear to want Taekyung above all else?
-- Will the Potala Palace continue cooperating with the Blood Lord after his threat to the Dalai Lama?
+- Who is the hidden Dark Heaven agent inside the defenders’ ranks, and when will they signal?
+- What did the Blood Lord say at the last moment, and will Taekyung tell Jeok Cheongang?
+- Will the Blood Lord’s plan to kill Taekyung bring him into conflict with the Lord of Heaven?
 
 ## Exceptional Decision
 
