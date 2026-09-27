@@ -1,0 +1,25 @@
+{
+  "summary": "The translation is broadly faithful, with two minor shifts in the description of the Empress’s energy and the warriors’ injuries.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 131–132",
+      "current": "Her innate qi bought with her life was dwindling by the moment",
+      "defect": "“Bought with her life” suggests her life was already spent as payment. The source instead says her life was staked as collateral for the innate qi.",
+      "replacement": "Her innate qi, which she had staked her life on, was dwindling by the moment",
+      "rationale": "목숨을 담보로 한 means her life is at stake or pledged as collateral; it does not say her life has been spent to buy the qi.",
+      "confidence": 0.88
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 139",
+      "current": "They flew in every direction, coughing blood.",
+      "defect": "The source describes blood spurting out as the warriors are flung away, not coughing.",
+      "replacement": "They flew in every direction, blood spraying from them.",
+      "rationale": "핏물을 뿜어내며 describes blood being expelled or sprayed; it does not specify coughing.",
+      "confidence": 0.96
+    }
+  ]
+}

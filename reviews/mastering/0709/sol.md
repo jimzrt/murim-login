@@ -8,7 +8,7 @@ His limbs, usually as light as down, hung heavy and ached. Every step felt incom
 
 One Annihilation had taken a terrible toll. Without the Beast Miao King’s help, Jin would not have been able to stand, much less run. And even if he had somehow stayed on his feet, the Southern Heaven Demon Empress’s devastating attack would have killed him.
 
-And yet… he had survived.
+But he had survived.
 
 The Beast Miao King and the guardian spirit had risked their lives to save him when he had the least strength left to spare. Now the Baekcheon Unit was carrying on their resolve, staking their lives at this very moment.
 
@@ -46,9 +46,9 @@ The Beast Miao King, Wang Ho, and the hundred warriors of the Baekcheon Unit had
 
 Instead, he had come running straight back into danger.
 
-“What the hell is going on…!”
+“What are you doing—?”
 
-As Wang Ho cried out and moved to block Jin Taekyung, a hand planted firmly on his shoulder. A low voice sounded beside his ear.
+Wang Ho cried out and moved to block Jin. As Jin reached him, a nail-pierced hand came down on his shoulder, and a low voice sounded beside his ear.
 
 “Let’s get out of this alive together.”
 
@@ -64,9 +64,9 @@ He could not stop the young man from leaving him behind and running toward death
 
 And then he understood why the Beast Miao King, his lord, who had nearly a hundred thousand tribespeople to lead, had made his choice.
 
-*Was this why? Was it because of this very sight that you wanted to protect that young man more than your own safety?*
+*Was this why? Was it because of this that you chose to protect him over your own life?*
 
-If Jin had returned so they could die together, it would have been nothing more than foolhardy courage.
+If Jin had returned so they could die together, it would have been nothing but a fool’s courage.
 
 But Jin Taekyung had come back to fight beside them. To save as many people as they could—even one more—and for all of them to survive.
 
@@ -104,13 +104,13 @@ Slice! Shraaaaaak!
 
 A hand blade wreathed in murky darkness split someone in two.
 
-Beyond the blood spraying in every direction, the Southern Heaven Demon Empress saw Jin Taekyung tearing through space as he charged toward her—and smiled delightedly.
+Through the blood spraying in every direction, the Southern Heaven Demon Empress saw Jin Taekyung hurtling toward her. She smiled with delight.
 
 *Foolish child. Your recklessness has given me one last chance.*
 
 Until a moment ago, she had been furious. The innate qi bought with her life was dwindling by the moment, and the hundred Baekcheon Unit warriors blocking her path had worn away her remaining strength even as they died.
 
-Her most important prey had come searching for the place where he would die, foolishly walking there on his own two feet.
+Now she could smile. Her most important prey had come looking for his own death.
 
 “Now, you small fry… get out of my way.”
 
@@ -122,7 +122,7 @@ A sound split the air across the space they left behind.
 
 Screeeeeech! Boom!
 
-The Southern Heaven Demon Empress knocked away an iron spear that shot toward her like a flash of light with her bare hand, then swung down with her hand blade.
+The Southern Heaven Demon Empress knocked aside an iron spear that came at her like a flash of light, then slashed downward with her hand blade.
 
 Whoooosh!
 
@@ -138,7 +138,7 @@ Slice!
 
 No—not only her afterimage.
 
-The Southern Heaven Demon Empress felt a drop of blood roll down her forehead.
+A drop of blood rolled down her forehead. Her expression tightened.
 
 *Fast.*
 
@@ -156,13 +156,13 @@ The spear tip trembled. Dozens of spear shadows spread out and rained down on he
 
 Their speed and force far exceeded anything she had expected. But she did not retreat.
 
-“How dare you, you little brat…!”
+“How dare you…!”
 
 Her voice seethed as her one remaining hand shot through the air. Her palm strike, stained with the blood of countless warriors, swallowed the spear shadows bearing down on her.
 
 Roooooar!
 
-No matter how many falsehoods there were, in the end, only one truth would emerge.
+However many falsehoods there were, only one could be real.
 
 The shadows vanished in the palm Force. Her hand, shrouded in murky darkness, closed around the transparent spearhead.
 
@@ -172,13 +172,13 @@ Ten-Thousand-Year Cold Iron, said to be harder and sharper than anything under h
 
 Pain struck. The Southern Heaven Demon Empress smiled anyway.
 
-*I’ve got it.*
+*Got you.*
 
 At that moment—
 
 Shwaaaaaaak!
 
-Her qi flowed along the spearhead and swept through Jin Taekyung’s insides.
+Her qi coursed along the spearhead and tore through Jin Taekyung’s insides.
 
 Boom!
 
@@ -198,7 +198,7 @@ Before she could finish, a sharp sound cut through the air.
 
 Shiiiiing!
 
-The owner of the sword, wrapped in blue Sword Energy, was none other than Wang Ho, Commander of the Baekcheon Unit.
+A sword flew toward her, wrapped in blue Sword Energy. Wang Ho, Commander of the Baekcheon Unit, wielded it.
 
 Slice!
 
@@ -222,13 +222,13 @@ Fewer than twenty warriors of the Baekcheon Unit remained. They gathered the las
 
 Shk-shk-shk-shk!
 
-At that moment, when the fierce sounds of weapons tearing through the air mingled with the wind—
+As weapons tore through the air—
 
 Kraaaaaash!
 
 Energy burst outward like a storm, sweeping away everything coming at her from every side.
 
-And from between the lips of the person standing tall at its center, blood that could no longer be held back began to flow.
+At its center, the Southern Heaven Demon Empress stood tall. Blood she could no longer hold back spilled from her lips.
 
 Cough.
 
@@ -250,7 +250,7 @@ Just before she unleashed her palm Force at the warriors, she had sent internal 
 
 But he had not fallen. He had not died.
 
-Even though his heart meridian had undoubtedly been torn to shreds, he had driven the spear he had held until the very end into the Southern Heaven Demon Empress’s chest.
+Though his heart meridian must have been torn to shreds, he had held on to his spear until he could drive it into her chest.
 
 “Jin Tae…kyung.”
 
@@ -272,7 +272,7 @@ Every hair on her body seemed to stand on end.
 
 It was fear. Terror of a human being whose resolve would not waver, no matter what happened.
 
-*…Afraid? I’m afraid? Me? Of that bastard?*
+*…Afraid? I’m afraid? Me? Of him?*
 
 Impossible. She could not fear anyone but the Lord of Heaven—least of all a mere brat on the brink of death.
 
@@ -286,11 +286,11 @@ She would likely die too. But unless she killed Jin Taekyung herself, she felt s
 
 *You monster.*
 
-With that one word she did not have the chance to spit out, the Southern Heaven Demon Empress swung down her hand blade with the last of her strength.
+She brought her hand blade down with the last of her strength, the final words left unspoken.
 
 Shk!
 
-And at the moment the murky darkness was about to bore into the crown of Jin Taekyung’s head—
+Just as the murky darkness was about to strike the crown of Jin Taekyung’s head—
 
 Screeeeeech! Crack!
 
@@ -298,4 +298,4 @@ A streak of light flew in from somewhere and swallowed her only remaining arm.
 
 A cold voice reached her as she froze.
 
-“Just whose body do you think you’re laying a hand on, you fucking bitch?”
+“How dare you lay a hand on his body, you filthy bitch?”

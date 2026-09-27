@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.96,
+      "current": "They flew in every direction, coughing blood.",
+      "defect": "The source describes blood spurting out as the warriors are flung away, not coughing.",
+      "id": "F02",
+      "rationale": "핏물을 뿜어내며 describes blood being expelled or sprayed; it does not specify coughing.",
+      "replacement": "They flew in every direction, blood spraying from them.",
+      "severity": "minor",
+      "source": "Line 139"
+    }
+  ],
+  "summary": "The translation is broadly faithful, with two minor shifts in the description of the Empress’s energy and the warriors’ injuries.",
+  "version": 1
+}
