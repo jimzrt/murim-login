@@ -126,7 +126,7 @@ But something else was even more surprising.
 
 The Skeleton King answered with an arrogant look and began sending a message to Magic Johnson.
 
-> └ Good human. I'm fine thank you. and you?
+> Good human. I'm fine thank you. and you?
 
 After checking the message, I let out a small sigh.
 
@@ -204,7 +204,7 @@ Team Leader Choi gave me a terse, emphatic answer.
 
 “…That bad?”
 
-“When someone passes the judicial exam,[^1] banners go up in their neighborhood and at their alma mater, and the local newspaper runs a short article. More than fifteen hundred people pass that exam every year. How much more attention do you think you would receive, Mr. Jin Taekyung?”
+“When someone passes the judicial exam, banners go up in their neighborhood and at their alma mater, and the local newspaper runs a short article. More than fifteen hundred people pass that exam every year. How much more attention do you think you would receive, Mr. Jin Taekyung?”
 
 With that perfectly apt comparison, Team Leader Choi clicked in midair.
 
@@ -250,7 +250,7 @@ Team Leader Choi shook his head firmly.
 
 “What?”
 
-“He is coming. The Blue House[^2] contacted us first this morning. I meant to tell you on the plane, but I dozed off and forgot.”
+“He is coming. The Blue House contacted us first this morning. I meant to tell you on the plane, but I dozed off and forgot.”
 
 For a moment, my thoughts ground to a halt.
 
@@ -280,21 +280,21 @@ At the sight of my rigid expression, Team Leader Choi lowered his head apologeti
 
 “Wait. So how much tax would I have to pay in total?”
 
-“I cannot say for certain, but it would be several trillion won.[^3] The bounty alone is fifty trillion won.[^4] Even if we simplify things and assume only ten percent is deducted, it would still be an enormous amount. Of course, the amount left over would be much larger.”
+“I cannot say for certain, but it would be several trillion. The bounty alone is fifty trillion. Even if we simplify things and assume only ten percent is deducted, it would still be an enormous amount. Of course, the amount left over would be much larger.”
 
 “…That’s true.”
 
-“Once again, I apologize for failing to get your approval. I will tell the Blue House[^2] that this is no longer happening.”
+“Once again, I apologize for failing to get your approval. I will tell the Blue House that this is no longer happening.”
 
 I nodded, my expression hard.
 
 “Team Leader. This must never happen again.”
 
-Right. I was about to get my hands on tens of trillions of won.[^5] Even if I paid every cent of tax I owed, I would still be incredibly wealthy.
+Right. I was about to get my hands on tens of trillions. Even if I paid every cent of tax I owed, I would still be incredibly wealthy.
 
 No matter how insignificant the conditions they were offering might be, I couldn’t get involved with politicians just to save a little on taxes. That was something I needed to avoid.
 
-*A few trillion won?[^3] I can just pay it and be done with it.*
+*A few trillion? I can just pay it and be done with it.*
 
 I cast my worries aside and leaned back against the soft seat.
 
@@ -315,9 +315,3 @@ As the Skeleton King watched the scene, he thought,
 *What a vile human.*
 
 The thought applied just as much to Team Leader Choi, who was smiling contentedly as though everything had gone according to plan.
-
-[^1]: Korea’s judicial exam was a competitive national examination for entry into the legal profession.
-[^2]: The Blue House was the office and residence of Korea’s president.
-[^3]: A few or several trillion won is approximately $1.4–6.4 billion or €1.3–5.8 billion, taking the phrase as roughly two to nine trillion won.
-[^4]: Fifty trillion won is about $36 billion or €32 billion.
-[^5]: Tens of trillions of won is approximately $14–64 billion or €13–58 billion, taking the phrase as roughly twenty to ninety trillion won.
