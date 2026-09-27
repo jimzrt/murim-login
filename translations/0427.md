@@ -236,7 +236,7 @@ Yet the young man before him was pressing his point without hesitation, carefull
 
 *Was that information true?*
 
-As Chairman Shao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.
+As Chairman Xiao Yang suddenly recalled Choi Minwoo’s personal information, he tapped the armrest of his chair.
 
 “Very well. It seems my explanation was insufficient, so let me say it again.”
 

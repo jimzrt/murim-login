@@ -158,7 +158,7 @@ Whatever feelings I normally had toward China, my heart pounded at the thought o
 
 Ten minutes later, deep inside an underground bunker, I shook hands with the leader of the People’s Republic of China under the gazes of the important figures gathered there.
 
-“Pleased to meet you, Mr. Jin. This old man is Shao Yang, Chairman of the People’s Republic of China.”
+“Pleased to meet you, Mr. Jin. This old man is Xiao Yang, Chairman of the People’s Republic of China.”
 
 *Good. Not even a hint of Jongseok.*
 
@@ -176,7 +176,7 @@ Having cleared that hurdle, I opened my mouth with an easy smile.
 
 Chairman of the Chinese Communist Party’s Central Military Commission. General Secretary. And the head of state who stood at the apex of more than a billion people.
 
-Shao Yang.
+Xiao Yang.
 
 His voice directed at the people was gentle, while strength filled his eyes.
 
@@ -190,7 +190,7 @@ I felt as if I had a rough idea of what kind of person he was.
 
 Perhaps it was merely a mask he wore in front of others. Perhaps it was hypocrisy.
 
-But at least from the old man speaking before all of us now, including me—Shao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.
+But at least from the old man speaking before all of us now, including me—Xiao Yang, the Chairman of China—I sensed a kind of qi utterly unlike either of those things.
 
 “Please do your utmost. Save as many of our people as you can, and bring this terrible disaster to an end as quickly as possible. If you do, I will express gratitude worthy of what you and your countries have done, and I will long remember the aid you have given us.”
 
@@ -336,7 +336,7 @@ He was a middle-aged Black man, a giant well over two meters tall. His blue eyes
 
 How could I not?
 
-I was even more nervous than I had been when facing Chairman Shao Yang.
+I was even more nervous than I had been when facing Chairman Xiao Yang.
 
 “Of course. Magic Johnson.”
 

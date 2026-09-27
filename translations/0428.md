@@ -74,7 +74,7 @@ As if he had read my mind, Team Leader Choi said, “Did you know Chairman Xiao 
 
 That told me everything I needed to know.
 
-Chairman Shao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
+Chairman Xiao had a personal grudge against the Crown Prince Party, and after enduring years of hardship, he had risen to the highest position in the country. In other words, he had an iron will.
 
 “When the time comes, a blade sharpened for years has to be swung. To the Crown Prince Party, Chairman Xiao will be the most dangerous swordsman of all.”
 
