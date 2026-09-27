@@ -1,0 +1,46 @@
+{
+  "findings": [
+    {
+      "confidence": 0.92,
+      "current": "“You bastard, you’re the biggest piece of shit under heaven!”",
+      "defect": "The Great Sir immediately adopts “Madman” from what Jeok supposedly said, but Jeok never says it.",
+      "id": "C01",
+      "rationale": "Restores the audible cue for the Great Sir’s response while retaining Jeok’s insult and its superlative.",
+      "replacement": "“You bastard, you’re the biggest madman under heaven!”",
+      "severity": "major",
+      "source": "Chapter 1061, Jeok Cheongang’s interruption"
+    },
+    {
+      "confidence": 0.94,
+      "current": "Until a peregrine falcon, having flown from Qinghai on the distant western frontier, completed its weary journey.",
+      "defect": "The messenger is called a peregrine falcon here but a messenger eagle throughout the immediate Chapter 1064 continuation.",
+      "id": "C02",
+      "rationale": "Keeps the same bird identifiable across the chapter break; the later description of its message and interception consistently calls it an eagle.",
+      "replacement": "Until a messenger eagle, having flown from Qinghai on the distant western frontier, completed its weary journey.",
+      "severity": "minor",
+      "source": "Chapter 1063, transition to the Qinghai message"
+    },
+    {
+      "confidence": 0.94,
+      "current": "A missive, wet with blood, was tied to the leg of a falcon gliding through the air with its great wings spread wide.",
+      "defect": "The bird is again called a falcon immediately before Chapter 1064 identifies it as a messenger eagle.",
+      "id": "C03",
+      "rationale": "Maintains continuity at the precise chapter handoff.",
+      "replacement": "A missive, wet with blood, was tied to the leg of an eagle gliding through the air with its great wings spread wide.",
+      "severity": "minor",
+      "source": "Chapter 1063, final sentence"
+    },
+    {
+      "confidence": 0.98,
+      "current": "The Grand Mage.\n\nNo—the Grand Mage.",
+      "defect": "The apparent self-correction repeats the same title, leaving no distinction for the reader to follow.",
+      "id": "C04",
+      "rationale": "Removes a nonfunctional correction without inventing an earlier name or identity.",
+      "replacement": "The Grand Mage.",
+      "severity": "minor",
+      "source": "Chapter 1064, Taekyung recalls the Grand Mage"
+    }
+  ],
+  "summary": "Three actionable continuity and wording defects: the Great Sir’s chosen name lacks its dialogue cue, the Qinghai messenger changes species between chapters, and a self-correction repeats the same title.",
+  "version": 1
+}

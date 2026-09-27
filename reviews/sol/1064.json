@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 1.0,
+      "current": "The Imperial Palace was among those who did.",
+      "defect": "궁성 identifies the Bow Saint, not the Imperial Palace.",
+      "id": "F01",
+      "rationale": "The next lines show the Bow Saint drawing and firing the bow.",
+      "replacement": "The Bow Saint was among them.",
+      "severity": "critical",
+      "source": "그중에는 궁성 역시 포함되어 있었다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The existence of the Kunlun Sect, with its deep-rooted history, was as decisive a reason as the mountains being the birthplace of Daoist martial arts.",
+      "defect": "The draft presents the sect and the birthplace of Daoist martial arts as the two reasons. The source describes the Kunlun Sect as the birthplace of Daoist martial arts, then points to another, equally decisive reason.",
+      "id": "F02",
+      "rationale": "The following dialogue reveals that other reason: Kunlun is a pass that must be defended.",
+      "replacement": "A reason every bit as decisive as the existence of the Kunlun Sect, birthplace of Daoist martial arts and heir to a long history.",
+      "severity": "major",
+      "source": "도가(道家) 무학의 발상지이자, 뿌리 깊은 역사를 지닌 곤륜파의 존재만큼이나 결정적인 이유가."
+    },
+    {
+      "confidence": 1.0,
+      "current": "Even now.",
+      "defect": "The System notice explaining why Logout remains unavailable is omitted.",
+      "id": "F03",
+      "rationale": "The notice names the unfinished linked Quest; its title gives Taekyung the clue that prompts his decision to go to Qinghai.",
+      "replacement": "Even now.\n\n> **System**\n>\n> The ongoing linked Quest, **To Qinghai**, has not yet been completed!",
+      "severity": "critical",
+      "source": "- 진행 중인 연계 퀘스트, [청해성으로]가 아직 완료되지 않았습니다!"
+    },
+    {
+      "confidence": 0.98,
+      "current": "At Jeok Cheongang’s sudden question, the Bow Saint furrowed her brow.",
+      "defect": "The draft assigns the Bow Saint a female pronoun unsupported by the source and inconsistent with the packet’s established reference to him.",
+      "id": "F04",
+      "rationale": "The Korean names the Bow Saint without a pronoun; the replacement preserves the reaction without changing identity.",
+      "replacement": "At Jeok Cheongang’s sudden question, the Bow Saint frowned.",
+      "severity": "critical",
+      "source": "궁성이 미간을 좁혔다."
+    },
+    {
+      "confidence": 1.0,
+      "current": "**[Logout]** is unavailable.",
+      "defect": "Square brackets remain inside a System-message panel, contrary to the packet’s panel-format rule.",
+      "id": "F05",
+      "rationale": "The blockquote window already identifies the text as System output.",
+      "replacement": "**Logout** is unavailable.",
+      "severity": "minor",
+      "source": "- [로그아웃]이 불가능한 상태입니다."
+    }
+  ],
+  "summary": "The draft misidentifies the Bow Saint, reverses the explanation of Kunlun’s significance, and omits a System notice.",
+  "version": 1
+}
