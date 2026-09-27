@@ -2519,3 +2519,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 송악 | **Songak** | Named official of Qinghai’s Regional Military Commission. |
 | 공화문 | **Gonghwa Sect** | Qinghai martial sect. |
 | 위지휘사사 | **Regional Military Commission** | Qinghai military authority named in the chapter. |
+| 학운의 | **Hak Unui** | Kunlun Cloud Dragon; Hak Eui’s Junior Brother. |
