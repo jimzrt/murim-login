@@ -2572,3 +2572,6 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 용아병 | **Dragon-tooth soldiers** | Guardians born of Dragons and serving them. |
 | 파블로 알바토레스 | **Pablo Albatroses** | S-rank Hunter turned into one of Morgoth’s Guardians. |
 | 멀린 | **Merlin** | Grand Mage who chose self-destruction in the battle several days earlier. |
+| 드래곤 하트 | **Dragon Heart** | Morgoth’s exposed organ. |
+| 심안 | **Mind’s Eye** | Ability that activates under specific conditions and causes extreme fatigue. |
+| 온고지신 | **Learn from the Old, Know the New** | System achievement. |

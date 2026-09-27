@@ -1,19 +1,20 @@
 # Translation State
 
-- Last completed: 1168
-- Next chapter: 1169
-- Current block: 1165–1169 (4/5)
-- Latest translation: `translations/1168.md`
-- Latest summary: `summaries/beats/1168.md`
-- Safe profiles through: chapter 1168
+- Last completed: 1169
+- Next chapter: 1170
+- Current block: 1165–1169 (5/5)
+- Latest translation: `translations/1169.md`
+- Latest summary: `summaries/beats/1169.md`
+- Safe profiles through: chapter 1169
 
 ## Current Block
 
-- Jin Taekyung presses his attack through Morgoth’s foreleg, cuts off both wings, and unveils the Fire Dragon Divine Spear’s Third Form, Open Heaven. Its refined hellfire strikes Morgoth down, ending the battle. The survivors recognize that humanity has won and that Jin led them to victory.
+- Humanity rallies as Jin returns from the sky after defeating Morgoth. System notices register a new Fire Dragon Divine Spear form, Open Heaven, improvements to his martial arts, and level-ups that heal his injuries. His Fire Dragon Armor is destroyed, and he is left mentally exhausted. Morgoth, gravely wounded with his Dragon Heart exposed, tells Jin that he spent millennia seeking God and now believes Jin is chosen by God. The Skeleton King’s head appears in Jin’s arms as Morgoth repeats that claim.
 
 ## Open Questions
 
-- What condition are Jin and the surviving forces in after the battle?
+- Is Jin truly chosen by God, and what does that mean?
+- What will happen to Morgoth and the Skeleton King?
 
 ## Exceptional Decision
 
