@@ -18,11 +18,11 @@ Had he been bewitched by a ghost? Jang Sam was bewildered, but the moment he saw
 
 When Jang Sam and the Five-Colored Ghosts blocked the road, the coachman pulled on the reins.
 
-Four fine steeds, their coats gleaming, snorted clouds of vapor as they came to a halt. At a glance, each one looked worth at least a thousand nyang.[^1]
+Four fine steeds, their coats gleaming, snorted clouds of vapor as they came to a halt. At a glance, each one looked worth at least a thousand nyang.
 
 *Today’s my lucky day.*
 
-Jang Sam smiled contentedly and adjusted his grip on his axe. Now, put some power into the dantian.[^2] One, two—
+Jang Sam smiled contentedly and adjusted his grip on his axe. Now, put some power into the dantian. One, two—
 
 “Hand over your money!”
 
@@ -32,7 +32,7 @@ Jang Sam smiled contentedly and adjusted his grip on his axe. Now, put some powe
 
 But it would take more than that to make me blink. I’d spent seven years as a Hunter and been through every kind of battle imaginable—even aerial combat.
 
-*…Still, he was kind of scary.*
+…Still, he was kind of scary.
 
 “There are six of them in total. I don’t see any signs of an ambush.”
 
@@ -46,7 +46,7 @@ When I stared at him, he scratched his head.
 
 “Why?”
 
-“Why? Unless they belong to a sizable mountain stronghold, attacking a Murim[^3] family is practically suicide. Robbing people in the Jin Family of Taiyuan’s own backyard… I wonder what kind of reckless fools they are.”
+“Why? Unless they belong to a sizable mountain stronghold, attacking a Murim family is practically suicide. Robbing people in the Jin Family of Taiyuan’s own backyard… I wonder what kind of reckless fools they are.”
 
 *Who else? Tutorial NPCs.*
 
@@ -86,7 +86,7 @@ He coiled the horsewhip in his hand as if one crack would separate the bandits�
 
 *He’s a master!*
 
-Of course. I was the heir of a prestigious martial family and a VIP customer of Honghwaru.[^4] There was no way they would have sent an ordinary coachman with me.
+Of course. I was the heir of a prestigious martial family and a VIP customer of Honghwaru. There was no way they would have sent an ordinary coachman with me.
 
 *Wolhwa must have arranged this. She isn’t just beautiful—she’s kind, too.*
 
@@ -106,11 +106,13 @@ Then the coachman laid into them.
 
 “How dare bandits who suck the lifeblood of innocent civilians block our path! I will have you dragged before the authorities and punished to the fullest extent of the law!”
 
-It was a speech worthy of Judge Bao,[^5] but the hairy man—the Heavenly Axe—and his underlings didn’t seem particularly moved.
+It was a speech worthy of Judge Bao,[^1] but the hairy man—the Heavenly Axe—and his underlings didn’t seem particularly moved.
+
+[^1]: Judge Bao is the popular name of Bao Zheng, a Song-dynasty official celebrated in Chinese stories for his incorruptible judgments.
 
 “Yeah, we blocked the road. What are you going to do about it?”
 
-“For all the countless crimes you’ve committed, I will gouge out your eyes, grind your limbs to powder in a mortar, and scatter the dust across the Nine Provinces![^6] I will also exterminate all nine degrees of your kin—”
+“I will gouge out your eyes, grind your limbs to powder in a mortar, and scatter the dust across the Nine Provinces! I will also exterminate all nine degrees of your kin—”
 
 *…Those punishments are no joke. That’s practically treason.*
 
@@ -202,7 +204,7 @@ I swept my tense gaze over the bandits.
 
 *Fuck. I’d rather fight six goblins than deal with this. How am I supposed to beat guys that huge…?*
 
-*Wait.*
+Wait.
 
 “Huh?”
 
@@ -222,7 +224,7 @@ I stood there dazed for a moment until an axe came flying at me and snapped me b
 
 “Hey, hey! Time out!”
 
-The axe struck the ground a good ten meters[^7] short of me. No—it didn’t even stick. It toppled over. The bandit who had thrown it scratched the back of his head sheepishly.
+The axe struck the ground a good ten meters short of me. No—it didn’t even stick. It toppled over. The bandit who had thrown it scratched the back of his head sheepishly.
 
 “Should I have thrown it a little higher?”
 
@@ -248,7 +250,7 @@ A few of them looked confused by my gesture of surrender, while the Heavenly Axe
 
 *Yeah. Laugh while you can.*
 
-One step, two. I slowly closed the thirty-meter[^8] distance between us.
+One step, two. I slowly closed the thirty-meter distance between us.
 
 With a steady stride and balanced posture. One breath per step. My breath escaped my mouth in white clouds that pierced the dawn air.
 
@@ -276,7 +278,7 @@ The Heavenly Axe had let his guard down.
 
 *And letting your guard down gets you killed.*
 
-I might send most of my salary to my family and live miserably in a tiny goshiwon[^9] room, but I was still a Hunter.
+I might send most of my salary to my family and live miserably in a tiny goshiwon room, but I was still a Hunter.
 
 Even an F-rank Hunter risked his life fighting inside Gates. No—an F-rank Hunter had to risk his life precisely because he was only F-rank.
 
@@ -292,15 +294,15 @@ The Heavenly Axe beckoned me over.
 
 “Now, now. Take your time. If you trip on the way over, you’ll lower your ransom.”
 
-Twenty meters.[^10]
+Twenty meters.
 
 “Boss, doesn’t the way he’s toddling over look just like a puppy?”
 
-Fifteen meters.[^11]
+Fifteen meters.
 
 “A puppy? Ha-ha-ha! You’ve got that exactly right!”
 
-Ten meters.[^7]
+Ten meters.
 
 The moment I took my next step, heat began to churn in my stomach.
 
@@ -409,15 +411,3 @@ The five bandits exchanged glances, dropped their weapons, and threw themselves 
 > Chain Quest Tutorial—Stage 4 created.
 
 *Now I can finally catch my breath.*
-
-[^1]: Nyang is a traditional unit of money, often reckoned in silver; it is not modern Korean won.
-[^2]: The dantian is the region of the lower abdomen regarded in martial arts traditions as a center of internal energy.
-[^3]: Murim refers to the world and society of martial artists.
-[^4]: Honghwaru is a pleasure house in Taiyuan.
-[^5]: Judge Bao is the popular name of Bao Zheng, a Song-dynasty official celebrated in Chinese stories for his incorruptible judgments.
-[^6]: The Nine Provinces is a traditional expression for the lands of China.
-[^7]: Ten meters is about 33 ft.
-[^8]: Thirty meters is about 98 ft.
-[^9]: A goshiwon is a Korean building that rents out small, inexpensive single rooms.
-[^10]: Twenty meters is about 66 ft.
-[^11]: Fifteen meters is about 49 ft.
