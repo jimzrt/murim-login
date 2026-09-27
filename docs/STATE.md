@@ -1,16 +1,16 @@
 # Translation State
 
-- Last completed: 1046
-- Next chapter: 1047
-- Current block: 1045–1049 (2/5)
-- Latest translation: `translations/1046.md`
-- Latest summary: `summaries/beats/1046.md`
-- Safe profiles through: chapter 1046
+- Last completed: 1047
+- Next chapter: 1048
+- Current block: 1045–1049 (3/5)
+- Latest translation: `translations/1047.md`
+- Latest summary: `summaries/beats/1047.md`
+- Safe profiles through: chapter 1047
 
 ## Current Block
 
-- The Bow Saint’s Force arrows destroy the falling fireballs, saving the surviving Taeeul Merciless Sword and Roaring Fury Swordsman and letting the battered Zhongnan Sect disciples rally the Gansu Coalition Army. Taishan, Namho, Song Ilseom, Ju Hwaran, Hyuk Mujin, and Ma Junggeol fight through the battle while trying to reach Jin Taekyung; Mujin and Ma Junggeol are wounded.
-- A thousand Embroidered Uniform Guards led by Jeong Hogun charge into the battle under the Emperor’s order to protect Jin Taekyung and defeat his enemies, shifting the battlefield’s momentum.
+- The Embroidered Uniform Guard and the surviving Coalition Army charge, shifting the battle’s momentum against Dark Heaven. The Blood-Sword Demon Lord’s expected support from the Grand Mage does not appear.
+- Sima Gong reveals that he joined Dark Heaven in a calculated bargain, but chose to stand against the Blood-Sword Demon Lord to aid Jeok Cheongang and protect the future of the Black Dragon Demon Gate. Gravely wounded and missing an arm, he asks the Blood-Sword Demon Lord to kill him. The Bow Saint interrupts the attack; Jeok Cheongang joins her against the Blood-Sword Demon Lord.
 
 ## Open Questions
 
@@ -18,7 +18,7 @@
 - Did Dark Heaven cause the Great Faction War?
 - Who are the white-robed mages, and what is their purpose?
 - How were the former Demonic Cult fiends made into Black Ghosts?
-- What happened to Jin Taekyung, Jeok Cheongang, Sima Gong, Song Il, and Hwangbo Eom after the blast?
+- Will Sima Gong survive, and what will become of the battle?
 
 ## Exceptional Decision
 
