@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.94,
+      "current": "Beyond the sky, which turned red in an instant, more than a dozen fireballs emerged from between the storm clouds and took aim above the Black Dragon’s head.",
+      "defect": "The fireballs are aimed at the dragon’s head, not at a point above it. 십여 개 is roughly ten or a dozen, not necessarily more than twelve.",
+      "id": "F01",
+      "rationale": "머리 위를 향해 identifies the dragon’s head as the target; 십여 개 gives an approximate count.",
+      "replacement": "Against the suddenly reddened sky, a dozen or so fireballs emerged from the storm clouds and took aim at the Black Dragon’s head.",
+      "severity": "major",
+      "source": "일순간 붉게 물든 하늘 너머, 먹구름 사이로 모습을 드러낸 십여 개의 화염구가 흑룡의 머리 위를 향해 겨누어졌다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "Far away, Magic Johnson—who had risked himself to step in while the Guardians were fighting—coughed up blood and dropped to his knees.",
+      "defect": "The draft makes the Guardians’ fight sound separate from Johnson. He intervenes at risk to himself during his fight with them.",
+      "id": "F02",
+      "rationale": "가디언들과의 일전 describes a battle against the Guardians, not merely a time when they were fighting.",
+      "replacement": "Far away, Magic Johnson—who had risked intervening in the middle of his fight with the Guardians—coughed up blood and dropped to his knees.",
+      "severity": "major",
+      "source": "저 멀리 가디언들과의 일전 도중 위험을 감수하고 나선 매직 존슨이 피를 토하며 무릎을 꿇었다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "as the Dragon’s enormous shadow loomed over him like Mount Taishan",
+      "defect": "Capitalizing the mountain image as Mount Taishan introduces an apparent reference to the named character Taishan.",
+      "id": "F03",
+      "rationale": "태산처럼 functions here as an image of immense size, not a reference to the character.",
+      "replacement": "as the Dragon’s enormous shadow loomed over him like a mountain",
+      "severity": "major",
+      "source": "태산처럼 드리워진 용의 거대한 그림자가 가까워졌을 때"
+    },
+    {
+      "confidence": 0.88,
+      "current": "Master of the lofty Silver Mountains, and Archduke of the Demon Realm.",
+      "defect": "The source names a singular mountain; the draft changes it to a range.",
+      "id": "F04",
+      "rationale": "산 is singular here, with no indication of multiple mountains.",
+      "replacement": "Master of the lofty Silver Mountain, and Archduke of the Demon Realm.",
+      "severity": "minor",
+      "source": "드높은 은빛 산의 주인이자, 마계의 대공."
+    },
+    {
+      "confidence": 0.92,
+      "current": "The spearhead, imbued with its wielder’s will, pierced the last trace his friend had left behind.",
+      "defect": "“Pierced” implies the spearhead passes through the trace; the source says it bites into the existing wound.",
+      "id": "F05",
+      "rationale": "파고들었다 describes driving into something, without establishing that the spearhead passed through it.",
+      "replacement": "The spearhead, imbued with its wielder’s will, bit into the last trace his friend had left behind.",
+      "severity": "major",
+      "source": "주인의 의지가 깃든 창날이, 친구의 마지막 흔적을 파고들었다."
+    }
+  ],
+  "summary": "The draft preserves the main exchange, but changes the fireballs’ target, obscures who is fighting the Guardians, and adds an unintended proper-name reference.",
+  "version": 1
+}
