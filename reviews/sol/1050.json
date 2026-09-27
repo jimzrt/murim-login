@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "We were watching over the world, and you shone on your own within it. Bright enough to see clearly, even from far away.",
+      "defect": "“Watching over” suggests guardianship; the speaker says they were looking down upon the world.",
+      "id": "F01",
+      "rationale": "굽어보고 있었고 describes their vantage over the world, not a protective role.",
+      "replacement": "We were looking down upon the world, and you shone on your own within it. Bright enough to see clearly, even from far away.",
+      "severity": "major",
+      "source": "우리는 천하를 굽어보고 있었고, 당신은 그 안에서 스스로 빛났던 거죠. 멀리서도 또렷하게 알아볼 수 있을 만큼."
+    },
+    {
+      "confidence": 0.99,
+      "current": "He’d told him to find one person whose appearance and whereabouts were unknown.",
+      "defect": "The unknowns are when and where the person would appear, not what the person looked like.",
+      "id": "F02",
+      "rationale": "언제, 어디에서 나타날지 specifies the time and place of an eventual appearance.",
+      "replacement": "He’d told him to find someone who might appear at any time, in any place.",
+      "severity": "major",
+      "source": "도대체 언제, 어디에서 나타날지 모를 한 사람을 찾으라고."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Only three letters remained in his empty head.",
+      "defect": "“Level Up” is not three English letters.",
+      "id": "F03",
+      "rationale": "세 글자 counts the three Korean syllable blocks in 레벨 업; the English letter count does not carry over.",
+      "replacement": "Only one phrase remained in his empty head.",
+      "severity": "minor",
+      "source": "텅 비어 버린 뇌리에 유일하게 남아 있는 세 글자도 함께."
+    },
+    {
+      "confidence": 0.98,
+      "current": "A sharp gleam flashed behind her veil. Thick vines crept up my body and tightened around my neck.\n\nSlowly. And with steadily increasing force.",
+      "defect": "The source has one thick stem, and its grip is slow and strong simultaneously; it does not say the force steadily increases.",
+      "id": "F04",
+      "rationale": "줄기가 is singular, and 천천히. 동시에 강하게. pairs the speed and strength of the tightening.",
+      "replacement": "A sharp gleam flashed behind her veil. A thick vine crept up my body and tightened around my neck.\n\nSlowly. And powerfully.",
+      "severity": "major",
+      "source": "몸뚱어리를 타고 스멀스멀 기어오른 두꺼운 줄기가 내 목을 옥죄었다.\n\n천천히. 동시에 강하게."
+    },
+    {
+      "confidence": 0.98,
+      "current": "She’d read the sincerity in my breathless voice—in the eyes that, unlike hers, were sunk deep and steady.",
+      "defect": "“Unlike hers” makes the contrast with the Grand Mage’s eyes. The source contrasts his steady gaze with his breathless voice.",
+      "id": "F05",
+      "rationale": "그와 달리 refers back to his breathless delivery, not to the woman’s gaze.",
+      "replacement": "She’d heard the sincerity in my breathless voice and seen it in my eyes, which were steady despite my labored breathing.",
+      "severity": "major",
+      "source": "가쁘게 내뱉어진 내 음성에, 그와 달리 깊게 가라앉은 눈빛에 담긴 진심을 읽었기 때문이었다."
+    }
+  ],
+  "summary": "Five actionable fidelity findings: an altered comparison, a changed detail in the Martial God’s letter, a protective connotation absent from the source, an invented change in the vine’s force, and an incorrect letter count.",
+  "version": 1
+}
