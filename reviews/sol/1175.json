@@ -1,0 +1,76 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "He’d revealed their deepest secrets, but that didn’t mean they could accept everything in such a short time.",
+      "defect": "“Their deepest secrets” makes the listeners the owners of the secrets Jin disclosed.",
+      "id": "F01",
+      "rationale": "Jin has confided secrets to the group; the Korean does not call them the listeners’ secrets.",
+      "replacement": "He’d shared the deepest secrets with them, but that didn’t mean they could accept everything so quickly.",
+      "severity": "major",
+      "source": "가장 깊은 비밀들을 털어놓았지만, 그 짧은 시간 만에 모든 것을 수용하고 받아들인 것은 아니다."
+    },
+    {
+      "confidence": 0.93,
+      "current": "Song Song, the only one occupying a seat among all the men built like mountains, glanced at the space beside her.",
+      "defect": "“The only one occupying a seat” implies the men are not seated.",
+      "id": "F02",
+      "rationale": "The Korean singles her out among the large men, not as the only person seated.",
+      "replacement": "Song Song, sitting alone among the mountain-sized men, glanced at the spot beside her.",
+      "severity": "minor",
+      "source": "덩치가 산만 한 남자들 사이에서 홀로 한 자리를 차지하고 있던 송송이가 눈짓으로 옆자리를 가리켰다."
+    },
+    {
+      "confidence": 0.97,
+      "current": "Or his family, and Seong Jinho, who’d been his closest friend since his days at the goshiwon—people who wouldn’t be able to accept a situation like this.",
+      "defect": "The draft extends Jin’s judgment that they could not accept this situation to Seong Jinho.",
+      "id": "F03",
+      "rationale": "The Korean attaches that judgment to his family; it describes Seong Jinho by their long friendship.",
+      "replacement": "Or his family, who wouldn’t be able to accept a situation like this, and Seong Jinho, his closest friend since his days at the goshiwon.",
+      "severity": "major",
+      "source": "혹은 이런 상황을 받아들이지 못할 가족과 고시원 시절부터 절친했던 성진호처럼."
+    },
+    {
+      "confidence": 0.97,
+      "current": "A broken pocket watch.\n\nIt was probably moving—the thing that connected the modern world and Murim through the absolute force of time.",
+      "defect": "The draft makes the watch’s movement uncertain instead of its role in connecting the worlds.",
+      "id": "F04",
+      "rationale": "The Korean states that the watch was moving and qualifies the proposed connection with “probably.”",
+      "replacement": "The broken pocket watch.\n\nIt was moving—the thing that probably linked the modern world and Murim through the absolute force of time.",
+      "severity": "major",
+      "source": "고장난 회중시계.\n\n아마도 현대와 무림, 두 세상을 시간이라는 절대적인 힘으로 잇고 있을 그것이 움직이고 있었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "—Do not presume.",
+      "defect": "The reply becomes a rebuke of the servant rather than a denial that the process is complete.",
+      "id": "F05",
+      "rationale": "The answer responds to “Has it finally been completed?” and is followed by “But it will be completed.”",
+      "replacement": "—Far from it.",
+      "severity": "major",
+      "source": "- 당치 않다."
+    },
+    {
+      "confidence": 0.96,
+      "current": "The voice was too cold as ice to be called a voice, but the Grand Mage trembled with joy and emotion.",
+      "defect": "The English makes coldness the reason it can scarcely be called a voice; it also reads awkwardly.",
+      "id": "F06",
+      "rationale": "The Korean describes an almost voiceless communication and its icy quality separately.",
+      "replacement": "What reached her could scarcely be called a voice. It was cold as ice, but the Grand Mage trembled with joy.",
+      "severity": "minor",
+      "source": "음성이라 부를 수 없을 것 같은 그것은 얼음장처럼 차가웠으나, 대술사는 기쁨과 감격으로 몸을 떨었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Her servant’s question was thick with unconcealed emotion. Her master answered.",
+      "defect": "“Her servant” momentarily makes the Grand Mage the servant’s master.",
+      "id": "F07",
+      "rationale": "The Grand Mage is the servant asking the question; the Lord of Heaven is her master.",
+      "replacement": "The servant’s question was thick with unconcealed joy. Her master answered.",
+      "severity": "minor",
+      "source": "숨길 수 없는 감격이 묻어나오는 종의 물음에, 주인이 답했다."
+    }
+  ],
+  "summary": "Several draft lines change whose secrets were shared, why people were not invited, and the Lord of Heaven’s reply.",
+  "version": 1
+}
