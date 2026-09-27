@@ -1,0 +1,26 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "“May the Lord of Heaven be with us……!”",
+      "defect": "Turns the fanatic’s assertion into a wish, weakening the setup for “Who’s with you?”",
+      "id": "F01",
+      "rationale": "The Korean begins a declaration that the Lord of Heaven is with them, not a prayer that he might be.",
+      "replacement": "“The Lord of Heaven is with us……!”",
+      "severity": "major",
+      "source": "“천주께서 우리와 함께 하신……!”"
+    },
+    {
+      "confidence": 0.99,
+      "current": "The defensive formation protecting her and the hundred or so mages around her had been as solid as an iron wall.",
+      "defect": "Counts the Grand Mage separately from the hundred or so mages instead of including her among them.",
+      "id": "F02",
+      "rationale": "그녀를 비롯한 makes her part of the group of roughly one hundred mages.",
+      "replacement": "The enemy’s defensive formation around the hundred or so mages, including her, had been as solid as an iron wall.",
+      "severity": "minor",
+      "source": "그녀를 비롯한 일백여 명의 술사들을 지키는 적들의 방어진은 철벽처럼 두터웠고"
+    }
+  ],
+  "summary": "Two actionable fidelity findings.",
+  "version": 1
+}
