@@ -12,7 +12,7 @@ In the Outer Palace, tribespeople hiding behind locked doors pulled their young 
 
 GRAAAAAAAWR!
 
-A tremendous roar that shook Heaven and Earth swallowed the dazed voice that had slipped between someone’s lips.
+A roar that shook Heaven and Earth swallowed the dazed question.
 
 One warrior finally came to his senses and shouted at the top of his lungs.
 
@@ -40,7 +40,7 @@ Faced with something beyond their understanding, the ordinary warriors stood fro
 
 “You idiots!”
 
-The enraged superior shoved aside his dazed subordinate. Then, just as he reached for the rope connected to the alarm bell, he realized that the sunlight that had been beating down fiercely only moments ago had vanished.
+He shoved a dazed subordinate aside and reached for the rope attached to the bell. Only then did he realize the fierce sunlight had disappeared.
 
 Whoooooosh.
 
@@ -52,7 +52,7 @@ A strange sound reached him. As the darkness drew nearer, he finally saw what it
 
 “…Goddamn it.”
 
-The dark cloud—or rather, countless flying beasts that had flown in and dyed a section of the vast sky black—descended upon him.
+At that moment, the dark cloud—or rather, the countless birds blackening a swath of sky—descended on him.
 
 Whoooooosh!
 
@@ -60,7 +60,7 @@ Flap, flap, flap!
 
 He could tell neither how many there were nor what kinds. Sharp cries, flashing beaks, and flying feathers filled the air.
 
-The flying beasts, transformed into one enormous monster, swept through five watchtowers like a storm.
+The birds swept through five watchtowers like a single monstrous storm.
 
 No. They smashed them apart.
 
@@ -84,7 +84,7 @@ Panting, they raised their heads. A vast shadow fell over them.
 
 “……!”
 
-The quiet voice bored into their ears. Yet everyone there felt a chill that seemed to freeze their hearts.
+The voice was low, but it sent a chill through every heart.
 
 Was it the enormous White Tiger, so large that looking at it made their knees weak? Or the countless beasts behind it?
 
@@ -102,15 +102,13 @@ At someone’s shriek, the warriors instinctively reached for the weapons at the
 
 They tried to draw them.
 
-At least, they did until Jin Taekyung opened his mouth.
-
 “If you pull those out, you won’t like what happens.”
 
 “……!”
 
 “And if you’ve got eyes, look around. Who else is here besides me?”
 
-Jin Taekyung was the monster blamed for throwing all of Nanman into an uproar. Since he had appeared with an enormous number of beasts, they had thought there could be nothing left to surprise them.
+Jin Taekyung was the culprit blamed for throwing all of Nanman into turmoil. Seeing him arrive with so many beasts, the warriors had thought nothing could surprise them anymore.
 
 Then they recognized another face.
 
@@ -134,9 +132,9 @@ And now she was at the head of an immense host of beasts.
 
 “G-Great Chieftain. Why are you with a monster like him…?”
 
-“A monster…”
+“A monster.”
 
-Yohi muttered quietly and turned her head to look at Jin Taekyung, but Jin Taekyung was not looking at her.
+Yohi glanced at Jin Taekyung. He was not looking at her.
 
 His eyes were fixed on the enormous iron gate separating the Outer Palace from the Inner Palace, at the far end of the road. Something about it felt ominous.
 
@@ -160,7 +158,7 @@ His footsteps rang out with unusual clarity.
 
 The hem of his spotless white robe brushed the ground. His calm gaze crossed the distance and met one man’s eyes.
 
-“You came. In the end, you did.”
+“You came. After all.”
 
 Baeksang.
 
@@ -176,23 +174,21 @@ Baeksang.
 
 The moment I saw his face, I felt the internal energy throughout my body boil like lava.
 
-I wanted to charge out immediately.
-
 I wanted to charge. Kick off the guardian spirit’s back, race toward him like the wind, and kill him with the fastest, strongest strike I could deliver.
 
 But…
 
-Slick.
+Rustle.
 
-A slender finger caught hold of my sleeve. Yohi’s trembling voice reached my ears.
+Slender fingers caught my sleeve. Yohi’s voice trembled beside me.
 
 “No. Not yet.”
 
-Yes. I knew that too.
+I knew.
 
-If I cut Baeksang’s head off right now, it would be like lighting the fuse of a bomb with no time left on it.
+If I took Baeksang’s head now, I would be lighting a bomb with barely a finger’s breadth of fuse left.
 
-Baeksang—he could not die like that. He had to die not as the Palace Lord of the Nanman Beast Palace, but as the traitor and usurper who had deceived all the Nanman people and joined forces with Dark Heaven.
+He could not die as the Palace Lord of the Nanman Beast Palace. He had to die as the traitor and usurper who had deceived all of Nanman and joined forces with Dark Heaven.
 
 The Palace Lord’s death would bring a brutal battle. But no warrior would fight for a traitor.
 
@@ -248,7 +244,7 @@ Beyond the wide-open gate, countless Nanman warriors stood amid a mountain of sa
 
 “……!”
 
-“Yes. That is correct.”
+“Yes. It is.”
 
 Baeksang looked away from his warriors and up at the sky.
 
@@ -256,15 +252,13 @@ Not a cloud marred it. Hot sunlight fell across his face.
 
 “I betrayed everyone.”
 
-His quiet voice, charged with internal energy, broke the suffocating silence that had settled over the area.
-
-It traveled on the air, pierced through the wind, crossed the broad road running through the Outer Palace, passed over the stone walls of the Inner Palace, and reached everyone.
+His low voice, charged with internal energy, broke the suffocating silence. It carried through the air, across the Outer Palace road and over the Inner Palace walls, reaching everyone.
 
 “I lived each day as though it were ten years. To achieve one goal, I became an unforgivable turncoat. And at last, I came this far.”
 
 My breath caught.
 
-This was not a confession in which he admitted the sins he had committed and begged for forgiveness.
+This was no confession seeking forgiveness for his sins.
 
 No. It was…
 
@@ -278,9 +272,9 @@ Baeksang was letting out what he had held down every day for decades. He made no
 
 A thought flashed through my mind like lightning. Every hair on my body stood on end.
 
-Then a scream burst from my lips.
-
 “Everyone, fall back—!”
+
+The warning tore from my throat.
 
 And the next moment—
 
@@ -288,6 +282,6 @@ Rumble, rumble, rumble! Flash!
 
 Thunder shook Heaven and Earth. Dark clouds spread over everyone’s heads.
 
-In a world where not even a single ray of sunlight could be found, someone’s voice bored into my ears.
+Not a ray of sunlight remained. In that darkness, someone’s voice reached my ears.
 
 “What a shame. It’s already too late.”

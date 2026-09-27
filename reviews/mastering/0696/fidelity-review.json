@@ -1,0 +1,16 @@
+{
+  "findings": [
+    {
+      "confidence": 0.91,
+      "current": "The warriors twisted in midair and landed after it, stumbling but upright.",
+      "defect": "“Upright” adds that the warriors remained on their feet. The source only says they landed on the ground unsteadily.",
+      "id": "F01",
+      "rationale": "비틀거리며 땅에 착지했다 describes landing while staggering; it does not establish that they landed upright.",
+      "replacement": "The warriors twisted in midair and landed after it, stumbling.",
+      "severity": "minor",
+      "source": "Line 89"
+    }
+  ],
+  "summary": "The assembled chapter is faithful overall, with one added physical detail.",
+  "version": 1
+}
