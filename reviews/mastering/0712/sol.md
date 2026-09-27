@@ -20,7 +20,7 @@ Even now.
 
 Ssshhhhhh.
 
-The darkness had already passed beyond the Inner Palace and was advancing toward the Outer Palace.
+The darkness had passed beyond the Inner Palace and was advancing toward the Outer Palace.
 
 The demonic qi within it would corrupt living things, transform them into beings that had lost their reason, and bring about another disaster.
 
@@ -34,11 +34,11 @@ Beyond Nanman, until it consumed all under heaven.
 
 —Human. You have likely guessed that only the sacred stone’s power can withstand that darkness. Someone must enter the center of the rift with the stone and endure it.
 
-I knew that, too. Only a few months ago, the Water God Dragon had sacrificed itself to seal the rift.
+I knew. Only a few months ago, the Water God Dragon had sacrificed itself to seal a rift.
 
 And I knew the price it had paid.
 
-“What if you become something different from what you’ve been until now?”
+“What if you become something different?”
 
 I couldn’t bring myself to say *a mutant*. The guardian spirit gave me a faint smile.
 
@@ -46,7 +46,7 @@ I couldn’t bring myself to say *a mutant*. The guardian spirit gave me a faint
 
 “…!”
 
-—With your strength and that old human’s, it shouldn’t be too difficult, even if I become a corrupted being.
+—With your strength and that old human’s, it should not be too difficult, even if I am corrupted.
 
 I stared at the guardian spirit, then forced myself to speak. I had been holding on to this thought since the moment I understood its intentions. After turning it over for so long, I finally asked.
 
@@ -56,7 +56,7 @@ The answer came from someone else.
 
 “Don’t be ridiculous!”
 
-It was Jeok Cheongang’s shout. He had been tending to the Beast Miao King’s Internal Injury.
+Jeok Cheongang had been tending to the Beast Miao King’s Internal Injury. Now he looked at me, his face harder than I had ever seen it.
 
 “Out of the question. Say whatever you like. This old man will not allow it.”
 
@@ -64,9 +64,9 @@ It was Jeok Cheongang’s shout. He had been tending to the Beast Miao King’s 
 
 “I don’t want to hear it. I don’t care how much you’ve accomplished. We have no idea what might happen in there. How could I let you go?”
 
-“I’ll come back safe and sound without so much as a hair out of place. I promise.”
+“I’ll come back without a hair on my head harmed. I promise.”
 
-“Without so much as a hair out of place?”
+“Without a hair harmed?”
 
 “Yes.”
 
@@ -80,7 +80,7 @@ I nodded. Jeok Cheongang watched me in silence, then spoke.
 
 “…!”
 
-“If you can return without a scratch, then it would be even more certain if I went instead. Am I wrong?”
+“If you can come back unharmed, I have an even better chance of doing so. Am I wrong?”
 
 That hit the heart of it. I had no answer.
 
@@ -102,11 +102,11 @@ I said nothing. The guardian spirit understood my silence and smiled.
 
 “…”
 
-—The humans of this land have already shed enough blood. There is no reason for you and that old human to sacrifice yourselves in my place. You still have many fates ahead of you, while I have already passed through many fates.
+—The humans of this land have already shed so much blood. Neither you nor that old human has any reason to sacrifice yourself in my place. You still have many fates ahead of you. I have already lived through many.
 
 The guardian spirit raised its blue-white eyes to Jeok Cheongang.
 
-—Even if the situation becomes irreversible, do not hesitate to kill me.
+—If I cannot be brought back, do not hesitate to kill me.
 
 Jeok Cheongang gave a small nod.
 
@@ -136,7 +136,7 @@ Ssshhhh.
 
 The sacred stone rose slowly into the air and was drawn into the guardian spirit’s mouth.
 
-Warmth spread outward with its faint radiance.
+Warmth spread with its faint radiance.
 
 At the same time, the guardian spirit’s ragged breathing steadied. Strength began to return to its fallen body.
 
@@ -150,19 +150,19 @@ One step. Then another.
 
 Each step was heavier than ever, yet nothing could stop it.
 
-Not even the darkness, now incomparably denser and stickier than at first, could stop them.
+Not even the darkness, denser and thicker now than it had been at first.
 
 Kraaaash!
 
 Pools of blood lay everywhere, with countless corpses scattered among them. The darkness surged over them like a wave, only to strike the light surrounding the guardian spirit and fall back.
 
-If the darkness flowing from the rift corrupted everything, then the light contained within the sacred stone possessed the power of purification.
+The darkness from the rift corrupted everything it touched. The light held within the sacred stone purified it.
 
 —Kraaaaang!
 
-A fierce roar shook heaven and earth. Its silver mane, stained red, whipped violently in the wind.
+A fierce roar shook heaven and earth. The guardian spirit’s silver mane, stained red, streamed behind it.
 
-Before I knew it, the guardian spirit had become a gust of wind and was racing forward.
+Before I knew it, it was racing forward like a gust of wind.
 
 Shweeeek!
 
@@ -182,7 +182,7 @@ The guardian spirit was out of breath. Its blood-drenched body felt heavy, and t
 
 *Imugi. Did you feel this way, too?*
 
-With that unheard question, the guardian spirit took a step with all its strength into the gaping fissure in the cliff.
+With that question no one would hear, it put all its strength into a step toward the gaping cleft in the cliff.
 
 It had to keep going, however hard it was.
 
@@ -202,7 +202,7 @@ It had no father, mother, or siblings.
 
 No. At first, it had not even known such things existed.
 
-To one small, pure-white White Tiger, this space it had seen from the moment it first opened its eyes was the world itself. And it had a friend who had always been there with it.
+To a small, snow-white tiger, the place it had seen since it first opened its eyes was the whole world. And it had a friend who had always been there.
 
 A friend it could neither play with nor speak to, but who had never left its side.
 
@@ -214,9 +214,9 @@ It was a stone so clear that *crystal* would have been a better name for it. As 
 
 Grrr.
 
-The young White Tiger let out a contented growl and soon fell asleep, breathing softly.
+The young white tiger gave a contented growl and soon fell asleep, breathing softly.
 
-And at the feet of the sleeping White Tiger, on a hill drenched in warm light that was neither sunlight nor moonlight, a green sprout suddenly pushed its head above the ground.
+There, on a hill bathed in warm light that came from neither sun nor moon, a green sprout pushed up beside the sleeping tiger’s paws.
 
 Rustle. Tap.
 
@@ -236,7 +236,7 @@ At the soft tap of its landing, the creature napping beneath the tree opened its
 
 It rose with a low growl.
 
-It was a White Tiger.
+It was a white tiger.
 
 Far too enormous and powerful to be called a cub—or even an ordinary tiger—it looked around with blue-white eyes.
 
@@ -246,7 +246,7 @@ Only that it had been a long time. The place where it had been born and raised w
 
 But things had changed.
 
-Change as certain as the sprout growing into a giant tree, or the small, soft White Tiger cub becoming a huge and powerful being.
+The sprout had become a giant tree. The small, soft cub had become an enormous, powerful being. And there had been another change just as certain.
 
 *Yes. Him.*
 
@@ -254,7 +254,7 @@ It had first met him three hundred years ago. He was a tribal chieftain who led 
 
 That power was probably why the beasts of the Sacred Land had accepted him without the guardian spirit’s permission.
 
-“Oh. I’ve never seen a White Tiger this big before. What’s your name?”
+“Oh. I’ve never seen a white tiger this big before. What’s your name?”
 
 At first, the guardian spirit had been surprised that a human had entered the Sacred Land without its permission. Then the human bastard had stroked the back of its neck without a trace of fear, leaving it dumbfounded.
 
@@ -264,21 +264,21 @@ So it asked him a question.
 
 It could still picture the insolent human bastard’s face. He had gaped at the guardian spirit, then answered in a dazed voice.
 
-“Yayul Cheon….”
+“I’m… Yayul Cheon.”
 
-“I do not know how you entered this place, but if I see you here again, I will tear you limb from limb and kill you. Do you understand?”
+“I do not know how you entered this place, but if I see you again, I will tear you limb from limb. Do you understand?”
 
-That young human bastard named Yayul Cheon had less fear than any living creature it had ever seen.
+The next day, the guardian spirit learned that this young human bastard named Yayul Cheon had less fear than any living creature it had ever met.
 
-“I believe I told you not to let yourself be seen.”
+“I believe I told you not to let me see you again.”
 
 “That’s why I hid.”
 
-“……Are you joking with me right now?”
+“…Are you playing games with me?”
 
 “You found me by smell. You didn’t *see* me. I’m lying facedown in the grass.”
 
-“No, is that supposed to be an answer? …Wait. What is that smell?”
+“That’s not— Wait. What is that smell?”
 
 “Grilled meat. I brought some in case you were hungry. Want some?”
 
@@ -288,9 +288,9 @@ That young human bastard named Yayul Cheon had less fear than any living creatur
 
 The guardian spirit could not say how they had grown close. Like getting soaked in a light rain without noticing, they came to know each other little by little. The years passed quickly.
 
-Ten years. Twenty years. And then, the day they last faced each other.
+Ten years. Twenty. Then came the day they saw each other for the last time.
 
-“It’s been a long time.”
+“It has been a while.”
 
 Yayul Cheon had not visited for several years. He was no longer a young man.
 
@@ -308,7 +308,7 @@ At least, it had believed it then.
 
 And regret always came too late.
 
-*If I had helped you then, would the fate of this land have changed?*
+*If I had helped you, would the fate of this land have changed?*
 
 The guardian spirit’s blue-white eyes cleared as it came back from its memories.
 

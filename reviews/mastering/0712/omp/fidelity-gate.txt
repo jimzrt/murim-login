@@ -1,0 +1,25 @@
+{
+  "summary": "Two minor omissions: the English drops a physical image in the White Tiger’s memory and the explicit next-day transition.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 213–215",
+      "current": "A friend it could neither play with nor speak to, but who had never left its side.",
+      "defect": "The source says they could not run and play together and could not communicate. The English drops the running image and narrows inability to communicate to inability to speak.",
+      "replacement": "A friend it could never run and play with or communicate with, but who had always been by its side.",
+      "rationale": "The Korean explicitly says 함께 뛰며 놀 수도 없고, 말도 통하지 않지만: they could not run and play together or communicate, though the friend was always beside it.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Lines 281–283",
+      "current": "That young human bastard named Yayul Cheon had less fear than any living creature it had ever seen.",
+      "defect": "The English omits the explicit transition that this realization came the next day.",
+      "replacement": "And the next day, the guardian spirit realized that the young human bastard named Yayul Cheon had less fear than any living creature it had ever seen.",
+      "rationale": "The source states 그리고 다음 날 before the guardian spirit’s realization, marking the next day as the timing of this beat.",
+      "confidence": 0.99
+    }
+  ]
+}
