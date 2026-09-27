@@ -2485,3 +2485,9 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 흑부괴마 | **Black Axe Fiend** | A great fiend believed to have died in the battle where the Wind-and-Cloud Sword Lord encountered him. |
 | 천궁지 | **Heavenly Vault Finger Qi** | Finger Qi technique of the Zhongnan Sect. |
 | 쇄겸 | **chain sickle** | Weapon carried by one of the Black Ghosts. |
+| 척방혈 | **Chuk Banghyeol** | The Blood-Sword Demon Lord’s name, revealed by Taekyung’s Qi Sense. |
+| 고광륭 | **Go Gwangryung** | Name of one of the four defeated Black Ghosts. |
+| 적환양 | **Jeok Hwanyang** | Name of one of the four defeated Black Ghosts. |
+| 풍소귀 | **Pung Sogwi** | Name of one of the four defeated Black Ghosts. |
+| 황독소 | **Hwang Dokso** | Name of one of the four defeated Black Ghosts. |
+| 풍귀 | **Wind Ghost** | Power invoked by a white-robed figure and imbued in the Blood-Sword Demon Lord. |
