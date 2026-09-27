@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.93,
+      "current": "Jeok Cheongang and Cheongpung, fighting off their enemies while supporting the battered Jin Taekyung.",
+      "defect": "The draft transfers the stated injury from those supporting Taekyung to Taekyung himself.",
+      "id": "F01",
+      "rationale": "성치 않은 몸으로 describes the condition of Jeok Cheongang and Cheongpung as they support him.",
+      "replacement": "Jeok Cheongang and Cheongpung, wounded themselves, supporting Jin Taekyung as they fought off their enemies.",
+      "severity": "critical",
+      "source": "성치 않은 몸으로 진태경을 부축한 채 적들을 상대하던 적천강과 청풍도."
+    },
+    {
+      "confidence": 0.99,
+      "current": "Their hands gripped crude wooden spears and rusty axes with all their strength.",
+      "defect": "The spears are bamboo, not generically wooden.",
+      "id": "F02",
+      "rationale": "죽창 specifies bamboo spears.",
+      "replacement": "They gripped crude bamboo spears and rusty axes with all their strength.",
+      "severity": "critical",
+      "source": "조잡한 죽창과 녹이 슨 도끼를 온 힘을 다해 움켜쥔 채."
+    },
+    {
+      "confidence": 0.97,
+      "current": "The Blood Lord was genuinely baffled.",
+      "defect": "The draft loses what he is questioning: whether the civilians have lost their minds.",
+      "id": "F03",
+      "rationale": "진심으로 의심했다 refers back to his accusation that they are 정신 나간 것들; the following sentence gives his reason.",
+      "replacement": "The Blood Lord genuinely wondered if they had lost their minds.",
+      "severity": "major",
+      "source": "“이런…… 정신 나간 것들을 보았나.”\n\n혈주는 진심으로 의심했다."
+    },
+    {
+      "confidence": 0.91,
+      "current": "Much like the feeling that had swept through him the instant he saw Taekyung’s condition.",
+      "defect": "The draft drops the comparison between the fanatics crumpling and his heart sinking at Taekyung’s condition.",
+      "id": "F04",
+      "rationale": "마치 links 와르르 허물어진다 to his emotional reaction, not merely to a feeling that swept through him.",
+      "replacement": "Just as his heart had crumpled when he saw Taekyung’s condition.",
+      "severity": "minor",
+      "source": "마치, 진태경의 상태를 확인한 순간 느꼈던 그의 마음처럼."
+    },
+    {
+      "confidence": 0.86,
+      "current": "“...shut up.”",
+      "defect": "The draft reveals the full command before Taekyung finishes saying it, losing the delayed punchline.",
+      "id": "F05",
+      "rationale": "The source first gives only the end of an indistinct command; 조용히 좀 해라 supplies its meaning in his next line.",
+      "replacement": "“…down.”",
+      "severity": "minor",
+      "source": "“……해라.”"
+    }
+  ],
+  "summary": "The draft is largely faithful, but it misattributes an injury, changes the civilians’ weapons, and loses two character beats.",
+  "version": 1
+}
