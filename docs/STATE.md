@@ -1,22 +1,23 @@
 # Translation State
 
-- Last completed: 1067
-- Next chapter: 1068
-- Current block: 1065–1069 (3/5)
-- Latest translation: `translations/1067.md`
-- Latest summary: `summaries/beats/1067.md`
-- Safe profiles through: chapter 1067
+- Last completed: 1068
+- Next chapter: 1069
+- Current block: 1065–1069 (4/5)
+- Latest translation: `translations/1068.md`
+- Latest summary: `summaries/beats/1068.md`
+- Safe profiles through: chapter 1068
 
 ## Current Block
 
-- Jin Taekyung’s allied force wins its first battle in Qinghai in half a shichen, killing over a thousand enemies with around thirty wounded and no deaths. Among the enemy dead, Jin finds a reanimated Kunlun Sect Disciple whose condition resembles the Corpse Art used by Wei Zhong, leading Jin and Jeong Hogun to suspect Ma Sanbao is with Dark Heaven. Jin worries Dark Heaven’s hundred-thousand-strong army may include jiangshi and that the Lord of Heaven may appear. A bird with rotting flesh and bloodred eyes reveals that reanimated monsters are also watching from the trees; Jin orders the Great Sir to kill any more such birds, then leaves the stopped Kunlun monster behind as the group prepares for pursuit.
+- Jin’s exhausted allied force is pursued by hundreds of reanimated enemies. He charges ahead while the Bow Saint and Jeok Cheongang support the force, then kills the attackers. A black-winged crow watches; Jin throws a sword at it, but its fate is not shown.
+- Ma Sanbao reports that Jin’s force detected his surveillance. The Grand Mage learns that a figure known as Great Sir in Ningxia was the first to notice it. She suspects Hyeoncheon and the Kongtong survivors may have gone to Great Sir, but does not know who he is.
 
 ## Open Questions
 
-- Is Ma Sanbao with Dark Heaven, and has he spread the Corpse Art to others?
-- Are Dark Heaven’s forces broadly composed of reanimated corpses?
+- Who is Great Sir, and what is his connection to Hyeoncheon and the surviving Kongtong Disciples?
+- Did Jin’s sword strike kill or otherwise affect the watching crow?
+- Are Dark Heaven’s forces broadly composed of reanimated corpses, and has Ma Sanbao spread the Corpse Art to others?
 - What is the Lord of Heaven seeking through Jin, and when will he appear?
-- How many reanimated creatures are monitoring the allied force, and where are the pursuers?
 
 ## Exceptional Decision
 
