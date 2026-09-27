@@ -2,19 +2,19 @@
 
 At some point, I’d become the kind of person who could go three days and nights without sleep and still be fine. Even so, getting a good night’s rest was a wonderful thing.
 
-Especially when I woke up refreshed in a place where I was staying with my precious family.
+Especially when I woke up refreshed in the place where my family was staying.
 
 “Home really is the best.”
 
 I sat down at the enormous dining table, and Team Leader Choi gave me a sour look from across it.
 
-“This is my home, technically.”
+“This is my home.”
 
 “Is that important right now?”
 
 “I would say so. It is a matter of legal ownership.”
 
-“I’m starting to wonder if homeless people can even bear to live.”
+“How’s a man without a house supposed to live with this kind of treatment?”
 
 “Anyone listening would think you really had no house and no money.”
 
@@ -28,11 +28,11 @@ But even with trillions of won sitting in my bank account, I’d be hard-pressed
 
 From the outside, it looked like an enormous mansion. In reality, it was an impregnable fortress wrapped in layer upon layer of protective Magic.
 
-And since the public still knew it as Cheon Taemin’s mansion, it would not be an exaggeration to say that it carried more symbolic weight than even the Blue House.
+The public still knew it as Cheon Taemin’s mansion, too. Its symbolic weight might even surpass the Blue House’s.
 
-*With everyone watching, breaking in is practically impossible. Even if an S-rank Hunter attacked, we could buy more than enough time.*
+*With so many eyes on this place, breaking in is next to impossible. Even if an S-rank Hunter attacked, the defenses would buy us plenty of time.*
 
-For someone like me, who put my family’s safety above all else in every situation, it was the perfect place.
+For someone who put his family’s safety first no matter what, it was the perfect place.
 
 Of course, Team Leader Choi might feel differently about suddenly having us as housemates.
 
@@ -40,7 +40,7 @@ Of course, Team Leader Choi might feel differently about suddenly having us as h
 
 “If you offer, I will accept it. At ten million won per person, forty million a month should do.”
 
-I gazed out the window at the sunlight pouring down and muttered:
+I looked out the window at the sunlight pouring down.
 
 “Ah, nice weather.”
 
@@ -58,11 +58,9 @@ No sooner had Team Leader Choi said it than a blond foreigner came ambling down 
 
 “Feed me.”
 
-Speak of the fucking devil.
+He’d never make a gentleman. The timing of his entrance was one thing; the first words out of his mouth that morning marked him as a first-rate lout.
 
-Putting everything else aside, the very first thing he said after getting up and seeing our faces made it clear he was a first-rate lout.
-
-“You gonna get your own damn food, or eat after I smack you?”
+“Are you going to get your own damn food, or get smacked and *then* get your own damn food?”
 
 The Skeleton King considered his options carefully.
 
@@ -78,37 +76,37 @@ One of the mansion’s best features was the artificial intelligence in the kitc
 
 A little later, the Skeleton King brought me a meal, grumbling all the while. Team Leader Choi watched as I polished off my yukgaejang.[^1]
 
-“Mr. Jin Taekyung, you always eat well.”
+“Mr. Jin Taekyung, you always have a healthy appetite.”
 
-“People aren’t machines. You have to eat to live.”
+“I’m not a machine. I have to eat to live.”
 
 “Did you sleep well?”
 
-“Yes. It’s been a while. I probably collapsed almost the moment I lay down.”
+“Yeah. For the first time in a while. I think I passed out as soon as I lay down.”
 
-Team Leader Choi nodded as if he had expected that answer.
+Team Leader Choi nodded as if that explained something.
 
-“So that is why you could not answer your phone.”
+“So that is why you did not answer your phone.”
 
 “My phone?”
 
-“You received calls from several places during the night. Have you still not checked?”
+“Several people called last night. Have you not checked it yet?”
 
 “Huh?”
 
-Only then did I check my smartphone. It had vibrated so much that I had switched it to silent, but there were now more than a hundred missed calls and messages that had piled up since last night.
+Only then did I take out my smartphone. It had kept vibrating, so I’d set it to silent. Since last night, more than a hundred missed calls and messages had piled up.
 
 *What the hell?*
 
 The names scattered through the list were too familiar—and too illustrious—to write off as ads or spam.
 
-Prince Felix of the United Kingdom, whom I had met during the operation to suppress the Arch-Lich. Faye Chen, an S-rank Hunter.
+Prince Felix of the United Kingdom, whom I’d met during the operation against the Arch-Lich. Faye Chen, an S-rank Hunter.
 
-Chuck Hagel of the United States, with whom I had destroyed a terrorist organization only two weeks ago by modern reckoning, and Magic Johnson, a name that had become impossible to leave out.
+Chuck Hagel of the United States, who’d helped me destroy a terrorist organization just two weeks ago in modern-world time. And Magic Johnson, whose name would have been stranger *not* to see.
 
 That wasn’t all.
 
-President Baek Hanseong was on the list, of course. So were President Doramp Jr. of the United States, whom I had met during my visit to the Pentagon, and Chairman Xiao Yang of China.
+President Baek Hanseong had called, of course. So had President Doramp Jr. of the United States, whom I’d met when I visited the Pentagon, and Chairman Xiao Yang of China.
 
 “It was a long night,” Team Leader Choi said, raising his coffee cup with a tired look. “Longer than I expected. Though I did hear quite a bit of news.”
 
@@ -118,7 +116,7 @@ President Baek Hanseong was on the list, of course. So were President Doramp Jr.
 
 Tap, tap.
 
-Team Leader Choi tapped the tablet PC in front of him with one long finger. A hologram rose above the screen and projected dozens of images.
+Team Leader Choi tapped the tablet in front of him with his long fingers. A hologram rose from the screen, projecting dozens of images.
 
 Flash.
 
@@ -130,7 +128,7 @@ I had a strong stomach and was used to gruesome sights, but I couldn’t keep ea
 
 “Why are there so many corpses?”
 
-“They were prisoners who were alive and well and incarcerated at Beijing Special Detention Center as recently as last night. And among them are some faces you know, Mr. Jin Taekyung.”
+“As recently as last night, they were alive and being held at Beijing Special Detention Center. You know some of them.”
 
 “I do?”
 
@@ -148,17 +146,17 @@ The middle-aged man lay there peacefully, as though deep in sleep. His face was 
 
 He smiled smugly when Team Leader Choi and I looked at him.
 
-“Ha-ha. You underestimate the information-gathering abilities of this body. Unlike lazy creatures such as yourselves, I devoted myself to my smartphone even at the expense of my sleeping hours.”
+“Heh. You underestimate my command of information. Unlike you lazy creatures, I have devoted even my sleeping hours to my smartphone.”
 
-“You just couldn’t sleep. You’re dead, after all.”
+“You couldn’t sleep. You’re dead.”
 
 “……”
 
-The Skeleton King grew dejected and began picking at his yukgaejang. Team Leader Choi nodded before speaking.
+The Skeleton King drooped at that and picked at his yukgaejang. Team Leader Choi nodded.
 
 “Former Premier of the State Council of the People’s Republic of China, and a member of the Politburo Standing Committee. And……”
 
-I finally remembered everything about Wu Shaiming and cut in.
+It all came back to me.
 
 “Wu Heixing’s father. His son was the bastard who teamed up with Lee Jungryong to kill me.”
 
@@ -176,7 +174,7 @@ But……
 
 “And now Wu Shaiming is suddenly dead?”
 
-“Wu Shaiming was still middle-aged, and he had spent decades drinking potions like water for the sake of his health. His cause of death was sudden cardiac arrest, but there is no way he and some fifty of his relatives could all die the same way at the exact same time.”
+“He was still middle-aged. He had also spent decades drinking potions like water to stay healthy. The recorded cause of death was sudden cardiac arrest. But he and some fifty relatives could not all have died the same way at the same time.”
 
 “Relatives? Then those pictures……”
 
@@ -184,13 +182,13 @@ But……
 
 “……!”
 
-*The annihilation of an entire household.*[^2]
+*The annihilation of a family.*[^2]
 
 Those words sounded like something out of Murim. A chill ran down my spine, and an almost unbelievable thought struck me.
 
 “Team Leader Choi. You don’t think……”
 
-But before I could finish, Team Leader Choi shook his head.
+He shook his head before I could finish.
 
 “Chairman Xiao Yang did not do this. If anything, he wanted to win Wu Shaiming over more than anyone.”
 
@@ -202,19 +200,19 @@ So what did he hope to gain by winning him over? What did Wu Shaiming have?
 
 The Crown Prince Party’s collapsed influence? His vast fortune, which was all but certain to be seized?
 
-I silently rolled the word *persuade* around in my mind. Before long, I realized the answer.
+I turned the question over in my mind until the answer came.
 
 “……The Mana Cultivation Method.”
 
-At the single word that escaped like a groan, the Skeleton King blinked, and Team Leader Choi answered in a low voice.
+The words came out like a groan. The Skeleton King blinked, and Team Leader Choi answered quietly.
 
-“Yes. Chairman Xiao Yang was trying to win Wu Shaiming over in order to obtain the very Mana Cultivation Method that had turned Wu Heixing into an S-rank Hunter.”
+“Yes. Chairman Xiao Yang was trying to obtain the Mana Cultivation Method that made Wu Heixing an S-rank Hunter.”
 
-An S-rank Hunter with that level of power would naturally discover a unique training method of his own at some point.
+An S-rank Hunter would generally develop a training method of their own at some point.
 
-But Wu Heixing had been different. He had already learned a Mana Cultivation Method passed down through his family, and after his death and Wu Shaiming’s downfall, I had stopped paying much attention to the matter.
+Wu Heixing was different. He had already learned a Mana Cultivation Method passed down through his family. After his death and Wu Shaiming’s downfall, I’d stopped paying much attention to it.
 
-*But the fact that Wu Shaiming and all his relatives suddenly died last night means……*
+*But Wu Shaiming and all his relatives died suddenly last night.*
 
 I didn’t care what Xiao Yang planned to do with the method. What mattered was that the destruction of the Wu family had ended his attempt to get it—and who had done that.
 
@@ -222,7 +220,7 @@ I already knew the answer.
 
 “Odin Guild.”
 
-A dry voice, unfamiliar even to me, slipped between my lips. Team Leader Choi ran his fingers over his coffee cup, which had gone cold.
+My voice came out dry and unfamiliar. Team Leader Choi touched his coffee cup. The coffee had gone cold.
 
 “That seems most likely.”
 
@@ -232,27 +230,27 @@ A dry voice, unfamiliar even to me, slipped between my lips. Team Leader Choi ra
 
 Team Leader Choi trailed off and bit his lip.
 
-“Someone else would not have wanted that.”
+“Someone else did not want him to hand it over.”
 
-It felt as though the blood throughout my body had frozen.
+My blood felt cold.
 
 They had made their move. Faster than I’d expected, and with far more cruelty.
 
-*But even so, to wipe out an entire household……*
+*An entire family, though……*
 
 I looked at the hologram, still hovering above the table. Women, children, old people. All of them lay in a sleep from which they would never wake.
 
-Simply because they had been born into the Wu family.
+Because they had been born into the Wu family.
 
 *Did they go this far to stop the Mana Cultivation Method from getting out? Or……*
 
-*Was this a reply to what happened last night?*
+*Was it an answer to what we did last night?*
 
 The thoughts hovered on the tip of my tongue, then scattered. I stared at the faces of the dead for a while before speaking.
 
 “Team Leader Choi.”
 
-“Yes. Please, go ahead.”
+“Yes?”
 
 “If you’ve got time, want to go out for coffee?”
 
@@ -260,14 +258,14 @@ The thoughts hovered on the tip of my tongue, then scattered. I stared at the fa
 
 “Let’s see. Was it Paris?”
 
-“What?”
+“Pardon?”
 
 Team Leader Choi looked at me, puzzled. I went on calmly.
 
-“Odin Guild. I feel like going to see the boss’s ugly mug.”
+“Odin Guild. I feel like seeing the boss’s face.”
 
 “……!”
 
-[^1]: Yukgaejang is a spicy Korean soup made with shredded beef, vegetables, and red pepper seasoning.
+[^1]: Yukgaejang is a spicy Korean beef soup with vegetables and red pepper seasoning.
 
-[^2]: A classical expression for the complete destruction of a family and its relatives, often including children.
+[^2]: A classical expression for the destruction of an entire family, a threat familiar from Murim tales.
