@@ -1,6 +1,6 @@
 # Morgoth (모르고스)
 
-- **Safe through:** Chapter 1160
+- **Safe through:** Chapter 1161
 - **Aliases:** None
 - **Role:** Morgoth is a Dragon and the sovereign of a vast palace who seeks to recruit the Skeleton King as his Guardian.
 - **Personality:** Composed and intellectually curious, he pursues the unknown with consuming greed and will abandon restraint when confronted with something unprecedented.
