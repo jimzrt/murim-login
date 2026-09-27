@@ -1,21 +1,23 @@
 # Translation State
 
-- Last completed: 1130
-- Next chapter: 1131
-- Current block: 1130–1134 (1/5)
-- Latest translation: `translations/1130.md`
-- Latest summary: `summaries/beats/1130.md`
-- Safe profiles through: chapter 1130
+- Last completed: 1131
+- Next chapter: 1132
+- Current block: 1130–1134 (2/5)
+- Latest translation: `translations/1131.md`
+- Latest summary: `summaries/beats/1131.md`
+- Safe profiles through: chapter 1131
 
 ## Current Block
 
-- The old man overwhelms Taekyung, catching his spear barehanded, striking his chest, and forcing him to fight without relying on sight. Taekyung reconnects with an unfinished martial insight and begins sensing the old man’s attacks in darkness. As the old man raises an invisible sword and tells him to dodge or face the end, Taekyung senses a rare instinctive realm beyond reason, sees a beam of light, and steps forward.
+- The old man guides Taekyung to recognize that he perceived qi through the Mind’s Eye. As their meeting ends, Taekyung recognizes the old man as the Helper, who once taught him to circulate qi. The Helper gives him a final gift and sends him back, urging him to save everyone and himself. The Helper remains alone in the gray-white space, which persists; he says he chose to remain there and must wait again.
+- Jeok Cheongang grieves over Taekyung’s apparently lifeless body. As a tear lands on Taekyung’s hand, a finger submerged in blood moves.
 
 ## Open Questions
 
-- Who is the old man, and how did he help Taekyung?
-- What is the gray-white space, and what is the outcome of the old man’s test?
-- What is the rare instinctive state Taekyung has begun to sense?
+- Who is the Helper beyond the name Taekyung recognizes, and what is his purpose?
+- What did the Helper give Taekyung?
+- What is Taekyung’s condition after his finger moved?
+- What does the Helper’s instruction to save everyone and himself refer to?
 
 ## Exceptional Decision
 

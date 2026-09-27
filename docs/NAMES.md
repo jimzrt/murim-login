@@ -2541,3 +2541,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소규혁 | **So Gyuhyeok** | Defender who announces himself by the epithet 담도비랑. |
 | 무철 | **Mu Cheol** | Defender who announces himself by the epithet 쾌도진천. |
 | 조혁 | **Jo Hyeok** | Defender who announces himself by the epithet 흑살검. |
+| 도우미 | **The Helper** | Taekyung’s name for the mysterious being who first taught him to circulate qi. |
