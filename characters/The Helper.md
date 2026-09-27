@@ -1,6 +1,6 @@
 # The Helper (도우미)
 
-- **Safe through:** Chapter 1144
+- **Safe through:** Chapter 1156
 - **Aliases:** None
 - **Role:** A mysterious being who inhabits an enduring gray-white space and first taught Jin Taekyung to circulate qi.
 - **Personality:** He chose to remain in his solitary prison and places his trust in Taekyung.
