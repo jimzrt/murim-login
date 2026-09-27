@@ -2501,3 +2501,4 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 소똥이 | **Sottong** | One of the names Ma Junggeol recalls; gloss as “Cow Poop.” |
 | 말똥 | **Malttong** | One of Great Sir’s self-adopted names; gloss as “Horse Poop.” |
 | 태청전 | **Taiqing Hall** | Hall in Kunlun where the Blood Lord and Grand Mage meet. |
+| 황태제 | **Imperial Younger Brother** | Title for the Emperor’s appointed heir apparent. |
