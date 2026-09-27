@@ -2528,3 +2528,5 @@ use. First use of an unlisted name or title almost always needs a footnote.
 | 천도객 | **Heaven-Stealing Thief** | Epithet of the thief said to be able to steal from heaven. |
 | 만총 | **Man Chong** | Branch Master of the Beggars’ Sect’s Xining branch. |
 | 생강시 | **living jiangshi** | The Slaughter Saint compares the Black Ghosts to legendary living jiangshi. |
+| 달뢰라마 | **Dalai Lama** | Traditional title of the Potala Palace’s leader. |
+| 십이밀승 | **Twelve Secret Monks** | The Potala Palace’s twelve top fighters. |
