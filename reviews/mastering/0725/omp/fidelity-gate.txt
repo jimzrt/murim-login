@@ -1,0 +1,15 @@
+{
+  "summary": "The assembled copy is broadly faithful. One action is moved earlier than it occurs in the source.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 23–25",
+      "current": "I even snapped into a defensive stance.",
+      "defect": "The defensive stance occurs before Jeok Cheongang's stare in the assembled copy. In the source, the narrator expects to be hit, then takes the stance before Jeok Cheongang looks at him. The source also specifies that he does it like lightning.",
+      "replacement": "Remove this sentence here; add “I’d snapped into a defensive stance like lightning” to the next paragraph, where Jeok Cheongang stares at him.",
+      "rationale": "The source places the narrator’s sudden defensive action in the sentence describing Jeok Cheongang’s reaction, not alongside the narrator’s expectation of being hit.",
+      "confidence": 0.96
+    }
+  ]
+}

@@ -12,7 +12,7 @@ The beast understood and gradually slowed. Jeok Cheongang drew alongside me, the
 
 “Huh. Strange. This old man is hearing about it for the first time.”
 
-“I suppose so. It’s the first time I’ve mentioned it, too.”
+“I suppose so. It’s the first time I’ve mentioned it.”
 
 “Why didn’t you tell me?”
 
@@ -48,7 +48,7 @@ Jeok Cheongang laughed as though I’d told him a marvelous joke.
 
 “…”
 
-“Why would this old man sulk just because he didn’t hear some goddamn story? A thirsty man should dig his own well. If I waited for you to tell me when the time was right, wouldn’t I end up dried out and dead just like this old man? Hahahaha.”
+“Why would I sulk over not hearing one goddamn story? A thirsty man ought to dig his own well. If I sat around waiting for you to tell me when you were ready, I’d dry up and die, wouldn’t I? Hahaha.”
 
 Watching Jeok Cheongang laugh like an immortal, I thought, *He’s really fucking sulking.*
 
@@ -70,7 +70,7 @@ Jeok Cheongang narrowed his eyes. Sounding a little more like himself, he asked 
 
 “Unfortunately, that part’s true.”
 
-“What proof do you have?”
+“What makes you think so?”
 
 I told him what had happened. He’d already heard a brief version while we were at the Nanman Beast Palace, but this time I went into far more detail.
 
@@ -95,8 +95,6 @@ I thought back for a moment, then shook my head.
 “Loyalty that outweighs her life… Hard to believe.”
 
 “It wasn’t just loyalty.”
-
-I answered quietly as I recalled everything about the Southern Heaven Demon Empress.
 
 I thought of everything I remembered about the Southern Heaven Demon Empress. The look in her eyes. Her expression. The rapture in her voice, and all she had said and done.
 
@@ -132,7 +130,7 @@ Seated on the tiger’s back, he watched the scenery rush past in silence. Then 
 
 “Do I look sixty to you?”
 
-“Yes. At your age, it would be natural that you hadn’t seen one. You were born long after the Great Faction War ended.”
+“No. Of course someone your age hasn’t seen one. You were born long after the Great Faction War ended.”
 
 “Then why ask?”
 
@@ -160,11 +158,11 @@ Jeok Cheongang fixed me with a grave look.
 
 “…”
 
-“The Three Saints and Ten Kings are old names. But you are different. You possess a talent without precedent throughout history, and no one in the world can deny that you became a master despite having only just passed the age of twenty.”
+“The Three Saints and Ten Kings are old names. You’re different. Your talent is without precedent, and no one can deny your strength when you’ve only just turned twenty.”
 
 His gaze held unmistakable pride—and worry.
 
-“That is why the Lord of Heaven is watching you, too. And more importantly, he has already seen you once—your true nature and the infinite potential hidden within you.”
+“That’s why the Lord of Heaven is watching you. What’s more, he’s already seen you once. He’s seen the boundless potential hidden within you, and what you truly are.”
 
 “…The Sichuan Tang Clan’s underground prison.”
 
@@ -180,7 +178,7 @@ No. The words of the Lord of Heaven, who had borrowed his servant’s body for a
 
 *Interesting. Very interesting.*
 
-Even as his entire body turned into a handful of ashes and scattered away, he had not forgotten to offer me one final greeting.
+He had been smiling. Even as that body turned to ash and scattered, he had left me with one last greeting.
 
 *I’ll see you again.*
 
@@ -194,7 +192,7 @@ Jeok Cheongang watched me draw a slow breath, then said, “Perhaps… the Lord 
 
 The world seemed to stop, as though someone had pressed pause. Jeok Cheongang spoke slowly.
 
-“Can you tell this old man everything you’ve been hiding?”
+“Will you tell me everything you’ve been hiding?”
 
 * * *
 
@@ -208,7 +206,7 @@ The words he could not bring himself to say faded within him. What else was ther
 
 He had lived a long life. Suddenly, all those years felt of no use at all.
 
-*If you were here, I could have steadied this confused heart in no time.*
+*If you were here, you could help me steady myself.*
 
 He thought of the friend who had died several months ago. A monk who loved drink and meat and scarcely behaved like a monk at all, yet had been called the Dharma King because he cared more deeply for people than anyone.
 
@@ -216,7 +214,7 @@ Then Jeok Cheongang shook his head.
 
 The Dharma King was gone. And even if he were alive, he could no longer look up at that blue sky and read its heavenly patterns.
 
-*You said the heavenly patterns had already gone awry. That the sky no longer gave anyone any answers. You definitely said that.*
+*You said the heavenly patterns had already gone awry. That the sky would give no one any answers now. I remember.*
 
 The Dharma King had also foretold a great war. A force that would throw even the heavens into turmoil would spread across the world, then sweep through it like fire.
 
@@ -226,7 +224,7 @@ But his prediction had not ended there.
 
 A new star rising to light the troubled heavens.
 
-The Dharma King had identified a young man as the Master of that Morning Star, and afterward Jeok Cheongang had gone to Mount Jiuhua and made that young man the successor to the Fire Gate Clan’s lineage.
+The Dharma King had named a young man as its master. Later, Jeok Cheongang had gone to Mount Jiuhua and chosen that same young man to carry on the Fire Gate Clan’s lineage.
 
 “…Hah. And I thought you were just a monk who liked talking nonsense.”
 
@@ -238,13 +236,13 @@ No. Not just any young man.
 
 His one and only Disciple.
 
-*What an infuriating brat. He caused all this trouble, and now he’s sleeping like a baby.*
+*The nerve of him. He turns my world upside down, then sleeps like a baby.*
 
 It was absurd. But after hearing Jin Taekyung’s account, Jeok Cheongang had no strength left to be surprised.
 
 Another world, wholly separate from Murim. And a young man who traveled between Murim and that place, which sounded so much like the realm of immortals.
 
-*What an infuriating brat. He caused all this trouble, and now he’s sleeping like a baby.*
+*The nerve of him. He turns my world upside down, then sleeps like a baby.*
 
 It was absurd. But after hearing Jin Taekyung’s account, Jeok Cheongang had no strength left to be surprised.
 
@@ -264,7 +262,7 @@ Jeok Cheongang’s fist tightened on its own.
 
 But instead of rapping his sleeping Disciple on the forehead, he sighed and straightened the young man’s posture.
 
-*Yes. Sleep soundly. You’ve been through a lot.*
+*You’ve been through enough. Sleep well.*
 
 No. That wasn’t quite right.
 
