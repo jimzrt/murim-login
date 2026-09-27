@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.99,
+      "current": "Nanman already shunned outsiders. There was no way those people could admit that they were bad guys, and in the process, the unorthodox practitioners killed by Jeok Cheongang had been transformed into righteous heroes who loved justice and peace.",
+      "defect": "The translation omits the source’s proverb that crayfish side with crabs, followed by the observation that people need to read the room. That image and social-observation beat are absent from the assembled copy.",
+      "id": "F01",
+      "rationale": "The source explicitly says “가재는 게 편이고, 사람은 눈치가 있어야 하는 법” before explaining how the fleeing outsiders’ story became accepted in Nanman.",
+      "replacement": "Crayfish side with crabs, and people need to know how to read the room. Nanman already shunned outsiders. There was no way those people could admit that they were bad guys, and in the process, the unorthodox practitioners killed by Jeok Cheongang had been transformed into righteous heroes who loved justice and peace.",
+      "severity": "minor",
+      "source": "Lines 109–111"
+    },
+    {
+      "confidence": 1.0,
+      "current": "That meant the Nanman warriors, once nearly a thousand strong, and the three hundred members of the Baekcheon Unit had fallen here.",
+      "defect": "The source explicitly says there were only about thirty Level windows. The assembled copy omits that count, removing the concrete basis for the narrator’s reaction that there were too few.",
+      "id": "F02",
+      "rationale": "Source line 201 states “삼십여 개가 전부였다” (only about thirty); the accepted baseline also preserves this quantity.",
+      "replacement": "There were only about thirty Level windows visible to my eyes. That meant the Nanman warriors, once nearly a thousand strong, and the three hundred members of the Baekcheon Unit had fallen here.",
+      "severity": "minor",
+      "source": "Lines 199–203"
+    },
+    {
+      "confidence": 0.98,
+      "current": "I grasped his wrist pulse as he had charged at the Southern Heaven Demon Empress until the final moment, then sent internal energy through his back and along his spine with my other hand.",
+      "defect": "The wording makes Wang Ho’s charge sound simultaneous with the narrator grasping his pulse, muddling the source’s sequence and clause relationship. The source says Wang Ho had charged the Empress until the final moment, then the narrator grasps his pulse and sends energy through his back.",
+      "id": "F03",
+      "rationale": "The Korean first describes Wang Ho’s final charge, then describes the narrator taking his pulse and channeling internal energy through his back.",
+      "replacement": "Wang Ho had charged at the Southern Heaven Demon Empress until the final moment. I grasped his wrist to feel his pulse and sent internal energy through his back and along his spine with my other hand.",
+      "severity": "minor",
+      "source": "Line 211"
+    }
+  ],
+  "summary": "The assembled copy has three source-fidelity defects: an omitted idiom, a missing survivor count, and a sentence that muddles the timing of Wang Ho’s charge.",
+  "version": 1
+}

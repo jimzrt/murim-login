@@ -1,6 +1,6 @@
 # Chapter 711
 
-Sometimes, a certain kind of silence can take the place of countless emotions and words.
+Sometimes a silence says more than any number of words could.
 
 Like right now.
 
@@ -32,7 +32,7 @@ Jeok Cheongang had slapped himself across the face with all his strength. He bli
 
 I answered carefully. “No.”
 
-“No matter how I think about it, this feels like a dream.”
+“It certainly feels like a dream.”
 
 “Then slap yourself again.”
 
@@ -44,7 +44,7 @@ He must have hit himself pretty damn hard. Jeok Cheongang spat out a thick mouth
 
 “…Damn it. Not a dream. Then is this an illusion cast by a Mystic Gate Formation?”
 
-“Uh, I don’t think so. If I were an illusion, whose hand would the Old Master be holding right now?”
+“Uh, I don’t think so. If I’m an illusion, whose hand are you holding?”
 
 “A Dark Heaven sorcerer wearing your likeness. Or the Southern Heaven Demon Empress, if she isn’t dead after all. Whoever it is, they’ll be preparing a One Strike while I’m distracted by the illusion.”
 
@@ -76,7 +76,7 @@ The Blood Monk I had heard about was a terrifying fiend who had single-handedly 
 
 “What those bastards were doing was—what?”
 
-Jeok Cheongang’s brow furrowed as he tried to continue.
+Jeok Cheongang frowned.
 
 “Innocent Murim practitioners? What nonsense is that?”
 
@@ -96,7 +96,7 @@ I listened with my mouth open. At last, the pieces fell into place.
 
 The man who had supposedly caught an endemic disease and died as soon as he entered Nanman had actually been unorthodox faction small fry fleeing Jeok Cheongang’s fiery fists.
 
-Nanman already shunned outsiders. There was no way those people could admit that they were bad guys, and in the process, the unorthodox practitioners killed by Jeok Cheongang had been transformed into righteous heroes who loved justice and peace.
+A crayfish sides with a crab, and a man needs to know when to keep his mouth shut. Nanman was already hostile to outsiders. He could hardly announce that he was one of the villains, so the unorthodox practitioners Jeok Cheongang had killed had become heroes devoted to justice and peace.
 
 A story like that could take hold because Nanman was so isolated from the outside world.
 
@@ -138,7 +138,7 @@ There was so much in those three words. For a moment, it almost sounded as thoug
 
 “Stop smiling. I’ll get attached.”
 
-“For someone who supposedly isn’t attached, you were crying pretty bitterly. Of course, I’m not talking about you, Old Master.”
+“For someone who isn’t attached already, you were crying pretty hard. Not that I’m talking about you, Old Master.”
 
 “…Shut that mouth of yours.”
 
@@ -146,17 +146,17 @@ He must have remembered what he had been doing a moment ago. Still huffing, he t
 
 Pat, pat.
 
-The dust and stone grit covering my entire body fell away. The pain had been gone for a long time, but my vision blurred for a moment.
+Dust and stone grit fell from me. The pain had vanished some time ago, but for a moment my vision blurred.
 
 *Hmm.*
 
 I held back a groan. Five level-ups had healed my body, and it moved exactly as I wanted. My mind was another matter. Battle after battle without a moment’s rest had left me exhausted.
 
-*Ah, I want to sleep.*
+*God, I want to sleep.*
 
 I wanted to collapse where I stood. To sleep until my body and mind felt refreshed, then wake to a clear sky and spend the day slowly shaking off the drowsiness.
 
-But… not yet.
+But not yet.
 
 Dark clouds still filled the sky. All around us, people lay groaning, some lightly wounded, others gravely hurt.
 
@@ -166,9 +166,9 @@ Jeok Cheongang finally looked around. His expression darkened.
 
 “…I should have been faster.”
 
-It was pointless regret and needless self-reproach. If Jeok Cheongang hadn’t come, all of us—including me—might have been buried here.
+Pointless regret. Needless blame. If he had not come, every one of us, myself included, might have died here.
 
-“Let’s hurry. Before it gets any later.”
+“Let’s hurry,” he said. “Before it’s too late.”
 
 I nodded and chose the quickest, most accurate way to find the survivors.
 
@@ -176,11 +176,11 @@ I nodded and chose the quickest, most accurate way to find the survivors.
 
 Ding.
 
-Along with the clear ringing of a bell announcing that the System had activated, a blue circle spread outward from me and enclosed a set area. At the same time, Level display windows rose here and there, and my chest tightened.
+A clear chime announced the System’s response. A blue circle spread outward from me, enclosing everything within its range. Level windows appeared here and there, and my chest tightened at the sight.
 
 *Too few.*
 
-That meant the Nanman warriors, once nearly a thousand strong, and the three hundred members of the Baekcheon Unit had fallen here.
+I could see only about thirty. The Nanman warriors who had once numbered in the thousands and the three hundred members of the Baekcheon Unit had left their dead here.
 
 There was one small mercy: those still breathing did not seem to be in critical condition.
 
@@ -190,7 +190,7 @@ The thought weighed on me as I rushed to the nearest fallen man.
 
 Wang Ho, Commander of the Baekcheon Unit.
 
-I grasped his wrist pulse as he had charged at the Southern Heaven Demon Empress until the final moment, then sent internal energy through his back and along his spine with my other hand.
+I took the wrist of the man who had charged at the Southern Heaven Demon Empress until the very end. With my other hand against his back, I sent internal energy along his spine.
 
 Ssshhhhhh.
 
@@ -198,7 +198,7 @@ Ssshhhhhh.
 
 Wang Ho spat out a mouthful of dark blood. Color began to return to his pale face.
 
-He had been struck particularly hard because he had fought the fiercest battle among the Baekcheon Unit, but this should let us breathe a little easier.
+He had taken a terrible beating after fighting harder than anyone else in the Baekcheon Unit, but he should be all right now.
 
 Others were plainly in far worse shape.
 
@@ -216,7 +216,7 @@ Countless sword fragments and pieces of debris were lodged deep throughout his b
 
 Jeok Cheongang heard the worry in my voice and shook his head before I could finish.
 
-“The Beast Miao King is as tough as iron, so don’t worry. If this old man does his best, he should be able to survive. But…”
+“The Beast Miao King is tough as iron. Don’t worry. If I do everything I can, he’ll survive. But…”
 
 His words trailed off. The certainty in his voice faded as he looked toward the enormous White Tiger lying a few steps away.
 
@@ -238,11 +238,11 @@ Jeok Cheongang’s eyes widened. The guardian spirit turned its gaze from him to
 
 I bit my lip and went to it. I sat beside its head and stroked the back of its neck, soaked with blood. A low growl escaped it.
 
-—How insolent. How dare you lay a hand on this body?
+—Insolent. You dare lay a hand on me?
 
 What could I say?
 
-As I silently stroked only its neck, the guardian spirit sent another thought to me.
+I kept stroking its neck in silence, and another thought came.
 
 —Though I cannot say I dislike it. There was an impudent human much like you, long ago.
 
@@ -258,12 +258,12 @@ The first Palace Lord of the Nanman Beast Palace. The only human the guardian sp
 
 The White Tiger’s enormous body heaved beneath my hand. Breathing raggedly, the guardian spirit lifted its blue-white eyes to mine.
 
-At that moment, I understood instinctively.
+In that instant, I understood.
 
 Why it needed the sacred stone. What it meant to do with it.
 
 *The rift.*
 
-The guardian spirit was trying to close that dense darkness—the rift—all by itself.
+The guardian spirit meant to close that dense darkness—the rift—on its own.
 
 Just as an imugi had done several months ago.
