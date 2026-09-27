@@ -1,0 +1,79 @@
+{
+  "chapter": 1143,
+  "files": {
+    "characters/Doppelganger.md": "0b92aa89fed5e9de25296092f17f6c4696f06b997beaefd03193d7ff4673dec7",
+    "characters/Hyuk Mujin.md": "31e94a3a3af636cf72197fa1ad72da0b23b20e1dc988b339e48fbcc6101ca155",
+    "characters/Jang Sam.md": "f1850c9e9677ddaa3ac07fa07afad7e27775409814d2402740268f0c9c30a9cb",
+    "characters/Jeok Cheongang.md": "17f88ac6a72acecafa7d9cfe146e7ae8ab14b24c02c56f4cc54ef01f851d5832",
+    "characters/The Helper.md": "0cda797a595c137c8c6bf2de857b9e25b857ca3bd2c3cbd89e2e897fc9d95cd4",
+    "docs/CONTEXT.json": "0c126f9b175eee4c4225513059dc86778e0eddea83345f0c5a18dd6c048b2703",
+    "docs/STATE.md": "952c254544eedb55f37911b17256bd5187b91507b1557f80da2412d2cbd60db9",
+    "summaries/beats/1143.md": "2cbdfcc3596297bff23517c2d4ba43cdbc4355e474dec26020b05d220e39b23d"
+  },
+  "update": {
+    "address_pairs": [
+      {
+        "addressee": "진태경",
+        "kinship": "subordinate_to_enfeoffed_prince",
+        "normal_address": "Your Highness",
+        "notes": "Mujin refers to Taekyung as 저하 while asking if he is finally giving him the watch.",
+        "speaker": "혁무진",
+        "speech_level": "deferential, slurred by drunkenness"
+      }
+    ],
+    "beat": {
+      "continuity": [
+        "The Helper’s final gift to Taekyung was the pocket watch of unknown make; it was absent from Taekyung’s Inventory without his knowledge and its item classification changed after he held it.",
+        "Hyuk Mujin recognized the pocket watch and said it showed a different time from the last time he saw it."
+      ],
+      "plot": [
+        "After waking, Jin Taekyung finds the pocket watch he had kept in his Inventory around Jeok Cheongang’s neck. Jeok says he found it where Taekyung collapsed ten days earlier. Holding it brings back the memory that the Helper gave it to him as a final gift. Its System description changes from a Common Item to a Special Item, and Hyuk Mujin drunkenly says its time differs from when he last saw it."
+      ],
+      "translation_decisions": [
+        "Render 회중시계 as “pocket watch” and 누가 만들었는지 모를 회중시계 as “Pocket Watch of Unknown Make.”"
+      ]
+    },
+    "chapter": 1143,
+    "context": {
+      "active_continuity": [
+        "Murim forces from across the realm have gathered in Xining to fight the Lord of Heaven.",
+        "The Son of Heaven survived by accepting the White Illusion Jiangshi Art and arrived in Xining with a hundred thousand Imperial Guards.",
+        "The Son of Heaven enfeoffed Jin Taekyung as Prince Shangshan; Taekyung declined the offered title Prince of Ye.",
+        "The Bow Saint says the Martial God’s final wish led her to search for the chosen one, whom she identified as Taekyung, the Player.",
+        "Taekyung suspects Cheon Taemin and the Martial God are the same person; he theorizes the System may have treated Cheon’s unconscious state as death.",
+        "The Helper saved Taekyung’s life, guided him to a higher level of enlightenment, and gave him the pocket watch as his final gift.",
+        "The pocket watch disappeared from Taekyung’s Inventory without his awareness and changed from a Common Item to a Special Item when he held it.",
+        "Hyuk Mujin said the pocket watch showed a different time from when he last saw it."
+      ],
+      "continuity_sources": [
+        1142,
+        1143
+      ],
+      "open_questions": [
+        "Are Cheon Taemin and the Martial God the same person, and how could Taekyung have acquired the capsule if so?",
+        "What accounts for the time ratio between the modern world and Murim?",
+        "Who is the Helper, and what is his relationship to the System?",
+        "Why did the pocket watch disappear from the Inventory, change classification, and show a different time?",
+        "What will happen in the campaign against the Lord of Heaven?"
+      ],
+      "safe_through": 1143,
+      "temporary_decisions": [
+        "Render 大明 as “Great Ming” and 親征 as “personal expedition.”",
+        "Render 滅魔正天 as “Exterminate the Demons and Set Heaven Right.”",
+        "Render 회중시계 as “pocket watch” and 누가 만들었는지 모를 회중시계 as “Pocket Watch of Unknown Make.”"
+      ],
+      "version": 1
+    },
+    "names": [],
+    "profile_creations": [],
+    "profile_updates": [
+      {
+        "current": "- **Relationships:** He guided Taekyung from the beginning of his time in Murim and gave him an unidentified final gift.",
+        "path": "characters/The Helper.md",
+        "replacement": "- **Relationships:** He guided Taekyung from the beginning of his time in Murim and gave him the pocket watch of unknown make as his final gift."
+      }
+    ],
+    "version": 1
+  },
+  "version": 1
+}
