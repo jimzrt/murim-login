@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled copy is largely faithful. Two minor source details were lost or altered.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Lines 5–7",
+      "current": "As the Beast Miao King watched the travelers disappear into the distance, he knew they would meet again before the ache of this farewell had faded.",
+      "defect": "The source specifies that these people were setting out on a long journey and describes the King watching their backs. “Travelers disappear into the distance” omits the long journey and replaces the source’s specific image.",
+      "replacement": "As the Beast Miao King watched the backs of those setting out on a long journey, he knew they would meet again before the ache of this farewell had faded.",
+      "rationale": "The Korean says 먼 길을 떠나는 이들의 뒷모습을 지켜보던: watching the backs of those departing on a long journey.",
+      "confidence": 0.94
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 129",
+      "current": "A melancholy look in his eyes, Hyuk Mujin waited until everyone was watching before slowly opening his mouth.",
+      "defect": "The source describes Hyuk Mujin with a solemn air and says he opened his mouth under everyone’s gaze. The translation omits the solemn atmosphere and adds that he waited until everyone was watching.",
+      "replacement": "With a melancholy look in his eyes and a solemn air, Hyuk Mujin slowly opened his mouth under everyone’s gaze.",
+      "rationale": "The Korean states 우수에 찬 눈빛과 진중한 분위기 and then says he opened his mouth in everyone’s gaze; it does not say he waited for their attention.",
+      "confidence": 0.98
+    }
+  ]
+}

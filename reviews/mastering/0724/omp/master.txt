@@ -20,7 +20,7 @@ The Beast Miao King gave a small nod at the voice beside him.
 
 Yayul Mok continued calmly.
 
-““If my father—no, if the Palace Lord hadn’t wanted to go to the Central Plains, I would have gone with them on my own.””
+“If you—no, if the Palace Lord hadn’t wanted to go to the Central Plains, I would have gone with them on my own.”
 
 “…!”
 
@@ -82,7 +82,7 @@ Fragrant fruit wine fell with the dwindling rain and soaked into the earth—the
 
 “Good wine, this. Wouldn’t you agree?”
 
-The Beast Miao King had not tasted a drop, yet at his mumble the people around him looked puzzled. He merely laughed with relief.
+The people around him looked puzzled. The Beast Miao King hadn’t tasted a drop. He only smiled, as though a weight had lifted from him.
 
 This was enough.
 
@@ -110,7 +110,7 @@ His azure dragon’s roar rang in every direction. Somewhere high on a hill, the
 
 Thousands—tens of thousands—of beasts and humans stamped their feet and cried out. Sunlight flashed from countless blades, scattering in every direction.
 
-At long last, the prelude to the Great War had begun.
+The Great War had begun.
 
 * * *
 
@@ -124,7 +124,7 @@ A melancholy look in his eyes, Hyuk Mujin waited until everyone was watching bef
 
 “I said stop.”
 
-“Come on, why are you like this? I never get tired of doing this, no matter how many times I repeat it. Honestly, you all agree, don’t you?”
+“Oh, come on. I could hear it a dozen more times and never get tired of it. Be honest—you all agree, don’t you?”
 
 Taishan, who was tearing into a wild boar’s hind leg atop a bear running at full speed, nodded vigorously.
 
@@ -150,7 +150,7 @@ The grin vanished from his face.
 
 “Want me to make it peaceful?”
 
-“You don’t mean that you’re going to kill me, do you?”
+“You don’t mean by killing me, do you?”
 
 “What if I do?”
 
@@ -164,7 +164,7 @@ Hyuk Mujin shut his mouth, but Taishan looked disappointed and called for an enc
 
 “Pavilion Master! Taishan wants to hear more!”
 
-So I called in his designated bully.
+I called for the man who usually kept him in line.
 
 “Old Man Nam, I think it’s time to shut that bastard’s mouth.”
 
@@ -192,7 +192,7 @@ I hesitated, then gave in and sighed.
 
 “No! Why?”
 
-Why? Because I felt like it would dirty my eyes.
+Because I didn’t want to have to look at it, that’s why.
 
 I snatched the muzzle from the practically wailing Namho and hurled it into the distance. Jeok Cheongang, who had watched the whole thing, spoke with an uneasy look on his face.
 
@@ -216,7 +216,7 @@ For a moment, I didn’t understand what he meant.
 
 Yeah. Fuck.
 
-Looking back on what had happened in Nanman, I had a reasonable suspicion that the Earth Mother Goddess really had blessed us.
+Looking back on everything that had happened in Nanman, I was starting to wonder if the Earth Mother Goddess really had been watching over us.
 
 *I came close to death several times. Making it back in one piece is a miracle.*
 
@@ -238,7 +238,7 @@ All I had done was give them another point to rally around: a One God who could 
 
 On this, I had no doubts. The Nanman Beast Palace was firmly on our side now.
 
-According to what the Beast Miao King had promised before we left, they would send more troops than they had during the Great Faction War and do everything in their power to hold back Dark Heaven.
+Before we left, the Beast Miao King had promised to send more troops than Nanman had during the Great Faction War and fight Dark Heaven with everything they had.
 
 So why?
 
@@ -258,11 +258,11 @@ What the hell were they—or rather, what was the Lord of Heaven—trying to do?
 
 And why did the Lord of Heaven…
 
-“Why would the Lord of Heaven take this much interest in me, of all people?”
+“Why take so much interest in me?”
 
 I hadn’t meant to say it aloud. Everyone looked at me at once, and before I could explain, Hyuk Mujin perked up like a meerkat.
 
-“Gasp, Captain. Did someone confess to you? Oh my God. A Nanman?”
+“Wait, Captain. Did someone confess to you? No way. Someone from Nanman?”
 
 “…”
 
@@ -290,7 +290,7 @@ Hyuk Mujin stopped. He blinked, thought for a moment, then spoke again.
 
 “Who else?”
 
-“Fuck. That respectable household was in Xinjiang…”
+After a moment’s silence, he muttered, “Fuck. So that respectable family lives in Xinjiang…”
 
 Beyond Qinghai, where the Kunlun Sect stood, lay Xinjiang. For a thousand years, Xinjiang had been the domain of the Demonic Path.
 
@@ -316,7 +316,7 @@ Namho cut in. “Isn’t it obvious? He keeps getting in the Lord of Heaven’s 
 
 “…”
 
-Fuck. I had never seen such a complete mess.
+Fuck. What a mess.
 
 I stared blankly at the disaster unfolding before me. Then a quiet Sound Transmission reached my ears.
 
