@@ -1,23 +1,23 @@
 # Translation State
 
-- Last completed: 1034
-- Next chapter: 1035
-- Current block: 1030–1034 (5/5)
-- Latest translation: `translations/1034.md`
-- Latest summary: `summaries/beats/1034.md`
-- Safe profiles through: chapter 1034
+- Last completed: 1035
+- Next chapter: 1036
+- Current block: 1035–1039 (1/5)
+- Latest translation: `translations/1035.md`
+- Latest summary: `summaries/beats/1035.md`
+- Safe profiles through: chapter 1035
 
 ## Current Block
 
-- The Blood-Sword Demon Lord resents being kept from the battle by an unnamed white-robed woman who leads roughly twenty white-robed followers and serves the Lord of Heaven more closely than he does. She says the Lord of Heaven wants him to avoid harm; he takes this as a sign of distrust despite his decades of devotion, then resolves to prove himself.
-- A pillar of fire erupts across the battlefield. Jeok Cheongang and his disciple destroy the four Black Ghosts fighting them, along with the followers attacking them, with Heavenly Strike. The Blood-Sword Demon Lord watches, tells the absent Lord of Heaven that greater trust might have ended the battle already, and draws his sword.
+- After leveling up upon defeating four Death Knights, Jin Taekyung confronts the Blood-Sword Demon Lord, whose former Demonic Cult comrades were among the Black Ghosts. Taekyung uses Qi Sense to identify the Demon Lord as Chuk Banghyeol and watch his level rise from 170 to 180. As a white-robed figure invokes the Wind Ghost’s power and imbues him with it, Taekyung realizes the force at work is Magic, not dark arts.
 
 ## Open Questions
 
-- Who are the seven Black Ghosts, and what were their identities before becoming Black Ghosts?
-- What is the Lord of Heaven’s identity and purpose?
+- What are the identity and purpose of the Lord of Heaven?
 - Did Dark Heaven cause the Great Faction War?
-- Who is the unnamed white-robed woman, and what are the white-robed followers’ purpose?
+- Who is the unnamed white-robed woman, and what is the white-robed followers’ purpose?
+- How do the white-robed followers’ Magic and the Wind Ghost’s power work?
+- How were the former Demonic Cult fiends made into Black Ghosts?
 
 ## Exceptional Decision
 
