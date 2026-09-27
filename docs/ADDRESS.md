@@ -1558,3 +1558,4 @@ Overrides generic relationship prose in character profiles for this pair.
 | 청허자 | 적천강 | younger martial artist to senior martial artist | Senior | polite | Cheongheoja refers to Jeok Cheongang as 노 선배 while politely declining his offer. |
 | 진태경 | 혈주 | hostile_opponent_to_hostile_opponent | you; you son of a bitch | insulting-casual | Taekyung insults the Blood Lord while challenging his claim that he will kill him. |
 | 달뢰라마 | 적천강 | hostile leader confronting a rival martial master | donor | formal and controlled | Addresses Jeok as 시주 while blocking his departure for the West Gate. |
+| 궁성 | 살성 | allied martial masters | Slaughter Saint | formal-polite | The Bow Saint directly addresses him as 살성 and uses 당신 while urging him to stay and defend the South Gate. |
