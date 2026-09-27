@@ -1,10 +1,10 @@
 # Chapter 0
 
-There’s a Russian proverb:[^1]
+There’s a Russian proverb:
 
 > “Free cheese is only found in a mousetrap.”
 
-Looking back, I can’t help thinking that everything about that day was someone’s mousetrap. I’d been fired from the job I’d held for seven years, the weather was brutally hot, and I lived in a poor hillside neighborhood[^2] you had to cross two hills to reach…
+Looking back, I can’t help thinking that everything about that day was someone’s mousetrap. I’d been fired from the job I’d held for seven years, the weather was brutally hot, and I lived in a poor hillside neighborhood[^1] you had to cross two hills to reach…
 
 I’d barely made it up and was still catching my breath when I spotted it.
 
@@ -18,5 +18,4 @@ Wouldn’t someone have clapped and laughed as they watched me grunt and strain 
 
 “The fool got caught in the trap!”
 
-[^1]: The Russian saying warns that an apparently free offer may conceal a trap.
-[^2]: *Daldongne*, literally “moon village,” is a Korean term for a poor hillside neighborhood.
+[^1]: *Daldongne*, literally “moon village,” is a Korean term for a poor hillside neighborhood.

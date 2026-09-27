@@ -20,17 +20,17 @@ Just as I’d said, he hadn’t even looked inside. He’d merely given it a qui
 
 “…?”
 
-“Shit is shit. You don’t have to dig through it to check for yesterday’s bean sprouts.[^2] You can tell it’s shit just by looking at it.”
+“Shit is shit. You don’t have to dig through it to check for yesterday’s bean sprouts. You can tell it’s shit just by looking at it.”
 
 “Oh.”
 
 “Shh. Don’t say anything more. I wasn’t fishing for praise.”
 
-“Hyung…”[^3]
+“Hyung…”[^2]
 
 I wanted to kill him. My fist trembled with the urge, and Jinho flinched. Unlike him, who had spent his entire life hunched over a desk, I had a fairly intimidating build.
 
-“Taekyung. Let’s recall Article 1, Clause 12 of the Awakened Persons Special Act.[^4] What you’re about to do constitutes assault of a civilian by an Awakened…”
+“Taekyung. Let’s recall Article 1, Clause 12 of the Awakened Persons Special Act. What you’re about to do constitutes assault of a civilian by an Awakened…”
 
 “I thought you said an F-rank Hunter like me didn’t even count as an Awakened?”
 
@@ -64,9 +64,9 @@ I gave a short laugh at Jinho’s flustered expression.
 
 This guy. A serious expression really didn’t suit him.
 
-“Then buy me a drink. This is when you’re supposed to act like my hyung.”[^5]
+“Then buy me a drink. This is when you’re supposed to act like my hyung.”[^2]
 
-“Listen to the disrespect on you. Try treating me like your hyung[^6] before you say something like that.”
+“Listen to the disrespect on you. Try treating me like your hyung[^2] before you say something like that.”
 
 He said that, but still jerked his chin for me to follow. Judging by his expression, we were getting plastered tonight.
 
@@ -92,7 +92,7 @@ Was that thing human or a monster? Leaning against a utility pole and vomiting, 
 
 *I told you to drink slowly.*
 
-He’d been pounding drinks like a lunatic since the first round,[^7] and this was how he’d ended up. Never mind that I’d had to pay the bill—I was soaked through after carrying the dead-drunk man all the way back to the goshiwon.[^8]
+He’d been pounding drinks like a lunatic since the first round, and this was how he’d ended up. Never mind that I’d had to pay the bill—I was soaked through after carrying the dead-drunk man all the way back to the goshiwon.[^1]
 
 Sweat came standard. Vomit was an optional extra. There was no question whose mouth it had come from.
 
@@ -110,25 +110,25 @@ And you were the highlight of it all.
 
 “We’re home. We’re here, so try to wake up.”
 
-“Home? My home’s in Gangwon Province.[^9] Oh, Mom. Mom! I want some of my mom’s doenjang stew.[^10]”
+“Home? My home’s in Gangwon Province. Oh, Mom. Mom! I want some of my mom’s doenjang stew.[^3]”
 
-“Oh, for crying out loud. It’s the goshiwon,[^11] hyung.”[^12]
+“Oh, for crying out loud. It’s the goshiwon,[^1] hyung.”[^2]
 
-“The goshiwon?[^13] Hope Goshiwon?”[^14]
+“The goshiwon?[^1] Hope Goshiwon?”[^1]
 
 “Yeah. So try to wake up.”
 
-“Hope… Right. Hope can’t be bought with money. My mom always said it was in everyone’s heart. She makes incredible doenjang stew.[^15]”
+“Hope… Right. Hope can’t be bought with money. My mom always said it was in everyone’s heart. She makes incredible doenjang stew.[^3]”
 
 I waited patiently until he reached the part about doenjang stew, then punched him in the gut.
 
-Even while vomiting, he mumbled Article 1, Clause 12 of the Awakened Persons Special Act,[^16] proving that he was, in fact, an exam candidate.
+Even while vomiting, he mumbled Article 1, Clause 12 of the Awakened Persons Special Act, proving that he was, in fact, an exam candidate.
 
 * * *
 
 “I still feel filthy.”
 
-I went straight to the goshiwon’s[^17] shower room and washed for thirty minutes, but I could still smell vomit clinging to the tip of my nose.
+I went straight to the goshiwon’s[^1] shower room and washed for thirty minutes, but I could still smell vomit clinging to the tip of my nose.
 
 When I returned to my room, sniffing all the way, two nuisances were waiting for me.
 
@@ -138,11 +138,11 @@ One was Jinho, dead drunk, and the other was…
 
 “Oh, I forgot about this.”
 
-The capsule. I’d left the refrigerator-sized thing in my room, barely three pyeong,[^18] and it felt as though it took up the entire space. I retreated onto the bed and began wondering what to do with it.
+The capsule. I’d left the refrigerator-sized thing in my room, barely three pyeong,[^4] and it felt as though it took up the entire space. I retreated onto the bed and began wondering what to do with it.
 
 *Should I take it back and throw it away?*
 
-I could hand it over to a scrap dealer instead. What were scrap-metal prices like these days? It weighed at least fifty kilograms,[^19] so I could probably get enough for a few snacks.
+I could hand it over to a scrap dealer instead. What were scrap-metal prices like these days? It weighed at least fifty kilograms,[^5] so I could probably get enough for a few snacks.
 
 *I thought it was a fairly useful piece of equipment.*
 
@@ -183,7 +183,7 @@ January 1, 2020. It had to be a printing error. Surely.
 
 That period was the Great Cataclysm.
 
-January 1, 2015. Humanity received more than a New Year’s sunrise.[^20]
+January 1, 2015. Humanity received more than a New Year’s sunrise.
 
 Gates—or dungeons, as they were also called—began appearing all over the world, and monsters no one had ever seen or heard of poured through them.
 
@@ -246,7 +246,7 @@ Being unaffiliated was miserable. Government policy was never kind to unaffiliat
 
 Unlike me, my mother and younger sister lived in an apartment in a Safety Sector. It was an extravagant expense on an F-rank Hunter’s income, but nothing mattered more to me than my family’s safety.
 
-Until now, I had barely managed to scrape together enough money for each annual renewal of their jeonse lease.[^21] But from now on… who knew?
+Until now, I had barely managed to scrape together enough money for each annual renewal of their jeonse lease.[^6] But from now on… who knew?
 
 *Fuck. I don’t know.*
 
@@ -278,31 +278,16 @@ Someone’s voice pierced my ears, but I didn’t care anymore. I slipped gently
 >
 > Player Jin Taekyung registered to the device.
 >
-> Proceeding to selection. Would you like to log in to Murim?[^22]
+> Proceeding to selection. Would you like to log in to Murim?[^7]
 >
 > No response for an extended period. Proceeding automatically.
 >
 > …May fortune favor you in battle!
 
-[^1]: A goshiwon is a Korean residence made up of very small, inexpensive rented rooms, often with shared facilities.
-[^2]: Bean sprouts are a common Korean side dish. Jinho’s joke is that he need not inspect the contents to know what the capsule is.
-[^3]: *Hyung* is a Korean term a younger man uses for an older brother or close older male friend.
-[^4]: The Awakened Persons Special Act is a law in the story governing Awakened people. Jinho cites its article and clause like the exam candidate he is.
-[^5]: *Hyung* is a Korean term a younger man uses for an older brother or close older male friend.
-[^6]: *Hyung* is a Korean term a younger man uses for an older brother or close older male friend.
-[^7]: In Korean drinking culture, a “first round” is the first stop in an evening that may continue at other venues.
-[^8]: A goshiwon is a Korean residence made up of very small, inexpensive rented rooms, often with shared facilities.
-[^9]: Gangwon Province is a mountainous province in northeastern South Korea.
-[^10]: Doenjang is a Korean fermented soybean paste used as the base of a savory stew.
-[^11]: A goshiwon is a Korean residence made up of very small, inexpensive rented rooms, often with shared facilities.
-[^12]: *Hyung* is a Korean term a younger man uses for an older brother or close older male friend.
-[^13]: A goshiwon is a Korean residence made up of very small, inexpensive rented rooms, often with shared facilities.
-[^14]: Hope Goshiwon is the name of Taekyung’s goshiwon, a Korean residence of small rented rooms. Jinho takes “Hope” from its name and starts talking about hope itself.
-[^15]: Doenjang is a Korean fermented soybean paste used as the base of a savory stew.
-[^16]: The Awakened Persons Special Act is a law in the story governing Awakened people. Jinho repeats the article and clause while drunk.
-[^17]: A goshiwon is a Korean residence made up of very small, inexpensive rented rooms, often with shared facilities.
-[^18]: One pyeong is 3.31 m², or 35.6 ft². Three pyeong is about 9.93 m², or 107 ft².
-[^19]: Fifty kilograms is about 110 lb.
-[^20]: Watching the first sunrise of the year is a New Year’s custom in Korea.
-[^21]: A Korean jeonse lease is secured by a large refundable deposit in place of monthly rent.
-[^22]: *Murim* is the martial-arts world of Korean and Chinese martial-arts fiction.
+[^1]: A goshiwon is a Korean residence of very small, inexpensive rented rooms, often with shared facilities.
+[^2]: *Hyung* is what a younger man calls an older brother or a close older male friend.
+[^3]: *Doenjang* is Korean fermented soybean paste, used here as the base of a stew.
+[^4]: A pyeong is a Korean unit of area, about 3.31 square meters (35.6 square feet).
+[^5]: Fifty kilograms is about 110 pounds.
+[^6]: A jeonse lease is a Korean rental secured by a large refundable deposit instead of monthly rent.
+[^7]: *Murim* is the martial-arts world of Korean and Chinese martial-arts fiction.
