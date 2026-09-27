@@ -72,9 +72,9 @@ Jin Taekyung lifted his hand from the alloy table, leaving a palm print in it.
 
 The lone standing executive looked at Choi, his face stiff.
 
-“Since things have turned out this way, I’d like to say something.”
+“Since I’m already on my feet, I’d like to say something.”
 
-His voice carried the determination not to back down this time. Several executives’ eyes gleamed, and Choi Minwoo calmly nodded.
+His voice rang with a determination not to back down. Several executives’ eyes lit up. Choi gave a calm nod.
 
 “Yes, go ahead.”
 
@@ -104,15 +104,15 @@ Ding.
 
 I asked as soon as the private elevator doors closed.
 
-“Half and half. I called the executives together to reassure them. There was never any room for trouble to begin with.”
+“Partly,” Team Leader Choi said. “I gathered the executives to reassure them. There was never much chance of trouble.”
 
 “True. Most of the ones still around are on your side.”
 
-“Even if someone had complaints, there was no reason for the Guild to oppose the publicization plan.”
+“And even if some were unhappy, Ares Guild had no reason to oppose making the technique public.”
 
-“Because it also suggests that Cheon Tae… no, that your maternal grandfather is still going strong, Team Leader Choi. Right?”
+“Because it also tells everyone Cheon Tae… I mean, your grandfather is still going strong?”
 
-“Yes. The reason Ares Guild hasn’t enjoyed its former standing is my maternal grandfather’s absence. In that sense, Mr. Jin’s proposal to use his fame was the best option for all of us.”
+“Yes. Ares Guild hasn’t held quite the same standing as before because my grandfather has been absent. In that respect, your suggestion to use his fame was the best choice for all of us.”
 
 Cheon Taemin’s very existence was practically a cheat code in this world.
 
@@ -142,11 +142,11 @@ I frowned at the thing in my hand.
 
 It was the size and shape of a business card, but could you really call it one? The platinum-colored surface gleamed, yet it bore no name, no title—not even a phone number.
 
-The only thing I could guess was that its owner was an unimaginably wealthy magnate.
+All I could tell about its owner was that they must be filthy rich.
 
 “This is heavier than I expected. Feels like it might actually be platinum. Are we meeting Middle Eastern royalty?”
 
-“If that were the case, I would have finished the meeting and come.”
+“If we were, I would have finished the meeting first.”
 
 “Then who?”
 
@@ -154,7 +154,7 @@ The only thing I could guess was that its owner was an unimaginably wealthy magn
 
 I examined the card again. Only then did I notice the two birds engraved into it, one on each side.
 
-“This is…”
+“What’s this?”
 
 “Do you know what kind of birds they are?”
 
@@ -168,7 +168,7 @@ I examined the card again. Only then did I notice the two birds engraved into it
 
 “What, the ravens have names? Aren’t they just ravens?”
 
-“Someone without an interest in the subject might not know. They’re creatures from mythology.”
+“You might not know them if you aren’t interested in mythology.”
 
 “Mythology?”
 
@@ -244,17 +244,17 @@ The manager broke off.
 
 “I told you. It really is gone,” the employee said, shrinking back.
 
-“No, not that. What did you say right before that?”
+“No, not that. What did you say after that?”
 
 “Huh? Oh—the items connected to Go Jun?”
 
 “……!”
 
-At the three syllables that once again slipped from the youngest employee’s mouth, the manager felt a chill run down his spine.
+Hearing that name again sent a chill down the manager’s spine.
 
 Go Jun. Of all the things to go missing, it had to be evidence from the Go Jun case.
 
-“Hey, the door. The door! Open the storage room right now! Get the others too—no, wait. Don’t call them yet!”
+“The door. Open the storage room, now! Call the others too—no, wait. Don’t call anyone yet!”
 
 He jumped up and hurried to the evidence storage room. After he and the youngest employee spent hours searching every corner, he finally had to admit it.
 
@@ -266,7 +266,7 @@ The clueless junior hadn’t been talking nonsense. And the stock he’d bought 
 
 If word got out, his whole life would hit limit down.
 
-*What the hell is this?*
+*How the hell did this happen?*
 
 Half dazed, he stared around the storage room. It made no sense.
 
@@ -276,13 +276,13 @@ Neither the anti-theft Magic placed on each piece of evidence nor the alarm Magi
 
 *And it had to be evidence connected to Go Jun.*
 
-The mere disappearance of evidence was already enough to require him to write an incident report, but if evidence related to Go Jun had disappeared, this would not end with ordinary disciplinary action.
+Losing any evidence would mean writing an incident report. Losing evidence from Go Jun’s case wouldn’t end with an ordinary reprimand, even if the higher-ups had already collected the important items. The case was too big.
 
-“……Seriously, this is driving me crazy.”
+“……I’m going to lose my mind.”
 
-The manager felt the future go dark before his eyes. A civil servant’s lifeline might be long, but it wasn’t a steel cable. It could still be cut.
+The manager felt his future go dark. A civil servant’s job might be secure, but not unbreakable.
 
-He pictured his tiger-like wife and rabbit-like children waiting at home. He couldn’t bring himself to report it.
+He pictured his fearsome wife and his darling children waiting at home. He couldn’t bring himself to report it.
 
 *Right. Bury it. Just for now, and see what happens.*
 
@@ -292,9 +292,9 @@ Decision made, he called to the youngest employee somewhere in the vast storage 
 
 “Are you there?”
 
-“Ah, yes. I just got here.”
+“Oh, yes. I just got back.”
 
-“You went somewhere. Come over here for a moment. I have something important to discuss with you…”
+“You went somewhere? All right, come here a moment. I need to talk to you about something important…”
 
 He turned around and saw the youngest employee, eyes shining brightly.
 

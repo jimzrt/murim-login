@@ -1,0 +1,25 @@
+{
+  "summary": "The assembled chapter is largely faithful. Two minor source details need restoration.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "minor",
+      "source": "Chapter 730, line 15",
+      "current": "Their new City Lord, though, didn’t so much as twitch an eyebrow, even with the meeting finally going his way.",
+      "defect": "The source says his favorable momentum was interrupted; the English instead says the meeting was finally going his way, adding “finally” and omitting the interruption.",
+      "replacement": "Their new City Lord, though, didn’t so much as twitch an eyebrow, even though his favorable momentum had been interrupted.",
+      "rationale": "The Korean explicitly says his advantageous flow was disrupted, yet he showed no reaction.",
+      "confidence": 0.97
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Chapter 730, line 325",
+      "current": "The mere disappearance of evidence was already enough to require him to write an incident report, but if evidence related to Go Jun had disappeared, this would not end with ordinary disciplinary action.",
+      "defect": "The English omits that the higher-ups had already collected the important evidence, despite the case being so significant.",
+      "replacement": "Even though the higher-ups had already collected the important items, this had been such a major case that evidence related to Go Jun disappearing would not end with ordinary disciplinary action.",
+      "rationale": "The Korean includes this concession and emphasizes the scale of the case before explaining why the missing evidence would bring severe consequences.",
+      "confidence": 0.98
+    }
+  ]
+}
