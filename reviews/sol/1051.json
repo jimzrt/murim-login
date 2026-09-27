@@ -1,0 +1,56 @@
+{
+  "findings": [
+    {
+      "confidence": 0.97,
+      "current": "Having had his thoughts read earlier was nothing.",
+      "defect": "The pronoun makes Jin the one whose thoughts were read. The Grand Mage is reflecting on Jin seeing through her intentions.",
+      "id": "F01",
+      "rationale": "Her earlier mistake exposed her true intentions to Jin; this sentence dismisses that mistake as less important than her failure to understand the title.",
+      "replacement": "Having had her thoughts read earlier was nothing.",
+      "severity": "critical",
+      "source": "앞서 마음을 읽힌 것 따위는 아무것도 아니었다."
+    },
+    {
+      "confidence": 0.99,
+      "current": "having realized something had happened to their hostage, Jin Taekyung",
+      "defect": "“Their hostage” assigns Jin’s captivity to the Bow Saint and Jeok Cheongang rather than the Grand Mage.",
+      "id": "F02",
+      "rationale": "The two are rushing toward Jin because they see that something has happened to him while he is held hostage.",
+      "replacement": "having realized something had happened to Jin Taekyung, who was being held hostage",
+      "severity": "critical",
+      "source": "인질로 잡혀 있던 진태경의 신변에 문제가 생겼음을 깨닫고 쏘아지던 궁성과 적천강"
+    },
+    {
+      "confidence": 0.94,
+      "current": "> **System**\n>\n> Status Effect [Terrible Internal Injury] has been removed!\n>\n> Status Effect [Severe Bleeding] has been removed!\n>\n> Status Effect [Exhaustion] has been removed!\n>\n> Status Effect [Ruptured Organs] has been removed!\n>\n> Status Effect [Fracture] has been removed…\n>\n> .\n>\n> .\n>\n> .\n>\n> A powerful healing force takes root in your body!\n>\n> Achievement unlocked: [Cut Me Open]!",
+      "defect": "The System panel retains prohibited square brackets. The achievement also loses the source’s incredulity at how it was earned and the defiant force of 배 째.",
+      "id": "F03",
+      "rationale": "The binding panel format excludes brackets; 어떻게 했나 싶은 marks the achievement as improbable, while 배 째 is a defiant challenge rather than a neutral request.",
+      "replacement": "> **System**\n>\n> Status Effect: Terrible Internal Injury has been removed!\n>\n> Status Effect: Severe Bleeding has been removed!\n>\n> Status Effect: Exhaustion has been removed!\n>\n> Status Effect: Ruptured Organs has been removed!\n>\n> Status Effect: Fracture has been removed…\n>\n> .\n>\n> .\n>\n> .\n>\n> A powerful healing force takes root in your body!\n>\n> You’ve earned the somehow-you-managed-it achievement: Go Ahead, Gut Me!",
+      "severity": "major",
+      "source": "- 상태 이상, [끔찍한 내상]이 해제되었습니다!\n\n- 상태 이상, [극심한 출혈]이 해제되었습니다!\n\n- 상태 이상, [탈진]이 해제되었습니다!\n\n- 상태 이상, [내장 파열]이 해제되었습니다!\n\n- 상태 이상, [골절]이 해제되었…….\n\n.\n\n.\n\n.\n\n- 강력한 치유의 힘이 당신의 신체에 깃듭니다!\n\n- 어떻게 했나 싶은 업적, [배 째]를 달성하셨습니다!"
+    },
+    {
+      "confidence": 0.96,
+      "current": "And I was a superhuman with the physical ability and senses to surpass the limits of a Blink spell, despite its short range.",
+      "defect": "The draft replaces the concrete pursuit mechanism—catching up to a short-range teleport—with the abstract claim that Jin surpasses the spell’s limits.",
+      "id": "F04",
+      "rationale": "Jin knows where she reappeared and can cover the distance; he does not alter or overcome a limit of the spell itself.",
+      "replacement": "And I was a superhuman whose extraordinary strength and senses could catch up with Blink despite its limited range.",
+      "severity": "major",
+      "source": "단거리라는 한계를 지닌 블링크를 따라잡을 수 있는, 한계 이상의 신체 능력과 감각을 지닌 초인이었으니까."
+    },
+    {
+      "confidence": 0.94,
+      "current": "Now it was time to collect the price of the wager I’d made.",
+      "defect": "The draft omits that Jin intends to collect from his opponent, the immediate target of his counterattack.",
+      "id": "F05",
+      "rationale": "상대에게서 identifies the person who must pay, carrying the gambling metaphor into the attack.",
+      "replacement": "Now it was time to collect my winnings from the other side of the bet.",
+      "severity": "minor",
+      "source": "그리고 이제는, 내가 걸었던 판돈의 대가를 상대에게서 받아야 할 때였다."
+    }
+  ],
+  "summary": "The draft changes who had their thoughts read, misidentifies whose hostage Jin is, and loses a few consequential details in the System notice and final pursuit.",
+  "version": 1
+}
