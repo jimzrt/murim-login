@@ -1,19 +1,20 @@
 # Translation State
 
-- Last completed: 1162
-- Next chapter: 1163
-- Current block: 1160–1164 (3/5)
-- Latest translation: `translations/1162.md`
-- Latest summary: `summaries/beats/1162.md`
-- Safe profiles through: chapter 1162
+- Last completed: 1163
+- Next chapter: 1164
+- Current block: 1160–1164 (4/5)
+- Latest translation: `translations/1163.md`
+- Latest summary: `summaries/beats/1163.md`
+- Safe profiles through: chapter 1163
 
 ## Current Block
 
-- Jin arrives and learns that Morgoth has kept the Skeleton King alive as a trophy. Jin declares the Skeleton King his friend and attacks Morgoth, scorching him with a spear strike. Morgoth summons thousands of Dragon-tooth soldiers, and Jin recognizes Pai Chen among them.
+- Morgoth reveals that he turns powerful beings he kills or subdues into Guardians, including seven S-rank Hunters presumed dead in the Black Dragon’s invasion. Jin fights through the monster army, survives Morgoth’s Ice Wall and Hell Fire, and drives many monsters into retreat with One Against a Thousand. Exhausted, he faces Morgoth’s advancing Dragon-tooth soldiers as a flash appears beyond the horizon.
 
 ## Open Questions
 
-- Why is Pai Chen among Morgoth's soldiers?
+- What caused the flash beyond the horizon?
+- Can the soul-stolen Hunters be freed from Morgoth’s control?
 - What will happen in the confrontation between Jin and Morgoth?
 
 ## Exceptional Decision
