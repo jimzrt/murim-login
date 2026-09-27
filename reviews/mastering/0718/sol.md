@@ -4,31 +4,31 @@
 
 The Beast Miao King’s low voice reached me. I stayed silent for a moment before asking, “Is that why you left? Because you thought it was wrong to feel that way?”
 
-“To become the Palace Lord of the Nanman Beast Palace means putting this land and its tribespeople before anything else. But I became trapped by my personal feelings.”
+“To be Palace Lord of the Nanman Beast Palace is to put this land and its people before all else. But I let my personal feelings rule me.”
 
-I could see his enormous back, like a thousand-year-old megalith. Yet the back of the giant who had supported Nanman for so many years looked pitifully small at that moment, like a child’s.
+His back was as broad as an ancient megalith. Yet the man who had supported Nanman for so many years looked small now, almost like a child.
 
 “Do you know what I was thinking when I faced Baeksang for the last time?”
 
 I could guess, but I said nothing. The person who knew Baeksang best—and who had suffered most because of him—was right in front of me.
 
-“I wanted to save him somehow.”
+“I wanted to save him.”
 
 “……”
 
-“Even in that horrific scene, I wanted to save that bastard Baeksang, who had betrayed everyone in this land, myself included, and help him run far away.”
+“Even amid all that horror, I wanted to save that bastard who had betrayed me and everyone in this land. I wanted to help him escape somewhere far away.”
 
 They weren’t related by blood, but they were sworn brothers, as close as family. The Beast Miao King must have wanted to save Baeksang however he could. He must have wanted to absolve the man who had served as Dark Heaven’s hunting dog while the child he’d believed dead was held hostage.
 
 But Baeksang himself had refused.
 
-“He probably knew, too. That I was hesitating. That must be why he made that choice.”
+“He must have known I was hesitating. That’s why he made that choice.”
 
-The emotion in his voice was grief over being forced to end the life of his sworn younger brother—the man he had cherished more than his own life—with his own hands. It was also self-reproach for abandoning his duty as Palace Lord because of his personal feelings.
+The Beast Miao King’s words faded into the empty air. His voice held the grief of a man forced to kill the sworn younger brother he’d treasured more than his own life. It held guilt, too, for letting his personal feelings come before his duty as Palace Lord.
 
-“One diseased tree caused the forest to die. Yet the forest keeper is now pacing in front of the diseased tree that has already fallen. Could you call such a person a forest keeper?”
+“One diseased tree caused the forest to die. Yet the forest keeper stands beside that fallen tree, unable to leave it. Can you still call him a forest keeper?”
 
-I had been listening quietly to the Beast Miao King’s story. Then I broke the long silence.
+I broke the long silence.
 
 “Great Hero Yayul, I’m asking you this in all seriousness…”
 
@@ -40,15 +40,15 @@ My voice trailed off. Even now, I wasn’t sure I should say it. But I had to ge
 
 His back went rigid. I’d already started, though, so I pressed on.
 
-“What, is the Palace Lord some kind of god of heaven and earth? Don’t you have human emotions?”
+“What, is the Palace Lord some kind of god? Are you not allowed to have human feelings?”
 
 “You…”
 
-“Let’s be honest. Someone who spent their entire life with you, someone like family, just died. Who in this world could be fine after that? Are you supposed to be sadder just because other people died, too?”
+“Let’s be honest. Someone you spent your whole life with, someone as close as family, just died. Who in the world would be fine after that? Are you supposed to grieve for him less just because other people died too?”
 
 The Beast Miao King took a moment to answer my barrage of blunt questions.
 
-“Jin Taekyung, you as well?”
+“Jin Taekyung… would you feel the same?”
 
 I nodded.
 
@@ -56,7 +56,7 @@ I nodded.
 
 “……”
 
-“People around me can praise me as a chivalrous hero or a Great Hero, but I’m still a person in the end. Why would a Palace Lord be any different?”
+“People can call me a hero or a Great Hero all they want. I’m still human. Why would being Palace Lord make you any different?”
 
 I answered without hesitation. His broad back shifted.
 
@@ -64,19 +64,19 @@ I answered without hesitation. His broad back shifted.
 
 He slowly turned his head. For the first time since I’d entered the old shrine, I saw his face. He looked utterly haggard.
 
-“They were also Nanman people I had to protect.”
+“The ones who died were people of Nanman. It was my duty to protect them.”
 
-“And you protected them. Even after being branded a traitor, you came back despite the danger. It was thanks to you that countless others could be saved.”
+“And you did. Even after you were branded a traitor, you risked your life to come back. Countless others survived because you did.”
 
-I continued quietly.
+I continued more quietly.
 
 “The diseased trees have fallen, but the forest hasn’t died. It needs its forest keeper more than ever.”
 
-Many people had been sacrificed in this incident. But ironically, Nanman would grow even stronger.
+Many had died because of what happened. Yet, bitter as the thought was, Nanman would grow stronger.
 
-Because Baeksang had not been the only diseased tree in the vast forest called Nanman.
+Baeksang hadn’t been the only diseased tree in its vast forest.
 
-*The other chieftains. No—the traitors.*
+*The other chieftains. No—the other traitors.*
 
 Baeksang had joined forces with Dark Heaven for his child. They had followed him for nothing but their own safety and power.
 
@@ -132,9 +132,7 @@ For an instant, I seemed to hear Baeksang’s voice again, as I had in the dark 
 
 No answer came. Not from the tablet, and not from anywhere deep inside me.
 
-*If there really is such a thing as an afterlife, I hope that bastard—someone I could tear to pieces without feeling satisfied—gets to live an ordinary life unlike this one.*
-
-*I hope he can spend a peaceful life without losing anyone or sacrificing anyone, together with the child he missed so terribly.*
+Instead, I found myself wishing that, if there was an afterlife, that bastard I could have torn apart and still not forgiven might live an ordinary life this time. A peaceful one, where he lost no one and sacrificed no one, and could be with the child he had missed so desperately.
 
 *Damn it. How many people died because of him?*
 
@@ -148,13 +146,13 @@ In the end, this was all I could say.
 
 As I muttered the words, reddish light slipped through a gap in the shrine door and fell across the two tablets. As though that were their answer.
 
-Then, the next moment, a deep voice pierced my ears.
+Then a deep voice sounded behind me.
 
 “The sun’s already setting.”
 
 *Creeeak.*
 
-The old floorboards screamed. At last, the giant unfolded his crossed legs and rose from his seat, staring at me with calm eyes.
+The old floorboards protested. At last, the Beast Miao King unfolded his crossed legs and rose, meeting my eyes with a steady gaze.
 
 “If we head straight to the Inner Palace, we should still make it back in time for dinner.”
 
@@ -170,11 +168,11 @@ Nanman’s forest keeper had returned.
 
 Two days passed.
 
-When the Palace Lord, who had disappeared without a word, returned, the leadership—which had been thrown into confusion—quickly regained its stability. After taking a short rest at everyone’s urging, the Beast Miao King summoned me the following day.
+The Palace Lord’s return brought immediate relief to the leadership, which had been in turmoil since his unexplained disappearance. At everyone’s urging, the Beast Miao King took a short rest. The next day, he summoned me.
 
 Or rather, he summoned Jeok Cheongang and me.
 
-Jeok Cheongang arrived at the meeting room hastily thrown together over seven days and nights. The moment he saw the Beast Miao King sitting there, he said,
+Jeok arrived at the meeting room, which had been hastily put together over the past seven days and nights. The moment he saw the Beast Miao King seated inside, he said, “Look how our Miao King has grown. Sitting in the seat of honor and everything.”
 
 “……Oh. My apologies. Force of habit.”
 
@@ -192,19 +190,19 @@ The Beast Miao King had experienced that habit during the Great Faction War. Ban
 
 “Enough. Sit down. I don’t care for some wet-behind-the-ears brat summoning me, but I’ll let you say your piece.”
 
-The Beast Miao King seemed confused by the gangster-like way of speaking he hadn’t heard in a long time, so I opened my mouth politely.
+The Beast Miao King looked bewildered by this return to Jeok’s old way of speaking, so I offered a polite translation.
 
 “Just tell him what you need to. That means he’s listening.”
 
 “……Then, Old Master Jeok, may this junior speak?”
 
-“He really hates being asked questions in return. You’re still not fully recovered, so if you don’t want to suffer something nasty, speak right away.”
+“He hates it when you ask again. You’re still recovering, so unless you want to get hurt, get straight to it.”
 
 “……Understood.”
 
-Unlike the Jeok Cheongang in his memories, the one sitting before him looked much younger. The Beast Miao King glanced at him before carefully opening his mouth.
+The Beast Miao King glanced at Jeok, whose appearance was far younger than he remembered, and began carefully.
 
-“I asked you to join us, Old Master Jeok, because I wished to consult you about a grave matter.”
+“I asked you here because I wish to consult you about a grave matter.”
 
 “A grave matter?”
 
@@ -218,13 +216,13 @@ Unlike the Jeok Cheongang in his memories, the one sitting before him looked muc
 
 *This man really hasn’t changed.*
 
-The Beast Miao King looked at Jeok Cheongang with exactly that thought in his eyes, then took something from inside his robes and placed it on the table.
+The Beast Miao King gave Jeok a look that said exactly that, then took something from his robes and placed it on the table.
 
 *Thud.*
 
-It was something wrapped in thick cloth. But everyone in the room, myself included, could sense the ominous energy seeping out from within.
+It was wrapped in thick cloth, but everyone in the room could feel the ominous energy seeping through it.
 
-As the air suddenly grew heavy, Jeok Cheongang muttered as though groaning.
+The air grew heavy. Jeok spoke, his voice almost a groan.
 
 “……Demonic qi?”
 
@@ -238,13 +236,13 @@ I thought I knew where that demonic qi had come from and what lay beneath the cl
 
 “It’s the sacred stone. The one the guardian spirit carried.”
 
-“As you guessed. Though it is no longer a sacred stone.”
+“As you guessed. Though it can no longer be called sacred.”
 
 *Rustle.*
 
-The Beast Miao King answered in a troubled voice and peeled back the cloth. Instead of warm, dazzling radiance, a stone filled with murky darkness was revealed.
+The Beast Miao King pulled back the cloth. Where the stone had once shone with warm, dazzling light, it now held murky darkness.
 
-It had absorbed all the demonic qi flowing from the rift. Now, it was something that ought to be called a demonic stone, and the Beast Miao King’s gaze sank deeply as he looked at it.
+It had absorbed all the demonic qi that had poured from the rift. What lay before us now was a demonic stone. The Beast Miao King looked down at it, his expression somber.
 
 “I’m suppressing its demonic qi for now, but we can’t leave it like this forever. That’s why I asked you and Old Master Jeok here—to decide what to do with it.”
 

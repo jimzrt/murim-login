@@ -1,0 +1,45 @@
+{
+  "summary": "The assembled chapter omits one dialogue line and loses several source details preserved in the accepted baseline.",
+  "findings": [
+    {
+      "id": "F01",
+      "severity": "major",
+      "source": "Line 227",
+      "current": "The moment he saw the Beast Miao King sitting there, he said,\n\n“……Oh. My apologies. Force of habit.”",
+      "defect": "Jeok Cheongang’s teasing remark about the Beast Miao King sitting in the seat of honor is missing. The following apology is his reply to that remark, so omitting it also removes the joke’s setup.",
+      "replacement": "“Look at our Miao King, all grown up. He’s even sitting in the seat of honor.”",
+      "rationale": "The source has Jeok Cheongang say, “많이 컸네, 우리 묘왕이. 상석에 다 앉아 있고,” before the Beast Miao King apologizes for sitting there out of habit.",
+      "confidence": 0.99
+    },
+    {
+      "id": "F02",
+      "severity": "minor",
+      "source": "Line 37",
+      "current": "The emotion in his voice was grief over being forced to end the life of his sworn younger brother—the man he had cherished more than his own life—with his own hands.",
+      "defect": "The assembled copy omits the image of the Beast Miao King’s muttering fading into empty air.",
+      "replacement": "The Beast Miao King’s muttering faded into the empty air.",
+      "rationale": "The source explicitly says, “야수묘왕의 뇌까림이 공허하게 흩어진다.” The accepted baseline preserved this image.",
+      "confidence": 0.98
+    },
+    {
+      "id": "F03",
+      "severity": "minor",
+      "source": "Line 245",
+      "current": "I don’t care for some wet-behind-the-ears brat summoning me, but I’ll let you say your piece.",
+      "defect": "“Summoning me” narrows the complaint: the source objects to being ordered around, not simply being summoned.",
+      "replacement": "I don’t care for some wet-behind-the-ears brat telling me where to go, but I’ll let you say your piece.",
+      "rationale": "“오라 가라 한 건 마음에 안 들지만” means he dislikes being told to come and go; the accepted baseline rendered this as “ordering me around.”",
+      "confidence": 0.91
+    },
+    {
+      "id": "F04",
+      "severity": "minor",
+      "source": "Line 103",
+      "current": "More than twenty chieftains had shaken their branches, and countless leaves had fallen into bloody water.",
+      "defect": "The assembled copy drops the source’s details that the chieftains were drunk on greed and that the branches grew from their own bodies, weakening the extended tree metaphor.",
+      "replacement": "More than twenty chieftains, drunk on greed, had shaken the branches growing from their bodies, and countless leaves had fallen into the bloodied water.",
+      "rationale": "The source says “탐욕에 취해 제 몸에 달린 나뭇가지를 흔들었고,” and the accepted baseline preserved both details.",
+      "confidence": 0.96
+    }
+  ]
+}

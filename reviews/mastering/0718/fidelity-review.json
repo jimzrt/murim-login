@@ -1,0 +1,36 @@
+{
+  "findings": [
+    {
+      "confidence": 0.98,
+      "current": "The emotion in his voice was grief over being forced to end the life of his sworn younger brother—the man he had cherished more than his own life—with his own hands.",
+      "defect": "The assembled copy omits the image of the Beast Miao King’s muttering fading into empty air.",
+      "id": "F02",
+      "rationale": "The source explicitly says, “야수묘왕의 뇌까림이 공허하게 흩어진다.” The accepted baseline preserved this image.",
+      "replacement": "The Beast Miao King’s muttering faded into the empty air.",
+      "severity": "minor",
+      "source": "Line 37"
+    },
+    {
+      "confidence": 0.91,
+      "current": "I don’t care for some wet-behind-the-ears brat summoning me, but I’ll let you say your piece.",
+      "defect": "“Summoning me” narrows the complaint: the source objects to being ordered around, not simply being summoned.",
+      "id": "F03",
+      "rationale": "“오라 가라 한 건 마음에 안 들지만” means he dislikes being told to come and go; the accepted baseline rendered this as “ordering me around.”",
+      "replacement": "I don’t care for some wet-behind-the-ears brat telling me where to go, but I’ll let you say your piece.",
+      "severity": "minor",
+      "source": "Line 245"
+    },
+    {
+      "confidence": 0.96,
+      "current": "More than twenty chieftains had shaken their branches, and countless leaves had fallen into bloody water.",
+      "defect": "The assembled copy drops the source’s details that the chieftains were drunk on greed and that the branches grew from their own bodies, weakening the extended tree metaphor.",
+      "id": "F04",
+      "rationale": "The source says “탐욕에 취해 제 몸에 달린 나뭇가지를 흔들었고,” and the accepted baseline preserved both details.",
+      "replacement": "More than twenty chieftains, drunk on greed, had shaken the branches growing from their bodies, and countless leaves had fallen into the bloodied water.",
+      "severity": "minor",
+      "source": "Line 103"
+    }
+  ],
+  "summary": "The assembled chapter omits one dialogue line and loses several source details preserved in the accepted baseline.",
+  "version": 1
+}
