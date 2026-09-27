@@ -160,7 +160,7 @@ Even Zhuge Feng eventually came to question me.
 
 The sheer size of the island Donghu Stronghold had made its headquarters was one problem, but the surrounding terrain was an even greater one.
 
-Cliffs stretching hundreds of jang[^1] surrounded it on every side, making it impossible to approach by land, while an even greater expanse of river lay beyond them.
+Cliffs stretching hundreds of zhang surrounded it on every side, making it impossible to approach by land, while an even greater expanse of river lay beyond them.
 
 With only four swift ships and roughly three hundred people, there was a limit to how much we could search.
 
@@ -268,7 +268,7 @@ As if pilgrims being massacred right in Wudang’s own front yard weren’t enou
 
 For a moment, the words *Dark Heaven* crossed my mind, but I soon shook my head.
 
-This was Murim.[^2] It was full of lunatics who made modern serial killers look like amateurs.
+This was Murim. It was full of lunatics who made modern serial killers look like amateurs.
 
 Even if someone were murdered in broad daylight on a main road, it would not be all that surprising.
 
@@ -291,6 +291,3 @@ But one bastard—or rather, one gentleman—seemed to have other ideas.
 “Nope. Stay. Stay.”
 
 *Please stay.*
-
-[^1]: A jang is ten traditional Korean ja, about 3.03 m (9.94 ft).
-[^2]: Murim is the martial world of sects, clans, and martial artists.
